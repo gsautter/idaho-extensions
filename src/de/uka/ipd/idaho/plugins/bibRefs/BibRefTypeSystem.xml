@@ -1,0 +1,309 @@
+<bibRefTypeSystem>
+	<bibRefType name="book" label="Book / Thesis / Monograph">
+		<constraint require="author"/>
+		<constraint require="title"/>
+		<constraint require="year" pattern="((1[5-9][0-9][0-9])|(20[0-9][0-9]))" message="Year of publication is missing or invalid."/>
+		<constraint require="publisher location journalOrPublisher" message="Publisher and/or location are missing."/>
+		<constraint exclude="pagination"/>
+		<constraint exclude="journal" message="Books don't have a journal name."/>
+		<constraint exclude="volume issue numero" message=">Books don't have a volume, issue, or numero."/>
+		<constraint exclude="volumeTitle" message="Books don't have a volume title."/>
+		<constraint exclude="editor" message="Books don't have editors, make them authors."/>
+	  	<originTemplate>
+			<xsl:call-template name="locationAndPublisherOrigin"/>
+	  	</originTemplate>
+	  	<modsTemplate>
+			<xsl:call-template name="title"/>
+			<xsl:call-template name="authors"/>
+			<mods:typeOfResource>text</mods:typeOfResource>
+			<xsl:call-template name="originInfo"/>
+			<xsl:call-template name="urls"/>
+	  	</modsTemplate>
+	</bibRefType>
+	
+	<bibRefType name="book chapter" label="Book Chapter">
+		<constraint require="author"/>
+		<constraint require="title"/>
+		<constraint require="year" pattern="((1[5-9][0-9][0-9])|(20[0-9][0-9]))" message="Year of publication is missing or invalid."/>
+		<constraint require="publisher location journalOrPublisher" message="Publisher and/or location are missing."/>
+		<constraint require="volumeTitle" message="Book title is missing."/>
+		<constraint require="pagination" pattern="([1-9][0-9]{0,4})(\s*\-+\s*[1-9][0-9]*)?"/>
+		<constraint condition="(contains(./@pagination, '-') and (normalize-space(substring-before(./@pagination, '-')) > normalize-space(substring-after(./@pagination, '-'))))" message="Pagination is invalid, first page has to be less than last."/>
+		<constraint exclude="journal" message="Books chapters don't have a journal name."/>
+		<constraint exclude="volume issue numero" message=">Books chapters don't have a volume, issue, or numero."/>
+	  	<originTemplate>
+			<xsl:value-of select="./volumeTitle"/>, <xsl:call-template name="locationAndPublisherOrigin"/>
+	  	</originTemplate>
+	  	<modsTemplate>
+			<xsl:call-template name="title"/>
+			<xsl:call-template name="authors"/>
+			<mods:typeOfResource>text</mods:typeOfResource>
+			<mods:relatedItem type="host">
+				<xsl:call-template name="originInfo"/>
+				<xsl:call-template name="editors"/>
+				<mods:titleInfo>
+					<mods:title><xsl:value-of select="./volumeTitle"/></mods:title>
+				</mods:titleInfo>
+				<mods:part>
+					<xsl:call-template name="pagination"/>
+				</mods:part>
+			</mods:relatedItem>
+			<xsl:call-template name="urls"/>
+	  	</modsTemplate>
+	</bibRefType>
+	
+	<bibRefType name="proceedings" label="Proceedings Volume">
+		<constraint require="author"/>
+		<constraint require="title"/>
+		<!--constraint condition="(not(starts-with(./@title, 'Proc')))" message="Volume title does not match proceedings."/-->
+		<constraint attributes="title" pattern="(((In(\s+(The|the))?)|(in(\s+(The|the))?)|The|the)\s+)?Proc(\.|eedings)\s+.*" message="Title does not match proceedings."/>
+		<constraint require="year" pattern="((1[5-9][0-9][0-9])|(20[0-9][0-9]))" message="Year of publication is missing or invalid."/>
+		<constraint exclude="journal" message="Proceedings don't have a journal name."/>
+		<constraint exclude="volume issue numero" message=">Proceedings don't have a volume, issue, or numero."/>
+		<constraint exclude="volumeTitle" message="Proceedings don't have a volume title."/>
+		<constraint exclude="editor" message="Proceedings don't have editors, make them authors."/>
+	  	<originTemplate>
+			<xsl:call-template name="locationAndPublisherOrigin"/>
+	  	</originTemplate>
+	  	<modsTemplate>
+			<xsl:call-template name="title"/>
+			<xsl:call-template name="authors"/>
+			<mods:typeOfResource>text</mods:typeOfResource>
+			<xsl:call-template name="originInfo"/>
+			<xsl:call-template name="urls"/>
+	  	</modsTemplate>
+	</bibRefType>
+	
+	<bibRefType name="proceedings paper" label="Proceedings Paper">
+		<constraint require="author"/>
+		<constraint require="title"/>
+		<constraint require="year" pattern="((1[5-9][0-9][0-9])|(20[0-9][0-9]))" message="Year of publication is missing or invalid."/>
+		<constraint require="volumeTitle" message="Volume title is missing."/>
+		<!--constraint condition="(not(starts-with(./@volumeTitle, 'Proc')))" message="Volume title does not match proceedings."/-->
+		<constraint attributes="volumeTitle" pattern="(((In(\s+(The|the))?)|(in(\s+(The|the))?)|The|the)\s+)?Proc(\.|eedings)\s+.*" message="Volume title does not match proceedings."/>
+		<constraint attributes="pagination" pattern="([1-9][0-9]{0,4})(\s*\-+\s*[1-9][0-9]*)?"/>
+		<constraint condition="(contains(./@pagination, '-') and (normalize-space(substring-before(./@pagination, '-')) > normalize-space(substring-after(./@pagination, '-'))))" message="Pagination is invalid, first page has to be less than last."/>
+		<constraint exclude="journal" message="Proceedings papers don't have a journal name."/>
+		<constraint exclude="volume issue numero" message=">Proceedings papers don't have a volume, issue, or numero."/>
+	  	<originTemplate>
+			<xsl:value-of select="./volumeTitle"/><xsl:if test="./location or ./publisher or ./journalOrPublisher">, <xsl:call-template name="locationAndPublisherOrigin"/></xsl:if>
+	  	</originTemplate>
+	  	<modsTemplate>
+			<xsl:call-template name="title"/>
+			<xsl:call-template name="authors"/>
+			<mods:typeOfResource>text</mods:typeOfResource>
+			<mods:relatedItem type="host">
+				<xsl:call-template name="originInfo"/>
+				<xsl:call-template name="editors"/>
+				<mods:titleInfo>
+					<mods:title><xsl:value-of select="./volumeTitle"/></mods:title>
+				</mods:titleInfo>
+				<xsl:if test="./pagination">
+					<mods:part>
+						<xsl:call-template name="pagination"/>
+					</mods:part>
+				</xsl:if>
+			</mods:relatedItem>
+			<xsl:call-template name="urls"/>
+	  	</modsTemplate>
+	</bibRefType>
+	
+	<bibRefType name="journal volume" label="Journal Volume">
+		<constraint require="author"/>
+		<constraint require="year" pattern="((1[5-9][0-9][0-9])|(20[0-9][0-9]))" message="Year of publication is missing or invalid."/>
+		<constraint require="journal journalOrPublisher" message="Journal name is missing."/>
+		<constraint require="volume issue numero" pattern="[1-9][0-9]*" message="Volume, issue, and numero are missing or invalid."/>
+		<constraint exclude="pagination"/>
+		<constraint condition="(not(./@title) and ./@editor)" message="Only special issues have editors."/>
+	  	<originTemplate>
+			<xsl:call-template name="journalOrigin"/>
+	  	</originTemplate>
+	  	<modsTemplate>
+			<xsl:call-template name="title"/>
+			<xsl:call-template name="authors"/>
+			<mods:typeOfResource>text</mods:typeOfResource>
+			<mods:relatedItem type="host">
+				<mods:titleInfo>
+					<mods:title><xsl:value-of select="./journal"/></mods:title>
+				</mods:titleInfo>
+				<mods:part>
+					<mods:date><xsl:value-of select="./year"/></mods:date>
+					<xsl:call-template name="partDesignator"/>
+				</mods:part>
+			</mods:relatedItem>
+			<xsl:call-template name="urls"/>
+	  	</modsTemplate>
+	</bibRefType>
+	
+	<bibRefType name="journal article" label="Journal Article">
+		<constraint require="author"/>
+		<constraint require="title"/>
+		<constraint require="year" pattern="((1[5-9][0-9][0-9])|(20[0-9][0-9]))" message="Year of publication is missing or invalid."/>
+		<constraint require="journal journalOrPublisher" message="Journal name is missing."/>
+		<constraint require="volume issue numero" pattern="[1-9][0-9]*" message="Volume, issue, and numero are missing or invalid."/>
+		<constraint require="pagination" pattern="([1-9][0-9]{0,6})(\s*\-+\s*[1-9][0-9]*)?"/>
+		<constraint condition="(contains(./@pagination, '-') and (normalize-space(substring-before(./@pagination, '-')) > normalize-space(substring-after(./@pagination, '-'))))" message="Pagination is invalid, first page has to be less than last."/>
+		<constraint condition="(not(./@volumeTitle) and ./@editor)" message="Only special issues have editors."/>
+	  	<originTemplate>
+			<xsl:choose>
+				<xsl:when test="./volumeTitle"><xsl:value-of select="./volumeTitle"/> (<xsl:call-template name="journalOrigin"/>)</xsl:when>
+				<xsl:otherwise><xsl:call-template name="journalOrigin"/></xsl:otherwise>
+			</xsl:choose>
+	  	</originTemplate>
+	  	<modsTemplate>
+			<xsl:call-template name="title"/>
+			<xsl:call-template name="authors"/>
+			<mods:typeOfResource>text</mods:typeOfResource>
+			<mods:relatedItem type="host">
+				<mods:titleInfo>
+					<mods:title><xsl:value-of select="./journal"/></mods:title>
+				</mods:titleInfo>
+				<xsl:call-template name="editors"/>
+				<mods:part>
+					<mods:date><xsl:value-of select="./year"/></mods:date>
+					<xsl:if test="./volumeTitle">
+						<mods:detail type="title">
+							<mods:title><xsl:value-of select="./volumeTitle"/></mods:title>
+						</mods:detail>
+					</xsl:if>
+					<xsl:call-template name="partDesignator"/>
+					<xsl:call-template name="pagination"/>
+				</mods:part>
+			</mods:relatedItem>
+			<xsl:call-template name="urls"/>
+	  	</modsTemplate>
+	</bibRefType>
+	
+	<bibRefType name="url" matchStrictness="4" label="URL / Website">
+		<constraint require="title"/>
+		<constraint require="publicationUrl"/>
+		<constraint exclude="pagination" message="URLs don't have a pagination."/>
+		<constraint exclude="editor" message="URLs don't have editors."/>
+		<constraint exclude="volumeTitle" message="URLs don't have a volume title."/>
+		<constraint exclude="location" message="URLs don't have a location."/>
+		<constraint exclude="journal" message="URLs don't have a journal name."/>
+		<constraint exclude="volume issue numero" message=">URLs don't have a volume, issue, or numero."/>
+		<!--constraint exclude="publisher" message="URLs don't have a publisher."/-->
+		<!--constraint exclude="journalOrPublisher" message="URLs don't have a journal name or publisher."/-->
+	  	<originTemplate>
+			<xsl:value-of select="./publicationUrl"/>
+	  	</originTemplate>
+	  	<modsTemplate>
+			<xsl:call-template name="title"/>
+			<xsl:call-template name="authors"/>
+			<mods:typeOfResource>text</mods:typeOfResource>
+			<xsl:if test="./publisher">
+				<xsl:call-template name="originInfo"/>
+			</xsl:if>
+			<xsl:call-template name="urls"/>
+	  	</modsTemplate>
+	</bibRefType>
+	
+	
+	<xsl:template name="pagination">
+		<mods:extent unit="page">
+			<xsl:choose>
+				<xsl:when test="contains(./pagination, '-')">
+					<mods:start><xsl:value-of select="normalize-space(substring-before(./pagination, '-'))"/></mods:start>
+					<mods:end><xsl:value-of select="normalize-space(substring-after(./pagination, '-'))"/></mods:end>
+				</xsl:when>
+				<xsl:otherwise>
+					<mods:start><xsl:value-of select="normalize-space(./pagination)"/></mods:start>
+					<mods:end><xsl:value-of select="normalize-space(./pagination)"/></mods:end>
+				</xsl:otherwise>
+			</xsl:choose>
+		</mods:extent>
+	</xsl:template>
+	
+	<xsl:template name="originInfo">
+		<mods:originInfo>
+			<xsl:if test="./year"><mods:dateIssued><xsl:value-of select="./year"/></mods:dateIssued></xsl:if>
+			<xsl:if test="./publisher"><mods:publisher><xsl:value-of select="./publisher"/></mods:publisher></xsl:if>
+			<xsl:if test="./location">
+				<mods:place>
+					<mods:placeTerm><xsl:value-of select="./location"/></mods:placeTerm>
+				</mods:place>
+			</xsl:if>
+		</mods:originInfo>
+	</xsl:template>
+	
+	<xsl:template name="urls">
+		<xsl:for-each select="./publicationUrl">
+			<mods:location>
+				<mods:url><xsl:value-of select="."/></mods:url>
+			</mods:location>
+		</xsl:for-each>
+	</xsl:template>
+	
+	<xsl:template name="title">
+  		<mods:titleInfo>
+			<mods:title><xsl:value-of select="./title"/></mods:title>
+		</mods:titleInfo>
+	</xsl:template>
+	
+	<xsl:template name="authors">
+		<xsl:for-each select="./author">
+			<mods:name type="personal">
+				<mods:role>
+					<mods:roleTerm>Author</mods:roleTerm>
+				</mods:role>
+				<mods:namePart><xsl:value-of select="."/></mods:namePart>
+			</mods:name>
+		</xsl:for-each>
+	</xsl:template>
+	
+	<xsl:template name="editors">
+		<xsl:for-each select="./editor">
+			<mods:name type="personal">
+				<mods:role>
+					<mods:roleTerm>Editor</mods:roleTerm>
+				</mods:role>
+				<mods:namePart><xsl:value-of select="."/></mods:namePart>
+			</mods:name>
+		</xsl:for-each>
+	</xsl:template>
+	
+	<xsl:template name="partDesignator">
+		<xsl:if test="./volume">
+			<mods:detail type="volume">
+				<mods:number><xsl:value-of select="./volume"/></mods:number>
+			</mods:detail>
+		</xsl:if>
+		<xsl:if test="./issue">
+			<mods:detail type="issue">
+				<mods:number><xsl:value-of select="./issue"/></mods:number>
+			</mods:detail>
+		</xsl:if>
+		<xsl:if test="./numero">
+			<mods:detail type="numero">
+				<mods:number><xsl:value-of select="./numero"/></mods:number>
+			</mods:detail>
+		</xsl:if>
+	</xsl:template>
+	
+	<xsl:template name="locationAndPublisherOrigin">
+		<xsl:choose>
+			<xsl:when test="./location and ./publisher"><xsl:value-of select="./location"/>: <xsl:value-of select="./publisher"/></xsl:when>
+			<xsl:when test="./location"><xsl:value-of select="./location"/></xsl:when>
+			<xsl:when test="./publisher"><xsl:value-of select="./publisher"/></xsl:when>
+			<xsl:when test="./journalOrPublisher"><xsl:value-of select="./journalOrPublisher"/></xsl:when>
+		</xsl:choose>
+	</xsl:template>
+	
+	<xsl:template name="journalOrigin">
+		<xsl:choose>
+			<xsl:when test="./journal"><xsl:value-of select="./journal"/></xsl:when>
+			<xsl:when test="./journalOrPublisher"><xsl:value-of select="./journalOrPublisher"/></xsl:when>
+		</xsl:choose>
+		<xsl:choose>
+			<xsl:when test="./numero and ./issue and ./volume"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./volume"/> (<xsl:value-of select="./issue"/>), No. <xsl:value-of select="./numero"/></xsl:when>
+			<xsl:when test="./numero and ./issue"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./issue"/>, No. <xsl:value-of select="./numero"/></xsl:when>
+			<xsl:when test="./numero and ./volume"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./volume"/>, No. <xsl:value-of select="./numero"/></xsl:when>
+			<xsl:when test="./issue and ./volume"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./volume"/> (<xsl:value-of select="./issue"/>)</xsl:when>
+			<xsl:when test="./volume"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./volume"/></xsl:when>
+			<xsl:when test="./numero"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./numero"/></xsl:when>
+			<xsl:when test="./issue"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./issue"/></xsl:when>
+		</xsl:choose>
+	</xsl:template>
+	
+</bibRefTypeSystem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+	Does all the packing. That is, creates the files that live in dist/
+-->
+
+<project name="dist">
+	<target name="jars" depends="feedback,imaging,bibrefutils">
+	</target>
+	
+	<target name="feedback">
+		<delete file="${jar.feedback}" />
+		<jar destfile="${jar.feedback}">
+			<fileset dir="${build.home}/classes" includes="**/feedback/**/**.class"/>
+			<fileset dir="${src.home}" includes="**/feedback/**/**.java"/>
+			<fileset dir="." includes="LICENSE.txt"/>
+		</jar>
+	</target>
+	
+	<target name="imaging">
+		<delete file="${jar.imaging}" />
+		<jar destfile="${jar.imaging}">
+			<fileset dir="${build.home}/classes" includes="**/imaging/**/**.class"/>
+			<fileset dir="${src.home}" includes="**/imaging/**/**.java"/>
+			<fileset dir="${src.home}" includes="**/imaging/**/**.afm"/>
+			<fileset dir="${src.home}" includes="**/imaging/**/**.html"/>
+			<fileset dir="${src.home}" includes="**/imaging/**/**.java"/>
+			<fileset dir="." includes="LICENSE.txt"/>
+		</jar>
+	</target>
+	
+	<target name="bibrefutils">
+		<delete file="${jar.bibrefutils}" />
+		<jar destfile="${jar.bibrefutils}">
+			<fileset dir="${build.home}/classes" includes="**/bibRefs/**/**.class"/>
+			<fileset dir="${src.home}" includes="**/bibRefs/**/**.java"/>
+			<fileset dir="${src.home}" includes="**/bibRefs/**/**.xml"/>
+			<fileset dir="${src.home}" includes="**/bibRefs/**/**.xslt"/>
+			<fileset dir="." includes="LICENSE.txt"/>
+		</jar>
+	</target>
+</project>
