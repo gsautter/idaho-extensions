@@ -190,8 +190,8 @@ public class CheckBoxFeedbackPanelRenderer extends FeedbackPanelHtmlRenderer {
 				blw.writeLine("<td class=\"inputCell\">");
 				
 				blw.write("<p id=\"input" + l + "\">");
-				blw.write("<input type=\"checkbox\" id=\"checkbox" + l + "\" value=\"T\"" + (this.cbfp.getStateAt(l) ? " checked" : "") + " onclick=\"change(" + l + ");\">");
-				blw.write("<input type=\"hidden\" name=\"state" + l + "\" id=\"state" + l + "\" value=\"" + (this.cbfp.getStateAt(l) ? "T" : "F") + "\">");
+				blw.write("<input type=\"checkbox\" id=\"checkbox" + l + "\" value=\"T\"" + (this.cbfp.getStateAt(l) ? " checked" : "") + " onclick=\"change(" + l + ");\" />");
+				blw.write("<input type=\"hidden\" name=\"state" + l + "\" id=\"state" + l + "\" value=\"" + (this.cbfp.getStateAt(l) ? "T" : "F") + "\" />");
 				blw.writeLine("</p>");
 				
 				blw.writeLine("</td>");

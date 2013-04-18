@@ -214,7 +214,7 @@ public class AssignmentDisambiguationFeedbackPanelRenderer extends FeedbackPanel
 				
 				if (this.adfp.isMultiSelectEnabledAt(l)) {
 					blw.write("</select>");
-					blw.writeLine("<input type=\"button\" value=\"&#x25BC;\" style=\"width: 16px; height: 16px; padding: 0px; vertical-align: top; text-align: center;\" onclick=\"document.getElementsByName('option" + l + "')[0].focus();\">");
+					blw.writeLine("<input type=\"button\" value=\"&#x25BC;\" style=\"width: 16px; height: 16px; padding: 0px; vertical-align: top; text-align: center;\" onclick=\"document.getElementsByName('option" + l + "')[0].focus();\" />");
 					blw.writeLine("<script type=\"text/javascript\">");
 					blw.writeLine("var selectedIndex" + l + " = " + fOpt + ";");
 					blw.writeLine("</script>");

@@ -1143,8 +1143,8 @@ public class AnnotationEditorFeedbackPanelRenderer extends FeedbackPanelHtmlRend
 						state = "O";
 						type = "";
 					}
-					blw.writeLine("<input type=\"hidden\" name=\"part" + a + "_token" + t + "_state\" value=\"" + state + "\">");
-					blw.writeLine("<input type=\"hidden\" name=\"part" + a + "_token" + t + "_type\" value=\"" + type + "\">");
+					blw.writeLine("<input type=\"hidden\" name=\"part" + a + "_token" + t + "_state\" value=\"" + state + "\" />");
+					blw.writeLine("<input type=\"hidden\" name=\"part" + a + "_token" + t + "_type\" value=\"" + type + "\" />");
 				}
 				blw.writeLine("");
 			}

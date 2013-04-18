@@ -406,7 +406,7 @@ public class BibRefEditorFormHandler implements BibRefConstants {
 				blw.writeLine("<option value=\"" + brts[t].name + "\">" + brts[t].getLabel() + "</option>");
 			blw.writeLine("</select></td>");
 			blw.writeLine("<td class=\"bibRefEditorFieldLabel\" style=\"text-align: right;\">" + idTypes[0] + " Identifier" + ":</td>");
-			blw.writeLine("<td class=\"bibRefEditorFieldCell\"><div style=\"border-width: 2px; border-style:solid;\" id=\"" + ("ID-" + idTypes[0]) + "_border\"><input class=\"bibRefEditorField\" style=\"width: 100%;\" id=\"" + ("ID-" + idTypes[0]) + "_field\" name=\"" + ("ID-" + idTypes[0]) + "\" onchange=\"bibRefEditor_fieldValueChanged('" + ("ID-" + idTypes[0]) + "');\"></div></td>");
+			blw.writeLine("<td class=\"bibRefEditorFieldCell\"><div style=\"border-width: 2px; border-style:solid;\" id=\"" + ("ID-" + idTypes[0]) + "_border\"><input class=\"bibRefEditorField\" style=\"width: 100%;\" id=\"" + ("ID-" + idTypes[0]) + "_field\" name=\"" + ("ID-" + idTypes[0]) + "\" onchange=\"bibRefEditor_fieldValueChanged('" + ("ID-" + idTypes[0]) + "');\" /></div></td>");
 		}
 		else {
 			blw.writeLine("<td colspan=\"3\" class=\"bibRefEditorFieldCell\"><select class=\"bibRefEditorField\" style=\"width: 100%;\" id=\"" + PUBLICATION_TYPE_ATTRIBUTE + "_field\" name=\"" + PUBLICATION_TYPE_ATTRIBUTE + "\" onchange=\"bibRefEditor_refTypeChanged();\">");
@@ -421,24 +421,24 @@ public class BibRefEditorFormHandler implements BibRefConstants {
 			blw.writeLine("<tr>");
 			if (((f+1) < BibRefEditor.fieldNames.length) && YEAR_ANNOTATION_TYPE.equals(BibRefEditor.fieldNames[f]) && PAGINATION_ANNOTATION_TYPE.equals(BibRefEditor.fieldNames[f+1])) {
 				blw.writeLine("<td class=\"bibRefEditorFieldLabel\" style=\"text-align: right;\">" + BibRefEditor.getFieldLabel(BibRefEditor.fieldNames[f]) + ":</td>");
-				blw.writeLine("<td class=\"bibRefEditorFieldCell\"><div style=\"border-width: 2px; border-style:solid;\" id=\"" + BibRefEditor.fieldNames[f] + "_border\"><input class=\"bibRefEditorField\" style=\"width: 100%;\" id=\"" + BibRefEditor.fieldNames[f] + "_field\" name=\"" + BibRefEditor.fieldNames[f] + "\" onchange=\"bibRefEditor_fieldValueChanged('" + BibRefEditor.fieldNames[f] + "');\"></div></td>");
+				blw.writeLine("<td class=\"bibRefEditorFieldCell\"><div style=\"border-width: 2px; border-style:solid;\" id=\"" + BibRefEditor.fieldNames[f] + "_border\"><input class=\"bibRefEditorField\" style=\"width: 100%;\" id=\"" + BibRefEditor.fieldNames[f] + "_field\" name=\"" + BibRefEditor.fieldNames[f] + "\" onchange=\"bibRefEditor_fieldValueChanged('" + BibRefEditor.fieldNames[f] + "');\" /></div></td>");
 				f++;
 				blw.writeLine("<td class=\"bibRefEditorFieldLabel\" style=\"text-align: right;\">" + BibRefEditor.getFieldLabel(BibRefEditor.fieldNames[f]) + ":</td>");
-				blw.writeLine("<td class=\"bibRefEditorFieldCell\"><div style=\"border-width: 2px; border-style:solid;\" id=\"" + BibRefEditor.fieldNames[f] + "_border\"><input class=\"bibRefEditorField\" style=\"width: 100%;\" id=\"" + BibRefEditor.fieldNames[f] + "_field\" name=\"" + BibRefEditor.fieldNames[f] + "\" onchange=\"bibRefEditor_fieldValueChanged('" + BibRefEditor.fieldNames[f] + "');\"></div></td>");
+				blw.writeLine("<td class=\"bibRefEditorFieldCell\"><div style=\"border-width: 2px; border-style:solid;\" id=\"" + BibRefEditor.fieldNames[f] + "_border\"><input class=\"bibRefEditorField\" style=\"width: 100%;\" id=\"" + BibRefEditor.fieldNames[f] + "_field\" name=\"" + BibRefEditor.fieldNames[f] + "\" onchange=\"bibRefEditor_fieldValueChanged('" + BibRefEditor.fieldNames[f] + "');\" /></div></td>");
 			}
 			else if (PART_DESIGNATOR_ANNOTATION_TYPE.equals(BibRefEditor.fieldNames[f])) {
 				blw.writeLine("<td class=\"bibRefEditorFieldLabel\" style=\"text-align: right;\">Part Designators:</td>");
 				blw.write("<td colspan=\"3\" class=\"bibRefEditorFieldCell\"><div style=\"border-width: 2px; border-style:solid;\" id=\"" + BibRefEditor.fieldNames[f] + "_border\">");
-				blw.write(" " + VOLUME_DESIGNATOR_ANNOTATION_TYPE + ": <input class=\"bibRefEditorPartField\" style=\"width: 40px;\" id=\"" + VOLUME_DESIGNATOR_ANNOTATION_TYPE + "_field\" name=\"" + VOLUME_DESIGNATOR_ANNOTATION_TYPE + "\" onchange=\"bibRefEditor_fieldValueChanged('" + BibRefEditor.fieldNames[f] + "');\">");
-				blw.write(" " + ISSUE_DESIGNATOR_ANNOTATION_TYPE + ": <input class=\"bibRefEditorPartField\" style=\"width: 40px;\" id=\"" + ISSUE_DESIGNATOR_ANNOTATION_TYPE + "_field\" name=\"" + ISSUE_DESIGNATOR_ANNOTATION_TYPE + "\" onchange=\"bibRefEditor_fieldValueChanged('" + BibRefEditor.fieldNames[f] + "');\">");
-				blw.write(" " + NUMERO_DESIGNATOR_ANNOTATION_TYPE + ": <input class=\"bibRefEditorPartField\" style=\"width: 40px;\" id=\"" + NUMERO_DESIGNATOR_ANNOTATION_TYPE + "_field\" name=\"" + NUMERO_DESIGNATOR_ANNOTATION_TYPE + "\" onchange=\"bibRefEditor_fieldValueChanged('" + BibRefEditor.fieldNames[f] + "');\">");
+				blw.write(" " + VOLUME_DESIGNATOR_ANNOTATION_TYPE + ": <input class=\"bibRefEditorPartField\" style=\"width: 40px;\" id=\"" + VOLUME_DESIGNATOR_ANNOTATION_TYPE + "_field\" name=\"" + VOLUME_DESIGNATOR_ANNOTATION_TYPE + "\" onchange=\"bibRefEditor_fieldValueChanged('" + BibRefEditor.fieldNames[f] + "');\" />");
+				blw.write(" " + ISSUE_DESIGNATOR_ANNOTATION_TYPE + ": <input class=\"bibRefEditorPartField\" style=\"width: 40px;\" id=\"" + ISSUE_DESIGNATOR_ANNOTATION_TYPE + "_field\" name=\"" + ISSUE_DESIGNATOR_ANNOTATION_TYPE + "\" onchange=\"bibRefEditor_fieldValueChanged('" + BibRefEditor.fieldNames[f] + "');\" />");
+				blw.write(" " + NUMERO_DESIGNATOR_ANNOTATION_TYPE + ": <input class=\"bibRefEditorPartField\" style=\"width: 40px;\" id=\"" + NUMERO_DESIGNATOR_ANNOTATION_TYPE + "_field\" name=\"" + NUMERO_DESIGNATOR_ANNOTATION_TYPE + "\" onchange=\"bibRefEditor_fieldValueChanged('" + BibRefEditor.fieldNames[f] + "');\" />");
 				blw.writeLine("</div></td>");
 			}
 			else {
 				if (AUTHOR_ANNOTATION_TYPE.equals(BibRefEditor.fieldNames[f]) || EDITOR_ANNOTATION_TYPE.equals(BibRefEditor.fieldNames[f]))
 					blw.writeLine("<td class=\"bibRefEditorFieldLabel\" style=\"text-align: right;\">" + (StringUtils.capitalize(BibRefEditor.fieldNames[f]) + "s (use '&amp;' to separate)") + ":</td>");
 				else blw.writeLine("<td class=\"bibRefEditorFieldLabel\" style=\"text-align: right;\">" + BibRefEditor.getFieldLabel(BibRefEditor.fieldNames[f]) + ":</td>");
-				blw.writeLine("<td colspan=\"3\" class=\"bibRefEditorFieldCell\"><div style=\"border-width: 2px; border-style:solid;\" id=\"" + BibRefEditor.fieldNames[f] + "_border\"><input class=\"bibRefEditorField\" style=\"width: 100%;\" id=\"" + BibRefEditor.fieldNames[f] + "_field\" name=\"" + BibRefEditor.fieldNames[f] + "\" onchange=\"bibRefEditor_fieldValueChanged('" + BibRefEditor.fieldNames[f] + "');\"></div></td>");
+				blw.writeLine("<td colspan=\"3\" class=\"bibRefEditorFieldCell\"><div style=\"border-width: 2px; border-style:solid;\" id=\"" + BibRefEditor.fieldNames[f] + "_border\"><input class=\"bibRefEditorField\" style=\"width: 100%;\" id=\"" + BibRefEditor.fieldNames[f] + "_field\" name=\"" + BibRefEditor.fieldNames[f] + "\" onchange=\"bibRefEditor_fieldValueChanged('" + BibRefEditor.fieldNames[f] + "');\" /></div></td>");
 			}
 			blw.writeLine("</tr>");
 		}
@@ -452,7 +452,7 @@ public class BibRefEditorFormHandler implements BibRefConstants {
 					continue;
 				blw.writeLine("<tr>");
 				blw.writeLine("<td class=\"bibRefEditorFieldLabel\" style=\"text-align: right;\">" + idType + " Identifier" + ":</td>");
-				blw.writeLine("<td colspan=\"3\" class=\"bibRefEditorFieldCell\"><div style=\"border-width: 2px; border-style:solid;\" id=\"" + ("ID-" + idType) + "_border\"><input class=\"bibRefEditorField\" style=\"width: 100%;\" id=\"" + ("ID-" + idType) + "_field\" name=\"" + ("ID-" + idType) + "\" onchange=\"bibRefEditor_fieldValueChanged('" + ("ID-" + idType) + "');\"></div></td>");
+				blw.writeLine("<td colspan=\"3\" class=\"bibRefEditorFieldCell\"><div style=\"border-width: 2px; border-style:solid;\" id=\"" + ("ID-" + idType) + "_border\"><input class=\"bibRefEditorField\" style=\"width: 100%;\" id=\"" + ("ID-" + idType) + "_field\" name=\"" + ("ID-" + idType) + "\" onchange=\"bibRefEditor_fieldValueChanged('" + ("ID-" + idType) + "');\" /></div></td>");
 				blw.writeLine("</tr>");
 			}
 		
