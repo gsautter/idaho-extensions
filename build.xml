@@ -4,11 +4,12 @@
 
 <project name="RefBank" default="all" basedir="." >
 	<include file="ant/config.ant" />
+	<include file="ant/import.ant" />
 	<include file="ant/dir.ant" />
 	<include file="ant/javac.ant" />
 	<include file="ant/dist.ant" />
 	
-	<target name="all" depends="dirs,clean,compile,jars">
+	<target name="all" depends="import,dirs,clean,compile,jars">
 		<!--<input message="Press Enter to start Tomcat.." />-->
 	</target>
 	
@@ -18,6 +19,10 @@
 	
 	<target name="dirs" description="remove all auto generated files" >
 		<antcall target="dir.mkdirs" />
+	</target>
+	
+	<target name="import" description="fetch stuff from other projects if present">
+		<antcall target="import.fetch" />
 	</target>
 	
 	<target name="compile" description="do the compilation" >

@@ -5,7 +5,7 @@
 -->
 
 <project name="dist">
-	<target name="jars" depends="feedback,imaging,bibrefutils">
+	<target name="jars" depends="feedback,imaging,bibrefutils,taxnameutils">
 	</target>
 	
 	<target name="feedback">
@@ -24,7 +24,6 @@
 			<fileset dir="${src.home}" includes="**/imaging/**/**.java"/>
 			<fileset dir="${src.home}" includes="**/imaging/**/**.afm"/>
 			<fileset dir="${src.home}" includes="**/imaging/**/**.html"/>
-			<fileset dir="${src.home}" includes="**/imaging/**/**.java"/>
 			<fileset dir="." includes="LICENSE.txt"/>
 		</jar>
 	</target>
@@ -36,6 +35,17 @@
 			<fileset dir="${src.home}" includes="**/bibRefs/**/**.java"/>
 			<fileset dir="${src.home}" includes="**/bibRefs/**/**.xml"/>
 			<fileset dir="${src.home}" includes="**/bibRefs/**/**.xslt"/>
+			<fileset dir="." includes="LICENSE.txt"/>
+		</jar>
+	</target>
+	
+	<target name="taxnameutils">
+		<delete file="${jar.taxnameutils}" />
+		<jar destfile="${jar.taxnameutils}">
+			<fileset dir="${build.home}/classes" includes="**/taxonomicNames/**/**.class"/>
+			<fileset dir="${src.home}" includes="**/taxonomicNames/**/**.java"/>
+			<fileset dir="${src.home}" includes="**/taxonomicNames/**/**.xml"/>
+			<fileset dir="${src.home}" includes="**/taxonomicNames/**/**.xslt"/>
 			<fileset dir="." includes="LICENSE.txt"/>
 		</jar>
 	</target>
