@@ -1,0 +1,58 @@
+<rankSystem name="algae" code="ICN" domain="Phycology">
+	<rankGroup name="domain">
+		<rank name="domain" abbreviations="dom."/>
+	</rankGroup>
+	<rankGroup name="kingdom">
+		<rank name="superKingdom" abbreviations="superreg."/>
+		<rank name="kingdom" abbreviations="reg."/>
+		<rank name="subKingdom" abbreviations="subreg."/>
+		<rank name="infraKingdom" abbreviations="infrareg."/>
+	</rankGroup>
+	<rankGroup name="phylum">
+		<rank name="superPhylum" abbreviations="superphyl."/>
+		<rank name="phylum" abbreviations="phyl." suffix="phyta"/>
+		<rank name="subPhylum" abbreviations="subphyl." suffix="phytina"/>
+		<rank name="infraPhylum" abbreviations="infraphyl."/>
+	</rankGroup>
+	<rankGroup name="class">
+		<rank name="superClass" abbreviations="supercl."/>
+		<rank name="class" abbreviations="cl." suffix="phyceae"/>
+		<rank name="subClass" abbreviations="subcl." suffix="phycidae"/>
+		<rank name="infraClass" abbreviations="infracl."/>
+	</rankGroup>
+	<rankGroup name="order">
+		<rank name="superOrder" abbreviations="superord." suffix="anae"/>
+		<rank name="order" abbreviations="ord." suffix="ales"/>
+		<rank name="subOrder" abbreviations="subord." suffix="ineae"/>
+		<rank name="infraOrder" abbreviations="infraord."/>
+	</rankGroup>
+	<rankGroup name="family">
+		<rank name="superFamily" abbreviations="superfam." suffix="acea"/>
+		<rank name="family" abbreviations="fam." suffix="aceae"/>
+		<rank name="subFamily" abbreviations="subfam." suffix="oideae"/>
+		<rank name="infraFamily" abbreviations="infrafam."/>
+		<rank name="superTribe" abbreviations="supertrib."/>
+		<rank name="tribe" abbreviations="trib." suffix="eae"/>
+		<rank name="subTribe" abbreviations="subtrib." suffix="inae"/>
+		<rank name="infraTribe" abbreviations="infratrib."/>
+	</rankGroup>
+	<rankGroup name="genus">
+		<rank name="genus" abbreviations="gen."/>
+		<rank name="subGenus" abbreviations="subgen." epithetTemplate="(@epithet)"/>
+		<rank name="infraGenus" abbreviations="infragen." epithetTemplate="(@epithet)"/>
+		<rank name="section" abbreviations="sect." epithetTemplate="(sect. @epithet)"/>
+		<rank name="subSection" abbreviations="subsect." epithetTemplate="(subsect. @epithet)"/>
+		<rank name="series" abbreviations="ser." epithetTemplate="(ser. @epithet)"/>
+		<rank name="subSeries" abbreviations="subser." epithetTemplate="(subser. @epithet)"/>
+	</rankGroup>
+	<rankGroup name="species">
+		<rank name="speciesAggregate" abbreviations="aggr."/>
+		<rank name="species" abbreviations="sp.;spec."/>
+		<rank name="subSpecies" abbreviations="subsp.;subspec." epithetTemplate="subsp. @epithet"/>
+		<rank name="infraSpecies" abbreviations="infrasp.;infraspec."/>
+		<rank name="variety" abbreviations="var.;v."  epithetTemplate="var. @epithet"/>
+		<rank name="subVariety" abbreviations="subvar.;subv."  epithetTemplate="subvar. @epithet"/>
+		<rank name="form" abbreviations="fm.;f."  epithetTemplate="fm. @epithet"/>
+		<rank name="subForm" abbreviations="subfm.;subf."  epithetTemplate="subtm. @epithet"/>
+	</rankGroup>
+</rankSystem>

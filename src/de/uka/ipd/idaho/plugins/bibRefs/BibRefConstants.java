@@ -60,9 +60,6 @@ public interface BibRefConstants extends LiteratureConstants {
 	
 	/** annotation type for marking the location a book was published, or a conference took place */
 	public static final String LOCATION_ANNOTATION_TYPE = "location";
-//	
-//	/** annotation type for marking the page number or page range of a referenced publication */
-//	public static final String PAGE_DATA_ANNOTATION_TYPE = "pageData";
 	
 	/** annotation type for marking the page number or page range of a referenced publication */
 	public static final String PAGINATION_ANNOTATION_TYPE = "pagination";
