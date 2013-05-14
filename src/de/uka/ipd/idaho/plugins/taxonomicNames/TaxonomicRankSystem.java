@@ -331,6 +331,7 @@ public class TaxonomicRankSystem {
 		rankSystemNamesToCodes.setProperty("bacteriae", "ICNB");
 		rankSystemNamesToCodes.setProperty("algae", "ICN");
 		rankSystemNamesToCodes.setProperty("fungi", "ICN");
+		rankSystemNamesToCodes.setProperty("generic", "NONE");
 		for (Iterator rit = rankSystemNamesToCodes.keySet().iterator(); rit.hasNext();) {
 			String rsn = ((String) rit.next());
 			rankSystemNameSynonyms.setProperty(rankSystemNamesToCodes.getProperty(rsn).toLowerCase(), rsn.toLowerCase());
@@ -340,6 +341,7 @@ public class TaxonomicRankSystem {
 		rankSystemNamesToDomains.setProperty("bacteriae", "Bacteriology");
 		rankSystemNamesToDomains.setProperty("algae", "Phycology");
 		rankSystemNamesToDomains.setProperty("fungi", "Mycology");
+		rankSystemNamesToDomains.setProperty("generic", "Biology");
 		for (Iterator rit = rankSystemNamesToDomains.keySet().iterator(); rit.hasNext();) {
 			String rsn = ((String) rit.next());
 			rankSystemNameSynonyms.setProperty(rankSystemNamesToDomains.getProperty(rsn).toLowerCase(), rsn.toLowerCase());
@@ -375,11 +377,17 @@ public class TaxonomicRankSystem {
 	}
 	
 	/**
-	 * Retrieve a rank system by its name, code, or domain.
+	 * Retrieve a rank system by its name, code, or domain. If the argument name
+	 * is null, a generic rank system is returned that covers all the ranks
+	 * covered by all the named rank systems, but does not include any rank
+	 * specific suffixes, etc.
 	 * @param name the name, code, or domain of the rank system to load
 	 * @return the rank system, or null if there is none
 	 */
 	public static TaxonomicRankSystem getRankSystem(String name) {
+		
+		//	cast null to 'generic'
+		if (name == null) name = "generic";
 		
 		//	normalize name
 		name = rankSystemNameSynonyms.getProperty(name.toLowerCase(), name.toLowerCase());

@@ -46,6 +46,15 @@ public interface TaxonomicNameConstants extends LiteratureConstants {
 	/** attribute for storing the rank of a taxonomic name or a part thereof, namely 'rank' */
 	public static final String RANK_ATTRIBUTE = "rank";
 	
+	/** attribute for storing the full authority string of a taxonomic name, as given in a document, namely 'authority' */
+	public static final String AUTHORITY_ATTRIBUTE = "authority";
+	
+	/** attribute for storing the name part of the authority of a taxonomic name, namely 'authorityName' */
+	public static final String AUTHORITY_NAME_ATTRIBUTE = "authorityName";
+	
+	/** attribute for storing the year part of the authority of a taxonomic name, namely 'authorityYear' */
+	public static final String AUTHORITY_YEAR_ATTRIBUTE = "authorityYear";
+	
 	/** attribute for storing the (primary) LSID of a taxonomic name, namely 'LSID' */
 	public static final String LSID_ATTRIBUTE = "LSID";
 	
