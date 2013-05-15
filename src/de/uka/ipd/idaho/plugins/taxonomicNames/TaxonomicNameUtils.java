@@ -27,14 +27,12 @@
  */
 package de.uka.ipd.idaho.plugins.taxonomicNames;
 
-import java.io.StringReader;
 import java.util.Iterator;
 import java.util.Properties;
 
 import de.uka.ipd.idaho.gamta.Annotation;
 import de.uka.ipd.idaho.gamta.AnnotationUtils;
 import de.uka.ipd.idaho.gamta.QueriableAnnotation;
-import de.uka.ipd.idaho.gamta.util.SgmlDocumentReader;
 import de.uka.ipd.idaho.plugins.taxonomicNames.TaxonomicRankSystem.Rank;
 
 /**
@@ -236,6 +234,62 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		public String toSimpleDwcXml() {
 			return TaxonomicNameUtils.toSimpleDwcXml(this);
 		}
+	}
+	
+	/**
+	 * Create a name object from its representation as an annotation to a
+	 * document, with the details stored in attributes.
+	 * @param taxNameAnnot the annotation to convert
+	 * @return a name object holding the same data as the argument annotation
+	 */
+	public static TaxonomicName genericXmlToTaxonomicName(Annotation taxNameAnnot) {
+		return genericXmlToTaxonomicName(taxNameAnnot, ((String) null));
+	}
+	
+	/**
+	 * Create a name object from its representation as an annotation to a
+	 * document, with the details stored in attributes.
+	 * @param taxNameAnnot the annotation to convert
+	 * @param code the nomenclatorial code or biological domain the name belongs
+	 *            to
+	 * @return a name object holding the same data as the argument annotation
+	 */
+	public static TaxonomicName genericXmlToTaxonomicName(Annotation taxNameAnnot, String codeOrDomain) {
+		return genericXmlToTaxonomicName(taxNameAnnot, TaxonomicRankSystem.getRankSystem(codeOrDomain));
+	}
+	
+	/**
+	 * Create a name object from its representation as an annotation to a
+	 * document, with the details stored in attributes.
+	 * @param taxNameAnnot the annotation to convert
+	 * @param rankSystem the rank system representing the nomenclatorial code
+	 *            the name belongs to
+	 * @return a name object holding the same data as the argument annotation
+	 */
+	public static TaxonomicName genericXmlToTaxonomicName(Annotation taxNameAnnot, TaxonomicRankSystem rankSystem) {
+		TaxonomicName taxName = null;
+		Rank[] ranks = rankSystem.getRanks();
+		for (int r = 0; r < ranks.length; r++) {
+			String epithet = ((String) taxNameAnnot.getAttribute(ranks[r].name));
+			if (epithet == null)
+				continue;
+			if (taxName == null)
+				taxName = new TaxonomicName(rankSystem);
+			taxName.setEpithet(ranks[r].name, epithet);
+		}
+		if (taxName == null)
+			return taxName;
+		
+		String authorityName = ((String) taxNameAnnot.getAttribute(AUTHORITY_NAME_ATTRIBUTE));
+		if (authorityName == null)
+			return taxName;
+		taxName.setAuthorityName(authorityName);
+		
+		String authorityYear = ((String) taxNameAnnot.getAttribute(AUTHORITY_YEAR_ATTRIBUTE));
+		if ((authorityYear != null) && authorityYear.matches("[12][0-9]{3}"))
+			taxName.setAuthorityYear(Integer.parseInt(authorityYear));
+		
+		return taxName;
 	}
 	
 	/**
