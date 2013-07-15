@@ -2360,8 +2360,8 @@ FontFile2=65 0R
 		//	measure characters
 		int maxDescent = 0;
 		int maxCapHeight = 0;
-		OpTracker[] otrs = new OpTracker[csIndexContent.size()];
-		for (int c = 0; c < csIndexContent.size(); c++) {
+		OpTracker[] otrs = new OpTracker[Math.min(csIndexContent.size(), csContent.size())];
+		for (int c = 0; c < Math.min(csIndexContent.size(), csContent.size()); c++) {
 			Op[] cs = ((Op[]) csIndexContent.get(c));
 			otrs[c] = new OpTracker();
 			Integer sid = ((Integer) csContent.get(c));
