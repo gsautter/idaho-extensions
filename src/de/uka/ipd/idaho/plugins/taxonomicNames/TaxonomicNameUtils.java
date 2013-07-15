@@ -32,7 +32,10 @@ import java.util.Properties;
 
 import de.uka.ipd.idaho.gamta.Annotation;
 import de.uka.ipd.idaho.gamta.AnnotationUtils;
+import de.uka.ipd.idaho.gamta.Gamta;
 import de.uka.ipd.idaho.gamta.QueriableAnnotation;
+import de.uka.ipd.idaho.gamta.TokenSequence;
+import de.uka.ipd.idaho.gamta.TokenSequenceUtils;
 import de.uka.ipd.idaho.plugins.taxonomicNames.TaxonomicRankSystem.Rank;
 
 /**
@@ -47,11 +50,13 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 	 * 
 	 * @author sautter
 	 */
-	public static class TaxonomicName {
+	public static class TaxonomicName implements TaxonomicNameConstants {
 		private Properties epithets = new Properties();
 		private String authorityName = null;
 		private int authorityYear = -1;
 		private String rank;
+		private String stringWithoutAuthority;
+		private String stringWithAuthority;
 		private TaxonomicRankSystem rankSystem;
 		
 		/** Constructor
@@ -97,6 +102,8 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 				this.epithets.remove(rank);
 			else this.epithets.setProperty(rank, epithet);
 			this.rank = null;
+			this.stringWithAuthority = null;
+			this.stringWithoutAuthority = null;
 		}
 		
 		/**
@@ -115,6 +122,7 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		 */
 		public void setAuthorityName(String name) {
 			this.authorityName = name;
+			this.stringWithAuthority = null;
 		}
 		
 		/**
@@ -133,6 +141,7 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		 */
 		public void setAuthorityYear(int year) {
 			this.authorityYear = year;
+			this.stringWithAuthority = null;
 		}
 		
 		/**
@@ -159,6 +168,8 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		public void setAuthority(String name, int year) {
 			this.authorityName = name;
 			this.authorityYear = year;
+			this.stringWithAuthority = null;
+			this.stringWithoutAuthority = null;
 		}
 		
 		/**
@@ -200,20 +211,60 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		 * @see java.lang.Object#toString()
 		 */
 		public String toString(boolean includeAuthority) {
+			
+			//	check cache
+			if (includeAuthority && (this.stringWithAuthority != null))
+				return this.stringWithAuthority;
+			if (!includeAuthority && (this.stringWithoutAuthority != null))
+				return this.stringWithoutAuthority;
+			
+			//	determine rank
+			String rank = this.getRank();
+			if (rank == null)
+				return "";
+			Rank ownRank = this.rankSystem.getRank(rank);
+			if (ownRank == null)
+				return "";
+			Rank genusRank = this.rankSystem.getRank(GENUS_ATTRIBUTE);
 			StringBuffer string = new StringBuffer();
-			Rank[] ranks = this.rankSystem.getRanks();
-			for (int r = 0; r < ranks.length; r++) {
-				String epithet = this.epithets.getProperty(ranks[r].name);
+			
+			//	above genus or genus, only use most significant epithet
+			if (ownRank.getRelativeSignificance() <= genusRank.getRelativeSignificance()) {
+				String epithet = this.epithets.getProperty(ownRank.name);
 				if (epithet != null) {
 					if (string.length() != 0)
 						string.append(' ');
-					string.append(ranks[r].formatEpithet(epithet));
+					string.append(ownRank.formatEpithet(epithet));
 				}
 			}
+			
+			//	below genus, use all epithets from genus downward
+			else {
+				Rank[] ranks = this.rankSystem.getRanks();
+				for (int r = 0; r < ranks.length; r++) {
+					if (ranks[r].getRelativeSignificance() < genusRank.getRelativeSignificance())
+						continue;
+					String epithet = this.epithets.getProperty(ranks[r].name);
+					if (epithet != null) {
+						if (string.length() != 0)
+							string.append(' ');
+						string.append(ranks[r].formatEpithet(epithet));
+					}
+				}
+			}
+			
+			//	addd authority if asked to
 			if (includeAuthority && (this.authorityName != null) && (string.length() != 0)) {
 				string.append(' ');
 				string.append(this.getAuthority());
 			}
+			
+			//	cache what we got
+			if (includeAuthority)
+				this.stringWithAuthority = string.toString();
+			else this.stringWithoutAuthority = string.toString();
+			
+			//	finally ...
 			return string.toString();
 		}
 		
@@ -281,11 +332,31 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 			return taxName;
 		
 		String authorityName = ((String) taxNameAnnot.getAttribute(AUTHORITY_NAME_ATTRIBUTE));
+		String authorityYear = ((String) taxNameAnnot.getAttribute(AUTHORITY_YEAR_ATTRIBUTE));
+		
+		if (authorityName == null) {
+			String authority = ((String) taxNameAnnot.getAttribute(AUTHORITY_ATTRIBUTE));
+			if (authority == null)
+				return taxName;
+			
+			TokenSequence authorityTokens = Gamta.newTokenSequence(authority, taxNameAnnot.getTokenizer());
+			int authorityNameEndIndex = authorityTokens.size();
+			
+			for (int t = authorityTokens.size()-1; t >= 0; t--)
+				if (authorityTokens.valueAt(t).matches("[12][0-9]{3}")) {
+					authorityYear = authorityTokens.valueAt(t);
+					authorityNameEndIndex = t;
+				}
+			if ((0 < authorityNameEndIndex) && "(".equals(authorityTokens.valueAt(authorityNameEndIndex-1)))
+				authorityNameEndIndex--;
+			if (0 < authorityNameEndIndex)
+				authorityName = TokenSequenceUtils.concatTokens(authorityTokens, 0, authorityNameEndIndex, false, true);
+		}
+		
 		if (authorityName == null)
 			return taxName;
-		taxName.setAuthorityName(authorityName);
 		
-		String authorityYear = ((String) taxNameAnnot.getAttribute(AUTHORITY_YEAR_ATTRIBUTE));
+		taxName.setAuthorityName(authorityName);
 		if ((authorityYear != null) && authorityYear.matches("[12][0-9]{3}"))
 			taxName.setAuthorityYear(Integer.parseInt(authorityYear));
 		
