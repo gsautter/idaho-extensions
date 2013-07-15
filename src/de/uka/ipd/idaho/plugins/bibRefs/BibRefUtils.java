@@ -78,7 +78,7 @@ public class BibRefUtils implements BibRefConstants {
 	 * 
 	 * @author sautter
 	 */
-	public static class RefData {
+	public static class RefData implements BibRefConstants {
 		private HashMap attributes = new HashMap();
 		
 		private LinkedHashMap identifiers = new LinkedHashMap();
@@ -305,7 +305,7 @@ public class BibRefUtils implements BibRefConstants {
 		 * @return the concatenated attribute values
 		 */
 		public String getAttributeValueString(String name, String separator) {
-			return this.getAttributeValueString(name, separator);
+			return this.getAttributeValueString(name, separator, separator);
 		}
 		
 		/**
