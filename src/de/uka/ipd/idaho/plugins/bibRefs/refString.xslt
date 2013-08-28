@@ -53,6 +53,7 @@
 			<xsl:when test="./handle">, Hdl: <xsl:value-of select="./handle"/></xsl:when>
 			<xsl:when test="./Handle">, Hdl: <xsl:value-of select="./Handle"/></xsl:when>
 			<xsl:when test="./ID[./@type = 'Handle']">, Hdl: <xsl:value-of select="./ID[./@type = 'Handle']"/></xsl:when>
+			<xsl:when test="./ID[./@type = 'Hdl']">, Hdl: <xsl:value-of select="./ID[./@type = 'Hdl']"/></xsl:when>
 		</xsl:choose>
 	</xsl:template>
 	<xsl:template name="url">
