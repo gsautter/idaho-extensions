@@ -27,10 +27,14 @@
  */
 package de.uka.ipd.idaho.plugins.bibRefs;
 
+import java.io.File;
 import java.io.IOException;
 import java.util.Properties;
 
 import de.uka.ipd.idaho.gamta.util.AnalyzerDataProvider;
+import de.uka.ipd.idaho.gamta.util.AnalyzerDataProviderFileBased;
+import de.uka.ipd.idaho.gamta.util.GamtaClassLoader;
+import de.uka.ipd.idaho.gamta.util.GamtaClassLoader.ComponentInitializer;
 import de.uka.ipd.idaho.plugins.bibRefs.BibRefUtils.RefData;
 
 /**
@@ -151,4 +155,30 @@ public abstract class BibRefDataSource implements BibRefConstants {
 	 * @throws IOException
 	 */
 	public abstract RefData[] findRefData(Properties searchData) throws IOException;
+	
+	/**
+	 * Load the instances of this class located in the JAR files in a given
+	 * folder. The data sources loaded from the JARs get their data folders set
+	 * to a sub folder of the argument one, named '&lt;jarNameLessExt&gt;Data',
+	 * where '&lt;jarNameLessExt&gt;' is the name of the JAR a given data
+	 * source is loaded from less the '.jar' file extension. After setting the
+	 * data provider, the data sources are initialized.
+	 * @param rootFolder the folder to load the data sources from
+	 * @return an array holding the data sources
+	 */
+	public static BibRefDataSource[] loadDataSources(final File rootFolder) {
+		Object[] brdsObjs = GamtaClassLoader.loadComponents(rootFolder, BibRefDataSource.class, new ComponentInitializer() {
+			public void initialize(Object component, String componentJarName) throws Throwable {
+				if (componentJarName.toLowerCase().endsWith(".jar"))
+					componentJarName = componentJarName.substring(0, (componentJarName.length() - ".jar".length()));
+				BibRefDataSource brds = ((BibRefDataSource) component);
+				brds.setDataProvider(new AnalyzerDataProviderFileBased(new File(rootFolder, (componentJarName + "Data"))));
+				brds.init();
+			}
+		});
+		BibRefDataSource[] brdss = new BibRefDataSource[brdsObjs.length];
+		for (int s = 0; s < brdsObjs.length; s++)
+			brdss[s] = ((BibRefDataSource) brdsObjs[s]);
+		return brdss;
+	}
 }
