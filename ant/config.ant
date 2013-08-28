@@ -38,6 +38,12 @@
 	<property name="jar.imaging" value="${dist.home}/GamtaImagingAPI.jar" />
 	
 	<!-- path to the .jar file that shall be created -->
+	<property name="jar.pdf" value="${dist.home}/GamtaPDF.jar" />
+	
+	<!-- path to the .jar file that shall be created -->
+	<property name="jar.ocr" value="${dist.home}/GamtaOCR.jar" />
+	
+	<!-- path to the .jar file that shall be created -->
 	<property name="jar.bibrefutils" value="${dist.home}/BibRefUtils.jar" />
 	
 	<!-- path to the .jar file that shall be created -->

@@ -5,7 +5,7 @@
 -->
 
 <project name="dist">
-	<target name="jars" depends="feedback,imaging,bibrefutils,taxnameutils">
+	<target name="jars" depends="feedback,imaging,ocr,pdf,bibrefutils,taxnameutils">
 	</target>
 	
 	<target name="feedback">
@@ -20,14 +20,34 @@
 	<target name="imaging">
 		<delete file="${jar.imaging}" />
 		<jar destfile="${jar.imaging}">
-			<fileset dir="${build.home}/classes" includes="**/imaging/**/**.class"/>
-			<fileset dir="${src.home}" includes="**/imaging/**/**.java"/>
-			<fileset dir="${src.home}" includes="**/imaging/**/**.afm"/>
-			<fileset dir="${src.home}" includes="**/imaging/**/**.html"/>
+			<fileset dir="${build.home}/classes" includes="**/imaging/*.class"/>
+			<fileset dir="${src.home}" includes="**/imaging/*.java"/>
+			<fileset dir="${build.home}/classes" includes="**/imaging/analyzers/*.class"/>
+			<fileset dir="${src.home}" includes="**/imaging/analyzers/*.java"/>
 			<fileset dir="." includes="LICENSE.txt"/>
 		</jar>
 	</target>
 	
+	<target name="ocr">
+		<delete file="${jar.ocr}" />
+		<jar destfile="${jar.ocr}">
+			<fileset dir="${build.home}/classes" includes="**/imaging/ocr/*.class"/>
+			<fileset dir="${src.home}" includes="**/imaging/ocr/*.java"/>
+			<fileset dir="." includes="LICENSE.txt"/>
+		</jar>
+	</target>
+	
+	<target name="pdf">
+		<delete file="${jar.pdf}" />
+		<jar destfile="${jar.pdf}">
+			<fileset dir="${build.home}/classes" includes="**/imaging/pdf/*.class"/>
+			<fileset dir="${src.home}" includes="**/imaging/pdf/*.java"/>
+			<fileset dir="${src.home}" includes="**/imaging/pdf/afmRes/**"/>
+			<fileset dir="${src.home}" includes="**/imaging/test/*.class"/>
+			<fileset dir="." includes="LICENSE.txt"/>
+		</jar>
+	</target>
+		
 	<target name="bibrefutils">
 		<delete file="${jar.bibrefutils}" />
 		<jar destfile="${jar.bibrefutils}">
