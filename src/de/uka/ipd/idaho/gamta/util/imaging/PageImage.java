@@ -245,7 +245,7 @@ public class PageImage implements ImagingConstants {
 	public PageImage getSubImage(BoundingBox bb, boolean isBbOriginal) {
 		
 		//	scale bounding box if necessary
-		if (isBbOriginal)
+		if (isBbOriginal && (this.currentDpi != this.originalDpi))
 			bb = new BoundingBox(((this.currentDpi * bb.left) / this.originalDpi), ((this.currentDpi * bb.right) / this.originalDpi), ((this.currentDpi * bb.top) / this.originalDpi), ((this.currentDpi * bb.bottom) / this.originalDpi));
 		
 		//	compute coordinates

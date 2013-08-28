@@ -324,6 +324,10 @@ class PdfFont {
 				if (DEBUG_CHAR_HANDLING || (127 < ch)) System.out.println(" - width from own r-mapping: " + cw);
 			}
 		}
+		if ((cw == 0) && this.ucMappings.containsKey(new Integer(ch))) {
+			cw = this.mCharWidth;
+			if (DEBUG_CHAR_HANDLING || (127 < ch)) System.out.println(" - mapped fallback default width: " + cw);
+		}
 		if ((cw == 0) && (this.firstChar <= ch) && (ch <= this.lastChar)) {
 			cw = this.charWidths[((int) ch) - this.firstChar];
 			if (DEBUG_CHAR_HANDLING || (127 < ch)) System.out.println(" - width from base array: " + cw);
@@ -1182,9 +1186,8 @@ class PdfFont {
 			}
 			return null;
 		}
-		if (DEBUG_LOAD_FONTS) {
+		if (DEBUG_LOAD_FONTS)
 			System.out.println("Got CID Type 2 font descriptor:" + fdObj);
-		}
 		
 		Object fnObj = PdfParser.dereference(fontData.get("BaseFont"), objects);
 		if (fnObj == null) {
@@ -1210,7 +1213,11 @@ class PdfFont {
 		int lc = -1;
 		float[] cws = new float[0];
 		Object dwObj = fd.get("DW");
+		if (dwObj == null)
+			dwObj = PdfParser.dereference(fontData.get("DW"), objects);
 		float mcw = ((dwObj instanceof Number) ? ((Number) dwObj).floatValue() : 1000);
+		if (DEBUG_LOAD_FONTS)
+			System.out.println(" --> default width: " + dwObj);
 		
 		Object wObj = PdfParser.dereference(fontData.get("W"), objects);
 		if (DEBUG_LOAD_FONTS)

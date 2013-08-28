@@ -325,7 +325,7 @@ correct absurdly misOCRed words:
 			this.pageNumberPatternFuzzy = "[0-9]++";
 		}
 		
-		this.pageNumberPatternStrict = "[1-9][0-9]++";
+		this.pageNumberPatternStrict = "[1-9][0-9]*+";
 		
 		this.feedbackFontName = this.getParameter("feedbackFontName", this.feedbackFontName);
 	}

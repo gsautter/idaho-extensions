@@ -156,7 +156,7 @@ public class PageNumberer extends AbstractConfigurableAnalyzer implements Imagin
 			this.pageNumberPatternFuzzy = "[0-9]++";
 		}
 		
-		this.pageNumberPatternStrict = "[1-9][0-9]++";
+		this.pageNumberPatternStrict = "[1-9][0-9]*+";
 	}
 	
 	/* (non-Javadoc)

@@ -38,6 +38,25 @@ import java.io.IOException;
 public interface PageImageSource extends ImagingConstants {
 	
 	/**
+	 * Check whether or not an image of a specific page of a specific document
+	 * is available from this page image source.
+	 * @param name the unified single-string name of the sought page image
+	 * @return true if the image is already stored
+	 */
+	public abstract boolean isPageImageAvailable(String name);
+	
+	/**
+	 * Check whether or not an image of a specific page of a specific document
+	 * is available from this page image source. This method should be
+	 * implemented as a shorthand for
+	 * isPageImageAvailable(PageImage.getPageImageName(docId, pageId)).
+	 * @param docId the ID of the document the page image belongs to
+	 * @param pageId the ID of the page depicted in the argument image
+	 * @return true if the image is available
+	 */
+	public abstract boolean isPageImageAvailable(String docId, int pageId);
+	
+	/**
 	 * Obtain the image of a specific page in a specific document.
 	 * @param name the unified single-string name of the sought page image
 	 * @return the image of the page
@@ -73,13 +92,20 @@ public interface PageImageSource extends ImagingConstants {
 	public abstract PageImageInputStream getPageImageAsStream(String docId, int pageId) throws IOException;
 	
 	/**
-	 * Implementation of a page image source that leaves only one abstract
-	 * method to implement, namely the one-argument version of
-	 * getPageImageAsStream().
+	 * Implementation of a page image source that leaves only two abstract
+	 * method to implement, namely the one-argument versions of
+	 * isPageImageAvailable() and getPageImageAsStream().
 	 * 
 	 * @author sautter
 	 */
 	public static abstract class AbstractPageImageSource implements PageImageSource {
+		
+		/* (non-Javadoc)
+		 * @see de.uka.ipd.idaho.gamta.util.imaging.PageImageSource#isPageImageAvailable(java.lang.String, int)
+		 */
+		public boolean isPageImageAvailable(String docId, int pageId) {
+			return this.isPageImageAvailable(PageImage.getPageImageName(docId, pageId));
+		}
 		
 		/* (non-Javadoc)
 		 * @see de.uka.ipd.idaho.gamta.util.imaging.PageImageSource#getPageImage(java.lang.String)
@@ -88,14 +114,9 @@ public interface PageImageSource extends ImagingConstants {
 			PageImageInputStream piis = this.getPageImageAsStream(name);
 			if (piis == null)
 				return null;
-			try {
-				PageImage pi = new PageImage(PageImage.readImage(piis), piis.originalWidth, piis.originalHeight, piis.originalDpi, piis.currentDpi, piis.leftEdge, piis.rightEdge, piis.topEdge, piis.bottomEdge, piis.source);
-				piis.close();
-				return pi;
-			}
-			catch (IOException ioe) {
-				return null;
-			}
+			PageImage pi = new PageImage(piis);
+			piis.close();
+			return pi;
 		}
 		
 		/* (non-Javadoc)

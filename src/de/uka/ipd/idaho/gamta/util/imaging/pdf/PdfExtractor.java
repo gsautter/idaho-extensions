@@ -48,6 +48,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Hashtable;
 import java.util.Iterator;
+import java.util.Set;
 import java.util.Vector;
 
 import javax.imageio.ImageIO;
@@ -70,6 +71,7 @@ import org.jpedal.jbig2.JBIG2Decoder;
 import org.jpedal.jbig2.JBIG2Exception;
 
 import de.uka.ipd.idaho.gamta.Annotation;
+import de.uka.ipd.idaho.gamta.AttributeUtils;
 import de.uka.ipd.idaho.gamta.DocumentRoot;
 import de.uka.ipd.idaho.gamta.Gamta;
 import de.uka.ipd.idaho.gamta.MutableAnnotation;
@@ -652,15 +654,6 @@ public class PdfExtractor implements ImagingConstants, TableConstants {
 				}
 			}
 			
-			//	clean bounding boxes of PDF words - might overlap with several lines in page image ...
-			AnalysisImage api = Imaging.wrapImage(pageImage, (imageName + imageDpi));
-			HashMap pWordsByBoxes = new HashMap();
-			for (int w = 0; w < pWordAnnots.size(); w++) {
-				Annotation pWordAnnot = ((Annotation) pWordAnnots.get(w));
-				BoundingBox wbb = BoundingBox.getBoundingBox(pWordAnnot);
-				pWordsByBoxes.put(wbb, pWordAnnot);
-			}
-			
 			//	we're using given word boxes only, so we're done with this page
 			if (usePdfWords) {
 				
@@ -675,6 +668,15 @@ public class PdfExtractor implements ImagingConstants, TableConstants {
 				pageAnnot.setAttribute(IMAGE_DPI_ATTRIBUTE, ("" + imageDpi));
 				psm.setInfo(" - page done");
 				continue;
+			}
+			
+			//	clean bounding boxes of PDF words - might overlap with several lines in page image ...
+			AnalysisImage api = Imaging.wrapImage(pageImage, (imageName + imageDpi));
+			HashMap pWordsByBoxes = new HashMap();
+			for (int w = 0; w < pWordAnnots.size(); w++) {
+				Annotation pWordAnnot = ((Annotation) pWordAnnots.get(w));
+				BoundingBox wbb = BoundingBox.getBoundingBox(pWordAnnot);
+				pWordsByBoxes.put(wbb, pWordAnnot);
 			}
 			
 			//	obtain visual page structure (use smaller-than-usual word margin, as merge will happen automatically further down the road for in-word splits
@@ -790,6 +792,61 @@ public class PdfExtractor implements ImagingConstants, TableConstants {
 		for (int s = 0; s < region.getSubRegionCount(); s++)
 			wordCount += this.appendRegionStructure(doc, region.getSubRegion(s), dpi, pWordsByBoxes, emptyWords, psm);
 		
+		//	check if any words inside block left unassigned
+		BoundingBox blockBox = region.getBoundingBox();
+		ArrayList lostBlockPWordBoxes = new ArrayList();
+		for (Iterator bbit = pWordsByBoxes.keySet().iterator(); bbit.hasNext();) {
+			BoundingBox wbb = ((BoundingBox) bbit.next());
+			if (wbb.bottom <= blockBox.top)
+				continue;
+			else if (blockBox.bottom <= wbb.top)
+				continue;
+			else if (wbb.right <= blockBox.left)
+				continue;
+			else if (blockBox.right <= wbb.left)
+				continue;
+			
+			int wbbMiddle = ((wbb.top + wbb.bottom) / 2);
+			if (wbbMiddle <= blockBox.top)
+				continue;
+			else if (blockBox.bottom <= wbbMiddle)
+				continue;
+			
+			int wbbCenter = ((wbb.left + wbb.right) / 2);
+			if (wbbCenter <= blockBox.left)
+				continue;
+			else if (blockBox.right <= wbbCenter)
+				continue;
+			
+			lostBlockPWordBoxes.add(wbb);
+		}
+		
+		//	assign lost words
+		if (lostBlockPWordBoxes.size() != 0) {
+			psm.setInfo(" --> got " + pWordsByBoxes.size() + " PDF words left unassigned in block " + blockBox.toString() + ":");
+			for (Iterator bbit = lostBlockPWordBoxes.iterator(); bbit.hasNext();) {
+				BoundingBox lostWordBox = ((BoundingBox) bbit.next());
+				Annotation lostWord = ((Annotation) pWordsByBoxes.remove(lostWordBox));
+				
+				//	add word
+				doc.addTokens("W");
+				Annotation lostWordAnnot = doc.addAnnotation(WORD_ANNOTATION_TYPE, (doc.size() - 1), 1);
+				lostWordAnnot.copyAttributes(lostWord);
+				psm.setInfo("   - assigned " + lostWordAnnot.toXML());
+				
+				//	annotate line
+				Annotation lostLineAnnot = doc.addAnnotation(LINE_ANNOTATION_TYPE, (doc.size() - 1), 1);
+				AttributeUtils.copyAttributes(lostWord, lostLineAnnot, lostLineAttributes);
+				
+				//	annotate block
+				Annotation lostBlockAnnot = doc.addAnnotation(BLOCK_ANNOTATION_TYPE, (doc.size() - 1), 1);
+				AttributeUtils.copyAttributes(lostWordAnnot, lostBlockAnnot, lostBlockAttributes);
+							
+				//	remember using word
+				wordCount++;
+			}
+		}
+		
 		//	annotate block
 		Annotation regionAnnot = doc.addAnnotation(((region.isColumn() && region.areChildrenAtomic()) ? COLUMN_ANNOTATION_TYPE : REGION_ANNOTATION_TYPE), blockStart, (doc.size() - blockStart));
 		BoundingBox regionBox = region.getBoundingBox();
@@ -798,6 +855,18 @@ public class PdfExtractor implements ImagingConstants, TableConstants {
 		//	finally ...
 		return wordCount;
 	}
+	
+	private static final Set lostBlockAttributes = new HashSet() {
+		public boolean contains(Object o) {
+			return (BOUNDING_BOX_ATTRIBUTE.equals(o) || FONT_SIZE_ATTRIBUTE.equals(o));
+		}
+	};
+	
+	private static final Set lostLineAttributes = new HashSet() {
+		public boolean contains(Object o) {
+			return (BOUNDING_BOX_ATTRIBUTE.equals(o) || FONT_SIZE_ATTRIBUTE.equals(o) || BASELINE_ATTRIBUTE.equals(o));
+		}
+	};
 	
 	private int appendTextBlockStructure(MutableAnnotation doc, Block theBlock, int dpi, HashMap pWordsByBoxes, ArrayList emptyWords, ProgressMonitor psm) {
 		

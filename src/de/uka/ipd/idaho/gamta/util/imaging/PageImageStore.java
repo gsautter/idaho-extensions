@@ -40,34 +40,6 @@ import java.io.IOException;
 public interface PageImageStore extends PageImageSource {
 	
 	/**
-	 * Check whether or not an image of a specific page of a specific document
-	 * is already stored. This is to avoid duplicating rendering efforts.
-	 * @param name the unified single-string name of the sought page image
-	 * @return true if the image is already stored
-	 */
-	public abstract boolean isPageImageAvailable(String name);
-	
-	/**
-	 * Check whether or not an image of a specific page of a specific document
-	 * is already stored. This is to avoid duplicating rendering efforts. This
-	 * method should be implemented as a shorthand for
-	 * isPageImageAvailable(PageImage.getPageImageName(docId, pageId)).
-	 * @param docId the ID of the document the page image belongs to
-	 * @param pageId the ID of the page depicted in the argument image
-	 * @return true if the image is already stored
-	 */
-	public abstract boolean isPageImageAvailable(String docId, int pageId);
-	
-//	/**
-//	 * Retrieve the unified, single string image name a page image is
-//	 * available with.
-//	 * @param docId the ID of the document the page image belongs to
-//	 * @param pageId the ID of the page depicted in the argument image
-//	 * @return unified, single string image name
-//	 */
-//	public abstract String getPageImageName(String docId, int pageId);
-	
-	/**
 	 * Store a page image, implying origional size and zero-width margins.
 	 * @param name the unified single-string name of the page image
 	 * @param image the page image itself
@@ -120,18 +92,14 @@ public interface PageImageStore extends PageImageSource {
 	 * @author sautter
 	 */
 	public static abstract class AbstractPageImageStore extends AbstractPageImageSource implements PageImageStore {
-		/* (non-Javadoc)
-		 * @see de.uka.ipd.idaho.gamta.util.imaging.PageImageStore#isPageImageAvailable(java.lang.String, int)
-		 */
-		public boolean isPageImageAvailable(String docId, int pageId) {
-			return this.isPageImageAvailable(PageImage.getPageImageName(docId, pageId));
-		}
+		
 		/* (non-Javadoc)
 		 * @see de.uka.ipd.idaho.gamta.util.imaging.PageImageStore#storePageImage(java.lang.String, java.awt.image.BufferedImage, int)
 		 */
 		public void storePageImage(String name, BufferedImage image, int dpi) throws IOException {
 			this.storePageImage(name, new PageImage(image, dpi, this));
 		}
+		
 		/* (non-Javadoc)
 		 * @see de.uka.ipd.idaho.gamta.util.imaging.PageImageStore#storePageImage(java.lang.String, int, java.awt.image.BufferedImage, int)
 		 */
@@ -140,6 +108,7 @@ public interface PageImageStore extends PageImageSource {
 			this.storePageImage(name, new PageImage(image, dpi, this));
 			return name;
 		}
+		
 		/* (non-Javadoc)
 		 * @see de.uka.ipd.idaho.gamta.util.imaging.PageImageStore#storePageImage(java.lang.String, int, de.uka.ipd.idaho.gamta.util.imaging.PageImage)
 		 */
