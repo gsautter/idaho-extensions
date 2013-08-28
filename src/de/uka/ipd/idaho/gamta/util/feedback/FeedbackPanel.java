@@ -584,8 +584,8 @@ public abstract class FeedbackPanel extends JPanel implements Scrollable {
 				
 				//	add title to label
 				if ((labelString.length() > 6) && "<html>".equals(labelString.substring(0, 6).toLowerCase()))
-					labelString = "<HTML>" + "<B>What to do in this dialog?</B>" + " (click to collaps) " + "<BR>" + labelString.substring(6);
-				else labelString = "<HTML>" + "<B>What to do in this dialog?</B>" + " (click to collaps) " + "<BR>" + IoTools.prepareForHtml(labelString) + "</HTML>";
+					labelString = "<HTML>" + "<B>What to do in this dialog?</B>" + " (click to collapse) " + "<BR>" + labelString.substring(6);
+				else labelString = "<HTML>" + "<B>What to do in this dialog?</B>" + " (click to collapse) " + "<BR>" + IoTools.prepareForHtml(labelString) + "</HTML>";
 				
 				//	store full and short (collapsed) explanation
 				final String fullLabelString = labelString;
