@@ -28,11 +28,9 @@
 package de.uka.ipd.idaho.plugins.bibRefs;
 
 import java.io.BufferedReader;
-import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.io.PrintWriter;
 import java.io.StringWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -51,17 +49,15 @@ import de.uka.ipd.idaho.easyIO.streams.CharSequenceReader;
 import de.uka.ipd.idaho.gamta.Annotation;
 import de.uka.ipd.idaho.gamta.AnnotationUtils;
 import de.uka.ipd.idaho.gamta.DocumentRoot;
+import de.uka.ipd.idaho.gamta.Gamta;
 import de.uka.ipd.idaho.gamta.MutableAnnotation;
 import de.uka.ipd.idaho.gamta.QueriableAnnotation;
 import de.uka.ipd.idaho.gamta.Token;
 import de.uka.ipd.idaho.gamta.TokenSequenceUtils;
-import de.uka.ipd.idaho.gamta.util.AnnotationFilter;
-import de.uka.ipd.idaho.gamta.util.SgmlDocumentReader;
 import de.uka.ipd.idaho.gamta.util.gPath.GPath;
 import de.uka.ipd.idaho.htmlXmlUtil.accessories.XsltUtils;
 import de.uka.ipd.idaho.htmlXmlUtil.grammars.Grammar;
 import de.uka.ipd.idaho.htmlXmlUtil.grammars.StandardGrammar;
-import de.uka.ipd.idaho.plugins.bibRefs.BibRefTypeSystem.BibRefType;
 import de.uka.ipd.idaho.stringUtils.StringUtils;
 
 /**
@@ -542,9 +538,17 @@ public class BibRefUtils implements BibRefConstants {
 	 * @return a reference data object representing the argument reference
 	 */
 	public static RefData modsXmlToRefData(QueriableAnnotation modsRef) {
-		//	TODO copy document
 		
-		//	TODO remove namespace prefix from annotations
+		//	copy document
+		modsRef = Gamta.copyDocument(modsRef);
+		
+		//	remove namespace prefix from annotations
+		Annotation[] annotations = modsRef.getAnnotations();
+		for (int a = 0; a < annotations.length; a++) {
+			String annotationType = annotations[a].getType();
+			if (annotationType.indexOf(':') != -1)
+				annotations[a].changeTypeTo(annotationType.substring(annotationType.indexOf(':') + ":".length()));
+		}
 		
 		//	do data extraction
 		RefData rd = new RefData();
@@ -563,7 +567,8 @@ public class BibRefUtils implements BibRefConstants {
 			rd.setAttribute(PUBLICATION_URL_ANNOTATION_TYPE, TokenSequenceUtils.concatTokens(urlAnnots[0], false, true).replaceAll("\\s+", ""));
 		
 		//	store identifiers
-		Annotation[] idAnnots = modsRef.getAnnotations("mods:identifier");
+//		Annotation[] idAnnots = modsRef.getAnnotations("mods:identifier");
+		Annotation[] idAnnots = modsRef.getAnnotations("identifier");
 		for (int i = 0; i < idAnnots.length; i++) {
 			String type = ((String) idAnnots[i].getAttribute("type"));
 			if (type != null)
@@ -571,7 +576,8 @@ public class BibRefUtils implements BibRefConstants {
 		}
 		
 		//	get reference type
-		Annotation[] typeAnnots = modsRef.getAnnotations("mods:classification");
+//		Annotation[] typeAnnots = modsRef.getAnnotations("mods:classification");
+		Annotation[] typeAnnots = modsRef.getAnnotations("classification");
 		String type = ((typeAnnots.length == 0) ? "" : typeAnnots[0].getValue().toLowerCase());
 		
 		//	set reference type attribute
@@ -609,37 +615,58 @@ public class BibRefUtils implements BibRefConstants {
 		Annotation[] details = path.evaluate(data, null);
 		for (int d = 0; d < details.length; d++) {
 			rd.addAttribute(type, TokenSequenceUtils.concatTokens(details[d], true, true));
-//			System.out.println("GOT DETAIL " + type + ": '" + TokenSequenceUtils.concatTokens(details[d], true, true) + "'");
 			if (TITLE_ANNOTATION_TYPE.equals(type))
 				break;
 		}
 	}
 	
-	//	TODO remove 'mods:' namespace prefix from paths
+//	private static final GPath titlePath = new GPath("//mods:titleInfo/mods:title");
+//	
+//	private static final GPath authorsPath = new GPath("//mods:name[.//mods:roleTerm = 'Author']/mods:namePart");
+//	
+//	private static final GPath publicationUrlPath = new GPath("//mods:location/mods:url");
+//	
+//	private static final GPath hostItemPath = new GPath("//mods:relatedItem[./@type = 'host']");
+//	private static final GPath hostItem_titlePath = new GPath("//mods:titleInfo/mods:title");
+//	private static final GPath hostItem_volumeNumberPath = new GPath("//mods:part/mods:detail[(./@type = 'volume') or (./@type = 'issue') or (./@type = 'numero')]/mods:number");
+//	private static final GPath hostItem_volumeTitlePath = new GPath("//mods:part/mods:detail[./@type = 'title']/mods:title");
+//	private static final GPath hostItem_startPagePath = new GPath("//mods:part/mods:extent[./@unit = 'page']/mods:start");
+//	private static final GPath hostItem_endPagePath = new GPath("//mods:part/mods:extent[./@unit = 'page']/mods:end");
+//	private static final GPath hostItem_datePath = new GPath("//mods:part/mods:date");
+//	private static final GPath hostItem_editorsPath = new GPath("//mods:name[.//mods:roleTerm = 'Editor']/mods:namePart");
+//	
+//	private static final GPath hostItem_volumePath = new GPath("//mods:part/mods:detail[./@type = 'volume']/mods:number");
+//	private static final GPath hostItem_issuePath = new GPath("//mods:part/mods:detail[./@type = 'issue']/mods:number");
+//	private static final GPath hostItem_numeroPath = new GPath("//mods:part/mods:detail[./@type = 'numero']/mods:number");
+//	
+//	private static final GPath originInfoPath = new GPath("//mods:originInfo");
+//	private static final GPath originInfo_publisherNamePath = new GPath("//mods:publisher");
+//	private static final GPath originInfo_publisherLocationPath = new GPath("//mods:place/mods:placeTerm");
+//	private static final GPath originInfo_issueDatePath = new GPath("//mods:dateIssued");
 	
-	private static final GPath titlePath = new GPath("//mods:titleInfo/mods:title");
+	private static final GPath titlePath = new GPath("//titleInfo/title");
 	
-	private static final GPath authorsPath = new GPath("//mods:name[.//mods:roleTerm = 'Author']/mods:namePart");
+	private static final GPath authorsPath = new GPath("//name[.//roleTerm = 'Author']/namePart");
 	
-	private static final GPath publicationUrlPath = new GPath("//mods:location/mods:url");
+	private static final GPath publicationUrlPath = new GPath("//location/url");
 	
-	private static final GPath hostItemPath = new GPath("//mods:relatedItem[./@type = 'host']");
-	private static final GPath hostItem_titlePath = new GPath("//mods:titleInfo/mods:title");
-	private static final GPath hostItem_volumeNumberPath = new GPath("//mods:part/mods:detail[(./@type = 'volume') or (./@type = 'issue') or (./@type = 'numero')]/mods:number");
-	private static final GPath hostItem_volumeTitlePath = new GPath("//mods:part/mods:detail[./@type = 'title']/mods:title");
-	private static final GPath hostItem_startPagePath = new GPath("//mods:part/mods:extent[./@unit = 'page']/mods:start");
-	private static final GPath hostItem_endPagePath = new GPath("//mods:part/mods:extent[./@unit = 'page']/mods:end");
-	private static final GPath hostItem_datePath = new GPath("//mods:part/mods:date");
-	private static final GPath hostItem_editorsPath = new GPath("//mods:name[.//mods:roleTerm = 'Editor']/mods:namePart");
+	private static final GPath hostItemPath = new GPath("//relatedItem[./@type = 'host']");
+	private static final GPath hostItem_titlePath = new GPath("//titleInfo/title");
+	private static final GPath hostItem_volumeNumberPath = new GPath("//part/detail[(./@type = 'volume') or (./@type = 'issue') or (./@type = 'numero')]/number");
+	private static final GPath hostItem_volumeTitlePath = new GPath("//part/detail[./@type = 'title']/title");
+	private static final GPath hostItem_startPagePath = new GPath("//part/extent[./@unit = 'page']/start");
+	private static final GPath hostItem_endPagePath = new GPath("//part/extent[./@unit = 'page']/end");
+	private static final GPath hostItem_datePath = new GPath("//part/date");
+	private static final GPath hostItem_editorsPath = new GPath("//name[.//roleTerm = 'Editor']/namePart");
 	
-	private static final GPath hostItem_volumePath = new GPath("//mods:part/mods:detail[./@type = 'volume']/mods:number");
-	private static final GPath hostItem_issuePath = new GPath("//mods:part/mods:detail[./@type = 'issue']/mods:number");
-	private static final GPath hostItem_numeroPath = new GPath("//mods:part/mods:detail[./@type = 'numero']/mods:number");
+	private static final GPath hostItem_volumePath = new GPath("//part/detail[./@type = 'volume']/number");
+	private static final GPath hostItem_issuePath = new GPath("//part/detail[./@type = 'issue']/number");
+	private static final GPath hostItem_numeroPath = new GPath("//part/detail[./@type = 'numero']/number");
 	
-	private static final GPath originInfoPath = new GPath("//mods:originInfo");
-	private static final GPath originInfo_publisherNamePath = new GPath("//mods:publisher");
-	private static final GPath originInfo_publisherLocationPath = new GPath("//mods:place/mods:placeTerm");
-	private static final GPath originInfo_issueDatePath = new GPath("//mods:dateIssued");
+	private static final GPath originInfoPath = new GPath("//originInfo");
+	private static final GPath originInfo_publisherNamePath = new GPath("//publisher");
+	private static final GPath originInfo_publisherLocationPath = new GPath("//place/placeTerm");
+	private static final GPath originInfo_issueDatePath = new GPath("//dateIssued");
 	
 	private static LinkedHashMap baseDetailPathsByType = new LinkedHashMap();
 	static {
@@ -665,160 +692,6 @@ public class BibRefUtils implements BibRefConstants {
 		originInfoDetailPathsByType.put(PUBLISHER_ANNOTATION_TYPE, originInfo_publisherNamePath);
 		originInfoDetailPathsByType.put(LOCATION_ANNOTATION_TYPE, originInfo_publisherLocationPath);
 	}
-	
-//	private static class CountingTokenSequence {
-//		String type;
-//		private String plain;
-//		private StringIndex counts = new StringIndex(true);
-//		private StringIndex rCounts = new StringIndex(true);
-//		private ArrayList tokens = new ArrayList();
-//		private LinkedList rTokens = new LinkedList();
-//		public CountingTokenSequence(String type, TokenSequence tokens) {
-//			this.type = type;
-//			this.plain = TokenSequenceUtils.concatTokens(tokens, true, true);
-//			for (int t = 0; t < tokens.size(); t++) {
-//				String token = tokens.valueAt(t);
-////				if (!Gamta.isPunctuation(token)) {
-//					this.counts.add(token);
-//					this.tokens.add(token);
-////				}
-//			}
-//		}
-//		public String toString() {
-//			return this.plain;
-//		}
-////		public boolean contains(String token) {
-////			return (this.rCounts.getCount(token) < this.counts.getCount(token));
-////		}
-//		public boolean remove(String token) {
-//			if (this.rCounts.getCount(token) < this.counts.getCount(token)) {
-//				this.rCounts.add(token);
-//				this.rTokens.addLast(token);
-//				return true;
-//			}
-//			else return false;
-//		}
-////		public int matched() {
-////			return this.rCounts.size();
-////		}
-//		public int remaining() {
-//			return (this.counts.size() - this.rCounts.size());
-//		}
-//		public String next() {
-//			return ((this.rTokens.size() < this.tokens.size()) ? ((String) this.tokens.get(this.rTokens.size())) : null);
-//		}
-//		public void reset() {
-//			this.rCounts.clear();
-//			this.rTokens.clear();
-//		}
-//	}
-//	
-//	private void annotate(MutableAnnotation bibRef, CountingTokenSequence cts) {
-//		System.out.println("Matching " + cts.type + " '" + cts.toString() + "'");
-//		
-//		//	try full sequential match
-//		for (int t = 0; t < bibRef.size(); t++) {
-//			if (bibRef.tokenAt(t).hasAttribute("C"))
-//				continue;
-//			String token = bibRef.valueAt(t);
-//			if (!token.equals(cts.next()))
-//				continue;
-//			
-//			//	got anchor, attempt match
-//			cts.remove(token);
-//			System.out.println(" - found sequence anchor '" + token + "', " + cts.remaining() + " tokens remaining");
-//			
-//			//	found end of one-sized sequence, match successful
-//			if (cts.remaining() == 0) {
-//				Annotation a = bibRef.addAnnotation(cts.type, t, 1);
-//				a.firstToken().setAttribute("C", "C");
-//				System.out.println("   ==> single-token match: " + a.toXML());
-//				return;
-//			}
-//			
-//			//	continue matching
-//			for (int l = (t+1); l < bibRef.size(); l++) {
-//				token = bibRef.valueAt(l);
-//				
-//				//	next token continues match
-//				if (token.equals(cts.next())) {
-//					cts.remove(token);
-//					System.out.println("   - found continuation '" + token + "', " + cts.remaining() + " tokens remaining");
-//					
-//					//	found end of sequence, match successful
-//					if (cts.remaining() == 0) {
-//						Annotation a = bibRef.addAnnotation(cts.type, t, (l-t+1));
-//						for (int c = 0; c < a.size(); c++)
-//							a.tokenAt(c).setAttribute("C", "C");
-//						System.out.println("   ==> sequence match: " + a.toXML());
-//						return;
-//					}
-//				}
-//				
-//				//	next token is punctuation, ignore it
-//				else if (Gamta.isPunctuation(token)) {
-//					System.out.println("   - ignoring punctuation '" + token + "'");
-//					continue;
-//				}
-//				
-//				//	next token does not match, reset matcher and start over
-//				else {
-//					System.out.println("   ==> cannot continue with '" + token + "'");
-//					cts.reset();
-//					break;
-//				}
-//			}
-//		}
-//	}
-//	
-//	private void mergeAnnotation(MutableAnnotation bibRef, String mType1, String mType2, String type) {
-//		Annotation[] mAnnots1 = bibRef.getAnnotations(mType1);
-//		if (mAnnots1.length == 0)
-//			return;
-//		Annotation[] mAnnots2 = bibRef.getAnnotations(mType2);
-//		if (mAnnots2.length == 0)
-//			return;
-//		for (int ma1 = 0; ma1 < mAnnots1.length; ma1++) {
-//			if (mAnnots1[ma1] == null)
-//				continue;
-//			for (int ma2 = 0; ma2 < mAnnots2.length; ma2++) {
-//				if (mAnnots2[ma2] == null)
-//					continue;
-//				if (mAnnots2[ma2].getEndIndex() <= mAnnots1[ma1].getStartIndex()) {
-//					boolean canMerge = true;
-//					for (int t = mAnnots2[ma2].getEndIndex(); t < mAnnots1[ma1].getStartIndex(); t++)
-//						if (!Gamta.isPunctuation(bibRef.valueAt(t))) {
-//							canMerge = false;
-//							break;
-//						}
-//					if (canMerge) {
-//						Annotation merged = bibRef.addAnnotation(type, mAnnots2[ma2].getStartIndex(), (mAnnots1[ma1].getEndIndex() - mAnnots2[ma2].getStartIndex()));
-//						bibRef.removeAnnotation(mAnnots2[ma2]);
-//						bibRef.removeAnnotation(mAnnots1[ma1]);
-//						mAnnots1[ma1] = (mType1.equals(type) ? merged : null);
-//						mAnnots2[ma2] = (mType2.equals(type) ? merged : null);
-//						break;
-//					}
-//				}
-//				else if (mAnnots1[ma1].getEndIndex() <= mAnnots2[ma2].getStartIndex()) {
-//					boolean canMerge = true;
-//					for (int t = mAnnots1[ma1].getEndIndex(); t < mAnnots2[ma2].getStartIndex(); t++)
-//						if (!Gamta.isPunctuation(bibRef.valueAt(t))) {
-//							canMerge = false;
-//							break;
-//						}
-//					if (canMerge) {
-//						Annotation merged = bibRef.addAnnotation(type, mAnnots1[ma1].getStartIndex(), (mAnnots2[ma2].getEndIndex() - mAnnots1[ma1].getStartIndex()));
-//						bibRef.removeAnnotation(mAnnots2[ma2]);
-//						bibRef.removeAnnotation(mAnnots1[ma1]);
-//						mAnnots1[ma1] = (mType1.equals(type) ? merged : null);
-//						mAnnots2[ma2] = (mType2.equals(type) ? merged : null);
-//						break;
-//					}
-//				}
-//			}
-//		}
-//	}
 	
 	/**
 	 * Transform a reference data object into a reference string in the default
@@ -1223,102 +1096,49 @@ public class BibRefUtils implements BibRefConstants {
 		}
 		if ("mods:mods".equals(mods.getType()))
 			mods.setAttribute("xmlns:mods", "http://www.loc.gov/mods/v3");
-
 	}
-//	/**
-//	 * Find out which type of work a bibliographic reference refers to. This
-//	 * method checks for pagination, part designators (volume or issue numbers),
-//	 * and volume titles starting with 'Proc.' or 'Proceedings', in this order.
-//	 * Client code may implement its own classification mechanism.
-//	 * @param ref the reference data set to classify
-//	 * @return the type of the referenced work
-//	 */
-//	public static String classify(RefData ref) {
-//		
-//		//	got pagination ==> part of something
-//		boolean gotPagination = ref.hasAttribute(PAGINATION_ANNOTATION_TYPE);
-//		
-//		//	got volume, issue, or number designator
-//		boolean gotPartDesignator = (ref.hasAttribute(VOLUME_DESIGNATOR_ANNOTATION_TYPE) || ref.hasAttribute(ISSUE_DESIGNATOR_ANNOTATION_TYPE) || ref.hasAttribute(NUMERO_DESIGNATOR_ANNOTATION_TYPE) || ref.hasAttribute(PART_DESIGNATOR_ANNOTATION_TYPE));
-//		
-//		//	check journal name
-//		boolean gotJournalName = ref.hasAttribute(JOURNAL_NAME_ANNOTATION_TYPE);
-//		
-//		//	clearly a journal or part of one
-//		if (gotJournalName && gotPartDesignator)
-//			return (gotPagination ? JOURNAL_ARTICEL_REFERENCE_TYPE : JOURNAL_VOLUME_REFERENCE_TYPE);
-//		
-////		//	check publisher name
-////		boolean gotPublisher = ref.hasAttribute(PUBLISHER);
-////		
-//		//	check title
-//		boolean gotTitle = ref.hasAttribute(TITLE_ANNOTATION_TYPE);
-//		
-//		//	check volume title
-//		boolean gotVolumeTitle = ref.hasAttribute(VOLUME_TITLE_ANNOTATION_TYPE);
-//		
-//		//	check for proceedings
-//		boolean isProceedings = false;
-//		if (!isProceedings && gotJournalName && !gotPartDesignator && ref.getAttribute(JOURNAL_NAME_ANNOTATION_TYPE).toLowerCase().startsWith("proc"))
-//			isProceedings = true;
-//		if (!isProceedings && gotVolumeTitle && !gotPartDesignator && ref.getAttribute(VOLUME_TITLE_ANNOTATION_TYPE).toLowerCase().startsWith("proc"))
-//			isProceedings = true;
-//		if (!isProceedings && gotTitle && !gotPagination && ref.getAttribute(TITLE_ANNOTATION_TYPE).toLowerCase().startsWith("proc"))
-//			isProceedings = true;
-//		
-//		//	part of book or proceedings
-//		if (gotPagination)
-//			return (isProceedings ? PROCEEDINGS_PAPER_REFERENCE_TYPE : BOOK_CHAPTER_REFERENCE_TYPE);
-//		
-//		//	part of proceedings with missing page data
-//		if (isProceedings && gotVolumeTitle)
-//			return PROCEEDINGS_PAPER_REFERENCE_TYPE;
-//		
-//		//	book or proceedings
-//		else return (isProceedings ? PROCEEDINGS_REFERENCE_TYPE : BOOK_REFERENCE_TYPE); 
+//	
+//	public static void main(String[] args) throws Exception {
+//		BibRefTypeSystem brtSys = BibRefTypeSystem.getDefaultInstance();
+//		MutableAnnotation doc = SgmlDocumentReader.readDocument(new File("E:/Projektdaten/SMNK-Projekt/EcologyTestbed/Taylor_Wolters_2005.normalized.xml"));
+//		AnnotationFilter.renameAnnotations(doc, CITATION_TYPE, BIBLIOGRAPHIC_REFERENCE_TYPE);
+//		AnnotationFilter.renameAnnotations(doc, "hostTitle", VOLUME_TITLE_ANNOTATION_TYPE);
+//		AnnotationFilter.renameAnnotationAttribute(doc, BIBLIOGRAPHIC_REFERENCE_TYPE, "hostTitle", VOLUME_TITLE_ANNOTATION_TYPE);
+//		MutableAnnotation[] bibRefs = doc.getMutableAnnotations(BIBLIOGRAPHIC_REFERENCE_TYPE);
+//		for (int r = 0; r < bibRefs.length; r++) try {
+//			System.out.println(TokenSequenceUtils.concatTokens(bibRefs[r], true, true));
+//			RefData rd = genericXmlToRefData(bibRefs[r]);
+//			String type = brtSys.classify(rd);
+////			if (type == null) {
+////				BibRefType[] brts = brtSys.getBibRefTypes();
+////				for (int t = 0; t < brts.length; t++) {
+////					String[] errors = brts[t].getErrors(rd);
+////					if (errors == null) {
+////						type = brts[t].name;
+////						break;
+////					}
+////					else {
+////						System.out.println(" === " + brts[t].name + " ===");
+////						for (int e = 0; e < errors.length; e++)
+////							System.out.println(errors[e]);
+////					}
+////				}
+////			}
+//			System.out.println(" ==> " + type);
+//			if (type == null)
+//				continue;
+//			BibRefType brt = brtSys.getBibRefType(type);
+//			String origin = brt.getOrigin(rd);
+//			System.out.println(origin);
+//			if (origin.startsWith(","))
+//				AnnotationUtils.writeXML(bibRefs[r], new PrintWriter(System.out));
+//			System.out.println(rd.toXML());
+////			System.out.println(toModsXML(rd));
+////			System.out.println(toRefString(rd));
+//		}
+//		catch (Exception e) {
+//			AnnotationUtils.writeXML(bibRefs[r], new PrintWriter(System.out));
+//			throw e;
+//		}
 //	}
-	
-	public static void main(String[] args) throws Exception {
-		BibRefTypeSystem brtSys = BibRefTypeSystem.getDefaultInstance();
-		MutableAnnotation doc = SgmlDocumentReader.readDocument(new File("E:/Projektdaten/SMNK-Projekt/EcologyTestbed/Taylor_Wolters_2005.normalized.xml"));
-		AnnotationFilter.renameAnnotations(doc, CITATION_TYPE, BIBLIOGRAPHIC_REFERENCE_TYPE);
-		AnnotationFilter.renameAnnotations(doc, "hostTitle", VOLUME_TITLE_ANNOTATION_TYPE);
-		AnnotationFilter.renameAnnotationAttribute(doc, BIBLIOGRAPHIC_REFERENCE_TYPE, "hostTitle", VOLUME_TITLE_ANNOTATION_TYPE);
-		MutableAnnotation[] bibRefs = doc.getMutableAnnotations(BIBLIOGRAPHIC_REFERENCE_TYPE);
-		for (int r = 0; r < bibRefs.length; r++) try {
-			System.out.println(TokenSequenceUtils.concatTokens(bibRefs[r], true, true));
-			RefData rd = genericXmlToRefData(bibRefs[r]);
-			String type = brtSys.classify(rd);
-//			if (type == null) {
-//				BibRefType[] brts = brtSys.getBibRefTypes();
-//				for (int t = 0; t < brts.length; t++) {
-//					String[] errors = brts[t].getErrors(rd);
-//					if (errors == null) {
-//						type = brts[t].name;
-//						break;
-//					}
-//					else {
-//						System.out.println(" === " + brts[t].name + " ===");
-//						for (int e = 0; e < errors.length; e++)
-//							System.out.println(errors[e]);
-//					}
-//				}
-//			}
-			System.out.println(" ==> " + type);
-			if (type == null)
-				continue;
-			BibRefType brt = brtSys.getBibRefType(type);
-			String origin = brt.getOrigin(rd);
-			System.out.println(origin);
-			if (origin.startsWith(","))
-				AnnotationUtils.writeXML(bibRefs[r], new PrintWriter(System.out));
-			System.out.println(rd.toXML());
-//			System.out.println(toModsXML(rd));
-//			System.out.println(toRefString(rd));
-		}
-		catch (Exception e) {
-			AnnotationUtils.writeXML(bibRefs[r], new PrintWriter(System.out));
-			throw e;
-		}
-	}
 }
