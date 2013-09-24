@@ -206,17 +206,19 @@ public class RefBankClient {
 	
 	/**
 	 * Search references.
-	 * @param freeText a free text search string, to match some pert of the reference string
+	 * @param freeText a free text search string, to match some part of the reference string
 	 * @param author an author name to search for
 	 * @param title a text snippet to find in titles
 	 * @param year the year of publication to search for
 	 * @param origin the journal, publisher, or conference to search for
 	 * @param extId an external identifier, e.g. a DOI
 	 * @param extIdType the type of the external identifier
+	 * @param max the maximum number of references to return
+	 * @param excludeDuplicates exclude references marked as duplicates of others
 	 * @return an iterator over the references matching the query
 	 * @throws IOException
 	 */
-	public BibRefIterator findRefs(String freeText, String author, String title, int year, String origin, String extId, String extIdType) throws IOException {
+	public BibRefIterator findRefs(String freeText, String author, String title, int year, String origin, String extId, String extIdType, int max, boolean excludeDuplicates) throws IOException {
 		StringBuffer queryString = new StringBuffer();
 		if (author != null)
 			queryString.append("&author=" + URLEncoder.encode(author, "UTF-8"));
@@ -230,6 +232,10 @@ public class RefBankClient {
 			queryString.append("&ID-" + extIdType + "=" + URLEncoder.encode(extId, "UTF-8"));
 		if (freeText != null)
 			queryString.append("&query=" + URLEncoder.encode(freeText, "UTF-8"));
+		if (max > 0)
+			queryString.append("&limit=" + max);
+		if (excludeDuplicates)
+			queryString.append("&sco=sco");
 		URL findUrl = new URL(this.refBankUrl + "?action=find" + queryString.toString());
 		return this.readRefs(new BufferedReader(new InputStreamReader(findUrl.openStream(), "UTF-8")));
 	}

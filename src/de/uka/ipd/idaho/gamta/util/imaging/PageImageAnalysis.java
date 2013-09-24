@@ -361,16 +361,7 @@ public class PageImageAnalysis implements ImagingConstants {
 				if (subRegions.length < subRegionsCandidates[c].length)
 					subRegions = subRegionsCandidates[c];
 			}
-//			ImagePartRectangle[] subRegionsLS = Imaging.splitIntoColumns(region.bounds, minHorizontalBlockMargin, -0.2, true);
-//			ImagePartRectangle[] subRegionsNS = Imaging.splitIntoColumns(region.bounds, minHorizontalBlockMargin, 0, true);
-//			ImagePartRectangle[] subRegionsRS = Imaging.splitIntoColumns(region.bounds, minHorizontalBlockMargin, 0.2, true);
-//			if ((subRegionsNS.length >= subRegionsLS.length) && (subRegionsNS.length >= subRegionsRS.length))
-//				subRegions = subRegionsNS;
-//			else if (subRegionsLS.length > subRegionsRS.length)
-//				subRegions = subRegionsLS;
-//			else subRegions = subRegionsRS;
 		}
-//		ImagePartRectangle[] subRegions = (region.isColumn ? Imaging.splitIntoRows(region.bounds, minVerticalBlockMargin, 0.1) : Imaging.splitIntoColumns(region.bounds, minHorizontalBlockMargin, 0.1, true));
 		if (minHorizontalBlockMargin != 1)
 			System.out.println(" - got " + subRegions.length + " sub regions");
 		for (int r = 0; r < subRegions.length; r++) {
@@ -384,11 +375,6 @@ public class PageImageAnalysis implements ImagingConstants {
 		
 		//	we're not dealing with a whole page, and no further splits found, we're done
 		if ((region.superRegion != null) && (subRegions.length == 1)) {
-//			byte avgBrightness = Imaging.computeAverageBrightness(subRegions[0]);
-//			if (avgBrightness > 96) {
-//				Imaging.copyBounds(subRegions[0], region.bounds);
-//				region.setAtomic();
-//			}
 			Imaging.copyBounds(subRegions[0], region.bounds);
 			region.setAtomic();
 			return;
@@ -439,18 +425,12 @@ public class PageImageAnalysis implements ImagingConstants {
 			
 			//	slice and dice atomic region with 1 pixel margin and see if anything meaningful remains
 			if (subRegion.isAtomic() && (minHorizontalBlockMargin > 1) && (minVerticalBlockMargin > 1)) {
-//				System.out.println("Small splitting atomic block " + subRegion.getBoundingBox().toString());
 				ImagePartRectangle testRegionBounds = new ImagePartRectangle(subRegion.bounds.analysisImage);
 				Imaging.copyBounds(subRegion.bounds, testRegionBounds);
 				Region testRegion = new Region(testRegionBounds, true, null);
 				fillInSubRegions(testRegion, 1, 1, dpi, psm);
-				if (!testRegion.isAtomic() && (testRegion.getSubRegionCount() == 0)) {
-//					System.out.println(" --> sorted out as empty");
+				if (!testRegion.isAtomic() && (testRegion.getSubRegionCount() == 0))
 					continue;
-				}
-//				System.out.println(" --> retained with " + testRegion.getSubRegionCount() + " sub regions");
-//				THIS IS PRONE TO CUT OFF PARAGRAPHS WITH FEW LINES AT THE LEFT AND RIGHT, AND FEATHER DUSTING DOES THIS BETTER ANYWAY
-//				else Imaging.copyBounds(testRegion.bounds, subRegion.bounds);
 			}
 			
 			//	block with single child-column (column cannot be atomic, as otherwise block would be atomic and have no childern) (scenario can happen if some artifact column is eliminated) ==> add child-blocks of child-column instead of block itself

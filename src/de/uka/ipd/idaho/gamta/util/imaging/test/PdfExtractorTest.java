@@ -199,7 +199,7 @@ public class PdfExtractorTest implements ImagingConstants {
 			}
 		};
 		PageImage.addPageImageSource(pis);
-		final PdfExtractor pdfExtractor = new PdfExtractor(pdfDataPath, pis);
+		final PdfExtractor pdfExtractor = new PdfExtractor(pdfDataPath, pis, true);
 		
 		String pdfName;
 //		pdfName = "abcofevolution00mcca.pdf"; // clean single column, narrative
@@ -265,8 +265,7 @@ public class PdfExtractorTest implements ImagingConstants {
 //		pdfName = "Taylor_Wolters_2005.pdf"; // digitally born PDF from
 //												// Elsevier, Type1C fonts
 //		pdfName = "dikow_2010a.pdf"; // digitally born PDF, Type1 fonts, oversized word boxes
-//		pdfName = "dikow_2012.pdf"; // digitally born PDF, Type1 fonts, mdashes
-//									// on page 7
+		pdfName = "dikow_2012.pdf"; // digitally born PDF, Type1 fonts, mdashes on page 7
 //		pdfName = "FOG Main text_ pag 1_8.pdf"; // from pro-iBiosphere, born digital, SIDs in excess of 390
 //		pdfName = "Ceratolejeunea_ Lejeuneaceae.pdf"; // from pro-iBiosphere, scanned, with wide black page margins, images stored in stripes, encoded in FlateDecode or DTCDecode, DCT images OK, Flate images strange
 //		pdfName = "Ceratolejeunea_ Lejeuneaceae.mono.pdf"; // from pro-iBiosphere, scanned, with wide black page margins, images restored to full using Acrobat 6
@@ -283,7 +282,7 @@ public class PdfExtractorTest implements ImagingConstants {
 //		pdfName = "Nephrolepis.pdf"; // sannned, but image does not render properly in ICEPdf (comes out 0x0 from flate decode)
 //		pdfName = "page0001.pdf"; // scanned, page image turned by 90 degrees, with image proportion inverse to media box
 //		pdfName = "Wallace's line.pdf"; // born-digital, trouble rendering or decoding Type1C font (too many char comparisons), still have to reconstruct ArrayIndexOutOfBounds
-		pdfName = "Hovenkamp and Miyamoto 2005 - Nephrolepis.pdf"; // born-digital, Blumea 2005 layout, CID Tyoe 2 fonts, fortunately with ToUnicode mappings
+//		pdfName = "Hovenkamp and Miyamoto 2005 - Nephrolepis.pdf"; // born-digital, Blumea 2005 layout, CID Tyoe 2 fonts, fortunately with ToUnicode mappings
 //		pdfName = "Van Tien Tran 2013.pdf"; // born-digital, Blumea 2013 layout, TrueType fonts, but fortunately with ToUnicode mappings
 		
 		//	Smithsonian sample docs
@@ -327,7 +326,7 @@ public class PdfExtractorTest implements ImagingConstants {
 		 */
 		
 		//	Swiss spiter documents
-		pdfName = "Ono2009c.pdf"; // born-digital, fonts with misleading ToUnicode mappings
+//		pdfName = "Ono2009c.pdf"; // born-digital, fonts with misleading ToUnicode mappings
 //		pdfName = "OttBrescovit2003.pdf"; // born-digital, page 0 with negative line matrix entries, currently renders upside down
 		
 		long start = System.currentTimeMillis();
