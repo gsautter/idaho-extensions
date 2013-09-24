@@ -115,7 +115,7 @@ public class RefBankRefDataSource extends BibRefDataSource {
 		} catch (Exception e) {}
 		
 		//	do search
-		BibRefIterator brit = this.rbk.findRefs(null, searchData.getProperty(AUTHOR_ANNOTATION_TYPE), searchData.getProperty(TITLE_ANNOTATION_TYPE), year, this.getOrigin(searchData), extId, extIdType);
+		BibRefIterator brit = this.rbk.findRefs(null, searchData.getProperty(AUTHOR_ANNOTATION_TYPE), searchData.getProperty(TITLE_ANNOTATION_TYPE), year, this.getOrigin(searchData), extId, extIdType, 0, false);
 		ArrayList rdList = new ArrayList();
 		while (brit.hasNextRef()) {
 			BibRef br = brit.getNextRef();

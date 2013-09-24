@@ -84,94 +84,9 @@ public class PdfExtractorTest implements ImagingConstants {
 		} catch (Exception e) {}
 		
 		final File pdfDataPath = new File("E:/Testdaten/PdfExtract/");
-//		if (true) {
-//			BufferedImage bi = ImageIO.read(new File(pdfDataPath, "ants_02732.pdf.0005.png"));
-//			PageImage pi = new PageImage(bi, 600);
-//			FileOutputStream fos = new FileOutputStream(new File(pdfDataPath, "ants_02732.pdf.0005.png"));
-//			pi.write(fos);
-//			fos.close();
-//			return;
-//		}
 		final AnalyzerDataProvider dataProvider = new AnalyzerDataProviderFileBased(pdfDataPath);
 		
-//		//	register image provider
-//		Imaging.addImageProvider(new ImageProvider() {
-//			public BufferedImage getImage(String name) {
-//				if (!dataProvider.isDataAvailable(name))
-//					return null;
-//				try {
-//					InputStream pin = dataProvider.getInputStream(name);
-//					PageImage pi = new PageImage(new PageImageInputStream(pin, null));
-//					pin.close();
-//					return pi.image;
-//				}
-//				catch (IOException ioe) {
-//					ioe.printStackTrace(System.out);
-//					return null;
-//				}
-//			}
-//			public BufferedImage getImage(String docId, int pageId) {
-//				return this.getImage(getPageImageName(docId, pageId));
-//			}
-//		});
-		
 		//	register page image source
-//		PageImageStore pis = new PageImageStore() {
-//			public boolean isPageImageAvailable(String docId, int pageId) {
-//				return dataProvider.isDataAvailable(getPageImageName(docId, pageId));
-//			}
-//			public String getPageImageName(String docId, int pageId) {
-//				return PdfExtractorTest.getPageImageName(docId, pageId);
-//			}
-//			public PageImage getPageImage(String docId, int pageId) throws IOException {
-//				String name = getPageImageName(docId, pageId);
-//				if (!dataProvider.isDataAvailable(name))
-//					return null;
-//				InputStream pin = dataProvider.getInputStream(name);
-//				PageImage pi = new PageImage(new PageImageInputStream(pin, this));
-//				pin.close();
-//				return pi;
-//			}
-//			public PageImageInputStream getPageImageAsStream(String docId, int pageId) throws IOException {
-//				String name = getPageImageName(docId, pageId);
-//				if (!dataProvider.isDataAvailable(name))
-//					return null;
-//				return new PageImageInputStream(dataProvider.getInputStream(name), this);
-//			}
-//			public String storePageImage(String docId, int pageId, BufferedImage image, int dpi) throws IOException {
-//				String imageName = getPageImageName(docId, pageId);
-//				if (dpi == 0) {
-//					OutputStream imageOut = dataProvider.getOutputStream(imageName);
-//					ImageIO.write(image, "png", imageOut);
-//					imageOut.close();
-//					return imageName;
-//				}
-//				PageImage pi = new PageImage(image, dpi, this);
-//				try {
-//					OutputStream imageOut = dataProvider.getOutputStream(imageName);
-//					pi.write(imageOut);
-//					imageOut.close();
-//					return imageName;
-//				}
-//				catch (IOException ioe) {
-//					ioe.printStackTrace(System.out);
-//					return null;
-//				}
-//			}
-//			public String storePageImage(String docId, int pageId, PageImage pageImage) throws IOException {
-//				String imageName = getPageImageName(docId, pageId);
-//				try {
-//					OutputStream imageOut = dataProvider.getOutputStream(imageName);
-//					pageImage.write(imageOut);
-//					imageOut.close();
-//					return imageName;
-//				}
-//				catch (IOException ioe) {
-//					ioe.printStackTrace(System.out);
-//					return null;
-//				}
-//			}
-//		};
 		PageImageStore pis = new AbstractPageImageStore() {
 			public boolean isPageImageAvailable(String name) {
 				if (!name.endsWith(IMAGE_FORMAT))

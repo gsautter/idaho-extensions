@@ -5,7 +5,7 @@
 -->
 
 <project name="dist">
-	<target name="jars" depends="feedback,imaging,ocr,pdf,bibrefutils,taxnameutils">
+	<target name="jars" depends="feedback,imaging,imganalyzers,ocr,pdf,bibrefutils,taxnameutils">
 	</target>
 	
 	<target name="feedback">
@@ -28,6 +28,15 @@
 		</jar>
 	</target>
 	
+	<target name="imganalyzers">
+		<delete file="${jar.imganalyzers}" />
+		<jar destfile="${jar.imganalyzers}">
+			<fileset dir="${build.home}/classes" includes="**/imaging/analyzers/*.class"/>
+			<fileset dir="${src.home}" includes="**/imaging/analyzers/*.java"/>
+			<fileset dir="." includes="LICENSE.txt"/>
+		</jar>
+	</target>
+	
 	<target name="ocr">
 		<delete file="${jar.ocr}" />
 		<jar destfile="${jar.ocr}">
@@ -43,7 +52,8 @@
 			<fileset dir="${build.home}/classes" includes="**/imaging/pdf/*.class"/>
 			<fileset dir="${src.home}" includes="**/imaging/pdf/*.java"/>
 			<fileset dir="${src.home}" includes="**/imaging/pdf/afmRes/**"/>
-			<fileset dir="${src.home}" includes="**/imaging/test/*.class"/>
+			<fileset dir="${build.home}/classes" includes="**/imaging/test/*.class"/>
+			<fileset dir="${src.home}" includes="**/imaging/test/*.java"/>
 			<fileset dir="." includes="LICENSE.txt"/>
 		</jar>
 	</target>
