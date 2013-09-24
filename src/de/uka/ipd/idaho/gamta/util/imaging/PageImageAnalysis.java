@@ -824,7 +824,6 @@ public class PageImageAnalysis implements ImagingConstants {
 		
 		//	adjust table content back to original table block boundaries, and wrap lines in cells
 		Line[] tLines = tBlock.getLines();
-//		System.out.println("Got table with " + tLines.length + " lines:");
 		ArrayList cells = new ArrayList();
 		for (int l = 0; l < tLines.length; l++) {
 			TableCell cell = new TableCell(block.bounds.getSubRectangle(
@@ -840,7 +839,6 @@ public class PageImageAnalysis implements ImagingConstants {
 					(tLines[l].bounds.bottomRow + block.bounds.topRow)
 				));
 			Word[] tWords = tLines[l].getWords();
-//			System.out.println(" - got line with " + tWords.length + " words");
 			for (int w = 0; w < tWords.length; w++) {
 				line.addWord(new Word(block.bounds.getSubRectangle(
 						(tWords[w].bounds.leftCol + block.bounds.leftCol),
@@ -864,7 +862,6 @@ public class PageImageAnalysis implements ImagingConstants {
 			int min = ((Integer) ((TreeSet) hMatchRowGroups.get(g)).first()).intValue();
 			int max = ((Integer) ((TreeSet) hMatchRowGroups.get(g)).last()).intValue();
 			hMatchRowGroupCentroids.add(new Integer((min + max) / 2));
-//			System.out.println("Got horizontal centroid: " + ((min + max) / 2));
 		}
 		int minRowCentroidDistance = block.bounds.bottomRow;
 		int maxRowCentroidDistance = 0;
@@ -882,7 +879,6 @@ public class PageImageAnalysis implements ImagingConstants {
 			int min = ((Integer) ((TreeSet) vMatchColGroups.get(g)).first()).intValue();
 			int max = ((Integer) ((TreeSet) vMatchColGroups.get(g)).last()).intValue();
 			vMatchColGroupCentroids.add(new Integer((min + max) / 2));
-//			System.out.println("Got vertical centroid: " + ((min + max) / 2));
 		}
 		int minColCentroidDistance = block.bounds.rightCol;
 		int maxColCentroidDistance = 0;
@@ -938,7 +934,6 @@ public class PageImageAnalysis implements ImagingConstants {
 				}
 			}
 		}
-//		System.out.println("Got at most " + vInnerCentroids + "x" + hInnerCentroids + " cells");
 		boolean gridIncomplete = false;
 		//	this definition should catch the desired tables, as an incomplete grid gets more and more unlikely with more inner grid lines painted
 		gridIncomplete = (((minRowCentroidDistance * hInnerCentroids) < maxRowCentroidDistance) || ((minColCentroidDistance * vInnerCentroids) < maxColCentroidDistance));

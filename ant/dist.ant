@@ -35,15 +35,6 @@
 		</jar>
 	</target>
 	
-	<target name="imganalyzers">
-		<delete file="${jar.imganalyzers}" />
-		<jar destfile="${jar.imganalyzers}">
-			<fileset dir="${build.home}/classes" includes="**/imaging/analyzers/*.class"/>
-			<fileset dir="${src.home}" includes="**/imaging/analyzers/*.java"/>
-			<fileset dir="." includes="LICENSE.txt"/>
-		</jar>
-	</target>
-	
 	<target name="ocr">
 		<delete file="${jar.ocr}" />
 		<jar destfile="${jar.ocr}">
