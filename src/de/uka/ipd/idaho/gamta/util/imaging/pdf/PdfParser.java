@@ -1124,6 +1124,8 @@ public class PdfParser {
 					//	compute effective font size as round(font size * ((a + d) / 2))
 //					eFontSize = ((int) Math.round(((float) fontSize) * ((textMatrix[0][0] + textMatrix[1][1]) / 2)));
 					eFontSize = ((int) Math.round(((float) fontSize) * ((Math.abs(textMatrix[0][0]) + Math.abs(textMatrix[1][1])) / 2)));
+					if (eFontSize == 0)
+						eFontSize = ((int) Math.round(((float) fontSize) * ((Math.abs(textMatrix[0][1]) + Math.abs(textMatrix[1][0])) / 2)));
 					if (DEBUG_RENDER_TEXT) System.out.println(" ==> effective font size is " + eFontSize);
 				}
 			}
@@ -1132,6 +1134,8 @@ public class PdfParser {
 				if (DEBUG_RENDER_TEXT) System.out.println(" --> font size " + fontSize);
 //				eFontSize = ((int) Math.round(((float) fontSize) * ((textMatrix[0][0] + textMatrix[1][1]) / 2)));
 				eFontSize = ((int) Math.round(((float) fontSize) * ((Math.abs(textMatrix[0][0]) + Math.abs(textMatrix[1][1])) / 2)));
+				if (eFontSize == 0)
+					eFontSize = ((int) Math.round(((float) fontSize) * ((Math.abs(textMatrix[0][1]) + Math.abs(textMatrix[1][0])) / 2)));
 			}
 			else if ("Tm".equals(tag)) {
 				textMatrix[2][2] = 1;
@@ -1152,6 +1156,8 @@ public class PdfParser {
 				//	compute effective font size as round(font size * ((a + d) / 2))
 //				eFontSize = ((int) Math.round(((float) fontSize) * ((textMatrix[0][0] + textMatrix[1][1]) / 2)));
 				eFontSize = ((int) Math.round(((float) fontSize) * ((Math.abs(textMatrix[0][0]) + Math.abs(textMatrix[1][1])) / 2)));
+				if (eFontSize == 0)
+					eFontSize = ((int) Math.round(((float) fontSize) * ((Math.abs(textMatrix[0][1]) + Math.abs(textMatrix[1][0])) / 2)));
 				if (DEBUG_RENDER_TEXT) System.out.println(" ==> effective font size is " + eFontSize);
 			}
 			else if ("Tr".equals(tag)) {
@@ -1764,6 +1770,16 @@ public class PdfParser {
 			else if (DEBUG_RENDER_TEXT) System.out.println(" ==> UNKNOWN");
 		}
 		
+		//	sort out words with invalid bounding boxes
+		for (int w = 0; w < pWords.size(); w++) {
+			PWord pw = ((PWord) pWords.get(w));
+			if ((pw.bounds.getWidth() <= 0) || (pw.bounds.getHeight() <= 0)) {
+				if (DEBUG_RENDER_TEXT)
+					System.out.println("Removing word with invalid bounds: '" + pw.str + "', " + pw.bounds);
+				pWords.remove(w--);
+			}
+		}
+		
 		//	join words with extremely close or overlapping bounding boxes (can be split due to in-word font changes, for instance)
 		if (pWords.size() > 1) {
 			PWord lastWord = ((PWord) pWords.get(0));
@@ -1848,6 +1864,7 @@ public class PdfParser {
 			}
 		}
 		
+		//	finally ...
 		return ((PWord[]) pWords.toArray(new PWord[pWords.size()]));
 	}
 	

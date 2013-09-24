@@ -51,7 +51,7 @@ import de.uka.ipd.idaho.gamta.util.imaging.PageImageAnalysis.Word;
 import de.uka.ipd.idaho.stringUtils.StringUtils;
 
 /**
- * Function library converting the results of page image analyses into GAMTA
+ * Function library converting the results of page image analyzes into GAMTA
  * documents.
  * 
  * @author sautter
@@ -163,7 +163,7 @@ public class PageImageConverter implements ImagingConstants, TableConstants {
 		if (psm == null)
 			psm = ProgressMonitor.dummy;
 		
-		//	scale down image for structure analysis if neccessary
+		//	scale down image for structure analysis if necessary
 		AnalysisImage ai = Imaging.wrapImage(pageImage, (pageImage.hashCode() + "-" + imageDpi));
 		int analysisDpi = imageDpi;
 		while (analysisDpi > maxAnalysisDpi)
@@ -186,7 +186,7 @@ public class PageImageConverter implements ImagingConstants, TableConstants {
 	private static int fillInPageRegions(MutableAnnotation page, AnalysisImage ai, int analysisDpi, int imageDpi, ProgressMonitor psm) throws IOException {
 		
 		//	find text blocks
-		Region thePage = PageImageAnalysis.getPageRegion(ai, analysisDpi, psm);
+		Region thePage = PageImageAnalysis.getPageRegion(ai, analysisDpi, true, psm);
 		
 		//	assemble document from structure
 		int pageSize = page.size();
@@ -521,7 +521,7 @@ public class PageImageConverter implements ImagingConstants, TableConstants {
 		if ((blocks.length == 0) && (tables.length == 0)) {
 			psm.setInfo(" - no blocks found, analyzing page structure");
 			int pageSize = page.size();
-			Region thePage = PageImageAnalysis.getPageRegion(ai, analysisDpi, psm);
+			Region thePage = PageImageAnalysis.getPageRegion(ai, analysisDpi, true, psm);
 			wordCount = appendRegionStructure(page, thePage, analysisDpi, imageDpi, psm, false, existingWords);
 			if (page.size() > pageSize)
 				page.removeTokensAt(0, pageSize);
@@ -1341,8 +1341,7 @@ Times New Roman at 400 DPI (417%):
 		//	no blocks marked so far, analyze page structure first
 		if ((blocks.length == 0) && (tables.length == 0)) {
 			int pageSize = page.size();
-			Region thePage = PageImageAnalysis.getPageRegion(ai, analysisDpi, psm);
-//			appendRegionStructure(page, thePage, analysisDpi, pageImageDpi, psm, true, null);
+			Region thePage = PageImageAnalysis.getPageRegion(ai, analysisDpi, true, psm);
 			appendRegionStructure(page, thePage, analysisDpi, imageDpi, psm, true, null);
 			if (page.size() > pageSize)
 				page.removeTokensAt(0, pageSize);

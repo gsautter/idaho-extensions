@@ -308,34 +308,37 @@ public class PageImageAnalysis implements ImagingConstants {
 	 * and text blocks.
 	 * @param ai the page image to analyze
 	 * @param dpi the resolution of the underlying page image
+	 * @param filterImageBlocks filter out blocks that are likely to be images
+	 *            rather than text? (safe to switch off for born-digital page
+	 *            images)
 	 * @param psm a monitor object for reporting progress, e.g. to a UI
 	 * @return the root region, representing the whole page
 	 * @throws IOException
 	 */
-	public static Region getPageRegion(AnalysisImage ai, int dpi, ProgressMonitor psm) throws IOException {
+	public static Region getPageRegion(AnalysisImage ai, int dpi, boolean filterImageBlocks, ProgressMonitor psm) throws IOException {
 		ImagePartRectangle pageBounds = Imaging.getContentBox(ai);
 //		int minHorizontalBlockMargin = (dpi / 15); // TODO find out if this makes sense (will turn out in the long haul only, though)
 		int minHorizontalBlockMargin = (dpi / 10); // TODO find out if this makes sense (will turn out in the long haul only, though)
 //		int minHorizontalBlockMargin = (dpi / 8); // TODO find out if this makes sense (will turn out in the long haul only, though)
 //		int minVerticalBlockMargin = (dpi / 15); // TODO find out if this makes sense (will turn out in the long haul only, though)
 		int minVerticalBlockMargin = (dpi / 10); // TODO find out if this makes sense (will turn out in the long haul only, though)
-		return getPageRegion(pageBounds, minHorizontalBlockMargin, minVerticalBlockMargin, dpi, psm);
+		return getPageRegion(pageBounds, minHorizontalBlockMargin, minVerticalBlockMargin, dpi, filterImageBlocks, psm);
 	}
 	
-	private static Region getPageRegion(ImagePartRectangle pageBounds, int minHorizontalBlockMargin, int minVerticalBlockMargin, int dpi, ProgressMonitor psm) {
+	private static Region getPageRegion(ImagePartRectangle pageBounds, int minHorizontalBlockMargin, int minVerticalBlockMargin, int dpi, boolean filterImageBlocks, ProgressMonitor psm) {
 		
 		//	create block comprising whole page
 		Region page = new Region(pageBounds, false, null);
 		
 		//	fill in region tree
-		fillInSubRegions(page, minHorizontalBlockMargin, minVerticalBlockMargin, dpi, psm);
+		fillInSubRegions(page, minHorizontalBlockMargin, minVerticalBlockMargin, dpi, filterImageBlocks, psm);
 		
 		//	finally ...
 		return page;
 	}
 	
 	private static final float capitalIHeightWidthRatio = (((float) 8) / 2); // the height/width ratio of a capital I is usually lower in serif fonts, but we want to have some safety margin
-	private static void fillInSubRegions(Region region, int minHorizontalBlockMargin, int minVerticalBlockMargin, int dpi, ProgressMonitor psm) {
+	private static void fillInSubRegions(Region region, int minHorizontalBlockMargin, int minVerticalBlockMargin, int dpi, boolean filterImageBlocks, ProgressMonitor psm) {
 		if (minHorizontalBlockMargin != 1)
 			System.out.println("Splitting region " + region.getBoundingBox());
 		
@@ -391,14 +394,14 @@ public class PageImageAnalysis implements ImagingConstants {
 			Region subRegion = new Region(subRegions[r], !region.isColumn, region);
 			
 			//	analyze sub region recursively
-			fillInSubRegions(subRegion, minHorizontalBlockMargin, minVerticalBlockMargin, dpi, psm);
+			fillInSubRegions(subRegion, minHorizontalBlockMargin, minVerticalBlockMargin, dpi, filterImageBlocks, psm);
 			
 			//	this sub region is not atomic, but has no sub regions worth retaining either, so forget about it
 			if (!subRegion.isAtomic() && (subRegion.getSubRegionCount() == 0))
 				continue;
 			
-			//	atomic and more than an inch in either direction, check brightness
-			if (subRegion.isAtomic() && ((subRegion.bounds.bottomRow - subRegion.bounds.topRow) > dpi) && ((subRegion.bounds.rightCol - subRegion.bounds.leftCol) > dpi)) {
+			//	atomic and more than an inch in either direction, check brightness if required
+			if (filterImageBlocks && subRegion.isAtomic() && ((subRegion.bounds.bottomRow - subRegion.bounds.topRow) > dpi) && ((subRegion.bounds.rightCol - subRegion.bounds.leftCol) > dpi)) {
 				byte avgBrightness = Imaging.computeAverageBrightness(subRegions[r]);
 				if (avgBrightness <= 96)
 					continue;
@@ -428,7 +431,7 @@ public class PageImageAnalysis implements ImagingConstants {
 				ImagePartRectangle testRegionBounds = new ImagePartRectangle(subRegion.bounds.analysisImage);
 				Imaging.copyBounds(subRegion.bounds, testRegionBounds);
 				Region testRegion = new Region(testRegionBounds, true, null);
-				fillInSubRegions(testRegion, 1, 1, dpi, psm);
+				fillInSubRegions(testRegion, 1, 1, dpi, true, psm);
 				if (!testRegion.isAtomic() && (testRegion.getSubRegionCount() == 0))
 					continue;
 			}

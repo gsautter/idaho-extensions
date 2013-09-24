@@ -244,6 +244,11 @@ public class PdfExtractorTest implements ImagingConstants {
 //		pdfName = "Ono2009c.pdf"; // born-digital, fonts with misleading ToUnicode mappings
 //		pdfName = "OttBrescovit2003.pdf"; // born-digital, page 0 with negative line matrix entries, currently renders upside down
 		
+		//	PDFs from Hong & Elvis
+		pdfName = "AcaxanthumTullyandRazin1970.pdf"; // vertical text at right page edge, messing with line detection
+													 // in addition, caption on 2 is missed
+//		pdfName = "Methanobacterium.aarhusense(1).pdf"; // renders fine
+		
 		long start = System.currentTimeMillis();
 		int scaleFactor = 1;
 		aimAtPage = -1; // TODO always set this to -1 for JAR export
@@ -614,7 +619,7 @@ public class PdfExtractorTest implements ImagingConstants {
 		BoundingBox bb = BoundingBox.getBoundingBox(word);
 		int baseline = Integer.parseInt((String) word.getAttribute(BASELINE_ATTRIBUTE, "-1"));
 		if ((bb == null) || (baseline < bb.top)) {
-			System.out.println("Cannot paint baseline");
+//			System.out.println("Cannot paint baseline");
 			return;
 		}
 		for (int c = (bb.left/scaleDown); c < (bb.right/scaleDown); c++)

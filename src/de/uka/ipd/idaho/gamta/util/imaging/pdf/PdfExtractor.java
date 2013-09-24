@@ -29,6 +29,7 @@ package de.uka.ipd.idaho.gamta.util.imaging.pdf;
 
 import java.awt.Color;
 import java.awt.Font;
+import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.font.LineMetrics;
 import java.awt.font.TextLayout;
@@ -790,8 +791,7 @@ public class PdfExtractor implements ImagingConstants, TableConstants {
 					//	generate page document
 					pages[p] = Gamta.newDocument(doc.getTokenizer());
 					
-					//	clean bounding boxes of PDF words - might overlap with several lines in page image ...
-					AnalysisImage api = Imaging.wrapImage(pageImages[p], (imageNames[p] + imageDPIs[p]));
+					//	index PDF words by bounding boxes
 					HashMap pWordsByBoxes = new HashMap();
 					for (int w = 0; w < pWordAnnots[p].size(); w++) {
 						Annotation pWordAnnot = ((Annotation) pWordAnnots[p].get(w));
@@ -800,7 +800,8 @@ public class PdfExtractor implements ImagingConstants, TableConstants {
 					}
 					
 					//	obtain visual page structure (use smaller-than-usual word margin, as merge will happen automatically further down the road for in-word splits
-					Region pageRootRegion = PageImageAnalysis.getPageRegion(api, imageDPIs[p], psm);
+					AnalysisImage api = Imaging.wrapImage(pageImages[p], (imageNames[p] + imageDPIs[p]));
+					Region pageRootRegion = PageImageAnalysis.getPageRegion(api, imageDPIs[p], false, psm);
 					
 					//	add page content to document
 					ArrayList emptyWords = new ArrayList();
@@ -838,6 +839,17 @@ public class PdfExtractor implements ImagingConstants, TableConstants {
 			}
 		}, pageTree.getNumberOfPages());
 		psm.setProgress(100);
+		
+		//	check errors
+		if (error[0] != null) {
+			if (error[0] instanceof RuntimeException)
+				throw ((RuntimeException) error[0]);
+			else if (error[0] instanceof Error)
+				throw ((Error) error[0]);
+			else if (error[0] instanceof IOException)
+				throw ((IOException) error[0]);
+			else throw new IOException(error[0].getMessage());
+		}
 		
 		//	copy pages into main document
 		psm.setBaseProgress(95);
