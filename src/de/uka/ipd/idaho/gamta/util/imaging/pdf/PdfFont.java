@@ -1803,9 +1803,19 @@ FontFile2=65 0R
 	}
 	
 	private static char getChar(PStream charProg, String charName, HashMap objects, HashMap cache) throws IOException {
-		ByteArrayOutputStream baos = new ByteArrayOutputStream();
-		PdfParser.decode(charProg.params.get("Filter"), charProg.bytes, charProg.params, baos, objects);
-		byte[] cpBytes = baos.toByteArray();
+		byte[] cpBytes;
+		try {
+			ByteArrayOutputStream baos = new ByteArrayOutputStream();
+			PdfParser.decode(charProg.params.get("Filter"), charProg.bytes, charProg.params, baos, objects);
+			cpBytes = baos.toByteArray();
+		}
+		catch (IOException ioe) {
+			System.out.println("Could not read char prog:");
+			ioe.printStackTrace(System.out);
+			char fbch = StringUtils.getCharForName(charName); // fail gracefully
+			System.out.println("Falling back to named char: '" + fbch + "' (" + ((int) fbch) + ")");
+			return fbch;
+		}
 		if (DEBUG_LOAD_FONTS) {
 			System.out.write(cpBytes);
 			System.out.println();
@@ -1866,7 +1876,7 @@ FontFile2=65 0R
 		
 		if ((imgWidth == -1) || (imgHeight == -1) || (imgData == null)) {
 			if (DEBUG_LOAD_FONTS) System.out.println("Invalid char prog");
-			return 0;
+			return StringUtils.getCharForName(charName); // fail gracefully
 		}
 		if (imgFilter != null) {
 			imgBuffer = new ByteArrayOutputStream();

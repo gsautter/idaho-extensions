@@ -224,7 +224,7 @@ public class PdfParser {
 		while ((read = d.read(buffer)) != -1)
 			baos.write(buffer, 0, read);
 	}
-		
+	
 	private static void decodeAsciiHex(byte[] stream, Hashtable params, ByteArrayOutputStream baos) throws IOException {
 		ASCIIHexDecode d = new ASCIIHexDecode(new ByteArrayInputStream(stream));
 		byte[] buffer = new byte[1024];

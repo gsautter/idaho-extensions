@@ -249,6 +249,9 @@ public class PdfExtractorTest implements ImagingConstants {
 													 // in addition, caption on 2 is missed
 //		pdfName = "Methanobacterium.aarhusense(1).pdf"; // renders fine
 		
+		//	PiB October workshop, unzip error in ZooTaxa file
+		pdfName = "zt01826p058.pdf";
+		
 		long start = System.currentTimeMillis();
 		int scaleFactor = 1;
 		aimAtPage = -1; // TODO always set this to -1 for JAR export
