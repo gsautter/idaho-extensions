@@ -231,7 +231,7 @@ public abstract class FeedbackPanel extends JPanel implements Scrollable {
 	});
 	private static FeedbackService defaultFeedbackService = null;
 	static {
-		try {
+		if (!GraphicsEnvironment.isHeadless()) try {
 			defaultFeedbackService = new DefaultFeedbackService();
 		}
 		catch (HeadlessException he) {
