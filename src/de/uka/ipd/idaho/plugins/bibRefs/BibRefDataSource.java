@@ -41,7 +41,7 @@ import de.uka.ipd.idaho.plugins.bibRefs.BibRefUtils.RefData;
  * Abstract source of bibliographic reference meta data, mostly for wrapping
  * online data sources. Non-abstract sub classes should provide a no-argument
  * constructor passing a fixed name to super(). However, this is only a
- * suggestion, as there might be situations that neccessiate a different
+ * suggestion, as there might be situations that necessitate a different
  * approach, e.g. loading the name form a config file. In this case, the
  * argument to super() should be a dummy value or simply null. However, the name
  * has to have its final value after the init() method returns.

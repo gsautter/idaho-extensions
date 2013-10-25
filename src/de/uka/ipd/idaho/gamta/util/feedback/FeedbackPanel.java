@@ -231,12 +231,19 @@ public abstract class FeedbackPanel extends JPanel implements Scrollable {
 	});
 	private static FeedbackService defaultFeedbackService = null;
 	static {
-		if (!GraphicsEnvironment.isHeadless()) try {
-			defaultFeedbackService = new DefaultFeedbackService();
+		try {
+			if (!GraphicsEnvironment.isHeadless()) try {
+				defaultFeedbackService = new DefaultFeedbackService();
+			}
+			catch (HeadlessException he) {
+				System.out.println("FeedbackPanel: could not create default feedback service");
+				he.printStackTrace(System.out);
+			}
 		}
-		catch (HeadlessException he) {
-			System.out.println("FeedbackPanel: could not create default feedback service");
-			he.printStackTrace(System.out);
+		catch (Throwable t) {
+			System.out.println("FeedbackPanel: error attempting to create default feedback service");
+			System.out.println(t.getClass() + ": " + t.getMessage());
+			t.printStackTrace(System.out);
 		}
 	}
 	

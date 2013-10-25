@@ -250,7 +250,11 @@ public class PdfExtractorTest implements ImagingConstants {
 //		pdfName = "Methanobacterium.aarhusense(1).pdf"; // renders fine
 		
 		//	PiB October workshop, unzip error in ZooTaxa file
-		pdfName = "zt01826p058.pdf";
+		pdfName = "zt01826p058.pdf"; // faulty font program, now failing gracefully and continuing
+		
+		//	Plazi Retreat October, file hangs somewhere
+		pdfName = "zt02534p036.pdf";
+		
 		
 		long start = System.currentTimeMillis();
 		int scaleFactor = 1;
@@ -399,11 +403,11 @@ public class PdfExtractorTest implements ImagingConstants {
 				Annotation[] blocks = pages[p].getAnnotations(BLOCK_ANNOTATION_TYPE);
 				for (int b = 0; b < blocks.length; b++)
 					paintBox(bi, scaleDown, blocks[b], Color.BLUE.getRGB(), imageMargin, 3);
-//				
-//				Annotation[] paragraphs = pages[p].getAnnotations(MutableAnnotation.PARAGRAPH_TYPE);
-//				for (int g = 0; g < paragraphs.length; g++)
-//					paintBox(bi, scaleDown, paragraphs[g], Color.GREEN.getRGB(), imageMargin, 2);
-//				
+				
+				Annotation[] paragraphs = pages[p].getAnnotations(MutableAnnotation.PARAGRAPH_TYPE);
+				for (int g = 0; g < paragraphs.length; g++)
+					paintBox(bi, scaleDown, paragraphs[g], Color.GREEN.getRGB(), imageMargin, 2);
+				
 				Annotation[] columns = pages[p].getAnnotations(COLUMN_ANNOTATION_TYPE);
 				for (int c = 0; c < columns.length; c++)
 					paintBox(bi, scaleDown, columns[c], Color.DARK_GRAY.getRGB(), imageMargin, 5);

@@ -1593,7 +1593,7 @@ public class Imaging {
 	 * @return a rectangle with the left and right margins removed
 	 */
 	public static ImagePartRectangle narrowLeftAndRight(ImagePartRectangle rect) {
-		if (rect.bottomRow <= rect.topRow)
+		if ((rect.bottomRow <= rect.topRow) || (rect.rightCol <= rect.leftCol))
 			return rect;
 		
 		byte[][] brightness = rect.analysisImage.getBrightness();
@@ -1633,7 +1633,7 @@ public class Imaging {
 	 * @return a rectangle with the top and bottom margins removed
 	 */
 	public static ImagePartRectangle narrowTopAndBottom(ImagePartRectangle rect) {
-		if (rect.rightCol <= rect.leftCol)
+		if ((rect.bottomRow <= rect.topRow) || (rect.rightCol <= rect.leftCol))
 			return rect;
 		
 		byte[][] brightness = rect.analysisImage.getBrightness();
@@ -1713,7 +1713,7 @@ public class Imaging {
 	 * @return an array holding the columns
 	 */
 	public static ImagePartRectangle[] splitIntoColumns(ImagePartRectangle rect, int minSplitMargin, double shearDegrees, boolean requireVerticalSplit) {
-		if (rect.bottomRow <= rect.topRow) {
+		if ((rect.bottomRow <= rect.topRow) || (rect.rightCol <= rect.leftCol)) {
 			ImagePartRectangle[] iprs = {rect};
 			return iprs;
 		}
@@ -1892,7 +1892,7 @@ public class Imaging {
 	 * @return an array holding the rows
 	 */
 	public static ImagePartRectangle[] splitIntoRows(ImagePartRectangle rect, int minSplitMargin, double maxSkewAngle, int zigzagPartWidth, int maxZigzagSlope) {
-		if (rect.rightCol <= rect.leftCol) {
+		if ((rect.bottomRow <= rect.topRow) || (rect.rightCol <= rect.leftCol)) {
 			ImagePartRectangle[] iprs = {rect};
 			return iprs;
 		}
