@@ -628,7 +628,7 @@ public class AnnotationEditorFeedbackPanelRenderer extends FeedbackPanelHtmlRend
 			blw.writeLine("  return false;");
 			blw.writeLine("}");
 			
-			blw.writeLine("function remove() {");
+			blw.writeLine("function removeSelection() {");
 			blw.writeLine("  if ((_start != null) && (_end != null)) {");
 			blw.writeLine("    while ($('token' + _start) && (getState(_start) == 'C'))");
 			blw.writeLine("      _start--;");
@@ -1075,7 +1075,7 @@ public class AnnotationEditorFeedbackPanelRenderer extends FeedbackPanelHtmlRend
 			}
 			blw.writeLine("");
 			
-			blw.writeLine("<li id=\"remove\" class=\"menuItem\"><a href=\"#\" onclick=\"return remove();\">Remove Annotation</a></li>");
+			blw.writeLine("<li id=\"remove\" class=\"menuItem\"><a href=\"#\" onclick=\"return removeSelection();\">Remove Annotation</a></li>");
 			blw.writeLine("<li id=\"removeAllValue\" class=\"menuItem\"><a id=\"removeAllValueItem\" href=\"#\" onclick=\"return removeAllValue();\">Remove all Annotations by Value</a></li>");
 			blw.writeLine("<li id=\"removeAllType\" class=\"menuItem\"><a id=\"removeAllTypeItem\" href=\"#\" onclick=\"return removeAllType();\">Remove all Annotations by Type</a></li>");
 			blw.writeLine("<li id=\"removeAllSelection\" class=\"menuItem\"><a href=\"#\" onclick=\"return removeAllSelection();\">Remove all Selected Annotations</a></li>");

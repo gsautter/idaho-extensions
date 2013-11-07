@@ -75,7 +75,6 @@ import java.util.TreeSet;
 import javax.swing.AbstractButton;
 import javax.swing.BorderFactory;
 import javax.swing.JButton;
-import javax.swing.JCheckBox;
 import javax.swing.JComboBox;
 import javax.swing.JComponent;
 import javax.swing.JDialog;
@@ -247,9 +246,9 @@ public abstract class FeedbackPanel extends JPanel implements Scrollable {
 		}
 	}
 	
-	private static TreeSet flags = new TreeSet();
-	private static final String noFlag = "<Do not flag>";
-	
+//	private static TreeSet flags = new TreeSet();
+//	private static final String noFlag = "<Do not flag>";
+//	
 	/**
 	 * Default implementation of the feedback service. This class does not
 	 * support multi feedback. It opens feedback panels in dialogs on the local
@@ -625,34 +624,6 @@ public abstract class FeedbackPanel extends JPanel implements Scrollable {
 				this.zoomPanel = new ZoomPanel();
 			if (DEBUG) System.out.println("  - zoom panel produced");
 			
-			//	initialize flagging
-			String feedbackAnnotationType = fp.getProperty(TARGET_ANNOTATION_TYPE_PROPERTY);
-			String flagLabel = ((feedbackAnnotationType == null) ? "" : (" " + feedbackAnnotationType.substring(0, 1).toUpperCase() + feedbackAnnotationType.substring(1)));
-			String flagTooltip = ("Flag the content of this feedback dialog " + (flags.isEmpty() ? "for further inspection" : "for one of the available reasons"));
-			final JCheckBox simpleFlag;
-			final JLabel detailFlagLabel;
-			final JComboBox detailFlagSelector;
-			final JPanel detailFlagPanel;
-			if (flags.isEmpty()) {
-				simpleFlag = new JCheckBox(("Flag" + flagLabel), (fp.getProperty(FLAG_PROPERTY_NAME) != null));
-				simpleFlag.setToolTipText(flagTooltip);
-				detailFlagLabel = null;
-				detailFlagSelector = null;
-				detailFlagPanel = null;
-			}
-			else {
-				simpleFlag = null;
-				detailFlagLabel = new JLabel("Flag" + flagLabel + " as ");
-				detailFlagLabel.setToolTipText(flagTooltip);
-				detailFlagSelector = new JComboBox(getFlags());
-				detailFlagSelector.insertItemAt(noFlag, 0);
-				detailFlagSelector.setSelectedItem(fp.getProperty(FLAG_PROPERTY_NAME, noFlag));
-				detailFlagPanel = new JPanel(new BorderLayout(), true);
-				detailFlagPanel.add(detailFlagLabel, BorderLayout.WEST);
-				detailFlagPanel.add(detailFlagSelector, BorderLayout.CENTER);
-			}
-			if (DEBUG) System.out.println("  - flagging prepared");
-			
 			//	add buttons
 			JPanel buttonPanel = new JPanel(new FlowLayout(FlowLayout.CENTER));
 			final String[] buttons = fp.getButtons();
@@ -663,17 +634,6 @@ public abstract class FeedbackPanel extends JPanel implements Scrollable {
 						String[] error = fp.checkFeedback("OK");
 						if (error == null) {
 							fp.setStatusCode("OK");
-							if (simpleFlag != null) {
-								if (simpleFlag.isSelected())
-									fp.setProperty(FLAG_PROPERTY_NAME, "true");
-								else fp.removeProperty(FLAG_PROPERTY_NAME);
-							}
-							else {
-								String flag = ((String) detailFlagSelector.getSelectedItem());
-								if ((flag != null) && !noFlag.equals(flag))
-									fp.setProperty(FLAG_PROPERTY_NAME, flag);
-								else fp.removeProperty(FLAG_PROPERTY_NAME);
-							}
 							dialog.dispose();
 						}
 						else displayError(error, dialog);
@@ -690,17 +650,6 @@ public abstract class FeedbackPanel extends JPanel implements Scrollable {
 							String[] error = fp.checkFeedback(buttonLabel);
 							if (error == null) {
 								fp.setStatusCode(buttonLabel);
-								if (simpleFlag != null) {
-									if (simpleFlag.isSelected())
-										fp.setProperty(FLAG_PROPERTY_NAME, "true");
-									else fp.removeProperty(FLAG_PROPERTY_NAME);
-								}
-								else {
-									String flag = ((String) detailFlagSelector.getSelectedItem());
-									if ((flag != null) && !noFlag.equals(flag))
-										fp.setProperty(FLAG_PROPERTY_NAME, flag);
-									else fp.removeProperty(FLAG_PROPERTY_NAME);
-								}
 								dialog.dispose();
 							}
 							else displayError(error, dialog);
@@ -726,9 +675,6 @@ public abstract class FeedbackPanel extends JPanel implements Scrollable {
 			}
 			
 			JPanel functionPanel = new JPanel(new BorderLayout(), true);
-			if (simpleFlag != null)
-				functionPanel.add(simpleFlag, BorderLayout.WEST);
-			else functionPanel.add(detailFlagPanel, BorderLayout.WEST);
 			functionPanel.add(buttonPanel, BorderLayout.CENTER);
 			functionPanel.add(this.zoomPanel, BorderLayout.EAST);
 			dialog.getContentPane().add(functionPanel, BorderLayout.SOUTH);
@@ -1099,40 +1045,40 @@ public abstract class FeedbackPanel extends JPanel implements Scrollable {
 			feedbackServices.remove(feedbackService);
 	}
 	
-	/**
-	 * Retrieve the flags available in feedback dialogs to mark individual
-	 * feedback panels. Flags can, for instance, indicate reasons why the
-	 * content of a feedback panel requires further editing that is not
-	 * possible in the feedback panel proper. If no flags have been added, this
-	 * method returns null. Thus, any non-null array returned by this method
-	 * has at least one element.
-	 * @return an array holding the available flags
-	 */
-	public static String[] getFlags() {
-		return (flags.isEmpty() ? null : ((String[]) flags.toArray(new String[flags.size()])));
-	}
-	
-	/**
-	 * Add a flag to be available in feedback dialogs to mark individual
-	 * feedback panels. Flags can, for instance, indicate reasons why the
-	 * content of a feedback panel requires further editing that is not
-	 * possible in the feedback panel proper.
-	 * @param flag the flag to add
-	 */
-	public static void addFlag(String flag) {
-		if (flag != null)
-			flags.add(flag);
-	}
-	
-	/**
-	 * Remove a flag.
-	 * @param flag the flag to remove
-	 */
-	public static void removeFlag(String flag) {
-		if (flags != null)
-			flags.remove(flag);
-	}
-	
+//	/**
+//	 * Retrieve the flags available in feedback dialogs to mark individual
+//	 * feedback panels. Flags can, for instance, indicate reasons why the
+//	 * content of a feedback panel requires further editing that is not
+//	 * possible in the feedback panel proper. If no flags have been added, this
+//	 * method returns null. Thus, any non-null array returned by this method
+//	 * has at least one element.
+//	 * @return an array holding the available flags
+//	 */
+//	public static String[] getFlags() {
+//		return (flags.isEmpty() ? null : ((String[]) flags.toArray(new String[flags.size()])));
+//	}
+//	
+//	/**
+//	 * Add a flag to be available in feedback dialogs to mark individual
+//	 * feedback panels. Flags can, for instance, indicate reasons why the
+//	 * content of a feedback panel requires further editing that is not
+//	 * possible in the feedback panel proper.
+//	 * @param flag the flag to add
+//	 */
+//	public static void addFlag(String flag) {
+//		if (flag != null)
+//			flags.add(flag);
+//	}
+//	
+//	/**
+//	 * Remove a flag.
+//	 * @param flag the flag to remove
+//	 */
+//	public static void removeFlag(String flag) {
+//		if (flags != null)
+//			flags.remove(flag);
+//	}
+//	
 	/**
 	 * Get a feedback request answered. The specified feedback panel is looped
 	 * through to the backing feedback service. This method blocks until
@@ -1385,15 +1331,6 @@ public abstract class FeedbackPanel extends JPanel implements Scrollable {
 	 * class invoking the method.
 	 */
 	public static final String REQUESTER_CLASS_NAME_PROPERTY = "RequesterClassName";
-	
-	/**
-	 * The name of the property that contains the flag set for a feedback panel
-	 * by answering users. Flags can, for instance, indicate reasons why the
-	 * content of a feedback panel requires further editing that is not
-	 * possible in the feedback panel proper. It is the responsibility of the
-	 * requester to observe this property and take respective action.
-	 */
-	public static final String FLAG_PROPERTY_NAME = "Flag";
 	
 	private static final boolean DEBUG_REQUESTER = false;
 	private static String getFeedbackRequesterClassName() {

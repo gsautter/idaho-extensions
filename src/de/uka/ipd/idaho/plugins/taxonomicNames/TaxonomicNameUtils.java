@@ -175,7 +175,7 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		/**
 		 * Get the rank of the name, i.e., the rank of the most significant
 		 * epithet. If the name object does not contain and epithets, this
-		 * methos returns null.
+		 * method returns null.
 		 * @return the rank of the most significant epithet
 		 */
 		public String getRank() {

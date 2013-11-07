@@ -521,7 +521,7 @@ public class BibRefUtils implements BibRefConstants {
 				rd.addAttribute(genericAttributeNames[a], TokenSequenceUtils.concatTokens(details[d], true, true));
 		}
 		
-		//	get type, induce if neccessary
+		//	get type, induce if necessary
 		String type = ((String) genericRef.getAttribute(PUBLICATION_TYPE_ATTRIBUTE));
 		if ((type == null) || (type.length() == 0))
 			BibRefUtils.classify(rd);
