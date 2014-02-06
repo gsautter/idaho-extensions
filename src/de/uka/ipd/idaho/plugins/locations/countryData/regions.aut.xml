@@ -1,0 +1,439 @@
+<regions country="Austria">
+	<region name="Burgenland" type="state" typeTranslated="Bundesland">
+		<name normalized="Burgenland" languages="Afrikaans;Aragonese;Basque;Breton;Catalan;Chinese (Min Nan);Cornish;Czech;Danish;Dutch;English;Estonian;Finnish;French;Friulian;Galician;German;Hungarian;Icelandic;Indonesian;Interlingue;Italian;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Polish;Portuguese;Romanian;Scots;Scottish Gaelic;Simple English;Slovak;Spanish;Swedish;Turkish;Vietnamese;veneto;Waray;Welsh">Burgenland</name>
+		<name normalized="Burgenlandas" languages="Lithuanian">Burgenlandas</name>
+		<name normalized="Burgenlande" languages="Latvian">Burgenlande</name>
+		<name normalized="Burgenlandia" languages="Latin">Burgenlandia</name>
+		<name normalized="Burgenlando" languages="Esperanto">Burgenlando</name>
+		<name normalized="Burgnland" languages="Bavarian">Burgnland</name>
+		<name normalized="Gradisce" languages="Bosnian;Croatian;Serbo-Croatian">Gradišće</name>
+		<name normalized="Gradiscanska" languages="Slovenian">Gradiščanska</name>
+		<name normalized="Μποuργκενλαντ" languages="Greek">Μπούργκενλαντ</name>
+		<name normalized="Buрgiнлaнd" languages="Belarusian;Bulgarian;Macedonian;Mongolian;Ossetic;Russian;Serbian;Ukrainian">Бургенланд</name>
+		<name normalized="Buрgiнлiнd" languages="biлaрuсkai (taрaskivita)‎">Бургенлянд</name>
+		<name normalized="Iёлati Buрgiнлaнd" languages="Tajik">Иёлати Бургенланд</name>
+		<name normalized="Bvyrգենlանd" languages="Armenian">Բուրգենլանդ</name>
+		<name normalized="bvrגnדאnד" languages="Yiddish">בורגנלאנד</name>
+		<name normalized="bvrגnדnד" languages="Hebrew">בורגנלנד</name>
+		<name normalized="brgنلینڈ" languages="Western Punjabi">برگنلینڈ</name>
+		<name normalized="bوrغنلאند" languages="Arabic">بورغنلاند</name>
+		<name normalized="bوrgن‌لאند" languages="Persian">بورگن‌لاند</name>
+		<name normalized="bur्gnlांड" languages="Marathi">बुर्गनलांड</name>
+		<name normalized="รัฐบูร์เกนลันด์" languages="Thai">รัฐบูร์เกนลันด์</name>
+		<name normalized="ბურგენლანდი" languages="Georgian">ბურგენლანდი</name>
+		<name normalized="brgnrnt州" languages="Japanese">ブルゲンラント州</name>
+		<name normalized="布尔根兰州" languages="Chinese">布尔根兰州</name>
+		<name normalized="부르겐란트 주" languages="Korean">부르겐란트 주</name>
+	</region>
+	<region name="Karnten" type="state" typeTranslated="Bundesland">
+		<name normalized="Carinsia" languages="veneto">Carinsia</name>
+		<name normalized="Carinthia" languages="English;Latin;official;Scottish Gaelic;Simple English;Waray;Welsh">Carinthia</name>
+		<name normalized="Carinthie" languages="French;Scots">Carinthie</name>
+		<name normalized="Carintia" languages="Aragonese;Interlingue;Romanian;Spanish">Carintia</name>
+		<name normalized="Carintie" languages="Friulian">Carintie</name>
+		<name normalized="Carinzia" languages="Italian;Sicilian">Carinzia</name>
+		<name normalized="Carintia" languages="Catalan;Occitan;Portuguese">Caríntia</name>
+		<name normalized="Karinten" languages="Low Saxon (Netherlands)">Karinten</name>
+		<name normalized="Karinthia" languages="Swahili">Karinthia</name>
+		<name normalized="Karinthie" languages="Afrikaans;Dutch">Karinthië</name>
+		<name normalized="Karintia" languages="Basque;Breton;Hungarian">Karintia</name>
+		<name normalized="Karintija" languages="Latvian;Lithuanian">Karintija</name>
+		<name normalized="Karintio" languages="Esperanto">Karintio</name>
+		<name normalized="Karintiya" languages="Turkish">Karintiya</name>
+		<name normalized="Karnten" languages="English;official">Karnten</name>
+		<name normalized="Karntn" languages="Bavarian">Karntn</name>
+		<name normalized="Karyntia" languages="Polish">Karyntia</name>
+		<name normalized="Koroska" languages="Slovenian">Koroška</name>
+		<name normalized="Korutanska" languages="Upper Sorbian">Korutanska</name>
+		<name normalized="Korutany" languages="Czech">Korutany</name>
+		<name normalized="Korutanska" languages="Lower Sorbian">Korutańska</name>
+		<name normalized="Korutansko" languages="Slovak">Korutánsko</name>
+		<name normalized="Koruska" languages="Bosnian;Croatian;Serbo-Croatian">Koruška</name>
+		<name normalized="Karnten" languages="Chinese (Min Nan);Cornish;Danish;Finnish;German;Icelandic;Indonesian;Malay;Norwegian (bokmal);Norwegian Nynorsk;Swedish;Vietnamese">Kärnten</name>
+		<name normalized="Karnteni liidumaa" languages="Estonian">Kärnteni liidumaa</name>
+		<name normalized="Καρινθια" languages="Greek">Καρινθία</name>
+		<name normalized="Iёлati Kaрiнtii" languages="Tajik">Иёлати Каринтия</name>
+		<name normalized="Kaрiнt" languages="Mongolian">Каринт</name>
+		<name normalized="Kaрiнti" languages="Ossetic">Каринти</name>
+		<name normalized="Kaрiнtii" languages="Bulgarian;Russian">Каринтия</name>
+		<name normalized="Kaрiнtii" languages="Ukrainian">Каринтія</name>
+		<name normalized="Kaрынtыi" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Карынтыя</name>
+		<name normalized="Koрuska" languages="Macedonian;Serbian">Корушка</name>
+		<name normalized="Kաrինtիա" languages="Armenian">Կարինտիա</name>
+		<name normalized="qrיntיh" languages="Hebrew">קרינתיה</name>
+		<name normalized="kyrنtن" languages="Arabic">كيرنتن</name>
+		<name normalized="کאrنtھیא" languages="Western Punjabi">کارنتھیا</name>
+		<name normalized="کrنtن" languages="Persian">کرنتن</name>
+		<name normalized="kerin्tiyा" languages="Hindi">केरिन्थिया</name>
+		<name normalized="k्yाr्n्टn" languages="Marathi">क्यार्न्टन</name>
+		<name normalized="kાr્ટen" languages="Gujarati">કાર્ટેન</name>
+		<name normalized="కెంర్టెన్" languages="Telugu">కెంర్టెన్</name>
+		<name normalized="ಕಾರ್ನ್ಟೆನ್" languages="Kannada">ಕಾರ್ನ್ಟೆನ್</name>
+		<name normalized="รัฐคารินเทีย" languages="Thai">รัฐคารินเทีย</name>
+		<name normalized="კარინტია" languages="Georgian">კარინტია</name>
+		<name normalized="krntn州" languages="Japanese">ケルンテン州</name>
+		<name normalized="克恩顿州" languages="Chinese">克恩顿州</name>
+		<name normalized="케른텐 주" languages="Korean">케른텐 주</name>
+	</region>
+	<region name="Niederoesterreich" type="state" typeTranslated="Bundesland">
+		<name normalized="Ala-Itavalta" languages="Finnish">Ala-Itävalta</name>
+		<name normalized="Alam-Austria" languages="Estonian">Alam-Austria</name>
+		<name normalized="Also-Ausztria" languages="Hungarian">Alsó-Ausztria</name>
+		<name normalized="An Ostair Iochdarach" languages="Scottish Gaelic">An Ostair Ìochdarach</name>
+		<name normalized="Aostria-Izel" languages="Breton">Aostria-Izel</name>
+		<name normalized="Austria Beherea" languages="Basque">Austria Beherea</name>
+		<name normalized="Austria Chini" languages="Swahili">Austria Chini</name>
+		<name normalized="Austria Hilir" languages="Indonesian">Austria Hilir</name>
+		<name normalized="Austria Inferioara" languages="Romanian">Austria Inferioară</name>
+		<name normalized="Austria Inferior" languages="Latin">Austria Inferior</name>
+		<name normalized="Awstria Isaf" languages="Welsh">Awstria Isaf</name>
+		<name normalized="Asaky Awstriya" languages="Turkmen">Aşaky Awstriýa</name>
+		<name normalized="Asagı Avusturya" languages="Turkish">Aşağı Avusturya</name>
+		<name normalized="Baixa Austria" languages="Aragonese;Galician">Baixa Austria</name>
+		<name normalized="Baixa Austria" languages="Catalan">Baixa Àustria</name>
+		<name normalized="Baixa Austria" languages="Portuguese">Baixa Áustria</name>
+		<name normalized="Baja Austria" languages="Spanish">Baja Austria</name>
+		<name normalized="Basa Austria" languages="veneto">Basa Àustria</name>
+		<name normalized="Bassa Austria" languages="Italian">Bassa Austria</name>
+		<name normalized="Bassa Austria" languages="Occitan">Bassa Àustria</name>
+		<name normalized="Basse-Autriche" languages="French">Basse-Autriche</name>
+		<name normalized="Dolna Austria" languages="Polish">Dolna Austria</name>
+		<name normalized="Dolne Rakusko" languages="Slovak">Dolné Rakúsko</name>
+		<name normalized="Dolni Rakousy" languages="Czech">Dolní Rakousy</name>
+		<name normalized="Donja Austrija" languages="Bosnian;Croatian;Serbo-Croatian">Donja Austrija</name>
+		<name normalized="Infra Austria" languages="Interlingue">Infra Austria</name>
+		<name normalized="Lawer Austrick" languages="Scots">Lawer Austrick</name>
+		<name normalized="Lejasaustrija" languages="Latvian">Lejasaustrija</name>
+		<name normalized="Lower Austria" languages="English;official;Simple English">Lower Austria</name>
+		<name normalized="Malsupra Austrio" languages="Esperanto">Malsupra Aŭstrio</name>
+		<name normalized="Neder-Oostenrijk" languages="Dutch">Neder-Oostenrijk</name>
+		<name normalized="Neder-Oostenryk" languages="Afrikaans">Neder-Oostenryk</name>
+		<name normalized="Nedra Austurriki" languages="Icelandic">Neðra Austurríki</name>
+		<name normalized="Niadaostareich" languages="Bavarian">Niadaöstareich</name>
+		<name normalized="Niederoesterreich" languages="English;official">Niederoesterreich</name>
+		<name normalized="Niederosterreich" languages="Alemannisch;Chinese (Min Nan);Cornish;Danish;German;Malay;Norwegian (bokmal);Norwegian Nynorsk;Swedish;Vietnamese">Niederösterreich</name>
+		<name normalized="Spodnja Avstrija" languages="Slovenian">Spodnja Avstrija</name>
+		<name normalized="Uruubos nga Austria" languages="Waray">Uruubos nga Austria</name>
+		<name normalized="Zemutine Austrija" languages="Lithuanian">Žemutinė Austrija</name>
+		<name normalized="Κατω Αυστρια" languages="Greek">Κάτω Αυστρία</name>
+		<name normalized="Daeллag Avсtрi" languages="Ossetic">Дæллаг Австри</name>
+		<name normalized="Doлнa Avсtрii" languages="Bulgarian">Долна Австрия</name>
+		<name normalized="Doлнa Avсtрija" languages="Macedonian">Долна Австрија</name>
+		<name normalized="Dooр Avсtрi" languages="Mongolian">Доор Австри</name>
+		<name normalized="Dona Auсtрija" languages="Serbian">Доња Аустрија</name>
+		<name normalized="Iёлati Avсtрiii poёнi" languages="Tajik">Иёлати Австрияи поёнӣ</name>
+		<name normalized="Нizнi Avсtрii" languages="Ukrainian">Нижня Австрія</name>
+		<name normalized="Нizнii Avсtрii" languages="Russian">Нижняя Австрия</name>
+		<name normalized="Нizнii Aўсtрыi" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Ніжняя Аўстрыя</name>
+		<name normalized="Stvrին Ավstrիա" languages="Armenian">Ստորին Ավստրիա</name>
+		<name normalized="אvסtrיh thtיt" languages="Hebrew">אוסטריה תחתית</name>
+		<name normalized="אلنmسא אلسfلى" languages="Arabic">النمسا السفلى</name>
+		<name normalized="tھلوאں آسٹrیא" languages="Western Punjabi">تھلواں آسٹریا</name>
+		<name normalized="نیدrאسtrאیش" languages="Persian">نیدراسترایش</name>
+		<name normalized="niडros्टrाis" languages="Marathi">नीडरओस्टराईश</name>
+		<name normalized="รัฐโลว์เออร์ออสเตรีย" languages="Thai">รัฐโลว์เออร์ออสเตรีย</name>
+		<name normalized="ქვემო ავსტრია" languages="Georgian">ქვემო ავსტრია</name>
+		<name normalized="nーdーestーrih州" languages="Japanese">ニーダーエスターライヒ州</name>
+		<name normalized="下奧地利州" languages="Chinese">下奧地利州</name>
+		<name normalized="니더외스터라이히 주" languages="Korean">니더외스터라이히 주</name>
+	</region>
+	<region name="Oberoesterreich" type="state" typeTranslated="Bundesland">
+		<name normalized="Alta Austria" languages="Aragonese;Galician;Italian;Spanish">Alta Austria</name>
+		<name normalized="Alta Austria" languages="Catalan;veneto">Alta Àustria</name>
+		<name normalized="Alta Austria" languages="Portuguese">Alta Áustria</name>
+		<name normalized="Alte Austrie" languages="Friulian">Alte Austrie</name>
+		<name normalized="An Ostair Uachdar" languages="Scottish Gaelic">An Ostair Uachdar</name>
+		<name normalized="Aostria-Uhel" languages="Breton">Aostria-Uhel</name>
+		<name normalized="Augsaustrija" languages="Latvian">Augšaustrija</name>
+		<name normalized="Aukstutine Austrija" languages="Lithuanian">Aukštutinė Austrija</name>
+		<name normalized="Austria Garaia" languages="Basque">Austria Garaia</name>
+		<name normalized="Austria Hulu" languages="Indonesian">Austria Hulu</name>
+		<name normalized="Austria Juu" languages="Swahili">Austria Juu</name>
+		<name normalized="Austria Superioara" languages="Romanian">Austria Superioară</name>
+		<name normalized="Austria Superior" languages="Latin">Austria Superior</name>
+		<name normalized="Awstria Uchaf" languages="Welsh">Awstria Uchaf</name>
+		<name normalized="Efra Austurriki" languages="Icelandic">Efra Austurríki</name>
+		<name normalized="Felso-Ausztria" languages="Hungarian">Felső-Ausztria</name>
+		<name normalized="Gornja Austrija" languages="Bosnian;Croatian;Serbo-Croatian">Gornja Austrija</name>
+		<name normalized="Gornja Avstrija" languages="Slovenian">Gornja Avstrija</name>
+		<name normalized="Gorna Austria" languages="Polish">Górna Austria</name>
+		<name normalized="Haute-Autriche" languages="French">Haute-Autriche</name>
+		<name normalized="Horne Rakusko" languages="Slovak">Horné Rakúsko</name>
+		<name normalized="Horni Rakousy" languages="Czech">Horní Rakousy</name>
+		<name normalized="Nauta Austria" languages="Occitan">Nauta Àustria</name>
+		<name normalized="Obaostareich" languages="Bavarian">Obaöstareich</name>
+		<name normalized="Oberoesterreich" languages="English;official">Oberoesterreich</name>
+		<name normalized="Oberosterreich" languages="Alemannisch;Chinese (Min Nan);Cornish;Danish;German;Malay;Norwegian (bokmal);Norwegian Nynorsk;Swedish;Vietnamese">Oberösterreich</name>
+		<name normalized="Opper-Oostenrijk" languages="Dutch">Opper-Oostenrijk</name>
+		<name normalized="Opper-Oostenryk" languages="Afrikaans">Opper-Oostenryk</name>
+		<name normalized="Supra Austria" languages="Interlingue">Supra Austria</name>
+		<name normalized="Supra Austrio" languages="Esperanto">Supra Aŭstrio</name>
+		<name normalized="Upper Austria" languages="English;official;Simple English">Upper Austria</name>
+		<name normalized="Upper Austrick" languages="Scots">Upper Austrick</name>
+		<name normalized="Uruigbaw nga Austria" languages="Waray">Uruigbaw nga Austria</name>
+		<name normalized="Yla-Itavalta" languages="Finnish">Ylä-Itävalta</name>
+		<name normalized="Yukarı Avusturya" languages="Turkish">Yukarı Avusturya</name>
+		<name normalized="Ulem-Austria" languages="Estonian">Ülem-Austria</name>
+		<name normalized="Ανω Αυστρια" languages="Greek">Άνω Αυστρία</name>
+		<name normalized="Viрkнi Avсtрii" languages="Ukrainian">Верхня Австрія</name>
+		<name normalized="Viрkнii Avсtрii" languages="Russian">Верхняя Австрия</name>
+		<name normalized="Viрkнii Aўсtрыi" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Верхняя Аўстрыя</name>
+		<name normalized="Goрнa Avсtрii" languages="Bulgarian">Горна Австрия</name>
+		<name normalized="Goрнa Avсtрija" languages="Macedonian">Горна Австрија</name>
+		<name normalized="Goрna Auсtрija" languages="Serbian">Горња Аустрија</name>
+		<name normalized="Deeр Avсtрi" languages="Mongolian">Дээр Австри</name>
+		<name normalized="Iёлati Avсtрiii boлoi" languages="Tajik">Иёлати Австрияи болоӣ</name>
+		<name normalized="Uaeллag Avсtрi" languages="Ossetic">Уæллаг Австри</name>
+		<name normalized="Վեrին Ավstrիա" languages="Armenian">Վերին Ավստրիա</name>
+		<name normalized="אvסtrיh עידיt" languages="Hebrew">אוסטריה עילית</name>
+		<name normalized="אtلא آسٹrیא" languages="Western Punjabi">اتلا آسٹریا</name>
+		<name normalized="אلنmسא אلعلyא" languages="Arabic">النمسا العليا</name>
+		<name normalized="אوbrאسtrאیش" languages="Persian">اوبراسترایش</name>
+		<name normalized="obros्टrाis" languages="Marathi">ओबरओस्टराईश</name>
+		<name normalized="รัฐอัปเปอร์ออสเตรีย" languages="Thai">รัฐอัปเปอร์ออสเตรีย</name>
+		<name normalized="ზემო ავსტრია" languages="Georgian">ზემო ავსტრია</name>
+		<name normalized="oーbーestーrih州" languages="Japanese">オーバーエスターライヒ州</name>
+		<name normalized="上奧地利" languages="Chinese">上奧地利</name>
+		<name normalized="오버외스터라이히 주" languages="Korean">오버외스터라이히 주</name>
+	</region>
+	<region name="Salzburg" type="state" typeTranslated="Bundesland">
+		<name normalized="Estado de Salzburgo" languages="Galician">Estado de Salzburgo</name>
+		<name normalized="Salisborgh" languages="Piedmontese">Salisborgh</name>
+		<name normalized="Salisburgh" languages="lumbaart">Salisburgh</name>
+		<name normalized="Salisburgo" languages="Italian">Salisburgo</name>
+		<name normalized="Salisburgu" languages="Corsican;Sicilian">Salisburgu</name>
+		<name normalized="Salisburgum" languages="Latin">Salisburgum</name>
+		<name normalized="Saltzburg" languages="Uyghur">Saltzburg</name>
+		<name normalized="Salzborg" languages="Occitan">Salzborg</name>
+		<name normalized="Salzbourg" languages="French">Salzbourg</name>
+		<name normalized="Salzburg" languages="Afrikaans;Albanian;Alemannisch;Bosnian;Breton;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;German;Hungarian;Icelandic;Ido;Indonesian;Interlingua;Interlingue;Irish;Javanese;Malay;Manx;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Quechua;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Slovenian;Swahili;Swedish;Tagalog;Turkish;Upper Sorbian;Vietnamese;Volapuk;Waray;Welsh">Salzburg</name>
+		<name normalized="Salzburgo" languages="Aragonese;Basque;Ladino;Portuguese;Spanish">Salzburgo</name>
+		<name normalized="Salisburgo" languages="veneto">Sałisburgo</name>
+		<name normalized="Saizburg" languages="Bavarian">Såizburg</name>
+		<name normalized="Zalcburga" languages="Latvian">Zalcburga</name>
+		<name normalized="Zalcburgas" languages="Lithuanian">Zalcburgas</name>
+		<name normalized="Zalsburg" languages="Uzbek">Zalsburg</name>
+		<name normalized="Zaltsburq" languages="Azerbaijani">Zaltsburq</name>
+		<name normalized="Σαλτσμπουργκ" languages="Greek">Σάλτσμπουργκ</name>
+		<name normalized="Goрad Zaльtbuрg" languages="Belarusian">Горад Зальцбург</name>
+		<name normalized="Zaлtbuрg" languages="Bulgarian">Залцбург</name>
+		<name normalized="Zaльtbuрg" languages="Chechen;Eastern Mari;Kazakh;Mongolian;Ossetic;Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Зальцбург</name>
+		<name normalized="Iёлati Zaлtсbuрg" languages="Tajik">Иёлати Залтсбург</name>
+		<name normalized="Сaлtbuрg" languages="Macedonian;Serbian">Салцбург</name>
+		<name normalized="Zաlcbvyrգ" languages="Armenian">Զալցբուրգ</name>
+		<name normalized="זאדצbvrג" languages="Yiddish">זאלצבורג</name>
+		<name normalized="זדצbvrג" languages="Hebrew">זלצבורג</name>
+		<name normalized="زאلtسbوrg" languages="Persian">زالتسبورگ</name>
+		<name normalized="سאلزbrg" languages="Urdu">سالزبرگ</name>
+		<name normalized="سאلزbوrغ" languages="Arabic">سالزبورغ</name>
+		<name normalized="jाl्t्sbur्g" languages="Marathi">जाल्त्सबुर्ग</name>
+		<name normalized="sाl्j़bor्g" languages="Hindi">साल्ज़बोर्ग</name>
+		<name normalized="sljbur্g" languages="Bengali">সলজবুর্গ</name>
+		<name normalized="sાl્jbr્g" languages="Gujarati">સાલ્ઝબર્ગ</name>
+		<name normalized="ಸಾಲ್ಜ್‌ಬರ್ಗ್‌" languages="Kannada">ಸಾಲ್ಜ್‌ಬರ್ಗ್‌</name>
+		<name normalized="ซาลซ์บูร์ก" languages="Thai">ซาลซ์บูร์ก</name>
+		<name normalized="ზალცბურგი" languages="Georgian">ზალცბურგი</name>
+		<name normalized="zrtbrk" languages="Japanese">ザルツブルク</name>
+		<name normalized="柴尔兹孛格" languages="Wu">柴尔兹孛格</name>
+		<name normalized="萨尔茨堡" languages="Chinese">萨尔茨堡</name>
+		<name normalized="잘츠부르크" languages="Korean">잘츠부르크</name>
+	</region>
+	<region name="Steiermark" type="state" typeTranslated="Bundesland">
+		<name normalized="Estiria" languages="Aragonese;Basque;Galician;Spanish">Estiria</name>
+		<name normalized="Estiria" languages="Catalan;Occitan;Portuguese">Estíria</name>
+		<name normalized="Steiamoak" languages="Bavarian">Steiamoak</name>
+		<name normalized="Steiermargi liidumaa" languages="Estonian">Steiermargi liidumaa</name>
+		<name normalized="Steiermark" languages="Alemannisch;Chinese (Min Nan);Cornish;Danish;English;Finnish;German;Icelandic;Kurdish;Low Saxon (Netherlands);Norwegian (bokmal);Norwegian Nynorsk;official;Scots;Scottish Gaelic;Swahili;Swedish;Turkish;Vietnamese">Steiermark</name>
+		<name normalized="Stiermarke" languages="Afrikaans">Stiermarke</name>
+		<name normalized="Stiermarken" languages="Dutch">Stiermarken</name>
+		<name normalized="Stiria" languages="Breton;Indonesian;Interlingue;Italian;Malay;Romanian;Sicilian;veneto">Stiria</name>
+		<name normalized="Stirie" languages="Friulian">Stirie</name>
+		<name normalized="Stirio" languages="Esperanto">Stirio</name>
+		<name normalized="Styria" languages="English;Latin;official;Polish;Simple English;Waray;Welsh">Styria</name>
+		<name normalized="Styrie" languages="French">Styrie</name>
+		<name normalized="Stajerorszag" languages="Hungarian">Stájerország</name>
+		<name normalized="Stiriya" languages="Azerbaijani">Ştiriya</name>
+		<name normalized="Stajerska" languages="Bosnian;Croatian;Serbo-Croatian;Slovenian">Štajerska</name>
+		<name normalized="Stajersko" languages="Slovak">Štajersko</name>
+		<name normalized="Stirija" languages="Lithuanian">Štirija</name>
+		<name normalized="Styrsko" languages="Czech">Štýrsko</name>
+		<name normalized="Stirija" languages="Latvian">Štīrija</name>
+		<name normalized="Στυρια" languages="Greek">Στυρία</name>
+		<name normalized="Iёлati Stiрii" languages="Tajik">Иёлати Штирия</name>
+		<name normalized="Staiрсka" languages="Macedonian">Штаерска</name>
+		<name normalized="Stajiрсka" languages="Serbian">Штајерска</name>
+		<name normalized="Stiр" languages="Mongolian">Штир</name>
+		<name normalized="Stiрi" languages="Ossetic">Штири</name>
+		<name normalized="Stiрii" languages="Russian">Штирия</name>
+		<name normalized="Stiрii" languages="Ukrainian">Штирія</name>
+		<name normalized="Stырыi" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Штырыя</name>
+		<name normalized="Щiрii" languages="Bulgarian">Щирия</name>
+		<name normalized="Stիrիա" languages="Armenian">Շտիրիա</name>
+		<name normalized="שtיrיh" languages="Hebrew">שטיריה</name>
+		<name normalized="אشtאیrmאrک" languages="Persian">اشتایرمارک</name>
+		<name normalized="سtrىyە" languages="Uyghur">سترىيە</name>
+		<name normalized="سٹیrیא" languages="Western Punjabi">سٹیریا</name>
+		<name normalized="شtאyrmאrk" languages="Arabic">شتايرمارك</name>
+		<name normalized="s्टाyrmाr्k" languages="Marathi">श्टायरमार्क</name>
+		<name normalized="รัฐสติเรีย" languages="Thai">รัฐสติเรีย</name>
+		<name normalized="შტირია" languages="Georgian">შტირია</name>
+		<name normalized="sytiaーmrk州" languages="Japanese">シュタイアーマルク州</name>
+		<name normalized="施泰爾馬克州" languages="Chinese">施泰爾馬克州</name>
+		<name normalized="슈타이어마르크 주" languages="Korean">슈타이어마르크 주</name>
+	</region>
+	<region name="Tirol" type="state" typeTranslated="Bundesland">
+		<name normalized="Bundesland Tirol" languages="Bavarian">Bundeslånd Tirol</name>
+		<name normalized="Estado de Tirol" languages="Galician">Estado de Tirol</name>
+		<name normalized="Estat del Tirol" languages="Catalan">Estat del Tirol</name>
+		<name normalized="Tirol" languages="Alemannisch;Aragonese;Basque;Bavarian;Bosnian;Breton;Cornish;Croatian;Dutch;English;Galician;German;Hungarian;Icelandic;Indonesian;Interlingue;Limburgish;Low German;lumbaart;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Romanian;Scottish Gaelic;Serbo-Croatian;Slovak;Spanish;Turkish;Upper Sorbian;Vietnamese;Welsh">Tirol</name>
+		<name normalized="Tirole" languages="Latvian">Tirole</name>
+		<name normalized="Tiroli" languages="Finnish">Tiroli</name>
+		<name normalized="Tirolis" languages="Latin;Lithuanian">Tirolis</name>
+		<name normalized="Tirolo" languages="Esperanto;Italian">Tirolo</name>
+		<name normalized="Tirolska" languages="Slovenian">Tirolska</name>
+		<name normalized="Tirolsko" languages="Slovak">Tirolsko</name>
+		<name normalized="Tirool" languages="Afrikaans;Estonian;Low Saxon (Netherlands)">Tirool</name>
+		<name normalized="Tiroul" languages="Luxembourgish">Tiroul</name>
+		<name normalized="Tirolo" languages="veneto">Tiroło</name>
+		<name normalized="Tirol" languages="Occitan">Tiròl</name>
+		<name normalized="Tirol" languages="Friulian">Tirôl</name>
+		<name normalized="Tyrol" languages="Danish;English;French;official;Polish;Scots;Simple English;Waray">Tyrol</name>
+		<name normalized="Tyrolen" languages="Swedish">Tyrolen</name>
+		<name normalized="Tyrolsko" languages="Czech">Tyrolsko</name>
+		<name normalized="Τιρολο" languages="Greek">Τιρόλο</name>
+		<name normalized="Iёлati Tiрoл" languages="Tajik">Иёлати Тирол</name>
+		<name normalized="Tiрoл" languages="Bulgarian;Macedonian;Serbian">Тирол</name>
+		<name normalized="Tiрoль" languages="Mongolian;Ossetic;Russian">Тироль</name>
+		<name normalized="Tырoль" languages="biлaрuсkai (taрaskivita)‎">Тыроль</name>
+		<name normalized="Tiрoль" languages="Ukrainian">Тіроль</name>
+		<name normalized="Tiрoль" languages="Belarusian">Ціроль</name>
+		<name normalized="Tիrvl" languages="Armenian">Տիրոլ</name>
+		<name normalized="tיrvד" languages="Hebrew">טירול</name>
+		<name normalized="tyrول" languages="Arabic">تيرول</name>
+		<name normalized="tیrول" languages="Persian">تیرول</name>
+		<name normalized="ٹیrول" languages="Western Punjabi">ٹیرول</name>
+		<name normalized="टirol" languages="Hindi">टिरोल</name>
+		<name normalized="tirol" languages="Marathi">तिरोल</name>
+		<name normalized="รัฐทิโรล" languages="Thai">รัฐทิโรล</name>
+		<name normalized="ტიროლი" languages="Georgian">ტიროლი</name>
+		<name normalized="trr" languages="Japanese">チロル</name>
+		<name normalized="trr州" languages="Japanese">チロル州</name>
+		<name normalized="蒂罗尔州" languages="Chinese">蒂罗尔州</name>
+		<name normalized="티롤" languages="Korean">티롤</name>
+		<name normalized="티롤 주" languages="Korean">티롤 주</name>
+	</region>
+	<region name="Vorarlberg" type="state" typeTranslated="Bundesland">
+		<name normalized="Cisarulana" languages="Latin">Cisarulana</name>
+		<name normalized="Forarlberga" languages="Latvian">Forarlberga</name>
+		<name normalized="Forarlbergas" languages="Lithuanian">Forarlbergas</name>
+		<name normalized="Predarlska" languages="Slovenian">Predarlska</name>
+		<name normalized="Vorarlberg" languages="Afrikaans;Albanian;Alemannisch;Aragonese;Basque;Bavarian;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Danish;Dutch;English;Estonian;Finnish;French;Friulian;Galician;German;Hungarian;Icelandic;Indonesian;Interlingue;Italian;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Polish;Portuguese;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Turkish;Vietnamese;veneto;Waray;Welsh">Vorarlberg</name>
+		<name normalized="Vorarlbergo" languages="Esperanto">Vorarlbergo</name>
+		<name normalized="Vorarlbersko" languages="Czech;Slovak">Vorarlbersko</name>
+		<name normalized="Vorarlbarg" languages="Low German">Vörarlbarg</name>
+		<name normalized="Φοραρλμπεργκ" languages="Greek">Φόραρλμπεργκ</name>
+		<name normalized="Iёлati Фoрaрлbiрg" languages="Tajik">Иёлати Форарлберг</name>
+		<name normalized="Pрidaрлсka" languages="Macedonian">Предарлска</name>
+		<name normalized="Фoрaрлbiрg" languages="Bulgarian;Serbian">Форарлберг</name>
+		<name normalized="Фoрaрльbiрg" languages="Belarusian;Ossetic;Russian;Ukrainian">Форарльберг</name>
+		<name normalized="Фoрaрльbeрg" languages="biлaрuсkai (taрaskivita)‎">Форарльбэрг</name>
+		<name normalized="Fvrաlbեrգ" languages="Armenian">Ֆորալբերգ</name>
+		<name normalized="pvrאrדbrג" languages="Hebrew">פורארלברג</name>
+		<name normalized="fوrآrلbrغ" languages="Arabic">فورآرلبرغ</name>
+		<name normalized="fوrآrلbrg" languages="Persian">فورآرلبرگ</name>
+		<name normalized="ووrےrلbrg" languages="Western Punjabi">وورےرلبرگ</name>
+		<name normalized="porाr्lbr्g" languages="Marathi">फोरार्लबर्ग</name>
+		<name normalized="borाlbr्g" languages="Nepali">भोरालबर्ग</name>
+		<name normalized="vorाr्lbr्g" languages="Hindi">वोरार्लबर्ग</name>
+		<name normalized="vorાr્lbr્g" languages="Gujarati">વોરાર્લબર્ગ</name>
+		<name normalized="వోరార్ల్‌బెర్గ్" languages="Telugu">వోరార్ల్‌బెర్గ్</name>
+		<name normalized="ವೋರಾರ್ಲ್‌ಬರ್ಗ್‌" languages="Kannada">ವೋರಾರ್ಲ್‌ಬರ್ಗ್‌</name>
+		<name normalized="รัฐโฟราร์ลแบร์ก" languages="Thai">รัฐโฟราร์ลแบร์ก</name>
+		<name normalized="ფორარლბერგი" languages="Georgian">ფორარლბერგი</name>
+		<name normalized="hoaaーrbrk州" languages="Japanese">フォアアールベルク州</name>
+		<name normalized="福拉爾貝格邦" languages="Chinese">福拉爾貝格邦</name>
+		<name normalized="포어아를베르크 주" languages="Korean">포어아를베르크 주</name>
+	</region>
+	<region name="Wien" type="state" typeTranslated="Bundesland">
+		<name normalized="Bech" languages="Romani">Bech</name>
+		<name normalized="Bec" languages="Bosnian;Croatian;Serbo-Croatian">Beč</name>
+		<name normalized="Becs" languages="Hungarian">Bécs</name>
+		<name normalized="Dunaj" languages="Slovenian">Dunaj</name>
+		<name normalized="Fienna" languages="Welsh;Yoruba">Fienna</name>
+		<name normalized="Fiyena" languages="Somali">Fiyena</name>
+		<name normalized="Veen" languages="Manx">Veen</name>
+		<name normalized="Ven" languages="Veps">Ven</name>
+		<name normalized="Vena" languages="Gagauz;Uzbek">Vena</name>
+		<name normalized="Vieden" languages="Slovak">Viedeň</name>
+		<name normalized="Vien-a" languages="Piedmontese">Vien-a</name>
+		<name normalized="Viena" languages="Aragonese;Aromanian;Asturian;Basque;Catalan;Cebuano;Extremaduran;Galician;Lithuanian;lumbaart;Nahuatl;Occitan;Papiamento;Portuguese;Romanian;Samogitian;Spanish;veneto">Viena</name>
+		<name normalized="Viene" languages="Friulian">Viene</name>
+		<name normalized="Vienna" languages="Bislama;Breton;Corsican;English;Ewe;Fiji Hindi;Iloko;Interlingua;Interlingue;Italian;Ligure;Malay;official;Romansh;Sardinian;Scots;Scottish Gaelic;Shona;Sicilian;Simple English;Southern Sotho;Swahili;Tagalog;Waray">Vienna</name>
+		<name normalized="Vienne" languages="French;tarandine">Vienne</name>
+		<name normalized="Vieno" languages="Esperanto">Vieno</name>
+		<name normalized="Viin" languages="Estonian;Voro">Viin</name>
+		<name normalized="Vindobona" languages="Latin">Vindobona</name>
+		<name normalized="Viyana" languages="Crimean Turkish;Kurdish;Turkish">Viyana</name>
+		<name normalized="Viena" languages="Franco-Provencal">Vièna</name>
+		<name normalized="Vien" languages="Vietnamese">Viên</name>
+		<name normalized="Viene" languages="Lingala">Viɛnɛ</name>
+		<name normalized="Vjena" languages="Albanian">Vjena</name>
+		<name normalized="Vyana" languages="Azerbaijani">Vyana</name>
+		<name normalized="Vyen" languages="Haitian">Vyèn</name>
+		<name normalized="Viden" languages="Czech">Vídeň</name>
+		<name normalized="Vin" languages="Icelandic;Irish">Vín</name>
+		<name normalized="Vine" languages="Latvian">Vīne</name>
+		<name normalized="Wean" languages="Bavarian">Wean</name>
+		<name normalized="Wena" languages="Turkmen">Wena</name>
+		<name normalized="Wene" languages="Afrikaans;Limburgish">Wene</name>
+		<name normalized="Wenen" languages="Dutch;Western Frisian">Wenen</name>
+		<name normalized="Whiena" languages="Maori">Whiena</name>
+		<name normalized="Wieden" languages="Polish">Wiedeń</name>
+		<name normalized="Wien" languages="Alemannisch;Chinese (Min Nan);Cornish;Danish;Deitsch;English;Faroese;Finnish;German;Ido;Kalaallisut;Low German;Lower Sorbian;Luxembourgish;Northern Frisian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Quechua;Seeltersk;Swedish;Upper Sorbian;Volapuk">Wien</name>
+		<name normalized="Wienen" languages="Low Saxon (Netherlands)">Wienen</name>
+		<name normalized="Wienna" languages="Norfuk / Pitkern">Wienna</name>
+		<name normalized="Wina" languages="Achinese;Indonesian;Javanese">Wina</name>
+		<name normalized="Wiyana" languages="Zazaki">Wiyana</name>
+		<name normalized="Wiyen" languages="Wolof">Wiyen</name>
+		<name normalized="Wjedyn" languages="Silesian">Wjedyń</name>
+		<name normalized="Wyena" languages="Uyghur">Wyéna</name>
+		<name normalized="Wien" languages="Old English">Wīen</name>
+		<name normalized="Βιeννη" languages="Greek">Βιέννη</name>
+		<name normalized="Bic" languages="Serbian">Беч</name>
+		<name normalized="Viнae" languages="Ossetic">Венæ</name>
+		<name normalized="Viнa" languages="Chechen;Chuvash;Hill Mari;Karachay-Balkar;Kazakh;Komi;Kyrgyz;Lezghian;Mongolian;Russian;Sakha;Tajik;Udmurt;biлaрuсkai (taрaskivita)‎">Вена</name>
+		<name normalized="Viнa səһəрi" languages="Tatar">Вена шәһәре</name>
+		<name normalized="Viнi" languages="Eastern Mari">Вене</name>
+		<name normalized="Viiнa" languages="Bulgarian;Macedonian">Виена</name>
+		<name normalized="Viн" languages="Komi-Permyak">Вин</name>
+		<name normalized="Vidiнь" languages="Rusyn;Ukrainian">Відень</name>
+		<name normalized="Goрad Viнa" languages="Belarusian">Горад Вена</name>
+		<name normalized="Վիեննա" languages="Armenian">Վիեննա</name>
+		<name normalized="vvיען" languages="Yiddish">וויען</name>
+		<name normalized="vיnh" languages="Hebrew">וינה</name>
+		<name normalized="fyyنא" languages="Arabic;Egyptian Spoken Arabic">فيينا</name>
+		<name normalized="وyن" languages="Pashto">وين</name>
+		<name normalized="ویآنא" languages="Western Punjabi">ویآنا</name>
+		<name normalized="ویאنא" languages="Urdu">ویانا</name>
+		<name normalized="وین" languages="Mazanderani;Persian">وین</name>
+		<name normalized="vیێنא" languages="Sorani Kurdish">ڤیێنا</name>
+		<name normalized="ܒܝܝܢܐ" languages="Aramaic">ܒܝܝܢܐ</name>
+		<name normalized="biynा" languages="Newari">भियना</name>
+		<name normalized="viynा" languages="Hindi">वियना</name>
+		<name normalized="v्hiyenा" languages="Marathi">व्हियेना</name>
+		<name normalized="biy়enা" languages="Bengali">ভিয়েনা</name>
+		<name normalized="vianਾ" languages="Punjabi">ਵਿਆਨਾ</name>
+		<name normalized="ଭିଏନା" languages="Oriya">ଭିଏନା</name>
+		<name normalized="வியன்னா" languages="Tamil">வியன்னா</name>
+		<name normalized="ವಿಯೆನ್ನ" languages="Kannada">ವಿಯೆನ್ನ</name>
+		<name normalized="വിയന്ന" languages="Malayalam">വിയന്ന</name>
+		<name normalized="เวียนนา" languages="Thai">เวียนนา</name>
+		<name normalized="ཝི་ཨེ་ན།" languages="Tibetan">ཝི་ཨེ་ན།</name>
+		<name normalized="ဗီယင်နာမြို့" languages="Burmese">ဗီယင်နာမြို့</name>
+		<name normalized="ვენა" languages="Georgian">ვენა</name>
+		<name normalized="ቪየና" languages="Amharic">ቪየና</name>
+		<name normalized="uiーn" languages="Japanese">ウィーン</name>
+		<name normalized="維也納" languages="Cantonese;Chinese">維也納</name>
+		<name normalized="빈" languages="Korean">빈</name>
+	</region>
+</regions>

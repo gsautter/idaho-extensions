@@ -1,0 +1,434 @@
+<regions country="Kenya">
+	<region name="Baringo" type="county" typeTranslated="county">
+		<name normalized="Baringo" languages="Dutch;English;Norwegian (bokmal);official;Swedish;Vietnamese">Baringo</name>
+		<name normalized="Baringo County" languages="English;German;official">Baringo County</name>
+		<name normalized="Wilaya ya Baringo" languages="Swahili">Wilaya ya Baringo</name>
+		<name normalized="Baрiнgo" languages="Russian">Баринго</name>
+	</region>
+	<region name="Bomet" type="county" typeTranslated="county">
+		<name normalized="Bomet" languages="Dutch;English;German;Norwegian (bokmal);official;Polish;Swahili;Swedish;Vietnamese">Bomet</name>
+		<name normalized="Bomet County" languages="English;German;official">Bomet County</name>
+		<name normalized="Wilaya ya Bomet" languages="Swahili">Wilaya ya Bomet</name>
+		<name normalized="Boмit" languages="Russian">Бомет</name>
+	</region>
+	<region name="Bungoma" type="county" typeTranslated="county">
+		<name normalized="Bungoma" languages="Catalan;Dutch;English;Finnish;French;German;Norwegian (bokmal);official;Polish;Romanian;Swahili;Swedish;Vietnamese">Bungoma</name>
+		<name normalized="Bungoma County" languages="English;official">Bungoma County</name>
+		<name normalized="Bungoma District" languages="German">Bungoma District</name>
+		<name normalized="Wilaya ya Bungoma" languages="Swahili">Wilaya ya Bungoma</name>
+		<name normalized="Buнgoмa" languages="Russian">Бунгома</name>
+		<name normalized="bونgوmא, کنیא" languages="Persian">بونگوما، کنیا</name>
+		<name normalized="ბუნგომა" languages="Georgian">ბუნგომა</name>
+		<name normalized="奔戈馬" languages="Chinese">奔戈馬</name>
+	</region>
+	<region name="Busia" type="county" typeTranslated="county">
+		<name normalized="Busia" languages="Catalan;Dutch;English;French;German;Indonesian;official;Polish;Romanian;Swahili;Swedish;Vietnamese">Busia</name>
+		<name normalized="Busia County" languages="English;German;official">Busia County</name>
+		<name normalized="Wilaya ya Busia" languages="Swahili">Wilaya ya Busia</name>
+		<name normalized="Buсia" languages="Russian">Бусиа</name>
+		<name normalized="bوسیא, کنیא" languages="Persian">بوسیا، کنیا</name>
+		<name normalized="ბუსია" languages="Georgian">ბუსია</name>
+		<name normalized="布西亞" languages="Chinese">布西亞</name>
+	</region>
+	<region name="Elgeyo/Marakwet" type="county" typeTranslated="county">
+		<name normalized="Elgeyo" languages="English;French;official">Elgeyo</name>
+		<name normalized="Elgeyo County" languages="English;official">Elgeyo County</name>
+		<name normalized="Elgeyo people" languages="English">Elgeyo people</name>
+		<name normalized="Elgeyo/Marakwet" languages="English;official">Elgeyo/Marakwet</name>
+		<name normalized="Elgeyo/Marakwet County" languages="English;official">Elgeyo/Marakwet County</name>
+		<name normalized="Marakwet" languages="English;French;official">Marakwet</name>
+		<name normalized="Marakwet County" languages="English;official">Marakwet County</name>
+		<name normalized="Marakwet people" languages="English">Marakwet people</name>
+		<name normalized="Wamarakwet" languages="Swahili">Wamarakwet</name>
+	</region>
+	<region name="Embu" type="county" typeTranslated="county">
+		<name normalized="Embu" languages="Breton;Croatian;Dutch;English;Esperanto;French;German;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Swahili;Swedish;Vietnamese;Waray">Embu</name>
+		<name normalized="Embu County" languages="English;German;official">Embu County</name>
+		<name normalized="Wilaya ya Embu" languages="Swahili">Wilaya ya Embu</name>
+		<name normalized="Iмbu" languages="Serbian">Ембу</name>
+		<name normalized="Eмbu" languages="Russian">Эмбу</name>
+		<name normalized="אmbو, کنیא" languages="Persian">امبو، کنیا</name>
+		<name normalized="ემბუ" languages="Georgian">ემბუ</name>
+		<name normalized="恩布" languages="Chinese">恩布</name>
+	</region>
+	<region name="Garissa" type="county" typeTranslated="county">
+		<name normalized="Gaarisa" languages="Somali">Gaarisa</name>
+		<name normalized="Garisa" languages="Lithuanian">Garisa</name>
+		<name normalized="Garissa" languages="Breton;Catalan;Croatian;Danish;Dutch;English;French;German;Indonesian;Norwegian (bokmal);official;Polish;Romanian;Swahili;Swedish;Vietnamese">Garissa</name>
+		<name normalized="Garissa County" languages="English;German;official">Garissa County</name>
+		<name normalized="Wilaya ya Garissa" languages="Swahili">Wilaya ya Garissa</name>
+		<name normalized="Gaрiсa" languages="Serbian">Гариса</name>
+		<name normalized="Gaрiссa" languages="Russian">Гарисса</name>
+		<name normalized="gאrیسא, کنیא" languages="Persian">گاریسا، کنیا</name>
+		<name normalized="გარისა" languages="Georgian">გარისა</name>
+		<name normalized="grts" languages="Japanese">ガリッサ</name>
+		<name normalized="加里萨" languages="Chinese">加里萨</name>
+		<name normalized="가리사" languages="Korean">가리사</name>
+	</region>
+	<region name="Homa Bay" type="county" typeTranslated="county">
+		<name normalized="Homa Bay" languages="Catalan;Dutch;English;French;German;Norwegian (bokmal);official;Polish;Romanian;Swahili;Swedish;Vietnamese">Homa Bay</name>
+		<name normalized="Homa Bay County" languages="English;German;official">Homa Bay County</name>
+		<name normalized="Wilaya ya Homa Bay" languages="Swahili">Wilaya ya Homa Bay</name>
+		<name normalized="hوmא bی, کنیא" languages="Persian">هوما بی، کنیا</name>
+		<name normalized="ჰომა-ბაი" languages="Georgian">ჰომა-ბაი</name>
+		<name normalized="霍馬灣" languages="Chinese">霍馬灣</name>
+	</region>
+	<region name="Isiolo" type="county" typeTranslated="county">
+		<name normalized="Isiolo" languages="Catalan;Dutch;English;Esperanto;French;German;official;Polish;Romanian;Swahili;Swedish;Vietnamese">Isiolo</name>
+		<name normalized="Isiolo County" languages="English;German;official">Isiolo County</name>
+		<name normalized="Wilaya ya Isiolo" languages="Swahili">Wilaya ya Isiolo</name>
+		<name normalized="Iсioлo" languages="Russian">Исиоло</name>
+		<name normalized="אیزیولو, کنیא" languages="Persian">ایزیولو، کنیا</name>
+		<name normalized="ისიოლო" languages="Georgian">ისიოლო</name>
+		<name normalized="伊西奧洛" languages="Chinese">伊西奧洛</name>
+	</region>
+	<region name="Kajiado" type="county" typeTranslated="county">
+		<name normalized="Distrito de Kajiado" languages="Portuguese">Distrito de Kajiado</name>
+		<name normalized="Kajiado" languages="Bosnian;Catalan;Dutch;English;official;Polish;Romanian;Swahili;Swedish;Vietnamese;veneto">Kajiado</name>
+		<name normalized="Kajiado County" languages="English;German;official">Kajiado County</name>
+		<name normalized="Wilaya ya Kajiado" languages="Swahili">Wilaya ya Kajiado</name>
+		<name normalized="Kadziado" languages="Russian">Каджиадо</name>
+		<name normalized="კაჯიადო" languages="Georgian">კაჯიადო</name>
+		<name normalized="卡賈多" languages="Chinese">卡賈多</name>
+	</region>
+	<region name="Kakamega" type="county" typeTranslated="county">
+		<name normalized="Kakamega" languages="Catalan;Croatian;Dutch;English;Esperanto;Estonian;French;German;official;Polish;Romanian;Swahili;Swedish;Vietnamese;Waray">Kakamega</name>
+		<name normalized="Kakamega County" languages="English;German;official">Kakamega County</name>
+		<name normalized="Wilaya ya Kakamega" languages="Swahili">Wilaya ya Kakamega</name>
+		<name normalized="Kakaмiga" languages="Russian;Serbian">Какамега</name>
+		<name normalized="کאکאmgא, کنیא" languages="Persian">کاکامگا، کنیا</name>
+		<name normalized="კაკამეგა" languages="Georgian">კაკამეგა</name>
+		<name normalized="卡卡梅加" languages="Chinese">卡卡梅加</name>
+	</region>
+	<region name="Kericho" type="county" typeTranslated="county">
+		<name normalized="Kericho" languages="Catalan;Croatian;Dutch;English;Esperanto;French;German;official;Polish;Romanian;Swahili;Swedish;Vietnamese">Kericho</name>
+		<name normalized="Kericho County" languages="English;German;official">Kericho County</name>
+		<name normalized="Wilaya ya Kericho" languages="Swahili">Wilaya ya Kericho</name>
+		<name normalized="Kiрico" languages="Russian">Керичо</name>
+		<name normalized="کrیچو, کنیא" languages="Persian">کریچو، کنیا</name>
+		<name normalized="კერიჩო" languages="Georgian">კერიჩო</name>
+		<name normalized="凱里喬" languages="Chinese">凱里喬</name>
+	</region>
+	<region name="Kiambu" type="county" typeTranslated="county">
+		<name normalized="Distretto di Kiambu" languages="Italian">Distretto di Kiambu</name>
+		<name normalized="Kiambu" languages="Catalan;Dutch;English;official;Polish;Portuguese;Romanian;Swahili;Swedish;Vietnamese">Kiambu</name>
+		<name normalized="Kiambu County" languages="English;official">Kiambu County</name>
+		<name normalized="Wilaya ya Kiambu" languages="Swahili">Wilaya ya Kiambu</name>
+		<name normalized="კიამბუ" languages="Georgian">კიამბუ</name>
+		<name normalized="基安布" languages="Chinese">基安布</name>
+	</region>
+	<region name="Kilifi" type="county" typeTranslated="county">
+		<name normalized="Distretto di Kilifi" languages="Italian">Distretto di Kilifi</name>
+		<name normalized="Distrito de Kilifi" languages="Spanish">Distrito de Kilifi</name>
+		<name normalized="Kilifi" languages="Catalan;Dutch;English;French;German;official;Polish;Romanian;Spanish;Swahili;Swedish;Vietnamese">Kilifi</name>
+		<name normalized="Kilifi County" languages="English;German;official">Kilifi County</name>
+		<name normalized="Wilaya ya Kilifi" languages="Swahili">Wilaya ya Kilifi</name>
+		<name normalized="Kiлiфi" languages="Russian">Килифи</name>
+		<name normalized="کیلیfی, کنیא" languages="Persian">کیلیفی، کنیا</name>
+		<name normalized="კილიფი" languages="Georgian">კილიფი</name>
+		<name normalized="基利菲" languages="Chinese">基利菲</name>
+		<name normalized="基利菲县" languages="Chinese">基利菲县</name>
+	</region>
+	<region name="Kirinyaga" type="county" typeTranslated="county">
+		<name normalized="Distretto di Kirinyaga" languages="Italian">Distretto di Kirinyaga</name>
+		<name normalized="Kirinyaga" languages="Dutch;English;French;Italian;official;Slovak;Swedish">Kirinyaga</name>
+		<name normalized="Kirinyaga County" languages="English;official">Kirinyaga County</name>
+		<name normalized="Wilaya ya Kirinyaga" languages="Swahili">Wilaya ya Kirinyaga</name>
+	</region>
+	<region name="Kisii" type="county" typeTranslated="county">
+		<name normalized="Kisii" languages="Dutch;English;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Swahili;Swedish">Kisii</name>
+		<name normalized="Kisii County" languages="English;German;official">Kisii County</name>
+		<name normalized="Kisii town" languages="Catalan">Kisii town</name>
+		<name normalized="Wilaya ya Kisii Kati" languages="Swahili">Wilaya ya Kisii Kati</name>
+		<name normalized="کیسی, کنیא" languages="Persian">کیسی، کنیا</name>
+		<name normalized="კისიი" languages="Georgian">კისიი</name>
+		<name normalized="基西" languages="Chinese">基西</name>
+	</region>
+	<region name="Kisumu" type="county" typeTranslated="county">
+		<name normalized="Kisumu" languages="Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Finnish;French;German;Hungarian;Indonesian;Italian;Kalaallisut;Lithuanian;Maori;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Slovenian;Spanish;Swahili;Swedish;Vietnamese;veneto;Waray">Kisumu</name>
+		<name normalized="Kisumu County" languages="English;German;official">Kisumu County</name>
+		<name normalized="Goрad Kiсuмu" languages="Belarusian">Горад Кісуму</name>
+		<name normalized="Kiсuмu" languages="Russian;Serbian">Кисуму</name>
+		<name normalized="Kiсuмu" languages="Ukrainian">Кісуму</name>
+		<name normalized="kyزymو" languages="Arabic">كيزيمو</name>
+		<name normalized="mنtqة kyزymو" languages="Arabic">منطقة كيزيمو</name>
+		<name normalized="کیسوmو, کنیא" languages="Persian">کیسومو، کنیا</name>
+		<name normalized="კისუმუ" languages="Georgian">კისუმუ</name>
+		<name normalized="ksm" languages="Japanese">キスム</name>
+		<name normalized="基蘇木" languages="Chinese">基蘇木</name>
+		<name normalized="키수무" languages="Korean">키수무</name>
+	</region>
+	<region name="Kitui" type="county" typeTranslated="county">
+		<name normalized="Kitui" languages="Catalan;Danish;Dutch;English;French;official;Polish;Swahili;Swedish;Vietnamese">Kitui</name>
+		<name normalized="Kitui County" languages="English;German;official">Kitui County</name>
+		<name normalized="Wilaya ya Kitui" languages="Swahili">Wilaya ya Kitui</name>
+		<name normalized="კიტუი" languages="Georgian">კიტუი</name>
+	</region>
+	<region name="Kwale" type="county" typeTranslated="county">
+		<name normalized="Distretto di Kwale" languages="Italian">Distretto di Kwale</name>
+		<name normalized="Kwale" languages="Dutch;English;French;German;Italian;official;Polish;Swedish;Vietnamese">Kwale</name>
+		<name normalized="Kwale County" languages="English;German;official">Kwale County</name>
+		<name normalized="Wilaya ya Kwale" languages="Swahili">Wilaya ya Kwale</name>
+	</region>
+	<region name="Laikipia" type="county" typeTranslated="county">
+		<name normalized="Distretto di Laikipia" languages="Italian">Distretto di Laikipia</name>
+		<name normalized="Laikipia" languages="Dutch;English;official;Swedish;Vietnamese">Laikipia</name>
+		<name normalized="Laikipia County" languages="English;German;official">Laikipia County</name>
+		<name normalized="Wilaya ya Laikipia" languages="Swahili">Wilaya ya Laikipia</name>
+	</region>
+	<region name="Lamu" type="county" typeTranslated="county">
+		<name normalized="Districte de Lamu" languages="Catalan">Districte de Lamu</name>
+		<name normalized="Lamu" languages="Basque;Catalan;Croatian;Danish;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Italian;Lithuanian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Serbo-Croatian;Spanish;Swahili;Swedish;Vietnamese;veneto">Lamu</name>
+		<name normalized="Lamu County" languages="English;official">Lamu County</name>
+		<name normalized="Wilaya ya Lamu" languages="Swahili">Wilaya ya Lamu</name>
+		<name normalized="Goрad Лaмu" languages="Belarusian">Горад Ламу</name>
+		<name normalized="Лaмu" languages="Russian;Serbian">Ламу</name>
+		<name normalized="דאמv" languages="Hebrew">לאמו</name>
+		<name normalized="لאmو" languages="Arabic">لامو</name>
+		<name normalized="lाmu" languages="Hindi">लामू</name>
+		<name normalized="ლამუ" languages="Georgian">ლამუ</name>
+		<name normalized="rm" languages="Japanese">ラム</name>
+		<name normalized="拉穆镇" languages="Chinese">拉穆镇</name>
+		<name normalized="라무" languages="Korean">라무</name>
+	</region>
+	<region name="Machakos" type="county" typeTranslated="county">
+		<name normalized="Machakos" languages="Catalan;Croatian;Danish;Dutch;English;Esperanto;French;German;Kalaallisut;Maori;Norwegian (bokmal);official;Polish;Romanian;Spanish;Swahili;Swedish;Vietnamese;veneto;Waray">Machakos</name>
+		<name normalized="Machakos County" languages="English;German;official">Machakos County</name>
+		<name normalized="Wilaya ya Machakos" languages="Swahili">Wilaya ya Machakos</name>
+		<name normalized="Мakakoс" languages="Serbian">Махакос</name>
+		<name normalized="Мacakoс" languages="Russian">Мачакос</name>
+		<name normalized="mאچאکوس, کنیא" languages="Persian">ماچاکوس، کنیا</name>
+		<name normalized="მაჩაკოსი" languages="Georgian">მაჩაკოსი</name>
+		<name normalized="mtyks" languages="Japanese">マチャコス</name>
+		<name normalized="马查科斯" languages="Chinese">马查科斯</name>
+		<name normalized="마차코스" languages="Korean">마차코스</name>
+	</region>
+	<region name="Makueni" type="county" typeTranslated="county">
+		<name normalized="Makueni" languages="Dutch;English;official;Swedish;Vietnamese">Makueni</name>
+		<name normalized="Makueni County" languages="English;German;official">Makueni County</name>
+		<name normalized="Wilaya ya Makueni" languages="Swahili">Wilaya ya Makueni</name>
+	</region>
+	<region name="Mandera" type="county" typeTranslated="county">
+		<name normalized="Mandera" languages="Catalan;Dutch;English;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Swahili;Swedish;Vietnamese">Mandera</name>
+		<name normalized="Mandera County" languages="English;German;official">Mandera County</name>
+		<name normalized="Mandheera" languages="Somali">Mandheera</name>
+		<name normalized="Wilaya ya Mandera" languages="Swahili">Wilaya ya Mandera</name>
+		<name normalized="Мaнdiрa" languages="Russian">Мандера</name>
+		<name normalized="mאندrא, کنیא" languages="Persian">ماندرا، کنیا</name>
+		<name normalized="მანდერა" languages="Georgian">მანდერა</name>
+		<name normalized="mndr" languages="Japanese">マンデラ</name>
+		<name normalized="曼德拉" languages="Chinese">曼德拉</name>
+	</region>
+	<region name="Marsabit" type="county" typeTranslated="county">
+		<name normalized="Marsabit" languages="Catalan;Dutch;English;French;German;official;Polish;Romanian;Swahili;Swedish;Vietnamese">Marsabit</name>
+		<name normalized="Marsabit County" languages="English;German;official">Marsabit County</name>
+		<name normalized="Wilaya ya Marsabit" languages="Swahili">Wilaya ya Marsabit</name>
+		<name normalized="Мaрсabit" languages="Russian">Марсабит</name>
+		<name normalized="მარსაბიტი" languages="Georgian">მარსაბიტი</name>
+		<name normalized="馬薩比特" languages="Chinese">馬薩比特</name>
+	</region>
+	<region name="Meru" type="county" typeTranslated="county">
+		<name normalized="Meru" languages="Catalan;Croatian;Danish;Dutch;English;Esperanto;French;German;Italian;Kalaallisut;Maori;Norwegian (bokmal);official;Polish;Romanian;Swahili;Swedish">Meru</name>
+		<name normalized="Meru County" languages="English;official">Meru County</name>
+		<name normalized="Мiрu" languages="Russian;Serbian">Меру</name>
+		<name normalized="mrو, کنیא" languages="Persian">مرو، کنیا</name>
+		<name normalized="მერუ" languages="Georgian">მერუ</name>
+		<name normalized="梅魯" languages="Chinese">梅魯</name>
+	</region>
+	<region name="Migori" type="county" typeTranslated="county">
+		<name normalized="Migori" languages="Dutch;English;French;German;official;Polish;Portuguese;Swahili;Swedish;Vietnamese">Migori</name>
+		<name normalized="Migori County" languages="English;German;official">Migori County</name>
+		<name normalized="Wilaya ya Migori" languages="Swahili">Wilaya ya Migori</name>
+		<name normalized="Мigoрi" languages="Russian">Мигори</name>
+		<name normalized="mیgوrی, کنیא" languages="Persian">میگوری، کنیا</name>
+	</region>
+	<region name="Mombasa" type="county" typeTranslated="county">
+		<name normalized="Mombaaso" languages="Somali">Mombaaso</name>
+		<name normalized="Mombasa" languages="Afrikaans;Basque;Breton;Catalan;Croatian;Czech;Danish;English;Esperanto;Estonian;Finnish;French;Galician;German;Hungarian;Icelandic;Indonesian;Italian;Kalaallisut;Latin;Latvian;Lithuanian;Maori;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Romanian;Shona;Simple English;Slovak;Spanish;Swahili;Swedish;Turkish;Vietnamese;veneto;Waray;Welsh;Yoruba">Mombasa</name>
+		<name normalized="Mombasa County" languages="English;German;official">Mombasa County</name>
+		<name normalized="Mombassa" languages="Dutch">Mombassa</name>
+		<name normalized="Mombaca" languages="Portuguese">Mombaça</name>
+		<name normalized="Mombasa" languages="Lingala">Mombása</name>
+		<name normalized="Wilaya ya Mombasa" languages="Swahili">Wilaya ya Mombasa</name>
+		<name normalized="Μομπασα" languages="Greek">Μομπάσα</name>
+		<name normalized="Goрad Мaмbaсa" languages="Belarusian">Горад Мамбаса</name>
+		<name normalized="Мoмbaсa" languages="Bulgarian;Macedonian;Mongolian;Russian;Serbian;Ukrainian">Момбаса</name>
+		<name normalized="מvמbסh" languages="Hebrew">מומבסה</name>
+		<name normalized="mmbאسא" languages="Urdu">ممباسا</name>
+		<name normalized="mوmbאسא" languages="Arabic;Persian">مومباسا</name>
+		<name normalized="mom्bाsा" languages="Marathi">मोम्बासा</name>
+		<name normalized="მომბასა" languages="Georgian">მომბასა</name>
+		<name normalized="mnbs" languages="Japanese">モンバサ</name>
+		<name normalized="蒙巴萨" languages="Chinese">蒙巴萨</name>
+		<name normalized="蒙巴萨县" languages="Chinese">蒙巴萨县</name>
+		<name normalized="몸바사" languages="Korean">몸바사</name>
+	</region>
+	<region name="Murang'a" type="county" typeTranslated="county">
+		<name normalized="Distretto di Muranga" languages="Italian">Distretto di Muranga</name>
+		<name normalized="Murang'a" languages="English;French;official;Polish;Portuguese;Swahili;Vietnamese">Murang'a</name>
+		<name normalized="Murang'a County" languages="English;official">Murang'a County</name>
+		<name normalized="Muranga" languages="Catalan;Dutch;English;official;Romanian;Swedish">Muranga</name>
+		<name normalized="Muranga County" languages="English;official">Muranga County</name>
+		<name normalized="Murang'a" languages="German">Murang’a</name>
+		<name normalized="Murang'a County" languages="German">Murang’a County</name>
+		<name normalized="Wilaya ya Murang'a" languages="Swahili">Wilaya ya Murang'a</name>
+		<name normalized="მურანგა" languages="Georgian">მურანგა</name>
+		<name normalized="穆拉雅" languages="Chinese">穆拉雅</name>
+	</region>
+	<region name="Nairobi City" type="county" typeTranslated="county">
+		<name normalized="Nairobi City" languages="English;official">Nairobi City</name>
+		<name normalized="Nairobi City County" languages="English;official">Nairobi City County</name>
+	</region>
+	<region name="Nakuru" type="county" typeTranslated="county">
+		<name normalized="Nakuru" languages="Afrikaans;Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Finnish;French;German;Hungarian;Kalaallisut;Lithuanian;Maori;Norwegian (bokmal);official;Polish;Romanian;Spanish;Swahili;Swedish;Vietnamese;veneto;Waray">Nakuru</name>
+		<name normalized="Nakuru County" languages="English;official">Nakuru County</name>
+		<name normalized="Nakuru County Council" languages="English">Nakuru County Council</name>
+		<name normalized="Goрad Нakuрu" languages="Belarusian">Горад Накуру</name>
+		<name normalized="Нakuрu" languages="Russian;Serbian;Ukrainian">Накуру</name>
+		<name normalized="نאکوrو, کنیא" languages="Persian">ناکورو، کنیا</name>
+		<name normalized="ნაკურუ" languages="Georgian">ნაკურუ</name>
+		<name normalized="nkr" languages="Japanese">ナクル</name>
+		<name normalized="纳库鲁" languages="Chinese">纳库鲁</name>
+		<name normalized="나쿠루" languages="Korean">나쿠루</name>
+	</region>
+	<region name="Nandi" type="county" typeTranslated="county">
+		<name normalized="District de Nandi" languages="French">District de Nandi</name>
+		<name normalized="Distrito Nandi" languages="Spanish">Distrito Nandi</name>
+		<name normalized="Nandi" languages="Dutch;English;official;Swedish;Vietnamese">Nandi</name>
+		<name normalized="Nandi County" languages="English;German;official">Nandi County</name>
+		<name normalized="Wilaya ya Nandi" languages="Swahili">Wilaya ya Nandi</name>
+		<name normalized="Нaнdi" languages="Russian">Нанди</name>
+	</region>
+	<region name="Narok" type="county" typeTranslated="county">
+		<name normalized="Narok" languages="Catalan;Dutch;English;Finnish;German;official;Polish;Romanian;Swahili;Swedish;Vietnamese;veneto">Narok</name>
+		<name normalized="Narok County" languages="English;German;official">Narok County</name>
+		<name normalized="Wilaya ya Narok" languages="Swahili">Wilaya ya Narok</name>
+		<name normalized="Нaрok" languages="Russian">Нарок</name>
+		<name normalized="نאrوک, کنیא" languages="Persian">ناروک، کنیا</name>
+		<name normalized="ნაროკი" languages="Georgian">ნაროკი</name>
+		<name normalized="納羅克" languages="Chinese">納羅克</name>
+	</region>
+	<region name="Nyamira" type="county" typeTranslated="county">
+		<name normalized="Nyamira" languages="Dutch;English;French;official;Polish;Swahili;Swedish;Vietnamese">Nyamira</name>
+		<name normalized="Nyamira County" languages="English;German;official">Nyamira County</name>
+		<name normalized="Wilaya ya Nyamira" languages="Swahili">Wilaya ya Nyamira</name>
+	</region>
+	<region name="Nyandarua" type="county" typeTranslated="county">
+		<name normalized="Distretto di Nyandarua" languages="Italian">Distretto di Nyandarua</name>
+		<name normalized="District de Nyandarua" languages="French">District de Nyandarua</name>
+		<name normalized="Nyandarua" languages="Dutch;English;official;Swedish;Vietnamese">Nyandarua</name>
+		<name normalized="Nyandarua County" languages="English;German;official">Nyandarua County</name>
+		<name normalized="Wilaya ya Nyandarua" languages="Swahili">Wilaya ya Nyandarua</name>
+	</region>
+	<region name="Nyeri" type="county" typeTranslated="county">
+		<name normalized="Distretto di Nyeri" languages="Italian">Distretto di Nyeri</name>
+		<name normalized="Njeris" languages="Lithuanian">Njeris</name>
+		<name normalized="Nyeri" languages="Breton;Catalan;Croatian;Dutch;English;Esperanto;French;German;Hungarian;Indonesian;Italian;Kalaallisut;Maori;official;Polish;Portuguese;Romanian;Spanish;Swahili;Swedish;Vietnamese;veneto;Waray">Nyeri</name>
+		<name normalized="Nyeri County" languages="English;German;official">Nyeri County</name>
+		<name normalized="Wilaya ya Nyeri" languages="Swahili">Wilaya ya Nyeri</name>
+		<name normalized="Ньiрi" languages="Russian">Ньери</name>
+		<name normalized="Niрi" languages="Serbian">Њери</name>
+		<name normalized="نیrی, کنیא" languages="Persian">نیری، کنیا</name>
+		<name normalized="ნიერი" languages="Georgian">ნიერი</name>
+		<name normalized="ner" languages="Japanese">ニエリ</name>
+		<name normalized="尼耶利" languages="Chinese">尼耶利</name>
+		<name normalized="니에리" languages="Korean">니에리</name>
+	</region>
+	<region name="Samburu" type="county" typeTranslated="county">
+		<name normalized="Distretto di Samburu" languages="Italian">Distretto di Samburu</name>
+		<name normalized="Distrikto Samburu" languages="Esperanto">Distrikto Samburu</name>
+		<name normalized="Samburu" languages="Dutch;English;official;Swedish;Vietnamese">Samburu</name>
+		<name normalized="Samburu County" languages="English;German;official">Samburu County</name>
+		<name normalized="Wilaya ya Samburu" languages="Swahili">Wilaya ya Samburu</name>
+	</region>
+	<region name="Siaya" type="county" typeTranslated="county">
+		<name normalized="Siaya" languages="English;French;official;Polish;Swahili;Swedish">Siaya</name>
+		<name normalized="Siaya County" languages="English;official">Siaya County</name>
+	</region>
+	<region name="Taita/Taveta" type="county" typeTranslated="county">
+		<name normalized="Taita" languages="English;French;German;official;Swedish">Taita</name>
+		<name normalized="Taita County" languages="English;official">Taita County</name>
+		<name normalized="Taita/Taveta" languages="English;official">Taita/Taveta</name>
+		<name normalized="Taita/Taveta County" languages="English;official">Taita/Taveta County</name>
+		<name normalized="Taveta" languages="Dutch;English;German;official;Polish;Swahili;Swedish">Taveta</name>
+		<name normalized="Taveta County" languages="English;official">Taveta County</name>
+		<name normalized="tvעי" languages="Hebrew">תועי</name>
+		<name normalized="塔韋塔" languages="Chinese">塔韋塔</name>
+	</region>
+	<region name="Tana River" type="county" typeTranslated="county">
+		<name normalized="Rio Tana" languages="Portuguese">Rio Tana</name>
+		<name normalized="Raul Tana" languages="Romanian">Râul Tana</name>
+		<name normalized="Rio Tana" languages="Galician;Spanish">Río Tana</name>
+		<name normalized="Tana" languages="Catalan;Czech;Dutch;French;German;Hungarian;Italian;Lithuanian;Norwegian (bokmal);Polish;Swahili">Tana</name>
+		<name normalized="Tana jogi" languages="Estonian">Tana jõgi</name>
+		<name normalized="Tana Nehri" languages="Turkish">Tana Nehri</name>
+		<name normalized="Tana River" languages="Dutch;English;official;Swedish;Vietnamese">Tana River</name>
+		<name normalized="Tana River County" languages="English;German;official">Tana River County</name>
+		<name normalized="Tanafloden" languages="Danish;Swedish">Tanafloden</name>
+		<name normalized="Tanajoki" languages="Finnish">Tanajoki</name>
+		<name normalized="Wilaya ya Mto Tana" languages="Swahili">Wilaya ya Mto Tana</name>
+		<name normalized="Рaka Taнa" languages="Belarusian">Рака Тана</name>
+		<name normalized="Taнa" languages="Russian;Serbian">Тана</name>
+		<name normalized="rود tאنא" languages="Persian">رود تانا</name>
+		<name normalized="tाnा ndi" languages="Hindi">ताना नदी</name>
+		<name normalized="ტანა" languages="Georgian">ტანა</name>
+		<name normalized="tn川" languages="Japanese">タナ川</name>
+		<name normalized="塔納河" languages="Chinese">塔納河</name>
+	</region>
+	<region name="Tharaka-Nithi" type="county" typeTranslated="county">
+		<name normalized="Tharaka" languages="Dutch;Swedish;Vietnamese">Tharaka</name>
+		<name normalized="Tharaka-Nithi" languages="English;official">Tharaka-Nithi</name>
+		<name normalized="Tharaka-Nithi County" languages="English;official">Tharaka-Nithi County</name>
+		<name normalized="Wilaya ya Tharaka" languages="Swahili">Wilaya ya Tharaka</name>
+	</region>
+	<region name="Trans Nzoia" type="county" typeTranslated="county">
+		<name normalized="District de Trans-Nzoia" languages="French">District de Trans-Nzoia</name>
+		<name normalized="Trans Nzoia" languages="English;Estonian;official;Vietnamese">Trans Nzoia</name>
+		<name normalized="Trans Nzoia County" languages="English;official">Trans Nzoia County</name>
+		<name normalized="Trans-Nzoia" languages="Dutch;Swedish">Trans-Nzoia</name>
+		<name normalized="Trans-Nzoia County" languages="English;German">Trans-Nzoia County</name>
+		<name normalized="Wilaya ya Trans-Nzoia" languages="Swahili">Wilaya ya Trans-Nzoia</name>
+	</region>
+	<region name="Turkana" type="county" typeTranslated="county">
+		<name normalized="Turkana" languages="Dutch;English;French;German;Italian;official;Slovak;Swedish;Vietnamese;Welsh">Turkana</name>
+		<name normalized="Turkana County" languages="English;German;official">Turkana County</name>
+		<name normalized="Wilaya ya Turkana" languages="Swahili">Wilaya ya Turkana</name>
+		<name normalized="Tuрkaнa" languages="Macedonian;Russian;Ukrainian">Туркана</name>
+		<name normalized="tvrqאnh" languages="Hebrew">טורקאנה</name>
+		<name normalized="turkn" languages="Japanese">トゥルカナ</name>
+	</region>
+	<region name="Uasin Gishu" type="county" typeTranslated="county">
+		<name normalized="Distretto di Uasin Gishu" languages="Italian">Distretto di Uasin Gishu</name>
+		<name normalized="Uasin Gishu" languages="Dutch;English;official;Swedish;Vietnamese">Uasin Gishu</name>
+		<name normalized="Uasin Gishu County" languages="English;German;official">Uasin Gishu County</name>
+		<name normalized="Wilaya ya Uasin Gishu" languages="Swahili">Wilaya ya Uasin Gishu</name>
+	</region>
+	<region name="Vihiga" type="county" typeTranslated="county">
+		<name normalized="Vihiga" languages="Dutch;English;official;Polish;Swahili;Swedish;Vietnamese">Vihiga</name>
+		<name normalized="Vihiga County" languages="English;German;official">Vihiga County</name>
+		<name normalized="Wilaya ya Vihiga" languages="Swahili">Wilaya ya Vihiga</name>
+		<name normalized="Vikiga" languages="Russian">Вихига</name>
+	</region>
+	<region name="Wajir" type="county" typeTranslated="county">
+		<name normalized="Vadziras" languages="Lithuanian">Vadžiras</name>
+		<name normalized="Wajeer" languages="Somali">Wajeer</name>
+		<name normalized="Wajir" languages="Catalan;Danish;Dutch;English;Finnish;French;German;Italian;official;Polish;Romanian;Spanish;Swahili;Swedish;Vietnamese">Wajir</name>
+		<name normalized="Wajir County" languages="English;German;official">Wajir County</name>
+		<name normalized="Wilaya ya Wajir" languages="Swahili">Wilaya ya Wajir</name>
+		<name normalized="Vadziр" languages="Russian">Ваджир</name>
+		<name normalized="Uadziр" languages="Bulgarian">Уаджир</name>
+		<name normalized="وאjیr, کنیא" languages="Persian">واجیر، کنیا</name>
+		<name normalized="ვაჯირი" languages="Georgian">ვაჯირი</name>
+		<name normalized="wzーr" languages="Japanese">ワジール</name>
+		<name normalized="瓦吉爾" languages="Chinese">瓦吉爾</name>
+	</region>
+	<region name="West Pokot" type="county" typeTranslated="county">
+		<name normalized="Pokot" languages="English;French;official">Pokot</name>
+		<name normalized="Pokot County" languages="English;official">Pokot County</name>
+		<name normalized="Vastra Pokot" languages="Swedish">Västra Pokot</name>
+		<name normalized="West Pokot" languages="English;Norwegian (bokmal);official;Vietnamese">West Pokot</name>
+		<name normalized="West Pokot County" languages="English;German;official">West Pokot County</name>
+		<name normalized="West-Pokot" languages="Dutch">West-Pokot</name>
+		<name normalized="Wilaya ya Pokot Magharibi" languages="Swahili">Wilaya ya Pokot Magharibi</name>
+	</region>
+</regions>

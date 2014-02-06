@@ -1,0 +1,356 @@
+<regions country="Oman">
+	<region name="Ad Dakhiliyah" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Ad Dachiliyah" languages="Dutch">Ad Dachiliyah</name>
+		<name normalized="Ad Dakhiliyah" languages="Basque;English;Norwegian (bokmal);official;Portuguese;Swahili">Ad Dakhiliyah</name>
+		<name normalized="Ad Dakhiliyah Governorate" languages="English;official">Ad Dakhiliyah Governorate</name>
+		<name normalized="Ad Dakhiliyah Muhafazat" languages="English;official">Ad Dakhiliyah Muhafazat</name>
+		<name normalized="Ad-Dachiliyya" languages="German">Ad-Dachiliyya</name>
+		<name normalized="Ad-Dachilija" languages="Czech">Ad-Dáchílija</name>
+		<name normalized="Ad-Dakhiliyah" languages="French">Ad-Dākhilīyah</name>
+		<name normalized="Al-Dakhiliyya" languages="Finnish">Al-Dakhiliyya</name>
+		<name normalized="Al-Mintakat ad-Dachilijja" languages="Polish">Al-Mintakat ad-Dachilijja</name>
+		<name normalized="Belso regio" languages="Hungarian">Belső régió</name>
+		<name normalized="Dachilijos regionas" languages="Lithuanian">Dachilijos regionas</name>
+		<name normalized="Ed Dahiliye Bolgesi" languages="Turkish">Ed Dahiliye Bölgesi</name>
+		<name normalized="Governatorato di al-Dakhiliyya" languages="Italian">Governatorato di al-Dakhiliyya</name>
+		<name normalized="Interior" languages="Spanish">Interior</name>
+		<name normalized="Kegubernuran Ad-Dakhiliyah" languages="Indonesian">Kegubernuran Ad-Dakhiliyah</name>
+		<name normalized="Wilayah Ad Dakhiliyah" languages="Malay">Wilayah Ad Dakhiliyah</name>
+		<name normalized="Ed-Dakiлii" languages="Russian">Эд-Дахилия</name>
+		<name normalized="אسtאن دאخلیh" languages="Persian">استان داخلیه</name>
+		<name normalized="אلmنtqة אلدאخلyة" languages="Arabic">المنطقة الداخلية</name>
+		<name normalized="ad dाk़iliyा muhाp़j़ाh" languages="Hindi">अद दाख़िलीया मुहाफ़ज़ाह</name>
+		<name normalized="內地省" languages="Chinese">內地省</name>
+		<name normalized="다킬리야 지방" languages="Korean">다킬리야 지방</name>
+	</region>
+	<region name="Al Buraymi" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Al Buraimi" languages="Dutch;Norwegian (bokmal);Swahili">Al Buraimi</name>
+		<name normalized="Al Buraimi Governorate" languages="English">Al Buraimi Governorate</name>
+		<name normalized="Al Buraymi" languages="English;official">Al Buraymi</name>
+		<name normalized="Al Buraymi Governorate" languages="English;official">Al Buraymi Governorate</name>
+		<name normalized="Al Buraymi Muhafazat" languages="English;official">Al Buraymi Muhafazat</name>
+		<name normalized="Al-Burajmi" languages="Czech">Al-Burajmi</name>
+		<name normalized="Buraimi" languages="German;Spanish">Buraimi</name>
+		<name normalized="Buraimis" languages="Lithuanian">Buraimis</name>
+		<name normalized="Burajmi kormanyzosag" languages="Hungarian">Burajmi kormányzóság</name>
+		<name normalized="El Buraymi valiligi" languages="Turkish">El Buraymi valiliği</name>
+		<name normalized="Gouvernorat d'Al Buraymi" languages="French">Gouvernorat d'Al Buraymi</name>
+		<name normalized="Governatorato di al-Buraymi" languages="Italian">Governatorato di al-Buraymi</name>
+		<name normalized="Kegubernuran Al-Buraimi" languages="Indonesian">Kegubernuran Al-Buraimi</name>
+		<name normalized="Muhafazat al-Burajmi" languages="Polish">Muhafazat al-Burajmi</name>
+		<name normalized="Eль-Buрaймi" languages="Russian">Эль-Бурайми</name>
+		<name normalized="אسtאن brیmی" languages="Persian">استان بریمی</name>
+		<name normalized="אلbrymy" languages="Arabic">البريمي</name>
+		<name normalized="al burami muhाp़j़ाh" languages="Hindi">अल बुरैमी मुहाफ़ज़ाह</name>
+		<name normalized="brim特別行政区" languages="Japanese">ブライミ特別行政区</name>
+		<name normalized="布賴米省" languages="Chinese">布賴米省</name>
+		<name normalized="부라이미 주" languages="Korean">부라이미 주</name>
+	</region>
+	<region name="Al Wusta" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Al Wusta" languages="Basque;Dutch;English;Norwegian (bokmal);official;Portuguese">Al Wusta</name>
+		<name normalized="Al Wusta Governorate" languages="English;official">Al Wusta Governorate</name>
+		<name normalized="Al Wusta Muhafazat" languages="English;official">Al Wusta Muhafazat</name>
+		<name normalized="Al-Mintakat al-Wusta" languages="Polish">Al-Mintakat al-Wusta</name>
+		<name normalized="Al-Wusta" languages="Czech;French">Al-Wusta</name>
+		<name normalized="Central" languages="Spanish">Central</name>
+		<name normalized="El Vusta Bolgesi" languages="Turkish">El Vusta Bölgesi</name>
+		<name normalized="Governatorato di al-Wusta" languages="Italian">Governatorato di al-Wusta</name>
+		<name normalized="Kegubernuran Al-Wusta" languages="Indonesian">Kegubernuran Al-Wusta</name>
+		<name normalized="Kozepso regio" languages="Hungarian">Középső régió</name>
+		<name normalized="Vustos regionas" languages="Lithuanian">Vustos regionas</name>
+		<name normalized="Wilayah Al Wusta" languages="Malay">Wilayah Al Wusta</name>
+		<name normalized="Eль-Vuсta" languages="Russian">Эль-Вуста</name>
+		<name normalized="אسtאن وسtی" languages="Persian">استان وسطی</name>
+		<name normalized="אلmنtqة אلوسtى" languages="Arabic">المنطقة الوسطى</name>
+		<name normalized="al vus्tा muhाp़j़ाh" languages="Hindi">अल वुस्ता मुहाफ़ज़ाह</name>
+		<name normalized="中部省" languages="Chinese">中部省</name>
+		<name normalized="우스타 지방" languages="Korean">우스타 지방</name>
+	</region>
+	<region name="Az Zahirah" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Ad Dhahirah" languages="Basque;Norwegian (bokmal);Portuguese;Spanish;Swahili">Ad Dhahirah</name>
+		<name normalized="Ad Dhahirah Governorate" languages="English">Ad Dhahirah Governorate</name>
+		<name normalized="Ad-Zahira" languages="Czech">Ad-Zahíra</name>
+		<name normalized="Adh-Dhahira" languages="French">Adh-Dhahira</name>
+		<name normalized="Az Zahirah" languages="Dutch;English;official">Az Zahirah</name>
+		<name normalized="Az Zahirah Governorate" languages="English;official">Az Zahirah Governorate</name>
+		<name normalized="Az Zahirah Muhafazat" languages="English;official">Az Zahirah Muhafazat</name>
+		<name normalized="Dahiros regionas" languages="Lithuanian">Dahiros regionas</name>
+		<name normalized="Dhahirah" languages="Catalan">Dhahirah</name>
+		<name normalized="Ez Zahira Bolgesi" languages="Turkish">Ez Zahira Bölgesi</name>
+		<name normalized="Governatorato di al-Zahira" languages="Italian">Governatorato di al-Zahira</name>
+		<name normalized="Kegubernuran Azh-Zhahirah" languages="Indonesian">Kegubernuran Azh-Zhahirah</name>
+		<name normalized="Mintakat az-Zahira" languages="Polish">Mintakat az-Zahira</name>
+		<name normalized="Zahira regio" languages="Hungarian">Záhira régió</name>
+		<name normalized="Ez-Zakiрa" languages="Russian">Эз-Захира</name>
+		<name normalized="אسtאن zאhrh" languages="Persian">استان ظاهره</name>
+		<name normalized="mhאfzة אلzאhrة" languages="Arabic">محافظة الظاهرة</name>
+		<name normalized="aj़ j़ाhirाh muhाp़j़ाh" languages="Hindi">अज़ ज़ाहिराह मुहाफ़ज़ाह</name>
+		<name normalized="扎希拉省" languages="Chinese">扎希拉省</name>
+		<name normalized="다히라 지방" languages="Korean">다히라 지방</name>
+	</region>
+	<region name="Janub al Batinah" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Al Batinah" languages="English;official">Al Batinah</name>
+		<name normalized="Al Batinah Governorate" languages="English;official">Al Batinah Governorate</name>
+		<name normalized="Al Batinah Muhafazat" languages="English;official">Al Batinah Muhafazat</name>
+		<name normalized="Al Batinah South" languages="English;official">Al Batinah South</name>
+		<name normalized="Al Batinah South Governorate" languages="English;official">Al Batinah South Governorate</name>
+		<name normalized="Al Batinah South Muhafazat" languages="English;official">Al Batinah South Muhafazat</name>
+		<name normalized="Al Batinah" languages="English">Al Bāţinah</name>
+		<name normalized="Janub al Batinah" languages="English;official">Janub al Batinah</name>
+		<name normalized="Janub al Batinah Governorate" languages="English;official">Janub al Batinah Governorate</name>
+		<name normalized="Janub al Batinah Muhafazat" languages="English;official">Janub al Batinah Muhafazat</name>
+		<name normalized="Kegubernuran Al-Batinah Selatan" languages="Indonesian">Kegubernuran Al-Batinah Selatan</name>
+		<name normalized="South Al Batinah" languages="English;official">South Al Batinah</name>
+		<name normalized="South Al Batinah Governorate" languages="English;official">South Al Batinah Governorate</name>
+		<name normalized="South Al Batinah Muhafazat" languages="English;official">South Al Batinah Muhafazat</name>
+		<name normalized="Sor-Al Batinah" languages="Norwegian (bokmal)">Sør-Al Batinah</name>
+		<name normalized="אسtאن bאtنh jنوbی" languages="Persian">استان باطنه جنوبی</name>
+	</region>
+	<region name="Janub ash Sharqiyah" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Ach-Charqiya" languages="French">Ach-Charqiya</name>
+		<name normalized="Al Sharqia Governorate" languages="English">Al Sharqia Governorate</name>
+		<name normalized="Al-Mintakat asz-Szarkijja" languages="Polish">Al-Mintakat asz-Szarkijja</name>
+		<name normalized="Al-Xarkiyya" languages="Catalan">Al-Xarkiyya</name>
+		<name normalized="Ash Sharqiyah" languages="Basque;Danish;Dutch;English;Norwegian (bokmal);official;Portuguese;Romanian;Swahili">Ash Sharqiyah</name>
+		<name normalized="Ash Sharqiyah Governorate" languages="English;official">Ash Sharqiyah Governorate</name>
+		<name normalized="Ash Sharqiyah Muhafazat" languages="English;official">Ash Sharqiyah Muhafazat</name>
+		<name normalized="Ash Sharqiyah Region" languages="English">Ash Sharqiyah Region</name>
+		<name normalized="Ash Sharqiyah South" languages="English;official">Ash Sharqiyah South</name>
+		<name normalized="Ash Sharqiyah South Governorate" languages="English;official">Ash Sharqiyah South Governorate</name>
+		<name normalized="Ash Sharqiyah South Muhafazat" languages="English;official">Ash Sharqiyah South Muhafazat</name>
+		<name normalized="Ash-Sharqiyya" languages="Swedish">Ash-Sharqiyya</name>
+		<name normalized="Asj Sjarqiyah" languages="Dutch">Asj Sjarqiyah</name>
+		<name normalized="As-Sarkija" languages="Czech">Aš-Šarkíja</name>
+		<name normalized="As-Sarqiya" languages="Latin">Aš-Šarqīya</name>
+		<name normalized="Es Sarkiya Bolgesi" languages="Turkish">Eş Şarkiya Bölgesi</name>
+		<name normalized="Gouvernement asch-Scharqiyya" languages="German">Gouvernement asch-Scharqiyya</name>
+		<name normalized="Governacio de Sharqia" languages="Catalan">Governació de Sharqia</name>
+		<name normalized="Governatorato di Sharqiyya" languages="Italian">Governatorato di Sharqiyya</name>
+		<name normalized="Janub ash Sharqiyah" languages="English;official">Janub ash Sharqiyah</name>
+		<name normalized="Janub ash Sharqiyah Governorate" languages="English;official">Janub ash Sharqiyah Governorate</name>
+		<name normalized="Janub ash Sharqiyah Muhafazat" languages="English;official">Janub ash Sharqiyah Muhafazat</name>
+		<name normalized="Kegubernuran Asy Syarqiyah" languages="Indonesian">Kegubernuran Asy Syarqiyah</name>
+		<name normalized="Kegubernuran Asy-Syarqiyah Selatan" languages="Indonesian">Kegubernuran Asy-Syarqiyah Selatan</name>
+		<name normalized="Keleti regio" languages="Hungarian">Keleti régió</name>
+		<name normalized="Mkoa wa Sharqia" languages="Swahili">Mkoa wa Sharqia</name>
+		<name normalized="Oriental" languages="Spanish">Oriental</name>
+		<name normalized="Provinco Sarkija" languages="Esperanto">Provinco Ŝarkija</name>
+		<name normalized="Prowincja Wschodnia" languages="Polish">Prowincja Wschodnia</name>
+		<name normalized="Regione al-Sharqiyya" languages="Italian">Regione al-Sharqiyya</name>
+		<name normalized="Sharqia" languages="Waray">Sharqia</name>
+		<name normalized="Sharqia Govrenorate" languages="Scots">Sharqia Govrenorate</name>
+		<name normalized="Sharqia guvernement" languages="Norwegian Nynorsk">Sharqia guvernement</name>
+		<name normalized="South Ash Sharqiyah" languages="English;official">South Ash Sharqiyah</name>
+		<name normalized="South Ash Sharqiyah Governorate" languages="English;official">South Ash Sharqiyah Governorate</name>
+		<name normalized="South Ash Sharqiyah Muhafazat" languages="English;official">South Ash Sharqiyah Muhafazat</name>
+		<name normalized="Sor-Ash Sharqiyah" languages="Norwegian (bokmal)">Sør-Ash Sharqiyah</name>
+		<name normalized="Xarqia" languages="Portuguese">Xarqia</name>
+		<name normalized="Sarkiye" languages="Turkish">Şarkiye</name>
+		<name normalized="Sarkijos muchafaza" languages="Lithuanian">Šarkijos muchafaza</name>
+		<name normalized="Sarkijos regionas" languages="Lithuanian">Šarkijos regionas</name>
+		<name normalized="Sarkija" languages="Czech">Šarkíja</name>
+		<name normalized="Saрkii" languages="Bulgarian;Russian">Шаркия</name>
+		<name normalized="Saрkija" languages="Serbian">Шаркија</name>
+		<name normalized="Saрkii" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Шаркія</name>
+		<name normalized="Es-Saрkii" languages="Russian">Эш-Шаркия</name>
+		<name normalized="מhvז א-שrqיh" languages="Hebrew">מחוז א-שרקיה</name>
+		<name normalized="אسtאن شrqی" languages="Persian">استان شرقی</name>
+		<name normalized="אسtאن شrqیh jنوbی" languages="Persian">استان شرقیه جنوبی</name>
+		<name normalized="אلشrqyة" languages="Arabic">الشرقية</name>
+		<name normalized="אلmنtqة אلشrqyة" languages="Arabic">المنطقة الشرقية</name>
+		<name normalized="sوbہ شrqیہ" languages="Western Punjabi">صوبہ شرقیہ</name>
+		<name normalized="mhאfzة אلشrqyh" languages="Egyptian Spoken Arabic">محافظة الشرقيه</name>
+		<name normalized="mنtqh شrqیh" languages="Persian">منطقه شرقیه</name>
+		<name normalized="al-srk़iyा muhाp़j़ाh" languages="Hindi">अल-शरक़िया मुहाफ़ज़ाह</name>
+		<name normalized="as srk़iyा k्षet्r" languages="Hindi">अश शरक़ीया क्षेत्र</name>
+		<name normalized="შარკიის მუჰაფაზა" languages="Georgian">შარკიის მუჰაფაზა</name>
+		<name normalized="syrkーy県" languages="Japanese">シャルキーヤ県</name>
+		<name normalized="東南省" languages="Chinese">東南省</name>
+		<name normalized="東部區" languages="Chinese">東部區</name>
+		<name normalized="東部省" languages="Chinese">東部省</name>
+		<name normalized="샤르키야 주" languages="Korean">샤르키야 주</name>
+		<name normalized="샤르키야 지방" languages="Korean">샤르키야 지방</name>
+	</region>
+	<region name="Masqat" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Gouvernorat de Mascate" languages="French">Gouvernorat de Mascate</name>
+		<name normalized="Governatorato di Mascate" languages="Italian">Governatorato di Mascate</name>
+		<name normalized="Kegubernuran Muskat" languages="Indonesian">Kegubernuran Muskat</name>
+		<name normalized="Mascat" languages="Haitian">Mascat</name>
+		<name normalized="Mascate" languages="Asturian;Franco-Provencal;French;Galician;Italian;Latin;lumbaart;Occitan;Piedmontese;Portuguese;Spanish">Mascate</name>
+		<name normalized="Maskat" languages="Afrikaans;Azerbaijani;Basque;Czech;German;Luxembourgish;Polish;Slovak;Swahili;Turkish;Upper Sorbian;Uzbek;Western Frisian">Maskat</name>
+		<name normalized="Maskat valiligi" languages="Turkish">Maskat valiliği</name>
+		<name normalized="Maskata" languages="Latvian">Maskata</name>
+		<name normalized="Maskatas" languages="Lithuanian">Maskatas</name>
+		<name normalized="Maskate" languages="Tagalog">Maskate</name>
+		<name normalized="Maskato" languages="Esperanto">Maskato</name>
+		<name normalized="Masqat" languages="Banjar;Breton;Catalan;Dutch;English;Finnish;Kalaallisut;Malagasy;official">Masqat</name>
+		<name normalized="Masqat Governorate" languages="English;official">Masqat Governorate</name>
+		<name normalized="Masqat Muhafazat" languages="English;official">Masqat Muhafazat</name>
+		<name normalized="Masqat" languages="Estonian">Masqaţ</name>
+		<name normalized="Masqat" languages="Kabyle">Masqaṭ</name>
+		<name normalized="Maszkat" languages="Hungarian">Maszkat</name>
+		<name normalized="Maszkat kormanyzosag" languages="Hungarian">Maszkat kormányzóság</name>
+		<name normalized="Muhafazat Maskat" languages="Polish">Muhafazat Maskat</name>
+		<name normalized="Muscat" languages="Chinese (Min Nan);Danish;English;Fiji Hindi;Ido;Malay;Norwegian Nynorsk;official;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Vietnamese;Waray;Welsh;Yoruba">Muscat</name>
+		<name normalized="Muscat Governorate" languages="English;official">Muscat Governorate</name>
+		<name normalized="Muscat Muhafazat" languages="English;official">Muscat Muhafazat</name>
+		<name normalized="Muskat" languages="Achinese;Bosnian;Croatian;Indonesian;Norfuk / Pitkern;Norwegian (bokmal);Swahili;Swedish">Muskat</name>
+		<name normalized="Maskat" languages="Volapuk">Mäskat</name>
+		<name normalized="Muskat" languages="Icelandic">Múskat</name>
+		<name normalized="Μουσκατ" languages="Greek">Μουσκάτ</name>
+		<name normalized="Goрad Мaсkat" languages="Belarusian">Горад Маскат</name>
+		<name normalized="Мaсkat" languages="Bulgarian;Chechen;Chuvash;Mongolian;Ossetic;Russian;Serbian;Ukrainian;biлaрuсkai (taрaskivita)‎">Маскат</name>
+		<name normalized="Мaсkat" languages="Tajik">Масқат</name>
+		<name normalized="Мuсkat" languages="Macedonian">Мускат</name>
+		<name normalized="Mաskաt" languages="Armenian">Մասկատ</name>
+		<name normalized="מאסqt" languages="Hebrew">מאסקט</name>
+		<name normalized="אسtאن mسqt" languages="Persian">استان مسقط</name>
+		<name normalized="mسqt" languages="Arabic;Persian;Urdu;Western Punjabi">مسقط</name>
+		<name normalized="mۇسkאt" languages="Uyghur">مۇسكات</name>
+		<name normalized="mەسqەt" languages="Sorani Kurdish">مەسقەت</name>
+		<name normalized="ms्kt" languages="Marathi">मस्कत</name>
+		<name normalized="ms्k़t" languages="Hindi">मस्क़त</name>
+		<name normalized="ms्k़t muhाp़j़ाh" languages="Hindi">मस्क़त मुहाफ़ज़ाह</name>
+		<name normalized="mাs্kাট" languages="Bengali">মাস্কাট</name>
+		<name normalized="mskਟ" languages="Punjabi">ਮਸਕਟ</name>
+		<name normalized="ମସ୍କଟ" languages="Oriya">ମସ୍କଟ</name>
+		<name normalized="மஸ்கத்" languages="Tamil">மஸ்கத்</name>
+		<name normalized="మస్కట్" languages="Telugu">మస్కట్</name>
+		<name normalized="മസ്കറ്റ്" languages="Malayalam">മസ്കറ്റ്</name>
+		<name normalized="มัสกัต" languages="Thai">มัสกัต</name>
+		<name normalized="མི་སི་ཁ་ཁྲི།" languages="Tibetan">མི་སི་ཁ་ཁྲི།</name>
+		<name normalized="მასკატი" languages="Georgian">მასკატი</name>
+		<name normalized="መስከት" languages="Amharic">መስከት</name>
+		<name normalized="msktt" languages="Japanese">マスカット</name>
+		<name normalized="msktt特別行政区" languages="Japanese">マスカット特別行政区</name>
+		<name normalized="馬斯喀特" languages="Cantonese">馬斯喀特</name>
+		<name normalized="马斯喀特" languages="Chinese">马斯喀特</name>
+		<name normalized="무스카트" languages="Korean">무스카트</name>
+		<name normalized="무스카트 주" languages="Korean">무스카트 주</name>
+	</region>
+	<region name="Musandam" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Gouvernorat de Musandam" languages="French">Gouvernorat de Musandam</name>
+		<name normalized="Muhafazat Musandam" languages="Polish">Muhafazat Musandam</name>
+		<name normalized="Musandam" languages="Asturian;Basque;Catalan;Czech;Dutch;English;Finnish;German;Indonesian;Malay;Norwegian (bokmal);official;Serbo-Croatian;Spanish;Swahili;Swedish;Vietnamese">Musandam</name>
+		<name normalized="Musandam Governorate" languages="English;official">Musandam Governorate</name>
+		<name normalized="Musandam Govrenorate" languages="Scots">Musandam Govrenorate</name>
+		<name normalized="Musandam Muhafazat" languages="English;official">Musandam Muhafazat</name>
+		<name normalized="Musandam valiligi" languages="Turkish">Musandam valiliği</name>
+		<name normalized="Musandamas" languages="Lithuanian">Musandamas</name>
+		<name normalized="Musandami kubernerkond" languages="Estonian">Musandami kubernerkond</name>
+		<name normalized="Muszandam kormanyzosag" languages="Hungarian">Muszandam kormányzóság</name>
+		<name normalized="Penisola del Musandam" languages="Italian">Penisola del Musandam</name>
+		<name normalized="Peninsula de Musandam" languages="Galician;Portuguese">Península de Musandam</name>
+		<name normalized="Мuсaнdaм" languages="Russian;Ukrainian">Мусандам</name>
+		<name normalized="אسtאن mسندm" languages="Persian">استان مسندم</name>
+		<name normalized="mسندm" languages="Arabic">مسندم</name>
+		<name normalized="musn्dm muhाp़j़ाh" languages="Hindi">मुसन्दम मुहाफ़ज़ाह</name>
+		<name normalized="മുസന്ധം" languages="Malayalam">മുസന്ധം</name>
+		<name normalized="msndm特別行政区" languages="Japanese">ムサンダム特別行政区</name>
+		<name normalized="穆桑代姆省" languages="Chinese">穆桑代姆省</name>
+		<name normalized="무산담 주" languages="Korean">무산담 주</name>
+	</region>
+	<region name="Shamal al Batinah" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Al Batinah" languages="English;official">Al Batinah</name>
+		<name normalized="Al Batinah Governorate" languages="English;official">Al Batinah Governorate</name>
+		<name normalized="Al Batinah Muhafazat" languages="English;official">Al Batinah Muhafazat</name>
+		<name normalized="Al Batinah North" languages="English;official">Al Batinah North</name>
+		<name normalized="Al Batinah North Governorate" languages="English;official">Al Batinah North Governorate</name>
+		<name normalized="Al Batinah North Muhafazat" languages="English;official">Al Batinah North Muhafazat</name>
+		<name normalized="Al Batinah" languages="English">Al Bāţinah</name>
+		<name normalized="Kegubernuran Al-Batinah Utara" languages="Indonesian">Kegubernuran Al-Batinah Utara</name>
+		<name normalized="Nord-Al Batinah" languages="Norwegian (bokmal)">Nord-Al Batinah</name>
+		<name normalized="North Al Batinah" languages="English;official">North Al Batinah</name>
+		<name normalized="North Al Batinah Governorate" languages="English;official">North Al Batinah Governorate</name>
+		<name normalized="North Al Batinah Muhafazat" languages="English;official">North Al Batinah Muhafazat</name>
+		<name normalized="Shamal al Batinah" languages="English;official">Shamal al Batinah</name>
+		<name normalized="Shamal al Batinah Governorate" languages="English;official">Shamal al Batinah Governorate</name>
+		<name normalized="Shamal al Batinah Muhafazat" languages="English;official">Shamal al Batinah Muhafazat</name>
+		<name normalized="אسtאن bאtنh شmאلی" languages="Persian">استان باطنه شمالی</name>
+	</region>
+	<region name="Shamal ash Sharqiyah" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Ach-Charqiya" languages="French">Ach-Charqiya</name>
+		<name normalized="Al Sharqia Governorate" languages="English">Al Sharqia Governorate</name>
+		<name normalized="Al-Mintakat asz-Szarkijja" languages="Polish">Al-Mintakat asz-Szarkijja</name>
+		<name normalized="Al-Xarkiyya" languages="Catalan">Al-Xarkiyya</name>
+		<name normalized="Ash Sharqiyah" languages="Basque;Danish;Dutch;English;Norwegian (bokmal);official;Portuguese;Romanian;Swahili">Ash Sharqiyah</name>
+		<name normalized="Ash Sharqiyah Governorate" languages="English;official">Ash Sharqiyah Governorate</name>
+		<name normalized="Ash Sharqiyah Muhafazat" languages="English;official">Ash Sharqiyah Muhafazat</name>
+		<name normalized="Ash Sharqiyah North" languages="English;official">Ash Sharqiyah North</name>
+		<name normalized="Ash Sharqiyah North Governorate" languages="English;official">Ash Sharqiyah North Governorate</name>
+		<name normalized="Ash Sharqiyah North Muhafazat" languages="English;official">Ash Sharqiyah North Muhafazat</name>
+		<name normalized="Ash Sharqiyah Region" languages="English">Ash Sharqiyah Region</name>
+		<name normalized="Ash-Sharqiyya" languages="Swedish">Ash-Sharqiyya</name>
+		<name normalized="Asj Sjarqiyah" languages="Dutch">Asj Sjarqiyah</name>
+		<name normalized="As-Sarkija" languages="Czech">Aš-Šarkíja</name>
+		<name normalized="As-Sarqiya" languages="Latin">Aš-Šarqīya</name>
+		<name normalized="Es Sarkiya Bolgesi" languages="Turkish">Eş Şarkiya Bölgesi</name>
+		<name normalized="Gouvernement asch-Scharqiyya" languages="German">Gouvernement asch-Scharqiyya</name>
+		<name normalized="Governacio de Sharqia" languages="Catalan">Governació de Sharqia</name>
+		<name normalized="Governatorato di Sharqiyya" languages="Italian">Governatorato di Sharqiyya</name>
+		<name normalized="Kegubernuran Asy Syarqiyah" languages="Indonesian">Kegubernuran Asy Syarqiyah</name>
+		<name normalized="Kegubernuran Asy-Syarqiyah Utara" languages="Indonesian">Kegubernuran Asy-Syarqiyah Utara</name>
+		<name normalized="Keleti regio" languages="Hungarian">Keleti régió</name>
+		<name normalized="Mkoa wa Sharqia" languages="Swahili">Mkoa wa Sharqia</name>
+		<name normalized="Nord-Ash Sharqiyah" languages="Norwegian (bokmal)">Nord-Ash Sharqiyah</name>
+		<name normalized="North Ash Sharqiyah" languages="English;official">North Ash Sharqiyah</name>
+		<name normalized="North Ash Sharqiyah Governorate" languages="English;official">North Ash Sharqiyah Governorate</name>
+		<name normalized="North Ash Sharqiyah Muhafazat" languages="English;official">North Ash Sharqiyah Muhafazat</name>
+		<name normalized="Oriental" languages="Spanish">Oriental</name>
+		<name normalized="Provinco Sarkija" languages="Esperanto">Provinco Ŝarkija</name>
+		<name normalized="Prowincja Wschodnia" languages="Polish">Prowincja Wschodnia</name>
+		<name normalized="Regione al-Sharqiyya" languages="Italian">Regione al-Sharqiyya</name>
+		<name normalized="Shamal ash Sharqiyah" languages="English;official">Shamal ash Sharqiyah</name>
+		<name normalized="Shamal ash Sharqiyah Governorate" languages="English;official">Shamal ash Sharqiyah Governorate</name>
+		<name normalized="Shamal ash Sharqiyah Muhafazat" languages="English;official">Shamal ash Sharqiyah Muhafazat</name>
+		<name normalized="Sharqia" languages="Waray">Sharqia</name>
+		<name normalized="Sharqia Govrenorate" languages="Scots">Sharqia Govrenorate</name>
+		<name normalized="Sharqia guvernement" languages="Norwegian Nynorsk">Sharqia guvernement</name>
+		<name normalized="Xarqia" languages="Portuguese">Xarqia</name>
+		<name normalized="Sarkiye" languages="Turkish">Şarkiye</name>
+		<name normalized="Sarkijos muchafaza" languages="Lithuanian">Šarkijos muchafaza</name>
+		<name normalized="Sarkijos regionas" languages="Lithuanian">Šarkijos regionas</name>
+		<name normalized="Sarkija" languages="Czech">Šarkíja</name>
+		<name normalized="Saрkii" languages="Bulgarian;Russian">Шаркия</name>
+		<name normalized="Saрkija" languages="Serbian">Шаркија</name>
+		<name normalized="Saрkii" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Шаркія</name>
+		<name normalized="Es-Saрkii" languages="Russian">Эш-Шаркия</name>
+		<name normalized="מhvז א-שrqיh" languages="Hebrew">מחוז א-שרקיה</name>
+		<name normalized="אسtאن شrqی" languages="Persian">استان شرقی</name>
+		<name normalized="אسtאن شrqیh شmאلی" languages="Persian">استان شرقیه شمالی</name>
+		<name normalized="אلشrqyة" languages="Arabic">الشرقية</name>
+		<name normalized="אلmنtqة אلشrqyة" languages="Arabic">المنطقة الشرقية</name>
+		<name normalized="sوbہ شrqیہ" languages="Western Punjabi">صوبہ شرقیہ</name>
+		<name normalized="mhאfzة אلشrqyh" languages="Egyptian Spoken Arabic">محافظة الشرقيه</name>
+		<name normalized="mنtqh شrqیh" languages="Persian">منطقه شرقیه</name>
+		<name normalized="al-srk़iyा muhाp़j़ाh" languages="Hindi">अल-शरक़िया मुहाफ़ज़ाह</name>
+		<name normalized="as srk़iyा k्षet्r" languages="Hindi">अश शरक़ीया क्षेत्र</name>
+		<name normalized="შარკიის მუჰაფაზა" languages="Georgian">შარკიის მუჰაფაზა</name>
+		<name normalized="syrkーy県" languages="Japanese">シャルキーヤ県</name>
+		<name normalized="東北省" languages="Chinese">東北省</name>
+		<name normalized="東部區" languages="Chinese">東部區</name>
+		<name normalized="東部省" languages="Chinese">東部省</name>
+		<name normalized="샤르키야 주" languages="Korean">샤르키야 주</name>
+		<name normalized="샤르키야 지방" languages="Korean">샤르키야 지방</name>
+	</region>
+	<region name="Zufar" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Dafar" languages="Czech">Dafár</name>
+		<name normalized="Dhofar" languages="Asturian;Basque;Catalan;Danish;Dutch;English;Finnish;French;German;Indonesian;Italian;Norwegian (bokmal);official;Spanish;Swahili">Dhofar</name>
+		<name normalized="Dhofar Governorate" languages="English;official">Dhofar Governorate</name>
+		<name normalized="Dhofar Muhafazat" languages="English;official">Dhofar Muhafazat</name>
+		<name normalized="Dofaras" languages="Lithuanian">Dofaras</name>
+		<name normalized="Muhafazat Zufar" languages="Polish">Muhafazat Zufar</name>
+		<name normalized="Zofar kormanyzosag" languages="Hungarian">Zofár kormányzóság</name>
+		<name normalized="Zufar" languages="English;official;Portuguese">Zufar</name>
+		<name normalized="Zufar Governorate" languages="English;official">Zufar Governorate</name>
+		<name normalized="Zufar Muhafazat" languages="English;official">Zufar Muhafazat</name>
+		<name normalized="Zufar valiligi" languages="Turkish">Zufar valiliği</name>
+		<name normalized="Doфaр" languages="Russian">Дофар</name>
+		<name normalized="אسtאن zfאr" languages="Persian">استان ظفار</name>
+		<name normalized="zfאr" languages="Arabic">ظفار</name>
+		<name normalized="j़op़ाr muhाp़j़ाh" languages="Hindi">ज़ोफ़ार मुहाफ़ज़ाह</name>
+		<name normalized="dhaーr特別行政区" languages="Japanese">ドファール特別行政区</name>
+		<name normalized="佐法爾省" languages="Chinese">佐法爾省</name>
+		<name normalized="도파르 주" languages="Korean">도파르 주</name>
+	</region>
+</regions>

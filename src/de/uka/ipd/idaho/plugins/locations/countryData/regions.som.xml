@@ -1,0 +1,218 @@
+<regions country="Somalia">
+	<region name="Awdal" type="region" typeTranslated="gobolka">
+		<name normalized="Adal" languages="Italian">Adal</name>
+		<name normalized="Awdal" languages="Basque;Catalan;Czech;Danish;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Javanese;official;Portuguese;Somali;Spanish;Swedish">Awdal</name>
+		<name normalized="Awdal Gobolka" languages="English;official">Awdal Gobolka</name>
+		<name normalized="Awdal Region" languages="English;official">Awdal Region</name>
+		<name normalized="Avdaл" languages="Russian">Авдал</name>
+		<name normalized="Audaл" languages="Bulgarian">Аудал</name>
+		<name normalized="عدل" languages="Arabic">عدل</name>
+		<name normalized="奥达勒州" languages="Chinese">奥达勒州</name>
+		<name normalized="아우달 주" languages="Korean">아우달 주</name>
+	</region>
+	<region name="Bakool" type="region" typeTranslated="gobolka">
+		<name normalized="Bakool" languages="Basque;Catalan;Danish;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Italian;Javanese;official;Portuguese;Somali;Spanish;Swedish">Bakool</name>
+		<name normalized="Bakool Gobolka" languages="English;official">Bakool Gobolka</name>
+		<name normalized="Bakool Region" languages="English;official">Bakool Region</name>
+		<name normalized="Bakoл" languages="Bulgarian">Бакол</name>
+		<name normalized="bאkول" languages="Arabic">باكول</name>
+		<name normalized="巴科勒州" languages="Chinese">巴科勒州</name>
+		<name normalized="바콜 주" languages="Korean">바콜 주</name>
+	</region>
+	<region name="Banaadir" type="region" typeTranslated="gobolka">
+		<name normalized="Banaadir" languages="Basque;Catalan;Danish;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Javanese;official;Portuguese;Scots;Somali;Swedish;Turkish">Banaadir</name>
+		<name normalized="Banaadir Gobolka" languages="English;official">Banaadir Gobolka</name>
+		<name normalized="Banaadir Region" languages="English;official">Banaadir Region</name>
+		<name normalized="Benadir" languages="Italian;Spanish">Benadir</name>
+		<name normalized="bنאدr" languages="Arabic">بنادر</name>
+		<name normalized="bndiーr州" languages="Japanese">バナディール州</name>
+		<name normalized="巴納迪爾州" languages="Chinese">巴納迪爾州</name>
+		<name normalized="바나디르 주" languages="Korean">바나디르 주</name>
+	</region>
+	<region name="Bari" type="region" typeTranslated="gobolka">
+		<name normalized="Bari" languages="Basque;Catalan;Danish;Dutch;English;Esperanto;Finnish;French;German;Italian;Javanese;official;Portuguese;Somali;Spanish">Bari</name>
+		<name normalized="Bari Gobolka" languages="English;official">Bari Gobolka</name>
+		<name normalized="Bari Region" languages="English;official">Bari Region</name>
+		<name normalized="Bari ringkond" languages="Estonian">Bari ringkond</name>
+		<name normalized="Baрi" languages="Bulgarian;Russian">Бари</name>
+		<name normalized="bאry" languages="Arabic">باري</name>
+		<name normalized="br州" languages="Japanese">バリ州</name>
+		<name normalized="巴里州" languages="Chinese">巴里州</name>
+		<name normalized="바리 주" languages="Korean">바리 주</name>
+	</region>
+	<region name="Bay" type="region" typeTranslated="gobolka">
+		<name normalized="Baay" languages="Danish;Somali">Baay</name>
+		<name normalized="Bai" languages="Italian">Bai</name>
+		<name normalized="Bay" languages="Basque;Catalan;Dutch;English;Esperanto;Finnish;French;German;Javanese;official;Portuguese;Romanian;Spanish">Bay</name>
+		<name normalized="Bay Gobolka" languages="English;official">Bay Gobolka</name>
+		<name normalized="Bay Region" languages="English;official">Bay Region</name>
+		<name normalized="Baй" languages="Bulgarian">Бай</name>
+		<name normalized="bאy" languages="Arabic">باي</name>
+		<name normalized="拜州" languages="Chinese">拜州</name>
+		<name normalized="바이 주" languages="Korean">바이 주</name>
+	</region>
+	<region name="Galguduud" type="region" typeTranslated="gobolka">
+		<name normalized="Galgudud" languages="Italian">Galgudud</name>
+		<name normalized="Galguduud" languages="Basque;Catalan;Danish;Dutch;English;Esperanto;Finnish;French;German;Javanese;official;Portuguese;Somali;Spanish;Swedish">Galguduud</name>
+		<name normalized="Galguduud Gobolka" languages="English;official">Galguduud Gobolka</name>
+		<name normalized="Galguduud Region" languages="English;official">Galguduud Region</name>
+		<name normalized="Gaлguduud" languages="Bulgarian">Галгудууд</name>
+		<name normalized="jلjدود" languages="Arabic">جلجدود</name>
+		<name normalized="加勒古杜德州" languages="Chinese">加勒古杜德州</name>
+		<name normalized="갈구두드 주" languages="Korean">갈구두드 주</name>
+	</region>
+	<region name="Gedo" type="region" typeTranslated="gobolka">
+		<name normalized="Gedo" languages="Basque;Catalan;Dutch;English;Esperanto;Finnish;French;German;Javanese;Norwegian (bokmal);official;Portuguese;Somali;Spanish">Gedo</name>
+		<name normalized="Gedo Gobolka" languages="English;official">Gedo Gobolka</name>
+		<name normalized="Gedo Region" languages="English;official">Gedo Region</name>
+		<name normalized="Geedo" languages="Danish">Geedo</name>
+		<name normalized="Ghedo" languages="Italian">Ghedo</name>
+		<name normalized="Gido" languages="Bulgarian;Russian">Гедо</name>
+		<name normalized="jدو" languages="Arabic">جدو</name>
+		<name normalized="gd州" languages="Japanese">ゲド州</name>
+		<name normalized="蓋多州" languages="Chinese">蓋多州</name>
+		<name normalized="게도 주" languages="Korean">게도 주</name>
+	</region>
+	<region name="Hiiraan" type="region" typeTranslated="gobolka">
+		<name normalized="Hiiraan" languages="Basque;Catalan;Danish;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Javanese;official;Portuguese;Somali;Spanish;Swedish">Hiiraan</name>
+		<name normalized="Hiiraan Gobolka" languages="English;official">Hiiraan Gobolka</name>
+		<name normalized="Hiiraan Region" languages="English;official">Hiiraan Region</name>
+		<name normalized="Hiran" languages="English;Italian">Hiran</name>
+		<name normalized="Kiрaaн" languages="Bulgarian">Хираан</name>
+		<name normalized="Kiрaн" languages="Russian">Хиран</name>
+		<name normalized="hyrאن" languages="Arabic">هيران</name>
+		<name normalized="希蘭州" languages="Chinese">希蘭州</name>
+		<name normalized="히란 주" languages="Korean">히란 주</name>
+	</region>
+	<region name="Jubbada Dhexe" type="region" typeTranslated="gobolka">
+		<name normalized="Jubbada Dhexe" languages="Basque;Catalan;Danish;Dutch;English;Esperanto;French;German;Javanese;official;Portuguese;Somali;Spanish">Jubbada Dhexe</name>
+		<name normalized="Jubbada Dhexe Gobolka" languages="English;official">Jubbada Dhexe Gobolka</name>
+		<name normalized="Jubbada Dhexe Region" languages="English;official">Jubbada Dhexe Region</name>
+		<name normalized="Keski-Juba" languages="Finnish">Keski-Juba</name>
+		<name normalized="Medio Giuba" languages="Italian">Medio Giuba</name>
+		<name normalized="Middle Juba" languages="English">Middle Juba</name>
+		<name normalized="Middle Jubba" languages="English;official">Middle Jubba</name>
+		<name normalized="Middle Jubba Gobolka" languages="English;official">Middle Jubba Gobolka</name>
+		<name normalized="Middle Jubba Region" languages="English;official">Middle Jubba Region</name>
+		<name normalized="Юbada Dikсi" languages="Bulgarian">Юбада Дексе</name>
+		<name normalized="jوbא אلوسtى" languages="Arabic">جوبا الوسطى</name>
+		<name normalized="中朱巴州" languages="Chinese">中朱巴州</name>
+		<name normalized="주바다 데헤 주" languages="Korean">주바다 데헤 주</name>
+	</region>
+	<region name="Jubbada Hoose" type="region" typeTranslated="gobolka">
+		<name normalized="Ala-Juba" languages="Finnish">Ala-Juba</name>
+		<name normalized="Asagı Cubba" languages="Turkish">Aşağı Cubba</name>
+		<name normalized="Basso Giuba" languages="Italian">Basso Giuba</name>
+		<name normalized="Jizni Dzuba" languages="Czech">Jižní Džuba</name>
+		<name normalized="Jubba" languages="English;official">Jubba</name>
+		<name normalized="Jubba Gobolka" languages="English;official">Jubba Gobolka</name>
+		<name normalized="Jubba Region" languages="English;official">Jubba Region</name>
+		<name normalized="Jubbada Hoose" languages="Basque;Catalan;Danish;Dutch;English;Esperanto;French;German;official;Portuguese;Somali;Spanish">Jubbada Hoose</name>
+		<name normalized="Jubbada Hoose Gobolka" languages="English;official">Jubbada Hoose Gobolka</name>
+		<name normalized="Jubbada Hoose Region" languages="English;official">Jubbada Hoose Region</name>
+		<name normalized="Lower Juba" languages="English">Lower Juba</name>
+		<name normalized="Lower Jubba" languages="English;official">Lower Jubba</name>
+		<name normalized="Lower Jubba Gobolka" languages="English;official">Lower Jubba Gobolka</name>
+		<name normalized="Lower Jubba Region" languages="English;official">Lower Jubba Region</name>
+		<name normalized="Юbada Kuuсi" languages="Bulgarian">Юбада Хуусе</name>
+		<name normalized="jbא" languages="Arabic">جبا</name>
+		<name normalized="jوbא אلسfلى" languages="Arabic">جوبا السفلى</name>
+		<name normalized="ജുബ്ബ" languages="Malayalam">ജുബ്ബ</name>
+		<name normalized="下朱巴州" languages="Chinese">下朱巴州</name>
+		<name normalized="주바다 호세 주" languages="Korean">주바다 호세 주</name>
+	</region>
+	<region name="Mudug" type="region" typeTranslated="gobolka">
+		<name normalized="Mudug" languages="Basque;Catalan;Danish;Dutch;English;Esperanto;Finnish;French;German;Javanese;Norwegian (bokmal);official;Portuguese;Somali;Spanish">Mudug</name>
+		<name normalized="Mudug Gobolka" languages="English;official">Mudug Gobolka</name>
+		<name normalized="Mudug Region" languages="English;official">Mudug Region</name>
+		<name normalized="Mudugh" languages="Italian">Mudugh</name>
+		<name normalized="Мudug" languages="Bulgarian">Мудуг</name>
+		<name normalized="mدj" languages="Arabic">مدج</name>
+		<name normalized="穆杜格州" languages="Chinese">穆杜格州</name>
+		<name normalized="무두그 주" languages="Korean">무두그 주</name>
+	</region>
+	<region name="Nugaal" type="region" typeTranslated="gobolka">
+		<name normalized="Nogal" languages="Italian">Nogal</name>
+		<name normalized="Nugaal" languages="Basque;Catalan;Danish;Dutch;English;Esperanto;Finnish;French;German;official;Portuguese;Somali;Spanish">Nugaal</name>
+		<name normalized="Nugaal Gobolka" languages="English;official">Nugaal Gobolka</name>
+		<name normalized="Nugaal Region" languages="English;official">Nugaal Region</name>
+		<name normalized="Nugal" languages="English;Sranan Tongo">Nugal</name>
+		<name normalized="Нugaaл" languages="Bulgarian">Нугаал</name>
+		<name normalized="Нugaл" languages="Russian">Нугал</name>
+		<name normalized="نوjאل" languages="Arabic">نوجال</name>
+		<name normalized="努加爾州" languages="Chinese">努加爾州</name>
+		<name normalized="누갈 주" languages="Korean">누갈 주</name>
+	</region>
+	<region name="Sanaag" type="region" typeTranslated="gobolka">
+		<name normalized="Sanaag" languages="Basque;Catalan;Czech;Danish;Dutch;English;Esperanto;Finnish;French;German;official;Portuguese;Somali;Spanish;Swedish">Sanaag</name>
+		<name normalized="Sanaag Gobolka" languages="English;official">Sanaag Gobolka</name>
+		<name normalized="Sanaag Region" languages="English;official">Sanaag Region</name>
+		<name normalized="Sanag" languages="Italian">Sanag</name>
+		<name normalized="Сaнaag" languages="Bulgarian;Russian">Санааг</name>
+		<name normalized="薩那格州" languages="Chinese">薩那格州</name>
+		<name normalized="사나그 주" languages="Korean">사나그 주</name>
+	</region>
+	<region name="Shabeellaha Dhexe" type="region" typeTranslated="gobolka">
+		<name normalized="Medio Scebeli" languages="Italian">Medio Scebeli</name>
+		<name normalized="Middle Shabeelle" languages="English;official">Middle Shabeelle</name>
+		<name normalized="Middle Shabeelle Gobolka" languages="English;official">Middle Shabeelle Gobolka</name>
+		<name normalized="Middle Shabeelle Region" languages="English;official">Middle Shabeelle Region</name>
+		<name normalized="Middle Shebelle" languages="English">Middle Shebelle</name>
+		<name normalized="Shabeellaha Dhexe" languages="Basque;Catalan;Danish;Dutch;English;Esperanto;Finnish;French;German;Javanese;official;Portuguese;Somali;Spanish">Shabeellaha Dhexe</name>
+		<name normalized="Shabeellaha Dhexe Gobolka" languages="English;official">Shabeellaha Dhexe Gobolka</name>
+		<name normalized="Shabeellaha Dhexe Region" languages="English;official">Shabeellaha Dhexe Region</name>
+		<name normalized="Sabiлaka Dikсi" languages="Bulgarian">Шабелаха Дексе</name>
+		<name normalized="شbyلy אلوسtى" languages="Arabic">شبيلي الوسطى</name>
+		<name normalized="中謝貝利州" languages="Chinese">中謝貝利州</name>
+		<name normalized="샤벨라하 데헤 주" languages="Korean">샤벨라하 데헤 주</name>
+	</region>
+	<region name="Shabeellaha Hoose" type="region" typeTranslated="gobolka">
+		<name normalized="Basso Scebeli" languages="Italian">Basso Scebeli</name>
+		<name normalized="Lower Shabeelle" languages="English;official">Lower Shabeelle</name>
+		<name normalized="Lower Shabeelle Gobolka" languages="English;official">Lower Shabeelle Gobolka</name>
+		<name normalized="Lower Shabeelle Region" languages="English;official">Lower Shabeelle Region</name>
+		<name normalized="Lower Shebelle" languages="English">Lower Shebelle</name>
+		<name normalized="Shabeellaha Hoose" languages="Basque;Catalan;Danish;Dutch;English;Esperanto;Finnish;French;German;Javanese;official;Portuguese;Scots;Somali;Spanish">Shabeellaha Hoose</name>
+		<name normalized="Shabeellaha Hoose Gobolka" languages="English;official">Shabeellaha Hoose Gobolka</name>
+		<name normalized="Shabeellaha Hoose Region" languages="English;official">Shabeellaha Hoose Region</name>
+		<name normalized="Shabeelle" languages="English;official">Shabeelle</name>
+		<name normalized="Shabeelle Gobolka" languages="English;official">Shabeelle Gobolka</name>
+		<name normalized="Shabeelle Region" languages="English;official">Shabeelle Region</name>
+		<name normalized="Sabiлaka Kuuсi" languages="Bulgarian">Шабелаха Хуусе</name>
+		<name normalized="شbyلy אلسfلى" languages="Arabic">شبيلي السفلى</name>
+		<name normalized="下謝貝利州" languages="Chinese">下謝貝利州</name>
+		<name normalized="샤벨라하 호세 주" languages="Korean">샤벨라하 호세 주</name>
+	</region>
+	<region name="Sool" type="region" typeTranslated="gobolka">
+		<name normalized="Sol" languages="Italian">Sol</name>
+		<name normalized="Sool" languages="Basque;Catalan;Czech;Danish;Dutch;English;Esperanto;Finnish;French;German;Javanese;Norwegian (bokmal);official;Portuguese;Somali;Spanish;Swedish">Sool</name>
+		<name normalized="Sool Gobolka" languages="English;official">Sool Gobolka</name>
+		<name normalized="Sool Region" languages="English;official">Sool Region</name>
+		<name normalized="Сoл" languages="Bulgarian">Сол</name>
+		<name normalized="Сuл" languages="Russian">Сул</name>
+		<name normalized="sول" languages="Arabic">صول</name>
+		<name normalized="蘇爾州" languages="Chinese">蘇爾州</name>
+		<name normalized="솔 주" languages="Korean">솔 주</name>
+	</region>
+	<region name="Togdheer" type="region" typeTranslated="gobolka">
+		<name normalized="Togdheer" languages="Basque;Catalan;Czech;Danish;Dutch;English;Esperanto;Finnish;French;German;official;Portuguese;Somali;Spanish;Swedish">Togdheer</name>
+		<name normalized="Togdheer Gobolka" languages="English;official">Togdheer Gobolka</name>
+		<name normalized="Togdheer Region" languages="English;official">Togdheer Region</name>
+		<name normalized="Tug Dair" languages="Italian">Tug Dair</name>
+		<name normalized="Togdiр" languages="Bulgarian;Russian">Тогдер</name>
+		<name normalized="tوjدyr" languages="Arabic">توجدير</name>
+		<name normalized="托格代爾州" languages="Chinese">托格代爾州</name>
+		<name normalized="토그데르 주" languages="Korean">토그데르 주</name>
+	</region>
+	<region name="Woqooyi Galbeed" type="region" typeTranslated="gobolka">
+		<name normalized="Nordovest" languages="Italian">Nordovest</name>
+		<name normalized="Woqooyi Galbeed" languages="Basque;Catalan;Danish;English;Esperanto;Finnish;French;German;official;Portuguese;Scots;Somali;Spanish;Swedish">Woqooyi Galbeed</name>
+		<name normalized="Woqooyi Galbeed Gobolka" languages="English;official">Woqooyi Galbeed Gobolka</name>
+		<name normalized="Woqooyi Galbeed Region" languages="English;official">Woqooyi Galbeed Region</name>
+		<name normalized="Woqooyi-Galbeed" languages="Dutch">Woqooyi-Galbeed</name>
+		<name normalized="Vokoi Gaлbiid" languages="Bulgarian">Вокои Галбеед</name>
+		<name normalized="وqوyy jאلbyد" languages="Arabic">وقويي جالبيد</name>
+		<name normalized="沃戈伊加勒贝德州" languages="Chinese">沃戈伊加勒贝德州</name>
+		<name normalized="워코이 갈베드 주" languages="Korean">워코이 갈베드 주</name>
+	</region>
+</regions>

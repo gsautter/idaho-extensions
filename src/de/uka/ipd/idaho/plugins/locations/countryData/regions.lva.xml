@@ -1,0 +1,524 @@
+<regions country="Latvia">
+	<region name="Adazu Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Adazu Novads" languages="English;official">Adazu Novads</name>
+	</region>
+	<region name="Aglonas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Aglonas Novads" languages="English;official">Aglonas Novads</name>
+	</region>
+	<region name="Aizkraukles Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Aizkraukles Novads" languages="English;official">Aizkraukles Novads</name>
+	</region>
+	<region name="Aizputes Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Aizputes Novads" languages="English;official">Aizputes Novads</name>
+	</region>
+	<region name="Aknistes Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Aknistes Novads" languages="English;official">Aknistes Novads</name>
+	</region>
+	<region name="Alojas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Alojas Novads" languages="English;official">Alojas Novads</name>
+	</region>
+	<region name="Alsungas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Alsungas Novads" languages="English;official">Alsungas Novads</name>
+	</region>
+	<region name="Aluksnes Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Aluksnes Novads" languages="English;official">Aluksnes Novads</name>
+	</region>
+	<region name="Amatas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Amatas Novads" languages="English;official">Amatas Novads</name>
+	</region>
+	<region name="Apes Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Apes Novads" languages="English;official">Apes Novads</name>
+	</region>
+	<region name="Auces Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Auces Novads" languages="English;official">Auces Novads</name>
+	</region>
+	<region name="Babites Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Babites Novads" languages="English;official">Babites Novads</name>
+	</region>
+	<region name="Baldones Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Baldones Novads" languages="English;official">Baldones Novads</name>
+	</region>
+	<region name="Baltinavas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Baltinavas Novads" languages="English;official">Baltinavas Novads</name>
+	</region>
+	<region name="Balvu Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Balvu Novads" languages="English;official">Balvu Novads</name>
+	</region>
+	<region name="Bauskas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Bauskas Novads" languages="English;official">Bauskas Novads</name>
+	</region>
+	<region name="Beverinas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Beverinas Novads" languages="English;official">Beverinas Novads</name>
+	</region>
+	<region name="Brocenu Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Brocenu Novads" languages="English;official">Brocenu Novads</name>
+	</region>
+	<region name="Burtnieku Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Burtnieku Novads" languages="English;official">Burtnieku Novads</name>
+	</region>
+	<region name="Carnikavas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Carnikavas Novads" languages="English;official">Carnikavas Novads</name>
+	</region>
+	<region name="Cesu Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Cesu Novads" languages="English;official">Cesu Novads</name>
+	</region>
+	<region name="Cesvaines Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Cesvaines Novads" languages="English;official">Cesvaines Novads</name>
+	</region>
+	<region name="Ciblas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Ciblas Novads" languages="English;official">Ciblas Novads</name>
+	</region>
+	<region name="Dagdas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Dagdas Novads" languages="English;official">Dagdas Novads</name>
+	</region>
+	<region name="Daugavpils" type="city" typeTranslated="city">
+		<name normalized="Daugavpils" languages="Afrikaans;Basque;Breton;Catalan;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Hungarian;Indonesian;Interlingue;Italian;Kalaallisut;Kashubian;Latvian;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Portuguese;Romanian;Scots;Serbo-Croatian;Slovak;Spanish;Swedish;Turkish;Veps;Vietnamese;Volapuk;Voro;Waray">Daugavpils</name>
+		<name normalized="Daugpilis" languages="Lithuanian">Daugpilis</name>
+		<name normalized="Daugpils" languages="Latgalian">Daugpiļs</name>
+		<name normalized="Daugpeles" languages="Samogitian">Daugpėlės</name>
+		<name normalized="Dauqavpils" languages="Azerbaijani">Dauqavpils</name>
+		<name normalized="Duneburgum" languages="Latin">Duneburgum</name>
+		<name normalized="Dyneburg" languages="Polish">Dyneburg</name>
+		<name normalized="Νταουγκαβπιλς" languages="Greek">Νταουγκάβπιλς</name>
+		<name normalized="Goрad Daўgaўpiлс" languages="Belarusian">Горад Даўгаўпілс</name>
+		<name normalized="Daugavpiлс" languages="Bashkir;Bulgarian;Chechen;Chuvash;Kazakh;Macedonian;Russian;Serbian;Tatar">Даугавпилс</name>
+		<name normalized="Daugavpiлс" languages="Ukrainian">Даугавпілс</name>
+		<name normalized="Dauґavpiлс" languages="Rusyn">Дауґавпілс</name>
+		<name normalized="Dzьviнсk" languages="biлaрuсkai (taрaskivita)‎">Дзьвінск</name>
+		<name normalized="דאvגbpידס" languages="Hebrew">דאוגבפילס</name>
+		<name normalized="דעnעnbvrג" languages="Yiddish">דענענבורג</name>
+		<name normalized="دאوغאfbyلس" languages="Arabic">داوغافبيلس</name>
+		<name normalized="دوjאfyلس" languages="Egyptian Spoken Arabic">دوجافيلس</name>
+		<name normalized="دوgאpیلس" languages="Persian">دوگاپیلس</name>
+		<name normalized="dagapil्s" languages="Marathi">दौगौपिल्स</name>
+		<name normalized="დაუგავპილსი" languages="Georgian">დაუგავპილსი</name>
+		<name normalized="dughprs" languages="Japanese">ダウガフピルス</name>
+		<name normalized="陶格夫匹尔斯" languages="Chinese">陶格夫匹尔斯</name>
+		<name normalized="다우가프필스" languages="Korean">다우가프필스</name>
+		<name normalized="𐌳𐌰𐍅𐌲𐌰𐍅𐍀𐌹𐌻𐍃" languages="Gothic">𐌳𐌰𐍅𐌲𐌰𐍅𐍀𐌹𐌻𐍃</name>
+	</region>
+	<region name="Daugavpils Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Daugavpils Novads" languages="English;official">Daugavpils Novads</name>
+	</region>
+	<region name="Dobeles Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Dobeles Novads" languages="English;official">Dobeles Novads</name>
+	</region>
+	<region name="Dundagas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Dundagas Novads" languages="English;official">Dundagas Novads</name>
+	</region>
+	<region name="Durbes Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Durbes Novads" languages="English;official">Durbes Novads</name>
+	</region>
+	<region name="Engures Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Engures Novads" languages="English;official">Engures Novads</name>
+	</region>
+	<region name="Erglu Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Erglu Novads" languages="English;official">Erglu Novads</name>
+	</region>
+	<region name="Garkalnes Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Garkalnes Novads" languages="English;official">Garkalnes Novads</name>
+	</region>
+	<region name="Grobinas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Grobinas Novads" languages="English;official">Grobinas Novads</name>
+	</region>
+	<region name="Gulbenes Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Gulbenes Novads" languages="English;official">Gulbenes Novads</name>
+	</region>
+	<region name="Iecavas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Iecavas Novads" languages="English;official">Iecavas Novads</name>
+	</region>
+	<region name="Ikskiles Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Ikskiles Novads" languages="English;official">Ikskiles Novads</name>
+	</region>
+	<region name="Ilukstes Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Ilukstes Novads" languages="English;official">Ilukstes Novads</name>
+	</region>
+	<region name="Incukalna Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Incukalna Novads" languages="English;official">Incukalna Novads</name>
+	</region>
+	<region name="Jaunjelgavas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Jaunjelgavas Novads" languages="English;official">Jaunjelgavas Novads</name>
+	</region>
+	<region name="Jaunpiebalgas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Jaunpiebalgas Novads" languages="English;official">Jaunpiebalgas Novads</name>
+	</region>
+	<region name="Jaunpils Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Jaunpils Novads" languages="English;official">Jaunpils Novads</name>
+	</region>
+	<region name="Jekabpils" type="city" typeTranslated="city">
+		<name normalized="Jekabpils" languages="English;official">Jekabpils</name>
+		<name normalized="Jakubmists" languages="Latgalian">Jākubmīsts</name>
+		<name normalized="Jekabpils" languages="Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Hungarian;Indonesian;Italian;Kalaallisut;Kashubian;Latvian;Norwegian (bokmal);Polish;Portuguese;Simple English;Slovak;Spanish;Swedish;Volapuk">Jēkabpils</name>
+		<name normalized="Jekabpilis" languages="Lithuanian">Jėkabpilis</name>
+		<name normalized="Jekabpeles" languages="Samogitian">Jėkabpėlės</name>
+		<name normalized="Goрad Ikabpiлс" languages="Belarusian">Горад Екабпілс</name>
+		<name normalized="Ikabpiлс" languages="Kazakh;Russian">Екабпилс</name>
+		<name normalized="Ikabpiлс" languages="biлaрuсkai (taрaskivita)‎">Екабпілс</name>
+		<name normalized="Йikabpiлс" languages="Bulgarian">Йекабпилс</name>
+		<name normalized="Ekabpiлс" languages="Ukrainian">Єкабпілс</name>
+		<name normalized="Jikabpiлс" languages="Serbian">Јекабпилс</name>
+		<name normalized="יqbpידס" languages="Hebrew">יקבפילס</name>
+		<name normalized="jikਾbpils" languages="Punjabi">ਜੀਕਾਬਪਿਲਸ</name>
+		<name normalized="იეკაბპილსი" languages="Georgian">იეკაბპილსი</name>
+		<name normalized="ieーkbprs" languages="Japanese">イェーカブピルス</name>
+		<name normalized="葉卡布皮爾斯" languages="Chinese">葉卡布皮爾斯</name>
+		<name normalized="예캅필스" languages="Korean">예캅필스</name>
+	</region>
+	<region name="Jekabpils Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Jekabpils Novads" languages="English;official">Jekabpils Novads</name>
+	</region>
+	<region name="Jelgava" type="city" typeTranslated="city">
+		<name normalized="Jelgava" languages="Basque;Catalan;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Hungarian;Indonesian;Italian;Kalaallisut;Kashubian;Latvian;Lithuanian;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Romanian;Samogitian;Scots;Slovak;Spanish;Swedish;Turkish;Vietnamese;Volapuk">Jelgava</name>
+		<name normalized="Jelgawa" languages="Polish">Jełgawa</name>
+		<name normalized="Yelgava" languages="Uzbek">Yelgava</name>
+		<name normalized="Goрad Iлgava" languages="Belarusian">Горад Елгава</name>
+		<name normalized="Iлgava" languages="Chechen;Chuvash;Kazakh;Russian;biлaрuсkai (taрaskivita)‎">Елгава</name>
+		<name normalized="Йiлgava" languages="Bulgarian">Йелгава</name>
+		<name normalized="Eлgava" languages="Ukrainian">Єлгава</name>
+		<name normalized="Jiлgava" languages="Macedonian;Serbian">Јелгава</name>
+		<name normalized="ידגbh" languages="Hebrew">ילגבה</name>
+		<name normalized="เยลกาวา" languages="Thai">เยลกาวา</name>
+		<name normalized="ელგავა" languages="Georgian">ელგავა</name>
+		<name normalized="iergva" languages="Japanese">イェルガヴァ</name>
+		<name normalized="叶尔加瓦" languages="Chinese">叶尔加瓦</name>
+		<name normalized="옐가바" languages="Korean">옐가바</name>
+	</region>
+	<region name="Jelgavas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Jelgavas Novads" languages="English;official">Jelgavas Novads</name>
+	</region>
+	<region name="Jurmala" type="city" typeTranslated="city">
+		<name normalized="Jurmala" languages="English;French;official">Jurmala</name>
+		<name normalized="Jurmala" languages="Polish">Jurmała</name>
+		<name normalized="Jurmala" languages="Afrikaans;Basque;Catalan;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;Galician;German;Hungarian;Indonesian;Italian;Latvian;Lithuanian;Norwegian (bokmal);Norwegian Nynorsk;Portuguese;Romanian;Samogitian;Slovak;Slovenian;Spanish;Swedish;Vietnamese;Volapuk;Welsh">Jūrmala</name>
+		<name normalized="Goрad Юрмaлa" languages="Belarusian">Горад Юрмала</name>
+		<name normalized="Юрмaлa" languages="Bulgarian;Chechen;Chuvash;Kazakh;Komi;Russian;Tatar;Ukrainian;biлaрuсkai (taрaskivita)‎">Юрмала</name>
+		<name normalized="Юрмaлi" languages="Eastern Mari">Юрмале</name>
+		<name normalized="Juрмaлa" languages="Serbian">Јурмала</name>
+		<name normalized="Յvyrmաlա" languages="Armenian">Յուրմալա</name>
+		<name normalized="יvrמדh" languages="Hebrew">יורמלה</name>
+		<name normalized="ยัวมาลา" languages="Thai">ยัวมาลา</name>
+		<name normalized="იურმალა" languages="Georgian">იურმალა</name>
+		<name normalized="yーrmr" languages="Japanese">ユールマラ</name>
+		<name normalized="尤爾馬拉" languages="Chinese">尤爾馬拉</name>
+		<name normalized="유르말라" languages="Korean">유르말라</name>
+	</region>
+	<region name="Kandavas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Kandavas Novads" languages="English;official">Kandavas Novads</name>
+	</region>
+	<region name="Karsavas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Karsavas Novads" languages="English;official">Karsavas Novads</name>
+	</region>
+	<region name="Keguma Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Keguma Novads" languages="English;official">Keguma Novads</name>
+	</region>
+	<region name="Kekavas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Kekavas Novads" languages="English;official">Kekavas Novads</name>
+	</region>
+	<region name="Kocenu Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Kocenu Novads" languages="English;official">Kocenu Novads</name>
+	</region>
+	<region name="Kokneses Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Kokneses Novads" languages="English;official">Kokneses Novads</name>
+	</region>
+	<region name="Kraslavas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Kraslavas Novads" languages="English;official">Kraslavas Novads</name>
+	</region>
+	<region name="Krimuldas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Krimuldas Novads" languages="English;official">Krimuldas Novads</name>
+	</region>
+	<region name="Krustpils Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Krustpils Novads" languages="English;official">Krustpils Novads</name>
+	</region>
+	<region name="Kuldigas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Kuldigas Novads" languages="English;official">Kuldigas Novads</name>
+	</region>
+	<region name="Lielvardes Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Lielvardes Novads" languages="English;official">Lielvardes Novads</name>
+	</region>
+	<region name="Liepaja" type="city" typeTranslated="city">
+		<name normalized="Liepaja" languages="Breton;English;official">Liepaja</name>
+		<name normalized="Liepoja" languages="Lithuanian">Liepoja</name>
+		<name normalized="Liepaja" languages="Basque;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Hungarian;Indonesian;Italian;Kalaallisut;Latvian;Luxembourgish;Malay;Norwegian (bokmal);Norwegian Nynorsk;Portuguese;Romanian;Slovak;Spanish;Swedish;Turkish;Vietnamese;Volapuk">Liepāja</name>
+		<name normalized="Lipawa" languages="Polish">Lipawa</name>
+		<name normalized="Liipaya" languages="Azerbaijani">Liеpаya</name>
+		<name normalized="Leipuoje" languages="Samogitian">Lėipuojė</name>
+		<name normalized="Λιεπαγια" languages="Greek">Λιεπάγια</name>
+		<name normalized="Goрad Лiipai" languages="Belarusian">Горад Ліепая</name>
+		<name normalized="Лiipai" languages="Bulgarian;Chechen;Chuvash;Kazakh;Ossetic;Russian">Лиепая</name>
+		<name normalized="Лijipaja" languages="Serbian">Лијепаја</name>
+		<name normalized="Лiipai" languages="biлaрuсkai (taрaskivita)‎">Ліепая</name>
+		<name normalized="Лiepai" languages="Ukrainian">Лієпая</name>
+		<name normalized="דייpאיh" languages="Hebrew">לייפאיה</name>
+		<name normalized="lipाyा" languages="Marathi">लीपाया</name>
+		<name normalized="ლიეპაია" languages="Georgian">ლიეპაია</name>
+		<name normalized="repーy" languages="Japanese">リエパーヤ</name>
+		<name normalized="利耶帕亚" languages="Chinese">利耶帕亚</name>
+		<name normalized="리예파야" languages="Korean">리예파야</name>
+	</region>
+	<region name="Ligatnes Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Ligatnes Novads" languages="English;official">Ligatnes Novads</name>
+	</region>
+	<region name="Limbazu Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Limbazu Novads" languages="English;official">Limbazu Novads</name>
+	</region>
+	<region name="Livanu Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Livanu Novads" languages="English;official">Livanu Novads</name>
+	</region>
+	<region name="Lubanas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Lubanas Novads" languages="English;official">Lubanas Novads</name>
+	</region>
+	<region name="Ludzas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Ludzas Novads" languages="English;official">Ludzas Novads</name>
+	</region>
+	<region name="Madonas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Madonas Novads" languages="English;official">Madonas Novads</name>
+	</region>
+	<region name="Malpils Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Malpils Novads" languages="English;official">Malpils Novads</name>
+	</region>
+	<region name="Marupes Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Marupes Novads" languages="English;official">Marupes Novads</name>
+	</region>
+	<region name="Mazsalacas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Mazsalacas Novads" languages="English;official">Mazsalacas Novads</name>
+	</region>
+	<region name="Mersraga Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Mersraga Novads" languages="English;official">Mersraga Novads</name>
+	</region>
+	<region name="Nauksenu Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Nauksenu Novads" languages="English;official">Nauksenu Novads</name>
+	</region>
+	<region name="Neretas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Neretas Novads" languages="English;official">Neretas Novads</name>
+	</region>
+	<region name="Nicas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Nicas Novads" languages="English;official">Nicas Novads</name>
+	</region>
+	<region name="Ogres Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Ogres Novads" languages="English;official">Ogres Novads</name>
+	</region>
+	<region name="Olaines Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Olaines Novads" languages="English;official">Olaines Novads</name>
+	</region>
+	<region name="Ozolnieku Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Ozolnieku Novads" languages="English;official">Ozolnieku Novads</name>
+	</region>
+	<region name="Pargaujas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Pargaujas Novads" languages="English;official">Pargaujas Novads</name>
+	</region>
+	<region name="Pavilostas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Pavilostas Novads" languages="English;official">Pavilostas Novads</name>
+	</region>
+	<region name="Plavinu Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Plavinu Novads" languages="English;official">Plavinu Novads</name>
+	</region>
+	<region name="Preilu Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Preilu Novads" languages="English;official">Preilu Novads</name>
+	</region>
+	<region name="Priekules Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Priekules Novads" languages="English;official">Priekules Novads</name>
+	</region>
+	<region name="Priekulu Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Priekulu Novads" languages="English;official">Priekulu Novads</name>
+	</region>
+	<region name="Raunas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Raunas Novads" languages="English;official">Raunas Novads</name>
+	</region>
+	<region name="Rezekne" type="city" typeTranslated="city">
+		<name normalized="Rezekne" languages="English;official;Portuguese">Rezekne</name>
+		<name normalized="Riezekne" languages="Samogitian">Riezeknė</name>
+		<name normalized="Rzezyca" languages="Polish">Rzeżyca</name>
+		<name normalized="Rezekne" languages="Afrikaans;Basque;Catalan;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Hungarian;Indonesian;Italian;Kalaallisut;Latvian;Norwegian (bokmal);Norwegian Nynorsk;Romanian;Slovak;Spanish;Swedish;Volapuk">Rēzekne</name>
+		<name normalized="Rezne" languages="Latgalian">Rēzne</name>
+		<name normalized="Rezekne" languages="Lithuanian">Rėzeknė</name>
+		<name normalized="Ρeζεκνε" languages="Greek">Ρέζεκνε</name>
+		<name normalized="Goрad Рezekнe" languages="Belarusian">Горад Рэзэкнэ</name>
+		<name normalized="Рizikнi" languages="Bulgarian;Kazakh;Macedonian;Russian;Serbian;Ukrainian">Резекне</name>
+		<name normalized="Рezekнe" languages="biлaрuсkai (taрaskivita)‎">Рэзэкнэ</name>
+		<name normalized="Rեzեkնե" languages="Armenian">Ռեզեկնե</name>
+		<name normalized="rזqnh" languages="Hebrew">רזקנה</name>
+		<name normalized="ryزkنy" languages="Arabic">ريزكني</name>
+		<name normalized="რეზეკნე" languages="Georgian">რეზეკნე</name>
+		<name normalized="rーzkn" languages="Japanese">レーゼクネ</name>
+		<name normalized="雷澤克內" languages="Chinese">雷澤克內</name>
+		<name normalized="레제크네" languages="Korean">레제크네</name>
+	</region>
+	<region name="Rezeknes Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Rezeknes Novads" languages="English;official">Rezeknes Novads</name>
+	</region>
+	<region name="Riebinu Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Riebinu Novads" languages="English;official">Riebinu Novads</name>
+	</region>
+	<region name="Riga" type="city" typeTranslated="city">
+		<name normalized="IRiga" languages="Zulu">IRiga</name>
+		<name normalized="Reiga" languages="Latgalian">Reiga</name>
+		<name normalized="Rig" languages="Veps">Rig</name>
+		<name normalized="Riga" languages="Achinese;Afrikaans;Albanian;Aragonese;Basque;Bavarian;Bosnian;Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Ewe;Faroese;Fiji Hindi;Franco-Provencal;French;Gagauz;Galician;German;Haitian;Hungarian;Ido;Indonesian;Interlingue;Italian;Javanese;Kalaallisut;Kashubian;Ladino;Latin;Ligure;Lingala;Low German;Lower Sorbian;lumbaart;Malagasy;Malay;Maltese;Maori;Nauru;Northern Frisian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Old English;Piedmontese;Portuguese;Quechua;Romanian;Scots;Scottish Gaelic;Seeltersk;Serbo-Croatian;Shona;Sicilian;Simple English;Slovak;Slovenian;Southern Sotho;Spanish;Swahili;Swedish;Tagalog;Tok Pisin;Turkish;Upper Sorbian;Uzbek;Vietnamese;veneto;Waray;Welsh;Western Frisian;Wolof;Yoruba;Zeeuws">Riga</name>
+		<name normalized="Rigo" languages="Esperanto">Rigo</name>
+		<name normalized="Riia" languages="Estonian;Voro">Riia</name>
+		<name normalized="Riigaa" languages="Norfuk / Pitkern">Riigaa</name>
+		<name normalized="Riika" languages="Finnish">Riika</name>
+		<name normalized="Riqa" languages="Azerbaijani">Riqa</name>
+		<name normalized="Ryga" languages="Lithuanian;Polish;Silesian">Ryga</name>
+		<name normalized="Riga" languages="Icelandic">Ríga</name>
+		<name normalized="Rige" languages="Irish">Ríge</name>
+		<name normalized="Riga" languages="Cornish;Latvian;Luxembourgish;Manx;Nahuatl;Samogitian;Volapuk">Rīga</name>
+		<name normalized="Ριγα" languages="Greek">Ρίγα</name>
+		<name normalized="Goрad Рыga" languages="Belarusian">Горад Рыга</name>
+		<name normalized="Рigae" languages="Ossetic">Ригæ</name>
+		<name normalized="Рiga" languages="Bulgarian;Chechen;Church Slavic;Chuvash;Hill Mari;Kazakh;Komi;Komi-Permyak;Kyrgyz;Lezghian;Macedonian;Moksha;Moldavian;Mongolian;Russian;Sakha;Serbian;Tajik;Tatar;Udmurt;Ukrainian">Рига</name>
+		<name normalized="Рigi" languages="Eastern Mari">Риге</name>
+		<name normalized="Рыga" languages="biлaрuсkai (taрaskivita)‎">Рыга</name>
+		<name normalized="Рiґa" languages="Rusyn">Ріґа</name>
+		<name normalized="Rիգա" languages="Armenian">Ռիգա</name>
+		<name normalized="rיגh" languages="Hebrew">ריגה</name>
+		<name normalized="rיגע" languages="Yiddish">ריגע</name>
+		<name normalized="rىgא" languages="Uyghur">رىگا</name>
+		<name normalized="ryjא" languages="Egyptian Spoken Arabic">ريجا</name>
+		<name normalized="ryغא" languages="Arabic">ريغا</name>
+		<name normalized="rیgא" languages="Persian;Urdu;Western Punjabi">ریگا</name>
+		<name normalized="ڕیgא" languages="Sorani Kurdish">ڕیگا</name>
+		<name normalized="rigा" languages="Marathi">रिगा</name>
+		<name normalized="rigा" languages="Hindi">रीगा</name>
+		<name normalized="rigা" languages="Bengali">রিগা</name>
+		<name normalized="rigਾ" languages="Punjabi">ਰੀਗਾ</name>
+		<name normalized="ரீகா" languages="Tamil">ரீகா</name>
+		<name normalized="รีกา" languages="Thai">รีกา</name>
+		<name normalized="རི་ག" languages="Tibetan">རི་ག</name>
+		<name normalized="ရီဂါမြို့" languages="Burmese">ရီဂါမြို့</name>
+		<name normalized="რიგა" languages="Georgian">რიგა</name>
+		<name normalized="ሪጋ" languages="Amharic">ሪጋ</name>
+		<name normalized="rg" languages="Japanese">リガ</name>
+		<name normalized="里加" languages="Cantonese;Chinese">里加</name>
+		<name normalized="리가" languages="Korean">리가</name>
+	</region>
+	<region name="Rojas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Rojas Novads" languages="English;official">Rojas Novads</name>
+	</region>
+	<region name="Ropazu Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Ropazu Novads" languages="English;official">Ropazu Novads</name>
+	</region>
+	<region name="Rucavas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Rucavas Novads" languages="English;official">Rucavas Novads</name>
+	</region>
+	<region name="Rugaju Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Rugaju Novads" languages="English;official">Rugaju Novads</name>
+	</region>
+	<region name="Rujienas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Rujienas Novads" languages="English;official">Rujienas Novads</name>
+	</region>
+	<region name="Rundales Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Rundales Novads" languages="English;official">Rundales Novads</name>
+	</region>
+	<region name="Salacgrivas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Salacgrivas Novads" languages="English;official">Salacgrivas Novads</name>
+	</region>
+	<region name="Salas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Salas Novads" languages="English;official">Salas Novads</name>
+	</region>
+	<region name="Salaspils Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Salaspils Novads" languages="English;official">Salaspils Novads</name>
+	</region>
+	<region name="Saldus Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Saldus Novads" languages="English;official">Saldus Novads</name>
+	</region>
+	<region name="Saulkrastu Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Saulkrastu Novads" languages="English;official">Saulkrastu Novads</name>
+	</region>
+	<region name="Sejas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Sejas Novads" languages="English;official">Sejas Novads</name>
+	</region>
+	<region name="Siguldas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Siguldas Novads" languages="English;official">Siguldas Novads</name>
+	</region>
+	<region name="Skriveru Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Skriveru Novads" languages="English;official">Skriveru Novads</name>
+	</region>
+	<region name="Skrundas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Skrundas Novads" languages="English;official">Skrundas Novads</name>
+	</region>
+	<region name="Smiltenes Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Smiltenes Novads" languages="English;official">Smiltenes Novads</name>
+	</region>
+	<region name="Stopinu Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Stopinu Novads" languages="English;official">Stopinu Novads</name>
+	</region>
+	<region name="Strencu Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Strencu Novads" languages="English;official">Strencu Novads</name>
+	</region>
+	<region name="Talsu Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Talsu Novads" languages="English;official">Talsu Novads</name>
+	</region>
+	<region name="Tervetes Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Tervetes Novads" languages="English;official">Tervetes Novads</name>
+	</region>
+	<region name="Tukuma Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Tukuma Novads" languages="English;official">Tukuma Novads</name>
+	</region>
+	<region name="Vainodes Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Vainodes Novads" languages="English;official">Vainodes Novads</name>
+	</region>
+	<region name="Valkas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Valkas Novads" languages="English;official">Valkas Novads</name>
+	</region>
+	<region name="Valmiera" type="city" typeTranslated="city">
+		<name normalized="Valmiera" languages="Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Hungarian;Indonesian;Italian;Kalaallisut;Latvian;Lithuanian;Low German;Norwegian (bokmal);official;Polish;Portuguese;Simple English;Slovak;Spanish;Swedish;Turkish;Volapuk">Valmiera</name>
+		<name normalized="Valmeira" languages="Samogitian">Valmėira</name>
+		<name normalized="Vaлмiiрa" languages="Bulgarian;Kazakh;Russian">Валмиера</name>
+		<name normalized="Vaлмijiрa" languages="Serbian">Валмијера</name>
+		<name normalized="Vaлмiiрa" languages="biлaрuсkai (taрaskivita)‎">Валміера</name>
+		<name normalized="Vaлмieрa" languages="Ukrainian">Валмієра</name>
+		<name normalized="Goрad Vaлмiiрa" languages="Belarusian">Горад Валміера</name>
+		<name normalized="vדמיrh" languages="Hebrew">ולמירה</name>
+		<name normalized="אلmyrא" languages="Arabic">الميرا</name>
+		<name normalized="vਾlmirਾ" languages="Punjabi">ਵਾਲਮੀਰਾ</name>
+		<name normalized="ვალმიერა" languages="Georgian">ვალმიერა</name>
+		<name normalized="varmer" languages="Japanese">ヴァルミエラ</name>
+		<name normalized="瓦爾米耶拉" languages="Chinese">瓦爾米耶拉</name>
+		<name normalized="발미에라" languages="Korean">발미에라</name>
+	</region>
+	<region name="Varaklanu Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Varaklanu Novads" languages="English;official">Varaklanu Novads</name>
+	</region>
+	<region name="Varkavas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Varkavas Novads" languages="English;official">Varkavas Novads</name>
+	</region>
+	<region name="Vecpiebalgas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Vecpiebalgas Novads" languages="English;official">Vecpiebalgas Novads</name>
+	</region>
+	<region name="Vecumnieku Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Vecumnieku Novads" languages="English;official">Vecumnieku Novads</name>
+	</region>
+	<region name="Ventspils" type="city" typeTranslated="city">
+		<name normalized="Ventspilis" languages="Lithuanian">Ventspilis</name>
+		<name normalized="Ventspils" languages="Afrikaans;Basque;Catalan;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Hungarian;Indonesian;Interlingue;Italian;Kalaallisut;Latvian;Low German;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Romanian;Slovak;Spanish;Swedish;Turkish;Vietnamese;Volapuk">Ventspils</name>
+		<name normalized="Ventspelis" languages="Samogitian">Vėntspėlis</name>
+		<name normalized="Vintspils" languages="Azerbaijani">Vеntspils</name>
+		<name normalized="Windawa" languages="Polish">Windawa</name>
+		<name normalized="Viнtсpiлс" languages="Bulgarian;Chechen;Chuvash;Kazakh;Russian;Serbian">Вентспилс</name>
+		<name normalized="Viнtсpiлс" languages="Ukrainian">Вентспілс</name>
+		<name normalized="Veнtсьpiлс" languages="biлaрuсkai (taрaskivita)‎">Вэнтсьпілс</name>
+		<name normalized="Goрad Veнtсpiлс" languages="Belarusian">Горад Вэнтспілс</name>
+		<name normalized="vntסpידס" languages="Hebrew">ונטספילס</name>
+		<name normalized="เวนต์สปิลส์" languages="Thai">เวนต์สปิลส์</name>
+		<name normalized="ვენტსპილსი" languages="Georgian">ვენტსპილსი</name>
+		<name normalized="ventprs" languages="Japanese">ヴェンツピルス</name>
+		<name normalized="文茨皮尔斯" languages="Chinese">文茨皮尔斯</name>
+		<name normalized="벤츠필스" languages="Korean">벤츠필스</name>
+	</region>
+	<region name="Ventspils Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Ventspils Novads" languages="English;official">Ventspils Novads</name>
+	</region>
+	<region name="Viesites Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Viesites Novads" languages="English;official">Viesites Novads</name>
+	</region>
+	<region name="Vilakas Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Vilakas Novads" languages="English;official">Vilakas Novads</name>
+	</region>
+	<region name="Vilanu Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Vilanu Novads" languages="English;official">Vilanu Novads</name>
+	</region>
+	<region name="Zilupes Novads" type="municipality" typeTranslated="novads">
+		<name normalized="Zilupes Novads" languages="English;official">Zilupes Novads</name>
+	</region>
+</regions>

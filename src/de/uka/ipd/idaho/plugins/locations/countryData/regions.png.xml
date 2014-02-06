@@ -1,0 +1,753 @@
+<regions country="Papua New Guinea">
+	<region name="Bougainville" type="autonomous region" typeTranslated="autonomous region">
+		<name normalized="Bougainville" languages="Catalan;Dutch;English;Esperanto;French;German;Italian;official;Polish;Portuguese;Serbo-Croatian;Slovak;Spanish">Bougainville</name>
+		<name normalized="Bugenvilis" languages="Lithuanian">Bugenvilis</name>
+		<name normalized="Bugiнviл" languages="Bulgarian">Бугенвил</name>
+		<name normalized="Bugiнviль" languages="Russian">Бугенвиль</name>
+		<name normalized="Bugiнviль" languages="Ukrainian">Бугенвіль</name>
+		<name normalized="bーgnbr" languages="Japanese">ブーゲンビル</name>
+	</region>
+	<region name="Central" type="province" typeTranslated="province">
+		<name normalized="Central" languages="Dutch;English;French;Galician;German;Italian;official;Polish;Portuguese;Simple English;Spanish;Swedish;Vietnamese;Volapuk">Central</name>
+		<name normalized="Central Province" languages="Alemannisch;English;German;official">Central Province</name>
+		<name normalized="Keskprovints" languages="Estonian">Keskprovints</name>
+		<name normalized="Okcidenta Provinco" languages="Esperanto">Okcidenta Provinco</name>
+		<name normalized="Province centrale" languages="French">Province centrale</name>
+		<name normalized="Provincia Central" languages="Spanish">Provincia Central</name>
+		<name normalized="Provincia Centrale" languages="Italian">Provincia Centrale</name>
+		<name normalized="Provincia Centrala" languages="Romanian">Provincia Centrală</name>
+		<name normalized="Provinsi Tengah" languages="Indonesian">Provinsi Tengah</name>
+		<name normalized="Provincia Central" languages="Catalan">Província Central</name>
+		<name normalized="Prowincja Centralna" languages="Polish">Prowincja Centralna</name>
+		<name normalized="Sentral Provins" languages="Tok Pisin">Sentral Provins</name>
+		<name normalized="Tinh Trung Uong" languages="Vietnamese">Tỉnh Trung Ương</name>
+		<name normalized="Сiнtрaл" languages="Serbian">Сентрал</name>
+		<name normalized="Tiнtрaлнa pрoviнtii" languages="Bulgarian">Централна провинция</name>
+		<name normalized="Tiнtрaль" languages="Russian">Централь</name>
+		<name normalized="Tiнtрaльнa pрoviнtii" languages="Ukrainian">Центральна провінція</name>
+		<name normalized="אسtאن mrکزی" languages="Persian">استان مرکزی</name>
+		<name normalized="mrکزی" languages="Persian">مرکزی</name>
+		<name normalized="mڈلא sوbہ" languages="Western Punjabi">مڈلا صوبہ</name>
+		<name normalized="sen্ট্rাl" languages="Bishnupria Manipuri">সেন্ট্রাল</name>
+		<name normalized="சென்ட்ரல்" languages="Tamil">சென்ட்ரல்</name>
+		<name normalized="กลาง" languages="Thai">กลาง</name>
+		<name normalized="sntrr" languages="Japanese">セントラル</name>
+		<name normalized="中" languages="Chinese;Gan">中</name>
+		<name normalized="中央州" languages="Japanese">中央州</name>
+		<name normalized="中央省" languages="Chinese">中央省</name>
+		<name normalized="센트럴" languages="Korean">센트럴</name>
+		<name normalized="센트럴 주" languages="Korean">센트럴 주</name>
+	</region>
+	<region name="Chimbu" type="province" typeTranslated="province">
+		<name normalized="Chimbu" languages="Czech;Dutch;English;Estonian;official;Turkish">Chimbu</name>
+		<name normalized="Chimbu Province" languages="Alemannisch;English;German;official">Chimbu Province</name>
+		<name normalized="Provincia di Chimbu" languages="Italian">Provincia di Chimbu</name>
+		<name normalized="Provincia Simbu" languages="Romanian">Provincia Simbu</name>
+		<name normalized="Provinsi Simbu" languages="Indonesian">Provinsi Simbu</name>
+		<name normalized="Simbu" languages="Esperanto;French;Galician;Malay;Polish;Portuguese;Spanish;Swedish;Tok Pisin;Vietnamese">Simbu</name>
+		<name normalized="Cimbu" languages="Serbo-Croatian">Čimbu</name>
+		<name normalized="Сiмbu" languages="Bulgarian;Russian">Симбу</name>
+		<name normalized="Сiмbu" languages="Ukrainian">Сімбу</name>
+		<name normalized="אسtאن چیmbو" languages="Persian">استان چیمبو</name>
+		<name normalized="شmbو sوbہ" languages="Western Punjabi">شمبو صوبہ</name>
+		<name normalized="snb州" languages="Japanese">シンブ州</name>
+		<name normalized="欽布省" languages="Chinese">欽布省</name>
+		<name normalized="심부 주" languages="Korean">심부 주</name>
+	</region>
+	<region name="East New Britain" type="province" typeTranslated="province">
+		<name normalized="Bag-o nga Britanya" languages="Waray">Bag-o nga Britanya</name>
+		<name normalized="Bagong Britanya" languages="Tagalog">Bagong Britanya</name>
+		<name normalized="Breizh-Nevez ar Reter" languages="Breton">Breizh-Nevez ar Reter</name>
+		<name normalized="Britainia Berria" languages="Basque">Britainia Berria</name>
+		<name normalized="Britania Baru Timur" languages="Indonesian">Britania Baru Timur</name>
+		<name normalized="Dogu Yeni Britanya" languages="Turkish">Doğu Yeni Britanya</name>
+		<name normalized="East New Britain" languages="Dutch;English;official;Swedish">East New Britain</name>
+		<name normalized="East New Britain Province" languages="Alemannisch;English;German;official">East New Britain Province</name>
+		<name normalized="East New Britain-provinsen" languages="Norwegian Nynorsk">East New Britain-provinsen</name>
+		<name normalized="Ida-Uus-Britannia" languages="Estonian">Ida-Uus-Britannia</name>
+		<name normalized="Insula Noua Britanie" languages="Romanian">Insula Noua Britanie</name>
+		<name normalized="Is Niu Briten" languages="Tok Pisin">Is Niu Briten</name>
+		<name normalized="Naujoji Britanija" languages="Lithuanian">Naujoji Britanija</name>
+		<name normalized="Neubritannien" languages="Alemannisch;German">Neubritannien</name>
+		<name normalized="New Britain" languages="Danish;English;Norwegian (bokmal);Norwegian Nynorsk;official;Simple English;Vietnamese">New Britain</name>
+		<name normalized="New Britain Province" languages="English;official">New Britain Province</name>
+		<name normalized="Nieu-Brittanje" languages="Afrikaans">Nieu-Brittanje</name>
+		<name normalized="Nieuw-Brittannie" languages="Dutch">Nieuw-Brittannië</name>
+		<name normalized="Niu Briten" languages="Swedish;Tok Pisin">Niu Briten</name>
+		<name normalized="Nouvelle-Bretagne" languages="French">Nouvelle-Bretagne</name>
+		<name normalized="Nouvelle-Bretagne orientale" languages="French">Nouvelle-Bretagne orientale</name>
+		<name normalized="Nova Bretanha" languages="Portuguese">Nova Bretanha</name>
+		<name normalized="Nova Bretanha Oriental" languages="Portuguese">Nova Bretanha Oriental</name>
+		<name normalized="Nova Bretanya" languages="Catalan">Nova Bretanya</name>
+		<name normalized="Nova Bretana" languages="Galician">Nova Bretaña</name>
+		<name normalized="Nova Bretana Oriental" languages="Galician">Nova Bretaña Oriental</name>
+		<name normalized="Nova Britanija" languages="Serbo-Croatian">Nova Britanija</name>
+		<name normalized="Nova Britannia" languages="Latin">Nova Britannia</name>
+		<name normalized="Nova Britio" languages="Esperanto">Nova Britio</name>
+		<name normalized="Nova Britanie" languages="Czech">Nová Británie</name>
+		<name normalized="Nowa Brytania" languages="Polish">Nowa Brytania</name>
+		<name normalized="Nowa Brytania Wschodnia" languages="Polish">Nowa Brytania Wschodnia</name>
+		<name normalized="Nueva Bretana" languages="Spanish">Nueva Bretaña</name>
+		<name normalized="Nueva Bretana oriental" languages="Spanish">Nueva Bretaña oriental</name>
+		<name normalized="Nuova Britannia" languages="Italian">Nuova Britannia</name>
+		<name normalized="Nyja-Bretland" languages="Icelandic">Nýja-Bretland</name>
+		<name normalized="Orienta Nov-Britujo" languages="Esperanto">Orienta Nov-Britujo</name>
+		<name normalized="Preden-Nevez" languages="Breton">Preden-Nevez</name>
+		<name normalized="Provincia della Nuova Britannia Est" languages="Italian">Provincia della Nuova Britannia Est</name>
+		<name normalized="Prydain Newydd" languages="Welsh">Prydain Newydd</name>
+		<name normalized="Uus-Britannia" languages="Estonian">Uus-Britannia</name>
+		<name normalized="Uusi-Britannia" languages="Finnish">Uusi-Britannia</name>
+		<name normalized="Yeni Britanya" languages="Turkish">Yeni Britanya</name>
+		<name normalized="Νeα Βρετανια" languages="Greek">Νέα Βρετανία</name>
+		<name normalized="Voсtocнai Нovai Bрitaнii" languages="Russian">Восточная Новая Британия</name>
+		<name normalized="Voсtрaў Нovai Bрыtaнii" languages="Belarusian">Востраў Новая Брытанія</name>
+		<name normalized="Iztocнa Нova Bрitaнii" languages="Bulgarian">Източна Нова Британия</name>
+		<name normalized="Нova Bрitaнii" languages="Bulgarian">Нова Британия</name>
+		<name normalized="Нova Bрitaнija" languages="Serbian">Нова Британија</name>
+		<name normalized="Нova Bрitaнii" languages="Ukrainian">Нова Британія</name>
+		<name normalized="Нovai Bрitaнii" languages="Russian">Новая Британия</name>
+		<name normalized="Сkidнa Нova Bрitaнii" languages="Ukrainian">Східна Нова Британія</name>
+		<name normalized="brיtnיh hhדשh" languages="Hebrew">בריטניה החדשה</name>
+		<name normalized="אسtאن brیtאنیאی نو شrqی" languages="Persian">استان بریتانیای نو شرقی</name>
+		<name normalized="brیtאنیאی نو" languages="Persian">بریتانیای نو</name>
+		<name normalized="jزyrة نyو brytyن" languages="Arabic">جزيرة نيو بريتين</name>
+		<name normalized="sوbہ چڑھدא نوאں brtאنیہ" languages="Western Punjabi">صوبہ چڑھدا نواں برطانیہ</name>
+		<name normalized="نوאں brtאنیہ" languages="Western Punjabi">نواں برطانیہ</name>
+		<name normalized="n्yu b्riटn" languages="Marathi">न्यू ब्रिटन</name>
+		<name normalized="ახალი ბრიტანეთი" languages="Georgian">ახალი ბრიტანეთი</name>
+		<name normalized="nyーbrtn島" languages="Japanese">ニューブリテン島</name>
+		<name normalized="新不列顛" languages="Chinese">新不列顛</name>
+		<name normalized="東nyーbrtn州" languages="Japanese">東ニューブリテン州</name>
+		<name normalized="東新不列顛省" languages="Chinese">東新不列顛省</name>
+		<name normalized="뉴브리튼 섬" languages="Korean">뉴브리튼 섬</name>
+		<name normalized="동뉴브리튼 주" languages="Korean">동뉴브리튼 주</name>
+	</region>
+	<region name="East Sepik" type="province" typeTranslated="province">
+		<name normalized="Afon Sepik" languages="Welsh">Afon Sepik</name>
+		<name normalized="East Sepik" languages="Breton;Dutch;English;Norwegian (bokmal);official;Portuguese;Swedish">East Sepik</name>
+		<name normalized="East Sepik Province" languages="Alemannisch;English;German;official">East Sepik Province</name>
+		<name normalized="Ida-Sepik" languages="Estonian">Ida-Sepik</name>
+		<name normalized="Is Sepik" languages="Tok Pisin">Is Sepik</name>
+		<name normalized="Orienta Sepik" languages="Esperanto">Orienta Sepik</name>
+		<name normalized="Provincia di Sepik Est" languages="Italian">Provincia di Sepik Est</name>
+		<name normalized="Provinsi Sepik Timur" languages="Indonesian">Provinsi Sepik Timur</name>
+		<name normalized="Rio Sepik" languages="Portuguese">Rio Sepik</name>
+		<name normalized="Rio Sepik" languages="Galician;Spanish">Río Sepik</name>
+		<name normalized="Sepik" languages="Alemannisch;Catalan;Croatian;Dutch;English;Finnish;French;German;Italian;Norwegian (bokmal);official;Polish;Serbo-Croatian;Tok Pisin">Sepik</name>
+		<name normalized="Sepik do Leste" languages="Galician">Sepik do Leste</name>
+		<name normalized="Sepik oriental" languages="French;Spanish">Sepik oriental</name>
+		<name normalized="Sepik Province" languages="English;official">Sepik Province</name>
+		<name normalized="Sepik Wschodni" languages="Polish">Sepik Wschodni</name>
+		<name normalized="Sepikas" languages="Lithuanian">Sepikas</name>
+		<name normalized="Voсtocный Сipik" languages="Russian">Восточный Сепик</name>
+		<name normalized="Iztociн Сipik" languages="Bulgarian">Източен Сепик</name>
+		<name normalized="Сipik" languages="Russian">Сепик</name>
+		<name normalized="Сipik" languages="Ukrainian">Сепік</name>
+		<name normalized="Сkidнiй Сipik" languages="Ukrainian">Східний Сепік</name>
+		<name normalized="אسtאن سpیک شrqی" languages="Persian">استان سپیک شرقی</name>
+		<name normalized="سybyk" languages="Arabic">سيبيك</name>
+		<name normalized="sوbہ چڑدא سیpک" languages="Western Punjabi">صوبہ چڑدا سیپک</name>
+		<name normalized="sptk川" languages="Japanese">セピック川</name>
+		<name normalized="东塞皮克省" languages="Chinese">东塞皮克省</name>
+		<name normalized="塞皮克河" languages="Chinese">塞皮克河</name>
+		<name normalized="東sptk州" languages="Japanese">東セピック州</name>
+		<name normalized="동세픽 주" languages="Korean">동세픽 주</name>
+		<name normalized="세픽 강" languages="Korean">세픽 강</name>
+	</region>
+	<region name="Eastern Highlands" type="province" typeTranslated="province">
+		<name normalized="Augstiene" languages="Latvian">Augstiene</name>
+		<name normalized="Aukstuma" languages="Lithuanian">Aukštuma</name>
+		<name normalized="Dogu Highlands" languages="Turkish">Doğu Highlands</name>
+		<name normalized="Eastern Highlands" languages="Dutch;English;Estonian;Galician;official;Polish;Portuguese;Swedish">Eastern Highlands</name>
+		<name normalized="Eastern Highlands Province" languages="Alemannisch;English;German;official">Eastern Highlands Province</name>
+		<name normalized="Hautes-Terres orientales" languages="French">Hautes-Terres orientales</name>
+		<name normalized="Hieland" languages="Scots">Hieland</name>
+		<name normalized="Highland" languages="English">Highland</name>
+		<name normalized="Highlands" languages="English;official">Highlands</name>
+		<name normalized="Highlands Province" languages="English;official">Highlands Province</name>
+		<name normalized="Hochland" languages="German">Hochland</name>
+		<name normalized="Hoogvlakte" languages="Dutch">Hoogvlakte</name>
+		<name normalized="Halendi" languages="Icelandic">Hálendi</name>
+		<name normalized="Hogland" languages="Swedish">Högland</name>
+		<name normalized="Hogland" languages="Norwegian Nynorsk">Høgland</name>
+		<name normalized="Hojland" languages="Danish">Højland</name>
+		<name normalized="Isten Hailans" languages="Tok Pisin">Isten Hailans</name>
+		<name normalized="Magismaa" languages="Estonian">Mägismaa</name>
+		<name normalized="Orientaj Altaj Teroj" languages="Esperanto">Orientaj Altaj Teroj</name>
+		<name normalized="Paltok" languages="Tagalog">Paltok</name>
+		<name normalized="Provincia degli Altopiani Orientali" languages="Italian">Provincia degli Altopiani Orientali</name>
+		<name normalized="Provinsi Dataran Tinggi Timur" languages="Indonesian">Provinsi Dataran Tinggi Timur</name>
+		<name normalized="Terras altas" languages="Portuguese">Terras altas</name>
+		<name normalized="Tierras Altas Orientales" languages="Spanish">Tierras Altas Orientales</name>
+		<name normalized="Vysocina" languages="Czech;Slovak">Vysočina</name>
+		<name normalized="Wyzyna" languages="Polish">Wyżyna</name>
+		<name normalized="Υψιπεδο" languages="Greek">Υψίπεδο</name>
+		<name normalized="Viсociнa" languages="Ukrainian">Височина</name>
+		<name normalized="Iztocнi viсociнi" languages="Bulgarian">Източни височини</name>
+		<name normalized="Iсtiрн-Kaйлiнdс" languages="Russian">Истерн-Хайлендс</name>
+		<name normalized="Нagoрьi" languages="Russian">Нагорье</name>
+		<name normalized="Pлaнiнсka ziмi" languages="Bulgarian">Планинска земя</name>
+		<name normalized="Сkidнiй Gaйлiнdс" languages="Ukrainian">Східний Гайлендс</name>
+		<name normalized="Uzvыssa" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Узвышша</name>
+		<name normalized="אسtאن אrtfאعאt شrqی" languages="Persian">استان ارتفاعات شرقی</name>
+		<name normalized="mrtfعאt" languages="Arabic">مرتفعات</name>
+		<name normalized="چڑھدے אtلے tھאں sوbہ" languages="Western Punjabi">چڑھدے اتلے تھاں صوبہ</name>
+		<name normalized="ഉന്നതമേഖല" languages="Malayalam">ഉന്നതമേഖല</name>
+		<name normalized="ზუკი" languages="Mingrelian">ზუკი</name>
+		<name normalized="მაღლობი" languages="Georgian">მაღლობი</name>
+		<name normalized="台地" languages="Chinese">台地</name>
+		<name normalized="東部山岳州" languages="Japanese">東部山岳州</name>
+		<name normalized="東高地省" languages="Chinese">東高地省</name>
+		<name normalized="高地" languages="Japanese">高地</name>
+		<name normalized="고지" languages="Korean">고지</name>
+		<name normalized="동하이랜드 주" languages="Korean">동하이랜드 주</name>
+	</region>
+	<region name="Enga" type="province" typeTranslated="province">
+		<name normalized="Enga" languages="Dutch;English;Esperanto;Estonian;Finnish;French;Galician;official;Polish;Serbo-Croatian;Spanish;Swedish;Tok Pisin">Enga</name>
+		<name normalized="Enga Province" languages="Alemannisch;English;German;official">Enga Province</name>
+		<name normalized="Provincia di Enga" languages="Italian">Provincia di Enga</name>
+		<name normalized="Provinsi Enga" languages="Indonesian">Provinsi Enga</name>
+		<name normalized="Iнga" languages="Bulgarian;Ukrainian">Енга</name>
+		<name normalized="Eнga" languages="Russian">Энга</name>
+		<name normalized="אسtאن אنgא" languages="Persian">استان انگا</name>
+		<name normalized="sوbہ אنgא" languages="Western Punjabi">صوبہ انگا</name>
+		<name normalized="eng州" languages="Japanese">エンガ州</name>
+		<name normalized="恩加省" languages="Chinese">恩加省</name>
+		<name normalized="엥가 주" languages="Korean">엥가 주</name>
+	</region>
+	<region name="Gulf" type="province" typeTranslated="province">
+		<name normalized="Golfe" languages="French">Golfe</name>
+		<name normalized="Gulf" languages="Alemannisch;Dutch;English;French;Galician;German;Italian;official;Polish;Portuguese;Swedish">Gulf</name>
+		<name normalized="Gulf Province" languages="English;German;official">Gulf Province</name>
+		<name normalized="Gulf Provins" languages="Tok Pisin">Gulf Provins</name>
+		<name normalized="Provincia del Golfo" languages="Italian;Spanish">Provincia del Golfo</name>
+		<name normalized="Provinco Golfo" languages="Esperanto">Provinco Golfo</name>
+		<name normalized="Κολπος" languages="Greek">Κόλπος</name>
+		<name normalized="Gaлф" languages="Russian;Serbian;Ukrainian">Галф</name>
+		<name normalized="Guлф" languages="Bulgarian">Гулф</name>
+		<name normalized="אسtאن خلیj" languages="Persian">استان خلیج</name>
+		<name normalized="خلیj" languages="Persian">خلیج</name>
+		<name normalized="sوbہ gلf" languages="Western Punjabi">صوبہ گلف</name>
+		<name normalized="grh" languages="Japanese">ガルフ</name>
+		<name normalized="海灣省" languages="Chinese">海灣省</name>
+		<name normalized="湾岸州" languages="Japanese">湾岸州</name>
+		<name normalized="걸프" languages="Korean">걸프</name>
+		<name normalized="걸프 주" languages="Korean">걸프 주</name>
+	</region>
+	<region name="Hela" type="province" typeTranslated="province">
+		<name normalized="Hela" languages="Danish;Dutch;English;Esperanto;Finnish;French;German;Italian;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">Hela</name>
+		<name normalized="Hela Province" languages="Alemannisch;English;German;official">Hela Province</name>
+		<name normalized="Giлa" languages="Ukrainian">Гела</name>
+		<name normalized="אسtאن hلא" languages="Persian">استان هلا</name>
+	</region>
+	<region name="Jiwaka" type="province" typeTranslated="province">
+		<name normalized="Jiwaka" languages="English;official;Spanish">Jiwaka</name>
+		<name normalized="Jiwaka Province" languages="Alemannisch;English;German;official">Jiwaka Province</name>
+		<name normalized="Dzivaka" languages="Ukrainian">Дживака</name>
+		<name normalized="אسtאن jیوאکא" languages="Persian">استان جیواکا</name>
+	</region>
+	<region name="Madang" type="province" typeTranslated="province">
+		<name normalized="Madang" languages="Alemannisch;Breton;Dutch;English;Finnish;French;Galician;German;Indonesian;Italian;official;Polish;Portuguese;Swedish;Tok Pisin;Turkish">Madang</name>
+		<name normalized="Madang ili" languages="Turkish">Madang ili</name>
+		<name normalized="Madang Province" languages="English;German;official">Madang Province</name>
+		<name normalized="Madangas" languages="Lithuanian">Madangas</name>
+		<name normalized="Madangi provints" languages="Estonian">Madangi provints</name>
+		<name normalized="Provincia de Madang" languages="Galician;Spanish">Provincia de Madang</name>
+		<name normalized="Provincia di Madang" languages="Italian">Provincia di Madang</name>
+		<name normalized="Provinco Madang" languages="Esperanto">Provinco Madang</name>
+		<name normalized="Provinsi Madang" languages="Indonesian">Provinsi Madang</name>
+		<name normalized="Мadaнg" languages="Bulgarian;Russian;Ukrainian">Маданг</name>
+		<name normalized="אسtאن mאدאنg" languages="Persian">استان مادانگ</name>
+		<name normalized="شhr mאدאنg" languages="Persian">شهر مادانگ</name>
+		<name normalized="sوbہ mאدאنg" languages="Western Punjabi">صوبہ مادانگ</name>
+		<name normalized="mdn" languages="Japanese">マダン</name>
+		<name normalized="mdn州" languages="Japanese">マダン州</name>
+		<name normalized="馬當省" languages="Chinese">馬當省</name>
+		<name normalized="马当" languages="Chinese">马当</name>
+		<name normalized="마당 주" languages="Korean">마당 주</name>
+	</region>
+	<region name="Manus" type="province" typeTranslated="province">
+		<name normalized="Manus" languages="Alemannisch;Dutch;English;Finnish;French;German;official;Polish;Portuguese;Swedish;Tok Pisin;Turkish">Manus</name>
+		<name normalized="Manus Province" languages="English;German;official">Manus Province</name>
+		<name normalized="Provincia de Manus" languages="Galician;Spanish">Provincia de Manus</name>
+		<name normalized="Provincia di Manus" languages="Italian">Provincia di Manus</name>
+		<name normalized="Мaнuс" languages="Bulgarian;Russian">Манус</name>
+		<name normalized="אسtאن mאنوس" languages="Persian">استان مانوس</name>
+		<name normalized="sوbہ mאنوس" languages="Western Punjabi">صوبہ مانوس</name>
+		<name normalized="mns州" languages="Japanese">マヌス州</name>
+		<name normalized="馬努斯省" languages="Chinese">馬努斯省</name>
+		<name normalized="마누스 주" languages="Korean">마누스 주</name>
+	</region>
+	<region name="Milne Bay" type="province" typeTranslated="province">
+		<name normalized="Baie de Milne" languages="French">Baie de Milne</name>
+		<name normalized="Baie Milne" languages="French">Baie Milne</name>
+		<name normalized="Milen Be" languages="Tok Pisin">Milen Be</name>
+		<name normalized="Milne Bay" languages="Alemannisch;Dutch;English;Galician;official;Polish;Swedish">Milne Bay</name>
+		<name normalized="Milne Bay Province" languages="English;German;official">Milne Bay Province</name>
+		<name normalized="Milne-Bucht" languages="German">Milne-Bucht</name>
+		<name normalized="Milnenlahti" languages="Finnish">Milnenlahti</name>
+		<name normalized="Milneviken" languages="Swedish">Milneviken</name>
+		<name normalized="Provincia de Milne Bay" languages="Spanish">Provincia de Milne Bay</name>
+		<name normalized="Provincia di Baia Milne" languages="Italian">Provincia di Baia Milne</name>
+		<name normalized="Provinco Golfeto Milne" languages="Esperanto">Provinco Golfeto Milne</name>
+		<name normalized="Мiлн Biй" languages="Bulgarian">Милн Бей</name>
+		<name normalized="Мiлн-Biй" languages="Russian">Милн-Бей</name>
+		<name normalized="Мiлн-Biй" languages="Ukrainian">Мілн-Бей</name>
+		<name normalized="אسtאن خلیj mیلنh" languages="Persian">استان خلیج میلنه</name>
+		<name normalized="sوbہ mلنے bے" languages="Western Punjabi">صوبہ ملنے بے</name>
+		<name normalized="mil्ne be" languages="Marathi">मिल्ने बे</name>
+		<name normalized="mrn湾" languages="Japanese">ミルン湾</name>
+		<name normalized="mrn湾州" languages="Japanese">ミルン湾州</name>
+		<name normalized="米爾恩灣省" languages="Chinese">米爾恩灣省</name>
+		<name normalized="밀느베이 주" languages="Korean">밀느베이 주</name>
+	</region>
+	<region name="Morobe" type="province" typeTranslated="province">
+		<name normalized="Morobe" languages="Breton;Dutch;English;Esperanto;French;Galician;German;official;Polish;Portuguese;Spanish;Swedish;Tok Pisin">Morobe</name>
+		<name normalized="Morobe Province" languages="Alemannisch;English;German;official">Morobe Province</name>
+		<name normalized="Morobe provints" languages="Estonian">Morobe provints</name>
+		<name normalized="Provincia di Morobe" languages="Italian">Provincia di Morobe</name>
+		<name normalized="Мoрobi" languages="Bulgarian;Russian;Ukrainian">Моробе</name>
+		<name normalized="אسtאن mوrوbh" languages="Persian">استان موروبه</name>
+		<name normalized="sوbہ mوrوb" languages="Western Punjabi">صوبہ موروب</name>
+		<name normalized="mrb州" languages="Japanese">モロベ州</name>
+		<name normalized="莫雷贝省" languages="Chinese">莫雷贝省</name>
+		<name normalized="모로베 주" languages="Korean">모로베 주</name>
+	</region>
+	<region name="National Capital" type="district" typeTranslated="district">
+		<name normalized="Baskent" languages="Turkish">Başkent</name>
+		<name normalized="Belt kapitali" languages="Maltese">Belt kapitali</name>
+		<name normalized="Caipital ceety" languages="Scots">Caipital ceety</name>
+		<name normalized="Capital" languages="Aragonese;Asturian;Catalan;Fiji Hindi;Galician;Interlingua;lumbaart;Mirandese;Portuguese;Spanish">Capital</name>
+		<name normalized="Capital city" languages="English;Simple English">Capital city</name>
+		<name normalized="Capitala" languages="Occitan">Capitala</name>
+		<name normalized="Capitale" languages="French;Italian;Neapolitan;Nouormand;Sardinian;tarandine">Capitale</name>
+		<name normalized="Capitala" languages="Romanian">Capitală</name>
+		<name normalized="Capital" languages="Friulian">Capitâl</name>
+		<name normalized="Caput" languages="Latin">Caput</name>
+		<name normalized="Cavedal" languages="veneto">Cavedal</name>
+		<name normalized="Chapitala" languages="Romansh">Chapitala</name>
+		<name normalized="Chef-urbe" languages="Novial">Chef-urbe</name>
+		<name normalized="Cifazif" languages="Volapuk">Cifazif</name>
+		<name normalized="Fovaros" languages="Hungarian">Főváros</name>
+		<name normalized="Galvaspilseta" languages="Latvian">Galvaspilsēta</name>
+		<name normalized="Glavni grad" languages="Bosnian;Croatian;Serbo-Croatian">Glavni grad</name>
+		<name normalized="Glavno mesto" languages="Slovenian">Glavno mesto</name>
+		<name normalized="Haadsted" languages="Western Frisian">Haadstêd</name>
+		<name normalized="Haaptschtadt" languages="Deitsch">Haaptschtadt</name>
+		<name normalized="Haaptstad" languages="Luxembourgish">Haaptstad</name>
+		<name normalized="Haptstod" languages="Bavarian">Haptstod</name>
+		<name normalized="Hauptstadt" languages="Alemannisch;German">Hauptstadt</name>
+		<name normalized="Heufdstad" languages="Low Saxon (Netherlands)">Heufdstad</name>
+		<name normalized="Hiriburu" languages="Basque">Hiriburu</name>
+		<name normalized="Hlavne mesto" languages="Slovak">Hlavné mesto</name>
+		<name normalized="Hlavni mesto" languages="Czech">Hlavní město</name>
+		<name normalized="Hoofdstad" languages="Dutch">Hoofdstad</name>
+		<name normalized="Hoofstad" languages="Afrikaans">Hoofstad</name>
+		<name normalized="Houfsjtad" languages="Limburgish">Houfsjtad</name>
+		<name normalized="Hovedstad" languages="Danish;Norwegian (bokmal)">Hovedstad</name>
+		<name normalized="Hovudstad" languages="Norwegian Nynorsk">Hovudstad</name>
+		<name normalized="Huvudstad" languages="Swedish">Huvudstad</name>
+		<name normalized="Hofudborg" languages="Icelandic">Höfuðborg</name>
+		<name normalized="Hooftstadt" languages="Low German">Hööftstadt</name>
+		<name normalized="Hovudsstadur" languages="Faroese">Høvuðsstaður</name>
+		<name normalized="Heafodstol" languages="Old English">Hēafodstōl</name>
+		<name normalized="Ibu kota" languages="Indonesian;Sundanese">Ibu kota</name>
+		<name normalized="Ibu kutha" languages="Javanese">Ibu kutha</name>
+		<name normalized="Ibu negara" languages="Malay">Ibu negara</name>
+		<name normalized="Ibukota" languages="Minangkabau">Ibukota</name>
+		<name normalized="Illoqarfiit pingaarnersaat" languages="Kalaallisut">Illoqarfiit pingaarnersaat</name>
+		<name normalized="Indung banua" languages="Banjar">Indung banua</name>
+		<name normalized="IsiQongo" languages="Zulu">IsiQongo</name>
+		<name normalized="Kabisera" languages="Tagalog">Kabisera</name>
+		<name normalized="Kapikala" languages="Hawaiian">Kapikala</name>
+		<name normalized="Kapital" languages="Cebuano;Haitian;Papiamento">Kapital</name>
+		<name normalized="Kapitel citii" languages="Norfuk / Pitkern">Kapitel citii</name>
+		<name normalized="Kapitol" languages="Bislama;Tok Pisin">Kapitol</name>
+		<name normalized="Kapitolio" languages="Iloko">Kapitolio</name>
+		<name normalized="Kapitolyo" languages="Bikol Central">Kapitolyo</name>
+		<name normalized="Kryeqyteti" languages="Albanian">Kryeqyteti</name>
+		<name normalized="Ker-benn" languages="Breton">Kêr-benn</name>
+		<name normalized="Mamafoto" languages="Sranan Tongo">Mamafoto</name>
+		<name normalized="Mbanza ya kimfumu" languages="Kongo">Mbanza ya kimfumu</name>
+		<name normalized="Mboka-mokonzi" languages="Lingala">Mbóka-mokonzi</name>
+		<name normalized="Mji mkuu" languages="Swahili">Mji mkuu</name>
+		<name normalized="National Capital" languages="English;official">National Capital</name>
+		<name normalized="National Capital District" languages="English;official">National Capital District</name>
+		<name normalized="Oaivegavpot" languages="Northern Sami">Oaivegávpot</name>
+		<name normalized="Oluilu" languages="Yoruba">Olúìlú</name>
+		<name normalized="Oodstad" languages="Zeeuws">Oôdstad</name>
+		<name normalized="Paytaht" languages="Crimean Turkish">Paytaht</name>
+		<name normalized="Paytaxt" languages="Azerbaijani">Paytaxt</name>
+		<name normalized="Paytext" languages="Kurdish;Zazaki">Paytext</name>
+		<name normalized="Paytagt" languages="Turkmen">Paýtagt</name>
+		<name normalized="Pealinn" languages="Estonian">Pealinn</name>
+		<name normalized="Port Moresby" languages="Achinese;Afrikaans;Alemannisch;Basque;Bislama;Bosnian;Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;Galician;German;Hungarian;Icelandic;Ido;Indonesian;Irish;Italian;Javanese;lumbaart;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;Piedmontese;Polish;Portuguese;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Slovak;Slovenian;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh;Western Frisian;Yoruba">Port Moresby</name>
+		<name normalized="Port Morsbi" languages="Azerbaijani">Port Morsbi</name>
+		<name normalized="Port Morsbis" languages="Lithuanian">Port Morsbis</name>
+		<name normalized="Port-Moresbo" languages="Esperanto">Port-Moresbo</name>
+		<name normalized="Portmorsbi" languages="Latvian">Portmorsbi</name>
+		<name normalized="Portus Moresbiensis" languages="Latin">Portus Moresbiensis</name>
+		<name normalized="Pot Mosbi" languages="Tok Pisin">Pot Mosbi</name>
+		<name normalized="Poytaxt" languages="Uzbek">Poytaxt</name>
+		<name normalized="Preeu-valley" languages="Manx">Preeu-valley</name>
+		<name normalized="Prifddinas" languages="Welsh">Prifddinas</name>
+		<name normalized="Priomh-bhaile" languages="Scottish Gaelic">Prìomh-bhaile</name>
+		<name normalized="Priomhchathair" languages="Irish">Príomhchathair</name>
+		<name normalized="Puerto Moresby" languages="Spanish">Puerto Moresby</name>
+		<name normalized="Palidn" languages="Veps">Pälidn</name>
+		<name normalized="Paakaupunki" languages="Finnish">Pääkaupunki</name>
+		<name normalized="Paaliin" languages="Voro">Pääliin</name>
+		<name normalized="Po Moresbi" languages="Haitian">Pò Moresbi</name>
+		<name normalized="Renivohitra" languages="Malagasy">Renivohitra</name>
+		<name normalized="Sherutno foro" languages="Romani">Sherutno foro</name>
+		<name normalized="Sivdad kapitala" languages="Ladino">Sivdad kapitala</name>
+		<name normalized="Siu-to͘" languages="Chinese (Min Nan)">Siú-to͘</name>
+		<name normalized="Sostine" languages="Lithuanian">Sostinė</name>
+		<name normalized="Soujduh" languages="Zhuang">Soujduh</name>
+		<name normalized="Stolica" languages="Lower Sorbian;Polish;Silesian;Upper Sorbian">Stolica</name>
+		<name normalized="Stoleca" languages="Kashubian">Stolëca</name>
+		<name normalized="Suostene" languages="Samogitian">Suostėnė</name>
+		<name normalized="Su-tu" languages="Hakka">Sú-tû</name>
+		<name normalized="Thu do" languages="Vietnamese">Thủ đô</name>
+		<name normalized="Taone matua" languages="Maori">Tāone matua</name>
+		<name normalized="Tecuacan" languages="Nahuatl">Tēcuacān</name>
+		<name normalized="Ulohan" languages="Waray">Ulohan</name>
+		<name normalized="Uma llaqta" languages="Quechua">Uma llaqta</name>
+		<name normalized="Umurwa" languages="Kinyarwanda">Umurwa</name>
+		<name normalized="Cefurbo" languages="Esperanto">Ĉefurbo</name>
+		<name normalized="Πορτ Μορεσμπι" languages="Greek">Πορτ Μόρεσμπι</name>
+		<name normalized="Πρωτεuουσα" languages="Greek;Pontic">Πρωτεύουσα</name>
+		<name normalized="Aрa sakaр" languages="Karachay-Balkar">Ара шахар</name>
+		<name normalized="Bas ҡaлa" languages="Bashkir">Баш ҡала</name>
+		<name normalized="Baskaлa" languages="Tatar">Башкала</name>
+		<name normalized="Boрboр saaр" languages="Kyrgyz">Борбор шаар</name>
+		<name normalized="Gлaviн gрad" languages="Macedonian">Главен град</name>
+		<name normalized="Gлavнi gрad" languages="Serbian">Главни град</name>
+		<name normalized="Goлovнi мiсto" languages="Rusyn">Головне місто</name>
+		<name normalized="Goрad Poрt-Мoрсbi" languages="Belarusian">Горад Порт-Морсбі</name>
+		<name normalized="Iлoрda" languages="Kazakh">Елорда</name>
+		<name normalized="Kaнkaр" languages="Komi-Permyak">Канкар</name>
+		<name normalized="Kiiн kuoрat" languages="Sakha">Киин куорат</name>
+		<name normalized="Kъaлe нekъыsъkьe" languages="Kabardian">Къалэ нэхъышъхьэ</name>
+		<name normalized="Нiйслeл kot" languages="Mongolian">Нийслэл хот</name>
+		<name normalized="Poрt Мoрсbi" languages="Bulgarian;Macedonian;Sakha;Serbian">Порт Морсби</name>
+		<name normalized="Poрt Мoрсьbi" languages="biлaрuсkai (taрaskivita)‎">Порт Морсьбі</name>
+		<name normalized="Poрt-Мoрсbi" languages="Hill Mari;Russian">Порт-Морсби</name>
+		<name normalized="Poрt-Мoрсbi" languages="Ukrainian">Порт-Морсбі</name>
+		<name normalized="Рudoлa" languages="Eastern Mari">Рӱдола</name>
+		<name normalized="Сaeйрag сakaр" languages="Ossetic">Сæйраг сахар</name>
+		<name normalized="Сtaлita" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Сталіца</name>
+		<name normalized="Сtoлita" languages="Bulgarian;Russian">Столица</name>
+		<name normalized="Сtoлiti" languages="Ukrainian">Столиця</name>
+		<name normalized="Сtoльнъ gрadъ" languages="Church Slavic">Стольнъ градъ</name>
+		<name normalized="Tep kuлa" languages="Chuvash">Тĕп хула</name>
+		<name normalized="Taksagьaр" languages="Avaric">Тахшагьар</name>
+		<name normalized="Kotл baлһсн" languages="Kalmyk">Хотл балһсн</name>
+		<name normalized="Soрkaр" languages="Udmurt">Шоркар</name>
+		<name normalized="Юрkaр" languages="Komi">Юркар</name>
+		<name normalized="Mայrաkաղաk" languages="Armenian">Մայրաքաղաք</name>
+		<name normalized="Pvrt Mvrsbի" languages="Armenian">Պորտ Մորսբի</name>
+		<name normalized="hvיptשtאt" languages="Yiddish">הויפטשטאט</name>
+		<name normalized="עיr bיrh" languages="Hebrew">עיר בירה</name>
+		<name normalized="pvrt מvrסbי" languages="Hebrew">פורט מורסבי</name>
+		<name normalized="bوrt mوrسby" languages="Arabic">بورت مورسبي</name>
+		<name normalized="دאrאلhکوmt" languages="Urdu">دارالحکومت</name>
+		<name normalized="rאjgڑھ" languages="Western Punjabi">راجگڑھ</name>
+		<name normalized="sوbہ pوrٹ mوrسbאئی" languages="Western Punjabi">صوبہ پورٹ مورسبائی</name>
+		<name normalized="عאsmة" languages="Arabic">عاصمة</name>
+		<name normalized="عאsmh" languages="Egyptian Spoken Arabic">عاصمه</name>
+		<name normalized="mوrېسbى pوrtى" languages="Uyghur">مورېسبى پورتى</name>
+		<name normalized="نیشtنgאء" languages="Mazanderani">نیشتنگاء</name>
+		<name normalized="pאیtخt" languages="Persian">پایتخت</name>
+		<name normalized="pאیtەخt" languages="Sorani Kurdish">پایتەخت</name>
+		<name normalized="pلאزmېنh" languages="Pashto">پلازمېنه</name>
+		<name normalized="pوrt mوrسbی" languages="Persian">پورت مورسبی</name>
+		<name normalized="pوrٹ mوrسbی" languages="Urdu">پورٹ مورسبی</name>
+		<name normalized="pۆrt mۆrسbی" languages="Sorani Kurdish">پۆرت مۆرسبی</name>
+		<name normalized="ܐܪܫܟܝܬܐ" languages="Aramaic">ܐܪܫܟܝܬܐ</name>
+		<name normalized="tlankrm्" languages="Newari">तलैनकरम्</name>
+		<name normalized="por्ट mores्bi" languages="Marathi">पोर्ट मॉरेस्बी</name>
+		<name normalized="por्ट mores्bi" languages="Hindi">पोर्ट मोरेस्बी</name>
+		<name normalized="rाjdाni" languages="Hindi;Nepali">राजधानी</name>
+		<name normalized="rাjdাni" languages="Bengali">রাজধানী</name>
+		<name normalized="pੋrਟ mੋrasbi" languages="Punjabi">ਪੋਰਟ ਮੋਰੈਸਬੀ</name>
+		<name normalized="rਾjdਾni" languages="Punjabi">ਰਾਜਧਾਨੀ</name>
+		<name normalized="rાjdાni" languages="Gujarati">રાજધાની</name>
+		<name normalized="தலைநகரம்" languages="Tamil">தலைநகரம்</name>
+		<name normalized="రాజధాని" languages="Telugu">రాజధాని</name>
+		<name normalized="ರಾಜಧಾನಿ" languages="Kannada">ರಾಜಧಾನಿ</name>
+		<name normalized="തലസ്ഥാനം" languages="Malayalam">തലസ്ഥാനം</name>
+		<name normalized="අගනුවර" languages="Sinhala">අගනුවර</name>
+		<name normalized="พอร์ตมอร์สบี" languages="Thai">พอร์ตมอร์สบี</name>
+		<name normalized="เมืองหลวง" languages="Thai">เมืองหลวง</name>
+		<name normalized="ນະຄອນຫຼວງ" languages="Lao">ນະຄອນຫຼວງ</name>
+		<name normalized="པོ་རོ་ཊི་མོ་རེ་སི་བི།" languages="Tibetan">པོ་རོ་ཊི་མོ་རེ་སི་བི།</name>
+		<name normalized="မြို့တော်" languages="Burmese">မြို့တော်</name>
+		<name normalized="დედაქალაქი" languages="Georgian">დედაქალაქი</name>
+		<name normalized="ნანანოღა" languages="Mingrelian">ნანანოღა</name>
+		<name normalized="პორტ-მორზბი" languages="Georgian">პორტ-მორზბი</name>
+		<name normalized="ዋና ከተማ" languages="Amharic">ዋና ከተማ</name>
+		<name normalized="ፖርት ሞርስቢ" languages="Amharic">ፖርት ሞርስቢ</name>
+		<name normalized="pーtmrsbー" languages="Japanese">ポートモレスビー</name>
+		<name normalized="京" languages="Classical Chinese">京</name>
+		<name normalized="莫尔兹比港" languages="Chinese">莫尔兹比港</name>
+		<name normalized="首都" languages="Cantonese;Chinese;Japanese;Wu">首都</name>
+		<name normalized="수도" languages="Korean">수도</name>
+		<name normalized="포트모르즈비" languages="Korean">포트모르즈비</name>
+		<name normalized="𐌷𐌰𐌿𐌱𐌹𐌳𐌰𐌱𐌰𐌿𐍂𐌲𐍃/Haubidabaurgs" languages="Gothic">𐌷𐌰𐌿𐌱𐌹𐌳𐌰𐌱𐌰𐌿𐍂𐌲𐍃/Haubidabaurgs</name>
+	</region>
+	<region name="New Ireland" type="province" typeTranslated="province">
+		<name normalized="New Ireland" languages="Alemannisch;English;official;Slovak;Swedish">New Ireland</name>
+		<name normalized="New Ireland Province" languages="English;German;official">New Ireland Province</name>
+		<name normalized="Niu Ailan" languages="Tok Pisin">Niu Ailan</name>
+		<name normalized="Nouvelle-Irlande" languages="French">Nouvelle-Irlande</name>
+		<name normalized="Nova Irlanda" languages="Portuguese">Nova Irlanda</name>
+		<name normalized="Nova Irlando" languages="Esperanto">Nova Irlando</name>
+		<name normalized="Nowa Irlandia" languages="Polish">Nowa Irlandia</name>
+		<name normalized="Provincia de Nova Irlanda" languages="Galician">Provincia de Nova Irlanda</name>
+		<name normalized="Provincia de Nueva Irlanda" languages="Spanish">Provincia de Nueva Irlanda</name>
+		<name normalized="Provincia della Nuova Irlanda" languages="Italian">Provincia della Nuova Irlanda</name>
+		<name normalized="Provinco Nova Irlando" languages="Esperanto">Provinco Nova Irlando</name>
+		<name normalized="Provinsi Irlandia Baru" languages="Indonesian">Provinsi Irlandia Baru</name>
+		<name normalized="Provins Iwerzhon Nevez" languages="Breton">Proviñs Iwerzhon Nevez</name>
+		<name normalized="Uus-Iirimaa provints" languages="Estonian">Uus-Iirimaa provints</name>
+		<name normalized="Нova Iрлaнdii" languages="Bulgarian">Нова Ирландия</name>
+		<name normalized="Нova Iрлaнdii" languages="Ukrainian">Нова Ірландія</name>
+		<name normalized="Нovai Iрлaнdii" languages="Russian">Новая Ирландия</name>
+		<name normalized="אسtאن אیrلند نو" languages="Persian">استان ایرلند نو</name>
+		<name normalized="sوbہ نوאں آئrلینڈ" languages="Western Punjabi">صوبہ نواں آئرلینڈ</name>
+		<name normalized="nyーairrnd州" languages="Japanese">ニューアイルランド州</name>
+		<name normalized="新愛爾蘭省" languages="Chinese">新愛爾蘭省</name>
+		<name normalized="뉴아일랜드 주" languages="Korean">뉴아일랜드 주</name>
+	</region>
+	<region name="Northern" type="province" typeTranslated="province">
+		<name normalized="Northern" languages="Breton;Dutch;English;French;German;official;Polish;Portuguese;Swedish">Northern</name>
+		<name normalized="Northern Province" languages="English;official">Northern Province</name>
+		<name normalized="Oro" languages="Alemannisch;Finnish;Galician;Norwegian (bokmal);Polish;Portuguese;Swedish;Tok Pisin">Oro</name>
+		<name normalized="Oro Province" languages="English;German">Oro Province</name>
+		<name normalized="Province nord" languages="French">Province nord</name>
+		<name normalized="Provincia de Oro" languages="Spanish">Provincia de Oro</name>
+		<name normalized="Provincia di Oro" languages="Italian">Provincia di Oro</name>
+		<name normalized="Provincia Oro" languages="Latin">Provincia Oro</name>
+		<name normalized="Provinco Oro" languages="Esperanto">Provinco Oro</name>
+		<name normalized="Provinsi Oro" languages="Indonesian">Provinsi Oro</name>
+		<name normalized="Pohjaprovints" languages="Estonian">Põhjaprovints</name>
+		<name normalized="Oрo" languages="Bulgarian;Russian;Ukrainian">Оро</name>
+		<name normalized="אسtאن אوrو" languages="Persian">استان اورو</name>
+		<name normalized="sوbہ אوrو" languages="Western Punjabi">صوبہ اورو</name>
+		<name normalized="or州" languages="Japanese">オロ州</name>
+		<name normalized="北部省" languages="Chinese">北部省</name>
+		<name normalized="오로 주" languages="Korean">오로 주</name>
+	</region>
+	<region name="Southern Highlands" type="province" typeTranslated="province">
+		<name normalized="Augstiene" languages="Latvian">Augstiene</name>
+		<name normalized="Aukstuma" languages="Lithuanian">Aukštuma</name>
+		<name normalized="Hautes-Terres meridionales" languages="French">Hautes-Terres méridionales</name>
+		<name normalized="Hieland" languages="Scots">Hieland</name>
+		<name normalized="Highland" languages="English">Highland</name>
+		<name normalized="Highlands" languages="English;official">Highlands</name>
+		<name normalized="Highlands Province" languages="English;official">Highlands Province</name>
+		<name normalized="Hochland" languages="German">Hochland</name>
+		<name normalized="Hoogvlakte" languages="Dutch">Hoogvlakte</name>
+		<name normalized="Halendi" languages="Icelandic">Hálendi</name>
+		<name normalized="Hogland" languages="Swedish">Högland</name>
+		<name normalized="Hogland" languages="Norwegian Nynorsk">Høgland</name>
+		<name normalized="Hojland" languages="Danish">Højland</name>
+		<name normalized="Magismaa" languages="Estonian">Mägismaa</name>
+		<name normalized="Paltok" languages="Tagalog">Paltok</name>
+		<name normalized="Provincia degli Altopiani del Sud" languages="Italian">Provincia degli Altopiani del Sud</name>
+		<name normalized="Provinsi Pegunungan Selatan" languages="Indonesian">Provinsi Pegunungan Selatan</name>
+		<name normalized="Sauten Hailans" languages="Tok Pisin">Sauten Hailans</name>
+		<name normalized="Southern Highlands" languages="Dutch;English;Estonian;Galician;official;Polish;Portuguese;Swedish">Southern Highlands</name>
+		<name normalized="Southern Highlands Province" languages="Alemannisch;English;German;official">Southern Highlands Province</name>
+		<name normalized="Sudaj Altaj Teroj" languages="Esperanto">Sudaj Altaj Teroj</name>
+		<name normalized="Terras altas" languages="Portuguese">Terras altas</name>
+		<name normalized="Tierras Altas del Sur" languages="Spanish">Tierras Altas del Sur</name>
+		<name normalized="Vysocina" languages="Czech;Slovak">Vysočina</name>
+		<name normalized="Wyzyna" languages="Polish">Wyżyna</name>
+		<name normalized="Υψιπεδο" languages="Greek">Υψίπεδο</name>
+		<name normalized="Viсociнa" languages="Ukrainian">Височина</name>
+		<name normalized="Нagoрьi" languages="Russian">Нагорье</name>
+		<name normalized="Pлaнiнсka ziмi" languages="Bulgarian">Планинска земя</name>
+		<name normalized="Pivdiннiй Gaйлiнdс" languages="Ukrainian">Південний Гайлендс</name>
+		<name normalized="Сautiрн-Kaйлiнdс" languages="Russian">Саутерн-Хайлендс</name>
+		<name normalized="Uzvыssa" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Узвышша</name>
+		<name normalized="Юzнi viсociнi" languages="Bulgarian">Южни височини</name>
+		<name normalized="אسtאن אrtfאعאt jنوbی" languages="Persian">استان ارتفاعات جنوبی</name>
+		<name normalized="sوbہ tھلویں אtلے tھאں" languages="Western Punjabi">صوبہ تھلویں اتلے تھاں</name>
+		<name normalized="mrtfعאt" languages="Arabic">مرتفعات</name>
+		<name normalized="ഉന്നതമേഖല" languages="Malayalam">ഉന്നതമേഖല</name>
+		<name normalized="ზუკი" languages="Mingrelian">ზუკი</name>
+		<name normalized="მაღლობი" languages="Georgian">მაღლობი</name>
+		<name normalized="南部山岳州" languages="Japanese">南部山岳州</name>
+		<name normalized="南高地省" languages="Chinese">南高地省</name>
+		<name normalized="台地" languages="Chinese">台地</name>
+		<name normalized="高地" languages="Japanese">高地</name>
+		<name normalized="고지" languages="Korean">고지</name>
+		<name normalized="남하이랜드 주" languages="Korean">남하이랜드 주</name>
+	</region>
+	<region name="West New Britain" type="province" typeTranslated="province">
+		<name normalized="Bag-o nga Britanya" languages="Waray">Bag-o nga Britanya</name>
+		<name normalized="Bagong Britanya" languages="Tagalog">Bagong Britanya</name>
+		<name normalized="Breizh-Nevez ar C'hornog" languages="Breton">Breizh-Nevez ar C'hornôg</name>
+		<name normalized="Britainia Berria" languages="Basque">Britainia Berria</name>
+		<name normalized="Insula Noua Britanie" languages="Romanian">Insula Noua Britanie</name>
+		<name normalized="Laane-Uus-Britannia" languages="Estonian">Lääne-Uus-Britannia</name>
+		<name normalized="Naujoji Britanija" languages="Lithuanian">Naujoji Britanija</name>
+		<name normalized="Neubritannien" languages="Alemannisch;German">Neubritannien</name>
+		<name normalized="New Britain" languages="Danish;English;Norwegian (bokmal);Norwegian Nynorsk;official;Simple English;Vietnamese">New Britain</name>
+		<name normalized="New Britain Province" languages="English;official">New Britain Province</name>
+		<name normalized="Nieu-Brittanje" languages="Afrikaans">Nieu-Brittanje</name>
+		<name normalized="Nieuw-Brittannie" languages="Dutch">Nieuw-Brittannië</name>
+		<name normalized="Niu Briten" languages="Swedish;Tok Pisin">Niu Briten</name>
+		<name normalized="Nouvelle-Bretagne" languages="French">Nouvelle-Bretagne</name>
+		<name normalized="Nouvelle-Bretagne occidentale" languages="French">Nouvelle-Bretagne occidentale</name>
+		<name normalized="Nova Bretanha" languages="Portuguese">Nova Bretanha</name>
+		<name normalized="Nova Bretanha Ocidental" languages="Portuguese">Nova Bretanha Ocidental</name>
+		<name normalized="Nova Bretanya" languages="Catalan">Nova Bretanya</name>
+		<name normalized="Nova Bretana" languages="Galician">Nova Bretaña</name>
+		<name normalized="Nova Bretana Occidental" languages="Galician">Nova Bretaña Occidental</name>
+		<name normalized="Nova Britanija" languages="Serbo-Croatian">Nova Britanija</name>
+		<name normalized="Nova Britannia" languages="Latin">Nova Britannia</name>
+		<name normalized="Nova Britio" languages="Esperanto">Nova Britio</name>
+		<name normalized="Nova Britanie" languages="Czech">Nová Británie</name>
+		<name normalized="Nowa Brytania" languages="Polish">Nowa Brytania</name>
+		<name normalized="Nowa Brytania Zachodnia" languages="Polish">Nowa Brytania Zachodnia</name>
+		<name normalized="Nueva Bretana" languages="Spanish">Nueva Bretaña</name>
+		<name normalized="Nueva Bretana occidental" languages="Spanish">Nueva Bretaña occidental</name>
+		<name normalized="Nuova Britannia" languages="Italian">Nuova Britannia</name>
+		<name normalized="Nyja-Bretland" languages="Icelandic">Nýja-Bretland</name>
+		<name normalized="Okcidenta Nov-Britujo" languages="Esperanto">Okcidenta Nov-Britujo</name>
+		<name normalized="Preden-Nevez" languages="Breton">Preden-Nevez</name>
+		<name normalized="Provincia della Nuova Britannia Ovest" languages="Italian">Provincia della Nuova Britannia Ovest</name>
+		<name normalized="Prydain Newydd" languages="Welsh">Prydain Newydd</name>
+		<name normalized="Uus-Britannia" languages="Estonian">Uus-Britannia</name>
+		<name normalized="Uusi-Britannia" languages="Finnish">Uusi-Britannia</name>
+		<name normalized="Wes Niu Briten" languages="Tok Pisin">Wes Niu Briten</name>
+		<name normalized="West New Britain" languages="Dutch;English;official;Swedish">West New Britain</name>
+		<name normalized="West New Britain Province" languages="Alemannisch;English;German;official">West New Britain Province</name>
+		<name normalized="Yeni Britanya" languages="Turkish">Yeni Britanya</name>
+		<name normalized="Νeα Βρετανια" languages="Greek">Νέα Βρετανία</name>
+		<name normalized="Voсtрaў Нovai Bрыtaнii" languages="Belarusian">Востраў Новая Брытанія</name>
+		<name normalized="Zapadнa Нova Bрitaнii" languages="Bulgarian">Западна Нова Британия</name>
+		<name normalized="Zapadнai Нovai Bрitaнii" languages="Russian">Западная Новая Британия</name>
+		<name normalized="Zakidнa Нova Bрitaнii" languages="Ukrainian">Західна Нова Британія</name>
+		<name normalized="Нova Bрitaнii" languages="Bulgarian">Нова Британия</name>
+		<name normalized="Нova Bрitaнija" languages="Serbian">Нова Британија</name>
+		<name normalized="Нova Bрitaнii" languages="Ukrainian">Нова Британія</name>
+		<name normalized="Нovai Bрitaнii" languages="Russian">Новая Британия</name>
+		<name normalized="brיtnיh hhדשh" languages="Hebrew">בריטניה החדשה</name>
+		<name normalized="אسtאن brیtאنیאی نو غrbی" languages="Persian">استان بریتانیای نو غربی</name>
+		<name normalized="brیtאنیאی نو" languages="Persian">بریتانیای نو</name>
+		<name normalized="jزyrة نyو brytyن" languages="Arabic">جزيرة نيو بريتين</name>
+		<name normalized="sوbہ لیندא نوאں brtאنیہ" languages="Western Punjabi">صوبہ لیندا نواں برطانیہ</name>
+		<name normalized="نوאں brtאنیہ" languages="Western Punjabi">نواں برطانیہ</name>
+		<name normalized="n्yu b्riटn" languages="Marathi">न्यू ब्रिटन</name>
+		<name normalized="ახალი ბრიტანეთი" languages="Georgian">ახალი ბრიტანეთი</name>
+		<name normalized="nyーbrtn島" languages="Japanese">ニューブリテン島</name>
+		<name normalized="新不列顛" languages="Chinese">新不列顛</name>
+		<name normalized="西nyーbrtn州" languages="Japanese">西ニューブリテン州</name>
+		<name normalized="西新不列顛省" languages="Chinese">西新不列顛省</name>
+		<name normalized="뉴브리튼 섬" languages="Korean">뉴브리튼 섬</name>
+		<name normalized="서뉴브리튼 주" languages="Korean">서뉴브리튼 주</name>
+	</region>
+	<region name="West Sepik" type="province" typeTranslated="province">
+		<name normalized="Afon Sepik" languages="Welsh">Afon Sepik</name>
+		<name normalized="Provincia di Sandaun" languages="Italian">Provincia di Sandaun</name>
+		<name normalized="Provinsi Sandaun" languages="Indonesian">Provinsi Sandaun</name>
+		<name normalized="Rio Sepik" languages="Portuguese">Rio Sepik</name>
+		<name normalized="Rio Sepik" languages="Galician;Spanish">Río Sepik</name>
+		<name normalized="Sandaun" languages="Alemannisch;Breton;Croatian;Dutch;Esperanto;Estonian;French;Galician;Polish;Portuguese;Spanish;Swedish;Tok Pisin">Sandaun</name>
+		<name normalized="Sandaun Province" languages="English;German">Sandaun Province</name>
+		<name normalized="Sepik" languages="Alemannisch;Catalan;Croatian;Dutch;English;Finnish;French;German;Italian;Norwegian (bokmal);official;Polish;Serbo-Croatian;Tok Pisin">Sepik</name>
+		<name normalized="Sepik Province" languages="English;official">Sepik Province</name>
+		<name normalized="Sepikas" languages="Lithuanian">Sepikas</name>
+		<name normalized="West Sepik" languages="English;official">West Sepik</name>
+		<name normalized="West Sepik Province" languages="English;official">West Sepik Province</name>
+		<name normalized="Zapadiн Сipik" languages="Bulgarian">Западен Сепик</name>
+		<name normalized="Сaнdauн" languages="Russian;Ukrainian">Сандаун</name>
+		<name normalized="Сipik" languages="Russian">Сепик</name>
+		<name normalized="Сipik" languages="Ukrainian">Сепік</name>
+		<name normalized="אسtאن سpیک غrbی" languages="Persian">استان سپیک غربی</name>
+		<name normalized="سybyk" languages="Arabic">سيبيك</name>
+		<name normalized="sوbہ لیندא سیpک" languages="Western Punjabi">صوبہ لیندا سیپک</name>
+		<name normalized="sndun州" languages="Japanese">サンダウン州</name>
+		<name normalized="sptk川" languages="Japanese">セピック川</name>
+		<name normalized="塞皮克河" languages="Chinese">塞皮克河</name>
+		<name normalized="桑道恩省" languages="Chinese">桑道恩省</name>
+		<name normalized="산다운 주" languages="Korean">산다운 주</name>
+		<name normalized="세픽 강" languages="Korean">세픽 강</name>
+	</region>
+	<region name="Western" type="province" typeTranslated="province">
+		<name normalized="Laaneprovints" languages="Estonian">Lääneprovints</name>
+		<name normalized="Occidental" languages="Galician">Occidental</name>
+		<name normalized="Okcidenta Provinco" languages="Esperanto">Okcidenta Provinco</name>
+		<name normalized="Phuong Tay" languages="Vietnamese">Phương Tây</name>
+		<name normalized="Province ouest" languages="French">Province ouest</name>
+		<name normalized="Provincia Occidental" languages="Spanish">Provincia Occidental</name>
+		<name normalized="Provincia Occidentale" languages="Italian">Provincia Occidentale</name>
+		<name normalized="Provinsi Barat" languages="Indonesian">Provinsi Barat</name>
+		<name normalized="Provincia Ocidental" languages="Portuguese">Província Ocidental</name>
+		<name normalized="Prowincja Zachodnia" languages="Polish">Prowincja Zachodnia</name>
+		<name normalized="Westen Provins" languages="Tok Pisin">Westen Provins</name>
+		<name normalized="Western" languages="Danish;Dutch;English;French;Galician;German;Italian;official;Polish;Portuguese;Simple English;Spanish;Swedish">Western</name>
+		<name normalized="Western Province" languages="Alemannisch;English;German;official;Swedish">Western Province</name>
+		<name normalized="Zapadнa pрoviнtii" languages="Bulgarian">Западна провинция</name>
+		<name normalized="Zakidнa pрoviнtii" languages="Ukrainian">Західна провінція</name>
+		<name normalized="Ueсtiрн" languages="Russian">Уэстерн</name>
+		<name normalized="אسtאن غrbی" languages="Persian">استان غربی</name>
+		<name normalized="لیندא sوbہ, pאpوאنیوgنی" languages="Western Punjabi">لیندا صوبہ، پاپوانیوگنی</name>
+		<name normalized="وسtrن" languages="Persian">وسترن</name>
+		<name normalized="uestn" languages="Japanese">ウエスタン</name>
+		<name normalized="西部州" languages="Japanese">西部州</name>
+		<name normalized="西部省" languages="Chinese">西部省</name>
+		<name normalized="웨스턴 주" languages="Korean">웨스턴 주</name>
+	</region>
+	<region name="Western Highlands" type="province" typeTranslated="province">
+		<name normalized="Augstiene" languages="Latvian">Augstiene</name>
+		<name normalized="Aukstuma" languages="Lithuanian">Aukštuma</name>
+		<name normalized="Hautes-Terres occidentales" languages="French">Hautes-Terres occidentales</name>
+		<name normalized="Hieland" languages="Scots">Hieland</name>
+		<name normalized="Highland" languages="English">Highland</name>
+		<name normalized="Highlands" languages="English;official">Highlands</name>
+		<name normalized="Highlands Province" languages="English;official">Highlands Province</name>
+		<name normalized="Hochland" languages="German">Hochland</name>
+		<name normalized="Hoogvlakte" languages="Dutch">Hoogvlakte</name>
+		<name normalized="Halendi" languages="Icelandic">Hálendi</name>
+		<name normalized="Hogland" languages="Swedish">Högland</name>
+		<name normalized="Hogland" languages="Norwegian Nynorsk">Høgland</name>
+		<name normalized="Hojland" languages="Danish">Højland</name>
+		<name normalized="Magismaa" languages="Estonian">Mägismaa</name>
+		<name normalized="Okcidentaj Altaj Teroj" languages="Esperanto">Okcidentaj Altaj Teroj</name>
+		<name normalized="Paltok" languages="Tagalog">Paltok</name>
+		<name normalized="Provincia degli Altopiani Occidentali" languages="Italian">Provincia degli Altopiani Occidentali</name>
+		<name normalized="Provinsi Dataran Tinggi Barat" languages="Indonesian">Provinsi Dataran Tinggi Barat</name>
+		<name normalized="Terras altas" languages="Portuguese">Terras altas</name>
+		<name normalized="Tierras Altas Occidentales" languages="Spanish">Tierras Altas Occidentales</name>
+		<name normalized="Vysocina" languages="Czech;Slovak">Vysočina</name>
+		<name normalized="Westen Hailans" languages="Tok Pisin">Westen Hailans</name>
+		<name normalized="Western Highlands" languages="Dutch;English;Estonian;Galician;official;Polish;Portuguese;Swedish">Western Highlands</name>
+		<name normalized="Western Highlands Province" languages="Alemannisch;English;German;official">Western Highlands Province</name>
+		<name normalized="Wyzyna" languages="Polish">Wyżyna</name>
+		<name normalized="Υψιπεδο" languages="Greek">Υψίπεδο</name>
+		<name normalized="Viсociнa" languages="Ukrainian">Височина</name>
+		<name normalized="Zapadнi viсociнi" languages="Bulgarian">Западни височини</name>
+		<name normalized="Zakidнiй Gaйлiнdс" languages="Ukrainian">Західний Гайлендс</name>
+		<name normalized="Нagoрьi" languages="Russian">Нагорье</name>
+		<name normalized="Pлaнiнсka ziмi" languages="Bulgarian">Планинска земя</name>
+		<name normalized="Uzvыssa" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Узвышша</name>
+		<name normalized="Ueсtiрн-Kaйлiнdс" languages="Russian">Уэстерн-Хайлендс</name>
+		<name normalized="אسtאن אrtfאعאt غrbی" languages="Persian">استان ارتفاعات غربی</name>
+		<name normalized="sوbہ لیندے אtلے tھאں" languages="Western Punjabi">صوبہ لیندے اتلے تھاں</name>
+		<name normalized="mrtfعאt" languages="Arabic">مرتفعات</name>
+		<name normalized="ഉന്നതമേഖല" languages="Malayalam">ഉന്നതമേഖല</name>
+		<name normalized="ზუკი" languages="Mingrelian">ზუკი</name>
+		<name normalized="მაღლობი" languages="Georgian">მაღლობი</name>
+		<name normalized="台地" languages="Chinese">台地</name>
+		<name normalized="西部山岳州" languages="Japanese">西部山岳州</name>
+		<name normalized="西高地省" languages="Chinese">西高地省</name>
+		<name normalized="高地" languages="Japanese">高地</name>
+		<name normalized="고지" languages="Korean">고지</name>
+		<name normalized="서하이랜드 주" languages="Korean">서하이랜드 주</name>
+	</region>
+</regions>

@@ -1,0 +1,155 @@
+<regions country="Niger">
+	<region name="Agadez" type="region" typeTranslated="region">
+		<name normalized="Agadesas" languages="Lithuanian">Agadesas</name>
+		<name normalized="Agadez" languages="Catalan;Croatian;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Hausa;Hungarian;Indonesian;Italian;Luxembourgish;Malay;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Slovenian;Spanish;Swedish;Turkish;Vietnamese;veneto">Agadez</name>
+		<name normalized="Agadez Region" languages="English;official;Scots">Agadez Region</name>
+		<name normalized="Agadez" languages="Portuguese">Agadèz</name>
+		<name normalized="Regione di Agadez" languages="Italian">Regione di Agadez</name>
+		<name normalized="Regiunea Agadez" languages="Romanian">Regiunea Agadez</name>
+		<name normalized="Region de Agadez" languages="Spanish">Región de Agadez</name>
+		<name normalized="Αγκαντeζ" languages="Greek">Αγκαντέζ</name>
+		<name normalized="Agadiz" languages="Serbian">Агадез</name>
+		<name normalized="Agadiс" languages="Russian;Ukrainian">Агадес</name>
+		<name normalized="אגדז" languages="Hebrew">אגדז</name>
+		<name normalized="أغאدyس" languages="Arabic">أغاديس</name>
+		<name normalized="mنtqة أغאدyس" languages="Arabic">منطقة أغاديس</name>
+		<name normalized="აგადესი" languages="Georgian">აგადესი</name>
+		<name normalized="agds" languages="Japanese">アガデス</name>
+		<name normalized="agds州" languages="Japanese">アガデス州</name>
+		<name normalized="阿加德兹大区" languages="Chinese">阿加德兹大区</name>
+		<name normalized="阿加德茲" languages="Chinese">阿加德茲</name>
+		<name normalized="아가데즈" languages="Korean">아가데즈</name>
+		<name normalized="아가데즈 주" languages="Korean">아가데즈 주</name>
+	</region>
+	<region name="Diffa" type="region" typeTranslated="region">
+		<name normalized="Difa" languages="Lithuanian">Difa</name>
+		<name normalized="Diffa" languages="Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Indonesian;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Swedish;Turkish">Diffa</name>
+		<name normalized="Diffa Region" languages="English;official">Diffa Region</name>
+		<name normalized="Regione di Diffa" languages="Italian">Regione di Diffa</name>
+		<name normalized="Regiunea Diffa" languages="Romanian">Regiunea Diffa</name>
+		<name normalized="Region de Diffa" languages="Spanish">Región de Diffa</name>
+		<name normalized="Diфa" languages="Serbian">Дифа</name>
+		<name normalized="Diффa" languages="Russian">Диффа</name>
+		<name normalized="دyfא" languages="Arabic">ديفا</name>
+		<name normalized="mنtqة دyfא" languages="Arabic">منطقة ديفا</name>
+		<name normalized="diha" languages="Japanese">ディファ</name>
+		<name normalized="diha州" languages="Japanese">ディファ州</name>
+		<name normalized="迪法大区" languages="Chinese">迪法大区</name>
+		<name normalized="디파" languages="Korean">디파</name>
+		<name normalized="디파 주" languages="Korean">디파 주</name>
+	</region>
+	<region name="Dosso" type="region" typeTranslated="region">
+		<name normalized="Dosas" languages="Lithuanian">Dosas</name>
+		<name normalized="Dosso" languages="Catalan;Croatian;Danish;Dutch;English;Finnish;French;German;Indonesian;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Swedish;Turkish">Dosso</name>
+		<name normalized="Dosso Region" languages="English;official">Dosso Region</name>
+		<name normalized="Regione di Dosso" languages="Italian">Regione di Dosso</name>
+		<name normalized="Regiunea Dosso" languages="Romanian">Regiunea Dosso</name>
+		<name normalized="Region de Dosso" languages="Spanish">Región de Dosso</name>
+		<name normalized="Doсo" languages="Bulgarian;Russian">Досо</name>
+		<name normalized="mنtqة دوسو" languages="Arabic">منطقة دوسو</name>
+		<name normalized="dts" languages="Japanese">ドッソ</name>
+		<name normalized="dts州" languages="Japanese">ドッソ州</name>
+		<name normalized="多索大区" languages="Chinese">多索大区</name>
+		<name normalized="도소" languages="Korean">도소</name>
+		<name normalized="도소 주" languages="Korean">도소 주</name>
+	</region>
+	<region name="Maradi" type="region" typeTranslated="region">
+		<name normalized="Maradi" languages="Catalan;Croatian;Danish;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Swedish;Turkish;Waray">Maradi</name>
+		<name normalized="Maradi Region" languages="English;official">Maradi Region</name>
+		<name normalized="Maradis" languages="Lithuanian">Maradis</name>
+		<name normalized="Regione di Maradi" languages="Italian">Regione di Maradi</name>
+		<name normalized="Regiunea Maradi" languages="Romanian">Regiunea Maradi</name>
+		<name normalized="Region de Maradi" languages="Spanish">Región de Maradi</name>
+		<name normalized="Мaрadi" languages="Mongolian;Russian;Serbian">Маради</name>
+		<name normalized="mنtqة mrאدy" languages="Arabic">منطقة مرادي</name>
+		<name normalized="mrdi" languages="Japanese">マラディ</name>
+		<name normalized="mrdi州" languages="Japanese">マラディ州</name>
+		<name normalized="马拉迪大区" languages="Chinese">马拉迪大区</name>
+		<name normalized="마라디" languages="Korean">마라디</name>
+		<name normalized="마라디 주" languages="Korean">마라디 주</name>
+	</region>
+	<region name="Niamey" type="capital district" typeTranslated="capital district">
+		<name normalized="Niamei" languages="Basque">Niamei</name>
+		<name normalized="Niameja" languages="Latvian">Niameja</name>
+		<name normalized="Niameo" languages="Esperanto">Niameo</name>
+		<name normalized="Niamey" languages="Afrikaans;Azerbaijani;Bosnian;Breton;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;Galician;German;Hungarian;Ido;Indonesian;Interlingue;Italian;Kinyarwanda;Latin;Ligure;lumbaart;Luxembourgish;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Piedmontese;Polish;Portuguese;Quechua;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Somali;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;veneto;Waray;Welsh;Western Frisian;Yoruba">Niamey</name>
+		<name normalized="Niame" languages="Haitian">Niamè</name>
+		<name normalized="Niamejus" languages="Lithuanian">Niamėjus</name>
+		<name normalized="Niamey" languages="Icelandic">Níamey</name>
+		<name normalized="Νιαμeυ" languages="Greek">Νιαμέυ</name>
+		<name normalized="Goрad Нiiмiй" languages="Belarusian">Горад Ніямей</name>
+		<name normalized="Нiaмiй" languages="Bulgarian;Chechen;Hill Mari;Kazakh;Kyrgyz;Ossetic;Russian;Tajik;Udmurt">Ниамей</name>
+		<name normalized="Нijaмij" languages="Macedonian;Serbian">Нијамеј</name>
+		<name normalized="Нiaмiй" languages="Ukrainian">Ніамей</name>
+		<name normalized="Нiaмei" languages="biлaрuсkai (taрaskivita)‎">Ніамэі</name>
+		<name normalized="Նիաmեյ" languages="Armenian">Նիամեյ</name>
+		<name normalized="nיאמיי" languages="Hebrew;Yiddish">ניאמיי</name>
+		<name normalized="نyאmy" languages="Arabic">نيامي</name>
+		<name normalized="نیאmی" languages="Persian;Urdu;Western Punjabi">نیامی</name>
+		<name normalized="نیאmەی" languages="Sorani Kurdish">نیامەی</name>
+		<name normalized="ܢܝܐܡܝ" languages="Aramaic">ܢܝܐܡܝ</name>
+		<name normalized="niyाme" languages="Marathi">नियामे</name>
+		<name normalized="niy়াme" languages="Bengali">নিয়ামে</name>
+		<name normalized="niami" languages="Punjabi">ਨਿਆਮੀ</name>
+		<name normalized="நியாமி" languages="Tamil">நியாமி</name>
+		<name normalized="นีอาเม" languages="Thai">นีอาเม</name>
+		<name normalized="ནི་ཡ་མེ།" languages="Tibetan">ནི་ཡ་མེ།</name>
+		<name normalized="ნიამეი" languages="Georgian">ნიამეი</name>
+		<name normalized="ኒያሜ" languages="Amharic">ኒያሜ</name>
+		<name normalized="nam" languages="Japanese">ニアメ</name>
+		<name normalized="尼亞美" languages="Chinese">尼亞美</name>
+		<name normalized="니아메" languages="Korean">니아메</name>
+	</region>
+	<region name="Tahoua" type="region" typeTranslated="region">
+		<name normalized="Regione di Tahoua" languages="Italian">Regione di Tahoua</name>
+		<name normalized="Regiunea Tahoua" languages="Romanian">Regiunea Tahoua</name>
+		<name normalized="Region de Tahoua" languages="Spanish">Región de Tahoua</name>
+		<name normalized="Tahoua" languages="Catalan;Croatian;Danish;Dutch;English;Finnish;French;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Spanish;Swedish;Turkish">Tahoua</name>
+		<name normalized="Tahoua Region" languages="English;official">Tahoua Region</name>
+		<name normalized="Tahua" languages="Lithuanian">Tahua</name>
+		<name normalized="Takua" languages="Russian">Тахуа</name>
+		<name normalized="mنtqة tאhوא" languages="Arabic">منطقة تاهوا</name>
+		<name normalized="tua" languages="Japanese">タウア</name>
+		<name normalized="tua州" languages="Japanese">タウア州</name>
+		<name normalized="塔瓦" languages="Chinese">塔瓦</name>
+		<name normalized="塔瓦大区" languages="Chinese">塔瓦大区</name>
+		<name normalized="타우아" languages="Korean">타우아</name>
+		<name normalized="타우아 주" languages="Korean">타우아 주</name>
+	</region>
+	<region name="Tillaberi" type="region" typeTranslated="region">
+		<name normalized="Regione di Tillaberi" languages="Italian">Regione di Tillabéri</name>
+		<name normalized="Regiunea Tillaberi" languages="Romanian">Regiunea Tillabéri</name>
+		<name normalized="Region de Tillaberi" languages="Spanish">Región de Tillabéri</name>
+		<name normalized="Tillaberi" languages="English;official;Swedish">Tillaberi</name>
+		<name normalized="Tillaberi Region" languages="English;official">Tillaberi Region</name>
+		<name normalized="Tillaberi" languages="Catalan;Croatian;Danish;Dutch;English;Finnish;French;German;Indonesian;Italian;Malay;Norwegian (bokmal);Polish;Portuguese;Romanian;Spanish;Turkish">Tillabéri</name>
+		<name normalized="Tillaberi Region" languages="English">Tillabéri Region</name>
+		<name normalized="Tiллabiрi" languages="Russian">Тиллабери</name>
+		<name normalized="mنtqة tyلאbyry" languages="Arabic">منطقة تيلابيري</name>
+		<name normalized="tirbr" languages="Japanese">ティラベリ</name>
+		<name normalized="tirbr州" languages="Japanese">ティラベリ州</name>
+		<name normalized="蒂拉貝里" languages="Chinese">蒂拉貝里</name>
+		<name normalized="蒂拉贝里大区" languages="Chinese">蒂拉贝里大区</name>
+		<name normalized="틸라베리" languages="Korean">틸라베리</name>
+		<name normalized="틸라베리 주" languages="Korean">틸라베리 주</name>
+	</region>
+	<region name="Zinder" type="region" typeTranslated="region">
+		<name normalized="Regione di Zinder" languages="Italian">Regione di Zinder</name>
+		<name normalized="Regiunea Zinder" languages="Romanian">Regiunea Zinder</name>
+		<name normalized="Region de Zinder" languages="Spanish">Región de Zinder</name>
+		<name normalized="Zinder" languages="Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Italian;Latin;Malay;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Swedish;Turkish;Waray">Zinder</name>
+		<name normalized="Zinder Region" languages="English;official">Zinder Region</name>
+		<name normalized="Zinderis" languages="Lithuanian">Zinderis</name>
+		<name normalized="Goрad Ziнdeр" languages="Belarusian">Горад Зіндэр</name>
+		<name normalized="Ziнdiр" languages="Russian;Serbian">Зиндер</name>
+		<name normalized="زyندr" languages="Arabic">زيندر</name>
+		<name normalized="mنtqة زyندr" languages="Arabic">منطقة زيندر</name>
+		<name normalized="ซินเดอร์" languages="Thai">ซินเดอร์</name>
+		<name normalized="zndーr" languages="Japanese">ザンデール</name>
+		<name normalized="zndーr州" languages="Japanese">ザンデール州</name>
+		<name normalized="津德尔" languages="Chinese">津德尔</name>
+		<name normalized="津德尔大区" languages="Chinese">津德尔大区</name>
+		<name normalized="잔데르" languages="Korean">잔데르</name>
+		<name normalized="잔데르 주" languages="Korean">잔데르 주</name>
+	</region>
+</regions>

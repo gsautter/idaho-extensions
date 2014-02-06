@@ -1,0 +1,329 @@
+<regions country="Chad">
+	<region name="Barh el Gazel" type="region" typeTranslated="region">
+		<name normalized="Barh el Gazel" languages="English;official">Barh el Gazel</name>
+		<name normalized="Barh el Gazel Region" languages="English;official">Barh el Gazel Region</name>
+	</region>
+	<region name="Batha" type="region" typeTranslated="region">
+		<name normalized="Batha" languages="Basque;Czech;Danish;Dutch;English;Estonian;Finnish;French;Italian;Norwegian (bokmal);official;Polish;Portuguese;Sicilian">Batha</name>
+		<name normalized="Batha Bolgesi" languages="Turkish">Batha Bölgesi</name>
+		<name normalized="Batha Region" languages="English;official">Batha Region</name>
+		<name normalized="Region Batha" languages="German;Indonesian;Polish">Region Batha</name>
+		<name normalized="Regione di Batha" languages="Italian">Regione di Batha</name>
+		<name normalized="Regiunea Batha" languages="Romanian">Regiunea Batha</name>
+		<name normalized="Region de Batha" languages="Spanish">Región de Batha</name>
+		<name normalized="Bata" languages="Bulgarian">Бата</name>
+		<name normalized="Batka" languages="Russian;Ukrainian">Батха</name>
+		<name normalized="bt州" languages="Japanese">バタ州</name>
+		<name normalized="巴塔区" languages="Chinese">巴塔区</name>
+		<name normalized="바타 주" languages="Korean">바타 주</name>
+	</region>
+	<region name="Borkou" type="region" typeTranslated="region">
+		<name normalized="Borkou" languages="Czech;Danish;English;French;Indonesian;official">Borkou</name>
+		<name normalized="Borkou Bolgesi" languages="Turkish">Borkou Bölgesi</name>
+		<name normalized="Borkou Region" languages="English;official">Borkou Region</name>
+		<name normalized="Borku" languages="Catalan;Swedish">Borku</name>
+		<name normalized="Region Borkou" languages="German">Region Borkou</name>
+		<name normalized="Region Borku" languages="Polish">Region Borku</name>
+		<name normalized="Regione di Borkou" languages="Italian">Regione di Borkou</name>
+		<name normalized="Regiunea Borkou" languages="Romanian">Regiunea Borkou</name>
+		<name normalized="Region de Borkou" languages="Spanish">Región de Borkou</name>
+		<name normalized="Boрku" languages="Russian">Борку</name>
+		<name normalized="brk州" languages="Japanese">ボルク州</name>
+		<name normalized="博爾庫區" languages="Chinese">博爾庫區</name>
+		<name normalized="보르쿠 주" languages="Korean">보르쿠 주</name>
+	</region>
+	<region name="Chari-Baguirmi" type="region" typeTranslated="region">
+		<name normalized="Chari-Baguirmi" languages="Basque;Czech;Danish;Dutch;English;Estonian;Finnish;French;Norwegian (bokmal);official">Chari-Baguirmi</name>
+		<name normalized="Chari-Baguirmi Bolgesi" languages="Turkish">Chari-Baguirmi Bölgesi</name>
+		<name normalized="Chari-Baguirmi Region" languages="English;official">Chari-Baguirmi Region</name>
+		<name normalized="Region Chari-Baguirmi" languages="German">Region Chari-Baguirmi</name>
+		<name normalized="Region Szari-Bagirmi" languages="Polish">Region Szari-Bagirmi</name>
+		<name normalized="Regione di Chari-Baguirmi" languages="Italian">Regione di Chari-Baguirmi</name>
+		<name normalized="Regiunea Chari-Baguirmi" languages="Romanian">Regiunea Chari-Baguirmi</name>
+		<name normalized="Regiao de Chari-Baguirmi" languages="Portuguese">Região de Chari-Baguirmi</name>
+		<name normalized="Regio de Chari-Baguirmi" languages="Catalan">Regió de Chari-Baguirmi</name>
+		<name normalized="Region de Chari-Baguirmi" languages="Spanish">Región de Chari-Baguirmi</name>
+		<name normalized="Saрi-Bagiрмi" languages="Bulgarian;Russian">Шари-Багирми</name>
+		<name normalized="syr=bgrm州" languages="Japanese">シャリ＝バギルミ州</name>
+		<name normalized="沙里-巴吉尔米区" languages="Chinese">沙里-巴吉尔米区</name>
+		<name normalized="샤리바기르미 주" languages="Korean">샤리바기르미 주</name>
+	</region>
+	<region name="Ennedi-Est" type="region" typeTranslated="region">
+		<name normalized="Ennedi-Est" languages="English;official">Ennedi-Est</name>
+		<name normalized="Region Ennedi-Est" languages="English;official">Region Ennedi-Est</name>
+	</region>
+	<region name="Ennedi-Quest" type="region" typeTranslated="region">
+		<name normalized="Ennedi-Quest" languages="English;official">Ennedi-Quest</name>
+		<name normalized="Ennedi-Quest Region" languages="English;official">Ennedi-Quest Region</name>
+	</region>
+	<region name="Guera" type="region" typeTranslated="region">
+		<name normalized="Guera" languages="English;official">Guera</name>
+		<name normalized="Guera Region" languages="English;official">Guera Region</name>
+		<name normalized="Guera" languages="Czech;Danish;Dutch;English;Estonian;Finnish;French;Norwegian (bokmal);Polish">Guéra</name>
+		<name normalized="Guera Bolgesi" languages="Turkish">Guéra Bölgesi</name>
+		<name normalized="Guera Region" languages="English">Guéra Region</name>
+		<name normalized="Negeri Guera" languages="Malay">Negeri Guéra</name>
+		<name normalized="Rannvro Guera" languages="Breton">Rannvro Guera</name>
+		<name normalized="Region Guera" languages="German">Region Guéra</name>
+		<name normalized="Regione di Guera" languages="Italian">Regione di Guéra</name>
+		<name normalized="Regiunea Guera" languages="Romanian">Regiunea Guéra</name>
+		<name normalized="Region de Guera" languages="Spanish">Región de Guéra</name>
+		<name normalized="Giрa" languages="Bulgarian;Russian">Гера</name>
+		<name normalized="gr州" languages="Japanese">ゲラ州</name>
+		<name normalized="蓋拉區" languages="Chinese">蓋拉區</name>
+		<name normalized="게라 주" languages="Korean">게라 주</name>
+	</region>
+	<region name="Hadjer-Lamis" type="region" typeTranslated="region">
+		<name normalized="Hadjer-Lamis" languages="Danish;Dutch;English;Estonian;Finnish;French;Galician;Norwegian (bokmal);official">Hadjer-Lamis</name>
+		<name normalized="Hadjer-Lamis Bolgesi" languages="Turkish">Hadjer-Lamis Bölgesi</name>
+		<name normalized="Hadjer-Lamis Region" languages="English;official">Hadjer-Lamis Region</name>
+		<name normalized="Region Hadjer-Lamis" languages="German;Indonesian;Polish">Region Hadjer-Lamis</name>
+		<name normalized="Regione di Hadjer-Lamis" languages="Italian">Regione di Hadjer-Lamis</name>
+		<name normalized="Regiunea Hadjer-Lamis" languages="Romanian">Regiunea Hadjer-Lamis</name>
+		<name normalized="Kadziр-Лaмiс" languages="Bulgarian;Russian">Хаджер-Ламис</name>
+		<name normalized="hzer=rm州" languages="Japanese">ハジェル＝ラミ州</name>
+		<name normalized="哈傑爾-拉密區" languages="Chinese">哈傑爾-拉密區</name>
+		<name normalized="하제르라미 주" languages="Korean">하제르라미 주</name>
+	</region>
+	<region name="Kanem" type="region" typeTranslated="region">
+		<name normalized="Kanem" languages="Catalan;Danish;Dutch;English;Estonian;Finnish;French;German;Indonesian;Italian;Norwegian (bokmal);official;Portuguese;Simple English">Kanem</name>
+		<name normalized="Kanem Bolgesi" languages="Turkish">Kanem Bölgesi</name>
+		<name normalized="Kanem Region" languages="English;official">Kanem Region</name>
+		<name normalized="Region Kanem" languages="German;Indonesian;Polish">Region Kanem</name>
+		<name normalized="Regione di Kanem" languages="Italian">Regione di Kanem</name>
+		<name normalized="Regiunea Kanem" languages="Romanian">Regiunea Kanem</name>
+		<name normalized="Regio de Kanem" languages="Catalan">Regió de Kanem</name>
+		<name normalized="Region de Kanem" languages="Spanish">Región de Kanem</name>
+		<name normalized="Kaнiм" languages="Bulgarian;Russian">Канем</name>
+		<name normalized="knm州" languages="Japanese">カネム州</name>
+		<name normalized="加奈姆區" languages="Chinese">加奈姆區</name>
+		<name normalized="카넴 주" languages="Korean">카넴 주</name>
+	</region>
+	<region name="Lac" type="region" typeTranslated="region">
+		<name normalized="Gummilack" languages="German">Gummilack</name>
+		<name normalized="Gummilacka" languages="Swedish">Gummilacka</name>
+		<name normalized="Lac" languages="Danish;Dutch;English;Estonian;Finnish;French;Norwegian (bokmal);official">Lac</name>
+		<name normalized="Lac Bolgesi" languages="Turkish">Lac Bölgesi</name>
+		<name normalized="Lac Region" languages="English;official">Lac Region</name>
+		<name normalized="Laca" languages="Portuguese;Spanish">Laca</name>
+		<name normalized="Laque" languages="French">Laque</name>
+		<name normalized="Leaic" languages="Irish">Leaic</name>
+		<name normalized="Region Lac" languages="German;Indonesian;Polish">Region Lac</name>
+		<name normalized="Regione del Lago" languages="Italian">Regione del Lago</name>
+		<name normalized="Regiunea Lac" languages="Romanian">Regiunea Lac</name>
+		<name normalized="Region de Lac" languages="Spanish">Región de Lac</name>
+		<name normalized="Лak" languages="Bulgarian;Russian">Лак</name>
+		<name normalized="lाk" languages="Hindi">लाख</name>
+		<name normalized="அரக்கு" languages="Tamil">அரக்கு</name>
+		<name normalized="ಅರಗು" languages="Kannada">ಅರಗು</name>
+		<name normalized="ครั่ง" languages="Thai">ครั่ง</name>
+		<name normalized="rk州" languages="Japanese">ラク州</name>
+		<name normalized="湖區" languages="Chinese">湖區</name>
+		<name normalized="라크 주" languages="Korean">라크 주</name>
+	</region>
+	<region name="Logone Occidental" type="region" typeTranslated="region">
+		<name normalized="Logone Occidental" languages="Danish;Dutch;English;French;Norwegian (bokmal);official;Simple English">Logone Occidental</name>
+		<name normalized="Logone Occidental Bolgesi" languages="Turkish">Logone Occidental Bölgesi</name>
+		<name normalized="Logone Occidental Region" languages="English;official">Logone Occidental Region</name>
+		<name normalized="Laane-Logone" languages="Estonian">Lääne-Logone</name>
+		<name normalized="Region Logon Zachodni" languages="Polish">Region Logon Zachodni</name>
+		<name normalized="Region Logone Occidental" languages="German;Indonesian">Region Logone Occidental</name>
+		<name normalized="Regione del Logone Occidentale" languages="Italian">Regione del Logone Occidentale</name>
+		<name normalized="Regiunea Logone Occidental" languages="Romanian">Regiunea Logone Occidental</name>
+		<name normalized="Region de Logone Occidental" languages="Spanish">Región de Logone Occidental</name>
+		<name normalized="Zapadiн Лogoн" languages="Bulgarian">Западен Логон</name>
+		<name normalized="Zapadный Лogoн" languages="Russian">Западный Логон</name>
+		<name normalized="Zakidнiй Лogoн" languages="Ukrainian">Західний Логон</name>
+		<name normalized="rgn・oksdntr州" languages="Japanese">ロゴン・オクシデンタル州</name>
+		<name normalized="西洛貢區" languages="Chinese">西洛貢區</name>
+		<name normalized="로곤옥시당탈 주" languages="Korean">로곤옥시당탈 주</name>
+	</region>
+	<region name="Logone Oriental" type="region" typeTranslated="region">
+		<name normalized="Ida-Logone" languages="Estonian">Ida-Logone</name>
+		<name normalized="Logone Oriental" languages="Danish;Dutch;English;French;Norwegian (bokmal);official;Simple English">Logone Oriental</name>
+		<name normalized="Logone Oriental Bolgesi" languages="Turkish">Logone Oriental Bölgesi</name>
+		<name normalized="Logone Oriental Region" languages="English;official">Logone Oriental Region</name>
+		<name normalized="Region Logon Wschodni" languages="Polish">Region Logon Wschodni</name>
+		<name normalized="Region Logone Oriental" languages="German;Indonesian">Region Logone Oriental</name>
+		<name normalized="Regione del Logone Orientale" languages="Italian">Regione del Logone Orientale</name>
+		<name normalized="Regiunea Logone Oriental" languages="Romanian">Regiunea Logone Oriental</name>
+		<name normalized="Region de Logone Oriental" languages="Spanish">Región de Logone Oriental</name>
+		<name normalized="Voсtocный Лogoн" languages="Russian">Восточный Логон</name>
+		<name normalized="Iztociн Лogoн" languages="Bulgarian">Източен Логон</name>
+		<name normalized="rgn・orentr州" languages="Japanese">ロゴン・オリエンタル州</name>
+		<name normalized="東洛貢區" languages="Chinese">東洛貢區</name>
+		<name normalized="로곤오리앙탈 주" languages="Korean">로곤오리앙탈 주</name>
+	</region>
+	<region name="Mandoul" type="region" typeTranslated="region">
+		<name normalized="Mandoul" languages="Danish;Dutch;English;Estonian;Finnish;French;Norwegian (bokmal);official;Portuguese">Mandoul</name>
+		<name normalized="Mandoul Bolgesi" languages="Turkish">Mandoul Bölgesi</name>
+		<name normalized="Mandoul Region" languages="English;official">Mandoul Region</name>
+		<name normalized="Region Mandoul" languages="German;Indonesian;Polish">Region Mandoul</name>
+		<name normalized="Regione di Mandoul" languages="Italian">Regione di Mandoul</name>
+		<name normalized="Regiunea Mandoul" languages="Romanian">Regiunea Mandoul</name>
+		<name normalized="Region de Mandoul" languages="Spanish">Región de Mandoul</name>
+		<name normalized="Мaнduл" languages="Bulgarian">Мандул</name>
+		<name normalized="Мaнduль" languages="Russian">Мандуль</name>
+		<name normalized="mndur州" languages="Japanese">マンドゥル州</name>
+		<name normalized="芒杜爾區" languages="Chinese">芒杜爾區</name>
+		<name normalized="망둘 주" languages="Korean">망둘 주</name>
+	</region>
+	<region name="Mayo-Kebbi Est" type="region" typeTranslated="region">
+		<name normalized="Ida-Mayo-Kebbi piirkond" languages="Estonian">Ida-Mayo-Kebbi piirkond</name>
+		<name normalized="Mayo-Kebbi Est" languages="Danish;Dutch;English;French;Norwegian (bokmal);official">Mayo-Kebbi Est</name>
+		<name normalized="Mayo-Kebbi Est Bolgesi" languages="Turkish">Mayo-Kebbi Est Bölgesi</name>
+		<name normalized="Mayo-Kebbi Est Region" languages="English">Mayo-Kebbi Est Region</name>
+		<name normalized="Region Mayo-Kebbi Est" languages="English;German;Indonesian;official;Polish">Region Mayo-Kebbi Est</name>
+		<name normalized="Regione di Mayo-Kebbi Est" languages="Italian">Regione di Mayo-Kebbi Est</name>
+		<name normalized="Regiunea Mayo-Kebbi Est" languages="Romanian">Regiunea Mayo-Kebbi Est</name>
+		<name normalized="Region de Mayo-Kebbi Este" languages="Spanish">Región de Mayo-Kebbi Este</name>
+		<name normalized="Voсtocнoi Мaйo-Kibi" languages="Russian">Восточное Майо-Кеби</name>
+		<name normalized="Iztociн Мaйo-Kibi" languages="Bulgarian">Източен Майо-Кеби</name>
+		<name normalized="東my・ktb州" languages="Japanese">東マヨ・ケッビ州</name>
+		<name normalized="東凱比河區" languages="Chinese">東凱比河區</name>
+		<name normalized="마요케비에스트 주" languages="Korean">마요케비에스트 주</name>
+	</region>
+	<region name="Mayo-Kebbi Ouest" type="region" typeTranslated="region">
+		<name normalized="Laane-Mayo-Kebbi piirkond" languages="Estonian">Lääne-Mayo-Kebbi piirkond</name>
+		<name normalized="Mayo-Kebbi Ouest" languages="Danish;Dutch;English;French;Norwegian (bokmal);official">Mayo-Kebbi Ouest</name>
+		<name normalized="Mayo-Kebbi Ouest Bolgesi" languages="Turkish">Mayo-Kebbi Ouest Bölgesi</name>
+		<name normalized="Mayo-Kebbi Ouest Region" languages="English">Mayo-Kebbi Ouest Region</name>
+		<name normalized="Region Mayo-Kebbi Ouest" languages="English;German;Indonesian;official;Polish">Region Mayo-Kebbi Ouest</name>
+		<name normalized="Regione di Mayo-Kebbi Ovest" languages="Italian">Regione di Mayo-Kebbi Ovest</name>
+		<name normalized="Regiunea Mayo-Kebbi Ouest" languages="Romanian">Regiunea Mayo-Kebbi Ouest</name>
+		<name normalized="Region de Mayo-Kebbi Oeste" languages="Spanish">Región de Mayo-Kebbi Oeste</name>
+		<name normalized="Zapadiн Мaйo-Kibi" languages="Bulgarian">Западен Майо-Кеби</name>
+		<name normalized="Zapadнoi Мaйo-Kibi" languages="Russian">Западное Майо-Кеби</name>
+		<name normalized="西my・ktb州" languages="Japanese">西マヨ・ケッビ州</name>
+		<name normalized="西凱比河區" languages="Chinese">西凱比河區</name>
+		<name normalized="마요케비우에스트 주" languages="Korean">마요케비우에스트 주</name>
+	</region>
+	<region name="Moyen-Chari" type="region" typeTranslated="region">
+		<name normalized="Kesk-Chari" languages="Estonian">Kesk-Chari</name>
+		<name normalized="Moyen-Chari" languages="Danish;Dutch;English;Finnish;French;Norwegian (bokmal);official;Portuguese;Simple English">Moyen-Chari</name>
+		<name normalized="Moyen-Chari Bolgesi" languages="Turkish">Moyen-Chari Bölgesi</name>
+		<name normalized="Moyen-Chari Region" languages="English;official">Moyen-Chari Region</name>
+		<name normalized="Region Moyen-Chari" languages="German;Indonesian">Region Moyen-Chari</name>
+		<name normalized="Region Szari Srodkowe" languages="Polish">Region Szari Środkowe</name>
+		<name normalized="Regione di Moyen-Chari" languages="Italian">Regione di Moyen-Chari</name>
+		<name normalized="Regiunea Moyen-Chari" languages="Romanian">Regiunea Moyen-Chari</name>
+		<name normalized="Region de Moyen-Chari" languages="Spanish">Región de Moyen-Chari</name>
+		<name normalized="Мoaiн-Saрi" languages="Bulgarian">Моаян-Шари</name>
+		<name normalized="Сiрidнe Saрi" languages="Ukrainian">Середнє Шарі</name>
+		<name normalized="Срidнii Saрi" languages="Russian">Среднее Шари</name>
+		<name normalized="mwiyn・syr州" languages="Japanese">モワイヤン・シャリ州</name>
+		<name normalized="中沙里區" languages="Chinese">中沙里區</name>
+		<name normalized="무아얭샤리 주" languages="Korean">무아얭샤리 주</name>
+	</region>
+	<region name="Ouaddai" type="region" typeTranslated="region">
+		<name normalized="Ouadai" languages="Catalan">Ouadai</name>
+		<name normalized="Ouaddai" languages="English;official">Ouaddai</name>
+		<name normalized="Ouaddai Region" languages="English;official">Ouaddai Region</name>
+		<name normalized="Ouaddai" languages="Danish;Dutch;English;Estonian;Finnish;French;Norwegian (bokmal);Portuguese;Simple English;Spanish">Ouaddaï</name>
+		<name normalized="Ouaddai Bolgesi" languages="Turkish">Ouaddaï Bölgesi</name>
+		<name normalized="Ouaddai Region" languages="English">Ouaddaï Region</name>
+		<name normalized="Region Ouaddai" languages="Indonesian">Region Ouaddaï</name>
+		<name normalized="Region Wadai" languages="German">Region Wadai</name>
+		<name normalized="Region Wadaj" languages="Polish">Region Wadaj</name>
+		<name normalized="Regione di Ouaddai" languages="Italian">Regione di Ouaddaï</name>
+		<name normalized="Regiunea Ouaddai" languages="Romanian">Regiunea Ouaddaï</name>
+		<name normalized="Regio d'Ouaddai" languages="Catalan">Regió d'Ouaddaï</name>
+		<name normalized="Region de Ouaddai" languages="Spanish">Región de Ouaddaï</name>
+		<name normalized="Wadaj" languages="Polish">Wadaj</name>
+		<name normalized="Vaddaй" languages="Russian">Ваддай</name>
+		<name normalized="Uadai" languages="Bulgarian">Уадаи</name>
+		<name normalized="wdi州" languages="Japanese">ワダイ州</name>
+		<name normalized="瓦達伊區" languages="Chinese">瓦達伊區</name>
+		<name normalized="와다이 주" languages="Korean">와다이 주</name>
+	</region>
+	<region name="Salamat" type="region" typeTranslated="region">
+		<name normalized="Region Salamat" languages="German;Indonesian;Polish">Region Salamat</name>
+		<name normalized="Regione del Salamat" languages="Italian">Regione del Salamat</name>
+		<name normalized="Regiunea Salamat" languages="Romanian">Regiunea Salamat</name>
+		<name normalized="Region de Salamat" languages="Spanish">Región de Salamat</name>
+		<name normalized="Salamat" languages="Danish;Dutch;English;Estonian;Finnish;French;German;Italian;Norwegian (bokmal);official;Tagalog">Salamat</name>
+		<name normalized="Salamat Bolgesi" languages="Turkish">Salamat Bölgesi</name>
+		<name normalized="Salamat Region" languages="English;official">Salamat Region</name>
+		<name normalized="Сaлaмat" languages="Bulgarian;Russian">Саламат</name>
+		<name normalized="srmt州" languages="Japanese">サラマト州</name>
+		<name normalized="萨拉马特区" languages="Chinese">萨拉马特区</name>
+		<name normalized="살라마트 주" languages="Korean">살라마트 주</name>
+	</region>
+	<region name="Sila" type="region" typeTranslated="region">
+		<name normalized="Region Sila" languages="German;Polish">Region Sila</name>
+		<name normalized="Regione del Sila" languages="Italian">Regione del Sila</name>
+		<name normalized="Regiunea Sila" languages="Romanian">Regiunea Sila</name>
+		<name normalized="Region de Sila" languages="Spanish">Región de Sila</name>
+		<name normalized="Sila" languages="Croatian;Danish;Dutch;English;French;German;Italian;official;Polish;Portuguese;Serbian;Serbo-Croatian;Slovak;Slovenian;Spanish;Swedish">Sila</name>
+		<name normalized="Sila Bolgesi" languages="Turkish">Sila Bölgesi</name>
+		<name normalized="Sila Region" languages="English;official">Sila Region</name>
+		<name normalized="Sila" languages="Catalan">Silà</name>
+		<name normalized="Сiлa" languages="Bulgarian;Russian;Ukrainian">Сила</name>
+		<name normalized="sr州" languages="Japanese">シラ州</name>
+		<name normalized="西拉區" languages="Chinese">西拉區</name>
+		<name normalized="실라 주" languages="Korean">실라 주</name>
+	</region>
+	<region name="Tandjile" type="region" typeTranslated="region">
+		<name normalized="Region Tandjile" languages="German;Indonesian;Polish">Region Tandjilé</name>
+		<name normalized="Regione di Tandjile" languages="Italian">Regione di Tandjilé</name>
+		<name normalized="Regiunea Tandjile" languages="Romanian">Regiunea Tandjilé</name>
+		<name normalized="Region de Tandjile" languages="Spanish">Región de Tandjilé</name>
+		<name normalized="Tandjile" languages="English;official">Tandjile</name>
+		<name normalized="Tandjile Region" languages="English;official">Tandjile Region</name>
+		<name normalized="Tandjile" languages="Danish;Dutch;English;Estonian;Finnish;French;Norwegian (bokmal)">Tandjilé</name>
+		<name normalized="Tandjile Bolgesi" languages="Turkish">Tandjilé Bölgesi</name>
+		<name normalized="Tandjile Region" languages="English">Tandjilé Region</name>
+		<name normalized="Taнdziлi" languages="Bulgarian;Russian">Танджиле</name>
+		<name normalized="tnzr州" languages="Japanese">タンジレ州</name>
+		<name normalized="坦吉萊區" languages="Chinese">坦吉萊區</name>
+		<name normalized="탕질레 주" languages="Korean">탕질레 주</name>
+	</region>
+	<region name="Tibesti" type="region" typeTranslated="region">
+		<name normalized="Massif du Tibesti" languages="French">Massif du Tibesti</name>
+		<name normalized="Pegunungan Tibesti" languages="Indonesian">Pegunungan Tibesti</name>
+		<name normalized="Region Tibesti" languages="German;Polish">Region Tibesti</name>
+		<name normalized="Regione di Tibesti" languages="Italian">Regione di Tibesti</name>
+		<name normalized="Regiunea Tibesti" languages="Romanian">Regiunea Tibesti</name>
+		<name normalized="Region de Tibesti" languages="Spanish">Región de Tibesti</name>
+		<name normalized="Tibesti" languages="Basque;Catalan;Czech;Danish;English;French;German;Italian;Latin;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Slovak;Spanish;Swahili;Swedish">Tibesti</name>
+		<name normalized="Tibesti Bolgesi" languages="Turkish">Tibesti Bölgesi</name>
+		<name normalized="Tibesti Mountains" languages="English">Tibesti Mountains</name>
+		<name normalized="Tibesti Region" languages="English;official">Tibesti Region</name>
+		<name normalized="Tibestigebergte" languages="Dutch">Tibestigebergte</name>
+		<name normalized="Tibestis" languages="Lithuanian">Tibestis</name>
+		<name normalized="Tibestivuoristo" languages="Finnish">Tibestivuoristo</name>
+		<name normalized="Tibesty berchtme" languages="Western Frisian">Tibesty berchtme</name>
+		<name normalized="Tibeszti" languages="Hungarian">Tibeszti</name>
+		<name normalized="Τιμπeστι" languages="Greek">Τιμπέστι</name>
+		<name normalized="Tibiсti" languages="Bulgarian;Russian">Тибести</name>
+		<name normalized="Tibiсti" languages="Ukrainian">Тібесті</name>
+		<name normalized="jbאل tybسty" languages="Arabic">جبال تيبستي</name>
+		<name normalized="ტიბესტი" languages="Georgian">ტიბესტი</name>
+		<name normalized="tibsti山地" languages="Japanese">ティベスティ山地</name>
+		<name normalized="tibsti州" languages="Japanese">ティベスティ州</name>
+		<name normalized="提貝斯提區" languages="Chinese">提貝斯提區</name>
+		<name normalized="提贝斯提高原" languages="Chinese">提贝斯提高原</name>
+		<name normalized="티베스티 주" languages="Korean">티베스티 주</name>
+	</region>
+	<region name="Ville de N'Djamena" type="region" typeTranslated="region">
+		<name normalized="Ville de N'Djamena" languages="English;official">Ville de N'Djamena</name>
+		<name normalized="Ville de N'Djamena Region" languages="English;official">Ville de N'Djamena Region</name>
+		<name normalized="Ville de NDjamena" languages="English;official">Ville de NDjamena</name>
+		<name normalized="Ville de NDjamena Region" languages="English;official">Ville de NDjamena Region</name>
+	</region>
+	<region name="Wadi Fira" type="region" typeTranslated="region">
+		<name normalized="Biltine Prefecture" languages="Simple English">Biltine Prefecture</name>
+		<name normalized="Region Wadi Fira" languages="German;Indonesian;Polish">Region Wadi Fira</name>
+		<name normalized="Regione di Wadi Fira" languages="Italian">Regione di Wadi Fira</name>
+		<name normalized="Regiunea Wadi Fira" languages="Romanian">Regiunea Wadi Fira</name>
+		<name normalized="Wadi Fira" languages="Danish;Dutch;English;Estonian;Finnish;French;Norwegian (bokmal);official">Wadi Fira</name>
+		<name normalized="Wadi Fira Bolgesi" languages="Turkish">Wadi Fira Bölgesi</name>
+		<name normalized="Wadi Fira Region" languages="English;official">Wadi Fira Region</name>
+		<name normalized="Vadi-Фiрa" languages="Russian">Вади-Фера</name>
+		<name normalized="Vadi-Фiрa" languages="Ukrainian">Ваді-Фіра</name>
+		<name normalized="Uadi Фiрa" languages="Bulgarian">Уади Фира</name>
+		<name normalized="wz・hir州" languages="Japanese">ワジ・フィラ州</name>
+		<name normalized="瓦迪菲拉區" languages="Chinese">瓦迪菲拉區</name>
+		<name normalized="와디피라 주" languages="Korean">와디피라 주</name>
+	</region>
+</regions>

@@ -1,0 +1,540 @@
+<regions country="Estonia">
+	<region name="Harjumaa" type="county" typeTranslated="maakond">
+		<name normalized="Comtat de Harju" languages="Catalan;Occitan">Comtat de Harju</name>
+		<name normalized="Comte de Harju" languages="French">Comté de Harju</name>
+		<name normalized="Condado de Harju" languages="Galician;Spanish">Condado de Harju</name>
+		<name normalized="County Harju" languages="Indonesian">County Harju</name>
+		<name normalized="Daerah Harju" languages="Malay">Daerah Harju</name>
+		<name normalized="Harjo maakund" languages="Voro">Harjo maakund</name>
+		<name normalized="Harju" languages="Vietnamese">Harju</name>
+		<name normalized="Harju aprinkis" languages="Latvian">Harju apriņķis</name>
+		<name normalized="Harju apskritis" languages="Lithuanian">Harju apskritis</name>
+		<name normalized="Harju Coonty" languages="Scots">Harju Coonty</name>
+		<name normalized="Harju County" languages="English;Simple English">Harju County</name>
+		<name normalized="Harju fylke" languages="Norwegian (bokmal)">Harju fylke</name>
+		<name normalized="Harju ili" languages="Turkish">Harju ili</name>
+		<name normalized="Harju konderria" languages="Basque">Harju konderria</name>
+		<name normalized="Harju lan" languages="Swedish">Harju län</name>
+		<name normalized="Harju maakond" languages="Estonian;Norwegian Nynorsk;Slovak">Harju maakond</name>
+		<name normalized="Harjumaa" languages="Czech;Danish;Dutch;English;Esperanto;Finnish;Hungarian;Italian;Northern Sami;official;Polish;Portuguese">Harjumaa</name>
+		<name normalized="Harjumaa County" languages="English;official">Harjumaa County</name>
+		<name normalized="Harjumaa Maakond" languages="English;official">Harjumaa Maakond</name>
+		<name normalized="Harria" languages="Latin">Harria</name>
+		<name normalized="Haryumaa" languages="Azerbaijani">Hаryumаа</name>
+		<name normalized="Konteth Harju" languages="Cornish">Konteth Harju</name>
+		<name normalized="Kreis Harju" languages="German">Kreis Harju</name>
+		<name normalized="Okrug Harjumaa" languages="Croatian">Okrug Harjumaa</name>
+		<name normalized="Regiunea Harju" languages="Romanian">Regiunea Harju</name>
+		<name normalized="Επαρχια Χαργιου" languages="Greek">Επαρχία Χάργιου</name>
+		<name normalized="Gaр'юмaa" languages="Ukrainian">Гар'юмаа</name>
+		<name normalized="Pavit Kaр'ю" languages="Belarusian">Павет Хар'ю</name>
+		<name normalized="Kaрьюмaa" languages="Russian">Харьюмаа</name>
+		<name normalized="Kaрю" languages="Bulgarian">Харю</name>
+		<name normalized="Kaрju" languages="Serbian">Харју</name>
+		<name normalized="Kaр'юмaa" languages="biлaрuсkai (taрaskivita)‎">Хар’юмаа</name>
+		<name normalized="Hաrյvymաա" languages="Armenian">Հարյումաա</name>
+		<name normalized="מhvז hאrיv" languages="Hebrew">מחוז האריו</name>
+		<name normalized="شhrسtאن hאrیو" languages="Persian">شهرستان هاریو</name>
+		<name normalized="mqאtعة hאryو" languages="Arabic">مقاطعة هاريو</name>
+		<name normalized="ჰარიუმაა" languages="Georgian">ჰარიუმაა</name>
+		<name normalized="hry県" languages="Japanese">ハリュ県</name>
+		<name normalized="哈爾尤縣" languages="Chinese">哈爾尤縣</name>
+		<name normalized="하류 주" languages="Korean">하류 주</name>
+	</region>
+	<region name="Hiiumaa" type="county" typeTranslated="maakond">
+		<name normalized="Dago" languages="Swedish">Dagö</name>
+		<name normalized="Dago" languages="Danish">Dagø</name>
+		<name normalized="Hiidenmaa" languages="Finnish">Hiidenmaa</name>
+		<name normalized="Hiiomaa" languages="Voro">Hiiomaa</name>
+		<name normalized="Hiiumaa" languages="Afrikaans;Albanian;Basque;Breton;Catalan;Croatian;Czech;Dutch;English;Esperanto;Estonian;French;German;Hungarian;Icelandic;Indonesian;Italian;Kalaallisut;Lower Sorbian;Norwegian (bokmal);Norwegian Nynorsk;official;Romanian;Slovak;Slovenian;Spanish;Vietnamese">Hiiumaa</name>
+		<name normalized="Hiiumaa County" languages="English;official">Hiiumaa County</name>
+		<name normalized="Hiiumaa Maakond" languages="English;official">Hiiumaa Maakond</name>
+		<name normalized="Hiuma" languages="Polish">Hiuma</name>
+		<name normalized="Hyjuma" languages="Lithuanian">Hyjuma</name>
+		<name normalized="Hijuma" languages="Latvian">Hījumā</name>
+		<name normalized="Χιιουμαα" languages="Greek">Χιίουμαα</name>
+		<name normalized="Voсtрaў Kiюмaa" languages="Belarusian">Востраў Хіюмаа</name>
+		<name normalized="Kiйuмaa" languages="Ossetic;Russian">Хийумаа</name>
+		<name normalized="Kiюмaa" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Хіюмаа</name>
+		<name normalized="Hիյvymաա" languages="Armenian">Հիյումաա</name>
+		<name normalized="hיvמאh" languages="Hebrew">היומאה</name>
+		<name normalized="hیوmא" languages="Persian">هیوما</name>
+		<name normalized="hiumা" languages="Bengali">হিউমা</name>
+		<name normalized="ჰიიუმაა" languages="Georgian">ჰიიუმაა</name>
+		<name normalized="hーumー島" languages="Japanese">ヒーウマー島</name>
+		<name normalized="希乌马岛" languages="Chinese">希乌马岛</name>
+		<name normalized="히우마 섬" languages="Korean">히우마 섬</name>
+		<name normalized="𐌷𐌹𐌿𐌼𐌰𐌰" languages="Gothic">𐌷𐌹𐌿𐌼𐌰𐌰</name>
+	</region>
+	<region name="Ida-Virumaa" type="county" typeTranslated="maakond">
+		<name normalized="Austrumviru aprinkis" languages="Latvian">Austrumviru apriņķis</name>
+		<name normalized="Comtat d'Ida-Viru" languages="Catalan">Comtat d'Ida-Viru</name>
+		<name normalized="Comte de Viru-Est" languages="French">Comté de Viru-Est</name>
+		<name normalized="Condado de Ida-Viru" languages="Galician;Spanish">Condado de Ida-Viru</name>
+		<name normalized="County Ida-Viru" languages="Indonesian;Malay">County Ida-Viru</name>
+		<name normalized="Distrikto Ida-Viru" languages="Esperanto">Distrikto Ida-Viru</name>
+		<name normalized="Hummogu-Viro maakund" languages="Voro">Hummogu-Viro maakund</name>
+		<name normalized="Ida-Viru Coonty" languages="Scots">Ida-Viru Coonty</name>
+		<name normalized="Ida-Viru County" languages="English">Ida-Viru County</name>
+		<name normalized="Ida-Viru fylke" languages="Norwegian (bokmal)">Ida-Viru fylke</name>
+		<name normalized="Ida-Viru ili" languages="Turkish">Ida-Viru ili</name>
+		<name normalized="Ida-Viru konderria" languages="Basque">Ida-Viru konderria</name>
+		<name normalized="Ida-Viru lan" languages="Swedish">Ida-Viru län</name>
+		<name normalized="Ida-Viru maakond" languages="Estonian;Norwegian Nynorsk">Ida-Viru maakond</name>
+		<name normalized="Ida-Virumaa" languages="Czech;Danish;Dutch;English;Hungarian;Italian;official;Portuguese">Ida-Virumaa</name>
+		<name normalized="Ida-Virumaa County" languages="English;official">Ida-Virumaa County</name>
+		<name normalized="Ida-Virumaa Maakond" languages="English;official">Ida-Virumaa Maakond</name>
+		<name normalized="Ida-Virumaa" languages="Azerbaijani">İdа-Virumаа</name>
+		<name normalized="Ita-Virumaa" languages="Finnish">Itä-Virumaa</name>
+		<name normalized="Konteth Ida-Viru" languages="Cornish">Konteth Ida-Viru</name>
+		<name normalized="Kreis Ida-Viru" languages="German">Kreis Ida-Viru</name>
+		<name normalized="Nuorta-Virumaa" languages="Northern Sami">Nuorta-Virumaa</name>
+		<name normalized="Okrug Ida-Virumaa" languages="Croatian">Okrug Ida-Virumaa</name>
+		<name normalized="Regiunea Ida-Viru" languages="Romanian">Regiunea Ida-Viru</name>
+		<name normalized="Rytu Viru apskritis" languages="Lithuanian">Rytų Viru apskritis</name>
+		<name normalized="Virumaa Wschodnia" languages="Polish">Virumaa Wschodnia</name>
+		<name normalized="Επαρχια Ιντα-Βιρου" languages="Greek">Επαρχία Ίντα-Βίρου</name>
+		<name normalized="Ida-Viрu" languages="Bulgarian;Serbian">Ида-Виру</name>
+		<name normalized="Ida-Viрuмaa" languages="Russian">Ида-Вирумаа</name>
+		<name normalized="Pavit Ida-Viрu" languages="Belarusian">Павет Іда-Віру</name>
+		<name normalized="Ida-Viрuмaa" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Іда-Вірумаа</name>
+		<name normalized="Իdա-Վիrvymաա" languages="Armenian">Իդա-Վիրումաա</name>
+		<name normalized="מhvז אידh-vיrv" languages="Hebrew">מחוז אידה-וירו</name>
+		<name normalized="شhrسtאن אیدא-ویrو" languages="Persian">شهرستان ایدا-ویرو</name>
+		<name normalized="იდა-ვირუმაა" languages="Georgian">იდა-ვირუმაა</name>
+		<name normalized="id=vir県" languages="Japanese">イダ＝ヴィル県</name>
+		<name normalized="東維魯縣" languages="Chinese">東維魯縣</name>
+		<name normalized="이다비루 주" languages="Korean">이다비루 주</name>
+	</region>
+	<region name="Jarvamaa" type="county" typeTranslated="maakond">
+		<name normalized="Comtat de Jarva" languages="Catalan">Comtat de Järva</name>
+		<name normalized="Comte de Jarva" languages="French">Comté de Järva</name>
+		<name normalized="Condado de Jarva" languages="Galician;Spanish">Condado de Järva</name>
+		<name normalized="County Jarva" languages="Indonesian;Malay">County Järva</name>
+		<name normalized="Jarvamaa" languages="English;official">Jarvamaa</name>
+		<name normalized="Jarvamaa County" languages="English;official">Jarvamaa County</name>
+		<name normalized="Jarvamaa Maakond" languages="English;official">Jarvamaa Maakond</name>
+		<name normalized="Jervas aprinkis" languages="Latvian">Jervas apriņķis</name>
+		<name normalized="Jervos apskritis" languages="Lithuanian">Jervos apskritis</name>
+		<name normalized="Jarva Coonty" languages="Scots">Järva Coonty</name>
+		<name normalized="Jarva County" languages="English">Järva County</name>
+		<name normalized="Jarva fylke" languages="Norwegian (bokmal)">Järva fylke</name>
+		<name normalized="Jarva ili" languages="Turkish">Järva ili</name>
+		<name normalized="Jarva lan" languages="Swedish">Järva län</name>
+		<name normalized="Jarva maakond" languages="Estonian;Norwegian Nynorsk">Järva maakond</name>
+		<name normalized="Jarvamaa" languages="Czech;Danish;Dutch;Esperanto;Finnish;Hungarian;Italian;Northern Sami;Polish;Portuguese">Järvamaa</name>
+		<name normalized="Jarva maakund" languages="Voro">Järvä maakund</name>
+		<name normalized="Konteth Jarva" languages="Cornish">Konteth Järva</name>
+		<name normalized="Kreis Jarva" languages="German">Kreis Järva</name>
+		<name normalized="Okrug Jarvamaa" languages="Croatian">Okrug Järvamaa</name>
+		<name normalized="Regiunea Jarva" languages="Romanian">Regiunea Järva</name>
+		<name normalized="Yarvamaa" languages="Azerbaijani">Yarvаmаа</name>
+		<name normalized="Επαρχια Γιeρβα" languages="Greek">Επαρχία Γιέρβα</name>
+		<name normalized="Pavit Ярva" languages="Belarusian">Павет Ярва</name>
+		<name normalized="Kaрva" languages="Serbian">Харва</name>
+		<name normalized="Ярva" languages="Bulgarian">Ярва</name>
+		<name normalized="Ярvaмaa" languages="Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Ярвамаа</name>
+		<name normalized="Յաrվաmաա" languages="Armenian">Յարվամաա</name>
+		<name normalized="מhvז יאrbh" languages="Hebrew">מחוז יארבה</name>
+		<name normalized="شhrسtאن یאrوא" languages="Persian">شهرستان یاروا</name>
+		<name normalized="mqאtعة yאrfא" languages="Arabic">مقاطعة يارفا</name>
+		<name normalized="იარვამაა" languages="Georgian">იარვამაა</name>
+		<name normalized="ierva県" languages="Japanese">イェルヴァ県</name>
+		<name normalized="耶爾瓦縣" languages="Chinese">耶爾瓦縣</name>
+		<name normalized="얘르바 주" languages="Korean">얘르바 주</name>
+	</region>
+	<region name="Jogevamaa" type="county" typeTranslated="maakond">
+		<name normalized="Comtat de Jogeva" languages="Catalan">Comtat de Jõgeva</name>
+		<name normalized="Comte de Jogeva" languages="French">Comté de Jõgeva</name>
+		<name normalized="Condado de Jogeva" languages="Galician;Spanish">Condado de Jõgeva</name>
+		<name normalized="County Jogeva" languages="Indonesian;Malay">County Jõgeva</name>
+		<name normalized="Jegevas aprinkis" languages="Latvian">Jegevas apriņķis</name>
+		<name normalized="Jegevos apskritis" languages="Lithuanian">Jegevos apskritis</name>
+		<name normalized="Jogevamaa" languages="English;official">Jogevamaa</name>
+		<name normalized="Jogevamaa County" languages="English;official">Jogevamaa County</name>
+		<name normalized="Jogevamaa Maakond" languages="English;official">Jogevamaa Maakond</name>
+		<name normalized="Jogeva Coonty" languages="Scots">Jõgeva Coonty</name>
+		<name normalized="Jogeva County" languages="English">Jõgeva County</name>
+		<name normalized="Jogeva fylke" languages="Norwegian (bokmal)">Jõgeva fylke</name>
+		<name normalized="Jogeva ili" languages="Turkish">Jõgeva ili</name>
+		<name normalized="Jogeva lan" languages="Swedish">Jõgeva län</name>
+		<name normalized="Jogeva maakond" languages="Estonian;Norwegian Nynorsk">Jõgeva maakond</name>
+		<name normalized="Jogevamaa" languages="Czech;Danish;Dutch;Esperanto;Finnish;Hungarian;Italian;Northern Sami;Polish;Portuguese">Jõgevamaa</name>
+		<name normalized="Jogova maakund" languages="Voro">Jõgõva maakund</name>
+		<name normalized="Konteth Jogeva" languages="Cornish">Konteth Jõgeva</name>
+		<name normalized="Kreis Jogeva" languages="German">Kreis Jõgeva</name>
+		<name normalized="Okrug Jogevamaa" languages="Croatian">Okrug Jõgevamaa</name>
+		<name normalized="Regiunea Jogeva" languages="Romanian">Regiunea Jõgeva</name>
+		<name normalized="Yıgivamaa" languages="Azerbaijani">Yıgеvаmаа</name>
+		<name normalized="Επαρχια Γιογκeβα" languages="Greek">Επαρχία Γιογκέβα</name>
+		<name normalized="Йiґivaмaa" languages="Ukrainian">Йиґевамаа</name>
+		<name normalized="Йъgiva" languages="Bulgarian">Йъгева</name>
+		<name normalized="Йыgivaмaa" languages="Russian;biлaрuсkai (taрaskivita)‎">Йыгевамаа</name>
+		<name normalized="Pavit Йыgiva" languages="Belarusian">Павет Йыгева</name>
+		<name normalized="Jigiva" languages="Serbian">Јигева</name>
+		<name normalized="Յիգևաmաա" languages="Armenian">Յիգևամաա</name>
+		<name normalized="מhvז ייגbh" languages="Hebrew">מחוז ייגבה</name>
+		<name normalized="شhrسtאن یوgوא" languages="Persian">شهرستان یوگوا</name>
+		<name normalized="იიგევამაა" languages="Georgian">იიგევამაა</name>
+		<name normalized="ygva県" languages="Japanese">ヨゲヴァ県</name>
+		<name normalized="約格瓦縣" languages="Chinese">約格瓦縣</name>
+		<name normalized="여게바 주" languages="Korean">여게바 주</name>
+	</region>
+	<region name="Laane-Virumaa" type="county" typeTranslated="maakond">
+		<name normalized="Comtat de Laane-Viru" languages="Catalan">Comtat de Lääne-Viru</name>
+		<name normalized="Comte de Viru-Ouest" languages="French">Comté de Viru-Ouest</name>
+		<name normalized="Condado de Laane-Viru" languages="Galician;Spanish">Condado de Lääne-Viru</name>
+		<name normalized="County Laane-Viru" languages="Indonesian;Malay">County Lääne-Viru</name>
+		<name normalized="Konteth Laane-Viru" languages="Cornish">Konteth Lääne-Viru</name>
+		<name normalized="Kreis Laane-Viru" languages="German">Kreis Lääne-Viru</name>
+		<name normalized="Laane-Virumaa" languages="English;official">Laane-Virumaa</name>
+		<name normalized="Laane-Virumaa County" languages="English;official">Laane-Virumaa County</name>
+		<name normalized="Laane-Virumaa Maakond" languages="English;official">Laane-Virumaa Maakond</name>
+		<name normalized="Lyaeni-Virumaa" languages="Azerbaijani">Lyaenе-Virumаа</name>
+		<name normalized="Lansi-Virumaa" languages="Finnish">Länsi-Virumaa</name>
+		<name normalized="Laane-Viru Coonty" languages="Scots">Lääne-Viru Coonty</name>
+		<name normalized="Laane-Viru County" languages="English">Lääne-Viru County</name>
+		<name normalized="Laane-Viru fylke" languages="Norwegian (bokmal)">Lääne-Viru fylke</name>
+		<name normalized="Laane-Viru ili" languages="Turkish">Lääne-Viru ili</name>
+		<name normalized="Laane-Viru lan" languages="Swedish">Lääne-Viru län</name>
+		<name normalized="Laane-Viru maakond" languages="Estonian;Norwegian Nynorsk">Lääne-Viru maakond</name>
+		<name normalized="Laane-Virumaa" languages="Czech;Danish;Dutch;Esperanto;Hungarian;Italian;Portuguese">Lääne-Virumaa</name>
+		<name normalized="Oarje-Virumaa" languages="Northern Sami">Oarje-Virumaa</name>
+		<name normalized="Okrug Laane-Virumaa" languages="Croatian">Okrug Lääne-Virumaa</name>
+		<name normalized="Regiunea Laane-Viru" languages="Romanian">Regiunea Lääne-Viru</name>
+		<name normalized="Rietumviru aprinkis" languages="Latvian">Rietumviru apriņķis</name>
+		<name normalized="Vakaru Viru apskritis" languages="Lithuanian">Vakarų Viru apskritis</name>
+		<name normalized="Virumaa Zachodnia" languages="Polish">Virumaa Zachodnia</name>
+		<name normalized="Odagu-Viro maakund" languages="Voro">Õdagu-Viro maakund</name>
+		<name normalized="Επαρχια Λeενε-Βιρου" languages="Greek">Επαρχία Λέενε-Βίρου</name>
+		<name normalized="Лieнi-Viрuмaa" languages="Russian">Ляэне-Вирумаа</name>
+		<name normalized="Лieнe-Viрuмaa" languages="biлaрuсkai (taрaskivita)‎">Ляэнэ-Вірумаа</name>
+		<name normalized="Лiiнi-Viрu" languages="Bulgarian">Ляяне-Виру</name>
+		<name normalized="Лiiнi-Viрuмaa" languages="Ukrainian">Ляяне-Вірумаа</name>
+		<name normalized="Pavit Лieнe-Viрu" languages="Belarusian">Павет Ляэнэ-Віру</name>
+		<name normalized="Laiнi-Viрu" languages="Serbian">Љаене-Виру</name>
+		<name normalized="Lյաենե-Վիrvymաա" languages="Armenian">Լյաենե-Վիրումաա</name>
+		<name normalized="מhvז דאnh-vיrv" languages="Hebrew">מחוז לאנה-וירו</name>
+		<name normalized="شhrسtאن لنh-ویrو" languages="Persian">شهرستان لنه-ویرو</name>
+		<name normalized="ლიაენე-ვირუმაა" languages="Georgian">ლიაენე-ვირუმაა</name>
+		<name normalized="rーn=vir県" languages="Japanese">レーネ＝ヴィル県</name>
+		<name normalized="西維魯縣" languages="Chinese">西維魯縣</name>
+		<name normalized="래네비루 주" languages="Korean">래네비루 주</name>
+	</region>
+	<region name="Laanemaa" type="county" typeTranslated="maakond">
+		<name normalized="Comtat de Laane" languages="Catalan">Comtat de Lääne</name>
+		<name normalized="Comte de Laane" languages="French">Comté de Lääne</name>
+		<name normalized="Condado de Laane" languages="Galician;Spanish">Condado de Lääne</name>
+		<name normalized="County Laane" languages="Indonesian;Malay">County Lääne</name>
+		<name normalized="Konteth Laane" languages="Cornish">Konteth Lääne</name>
+		<name normalized="Kreis Laane" languages="German">Kreis Lääne</name>
+		<name normalized="Laanemaa" languages="English;official">Laanemaa</name>
+		<name normalized="Laanemaa County" languages="English;official">Laanemaa County</name>
+		<name normalized="Laanemaa Maakond" languages="English;official">Laanemaa Maakond</name>
+		<name normalized="Lenes apskritis" languages="Lithuanian">Lenės apskritis</name>
+		<name normalized="Lyaenimaa" languages="Azerbaijani">Lyaenеmаа</name>
+		<name normalized="Laane Coonty" languages="Scots">Lääne Coonty</name>
+		<name normalized="Laane County" languages="English">Lääne County</name>
+		<name normalized="Laane fylke" languages="Norwegian (bokmal)">Lääne fylke</name>
+		<name normalized="Laane ili" languages="Turkish">Lääne ili</name>
+		<name normalized="Laane lan" languages="Swedish">Lääne län</name>
+		<name normalized="Laane maakond" languages="Estonian;Norwegian Nynorsk">Lääne maakond</name>
+		<name normalized="Laane maakund" languages="Voro">Lääne maakund</name>
+		<name normalized="Laanemaa" languages="Czech;Danish;Dutch;Esperanto;Finnish;Hungarian;Italian;Northern Sami;Polish;Portuguese">Läänemaa</name>
+		<name normalized="Lenes aprinkis" languages="Latvian">Lēnes apriņķis</name>
+		<name normalized="Okrug Laanemaa" languages="Croatian">Okrug Läänemaa</name>
+		<name normalized="Regiunea Laane" languages="Romanian">Regiunea Lääne</name>
+		<name normalized="Επαρχια Λeενε" languages="Greek">Επαρχία Λέενε</name>
+		<name normalized="Лieнiмaa" languages="Russian">Ляэнемаа</name>
+		<name normalized="Лiiнi" languages="Bulgarian">Ляяне</name>
+		<name normalized="Лiiнiмaa" languages="Ukrainian">Ляянемаа</name>
+		<name normalized="Pavit Лieнe" languages="Belarusian">Павет Ляэнэ</name>
+		<name normalized="Laiнi" languages="Serbian">Љаене</name>
+		<name normalized="Lյաենեmաա" languages="Armenian">Լյաենեմաա</name>
+		<name normalized="מhvז דאnh" languages="Hebrew">מחוז לאנה</name>
+		<name normalized="شhrسtאن لنh" languages="Persian">شهرستان لنه</name>
+		<name normalized="ლიაენემაა" languages="Georgian">ლიაენემაა</name>
+		<name normalized="rーn県" languages="Japanese">レーネ県</name>
+		<name normalized="萊內縣" languages="Chinese">萊內縣</name>
+		<name normalized="래네 주" languages="Korean">래네 주</name>
+	</region>
+	<region name="Parnumaa" type="county" typeTranslated="maakond">
+		<name normalized="Comtat de Parnu" languages="Catalan">Comtat de Pärnu</name>
+		<name normalized="Comte de Parnu" languages="French">Comté de Pärnu</name>
+		<name normalized="Condado de Parnu" languages="Galician;Spanish">Condado de Pärnu</name>
+		<name normalized="County Parnu" languages="Indonesian;Malay">County Pärnu</name>
+		<name normalized="Konteth Parnu" languages="Cornish">Konteth Pärnu</name>
+		<name normalized="Kreis Parnu" languages="German">Kreis Pärnu</name>
+		<name normalized="Okrozje Parnu" languages="Slovenian">Okrožje Pärnu</name>
+		<name normalized="Okrug Parnumaa" languages="Croatian">Okrug Pärnumaa</name>
+		<name normalized="Parnawa" languages="Polish">Parnawa</name>
+		<name normalized="Parnumaa" languages="English;official">Parnumaa</name>
+		<name normalized="Parnumaa County" languages="English;official">Parnumaa County</name>
+		<name normalized="Parnumaa Maakond" languages="English;official">Parnumaa Maakond</name>
+		<name normalized="Pernu apskritis" languages="Lithuanian">Pernu apskritis</name>
+		<name normalized="Pyarnumaa" languages="Azerbaijani">Pyarnumаа</name>
+		<name normalized="Parno maakund" languages="Voro">Pärno maakund</name>
+		<name normalized="Parnu" languages="Vietnamese">Pärnu</name>
+		<name normalized="Parnu Coonty" languages="Scots">Pärnu Coonty</name>
+		<name normalized="Parnu County" languages="English">Pärnu County</name>
+		<name normalized="Parnu fylke" languages="Norwegian (bokmal)">Pärnu fylke</name>
+		<name normalized="Parnu ili" languages="Turkish">Pärnu ili</name>
+		<name normalized="Parnu konderria" languages="Basque">Pärnu konderria</name>
+		<name normalized="Parnu lan" languages="Swedish">Pärnu län</name>
+		<name normalized="Parnu maakond" languages="Estonian;Norwegian Nynorsk">Pärnu maakond</name>
+		<name normalized="Parnumaa" languages="Czech;Danish;Dutch;Esperanto;Finnish;Hungarian;Italian;Northern Sami;Portuguese">Pärnumaa</name>
+		<name normalized="Pernavas aprinkis" languages="Latvian">Pērnavas apriņķis</name>
+		<name normalized="Regiunea Parnu" languages="Romanian">Regiunea Pärnu</name>
+		<name normalized="Επαρχια Παρνου" languages="Greek">Επαρχία Πάρνου</name>
+		<name normalized="Pavit Piрнu" languages="Belarusian">Павет Пярну</name>
+		<name normalized="Piрнu" languages="Bulgarian">Пярну</name>
+		<name normalized="Piрнuмaa" languages="Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Пярнумаа</name>
+		<name normalized="Pjaрнu" languages="Serbian">Пјарну</name>
+		<name normalized="Pյաrնvymաա" languages="Armenian">Պյարնումաա</name>
+		<name normalized="מhvז prnv" languages="Hebrew">מחוז פרנו</name>
+		<name normalized="شhrسtאن pאrنو" languages="Persian">شهرستان پارنو</name>
+		<name normalized="პიარნუმაა" languages="Georgian">პიარნუმაა</name>
+		<name normalized="prn県" languages="Japanese">ペルヌ県</name>
+		<name normalized="派爾努縣" languages="Chinese">派爾努縣</name>
+		<name normalized="패르누 주" languages="Korean">패르누 주</name>
+	</region>
+	<region name="Polvamaa" type="county" typeTranslated="maakond">
+		<name normalized="Comtat de Polva" languages="Catalan">Comtat de Põlva</name>
+		<name normalized="Comte de Polva" languages="French">Comté de Põlva</name>
+		<name normalized="Condado de Polva" languages="Galician;Spanish">Condado de Põlva</name>
+		<name normalized="County Polva" languages="Indonesian;Malay">County Põlva</name>
+		<name normalized="Konteth Polva" languages="Cornish">Konteth Põlva</name>
+		<name normalized="Kreis Polva" languages="German">Kreis Põlva</name>
+		<name normalized="Okrug Polvamaa" languages="Croatian">Okrug Põlvamaa</name>
+		<name normalized="Pelvas aprinkis" languages="Latvian">Pelvas apriņķis</name>
+		<name normalized="Pelvos apskritis" languages="Lithuanian">Pelvos apskritis</name>
+		<name normalized="Pılvamaa" languages="Azerbaijani">Pılvаmаа</name>
+		<name normalized="Polvamaa" languages="English;official">Polvamaa</name>
+		<name normalized="Polvamaa County" languages="English;official">Polvamaa County</name>
+		<name normalized="Polvamaa Maakond" languages="English;official">Polvamaa Maakond</name>
+		<name normalized="Polva Coonty" languages="Scots">Põlva Coonty</name>
+		<name normalized="Polva County" languages="English">Põlva County</name>
+		<name normalized="Polva fylke" languages="Norwegian (bokmal)">Põlva fylke</name>
+		<name normalized="Polva ili" languages="Turkish">Põlva ili</name>
+		<name normalized="Polva lan" languages="Swedish">Põlva län</name>
+		<name normalized="Polva maakond" languages="Estonian;Norwegian Nynorsk">Põlva maakond</name>
+		<name normalized="Polva maakund" languages="Voro">Põlva maakund</name>
+		<name normalized="Polvamaa" languages="Czech;Danish;Dutch;Esperanto;Finnish;Italian;Northern Sami;Polish;Portuguese">Põlvamaa</name>
+		<name normalized="Regiunea Polva" languages="Romanian">Regiunea Põlva</name>
+		<name normalized="Επαρχια Πολβα" languages="Greek">Επαρχία Πόλβα</name>
+		<name normalized="Pavit Pылva" languages="Belarusian">Павет Пылва</name>
+		<name normalized="Piлva" languages="Serbian">Пилва</name>
+		<name normalized="Piлvaмaa" languages="Ukrainian">Пилвамаа</name>
+		<name normalized="Pълva" languages="Bulgarian">Пълва</name>
+		<name normalized="Pылvaмaa" languages="Russian">Пылвамаа</name>
+		<name normalized="Pыльvaмaa" languages="biлaрuсkai (taрaskivita)‎">Пыльвамаа</name>
+		<name normalized="Pիlվաmաա" languages="Armenian">Պիլվամաա</name>
+		<name normalized="מhvז pידbh" languages="Hebrew">מחוז פילבה</name>
+		<name normalized="شhrسtאن pولوא" languages="Persian">شهرستان پولوا</name>
+		<name normalized="პილვამაა" languages="Georgian">პილვამაა</name>
+		<name normalized="prva県" languages="Japanese">ポルヴァ県</name>
+		<name normalized="珀爾瓦縣" languages="Chinese">珀爾瓦縣</name>
+		<name normalized="펄바 주" languages="Korean">펄바 주</name>
+	</region>
+	<region name="Raplamaa" type="county" typeTranslated="maakond">
+		<name normalized="Comtat de Rapla" languages="Catalan">Comtat de Rapla</name>
+		<name normalized="Comte de Rapla" languages="French">Comté de Rapla</name>
+		<name normalized="Condado de Rapla" languages="Galician;Spanish">Condado de Rapla</name>
+		<name normalized="County Rapla" languages="Indonesian;Malay">County Rapla</name>
+		<name normalized="Konteth Rapla" languages="Cornish">Konteth Rapla</name>
+		<name normalized="Kreis Rapla" languages="German">Kreis Rapla</name>
+		<name normalized="Okrug Raplamaa" languages="Croatian">Okrug Raplamaa</name>
+		<name normalized="Rapla Coonty" languages="Scots">Rapla Coonty</name>
+		<name normalized="Rapla County" languages="English;Simple English">Rapla County</name>
+		<name normalized="Rapla fylke" languages="Norwegian (bokmal)">Rapla fylke</name>
+		<name normalized="Rapla ili" languages="Turkish">Rapla ili</name>
+		<name normalized="Rapla lan" languages="Swedish">Rapla län</name>
+		<name normalized="Rapla maakond" languages="Estonian;Norwegian Nynorsk">Rapla maakond</name>
+		<name normalized="Rapla maakund" languages="Voro">Rapla maakund</name>
+		<name normalized="Raplamaa" languages="Azerbaijani;Czech;Danish;Dutch;English;Esperanto;Finnish;Italian;Northern Sami;official;Polish;Portuguese">Raplamaa</name>
+		<name normalized="Raplamaa County" languages="English;official">Raplamaa County</name>
+		<name normalized="Raplamaa Maakond" languages="English;official">Raplamaa Maakond</name>
+		<name normalized="Raplas aprinkis" languages="Latvian">Raplas apriņķis</name>
+		<name normalized="Raplos apskritis" languages="Lithuanian">Raplos apskritis</name>
+		<name normalized="Regiunea Rapla" languages="Romanian">Regiunea Rapla</name>
+		<name normalized="Επαρχια Ραπλα" languages="Greek">Επαρχία Ράπλα</name>
+		<name normalized="Pavit Рapлa" languages="Belarusian">Павет Рапла</name>
+		<name normalized="Рapлa" languages="Bulgarian;Serbian">Рапла</name>
+		<name normalized="Рapлaмaa" languages="Russian;Ukrainian">Рапламаа</name>
+		<name normalized="Rաplաmաա" languages="Armenian">Ռապլամաա</name>
+		<name normalized="מhvז rאpדh" languages="Hebrew">מחוז ראפלה</name>
+		<name normalized="شhrسtאن rpلא" languages="Persian">شهرستان رپلا</name>
+		<name normalized="რაპლამაა" languages="Georgian">რაპლამაა</name>
+		<name normalized="rpr県" languages="Japanese">ラプラ県</name>
+		<name normalized="拉普拉縣" languages="Chinese">拉普拉縣</name>
+		<name normalized="라플라 주" languages="Korean">라플라 주</name>
+	</region>
+	<region name="Saaremaa" type="county" typeTranslated="maakond">
+		<name normalized="Osilia" languages="Latin">Osilia</name>
+		<name normalized="Saaremaa" languages="Afrikaans;Albanian;Basque;Breton;Catalan;Croatian;Czech;Dutch;English;Esperanto;Estonian;French;German;Hungarian;Icelandic;Indonesian;Italian;Kalaallisut;Lower Sorbian;Northern Frisian;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Romanian;Seeltersk;Slovak;Spanish;Vietnamese;Western Frisian">Saaremaa</name>
+		<name normalized="Saaremaa County" languages="English;official">Saaremaa County</name>
+		<name normalized="Saaremaa Maakond" languages="English;official">Saaremaa Maakond</name>
+		<name normalized="Saarenmaa" languages="Finnish">Saarenmaa</name>
+		<name normalized="Saaromaa" languages="Voro">Saarõmaa</name>
+		<name normalized="Sarema" languages="Lithuanian;Polish">Sarema</name>
+		<name normalized="Samsala" languages="Latvian">Sāmsala</name>
+		<name normalized="Osel" languages="Low German;Swedish">Ösel</name>
+		<name normalized="Osel" languages="Danish">Øsel</name>
+		<name normalized="Σααρεμαα" languages="Greek">Σάαρεμαα</name>
+		<name normalized="Voсtрaў Сaaрeмaa" languages="Belarusian">Востраў Саарэмаа</name>
+		<name normalized="Сaaрiмaa" languages="Ossetic;Russian;Ukrainian">Сааремаа</name>
+		<name normalized="Сaaрeмaa" languages="biлaрuсkai (taрaskivita)‎">Саарэмаа</name>
+		<name normalized="Sաաrեmաա" languages="Armenian">Սաարեմաա</name>
+		<name normalized="סאrמאh" languages="Hebrew">סארמאה</name>
+		<name normalized="سאrmא" languages="Persian">سارما</name>
+		<name normalized="sাremা" languages="Bengali">সারেমা</name>
+		<name normalized="ซาเรมา" languages="Thai">ซาเรมา</name>
+		<name normalized="საარემაა" languages="Georgian">საარემაა</name>
+		<name normalized="sーrmー島" languages="Japanese">サーレマー島</name>
+		<name normalized="萨列马岛" languages="Chinese">萨列马岛</name>
+		<name normalized="사레마 섬" languages="Korean">사레마 섬</name>
+	</region>
+	<region name="Tartumaa" type="county" typeTranslated="maakond">
+		<name normalized="Comtat de Tartu" languages="Catalan">Comtat de Tartu</name>
+		<name normalized="Comte de Tartu" languages="French">Comté de Tartu</name>
+		<name normalized="Condado de Tartu" languages="Galician;Spanish">Condado de Tartu</name>
+		<name normalized="County Tartu" languages="Indonesian;Malay">County Tartu</name>
+		<name normalized="Konteth Tartu" languages="Cornish">Konteth Tartu</name>
+		<name normalized="Kreis Tartu" languages="German">Kreis Tartu</name>
+		<name normalized="Okrug Tartumaa" languages="Croatian">Okrug Tartumaa</name>
+		<name normalized="Regiunea Tartu" languages="Romanian">Regiunea Tartu</name>
+		<name normalized="Tarto maakund" languages="Voro">Tarto maakund</name>
+		<name normalized="Tartu" languages="Polish">Tartu</name>
+		<name normalized="Tartu aprinkis" languages="Latvian">Tartu apriņķis</name>
+		<name normalized="Tartu apskritis" languages="Lithuanian">Tartu apskritis</name>
+		<name normalized="Tartu Coonty" languages="Scots">Tartu Coonty</name>
+		<name normalized="Tartu County" languages="English">Tartu County</name>
+		<name normalized="Tartu fylke" languages="Norwegian (bokmal)">Tartu fylke</name>
+		<name normalized="Tartu ili" languages="Turkish">Tartu ili</name>
+		<name normalized="Tartu lan" languages="Swedish">Tartu län</name>
+		<name normalized="Tartu maakond" languages="Estonian;Norwegian Nynorsk">Tartu maakond</name>
+		<name normalized="Tartumaa" languages="Czech;Danish;Dutch;English;Esperanto;Finnish;Italian;Northern Sami;official;Portuguese">Tartumaa</name>
+		<name normalized="Tartumaa County" languages="English;official">Tartumaa County</name>
+		<name normalized="Tartumaa Maakond" languages="English;official">Tartumaa Maakond</name>
+		<name normalized="Tartumaa" languages="Azerbaijani">Tаrtumаа</name>
+		<name normalized="Επαρχια Ταρτου" languages="Greek">Επαρχία Τάρτου</name>
+		<name normalized="Pavit Taрtu" languages="Belarusian">Павет Тарту</name>
+		<name normalized="Taрtu" languages="Bulgarian;Serbian">Тарту</name>
+		<name normalized="Taрtuмaa" languages="Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Тартумаа</name>
+		<name normalized="Tաrtvymաա" languages="Armenian">Տարտումաա</name>
+		<name normalized="מhvז trtv" languages="Hebrew">מחוז טרטו</name>
+		<name normalized="شhrسtאن tאrtو" languages="Persian">شهرستان تارتو</name>
+		<name normalized="ტარტუმაა" languages="Georgian">ტარტუმაა</name>
+		<name normalized="trtu県" languages="Japanese">タルトゥ県</name>
+		<name normalized="塔爾圖縣" languages="Chinese">塔爾圖縣</name>
+		<name normalized="타르투 주" languages="Korean">타르투 주</name>
+	</region>
+	<region name="Valgamaa" type="county" typeTranslated="maakond">
+		<name normalized="Comtat de Valga" languages="Catalan">Comtat de Valga</name>
+		<name normalized="Comte de Valga" languages="French">Comté de Valga</name>
+		<name normalized="Condado de Valga" languages="Galician;Spanish">Condado de Valga</name>
+		<name normalized="County Valga" languages="Indonesian;Malay">County Valga</name>
+		<name normalized="Konteth Valga" languages="Cornish">Konteth Valga</name>
+		<name normalized="Kreis Valga" languages="German">Kreis Valga</name>
+		<name normalized="Okrug Valgamaa" languages="Croatian">Okrug Valgamaa</name>
+		<name normalized="Regiunea Valga" languages="Romanian">Regiunea Valga</name>
+		<name normalized="Valga Coonty" languages="Scots">Valga Coonty</name>
+		<name normalized="Valga County" languages="English">Valga County</name>
+		<name normalized="Valga fylke" languages="Norwegian (bokmal)">Valga fylke</name>
+		<name normalized="Valga ili" languages="Turkish">Valga ili</name>
+		<name normalized="Valga lan" languages="Swedish">Valga län</name>
+		<name normalized="Valga maakond" languages="Estonian;Norwegian Nynorsk">Valga maakond</name>
+		<name normalized="Valga maakund" languages="Voro">Valga maakund</name>
+		<name normalized="Valgamaa" languages="Czech;Danish;Dutch;English;Esperanto;Finnish;Italian;Northern Sami;official;Polish;Portuguese">Valgamaa</name>
+		<name normalized="Valgamaa County" languages="English;official">Valgamaa County</name>
+		<name normalized="Valgamaa Maakond" languages="English;official">Valgamaa Maakond</name>
+		<name normalized="Valgas aprinkis" languages="Latvian">Valgas apriņķis</name>
+		<name normalized="Valgos apskritis" languages="Lithuanian">Valgos apskritis</name>
+		<name normalized="Valqamaa" languages="Azerbaijani">Vаlqаmаа</name>
+		<name normalized="Επαρχια Βαλγκα" languages="Greek">Επαρχία Βάλγκα</name>
+		<name normalized="Vaлga" languages="Bulgarian;Serbian">Валга</name>
+		<name normalized="Vaлgaмaa" languages="Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Валгамаа</name>
+		<name normalized="Pavit Vaлga" languages="Belarusian">Павет Валга</name>
+		<name normalized="Վաlգաmաա" languages="Armenian">Վալգամաա</name>
+		<name normalized="מhvז vדגh" languages="Hebrew">מחוז ולגה</name>
+		<name normalized="شhrسtאن وאلgא" languages="Persian">شهرستان والگا</name>
+		<name normalized="ვალგამაა" languages="Georgian">ვალგამაა</name>
+		<name normalized="varg県" languages="Japanese">ヴァルガ県</name>
+		<name normalized="瓦爾加縣" languages="Chinese">瓦爾加縣</name>
+		<name normalized="발가 주" languages="Korean">발가 주</name>
+	</region>
+	<region name="Viljandimaa" type="county" typeTranslated="maakond">
+		<name normalized="Comtat de Viljandi" languages="Catalan">Comtat de Viljandi</name>
+		<name normalized="Comte de Viljandi" languages="French">Comté de Viljandi</name>
+		<name normalized="Condado de Viljandi" languages="Galician;Spanish">Condado de Viljandi</name>
+		<name normalized="County Viljandi" languages="Indonesian;Malay">County Viljandi</name>
+		<name normalized="Konteth Viljandi" languages="Cornish">Konteth Viljandi</name>
+		<name normalized="Kreis Viljandi" languages="German">Kreis Viljandi</name>
+		<name normalized="Okrug Viljandimaa" languages="Croatian">Okrug Viljandimaa</name>
+		<name normalized="Regiunea Viljandi" languages="Romanian">Regiunea Viljandi</name>
+		<name normalized="Viljandi aprinkis" languages="Latvian">Viljandi apriņķis</name>
+		<name normalized="Viljandi Coonty" languages="Scots">Viljandi Coonty</name>
+		<name normalized="Viljandi County" languages="English">Viljandi County</name>
+		<name normalized="Viljandi fylke" languages="Norwegian (bokmal)">Viljandi fylke</name>
+		<name normalized="Viljandi ili" languages="Turkish">Viljandi ili</name>
+		<name normalized="Viljandi lan" languages="Swedish">Viljandi län</name>
+		<name normalized="Viljandi maakond" languages="Estonian;Norwegian Nynorsk">Viljandi maakond</name>
+		<name normalized="Viljandimaa" languages="Czech;Danish;Dutch;English;Esperanto;Finnish;Italian;Northern Sami;official;Polish;Portuguese">Viljandimaa</name>
+		<name normalized="Viljandimaa County" languages="English;official">Viljandimaa County</name>
+		<name normalized="Viljandimaa Maakond" languages="English;official">Viljandimaa Maakond</name>
+		<name normalized="Viljandzio apskritis" languages="Lithuanian">Viljandžio apskritis</name>
+		<name normalized="Vilyandimaa" languages="Azerbaijani">Vilyandimаа</name>
+		<name normalized="Vilandi maakund" languages="Voro">Viländi maakund</name>
+		<name normalized="Επαρχια Βιλγιαντι" languages="Greek">Επαρχία Βιλγιάντι</name>
+		<name normalized="Viльiнdiмaa" languages="Russian">Вильяндимаа</name>
+		<name normalized="Viлiнdi" languages="Bulgarian">Вилянди</name>
+		<name normalized="Vilaнdi" languages="Serbian">Виљанди</name>
+		<name normalized="Viльiнdziмaa" languages="biлaрuсkai (taрaskivita)‎">Вільяндзімаа</name>
+		<name normalized="Viльiнdiмaa" languages="Ukrainian">Вільяндімаа</name>
+		<name normalized="Pavit Viльiнdzi" languages="Belarusian">Павет Вільяндзі</name>
+		<name normalized="Վիlյանdիmաա" languages="Armenian">Վիլյանդիմաա</name>
+		<name normalized="מhvז vידיאnדי" languages="Hebrew">מחוז ויליאנדי</name>
+		<name normalized="شhrسtאن ویلیאندی" languages="Persian">شهرستان ویلیاندی</name>
+		<name normalized="ვილიანდიმაა" languages="Georgian">ვილიანდიმაა</name>
+		<name normalized="viryndi県" languages="Japanese">ヴィリャンディ県</name>
+		<name normalized="維爾揚迪縣" languages="Chinese">維爾揚迪縣</name>
+		<name normalized="빌랸디 주" languages="Korean">빌랸디 주</name>
+	</region>
+	<region name="Vorumaa" type="county" typeTranslated="maakond">
+		<name normalized="Comtat de Voru" languages="Catalan">Comtat de Võru</name>
+		<name normalized="Comte de Voru" languages="French">Comté de Võru</name>
+		<name normalized="Condado de Voru" languages="Galician;Spanish">Condado de Võru</name>
+		<name normalized="County Voru" languages="Indonesian;Malay">County Võru</name>
+		<name normalized="Konteth Voru" languages="Cornish">Konteth Võru</name>
+		<name normalized="Kreis Voru" languages="German">Kreis Võru</name>
+		<name normalized="Okrug Vorumaa" languages="Croatian">Okrug Võrumaa</name>
+		<name normalized="Regiunea Voru" languages="Romanian">Regiunea Võru</name>
+		<name normalized="Veru aprinkis" languages="Latvian">Veru apriņķis</name>
+		<name normalized="Veru apskritis" languages="Lithuanian">Veru apskritis</name>
+		<name normalized="Vırumaa" languages="Azerbaijani">Vırumаа</name>
+		<name normalized="Vorumaa" languages="English;official">Vorumaa</name>
+		<name normalized="Vorumaa County" languages="English;official">Vorumaa County</name>
+		<name normalized="Vorumaa Maakond" languages="English;official">Vorumaa Maakond</name>
+		<name normalized="Voro maakund" languages="Voro">Võro maakund</name>
+		<name normalized="Voru Coonty" languages="Scots">Võru Coonty</name>
+		<name normalized="Voru County" languages="English">Võru County</name>
+		<name normalized="Voru fylke" languages="Norwegian (bokmal)">Võru fylke</name>
+		<name normalized="Voru ili" languages="Turkish">Võru ili</name>
+		<name normalized="Voru lan" languages="Swedish">Võru län</name>
+		<name normalized="Voru maakond" languages="Estonian;Norwegian Nynorsk">Võru maakond</name>
+		<name normalized="Vorumaa" languages="Alemannisch;Czech;Danish;Dutch;Esperanto;Finnish;Hungarian;Italian;Northern Sami;Polish;Portuguese">Võrumaa</name>
+		<name normalized="Επαρχια Βορου" languages="Greek">Επαρχία Βόρου</name>
+		<name normalized="Viрu" languages="Serbian">Виру</name>
+		<name normalized="Viрuмaa" languages="Ukrainian">Вирумаа</name>
+		<name normalized="Vърu" languages="Bulgarian">Въру</name>
+		<name normalized="Vырuмaa" languages="Russian;biлaрuсkai (taрaskivita)‎">Вырумаа</name>
+		<name normalized="Pavit Vырu" languages="Belarusian">Павет Выру</name>
+		<name normalized="Վիrvymաա" languages="Armenian">Վիրումաա</name>
+		<name normalized="מhvז vvrv" languages="Hebrew">מחוז וורו</name>
+		<name normalized="شhrسtאن ووrو" languages="Persian">شهرستان وورو</name>
+		<name normalized="ვირუმაა" languages="Georgian">ვირუმაა</name>
+		<name normalized="vor県" languages="Japanese">ヴォル県</name>
+		<name normalized="沃魯縣" languages="Chinese">沃魯縣</name>
+		<name normalized="버루 주" languages="Korean">버루 주</name>
+	</region>
+</regions>

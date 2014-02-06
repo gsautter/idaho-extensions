@@ -1,0 +1,427 @@
+<regions country="Dominican Republic">
+	<region name="Azua" type="province" typeTranslated="provincia">
+		<name normalized="Asua" languages="Lithuanian">Asua</name>
+		<name normalized="Azua" languages="Czech;Dutch;English;Finnish;French;German;official;Polish;Portuguese;Slovak;Spanish;Vietnamese;Waray">Azua</name>
+		<name normalized="Azua de Compostela" languages="French;Galician;Italian;Portuguese;Simple English;Spanish;Waray">Azua de Compostela</name>
+		<name normalized="Azua Province" languages="English;official;Simple English">Azua Province</name>
+		<name normalized="Azua Provincia" languages="English;official">Azua Provincia</name>
+		<name normalized="Provinca Azua" languages="Slovenian">Provinca Azua</name>
+		<name normalized="Provincia di Azua" languages="Italian">Provincia di Azua</name>
+		<name normalized="Azua" languages="Haitian;Swedish">Ázua</name>
+		<name normalized="Azua de Compostela" languages="Swedish">Ázua de Compostela</name>
+		<name normalized="Επαρχια Ασουα" languages="Greek">Επαρχία Άσουα</name>
+		<name normalized="Aсua" languages="Russian">Асуа</name>
+		<name normalized="Aсua di Koмpoсtiлa" languages="Bulgarian">Асуа де Компостела</name>
+		<name normalized="Aсua-di-Koмpoсtiлa" languages="Russian">Асуа-де-Компостела</name>
+		<name normalized="Viлoiti Azua" languages="Tajik">Вилояти Азуа</name>
+		<name normalized="阿蘇阿" languages="Chinese">阿蘇阿</name>
+		<name normalized="阿蘇阿省" languages="Chinese">阿蘇阿省</name>
+	</region>
+	<region name="Baoruco" type="province" typeTranslated="provincia">
+		<name normalized="Bahoruco" languages="Portuguese;Spanish">Bahoruco</name>
+		<name normalized="Baoruco" languages="Dutch;English;Finnish;French;German;Haitian;official;Swedish;Vietnamese;Waray">Baoruco</name>
+		<name normalized="Baoruco Province" languages="English;official;Simple English">Baoruco Province</name>
+		<name normalized="Baoruco Provincia" languages="English;official">Baoruco Provincia</name>
+		<name normalized="Provinca Baoruco" languages="Slovenian">Provinca Baoruco</name>
+		<name normalized="Provincia di Baoruco" languages="Italian">Provincia di Baoruco</name>
+		<name normalized="Viлoiti Baoрuko" languages="Tajik">Вилояти Баоруко</name>
+		<name normalized="巴奧魯可省" languages="Chinese">巴奧魯可省</name>
+	</region>
+	<region name="Barahona" type="province" typeTranslated="provincia">
+		<name normalized="Barahona" languages="Catalan;Dutch;English;Finnish;French;German;Haitian;Lithuanian;official;Polish;Portuguese;Spanish;Swedish;Vietnamese;Waray">Barahona</name>
+		<name normalized="Barahona Province" languages="English;official;Simple English">Barahona Province</name>
+		<name normalized="Barahona Provincia" languages="English;official">Barahona Provincia</name>
+		<name normalized="Provinca Barahona" languages="Slovenian">Provinca Barahona</name>
+		<name normalized="Provincia di Barahona" languages="Italian">Provincia di Barahona</name>
+		<name normalized="Santa Cruz de Barahona" languages="French;Italian;Simple English;Spanish;Swedish;Waray">Santa Cruz de Barahona</name>
+		<name normalized="Baрaoнa" languages="Russian">Бараона</name>
+		<name normalized="Viлoiti Baрahoнa" languages="Tajik">Вилояти Бараҳона</name>
+		<name normalized="巴拉奧納" languages="Chinese">巴拉奧納</name>
+		<name normalized="巴拉奧納省" languages="Chinese">巴拉奧納省</name>
+	</region>
+	<region name="Dajabon" type="province" typeTranslated="provincia">
+		<name normalized="Dajabon" languages="English;official">Dajabon</name>
+		<name normalized="Dajabon Province" languages="English;official">Dajabon Province</name>
+		<name normalized="Dajabon Provincia" languages="English;official">Dajabon Provincia</name>
+		<name normalized="Dajabon" languages="Dutch;English;Finnish;French;German;Haitian;Italian;Portuguese;Simple English;Spanish;Swedish;Vietnamese;Waray">Dajabón</name>
+		<name normalized="Dajabon Province" languages="English;Simple English">Dajabón Province</name>
+		<name normalized="Provinca Dajabon" languages="Slovenian">Provinca Dajabón</name>
+		<name normalized="Provincia di Dajabon" languages="Italian">Provincia di Dajabón</name>
+		<name normalized="Viлoiti Dacaboн" languages="Tajik">Вилояти Даҷабон</name>
+		<name normalized="Dakaboн" languages="Russian">Дахабон</name>
+		<name normalized="dhbn" languages="Japanese">ダハボン</name>
+		<name normalized="達哈翁" languages="Chinese">達哈翁</name>
+		<name normalized="達哈翁省" languages="Chinese">達哈翁省</name>
+	</region>
+	<region name="Distrito Nacional" type="district" typeTranslated="district">
+		<name normalized="Daerah Negara" languages="Malay">Daerah Negara</name>
+		<name normalized="Distrito Nacional" languages="Dutch;English;French;official;Portuguese;Simple English;Slovenian;Spanish;Turkish;Waray">Distrito Nacional</name>
+		<name normalized="Distrito Nacional District" languages="English;official">Distrito Nacional District</name>
+		<name normalized="國家特區" languages="Chinese">國家特區</name>
+	</region>
+	<region name="Duarte" type="province" typeTranslated="provincia">
+		<name normalized="Duarte" languages="Dutch;English;Finnish;French;German;Haitian;official;Portuguese;Spanish;Swedish;Vietnamese;Waray">Duarte</name>
+		<name normalized="Duarte Province" languages="English;official;Simple English">Duarte Province</name>
+		<name normalized="Duarte Provincia" languages="English;official">Duarte Provincia</name>
+		<name normalized="Provinca Duarte" languages="Slovenian">Provinca Duarte</name>
+		<name normalized="Provincia di Duarte" languages="Italian">Provincia di Duarte</name>
+		<name normalized="Viлoiti Duaрti" languages="Tajik">Вилояти Дуарте</name>
+		<name normalized="Duaрti" languages="Russian">Дуарте</name>
+		<name normalized="杜華德省" languages="Chinese">杜華德省</name>
+	</region>
+	<region name="El Seibo" type="province" typeTranslated="provincia">
+		<name normalized="El Seibo" languages="Dutch;English;Finnish;French;German;Haitian;official;Portuguese;Spanish;Swedish;Vietnamese;Waray">El Seibo</name>
+		<name normalized="El Seibo Province" languages="English;official;Simple English">El Seibo Province</name>
+		<name normalized="El Seibo Provincia" languages="English;official">El Seibo Provincia</name>
+		<name normalized="Provinca El Seibo" languages="Slovenian">Provinca El Seibo</name>
+		<name normalized="Provincia di El Seibo" languages="Italian">Provincia di El Seibo</name>
+		<name normalized="Viлoiti Eл Сiйbo" languages="Tajik">Вилояти Эл Сейбо</name>
+		<name normalized="賽堡省" languages="Chinese">賽堡省</name>
+	</region>
+	<region name="Elias Pina" type="province" typeTranslated="provincia">
+		<name normalized="Elias Pina" languages="English;official">Elias Pina</name>
+		<name normalized="Elias Pina Province" languages="English;official">Elias Pina Province</name>
+		<name normalized="Elias Pina Provincia" languages="English;official">Elias Pina Provincia</name>
+		<name normalized="Elias Pina" languages="Basque;Dutch;Finnish;French;German;Haitian;Portuguese;Spanish;Swedish;Vietnamese;Waray">Elías Piña</name>
+		<name normalized="Elias Pina Province" languages="English;Simple English">Elías Piña Province</name>
+		<name normalized="Provinca Elias Pina" languages="Slovenian">Provinca Elías Piña</name>
+		<name normalized="Provincia di Elias Pina" languages="Italian">Provincia di Elías Piña</name>
+		<name normalized="Viлoiti Eлiaс Piнi" languages="Tajik">Вилояти Элиас Пиня</name>
+		<name normalized="Eлiaс-Piньi" languages="Russian">Элиас-Пинья</name>
+		<name normalized="艾利斯皮亞省" languages="Chinese">艾利斯皮亞省</name>
+	</region>
+	<region name="Espaillat" type="province" typeTranslated="provincia">
+		<name normalized="Espaillat" languages="Dutch;English;Finnish;French;German;Haitian;official;Portuguese;Spanish;Swedish;Vietnamese;Waray">Espaillat</name>
+		<name normalized="Espaillat Province" languages="English;official;Simple English">Espaillat Province</name>
+		<name normalized="Espaillat Provincia" languages="English;official">Espaillat Provincia</name>
+		<name normalized="Provinca Espaillat" languages="Slovenian">Provinca Espaillat</name>
+		<name normalized="Provincia di Espaillat" languages="Italian">Provincia di Espaillat</name>
+		<name normalized="Viлoiti Eсpaiллat" languages="Tajik">Вилояти Эспаиллат</name>
+		<name normalized="艾斯派亞省" languages="Chinese">艾斯派亞省</name>
+	</region>
+	<region name="Hato Mayor" type="province" typeTranslated="provincia">
+		<name normalized="Hato Mayor" languages="Dutch;English;Finnish;French;German;Haitian;official;Portuguese;Spanish;Swedish;Vietnamese;Waray">Hato Mayor</name>
+		<name normalized="Hato Mayor Province" languages="English;official;Simple English">Hato Mayor Province</name>
+		<name normalized="Hato Mayor Provincia" languages="English;official">Hato Mayor Provincia</name>
+		<name normalized="Provinca Hato Mayor" languages="Slovenian">Provinca Hato Mayor</name>
+		<name normalized="Provincia di Hato Mayor" languages="Italian">Provincia di Hato Mayor</name>
+		<name normalized="Viлoiti Hato Мaёр" languages="Tajik">Вилояти Ҳато Маёр</name>
+		<name normalized="at・mzョーr州" languages="Japanese">アト・マジョール州</name>
+		<name normalized="阿托馬約省" languages="Chinese">阿托馬約省</name>
+	</region>
+	<region name="Hermanas Mirabal" type="province" typeTranslated="provincia">
+		<name normalized="Germanes Mirabal" languages="Catalan">Germanes Mirabal</name>
+		<name normalized="Hermanas Mirabal" languages="Dutch;English;French;German;official;Portuguese;Spanish;Swedish;Vietnamese;Waray">Hermanas Mirabal</name>
+		<name normalized="Hermanas Mirabal Province" languages="English;official;Simple English">Hermanas Mirabal Province</name>
+		<name normalized="Hermanas Mirabal Provincia" languages="English;official">Hermanas Mirabal Provincia</name>
+		<name normalized="Irmas Mirabal" languages="Portuguese">Irmãs Mirabal</name>
+		<name normalized="Mirabal ahizpak" languages="Basque">Mirabal ahizpak</name>
+		<name normalized="Mirabal sisters" languages="English">Mirabal sisters</name>
+		<name normalized="Provinca Hermanas Mirabal" languages="Slovenian">Provinca Hermanas Mirabal</name>
+		<name normalized="Provincia di Hermanas Mirabal" languages="Italian">Provincia di Hermanas Mirabal</name>
+		<name normalized="Salcedo" languages="Haitian">Salcedo</name>
+		<name normalized="Schwestern Mirabal" languages="German">Schwestern Mirabal</name>
+		<name normalized="Sestre Mirabal" languages="Croatian">Sestre Mirabal</name>
+		<name normalized="Siostry Mirabal" languages="Polish">Siostry Mirabal</name>
+		<name normalized="Sorelle Mirabal" languages="Italian">Sorelle Mirabal</name>
+		<name normalized="Soeurs Mirabal" languages="French">Sœurs Mirabal</name>
+		<name normalized="Zusters Mirabal" languages="Dutch">Zusters Mirabal</name>
+		<name normalized="Αδελφeς Μιραμπαλ" languages="Greek">Αδελφές Μιραμπάλ</name>
+		<name normalized="Viлoiti Сaлcido" languages="Tajik">Вилояти Салчедо</name>
+		<name normalized="Сёсtры Мiрabaль" languages="Russian">Сёстры Мирабаль</name>
+		<name normalized="خوאhrאن mیrאbאل" languages="Persian">خواهران میرابال</name>
+		<name normalized="mrbr姉妹" languages="Japanese">ミラバル姉妹</name>
+		<name normalized="米拉貝姐妹省" languages="Chinese">米拉貝姐妹省</name>
+	</region>
+	<region name="Independencia" type="province" typeTranslated="provincia">
+		<name normalized="Independencia" languages="Dutch;English;Esperanto;French;German;Haitian;Italian;Norwegian (bokmal);official;Portuguese;Scots;Spanish;Swedish;Vietnamese;Waray">Independencia</name>
+		<name normalized="Independencia Province" languages="English;official;Simple English">Independencia Province</name>
+		<name normalized="Independencia Provincia" languages="English;official">Independencia Provincia</name>
+		<name normalized="Provinca Independencia" languages="Slovenian">Provinca Independencia</name>
+		<name normalized="Provincia di Independencia" languages="Italian">Provincia di Independencia</name>
+		<name normalized="Iнdipiнdiнсii" languages="Russian">Индепенденсия</name>
+		<name normalized="獨立省" languages="Chinese">獨立省</name>
+	</region>
+	<region name="La Altagracia" type="province" typeTranslated="provincia">
+		<name normalized="La Altagracia" languages="Dutch;English;French;German;Haitian;official;Portuguese;Spanish;Swedish;Vietnamese;Waray">La Altagracia</name>
+		<name normalized="La Altagracia Province" languages="English;official;Simple English">La Altagracia Province</name>
+		<name normalized="La Altagracia Provincia" languages="English;official">La Altagracia Provincia</name>
+		<name normalized="Provinca La Altagracia" languages="Slovenian">Provinca La Altagracia</name>
+		<name normalized="Provincia di La Altagracia" languages="Italian">Provincia di La Altagracia</name>
+		<name normalized="Viлoiti Лa Aлtagрacia" languages="Tajik">Вилояти Ла Алтаграчиа</name>
+		<name normalized="Лa-Aльtagрaсii" languages="Russian">Ла-Альтаграсия</name>
+		<name normalized="聖母省" languages="Chinese">聖母省</name>
+	</region>
+	<region name="La Romana" type="province" typeTranslated="provincia">
+		<name normalized="La Romana" languages="Croatian;Dutch;English;French;German;Haitian;Italian;Lithuanian;official;Polish;Portuguese;Simple English;Spanish;Swedish;Vietnamese;Waray">La Romana</name>
+		<name normalized="La Romana Province" languages="English;official;Simple English">La Romana Province</name>
+		<name normalized="La Romana Provincia" languages="English;official">La Romana Provincia</name>
+		<name normalized="Provinca La Romana" languages="Slovenian">Provinca La Romana</name>
+		<name normalized="Provincia di La Romana" languages="Italian">Provincia di La Romana</name>
+		<name normalized="Λα Ρομανα" languages="Greek">Λα Ρομάνα</name>
+		<name normalized="Viлoiti Лa Рoмaнa" languages="Tajik">Вилояти Ла Романа</name>
+		<name normalized="Лa-Рoмaнa" languages="Russian">Ла-Романа</name>
+		<name normalized="r・rmーn" languages="Japanese">ラ・ロマーナ</name>
+		<name normalized="羅馬納" languages="Chinese">羅馬納</name>
+		<name normalized="羅馬納省" languages="Chinese">羅馬納省</name>
+	</region>
+	<region name="La Vega" type="province" typeTranslated="provincia">
+		<name normalized="Concepcion de La Vega" languages="Dutch;French;German;Italian;Nahuatl;Polish;Simple English;Spanish;Swedish;Waray">Concepción de La Vega</name>
+		<name normalized="La Vega" languages="Catalan;Dutch;English;French;German;Haitian;Lithuanian;official;Portuguese;Spanish;Swedish;Vietnamese;Waray">La Vega</name>
+		<name normalized="La Vega Province" languages="English;official;Simple English">La Vega Province</name>
+		<name normalized="La Vega Provincia" languages="English;official">La Vega Provincia</name>
+		<name normalized="Provinca La Vega" languages="Slovenian">Provinca La Vega</name>
+		<name normalized="Provincia di La Vega" languages="Italian">Provincia di La Vega</name>
+		<name normalized="Κονσεπσιον δε Λα Βeγα" languages="Greek">Κονσεπσιόν δε Λα Βέγα</name>
+		<name normalized="Λα Βeγα" languages="Greek">Λα Βέγα</name>
+		<name normalized="Viлoiti Лa Viga" languages="Tajik">Вилояти Ла Вега</name>
+		<name normalized="Koнсipсьйoн-di-лa-Viga" languages="Ukrainian">Консепсьйон-де-ла-Вега</name>
+		<name normalized="knspson・d・r・bg" languages="Japanese">コンセプシオン・デ・ラ・ベガ</name>
+		<name normalized="拉維加" languages="Chinese">拉維加</name>
+		<name normalized="拉維加省" languages="Chinese">拉維加省</name>
+	</region>
+	<region name="Maria Trinidad Sanchez" type="province" typeTranslated="provincia">
+		<name normalized="Maria Trinidad Sanchez" languages="English;official">Maria Trinidad Sanchez</name>
+		<name normalized="Maria Trinidad Sanchez Province" languages="English;official">Maria Trinidad Sanchez Province</name>
+		<name normalized="Maria Trinidad Sanchez Provincia" languages="English;official">Maria Trinidad Sanchez Provincia</name>
+		<name normalized="Maria Trinidad Sanchez" languages="Dutch;French;German;Haitian;Portuguese;Spanish;Swedish;Vietnamese;Waray">María Trinidad Sánchez</name>
+		<name normalized="Maria Trinidad Sanchez Province" languages="English;Simple English">María Trinidad Sánchez Province</name>
+		<name normalized="Provinca Maria Trinidad Sanchez" languages="Slovenian">Provinca María Trinidad Sánchez</name>
+		<name normalized="Provincia di Maria Trinidad Sanchez" languages="Italian">Provincia di María Trinidad Sánchez</name>
+		<name normalized="Viлoiti Мaрia Tрiнidad Сaнciz" languages="Tajik">Вилояти Мариа Тринидад Санчез</name>
+		<name normalized="瑪麗亞.桑其斯省" languages="Chinese">瑪麗亞·桑其斯省</name>
+	</region>
+	<region name="Monsenor Nouel" type="province" typeTranslated="provincia">
+		<name normalized="Monsenor Nouel" languages="English;official">Monsenor Nouel</name>
+		<name normalized="Monsenor Nouel Province" languages="English;official">Monsenor Nouel Province</name>
+		<name normalized="Monsenor Nouel Provincia" languages="English;official">Monsenor Nouel Provincia</name>
+		<name normalized="Monsenor Nouel" languages="Dutch;French;German;Haitian;Portuguese;Spanish;Swedish;Vietnamese;Waray">Monseñor Nouel</name>
+		<name normalized="Monsenor Nouel Province" languages="English;Simple English">Monseñor Nouel Province</name>
+		<name normalized="Provinca Monsenor Nouel" languages="Slovenian">Provinca Monseñor Nouel</name>
+		<name normalized="Provincia di Monsenor Nouel" languages="Italian">Provincia di Monseñor Nouel</name>
+		<name normalized="Viлoiti Мoнсiнёр Нouiл" languages="Tajik">Вилояти Монсенёр Ноуел</name>
+		<name normalized="主教.瑙黎省" languages="Chinese">主教·瑙黎省</name>
+	</region>
+	<region name="Monte Cristi" type="province" typeTranslated="provincia">
+		<name normalized="Monte Cristi" languages="Dutch;English;French;German;official;Portuguese;Swedish;Vietnamese;Waray">Monte Cristi</name>
+		<name normalized="Monte Cristi Province" languages="English;official;Simple English">Monte Cristi Province</name>
+		<name normalized="Monte Cristi Provincia" languages="English;official">Monte Cristi Provincia</name>
+		<name normalized="Montecristi" languages="Spanish">Montecristi</name>
+		<name normalized="Provinca Monte Cristi" languages="Slovenian">Provinca Monte Cristi</name>
+		<name normalized="Provincia di Montecristi" languages="Italian">Provincia di Montecristi</name>
+		<name normalized="Μοντε Κριστι" languages="Greek">Μόντε Κρίστι</name>
+		<name normalized="Viлoiti Мoнti Kрiсti" languages="Tajik">Вилояти Монте Кристи</name>
+		<name normalized="基度山省" languages="Chinese">基度山省</name>
+	</region>
+	<region name="Monte Plata" type="province" typeTranslated="provincia">
+		<name normalized="Monte Plata" languages="Dutch;English;French;German;Haitian;Italian;official;Portuguese;Simple English;Spanish;Swedish;Vietnamese;Waray">Monte Plata</name>
+		<name normalized="Monte Plata Province" languages="English;official;Simple English">Monte Plata Province</name>
+		<name normalized="Monte Plata Provincia" languages="English;official">Monte Plata Provincia</name>
+		<name normalized="Provinca Monte Plata" languages="Slovenian">Provinca Monte Plata</name>
+		<name normalized="Provincia di Monte Plata" languages="Italian">Provincia di Monte Plata</name>
+		<name normalized="Μοντε Πλατα" languages="Greek">Μόντε Πλάτα</name>
+		<name normalized="Viлoiti Мoнti Pлata" languages="Tajik">Вилояти Монте Плата</name>
+		<name normalized="Мoнti-Pлata" languages="Russian">Монте-Плата</name>
+		<name normalized="蒙特普拉塔" languages="Chinese">蒙特普拉塔</name>
+		<name normalized="銀山省" languages="Chinese">銀山省</name>
+	</region>
+	<region name="Pedernales" type="province" typeTranslated="provincia">
+		<name normalized="Pedernales" languages="Dutch;English;French;German;Haitian;Italian;official;Portuguese;Simple English;Spanish;Swedish;Vietnamese;Waray">Pedernales</name>
+		<name normalized="Pedernales Province" languages="English;official;Simple English">Pedernales Province</name>
+		<name normalized="Pedernales Provincia" languages="English;official">Pedernales Provincia</name>
+		<name normalized="Provinca Pedernales" languages="Slovenian">Provinca Pedernales</name>
+		<name normalized="Provincia di Pedernales" languages="Italian">Provincia di Pedernales</name>
+		<name normalized="Viлoiti Pidiрнaлiс" languages="Tajik">Вилояти Педерналес</name>
+		<name normalized="佩德納萊斯" languages="Chinese">佩德納萊斯</name>
+		<name normalized="佩德納萊斯省" languages="Chinese">佩德納萊斯省</name>
+	</region>
+	<region name="Peravia" type="province" typeTranslated="provincia">
+		<name normalized="Peravia" languages="Dutch;English;French;German;Haitian;official;Portuguese;Spanish;Swedish;Vietnamese;Waray">Peravia</name>
+		<name normalized="Peravia Province" languages="English;official;Simple English">Peravia Province</name>
+		<name normalized="Peravia Provincia" languages="English;official">Peravia Provincia</name>
+		<name normalized="Provinca Peravia" languages="Slovenian">Provinca Peravia</name>
+		<name normalized="Provincia di Peravia" languages="Italian">Provincia di Peravia</name>
+		<name normalized="Περαβια" languages="Greek">Περαβία</name>
+		<name normalized="Viлoiti Piрavia" languages="Tajik">Вилояти Перавиа</name>
+		<name normalized="佩拉維亞省" languages="Chinese">佩拉維亞省</name>
+		<name normalized="페라비아 주" languages="Korean">페라비아 주</name>
+	</region>
+	<region name="Puerto Plata" type="province" typeTranslated="provincia">
+		<name normalized="Provinca Puerto Plata" languages="Slovenian">Provinca Puerto Plata</name>
+		<name normalized="Provincia di Puerto Plata" languages="Italian">Provincia di Puerto Plata</name>
+		<name normalized="Puerto Plata" languages="Catalan;Czech;Dutch;English;Estonian;Finnish;French;German;Haitian;Lithuanian;official;Polish;Portuguese;Spanish;Waray">Puerto Plata</name>
+		<name normalized="Puerto Plata Province" languages="English;official;Simple English">Puerto Plata Province</name>
+		<name normalized="Puerto Plata Provincia" languages="English;official">Puerto Plata Provincia</name>
+		<name normalized="San Felipe de Puerto Plata" languages="Italian;Simple English;Slovak;Slovenian;Spanish;Turkish;Waray">San Felipe de Puerto Plata</name>
+		<name normalized="Πουeρτο Πλατα" languages="Greek">Πουέρτο Πλάτα</name>
+		<name normalized="Viлoiti Pueрto Pлata" languages="Tajik">Вилояти Пуэрто Плата</name>
+		<name normalized="Сaн-Фiлipi-di-Puiрto-Pлata" languages="Ukrainian">Сан-Феліпе-де-Пуерто-Плата</name>
+		<name normalized="pvאrtv pדth" languages="Hebrew">פוארטו פלטה</name>
+		<name normalized="pert・prt" languages="Japanese">プエルト・プラタ</name>
+		<name normalized="聖斐利-銀港" languages="Chinese">聖斐利-銀港</name>
+		<name normalized="銀港省" languages="Chinese">銀港省</name>
+	</region>
+	<region name="Samana" type="province" typeTranslated="provincia">
+		<name normalized="Provinca Samana" languages="Slovenian">Provinca Samaná</name>
+		<name normalized="Provincia di Samana" languages="Italian">Provincia di Samaná</name>
+		<name normalized="Samana" languages="English;Lithuanian;official">Samana</name>
+		<name normalized="Samana Province" languages="English;official">Samana Province</name>
+		<name normalized="Samana Provincia" languages="English;official">Samana Provincia</name>
+		<name normalized="Samana" languages="Dutch;English;French;German;Haitian;Italian;Portuguese;Spanish;Swedish;Vietnamese;Waray">Samaná</name>
+		<name normalized="Samana Province" languages="English;Simple English">Samaná Province</name>
+		<name normalized="Santa Barbara de Samana" languages="Dutch;French;Simple English;Spanish;Swedish;Waray">Santa Bárbara de Samaná</name>
+		<name normalized="Σαμανα" languages="Greek">Σαμανά</name>
+		<name normalized="Viлoiti Сaмaнa" languages="Tajik">Вилояти Самана</name>
+		<name normalized="Сaмaнa" languages="Russian">Самана</name>
+		<name normalized="山美納省" languages="Chinese">山美納省</name>
+		<name normalized="聖塔芭芭拉-山美納" languages="Chinese">聖塔芭芭拉-山美納</name>
+	</region>
+	<region name="San Cristobal" type="province" typeTranslated="provincia">
+		<name normalized="Provinca San Cristobal" languages="Slovenian">Provinca San Cristóbal</name>
+		<name normalized="Provincia di San Cristobal" languages="Italian">Provincia di San Cristóbal</name>
+		<name normalized="San Cristobal" languages="English;official">San Cristobal</name>
+		<name normalized="San Cristobal Province" languages="English;official">San Cristobal Province</name>
+		<name normalized="San Cristobal Provincia" languages="English;official">San Cristobal Provincia</name>
+		<name normalized="San Cristobal" languages="Dutch;English;French;German;Haitian;Italian;Polish;Portuguese;Simple English;Spanish;Swedish;Vietnamese;Waray">San Cristóbal</name>
+		<name normalized="San Cristobal Province" languages="English;Simple English">San Cristóbal Province</name>
+		<name normalized="San Kristobalis" languages="Lithuanian">San Kristobalis</name>
+		<name normalized="Viлoiti Сaн Kрiсtobaл" languages="Tajik">Вилояти Сан Кристобал</name>
+		<name normalized="Сaн Kрiсtobaл" languages="Serbian">Сан Кристобал</name>
+		<name normalized="sn・krstbr" languages="Japanese">サン・クリストバル</name>
+		<name normalized="聖克里斯多堡省" languages="Chinese">聖克里斯多堡省</name>
+		<name normalized="聖克里斯托瓦爾" languages="Chinese">聖克里斯托瓦爾</name>
+		<name normalized="산크리스토발" languages="Korean">산크리스토발</name>
+	</region>
+	<region name="San Jose de Ocoa" type="province" typeTranslated="provincia">
+		<name normalized="Provinca San Jose de Ocoa" languages="Slovenian">Provinca San José de Ocoa</name>
+		<name normalized="Provincia di San Jose de Ocoa" languages="Italian">Provincia di San José de Ocoa</name>
+		<name normalized="San Jose de Ocoa" languages="English;official">San Jose de Ocoa</name>
+		<name normalized="San Jose de Ocoa Province" languages="English;official">San Jose de Ocoa Province</name>
+		<name normalized="San Jose de Ocoa Provincia" languages="English;official">San Jose de Ocoa Provincia</name>
+		<name normalized="San Jose de Ocoa" languages="Dutch;English;French;German;Haitian;Italian;Portuguese;Simple English;Spanish;Swedish;Vietnamese;Waray">San José de Ocoa</name>
+		<name normalized="San Jose de Ocoa Province" languages="English;Simple English">San José de Ocoa Province</name>
+		<name normalized="Viлoiti Сaн Koсi di Okoa" languages="Tajik">Вилояти Сан Хосе де Окоа</name>
+		<name normalized="奧科阿河畔聖何塞" languages="Chinese">奧科阿河畔聖何塞</name>
+		<name normalized="聖荷西省" languages="Chinese">聖荷西省</name>
+	</region>
+	<region name="San Juan" type="province" typeTranslated="provincia">
+		<name normalized="Provinca San Juan" languages="Slovenian">Provinca San Juan</name>
+		<name normalized="Provincia di San Juan" languages="Italian">Provincia di San Juan</name>
+		<name normalized="San Juan" languages="Dutch;English;French;German;Haitian;official;Portuguese;Spanish;Swedish;Vietnamese;Waray">San Juan</name>
+		<name normalized="San Juan de la Maguana" languages="English;Italian;Polish;Simple English;Slovenian;Spanish;Waray">San Juan de la Maguana</name>
+		<name normalized="San Juan Province" languages="English;official;Simple English">San Juan Province</name>
+		<name normalized="San Juan Provincia" languages="English;official">San Juan Provincia</name>
+		<name normalized="Viлoiti Сaн Kuaн" languages="Tajik">Вилояти Сан Хуан</name>
+		<name normalized="聖胡安德拉馬瓜納" languages="Chinese">聖胡安德拉馬瓜納</name>
+		<name normalized="聖胡安省" languages="Chinese">聖胡安省</name>
+	</region>
+	<region name="San Pedro de Macoris" type="province" typeTranslated="provincia">
+		<name normalized="Provinca San Pedro de Macoris" languages="Slovenian">Provinca San Pedro de Macorís</name>
+		<name normalized="Provincia di San Pedro de Macoris" languages="Italian">Provincia di San Pedro de Macorís</name>
+		<name normalized="San Pedro de Macoris" languages="English;official">San Pedro de Macoris</name>
+		<name normalized="San Pedro de Macoris Province" languages="English;official">San Pedro de Macoris Province</name>
+		<name normalized="San Pedro de Macoris Provincia" languages="English;official">San Pedro de Macoris Provincia</name>
+		<name normalized="San Pedro de Macoris" languages="Croatian;Dutch;English;French;German;Haitian;Italian;Polish;Portuguese;Romanian;Simple English;Spanish;Swedish;Vietnamese;Waray">San Pedro de Macorís</name>
+		<name normalized="San Pedro de Macoris Province" languages="English;Simple English">San Pedro de Macorís Province</name>
+		<name normalized="San Pedro de Makorisas" languages="Lithuanian">San Pedro de Makorisas</name>
+		<name normalized="Viлoiti Сaн Pidрo di Мakoрiс" languages="Tajik">Вилояти Сан Педро де Макорис</name>
+		<name normalized="snpdr・d・mkrs" languages="Japanese">サンペドロ・デ・マコリス</name>
+		<name normalized="聖佩德羅-德馬科里斯" languages="Chinese">聖佩德羅-德馬科里斯</name>
+		<name normalized="聖彼德省" languages="Chinese">聖彼德省</name>
+	</region>
+	<region name="Sanchez Ramirez" type="province" typeTranslated="provincia">
+		<name normalized="Provinca Sanchez Ramirez" languages="Slovenian">Provinca Sánchez Ramírez</name>
+		<name normalized="Provincia di Sanchez Ramirez" languages="Italian">Provincia di Sánchez Ramírez</name>
+		<name normalized="Sanchez Ramirez" languages="English;official">Sanchez Ramirez</name>
+		<name normalized="Sanchez Ramirez Province" languages="English;official">Sanchez Ramirez Province</name>
+		<name normalized="Sanchez Ramirez Provincia" languages="English;official">Sanchez Ramirez Provincia</name>
+		<name normalized="Sanchez Ramirez" languages="Dutch;French;Haitian;Portuguese;Spanish;Swedish;Vietnamese;Waray">Sánchez Ramírez</name>
+		<name normalized="Sanchez Ramirez Province" languages="English;Simple English">Sánchez Ramírez Province</name>
+		<name normalized="Viлoiti Сaнciz Рaмiрiz" languages="Tajik">Вилояти Санчез Рамирез</name>
+		<name normalized="桑切斯.拉米斯省" languages="Chinese">桑切斯·拉米斯省</name>
+	</region>
+	<region name="Santiago" type="province" typeTranslated="provincia">
+		<name normalized="Provinca Santiago" languages="Slovenian">Provinca Santiago</name>
+		<name normalized="Provincia di Santiago" languages="Italian">Provincia di Santiago</name>
+		<name normalized="Santiago" languages="Dutch;English;French;official;Portuguese;Spanish;Swedish;Vietnamese">Santiago</name>
+		<name normalized="Santiago de los Caballeros" languages="Croatian;Dutch;English;Esperanto;Estonian;French;German;Indonesian;Irish;Italian;Nahuatl;Norwegian (bokmal);Polish;Portuguese;Romanian;Simple English;Spanish;Swedish;Turkish;Waray">Santiago de los Caballeros</name>
+		<name normalized="Santiago Province" languages="English;official;Simple English">Santiago Province</name>
+		<name normalized="Santiago Provincia" languages="English;official">Santiago Provincia</name>
+		<name normalized="Santjago de los Kabaljerosas" languages="Lithuanian">Santjago de los Kabaljerosas</name>
+		<name normalized="Σαντιαγο" languages="Greek">Σαντιάγο</name>
+		<name normalized="Σαντιαγο δε λος Καμπαγιeρος" languages="Greek">Σαντιάγο δε λος Καμπαγιέρος</name>
+		<name normalized="Viлoiti Сaнtiago" languages="Tajik">Вилояти Сантиаго</name>
+		<name normalized="Сaнtьigo" languages="Russian">Сантьяго</name>
+		<name normalized="Сaнtьigo-di-лoс-Tрiйнta-Kabaльiрoс" languages="Russian">Сантьяго-де-лос-Трейнта-Кабальерос</name>
+		<name normalized="sntiag・d・rs・kbrers" languages="Japanese">サンティアゴ・デ・ロス・カバリェロス</name>
+		<name normalized="聖地牙哥" languages="Chinese">聖地牙哥</name>
+		<name normalized="聖地牙哥省" languages="Chinese">聖地牙哥省</name>
+		<name normalized="산티아고데로스카바예로스" languages="Korean">산티아고데로스카바예로스</name>
+	</region>
+	<region name="Santiago Rodriguez" type="province" typeTranslated="provincia">
+		<name normalized="Provinca Santiago Rodriguez" languages="Slovenian">Provinca Santiago Rodríguez</name>
+		<name normalized="Provincia di Santiago Rodriguez" languages="Italian">Provincia di Santiago Rodríguez</name>
+		<name normalized="Santiago Rodriguez" languages="English;official">Santiago Rodriguez</name>
+		<name normalized="Santiago Rodriguez Province" languages="English;official">Santiago Rodriguez Province</name>
+		<name normalized="Santiago Rodriguez Provincia" languages="English;official">Santiago Rodriguez Provincia</name>
+		<name normalized="Santiago Rodriguez" languages="Dutch;English;French;Haitian;Portuguese;Spanish;Swedish;Vietnamese;Waray">Santiago Rodríguez</name>
+		<name normalized="Santiago Rodriguez Province" languages="English;Simple English">Santiago Rodríguez Province</name>
+		<name normalized="Viлoiti Сaнtiago Рodрigiz" languages="Tajik">Вилояти Сантиаго Родригез</name>
+		<name normalized="聖地亞哥-羅里蓋茲省" languages="Chinese">聖地亞哥-羅里蓋茲省</name>
+	</region>
+	<region name="Santo Domingo" type="province" typeTranslated="provincia">
+		<name normalized="Dominicopolis" languages="Latin">Dominicopolis</name>
+		<name normalized="Provinca Santo Domingo" languages="Slovenian">Provinca Santo Domingo</name>
+		<name normalized="Provincia di Santo Domingo" languages="Italian">Provincia di Santo Domingo</name>
+		<name normalized="Saint-Domingue" languages="French">Saint-Domingue</name>
+		<name normalized="Sankta Domingo" languages="Esperanto">Sankta Domingo</name>
+		<name normalized="Sant Domingo" languages="Occitan">Sant Domingo</name>
+		<name normalized="Santo Domingas" languages="Lithuanian">Santo Domingas</name>
+		<name normalized="Santo Domingo" languages="Afrikaans;Aymara;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Dutch;English;Estonian;Faroese;Fiji Hindi;Finnish;French;Galician;German;Haitian;Hungarian;Ido;Iloko;Indonesian;Irish;Italian;Ligure;lumbaart;Malay;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Papiamento;Piedmontese;Polish;Portuguese;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Slovak;Slovenian;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh;Western Frisian;Yoruba">Santo Domingo</name>
+		<name normalized="Santo Domingo de Guzman" languages="Waray">Santo Domingo de Guzmán</name>
+		<name normalized="Santo Domingo llaqta" languages="Quechua">Santo Domingo llaqta</name>
+		<name normalized="Santo Domingo Province" languages="English;official;Simple English">Santo Domingo Province</name>
+		<name normalized="Santo Domingo Provincia" languages="English;official">Santo Domingo Provincia</name>
+		<name normalized="Santo-Dominqo" languages="Azerbaijani">Santo-Dominqo</name>
+		<name normalized="Santodomingo" languages="Latvian">Santodomingo</name>
+		<name normalized="Santo Domingo" languages="Icelandic">Santó Dómingó</name>
+		<name normalized="Sen Domeng" languages="Haitian">Sen Domeng</name>
+		<name normalized="Σαντο Ντομιγκο" languages="Greek">Σάντο Ντομίγκο</name>
+		<name normalized="Viлoiti Сaнto Doмiнgo" languages="Tajik">Вилояти Санто Доминго</name>
+		<name normalized="Goрad Сaнta-Daмiнga" languages="Belarusian">Горад Санта-Дамінга</name>
+		<name normalized="Сaнta-Daмiнga" languages="biлaрuсkai (taрaskivita)‎">Санта-Дамінга</name>
+		<name normalized="Сaнto Doмiнgo" languages="Bulgarian;Macedonian;Sakha;Serbian">Санто Доминго</name>
+		<name normalized="Сaнto-Doмiнgo" languages="Chechen;Ossetic;Russian">Санто-Доминго</name>
+		<name normalized="Сaнto-Doмiнgo" languages="Ukrainian">Санто-Домінго</name>
+		<name normalized="Sանtv Dvmինգv" languages="Armenian">Սանտո Դոմինգո</name>
+		<name normalized="סntv דvמיnגv" languages="Hebrew">סנטו דומינגו</name>
+		<name normalized="سאنtو دوmنgو" languages="Urdu">سانتو دومنگو</name>
+		<name normalized="سאنtو دوmyنjو" languages="Arabic">سانتو دومينجو</name>
+		<name normalized="سאنtو دوmینgو" languages="Persian">سانتو دومینگو</name>
+		<name normalized="sांto domiंgo" languages="Marathi">सांतो दॉमिंगो</name>
+		<name normalized="seंटo डomiंgo" languages="Hindi">सेंटो डोमिंगो</name>
+		<name normalized="sਾਂtੋ dੋmiੰgੋ" languages="Punjabi">ਸਾਂਤੋ ਦੋਮਿੰਗੋ</name>
+		<name normalized="ซันโตโดมิงโก" languages="Thai">ซันโตโดมิงโก</name>
+		<name normalized="སཱན་ཏོ་ཌོ་མིང་གོ" languages="Tibetan">སཱན་ཏོ་ཌོ་མིང་གོ</name>
+		<name normalized="სანტო-დომინგო" languages="Georgian">სანტო-დომინგო</name>
+		<name normalized="ሳንቶ ዶሚንጎ" languages="Amharic">ሳንቶ ዶሚንጎ</name>
+		<name normalized="sntdmng" languages="Japanese">サントドミンゴ</name>
+		<name normalized="聖多明哥" languages="Chinese">聖多明哥</name>
+		<name normalized="聖多明哥省" languages="Chinese">聖多明哥省</name>
+		<name normalized="산토도밍고" languages="Korean">산토도밍고</name>
+	</region>
+	<region name="Valverde" type="province" typeTranslated="provincia">
+		<name normalized="Provinca Valverde" languages="Slovenian">Provinca Valverde</name>
+		<name normalized="Provincia di Valverde" languages="Italian">Provincia di Valverde</name>
+		<name normalized="Valverde" languages="Aragonese;Basque;Catalan;Dutch;English;Esperanto;French;Galician;German;Haitian;Italian;lumbaart;Neapolitan;Norwegian (bokmal);Occitan;official;Piedmontese;Polish;Portuguese;Spanish;Swedish;Vietnamese;Waray">Valverde</name>
+		<name normalized="Valverde Province" languages="English;official;Simple English">Valverde Province</name>
+		<name normalized="Valverde Provincia" languages="English;official">Valverde Provincia</name>
+		<name normalized="Βαλβeρδε" languages="Greek">Βαλβέρδε</name>
+		<name normalized="Vaлviрdi" languages="Russian">Валверде</name>
+		<name normalized="Vaльviрdi" languages="Ukrainian">Вальверде</name>
+		<name normalized="Vaльviрde" languages="Belarusian">Вальвердэ</name>
+		<name normalized="Viлoiti Vaлviрdi" languages="Tajik">Вилояти Валверде</name>
+		<name normalized="varverd" languages="Japanese">ヴァルヴェルデ</name>
+		<name normalized="巴韋德省" languages="Chinese">巴韋德省</name>
+	</region>
+</regions>

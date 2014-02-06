@@ -1,0 +1,153 @@
+<regions country="Haiti">
+	<region name="Artibonite" type="department" typeTranslated="departement">
+		<name normalized="Artibonite" languages="Croatian;Danish;Dutch;English;Esperanto;Finnish;French;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Swedish">Artibonite</name>
+		<name normalized="Artibonite Departement" languages="English;official">Artibonite Departement</name>
+		<name normalized="Artibonite Department" languages="English;official;Simple English">Artibonite Department</name>
+		<name normalized="Artibonito" languages="Spanish">Artibonito</name>
+		<name normalized="Departemen Artibonite" languages="Indonesian">Departemen Artibonite</name>
+		<name normalized="Dipartimento dell'Artibonite" languages="Italian">Dipartimento dell'Artibonite</name>
+		<name normalized="Departement Artibonite" languages="German">Département Artibonite</name>
+		<name normalized="Latibonit" languages="Haitian">Latibonit</name>
+		<name normalized="Aрtiboнit" languages="Russian">Артибонит</name>
+		<name normalized="Aрtiboнit" languages="Ukrainian">Артібоніт</name>
+		<name normalized="artibntt県" languages="Japanese">アルティボニット県</name>
+		<name normalized="阿蒂博尼特省" languages="Chinese">阿蒂博尼特省</name>
+		<name normalized="라티보닛 주" languages="Korean">라티보닛 주</name>
+	</region>
+	<region name="Centre" type="department" typeTranslated="departement">
+		<name normalized="Centre" languages="Bosnian;Croatian;Danish;Dutch;English;Esperanto;Finnish;French;Norwegian (bokmal);official;Swedish">Centre</name>
+		<name normalized="Centre Department" languages="English;Simple English">Centre Department</name>
+		<name normalized="Centre i Haiti" languages="Norwegian Nynorsk">Centre i Haiti</name>
+		<name normalized="Centro" languages="Portuguese">Centro</name>
+		<name normalized="Departament Centralny" languages="Polish">Departament Centralny</name>
+		<name normalized="Departamento Centro" languages="Spanish">Departamento Centro</name>
+		<name normalized="Departemen Centre" languages="Indonesian">Departemen Centre</name>
+		<name normalized="Department Centre" languages="English;official">Department Centre</name>
+		<name normalized="Department du Centre" languages="English;official">Department du Centre</name>
+		<name normalized="Dipartimento del Centro" languages="Italian">Dipartimento del Centro</name>
+		<name normalized="Departement Centre" languages="German">Département Centre</name>
+		<name normalized="Sant" languages="Haitian">Sant</name>
+		<name normalized="Tiнtрaльный dipaрtaмiнt Gaiti" languages="Russian">Центральный департамент Гаити</name>
+		<name normalized="中央省" languages="Chinese">中央省</name>
+		<name normalized="中央県" languages="Japanese">中央県</name>
+	</region>
+	<region name="Grand'Anse" type="department" typeTranslated="departement">
+		<name normalized="Departament Grand'Anse" languages="Polish">Departament Grand'Anse</name>
+		<name normalized="Departemen Grand'Anse" languages="Indonesian">Departemen Grand'Anse</name>
+		<name normalized="Dipartimento di Grand'Anse" languages="Italian">Dipartimento di Grand'Anse</name>
+		<name normalized="Departement Grand'Anse" languages="German">Département Grand’Anse</name>
+		<name normalized="Grand'Anse" languages="Croatian;Danish;Dutch;English;Esperanto;French;Norwegian (bokmal);official;Swedish">Grand'Anse</name>
+		<name normalized="Grand'Anse Departement" languages="English;official">Grand'Anse Departement</name>
+		<name normalized="Grand'Anse Department" languages="English;official;Simple English">Grand'Anse Department</name>
+		<name normalized="Grandans" languages="Haitian">Grandans</name>
+		<name normalized="Grande Enseada" languages="Portuguese">Grande Enseada</name>
+		<name normalized="Grand'Anse" languages="Finnish;Norwegian Nynorsk;Spanish">Grand’Anse</name>
+		<name normalized="Gрaнd-Aнс" languages="Russian">Гранд-Анс</name>
+		<name normalized="grndns県" languages="Japanese">グランダンス県</name>
+		<name normalized="大灣省" languages="Chinese">大灣省</name>
+	</region>
+	<region name="Nippes" type="department" typeTranslated="departement">
+		<name normalized="Departament Nippes" languages="Polish">Departament Nippes</name>
+		<name normalized="Dipartimento di Nippes" languages="Italian">Dipartimento di Nippes</name>
+		<name normalized="Departement Nippes" languages="German">Département Nippes</name>
+		<name normalized="Nip" languages="Haitian">Nip</name>
+		<name normalized="Nippes" languages="Croatian;Danish;Dutch;English;Esperanto;Finnish;French;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Spanish;Swedish">Nippes</name>
+		<name normalized="Nippes Departement" languages="English;official">Nippes Departement</name>
+		<name normalized="Nippes Department" languages="English;official;Simple English">Nippes Department</name>
+		<name normalized="ntp県" languages="Japanese">ニップ県</name>
+		<name normalized="尼普斯省" languages="Chinese">尼普斯省</name>
+	</region>
+	<region name="Nord" type="department" typeTranslated="departement">
+		<name normalized="Departament Polnocny" languages="Polish">Departament Północny</name>
+		<name normalized="Departamento do Norte" languages="Portuguese">Departamento do Norte</name>
+		<name normalized="Departamento Norte" languages="Spanish">Departamento Norte</name>
+		<name normalized="Department du Nord" languages="English;official">Department du Nord</name>
+		<name normalized="Department Nord" languages="English;official">Department Nord</name>
+		<name normalized="Dipartimento del Nord" languages="Italian">Dipartimento del Nord</name>
+		<name normalized="Departement Nord" languages="German">Département Nord</name>
+		<name normalized="Nord" languages="Croatian;Danish;Dutch;English;Esperanto;Finnish;French;Norwegian (bokmal);official;Swedish">Nord</name>
+		<name normalized="Nord Department" languages="English;Simple English">Nord Department</name>
+		<name normalized="Nord i Haiti" languages="Norwegian Nynorsk">Nord i Haiti</name>
+		<name normalized="No" languages="Haitian">Nò</name>
+		<name normalized="Сiviрный dipaрtaмiнt Gaiti" languages="Russian">Северный департамент Гаити</name>
+		<name normalized="北県" languages="Japanese">北県</name>
+		<name normalized="北部省" languages="Chinese">北部省</name>
+	</region>
+	<region name="Nord-Est" type="department" typeTranslated="departement">
+		<name normalized="Departament Polnocno-Wschodni" languages="Polish">Departament Północno-Wschodni</name>
+		<name normalized="Departamento Nordeste" languages="Spanish">Departamento Nordeste</name>
+		<name normalized="Department du Nord-Est" languages="English;official">Department du Nord-Est</name>
+		<name normalized="Department Nord-Est" languages="English;official">Department Nord-Est</name>
+		<name normalized="Dipartimento del Nordest" languages="Italian">Dipartimento del Nordest</name>
+		<name normalized="Departement Nord-Est" languages="German">Département Nord-Est</name>
+		<name normalized="Nord-Est" languages="Croatian;Danish;Dutch;English;Esperanto;Finnish;French;Norwegian (bokmal);official;Swedish">Nord-Est</name>
+		<name normalized="Nord-Est Department" languages="English;Simple English">Nord-Est Department</name>
+		<name normalized="Nord-Est i Haiti" languages="Norwegian Nynorsk">Nord-Est i Haiti</name>
+		<name normalized="Nordeste" languages="Portuguese">Nordeste</name>
+		<name normalized="Nodes" languages="Haitian">Nòdès</name>
+		<name normalized="Сiviрo-Voсtocный dipaрtaмiнt" languages="Russian">Северо-Восточный департамент</name>
+		<name normalized="东北省" languages="Chinese">东北省</name>
+		<name normalized="北東県" languages="Japanese">北東県</name>
+	</region>
+	<region name="Nord-Ouest" type="department" typeTranslated="departement">
+		<name normalized="Departament Polnocno-Zachodni" languages="Polish">Departament Północno-Zachodni</name>
+		<name normalized="Departamento Noroeste" languages="Spanish">Departamento Noroeste</name>
+		<name normalized="Department du Nord-Ouest" languages="English;official">Department du Nord-Ouest</name>
+		<name normalized="Department Nord-Ouest" languages="English;official">Department Nord-Ouest</name>
+		<name normalized="Dipartimento del Nordovest" languages="Italian">Dipartimento del Nordovest</name>
+		<name normalized="Departement Nord-Ouest" languages="German">Département Nord-Ouest</name>
+		<name normalized="Nord-Ouest" languages="Croatian;Danish;Dutch;English;Esperanto;Finnish;French;Norwegian (bokmal);official;Swedish">Nord-Ouest</name>
+		<name normalized="Nord-Ouest Department" languages="English;Simple English">Nord-Ouest Department</name>
+		<name normalized="Nord-Ouest i Haiti" languages="Norwegian Nynorsk">Nord-Ouest i Haiti</name>
+		<name normalized="Noroeste" languages="Portuguese">Noroeste</name>
+		<name normalized="Nodwes" languages="Haitian">Nòdwès</name>
+		<name normalized="Сiviрo-Zapadный dipaрtaмiнt Gaiti" languages="Russian">Северо-Западный департамент Гаити</name>
+		<name normalized="北西県" languages="Japanese">北西県</name>
+		<name normalized="西北省" languages="Chinese">西北省</name>
+	</region>
+	<region name="Ouest" type="department" typeTranslated="departement">
+		<name normalized="Departament Zachodni" languages="Polish">Departament Zachodni</name>
+		<name normalized="Departamento Oeste" languages="Spanish">Departamento Oeste</name>
+		<name normalized="Department de l'Ouest" languages="English;official">Department de l'Ouest</name>
+		<name normalized="Department Ouest" languages="English;official">Department Ouest</name>
+		<name normalized="Lwes" languages="Haitian">Lwès</name>
+		<name normalized="Oeste" languages="Portuguese">Oeste</name>
+		<name normalized="Ouest" languages="Croatian;Danish;Dutch;English;Esperanto;Finnish;French;German;Norwegian (bokmal);official;Swedish">Ouest</name>
+		<name normalized="Ouest Department" languages="English;Italian;Simple English">Ouest Department</name>
+		<name normalized="Ouest i Haiti" languages="Norwegian Nynorsk">Ouest i Haiti</name>
+		<name normalized="西県" languages="Japanese">西県</name>
+		<name normalized="西部省" languages="Chinese">西部省</name>
+	</region>
+	<region name="Sud" type="department" typeTranslated="departement">
+		<name normalized="Departament Poludniowy" languages="Polish">Departament Południowy</name>
+		<name normalized="Departamento do Sul" languages="Portuguese">Departamento do Sul</name>
+		<name normalized="Departamento Sur" languages="Spanish">Departamento Sur</name>
+		<name normalized="Department du Sud" languages="English;official">Department du Sud</name>
+		<name normalized="Department Sud" languages="English;official">Department Sud</name>
+		<name normalized="Dipartimento del Sud" languages="Italian">Dipartimento del Sud</name>
+		<name normalized="Departement Sud" languages="German">Département Sud</name>
+		<name normalized="Sid" languages="Haitian">Sid</name>
+		<name normalized="Sud" languages="Croatian;Danish;Dutch;English;Esperanto;Finnish;French;Norwegian (bokmal);official;Swedish">Sud</name>
+		<name normalized="Sud Department" languages="English;Simple English">Sud Department</name>
+		<name normalized="Sud i Haiti" languages="Norwegian Nynorsk">Sud i Haiti</name>
+		<name normalized="Юzный dipaрtaмiнt" languages="Russian">Южный департамент</name>
+		<name normalized="南県" languages="Japanese">南県</name>
+		<name normalized="南部省" languages="Chinese">南部省</name>
+	</region>
+	<region name="Sud-Est" type="department" typeTranslated="departement">
+		<name normalized="Departament Poludniowo-Wschodni" languages="Polish">Departament Południowo-Wschodni</name>
+		<name normalized="Departamento Sudeste" languages="Spanish">Departamento Sudeste</name>
+		<name normalized="Department du Sud-Est" languages="English;official">Department du Sud-Est</name>
+		<name normalized="Department Sud-Est" languages="English;official">Department Sud-Est</name>
+		<name normalized="Dipartimento del Sudest" languages="Italian">Dipartimento del Sudest</name>
+		<name normalized="Departement Sud-Est" languages="German">Département Sud-Est</name>
+		<name normalized="Sides" languages="Haitian">Sidès</name>
+		<name normalized="Sud-Est" languages="Croatian;Danish;Dutch;English;Esperanto;Finnish;French;Norwegian (bokmal);official;Swedish">Sud-Est</name>
+		<name normalized="Sud-Est Department" languages="English;Simple English">Sud-Est Department</name>
+		<name normalized="Sud-Est i Haiti" languages="Norwegian Nynorsk">Sud-Est i Haiti</name>
+		<name normalized="Sudeste" languages="Portuguese">Sudeste</name>
+		<name normalized="Юgo-Voсtocный dipaрtaмiнt Gaiti" languages="Russian">Юго-Восточный департамент Гаити</name>
+		<name normalized="南東県" languages="Japanese">南東県</name>
+		<name normalized="東南省" languages="Chinese">東南省</name>
+	</region>
+</regions>

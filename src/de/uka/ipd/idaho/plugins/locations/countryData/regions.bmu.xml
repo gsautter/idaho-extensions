@@ -1,0 +1,216 @@
+<regions country="Bermuda">
+	<region name="Devonshire" type="parish" typeTranslated="parish">
+		<name normalized="Devonshire" languages="Dutch;English;Finnish;French;official;Portuguese;Swedish">Devonshire</name>
+		<name normalized="Devonshire Parish" languages="English;German;official">Devonshire Parish</name>
+		<name normalized="Devonshire prestegjeld" languages="Norwegian (bokmal)">Devonshire prestegjeld</name>
+		<name normalized="Parroquia de Devonshire" languages="Spanish">Parroquia de Devonshire</name>
+		<name normalized="Divoнsiр" languages="Russian">Девоншир</name>
+	</region>
+	<region name="Hamilton" type="municipality" typeTranslated="municipality">
+		<name normalized="Hamilton" languages="Afrikaans;Azerbaijani;Basque;Bosnian;Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Hungarian;Ido;Indonesian;Italian;Malagasy;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Serbo-Croatian;Simple English;Slovak;Spanish;Swedish;Turkish;Vietnamese;Waray;Yoruba">Hamilton</name>
+		<name normalized="Hamilton Parish" languages="English;German;official;Simple English">Hamilton Parish</name>
+		<name normalized="Hamilton prestegjeld" languages="Norwegian (bokmal)">Hamilton prestegjeld</name>
+		<name normalized="Hamilton pa Bermuda" languages="Norwegian Nynorsk">Hamilton på Bermuda</name>
+		<name normalized="Hamiltonas" languages="Lithuanian">Hamiltonas</name>
+		<name normalized="Hamiltono" languages="Esperanto">Hamiltono</name>
+		<name normalized="Parroquia de Hamilton" languages="Spanish">Parroquia de Hamilton</name>
+		<name normalized="Χαμιλτον" languages="Greek">Χάμιλτον</name>
+		<name normalized="Gaмiльtoн" languages="Ossetic;Russian">Гамильтон</name>
+		<name normalized="Gaмiльtaн" languages="biлaрuсkai (taрaskivita)‎">Гамільтан</name>
+		<name normalized="Gaмiльtoн" languages="Ukrainian">Гамільтон</name>
+		<name normalized="Goрad Gaмiльtaн" languages="Belarusian">Горад Гамільтан</name>
+		<name normalized="Kaмiлtoн" languages="Macedonian;Serbian">Хамилтон</name>
+		<name normalized="Kaмiлtън" languages="Bulgarian">Хамилтън</name>
+		<name normalized="hמידtvן" languages="Hebrew">המילטון</name>
+		<name normalized="hאmyلtون, jزr brmودא" languages="Arabic">هاميلتون، جزر برمودا</name>
+		<name normalized="hmیلtون" languages="Persian">همیلتون</name>
+		<name normalized="ہیmلٹن" languages="Urdu">ہیملٹن</name>
+		<name normalized="hemil्टn" languages="Marathi">हॅमिल्टन</name>
+		<name normalized="แฮมิลตัน" languages="Thai">แฮมิลตัน</name>
+		<name normalized="ჰამილტონი" languages="Georgian">ჰამილტონი</name>
+		<name normalized="hmrtn" languages="Japanese">ハミルトン</name>
+		<name normalized="汉密尔顿" languages="Chinese">汉密尔顿</name>
+		<name normalized="해밀턴" languages="Korean">해밀턴</name>
+	</region>
+	<region name="Paget" type="parish" typeTranslated="parish">
+		<name normalized="Paget" languages="Dutch;English;French;German;official;Portuguese;Swedish">Paget</name>
+		<name normalized="Paget Parish" languages="English;German;official">Paget Parish</name>
+		<name normalized="Paget prestegjeld" languages="Norwegian (bokmal)">Paget prestegjeld</name>
+		<name normalized="Parroquia de Paget" languages="Spanish">Parroquia de Paget</name>
+		<name normalized="Piйdzit" languages="Russian">Пейджет</name>
+		<name normalized="Pedzit" languages="Russian">Пэджет</name>
+		<name normalized="pzett" languages="Japanese">パジェット</name>
+	</region>
+	<region name="Pembroke" type="parish" typeTranslated="parish">
+		<name normalized="Parroquia de Pembroke" languages="Spanish">Parroquia de Pembroke</name>
+		<name normalized="Pembroke" languages="Dutch;English;French;official;Portuguese;Swedish">Pembroke</name>
+		<name normalized="Pembroke Parish" languages="English;German;official">Pembroke Parish</name>
+		<name normalized="Pembroke prestegjeld" languages="Norwegian (bokmal)">Pembroke prestegjeld</name>
+		<name normalized="Piмbрuk" languages="Russian">Пембрук</name>
+		<name normalized="彭布羅克帕里什" languages="Chinese">彭布羅克帕里什</name>
+	</region>
+	<region name="Saint George" type="municipality" typeTranslated="municipality">
+		<name normalized="Georg" languages="German">Georg</name>
+		<name normalized="Georges de Lydda" languages="French">Georges de Lydda</name>
+		<name normalized="Georgius" languages="Latin">Georgius</name>
+		<name normalized="Heilage Jorgen" languages="Norwegian Nynorsk">Heilage Jørgen</name>
+		<name normalized="Heilagur Georg" languages="Icelandic">Heilagur Georg</name>
+		<name normalized="Jorge de Capadocia" languages="Spanish">Jorge de Capadocia</name>
+		<name normalized="Joris" languages="Dutch">Joris</name>
+		<name normalized="Juraj" languages="Slovak">Juraj</name>
+		<name normalized="Jurgi Kapadoziakoa" languages="Basque">Jurgi Kapadoziakoa</name>
+		<name normalized="Naomh Seoirse" languages="Irish">Naomh Seoirse</name>
+		<name normalized="Pyha Yrjo" languages="Finnish">Pyhä Yrjö</name>
+		<name normalized="Puha Juri" languages="Estonian">Püha Jüri</name>
+		<name normalized="Saint George" languages="Basque;Dutch;English;German;Nouormand;official;Portuguese;Simple English;Slovak;Spanish;Volapuk;Welsh">Saint George</name>
+		<name normalized="San Giorgio" languages="Italian;Neapolitan">San Giorgio</name>
+		<name normalized="San Giorgiu" languages="Sicilian">San Giorgiu</name>
+		<name normalized="San Zorzi" languages="veneto">San Zorzi</name>
+		<name normalized="San Zorzo" languages="Ligure">San Zorzo</name>
+		<name normalized="Sankt Georg" languages="Norwegian (bokmal)">Sankt Georg</name>
+		<name normalized="Sankt Goran" languages="Swedish">Sankt Göran</name>
+		<name normalized="Sankt Jorgen" languages="Danish">Sankt Jørgen</name>
+		<name normalized="Sankta Georgo" languages="Esperanto">Sankta Georgo</name>
+		<name normalized="Sankta Jorundur" languages="Faroese">Sankta Jørundur</name>
+		<name normalized="Sant Chorche" languages="Aragonese">Sant Chorche</name>
+		<name normalized="Sant Jordi" languages="Catalan">Sant Jordi</name>
+		<name normalized="Sant Jordi" languages="Occitan">Sant Jòrdi</name>
+		<name normalized="Santo George" languages="Indonesian">Santo George</name>
+		<name normalized="Saunt George" languages="Scots">Saunt George</name>
+		<name normalized="Sfantul Gheorghe" languages="Romanian">Sfântul Gheorghe</name>
+		<name normalized="Shen Gjergji" languages="Albanian">Shën Gjergji</name>
+		<name normalized="St. Joris" languages="Limburgish">St. Joris</name>
+		<name normalized="Svaty Jiri" languages="Czech">Svatý Jiří</name>
+		<name normalized="Sveti Georgije" languages="Serbo-Croatian">Sveti Georgije</name>
+		<name normalized="Sveti Juraj" languages="Croatian">Sveti Juraj</name>
+		<name normalized="Sveti Jurij" languages="Slovenian">Sveti Jurij</name>
+		<name normalized="Svetais Juris" languages="Latvian">Svētais Juris</name>
+		<name normalized="Szent Gyorgy" languages="Hungarian">Szent György</name>
+		<name normalized="Sao Jorge" languages="Portuguese">São Jorge</name>
+		<name normalized="Thanh George" languages="Vietnamese">Thánh George</name>
+		<name normalized="Xurxo de Capadocia" languages="Galician">Xurxo de Capadocia</name>
+		<name normalized="Yorgi" languages="Turkish">Yorgi</name>
+		<name normalized="Swiety Jerzy" languages="Polish">Święty Jerzy</name>
+		<name normalized="Sv. Jurgis" languages="Lithuanian">Šv. Jurgis</name>
+		<name normalized="Αγιος Γεωργιος" languages="Greek">Άγιος Γεώργιος</name>
+		<name normalized="Gioрgi Pobidoнoсit" languages="Bulgarian">Георги Победоносец</name>
+		<name normalized="Gioрgiй Pobidoнoсit" languages="Russian">Георгий Победоносец</name>
+		<name normalized="Gioрgiй Piрaмagaнoсit" languages="Belarusian">Георгій Перамаганосец</name>
+		<name normalized="Сviti Gioрgi" languages="Bulgarian;Macedonian">Свети Георги</name>
+		<name normalized="Сviti Gioрgiji" languages="Serbian">Свети Георгије</name>
+		<name normalized="Сvitiй Юрiй" languages="Ukrainian">Святий Юрій</name>
+		<name normalized="גאvrגיvס hqדvש" languages="Hebrew">גאורגיוס הקדוש</name>
+		<name normalized="jrjس" languages="Arabic">جرجس</name>
+		<name normalized="jrjیس" languages="Persian">جرجیس</name>
+		<name normalized="ܡܪܝ ܓܝܘܪܓܝܣ ܣܗܕܐ" languages="Aramaic">ܡܪܝ ܓܝܘܪܓܝܣ ܣܗܕܐ</name>
+		<name normalized="sাo jor্ge" languages="Bishnupria Manipuri">সাও জোর্গে</name>
+		<name normalized="புனித ஜார்ஜ்" languages="Tamil">புனித ஜார்ஜ்</name>
+		<name normalized="വിശുദ്ധ ഗീവർഗീസ്" languages="Malayalam">വിശുദ്ധ ഗീവർഗീസ്</name>
+		<name normalized="นักบุญจอร์จ" languages="Thai">นักบุญจอร์จ</name>
+		<name normalized="წიმინდე გერგი" languages="Mingrelian">წიმინდე გერგი</name>
+		<name normalized="წმინდა გიორგი" languages="Georgian">წმინდა გიორგი</name>
+		<name normalized="gorgos" languages="Japanese">ゲオルギオス</name>
+		<name normalized="圣乔治" languages="Chinese">圣乔治</name>
+		<name normalized="聖佐治" languages="Cantonese">聖佐治</name>
+		<name normalized="성 게오르기우스" languages="Korean">성 게오르기우스</name>
+	</region>
+	<region name="Saint George's" type="parish" typeTranslated="parish">
+		<name normalized="Enez Montserrat" languages="Breton">Enez Montserrat</name>
+		<name normalized="Illa de Montserrat" languages="Catalan">Illa de Montserrat</name>
+		<name normalized="Illa Montserrat" languages="Galician">Illa Montserrat</name>
+		<name normalized="Isla de Montserrat" languages="Aragonese">Isla de Montserrat</name>
+		<name normalized="Moncerato" languages="Esperanto">Moncerato</name>
+		<name normalized="Monserat" languages="Bosnian">Monserat</name>
+		<name normalized="Monserati" languages="Kinyarwanda">Monserati</name>
+		<name normalized="Montsarat" languages="Irish">Montsarat</name>
+		<name normalized="Montsarrat" languages="Franco-Provencal">Montsarrat</name>
+		<name normalized="Montserat" languages="Novial">Montserat</name>
+		<name normalized="Montseratas" languages="Lithuanian">Montseratas</name>
+		<name normalized="Montserrat" languages="Afrikaans;Alemannisch;Asturian;Azerbaijani;Basque;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;French;Gagauz;German;Haitian;Hungarian;Icelandic;Ido;Indonesian;Italian;Javanese;Latin;Ligure;Limburgish;Low German;lumbaart;Luxembourgish;Malay;Northern Frisian;Norwegian (bokmal);Norwegian Nynorsk;Occitan;Old English;Papiamento;Piedmontese;Polish;Portuguese;Romanian;Serbo-Croatian;Simple English;Slovak;Slovenian;Spanish;Sundanese;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh;Wolof;Yoruba">Montserrat</name>
+		<name normalized="Montserrata" languages="Latvian">Montserrata</name>
+		<name normalized="Montserrati" languages="Albanian">Montserrati</name>
+		<name normalized="Parroquia de Saint George" languages="Spanish">Parroquia de Saint George</name>
+		<name normalized="Saint George" languages="Basque;Dutch;English;German;Nouormand;official;Portuguese;Simple English;Slovak;Spanish;Volapuk;Welsh">Saint George</name>
+		<name normalized="Saint George's" languages="English;French;official">Saint George's</name>
+		<name normalized="Saint George's Parish" languages="English;official">Saint George's Parish</name>
+		<name normalized="Saint Georges" languages="Afrikaans;English;official">Saint Georges</name>
+		<name normalized="Saint Georges Parish" languages="English;official">Saint Georges Parish</name>
+		<name normalized="Saint George's Parish" languages="German">Saint George’s Parish</name>
+		<name normalized="Saint-Georges" languages="Breton;Catalan;Cebuano;Dutch;English;French;German;Italian;Piedmontese;Polish;Portuguese;Slovak;Spanish">Saint-Georges</name>
+		<name normalized="Sankta Georgo" languages="Esperanto">Sankta Georgo</name>
+		<name normalized="Sent Dzordzas" languages="Lithuanian">Sent Džordžas</name>
+		<name normalized="Sent Jordi" languages="Occitan">Sent Jòrdi</name>
+		<name normalized="St. George" languages="Finnish;Italian;Polish;Romanian">St. George</name>
+		<name normalized="St. George's" languages="Novial;Swedish">St. George's</name>
+		<name normalized="St. George's Parish" languages="English;Simple English">St. George's Parish</name>
+		<name normalized="St. George's prestegjeld" languages="Norwegian (bokmal)">St. George's prestegjeld</name>
+		<name normalized="Svaty Jiri" languages="Czech">Svatý Jiří</name>
+		<name normalized="Sveti Jurij" languages="Slovenian">Sveti Jurij</name>
+		<name normalized="Μοντσερρατ" languages="Greek">Μοντσερράτ</name>
+		<name normalized="Мaнсeрat" languages="biлaрuсkai (taрaskivita)‎">Мансэрат</name>
+		<name normalized="Мaнtсiрat" languages="Belarusian">Мантсерат</name>
+		<name normalized="Мoнсiрat" languages="Bulgarian">Монсерат</name>
+		<name normalized="Мoнtсiрat" languages="Macedonian;Serbian">Монтсерат</name>
+		<name normalized="Мoнtсiррat" languages="Bashkir;Russian;Ukrainian">Монтсеррат</name>
+		<name normalized="Сviti Gioрgi" languages="Bulgarian;Macedonian">Свети Георги</name>
+		<name normalized="Сviti Doрdi" languages="Serbian">Свети Ђорђе</name>
+		<name normalized="Сvitoй Gioрgiй" languages="Russian">Святой Георгий</name>
+		<name normalized="Сiн-Zoрz" languages="Russian;Ukrainian">Сен-Жорж</name>
+		<name normalized="Сiнt-Dzoрdz" languages="Russian">Сент-Джордж</name>
+		<name normalized="Mvնtsեrաt" languages="Armenian">Մոնտսերատ</name>
+		<name normalized="מvntסrאt" languages="Hebrew">מונטסראט</name>
+		<name normalized="סnt ג'vrג'" languages="Hebrew">סנט ג'ורג'</name>
+		<name normalized="سنt jrj" languages="Persian">سنت جرج</name>
+		<name normalized="mאنٹسrیٹ" languages="Urdu">مانٹسریٹ</name>
+		<name normalized="mونtسrאt" languages="Arabic;Persian;Western Punjabi">مونتسرات</name>
+		<name normalized="mونtسyrאt" languages="Egyptian Spoken Arabic">مونتسيرات</name>
+		<name normalized="mونtسەrrאt" languages="Uyghur">مونتسەررات</name>
+		<name normalized="މޮންސެރާޓު" languages="Divehi">މޮންސެރާޓު</name>
+		<name normalized="mाँटserाट" languages="Marathi">माँटसेराट</name>
+		<name normalized="moण्टserाट" languages="Hindi">मॉण्टसेराट</name>
+		<name normalized="mn্টser্rাট" languages="Bishnupria Manipuri">মন্টসের্রাট</name>
+		<name normalized="mਾਂਟsrਾt" languages="Punjabi">ਮਾਂਟਸਰਾਤ</name>
+		<name normalized="மொன்செராட்" languages="Tamil">மொன்செராட்</name>
+		<name normalized="มอนต์เซอร์รัต" languages="Thai">มอนต์เซอร์รัต</name>
+		<name normalized="მონსერატი" languages="Georgian">მონსერატი</name>
+		<name normalized="sn=zョrzy" languages="Japanese">サン＝ジョルジュ</name>
+		<name normalized="snt・zョーz" languages="Japanese">セント・ジョージ</name>
+		<name normalized="mntsrt" languages="Japanese">モントセラト</name>
+		<name normalized="蒙塞拉特島" languages="Cantonese;Chinese">蒙塞拉特島</name>
+		<name normalized="몬트세랫" languages="Korean">몬트세랫</name>
+		<name normalized="세인트조지" languages="Korean">세인트조지</name>
+	</region>
+	<region name="Sandys" type="parish" typeTranslated="parish">
+		<name normalized="Parroquia de Sandys" languages="Spanish">Parroquia de Sandys</name>
+		<name normalized="Sandys" languages="Dutch;English;French;official;Portuguese;Swedish">Sandys</name>
+		<name normalized="Sandys Parish" languages="English;German;official">Sandys Parish</name>
+		<name normalized="Sandys prestegjeld" languages="Norwegian (bokmal)">Sandys prestegjeld</name>
+		<name normalized="Сeнdiс" languages="Russian">Сэндис</name>
+	</region>
+	<region name="Smith's" type="parish" typeTranslated="parish">
+		<name normalized="Parroquia de Smith" languages="Spanish">Parroquia de Smith</name>
+		<name normalized="Smith" languages="Dutch;Portuguese">Smith</name>
+		<name normalized="Smith's" languages="English;French;official">Smith's</name>
+		<name normalized="Smith's Parish" languages="English;official">Smith's Parish</name>
+		<name normalized="Smith's prestegjeld" languages="Norwegian (bokmal)">Smith's prestegjeld</name>
+		<name normalized="Smiths" languages="Dutch;English;German;official">Smiths</name>
+		<name normalized="Smiths Parish" languages="English;official">Smiths Parish</name>
+		<name normalized="Smith's Parish" languages="German">Smith’s Parish</name>
+		<name normalized="The Smiths" languages="Russian">The Smiths</name>
+		<name normalized="Смit" languages="Russian">Смит</name>
+	</region>
+	<region name="Southampton" type="parish" typeTranslated="parish">
+		<name normalized="Parroquia de Southampton" languages="Spanish">Parroquia de Southampton</name>
+		<name normalized="Southampton" languages="Dutch;English;French;official;Portuguese;Swedish">Southampton</name>
+		<name normalized="Southampton Parish" languages="English;German;official;Polish;Simple English">Southampton Parish</name>
+		<name normalized="Southampton prestegjeld" languages="Norwegian (bokmal)">Southampton prestegjeld</name>
+		<name normalized="Сautgiмptoн" languages="Russian">Саутгемптон</name>
+	</region>
+	<region name="Warwick" type="parish" typeTranslated="parish">
+		<name normalized="Parroquia de Warwick" languages="Spanish">Parroquia de Warwick</name>
+		<name normalized="Warwick" languages="Dutch;English;French;official;Portuguese;Swedish">Warwick</name>
+		<name normalized="Warwick Parish" languages="English;German;official">Warwick Parish</name>
+		<name normalized="Warwick prestegjeld" languages="Norwegian (bokmal)">Warwick prestegjeld</name>
+		<name normalized="Uoрik" languages="Russian">Уорик</name>
+	</region>
+</regions>

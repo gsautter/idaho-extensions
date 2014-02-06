@@ -1,0 +1,350 @@
+<regions country="Bahamas, The">
+	<region name="Acklins Islands" type="district" typeTranslated="district">
+		<name normalized="Acklins Islands" languages="English;official">Acklins Islands</name>
+		<name normalized="Acklins Islands District" languages="English;official">Acklins Islands District</name>
+	</region>
+	<region name="Berry Islands" type="district" typeTranslated="district">
+		<name normalized="Berio salos" languages="Lithuanian">Berio salos</name>
+		<name normalized="Berry Islands" languages="Dutch;English;German;Italian;Norwegian (bokmal);official;Portuguese;Simple English">Berry Islands</name>
+		<name normalized="Berry Islands District" languages="English;official">Berry Islands District</name>
+		<name normalized="Berrysaaret" languages="Finnish">Berrysaaret</name>
+		<name normalized="Illas Berry" languages="Galician">Illas Berry</name>
+		<name normalized="Islas Berry" languages="Spanish">Islas Berry</name>
+		<name normalized="Iles Berry" languages="French">Îles Berry</name>
+		<name normalized="Biррi" languages="Russian">Берри</name>
+		<name normalized="ბერის კუნძულები" languages="Georgian">ბერის კუნძულები</name>
+		<name normalized="brー諸島" languages="Japanese">ベリー諸島</name>
+	</region>
+	<region name="Bimini" type="district" typeTranslated="district">
+		<name normalized="Bimini" languages="Dutch;English;Finnish;Galician;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Simple English;Spanish;Swedish">Bimini</name>
+		<name normalized="Bimini &amp; Cat Cay" languages="Danish">Bimini &amp; Cat Cay</name>
+		<name normalized="Bimini District" languages="English;official">Bimini District</name>
+		<name normalized="Biminis" languages="Lithuanian">Biminis</name>
+		<name normalized="Iles Bimini" languages="French">Îles Bimini</name>
+		<name normalized="Biмiнi" languages="Russian">Бимини</name>
+		<name normalized="bیmینی, bאhאmא" languages="Persian">بیمینی، باهاما</name>
+		<name normalized="bmn" languages="Japanese">ビミニ</name>
+	</region>
+	<region name="Black Point" type="district" typeTranslated="district">
+		<name normalized="Black Point" languages="English;German;official">Black Point</name>
+		<name normalized="Black Point District" languages="English;official">Black Point District</name>
+	</region>
+	<region name="Cat Island" type="district" typeTranslated="district">
+		<name normalized="Cat Island" languages="English;German;official">Cat Island</name>
+		<name normalized="Cat Island District" languages="English;official">Cat Island District</name>
+	</region>
+	<region name="Central Abaco" type="district" typeTranslated="district">
+		<name normalized="Central Abaco" languages="English;French;Italian;Norwegian (bokmal);official;Portuguese;Simple English;Spanish">Central Abaco</name>
+		<name normalized="Central Abaco District" languages="English;official">Central Abaco District</name>
+		<name normalized="Keski-Abaco" languages="Finnish">Keski-Abaco</name>
+		<name normalized="ცენტრალური აბაკო" languages="Georgian">ცენტრალური აბაკო</name>
+	</region>
+	<region name="Central Andros" type="district" typeTranslated="district">
+		<name normalized="Central Andros" languages="Dutch;English;French;Italian;Norwegian (bokmal);official;Portuguese;Simple English;Spanish">Central Andros</name>
+		<name normalized="Central Andros District" languages="English;official">Central Andros District</name>
+		<name normalized="Keski-Andros" languages="Finnish">Keski-Andros</name>
+		<name normalized="ცენტრალური ანდროსი" languages="Georgian">ცენტრალური ანდროსი</name>
+	</region>
+	<region name="Central Eleuthera" type="district" typeTranslated="district">
+		<name normalized="Central Eleuthera" languages="English;French;Italian;Norwegian (bokmal);official;Portuguese;Simple English;Spanish">Central Eleuthera</name>
+		<name normalized="Central Eleuthera District" languages="English;official">Central Eleuthera District</name>
+		<name normalized="Keski-Eleuthera" languages="Finnish">Keski-Eleuthera</name>
+		<name normalized="ცენტრალური ელიუთერა" languages="Georgian">ცენტრალური ელიუთერა</name>
+	</region>
+	<region name="City of Freeport" type="district" typeTranslated="district">
+		<name normalized="City of Freeport" languages="English;official">City of Freeport</name>
+		<name normalized="City of Freeport District" languages="English;official">City of Freeport District</name>
+		<name normalized="Freeport" languages="Dutch;English;Finnish;French;German;Italian;Polish;Portuguese;Romanian;Scots;Simple English;Spanish;Swedish;Turkish">Freeport</name>
+		<name normalized="Friportas" languages="Lithuanian">Friportas</name>
+		<name normalized="Фрiйpoрt" languages="Bulgarian">Фрийпорт</name>
+		<name normalized="Фрipoрt" languages="Russian">Фрипорт</name>
+		<name normalized="frybوrt" languages="Arabic">فريبورت</name>
+		<name normalized="frی pوrt" languages="Persian">فری پورت</name>
+		<name normalized="ფრიპორტი" languages="Georgian">ფრიპორტი</name>
+		<name normalized="프리포트" languages="Korean">프리포트</name>
+	</region>
+	<region name="Crooked Island and Long Cay" type="district" typeTranslated="district">
+		<name normalized="Crooked Island" languages="Dutch;English;Finnish;French;Galician;German;Italian;Portuguese;Simple English">Crooked Island</name>
+		<name normalized="Crooked Island and Long Cay" languages="English;official">Crooked Island and Long Cay</name>
+		<name normalized="Crooked Island and Long Cay District" languages="English;official">Crooked Island and Long Cay District</name>
+		<name normalized="Isla de Crooked" languages="Spanish">Isla de Crooked</name>
+		<name normalized="Kрukid-Aйлiнd" languages="Russian">Крукед-Айленд</name>
+		<name normalized="კრუკედ-აილენდი" languages="Georgian">კრუკედ-აილენდი</name>
+		<name normalized="克魯克德島" languages="Chinese">克魯克德島</name>
+	</region>
+	<region name="East Grand Bahama" type="district" typeTranslated="district">
+		<name normalized="Bahama Handia" languages="Basque">Bahama Handia</name>
+		<name normalized="Didzioji Bahama" languages="Lithuanian">Didžioji Bahama</name>
+		<name normalized="East Grand Bahama" languages="English;French;Italian;official;Portuguese;Simple English;Spanish">East Grand Bahama</name>
+		<name normalized="East Grand Bahama District" languages="English;official">East Grand Bahama District</name>
+		<name normalized="Gran Bahama" languages="Galician;Spanish">Gran Bahama</name>
+		<name normalized="Grand Bahama" languages="Dutch;English;Finnish;French;German;Italian;official;Turkish">Grand Bahama</name>
+		<name normalized="Grand Bahama District" languages="English;official">Grand Bahama District</name>
+		<name normalized="Granda Bahamo" languages="Esperanto">Granda Bahamo</name>
+		<name normalized="Ita- Grand Bahama" languages="Finnish">Itä- Grand Bahama</name>
+		<name normalized="Wielka Bahama" languages="Polish">Wielka Bahama</name>
+		<name normalized="Γκραντ Μπαχαμα" languages="Greek">Γκραντ Μπαχάμα</name>
+		<name normalized="Boльsoй Bagaмa" languages="Russian">Большой Багама</name>
+		<name normalized="Viлika Bakaмa" languages="Serbian">Велика Бахама</name>
+		<name normalized="Viлikiй Bagaмa" languages="Ukrainian">Великий Багама</name>
+		<name normalized="Voсtocный Boльsoй Bagaмa" languages="Russian">Восточный Большой Багама</name>
+		<name normalized="bאhאmא אلkbrى" languages="Arabic">باهاما الكبرى</name>
+		<name normalized="აღმოსავლეთი დიდი ბაჰამა" languages="Georgian">აღმოსავლეთი დიდი ბაჰამა</name>
+		<name normalized="დიდი ბაჰამა" languages="Georgian">დიდი ბაჰამა</name>
+		<name normalized="grnd・bhm島" languages="Japanese">グランド・バハマ島</name>
+		<name normalized="大巴哈马岛" languages="Chinese">大巴哈马岛</name>
+		<name normalized="그랜드바하마 섬" languages="Korean">그랜드바하마 섬</name>
+	</region>
+	<region name="Exuma" type="district" typeTranslated="district">
+		<name normalized="Eksuma" languages="Lithuanian">Eksuma</name>
+		<name normalized="Exuma" languages="Dutch;English;Finnish;Galician;German;Italian;official;Portuguese;Simple English;Spanish">Exuma</name>
+		<name normalized="Exuma District" languages="English;official">Exuma District</name>
+		<name normalized="George Town" languages="Romanian">George Town</name>
+		<name normalized="Iles Exumas" languages="French">Îles Exumas</name>
+		<name normalized="Ikсuмa" languages="Bulgarian">Ексума</name>
+		<name normalized="Ekсuмa" languages="Russian">Эксума</name>
+		<name normalized="jrj tאون, bאhאmא" languages="Persian">جرج تاون، باهاما</name>
+	</region>
+	<region name="Grand Cay" type="district" typeTranslated="district">
+		<name normalized="Grand Cay" languages="English;Finnish;French;Italian;Norwegian (bokmal);official;Portuguese;Simple English">Grand Cay</name>
+		<name normalized="Grand Cay District" languages="English;official">Grand Cay District</name>
+		<name normalized="Gрaнd-Ki" languages="Russian">Гранд-Ки</name>
+		<name normalized="Gрaнd-Ki" languages="Ukrainian">Гранд-Кі</name>
+		<name normalized="გრანდ-კი" languages="Georgian">გრანდ-კი</name>
+	</region>
+	<region name="Harbour Island" type="district" typeTranslated="district">
+		<name normalized="Harbour Island" languages="English;German;official;Simple English">Harbour Island</name>
+		<name normalized="Harbour Island District" languages="English;official">Harbour Island District</name>
+	</region>
+	<region name="Hope Town" type="district" typeTranslated="district">
+		<name normalized="Hope Town" languages="English;Finnish;French;Italian;official;Portuguese;Simple English;Spanish">Hope Town</name>
+		<name normalized="Hope Town District" languages="English;official">Hope Town District</name>
+	</region>
+	<region name="Inagua" type="district" typeTranslated="district">
+		<name normalized="Great Inagua" languages="Italian">Great Inagua</name>
+		<name normalized="Inagua" languages="Catalan;Dutch;English;Finnish;French;Galician;German;Lithuanian;official;Polish;Portuguese;Simple English;Spanish">Inagua</name>
+		<name normalized="Inagua District" languages="English;official">Inagua District</name>
+		<name normalized="Γκρeιτ Ιναγκουα" languages="Greek">Γκρέιτ Ινάγκουα</name>
+		<name normalized="Iнagua" languages="Russian">Инагуа</name>
+		<name normalized="inga島" languages="Japanese">イナグア島</name>
+	</region>
+	<region name="Long Island" type="district" typeTranslated="district">
+		<name normalized="An tOilean Fada" languages="Irish">An tOileán Fada</name>
+		<name normalized="Insula Longa" languages="Latin">Insula Longa</name>
+		<name normalized="Long Island" languages="Albanian;Asturian;Basque;Bavarian;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Ido;Indonesian;Italian;lumbaart;Malay;Norwegian (bokmal);Occitan;official;Polish;Portuguese;Romanian;Serbo-Croatian;Simple English;Slovak;Spanish;Swahili;Swedish;Turkish;Vietnamese">Long Island</name>
+		<name normalized="Long Island District" languages="English;official">Long Island District</name>
+		<name normalized="Longailenda" languages="Latvian">Longailenda</name>
+		<name normalized="Λονγκ Αιλαντ" languages="Greek">Λονγκ Άιλαντ</name>
+		<name normalized="Лoнg Aйлънd" languages="Bulgarian">Лонг Айлънд</name>
+		<name normalized="Лoнg Ajлaнd" languages="Serbian">Лонг Ајланд</name>
+		<name normalized="Лoнg-Aйлiнd" languages="Russian;Ukrainian">Лонг-Айленд</name>
+		<name normalized="דvnג איידnד" languages="Hebrew">לונג איילנד</name>
+		<name normalized="لאنg آئیلینڈ" languages="Western Punjabi">لانگ آئیلینڈ</name>
+		<name normalized="لאنg آیلند" languages="Persian">لانگ آیلند</name>
+		<name normalized="لونغ آyلند" languages="Arabic">لونغ آيلند</name>
+		<name normalized="lং ail্yাn্ড" languages="Bengali">লং আইল্যান্ড</name>
+		<name normalized="เกาะลอง" languages="Thai">เกาะลอง</name>
+		<name normalized="ლონგ-აილენდი" languages="Georgian;Mingrelian">ლონგ-აილენდი</name>
+		<name normalized="rngairnd" languages="Japanese">ロングアイランド</name>
+		<name normalized="長島" languages="Chinese">長島</name>
+		<name normalized="롱아일랜드" languages="Korean">롱아일랜드</name>
+	</region>
+	<region name="Mangrove Cay" type="district" typeTranslated="district">
+		<name normalized="Cayo Mangrove" languages="Spanish">Cayo Mangrove</name>
+		<name normalized="Mangrove Cay" languages="English;Finnish;French;Italian;official;Portuguese;Simple English">Mangrove Cay</name>
+		<name normalized="Mangrove Cay District" languages="English;official">Mangrove Cay District</name>
+		<name normalized="Мaнgрov-Ki" languages="Russian">Мангров-Ки</name>
+		<name normalized="მანგროვ-კი" languages="Georgian">მანგროვ-კი</name>
+	</region>
+	<region name="Mayaguana" type="district" typeTranslated="district">
+		<name normalized="Mayaguana" languages="Dutch;English;Finnish;French;Galician;German;Italian;official;Portuguese;Simple English;Spanish">Mayaguana</name>
+		<name normalized="Mayaguana District" languages="English;official">Mayaguana District</name>
+		<name normalized="Мaiguaнa" languages="Russian">Маягуана</name>
+		<name normalized="馬亞瓜納島" languages="Chinese">馬亞瓜納島</name>
+	</region>
+	<region name="Moore's Island" type="district" typeTranslated="district">
+		<name normalized="Isla de Moore" languages="Spanish">Isla de Moore</name>
+		<name normalized="Moore's Island" languages="Dutch;English;French;Italian;official;Portuguese;Simple English">Moore's Island</name>
+		<name normalized="Moore's Island District" languages="English;official">Moore's Island District</name>
+		<name normalized="Moorensaari" languages="Finnish">Moorensaari</name>
+		<name normalized="Moores Island" languages="English;official">Moores Island</name>
+		<name normalized="Moores Island District" languages="English;official">Moores Island District</name>
+	</region>
+	<region name="North Abaco" type="district" typeTranslated="district">
+		<name normalized="Abaco" languages="English;Italian;official">Abaco</name>
+		<name normalized="Abaco District" languages="English;official">Abaco District</name>
+		<name normalized="Abacus" languages="Danish;Dutch">Abacus</name>
+		<name normalized="Abako" languages="Basque;Esperanto">Abako</name>
+		<name normalized="Abakus" languages="Bosnian;Czech;German;Norwegian (bokmal);Polish;Serbo-Croatian;Slovak">Abakus</name>
+		<name normalized="Abaque" languages="French">Abaque</name>
+		<name normalized="North Abaco" languages="English;French;Italian;official;Portuguese;Simple English">North Abaco</name>
+		<name normalized="North Abaco District" languages="English;official">North Abaco District</name>
+		<name normalized="Pohjois-Abaco" languages="Finnish">Pohjois-Abaco</name>
+		<name normalized="Abac" languages="Catalan">Àbac</name>
+		<name normalized="Abbacu" languages="Sicilian">Àbbacu</name>
+		<name normalized="Abaco" languages="Galician;Spanish">Ábaco</name>
+		<name normalized="Abaco Norte" languages="Spanish">Ábaco Norte</name>
+		<name normalized="Abak" languages="Ukrainian">Абак</name>
+		<name normalized="Abakuс" languages="Serbian">Абакус</name>
+		<name normalized="ჩრდილოეთი აბაკო" languages="Georgian">ჩრდილოეთი აბაკო</name>
+	</region>
+	<region name="North Andros" type="district" typeTranslated="district">
+		<name normalized="Andras" languages="Lithuanian">Andras</name>
+		<name normalized="Andro" languages="Italian">Andro</name>
+		<name normalized="Andros" languages="Breton;Catalan;Croatian;Danish;Dutch;English;Faroese;French;Galician;German;Indonesian;Latin;Norwegian (bokmal);official;Polish;Portuguese;Serbo-Croatian;Simple English;Spanish;Swedish;Turkish;Vietnamese;Welsh">Andros</name>
+		<name normalized="Andros District" languages="English;official">Andros District</name>
+		<name normalized="Andros Norte" languages="Spanish">Andros Norte</name>
+		<name normalized="North Andros" languages="English;French;Italian;official;Portuguese;Simple English">North Andros</name>
+		<name normalized="North Andros District" languages="English;official">North Andros District</name>
+		<name normalized="Pohjois-Andros" languages="Finnish">Pohjois-Andros</name>
+		<name normalized="Andros" languages="Finnish;Norwegian Nynorsk">Ándros</name>
+		<name normalized="Endra" languages="Albanian">Ëndra</name>
+		<name normalized="Ανδρος" languages="Greek">Άνδρος</name>
+		<name normalized="Aнdрoс" languages="Bulgarian;Macedonian;Russian;Serbian;Ukrainian">Андрос</name>
+		<name normalized="أندrوس" languages="Arabic">أندروس</name>
+		<name normalized="อานดรอส" languages="Thai">อานดรอส</name>
+		<name normalized="andrs島" languages="Japanese">アンドロス島</name>
+		<name normalized="安德羅斯島" languages="Chinese">安德羅斯島</name>
+		<name normalized="안드로스 섬" languages="Korean">안드로스 섬</name>
+	</region>
+	<region name="North Eleuthera" type="district" typeTranslated="district">
+		<name normalized="Eleutera" languages="Lithuanian">Eleutera</name>
+		<name normalized="Eleuthera" languages="Dutch;English;French;Galician;German;Italian;official;Polish;Portuguese;Simple English;Spanish;Vietnamese">Eleuthera</name>
+		<name normalized="Eleuthera District" languages="English;official">Eleuthera District</name>
+		<name normalized="Eleuthera Norte" languages="Asturian;Spanish">Eleuthera Norte</name>
+		<name normalized="North Eleuthera" languages="English;French;Italian;official;Portuguese;Simple English">North Eleuthera</name>
+		<name normalized="North Eleuthera District" languages="English;official">North Eleuthera District</name>
+		<name normalized="Pohjois-Eleuthera" languages="Finnish">Pohjois-Eleuthera</name>
+		<name normalized="Iльюtiрa" languages="Ukrainian">Ельютера</name>
+		<name normalized="Ilutiрa" languages="Serbian">Ељутера</name>
+		<name normalized="Eльюtiрa" languages="Russian">Эльютера</name>
+		<name normalized="อิลิวเทรา" languages="Thai">อิลิวเทรา</name>
+		<name normalized="ელიუთერა" languages="Georgian">ელიუთერა</name>
+		<name normalized="erーsr島" languages="Japanese">エルーセラ島</name>
+		<name normalized="伊柳塞拉岛" languages="Chinese">伊柳塞拉岛</name>
+	</region>
+	<region name="Ragged Island" type="district" typeTranslated="district">
+		<name normalized="Ragged Island" languages="English;German;official">Ragged Island</name>
+		<name normalized="Ragged Island District" languages="English;official">Ragged Island District</name>
+	</region>
+	<region name="Rum Cay" type="district" typeTranslated="district">
+		<name normalized="Cayo Rum" languages="Spanish">Cayo Rum</name>
+		<name normalized="Rum Cay" languages="Dutch;English;Finnish;French;Galician;German;Italian;official;Portuguese;Simple English">Rum Cay</name>
+		<name normalized="Rum Cay District" languages="English;official">Rum Cay District</name>
+		<name normalized="Рaм-Ki" languages="Russian">Рам-Ки</name>
+	</region>
+	<region name="San Salvador" type="district" typeTranslated="district">
+		<name normalized="Distrito de San Salvador" languages="Spanish">Distrito de San Salvador</name>
+		<name normalized="San Salvador" languages="Afrikaans;Aragonese;Aymara;Azerbaijani;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;Galician;German;Hungarian;Ido;Indonesian;Interlingua;Interlingue;Italian;Javanese;Lingala;lumbaart;Malagasy;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Piedmontese;Polish;Portuguese;Quechua;Romanian;Scots;Scottish Gaelic;Shona;Simple English;Slovak;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Volapuk;Waray;Welsh;Western Frisian;Yoruba">San Salvador</name>
+		<name normalized="San Salvador District" languages="English;official">San Salvador District</name>
+		<name normalized="San Salvador distritu" languages="Quechua">San Salvador distritu</name>
+		<name normalized="San Salvadoras" languages="Lithuanian">San Salvadoras</name>
+		<name normalized="San Salvadori" languages="Albanian">San Salvadori</name>
+		<name normalized="San Salvado" languages="Haitian">San Salvadò</name>
+		<name normalized="San-Salvadoro" languages="Esperanto">San-Salvadoro</name>
+		<name normalized="Sansalvadora" languages="Latvian">Sansalvadora</name>
+		<name normalized="Urbs Sancti Salvatoris" languages="Latin">Urbs Sancti Salvatoris</name>
+		<name normalized="Σαν Σαλβαδορ" languages="Greek">Σαν Σαλβαδόρ</name>
+		<name normalized="Goрad Сaн-Сaльvadoр" languages="Belarusian">Горад Сан-Сальвадор</name>
+		<name normalized="Сaн Сaлvadoр" languages="Bulgarian;Macedonian;Sakha;Serbian">Сан Салвадор</name>
+		<name normalized="Сaн-Сaльvadoр" languages="Chechen;Ossetic;Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Сан-Сальвадор</name>
+		<name normalized="Sան Sաlվաdvr" languages="Armenian">Սան Սալվադոր</name>
+		<name normalized="סן סדvvדvr" languages="Hebrew">סן סלוודור</name>
+		<name normalized="سאن سאلوאدوr" languages="Persian">سان سالوادور</name>
+		<name normalized="سאن سאلۋאدوr" languages="Uyghur">سان سالۋادور</name>
+		<name normalized="سאن سلfאدوr" languages="Arabic">سان سلفادور</name>
+		<name normalized="سאن سلوאڈوr" languages="Urdu">سان سلواڈور</name>
+		<name normalized="sाn sाl्v्hाडor" languages="Marathi">सान साल्व्हाडोर</name>
+		<name normalized="sਾn sਾlvਾdੋr" languages="Punjabi">ਸਾਨ ਸਾਲਵਾਦੋਰ</name>
+		<name normalized="சான் சல்வடோர்" languages="Tamil">சான் சல்வடோர்</name>
+		<name normalized="ซันซัลวาดอร์" languages="Thai">ซันซัลวาดอร์</name>
+		<name normalized="སན་སལ་ཝ་ཌོར།" languages="Tibetan">སན་སལ་ཝ་ཌོར།</name>
+		<name normalized="სან-სალვადორი" languages="Georgian">სან-სალვადორი</name>
+		<name normalized="ሳን ሳልቫዶር" languages="Amharic">ሳን ሳልቫዶር</name>
+		<name normalized="snsrbdr" languages="Japanese">サンサルバドル</name>
+		<name normalized="聖薩爾瓦多" languages="Chinese">聖薩爾瓦多</name>
+		<name normalized="산살바도르" languages="Korean">산살바도르</name>
+	</region>
+	<region name="South Abaco" type="district" typeTranslated="district">
+		<name normalized="Abaco" languages="English;Italian;official">Abaco</name>
+		<name normalized="Abaco District" languages="English;official">Abaco District</name>
+		<name normalized="Abacus" languages="Danish;Dutch">Abacus</name>
+		<name normalized="Abako" languages="Basque;Esperanto">Abako</name>
+		<name normalized="Abakus" languages="Bosnian;Czech;German;Norwegian (bokmal);Polish;Serbo-Croatian;Slovak">Abakus</name>
+		<name normalized="Abaque" languages="French">Abaque</name>
+		<name normalized="Etela-Abaco" languages="Finnish">Etelä-Abaco</name>
+		<name normalized="Pietu Abakas" languages="Lithuanian">Pietų Abakas</name>
+		<name normalized="South Abaco" languages="English;French;Italian;official;Portuguese;Simple English">South Abaco</name>
+		<name normalized="South Abaco District" languages="English;official">South Abaco District</name>
+		<name normalized="Abac" languages="Catalan">Àbac</name>
+		<name normalized="Abbacu" languages="Sicilian">Àbbacu</name>
+		<name normalized="Abaco" languages="Galician;Spanish">Ábaco</name>
+		<name normalized="Abak" languages="Ukrainian">Абак</name>
+		<name normalized="Abakuс" languages="Serbian">Абакус</name>
+		<name normalized="Юzный Abako" languages="Russian">Южный Абако</name>
+		<name normalized="სამხრეთი აბაკო" languages="Georgian">სამხრეთი აბაკო</name>
+	</region>
+	<region name="South Andros" type="district" typeTranslated="district">
+		<name normalized="Andras" languages="Lithuanian">Andras</name>
+		<name normalized="Andro" languages="Italian">Andro</name>
+		<name normalized="Andros" languages="Breton;Catalan;Croatian;Danish;Dutch;English;Faroese;French;Galician;German;Indonesian;Latin;Norwegian (bokmal);official;Polish;Portuguese;Serbo-Croatian;Simple English;Spanish;Swedish;Turkish;Vietnamese;Welsh">Andros</name>
+		<name normalized="Andros District" languages="English;official">Andros District</name>
+		<name normalized="Andros Sur" languages="Spanish">Andros Sur</name>
+		<name normalized="Etela-Andros" languages="Finnish">Etelä-Andros</name>
+		<name normalized="South Andros" languages="English;French;Italian;official;Portuguese;Simple English">South Andros</name>
+		<name normalized="South Andros District" languages="English;official">South Andros District</name>
+		<name normalized="Andros" languages="Finnish;Norwegian Nynorsk">Ándros</name>
+		<name normalized="Endra" languages="Albanian">Ëndra</name>
+		<name normalized="Ανδρος" languages="Greek">Άνδρος</name>
+		<name normalized="Aнdрoс" languages="Bulgarian;Macedonian;Russian;Serbian;Ukrainian">Андрос</name>
+		<name normalized="أندrوس" languages="Arabic">أندروس</name>
+		<name normalized="อานดรอส" languages="Thai">อานดรอส</name>
+		<name normalized="andrs島" languages="Japanese">アンドロス島</name>
+		<name normalized="安德羅斯島" languages="Chinese">安德羅斯島</name>
+		<name normalized="안드로스 섬" languages="Korean">안드로스 섬</name>
+	</region>
+	<region name="South Eleuthera" type="district" typeTranslated="district">
+		<name normalized="Eleutera" languages="Lithuanian">Eleutera</name>
+		<name normalized="Eleuthera" languages="Dutch;English;French;Galician;German;Italian;official;Polish;Portuguese;Simple English;Spanish;Vietnamese">Eleuthera</name>
+		<name normalized="Eleuthera District" languages="English;official">Eleuthera District</name>
+		<name normalized="Eleuthera Sur" languages="Spanish">Eleuthera Sur</name>
+		<name normalized="Etela-Eleuthera" languages="Finnish">Etelä-Eleuthera</name>
+		<name normalized="South Eleuthera" languages="English;French;Italian;official;Portuguese;Simple English">South Eleuthera</name>
+		<name normalized="South Eleuthera District" languages="English;official">South Eleuthera District</name>
+		<name normalized="Iльюtiрa" languages="Ukrainian">Ельютера</name>
+		<name normalized="Ilutiрa" languages="Serbian">Ељутера</name>
+		<name normalized="Eльюtiрa" languages="Russian">Эльютера</name>
+		<name normalized="อิลิวเทรา" languages="Thai">อิลิวเทรา</name>
+		<name normalized="ელიუთერა" languages="Georgian">ელიუთერა</name>
+		<name normalized="სამხრეთი ელიუთერა" languages="Georgian">სამხრეთი ელიუთერა</name>
+		<name normalized="erーsr島" languages="Japanese">エルーセラ島</name>
+		<name normalized="伊柳塞拉岛" languages="Chinese">伊柳塞拉岛</name>
+	</region>
+	<region name="Spanish Wells" type="district" typeTranslated="district">
+		<name normalized="Spanish Wells" languages="Dutch;English;Finnish;French;Galician;Italian;official;Polish;Portuguese;Simple English;Spanish">Spanish Wells</name>
+		<name normalized="Spanish Wells District" languages="English;official">Spanish Wells District</name>
+		<name normalized="Сpeнis-Ueллс" languages="Russian">Спэниш-Уэллс</name>
+		<name normalized="אسpنیش ولز" languages="Persian">اسپنیش ولز</name>
+	</region>
+	<region name="West Grand Bahama" type="district" typeTranslated="district">
+		<name normalized="Bahama Handia" languages="Basque">Bahama Handia</name>
+		<name normalized="Didzioji Bahama" languages="Lithuanian">Didžioji Bahama</name>
+		<name normalized="Gran Bahama" languages="Galician;Spanish">Gran Bahama</name>
+		<name normalized="Grand Bahama" languages="Dutch;English;Finnish;French;German;Italian;official;Turkish">Grand Bahama</name>
+		<name normalized="Grand Bahama District" languages="English;official">Grand Bahama District</name>
+		<name normalized="Granda Bahamo" languages="Esperanto">Granda Bahamo</name>
+		<name normalized="Lansi- Grand Bahama" languages="Finnish">Länsi- Grand Bahama</name>
+		<name normalized="West Grand Bahama" languages="English;French;Italian;Norwegian (bokmal);official;Portuguese;Simple English;Spanish">West Grand Bahama</name>
+		<name normalized="West Grand Bahama District" languages="English;official">West Grand Bahama District</name>
+		<name normalized="Wielka Bahama" languages="Polish">Wielka Bahama</name>
+		<name normalized="Γκραντ Μπαχαμα" languages="Greek">Γκραντ Μπαχάμα</name>
+		<name normalized="Boльsoй Bagaмa" languages="Russian">Большой Багама</name>
+		<name normalized="Viлika Bakaмa" languages="Serbian">Велика Бахама</name>
+		<name normalized="Viлikiй Bagaмa" languages="Ukrainian">Великий Багама</name>
+		<name normalized="bאhאmא אلkbrى" languages="Arabic">باهاما الكبرى</name>
+		<name normalized="დიდი ბაჰამა" languages="Georgian">დიდი ბაჰამა</name>
+		<name normalized="grnd・bhm島" languages="Japanese">グランド・バハマ島</name>
+		<name normalized="大巴哈马岛" languages="Chinese">大巴哈马岛</name>
+		<name normalized="그랜드바하마 섬" languages="Korean">그랜드바하마 섬</name>
+	</region>
+</regions>

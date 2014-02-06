@@ -1,0 +1,41 @@
+<regions country="Greenland">
+	<region name="Kujalleq" type="municipality" typeTranslated="kommune">
+		<name normalized="Kommune Kujalleq" languages="German;Kalaallisut">Kommune Kujalleq</name>
+		<name normalized="Kujalleq" languages="Asturian;Basque;Catalan;Dutch;English;Esperanto;Estonian;Finnish;French;Icelandic;Italian;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Swedish;Vietnamese">Kujalleq</name>
+		<name normalized="Kujalleq Kommune" languages="Danish">Kujalleq Kommune</name>
+		<name normalized="Kuiллik" languages="Russian;Ukrainian">Куяллек</name>
+		<name normalized="Kujaлik" languages="Macedonian;Serbian">Кујалек</name>
+		<name normalized="kyrtk" languages="Japanese">クヤレック</name>
+		<name normalized="库雅雷哥" languages="Chinese">库雅雷哥</name>
+		<name normalized="쿠얄레크" languages="Korean">쿠얄레크</name>
+	</region>
+	<region name="Qaasuitsup" type="municipality" typeTranslated="kommune">
+		<name normalized="Qaasuitsoq" languages="Norwegian (bokmal)">Qaasuitsoq</name>
+		<name normalized="Qaasuitsup" languages="Asturian;Basque;Catalan;Dutch;English;Esperanto;Estonian;Finnish;French;Icelandic;Italian;official;Polish;Portuguese;Romanian;Spanish;Swedish;Vietnamese">Qaasuitsup</name>
+		<name normalized="Qaasuitsup Kommune" languages="Danish">Qaasuitsup Kommune</name>
+		<name normalized="Qaasuitsup Kommunia" languages="German;Kalaallisut">Qaasuitsup Kommunia</name>
+		<name normalized="Severni Gronsko" languages="Czech">Severní Grónsko</name>
+		<name normalized="Kaaсuitсup" languages="Russian">Каасуитсуп</name>
+		<name normalized="Kaaсuytсup" languages="Ukrainian">Каасуїтсуп</name>
+		<name normalized="Kaсuitсup" languages="Macedonian;Serbian">Касуитсуп</name>
+		<name normalized="კაასუიტსუპი" languages="Georgian">კაასუიტსუპი</name>
+		<name normalized="카수이추프" languages="Korean">카수이추프</name>
+	</region>
+	<region name="Qeqqata" type="municipality" typeTranslated="kommune">
+		<name normalized="Qeqqata" languages="Asturian;Basque;Catalan;Czech;Dutch;English;Esperanto;Estonian;Finnish;French;Icelandic;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Swedish;Vietnamese">Qeqqata</name>
+		<name normalized="Qeqqata Kommune" languages="Danish">Qeqqata Kommune</name>
+		<name normalized="Qeqqata Kommunia" languages="German;Kalaallisut">Qeqqata Kommunia</name>
+		<name normalized="Kikata" languages="Macedonian;Serbian">Кеката</name>
+		<name normalized="Kikkata" languages="Russian;Ukrainian">Кекката</name>
+		<name normalized="kykאtא" languages="Arabic">كيكاتا</name>
+		<name normalized="케카타" languages="Korean">케카타</name>
+	</region>
+	<region name="Sermersooq" type="municipality" typeTranslated="kommune">
+		<name normalized="Kommuneqarfik Sermersooq" languages="German;Kalaallisut">Kommuneqarfik Sermersooq</name>
+		<name normalized="Sermersooq" languages="Asturian;Basque;Catalan;Dutch;English;Esperanto;Estonian;Finnish;French;Icelandic;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Swedish;Vietnamese">Sermersooq</name>
+		<name normalized="Sermersooq Kommune" languages="Danish">Sermersooq Kommune</name>
+		<name normalized="Сiрмiрсok" languages="Macedonian;Serbian">Сермерсок</name>
+		<name normalized="Сiрмiрсook" languages="Russian;Ukrainian">Сермерсоок</name>
+		<name normalized="세르메르소크" languages="Korean">세르메르소크</name>
+	</region>
+</regions>

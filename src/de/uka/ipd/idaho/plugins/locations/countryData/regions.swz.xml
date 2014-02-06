@@ -1,0 +1,65 @@
+<regions country="Swaziland">
+	<region name="Hhohho" type="district" typeTranslated="district">
+		<name normalized="Distretto di Hhohho" languages="Italian">Distretto di Hhohho</name>
+		<name normalized="Districtul Hhohho" languages="Romanian">Districtul Hhohho</name>
+		<name normalized="Dystrykt Hhohho" languages="Polish">Dystrykt Hhohho</name>
+		<name normalized="Hhohho" languages="Czech;Dutch;English;Esperanto;Finnish;French;German;Northern Sami;Norwegian (bokmal);official;Portuguese;Spanish;Swati;Swedish">Hhohho</name>
+		<name normalized="Hhohho District" languages="English;official">Hhohho District</name>
+		<name normalized="Hhohho rajonas" languages="Lithuanian">Hhohho rajonas</name>
+		<name normalized="Χνοχο" languages="Greek">Χνόχο</name>
+		<name normalized="Koko" languages="Bulgarian;Russian;Ukrainian">Хохо</name>
+		<name normalized="mqאtعة hوhو" languages="Arabic">مقاطعة هوهو</name>
+		<name normalized="hh" languages="Japanese">ホホ</name>
+		<name normalized="霍霍" languages="Chinese">霍霍</name>
+		<name normalized="호호 구" languages="Korean">호호 구</name>
+	</region>
+	<region name="Lubombo" type="district" typeTranslated="district">
+		<name normalized="Distretto di Lubombo" languages="Italian">Distretto di Lubombo</name>
+		<name normalized="Districtul Lubombo" languages="Romanian">Districtul Lubombo</name>
+		<name normalized="Dystrykt Lubombo" languages="Polish">Dystrykt Lubombo</name>
+		<name normalized="Lubombo" languages="Dutch;English;Finnish;French;German;Norwegian (bokmal);official;Portuguese;Spanish;Swati;Swedish">Lubombo</name>
+		<name normalized="Lubombo District" languages="English;official">Lubombo District</name>
+		<name normalized="Lubombo rajonas" languages="Lithuanian">Lubombo rajonas</name>
+		<name normalized="Λουμπομπο" languages="Greek">Λουμπόμπο</name>
+		<name normalized="Лuboмbo" languages="Bulgarian;Russian;Ukrainian">Лубомбо</name>
+		<name normalized="mqאtعة لوbوmbو" languages="Arabic">مقاطعة لوبومبو</name>
+		<name normalized="rbnb" languages="Japanese">ルボンボ</name>
+		<name normalized="卢邦博" languages="Chinese">卢邦博</name>
+		<name normalized="루봄보 구" languages="Korean">루봄보 구</name>
+	</region>
+	<region name="Manzini" type="district" typeTranslated="district">
+		<name normalized="Distretto di Manzini" languages="Italian">Distretto di Manzini</name>
+		<name normalized="Districtul Manzini" languages="Romanian">Districtul Manzini</name>
+		<name normalized="Distrito de Manzini" languages="Spanish">Distrito de Manzini</name>
+		<name normalized="Dystrykt Manzini" languages="Polish">Dystrykt Manzini</name>
+		<name normalized="Manzini" languages="Afrikaans;Azerbaijani;Croatian;Dutch;English;Esperanto;Estonian;Finnish;French;German;Italian;Low German;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Swati;Swedish">Manzini</name>
+		<name normalized="Manzini District" languages="English;official">Manzini District</name>
+		<name normalized="Manzinio rajonas" languages="Lithuanian">Manzinio rajonas</name>
+		<name normalized="Μανζινι" languages="Greek">Μανζίνι</name>
+		<name normalized="Мaнziнi" languages="Bulgarian;Russian;Serbian">Манзини</name>
+		<name normalized="Мaнziнi" languages="Ukrainian">Манзіні</name>
+		<name normalized="mqאtعة mنزyنy" languages="Arabic">مقاطعة منزيني</name>
+		<name normalized="mnzn" languages="Japanese">マンジニ</name>
+		<name normalized="mnzn地方" languages="Japanese">マンジニ地方</name>
+		<name normalized="曼齊尼區" languages="Chinese">曼齊尼區</name>
+		<name normalized="曼齐尼" languages="Chinese">曼齐尼</name>
+		<name normalized="만지니" languages="Korean">만지니</name>
+		<name normalized="만지니 구" languages="Korean">만지니 구</name>
+	</region>
+	<region name="Shiselweni" type="district" typeTranslated="district">
+		<name normalized="Distretto di Shiselweni" languages="Italian">Distretto di Shiselweni</name>
+		<name normalized="Districtul Shiselweni" languages="Romanian">Districtul Shiselweni</name>
+		<name normalized="Dystrykt Shiselweni" languages="Polish">Dystrykt Shiselweni</name>
+		<name normalized="Shiselweni" languages="Catalan;Dutch;English;Finnish;French;German;Norwegian (bokmal);official;Swati;Swedish">Shiselweni</name>
+		<name normalized="Shiselweni District" languages="English;official">Shiselweni District</name>
+		<name normalized="Shishelweni" languages="Portuguese;Spanish">Shishelweni</name>
+		<name normalized="Siselvenio rajonas" languages="Lithuanian">Šiselvenio rajonas</name>
+		<name normalized="Σισελουeνι" languages="Greek">Σισελουένι</name>
+		<name normalized="Siсiлviнi" languages="Bulgarian;Russian">Шиселвени</name>
+		<name normalized="Siсiлviнi" languages="Ukrainian">Шіселвені</name>
+		<name normalized="mqאtعة شyزلوyنy" languages="Arabic">مقاطعة شيزلويني</name>
+		<name normalized="ssruen" languages="Japanese">シセルウェニ</name>
+		<name normalized="希塞卢韦尼" languages="Chinese">希塞卢韦尼</name>
+		<name normalized="시셀웨니 구" languages="Korean">시셀웨니 구</name>
+	</region>
+</regions>

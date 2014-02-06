@@ -1,0 +1,44 @@
+<regions country="Northern Mariana Islands">
+	<region name="Northern Islands" type="null" typeTranslated="null">
+		<name normalized="Northern Islands" languages="English;official">Northern Islands</name>
+	</region>
+	<region name="Rota" type="null" typeTranslated="null">
+		<name normalized="Rota" languages="Breton;Catalan;Czech;Dutch;English;Finnish;French;Galician;German;Italian;Latvian;official;Polish;Portuguese;Slovak;Spanish;Swedish">Rota</name>
+		<name normalized="Рota" languages="Chuvash;Russian">Рота</name>
+		<name normalized="rوtא" languages="Persian">روتا</name>
+		<name normalized="罗塔" languages="Chinese">罗塔</name>
+	</region>
+	<region name="Saipan" type="null" typeTranslated="null">
+		<name normalized="Saipan" languages="Afrikaans;Basque;Bosnian;Breton;Catalan;Czech;Dutch;English;Estonian;Finnish;French;Galician;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Serbo-Croatian;Shona;Simple English;Slovenian;Swedish;Turkish;Vietnamese;Waray;Western Frisian">Saipan</name>
+		<name normalized="Saipanas" languages="Lithuanian">Saipanas</name>
+		<name normalized="Saipano" languages="Esperanto">Saipano</name>
+		<name normalized="Saipan" languages="Spanish">Saipán</name>
+		<name normalized="Saypan" languages="Azerbaijani">Saypan</name>
+		<name normalized="Σαιπαν" languages="Greek">Σαϊπάν</name>
+		<name normalized="Voсtрaў Сaйpaн" languages="Belarusian">Востраў Сайпан</name>
+		<name normalized="Сaйpaн" languages="Bulgarian;Russian;Ukrainian">Сайпан</name>
+		<name normalized="Сajpaн" languages="Serbian">Сајпан</name>
+		<name normalized="סאיpאן" languages="Hebrew">סאיפאן</name>
+		<name normalized="سאئpین" languages="Urdu">سائپین</name>
+		<name normalized="سאybאن" languages="Arabic">سايبان</name>
+		<name normalized="سאیpن" languages="Persian">سایپن</name>
+		<name normalized="เกาะไซปัน" languages="Thai">เกาะไซปัน</name>
+		<name normalized="საიპანი" languages="Georgian">საიპანი</name>
+		<name normalized="sipn島" languages="Japanese">サイパン島</name>
+		<name normalized="塞班岛" languages="Chinese">塞班岛</name>
+		<name normalized="사이판 섬" languages="Korean">사이판 섬</name>
+	</region>
+	<region name="Tinian" type="null" typeTranslated="null">
+		<name normalized="Tini'an" languages="Chamorro">Tini'an</name>
+		<name normalized="Tinian" languages="Dutch;English;Finnish;French;Galician;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Slovenian;Spanish;Swedish;Western Frisian">Tinian</name>
+		<name normalized="Tiniano" languages="Esperanto">Tiniano</name>
+		<name normalized="Voсtрaў Tынiiн" languages="Belarusian">Востраў Тыніян</name>
+		<name normalized="Tiнiaн" languages="Bulgarian;Russian">Тиниан</name>
+		<name normalized="Tiнiaн" languages="Ukrainian">Тініан</name>
+		<name normalized="tיnיאן" languages="Hebrew">טיניאן</name>
+		<name normalized="ടിനിയൻ ദ്വീപ്" languages="Malayalam">ടിനിയൻ ദ്വീപ്</name>
+		<name normalized="tnan島" languages="Japanese">テニアン島</name>
+		<name normalized="天宁岛" languages="Chinese">天宁岛</name>
+		<name normalized="티니안 섬" languages="Korean">티니안 섬</name>
+	</region>
+</regions>

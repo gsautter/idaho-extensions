@@ -1,0 +1,457 @@
+<regions country="Cyprus">
+	<region name="Ammochostos" type="district" typeTranslated="district">
+		<name normalized="Ammochostos" languages="English;official">Ammochostos</name>
+		<name normalized="Ammochostos District" languages="English;official">Ammochostos District</name>
+		<name normalized="Ammokhostos" languages="Norwegian Nynorsk">Ammókhostos</name>
+		<name normalized="Bezirk Famagusta" languages="German">Bezirk Famagusta</name>
+		<name normalized="Distretto di Famagosta" languages="Italian">Distretto di Famagosta</name>
+		<name normalized="District de Famagouste" languages="French">District de Famagouste</name>
+		<name normalized="Districte de Famagusta" languages="Catalan">Districte de Famagusta</name>
+		<name normalized="Districtul Famagusta" languages="Romanian">Districtul Famagusta</name>
+		<name normalized="Distrito de Famagusta" languages="Spanish">Distrito de Famagusta</name>
+		<name normalized="Dystrykt Famagusta" languages="Polish">Dystrykt Famagusta</name>
+		<name normalized="Famagosta" languages="Italian;Occitan">Famagosta</name>
+		<name normalized="Famagouste" languages="French">Famagouste</name>
+		<name normalized="Famagusta" languages="Basque;Catalan;Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;German;Hungarian;Indonesian;Limburgish;Lithuanian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish;Waray">Famagusta</name>
+		<name normalized="Famagusta Destrict" languages="Scots">Famagusta Destrict</name>
+		<name normalized="Famagusta District" languages="English;official">Famagusta District</name>
+		<name normalized="Famagustan alue" languages="Finnish">Famagustan alue</name>
+		<name normalized="Famagustos apygarda" languages="Lithuanian">Famagustos apygarda</name>
+		<name normalized="Gazimagusa" languages="Slovak;Turkish">Gazimağusa</name>
+		<name normalized="Magusa" languages="Limburgish;Slovak">Mağusa</name>
+		<name normalized="Magusa kazası" languages="Turkish">Mağusa kazası</name>
+		<name normalized="Αμμοχωστος" languages="Greek">Αμμόχωστος</name>
+		<name normalized="Επαρχια Αμμοχωστου" languages="Greek">Επαρχία Αμμοχώστου</name>
+		<name normalized="Aмokoсtoс" languages="Serbian">Амохостос</name>
+		<name normalized="Фaмaguсta" languages="Bulgarian;Russian;Ukrainian">Фамагуста</name>
+		<name normalized="Fաmագvystայի srjան" languages="Armenian">Ֆամագուստայի շրջան</name>
+		<name normalized="pמגvסth" languages="Hebrew">פמגוסטה</name>
+		<name normalized="dلع fאmאgوسtא" languages="Urdu;Western Punjabi">ضلع فاماگوستا</name>
+		<name normalized="fאmאغوسtא" languages="Arabic">فاماغوستا</name>
+		<name normalized="fאmאgوسtא" languages="Persian;Urdu;Western Punjabi">فاماگوستا</name>
+		<name normalized="mنtqة fאmאغوسtא" languages="Arabic">منطقة فاماغوستا</name>
+		<name normalized="hamgst" languages="Japanese">ファマグスタ</name>
+		<name normalized="法马古斯塔" languages="Chinese">法马古斯塔</name>
+		<name normalized="法马古斯塔区" languages="Chinese">法马古斯塔区</name>
+		<name normalized="파마구스타" languages="Korean">파마구스타</name>
+		<name normalized="파마구스타 구" languages="Korean">파마구스타 구</name>
+	</region>
+	<region name="Famagusta" type="district" typeTranslated="district">
+		<name normalized="Ammokhostos" languages="Norwegian Nynorsk">Ammókhostos</name>
+		<name normalized="Bezirk Famagusta" languages="German">Bezirk Famagusta</name>
+		<name normalized="Distretto di Famagosta" languages="Italian">Distretto di Famagosta</name>
+		<name normalized="District de Famagouste" languages="French">District de Famagouste</name>
+		<name normalized="Districte de Famagusta" languages="Catalan">Districte de Famagusta</name>
+		<name normalized="Districtul Famagusta" languages="Romanian">Districtul Famagusta</name>
+		<name normalized="Distrito de Famagusta" languages="Spanish">Distrito de Famagusta</name>
+		<name normalized="Dystrykt Famagusta" languages="Polish">Dystrykt Famagusta</name>
+		<name normalized="Famagosta" languages="Italian;Occitan">Famagosta</name>
+		<name normalized="Famagouste" languages="French">Famagouste</name>
+		<name normalized="Famagusta" languages="Basque;Catalan;Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;German;Hungarian;Indonesian;Limburgish;Lithuanian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish;Waray">Famagusta</name>
+		<name normalized="Famagusta Destrict" languages="Scots">Famagusta Destrict</name>
+		<name normalized="Famagusta District" languages="English;official">Famagusta District</name>
+		<name normalized="Famagustan alue" languages="Finnish">Famagustan alue</name>
+		<name normalized="Famagustos apygarda" languages="Lithuanian">Famagustos apygarda</name>
+		<name normalized="Gazimagusa" languages="Slovak;Turkish">Gazimağusa</name>
+		<name normalized="Magusa" languages="Limburgish;Slovak">Mağusa</name>
+		<name normalized="Magusa kazası" languages="Turkish">Mağusa kazası</name>
+		<name normalized="Αμμοχωστος" languages="Greek">Αμμόχωστος</name>
+		<name normalized="Επαρχια Αμμοχωστου" languages="Greek">Επαρχία Αμμοχώστου</name>
+		<name normalized="Aмokoсtoс" languages="Serbian">Амохостос</name>
+		<name normalized="Фaмaguсta" languages="Bulgarian;Russian;Ukrainian">Фамагуста</name>
+		<name normalized="Fաmագvystայի srjան" languages="Armenian">Ֆամագուստայի շրջան</name>
+		<name normalized="pמגvסth" languages="Hebrew">פמגוסטה</name>
+		<name normalized="dلع fאmאgوسtא" languages="Urdu;Western Punjabi">ضلع فاماگوستا</name>
+		<name normalized="fאmאغوسtא" languages="Arabic">فاماغوستا</name>
+		<name normalized="fאmאgوسtא" languages="Persian;Urdu;Western Punjabi">فاماگوستا</name>
+		<name normalized="mنtqة fאmאغوسtא" languages="Arabic">منطقة فاماغوستا</name>
+		<name normalized="hamgst" languages="Japanese">ファマグスタ</name>
+		<name normalized="法马古斯塔" languages="Chinese">法马古斯塔</name>
+		<name normalized="法马古斯塔区" languages="Chinese">法马古斯塔区</name>
+		<name normalized="파마구스타" languages="Korean">파마구스타</name>
+		<name normalized="파마구스타 구" languages="Korean">파마구스타 구</name>
+	</region>
+	<region name="Keryneia" type="district" typeTranslated="district">
+		<name normalized="Bezirk Kyrenia" languages="German">Bezirk Kyrenia</name>
+		<name normalized="Distretto di Kyrenia" languages="Italian">Distretto di Kyrenia</name>
+		<name normalized="District de Kyrenia" languages="French">District de Kyrenia</name>
+		<name normalized="Districte de Kerinia" languages="Catalan">Districte de Kerínia</name>
+		<name normalized="Districtul Kyrenia" languages="Romanian">Districtul Kyrenia</name>
+		<name normalized="Distrito de Kyrenia" languages="Spanish">Distrito de Kyrenia</name>
+		<name normalized="Dystrykt Kirenia" languages="Polish">Dystrykt Kirenia</name>
+		<name normalized="Girne" languages="Dutch;Gagauz;German;Kara-Kalpak;Kinyarwanda;Limburgish;Slovak;Turkish">Girne</name>
+		<name normalized="Girne kazası" languages="Turkish">Girne kazası</name>
+		<name normalized="Huyen Kyrenia" languages="Vietnamese">Huyện Kyrenia</name>
+		<name normalized="Keryneia" languages="English;official">Keryneia</name>
+		<name normalized="Keryneia District" languages="English;official">Keryneia District</name>
+		<name normalized="Kerinia" languages="Hungarian">Kerínia</name>
+		<name normalized="Kirenia" languages="Polish">Kirenia</name>
+		<name normalized="Kirenija" languages="Lithuanian">Kirenija</name>
+		<name normalized="Kirenijos apygarda" languages="Lithuanian">Kirenijos apygarda</name>
+		<name normalized="Kyrenia" languages="Croatian;Dutch;English;Estonian;Finnish;French;Italian;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Spanish;Swedish;Waray">Kyrenia</name>
+		<name normalized="Kyrenia Destrict" languages="Scots">Kyrenia Destrict</name>
+		<name normalized="Kyrenia District" languages="English;official">Kyrenia District</name>
+		<name normalized="Kyrenian alue" languages="Finnish">Kyrenian alue</name>
+		<name normalized="Kyrinia pa Kypros" languages="Norwegian Nynorsk">Kyrínia på Kypros</name>
+		<name normalized="Επαρχια Κερuνειας" languages="Greek">Επαρχία Κερύνειας</name>
+		<name normalized="Κερuνεια" languages="Greek">Κερύνεια</name>
+		<name normalized="Kiрiнija" languages="Serbian">Керинеја</name>
+		<name normalized="Kiрiнii" languages="Bulgarian;Russian">Кирения</name>
+		<name normalized="Kiрiнii" languages="Ukrainian">Киренія</name>
+		<name normalized="Kiрiнii" languages="Ukrainian">Кіренія</name>
+		<name normalized="Kիrենիայի srjան" languages="Armenian">Կիրենիայի շրջան</name>
+		<name normalized="qיrnיh" languages="Hebrew">קירניה</name>
+		<name normalized="dلع کیrینیא" languages="Western Punjabi">ضلع کیرینیا</name>
+		<name normalized="dلع کیrینیہ" languages="Urdu">ضلع کیرینیہ</name>
+		<name normalized="غrنة" languages="Arabic">غرنة</name>
+		<name normalized="mنtqة kyryنyא" languages="Arabic">منطقة كيرينيا</name>
+		<name normalized="نאhیh gیrنh" languages="Persian">ناحیه گیرنه</name>
+		<name normalized="کאیrنیא" languages="Persian">کایرنیا</name>
+		<name normalized="کیrینیא" languages="Western Punjabi">کیرینیا</name>
+		<name normalized="کیrینیہ" languages="Urdu">کیرینیہ</name>
+		<name normalized="krna" languages="Japanese">キレニア</name>
+		<name normalized="凯里尼亚" languages="Chinese">凯里尼亚</name>
+		<name normalized="凯里尼亚区" languages="Chinese">凯里尼亚区</name>
+		<name normalized="키레니아" languages="Korean">키레니아</name>
+		<name normalized="키레니아 구" languages="Korean">키레니아 구</name>
+	</region>
+	<region name="Kyrenia" type="district" typeTranslated="district">
+		<name normalized="Bezirk Kyrenia" languages="German">Bezirk Kyrenia</name>
+		<name normalized="Distretto di Kyrenia" languages="Italian">Distretto di Kyrenia</name>
+		<name normalized="District de Kyrenia" languages="French">District de Kyrenia</name>
+		<name normalized="Districte de Kerinia" languages="Catalan">Districte de Kerínia</name>
+		<name normalized="Districtul Kyrenia" languages="Romanian">Districtul Kyrenia</name>
+		<name normalized="Distrito de Kyrenia" languages="Spanish">Distrito de Kyrenia</name>
+		<name normalized="Dystrykt Kirenia" languages="Polish">Dystrykt Kirenia</name>
+		<name normalized="Girne" languages="Dutch;Gagauz;German;Kara-Kalpak;Kinyarwanda;Limburgish;Slovak;Turkish">Girne</name>
+		<name normalized="Girne kazası" languages="Turkish">Girne kazası</name>
+		<name normalized="Huyen Kyrenia" languages="Vietnamese">Huyện Kyrenia</name>
+		<name normalized="Kerinia" languages="Hungarian">Kerínia</name>
+		<name normalized="Kirenia" languages="Polish">Kirenia</name>
+		<name normalized="Kirenija" languages="Lithuanian">Kirenija</name>
+		<name normalized="Kirenijos apygarda" languages="Lithuanian">Kirenijos apygarda</name>
+		<name normalized="Kyrenia" languages="Croatian;Dutch;English;Estonian;Finnish;French;Italian;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Spanish;Swedish;Waray">Kyrenia</name>
+		<name normalized="Kyrenia Destrict" languages="Scots">Kyrenia Destrict</name>
+		<name normalized="Kyrenia District" languages="English;official">Kyrenia District</name>
+		<name normalized="Kyrenian alue" languages="Finnish">Kyrenian alue</name>
+		<name normalized="Kyrinia pa Kypros" languages="Norwegian Nynorsk">Kyrínia på Kypros</name>
+		<name normalized="Επαρχια Κερuνειας" languages="Greek">Επαρχία Κερύνειας</name>
+		<name normalized="Κερuνεια" languages="Greek">Κερύνεια</name>
+		<name normalized="Kiрiнija" languages="Serbian">Керинеја</name>
+		<name normalized="Kiрiнii" languages="Bulgarian;Russian">Кирения</name>
+		<name normalized="Kiрiнii" languages="Ukrainian">Киренія</name>
+		<name normalized="Kiрiнii" languages="Ukrainian">Кіренія</name>
+		<name normalized="Kիrենիայի srjան" languages="Armenian">Կիրենիայի շրջան</name>
+		<name normalized="qיrnיh" languages="Hebrew">קירניה</name>
+		<name normalized="dلع کیrینیא" languages="Western Punjabi">ضلع کیرینیا</name>
+		<name normalized="dلع کیrینیہ" languages="Urdu">ضلع کیرینیہ</name>
+		<name normalized="غrنة" languages="Arabic">غرنة</name>
+		<name normalized="mنtqة kyryنyא" languages="Arabic">منطقة كيرينيا</name>
+		<name normalized="نאhیh gیrنh" languages="Persian">ناحیه گیرنه</name>
+		<name normalized="کאیrنیא" languages="Persian">کایرنیا</name>
+		<name normalized="کیrینیא" languages="Western Punjabi">کیرینیا</name>
+		<name normalized="کیrینیہ" languages="Urdu">کیرینیہ</name>
+		<name normalized="krna" languages="Japanese">キレニア</name>
+		<name normalized="凯里尼亚" languages="Chinese">凯里尼亚</name>
+		<name normalized="凯里尼亚区" languages="Chinese">凯里尼亚区</name>
+		<name normalized="키레니아" languages="Korean">키레니아</name>
+		<name normalized="키레니아 구" languages="Korean">키레니아 구</name>
+	</region>
+	<region name="Larnaka" type="district" typeTranslated="district">
+		<name normalized="Bezirk Larnaka" languages="German">Bezirk Larnaka</name>
+		<name normalized="Distretto di Larnaca" languages="Italian">Distretto di Larnaca</name>
+		<name normalized="District de Larnaca" languages="French">District de Larnaca</name>
+		<name normalized="Districte de Larnaca" languages="Catalan">Districte de Làrnaca</name>
+		<name normalized="Districtul Larnaca" languages="Romanian">Districtul Larnaca</name>
+		<name normalized="Distrito de Larnaca" languages="Spanish">Distrito de Lárnaca</name>
+		<name normalized="Dystrykt Larnaka" languages="Polish">Dystrykt Larnaka</name>
+		<name normalized="Larnaca" languages="Danish;Dutch;English;Estonian;French;Indonesian;Italian;lumbaart;Portuguese;Romanian;Scots;Swedish;Waray">Larnaca</name>
+		<name normalized="Larnaca Destrict" languages="Scots">Larnaca Destrict</name>
+		<name normalized="Larnaca District" languages="English">Larnaca District</name>
+		<name normalized="Larnaka" languages="Basque;Croatian;Czech;English;Esperanto;Finnish;German;Limburgish;Lithuanian;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Serbo-Croatian;Slovak;Turkish">Larnaka</name>
+		<name normalized="Larnaka District" languages="English;official">Larnaka District</name>
+		<name normalized="Larnaka kazası" languages="Turkish">Larnaka kazası</name>
+		<name normalized="Larnakan alue" languages="Finnish">Larnakan alue</name>
+		<name normalized="Larnakos apygarda" languages="Lithuanian">Larnakos apygarda</name>
+		<name normalized="Larnaca" languages="Catalan">Làrnaca</name>
+		<name normalized="Larnaca" languages="Portuguese;Spanish">Lárnaca</name>
+		<name normalized="Larnaka" languages="Hungarian">Lárnaka</name>
+		<name normalized="Επαρχια Λαρνακας" languages="Greek">Επαρχία Λάρνακας</name>
+		<name normalized="Λαρνακα" languages="Greek">Λάρνακα</name>
+		<name normalized="Лaрнaka" languages="Bulgarian;Chuvash;Russian;Serbian;Ukrainian">Ларнака</name>
+		<name normalized="Lաrնաkա" languages="Armenian">Լարնակա</name>
+		<name normalized="דrnqh" languages="Hebrew">לרנקה</name>
+		<name normalized="dلع لאrنאکא" languages="Urdu">ضلع لارناکا</name>
+		<name normalized="dلع لrنאکא" languages="Western Punjabi">ضلع لرناکا</name>
+		<name normalized="لאrنאکא" languages="Persian;Urdu">لارناکا</name>
+		<name normalized="لאrنkא" languages="Arabic">لارنكا</name>
+		<name normalized="لrنאکא" languages="Western Punjabi">لرناکا</name>
+		<name normalized="mنtqة لאrنkא" languages="Arabic">منطقة لارنكا</name>
+		<name normalized="نאhیh لאrنאکא" languages="Persian">ناحیه لارناکا</name>
+		<name normalized="ลาร์นากา" languages="Thai">ลาร์นากา</name>
+		<name normalized="ལར་ན་ཀ།" languages="Tibetan">ལར་ན་ཀ།</name>
+		<name normalized="ლარნაკა" languages="Georgian">ლარნაკა</name>
+		<name normalized="rrnk" languages="Japanese">ラルナカ</name>
+		<name normalized="拉纳卡" languages="Chinese">拉纳卡</name>
+		<name normalized="拉纳卡区" languages="Chinese">拉纳卡区</name>
+		<name normalized="라르나카" languages="Korean">라르나카</name>
+		<name normalized="라르나카 구" languages="Korean">라르나카 구</name>
+	</region>
+	<region name="Lefkosia" type="district" typeTranslated="district">
+		<name normalized="An Leafcois" languages="Irish">An Leafcóis</name>
+		<name normalized="Arqa Nikosiya" languages="Kara-Kalpak">Arqa Nikosiya</name>
+		<name normalized="Bezirk Nikosia" languages="German">Bezirk Nikosia</name>
+		<name normalized="Distretto di Nicosia" languages="Italian">Distretto di Nicosia</name>
+		<name normalized="District de Nicosie" languages="French">District de Nicosie</name>
+		<name normalized="Districte de Nicosia" languages="Catalan">Districte de Nicòsia</name>
+		<name normalized="Districtul Nicosia" languages="Romanian">Districtul Nicosia</name>
+		<name normalized="Distrito de Nicosia" languages="Spanish">Distrito de Nicosia</name>
+		<name normalized="Dystrykt Nikozja" languages="Polish">Dystrykt Nikozja</name>
+		<name normalized="Lefcosia" languages="Aromanian">Lefcosia</name>
+		<name normalized="Lefkosia" languages="English;Manx;official">Lefkosia</name>
+		<name normalized="Lefkosia District" languages="English;official">Lefkosia District</name>
+		<name normalized="Lefkosa" languages="Crimean Turkish;Gagauz;Turkish">Lefkoşa</name>
+		<name normalized="Lefkosa kazası" languages="Turkish">Lefkoşa kazası</name>
+		<name normalized="Nicosia" languages="Afrikaans;Albanian;Aragonese;Chinese (Min Nan);Danish;Dutch;English;Galician;Hungarian;Italian;Kalaallisut;Latin;Ligure;Limburgish;Malagasy;Malay;Maori;Nahuatl;Occitan;official;Romanian;Scots;Scottish Gaelic;Shona;Simple English;Spanish;Swedish;Tagalog;Vietnamese;Waray;Welsh;Yoruba">Nicosia</name>
+		<name normalized="Nicosia Destrict" languages="Scots">Nicosia Destrict</name>
+		<name normalized="Nicosia District" languages="English;official">Nicosia District</name>
+		<name normalized="Nicosie" languages="French;tarandine">Nicosie</name>
+		<name normalized="Nicosea" languages="lumbaart">Nicoséa</name>
+		<name normalized="Nicosia" languages="Neapolitan;Piedmontese">Nicosìa</name>
+		<name normalized="Nicusia" languages="Sicilian">Nicusìa</name>
+		<name normalized="Nicosia" languages="Catalan">Nicòsia</name>
+		<name normalized="Nicosia" languages="Portuguese">Nicósia</name>
+		<name normalized="Nikosia" languages="Achinese;Basque;Bavarian;Estonian;Faroese;Fiji Hindi;Finnish;German;Ido;Indonesian;Low German;Lower Sorbian;Luxembourgish;Northern Frisian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;Seeltersk;Swahili;Upper Sorbian;Western Frisian">Nikosia</name>
+		<name normalized="Nikosian alue" languages="Finnish">Nikosian alue</name>
+		<name normalized="Nikosii" languages="Veps">Nikosii</name>
+		<name normalized="Nikosija" languages="Latvian;Lithuanian;Maltese">Nikosija</name>
+		<name normalized="Nikosijos apygarda" languages="Lithuanian">Nikosijos apygarda</name>
+		<name normalized="Nikosiya" languages="Azerbaijani;Kinyarwanda;Ladino">Nikosiya</name>
+		<name normalized="Nikozi" languages="Haitian">Nikozi</name>
+		<name normalized="Nikozia" languages="Breton">Nikozia</name>
+		<name normalized="Nikozija" languages="Bosnian;Croatian;Serbo-Croatian;Slovenian">Nikozija</name>
+		<name normalized="Nikozio" languages="Esperanto">Nikozio</name>
+		<name normalized="Nikozja" languages="Polish">Nikozja</name>
+		<name normalized="Nikosie" languages="Czech">Nikósie</name>
+		<name normalized="Nikosia" languages="Icelandic">Nikósía</name>
+		<name normalized="Nikozia" languages="Slovak">Nikózia</name>
+		<name normalized="Nekoseje" languages="Samogitian">Nėkosėjė</name>
+		<name normalized="Επαρχια Λευκωσιας" languages="Greek">Επαρχία Λευκωσίας</name>
+		<name normalized="Λευκωσια" languages="Greek">Λευκωσία</name>
+		<name normalized="Λευκωσιαν" languages="Pontic">Λευκωσίαν</name>
+		<name normalized="Goрad Нikaсii" languages="Belarusian">Горад Нікасія</name>
+		<name normalized="Лivkozija" languages="Macedonian">Левкозија</name>
+		<name normalized="Лiфkosa" languages="Kyrgyz">Лефкоша</name>
+		<name normalized="Нikozii" languages="Bulgarian">Никозия</name>
+		<name normalized="Нikozija" languages="Serbian">Никозија</name>
+		<name normalized="Нikoсi" languages="Ossetic">Никоси</name>
+		<name normalized="Нikoсiй" languages="Chechen;Eastern Mari">Никосий</name>
+		<name normalized="Нikoсii" languages="Kazakh;Moksha;Russian;Sakha;Tajik;Tatar;Udmurt">Никосия</name>
+		<name normalized="Нikaсii" languages="biлaрuсkai (taрaskivita)‎">Нікасія</name>
+		<name normalized="Нikoсii" languages="Ukrainian">Нікосія</name>
+		<name normalized="Նիkvsիա" languages="Armenian">Նիկոսիա</name>
+		<name normalized="nיqאסיע" languages="Yiddish">ניקאסיע</name>
+		<name normalized="nיqvסיh" languages="Hebrew">ניקוסיה</name>
+		<name normalized="dلع نکوسیא" languages="Western Punjabi">ضلع نکوسیا</name>
+		<name normalized="dلع نیکوسیא" languages="Urdu">ضلع نیکوسیا</name>
+		<name normalized="mنtqة نyqوسyא" languages="Arabic">منطقة نيقوسيا</name>
+		<name normalized="نىkوسىyە" languages="Uyghur">نىكوسىيە</name>
+		<name normalized="نyqوسyא" languages="Arabic">نيقوسيا</name>
+		<name normalized="نykوسyא" languages="Egyptian Spoken Arabic">نيكوسيا</name>
+		<name normalized="نیکوزیא" languages="Mazanderani;Persian">نیکوزیا</name>
+		<name normalized="نیکوسیא" languages="Urdu;Western Punjabi">نیکوسیا</name>
+		<name normalized="نیکۆسیא" languages="Sorani Kurdish">نیکۆسیا</name>
+		<name normalized="nikosiyा" languages="Hindi;Marathi">निकोसिया</name>
+		<name normalized="nikosiy়া" languages="Bengali">নিকোসিয়া</name>
+		<name normalized="nikੋsia" languages="Punjabi">ਨਿਕੋਸੀਆ</name>
+		<name normalized="ନିକୋସିଆ" languages="Oriya">ନିକୋସିଆ</name>
+		<name normalized="நிக்கோசியா" languages="Tamil">நிக்கோசியா</name>
+		<name normalized="ನಿಕೋಸಿಯ" languages="Kannada">ನಿಕೋಸಿಯ</name>
+		<name normalized="นิโคเซีย" languages="Thai">นิโคเซีย</name>
+		<name normalized="ནེ་ཁོ་ཤི་ཡ།" languages="Tibetan">ནེ་ཁོ་ཤི་ཡ།</name>
+		<name normalized="ნიქოზია" languages="Georgian">ნიქოზია</name>
+		<name normalized="ሌፍኮዚያ" languages="Amharic">ሌፍኮዚያ</name>
+		<name normalized="nksa" languages="Japanese">ニコシア</name>
+		<name normalized="尼科西亚" languages="Chinese">尼科西亚</name>
+		<name normalized="尼科西亚区" languages="Chinese">尼科西亚区</name>
+		<name normalized="尼科西亞" languages="Cantonese">尼科西亞</name>
+		<name normalized="니코시아" languages="Korean">니코시아</name>
+		<name normalized="니코시아 구" languages="Korean">니코시아 구</name>
+	</region>
+	<region name="Lemesos" type="district" typeTranslated="district">
+		<name normalized="Bezirk Limassol" languages="German">Bezirk Limassol</name>
+		<name normalized="Distretto di Limassol" languages="Italian">Distretto di Limassol</name>
+		<name normalized="District de Limassol" languages="French">District de Limassol</name>
+		<name normalized="Districte de Limassol" languages="Catalan">Districte de Limassol</name>
+		<name normalized="Districtul Limassol" languages="Romanian">Districtul Limassol</name>
+		<name normalized="Distrito de Limasol" languages="Spanish">Distrito de Limasol</name>
+		<name normalized="Dystrykt Limassol" languages="Polish">Dystrykt Limassol</name>
+		<name normalized="Lemesos" languages="Czech;English;Limburgish;official">Lemesos</name>
+		<name normalized="Lemesos District" languages="English;official">Lemesos District</name>
+		<name normalized="Limasol" languages="Basque;Dutch;Limburgish;Serbo-Croatian;Spanish;Turkish">Limasol</name>
+		<name normalized="Limasol Bolgesi" languages="Turkish">Limasol Bölgesi</name>
+		<name normalized="Limasolio apygarda" languages="Lithuanian">Limasolio apygarda</name>
+		<name normalized="Limasolis" languages="Lithuanian">Limasolis</name>
+		<name normalized="Limasolo" languages="Esperanto">Limasolo</name>
+		<name normalized="Limassol" languages="Catalan;Croatian;Danish;English;Estonian;Finnish;French;German;Hungarian;Icelandic;Ladino;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Scots;Swedish;Waray">Limassol</name>
+		<name normalized="Limassol Destrict" languages="Scots">Limassol Destrict</name>
+		<name normalized="Limassol District" languages="English;official">Limassol District</name>
+		<name normalized="Limassolin alue" languages="Finnish">Limassolin alue</name>
+		<name normalized="Limisso" languages="Italian">Limisso</name>
+		<name normalized="Επαρχια Λεμεσοu" languages="Greek">Επαρχία Λεμεσού</name>
+		<name normalized="Λεμεσος" languages="Greek">Λεμεσός</name>
+		<name normalized="Goрad Лiмaсoл" languages="Belarusian">Горад Лімасол</name>
+		<name normalized="Лiмaсoл" languages="Bulgarian;Chuvash;Ossetic;Russian;Serbian">Лимасол</name>
+		<name normalized="Лiмaсoл" languages="Ukrainian">Лімасол</name>
+		<name normalized="דימסvד" languages="Hebrew">לימסול</name>
+		<name normalized="dلع لیmאسول" languages="Urdu">ضلع لیماسول</name>
+		<name normalized="dلع لیmیسوس" languages="Western Punjabi">ضلع لیمیسوس</name>
+		<name normalized="لymאسول" languages="Arabic">ليماسول</name>
+		<name normalized="لیmאسول" languages="Persian;Urdu;Western Punjabi">لیماسول</name>
+		<name normalized="mنtqة لymאسول" languages="Arabic">منطقة ليماسول</name>
+		<name normalized="ลีมาซอล" languages="Thai">ลีมาซอล</name>
+		<name normalized="ლიმასოლი" languages="Georgian">ლიმასოლი</name>
+		<name normalized="rmsーr" languages="Japanese">リマソール</name>
+		<name normalized="利马索尔" languages="Chinese">利马索尔</name>
+		<name normalized="利马索尔区" languages="Chinese">利马索尔区</name>
+		<name normalized="리마솔" languages="Korean">리마솔</name>
+		<name normalized="리마솔 구" languages="Korean">리마솔 구</name>
+	</region>
+	<region name="Morphou" type="district" typeTranslated="district">
+		<name normalized="Guzelyurt" languages="Dutch;Limburgish;Turkish">Güzelyurt</name>
+		<name normalized="Morfou" languages="German;Norwegian (bokmal);Spanish">Morfou</name>
+		<name normalized="Morfu" languages="Lithuanian;Polish">Morfu</name>
+		<name normalized="Morphou" languages="English;French;Hungarian;Italian;official">Morphou</name>
+		<name normalized="Morphou District" languages="English;official">Morphou District</name>
+		<name normalized="Μορφου" languages="Greek">Μόρφου</name>
+		<name normalized="Guziльюрt" languages="Hill Mari">Гӱзельюрт</name>
+		<name normalized="Мoрфu" languages="Russian;Serbian">Морфу</name>
+		<name normalized="mوrfو" languages="Persian;Urdu">مورفو</name>
+		<name normalized="莫爾富" languages="Chinese">莫爾富</name>
+	</region>
+	<region name="Nicosia" type="district" typeTranslated="district">
+		<name normalized="An Leafcois" languages="Irish">An Leafcóis</name>
+		<name normalized="Arqa Nikosiya" languages="Kara-Kalpak">Arqa Nikosiya</name>
+		<name normalized="Bezirk Nikosia" languages="German">Bezirk Nikosia</name>
+		<name normalized="Distretto di Nicosia" languages="Italian">Distretto di Nicosia</name>
+		<name normalized="District de Nicosie" languages="French">District de Nicosie</name>
+		<name normalized="Districte de Nicosia" languages="Catalan">Districte de Nicòsia</name>
+		<name normalized="Districtul Nicosia" languages="Romanian">Districtul Nicosia</name>
+		<name normalized="Distrito de Nicosia" languages="Spanish">Distrito de Nicosia</name>
+		<name normalized="Dystrykt Nikozja" languages="Polish">Dystrykt Nikozja</name>
+		<name normalized="Lefcosia" languages="Aromanian">Lefcosia</name>
+		<name normalized="Lefkosia" languages="English;Manx;official">Lefkosia</name>
+		<name normalized="Lefkosa" languages="Crimean Turkish;Gagauz;Turkish">Lefkoşa</name>
+		<name normalized="Lefkosa kazası" languages="Turkish">Lefkoşa kazası</name>
+		<name normalized="Nicosia" languages="Afrikaans;Albanian;Aragonese;Chinese (Min Nan);Danish;Dutch;English;Galician;Hungarian;Italian;Kalaallisut;Latin;Ligure;Limburgish;Malagasy;Malay;Maori;Nahuatl;Occitan;official;Romanian;Scots;Scottish Gaelic;Shona;Simple English;Spanish;Swedish;Tagalog;Vietnamese;Waray;Welsh;Yoruba">Nicosia</name>
+		<name normalized="Nicosia Destrict" languages="Scots">Nicosia Destrict</name>
+		<name normalized="Nicosia District" languages="English;official">Nicosia District</name>
+		<name normalized="Nicosie" languages="French;tarandine">Nicosie</name>
+		<name normalized="Nicosea" languages="lumbaart">Nicoséa</name>
+		<name normalized="Nicosia" languages="Neapolitan;Piedmontese">Nicosìa</name>
+		<name normalized="Nicusia" languages="Sicilian">Nicusìa</name>
+		<name normalized="Nicosia" languages="Catalan">Nicòsia</name>
+		<name normalized="Nicosia" languages="Portuguese">Nicósia</name>
+		<name normalized="Nikosia" languages="Achinese;Basque;Bavarian;Estonian;Faroese;Fiji Hindi;Finnish;German;Ido;Indonesian;Low German;Lower Sorbian;Luxembourgish;Northern Frisian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;Seeltersk;Swahili;Upper Sorbian;Western Frisian">Nikosia</name>
+		<name normalized="Nikosian alue" languages="Finnish">Nikosian alue</name>
+		<name normalized="Nikosii" languages="Veps">Nikosii</name>
+		<name normalized="Nikosija" languages="Latvian;Lithuanian;Maltese">Nikosija</name>
+		<name normalized="Nikosijos apygarda" languages="Lithuanian">Nikosijos apygarda</name>
+		<name normalized="Nikosiya" languages="Azerbaijani;Kinyarwanda;Ladino">Nikosiya</name>
+		<name normalized="Nikozi" languages="Haitian">Nikozi</name>
+		<name normalized="Nikozia" languages="Breton">Nikozia</name>
+		<name normalized="Nikozija" languages="Bosnian;Croatian;Serbo-Croatian;Slovenian">Nikozija</name>
+		<name normalized="Nikozio" languages="Esperanto">Nikozio</name>
+		<name normalized="Nikozja" languages="Polish">Nikozja</name>
+		<name normalized="Nikosie" languages="Czech">Nikósie</name>
+		<name normalized="Nikosia" languages="Icelandic">Nikósía</name>
+		<name normalized="Nikozia" languages="Slovak">Nikózia</name>
+		<name normalized="Nekoseje" languages="Samogitian">Nėkosėjė</name>
+		<name normalized="Επαρχια Λευκωσιας" languages="Greek">Επαρχία Λευκωσίας</name>
+		<name normalized="Λευκωσια" languages="Greek">Λευκωσία</name>
+		<name normalized="Λευκωσιαν" languages="Pontic">Λευκωσίαν</name>
+		<name normalized="Goрad Нikaсii" languages="Belarusian">Горад Нікасія</name>
+		<name normalized="Лivkozija" languages="Macedonian">Левкозија</name>
+		<name normalized="Лiфkosa" languages="Kyrgyz">Лефкоша</name>
+		<name normalized="Нikozii" languages="Bulgarian">Никозия</name>
+		<name normalized="Нikozija" languages="Serbian">Никозија</name>
+		<name normalized="Нikoсi" languages="Ossetic">Никоси</name>
+		<name normalized="Нikoсiй" languages="Chechen;Eastern Mari">Никосий</name>
+		<name normalized="Нikoсii" languages="Kazakh;Moksha;Russian;Sakha;Tajik;Tatar;Udmurt">Никосия</name>
+		<name normalized="Нikaсii" languages="biлaрuсkai (taрaskivita)‎">Нікасія</name>
+		<name normalized="Нikoсii" languages="Ukrainian">Нікосія</name>
+		<name normalized="Նիkvsիա" languages="Armenian">Նիկոսիա</name>
+		<name normalized="nיqאסיע" languages="Yiddish">ניקאסיע</name>
+		<name normalized="nיqvסיh" languages="Hebrew">ניקוסיה</name>
+		<name normalized="dلع نکوسیא" languages="Western Punjabi">ضلع نکوسیا</name>
+		<name normalized="dلع نیکوسیא" languages="Urdu">ضلع نیکوسیا</name>
+		<name normalized="mنtqة نyqوسyא" languages="Arabic">منطقة نيقوسيا</name>
+		<name normalized="نىkوسىyە" languages="Uyghur">نىكوسىيە</name>
+		<name normalized="نyqوسyא" languages="Arabic">نيقوسيا</name>
+		<name normalized="نykوسyא" languages="Egyptian Spoken Arabic">نيكوسيا</name>
+		<name normalized="نیکوزیא" languages="Mazanderani;Persian">نیکوزیا</name>
+		<name normalized="نیکوسیא" languages="Urdu;Western Punjabi">نیکوسیا</name>
+		<name normalized="نیکۆسیא" languages="Sorani Kurdish">نیکۆسیا</name>
+		<name normalized="nikosiyा" languages="Hindi;Marathi">निकोसिया</name>
+		<name normalized="nikosiy়া" languages="Bengali">নিকোসিয়া</name>
+		<name normalized="nikੋsia" languages="Punjabi">ਨਿਕੋਸੀਆ</name>
+		<name normalized="ନିକୋସିଆ" languages="Oriya">ନିକୋସିଆ</name>
+		<name normalized="நிக்கோசியா" languages="Tamil">நிக்கோசியா</name>
+		<name normalized="ನಿಕೋಸಿಯ" languages="Kannada">ನಿಕೋಸಿಯ</name>
+		<name normalized="นิโคเซีย" languages="Thai">นิโคเซีย</name>
+		<name normalized="ནེ་ཁོ་ཤི་ཡ།" languages="Tibetan">ནེ་ཁོ་ཤི་ཡ།</name>
+		<name normalized="ნიქოზია" languages="Georgian">ნიქოზია</name>
+		<name normalized="ሌፍኮዚያ" languages="Amharic">ሌፍኮዚያ</name>
+		<name normalized="nksa" languages="Japanese">ニコシア</name>
+		<name normalized="尼科西亚" languages="Chinese">尼科西亚</name>
+		<name normalized="尼科西亚区" languages="Chinese">尼科西亚区</name>
+		<name normalized="尼科西亞" languages="Cantonese">尼科西亞</name>
+		<name normalized="니코시아" languages="Korean">니코시아</name>
+		<name normalized="니코시아 구" languages="Korean">니코시아 구</name>
+	</region>
+	<region name="Pafos" type="district" typeTranslated="district">
+		<name normalized="Baf" languages="Turkish">Baf</name>
+		<name normalized="Baf kazası" languages="Turkish">Baf kazası</name>
+		<name normalized="Bezirk Paphos" languages="German">Bezirk Paphos</name>
+		<name normalized="Distretto di Pafo" languages="Italian">Distretto di Pafo</name>
+		<name normalized="District de Paphos" languages="French">District de Paphos</name>
+		<name normalized="Districte de Pafos" languages="Catalan">Districte de Pafos</name>
+		<name normalized="Districtul Paphos" languages="Romanian">Districtul Paphos</name>
+		<name normalized="Distrito de Pafos" languages="Spanish">Distrito de Pafos</name>
+		<name normalized="Dystrykt Pafos" languages="Polish">Dystrykt Pafos</name>
+		<name normalized="Pafo" languages="Italian">Pafo</name>
+		<name normalized="Pafoksen alue" languages="Finnish">Pafoksen alue</name>
+		<name normalized="Pafos" languages="Basque;Bosnian;Breton;Catalan;Croatian;Czech;Danish;English;Finnish;Limburgish;Norwegian (bokmal);official;Polish;Portuguese;Serbo-Croatian;Slovak;Spanish;Swedish">Pafos</name>
+		<name normalized="Pafos District" languages="English;official">Pafos District</name>
+		<name normalized="Pafosas" languages="Lithuanian">Pafosas</name>
+		<name normalized="Pafoso apygarda" languages="Lithuanian">Pafoso apygarda</name>
+		<name normalized="Pafou" languages="Limburgish">Pafou</name>
+		<name normalized="Pafu" languages="Sicilian">Pafu</name>
+		<name normalized="Paphos" languages="Dutch;English;Estonian;French;Galician;German;Indonesian;official;Romanian;Scots;Vietnamese;Waray">Paphos</name>
+		<name normalized="Paphos Destrict" languages="Scots">Paphos Destrict</name>
+		<name normalized="Paphos District" languages="English;official">Paphos District</name>
+		<name normalized="Pafosz" languages="Hungarian">Páfosz</name>
+		<name normalized="Επαρχια Παφου" languages="Greek">Επαρχία Πάφου</name>
+		<name normalized="Παφος" languages="Greek">Πάφος</name>
+		<name normalized="Paфoс" languages="Bulgarian;Macedonian;Mongolian;Russian;Serbian;Ukrainian">Пафос</name>
+		<name normalized="pאpvס" languages="Hebrew">פאפוס</name>
+		<name normalized="bאfوس" languages="Arabic">بافوس</name>
+		<name normalized="dلع pאfوس" languages="Urdu;Western Punjabi">ضلع پافوس</name>
+		<name normalized="mنtqة bאfوس" languages="Arabic">منطقة بافوس</name>
+		<name normalized="pאfوس" languages="Persian;Urdu;Western Punjabi">پافوس</name>
+		<name normalized="პაფოსი" languages="Georgian">პაფოსი</name>
+		<name normalized="phos" languages="Japanese">パフォス</name>
+		<name normalized="帕福斯" languages="Chinese">帕福斯</name>
+		<name normalized="帕福斯区" languages="Chinese">帕福斯区</name>
+		<name normalized="파포스" languages="Korean">파포스</name>
+		<name normalized="파포스 구" languages="Korean">파포스 구</name>
+	</region>
+	<region name="Trikomo" type="district" typeTranslated="district">
+		<name normalized="Iskele" languages="Dutch;Gagauz;German;Turkish">İskele</name>
+		<name normalized="Trikomas" languages="Lithuanian">Trikomas</name>
+		<name normalized="Trikomo" languages="English;French;official;Polish;Spanish">Trikomo</name>
+		<name normalized="Trikomo District" languages="English;official">Trikomo District</name>
+		<name normalized="Tрikoмo" languages="Russian">Трикомо</name>
+		<name normalized="trیکوmو" languages="Persian">تریکومو</name>
+	</region>
+</regions>

@@ -1,0 +1,1231 @@
+<regions country="Uganda">
+	<region name="Abim" type="district" typeTranslated="district">
+		<name normalized="Abim" languages="Dutch;English;French;official;Romanian;Swahili">Abim</name>
+		<name normalized="Abim District" languages="English;official">Abim District</name>
+		<name normalized="Districtul Abim" languages="Romanian">Districtul Abim</name>
+		<name normalized="Distrito de Abim" languages="Spanish">Distrito de Abim</name>
+		<name normalized="Wilaya ya Abim" languages="Swahili">Wilaya ya Abim</name>
+		<name normalized="Abiм" languages="Russian">Абим</name>
+		<name normalized="אbים" languages="Hebrew">אבים</name>
+		<name normalized="abm県" languages="Japanese">アビム県</name>
+		<name normalized="阿比姆區" languages="Chinese">阿比姆區</name>
+		<name normalized="아빔 구" languages="Korean">아빔 구</name>
+	</region>
+	<region name="Adjumani" type="district" typeTranslated="district">
+		<name normalized="Adjumani" languages="Dutch;English;French;official;Polish;Romanian;Swahili">Adjumani</name>
+		<name normalized="Adjumani District" languages="English;official">Adjumani District</name>
+		<name normalized="Districtul Adjumani" languages="Romanian">Districtul Adjumani</name>
+		<name normalized="Distrikt Adjumani" languages="German">Distrikt Adjumani</name>
+		<name normalized="Distrito de Adjumani" languages="Spanish">Distrito de Adjumani</name>
+		<name normalized="Wilaya ya Adjumani" languages="Swahili">Wilaya ya Adjumani</name>
+		<name normalized="azymn県" languages="Japanese">アジュマニ県</name>
+		<name normalized="阿朱馬尼區" languages="Chinese">阿朱馬尼區</name>
+		<name normalized="아주마니 구" languages="Korean">아주마니 구</name>
+	</region>
+	<region name="Agago" type="district" typeTranslated="district">
+		<name normalized="Agago" languages="English;French;official">Agago</name>
+		<name normalized="Agago District" languages="English;official">Agago District</name>
+		<name normalized="Distrito de Agago" languages="Spanish">Distrito de Agago</name>
+		<name normalized="阿加戈區" languages="Chinese">阿加戈區</name>
+	</region>
+	<region name="Alebtong" type="district" typeTranslated="district">
+		<name normalized="Alebtong" languages="English;French;official">Alebtong</name>
+		<name normalized="Alebtong District" languages="English;official">Alebtong District</name>
+		<name normalized="Distrito de Alebtong" languages="Spanish">Distrito de Alebtong</name>
+		<name normalized="阿萊布通區" languages="Chinese">阿萊布通區</name>
+	</region>
+	<region name="Amolatar" type="district" typeTranslated="district">
+		<name normalized="Amolatar" languages="Dutch;English;French;official;Romanian;Swahili">Amolatar</name>
+		<name normalized="Amolatar District" languages="English;official">Amolatar District</name>
+		<name normalized="Districtul Amolatar" languages="Romanian">Districtul Amolatar</name>
+		<name normalized="Distrito de Amolatar" languages="Spanish">Distrito de Amolatar</name>
+		<name normalized="Wilaya ya Amolatar" languages="Swahili">Wilaya ya Amolatar</name>
+		<name normalized="amrtr県" languages="Japanese">アモラタル県</name>
+		<name normalized="阿莫拉塔爾區" languages="Chinese">阿莫拉塔爾區</name>
+		<name normalized="아몰라타르 구" languages="Korean">아몰라타르 구</name>
+	</region>
+	<region name="Amudat" type="district" typeTranslated="district">
+		<name normalized="Amudat" languages="English;French;official">Amudat</name>
+		<name normalized="Amudat District" languages="English;official">Amudat District</name>
+		<name normalized="Distrito de Amudat" languages="Spanish">Distrito de Amudat</name>
+		<name normalized="阿穆達特區" languages="Chinese">阿穆達特區</name>
+	</region>
+	<region name="Amuria" type="district" typeTranslated="district">
+		<name normalized="Amuria" languages="Dutch;English;French;official;Romanian;Swahili">Amuria</name>
+		<name normalized="Amuria District" languages="English;official">Amuria District</name>
+		<name normalized="Districtul Amuria" languages="Romanian">Districtul Amuria</name>
+		<name normalized="Distrito Amuria" languages="Galician">Distrito Amuria</name>
+		<name normalized="Distrito de Amuria" languages="Spanish">Distrito de Amuria</name>
+		<name normalized="Wilaya ya Amuria" languages="Swahili">Wilaya ya Amuria</name>
+		<name normalized="amra県" languages="Japanese">アムリア県</name>
+		<name normalized="阿穆里亞區" languages="Chinese">阿穆里亞區</name>
+		<name normalized="아무리아 구" languages="Korean">아무리아 구</name>
+	</region>
+	<region name="Amuru" type="district" typeTranslated="district">
+		<name normalized="Amuru" languages="Dutch;English;French;official;Romanian;Swahili;Swedish">Amuru</name>
+		<name normalized="Amuru District" languages="English;official">Amuru District</name>
+		<name normalized="Districtul Amuru" languages="Romanian">Districtul Amuru</name>
+		<name normalized="Distrito de Amuru" languages="Spanish">Distrito de Amuru</name>
+		<name normalized="Wilaya ya Amuru" languages="Swahili">Wilaya ya Amuru</name>
+		<name normalized="amr県" languages="Japanese">アムル県</name>
+		<name normalized="阿穆魯區" languages="Chinese">阿穆魯區</name>
+		<name normalized="아무루 구" languages="Korean">아무루 구</name>
+	</region>
+	<region name="Apac" type="district" typeTranslated="district">
+		<name normalized="Apac" languages="Dutch;English;French;official;Romanian;Swahili">Apac</name>
+		<name normalized="Apac District" languages="English;official">Apac District</name>
+		<name normalized="Districtul Apac" languages="Romanian">Districtul Apac</name>
+		<name normalized="Distrikt Apac" languages="German">Distrikt Apac</name>
+		<name normalized="Distrito de Apac" languages="Spanish">Distrito de Apac</name>
+		<name normalized="Distritu de Apac" languages="Asturian">Distritu de Apac</name>
+		<name normalized="Wilaya ya Apac" languages="Swahili">Wilaya ya Apac</name>
+		<name normalized="aptt県" languages="Japanese">アパッチ県</name>
+		<name normalized="阿帕克區" languages="Chinese">阿帕克區</name>
+		<name normalized="아파크 구" languages="Korean">아파크 구</name>
+	</region>
+	<region name="Arua" type="district" typeTranslated="district">
+		<name normalized="Arua" languages="Danish;Dutch;English;French;German;Italian;Lithuanian;Low German;official;Polish;Portuguese;Romanian;Swahili">Arua</name>
+		<name normalized="Arua District" languages="English;official">Arua District</name>
+		<name normalized="Districtul Arua" languages="Romanian">Districtul Arua</name>
+		<name normalized="Distrikt Arua" languages="German">Distrikt Arua</name>
+		<name normalized="Distrito de Arua" languages="Spanish">Distrito de Arua</name>
+		<name normalized="Wilaya ya Arua" languages="Swahili">Wilaya ya Arua</name>
+		<name normalized="Aрua" languages="Bulgarian;Russian">Аруа</name>
+		<name normalized="ara県" languages="Japanese">アルア県</name>
+		<name normalized="阿魯阿區" languages="Chinese">阿魯阿區</name>
+		<name normalized="阿鲁阿" languages="Chinese">阿鲁阿</name>
+		<name normalized="아루아" languages="Korean">아루아</name>
+		<name normalized="아루아 구" languages="Korean">아루아 구</name>
+	</region>
+	<region name="Budaka" type="district" typeTranslated="district">
+		<name normalized="Budaka" languages="Dutch;English;French;official;Romanian;Swahili">Budaka</name>
+		<name normalized="Budaka District" languages="English;official">Budaka District</name>
+		<name normalized="Budaka town" languages="English">Budaka town</name>
+		<name normalized="Districtul Budaka" languages="Romanian">Districtul Budaka</name>
+		<name normalized="Distrito Budaka" languages="Galician">Distrito Budaka</name>
+		<name normalized="Distrito de Budaka" languages="Spanish">Distrito de Budaka</name>
+		<name normalized="Wilaya ya Budaka" languages="Swahili">Wilaya ya Budaka</name>
+		<name normalized="Budaka" languages="Serbian">Будака</name>
+		<name normalized="bdk県" languages="Japanese">ブダカ県</name>
+		<name normalized="布達卡區" languages="Chinese">布達卡區</name>
+		<name normalized="부다카 구" languages="Korean">부다카 구</name>
+	</region>
+	<region name="Bududa" type="district" typeTranslated="district">
+		<name normalized="Bududa" languages="English;French;official;Romanian;Swahili">Bududa</name>
+		<name normalized="Bududa District" languages="English;official">Bududa District</name>
+		<name normalized="Districtul Bududa" languages="Romanian">Districtul Bududa</name>
+		<name normalized="Distrito Bududa" languages="Galician">Distrito Bududa</name>
+		<name normalized="Distrito de Bududa" languages="Spanish">Distrito de Bududa</name>
+		<name normalized="Distrito ng Bududa" languages="Tagalog">Distrito ng Bududa</name>
+		<name normalized="Wilaya ya Bududa" languages="Swahili">Wilaya ya Bududa</name>
+		<name normalized="bdud県" languages="Japanese">ブドゥダ県</name>
+		<name normalized="布杜達區" languages="Chinese">布杜達區</name>
+		<name normalized="부두다 구" languages="Korean">부두다 구</name>
+	</region>
+	<region name="Bugiri" type="district" typeTranslated="district">
+		<name normalized="Bugiri" languages="Dutch;English;French;official;Romanian;Swahili">Bugiri</name>
+		<name normalized="Bugiri District" languages="English;official">Bugiri District</name>
+		<name normalized="Districtul Bugiri" languages="Romanian">Districtul Bugiri</name>
+		<name normalized="Distrikt Bugiri" languages="German">Distrikt Bugiri</name>
+		<name normalized="Distrito Bugiri" languages="Galician">Distrito Bugiri</name>
+		<name normalized="Distrito de Bugiri" languages="Spanish">Distrito de Bugiri</name>
+		<name normalized="Dystrykt Bugiri" languages="Polish">Dystrykt Bugiri</name>
+		<name normalized="Wilaya ya Bugiri" languages="Swahili">Wilaya ya Bugiri</name>
+		<name normalized="bgr県" languages="Japanese">ブギリ県</name>
+		<name normalized="布吉里區" languages="Chinese">布吉里區</name>
+		<name normalized="부기리 구" languages="Korean">부기리 구</name>
+	</region>
+	<region name="Buhweju" type="district" typeTranslated="district">
+		<name normalized="Buhweju" languages="English;French;official">Buhweju</name>
+		<name normalized="Buhweju District" languages="English;official">Buhweju District</name>
+		<name normalized="Distrito de Buhweju" languages="Spanish">Distrito de Buhweju</name>
+		<name normalized="布惠朱區" languages="Chinese">布惠朱區</name>
+	</region>
+	<region name="Buikwe" type="district" typeTranslated="district">
+		<name normalized="Buikwe" languages="English;French;Kurdish;official">Buikwe</name>
+		<name normalized="Buikwe District" languages="English;official">Buikwe District</name>
+		<name normalized="Distrito Buikwe" languages="Galician">Distrito Buikwe</name>
+		<name normalized="Distrito de Buikwe" languages="Spanish">Distrito de Buikwe</name>
+		<name normalized="布伊奎區" languages="Chinese">布伊奎區</name>
+	</region>
+	<region name="Bukedea" type="district" typeTranslated="district">
+		<name normalized="Bukedea" languages="Dutch;English;French;official;Polish;Romanian;Swahili">Bukedea</name>
+		<name normalized="Bukedea District" languages="English;official">Bukedea District</name>
+		<name normalized="Districtul Bukedea" languages="Romanian">Districtul Bukedea</name>
+		<name normalized="Distrito Bukedea" languages="Galician">Distrito Bukedea</name>
+		<name normalized="Distrito de Bukedea" languages="Spanish">Distrito de Bukedea</name>
+		<name normalized="Wilaya ya Bukedea" languages="Swahili">Wilaya ya Bukedea</name>
+		<name normalized="bkda県" languages="Japanese">ブケデア県</name>
+		<name normalized="布凱德阿區" languages="Chinese">布凱德阿區</name>
+		<name normalized="부케데아 구" languages="Korean">부케데아 구</name>
+	</region>
+	<region name="Bukomansimbi" type="district" typeTranslated="district">
+		<name normalized="Bukomansimbi" languages="English;French;Kurdish;official">Bukomansimbi</name>
+		<name normalized="Bukomansimbi District" languages="English;official">Bukomansimbi District</name>
+		<name normalized="Distrito Bukomansimbi" languages="Galician">Distrito Bukomansimbi</name>
+		<name normalized="Distrito de Bukomansimbi" languages="Spanish">Distrito de Bukomansimbi</name>
+		<name normalized="布科曼辛比區" languages="Chinese">布科曼辛比區</name>
+	</region>
+	<region name="Bukwa" type="district" typeTranslated="district">
+		<name normalized="Bukwa" languages="Dutch;English;French;official;Romanian;Swahili">Bukwa</name>
+		<name normalized="Bukwa District" languages="English;official">Bukwa District</name>
+		<name normalized="Districtul Bukwa" languages="Romanian">Districtul Bukwa</name>
+		<name normalized="Distrito Bukwa" languages="Galician">Distrito Bukwa</name>
+		<name normalized="Distrito de Bukwo" languages="Spanish">Distrito de Bukwo</name>
+		<name normalized="Wilaya ya Bukwa" languages="Swahili">Wilaya ya Bukwa</name>
+		<name normalized="bkuo県" languages="Japanese">ブクウォ県</name>
+		<name normalized="布克瓦區" languages="Chinese">布克瓦區</name>
+		<name normalized="부크와 구" languages="Korean">부크와 구</name>
+	</region>
+	<region name="Bulambuli" type="district" typeTranslated="district">
+		<name normalized="Bulambuli" languages="English;French;official">Bulambuli</name>
+		<name normalized="Bulambuli District" languages="English;official">Bulambuli District</name>
+		<name normalized="Distrito Bulambuli" languages="Galician">Distrito Bulambuli</name>
+		<name normalized="Distrito de Bulambuli" languages="Spanish">Distrito de Bulambuli</name>
+		<name normalized="布蘭布利區" languages="Chinese">布蘭布利區</name>
+	</region>
+	<region name="Bulisa" type="district" typeTranslated="district">
+		<name normalized="Buliisa" languages="English;French;Swahili">Buliisa</name>
+		<name normalized="Buliisa District" languages="English">Buliisa District</name>
+		<name normalized="Bulisa" languages="Dutch;English;official;Romanian">Bulisa</name>
+		<name normalized="Bulisa District" languages="English;official">Bulisa District</name>
+		<name normalized="Districtul Bulisa" languages="Romanian">Districtul Bulisa</name>
+		<name normalized="Distrikt Buliisa" languages="German">Distrikt Buliisa</name>
+		<name normalized="Distrito de Buliisa" languages="Spanish">Distrito de Buliisa</name>
+		<name normalized="Wilaya ya Buliisa" languages="Swahili">Wilaya ya Buliisa</name>
+		<name normalized="מhvז bvדיסh" languages="Hebrew">מחוז בוליסה</name>
+		<name normalized="brs県" languages="Japanese">ブリサ県</name>
+		<name normalized="布利薩區" languages="Chinese">布利薩區</name>
+		<name normalized="불리사 구" languages="Korean">불리사 구</name>
+	</region>
+	<region name="Bundibugyo" type="district" typeTranslated="district">
+		<name normalized="Bundibugyo" languages="Dutch;English;French;official;Romanian;Swahili">Bundibugyo</name>
+		<name normalized="Bundibugyo District" languages="English;official">Bundibugyo District</name>
+		<name normalized="Districtul Bundibugyo" languages="Romanian">Districtul Bundibugyo</name>
+		<name normalized="Distrito de Bundibugyo" languages="Spanish">Distrito de Bundibugyo</name>
+		<name normalized="Wilaya ya Bundibugyo" languages="Swahili">Wilaya ya Bundibugyo</name>
+		<name normalized="Buнdibugio" languages="Russian">Бундибугио</name>
+		<name normalized="מhvז bvnדיbvגיv" languages="Hebrew">מחוז בונדיבוגיו</name>
+		<name normalized="bndibgョ県" languages="Japanese">ブンディブギョ県</name>
+		<name normalized="本迪布焦區" languages="Chinese">本迪布焦區</name>
+		<name normalized="분디부교 구" languages="Korean">분디부교 구</name>
+	</region>
+	<region name="Bushenyi" type="district" typeTranslated="district">
+		<name normalized="Bushenyi" languages="Dutch;English;French;official;Polish;Romanian;Swahili">Bushenyi</name>
+		<name normalized="Bushenyi District" languages="English;official">Bushenyi District</name>
+		<name normalized="Districtul Bushenyi" languages="Romanian">Districtul Bushenyi</name>
+		<name normalized="Distrikt Bushenyi" languages="German">Distrikt Bushenyi</name>
+		<name normalized="Distrito de Bushenyi" languages="Spanish">Distrito de Bushenyi</name>
+		<name normalized="Dystrykt Bushenyi" languages="Polish">Dystrykt Bushenyi</name>
+		<name normalized="Wilaya ya Bushenyi" languages="Swahili">Wilaya ya Bushenyi</name>
+		<name normalized="bsen県" languages="Japanese">ブシェニ県</name>
+		<name normalized="布謝尼區" languages="Chinese">布謝尼區</name>
+		<name normalized="부셰니 구" languages="Korean">부셰니 구</name>
+	</region>
+	<region name="Busia" type="district" typeTranslated="district">
+		<name normalized="Busia" languages="Dutch;English;French;German;official;Polish;Romanian;Swahili">Busia</name>
+		<name normalized="Busia District" languages="English;official">Busia District</name>
+		<name normalized="Districtul Busia" languages="Romanian">Districtul Busia</name>
+		<name normalized="Distrikt Busia" languages="German">Distrikt Busia</name>
+		<name normalized="Distrito Busia" languages="Galician">Distrito Busia</name>
+		<name normalized="Distrito de Busia" languages="Spanish">Distrito de Busia</name>
+		<name normalized="Wilaya ya Busia" languages="Swahili">Wilaya ya Busia</name>
+		<name normalized="Buсia" languages="Russian">Бусиа</name>
+		<name normalized="bsa県" languages="Japanese">ブシア県</name>
+		<name normalized="布西亞區" languages="Chinese">布西亞區</name>
+		<name normalized="부시아 구" languages="Korean">부시아 구</name>
+	</region>
+	<region name="Butaleja" type="district" typeTranslated="district">
+		<name normalized="Butaleja" languages="Dutch;English;French;official;Romanian;Swahili">Butaleja</name>
+		<name normalized="Butaleja District" languages="English;official">Butaleja District</name>
+		<name normalized="Districtul Butaleja" languages="Romanian">Districtul Butaleja</name>
+		<name normalized="Distrito Butaleja" languages="Galician">Distrito Butaleja</name>
+		<name normalized="Distrito de Butaleja" languages="Spanish">Distrito de Butaleja</name>
+		<name normalized="Wilaya ya Butaleja" languages="Swahili">Wilaya ya Butaleja</name>
+		<name normalized="btrzy県" languages="Japanese">ブタレジャ県</name>
+		<name normalized="布塔萊賈區" languages="Chinese">布塔萊賈區</name>
+		<name normalized="부탈레자 구" languages="Korean">부탈레자 구</name>
+	</region>
+	<region name="Butambala" type="district" typeTranslated="district">
+		<name normalized="Butambala" languages="English;French;Kurdish;official">Butambala</name>
+		<name normalized="Butambala District" languages="English;official">Butambala District</name>
+		<name normalized="Distrito Butambala" languages="Galician">Distrito Butambala</name>
+		<name normalized="Distrito de Butambala" languages="Spanish">Distrito de Butambala</name>
+		<name normalized="布坦巴拉區" languages="Chinese">布坦巴拉區</name>
+	</region>
+	<region name="Buvuma" type="district" typeTranslated="district">
+		<name normalized="Buvuma" languages="English;French;Kurdish;official">Buvuma</name>
+		<name normalized="Buvuma District" languages="English;official">Buvuma District</name>
+		<name normalized="Distrito Buvuma" languages="Galician">Distrito Buvuma</name>
+		<name normalized="Distrito de Buvuma" languages="Spanish">Distrito de Buvuma</name>
+		<name normalized="布武馬區" languages="Chinese">布武馬區</name>
+	</region>
+	<region name="Buyende" type="district" typeTranslated="district">
+		<name normalized="Buyende" languages="English;French;official">Buyende</name>
+		<name normalized="Buyende District" languages="English;official">Buyende District</name>
+		<name normalized="Distrito Buyende" languages="Galician">Distrito Buyende</name>
+		<name normalized="Distrito de Buyende" languages="Spanish">Distrito de Buyende</name>
+		<name normalized="布延德區" languages="Chinese">布延德區</name>
+	</region>
+	<region name="Dokolo" type="district" typeTranslated="district">
+		<name normalized="Districtul Dokolo" languages="Romanian">Districtul Dokolo</name>
+		<name normalized="Distrito de Dokolo" languages="Spanish">Distrito de Dokolo</name>
+		<name normalized="Dokolo" languages="Dutch;English;French;official;Romanian;Swahili">Dokolo</name>
+		<name normalized="Dokolo District" languages="English;official">Dokolo District</name>
+		<name normalized="Wilaya ya Dokolo" languages="Swahili">Wilaya ya Dokolo</name>
+		<name normalized="dkr県" languages="Japanese">ドコロ県</name>
+		<name normalized="多科洛區" languages="Chinese">多科洛區</name>
+		<name normalized="도콜로 구" languages="Korean">도콜로 구</name>
+	</region>
+	<region name="Gomba" type="district" typeTranslated="district">
+		<name normalized="Distrito de Gomba" languages="Spanish">Distrito de Gomba</name>
+		<name normalized="Distrito Gomba" languages="Galician">Distrito Gomba</name>
+		<name normalized="Gomba" languages="Dutch;English;Esperanto;French;Hungarian;Italian;Kurdish;official;Slovak">Gomba</name>
+		<name normalized="Gomba District" languages="English;official">Gomba District</name>
+		<name normalized="貢巴區" languages="Chinese">貢巴區</name>
+		<name normalized="贡鲍" languages="Chinese">贡鲍</name>
+	</region>
+	<region name="Gulu" type="district" typeTranslated="district">
+		<name normalized="Districtul Gulu" languages="Romanian">Districtul Gulu</name>
+		<name normalized="Distrikt Gulu" languages="German">Distrikt Gulu</name>
+		<name normalized="Distrito de Gulu" languages="Spanish">Distrito de Gulu</name>
+		<name normalized="Dystrykt Gulu" languages="Polish">Dystrykt Gulu</name>
+		<name normalized="Gulu" languages="Basque;Croatian;Danish;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Italian;Kalaallisut;Lithuanian;Maori;official;Polish;Romanian;Swahili;Swedish">Gulu</name>
+		<name normalized="Gulu District" languages="English;official">Gulu District</name>
+		<name normalized="Wilaya ya Gulu" languages="Swahili">Wilaya ya Gulu</name>
+		<name normalized="Γκουλοu" languages="Greek">Γκουλού</name>
+		<name normalized="Guлu" languages="Russian">Гулу</name>
+		<name normalized="gr県" languages="Japanese">グル県</name>
+		<name normalized="古盧" languages="Chinese">古盧</name>
+		<name normalized="古盧區" languages="Chinese">古盧區</name>
+		<name normalized="굴루 구" languages="Korean">굴루 구</name>
+	</region>
+	<region name="Hoima" type="district" typeTranslated="district">
+		<name normalized="Districtul Hoima" languages="Romanian">Districtul Hoima</name>
+		<name normalized="Distrito de Hoima" languages="Spanish">Distrito de Hoima</name>
+		<name normalized="Dystrykt Hoima" languages="Polish">Dystrykt Hoima</name>
+		<name normalized="Hoima" languages="Dutch;English;French;German;Italian;Lithuanian;official;Polish;Romanian;Swahili">Hoima</name>
+		<name normalized="Hoima District" languages="English;official">Hoima District</name>
+		<name normalized="Wilaya ya Hoima" languages="Swahili">Wilaya ya Hoima</name>
+		<name normalized="Koiмa" languages="Russian">Хоима</name>
+		<name normalized="him県" languages="Japanese">ホイマ県</name>
+		<name normalized="霍伊馬區" languages="Chinese">霍伊馬區</name>
+		<name normalized="호이마 구" languages="Korean">호이마 구</name>
+	</region>
+	<region name="Ibanda" type="district" typeTranslated="district">
+		<name normalized="Districtul Ibanda" languages="Romanian">Districtul Ibanda</name>
+		<name normalized="Distrito de Ibanda" languages="Spanish">Distrito de Ibanda</name>
+		<name normalized="Ibanda" languages="Dutch;English;French;official;Romanian;Swahili">Ibanda</name>
+		<name normalized="Ibanda District" languages="English;official">Ibanda District</name>
+		<name normalized="Wilaya ya Ibanda" languages="Swahili">Wilaya ya Ibanda</name>
+		<name normalized="ibnd県" languages="Japanese">イバンダ県</name>
+		<name normalized="伊班達區" languages="Chinese">伊班達區</name>
+		<name normalized="이반다 구" languages="Korean">이반다 구</name>
+	</region>
+	<region name="Iganga" type="district" typeTranslated="district">
+		<name normalized="Districtul Iganga" languages="Romanian">Districtul Iganga</name>
+		<name normalized="Distrikt Iganga" languages="German">Distrikt Iganga</name>
+		<name normalized="Distrito de Iganga" languages="Spanish">Distrito de Iganga</name>
+		<name normalized="Distrito Iganga" languages="Galician">Distrito Iganga</name>
+		<name normalized="Iganga" languages="Dutch;English;French;German;official;Polish;Romanian;Swahili">Iganga</name>
+		<name normalized="Iganga District" languages="English;official">Iganga District</name>
+		<name normalized="Wilaya ya Iganga" languages="Swahili">Wilaya ya Iganga</name>
+		<name normalized="Igaнga" languages="Bulgarian;Russian">Иганга</name>
+		<name normalized="igng県" languages="Japanese">イガンガ県</name>
+		<name normalized="伊甘加區" languages="Chinese">伊甘加區</name>
+		<name normalized="이강가 구" languages="Korean">이강가 구</name>
+	</region>
+	<region name="Isingiro" type="district" typeTranslated="district">
+		<name normalized="Districtul Isingiro" languages="Romanian">Districtul Isingiro</name>
+		<name normalized="Distrito de Isingiro" languages="Spanish">Distrito de Isingiro</name>
+		<name normalized="Isingiro" languages="Dutch;English;French;official;Romanian">Isingiro</name>
+		<name normalized="Isingiro District" languages="English;official">Isingiro District</name>
+		<name normalized="Wilaya ya Isingiro" languages="Swahili">Wilaya ya Isingiro</name>
+		<name normalized="isngr県" languages="Japanese">イシンギロ県</name>
+		<name normalized="伊辛吉羅區" languages="Chinese">伊辛吉羅區</name>
+		<name normalized="이싱기로 구" languages="Korean">이싱기로 구</name>
+	</region>
+	<region name="Jinja" type="district" typeTranslated="district">
+		<name normalized="Districtul Jinja" languages="Romanian">Districtul Jinja</name>
+		<name normalized="Distrikt Jinja" languages="German">Distrikt Jinja</name>
+		<name normalized="Distrito de Jinja" languages="Spanish">Distrito de Jinja</name>
+		<name normalized="Distrito Jinja" languages="Galician">Distrito Jinja</name>
+		<name normalized="Dzindza" languages="Lithuanian">Džindža</name>
+		<name normalized="Jinja" languages="Afrikaans;Catalan;Croatian;Danish;Dutch;English;Finnish;French;German;Italian;Low German;Occitan;official;Polish;Portuguese;Spanish;Swahili;Swedish">Jinja</name>
+		<name normalized="Jinja District" languages="English;official">Jinja District</name>
+		<name normalized="Wilaya ya Jinja" languages="Swahili">Wilaya ya Jinja</name>
+		<name normalized="Τζιντζα" languages="Greek">Τζίντζα</name>
+		<name normalized="Dziнdza" languages="Bulgarian;Russian">Джинджа</name>
+		<name normalized="ג'יnג'h" languages="Hebrew">ג'ינג'ה</name>
+		<name normalized="znzy" languages="Japanese">ジンジャ</name>
+		<name normalized="znzy県" languages="Japanese">ジンジャ県</name>
+		<name normalized="金賈" languages="Chinese">金賈</name>
+		<name normalized="金賈區" languages="Chinese">金賈區</name>
+		<name normalized="진자" languages="Korean">진자</name>
+		<name normalized="진자 구" languages="Korean">진자 구</name>
+	</region>
+	<region name="Kaabong" type="district" typeTranslated="district">
+		<name normalized="Districtul Kaabong" languages="Romanian">Districtul Kaabong</name>
+		<name normalized="Distrikt Kaabong" languages="German">Distrikt Kaabong</name>
+		<name normalized="Distrito de Kaabong" languages="Spanish">Distrito de Kaabong</name>
+		<name normalized="Kaabong" languages="Dutch;English;French;official;Romanian;Swahili">Kaabong</name>
+		<name normalized="Kaabong District" languages="English;official">Kaabong District</name>
+		<name normalized="Kaabongin piirikunta" languages="Finnish">Kaabongin piirikunta</name>
+		<name normalized="Wilaya ya Kaabong" languages="Swahili">Wilaya ya Kaabong</name>
+		<name normalized="kbng県" languages="Japanese">カボング県</name>
+		<name normalized="卡邦區" languages="Chinese">卡邦區</name>
+		<name normalized="카봉 구" languages="Korean">카봉 구</name>
+	</region>
+	<region name="Kabale" type="district" typeTranslated="district">
+		<name normalized="Districtul Kabale" languages="Romanian">Districtul Kabale</name>
+		<name normalized="Distrikt Kabale" languages="German">Distrikt Kabale</name>
+		<name normalized="Distrito de Kabale" languages="Spanish">Distrito de Kabale</name>
+		<name normalized="Kabale" languages="Dutch;English;French;German;Italian;Kurdish;official;Polish;Romanian;Swahili">Kabale</name>
+		<name normalized="Kabale District" languages="English;official">Kabale District</name>
+		<name normalized="Kabale" languages="Lithuanian">Kabalė</name>
+		<name normalized="Wilaya ya Kabale" languages="Swahili">Wilaya ya Kabale</name>
+		<name normalized="Kabaлi" languages="Russian">Кабале</name>
+		<name normalized="qbאדh" languages="Hebrew">קבאלה</name>
+		<name normalized="kbr県" languages="Japanese">カバレ県</name>
+		<name normalized="卡巴萊區" languages="Chinese">卡巴萊區</name>
+		<name normalized="카발레 구" languages="Korean">카발레 구</name>
+	</region>
+	<region name="Kabarole" type="district" typeTranslated="district">
+		<name normalized="Districtul Kabarole" languages="Romanian">Districtul Kabarole</name>
+		<name normalized="Distrikt Kabarole" languages="German">Distrikt Kabarole</name>
+		<name normalized="Distrito de Kabarole" languages="Spanish">Distrito de Kabarole</name>
+		<name normalized="Distritu de Kabarole" languages="Asturian">Distritu de Kabarole</name>
+		<name normalized="Kabarole" languages="Dutch;English;French;official">Kabarole</name>
+		<name normalized="Kabarole District" languages="English;official">Kabarole District</name>
+		<name normalized="Wilaya ya Kabarole" languages="Swahili">Wilaya ya Kabarole</name>
+		<name normalized="kbrr県" languages="Japanese">カバロレ県</name>
+		<name normalized="卡巴羅萊區" languages="Chinese">卡巴羅萊區</name>
+		<name normalized="카바롤레 구" languages="Korean">카바롤레 구</name>
+	</region>
+	<region name="Kaberamaido" type="district" typeTranslated="district">
+		<name normalized="Districtul Kaberamaido" languages="Romanian">Districtul Kaberamaido</name>
+		<name normalized="Distrikt Kaberamaido" languages="German">Distrikt Kaberamaido</name>
+		<name normalized="Distrito de Kaberamaido" languages="Spanish">Distrito de Kaberamaido</name>
+		<name normalized="Distrito Kaberamaido" languages="Galician">Distrito Kaberamaido</name>
+		<name normalized="Kaberamaido" languages="Dutch;English;French;official;Romanian;Swahili">Kaberamaido</name>
+		<name normalized="Kaberamaido District" languages="English;official">Kaberamaido District</name>
+		<name normalized="Wilaya ya Kaberamaido" languages="Swahili">Wilaya ya Kaberamaido</name>
+		<name normalized="kbrmid県" languages="Japanese">カベラマイド県</name>
+		<name normalized="卡貝拉馬伊多區" languages="Chinese">卡貝拉馬伊多區</name>
+		<name normalized="카베라마이도 구" languages="Korean">카베라마이도 구</name>
+	</region>
+	<region name="Kalangala" type="district" typeTranslated="district">
+		<name normalized="Districtul Kalangala" languages="Romanian">Districtul Kalangala</name>
+		<name normalized="Distrikt Kalangala" languages="German">Distrikt Kalangala</name>
+		<name normalized="Distrito de Kalangala" languages="Spanish">Distrito de Kalangala</name>
+		<name normalized="Distrito Kalangala" languages="Galician">Distrito Kalangala</name>
+		<name normalized="Kalangala" languages="Dutch;English;French;German;Kurdish;Lithuanian;official;Romanian;Swahili;Vietnamese">Kalangala</name>
+		<name normalized="Kalangala District" languages="English;official">Kalangala District</name>
+		<name normalized="Kalangalan piirikunta" languages="Finnish">Kalangalan piirikunta</name>
+		<name normalized="Wilaya ya Kalangala" languages="Swahili">Wilaya ya Kalangala</name>
+		<name normalized="Kaлaнgaлa" languages="Russian">Калангала</name>
+		<name normalized="מhvז qדnגדh" languages="Hebrew">מחוז קלנגלה</name>
+		<name normalized="krngr" languages="Japanese">カランガラ</name>
+		<name normalized="krngr県" languages="Japanese">カランガラ県</name>
+		<name normalized="卡蘭加拉區" languages="Chinese">卡蘭加拉區</name>
+		<name normalized="칼랑갈라 구" languages="Korean">칼랑갈라 구</name>
+	</region>
+	<region name="Kaliro" type="district" typeTranslated="district">
+		<name normalized="Districtul Kaliro" languages="Romanian">Districtul Kaliro</name>
+		<name normalized="Distrito de Kaliro" languages="Spanish">Distrito de Kaliro</name>
+		<name normalized="Distrito Kaliro" languages="Galician">Distrito Kaliro</name>
+		<name normalized="Kaliro" languages="Dutch;English;French;official;Romanian;Swahili">Kaliro</name>
+		<name normalized="Kaliro District" languages="English;official">Kaliro District</name>
+		<name normalized="Wilaya ya Kaliro" languages="Swahili">Wilaya ya Kaliro</name>
+		<name normalized="krr県" languages="Japanese">カリロ県</name>
+		<name normalized="卡利羅區" languages="Chinese">卡利羅區</name>
+		<name normalized="칼리로 구" languages="Korean">칼리로 구</name>
+	</region>
+	<region name="Kalungu" type="district" typeTranslated="district">
+		<name normalized="Distrito de Kalungu" languages="Spanish">Distrito de Kalungu</name>
+		<name normalized="Distrito Kalungu" languages="Galician">Distrito Kalungu</name>
+		<name normalized="Kalungu" languages="English;French;Kurdish;official">Kalungu</name>
+		<name normalized="Kalungu District" languages="English;official">Kalungu District</name>
+		<name normalized="卡倫古區" languages="Chinese">卡倫古區</name>
+	</region>
+	<region name="Kampala" type="capital city" typeTranslated="capital city">
+		<name normalized="Kaempaala" languages="Norfuk / Pitkern">Kaempaala</name>
+		<name normalized="Kambaala" languages="Somali">Kambaala</name>
+		<name normalized="Kampala" languages="Afrikaans;Aragonese;Azerbaijani;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;Faroese;Fiji Hindi;Finnish;Franco-Provencal;French;Galician;Ganda;German;Hungarian;Icelandic;Ido;Indonesian;Interlingue;Irish;Italian;Javanese;Kalaallisut;Kurdish;Latin;Latvian;Lithuanian;Low German;lumbaart;Luxembourgish;Malagasy;Malay;Maori;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Piedmontese;Polish;Portuguese;Quechua;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Slovak;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Volapuk;veneto;Waray;Welsh;Western Frisian;Wolof;Yoruba">Kampala</name>
+		<name normalized="Kampalo" languages="Esperanto">Kampalo</name>
+		<name normalized="Kanpala" languages="Haitian">Kanpala</name>
+		<name normalized="Καμπαλα" languages="Greek">Καμπάλα</name>
+		<name normalized="Goрad Kaмpaлa" languages="Belarusian">Горад Кампала</name>
+		<name normalized="Kaмpaлa" languages="Bulgarian;Chechen;Chuvash;Hill Mari;Kyrgyz;Macedonian;Russian;Serbian;Tajik;Udmurt;Ukrainian;biлaрuсkai (taрaskivita)‎">Кампала</name>
+		<name normalized="Kաmpաlա" languages="Armenian">Կամպալա</name>
+		<name normalized="qאמpאדא" languages="Yiddish">קאמפאלא</name>
+		<name normalized="qמpדh" languages="Hebrew">קמפלה</name>
+		<name normalized="kאmbאلא" languages="Arabic;Egyptian Spoken Arabic">كامبالا</name>
+		<name normalized="kאmpאلא" languages="Uyghur">كامپالا</name>
+		<name normalized="کאmpאلא" languages="Persian;Sorani Kurdish">کامپالا</name>
+		<name normalized="کmpאلא" languages="Urdu">کمپالا</name>
+		<name normalized="کmpאلہ" languages="Western Punjabi">کمپالہ</name>
+		<name normalized="kंpाlा" languages="Marathi">कंपाला</name>
+		<name normalized="km्pाlा" languages="Hindi">कम्पाला</name>
+		<name normalized="kੰpਾlਾ" languages="Punjabi">ਕੰਪਾਲਾ</name>
+		<name normalized="କାମ୍ପାଲା" languages="Oriya">କାମ୍ପାଲା</name>
+		<name normalized="கம்பாலா" languages="Tamil">கம்பாலா</name>
+		<name normalized="กัมปาลา" languages="Thai">กัมปาลา</name>
+		<name normalized="ཀམ་པ་ལ།" languages="Tibetan">ཀམ་པ་ལ།</name>
+		<name normalized="კამპალა" languages="Georgian">კამპალა</name>
+		<name normalized="ካምፓላ" languages="Amharic">ካምፓላ</name>
+		<name normalized="knpr" languages="Japanese">カンパラ</name>
+		<name normalized="坎帕拉" languages="Cantonese;Chinese">坎帕拉</name>
+		<name normalized="캄팔라" languages="Korean">캄팔라</name>
+	</region>
+	<region name="Kamuli" type="district" typeTranslated="district">
+		<name normalized="Districtul Kamuli" languages="Romanian">Districtul Kamuli</name>
+		<name normalized="Distrikt Kamuli" languages="German">Distrikt Kamuli</name>
+		<name normalized="Distrito de Kamuli" languages="Spanish">Distrito de Kamuli</name>
+		<name normalized="Distrito Kamuli" languages="Galician">Distrito Kamuli</name>
+		<name normalized="Kamuli" languages="Dutch;English;Finnish;French;official;Romanian;Swahili">Kamuli</name>
+		<name normalized="Kamuli District" languages="English;official">Kamuli District</name>
+		<name normalized="Kamulin piirikunta" languages="Finnish">Kamulin piirikunta</name>
+		<name normalized="Wilaya ya Kamuli" languages="Swahili">Wilaya ya Kamuli</name>
+		<name normalized="kmr県" languages="Japanese">カムリ県</name>
+		<name normalized="卡穆利區" languages="Chinese">卡穆利區</name>
+		<name normalized="카물리 구" languages="Korean">카물리 구</name>
+	</region>
+	<region name="Kamwenge" type="district" typeTranslated="district">
+		<name normalized="Districtul Kamwenge" languages="Romanian">Districtul Kamwenge</name>
+		<name normalized="Distrito de Kamwenge" languages="Spanish">Distrito de Kamwenge</name>
+		<name normalized="Kamwenge" languages="Dutch;English;French;official;Romanian;Swahili">Kamwenge</name>
+		<name normalized="Kamwenge District" languages="English;official">Kamwenge District</name>
+		<name normalized="Wilaya ya Kamwenge" languages="Swahili">Wilaya ya Kamwenge</name>
+		<name normalized="kmueng県" languages="Japanese">カムウェンゲ県</name>
+		<name normalized="卡姆文蓋區" languages="Chinese">卡姆文蓋區</name>
+		<name normalized="캄웽게 구" languages="Korean">캄웽게 구</name>
+	</region>
+	<region name="Kanungu" type="district" typeTranslated="district">
+		<name normalized="Districtul Kanungu" languages="Romanian">Districtul Kanungu</name>
+		<name normalized="Distrito de Kanungu" languages="Spanish">Distrito de Kanungu</name>
+		<name normalized="Kanungu" languages="Dutch;English;French;official;Romanian;Swahili">Kanungu</name>
+		<name normalized="Kanungu District" languages="English;official">Kanungu District</name>
+		<name normalized="Wilaya ya Kanungu" languages="Swahili">Wilaya ya Kanungu</name>
+		<name normalized="Kaнuнgu" languages="Russian">Канунгу</name>
+		<name normalized="knng県" languages="Japanese">カヌング県</name>
+		<name normalized="卡農古區" languages="Chinese">卡農古區</name>
+		<name normalized="카눙구 구" languages="Korean">카눙구 구</name>
+	</region>
+	<region name="Kapchorwa" type="district" typeTranslated="district">
+		<name normalized="Districtul Kapchorwa" languages="Romanian">Districtul Kapchorwa</name>
+		<name normalized="Distrikt Kapchorwa" languages="German">Distrikt Kapchorwa</name>
+		<name normalized="Distrito de Kapchorwa" languages="Spanish">Distrito de Kapchorwa</name>
+		<name normalized="Distrito Kapchorwa" languages="Galician">Distrito Kapchorwa</name>
+		<name normalized="Kapchorwa" languages="Dutch;English;French;official;Romanian;Swahili">Kapchorwa</name>
+		<name normalized="Kapchorwa District" languages="English;official">Kapchorwa District</name>
+		<name normalized="Wilaya ya Kapchorwa" languages="Swahili">Wilaya ya Kapchorwa</name>
+		<name normalized="kptョrw県" languages="Japanese">カプチョルワ県</name>
+		<name normalized="卡普喬魯瓦區" languages="Chinese">卡普喬魯瓦區</name>
+		<name normalized="카프초르와 구" languages="Korean">카프초르와 구</name>
+	</region>
+	<region name="Kasese" type="district" typeTranslated="district">
+		<name normalized="Districtul Kasese" languages="Romanian">Districtul Kasese</name>
+		<name normalized="Distrikt Kasese" languages="German">Distrikt Kasese</name>
+		<name normalized="Distrito de Kasese" languages="Spanish">Distrito de Kasese</name>
+		<name normalized="Kasese" languages="Croatian;Dutch;English;French;German;official;Polish;Romanian;Swahili">Kasese</name>
+		<name normalized="Kasese District" languages="English;official">Kasese District</name>
+		<name normalized="Kasese" languages="Lithuanian">Kasesė</name>
+		<name normalized="Wilaya ya Kasese" languages="Swahili">Wilaya ya Kasese</name>
+		<name normalized="Kaсiсi" languages="Russian">Касесе</name>
+		<name normalized="qססh" languages="Hebrew">קססה</name>
+		<name normalized="kss県" languages="Japanese">カセセ県</name>
+		<name normalized="卡塞塞" languages="Chinese">卡塞塞</name>
+		<name normalized="卡塞塞區" languages="Chinese">卡塞塞區</name>
+		<name normalized="카세세 구" languages="Korean">카세세 구</name>
+	</region>
+	<region name="Katakwi" type="district" typeTranslated="district">
+		<name normalized="Districtul Katakwi" languages="Romanian">Districtul Katakwi</name>
+		<name normalized="Distrikt Katakwi" languages="German">Distrikt Katakwi</name>
+		<name normalized="Distrito de Katakwi" languages="Spanish">Distrito de Katakwi</name>
+		<name normalized="Distrito Katakwi" languages="Galician">Distrito Katakwi</name>
+		<name normalized="Katakwi" languages="Dutch;English;French;official;Romanian;Swahili">Katakwi</name>
+		<name normalized="Katakwi District" languages="English;official">Katakwi District</name>
+		<name normalized="Wilaya ya Katakwi" languages="Swahili">Wilaya ya Katakwi</name>
+		<name normalized="ktki県" languages="Japanese">カタクイ県</name>
+		<name normalized="卡塔奎區" languages="Chinese">卡塔奎區</name>
+		<name normalized="카타크위 구" languages="Korean">카타크위 구</name>
+	</region>
+	<region name="Kayunga" type="district" typeTranslated="district">
+		<name normalized="Districtul Kayunga" languages="Romanian">Districtul Kayunga</name>
+		<name normalized="Distrito de Kayunga" languages="Spanish">Distrito de Kayunga</name>
+		<name normalized="Distrito Kayunga" languages="Galician">Distrito Kayunga</name>
+		<name normalized="Kayunga" languages="Dutch;English;French;German;Kurdish;official;Romanian;Swahili">Kayunga</name>
+		<name normalized="Kayunga District" languages="English;official">Kayunga District</name>
+		<name normalized="Wilaya ya Kayunga" languages="Swahili">Wilaya ya Kayunga</name>
+		<name normalized="מhvז qאיvnגh" languages="Hebrew">מחוז קאיונגה</name>
+		<name normalized="kyng県" languages="Japanese">カユンガ県</name>
+		<name normalized="卡永加區" languages="Chinese">卡永加區</name>
+		<name normalized="카융가 구" languages="Korean">카융가 구</name>
+	</region>
+	<region name="Kibale" type="district" typeTranslated="district">
+		<name normalized="Districtul Kibaale" languages="Romanian">Districtul Kibaale</name>
+		<name normalized="Distrikt Kibaale" languages="German">Distrikt Kibaale</name>
+		<name normalized="Distrito de Kibaale" languages="Spanish">Distrito de Kibaale</name>
+		<name normalized="Kibaale" languages="Dutch;English;French;Romanian;Swahili">Kibaale</name>
+		<name normalized="Kibaale District" languages="English">Kibaale District</name>
+		<name normalized="Kibale" languages="English;official">Kibale</name>
+		<name normalized="Kibale District" languages="English;official">Kibale District</name>
+		<name normalized="Wilaya ya Kibaale" languages="Swahili">Wilaya ya Kibaale</name>
+		<name normalized="Kibaaлi" languages="Russian">Кибаале</name>
+		<name normalized="kbr県" languages="Japanese">キバレ県</name>
+		<name normalized="基巴萊區" languages="Chinese">基巴萊區</name>
+		<name normalized="키발레 구" languages="Korean">키발레 구</name>
+	</region>
+	<region name="Kiboga" type="district" typeTranslated="district">
+		<name normalized="Districtul Kiboga" languages="Romanian">Districtul Kiboga</name>
+		<name normalized="Distrito de Kiboga" languages="Spanish">Distrito de Kiboga</name>
+		<name normalized="Distrito Kiboga" languages="Galician">Distrito Kiboga</name>
+		<name normalized="Kiboga" languages="Dutch;English;French;Kurdish;official;Romanian;Swahili">Kiboga</name>
+		<name normalized="Kiboga District" languages="English;official">Kiboga District</name>
+		<name normalized="Wilaya ya Kiboga" languages="Swahili">Wilaya ya Kiboga</name>
+		<name normalized="Kiboga" languages="Russian">Кибога</name>
+		<name normalized="kbg県" languages="Japanese">キボガ県</name>
+		<name normalized="基博加區" languages="Chinese">基博加區</name>
+		<name normalized="키보가 구" languages="Korean">키보가 구</name>
+	</region>
+	<region name="Kibuku" type="district" typeTranslated="district">
+		<name normalized="Distrito de Kibuku" languages="Spanish">Distrito de Kibuku</name>
+		<name normalized="Distrito Kibuku" languages="Galician">Distrito Kibuku</name>
+		<name normalized="Kibuku" languages="English;French;official">Kibuku</name>
+		<name normalized="Kibuku District" languages="English;official">Kibuku District</name>
+		<name normalized="基布庫區" languages="Chinese">基布庫區</name>
+	</region>
+	<region name="Kiruhura" type="district" typeTranslated="district">
+		<name normalized="Districtul Kiruhura" languages="Romanian">Districtul Kiruhura</name>
+		<name normalized="Distrito de Kiruhura" languages="Spanish">Distrito de Kiruhura</name>
+		<name normalized="Kiruhura" languages="Dutch;English;French;official;Romanian;Swahili">Kiruhura</name>
+		<name normalized="Kiruhura District" languages="English;official">Kiruhura District</name>
+		<name normalized="Wilaya ya Kiruhura" languages="Swahili">Wilaya ya Kiruhura</name>
+		<name normalized="krhr県" languages="Japanese">キルフラ県</name>
+		<name normalized="基魯胡拉區" languages="Chinese">基魯胡拉區</name>
+		<name normalized="키루후라 구" languages="Korean">키루후라 구</name>
+	</region>
+	<region name="Kiryandongo" type="district" typeTranslated="district">
+		<name normalized="Distrito de Kiryandongo" languages="Spanish">Distrito de Kiryandongo</name>
+		<name normalized="Kiryandongo" languages="English;French;official">Kiryandongo</name>
+		<name normalized="Kiryandongo District" languages="English;official">Kiryandongo District</name>
+		<name normalized="基爾揚東戈區" languages="Chinese">基爾揚東戈區</name>
+	</region>
+	<region name="Kisoro" type="district" typeTranslated="district">
+		<name normalized="Districtul Kisoro" languages="Romanian">Districtul Kisoro</name>
+		<name normalized="Distrito de Kisoro" languages="Spanish">Distrito de Kisoro</name>
+		<name normalized="Kisoro" languages="Dutch;English;French;German;Italian;official;Romanian;Swahili;Turkish">Kisoro</name>
+		<name normalized="Kisoro District" languages="English;official">Kisoro District</name>
+		<name normalized="Wilaya ya Kisoro" languages="Swahili">Wilaya ya Kisoro</name>
+		<name normalized="Kiсoрo" languages="Russian">Кисоро</name>
+		<name normalized="ksr県" languages="Japanese">キソロ県</name>
+		<name normalized="基索羅區" languages="Chinese">基索羅區</name>
+		<name normalized="키소로 구" languages="Korean">키소로 구</name>
+	</region>
+	<region name="Kitgum" type="district" typeTranslated="district">
+		<name normalized="Distretto di Kitgum" languages="Italian">Distretto di Kitgum</name>
+		<name normalized="Districtul Kitgum" languages="Romanian">Districtul Kitgum</name>
+		<name normalized="Distrikt Kitgum" languages="German">Distrikt Kitgum</name>
+		<name normalized="Distrito de Kitgum" languages="Spanish">Distrito de Kitgum</name>
+		<name normalized="Dystrykt Kitgum" languages="Polish">Dystrykt Kitgum</name>
+		<name normalized="Kitgum" languages="Dutch;English;French;German;Low German;official;Polish;Romanian;Swahili;Swedish">Kitgum</name>
+		<name normalized="Kitgum District" languages="English;official">Kitgum District</name>
+		<name normalized="Wilaya ya Kitgum" languages="Swahili">Wilaya ya Kitgum</name>
+		<name normalized="Kitguм" languages="Russian">Китгум</name>
+		<name normalized="ktugm県" languages="Japanese">キトゥグム県</name>
+		<name normalized="基特古姆區" languages="Chinese">基特古姆區</name>
+		<name normalized="키트굼 구" languages="Korean">키트굼 구</name>
+	</region>
+	<region name="Koboko" type="district" typeTranslated="district">
+		<name normalized="Districtul Koboko" languages="Romanian">Districtul Koboko</name>
+		<name normalized="Distrito de Koboko" languages="Spanish">Distrito de Koboko</name>
+		<name normalized="Koboko" languages="Dutch;English;French;official;Polish;Romanian;Spanish;Swahili">Koboko</name>
+		<name normalized="Koboko District" languages="English;official">Koboko District</name>
+		<name normalized="Wilaya ya Koboko" languages="Swahili">Wilaya ya Koboko</name>
+		<name normalized="Koboko" languages="Russian">Кобоко</name>
+		<name normalized="kbk" languages="Japanese">コボコ</name>
+		<name normalized="kbk県" languages="Japanese">コボコ県</name>
+		<name normalized="科博科區" languages="Chinese">科博科區</name>
+		<name normalized="코보코 구" languages="Korean">코보코 구</name>
+	</region>
+	<region name="Kole" type="district" typeTranslated="district">
+		<name normalized="Distrito de Kole" languages="Spanish">Distrito de Kole</name>
+		<name normalized="Kole" languages="English;French;official">Kole</name>
+		<name normalized="Kole District" languages="English;official">Kole District</name>
+		<name normalized="科萊區" languages="Chinese">科萊區</name>
+	</region>
+	<region name="Kotido" type="district" typeTranslated="district">
+		<name normalized="Districtul Kotido" languages="Romanian">Districtul Kotido</name>
+		<name normalized="Distrito de Kotido" languages="Spanish">Distrito de Kotido</name>
+		<name normalized="Kotido" languages="Dutch;English;French;official;Romanian;Swahili">Kotido</name>
+		<name normalized="Kotido District" languages="English;official">Kotido District</name>
+		<name normalized="Wilaya ya Kotido" languages="Swahili">Wilaya ya Kotido</name>
+		<name normalized="ktid県" languages="Japanese">コティド県</name>
+		<name normalized="科蒂多區" languages="Chinese">科蒂多區</name>
+		<name normalized="코티도 구" languages="Korean">코티도 구</name>
+	</region>
+	<region name="Kumi" type="district" typeTranslated="district">
+		<name normalized="Districtul Kumi" languages="Romanian">Districtul Kumi</name>
+		<name normalized="Distrikt Kumi" languages="German">Distrikt Kumi</name>
+		<name normalized="Distrito de Kumi" languages="Spanish">Distrito de Kumi</name>
+		<name normalized="Distrito Kumi" languages="Galician">Distrito Kumi</name>
+		<name normalized="Dystrykt Kumi" languages="Polish">Dystrykt Kumi</name>
+		<name normalized="Kumi" languages="Dutch;English;French;official;Romanian;Swahili">Kumi</name>
+		<name normalized="Kumi District" languages="English;official">Kumi District</name>
+		<name normalized="Kumi Town" languages="English">Kumi Town</name>
+		<name normalized="Wilaya ya Kumi" languages="Swahili">Wilaya ya Kumi</name>
+		<name normalized="km県" languages="Japanese">クミ県</name>
+		<name normalized="庫米區" languages="Chinese">庫米區</name>
+		<name normalized="쿠미 구" languages="Korean">쿠미 구</name>
+	</region>
+	<region name="Kween" type="district" typeTranslated="district">
+		<name normalized="Distrito de Kween" languages="Spanish">Distrito de Kween</name>
+		<name normalized="Distrito Kween" languages="Galician">Distrito Kween</name>
+		<name normalized="Distritu de Kween" languages="Asturian">Distritu de Kween</name>
+		<name normalized="Khuen people" languages="English">Khuen people</name>
+		<name normalized="Kuan" languages="French">Kuan</name>
+		<name normalized="Kween" languages="English;French;official">Kween</name>
+		<name normalized="Kween District" languages="English;official">Kween District</name>
+		<name normalized="奎恩區" languages="Chinese">奎恩區</name>
+	</region>
+	<region name="Kyankwanzi" type="district" typeTranslated="district">
+		<name normalized="Distrito de Kyankwanzi" languages="Spanish">Distrito de Kyankwanzi</name>
+		<name normalized="Distrito Kyankwanzi" languages="Galician">Distrito Kyankwanzi</name>
+		<name normalized="Kyankwanzi" languages="English;French;Kurdish;official">Kyankwanzi</name>
+		<name normalized="Kyankwanzi District" languages="English;official">Kyankwanzi District</name>
+		<name normalized="克揚寬齊區" languages="Chinese">克揚寬齊區</name>
+	</region>
+	<region name="Kyegegwa" type="district" typeTranslated="district">
+		<name normalized="Distrito de Kyegegwa" languages="Spanish">Distrito de Kyegegwa</name>
+		<name normalized="Kyegegwa" languages="English;French;official">Kyegegwa</name>
+		<name normalized="Kyegegwa District" languages="English;official">Kyegegwa District</name>
+		<name normalized="基埃蓋瓜區" languages="Chinese">基埃蓋瓜區</name>
+	</region>
+	<region name="Kyenjojo" type="district" typeTranslated="district">
+		<name normalized="Districtul Kyenjojo" languages="Romanian">Districtul Kyenjojo</name>
+		<name normalized="Distrito de Kyenjojo" languages="Spanish">Distrito de Kyenjojo</name>
+		<name normalized="Kyenjojo" languages="Dutch;English;French;official;Romanian;Swahili">Kyenjojo</name>
+		<name normalized="Kyenjojo District" languages="English;official">Kyenjojo District</name>
+		<name normalized="Wilaya ya Kyenjojo" languages="Swahili">Wilaya ya Kyenjojo</name>
+		<name normalized="kenzョzョ県" languages="Japanese">キエンジョジョ県</name>
+		<name normalized="基恩喬喬區" languages="Chinese">基恩喬喬區</name>
+		<name normalized="키엔조조 구" languages="Korean">키엔조조 구</name>
+	</region>
+	<region name="Lamwo" type="district" typeTranslated="district">
+		<name normalized="Distrito de Lamwo" languages="Spanish">Distrito de Lamwo</name>
+		<name normalized="Lamwo" languages="English;French;official">Lamwo</name>
+		<name normalized="Lamwo District" languages="English;official">Lamwo District</name>
+		<name normalized="蘭沃區" languages="Chinese">蘭沃區</name>
+	</region>
+	<region name="Lira" type="district" typeTranslated="district">
+		<name normalized="Districtul Lira" languages="Romanian">Districtul Lira</name>
+		<name normalized="Distrikt Lira" languages="German">Distrikt Lira</name>
+		<name normalized="Distrito de Lira" languages="Spanish">Distrito de Lira</name>
+		<name normalized="Dystrykt Lira" languages="Polish">Dystrykt Lira</name>
+		<name normalized="Lira" languages="Croatian;Danish;Dutch;English;Esperanto;Finnish;French;German;Italian;Kalaallisut;Lithuanian;Maori;official;Polish;Romanian;Swahili">Lira</name>
+		<name normalized="Lira District" languages="English;official">Lira District</name>
+		<name normalized="Wilaya ya Lira" languages="Swahili">Wilaya ya Lira</name>
+		<name normalized="Лiрa" languages="Russian">Лира</name>
+		<name normalized="rr県" languages="Japanese">リラ県</name>
+		<name normalized="利拉區" languages="Chinese">利拉區</name>
+		<name normalized="리라 구" languages="Korean">리라 구</name>
+	</region>
+	<region name="Luuka" type="district" typeTranslated="district">
+		<name normalized="Distrito de Luuka" languages="Spanish">Distrito de Luuka</name>
+		<name normalized="Distrito Luuka" languages="Galician">Distrito Luuka</name>
+		<name normalized="Luuka" languages="English;French;official">Luuka</name>
+		<name normalized="Luuka District" languages="English;official">Luuka District</name>
+		<name normalized="Luuka Town" languages="English">Luuka Town</name>
+		<name normalized="盧卡區" languages="Chinese">盧卡區</name>
+	</region>
+	<region name="Luwero" type="district" typeTranslated="district">
+		<name normalized="Districtul Luwero" languages="Romanian">Districtul Luwero</name>
+		<name normalized="Distrito de Luwero" languages="Spanish">Distrito de Luwero</name>
+		<name normalized="Distrito Luweero" languages="Galician">Distrito Luweero</name>
+		<name normalized="Luweero" languages="English;French;Swahili">Luweero</name>
+		<name normalized="Luweero District" languages="English">Luweero District</name>
+		<name normalized="Luwero" languages="Dutch;English;official;Romanian">Luwero</name>
+		<name normalized="Luwero District" languages="English;official">Luwero District</name>
+		<name normalized="Wilaya ya Luweero" languages="Swahili">Wilaya ya Luweero</name>
+		<name normalized="ruer県" languages="Japanese">ルウェロ県</name>
+		<name normalized="盧韋羅區" languages="Chinese">盧韋羅區</name>
+		<name normalized="루웨로 구" languages="Korean">루웨로 구</name>
+	</region>
+	<region name="Lwengo" type="district" typeTranslated="district">
+		<name normalized="Distrito de Lwengo" languages="Spanish">Distrito de Lwengo</name>
+		<name normalized="Distrito Lwengo" languages="Galician">Distrito Lwengo</name>
+		<name normalized="Lwengo" languages="English;French;official">Lwengo</name>
+		<name normalized="Lwengo District" languages="English;official">Lwengo District</name>
+		<name normalized="盧恩戈區" languages="Chinese">盧恩戈區</name>
+	</region>
+	<region name="Lyantonde" type="district" typeTranslated="district">
+		<name normalized="Districtul Lyantonde" languages="Romanian">Districtul Lyantonde</name>
+		<name normalized="Distrito de Lyantonde" languages="Spanish">Distrito de Lyantonde</name>
+		<name normalized="Distrito Lyantonde" languages="Galician">Distrito Lyantonde</name>
+		<name normalized="Lyantonde" languages="Dutch;English;French;official;Romanian;Swahili">Lyantonde</name>
+		<name normalized="Lyantonde District" languages="English;official">Lyantonde District</name>
+		<name normalized="Wilaya ya Lyantonde" languages="Swahili">Wilaya ya Lyantonde</name>
+		<name normalized="ryntnd県" languages="Japanese">リャントンデ県</name>
+		<name normalized="利安通德區" languages="Chinese">利安通德區</name>
+		<name normalized="리안통데 구" languages="Korean">리안통데 구</name>
+	</region>
+	<region name="Manafwa" type="district" typeTranslated="district">
+		<name normalized="Districtul Manafwa" languages="Romanian">Districtul Manafwa</name>
+		<name normalized="Distrito de Manafwa" languages="Spanish">Distrito de Manafwa</name>
+		<name normalized="Distrito Manafwa" languages="Galician">Distrito Manafwa</name>
+		<name normalized="Manafwa" languages="Dutch;English;French;official;Romanian;Swahili">Manafwa</name>
+		<name normalized="Manafwa District" languages="English;official">Manafwa District</name>
+		<name normalized="Wilaya ya Manafwa" languages="Swahili">Wilaya ya Manafwa</name>
+		<name normalized="mnhw県" languages="Japanese">マナフワ県</name>
+		<name normalized="馬納富阿區" languages="Chinese">馬納富阿區</name>
+		<name normalized="마나프와 구" languages="Korean">마나프와 구</name>
+	</region>
+	<region name="Maracha" type="district" typeTranslated="district">
+		<name normalized="Distrito de Nyadri" languages="Spanish">Distrito de Nyadri</name>
+		<name normalized="Lugbara" languages="French;German;Indonesian;Italian;Portuguese">Lugbara</name>
+		<name normalized="Lugbara people" languages="English">Lugbara people</name>
+		<name normalized="Lugbarafolket" languages="Swedish">Lugbarafolket</name>
+		<name normalized="Maracha" languages="Dutch;English;French;official">Maracha</name>
+		<name normalized="Maracha District" languages="English;official">Maracha District</name>
+		<name normalized="Лugbaрa" languages="Russian">Лугбара</name>
+		<name normalized="mrty県" languages="Japanese">マラチャ県</name>
+		<name normalized="마라차 구" languages="Korean">마라차 구</name>
+	</region>
+	<region name="Masaka" type="district" typeTranslated="district">
+		<name normalized="Districtul Masaka" languages="Romanian">Districtul Masaka</name>
+		<name normalized="Distrito de Masaka" languages="Spanish">Distrito de Masaka</name>
+		<name normalized="Distrito Masaka" languages="Galician">Distrito Masaka</name>
+		<name normalized="Dystrykt Masaka" languages="Polish">Dystrykt Masaka</name>
+		<name normalized="Masaka" languages="Croatian;Danish;Dutch;English;French;German;Italian;Lithuanian;official;Polish;Romanian;Swahili;Swedish">Masaka</name>
+		<name normalized="Masaka District" languages="English;official">Masaka District</name>
+		<name normalized="Wilaya ya Masaka" languages="Swahili">Wilaya ya Masaka</name>
+		<name normalized="Мaсaka" languages="Russian">Масака</name>
+		<name normalized="msk県" languages="Japanese">マサカ県</name>
+		<name normalized="馬薩卡區" languages="Chinese">馬薩卡區</name>
+		<name normalized="마사카 구" languages="Korean">마사카 구</name>
+	</region>
+	<region name="Masindi" type="district" typeTranslated="district">
+		<name normalized="Districtul Masindi" languages="Romanian">Districtul Masindi</name>
+		<name normalized="Distrito de Masindi" languages="Spanish">Distrito de Masindi</name>
+		<name normalized="Dystrykt Masindi" languages="Polish">Dystrykt Masindi</name>
+		<name normalized="Masindi" languages="Dutch;English;French;German;Italian;official;Polish;Romanian;Swahili">Masindi</name>
+		<name normalized="Masindi District" languages="English;official">Masindi District</name>
+		<name normalized="Masindis" languages="Lithuanian">Masindis</name>
+		<name normalized="Wilaya ya Masindi" languages="Swahili">Wilaya ya Masindi</name>
+		<name normalized="Мaсiнdi" languages="Russian">Масинди</name>
+		<name normalized="מhvז מאסיnדי" languages="Hebrew">מחוז מאסינדי</name>
+		<name normalized="msndi県" languages="Japanese">マシンディ県</name>
+		<name normalized="馬辛迪區" languages="Chinese">馬辛迪區</name>
+		<name normalized="마신디 구" languages="Korean">마신디 구</name>
+	</region>
+	<region name="Mayuge" type="district" typeTranslated="district">
+		<name normalized="Districtul Mayuge" languages="Romanian">Districtul Mayuge</name>
+		<name normalized="Distrito de Mayuge" languages="Spanish">Distrito de Mayuge</name>
+		<name normalized="Distrito Mayuge" languages="Galician">Distrito Mayuge</name>
+		<name normalized="Mayuge" languages="Dutch;English;French;official;Romanian;Swahili">Mayuge</name>
+		<name normalized="Mayuge District" languages="English;official">Mayuge District</name>
+		<name normalized="Wilaya ya Mayuge" languages="Swahili">Wilaya ya Mayuge</name>
+		<name normalized="myg県" languages="Japanese">マユゲ県</name>
+		<name normalized="馬尤蓋區" languages="Chinese">馬尤蓋區</name>
+		<name normalized="마유게 구" languages="Korean">마유게 구</name>
+	</region>
+	<region name="Mbale" type="district" typeTranslated="district">
+		<name normalized="Districtul Mbale" languages="Romanian">Districtul Mbale</name>
+		<name normalized="Distrikt Mbale" languages="German">Distrikt Mbale</name>
+		<name normalized="Distrito de Mbale" languages="Spanish">Distrito de Mbale</name>
+		<name normalized="Distrito Mbale" languages="Galician">Distrito Mbale</name>
+		<name normalized="Dystrykt Mbale" languages="Polish">Dystrykt Mbale</name>
+		<name normalized="Mbale" languages="Croatian;Danish;Dutch;English;French;German;Italian;Kalaallisut;Maori;official;Polish;Romanian;Swahili;Swedish;Turkish">Mbale</name>
+		<name normalized="Mbale District" languages="English;official">Mbale District</name>
+		<name normalized="Mbale" languages="Lithuanian">Mbalė</name>
+		<name normalized="Wilaya ya Mbale" languages="Swahili">Wilaya ya Mbale</name>
+		<name normalized="Мbaлi" languages="Russian">Мбале</name>
+		<name normalized="מbאדh" languages="Hebrew">מבאלה</name>
+		<name normalized="mbr県" languages="Japanese">ムバレ県</name>
+		<name normalized="姆巴萊" languages="Chinese">姆巴萊</name>
+		<name normalized="姆巴萊區" languages="Chinese">姆巴萊區</name>
+		<name normalized="음발레 구" languages="Korean">음발레 구</name>
+	</region>
+	<region name="Mbarara" type="district" typeTranslated="district">
+		<name normalized="Districtul Mbarara" languages="Romanian">Districtul Mbarara</name>
+		<name normalized="Distrikt Mbarara" languages="German">Distrikt Mbarara</name>
+		<name normalized="Distrito de Mbarara" languages="Spanish">Distrito de Mbarara</name>
+		<name normalized="Dystrykt Mbarara" languages="Polish">Dystrykt Mbarara</name>
+		<name normalized="Mbarara" languages="Croatian;Danish;Dutch;English;French;German;Indonesian;Italian;Lithuanian;official;Polish;Romanian;Spanish;Swahili;Swedish;Vietnamese">Mbarara</name>
+		<name normalized="Mbarara District" languages="English;official">Mbarara District</name>
+		<name normalized="Wilaya ya Mbarara" languages="Swahili">Wilaya ya Mbarara</name>
+		<name normalized="Μπαραρα" languages="Greek">Μπαράρα</name>
+		<name normalized="Мbaрaрa" languages="Russian">Мбарара</name>
+		<name normalized="mbrr県" languages="Japanese">ムバララ県</name>
+		<name normalized="姆巴拉拉區" languages="Chinese">姆巴拉拉區</name>
+		<name normalized="음바라라 구" languages="Korean">음바라라 구</name>
+	</region>
+	<region name="Mitoma" type="district" typeTranslated="district">
+		<name normalized="Mitoma" languages="English;official">Mitoma</name>
+		<name normalized="Mitoma District" languages="English;official">Mitoma District</name>
+	</region>
+	<region name="Mityana" type="district" typeTranslated="district">
+		<name normalized="Districtul Mityana" languages="Romanian">Districtul Mityana</name>
+		<name normalized="Distrikt Mityana" languages="German">Distrikt Mityana</name>
+		<name normalized="Distrito de Mityana" languages="Spanish">Distrito de Mityana</name>
+		<name normalized="Distrito Mityana" languages="Galician">Distrito Mityana</name>
+		<name normalized="Mityana" languages="Dutch;English;French;official;Polish;Romanian;Swahili">Mityana</name>
+		<name normalized="Mityana District" languages="English;official">Mityana District</name>
+		<name normalized="Wilaya ya Mityana" languages="Swahili">Wilaya ya Mityana</name>
+		<name normalized="Мitьiнa" languages="Russian">Митьяна</name>
+		<name normalized="mtian県" languages="Japanese">ミティアナ県</name>
+		<name normalized="米特亞納區" languages="Chinese">米特亞納區</name>
+		<name normalized="미티아나 구" languages="Korean">미티아나 구</name>
+	</region>
+	<region name="Moroto" type="district" typeTranslated="district">
+		<name normalized="Districtul Moroto" languages="Romanian">Districtul Moroto</name>
+		<name normalized="Distrito de Moroto" languages="Spanish">Distrito de Moroto</name>
+		<name normalized="Moroto" languages="Dutch;English;French;official;Romanian;Swahili">Moroto</name>
+		<name normalized="Moroto District" languages="English;official">Moroto District</name>
+		<name normalized="Moroto Town" languages="English">Moroto Town</name>
+		<name normalized="Moroton piirikunta" languages="Finnish">Moroton piirikunta</name>
+		<name normalized="Wilaya ya Moroto" languages="Swahili">Wilaya ya Moroto</name>
+		<name normalized="mrt県" languages="Japanese">モロト県</name>
+		<name normalized="莫羅托區" languages="Chinese">莫羅托區</name>
+		<name normalized="모로토 구" languages="Korean">모로토 구</name>
+	</region>
+	<region name="Moyo" type="district" typeTranslated="district">
+		<name normalized="Districtul Moyo" languages="Romanian">Districtul Moyo</name>
+		<name normalized="Distrito de Moyo" languages="Spanish">Distrito de Moyo</name>
+		<name normalized="Moyo" languages="Dutch;English;French;German;Italian;official;Romanian">Moyo</name>
+		<name normalized="Moyo District" languages="English;official">Moyo District</name>
+		<name normalized="Moyo Town" languages="English">Moyo Town</name>
+		<name normalized="Moyon piirikunta" languages="Finnish">Moyon piirikunta</name>
+		<name normalized="Wilaya ya Moyo" languages="Swahili">Wilaya ya Moyo</name>
+		<name normalized="my県" languages="Japanese">モヨ県</name>
+		<name normalized="莫約區" languages="Chinese">莫約區</name>
+		<name normalized="모요 구" languages="Korean">모요 구</name>
+	</region>
+	<region name="Mpigi" type="district" typeTranslated="district">
+		<name normalized="Districtul Mpigi" languages="Romanian">Districtul Mpigi</name>
+		<name normalized="Distrito de Mpigi" languages="Spanish">Distrito de Mpigi</name>
+		<name normalized="Distrito Mpigi" languages="Galician">Distrito Mpigi</name>
+		<name normalized="Mpigi" languages="Dutch;English;French;official;Polish;Romanian;Swahili">Mpigi</name>
+		<name normalized="Mpigi District" languages="English;official">Mpigi District</name>
+		<name normalized="Wilaya ya Mpigi" languages="Swahili">Wilaya ya Mpigi</name>
+		<name normalized="Мpigi" languages="Russian">Мпиги</name>
+		<name normalized="mpz県" languages="Japanese">ムピジ県</name>
+		<name normalized="姆皮吉區" languages="Chinese">姆皮吉區</name>
+		<name normalized="음피기 구" languages="Korean">음피기 구</name>
+	</region>
+	<region name="Mubende" type="district" typeTranslated="district">
+		<name normalized="Districtul Mubende" languages="Romanian">Districtul Mubende</name>
+		<name normalized="Distrik Mubende" languages="Indonesian">Distrik Mubende</name>
+		<name normalized="Distrikt Mubende" languages="German">Distrikt Mubende</name>
+		<name normalized="Distrito de Mubende" languages="Spanish">Distrito de Mubende</name>
+		<name normalized="Distrito Mubende" languages="Galician">Distrito Mubende</name>
+		<name normalized="Dystrykt Mubende" languages="Polish">Dystrykt Mubende</name>
+		<name normalized="Mubende" languages="Dutch;English;French;official;Romanian;Swahili">Mubende</name>
+		<name normalized="Mubende District" languages="English;official">Mubende District</name>
+		<name normalized="Wilaya ya Mubende" languages="Swahili">Wilaya ya Mubende</name>
+		<name normalized="Мubiнdi" languages="Russian">Мубенде</name>
+		<name normalized="mbnd県" languages="Japanese">ムベンデ県</name>
+		<name normalized="穆本德區" languages="Chinese">穆本德區</name>
+		<name normalized="무벤데 구" languages="Korean">무벤데 구</name>
+	</region>
+	<region name="Mukono" type="district" typeTranslated="district">
+		<name normalized="Districtul Mukono" languages="Romanian">Districtul Mukono</name>
+		<name normalized="Distrikt Mukono" languages="German">Distrikt Mukono</name>
+		<name normalized="Distrito de Mukono" languages="Spanish">Distrito de Mukono</name>
+		<name normalized="Distrito Mukono" languages="Galician">Distrito Mukono</name>
+		<name normalized="Dystrykt Mukono" languages="Polish">Dystrykt Mukono</name>
+		<name normalized="Mukonas" languages="Lithuanian">Mukonas</name>
+		<name normalized="Mukono" languages="Dutch;English;French;German;official;Polish;Romanian;Swahili">Mukono</name>
+		<name normalized="Mukono District" languages="English;official">Mukono District</name>
+		<name normalized="Mukono Town" languages="English">Mukono Town</name>
+		<name normalized="Wilaya ya Mukono" languages="Swahili">Wilaya ya Mukono</name>
+		<name normalized="Мukoнo" languages="Russian">Муконо</name>
+		<name normalized="mkn県" languages="Japanese">ムコノ県</name>
+		<name normalized="穆科諾區" languages="Chinese">穆科諾區</name>
+		<name normalized="무코노 구" languages="Korean">무코노 구</name>
+	</region>
+	<region name="Nakapiripirit" type="district" typeTranslated="district">
+		<name normalized="Districtul Nakapiripirit" languages="Romanian">Districtul Nakapiripirit</name>
+		<name normalized="Distrito de Nakapiripirit" languages="Spanish">Distrito de Nakapiripirit</name>
+		<name normalized="Distrito Nakapiripirit" languages="Galician">Distrito Nakapiripirit</name>
+		<name normalized="Nakapiripirit" languages="Dutch;English;French;official;Romanian;Swahili">Nakapiripirit</name>
+		<name normalized="Nakapiripirit District" languages="English;official">Nakapiripirit District</name>
+		<name normalized="Wilaya ya Nakapiripirit" languages="Swahili">Wilaya ya Nakapiripirit</name>
+		<name normalized="מhvז nאqאpיrיpיrיt" languages="Hebrew">מחוז נאקאפיריפירית</name>
+		<name normalized="nkprpr県" languages="Japanese">ナカピリピリ県</name>
+		<name normalized="納卡皮里皮里特區" languages="Chinese">納卡皮里皮里特區</name>
+		<name normalized="나카피리피리트 구" languages="Korean">나카피리피리트 구</name>
+	</region>
+	<region name="Nakaseke" type="district" typeTranslated="district">
+		<name normalized="Districtul Nakaseke" languages="Romanian">Districtul Nakaseke</name>
+		<name normalized="Distrito de Nakaseke" languages="Spanish">Distrito de Nakaseke</name>
+		<name normalized="Distrito Nakaseke" languages="Galician">Distrito Nakaseke</name>
+		<name normalized="Nakaseke" languages="Dutch;English;French;official;Romanian;Swahili">Nakaseke</name>
+		<name normalized="Nakaseke District" languages="English;official">Nakaseke District</name>
+		<name normalized="Wilaya ya Nakaseke" languages="Swahili">Wilaya ya Nakaseke</name>
+		<name normalized="nksk県" languages="Japanese">ナカセケ県</name>
+		<name normalized="納卡塞凱區" languages="Chinese">納卡塞凱區</name>
+		<name normalized="나카세케 구" languages="Korean">나카세케 구</name>
+	</region>
+	<region name="Nakasongola" type="district" typeTranslated="district">
+		<name normalized="Districtul Nakasongola" languages="Romanian">Districtul Nakasongola</name>
+		<name normalized="Distrito de Nakasongola" languages="Spanish">Distrito de Nakasongola</name>
+		<name normalized="Distrito Nakasongola" languages="Galician">Distrito Nakasongola</name>
+		<name normalized="Nakasongola" languages="Dutch;English;French;official;Romanian;Swahili">Nakasongola</name>
+		<name normalized="Nakasongola District" languages="English;official">Nakasongola District</name>
+		<name normalized="Wilaya ya Nakasongola" languages="Swahili">Wilaya ya Nakasongola</name>
+		<name normalized="Нakaсoнgoлa" languages="Russian">Накасонгола</name>
+		<name normalized="nksngr県" languages="Japanese">ナカソンゴラ県</name>
+		<name normalized="納卡松戈拉區" languages="Chinese">納卡松戈拉區</name>
+		<name normalized="나카송골라 구" languages="Korean">나카송골라 구</name>
+	</region>
+	<region name="Namayingo" type="district" typeTranslated="district">
+		<name normalized="Distrito de Namayingo" languages="Spanish">Distrito de Namayingo</name>
+		<name normalized="Distrito Namayingo" languages="Galician">Distrito Namayingo</name>
+		<name normalized="Namayingo" languages="English;French;official">Namayingo</name>
+		<name normalized="Namayingo District" languages="English;official">Namayingo District</name>
+		<name normalized="納馬因戈區" languages="Chinese">納馬因戈區</name>
+	</region>
+	<region name="Namutumba" type="district" typeTranslated="district">
+		<name normalized="Busiki" languages="Dutch">Busiki</name>
+		<name normalized="Districtul Namutumba" languages="Romanian">Districtul Namutumba</name>
+		<name normalized="Distrito de Busiki" languages="Spanish">Distrito de Busiki</name>
+		<name normalized="Distrito Namutumba" languages="Galician">Distrito Namutumba</name>
+		<name normalized="Namutumba" languages="English;French;official;Romanian;Swahili">Namutumba</name>
+		<name normalized="Namutumba District" languages="English;official">Namutumba District</name>
+		<name normalized="Wilaya ya Namutumba" languages="Swahili">Wilaya ya Namutumba</name>
+		<name normalized="nmtunb県" languages="Japanese">ナムトゥンバ県</name>
+		<name normalized="納穆通巴區" languages="Chinese">納穆通巴區</name>
+		<name normalized="나무툼바 구" languages="Korean">나무툼바 구</name>
+	</region>
+	<region name="Napak" type="district" typeTranslated="district">
+		<name normalized="Distrito de Napak" languages="Spanish">Distrito de Napak</name>
+		<name normalized="Distrito Napak" languages="Galician">Distrito Napak</name>
+		<name normalized="Napak" languages="English;French;official">Napak</name>
+		<name normalized="Napak District" languages="English;official">Napak District</name>
+		<name normalized="納帕克區" languages="Chinese">納帕克區</name>
+	</region>
+	<region name="Nebbi" type="district" typeTranslated="district">
+		<name normalized="Districtul Nebbi" languages="Romanian">Districtul Nebbi</name>
+		<name normalized="Distrito de Nebbi" languages="Spanish">Distrito de Nebbi</name>
+		<name normalized="Distrito Nebbi" languages="Galician">Distrito Nebbi</name>
+		<name normalized="Nebbi" languages="Dutch;English;French;official;Polish;Romanian;Swahili">Nebbi</name>
+		<name normalized="Nebbi District" languages="English;official">Nebbi District</name>
+		<name normalized="Nebbin piirikunta" languages="Finnish">Nebbin piirikunta</name>
+		<name normalized="Wilaya ya Nebbi" languages="Swahili">Wilaya ya Nebbi</name>
+		<name normalized="Нibbi" languages="Russian">Небби</name>
+		<name normalized="nb県" languages="Japanese">ネビ県</name>
+		<name normalized="內比區" languages="Chinese">內比區</name>
+		<name normalized="넵비 구" languages="Korean">넵비 구</name>
+	</region>
+	<region name="Ngora" type="district" typeTranslated="district">
+		<name normalized="Distrito de Ngora" languages="Spanish">Distrito de Ngora</name>
+		<name normalized="Distrito Ngora" languages="Galician">Distrito Ngora</name>
+		<name normalized="Ngora" languages="English;French;official">Ngora</name>
+		<name normalized="Ngora District" languages="English;official">Ngora District</name>
+		<name normalized="恩戈拉區" languages="Chinese">恩戈拉區</name>
+	</region>
+	<region name="Ntoroko" type="district" typeTranslated="district">
+		<name normalized="Distrito de Ntoroko" languages="Spanish">Distrito de Ntoroko</name>
+		<name normalized="Ntoroko" languages="English;French;official">Ntoroko</name>
+		<name normalized="Ntoroko District" languages="English;official">Ntoroko District</name>
+		<name normalized="恩托羅科區" languages="Chinese">恩托羅科區</name>
+	</region>
+	<region name="Ntungamo" type="district" typeTranslated="district">
+		<name normalized="Districtul Ntungamo" languages="Romanian">Districtul Ntungamo</name>
+		<name normalized="Distrik Ntungamo" languages="Indonesian">Distrik Ntungamo</name>
+		<name normalized="Distrikt Ntungamo" languages="German">Distrikt Ntungamo</name>
+		<name normalized="Distrito de Ntungamo" languages="Spanish">Distrito de Ntungamo</name>
+		<name normalized="Ntungamo" languages="Dutch;English;French;official;Romanian;Swahili">Ntungamo</name>
+		<name normalized="Ntungamo District" languages="English;official">Ntungamo District</name>
+		<name normalized="Wilaya ya Ntungamo" languages="Swahili">Wilaya ya Ntungamo</name>
+		<name normalized="ntungm県" languages="Japanese">ントゥンガモ県</name>
+		<name normalized="恩通加莫区" languages="Chinese">恩通加莫区</name>
+		<name normalized="은퉁가모 구" languages="Korean">은퉁가모 구</name>
+	</region>
+	<region name="Nwoya" type="district" typeTranslated="district">
+		<name normalized="Distrito de Nwoya" languages="Spanish">Distrito de Nwoya</name>
+		<name normalized="Distrito Nwoya" languages="Galician">Distrito Nwoya</name>
+		<name normalized="Nwoya" languages="English;French;official">Nwoya</name>
+		<name normalized="Nwoya District" languages="English;official">Nwoya District</name>
+		<name normalized="恩沃亞區" languages="Chinese">恩沃亞區</name>
+	</region>
+	<region name="Otuke" type="district" typeTranslated="district">
+		<name normalized="Distrito de Otuke" languages="Spanish">Distrito de Otuke</name>
+		<name normalized="Otuke" languages="English;French;official">Otuke</name>
+		<name normalized="Otuke District" languages="English;official">Otuke District</name>
+		<name normalized="奧圖凱區" languages="Chinese">奧圖凱區</name>
+	</region>
+	<region name="Oyam" type="district" typeTranslated="district">
+		<name normalized="Districtul Oyam" languages="Romanian">Districtul Oyam</name>
+		<name normalized="Distrito de Oyam" languages="Spanish">Distrito de Oyam</name>
+		<name normalized="Distrito Oyam" languages="Galician">Distrito Oyam</name>
+		<name normalized="Oyam" languages="Dutch;English;French;official;Romanian;Swahili">Oyam</name>
+		<name normalized="Oyam District" languages="English;official">Oyam District</name>
+		<name normalized="Wilaya ya Oyam" languages="Swahili">Wilaya ya Oyam</name>
+		<name normalized="oym県" languages="Japanese">オヤム県</name>
+		<name normalized="奧揚區" languages="Chinese">奧揚區</name>
+		<name normalized="오얌 구" languages="Korean">오얌 구</name>
+	</region>
+	<region name="Pader" type="district" typeTranslated="district">
+		<name normalized="Districtul Pader" languages="Romanian">Districtul Pader</name>
+		<name normalized="Distrikt Pader" languages="German">Distrikt Pader</name>
+		<name normalized="Distrito de Pader" languages="Spanish">Distrito de Pader</name>
+		<name normalized="Distrito Pader" languages="Galician">Distrito Pader</name>
+		<name normalized="Pader" languages="Dutch;English;French;official;Swahili;Swedish">Pader</name>
+		<name normalized="Pader District" languages="English;official">Pader District</name>
+		<name normalized="Paderas" languages="Lithuanian">Paderas</name>
+		<name normalized="Wilaya ya Pader" languages="Swahili">Wilaya ya Pader</name>
+		<name normalized="pdr県" languages="Japanese">パデル県</name>
+		<name normalized="帕德爾區" languages="Chinese">帕德爾區</name>
+		<name normalized="파데르 구" languages="Korean">파데르 구</name>
+	</region>
+	<region name="Pallisa" type="district" typeTranslated="district">
+		<name normalized="Districtul Pallisa" languages="Romanian">Districtul Pallisa</name>
+		<name normalized="Distrito de Pallisa" languages="Spanish">Distrito de Pallisa</name>
+		<name normalized="Distrito Pallisa" languages="Galician">Distrito Pallisa</name>
+		<name normalized="Pallisa" languages="Dutch;English;French;official;Polish;Romanian;Swahili">Pallisa</name>
+		<name normalized="Pallisa District" languages="English;official">Pallisa District</name>
+		<name normalized="Wilaya ya Pallisa" languages="Swahili">Wilaya ya Pallisa</name>
+		<name normalized="prs県" languages="Japanese">パリサ県</name>
+		<name normalized="帕利薩區" languages="Chinese">帕利薩區</name>
+		<name normalized="팔리사 구" languages="Korean">팔리사 구</name>
+	</region>
+	<region name="Rakai" type="district" typeTranslated="district">
+		<name normalized="Districtul Rakai" languages="Romanian">Districtul Rakai</name>
+		<name normalized="Distrito de Rakai" languages="Spanish">Distrito de Rakai</name>
+		<name normalized="Distrito Rakai" languages="Galician">Distrito Rakai</name>
+		<name normalized="Rakai" languages="Dutch;English;French;official;Romanian;Swahili">Rakai</name>
+		<name normalized="Rakai District" languages="English;official">Rakai District</name>
+		<name normalized="Wilaya ya Rakai" languages="Swahili">Wilaya ya Rakai</name>
+		<name normalized="Рakai" languages="Russian">Ракаи</name>
+		<name normalized="rki県" languages="Japanese">ラカイ県</name>
+		<name normalized="拉卡伊區" languages="Chinese">拉卡伊區</name>
+		<name normalized="라카이 구" languages="Korean">라카이 구</name>
+	</region>
+	<region name="Rubirizi" type="district" typeTranslated="district">
+		<name normalized="Distrito de Rubirizi" languages="Spanish">Distrito de Rubirizi</name>
+		<name normalized="Rubirizi" languages="English;French;official">Rubirizi</name>
+		<name normalized="Rubirizi District" languages="English;official">Rubirizi District</name>
+		<name normalized="魯比里齊區" languages="Chinese">魯比里齊區</name>
+	</region>
+	<region name="Rukungiri" type="district" typeTranslated="district">
+		<name normalized="Districtul Rukungiri" languages="Romanian">Districtul Rukungiri</name>
+		<name normalized="Distrikt Rukungiri" languages="German">Distrikt Rukungiri</name>
+		<name normalized="Distrito de Rukungiri" languages="Spanish">Distrito de Rukungiri</name>
+		<name normalized="Rukungiri" languages="Dutch;English;French;official;Romanian;Swahili">Rukungiri</name>
+		<name normalized="Rukungiri District" languages="English;official">Rukungiri District</name>
+		<name normalized="Wilaya ya Rukungiri" languages="Swahili">Wilaya ya Rukungiri</name>
+		<name normalized="Рukuнgiрi" languages="Russian">Рукунгири</name>
+		<name normalized="rkngr県" languages="Japanese">ルクンギリ県</name>
+		<name normalized="魯昆吉里區" languages="Chinese">魯昆吉里區</name>
+		<name normalized="루쿵기리 구" languages="Korean">루쿵기리 구</name>
+	</region>
+	<region name="Sembabule" type="district" typeTranslated="district">
+		<name normalized="Districtul Sembabule" languages="Romanian">Districtul Sembabule</name>
+		<name normalized="Distrikt Sembabule" languages="German">Distrikt Sembabule</name>
+		<name normalized="Distrito de Sembabule" languages="Spanish">Distrito de Sembabule</name>
+		<name normalized="Distrito Sembabule" languages="Galician">Distrito Sembabule</name>
+		<name normalized="Sembabule" languages="Dutch;English;French;official;Romanian;Swahili">Sembabule</name>
+		<name normalized="Sembabule District" languages="English;official">Sembabule District</name>
+		<name normalized="Wilaya ya Sembabule" languages="Swahili">Wilaya ya Sembabule</name>
+		<name normalized="Сiмbabuлi" languages="Russian">Сембабуле</name>
+		<name normalized="snbbr県" languages="Japanese">センバブレ県</name>
+		<name normalized="森巴布萊區" languages="Chinese">森巴布萊區</name>
+		<name normalized="셈바불레 구" languages="Korean">셈바불레 구</name>
+	</region>
+	<region name="Serere" type="district" typeTranslated="district">
+		<name normalized="Distrito de Serere" languages="Spanish">Distrito de Serere</name>
+		<name normalized="Distrito Serere" languages="Galician">Distrito Serere</name>
+		<name normalized="Serere" languages="English;French;official">Serere</name>
+		<name normalized="Serere District" languages="English;official">Serere District</name>
+		<name normalized="塞雷雷區" languages="Chinese">塞雷雷區</name>
+	</region>
+	<region name="Sheema" type="district" typeTranslated="district">
+		<name normalized="Distrito de Sheema" languages="Spanish">Distrito de Sheema</name>
+		<name normalized="Sheema" languages="English;French;official">Sheema</name>
+		<name normalized="Sheema District" languages="English;official">Sheema District</name>
+		<name normalized="謝馬區" languages="Chinese">謝馬區</name>
+	</region>
+	<region name="Sironko" type="district" typeTranslated="district">
+		<name normalized="Districtul Sironko" languages="Romanian">Districtul Sironko</name>
+		<name normalized="Distrito de Sironko" languages="Spanish">Distrito de Sironko</name>
+		<name normalized="Distrito Sironko" languages="Galician">Distrito Sironko</name>
+		<name normalized="Sironko" languages="Dutch;English;French;official;Romanian;Swahili">Sironko</name>
+		<name normalized="Sironko District" languages="English;official">Sironko District</name>
+		<name normalized="Wilaya ya Sironko" languages="Swahili">Wilaya ya Sironko</name>
+		<name normalized="srnk県" languages="Japanese">シロンコ県</name>
+		<name normalized="錫龍科" languages="Chinese">錫龍科</name>
+		<name normalized="錫龍科區" languages="Chinese">錫龍科區</name>
+		<name normalized="시롱코 구" languages="Korean">시롱코 구</name>
+	</region>
+	<region name="Soroti" type="district" typeTranslated="district">
+		<name normalized="Districtul Soroti" languages="Romanian">Districtul Soroti</name>
+		<name normalized="Distrikt Soroti" languages="German">Distrikt Soroti</name>
+		<name normalized="Distrito de Soroti" languages="Spanish">Distrito de Soroti</name>
+		<name normalized="Distrito Soroti" languages="Galician">Distrito Soroti</name>
+		<name normalized="Dystrykt Soroti" languages="Polish">Dystrykt Soroti</name>
+		<name normalized="Soroti" languages="Danish;Dutch;English;French;German;official;Polish;Romanian;Swahili;Swedish">Soroti</name>
+		<name normalized="Soroti District" languages="English;official">Soroti District</name>
+		<name normalized="Wilaya ya Soroti" languages="Swahili">Wilaya ya Soroti</name>
+		<name normalized="סvrvtי" languages="Hebrew">סורוטי</name>
+		<name normalized="srti県" languages="Japanese">ソロティ県</name>
+		<name normalized="索羅提" languages="Chinese">索羅提</name>
+		<name normalized="索羅提區" languages="Chinese">索羅提區</name>
+		<name normalized="소로티 구" languages="Korean">소로티 구</name>
+	</region>
+	<region name="Tororo" type="district" typeTranslated="district">
+		<name normalized="Districtul Tororo" languages="Romanian">Districtul Tororo</name>
+		<name normalized="Distrito de Tororo" languages="Spanish">Distrito de Tororo</name>
+		<name normalized="Distrito Tororo" languages="Galician">Distrito Tororo</name>
+		<name normalized="Dystrykt Tororo" languages="Polish">Dystrykt Tororo</name>
+		<name normalized="Tororas" languages="Lithuanian">Tororas</name>
+		<name normalized="Tororo" languages="Dutch;English;French;German;Italian;official;Polish;Romanian;Swahili">Tororo</name>
+		<name normalized="Tororo District" languages="English;official">Tororo District</name>
+		<name normalized="Wilaya ya Tororo" languages="Swahili">Wilaya ya Tororo</name>
+		<name normalized="Toрoрo" languages="Bulgarian;Russian">Тороро</name>
+		<name normalized="מhvז tvrvrv" languages="Hebrew">מחוז טורורו</name>
+		<name normalized="trr" languages="Japanese">トロロ</name>
+		<name normalized="trr県" languages="Japanese">トロロ県</name>
+		<name normalized="托罗罗" languages="Chinese">托罗罗</name>
+		<name normalized="托羅羅區" languages="Chinese">托羅羅區</name>
+		<name normalized="토로로" languages="Korean">토로로</name>
+		<name normalized="토로로 구" languages="Korean">토로로 구</name>
+	</region>
+	<region name="Wakiso" type="district" typeTranslated="district">
+		<name normalized="Distretto di Wakiso" languages="Italian">Distretto di Wakiso</name>
+		<name normalized="Districtul Wakiso" languages="Romanian">Districtul Wakiso</name>
+		<name normalized="Distrikt Wakiso" languages="German">Distrikt Wakiso</name>
+		<name normalized="Distrito de Wakiso" languages="Spanish">Distrito de Wakiso</name>
+		<name normalized="Distrito Wakiso" languages="Galician">Distrito Wakiso</name>
+		<name normalized="Dystrykt Wakiso" languages="Polish">Dystrykt Wakiso</name>
+		<name normalized="Wakiso" languages="Dutch;English;French;Italian;official;Romanian;Swahili">Wakiso</name>
+		<name normalized="Wakiso District" languages="English;official">Wakiso District</name>
+		<name normalized="Wakiso Town" languages="English">Wakiso Town</name>
+		<name normalized="Wilaya ya Wakiso" languages="Swahili">Wilaya ya Wakiso</name>
+		<name normalized="Vakiсo" languages="Russian">Вакисо</name>
+		<name normalized="wks県" languages="Japanese">ワキソ県</name>
+		<name normalized="瓦基索區" languages="Chinese">瓦基索區</name>
+		<name normalized="와키소 구" languages="Korean">와키소 구</name>
+	</region>
+	<region name="Yumbe" type="district" typeTranslated="district">
+		<name normalized="Districtul Yumbe" languages="Romanian">Districtul Yumbe</name>
+		<name normalized="Distrito de Yumbe" languages="Spanish">Distrito de Yumbe</name>
+		<name normalized="Distrito Yumbe" languages="Galician">Distrito Yumbe</name>
+		<name normalized="Wilaya ya Yumbe" languages="Swahili">Wilaya ya Yumbe</name>
+		<name normalized="Yumbe" languages="Dutch;English;French;official;Polish;Romanian;Swahili">Yumbe</name>
+		<name normalized="Yumbe District" languages="English;official">Yumbe District</name>
+		<name normalized="Yumben piirikunta" languages="Finnish">Yumben piirikunta</name>
+		<name normalized="ynb県" languages="Japanese">ユンベ県</name>
+		<name normalized="永貝區" languages="Chinese">永貝區</name>
+		<name normalized="윰베 구" languages="Korean">윰베 구</name>
+	</region>
+	<region name="Zombo" type="district" typeTranslated="district">
+		<name normalized="Distrito de Zombo" languages="Spanish">Distrito de Zombo</name>
+		<name normalized="Distrito Zombo" languages="Galician">Distrito Zombo</name>
+		<name normalized="Zombo" languages="English;French;official">Zombo</name>
+		<name normalized="Zombo District" languages="English;official">Zombo District</name>
+		<name normalized="宗博區" languages="Chinese">宗博區</name>
+	</region>
+</regions>

@@ -1,0 +1,365 @@
+<regions country="Jordan">
+	<region name="'Amman" type="governorate" typeTranslated="muhafazah">
+		<name normalized="'Amman" languages="English;official">'Amman</name>
+		<name normalized="'Amman Governorate" languages="English;official">'Amman Governorate</name>
+		<name normalized="'Amman Muhafazah" languages="English;official">'Amman Muhafazah</name>
+		<name normalized="Aman" languages="Bosnian;Novial;Slovenian;Tagalog">Aman</name>
+		<name normalized="Amanas" languages="Lithuanian">Amanas</name>
+		<name normalized="Amani" languages="Albanian">Amani</name>
+		<name normalized="Amano" languages="Esperanto">Amano</name>
+		<name normalized="Amano muchafaza" languages="Lithuanian">Amano muchafaza</name>
+		<name normalized="Amans" languages="Samogitian">Amans</name>
+		<name normalized="Amman" languages="Achinese;Afrikaans;Azerbaijani;Banjar;Basque;Breton;Catalan;Chinese (Min Nan);Croatian;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;Franco-Provencal;French;German;Hawaiian;Icelandic;Ido;Indonesian;Interlingue;Irish;Italian;Javanese;Kalaallisut;Ligure;Low German;lumbaart;Luxembourgish;Malagasy;Malay;Neapolitan;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Piedmontese;Polish;Quechua;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Sicilian;Simple English;Swahili;Swedish;Turkish;Upper Sorbian;Vietnamese;Volapuk;Voro;Waray;Welsh;Western Frisian;Wolof;Yoruba">Amman</name>
+		<name normalized="Amman Gobernazioa" languages="Basque">Amman Gobernazioa</name>
+		<name normalized="Amman Governorate" languages="English;official">Amman Governorate</name>
+		<name normalized="Amman Govrenorate" languages="Scots">Amman Govrenorate</name>
+		<name normalized="Amman Muhafazah" languages="English;official">Amman Muhafazah</name>
+		<name normalized="Amman" languages="Czech;Hungarian;Slovak">Ammán</name>
+		<name normalized="Amman" languages="Nahuatl">Ammān</name>
+		<name normalized="Ammana" languages="Latvian">Ammāna</name>
+		<name normalized="Aman" languages="Haitian">Amàn</name>
+		<name normalized="Aman" languages="Galician;Spanish">Amán</name>
+		<name normalized="Ama" languages="Guarani;Portuguese">Amã</name>
+		<name normalized="Baskent ili" languages="Turkish">Başkent ili</name>
+		<name normalized="Fovaros kormanyzosag" languages="Hungarian">Főváros kormányzóság</name>
+		<name normalized="Gobernacion de Amman" languages="Spanish">Gobernación de Ammán</name>
+		<name normalized="Gouvernement Amman" languages="German">Gouvernement Amman</name>
+		<name normalized="Gouvernorat d'Amman" languages="French">Gouvernorat d'Amman</name>
+		<name normalized="Governatorato di Amman" languages="Italian">Governatorato di Amman</name>
+		<name normalized="Philadelphia" languages="Latin">Philadelphia</name>
+		<name normalized="Αμμαν" languages="Greek">Αμμάν</name>
+		<name normalized="Aмaн" languages="Bulgarian;Macedonian;Serbian;biлaрuсkai (taрaskivita)‎">Аман</name>
+		<name normalized="Aммaн" languages="Chechen;Chuvash;Kazakh;Mongolian;Ossetic;Russian;Tatar;Ukrainian">Амман</name>
+		<name normalized="Aммoн" languages="Tajik">Аммон</name>
+		<name normalized="Goрad Aмaн" languages="Belarusian">Горад Аман</name>
+		<name normalized="Աmmան" languages="Armenian">Ամման</name>
+		<name normalized="אמאן" languages="Yiddish">אמאן</name>
+		<name normalized="מhvז עמאן" languages="Hebrew">מחוז עמאן</name>
+		<name normalized="עמאן" languages="Hebrew">עמאן</name>
+		<name normalized="ئאmmאن" languages="Uyghur">ئاممان</name>
+		<name normalized="אسtאن عmאن" languages="Persian">استان عمان</name>
+		<name normalized="אmאن" languages="Mazanderani;Persian">امان</name>
+		<name normalized="dلع عmאن" languages="Western Punjabi">ضلع عمان</name>
+		<name normalized="عmאن" languages="Arabic;Egyptian Spoken Arabic;Urdu">عمان</name>
+		<name normalized="عmאن شہr" languages="Western Punjabi">عمان شہر</name>
+		<name normalized="عەmmאن" languages="Sorani Kurdish">عەممان</name>
+		<name normalized="mhאfzة אلعאsmة" languages="Arabic">محافظة العاصمة</name>
+		<name normalized="ܥܡܐܢ" languages="Aramaic">ܥܡܐܢ</name>
+		<name normalized="am्mाn" languages="Hindi;Marathi">अम्मान</name>
+		<name normalized="am্mাn" languages="Bengali">আম্মান</name>
+		<name normalized="amਾn" languages="Punjabi">ਅਮਾਨ</name>
+		<name normalized="அம்மான்" languages="Tamil">அம்மான்</name>
+		<name normalized="ಅಮ್ಮಾನ್" languages="Kannada">ಅಮ್ಮಾನ್</name>
+		<name normalized="അമ്മാൻ" languages="Malayalam">അമ്മാൻ</name>
+		<name normalized="อัมมาน" languages="Thai">อัมมาน</name>
+		<name normalized="ཨམ་མན།" languages="Tibetan">ཨམ་མན།</name>
+		<name normalized="ამანი" languages="Georgian">ამანი</name>
+		<name normalized="አማን" languages="Amharic">አማን</name>
+		<name normalized="anmn" languages="Japanese">アンマン</name>
+		<name normalized="anmn県" languages="Japanese">アンマン県</name>
+		<name normalized="安曼" languages="Cantonese;Chinese;Wu">安曼</name>
+		<name normalized="安曼省" languages="Chinese">安曼省</name>
+		<name normalized="암만" languages="Korean">암만</name>
+		<name normalized="암만 주" languages="Korean">암만 주</name>
+	</region>
+	<region name="Ajlun" type="governorate" typeTranslated="muhafazah">
+		<name normalized="Adzslun kormanyzosag" languages="Hungarian">Adzslún kormányzóság</name>
+		<name normalized="Adzlun" languages="Polish">Adżlun</name>
+		<name normalized="Adzlunas" languages="Lithuanian">Adžlunas</name>
+		<name normalized="Adzluno muchafaza" languages="Lithuanian">Adžluno muchafaza</name>
+		<name normalized="Ajloun" languages="English;Portuguese">Ajloun</name>
+		<name normalized="Ajloun Governorate" languages="English">Ajloun Governorate</name>
+		<name normalized="Ajloun Govrenorate" languages="Scots">Ajloun Govrenorate</name>
+		<name normalized="Ajlun" languages="Catalan;Dutch;English;Finnish;French;Italian;official;Swedish">Ajlun</name>
+		<name normalized="Ajlun Gobernazioa" languages="Basque">Ajlun Gobernazioa</name>
+		<name normalized="Ajlun Governorate" languages="English;official">Ajlun Governorate</name>
+		<name normalized="Ajlun Muhafazah" languages="English;official">Ajlun Muhafazah</name>
+		<name normalized="Aglun" languages="Esperanto">Aĝlun</name>
+		<name normalized="Gobernacion de Ajlun" languages="Spanish">Gobernación de Ajlun</name>
+		<name normalized="Gouvernorat d'Ajlun" languages="French">Gouvernorat d'Ajlun</name>
+		<name normalized="Governacio d'Ajlun" languages="Catalan">Governació d'Ajlun</name>
+		<name normalized="Governatorato di Ajlun" languages="Italian">Governatorato di Ajlun</name>
+		<name normalized="Governorato de Ajloun" languages="Portuguese">Governorato de Ajloun</name>
+		<name normalized="Adzлuн" languages="Russian">Аджлун</name>
+		<name normalized="Adzлюн" languages="biлaрuсkai (taрaskivita)‎">Аджлюн</name>
+		<name normalized="מhvז עג'דvן" languages="Hebrew">מחוז עג'לון</name>
+		<name normalized="אسtאن عjلون" languages="Persian">استان عجلون</name>
+		<name normalized="dلع אjلون" languages="Western Punjabi">ضلع اجلون</name>
+		<name normalized="عjلون" languages="Arabic;Persian;Western Punjabi">عجلون</name>
+		<name normalized="azyrn" languages="Japanese">アジュルン</name>
+		<name normalized="azyrn県" languages="Japanese">アジュルン県</name>
+		<name normalized="阿傑隆省" languages="Chinese">阿傑隆省</name>
+		<name normalized="아질룬" languages="Korean">아질룬</name>
+		<name normalized="아질룬 주" languages="Korean">아질룬 주</name>
+	</region>
+	<region name="Al 'Aqabah" type="governorate" typeTranslated="muhafazah">
+		<name normalized="Akaba" languages="Albanian;Czech;Danish;Dutch;Finnish;German;Hungarian;Lithuanian;Norwegian (bokmal);Polish;Slovak;Slovenian;Swedish;Western Frisian">Akaba</name>
+		<name normalized="Akabe" languages="Turkish">Akabe</name>
+		<name normalized="Akabo" languages="Esperanto">Akabo</name>
+		<name normalized="Al 'Aqabah" languages="English;official">Al 'Aqabah</name>
+		<name normalized="Al 'Aqabah Governorate" languages="English;official">Al 'Aqabah Governorate</name>
+		<name normalized="Al 'Aqabah Muhafazah" languages="English;official">Al 'Aqabah Muhafazah</name>
+		<name normalized="Al Aqabah" languages="English;official">Al Aqabah</name>
+		<name normalized="Al Aqabah Governorate" languages="English;official">Al Aqabah Governorate</name>
+		<name normalized="Al Aqabah Muhafazah" languages="English;official">Al Aqabah Muhafazah</name>
+		<name normalized="Al-'Aqabah" languages="Estonian">Al-‘Aqabah</name>
+		<name normalized="Aqaba" languages="Basque;English;French;Indonesian;Italian;Javanese;Limburgish;Portuguese;Romanian;Vietnamese">Aqaba</name>
+		<name normalized="Aqaba" languages="Catalan">Àqaba</name>
+		<name normalized="Aqaba" languages="Spanish">Áqaba</name>
+		<name normalized="Ακαμπα" languages="Greek">Άκαμπα</name>
+		<name normalized="Akaba" languages="Bulgarian;Russian;Serbian;Ukrainian">Акаба</name>
+		<name normalized="Akaba kaлaсы" languages="Kazakh">Акаба қаласы</name>
+		<name normalized="עqbh" languages="Hebrew">עקבה</name>
+		<name normalized="אلعqbة" languages="Arabic">العقبة</name>
+		<name normalized="عqbh" languages="Mazanderani;Persian">عقبه</name>
+		<name normalized="عqbہ" languages="Western Punjabi">عقبہ</name>
+		<name normalized="അക്വാബ" languages="Malayalam">അക്വാബ</name>
+		<name normalized="აკაბა" languages="Georgian">აკაბა</name>
+		<name normalized="akb" languages="Japanese">アカバ</name>
+		<name normalized="亞喀巴" languages="Chinese">亞喀巴</name>
+		<name normalized="아카바" languages="Korean">아카바</name>
+	</region>
+	<region name="Al Balqa'" type="governorate" typeTranslated="muhafazah">
+		<name normalized="Al Balqa" languages="English;official">Al Balqa</name>
+		<name normalized="Al Balqa Governorate" languages="English;official">Al Balqa Governorate</name>
+		<name normalized="Al Balqa Muhafazah" languages="English;official">Al Balqa Muhafazah</name>
+		<name normalized="Al Balqa'" languages="English;Finnish;official">Al Balqa'</name>
+		<name normalized="Al Balqa' Governorate" languages="English;official">Al Balqa' Governorate</name>
+		<name normalized="Al Balqa' Muhafazah" languages="English;official">Al Balqa' Muhafazah</name>
+		<name normalized="Al-Balka" languages="Polish">Al-Balka</name>
+		<name normalized="Al-Balqa" languages="Catalan">Al-Balqa</name>
+		<name normalized="Balka" languages="Dutch">Balka</name>
+		<name normalized="Balkao" languages="Esperanto">Balkao</name>
+		<name normalized="Balkos muchafaza" languages="Lithuanian">Balkos muchafaza</name>
+		<name normalized="Balka kormanyzosag" languages="Hungarian">Balká kormányzóság</name>
+		<name normalized="Balqa" languages="Portuguese;Swedish">Balqa</name>
+		<name normalized="Balqa Gobernazioa" languages="Basque">Balqa Gobernazioa</name>
+		<name normalized="Balqa Governorate" languages="English">Balqa Governorate</name>
+		<name normalized="Balqa Govrenorate" languages="Scots">Balqa Govrenorate</name>
+		<name normalized="Gobernacion de Balqa'" languages="Spanish">Gobernación de Balqa'</name>
+		<name normalized="Gouvernorat de Balqa" languages="French">Gouvernorat de Balqa</name>
+		<name normalized="Governatorato di Balqa" languages="Italian">Governatorato di Balqa</name>
+		<name normalized="Eль-Baka" languages="biлaрuсkai (taрaskivita)‎">Эль-Бака</name>
+		<name normalized="Eль-Baлka" languages="Russian">Эль-Балка</name>
+		<name normalized="מhvז bדqא" languages="Hebrew">מחוז בלקא</name>
+		<name normalized="אسtאن bلqאء" languages="Persian">استان بلقاء</name>
+		<name normalized="אلbلqאء" languages="Arabic">البلقاء</name>
+		<name normalized="dلع bلqא" languages="Western Punjabi">ضلع بلقا</name>
+		<name normalized="brk県" languages="Japanese">バルカ県</name>
+		<name normalized="拜勒加省" languages="Chinese">拜勒加省</name>
+		<name normalized="발카 주" languages="Korean">발카 주</name>
+	</region>
+	<region name="Al Karak" type="governorate" typeTranslated="muhafazah">
+		<name normalized="Al Karak" languages="English;Finnish;official;Portuguese;Spanish">Al Karak</name>
+		<name normalized="Al Karak Governorate" languages="English;official">Al Karak Governorate</name>
+		<name normalized="Al Karak Muhafazah" languages="English;official">Al Karak Muhafazah</name>
+		<name normalized="Al-Karak" languages="Catalan;French;Italian;Polish;Serbo-Croatian">Al-Karak</name>
+		<name normalized="El Karak" languages="Turkish">El Karak</name>
+		<name normalized="Gobernacion de Karak" languages="Spanish">Gobernación de Karak</name>
+		<name normalized="Gouvernorat de Karak" languages="French">Gouvernorat de Karak</name>
+		<name normalized="Governacio de Karak" languages="Catalan">Governació de Karak</name>
+		<name normalized="Governatorato di al-Karak" languages="Italian">Governatorato di al-Karak</name>
+		<name normalized="Karak" languages="Basque;Swedish">Karak</name>
+		<name normalized="Karak Gobernazioa" languages="Basque">Karak Gobernazioa</name>
+		<name normalized="Karak Governorate" languages="English">Karak Governorate</name>
+		<name normalized="Karak Govrenorate" languages="Scots">Karak Govrenorate</name>
+		<name normalized="Karak kormanyzosag" languages="Hungarian">Karak kormányzóság</name>
+		<name normalized="Karakas" languages="Lithuanian">Karakas</name>
+		<name normalized="Karako" languages="Esperanto">Karako</name>
+		<name normalized="Karako muchafaza" languages="Lithuanian">Karako muchafaza</name>
+		<name normalized="Kerak" languages="Czech;Dutch;Esperanto;German">Kerak</name>
+		<name normalized="Iл Kaрak" languages="Serbian">Ел Карак</name>
+		<name normalized="Kaрak" languages="Bulgarian;biлaрuсkai (taрaskivita)‎">Карак</name>
+		<name normalized="Eль-Kaрak" languages="Kazakh;Russian">Эль-Карак</name>
+		<name normalized="כrכ" languages="Hebrew">כרכ</name>
+		<name normalized="מhvז כrכ" languages="Hebrew">מחוז כרכ</name>
+		<name normalized="אسtאن کrک" languages="Persian">استان کرک</name>
+		<name normalized="אلkrk" languages="Arabic;Egyptian Spoken Arabic">الكرك</name>
+		<name normalized="dلع کrک(אrدن)" languages="Western Punjabi">ضلع کرک(اردن)</name>
+		<name normalized="کrک" languages="Persian;Urdu;Western Punjabi">کرک</name>
+		<name normalized="krk" languages="Japanese">カラク</name>
+		<name normalized="krk県" languages="Japanese">カラク県</name>
+		<name normalized="卡拉克" languages="Chinese">卡拉克</name>
+		<name normalized="卡拉克省" languages="Chinese">卡拉克省</name>
+		<name normalized="카라크" languages="Korean">카라크</name>
+		<name normalized="카라크 주" languages="Korean">카라크 주</name>
+	</region>
+	<region name="Al Mafraq" type="governorate" typeTranslated="muhafazah">
+		<name normalized="Al Mafraq" languages="English;Finnish;official">Al Mafraq</name>
+		<name normalized="Al Mafraq Governorate" languages="English;official">Al Mafraq Governorate</name>
+		<name normalized="Al Mafraq Muhafazah" languages="English;official">Al Mafraq Muhafazah</name>
+		<name normalized="Al-Mafrak" languages="Polish">Al-Mafrak</name>
+		<name normalized="Gobernacion de Mafraq" languages="Spanish">Gobernación de Mafraq</name>
+		<name normalized="Gouvernorat de Mafraq" languages="French">Gouvernorat de Mafraq</name>
+		<name normalized="Governatorato di Mafraq" languages="Italian">Governatorato di Mafraq</name>
+		<name normalized="Mafrak" languages="Czech;Dutch">Mafrak</name>
+		<name normalized="Mafrak kormanyzosag" languages="Hungarian">Mafrak kormányzóság</name>
+		<name normalized="Mafrakas" languages="Lithuanian">Mafrakas</name>
+		<name normalized="Mafrako" languages="Esperanto">Mafrako</name>
+		<name normalized="Mafrako muchafaza" languages="Lithuanian">Mafrako muchafaza</name>
+		<name normalized="Mafraq" languages="English;French;Portuguese;Scots;Swedish">Mafraq</name>
+		<name normalized="Mafraq Gobernazioa" languages="Basque">Mafraq Gobernazioa</name>
+		<name normalized="Mafraq Governorate" languages="English">Mafraq Governorate</name>
+		<name normalized="Mafraq Govrenorate" languages="Scots">Mafraq Govrenorate</name>
+		<name normalized="Eль-Мaфрak" languages="Russian;biлaрuсkai (taрaskivita)‎">Эль-Мафрак</name>
+		<name normalized="מhvז מprq" languages="Hebrew">מחוז מפרק</name>
+		<name normalized="מprq" languages="Hebrew">מפרק</name>
+		<name normalized="אسtאن mfrq" languages="Persian">استان مفرق</name>
+		<name normalized="אلmfrq" languages="Arabic">المفرق</name>
+		<name normalized="dلع mfrאq" languages="Western Punjabi">ضلع مفراق</name>
+		<name normalized="mhrk" languages="Japanese">マフラク</name>
+		<name normalized="mhrk県" languages="Japanese">マフラク県</name>
+		<name normalized="馬弗拉克省" languages="Chinese">馬弗拉克省</name>
+		<name normalized="마프라크 주" languages="Korean">마프라크 주</name>
+	</region>
+	<region name="At Tafilah" type="governorate" typeTranslated="muhafazah">
+		<name normalized="At Tafilah" languages="English;official">At Tafilah</name>
+		<name normalized="At Tafilah Governorate" languages="English;official">At Tafilah Governorate</name>
+		<name normalized="At Tafilah Muhafazah" languages="English;official">At Tafilah Muhafazah</name>
+		<name normalized="At-Tafila" languages="Polish">At-Tafila</name>
+		<name normalized="Tafila" languages="Czech;Lithuanian">Tafila</name>
+		<name normalized="Tafilah" languages="Dutch;English;Scots">Tafilah</name>
+		<name normalized="Et-Taфiлa" languages="Russian">Эт-Тафила</name>
+		<name normalized="tpידh" languages="Hebrew">טפילה</name>
+		<name normalized="mدyنة אلtfyلة" languages="Arabic">مدينة الطفيلة</name>
+		<name normalized="thir" languages="Japanese">タフィラ</name>
+	</region>
+	<region name="Az Zarqa'" type="governorate" typeTranslated="muhafazah">
+		<name normalized="Az Zarqa" languages="English;official">Az Zarqa</name>
+		<name normalized="Az Zarqa Governorate" languages="English;official">Az Zarqa Governorate</name>
+		<name normalized="Az Zarqa Muhafazah" languages="English;official">Az Zarqa Muhafazah</name>
+		<name normalized="Az Zarqa'" languages="English;official">Az Zarqa'</name>
+		<name normalized="Az Zarqa' Governorate" languages="English;official">Az Zarqa' Governorate</name>
+		<name normalized="Az Zarqa' Muhafazah" languages="English;official">Az Zarqa' Muhafazah</name>
+		<name normalized="Az-Zarka" languages="Polish">Az-Zarka</name>
+		<name normalized="Zarka" languages="Dutch;French;Lithuanian">Zarka</name>
+		<name normalized="Zarka" languages="Czech">Zarká</name>
+		<name normalized="Zarqa" languages="Catalan;Danish;English;Finnish;German;Indonesian;Interlingue;Italian;Kalaallisut;Malay;Norwegian (bokmal);Norwegian Nynorsk;Portuguese;Scots;Simple English;Spanish;Swedish;Vietnamese;Waray">Zarqa</name>
+		<name normalized="Goрad Ez-Zaрka" languages="Belarusian">Горад Эз-Зарка</name>
+		<name normalized="Zaрka" languages="Bulgarian">Зарка</name>
+		<name normalized="Ez-Zaрka" languages="Russian">Эз-Зарка</name>
+		<name normalized="Ez-Zaрka kaлaсы" languages="Kazakh">Эз-Зарка қаласы</name>
+		<name normalized="זrqא" languages="Hebrew">זרקא</name>
+		<name normalized="אلزrqאء" languages="Arabic">الزرقاء</name>
+		<name normalized="زrqא" languages="Mazanderani;Western Punjabi">زرقا</name>
+		<name normalized="zrk" languages="Japanese">ザルカ</name>
+		<name normalized="扎尔卡" languages="Chinese">扎尔卡</name>
+		<name normalized="자르카" languages="Korean">자르카</name>
+	</region>
+	<region name="Irbid" type="governorate" typeTranslated="muhafazah">
+		<name normalized="Gobernacion de Irbid" languages="Spanish">Gobernación de Irbid</name>
+		<name normalized="Gouvernorat d'Irbid" languages="French">Gouvernorat d'Irbid</name>
+		<name normalized="Governacio d'Irbid" languages="Catalan">Governació d'Irbid</name>
+		<name normalized="Governatorato di Irbid" languages="Italian">Governatorato di Irbid</name>
+		<name normalized="Governorado de Irbid" languages="Portuguese">Governorado de Irbid</name>
+		<name normalized="Irbid" languages="Basque;Catalan;Czech;Danish;Dutch;English;Esperanto;Finnish;French;German;Guarani;Italian;Kalaallisut;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Spanish;Swedish;Turkish;Vietnamese;Waray">Irbid</name>
+		<name normalized="Irbid Gobernazioa" languages="Basque">Irbid Gobernazioa</name>
+		<name normalized="Irbid Governorate" languages="English;official">Irbid Governorate</name>
+		<name normalized="Irbid Govrenorate" languages="Scots">Irbid Govrenorate</name>
+		<name normalized="Irbid kormanyzosag" languages="Hungarian">Irbid kormányzóság</name>
+		<name normalized="Irbid Muhafazah" languages="English;official">Irbid Muhafazah</name>
+		<name normalized="Irbidas" languages="Lithuanian">Irbidas</name>
+		<name normalized="Irbido" languages="Esperanto">Irbido</name>
+		<name normalized="Irbido muchafaza" languages="Lithuanian">Irbido muchafaza</name>
+		<name normalized="Goрad Iрbid" languages="Belarusian">Горад Ірбід</name>
+		<name normalized="Iрbid" languages="Bulgarian;Russian">Ирбид</name>
+		<name normalized="Iрbid kaлaсы" languages="Kazakh">Ирбид қаласы</name>
+		<name normalized="Iрbid" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Ірбід</name>
+		<name normalized="איrbיד" languages="Hebrew">אירביד</name>
+		<name normalized="מhvז איrbיד" languages="Hebrew">מחוז אירביד</name>
+		<name normalized="إrbد" languages="Arabic">إربد</name>
+		<name normalized="אrbد" languages="Mazanderani;Persian;Western Punjabi">اربد</name>
+		<name normalized="אسtאن אrbد" languages="Persian">استان اربد</name>
+		<name normalized="dلع אbrید" languages="Western Punjabi">ضلع ابرید</name>
+		<name normalized="irbd" languages="Japanese">イルビド</name>
+		<name normalized="irbd県" languages="Japanese">イルビド県</name>
+		<name normalized="伊爾比德" languages="Chinese">伊爾比德</name>
+		<name normalized="伊爾比德省" languages="Chinese">伊爾比德省</name>
+		<name normalized="이르비드" languages="Korean">이르비드</name>
+		<name normalized="이르비드 주" languages="Korean">이르비드 주</name>
+	</region>
+	<region name="Jarash" type="governorate" typeTranslated="muhafazah">
+		<name normalized="Dzseras kormanyzosag" languages="Hungarian">Dzseras kormányzóság</name>
+		<name normalized="Dzaraso muchafaza" languages="Lithuanian">Džarašo muchafaza</name>
+		<name normalized="Gobernacion de Gerasa" languages="Spanish">Gobernación de Gerasa</name>
+		<name normalized="Gouvernorat de Jerash" languages="French">Gouvernorat de Jerash</name>
+		<name normalized="Governatorato di Jerash" languages="Italian">Governatorato di Jerash</name>
+		<name normalized="Governorado de Gerasa" languages="Portuguese">Governorado de Gérasa</name>
+		<name normalized="Jarash" languages="English;Finnish;official">Jarash</name>
+		<name normalized="Jarash Governorate" languages="English;official">Jarash Governorate</name>
+		<name normalized="Jarash Muhafazah" languages="English;official">Jarash Muhafazah</name>
+		<name normalized="Jerash" languages="Dutch;Swedish">Jerash</name>
+		<name normalized="Jerash Governorate" languages="English">Jerash Governorate</name>
+		<name normalized="Jerash Govrenorate" languages="Scots">Jerash Govrenorate</name>
+		<name normalized="Jerax Gobernazioa" languages="Basque">Jerax Gobernazioa</name>
+		<name normalized="Jeraso" languages="Esperanto">Ĵeraso</name>
+		<name normalized="Dzaрas" languages="Russian">Джараш</name>
+		<name normalized="מhvז ג'rש" languages="Hebrew">מחוז ג'רש</name>
+		<name normalized="אسtאن jrش" languages="Persian">استان جرش</name>
+		<name normalized="jrش" languages="Arabic">جرش</name>
+		<name normalized="dلع jrش" languages="Western Punjabi">ضلع جرش</name>
+		<name normalized="zyrsy県" languages="Japanese">ジャラシュ県</name>
+		<name normalized="傑拉什省" languages="Chinese">傑拉什省</name>
+		<name normalized="제라시 주" languages="Korean">제라시 주</name>
+	</region>
+	<region name="Ma'an" type="governorate" typeTranslated="muhafazah">
+		<name normalized="Gobernacion de Ma'an" languages="Spanish">Gobernación de Ma'an</name>
+		<name normalized="Gouvernorat de Ma'an" languages="French">Gouvernorat de Ma'an</name>
+		<name normalized="Governatorato di Ma'an" languages="Italian">Governatorato di Ma'an</name>
+		<name normalized="Ma'an" languages="Danish;Dutch;English;Finnish;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Scots;Swedish">Ma'an</name>
+		<name normalized="Ma'an Gobernazioa" languages="Basque">Ma'an Gobernazioa</name>
+		<name normalized="Ma'an Governorate" languages="English;official">Ma'an Governorate</name>
+		<name normalized="Ma'an Govrenorate" languages="Scots">Ma'an Govrenorate</name>
+		<name normalized="Ma'an Muhafazah" languages="English;official">Ma'an Muhafazah</name>
+		<name normalized="Ma'an" languages="Czech">Ma'án</name>
+		<name normalized="Maan" languages="Catalan;English;official">Maan</name>
+		<name normalized="Maan Governorate" languages="English;official">Maan Governorate</name>
+		<name normalized="Maan Muhafazah" languages="English;official">Maan Muhafazah</name>
+		<name normalized="Maanas" languages="Lithuanian">Maanas</name>
+		<name normalized="Maano" languages="Esperanto">Maano</name>
+		<name normalized="Maano muchafaza" languages="Lithuanian">Maano muchafaza</name>
+		<name normalized="Maan" languages="Hungarian">Maán</name>
+		<name normalized="Maan kormanyzosag" languages="Hungarian">Maán kormányzóság</name>
+		<name normalized="Мaaн" languages="Russian;biлaрuсkai (taрaskivita)‎">Маан</name>
+		<name normalized="מhvז מעאן" languages="Hebrew">מחוז מעאן</name>
+		<name normalized="מעאן" languages="Hebrew">מעאן</name>
+		<name normalized="אسtאن mعאن" languages="Persian">استان معان</name>
+		<name normalized="dلع mعאن" languages="Western Punjabi">ضلع معان</name>
+		<name normalized="mعאن" languages="Arabic;Mazanderani;Persian;Western Punjabi">معان</name>
+		<name normalized="maーn" languages="Japanese">マアーン</name>
+		<name normalized="maーn県" languages="Japanese">マアーン県</name>
+		<name normalized="馬安" languages="Chinese">馬安</name>
+		<name normalized="馬安省" languages="Chinese">馬安省</name>
+		<name normalized="마안" languages="Korean">마안</name>
+		<name normalized="마안 주" languages="Korean">마안 주</name>
+	</region>
+	<region name="Madaba" type="governorate" typeTranslated="muhafazah">
+		<name normalized="Gobernacion de Madaba" languages="Spanish">Gobernación de Madaba</name>
+		<name normalized="Gouvernorat de Madaba" languages="French">Gouvernorat de Madaba</name>
+		<name normalized="Governacio de Madaba" languages="Catalan">Governació de Madaba</name>
+		<name normalized="Governatorato di Madaba" languages="Italian">Governatorato di Madaba</name>
+		<name normalized="Madaba" languages="Basque;Catalan;Czech;Dutch;English;Finnish;French;German;Italian;Lithuanian;official;Polish;Portuguese;Spanish;Swedish">Madaba</name>
+		<name normalized="Madaba Gobernazioa" languages="Basque">Madaba Gobernazioa</name>
+		<name normalized="Madaba Governorate" languages="English;official">Madaba Governorate</name>
+		<name normalized="Madaba Govrenorate" languages="Scots">Madaba Govrenorate</name>
+		<name normalized="Madaba Muhafazah" languages="English;official">Madaba Muhafazah</name>
+		<name normalized="Madabo" languages="Esperanto">Madabo</name>
+		<name normalized="Madabos muchafaza" languages="Lithuanian">Madabos muchafaza</name>
+		<name normalized="Medeba" languages="Turkish">Medeba</name>
+		<name normalized="Madaba kormanyzosag" languages="Hungarian">Mádaba kormányzóság</name>
+		<name normalized="Goрad Мadaba" languages="Belarusian">Горад Мадаба</name>
+		<name normalized="Мadaba" languages="Russian;biлaрuсkai (taрaskivita)‎">Мадаба</name>
+		<name normalized="מhvז מידbא" languages="Hebrew">מחוז מידבא</name>
+		<name normalized="מידbא" languages="Hebrew">מידבא</name>
+		<name normalized="אسtאن mאدbא" languages="Persian">استان مادبا</name>
+		<name normalized="dلع mאدאbא" languages="Western Punjabi">ضلع مادابا</name>
+		<name normalized="mאدאbא" languages="Western Punjabi">مادابا</name>
+		<name normalized="mאدbא" languages="Arabic;Mazanderani;Persian">مادبا</name>
+		<name normalized="mdb" languages="Japanese">マダバ</name>
+		<name normalized="mdb県" languages="Japanese">マダバ県</name>
+		<name normalized="米底巴" languages="Chinese">米底巴</name>
+		<name normalized="馬代巴省" languages="Chinese">馬代巴省</name>
+		<name normalized="마다바" languages="Korean">마다바</name>
+		<name normalized="마다바 주" languages="Korean">마다바 주</name>
+	</region>
+</regions>

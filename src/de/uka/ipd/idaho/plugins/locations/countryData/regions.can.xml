@@ -1,0 +1,690 @@
+<regions country="Canada">
+	<region name="Alberta" type="province" typeTranslated="province">
+		<name normalized="Alberta" languages="Afrikaans;Albanian;Asturian;Azerbaijani;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Corsican;Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Hungarian;Icelandic;Ido;Indonesian;Interlingua;Irish;Italian;Javanese;Kalaallisut;Latin;Latvian;Ligure;Lithuanian;Malay;Manx;Nahuatl;Northern Frisian;Norwegian (bokmal);Norwegian Nynorsk;official;Old English;Pampanga;Piedmontese;Polish;Portuguese;Romanian;Samogitian;Scots;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Slovenian;Spanish;Swahili;Swedish;Tagalog;Turkish;Uzbek;Vietnamese;Volapuk;veneto;Voro;Waray;Welsh;Western Frisian">Alberta</name>
+		<name normalized="Alberta Province" languages="English;official">Alberta Province</name>
+		<name normalized="Alberta pruwinsya" languages="Quechua">Alberta pruwinsya</name>
+		<name normalized="Alberto" languages="Esperanto">Alberto</name>
+		<name normalized="Alberta" languages="Occitan">Albèrta</name>
+		<name normalized="Alberta" languages="Uyghur">Albérta</name>
+		<name normalized="Αλμπeρτα" languages="Greek">Αλμπέρτα</name>
+		<name normalized="Aлbiрta" languages="Macedonian;Serbian">Алберта</name>
+		<name normalized="Aлbърta" languages="Bulgarian">Албърта</name>
+		<name normalized="Aлbeрta" languages="biлaрuсkai (taрaskivita)‎">Албэрта</name>
+		<name normalized="Aльbiрtae" languages="Ossetic">Альбертæ</name>
+		<name normalized="Aльbiрta" languages="Kazakh;Mongolian;Russian;Sakha;Ukrainian">Альберта</name>
+		<name normalized="Pрaviнtыi Aльbiрta" languages="Belarusian">Правінцыя Альберта</name>
+		<name normalized="Աlbեrtա" languages="Armenian">Ալբերտա</name>
+		<name normalized="אדbעrtא" languages="Yiddish">אלבערטא</name>
+		<name normalized="אדbrth" languages="Hebrew">אלברטה</name>
+		<name normalized="آلbrtא" languages="Persian">آلبرتا</name>
+		<name normalized="ألbrtא" languages="Arabic">ألبرتا</name>
+		<name normalized="אلbrٹא" languages="Urdu">البرٹا</name>
+		<name normalized="אیلbrٹא" languages="Western Punjabi">ایلبرٹا</name>
+		<name normalized="ܐܠܒܪܛܐ" languages="Aramaic">ܐܠܒܪܛܐ</name>
+		<name normalized="al्br्टा" languages="Hindi">अल्बर्टा</name>
+		<name normalized="al्br्टा" languages="Marathi">आल्बर्टा</name>
+		<name normalized="albrਟਾ" languages="Punjabi">ਐਲਬਰਟਾ</name>
+		<name normalized="ஆல்பர்ட்டா" languages="Tamil">ஆல்பர்ட்டா</name>
+		<name normalized="ಆಲ್ಬರ್ಟಾ" languages="Kannada">ಆಲ್ಬರ್ಟಾ</name>
+		<name normalized="รัฐแอลเบอร์ตา" languages="Thai">รัฐแอลเบอร์ตา</name>
+		<name normalized="ალბერთა" languages="Mingrelian">ალბერთა</name>
+		<name normalized="ალბერტა" languages="Georgian">ალბერტა</name>
+		<name normalized="arbーt州" languages="Japanese">アルバータ州</name>
+		<name normalized="亞伯達" languages="Cantonese">亞伯達</name>
+		<name normalized="艾伯塔" languages="Chinese">艾伯塔</name>
+		<name normalized="앨버타 주" languages="Korean">앨버타 주</name>
+	</region>
+	<region name="British Columbia" type="province" typeTranslated="province">
+		<name normalized="An Choloim Bhriotanach" languages="Irish">An Cholóim Bhriotanach</name>
+		<name normalized="Breetish Columbie" languages="Scots">Breetish Columbie</name>
+		<name normalized="Breska Kolumbia" languages="Icelandic">Breska Kólumbía</name>
+		<name normalized="Brit Columbia" languages="Hungarian">Brit Columbia</name>
+		<name normalized="Brita Kolumbio" languages="Esperanto">Brita Kolumbio</name>
+		<name normalized="Britani Kolumbiye" languages="Uyghur">Britani Kolumbiye</name>
+		<name normalized="Britaniya Kolumbiyası" languages="Azerbaijani">Britaniya Kolumbiyası</name>
+		<name normalized="Britanska Kolumbija" languages="Bosnian;Croatian;Serbo-Croatian;Slovenian">Britanska Kolumbija</name>
+		<name normalized="Britanya Kolumbiyası" languages="Turkish">Britanya Kolumbiyası</name>
+		<name normalized="Briti Columbia" languages="Estonian;Voro">Briti Columbia</name>
+		<name normalized="British Columbia" languages="Breton;Chinese (Min Nan);Corsican;English;German;Ido;Indonesian;Javanese;Malay;Nahuatl;Northern Frisian;official;Pampanga;Simple English;Swedish;Tagalog;Vietnamese;Volapuk;veneto;Waray;Welsh">British Columbia</name>
+		<name normalized="British Columbia Province" languages="English;official">British Columbia Province</name>
+		<name normalized="British Columbia pruwinsya" languages="Quechua">British Columbia pruwinsya</name>
+		<name normalized="British Kolumbia" languages="Swahili">British Kolumbia</name>
+		<name normalized="Britisk Columbia" languages="Danish;Kalaallisut;Norwegian (bokmal);Norwegian Nynorsk">Britisk Columbia</name>
+		<name normalized="Brits-Columbia" languages="Dutch">Brits-Columbia</name>
+		<name normalized="Brits-Columbie" languages="Afrikaans">Brits-Columbië</name>
+		<name normalized="Britsk-Kolumbia" languages="Western Frisian">Britsk-Kolumbia</name>
+		<name normalized="Britska Kolumbia" languages="Slovak">Britská Kolumbia</name>
+		<name normalized="Britska Kolumbie" languages="Czech">Britská Kolumbie</name>
+		<name normalized="Brittilainen Kolumbia" languages="Finnish">Brittiläinen Kolumbia</name>
+		<name normalized="Britu Kolumbija" languages="Latvian">Britu Kolumbija</name>
+		<name normalized="Britu Kolumbija" languages="Lithuanian">Britų Kolumbija</name>
+		<name normalized="Brytyjsko Kolumbijo" languages="Silesian">Brytyjsko Kolůmbijo</name>
+		<name normalized="Bretu Kolumbeje" languages="Samogitian">Brėtu Kolumbėjė</name>
+		<name normalized="Colombie-Britannique" languages="French">Colombie-Britannique</name>
+		<name normalized="Columbia Bhreatannach" languages="Scottish Gaelic">Columbia Bhreatannach</name>
+		<name normalized="Columbia Britainiarra" languages="Basque">Columbia Britainiarra</name>
+		<name normalized="Columbia Britanega" languages="lumbaart">Columbia Britanega</name>
+		<name normalized="Columbia Britanica" languages="Romanian">Columbia Britanică</name>
+		<name normalized="Columbia Britannic" languages="Interlingua">Columbia Britannic</name>
+		<name normalized="Columbia Britannica" languages="Italian;Latin">Columbia Britannica</name>
+		<name normalized="Columbia Britanica" languages="Piedmontese">Columbia Britànica</name>
+		<name normalized="Columbia Britanica" languages="Asturian;Galician;Spanish">Columbia Británica</name>
+		<name normalized="Colombia Britanica" languages="Occitan">Colómbia Britanica</name>
+		<name normalized="Columbia Britanica" languages="Catalan">Colúmbia Britànica</name>
+		<name normalized="Columbia Britanica" languages="Portuguese">Colúmbia Britânica</name>
+		<name normalized="Combia Britannega" languages="Ligure">Combia Britannega</name>
+		<name normalized="Kolombi Bredennek" languages="Cornish">Kolombi Bredennek</name>
+		<name normalized="Kolumbia Britanike" languages="Albanian">Kolumbia Britanike</name>
+		<name normalized="Kolumbia Brytyjska" languages="Polish">Kolumbia Brytyjska</name>
+		<name normalized="Yn Cholombey Ghoaldagh" languages="Manx">Yn Cholombey Ghoaldagh</name>
+		<name normalized="Βρετανικη Κολομβια" languages="Greek">Βρετανική Κολομβία</name>
+		<name normalized="Bрitaнiйы Koлuмbi" languages="Ossetic">Британийы Колумби</name>
+		<name normalized="Bрitaнсka Koлuмbii" languages="Bulgarian">Британска Колумбия</name>
+		<name normalized="Bрitaнсka Koлuмbija" languages="Macedonian;Serbian">Британска Колумбија</name>
+		<name normalized="Bрitaнсkai Koлuмbii" languages="Russian">Британская Колумбия</name>
+		<name normalized="Bрitaнсьka Koлuмbii" languages="Ukrainian">Британська Колумбія</name>
+		<name normalized="Bрitis Koлaмbia" languages="Mongolian">Бритиш Коламбиа</name>
+		<name normalized="Bрыtaнсkai Kaлuмbii" languages="biлaрuсkai (taрaskivita)‎">Брытанская Калумбія</name>
+		<name normalized="Pрaviнtыi Bрыtaнсkai Kaлuмbii" languages="Belarusian">Правінцыя Брытанская Калумбія</name>
+		<name normalized="Brիtանաkան Kvlvymbիա" languages="Armenian">Բրիտանական Կոլումբիա</name>
+		<name normalized="brיtישע qאדvמbיע" languages="Yiddish">בריטישע קאלומביע</name>
+		<name normalized="qvדvמbיh hbrיtיt" languages="Hebrew">קולומביה הבריטית</name>
+		<name normalized="brtאنوی کولmbیא" languages="Western Punjabi">برطانوی کولمبیا</name>
+		<name normalized="brٹش کولmbیא" languages="Urdu">برٹش کولمبیا</name>
+		<name normalized="brیtیش کلmbیא" languages="Persian">بریتیش کلمبیا</name>
+		<name normalized="kولوmbyא אلbrytאنyة" languages="Arabic">كولومبيا البريطانية</name>
+		<name normalized="ܩܘܠܘܡܒܝܐ ܒܪܝܛܝܬܐ" languages="Aramaic">ܩܘܠܘܡܒܝܐ ܒܪܝܛܝܬܐ</name>
+		<name normalized="b्riटis kolंbiyा" languages="Marathi">ब्रिटिश कोलंबिया</name>
+		<name normalized="b्riटis kolm्biyा" languages="Hindi">ब्रिटिश कोलम्बिया</name>
+		<name normalized="b੍riਟis਼ kੋlੰbia" languages="Punjabi">ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ</name>
+		<name normalized="பிரிட்டிசு கொலம்பியா" languages="Tamil">பிரிட்டிசு கொலம்பியா</name>
+		<name normalized="ಬ್ರಿಟಿಷ್‌‌ ಕೊಲಂಬಿಯಾ" languages="Kannada">ಬ್ರಿಟಿಷ್‌‌ ಕೊಲಂಬಿಯಾ</name>
+		<name normalized="รัฐบริติชโคลัมเบีย" languages="Thai">รัฐบริติชโคลัมเบีย</name>
+		<name normalized="ბრიტანეთის კოლუმბია" languages="Georgian">ბრიტანეთის კოლუმბია</name>
+		<name normalized="ბრიტანეთიშ კოლუმბია" languages="Mingrelian">ბრიტანეთიშ კოლუმბია</name>
+		<name normalized="brtitsykrnba州" languages="Japanese">ブリティッシュコロンビア州</name>
+		<name normalized="不列颠哥伦比亚" languages="Chinese">不列颠哥伦比亚</name>
+		<name normalized="卑詩省" languages="Cantonese">卑詩省</name>
+		<name normalized="브리티시컬럼비아 주" languages="Korean">브리티시컬럼비아 주</name>
+	</region>
+	<region name="Manitoba" type="province" typeTranslated="province">
+		<name normalized="Manitoba" languages="Afrikaans;Albanian;Azerbaijani;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Dutch;English;Finnish;French;Galician;German;Hungarian;Icelandic;Ido;Indonesian;Irish;Italian;Kalaallisut;Latin;Latvian;Ligure;Lithuanian;Malay;Manx;Nahuatl;Northern Frisian;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Polish;Portuguese;Romanian;Samogitian;Scots;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Slovenian;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Volapuk;veneto;Voro;Walloon;Waray;Welsh;Western Frisian">Manitoba</name>
+		<name normalized="Manitoba Province" languages="English;official">Manitoba Province</name>
+		<name normalized="Manitoba provints" languages="Estonian">Manitoba provints</name>
+		<name normalized="Manitoba pruwinsya" languages="Quechua">Manitoba pruwinsya</name>
+		<name normalized="Manitoba Olkisi" languages="Uyghur">Manitoba Ölkisi</name>
+		<name normalized="Manitobaa" languages="Deitsch">Manitobaa</name>
+		<name normalized="Manitobo" languages="Esperanto">Manitobo</name>
+		<name normalized="Manitoba" languages="Occitan;Piedmontese">Manitòba</name>
+		<name normalized="Μανιτομπα" languages="Greek">Μανιτόμπα</name>
+		<name normalized="Мaнitobae" languages="Ossetic">Манитобæ</name>
+		<name normalized="Мaнitoba" languages="Bulgarian;Macedonian;Mongolian;Russian;Sakha;Serbian">Манитоба</name>
+		<name normalized="Мaнitoba" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Манітоба</name>
+		<name normalized="Pрaviнtыi Мaнitoba" languages="Belarusian">Правінцыя Манітоба</name>
+		<name normalized="Mանիtvbա" languages="Armenian">Մանիթոբա</name>
+		<name normalized="מאnיtאbא" languages="Yiddish">מאניטאבא</name>
+		<name normalized="מnיtvbh" languages="Hebrew">מניטובה</name>
+		<name normalized="mאنytوbא" languages="Arabic">مانيتوبا</name>
+		<name normalized="mאنیtوbא" languages="Persian">مانیتوبا</name>
+		<name normalized="mאنیٹوbא" languages="Urdu;Western Punjabi">مانیٹوبا</name>
+		<name normalized="ܡܐܢܝܛܘܒܐ" languages="Aramaic">ܡܐܢܝܛܘܒܐ</name>
+		<name normalized="mाniटobा" languages="Hindi">मानिटोबा</name>
+		<name normalized="meniटobा" languages="Marathi">मॅनिटोबा</name>
+		<name normalized="mਾniਟੋbਾ" languages="Punjabi">ਮਾਨੀਟੋਬਾ</name>
+		<name normalized="மானிட்டோபா" languages="Tamil">மானிட்டோபா</name>
+		<name normalized="รัฐแมนิโทบา" languages="Thai">รัฐแมนิโทบา</name>
+		<name normalized="မနီတိုးဗားပြည်နယ်" languages="Burmese">မနီတိုးဗားပြည်နယ်</name>
+		<name normalized="მანიტობა" languages="Georgian;Mingrelian">მანიტობა</name>
+		<name normalized="ᒪᓂᑐᐸ" languages="Cree">ᒪᓂᑐᐸ</name>
+		<name normalized="mntb州" languages="Japanese">マニトバ州</name>
+		<name normalized="曼尼托巴" languages="Chinese">曼尼托巴</name>
+		<name normalized="緬尼吐巴" languages="Cantonese">緬尼吐巴</name>
+		<name normalized="緬尼托巴" languages="Classical Chinese">緬尼托巴</name>
+		<name normalized="매니토바 주" languages="Korean">매니토바 주</name>
+	</region>
+	<region name="New Brunswick" type="province" typeTranslated="province">
+		<name normalized="Brunswick Berria" languages="Basque">Brunswick Berria</name>
+		<name normalized="Brunswick Newydd" languages="Welsh">Brunswick Newydd</name>
+		<name normalized="Brunswick Nowydh" languages="Cornish">Brunswick Nowydh</name>
+		<name normalized="Brunswick Nuadh" languages="Scottish Gaelic">Brunswick Nuadh</name>
+		<name normalized="Naujasis Bransvikas" languages="Lithuanian">Naujasis Bransvikas</name>
+		<name normalized="Naus Brunsviks" languages="Samogitian">Naus Brunsviks</name>
+		<name normalized="Neuvo Brunswick" languages="Ligure">Neuvo Brunswick</name>
+		<name normalized="New Brunswick" languages="Albanian;Breton;Chinese (Min Nan);Danish;Dutch;English;Estonian;Finnish;German;Ido;Indonesian;Irish;Malay;Manx;Northern Frisian;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Piedmontese;Scots;Simple English;Slovak;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Volapuk;Voro;Waray">New Brunswick</name>
+		<name normalized="New Brunswick Province" languages="English;official">New Brunswick Province</name>
+		<name normalized="New Brunswick pruwinsya" languages="Quechua">New Brunswick pruwinsya</name>
+		<name normalized="Nieu-Brunswyk" languages="Afrikaans">Nieu-Brunswyk</name>
+		<name normalized="Nij-Breunswyk" languages="Western Frisian">Nij-Breunswyk</name>
+		<name normalized="Noul Brunswick" languages="Romanian">Noul Brunswick</name>
+		<name normalized="Nouveau-Brunswick" languages="French;Kalaallisut">Nouveau-Brunswick</name>
+		<name normalized="Nov-Brunsviko" languages="Esperanto">Nov-Brunsviko</name>
+		<name normalized="Nova Brunsvic" languages="Catalan">Nova Brunsvic</name>
+		<name normalized="Nova Brunswick" languages="Galician;Portuguese">Nova Brunswick</name>
+		<name normalized="Novi Brunswick" languages="Bosnian;Croatian;Serbo-Croatian;Slovenian">Novi Brunswick</name>
+		<name normalized="Novum Brunsvicum" languages="Latin">Novum Brunsvicum</name>
+		<name normalized="Novy Brunsvik" languages="Czech">Nový Brunšvik</name>
+		<name normalized="Nowy Brunszwik" languages="Polish">Nowy Brunszwik</name>
+		<name normalized="Nueva Brunswick" languages="Asturian">Nueva Brunswick</name>
+		<name normalized="Nuevo Brunswick" languages="Spanish">Nuevo Brunswick</name>
+		<name normalized="Nuovo Brunswick" languages="Italian">Nuovo Brunswick</name>
+		<name normalized="Nyu-Brunsvik" languages="Azerbaijani">Nyu-Brunsvik</name>
+		<name normalized="Nou Brunswick" languages="Occitan">Nòu Brunswick</name>
+		<name normalized="Yengi Brunswik Olkisi" languages="Uyghur">Yéngi Brunswik Ölkisi</name>
+		<name normalized="Uj-Brunswick" languages="Hungarian">Új-Brunswick</name>
+		<name normalized="Nubransvika" languages="Latvian">Ņūbransvika</name>
+		<name normalized="Νιου Μπρανσγουικ" languages="Greek">Νιου Μπράνσγουικ</name>
+		<name normalized="Нью-Bрaнсvik" languages="Mongolian">Нью-Брансвик</name>
+		<name normalized="Нью-Bрaнсvik" languages="Ukrainian">Нью-Брансвік</name>
+		<name normalized="Нью-Bрaнсuik" languages="Ossetic;Russian">Нью-Брансуик</name>
+		<name normalized="Нью-Bрaнсўik" languages="biлaрuсkai (taрaskivita)‎">Нью-Брансўік</name>
+		<name normalized="Ню Bрънzuik" languages="Bulgarian">Ню Брънзуик</name>
+		<name normalized="Pрaviнtыi Нью-Bрaнсuik" languages="Belarusian">Правінцыя Нью-Брансуік</name>
+		<name normalized="Nu Bрaнzvik" languages="Macedonian">Њу Бранзвик</name>
+		<name normalized="Nu Bрaнсvik" languages="Serbian">Њу Брансвик</name>
+		<name normalized="Նյvy Brանsvyիk" languages="Armenian">Նյու Բրանսուիկ</name>
+		<name normalized="nיv brnזvvיq" languages="Hebrew">ניו ברנזוויק</name>
+		<name normalized="نyو brونزوyk" languages="Arabic">نيو برونزويك</name>
+		<name normalized="نیو brنزویک" languages="Urdu">نیو برنزویک</name>
+		<name normalized="نیو brونسوک" languages="Western Punjabi">نیو برونسوک</name>
+		<name normalized="نیوbrאنزویک" languages="Persian">نیوبرانزویک</name>
+		<name normalized="ܢܝܘ ܒܪܘܢܙܘܝܩ" languages="Aramaic">ܢܝܘ ܒܪܘܢܙܘܝܩ</name>
+		<name normalized="n्yu b्run्svik" languages="Marathi">न्यू ब्रुन्सविक</name>
+		<name normalized="niu brੰsvik" languages="Punjabi">ਨਿਊ ਬਰੰਸਵਿਕ</name>
+		<name normalized="நியூ பிரன்சுவிக்" languages="Tamil">நியூ பிரன்சுவிக்</name>
+		<name normalized="รัฐนิวบรันสวิก" languages="Thai">รัฐนิวบรันสวิก</name>
+		<name normalized="ნიუ-ბრანსუიკი" languages="Georgian;Mingrelian">ნიუ-ბრანსუიკი</name>
+		<name normalized="nyーbrnzuitk州" languages="Japanese">ニューブランズウィック州</name>
+		<name normalized="新不倫瑞克" languages="Chinese">新不倫瑞克</name>
+		<name normalized="紐賓士域省" languages="Cantonese">紐賓士域省</name>
+		<name normalized="뉴브런즈윅 주" languages="Korean">뉴브런즈윅 주</name>
+	</region>
+	<region name="Newfoundland and Labrador" type="province" typeTranslated="province">
+		<name normalized="An Talamh Ur is Labrador" languages="Scottish Gaelic">An Talamh Ùr is Labrador</name>
+		<name normalized="Douar-Nevez ha Labrador" languages="Breton">Douar-Nevez ha Labrador</name>
+		<name normalized="Neufundland an Labrador" languages="Northern Frisian">Neufundland an Labrador</name>
+		<name normalized="Neufundland und Labrador" languages="German">Neufundland und Labrador</name>
+		<name normalized="Newfoundland a Labrador" languages="Czech;Slovak;Welsh">Newfoundland a Labrador</name>
+		<name normalized="Newfoundland aamma Labrador" languages="Kalaallisut">Newfoundland aamma Labrador</name>
+		<name normalized="Newfoundland an Labrador" languages="Scots">Newfoundland an Labrador</name>
+		<name normalized="Newfoundland and Labrador" languages="English;official;Simple English;Swahili">Newfoundland and Labrador</name>
+		<name normalized="Newfoundland and Labrador Province" languages="English;official">Newfoundland and Labrador Province</name>
+		<name normalized="Newfoundland at Labrador" languages="Tagalog">Newfoundland at Labrador</name>
+		<name normalized="Newfoundland dan Labrador" languages="Indonesian;Malay">Newfoundland dan Labrador</name>
+		<name normalized="Newfoundland e Labrador" languages="Ido;Volapuk">Newfoundland e Labrador</name>
+		<name normalized="Newfoundland en Labrador" languages="Afrikaans;Dutch">Newfoundland en Labrador</name>
+		<name normalized="Newfoundland i Labrador" languages="Bosnian;Croatian;Serbo-Croatian">Newfoundland i Labrador</name>
+		<name normalized="Newfoundland ja Labrador" languages="Estonian;Finnish;Voro">Newfoundland ja Labrador</name>
+		<name normalized="Newfoundland kap Labrador" languages="Chinese (Min Nan)">Newfoundland kap Labrador</name>
+		<name normalized="Newfoundland ngan Labrador" languages="Waray">Newfoundland ngan Labrador</name>
+		<name normalized="Newfoundland och Labrador" languages="Swedish">Newfoundland och Labrador</name>
+		<name normalized="Newfoundland og Labrador" languages="Danish;Norwegian (bokmal);Norwegian Nynorsk">Newfoundland og Labrador</name>
+		<name normalized="Newfoundland ve Labrador" languages="Turkish">Newfoundland ve Labrador</name>
+		<name normalized="Newfoundland va Labrador" languages="Vietnamese">Newfoundland và Labrador</name>
+		<name normalized="Newfoundland wan Labrador pruwinsya" languages="Quechua">Newfoundland wan Labrador pruwinsya</name>
+		<name normalized="Newfoundland ati Labrador" languages="Yoruba">Newfoundland àti Labrador</name>
+		<name normalized="Newfoundland si Labrador" languages="Romanian">Newfoundland și Labrador</name>
+		<name normalized="Nijfunlan en Labrador" languages="Western Frisian">Nijfûnlân en Labrador</name>
+		<name normalized="Niufanlends e Labradors" languages="Samogitian">Niufanlends ė Labradors</name>
+		<name normalized="Niufaundlandas ir Labradoras" languages="Lithuanian">Niufaundlandas ir Labradoras</name>
+		<name normalized="Nova Fundlandija in Labrador" languages="Slovenian">Nova Fundlandija in Labrador</name>
+		<name normalized="Novlando kaj Labradoro" languages="Esperanto">Novlando kaj Labradoro</name>
+		<name normalized="Nowa Fundlandia i Labrador" languages="Polish">Nowa Fundlandia i Labrador</name>
+		<name normalized="Nyufaundlend və Labrador" languages="Azerbaijani">Nyufaundlend və Labrador</name>
+		<name normalized="Newfundland Olkisi" languages="Uyghur">Néwfundland Ölkisi</name>
+		<name normalized="Nyfundland og Labrador" languages="Faroese">Nýfundland og Labrador</name>
+		<name normalized="Nyfundnaland og Labrador" languages="Icelandic">Nýfundnaland og Labrador</name>
+		<name normalized="Talamh an Eisc agus Labradar" languages="Irish">Talamh an Éisc agus Labradar</name>
+		<name normalized="Teraneuva e Labrador" languages="Piedmontese">Teraneuva e Labrador</name>
+		<name normalized="Teranova e Labrador" languages="veneto">Teranóva e Łabrador</name>
+		<name normalized="Ternua eta Labrador" languages="Basque">Ternua eta Labrador</name>
+		<name normalized="Terra Nova e Labrador" languages="Galician;Portuguese">Terra Nova e Labrador</name>
+		<name normalized="Terra Nova et Labrador" languages="Latin">Terra Nova et Labrador</name>
+		<name normalized="Terranova at Labrador" languages="Pampanga">Terranova at Labrador</name>
+		<name normalized="Terranova e Labrador" languages="Italian">Terranova e Labrador</name>
+		<name normalized="Terranova i Labrador" languages="Catalan">Terranova i Labrador</name>
+		<name normalized="Terranova y Labrador" languages="Spanish">Terranova y Labrador</name>
+		<name normalized="Terranova y Llabrador" languages="Asturian">Terranova y Llabrador</name>
+		<name normalized="Terre-Neuve-et-Labrador" languages="French">Terre-Neuve-et-Labrador</name>
+		<name normalized="Thalloo yn Eeast as Labrador" languages="Manx">Thalloo yn Eeast as Labrador</name>
+		<name normalized="Tir Nowydh ha Labrador" languages="Cornish">Tir Nowydh ha Labrador</name>
+		<name normalized="Toka e Re dhe Labradori" languages="Albanian">Toka e Re dhe Labradori</name>
+		<name normalized="Taeraneuva e Labrador" languages="Ligure">Tæraneuva e Labrador</name>
+		<name normalized="Terranova e Labrador" languages="Occitan">Tèrranòva e Labrador</name>
+		<name normalized="Uj-Fundland es Labrador" languages="Hungarian">Új-Fundland és Labrador</name>
+		<name normalized="Nufaundlenda un Labradora" languages="Latvian">Ņūfaundlenda un Labradora</name>
+		<name normalized="Νeα Γη και Λαμπραντορ" languages="Greek">Νέα Γη και Λαμπραντόρ</name>
+		<name normalized="Ньюфauнdлiнd aeмae Лabрadoр" languages="Ossetic">Ньюфаундленд æмæ Лабрадор</name>
+		<name normalized="Ньюфauнdлiнd ba Лabрadoр" languages="Mongolian">Ньюфаундленд ба Лабрадор</name>
+		<name normalized="Ньюфauнdлiнd i Лabрadoр" languages="Russian">Ньюфаундленд и Лабрадор</name>
+		<name normalized="Ньюфauнdлiнd i Лabрadoр" languages="Ukrainian">Ньюфаундленд і Лабрадор</name>
+		<name normalized="Ньюфaўнdлeнd i Лibрadoр" languages="biлaрuсkai (taрaskivita)‎">Ньюфаўндлэнд і Лябрадор</name>
+		<name normalized="Нюфauнdлiнd i Лabрadoр" languages="Bulgarian">Нюфаундленд и Лабрадор</name>
+		<name normalized="Pрaviнtыi Ньюфaўнdлiнd i Лabрadoр" languages="Belarusian">Правінцыя Ньюфаўндленд і Лабрадор</name>
+		<name normalized="Nuфauнdлiнd i Лabрadoр" languages="Macedonian;Serbian">Њуфаундленд и Лабрадор</name>
+		<name normalized="Նյvyfաvyնdlենd և Lաbrաdvr" languages="Armenian">Նյուֆաունդլենդ և Լաբրադոր</name>
+		<name normalized="nיvpאvnדדnד vדbrדvr" languages="Hebrew">ניופאונדלנד ולברדור</name>
+		<name normalized="nייpvnדדאnד אvן דאbrאדאr" languages="Yiddish">נייפונדלאנד און לאבראדאר</name>
+		<name normalized="نyوfאوندلאند وאللאbrאدوr" languages="Arabic">نيوفاوندلاند واللابرادور</name>
+		<name normalized="نیو fאؤنڈ لینڈ אوr لیbrאڈوr" languages="Urdu">نیو فاؤنڈ لینڈ اور لیبراڈور</name>
+		<name normalized="نیو fאؤنڈلینڈ tے لیbrאڈr" languages="Western Punjabi">نیو فاؤنڈلینڈ تے لیبراڈر</name>
+		<name normalized="نیوfאندلند و لאbrאدوr" languages="Persian">نیوفاندلند و لابرادور</name>
+		<name normalized="ܢܝܘܦܐܘܢܕܠܢܕ ܘܠܐܒܪܐܕܘܪ" languages="Aramaic">ܢܝܘܦܐܘܢܕܠܢܕ ܘܠܐܒܪܐܕܘܪ</name>
+		<name normalized="n्yu pाuंडlंड aणi lाb्rाडor" languages="Marathi">न्यू फाउंडलंड आणि लाब्राडोर</name>
+		<name normalized="niup਼ੰਡlaਂਡ atੇ lਾbrਾਡੋr" languages="Punjabi">ਨਿਊਫ਼ੰਡਲੈਂਡ ਅਤੇ ਲਾਬਰਾਡੋਰ</name>
+		<name normalized="நியூஃபவுன்லாந்து மற்றும் லாப்ரடோர்" languages="Tamil">நியூஃபவுன்லாந்து மற்றும் லாப்ரடோர்</name>
+		<name normalized="รัฐนิวฟันด์แลนด์และแลบราดอร์" languages="Thai">รัฐนิวฟันด์แลนด์และแลบราดอร์</name>
+		<name normalized="ნიუფაუნდლენდი და ლაბრადორი" languages="Georgian">ნიუფაუნდლენდი და ლაბრადორი</name>
+		<name normalized="ნიუფაუნდლენდი დო ლაბრადორი" languages="Mingrelian">ნიუფაუნდლენდი დო ლაბრადორი</name>
+		<name normalized="nyーhandrnd・rbrdーr州" languages="Japanese">ニューファンドランド・ラブラドール州</name>
+		<name normalized="紐芬蘭與拉布拉多" languages="Cantonese;Chinese">紐芬蘭與拉布拉多</name>
+		<name normalized="뉴펀들랜드 래브라도 주" languages="Korean">뉴펀들랜드 래브라도 주</name>
+	</region>
+	<region name="Northwest Territories" type="territory" typeTranslated="territory">
+		<name normalized="Criocha an Iarthuaiscirt" languages="Irish">Críocha an Iarthuaiscirt</name>
+		<name normalized="Cac Lanh tho Tay Bac" languages="Vietnamese">Các Lãnh thổ Tây Bắc</name>
+		<name normalized="Gherbiy Shimal Rayoni" languages="Uyghur">Gherbiy Shimal Rayoni</name>
+		<name normalized="Hilagang Kanlurang mga Nasasakupan" languages="Tagalog">Hilagang Kanlurang mga Nasasakupan</name>
+		<name normalized="Ipar-mendebaldeko Lurraldeak" languages="Basque">Ipar-mendebaldeko Lurraldeak</name>
+		<name normalized="Kuzeybatı Toprakları" languages="Turkish">Kuzeybatı Toprakları</name>
+		<name normalized="Loodealad" languages="Estonian">Loodealad</name>
+		<name normalized="Luoteisterritoriot" languages="Finnish">Luoteisterritoriot</name>
+		<name normalized="Mga Teritoryo ha Kanawayan" languages="Waray">Mga Teritoryo ha Kanawayan</name>
+		<name normalized="Noardwestlike Territoaria" languages="Western Frisian">Noardwestlike Territoaria</name>
+		<name normalized="Noordwestelike gebiede" languages="Afrikaans">Noordwestelike gebiede</name>
+		<name normalized="Nordokcidentaj Teritorioj" languages="Esperanto">Nordokcidentaj Teritorioj</name>
+		<name normalized="Nordvestterritoria" languages="Norwegian Nynorsk">Nordvestterritoria</name>
+		<name normalized="Nordvestterritoriene" languages="Norwegian (bokmal)">Nordvestterritoriene</name>
+		<name normalized="Nordwest-Territorien" languages="German">Nordwest-Territorien</name>
+		<name normalized="Northwast Territories" languages="Scots">Northwast Territories</name>
+		<name normalized="Northwest Territories" languages="Danish;Dutch;English;Kalaallisut;official;Pampanga;Simple English;Swahili;Swedish;Volapuk;veneto">Northwest Territories</name>
+		<name normalized="Northwest Territories Territory" languages="English;official">Northwest Territories Territory</name>
+		<name normalized="Nuurdwaast-Teritoorien" languages="Northern Frisian">Nuurdwaast-Teritoorien</name>
+		<name normalized="Poh'aodagu alaq" languages="Voro">Põh'aõdagu alaq</name>
+		<name normalized="Roinnean an Iar Thuath" languages="Scottish Gaelic">Roinnean an Iar Thuath</name>
+		<name normalized="Sai-pak Leng-tho͘" languages="Chinese (Min Nan)">Sai-pak Léng-thó͘</name>
+		<name normalized="Severozahodni teritoriji" languages="Slovenian">Severozahodni teritoriji</name>
+		<name normalized="Severozapadne teritoria" languages="Slovak">Severozápadné teritóriá</name>
+		<name normalized="Severozapadni teritoria" languages="Czech">Severozápadní teritoria</name>
+		<name normalized="Sjeverozapadne teritorije" languages="Bosnian">Sjeverozapadne teritorije</name>
+		<name normalized="Sjeverozapadni teritoriji" languages="Croatian;Serbo-Croatian">Sjeverozapadni teritoriji</name>
+		<name normalized="Teritoriile de Nordvest" languages="Romanian">Teritoriile de Nordvest</name>
+		<name normalized="Teritori del Nord-Ovest" languages="Piedmontese">Teritòri dël Nòrd-Òvest</name>
+		<name normalized="Teritoi do Nord-Ovest" languages="Ligure">Teritöi do Nòrd-Ovest</name>
+		<name normalized="Territoires du Nord-Ouest" languages="French">Territoires du Nord-Ouest</name>
+		<name normalized="Territoret Veri-Perendimore" languages="Albanian">Territoret Veri-Perëndimore</name>
+		<name normalized="Territori del Nord-Ovest" languages="Italian">Territori del Nord-Ovest</name>
+		<name normalized="Territoria Septentrio-Occidentalia" languages="Latin">Territoria Septentrio-Occidentalia</name>
+		<name normalized="Territorios del Noroeste" languages="Spanish">Territorios del Noroeste</name>
+		<name normalized="Territorios do Noroeste" languages="Galician">Territorios do Noroeste</name>
+		<name normalized="Territoris del Nord-oest" languages="Catalan">Territoris del Nord-oest</name>
+		<name normalized="Territoris del Nord Oest" languages="Occitan">Territòris del Nòrd Oèst</name>
+		<name normalized="Territorios do Noroeste" languages="Portuguese">Territórios do Noroeste</name>
+		<name normalized="Terytoria Polnocno-Zachodnie" languages="Polish">Terytoria Północno-Zachodnie</name>
+		<name normalized="Thallooyn yn Eear Hwoaie" languages="Manx">Thallooyn yn Eear Hwoaie</name>
+		<name normalized="Tiredhow an North-West" languages="Cornish">Tiredhow an North-West</name>
+		<name normalized="Tiriadou ar Gwalarn" languages="Breton">Tiriadoù ar Gwalarn</name>
+		<name normalized="Tiriogaethau'r Gogledd-orllewin" languages="Welsh">Tiriogaethau'r Gogledd-orllewin</name>
+		<name normalized="Wilayah Barat Laut" languages="Indonesian;Malay">Wilayah Barat Laut</name>
+		<name normalized="Ziemelrietumu Teritorijas" languages="Latvian">Ziemeļrietumu Teritorijas</name>
+		<name normalized="Eszaknyugati teruletek" languages="Hungarian">Északnyugati területek</name>
+		<name normalized="Simal-Qərb Əraziləri" languages="Azerbaijani">Şimal-Qərb Əraziləri</name>
+		<name normalized="Siaures Vakarai" languages="Lithuanian">Šiaurės Vakarai</name>
+		<name normalized="Siaures vakaru terituoreje" languages="Samogitian">Šiaurės vakarū terituorėjė</name>
+		<name normalized="Βορειοδυτικα Εδαφη" languages="Greek">Βορειοδυτικά Εδάφη</name>
+		<name normalized="Baрuuн Koйd Нutag Devсgeр" languages="Mongolian">Баруун Хойд Нутаг Дэвсгэр</name>
+		<name normalized="Paўнocнa-Zakodнii teрыtoрыi" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Паўночна-Заходнія тэрыторыі</name>
+		<name normalized="Pivнicнo-zakidнi tiрitoрiy" languages="Ukrainian">Північно-західні території</name>
+		<name normalized="Сiviрo-Zapadныi tiррitoрii" languages="Russian">Северо-Западные территории</name>
+		<name normalized="Сiviрozapadнi tiрitoрiji" languages="Serbian">Северозападне територије</name>
+		<name normalized="Сiviрozapadнi tiрitoрii" languages="Bulgarian;Macedonian">Северозападни територии</name>
+		<name normalized="Taegat-Ныguылaeн tiррitoрitae" languages="Ossetic">Цæгат-Ныгуылæн территоритæ</name>
+		<name normalized="Hյvysիsաrևmtյան tաrաckնեr" languages="Armenian">Հյուսիսարևմտյան տարածքներ</name>
+		<name normalized="htrיtvrיvt hצpvן-מעrbיvt" languages="Hebrew">הטריטוריות הצפון-מערביות</name>
+		<name normalized="nאrדvvעסt tעrיtאrיעס" languages="Yiddish">נארדוועסט טעריטאריעס</name>
+		<name normalized="אلأqאلym אلشmאلyة אلغrbyة" languages="Arabic">الأقاليم الشمالية الغربية</name>
+		<name normalized="شmאل mغrbی علאqہ jאt, کینیڈא" languages="Urdu">شمال مغربی علاقہ جات، کینیڈا</name>
+		<name normalized="نوאhی شmאل غrb" languages="Persian">نواحی شمال غرب</name>
+		<name normalized="ܐܘܚܕܢܐ ܓܪܒܝܝܐ-ܡܥܪܒܝܐ" languages="Aramaic">ܐܘܚܕܢܐ ܓܪܒܝܝܐ-ܡܥܪܒܝܐ</name>
+		<name normalized="nor्tves्ट टeriटorij" languages="Marathi">नॉर्थवेस्ट टेरिटोरीज</name>
+		<name normalized="uੱtr-pੱcmi rਾjkੇtr" languages="Punjabi">ਉੱਤਰ-ਪੱਛਮੀ ਰਾਜਖੇਤਰ</name>
+		<name normalized="வடமேற்கு நிலப்பகுதிகள்" languages="Tamil">வடமேற்கு நிலப்பகுதிகள்</name>
+		<name normalized="นอร์ทเวสต์เทร์ริทอรีส์" languages="Thai">นอร์ทเวสต์เทร์ริทอรีส์</name>
+		<name normalized="ჩრდილო-დასავლეთი ტერიტორიები" languages="Georgian">ჩრდილო-დასავლეთი ტერიტორიები</name>
+		<name normalized="ᓄᓇᑦᓯᐊᖅ" languages="Inuktitut">ᓄᓇᑦᓯᐊᖅ</name>
+		<name normalized="nーsuest準州" languages="Japanese">ノースウエスト準州</name>
+		<name normalized="西北地区" languages="Chinese">西北地区</name>
+		<name normalized="西北地區" languages="Cantonese">西北地區</name>
+		<name normalized="노스웨스트 준주" languages="Korean">노스웨스트 준주</name>
+	</region>
+	<region name="Nova Scotia" type="province" typeTranslated="province">
+		<name normalized="Alba Nuadh" languages="Scottish Gaelic">Alba Nuadh</name>
+		<name normalized="Albain Nua" languages="Irish">Albain Nua</name>
+		<name normalized="Alban Nowydh" languages="Cornish">Alban Nowydh</name>
+		<name normalized="Eskozia Berria" languages="Basque">Eskozia Berria</name>
+		<name normalized="Iskocyaya Newiye" languages="Zazaki">İskoçyaya Newiye</name>
+		<name normalized="Jaunskotija" languages="Latvian">Jaunskotija</name>
+		<name normalized="Nalbin Noa" languages="Manx">Nalbin Noa</name>
+		<name normalized="Naujoji Skotija" languages="Lithuanian">Naujoji Škotija</name>
+		<name normalized="Naujuoje Skuoteje" languages="Samogitian">Naujuojė Škuotėjė</name>
+		<name normalized="Nei-Schottland" languages="Deitsch">Nei-Schottland</name>
+		<name normalized="Neuva Scossia" languages="Ligure">Neuva Scossia</name>
+		<name normalized="Neuva Scossia" languages="Piedmontese">Neuva Scòssia</name>
+		<name normalized="Nij-Skotlan" languages="Western Frisian">Nij-Skotlân</name>
+		<name normalized="Noua Scoție" languages="Romanian">Noua Scoție</name>
+		<name normalized="Nouvelle-Ecosse" languages="French">Nouvelle-Écosse</name>
+		<name normalized="Nov-Skotio" languages="Esperanto">Nov-Skotio</name>
+		<name normalized="Nova Escocia" languages="Galician">Nova Escocia</name>
+		<name normalized="Nova Escocia" languages="Catalan">Nova Escòcia</name>
+		<name normalized="Nova Escocia" languages="Portuguese">Nova Escócia</name>
+		<name normalized="Nova Scotia" languages="Afrikaans;Bosnian;Chinese (Min Nan);Danish;Dutch;English;Estonian;Finnish;German;Icelandic;Indonesian;Kalaallisut;Latin;Malay;Northern Frisian;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Scots;Simple English;Swahili;Swedish;Tagalog;Vietnamese;Volapuk;Voro;Waray;Welsh">Nova Scotia</name>
+		<name normalized="Nova Scotia Province" languages="English;official">Nova Scotia Province</name>
+		<name normalized="Nova Scotia pruwinsya" languages="Quechua">Nova Scotia pruwinsya</name>
+		<name normalized="Nova Skotia" languages="Ido">Nova Skotia</name>
+		<name normalized="Nova Skotska" languages="Croatian;Serbo-Croatian;Slovenian">Nova Škotska</name>
+		<name normalized="Nove Skotsko" languages="Czech">Nové Skotsko</name>
+		<name normalized="Nove Skotsko" languages="Slovak">Nové Škótsko</name>
+		<name normalized="Nowa Skotiye Olkisi" languages="Uyghur">Nowa Skotiye Ölkisi</name>
+		<name normalized="Nowa Szkocja" languages="Polish">Nowa Szkocja</name>
+		<name normalized="Nueva Escocia" languages="Asturian;Spanish">Nueva Escocia</name>
+		<name normalized="Nuova Scozia" languages="Italian">Nuova Scozia</name>
+		<name normalized="Nova Escocia" languages="Occitan">Nòva Escòcia</name>
+		<name normalized="Niwe Scotland" languages="Old English">Nīwe Scotland</name>
+		<name normalized="Skocia e Re" languages="Albanian">Skocia e Re</name>
+		<name normalized="Skos Nevez" languages="Breton">Skos Nevez</name>
+		<name normalized="Yeni Iskocya" languages="Turkish">Yeni İskoçya</name>
+		<name normalized="Yeni Sotlandiya" languages="Azerbaijani">Yeni Şotlandiya</name>
+		<name normalized="Uj-Skocia" languages="Hungarian">Új-Skócia</name>
+		<name normalized="Νeα Σκωτια" languages="Greek">Νέα Σκωτία</name>
+		<name normalized="Нova Сkotii" languages="Bulgarian">Нова Скотия</name>
+		<name normalized="Нova Сkosa" languages="Mongolian">Нова Скоша</name>
+		<name normalized="Нova Skotсka" languages="Macedonian;Serbian">Нова Шкотска</name>
+		<name normalized="Нova Sotлaнdii" languages="Ukrainian">Нова Шотландія</name>
+		<name normalized="Нovai Satлiнdыi" languages="biлaрuсkai (taрaskivita)‎">Новая Шатляндыя</name>
+		<name normalized="Нovai Sotлaнdii" languages="Russian">Новая Шотландия</name>
+		<name normalized="Нog Sotлaнdi" languages="Ossetic">Ног Шотланди</name>
+		<name normalized="Pрaviнtыi Нovai Satлaнdыi" languages="Belarusian">Правінцыя Новая Шатландыя</name>
+		<name normalized="Նvr Svtlանdիա" languages="Armenian">Նոր Շոտլանդիա</name>
+		<name normalized="nvbh סqvtיh" languages="Hebrew">נובה סקוטיה</name>
+		<name normalized="نوא אسکوشیא" languages="Persian">نوا اسکوشیا</name>
+		<name normalized="نوא سکوٹیא" languages="Western Punjabi">نوا سکوٹیا</name>
+		<name normalized="نوfא سkوشא" languages="Arabic">نوفا سكوشا</name>
+		<name normalized="نووא سکوشیא" languages="Urdu">نووا سکوشیا</name>
+		<name normalized="ܢܘܒܐ ܣܩܘܛܝܐ" languages="Aramaic">ܢܘܒܐ ܣܩܘܛܝܐ</name>
+		<name normalized="nov्hा s्kosiyा" languages="Marathi">नोव्हा स्कॉशिया</name>
+		<name normalized="nੋvਾ skੋs਼ਾ" languages="Punjabi">ਨੋਵਾ ਸਕੋਸ਼ਾ</name>
+		<name normalized="நோவா ஸ்கோசியா" languages="Tamil">நோவா ஸ்கோசியா</name>
+		<name normalized="รัฐโนวาสโกเชีย" languages="Thai">รัฐโนวาสโกเชีย</name>
+		<name normalized="ახალი შოტლანდია" languages="Georgian;Mingrelian">ახალი შოტლანდია</name>
+		<name normalized="nbsksa州" languages="Japanese">ノバスコシア州</name>
+		<name normalized="新斯科舍" languages="Chinese">新斯科舍</name>
+		<name normalized="諾華斯高沙" languages="Cantonese">諾華斯高沙</name>
+		<name normalized="노바스코샤 주" languages="Korean">노바스코샤 주</name>
+	</region>
+	<region name="Nunavut" type="territory" typeTranslated="territory">
+		<name normalized="Nunavut" languages="Afrikaans;Albanian;Asturian;Azerbaijani;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Hungarian;Icelandic;Ido;Iloko;Indonesian;Irish;Italian;Kalaallisut;Ladino;Latin;Ligure;Malay;Manx;Northern Frisian;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Piedmontese;Polish;Portuguese;Romanian;Sardinian;Scots;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Slovenian;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Volapuk;veneto;Voro;Waray;Welsh;Western Frisian">Nunavut</name>
+		<name normalized="Nunavut Territory" languages="English;official">Nunavut Territory</name>
+		<name normalized="Nunavuta" languages="Latvian">Nunavuta</name>
+		<name normalized="Nunavutas" languages="Lithuanian">Nunavutas</name>
+		<name normalized="Nunavuto" languages="Esperanto">Nunavuto</name>
+		<name normalized="Nunavuts" languages="Samogitian">Nunavuts</name>
+		<name normalized="Nahookosji Hakʼaz Dineʼe Bikeyah" languages="Navajo">Náhookǫsjí Hakʼaz Dineʼé Bikéyah</name>
+		<name normalized="Νοuναβουτ" languages="Greek">Νούναβουτ</name>
+		<name normalized="Нuнavut" languages="Belarusian;Bulgarian;Kazakh;Macedonian;Mongolian;Ossetic;Russian;Serbian;Ukrainian;biлaрuсkai (taрaskivita)‎">Нунавут</name>
+		<name normalized="Նvyնավvyt" languages="Armenian">Նունավութ</name>
+		<name normalized="nvnאvvt" languages="Hebrew">נונאווט</name>
+		<name normalized="ننאوt" languages="Urdu;Western Punjabi">نناوت</name>
+		<name normalized="نونאfوt" languages="Arabic">نونافوت</name>
+		<name normalized="نونאووt" languages="Persian">نوناووت</name>
+		<name normalized="ܢܘܢܐܒܘܛ" languages="Aramaic">ܢܘܢܐܒܘܛ</name>
+		<name normalized="nunाv्hut" languages="Marathi">नुनाव्हुत</name>
+		<name normalized="nunਾvut" languages="Punjabi">ਨੂਨਾਵੁਤ</name>
+		<name normalized="நுனாவுட்" languages="Tamil">நுனாவுட்</name>
+		<name normalized="นูนาวุต" languages="Thai">นูนาวุต</name>
+		<name normalized="ნუნავუტი" languages="Georgian">ნუნავუტი</name>
+		<name normalized="ᓄᓇᕗᑦ" languages="Inuktitut">ᓄᓇᕗᑦ</name>
+		<name normalized="nnbt準州" languages="Japanese">ヌナブト準州</name>
+		<name normalized="努納武特" languages="Chinese">努納武特</name>
+		<name normalized="努那烏" languages="Cantonese">努那烏</name>
+		<name normalized="누나부트 준주" languages="Korean">누나부트 준주</name>
+	</region>
+	<region name="Ontario" type="province" typeTranslated="province">
+		<name normalized="Ontarijas" languages="Lithuanian">Ontarijas</name>
+		<name normalized="Ontario" languages="Afrikaans;Albanian;Asturian;Azerbaijani;Basque;Bosnian;Breton;Chinese (Min Nan);Cornish;Corsican;Croatian;Czech;Danish;Deitsch;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Hungarian;Icelandic;Ido;Indonesian;Interlingua;Irish;Italian;Kalaallisut;Latin;Ligure;Lingala;Malagasy;Malay;Manx;Nahuatl;Northern Frisian;Norwegian (bokmal);Norwegian Nynorsk;official;Old English;Pampanga;Piedmontese;Polish;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Simple English;Slovenian;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Volapuk;veneto;Voro;Waray;Welsh;Western Frisian">Ontario</name>
+		<name normalized="Ontario Province" languages="English;official">Ontario Province</name>
+		<name normalized="Ontario pruwinsya" languages="Quechua">Ontario pruwinsya</name>
+		<name normalized="Ontario-sen" languages="Hakka">Ontario-sén</name>
+		<name normalized="Ontariu" languages="Sicilian">Ontariu</name>
+		<name normalized="Ontareje" languages="Samogitian">Ontarėjė</name>
+		<name normalized="Ontario" languages="Catalan;Occitan">Ontàrio</name>
+		<name normalized="Ontario" languages="Portuguese;Slovak">Ontário</name>
+		<name normalized="Ontario" languages="Latvian">Ontārio</name>
+		<name normalized="Ονταριο" languages="Greek">Οντάριο</name>
+		<name normalized="Aнtaрыё" languages="biлaрuсkai (taрaskivita)‎">Антарыё</name>
+		<name normalized="Oнtaрio" languages="Bulgarian;Macedonian;Mongolian;Ossetic;Russian;Sakha;Serbian;Tatar">Онтарио</name>
+		<name normalized="Oнtaрio" languages="Ukrainian">Онтаріо</name>
+		<name normalized="Pрaviнtыi Aнtaрыa" languages="Belarusian">Правінцыя Антарыа</name>
+		<name normalized="Oնtաrիv" languages="Armenian">Օնտարիո</name>
+		<name normalized="אvntrיv" languages="Hebrew">אונטריו</name>
+		<name normalized="אntעrיא" languages="Yiddish">אנטעריא</name>
+		<name normalized="أونtאryو" languages="Arabic">أونتاريو</name>
+		<name normalized="אنtאrیو" languages="Persian">انتاریو</name>
+		<name normalized="אنٹאrیو" languages="Urdu">انٹاریو</name>
+		<name normalized="אونtאryو" languages="Egyptian Spoken Arabic">اونتاريو</name>
+		<name normalized="אونٹאrیو" languages="Western Punjabi">اونٹاریو</name>
+		<name normalized="ܐܘܢܛܐܪܝܘ" languages="Aramaic">ܐܘܢܛܐܪܝܘ</name>
+		<name normalized="on्टाriyo" languages="Marathi">ऑन्टारियो</name>
+		<name normalized="oण्टाriyo" languages="Hindi">ओण्टारियो</name>
+		<name normalized="an্টাrio" languages="Bengali">অন্টারিও</name>
+		<name normalized="ਓਂਟਾriਓ" languages="Punjabi">ਓਂਟਾਰੀਓ</name>
+		<name normalized="ஒன்ராறியோ" languages="Tamil">ஒன்ராறியோ</name>
+		<name normalized="అంటారియో" languages="Telugu">అంటారియో</name>
+		<name normalized="ഒണ്ടാറിയോ" languages="Malayalam">ഒണ്ടാറിയോ</name>
+		<name normalized="รัฐออนแทรีโอ" languages="Thai">รัฐออนแทรีโอ</name>
+		<name normalized="အွန်တေးရီးယိုးပြည်နယ်" languages="Burmese">အွန်တေးရီးယိုးပြည်နယ်</name>
+		<name normalized="ონტარიო" languages="Georgian;Mingrelian">ონტარიო</name>
+		<name normalized="ᐅᓐᑌᕇᐤ" languages="Cree">ᐅᓐᑌᕇᐤ</name>
+		<name normalized="ᐋᓐᑎᐅᕆᔪ" languages="Inuktitut">ᐋᓐᑎᐅᕆᔪ</name>
+		<name normalized="ontro州" languages="Japanese">オンタリオ州</name>
+		<name normalized="安大略" languages="Chinese">安大略</name>
+		<name normalized="安大略省" languages="Cantonese">安大略省</name>
+		<name normalized="온타리오 주" languages="Korean">온타리오 주</name>
+	</region>
+	<region name="Prince Edward Island" type="province" typeTranslated="province">
+		<name normalized="Eduardo Printzearen Uhartea" languages="Basque">Eduardo Printzearen Uhartea</name>
+		<name normalized="Edward Ong-chu To" languages="Chinese (Min Nan)">Edward Ông-chú Tó</name>
+		<name normalized="Eilean a' Phrionnsa" languages="Scottish Gaelic">Eilean a' Phrionnsa</name>
+		<name normalized="Ellan y Phrinse Edard" languages="Manx">Ellan y Phrinse Edard</name>
+		<name normalized="Enez ar Prins Edward" languages="Breton">Enez ar Priñs Edward</name>
+		<name normalized="Eyja Jatvards prins" languages="Icelandic">Eyja Játvarðs prins</name>
+		<name normalized="Ilha do Principe Eduardo" languages="Portuguese">Ilha do Príncipe Eduardo</name>
+		<name normalized="Illa del Prince Edoard" languages="Occitan">Illa del Prince Edoard</name>
+		<name normalized="Illa del Princep Eduard" languages="Catalan">Illa del Príncep Eduard</name>
+		<name normalized="Illa do Principe Eduardo" languages="Galician">Illa do Príncipe Eduardo</name>
+		<name normalized="Insula Principis Eduardi" languages="Latin">Insula Principis Eduardi</name>
+		<name normalized="Insula Prințului Edward" languages="Romanian">Insula Prințului Edward</name>
+		<name normalized="Insulo de Princo Eduardo" languages="Esperanto">Insulo de Princo Eduardo</name>
+		<name normalized="Ishulli i Princit Eduard" languages="Albanian">Ishulli i Princit Eduard</name>
+		<name normalized="Isla del Principe Eduardo" languages="Spanish">Isla del Príncipe Eduardo</name>
+		<name normalized="Islla Principe Dubardu" languages="Asturian">Islla Príncipe Dubardu</name>
+		<name normalized="Isoa do Principe Edoardo" languages="Ligure">Isoa do Prinçipe Edoardo</name>
+		<name normalized="Isola del Principe Edoardo" languages="Italian">Isola del Principe Edoardo</name>
+		<name normalized="Oilean Phrionsa Eadbhard" languages="Irish">Oileán Phrionsa Éadbhard</name>
+		<name normalized="Ostrov princa Eduarda" languages="Slovak">Ostrov princa Eduarda</name>
+		<name normalized="Ostrov prince Edwarda" languages="Czech">Ostrov prince Edwarda</name>
+		<name normalized="Ostrvo Princa Edwarda" languages="Bosnian">Ostrvo Princa Edwarda</name>
+		<name normalized="Otok princa Edvarda" languages="Slovenian">Otok princa Edvarda</name>
+		<name normalized="Otok Princa Edwarda" languages="Croatian;Serbo-Croatian">Otok Princa Edwarda</name>
+		<name normalized="Prens Edward Adası" languages="Turkish">Prens Edward Adası</name>
+		<name normalized="Prince Edward Eilun" languages="Northern Frisian">Prince Edward Eilun</name>
+		<name normalized="Prince Edward Island" languages="Danish;English;German;Ido;Kalaallisut;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Scots;Simple English;Swahili;Swedish;Tagalog;Volapuk;Welsh">Prince Edward Island</name>
+		<name normalized="Prince Edward Island Province" languages="English;official">Prince Edward Island Province</name>
+		<name normalized="Prince Edward Island pruwinsya" languages="Quechua">Prince Edward Island pruwinsya</name>
+		<name normalized="Prince Edward-sziget" languages="Hungarian">Prince Edward-sziget</name>
+		<name normalized="Princo Edvardo sala" languages="Lithuanian">Princo Edvardo sala</name>
+		<name normalized="Prins Edwardeiland" languages="Dutch">Prins Edwardeiland</name>
+		<name normalized="Prins Edwardeilan" languages="Western Frisian">Prins Edwardeilân</name>
+		<name normalized="Prins-Edward-Eiland" languages="Afrikaans">Prins-Edward-Eiland</name>
+		<name normalized="Prinssi Edwardin saari" languages="Finnish">Prinssi Edwardin saari</name>
+		<name normalized="Prints Edwardi saar" languages="Estonian;Voro">Prints Edwardi saar</name>
+		<name normalized="Princa Edvarda Sala" languages="Latvian">Prinča Edvarda Sala</name>
+		<name normalized="Prenca Edvarda sala" languages="Samogitian">Prėnca Edvarda sala</name>
+		<name normalized="Pulau Pangeran Edward" languages="Indonesian">Pulau Pangeran Edward</name>
+		<name normalized="Pulau Prince Edward" languages="Malay">Pulau Prince Edward</name>
+		<name normalized="Puro han Prinsipe Edwardo" languages="Waray">Purô han Prinsipe Edwardo</name>
+		<name normalized="Wyspa Ksiecia Edwarda" languages="Polish">Wyspa Księcia Edwarda</name>
+		<name normalized="Ynys an Pryns Edward" languages="Cornish">Ynys an Pryns Edward</name>
+		<name normalized="Isola del Prinsi Edoard" languages="Piedmontese">Ìsola dël Prinsi Edoard</name>
+		<name normalized="Ile-du-Prince-Edouard" languages="French">Île-du-Prince-Édouard</name>
+		<name normalized="Dao Hoang tu Edward" languages="Vietnamese">Đảo Hoàng tử Edward</name>
+		<name normalized="Sahzadə Eduard Adası" languages="Azerbaijani">Şahzadə Eduard Adası</name>
+		<name normalized="Νησος του Πριγκηπα Εδουαρδου" languages="Greek">Νήσος του Πρίγκηπα Εδουάρδου</name>
+		<name normalized="Voсtрaў Pрынta Eduaрda" languages="Belarusian">Востраў Прынца Эдуарда</name>
+		<name normalized="Voсtрaў Pрынta Edўaрda" languages="biлaрuсkai (taрaskivita)‎">Востраў Прынца Эдўарда</name>
+		<name normalized="Oсtрvo Pрiнta Idvaрda" languages="Serbian">Острво Принца Едварда</name>
+		<name normalized="Oсtрov Pрiнt Idvaрd" languages="Macedonian">Остров Принц Едвард</name>
+		<name normalized="Oсtрov Pрiнt Iduaрd" languages="Bulgarian">Остров Принц Едуард</name>
+		<name normalized="Oсtрov Pрiнta Eduaрda" languages="Russian">Остров Принца Эдуарда</name>
+		<name normalized="Oсtрiv Pрiнta Idvaрda" languages="Ukrainian">Острів Принца Едварда</name>
+		<name normalized="Pрiнс Edvaрdын Aрaл" languages="Mongolian">Принс Эдвардын Арал</name>
+		<name normalized="Pрiнt Eduaрdы сakъadak" languages="Ossetic">Принц Эдуарды сакъадах</name>
+		<name normalized="Edvyաrd աrkայաzնի kղzի" languages="Armenian">Էդուարդ արքայազնի կղզի</name>
+		<name normalized="אי hnסיד אדvאrד" languages="Hebrew">אי הנסיך אדוארד</name>
+		<name normalized="jزyrة אلأmyr إدوאrد" languages="Arabic">جزيرة الأمير إدوارد</name>
+		<name normalized="jزیrh prنس אدوאrد" languages="Persian">جزیره پرنس ادوارد</name>
+		<name normalized="prنس אیڈوrڈ آئی لینڈ" languages="Urdu">پرنس ایڈورڈ آئی لینڈ</name>
+		<name normalized="prنس אیڈوrڈ آئیلینڈ" languages="Western Punjabi">پرنس ایڈورڈ آئیلینڈ</name>
+		<name normalized="ܓܙܪܬܐ ܕܐܡܝܪܐ ܐܕܘܐܪܕ" languages="Aramaic">ܓܙܪܬܐ ܕܐܡܝܪܐ ܐܕܘܐܪܕ</name>
+		<name normalized="p्rin्s eडvr्ड aylंड" languages="Marathi">प्रिन्स एडवर्ड आयलंड</name>
+		<name normalized="p੍riੰs aਡvrਡ ਟਾpu" languages="Punjabi">ਪ੍ਰਿੰਸ ਐਡਵਰਡ ਟਾਪੂ</name>
+		<name normalized="இளவரசர் எட்வர்ட் தீவு" languages="Tamil">இளவரசர் எட்வர்ட் தீவு</name>
+		<name normalized="รัฐปรินซ์เอ็ดเวิร์ดไอแลนด์" languages="Thai">รัฐปรินซ์เอ็ดเวิร์ดไอแลนด์</name>
+		<name normalized="პრინს-ედუარდის კუნძული" languages="Georgian">პრინს-ედუარდის კუნძული</name>
+		<name normalized="პრინც-ედუარდიშ კოკი" languages="Mingrelian">პრინც-ედუარდიშ კოკი</name>
+		<name normalized="prnsedwーdairnd州" languages="Japanese">プリンスエドワードアイランド州</name>
+		<name normalized="愛德華王子島" languages="Cantonese;Chinese">愛德華王子島</name>
+		<name normalized="프린스에드워드아일랜드 주" languages="Korean">프린스에드워드아일랜드 주</name>
+	</region>
+	<region name="Quebec" type="province" typeTranslated="province">
+		<name normalized="Kebek" languages="Breton;Cornish;Kabyle;Walloon;Western Frisian">Kebek</name>
+		<name normalized="Kebekio" languages="Esperanto">Kebekio</name>
+		<name normalized="Kebeku" languages="Albanian">Kebeku</name>
+		<name normalized="Kebek" languages="Haitian">Kebèk</name>
+		<name normalized="Kvebek" languages="Azerbaijani">Kvebek</name>
+		<name normalized="Kvebeka" languages="Latvian">Kvebeka</name>
+		<name normalized="Kvebekas" languages="Lithuanian">Kvebekas</name>
+		<name normalized="Kvebeks" languages="Samogitian">Kvebeks</name>
+		<name normalized="Kwebek" languages="Uyghur">Kwébék</name>
+		<name normalized="Kebec" languages="Picard">Kébec</name>
+		<name normalized="Kebeki" languages="Lingala">Kébeki</name>
+		<name normalized="Provincia Quebec" languages="Romanian">Provincia Québec</name>
+		<name normalized="Quebec" languages="Afrikaans;Asturian;Basque;Bosnian;Catalan;Corsican;Dutch;English;Finnish;Galician;Ido;Iloko;Indonesian;Javanese;Ligure;Malay;Nahuatl;Northern Frisian;Norwegian Nynorsk;official;Old English;Pampanga;Papiamento;Polish;Portuguese;Scots;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Spanish;Swahili;Voro;Waray">Quebec</name>
+		<name normalized="Quebec Province" languages="English;official">Quebec Province</name>
+		<name normalized="Quebec pruwinsya" languages="Quechua">Quebec pruwinsya</name>
+		<name normalized="Quebecum" languages="Latin">Quebecum</name>
+		<name normalized="Quebec" languages="Occitan">Quebèc</name>
+		<name normalized="Quebec" languages="Alemannisch;Chinese (Min Nan);Croatian;Czech;Danish;Deitsch;Estonian;Faroese;French;German;Guarani;Hungarian;Icelandic;Interlingua;Irish;Italian;Kalaallisut;Low German;Low Saxon (Netherlands);lumbaart;Malagasy;Manx;Neapolitan;Norwegian (bokmal);Piedmontese;Sicilian;Slovenian;Swedish;Tagalog;Turkish;Vietnamese;Volapuk;veneto;Welsh">Québec</name>
+		<name normalized="Quebec-sen" languages="Hakka">Québec-sén</name>
+		<name normalized="Tchubec" languages="Nouormand">Tchubec</name>
+		<name normalized="Κεμπeκ" languages="Greek">Κεμπέκ</name>
+		<name normalized="Kvibik" languages="Bulgarian;Macedonian;Ossetic;Russian;Serbian;Tatar;Ukrainian">Квебек</name>
+		<name normalized="Kvebek" languages="biлaрuсkai (taрaskivita)‎">Квэбэк</name>
+		<name normalized="Kebek" languages="Mongolian">Кэбэк</name>
+		<name normalized="Pрaviнtыi Kvibik" languages="Belarusian">Правінцыя Квебек</name>
+		<name normalized="Kվեbեk" languages="Armenian">Քվեբեք</name>
+		<name normalized="qvvיbעq" languages="Yiddish">קוויבעק</name>
+		<name normalized="qvvיbq" languages="Hebrew">קוויבק</name>
+		<name normalized="אسtאن کbک" languages="Persian">استان کبک</name>
+		<name normalized="kybk" languages="Arabic">كيبك</name>
+		<name normalized="کیوbک" languages="Western Punjabi">کیوبک</name>
+		<name normalized="کیوbیک" languages="Urdu">کیوبیک</name>
+		<name normalized="ܩܝܒܩ" languages="Aramaic">ܩܝܒܩ</name>
+		<name normalized="k्yubek" languages="Hindi">क्यूबेक</name>
+		<name normalized="k्vebek" languages="Marathi">क्वेबेक</name>
+		<name normalized="kuibek" languages="Bengali">কুইবেক</name>
+		<name normalized="kੇbak" languages="Punjabi">ਕੇਬੈਕ</name>
+		<name normalized="k્vibek" languages="Gujarati">ક્વિબેક</name>
+		<name normalized="கியூபெக்" languages="Tamil">கியூபெக்</name>
+		<name normalized="ಕ್ವಿಬೆಕ್" languages="Kannada">ಕ್ವಿಬೆಕ್</name>
+		<name normalized="ക്യൂബെക്" languages="Malayalam">ക്യൂബെക്</name>
+		<name normalized="รัฐควิเบก" languages="Thai">รัฐควิเบก</name>
+		<name normalized="ແຂວງເກແບັກ" languages="Lao">ແຂວງເກແບັກ</name>
+		<name normalized="ကွီဗက်ပြည်နယ်" languages="Burmese">ကွီဗက်ပြည်နယ်</name>
+		<name normalized="კვებეკი" languages="Georgian;Mingrelian">კვებეკი</name>
+		<name normalized="ᑯᐯᒃ" languages="Cree">ᑯᐯᒃ</name>
+		<name normalized="ᑯᐸᐃᒃ" languages="Inuktitut">ᑯᐸᐃᒃ</name>
+		<name normalized="kbtk州" languages="Japanese">ケベック州</name>
+		<name normalized="该办克" languages="Wu">该办克</name>
+		<name normalized="魁北克" languages="Chinese;Classical Chinese">魁北克</name>
+		<name normalized="魁北克省" languages="Cantonese">魁北克省</name>
+		<name normalized="퀘벡 주" languages="Korean">퀘벡 주</name>
+	</region>
+	<region name="Saskatchewan" type="province" typeTranslated="province">
+		<name normalized="Sascatchewane" languages="Walloon">Sascatchewane</name>
+		<name normalized="Saskachewan" languages="Uyghur">Saskachéwan</name>
+		<name normalized="Saskatchewan" languages="Afrikaans;Albanian;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Dutch;English;Finnish;French;Galician;German;Hungarian;Ido;Indonesian;Irish;Italian;Kabyle;Kalaallisut;Latin;Ligure;Malay;Manx;Nahuatl;Northern Frisian;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Piedmontese;Polish;Portuguese;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Slovenian;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Volapuk;veneto;Voro;Waray;Welsh;Western Frisian">Saskatchewan</name>
+		<name normalized="Saskatchewan Province" languages="English;official">Saskatchewan Province</name>
+		<name normalized="Saskatchewan pruwinsya" languages="Quechua">Saskatchewan pruwinsya</name>
+		<name normalized="Saskatchewani provints" languages="Estonian">Saskatchewani provints</name>
+		<name normalized="Saskacevan" languages="Azerbaijani">Saskaçevan</name>
+		<name normalized="Saskacevano" languages="Esperanto">Saskaĉevano</name>
+		<name normalized="Saskacevana" languages="Latvian">Saskačevana</name>
+		<name normalized="Saskacevanas" languages="Lithuanian">Saskačevanas</name>
+		<name normalized="Saskacevans" languages="Samogitian">Saskačevans</name>
+		<name normalized="Σασκατσουαν" languages="Greek">Σασκάτσουαν</name>
+		<name normalized="Pрaviнtыi Сaсkacevaн" languages="Belarusian">Правінцыя Саскачэван</name>
+		<name normalized="Сaсkacivaн" languages="Bulgarian;Macedonian;Mongolian;Ossetic;Russian;Sakha;Serbian;Ukrainian">Саскачеван</name>
+		<name normalized="Сaсkacevaн" languages="biлaрuсkai (taрaskivita)‎">Саскачэван</name>
+		<name normalized="Sաskաcևան" languages="Armenian">Սասկաչևան</name>
+		<name normalized="סאסqאtשעvvען" languages="Yiddish">סאסקאטשעווען</name>
+		<name normalized="ססqצ'vאן" languages="Hebrew">ססקצ'ואן</name>
+		<name normalized="سאسkאtشوאن" languages="Arabic">ساسكاتشوان</name>
+		<name normalized="سאسکאچوאن" languages="Persian">ساسکاچوان</name>
+		<name normalized="سאسکٹچیوאن" languages="Western Punjabi">ساسکٹچیوان</name>
+		<name normalized="سאسکچیوאن" languages="Urdu">ساسکچیوان</name>
+		<name normalized="ܣܐܣܩܐܬܫܘܐܢ" languages="Aramaic">ܣܐܣܩܐܬܫܘܐܢ</name>
+		<name normalized="sाs्kाcevाn" languages="Marathi">सास्काचेवान</name>
+		<name normalized="sskਾcvਾn" languages="Punjabi">ਸਸਕਾਚਵਾਨ</name>
+		<name normalized="சஸ்காச்சுவான்" languages="Tamil">சஸ்காச்சுவான்</name>
+		<name normalized="รัฐซัสแคตเชวัน" languages="Thai">รัฐซัสแคตเชวัน</name>
+		<name normalized="ဆက်စကက်ချီဝမ်နယ်" languages="Burmese">ဆက်စကက်ချီဝမ်နယ်</name>
+		<name normalized="სასკაჩევანი" languages="Georgian;Mingrelian">სასკაჩევანი</name>
+		<name normalized="ssktywn州" languages="Japanese">サスカチュワン州</name>
+		<name normalized="沙士加芝灣" languages="Cantonese">沙士加芝灣</name>
+		<name normalized="薩斯喀徹溫" languages="Chinese">薩斯喀徹溫</name>
+		<name normalized="서스캐처원 주" languages="Korean">서스캐처원 주</name>
+	</region>
+	<region name="Yukon" type="territory" typeTranslated="territory">
+		<name normalized="Geocon Landscipe" languages="Old English">Geocon Landscipe</name>
+		<name normalized="Jukon" languages="Polish;Slovenian">Jukon</name>
+		<name normalized="Jukona" languages="Latvian">Jukona</name>
+		<name normalized="Jukonas" languages="Lithuanian">Jukonas</name>
+		<name normalized="Jukonio" languages="Esperanto">Jukonio</name>
+		<name normalized="Jukons" languages="Samogitian">Jukons</name>
+		<name normalized="Roinn an Iukon" languages="Scottish Gaelic">Roinn an Iukon</name>
+		<name normalized="Yukon" languages="Afrikaans;Albanian;Azerbaijani;Basque;Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Dutch;English;Estonian;Faroese;Finnish;French;German;Hungarian;Indonesian;Inupiaq;Irish;Italian;Kalaallisut;Latin;Ligure;Malay;Manx;Northern Frisian;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Piedmontese;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Slovak;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Volapuk;veneto;Voro;Waray;Welsh;Western Frisian">Yukon</name>
+		<name normalized="Yukon Rayoni" languages="Uyghur">Yukon Rayoni</name>
+		<name normalized="Yukon Territory" languages="English;official">Yukon Territory</name>
+		<name normalized="Yukon" languages="Asturian;Galician;Spanish">Yukón</name>
+		<name normalized="Γιοuκον" languages="Greek">Γιούκον</name>
+		<name normalized="Teрыtoрыi Юkaн" languages="Belarusian">Тэрыторыя Юкан</name>
+		<name normalized="Юkaн" languages="biлaрuсkai (taрaskivita)‎">Юкан</name>
+		<name normalized="Юkoн" languages="Bulgarian;Mongolian;Ossetic;Russian;Sakha;Ukrainian">Юкон</name>
+		<name normalized="Jukoн" languages="Macedonian;Serbian">Јукон</name>
+		<name normalized="Յvykvն" languages="Armenian">Յուկոն</name>
+		<name normalized="יvqאן" languages="Yiddish">יוקאן</name>
+		<name normalized="יvqvן" languages="Hebrew">יוקון</name>
+		<name normalized="yوkون" languages="Arabic;Urdu">يوكون</name>
+		<name normalized="یوکאن" languages="Persian">یوکان</name>
+		<name normalized="یکون" languages="Western Punjabi">یکون</name>
+		<name normalized="ܝܘܩܘܢ" languages="Aramaic">ܝܘܩܘܢ</name>
+		<name normalized="yukon" languages="Marathi">युकॉन</name>
+		<name normalized="yukੋn" languages="Punjabi">ਯੂਕੋਨ</name>
+		<name normalized="யூக்கான்" languages="Tamil">யூக்கான்</name>
+		<name normalized="ยูคอน" languages="Thai">ยูคอน</name>
+		<name normalized="იუკონი" languages="Georgian">იუკონი</name>
+		<name normalized="yーkn準州" languages="Japanese">ユーコン準州</name>
+		<name normalized="育空" languages="Chinese">育空</name>
+		<name normalized="育空地區" languages="Cantonese">育空地區</name>
+		<name normalized="유콘 준주" languages="Korean">유콘 준주</name>
+	</region>
+</regions>

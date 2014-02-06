@@ -1,0 +1,459 @@
+<regions country="Bhutan">
+	<region name="Bumthang" type="district" typeTranslated="dzongkhag">
+		<name normalized="Bhumthang" languages="Romanian">Bhumthang</name>
+		<name normalized="Bumtango rajonas" languages="Lithuanian">Bumtango rajonas</name>
+		<name normalized="Bumthang" languages="Czech;Dutch;English;Finnish;French;German;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Bumthang</name>
+		<name normalized="Bumthang District" languages="English;official">Bumthang District</name>
+		<name normalized="Bumthang Dzongkhag" languages="English;official">Bumthang Dzongkhag</name>
+		<name normalized="Bumthang korzet" languages="Hungarian">Bumthang körzet</name>
+		<name normalized="Bumthangi ringkond" languages="Estonian">Bumthangi ringkond</name>
+		<name normalized="Distretto di Bumthang" languages="Italian">Distretto di Bumthang</name>
+		<name normalized="Distrikto Bumthang" languages="Esperanto">Distrikto Bumthang</name>
+		<name normalized="Distrito de Bumthang" languages="Spanish">Distrito de Bumthang</name>
+		<name normalized="Dystrykt Bumthang" languages="Polish">Dystrykt Bumthang</name>
+		<name normalized="Buмtaнg" languages="Bulgarian;Russian;Ukrainian">Бумтанг</name>
+		<name normalized="dلع bوmtھאنg" languages="Western Punjabi">ضلع بومتھانگ</name>
+		<name normalized="பும்தாங் மாவட்டம்" languages="Tamil">பும்தாங் மாவட்டம்</name>
+		<name normalized="བུམ་ཐང་གི་ས་ཁོངས།" languages="Tibetan">བུམ་ཐང་གི་ས་ཁོངས།</name>
+		<name normalized="བུམ་ཐང་རྫོང་ཁག" languages="Dzongkha">བུམ་ཐང་རྫོང་ཁག</name>
+		<name normalized="布姆唐宗" languages="Chinese">布姆唐宗</name>
+		<name normalized="붐탕 현" languages="Korean">붐탕 현</name>
+	</region>
+	<region name="Chhukha" type="district" typeTranslated="dzongkhag">
+		<name normalized="Chhukha" languages="Czech;English;Estonian;official;Romanian">Chhukha</name>
+		<name normalized="Chhukha District" languages="English;official">Chhukha District</name>
+		<name normalized="Chhukha Dzongkhag" languages="English;official">Chhukha Dzongkhag</name>
+		<name normalized="Chhukha ringkond" languages="Estonian">Chhukha ringkond</name>
+		<name normalized="Chukha" languages="Danish;Dutch;Finnish;French;German;Norwegian (bokmal);Portuguese;Swedish;Waray">Chukha</name>
+		<name normalized="Chukha District" languages="English">Chukha District</name>
+		<name normalized="Chukha korzet" languages="Hungarian">Chukha körzet</name>
+		<name normalized="Distretto di Chukha" languages="Italian">Distretto di Chukha</name>
+		<name normalized="Districtul Chukha" languages="Romanian">Districtul Chukha</name>
+		<name normalized="Distrikto Cuha" languages="Esperanto">Distrikto Ĉuĥa</name>
+		<name normalized="Distrito de Chukha" languages="Spanish">Distrito de Chukha</name>
+		<name normalized="Dystrykt Chukha" languages="Polish">Dystrykt Chukha</name>
+		<name normalized="Mebisa" languages="English;Polish">Mebisa</name>
+		<name normalized="Мibiсa" languages="Macedonian;Russian">Мебиса</name>
+		<name normalized="Мibiсa" languages="Ukrainian">Мебіса</name>
+		<name normalized="Cukka" languages="Bulgarian;Russian;Ukrainian">Чукха</name>
+		<name normalized="dلع ہآ" languages="Western Punjabi">ضلع ہآ</name>
+		<name normalized="சுக்கா மாவட்டம்" languages="Tamil">சுக்கா மாவட்டம்</name>
+		<name normalized="ཆུ་ཁ་རྫོང་ཁག" languages="Dzongkha">ཆུ་ཁ་རྫོང་ཁག</name>
+		<name normalized="楚卡宗" languages="Chinese">楚卡宗</name>
+		<name normalized="추카 현" languages="Korean">추카 현</name>
+	</region>
+	<region name="Chirang" type="district" typeTranslated="dzongkhag">
+		<name normalized="Chirang" languages="English;official">Chirang</name>
+		<name normalized="Chirang District" languages="English;official">Chirang District</name>
+		<name normalized="Chirang Dzongkhag" languages="English;official">Chirang Dzongkhag</name>
+		<name normalized="Distretto di Tsirang" languages="Italian">Distretto di Tsirang</name>
+		<name normalized="Distrikto Cirang" languages="Esperanto">Distrikto Cirang</name>
+		<name normalized="Distrito de Tsirang" languages="Spanish">Distrito de Tsirang</name>
+		<name normalized="Dystrykt Tsirang" languages="Polish">Dystrykt Tsirang</name>
+		<name normalized="Tsirang" languages="Dutch;Finnish;French;German;Norwegian (bokmal);Portuguese;Romanian;Swedish;Waray">Tsirang</name>
+		<name normalized="Tsirang District" languages="English">Tsirang District</name>
+		<name normalized="Tsirang korzet" languages="Hungarian">Tsirang körzet</name>
+		<name normalized="Tsirangi ringkond" languages="Estonian">Tsirangi ringkond</name>
+		<name normalized="Tiрaнg" languages="Bulgarian;Russian">Циранг</name>
+		<name normalized="Tiрaнg" languages="Ukrainian">Ціранг</name>
+		<name normalized="dلع زیrאنg" languages="Western Punjabi">ضلع زیرانگ</name>
+		<name normalized="རྩི་རང་གི་ས་ཁོངས།" languages="Tibetan">རྩི་རང་གི་ས་ཁོངས།</name>
+		<name normalized="རྩི་རང་རྫོང་ཁག" languages="Dzongkha">རྩི་རང་རྫོང་ཁག</name>
+		<name normalized="奇朗宗" languages="Chinese">奇朗宗</name>
+		<name normalized="치랑 현" languages="Korean">치랑 현</name>
+	</region>
+	<region name="Daga" type="district" typeTranslated="dzongkhag">
+		<name normalized="Daga" languages="English;official">Daga</name>
+		<name normalized="Daga District" languages="English;official">Daga District</name>
+		<name normalized="Daga Dzongkhag" languages="English;official">Daga Dzongkhag</name>
+		<name normalized="Dagana" languages="Dutch;Estonian;Finnish;French;German;Norwegian (bokmal);Portuguese;Romanian;Swedish;Waray">Dagana</name>
+		<name normalized="Dagana District" languages="English">Dagana District</name>
+		<name normalized="Dagana korzet" languages="Hungarian">Dagana körzet</name>
+		<name normalized="Dagana ringkond" languages="Estonian">Dagana ringkond</name>
+		<name normalized="Distretto di Dagana" languages="Italian">Distretto di Dagana</name>
+		<name normalized="Distrikto Dagana" languages="Esperanto">Distrikto Dagana</name>
+		<name normalized="Distrito de Dagana" languages="Spanish">Distrito de Dagana</name>
+		<name normalized="Dystrykt Dagana" languages="Polish">Dystrykt Dagana</name>
+		<name normalized="Taga Dzong" languages="Romanian">Taga Dzong</name>
+		<name normalized="Dagaнa" languages="Bulgarian;Russian;Ukrainian">Дагана</name>
+		<name normalized="dلع ڈאgאنہ" languages="Western Punjabi">ضلع ڈاگانہ</name>
+		<name normalized="དར་དཀར་ན་རྫོང་ཁག" languages="Dzongkha">དར་དཀར་ན་རྫོང་ཁག</name>
+		<name normalized="达加纳宗" languages="Chinese">达加纳宗</name>
+		<name normalized="다가나 현" languages="Korean">다가나 현</name>
+	</region>
+	<region name="Gasa" type="district" typeTranslated="dzongkhag">
+		<name normalized="Distretto di Gasa" languages="Italian">Distretto di Gasa</name>
+		<name normalized="Distrikto Gasa" languages="Esperanto">Distrikto Gasa</name>
+		<name normalized="Distrito de Gasa" languages="Spanish">Distrito de Gasa</name>
+		<name normalized="Dystrykt Gasa" languages="Polish">Dystrykt Gasa</name>
+		<name normalized="Gasa" languages="Dutch;English;Estonian;Finnish;French;German;Norwegian (bokmal);official;Portuguese;Romanian;Swedish;Waray">Gasa</name>
+		<name normalized="Gasa District" languages="English;official">Gasa District</name>
+		<name normalized="Gasa Dzongkhag" languages="English;official">Gasa Dzongkhag</name>
+		<name normalized="Gasa korzet" languages="Hungarian">Gasa körzet</name>
+		<name normalized="Gasa ringkond" languages="Estonian">Gasa ringkond</name>
+		<name normalized="Gasos rajonas" languages="Lithuanian">Gasos rajonas</name>
+		<name normalized="Gaсa" languages="Bulgarian;Russian;Ukrainian">Гаса</name>
+		<name normalized="dلع gאسہ" languages="Western Punjabi">ضلع گاسہ</name>
+		<name normalized="མགར་ས་རྫོང་ཁག" languages="Dzongkha">མགར་ས་རྫོང་ཁག</name>
+		<name normalized="加萨宗" languages="Chinese">加萨宗</name>
+		<name normalized="가사 현" languages="Korean">가사 현</name>
+	</region>
+	<region name="Geylegphug" type="district" typeTranslated="dzongkhag">
+		<name normalized="Distretto di Tsirang" languages="Italian">Distretto di Tsirang</name>
+		<name normalized="Distrikto Cirang" languages="Esperanto">Distrikto Cirang</name>
+		<name normalized="Distrito de Tsirang" languages="Spanish">Distrito de Tsirang</name>
+		<name normalized="Dystrykt Tsirang" languages="Polish">Dystrykt Tsirang</name>
+		<name normalized="Geylegphug" languages="English;official">Geylegphug</name>
+		<name normalized="Geylegphug District" languages="English;official">Geylegphug District</name>
+		<name normalized="Geylegphug Dzongkhag" languages="English;official">Geylegphug Dzongkhag</name>
+		<name normalized="Tsirang" languages="Dutch;Finnish;French;German;Norwegian (bokmal);Portuguese;Romanian;Swedish;Waray">Tsirang</name>
+		<name normalized="Tsirang District" languages="English">Tsirang District</name>
+		<name normalized="Tsirang korzet" languages="Hungarian">Tsirang körzet</name>
+		<name normalized="Tsirangi ringkond" languages="Estonian">Tsirangi ringkond</name>
+		<name normalized="Tiрaнg" languages="Bulgarian;Russian">Циранг</name>
+		<name normalized="Tiрaнg" languages="Ukrainian">Ціранг</name>
+		<name normalized="dلع زیrאنg" languages="Western Punjabi">ضلع زیرانگ</name>
+		<name normalized="རྩི་རང་གི་ས་ཁོངས།" languages="Tibetan">རྩི་རང་གི་ས་ཁོངས།</name>
+		<name normalized="རྩི་རང་རྫོང་ཁག" languages="Dzongkha">རྩི་རང་རྫོང་ཁག</name>
+		<name normalized="奇朗宗" languages="Chinese">奇朗宗</name>
+		<name normalized="치랑 현" languages="Korean">치랑 현</name>
+	</region>
+	<region name="Ha" type="district" typeTranslated="dzongkhag">
+		<name normalized="Distretto di Haa" languages="Italian">Distretto di Haa</name>
+		<name normalized="Distrikto Haa" languages="Esperanto">Distrikto Haa</name>
+		<name normalized="Distrito de Haa" languages="Spanish">Distrito de Haa</name>
+		<name normalized="Dystrykt Haa" languages="Polish">Dystrykt Haa</name>
+		<name normalized="Ha" languages="English;Estonian;official;Romanian">Ha</name>
+		<name normalized="Ha District" languages="English;official">Ha District</name>
+		<name normalized="Ha Dzongkhag" languages="English;official">Ha Dzongkhag</name>
+		<name normalized="Ha ringkond" languages="Estonian">Ha ringkond</name>
+		<name normalized="Haa" languages="Dutch;Finnish;French;German;Norwegian (bokmal);Portuguese;Romanian;Swedish;Waray">Haa</name>
+		<name normalized="Haa District" languages="English">Haa District</name>
+		<name normalized="Haa korzet" languages="Hungarian">Haa körzet</name>
+		<name normalized="Χα" languages="Greek">Χα</name>
+		<name normalized="Ka" languages="Macedonian">Ха</name>
+		<name normalized="Kaa" languages="Bulgarian;Russian;Ukrainian">Хаа</name>
+		<name normalized="ཧཱ་རྫོང་ཁག" languages="Dzongkha">ཧཱ་རྫོང་ཁག</name>
+		<name normalized="哈阿宗" languages="Chinese">哈阿宗</name>
+		<name normalized="하아 현" languages="Korean">하아 현</name>
+	</region>
+	<region name="Lhuntshi" type="district" typeTranslated="dzongkhag">
+		<name normalized="Distretto di Lhuntse" languages="Italian">Distretto di Lhuntse</name>
+		<name normalized="Distrikto Lhunce" languages="Esperanto">Distrikto Lhunce</name>
+		<name normalized="Distrito de Lhuntse" languages="Spanish">Distrito de Lhuntse</name>
+		<name normalized="Dystrykt Lhuntse" languages="Polish">Dystrykt Lhuntse</name>
+		<name normalized="Lhuentse" languages="Estonian">Lhuentse</name>
+		<name normalized="Lhuentse ringkond" languages="Estonian">Lhuentse ringkond</name>
+		<name normalized="Lhuntse" languages="Dutch;English;Finnish;French;German;Norwegian (bokmal);Polish;Portuguese;Romanian;Swedish;Waray">Lhuntse</name>
+		<name normalized="Lhuntse District" languages="English">Lhuntse District</name>
+		<name normalized="Lhuntse korzet" languages="Hungarian">Lhuntse körzet</name>
+		<name normalized="Lhuntshi" languages="English;official;Romanian">Lhuntshi</name>
+		<name normalized="Lhuntshi District" languages="English;official">Lhuntshi District</name>
+		<name normalized="Lhuntshi Dzongkhag" languages="English;official">Lhuntshi Dzongkhag</name>
+		<name normalized="Лuнtсi" languages="Bulgarian">Лунтсе</name>
+		<name normalized="Лuнti" languages="Macedonian">Лунце</name>
+		<name normalized="Лkuнti" languages="Russian;Ukrainian">Лхунце</name>
+		<name normalized="dلع لہنٹسے" languages="Western Punjabi">ضلع لہنٹسے</name>
+		<name normalized="ལྷུན་རྩེ་རྫོང་ཁག" languages="Dzongkha">ལྷུན་རྩེ་རྫོང་ཁག</name>
+		<name normalized="伦奇宗" languages="Chinese">伦奇宗</name>
+		<name normalized="룬체 현" languages="Korean">룬체 현</name>
+	</region>
+	<region name="Mongar" type="district" typeTranslated="dzongkhag">
+		<name normalized="Distretto di Mongar" languages="Italian">Distretto di Mongar</name>
+		<name normalized="Distrikto Mongar" languages="Esperanto">Distrikto Mongar</name>
+		<name normalized="Distrito de Mongar" languages="Spanish">Distrito de Mongar</name>
+		<name normalized="Dystrykt Mongar" languages="Polish">Dystrykt Mongar</name>
+		<name normalized="Mongar" languages="Dutch;English;Estonian;Finnish;French;German;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Swedish;Waray">Mongar</name>
+		<name normalized="Mongar District" languages="English;official">Mongar District</name>
+		<name normalized="Mongar Dzongkhag" languages="English;official">Mongar Dzongkhag</name>
+		<name normalized="Mongar korzet" languages="Hungarian">Mongar körzet</name>
+		<name normalized="Mongari ringkond" languages="Estonian">Mongari ringkond</name>
+		<name normalized="Мoнgaр" languages="Bulgarian;Macedonian;Russian;Ukrainian">Монгар</name>
+		<name normalized="dلع mونgr" languages="Western Punjabi">ضلع مونگر</name>
+		<name normalized="མོང་སྒར་རྫོང་ཁག" languages="Dzongkha">མོང་སྒར་རྫོང་ཁག</name>
+		<name normalized="蒙加尔" languages="Chinese">蒙加尔</name>
+		<name normalized="蒙加尔宗" languages="Chinese">蒙加尔宗</name>
+		<name normalized="몽가르 현" languages="Korean">몽가르 현</name>
+	</region>
+	<region name="Paro" type="district" typeTranslated="dzongkhag">
+		<name normalized="Distretto di Paro" languages="Italian">Distretto di Paro</name>
+		<name normalized="Distrikto Paro" languages="Esperanto">Distrikto Paro</name>
+		<name normalized="Distrito de Paro" languages="Spanish">Distrito de Paro</name>
+		<name normalized="Dystrykt Paro" languages="Polish">Dystrykt Paro</name>
+		<name normalized="Paras" languages="Lithuanian">Paras</name>
+		<name normalized="Paro" languages="Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Swedish;Vietnamese;Waray;Welsh">Paro</name>
+		<name normalized="Paro District" languages="English;official">Paro District</name>
+		<name normalized="Paro Dzongkhag" languages="English;official">Paro Dzongkhag</name>
+		<name normalized="Paro korzet" languages="Hungarian">Paro körzet</name>
+		<name normalized="Paro ringkond" languages="Estonian">Paro ringkond</name>
+		<name normalized="Παρο" languages="Greek">Πάρο</name>
+		<name normalized="Goрad Paрo" languages="Belarusian">Горад Паро</name>
+		<name normalized="Paрo" languages="Bulgarian;Russian;Ukrainian">Паро</name>
+		<name normalized="dلع pאrو" languages="Western Punjabi">ضلع پارو</name>
+		<name normalized="pाro-buटाn" languages="Hindi">पारो-भूटान</name>
+		<name normalized="มณฑลพาโร" languages="Thai">มณฑลพาโร</name>
+		<name normalized="སྤ་རོ་རྫོང་ཁག" languages="Dzongkha">སྤ་རོ་རྫོང་ཁག</name>
+		<name normalized="პარო" languages="Georgian">პარო</name>
+		<name normalized="pr" languages="Japanese">パロ</name>
+		<name normalized="帕罗宗" languages="Chinese">帕罗宗</name>
+		<name normalized="帕羅" languages="Chinese">帕羅</name>
+		<name normalized="파로" languages="Korean">파로</name>
+		<name normalized="파로 현" languages="Korean">파로 현</name>
+	</region>
+	<region name="Pemagatsel" type="district" typeTranslated="dzongkhag">
+		<name normalized="Distretto di Pemagatshel" languages="Italian">Distretto di Pemagatshel</name>
+		<name normalized="Distrikto Pemagatsel" languages="Esperanto">Distrikto Pemagatŝel</name>
+		<name normalized="Distrito de Pemagatshel" languages="Spanish">Distrito de Pemagatshel</name>
+		<name normalized="Dystrykt Pemagatshel" languages="Polish">Dystrykt Pemagatshel</name>
+		<name normalized="Pemagatsel" languages="English;official;Romanian">Pemagatsel</name>
+		<name normalized="Pemagatsel District" languages="English;official">Pemagatsel District</name>
+		<name normalized="Pemagatsel Dzongkhag" languages="English;official">Pemagatsel Dzongkhag</name>
+		<name normalized="Pemagatshel" languages="Dutch;Estonian;Finnish;French;German;Norwegian (bokmal);Portuguese;Romanian;Swedish;Waray">Pemagatshel</name>
+		<name normalized="Pemagatshel District" languages="English">Pemagatshel District</name>
+		<name normalized="Pemagatshel korzet" languages="Hungarian">Pemagatshel körzet</name>
+		<name normalized="Pemagatsheli ringkond" languages="Estonian">Pemagatsheli ringkond</name>
+		<name normalized="Piмagatiл" languages="Macedonian;Russian;Ukrainian">Пемагацел</name>
+		<name normalized="Poмagaciл" languages="Bulgarian">Помагачел</name>
+		<name normalized="dلع pیmאgtشل" languages="Western Punjabi">ضلع پیماگتشل</name>
+		<name normalized="པདྨ་དགའ་ཚལ་རྫོང་ཁག" languages="Dzongkha">པདྨ་དགའ་ཚལ་རྫོང་ཁག</name>
+		<name normalized="佩马加策尔宗" languages="Chinese">佩马加策尔宗</name>
+		<name normalized="페마가첼 현" languages="Korean">페마가첼 현</name>
+	</region>
+	<region name="Punakha" type="district" typeTranslated="dzongkhag">
+		<name normalized="Distretto di Punakha" languages="Italian">Distretto di Punakha</name>
+		<name normalized="Districte de Punakha" languages="Catalan">Districte de Punakha</name>
+		<name normalized="Distrikto Punaha" languages="Esperanto">Distrikto Punaĥa</name>
+		<name normalized="Distrito de Punakha" languages="Spanish">Distrito de Punakha</name>
+		<name normalized="Dystrykt Punakha" languages="Polish">Dystrykt Punakha</name>
+		<name normalized="Punaka" languages="Lithuanian">Punaka</name>
+		<name normalized="Punakha" languages="Catalan;Danish;Dutch;English;Estonian;Finnish;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Swedish;Waray">Punakha</name>
+		<name normalized="Punakha District" languages="English;official">Punakha District</name>
+		<name normalized="Punakha Dzongkhag" languages="English;official">Punakha Dzongkhag</name>
+		<name normalized="Punakha korzet" languages="Hungarian">Punakha körzet</name>
+		<name normalized="Punakha ringkond" languages="Estonian">Punakha ringkond</name>
+		<name normalized="Punaho" languages="Esperanto">Punaĥo</name>
+		<name normalized="Πουναχα" languages="Greek">Πουνάχα</name>
+		<name normalized="Goрad Puнakka" languages="Belarusian">Горад Пунакха</name>
+		<name normalized="Puнaka" languages="Bulgarian">Пунака</name>
+		<name normalized="Puнakka" languages="Russian;Ukrainian">Пунакха</name>
+		<name normalized="dلع pونאکھہ" languages="Western Punjabi">ضلع پوناکھہ</name>
+		<name normalized="มณฑลพูนาคา" languages="Thai">มณฑลพูนาคา</name>
+		<name normalized="སྤུ་ན་ཁ་" languages="Dzongkha">སྤུ་ན་ཁ་</name>
+		<name normalized="སྤུ་ན་ཁ་རྫོང་ཁག" languages="Dzongkha">སྤུ་ན་ཁ་རྫོང་ཁག</name>
+		<name normalized="პუნაქა" languages="Georgian">პუნაქა</name>
+		<name normalized="pnk" languages="Japanese">プナカ</name>
+		<name normalized="普那卡" languages="Chinese">普那卡</name>
+		<name normalized="普那卡宗" languages="Chinese">普那卡宗</name>
+		<name normalized="푸나카" languages="Korean">푸나카</name>
+		<name normalized="푸나카 현" languages="Korean">푸나카 현</name>
+	</region>
+	<region name="Samchi" type="district" typeTranslated="dzongkhag">
+		<name normalized="Bann Samtsi" languages="Breton">Bann Samtsi</name>
+		<name normalized="Distretto di Samtse" languages="Italian">Distretto di Samtse</name>
+		<name normalized="Districtul Samtse" languages="Romanian">Districtul Samtse</name>
+		<name normalized="Distrikto Samce" languages="Esperanto">Distrikto Samce</name>
+		<name normalized="Distrito de Samtse" languages="Spanish">Distrito de Samtse</name>
+		<name normalized="Dystrykt Samtse" languages="Polish">Dystrykt Samtse</name>
+		<name normalized="Samchi" languages="English;official">Samchi</name>
+		<name normalized="Samchi District" languages="English;official">Samchi District</name>
+		<name normalized="Samchi Dzongkhag" languages="English;official">Samchi Dzongkhag</name>
+		<name normalized="Samtse" languages="Dutch;Finnish;French;German;Norwegian (bokmal);Portuguese;Swedish;Waray">Samtse</name>
+		<name normalized="Samtse District" languages="English">Samtse District</name>
+		<name normalized="Samtse korzet" languages="Hungarian">Samtse körzet</name>
+		<name normalized="Samtse ringkond" languages="Estonian">Samtse ringkond</name>
+		<name normalized="Сaмti" languages="Bulgarian;Russian;Ukrainian">Самце</name>
+		<name normalized="dلع سאmٹسے" languages="Western Punjabi">ضلع سامٹسے</name>
+		<name normalized="བསམ་རྩེ་རྫོང་ཁག" languages="Dzongkha">བསམ་རྩེ་རྫོང་ཁག</name>
+		<name normalized="萨姆宗" languages="Chinese">萨姆宗</name>
+		<name normalized="삼체 현" languages="Korean">삼체 현</name>
+	</region>
+	<region name="Samdrup Jongkhar" type="district" typeTranslated="dzongkhag">
+		<name normalized="Distretto di Samdrup Jongkhar" languages="Italian">Distretto di Samdrup Jongkhar</name>
+		<name normalized="Distrikto Samdrup Jonghar" languages="Esperanto">Distrikto Samdrup Jongĥar</name>
+		<name normalized="Distrito de Samdrup Jongkhar" languages="Spanish">Distrito de Samdrup Jongkhar</name>
+		<name normalized="Dystrykt Samdrup Jongkhar" languages="Polish">Dystrykt Samdrup Jongkhar</name>
+		<name normalized="Samdrup Dzongkharas" languages="Lithuanian">Samdrup Džongkharas</name>
+		<name normalized="Samdrup Jongkhar" languages="Danish;Dutch;English;Estonian;Finnish;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Swedish;Waray">Samdrup Jongkhar</name>
+		<name normalized="Samdrup Jongkhar District" languages="English;official">Samdrup Jongkhar District</name>
+		<name normalized="Samdrup Jongkhar Dzongkhag" languages="English;official">Samdrup Jongkhar Dzongkhag</name>
+		<name normalized="Samdrup Jongkhar korzet" languages="Hungarian">Samdrup Jongkhar körzet</name>
+		<name normalized="Samdrup Jongkhari ringkond" languages="Estonian">Samdrup Jongkhari ringkond</name>
+		<name normalized="Сaмdрup Dzoнgkaр" languages="Bulgarian">Самдруп Джонгхар</name>
+		<name normalized="Сaмdрup-Dzoнgkaр" languages="Russian;Ukrainian">Самдруп-Джонгхар</name>
+		<name normalized="dلع سאmڈrp jونgکھאr" languages="Western Punjabi">ضلع سامڈرپ جونگکھار</name>
+		<name normalized="བསམ་གྲུབ་ལྗོངས་མཁར་" languages="Dzongkha">བསམ་གྲུབ་ལྗོངས་མཁར་</name>
+		<name normalized="བསམ་གྲུབ་ལྗོངས་མཁར་རྫོང་ཁག" languages="Dzongkha">བསམ་གྲུབ་ལྗོངས་མཁར་རྫོང་ཁག</name>
+		<name normalized="萨姆德鲁琼卡尔宗" languages="Chinese">萨姆德鲁琼卡尔宗</name>
+		<name normalized="삼드룹종카르 현" languages="Korean">삼드룹종카르 현</name>
+	</region>
+	<region name="Shemgang" type="district" typeTranslated="dzongkhag">
+		<name normalized="Distretto di Zhemgang" languages="Italian">Distretto di Zhemgang</name>
+		<name normalized="Districtul Zhemgang" languages="Romanian">Districtul Zhemgang</name>
+		<name normalized="Distrikto Jemgang" languages="Esperanto">Distrikto Ĵemgang</name>
+		<name normalized="Distrito de Zhemgang" languages="Spanish">Distrito de Zhemgang</name>
+		<name normalized="Dystrykt Zhemgang" languages="Polish">Dystrykt Zhemgang</name>
+		<name normalized="Shemgang" languages="English;official">Shemgang</name>
+		<name normalized="Shemgang District" languages="English;official">Shemgang District</name>
+		<name normalized="Shemgang Dzongkhag" languages="English;official">Shemgang Dzongkhag</name>
+		<name normalized="Zhemgang" languages="Dutch;Finnish;French;German;Norwegian (bokmal);Portuguese;Swedish;Vietnamese;Waray">Zhemgang</name>
+		<name normalized="Zhemgang District" languages="English">Zhemgang District</name>
+		<name normalized="Zhemgang korzet" languages="Hungarian">Zhemgang körzet</name>
+		<name normalized="Zhemgangi ringkond" languages="Estonian">Zhemgangi ringkond</name>
+		<name normalized="Ziмgaнg" languages="Russian;Ukrainian">Жемганг</name>
+		<name normalized="Zkiмgaнg" languages="Bulgarian">Зхемганг</name>
+		<name normalized="dلع زیmgאنg" languages="Western Punjabi">ضلع زیمگانگ</name>
+		<name normalized="གཞལ་སྒང་གི་ས་ཁོངས།" languages="Tibetan">གཞལ་སྒང་གི་ས་ཁོངས།</name>
+		<name normalized="གཞལམ་སྒང་རྫོང་ཁག" languages="Dzongkha">གཞལམ་སྒང་རྫོང་ཁག</name>
+		<name normalized="谢姆冈宗" languages="Chinese">谢姆冈宗</name>
+		<name normalized="젬강 현" languages="Korean">젬강 현</name>
+	</region>
+	<region name="Tashi Yangtse" type="district" typeTranslated="dzongkhag">
+		<name normalized="Distretto di Trashiyangtse" languages="Italian">Distretto di Trashiyangtse</name>
+		<name normalized="Distrikto Trasijangste" languages="Esperanto">Distrikto Traŝijangste</name>
+		<name normalized="Distrito de Trashiyangste" languages="Spanish">Distrito de Trashiyangste</name>
+		<name normalized="Dystrykt Trashiyangste" languages="Polish">Dystrykt Trashiyangste</name>
+		<name normalized="Tashi Yangtse" languages="English;official">Tashi Yangtse</name>
+		<name normalized="Tashi Yangtse District" languages="English;official">Tashi Yangtse District</name>
+		<name normalized="Tashi Yangtse Dzongkhag" languages="English;official">Tashi Yangtse Dzongkhag</name>
+		<name normalized="Trashi Yangtse" languages="Estonian">Trashi Yangtse</name>
+		<name normalized="Trashi Yangtse ringkond" languages="Estonian">Trashi Yangtse ringkond</name>
+		<name normalized="Trashiyangste" languages="Dutch;Finnish;Portuguese;Swedish;Vietnamese">Trashiyangste</name>
+		<name normalized="Trashiyangtse" languages="English;French;German;Norwegian (bokmal);Romanian;Waray">Trashiyangtse</name>
+		<name normalized="Trashiyangtse District" languages="English">Trashiyangtse District</name>
+		<name normalized="Trashiyangtse korzet" languages="Hungarian">Trashiyangtse körzet</name>
+		<name normalized="Tрaсkiiнсti" languages="Bulgarian">Трасхиянсте</name>
+		<name normalized="Tрasiiнgti" languages="Russian">Трашиянгце</name>
+		<name normalized="Tрasiiнgti" languages="Ukrainian">Трашіянгце</name>
+		<name normalized="dلع trیشیאنgٹسے" languages="Western Punjabi">ضلع تریشیانگٹسے</name>
+		<name normalized="བཀྲིས་གཡང་རྩེ་རྫོང་ཁག" languages="Dzongkha">བཀྲིས་གཡང་རྩེ་རྫོང་ཁག</name>
+		<name normalized="塔希央奇宗" languages="Chinese">塔希央奇宗</name>
+		<name normalized="트라시양체 현" languages="Korean">트라시양체 현</name>
+	</region>
+	<region name="Tashigang" type="district" typeTranslated="dzongkhag">
+		<name normalized="Distretto di Trashigang" languages="Italian">Distretto di Trashigang</name>
+		<name normalized="Districtul Trashigang" languages="Romanian">Districtul Trashigang</name>
+		<name normalized="Distrikto Trasigang" languages="Esperanto">Distrikto Traŝigang</name>
+		<name normalized="Distrito de Trashigang" languages="Spanish">Distrito de Trashigang</name>
+		<name normalized="Dystrykt Trashigang" languages="Polish">Dystrykt Trashigang</name>
+		<name normalized="Tashigang" languages="English;official;Romanian">Tashigang</name>
+		<name normalized="Tashigang District" languages="English;official">Tashigang District</name>
+		<name normalized="Tashigang Dzongkhag" languages="English;official">Tashigang Dzongkhag</name>
+		<name normalized="Trashigang" languages="Danish;Dutch;English;Estonian;Finnish;French;German;Italian;Norwegian (bokmal);Polish;Portuguese;Swedish;Waray">Trashigang</name>
+		<name normalized="Trashigang District" languages="English">Trashigang District</name>
+		<name normalized="Trashigang korzet" languages="Hungarian">Trashigang körzet</name>
+		<name normalized="Trashigangi ringkond" languages="Estonian">Trashigangi ringkond</name>
+		<name normalized="Trasigango" languages="Esperanto">Traŝigango</name>
+		<name normalized="Tрaсkigaнg" languages="Bulgarian">Трасхиганг</name>
+		<name normalized="Tрasigaнg" languages="Russian">Трашиганг</name>
+		<name normalized="Tрasigaнg" languages="Ukrainian">Трашіганг</name>
+		<name normalized="dلع trیشیgאنg" languages="Western Punjabi">ضلع تریشیگانگ</name>
+		<name normalized="བཀྲ་ཤིས་སྒང་གི་ས་ཁོངས།" languages="Tibetan">བཀྲ་ཤིས་སྒང་གི་ས་ཁོངས།</name>
+		<name normalized="བཀྲིས་སྒང་" languages="Dzongkha">བཀྲིས་སྒང་</name>
+		<name normalized="བཀྲིས་སྒང་རྫོང་ཁག" languages="Dzongkha">བཀྲིས་སྒང་རྫོང་ཁག</name>
+		<name normalized="tsgn" languages="Japanese">タシガン</name>
+		<name normalized="tsgn県" languages="Japanese">タシガン県</name>
+		<name normalized="塔希冈" languages="Chinese">塔希冈</name>
+		<name normalized="塔希冈宗" languages="Chinese">塔希冈宗</name>
+		<name normalized="트라시강" languages="Korean">트라시강</name>
+		<name normalized="트라시강 현" languages="Korean">트라시강 현</name>
+	</region>
+	<region name="Thimphu" type="district" typeTranslated="dzongkhag">
+		<name normalized="Distretto di Thimphu" languages="Italian">Distretto di Thimphu</name>
+		<name normalized="Distrikto Timbuo" languages="Esperanto">Distrikto Timbuo</name>
+		<name normalized="Distrito de Timbu" languages="Spanish">Distrito de Timbu</name>
+		<name normalized="Thimbu" languages="Portuguese">Thimbu</name>
+		<name normalized="Thimphou" languages="French">Thimphou</name>
+		<name normalized="Thimphu" languages="Achinese;Afrikaans;Azerbaijani;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;Franco-Provencal;Galician;German;Ido;Indonesian;Interlingue;Irish;Italian;Latin;Latvian;Ligure;lumbaart;Luxembourgish;Malagasy;Malay;Norwegian Nynorsk;Occitan;official;Piedmontese;Polish;Portuguese;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Sicilian;Simple English;Slovak;Swahili;Swedish;Turkish;Upper Sorbian;Vietnamese;Volapuk;Waray;Welsh;Yoruba;Zazaki">Thimphu</name>
+		<name normalized="Thimphu District" languages="English;official">Thimphu District</name>
+		<name normalized="Thimphu Dzongkhag" languages="English;official">Thimphu Dzongkhag</name>
+		<name normalized="Thimphu korzet" languages="Hungarian">Thimphu körzet</name>
+		<name normalized="Thimphu ringkond" languages="Estonian">Thimphu ringkond</name>
+		<name normalized="Thimpu" languages="Norwegian (bokmal)">Thimpu</name>
+		<name normalized="Timbu" languages="Nahuatl;Spanish;Tagalog">Timbu</name>
+		<name normalized="Timbuo" languages="Esperanto">Timbuo</name>
+		<name normalized="Timfou" languages="Haitian">Timfou</name>
+		<name normalized="Timfu" languages="Icelandic">Timfú</name>
+		<name normalized="Timpu" languages="Hungarian;Lithuanian;Novial">Timpu</name>
+		<name normalized="Timpu" languages="Western Frisian">Timpû</name>
+		<name normalized="Θιμφου" languages="Greek">Θίμφου</name>
+		<name normalized="Goрad Tkiмpku" languages="Belarusian">Горад Тхімпху</name>
+		<name normalized="Tiмbu" languages="Macedonian;Serbian">Тимбу</name>
+		<name normalized="Tkiмpku" languages="Bulgarian;Chechen;Mongolian;Ossetic;Russian;Tajik">Тхимпху</name>
+		<name normalized="Tkiмpku zoнkag" languages="Mongolian">Тхимпху зонкаг</name>
+		<name normalized="Tkiмpku" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Тхімпху</name>
+		<name normalized="Thիmփhvy" languages="Armenian">Թհիմփհու</name>
+		<name normalized="thימphv" languages="Hebrew">טהימפהו</name>
+		<name normalized="tىmpۇ" languages="Uyghur">تىمپۇ</name>
+		<name normalized="tymfو" languages="Arabic">تيمفو</name>
+		<name normalized="tھmpو" languages="Urdu">تھمپو</name>
+		<name normalized="tیmfو" languages="Persian">تیمفو</name>
+		<name normalized="tیmfوو" languages="Sorani Kurdish">تیمفوو</name>
+		<name normalized="dلع tھmpھو" languages="Western Punjabi">ضلع تھمپھو</name>
+		<name normalized="ٹھmpھو" languages="Western Punjabi">ٹھمپھو</name>
+		<name normalized="tiंpu" languages="Marathi">थिंफू</name>
+		<name normalized="tim्pu" languages="Hindi">थिम्फू</name>
+		<name normalized="tim্pu" languages="Bengali">থিম্পু</name>
+		<name normalized="tiੰpu" languages="Punjabi">ਥਿੰਫੂ</name>
+		<name normalized="ଥିମ୍ପୁ" languages="Oriya">ଥିମ୍ପୁ</name>
+		<name normalized="திம்பு" languages="Tamil">திம்பு</name>
+		<name normalized="థింపూ" languages="Telugu">థింపూ</name>
+		<name normalized="ಥಿಂಪು" languages="Kannada">ಥಿಂಪು</name>
+		<name normalized="തിംഫു" languages="Malayalam">തിംഫു</name>
+		<name normalized="ทิมพู" languages="Thai">ทิมพู</name>
+		<name normalized="ཐིམ་ཕུ་རྫོང་ཁག" languages="Dzongkha">ཐིམ་ཕུ་རྫོང་ཁག</name>
+		<name normalized="ཐིམ་ཕུ།" languages="Tibetan">ཐིམ་ཕུ།</name>
+		<name normalized="ཐིམ་ཕུུུུ" languages="Dzongkha">ཐིམ་ཕུུུུ</name>
+		<name normalized="თიმფუ" languages="Georgian">თიმფუ</name>
+		<name normalized="ጢምጱ" languages="Amharic">ጢምጱ</name>
+		<name normalized="tinpー" languages="Japanese">ティンプー</name>
+		<name normalized="廷布" languages="Cantonese;Chinese">廷布</name>
+		<name normalized="廷布宗" languages="Chinese">廷布宗</name>
+		<name normalized="팀부" languages="Korean">팀부</name>
+		<name normalized="팀부 현" languages="Korean">팀부 현</name>
+	</region>
+	<region name="Tongsa" type="district" typeTranslated="dzongkhag">
+		<name normalized="Distretto di Trongsa" languages="Italian">Distretto di Trongsa</name>
+		<name normalized="Distrikto Trongsa" languages="Esperanto">Distrikto Trongsa</name>
+		<name normalized="Distrito de Trongsa" languages="Spanish">Distrito de Trongsa</name>
+		<name normalized="Dystrykt Trongsa" languages="Polish">Dystrykt Trongsa</name>
+		<name normalized="Tongsa" languages="English;French;German;official;Romanian">Tongsa</name>
+		<name normalized="Tongsa District" languages="English;official">Tongsa District</name>
+		<name normalized="Tongsa Dzongkhag" languages="English;official">Tongsa Dzongkhag</name>
+		<name normalized="Trongsa" languages="Dutch;English;Estonian;Finnish;French;German;Italian;Lithuanian;Norwegian (bokmal);Polish;Portuguese;Romanian;Spanish;Swedish;Waray">Trongsa</name>
+		<name normalized="Trongsa District" languages="English">Trongsa District</name>
+		<name normalized="Trongsa korzet" languages="Hungarian">Trongsa körzet</name>
+		<name normalized="Trongsa ringkond" languages="Estonian">Trongsa ringkond</name>
+		<name normalized="Trongso" languages="Esperanto">Trongso</name>
+		<name normalized="Tрoнgсa" languages="Bulgarian;Russian;Ukrainian">Тронгса</name>
+		<name normalized="dلع ٹrونgزא" languages="Western Punjabi">ضلع ٹرونگزا</name>
+		<name normalized="ตงซา" languages="Thai">ตงซา</name>
+		<name normalized="มณฑลตงซา" languages="Thai">มณฑลตงซา</name>
+		<name normalized="ཀྲོང་གསར་" languages="Dzongkha">ཀྲོང་གསར་</name>
+		<name normalized="ཀྲོང་གསར་རྫོང་ཁག" languages="Dzongkha">ཀྲོང་གསར་རྫོང་ཁག</name>
+		<name normalized="ტრონგსა" languages="Georgian">ტრონგსა</name>
+		<name normalized="通萨" languages="Chinese">通萨</name>
+		<name normalized="通萨宗" languages="Chinese">通萨宗</name>
+		<name normalized="트롱사 현" languages="Korean">트롱사 현</name>
+	</region>
+	<region name="Wangdi Phodrang" type="district" typeTranslated="dzongkhag">
+		<name normalized="Distretto di Wangdue Phodrang" languages="Italian">Distretto di Wangdue Phodrang</name>
+		<name normalized="Distrikto Uangdue Podrang" languages="Esperanto">Distrikto Ŭangdue Podrang</name>
+		<name normalized="Distrito de Wangdue Phodrang" languages="Spanish">Distrito de Wangdue Phodrang</name>
+		<name normalized="Dystrykt Wangdue Phodrang" languages="Polish">Dystrykt Wangdue Phodrang</name>
+		<name normalized="Wangdi Phodrang" languages="English;official">Wangdi Phodrang</name>
+		<name normalized="Wangdi Phodrang District" languages="English;official">Wangdi Phodrang District</name>
+		<name normalized="Wangdi Phodrang Dzongkhag" languages="English;official">Wangdi Phodrang Dzongkhag</name>
+		<name normalized="Wangdue Phodrang" languages="Dutch;Finnish;French;German;Norwegian (bokmal);Portuguese;Romanian;Swedish;Waray">Wangdue Phodrang</name>
+		<name normalized="Wangdue Phodrang District" languages="English">Wangdue Phodrang District</name>
+		<name normalized="Wangdue Phodrang korzet" languages="Hungarian">Wangdue Phodrang körzet</name>
+		<name normalized="Wangdue Phodrangi ringkond" languages="Estonian">Wangdue Phodrangi ringkond</name>
+		<name normalized="Vaнgdi-Pkodрaнg" languages="Russian">Вангди-Пходранг</name>
+		<name normalized="Vaнgdui Pkodрaнg" languages="Bulgarian">Вангдуе Пходранг</name>
+		<name normalized="Vaнgdi-Pkodрaнg" languages="Ukrainian">Вангді-Пходранг</name>
+		<name normalized="dلع وאنgڈو fوڈrאنg" languages="Western Punjabi">ضلع وانگڈو فوڈرانگ</name>
+		<name normalized="དབང་འདུས་ཕོ་བྲང་གི་ས་ཁོངས།" languages="Tibetan">དབང་འདུས་ཕོ་བྲང་གི་ས་ཁོངས།</name>
+		<name normalized="དབང་འདུས་ཕོ་བྲང་རྫོང་ཁག" languages="Dzongkha">དབང་འདུས་ཕོ་བྲང་རྫོང་ཁག</name>
+		<name normalized="旺杜波德朗宗" languages="Chinese">旺杜波德朗宗</name>
+		<name normalized="왕두에포드랑 현" languages="Korean">왕두에포드랑 현</name>
+	</region>
+</regions>

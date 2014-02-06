@@ -1,0 +1,669 @@
+<regions country="Ecuador">
+	<region name="Azuay" type="province" typeTranslated="provincia">
+		<name normalized="Asuajaus provincija" languages="Lithuanian">Asuajaus provincija</name>
+		<name normalized="Asway marka" languages="Quechua">Asway marka</name>
+		<name normalized="Azuay" languages="Danish;Dutch;English;Esperanto;Finnish;French;Northern Sami;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Azuay</name>
+		<name normalized="Azuay Province" languages="English;official;Scots">Azuay Province</name>
+		<name normalized="Azuay Provincia" languages="English;official">Azuay Provincia</name>
+		<name normalized="Azuay tartomany" languages="Hungarian">Azuay tartomány</name>
+		<name normalized="Pentadbiran Azuay" languages="Malay">Pentadbiran Azuay</name>
+		<name normalized="Provincia de Azuay" languages="Spanish">Provincia de Azuay</name>
+		<name normalized="Provincia di Azuay" languages="Italian">Provincia di Azuay</name>
+		<name normalized="Provinsi Azuay" languages="Indonesian">Provinsi Azuay</name>
+		<name normalized="Provinz Azuay" languages="German">Provinz Azuay</name>
+		<name normalized="Provincia d'Azuay" languages="Catalan">Província d'Azuay</name>
+		<name normalized="Prowincja Azuay" languages="Polish">Prowincja Azuay</name>
+		<name normalized="Azuaj" languages="Macedonian">Азуај</name>
+		<name normalized="Aсuaй" languages="Bulgarian;Russian;biлaрuсkai (taрaskivita)‎">Асуай</name>
+		<name normalized="Pрaviнtыi Aсuaй" languages="Belarusian">Правінцыя Асуай</name>
+		<name normalized="אסvאי" languages="Hebrew">אסואי</name>
+		<name normalized="أزوאy" languages="Arabic">أزواي</name>
+		<name normalized="sوbہ אزوآیے" languages="Western Punjabi">صوبہ ازوآیے</name>
+		<name normalized="ასუაის პროვინცია" languages="Georgian">ასუაის პროვინცია</name>
+		<name normalized="asai県" languages="Japanese">アスアイ県</name>
+		<name normalized="阿苏艾省" languages="Chinese">阿苏艾省</name>
+	</region>
+	<region name="Bolivar" type="province" typeTranslated="provincia">
+		<name normalized="Bolivar" languages="Danish;English;Italian;official;Swedish">Bolivar</name>
+		<name normalized="Bolivar Province" languages="English;official">Bolivar Province</name>
+		<name normalized="Bolivar Provincia" languages="English;official">Bolivar Provincia</name>
+		<name normalized="Bolivaras" languages="Lithuanian">Bolivaras</name>
+		<name normalized="Bolivaro" languages="Esperanto">Bolivaro</name>
+		<name normalized="Bolivaro provincija" languages="Lithuanian">Bolivaro provincija</name>
+		<name normalized="Bolivar" languages="Breton;Catalan;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Indonesian;Norwegian (bokmal);Polish;Portuguese;Quechua;Scots;Spanish;Swedish;Vietnamese;Waray">Bolívar</name>
+		<name normalized="Bolivar marka" languages="Quechua">Bolívar marka</name>
+		<name normalized="Bolivar Province" languages="English;Scots">Bolívar Province</name>
+		<name normalized="Bolivar tartomany" languages="Hungarian">Bolívar tartomány</name>
+		<name normalized="Pentadbiran Bolivar" languages="Malay">Pentadbiran Bolívar</name>
+		<name normalized="Province de Bolivar" languages="French">Province de Bolívar</name>
+		<name normalized="Provincia de Bolivar" languages="Spanish">Provincia de Bolívar</name>
+		<name normalized="Provincia di Bolivar" languages="Italian">Provincia di Bolívar</name>
+		<name normalized="Provinsi Bolivar" languages="Indonesian">Provinsi Bolívar</name>
+		<name normalized="Provinz Bolivar" languages="German">Provinz Bolívar</name>
+		<name normalized="Provincia de Bolivar" languages="Catalan">Província de Bolívar</name>
+		<name normalized="Prowincja Bolivar" languages="Polish">Prowincja Bolívar</name>
+		<name normalized="Μπολιβαρ" languages="Greek">Μπολίβαρ</name>
+		<name normalized="Baлivaр" languages="biлaрuсkai (taрaskivita)‎">Балівар</name>
+		<name normalized="Boлivaр" languages="Bulgarian;Macedonian;Ossetic;Russian">Боливар</name>
+		<name normalized="Boлivaр" languages="Ukrainian">Болівар</name>
+		<name normalized="Pрaviнtыi Baлivaр" languages="Belarusian">Правінцыя Балівар</name>
+		<name normalized="bvדיbr" languages="Hebrew">בוליבר</name>
+		<name normalized="אسtאن bلیوאr" languages="Persian">استان بلیوار</name>
+		<name normalized="bولیوאr" languages="Persian">بولیوار</name>
+		<name normalized="ბოლივარის პროვინცია" languages="Georgian">ბოლივარის პროვინცია</name>
+		<name normalized="brbr" languages="Japanese">ボリバル</name>
+		<name normalized="brーbr県" languages="Japanese">ボリーバル県</name>
+		<name normalized="玻利瓦尔省" languages="Chinese">玻利瓦尔省</name>
+		<name normalized="볼리바르" languages="Korean">볼리바르</name>
+	</region>
+	<region name="Canar" type="province" typeTranslated="provincia">
+		<name normalized="Canar" languages="Dutch;English;official">Canar</name>
+		<name normalized="Canar Province" languages="English;official">Canar Province</name>
+		<name normalized="Canar Provincia" languages="English;official">Canar Provincia</name>
+		<name normalized="Canar" languages="Danish;Dutch;Esperanto;Finnish;French;Norwegian (bokmal);Portuguese;Swedish;Waray">Cañar</name>
+		<name normalized="Canar Province" languages="English;Scots">Cañar Province</name>
+		<name normalized="Canar tartomany" languages="Hungarian">Cañar tartomány</name>
+		<name normalized="Kanjaro provincija" languages="Lithuanian">Kanjaro provincija</name>
+		<name normalized="Kanar marka" languages="Quechua">Kañar marka</name>
+		<name normalized="Pentadbiran Canar" languages="Malay">Pentadbiran Cañar</name>
+		<name normalized="Provincia de Canar" languages="Spanish">Provincia de Cañar</name>
+		<name normalized="Provincia di Canar" languages="Italian">Provincia di Cañar</name>
+		<name normalized="Provinsi Canar" languages="Indonesian">Provinsi Cañar</name>
+		<name normalized="Provinz Canar" languages="German">Provinz Cañar</name>
+		<name normalized="Provincia de Canar" languages="Catalan">Província de Cañar</name>
+		<name normalized="Prowincja Canar" languages="Polish">Prowincja Cañar</name>
+		<name normalized="Kaньнiр" languages="biлaрuсkai (taрaskivita)‎">Каньняр</name>
+		<name normalized="Kaньiр" languages="Russian">Каньяр</name>
+		<name normalized="Kaнiр" languages="Bulgarian">Каняр</name>
+		<name normalized="Pрaviнtыi Kaньiр" languages="Belarusian">Правінцыя Каньяр</name>
+		<name normalized="sوbہ کאنאr" languages="Western Punjabi">صوبہ کانار</name>
+		<name normalized="კანიარის პროვინცია" languages="Georgian">კანიარის პროვინცია</name>
+		<name normalized="knyーr県" languages="Japanese">カニャール県</name>
+		<name normalized="卡尼亞爾省" languages="Chinese">卡尼亞爾省</name>
+	</region>
+	<region name="Carchi" type="province" typeTranslated="provincia">
+		<name normalized="Carchi" languages="Dutch;English;Esperanto;Finnish;French;Galician;Northern Sami;Norwegian (bokmal);official;Portuguese;Swedish;Waray">Carchi</name>
+		<name normalized="Carchi Province" languages="English;official;Scots">Carchi Province</name>
+		<name normalized="Carchi Provincia" languages="English;official">Carchi Provincia</name>
+		<name normalized="Carchi tartomany" languages="Hungarian">Carchi tartomány</name>
+		<name normalized="Karchi marka" languages="Quechua">Karchi marka</name>
+		<name normalized="Karcio provincija" languages="Lithuanian">Karčio provincija</name>
+		<name normalized="Pentadbiran Carchi" languages="Malay">Pentadbiran Carchi</name>
+		<name normalized="Provincia de Carchi" languages="Spanish">Provincia de Carchi</name>
+		<name normalized="Provincia del Carchi" languages="Italian">Provincia del Carchi</name>
+		<name normalized="Provinsi Carchi" languages="Indonesian">Provinsi Carchi</name>
+		<name normalized="Provinz Carchi" languages="German">Provinz Carchi</name>
+		<name normalized="Provincia de Carchi" languages="Catalan">Província de Carchi</name>
+		<name normalized="Prowincja Carchi" languages="Polish">Prowincja Carchi</name>
+		<name normalized="Kaрci" languages="Bulgarian;Russian">Карчи</name>
+		<name normalized="Kaрcы" languages="biлaрuсkai (taрaskivita)‎">Карчы</name>
+		<name normalized="Kaрci" languages="Ukrainian">Карчі</name>
+		<name normalized="Pрaviнtыi Kaрcы" languages="Belarusian">Правінцыя Карчы</name>
+		<name normalized="sوbہ کאrچی" languages="Western Punjabi">صوبہ کارچی</name>
+		<name normalized="კარჩის პროვინცია" languages="Georgian">კარჩის პროვინცია</name>
+		<name normalized="krt県" languages="Japanese">カルチ県</name>
+		<name normalized="卡尔奇省" languages="Chinese">卡尔奇省</name>
+	</region>
+	<region name="Chimborazo" type="province" typeTranslated="provincia">
+		<name normalized="Chimborazo" languages="Breton;Catalan;Dutch;English;Esperanto;Finnish;French;Galician;German;Indonesian;Luxembourgish;Northern Sami;Norwegian (bokmal);official;Portuguese;Slovak;Spanish;Swedish;Vietnamese;Waray">Chimborazo</name>
+		<name normalized="Chimborazo Province" languages="English;official;Scots">Chimborazo Province</name>
+		<name normalized="Chimborazo Provincia" languages="English;official">Chimborazo Provincia</name>
+		<name normalized="Chimborazo tartomany" languages="Hungarian">Chimborazo tartomány</name>
+		<name normalized="Chimpurasu marka" languages="Quechua">Chimpurasu marka</name>
+		<name normalized="Pentadbiran Chimborazo" languages="Malay">Pentadbiran Chimborazo</name>
+		<name normalized="Provincia de Chimborazo" languages="Spanish">Provincia de Chimborazo</name>
+		<name normalized="Provincia del Chimborazo" languages="Italian">Provincia del Chimborazo</name>
+		<name normalized="Provinsi Chimborazo" languages="Indonesian">Provinsi Chimborazo</name>
+		<name normalized="Provinz Chimborazo" languages="German">Provinz Chimborazo</name>
+		<name normalized="Provins Chimborazo" languages="Breton">Proviñs Chimborazo</name>
+		<name normalized="Provenz Chimborazo" languages="Luxembourgish">Provënz Chimborazo</name>
+		<name normalized="Provincia de Chimborazo" languages="Catalan">Província de Chimborazo</name>
+		<name normalized="Prowincja Chimborazo" languages="Polish">Prowincja Chimborazo</name>
+		<name normalized="Cimboraso provincija" languages="Lithuanian">Čimboraso provincija</name>
+		<name normalized="Pрaviнtыi Cымbaрaсa" languages="Belarusian">Правінцыя Чымбараса</name>
+		<name normalized="Ciмboрazo" languages="Macedonian">Чимборазо</name>
+		<name normalized="Ciмboрaсo" languages="Bulgarian;Russian">Чимборасо</name>
+		<name normalized="Cымbaрaсa" languages="biлaрuсkai (taрaskivita)‎">Чымбараса</name>
+		<name normalized="Ciмboрaсo" languages="Ukrainian">Чімборасо</name>
+		<name normalized="אسtאن چیmbوrאزو" languages="Persian">استان چیمبورازو</name>
+		<name normalized="sوbہ چmbوrאزو" languages="Western Punjabi">صوبہ چمبورازو</name>
+		<name normalized="ჩიმბორასოს პროვინცია" languages="Georgian">ჩიმბორასოს პროვინცია</name>
+		<name normalized="tnbrs県" languages="Japanese">チンボラソ県</name>
+		<name normalized="钦博拉索省" languages="Chinese">钦博拉索省</name>
+	</region>
+	<region name="Cotopaxi" type="province" typeTranslated="provincia">
+		<name normalized="Cotopaxi" languages="Bosnian;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Hungarian;Italian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Polish;Portuguese;Romanian;Serbo-Croatian;Simple English;Slovak;Slovenian;Swedish;Turkish;Vietnamese;Waray">Cotopaxi</name>
+		<name normalized="Cotopaxi Province" languages="English;official;Scots">Cotopaxi Province</name>
+		<name normalized="Cotopaxi Provincia" languages="English;official">Cotopaxi Provincia</name>
+		<name normalized="Cotopaxi tartomany" languages="Hungarian">Cotopaxi tartomány</name>
+		<name normalized="Gunung Cotopaxi" languages="Indonesian">Gunung Cotopaxi</name>
+		<name normalized="Kotopaksio provincija" languages="Lithuanian">Kotopaksio provincija</name>
+		<name normalized="Kotopaksis" languages="Lithuanian">Kotopaksis</name>
+		<name normalized="Kutupaksi" languages="Quechua">Kutupaksi</name>
+		<name normalized="Kutupaksi marka" languages="Quechua">Kutupaksi marka</name>
+		<name normalized="Pentadbiran Cotopaxi" languages="Malay">Pentadbiran Cotopaxi</name>
+		<name normalized="Provincia de Cotopaxi" languages="Spanish">Provincia de Cotopaxi</name>
+		<name normalized="Provincia del Cotopaxi" languages="Italian">Provincia del Cotopaxi</name>
+		<name normalized="Provinsi Cotopaxi" languages="Indonesian">Provinsi Cotopaxi</name>
+		<name normalized="Provinz Cotopaxi" languages="German">Provinz Cotopaxi</name>
+		<name normalized="Provincia de Cotopaxi" languages="Catalan">Província de Cotopaxi</name>
+		<name normalized="Prowincja Cotopaxi" languages="Polish">Prowincja Cotopaxi</name>
+		<name normalized="Volcan Cotopaxi" languages="Galician;Spanish">Volcán Cotopaxi</name>
+		<name normalized="Κοτοπαξι" languages="Greek">Κοτοπάξι</name>
+		<name normalized="Vuлkaн Katapaki" languages="Belarusian">Вулкан Катапахі</name>
+		<name normalized="Katapakсi" languages="biлaрuсkai (taрaskivita)‎">Катапаксі</name>
+		<name normalized="Kotopakсi" languages="Bulgarian;Macedonian;Serbian">Котопакси</name>
+		<name normalized="Kotopaki" languages="Russian">Котопахи</name>
+		<name normalized="Kotopaki" languages="Ukrainian">Котопахі</name>
+		<name normalized="Pрaviнtыi Katapakсi" languages="Belarusian">Правінцыя Катапаксі</name>
+		<name normalized="qvtvpqסי" languages="Hebrew">קוטופקסי</name>
+		<name normalized="אسtאن کوtوpאکسی" languages="Persian">استان کوتوپاکسی</name>
+		<name normalized="sوbہ کوtوpאکسی" languages="Western Punjabi">صوبہ کوتوپاکسی</name>
+		<name normalized="کوtوpאکسی" languages="Persian">کوتوپاکسی</name>
+		<name normalized="ภูเขาไฟโกโตปักซี" languages="Thai">ภูเขาไฟโกโตปักซี</name>
+		<name normalized="კოტოპახი" languages="Georgian">კოტოპახი</name>
+		<name normalized="კოტოპახის პროვინცია" languages="Georgian">კოტოპახის პროვინცია</name>
+		<name normalized="ktpks山" languages="Japanese">コトパクシ山</name>
+		<name normalized="ktpks県" languages="Japanese">コトパクシ県</name>
+		<name normalized="科托帕希峰" languages="Chinese">科托帕希峰</name>
+		<name normalized="科托帕希省" languages="Chinese">科托帕希省</name>
+		<name normalized="코토팍시 산" languages="Korean">코토팍시 산</name>
+	</region>
+	<region name="El Oro" type="province" typeTranslated="provincia">
+		<name normalized="El Oro" languages="Dutch;English;Esperanto;Finnish;French;German;Northern Sami;Norwegian (bokmal);official;Portuguese;Scots;Spanish;Swedish;Waray">El Oro</name>
+		<name normalized="El Oro Province" languages="English;official;Scots">El Oro Province</name>
+		<name normalized="El Oro Provincia" languages="English;official">El Oro Provincia</name>
+		<name normalized="El Oro provincija" languages="Lithuanian">El Oro provincija</name>
+		<name normalized="El Oro tartomany" languages="Hungarian">El Oro tartomány</name>
+		<name normalized="Kuri marka" languages="Quechua">Kuri marka</name>
+		<name normalized="Pentadbiran El Oro" languages="Malay">Pentadbiran El Oro</name>
+		<name normalized="Provincia de El Oro" languages="Spanish">Provincia de El Oro</name>
+		<name normalized="Provincia di El Oro" languages="Italian">Provincia di El Oro</name>
+		<name normalized="Provinsi El Oro" languages="Indonesian">Provinsi El Oro</name>
+		<name normalized="Provinz El Oro" languages="German">Provinz El Oro</name>
+		<name normalized="Provincia d'El Oro" languages="Catalan">Província d'El Oro</name>
+		<name normalized="Prowincja El Oro" languages="Polish">Prowincja El Oro</name>
+		<name normalized="Iл Oрo" languages="Bulgarian">Ел Оро</name>
+		<name normalized="Pрaviнtыi Eль-Oрa" languages="Belarusian">Правінцыя Эль-Ора</name>
+		<name normalized="Eль-Oрa" languages="biлaрuсkai (taрaskivita)‎">Эль-Ора</name>
+		<name normalized="Eль-Oрo" languages="Russian">Эль-Оро</name>
+		<name normalized="אسtאن אل אوrو" languages="Persian">استان ال اورو</name>
+		<name normalized="sوbہ אیل אوrو" languages="Western Punjabi">صوبہ ایل اورو</name>
+		<name normalized="ელ-ოროს პროვინცია" languages="Georgian">ელ-ოროს პროვინცია</name>
+		<name normalized="er・or県" languages="Japanese">エル・オロ県</name>
+		<name normalized="埃爾奧羅省" languages="Chinese">埃爾奧羅省</name>
+	</region>
+	<region name="Esmeraldas" type="province" typeTranslated="provincia">
+		<name normalized="Esmeraldas" languages="Dutch;English;Esperanto;Estonian;Finnish;French;German;Italian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Quechua;Romanian;Slovak;Spanish;Swedish;Vietnamese;Waray">Esmeraldas</name>
+		<name normalized="Esmeraldas marka" languages="Quechua">Esmeraldas marka</name>
+		<name normalized="Esmeraldas Province" languages="English;official;Scots">Esmeraldas Province</name>
+		<name normalized="Esmeraldas Provincia" languages="English;official">Esmeraldas Provincia</name>
+		<name normalized="Esmeraldas tartomany" languages="Hungarian">Esmeraldas tartomány</name>
+		<name normalized="Esmeraldasas" languages="Lithuanian">Esmeraldasas</name>
+		<name normalized="Esmeraldaso provincija" languages="Lithuanian">Esmeraldaso provincija</name>
+		<name normalized="Pentadbiran Esmeraldas" languages="Malay">Pentadbiran Esmeraldas</name>
+		<name normalized="Provincia de Esmeraldas" languages="Spanish">Provincia de Esmeraldas</name>
+		<name normalized="Provincia di Esmeraldas" languages="Italian">Provincia di Esmeraldas</name>
+		<name normalized="Provinco Esmeraldas" languages="Esperanto">Provinco Esmeraldas</name>
+		<name normalized="Provinsi Esmeraldas" languages="Indonesian">Provinsi Esmeraldas</name>
+		<name normalized="Provinz Esmeraldas" languages="German">Provinz Esmeraldas</name>
+		<name normalized="Provincia d'Esmeraldas" languages="Catalan">Província d'Esmeraldas</name>
+		<name normalized="Prowincja Esmeraldas" languages="Polish">Prowincja Esmeraldas</name>
+		<name normalized="Εσμεραλδας" languages="Greek">Εσμεράλδας</name>
+		<name normalized="Goрad Eсмiрaльdaс" languages="Belarusian">Горад Эсмеральдас</name>
+		<name normalized="Iсмiрaлdaс" languages="Bulgarian">Есмералдас</name>
+		<name normalized="Pрaviнtыi Eсмiрaльdaс" languages="Belarusian">Правінцыя Эсмеральдас</name>
+		<name normalized="Ezмeрaльdaс" languages="biлaрuсkai (taрaskivita)‎">Эзмэральдас</name>
+		<name normalized="Eсмiрaльdaс" languages="Russian">Эсмеральдас</name>
+		<name normalized="אیسmیrאلدאس" languages="Western Punjabi">ایسمیرالداس</name>
+		<name normalized="sوbہ אیسmیrאلدאس" languages="Western Punjabi">صوبہ ایسمیرالداس</name>
+		<name normalized="ესმერალდასის პროვინცია" languages="Georgian">ესმერალდასის პროვინცია</name>
+		<name normalized="esmrrds県" languages="Japanese">エスメラルダス県</name>
+		<name normalized="埃斯梅拉达斯省" languages="Chinese">埃斯梅拉达斯省</name>
+		<name normalized="埃斯梅拉達斯" languages="Chinese">埃斯梅拉達斯</name>
+		<name normalized="에스메랄다스" languages="Korean">에스메랄다스</name>
+	</region>
+	<region name="Galapagos" type="province" typeTranslated="provincia">
+		<name normalized="Galapagai" languages="Lithuanian">Galapagai</name>
+		<name normalized="Galapagoak" languages="Basque">Galapagoak</name>
+		<name normalized="Galapagoj" languages="Esperanto">Galapagoj</name>
+		<name normalized="Galapagos" languages="English;official;Polish;Sicilian;Swahili">Galapagos</name>
+		<name normalized="Galapagos Adaları" languages="Turkish">Galapagos Adaları</name>
+		<name normalized="Galapagos Province" languages="English;official">Galapagos Province</name>
+		<name normalized="Galapagos Provincia" languages="English;official">Galapagos Provincia</name>
+		<name normalized="Galapagoseilanden" languages="Dutch">Galapagoseilanden</name>
+		<name normalized="Galapagosinseln" languages="German">Galapagosinseln</name>
+		<name normalized="Galapagoska ostrva" languages="Bosnian">Galapagoska ostrva</name>
+		<name normalized="Galapagosoyggjar" languages="Faroese">Galapagosoyggjar</name>
+		<name normalized="Galapagu salas" languages="Latvian">Galapagu salas</name>
+		<name normalized="Galapagu provincija" languages="Lithuanian">Galapagų provincija</name>
+		<name normalized="Galapaski otoki" languages="Slovenian">Galapaški otoki</name>
+		<name normalized="Galapagy" languages="Czech;Slovak">Galapágy</name>
+		<name normalized="Galapagos" languages="Dutch;Italian;Occitan;Portuguese;Swedish;Waray">Galápagos</name>
+		<name normalized="Galapagos Islands" languages="English;Simple English">Galápagos Islands</name>
+		<name normalized="Galapagos Kun-to" languages="Chinese (Min Nan)">Galápagos Kûn-tó</name>
+		<name normalized="Galapagos Province" languages="English;Scots">Galápagos Province</name>
+		<name normalized="Galapagos-eilande" languages="Afrikaans">Galápagos-eilande</name>
+		<name normalized="Galapagos-Inseln" languages="Low German">Galápagos-Inseln</name>
+		<name normalized="Galapagos-szigetek" languages="Hungarian">Galápagos-szigetek</name>
+		<name normalized="Galapagose saared" languages="Estonian">Galápagose saared</name>
+		<name normalized="Galapagoseyjar" languages="Icelandic">Galápagoseyjar</name>
+		<name normalized="Galapagosinselen" languages="Luxembourgish">Galápagosinselen</name>
+		<name normalized="Galapagossaaret" languages="Finnish">Galápagossaaret</name>
+		<name normalized="Galapagosoarna" languages="Swedish">Galápagosöarna</name>
+		<name normalized="Galapagosoerne" languages="Danish">Galápagosøerne</name>
+		<name normalized="Galapagosoyane" languages="Norwegian Nynorsk">Galápagosøyane</name>
+		<name normalized="Galapagosoyene" languages="Norwegian (bokmal)">Galápagosøyene</name>
+		<name normalized="Illas Galapagos" languages="Galician">Illas Galápagos</name>
+		<name normalized="Illes Galapagos" languages="Catalan">Illes Galápagos</name>
+		<name normalized="Inizi Galapagos" languages="Breton">Inizi Galápagos</name>
+		<name normalized="Insulae Galapagenses" languages="Latin">Insulae Galapagenses</name>
+		<name normalized="Insulele Galapagos" languages="Romanian">Insulele Galápagos</name>
+		<name normalized="Ishujt Galapagos" languages="Albanian">Ishujt Galapagos</name>
+		<name normalized="Islas Galapagos" languages="Aragonese">Islas Galapagos</name>
+		<name normalized="Islas Galapagos" languages="Spanish">Islas Galápagos</name>
+		<name normalized="Kapuloan Galapagos" languages="Javanese">Kapuloan Galápagos</name>
+		<name normalized="Kapuluan ng Galapagos" languages="Tagalog">Kapuluan ng Galapagos</name>
+		<name normalized="Kapuropod-an Galapagos" languages="Waray">Kapuropod-an Galápagos</name>
+		<name normalized="Kepulauan Galapagos" languages="Indonesian;Malay">Kepulauan Galápagos</name>
+		<name normalized="Moutere Galapagos" languages="Maori">Moutere Galápagos</name>
+		<name normalized="Oileain Ghalapagos" languages="Irish">Oileáin Ghalápagos</name>
+		<name normalized="Otocje Galapagos" languages="Croatian;Serbo-Croatian">Otočje Galápagos</name>
+		<name normalized="Pentadbiran Galapagos" languages="Malay">Pentadbiran Galápagos</name>
+		<name normalized="Province de Galapagos" languages="French">Province de Galápagos</name>
+		<name normalized="Provincia de Galapagos" languages="Spanish">Provincia de Galápagos</name>
+		<name normalized="Provincia delle Galapagos" languages="Italian">Provincia delle Galápagos</name>
+		<name normalized="Provincia Galapagos" languages="Romanian">Provincia Galápagos</name>
+		<name normalized="Provinsi Galapagos" languages="Indonesian">Provinsi Galápagos</name>
+		<name normalized="Provinz Galapagos" languages="German">Provinz Galápagos</name>
+		<name normalized="Provins Galapagos" languages="Breton">Proviñs Galápagos</name>
+		<name normalized="Provincia de Galapagos" languages="Catalan">Província de Galápagos</name>
+		<name normalized="Prowincja Galapagos" languages="Polish">Prowincja Galápagos</name>
+		<name normalized="Qalapaqos adaları" languages="Azerbaijani">Qalapaqos adaları</name>
+		<name normalized="Quan dao Galapagos" languages="Vietnamese">Quần đảo Galápagos</name>
+		<name normalized="Yawatisuyu" languages="Quechua">Yawatisuyu</name>
+		<name normalized="Ynysoedd y Galapagos" languages="Welsh">Ynysoedd y Galapagos</name>
+		<name normalized="Iles Galapagos" languages="French">Îles Galápagos</name>
+		<name normalized="Νησια Γκαλαπαγκος" languages="Greek">Νησιά Γκαλαπάγκος</name>
+		<name normalized="Gaлapagaс" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Галапагас</name>
+		<name normalized="Gaлapagoс" languages="Macedonian;Russian;Serbian;Ukrainian">Галапагос</name>
+		<name normalized="Gaлapagoсki oсtрovi" languages="Bulgarian">Галапагоски острови</name>
+		<name normalized="Gaлapagoссkii oсtрova" languages="Russian">Галапагосские острова</name>
+		<name normalized="Gaлapagoсьki oсtрovi" languages="Ukrainian">Галапагоські острови</name>
+		<name normalized="Pрaviнtыi Gaлapagoс" languages="Belarusian">Правінцыя Галапагос</name>
+		<name normalized="Գաlաpագvsյան kղzինեr" languages="Armenian">Գալապագոսյան կղզիներ</name>
+		<name normalized="איי גדאpגvס" languages="Hebrew">איי גלאפגוס</name>
+		<name normalized="أrخbyل غאلאbאغوس" languages="Arabic">أرخبيل غالاباغوس</name>
+		<name normalized="jزאئr gאلאpאgوز" languages="Urdu">جزائر گالاپاگوز</name>
+		<name normalized="jزאئr gאلאpאgوس" languages="Western Punjabi">جزائر گالاپاگوس</name>
+		<name normalized="sوbہ gאلאpאgوس" languages="Western Punjabi">صوبہ گالاپاگوس</name>
+		<name normalized="gאلאpאgوس" languages="Persian">گالاپاگوس</name>
+		<name normalized="ގަލާޕެގޮސް އައިލެންޑްސް" languages="Divehi">ގަލާޕެގޮސް އައިލެންޑްސް</name>
+		<name normalized="gाlाpाgos d्vipsmuh" languages="Marathi">गालापागोस द्वीपसमूह</name>
+		<name normalized="galाpाgos d्vipsmuh" languages="Hindi">गैलापागोस द्वीपसमूह</name>
+		<name normalized="galाpाgos p्rांt" languages="Hindi">गैलापागोस प्रांत</name>
+		<name normalized="gাlাpাgos d্bippun্j" languages="Bengali">গালাপাগোস দ্বীপপুঞ্জ</name>
+		<name normalized="கலாபகசுத் தீவுகள்" languages="Tamil">கலாபகசுத் தீவுகள்</name>
+		<name normalized="ഗാലപ്പഗോസ് ദ്വീപുകൾ" languages="Malayalam">ഗാലപ്പഗോസ് ദ്വീപുകൾ</name>
+		<name normalized="หมู่เกาะกาลาปาโกส" languages="Thai">หมู่เกาะกาลาปาโกส</name>
+		<name normalized="ဂါလာပါဂိုးကျွန်းများ" languages="Burmese">ဂါလာပါဂိုးကျွန်းများ</name>
+		<name normalized="გალაპაგოსის კუნძულები" languages="Georgian">გალაპაგოსის კუნძულები</name>
+		<name normalized="გალაპაგოსის პროვინცია" languages="Georgian">გალაპაგოსის პროვინცია</name>
+		<name normalized="grpgs諸島" languages="Japanese">ガラパゴス諸島</name>
+		<name normalized="加拉帕戈斯省" languages="Chinese">加拉帕戈斯省</name>
+		<name normalized="科隆群岛" languages="Chinese">科隆群岛</name>
+		<name normalized="갈라파고스 제도" languages="Korean">갈라파고스 제도</name>
+		<name normalized="갈라파고스 주" languages="Korean">갈라파고스 주</name>
+	</region>
+	<region name="Guayas" type="province" typeTranslated="provincia">
+		<name normalized="Guajaso provincija" languages="Lithuanian">Guajaso provincija</name>
+		<name normalized="Guayas" languages="Dutch;English;Esperanto;Finnish;Galician;Northern Sami;Norwegian (bokmal);official;Portuguese;Swedish;Turkish;Waray">Guayas</name>
+		<name normalized="Guayas Province" languages="English;official;Scots">Guayas Province</name>
+		<name normalized="Guayas Provincia" languages="English;official">Guayas Provincia</name>
+		<name normalized="Guayas tartomany" languages="Hungarian">Guayas tartomány</name>
+		<name normalized="Pentadbiran Guayas" languages="Malay">Pentadbiran Guayas</name>
+		<name normalized="Province du Guayas" languages="French">Province du Guayas</name>
+		<name normalized="Provincia del Guayas" languages="Italian;Spanish">Provincia del Guayas</name>
+		<name normalized="Provinsi Guayas" languages="Indonesian">Provinsi Guayas</name>
+		<name normalized="Provinz Guayas" languages="German">Provinz Guayas</name>
+		<name normalized="Provincia del Guayas" languages="Catalan">Província del Guayas</name>
+		<name normalized="Prowincja Guayas" languages="Polish">Prowincja Guayas</name>
+		<name normalized="Wayas marka" languages="Quechua">Wayas marka</name>
+		<name normalized="Guaiс" languages="Bulgarian;Russian;biлaрuсkai (taрaskivita)‎">Гуаяс</name>
+		<name normalized="Pрaviнtыi Guaiс" languages="Belarusian">Правінцыя Гуаяс</name>
+		<name normalized="sوbہ gوآیאس" languages="Western Punjabi">صوبہ گوآیاس</name>
+		<name normalized="გუაიასის პროვინცია" languages="Georgian">გუაიასის პროვინცია</name>
+		<name normalized="gays県" languages="Japanese">グアヤス県</name>
+		<name normalized="瓜亚斯省" languages="Chinese">瓜亚斯省</name>
+	</region>
+	<region name="Imbabura" type="province" typeTranslated="provincia">
+		<name normalized="Imbabura" languages="Catalan;Dutch;English;Esperanto;Finnish;French;Galician;German;Italian;Northern Sami;Norwegian (bokmal);official;Portuguese;Slovak;Spanish;Swedish;Vietnamese;Waray">Imbabura</name>
+		<name normalized="Imbabura Province" languages="English;official;Scots">Imbabura Province</name>
+		<name normalized="Imbabura Provincia" languages="English;official">Imbabura Provincia</name>
+		<name normalized="Imbabura tartomany" languages="Hungarian">Imbabura tartomány</name>
+		<name normalized="Imbaburos provincija" languages="Lithuanian">Imbaburos provincija</name>
+		<name normalized="Impapura marka" languages="Quechua">Impapura marka</name>
+		<name normalized="Pentadbiran Imbabura" languages="Malay">Pentadbiran Imbabura</name>
+		<name normalized="Provincia de Imbabura" languages="Spanish">Provincia de Imbabura</name>
+		<name normalized="Provincia dell'Imbabura" languages="Italian">Provincia dell'Imbabura</name>
+		<name normalized="Provinsi Imbabura" languages="Indonesian">Provinsi Imbabura</name>
+		<name normalized="Provinz Imbabura" languages="German">Provinz Imbabura</name>
+		<name normalized="Provincia d'Imbabura" languages="Catalan">Província d'Imbabura</name>
+		<name normalized="Prowincja Imbabura" languages="Polish">Prowincja Imbabura</name>
+		<name normalized="Iмbabuрa" languages="Bulgarian;Russian">Имбабура</name>
+		<name normalized="Pрaviнtыi Iмbabuрa" languages="Belarusian">Правінцыя Імбабура</name>
+		<name normalized="Iмbabuрa" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Імбабура</name>
+		<name normalized="sوbہ אmbאbوrא" languages="Western Punjabi">صوبہ امبابورا</name>
+		<name normalized="იმბაბურის პროვინცია" languages="Georgian">იმბაბურის პროვინცია</name>
+		<name normalized="inbbーr県" languages="Japanese">インバブーラ県</name>
+		<name normalized="因巴布拉省" languages="Chinese">因巴布拉省</name>
+	</region>
+	<region name="Loja" type="province" typeTranslated="provincia">
+		<name normalized="Locha" languages="Lithuanian">Locha</name>
+		<name normalized="Lochos provincija" languages="Lithuanian">Lochos provincija</name>
+		<name normalized="Loja" languages="Bosnian;Catalan;Croatian;Dutch;English;Esperanto;Finnish;French;German;Italian;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Quechua;Romanian;Slovak;Spanish;Swedish;Volapuk;Waray">Loja</name>
+		<name normalized="Loja marka" languages="Quechua">Loja marka</name>
+		<name normalized="Loja Province" languages="English;official">Loja Province</name>
+		<name normalized="Loja Provincia" languages="English;official">Loja Provincia</name>
+		<name normalized="Loja tartomany" languages="Hungarian">Loja tartomány</name>
+		<name normalized="Pentadbiran Loja" languages="Malay">Pentadbiran Loja</name>
+		<name normalized="Province de Loja" languages="French">Province de Loja</name>
+		<name normalized="Provincia de Loja" languages="Spanish">Provincia de Loja</name>
+		<name normalized="Provincia di Loja" languages="Italian">Provincia di Loja</name>
+		<name normalized="Provinsi Loja" languages="Indonesian">Provinsi Loja</name>
+		<name normalized="Provinz Loja" languages="German">Provinz Loja</name>
+		<name normalized="Provincia de Loja" languages="Catalan">Província de Loja</name>
+		<name normalized="Prowincja Loja" languages="Polish">Prowincja Loja</name>
+		<name normalized="Лoka" languages="Bulgarian;Russian;biлaрuсkai (taрaskivita)‎">Лоха</name>
+		<name normalized="Pрaviнtыi Лoka" languages="Belarusian">Правінцыя Лоха</name>
+		<name normalized="sوbہ لوjא" languages="Western Punjabi">صوبہ لوجا</name>
+		<name normalized="لوjא" languages="Western Punjabi">لوجا</name>
+		<name normalized="ლოხის პროვინცია" languages="Georgian">ლოხის პროვინცია</name>
+		<name normalized="洛哈" languages="Chinese">洛哈</name>
+		<name normalized="洛哈省" languages="Chinese">洛哈省</name>
+	</region>
+	<region name="Los Rios" type="province" typeTranslated="provincia">
+		<name normalized="Los Rios" languages="English;official">Los Rios</name>
+		<name normalized="Los Rios Province" languages="English;official">Los Rios Province</name>
+		<name normalized="Los Rios Provincia" languages="English;official">Los Rios Provincia</name>
+		<name normalized="Los Rioso provincija" languages="Lithuanian">Los Rioso provincija</name>
+		<name normalized="Los Rios" languages="Dutch;English;Esperanto;Finnish;French;Italian;Norwegian (bokmal);Portuguese;Scots;Swedish;Vietnamese;Waray">Los Ríos</name>
+		<name normalized="Los Rios Province" languages="English;Scots">Los Ríos Province</name>
+		<name normalized="Los Rios tartomany" languages="Hungarian">Los Ríos tartomány</name>
+		<name normalized="Mayukuna marka" languages="Quechua">Mayukuna marka</name>
+		<name normalized="Pentadbiran Los Rios" languages="Malay">Pentadbiran Los Ríos</name>
+		<name normalized="Provincia de Los Rios" languages="Spanish">Provincia de Los Ríos</name>
+		<name normalized="Provincia di Los Rios" languages="Italian">Provincia di Los Ríos</name>
+		<name normalized="Provinsi Los Rios" languages="Indonesian">Provinsi Los Ríos</name>
+		<name normalized="Provinz Los Rios" languages="German">Provinz Los Ríos</name>
+		<name normalized="Provincia de Los Rios" languages="Catalan">Província de Los Ríos</name>
+		<name normalized="Prowincja Los Rios" languages="Polish">Prowincja Los Ríos</name>
+		<name normalized="Лoс Рioс" languages="Bulgarian">Лос Риос</name>
+		<name normalized="Лoс-Рioс" languages="Russian">Лос-Риос</name>
+		<name normalized="Лoс-Рыiс" languages="biлaрuсkai (taрaskivita)‎">Лос-Рыяс</name>
+		<name normalized="Pрaviнtыi Лoс-Рыiс" languages="Belarusian">Правінцыя Лос-Рыяс</name>
+		<name normalized="sوbہ لאس rیؤس" languages="Western Punjabi">صوبہ لاس ریؤس</name>
+		<name normalized="ლოს-რიოსის პროვინცია" languages="Georgian">ლოს-რიოსის პროვინცია</name>
+		<name normalized="洛斯里奧斯省" languages="Chinese">洛斯里奧斯省</name>
+		<name normalized="로스리오스" languages="Korean">로스리오스</name>
+	</region>
+	<region name="Manabi" type="province" typeTranslated="provincia">
+		<name normalized="Manabi" languages="English;official">Manabi</name>
+		<name normalized="Manabi Province" languages="English;official">Manabi Province</name>
+		<name normalized="Manabi Provincia" languages="English;official">Manabi Provincia</name>
+		<name normalized="Manabi provincija" languages="Lithuanian">Manabi provincija</name>
+		<name normalized="Manabi" languages="Dutch;English;Esperanto;Finnish;French;Norwegian (bokmal);Portuguese;Slovak;Swedish;Waray">Manabí</name>
+		<name normalized="Manabi Province" languages="English;Scots">Manabí Province</name>
+		<name normalized="Manabi tartomany" languages="Hungarian">Manabí tartomány</name>
+		<name normalized="Manawi marka" languages="Quechua">Manawi marka</name>
+		<name normalized="Pentadbiran Manabi" languages="Malay">Pentadbiran Manabí</name>
+		<name normalized="Provincia de Manabi" languages="Spanish">Provincia de Manabí</name>
+		<name normalized="Provincia di Manabi" languages="Italian">Provincia di Manabí</name>
+		<name normalized="Provinsi Manabi" languages="Indonesian">Provinsi Manabí</name>
+		<name normalized="Provinz Manabi" languages="German">Provinz Manabí</name>
+		<name normalized="Provincia de Manabi" languages="Catalan">Província de Manabí</name>
+		<name normalized="Prowincja Manabi" languages="Polish">Prowincja Manabí</name>
+		<name normalized="Мaнabi" languages="Bulgarian;Russian">Манаби</name>
+		<name normalized="Мaнabi" languages="biлaрuсkai (taрaskivita)‎">Манабі</name>
+		<name normalized="Pрaviнtыi Мaнabi" languages="Belarusian">Правінцыя Манабі</name>
+		<name normalized="sوbہ mאنאbی" languages="Western Punjabi">صوبہ مانابی</name>
+		<name normalized="მანაბის პროვინცია" languages="Georgian">მანაბის პროვინცია</name>
+		<name normalized="马纳比省" languages="Chinese">马纳比省</name>
+	</region>
+	<region name="Morona-Santiago" type="province" typeTranslated="provincia">
+		<name normalized="Morona Santiago" languages="Northern Sami;Norwegian (bokmal);Swedish;Waray">Morona Santiago</name>
+		<name normalized="Morona Santiago marka" languages="Quechua">Morona Santiago marka</name>
+		<name normalized="Morona Santiago tartomany" languages="Hungarian">Morona Santiago tartomány</name>
+		<name normalized="Morona Santjago provincija" languages="Lithuanian">Morona Santjago provincija</name>
+		<name normalized="Morona-Santiago" languages="Dutch;English;Esperanto;Finnish;French;official;Portuguese">Morona-Santiago</name>
+		<name normalized="Morona-Santiago Province" languages="English;official">Morona-Santiago Province</name>
+		<name normalized="Morona-Santiago Provincia" languages="English;official">Morona-Santiago Provincia</name>
+		<name normalized="Provincia de Morona Santiago" languages="Spanish">Provincia de Morona Santiago</name>
+		<name normalized="Provincia di Morona-Santiago" languages="Italian">Provincia di Morona-Santiago</name>
+		<name normalized="Provinsi Morona-Santiago" languages="Indonesian">Provinsi Morona-Santiago</name>
+		<name normalized="Provinz Morona Santiago" languages="German">Provinz Morona Santiago</name>
+		<name normalized="Provincia de Morona-Santiago" languages="Catalan">Província de Morona-Santiago</name>
+		<name normalized="Prowincja Morona-Santiago" languages="Polish">Prowincja Morona-Santiago</name>
+		<name normalized="Мaрoнa-Сaнt'iґa" languages="biлaрuсkai (taрaskivita)‎">Марона-Сант'яґа</name>
+		<name normalized="Мoрoнa Сaнtigo" languages="Bulgarian">Морона Сантяго</name>
+		<name normalized="Мoрoнa-Сaнtьigo" languages="Russian">Морона-Сантьяго</name>
+		<name normalized="Pрaviнtыi Мaрoнa-Сaнt'iga" languages="Belarusian">Правінцыя Марона-Сант'яга</name>
+		<name normalized="sوbہ mوrونא سאنtیאgو" languages="Western Punjabi">صوبہ مورونا سانتیاگو</name>
+		<name normalized="მორონა-სანტიაგოს პროვინცია" languages="Georgian">მორონა-სანტიაგოს პროვინცია</name>
+		<name normalized="莫罗纳-圣地亚哥省" languages="Chinese">莫罗纳-圣地亚哥省</name>
+	</region>
+	<region name="Napo" type="province" typeTranslated="provincia">
+		<name normalized="Napo" languages="Dutch;English;Esperanto;Finnish;French;Northern Sami;Norwegian (bokmal);official;Portuguese;Swedish;Waray">Napo</name>
+		<name normalized="Napo Province" languages="English;official;Scots">Napo Province</name>
+		<name normalized="Napo Provincia" languages="English;official">Napo Provincia</name>
+		<name normalized="Napo provincija" languages="Lithuanian">Napo provincija</name>
+		<name normalized="Napo tartomany" languages="Hungarian">Napo tartomány</name>
+		<name normalized="Napoprovinsen" languages="Norwegian Nynorsk">Napoprovinsen</name>
+		<name normalized="Napu marka" languages="Quechua">Napu marka</name>
+		<name normalized="Pentadbiran Napo" languages="Malay">Pentadbiran Napo</name>
+		<name normalized="Provincia de Napo" languages="Spanish">Provincia de Napo</name>
+		<name normalized="Provincia del Napo" languages="Italian">Provincia del Napo</name>
+		<name normalized="Provincia Napo" languages="Romanian">Provincia Napo</name>
+		<name normalized="Provinsi Napo" languages="Indonesian">Provinsi Napo</name>
+		<name normalized="Provinz Napo" languages="German">Provinz Napo</name>
+		<name normalized="Provincia de Napo" languages="Catalan">Província de Napo</name>
+		<name normalized="Prowincja Napo" languages="Polish">Prowincja Napo</name>
+		<name normalized="Нapa" languages="biлaрuсkai (taрaskivita)‎">Напа</name>
+		<name normalized="Нapo" languages="Bulgarian;Russian;Ukrainian">Напо</name>
+		<name normalized="Pрaviнtыi Нapa" languages="Belarusian">Правінцыя Напа</name>
+		<name normalized="sوbہ نאpو" languages="Western Punjabi">صوبہ ناپو</name>
+		<name normalized="ნაპოს პროვინცია" languages="Georgian">ნაპოს პროვინცია</name>
+		<name normalized="np県" languages="Japanese">ナポ県</name>
+		<name normalized="纳波省" languages="Chinese">纳波省</name>
+	</region>
+	<region name="Orellana" type="province" typeTranslated="provincia">
+		<name normalized="Oreljanos provincija" languages="Lithuanian">Oreljanos provincija</name>
+		<name normalized="Orellana" languages="Catalan;Dutch;English;Esperanto;Finnish;French;German;Northern Sami;Norwegian (bokmal);official;Portuguese;Spanish;Swedish;Waray">Orellana</name>
+		<name normalized="Orellana marka" languages="Quechua">Orellana marka</name>
+		<name normalized="Orellana Province" languages="English;official">Orellana Province</name>
+		<name normalized="Orellana Provincia" languages="English;official">Orellana Provincia</name>
+		<name normalized="Orellana tartomany" languages="Hungarian">Orellana tartomány</name>
+		<name normalized="Orellanaprovinsen" languages="Norwegian Nynorsk">Orellanaprovinsen</name>
+		<name normalized="Pentadbiran Orellana" languages="Malay">Pentadbiran Orellana</name>
+		<name normalized="Provincia de Orellana" languages="Spanish">Provincia de Orellana</name>
+		<name normalized="Provincia di Orellana" languages="Italian">Provincia di Orellana</name>
+		<name normalized="Provinsi Orellana" languages="Indonesian">Provinsi Orellana</name>
+		<name normalized="Provinz Orellana" languages="German">Provinz Orellana</name>
+		<name normalized="Provincia d'Orellana" languages="Catalan">Província d'Orellana</name>
+		<name normalized="Prowincja Orellana" languages="Polish">Prowincja Orellana</name>
+		<name normalized="Aрeльлiнa" languages="biлaрuсkai (taрaskivita)‎">Арэльляна</name>
+		<name normalized="Oрiльiнa" languages="Russian">Орельяна</name>
+		<name normalized="Oрiлiнa" languages="Bulgarian">Ореляна</name>
+		<name normalized="Pрaviнtыi Aрeльiнa" languages="Belarusian">Правінцыя Арэльяна</name>
+		<name normalized="sوbہ אوrیلאنא" languages="Western Punjabi">صوبہ اوریلانا</name>
+		<name normalized="ორელიანას პროვინცია" languages="Georgian">ორელიანას პროვინცია</name>
+		<name normalized="奥雷亚纳省" languages="Chinese">奥雷亚纳省</name>
+	</region>
+	<region name="Pastaza" type="province" typeTranslated="provincia">
+		<name normalized="Pastasa marka" languages="Quechua">Pastasa marka</name>
+		<name normalized="Pastasos provincija" languages="Lithuanian">Pastasos provincija</name>
+		<name normalized="Pastaza" languages="Dutch;English;Esperanto;Finnish;French;Northern Sami;Norwegian (bokmal);official;Portuguese;Spanish;Swedish;Waray">Pastaza</name>
+		<name normalized="Pastaza Province" languages="English;official">Pastaza Province</name>
+		<name normalized="Pastaza Provincia" languages="English;official">Pastaza Provincia</name>
+		<name normalized="Pastazaprovinsen" languages="Norwegian Nynorsk">Pastazaprovinsen</name>
+		<name normalized="Pentadbiran Pastaza" languages="Malay">Pentadbiran Pastaza</name>
+		<name normalized="Provincia de Pastaza" languages="Spanish">Provincia de Pastaza</name>
+		<name normalized="Provincia del Pastaza" languages="Italian">Provincia del Pastaza</name>
+		<name normalized="Provincia Pastaza" languages="Romanian">Provincia Pastaza</name>
+		<name normalized="Provinsi Pastaza" languages="Indonesian">Provinsi Pastaza</name>
+		<name normalized="Provinz Pastaza" languages="German">Provinz Pastaza</name>
+		<name normalized="Provins Pastaza" languages="Breton">Proviñs Pastaza</name>
+		<name normalized="Provincia de Pastaza" languages="Catalan">Província de Pastaza</name>
+		<name normalized="Prowincja Pastaza" languages="Polish">Prowincja Pastaza</name>
+		<name normalized="Paсtaсa" languages="Bulgarian;Russian;biлaрuсkai (taрaskivita)‎">Пастаса</name>
+		<name normalized="Pрaviнtыi Paсtaсa" languages="Belarusian">Правінцыя Пастаса</name>
+		<name normalized="sوbہ pאسtאزא" languages="Western Punjabi">صوبہ پاستازا</name>
+		<name normalized="პასტასის პროვინცია" languages="Georgian">პასტასის პროვინცია</name>
+		<name normalized="psts県" languages="Japanese">パスタサ県</name>
+		<name normalized="帕斯塔薩省" languages="Chinese">帕斯塔薩省</name>
+	</region>
+	<region name="Pichincha" type="province" typeTranslated="provincia">
+		<name normalized="Pichincha" languages="Dutch;English;Finnish;Northern Sami;Norwegian (bokmal);official;Portuguese;Swedish;Waray">Pichincha</name>
+		<name normalized="Pichincha ili" languages="Turkish">Pichincha ili</name>
+		<name normalized="Pichincha marka" languages="Quechua">Pichincha marka</name>
+		<name normalized="Pichincha Province" languages="English;official;Scots">Pichincha Province</name>
+		<name normalized="Pichincha Provincia" languages="English;official">Pichincha Provincia</name>
+		<name normalized="Pichincha tartomany" languages="Hungarian">Pichincha tartomány</name>
+		<name normalized="Picincos provincija" languages="Lithuanian">Pičinčos provincija</name>
+		<name normalized="Province de Pichincha" languages="French">Province de Pichincha</name>
+		<name normalized="Provincia de Pichincha" languages="Galician;Spanish">Provincia de Pichincha</name>
+		<name normalized="Provincia del Pichincha" languages="Italian">Provincia del Pichincha</name>
+		<name normalized="Provinco Pichincha" languages="Esperanto">Provinco Pichincha</name>
+		<name normalized="Provinsi Pichincha" languages="Indonesian">Provinsi Pichincha</name>
+		<name normalized="Provinz Pichincha" languages="German">Provinz Pichincha</name>
+		<name normalized="Provincia de Pichincha" languages="Catalan">Província de Pichincha</name>
+		<name normalized="Prowincja Pichincha" languages="Polish">Prowincja Pichincha</name>
+		<name normalized="Piciнca" languages="Bulgarian;Russian">Пичинча</name>
+		<name normalized="Pрaviнtыi Picынca" languages="Belarusian">Правінцыя Пічынча</name>
+		<name normalized="Picынca" languages="biлaрuсkai (taрaskivita)‎">Пічынча</name>
+		<name normalized="Piciнca" languages="Ukrainian">Пічінча</name>
+		<name normalized="sوbہ pچینچא" languages="Western Punjabi">صوبہ پچینچا</name>
+		<name normalized="პიჩინჩის პროვინცია" languages="Georgian">პიჩინჩის პროვინცია</name>
+		<name normalized="ptnty県" languages="Japanese">ピチンチャ県</name>
+		<name normalized="皮欽查省" languages="Chinese">皮欽查省</name>
+	</region>
+	<region name="Santa Elena" type="province" typeTranslated="provincia">
+		<name normalized="Provincia de Santa Elena" languages="Spanish">Provincia de Santa Elena</name>
+		<name normalized="Provincia di Santa Elena" languages="Italian">Provincia di Santa Elena</name>
+		<name normalized="Provinsi Santa Elena" languages="Indonesian">Provinsi Santa Elena</name>
+		<name normalized="Provinz Santa Elena" languages="German">Provinz Santa Elena</name>
+		<name normalized="Prowincja Santa Elena" languages="Polish">Prowincja Santa Elena</name>
+		<name normalized="Santa Elena" languages="Dutch;English;Esperanto;Finnish;French;Italian;Lithuanian;Northern Sami;official;Polish;Quechua;Scots;Spanish;Swedish;Waray">Santa Elena</name>
+		<name normalized="Santa Elena marka" languages="Quechua">Santa Elena marka</name>
+		<name normalized="Santa Elena Province" languages="English;official;Scots">Santa Elena Province</name>
+		<name normalized="Santa Elena Provincia" languages="English;official">Santa Elena Provincia</name>
+		<name normalized="Santa Elenos provincija" languages="Lithuanian">Santa Elenos provincija</name>
+		<name normalized="Pрaviнtыi Сaнta-Eлiнa" languages="Belarusian">Правінцыя Санта-Элена</name>
+		<name normalized="Сaнta Iлiнa" languages="Macedonian">Санта Елена</name>
+		<name normalized="Сaнta-Eлiнa" languages="Russian">Санта-Элена</name>
+		<name normalized="Сvita Iлiнa" languages="Bulgarian">Света Елена</name>
+		<name normalized="سאنtא إyلyنא" languages="Arabic">سانتا إيلينا</name>
+		<name normalized="سאنtא אیلینא" languages="Western Punjabi">سانتا ایلینا</name>
+		<name normalized="sوbہ سאنtא אیلینא" languages="Western Punjabi">صوبہ سانتا ایلینا</name>
+		<name normalized="სანტა-ელენას პროვინცია" languages="Georgian">სანტა-ელენას პროვინცია</name>
+		<name normalized="聖埃倫娜" languages="Chinese">聖埃倫娜</name>
+		<name normalized="聖埃倫娜省" languages="Chinese">聖埃倫娜省</name>
+	</region>
+	<region name="Santo Domingo de los Tsachilas" type="province" typeTranslated="provincia">
+		<name normalized="Provincia de Santo Domingo de los Tsachilas" languages="Spanish">Provincia de Santo Domingo de los Tsáchilas</name>
+		<name normalized="Provincia di Santo Domingo de los Tsachilas" languages="Italian">Provincia di Santo Domingo de los Tsáchilas</name>
+		<name normalized="Provinsi Santo Domingo de los Tsachilas" languages="Indonesian">Provinsi Santo Domingo de los Tsáchilas</name>
+		<name normalized="Provinz Santo Domingo de los Tsachilas" languages="German">Provinz Santo Domingo de los Tsáchilas</name>
+		<name normalized="Prowincja Santo Domingo de los Tsachilas" languages="Polish">Prowincja Santo Domingo de los Tsáchilas</name>
+		<name normalized="Santo Domingo de los Cacilaso provincija" languages="Lithuanian">Santo Domingo de los Cačilaso provincija</name>
+		<name normalized="Santo Domingo de los Tsachilas" languages="English;official">Santo Domingo de los Tsachilas</name>
+		<name normalized="Santo Domingo de los Tsachilas Province" languages="English;official">Santo Domingo de los Tsachilas Province</name>
+		<name normalized="Santo Domingo de los Tsachilas Provincia" languages="English;official">Santo Domingo de los Tsachilas Provincia</name>
+		<name normalized="Santo Domingo de los Tsachilas" languages="Dutch;Esperanto;French;Luxembourgish;Portuguese;Swedish;Waray">Santo Domingo de los Tsáchilas</name>
+		<name normalized="Santo Domingo de los Tsachilas Province" languages="English">Santo Domingo de los Tsáchilas Province</name>
+		<name normalized="Tsachila marka" languages="Quechua">Tsachila marka</name>
+		<name normalized="Pрaviнtыi Сaнta-Daмiнga-de-лoс-Tсacылaс" languages="Belarusian">Правінцыя Санта-Дамінга-дэ-лос-Тсачылас</name>
+		<name normalized="Сaнto Doмiнgo di лoс Taciлaс" languages="Bulgarian">Санто Доминго де лос Цачилас</name>
+		<name normalized="Сaнto-Doмiнgo-di-лoс-Tсaciлaс" languages="Russian">Санто-Доминго-де-лос-Тсачилас</name>
+		<name normalized="sوbہ سאنtو دوmنgو دے لאس سאچیلس" languages="Western Punjabi">صوبہ سانتو دومنگو دے لاس ساچیلس</name>
+		<name normalized="სანტო-დომინგო-დე-ლოს-ტსაჩილასის პროვინცია" languages="Georgian">სანტო-დომინგო-დე-ლოს-ტსაჩილასის პროვინცია</name>
+		<name normalized="聖多明各-德洛斯查奇拉斯省" languages="Chinese">聖多明各-德洛斯查奇拉斯省</name>
+	</region>
+	<region name="Sucumbios" type="province" typeTranslated="provincia">
+		<name normalized="Provincia de Sucumbios" languages="Spanish">Provincia de Sucumbíos</name>
+		<name normalized="Provincia di Sucumbios" languages="Italian">Provincia di Sucumbíos</name>
+		<name normalized="Provinsi Sucumbios" languages="Indonesian">Provinsi Sucumbíos</name>
+		<name normalized="Provinz Sucumbios" languages="German">Provinz Sucumbíos</name>
+		<name normalized="Provincia de Sucumbios" languages="Catalan">Província de Sucumbíos</name>
+		<name normalized="Prowincja Sucumbios" languages="Polish">Prowincja Sucumbíos</name>
+		<name normalized="Sucumbios" languages="English;official">Sucumbios</name>
+		<name normalized="Sucumbios Province" languages="English;official">Sucumbios Province</name>
+		<name normalized="Sucumbios Provincia" languages="English;official">Sucumbios Provincia</name>
+		<name normalized="Sucumbios" languages="Dutch;Esperanto;Finnish;French;Norwegian (bokmal);Portuguese;Swedish;Waray">Sucumbíos</name>
+		<name normalized="Sucumbios Province" languages="English;Scots">Sucumbíos Province</name>
+		<name normalized="Sucumbiosprovinsen" languages="Norwegian Nynorsk">Sucumbíosprovinsen</name>
+		<name normalized="Sukumbijoso provincija" languages="Lithuanian">Sukumbijoso provincija</name>
+		<name normalized="Sukumpiyu marka" languages="Quechua">Sukumpiyu marka</name>
+		<name normalized="Pрaviнtыi Сukuмbiaс" languages="Belarusian">Правінцыя Сукумбіас</name>
+		<name normalized="Сukuмbioс" languages="Bulgarian;Russian">Сукумбиос</name>
+		<name normalized="Сukuмbiiс" languages="biлaрuсkai (taрaskivita)‎">Сукумбіяс</name>
+		<name normalized="sوbہ سوکوmbیوس" languages="Western Punjabi">صوبہ سوکومبیوس</name>
+		<name normalized="სუკუმბიოსის პროვინცია" languages="Georgian">სუკუმბიოსის პროვინცია</name>
+		<name normalized="sknbos県" languages="Japanese">スクンビオス県</name>
+		<name normalized="苏昆比奥斯省" languages="Chinese">苏昆比奥斯省</name>
+	</region>
+	<region name="Tungurahua" type="province" typeTranslated="provincia">
+		<name normalized="Gunung Tungurahua" languages="Indonesian;Malay">Gunung Tungurahua</name>
+		<name normalized="Pentadbiran Tungurahua" languages="Malay">Pentadbiran Tungurahua</name>
+		<name normalized="Provincia de Tungurahua" languages="Spanish">Provincia de Tungurahua</name>
+		<name normalized="Provincia del Tungurahua" languages="Italian">Provincia del Tungurahua</name>
+		<name normalized="Provinsi Tungurahua" languages="Indonesian">Provinsi Tungurahua</name>
+		<name normalized="Provinz Tungurahua" languages="German">Provinz Tungurahua</name>
+		<name normalized="Provincia de Tungurahua" languages="Catalan">Província de Tungurahua</name>
+		<name normalized="Prowincja Tungurahua" languages="Polish">Prowincja Tungurahua</name>
+		<name normalized="Tungurahua" languages="Catalan;Czech;Dutch;English;Esperanto;Estonian;Finnish;French;German;Hungarian;Italian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Polish;Portuguese;Slovak;Swedish;Turkish;Waray">Tungurahua</name>
+		<name normalized="Tungurahua Province" languages="English;official;Scots">Tungurahua Province</name>
+		<name normalized="Tungurahua Provincia" languages="English;official">Tungurahua Provincia</name>
+		<name normalized="Tungurahva" languages="Lithuanian">Tungurahva</name>
+		<name normalized="Tungurahvos provincija" languages="Lithuanian">Tungurahvos provincija</name>
+		<name normalized="Tunkurawa" languages="Quechua">Tunkurawa</name>
+		<name normalized="Tunkurawa marka" languages="Quechua">Tunkurawa marka</name>
+		<name normalized="Volcan Tungurahua" languages="Spanish">Volcán Tungurahua</name>
+		<name normalized="Vulcao Tungurahua" languages="Portuguese">Vulcão Tungurahua</name>
+		<name normalized="Τουνγκουραουα" languages="Greek">Τουνγκουράουα</name>
+		<name normalized="Pрaviнtыi Tuнguрaua" languages="Belarusian">Правінцыя Тунгурауа</name>
+		<name normalized="Tuнguрaua" languages="Bulgarian;Russian">Тунгурауа</name>
+		<name normalized="Tuнґuрagua" languages="biлaрuсkai (taрaskivita)‎">Тунґурагуа</name>
+		<name normalized="Tuнґuрaua" languages="Ukrainian">Тунґурауа</name>
+		<name normalized="tvnגvrאvvh" languages="Hebrew">טונגוראווה</name>
+		<name normalized="אسtאن tونgوrאhوא" languages="Persian">استان تونگوراهوا</name>
+		<name normalized="sوbہ tنgوrאہوآ" languages="Western Punjabi">صوبہ تنگوراہوآ</name>
+		<name normalized="ტუნგურაუის პროვინცია" languages="Georgian">ტუნგურაუის პროვინცია</name>
+		<name normalized="tungrw" languages="Japanese">トゥングラワ</name>
+		<name normalized="tungrw県" languages="Japanese">トゥングラワ県</name>
+		<name normalized="通古拉瓦火山" languages="Chinese">通古拉瓦火山</name>
+		<name normalized="通古拉瓦省" languages="Chinese">通古拉瓦省</name>
+		<name normalized="퉁그라우아 산" languages="Korean">퉁그라우아 산</name>
+	</region>
+	<region name="Zamora-Chinchipe" type="province" typeTranslated="provincia">
+		<name normalized="Provincia de Zamora Chinchipe" languages="Spanish">Provincia de Zamora Chinchipe</name>
+		<name normalized="Provincia di Zamora-Chinchipe" languages="Italian">Provincia di Zamora-Chinchipe</name>
+		<name normalized="Provinsi Zamora-Chinchipe" languages="Indonesian">Provinsi Zamora-Chinchipe</name>
+		<name normalized="Provinz Zamora Chinchipe" languages="German">Provinz Zamora Chinchipe</name>
+		<name normalized="Provincia de Zamora-Chinchipe" languages="Catalan">Província de Zamora-Chinchipe</name>
+		<name normalized="Prowincja Zamora-Chinchipe" languages="Polish">Prowincja Zamora-Chinchipe</name>
+		<name normalized="Samoros-Cincipes provincija" languages="Lithuanian">Samoros-Činčipės provincija</name>
+		<name normalized="Zamora Chinchipe" languages="Norwegian (bokmal);Swedish;Waray">Zamora Chinchipe</name>
+		<name normalized="Zamora Chinchipi marka" languages="Quechua">Zamora Chinchipi marka</name>
+		<name normalized="Zamora-Chinchipe" languages="Dutch;English;Esperanto;Finnish;French;Northern Sami;official;Portuguese">Zamora-Chinchipe</name>
+		<name normalized="Zamora-Chinchipe Province" languages="English;official">Zamora-Chinchipe Province</name>
+		<name normalized="Zamora-Chinchipe Provincia" languages="English;official">Zamora-Chinchipe Provincia</name>
+		<name normalized="Pрaviнtыi Сaмoрa-Cынcыpe" languages="Belarusian">Правінцыя Самора-Чынчыпэ</name>
+		<name normalized="Сaмoрa Ciнcipi" languages="Bulgarian">Самора Чинчипе</name>
+		<name normalized="Сaмoрa-Ciнcipi" languages="Russian">Самора-Чинчипе</name>
+		<name normalized="Сaмoрa-Cынcыpe" languages="biлaрuсkai (taрaskivita)‎">Самора-Чынчыпэ</name>
+		<name normalized="sوbہ زאmوrא چنچیpے" languages="Western Punjabi">صوبہ زامورا چنچیپے</name>
+		<name normalized="სამორა-ჩინჩიპეს პროვინცია" languages="Georgian">სამორა-ჩინჩიპეს პროვინცია</name>
+		<name normalized="萨莫拉-钦奇佩省" languages="Chinese">萨莫拉-钦奇佩省</name>
+	</region>
+</regions>

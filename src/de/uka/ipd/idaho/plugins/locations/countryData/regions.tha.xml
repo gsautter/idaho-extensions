@@ -1,0 +1,2337 @@
+<regions country="Thailand">
+	<region name="Amnat Charoen" type="province" typeTranslated="changwat">
+		<name normalized="Amnat Charoen" languages="Danish;Dutch;English;Finnish;French;Galician;German;Malay;Norwegian (bokmal);official;Polish;Portuguese;Swedish;Vietnamese;Waray">Amnat Charoen</name>
+		<name normalized="Amnat Charoen Changwat" languages="English;official">Amnat Charoen Changwat</name>
+		<name normalized="Amnat Charoen Hu" languages="Chinese (Min Nan)">Amnat Charoen Hú</name>
+		<name normalized="Amnat Charoen Province" languages="English;official">Amnat Charoen Province</name>
+		<name normalized="Changwat Amnat Charoen" languages="Dutch">Changwat Amnat Charoen</name>
+		<name normalized="Faritanin'i Amnat Charoen" languages="Malagasy">Faritanin'i Amnat Charoen</name>
+		<name normalized="Lalawigan ng Amnat Charoen" languages="Tagalog">Lalawigan ng Amnat Charoen</name>
+		<name normalized="Propinsi Amnat Charoen" languages="Achinese">Propinsi Amnat Charoen</name>
+		<name normalized="Province d'Amnat Charoen" languages="French">Province d'Amnat Charoen</name>
+		<name normalized="Provincia de Amnat Charoen" languages="Galician;Spanish">Provincia de Amnat Charoen</name>
+		<name normalized="Provincia di Amnat Charoen" languages="Italian">Provincia di Amnat Charoen</name>
+		<name normalized="Provinsi Amnat Charoen" languages="Indonesian">Provinsi Amnat Charoen</name>
+		<name normalized="Prowincja Amnat Charoen" languages="Polish">Prowincja Amnat Charoen</name>
+		<name normalized="Aмнat Caрoiн" languages="Bulgarian">Амнат Чароен</name>
+		<name normalized="Aмнatcaрiн" languages="Russian">Амнатчарен</name>
+		<name normalized="Viлoiti Aмнat Caрoiн" languages="Tajik">Вилояти Амнат Чароен</name>
+		<name normalized="أmنאt tشאrوyن" languages="Arabic">أمنات تشاروين</name>
+		<name normalized="אmنאt چאrوین" languages="Persian">امنات چاروین</name>
+		<name normalized="אmنאٹ چאrوئن" languages="Western Punjabi">امناٹ چاروئن</name>
+		<name normalized="sوbא אmنאٹ چאrوئن" languages="Western Punjabi">صوبا امناٹ چاروئن</name>
+		<name normalized="mhאfzة أmنאt tشאrوyن" languages="Arabic">محافظة أمنات تشاروين</name>
+		<name normalized="cাংৱাt am্ny়াt cাroy়en" languages="Bishnupria Manipuri">চাংৱাত আম্নয়াত চারোয়েন</name>
+		<name normalized="จังหวัดอำนาจเจริญ" languages="Thai">จังหวัดอำนาจเจริญ</name>
+		<name normalized="เทศบาลเมืองอำนาจเจริญ" languages="Thai">เทศบาลเมืองอำนาจเจริญ</name>
+		<name normalized="amnーttyrーn県" languages="Japanese">アムナートチャルーン県</name>
+		<name normalized="安納乍能" languages="Chinese">安納乍能</name>
+		<name normalized="安納乍能府" languages="Chinese">安納乍能府</name>
+		<name normalized="安纳乍能府" languages="Wu">安纳乍能府</name>
+		<name normalized="암낫짜른" languages="Korean">암낫짜른</name>
+		<name normalized="암낫짜른 주" languages="Korean">암낫짜른 주</name>
+	</region>
+	<region name="Ang Thong" type="province" typeTranslated="changwat">
+		<name normalized="Ang Thong" languages="Danish;Dutch;English;Finnish;French;German;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish;Vietnamese;Waray">Ang Thong</name>
+		<name normalized="Ang Thong Changwat" languages="English;official">Ang Thong Changwat</name>
+		<name normalized="Ang Thong Hu" languages="Chinese (Min Nan)">Ang Thong Hú</name>
+		<name normalized="Ang Thong probintzia" languages="Basque">Ang Thong probintzia</name>
+		<name normalized="Ang Thong Province" languages="English;official;Scots">Ang Thong Province</name>
+		<name normalized="Changwat Ang Thong" languages="Dutch">Changwat Ang Thong</name>
+		<name normalized="Faritanin'i Ang Thong" languages="Malagasy">Faritanin'i Ang Thong</name>
+		<name normalized="Lalawigan ng Ang Thong" languages="Tagalog">Lalawigan ng Ang Thong</name>
+		<name normalized="Propinsi Ang Thong" languages="Achinese">Propinsi Ang Thong</name>
+		<name normalized="Province d'Ang Thong" languages="French">Province d'Ang Thong</name>
+		<name normalized="Provincia de Ang Thong" languages="Galician;Spanish">Provincia de Ang Thong</name>
+		<name normalized="Provincia di Ang Thong" languages="Italian">Provincia di Ang Thong</name>
+		<name normalized="Prowincja Ang Thong" languages="Polish">Prowincja Ang Thong</name>
+		<name normalized="Aнg Toнg" languages="Bulgarian">Анг Тонг</name>
+		<name normalized="Aнgtkoнg" languages="Russian">Ангтхонг</name>
+		<name normalized="Viлoiti Aнg Toнg" languages="Tajik">Вилояти Анг Тонг</name>
+		<name normalized="آنj ثونغ" languages="Arabic">آنج ثونغ</name>
+		<name normalized="آنg tونg" languages="Persian">آنگ تونگ</name>
+		<name normalized="آنg tھونg" languages="Western Punjabi">آنگ تھونگ</name>
+		<name normalized="sوbہ آنg tھونg" languages="Western Punjabi">صوبہ آنگ تھونگ</name>
+		<name normalized="mhאfzة أنغ ثونغ" languages="Arabic">محافظة أنغ ثونغ</name>
+		<name normalized="cাংৱাt aঙ tং" languages="Bishnupria Manipuri">চাংৱাত আঙ থং</name>
+		<name normalized="จังหวัดอ่างทอง" languages="Thai">จังหวัดอ่างทอง</name>
+		<name normalized="aーntーn県" languages="Japanese">アーントーン県</name>
+		<name normalized="紅統府" languages="Chinese">紅統府</name>
+		<name normalized="앙통" languages="Korean">앙통</name>
+		<name normalized="앙통 주" languages="Korean">앙통 주</name>
+	</region>
+	<region name="Bueng Kan" type="province" typeTranslated="changwat">
+		<name normalized="Bueng Kan" languages="English;German;official;Vietnamese;Waray">Bueng Kan</name>
+		<name normalized="Bueng Kan Changwat" languages="English;official">Bueng Kan Changwat</name>
+		<name normalized="Bueng Kan Province" languages="English;official">Bueng Kan Province</name>
+		<name normalized="Bungkan" languages="Norwegian (bokmal)">Bungkan</name>
+		<name normalized="Faritanin'i Bueng Kan" languages="Malagasy">Faritanin'i Bueng Kan</name>
+		<name normalized="Provincia de Bueng Kan" languages="Galician">Provincia de Bueng Kan</name>
+		<name normalized="Provincia di Bueng Kan" languages="Italian">Provincia di Bueng Kan</name>
+		<name normalized="bوئنg کאن" languages="Western Punjabi">بوئنگ کان</name>
+		<name normalized="sوbہ bوئنg کאن" languages="Western Punjabi">صوبہ بوئنگ کان</name>
+		<name normalized="จังหวัดบึงกาฬ" languages="Thai">จังหวัดบึงกาฬ</name>
+		<name normalized="เทศบาลตำบลบึงกาฬ" languages="Thai">เทศบาลตำบลบึงกาฬ</name>
+		<name normalized="ຈັງຫວັດບຶງການ" languages="Lao">ຈັງຫວັດບຶງການ</name>
+		<name normalized="bnkーn県" languages="Japanese">ブンカーン県</name>
+		<name normalized="汶干府" languages="Chinese">汶干府</name>
+		<name normalized="븡깐 주" languages="Korean">븡깐 주</name>
+	</region>
+	<region name="Buriram" type="province" typeTranslated="changwat">
+		<name normalized="Buri Ram" languages="Portuguese;Swedish">Buri Ram</name>
+		<name normalized="Buriram" languages="Danish;Dutch;English;Finnish;French;Galician;German;Malay;Norwegian (bokmal);official;Spanish;Vietnamese;Waray">Buriram</name>
+		<name normalized="Buriram Changwat" languages="English;official">Buriram Changwat</name>
+		<name normalized="Buriram Hu" languages="Chinese (Min Nan)">Buriram Hú</name>
+		<name normalized="Buriram Province" languages="English;official">Buriram Province</name>
+		<name normalized="Changwat Buriram" languages="Dutch">Changwat Buriram</name>
+		<name normalized="Faritanin'i Buriram" languages="Malagasy">Faritanin'i Buriram</name>
+		<name normalized="Propinsi Buriram" languages="Achinese">Propinsi Buriram</name>
+		<name normalized="Province de Buriram" languages="French">Province de Buriram</name>
+		<name normalized="Provincia de Buri Ram" languages="Spanish">Provincia de Buri Ram</name>
+		<name normalized="Provincia de Buriram" languages="Galician">Provincia de Buriram</name>
+		<name normalized="Provincia di Buri Ram" languages="Italian">Provincia di Buri Ram</name>
+		<name normalized="Provinsi Buriram" languages="Indonesian">Provinsi Buriram</name>
+		<name normalized="Prowincja Buri Ram" languages="Polish">Prowincja Buri Ram</name>
+		<name normalized="Buрi Рaм" languages="Bulgarian">Бури Рам</name>
+		<name normalized="Buрiрaм" languages="Russian">Бурирам</name>
+		<name normalized="Viлoiti Buрi Рaм" languages="Tajik">Вилояти Бури Рам</name>
+		<name normalized="משtמש:Motique/bvrיrאם" languages="Hebrew">משתמש:Motique/בוריראם</name>
+		<name normalized="bوryrאm" languages="Arabic">بوريرام</name>
+		<name normalized="bوrی rאm" languages="Persian;Western Punjabi">بوری رام</name>
+		<name normalized="sوbہ bوrی rאm" languages="Western Punjabi">صوبہ بوری رام</name>
+		<name normalized="mhאfzة bوryrאm" languages="Arabic">محافظة بوريرام</name>
+		<name normalized="cাংৱাt burirাm" languages="Bishnupria Manipuri">চাংৱাত বুরিরাম</name>
+		<name normalized="จังหวัดบุรีรัมย์" languages="Thai">จังหวัดบุรีรัมย์</name>
+		<name normalized="เทศบาลเมืองบุรีรัมย์" languages="Thai">เทศบาลเมืองบุรีรัมย์</name>
+		<name normalized="brーrm県" languages="Japanese">ブリーラム県</name>
+		<name normalized="武里喃府" languages="Chinese;Wu">武里喃府</name>
+		<name normalized="부리람" languages="Korean">부리람</name>
+		<name normalized="부리람 주" languages="Korean">부리람 주</name>
+	</region>
+	<region name="Chachoengsao" type="province" typeTranslated="changwat">
+		<name normalized="Chachoengsao" languages="Danish;Dutch;English;Finnish;French;Galician;German;Indonesian;Italian;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Chachoengsao</name>
+		<name normalized="Chachoengsao Changwat" languages="English;official">Chachoengsao Changwat</name>
+		<name normalized="Chachoengsao Hu" languages="Chinese (Min Nan)">Chachoengsao Hú</name>
+		<name normalized="Chachoengsao Province" languages="English;official">Chachoengsao Province</name>
+		<name normalized="Changwat Chachoengsao" languages="Dutch">Changwat Chachoengsao</name>
+		<name normalized="Faritanin'i Chachoengsao" languages="Malagasy">Faritanin'i Chachoengsao</name>
+		<name normalized="Propinsi Chachoengsao" languages="Achinese">Propinsi Chachoengsao</name>
+		<name normalized="Province de Chachoengsao" languages="French">Province de Chachoengsao</name>
+		<name normalized="Provincia de Chachoengsao" languages="Galician;Spanish">Provincia de Chachoengsao</name>
+		<name normalized="Provincia di Chachoengsao" languages="Italian">Provincia di Chachoengsao</name>
+		<name normalized="Prowincja Chachoengsao" languages="Polish">Prowincja Chachoengsao</name>
+		<name normalized="Viлoiti Cacoiнgсao" languages="Tajik">Вилояти Чачоенгсао</name>
+		<name normalized="Caciнgсau" languages="Russian">Чаченгсау</name>
+		<name normalized="Cacoiнgсao" languages="Bulgarian">Чачоенгсао</name>
+		<name normalized="sوbہ چאچوئنgسאؤ" languages="Western Punjabi">صوبہ چاچوئنگساؤ</name>
+		<name normalized="mhאfzة شאشوyنjسאو" languages="Arabic">محافظة شاشوينجساو</name>
+		<name normalized="چאچوئنgسאؤ" languages="Western Punjabi">چاچوئنگساؤ</name>
+		<name normalized="چאچوئنgسאئو" languages="Persian">چاچوئنگسائو</name>
+		<name normalized="cাংৱাt cাcoy়eংsাo" languages="Bishnupria Manipuri">চাংৱাত চাচোয়েংসাও</name>
+		<name normalized="จังหวัดฉะเชิงเทรา" languages="Thai">จังหวัดฉะเชิงเทรา</name>
+		<name normalized="เทศบาลเมืองฉะเชิงเทรา" languages="Thai">เทศบาลเมืองฉะเชิงเทรา</name>
+		<name normalized="ຈັງຫວັດສະເຊີງເຊົາ" languages="Lao">ຈັງຫວັດສະເຊີງເຊົາ</name>
+		<name normalized="tytyーnso県" languages="Japanese">チャチューンサオ県</name>
+		<name normalized="北柳府" languages="Chinese;Classical Chinese">北柳府</name>
+		<name normalized="차층사오" languages="Korean">차층사오</name>
+		<name normalized="차층사오 주" languages="Korean">차층사오 주</name>
+	</region>
+	<region name="Chai Nat" type="province" typeTranslated="changwat">
+		<name normalized="Chai Nat" languages="English;official;Polish;Portuguese;Swedish">Chai Nat</name>
+		<name normalized="Chai Nat Changwat" languages="English;official">Chai Nat Changwat</name>
+		<name normalized="Chai Nat Province" languages="English;official">Chai Nat Province</name>
+		<name normalized="Chainat" languages="Danish;Dutch;French;Galician;German;Malay;Norwegian (bokmal);Vietnamese;Waray">Chainat</name>
+		<name normalized="Chainat Hu" languages="Chinese (Min Nan)">Chainat Hú</name>
+		<name normalized="Chainat Province" languages="English;Scots">Chainat Province</name>
+		<name normalized="Changwat Chainat" languages="Dutch">Changwat Chainat</name>
+		<name normalized="Faritanin'i Chainat" languages="Malagasy">Faritanin'i Chainat</name>
+		<name normalized="Propinsi Chainat" languages="Achinese">Propinsi Chainat</name>
+		<name normalized="Province de Chainat" languages="French">Province de Chainat</name>
+		<name normalized="Provincia de Chainat" languages="Galician;Spanish">Provincia de Chainat</name>
+		<name normalized="Provincia di Chainat" languages="Italian">Provincia di Chainat</name>
+		<name normalized="Prowincja Chainat" languages="Polish">Prowincja Chainat</name>
+		<name normalized="Viлoiti Caiнat" languages="Tajik">Вилояти Чаинат</name>
+		<name normalized="Caйнat" languages="Bulgarian;Russian">Чайнат</name>
+		<name normalized="sوbہ چאئی نאٹ" languages="Western Punjabi">صوبہ چائی ناٹ</name>
+		<name normalized="mhאfzة tشאyنאt" languages="Arabic">محافظة تشاينات</name>
+		<name normalized="چאئی نאٹ" languages="Western Punjabi">چائی ناٹ</name>
+		<name normalized="چאینאt" languages="Persian">چاینات</name>
+		<name normalized="cাংৱাt ciny়াt" languages="Bishnupria Manipuri">চাংৱাত চিনয়াত</name>
+		<name normalized="จังหวัดชัยนาท" languages="Thai">จังหวัดชัยนาท</name>
+		<name normalized="tyinーt県" languages="Japanese">チャイナート県</name>
+		<name normalized="猜納府" languages="Chinese">猜納府</name>
+		<name normalized="차이낫" languages="Korean">차이낫</name>
+		<name normalized="차이낫 주" languages="Korean">차이낫 주</name>
+	</region>
+	<region name="Chaiyaphum" type="province" typeTranslated="changwat">
+		<name normalized="Chaiyaphum" languages="Danish;Dutch;English;French;Galician;German;Malay;Norwegian (bokmal);official;Portuguese;Spanish;Swedish;Vietnamese;Waray">Chaiyaphum</name>
+		<name normalized="Chaiyaphum Changwat" languages="English;official">Chaiyaphum Changwat</name>
+		<name normalized="Chaiyaphum Hu" languages="Chinese (Min Nan)">Chaiyaphum Hú</name>
+		<name normalized="Chaiyaphum Province" languages="English;official;Simple English">Chaiyaphum Province</name>
+		<name normalized="Changwat Chaiyaphum" languages="Dutch">Changwat Chaiyaphum</name>
+		<name normalized="Faritanin'i Chaiyaphum" languages="Malagasy">Faritanin'i Chaiyaphum</name>
+		<name normalized="Propinsi Chaiyaphum" languages="Achinese">Propinsi Chaiyaphum</name>
+		<name normalized="Province de Chaiyaphum" languages="French">Province de Chaiyaphum</name>
+		<name normalized="Provincia de Chaiyaphum" languages="Galician;Spanish">Provincia de Chaiyaphum</name>
+		<name normalized="Provincia di Chaiyaphum" languages="Italian">Provincia di Chaiyaphum</name>
+		<name normalized="Provinsi Chaiyaphum" languages="Indonesian">Provinsi Chaiyaphum</name>
+		<name normalized="Prowincja Chaiyaphum" languages="Polish">Prowincja Chaiyaphum</name>
+		<name normalized="Caijaphumas" languages="Lithuanian">Čaijaphumas</name>
+		<name normalized="Viлoiti Caiipuм" languages="Tajik">Вилояти Чаияпум</name>
+		<name normalized="Caйipkuм" languages="Russian">Чайяпхум</name>
+		<name normalized="Caйiфuн" languages="Bulgarian">Чайяфун</name>
+		<name normalized="tشאyאfوm" languages="Arabic">تشايافوم</name>
+		<name normalized="sوbہ چאئییאpھm" languages="Western Punjabi">صوبہ چائییاپھم</name>
+		<name normalized="mhאfzة tشאyאfوm" languages="Arabic">محافظة تشايافوم</name>
+		<name normalized="چאئی یאpھm" languages="Western Punjabi">چائی یاپھم</name>
+		<name normalized="چאאfوm" languages="Persian">چاافوم</name>
+		<name normalized="cাংৱাt ciy়াpum" languages="Bishnupria Manipuri">চাংৱাত চিয়াফুম</name>
+		<name normalized="จังหวัดชัยภูมิ" languages="Thai">จังหวัดชัยภูมิ</name>
+		<name normalized="เทศบาลเมืองชัยภูมิ" languages="Thai">เทศบาลเมืองชัยภูมิ</name>
+		<name normalized="ཅའི་ཡ་ཕུམ་ཞིང་ཆེན།" languages="Tibetan">ཅའི་ཡ་ཕུམ་ཞིང་ཆེན།</name>
+		<name normalized="ཅའི་ཡ་ཕུམ།" languages="Tibetan">ཅའི་ཡ་ཕུམ།</name>
+		<name normalized="tyiypーm県" languages="Japanese">チャイヤプーム県</name>
+		<name normalized="猜也奔" languages="Wu">猜也奔</name>
+		<name normalized="猜也奔府" languages="Chinese">猜也奔府</name>
+		<name normalized="猜也贲府" languages="Wu">猜也贲府</name>
+		<name normalized="차이야품" languages="Korean">차이야품</name>
+		<name normalized="차이야품 주" languages="Korean">차이야품 주</name>
+	</region>
+	<region name="Chanthaburi" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Chantaburi" languages="Dutch">Changwat Chantaburi</name>
+		<name normalized="Chantaburi" languages="Dutch">Chantaburi</name>
+		<name normalized="Chanthaburi" languages="Danish;English;Finnish;French;Galician;German;Malay;Norwegian (bokmal);official;Polish;Portuguese;Swedish;Vietnamese;Waray">Chanthaburi</name>
+		<name normalized="Chanthaburi Changwat" languages="English;official">Chanthaburi Changwat</name>
+		<name normalized="Chanthaburi Hu" languages="Chinese (Min Nan)">Chanthaburi Hú</name>
+		<name normalized="Chanthaburi Province" languages="English;official">Chanthaburi Province</name>
+		<name normalized="Faritanin'i Chanthaburi" languages="Malagasy">Faritanin'i Chanthaburi</name>
+		<name normalized="Propinsi Chanthaburi" languages="Achinese">Propinsi Chanthaburi</name>
+		<name normalized="Province de Chanthaburi" languages="French">Province de Chanthaburi</name>
+		<name normalized="Provincia de Chanthaburi" languages="Galician;Spanish">Provincia de Chanthaburi</name>
+		<name normalized="Provincia di Chanthaburi" languages="Italian">Provincia di Chanthaburi</name>
+		<name normalized="Prowincja Chanthaburi" languages="Polish">Prowincja Chanthaburi</name>
+		<name normalized="Viлoiti Caнtabuрi" languages="Tajik">Вилояти Чантабури</name>
+		<name normalized="Caнtabuрi" languages="Bulgarian">Чантабури</name>
+		<name normalized="Caнtkabuрi" languages="Russian">Чантхабури</name>
+		<name normalized="sوbہ چאنtھאbوrی" languages="Western Punjabi">صوبہ چانتھابوری</name>
+		<name normalized="mhאfzة tشאنثאbوry" languages="Arabic">محافظة تشانثابوري</name>
+		<name normalized="چאنtאbوrی" languages="Persian">چانتابوری</name>
+		<name normalized="چאنtھאbوrی" languages="Western Punjabi">چانتھابوری</name>
+		<name normalized="cাংৱাt cাntাburi" languages="Bishnupria Manipuri">চাংৱাত চানথাবুরি</name>
+		<name normalized="จังหวัดจันทบุรี" languages="Thai">จังหวัดจันทบุรี</name>
+		<name normalized="เทศบาลเมืองจันทบุรี" languages="Thai">เทศบาลเมืองจันทบุรี</name>
+		<name normalized="ຈັງຫວັດຈັນທະບຸລີ" languages="Lao">ຈັງຫວັດຈັນທະບຸລີ</name>
+		<name normalized="ཅཱན་ཐ་བུ་རི་ཞིང་ཆེན།" languages="Tibetan">ཅཱན་ཐ་བུ་རི་ཞིང་ཆེན།</name>
+		<name normalized="ཅཱན་ཐ་བུ་རི།" languages="Tibetan">ཅཱན་ཐ་བུ་རི།</name>
+		<name normalized="tyntbrー県" languages="Japanese">チャンタブリー県</name>
+		<name normalized="尖竹汶府" languages="Chinese;Classical Chinese">尖竹汶府</name>
+		<name normalized="庄他武里" languages="Chinese">庄他武里</name>
+		<name normalized="짠타부리" languages="Korean">짠타부리</name>
+		<name normalized="짠타부리 주" languages="Korean">짠타부리 주</name>
+	</region>
+	<region name="Chiang Mai" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Chiang Mai" languages="Dutch">Changwat Chiang Mai</name>
+		<name normalized="Chiang Mai" languages="Afrikaans;Catalan;Danish;Dutch;English;Estonian;Finnish;French;German;Indonesian;Italian;Kalaallisut;lumbaart;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Scots;Simple English;Spanish;Swedish;Turkish;Vietnamese;Waray">Chiang Mai</name>
+		<name normalized="Chiang Mai Changwat" languages="English;official">Chiang Mai Changwat</name>
+		<name normalized="Chiang Mai Hu" languages="Chinese (Min Nan)">Chiang Mai Hú</name>
+		<name normalized="Chiang Mai Province" languages="English;official;Scots">Chiang Mai Province</name>
+		<name normalized="Csiangmaj" languages="Hungarian">Csiangmaj</name>
+		<name normalized="Faritanin'i Chiang Mai" languages="Malagasy">Faritanin'i Chiang Mai</name>
+		<name normalized="Lalawigan ng Chiang Mai" languages="Tagalog">Lalawigan ng Chiang Mai</name>
+		<name normalized="Propinsi Chiang Mai" languages="Achinese">Propinsi Chiang Mai</name>
+		<name normalized="Province de Chiang Mai" languages="French">Province de Chiang Mai</name>
+		<name normalized="Provincia de Chiang Mai" languages="Galician;Spanish">Provincia de Chiang Mai</name>
+		<name normalized="Provincia di Chiang Mai" languages="Italian">Provincia di Chiang Mai</name>
+		<name normalized="Provinsi Chiang Mai" languages="Indonesian">Provinsi Chiang Mai</name>
+		<name normalized="Prowincja Chiang Mai" languages="Polish">Prowincja Chiang Mai</name>
+		<name normalized="Thanh pho Chiang Mai" languages="Vietnamese">Thành phố Chiang Mai</name>
+		<name normalized="Txiang Mai" languages="Basque">Txiang Mai</name>
+		<name normalized="Ciang Mai" languages="Esperanto">Ĉiang Mai</name>
+		<name normalized="Ciang Mai" languages="Czech">Čiang Mai</name>
+		<name normalized="Ciangmajus" languages="Lithuanian">Čiangmajus</name>
+		<name normalized="Viлoiti Ciaнg Мai" languages="Tajik">Вилояти Чианг Маи</name>
+		<name normalized="Ciaнg Мaй" languages="Bulgarian">Чианг Май</name>
+		<name normalized="Ciaнgмaй" languages="Kazakh;Russian">Чиангмай</name>
+		<name normalized="Cijaнg Мaj" languages="Serbian">Чијанг Мај</name>
+		<name normalized="Ciaнgмaй" languages="Ukrainian">Чіангмай</name>
+		<name normalized="צ'יאnג מאי" languages="Hebrew">צ'יאנג מאי</name>
+		<name normalized="אسtאن چیאنg‌mאی" languages="Persian">استان چیانگ‌مای</name>
+		<name normalized="sوbہ چیאنg mאئی" languages="Western Punjabi">صوبہ چیانگ مائی</name>
+		<name normalized="mhאfzة شyאنj mאy" languages="Arabic">محافظة شيانج ماي</name>
+		<name normalized="چیאنg mאئی" languages="Western Punjabi">چیانگ مائی</name>
+		<name normalized="ciaंg mाi" languages="Hindi">चिआंग माई</name>
+		<name normalized="cাংৱাt ciy়াং mাi" languages="Bishnupria Manipuri">চাংৱাত চিয়াং মাই</name>
+		<name normalized="จังหวัดเชียงใหม่" languages="Thai">จังหวัดเชียงใหม่</name>
+		<name normalized="เทศบาลนครเชียงใหม่" languages="Thai">เทศบาลนครเชียงใหม่</name>
+		<name normalized="ຈັງຫວັດຊຽງໃໝ່" languages="Lao">ຈັງຫວັດຊຽງໃໝ່</name>
+		<name normalized="ཆེང་མྰེ་ཞིང་ཆེན།" languages="Tibetan">ཆེང་མྰེ་ཞིང་ཆེན།</name>
+		<name normalized="ཆེང་མྰེ།" languages="Tibetan">ཆེང་མྰེ།</name>
+		<name normalized="ချင်းမိုင်မြို့" languages="Burmese">ချင်းမိုင်မြို့</name>
+		<name normalized="tenmi県" languages="Japanese">チエンマイ県</name>
+		<name normalized="tーsbーnnkーn・tenmi" languages="Japanese">テーサバーンナコーン・チエンマイ</name>
+		<name normalized="清迈" languages="Wu">清迈</name>
+		<name normalized="清迈府" languages="Wu">清迈府</name>
+		<name normalized="清邁" languages="Cantonese;Chinese">清邁</name>
+		<name normalized="清邁府" languages="Chinese">清邁府</name>
+		<name normalized="치앙마이" languages="Korean">치앙마이</name>
+		<name normalized="치앙마이 주" languages="Korean">치앙마이 주</name>
+	</region>
+	<region name="Chiang Rai" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Chiang Rai" languages="Dutch">Changwat Chiang Rai</name>
+		<name normalized="Chiang Rai" languages="Danish;Dutch;English;Finnish;French;German;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Swedish;Tagalog;Vietnamese;Waray">Chiang Rai</name>
+		<name normalized="Chiang Rai Changwat" languages="English;official">Chiang Rai Changwat</name>
+		<name normalized="Chiang Rai Hu" languages="Chinese (Min Nan)">Chiang Rai Hú</name>
+		<name normalized="Chiang Rai Province" languages="English;official;Scots">Chiang Rai Province</name>
+		<name normalized="Chiang Rai provints" languages="Estonian">Chiang Rai provints</name>
+		<name normalized="Faritanin'i Chiang Rai" languages="Malagasy">Faritanin'i Chiang Rai</name>
+		<name normalized="Lalawigan ng Chiang Rai" languages="Tagalog">Lalawigan ng Chiang Rai</name>
+		<name normalized="Mueang Chiang Rai" languages="Indonesian">Mueang Chiang Rai</name>
+		<name normalized="Propinsi Chiang Rai" languages="Achinese">Propinsi Chiang Rai</name>
+		<name normalized="Province de Chiang Rai" languages="French">Province de Chiang Rai</name>
+		<name normalized="Provincia de Chiang Rai" languages="Galician;Spanish">Provincia de Chiang Rai</name>
+		<name normalized="Provincia di Chiang Rai" languages="Italian">Provincia di Chiang Rai</name>
+		<name normalized="Provinsi Chiang Rai" languages="Indonesian">Provinsi Chiang Rai</name>
+		<name normalized="Prowincja Chiang Rai" languages="Polish">Prowincja Chiang Rai</name>
+		<name normalized="Thanh pho Chiang Rai" languages="Vietnamese">Thành phố Chiang Rai</name>
+		<name normalized="Viлoiti Ciaнg Рai" languages="Tajik">Вилояти Чианг Раи</name>
+		<name normalized="Ciaнg Рaй" languages="Bulgarian">Чианг Рай</name>
+		<name normalized="Ciaнgрaй" languages="Russian">Чианграй</name>
+		<name normalized="צ'יאnג rאי" languages="Hebrew">צ'יאנג ראי</name>
+		<name normalized="אسtאن چیאنg rی" languages="Persian">استان چیانگ ری</name>
+		<name normalized="شyאنj ry" languages="Arabic">شيانج ري</name>
+		<name normalized="sوbہ چیאنg rאئی" languages="Western Punjabi">صوبہ چیانگ رائی</name>
+		<name normalized="چیאنg rאئی" languages="Western Punjabi">چیانگ رائی</name>
+		<name normalized="cাংৱাt ciy়াং rাi" languages="Bishnupria Manipuri">চাংৱাত চিয়াং রাই</name>
+		<name normalized="จังหวัดเชียงราย" languages="Thai">จังหวัดเชียงราย</name>
+		<name normalized="เทศบาลนครเชียงราย" languages="Thai">เทศบาลนครเชียงราย</name>
+		<name normalized="ຈັງຫວັດຊຽງຮາຍ" languages="Lao">ຈັງຫວັດຊຽງຮາຍ</name>
+		<name normalized="ཆེང་རཱེ་ཞིང་ཆེན།" languages="Tibetan">ཆེང་རཱེ་ཞིང་ཆེན།</name>
+		<name normalized="ཆེང་རཱེ།" languages="Tibetan">ཆེང་རཱེ།</name>
+		<name normalized="tenrーi県" languages="Japanese">チエンラーイ県</name>
+		<name normalized="清莱府" languages="Wu">清莱府</name>
+		<name normalized="清萊" languages="Chinese">清萊</name>
+		<name normalized="清萊府" languages="Chinese">清萊府</name>
+		<name normalized="치앙라이" languages="Korean">치앙라이</name>
+		<name normalized="치앙라이 주" languages="Korean">치앙라이 주</name>
+	</region>
+	<region name="Chon Buri" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Chonburi" languages="Dutch">Changwat Chonburi</name>
+		<name normalized="Chon Buri" languages="English;official;Polish;Portuguese;Swedish;Vietnamese">Chon Buri</name>
+		<name normalized="Chon Buri Changwat" languages="English;official">Chon Buri Changwat</name>
+		<name normalized="Chon Buri Province" languages="English;official">Chon Buri Province</name>
+		<name normalized="Chonburi" languages="Dutch;English;German;Malay;Norwegian (bokmal);Waray">Chonburi</name>
+		<name normalized="Chonburi fylke" languages="Norwegian Nynorsk">Chonburi fylke</name>
+		<name normalized="Chonburi Hu" languages="Chinese (Min Nan)">Chonburi Hú</name>
+		<name normalized="Chonburi Province" languages="English">Chonburi Province</name>
+		<name normalized="Faritanin'i Chonburi" languages="Malagasy">Faritanin'i Chonburi</name>
+		<name normalized="Propinsi Chon Buri" languages="Achinese">Propinsi Chon Buri</name>
+		<name normalized="Province de Chonburi" languages="French">Province de Chonburi</name>
+		<name normalized="Provincia de Chon Buri" languages="Spanish">Provincia de Chon Buri</name>
+		<name normalized="Provincia de Chonburi" languages="Galician">Provincia de Chonburi</name>
+		<name normalized="Provincia di Chonburi" languages="Italian">Provincia di Chonburi</name>
+		<name normalized="Prowincja Chonburi" languages="Polish">Prowincja Chonburi</name>
+		<name normalized="Conburi" languages="Turkish">Çonburi</name>
+		<name normalized="Viлoiti Coн Buрi" languages="Tajik">Вилояти Чон Бури</name>
+		<name normalized="Coнbuрi" languages="Bulgarian;Russian">Чонбури</name>
+		<name normalized="אسtאن چونbوrی" languages="Persian">استان چونبوری</name>
+		<name normalized="sوbہ چونbوrی" languages="Western Punjabi">صوبہ چونبوری</name>
+		<name normalized="mhאfzة tشونbوry" languages="Arabic">محافظة تشونبوري</name>
+		<name normalized="چونbوrی" languages="Persian">چونبوری</name>
+		<name normalized="cাংৱাt conburi" languages="Bishnupria Manipuri">চাংৱাত চোনবুরি</name>
+		<name normalized="จังหวัดชลบุรี" languages="Thai">จังหวัดชลบุรี</name>
+		<name normalized="ชลบุรี" languages="Thai">ชลบุรี</name>
+		<name normalized="ຈັງຫວັດຊົນບຸລີ" languages="Lao">ຈັງຫວັດຊົນບຸລີ</name>
+		<name normalized="ཅཱོན་བུ་རི་ཞིང་ཆེན།" languages="Tibetan">ཅཱོན་བུ་རི་ཞིང་ཆེན།</name>
+		<name normalized="tョnbrー県" languages="Japanese">チョンブリー県</name>
+		<name normalized="春武里府" languages="Cantonese;Chinese;Classical Chinese;Wu">春武里府</name>
+		<name normalized="촌부리 주" languages="Korean">촌부리 주</name>
+	</region>
+	<region name="Chumphon" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Chumphon" languages="Dutch">Changwat Chumphon</name>
+		<name normalized="Chumphon" languages="Danish;Dutch;English;German;Malay;Norwegian (bokmal);official;Polish;Portuguese;Swedish;Vietnamese;Waray">Chumphon</name>
+		<name normalized="Chumphon Changwat" languages="English;official">Chumphon Changwat</name>
+		<name normalized="Chumphon Hu" languages="Chinese (Min Nan)">Chumphon Hú</name>
+		<name normalized="Chumphon Province" languages="English;official;Scots">Chumphon Province</name>
+		<name normalized="Chumpon" languages="French">Chumpon</name>
+		<name normalized="Faritanin'i Chumphon" languages="Malagasy">Faritanin'i Chumphon</name>
+		<name normalized="Propinsi Chumphon" languages="Achinese">Propinsi Chumphon</name>
+		<name normalized="Province de Chumpon" languages="French">Province de Chumpon</name>
+		<name normalized="Provincia de Chumphon" languages="Galician;Spanish">Provincia de Chumphon</name>
+		<name normalized="Provincia di Chumphon" languages="Italian">Provincia di Chumphon</name>
+		<name normalized="Provinsi Chumphon" languages="Indonesian">Provinsi Chumphon</name>
+		<name normalized="Prowincja Chumphon" languages="Polish">Prowincja Chumphon</name>
+		<name normalized="Cumphonas" languages="Lithuanian">Čumphonas</name>
+		<name normalized="Viлoiti Cuмpoн" languages="Tajik">Вилояти Чумпон</name>
+		<name normalized="Cuмpkoн" languages="Russian">Чумпхон</name>
+		<name normalized="Cuмфoн" languages="Bulgarian">Чумфон</name>
+		<name normalized="אسtאن چوmpون" languages="Persian">استان چومپون</name>
+		<name normalized="sوbہ چmpھون" languages="Western Punjabi">صوبہ چمپھون</name>
+		<name normalized="mhאfzة tشوmfون" languages="Arabic">محافظة تشومفون</name>
+		<name normalized="چmpھون" languages="Western Punjabi">چمپھون</name>
+		<name normalized="cাংৱাt cumpon" languages="Bishnupria Manipuri">চাংৱাত চুমফোন</name>
+		<name normalized="จังหวัดชุมพร" languages="Thai">จังหวัดชุมพร</name>
+		<name normalized="เทศบาลเมืองชุมพร" languages="Thai">เทศบาลเมืองชุมพร</name>
+		<name normalized="ཅུམ་ཕཱོན་ཞིང་ཆེན།" languages="Tibetan">ཅུམ་ཕཱོན་ཞིང་ཆེན།</name>
+		<name normalized="ཅུམ་ཕཱོན།" languages="Tibetan">ཅུམ་ཕཱོན།</name>
+		<name normalized="tympーn県" languages="Japanese">チュムポーン県</name>
+		<name normalized="春蓬府" languages="Chinese;Classical Chinese">春蓬府</name>
+		<name normalized="춤폰" languages="Korean">춤폰</name>
+		<name normalized="춤폰 주" languages="Korean">춤폰 주</name>
+	</region>
+	<region name="Kalasin" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Kalasin" languages="Dutch">Changwat Kalasin</name>
+		<name normalized="Faritanin'i Kalasin" languages="Malagasy">Faritanin'i Kalasin</name>
+		<name normalized="Kalasin" languages="Danish;Dutch;English;French;German;Italian;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Kalasin</name>
+		<name normalized="Kalasin Changwat" languages="English;official">Kalasin Changwat</name>
+		<name normalized="Kalasin Hu" languages="Chinese (Min Nan)">Kalasin Hú</name>
+		<name normalized="Kalasin Province" languages="English;official">Kalasin Province</name>
+		<name normalized="Kalasinas" languages="Lithuanian">Kalasinas</name>
+		<name normalized="Propinsi Kalasin" languages="Achinese">Propinsi Kalasin</name>
+		<name normalized="Province de Kalasin" languages="French">Province de Kalasin</name>
+		<name normalized="Provincia de Kalasin" languages="Galician;Spanish">Provincia de Kalasin</name>
+		<name normalized="Provincia di Kalasin" languages="Italian">Provincia di Kalasin</name>
+		<name normalized="Provinsi Kalasin" languages="Indonesian">Provinsi Kalasin</name>
+		<name normalized="Prowincja Kalasin" languages="Polish">Prowincja Kalasin</name>
+		<name normalized="Viлoiti Kaлaсiн" languages="Tajik">Вилояти Каласин</name>
+		<name normalized="Kaлaсiн" languages="Bulgarian;Russian">Каласин</name>
+		<name normalized="sوbہ کلאسن" languages="Western Punjabi">صوبہ کلاسن</name>
+		<name normalized="mhאfzة kאلאسyن" languages="Arabic">محافظة كالاسين</name>
+		<name normalized="کאلאسین" languages="Persian">کالاسین</name>
+		<name normalized="کلאسن" languages="Western Punjabi">کلاسن</name>
+		<name normalized="cাংৱাt kাlাsin" languages="Bishnupria Manipuri">চাংৱাত কালাসিন</name>
+		<name normalized="จังหวัดกาฬสินธุ์" languages="Thai">จังหวัดกาฬสินธุ์</name>
+		<name normalized="เทศบาลเมืองกาฬสินธุ์" languages="Thai">เทศบาลเมืองกาฬสินธุ์</name>
+		<name normalized="kーrsn県" languages="Japanese">カーラシン県</name>
+		<name normalized="加拉信府" languages="Chinese">加拉信府</name>
+		<name normalized="깔라신" languages="Korean">깔라신</name>
+		<name normalized="깔라신 주" languages="Korean">깔라신 주</name>
+	</region>
+	<region name="Kamphaeng Phet" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Kamphaeng Phet" languages="Dutch">Changwat Kamphaeng Phet</name>
+		<name normalized="Faritanin'i Kamphaeng Phet" languages="Malagasy">Faritanin'i Kamphaeng Phet</name>
+		<name normalized="Kamfaeng Fet" languages="Croatian">Kamfaeng Fet</name>
+		<name normalized="Kamphaeng Phet" languages="Dutch;English;Finnish;French;German;Italian;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Kamphaeng Phet</name>
+		<name normalized="Kamphaeng Phet Changwat" languages="English;official">Kamphaeng Phet Changwat</name>
+		<name normalized="Kamphaeng Phet Hu" languages="Chinese (Min Nan)">Kamphaeng Phet Hú</name>
+		<name normalized="Kamphaeng Phet Province" languages="English;official;Scots">Kamphaeng Phet Province</name>
+		<name normalized="Lalawigan ng Kamphaeng Phet" languages="Tagalog">Lalawigan ng Kamphaeng Phet</name>
+		<name normalized="Propinsi Kamphaeng Phet" languages="Achinese">Propinsi Kamphaeng Phet</name>
+		<name normalized="Province de Kamphaeng Phet" languages="French">Province de Kamphaeng Phet</name>
+		<name normalized="Provincia de Kamphaeng Phet" languages="Galician;Spanish">Provincia de Kamphaeng Phet</name>
+		<name normalized="Provincia di Kamphaeng Phet" languages="Italian">Provincia di Kamphaeng Phet</name>
+		<name normalized="Provinsi Kamphaeng Phet" languages="Indonesian">Provinsi Kamphaeng Phet</name>
+		<name normalized="Prowincja Kamphaeng Phet" languages="Polish">Prowincja Kamphaeng Phet</name>
+		<name normalized="Viлoiti Kaмpaiнg Pit" languages="Tajik">Вилояти Кампаенг Пет</name>
+		<name normalized="Kaмpaiнg Pit" languages="Bulgarian">Кампаенг Пет</name>
+		<name normalized="Kaмpkeнgpkit" languages="Russian">Кампхэнгпхет</name>
+		<name normalized="sوbہ لאmpھאئنg pھٹ" languages="Western Punjabi">صوبہ لامپھائنگ پھٹ</name>
+		<name normalized="kאmfאyنغ fyt" languages="Arabic">كامفاينغ فيت</name>
+		<name normalized="لאmpھאئنg pھٹ" languages="Western Punjabi">لامپھائنگ پھٹ</name>
+		<name normalized="کאmfאئنg ft" languages="Persian">کامفائنگ فت</name>
+		<name normalized="cাংৱাt kাmpাy়eং pet" languages="Bishnupria Manipuri">চাংৱাত কামফায়েং ফেত</name>
+		<name normalized="จังหวัดกำแพงเพชร" languages="Thai">จังหวัดกำแพงเพชร</name>
+		<name normalized="kmpーnptt県" languages="Japanese">カムペーンペット県</name>
+		<name normalized="甘烹碧府" languages="Chinese">甘烹碧府</name>
+		<name normalized="깜팽펫" languages="Korean">깜팽펫</name>
+		<name normalized="깜팽펫 주" languages="Korean">깜팽펫 주</name>
+	</region>
+	<region name="Kanchanaburi" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Kanchanaburi" languages="Dutch">Changwat Kanchanaburi</name>
+		<name normalized="Faritanin'i Kanchanaburi" languages="Malagasy">Faritanin'i Kanchanaburi</name>
+		<name normalized="Kanchanaburi" languages="Dutch;English;French;German;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish;Vietnamese;Waray">Kanchanaburi</name>
+		<name normalized="Kanchanaburi Changwat" languages="English;official">Kanchanaburi Changwat</name>
+		<name normalized="Kanchanaburi Hu" languages="Chinese (Min Nan)">Kanchanaburi Hú</name>
+		<name normalized="Kanchanaburi Province" languages="English;official;Scots">Kanchanaburi Province</name>
+		<name normalized="Kancsanaburi" languages="Hungarian">Kancsanaburi</name>
+		<name normalized="Propinsi Kanchanaburi" languages="Achinese">Propinsi Kanchanaburi</name>
+		<name normalized="Province de Kanchanaburi" languages="French">Province de Kanchanaburi</name>
+		<name normalized="Provincia de Kanchanaburi" languages="Galician;Spanish">Provincia de Kanchanaburi</name>
+		<name normalized="Provincia di Kanchanaburi" languages="Italian">Provincia di Kanchanaburi</name>
+		<name normalized="Prowincja Kanchanaburi" languages="Polish">Prowincja Kanchanaburi</name>
+		<name normalized="Viлoiti Kaнcaнabuрi" languages="Tajik">Вилояти Канчанабури</name>
+		<name normalized="Kaнcaнabuрi" languages="Bulgarian;Russian">Канчанабури</name>
+		<name normalized="sوbہ کאنچאنאbوrی" languages="Western Punjabi">صوبہ کانچانابوری</name>
+		<name normalized="mhאfzة kאنtشאنאbوry" languages="Arabic">محافظة كانتشانابوري</name>
+		<name normalized="کאنtچאنאbوrی" languages="Persian">کانتچانابوری</name>
+		<name normalized="کאنچאنאbوrی" languages="Western Punjabi">کانچانابوری</name>
+		<name normalized="cাংৱাt kাncাnাburi" languages="Bishnupria Manipuri">চাংৱাত কানচানাবুরি</name>
+		<name normalized="காஞ்சனபுரி" languages="Tamil">காஞ்சனபுரி</name>
+		<name normalized="จังหวัดกาญจนบุรี" languages="Thai">จังหวัดกาญจนบุรี</name>
+		<name normalized="ཀཱན་ཅ་ན་བུ་རི་ཞིང་ཆེན།" languages="Tibetan">ཀཱན་ཅ་ན་བུ་རི་ཞིང་ཆེན།</name>
+		<name normalized="ཀཱན་ཅ་ན་བུ་རི།" languages="Tibetan">ཀཱན་ཅ་ན་བུ་རི།</name>
+		<name normalized="kーntynbrー県" languages="Japanese">カーンチャナブリー県</name>
+		<name normalized="北碧府" languages="Chinese;Wu">北碧府</name>
+		<name normalized="깐짜나부리" languages="Korean">깐짜나부리</name>
+		<name normalized="깐짜나부리 주" languages="Korean">깐짜나부리 주</name>
+	</region>
+	<region name="Khon Kaen" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Khon Kaen" languages="Dutch">Changwat Khon Kaen</name>
+		<name normalized="Faritanin'i Khon Kaen" languages="Malagasy">Faritanin'i Khon Kaen</name>
+		<name normalized="Khon Kaen" languages="Catalan;Danish;Dutch;English;French;German;Italian;Kalaallisut;Malay;Norwegian (bokmal);official;Polish;Portuguese;Slovenian;Spanish;Swedish;Vietnamese;Waray">Khon Kaen</name>
+		<name normalized="Khon Kaen Changwat" languages="English;official">Khon Kaen Changwat</name>
+		<name normalized="Khon Kaen Hu" languages="Chinese (Min Nan)">Khon Kaen Hú</name>
+		<name normalized="Khon Kaen Province" languages="English;official">Khon Kaen Province</name>
+		<name normalized="Propinsi Khon Kaen" languages="Achinese">Propinsi Khon Kaen</name>
+		<name normalized="Province de Khon Kaen" languages="French">Province de Khon Kaen</name>
+		<name normalized="Provincia de Khon Kaen" languages="Galician;Spanish">Provincia de Khon Kaen</name>
+		<name normalized="Provincia di Khon Kaen" languages="Italian">Provincia di Khon Kaen</name>
+		<name normalized="Provinsi Khon Kaen" languages="Indonesian">Provinsi Khon Kaen</name>
+		<name normalized="Prowincja Khon Kaen" languages="Polish">Prowincja Khon Kaen</name>
+		<name normalized="Viлoiti Koн Kaiн" languages="Tajik">Вилояти Хон Каен</name>
+		<name normalized="Kkoн Kaiн" languages="Bulgarian">Кхон Каен</name>
+		<name normalized="Kkoнkeн" languages="Russian">Кхонкэн</name>
+		<name normalized="qvן qאן" languages="Hebrew">קון קאן</name>
+		<name normalized="خون کאین" languages="Persian">خون کاین</name>
+		<name normalized="sوbہ کھون کאئن" languages="Western Punjabi">صوبہ کھون کائن</name>
+		<name normalized="mhאfzة خون kאyن" languages="Arabic">محافظة خون كاين</name>
+		<name normalized="کھون کאئن" languages="Western Punjabi">کھون کائن</name>
+		<name normalized="cাংৱাt kon kাy়en" languages="Bishnupria Manipuri">চাংৱাত খোন কায়েন</name>
+		<name normalized="จังหวัดขอนแก่น" languages="Thai">จังหวัดขอนแก่น</name>
+		<name normalized="เทศบาลนครขอนแก่น" languages="Thai">เทศบาลนครขอนแก่น</name>
+		<name normalized="ຈັງຫວັດຂອນແກ່ນ" languages="Lao">ຈັງຫວັດຂອນແກ່ນ</name>
+		<name normalized="kーnkn県" languages="Japanese">コーンケン県</name>
+		<name normalized="坤敬市" languages="Wu">坤敬市</name>
+		<name normalized="坤敬府" languages="Chinese;Wu">坤敬府</name>
+		<name normalized="孔敬" languages="Chinese">孔敬</name>
+		<name normalized="콘깬" languages="Korean">콘깬</name>
+		<name normalized="콘깬 주" languages="Korean">콘깬 주</name>
+	</region>
+	<region name="Krabi" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Krabi" languages="Dutch">Changwat Krabi</name>
+		<name normalized="Faritanin'i Krabi" languages="Malagasy">Faritanin'i Krabi</name>
+		<name normalized="Krabi" languages="Dutch;English;Finnish;French;German;Hungarian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Swedish;Vietnamese;Waray">Krabi</name>
+		<name normalized="Krabi Changwat" languages="English;official">Krabi Changwat</name>
+		<name normalized="Krabi Hu" languages="Chinese (Min Nan)">Krabi Hú</name>
+		<name normalized="Krabi Province" languages="English;official;Scots">Krabi Province</name>
+		<name normalized="Propinsi Krabi" languages="Achinese">Propinsi Krabi</name>
+		<name normalized="Province de Krabi" languages="French">Province de Krabi</name>
+		<name normalized="Provincia de Krabi" languages="Galician;Spanish">Provincia de Krabi</name>
+		<name normalized="Provincia di Krabi" languages="Italian">Provincia di Krabi</name>
+		<name normalized="Provinsi Krabi" languages="Indonesian">Provinsi Krabi</name>
+		<name normalized="Prowincja Krabi" languages="Polish">Prowincja Krabi</name>
+		<name normalized="Κραμπι" languages="Greek">Κράμπι</name>
+		<name normalized="Viлoiti Kрabi" languages="Tajik">Вилояти Краби</name>
+		<name normalized="Kрabi" languages="Bulgarian;Russian">Краби</name>
+		<name normalized="sوbہ کrאbی" languages="Western Punjabi">صوبہ کرابی</name>
+		<name normalized="mhאfzة krאby" languages="Arabic">محافظة كرابي</name>
+		<name normalized="کrאbی" languages="Persian;Western Punjabi">کرابی</name>
+		<name normalized="cাংৱাt k্rাbi" languages="Bishnupria Manipuri">চাংৱাত ক্রাবি</name>
+		<name normalized="จังหวัดกระบี่" languages="Thai">จังหวัดกระบี่</name>
+		<name normalized="krbー県" languages="Japanese">クラビー県</name>
+		<name normalized="甲米" languages="Chinese">甲米</name>
+		<name normalized="甲米府" languages="Cantonese;Chinese;Classical Chinese">甲米府</name>
+		<name normalized="끄라비" languages="Korean">끄라비</name>
+		<name normalized="끄라비 주" languages="Korean">끄라비 주</name>
+	</region>
+	<region name="Krung Thep Mahanakhon" type="province" typeTranslated="changwat">
+		<name normalized="Bancocum" languages="Latin">Bancocum</name>
+		<name normalized="Bancac" languages="Irish">Bancác</name>
+		<name normalized="Banghok" languages="Interlingue">Banghok</name>
+		<name normalized="Bangkok" languages="Achinese;Afrikaans;Albanian;Aragonese;Banjar;Basque;Bosnian;Breton;Catalan;Cebuano;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Deitsch;Dutch;English;Estonian;Extremaduran;Fiji Hindi;Finnish;Franco-Provencal;French;Galician;German;Haitian;Hungarian;Icelandic;Ido;Iloko;Indonesian;Italian;Javanese;Kalaallisut;Kurdish;Lower Sorbian;lumbaart;Luxembourgish;Malagasy;Malay;Minangkabau;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Papiamento;Piedmontese;Polish;Quechua;Romanian;Scots;Scottish Gaelic;Seeltersk;Serbo-Croatian;Shona;Sicilian;Silesian;Simple English;Slovak;Slovenian;Somali;Spanish;Swahili;Swedish;Tagalog;tarandine;Tatar;Turkish;Turkmen;Upper Sorbian;Uyghur;Uzbek;Vietnamese;Voro;Waray;Welsh;West-Vlams;Western Frisian;Yoruba;Zeeuws;Zhuang">Bangkok</name>
+		<name normalized="Bangkok Changwat" languages="English;official">Bangkok Changwat</name>
+		<name normalized="Bangkok Province" languages="English;official">Bangkok Province</name>
+		<name normalized="Bangkoka" languages="Latvian">Bangkoka</name>
+		<name normalized="Bangkok" languages="Occitan">Bangkòk</name>
+		<name normalized="Banguecoque" languages="Mirandese;Portuguese">Banguecoque</name>
+		<name normalized="Bankokas" languages="Lithuanian">Bankokas</name>
+		<name normalized="Bankoko" languages="Esperanto">Bankoko</name>
+		<name normalized="Bankoks" languages="Samogitian">Bankoks</name>
+		<name normalized="Banqkok" languages="Azerbaijani">Banqkok</name>
+		<name normalized="Krung Thep Mahanakhon" languages="English;official">Krung Thep Mahanakhon</name>
+		<name normalized="Krung Thep Mahanakhon Changwat" languages="English;official">Krung Thep Mahanakhon Changwat</name>
+		<name normalized="Krung Thep Mahanakhon Province" languages="English;official">Krung Thep Mahanakhon Province</name>
+		<name normalized="Man-kuk" languages="Hakka">Màn-kuk</name>
+		<name normalized="Vakoke" languages="Guarani">Vãkoke</name>
+		<name normalized="Μπανγκοκ" languages="Greek">Μπανγκόκ</name>
+		<name normalized="Baнgkok" languages="Chechen;Chuvash;Eastern Mari;Kazakh;Komi-Permyak;Macedonian;Mongolian;Ossetic;Russian;Serbian;Tajik;Ukrainian;biлaрuсkai (taрaskivita)‎">Бангкок</name>
+		<name normalized="Baнkok" languages="Bulgarian;Rusyn">Банкок</name>
+		<name normalized="Bankok" languages="Sakha">Баҥкок</name>
+		<name normalized="Goрad Baнgkok" languages="Belarusian">Горад Бангкок</name>
+		<name normalized="Bանգkvk" languages="Armenian">Բանգկոկ</name>
+		<name normalized="bאnגqאq" languages="Yiddish">באנגקאק</name>
+		<name normalized="bnגqvq" languages="Hebrew">בנגקוק</name>
+		<name normalized="bאنkوk" languages="Arabic;Egyptian Spoken Arabic">بانكوك</name>
+		<name normalized="bאنکوک" languages="Persian">بانکوک</name>
+		<name normalized="bאنکۆک" languages="Sorani Kurdish">بانکۆک</name>
+		<name normalized="bאنgکوک" languages="Pashto">بانگکوک</name>
+		<name normalized="bنکאک" languages="Urdu;Western Punjabi">بنکاک</name>
+		<name normalized="bँkok" languages="Marathi">बँकॉक</name>
+		<name normalized="baंkk" languages="Newari">बैंकक</name>
+		<name normalized="baंkok" languages="Hindi">बैंकॉक</name>
+		<name normalized="cাংৱাt b্yাংkk" languages="Bishnupria Manipuri">চাংৱাত ব্যাংকক</name>
+		<name normalized="b্yাংkk" languages="Bengali">ব্যাংকক</name>
+		<name normalized="baਂkਾk" languages="Punjabi">ਬੈਂਕਾਕ</name>
+		<name normalized="பேங்காக்" languages="Tamil">பேங்காக்</name>
+		<name normalized="ಬ್ಯಾಂಕಾಕ್" languages="Kannada">ಬ್ಯಾಂಕಾಕ್</name>
+		<name normalized="ബാങ്കോക്ക്" languages="Malayalam">ബാങ്കോക്ക്</name>
+		<name normalized="බැංකොක්" languages="Sinhala">බැංකොක්</name>
+		<name normalized="กรุงเทพมหานคร" languages="Thai">กรุงเทพมหานคร</name>
+		<name normalized="ບາງກອກ" languages="Lao">ບາງກອກ</name>
+		<name normalized="པན་ཀོག" languages="Tibetan">པན་ཀོག</name>
+		<name normalized="ဘန်ကောက်မြို့" languages="Burmese">ဘန်ကောက်မြို့</name>
+		<name normalized="ბანგკოკი" languages="Georgian">ბანგკოკი</name>
+		<name normalized="ባንኮክ" languages="Amharic">ባንኮክ</name>
+		<name normalized="bnkk" languages="Japanese">バンコク</name>
+		<name normalized="曼谷" languages="Cantonese;Chinese;Classical Chinese;Wu">曼谷</name>
+		<name normalized="방콕" languages="Korean">방콕</name>
+	</region>
+	<region name="Lampang" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Lampang" languages="Dutch">Changwat Lampang</name>
+		<name normalized="Faritanin'i Lampang" languages="Malagasy">Faritanin'i Lampang</name>
+		<name normalized="Lalawigan ng Lampang" languages="Tagalog">Lalawigan ng Lampang</name>
+		<name normalized="Lampang" languages="Dutch;English;Finnish;French;German;Malay;Norwegian (bokmal);official;Polish;Portuguese;Swedish;Vietnamese;Waray">Lampang</name>
+		<name normalized="Lampang Changwat" languages="English;official">Lampang Changwat</name>
+		<name normalized="Lampang Hu" languages="Chinese (Min Nan)">Lampang Hú</name>
+		<name normalized="Lampang Province" languages="English;official;Scots">Lampang Province</name>
+		<name normalized="Lampangas" languages="Lithuanian">Lampangas</name>
+		<name normalized="Propinsi Lampang" languages="Achinese">Propinsi Lampang</name>
+		<name normalized="Province de Lampang" languages="French">Province de Lampang</name>
+		<name normalized="Provincia de Lampang" languages="Galician;Spanish">Provincia de Lampang</name>
+		<name normalized="Provincia di Lampang" languages="Italian">Provincia di Lampang</name>
+		<name normalized="Provinsi Lampang" languages="Indonesian">Provinsi Lampang</name>
+		<name normalized="Prowincja Lampang" languages="Polish">Prowincja Lampang</name>
+		<name normalized="Viлoiti Лaмpaнg" languages="Tajik">Вилояти Лампанг</name>
+		<name normalized="Лaмpaнg" languages="Bulgarian;Russian">Лампанг</name>
+		<name normalized="אسtאن لאmpאنg" languages="Persian">استان لامپانگ</name>
+		<name normalized="sوbہ لאmpאنg" languages="Western Punjabi">صوبہ لامپانگ</name>
+		<name normalized="لאmbאنغ" languages="Arabic">لامبانغ</name>
+		<name normalized="لאmpאنg" languages="Western Punjabi">لامپانگ</name>
+		<name normalized="cাংৱাt lাm্pাং" languages="Bishnupria Manipuri">চাংৱাত লাম্পাং</name>
+		<name normalized="จังหวัดลำปาง" languages="Thai">จังหวัดลำปาง</name>
+		<name normalized="เทศบาลนครลำปาง" languages="Thai">เทศบาลนครลำปาง</name>
+		<name normalized="ལམ་པང་།" languages="Tibetan">ལམ་པང་།</name>
+		<name normalized="ལམ་པང་ཞིང་ཆེན།" languages="Tibetan">ལམ་པང་ཞིང་ཆེན།</name>
+		<name normalized="rmpーn県" languages="Japanese">ラムパーン県</name>
+		<name normalized="南邦府" languages="Chinese">南邦府</name>
+		<name normalized="람빵" languages="Korean">람빵</name>
+		<name normalized="람빵 주" languages="Korean">람빵 주</name>
+	</region>
+	<region name="Lamphun" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Lamphun" languages="Dutch">Changwat Lamphun</name>
+		<name normalized="Faritanin'i Lamphun" languages="Malagasy">Faritanin'i Lamphun</name>
+		<name normalized="Lalawigan ng Lamphun" languages="Tagalog">Lalawigan ng Lamphun</name>
+		<name normalized="Lamphun" languages="Dutch;English;Finnish;French;German;Malay;Norwegian (bokmal);official;Polish;Portuguese;Swedish;Vietnamese;Waray">Lamphun</name>
+		<name normalized="Lamphun Changwat" languages="English;official">Lamphun Changwat</name>
+		<name normalized="Lamphun Hu" languages="Chinese (Min Nan)">Lamphun Hú</name>
+		<name normalized="Lamphun Province" languages="English;official;Scots">Lamphun Province</name>
+		<name normalized="Propinsi Lamphun" languages="Achinese">Propinsi Lamphun</name>
+		<name normalized="Province de Lamphun" languages="French">Province de Lamphun</name>
+		<name normalized="Provincia de Lamphun" languages="Galician;Spanish">Provincia de Lamphun</name>
+		<name normalized="Provincia di Lamphun" languages="Italian">Provincia di Lamphun</name>
+		<name normalized="Provinsi Lamphun" languages="Indonesian">Provinsi Lamphun</name>
+		<name normalized="Provincia de Lamphun" languages="Catalan">Província de Lamphun</name>
+		<name normalized="Prowincja Lamphun" languages="Polish">Prowincja Lamphun</name>
+		<name normalized="Viлoiti Лaмpuн" languages="Tajik">Вилояти Лампун</name>
+		<name normalized="Лaмpkuн" languages="Bulgarian;Russian">Лампхун</name>
+		<name normalized="אسtאن لאmfون" languages="Persian">استان لامفون</name>
+		<name normalized="sوbہ لאmpھون" languages="Western Punjabi">صوبہ لامپھون</name>
+		<name normalized="لאmpھون" languages="Western Punjabi">لامپھون</name>
+		<name normalized="mhאfzة لאmfون" languages="Arabic">محافظة لامفون</name>
+		<name normalized="cাংৱাt lাmpun" languages="Bishnupria Manipuri">চাংৱাত লামফুন</name>
+		<name normalized="จังหวัดลำพูน" languages="Thai">จังหวัดลำพูน</name>
+		<name normalized="เทศบาลเมืองลำพูน" languages="Thai">เทศบาลเมืองลำพูน</name>
+		<name normalized="rmpーn県" languages="Japanese">ラムプーン県</name>
+		<name normalized="南奔" languages="Chinese">南奔</name>
+		<name normalized="南奔府" languages="Chinese">南奔府</name>
+		<name normalized="람푼" languages="Korean">람푼</name>
+		<name normalized="람푼 주" languages="Korean">람푼 주</name>
+	</region>
+	<region name="Loei" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Loei" languages="Dutch">Changwat Loei</name>
+		<name normalized="Faritanin'i Loei" languages="Malagasy">Faritanin'i Loei</name>
+		<name normalized="Loei" languages="Dutch;English;French;German;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Loei</name>
+		<name normalized="Loei Changwat" languages="English;official">Loei Changwat</name>
+		<name normalized="Loei Hu" languages="Chinese (Min Nan)">Loei Hú</name>
+		<name normalized="Loei Province" languages="English;official">Loei Province</name>
+		<name normalized="Propinsi Loei" languages="Achinese">Propinsi Loei</name>
+		<name normalized="Province de Loei" languages="French">Province de Loei</name>
+		<name normalized="Provincia de Loei" languages="Galician;Spanish">Provincia de Loei</name>
+		<name normalized="Provincia di Loei" languages="Italian">Provincia di Loei</name>
+		<name normalized="Provinsi Loei" languages="Indonesian">Provinsi Loei</name>
+		<name normalized="Prowincja Loei" languages="Polish">Prowincja Loei</name>
+		<name normalized="Viлoiti Лoii" languages="Tajik">Вилояти Лоеи</name>
+		<name normalized="Лoii" languages="Bulgarian">Лоеи</name>
+		<name normalized="Лёй" languages="Russian">Лёй</name>
+		<name normalized="אسtאن لوئی" languages="Persian">استان لوئی</name>
+		<name normalized="sوbہ لوئیئی" languages="Western Punjabi">صوبہ لوئیئی</name>
+		<name normalized="لوئیئی" languages="Western Punjabi">لوئیئی</name>
+		<name normalized="mhאfzة لوyy" languages="Arabic">محافظة لويي</name>
+		<name normalized="cাংৱাt loy়ei" languages="Bishnupria Manipuri">চাংৱাত লোয়েই</name>
+		<name normalized="จังหวัดเลย" languages="Thai">จังหวัดเลย</name>
+		<name normalized="เทศบาลเมืองเลย" languages="Thai">เทศบาลเมืองเลย</name>
+		<name normalized="ຈັງຫວັດເລີຍ" languages="Lao">ຈັງຫວັດເລີຍ</name>
+		<name normalized="ལོའི་ཞིང་ཆེན།" languages="Tibetan">ལོའི་ཞིང་ཆེན།</name>
+		<name normalized="ལོའི།" languages="Tibetan">ལོའི།</name>
+		<name normalized="rーi県" languages="Japanese">ルーイ県</name>
+		<name normalized="黎府" languages="Chinese">黎府</name>
+		<name normalized="르이" languages="Korean">르이</name>
+		<name normalized="르이 주" languages="Korean">르이 주</name>
+	</region>
+	<region name="Lop Buri" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Lopburi" languages="Dutch">Changwat Lopburi</name>
+		<name normalized="Faritanin'i Lopburi" languages="Malagasy">Faritanin'i Lopburi</name>
+		<name normalized="Lop Buri" languages="English;Norwegian (bokmal);official;Polish;Portuguese;Swedish">Lop Buri</name>
+		<name normalized="Lop Buri Changwat" languages="English;official">Lop Buri Changwat</name>
+		<name normalized="Lop Buri Province" languages="English;official">Lop Buri Province</name>
+		<name normalized="Lopburi" languages="Dutch;English;French;German;Italian;Malay;Norwegian (bokmal);Portuguese;Scots;Simple English;Spanish;Vietnamese;Waray">Lopburi</name>
+		<name normalized="Lopburi Hu" languages="Chinese (Min Nan)">Lopburi Hú</name>
+		<name normalized="Lopburi Province" languages="English;Scots">Lopburi Province</name>
+		<name normalized="Propinsi Lop Buri" languages="Achinese">Propinsi Lop Buri</name>
+		<name normalized="Province de Lopburi" languages="French">Province de Lopburi</name>
+		<name normalized="Provincia de Lopburi" languages="Galician;Spanish">Provincia de Lopburi</name>
+		<name normalized="Provincia di Lopburi" languages="Italian">Provincia di Lopburi</name>
+		<name normalized="Prowincja Lopburi" languages="Polish">Prowincja Lopburi</name>
+		<name normalized="Viлoiti Лopbuрi" languages="Tajik">Вилояти Лопбури</name>
+		<name normalized="Лopbuрi" languages="Bulgarian;Russian">Лопбури</name>
+		<name normalized="sوbہ لوp bوrی" languages="Western Punjabi">صوبہ لوپ بوری</name>
+		<name normalized="لوpbوrی" languages="Persian;Western Punjabi">لوپبوری</name>
+		<name normalized="mhאfzة لوbوry" languages="Arabic">محافظة لوبوري</name>
+		<name normalized="cাংৱাt lopburi" languages="Bishnupria Manipuri">চাংৱাত লোপবুরি</name>
+		<name normalized="லோப்புரி மாகாணம்" languages="Tamil">லோப்புரி மாகாணம்</name>
+		<name normalized="จังหวัดลพบุรี" languages="Thai">จังหวัดลพบุรี</name>
+		<name normalized="เทศบาลเมืองลพบุรี" languages="Thai">เทศบาลเมืองลพบุรี</name>
+		<name normalized="rtbrー県" languages="Japanese">ロッブリー県</name>
+		<name normalized="華富里府" languages="Chinese">華富里府</name>
+		<name normalized="롭부리" languages="Korean">롭부리</name>
+		<name normalized="롭부리 주" languages="Korean">롭부리 주</name>
+	</region>
+	<region name="Mae Hong Son" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Mae Hong Son" languages="Dutch">Changwat Mae Hong Son</name>
+		<name normalized="Faritanin'i Mae Hong Son" languages="Malagasy">Faritanin'i Mae Hong Son</name>
+		<name normalized="Lalawigan ng Mae Hong Son" languages="Tagalog">Lalawigan ng Mae Hong Son</name>
+		<name normalized="Mae Hong Son" languages="Dutch;English;Finnish;French;German;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Mae Hong Son</name>
+		<name normalized="Mae Hong Son Changwat" languages="English;official">Mae Hong Son Changwat</name>
+		<name normalized="Mae Hong Son Hu" languages="Chinese (Min Nan)">Mae Hong Son Hú</name>
+		<name normalized="Mae Hong Son Province" languages="English;official;Scots">Mae Hong Son Province</name>
+		<name normalized="Mehongsonas" languages="Lithuanian">Mehongsonas</name>
+		<name normalized="Propinsi Mae Hong Son" languages="Achinese">Propinsi Mae Hong Son</name>
+		<name normalized="Province de Mae Hong Son" languages="French">Province de Mae Hong Son</name>
+		<name normalized="Provincia de Mae Hong Son" languages="Galician;Spanish">Provincia de Mae Hong Son</name>
+		<name normalized="Provincia di Mae Hong Son" languages="Italian">Provincia di Mae Hong Son</name>
+		<name normalized="Provinsi Mae Hong Son" languages="Indonesian">Provinsi Mae Hong Son</name>
+		<name normalized="Prowincja Mae Hong Son" languages="Polish">Prowincja Mae Hong Son</name>
+		<name normalized="Viлoiti Мai Hoнg Сoн" languages="Tajik">Вилояти Мае Ҳонг Сон</name>
+		<name normalized="Мai Koнg Сoн" languages="Bulgarian">Мае Хонг Сон</name>
+		<name normalized="Мekoнgсoн" languages="Russian">Мэхонгсон</name>
+		<name normalized="אسtאن mאی hونg سون" languages="Persian">استان مای هونگ سون</name>
+		<name normalized="sوbہ mאئے ہאنg سن" languages="Western Punjabi">صوبہ مائے ہانگ سن</name>
+		<name normalized="mאئے ہאنg سن" languages="Western Punjabi">مائے ہانگ سن</name>
+		<name normalized="mאy hونغ سون" languages="Arabic">ماي هونغ سون</name>
+		<name normalized="mhאfzة mאy hونj سون" languages="Arabic">محافظة ماي هونج سون</name>
+		<name normalized="cাংৱাt mাy়e hoং son" languages="Bishnupria Manipuri">চাংৱাত মায়ে হোং সোন</name>
+		<name normalized="จังหวัดแม่ฮ่องสอน" languages="Thai">จังหวัดแม่ฮ่องสอน</name>
+		<name normalized="เทศบาลเมืองแม่ฮ่องสอน" languages="Thai">เทศบาลเมืองแม่ฮ่องสอน</name>
+		<name normalized="ຈັງຫວັດແມ່ຮ່ອງສອນ" languages="Lao">ຈັງຫວັດແມ່ຮ່ອງສອນ</name>
+		<name normalized="མའེ་ཧོང་སཱོན།" languages="Tibetan">མའེ་ཧོང་སཱོན།</name>
+		<name normalized="mーhnsーn県" languages="Japanese">メーホンソーン県</name>
+		<name normalized="湄宏順府" languages="Chinese">湄宏順府</name>
+		<name normalized="매홍손" languages="Korean">매홍손</name>
+		<name normalized="매홍손 주" languages="Korean">매홍손 주</name>
+	</region>
+	<region name="Maha Sarakham" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Maha Sarakham" languages="Dutch">Changwat Maha Sarakham</name>
+		<name normalized="Faritanin'i Maha Sarakham" languages="Malagasy">Faritanin'i Maha Sarakham</name>
+		<name normalized="Maha Sarakham" languages="Dutch;English;French;German;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Maha Sarakham</name>
+		<name normalized="Maha Sarakham Changwat" languages="English;official">Maha Sarakham Changwat</name>
+		<name normalized="Maha Sarakham Hu" languages="Chinese (Min Nan)">Maha Sarakham Hú</name>
+		<name normalized="Maha Sarakham Province" languages="English;official">Maha Sarakham Province</name>
+		<name normalized="Propinsi Maha Sarakham" languages="Achinese">Propinsi Maha Sarakham</name>
+		<name normalized="Province de Maha Sarakham" languages="French">Province de Maha Sarakham</name>
+		<name normalized="Provincia de Maha Sarakham" languages="Galician;Spanish">Provincia de Maha Sarakham</name>
+		<name normalized="Provincia di Maha Sarakham" languages="Italian">Provincia di Maha Sarakham</name>
+		<name normalized="Provinsi Maha Sarakham" languages="Indonesian">Provinsi Maha Sarakham</name>
+		<name normalized="Prowincja Maha Sarakham" languages="Polish">Prowincja Maha Sarakham</name>
+		<name normalized="Viлoiti Мaha Сaрaxaм" languages="Tajik">Вилояти Маҳа Сараxам</name>
+		<name normalized="Мaka Сaрakaм" languages="Bulgarian">Маха Саракам</name>
+		<name normalized="Мakaсaрakaм" languages="Russian">Махасаракам</name>
+		<name normalized="אسtאن mאhא سאrאخאm" languages="Persian">استان ماها ساراخام</name>
+		<name normalized="sوbہ mہא سrאکھאm" languages="Western Punjabi">صوبہ مہا سراکھام</name>
+		<name normalized="mhאfzة mאhא سאrאخאm" languages="Arabic">محافظة ماها ساراخام</name>
+		<name normalized="mہא سrאکھאm" languages="Western Punjabi">مہا سراکھام</name>
+		<name normalized="cাংৱাt mাhা sাrাkাm" languages="Bishnupria Manipuri">চাংৱাত মাহা সারাখাম</name>
+		<name normalized="จังหวัดมหาสารคาม" languages="Thai">จังหวัดมหาสารคาม</name>
+		<name normalized="เทศบาลเมืองมหาสารคาม" languages="Thai">เทศบาลเมืองมหาสารคาม</name>
+		<name normalized="mhーsーrkーm県" languages="Japanese">マハーサーラカーム県</name>
+		<name normalized="瑪哈沙拉堪府" languages="Chinese">瑪哈沙拉堪府</name>
+		<name normalized="마하사라캄" languages="Korean">마하사라캄</name>
+		<name normalized="마하사라캄 주" languages="Korean">마하사라캄 주</name>
+	</region>
+	<region name="Mukdahan" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Mukdahan" languages="Dutch">Changwat Mukdahan</name>
+		<name normalized="Faritanin'i Mukdahan" languages="Malagasy">Faritanin'i Mukdahan</name>
+		<name normalized="Mukdahan" languages="Dutch;English;French;German;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Mukdahan</name>
+		<name normalized="Mukdahan Changwat" languages="English;official">Mukdahan Changwat</name>
+		<name normalized="Mukdahan Hu" languages="Chinese (Min Nan)">Mukdahan Hú</name>
+		<name normalized="Mukdahan Province" languages="English;official">Mukdahan Province</name>
+		<name normalized="Propinsi Mukdahan" languages="Achinese">Propinsi Mukdahan</name>
+		<name normalized="Province de Mukdahan" languages="French">Province de Mukdahan</name>
+		<name normalized="Provincia de Mukdahan" languages="Galician;Spanish">Provincia de Mukdahan</name>
+		<name normalized="Provincia di Mukdahan" languages="Italian">Provincia di Mukdahan</name>
+		<name normalized="Provinsi Mukdahan" languages="Indonesian">Provinsi Mukdahan</name>
+		<name normalized="Prowincja Mukdahan" languages="Polish">Prowincja Mukdahan</name>
+		<name normalized="Viлoiti Мukdahaн" languages="Tajik">Вилояти Мукдаҳан</name>
+		<name normalized="Мukdakaн" languages="Bulgarian">Мукдахан</name>
+		<name normalized="אسtאن mوکدאhאن" languages="Persian">استان موکداهان</name>
+		<name normalized="sوbہ mکڈאہאن" languages="Western Punjabi">صوبہ مکڈاہان</name>
+		<name normalized="mhאfzة mوkدאhאن" languages="Arabic">محافظة موكداهان</name>
+		<name normalized="mکدאہאن" languages="Western Punjabi">مکداہان</name>
+		<name normalized="cাংৱাt mukdাhাn" languages="Bishnupria Manipuri">চাংৱাত মুকদাহান</name>
+		<name normalized="จังหวัดมุกดาหาร" languages="Thai">จังหวัดมุกดาหาร</name>
+		<name normalized="เทศบาลเมืองมุกดาหาร" languages="Thai">เทศบาลเมืองมุกดาหาร</name>
+		<name normalized="མུཀ་ད་ཧཱན་ཞིང་ཆེན།" languages="Tibetan">མུཀ་ད་ཧཱན་ཞིང་ཆེན།</name>
+		<name normalized="མུཀ་ད་ཧཱན།" languages="Tibetan">མུཀ་ད་ཧཱན།</name>
+		<name normalized="mtkdーhーn県" languages="Japanese">ムックダーハーン県</name>
+		<name normalized="莫拉限市" languages="Chinese">莫拉限市</name>
+		<name normalized="莫拉限府" languages="Chinese">莫拉限府</name>
+		<name normalized="묵다한" languages="Korean">묵다한</name>
+		<name normalized="묵다한 주" languages="Korean">묵다한 주</name>
+	</region>
+	<region name="Nakhon Nayok" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Nakhon Nayok" languages="Dutch">Changwat Nakhon Nayok</name>
+		<name normalized="Faritanin'i Nakhon Nayok" languages="Malagasy">Faritanin'i Nakhon Nayok</name>
+		<name normalized="Nakhon Nayok" languages="Dutch;English;French;German;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Nakhon Nayok</name>
+		<name normalized="Nakhon Nayok Changwat" languages="English;official">Nakhon Nayok Changwat</name>
+		<name normalized="Nakhon Nayok City" languages="English">Nakhon Nayok City</name>
+		<name normalized="Nakhon Nayok Hu" languages="Chinese (Min Nan)">Nakhon Nayok Hú</name>
+		<name normalized="Nakhon Nayok Province" languages="English;official;Scots">Nakhon Nayok Province</name>
+		<name normalized="Propinsi Nakhon Nayok" languages="Achinese">Propinsi Nakhon Nayok</name>
+		<name normalized="Province de Nakhon Nayok" languages="French">Province de Nakhon Nayok</name>
+		<name normalized="Provincia de Nakhon Nayok" languages="Galician;Spanish">Provincia de Nakhon Nayok</name>
+		<name normalized="Provincia di Nakhon Nayok" languages="Italian">Provincia di Nakhon Nayok</name>
+		<name normalized="Prowincja Nakhon Nayok" languages="Polish">Prowincja Nakhon Nayok</name>
+		<name normalized="Viлoiti Нaxoн Нaёk" languages="Tajik">Вилояти Наxон Наёк</name>
+		<name normalized="Нakoн Нaйok" languages="Bulgarian">Након Найок</name>
+		<name normalized="Нakkoннaйok" languages="Russian">Накхоннайок</name>
+		<name normalized="sوbہ نکھون نאیوک" languages="Western Punjabi">صوبہ نکھون نایوک</name>
+		<name normalized="mhאfzة نאخون نאyوk" languages="Arabic">محافظة ناخون نايوك</name>
+		<name normalized="نאخون نאیوک" languages="Persian">ناخون نایوک</name>
+		<name normalized="نکھون نאیوک" languages="Western Punjabi">نکھون نایوک</name>
+		<name normalized="cাংৱাt nাkon nাy়ok" languages="Bishnupria Manipuri">চাংৱাত নাখোন নায়োক</name>
+		<name normalized="จังหวัดนครนายก" languages="Thai">จังหวัดนครนายก</name>
+		<name normalized="เทศบาลเมืองนครนายก" languages="Thai">เทศบาลเมืองนครนายก</name>
+		<name normalized="nkーnnーytk県" languages="Japanese">ナコーンナーヨック県</name>
+		<name normalized="坤西育府" languages="Chinese">坤西育府</name>
+		<name normalized="나콘나욕" languages="Korean">나콘나욕</name>
+		<name normalized="나콘나욕 주" languages="Korean">나콘나욕 주</name>
+	</region>
+	<region name="Nakhon Pathom" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Nakhon Pathom" languages="Dutch">Changwat Nakhon Pathom</name>
+		<name normalized="Faritanin'i Nakhon Pathom" languages="Malagasy">Faritanin'i Nakhon Pathom</name>
+		<name normalized="Nakhon Pathom" languages="Catalan;Dutch;English;French;German;Indonesian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Scots;Spanish;Swedish;Vietnamese;Waray">Nakhon Pathom</name>
+		<name normalized="Nakhon Pathom Changwat" languages="English;official">Nakhon Pathom Changwat</name>
+		<name normalized="Nakhon Pathom Hu" languages="Chinese (Min Nan)">Nakhon Pathom Hú</name>
+		<name normalized="Nakhon Pathom Province" languages="English;official;Scots">Nakhon Pathom Province</name>
+		<name normalized="Propinsi Nakhon Pathom" languages="Achinese">Propinsi Nakhon Pathom</name>
+		<name normalized="Province de Nakhon Pathom" languages="French">Province de Nakhon Pathom</name>
+		<name normalized="Provincia de Nakhon Pathom" languages="Galician;Spanish">Provincia de Nakhon Pathom</name>
+		<name normalized="Provincia di Nakhon Pathom" languages="Italian">Provincia di Nakhon Pathom</name>
+		<name normalized="Prowincja Nakhon Pathom" languages="Polish">Prowincja Nakhon Pathom</name>
+		<name normalized="Viлoiti Нaxoн Patoм" languages="Tajik">Вилояти Наxон Патом</name>
+		<name normalized="Нakoн Patoм" languages="Bulgarian">Након Патом</name>
+		<name normalized="Нakoнpatoм" languages="Russian">Наконпатом</name>
+		<name normalized="sوbہ نکھون pאtھوm" languages="Western Punjabi">صوبہ نکھون پاتھوم</name>
+		<name normalized="mhאfzة نאخون bאtوm" languages="Arabic">محافظة ناخون باتوم</name>
+		<name normalized="نאخون bאtوm" languages="Arabic">ناخون باتوم</name>
+		<name normalized="نאخون pאtوm" languages="Persian">ناخون پاتوم</name>
+		<name normalized="cাংৱাt nাkon pাtom" languages="Bishnupria Manipuri">চাংৱাত নাখোন পাথোম</name>
+		<name normalized="จังหวัดนครปฐม" languages="Thai">จังหวัดนครปฐม</name>
+		<name normalized="เทศบาลนครนครปฐม" languages="Thai">เทศบาลนครนครปฐม</name>
+		<name normalized="nkーnptm県" languages="Japanese">ナコーンパトム県</name>
+		<name normalized="佛統府" languages="Chinese">佛統府</name>
+		<name normalized="佛统" languages="Chinese">佛统</name>
+		<name normalized="나콘빠톰" languages="Korean">나콘빠톰</name>
+		<name normalized="나콘빠톰 주" languages="Korean">나콘빠톰 주</name>
+	</region>
+	<region name="Nakhon Phanom" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Nakhon Phanom" languages="Dutch">Changwat Nakhon Phanom</name>
+		<name normalized="Faritanin'i Nakhon Phanom" languages="Malagasy">Faritanin'i Nakhon Phanom</name>
+		<name normalized="Nakhon Phanom" languages="Dutch;English;French;German;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Nakhon Phanom</name>
+		<name normalized="Nakhon Phanom Changwat" languages="English;official">Nakhon Phanom Changwat</name>
+		<name normalized="Nakhon Phanom Hu" languages="Chinese (Min Nan)">Nakhon Phanom Hú</name>
+		<name normalized="Nakhon Phanom Province" languages="English;official">Nakhon Phanom Province</name>
+		<name normalized="Propinsi Nakhon Phanom" languages="Achinese">Propinsi Nakhon Phanom</name>
+		<name normalized="Province de Nakhon Phanom" languages="French">Province de Nakhon Phanom</name>
+		<name normalized="Provincia de Nakhon Phanom" languages="Galician;Spanish">Provincia de Nakhon Phanom</name>
+		<name normalized="Provincia di Nakhon Phanom" languages="Italian">Provincia di Nakhon Phanom</name>
+		<name normalized="Provinsi Nakhon Phanom" languages="Indonesian">Provinsi Nakhon Phanom</name>
+		<name normalized="Prowincja Nakhon Phanom" languages="Polish">Prowincja Nakhon Phanom</name>
+		<name normalized="Viлoiti Нaxoн Paнoм" languages="Tajik">Вилояти Наxон Паном</name>
+		<name normalized="Нakoн Фaнoм" languages="Bulgarian">Након Фаном</name>
+		<name normalized="Нakkoнpkaнoм" languages="Russian">Накхонпханом</name>
+		<name normalized="nאqvן pאnvם" languages="Hebrew">נאקון פאנום</name>
+		<name normalized="sوbہ نکھون pھאنوm" languages="Western Punjabi">صوبہ نکھون پھانوم</name>
+		<name normalized="mhאfzة نאخون fאنوm" languages="Arabic">محافظة ناخون فانوم</name>
+		<name normalized="نאخون fאنوm" languages="Persian">ناخون فانوم</name>
+		<name normalized="نکھون pھאنوm" languages="Western Punjabi">نکھون پھانوم</name>
+		<name normalized="cাংৱাt nাkon pাnom" languages="Bishnupria Manipuri">চাংৱাত নাখোন ফানোম</name>
+		<name normalized="จังหวัดนครพนม" languages="Thai">จังหวัดนครพนม</name>
+		<name normalized="เทศบาลเมืองนครพนม" languages="Thai">เทศบาลเมืองนครพนม</name>
+		<name normalized="ན་ཁཱོན་ཕ་ནོམ་ཞིང་ཆེན།" languages="Tibetan">ན་ཁཱོན་ཕ་ནོམ་ཞིང་ཆེན།</name>
+		<name normalized="ན་ཁཱོན་ཕ་ནོམ།" languages="Tibetan">ན་ཁཱོན་ཕ་ནོམ།</name>
+		<name normalized="nkーnpnm県" languages="Japanese">ナコーンパノム県</name>
+		<name normalized="那空拍儂府" languages="Chinese">那空拍儂府</name>
+		<name normalized="나콘파놈" languages="Korean">나콘파놈</name>
+		<name normalized="나콘파놈 주" languages="Korean">나콘파놈 주</name>
+	</region>
+	<region name="Nakhon Ratchasima" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Nakhon Ratchasima" languages="Dutch">Changwat Nakhon Ratchasima</name>
+		<name normalized="Faritanin'i Nakhon Ratchasima" languages="Malagasy">Faritanin'i Nakhon Ratchasima</name>
+		<name normalized="Khorat" languages="Catalan">Khorat</name>
+		<name normalized="Lalawigan ng Nakhon Ratchasima" languages="Tagalog">Lalawigan ng Nakhon Ratchasima</name>
+		<name normalized="Lungsod ng Nakhon Ratchasima" languages="Tagalog">Lungsod ng Nakhon Ratchasima</name>
+		<name normalized="Nakhon Ratchasim" languages="Kalaallisut">Nakhon Ratchasim</name>
+		<name normalized="Nakhon Ratchasima" languages="Afrikaans;Danish;Dutch;English;Finnish;French;German;Indonesian;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Swedish;Vietnamese;Waray">Nakhon Ratchasima</name>
+		<name normalized="Nakhon Ratchasima Changwat" languages="English;official">Nakhon Ratchasima Changwat</name>
+		<name normalized="Nakhon Ratchasima Hu" languages="Chinese (Min Nan)">Nakhon Ratchasima Hú</name>
+		<name normalized="Nakhon Ratchasima Province" languages="English;official;Simple English">Nakhon Ratchasima Province</name>
+		<name normalized="Nakhon Ratcasima" languages="Czech">Nakhon Ratčasima</name>
+		<name normalized="Propinsi Nakhon Ratchasima" languages="Achinese">Propinsi Nakhon Ratchasima</name>
+		<name normalized="Province de Nakhon Ratchasima" languages="French">Province de Nakhon Ratchasima</name>
+		<name normalized="Provincia de Nakhon Ratchasima" languages="Galician;Spanish">Provincia de Nakhon Ratchasima</name>
+		<name normalized="Provincia di Nakhon Ratchasima" languages="Italian">Provincia di Nakhon Ratchasima</name>
+		<name normalized="Provinsi Nakhon Ratchasima" languages="Indonesian">Provinsi Nakhon Ratchasima</name>
+		<name normalized="Prowincja Nakhon Ratchasima" languages="Polish">Prowincja Nakhon Ratchasima</name>
+		<name normalized="Viлoiti Нaxoн Рatcaсiмa" languages="Tajik">Вилояти Наxон Ратчасима</name>
+		<name normalized="Нakoн Рatcaсiмa" languages="Bulgarian">Након Ратчасима</name>
+		<name normalized="Нakkoнрatcaсiмa" languages="Russian">Накхонратчасима</name>
+		<name normalized="sوbہ نکھون rאٹچאسیmא" languages="Western Punjabi">صوبہ نکھون راٹچاسیما</name>
+		<name normalized="mhאfzة نאخون rאtشאسymא" languages="Arabic">محافظة ناخون راتشاسيما</name>
+		<name normalized="نאخون rאtشאسymא" languages="Arabic">ناخون راتشاسيما</name>
+		<name normalized="نאخون rאtچאسیmא" languages="Persian">ناخون راتچاسیما</name>
+		<name normalized="نکھون rאٹچאسیmא" languages="Western Punjabi">نکھون راٹچاسیما</name>
+		<name normalized="cাংৱাt nাkon rাtcাsimা" languages="Bishnupria Manipuri">চাংৱাত নাখোন রাতচাসিমা</name>
+		<name normalized="จังหวัดนครราชสีมา" languages="Thai">จังหวัดนครราชสีมา</name>
+		<name normalized="เทศบาลนครนครราชสีมา" languages="Thai">เทศบาลนครนครราชสีมา</name>
+		<name normalized="ຈັງຫວັດນະຄອນລາຊະສີມາ" languages="Lao">ຈັງຫວັດນະຄອນລາຊະສີມາ</name>
+		<name normalized="ན་ཁཱོན་ར་ཊི་ཅ་སི་མ་ཞིང་ཆེན།" languages="Tibetan">ན་ཁཱོན་ར་ཊི་ཅ་སི་མ་ཞིང་ཆེན།</name>
+		<name normalized="ན་ཁཱོན་ར་ཊི་ཅ་སི་མ།" languages="Tibetan">ན་ཁཱོན་ར་ཊི་ཅ་སི་མ།</name>
+		<name normalized="នគររាជសីមា" languages="Khmer">នគររាជសីមា</name>
+		<name normalized="nkーnrーtysーmー県" languages="Japanese">ナコーンラーチャシーマー県</name>
+		<name normalized="呵叻" languages="Chinese">呵叻</name>
+		<name normalized="呵叻府" languages="Chinese;Wu">呵叻府</name>
+		<name normalized="나콘랏차시마" languages="Korean">나콘랏차시마</name>
+		<name normalized="나콘랏차시마 주" languages="Korean">나콘랏차시마 주</name>
+	</region>
+	<region name="Nakhon Sawan" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Nakhon Sawan" languages="Dutch">Changwat Nakhon Sawan</name>
+		<name normalized="Faritanin'i Nakhon Sawan" languages="Malagasy">Faritanin'i Nakhon Sawan</name>
+		<name normalized="Lalawigan ng Nakhon Sawan" languages="Tagalog">Lalawigan ng Nakhon Sawan</name>
+		<name normalized="Nakhon Sawan" languages="Danish;Dutch;English;Finnish;French;German;Indonesian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Swedish;Vietnamese;Waray">Nakhon Sawan</name>
+		<name normalized="Nakhon Sawan Changwat" languages="English;official">Nakhon Sawan Changwat</name>
+		<name normalized="Nakhon Sawan Hu" languages="Chinese (Min Nan)">Nakhon Sawan Hú</name>
+		<name normalized="Nakhon Sawan Province" languages="English;official;Scots">Nakhon Sawan Province</name>
+		<name normalized="Propinsi Nakhon Sawan" languages="Achinese">Propinsi Nakhon Sawan</name>
+		<name normalized="Province de Nakhon Sawan" languages="French">Province de Nakhon Sawan</name>
+		<name normalized="Provincia de Nakhon Sawan" languages="Galician;Spanish">Provincia de Nakhon Sawan</name>
+		<name normalized="Provincia di Nakhon Sawan" languages="Italian">Provincia di Nakhon Sawan</name>
+		<name normalized="Provinsi Nakhon Sawan" languages="Indonesian">Provinsi Nakhon Sawan</name>
+		<name normalized="Prowincja Nakhon Sawan" languages="Polish">Prowincja Nakhon Sawan</name>
+		<name normalized="Viлoiti Нaxoн Сauaн" languages="Tajik">Вилояти Наxон Сауан</name>
+		<name normalized="Нakoн Сavaн" languages="Bulgarian">Након Саван</name>
+		<name normalized="Нakkoнсavaн" languages="Russian">Накхонсаван</name>
+		<name normalized="sوbہ نکھون سوאن" languages="Western Punjabi">صوبہ نکھون سوان</name>
+		<name normalized="mhאfzة نאخون سאوאن" languages="Arabic">محافظة ناخون ساوان</name>
+		<name normalized="نאخون سאوאن" languages="Persian">ناخون ساوان</name>
+		<name normalized="نکھون سوאن" languages="Western Punjabi">نکھون سوان</name>
+		<name normalized="cাংৱাt nাkon sাৱাn" languages="Bishnupria Manipuri">চাংৱাত নাখোন সাৱান</name>
+		<name normalized="จังหวัดนครสวรรค์" languages="Thai">จังหวัดนครสวรรค์</name>
+		<name normalized="เทศบาลนครนครสวรรค์" languages="Thai">เทศบาลนครนครสวรรค์</name>
+		<name normalized="ན་ཁཱོན་ས་ཝན་ཞིང་ཆེན།" languages="Tibetan">ན་ཁཱོན་ས་ཝན་ཞིང་ཆེན།</name>
+		<name normalized="ན་ཁཱོན་ས་ཝན།" languages="Tibetan">ན་ཁཱོན་ས་ཝན།</name>
+		<name normalized="nkーnswn県" languages="Japanese">ナコーンサワン県</name>
+		<name normalized="北攬坡府" languages="Chinese">北攬坡府</name>
+		<name normalized="北榄坡府" languages="Wu">北榄坡府</name>
+		<name normalized="北欖坡" languages="Chinese">北欖坡</name>
+		<name normalized="나콘사완" languages="Korean">나콘사완</name>
+		<name normalized="나콘사완 주" languages="Korean">나콘사완 주</name>
+	</region>
+	<region name="Nakhon Si Thammarat" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Nakhon Si Thammarat" languages="Dutch">Changwat Nakhon Si Thammarat</name>
+		<name normalized="Faritanin'i Nakhon Si Thammarat" languages="Malagasy">Faritanin'i Nakhon Si Thammarat</name>
+		<name normalized="Nakhon Si Thammarat" languages="Dutch;English;French;German;Italian;Kalaallisut;Malay;Norwegian (bokmal);official;Polish;Portuguese;Swedish;Vietnamese;Waray">Nakhon Si Thammarat</name>
+		<name normalized="Nakhon Si Thammarat Changwat" languages="English;official">Nakhon Si Thammarat Changwat</name>
+		<name normalized="Nakhon Si Thammarat Hu" languages="Chinese (Min Nan)">Nakhon Si Thammarat Hú</name>
+		<name normalized="Nakhon Si Thammarat Province" languages="English;official;Scots">Nakhon Si Thammarat Province</name>
+		<name normalized="Propinsi Nakhon Si Thammarat" languages="Achinese">Propinsi Nakhon Si Thammarat</name>
+		<name normalized="Province de Nakhon Si Thammarat" languages="French">Province de Nakhon Si Thammarat</name>
+		<name normalized="Provincia de Nakhon Si Thammarat" languages="Galician;Spanish">Provincia de Nakhon Si Thammarat</name>
+		<name normalized="Provincia di Nakhon Si Thammarat" languages="Italian">Provincia di Nakhon Si Thammarat</name>
+		<name normalized="Provinsi Nakhon Si Thammarat" languages="Indonesian">Provinsi Nakhon Si Thammarat</name>
+		<name normalized="Prowincja Nakhon Si Thammarat" languages="Polish">Prowincja Nakhon Si Thammarat</name>
+		<name normalized="Επαρχια Νακον Σι Ταμμαρατ" languages="Greek">Επαρχία Νακόν Σι Ταμμαράτ</name>
+		<name normalized="Viлoiti Нaxoн Сi Taммaрat" languages="Tajik">Вилояти Наxон Си Таммарат</name>
+		<name normalized="Нakoн сi Taммaрat" languages="Bulgarian">Након си Таммарат</name>
+		<name normalized="Нakkoнсitkaммaрat" languages="Kazakh;Russian">Накхонситхаммарат</name>
+		<name normalized="sوbہ نکھون سی tھאmאrאٹ" languages="Western Punjabi">صوبہ نکھون سی تھاماراٹ</name>
+		<name normalized="mhאfzة نאخون سy tאmmאrאt" languages="Arabic">محافظة ناخون سي تاممارات</name>
+		<name normalized="نאخون سی tאmmאrאt" languages="Persian">ناخون سی تاممارات</name>
+		<name normalized="نکھون سی tھאmאrאٹ" languages="Western Punjabi">نکھون سی تھاماراٹ</name>
+		<name normalized="cাংৱাt nাkon si tাm্mাrাt" languages="Bishnupria Manipuri">চাংৱাত নাখোন সি থাম্মারাত</name>
+		<name normalized="จังหวัดนครศรีธรรมราช" languages="Thai">จังหวัดนครศรีธรรมราช</name>
+		<name normalized="เทศบาลนครนครศรีธรรมราช" languages="Thai">เทศบาลนครนครศรีธรรมราช</name>
+		<name normalized="ན་ཁཱོན་སི་ཐམ་མ་ར་ཊི་ཞིང་ཆེན།" languages="Tibetan">ན་ཁཱོན་སི་ཐམ་མ་ར་ཊི་ཞིང་ཆེན།</name>
+		<name normalized="ན་ཁཱོན་སི་ཐམ་མ་ར་ཊི།" languages="Tibetan">ན་ཁཱོན་སི་ཐམ་མ་ར་ཊི།</name>
+		<name normalized="nkーnsーtnmrーt県" languages="Japanese">ナコーンシータンマラート県</name>
+		<name normalized="洛坤府" languages="Chinese;Classical Chinese">洛坤府</name>
+		<name normalized="那空是贪玛叻" languages="Chinese">那空是贪玛叻</name>
+		<name normalized="나콘시탐마랏" languages="Korean">나콘시탐마랏</name>
+		<name normalized="나콘시탐마랏 주" languages="Korean">나콘시탐마랏 주</name>
+	</region>
+	<region name="Nan" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Nan" languages="Dutch">Changwat Nan</name>
+		<name normalized="Faritanin'i Nan" languages="Malagasy">Faritanin'i Nan</name>
+		<name normalized="Lalawigan ng Nan" languages="Tagalog">Lalawigan ng Nan</name>
+		<name normalized="Nan" languages="Dutch;English;French;German;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Swedish;Vietnamese;Waray">Nan</name>
+		<name normalized="Nan Changwat" languages="English;official">Nan Changwat</name>
+		<name normalized="Nan Hu" languages="Chinese (Min Nan)">Nan Hú</name>
+		<name normalized="Nan Province" languages="English;official;Scots">Nan Province</name>
+		<name normalized="Nanas" languages="Lithuanian">Nanas</name>
+		<name normalized="Propinsi Nan" languages="Achinese">Propinsi Nan</name>
+		<name normalized="Province de Nan" languages="French">Province de Nan</name>
+		<name normalized="Provincia de Nan" languages="Galician;Spanish">Provincia de Nan</name>
+		<name normalized="Provincia di Nan" languages="Italian">Provincia di Nan</name>
+		<name normalized="Provinsi Nan" languages="Indonesian">Provinsi Nan</name>
+		<name normalized="Prowincja Nan" languages="Polish">Prowincja Nan</name>
+		<name normalized="Viлoiti Нaн" languages="Tajik">Вилояти Нан</name>
+		<name normalized="Нaн" languages="Bulgarian;Russian">Нан</name>
+		<name normalized="sوbہ نאن" languages="Western Punjabi">صوبہ نان</name>
+		<name normalized="mhאfzة نאن" languages="Arabic">محافظة نان</name>
+		<name normalized="نאن" languages="Persian">نان</name>
+		<name normalized="cাংৱাt nাn" languages="Bishnupria Manipuri">চাংৱাত নান</name>
+		<name normalized="จังหวัดน่าน" languages="Thai">จังหวัดน่าน</name>
+		<name normalized="เทศบาลเมืองน่าน" languages="Thai">เทศบาลเมืองน่าน</name>
+		<name normalized="ནཱན་གྲོང་ཁྱེར།" languages="Tibetan">ནཱན་གྲོང་ཁྱེར།</name>
+		<name normalized="ནཱན་ཞིང་ཆེན།" languages="Tibetan">ནཱན་ཞིང་ཆེན།</name>
+		<name normalized="nーn県" languages="Japanese">ナーン県</name>
+		<name normalized="楠府" languages="Chinese">楠府</name>
+		<name normalized="난" languages="Korean">난</name>
+		<name normalized="난 주" languages="Korean">난 주</name>
+	</region>
+	<region name="Narathiwat" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Narathiwat" languages="Dutch">Changwat Narathiwat</name>
+		<name normalized="Faritanin'i Narathiwat" languages="Malagasy">Faritanin'i Narathiwat</name>
+		<name normalized="Narathivatas" languages="Lithuanian">Narathivatas</name>
+		<name normalized="Narathiwat" languages="Dutch;English;French;German;Indonesian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Swedish;Vietnamese;Waray">Narathiwat</name>
+		<name normalized="Narathiwat Changwat" languages="English;official">Narathiwat Changwat</name>
+		<name normalized="Narathiwat Hu" languages="Chinese (Min Nan)">Narathiwat Hú</name>
+		<name normalized="Narathiwat Province" languages="English;official;Scots">Narathiwat Province</name>
+		<name normalized="Narathiwati provints" languages="Estonian">Narathiwati provints</name>
+		<name normalized="Propinsi Narathiwat" languages="Achinese">Propinsi Narathiwat</name>
+		<name normalized="Province de Narathiwat" languages="French">Province de Narathiwat</name>
+		<name normalized="Provincia de Narathiwat" languages="Galician;Spanish">Provincia de Narathiwat</name>
+		<name normalized="Provincia di Narathiwat" languages="Italian">Provincia di Narathiwat</name>
+		<name normalized="Prowincja Narathiwat" languages="Polish">Prowincja Narathiwat</name>
+		<name normalized="Viлoiti Нaрatiuat" languages="Tajik">Вилояти Наратиуат</name>
+		<name normalized="Нaрatkivat" languages="Russian">Наратхиват</name>
+		<name normalized="Нaрatkiuat" languages="Bulgarian">Наратхиуат</name>
+		<name normalized="sوbہ نrאtھیوאٹ" languages="Western Punjabi">صوبہ نراتھیواٹ</name>
+		<name normalized="mhאfzة نאrאtyوאt" languages="Arabic">محافظة ناراتيوات</name>
+		<name normalized="نאrאtیوאt" languages="Persian">ناراتیوات</name>
+		<name normalized="نrאtھیوאٹ" languages="Western Punjabi">نراتھیواٹ</name>
+		<name normalized="cাংৱাt nাrাtiৱাt" languages="Bishnupria Manipuri">চাংৱাত নারাথিৱাত</name>
+		<name normalized="จังหวัดนราธิวาส" languages="Thai">จังหวัดนราธิวาส</name>
+		<name normalized="เทศบาลเมืองนราธิวาส" languages="Thai">เทศบาลเมืองนราธิวาส</name>
+		<name normalized="nrーtiwーt県" languages="Japanese">ナラーティワート県</name>
+		<name normalized="那拉提瓦" languages="Chinese">那拉提瓦</name>
+		<name normalized="陶公府" languages="Chinese">陶公府</name>
+		<name normalized="나라티왓" languages="Korean">나라티왓</name>
+		<name normalized="나라티왓 주" languages="Korean">나라티왓 주</name>
+	</region>
+	<region name="Nong Bua Lamphu" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Nong Bua Lamphu" languages="Dutch">Changwat Nong Bua Lamphu</name>
+		<name normalized="Faritanin'i Nong Bua Lamphu" languages="Malagasy">Faritanin'i Nong Bua Lamphu</name>
+		<name normalized="Nong Bua Lam Phu" languages="Portuguese;Swedish">Nong Bua Lam Phu</name>
+		<name normalized="Nong Bua Lamphu" languages="English;French;German;official;Vietnamese;Waray">Nong Bua Lamphu</name>
+		<name normalized="Nong Bua Lamphu Changwat" languages="English;official">Nong Bua Lamphu Changwat</name>
+		<name normalized="Nong Bua Lamphu Province" languages="English;official">Nong Bua Lamphu Province</name>
+		<name normalized="Nongbua Lamphu" languages="Dutch;Malay;Norwegian (bokmal);Vietnamese">Nongbua Lamphu</name>
+		<name normalized="Nongbua Lamphu Hu" languages="Chinese (Min Nan)">Nongbua Lamphu Hú</name>
+		<name normalized="Propinsi Nong Bua Lamphu" languages="Achinese">Propinsi Nong Bua Lamphu</name>
+		<name normalized="Province de Nong Bua Lamphu" languages="French">Province de Nong Bua Lamphu</name>
+		<name normalized="Provincia de Nong Bua Lamphu" languages="Galician">Provincia de Nong Bua Lamphu</name>
+		<name normalized="Provincia de Nongbua Lamphu" languages="Spanish">Provincia de Nongbua Lamphu</name>
+		<name normalized="Provincia di Nongbua Lamphu" languages="Italian">Provincia di Nongbua Lamphu</name>
+		<name normalized="Provinsi Nong Bua Lamphu" languages="Indonesian">Provinsi Nong Bua Lamphu</name>
+		<name normalized="Prowincja Nongbua Lamphu" languages="Polish">Prowincja Nongbua Lamphu</name>
+		<name normalized="Viлoiti Нoнgbua Лaмpu" languages="Tajik">Вилояти Нонгбуа Лампу</name>
+		<name normalized="Нoнgbua Лaмфu" languages="Bulgarian">Нонгбуа Ламфу</name>
+		<name normalized="sوbہ نونgbوآ لאmpھو" languages="Western Punjabi">صوبہ نونگبوآ لامپھو</name>
+		<name normalized="mhאfzة نونغ bوא لאmfو" languages="Arabic">محافظة نونغ بوا لامفو</name>
+		<name normalized="نونg bوא لאmfو" languages="Persian">نونگ بوا لامفو</name>
+		<name normalized="نونgbوآلאmpھو" languages="Western Punjabi">نونگبوآلامپھو</name>
+		<name normalized="cাংৱাt noংbuy়া lাmpu" languages="Bishnupria Manipuri">চাংৱাত নোংবুয়া লামফু</name>
+		<name normalized="จังหวัดหนองบัวลำภู" languages="Thai">จังหวัดหนองบัวลำภู</name>
+		<name normalized="เทศบาลเมืองหนองบัวลำภู" languages="Thai">เทศบาลเมืองหนองบัวลำภู</name>
+		<name normalized="nーnbwrmpー県" languages="Japanese">ノーンブワラムプー県</name>
+		<name normalized="廊磨喃蒲府" languages="Chinese">廊磨喃蒲府</name>
+		<name normalized="농부아람푸" languages="Korean">농부아람푸</name>
+		<name normalized="농부아람푸 주" languages="Korean">농부아람푸 주</name>
+	</region>
+	<region name="Nong Khai" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Nong Khai" languages="Dutch">Changwat Nong Khai</name>
+		<name normalized="Faritanin'i Nong Khai" languages="Malagasy">Faritanin'i Nong Khai</name>
+		<name normalized="Nong Khai" languages="Dutch;English;French;German;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Nong Khai</name>
+		<name normalized="Nong Khai Changwat" languages="English;official">Nong Khai Changwat</name>
+		<name normalized="Nong Khai Hu" languages="Chinese (Min Nan)">Nong Khai Hú</name>
+		<name normalized="Nong Khai Province" languages="English;official">Nong Khai Province</name>
+		<name normalized="Propinsi Nong Khai" languages="Achinese">Propinsi Nong Khai</name>
+		<name normalized="Province de Nong Khai" languages="French">Province de Nong Khai</name>
+		<name normalized="Provincia de Nong Khai" languages="Galician;Spanish">Provincia de Nong Khai</name>
+		<name normalized="Provincia di Nong Khai" languages="Italian">Provincia di Nong Khai</name>
+		<name normalized="Provinsi Nong Khai" languages="Indonesian">Provinsi Nong Khai</name>
+		<name normalized="Prowincja Nong Khai" languages="Polish">Prowincja Nong Khai</name>
+		<name normalized="Viлoiti Нoнg Kai" languages="Tajik">Вилояти Нонг Хаи</name>
+		<name normalized="Нoнg Kai" languages="Bulgarian">Нонг Каи</name>
+		<name normalized="Нoнgkkaй" languages="Russian">Нонгкхай</name>
+		<name normalized="sوbہ نونg کھאئی" languages="Western Punjabi">صوبہ نونگ کھائی</name>
+		<name normalized="mhאfzة نونغ خאy" languages="Arabic">محافظة نونغ خاي</name>
+		<name normalized="نونg خאی" languages="Persian">نونگ خای</name>
+		<name normalized="نونg کھאئی" languages="Western Punjabi">نونگ کھائی</name>
+		<name normalized="cাংৱাt noং kাi" languages="Bishnupria Manipuri">চাংৱাত নোং খাই</name>
+		<name normalized="จังหวัดหนองคาย" languages="Thai">จังหวัดหนองคาย</name>
+		<name normalized="เทศบาลเมืองหนองคาย" languages="Thai">เทศบาลเมืองหนองคาย</name>
+		<name normalized="ຈັງຫວັດໜອງຄາຍ" languages="Lao">ຈັງຫວັດໜອງຄາຍ</name>
+		<name normalized="ནོང་ཁའི་ཞིང་ཆེན།" languages="Tibetan">ནོང་ཁའི་ཞིང་ཆེན།</name>
+		<name normalized="ནོང་ཁའི།" languages="Tibetan">ནོང་ཁའི།</name>
+		<name normalized="nーnkーi県" languages="Japanese">ノーンカーイ県</name>
+		<name normalized="廊开府" languages="Wu">廊开府</name>
+		<name normalized="廊開府" languages="Chinese">廊開府</name>
+		<name normalized="농카이" languages="Korean">농카이</name>
+		<name normalized="농카이 주" languages="Korean">농카이 주</name>
+	</region>
+	<region name="Nonthaburi" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Nonthaburi" languages="Dutch">Changwat Nonthaburi</name>
+		<name normalized="Faritanin'i Nonthaburi" languages="Malagasy">Faritanin'i Nonthaburi</name>
+		<name normalized="Nonthaburi" languages="Dutch;English;German;Indonesian;Malay;Norwegian (bokmal);official;Portuguese;Scots;Simple English;Swedish;Vietnamese;Waray">Nonthaburi</name>
+		<name normalized="Nonthaburi Changwat" languages="English;official">Nonthaburi Changwat</name>
+		<name normalized="Nonthaburi Hu" languages="Chinese (Min Nan)">Nonthaburi Hú</name>
+		<name normalized="Nonthaburi Province" languages="English;official;Scots">Nonthaburi Province</name>
+		<name normalized="Propinsi Nonthaburi" languages="Achinese">Propinsi Nonthaburi</name>
+		<name normalized="Province de Nonthaburi" languages="French">Province de Nonthaburi</name>
+		<name normalized="Provincia de Nonthaburi" languages="Galician;Spanish">Provincia de Nonthaburi</name>
+		<name normalized="Provincia di Nonthaburi" languages="Italian">Provincia di Nonthaburi</name>
+		<name normalized="Prowincja Nonthaburi" languages="Polish">Prowincja Nonthaburi</name>
+		<name normalized="Viлoiti Нoнtabuрi" languages="Tajik">Вилояти Нонтабури</name>
+		<name normalized="Нoнtabuрi" languages="Bulgarian">Нонтабури</name>
+		<name normalized="Нoнtkabuрi" languages="Russian">Нонтхабури</name>
+		<name normalized="Нoнtkabuрi" languages="Ukrainian">Нонтхабурі</name>
+		<name normalized="sوbہ نونtھאbوrی" languages="Western Punjabi">صوبہ نونتھابوری</name>
+		<name normalized="mhאfzة نونثאbوry" languages="Arabic">محافظة نونثابوري</name>
+		<name normalized="نونtאbوrی" languages="Persian">نونتابوری</name>
+		<name normalized="نونtھאbوrی" languages="Western Punjabi">نونتھابوری</name>
+		<name normalized="cাংৱাt nontাburi" languages="Bishnupria Manipuri">চাংৱাত নোনথাবুরি</name>
+		<name normalized="จังหวัดนนทบุรี" languages="Thai">จังหวัดนนทบุรี</name>
+		<name normalized="นนทบุรี" languages="Thai">นนทบุรี</name>
+		<name normalized="nntbrー県" languages="Japanese">ノンタブリー県</name>
+		<name normalized="暖武里府" languages="Chinese">暖武里府</name>
+		<name normalized="논타부리 주" languages="Korean">논타부리 주</name>
+	</region>
+	<region name="Pathum Thani" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Pathum Thani" languages="Dutch">Changwat Pathum Thani</name>
+		<name normalized="Faritanin'i Pathum Thani" languages="Malagasy">Faritanin'i Pathum Thani</name>
+		<name normalized="Pathum Thani" languages="Dutch;English;French;German;Indonesian;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Pathum Thani</name>
+		<name normalized="Pathum Thani Changwat" languages="English;official">Pathum Thani Changwat</name>
+		<name normalized="Pathum Thani Hu" languages="Chinese (Min Nan)">Pathum Thani Hú</name>
+		<name normalized="Pathum Thani Province" languages="English;official;Scots">Pathum Thani Province</name>
+		<name normalized="Propinsi Pathum Thani" languages="Achinese">Propinsi Pathum Thani</name>
+		<name normalized="Province de Pathum Thani" languages="French">Province de Pathum Thani</name>
+		<name normalized="Provincia de Pathum Thani" languages="Galician;Spanish">Provincia de Pathum Thani</name>
+		<name normalized="Provincia di Pathum Thani" languages="Italian">Provincia di Pathum Thani</name>
+		<name normalized="Prowincja Pathum Thani" languages="Polish">Prowincja Pathum Thani</name>
+		<name normalized="Viлoiti Patuм Taнi" languages="Tajik">Вилояти Патум Тани</name>
+		<name normalized="Patuм Taнi" languages="Bulgarian">Патум Тани</name>
+		<name normalized="Patkuмtkaнi" languages="Russian">Патхумтхани</name>
+		<name normalized="sوbہ pאtھm tھאنی" languages="Western Punjabi">صوبہ پاتھم تھانی</name>
+		<name normalized="mhאfzة bאثوm ثאنy" languages="Arabic">محافظة باثوم ثاني</name>
+		<name normalized="pאtھm tھאنی" languages="Western Punjabi">پاتھم تھانی</name>
+		<name normalized="cাংৱাt pাtum tাni" languages="Bishnupria Manipuri">চাংৱাত পাথুম থানি</name>
+		<name normalized="จังหวัดปทุมธานี" languages="Thai">จังหวัดปทุมธานี</name>
+		<name normalized="ptumtーnー県" languages="Japanese">パトゥムターニー県</name>
+		<name normalized="巴吞他尼府" languages="Chinese">巴吞他尼府</name>
+		<name normalized="빠툼타니" languages="Korean">빠툼타니</name>
+		<name normalized="빠툼타니 주" languages="Korean">빠툼타니 주</name>
+	</region>
+	<region name="Pattani" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Pattani" languages="Dutch">Changwat Pattani</name>
+		<name normalized="Faritanin'i Pattani" languages="Malagasy">Faritanin'i Pattani</name>
+		<name normalized="Patani" languages="Polish">Patani</name>
+		<name normalized="Patanis" languages="Lithuanian">Patanis</name>
+		<name normalized="Pattani" languages="Dutch;English;French;German;Italian;Norwegian (bokmal);official;Portuguese;Swedish;Turkish;Vietnamese;Waray">Pattani</name>
+		<name normalized="Pattani Changwat" languages="English;official">Pattani Changwat</name>
+		<name normalized="Pattani Hu" languages="Chinese (Min Nan)">Pattani Hú</name>
+		<name normalized="Pattani Province" languages="English;official;Scots">Pattani Province</name>
+		<name normalized="Propinsi Pattani" languages="Achinese">Propinsi Pattani</name>
+		<name normalized="Province de Pattani" languages="French">Province de Pattani</name>
+		<name normalized="Provincia de Pattani" languages="Galician;Spanish">Provincia de Pattani</name>
+		<name normalized="Provincia di Pattani" languages="Italian">Provincia di Pattani</name>
+		<name normalized="Provinsi Pattani" languages="Indonesian">Provinsi Pattani</name>
+		<name normalized="Provincia de Pattani" languages="Catalan">Província de Pattani</name>
+		<name normalized="Prowincja Pattani" languages="Polish">Prowincja Pattani</name>
+		<name normalized="Wilayah Pattani" languages="Malay">Wilayah Pattani</name>
+		<name normalized="Viлoiti Pattaнi" languages="Tajik">Вилояти Паттани</name>
+		<name normalized="Pataнi" languages="Bulgarian">Патани</name>
+		<name normalized="Pattaнi" languages="Russian">Паттани</name>
+		<name normalized="bאtאنy" languages="Arabic">باتاني</name>
+		<name normalized="pאtאنی" languages="Persian">پاتانی</name>
+		<name normalized="pٹאنی" languages="Western Punjabi">پٹانی</name>
+		<name normalized="cাংৱাt pাt্tাni" languages="Bishnupria Manipuri">চাংৱাত পাত্তানি</name>
+		<name normalized="จังหวัดปัตตานี" languages="Thai">จังหวัดปัตตานี</name>
+		<name normalized="པ་ཊ་ནི་ཞིང་ཆེན།" languages="Tibetan">པ་ཊ་ནི་ཞིང་ཆེན།</name>
+		<name normalized="པ་ཊ་ནི།" languages="Tibetan">པ་ཊ་ནི།</name>
+		<name normalized="pttーnー県" languages="Japanese">パッターニー県</name>
+		<name normalized="北大年府" languages="Chinese">北大年府</name>
+		<name normalized="빠따니" languages="Korean">빠따니</name>
+		<name normalized="빠따니 주" languages="Korean">빠따니 주</name>
+	</region>
+	<region name="Phangnga" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Phang Nga" languages="Dutch">Changwat Phang Nga</name>
+		<name normalized="Faritanin'i Phang Nga" languages="Malagasy">Faritanin'i Phang Nga</name>
+		<name normalized="Phang Nga" languages="Dutch;English;French;German;Malay;Norwegian (bokmal);Portuguese;Swedish;Vietnamese;Waray">Phang Nga</name>
+		<name normalized="Phang Nga Hu" languages="Chinese (Min Nan)">Phang Nga Hú</name>
+		<name normalized="Phang Nga Province" languages="English;Scots">Phang Nga Province</name>
+		<name normalized="Phangnga" languages="English;official;Portuguese">Phangnga</name>
+		<name normalized="Phangnga Changwat" languages="English;official">Phangnga Changwat</name>
+		<name normalized="Phangnga Province" languages="English;official">Phangnga Province</name>
+		<name normalized="Propinsi Phang Nga" languages="Achinese">Propinsi Phang Nga</name>
+		<name normalized="Province de Phang Nga" languages="French">Province de Phang Nga</name>
+		<name normalized="Provincia de Phang Nga" languages="Galician;Spanish">Provincia de Phang Nga</name>
+		<name normalized="Provincia di Phang Nga" languages="Italian">Provincia di Phang Nga</name>
+		<name normalized="Provinsi Phang Nga" languages="Indonesian">Provinsi Phang Nga</name>
+		<name normalized="Prowincja Phang Nga" languages="Polish">Prowincja Phang Nga</name>
+		<name normalized="Viлoiti Paнg Нga" languages="Tajik">Вилояти Панг Нга</name>
+		<name normalized="Paнg Нga" languages="Bulgarian">Панг Нга</name>
+		<name normalized="Pkaнgнga" languages="Russian">Пхангнга</name>
+		<name normalized="sوbہ pھنg نgא" languages="Western Punjabi">صوبہ پھنگ نگا</name>
+		<name normalized="mhאfzة fאنغ نغא" languages="Arabic">محافظة فانغ نغا</name>
+		<name normalized="phאنg نgא" languages="Persian">پهانگ نگا</name>
+		<name normalized="pھنg نgא" languages="Western Punjabi">پھنگ نگا</name>
+		<name normalized="cাংৱাt pাং ঙা" languages="Bishnupria Manipuri">চাংৱাত ফাং ঙা</name>
+		<name normalized="จังหวัดพังงา" languages="Thai">จังหวัดพังงา</name>
+		<name normalized="เทศบาลเมืองพังงา" languages="Thai">เทศบาลเมืองพังงา</name>
+		<name normalized="pngー県" languages="Japanese">パンガー県</name>
+		<name normalized="攀牙府" languages="Chinese;Wu">攀牙府</name>
+		<name normalized="팡응아" languages="Korean">팡응아</name>
+		<name normalized="팡응아 주" languages="Korean">팡응아 주</name>
+	</region>
+	<region name="Phatthalung" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Phattalung" languages="Dutch">Changwat Phattalung</name>
+		<name normalized="Faritanin'i Phatthalung" languages="Malagasy">Faritanin'i Phatthalung</name>
+		<name normalized="Phattalung" languages="Dutch;French;Malay;Norwegian (bokmal)">Phattalung</name>
+		<name normalized="Phatthalung" languages="English;German;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Phatthalung</name>
+		<name normalized="Phatthalung Changwat" languages="English;official">Phatthalung Changwat</name>
+		<name normalized="Phatthalung Hu" languages="Chinese (Min Nan)">Phatthalung Hú</name>
+		<name normalized="Phatthalung Province" languages="English;official;Scots">Phatthalung Province</name>
+		<name normalized="Propinsi Phatthalung" languages="Achinese">Propinsi Phatthalung</name>
+		<name normalized="Province de Phattalung" languages="French">Province de Phattalung</name>
+		<name normalized="Provincia de Phatthalung" languages="Galician;Spanish">Provincia de Phatthalung</name>
+		<name normalized="Provincia di Phatthalung" languages="Italian">Provincia di Phatthalung</name>
+		<name normalized="Provinsi Phatthalung" languages="Indonesian">Provinsi Phatthalung</name>
+		<name normalized="Prowincja Phatthalung" languages="Polish">Prowincja Phatthalung</name>
+		<name normalized="Viлoiti Pattaлuнg" languages="Tajik">Вилояти Патталунг</name>
+		<name normalized="Pkattkaлuнg" languages="Russian">Пхаттхалунг</name>
+		<name normalized="Фataлuнg" languages="Bulgarian">Фаталунг</name>
+		<name normalized="sوbہ pھٹtھאلنg" languages="Western Punjabi">صوبہ پھٹتھالنگ</name>
+		<name normalized="fאtאلونg" languages="Persian">فاتالونگ</name>
+		<name normalized="mhאfzة fאtאلونغ" languages="Arabic">محافظة فاتالونغ</name>
+		<name normalized="pھٹtھאلنg" languages="Western Punjabi">پھٹتھالنگ</name>
+		<name normalized="cাংৱাt pাttাluং" languages="Bishnupria Manipuri">চাংৱাত ফাতথালুং</name>
+		<name normalized="จังหวัดพัทลุง" languages="Thai">จังหวัดพัทลุง</name>
+		<name normalized="pttrn県" languages="Japanese">パッタルン県</name>
+		<name normalized="博他仑府" languages="Wu">博他仑府</name>
+		<name normalized="博他侖府" languages="Chinese;Classical Chinese">博他侖府</name>
+		<name normalized="파탈룽" languages="Korean">파탈룽</name>
+		<name normalized="파탈룽 주" languages="Korean">파탈룽 주</name>
+	</region>
+	<region name="Phayao" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Phayao" languages="Dutch">Changwat Phayao</name>
+		<name normalized="Faritanin'i Phayao" languages="Malagasy">Faritanin'i Phayao</name>
+		<name normalized="Lalawigan ng Phayao" languages="Tagalog">Lalawigan ng Phayao</name>
+		<name normalized="Phajao" languages="Lithuanian">Phajao</name>
+		<name normalized="Phayao" languages="Dutch;English;Finnish;French;German;Indonesian;Malay;Norwegian (bokmal);official;Portuguese;Serbo-Croatian;Swedish;Vietnamese;Waray">Phayao</name>
+		<name normalized="Phayao Changwat" languages="English;official">Phayao Changwat</name>
+		<name normalized="Phayao Hu" languages="Chinese (Min Nan)">Phayao Hú</name>
+		<name normalized="Phayao Province" languages="English;official;Scots">Phayao Province</name>
+		<name normalized="Propinsi Phayao" languages="Achinese">Propinsi Phayao</name>
+		<name normalized="Province de Phayao" languages="French">Province de Phayao</name>
+		<name normalized="Provincia de Phayao" languages="Galician;Spanish">Provincia de Phayao</name>
+		<name normalized="Provincia di Phayao" languages="Italian">Provincia di Phayao</name>
+		<name normalized="Provinsi Phayao" languages="Indonesian">Provinsi Phayao</name>
+		<name normalized="Prowincja Phayao" languages="Polish">Prowincja Phayao</name>
+		<name normalized="Viлoiti Paio" languages="Tajik">Вилояти Паяо</name>
+		<name normalized="Pkaiu" languages="Russian">Пхаяу</name>
+		<name normalized="Фaio" languages="Bulgarian">Фаяо</name>
+		<name normalized="sوbہ pھאیאؤ" languages="Western Punjabi">صوبہ پھایاؤ</name>
+		<name normalized="fאیאئو" languages="Persian">فایائو</name>
+		<name normalized="mhאfzة fאyאو" languages="Arabic">محافظة فاياو</name>
+		<name normalized="pھیאؤ" languages="Western Punjabi">پھیاؤ</name>
+		<name normalized="cাংৱাt pাy়াo" languages="Bishnupria Manipuri">চাংৱাত ফায়াও</name>
+		<name normalized="จังหวัดพะเยา" languages="Thai">จังหวัดพะเยา</name>
+		<name normalized="เทศบาลเมืองพะเยา" languages="Thai">เทศบาลเมืองพะเยา</name>
+		<name normalized="pyo県" languages="Japanese">パヤオ県</name>
+		<name normalized="帕夭府" languages="Chinese">帕夭府</name>
+		<name normalized="파야오" languages="Korean">파야오</name>
+		<name normalized="파야오 주" languages="Korean">파야오 주</name>
+	</region>
+	<region name="Phetchabun" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Phetchabun" languages="Dutch">Changwat Phetchabun</name>
+		<name normalized="Faritanin'i Phetchabun" languages="Malagasy">Faritanin'i Phetchabun</name>
+		<name normalized="Lalawigan ng Phetchabun" languages="Tagalog">Lalawigan ng Phetchabun</name>
+		<name normalized="Phetchabun" languages="Dutch;English;Finnish;French;German;Malay;Norwegian (bokmal);official;Portuguese;Simple English;Swedish;Vietnamese;Waray">Phetchabun</name>
+		<name normalized="Phetchabun Changwat" languages="English;official">Phetchabun Changwat</name>
+		<name normalized="Phetchabun Hu" languages="Chinese (Min Nan)">Phetchabun Hú</name>
+		<name normalized="Phetchabun Province" languages="English;official;Scots;Simple English;Wu">Phetchabun Province</name>
+		<name normalized="Propinsi Phetchabun" languages="Achinese">Propinsi Phetchabun</name>
+		<name normalized="Province de Phetchabun" languages="French">Province de Phetchabun</name>
+		<name normalized="Provincia de Phetchabun" languages="Galician;Spanish">Provincia de Phetchabun</name>
+		<name normalized="Provincia di Phetchabun" languages="Italian">Provincia di Phetchabun</name>
+		<name normalized="Provinsi Phetchabun" languages="Indonesian">Provinsi Phetchabun</name>
+		<name normalized="Prowincja Phetchabun" languages="Polish">Prowincja Phetchabun</name>
+		<name normalized="Viлoiti Pitcabuн" languages="Tajik">Вилояти Петчабун</name>
+		<name normalized="Pkitcabuн" languages="Russian">Пхетчабун</name>
+		<name normalized="Фitcabuн" languages="Bulgarian">Фетчабун</name>
+		<name normalized="sوbہ pھٹچאbن" languages="Western Punjabi">صوبہ پھٹچابن</name>
+		<name normalized="mhאfzة fytشאbون" languages="Arabic">محافظة فيتشابون</name>
+		<name normalized="ptچאbون" languages="Persian">پتچابون</name>
+		<name normalized="pھٹچאbن" languages="Western Punjabi">پھٹچابن</name>
+		<name normalized="cাংৱাt petcাbun" languages="Bishnupria Manipuri">চাংৱাত ফেতচাবুন</name>
+		<name normalized="จังหวัดเพชรบูรณ์" languages="Thai">จังหวัดเพชรบูรณ์</name>
+		<name normalized="เทศบาลเมืองเพชรบูรณ์" languages="Thai">เทศบาลเมืองเพชรบูรณ์</name>
+		<name normalized="pttybーn県" languages="Japanese">ペッチャブーン県</name>
+		<name normalized="碧差汶府" languages="Chinese;Wu">碧差汶府</name>
+		<name normalized="펫차분" languages="Korean">펫차분</name>
+		<name normalized="펫차분 주" languages="Korean">펫차분 주</name>
+	</region>
+	<region name="Phetchaburi" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Phetchaburi" languages="Dutch">Changwat Phetchaburi</name>
+		<name normalized="Faritanin'i Phetchaburi" languages="Malagasy">Faritanin'i Phetchaburi</name>
+		<name normalized="Phetchaburi" languages="Basque;Danish;Dutch;English;Finnish;French;German;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Tagalog;Vietnamese;Waray">Phetchaburi</name>
+		<name normalized="Phetchaburi Changwat" languages="English;official">Phetchaburi Changwat</name>
+		<name normalized="Phetchaburi Hu" languages="Chinese (Min Nan)">Phetchaburi Hú</name>
+		<name normalized="Phetchaburi Province" languages="English;official;Scots">Phetchaburi Province</name>
+		<name normalized="Phetchaburi provints" languages="Estonian">Phetchaburi provints</name>
+		<name normalized="Phetcsaburi" languages="Hungarian">Phetcsaburi</name>
+		<name normalized="Propinsi Phetchaburi" languages="Achinese">Propinsi Phetchaburi</name>
+		<name normalized="Province de Phetchaburi" languages="French">Province de Phetchaburi</name>
+		<name normalized="Provincia de Phetchaburi" languages="Galician;Spanish">Provincia de Phetchaburi</name>
+		<name normalized="Provincia di Phetchaburi" languages="Italian">Provincia di Phetchaburi</name>
+		<name normalized="Provinsi Phetchaburi" languages="Indonesian">Provinsi Phetchaburi</name>
+		<name normalized="Prowincja Phetchaburi" languages="Polish">Prowincja Phetchaburi</name>
+		<name normalized="Viлoiti Pitcabuрi" languages="Tajik">Вилояти Петчабури</name>
+		<name normalized="Pitcabuрi" languages="Bulgarian">Петчабури</name>
+		<name normalized="Pkitbuрi" languages="Russian">Пхетбури</name>
+		<name normalized="Pkitcabuрi" languages="Russian">Пхетчабури</name>
+		<name normalized="sوbہ pھٹچאbوrی" languages="Western Punjabi">صوبہ پھٹچابوری</name>
+		<name normalized="mhאfzة brאtشyنbوry" languages="Arabic">محافظة براتشينبوري</name>
+		<name normalized="ptچאbوrی" languages="Persian">پتچابوری</name>
+		<name normalized="pھٹچאbوrی" languages="Western Punjabi">پھٹچابوری</name>
+		<name normalized="cাংৱাt petcাburi" languages="Bishnupria Manipuri">চাংৱাত ফেতচাবুরি</name>
+		<name normalized="จังหวัดเพชรบุรี" languages="Thai">จังหวัดเพชรบุรี</name>
+		<name normalized="เทศบาลเมืองเพชรบุรี" languages="Thai">เทศบาลเมืองเพชรบุรี</name>
+		<name normalized="ཕེ་ཊི་ཅ་བུ་རི་ཞིང་ཆེན།" languages="Tibetan">ཕེ་ཊི་ཅ་བུ་རི་ཞིང་ཆེན།</name>
+		<name normalized="ཕེ་ཊི་ཅ་བུ་རི།" languages="Tibetan">ཕེ་ཊི་ཅ་བུ་རི།</name>
+		<name normalized="pttybrー県" languages="Japanese">ペッチャブリー県</name>
+		<name normalized="佛丕府" languages="Chinese">佛丕府</name>
+		<name normalized="펫차부리" languages="Korean">펫차부리</name>
+		<name normalized="펫차부리 주" languages="Korean">펫차부리 주</name>
+	</region>
+	<region name="Phichit" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Phichit" languages="Dutch">Changwat Phichit</name>
+		<name normalized="Faritanin'i Phichit" languages="Malagasy">Faritanin'i Phichit</name>
+		<name normalized="Lalawigan ng Phichit" languages="Tagalog">Lalawigan ng Phichit</name>
+		<name normalized="Phichit" languages="Dutch;English;Finnish;French;German;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Phichit</name>
+		<name normalized="Phichit Changwat" languages="English;official">Phichit Changwat</name>
+		<name normalized="Phichit Hu" languages="Chinese (Min Nan)">Phichit Hú</name>
+		<name normalized="Phichit Province" languages="English;official;Scots">Phichit Province</name>
+		<name normalized="Propinsi Phichit" languages="Achinese">Propinsi Phichit</name>
+		<name normalized="Province de Phichit" languages="French">Province de Phichit</name>
+		<name normalized="Provincia de Phichit" languages="Galician;Spanish">Provincia de Phichit</name>
+		<name normalized="Provincia di Phichit" languages="Italian">Provincia di Phichit</name>
+		<name normalized="Provinsi Phichit" languages="Indonesian">Provinsi Phichit</name>
+		<name normalized="Prowincja Phichit" languages="Polish">Prowincja Phichit</name>
+		<name normalized="Viлoiti Picit" languages="Tajik">Вилояти Пичит</name>
+		<name normalized="Pkicit" languages="Russian">Пхичит</name>
+		<name normalized="Фicit" languages="Bulgarian">Фичит</name>
+		<name normalized="sوbہ pھیچٹ" languages="Western Punjabi">صوبہ پھیچٹ</name>
+		<name normalized="fیچیt" languages="Persian">فیچیت</name>
+		<name normalized="mhאfzة fytشyt" languages="Arabic">محافظة فيتشيت</name>
+		<name normalized="pھیچٹ" languages="Western Punjabi">پھیچٹ</name>
+		<name normalized="cাংৱাt picit" languages="Bishnupria Manipuri">চাংৱাত ফিচিত</name>
+		<name normalized="จังหวัดพิจิตร" languages="Thai">จังหวัดพิจิตร</name>
+		<name normalized="pttt県" languages="Japanese">ピチット県</name>
+		<name normalized="披集" languages="Chinese">披集</name>
+		<name normalized="披集府" languages="Chinese;Wu">披集府</name>
+		<name normalized="피찟" languages="Korean">피찟</name>
+		<name normalized="피찟 주" languages="Korean">피찟 주</name>
+	</region>
+	<region name="Phitsanulok" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Phitsanulok" languages="Dutch">Changwat Phitsanulok</name>
+		<name normalized="Faritanin'i Phitsanulok" languages="Malagasy">Faritanin'i Phitsanulok</name>
+		<name normalized="Lalawigan ng Phitsanulok" languages="Tagalog">Lalawigan ng Phitsanulok</name>
+		<name normalized="Phitsanulok" languages="Danish;Dutch;English;French;German;Indonesian;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Scots;Simple English;Swedish;Vietnamese;Waray">Phitsanulok</name>
+		<name normalized="Phitsanulok Changwat" languages="English;official">Phitsanulok Changwat</name>
+		<name normalized="Phitsanulok Hu" languages="Chinese (Min Nan)">Phitsanulok Hú</name>
+		<name normalized="Phitsanulok Province" languages="English;official;Scots">Phitsanulok Province</name>
+		<name normalized="Propinsi Phitsanulok" languages="Achinese">Propinsi Phitsanulok</name>
+		<name normalized="Province de Phitsanulok" languages="French">Province de Phitsanulok</name>
+		<name normalized="Provincia de Phitsanulok" languages="Galician;Spanish">Provincia de Phitsanulok</name>
+		<name normalized="Provincia di Phitsanulok" languages="Italian">Provincia di Phitsanulok</name>
+		<name normalized="Provinsi Phitsanulok" languages="Indonesian">Provinsi Phitsanulok</name>
+		<name normalized="Prowincja Phitsanulok" languages="Polish">Prowincja Phitsanulok</name>
+		<name normalized="Viлoiti Pitсaнuлok" languages="Tajik">Вилояти Питсанулок</name>
+		<name normalized="Pkitсaнuлok" languages="Russian">Пхитсанулок</name>
+		<name normalized="Фitсaнuлok" languages="Bulgarian">Фитсанулок</name>
+		<name normalized="אسtאن fیtسאنولوک" languages="Persian">استان فیتسانولوک</name>
+		<name normalized="sوbہ pھٹسאنولوک" languages="Western Punjabi">صوبہ پھٹسانولوک</name>
+		<name normalized="fیtسאنولوک" languages="Persian">فیتسانولوک</name>
+		<name normalized="mhאfzة fytسאنولوk" languages="Arabic">محافظة فيتسانولوك</name>
+		<name normalized="pھسٹאنولوک" languages="Western Punjabi">پھسٹانولوک</name>
+		<name normalized="cাংৱাt pitsাnulok" languages="Bishnupria Manipuri">চাংৱাত ফিতসানুলোক</name>
+		<name normalized="จังหวัดพิษณุโลก" languages="Thai">จังหวัดพิษณุโลก</name>
+		<name normalized="เทศบาลนครพิษณุโลก" languages="Thai">เทศบาลนครพิษณุโลก</name>
+		<name normalized="ຈັງຫວັດພິສະນຸໂລກ" languages="Lao">ຈັງຫວັດພິສະນຸໂລກ</name>
+		<name normalized="ཕི་ཊི་ཙ་ནུ་ལོཀ་ཞིང་ཆེན།" languages="Tibetan">ཕི་ཊི་ཙ་ནུ་ལོཀ་ཞིང་ཆེན།</name>
+		<name normalized="ཕི་ཊི་ཙ་ནུ་ལོཀ།" languages="Tibetan">ཕི་ཊི་ཙ་ནུ་ལོཀ།</name>
+		<name normalized="ptsnrーk県" languages="Japanese">ピッサヌローク県</name>
+		<name normalized="彭世洛" languages="Chinese">彭世洛</name>
+		<name normalized="彭世洛府" languages="Chinese">彭世洛府</name>
+		<name normalized="핏사눌록" languages="Korean">핏사눌록</name>
+		<name normalized="핏사눌록 주" languages="Korean">핏사눌록 주</name>
+	</region>
+	<region name="Phra Nakhon Si Ayutthaya" type="province" typeTranslated="changwat">
+		<name normalized="Ajutaja" languages="Lithuanian">Ajutaja</name>
+		<name normalized="Ayutthaya" languages="Dutch;English;German;Malay;Norwegian (bokmal);Scots;Swedish;Vietnamese">Ayutthaya</name>
+		<name normalized="Ayutthaya Hu" languages="Chinese (Min Nan)">Ayutthaya Hú</name>
+		<name normalized="Changwat Ayutthaya" languages="Dutch">Changwat Ayutthaya</name>
+		<name normalized="Faritanin'i Phra Nakhon Si Ayutthaya" languages="Malagasy">Faritanin'i Phra Nakhon Si Ayutthaya</name>
+		<name normalized="Phra Nakhon Si Ayutthaya" languages="English;official;Portuguese;Waray">Phra Nakhon Si Ayutthaya</name>
+		<name normalized="Phra Nakhon Si Ayutthaya Changwat" languages="English;official">Phra Nakhon Si Ayutthaya Changwat</name>
+		<name normalized="Phra Nakhon Si Ayutthaya Province" languages="English;official;Scots">Phra Nakhon Si Ayutthaya Province</name>
+		<name normalized="Propinsi Phra Nakhon Si Ayutthaya" languages="Achinese">Propinsi Phra Nakhon Si Ayutthaya</name>
+		<name normalized="Province d'Ayutthaya" languages="French">Province d'Ayutthaya</name>
+		<name normalized="Provincia de Phra Nakhon Si Ayutthaya" languages="Galician;Spanish">Provincia de Phra Nakhon Si Ayutthaya</name>
+		<name normalized="Provincia di Ayutthaya" languages="Italian">Provincia di Ayutthaya</name>
+		<name normalized="Prowincja Ayutthaya" languages="Polish">Prowincja Ayutthaya</name>
+		<name normalized="Aюtai" languages="Bulgarian">Аютая</name>
+		<name normalized="Aюttkai" languages="Russian">Аюттхая</name>
+		<name normalized="Viлoiti Aюttai" languages="Tajik">Вилояти Аюттая</name>
+		<name normalized="אسtאن آیوttאیא" languages="Persian">استان آیوتتایا</name>
+		<name normalized="אیوٹھאیא" languages="Western Punjabi">ایوٹھایا</name>
+		<name normalized="sوbہ אیوٹھאیא" languages="Western Punjabi">صوبہ ایوٹھایا</name>
+		<name normalized="mhאfzة frא نאخون سy أyوtثאyא" languages="Arabic">محافظة فرا ناخون سي أيوتثايا</name>
+		<name normalized="ayud्yा" languages="Hindi">अयुध्या</name>
+		<name normalized="cাংৱাt prা nাkon si ayud্yা" languages="Bishnupria Manipuri">চাংৱাত ফরা নাখোন সি অযুধ্যা</name>
+		<name normalized="จังหวัดพระนครศรีอยุธยา" languages="Thai">จังหวัดพระนครศรีอยุธยา</name>
+		<name normalized="อยุธยา" languages="Thai">อยุธยา</name>
+		<name normalized="ຈັງຫວັດພະນະຄອນສີອະຍຸທະຍາ" languages="Lao">ຈັງຫວັດພະນະຄອນສີອະຍຸທະຍາ</name>
+		<name normalized="ayty県" languages="Japanese">アユタヤ県</name>
+		<name normalized="大城府" languages="Chinese">大城府</name>
+		<name normalized="아유타야" languages="Korean">아유타야</name>
+		<name normalized="아유타야 주" languages="Korean">아유타야 주</name>
+	</region>
+	<region name="Phrae" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Phrae" languages="Dutch">Changwat Phrae</name>
+		<name normalized="Faritanin'i Phrae" languages="Malagasy">Faritanin'i Phrae</name>
+		<name normalized="Lalawigan ng Phrae" languages="Tagalog">Lalawigan ng Phrae</name>
+		<name normalized="Phrae" languages="Dutch;English;French;German;Italian;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Phrae</name>
+		<name normalized="Phrae Changwat" languages="English;official">Phrae Changwat</name>
+		<name normalized="Phrae Hu" languages="Chinese (Min Nan)">Phrae Hú</name>
+		<name normalized="Phrae Province" languages="English;official;Scots">Phrae Province</name>
+		<name normalized="Phre" languages="Lithuanian">Phrė</name>
+		<name normalized="Propinsi Phrae" languages="Achinese">Propinsi Phrae</name>
+		<name normalized="Province de Phrae" languages="French">Province de Phrae</name>
+		<name normalized="Provincia de Phrae" languages="Galician;Spanish">Provincia de Phrae</name>
+		<name normalized="Provincia di Phrae" languages="Italian">Provincia di Phrae</name>
+		<name normalized="Provinsi Phrae" languages="Indonesian">Provinsi Phrae</name>
+		<name normalized="Prowincja Phrae" languages="Polish">Prowincja Phrae</name>
+		<name normalized="Viлoiti Pрai" languages="Tajik">Вилояти Прае</name>
+		<name normalized="Pkрe" languages="Russian">Пхрэ</name>
+		<name normalized="Фрai" languages="Bulgarian">Фрае</name>
+		<name normalized="אسtאن frאی" languages="Persian">استان فرای</name>
+		<name normalized="sوbہ pھrאئے" languages="Western Punjabi">صوبہ پھرائے</name>
+		<name normalized="mhאfzة frאy" languages="Arabic">محافظة فراي</name>
+		<name normalized="pھrאئے" languages="Western Punjabi">پھرائے</name>
+		<name normalized="cাংৱাt prাy়e" languages="Bishnupria Manipuri">চাংৱাত ফরায়ে</name>
+		<name normalized="จังหวัดแพร่" languages="Thai">จังหวัดแพร่</name>
+		<name normalized="เทศบาลเมืองแพร่" languages="Thai">เทศบาลเมืองแพร่</name>
+		<name normalized="ຈັງຫວັດແພຣ່" languages="Lao">ຈັງຫວັດແພຣ່</name>
+		<name normalized="prー県" languages="Japanese">プレー県</name>
+		<name normalized="帕府" languages="Chinese">帕府</name>
+		<name normalized="프래" languages="Korean">프래</name>
+		<name normalized="프래 주" languages="Korean">프래 주</name>
+	</region>
+	<region name="Phuket" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Phuket" languages="Dutch">Changwat Phuket</name>
+		<name normalized="Faritanin'i Phuket" languages="Malagasy">Faritanin'i Phuket</name>
+		<name normalized="Fuket" languages="Kabyle">Fuket</name>
+		<name normalized="Ilhas Phuket" languages="Portuguese">Ilhas Phuket</name>
+		<name normalized="Phuket" languages="Basque;Czech;Danish;English;Faroese;Finnish;German;Hungarian;Indonesian;Malay;Norwegian (bokmal);official;Swedish;Turkish;Vietnamese;Waray">Phuket</name>
+		<name normalized="Phuket Changwat" languages="English;official">Phuket Changwat</name>
+		<name normalized="Phuket Hu" languages="Chinese (Min Nan)">Phuket Hú</name>
+		<name normalized="Phuket Province" languages="English;official;Scots">Phuket Province</name>
+		<name normalized="Propinsi Phuket" languages="Achinese">Propinsi Phuket</name>
+		<name normalized="Province de Phuket" languages="French">Province de Phuket</name>
+		<name normalized="Provincia de Phuket" languages="Galician;Spanish">Provincia de Phuket</name>
+		<name normalized="Provincia di Phuket" languages="Italian">Provincia di Phuket</name>
+		<name normalized="Prowincja Phuket" languages="Polish">Prowincja Phuket</name>
+		<name normalized="Πουκeτ" languages="Greek">Πουκέτ</name>
+		<name normalized="Pukit" languages="Bulgarian;Serbian">Пукет</name>
+		<name normalized="Pkukit" languages="Kazakh;Russian;Ukrainian">Пхукет</name>
+		<name normalized="pvqt" languages="Hebrew">פוקט</name>
+		<name normalized="sوbہ pھوکٹ" languages="Western Punjabi">صوبہ پھوکٹ</name>
+		<name normalized="fوkyt" languages="Arabic">فوكيت</name>
+		<name normalized="pوکt" languages="Persian">پوکت</name>
+		<name normalized="pukeट" languages="Marathi">फुकेट</name>
+		<name normalized="cাংৱাt puket" languages="Bishnupria Manipuri">চাংৱাত ফুকেত</name>
+		<name normalized="จังหวัดภูเก็ต" languages="Thai">จังหวัดภูเก็ต</name>
+		<name normalized="pーktt県" languages="Japanese">プーケット県</name>
+		<name normalized="布吉府" languages="Cantonese">布吉府</name>
+		<name normalized="普吉府" languages="Chinese;Wu">普吉府</name>
+		<name normalized="푸껫 주" languages="Korean">푸껫 주</name>
+	</region>
+	<region name="Prachin Buri" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Prachinburi" languages="Dutch">Changwat Prachinburi</name>
+		<name normalized="Faritanin'i Prachinburi" languages="Malagasy">Faritanin'i Prachinburi</name>
+		<name normalized="Prachin Buri" languages="English;official;Portuguese;Swedish">Prachin Buri</name>
+		<name normalized="Prachin Buri Changwat" languages="English;official">Prachin Buri Changwat</name>
+		<name normalized="Prachin Buri Province" languages="English;official">Prachin Buri Province</name>
+		<name normalized="Prachinburi" languages="Dutch;English;French;German;Malay;Norwegian (bokmal);Vietnamese;Waray">Prachinburi</name>
+		<name normalized="Prachinburi Hu" languages="Chinese (Min Nan)">Prachinburi Hú</name>
+		<name normalized="Prachinburi Province" languages="English">Prachinburi Province</name>
+		<name normalized="Propinsi Prachin Buri" languages="Achinese">Propinsi Prachin Buri</name>
+		<name normalized="Province de Prachinburi" languages="French">Province de Prachinburi</name>
+		<name normalized="Provincia de Prachinburi" languages="Galician;Spanish">Provincia de Prachinburi</name>
+		<name normalized="Provincia di Prachinburi" languages="Italian">Provincia di Prachinburi</name>
+		<name normalized="Prowincja Prachinburi" languages="Polish">Prowincja Prachinburi</name>
+		<name normalized="Viлoiti Pрaciнbuрi" languages="Tajik">Вилояти Прачинбури</name>
+		<name normalized="Pрaciнbuрi" languages="Bulgarian;Russian">Прачинбури</name>
+		<name normalized="sوbہ prאچنbوrی" languages="Western Punjabi">صوبہ پراچنبوری</name>
+		<name normalized="mhאfzة brאشyنbوry" languages="Arabic">محافظة براشينبوري</name>
+		<name normalized="prאچنbوrی" languages="Western Punjabi">پراچنبوری</name>
+		<name normalized="prאچینbوrی" languages="Persian">پراچینبوری</name>
+		<name normalized="cাংৱাt p্rাcinburi" languages="Bishnupria Manipuri">চাংৱাত প্রাচিনবুরি</name>
+		<name normalized="จังหวัดปราจีนบุรี" languages="Thai">จังหวัดปราจีนบุรี</name>
+		<name normalized="เทศบาลเมืองปราจีนบุรี" languages="Thai">เทศบาลเมืองปราจีนบุรี</name>
+		<name normalized="ຈັງຫວັດປາຈີນບຸລີ" languages="Lao">ຈັງຫວັດປາຈີນບຸລີ</name>
+		<name normalized="པ་ར་ཅིན་བུ་རི་ཞིང་ཆེན།" languages="Tibetan">པ་ར་ཅིན་བུ་རི་ཞིང་ཆེན།</name>
+		<name normalized="པ་ར་ཅིན་བུ་རི།" languages="Tibetan">པ་ར་ཅིན་བུ་རི།</name>
+		<name normalized="prーtーnbrー県" languages="Japanese">プラーチーンブリー県</name>
+		<name normalized="巴真府" languages="Cantonese;Chinese;Wu">巴真府</name>
+		<name normalized="쁘라찐부리" languages="Korean">쁘라찐부리</name>
+		<name normalized="쁘라찐부리 주" languages="Korean">쁘라찐부리 주</name>
+	</region>
+	<region name="Prachuap Khiri Khan" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Prachuap Khiri Khan" languages="Dutch">Changwat Prachuap Khiri Khan</name>
+		<name normalized="Faritanin'i Prachuap Khiri Khan" languages="Malagasy">Faritanin'i Prachuap Khiri Khan</name>
+		<name normalized="Prachuap Khiri Khan" languages="Catalan;Dutch;English;French;German;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Tagalog;Vietnamese;Waray">Prachuap Khiri Khan</name>
+		<name normalized="Prachuap Khiri Khan Changwat" languages="English;official">Prachuap Khiri Khan Changwat</name>
+		<name normalized="Prachuap Khiri Khan Hu" languages="Chinese (Min Nan)">Prachuap Khiri Khan Hú</name>
+		<name normalized="Prachuap Khiri Khan Province" languages="English;official;Scots">Prachuap Khiri Khan Province</name>
+		<name normalized="Propinsi Prachuap Khiri Khan" languages="Achinese">Propinsi Prachuap Khiri Khan</name>
+		<name normalized="Province de Prachuap Khiri Khan" languages="French">Province de Prachuap Khiri Khan</name>
+		<name normalized="Provincia de Prachuap Khiri Khan" languages="Galician;Spanish">Provincia de Prachuap Khiri Khan</name>
+		<name normalized="Provincia di Prachuap Khiri Khan" languages="Italian">Provincia di Prachuap Khiri Khan</name>
+		<name normalized="Provinsi Prachuap Khiri Khan" languages="Indonesian">Provinsi Prachuap Khiri Khan</name>
+		<name normalized="Prowincja Prachuap Khiri Khan" languages="Polish">Prowincja Prachuap Khiri Khan</name>
+		<name normalized="Viлoiti Pрacuap Kiрi Kaн" languages="Tajik">Вилояти Прачуап Хири Хан</name>
+		<name normalized="Pрacuap Kiрi Kaн" languages="Bulgarian">Прачуап Кири Кан</name>
+		<name normalized="Pрacuapkkiрikkaн" languages="Russian">Прачуапкхирикхан</name>
+		<name normalized="sوbہ prאچوآp کھrی کھאن" languages="Western Punjabi">صوبہ پراچوآپ کھری کھان</name>
+		<name normalized="mhאfzة brאtشوאb خyry خאن" languages="Arabic">محافظة براتشواب خيري خان</name>
+		<name normalized="prאچوآb کھrی کھאن" languages="Western Punjabi">پراچوآب کھری کھان</name>
+		<name normalized="prאچوאp خیrی خאن" languages="Persian">پراچواپ خیری خان</name>
+		<name normalized="cাংৱাt p্rাcuy়াp kiri kাn" languages="Bishnupria Manipuri">চাংৱাত প্রাচুয়াপ খিরি খান</name>
+		<name normalized="จังหวัดประจวบคีรีขันธ์" languages="Thai">จังหวัดประจวบคีรีขันธ์</name>
+		<name normalized="เทศบาลเมืองประจวบคีรีขันธ์" languages="Thai">เทศบาลเมืองประจวบคีรีขันธ์</name>
+		<name normalized="prtywtpkーrーkn県" languages="Japanese">プラチュワップキーリーカン県</name>
+		<name normalized="班武里府" languages="Chinese;Classical Chinese">班武里府</name>
+		<name normalized="쁘라쭈압키리칸" languages="Korean">쁘라쭈압키리칸</name>
+		<name normalized="쁘라쭈압키리칸 주" languages="Korean">쁘라쭈압키리칸 주</name>
+	</region>
+	<region name="Ranong" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Ranong" languages="Dutch">Changwat Ranong</name>
+		<name normalized="Faritanin'i Ranong" languages="Malagasy">Faritanin'i Ranong</name>
+		<name normalized="Propinsi Ranong" languages="Achinese">Propinsi Ranong</name>
+		<name normalized="Province de Ranong" languages="French">Province de Ranong</name>
+		<name normalized="Provincia de Ranong" languages="Galician;Spanish">Provincia de Ranong</name>
+		<name normalized="Provincia di Ranong" languages="Italian">Provincia di Ranong</name>
+		<name normalized="Provinsi Ranong" languages="Indonesian">Provinsi Ranong</name>
+		<name normalized="Prowincja Ranong" languages="Polish">Prowincja Ranong</name>
+		<name normalized="Ranong" languages="Dutch;English;French;German;Italian;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Ranong</name>
+		<name normalized="Ranong Changwat" languages="English;official">Ranong Changwat</name>
+		<name normalized="Ranong Hu" languages="Chinese (Min Nan)">Ranong Hú</name>
+		<name normalized="Ranong Province" languages="English;official;Scots">Ranong Province</name>
+		<name normalized="Ranongas" languages="Lithuanian">Ranongas</name>
+		<name normalized="Viлoiti Рaнoнg" languages="Tajik">Вилояти Ранонг</name>
+		<name normalized="Рaнoнg" languages="Bulgarian;Russian;Ukrainian">Ранонг</name>
+		<name normalized="rאنونg" languages="Persian;Western Punjabi">رانونگ</name>
+		<name normalized="sوbہ rאنونg" languages="Western Punjabi">صوبہ رانونگ</name>
+		<name normalized="mhאfzة rאنونغ" languages="Arabic">محافظة رانونغ</name>
+		<name normalized="cাংৱাt rাnoং" languages="Bishnupria Manipuri">চাংৱাত রানোং</name>
+		<name normalized="จังหวัดระนอง" languages="Thai">จังหวัดระนอง</name>
+		<name normalized="ར་ནོང་།" languages="Tibetan">ར་ནོང་།</name>
+		<name normalized="ར་ནོང་ཞིང་ཆེན།" languages="Tibetan">ར་ནོང་ཞིང་ཆེན།</name>
+		<name normalized="rnーn県" languages="Japanese">ラノーン県</name>
+		<name normalized="拉廊" languages="Chinese">拉廊</name>
+		<name normalized="拉廊府" languages="Chinese;Classical Chinese;Wu">拉廊府</name>
+		<name normalized="라농" languages="Korean">라농</name>
+		<name normalized="라농 주" languages="Korean">라농 주</name>
+	</region>
+	<region name="Ratchaburi" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Ratchaburi" languages="Dutch">Changwat Ratchaburi</name>
+		<name normalized="Faritanin'i Ratchaburi" languages="Malagasy">Faritanin'i Ratchaburi</name>
+		<name normalized="Propinsi Ratchaburi" languages="Achinese">Propinsi Ratchaburi</name>
+		<name normalized="Province de Ratchaburi" languages="French">Province de Ratchaburi</name>
+		<name normalized="Provincia de Ratchaburi" languages="Galician">Provincia de Ratchaburi</name>
+		<name normalized="Provincia di Ratchaburi" languages="Italian">Provincia di Ratchaburi</name>
+		<name normalized="Provinsi Ratchaburi" languages="Indonesian">Provinsi Ratchaburi</name>
+		<name normalized="Prowincja Ratchaburi" languages="Polish">Prowincja Ratchaburi</name>
+		<name normalized="Ratchaburi" languages="Dutch;English;French;German;Malay;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish;Vietnamese;Waray">Ratchaburi</name>
+		<name normalized="Ratchaburi Changwat" languages="English;official">Ratchaburi Changwat</name>
+		<name normalized="Ratchaburi Hu" languages="Chinese (Min Nan)">Ratchaburi Hú</name>
+		<name normalized="Ratchaburi Province" languages="English;official;Scots">Ratchaburi Province</name>
+		<name normalized="Viлoiti Рatcabuрi" languages="Tajik">Вилояти Ратчабури</name>
+		<name normalized="Рatcabuрi" languages="Bulgarian;Russian">Ратчабури</name>
+		<name normalized="Рatcabuрi" languages="Ukrainian">Ратчабурі</name>
+		<name normalized="rאtچאbوrی" languages="Persian">راتچابوری</name>
+		<name normalized="rאٹچאbوrی" languages="Western Punjabi">راٹچابوری</name>
+		<name normalized="sوbہ rאٹچאbوrی" languages="Western Punjabi">صوبہ راٹچابوری</name>
+		<name normalized="mhאfzة rאtشאbوry" languages="Arabic">محافظة راتشابوري</name>
+		<name normalized="cাংৱাt rাtcাburi" languages="Bishnupria Manipuri">চাংৱাত রাতচাবুরি</name>
+		<name normalized="จังหวัดราชบุรี" languages="Thai">จังหวัดราชบุรี</name>
+		<name normalized="เทศบาลเมืองราชบุรี" languages="Thai">เทศบาลเมืองราชบุรี</name>
+		<name normalized="rーtybrー県" languages="Japanese">ラーチャブリー県</name>
+		<name normalized="叻丕府" languages="Chinese">叻丕府</name>
+		<name normalized="랏차부리" languages="Korean">랏차부리</name>
+		<name normalized="랏차부리 주" languages="Korean">랏차부리 주</name>
+	</region>
+	<region name="Rayong" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Rayong" languages="Dutch">Changwat Rayong</name>
+		<name normalized="Faritanin'i Rayong" languages="Malagasy">Faritanin'i Rayong</name>
+		<name normalized="Propinsi Rayong" languages="Achinese">Propinsi Rayong</name>
+		<name normalized="Province de Rayong" languages="French">Province de Rayong</name>
+		<name normalized="Provincia de Rayong" languages="Galician;Spanish">Provincia de Rayong</name>
+		<name normalized="Provincia di Rayong" languages="Italian">Provincia di Rayong</name>
+		<name normalized="Prowincja Rayong" languages="Polish">Prowincja Rayong</name>
+		<name normalized="Rayong" languages="Danish;Dutch;English;French;German;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish;Vietnamese;Waray">Rayong</name>
+		<name normalized="Rayong Changwat" languages="English;official">Rayong Changwat</name>
+		<name normalized="Rayong Hu" languages="Chinese (Min Nan)">Rayong Hú</name>
+		<name normalized="Rayong Province" languages="English;official">Rayong Province</name>
+		<name normalized="Viлoiti Рaёнg" languages="Tajik">Вилояти Раёнг</name>
+		<name normalized="Рaйoнg" languages="Bulgarian;Russian">Районг</name>
+		<name normalized="rאیونg" languages="Persian;Western Punjabi">رایونگ</name>
+		<name normalized="sوbہ rאیونg" languages="Western Punjabi">صوبہ رایونگ</name>
+		<name normalized="mhאfzة rאyونغ" languages="Arabic">محافظة رايونغ</name>
+		<name normalized="cাংৱাt rাy়oং" languages="Bishnupria Manipuri">চাংৱাত রায়োং</name>
+		<name normalized="จังหวัดระยอง" languages="Thai">จังหวัดระยอง</name>
+		<name normalized="เทศบาลนครระยอง" languages="Thai">เทศบาลนครระยอง</name>
+		<name normalized="ຈັງຫວັດລະຍອງ" languages="Lao">ຈັງຫວັດລະຍອງ</name>
+		<name normalized="རེ་ཡོང་།" languages="Tibetan">རེ་ཡོང་།</name>
+		<name normalized="རེ་ཡོང་ཞིང་ཆེན།" languages="Tibetan">རེ་ཡོང་ཞིང་ཆེན།</name>
+		<name normalized="ryーn県" languages="Japanese">ラヨーン県</name>
+		<name normalized="羅勇市" languages="Classical Chinese">羅勇市</name>
+		<name normalized="羅勇府" languages="Chinese;Classical Chinese">羅勇府</name>
+		<name normalized="라용" languages="Korean">라용</name>
+		<name normalized="라용 주" languages="Korean">라용 주</name>
+	</region>
+	<region name="Roi Et" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Roi Et" languages="Dutch">Changwat Roi Et</name>
+		<name normalized="Faritanin'i Roi Et" languages="Malagasy">Faritanin'i Roi Et</name>
+		<name normalized="Propinsi Roi Et" languages="Achinese">Propinsi Roi Et</name>
+		<name normalized="Province de Roi Et" languages="French">Province de Roi Et</name>
+		<name normalized="Provincia de Roi Et" languages="Galician;Spanish">Provincia de Roi Et</name>
+		<name normalized="Provincia di Roi Et" languages="Italian">Provincia di Roi Et</name>
+		<name normalized="Provinsi Roi Et" languages="Indonesian">Provinsi Roi Et</name>
+		<name normalized="Prowincja Roi Et" languages="Polish">Prowincja Roi Et</name>
+		<name normalized="Roi Et" languages="Dutch;English;French;German;Italian;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Roi Et</name>
+		<name normalized="Roi Et Changwat" languages="English;official">Roi Et Changwat</name>
+		<name normalized="Roi Et Hu" languages="Chinese (Min Nan)">Roi Et Hú</name>
+		<name normalized="Roi Et Province" languages="English;official">Roi Et Province</name>
+		<name normalized="Rojetas" languages="Lithuanian">Rojetas</name>
+		<name normalized="Viлoiti Рoi It" languages="Tajik">Вилояти Рои Ет</name>
+		<name normalized="rوئی אیٹ" languages="Western Punjabi">روئی ایٹ</name>
+		<name normalized="rوی אt" languages="Persian">روی ات</name>
+		<name normalized="sوbہ rوئی אیٹ" languages="Western Punjabi">صوبہ روئی ایٹ</name>
+		<name normalized="mhאfzة rوy إt" languages="Arabic">محافظة روي إت</name>
+		<name normalized="cাংৱাt roi et" languages="Bishnupria Manipuri">চাংৱাত রোই এত</name>
+		<name normalized="จังหวัดร้อยเอ็ด" languages="Thai">จังหวัดร้อยเอ็ด</name>
+		<name normalized="เทศบาลเมืองร้อยเอ็ด" languages="Thai">เทศบาลเมืองร้อยเอ็ด</name>
+		<name normalized="tーsbーnman・rーiett" languages="Japanese">テーサバーンムアン・ローイエット</name>
+		<name normalized="rーiett県" languages="Japanese">ローイエット県</name>
+		<name normalized="黎逸府" languages="Chinese">黎逸府</name>
+		<name normalized="로이엣" languages="Korean">로이엣</name>
+		<name normalized="로이엣 주" languages="Korean">로이엣 주</name>
+	</region>
+	<region name="Sa Kaeo" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Sa Kaew" languages="Dutch">Changwat Sa Kaew</name>
+		<name normalized="Faritanin'i Sa Kaeo" languages="Malagasy">Faritanin'i Sa Kaeo</name>
+		<name normalized="Propinsi Sa Kaeo" languages="Achinese">Propinsi Sa Kaeo</name>
+		<name normalized="Province de Sa Kaeo" languages="French">Province de Sa Kaeo</name>
+		<name normalized="Provincia de Sa Kaeo" languages="Galician;Spanish">Provincia de Sa Kaeo</name>
+		<name normalized="Provincia di Sa Kaeo" languages="Italian">Provincia di Sa Kaeo</name>
+		<name normalized="Provinsi Sa Kaeo" languages="Indonesian">Provinsi Sa Kaeo</name>
+		<name normalized="Prowincja Sa Kaeo" languages="Polish">Prowincja Sa Kaeo</name>
+		<name normalized="Sa Kaeo" languages="English;French;German;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Sa Kaeo</name>
+		<name normalized="Sa Kaeo Changwat" languages="English;official">Sa Kaeo Changwat</name>
+		<name normalized="Sa Kaeo Hu" languages="Chinese (Min Nan)">Sa Kaeo Hú</name>
+		<name normalized="Sa Kaeo Province" languages="English;official">Sa Kaeo Province</name>
+		<name normalized="Sa Kaew" languages="Dutch">Sa Kaew</name>
+		<name normalized="Viлoiti Сa Kaio" languages="Tajik">Вилояти Са Каео</name>
+		<name normalized="Сa Kaio" languages="Bulgarian">Са Каео</name>
+		<name normalized="Сakeu" languages="Russian">Сакэу</name>
+		<name normalized="سא کאیو" languages="Persian">سا کایو</name>
+		<name normalized="سאکאئیؤ" languages="Western Punjabi">ساکائیؤ</name>
+		<name normalized="sوbہ سאکאئیؤ" languages="Western Punjabi">صوبہ ساکائیؤ</name>
+		<name normalized="mhאfzة سא kאyو" languages="Arabic">محافظة سا كايو</name>
+		<name normalized="cাংৱাt sা kাy়eo" languages="Bishnupria Manipuri">চাংৱাত সা কায়েও</name>
+		<name normalized="จังหวัดสระแก้ว" languages="Thai">จังหวัดสระแก้ว</name>
+		<name normalized="เทศบาลเมืองสระแก้ว" languages="Thai">เทศบาลเมืองสระแก้ว</name>
+		<name normalized="ຈັງຫວັດສະແກ້ວ" languages="Lao">ຈັງຫວັດສະແກ້ວ</name>
+		<name normalized="skーo県" languages="Japanese">サケーオ県</name>
+		<name normalized="沙繳市" languages="Classical Chinese">沙繳市</name>
+		<name normalized="沙繳府" languages="Chinese;Classical Chinese">沙繳府</name>
+		<name normalized="사깨오" languages="Korean">사깨오</name>
+		<name normalized="사깨오 주" languages="Korean">사깨오 주</name>
+	</region>
+	<region name="Sakon Nakhon" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Sakon Nakhon" languages="Dutch">Changwat Sakon Nakhon</name>
+		<name normalized="Faritanin'i Sakon Nakhon" languages="Malagasy">Faritanin'i Sakon Nakhon</name>
+		<name normalized="Propinsi Sakon Nakhon" languages="Achinese">Propinsi Sakon Nakhon</name>
+		<name normalized="Province de Sakhon Nakhon" languages="French">Province de Sakhon Nakhon</name>
+		<name normalized="Provincia de Sakon Nakhon" languages="Galician;Spanish">Provincia de Sakon Nakhon</name>
+		<name normalized="Provincia di Sakon Nakhon" languages="Italian">Provincia di Sakon Nakhon</name>
+		<name normalized="Provinsi Sakon Nakhon" languages="Indonesian">Provinsi Sakon Nakhon</name>
+		<name normalized="Prowincja Sakon Nakhon" languages="Polish">Prowincja Sakon Nakhon</name>
+		<name normalized="Sakhon Nakhon" languages="Dutch;French;Malay;Norwegian (bokmal)">Sakhon Nakhon</name>
+		<name normalized="Sakon Nakhon" languages="English;German;Norwegian (bokmal);official;Portuguese;Spanish;Swedish;Vietnamese;Waray">Sakon Nakhon</name>
+		<name normalized="Sakon Nakhon Changwat" languages="English;official">Sakon Nakhon Changwat</name>
+		<name normalized="Sakon Nakhon Hu" languages="Chinese (Min Nan)">Sakon Nakhon Hú</name>
+		<name normalized="Sakon Nakhon Province" languages="English;official">Sakon Nakhon Province</name>
+		<name normalized="Sakonakhonas" languages="Lithuanian">Sakonakhonas</name>
+		<name normalized="Viлoiti Сakoн Нaxoн" languages="Tajik">Вилояти Сакон Наxон</name>
+		<name normalized="Сakoн Нakoн" languages="Bulgarian">Сакон Након</name>
+		<name normalized="سאکون نאخون" languages="Persian">ساکون ناخون</name>
+		<name normalized="سאکون نکھون" languages="Western Punjabi">ساکون نکھون</name>
+		<name normalized="sوbہ سאکون نکھون" languages="Western Punjabi">صوبہ ساکون نکھون</name>
+		<name normalized="mhאfzة سאkون نאخون" languages="Arabic">محافظة ساكون ناخون</name>
+		<name normalized="cাংৱাt sাkon nাkon" languages="Bishnupria Manipuri">চাংৱাত সাকোন নাখোন</name>
+		<name normalized="จังหวัดสกลนคร" languages="Thai">จังหวัดสกลนคร</name>
+		<name normalized="เทศบาลนครสกลนคร" languages="Thai">เทศบาลนครสกลนคร</name>
+		<name normalized="ས་ཀཱོན་ན་ཁཱོན་ཞིང་ཆེན།" languages="Tibetan">ས་ཀཱོན་ན་ཁཱོན་ཞིང་ཆེན།</name>
+		<name normalized="ས་ཀཱོན་ན་ཁཱོན།" languages="Tibetan">ས་ཀཱོན་ན་ཁཱོན།</name>
+		<name normalized="sknnkーn県" languages="Japanese">サコンナコーン県</name>
+		<name normalized="色軍府" languages="Chinese">色軍府</name>
+		<name normalized="사꼰나콘" languages="Korean">사꼰나콘</name>
+		<name normalized="사꼰나콘 주" languages="Korean">사꼰나콘 주</name>
+	</region>
+	<region name="Samut Prakan" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Samut Prakan" languages="Dutch">Changwat Samut Prakan</name>
+		<name normalized="Faritanin'i Samut Prakan" languages="Malagasy">Faritanin'i Samut Prakan</name>
+		<name normalized="Propinsi Samut Prakan" languages="Achinese">Propinsi Samut Prakan</name>
+		<name normalized="Province de Samut Prakan" languages="French">Province de Samut Prakan</name>
+		<name normalized="Provincia de Samut Prakan" languages="Galician;Spanish">Provincia de Samut Prakan</name>
+		<name normalized="Provincia di Samut Prakan" languages="Italian">Provincia di Samut Prakan</name>
+		<name normalized="Prowincja Samut Prakan" languages="Polish">Prowincja Samut Prakan</name>
+		<name normalized="Samut Prakan" languages="English;Finnish;German;Indonesian;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Samut Prakan</name>
+		<name normalized="Samut Prakan Changwat" languages="English;official">Samut Prakan Changwat</name>
+		<name normalized="Samut Prakan Hu" languages="Chinese (Min Nan)">Samut Prakan Hú</name>
+		<name normalized="Samut Prakan Province" languages="English;official;Scots">Samut Prakan Province</name>
+		<name normalized="Viлoiti Сaмut Pрakaн" languages="Tajik">Вилояти Самут Пракан</name>
+		<name normalized="Сaмut Pрakaн" languages="Bulgarian">Самут Пракан</name>
+		<name normalized="Сaмutpрakaн" languages="Russian;Ukrainian">Самутпракан</name>
+		<name normalized="סמvt prqן" languages="Hebrew">סמוט פרקן</name>
+		<name normalized="sوbہ سאmٹ prאکאن" languages="Western Punjabi">صوبہ سامٹ پراکان</name>
+		<name normalized="mhאfzة سאmوt brאkאن" languages="Arabic">محافظة ساموت براكان</name>
+		<name normalized="cাংৱাt sাmut p্rাkাn" languages="Bishnupria Manipuri">চাংৱাত সামুত প্রাকান</name>
+		<name normalized="จังหวัดสมุทรปราการ" languages="Thai">จังหวัดสมุทรปราการ</name>
+		<name normalized="smttprーkーn県" languages="Japanese">サムットプラーカーン県</name>
+		<name normalized="北欖府" languages="Chinese">北欖府</name>
+		<name normalized="沙没巴干府" languages="Wu">沙没巴干府</name>
+		<name normalized="사뭇쁘라깐 주" languages="Korean">사뭇쁘라깐 주</name>
+	</region>
+	<region name="Samut Sakhon" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Samut Sakhon" languages="Dutch">Changwat Samut Sakhon</name>
+		<name normalized="Faritanin'i Samut Sakhon" languages="Malagasy">Faritanin'i Samut Sakhon</name>
+		<name normalized="Propinsi Samut Sakhon" languages="Achinese">Propinsi Samut Sakhon</name>
+		<name normalized="Province de Samut Sakhon" languages="French">Province de Samut Sakhon</name>
+		<name normalized="Provincia de Samut Sakhon" languages="Galician;Spanish">Provincia de Samut Sakhon</name>
+		<name normalized="Provincia di Samut Sakhon" languages="Italian">Provincia di Samut Sakhon</name>
+		<name normalized="Prowincja Samut Sakhon" languages="Polish">Prowincja Samut Sakhon</name>
+		<name normalized="Samut Sakhon" languages="Dutch;English;French;German;Indonesian;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Samut Sakhon</name>
+		<name normalized="Samut Sakhon Changwat" languages="English;official">Samut Sakhon Changwat</name>
+		<name normalized="Samut Sakhon Hu" languages="Chinese (Min Nan)">Samut Sakhon Hú</name>
+		<name normalized="Samut Sakhon Province" languages="English;official;Scots">Samut Sakhon Province</name>
+		<name normalized="Viлoiti Сaмut Сaxoн" languages="Tajik">Вилояти Самут Саxон</name>
+		<name normalized="Сaмut Сakoн" languages="Bulgarian">Самут Сакон</name>
+		<name normalized="Сaмutсakkoн" languages="Russian;Ukrainian">Самутсакхон</name>
+		<name normalized="سאmوt سאخون" languages="Persian">ساموت ساخون</name>
+		<name normalized="سאmٹ سکھون" languages="Western Punjabi">سامٹ سکھون</name>
+		<name normalized="sوbہ سאmٹ سکھون" languages="Western Punjabi">صوبہ سامٹ سکھون</name>
+		<name normalized="mhאfzة سאmوt سאخون" languages="Arabic">محافظة ساموت ساخون</name>
+		<name normalized="cাংৱাt sাmut sাkon" languages="Bishnupria Manipuri">চাংৱাত সামুত সাখোন</name>
+		<name normalized="จังหวัดสมุทรสาคร" languages="Thai">จังหวัดสมุทรสาคร</name>
+		<name normalized="เทศบาลนครสมุทรสาคร" languages="Thai">เทศบาลนครสมุทรสาคร</name>
+		<name normalized="smttsーkーn県" languages="Japanese">サムットサーコーン県</name>
+		<name normalized="龍仔厝府" languages="Chinese">龍仔厝府</name>
+		<name normalized="龙仔厝府" languages="Wu">龙仔厝府</name>
+		<name normalized="사뭇사콘" languages="Korean">사뭇사콘</name>
+		<name normalized="사뭇사콘 주" languages="Korean">사뭇사콘 주</name>
+	</region>
+	<region name="Samut Songkhram" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Samut Songkhram" languages="Dutch">Changwat Samut Songkhram</name>
+		<name normalized="Faritanin'i Samut Songkhram" languages="Malagasy">Faritanin'i Samut Songkhram</name>
+		<name normalized="Propinsi Samut Songkhram" languages="Achinese">Propinsi Samut Songkhram</name>
+		<name normalized="Province de Samut Songkhram" languages="French">Province de Samut Songkhram</name>
+		<name normalized="Provincia de Samut Songkhram" languages="Galician">Provincia de Samut Songkhram</name>
+		<name normalized="Provincia di Samut Songkhram" languages="Italian">Provincia di Samut Songkhram</name>
+		<name normalized="Prowincja Samut Songkhram" languages="Polish">Prowincja Samut Songkhram</name>
+		<name normalized="Samut Songkhram" languages="Dutch;English;French;German;Malay;Norwegian (bokmal);official;Portuguese;Spanish;Swedish;Vietnamese;Waray">Samut Songkhram</name>
+		<name normalized="Samut Songkhram Changwat" languages="English;official">Samut Songkhram Changwat</name>
+		<name normalized="Samut Songkhram Hu" languages="Chinese (Min Nan)">Samut Songkhram Hú</name>
+		<name normalized="Samut Songkhram Province" languages="English;official;Scots">Samut Songkhram Province</name>
+		<name normalized="Viлoiti Сaмut Сoнgxрaм" languages="Tajik">Вилояти Самут Сонгxрам</name>
+		<name normalized="Сaмut Сoнgxрaм" languages="Tajik">Самут Сонгxрам</name>
+		<name normalized="Сaмut Сoнgkрaм" languages="Bulgarian">Самут Сонгкрам</name>
+		<name normalized="Сaмutсoнgkkрaм" languages="Russian;Ukrainian">Самутсонгкхрам</name>
+		<name normalized="سאmوt سونgخrאm" languages="Persian">ساموت سونگخرام</name>
+		<name normalized="سאmٹ سونgکھrאm" languages="Western Punjabi">سامٹ سونگکھرام</name>
+		<name normalized="sوbہ سאmٹ سونgکھrאm" languages="Western Punjabi">صوبہ سامٹ سونگکھرام</name>
+		<name normalized="mhאfzة سאmوt سونغخrאm" languages="Arabic">محافظة ساموت سونغخرام</name>
+		<name normalized="cাংৱাt sাmut soংkrাm" languages="Bishnupria Manipuri">চাংৱাত সামুত সোংখরাম</name>
+		<name normalized="จังหวัดสมุทรสงคราม" languages="Thai">จังหวัดสมุทรสงคราม</name>
+		<name normalized="เทศบาลเมืองสมุทรสงคราม" languages="Thai">เทศบาลเมืองสมุทรสงคราม</name>
+		<name normalized="smttsnkrーm県" languages="Japanese">サムットソンクラーム県</name>
+		<name normalized="夜功府" languages="Chinese">夜功府</name>
+		<name normalized="사뭇송크람" languages="Korean">사뭇송크람</name>
+		<name normalized="사뭇송크람 주" languages="Korean">사뭇송크람 주</name>
+	</region>
+	<region name="Sara Buri" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Saraburi" languages="Dutch">Changwat Saraburi</name>
+		<name normalized="Faritanin'i Saraburi" languages="Malagasy">Faritanin'i Saraburi</name>
+		<name normalized="Propinsi Saraburi" languages="Achinese">Propinsi Saraburi</name>
+		<name normalized="Province de Saraburi" languages="French">Province de Saraburi</name>
+		<name normalized="Provincia de Saraburi" languages="Galician;Spanish">Provincia de Saraburi</name>
+		<name normalized="Provincia di Saraburi" languages="Italian">Provincia di Saraburi</name>
+		<name normalized="Prowincja Saraburi" languages="Polish">Prowincja Saraburi</name>
+		<name normalized="Sara Buri" languages="English;official">Sara Buri</name>
+		<name normalized="Sara Buri Changwat" languages="English;official">Sara Buri Changwat</name>
+		<name normalized="Sara Buri Province" languages="English;official">Sara Buri Province</name>
+		<name normalized="Saraburi" languages="Finnish;German;Malay;Norwegian (bokmal);Portuguese;Swedish;Vietnamese;Waray">Saraburi</name>
+		<name normalized="Saraburi Hu" languages="Chinese (Min Nan)">Saraburi Hú</name>
+		<name normalized="Saraburi Province" languages="English;Scots">Saraburi Province</name>
+		<name normalized="Viлoiti Сaрabuрi" languages="Tajik">Вилояти Сарабури</name>
+		<name normalized="Сaрabuрi" languages="Bulgarian;Russian">Сарабури</name>
+		<name normalized="سאrאbوrی" languages="Persian">سارابوری</name>
+		<name normalized="sوbہ سאrאbوrی" languages="Western Punjabi">صوبہ سارابوری</name>
+		<name normalized="mhאfzة سאrאbوry" languages="Arabic">محافظة سارابوري</name>
+		<name normalized="cাংৱাt sাrাburi" languages="Bishnupria Manipuri">চাংৱাত সারাবুরি</name>
+		<name normalized="จังหวัดสระบุรี" languages="Thai">จังหวัดสระบุรี</name>
+		<name normalized="srbrー県" languages="Japanese">サラブリー県</name>
+		<name normalized="北標府" languages="Chinese">北標府</name>
+		<name normalized="사라부리 주" languages="Korean">사라부리 주</name>
+	</region>
+	<region name="Satun" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Satun" languages="Dutch">Changwat Satun</name>
+		<name normalized="Faritanin'i Satun" languages="Malagasy">Faritanin'i Satun</name>
+		<name normalized="Propinsi Satun" languages="Achinese">Propinsi Satun</name>
+		<name normalized="Province de Satun" languages="French">Province de Satun</name>
+		<name normalized="Provincia de Satun" languages="Galician;Spanish">Provincia de Satun</name>
+		<name normalized="Provincia di Satun" languages="Italian">Provincia di Satun</name>
+		<name normalized="Provinsi Satun" languages="Indonesian">Provinsi Satun</name>
+		<name normalized="Prowincja Satun" languages="Polish">Prowincja Satun</name>
+		<name normalized="Satun" languages="Dutch;English;French;German;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Satun</name>
+		<name normalized="Satun Changwat" languages="English;official">Satun Changwat</name>
+		<name normalized="Satun Hu" languages="Chinese (Min Nan)">Satun Hú</name>
+		<name normalized="Satun Province" languages="English;official;Scots">Satun Province</name>
+		<name normalized="Wilayah Satun" languages="Malay">Wilayah Satun</name>
+		<name normalized="Viлoiti Сatuн" languages="Tajik">Вилояти Сатун</name>
+		<name normalized="Сatuн" languages="Bulgarian;Russian;Ukrainian">Сатун</name>
+		<name normalized="אسtאن سאtون" languages="Persian">استان ساتون</name>
+		<name normalized="سאtون" languages="Persian">ساتون</name>
+		<name normalized="سאٹن" languages="Western Punjabi">ساٹن</name>
+		<name normalized="sوbہ سאٹن" languages="Western Punjabi">صوبہ ساٹن</name>
+		<name normalized="mhאfzة سאtون" languages="Arabic">محافظة ساتون</name>
+		<name normalized="cাংৱাt sাtun" languages="Bishnupria Manipuri">চাংৱাত সাতুন</name>
+		<name normalized="จังหวัดสตูล" languages="Thai">จังหวัดสตูล</name>
+		<name normalized="ས་ཊུན་ཞིང་ཆེན།" languages="Tibetan">ས་ཊུན་ཞིང་ཆེན།</name>
+		<name normalized="ས་ཊུན།" languages="Tibetan">ས་ཊུན།</name>
+		<name normalized="stuーn県" languages="Japanese">サトゥーン県</name>
+		<name normalized="沙吞府" languages="Wu">沙吞府</name>
+		<name normalized="沙敦府" languages="Cantonese;Chinese">沙敦府</name>
+		<name normalized="사뚠" languages="Korean">사뚠</name>
+		<name normalized="사뚠 주" languages="Korean">사뚠 주</name>
+	</region>
+	<region name="Sing Buri" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Singburi" languages="Dutch">Changwat Singburi</name>
+		<name normalized="Faritanin'i Sing Buri" languages="Malagasy">Faritanin'i Sing Buri</name>
+		<name normalized="Propinsi Sing Buri" languages="Achinese">Propinsi Sing Buri</name>
+		<name normalized="Province de Singburi" languages="French">Province de Singburi</name>
+		<name normalized="Provincia de Sing Buri" languages="Galician;Spanish">Provincia de Sing Buri</name>
+		<name normalized="Provincia di Singburi" languages="Italian">Provincia di Singburi</name>
+		<name normalized="Prowincja Sing Buri" languages="Polish">Prowincja Sing Buri</name>
+		<name normalized="Sing Buri" languages="English;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Sing Buri</name>
+		<name normalized="Sing Buri Changwat" languages="English;official">Sing Buri Changwat</name>
+		<name normalized="Sing Buri Hu" languages="Chinese (Min Nan)">Sing Buri Hú</name>
+		<name normalized="Sing Buri Province" languages="English;official;Scots">Sing Buri Province</name>
+		<name normalized="Singburi" languages="Dutch;French;German;Norwegian (bokmal)">Singburi</name>
+		<name normalized="Viлoiti Сiнg Buрi" languages="Tajik">Вилояти Синг Бури</name>
+		<name normalized="Сiнg Buрi" languages="Bulgarian">Синг Бури</name>
+		<name normalized="Сiнgbuрi" languages="Russian">Сингбури</name>
+		<name normalized="سنgbوrی" languages="Western Punjabi">سنگبوری</name>
+		<name normalized="سینg bوrی" languages="Persian">سینگ بوری</name>
+		<name normalized="sوbہ سنgbوrی" languages="Western Punjabi">صوبہ سنگبوری</name>
+		<name normalized="mhאfzة سنغ bوry" languages="Arabic">محافظة سنغ بوري</name>
+		<name normalized="cাংৱাt siং buri" languages="Bishnupria Manipuri">চাংৱাত সিং বুরি</name>
+		<name normalized="จังหวัดสิงห์บุรี" languages="Thai">จังหวัดสิงห์บุรี</name>
+		<name normalized="เทศบาลเมืองสิงห์บุรี" languages="Thai">เทศบาลเมืองสิงห์บุรี</name>
+		<name normalized="snbrー県" languages="Japanese">シンブリー県</name>
+		<name normalized="信武里府" languages="Chinese;Wu">信武里府</name>
+		<name normalized="싱부리" languages="Korean">싱부리</name>
+		<name normalized="싱부리 주" languages="Korean">싱부리 주</name>
+	</region>
+	<region name="Sisaket" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Sisaket" languages="Dutch">Changwat Sisaket</name>
+		<name normalized="Faritanin'i Sisaket" languages="Malagasy">Faritanin'i Sisaket</name>
+		<name normalized="Propinsi Sisaket" languages="Achinese">Propinsi Sisaket</name>
+		<name normalized="Province de Si Saket" languages="French">Province de Si Saket</name>
+		<name normalized="Provincia de Sisaket" languages="Galician;Spanish">Provincia de Sisaket</name>
+		<name normalized="Provincia di Sisaket" languages="Italian">Provincia di Sisaket</name>
+		<name normalized="Provinsi Sisaket" languages="Indonesian">Provinsi Sisaket</name>
+		<name normalized="Prowincja Sisaket" languages="Polish">Prowincja Sisaket</name>
+		<name normalized="Si Sa Ket" languages="Portuguese">Si Sa Ket</name>
+		<name normalized="Si Saket" languages="German">Si Saket</name>
+		<name normalized="Sisaket" languages="Dutch;English;Malay;Norwegian (bokmal);official;Swedish;Vietnamese;Waray">Sisaket</name>
+		<name normalized="Sisaket Changwat" languages="English;official">Sisaket Changwat</name>
+		<name normalized="Sisaket Hu" languages="Chinese (Min Nan)">Sisaket Hú</name>
+		<name normalized="Sisaket Province" languages="English;official">Sisaket Province</name>
+		<name normalized="Viлoiti Сiсakit" languages="Tajik">Вилояти Сисакет</name>
+		<name normalized="Сiсakit" languages="Bulgarian;Russian">Сисакет</name>
+		<name normalized="سی سא کt" languages="Persian">سی سا کت</name>
+		<name normalized="sوbہ سیسאکٹ" languages="Western Punjabi">صوبہ سیساکٹ</name>
+		<name normalized="mhאfzة سy سא kt" languages="Arabic">محافظة سي سا كت</name>
+		<name normalized="cাংৱাt sisাket" languages="Bishnupria Manipuri">চাংৱাত সিসাকেত</name>
+		<name normalized="จังหวัดศรีสะเกษ" languages="Thai">จังหวัดศรีสะเกษ</name>
+		<name normalized="ศรีสะเกษ" languages="Thai">ศรีสะเกษ</name>
+		<name normalized="sーskーt県" languages="Japanese">シーサケート県</name>
+		<name normalized="四色菊府" languages="Chinese">四色菊府</name>
+		<name normalized="시사껫 주" languages="Korean">시사껫 주</name>
+	</region>
+	<region name="Songkhla" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Songkhla" languages="Dutch">Changwat Songkhla</name>
+		<name normalized="Faritanin'i Songkhla" languages="Malagasy">Faritanin'i Songkhla</name>
+		<name normalized="Propinsi Songkhla" languages="Achinese">Propinsi Songkhla</name>
+		<name normalized="Province de Songkhla" languages="French">Province de Songkhla</name>
+		<name normalized="Provincia de Songkhla" languages="Galician;Spanish">Provincia de Songkhla</name>
+		<name normalized="Provincia di Songkhla" languages="Italian">Provincia di Songkhla</name>
+		<name normalized="Provinsi Songkhla" languages="Indonesian">Provinsi Songkhla</name>
+		<name normalized="Prowincja Songkhla" languages="Polish">Prowincja Songkhla</name>
+		<name normalized="Songkhla" languages="Danish;Dutch;English;French;German;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Scots;Swedish;Vietnamese;Waray">Songkhla</name>
+		<name normalized="Songkhla Changwat" languages="English;official">Songkhla Changwat</name>
+		<name normalized="Songkhla Hu" languages="Chinese (Min Nan)">Songkhla Hú</name>
+		<name normalized="Songkhla Province" languages="English;official;Scots">Songkhla Province</name>
+		<name normalized="Thanh pho Songkhla" languages="Vietnamese">Thành phố Songkhla</name>
+		<name normalized="Viлoiti Сoнgxлa" languages="Tajik">Вилояти Сонгxла</name>
+		<name normalized="Сoнgkлa" languages="Bulgarian">Сонгкла</name>
+		<name normalized="Сoнgkkлa" languages="Russian;Ukrainian">Сонгкхла</name>
+		<name normalized="سونgخلא" languages="Persian">سونگخلا</name>
+		<name normalized="سونgکھلא" languages="Western Punjabi">سونگکھلا</name>
+		<name normalized="sوbہ سونgکھلא" languages="Western Punjabi">صوبہ سونگکھلا</name>
+		<name normalized="mhאfzة سونjkلא" languages="Arabic">محافظة سونجكلا</name>
+		<name normalized="cাংৱাt soংklা" languages="Bishnupria Manipuri">চাংৱাত সোংখলা</name>
+		<name normalized="จังหวัดสงขลา" languages="Thai">จังหวัดสงขลา</name>
+		<name normalized="เทศบาลนครสงขลา" languages="Thai">เทศบาลนครสงขลา</name>
+		<name normalized="སོང་ཁ་ལ་ཞིང་ཆེན།" languages="Tibetan">སོང་ཁ་ལ་ཞིང་ཆེན།</name>
+		<name normalized="སོང་ཁ་ལ།" languages="Tibetan">སོང་ཁ་ལ།</name>
+		<name normalized="snkrー県" languages="Japanese">ソンクラー県</name>
+		<name normalized="宋卡" languages="Chinese">宋卡</name>
+		<name normalized="宋卡市" languages="Wu">宋卡市</name>
+		<name normalized="宋卡府" languages="Cantonese;Chinese;Classical Chinese;Wu">宋卡府</name>
+		<name normalized="송클라" languages="Korean">송클라</name>
+		<name normalized="송클라 주" languages="Korean">송클라 주</name>
+	</region>
+	<region name="Sukhothai" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Sukhothai" languages="Dutch">Changwat Sukhothai</name>
+		<name normalized="Faritanin'i Sukhothai" languages="Malagasy">Faritanin'i Sukhothai</name>
+		<name normalized="Lalawigan ng Sukhothai" languages="Tagalog">Lalawigan ng Sukhothai</name>
+		<name normalized="Propinsi Sukhothai" languages="Achinese">Propinsi Sukhothai</name>
+		<name normalized="Province de Sukhothai" languages="French">Province de Sukhothaï</name>
+		<name normalized="Provincia de Sukhothai" languages="Galician;Spanish">Provincia de Sukhothai</name>
+		<name normalized="Provincia di Sukhothai" languages="Italian">Provincia di Sukhothai</name>
+		<name normalized="Provinsi Sukhothai" languages="Indonesian">Provinsi Sukhothai</name>
+		<name normalized="Prowincja Sukhothai" languages="Polish">Prowincja Sukhothai</name>
+		<name normalized="Sukhothai" languages="Dutch;English;German;Icelandic;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Sukhothai</name>
+		<name normalized="Sukhothai Changwat" languages="English;official">Sukhothai Changwat</name>
+		<name normalized="Sukhothai Hu" languages="Chinese (Min Nan)">Sukhothai Hú</name>
+		<name normalized="Sukhothai Province" languages="English;official;Scots">Sukhothai Province</name>
+		<name normalized="Viлoiti Сuxotai" languages="Tajik">Вилояти Суxотаи</name>
+		<name normalized="Сukotai" languages="Bulgarian;Russian">Сукотаи</name>
+		<name normalized="Сukkotkaй" languages="Russian">Сукхотхай</name>
+		<name normalized="sوbہ سکھونtھאئی" languages="Western Punjabi">صوبہ سکھونتھائی</name>
+		<name normalized="mhאfzة سوkوtאy" languages="Arabic">محافظة سوكوتاي</name>
+		<name normalized="cাংৱাt sukoti" languages="Bishnupria Manipuri">চাংৱাত সুখোথি</name>
+		<name normalized="จังหวัดสุโขทัย" languages="Thai">จังหวัดสุโขทัย</name>
+		<name normalized="สุโขทัย" languages="Thai">สุโขทัย</name>
+		<name normalized="skーti県" languages="Japanese">スコータイ県</name>
+		<name normalized="素可泰府" languages="Chinese;Wu">素可泰府</name>
+		<name normalized="수코타이" languages="Korean">수코타이</name>
+		<name normalized="수코타이 주" languages="Korean">수코타이 주</name>
+	</region>
+	<region name="Suphan Buri" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Suphanburi" languages="Dutch">Changwat Suphanburi</name>
+		<name normalized="Faritanin'i Suphan Buri" languages="Malagasy">Faritanin'i Suphan Buri</name>
+		<name normalized="Propinsi Suphanburi" languages="Achinese">Propinsi Suphanburi</name>
+		<name normalized="Province de Suphanburi" languages="French">Province de Suphanburi</name>
+		<name normalized="Provincia de Suphan Buri" languages="Galician">Provincia de Suphan Buri</name>
+		<name normalized="Provincia de Suphanburi" languages="Spanish">Provincia de Suphanburi</name>
+		<name normalized="Provincia di Suphanburi" languages="Italian">Provincia di Suphanburi</name>
+		<name normalized="Provinsi Suphan Buri" languages="Indonesian">Provinsi Suphan Buri</name>
+		<name normalized="Prowincja Suphanburi" languages="Polish">Prowincja Suphanburi</name>
+		<name normalized="Suphan Buri" languages="English;Malay;Norwegian (bokmal);official;Portuguese;Waray">Suphan Buri</name>
+		<name normalized="Suphan Buri Changwat" languages="English;official">Suphan Buri Changwat</name>
+		<name normalized="Suphan Buri Province" languages="English;official;Scots;Simple English">Suphan Buri Province</name>
+		<name normalized="Suphanburi" languages="Dutch;English;French;German;Indonesian;Italian;Norwegian (bokmal);Swedish;Vietnamese;Waray">Suphanburi</name>
+		<name normalized="Suphanburi Hu" languages="Chinese (Min Nan)">Suphanburi Hú</name>
+		<name normalized="Viлoiti Сupaнbuрi" languages="Tajik">Вилояти Супанбури</name>
+		<name normalized="Сupkaнbuрi" languages="Russian">Супханбури</name>
+		<name normalized="Сuфaнabuрi" languages="Bulgarian">Суфанабури</name>
+		<name normalized="سوpאن bوrی" languages="Persian">سوپان بوری</name>
+		<name normalized="سوpھאنbوrی" languages="Western Punjabi">سوپھانبوری</name>
+		<name normalized="sوbہ سوpھאنbوrی" languages="Western Punjabi">صوبہ سوپھانبوری</name>
+		<name normalized="mhאfzة سوfאنbوry" languages="Arabic">محافظة سوفانبوري</name>
+		<name normalized="cাংৱাt supাnburi" languages="Bishnupria Manipuri">চাংৱাত সুফানবুরি</name>
+		<name normalized="จังหวัดสุพรรณบุรี" languages="Thai">จังหวัดสุพรรณบุรี</name>
+		<name normalized="เทศบาลเมืองสุพรรณบุรี" languages="Thai">เทศบาลเมืองสุพรรณบุรี</name>
+		<name normalized="spnbrー県" languages="Japanese">スパンブリー県</name>
+		<name normalized="素攀武里府" languages="Chinese">素攀武里府</name>
+		<name normalized="수판부리" languages="Korean">수판부리</name>
+		<name normalized="수판부리 주" languages="Korean">수판부리 주</name>
+	</region>
+	<region name="Surat Thani" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Surat Thani" languages="Dutch">Changwat Surat Thani</name>
+		<name normalized="Faritanin'i Surat Thani" languages="Malagasy">Faritanin'i Surat Thani</name>
+		<name normalized="Propinsi Surat Thani" languages="Achinese">Propinsi Surat Thani</name>
+		<name normalized="Province de Surat Thani" languages="French">Province de Surat Thani</name>
+		<name normalized="Provincia de Surat Thani" languages="Galician;Spanish">Provincia de Surat Thani</name>
+		<name normalized="Provincia di Surat Thani" languages="Italian">Provincia di Surat Thani</name>
+		<name normalized="Provinsi Surat Thani" languages="Indonesian">Provinsi Surat Thani</name>
+		<name normalized="Prowincja Surat Thani" languages="Polish">Prowincja Surat Thani</name>
+		<name normalized="Surat Thani" languages="Afrikaans;Danish;Dutch;English;Estonian;French;German;Indonesian;Italian;Kalaallisut;Malay;Norwegian (bokmal);official;Polish;Portuguese;Scots;Spanish;Swedish;Vietnamese;Waray">Surat Thani</name>
+		<name normalized="Surat Thani Changwat" languages="English;official">Surat Thani Changwat</name>
+		<name normalized="Surat Thani Hu" languages="Chinese (Min Nan)">Surat Thani Hú</name>
+		<name normalized="Surat Thani Province" languages="English;official;Scots">Surat Thani Province</name>
+		<name normalized="Surat Thani provints" languages="Estonian">Surat Thani provints</name>
+		<name normalized="Surathanis" languages="Lithuanian">Surathanis</name>
+		<name normalized="Szuratthani" languages="Hungarian">Szuratthani</name>
+		<name normalized="Viлoiti Сuрat Taнi" languages="Tajik">Вилояти Сурат Тани</name>
+		<name normalized="Сuрat Taнi" languages="Bulgarian">Сурат Тани</name>
+		<name normalized="Сuрattaнi" languages="Russian">Сураттани</name>
+		<name normalized="Сuрattkaнi" languages="Russian">Сураттхани</name>
+		<name normalized="סvrאt thאnי" languages="Hebrew">סוראט טהאני</name>
+		<name normalized="سوrאt tאنی" languages="Persian">سورات تانی</name>
+		<name normalized="سوrt tھאنی" languages="Western Punjabi">سورت تھانی</name>
+		<name normalized="sوbہ سوrt tھאنی" languages="Western Punjabi">صوبہ سورت تھانی</name>
+		<name normalized="mhאfzة سوrאt ثאنy" languages="Arabic">محافظة سورات ثاني</name>
+		<name normalized="cাংৱাt surাt tাni" languages="Bishnupria Manipuri">চাংৱাত সুরাত থানি</name>
+		<name normalized="จังหวัดสุราษฎร์ธานี" languages="Thai">จังหวัดสุราษฎร์ธานี</name>
+		<name normalized="เทศบาลนครสุราษฎร์ธานี" languages="Thai">เทศบาลนครสุราษฎร์ธานี</name>
+		<name normalized="སུ་ར་ཊི་ཐ་ནི་ཞིང་ཆེན།" languages="Tibetan">སུ་ར་ཊི་ཐ་ནི་ཞིང་ཆེན།</name>
+		<name normalized="སུ་ར་ཊི་ཐ་ནི།" languages="Tibetan">སུ་ར་ཊི་ཐ་ནི།</name>
+		<name normalized="srーttーnー県" languages="Japanese">スラートターニー県</name>
+		<name normalized="素叻他尼" languages="Chinese">素叻他尼</name>
+		<name normalized="素叻府" languages="Chinese;Classical Chinese">素叻府</name>
+		<name normalized="수랏타니" languages="Korean">수랏타니</name>
+		<name normalized="수랏타니 주" languages="Korean">수랏타니 주</name>
+	</region>
+	<region name="Surin" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Surin" languages="Dutch">Changwat Surin</name>
+		<name normalized="Faritanin'i Surin" languages="Malagasy">Faritanin'i Surin</name>
+		<name normalized="Propinsi Surin" languages="Achinese">Propinsi Surin</name>
+		<name normalized="Province de Surin" languages="French">Province de Surin</name>
+		<name normalized="Provincia de Surin" languages="Galician;Spanish">Provincia de Surin</name>
+		<name normalized="Provincia di Surin" languages="Italian">Provincia di Surin</name>
+		<name normalized="Provinsi Surin" languages="Indonesian">Provinsi Surin</name>
+		<name normalized="Prowincja Surin" languages="Polish">Prowincja Surin</name>
+		<name normalized="Surin" languages="Catalan;Dutch;English;French;German;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Surin</name>
+		<name normalized="Surin Changwat" languages="English;official">Surin Changwat</name>
+		<name normalized="Surin Hu" languages="Chinese (Min Nan)">Surin Hú</name>
+		<name normalized="Surin Province" languages="English;official">Surin Province</name>
+		<name normalized="Surinas" languages="Lithuanian">Surinas</name>
+		<name normalized="Szurin" languages="Hungarian">Szurin</name>
+		<name normalized="Viлoiti Сuрiн" languages="Tajik">Вилояти Сурин</name>
+		<name normalized="Сuрiн" languages="Bulgarian">Сурин</name>
+		<name normalized="אسtאن سوrین" languages="Persian">استان سورین</name>
+		<name normalized="sوbہ سوrن" languages="Western Punjabi">صوبہ سورن</name>
+		<name normalized="mhאfzة سوryن" languages="Arabic">محافظة سورين</name>
+		<name normalized="cাংৱাt surin" languages="Bishnupria Manipuri">চাংৱাত সুরিন</name>
+		<name normalized="จังหวัดสุรินทร์" languages="Thai">จังหวัดสุรินทร์</name>
+		<name normalized="เทศบาลเมืองสุรินทร์" languages="Thai">เทศบาลเมืองสุรินทร์</name>
+		<name normalized="srn県" languages="Japanese">スリン県</name>
+		<name normalized="素輦府" languages="Chinese">素輦府</name>
+		<name normalized="수린" languages="Korean">수린</name>
+		<name normalized="수린 주" languages="Korean">수린 주</name>
+	</region>
+	<region name="Tak" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Tak" languages="Dutch">Changwat Tak</name>
+		<name normalized="Faritanin'i Tak" languages="Malagasy">Faritanin'i Tak</name>
+		<name normalized="Lalawigan ng Tak" languages="Tagalog">Lalawigan ng Tak</name>
+		<name normalized="Propinsi Tak" languages="Achinese">Propinsi Tak</name>
+		<name normalized="Province de Tak" languages="French">Province de Tak</name>
+		<name normalized="Provincia de Tak" languages="Galician;Spanish">Provincia de Tak</name>
+		<name normalized="Provincia di Tak" languages="Italian">Provincia di Tak</name>
+		<name normalized="Provinsi Tak" languages="Indonesian">Provinsi Tak</name>
+		<name normalized="Prowincja Tak" languages="Polish">Prowincja Tak</name>
+		<name normalized="Tak" languages="Czech;Dutch;English;Esperanto;French;German;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Serbian;Spanish;Swedish;Turkish;Vietnamese;Waray">Tak</name>
+		<name normalized="Tak Changwat" languages="English;official">Tak Changwat</name>
+		<name normalized="Tak Hu" languages="Chinese (Min Nan)">Tak Hú</name>
+		<name normalized="Tak Province" languages="English;official;Scots">Tak Province</name>
+		<name normalized="Viлoiti Tak" languages="Tajik">Вилояти Так</name>
+		<name normalized="Tak" languages="Bulgarian;Russian">Так</name>
+		<name normalized="אسtאن tאک" languages="Persian">استان تاک</name>
+		<name normalized="sوbہ ٹאک" languages="Western Punjabi">صوبہ ٹاک</name>
+		<name normalized="mhאfzة tאk" languages="Arabic">محافظة تاك</name>
+		<name normalized="ٹאک" languages="Western Punjabi">ٹاک</name>
+		<name normalized="cাংৱাt tাk" languages="Bishnupria Manipuri">চাংৱাত তাক</name>
+		<name normalized="จังหวัดตาก" languages="Thai">จังหวัดตาก</name>
+		<name normalized="ตาก" languages="Thai">ตาก</name>
+		<name normalized="tーk県" languages="Japanese">ターク県</name>
+		<name normalized="來興府" languages="Chinese">來興府</name>
+		<name normalized="딱 주" languages="Korean">딱 주</name>
+		<name normalized="탁" languages="Korean">탁</name>
+	</region>
+	<region name="Trang" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Trang" languages="Dutch">Changwat Trang</name>
+		<name normalized="Faritanin'i Trang" languages="Malagasy">Faritanin'i Trang</name>
+		<name normalized="Propinsi Trang" languages="Achinese">Propinsi Trang</name>
+		<name normalized="Province de Trang" languages="French">Province de Trang</name>
+		<name normalized="Provincia de Trang" languages="Galician;Spanish">Provincia de Trang</name>
+		<name normalized="Provincia di Trang" languages="Italian">Provincia di Trang</name>
+		<name normalized="Provinsi Trang" languages="Indonesian">Provinsi Trang</name>
+		<name normalized="Prowincja Trang" languages="Polish">Prowincja Trang</name>
+		<name normalized="Trang" languages="Dutch;English;Finnish;French;German;Malay;Norwegian (bokmal);official;Polish;Portuguese;Simple English;Slovenian;Swedish;Vietnamese;Waray">Trang</name>
+		<name normalized="Trang Changwat" languages="English;official">Trang Changwat</name>
+		<name normalized="Trang Hu" languages="Chinese (Min Nan)">Trang Hú</name>
+		<name normalized="Trang Province" languages="English;official;Scots">Trang Province</name>
+		<name normalized="Trangas" languages="Lithuanian">Trangas</name>
+		<name normalized="Viлoiti Tрaнg" languages="Tajik">Вилояти Транг</name>
+		<name normalized="Tрaнg" languages="Bulgarian;Russian">Транг</name>
+		<name normalized="trאنg" languages="Persian">ترانگ</name>
+		<name normalized="sوbہ ٹrنg" languages="Western Punjabi">صوبہ ٹرنگ</name>
+		<name normalized="mhאfzة trאنغ" languages="Arabic">محافظة ترانغ</name>
+		<name normalized="ٹrنg" languages="Western Punjabi">ٹرنگ</name>
+		<name normalized="cাংৱাt trাং" languages="Bishnupria Manipuri">চাংৱাত তরাং</name>
+		<name normalized="จังหวัดตรัง" languages="Thai">จังหวัดตรัง</name>
+		<name normalized="เทศบาลนครตรัง" languages="Thai">เทศบาลนครตรัง</name>
+		<name normalized="trn県" languages="Japanese">トラン県</name>
+		<name normalized="董里府" languages="Chinese">董里府</name>
+		<name normalized="뜨랑" languages="Korean">뜨랑</name>
+		<name normalized="뜨랑 주" languages="Korean">뜨랑 주</name>
+	</region>
+	<region name="Trat" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Trat" languages="Dutch">Changwat Trat</name>
+		<name normalized="Faritanin'i Trat" languages="Malagasy">Faritanin'i Trat</name>
+		<name normalized="Propinsi Trat" languages="Achinese">Propinsi Trat</name>
+		<name normalized="Province de Trat" languages="French">Province de Trat</name>
+		<name normalized="Provincia de Trat" languages="Galician;Spanish">Provincia de Trat</name>
+		<name normalized="Provincia di Trat" languages="Italian">Provincia di Trat</name>
+		<name normalized="Provinsi Trat" languages="Indonesian">Provinsi Trat</name>
+		<name normalized="Prowincja Trat" languages="Polish">Prowincja Trat</name>
+		<name normalized="Trat" languages="Dutch;English;Finnish;French;German;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Swedish;Vietnamese;Waray">Trat</name>
+		<name normalized="Trat Changwat" languages="English;official">Trat Changwat</name>
+		<name normalized="Trat Hu" languages="Chinese (Min Nan)">Trat Hú</name>
+		<name normalized="Trat Province" languages="English;official">Trat Province</name>
+		<name normalized="Viлoiti Tрat" languages="Tajik">Вилояти Трат</name>
+		<name normalized="Tрat" languages="Bulgarian;Russian;Ukrainian">Трат</name>
+		<name normalized="אسtאن trאt" languages="Persian">استان ترات</name>
+		<name normalized="sوbہ ٹrאٹ" languages="Western Punjabi">صوبہ ٹراٹ</name>
+		<name normalized="mhאfzة trאt" languages="Arabic">محافظة ترات</name>
+		<name normalized="ٹrאٹ" languages="Western Punjabi">ٹراٹ</name>
+		<name normalized="cাংৱাt trাt" languages="Bishnupria Manipuri">চাংৱাত তরাত</name>
+		<name normalized="จังหวัดตราด" languages="Thai">จังหวัดตราด</name>
+		<name normalized="เทศบาลเมืองตราด" languages="Thai">เทศบาลเมืองตราด</name>
+		<name normalized="ຈັງຫວັດຕາດ" languages="Lao">ຈັງຫວັດຕາດ</name>
+		<name normalized="trーt県" languages="Japanese">トラート県</name>
+		<name normalized="桐艾府" languages="Chinese;Classical Chinese">桐艾府</name>
+		<name normalized="뜨랏" languages="Korean">뜨랏</name>
+		<name normalized="뜨랏 주" languages="Korean">뜨랏 주</name>
+	</region>
+	<region name="Ubon Ratchathani" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Ubon Ratchathani" languages="Dutch">Changwat Ubon Ratchathani</name>
+		<name normalized="Faritanin'i Ubon Ratchathani" languages="Malagasy">Faritanin'i Ubon Ratchathani</name>
+		<name normalized="Propinsi Ubon Ratchathani" languages="Achinese">Propinsi Ubon Ratchathani</name>
+		<name normalized="Province d'Ubon Ratchathani" languages="French">Province d'Ubon Ratchathani</name>
+		<name normalized="Provincia de Ubon Ratchathani" languages="Galician;Spanish">Provincia de Ubon Ratchathani</name>
+		<name normalized="Provincia di Ubon Ratchathani" languages="Italian">Provincia di Ubon Ratchathani</name>
+		<name normalized="Prowincja Ubon Ratchathani" languages="Polish">Prowincja Ubon Ratchathani</name>
+		<name normalized="Ubon Ratchathani" languages="Catalan;Danish;Dutch;English;Finnish;French;German;Malay;Norwegian (bokmal);official;Polish;Portuguese;Swedish;Vietnamese;Waray">Ubon Ratchathani</name>
+		<name normalized="Ubon Ratchathani Changwat" languages="English;official">Ubon Ratchathani Changwat</name>
+		<name normalized="Ubon Ratchathani Hu" languages="Chinese (Min Nan)">Ubon Ratchathani Hú</name>
+		<name normalized="Ubon Ratchathani Province" languages="English;official">Ubon Ratchathani Province</name>
+		<name normalized="Ubonratcathanis" languages="Lithuanian">Ubonratčathanis</name>
+		<name normalized="Viлoiti Uboн Рatcataнi" languages="Tajik">Вилояти Убон Ратчатани</name>
+		<name normalized="Uboн Рatcataнi" languages="Bulgarian">Убон Ратчатани</name>
+		<name normalized="Uboнрacatkaнi aймag" languages="Mongolian">Убонрачатхани аймаг</name>
+		<name normalized="אوbون rאtچאtאنی" languages="Persian">اوبون راتچاتانی</name>
+		<name normalized="אوbون rאٹچאtھאنی" languages="Western Punjabi">اوبون راٹچاتھانی</name>
+		<name normalized="sوbہ אوbون rאٹچאtھאنی" languages="Western Punjabi">صوبہ اوبون راٹچاتھانی</name>
+		<name normalized="mhאfzة أوbون rאtشאثאنy" languages="Arabic">محافظة أوبون راتشاثاني</name>
+		<name normalized="cাংৱাt ubon rাtcাtাni" languages="Bishnupria Manipuri">চাংৱাত উবোন রাতচাথানি</name>
+		<name normalized="จังหวัดอุบลราชธานี" languages="Thai">จังหวัดอุบลราชธานี</name>
+		<name normalized="เทศบาลนครอุบลราชธานี" languages="Thai">เทศบาลนครอุบลราชธานี</name>
+		<name normalized="ཨུ་བཱོན་ར་ཊི་ཅ་ཐ་ནི་ཞིང་ཆེན།" languages="Tibetan">ཨུ་བཱོན་ར་ཊི་ཅ་ཐ་ནི་ཞིང་ཆེན།</name>
+		<name normalized="ཨུ་བཱོན་ར་ཊི་ཅ་ཐ་ནི།" languages="Tibetan">ཨུ་བཱོན་ར་ཊི་ཅ་ཐ་ནི།</name>
+		<name normalized="ubnrーtytーnー県" languages="Japanese">ウボンラーチャターニー県</name>
+		<name normalized="tーsbーnnkーn・ubnrーtytーnー" languages="Japanese">テーサバーンナコーン・ウボンラーチャターニー</name>
+		<name normalized="乌汶叻差他尼" languages="Chinese">乌汶叻差他尼</name>
+		<name normalized="烏汶府" languages="Chinese">烏汶府</name>
+		<name normalized="우본랏차타니" languages="Korean">우본랏차타니</name>
+		<name normalized="우본랏차타니 주" languages="Korean">우본랏차타니 주</name>
+	</region>
+	<region name="Udon Thani" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Udon Thani" languages="Dutch">Changwat Udon Thani</name>
+		<name normalized="Faritanin'i Udon Thani" languages="Malagasy">Faritanin'i Udon Thani</name>
+		<name normalized="Propinsi Udon Thani" languages="Achinese">Propinsi Udon Thani</name>
+		<name normalized="Province d'Udon Thani" languages="French">Province d'Udon Thani</name>
+		<name normalized="Provincia de Udon Thani" languages="Galician;Spanish">Provincia de Udon Thani</name>
+		<name normalized="Provincia di Udon Thani" languages="Italian">Provincia di Udon Thani</name>
+		<name normalized="Prowincja Udon Thani" languages="Polish">Prowincja Udon Thani</name>
+		<name normalized="Udon Thani" languages="Afrikaans;Catalan;Danish;Dutch;English;French;German;Indonesian;Italian;Kalaallisut;Malay;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish;Vietnamese;Waray">Udon Thani</name>
+		<name normalized="Udon Thani Changwat" languages="English;official">Udon Thani Changwat</name>
+		<name normalized="Udon Thani Hu" languages="Chinese (Min Nan)">Udon Thani Hú</name>
+		<name normalized="Udon Thani Province" languages="English;official">Udon Thani Province</name>
+		<name normalized="Udontanis" languages="Lithuanian">Udontanis</name>
+		<name normalized="Viлoiti Udoн Taнi" languages="Tajik">Вилояти Удон Тани</name>
+		<name normalized="Udoн Taнi" languages="Bulgarian;Serbian">Удон Тани</name>
+		<name normalized="Udoнtkaнi" languages="Russian">Удонтхани</name>
+		<name normalized="אودون tאنی" languages="Persian">اودون تانی</name>
+		<name normalized="אودون tھאنی" languages="Western Punjabi">اودون تھانی</name>
+		<name normalized="sوbہ אوbون tھאنی" languages="Western Punjabi">صوبہ اوبون تھانی</name>
+		<name normalized="mhאfzة ودون tאنy" languages="Arabic">محافظة ودون تاني</name>
+		<name normalized="cাংৱাt udon tাni" languages="Bishnupria Manipuri">চাংৱাত উদোন থানি</name>
+		<name normalized="จังหวัดอุดรธานี" languages="Thai">จังหวัดอุดรธานี</name>
+		<name normalized="เทศบาลนครอุดรธานี" languages="Thai">เทศบาลนครอุดรธานี</name>
+		<name normalized="ཨུ་ཌོན་ཐ་ནི་ཞིང་ཆེན།" languages="Tibetan">ཨུ་ཌོན་ཐ་ནི་ཞིང་ཆེན།</name>
+		<name normalized="ཨུ་ཌོན་ཐ་ནི།" languages="Tibetan">ཨུ་ཌོན་ཐ་ནི།</name>
+		<name normalized="udーntーnー県" languages="Japanese">ウドーンターニー県</name>
+		<name normalized="乌隆他尼" languages="Chinese">乌隆他尼</name>
+		<name normalized="烏隆府" languages="Chinese">烏隆府</name>
+		<name normalized="우돈타니" languages="Korean">우돈타니</name>
+		<name normalized="우돈타니 주" languages="Korean">우돈타니 주</name>
+	</region>
+	<region name="Uthai Thani" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Uthai Thani" languages="Dutch">Changwat Uthai Thani</name>
+		<name normalized="Faritanin'i Uthai Thani" languages="Malagasy">Faritanin'i Uthai Thani</name>
+		<name normalized="Lalawigan ng Uthai Thani" languages="Tagalog">Lalawigan ng Uthai Thani</name>
+		<name normalized="Propinsi Uthai Thani" languages="Achinese">Propinsi Uthai Thani</name>
+		<name normalized="Province d'Uthai Thani" languages="French">Province d'Uthai Thani</name>
+		<name normalized="Provincia de Uthai Thani" languages="Galician;Spanish">Provincia de Uthai Thani</name>
+		<name normalized="Provincia di Uthai Thani" languages="Italian">Provincia di Uthai Thani</name>
+		<name normalized="Provinsi Uthai Thani" languages="Indonesian">Provinsi Uthai Thani</name>
+		<name normalized="Prowincja Uthai Thani" languages="Polish">Prowincja Uthai Thani</name>
+		<name normalized="Uthai Thani" languages="Dutch;English;French;German;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Uthai Thani</name>
+		<name normalized="Uthai Thani Changwat" languages="English;official">Uthai Thani Changwat</name>
+		<name normalized="Uthai Thani Hu" languages="Chinese (Min Nan)">Uthai Thani Hú</name>
+		<name normalized="Uthai Thani Province" languages="English;official;Scots">Uthai Thani Province</name>
+		<name normalized="Wilayah Uthai Thani" languages="Malay">Wilayah Uthai Thani</name>
+		<name normalized="Viлoiti Utai Taнi" languages="Tajik">Вилояти Утаи Тани</name>
+		<name normalized="Utaй Taнi" languages="Bulgarian">Утай Тани</name>
+		<name normalized="Utkaйtkaнi" languages="Russian">Утхайтхани</name>
+		<name normalized="אوtھאئی tھאنی" languages="Western Punjabi">اوتھائی تھانی</name>
+		<name normalized="sوbہ אوtھאئی tھאنی" languages="Western Punjabi">صوبہ اوتھائی تھانی</name>
+		<name normalized="mhאfzة yوثאy ثאنy" languages="Arabic">محافظة يوثاي ثاني</name>
+		<name normalized="یوtאی tאنی" languages="Persian">یوتای تانی</name>
+		<name normalized="cাংৱাt uti tাni" languages="Bishnupria Manipuri">চাংৱাত উথি থানি</name>
+		<name normalized="จังหวัดอุทัยธานี" languages="Thai">จังหวัดอุทัยธานี</name>
+		<name normalized="เทศบาลเมืองอุทัยธานี" languages="Thai">เทศบาลเมืองอุทัยธานี</name>
+		<name normalized="utitーnー県" languages="Japanese">ウタイターニー県</name>
+		<name normalized="乌泰他尼府" languages="Wu">乌泰他尼府</name>
+		<name normalized="烏泰他尼" languages="Chinese">烏泰他尼</name>
+		<name normalized="烏泰他尼府" languages="Chinese">烏泰他尼府</name>
+		<name normalized="우타이타니" languages="Korean">우타이타니</name>
+		<name normalized="우타이타니 주" languages="Korean">우타이타니 주</name>
+	</region>
+	<region name="Uttaradit" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Uttaradit" languages="Dutch">Changwat Uttaradit</name>
+		<name normalized="Faritanin'i Uttaradit" languages="Malagasy">Faritanin'i Uttaradit</name>
+		<name normalized="Lalawigan ng Uttaradit" languages="Tagalog">Lalawigan ng Uttaradit</name>
+		<name normalized="Propinsi Uttaradit" languages="Achinese">Propinsi Uttaradit</name>
+		<name normalized="Province d'Uttaradit" languages="French">Province d'Uttaradit</name>
+		<name normalized="Provincia de Uttaradit" languages="Galician;Spanish">Provincia de Uttaradit</name>
+		<name normalized="Provincia di Uttaradit" languages="Italian">Provincia di Uttaradit</name>
+		<name normalized="Provinsi Uttaradit" languages="Indonesian">Provinsi Uttaradit</name>
+		<name normalized="Prowincja Uttaradit" languages="Polish">Prowincja Uttaradit</name>
+		<name normalized="Uttaradit" languages="Dutch;English;French;German;Italian;Malay;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Uttaradit</name>
+		<name normalized="Uttaradit Changwat" languages="English;official">Uttaradit Changwat</name>
+		<name normalized="Uttaradit Hu" languages="Chinese (Min Nan)">Uttaradit Hú</name>
+		<name normalized="Uttaradit Province" languages="English;official;Scots">Uttaradit Province</name>
+		<name normalized="Viлoiti Uttaрadit" languages="Tajik">Вилояти Уттарадит</name>
+		<name normalized="Uttaрadit" languages="Bulgarian;Russian">Уттарадит</name>
+		<name normalized="אوtאrאدیt" languages="Persian">اوتارادیت</name>
+		<name normalized="אٹאrאڈٹ" languages="Western Punjabi">اٹاراڈٹ</name>
+		<name normalized="sوbہ אٹאrאڈٹ" languages="Western Punjabi">صوبہ اٹاراڈٹ</name>
+		<name normalized="mhאfzة أوtאrאدyt" languages="Arabic">محافظة أوتاراديت</name>
+		<name normalized="cাংৱাt ut্trাdit" languages="Bishnupria Manipuri">চাংৱাত উত্তরাদিত</name>
+		<name normalized="จังหวัดอุตรดิตถ์" languages="Thai">จังหวัดอุตรดิตถ์</name>
+		<name normalized="เทศบาลเมืองอุตรดิตถ์" languages="Thai">เทศบาลเมืองอุตรดิตถ์</name>
+		<name normalized="uttrditt県" languages="Japanese">ウッタラディット県</name>
+		<name normalized="程逸" languages="Chinese">程逸</name>
+		<name normalized="程逸府" languages="Chinese">程逸府</name>
+		<name normalized="우따라딧" languages="Korean">우따라딧</name>
+		<name normalized="우따라딧 주" languages="Korean">우따라딧 주</name>
+	</region>
+	<region name="Yala" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Yala" languages="Dutch">Changwat Yala</name>
+		<name normalized="Faritanin'i Yala" languages="Malagasy">Faritanin'i Yala</name>
+		<name normalized="Jala" languages="Lithuanian">Jala</name>
+		<name normalized="Propinsi Yala" languages="Achinese">Propinsi Yala</name>
+		<name normalized="Province de Yala" languages="French">Province de Yala</name>
+		<name normalized="Provincia de Yala" languages="Galician;Spanish">Provincia de Yala</name>
+		<name normalized="Provincia di Yala" languages="Italian">Provincia di Yala</name>
+		<name normalized="Provinsi Yala" languages="Indonesian">Provinsi Yala</name>
+		<name normalized="Prowincja Yala" languages="Polish">Prowincja Yala</name>
+		<name normalized="Wilayah Yala" languages="Malay">Wilayah Yala</name>
+		<name normalized="Yala" languages="Dutch;English;Finnish;French;German;Norwegian (bokmal);official;Polish;Portuguese;Swedish;Vietnamese;Waray">Yala</name>
+		<name normalized="Yala Changwat" languages="English;official">Yala Changwat</name>
+		<name normalized="Yala Hu" languages="Chinese (Min Nan)">Yala Hú</name>
+		<name normalized="Yala Province" languages="English;official;Scots">Yala Province</name>
+		<name normalized="Yala provints" languages="Estonian">Yala provints</name>
+		<name normalized="Yala,Thailand" languages="English">Yala,Thailand</name>
+		<name normalized="Viлoiti Ялa" languages="Tajik">Вилояти Яла</name>
+		<name normalized="Ялa" languages="Bulgarian;Russian">Яла</name>
+		<name normalized="sوbہ یאلא" languages="Western Punjabi">صوبہ یالا</name>
+		<name normalized="mhאfzة yאلא" languages="Arabic">محافظة يالا</name>
+		<name normalized="یאلא" languages="Persian">یالا</name>
+		<name normalized="cাংৱাt y়াlা" languages="Bishnupria Manipuri">চাংৱাত য়ালা</name>
+		<name normalized="จังหวัดยะลา" languages="Thai">จังหวัดยะลา</name>
+		<name normalized="เทศบาลนครยะลา" languages="Thai">เทศบาลนครยะลา</name>
+		<name normalized="yrー県" languages="Japanese">ヤラー県</name>
+		<name normalized="惹拉府" languages="Chinese">惹拉府</name>
+		<name normalized="얄라" languages="Korean">얄라</name>
+		<name normalized="얄라 주" languages="Korean">얄라 주</name>
+	</region>
+	<region name="Yasothon" type="province" typeTranslated="changwat">
+		<name normalized="Changwat Yasothon" languages="Dutch">Changwat Yasothon</name>
+		<name normalized="Faritanin'i Yasothon" languages="Malagasy">Faritanin'i Yasothon</name>
+		<name normalized="Propinsi Yasothon" languages="Achinese">Propinsi Yasothon</name>
+		<name normalized="Province de Yasothon" languages="French">Province de Yasothon</name>
+		<name normalized="Provincia de Yasothon" languages="Galician;Spanish">Provincia de Yasothon</name>
+		<name normalized="Provincia di Yasothon" languages="Italian">Provincia di Yasothon</name>
+		<name normalized="Prowincja Yasothon" languages="Polish">Prowincja Yasothon</name>
+		<name normalized="Yasothon" languages="Dutch;English;French;German;Malay;Norwegian (bokmal);official;Portuguese;Simple English;Spanish;Swedish;Vietnamese;Waray">Yasothon</name>
+		<name normalized="Yasothon Changwat" languages="English;official">Yasothon Changwat</name>
+		<name normalized="Yasothon Hu" languages="Chinese (Min Nan)">Yasothon Hú</name>
+		<name normalized="Yasothon Province" languages="English;official">Yasothon Province</name>
+		<name normalized="Viлoiti Ясotoн" languages="Tajik">Вилояти Ясотон</name>
+		<name normalized="Ясotoн" languages="Bulgarian">Ясотон</name>
+		<name normalized="Ясotkoн" languages="Russian">Ясотхон</name>
+		<name normalized="sوbہ یאسوtھون" languages="Western Punjabi">صوبہ یاسوتھون</name>
+		<name normalized="mhאfzة yאسوثون" languages="Arabic">محافظة ياسوثون</name>
+		<name normalized="یאسوtون" languages="Persian">یاسوتون</name>
+		<name normalized="یאسوtھون" languages="Western Punjabi">یاسوتھون</name>
+		<name normalized="cাংৱাt y়াsoton" languages="Bishnupria Manipuri">চাংৱাত য়াসোথোন</name>
+		<name normalized="จังหวัดยโสธร" languages="Thai">จังหวัดยโสธร</name>
+		<name normalized="เทศบาลเมืองยโสธร" languages="Thai">เทศบาลเมืองยโสธร</name>
+		<name normalized="ysーtーn県" languages="Japanese">ヤソートーン県</name>
+		<name normalized="益梭通府" languages="Chinese">益梭通府</name>
+		<name normalized="야소톤" languages="Korean">야소톤</name>
+		<name normalized="야소톤 주" languages="Korean">야소톤 주</name>
+	</region>
+</regions>

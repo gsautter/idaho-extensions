@@ -1,0 +1,179 @@
+<regions country="Rwanda">
+	<region name="Est" type="province" typeTranslated="- intara for">
+		<name normalized="Dogu Eyaleti" languages="Turkish">Doğu Eyaleti</name>
+		<name normalized="Eastern" languages="Dutch;English;German;official;Polish;Portuguese;Swedish">Eastern</name>
+		<name normalized="Eastern - Intara For" languages="English;official">Eastern - Intara For</name>
+		<name normalized="Eastern Province" languages="English;official">Eastern Province</name>
+		<name normalized="Est" languages="Catalan;Chinese;Dutch;English;Esperanto;Estonian;French;German;Hungarian;Indonesian;Italian;Japanese;Korean;Latvian;Lithuanian;Norwegian (bokmal);official;Persian;Polish;Russian;Slovenian;Spanish;Swedish;Turkish">Est</name>
+		<name normalized="Idaprovints" languages="Estonian">Idaprovints</name>
+		<name normalized="Intara y'Iburasirazuba" languages="Slovak">Intara y’Iburasirazuba</name>
+		<name normalized="Ostprovinz" languages="German">Ostprovinz</name>
+		<name normalized="Phuong Dong" languages="Vietnamese">Phương Đông</name>
+		<name normalized="Province de l'Est" languages="English;French;official">Province de l'Est</name>
+		<name normalized="Province Est" languages="English;official">Province Est</name>
+		<name normalized="Provincia de Est" languages="Romanian">Provincia de Est</name>
+		<name normalized="Provincia del Este" languages="Spanish">Provincia del Este</name>
+		<name normalized="Provincia Orientale" languages="Italian">Provincia Orientale</name>
+		<name normalized="Provinsi Timur" languages="Indonesian">Provinsi Timur</name>
+		<name normalized="Provincia Oriental" languages="Portuguese">Província Oriental</name>
+		<name normalized="Prowincja Wschodnia" languages="Polish">Prowincja Wschodnia</name>
+		<name normalized="Rytu provincija" languages="Lithuanian">Rytų provincija</name>
+		<name normalized="Vychodni provincie" languages="Czech">Východní provincie</name>
+		<name normalized="Ανατολικη Ρουαντα" languages="Greek">Ανατολική Ρουάντα</name>
+		<name normalized="Voсtocнai pрoviнtii" languages="Russian">Восточная провинция</name>
+		<name normalized="Iztocнa pрoviнtii" languages="Bulgarian">Източна провинция</name>
+		<name normalized="Iрviл pрoviнti" languages="Hill Mari">Ирвел провинци</name>
+		<name normalized="iーstn" languages="Japanese">イースタン</name>
+		<name normalized="东部省" languages="Chinese">东部省</name>
+		<name normalized="東部州" languages="Japanese">東部州</name>
+		<name normalized="동부 주" languages="Korean">동부 주</name>
+	</region>
+	<region name="Kigali" type="city" typeTranslated="city">
+		<name normalized="Kigali" languages="Afrikaans;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;Galician;German;Haitian;Hungarian;Ido;Iloko;Indonesian;Interlingue;Irish;Italian;Javanese;Kinyarwanda;Latin;Latvian;Ligure;Low German;lumbaart;Luxembourgish;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Piedmontese;Polish;Portuguese;Quechua;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Slovak;Somali;Spanish;Swahili;Swedish;Tagalog;Turkish;Upper Sorbian;Vietnamese;veneto;Waray;Welsh;Wolof;Yoruba;Zazaki">Kigali</name>
+		<name normalized="Kigalis" languages="Lithuanian">Kigalis</name>
+		<name normalized="Kigalo" languages="Esperanto">Kigalo</name>
+		<name normalized="Kigaly" languages="Western Frisian">Kigaly</name>
+		<name normalized="Kiqali" languages="Azerbaijani">Kiqali</name>
+		<name normalized="Kigali" languages="Icelandic">Kígalí</name>
+		<name normalized="Κιγκαλι" languages="Greek">Κιγκάλι</name>
+		<name normalized="Goрad Kigaлi" languages="Belarusian">Горад Кігалі</name>
+		<name normalized="Kigaлi" languages="Bulgarian;Chechen;Chuvash;Hill Mari;Komi-Permyak;Kyrgyz;Macedonian;Ossetic;Russian;Serbian;Tajik;Udmurt">Кигали</name>
+		<name normalized="Kigaлi" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Кігалі</name>
+		<name normalized="Kիգաlի" languages="Armenian">Կիգալի</name>
+		<name normalized="qיגאדי" languages="Hebrew;Yiddish">קיגאלי</name>
+		<name normalized="kyغאلy" languages="Arabic">كيغالي</name>
+		<name normalized="کیgאلی" languages="Persian;Sorani Kurdish;Urdu;Western Punjabi">کیگالی</name>
+		<name normalized="kigाli" languages="Marathi">किगाली</name>
+		<name normalized="kigਾli" languages="Punjabi">ਕਿਗਾਲੀ</name>
+		<name normalized="கிகாலி" languages="Tamil">கிகாலி</name>
+		<name normalized="කිගාලි" languages="Sinhala">කිගාලි</name>
+		<name normalized="คิกาลี" languages="Thai">คิกาลี</name>
+		<name normalized="ཀི་ག་ལི།" languages="Tibetan">ཀི་ག་ལི།</name>
+		<name normalized="კიგალი" languages="Georgian">კიგალი</name>
+		<name normalized="ኪጋሊ" languages="Amharic">ኪጋሊ</name>
+		<name normalized="kgr" languages="Japanese">キガリ</name>
+		<name normalized="吉佳利" languages="Chinese">吉佳利</name>
+		<name normalized="基加利" languages="Cantonese">基加利</name>
+		<name normalized="키갈리" languages="Korean">키갈리</name>
+	</region>
+	<region name="Nord" type="province" typeTranslated="- intara for">
+		<name normalized="Intara y'Amajyaruguru" languages="Slovak">Intara y’Amajyaruguru</name>
+		<name normalized="Intara y'Amajyaruguru y'u Rwanda" languages="Kinyarwanda">Intara y’Amajyaruguru y’u Rwanda</name>
+		<name normalized="Kuzey Eyaleti" languages="Turkish">Kuzey Eyaleti</name>
+		<name normalized="Nord" languages="Breton;Dutch;English;Estonian;Finnish;French;German;Italian;lumbaart;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Slovak;Swedish;Vietnamese">Nord</name>
+		<name normalized="Nordo" languages="Ido">Nordo</name>
+		<name normalized="Nordprovinsen" languages="Swedish">Nordprovinsen</name>
+		<name normalized="Nordprovinz" languages="German">Nordprovinz</name>
+		<name normalized="North Province" languages="English">North Province</name>
+		<name normalized="Northern" languages="Breton;Dutch;English;French;German;official;Polish;Portuguese;Swedish">Northern</name>
+		<name normalized="Northern - Intara For" languages="English;official">Northern - Intara For</name>
+		<name normalized="Northern Province" languages="English;official;Slovak">Northern Province</name>
+		<name normalized="Nord" languages="Occitan">Nòrd</name>
+		<name normalized="Province du Nord" languages="English;French;official">Province du Nord</name>
+		<name normalized="Province Nord" languages="Dutch;English;French;Indonesian;official">Province Nord</name>
+		<name normalized="Provincia de Nord" languages="Romanian">Provincia de Nord</name>
+		<name normalized="Provincia del Norte" languages="Spanish">Provincia del Norte</name>
+		<name normalized="Provincia Nord" languages="Italian">Provincia Nord</name>
+		<name normalized="Provincia Norte" languages="Spanish">Provincia Norte</name>
+		<name normalized="Provincia Settentrionale" languages="Italian">Provincia Settentrionale</name>
+		<name normalized="Provinsi Utara" languages="Indonesian">Provinsi Utara</name>
+		<name normalized="Provins Norzh" languages="Breton">Proviñs Norzh</name>
+		<name normalized="Provincia del Nord" languages="Catalan">Província del Nord</name>
+		<name normalized="Provincia do Norte" languages="Portuguese">Província do Norte</name>
+		<name normalized="Provincia Setentrional" languages="Portuguese">Província Setentrional</name>
+		<name normalized="Prowincja Polnocna" languages="Polish">Prowincja Północna</name>
+		<name normalized="Pohjaprovints" languages="Estonian">Põhjaprovints</name>
+		<name normalized="Severni provincie" languages="Czech">Severní provincie</name>
+		<name normalized="Tinh Bac" languages="Vietnamese">Tỉnh Bắc</name>
+		<name normalized="Siaures provincija" languages="Lithuanian">Šiaurės provincija</name>
+		<name normalized="Βορεια Ρουαντα" languages="Greek">Βόρεια Ρουάντα</name>
+		<name normalized="Viлoiti Siмoлi" languages="Tajik">Вилояти Шимолӣ</name>
+		<name normalized="Йыdviл pрoviнti" languages="Hill Mari">Йыдвел провинци</name>
+		<name normalized="Нoрd" languages="Russian;Ukrainian">Норд</name>
+		<name normalized="Сiviрнa pрoviнtii" languages="Bulgarian">Северна провинция</name>
+		<name normalized="Сiviрнai pрoviнtii" languages="Russian">Северная провинция</name>
+		<name normalized="אسtאن شmאلی" languages="Persian">استان شمالی</name>
+		<name normalized="นอร์ด" languages="Thai">นอร์ด</name>
+		<name normalized="nーr" languages="Japanese">ノール</name>
+		<name normalized="北部州" languages="Japanese">北部州</name>
+		<name normalized="北部省" languages="Chinese">北部省</name>
+		<name normalized="북부 주" languages="Korean">북부 주</name>
+	</region>
+	<region name="Ouest" type="province" typeTranslated="- intara for">
+		<name normalized="Barat" languages="Indonesian;Malay">Barat</name>
+		<name normalized="Batı Eyaleti" languages="Turkish">Batı Eyaleti</name>
+		<name normalized="Intara y'Iburengerazuba" languages="Slovak">Intara y’Iburengerazuba</name>
+		<name normalized="Laaneprovints" languages="Estonian">Lääneprovints</name>
+		<name normalized="Oeste" languages="Portuguese">Oeste</name>
+		<name normalized="Ouest" languages="Dutch;English;French;German;Italian;official">Ouest</name>
+		<name normalized="Phuong Tay" languages="Vietnamese">Phương Tây</name>
+		<name normalized="Province de l'Ouest" languages="English;French;official">Province de l'Ouest</name>
+		<name normalized="Province Ouest" languages="English;official">Province Ouest</name>
+		<name normalized="Provincia de Vest" languages="Romanian">Provincia de Vest</name>
+		<name normalized="Provincia del Oeste" languages="Spanish">Provincia del Oeste</name>
+		<name normalized="Provincia Occidental" languages="Spanish">Provincia Occidental</name>
+		<name normalized="Provincia Occidentale" languages="Italian">Provincia Occidentale</name>
+		<name normalized="Provinsi Barat" languages="Indonesian">Provinsi Barat</name>
+		<name normalized="Provincia Occidental" languages="Catalan">Província Occidental</name>
+		<name normalized="Provincia Ocidental" languages="Portuguese">Província Ocidental</name>
+		<name normalized="Prowincja Zachodnia" languages="Polish">Prowincja Zachodnia</name>
+		<name normalized="Vakarai" languages="Lithuanian">Vakarai</name>
+		<name normalized="Vakaru provincija" languages="Lithuanian">Vakarų provincija</name>
+		<name normalized="Vastprovinsen" languages="Swedish">Västprovinsen</name>
+		<name normalized="Western" languages="Danish;Dutch;English;French;Galician;German;Italian;official;Polish;Portuguese;Simple English;Spanish;Swedish">Western</name>
+		<name normalized="Western - Intara For" languages="English;official">Western - Intara For</name>
+		<name normalized="Western Province" languages="English;official;Slovak">Western Province</name>
+		<name normalized="Westprovinz" languages="German">Westprovinz</name>
+		<name normalized="Zachod" languages="Polish">Zachód</name>
+		<name normalized="Zapad" languages="Slovak">Západ</name>
+		<name normalized="Zapadni provincie" languages="Czech">Západní provincie</name>
+		<name normalized="Δυτικη Ρουαντα" languages="Greek">Δυτική Ρουάντα</name>
+		<name normalized="Vadыviл pрoviнti" languages="Hill Mari">Вадывел провинци</name>
+		<name normalized="Viлoiti Ғaрbi" languages="Tajik">Вилояти Ғарбӣ</name>
+		<name normalized="Zapadнa pрoviнtii" languages="Bulgarian">Западна провинция</name>
+		<name normalized="Zapadнai pрoviнtii" languages="Russian">Западная провинция</name>
+		<name normalized="Ueсtiрн" languages="Russian">Уэстерн</name>
+		<name normalized="وسtrن" languages="Persian">وسترن</name>
+		<name normalized="uestn" languages="Japanese">ウエスタン</name>
+		<name normalized="西" languages="Chinese">西</name>
+		<name normalized="西部州" languages="Japanese">西部州</name>
+		<name normalized="西部省" languages="Chinese">西部省</name>
+		<name normalized="서부 주" languages="Korean">서부 주</name>
+	</region>
+	<region name="Sud" type="province" typeTranslated="- intara for">
+		<name normalized="Guney Eyaleti" languages="Turkish">Güney Eyaleti</name>
+		<name normalized="Intara y'Amajyepfo" languages="Slovak">Intara y’Amajyepfo</name>
+		<name normalized="Jizni provincie" languages="Czech">Jižní provincie</name>
+		<name normalized="Lounaprovints" languages="Estonian">Lõunaprovints</name>
+		<name normalized="Pietu provincija" languages="Lithuanian">Pietų provincija</name>
+		<name normalized="Province du Sud" languages="English;French;official">Province du Sud</name>
+		<name normalized="Province Sud" languages="Dutch;English;French;Indonesian;official">Province Sud</name>
+		<name normalized="Provincia de Sud" languages="Romanian">Provincia de Sud</name>
+		<name normalized="Provincia Meridionale" languages="Italian">Provincia Meridionale</name>
+		<name normalized="Provincia Sud" languages="Italian">Provincia Sud</name>
+		<name normalized="Provincia Sur" languages="Spanish">Provincia Sur</name>
+		<name normalized="Provinsi Selatan" languages="Indonesian">Provinsi Selatan</name>
+		<name normalized="Provins Su" languages="Breton">Proviñs Su</name>
+		<name normalized="Provincia del Sud" languages="Catalan">Província del Sud</name>
+		<name normalized="Provincia do Sul" languages="Portuguese">Província do Sul</name>
+		<name normalized="Prowincja Poludniowa" languages="Polish">Prowincja Południowa</name>
+		<name normalized="South Province" languages="English">South Province</name>
+		<name normalized="Southern" languages="Dutch;English;French;German;official;Polish;Simple English;Swedish">Southern</name>
+		<name normalized="Southern - Intara For" languages="English;official">Southern - Intara For</name>
+		<name normalized="Southern Province" languages="English;official">Southern Province</name>
+		<name normalized="Sud" languages="Bosnian;Czech;Dutch;English;French;German;Italian;Japanese;official">Sud</name>
+		<name normalized="Sudprovinz" languages="German">Südprovinz</name>
+		<name normalized="Tinh Nam" languages="Vietnamese">Tỉnh Nam</name>
+		<name normalized="Zuud" languages="Low Saxon (Netherlands)">Zuud</name>
+		<name normalized="Νοτια Ρουαντα" languages="Greek">Νότια Ρουάντα</name>
+		<name normalized="Kicӹvaлviл pрoviнti" languages="Hill Mari">Кечӹвӓлвел провинци</name>
+		<name normalized="Сauziрн" languages="Russian">Саузерн</name>
+		<name normalized="Сud" languages="Russian;Serbian">Суд</name>
+		<name normalized="Юzнa pрoviнtii" languages="Bulgarian">Южна провинция</name>
+		<name normalized="Юzнai pрoviнtii" languages="Russian">Южная провинция</name>
+		<name normalized="szn" languages="Japanese">サザン</name>
+		<name normalized="南部州" languages="Japanese">南部州</name>
+		<name normalized="南部省" languages="Chinese">南部省</name>
+		<name normalized="남부 주" languages="Korean">남부 주</name>
+	</region>
+</regions>

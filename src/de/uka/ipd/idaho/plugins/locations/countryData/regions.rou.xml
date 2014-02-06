@@ -1,0 +1,1760 @@
+<regions country="Romania">
+	<region name="Alba" type="county" typeTranslated="judet">
+		<name normalized="Alba" languages="Croatian;Czech;Danish;English;Finnish;Ladino;Latin;Norwegian (bokmal);official;Portuguese;Slovak;Spanish;Swedish;Vietnamese;Walloon">Alba</name>
+		<name normalized="Alba County" languages="English;official;Simple English">Alba County</name>
+		<name normalized="Alba fylke" languages="Norwegian Nynorsk">Alba fylke</name>
+		<name normalized="Alba ili" languages="Turkish">Alba ili</name>
+		<name normalized="Alba Judet" languages="English;official">Alba Judet</name>
+		<name normalized="Alba konderria" languages="Basque">Alba konderria</name>
+		<name normalized="Alba maakond" languages="Estonian">Alba maakond</name>
+		<name normalized="Albos apskritis" languages="Lithuanian">Albos apskritis</name>
+		<name normalized="Condado de Alba" languages="Galician">Condado de Alba</name>
+		<name normalized="Distretto di Alba" languages="Italian">Distretto di Alba</name>
+		<name normalized="District Alba" languages="Dutch">District Alba</name>
+		<name normalized="Distrikto Alba" languages="Esperanto">Distrikto Alba</name>
+		<name normalized="Feher megye" languages="Hungarian">Fehér megye</name>
+		<name normalized="Județ d'Alba" languages="French">Județ d'Alba</name>
+		<name normalized="Județul Alba" languages="Romanian">Județul Alba</name>
+		<name normalized="Kondado han Alba" languages="Waray">Kondado han Alba</name>
+		<name normalized="Kreis Alba" languages="German">Kreis Alba</name>
+		<name normalized="Okreg Alba" languages="Polish">Okręg Alba</name>
+		<name normalized="Propinsi Alba" languages="Achinese">Propinsi Alba</name>
+		<name normalized="Provincia d'Alba" languages="Aragonese">Provincia d'Alba</name>
+		<name normalized="Provinsi Alba" languages="Indonesian">Provinsi Alba</name>
+		<name normalized="Provincia d'Alba" languages="Catalan">Província d'Alba</name>
+		<name normalized="Qarku Alba" languages="Albanian">Qarku Alba</name>
+		<name normalized="Wilayah Alba" languages="Malay">Wilayah Alba</name>
+		<name normalized="Αλμπα" languages="Greek">Άλμπα</name>
+		<name normalized="Aлba" languages="Bulgarian;Macedonian;Russian;Serbian;Ukrainian">Алба</name>
+		<name normalized="Viлoiti Aлba" languages="Tajik">Вилояти Алба</name>
+		<name normalized="إqلym ألbא" languages="Arabic">إقليم ألبا</name>
+		<name normalized="אلbא کאؤنٹی" languages="Western Punjabi">البا کاؤنٹی</name>
+		<name normalized="arb県" languages="Japanese">アルバ県</name>
+		<name normalized="阿爾巴縣" languages="Chinese">阿爾巴縣</name>
+		<name normalized="알바 주" languages="Korean">알바 주</name>
+	</region>
+	<region name="Arad" type="county" typeTranslated="judet">
+		<name normalized="Arad" languages="Achinese;Albanian;Aragonese;Aromanian;Basque;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Hungarian;Indonesian;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Simple English;Slovak;Spanish;Swedish;Turkish;Vietnamese;Walloon;Waray;Western Frisian">Arad</name>
+		<name normalized="Arad County" languages="English;official;Simple English">Arad County</name>
+		<name normalized="Arad fylke" languages="Norwegian Nynorsk">Arad fylke</name>
+		<name normalized="Arad i Romania" languages="Norwegian Nynorsk">Arad i Romania</name>
+		<name normalized="Arad ili" languages="Turkish">Arad ili</name>
+		<name normalized="Arad Judet" languages="English;official">Arad Judet</name>
+		<name normalized="Arad konderria" languages="Basque">Arad konderria</name>
+		<name normalized="Arad megye" languages="Hungarian">Arad megye</name>
+		<name normalized="Aradas" languages="Lithuanian">Aradas</name>
+		<name normalized="Aradi maakond" languages="Estonian">Aradi maakond</name>
+		<name normalized="Aradinum" languages="Latin">Aradinum</name>
+		<name normalized="Arado apskritis" languages="Lithuanian">Arado apskritis</name>
+		<name normalized="Arads" languages="Samogitian">Arads</name>
+		<name normalized="Aradska zupa" languages="Slovak">Aradská župa</name>
+		<name normalized="Condado de Arad" languages="Galician">Condado de Arad</name>
+		<name normalized="Distretto di Arad" languages="Italian">Distretto di Arad</name>
+		<name normalized="District Arad" languages="Dutch">District Arad</name>
+		<name normalized="Distrikto Arad" languages="Esperanto">Distrikto Arad</name>
+		<name normalized="Județ d'Arad" languages="French">Județ d'Arad</name>
+		<name normalized="Județul Arad" languages="Romanian">Județul Arad</name>
+		<name normalized="Kondado han Arad" languages="Waray">Kondado han Arad</name>
+		<name normalized="Kreis Arad" languages="German">Kreis Arad</name>
+		<name normalized="Okreg Arad" languages="Polish">Okręg Arad</name>
+		<name normalized="Propinsi Arad" languages="Achinese">Propinsi Arad</name>
+		<name normalized="Provincia d'Arad" languages="Aragonese">Provincia d'Arad</name>
+		<name normalized="Provinsi Arad" languages="Indonesian">Provinsi Arad</name>
+		<name normalized="Provincia d'Arad" languages="Catalan">Província d'Arad</name>
+		<name normalized="Qarku Arad" languages="Albanian">Qarku Arad</name>
+		<name normalized="Wilayah Arad" languages="Malay">Wilayah Arad</name>
+		<name normalized="Αραντ" languages="Greek">Αράντ</name>
+		<name normalized="Aрad" languages="Bulgarian;Macedonian;Russian;Serbian;Tajik;Ukrainian">Арад</name>
+		<name normalized="Viлoiti Aрad" languages="Tajik">Вилояти Арад</name>
+		<name normalized="Goрad Aрad" languages="Belarusian">Горад Арад</name>
+		<name normalized="אrד" languages="Hebrew">ארד</name>
+		<name normalized="آrאد" languages="Persian">آراد</name>
+		<name normalized="أrאد" languages="Arabic">أراد</name>
+		<name normalized="אrאد" languages="Western Punjabi">اراد</name>
+		<name normalized="אrאد کאؤنٹی" languages="Western Punjabi">اراد کاؤنٹی</name>
+		<name normalized="ard" languages="Japanese">アラド</name>
+		<name normalized="ard県" languages="Japanese">アラド県</name>
+		<name normalized="阿拉德" languages="Chinese">阿拉德</name>
+		<name normalized="阿拉德縣" languages="Chinese">阿拉德縣</name>
+		<name normalized="아라드" languages="Korean">아라드</name>
+		<name normalized="아라드 주" languages="Korean">아라드 주</name>
+	</region>
+	<region name="Arges" type="county" typeTranslated="judet">
+		<name normalized="Acmonide" languages="Italian">Acmonide</name>
+		<name normalized="Akmonides" languages="German">Akmonides</name>
+		<name normalized="Ardzeso apskritis" languages="Lithuanian">Ardžešo apskritis</name>
+		<name normalized="Arges" languages="Basque;Catalan;Dutch;English;official;Portuguese;Spanish">Arges</name>
+		<name normalized="Arges County" languages="English;official">Arges County</name>
+		<name normalized="Arges Judet" languages="English;official">Arges Judet</name>
+		<name normalized="Arges" languages="Croatian;Portuguese;Slovak;Vietnamese;Walloon">Argeş</name>
+		<name normalized="Arges fylke" languages="Norwegian Nynorsk">Argeş fylke</name>
+		<name normalized="Arges" languages="Czech;Danish;Finnish;Latin;Norwegian (bokmal);Spanish;Swedish">Argeș</name>
+		<name normalized="Arges County" languages="English;Simple English">Argeș County</name>
+		<name normalized="Arges ili" languages="Turkish">Argeș ili</name>
+		<name normalized="Arges megye" languages="Hungarian">Argeș megye</name>
+		<name normalized="Argesi maakond" languages="Estonian">Argeși maakond</name>
+		<name normalized="Arges" languages="Czech">Argés</name>
+		<name normalized="Condado de Arges" languages="Galician">Condado de Argeş</name>
+		<name normalized="Distretto di Arges" languages="Italian">Distretto di Argeș</name>
+		<name normalized="District Arges" languages="Dutch">District Argeș</name>
+		<name normalized="Distrikto Arges" languages="Esperanto">Distrikto Argeș</name>
+		<name normalized="Județ d'Arges" languages="French">Județ d'Argeș</name>
+		<name normalized="Județul Arges" languages="Romanian">Județul Argeș</name>
+		<name normalized="Kondado han Arges" languages="Waray">Kondado han Argeș</name>
+		<name normalized="Kreis Arges" languages="German">Kreis Argeș</name>
+		<name normalized="Okreg Ardzesz" languages="Polish">Okręg Ardżesz</name>
+		<name normalized="Propinsi Arges" languages="Achinese">Propinsi Argeş</name>
+		<name normalized="Provincia d'Arges" languages="Aragonese">Provincia d'Argeş</name>
+		<name normalized="Provinsi Arges" languages="Indonesian">Provinsi Argeş</name>
+		<name normalized="Provincia d'Arges" languages="Catalan">Província d'Argeș</name>
+		<name normalized="Qarku Arges" languages="Albanian">Qarku Argeş</name>
+		<name normalized="Wilayah Arges" languages="Malay">Wilayah Argeș</name>
+		<name normalized="Αρτζες" languages="Greek">Άρτζες</name>
+		<name normalized="Aрg" languages="Russian">Арг</name>
+		<name normalized="Aрdzis" languages="Bulgarian;Russian;Ukrainian">Арджеш</name>
+		<name normalized="Aрdis" languages="Serbian">Арђеш</name>
+		<name normalized="Aрgis" languages="Macedonian">Арѓеш</name>
+		<name normalized="Viлoiti Aрgis" languages="Tajik">Вилояти Аргеш</name>
+		<name normalized="אrjش کאؤنٹی" languages="Western Punjabi">ارجش کاؤنٹی</name>
+		<name normalized="arzesy県" languages="Japanese">アルジェシュ県</name>
+		<name normalized="阿爾傑什縣" languages="Chinese">阿爾傑什縣</name>
+		<name normalized="아르제슈 주" languages="Korean">아르제슈 주</name>
+	</region>
+	<region name="Bacau" type="county" typeTranslated="judet">
+		<name normalized="Bacau" languages="English;official">Bacau</name>
+		<name normalized="Bacau County" languages="English;official">Bacau County</name>
+		<name normalized="Bacau Judet" languages="English;official">Bacau Judet</name>
+		<name normalized="Bacovia" languages="Latin">Bacovia</name>
+		<name normalized="Bacau" languages="Achinese;Albanian;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Finnish;French;Galician;German;Indonesian;Interlingue;Italian;Latin;lumbaart;Malay;Minangkabau;Norwegian (bokmal);Norwegian Nynorsk;Piedmontese;Polish;Portuguese;Romanian;Slovak;Spanish;Swedish;Turkish;Vietnamese;Walloon;Waray">Bacău</name>
+		<name normalized="Bacau County" languages="English;Simple English">Bacău County</name>
+		<name normalized="Bacau fylke" languages="Norwegian Nynorsk">Bacău fylke</name>
+		<name normalized="Bacau ili" languages="Turkish">Bacău ili</name>
+		<name normalized="Bacau maakond" languages="Estonian">Bacău maakond</name>
+		<name normalized="Bakeu" languages="Lithuanian">Bakeu</name>
+		<name normalized="Bakeu apskritis" languages="Lithuanian">Bakeu apskritis</name>
+		<name normalized="Bako" languages="Hungarian">Bákó</name>
+		<name normalized="Bako megye" languages="Hungarian">Bákó megye</name>
+		<name normalized="Condado de Bacau" languages="Galician">Condado de Bacău</name>
+		<name normalized="Distretto di Bacau" languages="Italian">Distretto di Bacău</name>
+		<name normalized="District Bacau" languages="Dutch">District Bacău</name>
+		<name normalized="Distrikto Bacau" languages="Esperanto">Distrikto Bacău</name>
+		<name normalized="Județ de Bacau" languages="French">Județ de Bacău</name>
+		<name normalized="Județul Bacau" languages="Romanian">Județul Bacău</name>
+		<name normalized="Kondado han Bacau" languages="Waray">Kondado han Bacău</name>
+		<name normalized="Kreis Bacau" languages="German">Kreis Bacău</name>
+		<name normalized="Okreg Bacau" languages="Polish">Okręg Bacău</name>
+		<name normalized="Propinsi Bacau" languages="Achinese">Propinsi Bacău</name>
+		<name normalized="Provincia de Bacau" languages="Aragonese">Provincia de Bacău</name>
+		<name normalized="Provinsi Bacau" languages="Indonesian">Provinsi Bacău</name>
+		<name normalized="Provincia de Bacau" languages="Catalan">Província de Bacău</name>
+		<name normalized="Qarku Bacau" languages="Albanian">Qarku Bacău</name>
+		<name normalized="Wilayah Bacau" languages="Malay">Wilayah Bacău</name>
+		<name normalized="Μπακαου" languages="Greek">Μπακάου</name>
+		<name normalized="Bakau" languages="Macedonian;Serbian">Бакау</name>
+		<name normalized="Bakiu" languages="Ukrainian">Бакеу</name>
+		<name normalized="Bakъu" languages="Bulgarian">Бакъу</name>
+		<name normalized="Bakeu" languages="Russian;Tajik">Бакэу</name>
+		<name normalized="Viлoiti Bakau" languages="Tajik">Вилояти Бакау</name>
+		<name normalized="bqאv" languages="Hebrew">בקאו</name>
+		<name normalized="إqلym bאkאو" languages="Arabic">إقليم باكاو</name>
+		<name normalized="bאkאو" languages="Arabic">باكاو</name>
+		<name normalized="bאکیؤ" languages="Western Punjabi">باکیؤ</name>
+		<name normalized="bאکیؤ کאؤنٹی" languages="Western Punjabi">باکیؤ کاؤنٹی</name>
+		<name normalized="bکو" languages="Persian">بکو</name>
+		<name normalized="บาเคา" languages="Thai">บาเคา</name>
+		<name normalized="bku" languages="Japanese">バカウ</name>
+		<name normalized="bku県" languages="Japanese">バカウ県</name>
+		<name normalized="巴克烏" languages="Chinese">巴克烏</name>
+		<name normalized="巴克烏縣" languages="Chinese">巴克烏縣</name>
+		<name normalized="바커우" languages="Korean">바커우</name>
+		<name normalized="바커우 주" languages="Korean">바커우 주</name>
+	</region>
+	<region name="Bihor" type="county" typeTranslated="judet">
+		<name normalized="Bihar megye" languages="Hungarian">Bihar megye</name>
+		<name normalized="Bihor" languages="Croatian;Czech;Danish;English;Finnish;Galician;Latin;Norwegian (bokmal);official;Portuguese;Romanian;Slovak;Spanish;Swedish;Vietnamese;Walloon">Bihor</name>
+		<name normalized="Bihor County" languages="English;official;Simple English">Bihor County</name>
+		<name normalized="Bihor fylke" languages="Norwegian Nynorsk">Bihor fylke</name>
+		<name normalized="Bihor ili" languages="Turkish">Bihor ili</name>
+		<name normalized="Bihor Judet" languages="English;official">Bihor Judet</name>
+		<name normalized="Bihor konderria" languages="Basque">Bihor konderria</name>
+		<name normalized="Bihori maakond" languages="Estonian">Bihori maakond</name>
+		<name normalized="Bihoro apskritis" languages="Lithuanian">Bihoro apskritis</name>
+		<name normalized="Biharska zupa" languages="Slovak">Bihárska župa</name>
+		<name normalized="Condado de Bihor" languages="Galician">Condado de Bihor</name>
+		<name normalized="Distretto di Bihor" languages="Italian">Distretto di Bihor</name>
+		<name normalized="District Bihor" languages="Dutch">District Bihor</name>
+		<name normalized="Distrikto Bihor" languages="Esperanto">Distrikto Bihor</name>
+		<name normalized="Județ de Bihor" languages="French">Județ de Bihor</name>
+		<name normalized="Județul Bihor" languages="Romanian">Județul Bihor</name>
+		<name normalized="Kondado han Bihor" languages="Waray">Kondado han Bihor</name>
+		<name normalized="Kreis Bihor" languages="German">Kreis Bihor</name>
+		<name normalized="Okreg Bihor" languages="Polish">Okręg Bihor</name>
+		<name normalized="Propinsi Bihor" languages="Achinese">Propinsi Bihor</name>
+		<name normalized="Provincia de Bihor" languages="Aragonese">Provincia de Bihor</name>
+		<name normalized="Provinsi Bihor" languages="Indonesian">Provinsi Bihor</name>
+		<name normalized="Provincia de Bihor" languages="Catalan">Província de Bihor</name>
+		<name normalized="Qarku Bihor" languages="Albanian">Qarku Bihor</name>
+		<name normalized="Wilayah Bihor" languages="Malay">Wilayah Bihor</name>
+		<name normalized="Bikoр" languages="Bulgarian;Macedonian;Russian;Serbian">Бихор</name>
+		<name normalized="Bikoр" languages="Ukrainian">Біхор</name>
+		<name normalized="Viлoiti Bihoр" languages="Tajik">Вилояти Биҳор</name>
+		<name normalized="bیہوr کאؤنٹی" languages="Western Punjabi">بیہور کاؤنٹی</name>
+		<name normalized="bhr県" languages="Japanese">ビホル県</name>
+		<name normalized="比霍爾縣" languages="Chinese">比霍爾縣</name>
+		<name normalized="비호르 주" languages="Korean">비호르 주</name>
+	</region>
+	<region name="Bistrita-Nasaud" type="county" typeTranslated="judet">
+		<name normalized="Beszterce-Naszod megye" languages="Hungarian">Beszterce-Naszód megye</name>
+		<name normalized="Bistricos-Neseudo apskritis" languages="Lithuanian">Bistricos-Neseudo apskritis</name>
+		<name normalized="Bistrita-Nasaud" languages="English;official">Bistrita-Nasaud</name>
+		<name normalized="Bistrita-Nasaud County" languages="English;official">Bistrita-Nasaud County</name>
+		<name normalized="Bistrita-Nasaud Judet" languages="English;official">Bistrita-Nasaud Judet</name>
+		<name normalized="Bistrita-Nasaud" languages="Croatian;Latin;Vietnamese;Walloon">Bistriţa-Năsăud</name>
+		<name normalized="Bistrita-Nasaud County" languages="Simple English">Bistriţa-Năsăud County</name>
+		<name normalized="Bistrita-Nasaud fylke" languages="Norwegian Nynorsk">Bistriţa-Năsăud fylke</name>
+		<name normalized="Bistrita-Nasaud konderria" languages="Basque">Bistriţa-Năsăud konderria</name>
+		<name normalized="Bistrița-Nasaud" languages="Czech;Danish;Finnish;Norwegian (bokmal);Portuguese;Spanish;Swedish">Bistrița-Năsăud</name>
+		<name normalized="Bistrița-Nasaud County" languages="English">Bistrița-Năsăud County</name>
+		<name normalized="Bistrița-Nasaud ili" languages="Turkish">Bistrița-Năsăud ili</name>
+		<name normalized="Bistrița-Nasaudi maakond" languages="Estonian">Bistrița-Năsăudi maakond</name>
+		<name normalized="Bystricko-nasodska zupa" languages="Slovak">Bystricko-nasodská župa</name>
+		<name normalized="Condado de Bistrita-Nasaud" languages="Galician">Condado de Bistriţa-Năsăud</name>
+		<name normalized="Distretto di Bistrița-Nasaud" languages="Italian">Distretto di Bistrița-Năsăud</name>
+		<name normalized="District Bistrița-Nasaud" languages="Dutch">District Bistrița-Năsăud</name>
+		<name normalized="Distrikto Bistrița-Nasaud" languages="Esperanto">Distrikto Bistrița-Năsăud</name>
+		<name normalized="Județ de Bistrița-Nasaud" languages="French">Județ de Bistrița-Năsăud</name>
+		<name normalized="Județul Bistrița-Nasaud" languages="Romanian">Județul Bistrița-Năsăud</name>
+		<name normalized="Kondado han Bistrița-Nasaud" languages="Waray">Kondado han Bistrița-Năsăud</name>
+		<name normalized="Kreis Bistrița-Nasaud" languages="German">Kreis Bistrița-Năsăud</name>
+		<name normalized="Okreg Bistrița-Nasaud" languages="Polish">Okręg Bistrița-Năsăud</name>
+		<name normalized="Propinsi Bistrita-Nasaud" languages="Achinese">Propinsi Bistriţa-Năsăud</name>
+		<name normalized="Provincia de Bistrita-Nasaud" languages="Aragonese">Provincia de Bistriţa-Năsăud</name>
+		<name normalized="Provinsi Bistrita-Nasaud" languages="Indonesian">Provinsi Bistriţa-Năsăud</name>
+		<name normalized="Provincia de Bistrița-Nasaud" languages="Catalan">Província de Bistrița-Năsăud</name>
+		<name normalized="Qarku Bistrita-Nasaud" languages="Albanian">Qarku Bistriţa-Năsăud</name>
+		<name normalized="Wilayah Bistrița-Nasaud" languages="Malay">Wilayah Bistrița-Năsăud</name>
+		<name normalized="Biсtрita-Нaсaud" languages="Macedonian;Serbian">Бистрица-Насауд</name>
+		<name normalized="Biсtрita-Нъсъud" languages="Bulgarian">Бистрица-Нъсъуд</name>
+		<name normalized="Biсtрita-Нeсeud" languages="Russian">Бистрица-Нэсэуд</name>
+		<name normalized="Biсtрiti-Нiсiud" languages="Ukrainian">Бистриця-Несеуд</name>
+		<name normalized="Viлoiti Biсtрitсa-Нaсaud" languages="Tajik">Вилояти Бистритса-Насауд</name>
+		<name normalized="מhvז bיסtrיצh-nסאvד" languages="Hebrew">מחוז ביסטריצה-נסאוד</name>
+		<name normalized="bسtrیtسא نیسیؤد کאؤنٹی" languages="Western Punjabi">بستریتسا نیسیؤد کاؤنٹی</name>
+		<name normalized="bstrta=nsud県" languages="Japanese">ビストリツァ＝ナサウド県</name>
+		<name normalized="比斯特里察-訥瑟烏德縣" languages="Chinese">比斯特里察-訥瑟烏德縣</name>
+		<name normalized="비스트리차너서우드 주" languages="Korean">비스트리차너서우드 주</name>
+	</region>
+	<region name="Botosani" type="county" typeTranslated="judet">
+		<name normalized="Botosani" languages="English;official">Botosani</name>
+		<name normalized="Botosani County" languages="English;official">Botosani County</name>
+		<name normalized="Botosani Judet" languages="English;official">Botosani Judet</name>
+		<name normalized="Botoszany" languages="Polish">Botoszany</name>
+		<name normalized="Botosan" languages="Hungarian">Botosán</name>
+		<name normalized="Botoxani" languages="Ladino">Botoxani</name>
+		<name normalized="Botosani" languages="Achinese;Albanian;Catalan;Croatian;Indonesian;Interlingue;Javanese;Latin;Malay;Norwegian Nynorsk;Portuguese;Simple English;Slovak;Vietnamese;Walloon;Waray">Botoşani</name>
+		<name normalized="Botosani County" languages="Simple English">Botoşani County</name>
+		<name normalized="Botosani fylke" languages="Norwegian Nynorsk">Botoşani fylke</name>
+		<name normalized="Botosanio apskritis" languages="Lithuanian">Botošanio apskritis</name>
+		<name normalized="Botosanis" languages="Lithuanian">Botošanis</name>
+		<name normalized="Botosani" languages="Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Italian;Minangkabau;Norwegian (bokmal);Romanian;Spanish;Swedish;Turkish">Botoșani</name>
+		<name normalized="Botosani County" languages="English">Botoșani County</name>
+		<name normalized="Botosani ili" languages="Turkish">Botoșani ili</name>
+		<name normalized="Botosani maakond" languages="Estonian">Botoșani maakond</name>
+		<name normalized="Botosani megye" languages="Hungarian">Botoșani megye</name>
+		<name normalized="Condado de Botosani" languages="Galician">Condado de Botoşani</name>
+		<name normalized="Distretto di Botosani" languages="Italian">Distretto di Botoșani</name>
+		<name normalized="District Botosani" languages="Dutch">District Botoșani</name>
+		<name normalized="Distrikto Botosani" languages="Esperanto">Distrikto Botoșani</name>
+		<name normalized="Județ de Botosani" languages="French">Județ de Botoșani</name>
+		<name normalized="Județul Botosani" languages="Romanian">Județul Botoșani</name>
+		<name normalized="Kondado han Botosani" languages="Waray">Kondado han Botoșani</name>
+		<name normalized="Kreis Botosani" languages="German">Kreis Botoșani</name>
+		<name normalized="Okreg Botoszany" languages="Polish">Okręg Botoszany</name>
+		<name normalized="Propinsi Botosani" languages="Achinese">Propinsi Botoşani</name>
+		<name normalized="Provincia de Botosani" languages="Aragonese">Provincia de Botoşani</name>
+		<name normalized="Provinsi Botosani" languages="Indonesian">Provinsi Botoşani</name>
+		<name normalized="Provincia de Botosani" languages="Catalan">Província de Botoșani</name>
+		<name normalized="Qarku Botosani" languages="Albanian">Qarku Botoşani</name>
+		<name normalized="Wilayah Botosani" languages="Malay">Wilayah Botoșani</name>
+		<name normalized="Botosaнi" languages="Bulgarian;Macedonian;Russian;Serbian;Tajik">Ботошани</name>
+		<name normalized="Botosaнь" languages="Ukrainian">Ботошань</name>
+		<name normalized="Botosaнi" languages="Ukrainian">Ботошані</name>
+		<name normalized="Viлoiti Botosaн" languages="Tajik">Вилояти Ботошан</name>
+		<name normalized="bvtvשאן" languages="Hebrew">בוטושאן</name>
+		<name normalized="מhvז bvtvשאן" languages="Hebrew">מחוז בוטושאן</name>
+		<name normalized="إqلym bوtوشאن" languages="Arabic">إقليم بوتوشان</name>
+		<name normalized="bوtوشאنy" languages="Arabic">بوتوشاني</name>
+		<name normalized="bوtوشאنی" languages="Western Punjabi">بوتوشانی</name>
+		<name normalized="bوtوشאنی کؤنٹی" languages="Western Punjabi">بوتوشانی کؤنٹی</name>
+		<name normalized="bوtوشن" languages="Persian">بوتوشن</name>
+		<name normalized="btsyn" languages="Japanese">ボトシャニ</name>
+		<name normalized="btsyn県" languages="Japanese">ボトシャニ県</name>
+		<name normalized="博托沙尼" languages="Chinese">博托沙尼</name>
+		<name normalized="博托沙尼縣" languages="Chinese">博托沙尼縣</name>
+		<name normalized="보토샤니" languages="Korean">보토샤니</name>
+		<name normalized="보토샤니 주" languages="Korean">보토샤니 주</name>
+	</region>
+	<region name="Braila" type="county" typeTranslated="judet">
+		<name normalized="Braila" languages="English;official">Braila</name>
+		<name normalized="Braila County" languages="English;official">Braila County</name>
+		<name normalized="Braila Judet" languages="English;official">Braila Judet</name>
+		<name normalized="Braila" languages="Polish">Braiła</name>
+		<name normalized="Breila" languages="Lithuanian">Breila</name>
+		<name normalized="Breilos apskritis" languages="Lithuanian">Breilos apskritis</name>
+		<name normalized="Braila" languages="Achinese;Basque;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Finnish;French;German;Hungarian;Indonesian;Interlingue;Italian;Latin;Malay;Minangkabau;Norwegian (bokmal);Norwegian Nynorsk;Portuguese;Romanian;Scots;Simple English;Slovak;Spanish;Swedish;Turkish;Vietnamese;Walloon;Waray">Brăila</name>
+		<name normalized="Braila County" languages="English;Simple English">Brăila County</name>
+		<name normalized="Braila fylke" languages="Norwegian Nynorsk">Brăila fylke</name>
+		<name normalized="Braila ili" languages="Turkish">Brăila ili</name>
+		<name normalized="Braila maakond" languages="Estonian">Brăila maakond</name>
+		<name normalized="Braila megye" languages="Hungarian">Brăila megye</name>
+		<name normalized="Condado de Braila" languages="Galician">Condado de Brăila</name>
+		<name normalized="Distretto di Braila" languages="Italian">Distretto di Brăila</name>
+		<name normalized="District Braila" languages="Dutch">District Brăila</name>
+		<name normalized="Distrikto Braila" languages="Esperanto">Distrikto Brăila</name>
+		<name normalized="Județ de Braila" languages="French">Județ de Brăila</name>
+		<name normalized="Județul Braila" languages="Romanian">Județul Brăila</name>
+		<name normalized="Kondado han Braila" languages="Waray">Kondado han Brăila</name>
+		<name normalized="Kreis Braila" languages="German">Kreis Brăila</name>
+		<name normalized="Okreg Braila" languages="Polish">Okręg Braiła</name>
+		<name normalized="Proilabum" languages="Latin">Proilabum</name>
+		<name normalized="Propinsi Braila" languages="Achinese">Propinsi Brăila</name>
+		<name normalized="Provincia de Braila" languages="Aragonese">Provincia de Brăila</name>
+		<name normalized="Provinsi Braila" languages="Indonesian">Provinsi Brăila</name>
+		<name normalized="Provincia de Braila" languages="Catalan">Província de Brăila</name>
+		<name normalized="Wilayah Braila" languages="Malay">Wilayah Brăila</name>
+		<name normalized="Βραιλα" languages="Greek">Βραΐλα</name>
+		<name normalized="Bрaiлa" languages="Bulgarian;Macedonian;Serbian">Браила</name>
+		<name normalized="Bрayлa" languages="Ukrainian">Браїла</name>
+		<name normalized="Bрiyлa" languages="Ukrainian">Бреїла</name>
+		<name normalized="Bрeiлa" languages="Russian;Tajik">Брэила</name>
+		<name normalized="Viлoiti Bрaiлa" languages="Tajik">Вилояти Браӣла</name>
+		<name normalized="brאידh" languages="Hebrew">בראילה</name>
+		<name normalized="brئیلא" languages="Persian">برئیلا</name>
+		<name normalized="brאyلא" languages="Arabic">برايلا</name>
+		<name normalized="brیلא" languages="Western Punjabi">بریلا</name>
+		<name normalized="brیلא کאؤنٹی" languages="Western Punjabi">بریلا کاؤنٹی</name>
+		<name normalized="brir" languages="Japanese">ブライラ</name>
+		<name normalized="brir県" languages="Japanese">ブライラ県</name>
+		<name normalized="布勒伊拉" languages="Chinese">布勒伊拉</name>
+		<name normalized="布勒伊拉縣" languages="Chinese">布勒伊拉縣</name>
+		<name normalized="브러일라" languages="Korean">브러일라</name>
+		<name normalized="브러일라 주" languages="Korean">브러일라 주</name>
+	</region>
+	<region name="Brasov" type="county" typeTranslated="judet">
+		<name normalized="Brashov" languages="Aromanian">Brashov</name>
+		<name normalized="Brasov" languages="English;official">Brasov</name>
+		<name normalized="Brasov County" languages="English;official">Brasov County</name>
+		<name normalized="Brasov Judet" languages="English;official">Brasov Judet</name>
+		<name normalized="Brasso" languages="Hungarian">Brassó</name>
+		<name normalized="Brasso megye" languages="Hungarian">Brassó megye</name>
+		<name normalized="Braszow" languages="Polish">Braszów</name>
+		<name normalized="Brasov" languages="Achinese;Azerbaijani;Basque;Breton;Ido;Indonesian;Interlingue;Latin;Limburgish;Malay;Norwegian Nynorsk;Scots;Sicilian;Simple English;Vietnamese;Volapuk;Walloon;Waray">Braşov</name>
+		<name normalized="Brasov County" languages="Simple English">Braşov County</name>
+		<name normalized="Brasov fylke" languages="Norwegian Nynorsk">Braşov fylke</name>
+		<name normalized="Brasov" languages="Czech;Serbo-Croatian;Slovak">Brašov</name>
+		<name normalized="Brasova" languages="Latvian">Brašova</name>
+		<name normalized="Brasovas" languages="Lithuanian">Brašovas</name>
+		<name normalized="Brasovo apskritis" languages="Lithuanian">Brašovo apskritis</name>
+		<name normalized="Brasovska zupa" languages="Slovak">Brašovská župa</name>
+		<name normalized="Brasov" languages="Aragonese;Catalan;Croatian;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Italian;Minangkabau;Norwegian (bokmal);Occitan;Portuguese;Romanian;Spanish;Swedish;Turkish;Vietnamese">Brașov</name>
+		<name normalized="Brasov Coonty" languages="Scots">Brașov Coonty</name>
+		<name normalized="Brasov County" languages="English">Brașov County</name>
+		<name normalized="Brasov ili" languages="Turkish">Brașov ili</name>
+		<name normalized="Brasovi maakond" languages="Estonian">Brașovi maakond</name>
+		<name normalized="Condado de Brasov" languages="Galician">Condado de Braşov</name>
+		<name normalized="Corona" languages="Latin">Corona</name>
+		<name normalized="Distretto di Brasov" languages="Italian">Distretto di Brașov</name>
+		<name normalized="District Brasov" languages="Dutch">District Brașov</name>
+		<name normalized="Distrikto Brasov" languages="Esperanto">Distrikto Brașov</name>
+		<name normalized="Județ de Brasov" languages="French;Occitan">Județ de Brașov</name>
+		<name normalized="Județul Brasov" languages="Romanian">Județul Brașov</name>
+		<name normalized="Kondado han Brasov" languages="Waray">Kondado han Brașov</name>
+		<name normalized="Kreis Brasov" languages="German">Kreis Brașov</name>
+		<name normalized="Okreg Braszow" languages="Polish">Okręg Braszów</name>
+		<name normalized="Propinsi Brasov" languages="Achinese">Propinsi Braşov</name>
+		<name normalized="Provincia de Brasov" languages="Aragonese">Provincia de Braşov</name>
+		<name normalized="Provinsi Brasov" languages="Indonesian">Provinsi Braşov</name>
+		<name normalized="Provincia de Brasov" languages="Catalan">Província de Brașov</name>
+		<name normalized="Qarku Brasov" languages="Albanian">Qarku Braşov</name>
+		<name normalized="Wilayah Brasov" languages="Malay">Wilayah Brașov</name>
+		<name normalized="Μπρασοβ" languages="Greek">Μπρασόβ</name>
+		<name normalized="Bрasaў" languages="biлaрuсkai (taрaskivita)‎">Брашаў</name>
+		<name normalized="Bрasov" languages="Bulgarian;Chechen;Macedonian;Russian;Serbian;Tajik;Ukrainian">Брашов</name>
+		<name normalized="Viлoiti Bрasov" languages="Tajik">Вилояти Брашов</name>
+		<name normalized="Goрad Bрasaў" languages="Belarusian">Горад Брашаў</name>
+		<name normalized="brאשvb" languages="Hebrew">בראשוב</name>
+		<name normalized="brאشوf" languages="Arabic;Pashto;Persian">براشوف</name>
+		<name normalized="brאشوو" languages="Western Punjabi">براشوو</name>
+		<name normalized="brאشوو کאؤنٹی" languages="Western Punjabi">براشوو کاؤنٹی</name>
+		<name normalized="ბრაშოვი" languages="Georgian">ბრაშოვი</name>
+		<name normalized="brsョh県" languages="Japanese">ブラショフ県</name>
+		<name normalized="brsョv" languages="Japanese">ブラショヴ</name>
+		<name normalized="布拉索夫" languages="Chinese">布拉索夫</name>
+		<name normalized="布拉索夫縣" languages="Chinese">布拉索夫縣</name>
+		<name normalized="브라쇼브" languages="Korean">브라쇼브</name>
+		<name normalized="브라쇼브 주" languages="Korean">브라쇼브 주</name>
+	</region>
+	<region name="Bucuresti" type="municipality" typeTranslated="municipality">
+		<name normalized="Boekares" languages="Limburgish">Boekares</name>
+		<name normalized="Boekarest" languages="Afrikaans;Dutch">Boekarest</name>
+		<name normalized="Boukares" languages="Haitian">Boukarès</name>
+		<name normalized="Bucarest" languages="Aragonese;Asturian;Catalan;Corsican;Extremaduran;French;Galician;Ido;Interlingua;Interlingue;Italian;Ligure;lumbaart;Neapolitan;Romansh;Sicilian;Spanish;tarandine">Bucarest</name>
+		<name normalized="Bucaresta" languages="Latin">Bucaresta</name>
+		<name normalized="Bucareste" languages="Portuguese">Bucareste</name>
+		<name normalized="Bucarest" languages="Franco-Provencal;Occitan">Bucarèst</name>
+		<name normalized="Bucharest" languages="Chinese (Min Nan);English;Ewe;Fiji Hindi;Malagasy;Malay;Manx;Maori;official;Scots;Scottish Gaelic;Simple English;Vietnamese;Waray;Yoruba">Bucharest</name>
+		<name normalized="Bucharest" languages="Achinese">Bucharèst</name>
+		<name normalized="Bucureshci" languages="Aromanian">Bucureshci</name>
+		<name normalized="Bucuresti" languages="English;Nauru;official">Bucuresti</name>
+		<name normalized="Bucuresti" languages="Norwegian Nynorsk;Volapuk">Bucureşti</name>
+		<name normalized="Bucuresti" languages="Northern Sami;Norwegian (bokmal);Romanian">București</name>
+		<name normalized="Buharest" languages="Veps">Buharest</name>
+		<name normalized="Bukares" languages="Indonesian">Bukares</name>
+		<name normalized="Bukareshti" languages="Novial">Bukareshti</name>
+		<name normalized="Bukarest" languages="Basque;Breton;Danish;Estonian;Faroese;Finnish;German;Hungarian;Kalaallisut;Lower Sorbian;Luxembourgish;Northern Frisian;Seeltersk;Swahili;Swedish;Tagalog;Upper Sorbian;Voro;Wolof">Bukarest</name>
+		<name normalized="Bukareste" languages="Latvian;Tetum">Bukareste</name>
+		<name normalized="Bukaresti" languages="Lingala">Bukaresti</name>
+		<name normalized="Bukareszt" languages="Polish;Silesian">Bukareszt</name>
+		<name normalized="Bukaresto" languages="Esperanto">Bukareŝto</name>
+		<name normalized="Bukaresta" languages="Slovenian">Bukarešta</name>
+		<name normalized="Bukarestas" languages="Lithuanian">Bukareštas</name>
+		<name normalized="Bukares" languages="Javanese">Bukarès</name>
+		<name normalized="Bukarestos" languages="Samogitian">Bukarėštos</name>
+		<name normalized="Bukres" languages="Zazaki">Bukreş</name>
+		<name normalized="Bukureshti" languages="Albanian;Ladino;Romani">Bukureshti</name>
+		<name normalized="Bukuresti" languages="Quechua">Bukuresti</name>
+		<name normalized="Bukurest" languages="Bosnian;Croatian;Serbo-Croatian">Bukurešt</name>
+		<name normalized="Bukurest" languages="Czech;Slovak">Bukurešť</name>
+		<name normalized="Buqarest" languages="Somali">Buqarest</name>
+		<name normalized="Busares" languages="Tok Pisin">Busares</name>
+		<name normalized="Buxarest" languages="Azerbaijani">Buxarest</name>
+		<name normalized="Bwcarest" languages="Welsh">Bwcarést</name>
+		<name normalized="Bucarest" languages="Piedmontese;veneto">Bùcarest</name>
+		<name normalized="Bukareszt" languages="Kashubian">Bùkareszt</name>
+		<name normalized="Bucairist" languages="Irish">Búcairist</name>
+		<name normalized="Bukarest" languages="Icelandic">Búkarest</name>
+		<name normalized="Bukarest" languages="Western Frisian">Bûkarest</name>
+		<name normalized="Bukarest" languages="Kurdish">Bûkareşt</name>
+		<name normalized="Bukres" languages="Crimean Turkish;Turkish">Bükreş</name>
+		<name normalized="Βουκουρeστι" languages="Greek">Βουκουρέστι</name>
+		<name normalized="Bukuрist" languages="Macedonian;Serbian">Букурешт</name>
+		<name normalized="Bukuрiщ" languages="Bulgarian">Букурещ</name>
+		<name normalized="Bukaрiсt" languages="Chechen;Chuvash;Eastern Mari;Kazakh;Komi;Mongolian;Ossetic;Russian;Sakha;Tajik;Udmurt;Ukrainian">Бухарест</name>
+		<name normalized="Bukaрeсt" languages="biлaрuсkai (taрaskivita)‎">Бухарэст</name>
+		<name normalized="Goрad Bukaрeсt" languages="Belarusian">Горад Бухарэст</name>
+		<name normalized="Bvyxաrեst" languages="Armenian">Բուխարեստ</name>
+		<name normalized="bvqאrעשt" languages="Yiddish">בוקארעשט</name>
+		<name normalized="bvqrשt" languages="Hebrew">בוקרשט</name>
+		<name normalized="bخאrسt" languages="Pashto;Persian">بخارست</name>
+		<name normalized="bخאrسٹ" languages="Urdu;Western Punjabi">بخارسٹ</name>
+		<name normalized="bوخאrسt" languages="Arabic;Egyptian Spoken Arabic">بوخارست</name>
+		<name normalized="bوخאrێسt" languages="Sorani Kurdish">بوخارێست</name>
+		<name normalized="bۇخאrېسt" languages="Uyghur">بۇخارېست</name>
+		<name normalized="bukाres्ट" languages="Hindi;Marathi;Nepali">बुखारेस्ट</name>
+		<name normalized="bukাres্ট" languages="Bengali">বুখারেস্ট</name>
+		<name normalized="buk਼ਾrasਟ" languages="Punjabi">ਬੁਖ਼ਾਰੈਸਟ</name>
+		<name normalized="புக்கரெஸ்ட்" languages="Tamil">புக்கரெஸ்ட்</name>
+		<name normalized="ಬ್ಯೂಖರೆಸ್ಟ್" languages="Kannada">ಬ್ಯೂಖರೆಸ್ಟ್</name>
+		<name normalized="ബുക്കാറെസ്റ്റ്" languages="Malayalam">ബുക്കാറെസ്റ്റ്</name>
+		<name normalized="บูคาเรสต์" languages="Thai">บูคาเรสต์</name>
+		<name normalized="པུ་ཁ་རེ་སིད།" languages="Tibetan">པུ་ཁ་རེ་སིད།</name>
+		<name normalized="ဗူးခရက်မြို့" languages="Burmese">ဗူးခရက်မြို့</name>
+		<name normalized="ბუქარესტი" languages="Georgian">ბუქარესტი</name>
+		<name normalized="ቡካረስት" languages="Amharic">ቡካረስት</name>
+		<name normalized="bkrst" languages="Japanese">ブカレスト</name>
+		<name normalized="布加勒斯特" languages="Cantonese;Chinese">布加勒斯特</name>
+		<name normalized="부쿠레슈티" languages="Korean">부쿠레슈티</name>
+	</region>
+	<region name="Buzau" type="county" typeTranslated="judet">
+		<name normalized="Bodzavasar" languages="Hungarian">Bodzavásár</name>
+		<name normalized="Buzau" languages="English;official">Buzau</name>
+		<name normalized="Buzau County" languages="English;official">Buzau County</name>
+		<name normalized="Buzau Judet" languages="English;official">Buzau Judet</name>
+		<name normalized="Buzeu" languages="Lithuanian">Buzeu</name>
+		<name normalized="Buzeu apskritis" languages="Lithuanian">Buzeu apskritis</name>
+		<name normalized="Buzau" languages="Achinese;Croatian;Czech;Danish;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Interlingue;Italian;Javanese;Latin;Malay;Minangkabau;Norwegian (bokmal);Norwegian Nynorsk;Polish;Portuguese;Romanian;Slovak;Spanish;Swedish;Turkish;Vietnamese;Walloon;Waray">Buzău</name>
+		<name normalized="Buzau County" languages="English;Simple English">Buzău County</name>
+		<name normalized="Buzau fylke" languages="Norwegian Nynorsk">Buzău fylke</name>
+		<name normalized="Buzau ili" languages="Turkish">Buzău ili</name>
+		<name normalized="Buzau maakond" languages="Estonian">Buzău maakond</name>
+		<name normalized="Buzau megye" languages="Hungarian">Buzău megye</name>
+		<name normalized="Condado de Buzau" languages="Galician">Condado de Buzău</name>
+		<name normalized="Distretto di Buzau" languages="Italian">Distretto di Buzău</name>
+		<name normalized="District Buzau" languages="Dutch">District Buzău</name>
+		<name normalized="Distrikto Buzau" languages="Esperanto">Distrikto Buzău</name>
+		<name normalized="Județ de Buzau" languages="French">Județ de Buzău</name>
+		<name normalized="Județul Buzau" languages="Romanian">Județul Buzău</name>
+		<name normalized="Kondado han Buzau" languages="Waray">Kondado han Buzău</name>
+		<name normalized="Kreis Buzau" languages="German">Kreis Buzău</name>
+		<name normalized="Okreg Buzau" languages="Polish">Okręg Buzău</name>
+		<name normalized="Propinsi Buzau" languages="Achinese">Propinsi Buzău</name>
+		<name normalized="Provincia de Buzau" languages="Aragonese">Provincia de Buzău</name>
+		<name normalized="Provinsi Buzau" languages="Indonesian">Provinsi Buzău</name>
+		<name normalized="Provincia de Buzau" languages="Catalan">Província de Buzău</name>
+		<name normalized="Wilayah Buzau" languages="Malay">Wilayah Buzău</name>
+		<name normalized="Μπουζαου" languages="Greek">Μπουζάου</name>
+		<name normalized="Buzau" languages="Macedonian;Serbian">Бузау</name>
+		<name normalized="Buziu" languages="Ukrainian">Бузеу</name>
+		<name normalized="Buzъu" languages="Bulgarian">Бузъу</name>
+		<name normalized="Buzeu" languages="Russian;Tajik">Бузэу</name>
+		<name normalized="Viлoiti Buzau" languages="Tajik">Вилояти Бузау</name>
+		<name normalized="bvזאv" languages="Hebrew">בוזאו</name>
+		<name normalized="إqلym bوزאو" languages="Arabic">إقليم بوزاو</name>
+		<name normalized="bوزאؤ" languages="Western Punjabi">بوزاؤ</name>
+		<name normalized="bوزאؤ کאؤنٹی" languages="Western Punjabi">بوزاؤ کاؤنٹی</name>
+		<name normalized="bوزאئو" languages="Persian">بوزائو</name>
+		<name normalized="bوزאو" languages="Arabic">بوزاو</name>
+		<name normalized="bzu県" languages="Japanese">ブザウ県</name>
+		<name normalized="布澤烏" languages="Chinese">布澤烏</name>
+		<name normalized="布澤烏縣" languages="Chinese">布澤烏縣</name>
+		<name normalized="부저우" languages="Korean">부저우</name>
+		<name normalized="부저우 주" languages="Korean">부저우 주</name>
+	</region>
+	<region name="Calarasi" type="county" typeTranslated="judet">
+		<name normalized="Calarasi" languages="English;official">Calarasi</name>
+		<name normalized="Calarasi County" languages="English;official">Calarasi County</name>
+		<name normalized="Calarasi Judet" languages="English;official">Calarasi Judet</name>
+		<name normalized="Condado de Calarasi" languages="Galician">Condado de Călăraşi</name>
+		<name normalized="Calarasi" languages="Achinese;Croatian;Czech;Indonesian;Latin;Malay;Norwegian Nynorsk;Portuguese;Slovak;Walloon">Călăraşi</name>
+		<name normalized="Calarasi fylke" languages="Norwegian Nynorsk">Călăraşi fylke</name>
+		<name normalized="Calarasi" languages="Danish;Dutch;English;Finnish;French;German;Hungarian;Italian;Minangkabau;Norwegian (bokmal);Polish;Romanian;Spanish;Swedish;Turkish">Călărași</name>
+		<name normalized="Calarasi County" languages="English">Călărași County</name>
+		<name normalized="Calarasi ili" languages="Turkish">Călărași ili</name>
+		<name normalized="Calarasi maakond" languages="Estonian">Călărași maakond</name>
+		<name normalized="Calarasi megye" languages="Hungarian">Călărași megye</name>
+		<name normalized="Distretto di Calarasi" languages="Italian">Distretto di Călărași</name>
+		<name normalized="District Calarasi" languages="Dutch">District Călărași</name>
+		<name normalized="Distrikto Calarasi" languages="Esperanto">Distrikto Călărași</name>
+		<name normalized="Județ de Calarasi" languages="French">Județ de Călărași</name>
+		<name normalized="Județul Calarasi" languages="Romanian">Județul Călărași</name>
+		<name normalized="Kelerasio apskritis" languages="Lithuanian">Kelerašio apskritis</name>
+		<name normalized="Kelerasis" languages="Lithuanian">Kelerašis</name>
+		<name normalized="Kondado han Calarasi" languages="Waray">Kondado han Călărași</name>
+		<name normalized="Kreis Calarasi" languages="German">Kreis Călărași</name>
+		<name normalized="Okreg Calarasi" languages="Polish">Okręg Călărași</name>
+		<name normalized="Propinsi Calarasi" languages="Achinese">Propinsi Călăraşi</name>
+		<name normalized="Provincia de Calarasi" languages="Aragonese">Provincia de Călăraşi</name>
+		<name normalized="Provinsi Calarasi" languages="Indonesian">Provinsi Călăraşi</name>
+		<name normalized="Provincia de Calarasi" languages="Catalan">Província de Călăraşi</name>
+		<name normalized="Wilayah Calarasi" languages="Malay">Wilayah Călărași</name>
+		<name normalized="Καλαρασι" languages="Greek">Καλαράσι</name>
+		<name normalized="Viлoiti Kaлaрas" languages="Tajik">Вилояти Калараш</name>
+		<name normalized="Kaлaрas" languages="Macedonian;Serbian">Калараш</name>
+		<name normalized="Kaлaрasi" languages="Serbian">Калараши</name>
+		<name normalized="Kiлiрas" languages="Ukrainian">Келераш</name>
+		<name normalized="Kiлiрasi" languages="Ukrainian">Келераші</name>
+		<name normalized="Kълърas" languages="Bulgarian">Кълъраш</name>
+		<name normalized="Keлeрasi" languages="Russian;Tajik">Кэлэраши</name>
+		<name normalized="kאلאrאش" languages="Arabic">كالاراش</name>
+		<name normalized="کلאrشی" languages="Western Punjabi">کلارشی</name>
+		<name normalized="کلאrشی کאؤنٹی" languages="Western Punjabi">کلارشی کاؤنٹی</name>
+		<name normalized="کلrش" languages="Persian">کلرش</name>
+		<name normalized="คาลาราชี" languages="Thai">คาลาราชี</name>
+		<name normalized="krrs" languages="Japanese">カララシ</name>
+		<name normalized="krrs県" languages="Japanese">カララシ県</name>
+		<name normalized="克勒拉希" languages="Chinese">克勒拉希</name>
+		<name normalized="克勒拉希縣" languages="Chinese">克勒拉希縣</name>
+		<name normalized="컬러라시" languages="Korean">컬러라시</name>
+		<name normalized="컬러라시 주" languages="Korean">컬러라시 주</name>
+	</region>
+	<region name="Caras-Severin" type="county" typeTranslated="judet">
+		<name normalized="Caras-Severin" languages="English;official">Caras-Severin</name>
+		<name normalized="Caras-Severin County" languages="English;official">Caras-Severin County</name>
+		<name normalized="Caras-Severin Judet" languages="English;official">Caras-Severin Judet</name>
+		<name normalized="Caras-Severin" languages="Latin;Portuguese;Walloon">Caraş-Severin</name>
+		<name normalized="Caras-Severin County" languages="Simple English">Caraş-Severin County</name>
+		<name normalized="Caras-Severin fylke" languages="Norwegian Nynorsk">Caraş-Severin fylke</name>
+		<name normalized="Caras-Severin" languages="Czech;Danish;Finnish;Norwegian (bokmal);Spanish;Swedish">Caraș-Severin</name>
+		<name normalized="Caras-Severin County" languages="English">Caraș-Severin County</name>
+		<name normalized="Caras-Severin ili" languages="Turkish">Caraș-Severin ili</name>
+		<name normalized="Caras-Severini maakond" languages="Estonian">Caraș-Severini maakond</name>
+		<name normalized="Condado de Caras-Severin" languages="Galician">Condado de Caraş-Severin</name>
+		<name normalized="Distretto di Caras-Severin" languages="Italian">Distretto di Caraș-Severin</name>
+		<name normalized="District Caras-Severin" languages="Dutch">District Caraș-Severin</name>
+		<name normalized="Distrikto Caras-Severin" languages="Esperanto">Distrikto Caraș-Severin</name>
+		<name normalized="Județ de Caras-Severin" languages="French">Județ de Caraș-Severin</name>
+		<name normalized="Județul Caras-Severin" languages="Romanian">Județul Caraș-Severin</name>
+		<name normalized="Karas-severinska zupanija" languages="Croatian">Karaš-severinska županija</name>
+		<name normalized="Karaso-Severino apskritis" languages="Lithuanian">Karašo-Severino apskritis</name>
+		<name normalized="Kondado han Caras-Severin" languages="Waray">Kondado han Caraș-Severin</name>
+		<name normalized="Krasso-Szoreny megye" languages="Hungarian">Krassó-Szörény megye</name>
+		<name normalized="Krasovsko-severinska zupa" languages="Slovak">Krašovsko-severinská župa</name>
+		<name normalized="Kreis Caras-Severin" languages="German">Kreis Caraș-Severin</name>
+		<name normalized="Okreg Caras-Severin" languages="Polish">Okręg Caraș-Severin</name>
+		<name normalized="Propinsi Caras-Severin" languages="Achinese">Propinsi Caraş-Severin</name>
+		<name normalized="Provincia de Caras-Severin" languages="Aragonese">Provincia de Caraş-Severin</name>
+		<name normalized="Provinsi Caras-Severin" languages="Indonesian">Provinsi Caraş-Severin</name>
+		<name normalized="Provincia de Caras-Severin" languages="Catalan">Província de Caraş-Severin</name>
+		<name normalized="Wilayah Caras-Severin" languages="Malay">Wilayah Caraș-Severin</name>
+		<name normalized="Viлoiti Kaрas-Сiviрiн" languages="Tajik">Вилояти Караш-Северин</name>
+		<name normalized="Kaрas-Сiviрiн" languages="Bulgarian;Macedonian;Russian;Serbian">Караш-Северин</name>
+		<name normalized="Kaрas-Сiviрiн" languages="Ukrainian">Караш-Северін</name>
+		<name normalized="אtلא کאrאش کאؤنٹی" languages="Western Punjabi">اتلا کاراش کاؤنٹی</name>
+		<name normalized="krsy=svern県" languages="Japanese">カラシュ＝セヴェリン県</name>
+		<name normalized="卡拉什-塞維林縣" languages="Chinese">卡拉什-塞維林縣</name>
+		<name normalized="카라슈세베린 주" languages="Korean">카라슈세베린 주</name>
+	</region>
+	<region name="Cluj" type="county" typeTranslated="judet">
+		<name normalized="Claudiopolis" languages="Latin">Claudiopolis</name>
+		<name normalized="Cluj" languages="Croatian;Danish;English;Finnish;Norwegian (bokmal);official;Portuguese;Sicilian;Spanish;Swedish;Turkish;Walloon">Cluj</name>
+		<name normalized="Cluj County" languages="English;official;Simple English">Cluj County</name>
+		<name normalized="Cluj fylke" languages="Norwegian Nynorsk">Cluj fylke</name>
+		<name normalized="Cluj Judet" languages="English;official">Cluj Judet</name>
+		<name normalized="Cluj konderria" languages="Basque">Cluj konderria</name>
+		<name normalized="Cluj-Napoca" languages="Achinese;Aragonese;Aromanian;Banjar;Basque;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Icelandic;Indonesian;Interlingue;Italian;Javanese;Limburgish;Malay;Minangkabau;Norwegian (bokmal);Norwegian Nynorsk;Occitan;Portuguese;Romanian;Scots;Simple English;Spanish;Swedish;Vietnamese;Volapuk;Waray">Cluj-Napoca</name>
+		<name normalized="Cluji maakond" languages="Estonian">Cluji maakond</name>
+		<name normalized="Comtat de Cluj" languages="Occitan">Comtat de Cluj</name>
+		<name normalized="Condado de Cluj" languages="Galician">Condado de Cluj</name>
+		<name normalized="Distretto di Cluj" languages="Italian">Distretto di Cluj</name>
+		<name normalized="District Cluj" languages="Dutch">District Cluj</name>
+		<name normalized="Distrikto Cluj" languages="Esperanto">Distrikto Cluj</name>
+		<name normalized="Județ de Cluj" languages="French">Județ de Cluj</name>
+		<name normalized="Județul Cluj" languages="Romanian">Județul Cluj</name>
+		<name normalized="Kalosvar" languages="Turkish">Kaloşvar</name>
+		<name normalized="Klujo" languages="Esperanto">Kluĵo</name>
+		<name normalized="Kluz-Napoka" languages="Polish">Kluż-Napoka</name>
+		<name normalized="Kluz" languages="Czech;Slovak">Kluž</name>
+		<name normalized="Kluza-Napoka" languages="Latvian">Kluža-Napoka</name>
+		<name normalized="Kluzas-Napoka" languages="Lithuanian">Klužas-Napoka</name>
+		<name normalized="Kluzo apskritis" languages="Lithuanian">Klužo apskritis</name>
+		<name normalized="Kluzska zupa" languages="Slovak">Klužská župa</name>
+		<name normalized="Kolozs megye" languages="Hungarian">Kolozs megye</name>
+		<name normalized="Kolozsvar" languages="Hungarian">Kolozsvár</name>
+		<name normalized="Kondado han Cluj" languages="Waray">Kondado han Cluj</name>
+		<name normalized="Kreis Cluj" languages="German">Kreis Cluj</name>
+		<name normalized="Okreg Kluz" languages="Polish">Okręg Kluż</name>
+		<name normalized="Propinsi Cluj" languages="Achinese">Propinsi Cluj</name>
+		<name normalized="Provincia de Cluj" languages="Aragonese">Provincia de Cluj</name>
+		<name normalized="Provinsi Cluj" languages="Indonesian">Provinsi Cluj</name>
+		<name normalized="Provincia de Cluj" languages="Catalan">Província de Cluj</name>
+		<name normalized="Wilayah Cluj" languages="Malay">Wilayah Cluj</name>
+		<name normalized="Κλουζ-Ναποκα" languages="Greek">Κλουζ-Ναπόκα</name>
+		<name normalized="Viлoiti Kлuz" languages="Tajik">Вилояти Клуж</name>
+		<name normalized="Goрad Kлuz-Нapoka" languages="Belarusian">Горад Клуж-Напока</name>
+		<name normalized="Kлuz" languages="Bulgarian;Macedonian;Russian;Serbian;Ukrainian">Клуж</name>
+		<name normalized="Kлuz-Нapoka" languages="Bulgarian;Chechen;Russian;Serbian;Tajik;Ukrainian">Клуж-Напока</name>
+		<name normalized="Klvyժ-Նաpvkա" languages="Armenian">Կլուժ-Նապոկա</name>
+		<name normalized="מhvז qדvז'" languages="Hebrew">מחוז קלוז'</name>
+		<name normalized="qדvז'-nאpvqh" languages="Hebrew">קלוז'-נאפוקה</name>
+		<name normalized="qדvיזnbvrג" languages="Yiddish">קלויזנבורג</name>
+		<name normalized="kلوj نאbوkא" languages="Arabic">كلوج نابوكا</name>
+		<name normalized="کلوj نאpوکא" languages="Western Punjabi">کلوج ناپوکا</name>
+		<name normalized="کلوj کאؤنٹی" languages="Western Punjabi">کلوج کاؤنٹی</name>
+		<name normalized="کلوj-نאpوکא" languages="Pashto">کلوژ-ناپوکا</name>
+		<name normalized="کلوj-نpوکא" languages="Persian">کلوژ-نپوکا</name>
+		<name normalized="k्luj-nाpokा" languages="Marathi">क्लुज-नापोका</name>
+		<name normalized="คลูช-นาโปกา" languages="Thai">คลูช-นาโปกา</name>
+		<name normalized="კლუჟ-ნაპოკა" languages="Georgian">კლუჟ-ნაპოკა</name>
+		<name normalized="krzy県" languages="Japanese">クルジュ県</name>
+		<name normalized="krzy=npk" languages="Japanese">クルジュ＝ナポカ</name>
+		<name normalized="克卢日-纳波卡" languages="Chinese">克卢日-纳波卡</name>
+		<name normalized="克魯日縣" languages="Chinese">克魯日縣</name>
+		<name normalized="클루지 주" languages="Korean">클루지 주</name>
+		<name normalized="클루지나포카" languages="Korean">클루지나포카</name>
+	</region>
+	<region name="Constanta" type="county" typeTranslated="judet">
+		<name normalized="Condado de Constanta" languages="Galician">Condado de Constanţa</name>
+		<name normalized="Constancia" languages="Aragonese">Constancia</name>
+		<name normalized="Constanta" languages="English;Minangkabau;official">Constanta</name>
+		<name normalized="Constanta County" languages="English;official">Constanta County</name>
+		<name normalized="Constanta Judet" languages="English;official">Constanta Judet</name>
+		<name normalized="Constantia" languages="Latin">Constantia</name>
+		<name normalized="Constantsa" languages="Aromanian">Constantsa</name>
+		<name normalized="Constanza" languages="Spanish">Constanza</name>
+		<name normalized="Constanca" languages="Portuguese">Constança</name>
+		<name normalized="Constanta" languages="Achinese;Afrikaans;Breton;Croatian;Czech;Galician;Icelandic;Ido;Indonesian;Interlingue;Malay;Norwegian Nynorsk;Portuguese;Serbo-Croatian;Sicilian;Simple English;Slovak;Vietnamese;Volapuk;Walloon;Waray">Constanţa</name>
+		<name normalized="Constanta fylke" languages="Norwegian Nynorsk">Constanţa fylke</name>
+		<name normalized="Constanța" languages="Catalan;Danish;Dutch;English;Estonian;Finnish;French;German;Norwegian (bokmal);Romanian;Scots;Spanish;Swedish">Constanța</name>
+		<name normalized="Constanța County" languages="English">Constanța County</name>
+		<name normalized="Constanța maakond" languages="Estonian">Constanța maakond</name>
+		<name normalized="Constanța megye" languages="Hungarian">Constanța megye</name>
+		<name normalized="Costansa" languages="veneto">Costansa</name>
+		<name normalized="Costanza" languages="Italian;lumbaart">Costanza</name>
+		<name normalized="Distretto di Costanza" languages="Italian">Distretto di Costanza</name>
+		<name normalized="District Constanța" languages="Dutch">District Constanța</name>
+		<name normalized="Distrikto Constanța" languages="Esperanto">Distrikto Constanța</name>
+		<name normalized="Județ de Constanța" languages="French">Județ de Constanța</name>
+		<name normalized="Județul Constanța" languages="Romanian">Județul Constanța</name>
+		<name normalized="Kondado han Constanța" languages="Waray">Kondado han Constanța</name>
+		<name normalized="Konstanca" languages="Hungarian;Latvian;Lithuanian;Polish;Slovak">Konstanca</name>
+		<name normalized="Konstanco" languages="Esperanto">Konstanco</name>
+		<name normalized="Konstancos apskritis" languages="Lithuanian">Konstancos apskritis</name>
+		<name normalized="Konstansa" languages="Azerbaijani">Konstansa</name>
+		<name normalized="Konstantza" languages="Basque">Konstantza</name>
+		<name normalized="Kreis Constanța" languages="German">Kreis Constanța</name>
+		<name normalized="Kostence" languages="Turkish">Köstence</name>
+		<name normalized="Kostence ili" languages="Turkish">Köstence ili</name>
+		<name normalized="Okreg Konstanca" languages="Polish">Okręg Konstanca</name>
+		<name normalized="Propinsi Constanta" languages="Achinese">Propinsi Constanţa</name>
+		<name normalized="Provincia de Constanta" languages="Aragonese">Provincia de Constanţa</name>
+		<name normalized="Provinsi Constanta" languages="Indonesian">Provinsi Constanţa</name>
+		<name normalized="Provincia de Constanta" languages="Catalan">Província de Constanţa</name>
+		<name normalized="Wilayah Constanța" languages="Malay">Wilayah Constanța</name>
+		<name normalized="Κωνσταντζα" languages="Greek">Κωνστάντζα</name>
+		<name normalized="Viлoiti Koнсtaнtсa" languages="Tajik">Вилояти Константса</name>
+		<name normalized="Goрad Kaнсtaнta" languages="Belarusian">Горад Канстанца</name>
+		<name normalized="Kaнсtaнta" languages="biлaрuсkai (taрaskivita)‎">Канстанца</name>
+		<name normalized="Koнсtaнtсa" languages="Tajik">Константса</name>
+		<name normalized="Koнсtaнtae" languages="Ossetic">Констанцæ</name>
+		<name normalized="Koнсtaнta" languages="Chechen;Macedonian;Russian;Serbian;Ukrainian">Констанца</name>
+		<name normalized="Kюсtiнdza" languages="Bulgarian">Кюстенджа</name>
+		<name normalized="Kvնstանcա" languages="Armenian">Կոնստանցա</name>
+		<name normalized="qvnסtnצh" languages="Hebrew">קונסטנצה</name>
+		<name normalized="إqلym kونسtאنtسא" languages="Arabic">إقليم كونستانتسا</name>
+		<name normalized="kونسtאنtسא" languages="Arabic">كونستانتسا</name>
+		<name normalized="کونسtאنtسא" languages="Western Punjabi">کونستانتسا</name>
+		<name normalized="کونسtאنtسא کאؤنٹی" languages="Western Punjabi">کونستانتسا کاؤنٹی</name>
+		<name normalized="کونسtאنس" languages="Persian">کونستانس</name>
+		<name normalized="kon्s्tांt्sा" languages="Marathi">कोन्स्तांत्सा</name>
+		<name normalized="คอนสตันซา" languages="Thai">คอนสตันซา</name>
+		<name normalized="კონსტანცა" languages="Georgian">კონსტანცა</name>
+		<name normalized="knstnta" languages="Japanese">コンスタンツァ</name>
+		<name normalized="knstnta県" languages="Japanese">コンスタンツァ県</name>
+		<name normalized="康斯坦察" languages="Chinese">康斯坦察</name>
+		<name normalized="康斯坦察縣" languages="Chinese">康斯坦察縣</name>
+		<name normalized="콘스탄차" languages="Korean">콘스탄차</name>
+		<name normalized="콘스탄차 주" languages="Korean">콘스탄차 주</name>
+	</region>
+	<region name="Covasna" type="county" typeTranslated="judet">
+		<name normalized="Condado de Covasna" languages="Galician">Condado de Covasna</name>
+		<name normalized="Covasna" languages="Basque;Croatian;Czech;Danish;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Italian;Latin;Malay;Minangkabau;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Slovak;Spanish;Swedish;Vietnamese;Walloon">Covasna</name>
+		<name normalized="Covasna County" languages="English;official;Simple English">Covasna County</name>
+		<name normalized="Covasna fylke" languages="Norwegian Nynorsk">Covasna fylke</name>
+		<name normalized="Covasna ili" languages="Turkish">Covasna ili</name>
+		<name normalized="Covasna Judet" languages="English;official">Covasna Judet</name>
+		<name normalized="Covasna maakond" languages="Estonian">Covasna maakond</name>
+		<name normalized="Distretto di Covasna" languages="Italian">Distretto di Covasna</name>
+		<name normalized="District Covasna" languages="Dutch">District Covasna</name>
+		<name normalized="Distrikto Covasna" languages="Esperanto">Distrikto Covasna</name>
+		<name normalized="Județ de Covasna" languages="French">Județ de Covasna</name>
+		<name normalized="Județul Covasna" languages="Romanian">Județul Covasna</name>
+		<name normalized="Kondado han Covasna" languages="Waray">Kondado han Covasna</name>
+		<name normalized="Kovasnos apskritis" languages="Lithuanian">Kovasnos apskritis</name>
+		<name normalized="Kovaszna" languages="Hungarian">Kovászna</name>
+		<name normalized="Kovaszna megye" languages="Hungarian">Kovászna megye</name>
+		<name normalized="Kreis Covasna" languages="German">Kreis Covasna</name>
+		<name normalized="Okreg Covasna" languages="Polish">Okręg Covasna</name>
+		<name normalized="Propinsi Covasna" languages="Achinese">Propinsi Covasna</name>
+		<name normalized="Provincia de Covasna" languages="Aragonese">Provincia de Covasna</name>
+		<name normalized="Provinsi Covasna" languages="Indonesian">Provinsi Covasna</name>
+		<name normalized="Provincia de Covasna" languages="Catalan">Província de Covasna</name>
+		<name normalized="Wilayah Covasna" languages="Malay">Wilayah Covasna</name>
+		<name normalized="Viлoiti Kovaснa" languages="Tajik">Вилояти Ковасна</name>
+		<name normalized="Kovaснa" languages="Bulgarian;Russian;Serbian;Tajik;Ukrainian">Ковасна</name>
+		<name normalized="kوfאسنא" languages="Arabic">كوفاسنا</name>
+		<name normalized="کووאسنא کאؤنٹی" languages="Western Punjabi">کوواسنا کاؤنٹی</name>
+		<name normalized="kvasn県" languages="Japanese">コヴァスナ県</name>
+		<name normalized="科瓦斯納" languages="Chinese">科瓦斯納</name>
+		<name normalized="科瓦斯納縣" languages="Chinese">科瓦斯納縣</name>
+		<name normalized="코바스나 주" languages="Korean">코바스나 주</name>
+	</region>
+	<region name="Dambovita" type="county" typeTranslated="judet">
+		<name normalized="Condado de Dambovita" languages="Galician">Condado de Dâmboviţa</name>
+		<name normalized="Dambovita" languages="English;official">Dambovita</name>
+		<name normalized="Dambovita County" languages="English;official">Dambovita County</name>
+		<name normalized="Dambovita Judet" languages="English;official">Dambovita Judet</name>
+		<name normalized="Dimbovicos apskritis" languages="Lithuanian">Dimbovicos apskritis</name>
+		<name normalized="Distretto di Dambovița" languages="Italian">Distretto di Dâmbovița</name>
+		<name normalized="District Dambovița" languages="Dutch">District Dâmbovița</name>
+		<name normalized="Distrikto Dambovița" languages="Esperanto">Distrikto Dâmbovița</name>
+		<name normalized="Dambovita" languages="Catalan;Croatian;Dutch;Latin;Polish;Portuguese;Slovak;Spanish">Dâmboviţa</name>
+		<name normalized="Dambovita County" languages="Simple English">Dâmboviţa County</name>
+		<name normalized="Dambovita fylke" languages="Norwegian Nynorsk">Dâmboviţa fylke</name>
+		<name normalized="Dambovița" languages="Czech;Danish;English;Finnish;French;German;Norwegian (bokmal);Romanian;Spanish;Swedish;Turkish">Dâmbovița</name>
+		<name normalized="Dambovița County" languages="English">Dâmbovița County</name>
+		<name normalized="Dambovița ili" languages="Turkish">Dâmbovița ili</name>
+		<name normalized="Dambovița maakond" languages="Estonian">Dâmbovița maakond</name>
+		<name normalized="Dambovița megye" languages="Hungarian">Dâmbovița megye</name>
+		<name normalized="Județ de Dambovița" languages="French">Județ de Dâmbovița</name>
+		<name normalized="Județul Dambovița" languages="Romanian">Județul Dâmbovița</name>
+		<name normalized="Kondado han Dambovița" languages="Waray">Kondado han Dâmbovița</name>
+		<name normalized="Kreis Dambovița" languages="German">Kreis Dâmbovița</name>
+		<name normalized="Okreg Dymbowica" languages="Polish">Okręg Dymbowica</name>
+		<name normalized="Propinsi Dambovita" languages="Achinese">Propinsi Dâmboviţa</name>
+		<name normalized="Provincia de Dambovita" languages="Aragonese">Provincia de Dâmboviţa</name>
+		<name normalized="Provinsi Dambovita" languages="Indonesian">Provinsi Dâmboviţa</name>
+		<name normalized="Provincia de Dambovita" languages="Catalan">Província de Dâmboviţa</name>
+		<name normalized="Wilayah Dambovița" languages="Malay">Wilayah Dâmbovița</name>
+		<name normalized="Viлoiti Daмbovitсa" languages="Tajik">Вилояти Дамбовитса</name>
+		<name normalized="Daмbovita" languages="Serbian">Дамбовица</name>
+		<name normalized="Diмbovita" languages="Ukrainian">Димбовіца</name>
+		<name normalized="Dъмbovita" languages="Bulgarian">Дъмбовица</name>
+		<name normalized="Dымbovita" languages="Russian">Дымбовица</name>
+		<name normalized="מhvז דמbvbיצh" languages="Hebrew">מחוז דמבוביצה</name>
+		<name normalized="دאmbوویtسא کאؤنٹی" languages="Western Punjabi">دامبوویتسا کاؤنٹی</name>
+		<name normalized="dunbvita県" languages="Japanese">ドゥンボヴィツァ県</name>
+		<name normalized="登博維察縣" languages="Chinese">登博維察縣</name>
+		<name normalized="듬보비차 주" languages="Korean">듬보비차 주</name>
+	</region>
+	<region name="Dolj" type="county" typeTranslated="judet">
+		<name normalized="Condado de Dolj" languages="Galician">Condado de Dolj</name>
+		<name normalized="Distretto di Dolj" languages="Italian">Distretto di Dolj</name>
+		<name normalized="District Dolj" languages="Dutch">District Dolj</name>
+		<name normalized="Distrikto Dolj" languages="Esperanto">Distrikto Dolj</name>
+		<name normalized="Dolj" languages="Croatian;Czech;Danish;English;Finnish;Latin;Norwegian (bokmal);official;Portuguese;Slovak;Spanish;Swedish">Dolj</name>
+		<name normalized="Dolj Coonty" languages="Scots">Dolj Coonty</name>
+		<name normalized="Dolj County" languages="English;official;Simple English">Dolj County</name>
+		<name normalized="Dolj fylke" languages="Norwegian Nynorsk">Dolj fylke</name>
+		<name normalized="Dolj ili" languages="Turkish">Dolj ili</name>
+		<name normalized="Dolj Judet" languages="English;official">Dolj Judet</name>
+		<name normalized="Dolj megye" languages="Hungarian">Dolj megye</name>
+		<name normalized="Dolji maakond" languages="Estonian">Dolji maakond</name>
+		<name normalized="Dolzo apskritis" languages="Lithuanian">Dolžo apskritis</name>
+		<name normalized="Județ de Dolj" languages="French">Județ de Dolj</name>
+		<name normalized="Județul Dolj" languages="Romanian">Județul Dolj</name>
+		<name normalized="Kondado han Dolj" languages="Waray">Kondado han Dolj</name>
+		<name normalized="Kreis Dolj" languages="German">Kreis Dolj</name>
+		<name normalized="Okreg Dolj" languages="Polish">Okręg Dolj</name>
+		<name normalized="Propinsi Dolj" languages="Achinese">Propinsi Dolj</name>
+		<name normalized="Provincia de Dolj" languages="Aragonese">Provincia de Dolj</name>
+		<name normalized="Provinsi Dolj" languages="Indonesian">Provinsi Dolj</name>
+		<name normalized="Provincia de Dolj" languages="Catalan">Província de Dolj</name>
+		<name normalized="Wilayah Dolj" languages="Malay">Wilayah Dolj</name>
+		<name normalized="Viлoiti Doлz" languages="Tajik">Вилояти Долж</name>
+		<name normalized="Doлz" languages="Bulgarian;Russian;Serbian;Ukrainian">Долж</name>
+		<name normalized="מhvז דvדז'" languages="Hebrew">מחוז דולז'</name>
+		<name normalized="دولچ کאؤنٹی" languages="Western Punjabi">دولچ کاؤنٹی</name>
+		<name normalized="drzy県" languages="Japanese">ドルジュ県</name>
+		<name normalized="多爾日縣" languages="Chinese">多爾日縣</name>
+		<name normalized="돌지 주" languages="Korean">돌지 주</name>
+	</region>
+	<region name="Galati" type="county" typeTranslated="judet">
+		<name normalized="Condado de Galati" languages="Galician">Condado de Galaţi</name>
+		<name normalized="Distretto di Galați" languages="Italian">Distretto di Galați</name>
+		<name normalized="District Galați" languages="Dutch">District Galați</name>
+		<name normalized="Distrikto Galați" languages="Esperanto">Distrikto Galați</name>
+		<name normalized="Galacio apskritis" languages="Lithuanian">Galacio apskritis</name>
+		<name normalized="Galacis" languages="Lithuanian">Galacis</name>
+		<name normalized="Galati" languages="English;Minangkabau;official">Galati</name>
+		<name normalized="Galati County" languages="English;official">Galati County</name>
+		<name normalized="Galati Judet" languages="English;official">Galati Judet</name>
+		<name normalized="Galatsi" languages="Aromanian">Galatsi</name>
+		<name normalized="Galati" languages="Achinese;Albanian;Croatian;Czech;Danish;Icelandic;Indonesian;Ladino;Latin;lumbaart;Malay;Norwegian Nynorsk;Portuguese;Simple English;Slovak;Vietnamese;Volapuk;Waray">Galaţi</name>
+		<name normalized="Galati fylke" languages="Norwegian Nynorsk">Galaţi fylke</name>
+		<name normalized="Galați" languages="Basque;Catalan;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Hungarian;Italian;Norwegian (bokmal);Romanian;Spanish;Swedish;Turkish">Galați</name>
+		<name normalized="Galați County" languages="English">Galați County</name>
+		<name normalized="Galați ili" languages="Turkish">Galați ili</name>
+		<name normalized="Galați maakond" languages="Estonian">Galați maakond</name>
+		<name normalized="Galați megye" languages="Hungarian">Galați megye</name>
+		<name normalized="Galacz" languages="Polish">Gałacz</name>
+		<name normalized="Județ de Galați" languages="French">Județ de Galați</name>
+		<name normalized="Județul Galați" languages="Romanian">Județul Galați</name>
+		<name normalized="Kondado han Galati" languages="Waray">Kondado han Galaţi</name>
+		<name normalized="Kreis Galați" languages="German">Kreis Galați</name>
+		<name normalized="Okreg Galacz" languages="Polish">Okręg Gałacz</name>
+		<name normalized="Propinsi Galati" languages="Achinese">Propinsi Galaţi</name>
+		<name normalized="Provincia de Galati" languages="Aragonese">Provincia de Galaţi</name>
+		<name normalized="Provinsi Galati" languages="Indonesian">Provinsi Galaţi</name>
+		<name normalized="Provincia de Galati" languages="Catalan">Província de Galaţi</name>
+		<name normalized="Wilayah Galati" languages="Malay">Wilayah Galaţi</name>
+		<name normalized="Γκαλατσι" languages="Greek">Γκαλάτσι</name>
+		<name normalized="Viлoiti Gaлatс" languages="Tajik">Вилояти Галатс</name>
+		<name normalized="Gaлatс" languages="Tajik">Галатс</name>
+		<name normalized="Gaлat" languages="Bulgarian;Chechen;Russian;Serbian;Ukrainian">Галац</name>
+		<name normalized="גאדאץ" languages="Hebrew">גאלאץ</name>
+		<name normalized="מhvז גאדאץ" languages="Hebrew">מחוז גאלאץ</name>
+		<name normalized="إqلym غאلאtس" languages="Arabic">إقليم غالاتس</name>
+		<name normalized="غאلאtس" languages="Arabic">غالاتس</name>
+		<name normalized="gאلאtسی" languages="Persian">گالاتسی</name>
+		<name normalized="gאلאtسی کאؤنٹی" languages="Western Punjabi">گالاتسی کاؤنٹی</name>
+		<name normalized="gلאtسی" languages="Western Punjabi">گلاتسی</name>
+		<name normalized="grti" languages="Japanese">ガラツィ</name>
+		<name normalized="grti県" languages="Japanese">ガラツィ県</name>
+		<name normalized="加拉茨" languages="Chinese">加拉茨</name>
+		<name normalized="加拉茨縣" languages="Chinese">加拉茨縣</name>
+		<name normalized="갈라치" languages="Korean">갈라치</name>
+		<name normalized="갈라치 주" languages="Korean">갈라치 주</name>
+	</region>
+	<region name="Giurgiu" type="county" typeTranslated="judet">
+		<name normalized="Condado de Giurgiu" languages="Galician">Condado de Giurgiu</name>
+		<name normalized="Distretto di Giurgiu" languages="Italian">Distretto di Giurgiu</name>
+		<name normalized="District Giurgiu" languages="Dutch">District Giurgiu</name>
+		<name normalized="Distrikto Giurgiu" languages="Esperanto">Distrikto Giurgiu</name>
+		<name normalized="Dzurdzu" languages="Lithuanian">Džurdžu</name>
+		<name normalized="Dzurdzu apskritis" languages="Lithuanian">Džurdžu apskritis</name>
+		<name normalized="Giurgiu" languages="Achinese;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Indonesian;Italian;Latin;Malay;Minangkabau;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Slovak;Spanish;Swedish;Vietnamese">Giurgiu</name>
+		<name normalized="Giurgiu County" languages="English;official">Giurgiu County</name>
+		<name normalized="Giurgiu fylke" languages="Norwegian Nynorsk">Giurgiu fylke</name>
+		<name normalized="Giurgiu Judet" languages="English;official">Giurgiu Judet</name>
+		<name normalized="Giurgiu maakond" languages="Estonian">Giurgiu maakond</name>
+		<name normalized="Giurgiu megye" languages="Hungarian">Giurgiu megye</name>
+		<name normalized="Gyurgyevo" languages="Hungarian">Gyurgyevó</name>
+		<name normalized="Județ de Giurgiu" languages="French">Județ de Giurgiu</name>
+		<name normalized="Județul Giurgiu" languages="Romanian">Județul Giurgiu</name>
+		<name normalized="Kondado han Giurgiu" languages="Waray">Kondado han Giurgiu</name>
+		<name normalized="Kreis Giurgiu" languages="German">Kreis Giurgiu</name>
+		<name normalized="Okreg Giurgiu" languages="Polish">Okręg Giurgiu</name>
+		<name normalized="Propinsi Giurgiu" languages="Achinese">Propinsi Giurgiu</name>
+		<name normalized="Provincia de Giurgiu" languages="Aragonese">Provincia de Giurgiu</name>
+		<name normalized="Provinsi Giurgiu" languages="Indonesian">Provinsi Giurgiu</name>
+		<name normalized="Provincia de Giurgiu" languages="Catalan">Província de Giurgiu</name>
+		<name normalized="Wilayah Giurgiu" languages="Malay">Wilayah Giurgiu</name>
+		<name normalized="Yergogu" languages="Turkish">Yergöğü</name>
+		<name normalized="Yergogu ili" languages="Turkish">Yergöğü ili</name>
+		<name normalized="Τζιοuρτζιου" languages="Greek">Τζιούρτζιου</name>
+		<name normalized="Viлoiti Cюрcю" languages="Tajik">Вилояти Ҷюрҷю</name>
+		<name normalized="Gюрgivo" languages="Bulgarian">Гюргево</name>
+		<name normalized="Dzuрdzu" languages="Russian;Ukrainian">Джурджу</name>
+		<name normalized="Duрdu" languages="Serbian">Ђурђу</name>
+		<name normalized="Cuрcu" languages="Tajik">Ҷурҷу</name>
+		<name normalized="ג'יvrג'יv" languages="Hebrew">ג'יורג'יו</name>
+		<name normalized="jوrjو" languages="Western Punjabi">جورجو</name>
+		<name normalized="jوrjو کאؤنٹی" languages="Western Punjabi">جورجو کاؤنٹی</name>
+		<name normalized="jوrjyو" languages="Arabic">جورجيو</name>
+		<name normalized="jوrjی" languages="Persian">جورجی</name>
+		<name normalized="ჯურჯუ" languages="Georgian">ჯურჯუ</name>
+		<name normalized="zyrzy" languages="Japanese">ジュルジュ</name>
+		<name normalized="zyrzy県" languages="Japanese">ジュルジュ県</name>
+		<name normalized="久爾久" languages="Chinese">久爾久</name>
+		<name normalized="久爾久縣" languages="Chinese">久爾久縣</name>
+		<name normalized="지우르지우" languages="Korean">지우르지우</name>
+		<name normalized="지우르지우 주" languages="Korean">지우르지우 주</name>
+	</region>
+	<region name="Gorj" type="county" typeTranslated="judet">
+		<name normalized="Condado de Gorj" languages="Galician">Condado de Gorj</name>
+		<name normalized="Distretto di Gorj" languages="Italian">Distretto di Gorj</name>
+		<name normalized="District Gorj" languages="Dutch">District Gorj</name>
+		<name normalized="Distrikto Gorj" languages="Esperanto">Distrikto Gorj</name>
+		<name normalized="Gorj" languages="Croatian;Czech;Danish;English;Finnish;Latin;Norwegian (bokmal);official;Portuguese;Slovak;Spanish;Swedish;Walloon">Gorj</name>
+		<name normalized="Gorj County" languages="English;official;Simple English">Gorj County</name>
+		<name normalized="Gorj fylke" languages="Norwegian Nynorsk">Gorj fylke</name>
+		<name normalized="Gorj ili" languages="Turkish">Gorj ili</name>
+		<name normalized="Gorj Judet" languages="English;official">Gorj Judet</name>
+		<name normalized="Gorj megye" languages="Hungarian">Gorj megye</name>
+		<name normalized="Gorji maakond" languages="Estonian">Gorji maakond</name>
+		<name normalized="Gorzo apskritis" languages="Lithuanian">Goržo apskritis</name>
+		<name normalized="Județ de Gorj" languages="French">Județ de Gorj</name>
+		<name normalized="Județul Gorj" languages="Romanian">Județul Gorj</name>
+		<name normalized="Kondado han Gorj" languages="Waray">Kondado han Gorj</name>
+		<name normalized="Kreis Gorj" languages="German">Kreis Gorj</name>
+		<name normalized="Okreg Gorj" languages="Polish">Okręg Gorj</name>
+		<name normalized="Propinsi Gorj" languages="Achinese">Propinsi Gorj</name>
+		<name normalized="Provincia de Gorj" languages="Aragonese">Provincia de Gorj</name>
+		<name normalized="Provinsi Gorj" languages="Indonesian">Provinsi Gorj</name>
+		<name normalized="Provincia de Gorj" languages="Catalan">Província de Gorj</name>
+		<name normalized="Wilayah Gorj" languages="Malay">Wilayah Gorj</name>
+		<name normalized="Viлoiti Goрz" languages="Tajik">Вилояти Горж</name>
+		<name normalized="Goрz" languages="Bulgarian;Russian;Serbian;Ukrainian">Горж</name>
+		<name normalized="מhvז גvrז'" languages="Hebrew">מחוז גורז'</name>
+		<name normalized="gوrچ کאؤنٹی" languages="Western Punjabi">گورچ کاؤنٹی</name>
+		<name normalized="grzy県" languages="Japanese">ゴルジュ県</name>
+		<name normalized="戈爾日縣" languages="Chinese">戈爾日縣</name>
+		<name normalized="고르지 주" languages="Korean">고르지 주</name>
+	</region>
+	<region name="Harghita" type="county" typeTranslated="judet">
+		<name normalized="Condado de Harghita" languages="Galician">Condado de Harghita</name>
+		<name normalized="Distretto di Harghita" languages="Italian">Distretto di Harghita</name>
+		<name normalized="District Harghita" languages="Dutch">District Harghita</name>
+		<name normalized="Distrikto Harghita" languages="Esperanto">Distrikto Harghita</name>
+		<name normalized="Harghita" languages="Croatian;Czech;Danish;English;Finnish;Latin;Norwegian (bokmal);official;Portuguese;Slovak;Spanish;Swedish">Harghita</name>
+		<name normalized="Harghita County" languages="English;official;Simple English">Harghita County</name>
+		<name normalized="Harghita fylke" languages="Norwegian Nynorsk">Harghita fylke</name>
+		<name normalized="Harghita ili" languages="Turkish">Harghita ili</name>
+		<name normalized="Harghita Judet" languages="English;official">Harghita Judet</name>
+		<name normalized="Harghita maakond" languages="Estonian">Harghita maakond</name>
+		<name normalized="Hargita megye" languages="Hungarian">Hargita megye</name>
+		<name normalized="Hargitos apskritis" languages="Lithuanian">Hargitos apskritis</name>
+		<name normalized="Județ de Harghita" languages="French">Județ de Harghita</name>
+		<name normalized="Județul Harghita" languages="Romanian">Județul Harghita</name>
+		<name normalized="Kondado han Harghita" languages="Waray">Kondado han Harghita</name>
+		<name normalized="Kreis Harghita" languages="German">Kreis Harghita</name>
+		<name normalized="Okreg Harghita" languages="Polish">Okręg Harghita</name>
+		<name normalized="Propinsi Harghita" languages="Achinese">Propinsi Harghita</name>
+		<name normalized="Provincia de Harghita" languages="Aragonese">Provincia de Harghita</name>
+		<name normalized="Provinsi Harghita" languages="Indonesian">Provinsi Harghita</name>
+		<name normalized="Provincia de Harghita" languages="Catalan">Província de Harghita</name>
+		<name normalized="Wilayah Harghita" languages="Malay">Wilayah Harghita</name>
+		<name normalized="Viлoiti Haрғita" languages="Tajik">Вилояти Ҳарғита</name>
+		<name normalized="Kaрgita" languages="Bulgarian;Russian;Serbian">Харгита</name>
+		<name normalized="Kaрgita" languages="Ukrainian">Харгіта</name>
+		<name normalized="ہrgیtא کאؤنٹی" languages="Western Punjabi">ہرگیتا کاؤنٹی</name>
+		<name normalized="hrgt県" languages="Japanese">ハルギタ県</name>
+		<name normalized="哈爾吉塔縣" languages="Chinese">哈爾吉塔縣</name>
+		<name normalized="하르기타 주" languages="Korean">하르기타 주</name>
+	</region>
+	<region name="Hunedoara" type="county" typeTranslated="judet">
+		<name normalized="Condado de Hunedoara" languages="Galician">Condado de Hunedoara</name>
+		<name normalized="Distretto di Hunedoara" languages="Italian">Distretto di Hunedoara</name>
+		<name normalized="District Hunedoara" languages="Dutch">District Hunedoara</name>
+		<name normalized="Distrikto Hunedoara" languages="Esperanto">Distrikto Hunedoara</name>
+		<name normalized="Hunedoara" languages="Achinese;Banjar;Croatian;Czech;Danish;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Italian;Latin;Lithuanian;Malay;Minangkabau;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Slovak;Spanish;Swedish;Vietnamese">Hunedoara</name>
+		<name normalized="Hunedoara County" languages="English;official;Simple English">Hunedoara County</name>
+		<name normalized="Hunedoara fylke" languages="Norwegian Nynorsk">Hunedoara fylke</name>
+		<name normalized="Hunedoara ili" languages="Turkish">Hunedoara ili</name>
+		<name normalized="Hunedoara Judet" languages="English;official">Hunedoara Judet</name>
+		<name normalized="Hunedoara maakond" languages="Estonian">Hunedoara maakond</name>
+		<name normalized="Hunedoaros apskritis" languages="Lithuanian">Hunedoaros apskritis</name>
+		<name normalized="Hunnopolis" languages="Latin">Hunnopolis</name>
+		<name normalized="Hunyad megye" languages="Hungarian">Hunyad megye</name>
+		<name normalized="Județ de Hunedoara" languages="French">Județ de Hunedoara</name>
+		<name normalized="Județul Hunedoara" languages="Romanian">Județul Hunedoara</name>
+		<name normalized="Kondado han Hunedoara" languages="Waray">Kondado han Hunedoara</name>
+		<name normalized="Kreis Hunedoara" languages="German">Kreis Hunedoara</name>
+		<name normalized="Okreg Hunedoara" languages="Polish">Okręg Hunedoara</name>
+		<name normalized="Propinsi Hunedoara" languages="Achinese">Propinsi Hunedoara</name>
+		<name normalized="Provincia de Hunedoara" languages="Aragonese">Provincia de Hunedoara</name>
+		<name normalized="Provinsi Hunedoara" languages="Indonesian">Provinsi Hunedoara</name>
+		<name normalized="Provincia de Hunedoara" languages="Catalan">Província de Hunedoara</name>
+		<name normalized="Qarku Hunedoara" languages="Albanian">Qarku Hunedoara</name>
+		<name normalized="Vajdahunyad" languages="Hungarian">Vajdahunyad</name>
+		<name normalized="Wilayah Hunedoara" languages="Malay">Wilayah Hunedoara</name>
+		<name normalized="Χουνεντοαρα" languages="Greek">Χουνεντοάρα</name>
+		<name normalized="Viлoiti Huнaduaрa" languages="Tajik">Вилояти Ҳунадуара</name>
+		<name normalized="Kuнidoaрa" languages="Bulgarian;Russian;Serbian;Tajik;Ukrainian">Хунедоара</name>
+		<name normalized="hvnדvאrh" languages="Hebrew">חונדוארה</name>
+		<name normalized="hوندوئאrא" languages="Persian">هوندوئارا</name>
+		<name normalized="hونyدوאrא" languages="Arabic">هونيدوارا</name>
+		<name normalized="ہنیدوאrא کאؤنٹی" languages="Western Punjabi">ہنیدوارا کاؤنٹی</name>
+		<name normalized="hndar" languages="Japanese">フネドアラ</name>
+		<name normalized="hndar県" languages="Japanese">フネドアラ県</name>
+		<name normalized="胡內多阿拉" languages="Chinese">胡內多阿拉</name>
+		<name normalized="胡內多阿拉縣" languages="Chinese">胡內多阿拉縣</name>
+		<name normalized="후네도아라" languages="Korean">후네도아라</name>
+		<name normalized="후네도아라 주" languages="Korean">후네도아라 주</name>
+	</region>
+	<region name="Ialomita" type="county" typeTranslated="judet">
+		<name normalized="Condado de Ialomita" languages="Galician">Condado de Ialomiţa</name>
+		<name normalized="Distretto di Ialomița" languages="Italian">Distretto di Ialomița</name>
+		<name normalized="District Ialomița" languages="Dutch">District Ialomița</name>
+		<name normalized="Distrikto Ialomița" languages="Esperanto">Distrikto Ialomița</name>
+		<name normalized="Ialomita" languages="English;official">Ialomita</name>
+		<name normalized="Ialomita County" languages="English;official">Ialomita County</name>
+		<name normalized="Ialomita Judet" languages="English;official">Ialomita Judet</name>
+		<name normalized="Ialomita" languages="Croatian;Dutch;Latin;Norwegian (bokmal);Portuguese;Slovak">Ialomiţa</name>
+		<name normalized="Ialomita fylke" languages="Norwegian Nynorsk">Ialomiţa fylke</name>
+		<name normalized="Ialomița" languages="Czech;Danish;English;Finnish;German;Romanian;Spanish;Swedish;Turkish">Ialomița</name>
+		<name normalized="Ialomița County" languages="English">Ialomița County</name>
+		<name normalized="Ialomița ili" languages="Turkish">Ialomița ili</name>
+		<name normalized="Ialomița maakond" languages="Estonian">Ialomița maakond</name>
+		<name normalized="Ialomița megye" languages="Hungarian">Ialomița megye</name>
+		<name normalized="Jalomicos apskritis" languages="Lithuanian">Jalomicos apskritis</name>
+		<name normalized="Județ de Ialomița" languages="French">Județ de Ialomița</name>
+		<name normalized="Județul Ialomița" languages="Romanian">Județul Ialomița</name>
+		<name normalized="Kondado han Ialomița" languages="Waray">Kondado han Ialomița</name>
+		<name normalized="Kreis Ialomița" languages="German">Kreis Ialomița</name>
+		<name normalized="Okreg Jalomica" languages="Polish">Okręg Jałomica</name>
+		<name normalized="Propinsi Ialomita" languages="Achinese">Propinsi Ialomiţa</name>
+		<name normalized="Provincia d'Ialomita" languages="Aragonese">Provincia d'Ialomiţa</name>
+		<name normalized="Provinsi Ialomita" languages="Indonesian">Provinsi Ialomiţa</name>
+		<name normalized="Provincia de Ialomita" languages="Catalan">Província de Ialomiţa</name>
+		<name normalized="Wilayah Ialomița" languages="Malay">Wilayah Ialomița</name>
+		<name normalized="Viлoiti Ялoмitсa" languages="Tajik">Вилояти Яломитса</name>
+		<name normalized="Ялoмita" languages="Bulgarian;Russian">Яломица</name>
+		<name normalized="Ялoмita" languages="Ukrainian">Яломіца</name>
+		<name normalized="Jaлoмita" languages="Serbian">Јаломица</name>
+		<name normalized="אیאلوmtسא کאؤنٹی" languages="Western Punjabi">ایالومتسا کاؤنٹی</name>
+		<name normalized="yrmta県" languages="Japanese">ヤロミツァ県</name>
+		<name normalized="雅洛米察縣" languages="Chinese">雅洛米察縣</name>
+		<name normalized="이알로미차 주" languages="Korean">이알로미차 주</name>
+	</region>
+	<region name="Iasi" type="county" typeTranslated="judet">
+		<name normalized="Condado de Iasi" languages="Galician">Condado de Iaşi</name>
+		<name normalized="Distretto di Iasi" languages="Italian">Distretto di Iași</name>
+		<name normalized="District Iasi" languages="Dutch">District Iași</name>
+		<name normalized="Distrikto Iasi" languages="Esperanto">Distrikto Iași</name>
+		<name normalized="Iasi" languages="English;official">Iasi</name>
+		<name normalized="Iasi County" languages="English;official">Iasi County</name>
+		<name normalized="Iasi Judet" languages="English;official">Iasi Judet</name>
+		<name normalized="Iassium" languages="Latin">Iassium</name>
+		<name normalized="Iasi" languages="Achinese;Albanian;Banjar;Basque;Croatian;Czech;Galician;Icelandic;Indonesian;Interlingue;Irish;Javanese;Ladino;Norwegian Nynorsk;Portuguese;Scots;Serbo-Croatian;Sicilian;Simple English;Slovak;Vietnamese;Volapuk;Walloon;Waray">Iaşi</name>
+		<name normalized="Iasi County" languages="Simple English">Iaşi County</name>
+		<name normalized="Iasi fylke" languages="Norwegian Nynorsk">Iaşi fylke</name>
+		<name normalized="Iasi" languages="Catalan;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Italian;Malay;Minangkabau;Norwegian (bokmal);Romanian;Spanish;Swedish">Iași</name>
+		<name normalized="Iasi County" languages="English">Iași County</name>
+		<name normalized="Iasi maakond" languages="Estonian">Iași maakond</name>
+		<name normalized="Iasi megye" languages="Hungarian">Iași megye</name>
+		<name normalized="Jasai" languages="Lithuanian">Jasai</name>
+		<name normalized="Jasi" languages="Latvian">Jasi</name>
+		<name normalized="Jassy" languages="Polish">Jassy</name>
+		<name normalized="Jasy" languages="Czech;Slovak">Jasy</name>
+		<name normalized="Jasu apskritis" languages="Lithuanian">Jasų apskritis</name>
+		<name normalized="Județ de Iasi" languages="French">Județ de Iași</name>
+		<name normalized="Județul Iasi" languages="Romanian">Județul Iași</name>
+		<name normalized="Jaszvasar" languages="Hungarian">Jászvásár</name>
+		<name normalized="Kondado han Iasi" languages="Waray">Kondado han Iași</name>
+		<name normalized="Kreis Iasi" languages="German">Kreis Iași</name>
+		<name normalized="Okreg Jassy" languages="Polish">Okręg Jassy</name>
+		<name normalized="Propinsi Iasi" languages="Achinese">Propinsi Iaşi</name>
+		<name normalized="Provincia de Iasi" languages="Aragonese">Provincia de Iaşi</name>
+		<name normalized="Provinsi Iasi" languages="Indonesian">Provinsi Iaşi</name>
+		<name normalized="Provincia de Iasi" languages="Catalan">Província de Iași</name>
+		<name normalized="Wilayah Iasi" languages="Malay">Wilayah Iași</name>
+		<name normalized="Yashi" languages="Romani">Yashi</name>
+		<name normalized="Yas" languages="Turkish">Yaş</name>
+		<name normalized="Yas ili" languages="Turkish">Yaş ili</name>
+		<name normalized="Zhudetso Yashi" languages="Romani">Zhudetso Yashi</name>
+		<name normalized="Ιασιο" languages="Greek">Ιάσιο</name>
+		<name normalized="Viлoiti Яs" languages="Tajik">Вилояти Яш</name>
+		<name normalized="Goрad Ясы" languages="Belarusian">Горад Ясы</name>
+		<name normalized="Яссi" languages="Ukrainian">Ясси</name>
+		<name normalized="Яссы" languages="Chechen;Russian">Яссы</name>
+		<name normalized="Ясы" languages="biлaрuсkai (taрaskivita)‎">Ясы</name>
+		<name normalized="Яs" languages="Bulgarian;Tajik">Яш</name>
+		<name normalized="Jasi" languages="Serbian">Јаши</name>
+		<name normalized="Յաsի" languages="Armenian">Յասի</name>
+		<name normalized="יאס" languages="Yiddish">יאס</name>
+		<name normalized="יאשי" languages="Hebrew">יאשי</name>
+		<name normalized="מhvז יאשי" languages="Hebrew">מחוז יאשי</name>
+		<name normalized="إqلym yאش" languages="Arabic">إقليم ياش</name>
+		<name normalized="אیאشی" languages="Western Punjabi">ایاشی</name>
+		<name normalized="אیאشی کאؤنٹی" languages="Western Punjabi">ایاشی کاؤنٹی</name>
+		<name normalized="yאش" languages="Arabic">ياش</name>
+		<name normalized="یאش" languages="Persian">یاش</name>
+		<name normalized="yाs" languages="Marathi">याश</name>
+		<name normalized="ยาช" languages="Thai">ยาช</name>
+		<name normalized="იასი" languages="Georgian">იასი</name>
+		<name normalized="ys" languages="Japanese">ヤシ</name>
+		<name normalized="ys県" languages="Japanese">ヤシ県</name>
+		<name normalized="雅西" languages="Chinese">雅西</name>
+		<name normalized="雅西縣" languages="Chinese">雅西縣</name>
+		<name normalized="이아시" languages="Korean">이아시</name>
+		<name normalized="이아시 주" languages="Korean">이아시 주</name>
+	</region>
+	<region name="Ilfov" type="county" typeTranslated="judet">
+		<name normalized="Condado de Ilfov" languages="Galician">Condado de Ilfov</name>
+		<name normalized="Distretto di Ilfov" languages="Italian">Distretto di Ilfov</name>
+		<name normalized="District Ilfov" languages="Dutch">District Ilfov</name>
+		<name normalized="Distrikto Ilfov" languages="Esperanto">Distrikto Ilfov</name>
+		<name normalized="Ilfov" languages="Croatian;Czech;Danish;English;Finnish;Ladino;Latin;Norwegian (bokmal);official;Portuguese;Slovak;Spanish;Swedish;Walloon">Ilfov</name>
+		<name normalized="Ilfov County" languages="English;official">Ilfov County</name>
+		<name normalized="Ilfov fylke" languages="Norwegian Nynorsk">Ilfov fylke</name>
+		<name normalized="Ilfov ili" languages="Turkish">Ilfov ili</name>
+		<name normalized="Ilfov Judet" languages="English;official">Ilfov Judet</name>
+		<name normalized="Ilfov megye" languages="Hungarian">Ilfov megye</name>
+		<name normalized="Ilfovi maakond" languages="Estonian">Ilfovi maakond</name>
+		<name normalized="Ilfovo apskritis" languages="Lithuanian">Ilfovo apskritis</name>
+		<name normalized="Județ d'Ilfov" languages="French">Județ d'Ilfov</name>
+		<name normalized="Județul Ilfov" languages="Romanian">Județul Ilfov</name>
+		<name normalized="Kondado han Ilfov" languages="Waray">Kondado han Ilfov</name>
+		<name normalized="Kreis Ilfov" languages="German">Kreis Ilfov</name>
+		<name normalized="Okreg Ilfov" languages="Polish">Okręg Ilfov</name>
+		<name normalized="Propinsi Ilfov" languages="Achinese">Propinsi Ilfov</name>
+		<name normalized="Provincia d'Ilfov" languages="Aragonese">Provincia d'Ilfov</name>
+		<name normalized="Provinsi Ilfov" languages="Indonesian">Provinsi Ilfov</name>
+		<name normalized="Provincia d'Ilfov" languages="Catalan">Província d'Ilfov</name>
+		<name normalized="Wilayah Ilfov" languages="Malay">Wilayah Ilfov</name>
+		<name normalized="Viлoiti Iлфov" languages="Tajik">Вилояти Илфов</name>
+		<name normalized="Iлфov" languages="Bulgarian;Russian;Serbian">Илфов</name>
+		<name normalized="Iлфov" languages="Ukrainian">Ілфов</name>
+		<name normalized="אلfوf کאؤنٹی" languages="Western Punjabi">الفوف کاؤنٹی</name>
+		<name normalized="irhov県" languages="Japanese">イルフォヴ県</name>
+		<name normalized="伊爾福夫縣" languages="Chinese">伊爾福夫縣</name>
+		<name normalized="일포브 주" languages="Korean">일포브 주</name>
+	</region>
+	<region name="Maramures" type="county" typeTranslated="judet">
+		<name normalized="Condado de Maramures" languages="Galician">Condado de Maramureş</name>
+		<name normalized="Distretto di Maramures" languages="Italian">Distretto di Maramureș</name>
+		<name normalized="District Maramures" languages="Dutch">District Maramureș</name>
+		<name normalized="Distrikto Maramures" languages="Esperanto">Distrikto Maramureș</name>
+		<name normalized="Județ de Maramures" languages="French">Județ de Maramureș</name>
+		<name normalized="Județul Maramures" languages="Romanian">Județul Maramureș</name>
+		<name normalized="Komitat Maramaros" languages="German">Komitat Máramaros</name>
+		<name normalized="Kondado han Maramures" languages="Waray">Kondado han Maramureș</name>
+		<name normalized="Kreis Maramures" languages="German">Kreis Maramureș</name>
+		<name normalized="Maramures" languages="English;official">Maramures</name>
+		<name normalized="Maramures County" languages="English;official">Maramures County</name>
+		<name normalized="Maramures Judet" languages="English;official">Maramures Judet</name>
+		<name normalized="Maramureso" languages="Esperanto">Maramureŝo</name>
+		<name normalized="Maramures" languages="Croatian;Danish;Dutch;Galician;Indonesian;Italian;Latin;Portuguese;Spanish">Maramureş</name>
+		<name normalized="Maramures County" languages="Simple English">Maramureş County</name>
+		<name normalized="Maramures fylke" languages="Norwegian Nynorsk">Maramureş fylke</name>
+		<name normalized="Maramures" languages="Croatian">Maramureš</name>
+		<name normalized="Maramureso apskritis" languages="Lithuanian">Maramurešo apskritis</name>
+		<name normalized="Maramures" languages="Czech;Danish;English;Finnish;Norwegian (bokmal);Portuguese;Romanian;Spanish;Swedish">Maramureș</name>
+		<name normalized="Maramures County" languages="English">Maramureș County</name>
+		<name normalized="Maramures ili" languages="Turkish">Maramureș ili</name>
+		<name normalized="Maramuresi maakond" languages="Estonian">Maramureși maakond</name>
+		<name normalized="Marmarosz" languages="Polish">Marmarosz</name>
+		<name normalized="Marmarosska zupa" languages="Slovak">Marmarošská župa</name>
+		<name normalized="Marmatie" languages="French">Marmatie</name>
+		<name normalized="Maramaros" languages="Hungarian">Máramaros</name>
+		<name normalized="Maramaros megye" languages="Hungarian">Máramaros megye</name>
+		<name normalized="Okreg Marmarosz" languages="Polish">Okręg Marmarosz</name>
+		<name normalized="Propinsi Maramures" languages="Achinese">Propinsi Maramureş</name>
+		<name normalized="Provincia de Maramures" languages="Aragonese">Provincia de Maramureş</name>
+		<name normalized="Provinsi Maramures" languages="Indonesian">Provinsi Maramureş</name>
+		<name normalized="Provincia de Maramures" languages="Catalan">Província de Maramureș</name>
+		<name normalized="Wilayah Maramures" languages="Malay">Wilayah Maramureș</name>
+		<name normalized="Viлoiti Мaрaмuрis" languages="Tajik">Вилояти Марамуреш</name>
+		<name normalized="Мaрaмuрis" languages="Bulgarian;Russian;Serbian;Ukrainian">Марамуреш</name>
+		<name normalized="Мaрмaрoщiнa" languages="Ukrainian">Мармарощина</name>
+		<name normalized="Mաrաmvyrեs" languages="Armenian">Մարամուրեշ</name>
+		<name normalized="מאrאמאrאש" languages="Yiddish">מאראמאראש</name>
+		<name normalized="מאrאמאrאשעr דיסtrיqt" languages="Yiddish">מאראמאראשער דיסטריקט</name>
+		<name normalized="מhvז מrמvrש" languages="Hebrew">מחוז מרמורש</name>
+		<name normalized="mאrאmوryش" languages="Arabic">ماراموريش</name>
+		<name normalized="mrאmوrیش کאؤنٹی" languages="Western Punjabi">مراموریش کاؤنٹی</name>
+		<name normalized="mrmrsy県" languages="Japanese">マラムレシュ県</name>
+		<name normalized="馬拉穆列什縣" languages="Chinese">馬拉穆列什縣</name>
+		<name normalized="마라무레슈" languages="Korean">마라무레슈</name>
+		<name normalized="마라무레슈 주" languages="Korean">마라무레슈 주</name>
+	</region>
+	<region name="Mehedinti" type="county" typeTranslated="judet">
+		<name normalized="Condado de Mehedinti" languages="Galician">Condado de Mehedinţi</name>
+		<name normalized="Distretto di Mehedinți" languages="Italian">Distretto di Mehedinți</name>
+		<name normalized="District Mehedinți" languages="Dutch">District Mehedinți</name>
+		<name normalized="Distrikto Mehedinți" languages="Esperanto">Distrikto Mehedinți</name>
+		<name normalized="Județ de Mehedinți" languages="French">Județ de Mehedinți</name>
+		<name normalized="Județul Mehedinți" languages="Romanian">Județul Mehedinți</name>
+		<name normalized="Kondado han Mehedinți" languages="Waray">Kondado han Mehedinți</name>
+		<name normalized="Kreis Mehedinți" languages="German">Kreis Mehedinți</name>
+		<name normalized="Mehedincio apskritis" languages="Lithuanian">Mehedincio apskritis</name>
+		<name normalized="Mehedinti" languages="English;official">Mehedinti</name>
+		<name normalized="Mehedinti County" languages="English;official">Mehedinti County</name>
+		<name normalized="Mehedinti Judet" languages="English;official">Mehedinti Judet</name>
+		<name normalized="Mehedinti" languages="Croatian;Danish;Latin;Portuguese;Slovak">Mehedinţi</name>
+		<name normalized="Mehedinti fylke" languages="Norwegian Nynorsk">Mehedinţi fylke</name>
+		<name normalized="Mehedinți" languages="Czech;Finnish;Norwegian (bokmal);Spanish;Swedish">Mehedinți</name>
+		<name normalized="Mehedinți County" languages="English">Mehedinți County</name>
+		<name normalized="Mehedinți ili" languages="Turkish">Mehedinți ili</name>
+		<name normalized="Mehedinți maakond" languages="Estonian">Mehedinți maakond</name>
+		<name normalized="Mehedinți megye" languages="Hungarian">Mehedinți megye</name>
+		<name normalized="Okreg Mehedinți" languages="Polish">Okręg Mehedinți</name>
+		<name normalized="Propinsi Mehedinti" languages="Achinese">Propinsi Mehedinţi</name>
+		<name normalized="Provincia de Mehedinti" languages="Aragonese">Provincia de Mehedinţi</name>
+		<name normalized="Provinsi Mehedinti" languages="Indonesian">Provinsi Mehedinţi</name>
+		<name normalized="Provincia de Mehedinți" languages="Catalan">Província de Mehedinți</name>
+		<name normalized="Wilayah Mehedinți" languages="Malay">Wilayah Mehedinți</name>
+		<name normalized="Viлoiti Мihidiнtс" languages="Tajik">Вилояти Меҳединтс</name>
+		<name normalized="Мikidiнti" languages="Bulgarian;Russian;Serbian">Мехединци</name>
+		<name normalized="Мikidiнtь" languages="Ukrainian">Мехедінць</name>
+		<name normalized="mیہیدنtسی کאؤنٹی" languages="Western Punjabi">میہیدنتسی کاؤنٹی</name>
+		<name normalized="mhdint県" languages="Japanese">メヘディンチ県</name>
+		<name normalized="梅赫丁茨縣" languages="Chinese">梅赫丁茨縣</name>
+		<name normalized="메헤딘치 주" languages="Korean">메헤딘치 주</name>
+	</region>
+	<region name="Mures" type="county" typeTranslated="judet">
+		<name normalized="Condado de Mures" languages="Galician">Condado de Mureş</name>
+		<name normalized="Distretto di Mures" languages="Italian">Distretto di Mureș</name>
+		<name normalized="District Mures" languages="Dutch">District Mureș</name>
+		<name normalized="Distrikto Mures" languages="Esperanto">Distrikto Mureș</name>
+		<name normalized="Județ de Mures" languages="French">Județ de Mureș</name>
+		<name normalized="Județul Mures" languages="Romanian">Județul Mureș</name>
+		<name normalized="Kondado han Mures" languages="Waray">Kondado han Mureș</name>
+		<name normalized="Kreis Mures" languages="German">Kreis Mureș</name>
+		<name normalized="Maros megye" languages="Hungarian">Maros megye</name>
+		<name normalized="Mures" languages="English;official">Mures</name>
+		<name normalized="Mures County" languages="English;official">Mures County</name>
+		<name normalized="Mures Judet" languages="English;official">Mures Judet</name>
+		<name normalized="Mures" languages="Slovak">Mureş</name>
+		<name normalized="Mures County" languages="Simple English">Mureş County</name>
+		<name normalized="Mures fylke" languages="Norwegian Nynorsk">Mureş fylke</name>
+		<name normalized="Mureso apskritis" languages="Lithuanian">Murešo apskritis</name>
+		<name normalized="Mures" languages="Croatian;Czech;Danish;Finnish;Latin;Norwegian (bokmal);Portuguese;Spanish;Swedish">Mureș</name>
+		<name normalized="Mures County" languages="English">Mureș County</name>
+		<name normalized="Mures ili" languages="Turkish">Mureș ili</name>
+		<name normalized="Muresi maakond" languages="Estonian">Mureși maakond</name>
+		<name normalized="Okreg Marusza" languages="Polish">Okręg Marusza</name>
+		<name normalized="Propinsi Mures" languages="Achinese">Propinsi Mureş</name>
+		<name normalized="Provincia de Mures" languages="Aragonese">Provincia de Mureş</name>
+		<name normalized="Provinsi Mures" languages="Indonesian">Provinsi Mureş</name>
+		<name normalized="Provincia de Mures" languages="Catalan">Província de Mureș</name>
+		<name normalized="Wilayah Mures" languages="Malay">Wilayah Mureș</name>
+		<name normalized="Viлoiti Мuрis" languages="Tajik">Вилояти Муреш</name>
+		<name normalized="Мuрis" languages="Bulgarian;Russian;Serbian;Ukrainian">Муреш</name>
+		<name normalized="mوrیش کאؤنٹی" languages="Western Punjabi">موریش کاؤنٹی</name>
+		<name normalized="mrsy県" languages="Japanese">ムレシュ県</name>
+		<name normalized="穆列什縣" languages="Chinese">穆列什縣</name>
+		<name normalized="무레슈 주" languages="Korean">무레슈 주</name>
+	</region>
+	<region name="Neamt" type="county" typeTranslated="judet">
+		<name normalized="Condado de Neamt" languages="Galician">Condado de Neamţ</name>
+		<name normalized="Distretto di Neamț" languages="Italian">Distretto di Neamț</name>
+		<name normalized="District Neamț" languages="Dutch">District Neamț</name>
+		<name normalized="Distrikto Neamț" languages="Esperanto">Distrikto Neamț</name>
+		<name normalized="Județ de Neamț" languages="French">Județ de Neamț</name>
+		<name normalized="Județul Neamț" languages="Romanian">Județul Neamț</name>
+		<name normalized="Kondado han Neamț" languages="Waray">Kondado han Neamț</name>
+		<name normalized="Kreis Neamț" languages="German">Kreis Neamț</name>
+		<name normalized="Neamt" languages="English;official">Neamt</name>
+		<name normalized="Neamt County" languages="English;official">Neamt County</name>
+		<name normalized="Neamt Judet" languages="English;official">Neamt Judet</name>
+		<name normalized="Neamt" languages="Ladino;Latin;Portuguese">Neamţ</name>
+		<name normalized="Neamt County" languages="Simple English">Neamţ County</name>
+		<name normalized="Neamt fylke" languages="Norwegian Nynorsk">Neamţ fylke</name>
+		<name normalized="Neamț" languages="Croatian;Czech;Danish;Finnish;Norwegian (bokmal);Slovak;Spanish;Swedish">Neamț</name>
+		<name normalized="Neamț County" languages="English">Neamț County</name>
+		<name normalized="Neamț ili" languages="Turkish">Neamț ili</name>
+		<name normalized="Neamț megye" languages="Hungarian">Neamț megye</name>
+		<name normalized="Neamți maakond" languages="Estonian">Neamți maakond</name>
+		<name normalized="Niamco apskritis" languages="Lithuanian">Niamco apskritis</name>
+		<name normalized="Okreg Neamț" languages="Polish">Okręg Neamț</name>
+		<name normalized="Propinsi Neamt" languages="Achinese">Propinsi Neamţ</name>
+		<name normalized="Provincia de Neamt" languages="Aragonese">Provincia de Neamţ</name>
+		<name normalized="Provinsi Neamt" languages="Indonesian">Provinsi Neamţ</name>
+		<name normalized="Provincia de Neamț" languages="Catalan">Província de Neamț</name>
+		<name normalized="Wilayah Neamț" languages="Malay">Wilayah Neamț</name>
+		<name normalized="Viлoiti Нiaмtс" languages="Tajik">Вилояти Неамтс</name>
+		<name normalized="Нiмt" languages="Bulgarian;Russian;Ukrainian">Нямц</name>
+		<name normalized="Naмt" languages="Serbian">Њамц</name>
+		<name normalized="mqאtعة نyאmtس" languages="Arabic">مقاطعة نيامتس</name>
+		<name normalized="نیאmtس کאؤنٹی" languages="Western Punjabi">نیامتس کاؤنٹی</name>
+		<name normalized="namt県" languages="Japanese">ネアムツ県</name>
+		<name normalized="尼亞姆茨縣" languages="Chinese">尼亞姆茨縣</name>
+		<name normalized="네암츠 주" languages="Korean">네암츠 주</name>
+	</region>
+	<region name="Olt" type="county" typeTranslated="judet">
+		<name normalized="Condado de Olt" languages="Galician">Condado de Olt</name>
+		<name normalized="Distretto di Olt" languages="Italian">Distretto di Olt</name>
+		<name normalized="District Olt" languages="Dutch">District Olt</name>
+		<name normalized="Distrikto Olt" languages="Esperanto">Distrikto Olt</name>
+		<name normalized="Județ d'Olt" languages="French">Județ d'Olt</name>
+		<name normalized="Județul Olt" languages="Romanian">Județul Olt</name>
+		<name normalized="Kondado han Olt" languages="Waray">Kondado han Olt</name>
+		<name normalized="Kreis Olt" languages="German">Kreis Olt</name>
+		<name normalized="Okreg Aluta" languages="Polish">Okręg Aluta</name>
+		<name normalized="Olt" languages="Croatian;Czech;Danish;Dutch;English;Esperanto;Finnish;French;German;Italian;Latin;Norwegian (bokmal);official;Portuguese;Romanian;Slovak;Spanish;Swedish;Walloon">Olt</name>
+		<name normalized="Olt County" languages="English;official;Simple English">Olt County</name>
+		<name normalized="Olt fylke" languages="Norwegian Nynorsk">Olt fylke</name>
+		<name normalized="Olt ili" languages="Turkish">Olt ili</name>
+		<name normalized="Olt Judet" languages="English;official">Olt Judet</name>
+		<name normalized="Olt megye" languages="Hungarian">Olt megye</name>
+		<name normalized="Olti maakond" languages="Estonian">Olti maakond</name>
+		<name normalized="Olto apskritis" languages="Lithuanian">Olto apskritis</name>
+		<name normalized="Propinsi Olt" languages="Achinese">Propinsi Olt</name>
+		<name normalized="Provincia d'Olt" languages="Aragonese">Provincia d'Olt</name>
+		<name normalized="Provinsi Olt" languages="Indonesian">Provinsi Olt</name>
+		<name normalized="Provincia d'Olt" languages="Catalan">Província d'Olt</name>
+		<name normalized="Wilayah Olt" languages="Malay">Wilayah Olt</name>
+		<name normalized="Viлoiti Oлt" languages="Tajik">Вилояти Олт</name>
+		<name normalized="Oлt" languages="Bulgarian;Russian;Serbian;Ukrainian">Олт</name>
+		<name normalized="אولt کאؤنٹی" languages="Western Punjabi">اولت کاؤنٹی</name>
+		<name normalized="ort県" languages="Japanese">オルト県</name>
+		<name normalized="奧爾特縣" languages="Chinese">奧爾特縣</name>
+		<name normalized="올트 주" languages="Korean">올트 주</name>
+	</region>
+	<region name="Prahova" type="county" typeTranslated="judet">
+		<name normalized="Condado de Prahova" languages="Galician">Condado de Prahova</name>
+		<name normalized="Distretto di Prahova" languages="Italian">Distretto di Prahova</name>
+		<name normalized="District Prahova" languages="Dutch">District Prahova</name>
+		<name normalized="Distrikto Prahova" languages="Esperanto">Distrikto Prahova</name>
+		<name normalized="Județ de Prahova" languages="French">Județ de Prahova</name>
+		<name normalized="Județul Prahova" languages="Romanian">Județul Prahova</name>
+		<name normalized="Kondado han Prahova" languages="Waray">Kondado han Prahova</name>
+		<name normalized="Kreis Prahova" languages="German">Kreis Prahova</name>
+		<name normalized="Okreg Prahova" languages="Polish">Okręg Prahova</name>
+		<name normalized="Prahova" languages="Croatian;Czech;Danish;Dutch;English;Finnish;German;Ladino;Latin;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Simple English;Slovak;Spanish;Swedish;Walloon">Prahova</name>
+		<name normalized="Prahova County" languages="English;official;Simple English">Prahova County</name>
+		<name normalized="Prahova fylke" languages="Norwegian Nynorsk">Prahova fylke</name>
+		<name normalized="Prahova ili" languages="Turkish">Prahova ili</name>
+		<name normalized="Prahova Judet" languages="English;official">Prahova Judet</name>
+		<name normalized="Prahova maakond" languages="Estonian">Prahova maakond</name>
+		<name normalized="Prahova megye" languages="Hungarian">Prahova megye</name>
+		<name normalized="Prahovos apskritis" languages="Lithuanian">Prahovos apskritis</name>
+		<name normalized="Propinsi Prahova" languages="Achinese">Propinsi Prahova</name>
+		<name normalized="Provincia de Prahova" languages="Aragonese">Provincia de Prahova</name>
+		<name normalized="Provinsi Prahova" languages="Indonesian">Provinsi Prahova</name>
+		<name normalized="Provincia de Prahova" languages="Catalan">Província de Prahova</name>
+		<name normalized="Wilayah Prahova" languages="Malay">Wilayah Prahova</name>
+		<name normalized="Πραχοβα" languages="Greek">Πράχοβα</name>
+		<name normalized="Viлoiti Pрahova" languages="Tajik">Вилояти Праҳова</name>
+		<name normalized="Pрakova" languages="Bulgarian;Russian;Serbian;Ukrainian">Прахова</name>
+		<name normalized="prאہووא کאؤنٹی" languages="Western Punjabi">پراہووا کاؤنٹی</name>
+		<name normalized="prhva県" languages="Japanese">プラホヴァ県</name>
+		<name normalized="普拉霍瓦縣" languages="Chinese">普拉霍瓦縣</name>
+		<name normalized="프라호바 주" languages="Korean">프라호바 주</name>
+	</region>
+	<region name="Salaj" type="county" typeTranslated="judet">
+		<name normalized="Condado de Salaj" languages="Galician">Condado de Sălaj</name>
+		<name normalized="Distretto di Salaj" languages="Italian">Distretto di Sălaj</name>
+		<name normalized="District Salaj" languages="Dutch">District Sălaj</name>
+		<name normalized="Distrikto Salaj" languages="Esperanto">Distrikto Sălaj</name>
+		<name normalized="Județ de Salaj" languages="French">Județ de Sălaj</name>
+		<name normalized="Județul Salaj" languages="Romanian">Județul Sălaj</name>
+		<name normalized="Kondado han Salaj" languages="Waray">Kondado han Sălaj</name>
+		<name normalized="Kreis Salaj" languages="German">Kreis Sălaj</name>
+		<name normalized="Okreg Salaj" languages="Polish">Okręg Sălaj</name>
+		<name normalized="Propinsi Salaj" languages="Achinese">Propinsi Sălaj</name>
+		<name normalized="Provincia de Salaj" languages="Aragonese">Provincia de Sălaj</name>
+		<name normalized="Provinsi Salaj" languages="Indonesian">Provinsi Sălaj</name>
+		<name normalized="Provincia de Salaj" languages="Catalan">Província de Sălaj</name>
+		<name normalized="Salaj" languages="English;German;official">Salaj</name>
+		<name normalized="Salaj County" languages="English;official">Salaj County</name>
+		<name normalized="Salaj Judet" languages="English;official">Salaj Judet</name>
+		<name normalized="Selazo apskritis" languages="Lithuanian">Selažo apskritis</name>
+		<name normalized="Siladska zupa" languages="Slovak">Siladská župa</name>
+		<name normalized="Szilagy megye" languages="Hungarian">Szilágy megye</name>
+		<name normalized="Salaj" languages="Croatian;Czech;Danish;English;Finnish;Ladino;Latin;Norwegian (bokmal);Portuguese;Slovak;Spanish;Swedish;Walloon">Sălaj</name>
+		<name normalized="Salaj County" languages="English">Sălaj County</name>
+		<name normalized="Salaj fylke" languages="Norwegian Nynorsk">Sălaj fylke</name>
+		<name normalized="Salaj ili" languages="Turkish">Sălaj ili</name>
+		<name normalized="Salaji maakond" languages="Estonian">Sălaji maakond</name>
+		<name normalized="Wilayah Salaj" languages="Malay">Wilayah Sălaj</name>
+		<name normalized="Viлoiti Сaлaz" languages="Tajik">Вилояти Салаж</name>
+		<name normalized="Сaлaz" languages="Serbian">Салаж</name>
+		<name normalized="Сiлaz" languages="Ukrainian">Селаж</name>
+		<name normalized="Сълaz" languages="Bulgarian">Сълаж</name>
+		<name normalized="Сeлaz" languages="Russian">Сэлаж</name>
+		<name normalized="سیلאj کאؤنٹی" languages="Western Punjabi">سیلاج کاؤنٹی</name>
+		<name normalized="srーzy県" languages="Japanese">サラージュ県</name>
+		<name normalized="瑟拉日縣" languages="Chinese">瑟拉日縣</name>
+		<name normalized="설라지 주" languages="Korean">설라지 주</name>
+	</region>
+	<region name="Satu Mare" type="county" typeTranslated="judet">
+		<name normalized="Condado de Satu Mare" languages="Galician">Condado de Satu Mare</name>
+		<name normalized="Distretto di Satu Mare" languages="Italian">Distretto di Satu Mare</name>
+		<name normalized="District Satu Mare" languages="Dutch">District Satu Mare</name>
+		<name normalized="Distrikto Satu Mare" languages="Esperanto">Distrikto Satu Mare</name>
+		<name normalized="Județ de Satu Mare" languages="French">Județ de Satu Mare</name>
+		<name normalized="Județul Satu Mare" languages="Romanian">Județul Satu Mare</name>
+		<name normalized="Kondado han Satu Mare" languages="Waray">Kondado han Satu Mare</name>
+		<name normalized="Kreis Satu Mare" languages="German">Kreis Satu Mare</name>
+		<name normalized="Okreg Satu Mare" languages="Polish">Okręg Satu Mare</name>
+		<name normalized="Propinsi Satu Mare" languages="Achinese">Propinsi Satu Mare</name>
+		<name normalized="Provincia de Satu Mare" languages="Aragonese">Provincia de Satu Mare</name>
+		<name normalized="Provinsi Satu Mare" languages="Indonesian">Provinsi Satu Mare</name>
+		<name normalized="Provincia de Satu Mare" languages="Catalan">Província de Satu Mare</name>
+		<name normalized="Satmarinum" languages="Latin">Satmarinum</name>
+		<name normalized="Satu Mare" languages="Achinese;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Indonesian;Italian;Malay;Minangkabau;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Samogitian;Serbo-Croatian;Simple English;Slovak;Spanish;Swedish;Turkish;Vietnamese;Walloon;Waray">Satu Mare</name>
+		<name normalized="Satu Mare County" languages="English;official">Satu Mare County</name>
+		<name normalized="Satu Mare fylke" languages="Norwegian Nynorsk">Satu Mare fylke</name>
+		<name normalized="Satu Mare ili" languages="Turkish">Satu Mare ili</name>
+		<name normalized="Satu Mare Judet" languages="English;official">Satu Mare Judet</name>
+		<name normalized="Satu Mare maakond" languages="Estonian">Satu Mare maakond</name>
+		<name normalized="Satu Mare" languages="Lithuanian">Satu Marė</name>
+		<name normalized="Satu Mares apskritis" languages="Lithuanian">Satu Marės apskritis</name>
+		<name normalized="Satumarska zupa" languages="Slovak">Satumarská župa</name>
+		<name normalized="Szatmar megye" languages="Hungarian">Szatmár megye</name>
+		<name normalized="Szatmarnemeti" languages="Hungarian">Szatmárnémeti</name>
+		<name normalized="Wilayah Satu Mare" languages="Malay">Wilayah Satu Mare</name>
+		<name normalized="Σατου Μαρε" languages="Greek">Σάτου Μάρε</name>
+		<name normalized="Viлoiti Сatu Мaрi" languages="Tajik">Вилояти Сату Маре</name>
+		<name normalized="Goрad Сatu-Мaрe" languages="Belarusian">Горад Сату-Марэ</name>
+		<name normalized="Сatu Мaрi" languages="Bulgarian;Serbian">Сату Маре</name>
+		<name normalized="Сatu-Мaрi" languages="Russian;Tajik;Ukrainian">Сату-Маре</name>
+		<name normalized="סאtv מאrh" languages="Hebrew">סאטו מארה</name>
+		<name normalized="סאtמאr" languages="Yiddish">סאטמאר</name>
+		<name normalized="سאtو mאry" languages="Arabic">ساتو ماري</name>
+		<name normalized="سאtو mאrے" languages="Western Punjabi">ساتو مارے</name>
+		<name normalized="سאtو mאrے کאؤنٹی" languages="Western Punjabi">ساتو مارے کاؤنٹی</name>
+		<name normalized="سtو mאrh" languages="Persian">ستو ماره</name>
+		<name normalized="stu・mーr" languages="Japanese">サトゥ・マーレ</name>
+		<name normalized="stu・mーr県" languages="Japanese">サトゥ・マーレ県</name>
+		<name normalized="薩圖馬雷" languages="Chinese">薩圖馬雷</name>
+		<name normalized="薩圖馬雷縣" languages="Chinese">薩圖馬雷縣</name>
+		<name normalized="사투마레" languages="Korean">사투마레</name>
+		<name normalized="사투마레 주" languages="Korean">사투마레 주</name>
+	</region>
+	<region name="Sibiu" type="county" typeTranslated="judet">
+		<name normalized="Bezierk Sibiu" languages="Luxembourgish">Bezierk Sibiu</name>
+		<name normalized="Cibinium" languages="Latin">Cibinium</name>
+		<name normalized="Comtat de Sibiu" languages="Occitan">Comtat de Sibiu</name>
+		<name normalized="Condado de Sibiu" languages="Galician">Condado de Sibiu</name>
+		<name normalized="Distretto di Sibiu" languages="Italian">Distretto di Sibiu</name>
+		<name normalized="District Sibiu" languages="Dutch">District Sibiu</name>
+		<name normalized="Distrikto Sibiu" languages="Esperanto">Distrikto Sibiu</name>
+		<name normalized="Hermannstadt" languages="Alemannisch;Bavarian;German">Hermannstadt</name>
+		<name normalized="Hermanstat" languages="Turkmen">Hermanştat</name>
+		<name normalized="Județ de Sibiu" languages="French">Județ de Sibiu</name>
+		<name normalized="Județul Sibiu" languages="Romanian">Județul Sibiu</name>
+		<name normalized="Kondado han Sibiu" languages="Waray">Kondado han Sibiu</name>
+		<name normalized="Kreis Hermannstadt" languages="Bavarian">Kreis Hermannstadt</name>
+		<name normalized="Kreis Sibiu" languages="German">Kreis Sibiu</name>
+		<name normalized="Nagyszeben" languages="Hungarian">Nagyszeben</name>
+		<name normalized="Okreg Sybin" languages="Polish">Okręg Sybin</name>
+		<name normalized="Propinsi Sibiu" languages="Achinese">Propinsi Sibiu</name>
+		<name normalized="Provincia de Sibiu" languages="Aragonese">Provincia de Sibiu</name>
+		<name normalized="Provinsi Sibiu" languages="Indonesian">Provinsi Sibiu</name>
+		<name normalized="Provincia de Sibiu" languages="Catalan">Província de Sibiu</name>
+		<name normalized="Sibiu" languages="Achinese;Aragonese;Aromanian;Azerbaijani;Basque;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;Indonesian;Italian;Ladino;Latvian;Limburgish;Lithuanian;lumbaart;Luxembourgish;Malay;Minangkabau;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Portuguese;Romanian;Simple English;Slovak;Spanish;Swedish;Turkish;Vietnamese;Volapuk;veneto;Walloon;Waray">Sibiu</name>
+		<name normalized="Sibiu apskritis" languages="Lithuanian">Sibiu apskritis</name>
+		<name normalized="Sibiu County" languages="English;official;Simple English">Sibiu County</name>
+		<name normalized="Sibiu fylke" languages="Norwegian Nynorsk">Sibiu fylke</name>
+		<name normalized="Sibiu ili" languages="Turkish">Sibiu ili</name>
+		<name normalized="Sibiu Judet" languages="English;official">Sibiu Judet</name>
+		<name normalized="Sibiu konderria" languages="Basque">Sibiu konderria</name>
+		<name normalized="Sibiu maakond" languages="Estonian">Sibiu maakond</name>
+		<name normalized="Sybin" languages="Polish">Sybin</name>
+		<name normalized="Szeben megye" languages="Hungarian">Szeben megye</name>
+		<name normalized="Wilayah Sibiu" languages="Malay">Wilayah Sibiu</name>
+		<name normalized="Σιμπιου" languages="Greek">Σιμπίου</name>
+		<name normalized="Viлoiti Сibiю" languages="Tajik">Вилояти Сибию</name>
+		<name normalized="Goрad Сibiu" languages="Belarusian">Горад Сібіу</name>
+		<name normalized="Сibiu" languages="Bulgarian;Russian;Tajik">Сибиу</name>
+		<name normalized="Сibin" languages="Serbian">Сибињ</name>
+		<name normalized="Сibiu" languages="Ukrainian">Сібіу</name>
+		<name normalized="סיbיv" languages="Hebrew">סיביו</name>
+		<name normalized="سybyو" languages="Arabic">سيبيو</name>
+		<name normalized="سیbو" languages="Western Punjabi">سیبو</name>
+		<name normalized="سیbیؤ کאؤنٹی" languages="Western Punjabi">سیبیؤ کاؤنٹی</name>
+		<name normalized="سیbیو" languages="Persian">سیبیو</name>
+		<name normalized="sibiv" languages="Marathi">सिबिव</name>
+		<name normalized="ซีบีอู" languages="Thai">ซีบีอู</name>
+		<name normalized="სიბიუ" languages="Georgian">სიბიუ</name>
+		<name normalized="sbu" languages="Japanese">シビウ</name>
+		<name normalized="sbu県" languages="Japanese">シビウ県</name>
+		<name normalized="錫比烏" languages="Chinese">錫比烏</name>
+		<name normalized="錫比烏縣" languages="Chinese">錫比烏縣</name>
+		<name normalized="시비우" languages="Korean">시비우</name>
+		<name normalized="시비우 주" languages="Korean">시비우 주</name>
+	</region>
+	<region name="Suceava" type="county" typeTranslated="judet">
+		<name normalized="Condado de Suceava" languages="Galician">Condado de Suceava</name>
+		<name normalized="Distreto de Suceava" languages="veneto">Distreto de Suceava</name>
+		<name normalized="Distretto di Suceava" languages="Italian">Distretto di Suceava</name>
+		<name normalized="District Suceava" languages="Dutch">District Suceava</name>
+		<name normalized="Distrikto Suceava" languages="Esperanto">Distrikto Suceava</name>
+		<name normalized="Județ de Suceava" languages="French">Județ de Suceava</name>
+		<name normalized="Județul Suceava" languages="Romanian">Județul Suceava</name>
+		<name normalized="Kondado han Suceava" languages="Waray">Kondado han Suceava</name>
+		<name normalized="Kreis Suceava" languages="German">Kreis Suceava</name>
+		<name normalized="Okreg Suczawa" languages="Polish">Okręg Suczawa</name>
+		<name normalized="Propinsi Suceava" languages="Achinese">Propinsi Suceava</name>
+		<name normalized="Provincia de Suceava" languages="Aragonese">Provincia de Suceava</name>
+		<name normalized="Provinsi Suceava" languages="Indonesian">Provinsi Suceava</name>
+		<name normalized="Provincia de Suceava" languages="Catalan">Província de Suceava</name>
+		<name normalized="Suceava" languages="Achinese;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Indonesian;Italian;Latin;Limburgish;lumbaart;Malay;Minangkabau;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Romanian;Simple English;Slovak;Spanish;Swedish;Turkish;Vietnamese;Walloon;Waray">Suceava</name>
+		<name normalized="Suceava County" languages="English;official;Simple English">Suceava County</name>
+		<name normalized="Suceava fylke" languages="Norwegian Nynorsk">Suceava fylke</name>
+		<name normalized="Suceava ili" languages="Turkish">Suceava ili</name>
+		<name normalized="Suceava Judet" languages="English;official">Suceava Judet</name>
+		<name normalized="Suceava konderria" languages="Basque">Suceava konderria</name>
+		<name normalized="Suceava maakond" languages="Estonian">Suceava maakond</name>
+		<name normalized="Suceava megye" languages="Hungarian">Suceava megye</name>
+		<name normalized="Suczawa" languages="Polish">Suczawa</name>
+		<name normalized="Sucava" languages="Lithuanian">Sučava</name>
+		<name normalized="Sucavos apskritis" languages="Lithuanian">Sučavos apskritis</name>
+		<name normalized="Szucsava" languages="Hungarian">Szucsáva</name>
+		<name normalized="Wilayah Suceava" languages="Malay">Wilayah Suceava</name>
+		<name normalized="Σουτσεαβα" languages="Greek">Σουτσεάβα</name>
+		<name normalized="Viлoiti Сuciava" languages="Tajik">Вилояти Сучеава</name>
+		<name normalized="Goрad Сucava" languages="Belarusian">Горад Сучава</name>
+		<name normalized="Сucava" languages="Bulgarian;Russian;Serbian;Tajik;Ukrainian">Сучава</name>
+		<name normalized="מhvז סvצ'אbh" languages="Hebrew">מחוז סוצ'אבה</name>
+		<name normalized="סvצ'אbh" languages="Hebrew">סוצ'אבה</name>
+		<name normalized="שאץ" languages="Yiddish">שאץ</name>
+		<name normalized="שאצעr qאnt" languages="Yiddish">שאצער קאנט</name>
+		<name normalized="إqلym سوtشyאfא" languages="Arabic">إقليم سوتشيافا</name>
+		<name normalized="سوtشאfא" languages="Arabic">سوتشافا</name>
+		<name normalized="سوچאوא" languages="Persian;Western Punjabi">سوچاوا</name>
+		<name normalized="سوچאوא کאؤنٹی" languages="Western Punjabi">سوچاوا کاؤنٹی</name>
+		<name normalized="styva" languages="Japanese">スチャヴァ</name>
+		<name normalized="styva県" languages="Japanese">スチャヴァ県</name>
+		<name normalized="蘇恰瓦" languages="Chinese">蘇恰瓦</name>
+		<name normalized="蘇恰瓦縣" languages="Chinese">蘇恰瓦縣</name>
+		<name normalized="수체아바" languages="Korean">수체아바</name>
+		<name normalized="수체아바 주" languages="Korean">수체아바 주</name>
+	</region>
+	<region name="Teleorman" type="county" typeTranslated="judet">
+		<name normalized="Condado de Teleorman" languages="Galician">Condado de Teleorman</name>
+		<name normalized="Distretto di Teleorman" languages="Italian">Distretto di Teleorman</name>
+		<name normalized="District Teleorman" languages="Dutch">District Teleorman</name>
+		<name normalized="Distrikto Teleorman" languages="Esperanto">Distrikto Teleorman</name>
+		<name normalized="Județ de Teleorman" languages="French">Județ de Teleorman</name>
+		<name normalized="Județul Teleorman" languages="Romanian">Județul Teleorman</name>
+		<name normalized="Kondado han Teleorman" languages="Waray">Kondado han Teleorman</name>
+		<name normalized="Kreis Teleorman" languages="German">Kreis Teleorman</name>
+		<name normalized="Okreg Teleorman" languages="Polish">Okręg Teleorman</name>
+		<name normalized="Propinsi Teleorman" languages="Achinese">Propinsi Teleorman</name>
+		<name normalized="Provincia de Teleorman" languages="Aragonese">Provincia de Teleorman</name>
+		<name normalized="Provinsi Teleorman" languages="Indonesian">Provinsi Teleorman</name>
+		<name normalized="Provincia de Teleorman" languages="Catalan">Província de Teleorman</name>
+		<name normalized="Teleorman" languages="Croatian;Czech;Danish;English;Finnish;Latin;Norwegian (bokmal);official;Portuguese;Slovak;Spanish;Swedish;Walloon">Teleorman</name>
+		<name normalized="Teleorman County" languages="English;official">Teleorman County</name>
+		<name normalized="Teleorman fylke" languages="Norwegian Nynorsk">Teleorman fylke</name>
+		<name normalized="Teleorman ili" languages="Turkish">Teleorman ili</name>
+		<name normalized="Teleorman Judet" languages="English;official">Teleorman Judet</name>
+		<name normalized="Teleorman megye" languages="Hungarian">Teleorman megye</name>
+		<name normalized="Teleormani maakond" languages="Estonian">Teleormani maakond</name>
+		<name normalized="Teleormano apskritis" languages="Lithuanian">Teleormano apskritis</name>
+		<name normalized="Wilayah Teleorman" languages="Malay">Wilayah Teleorman</name>
+		<name normalized="Viлoiti Tiлioрмaн" languages="Tajik">Вилояти Телеорман</name>
+		<name normalized="Tiлioрмaн" languages="Bulgarian;Russian;Serbian;Ukrainian">Телеорман</name>
+		<name normalized="tیلیوmאن کאؤنٹی" languages="Western Punjabi">تیلیومان کاؤنٹی</name>
+		<name normalized="trormn県" languages="Japanese">テレオルマン県</name>
+		<name normalized="特列奧爾曼縣" languages="Chinese">特列奧爾曼縣</name>
+		<name normalized="텔레오르만 주" languages="Korean">텔레오르만 주</name>
+	</region>
+	<region name="Timis" type="county" typeTranslated="judet">
+		<name normalized="Condado de Timis" languages="Galician">Condado de Timiş</name>
+		<name normalized="Distretto di Timis" languages="Italian">Distretto di Timiș</name>
+		<name normalized="District Timis" languages="Dutch">District Timiș</name>
+		<name normalized="Distrikto Timis" languages="Esperanto">Distrikto Timiș</name>
+		<name normalized="Județ de Timis" languages="French">Județ de Timiș</name>
+		<name normalized="Județul Timis" languages="Romanian">Județul Timiș</name>
+		<name normalized="Kondado han Timis" languages="Waray">Kondado han Timiș</name>
+		<name normalized="Kreis Timis" languages="German">Kreis Timiș</name>
+		<name normalized="Okreg Temesz" languages="Polish">Okręg Temesz</name>
+		<name normalized="Propinsi Timis" languages="Achinese">Propinsi Timiş</name>
+		<name normalized="Provincia de Timis" languages="Aragonese">Provincia de Timiş</name>
+		<name normalized="Provinsi Timis" languages="Indonesian">Provinsi Timiş</name>
+		<name normalized="Provincia de Timis" languages="Catalan">Província de Timiş</name>
+		<name normalized="Qarku Timis" languages="Albanian">Qarku Timiş</name>
+		<name normalized="Temes" languages="Hungarian">Temes</name>
+		<name normalized="Temes megye" languages="Hungarian">Temes megye</name>
+		<name normalized="Timis" languages="English;official">Timis</name>
+		<name normalized="Timis County" languages="English;official">Timis County</name>
+		<name normalized="Timis Judet" languages="English;official">Timis Judet</name>
+		<name normalized="Timis" languages="Croatian;Dutch;Ladino;Latin;Portuguese;Sicilian;Simple English;Slovak;Walloon">Timiş</name>
+		<name normalized="Timis fylke" languages="Norwegian Nynorsk">Timiş fylke</name>
+		<name normalized="Timiso apskritis" languages="Lithuanian">Timišo apskritis</name>
+		<name normalized="Timis" languages="Czech;Danish;English;Estonian;Finnish;French;German;Norwegian (bokmal);Romanian;Spanish;Swedish;Turkish">Timiș</name>
+		<name normalized="Timis County" languages="English">Timiș County</name>
+		<name normalized="Timis ili" languages="Turkish">Timiș ili</name>
+		<name normalized="Timisi maakond" languages="Estonian">Timiși maakond</name>
+		<name normalized="Wilayah Timis" languages="Malay">Wilayah Timiș</name>
+		<name normalized="Viлoiti Tiмis" languages="Tajik">Вилояти Тимиш</name>
+		<name normalized="Tiмis" languages="Bulgarian;Russian;Serbian">Тимиш</name>
+		<name normalized="Tiмis" languages="Ukrainian">Тиміш</name>
+		<name normalized="Tiмis" languages="Ukrainian">Тіміш</name>
+		<name normalized="tیmش کאؤنٹی" languages="Western Punjabi">تیمش کاؤنٹی</name>
+		<name normalized="timsy県" languages="Japanese">ティミシュ県</name>
+		<name normalized="蒂米什縣" languages="Chinese">蒂米什縣</name>
+		<name normalized="티미슈 주" languages="Korean">티미슈 주</name>
+	</region>
+	<region name="Tulcea" type="county" typeTranslated="judet">
+		<name normalized="Aegyssos" languages="Latin">Aegyssos</name>
+		<name normalized="Condado de Tulcea" languages="Galician">Condado de Tulcea</name>
+		<name normalized="Distretto di Tulcea" languages="Italian">Distretto di Tulcea</name>
+		<name normalized="District Tulcea" languages="Dutch">District Tulcea</name>
+		<name normalized="Distrikto Tulcea" languages="Esperanto">Distrikto Tulcea</name>
+		<name normalized="Județ de Tulcea" languages="French">Județ de Tulcea</name>
+		<name normalized="Județul Tulcea" languages="Romanian">Județul Tulcea</name>
+		<name normalized="Kondado han Tulcea" languages="Waray">Kondado han Tulcea</name>
+		<name normalized="Kreis Tulcea" languages="German">Kreis Tulcea</name>
+		<name normalized="Okreg Tulcza" languages="Polish">Okręg Tulcza</name>
+		<name normalized="Propinsi Tulcea" languages="Achinese">Propinsi Tulcea</name>
+		<name normalized="Provincia de Tulcea" languages="Aragonese">Provincia de Tulcea</name>
+		<name normalized="Provinsi Tulcea" languages="Indonesian">Provinsi Tulcea</name>
+		<name normalized="Provincia de Tulcea" languages="Catalan">Província de Tulcea</name>
+		<name normalized="Tulca" languages="Turkish">Tulca</name>
+		<name normalized="Tulcea" languages="Achinese;Albanian;Basque;Croatian;Czech;Danish;Dutch;English;Esperanto;Finnish;French;Galician;German;Indonesian;Italian;Latin;Malay;Minangkabau;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Portuguese;Romanian;Simple English;Slovak;Spanish;Swedish;Vietnamese;veneto;Walloon">Tulcea</name>
+		<name normalized="Tulcea County" languages="English;official">Tulcea County</name>
+		<name normalized="Tulcea fylke" languages="Norwegian Nynorsk">Tulcea fylke</name>
+		<name normalized="Tulcea ili" languages="Turkish">Tulcea ili</name>
+		<name normalized="Tulcea Judet" languages="English;official">Tulcea Judet</name>
+		<name normalized="Tulcea maakond" languages="Estonian">Tulcea maakond</name>
+		<name normalized="Tulcea megye" languages="Hungarian">Tulcea megye</name>
+		<name normalized="Tulcsa" languages="Hungarian">Tulcsa</name>
+		<name normalized="Tulcza" languages="Polish">Tulcza</name>
+		<name normalized="Tulca" languages="Lithuanian">Tulča</name>
+		<name normalized="Tulcos apskritis" languages="Lithuanian">Tulčos apskritis</name>
+		<name normalized="Wilayah Tulcea" languages="Malay">Wilayah Tulcea</name>
+		<name normalized="Τοuλτσεα" languages="Greek">Τούλτσεα</name>
+		<name normalized="Viлoiti Tuлcia" languages="Tajik">Вилояти Тулчеа</name>
+		<name normalized="Tuлca" languages="Bulgarian;Macedonian;Russian;Serbian;Tajik">Тулча</name>
+		<name normalized="Tuльca" languages="Ukrainian">Тульча</name>
+		<name normalized="tvדצ'אh" languages="Hebrew">טולצ'אה</name>
+		<name normalized="מhvז tvדצ'h" languages="Hebrew">מחוז טולצ'ה</name>
+		<name normalized="tولtشyא" languages="Arabic">تولتشيا</name>
+		<name normalized="tولچא" languages="Western Punjabi">تولچا</name>
+		<name normalized="tولچא کאؤنٹی" languages="Western Punjabi">تولچا کاؤنٹی</name>
+		<name normalized="tولچh" languages="Persian">تولچه</name>
+		<name normalized="turty" languages="Japanese">トゥルチャ</name>
+		<name normalized="turty県" languages="Japanese">トゥルチャ県</name>
+		<name normalized="圖爾恰" languages="Chinese">圖爾恰</name>
+		<name normalized="圖爾恰縣" languages="Chinese">圖爾恰縣</name>
+		<name normalized="툴체아" languages="Korean">툴체아</name>
+		<name normalized="툴체아 주" languages="Korean">툴체아 주</name>
+	</region>
+	<region name="Valcea" type="county" typeTranslated="judet">
+		<name normalized="Condado de Valcea" languages="Galician">Condado de Vâlcea</name>
+		<name normalized="Distretto di Valcea" languages="Italian">Distretto di Vâlcea</name>
+		<name normalized="District Valcea" languages="Dutch">District Vâlcea</name>
+		<name normalized="Distrikto Valcea" languages="Esperanto">Distrikto Vâlcea</name>
+		<name normalized="Județ de Valcea" languages="French">Județ de Vâlcea</name>
+		<name normalized="Județul Valcea" languages="Romanian">Județul Vâlcea</name>
+		<name normalized="Kondado han Valcea" languages="Waray">Kondado han Vâlcea</name>
+		<name normalized="Kreis Valcea" languages="German">Kreis Vâlcea</name>
+		<name normalized="Okreg Valcea" languages="Polish">Okręg Vâlcea</name>
+		<name normalized="Propinsi Valcea" languages="Achinese">Propinsi Vâlcea</name>
+		<name normalized="Provincia de Valcea" languages="Aragonese">Provincia de Vâlcea</name>
+		<name normalized="Provinsi Valcea" languages="Indonesian">Provinsi Vâlcea</name>
+		<name normalized="Provincia de Valcea" languages="Catalan">Província de Vâlcea</name>
+		<name normalized="Valcea" languages="English;official">Valcea</name>
+		<name normalized="Valcea County" languages="English;official">Valcea County</name>
+		<name normalized="Valcea Judet" languages="English;official">Valcea Judet</name>
+		<name normalized="Vilcos apskritis" languages="Lithuanian">Vilčos apskritis</name>
+		<name normalized="Valcea" languages="Croatian;Czech;Danish;Finnish;Latin;Norwegian (bokmal);Portuguese;Slovak;Spanish;Swedish;Walloon">Vâlcea</name>
+		<name normalized="Valcea County" languages="English;Simple English">Vâlcea County</name>
+		<name normalized="Valcea fylke" languages="Norwegian Nynorsk">Vâlcea fylke</name>
+		<name normalized="Valcea ili" languages="Turkish">Vâlcea ili</name>
+		<name normalized="Valcea maakond" languages="Estonian">Vâlcea maakond</name>
+		<name normalized="Valcea megye" languages="Hungarian">Vâlcea megye</name>
+		<name normalized="Wilayah Valcea" languages="Malay">Wilayah Vâlcea</name>
+		<name normalized="Βαλτσεα" languages="Greek">Βάλτσεα</name>
+		<name normalized="Vaлca" languages="Serbian">Валча</name>
+		<name normalized="Viлoiti Vaлcia" languages="Tajik">Вилояти Валчеа</name>
+		<name normalized="Viлci" languages="Ukrainian">Вилчя</name>
+		<name normalized="Vълca" languages="Bulgarian">Вълча</name>
+		<name normalized="Vылca" languages="Russian">Вылча</name>
+		<name normalized="ویلچא کאؤنٹی" languages="Western Punjabi">ویلچا کاؤنٹی</name>
+		<name normalized="vrty県" languages="Japanese">ヴルチャ県</name>
+		<name normalized="沃爾恰縣" languages="Chinese">沃爾恰縣</name>
+		<name normalized="블체아 주" languages="Korean">블체아 주</name>
+	</region>
+	<region name="Vaslui" type="county" typeTranslated="judet">
+		<name normalized="Condado de Vaslui" languages="Galician">Condado de Vaslui</name>
+		<name normalized="Distretto di Vaslui" languages="Italian">Distretto di Vaslui</name>
+		<name normalized="District Vaslui" languages="Dutch">District Vaslui</name>
+		<name normalized="Distrikto Vaslui" languages="Esperanto">Distrikto Vaslui</name>
+		<name normalized="Județ de Vaslui" languages="French">Județ de Vaslui</name>
+		<name normalized="Județul Vaslui" languages="Romanian">Județul Vaslui</name>
+		<name normalized="Kondado han Vaslui" languages="Waray">Kondado han Vaslui</name>
+		<name normalized="Kreis Vaslui" languages="German">Kreis Vaslui</name>
+		<name normalized="Okreg Vaslui" languages="Polish">Okręg Vaslui</name>
+		<name normalized="Propinsi Vaslui" languages="Achinese">Propinsi Vaslui</name>
+		<name normalized="Provincia de Vaslui" languages="Aragonese">Provincia de Vaslui</name>
+		<name normalized="Provinsi Vaslui" languages="Indonesian">Provinsi Vaslui</name>
+		<name normalized="Provincia de Vaslui" languages="Catalan">Província de Vaslui</name>
+		<name normalized="Vaslui" languages="Achinese;Albanian;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Finnish;French;Galician;German;Indonesian;Italian;Latin;Malay;Minangkabau;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Slovak;Spanish;Swedish;Turkish;Vietnamese;Walloon">Vaslui</name>
+		<name normalized="Vaslui County" languages="English;official">Vaslui County</name>
+		<name normalized="Vaslui fylke" languages="Norwegian Nynorsk">Vaslui fylke</name>
+		<name normalized="Vaslui ili" languages="Turkish">Vaslui ili</name>
+		<name normalized="Vaslui Judet" languages="English;official">Vaslui Judet</name>
+		<name normalized="Vaslui maakond" languages="Estonian">Vaslui maakond</name>
+		<name normalized="Vaslui megye" languages="Hungarian">Vaslui megye</name>
+		<name normalized="Vaslujaus apskritis" languages="Lithuanian">Vaslujaus apskritis</name>
+		<name normalized="Vaslujus" languages="Lithuanian">Vaslujus</name>
+		<name normalized="Vaszlo" languages="Hungarian">Vászló</name>
+		<name normalized="Wilayah Vaslui" languages="Malay">Wilayah Vaslui</name>
+		<name normalized="Βασλοuι" languages="Greek">Βασλούι</name>
+		<name normalized="Vaслuй" languages="Bulgarian;Russian;Tajik;Ukrainian">Васлуй</name>
+		<name normalized="Vaслuj" languages="Serbian">Васлуј</name>
+		<name normalized="Viлoiti Vaслui" languages="Tajik">Вилояти Васлуи</name>
+		<name normalized="vסדvי" languages="Hebrew">וסלוי</name>
+		<name normalized="إqلym fאسلوy" languages="Arabic">إقليم فاسلوي</name>
+		<name normalized="fאسلوy" languages="Arabic">فاسلوي</name>
+		<name normalized="وאسلوئی" languages="Western Punjabi">واسلوئی</name>
+		<name normalized="وאسلوئی کאؤنٹی" languages="Western Punjabi">واسلوئی کاؤنٹی</name>
+		<name normalized="وزلو" languages="Persian">وزلو</name>
+		<name normalized="vasri" languages="Japanese">ヴァスルイ</name>
+		<name normalized="vasri県" languages="Japanese">ヴァスルイ県</name>
+		<name normalized="瓦斯盧伊" languages="Chinese">瓦斯盧伊</name>
+		<name normalized="瓦斯盧伊縣" languages="Chinese">瓦斯盧伊縣</name>
+		<name normalized="바슬루이" languages="Korean">바슬루이</name>
+		<name normalized="바슬루이 주" languages="Korean">바슬루이 주</name>
+	</region>
+	<region name="Vrancea" type="county" typeTranslated="judet">
+		<name normalized="Distretto di Vrancea" languages="Italian">Distretto di Vrancea</name>
+		<name normalized="District Vrancea" languages="Dutch">District Vrancea</name>
+		<name normalized="Distrikto Vrancea" languages="Esperanto">Distrikto Vrancea</name>
+		<name normalized="Județ de Vrancea" languages="French">Județ de Vrancea</name>
+		<name normalized="Județul Vrancea" languages="Romanian">Județul Vrancea</name>
+		<name normalized="Kondado han Vrancea" languages="Waray">Kondado han Vrancea</name>
+		<name normalized="Kreis Vrancea" languages="German">Kreis Vrancea</name>
+		<name normalized="Okreg Vrancea" languages="Polish">Okręg Vrancea</name>
+		<name normalized="Propinsi Vrancea" languages="Achinese">Propinsi Vrancea</name>
+		<name normalized="Provincia de Vrancea" languages="Aragonese">Provincia de Vrancea</name>
+		<name normalized="Provinsi Vrancea" languages="Indonesian">Provinsi Vrancea</name>
+		<name normalized="Provincia de Vrancea" languages="Catalan">Província de Vrancea</name>
+		<name normalized="Vrancea" languages="Basque;Croatian;Czech;Danish;English;Finnish;Galician;German;Latin;Norwegian (bokmal);official;Portuguese;Slovak;Spanish;Swedish;Vietnamese;Walloon">Vrancea</name>
+		<name normalized="Vrancea County" languages="English;official;Simple English">Vrancea County</name>
+		<name normalized="Vrancea fylke" languages="Norwegian Nynorsk">Vrancea fylke</name>
+		<name normalized="Vrancea ili" languages="Turkish">Vrancea ili</name>
+		<name normalized="Vrancea Judet" languages="English;official">Vrancea Judet</name>
+		<name normalized="Vrancea maakond" languages="Estonian">Vrancea maakond</name>
+		<name normalized="Vrancea megye" languages="Hungarian">Vrancea megye</name>
+		<name normalized="Vrancos apskritis" languages="Lithuanian">Vrančos apskritis</name>
+		<name normalized="Wilayah Vrancea" languages="Malay">Wilayah Vrancea</name>
+		<name normalized="Βραντσεα" languages="Greek">Βράντσεα</name>
+		<name normalized="Viлoiti Vрaнcia" languages="Tajik">Вилояти Вранчеа</name>
+		<name normalized="Vрaнca" languages="Bulgarian;Russian;Serbian">Вранча</name>
+		<name normalized="Vрaнci" languages="Ukrainian">Вранчя</name>
+		<name normalized="إqلym frنtشyא" languages="Arabic">إقليم فرنتشيا</name>
+		<name normalized="وrאنچא کאؤنٹی" languages="Western Punjabi">ورانچا کاؤنٹی</name>
+		<name normalized="vrnty県" languages="Japanese">ヴランチャ県</name>
+		<name normalized="弗朗恰縣" languages="Chinese">弗朗恰縣</name>
+		<name normalized="브란체아 주" languages="Korean">브란체아 주</name>
+	</region>
+</regions>

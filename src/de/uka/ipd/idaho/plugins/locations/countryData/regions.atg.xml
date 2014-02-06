@@ -1,0 +1,96 @@
+<regions country="Antigua and Barbuda">
+	<region name="Barbuda" type="dependency" typeTranslated="dependency">
+		<name normalized="Barbiwda" languages="Welsh">Barbiwda</name>
+		<name normalized="Barbuda" languages="Basque;Breton;Catalan;Czech;Dutch;English;Estonian;Finnish;French;Galician;German;Italian;Latin;Lithuanian;lumbaart;Norwegian (bokmal);official;Piedmontese;Polish;Portuguese;Simple English;Spanish;Swedish;Vietnamese">Barbuda</name>
+		<name normalized="Barbudo" languages="Esperanto">Barbudo</name>
+		<name normalized="Barbuda" languages="Yoruba">Bàrbúdà</name>
+		<name normalized="Μπαρμποuντα" languages="Greek">Μπαρμπούντα</name>
+		<name normalized="Baрbuda" languages="Macedonian;Russian;Serbian;Ukrainian">Барбуда</name>
+		<name normalized="Voсtрaў Baрbuda" languages="Belarusian">Востраў Барбуда</name>
+		<name normalized="brbvדh" languages="Hebrew">ברבודה</name>
+		<name normalized="ബാർബുഡ" languages="Malayalam">ബാർബുഡ</name>
+		<name normalized="บาร์บูดา" languages="Thai">บาร์บูดา</name>
+		<name normalized="bーbーd島" languages="Japanese">バーブーダ島</name>
+		<name normalized="巴布達島" languages="Cantonese;Chinese">巴布達島</name>
+		<name normalized="바부다 섬" languages="Korean">바부다 섬</name>
+	</region>
+	<region name="Redonda" type="dependency" typeTranslated="dependency">
+		<name normalized="Illa Redonda" languages="Galician">Illa Redonda</name>
+		<name normalized="Isla Redonda" languages="Spanish">Isla Redonda</name>
+		<name normalized="Redonda" languages="Basque;Breton;Catalan;Czech;Dutch;English;Estonian;Finnish;French;German;Hungarian;Italian;Latin;Lithuanian;Norwegian (bokmal);official;Polish;Portuguese;Simple English;Vietnamese">Redonda</name>
+		<name normalized="Redondo" languages="Esperanto">Redondo</name>
+		<name normalized="Ρεντοντα" languages="Greek">Ρεντόντα</name>
+		<name normalized="Voсtрaў Рedoнda" languages="Belarusian">Востраў Рэдонда</name>
+		<name normalized="Рidoнda" languages="Macedonian;Russian;Ukrainian">Редонда</name>
+		<name normalized="rדvnדh" languages="Hebrew">רדונדה</name>
+		<name normalized="rdnd島" languages="Japanese">レドンダ島</name>
+		<name normalized="雷東達島" languages="Chinese">雷東達島</name>
+		<name normalized="레돈다 섬" languages="Korean">레돈다 섬</name>
+	</region>
+	<region name="Saint George" type="parish" typeTranslated="parish">
+		<name normalized="Paroki Saint George" languages="Indonesian;Malay">Paroki Saint George</name>
+		<name normalized="Parroquia de Saint George" languages="Asturian;Spanish">Parroquia de Saint George</name>
+		<name normalized="Saint George" languages="Dutch;English;Italian;official;Polish;Portuguese">Saint George</name>
+		<name normalized="Saint George Parish" languages="English;official;Simple English">Saint George Parish</name>
+		<name normalized="Saint George prestegjeld" languages="Norwegian (bokmal)">Saint George prestegjeld</name>
+		<name normalized="Saint-George" languages="Breton;French">Saint-George</name>
+		<name normalized="Sv. Jurgio parapija" languages="Lithuanian">Šv. Jurgio parapija</name>
+		<name normalized="Αγιος Γεωργιος" languages="Greek">Άγιος Γεώργιος</name>
+		<name normalized="聖喬治區" languages="Chinese">聖喬治區</name>
+	</region>
+	<region name="Saint John" type="parish" typeTranslated="parish">
+		<name normalized="Paroki Saint John" languages="Indonesian;Malay">Paroki Saint John</name>
+		<name normalized="Parroquia de Saint John" languages="Spanish">Parroquia de Saint John</name>
+		<name normalized="Saint John" languages="Dutch;English;Italian;official;Polish;Portuguese">Saint John</name>
+		<name normalized="Saint John Parish" languages="English;official;Simple English">Saint John Parish</name>
+		<name normalized="Saint John prestegjeld" languages="Norwegian (bokmal)">Saint John prestegjeld</name>
+		<name normalized="Saint-John" languages="French">Saint-John</name>
+		<name normalized="Sv. Jono parapija" languages="Lithuanian">Šv. Jono parapija</name>
+		<name normalized="Αγιος Ιωαννης" languages="Greek">Άγιος Ιωάννης</name>
+		<name normalized="圣约翰区" languages="Chinese">圣约翰区</name>
+	</region>
+	<region name="Saint Mary" type="parish" typeTranslated="parish">
+		<name normalized="Paroki Saint Mary" languages="Indonesian;Malay">Paroki Saint Mary</name>
+		<name normalized="Parroquia de Saint Mary" languages="Spanish">Parroquia de Saint Mary</name>
+		<name normalized="Saint Mary" languages="Dutch;English;Italian;official;Polish;Portuguese">Saint Mary</name>
+		<name normalized="Saint Mary Parish" languages="English;official;Simple English">Saint Mary Parish</name>
+		<name normalized="Saint Mary prestegjeld" languages="Norwegian (bokmal)">Saint Mary prestegjeld</name>
+		<name normalized="Saint-Mary" languages="French">Saint-Mary</name>
+		<name normalized="Sv. Marijos parapija" languages="Lithuanian">Šv. Marijos parapija</name>
+		<name normalized="Αγια Μαρια" languages="Greek">Αγία Μαρία</name>
+		<name normalized="聖瑪麗區" languages="Chinese">聖瑪麗區</name>
+	</region>
+	<region name="Saint Paul" type="parish" typeTranslated="parish">
+		<name normalized="Paroki Saint Paul" languages="Indonesian;Malay">Paroki Saint Paul</name>
+		<name normalized="Parroquia de Saint Paul" languages="Spanish">Parroquia de Saint Paul</name>
+		<name normalized="Saint Paul" languages="Dutch;English;Italian;official;Polish;Portuguese">Saint Paul</name>
+		<name normalized="Saint Paul Parish" languages="English;official;Simple English">Saint Paul Parish</name>
+		<name normalized="Saint Paul prestegjeld" languages="Norwegian (bokmal)">Saint Paul prestegjeld</name>
+		<name normalized="Saint-Paul" languages="Breton;French">Saint-Paul</name>
+		<name normalized="Sv. Pauliaus parapija" languages="Lithuanian">Šv. Pauliaus parapija</name>
+		<name normalized="Αγιος Παuλος" languages="Greek">Άγιος Παύλος</name>
+		<name normalized="聖保羅區" languages="Chinese">聖保羅區</name>
+	</region>
+	<region name="Saint Peter" type="parish" typeTranslated="parish">
+		<name normalized="Paroki Saint Peter" languages="Indonesian;Malay">Paroki Saint Peter</name>
+		<name normalized="Parroquia de Saint Peter" languages="Spanish">Parroquia de Saint Peter</name>
+		<name normalized="Saint Peter" languages="Dutch;English;Italian;official;Polish;Portuguese">Saint Peter</name>
+		<name normalized="Saint Peter Parish" languages="English;official;Simple English">Saint Peter Parish</name>
+		<name normalized="Saint Peter prestegjeld" languages="Norwegian (bokmal)">Saint Peter prestegjeld</name>
+		<name normalized="Saint-Peter" languages="French">Saint-Peter</name>
+		<name normalized="Sv. Petro parapija" languages="Lithuanian">Šv. Petro parapija</name>
+		<name normalized="Αγιος Πeτρος" languages="Greek">Άγιος Πέτρος</name>
+		<name normalized="聖彼得區" languages="Chinese">聖彼得區</name>
+	</region>
+	<region name="Saint Philip" type="parish" typeTranslated="parish">
+		<name normalized="Paroki Saint Philip" languages="Indonesian;Malay">Paroki Saint Philip</name>
+		<name normalized="Parroquia de Saint Philip" languages="Spanish">Parroquia de Saint Philip</name>
+		<name normalized="Saint Philip" languages="Dutch;English;Italian;official;Polish;Portuguese">Saint Philip</name>
+		<name normalized="Saint Philip Parish" languages="English;official;Simple English">Saint Philip Parish</name>
+		<name normalized="Saint Philip prestegjeld" languages="Norwegian (bokmal)">Saint Philip prestegjeld</name>
+		<name normalized="Saint-Philip" languages="French">Saint-Philip</name>
+		<name normalized="Sv. Pilypo parapija" languages="Lithuanian">Šv. Pilypo parapija</name>
+		<name normalized="Αγιος Φιλιππος" languages="Greek">Άγιος Φίλιππος</name>
+		<name normalized="聖菲利普區" languages="Chinese">聖菲利普區</name>
+	</region>
+</regions>

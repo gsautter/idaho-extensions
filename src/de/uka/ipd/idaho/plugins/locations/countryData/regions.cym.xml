@@ -1,0 +1,134 @@
+<regions country="Cayman Islands">
+	<region name="Bodden Town" type="district" typeTranslated="district">
+		<name normalized="Bodden Town" languages="English;official">Bodden Town</name>
+		<name normalized="Bodden Town District" languages="English;official">Bodden Town District</name>
+	</region>
+	<region name="Cayman Brac and Little Cayman" type="district" typeTranslated="district">
+		<name normalized="Cayman Brac and Little Cayman" languages="English;official">Cayman Brac and Little Cayman</name>
+		<name normalized="Cayman Brac and Little Cayman District" languages="English;official">Cayman Brac and Little Cayman District</name>
+	</region>
+	<region name="East End" type="district" typeTranslated="district">
+		<name normalized="East End" languages="Dutch;English;official;Polish">East End</name>
+		<name normalized="East End District" languages="English;official">East End District</name>
+		<name normalized="End" languages="English;Esperanto;Italian;official">End</name>
+		<name normalized="End District" languages="English;official">End District</name>
+		<name normalized="Ende" languages="German">Ende</name>
+		<name normalized="Fen" languages="Haitian">Fen</name>
+		<name normalized="FIN" languages="French;Spanish">FIN</name>
+		<name normalized="Τeλος" languages="Greek">Τέλος</name>
+		<name normalized="Kiнitь" languages="Ukrainian">Кінець</name>
+		<name normalized="end" languages="Japanese">エンド</name>
+	</region>
+	<region name="George Town" type="district" typeTranslated="district">
+		<name normalized="Corctaun" languages="Azerbaijani">Corctaun</name>
+		<name normalized="Dzordztaunas" languages="Lithuanian">Džordžtaunas</name>
+		<name normalized="George Town" languages="Basque;Bosnian;Catalan;Croatian;Czech;Danish;Dutch;English;Finnish;French;German;Indonesian;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Serbo-Croatian;Simple English;Slovak;Spanish;Swedish;Turkish;Vietnamese;Yoruba">George Town</name>
+		<name normalized="George Town District" languages="English;official">George Town District</name>
+		<name normalized="George Town pa Caymanoyane" languages="Norwegian Nynorsk">George Town på Caymanøyane</name>
+		<name normalized="Georgetown" languages="Afrikaans;Ido;Waray">Georgetown</name>
+		<name normalized="Gorgtauno" languages="Esperanto">Ĝorĝtaŭno</name>
+		<name normalized="Τζωρτζταουν" languages="Greek">Τζώρτζταουν</name>
+		<name normalized="Goрad Dzoрdztaўн" languages="Belarusian">Горад Джорджтаўн</name>
+		<name normalized="Dzoрdz Tauн" languages="Bulgarian">Джордж Таун</name>
+		<name normalized="Dzoрdz Taўн" languages="biлaрuсkai (taрaskivita)‎">Джордж Таўн</name>
+		<name normalized="Dzoрdztauн" languages="Russian;Ukrainian">Джорджтаун</name>
+		<name normalized="Dzoрdz Tauн" languages="Macedonian">Џорџ Таун</name>
+		<name normalized="Dzoрdztauн" languages="Serbian">Џорџтаун</name>
+		<name normalized="ג'vrג' tאvן" languages="Hebrew">ג'ורג' טאון</name>
+		<name normalized="jאrj ٹאؤن, jزאئr کیmین" languages="Urdu">جارج ٹاؤن، جزائر کیمین</name>
+		<name normalized="jوrj tאون, jزr kאymאن" languages="Arabic">جورج تاون، جزر كايمان</name>
+		<name normalized="jor्jटाun" languages="Marathi">जॉर्जटाउन</name>
+		<name normalized="จอร์จทาวน์" languages="Thai">จอร์จทาวน์</name>
+		<name normalized="ჯორჯტაუნი" languages="Georgian">ჯორჯტაუნი</name>
+		<name normalized="zョーztun" languages="Japanese">ジョージタウン</name>
+		<name normalized="喬治敦" languages="Chinese">喬治敦</name>
+		<name normalized="조지타운" languages="Korean">조지타운</name>
+	</region>
+	<region name="North Side" type="district" typeTranslated="district">
+		<name normalized="North Side" languages="Dutch;English;official">North Side</name>
+		<name normalized="North Side District" languages="English;official">North Side District</name>
+		<name normalized="Sida" languages="Portuguese">Sida</name>
+		<name normalized="Side" languages="Catalan;Colognian;Czech;Dutch;English;German;Hungarian;Italian;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Slovenian;Spanish;Swedish;Turkish;Vietnamese">Side</name>
+		<name normalized="Side District" languages="English;official">Side District</name>
+		<name normalized="Side" languages="French">Sidé</name>
+		<name normalized="Сidi" languages="Russian">Сиде</name>
+		<name normalized="Сidi" languages="Ukrainian">Сіде</name>
+		<name normalized="سیدh" languages="Persian">سیده</name>
+		<name normalized="西代" languages="Chinese">西代</name>
+	</region>
+	<region name="West Bay" type="district" typeTranslated="district">
+		<name normalized="Baai" languages="Dutch">Baai</name>
+		<name normalized="Badia" languages="Basque;Catalan">Badia</name>
+		<name normalized="Badia" languages="Aragonese">Badía</name>
+		<name normalized="Bae" languages="Breton;Welsh">Bae</name>
+		<name normalized="Bahia" languages="Spanish">Bahía</name>
+		<name normalized="Baia" languages="Italian">Baia</name>
+		<name normalized="Baie" languages="French">Baie</name>
+		<name normalized="Bay" languages="English;official">Bay</name>
+		<name normalized="Bay District" languages="English;official">Bay District</name>
+		<name normalized="Bayo" languages="Ido">Bayo</name>
+		<name normalized="Baia" languages="Galician;Portuguese">Baía</name>
+		<name normalized="Bucht" languages="German">Bucht</name>
+		<name normalized="Bugt" languages="Danish">Bugt</name>
+		<name normalized="Bukt" languages="Norwegian (bokmal);Norwegian Nynorsk">Bukt</name>
+		<name normalized="Boch" languages="Limburgish">Bóch</name>
+		<name normalized="Cala" languages="Sicilian">Cala</name>
+		<name normalized="Gjiret detare" languages="Albanian">Gjiret detare</name>
+		<name normalized="Golfo" languages="Esperanto">Golfo</name>
+		<name normalized="Havsvik" languages="Swedish">Havsvik</name>
+		<name normalized="Helodrano" languages="Malagasy">Helodrano</name>
+		<name normalized="Hai-oan" languages="Chinese (Min Nan)">Hái-oan</name>
+		<name normalized="Kidaka" languages="Swahili">Kidaka</name>
+		<name normalized="Koy" languages="Turkish">Koy</name>
+		<name normalized="Koʻrfaz" languages="Uzbek">Koʻrfaz</name>
+		<name normalized="Korfəz" languages="Azerbaijani">Körfəz</name>
+		<name normalized="Laht" languages="Estonian">Laht</name>
+		<name normalized="Lahti" languages="Finnish">Lahti</name>
+		<name normalized="Linne" languages="Scottish Gaelic">Linne</name>
+		<name normalized="Look" languages="Tagalog">Look</name>
+		<name normalized="Licis" languages="Latvian">Līcis</name>
+		<name normalized="Sinus maritimus" languages="Latin">Sinus maritimus</name>
+		<name normalized="Taluak" languages="Minangkabau">Taluak</name>
+		<name normalized="Teluk" languages="Indonesian;Javanese;Sundanese">Teluk</name>
+		<name normalized="Vik" languages="Icelandic">Vík</name>
+		<name normalized="Vinh" languages="Vietnamese">Vịnh</name>
+		<name normalized="West Bay" languages="English;official;Polish;Spanish">West Bay</name>
+		<name normalized="West Bay District" languages="English;official">West Bay District</name>
+		<name normalized="Yjere" languages="Guarani">Yjere</name>
+		<name normalized="Zaliv" languages="Bosnian;Slovenian">Zaliv</name>
+		<name normalized="Zaljev" languages="Croatian;Serbo-Croatian">Zaljev</name>
+		<name normalized="Zatoka" languages="Polish">Zatoka</name>
+		<name normalized="Zaliv" languages="Czech;Slovak">Záliv</name>
+		<name normalized="Obol" languages="Hungarian">Öböl</name>
+		<name normalized="Ilanka" languages="Lithuanian">Įlanka</name>
+		<name normalized="Κολπος" languages="Greek">Κόλπος</name>
+		<name normalized="Vudлuk" languages="Eastern Mari">Вӱдлук</name>
+		<name normalized="Vӹdъiл" languages="Hill Mari">Вӹдъял</name>
+		<name normalized="Zaлiv" languages="Bulgarian;Macedonian;Russian;Serbian">Залив</name>
+		<name normalized="Zaлiў" languages="biлaрuсkai (taрaskivita)‎">Заліў</name>
+		<name normalized="Zatoka" languages="Ukrainian">Затока</name>
+		<name normalized="Kuлtыk" languages="Tatar">Култык</name>
+		<name normalized="Kuръi" languages="Komi">Куръя</name>
+		<name normalized="Koмo" languages="Sakha">Хомо</name>
+		<name normalized="Sығaнak" languages="Kazakh">Шығанақ</name>
+		<name normalized="Ҡuлtыҡ" languages="Bashkir">Ҡултыҡ</name>
+		<name normalized="Cvc" languages="Armenian">Ծոց</name>
+		<name normalized="bvכtע" languages="Yiddish">בוכטע</name>
+		<name normalized="מprץ" languages="Hebrew">מפרץ</name>
+		<name normalized="خلyj" languages="Arabic">خليج</name>
+		<name normalized="خلیj" languages="Persian;Urdu">خلیج</name>
+		<name normalized="کەندאو" languages="Sorani Kurdish">کەنداو</name>
+		<name normalized="ܒܪܩܩܐ" languages="Aramaic">ܒܪܩܩܐ</name>
+		<name normalized="kाड़i" languages="Hindi">खाड़ी</name>
+		<name normalized="kाडi" languages="Marathi">खाडी</name>
+		<name normalized="upsাgr" languages="Bengali">উপসাগর</name>
+		<name normalized="kਾri" languages="Punjabi">ਖਾੜੀ</name>
+		<name normalized="อ่าว" languages="Thai">อ่าว</name>
+		<name normalized="ყურე" languages="Georgian">ყურე</name>
+		<name normalized="ᐊᑯᖅ" languages="Inuktitut">ᐊᑯᖅ</name>
+		<name normalized="海灣" languages="Chinese">海灣</name>
+		<name normalized="湾" languages="Japanese">湾</name>
+		<name normalized="灣" languages="Cantonese">灣</name>
+		<name normalized="만" languages="Korean">만</name>
+	</region>
+</regions>

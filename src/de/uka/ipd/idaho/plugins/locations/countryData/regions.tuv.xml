@@ -1,0 +1,88 @@
+<regions country="Tuvalu">
+	<region name="Funafuti" type="town council" typeTranslated="town council">
+		<name normalized="Founafouti" languages="Haitian">Founafouti</name>
+		<name normalized="Funafuti" languages="Achinese;Afrikaans;Azerbaijani;Basque;Bosnian;Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;Galician;German;Hungarian;Indonesian;Interlingua;Interlingue;Italian;Kinyarwanda;Latin;Latvian;lumbaart;Luxembourgish;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Piedmontese;Polish;Portuguese;Romanian;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Slovak;Spanish;Swedish;Tagalog;Vietnamese;Waray;Welsh">Funafuti</name>
+		<name normalized="Funafutio" languages="Esperanto">Funafutio</name>
+		<name normalized="Funafutis" languages="Lithuanian">Funafutis</name>
+		<name normalized="Funafuti" languages="Icelandic">Fúnafútí</name>
+		<name normalized="Atoл Фuнaфuti" languages="Belarusian">Атол Фунафуці</name>
+		<name normalized="Фuнaфuti" languages="Bulgarian;Hill Mari;Macedonian;Ossetic;Russian;Sakha;Serbian">Фунафути</name>
+		<name normalized="Фuнaфuti" languages="Ukrainian">Фунафуті</name>
+		<name normalized="Фuнaфuti" languages="biлaрuсkai (taрaskivita)‎">Фунафуці</name>
+		<name normalized="Fvyնաfvytի" languages="Armenian">Ֆունաֆուտի</name>
+		<name normalized="pnאpvtי" languages="Hebrew">פנאפוטי</name>
+		<name normalized="fونאfوty" languages="Arabic">فونافوتي</name>
+		<name normalized="fونאfوtی" languages="Persian;Urdu">فونافوتی</name>
+		<name normalized="punाputi" languages="Marathi">फुनाफुती</name>
+		<name normalized="p਼unਾp਼uti" languages="Punjabi">ਫ਼ੁਨਾਫ਼ੁਤੀ</name>
+		<name normalized="ฟูนะฟูตี" languages="Thai">ฟูนะฟูตี</name>
+		<name normalized="ཕུ་ན་ཕུ་ཊི།" languages="Tibetan">ཕུ་ན་ཕུ་ཊི།</name>
+		<name normalized="ფუნაფუტი" languages="Georgian">ფუნაფუტი</name>
+		<name normalized="ፉናፉቲ" languages="Amharic">ፉናፉቲ</name>
+		<name normalized="hnhti島" languages="Japanese">フナフティ島</name>
+		<name normalized="富纳富提" languages="Chinese">富纳富提</name>
+		<name normalized="푸나푸티" languages="Korean">푸나푸티</name>
+	</region>
+	<region name="Nanumaga" type="island council" typeTranslated="island council">
+		<name normalized="Nanumaga" languages="Catalan;Czech;English;French;Italian;official;Portuguese;Romanian;Slovak">Nanumaga</name>
+		<name normalized="Nanumanga" languages="Dutch;English;Esperanto;Finnish;Galician;German;Hungarian;Lithuanian;Norwegian (bokmal);Polish;Scots;Spanish;Swedish">Nanumanga</name>
+		<name normalized="Voсtрaў Нaнuмaнga" languages="Belarusian">Востраў Нануманга</name>
+		<name normalized="Нaнuмaнga" languages="Macedonian;Russian;Ukrainian">Нануманга</name>
+		<name normalized="nnmng島" languages="Japanese">ナヌマンガ島</name>
+		<name normalized="纳努曼加岛" languages="Chinese">纳努曼加岛</name>
+		<name normalized="나누망가 섬" languages="Korean">나누망가 섬</name>
+	</region>
+	<region name="Nanumea" type="island council" typeTranslated="island council">
+		<name normalized="Atol Nanumea" languages="Galician">Atol Nanumea</name>
+		<name normalized="Nanumea" languages="Basque;Catalan;Czech;Dutch;English;Esperanto;Estonian;Finnish;French;Hungarian;Italian;Lithuanian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Slovak;Spanish;Swedish">Nanumea</name>
+		<name normalized="Nanumea-Atoll" languages="German">Nanumea-Atoll</name>
+		<name normalized="Atoл Нaнuмia" languages="Belarusian">Атол Нанумеа</name>
+		<name normalized="Нaнuмia" languages="Bulgarian;Russian;Ukrainian">Нанумеа</name>
+		<name normalized="Нaнuмija" languages="Macedonian">Нанумеја</name>
+		<name normalized="nnma環礁" languages="Japanese">ナヌメア環礁</name>
+		<name normalized="納努梅阿環礁" languages="Chinese">納努梅阿環礁</name>
+		<name normalized="나누메아 환초" languages="Korean">나누메아 환초</name>
+	</region>
+	<region name="Niutao" type="island council" typeTranslated="island council">
+		<name normalized="Niutao" languages="Catalan;Czech;Dutch;English;Esperanto;Finnish;French;Galician;German;Hungarian;Italian;Lithuanian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Slovak;Spanish;Swedish;Zeeuws">Niutao</name>
+		<name normalized="Voсtрaў Нiўtao" languages="Belarusian">Востраў Ніўтао</name>
+		<name normalized="Нiutao" languages="Macedonian;Russian">Ниутао</name>
+		<name normalized="Нiutao" languages="Ukrainian">Ніутао</name>
+		<name normalized="nuto島" languages="Japanese">ニウタオ島</name>
+		<name normalized="紐陶島" languages="Chinese">紐陶島</name>
+		<name normalized="니우타오 섬" languages="Korean">니우타오 섬</name>
+	</region>
+	<region name="Nui" type="island council" typeTranslated="island council">
+		<name normalized="Nui" languages="English;French;German;Italian;Japanese;official">Nui</name>
+	</region>
+	<region name="Nukufetau" type="island council" typeTranslated="island council">
+		<name normalized="Atol Nukufetau" languages="Galician">Atol Nukufetau</name>
+		<name normalized="Nukufetau" languages="Catalan;Czech;Dutch;English;Finnish;French;German;Hungarian;Italian;Lithuanian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Slovak;Spanish;Swedish">Nukufetau</name>
+		<name normalized="Atoл Нukuфitau" languages="Belarusian">Атол Нукуфетау</name>
+		<name normalized="Нukuфitau" languages="Macedonian;Russian">Нукуфетау</name>
+		<name normalized="nkhetu環礁" languages="Japanese">ヌクフェタウ環礁</name>
+		<name normalized="努庫費陶環礁" languages="Chinese">努庫費陶環礁</name>
+		<name normalized="누쿠페타우 환초" languages="Korean">누쿠페타우 환초</name>
+	</region>
+	<region name="Nukulaelae" type="island council" typeTranslated="island council">
+		<name normalized="Atol Nukulaelae" languages="Galician">Atol Nukulaelae</name>
+		<name normalized="Nukulaelae" languages="Catalan;Czech;Dutch;English;Finnish;French;German;Hungarian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Slovak;Spanish;Swedish">Nukulaelae</name>
+		<name normalized="Nukulaelae" languages="Lithuanian">Nukulaelaė</name>
+		<name normalized="Atoл Нukuлaeлae" languages="Belarusian">Атол Нукулаэлаэ</name>
+		<name normalized="Нukuлaiлai" languages="Bulgarian;Macedonian;Ukrainian">Нукулаелае</name>
+		<name normalized="Нukuлaeлae" languages="Russian">Нукулаэлаэ</name>
+		<name normalized="nkrere環礁" languages="Japanese">ヌクラエラエ環礁</name>
+		<name normalized="努庫萊萊環礁" languages="Chinese">努庫萊萊環礁</name>
+		<name normalized="누쿨라엘라에 환초" languages="Korean">누쿨라엘라에 환초</name>
+	</region>
+	<region name="Vaitupu" type="island council" typeTranslated="island council">
+		<name normalized="Illa Vaitupu" languages="Galician">Illa Vaitupu</name>
+		<name normalized="Vaitupu" languages="Catalan;Czech;Dutch;English;Esperanto;Finnish;French;German;Hungarian;Italian;Lithuanian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Slovak;Spanish;Swedish">Vaitupu</name>
+		<name normalized="Atoл Vaitupu" languages="Belarusian">Атол Ваітупу</name>
+		<name normalized="Vaitupu" languages="Macedonian;Russian">Ваитупу</name>
+		<name normalized="Vaitupu" languages="Ukrainian">Ваітупу</name>
+		<name normalized="vaitp島" languages="Japanese">ヴァイツプ島</name>
+		<name normalized="婓伊托波" languages="Chinese">婓伊托波</name>
+		<name normalized="바이투푸 섬" languages="Korean">바이투푸 섬</name>
+	</region>
+</regions>

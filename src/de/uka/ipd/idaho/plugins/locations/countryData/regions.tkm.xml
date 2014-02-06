@@ -1,0 +1,204 @@
+<regions country="Turkmenistan">
+	<region name="Ahal Welayaty" type="province" typeTranslated="welayat">
+		<name normalized="Achal" languages="Swedish">Achal</name>
+		<name normalized="Ahal" languages="Dutch;French;Portuguese;Vietnamese">Ahal</name>
+		<name normalized="Ahal Province" languages="English;Scots">Ahal Province</name>
+		<name normalized="Ahal vilayeti" languages="Turkish">Ahal vilayeti</name>
+		<name normalized="Ahal vilayəti" languages="Azerbaijani">Ahal vilayəti</name>
+		<name normalized="Ahal viloyati" languages="Uzbek">Ahal viloyati</name>
+		<name normalized="Ahal Welayaty" languages="English;official">Ahal Welayaty</name>
+		<name normalized="Ahal Welayaty Province" languages="English;official">Ahal Welayaty Province</name>
+		<name normalized="Ahal welayaty" languages="German;Turkmen">Ahal welaýaty</name>
+		<name normalized="Ahali vilajett" languages="Estonian">Ahali vilajett</name>
+		<name normalized="Ahalin maakunta" languages="Finnish">Ahalin maakunta</name>
+		<name normalized="Ahalo velajatas" languages="Lithuanian">Ahalo velajatas</name>
+		<name normalized="Provincia Ahal" languages="Romanian">Provincia Ahal</name>
+		<name normalized="Provincia de Ahal" languages="Spanish">Provincia de Ahal</name>
+		<name normalized="Provincia di Ahal" languages="Italian">Provincia di Ahal</name>
+		<name normalized="Provinco Ahal" languages="Esperanto">Provinco Ahal</name>
+		<name normalized="Provinsi Ahal" languages="Indonesian;Malay">Provinsi Ahal</name>
+		<name normalized="Provincia d'Ahal" languages="Catalan">Província d'Ahal</name>
+		<name normalized="Wilajet achalski" languages="Polish">Wilajet achalski</name>
+		<name normalized="Wilayah Ahal" languages="Achinese">Wilayah Ahal</name>
+		<name normalized="Akaл" languages="Bulgarian">Ахал</name>
+		<name normalized="Akaл мuz" languages="Mongolian">Ахал муж</name>
+		<name normalized="Akaлсkiй viлait" languages="Russian">Ахалский велаят</name>
+		<name normalized="Akaлсki veлait" languages="biлaрuсkai (taрaskivita)‎">Ахалскі вэлаят</name>
+		<name normalized="Akaлсьkiй viлait" languages="Ukrainian">Ахалський велаят</name>
+		<name normalized="Viлoiti Ahaл" languages="Tajik">Вилояти Аҳал</name>
+		<name normalized="Աhաlի վեlայաt" languages="Armenian">Ահալի վելայաթ</name>
+		<name normalized="אسtאن آخאل" languages="Persian">استان آخال</name>
+		<name normalized="sوbہ אخאل" languages="Western Punjabi">صوبہ اخال</name>
+		<name normalized="ak़ाl p्rाn्t" languages="Hindi">आख़ाल प्रान्त</name>
+		<name normalized="ახალის ველაიათი" languages="Georgian">ახალის ველაიათი</name>
+		<name normalized="ahr州" languages="Japanese">アハル州</name>
+		<name normalized="阿哈爾州" languages="Chinese">阿哈爾州</name>
+		<name normalized="아할 주" languages="Korean">아할 주</name>
+	</region>
+	<region name="Ashgabat" type="independent city" typeTranslated="independent city">
+		<name normalized="Achgabat" languages="French;Haitian">Achgabat</name>
+		<name normalized="Achkhabad" languages="Galician">Achkhabad</name>
+		<name normalized="Aschchabad" languages="Luxembourgish">Aschchabad</name>
+		<name normalized="Aschgabat" languages="Albanian">Aschgabat</name>
+		<name normalized="Asgabat" languages="Basque;Icelandic">Asgabat</name>
+		<name normalized="Asgabate" languages="Portuguese">Asgabate</name>
+		<name normalized="Ashabat" languages="Tagalog">Ashabat</name>
+		<name normalized="Ashgabat" languages="Achinese;Bosnian;Chinese (Min Nan);English;Fiji Hindi;Ido;Indonesian;Interlingue;Malay;Novial;Occitan;official;Piedmontese;Scots;Scottish Gaelic;Shona;Swahili;Vietnamese;Waray;Welsh;Yoruba">Ashgabat</name>
+		<name normalized="Ashxobod" languages="Uzbek">Ashxobod</name>
+		<name normalized="Asjabad" languages="Spanish">Asjabad</name>
+		<name normalized="Asjchabad" languages="Dutch;Swedish;Western Frisian">Asjchabad</name>
+		<name normalized="Asjchabat" languages="Afrikaans">Asjchabat</name>
+		<name normalized="Asjkhabad" languages="Danish;Norwegian (bokmal);Norwegian Nynorsk">Asjkhabad</name>
+		<name normalized="Aszchabad" languages="Polish">Aszchabad</name>
+		<name normalized="Asgabato" languages="Esperanto">Aŝgabato</name>
+		<name normalized="Asgabat" languages="Breton;Catalan;Estonian;German;Hungarian;Italian;Kurdish;Latin;lumbaart;Manx;Romanian;Simple English;Turkmen;Volapuk">Aşgabat</name>
+		<name normalized="Askabat" languages="Turkish">Aşkabat</name>
+		<name normalized="Asqabad" languages="Azerbaijani">Aşqabad</name>
+		<name normalized="Asgabat" languages="Crimean Turkish">Aşğabat</name>
+		<name normalized="Aschabad" languages="Czech;Lower Sorbian;Slovak;Upper Sorbian">Ašchabad</name>
+		<name normalized="Aschabadas" languages="Lithuanian">Ašchabadas</name>
+		<name normalized="Asgabat" languages="Croatian;Finnish">Ašgabat</name>
+		<name normalized="Asgabata" languages="Latvian">Ašgabata</name>
+		<name normalized="Ashabad" languages="Serbo-Croatian;Slovenian;Veps">Ašhabad</name>
+		<name normalized="Ασγκαμπατ" languages="Greek">Ασγκαμπάτ</name>
+		<name normalized="Asgabad" languages="biлaрuсkai (taрaskivita)‎">Ашгабад</name>
+		<name normalized="Asgabat" languages="Sakha;Ukrainian">Ашгабат</name>
+		<name normalized="Askabad" languages="Tatar">Ашкабад</name>
+		<name normalized="Askabad" languages="Bulgarian;Chechen;Eastern Mari;Kazakh;Komi;Komi-Permyak;Macedonian;Mongolian;Ossetic;Russian;Serbian;Udmurt">Ашхабад</name>
+		<name normalized="Askabad os" languages="Erzya">Ашхабад ош</name>
+		<name normalized="Goрad Askabad" languages="Belarusian">Горад Ашхабад</name>
+		<name normalized="GIaskъabad" languages="Avaric">ГІашкъабад</name>
+		<name normalized="Iskobod" languages="Tajik">Ишқобод</name>
+		<name normalized="Աsxաbաd" languages="Armenian">Աշխաբադ</name>
+		<name normalized="אשגאbאt" languages="Yiddish">אשגאבאט</name>
+		<name normalized="אשגאbt" languages="Hebrew">אשגאבט</name>
+		<name normalized="ئאشخאbאد" languages="Uyghur">ئاشخاباد</name>
+		<name normalized="אشک آbאد" languages="Urdu">اشک آباد</name>
+		<name normalized="عشq آbאد" languages="Arabic;Pashto">عشق آباد</name>
+		<name normalized="عشq אbאد" languages="Egyptian Spoken Arabic">عشق اباد</name>
+		<name normalized="عشq‌آbאد" languages="Persian">عشق‌آباد</name>
+		<name normalized="عەشqאbאد" languages="Sorani Kurdish">عەشقاباد</name>
+		<name normalized="as्k़ाbाd" languages="Hindi">अश्क़ाबाद</name>
+		<name normalized="as्gाbाd" languages="Marathi">अश्गाबाद</name>
+		<name normalized="askাbাd" languages="Bengali">আশখাবাদ</name>
+		<name normalized="as਼gਾbਾd" languages="Punjabi">ਅਸ਼ਗਾਬਾਦ</name>
+		<name normalized="அசுகாபாத்" languages="Tamil">அசுகாபாத்</name>
+		<name normalized="ಅಶ್ಗಾಬಾತ್" languages="Kannada">ಅಶ್ಗಾಬಾತ್</name>
+		<name normalized="അഷ്ഗാബാദ്" languages="Malayalam">അഷ്ഗാബാദ്</name>
+		<name normalized="อาชกาบัต" languages="Thai">อาชกาบัต</name>
+		<name normalized="ཨ་ཧྲི་ཁ་པད།" languages="Tibetan">ཨ་ཧྲི་ཁ་པད།</name>
+		<name normalized="აშხაბადი" languages="Georgian">აშხაბადი</name>
+		<name normalized="አሽጋባት" languages="Amharic">አሽጋባት</name>
+		<name normalized="asgbーt" languages="Japanese">アシガバート</name>
+		<name normalized="阿什哈巴德" languages="Cantonese;Chinese;Wu">阿什哈巴德</name>
+		<name normalized="아시가바트" languages="Korean">아시가바트</name>
+	</region>
+	<region name="Balkan Welayaty" type="province" typeTranslated="welayat">
+		<name normalized="Balkan" languages="Dutch;French;Hungarian;Portuguese;Swedish;Vietnamese">Balkan</name>
+		<name normalized="Balkan probintzia" languages="Basque">Balkan probintzia</name>
+		<name normalized="Balkan Province" languages="English;Scots">Balkan Province</name>
+		<name normalized="Balkan vilayeti" languages="Turkish">Balkan vilayeti</name>
+		<name normalized="Balkan vilayəti" languages="Azerbaijani">Balkan vilayəti</name>
+		<name normalized="Balkan Welayaty" languages="English;official">Balkan Welayaty</name>
+		<name normalized="Balkan Welayaty Province" languages="English;official">Balkan Welayaty Province</name>
+		<name normalized="Balkan welayaty" languages="Croatian;German;Turkmen">Balkan welaýaty</name>
+		<name normalized="Balkani vilajett" languages="Estonian">Balkani vilajett</name>
+		<name normalized="Balkanin maakunta" languages="Finnish">Balkanin maakunta</name>
+		<name normalized="Balkano velajatas" languages="Lithuanian">Balkano velajatas</name>
+		<name normalized="Bolqon viloyati" languages="Uzbek">Bolqon viloyati</name>
+		<name normalized="Provincia Balkan" languages="Romanian">Provincia Balkan</name>
+		<name normalized="Provincia de Balkan" languages="Galician;Spanish">Provincia de Balkan</name>
+		<name normalized="Provincia di Balkan" languages="Italian">Provincia di Balkan</name>
+		<name normalized="Provinco Balkan" languages="Esperanto">Provinco Balkan</name>
+		<name normalized="Provinsi Balkan" languages="Indonesian;Malay">Provinsi Balkan</name>
+		<name normalized="Provincia de Balkan" languages="Catalan">Província de Balkan</name>
+		<name normalized="Wilajet balkanski" languages="Polish">Wilajet balkański</name>
+		<name normalized="Wilayah Balkan" languages="Achinese">Wilayah Balkan</name>
+		<name normalized="Baлkaн" languages="Bulgarian">Балкан</name>
+		<name normalized="Baлkaн мuz" languages="Mongolian">Балкан муж</name>
+		<name normalized="Baлkaнсkiй viлait" languages="Russian">Балканский велаят</name>
+		<name normalized="Baлkaнсki veлait" languages="biлaрuсkai (taрaskivita)‎">Балканскі вэлаят</name>
+		<name normalized="Baлkaнсьkiй viлait" languages="Ukrainian">Балканський велаят</name>
+		<name normalized="Viлoiti Baлkaн" languages="Tajik">Вилояти Балкан</name>
+		<name normalized="Pokрajiнa Baлkaн" languages="Serbian">Покрајина Балкан</name>
+		<name normalized="Bաlkանի վեlայաt" languages="Armenian">Բալկանի վելայաթ</name>
+		<name normalized="אسtאن bلخאن" languages="Persian">استان بلخان</name>
+		<name normalized="bلqאن" languages="Arabic">بلقان</name>
+		<name normalized="blk़ाn p्rाn्t" languages="Hindi">बलक़ान प्रान्त</name>
+		<name normalized="ბალკანის ველაიათი" languages="Georgian">ბალკანის ველაიათი</name>
+		<name normalized="brkn州" languages="Japanese">バルカン州</name>
+		<name normalized="巴爾坎州" languages="Chinese">巴爾坎州</name>
+		<name normalized="발칸 주" languages="Korean">발칸 주</name>
+	</region>
+	<region name="Dashoguz Welayaty" type="province" typeTranslated="welayat">
+		<name normalized="Dashoguz Welayaty" languages="English;official">Dashoguz Welayaty</name>
+		<name normalized="Dashoguz Welayaty Province" languages="English;official">Dashoguz Welayaty Province</name>
+	</region>
+	<region name="Lebap Welayaty" type="province" typeTranslated="welayat">
+		<name normalized="Lebap" languages="Dutch;Esperanto;French;Portuguese;Swedish;Vietnamese">Lebap</name>
+		<name normalized="Lebap Province" languages="English;Scots">Lebap Province</name>
+		<name normalized="Lebap vilayeti" languages="Turkish">Lebap vilayeti</name>
+		<name normalized="Lebap vilayəti" languages="Azerbaijani">Lebap vilayəti</name>
+		<name normalized="Lebap viloyati" languages="Uzbek">Lebap viloyati</name>
+		<name normalized="Lebap Welayaty" languages="English;official">Lebap Welayaty</name>
+		<name normalized="Lebap Welayaty Province" languages="English;official">Lebap Welayaty Province</name>
+		<name normalized="Lebap welayaty" languages="German;Turkmen">Lebap welaýaty</name>
+		<name normalized="Lebapi vilajett" languages="Estonian">Lebapi vilajett</name>
+		<name normalized="Lebapin maakunta" languages="Finnish">Lebapin maakunta</name>
+		<name normalized="Lebapo velajatas" languages="Lithuanian">Lebapo velajatas</name>
+		<name normalized="Provincia de Lebap" languages="Spanish">Provincia de Lebap</name>
+		<name normalized="Provincia di Lebap" languages="Italian">Provincia di Lebap</name>
+		<name normalized="Provincia Lebap" languages="Romanian">Provincia Lebap</name>
+		<name normalized="Provinsi Lebap" languages="Indonesian;Malay">Provinsi Lebap</name>
+		<name normalized="Provincia de Lebap" languages="Catalan">Província de Lebap</name>
+		<name normalized="Wilajet lebapski" languages="Polish">Wilajet lebapski</name>
+		<name normalized="Wilayah Lebap" languages="Achinese">Wilayah Lebap</name>
+		<name normalized="Viлoiti Лibap" languages="Tajik">Вилояти Лебап</name>
+		<name normalized="Лibap" languages="Bulgarian">Лебап</name>
+		<name normalized="Лibap мuz" languages="Mongolian">Лебап муж</name>
+		<name normalized="Лibapсkiй viлait" languages="Russian">Лебапский велаят</name>
+		<name normalized="Лibapсki veлait" languages="biлaрuсkai (taрaskivita)‎">Лебапскі вэлаят</name>
+		<name normalized="Лibapсьkiй viлait" languages="Ukrainian">Лебапський велаят</name>
+		<name normalized="Lեbաpի վեlայաt" languages="Armenian">Լեբապի վելայաթ</name>
+		<name normalized="אسtאن لb آb" languages="Persian">استان لب آب</name>
+		<name normalized="lebाp p्rाn्t" languages="Hindi">लेबाप प्रान्त</name>
+		<name normalized="ლებაპის ველაიათი" languages="Georgian">ლებაპის ველაიათი</name>
+		<name normalized="rbp州" languages="Japanese">レバプ州</name>
+		<name normalized="列巴普州" languages="Chinese">列巴普州</name>
+		<name normalized="레바프 주" languages="Korean">레바프 주</name>
+	</region>
+	<region name="Mary Welayaty" type="province" typeTranslated="welayat">
+		<name normalized="Marı vilayəti" languages="Azerbaijani">Marı vilayəti</name>
+		<name normalized="Mari viloyati" languages="Uzbek">Mari viloyati</name>
+		<name normalized="Maro velajatas" languages="Lithuanian">Maro velajatas</name>
+		<name normalized="Mary" languages="Dutch;French;Portuguese;Swedish;Vietnamese">Mary</name>
+		<name normalized="Mary Province" languages="English;Scots">Mary Province</name>
+		<name normalized="Mary vilajett" languages="Estonian">Mary vilajett</name>
+		<name normalized="Mary vilayeti" languages="Turkish">Mary vilayeti</name>
+		<name normalized="Mary Welayaty" languages="English;official">Mary Welayaty</name>
+		<name normalized="Mary Welayaty Province" languages="English;official">Mary Welayaty Province</name>
+		<name normalized="Mary welayaty" languages="German;Turkmen">Mary welaýaty</name>
+		<name normalized="Maryn maakunta" languages="Finnish">Maryn maakunta</name>
+		<name normalized="Provincia de Mary" languages="Spanish">Provincia de Mary</name>
+		<name normalized="Provincia di Mary" languages="Italian">Provincia di Mary</name>
+		<name normalized="Provincia Mary" languages="Romanian">Provincia Mary</name>
+		<name normalized="Provinco Mary" languages="Esperanto">Provinco Mary</name>
+		<name normalized="Provinsi Mary" languages="Indonesian;Malay">Provinsi Mary</name>
+		<name normalized="Provincia de Mary" languages="Catalan">Província de Mary</name>
+		<name normalized="Wilajet maryjski" languages="Polish">Wilajet maryjski</name>
+		<name normalized="Wilayah Mary" languages="Achinese">Wilayah Mary</name>
+		<name normalized="Viлoiti Мaрй" languages="Tajik">Вилояти Марй</name>
+		<name normalized="Мaрi" languages="Bulgarian">Мари</name>
+		<name normalized="Мaрiйсьkiй viлait" languages="Ukrainian">Марийський велаят</name>
+		<name normalized="Мaры мuz" languages="Mongolian">Мары муж</name>
+		<name normalized="Мaрыйсkiй viлait" languages="Russian">Марыйский велаят</name>
+		<name normalized="Мaрыйсki veлait" languages="biлaрuсkai (taрaskivita)‎">Марыйскі вэлаят</name>
+		<name normalized="Mաrիի վեlայաt" languages="Armenian">Մարիի վելայաթ</name>
+		<name normalized="אسtאن mrو" languages="Persian">استان مرو</name>
+		<name normalized="mri p्rाn्t" languages="Hindi">मरी प्रान्त</name>
+		<name normalized="მარის ველაიათი" languages="Georgian">მარის ველაიათი</name>
+		<name normalized="mr州" languages="Japanese">マル州</name>
+		<name normalized="馬雷州" languages="Chinese">馬雷州</name>
+		<name normalized="마리 주" languages="Korean">마리 주</name>
+	</region>
+</regions>

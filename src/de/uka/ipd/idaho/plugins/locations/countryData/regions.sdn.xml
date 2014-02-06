@@ -1,0 +1,378 @@
+<regions country="Sudan">
+	<region name="Al Bahr al Ahmar" type="state" typeTranslated="wilayah">
+		<name normalized="Al Bahr al Ahmar" languages="English;official">Al Bahr al Ahmar</name>
+		<name normalized="Al-Bahr al-Ahmar" languages="Finnish;German;Swedish">Al-Bahr al-Ahmar</name>
+		<name normalized="Al-Bahr-al-Ahmar" languages="Dutch">Al-Bahr-al-Ahmar</name>
+		<name normalized="Al-Bahr al-Ahmari provints" languages="Estonian">Al-Baḩr al-Aḩmari provints</name>
+		<name normalized="Bahari ya Shamu" languages="Swahili">Bahari ya Shamu</name>
+		<name normalized="Estat de la Mar Roja" languages="Catalan">Estat de la Mar Roja</name>
+		<name normalized="Kızıl Deniz Eyaleti" languages="Turkish">Kızıl Deniz Eyaleti</name>
+		<name normalized="Laut Merah" languages="Indonesian;Malay">Laut Merah</name>
+		<name normalized="Mar Rojo" languages="Spanish">Mar Rojo</name>
+		<name normalized="Mar Rosso" languages="Italian">Mar Rosso</name>
+		<name normalized="Mar Vermelho" languages="Portuguese">Mar Vermelho</name>
+		<name normalized="Mer Rouge" languages="French">Mer Rouge</name>
+		<name normalized="Prowincja Morza Czerwonego" languages="Polish">Prowincja Morza Czerwonego</name>
+		<name normalized="Pula nga Dagat" languages="Waray">Pula nga Dagat</name>
+		<name normalized="Raudonosios Juros vilajetas" languages="Lithuanian">Raudonosios Jūros vilajetas</name>
+		<name normalized="Red Sea" languages="English;official">Red Sea</name>
+		<name normalized="Reid Sea" languages="Scots">Reid Sea</name>
+		<name normalized="Ruga Maro" languages="Esperanto">Ruĝa Maro</name>
+		<name normalized="Rode Hav" languages="Danish">Røde Hav</name>
+		<name normalized="Statul Marea Rosie" languages="Romanian">Statul Marea Roșie</name>
+		<name normalized="Kрaснoi мoрi" languages="Russian">Красное море</name>
+		<name normalized="Ciрviнo мoрi" languages="Bulgarian">Червено море</name>
+		<name normalized="אד-bhr אד-אhמr" languages="Hebrew">אל-בחר אל-אחמר</name>
+		<name normalized="دrیאی سrخ" languages="Persian">دریای سرخ</name>
+		<name normalized="rtא سmندr" languages="Western Punjabi">رتا سمندر</name>
+		<name normalized="ولאyة אلbhr אلأhmr" languages="Arabic">ولاية البحر الأحمر</name>
+		<name normalized="紅海州" languages="Japanese">紅海州</name>
+		<name normalized="紅海省" languages="Chinese">紅海省</name>
+		<name normalized="홍해 주" languages="Korean">홍해 주</name>
+	</region>
+	<region name="Al Jazira" type="state" typeTranslated="wilayah">
+		<name normalized="Al Jazeera" languages="Spanish">Al Jazeera</name>
+		<name normalized="Al Jazira" languages="English;official">Al Jazira</name>
+		<name normalized="Al Jazirah" languages="Danish;English;Finnish;French;Indonesian;Norwegian (bokmal);Portuguese;Swahili;Waray">Al Jazirah</name>
+		<name normalized="Al-Dschazira" languages="German">Al-Dschazira</name>
+		<name normalized="Al-Dzazira" languages="Polish">Al-Dżazira</name>
+		<name normalized="Al-Dzazira" languages="Slovak">Al-Džazíra</name>
+		<name normalized="Al-Jazira" languages="Catalan;French;Portuguese">Al-Jazira</name>
+		<name normalized="Al-Jazirah" languages="Dutch;Swedish">Al-Jazirah</name>
+		<name normalized="Alchezira" languages="Aragonese">Alchezira</name>
+		<name normalized="Dschazira" languages="German">Dschazira</name>
+		<name normalized="Dzezira" languages="Lithuanian">Džezira</name>
+		<name normalized="El Cezire Eyaleti" languages="Turkish">El Cezire Eyaleti</name>
+		<name normalized="Gezira" languages="Catalan;Dutch;English;Italian;official;Spanish">Gezira</name>
+		<name normalized="Jazira" languages="English">Jazira</name>
+		<name normalized="Statul Al Jazirah" languages="Romanian">Statul Al Jazirah</name>
+		<name normalized="Aл-Dzaziрa" languages="Bulgarian">Ал-Джазира</name>
+		<name normalized="Aль-Dzaziрa" languages="Russian">Аль-Джазира</name>
+		<name normalized="Dzaziрa" languages="Bulgarian">Джазира</name>
+		<name normalized="Eль-Giziрa" languages="Russian">Эль-Гезира</name>
+		<name normalized="אד-ג'זיrh" languages="Hebrew">אל-ג'זירה</name>
+		<name normalized="אل jزیrہ" languages="Western Punjabi">ال جزیرہ</name>
+		<name normalized="אلjزیrh" languages="Persian">الجزیره</name>
+		<name normalized="jزyrة" languages="Arabic">جزيرة</name>
+		<name normalized="jزیrh" languages="Persian">جزیره</name>
+		<name normalized="ولאyة אلjزyrة" languages="Arabic">ولاية الجزيرة</name>
+		<name normalized="arzyzーr" languages="Japanese">アルジャジーラ</name>
+		<name normalized="zyzーr州" languages="Japanese">ジャジーラ州</name>
+		<name normalized="杰济拉省" languages="Chinese">杰济拉省</name>
+		<name normalized="알자지라" languages="Korean">알자지라</name>
+		<name normalized="알자지라 주" languages="Korean">알자지라 주</name>
+	</region>
+	<region name="Al Khartoum" type="state" typeTranslated="wilayah">
+		<name normalized="Al Khartoum" languages="English;official">Al Khartoum</name>
+		<name normalized="Al-Khartoum" languages="Wu">Al-Khartoum</name>
+		<name normalized="C'hartoum" languages="Breton">C'hartoum</name>
+		<name normalized="Cartum" languages="Interlingue;Portuguese">Cartum</name>
+		<name normalized="Cartum" languages="Irish">Cartúm</name>
+		<name normalized="Chartum" languages="Polish">Chartum</name>
+		<name normalized="Chartumas" languages="Lithuanian">Chartumas</name>
+		<name normalized="Chartum" languages="Czech;Slovak">Chartúm</name>
+		<name normalized="Hartum" languages="Estonian;Tagalog;Turkish">Hartum</name>
+		<name normalized="Hartuma" languages="Latvian">Hartūma</name>
+		<name normalized="Jartum" languages="Spanish">Jartum</name>
+		<name normalized="Kartoum" languages="Haitian">Kartoum</name>
+		<name normalized="Kartum" languages="Bosnian;Novial;Serbo-Croatian;Slovenian">Kartum</name>
+		<name normalized="Kartum" languages="Hungarian;Icelandic">Kartúm</name>
+		<name normalized="Kartum" languages="Western Frisian">Kartûm</name>
+		<name normalized="Khartoem" languages="Afrikaans;Dutch">Khartoem</name>
+		<name normalized="Khartom" languages="Occitan">Khartom</name>
+		<name normalized="Khartoum" languages="Achinese;Akan;Bikol Central;Chinese (Min Nan);Corsican;Croatian;Danish;English;Faroese;Fiji Hindi;French;Ido;Indonesian;Javanese;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Piedmontese;Romanian;Scots;Scottish Gaelic;Shona;Simple English;Swahili;Swedish;Vietnamese;veneto;Waray;Welsh;Yoruba">Khartoum</name>
+		<name normalized="Khartum" languages="Basque;Catalan;Finnish;German;Italian;Ligure;lumbaart;Luxembourgish">Khartum</name>
+		<name normalized="Khartumensis Urbs" languages="Latin">Khartumensis Urbs</name>
+		<name normalized="Khartuum" languages="Somali">Khartuum</name>
+		<name normalized="Khartun" languages="Galician">Khartún</name>
+		<name normalized="Xartum" languages="Azerbaijani;Wolof">Xartum</name>
+		<name normalized="Hartumo" languages="Esperanto">Ĥartumo</name>
+		<name normalized="Χαρτοuμ" languages="Greek">Χαρτούμ</name>
+		<name normalized="Goрad Kaрtuм" languages="Belarusian">Горад Хартум</name>
+		<name normalized="Kaрtuм" languages="Macedonian;Serbian">Картум</name>
+		<name normalized="Kaрtuм" languages="Bulgarian;Chechen;Chuvash;Hill Mari;Kyrgyz;Ossetic;Russian;Tajik;Tatar;Udmurt;Ukrainian;biлaрuсkai (taрaskivita)‎">Хартум</name>
+		<name normalized="Xաrtvym" languages="Armenian">Խարթում</name>
+		<name normalized="hrtvם" languages="Hebrew">חרטום</name>
+		<name normalized="אلخrtوm" languages="Arabic;Egyptian Spoken Arabic">الخرطوم</name>
+		<name normalized="خאrtۇm" languages="Uyghur">خارتۇم</name>
+		<name normalized="خאrtوm" languages="Persian">خارطوم</name>
+		<name normalized="خrtوm" languages="Urdu;Western Punjabi">خرطوم</name>
+		<name normalized="خەrtووm" languages="Sorani Kurdish">خەرتووم</name>
+		<name normalized="kाr्टum" languages="Marathi">खार्टूम</name>
+		<name normalized="kाr्tum" languages="Hindi">खार्तूम</name>
+		<name normalized="k਼rtum" languages="Punjabi">ਖ਼ਰਤੂਮ</name>
+		<name normalized="கர்த்தூம்" languages="Tamil">கர்த்தூம்</name>
+		<name normalized="คาร์ทูม" languages="Thai">คาร์ทูม</name>
+		<name normalized="ཁར་ཏུམ།" languages="Tibetan">ཁར་ཏུམ།</name>
+		<name normalized="ခါတွမ်းမြို့" languages="Burmese">ခါတွမ်းမြို့</name>
+		<name normalized="ხარტუმი" languages="Georgian">ხარტუმი</name>
+		<name normalized="ካርቱም" languages="Amharic">ካርቱም</name>
+		<name normalized="hrtーm" languages="Japanese">ハルツーム</name>
+		<name normalized="喀土穆" languages="Cantonese;Chinese">喀土穆</name>
+		<name normalized="하르툼" languages="Korean">하르툼</name>
+	</region>
+	<region name="Al Qadarif" type="state" typeTranslated="wilayah">
+		<name normalized="Al Qadarif" languages="English;official;Romanian;Waray">Al Qadarif</name>
+		<name normalized="Al-Kadarif" languages="Polish">Al-Kadarif</name>
+		<name normalized="Al-Qadarif" languages="Dutch;French;German;Swedish">Al-Qadarif</name>
+		<name normalized="Al-Qadarif" languages="Estonian">Al-Qaḑārif</name>
+		<name normalized="El Gadarif" languages="Turkish">El Gadarif</name>
+		<name normalized="Gadaref" languages="Italian">Gadaref</name>
+		<name normalized="Gadarif" languages="Spanish">Gadarif</name>
+		<name normalized="Gedaref" languages="English;Esperanto;official">Gedaref</name>
+		<name normalized="Gidaрiф" languages="Bulgarian;Russian">Гедареф</name>
+		<name normalized="אד-qדrיף" languages="Hebrew">אל-קדריף</name>
+		<name normalized="אلqdאrf" languages="Arabic">القضارف</name>
+	</region>
+	<region name="An Nil al Abyad" type="state" typeTranslated="wilayah">
+		<name normalized="An Nil al Abyad" languages="English;official">An Nil al Abyad</name>
+		<name normalized="An-Nil al-abyad" languages="German;Swedish">An-Nil al-abyad</name>
+		<name normalized="An-Nil-al-Abyad" languages="Dutch">An-Nil-al-Abyad</name>
+		<name normalized="Baltojo Nilo vilajetas" languages="Lithuanian">Baltojo Nilo vilajetas</name>
+		<name normalized="Beyaz Nil Eyaleti" languages="Turkish">Beyaz Nil Eyaleti</name>
+		<name normalized="Busag nga Nilo" languages="Waray">Busag nga Nilo</name>
+		<name normalized="Hvide Nil" languages="Danish">Hvide Nil</name>
+		<name normalized="Nil Bialy" languages="Polish">Nil Biały</name>
+		<name normalized="Nil Blanc" languages="French">Nil Blanc</name>
+		<name normalized="Nil Putih" languages="Indonesian">Nil Putih</name>
+		<name normalized="Nile nyeupe" languages="Swahili">Nile nyeupe</name>
+		<name normalized="Nilo Bianco" languages="Italian">Nilo Bianco</name>
+		<name normalized="Nilo Blanco" languages="Spanish">Nilo Blanco</name>
+		<name normalized="Nilo Branco" languages="Portuguese">Nilo Branco</name>
+		<name normalized="Statul Nilul Alb" languages="Romanian">Statul Nilul Alb</name>
+		<name normalized="White Nile" languages="English;official">White Nile</name>
+		<name normalized="Biлi Нiл" languages="Bulgarian">Бели Нил</name>
+		<name normalized="Biлый Нiл" languages="Russian">Белый Нил</name>
+		<name normalized="ولאyة אلنyل אلأbyd" languages="Arabic">ولاية النيل الأبيض</name>
+		<name normalized="چٹא نیل" languages="Western Punjabi">چٹا نیل</name>
+		<name normalized="白尼罗省" languages="Chinese">白尼罗省</name>
+		<name normalized="백나일강 주" languages="Korean">백나일강 주</name>
+	</region>
+	<region name="An Nil al Azraq" type="state" typeTranslated="wilayah">
+		<name normalized="An Nil al Azraq" languages="English;official">An Nil al Azraq</name>
+		<name normalized="An-Nil al-azraq" languages="German;Norwegian (bokmal);Swedish">An-Nil al-azraq</name>
+		<name normalized="An-Nil-al-Azraq" languages="Dutch">An-Nil-al-Azraq</name>
+		<name normalized="Blue Nile" languages="Breton;English;official">Blue Nile</name>
+		<name normalized="Bluu Nile" languages="Swahili">Bluu Nile</name>
+		<name normalized="Bla Nil" languages="Danish">Blå Nil</name>
+		<name normalized="Mavi Nil Eyaleti" languages="Turkish">Mavi Nil Eyaleti</name>
+		<name normalized="Muya nga Nilo" languages="Waray">Muya nga Nilo</name>
+		<name normalized="Nil Biru" languages="Indonesian">Nil Biru</name>
+		<name normalized="Nil Blau" languages="Catalan">Nil Blau</name>
+		<name normalized="Nil Bleu" languages="French">Nil Bleu</name>
+		<name normalized="Nil Blekitny" languages="Polish">Nil Błękitny</name>
+		<name normalized="Nilo Azul" languages="Portuguese;Spanish">Nilo Azul</name>
+		<name normalized="Nilo Azzurro" languages="Italian">Nilo Azzurro</name>
+		<name normalized="Nin Xanh" languages="Vietnamese">Nin Xanh</name>
+		<name normalized="Statul Nilul Albastru" languages="Romanian">Statul Nilul Albastru</name>
+		<name normalized="Zydrojo Nilo vilajetas" languages="Lithuanian">Žydrojo Nilo vilajetas</name>
+		<name normalized="Goлuboй Нiл" languages="Russian">Голубой Нил</name>
+		<name normalized="Pлavi Нiл" languages="Serbian">Плави Нил</name>
+		<name normalized="Сiнi Нiл" languages="Bulgarian">Сини Нил</name>
+		<name normalized="نیلא نیل" languages="Western Punjabi">نیلا نیل</name>
+		<name normalized="ولאyة אلنyل אلأزrq" languages="Arabic">ولاية النيل الأزرق</name>
+		<name normalized="青尼罗省" languages="Chinese">青尼罗省</name>
+		<name normalized="청나일강 주" languages="Korean">청나일강 주</name>
+	</region>
+	<region name="Ash Shimaliyya" type="state" typeTranslated="wilayah">
+		<name normalized="Amihanan" languages="Waray">Amihanan</name>
+		<name normalized="Asch-Schamaliyya" languages="German">Asch-Schamaliyya</name>
+		<name normalized="Ash Shimaliyya" languages="English;official">Ash Shimaliyya</name>
+		<name normalized="Ash-Shamaliyah" languages="Dutch">Ash-Shamaliyah</name>
+		<name normalized="Ash-Shamaliyya" languages="Swedish">Ash-Shamaliyya</name>
+		<name normalized="Asy-Syamaliyah" languages="Indonesian">Asy-Syamaliyah</name>
+		<name normalized="Estado do Norte" languages="Portuguese">Estado do Norte</name>
+		<name normalized="Iparraldea" languages="Basque">Iparraldea</name>
+		<name normalized="Kaskazini" languages="Swahili">Kaskazini</name>
+		<name normalized="Kuzey Eyaleti" languages="Turkish">Kuzey Eyaleti</name>
+		<name normalized="Nord" languages="French;Italian">Nord</name>
+		<name normalized="Nordlige Sudan" languages="Danish">Nordlige Sudan</name>
+		<name normalized="Norte" languages="Spanish">Norte</name>
+		<name normalized="Northern" languages="English;official">Northern</name>
+		<name normalized="Northren" languages="Scots">Northren</name>
+		<name normalized="Prowincja Polnocna" languages="Polish">Prowincja Północna</name>
+		<name normalized="Siaures vilajetas" languages="Lithuanian">Šiaurės vilajetas</name>
+		<name normalized="Сiviрнa pрoviнtii" languages="Bulgarian">Северна провинция</name>
+		<name normalized="Сiviрный stat" languages="Russian">Северный штат</name>
+		<name normalized="אtلא sوbہ" languages="Western Punjabi">اتلا صوبہ</name>
+		<name normalized="אلشmאلyة" languages="Arabic">الشمالية</name>
+		<name normalized="شmאلیh" languages="Persian">شمالیه</name>
+		<name normalized="北部州" languages="Japanese">北部州</name>
+		<name normalized="北部省" languages="Chinese">北部省</name>
+		<name normalized="북부 주" languages="Korean">북부 주</name>
+	</region>
+	<region name="Gharb Darfur" type="state" typeTranslated="wilayah">
+		<name normalized="Batı Darfur Eyaleti" languages="Turkish">Batı Darfur Eyaleti</name>
+		<name normalized="Darfour-Occidental" languages="French">Darfour-Occidental</name>
+		<name normalized="Darfur Barat" languages="Indonesian">Darfur Barat</name>
+		<name normalized="Darfur del Oeste" languages="Spanish">Darfur del Oeste</name>
+		<name normalized="Darfur Occidentale" languages="Italian">Darfur Occidentale</name>
+		<name normalized="Darfur Ocidental" languages="Portuguese">Darfur Ocidental</name>
+		<name normalized="Darfur Zachodni" languages="Polish">Darfur Zachodni</name>
+		<name normalized="Gharb Darfur" languages="Catalan;English;German;official;Swedish">Gharb Darfur</name>
+		<name normalized="Gharb-Darfur" languages="Dutch">Gharb-Darfur</name>
+		<name normalized="Katundan nga Darfur" languages="Waray">Katundan nga Darfur</name>
+		<name normalized="Lansi-Darfur" languages="Finnish">Länsi-Darfur</name>
+		<name normalized="Magharibi Darfur" languages="Swahili">Magharibi Darfur</name>
+		<name normalized="Statul Darfur de Vest" languages="Romanian">Statul Darfur de Vest</name>
+		<name normalized="Vakaru Darfuras" languages="Lithuanian">Vakarų Darfūras</name>
+		<name normalized="Vestdarfur" languages="Danish">Vestdarfur</name>
+		<name normalized="West Darfur" languages="English">West Darfur</name>
+		<name normalized="Western Darfur" languages="English;official">Western Darfur</name>
+		<name normalized="Zapadiн Daрфuр" languages="Bulgarian">Западен Дарфур</name>
+		<name normalized="Zapadнi Daрфuр" languages="Serbian">Западни Дарфур</name>
+		<name normalized="Zapadный Daрфuр" languages="Russian">Западный Дарфур</name>
+		<name normalized="دאrfوr غrbی" languages="Persian">دارفور غربی</name>
+		<name normalized="ولאyة غrb دאrfوr" languages="Arabic">ولاية غرب دارفور</name>
+		<name normalized="西达尔富尔省" languages="Chinese">西达尔富尔省</name>
+		<name normalized="서부 다르푸르 주" languages="Korean">서부 다르푸르 주</name>
+	</region>
+	<region name="Janub Darfur" type="state" typeTranslated="wilayah">
+		<name normalized="Darfour du Sud" languages="French">Darfour du Sud</name>
+		<name normalized="Darfur del Sur" languages="Spanish">Darfur del Sur</name>
+		<name normalized="Darfur do Sul" languages="Portuguese">Darfur do Sul</name>
+		<name normalized="Darfur Meridionale" languages="Italian">Darfur Meridionale</name>
+		<name normalized="Darfur Poludniowy" languages="Polish">Darfur Południowy</name>
+		<name normalized="Darfur Selatan" languages="Indonesian">Darfur Selatan</name>
+		<name normalized="Darfure Veroci" languages="Zazaki">Darfurê Veroci</name>
+		<name normalized="Dschanub Darfur" languages="German">Dschanub Darfur</name>
+		<name normalized="Etela-Darfur" languages="Finnish">Etelä-Darfur</name>
+		<name normalized="Guney Darfur Eyaleti" languages="Turkish">Güney Darfur Eyaleti</name>
+		<name normalized="Janub Darfur" languages="English;official;Swedish">Janub Darfur</name>
+		<name normalized="Janub-Darfur" languages="Dutch">Janub-Darfur</name>
+		<name normalized="Kusini Darfur" languages="Swahili">Kusini Darfur</name>
+		<name normalized="Pietu Darfuras" languages="Lithuanian">Pietų Darfūras</name>
+		<name normalized="Salatan nga Darfur" languages="Waray">Salatan nga Darfur</name>
+		<name normalized="South Darfur" languages="English">South Darfur</name>
+		<name normalized="Southern Darfur" languages="English;official">Southern Darfur</name>
+		<name normalized="Statul Darfur de Sud" languages="Romanian">Statul Darfur de Sud</name>
+		<name normalized="Syddarfur" languages="Danish">Syddarfur</name>
+		<name normalized="Юziн Daрфuр" languages="Bulgarian">Южен Дарфур</name>
+		<name normalized="Юzный Daрфuр" languages="Russian">Южный Дарфур</name>
+		<name normalized="Juzнi Daрфuр" languages="Serbian">Јужни Дарфур</name>
+		<name normalized="Hաrավային Dաrfvyr" languages="Armenian">Հարավային Դարֆուր</name>
+		<name normalized="دאrfوr jنوbی" languages="Persian">دارفور جنوبی</name>
+		<name normalized="ولאyة jنوb دאrfوr" languages="Arabic">ولاية جنوب دارفور</name>
+		<name normalized="南达尔富尔省" languages="Chinese">南达尔富尔省</name>
+		<name normalized="남부 다르푸르 주" languages="Korean">남부 다르푸르 주</name>
+	</region>
+	<region name="Janub Kurdufan" type="state" typeTranslated="wilayah">
+		<name normalized="Cordofao do Sul" languages="Portuguese">Cordofão do Sul</name>
+		<name normalized="Dschanub Kurdufan" languages="German">Dschanub Kurdufan</name>
+		<name normalized="Guney Kordofan Eyaleti" languages="Turkish">Güney Kordofan Eyaleti</name>
+		<name normalized="Janub Kurdufan" languages="English;official;Swedish">Janub Kurdufan</name>
+		<name normalized="Janub-Kordofan" languages="Dutch">Janub-Kordofan</name>
+		<name normalized="Jizni Kordofan" languages="Czech">Jižní Kordofán</name>
+		<name normalized="Kordofan del Sud" languages="Catalan">Kordofan del Sud</name>
+		<name normalized="Kordofan du Sud" languages="French">Kordofan du Sud</name>
+		<name normalized="Kordofan Meridionale" languages="Italian">Kordofan Meridionale</name>
+		<name normalized="Kordofan Poludniowy" languages="Polish">Kordofan Południowy</name>
+		<name normalized="Kordofan del Sur" languages="Spanish">Kordofán del Sur</name>
+		<name normalized="Kurdufan Selatan" languages="Indonesian">Kurdufan Selatan</name>
+		<name normalized="Kusini Kurdufan" languages="Swahili">Kusini Kurdufan</name>
+		<name normalized="Nam Kordofan" languages="Vietnamese">Nam Kordofan</name>
+		<name normalized="Pietu Kordofanas" languages="Lithuanian">Pietų Kordofanas</name>
+		<name normalized="Salatan nga Kordofan" languages="Waray">Salatan nga Kordofan</name>
+		<name normalized="South Kordofan" languages="English">South Kordofan</name>
+		<name normalized="Southern Kordofan" languages="English;official">Southern Kordofan</name>
+		<name normalized="Statul Kordofan de Sud" languages="Romanian">Statul Kordofan de Sud</name>
+		<name normalized="Sydkordofan" languages="Danish">Sydkordofan</name>
+		<name normalized="Юziн Kuрduфaн" languages="Bulgarian">Южен Курдуфан</name>
+		<name normalized="Юzный Koрdoфaн" languages="Russian">Южный Кордофан</name>
+		<name normalized="Juzнi Koрdoфaн" languages="Serbian">Јужни Кордофан</name>
+		<name normalized="Hաrավային Kvrdvfան" languages="Armenian">Հարավային Կորդոֆան</name>
+		<name normalized="tھلوאں کrدوfאن" languages="Western Punjabi">تھلواں کردوفان</name>
+		<name normalized="ولאyة jنوb krدfאن" languages="Arabic">ولاية جنوب كردفان</name>
+		<name normalized="کrدfאن jنوbی" languages="Persian">کردفان جنوبی</name>
+		<name normalized="南科尔多凡省" languages="Chinese">南科尔多凡省</name>
+		<name normalized="남부 쿠르두판 주" languages="Korean">남부 쿠르두판 주</name>
+	</region>
+	<region name="Kassala" type="state" typeTranslated="wilayah">
+		<name normalized="Cassala" languages="Italian">Cassala</name>
+		<name normalized="Kasala" languages="Lithuanian;Serbo-Croatian;Spanish">Kasala</name>
+		<name normalized="Kassala" languages="Basque;Catalan;Czech;Danish;Dutch;English;Esperanto;French;German;official;Polish;Portuguese;Swedish;Turkish;Waray">Kassala</name>
+		<name normalized="Kassala" languages="Estonian">Kassalā</name>
+		<name normalized="Statul Kassala" languages="Romanian">Statul Kassala</name>
+		<name normalized="Kaссaлa" languages="Russian">Кассала</name>
+		<name normalized="kسلא" languages="Arabic">كسلا</name>
+		<name normalized="کسلא" languages="Persian">کسلا</name>
+		<name normalized="ktsr" languages="Japanese">カッサラ</name>
+		<name normalized="卡薩拉" languages="Chinese">卡薩拉</name>
+		<name normalized="카살라" languages="Korean">카살라</name>
+	</region>
+	<region name="Nahr an Nil" type="state" typeTranslated="wilayah">
+		<name normalized="Mto Nile" languages="Swahili">Mto Nile</name>
+		<name normalized="Nahr an Nil" languages="English;official">Nahr an Nil</name>
+		<name normalized="Nahr an-Nil" languages="Catalan;German;Swedish">Nahr an-Nil</name>
+		<name normalized="Nahr-an-Nil" languages="Dutch">Nahr-an-Nil</name>
+		<name normalized="Nil" languages="French;Polish">Nil</name>
+		<name normalized="Nil Nehri Eyaleti" languages="Turkish">Nil Nehri Eyaleti</name>
+		<name normalized="Nilen" languages="Danish">Nilen</name>
+		<name normalized="Nilo" languages="Italian">Nilo</name>
+		<name normalized="Nilo Upes vilajetas" languages="Lithuanian">Nilo Upės vilajetas</name>
+		<name normalized="Rio Nilo" languages="Portuguese">Rio Nilo</name>
+		<name normalized="River Nile" languages="English;official;Scots">River Nile</name>
+		<name normalized="Rio Nilo" languages="Spanish">Río Nilo</name>
+		<name normalized="Salog Nilo" languages="Waray">Salog Nilo</name>
+		<name normalized="Statul Raul Nil" languages="Romanian">Statul Râul Nil</name>
+		<name normalized="Sungai Nil" languages="Indonesian">Sungai Nil</name>
+		<name normalized="Нiл" languages="Russian">Нил</name>
+		<name normalized="Рika Нiл" languages="Bulgarian">Река Нил</name>
+		<name normalized="دrیאۓ نیل sوbہ" languages="Western Punjabi">دریاۓ نیل صوبہ</name>
+		<name normalized="ولאyة نhr אلنyل" languages="Arabic;Egyptian Spoken Arabic">ولاية نهر النيل</name>
+		<name normalized="尼羅省" languages="Chinese">尼羅省</name>
+		<name normalized="나일강 주" languages="Korean">나일강 주</name>
+	</region>
+	<region name="Sharq Darfur" type="state" typeTranslated="wilayah">
+		<name normalized="Eastern Darfur" languages="English;official">Eastern Darfur</name>
+		<name normalized="Sharq Darfur" languages="English;official">Sharq Darfur</name>
+	</region>
+	<region name="Shimal Darfur" type="state" typeTranslated="wilayah">
+		<name normalized="Amihanan nga Darfur" languages="Waray">Amihanan nga Darfur</name>
+		<name normalized="Darfour du Nord" languages="French">Darfour du Nord</name>
+		<name normalized="Darfur del Norte" languages="Spanish">Darfur del Norte</name>
+		<name normalized="Darfur do Norte" languages="Portuguese">Darfur do Norte</name>
+		<name normalized="Darfur Polnocny" languages="Polish">Darfur Północny</name>
+		<name normalized="Darfur Settentrionale" languages="Italian">Darfur Settentrionale</name>
+		<name normalized="Darfur Utara" languages="Indonesian">Darfur Utara</name>
+		<name normalized="Darfure Zımey" languages="Zazaki">Darfurê Zımey</name>
+		<name normalized="Kaskazini Darfur" languages="Swahili">Kaskazini Darfur</name>
+		<name normalized="Kuzey Darfur Eyaleti" languages="Turkish">Kuzey Darfur Eyaleti</name>
+		<name normalized="Nord-Darfur" languages="Norwegian (bokmal)">Nord-Darfur</name>
+		<name normalized="Norddarfur" languages="Danish">Norddarfur</name>
+		<name normalized="North Darfur" languages="English">North Darfur</name>
+		<name normalized="Northern Darfur" languages="English;official">Northern Darfur</name>
+		<name normalized="Pohjois-Darfur" languages="Finnish">Pohjois-Darfur</name>
+		<name normalized="Schamal Darfur" languages="German">Schamal Darfur</name>
+		<name normalized="Shamal Darfur" languages="Catalan;Swedish">Shamal Darfur</name>
+		<name normalized="Shamal-Darfur" languages="Dutch">Shamal-Darfur</name>
+		<name normalized="Shimal Darfur" languages="English;official">Shimal Darfur</name>
+		<name normalized="Statul Darfur de Nord" languages="Romanian">Statul Darfur de Nord</name>
+		<name normalized="Siaures Darfuras" languages="Lithuanian">Šiaurės Darfūras</name>
+		<name normalized="Сiviрiн Daрфuр" languages="Bulgarian">Северен Дарфур</name>
+		<name normalized="Сiviрнi Daрфuр" languages="Serbian">Северни Дарфур</name>
+		<name normalized="Сiviрный Daрфuр" languages="Russian">Северный Дарфур</name>
+		<name normalized="צpvן דאrpvr" languages="Hebrew">צפון דארפור</name>
+		<name normalized="دאrfوr شmאلی" languages="Persian">دارفور شمالی</name>
+		<name normalized="ولאyة شmאل دאrfوr" languages="Arabic">ولاية شمال دارفور</name>
+		<name normalized="北達爾富爾省" languages="Chinese">北達爾富爾省</name>
+		<name normalized="북부 다르푸르 주" languages="Korean">북부 다르푸르 주</name>
+	</region>
+	<region name="Shimal Kurdufan" type="state" typeTranslated="wilayah">
+		<name normalized="Northern Kordofan" languages="English;official">Northern Kordofan</name>
+		<name normalized="Shimal Kurdufan" languages="English;official">Shimal Kurdufan</name>
+	</region>
+	<region name="Sinnar" type="state" typeTranslated="wilayah">
+		<name normalized="Sinnar" languages="English;Italian;Malay;official;Vietnamese">Sinnar</name>
+		<name normalized="sin्nr" languages="Marathi">सिन्नर</name>
+		<name normalized="sin্nাr" languages="Bengali;Bishnupria Manipuri">সিন্নার</name>
+		<name normalized="西纳尔" languages="Chinese">西纳尔</name>
+	</region>
+	<region name="Wasat Darfur" type="state" typeTranslated="wilayah">
+		<name normalized="Central Darfur" languages="English;official">Central Darfur</name>
+		<name normalized="Darfur Srodkowy" languages="Polish">Darfur Środkowy</name>
+		<name normalized="Vidurio Darfuras" languages="Lithuanian">Vidurio Darfūras</name>
+		<name normalized="Wasat Darfur" languages="English;German;official">Wasat Darfur</name>
+		<name normalized="ولאyة وسt دאrfوr" languages="Arabic">ولاية وسط دارفور</name>
+	</region>
+</regions>

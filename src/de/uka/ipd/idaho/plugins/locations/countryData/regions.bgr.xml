@@ -1,0 +1,1547 @@
+<regions country="Bulgaria">
+	<region name="Blagoevgrad" type="province" typeTranslated="oblast">
+		<name normalized="Blagoevgrad" languages="Albanian;Aragonese;Basque;Bosnian;Croatian;Danish;English;Esperanto;Estonian;Finnish;French;Indonesian;Italian;Malay;Norwegian (bokmal);Occitan;official;Portuguese;Romanian;Serbo-Croatian;Slovak;Slovenian;Spanish;Swedish;Vietnamese;Waray;Welsh">Blagoevgrad</name>
+		<name normalized="Blagoevgrad megye" languages="Hungarian">Blagoevgrad megye</name>
+		<name normalized="Blagoevgrad Oblast" languages="English;Norwegian (bokmal);official">Blagoevgrad Oblast</name>
+		<name normalized="Blagoevgrad probintzia" languages="Basque">Blagoevgrad probintzia</name>
+		<name normalized="Blagoevgrad Province" languages="English;official;Scots">Blagoevgrad Province</name>
+		<name normalized="Blagoevgradi piirkond" languages="Estonian">Blagoevgradi piirkond</name>
+		<name normalized="Blagoevgradin alue" languages="Finnish">Blagoevgradin alue</name>
+		<name normalized="Blagoewgrad" languages="German">Blagoewgrad</name>
+		<name normalized="Blagojevgrad" languages="Czech">Blagojevgrad</name>
+		<name normalized="Blagojevgradas" languages="Lithuanian">Blagojevgradas</name>
+		<name normalized="Blagojevgrado sritis" languages="Lithuanian">Blagojevgrado sritis</name>
+		<name normalized="Blagojevgradska oblast" languages="Czech">Blagojevgradská oblast</name>
+		<name normalized="Blagoevgrad" languages="Dutch">Blagoëvgrad</name>
+		<name normalized="Blaqoyevqrad" languages="Azerbaijani">Blaqoyevqrad</name>
+		<name normalized="Blaqoyevqrad vilayəti" languages="Azerbaijani">Blaqoyevqrad vilayəti</name>
+		<name normalized="Blagojewgrad" languages="Polish">Błagojewgrad</name>
+		<name normalized="Oblast Blagoevgrad" languages="Croatian">Oblast Blagoevgrad</name>
+		<name normalized="Oblast Blagoewgrad" languages="German">Oblast Blagoewgrad</name>
+		<name normalized="Obwod Blagojewgrad" languages="Polish">Obwód Błagojewgrad</name>
+		<name normalized="Provincia de Blagoevgrad" languages="Spanish">Provincia de Blagoevgrad</name>
+		<name normalized="Provinco Blagoevgrad" languages="Esperanto">Provinco Blagoevgrad</name>
+		<name normalized="Provinsi Blagoevgrad" languages="Indonesian">Provinsi Blagoevgrad</name>
+		<name normalized="Provincia de Blagoievgrad" languages="Catalan">Província de Blagòievgrad</name>
+		<name normalized="Regione di Blagoevgrad" languages="Italian">Regione di Blagoevgrad</name>
+		<name normalized="Regiunea Blagoevgrad" languages="Romanian">Regiunea Blagoevgrad</name>
+		<name normalized="Scaptopara" languages="Latin">Scaptopara</name>
+		<name normalized="Wilayah Blagoevgrad" languages="Malay">Wilayah Blagoevgrad</name>
+		<name normalized="Yukarı Cuma" languages="Turkish">Yukarı Cuma</name>
+		<name normalized="Επαρχια Μπλαγκοεβγκραντ" languages="Greek">Επαρχία Μπλαγκόεβγκραντ</name>
+		<name normalized="Μπλαγκοεβγκραντ" languages="Greek">Μπλαγκόεβγκραντ</name>
+		<name normalized="Bлagaiўgрadсkai vobлaсtь" languages="Belarusian">Благаеўградская вобласць</name>
+		<name normalized="Bлagoivgрad" languages="Bulgarian;Kazakh;Macedonian;Ossetic;Russian;Serbian">Благоевград</name>
+		<name normalized="Bлagoivgрadсka obлaсt" languages="Macedonian;Serbian">Благоевградска област</name>
+		<name normalized="Bлagoivgрadсkai obлaсtь" languages="Russian">Благоевградская область</name>
+		<name normalized="Bлagoivgрadы obлaeсt" languages="Ossetic">Благоевграды облæст</name>
+		<name normalized="Bлagoiўgрadzkai vobлaсьtь" languages="biлaрuсkai (taрaskivita)‎">Благоеўградзкая вобласьць</name>
+		<name normalized="Bлagoevgрad" languages="Ukrainian">Благоєвград</name>
+		<name normalized="Bлagoevgрadсьka obлaсtь" languages="Ukrainian">Благоєвградська область</name>
+		<name normalized="Viлoiti Bлagoivgрad" languages="Tajik">Вилояти Благоевград</name>
+		<name normalized="Goрad Bлagaiўgрad" languages="Belarusian">Горад Благаеўград</name>
+		<name normalized="Obлaсt Bлagoivgрad" languages="Bulgarian">Област Благоевград</name>
+		<name normalized="Blագvևգrաd" languages="Armenian">Բլագոևգրադ</name>
+		<name normalized="Blագvևգrաdի mաrz" languages="Armenian">Բլագոևգրադի մարզ</name>
+		<name normalized="bדגvאbגrד" languages="Hebrew">בלגואבגרד</name>
+		<name normalized="מhvז bדגvאbגrד" languages="Hebrew">מחוז בלגואבגרד</name>
+		<name normalized="אسtאن bلאgووgrאد" languages="Persian">استان بلاگووگراد</name>
+		<name normalized="bلאغوyfغrאد" languages="Arabic">بلاغويفغراد</name>
+		<name normalized="bلאgوئیوgrאد" languages="Western Punjabi">بلاگوئیوگراد</name>
+		<name normalized="bلאgووgrאد" languages="Persian">بلاگووگراد</name>
+		<name normalized="sوbہ bلאgوئیوgrאد" languages="Western Punjabi">صوبہ بلاگوئیوگراد</name>
+		<name normalized="ბლაგოევგრადი" languages="Georgian">ბლაგოევგრადი</name>
+		<name normalized="ბლაგოევგრადის ოლქი" languages="Georgian">ბლაგოევგრადის ოლქი</name>
+		<name normalized="brgevgrt" languages="Japanese">ブラゴエヴグラト</name>
+		<name normalized="brgevgrt州" languages="Japanese">ブラゴエヴグラト州</name>
+		<name normalized="布拉戈耶夫格勒" languages="Chinese">布拉戈耶夫格勒</name>
+		<name normalized="布拉格耶夫格勒州" languages="Chinese">布拉格耶夫格勒州</name>
+		<name normalized="블라고에브그라드" languages="Korean">블라고에브그라드</name>
+		<name normalized="블라고에브그라드 주" languages="Korean">블라고에브그라드 주</name>
+	</region>
+	<region name="Burgas" type="province" typeTranslated="oblast">
+		<name normalized="Boergas" languages="Afrikaans;Dutch">Boergas</name>
+		<name normalized="Borgas" languages="Occitan">Borgas</name>
+		<name normalized="Bourgas" languages="French">Bourgas</name>
+		<name normalized="Burgas" languages="Achinese;Aragonese;Aromanian;Asturian;Basque;Breton;Croatian;Czech;Danish;English;Estonian;Finnish;German;Indonesian;Italian;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Polish;Portuguese;Romanian;Serbo-Croatian;Slovak;Slovenian;Spanish;Swedish;Turkmen;Vietnamese;Volapuk;Waray;Welsh">Burgas</name>
+		<name normalized="Burgas Oblast" languages="English;Norwegian (bokmal);official">Burgas Oblast</name>
+		<name normalized="Burgas probintzia" languages="Basque">Burgas probintzia</name>
+		<name normalized="Burgas Province" languages="English;official;Scots">Burgas Province</name>
+		<name normalized="Burgasa" languages="Latvian">Burgasa</name>
+		<name normalized="Burgasas" languages="Lithuanian">Burgasas</name>
+		<name normalized="Burgasi" languages="Albanian">Burgasi</name>
+		<name normalized="Burgasi piirkond" languages="Estonian">Burgasi piirkond</name>
+		<name normalized="Burgasin alue" languages="Finnish">Burgasin alue</name>
+		<name normalized="Burgaska oblast" languages="Serbo-Croatian">Burgaska oblast</name>
+		<name normalized="Burgaska oblast" languages="Czech">Burgaská oblast</name>
+		<name normalized="Burgaso" languages="Esperanto">Burgaso</name>
+		<name normalized="Burgaso sritis" languages="Lithuanian">Burgaso sritis</name>
+		<name normalized="Burgasz" languages="Hungarian">Burgasz</name>
+		<name normalized="Burgasz megye" languages="Hungarian">Burgasz megye</name>
+		<name normalized="Burgaz" languages="Turkish">Burgaz</name>
+		<name normalized="Burgas" languages="Catalan">Burgàs</name>
+		<name normalized="Burqas" languages="Azerbaijani">Burqas</name>
+		<name normalized="Oblast Burgas" languages="Croatian;German">Oblast Burgas</name>
+		<name normalized="Obwod Burgas" languages="Polish">Obwód Burgas</name>
+		<name normalized="Provincia de Burgas" languages="Spanish">Provincia de Burgas</name>
+		<name normalized="Provinco Burgas" languages="Esperanto">Provinco Burgas</name>
+		<name normalized="Provinsi Burgas" languages="Indonesian">Provinsi Burgas</name>
+		<name normalized="Provincia de Burgas" languages="Catalan">Província de Burgàs</name>
+		<name normalized="Pyrgos" languages="Latin">Pyrgos</name>
+		<name normalized="Regione di Burgas" languages="Italian">Regione di Burgas</name>
+		<name normalized="Regiunea Burgas" languages="Romanian">Regiunea Burgas</name>
+		<name normalized="Επαρχια Μπουργκας" languages="Greek">Επαρχία Μπουργκάς</name>
+		<name normalized="Μπουργκας" languages="Greek">Μπουργκάς</name>
+		<name normalized="Buрgaс" languages="Bulgarian;Kazakh;Macedonian;Ossetic;Russian;Serbian;Ukrainian">Бургас</name>
+		<name normalized="Buрgaс kot" languages="Mongolian">Бургас хот</name>
+		<name normalized="Buрgaсka obлaсt" languages="Macedonian;Serbian">Бургаска област</name>
+		<name normalized="Buрgaсkai vobлaсtь" languages="Belarusian">Бургаская вобласць</name>
+		<name normalized="Buрgaсkai vobлaсьtь" languages="biлaрuсkai (taрaskivita)‎">Бургаская вобласьць</name>
+		<name normalized="Buрgaссkai obлaсtь" languages="Russian">Бургасская область</name>
+		<name normalized="Buрgaсы obлaeсt" languages="Ossetic">Бургасы облæст</name>
+		<name normalized="Buрgaсьka obлaсtь" languages="Ukrainian">Бургаська область</name>
+		<name normalized="Viлoiti Buрgaс" languages="Tajik">Вилояти Бургас</name>
+		<name normalized="Goрad Buрgaс" languages="Belarusian">Горад Бургас</name>
+		<name normalized="Obлaсt Buрgaс" languages="Bulgarian">Област Бургас</name>
+		<name normalized="Pѷрgъ" languages="Church Slavic">Пѷргъ</name>
+		<name normalized="Bvyrգաs" languages="Armenian">Բուրգաս</name>
+		<name normalized="Bvyrգաsի mաrz" languages="Armenian">Բուրգասի մարզ</name>
+		<name normalized="bvrגס" languages="Hebrew">בורגס</name>
+		<name normalized="מhvז bvrגס" languages="Hebrew">מחוז בורגס</name>
+		<name normalized="אسtאن bوrgאس" languages="Persian">استان بورگاس</name>
+		<name normalized="brgאس" languages="Western Punjabi">برگاس</name>
+		<name normalized="bوrغאس" languages="Arabic">بورغاس</name>
+		<name normalized="bوrgאس" languages="Persian;Sorani Kurdish">بورگاس</name>
+		<name normalized="sوbہ brgאس" languages="Western Punjabi">صوبہ برگاس</name>
+		<name normalized="bur्gाs" languages="Marathi">बुर्गास</name>
+		<name normalized="ბურგასი" languages="Georgian">ბურგასი</name>
+		<name normalized="ბურგასის ოლქი" languages="Georgian">ბურგასის ოლქი</name>
+		<name normalized="brgs" languages="Japanese">ブルガス</name>
+		<name normalized="brgs州" languages="Japanese">ブルガス州</name>
+		<name normalized="布爾加斯" languages="Cantonese;Chinese">布爾加斯</name>
+		<name normalized="布爾加斯州" languages="Chinese">布爾加斯州</name>
+		<name normalized="부르가스" languages="Korean">부르가스</name>
+		<name normalized="부르가스 주" languages="Korean">부르가스 주</name>
+	</region>
+	<region name="Dobrich" type="province" typeTranslated="oblast">
+		<name normalized="Dobrich" languages="English;Indonesian;Malay;Occitan;official;Portuguese;Scots;Spanish;Vietnamese;Volapuk;Waray">Dobrich</name>
+		<name normalized="Dobrich Oblast" languages="English;official">Dobrich Oblast</name>
+		<name normalized="Dobrich Province" languages="English;official;Scots">Dobrich Province</name>
+		<name normalized="Dobrici" languages="Romanian">Dobrici</name>
+		<name normalized="Dobrics megye" languages="Hungarian">Dobrics megye</name>
+		<name normalized="Dobricz" languages="Polish">Dobricz</name>
+		<name normalized="Dobritch" languages="French">Dobritch</name>
+		<name normalized="Dobritj" languages="Danish;Swedish">Dobritj</name>
+		<name normalized="Dobritsch" languages="German">Dobritsch</name>
+		<name normalized="Dobritsj" languages="Dutch;Norwegian (bokmal);Norwegian Nynorsk">Dobritsj</name>
+		<name normalized="Dobritsj oblast" languages="Norwegian (bokmal)">Dobritsj oblast</name>
+		<name normalized="Dobritx" languages="Basque">Dobritx</name>
+		<name normalized="Dobritx probintzia" languages="Basque">Dobritx probintzia</name>
+		<name normalized="Dobrits" languages="Finnish">Dobritš</name>
+		<name normalized="Dobritsin alue" languages="Finnish">Dobritšin alue</name>
+		<name normalized="Dobric" languages="Albanian;Turkish;Turkmen">Dobriç</name>
+		<name normalized="Dobric" languages="Esperanto">Dobriĉ</name>
+		<name normalized="Dobric" languages="Albanian;Croatian;Czech;Estonian;Italian;lumbaart;Serbo-Croatian;Slovak;Slovenian">Dobrič</name>
+		<name normalized="Dobrici piirkond" languages="Estonian">Dobriči piirkond</name>
+		<name normalized="Dobricius" languages="Lithuanian">Dobričius</name>
+		<name normalized="Dobrico sritis" languages="Lithuanian">Dobričo sritis</name>
+		<name normalized="Dobricska oblast" languages="Czech">Dobričská oblast</name>
+		<name normalized="Dobroticapolis" languages="Latin">Dobroticapolis</name>
+		<name normalized="Dobritx" languages="Catalan">Dòbritx</name>
+		<name normalized="Oblast Dobritsch" languages="German">Oblast Dobritsch</name>
+		<name normalized="Oblast Dobric" languages="Croatian">Oblast Dobrič</name>
+		<name normalized="Obwod Dobricz" languages="Polish">Obwód Dobricz</name>
+		<name normalized="Provincia de Dobrich" languages="Spanish">Provincia de Dobrich</name>
+		<name normalized="Provinco Dobric" languages="Esperanto">Provinco Dobriĉ</name>
+		<name normalized="Provinsi Dobrich" languages="Indonesian">Provinsi Dobrich</name>
+		<name normalized="Provincia de Dobritx" languages="Catalan">Província de Dòbritx</name>
+		<name normalized="Regione di Dobric" languages="Italian">Regione di Dobrič</name>
+		<name normalized="Regiunea Dobrici" languages="Romanian">Regiunea Dobrici</name>
+		<name normalized="Wilayah Dobrich" languages="Malay">Wilayah Dobrich</name>
+		<name normalized="Ντομπριτς" languages="Greek">Ντόμπριτς</name>
+		<name normalized="Viлoiti Dobрic" languages="Tajik">Вилояти Добрич</name>
+		<name normalized="Dabрыtkai vobлaсtь" languages="Belarusian">Дабрыцкая вобласць</name>
+		<name normalized="Dobрitьka obлaсtь" languages="Ukrainian">Добрицька область</name>
+		<name normalized="Dobрic" languages="Bulgarian;Kazakh;Macedonian;Ossetic;Russian;Serbian;Ukrainian">Добрич</name>
+		<name normalized="Dobрicka obлaсt" languages="Macedonian;Serbian">Добричка област</name>
+		<name normalized="Dobрicсkai obлaсtь" languages="Russian">Добричская область</name>
+		<name normalized="Dobрicы obлaeсt" languages="Ossetic">Добричы облæст</name>
+		<name normalized="Obлaсt Dobрic" languages="Bulgarian">Област Добрич</name>
+		<name normalized="Dvbrիc" languages="Armenian">Դոբրիչ</name>
+		<name normalized="Dvbrիcի mաrz" languages="Armenian">Դոբրիչի մարզ</name>
+		<name normalized="דvbrיץ'" languages="Hebrew">דובריץ'</name>
+		<name normalized="מhvז דvbrיץ'" languages="Hebrew">מחוז דובריץ'</name>
+		<name normalized="אسtאن دوbrیچ" languages="Persian">استان دوبریچ</name>
+		<name normalized="دوbrytش" languages="Arabic">دوبريتش</name>
+		<name normalized="دوbrچ" languages="Western Punjabi">دوبرچ</name>
+		<name normalized="دوbrیچ" languages="Persian">دوبریچ</name>
+		<name normalized="sوbہ دوbrچ" languages="Western Punjabi">صوبہ دوبرچ</name>
+		<name normalized="დობრიჩის ოლქი" languages="Georgian">დობრიჩის ოლქი</name>
+		<name normalized="dbrt" languages="Japanese">ドブリチ</name>
+		<name normalized="dbrt州" languages="Japanese">ドブリチ州</name>
+		<name normalized="多布里奇" languages="Chinese">多布里奇</name>
+		<name normalized="多布里奇州" languages="Chinese">多布里奇州</name>
+		<name normalized="도브리치" languages="Korean">도브리치</name>
+		<name normalized="도브리치 주" languages="Korean">도브리치 주</name>
+	</region>
+	<region name="Gabrovo" type="province" typeTranslated="oblast">
+		<name normalized="Gabrova" languages="Turkish">Gabrova</name>
+		<name normalized="Gabrovas" languages="Lithuanian">Gabrovas</name>
+		<name normalized="Gabrovo" languages="Albanian;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Hungarian;Indonesian;Italian;Latin;Occitan;official;Portuguese;Romanian;Serbo-Croatian;Slovak;Slovenian;Spanish;Swedish;Uzbek;Vietnamese;Waray">Gabrovo</name>
+		<name normalized="Gabrovo megye" languages="Hungarian">Gabrovo megye</name>
+		<name normalized="Gabrovo Oblast" languages="English;Norwegian (bokmal);official">Gabrovo Oblast</name>
+		<name normalized="Gabrovo piirkond" languages="Estonian">Gabrovo piirkond</name>
+		<name normalized="Gabrovo Province" languages="English;official;Scots">Gabrovo Province</name>
+		<name normalized="Gabrovo sritis" languages="Lithuanian">Gabrovo sritis</name>
+		<name normalized="Gabrovon alue" languages="Finnish">Gabrovon alue</name>
+		<name normalized="Gabrovska oblast" languages="Czech">Gabrovská oblast</name>
+		<name normalized="Gabrowo" languages="German;Polish">Gabrowo</name>
+		<name normalized="Gabrovo" languages="Catalan">Gàbrovo</name>
+		<name normalized="Oblast Gabrovo" languages="Croatian">Oblast Gabrovo</name>
+		<name normalized="Oblast Gabrowo" languages="German">Oblast Gabrowo</name>
+		<name normalized="Obwod Gabrowo" languages="Polish">Obwód Gabrowo</name>
+		<name normalized="Provincia de Gabrovo" languages="Spanish">Provincia de Gabrovo</name>
+		<name normalized="Provinco Gabrovo" languages="Esperanto">Provinco Gabrovo</name>
+		<name normalized="Provinsi Gabrovo" languages="Indonesian">Provinsi Gabrovo</name>
+		<name normalized="Provincia de Gabrovo" languages="Catalan">Província de Gàbrovo</name>
+		<name normalized="Regione di Gabrovo" languages="Italian">Regione di Gabrovo</name>
+		<name normalized="Regiunea Gabrovo" languages="Romanian">Regiunea Gabrovo</name>
+		<name normalized="Γκαμπροβο" languages="Greek">Γκάμπροβο</name>
+		<name normalized="Viлoiti Gabрovo" languages="Tajik">Вилояти Габрово</name>
+		<name normalized="Gabрovo" languages="Bulgarian;Church Slavic;Kazakh;Macedonian;Ossetic;Russian;Serbian;Ukrainian">Габрово</name>
+		<name normalized="Gabрovoйы obлaeсt" languages="Ossetic">Габровойы облæст</name>
+		<name normalized="Gabрovсka obлaсt" languages="Macedonian;Serbian">Габровска област</name>
+		<name normalized="Gabрovсkai obлaсtь" languages="Russian">Габровская область</name>
+		<name normalized="Gabрovсьka obлaсtь" languages="Ukrainian">Габровська область</name>
+		<name normalized="Gabрoўсkai vobлaсtь" languages="Belarusian">Габроўская вобласць</name>
+		<name normalized="Goрad Gabрava" languages="Belarusian">Горад Габрава</name>
+		<name normalized="Obлaсt Gabрovo" languages="Bulgarian">Област Габрово</name>
+		<name normalized="Գաbrvվvյի mաrz" languages="Armenian">Գաբրովոյի մարզ</name>
+		<name normalized="גbrvbv" languages="Hebrew">גברובו</name>
+		<name normalized="מhvז גbrvbv" languages="Hebrew">מחוז גברובו</name>
+		<name normalized="אسtאن gאbrووو" languages="Persian">استان گابرووو</name>
+		<name normalized="sوbہ gbrووא" languages="Western Punjabi">صوبہ گبرووا</name>
+		<name normalized="غאbrوfو" languages="Arabic">غابروفو</name>
+		<name normalized="gאbrووو" languages="Persian">گابرووو</name>
+		<name normalized="gאbrۆvۆ" languages="Sorani Kurdish">گابرۆڤۆ</name>
+		<name normalized="gbrووא" languages="Western Punjabi">گبرووا</name>
+		<name normalized="გაბროვოს ოლქი" languages="Georgian">გაბროვოს ოლქი</name>
+		<name normalized="gbrvo" languages="Japanese">ガブロヴォ</name>
+		<name normalized="gbrvo州" languages="Japanese">ガブロヴォ州</name>
+		<name normalized="加布羅沃" languages="Chinese">加布羅沃</name>
+		<name normalized="加布羅沃州" languages="Chinese">加布羅沃州</name>
+		<name normalized="가브로보" languages="Korean">가브로보</name>
+		<name normalized="가브로보 주" languages="Korean">가브로보 주</name>
+	</region>
+	<region name="Khaskovo" type="province" typeTranslated="oblast">
+		<name normalized="Chaskovas" languages="Lithuanian">Chaskovas</name>
+		<name normalized="Chaskovo" languages="Czech;Dutch;Slovak;Swedish">Chaskovo</name>
+		<name normalized="Chaskovo sritis" languages="Lithuanian">Chaskovo sritis</name>
+		<name normalized="Chaskovska oblast" languages="Czech">Chaskovská oblast</name>
+		<name normalized="Chaskowo" languages="German;Polish">Chaskowo</name>
+		<name normalized="Hascovo" languages="Latin">Hascovo</name>
+		<name normalized="Haskovo" languages="Albanian;Croatian;Danish;English;Estonian;Finnish;French;Indonesian;Italian;Occitan;Portuguese;Romanian;Serbo-Croatian;Simple English;Slovenian;Spanish;Vietnamese;Waray">Haskovo</name>
+		<name normalized="Haskovo oblast" languages="Norwegian (bokmal)">Haskovo oblast</name>
+		<name normalized="Haskovo piirkond" languages="Estonian">Haskovo piirkond</name>
+		<name normalized="Haskovo probintzia" languages="Basque">Haskovo probintzia</name>
+		<name normalized="Haskovo Province" languages="English;Scots">Haskovo Province</name>
+		<name normalized="Haskovon alue" languages="Finnish">Haskovon alue</name>
+		<name normalized="Haskoy" languages="Turkish">Hasköy</name>
+		<name normalized="Haszkovo megye" languages="Hungarian">Haszkovo megye</name>
+		<name normalized="Khaskovo" languages="English;French;official">Khaskovo</name>
+		<name normalized="Khaskovo Oblast" languages="English;official">Khaskovo Oblast</name>
+		<name normalized="Khaskovo Province" languages="English;official">Khaskovo Province</name>
+		<name normalized="Khaskovo" languages="Catalan">Khàskovo</name>
+		<name normalized="Oblast Chaskowo" languages="German">Oblast Chaskowo</name>
+		<name normalized="Oblast Haskovo" languages="Croatian">Oblast Haskovo</name>
+		<name normalized="Obwod Chaskowo" languages="Polish">Obwód Chaskowo</name>
+		<name normalized="Provincia de Haskovo" languages="Spanish">Provincia de Haskovo</name>
+		<name normalized="Provinco Haskovo" languages="Esperanto">Provinco Ĥaskovo</name>
+		<name normalized="Provinsi Haskovo" languages="Indonesian">Provinsi Haskovo</name>
+		<name normalized="Provincia de Khaskovo" languages="Catalan">Província de Khàskovo</name>
+		<name normalized="Regione di Haskovo" languages="Italian">Regione di Haskovo</name>
+		<name normalized="Regiunea Haskovo" languages="Romanian">Regiunea Haskovo</name>
+		<name normalized="Haskovo" languages="Esperanto">Ĥaskovo</name>
+		<name normalized="Χασκοβο" languages="Greek">Χάσκοβο</name>
+		<name normalized="Viлoiti Kaсkovo" languages="Tajik">Вилояти Хасково</name>
+		<name normalized="Goрad Kaсkava" languages="Belarusian">Горад Хаскава</name>
+		<name normalized="Obлaсt Kaсkovo" languages="Bulgarian">Област Хасково</name>
+		<name normalized="Kaсkovo" languages="Bulgarian;Church Slavic;Kazakh;Macedonian;Ossetic;Russian;Serbian;Ukrainian">Хасково</name>
+		<name normalized="Kaсkovoйы obлaeсt" languages="Ossetic">Хасковойы облæст</name>
+		<name normalized="Kaсkovсka obлaсt" languages="Macedonian;Serbian">Хасковска област</name>
+		<name normalized="Kaсkovсkai obлaсtь" languages="Russian">Хасковская область</name>
+		<name normalized="Kaсkovсьka obлaсtь" languages="Ukrainian">Хасковська область</name>
+		<name normalized="Hաskvվvյի mաrz" languages="Armenian">Հասկովոյի մարզ</name>
+		<name normalized="hאסqvbv" languages="Hebrew">חאסקובו</name>
+		<name normalized="מhvז hאסqvbv" languages="Hebrew">מחוז חאסקובו</name>
+		<name normalized="אسtאن خאسکوو" languages="Persian">استان خاسکوو</name>
+		<name normalized="خאسکۆvۆ" languages="Sorani Kurdish">خاسکۆڤۆ</name>
+		<name normalized="sوbہ ہسکووא" languages="Western Punjabi">صوبہ ہسکووا</name>
+		<name normalized="hאسکوfو" languages="Persian">هاسکوفو</name>
+		<name normalized="ہسکوא" languages="Western Punjabi">ہسکوا</name>
+		<name normalized="ჰასკოვოს ოლქი" languages="Georgian">ჰასკოვოს ოლქი</name>
+		<name normalized="hskvo" languages="Japanese">ハスコヴォ</name>
+		<name normalized="hskvo州" languages="Japanese">ハスコヴォ州</name>
+		<name normalized="哈斯科沃" languages="Chinese">哈斯科沃</name>
+		<name normalized="哈斯科沃州" languages="Chinese">哈斯科沃州</name>
+		<name normalized="하스코보" languages="Korean">하스코보</name>
+		<name normalized="하스코보 주" languages="Korean">하스코보 주</name>
+	</region>
+	<region name="Kurdzhali" type="province" typeTranslated="oblast">
+		<name normalized="Achridos" languages="Latin">Achridos</name>
+		<name normalized="Kardjali" languages="French;Occitan">Kardjali</name>
+		<name normalized="Kardschali" languages="German">Kardschali</name>
+		<name normalized="Kardzhali" languages="English;Indonesian;Portuguese;Vietnamese;Waray">Kardzhali</name>
+		<name normalized="Kardzhali probintzia" languages="Basque">Kardzhali probintzia</name>
+		<name normalized="Kardzhali Province" languages="English;Scots">Kardzhali Province</name>
+		<name normalized="Kardzjali" languages="Danish;Dutch;Swedish">Kardzjali</name>
+		<name normalized="Kardzsali megye" languages="Hungarian">Kardzsali megye</name>
+		<name normalized="Kardjali" languages="Esperanto">Kardĵali</name>
+		<name normalized="Kardzali" languages="Czech">Kardžali</name>
+		<name normalized="Kardzalijska oblast" languages="Czech">Kardžalijská oblast</name>
+		<name normalized="Kırcaali" languages="Turkish">Kırcaali</name>
+		<name normalized="Kirdzalai" languages="Lithuanian">Kirdžalai</name>
+		<name normalized="Kirdzalu sritis" languages="Lithuanian">Kirdžalų sritis</name>
+		<name normalized="Krdzali" languages="Croatian;Serbo-Croatian;Slovenian">Krdžali</name>
+		<name normalized="Kurdzhali" languages="English;official">Kurdzhali</name>
+		<name normalized="Kurdzhali Oblast" languages="English;official">Kurdzhali Oblast</name>
+		<name normalized="Kurdzhali Province" languages="English;official">Kurdzhali Province</name>
+		<name normalized="Kyrdzali" languages="Polish">Kyrdżali</name>
+		<name normalized="Kardjali" languages="Romanian">Kărdjali</name>
+		<name normalized="Kardzali" languages="Albanian;Finnish;Slovak">Kărdžali</name>
+		<name normalized="Kardzalin alue" languages="Finnish">Kărdžalin alue</name>
+		<name normalized="Kardzali piirkond" languages="Estonian">Kǎrdžali piirkond</name>
+		<name normalized="Oblast Kardschali" languages="German">Oblast Kardschali</name>
+		<name normalized="Oblast Krdzali" languages="Croatian">Oblast Krdžali</name>
+		<name normalized="Obwod Kyrdzali" languages="Polish">Obwód Kyrdżali</name>
+		<name normalized="Provincia de Kardzhali" languages="Spanish">Provincia de Kardzhali</name>
+		<name normalized="Provinco Kardjali" languages="Esperanto">Provinco Kardĵali</name>
+		<name normalized="Provinsi Kardzhali" languages="Indonesian">Provinsi Kardzhali</name>
+		<name normalized="Provincia de Kardzhali" languages="Catalan">Província de Kardzhali</name>
+		<name normalized="Regione di Kardzali" languages="Italian">Regione di Kărdžali</name>
+		<name normalized="Regiunea Kardjali" languages="Romanian">Regiunea Kărdjali</name>
+		<name normalized="Καρτζαλι" languages="Greek">Κάρτζαλι</name>
+		<name normalized="Viлoiti Kuрdzaлi" languages="Tajik">Вилояти Курджали</name>
+		<name normalized="Kiрdzaлi" languages="Ukrainian">Кирджалі</name>
+		<name normalized="Kiрdzaлiйсьka obлaсtь" languages="Ukrainian">Кирджалійська область</name>
+		<name normalized="Kрdzaлi" languages="Macedonian;Serbian">Крџали</name>
+		<name normalized="Kрdzaлiсka obлaсt" languages="Macedonian">Крџалиска област</name>
+		<name normalized="Kрdzaлijсka obлaсt" languages="Serbian">Крџалијска област</name>
+		<name normalized="Kърdzaлi" languages="Bulgarian">Кърджали</name>
+		<name normalized="Kырdzaлi" languages="Kazakh;Ossetic;Russian">Кырджали</name>
+		<name normalized="Kырdzaлiйсkai obлaсtь" languages="Russian">Кырджалийская область</name>
+		<name normalized="Kырdzaлiйы obлaeсt" languages="Ossetic">Кырджалийы облæст</name>
+		<name normalized="Kiрdzaлiйсkai vobлaсtь" languages="Belarusian">Кірджалійская вобласць</name>
+		<name normalized="Obлaсt Kърdzaлi" languages="Bulgarian">Област Кърджали</name>
+		<name normalized="Kաrjաlիի mաrz" languages="Armenian">Կարջալիի մարզ</name>
+		<name normalized="מhvז qrדז'אדי" languages="Hebrew">מחוז קרדז'אלי</name>
+		<name normalized="qrדז'אדי" languages="Hebrew">קרדז'אלי</name>
+		<name normalized="אسtאن کrjאلی" languages="Persian">استان کرجالی</name>
+		<name normalized="sوbہ کאrدjאلی" languages="Western Punjabi">صوبہ کاردژالی</name>
+		<name normalized="کאrjאلی" languages="Sorani Kurdish">کارجالی</name>
+		<name normalized="کאrدjאلی" languages="Western Punjabi">کاردژالی</name>
+		<name normalized="კირჯალი" languages="Georgian">კირჯალი</name>
+		<name normalized="კირჯალის ოლქი" languages="Georgian">კირჯალის ოლქი</name>
+		<name normalized="krzyr" languages="Japanese">クルジャリ</name>
+		<name normalized="krzyr州" languages="Japanese">クルジャリ州</name>
+		<name normalized="克爾賈利" languages="Chinese">克爾賈利</name>
+		<name normalized="克爾賈利州" languages="Chinese">克爾賈利州</name>
+		<name normalized="커르잘리 주" languages="Korean">커르잘리 주</name>
+		<name normalized="쿠르잘리" languages="Korean">쿠르잘리</name>
+	</region>
+	<region name="Kyustendil" type="province" typeTranslated="oblast">
+		<name normalized="Kiostendil" languages="Occitan">Kiostendil</name>
+		<name normalized="Kiustendil" languages="Catalan;Romanian">Kiustendil</name>
+		<name normalized="Kiustendil probintzia" languages="Basque">Kiustendil probintzia</name>
+		<name normalized="Kiustendilas" languages="Lithuanian">Kiustendilas</name>
+		<name normalized="Kiustendilo sritis" languages="Lithuanian">Kiustendilo sritis</name>
+		<name normalized="Kiustendil" languages="Polish">Kiustendił</name>
+		<name normalized="Kjoestendil" languages="Dutch">Kjoestendil</name>
+		<name normalized="Kjustendil" languages="Albanian;Czech;Danish;Esperanto;Finnish;German;Italian;Slovak;Slovenian;Swedish">Kjustendil</name>
+		<name normalized="Kjustendili piirkond" languages="Estonian">Kjustendili piirkond</name>
+		<name normalized="Kjustendilin alue" languages="Finnish">Kjustendilin alue</name>
+		<name normalized="Kjustendilska oblast" languages="Czech">Kjustendilská oblast</name>
+		<name normalized="Kjusztendil megye" languages="Hungarian">Kjusztendil megye</name>
+		<name normalized="Kyoustendil" languages="French">Kyoustendil</name>
+		<name normalized="Kyustendil" languages="English;Indonesian;official;Portuguese;Spanish;Vietnamese;Waray">Kyustendil</name>
+		<name normalized="Kyustendil Oblast" languages="English;official">Kyustendil Oblast</name>
+		<name normalized="Kyustendil Province" languages="English;official;Scots">Kyustendil Province</name>
+		<name normalized="Kostendil" languages="Turkish">Köstendil</name>
+		<name normalized="Kostəndil" languages="Azerbaijani">Köstəndil</name>
+		<name normalized="Oblast Kjustendil" languages="German">Oblast Kjustendil</name>
+		<name normalized="Oblast Custendil" languages="Croatian">Oblast Ćustendil</name>
+		<name normalized="Obwod Kiustendil" languages="Polish">Obwód Kiustendił</name>
+		<name normalized="Pautalia" languages="Latin">Pautalia</name>
+		<name normalized="Provincia de Kyustendil" languages="Spanish">Provincia de Kyustendil</name>
+		<name normalized="Provinco Kjustendil" languages="Esperanto">Provinco Kjustendil</name>
+		<name normalized="Provinsi Kyustendil" languages="Indonesian">Provinsi Kyustendil</name>
+		<name normalized="Provincia de Kiustendil" languages="Catalan">Província de Kiustendil</name>
+		<name normalized="Regione di Kjustendil" languages="Italian">Regione di Kjustendil</name>
+		<name normalized="Regiunea Kiustendil" languages="Romanian">Regiunea Kiustendil</name>
+		<name normalized="Custendil" languages="Croatian;Serbo-Croatian">Ćustendil</name>
+		<name normalized="Κιουστεντιλ" languages="Greek">Κιουστεντίλ</name>
+		<name normalized="Viлoiti Kюсtiнdiл" languages="Tajik">Вилояти Кюстендил</name>
+		<name normalized="Kюсtiнdiл" languages="Bulgarian;Kazakh;Ossetic;Russian;Ukrainian">Кюстендил</name>
+		<name normalized="Kюсtiнdiлсkai obлaсtь" languages="Russian">Кюстендилская область</name>
+		<name normalized="Kюсtiнdiлы obлaeсt" languages="Ossetic">Кюстендилы облæст</name>
+		<name normalized="Kюсtiнdiльсьka obлaсtь" languages="Ukrainian">Кюстендильська область</name>
+		<name normalized="Kюсtiнdыльсkai vobлaсtь" languages="Belarusian">Кюсцендыльская вобласць</name>
+		<name normalized="Obлaсt Kюсtiнdiл" languages="Bulgarian">Област Кюстендил</name>
+		<name normalized="Ћuсtiнdiл" languages="Serbian">Ћустендил</name>
+		<name normalized="Ћuсtiнdiлсka obлaсt" languages="Serbian">Ћустендилска област</name>
+		<name normalized="Kuсtiнdiл" languages="Macedonian">Ќустендил</name>
+		<name normalized="Kuсtiнdiлсka obлaсt" languages="Macedonian">Ќустендилска област</name>
+		<name normalized="Kյvystենdիlի mաrz" languages="Armenian">Կյուստենդիլի մարզ</name>
+		<name normalized="מhvז qיvסtnדיד" languages="Hebrew">מחוז קיוסטנדיל</name>
+		<name normalized="qיvסtnדיד" languages="Hebrew">קיוסטנדיל</name>
+		<name normalized="אسtאن کیوسtندیل" languages="Persian">استان کیوستندیل</name>
+		<name normalized="sوbہ کیؤسtندل" languages="Western Punjabi">صوبہ کیؤستندل</name>
+		<name normalized="کیؤسtندل" languages="Western Punjabi">کیؤستندل</name>
+		<name normalized="کیوسtێندیل" languages="Sorani Kurdish">کیوستێندیل</name>
+		<name normalized="კიუსტენდილის ოლქი" languages="Georgian">კიუსტენდილის ოლქი</name>
+		<name normalized="kystndir" languages="Japanese">キュステンディル</name>
+		<name normalized="kystndir州" languages="Japanese">キュステンディル州</name>
+		<name normalized="丘斯滕迪爾" languages="Chinese">丘斯滕迪爾</name>
+		<name normalized="丘斯滕迪爾州" languages="Chinese">丘斯滕迪爾州</name>
+		<name normalized="큐스텐딜" languages="Korean">큐스텐딜</name>
+		<name normalized="큐스텐딜 주" languages="Korean">큐스텐딜 주</name>
+	</region>
+	<region name="Lovech" type="province" typeTranslated="oblast">
+		<name normalized="Lofca" languages="Turkish">Lofça</name>
+		<name normalized="Lovech" languages="English;Indonesian;Malay;Occitan;official;Portuguese;Spanish;Vietnamese;Waray">Lovech</name>
+		<name normalized="Lovech Oblast" languages="English;official">Lovech Oblast</name>
+		<name normalized="Lovech Province" languages="English;official;Scots">Lovech Province</name>
+		<name normalized="Loveci" languages="Romanian">Loveci</name>
+		<name normalized="Lovetch" languages="French">Lovetch</name>
+		<name normalized="Lovetj" languages="Danish;Swedish">Lovetj</name>
+		<name normalized="Lovetsj" languages="Dutch;Norwegian (bokmal)">Lovetsj</name>
+		<name normalized="Lovetsj oblast" languages="Norwegian (bokmal)">Lovetsj oblast</name>
+		<name normalized="Lovetx probintzia" languages="Basque">Lovetx probintzia</name>
+		<name normalized="Lovets" languages="Finnish">Lovetš</name>
+		<name normalized="Lovetsin alue" languages="Finnish">Lovetšin alue</name>
+		<name normalized="Lovec" languages="Esperanto">Loveĉ</name>
+		<name normalized="Lovec" languages="Albanian;Croatian;Czech;Italian;Serbo-Croatian;Slovak;Slovenian">Loveč</name>
+		<name normalized="Lovecas" languages="Lithuanian">Lovečas</name>
+		<name normalized="Loveci piirkond" languages="Estonian">Loveči piirkond</name>
+		<name normalized="Loveco sritis" languages="Lithuanian">Lovečo sritis</name>
+		<name normalized="Lovecska oblast" languages="Czech">Lovečská oblast</name>
+		<name normalized="Lowetsch" languages="German">Lowetsch</name>
+		<name normalized="Melta" languages="Latin">Melta</name>
+		<name normalized="Oblast Lovec" languages="Croatian">Oblast Loveč</name>
+		<name normalized="Oblast Lowetsch" languages="German">Oblast Lowetsch</name>
+		<name normalized="Obwod Lowecz" languages="Polish">Obwód Łowecz</name>
+		<name normalized="Provincia de Lovech" languages="Spanish">Provincia de Lovech</name>
+		<name normalized="Provinco Lovec" languages="Esperanto">Provinco Loveĉ</name>
+		<name normalized="Provinsi Lovetch" languages="Indonesian">Provinsi Lovetch</name>
+		<name normalized="Provincia de Lovetx" languages="Catalan">Província de Lovetx</name>
+		<name normalized="Regione di Lovec" languages="Italian">Regione di Loveč</name>
+		<name normalized="Regiunea Loveci" languages="Romanian">Regiunea Loveci</name>
+		<name normalized="Lowecz" languages="Polish">Łowecz</name>
+		<name normalized="Λοβετς" languages="Greek">Λόβετς</name>
+		<name normalized="Viлoiti Лovic" languages="Tajik">Вилояти Ловеч</name>
+		<name normalized="Лovitьka obлaсtь" languages="Ukrainian">Ловецька область</name>
+		<name normalized="Лovic" languages="Bulgarian;Kazakh;Macedonian;Ossetic;Russian;Serbian;Ukrainian">Ловеч</name>
+		<name normalized="Лovicka obлaсt" languages="Macedonian;Serbian">Ловечка област</name>
+		<name normalized="Лovicсkai vobлaсtь" languages="Belarusian">Ловечская вобласць</name>
+		<name normalized="Лovicсkai obлaсtь" languages="Russian">Ловечская область</name>
+		<name normalized="Лovicы obлaeсt" languages="Ossetic">Ловечы облæст</name>
+		<name normalized="Obлaсt Лovic" languages="Bulgarian">Област Ловеч</name>
+		<name normalized="Lvվեcի mաrz" languages="Armenian">Լովեչի մարզ</name>
+		<name normalized="דvbץ'" languages="Hebrew">לובץ'</name>
+		<name normalized="מhvז דvbץ'" languages="Hebrew">מחוז לובץ'</name>
+		<name normalized="אسtאن لووچ" languages="Persian">استان لووچ</name>
+		<name normalized="sوbہ لوویچ" languages="Western Punjabi">صوبہ لوویچ</name>
+		<name normalized="لووچ" languages="Persian">لووچ</name>
+		<name normalized="لوویچ" languages="Western Punjabi">لوویچ</name>
+		<name normalized="لۆvێچ" languages="Sorani Kurdish">لۆڤێچ</name>
+		<name normalized="ლოვეჩის ოლქი" languages="Georgian">ლოვეჩის ოლქი</name>
+		<name normalized="rvet" languages="Japanese">ロヴェチ</name>
+		<name normalized="rvet州" languages="Japanese">ロヴェチ州</name>
+		<name normalized="洛維奇" languages="Chinese">洛維奇</name>
+		<name normalized="洛維奇州" languages="Chinese">洛維奇州</name>
+		<name normalized="로베치" languages="Korean">로베치</name>
+		<name normalized="로베치 주" languages="Korean">로베치 주</name>
+	</region>
+	<region name="Montana" type="province" typeTranslated="oblast">
+		<name normalized="Kutlu Vice" languages="Turkish">Kutlu Viçe</name>
+		<name normalized="Montana" languages="Albanian;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Indonesian;Italian;Latin;Lithuanian;Occitan;official;Polish;Portuguese;Romanian;Serbo-Croatian;Slovak;Slovenian;Swedish;Turkish;Vietnamese;Waray">Montana</name>
+		<name normalized="Montana Oblast" languages="English;Norwegian (bokmal);official">Montana Oblast</name>
+		<name normalized="Montana piirkond" languages="Estonian">Montana piirkond</name>
+		<name normalized="Montana probintzia" languages="Basque">Montana probintzia</name>
+		<name normalized="Montana Province" languages="English;official;Scots">Montana Province</name>
+		<name normalized="Montanan alue" languages="Finnish">Montanan alue</name>
+		<name normalized="Montanos sritis" languages="Lithuanian">Montanos sritis</name>
+		<name normalized="Montanska oblast" languages="Czech">Montanská oblast</name>
+		<name normalized="Oblast Montana" languages="Croatian;German">Oblast Montana</name>
+		<name normalized="Obwod Montana" languages="Polish">Obwód Montana</name>
+		<name normalized="Provincia de Montana" languages="Spanish">Provincia de Montana</name>
+		<name normalized="Provinco Montana" languages="Esperanto">Provinco Montana</name>
+		<name normalized="Provinsi Montana" languages="Indonesian">Provinsi Montana</name>
+		<name normalized="Provincia de Montana" languages="Catalan">Província de Montana</name>
+		<name normalized="Regione di Montana" languages="Italian">Regione di Montana</name>
+		<name normalized="Regiunea Montana" languages="Romanian">Regiunea Montana</name>
+		<name normalized="Μοντανα" languages="Greek">Μοντάνα</name>
+		<name normalized="Viлoiti Мoнtaнa" languages="Tajik">Вилояти Монтана</name>
+		<name normalized="Мaнtaнсkai vobлaсtь" languages="Belarusian">Мантанская вобласць</name>
+		<name normalized="Мoнtaнae" languages="Ossetic">Монтанæ</name>
+		<name normalized="Мoнtaнaeйы obлaeсt" languages="Ossetic">Монтанæйы облæст</name>
+		<name normalized="Мoнtaнa" languages="Bulgarian;Macedonian;Russian;Serbian;Ukrainian">Монтана</name>
+		<name normalized="Мoнtaнa . Bлъgaрyi" languages="Church Slavic">Монтана · Блъгарїи</name>
+		<name normalized="Мoнtaнсka obлaсt" languages="Macedonian;Serbian">Монтанска област</name>
+		<name normalized="Мoнtaнсkai obлaсtь" languages="Russian">Монтанская область</name>
+		<name normalized="Мoнtaнсьka obлaсtь" languages="Ukrainian">Монтанська область</name>
+		<name normalized="Obлaсt Мoнtaнa" languages="Bulgarian">Област Монтана</name>
+		<name normalized="Mvնtանայի mաrz" languages="Armenian">Մոնտանայի մարզ</name>
+		<name normalized="מvntnh" languages="Hebrew">מונטנה</name>
+		<name normalized="מhvז מvntnh" languages="Hebrew">מחוז מונטנה</name>
+		<name normalized="אسtאن mونtאنא" languages="Persian">استان مونتانا</name>
+		<name normalized="sوbہ mونtאنא" languages="Western Punjabi">صوبہ مونتانا</name>
+		<name normalized="mونtאنא, bلغאrسtאن" languages="Persian">مونتانا، بلغارستان</name>
+		<name normalized="mۆنtאنא, bولgאrیא" languages="Sorani Kurdish">مۆنتانا، بولگاریا</name>
+		<name normalized="მონტანის ოლქი" languages="Georgian">მონტანის ოლქი</name>
+		<name normalized="mntn" languages="Japanese">モンタナ</name>
+		<name normalized="mntn州" languages="Japanese">モンタナ州</name>
+		<name normalized="蒙塔納" languages="Chinese">蒙塔納</name>
+		<name normalized="蒙塔納州" languages="Chinese">蒙塔納州</name>
+		<name normalized="몬타나" languages="Korean">몬타나</name>
+		<name normalized="몬타나 주" languages="Korean">몬타나 주</name>
+	</region>
+	<region name="Pazardzhik" type="province" typeTranslated="oblast">
+		<name normalized="Bessapara" languages="Latin">Bessapara</name>
+		<name normalized="Oblast Pasardschik" languages="German">Oblast Pasardschik</name>
+		<name normalized="Oblast Pazardzik" languages="Croatian">Oblast Pazardžik</name>
+		<name normalized="Obwod Pazardzik" languages="Polish">Obwód Pazardżik</name>
+		<name normalized="Pasardschik" languages="German">Pasardschik</name>
+		<name normalized="Pazarcık" languages="Turkish">Pazarcık</name>
+		<name normalized="Pazardgik" languages="Occitan">Pazardgik</name>
+		<name normalized="Pazardjik" languages="French;Romanian">Pazardjik</name>
+		<name normalized="Pazardsjik" languages="Danish">Pazardsjik</name>
+		<name normalized="Pazardzhik" languages="English;Galician;Indonesian;official;Portuguese;Spanish;Vietnamese;Waray">Pazardzhik</name>
+		<name normalized="Pazardzhik Oblast" languages="English;official">Pazardzhik Oblast</name>
+		<name normalized="Pazardzhik probintzia" languages="Basque">Pazardzhik probintzia</name>
+		<name normalized="Pazardzhik Province" languages="English;official;Scots">Pazardzhik Province</name>
+		<name normalized="Pazardzjik" languages="Dutch;Swedish">Pazardzjik</name>
+		<name normalized="Pazardjik" languages="Esperanto">Pazardĵik</name>
+		<name normalized="Pazardzik" languages="Polish">Pazardżik</name>
+		<name normalized="Pazardzicka oblast" languages="Czech">Pazardžická oblast</name>
+		<name normalized="Pazardzik" languages="Albanian;Croatian;Czech;Italian;Serbo-Croatian;Slovak;Slovenian">Pazardžik</name>
+		<name normalized="Pazardzikas" languages="Lithuanian">Pazardžikas</name>
+		<name normalized="Pazardziki piirkond" languages="Estonian">Pazardžiki piirkond</name>
+		<name normalized="Pazardzikin alue" languages="Finnish">Pazardžikin alue</name>
+		<name normalized="Pazardziko sritis" languages="Lithuanian">Pazardžiko sritis</name>
+		<name normalized="Provincia de Pazardzhik" languages="Spanish">Provincia de Pazardzhik</name>
+		<name normalized="Provinco Pazardjik" languages="Esperanto">Provinco Pazardĵik</name>
+		<name normalized="Provinsi Pazardzhik" languages="Indonesian">Provinsi Pazardzhik</name>
+		<name normalized="Provincia de Pazardjik" languages="Catalan">Província de Pàzardjik</name>
+		<name normalized="Pazardjik" languages="Catalan">Pàzardjik</name>
+		<name normalized="Regione di Pazardzik" languages="Italian">Regione di Pazardžik</name>
+		<name normalized="Regiunea Pazargik" languages="Romanian">Regiunea Pazargik</name>
+		<name normalized="Παζαρτζικ" languages="Greek">Πάζαρτζικ</name>
+		<name normalized="Viлoiti Pazaрdzik" languages="Tajik">Вилояти Пазарджик</name>
+		<name normalized="Obлaсt Pazaрdzik" languages="Bulgarian">Област Пазарджик</name>
+		<name normalized="Pazaрdzik" languages="Bulgarian;Kazakh;Ossetic;Russian;Ukrainian">Пазарджик</name>
+		<name normalized="Pazaрdzikсkai obлaсtь" languages="Russian">Пазарджикская область</name>
+		<name normalized="Pazaрdzitьka obлaсtь" languages="Ukrainian">Пазарджицька область</name>
+		<name normalized="Pazaрdzicы obлaeсt" languages="Ossetic">Пазарджичы облæст</name>
+		<name normalized="Pazaрdzыkсkai vobлaсtь" languages="Belarusian">Пазарджыкская вобласць</name>
+		<name normalized="Pazaрdzik" languages="Macedonian;Serbian">Пазарџик</name>
+		<name normalized="Pazaрdzicka obлaсt" languages="Macedonian;Serbian">Пазарџичка област</name>
+		<name normalized="Pաzաrjիkի mաrz" languages="Armenian">Պազարջիկի մարզ</name>
+		<name normalized="מhvז pאזאrדז'יq" languages="Hebrew">מחוז פאזארדז'יק</name>
+		<name normalized="pאזאrדז'יq" languages="Hebrew">פאזארדז'יק</name>
+		<name normalized="אسtאن pאزאrjیک" languages="Persian">استان پازارجیک</name>
+		<name normalized="bאزאrjyk" languages="Arabic">بازارجيك</name>
+		<name normalized="sوbہ pאزאrjک" languages="Western Punjabi">صوبہ پازارجک</name>
+		<name normalized="pאزאrjک" languages="Western Punjabi">پازارجک</name>
+		<name normalized="pאزאrjیک, bولgאrیא" languages="Sorani Kurdish">پازارجیک، بولگاریا</name>
+		<name normalized="ปาซาร์จีก" languages="Thai">ปาซาร์จีก</name>
+		<name normalized="პაზარჯიკის ოლქი" languages="Georgian">პაზარჯიკის ოლქი</name>
+		<name normalized="pzrzk" languages="Japanese">パザルジク</name>
+		<name normalized="pzrzk州" languages="Japanese">パザルジク州</name>
+		<name normalized="帕扎爾吉克" languages="Chinese">帕扎爾吉克</name>
+		<name normalized="帕扎爾吉克州" languages="Chinese">帕扎爾吉克州</name>
+		<name normalized="파자르지크" languages="Korean">파자르지크</name>
+		<name normalized="파자르지크 주" languages="Korean">파자르지크 주</name>
+	</region>
+	<region name="Pernik" type="province" typeTranslated="oblast">
+		<name normalized="Oblast Pernik" languages="Croatian;German">Oblast Pernik</name>
+		<name normalized="Obwod Pernik" languages="Polish">Obwód Pernik</name>
+		<name normalized="Pernicka oblast" languages="Czech">Pernická oblast</name>
+		<name normalized="Pernik" languages="Albanian;Basque;Croatian;Czech;Danish;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Italian;Occitan;official;Polish;Portuguese;Romanian;Serbo-Croatian;Slovak;Slovenian;Spanish;Swedish;Turkish;Vietnamese;Waray">Pernik</name>
+		<name normalized="Pernik Oblast" languages="English;Norwegian (bokmal);official">Pernik Oblast</name>
+		<name normalized="Pernik probintzia" languages="Basque">Pernik probintzia</name>
+		<name normalized="Pernik Province" languages="English;official;Scots">Pernik Province</name>
+		<name normalized="Pernikas" languages="Lithuanian">Pernikas</name>
+		<name normalized="Perniki piirkond" languages="Estonian">Perniki piirkond</name>
+		<name normalized="Pernikin alue" languages="Finnish">Pernikin alue</name>
+		<name normalized="Perniko sritis" languages="Lithuanian">Perniko sritis</name>
+		<name normalized="Perunopolis" languages="Latin">Perunopolis</name>
+		<name normalized="Provincia de Pernik" languages="Spanish">Provincia de Pernik</name>
+		<name normalized="Provinco Pernik" languages="Esperanto">Provinco Pernik</name>
+		<name normalized="Provinsi Pernik" languages="Indonesian">Provinsi Pernik</name>
+		<name normalized="Provincia de Pernik" languages="Catalan">Província de Pernik</name>
+		<name normalized="Regione di Pernik" languages="Italian">Regione di Pernik</name>
+		<name normalized="Regiunea Pernik" languages="Romanian">Regiunea Pernik</name>
+		<name normalized="Πeρνικ" languages="Greek">Πέρνικ</name>
+		<name normalized="Viлoiti Piрнik" languages="Tajik">Вилояти Перник</name>
+		<name normalized="Goрad Piрнik" languages="Belarusian">Горад Пернік</name>
+		<name normalized="Obлaсt Piрнik" languages="Bulgarian">Област Перник</name>
+		<name normalized="Piрнik" languages="Bulgarian;Kazakh;Macedonian;Ossetic;Russian;Serbian;Ukrainian">Перник</name>
+		<name normalized="Piрнikсkai obлaсtь" languages="Russian">Перникская область</name>
+		<name normalized="Piрнitьka obлaсtь" languages="Ukrainian">Перницька область</name>
+		<name normalized="Piрнicka obлaсt" languages="Macedonian;Serbian">Перничка област</name>
+		<name normalized="Piрнicы obлaeсt" languages="Ossetic">Перничы облæст</name>
+		<name normalized="Piрнikсkai vobлaсtь" languages="Belarusian">Пернікская вобласць</name>
+		<name normalized="Pեrնիkի mաrz" languages="Armenian">Պերնիկի մարզ</name>
+		<name normalized="מhvז prnיq" languages="Hebrew">מחוז פרניק</name>
+		<name normalized="prnיq" languages="Hebrew">פרניק</name>
+		<name normalized="אسtאن prنیک" languages="Persian">استان پرنیک</name>
+		<name normalized="sوbہ pیrنک" languages="Western Punjabi">صوبہ پیرنک</name>
+		<name normalized="prنیک" languages="Persian">پرنیک</name>
+		<name normalized="pیrنک" languages="Western Punjabi">پیرنک</name>
+		<name normalized="เปร์นิก" languages="Thai">เปร์นิก</name>
+		<name normalized="პერნიკის ოლქი" languages="Georgian">პერნიკის ოლქი</name>
+		<name normalized="prnk" languages="Japanese">ペルニク</name>
+		<name normalized="prnk州" languages="Japanese">ペルニク州</name>
+		<name normalized="佩尔尼克" languages="Chinese">佩尔尼克</name>
+		<name normalized="佩爾尼克州" languages="Chinese">佩爾尼克州</name>
+		<name normalized="페르니크" languages="Korean">페르니크</name>
+		<name normalized="페르니크 주" languages="Korean">페르니크 주</name>
+	</region>
+	<region name="Pleven" type="province" typeTranslated="oblast">
+		<name normalized="Oblast Pleven" languages="Croatian">Oblast Pleven</name>
+		<name normalized="Oblast Plewen" languages="German">Oblast Plewen</name>
+		<name normalized="Obwod Plewen" languages="Polish">Obwód Plewen</name>
+		<name normalized="Pleven" languages="Albanian;Asturian;Basque;Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;Indonesian;Italian;lumbaart;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Piedmontese;Portuguese;Serbo-Croatian;Slovak;Slovenian;Spanish;Swedish;Vietnamese;Volapuk;Waray">Pleven</name>
+		<name normalized="Pleven Oblast" languages="English;Norwegian (bokmal);official">Pleven Oblast</name>
+		<name normalized="Pleven probintzia" languages="Basque">Pleven probintzia</name>
+		<name normalized="Pleven Province" languages="English;official;Scots">Pleven Province</name>
+		<name normalized="Plevenas" languages="Lithuanian">Plevenas</name>
+		<name normalized="Pleveni piirkond" languages="Estonian">Pleveni piirkond</name>
+		<name normalized="Plevenin alue" languages="Finnish">Plevenin alue</name>
+		<name normalized="Pleveno sritis" languages="Lithuanian">Pleveno sritis</name>
+		<name normalized="Plevenska oblast" languages="Czech">Plevenská oblast</name>
+		<name normalized="Plevenum" languages="Latin">Plevenum</name>
+		<name normalized="Plevna" languages="Hungarian;Romanian">Plevna</name>
+		<name normalized="Plevne" languages="Turkish">Plevne</name>
+		<name normalized="Plewen" languages="German;Polish;Turkmen">Plewen</name>
+		<name normalized="Provincia de Pleven" languages="Spanish">Provincia de Pleven</name>
+		<name normalized="Provinco Pleven" languages="Esperanto">Provinco Pleven</name>
+		<name normalized="Provinsi Pleven" languages="Indonesian">Provinsi Pleven</name>
+		<name normalized="Provincia de Pleven" languages="Catalan">Província de Pleven</name>
+		<name normalized="Regione di Pleven" languages="Italian">Regione di Pleven</name>
+		<name normalized="Regiunea Plevna" languages="Romanian">Regiunea Plevna</name>
+		<name normalized="Πλeβεν" languages="Greek">Πλέβεν</name>
+		<name normalized="Viлoiti Pлiviн" languages="Tajik">Вилояти Плевен</name>
+		<name normalized="Goрad Pлiviн" languages="Belarusian">Горад Плевен</name>
+		<name normalized="Obлaсt Pлiviн" languages="Bulgarian">Област Плевен</name>
+		<name normalized="Pлiviн" languages="Bulgarian;Kazakh;Macedonian;Ossetic;Russian;Serbian;Ukrainian">Плевен</name>
+		<name normalized="Pлiviнсka obлaсt" languages="Macedonian;Serbian">Плевенска област</name>
+		<name normalized="Pлiviнсkai vobлaсtь" languages="Belarusian">Плевенская вобласць</name>
+		<name normalized="Pлiviнсkai obлaсtь" languages="Russian">Плевенская область</name>
+		<name normalized="Pлiviнсьka obлaсtь" languages="Ukrainian">Плевенська область</name>
+		<name normalized="Pлiviны obлaeсt" languages="Ossetic">Плевены облæст</name>
+		<name normalized="Plևեն" languages="Armenian">Պլևեն</name>
+		<name normalized="Plևենի mաrz" languages="Armenian">Պլևենի մարզ</name>
+		<name normalized="מhvז pדbן" languages="Hebrew">מחוז פלבן</name>
+		<name normalized="pדbן" languages="Hebrew">פלבן</name>
+		<name normalized="אسtאن pلون" languages="Persian">استان پلون</name>
+		<name normalized="bلfن" languages="Arabic">بلفن</name>
+		<name normalized="sوbہ pلیوین" languages="Western Punjabi">صوبہ پلیوین</name>
+		<name normalized="pلیوین" languages="Western Punjabi">پلیوین</name>
+		<name normalized="პლევენი" languages="Georgian">პლევენი</name>
+		<name normalized="პლევენის ოლქი" languages="Georgian">პლევენის ოლქი</name>
+		<name normalized="prven" languages="Japanese">プレヴェン</name>
+		<name normalized="prven州" languages="Japanese">プレヴェン州</name>
+		<name normalized="普列文" languages="Chinese">普列文</name>
+		<name normalized="普列文州" languages="Chinese">普列文州</name>
+		<name normalized="플레벤" languages="Korean">플레벤</name>
+		<name normalized="플레벤 주" languages="Korean">플레벤 주</name>
+	</region>
+	<region name="Plovdiv" type="province" typeTranslated="oblast">
+		<name normalized="Filibe" languages="Turkish">Filibe</name>
+		<name normalized="Filipopul" languages="lumbaart">Filipopul</name>
+		<name normalized="Oblast Plovdiv" languages="Croatian">Oblast Plovdiv</name>
+		<name normalized="Oblast Plowdiw" languages="German">Oblast Plowdiw</name>
+		<name normalized="Obwod Plowdiw" languages="Polish">Obwód Płowdiw</name>
+		<name normalized="Philippopolis" languages="Latin">Philippopolis</name>
+		<name normalized="Plovdiv" languages="Albanian;Aragonese;Asturian;Azerbaijani;Basque;Breton;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Hungarian;Icelandic;Ido;Indonesian;Italian;Javanese;Malay;Maltese;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Portuguese;Romani;Romanian;Scots;Serbo-Croatian;Slovak;Slovenian;Spanish;Swedish;Tagalog;Vietnamese;Volapuk;Waray;Welsh">Plovdiv</name>
+		<name normalized="Plovdiv Oblast" languages="English;Norwegian (bokmal);official">Plovdiv Oblast</name>
+		<name normalized="Plovdiv probintzia" languages="Basque">Plovdiv probintzia</name>
+		<name normalized="Plovdiv Province" languages="English;official;Scots">Plovdiv Province</name>
+		<name normalized="Plovdiva" languages="Latvian">Plovdiva</name>
+		<name normalized="Plovdivas" languages="Lithuanian">Plovdivas</name>
+		<name normalized="Plovdivi piirkond" languages="Estonian">Plovdivi piirkond</name>
+		<name normalized="Plovdivin alue" languages="Finnish">Plovdivin alue</name>
+		<name normalized="Plovdivo sritis" languages="Lithuanian">Plovdivo sritis</name>
+		<name normalized="Plovdivska oblast" languages="Czech">Plovdivská oblast</name>
+		<name normalized="Plowdiw" languages="German;Turkmen">Plowdiw</name>
+		<name normalized="Plovdiv" languages="Catalan">Plòvdiv</name>
+		<name normalized="Provincia de Plovdiv" languages="Spanish">Provincia de Plovdiv</name>
+		<name normalized="Provinco Plovdiv" languages="Esperanto">Provinco Plovdiv</name>
+		<name normalized="Provinsi Plovdiv" languages="Indonesian">Provinsi Plovdiv</name>
+		<name normalized="Provincia de Plovdiv" languages="Catalan">Província de Plòvdiv</name>
+		<name normalized="Plowdiw" languages="Polish">Płowdiw</name>
+		<name normalized="Regione di Plovdiv" languages="Italian">Regione di Plovdiv</name>
+		<name normalized="Regiunea Plovdiv" languages="Romanian">Regiunea Plovdiv</name>
+		<name normalized="Φιλιπποuπολη" languages="Greek">Φιλιππούπολη</name>
+		<name normalized="Viлoiti Pлovdiv" languages="Tajik">Вилояти Пловдив</name>
+		<name normalized="Obлaсt Pлovdiv" languages="Bulgarian">Област Пловдив</name>
+		<name normalized="Pлovdiv" languages="Bulgarian;Kazakh;Macedonian;Mongolian;Ossetic;Russian;Serbian;Ukrainian">Пловдив</name>
+		<name normalized="Pлovdivсka obлaсt" languages="Macedonian;Serbian">Пловдивска област</name>
+		<name normalized="Pлovdivсkai obлaсtь" languages="Russian">Пловдивская область</name>
+		<name normalized="Pлovdivсьka obлaсtь" languages="Ukrainian">Пловдивська область</name>
+		<name normalized="Pлovdivы obлaeсt" languages="Ossetic">Пловдивы облæст</name>
+		<name normalized="Pлoўdziўсkai vobлaсtь" languages="Belarusian">Плоўдзіўская вобласць</name>
+		<name normalized="Фyлyppopoль" languages="Church Slavic">Фїлїппополь</name>
+		<name normalized="Plvվdիվ" languages="Armenian">Պլովդիվ</name>
+		<name normalized="Plvվdիվի mաrz" languages="Armenian">Պլովդիվի մարզ</name>
+		<name normalized="מhvז pדvbדיb" languages="Hebrew">מחוז פלובדיב</name>
+		<name normalized="pדאvvדיvv" languages="Yiddish">פלאוודיוו</name>
+		<name normalized="pדvbדיb" languages="Hebrew">פלובדיב</name>
+		<name normalized="אسtאن pلوودیو" languages="Persian">استان پلوودیو</name>
+		<name normalized="bلوfدyf" languages="Arabic">بلوفديف</name>
+		<name normalized="sوbہ pلوودیf" languages="Western Punjabi">صوبہ پلوودیف</name>
+		<name normalized="pلوودیf" languages="Western Punjabi">پلوودیف</name>
+		<name normalized="pلوودیو" languages="Persian">پلوودیو</name>
+		<name normalized="p्lov्hडiv्h" languages="Marathi">प्लॉव्हडिव्ह</name>
+		<name normalized="พลอฟดิฟ" languages="Thai">พลอฟดิฟ</name>
+		<name normalized="პლოვდივი" languages="Georgian">პლოვდივი</name>
+		<name normalized="პლოვდივის ოლქი" languages="Georgian">პლოვდივის ოლქი</name>
+		<name normalized="prvdih" languages="Japanese">プロヴディフ</name>
+		<name normalized="prvdih州" languages="Japanese">プロヴディフ州</name>
+		<name normalized="普罗夫迪夫" languages="Chinese">普罗夫迪夫</name>
+		<name normalized="普羅夫迪夫州" languages="Chinese">普羅夫迪夫州</name>
+		<name normalized="플로브디프" languages="Korean">플로브디프</name>
+		<name normalized="플로브디프 주" languages="Korean">플로브디프 주</name>
+	</region>
+	<region name="Razgrad" type="province" typeTranslated="oblast">
+		<name normalized="Abritus" languages="Latin">Abritus</name>
+		<name normalized="Oblast Rasgrad" languages="German">Oblast Rasgrad</name>
+		<name normalized="Oblast Razgrad" languages="Croatian">Oblast Razgrad</name>
+		<name normalized="Obwod Razgrad" languages="Polish">Obwód Razgrad</name>
+		<name normalized="Provincia de Razgrad" languages="Spanish">Provincia de Razgrad</name>
+		<name normalized="Provinco Razgrad" languages="Esperanto">Provinco Razgrad</name>
+		<name normalized="Provinsi Razgrad" languages="Indonesian">Provinsi Razgrad</name>
+		<name normalized="Provincia de Razgrad" languages="Catalan">Província de Razgrad</name>
+		<name normalized="Rasgrad" languages="German">Rasgrad</name>
+		<name normalized="Razgrad" languages="Albanian;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Finnish;French;Norwegian (bokmal);Occitan;official;Polish;Portuguese;Romanian;Serbo-Croatian;Slovak;Slovenian;Spanish;Swedish;Turkish;Vietnamese;Waray">Razgrad</name>
+		<name normalized="Razgrad Oblast" languages="English;Norwegian (bokmal);official">Razgrad Oblast</name>
+		<name normalized="Razgrad probintzia" languages="Basque">Razgrad probintzia</name>
+		<name normalized="Razgrad Province" languages="English;official;Scots">Razgrad Province</name>
+		<name normalized="Razgradas" languages="Lithuanian">Razgradas</name>
+		<name normalized="Razgradi piirkond" languages="Estonian">Razgradi piirkond</name>
+		<name normalized="Razgradin alue" languages="Finnish">Razgradin alue</name>
+		<name normalized="Razgrado sritis" languages="Lithuanian">Razgrado sritis</name>
+		<name normalized="Razgradska oblast" languages="Czech">Razgradská oblast</name>
+		<name normalized="Regione di Razgrad" languages="Italian">Regione di Razgrad</name>
+		<name normalized="Regiunea Razgrad" languages="Romanian">Regiunea Razgrad</name>
+		<name normalized="Ραζγκραντ" languages="Greek">Ράζγκραντ</name>
+		<name normalized="Viлoiti Рazgрad" languages="Tajik">Вилояти Разград</name>
+		<name normalized="Obлaсt Рazgрad" languages="Bulgarian">Област Разград</name>
+		<name normalized="Рazgрad" languages="Bulgarian;Kazakh;Macedonian;Ossetic;Russian;Serbian;Ukrainian">Разград</name>
+		<name normalized="Рazgрadсka obлaсt" languages="Macedonian;Serbian">Разградска област</name>
+		<name normalized="Рazgрadсkai vobлaсtь" languages="Belarusian">Разградская вобласць</name>
+		<name normalized="Рazgрadсkai obлaсtь" languages="Russian">Разградская область</name>
+		<name normalized="Рazgрadсьka obлaсtь" languages="Ukrainian">Разградська область</name>
+		<name normalized="Рazgрadы obлaeсt" languages="Ossetic">Разграды облæст</name>
+		<name normalized="Rաzգrաdի mաrz" languages="Armenian">Ռազգրադի մարզ</name>
+		<name normalized="מhvז rאזגrד" languages="Hebrew">מחוז ראזגרד</name>
+		<name normalized="rאזגrד" languages="Hebrew">ראזגרד</name>
+		<name normalized="אسtאن rאزgrאد" languages="Persian">استان رازگراد</name>
+		<name normalized="rאزغrאد" languages="Arabic">رازغراد</name>
+		<name normalized="rאزgrאد" languages="Persian;Western Punjabi">رازگراد</name>
+		<name normalized="sوbہ rאزgrאد" languages="Western Punjabi">صوبہ رازگراد</name>
+		<name normalized="ڕאزgrאد" languages="Sorani Kurdish">ڕازگراد</name>
+		<name normalized="რაზგრადის ოლქი" languages="Georgian">რაზგრადის ოლქი</name>
+		<name normalized="rzgrt" languages="Japanese">ラズグラト</name>
+		<name normalized="rzgrt州" languages="Japanese">ラズグラト州</name>
+		<name normalized="拉兹格勒州" languages="Chinese">拉兹格勒州</name>
+		<name normalized="拉茲格勒" languages="Chinese">拉茲格勒</name>
+		<name normalized="라즈그라드" languages="Korean">라즈그라드</name>
+		<name normalized="라즈그라드 주" languages="Korean">라즈그라드 주</name>
+	</region>
+	<region name="Ruse" type="province" typeTranslated="oblast">
+		<name normalized="Oblast Ruse" languages="Croatian">Oblast Ruse</name>
+		<name normalized="Oblast Russe" languages="German">Oblast Russe</name>
+		<name normalized="Obwod Ruse" languages="Polish">Obwód Ruse</name>
+		<name normalized="Provincia de Ruse" languages="Spanish">Provincia de Ruse</name>
+		<name normalized="Provinco Ruse" languages="Esperanto">Provinco Ruse</name>
+		<name normalized="Provinsi Ruse" languages="Indonesian">Provinsi Ruse</name>
+		<name normalized="Provincia de Ruse" languages="Catalan">Província de Ruse</name>
+		<name normalized="Regione di Ruse" languages="Italian">Regione di Ruse</name>
+		<name normalized="Regiunea Ruse" languages="Romanian">Regiunea Ruse</name>
+		<name normalized="Roese" languages="Dutch">Roese</name>
+		<name normalized="Rosse" languages="Occitan">Rosse</name>
+		<name normalized="Rouse" languages="Breton">Rouse</name>
+		<name normalized="Rousse" languages="Scottish Gaelic;Waray">Rousse</name>
+		<name normalized="Rousse" languages="French">Roussé</name>
+		<name normalized="Ruse" languages="Albanian;Azerbaijani;Basque;Catalan;Croatian;Czech;Danish;English;Esperanto;Estonian;Finnish;Indonesian;Italian;Latvian;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Serbo-Croatian;Slovak;Slovenian;Spanish;Swedish;Turkmen;Vietnamese">Ruse</name>
+		<name normalized="Ruse Oblast" languages="English;Norwegian (bokmal);official">Ruse Oblast</name>
+		<name normalized="Ruse piirkond" languages="Estonian">Ruse piirkond</name>
+		<name normalized="Ruse Province" languages="English;official;Scots">Ruse Province</name>
+		<name normalized="Rusen alue" languages="Finnish">Rusen alue</name>
+		<name normalized="Rusenska oblast" languages="Czech">Rusenská oblast</name>
+		<name normalized="Russe" languages="German">Russe</name>
+		<name normalized="Rusze" languages="Hungarian">Rusze</name>
+		<name normalized="Rusze megye" languages="Hungarian">Rusze megye</name>
+		<name normalized="Ruscuk" languages="Turkish">Rusçuk</name>
+		<name normalized="Ruse" languages="Lithuanian">Rusė</name>
+		<name normalized="Ruses sritis" languages="Lithuanian">Rusės sritis</name>
+		<name normalized="Sexantaprista" languages="Latin">Sexantaprista</name>
+		<name normalized="Ροuσε" languages="Greek">Ρούσε</name>
+		<name normalized="Viлoiti Рuсi" languages="Tajik">Вилояти Русе</name>
+		<name normalized="Obлaсt Рuсi" languages="Bulgarian">Област Русе</name>
+		<name normalized="Рouсe" languages="Church Slavic">Роусє</name>
+		<name normalized="Рuсi" languages="Bulgarian;Chuvash;Kazakh;Macedonian;Ossetic;Russian;Serbian;Ukrainian">Русе</name>
+		<name normalized="Рuсiйы obлaeсt" languages="Ossetic">Русейы облæст</name>
+		<name normalized="Рuсiнсka obлaсt" languages="Macedonian;Serbian">Русенска област</name>
+		<name normalized="Рuсiнсkai vobлaсtь" languages="Belarusian">Русенская вобласць</name>
+		<name normalized="Рuсiнсkai obлaсtь" languages="Russian">Русенская область</name>
+		<name normalized="Рuсiнсьka obлaсtь" languages="Ukrainian">Русенська область</name>
+		<name normalized="Rvysե" languages="Armenian">Ռուսե</name>
+		<name normalized="Rvysեի mաrz" languages="Armenian">Ռուսեի մարզ</name>
+		<name normalized="מhvז rvסh" languages="Hebrew">מחוז רוסה</name>
+		<name normalized="rvסh" languages="Hebrew">רוסה</name>
+		<name normalized="אسtאن rوسh" languages="Persian">استان روسه</name>
+		<name normalized="rوسh" languages="Arabic">روسه</name>
+		<name normalized="rوسh, bلغאrسtאن" languages="Persian">روسه، بلغارستان</name>
+		<name normalized="sوbہ rوسے" languages="Western Punjabi">صوبہ روسے</name>
+		<name normalized="ڕوسێ" languages="Sorani Kurdish">ڕوسێ</name>
+		<name normalized="รูเซ" languages="Thai">รูเซ</name>
+		<name normalized="რუსე" languages="Georgian">რუსე</name>
+		<name normalized="რუსეს ოლქი" languages="Georgian">რუსეს ოლქი</name>
+		<name normalized="rs" languages="Japanese">ルセ</name>
+		<name normalized="rs州" languages="Japanese">ルセ州</name>
+		<name normalized="魯塞州" languages="Chinese">魯塞州</name>
+		<name normalized="鲁塞" languages="Chinese">鲁塞</name>
+		<name normalized="루세" languages="Korean">루세</name>
+		<name normalized="루세 주" languages="Korean">루세 주</name>
+	</region>
+	<region name="Shumen" type="province" typeTranslated="oblast">
+		<name normalized="Choumen" languages="French">Choumen</name>
+		<name normalized="Oblast Schumen" languages="German">Oblast Schumen</name>
+		<name normalized="Oblast Sumen" languages="Croatian">Oblast Šumen</name>
+		<name normalized="Obwod Szumen" languages="Polish">Obwód Szumen</name>
+		<name normalized="Provincia de Shumen" languages="Spanish">Provincia de Shumen</name>
+		<name normalized="Provinco Sumen" languages="Esperanto">Provinco Ŝumen</name>
+		<name normalized="Provinsi Shumen" languages="Indonesian">Provinsi Shumen</name>
+		<name normalized="Provincia de Xumen" languages="Catalan">Província de Xumen</name>
+		<name normalized="Regione di Sumen" languages="Italian">Regione di Šumen</name>
+		<name normalized="Regiunea Sumen" languages="Romanian">Regiunea Șumen</name>
+		<name normalized="Schumen" languages="German">Schumen</name>
+		<name normalized="Shomen" languages="Occitan">Shomen</name>
+		<name normalized="Shumen" languages="English;Indonesian;official;Portuguese;Spanish;Vietnamese;Waray;Welsh">Shumen</name>
+		<name normalized="Shumen Oblast" languages="English;official">Shumen Oblast</name>
+		<name normalized="Shumen Province" languages="English;official;Scots">Shumen Province</name>
+		<name normalized="Simeonis" languages="Latin">Simeonis</name>
+		<name normalized="Sjoemen" languages="Dutch">Sjoemen</name>
+		<name normalized="Sjumen" languages="Danish;Norwegian (bokmal);Swedish">Sjumen</name>
+		<name normalized="Sjumen oblast" languages="Norwegian (bokmal)">Sjumen oblast</name>
+		<name normalized="Sumen" languages="Hungarian">Sumen</name>
+		<name normalized="Szumen" languages="Polish">Szumen</name>
+		<name normalized="Xumen" languages="Basque;Catalan">Xumen</name>
+		<name normalized="Xumen probintzia" languages="Basque">Xumen probintzia</name>
+		<name normalized="Sumen" languages="Esperanto">Ŝumen</name>
+		<name normalized="Sumnu" languages="Turkish">Şumnu</name>
+		<name normalized="Sumen" languages="Albanian;Croatian;Czech;Estonian;Finnish;Italian;Serbo-Croatian;Slovak;Slovenian">Šumen</name>
+		<name normalized="Sumenas" languages="Lithuanian">Šumenas</name>
+		<name normalized="Sumeni piirkond" languages="Estonian">Šumeni piirkond</name>
+		<name normalized="Sumenin alue" languages="Finnish">Šumenin alue</name>
+		<name normalized="Sumeno sritis" languages="Lithuanian">Šumeno sritis</name>
+		<name normalized="Sumenska oblast" languages="Czech">Šumenská oblast</name>
+		<name normalized="Sumen" languages="Romanian">Șumen</name>
+		<name normalized="Σοuμεν" languages="Greek">Σούμεν</name>
+		<name normalized="Viлoiti Suмiн" languages="Tajik">Вилояти Шумен</name>
+		<name normalized="Obлaсt Suмiн" languages="Bulgarian">Област Шумен</name>
+		<name normalized="Suмiн" languages="Bulgarian;Kazakh;Macedonian;Ossetic;Russian;Serbian;Ukrainian">Шумен</name>
+		<name normalized="Suмiнсka obлaсt" languages="Macedonian;Serbian">Шуменска област</name>
+		<name normalized="Suмiнсkai obлaсtь" languages="Russian">Шуменская область</name>
+		<name normalized="Suмiнсьka obлaсtь" languages="Ukrainian">Шуменська область</name>
+		<name normalized="Suмiны obлaeсt" languages="Ossetic">Шумены облæст</name>
+		<name normalized="Svymենի mաrz" languages="Armenian">Շումենի մարզ</name>
+		<name normalized="מhvז שvמן" languages="Hebrew">מחוז שומן</name>
+		<name normalized="שvמן" languages="Hebrew">שומן</name>
+		<name normalized="אسtאن شوmن" languages="Persian">استان شومن</name>
+		<name normalized="شوmن" languages="Arabic;Persian">شومن</name>
+		<name normalized="شوmین" languages="Western Punjabi">شومین</name>
+		<name normalized="شوmێن" languages="Sorani Kurdish">شومێن</name>
+		<name normalized="sوbہ شوmین" languages="Western Punjabi">صوبہ شومین</name>
+		<name normalized="შუმენის ოლქი" languages="Georgian">შუმენის ოლქი</name>
+		<name normalized="symn" languages="Japanese">シュメン</name>
+		<name normalized="symn州" languages="Japanese">シュメン州</name>
+		<name normalized="舒門" languages="Chinese">舒門</name>
+		<name normalized="舒門州" languages="Chinese">舒門州</name>
+		<name normalized="슈멘" languages="Korean">슈멘</name>
+		<name normalized="슈멘 주" languages="Korean">슈멘 주</name>
+	</region>
+	<region name="Silistra" type="province" typeTranslated="oblast">
+		<name normalized="Durostorum" languages="Latin">Durostorum</name>
+		<name normalized="Oblast Silistra" languages="Croatian;German">Oblast Silistra</name>
+		<name normalized="Obwod Silistra" languages="Polish">Obwód Silistra</name>
+		<name normalized="Provincia de Silistra" languages="Spanish">Provincia de Silistra</name>
+		<name normalized="Provinco Silistra" languages="Esperanto">Provinco Silistra</name>
+		<name normalized="Provinsi Silistra" languages="Indonesian">Provinsi Silistra</name>
+		<name normalized="Provincia de Silistra" languages="Catalan">Província de Silistra</name>
+		<name normalized="Regione di Silistra" languages="Italian">Regione di Silistra</name>
+		<name normalized="Regiunea Silistra" languages="Romanian">Regiunea Silistra</name>
+		<name normalized="Silisterska oblast" languages="Czech">Silisterská oblast</name>
+		<name normalized="Silistra" languages="Albanian;Aragonese;Bosnian;Croatian;Czech;Danish;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Italian;Lithuanian;Norwegian (bokmal);Occitan;official;Polish;Portuguese;Romanian;Serbo-Croatian;Slovak;Slovenian;Spanish;Swedish;Vietnamese;Waray">Silistra</name>
+		<name normalized="Silistra Oblast" languages="English;Norwegian (bokmal);official">Silistra Oblast</name>
+		<name normalized="Silistra piirkond" languages="Estonian">Silistra piirkond</name>
+		<name normalized="Silistra probintzia" languages="Basque">Silistra probintzia</name>
+		<name normalized="Silistra Province" languages="English;official;Scots">Silistra Province</name>
+		<name normalized="Silistran alue" languages="Finnish">Silistran alue</name>
+		<name normalized="Silistre" languages="Turkish">Silistre</name>
+		<name normalized="Silistros sritis" languages="Lithuanian">Silistros sritis</name>
+		<name normalized="Szilisztra" languages="Hungarian">Szilisztra</name>
+		<name normalized="Σιλιστρα" languages="Greek">Σιλίστρα</name>
+		<name normalized="Viлoiti Сiлiсtрa" languages="Tajik">Вилояти Силистра</name>
+		<name normalized="Goрad Сiлiсtрa" languages="Belarusian">Горад Сілістра</name>
+		<name normalized="Obлaсt Сiлiсtрa" languages="Bulgarian">Област Силистра</name>
+		<name normalized="Сiлiсtрae" languages="Ossetic">Силистрæ</name>
+		<name normalized="Сiлiсtрaeйы obлaeсt" languages="Ossetic">Силистрæйы облæст</name>
+		<name normalized="Сiлiсtрa" languages="Bulgarian;Kazakh;Macedonian;Russian;Serbian">Силистра</name>
+		<name normalized="Сiлiсtрaнсka obлaсt" languages="Serbian">Силистранска област</name>
+		<name normalized="Сiлiсtрiнсka obлaсt" languages="Macedonian">Силистренска област</name>
+		<name normalized="Сiлiсtрiнсkai obлaсtь" languages="Russian">Силистренская область</name>
+		<name normalized="Сiлiсtрiнсьka obлaсtь" languages="Ukrainian">Силістринська область</name>
+		<name normalized="Сiлiсtрa" languages="Ukrainian">Сілістра</name>
+		<name normalized="Сiлiсtрeнсkai vobлaсtь" languages="Belarusian">Сілістрэнская вобласць</name>
+		<name normalized="Sիlիstrայի mաrz" languages="Armenian">Սիլիստրայի մարզ</name>
+		<name normalized="מhvז סידיסtrh" languages="Hebrew">מחוז סיליסטרה</name>
+		<name normalized="סידיסtrh" languages="Hebrew">סיליסטרה</name>
+		<name normalized="אسtאن سیلیسtrא" languages="Persian">استان سیلیسترا</name>
+		<name normalized="سyلyسtrא" languages="Arabic">سيليسترا</name>
+		<name normalized="سیلسtrא" languages="Western Punjabi">سیلسترا</name>
+		<name normalized="سیلیسtrא" languages="Persian">سیلیسترا</name>
+		<name normalized="sوbہ سیلسtrא" languages="Western Punjabi">صوبہ سیلسترا</name>
+		<name normalized="ซิลิสตรา" languages="Thai">ซิลิสตรา</name>
+		<name normalized="სილისტრის ოლქი" languages="Georgian">სილისტრის ოლქი</name>
+		<name normalized="srstr州" languages="Japanese">シリストラ州</name>
+		<name normalized="錫利斯特拉" languages="Chinese">錫利斯特拉</name>
+		<name normalized="錫利斯特拉州" languages="Chinese">錫利斯特拉州</name>
+		<name normalized="실리스트라" languages="Korean">실리스트라</name>
+		<name normalized="실리스트라 주" languages="Korean">실리스트라 주</name>
+	</region>
+	<region name="Sliven" type="province" typeTranslated="oblast">
+		<name normalized="Esliven" languages="Occitan">Esliven</name>
+		<name normalized="Oblast Sliven" languages="Croatian">Oblast Sliven</name>
+		<name normalized="Oblast Sliwen" languages="German">Oblast Sliwen</name>
+		<name normalized="Obwod Sliwen" languages="Polish">Obwód Sliwen</name>
+		<name normalized="Provincia de Sliven" languages="Spanish">Provincia de Sliven</name>
+		<name normalized="Provinco Sliven" languages="Esperanto">Provinco Sliven</name>
+		<name normalized="Provinsi Sliven" languages="Indonesian">Provinsi Sliven</name>
+		<name normalized="Provincia de Sliven" languages="Catalan">Província de Sliven</name>
+		<name normalized="Regione di Sliven" languages="Italian">Regione di Sliven</name>
+		<name normalized="Regiunea Sliven" languages="Romanian">Regiunea Sliven</name>
+		<name normalized="Sliven" languages="Albanian;Basque;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Indonesian;Italian;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Romanian;Scots;Serbo-Croatian;Slovak;Slovenian;Spanish;Swedish;Turkish;Vietnamese;Volapuk;Waray">Sliven</name>
+		<name normalized="Sliven Oblast" languages="English;Norwegian (bokmal);official">Sliven Oblast</name>
+		<name normalized="Sliven probintzia" languages="Basque">Sliven probintzia</name>
+		<name normalized="Sliven Province" languages="English;official;Scots">Sliven Province</name>
+		<name normalized="Slivenas" languages="Lithuanian">Slivenas</name>
+		<name normalized="Sliveni piirkond" languages="Estonian">Sliveni piirkond</name>
+		<name normalized="Slivenin alue" languages="Finnish">Slivenin alue</name>
+		<name normalized="Sliveno sritis" languages="Lithuanian">Sliveno sritis</name>
+		<name normalized="Slivenska oblast" languages="Czech">Slivenská oblast</name>
+		<name normalized="Sliwen" languages="German;Luxembourgish;Polish;Turkmen">Sliwen</name>
+		<name normalized="Σλιβεν" languages="Greek">Σλίβεν</name>
+		<name normalized="Viлoiti Слiviн" languages="Tajik">Вилояти Сливен</name>
+		<name normalized="Goрad Слiviн" languages="Belarusian">Горад Слівен</name>
+		<name normalized="Obлaсt Слiviн" languages="Bulgarian">Област Сливен</name>
+		<name normalized="Слiviн" languages="Bulgarian;Kazakh;Macedonian;Ossetic;Russian;Serbian">Сливен</name>
+		<name normalized="Слiviнсka obлaсt" languages="Macedonian;Serbian">Сливенска област</name>
+		<name normalized="Слiviнсkai obлaсtь" languages="Russian">Сливенская область</name>
+		<name normalized="Слiviны obлaeсt" languages="Ossetic">Сливены облæст</name>
+		<name normalized="Слiviн" languages="Ukrainian">Слівен</name>
+		<name normalized="Слiviнсkai vobлaсtь" languages="Belarusian">Слівенская вобласць</name>
+		<name normalized="Слiviнсьka obлaсtь" languages="Ukrainian">Слівенська область</name>
+		<name normalized="Slիվենի mաrz" languages="Armenian">Սլիվենի մարզ</name>
+		<name normalized="מhvז סדיbן" languages="Hebrew">מחוז סליבן</name>
+		<name normalized="סדיbן" languages="Hebrew">סליבן</name>
+		<name normalized="אسtאن אسلیون" languages="Persian">استان اسلیون</name>
+		<name normalized="אسلیون" languages="Persian">اسلیون</name>
+		<name normalized="سلyfن" languages="Arabic">سليفن</name>
+		<name normalized="سلیوین" languages="Western Punjabi">سلیوین</name>
+		<name normalized="سلیvێن" languages="Sorani Kurdish">سلیڤێن</name>
+		<name normalized="sوbہ سلیوین" languages="Western Punjabi">صوبہ سلیوین</name>
+		<name normalized="სლივენი" languages="Georgian">სლივენი</name>
+		<name normalized="სლივენის ოლქი" languages="Georgian">სლივენის ოლქი</name>
+		<name normalized="srven" languages="Japanese">スリヴェン</name>
+		<name normalized="srven州" languages="Japanese">スリヴェン州</name>
+		<name normalized="斯利文" languages="Chinese">斯利文</name>
+		<name normalized="斯利文州" languages="Chinese">斯利文州</name>
+		<name normalized="슬리벤" languages="Korean">슬리벤</name>
+		<name normalized="슬리벤 주" languages="Korean">슬리벤 주</name>
+	</region>
+	<region name="Smolyan" type="province" typeTranslated="oblast">
+		<name normalized="Esmolian" languages="Occitan">Esmolian</name>
+		<name normalized="Oblast Smoljan" languages="Croatian;German">Oblast Smoljan</name>
+		<name normalized="Obwod Smolan" languages="Polish">Obwód Smolan</name>
+		<name normalized="Provincia de Smolyan" languages="Spanish">Provincia de Smolyan</name>
+		<name normalized="Provinco Smoljan" languages="Esperanto">Provinco Smoljan</name>
+		<name normalized="Provinsi Smolyan" languages="Indonesian">Provinsi Smolyan</name>
+		<name normalized="Provincia de Smolian" languages="Catalan">Província de Smolian</name>
+		<name normalized="Regione di Smoljan" languages="Italian">Regione di Smoljan</name>
+		<name normalized="Regiunea Smolean" languages="Romanian">Regiunea Smolean</name>
+		<name normalized="Smolan" languages="Polish">Smolan</name>
+		<name normalized="Smolean" languages="Romanian">Smolean</name>
+		<name normalized="Smolenopolis" languages="Latin">Smolenopolis</name>
+		<name normalized="Smolian probintzia" languages="Basque">Smolian probintzia</name>
+		<name normalized="Smolianas" languages="Lithuanian">Smolianas</name>
+		<name normalized="Smoliano sritis" languages="Lithuanian">Smoliano sritis</name>
+		<name normalized="Smoljan" languages="Albanian;Croatian;Czech;Danish;Dutch;Esperanto;Finnish;German;Serbo-Croatian;Slovenian;Swedish">Smoljan</name>
+		<name normalized="Smoljan oblast" languages="Norwegian (bokmal)">Smoljan oblast</name>
+		<name normalized="Smoljani piirkond" languages="Estonian">Smoljani piirkond</name>
+		<name normalized="Smoljanin alue" languages="Finnish">Smoljanin alue</name>
+		<name normalized="Smoljanska oblast" languages="Czech">Smoljanská oblast</name>
+		<name normalized="Smolyan" languages="English;French;official;Portuguese;Turkish;Vietnamese;Waray">Smolyan</name>
+		<name normalized="Smolyan Oblast" languages="English;official">Smolyan Oblast</name>
+		<name normalized="Smolyan Province" languages="English;official;Scots">Smolyan Province</name>
+		<name normalized="Smolan" languages="Slovak">Smoľan</name>
+		<name normalized="Szmoljan" languages="Hungarian">Szmoljan</name>
+		<name normalized="Σμολιαν" languages="Greek">Σμόλιαν</name>
+		<name normalized="Viлoiti Смoлiн" languages="Tajik">Вилояти Смолян</name>
+		<name normalized="Obлaсt Смoлiн" languages="Bulgarian">Област Смолян</name>
+		<name normalized="Смaлiнсkai vobлaсtь" languages="Belarusian">Смалянская вобласць</name>
+		<name normalized="Смoлiн" languages="Bulgarian;Kazakh;Ossetic;Russian;Ukrainian">Смолян</name>
+		<name normalized="Смoлiнсkai obлaсtь" languages="Russian">Смолянская область</name>
+		<name normalized="Смoлiнсьka obлaсtь" languages="Ukrainian">Смолянська область</name>
+		<name normalized="Смoлiны obлaeсt" languages="Ossetic">Смоляны облæст</name>
+		<name normalized="Смoлjaн" languages="Macedonian">Смолјан</name>
+		<name normalized="Смoлjaнсka obлaсt" languages="Macedonian">Смолјанска област</name>
+		<name normalized="Смolaн" languages="Serbian">Смољан</name>
+		<name normalized="Смolaнсka obлaсt" languages="Serbian">Смољанска област</name>
+		<name normalized="Smvlյանի mաrz" languages="Armenian">Սմոլյանի մարզ</name>
+		<name normalized="מhvז סמvדיאן" languages="Hebrew">מחוז סמוליאן</name>
+		<name normalized="סמvדיאן" languages="Hebrew">סמוליאן</name>
+		<name normalized="אسtאن אسmولیאن" languages="Persian">استان اسمولیان</name>
+		<name normalized="אسmولیאن" languages="Persian">اسمولیان</name>
+		<name normalized="سmولیאن" languages="Western Punjabi">سمولیان</name>
+		<name normalized="سmۆلیאن" languages="Sorani Kurdish">سمۆلیان</name>
+		<name normalized="sوbہ سmولیאن" languages="Western Punjabi">صوبہ سمولیان</name>
+		<name normalized="สโมลยัน" languages="Thai">สโมลยัน</name>
+		<name normalized="სმოლიანის ოლქი" languages="Georgian">სმოლიანის ოლქი</name>
+		<name normalized="smryn州" languages="Japanese">スモリャン州</name>
+		<name normalized="斯莫梁" languages="Chinese">斯莫梁</name>
+		<name normalized="斯莫梁州" languages="Chinese">斯莫梁州</name>
+		<name normalized="스몰랸" languages="Korean">스몰랸</name>
+		<name normalized="스몰랸 주" languages="Korean">스몰랸 주</name>
+	</region>
+	<region name="Sofiya" type="province" typeTranslated="oblast">
+		<name normalized="Oblast Sofia" languages="German;Indonesian">Oblast Sofia</name>
+		<name normalized="Obwod sofijski" languages="Polish">Obwód sofijski</name>
+		<name normalized="Provincia de Sofia" languages="Spanish">Provincia de Sofía</name>
+		<name normalized="Provinco Sofio" languages="Esperanto">Provinco Sofio</name>
+		<name normalized="Provincia de Sofia" languages="Catalan">Província de Sofia</name>
+		<name normalized="Regione di Sofia" languages="Italian">Regione di Sofia</name>
+		<name normalized="Regiunea Sofia" languages="Romanian">Regiunea Sofia</name>
+		<name normalized="Serdica" languages="Latin">Serdica</name>
+		<name normalized="Sofia" languages="Achinese;Afrikaans;Albanian;Aromanian;Basque;Breton;Catalan;Chinese (Min Nan);Cornish;Corsican;Danish;Dutch;English;Estonian;Extremaduran;Faroese;Fiji Hindi;Finnish;Franco-Provencal;French;German;Haitian;Indonesian;Interlingua;Interlingue;Italian;Javanese;Kalaallisut;Kurdish;Lingala;lumbaart;Luxembourgish;Malagasy;Malay;Manx;Maori;Northern Frisian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Papiamento;Polish;Romanian;Scots;Scottish Gaelic;Seeltersk;Shona;Sicilian;Simple English;Slovak;Swahili;Swedish;Tagalog;Tatar;Tok Pisin;Vietnamese;Voro;Waray;Welsh;West-Vlams;Western Frisian;Yoruba;Zeeuws">Sofia</name>
+		<name normalized="Sofia Oblast" languages="English;official">Sofia Oblast</name>
+		<name normalized="Sofia piirkond" languages="Estonian">Sofia piirkond</name>
+		<name normalized="Sofia Province" languages="English;official;Scots">Sofia Province</name>
+		<name normalized="Sofian alue" languages="Finnish">Sofian alue</name>
+		<name normalized="Sofie" languages="Czech">Sofie</name>
+		<name normalized="Sofii" languages="Veps">Sofii</name>
+		<name normalized="Sofija" languages="Bosnian;Croatian;Latvian;Lithuanian;Lower Sorbian;Serbo-Croatian;Slovenian;Upper Sorbian">Sofija</name>
+		<name normalized="Sofijo" languages="Silesian">Sofijo</name>
+		<name normalized="Sofijos sritis" languages="Lithuanian">Sofijos sritis</name>
+		<name normalized="Sofijska oblast" languages="Croatian">Sofijska oblast</name>
+		<name normalized="Sofio" languages="Esperanto">Sofio</name>
+		<name normalized="Sofiya" languages="Aragonese;Azerbaijani;Crimean Turkish;English;Gagauz;Ido;Kara-Kalpak;Kinyarwanda;Nahuatl;official;Quechua;Romani;Volapuk;Wolof">Sofiya</name>
+		<name normalized="Sofiya Oblast" languages="English;official">Sofiya Oblast</name>
+		<name normalized="Sofiya Province" languages="English;official">Sofiya Province</name>
+		<name normalized="Sofiya" languages="Turkmen">Sofiýa</name>
+		<name normalized="Sofja" languages="Albanian">Sofja</name>
+		<name normalized="Sofya" languages="Turkish">Sofya</name>
+		<name normalized="Sofia" languages="Asturian;Galician;Spanish">Sofía</name>
+		<name normalized="Suofeje" languages="Samogitian">Suofėjė</name>
+		<name normalized="Szofia" languages="Hungarian">Szófia</name>
+		<name normalized="Sofia" languages="Ligure;Occitan;Piedmontese;veneto">Sòfia</name>
+		<name normalized="Sofia" languages="Portuguese">Sófia</name>
+		<name normalized="Sofia" languages="Icelandic">Sófía</name>
+		<name normalized="Soifia" languages="Irish">Sóifia</name>
+		<name normalized="Σοφια" languages="Greek">Σόφια</name>
+		<name normalized="Viлoiti Сoфii" languages="Tajik">Вилояти София</name>
+		<name normalized="Goрad Сaфii" languages="Belarusian">Горад Сафія</name>
+		<name normalized="Сaфii" languages="biлaрuсkai (taрaskivita)‎">Сафія</name>
+		<name normalized="Сoфi" languages="Chuvash;Mongolian">Софи</name>
+		<name normalized="Сoфiй" languages="Eastern Mari">Софий</name>
+		<name normalized="Сoфiйсka obлaсt" languages="Bulgarian">Софийска област</name>
+		<name normalized="Сoфiйсkai obлaсtь" languages="Russian">Софийская область</name>
+		<name normalized="Сoфiсka obлaсt" languages="Macedonian">Софиска област</name>
+		<name normalized="Сoфii" languages="Bulgarian;Chechen;Kazakh;Komi;Kyrgyz;Lezghian;Ossetic;Russian;Sakha;Tajik;Udmurt">София</name>
+		<name normalized="Сoфii os" languages="Erzya">София ош</name>
+		<name normalized="Сoфiiйы obлaeсt" languages="Ossetic">Софияйы облæст</name>
+		<name normalized="Сoфija" languages="Macedonian;Serbian">Софија</name>
+		<name normalized="Сoфijсka obлaсt" languages="Serbian">Софијска област</name>
+		<name normalized="Сoфiйсьka obлaсtь" languages="Ukrainian">Софійська область</name>
+		<name normalized="Сoфii" languages="Ukrainian">Софія</name>
+		<name normalized="Сoфyꙗ" languages="Church Slavic">Софїꙗ</name>
+		<name normalized="Svfիա" languages="Armenian">Սոֆիա</name>
+		<name normalized="Svfիայի mաrz" languages="Armenian">Սոֆիայի մարզ</name>
+		<name normalized="מhvז סvpיh" languages="Hebrew">מחוז סופיה</name>
+		<name normalized="סאpיע" languages="Yiddish">סאפיע</name>
+		<name normalized="סvpיh" languages="Hebrew">סופיה</name>
+		<name normalized="אسtאن sوfیh" languages="Persian">استان صوفیه</name>
+		<name normalized="سوfىyە" languages="Uyghur">سوفىيە</name>
+		<name normalized="سۆfیא" languages="Sorani Kurdish">سۆفیا</name>
+		<name normalized="sوbہ sوfیہ" languages="Western Punjabi">صوبہ صوفیہ</name>
+		<name normalized="sوfyא" languages="Arabic;Egyptian Spoken Arabic">صوفيا</name>
+		<name normalized="sوfیh" languages="Persian">صوفیه</name>
+		<name normalized="sوfیہ" languages="Urdu;Western Punjabi">صوفیہ</name>
+		<name normalized="sopiyा" languages="Hindi;Marathi">सोफिया</name>
+		<name normalized="spiy়া" languages="Bengali">সফিয়া</name>
+		<name normalized="sੋp਼ia" languages="Punjabi">ਸੋਫ਼ੀਆ</name>
+		<name normalized="சோஃவியா" languages="Tamil">சோஃவியா</name>
+		<name normalized="സോഫിയ" languages="Malayalam">സോഫിയ</name>
+		<name normalized="โซเฟีย" languages="Thai">โซเฟีย</name>
+		<name normalized="སོ་ཧྥི་ཡ།" languages="Tibetan">སོ་ཧྥི་ཡ།</name>
+		<name normalized="სოფია" languages="Georgian">სოფია</name>
+		<name normalized="სოფიის ოლქი" languages="Georgian">სოფიის ოლქი</name>
+		<name normalized="ሶፊያ" languages="Amharic">ሶፊያ</name>
+		<name normalized="shia" languages="Japanese">ソフィア</name>
+		<name normalized="shia州" languages="Japanese">ソフィア州</name>
+		<name normalized="索菲亞" languages="Cantonese;Chinese">索菲亞</name>
+		<name normalized="索菲亞州" languages="Chinese">索菲亞州</name>
+		<name normalized="소피아" languages="Korean">소피아</name>
+		<name normalized="소피아 주" languages="Korean">소피아 주</name>
+		<name normalized="𐍃𐍉𐍆𐌹𐌰" languages="Gothic">𐍃𐍉𐍆𐌹𐌰</name>
+	</region>
+	<region name="Sofiya-Grad" type="province" typeTranslated="oblast">
+		<name normalized="Serdica" languages="Latin">Serdica</name>
+		<name normalized="Sofia" languages="Achinese;Afrikaans;Albanian;Aromanian;Basque;Breton;Catalan;Chinese (Min Nan);Cornish;Corsican;Danish;Dutch;English;Estonian;Extremaduran;Faroese;Fiji Hindi;Finnish;Franco-Provencal;French;German;Haitian;Indonesian;Interlingua;Interlingue;Italian;Javanese;Kalaallisut;Kurdish;Lingala;lumbaart;Luxembourgish;Malagasy;Malay;Manx;Maori;Northern Frisian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Papiamento;Polish;Romanian;Scots;Scottish Gaelic;Seeltersk;Shona;Sicilian;Simple English;Slovak;Swahili;Swedish;Tagalog;Tatar;Tok Pisin;Vietnamese;Voro;Waray;Welsh;West-Vlams;Western Frisian;Yoruba;Zeeuws">Sofia</name>
+		<name normalized="Sofia City" languages="English;official">Sofia City</name>
+		<name normalized="Sofia City Oblast" languages="English;official">Sofia City Oblast</name>
+		<name normalized="Sofia City Province" languages="English;official">Sofia City Province</name>
+		<name normalized="Sofie" languages="Czech">Sofie</name>
+		<name normalized="Sofii" languages="Veps">Sofii</name>
+		<name normalized="Sofija" languages="Bosnian;Croatian;Latvian;Lithuanian;Lower Sorbian;Serbo-Croatian;Slovenian;Upper Sorbian">Sofija</name>
+		<name normalized="Sofijo" languages="Silesian">Sofijo</name>
+		<name normalized="Sofio" languages="Esperanto">Sofio</name>
+		<name normalized="Sofiya" languages="Aragonese;Azerbaijani;Crimean Turkish;English;Gagauz;Ido;Kara-Kalpak;Kinyarwanda;Nahuatl;official;Quechua;Romani;Volapuk;Wolof">Sofiya</name>
+		<name normalized="Sofiya-Grad" languages="English;official">Sofiya-Grad</name>
+		<name normalized="Sofiya-Grad Oblast" languages="English;official">Sofiya-Grad Oblast</name>
+		<name normalized="Sofiya-Grad Province" languages="English;official">Sofiya-Grad Province</name>
+		<name normalized="Sofiya" languages="Turkmen">Sofiýa</name>
+		<name normalized="Sofja" languages="Albanian">Sofja</name>
+		<name normalized="Sofya" languages="Turkish">Sofya</name>
+		<name normalized="Sofia" languages="Asturian;Galician;Spanish">Sofía</name>
+		<name normalized="Suofeje" languages="Samogitian">Suofėjė</name>
+		<name normalized="Szofia" languages="Hungarian">Szófia</name>
+		<name normalized="Sofia" languages="Ligure;Occitan;Piedmontese;veneto">Sòfia</name>
+		<name normalized="Sofia" languages="Portuguese">Sófia</name>
+		<name normalized="Sofia" languages="Icelandic">Sófía</name>
+		<name normalized="Soifia" languages="Irish">Sóifia</name>
+		<name normalized="Σοφια" languages="Greek">Σόφια</name>
+		<name normalized="Goрad Сaфii" languages="Belarusian">Горад Сафія</name>
+		<name normalized="Сaфii" languages="biлaрuсkai (taрaskivita)‎">Сафія</name>
+		<name normalized="Сoфi" languages="Chuvash;Mongolian">Софи</name>
+		<name normalized="Сoфiй" languages="Eastern Mari">Софий</name>
+		<name normalized="Сoфii" languages="Bulgarian;Chechen;Kazakh;Komi;Kyrgyz;Lezghian;Ossetic;Russian;Sakha;Tajik;Udmurt">София</name>
+		<name normalized="Сoфii os" languages="Erzya">София ош</name>
+		<name normalized="Сoфija" languages="Macedonian;Serbian">Софија</name>
+		<name normalized="Сoфii" languages="Ukrainian">Софія</name>
+		<name normalized="Сoфyꙗ" languages="Church Slavic">Софїꙗ</name>
+		<name normalized="Svfիա" languages="Armenian">Սոֆիա</name>
+		<name normalized="סאpיע" languages="Yiddish">סאפיע</name>
+		<name normalized="סvpיh" languages="Hebrew">סופיה</name>
+		<name normalized="سوfىyە" languages="Uyghur">سوفىيە</name>
+		<name normalized="سۆfیא" languages="Sorani Kurdish">سۆفیا</name>
+		<name normalized="sوfyא" languages="Arabic;Egyptian Spoken Arabic">صوفيا</name>
+		<name normalized="sوfیh" languages="Persian">صوفیه</name>
+		<name normalized="sوfیہ" languages="Urdu;Western Punjabi">صوفیہ</name>
+		<name normalized="sopiyा" languages="Hindi;Marathi">सोफिया</name>
+		<name normalized="spiy়া" languages="Bengali">সফিয়া</name>
+		<name normalized="sੋp਼ia" languages="Punjabi">ਸੋਫ਼ੀਆ</name>
+		<name normalized="சோஃவியா" languages="Tamil">சோஃவியா</name>
+		<name normalized="സോഫിയ" languages="Malayalam">സോഫിയ</name>
+		<name normalized="โซเฟีย" languages="Thai">โซเฟีย</name>
+		<name normalized="སོ་ཧྥི་ཡ།" languages="Tibetan">སོ་ཧྥི་ཡ།</name>
+		<name normalized="სოფია" languages="Georgian">სოფია</name>
+		<name normalized="ሶፊያ" languages="Amharic">ሶፊያ</name>
+		<name normalized="shia" languages="Japanese">ソフィア</name>
+		<name normalized="索菲亞" languages="Cantonese;Chinese">索菲亞</name>
+		<name normalized="소피아" languages="Korean">소피아</name>
+		<name normalized="𐍃𐍉𐍆𐌹𐌰" languages="Gothic">𐍃𐍉𐍆𐌹𐌰</name>
+	</region>
+	<region name="Stara Zagora" type="province" typeTranslated="oblast">
+		<name normalized="Eski Zagra" languages="Turkish">Eski Zağra</name>
+		<name normalized="Oblast Stara Sagora" languages="German">Oblast Stara Sagora</name>
+		<name normalized="Oblast Stara Zagora" languages="Croatian">Oblast Stara Zagora</name>
+		<name normalized="Obwod Stara Zagora" languages="Polish">Obwód Stara Zagora</name>
+		<name normalized="Provincia de Stara Zagora" languages="Spanish">Provincia de Stara Zagora</name>
+		<name normalized="Provinco Stara Zagora" languages="Esperanto">Provinco Stara Zagora</name>
+		<name normalized="Provinsi Stara Zagora" languages="Indonesian">Provinsi Stara Zagora</name>
+		<name normalized="Provincia de Stara Zagora" languages="Catalan">Província de Stara Zagora</name>
+		<name normalized="Regione di Stara Zagora" languages="Italian">Regione di Stara Zagora</name>
+		<name normalized="Regiunea Stara Zagora" languages="Romanian">Regiunea Stara Zagora</name>
+		<name normalized="Stara Sagora" languages="German">Stara Sagora</name>
+		<name normalized="Stara Zagora" languages="Albanian;Asturian;Basque;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Indonesian;Italian;Latvian;Lithuanian;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Serbo-Croatian;Slovenian;Spanish;Swedish;Vietnamese;Volapuk;Waray">Stara Zagora</name>
+		<name normalized="Stara Zagora Oblast" languages="English;Norwegian (bokmal);official">Stara Zagora Oblast</name>
+		<name normalized="Stara Zagora piirkond" languages="Estonian">Stara Zagora piirkond</name>
+		<name normalized="Stara Zagora probintzia" languages="Basque">Stara Zagora probintzia</name>
+		<name normalized="Stara Zagora Province" languages="English;official;Scots">Stara Zagora Province</name>
+		<name normalized="Stara Zagoran alue" languages="Finnish">Stara Zagoran alue</name>
+		<name normalized="Stara Zagoros sritis" languages="Lithuanian">Stara Zagoros sritis</name>
+		<name normalized="Stara Zagora" languages="Occitan">Stara Zagòra</name>
+		<name normalized="Stara-Zagora" languages="Turkmen">Stara-Zagora</name>
+		<name normalized="Starozagorska oblast" languages="Czech">Starozagorská oblast</name>
+		<name normalized="Stara Zagora" languages="Slovak">Stará Zagora</name>
+		<name normalized="Ulpia Augusta Traiana" languages="Latin">Ulpia Augusta Traiana</name>
+		<name normalized="Σταρα Ζαγορα" languages="Greek">Στάρα Ζαγόρα</name>
+		<name normalized="Viлoiti Сtaрa Zagoрa" languages="Tajik">Вилояти Стара Загора</name>
+		<name normalized="Goрad Сtaрa-Zagoрa" languages="Belarusian">Горад Стара-Загора</name>
+		<name normalized="Kive Zagoрa obлace" languages="Chuvash">Кивĕ Загора облаçĕ</name>
+		<name normalized="Obлaсt Сtaрa Zagoрa" languages="Bulgarian">Област Стара Загора</name>
+		<name normalized="Сtaрa Zagoрa" languages="Bulgarian;Macedonian;Serbian;Ukrainian">Стара Загора</name>
+		<name normalized="Сtaрa Ꙁagoрa" languages="Church Slavic">Стара Ꙁагора</name>
+		<name normalized="Сtaрa-Zagoрae" languages="Ossetic">Стара-Загорæ</name>
+		<name normalized="Сtaрa-Zagoрaeйы obлaeсt" languages="Ossetic">Стара-Загорæйы облæст</name>
+		<name normalized="Сtaрa-Zagoрa" languages="Kazakh;Russian">Стара-Загора</name>
+		<name normalized="Сtaрazagoрсkai vobлaсtь" languages="Belarusian">Старазагорская вобласць</name>
+		<name normalized="Сtaрozagoрсka obлaсt" languages="Macedonian;Serbian">Старозагорска област</name>
+		<name normalized="Сtaрozagoрсkai obлaсtь" languages="Russian">Старозагорская область</name>
+		<name normalized="Сtaрozagoрсьka obлaсtь" languages="Ukrainian">Старозагорська область</name>
+		<name normalized="Stաrա Zագvrա" languages="Armenian">Ստարա Զագորա</name>
+		<name normalized="Stաrա Zագvrայի mաrz" languages="Armenian">Ստարա Զագորայի մարզ</name>
+		<name normalized="מhvז סtאrh זאגvrh" languages="Hebrew">מחוז סטארה זאגורה</name>
+		<name normalized="סtאrh זאגvrh" languages="Hebrew">סטארה זאגורה</name>
+		<name normalized="אسtאrא زאgوrא" languages="Persian">استارا زاگورا</name>
+		<name normalized="אسtאن אسtאrא زאgوrא" languages="Persian">استان استارا زاگورا</name>
+		<name normalized="سtאrא زאغوrא" languages="Arabic">ستارا زاغورا</name>
+		<name normalized="سtאrא زאgوrא" languages="Western Punjabi">ستارا زاگورا</name>
+		<name normalized="سtאrא زאgۆrא" languages="Sorani Kurdish">ستارا زاگۆرا</name>
+		<name normalized="sوbہ سtאrא زאgوrא" languages="Western Punjabi">صوبہ ستارا زاگورا</name>
+		<name normalized="სტარა-ზაგორა" languages="Georgian">სტარა-ზაგორა</name>
+		<name normalized="სტარა-ზაგორის ოლქი" languages="Georgian">სტარა-ზაგორის ოლქი</name>
+		<name normalized="str・zgr" languages="Japanese">スタラ・ザゴラ</name>
+		<name normalized="str・zgr州" languages="Japanese">スタラ・ザゴラ州</name>
+		<name normalized="舊扎戈拉" languages="Chinese">舊扎戈拉</name>
+		<name normalized="舊扎戈拉州" languages="Chinese">舊扎戈拉州</name>
+		<name normalized="스타라자고라" languages="Korean">스타라자고라</name>
+		<name normalized="스타라자고라 주" languages="Korean">스타라자고라 주</name>
+	</region>
+	<region name="Turgovishte" type="province" typeTranslated="oblast">
+		<name normalized="Eski Cuma" languages="Turkish">Eski Cuma</name>
+		<name normalized="Oblast Targowischte" languages="German">Oblast Targowischte</name>
+		<name normalized="Oblast Trgoviste" languages="Croatian">Oblast Trgovište</name>
+		<name normalized="Obwod Tyrgowiszte" languages="Polish">Obwód Tyrgowiszte</name>
+		<name normalized="Provincia de Targoviste" languages="Spanish">Provincia de Tărgovište</name>
+		<name normalized="Provinco Targoviste" languages="Esperanto">Provinco Targoviŝte</name>
+		<name normalized="Provinsi Targovishte" languages="Indonesian">Provinsi Targovishte</name>
+		<name normalized="Provincia de Targovixte" languages="Catalan">Província de Targovixte</name>
+		<name normalized="Regione di Targoviste" languages="Italian">Regione di Tărgovište</name>
+		<name normalized="Regiunea Targoviste" languages="Romanian">Regiunea Tărgoviște</name>
+		<name normalized="Targovichte" languages="French">Targovichté</name>
+		<name normalized="Targovishta" languages="Albanian">Targovishta</name>
+		<name normalized="Targovishte" languages="English;Occitan;Portuguese;Simple English;Vietnamese;Waray">Targovishte</name>
+		<name normalized="Targovishte Province" languages="English;Scots">Targovishte Province</name>
+		<name normalized="Targovisjte" languages="Danish;Dutch;Swedish">Targovisjte</name>
+		<name normalized="Targoviste" languages="Hungarian">Targoviste</name>
+		<name normalized="Targoviste" languages="Esperanto">Targoviŝte</name>
+		<name normalized="Targovistska oblast" languages="Czech">Targovišťská oblast</name>
+		<name normalized="Targowischte" languages="German">Targowischte</name>
+		<name normalized="Tergoviste" languages="Lithuanian">Tergovištė</name>
+		<name normalized="Tergovistes sritis" languages="Lithuanian">Tergovištės sritis</name>
+		<name normalized="Trgoviste" languages="Bosnian;Croatian;Serbo-Croatian;Slovenian">Trgovište</name>
+		<name normalized="Turgovishte" languages="English;official">Turgovishte</name>
+		<name normalized="Turgovishte Oblast" languages="English;official">Turgovishte Oblast</name>
+		<name normalized="Turgovishte Province" languages="English;official">Turgovishte Province</name>
+		<name normalized="Tyrgowiszte" languages="Polish">Tyrgowiszte</name>
+		<name normalized="Targoviste" languages="Albanian;Catalan;Czech;Finnish;Italian;Slovak;Spanish">Tărgovište</name>
+		<name normalized="Targovisten alue" languages="Finnish">Tărgovišten alue</name>
+		<name normalized="Targoviste" languages="Romanian">Tărgoviște</name>
+		<name normalized="Targoviste" languages="Estonian">Tǎrgovište</name>
+		<name normalized="Targoviste piirkond" languages="Estonian">Tǎrgovište piirkond</name>
+		<name normalized="Ταργκοβιστε" languages="Greek">Ταργκόβιστε</name>
+		<name normalized="Viлoiti Taрgovisti" languages="Tajik">Вилояти Тарговиште</name>
+		<name normalized="Obлaсt Tърgoviщi" languages="Bulgarian">Област Търговище</name>
+		<name normalized="Tiрgovisti" languages="Ukrainian">Тирговиште</name>
+		<name normalized="Tiрgovistсьka obлaсtь" languages="Ukrainian">Тирговиштська область</name>
+		<name normalized="Tрgoviska obлaсt" languages="Macedonian;Serbian">Трговишка област</name>
+		<name normalized="Tрgovisti" languages="Macedonian;Serbian">Трговиште</name>
+		<name normalized="Tърgoviщi" languages="Bulgarian">Търговище</name>
+		<name normalized="Tырgovisti" languages="Kazakh;Ossetic;Russian">Тырговиште</name>
+		<name normalized="Tырgovistiйы obлaeсt" languages="Ossetic">Тырговиштейы облæст</name>
+		<name normalized="Tырgovistсkai obлaсtь" languages="Russian">Тырговиштская область</name>
+		<name normalized="Tաrգvվիstեի mաrz" languages="Armenian">Տարգովիշտեի մարզ</name>
+		<name normalized="trגvbישth" languages="Hebrew">טרגובישטה</name>
+		<name normalized="מhvז trגvbישth" languages="Hebrew">מחוז טרגובישטה</name>
+		<name normalized="אسtאن trgوویشth" languages="Persian">استان ترگوویشته</name>
+		<name normalized="tאrغوfyشth" languages="Arabic">تارغوفيشته</name>
+		<name normalized="trgوویشtے ,bلغאrیہ" languages="Western Punjabi">ترگوویشتے ،بلغاریہ</name>
+		<name normalized="sوbہ trgوویشtے" languages="Western Punjabi">صوبہ ترگوویشتے</name>
+		<name normalized="ტარგოვიშტეს ოლქი" languages="Georgian">ტარგოვიშტეს ოლქი</name>
+		<name normalized="turgvist州" languages="Japanese">トゥルゴヴィシテ州</name>
+		<name normalized="特爾戈維什特" languages="Chinese">特爾戈維什特</name>
+		<name normalized="特爾戈維什特州" languages="Chinese">特爾戈維什特州</name>
+		<name normalized="터르고비슈테" languages="Korean">터르고비슈테</name>
+		<name normalized="터르고비슈테 주" languages="Korean">터르고비슈테 주</name>
+	</region>
+	<region name="Varna" type="province" typeTranslated="oblast">
+		<name normalized="Oblast Varna" languages="Croatian">Oblast Varna</name>
+		<name normalized="Oblast Warna" languages="German">Oblast Warna</name>
+		<name normalized="Obwod Warna" languages="Polish">Obwód Warna</name>
+		<name normalized="Odessus" languages="Latin">Odessus</name>
+		<name normalized="Provincia de Varna" languages="Spanish">Provincia de Varna</name>
+		<name normalized="Provinco Varna" languages="Esperanto">Provinco Varna</name>
+		<name normalized="Provinsi Varna" languages="Indonesian">Provinsi Varna</name>
+		<name normalized="Provincia de Varna" languages="Catalan">Província de Varna</name>
+		<name normalized="Regione di Varna" languages="Italian">Regione di Varna</name>
+		<name normalized="Regiunea Varna" languages="Romanian">Regiunea Varna</name>
+		<name normalized="Varna" languages="Albanian;Aragonese;Asturian;Azerbaijani;Basque;Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Gagauz;Galician;Icelandic;Ido;Indonesian;Italian;Latvian;Lithuanian;lumbaart;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Piedmontese;Portuguese;Romanian;Scots;Serbo-Croatian;Slovak;Slovenian;Spanish;Swedish;Turkish;Vietnamese;Volapuk;Waray;Welsh">Varna</name>
+		<name normalized="Varna Oblast" languages="English;Norwegian (bokmal);official">Varna Oblast</name>
+		<name normalized="Varna piirkond" languages="Estonian">Varna piirkond</name>
+		<name normalized="Varna probintzia" languages="Basque">Varna probintzia</name>
+		<name normalized="Varna Province" languages="English;official;Scots">Varna Province</name>
+		<name normalized="Varnan alue" languages="Finnish">Varnan alue</name>
+		<name normalized="Varnenska oblast" languages="Czech">Varnenská oblast</name>
+		<name normalized="Varnos sritis" languages="Lithuanian">Varnos sritis</name>
+		<name normalized="Varna" languages="Hungarian">Várna</name>
+		<name normalized="Warna" languages="Afrikaans;German;Polish;Turkmen">Warna</name>
+		<name normalized="Βαρνα" languages="Greek">Βάρνα</name>
+		<name normalized="Vaрнae" languages="Ossetic">Варнæ</name>
+		<name normalized="Vaрнaeйы obлaeсt" languages="Ossetic">Варнæйы облæст</name>
+		<name normalized="Vaрнa" languages="Bulgarian;Chechen;Church Slavic;Kazakh;Macedonian;Mongolian;Russian;Serbian;Ukrainian">Варна</name>
+		<name normalized="Vaрнiнсka obлaсt" languages="Macedonian;Serbian">Варненска област</name>
+		<name normalized="Vaрнiнсkai obлaсtь" languages="Russian">Варненская область</name>
+		<name normalized="Vaрнiнсьka obлaсtь" languages="Ukrainian">Варненська область</name>
+		<name normalized="Viлoiti Vaрнa" languages="Tajik">Вилояти Варна</name>
+		<name normalized="Goрad Vaрнa" languages="Belarusian">Горад Варна</name>
+		<name normalized="Obлaсt Vaрнa" languages="Bulgarian">Област Варна</name>
+		<name normalized="Վաrնա" languages="Armenian">Վառնա</name>
+		<name normalized="vאrnh" languages="Hebrew">וארנה</name>
+		<name normalized="מhvז vאrnh" languages="Hebrew">מחוז וארנה</name>
+		<name normalized="אسtאن وאrنא" languages="Persian">استان وارنا</name>
+		<name normalized="sوbہ وאrنא" languages="Western Punjabi">صوبہ وارنا</name>
+		<name normalized="fאrنא" languages="Arabic">فارنا</name>
+		<name normalized="وאrنא" languages="Persian;Urdu;Western Punjabi">وارنا</name>
+		<name normalized="v्hr्nा" languages="Marathi">व्हर्ना</name>
+		<name normalized="วาร์นา" languages="Thai">วาร์นา</name>
+		<name normalized="ვარნა" languages="Georgian">ვარნა</name>
+		<name normalized="ვარნის ოლქი" languages="Georgian">ვარნის ოლქი</name>
+		<name normalized="varn" languages="Japanese">ヴァルナ</name>
+		<name normalized="varn州" languages="Japanese">ヴァルナ州</name>
+		<name normalized="瓦爾納" languages="Chinese">瓦爾納</name>
+		<name normalized="瓦爾納州" languages="Chinese">瓦爾納州</name>
+		<name normalized="바르나" languages="Korean">바르나</name>
+		<name normalized="바르나 주" languages="Korean">바르나 주</name>
+	</region>
+	<region name="Veliko Turnovo" type="province" typeTranslated="oblast">
+		<name normalized="Oblast Veliko Trnovo" languages="Croatian">Oblast Veliko Trnovo</name>
+		<name normalized="Oblast Weliko Tarnowo" languages="German">Oblast Weliko Tarnowo</name>
+		<name normalized="Obwod Wielkie Tyrnowo" languages="Polish">Obwód Wielkie Tyrnowo</name>
+		<name normalized="Provincia de Veliko Tarnovo" languages="Spanish">Provincia de Veliko Tarnovo</name>
+		<name normalized="Provinco Veliko Tarnovo" languages="Esperanto">Provinco Veliko Tarnovo</name>
+		<name normalized="Provinsi Veliko Tarnovo" languages="Indonesian">Provinsi Veliko Tarnovo</name>
+		<name normalized="Provincia de Veliko Tarnovo" languages="Catalan">Província de Veliko Tarnovo</name>
+		<name normalized="Regione di Veliko Tarnovo" languages="Italian">Regione di Veliko Tărnovo</name>
+		<name normalized="Regiunea Veliko Tarnovo" languages="Romanian">Regiunea Veliko Tărnovo</name>
+		<name normalized="Ternobum" languages="Latin">Ternobum</name>
+		<name normalized="Tırnova" languages="Turkish">Tırnova</name>
+		<name normalized="Veliko Tarnovo" languages="Asturian;Basque;Catalan;Czech;Danish;Dutch;English;Esperanto;French;Indonesian;Norwegian (bokmal);Portuguese;Scots;Spanish;Swedish;Vietnamese;Waray;Welsh">Veliko Tarnovo</name>
+		<name normalized="Veliko Tarnovo oblast" languages="Norwegian (bokmal)">Veliko Tarnovo oblast</name>
+		<name normalized="Veliko Tarnovo probintzia" languages="Basque">Veliko Tarnovo probintzia</name>
+		<name normalized="Veliko Tarnovo Province" languages="English;Scots">Veliko Tarnovo Province</name>
+		<name normalized="Veliko Tarnovo" languages="Occitan">Veliko Tarnòvo</name>
+		<name normalized="Veliko Tirnovas" languages="Lithuanian">Veliko Tirnovas</name>
+		<name normalized="Veliko Tırnovo" languages="Turkish">Veliko Tırnovo</name>
+		<name normalized="Veliko Tirnovo sritis" languages="Lithuanian">Veliko Tirnovo sritis</name>
+		<name normalized="Veliko Trnovo" languages="Croatian;Serbo-Croatian;Slovenian">Veliko Trnovo</name>
+		<name normalized="Veliko Turnovo" languages="English;official">Veliko Turnovo</name>
+		<name normalized="Veliko Turnovo Oblast" languages="English;official">Veliko Turnovo Oblast</name>
+		<name normalized="Veliko Turnovo Province" languages="English;official">Veliko Turnovo Province</name>
+		<name normalized="Veliko Tarnovo" languages="Albanian;Estonian;Finnish;Italian;Occitan;Romanian;Slovak;Swedish">Veliko Tărnovo</name>
+		<name normalized="Veliko Tarnovo piirkond" languages="Estonian">Veliko Tărnovo piirkond</name>
+		<name normalized="Veliko Tarnovon alue" languages="Finnish">Veliko Tărnovon alue</name>
+		<name normalized="Velikotarnovska oblast" languages="Czech">Velikotarnovská oblast</name>
+		<name normalized="Weliko Tarnowo" languages="Alemannisch;German">Weliko Tarnowo</name>
+		<name normalized="Wielkie Tyrnowo" languages="Polish">Wielkie Tyrnowo</name>
+		<name normalized="Βeλικο Ταρνοβο" languages="Greek">Βέλικο Τάρνοβο</name>
+		<name normalized="Aслa Tырнava" languages="Chuvash">Аслă Тырнăвă</name>
+		<name normalized="Aслa Tырнovo obлace" languages="Chuvash">Аслă Тырново облаçĕ</name>
+		<name normalized="Viлiko Tрнovo" languages="Macedonian;Serbian">Велико Трново</name>
+		<name normalized="Viлiko Tърнovo" languages="Bulgarian">Велико Търново</name>
+		<name normalized="Viлiko-Tiрнovo" languages="Ukrainian">Велико-Тирново</name>
+		<name normalized="Viлiko-Tырнovo" languages="Kazakh;Ossetic;Russian">Велико-Тырново</name>
+		<name normalized="Viлiko-Tырнovoйы obлaeсt" languages="Ossetic">Велико-Тырновойы облæст</name>
+		<name normalized="Viлikotiрнovсьka obлaсtь" languages="Ukrainian">Великотирновська область</name>
+		<name normalized="Viлikotрнovсka obлaсt" languages="Macedonian">Великотрновска област</name>
+		<name normalized="Viлikotырнovсkai obлaсtь" languages="Russian">Великотырновская область</name>
+		<name normalized="Viлoiti Viлiko Tuрнovo" languages="Tajik">Вилояти Велико Турново</name>
+		<name normalized="Viлikatырнoўсkai vobлaсtь" languages="Belarusian">Вялікатырноўская вобласць</name>
+		<name normalized="Viлikatырнoўсkai vobлaсьtь" languages="biлaрuсkai (taрaskivita)‎">Вялікатырноўская вобласьць</name>
+		<name normalized="Obлaсt Viлiko Tърнovo" languages="Bulgarian">Област Велико Търново</name>
+		<name normalized="Tрнovсka obлaсt" languages="Serbian">Трновска област</name>
+		<name normalized="Վեlիkv Tիrնvվvյի mաrz" languages="Armenian">Վելիկո Տիրնովոյի մարզ</name>
+		<name normalized="vדיqv trnvbv" languages="Hebrew">וליקו טרנובו</name>
+		<name normalized="מhvז vדיqv trnvbv" languages="Hebrew">מחוז וליקו טרנובו</name>
+		<name normalized="אسtאن ولیکو trنوو" languages="Persian">استان ولیکو ترنوو</name>
+		<name normalized="sوbہ ویلیکو trنووא" languages="Western Punjabi">صوبہ ویلیکو ترنووا</name>
+		<name normalized="fyلykو trنوfو" languages="Arabic">فيليكو ترنوفو</name>
+		<name normalized="ولیکو trنوو" languages="Persian">ولیکو ترنوو</name>
+		<name normalized="ویلیکو trنووא" languages="Western Punjabi">ویلیکو ترنووا</name>
+		<name normalized="vێلیکۆ tאrنۆvۆ" languages="Sorani Kurdish">ڤێلیکۆ تارنۆڤۆ</name>
+		<name normalized="เวลีคอเทอร์โนโว" languages="Thai">เวลีคอเทอร์โนโว</name>
+		<name normalized="ველიკო-ტირნოვოს ოლქი" languages="Georgian">ველიკო-ტირნოვოს ოლქი</name>
+		<name normalized="verk・trnvo" languages="Japanese">ヴェリコ・タルノヴォ</name>
+		<name normalized="verk・trnvo州" languages="Japanese">ヴェリコ・タルノヴォ州</name>
+		<name normalized="大特尔诺沃" languages="Chinese">大特尔诺沃</name>
+		<name normalized="大特爾諾沃州" languages="Chinese">大特爾諾沃州</name>
+		<name normalized="벨리코터르노보" languages="Korean">벨리코터르노보</name>
+		<name normalized="벨리코터르노보 주" languages="Korean">벨리코터르노보 주</name>
+	</region>
+	<region name="Vidin" type="province" typeTranslated="oblast">
+		<name normalized="Bidinum" languages="Latin">Bidinum</name>
+		<name normalized="Oblast Vidin" languages="Croatian">Oblast Vidin</name>
+		<name normalized="Oblast Widin" languages="German">Oblast Widin</name>
+		<name normalized="Obwod Widyn" languages="Polish">Obwód Widyń</name>
+		<name normalized="Provincia de Vidin" languages="Spanish">Provincia de Vidin</name>
+		<name normalized="Provinco Vidin" languages="Esperanto">Provinco Vidin</name>
+		<name normalized="Provinsi Vidin" languages="Indonesian">Provinsi Vidin</name>
+		<name normalized="Provincia de Vidin" languages="Catalan">Província de Vidin</name>
+		<name normalized="Regione di Vidin" languages="Italian">Regione di Vidin</name>
+		<name normalized="Regiunea Vidin" languages="Romanian">Regiunea Vidin</name>
+		<name normalized="Vidin" languages="Albanian;Asturian;Basque;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Hungarian;Indonesian;Italian;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Portuguese;Romanian;Serbo-Croatian;Slovak;Slovenian;Spanish;Swedish;Turkish;Vietnamese;Waray">Vidin</name>
+		<name normalized="Vidin Oblast" languages="English;Norwegian (bokmal);official">Vidin Oblast</name>
+		<name normalized="Vidin probintzia" languages="Basque">Vidin probintzia</name>
+		<name normalized="Vidin Province" languages="English;official;Scots">Vidin Province</name>
+		<name normalized="Vidinas" languages="Lithuanian">Vidinas</name>
+		<name normalized="Vidini piirkond" languages="Estonian">Vidini piirkond</name>
+		<name normalized="Vidinin alue" languages="Finnish">Vidinin alue</name>
+		<name normalized="Vidino sritis" languages="Lithuanian">Vidino sritis</name>
+		<name normalized="Vidinska oblast" languages="Czech">Vidinská oblast</name>
+		<name normalized="Widin" languages="German">Widin</name>
+		<name normalized="Widyn" languages="Polish">Widyń</name>
+		<name normalized="Βιντιν" languages="Greek">Βίντιν</name>
+		<name normalized="Επαρχια Βιδινιου" languages="Greek">Επαρχία Βιδινίου</name>
+		<name normalized="Vidiн" languages="Bulgarian;Kazakh;Macedonian;Ossetic;Russian;Serbian;Ukrainian">Видин</name>
+		<name normalized="Vidiнсka obлaсt" languages="Macedonian;Serbian">Видинска област</name>
+		<name normalized="Vidiнсkai obлaсtь" languages="Russian">Видинская область</name>
+		<name normalized="Vidiнсьka obлaсtь" languages="Ukrainian">Видинська область</name>
+		<name normalized="Vidiнъ" languages="Church Slavic">Видинъ</name>
+		<name normalized="Vidiны obлaeсt" languages="Ossetic">Видины облæст</name>
+		<name normalized="Viлoiti Vidiн" languages="Tajik">Вилояти Видин</name>
+		<name normalized="Vidынсkai vobлaсtь" languages="Belarusian">Відынская вобласць</name>
+		<name normalized="Vidынсkai vobлaсьtь" languages="biлaрuсkai (taрaskivita)‎">Відынская вобласьць</name>
+		<name normalized="Obлaсt Vidiн" languages="Bulgarian">Област Видин</name>
+		<name normalized="Վիdինի mաrz" languages="Armenian">Վիդինի մարզ</name>
+		<name normalized="vידין" languages="Hebrew">וידין</name>
+		<name normalized="מhvז vידין" languages="Hebrew">מחוז וידין</name>
+		<name normalized="אسtאن ویدین" languages="Persian">استان ویدین</name>
+		<name normalized="sوbہ ودین" languages="Western Punjabi">صوبہ ودین</name>
+		<name normalized="fyدن" languages="Arabic">فيدن</name>
+		<name normalized="ودین" languages="Western Punjabi">ودین</name>
+		<name normalized="ویدین" languages="Persian">ویدین</name>
+		<name normalized="ვიდინის ოლქი" languages="Georgian">ვიდინის ოლქი</name>
+		<name normalized="vidin" languages="Japanese">ヴィディン</name>
+		<name normalized="vidin州" languages="Japanese">ヴィディン州</name>
+		<name normalized="維丁" languages="Chinese">維丁</name>
+		<name normalized="維丁州" languages="Chinese">維丁州</name>
+		<name normalized="비딘" languages="Korean">비딘</name>
+		<name normalized="비딘 주" languages="Korean">비딘 주</name>
+	</region>
+	<region name="Vratsa" type="province" typeTranslated="oblast">
+		<name normalized="Ivraca" languages="Turkish">İvraca</name>
+		<name normalized="Oblast Vraca" languages="Croatian">Oblast Vraca</name>
+		<name normalized="Oblast Wraza" languages="German">Oblast Wraza</name>
+		<name normalized="Obwod Wraca" languages="Polish">Obwód Wraca</name>
+		<name normalized="Provincia de Vratsa" languages="Spanish">Provincia de Vratsa</name>
+		<name normalized="Provinco Vraca" languages="Esperanto">Provinco Vraca</name>
+		<name normalized="Provinsi Vratsa" languages="Indonesian">Provinsi Vratsa</name>
+		<name normalized="Provincia de Vratsa" languages="Catalan">Província de Vratsa</name>
+		<name normalized="Regione di Vraca" languages="Italian">Regione di Vraca</name>
+		<name normalized="Regiunea Vrața" languages="Romanian">Regiunea Vrața</name>
+		<name normalized="Valvae" languages="Latin">Valvae</name>
+		<name normalized="Vraca" languages="Albanian;Croatian;Czech;Esperanto;Italian;Lithuanian;Serbo-Croatian;Slovak;Slovenian">Vraca</name>
+		<name normalized="Vraca piirkond" languages="Estonian">Vraca piirkond</name>
+		<name normalized="Vracos sritis" languages="Lithuanian">Vracos sritis</name>
+		<name normalized="Vratsa" languages="Catalan;Danish;Dutch;English;Finnish;French;Indonesian;Occitan;official;Portuguese;Spanish;Swedish;Turkish;Vietnamese;Waray">Vratsa</name>
+		<name normalized="Vratsa Oblast" languages="English;Norwegian (bokmal);official">Vratsa Oblast</name>
+		<name normalized="Vratsa probintzia" languages="Basque">Vratsa probintzia</name>
+		<name normalized="Vratsa Province" languages="English;official;Scots">Vratsa Province</name>
+		<name normalized="Vratsan alue" languages="Finnish">Vratsan alue</name>
+		<name normalized="Vracanska oblast" languages="Czech">Vračanská oblast</name>
+		<name normalized="Vrața" languages="Romanian">Vrața</name>
+		<name normalized="Wraca" languages="Polish">Wraca</name>
+		<name normalized="Wraza" languages="German">Wraza</name>
+		<name normalized="Βρατσα" languages="Greek">Βράτσα</name>
+		<name normalized="Vaрacaн obлace" languages="Chuvash">Варачан облаçĕ</name>
+		<name normalized="Viлoiti Vрatсa" languages="Tajik">Вилояти Вратса</name>
+		<name normalized="Vрatae" languages="Ossetic">Врацæ</name>
+		<name normalized="Vрataeйы obлaeсt" languages="Ossetic">Врацæйы облæст</name>
+		<name normalized="Vрata" languages="Bulgarian;Kazakh;Macedonian;Russian;Serbian;Ukrainian">Враца</name>
+		<name normalized="Vрacaнсka obлaсt" languages="Macedonian;Serbian">Врачанска област</name>
+		<name normalized="Vрacaнсkai obлaсtь" languages="Russian">Врачанская область</name>
+		<name normalized="Vрacaнсьka obлaсtь" languages="Ukrainian">Врачанська область</name>
+		<name normalized="Dogduрлuk aймak" languages="Kyrgyz">Догдурлук аймак</name>
+		<name normalized="Obлaсt Vрata" languages="Bulgarian">Област Враца</name>
+		<name normalized="Uрacaнсkai vobлaсtь" languages="Belarusian">Урачанская вобласць</name>
+		<name normalized="Վrաcայի mաrz" languages="Armenian">Վրաչայի մարզ</name>
+		<name normalized="vrאצh" languages="Hebrew">וראצה</name>
+		<name normalized="מhvז vrאצh" languages="Hebrew">מחוז וראצה</name>
+		<name normalized="אسtאن وrאtسא" languages="Persian">استان وراتسا</name>
+		<name normalized="sوbہ وrאtسא" languages="Western Punjabi">صوبہ وراتسا</name>
+		<name normalized="وrאtسא" languages="Persian;Western Punjabi">وراتسا</name>
+		<name normalized="vrאtسא" languages="Sorani Kurdish">ڤراتسا</name>
+		<name normalized="ვრაცის ოლქი" languages="Georgian">ვრაცის ოლქი</name>
+		<name normalized="vrta" languages="Japanese">ヴラツァ</name>
+		<name normalized="vrta州" languages="Japanese">ヴラツァ州</name>
+		<name normalized="弗拉察" languages="Chinese">弗拉察</name>
+		<name normalized="弗拉察州" languages="Chinese">弗拉察州</name>
+		<name normalized="브라차" languages="Korean">브라차</name>
+		<name normalized="브라차 주" languages="Korean">브라차 주</name>
+	</region>
+	<region name="Yambol" type="province" typeTranslated="oblast">
+		<name normalized="Diospolis" languages="Latin">Diospolis</name>
+		<name normalized="Iambol" languages="Catalan;Occitan;Romanian">Iambol</name>
+		<name normalized="Jambol" languages="Albanian;Croatian;Czech;Danish;Dutch;Esperanto;Estonian;Finnish;German;Italian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Serbo-Croatian;Slovak;Slovenian;Swedish">Jambol</name>
+		<name normalized="Jambol megye" languages="Hungarian">Jambol megye</name>
+		<name normalized="Jambol oblast" languages="Norwegian (bokmal)">Jambol oblast</name>
+		<name normalized="Jambol probintzia" languages="Basque">Jambol probintzia</name>
+		<name normalized="Jambolas" languages="Lithuanian">Jambolas</name>
+		<name normalized="Jamboli piirkond" languages="Estonian">Jamboli piirkond</name>
+		<name normalized="Jambolin alue" languages="Finnish">Jambolin alue</name>
+		<name normalized="Jambolo sritis" languages="Lithuanian">Jambolo sritis</name>
+		<name normalized="Jambolska oblast" languages="Czech">Jambolská oblast</name>
+		<name normalized="Jambol" languages="Polish">Jamboł</name>
+		<name normalized="Oblast Jambol" languages="Croatian;German">Oblast Jambol</name>
+		<name normalized="Obwod Jambol" languages="Polish">Obwód Jamboł</name>
+		<name normalized="Provincia de Yambol" languages="Spanish">Provincia de Yambol</name>
+		<name normalized="Provinco Jambol" languages="Esperanto">Provinco Jambol</name>
+		<name normalized="Provinsi Yambol" languages="Indonesian">Provinsi Yambol</name>
+		<name normalized="Provincia de Iambol" languages="Catalan">Província de Iambol</name>
+		<name normalized="Regione di Jambol" languages="Italian">Regione di Jambol</name>
+		<name normalized="Regiunea Iambol" languages="Romanian">Regiunea Iambol</name>
+		<name normalized="Yambol" languages="English;French;Indonesian;official;Portuguese;Turkish;Vietnamese;Waray">Yambol</name>
+		<name normalized="Yambol Oblast" languages="English;official">Yambol Oblast</name>
+		<name normalized="Yambol Province" languages="English;official;Scots">Yambol Province</name>
+		<name normalized="Yanbolu" languages="Turkish">Yanbolu</name>
+		<name normalized="Γιαμπολ" languages="Greek">Γιάμπολ</name>
+		<name normalized="Viлoiti Ямboл" languages="Tajik">Вилояти Ямбол</name>
+		<name normalized="Obлaсt Ямboл" languages="Bulgarian">Област Ямбол</name>
+		<name normalized="Ямbaльсkai vobлaсtь" languages="Belarusian">Ямбальская вобласць</name>
+		<name normalized="Ямboл" languages="Bulgarian;Kazakh;Ossetic;Russian;Ukrainian">Ямбол</name>
+		<name normalized="Ямboлсkai obлaсtь" languages="Russian">Ямболская область</name>
+		<name normalized="Ямboлы obлaeсt" languages="Ossetic">Ямболы облæст</name>
+		<name normalized="Ямboльсьka obлaсtь" languages="Ukrainian">Ямбольська область</name>
+		<name normalized="Jaмboл" languages="Macedonian;Serbian">Јамбол</name>
+		<name normalized="Jaмboлсka obлaсt" languages="Macedonian;Serbian">Јамболска област</name>
+		<name normalized="Յաmbvlի mաrz" languages="Armenian">Յամբոլի մարզ</name>
+		<name normalized="ימbvד" languages="Hebrew">ימבול</name>
+		<name normalized="מhvז ימbvד" languages="Hebrew">מחוז ימבול</name>
+		<name normalized="אسtאن یאmbول" languages="Persian">استان یامبول</name>
+		<name normalized="sوbہ یאmbول" languages="Western Punjabi">صوبہ یامبول</name>
+		<name normalized="yאmbل" languages="Arabic">يامبل</name>
+		<name normalized="یאmbول" languages="Persian;Western Punjabi">یامبول</name>
+		<name normalized="یאmbۆل" languages="Sorani Kurdish">یامبۆل</name>
+		<name normalized="იამბოლის ოლქი" languages="Georgian">იამბოლის ოლქი</name>
+		<name normalized="ynbr州" languages="Japanese">ヤンボル州</name>
+		<name normalized="揚博爾" languages="Chinese">揚博爾</name>
+		<name normalized="揚博爾州" languages="Chinese">揚博爾州</name>
+		<name normalized="얌볼" languages="Korean">얌볼</name>
+		<name normalized="얌볼 주" languages="Korean">얌볼 주</name>
+	</region>
+</regions>

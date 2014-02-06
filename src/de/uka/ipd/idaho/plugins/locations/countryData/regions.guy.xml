@@ -1,0 +1,91 @@
+<regions country="Guyana">
+	<region name="Barima-Waini" type="region" typeTranslated="region">
+		<name normalized="Barima-Vainis" languages="Lithuanian">Barima-Vainis</name>
+		<name normalized="Barima-Waini" languages="Albanian;Dutch;English;French;Galician;German;Indonesian;Italian;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">Barima-Waini</name>
+		<name normalized="Barima-Waini Region" languages="English;official">Barima-Waini Region</name>
+		<name normalized="Baрiмa-Uiйнi" languages="Bulgarian">Барима-Уейни</name>
+		<name normalized="巴里马-瓦伊尼" languages="Chinese">巴里马-瓦伊尼</name>
+	</region>
+	<region name="Cuyuni-Mazaruni" type="region" typeTranslated="region">
+		<name normalized="Cuyuni-Mazaruni" languages="Albanian;Dutch;English;French;German;Indonesian;Italian;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">Cuyuni-Mazaruni</name>
+		<name normalized="Cuyuni-Mazaruni Region" languages="English;official">Cuyuni-Mazaruni Region</name>
+		<name normalized="Kujunis-Mazarunis" languages="Lithuanian">Kujunis-Mazarunis</name>
+		<name normalized="Kaюнi-Мazaрuнi" languages="Bulgarian">Каюни-Мазаруни</name>
+		<name normalized="庫尤尼-馬扎魯尼區" languages="Chinese">庫尤尼-馬扎魯尼區</name>
+	</region>
+	<region name="Demerara-Mahaica" type="region" typeTranslated="region">
+		<name normalized="Demerara-Mahaica" languages="Albanian;Dutch;English;French;German;Indonesian;Italian;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">Demerara-Mahaica</name>
+		<name normalized="Demerara-Mahaica Region" languages="English;official">Demerara-Mahaica Region</name>
+		<name normalized="Demerara-Mahaika" languages="Lithuanian">Demerara-Mahaika</name>
+		<name normalized="Diмiрaрa-Мakaйka" languages="Bulgarian">Демерара-Махайка</name>
+		<name normalized="德梅拉拉-馬海卡區" languages="Chinese">德梅拉拉-馬海卡區</name>
+	</region>
+	<region name="East Berbice-Corentyne" type="region" typeTranslated="region">
+		<name normalized="Berbice Oriental-Corentyne" languages="Portuguese;Spanish">Berbice Oriental-Corentyne</name>
+		<name normalized="Berbice Oriental-Courantyne" languages="French">Berbice Oriental-Courantyne</name>
+		<name normalized="Berbice Orientale-Corentyne" languages="Italian">Berbice Orientale-Corentyne</name>
+		<name normalized="Berbice-Corentyne" languages="English;official">Berbice-Corentyne</name>
+		<name normalized="Berbice-Corentyne Region" languages="English;official">Berbice-Corentyne Region</name>
+		<name normalized="Berbice-Corentyne Timur" languages="Indonesian">Berbice-Corentyne Timur</name>
+		<name normalized="East Berbice-Corentyne" languages="Albanian;Czech;Dutch;English;German;Norwegian (bokmal);official;Swedish">East Berbice-Corentyne</name>
+		<name normalized="East Berbice-Corentyne Region" languages="English;official">East Berbice-Corentyne Region</name>
+		<name normalized="Rytu Berbisas-Koranteinas" languages="Lithuanian">Rytų Berbisas-Koranteinas</name>
+		<name normalized="东伯比斯-科兰太因" languages="Chinese">东伯比斯-科兰太因</name>
+	</region>
+	<region name="Essequibo Islands-West Demerara" type="region" typeTranslated="region">
+		<name normalized="Esekibo salos-Vakaru Demerara" languages="Lithuanian">Esekibo salos-Vakarų Demerara</name>
+		<name normalized="Essequibo Islands-West Demerara" languages="Albanian;Czech;Dutch;English;German;Norwegian (bokmal);official;Swedish">Essequibo Islands-West Demerara</name>
+		<name normalized="Essequibo Islands-West Demerara Region" languages="English;official">Essequibo Islands-West Demerara Region</name>
+		<name normalized="Ilhas Essequibo-Demerara Ocidental" languages="Portuguese">Ilhas Essequibo-Demerara Ocidental</name>
+		<name normalized="Islas Esequibo-Demerara Occidental" languages="Spanish">Islas Esequibo-Demerara Occidental</name>
+		<name normalized="Isole Essequibo-Demerara Occidentale" languages="Italian">Isole Essequibo-Demerara Occidentale</name>
+		<name normalized="Pulau Essequibo-Demerara Barat" languages="Indonesian">Pulau Essequibo-Demerara Barat</name>
+		<name normalized="Iles d'Essequibo-Demerara Occidental" languages="French">Îles d'Essequibo-Demerara Occidental</name>
+		<name normalized="埃塞奎博群島-西德梅拉拉區" languages="Chinese">埃塞奎博群島-西德梅拉拉區</name>
+	</region>
+	<region name="Mahaica-Berbice" type="region" typeTranslated="region">
+		<name normalized="Mahaica-Berbice" languages="Dutch;English;French;German;Indonesian;Italian;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">Mahaica-Berbice</name>
+		<name normalized="Mahaica-Berbice Region" languages="English;official">Mahaica-Berbice Region</name>
+		<name normalized="Mahaika-Berbisas" languages="Lithuanian">Mahaika-Berbisas</name>
+		<name normalized="Мakaйka-Bърbaйс" languages="Bulgarian">Махайка-Бърбайс</name>
+		<name normalized="馬海卡-伯比斯區" languages="Chinese">馬海卡-伯比斯區</name>
+	</region>
+	<region name="Pomeroon-Supenaam" type="region" typeTranslated="region">
+		<name normalized="Pomeronas-Supenamas" languages="Lithuanian">Pomeronas-Supenamas</name>
+		<name normalized="Pomeroon-Supenaam" languages="Dutch;English;French;German;Indonesian;Italian;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">Pomeroon-Supenaam</name>
+		<name normalized="Pomeroon-Supenaam Region" languages="English;official">Pomeroon-Supenaam Region</name>
+		<name normalized="Poмiрuн-Сupiнaм" languages="Bulgarian">Померун-Супенам</name>
+		<name normalized="波默倫-蘇佩納姆區" languages="Chinese">波默倫-蘇佩納姆區</name>
+	</region>
+	<region name="Potaro-Siparuni" type="region" typeTranslated="region">
+		<name normalized="Potaras-Siparunis" languages="Lithuanian">Potaras-Siparunis</name>
+		<name normalized="Potaro-Siparuni" languages="Dutch;English;French;German;Indonesian;Italian;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">Potaro-Siparuni</name>
+		<name normalized="Potaro-Siparuni Region" languages="English;official">Potaro-Siparuni Region</name>
+		<name normalized="Potaрo-Сipaрuнi" languages="Bulgarian">Потаро-Сипаруни</name>
+		<name normalized="波塔羅-錫帕魯尼區" languages="Chinese">波塔羅-錫帕魯尼區</name>
+	</region>
+	<region name="Upper Demerara-Berbice" type="region" typeTranslated="region">
+		<name normalized="Alto Demerara-Berbice" languages="Italian;Portuguese;Spanish">Alto Demerara-Berbice</name>
+		<name normalized="Aukstutine Demerara-Berbisas" languages="Lithuanian">Aukštutinė Demerara-Berbisas</name>
+		<name normalized="Demerara Hulu-Berbice" languages="Indonesian">Demerara Hulu-Berbice</name>
+		<name normalized="Demerara-Berbice" languages="English;official">Demerara-Berbice</name>
+		<name normalized="Demerara-Berbice Region" languages="English;official">Demerara-Berbice Region</name>
+		<name normalized="Haut-Demerara-Berbice" languages="French">Haut-Demerara-Berbice</name>
+		<name normalized="Upper Demerara-Berbice" languages="Dutch;English;German;Norwegian (bokmal);official;Swedish">Upper Demerara-Berbice</name>
+		<name normalized="Upper Demerara-Berbice Region" languages="English;official">Upper Demerara-Berbice Region</name>
+		<name normalized="上德梅拉拉-伯比斯區" languages="Chinese">上德梅拉拉-伯比斯區</name>
+	</region>
+	<region name="Upper Takutu-Upper Essequibo" type="region" typeTranslated="region">
+		<name normalized="Alto Tacutu-Alto Esequibo" languages="Spanish">Alto Tacutu-Alto Esequibo</name>
+		<name normalized="Alto Takutu-Alto Essequibo" languages="Italian;Portuguese">Alto Takutu-Alto Essequibo</name>
+		<name normalized="Aukstutinis Takutu-Aukstutinis Esekibas" languages="Lithuanian">Aukštutinis Takutu-Aukštutinis Esekibas</name>
+		<name normalized="Haut-Takutu-Haut-Essequibo" languages="French">Haut-Takutu-Haut-Essequibo</name>
+		<name normalized="Takutu Hulu-Essequibo Hulu" languages="Indonesian">Takutu Hulu-Essequibo Hulu</name>
+		<name normalized="Takutu-Upper Essequibo" languages="English;official">Takutu-Upper Essequibo</name>
+		<name normalized="Takutu-Upper Essequibo Region" languages="English;official">Takutu-Upper Essequibo Region</name>
+		<name normalized="Upper Takatu-Upper Esseqiubo" languages="Swedish">Upper Takatu-Upper Esseqiubo</name>
+		<name normalized="Upper Takutu-Upper Essequibo" languages="Dutch;English;German;Norwegian (bokmal);official">Upper Takutu-Upper Essequibo</name>
+		<name normalized="Upper Takutu-Upper Essequibo Region" languages="English;official">Upper Takutu-Upper Essequibo Region</name>
+		<name normalized="上塔库图-上埃塞奎博" languages="Chinese">上塔库图-上埃塞奎博</name>
+	</region>
+</regions>

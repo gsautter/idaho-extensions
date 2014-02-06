@@ -1,0 +1,315 @@
+<regions country="Congo, Democratic Republic of the">
+	<region name="Bandundu" type="province" typeTranslated="province">
+		<name normalized="Bandundu" languages="Breton;Dutch;English;French;German;Hungarian;Lingala;Lithuanian;Norwegian (bokmal);official;Polish;Portuguese;Slovak;Spanish;Swedish;Vietnamese;veneto">Bandundu</name>
+		<name normalized="Bandundu Bolgesi" languages="Turkish">Bandundu Bölgesi</name>
+		<name normalized="Bandundu Province" languages="English;official">Bandundu Province</name>
+		<name normalized="Bandundu tartomany" languages="Hungarian">Bandundu tartomány</name>
+		<name normalized="Provincia di Bandundu" languages="Italian">Provincia di Bandundu</name>
+		<name normalized="Provinsi Bandundu" languages="Indonesian">Provinsi Bandundu</name>
+		<name normalized="Baнduнdu" languages="Russian">Бандунду</name>
+		<name normalized="Pрaviнtыi Baнduнdu" languages="Belarusian">Правінцыя Бандунду</name>
+		<name normalized="bאnדvnדv" languages="Hebrew">באנדונדו</name>
+		<name normalized="bאندאندو" languages="Arabic">بانداندو</name>
+		<name normalized="bाn्dun्du p्rाn्t" languages="Hindi">बान्दुन्दु प्रान्त</name>
+		<name normalized="bndundu州" languages="Japanese">バンドゥンドゥ州</name>
+		<name normalized="班顿杜省" languages="Chinese">班顿杜省</name>
+		<name normalized="반둔두 주" languages="Korean">반둔두 주</name>
+	</region>
+	<region name="Bas-Congo" type="province" typeTranslated="province">
+		<name normalized="Alam-Kongo provints" languages="Estonian">Alam-Kongo provints</name>
+		<name normalized="Also-Kongo" languages="Hungarian">Alsó-Kongó</name>
+		<name normalized="Asagı Kongo Bolgesi" languages="Turkish">Aşağı Kongo Bölgesi</name>
+		<name normalized="Bajo Congo" languages="Spanish">Bajo Congo</name>
+		<name normalized="Bas-Congo" languages="Breton;English;French;German;Lingala;official;Slovak;Vietnamese">Bas-Congo</name>
+		<name normalized="Bas-Congo Province" languages="English;official">Bas-Congo Province</name>
+		<name normalized="Congo" languages="Aragonese;Catalan;Chinese (Min Nan);Danish;Dutch;English;French;Galician;Interlingua;Italian;Malay;official;Portuguese;Romanian;Romansh;Scots;Simple English;Spanish;Vietnamese;Volapuk;veneto;Walloon">Congo</name>
+		<name normalized="Congo Central" languages="Portuguese">Congo Central</name>
+		<name normalized="Congo Province" languages="English;official">Congo Province</name>
+		<name normalized="Congu" languages="Sicilian">Congu</name>
+		<name normalized="Congo" languages="Occitan">Còngo</name>
+		<name normalized="Dolne Kongo" languages="Polish">Dolne Kongo</name>
+		<name normalized="Keski-Kongo" languages="Finnish">Keski-Kongo</name>
+		<name normalized="Kongas" languages="Lithuanian">Kongas</name>
+		<name normalized="Konggo" languages="Tagalog">Konggo</name>
+		<name normalized="Kongo" languages="Afrikaans;Basque;Bosnian;Breton;Crimean Turkish;Croatian;Czech;Esperanto;Estonian;Finnish;German;Haitian;Ido;Indonesian;Kongo;Latvian;Limburgish;Lingala;Low German;Lower Sorbian;Norwegian (bokmal);Norwegian Nynorsk;Polish;Serbo-Croatian;Slovak;Slovenian;Swahili;Swedish;Turkish;Upper Sorbian;Western Frisian;Yoruba;Zazaki">Kongo</name>
+		<name normalized="Kongo Central" languages="Indonesian;Norwegian (bokmal);Waray">Kongo Central</name>
+		<name normalized="Kongo-Central" languages="Swedish">Kongo-Central</name>
+		<name normalized="Kongo" languages="Hungarian;Icelandic">Kongó</name>
+		<name normalized="Konqo" languages="Azerbaijani">Konqo</name>
+		<name normalized="Kwango" languages="Hausa">Kwango</name>
+		<name normalized="Kaango" languages="Navajo">Káango</name>
+		<name normalized="Kongo ya Kati" languages="Kongo">Kôngo ya Kati</name>
+		<name normalized="Lower Congo" languages="English;official">Lower Congo</name>
+		<name normalized="Lower Congo Province" languages="English;official">Lower Congo Province</name>
+		<name normalized="Neder-Congo" languages="Dutch">Neder-Congo</name>
+		<name normalized="Province do Kongo central" languages="Walloon">Province do Kongo central</name>
+		<name normalized="Provincia del Basso Congo" languages="Italian">Provincia del Basso Congo</name>
+		<name normalized="Zemutinis Kongas" languages="Lithuanian">Žemutinis Kongas</name>
+		<name normalized="Κονγκο" languages="Greek">Κονγκό</name>
+		<name normalized="Koнga" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Конга</name>
+		<name normalized="Koнgo" languages="Bulgarian;Kazakh;Macedonian;Mongolian;Ossetic;Russian;Sakha;Serbian;Ukrainian">Конго</name>
+		<name normalized="Pрaviнtыi Teнtрaльнai Koнga" languages="Belarusian">Правінцыя Цэнтральнае Конга</name>
+		<name normalized="Tiнtрaлнo Koнgo" languages="Bulgarian">Централно Конго</name>
+		<name normalized="Tiнtрaльнoi Koнgo" languages="Russian">Центральное Конго</name>
+		<name normalized="Teнtрaльнai Koнga" languages="biлaрuсkai (taрaskivita)‎">Цэнтральнае Конга</name>
+		<name normalized="qvnגv" languages="Hebrew">קונגו</name>
+		<name normalized="qvnגv סntrד" languages="Hebrew">קונגו סנטרל</name>
+		<name normalized="אلkونغو אلسfلى" languages="Arabic">الكونغو السفلى</name>
+		<name normalized="kونغو" languages="Arabic">كونغو</name>
+		<name normalized="کאنgو" languages="Urdu">کانگو</name>
+		<name normalized="کنgو" languages="Persian">کنگو</name>
+		<name normalized="ܩܘܢܓܘ" languages="Aramaic">ܩܘܢܓܘ</name>
+		<name normalized="kंgo" languages="Nepali">कंगो</name>
+		<name normalized="kाँgo" languages="Marathi">काँगो</name>
+		<name normalized="kांgo" languages="Hindi">कांगो</name>
+		<name normalized="bा-koंgo p्rाn्t" languages="Hindi">बा-कोंगो प्रान्त</name>
+		<name normalized="kঙ্go" languages="Bengali">কঙ্গো</name>
+		<name normalized="kongo" languages="Bishnupria Manipuri">কোনগো</name>
+		<name normalized="கொங்கோ" languages="Tamil">கொங்கோ</name>
+		<name normalized="కాంగో" languages="Telugu">కాంగో</name>
+		<name normalized="ಕಾಂಗೊ" languages="Kannada">ಕಾಂಗೊ</name>
+		<name normalized="കോംഗോ" languages="Malayalam">കോംഗോ</name>
+		<name normalized="คองโก" languages="Thai">คองโก</name>
+		<name normalized="კონგო" languages="Georgian">კონგო</name>
+		<name normalized="kng中央州" languages="Japanese">コンゴ中央州</name>
+		<name normalized="下刚果省" languages="Chinese">下刚果省</name>
+		<name normalized="刚果" languages="Chinese;Wu">刚果</name>
+		<name normalized="바콩고 주" languages="Korean">바콩고 주</name>
+		<name normalized="콩고" languages="Korean">콩고</name>
+	</region>
+	<region name="Equateur" type="province" typeTranslated="province">
+		<name normalized="Ecuador" languages="veneto">Ecuador</name>
+		<name normalized="Egyenlitoi tartomany" languages="Hungarian">Egyenlítői tartomány</name>
+		<name normalized="Ekvator Bolgesi" languages="Turkish">Ekvator Bölgesi</name>
+		<name normalized="Ekwateli" languages="Lingala">Ekwatéli</name>
+		<name normalized="Equateur" languages="English;official">Equateur</name>
+		<name normalized="Equateur Province" languages="English;official">Equateur Province</name>
+		<name normalized="Evenaarsprovincie" languages="Dutch">Evenaarsprovincie</name>
+		<name normalized="Provincia dell'Equatore" languages="Italian">Provincia dell'Equatore</name>
+		<name normalized="Prowincja Rownikowa" languages="Polish">Prowincja Równikowa</name>
+		<name normalized="Pusiaujo provincija" languages="Lithuanian">Pusiaujo provincija</name>
+		<name normalized="Equateur" languages="Breton;English;French;German;Indonesian;Norwegian (bokmal);Slovak;Swedish;Vietnamese">Équateur</name>
+		<name normalized="Ekvatoрiaльнai pрoviнtii" languages="Russian">Экваториальная провинция</name>
+		<name normalized="إkوאtوr" languages="Arabic">إكواتور</name>
+		<name normalized="ekाtear p्rाn्t" languages="Hindi">एकातेअर प्रान्त</name>
+		<name normalized="에쿠아퇴르 주" languages="Korean">에쿠아퇴르 주</name>
+	</region>
+	<region name="Kasai-Occidental" type="province" typeTranslated="province">
+		<name normalized="Batı Kasai" languages="Turkish">Batı Kasai</name>
+		<name normalized="Kasai" languages="Catalan;English;Estonian;Galician;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Slovak;Spanish">Kasai</name>
+		<name normalized="Kasai Province" languages="English;official">Kasai Province</name>
+		<name normalized="Kasai ya Limbe" languages="Lingala">Kasai ya Límbe</name>
+		<name normalized="Kasai Zachodnie" languages="Polish">Kasai Zachodnie</name>
+		<name normalized="Kasai-Occidental" languages="English;German;Indonesian;Malay;official;Vietnamese">Kasai-Occidental</name>
+		<name normalized="Kasai-Occidental Province" languages="English;official">Kasai-Occidental Province</name>
+		<name normalized="Kasai" languages="Dutch;French">Kasaï</name>
+		<name normalized="Kasai Ocidental" languages="Portuguese">Kasaï Ocidental</name>
+		<name normalized="Kasai-Occidental" languages="Breton;English;French;Norwegian (bokmal);Slovak;Swedish">Kasaï-Occidental</name>
+		<name normalized="Nyugat-Kasai tartomany" languages="Hungarian">Nyugat-Kasai tartomány</name>
+		<name normalized="Provincia del Kasai Occidentale" languages="Italian">Provincia del Kasai Occidentale</name>
+		<name normalized="Vakaru Kasajus" languages="Lithuanian">Vakarų Kasajus</name>
+		<name normalized="West Kasai" languages="English;official">West Kasai</name>
+		<name normalized="West Kasai Province" languages="English;official">West Kasai Province</name>
+		<name normalized="West-Kasai" languages="Dutch">West-Kasaï</name>
+		<name normalized="Zapadнoi Kaсai" languages="Russian">Западное Касаи</name>
+		<name normalized="Kaсaй" languages="Ukrainian">Касай</name>
+		<name normalized="Pрaviнtыi Zakodнii Kaсai" languages="Belarusian">Правінцыя Заходняе Касаі</name>
+		<name normalized="kאسאy" languages="Arabic">كاساي</name>
+		<name normalized="kאسאy אلغrbyة" languages="Arabic">كاساي الغربية</name>
+		<name normalized="kाsाi-ps्cimi p्rाn्t" languages="Hindi">कासाइ-पश्चिमी प्रान्त</name>
+		<name normalized="ksi" languages="Japanese">カサイ</name>
+		<name normalized="开赛" languages="Chinese">开赛</name>
+		<name normalized="西ksi州" languages="Japanese">西カサイ州</name>
+		<name normalized="西开赛省" languages="Chinese">西开赛省</name>
+		<name normalized="서카사이 주" languages="Korean">서카사이 주</name>
+	</region>
+	<region name="Kasai-Oriental" type="province" typeTranslated="province">
+		<name normalized="Dogu Kasai" languages="Turkish">Doğu Kasai</name>
+		<name normalized="East Kasai" languages="English;official">East Kasai</name>
+		<name normalized="East Kasai Province" languages="English;official">East Kasai Province</name>
+		<name normalized="Kasai" languages="Catalan;English;Estonian;Galician;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Slovak;Spanish">Kasai</name>
+		<name normalized="Kasai Province" languages="English;official">Kasai Province</name>
+		<name normalized="Kasai Wschodnie" languages="Polish">Kasai Wschodnie</name>
+		<name normalized="Kasai ya Monyele" languages="Lingala">Kasai ya Monyɛlɛ</name>
+		<name normalized="Kasai-Oriental" languages="English;German;Indonesian;Malay;official;Vietnamese">Kasai-Oriental</name>
+		<name normalized="Kasai-Oriental Province" languages="English;official">Kasai-Oriental Province</name>
+		<name normalized="Kasai" languages="Dutch;French">Kasaï</name>
+		<name normalized="Kasai Oriental" languages="Danish">Kasaï Oriental</name>
+		<name normalized="Kasai-Oriental" languages="Breton;English;French;Norwegian (bokmal);Occitan;Slovak;Swedish">Kasaï-Oriental</name>
+		<name normalized="Kelet-Kasai tartomany" languages="Hungarian">Kelet-Kasai tartomány</name>
+		<name normalized="Mkoa wa Kasai Mashariki" languages="Swahili">Mkoa wa Kasai Mashariki</name>
+		<name normalized="Oost-Kasai" languages="Dutch">Oost-Kasaï</name>
+		<name normalized="Provincia del Kasai Orientale" languages="Italian">Provincia del Kasai Orientale</name>
+		<name normalized="Rytu Kasajus" languages="Lithuanian">Rytų Kasajus</name>
+		<name normalized="Kaсaй" languages="Ukrainian">Касай</name>
+		<name normalized="kאسאy" languages="Arabic">كاساي</name>
+		<name normalized="kאسאy אلشrqyة" languages="Arabic">كاساي الشرقية</name>
+		<name normalized="kाsाi-pur्vi p्rाn्t" languages="Hindi">कासाइ-पूर्वी प्रान्त</name>
+		<name normalized="ksi" languages="Japanese">カサイ</name>
+		<name normalized="东开赛省" languages="Chinese">东开赛省</name>
+		<name normalized="开赛" languages="Chinese">开赛</name>
+		<name normalized="東ksi州" languages="Japanese">東カサイ州</name>
+		<name normalized="동카사이 주" languages="Korean">동카사이 주</name>
+	</region>
+	<region name="Katanga" type="province" typeTranslated="province">
+		<name normalized="Catanga" languages="Latin;veneto">Catanga</name>
+		<name normalized="Katanga" languages="Basque;Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Italian;Lingala;Lithuanian;Norwegian (bokmal);official;Polish;Portuguese;Slovak;Spanish;Swahili;Swedish;Turkish;Vietnamese">Katanga</name>
+		<name normalized="Katanga Province" languages="English;official">Katanga Province</name>
+		<name normalized="Katanga provints" languages="Estonian">Katanga provints</name>
+		<name normalized="Katanga tartomany" languages="Hungarian">Katanga tartomány</name>
+		<name normalized="Provincia di Katanga" languages="Italian">Provincia di Katanga</name>
+		<name normalized="Provinsi Katanga" languages="Indonesian">Provinsi Katanga</name>
+		<name normalized="Kataнga" languages="Macedonian;Russian">Катанга</name>
+		<name normalized="Pрaviнtыi Kataнga" languages="Belarusian">Правінцыя Катанга</name>
+		<name normalized="mqאtعة kאtאنغא" languages="Arabic">مقاطعة كاتانغا</name>
+		<name normalized="kाtांgा p्rाn्t" languages="Hindi">कातांगा प्रान्त</name>
+		<name normalized="ktng州" languages="Japanese">カタンガ州</name>
+		<name normalized="加丹加省" languages="Chinese">加丹加省</name>
+		<name normalized="카탕가 주" languages="Korean">카탕가 주</name>
+	</region>
+	<region name="Kinshasa" type="city" typeTranslated="city">
+		<name normalized="Kinchasa" languages="Haitian">Kinchasa</name>
+		<name normalized="Kinsasa" languages="Icelandic;Kongo;Spanish;Tagalog">Kinsasa</name>
+		<name normalized="Kinshasa" languages="Afrikaans;Alemannisch;Aragonese;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Corsican;Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;Galician;German;Hungarian;Ido;Iloko;Indonesian;Irish;Italian;Javanese;Kinyarwanda;Latin;Ligure;lumbaart;Luxembourgish;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Piedmontese;Portuguese;Quechua;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Sicilian;Simple English;Slovak;Somali;Swahili;Swedish;tarandine;Upper Sorbian;Uzbek;Vietnamese;veneto;Walloon;Waray;Welsh;Wolof;Yoruba;Zhuang">Kinshasa</name>
+		<name normalized="Kinsjasa" languages="Western Frisian">Kinsjasa</name>
+		<name normalized="Kinszasa" languages="Polish">Kinszasa</name>
+		<name normalized="Kinsasa" languages="Lingala">Kinsásá</name>
+		<name normalized="Kinsaso" languages="Esperanto">Kinŝaso</name>
+		<name normalized="Kinsasa" languages="Azerbaijani;Tatar;Turkish;Turkmen">Kinşasa</name>
+		<name normalized="Kinsasa" languages="Latvian;Lithuanian;Samogitian;Slovenian">Kinšasa</name>
+		<name normalized="Kinsasa" languages="Kurdish">Kînşasa</name>
+		<name normalized="Κινσασα" languages="Greek">Κινσάσα</name>
+		<name normalized="Goрad Kiнsaсa" languages="Belarusian">Горад Кіншаса</name>
+		<name normalized="Kiнsaсa" languages="Bashkir;Bulgarian;Chechen;Hill Mari;Kazakh;Kyrgyz;Macedonian;Ossetic;Russian;Sakha;Serbian;Tajik;Udmurt">Киншаса</name>
+		<name normalized="Kiнsaсi" languages="Eastern Mari">Киншасе</name>
+		<name normalized="Kiнsaсa" languages="Rusyn;Ukrainian;biлaрuсkai (taрaskivita)‎">Кіншаса</name>
+		<name normalized="Kինsաsա" languages="Armenian">Կինշասա</name>
+		<name normalized="qיnשאזע" languages="Yiddish">קינשאזע</name>
+		<name normalized="qיnשאסh" languages="Hebrew">קינשאסה</name>
+		<name normalized="kyنشאسא" languages="Arabic;Egyptian Spoken Arabic">كينشاسا</name>
+		<name normalized="کنشאسא" languages="Urdu">کنشاسا</name>
+		<name normalized="کنشאسہ" languages="Western Punjabi">کنشاسہ</name>
+		<name normalized="کینشאسא" languages="Persian;Sorani Kurdish">کینشاسا</name>
+		<name normalized="kin्sाsा" languages="Hindi;Marathi">किन्शासा</name>
+		<name normalized="kins਼ਾsਾ" languages="Punjabi">ਕਿਨਸ਼ਾਸਾ</name>
+		<name normalized="கின்ஷாசா" languages="Tamil">கின்ஷாசா</name>
+		<name normalized="കിൻഷസ" languages="Malayalam">കിൻഷസ</name>
+		<name normalized="กินชาซา" languages="Thai">กินชาซา</name>
+		<name normalized="ཀིན་ཤ་ས།" languages="Tibetan">ཀིན་ཤ་ས།</name>
+		<name normalized="ကင်ရှာဆာမြို့" languages="Burmese">ကင်ရှာဆာမြို့</name>
+		<name normalized="კინშასა" languages="Georgian">კინშასა</name>
+		<name normalized="ኪንሻሳ" languages="Amharic">ኪንሻሳ</name>
+		<name normalized="knsys" languages="Japanese">キンシャサ</name>
+		<name normalized="金夏沙" languages="Chinese">金夏沙</name>
+		<name normalized="金沙薩" languages="Cantonese">金沙薩</name>
+		<name normalized="킨샤사" languages="Korean">킨샤사</name>
+	</region>
+	<region name="Maniema" type="province" typeTranslated="province">
+		<name normalized="Maniema" languages="Breton;Dutch;English;Estonian;French;German;Indonesian;Kongo;Lingala;Lithuanian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Slovak;Spanish;Swedish;Turkish;Vietnamese;Waray">Maniema</name>
+		<name normalized="Maniema Province" languages="English;official">Maniema Province</name>
+		<name normalized="Maniema tartomany" languages="Hungarian">Maniema tartomány</name>
+		<name normalized="Mkoa wa Maniema" languages="Swahili">Mkoa wa Maniema</name>
+		<name normalized="Province do Maniema" languages="Walloon">Province do Maniema</name>
+		<name normalized="Provincia di Maniema" languages="Italian">Provincia di Maniema</name>
+		<name normalized="Provincia Maniema" languages="Romanian">Provincia Maniema</name>
+		<name normalized="Мaнiiмa" languages="Bulgarian;Russian">Маниема</name>
+		<name normalized="Мaнiiмa" languages="biлaрuсkai (taрaskivita)‎">Маніема</name>
+		<name normalized="Pрaviнtыi Мaнiiмa" languages="Belarusian">Правінцыя Маніема</name>
+		<name normalized="mאنymא" languages="Arabic">مانيما</name>
+		<name normalized="mाniemा p्rाn्t" languages="Hindi">मानिएमा प्रान्त</name>
+		<name normalized="mnem州" languages="Japanese">マニエマ州</name>
+		<name normalized="马涅马省" languages="Chinese">马涅马省</name>
+		<name normalized="마니에마 주" languages="Korean">마니에마 주</name>
+	</region>
+	<region name="Nord-Kivu" type="province" typeTranslated="province">
+		<name normalized="Bac Kivu" languages="Vietnamese">Bắc Kivu</name>
+		<name normalized="Intara ya Kivu y'Amajyaruguru" languages="Kinyarwanda">Intara ya Kivu y’Amajyaruguru</name>
+		<name normalized="Kivu" languages="Dutch;English;French;German;Indonesian;Italian;Norwegian (bokmal);official;Portuguese;Swedish">Kivu</name>
+		<name normalized="Kivu del Norte" languages="Spanish">Kivu del Norte</name>
+		<name normalized="Kivu Nord" languages="Catalan">Kivu Nord</name>
+		<name normalized="Kivu Province" languages="English;official">Kivu Province</name>
+		<name normalized="Kivu ya Node" languages="Kongo">Kivu ya Node</name>
+		<name normalized="Kivu ya Nole" languages="Lingala">Kivu ya Nole</name>
+		<name normalized="Kiwu Polnocne" languages="Polish">Kiwu Północne</name>
+		<name normalized="Kuzey Kivu" languages="Turkish">Kuzey Kivu</name>
+		<name normalized="Mkoa wa Kivu Kaskazini" languages="Swahili">Mkoa wa Kivu Kaskazini</name>
+		<name normalized="Noord-Kivu" languages="Dutch">Noord-Kivu</name>
+		<name normalized="Nord-Kivu" languages="Breton;English;French;German;Indonesian;Malay;Norwegian (bokmal);official;Portuguese;Slovak;Waray">Nord-Kivu</name>
+		<name normalized="Nord-Kivuo" languages="Esperanto">Nord-Kivuo</name>
+		<name normalized="Norra Kivu-provinsen" languages="Swedish">Norra Kivu-provinsen</name>
+		<name normalized="North Kivu" languages="English;official">North Kivu</name>
+		<name normalized="North Kivu Province" languages="English;official">North Kivu Province</name>
+		<name normalized="Pohjois-Kivu" languages="Finnish">Pohjois-Kivu</name>
+		<name normalized="Province do Kivou Bijhrece" languages="Walloon">Province do Kivou Bijhrece</name>
+		<name normalized="Province Nord-Kivu" languages="English;official">Province Nord-Kivu</name>
+		<name normalized="Provincia del Kivu Nord" languages="Italian">Provincia del Kivu Nord</name>
+		<name normalized="Provincia Nord-Kivu" languages="Romanian">Provincia Nord-Kivu</name>
+		<name normalized="Pohja-Kivu" languages="Estonian">Põhja-Kivu</name>
+		<name normalized="Eszak-Kivu tartomany" languages="Hungarian">Észak-Kivu tartomány</name>
+		<name normalized="Siaures Kivu" languages="Lithuanian">Šiaurės Kivu</name>
+		<name normalized="Нoр Kivu" languages="Bulgarian">Нор Киву</name>
+		<name normalized="Paўнocнai Kivu" languages="biлaрuсkai (taрaskivita)‎">Паўночнае Ківу</name>
+		<name normalized="Pрaviнtыi Paўнocнai Kivu" languages="Belarusian">Правінцыя Паўночнае Ківу</name>
+		<name normalized="Сiviрнoi Kivu" languages="Russian">Северное Киву</name>
+		<name normalized="kyfو אلشmאلyة" languages="Arabic">كيفو الشمالية</name>
+		<name normalized="ut्tr kivu p्rाn्t" languages="Hindi">उत्तर कीवू प्रान्त</name>
+		<name normalized="北kv州" languages="Japanese">北キヴ州</name>
+		<name normalized="北基伍省" languages="Chinese">北基伍省</name>
+		<name normalized="북키부 주" languages="Korean">북키부 주</name>
+	</region>
+	<region name="Orientale" type="province" typeTranslated="province">
+		<name normalized="Dogu Bolgesi" languages="Turkish">Doğu Bölgesi</name>
+		<name normalized="Etuka ya Monyele" languages="Lingala">Etúká ya Monyɛlɛ</name>
+		<name normalized="Oriental" languages="veneto">Oriental</name>
+		<name normalized="Orientale" languages="Dutch;English;German;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese">Orientale</name>
+		<name normalized="Orientale Province" languages="English;official">Orientale Province</name>
+		<name normalized="Orientale tartomany" languages="Hungarian">Orientale tartomány</name>
+		<name normalized="Province orientale" languages="French;Slovak">Province orientale</name>
+		<name normalized="Provincia Orientale" languages="Italian">Provincia Orientale</name>
+		<name normalized="Provinsi Orientale" languages="Indonesian">Provinsi Orientale</name>
+		<name normalized="Provins ar Reter" languages="Breton">Proviñs ar Reter</name>
+		<name normalized="Prowincja Wschodnia" languages="Polish">Prowincja Wschodnia</name>
+		<name normalized="Rytu provincija" languages="Lithuanian">Rytų provincija</name>
+		<name normalized="Voсtocнai pрoviнtii" languages="Russian">Восточная провинция</name>
+		<name normalized="Uсkodнii pрaviнtыi" languages="Belarusian">Усходняя правінцыя</name>
+		<name normalized="أوryونtאل" languages="Arabic">أوريونتال</name>
+		<name normalized="pur्vi p्rाn्t" languages="Hindi">पूर्वी प्रान्त</name>
+		<name normalized="東部州" languages="Japanese">東部州</name>
+		<name normalized="동부 주" languages="Korean">동부 주</name>
+	</region>
+	<region name="Sud-Kivu" type="province" typeTranslated="province">
+		<name normalized="Del-Kivu tartomany" languages="Hungarian">Dél-Kivu tartomány</name>
+		<name normalized="Etela-Kivu" languages="Finnish">Etelä-Kivu</name>
+		<name normalized="Guney Kivu" languages="Turkish">Güney Kivu</name>
+		<name normalized="Intara ya Kivu y'Amajyepfo" languages="Kinyarwanda">Intara ya Kivu y’Amajyepfo</name>
+		<name normalized="Janubiy Kivu" languages="Uzbek">Janubiy Kivu</name>
+		<name normalized="Kivu" languages="Dutch;English;French;German;Indonesian;Italian;Norwegian (bokmal);official;Portuguese;Swedish">Kivu</name>
+		<name normalized="Kivu del Sur" languages="Spanish">Kivu del Sur</name>
+		<name normalized="Kivu Province" languages="English;official">Kivu Province</name>
+		<name normalized="Kivu ya Sidi" languages="Lingala">Kivu ya Sidi</name>
+		<name normalized="Kivu ya Sudi" languages="Kongo">Kivu ya Sudi</name>
+		<name normalized="Kiwu Poludniowe" languages="Polish">Kiwu Południowe</name>
+		<name normalized="Louna-Kivu" languages="Estonian">Lõuna-Kivu</name>
+		<name normalized="Mkoa wa Kivu Kusini" languages="Swahili">Mkoa wa Kivu Kusini</name>
+		<name normalized="Nam Kivu" languages="Vietnamese">Nam Kivu</name>
+		<name normalized="Pietu Kivu" languages="Lithuanian">Pietų Kivu</name>
+		<name normalized="Province do Kivou Nonnrece" languages="Walloon">Province do Kivou Nonnrece</name>
+		<name normalized="Province Sud-Kivu" languages="English;official">Province Sud-Kivu</name>
+		<name normalized="Provincia del Kivu Sud" languages="Italian">Provincia del Kivu Sud</name>
+		<name normalized="Provincia Sud-Kivu" languages="Romanian">Provincia Sud-Kivu</name>
+		<name normalized="South Kivu" languages="English;official">South Kivu</name>
+		<name normalized="South Kivu Province" languages="English;official">South Kivu Province</name>
+		<name normalized="Sud-Kivu" languages="Breton;English;French;German;Indonesian;Malay;Norwegian (bokmal);official;Portuguese;Slovak;Waray">Sud-Kivu</name>
+		<name normalized="Sodra Kivu-provinsen" languages="Swedish">Södra Kivu-provinsen</name>
+		<name normalized="Zuid-Kivu" languages="Dutch">Zuid-Kivu</name>
+		<name normalized="Paўdнёvai Kivu" languages="biлaрuсkai (taрaskivita)‎">Паўднёвае Ківу</name>
+		<name normalized="Pрaviнtыi Paўdнёvai Kivu" languages="Belarusian">Правінцыя Паўднёвае Ківу</name>
+		<name normalized="Сюd Kivu" languages="Bulgarian">Сюд Киву</name>
+		<name normalized="Юzнoi Kivu" languages="Russian">Южное Киву</name>
+		<name normalized="kyfو אلjنوbyة" languages="Arabic">كيفو الجنوبية</name>
+		<name normalized="dk्षiण kivu p्rाn्t" languages="Hindi">दक्षिण कीवू प्रान्त</name>
+		<name normalized="南kv州" languages="Japanese">南キヴ州</name>
+		<name normalized="南基伍省" languages="Chinese">南基伍省</name>
+		<name normalized="남키부 주" languages="Korean">남키부 주</name>
+	</region>
+</regions>

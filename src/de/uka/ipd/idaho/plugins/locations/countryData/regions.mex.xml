@@ -1,0 +1,616 @@
+<regions country="Mexico">
+	<region name="Aguascalientes" type="state" typeTranslated="estado">
+		<name normalized="Aguascalientes" languages="English;official">Aguascalientes</name>
+	</region>
+	<region name="Baja California" type="state" typeTranslated="estado">
+		<name normalized="Also-Kalifornia" languages="Hungarian">Alsó-Kalifornia</name>
+		<name normalized="Amianan a Baja California" languages="Iloko">Amianan a Baja California</name>
+		<name normalized="Asagı Kaliforniya" languages="Azerbaijani;Turkish">Aşağı Kaliforniya</name>
+		<name normalized="Baixa California" languages="Aragonese">Baixa California</name>
+		<name normalized="Baixa California" languages="Catalan">Baixa Califòrnia</name>
+		<name normalized="Baja California" languages="Cheyenne;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;Galician;German;Indonesian;Interlingua;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Portuguese;Romanian;Romansh;Scots;Simple English;Slovak;Spanish;Swahili;Swedish;Tagalog;Vietnamese;Waray;Welsh">Baja California</name>
+		<name normalized="Baja California suyu" languages="Quechua">Baja California suyu</name>
+		<name normalized="Bassa California" languages="Italian">Bassa California</name>
+		<name normalized="Bassa California" languages="Piedmontese">Bassa Califòrnia</name>
+		<name normalized="Basse-Californie" languages="French">Basse-Californie</name>
+		<name normalized="California Inferior" languages="Latin">California Inferior</name>
+		<name normalized="Donja Kalifornija" languages="Serbo-Croatian">Donja Kalifornija</name>
+		<name normalized="Estat de Bassa California" languages="Occitan">Estat de Bassa Califòrnia</name>
+		<name normalized="Kalifornia Beherea" languages="Basque">Kalifornia Beherea</name>
+		<name normalized="Kalifornia Dolna" languages="Polish">Kalifornia Dolna</name>
+		<name normalized="Kalifornia-Izel" languages="Breton">Kalifornia-Izel</name>
+		<name normalized="Lejaskalifornija" languages="Latvian">Lejaskalifornija</name>
+		<name normalized="Tlani California" languages="Nahuatl">Tlani California</name>
+		<name normalized="Zemutine Kalifornija" languages="Lithuanian">Žemutinė Kalifornija</name>
+		<name normalized="Μπαχα Καλιφορνια" languages="Greek">Μπάχα Καλιφόρνια</name>
+		<name normalized="Baka-Kaлiфoрнii" languages="Ukrainian">Баха-Каліфорнія</name>
+		<name normalized="Doлнa Kaлiфoрнii" languages="Bulgarian">Долна Калифорния</name>
+		<name normalized="Dona Kaлiфoрнija" languages="Serbian">Доња Калифорнија</name>
+		<name normalized="Kaлiфoрнiii Poёнii Siмoлi" languages="Tajik">Калифорнияи Поёнии Шимолӣ</name>
+		<name normalized="Нizнii Kaлiфoрнii" languages="Russian">Нижняя Калифорния</name>
+		<name normalized="Нizнii Kaлiфoрнii" languages="biлaрuсkai (taрaskivita)‎">Ніжняя Каліфорнія</name>
+		<name normalized="Tɵмiнgi Kaлiфoрнii" languages="Kazakh">Төменгі Калифорния</name>
+		<name normalized="Stat Нizнii Kaлiфoрнii" languages="Belarusian">Штат Ніжняя Каліфорнія</name>
+		<name normalized="bאhh qדיpvrnיh" languages="Hebrew">באחה קליפורניה</name>
+		<name normalized="bאjא کیلیfوrنیא" languages="Urdu;Western Punjabi">باجا کیلیفورنیا</name>
+		<name normalized="bאhא کאلیfrنیא" languages="Persian">باحا کالیفرنیا</name>
+		<name normalized="bאخא کאلیfrنیא" languages="Mazanderani">باخا کالیفرنیا</name>
+		<name normalized="ولאyة bאhא kאلyfوrنyא" languages="Arabic">ولاية باها كاليفورنيا</name>
+		<name normalized="bाhा kाlipor्niyा" languages="Marathi">बाहा कालिफोर्निया</name>
+		<name normalized="பாகா கலிபோர்னியா" languages="Tamil">பாகா கலிபோர்னியா</name>
+		<name normalized="รัฐบาฮากาลิฟอร์เนีย" languages="Thai">รัฐบาฮากาลิฟอร์เนีย</name>
+		<name normalized="ქვემო კალიფორნია" languages="Georgian">ქვემო კალიფორნია</name>
+		<name normalized="bh・krhorna州" languages="Japanese">バハ・カリフォルニア州</name>
+		<name normalized="下加利福尼亞州" languages="Chinese">下加利福尼亞州</name>
+		<name normalized="바하칼리포르니아 주" languages="Korean">바하칼리포르니아 주</name>
+	</region>
+	<region name="Baja California Sur" type="state" typeTranslated="estado">
+		<name normalized="Baixa California Sud" languages="Aragonese">Baixa California Sud</name>
+		<name normalized="Baixa California Sud" languages="Catalan">Baixa Califòrnia Sud</name>
+		<name normalized="Baja California Sur" languages="Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;Galician;German;Indonesian;Interlingua;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Portuguese;Romanian;Romansh;Scots;Simple English;Slovak;Spanish;Swahili;Swedish;Tagalog;Vietnamese;Waray;Welsh">Baja California Sur</name>
+		<name normalized="Baja California Sur suyu" languages="Quechua">Baja California Sur suyu</name>
+		<name normalized="Bassa California del Sud" languages="Italian">Bassa California del Sud</name>
+		<name normalized="Bassa California del Sud" languages="Occitan">Bassa Califòrnia del Sud</name>
+		<name normalized="Bassa California del Sud" languages="Piedmontese">Bassa Califòrnia dël Sud</name>
+		<name normalized="Basse-Californie du Sud" languages="French">Basse-Californie du Sud</name>
+		<name normalized="California Inferior Meridionalis" languages="Latin">California Inferior Meridionalis</name>
+		<name normalized="Dienvidu Lejaskalifornija" languages="Latvian">Dienvidu Lejaskalifornija</name>
+		<name normalized="Deli-Also-Kalifornia" languages="Hungarian">Déli-Alsó-Kalifornia</name>
+		<name normalized="Guney Asagı Kaliforniya" languages="Turkish">Güney Aşağı Kaliforniya</name>
+		<name normalized="Hego Kalifornia Beherea" languages="Basque">Hego Kalifornia Beherea</name>
+		<name normalized="Juzna Donja Kalifornija" languages="Serbo-Croatian">Južna Donja Kalifornija</name>
+		<name normalized="Kalifornia Dolna Poludniowa" languages="Polish">Kalifornia Dolna Południowa</name>
+		<name normalized="Kalifornia-Izel ar C'hreisteiz" languages="Breton">Kalifornia-Izel ar C'hreisteiz</name>
+		<name normalized="Tlani California Huitztlampa" languages="Nahuatl">Tlani California Huitztlāmpa</name>
+		<name normalized="Zemutine Pietu Kalifornija" languages="Lithuanian">Žemutinė Pietų Kalifornija</name>
+		<name normalized="Μπαχα Καλιφορνια Σουρ" languages="Greek">Μπάχα Καλιφόρνια Σουρ</name>
+		<name normalized="Baka-Kaлiфoрнii-Сюр" languages="Ukrainian">Баха-Каліфорнія-Сюр</name>
+		<name normalized="Kaлiфoрнiii Poёнii Caнubi" languages="Tajik">Калифорнияи Поёнии Ҷанубӣ</name>
+		<name normalized="Paўdнёvai Нizнii Kaлiфoрнii" languages="biлaрuсkai (taрaskivita)‎">Паўднёвая Ніжняя Каліфорнія</name>
+		<name normalized="Tɵмiнgi oңtүсtik Kaлiфoрнii" languages="Kazakh">Төменгі оңтүстік Калифорния</name>
+		<name normalized="Kuссaр Daeллag Kaлiфoрнi" languages="Ossetic">Хуссар Дæллаг Калифорни</name>
+		<name normalized="Stat Paўdнёvai Нizнii Kaлiфoрнii" languages="Belarusian">Штат Паўднёвая Ніжняя Каліфорнія</name>
+		<name normalized="Юzнa Doлнa Kaлiфoрнii" languages="Bulgarian">Южна Долна Калифорния</name>
+		<name normalized="Юzнai Нizнii Kaлiфoрнii" languages="Russian">Южная Нижняя Калифорния</name>
+		<name normalized="Juzнa Dona Kaлiфoрнija" languages="Serbian">Јужна Доња Калифорнија</name>
+		<name normalized="bאhh qדיpvrnיh hדrvמיt" languages="Hebrew">באחה קליפורניה הדרומית</name>
+		<name normalized="bאjא کیلیfوrنیא سr" languages="Urdu;Western Punjabi">باجا کیلیفورنیا سر</name>
+		<name normalized="bאhא کאلیfrنیא سوr" languages="Persian">باحا کالیفرنیا سور</name>
+		<name normalized="bאخא کאلیfrنیא سوr" languages="Mazanderani">باخا کالیفرنیا سور</name>
+		<name normalized="ولאyة bאخא kאلyfوrنyא سوr" languages="Arabic">ولاية باخا كاليفورنيا سور</name>
+		<name normalized="bाhा kाlipor्niyा sur" languages="Marathi">बाहा कालिफोर्निया सुर</name>
+		<name normalized="รัฐบาฮากาลิฟอร์เนียซูร์" languages="Thai">รัฐบาฮากาลิฟอร์เนียซูร์</name>
+		<name normalized="ქვემო კალიფორნია" languages="Georgian">ქვემო კალიფორნია</name>
+		<name normalized="bh・krhorna・sr州" languages="Japanese">バハ・カリフォルニア・スル州</name>
+		<name normalized="南下加利福尼亞州" languages="Chinese">南下加利福尼亞州</name>
+		<name normalized="바하칼리포르니아수르 주" languages="Korean">바하칼리포르니아수르 주</name>
+	</region>
+	<region name="Campeche" type="state" typeTranslated="estado">
+		<name normalized="Campeche" languages="English;official">Campeche</name>
+	</region>
+	<region name="Chiapas" type="state" typeTranslated="estado">
+		<name normalized="Chiapae" languages="Latin">Chiapae</name>
+		<name normalized="Chiapas" languages="Afrikaans;Aragonese;Basque;Breton;Catalan;Cheyenne;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Hungarian;Indonesian;Interlingua;Italian;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Piedmontese;Polish;Portuguese;Romanian;Romansh;Scots;Serbo-Croatian;Simple English;Slovak;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh">Chiapas</name>
+		<name normalized="Chiapas suyu" languages="Quechua">Chiapas suyu</name>
+		<name normalized="Chiyapan" languages="Nahuatl">Chiyapan</name>
+		<name normalized="Ciapasas" languages="Lithuanian">Čiapasas</name>
+		<name normalized="Cjapasa" languages="Latvian">Čjapasa</name>
+		<name normalized="Τσιαπας" languages="Greek">Τσιάπας</name>
+		<name normalized="Ciapaс" languages="Bulgarian">Чиапас</name>
+		<name normalized="Cijapaс" languages="Serbian">Чијапас</name>
+		<name normalized="Cьipaс" languages="Russian">Чьяпас</name>
+		<name normalized="Cipaс" languages="Tajik">Чяпас</name>
+		<name normalized="Ciapaс" languages="Ukrainian">Чіапас</name>
+		<name normalized="C'ipaс" languages="biлaрuсkai (taрaskivita)‎">Ч’япас</name>
+		<name normalized="Stat C'ipaс" languages="Belarusian">Штат Ч'япас</name>
+		<name normalized="צ'יאpס" languages="Hebrew">צ'יאפס</name>
+		<name normalized="tشyאbאس" languages="Arabic">تشياباس</name>
+		<name normalized="چیאpאز" languages="Western Punjabi">چیاپاز</name>
+		<name normalized="چیאpאس" languages="Mazanderani;Persian;Urdu">چیاپاس</name>
+		<name normalized="ciyाpाs" languages="Hindi">चियापास</name>
+		<name normalized="c्yाpाs" languages="Marathi">च्यापास</name>
+		<name normalized="รัฐเชียปัส" languages="Thai">รัฐเชียปัส</name>
+		<name normalized="ჩიაპასი" languages="Georgian">ჩიაპასი</name>
+		<name normalized="taps州" languages="Japanese">チアパス州</name>
+		<name normalized="恰帕斯州" languages="Chinese">恰帕斯州</name>
+		<name normalized="치아파스 주" languages="Korean">치아파스 주</name>
+	</region>
+	<region name="Chihuahua" type="state" typeTranslated="estado">
+		<name normalized="Chihuahua" languages="English;official">Chihuahua</name>
+	</region>
+	<region name="Coahuila de Zaragoza" type="state" typeTranslated="estado">
+		<name normalized="Coahuila" languages="Afrikaans;Breton;Catalan;Cheyenne;Cornish;Croatian;Czech;Danish;English;Esperanto;Estonian;Finnish;French;German;Hungarian;Indonesian;Interlingua;Italian;Latin;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;Piedmontese;Polish;Romanian;Romansh;Scots;Serbo-Croatian;Simple English;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh">Coahuila</name>
+		<name normalized="Coahuila de Zaragoza" languages="Aragonese;Basque;Dutch;English;Galician;official;Portuguese;Spanish">Coahuila de Zaragoza</name>
+		<name normalized="Coahuila suyu" languages="Quechua">Coahuila suyu</name>
+		<name normalized="Coahuillan Zaragoza" languages="Nahuatl">Cōāhuillān Zaragoza</name>
+		<name normalized="Koahuila" languages="Lithuanian">Koahuila</name>
+		<name normalized="Koavila de Saragosa" languages="Latvian">Koavila de Saragosa</name>
+		<name normalized="Κοαουιλα" languages="Greek">Κοαουίλα</name>
+		<name normalized="Iёлati Koaюiлa di Zaрagoza" languages="Tajik">Иёлати Коаюила де Зарагоза</name>
+		<name normalized="Kaaўiлi" languages="biлaрuсkai (taрaskivita)‎">Кааўіля</name>
+		<name normalized="Koaviлa" languages="Serbian">Коавила</name>
+		<name normalized="Koauiлae" languages="Ossetic">Коауилæ</name>
+		<name normalized="Koauiлa" languages="Russian">Коауила</name>
+		<name normalized="Koauiлa di Сaрagoсa" languages="Bulgarian">Коауила де Сарагоса</name>
+		<name normalized="Koauyлa" languages="Ukrainian">Коауїла</name>
+		<name normalized="Stat Kaaўiлa" languages="Belarusian">Штат Кааўіла</name>
+		<name normalized="ولאyة kوאhوyلא" languages="Arabic">ولاية كواهويلا</name>
+		<name normalized="کوאویلא" languages="Mazanderani;Persian">کواویلا</name>
+		<name normalized="کوאہویلא" languages="Western Punjabi">کواہویلا</name>
+		<name normalized="koavilा" languages="Marathi">कोआविला</name>
+		<name normalized="รัฐโกอาวีลา" languages="Thai">รัฐโกอาวีลา</name>
+		<name normalized="კოაუილა" languages="Georgian">კოაუილა</name>
+		<name normalized="kauir州" languages="Japanese">コアウイラ州</name>
+		<name normalized="科阿韋拉州" languages="Chinese">科阿韋拉州</name>
+		<name normalized="코아우일라 주" languages="Korean">코아우일라 주</name>
+	</region>
+	<region name="Colima" type="state" typeTranslated="estado">
+		<name normalized="Colima" languages="English;official">Colima</name>
+	</region>
+	<region name="Distrito Federal" type="federal district" typeTranslated="federal district">
+		<name normalized="Banda Meksiko" languages="Achinese">Banda Meksiko</name>
+		<name normalized="Bandar Raya Mexico" languages="Malay">Bandar Raya Mexico</name>
+		<name normalized="Belt tal-Messiku" languages="Maltese">Belt tal-Messiku</name>
+		<name normalized="Cathair Mheicsiceo" languages="Irish">Cathair Mheicsiceo</name>
+		<name normalized="Cidade de Mexico" languages="Galician">Cidade de México</name>
+		<name normalized="Cidade do Mexico" languages="Portuguese">Cidade do México</name>
+		<name normalized="Cita Mexico" languages="Cornish">Cita Mexico</name>
+		<name normalized="Citad da Mexico" languages="Romansh">Citad da Mexico</name>
+		<name normalized="Citate de Mexico" languages="Interlingua">Citate de Mexico</name>
+		<name normalized="Citta ddo Messico" languages="Neapolitan">Città ddò Messico</name>
+		<name normalized="Citta del Messico" languages="Italian">Città del Messico</name>
+		<name normalized="Cita del Messich" languages="lumbaart">Cità del Messich</name>
+		<name normalized="Cita du Messicu" languages="Sicilian">Cità dû Mèssicu</name>
+		<name normalized="Cite de Mexico" languages="Interlingue">Cité de Mexico</name>
+		<name normalized="Ciudad de Mexico" languages="Serbo-Croatian">Ciudad de Mexico</name>
+		<name normalized="Ciudad de Mexico" languages="Bosnian;Croatian;Czech;Indonesian;Romanian;Slovenian;Volapuk">Ciudad de México</name>
+		<name normalized="Ciudad di Mexico" languages="Papiamento">Ciudad di Mexico</name>
+		<name normalized="Ciudat de Mexico" languages="Aragonese">Ciudat de Mexico</name>
+		<name normalized="Ciutat de Mexic" languages="Occitan">Ciutat de Mexic</name>
+		<name normalized="Ciutat de Mexic" languages="Catalan">Ciutat de Mèxic</name>
+		<name normalized="Cia de Mejicu" languages="Extremaduran">Ciá de Méjicu</name>
+		<name normalized="Dinas Mecsico" languages="Welsh">Dinas Mecsico</name>
+		<name normalized="Distrito Federal" languages="English;official">Distrito Federal</name>
+		<name normalized="Ker-Vec'hiko" languages="Breton">Kêr-Vec'hiko</name>
+		<name normalized="Lungsod ng Mehiko" languages="Tagalog">Lungsod ng Mehiko</name>
+		<name normalized="Mboka ya Mexiko" languages="Lingala">Mbóka ya Mexiko</name>
+		<name normalized="Meagsago" languages="Scottish Gaelic">Meagsago</name>
+		<name normalized="Mehiko" languages="Latvian;Turkmen">Mehiko</name>
+		<name normalized="Meksik-urbo" languages="Esperanto">Meksik-urbo</name>
+		<name normalized="Meksikas" languages="Lithuanian">Meksikas</name>
+		<name normalized="Meksiko" languages="Albanian;Croatian;Haitian;Turkish">Meksiko</name>
+		<name normalized="Meksiko City" languages="Zazaki">Meksiko City</name>
+		<name normalized="Meksiko gavpot" languages="Northern Sami">Meksiko gávpot</name>
+		<name normalized="Meksiko-Sted" languages="Western Frisian">Meksiko-Stêd</name>
+		<name normalized="Meksikobyur" languages="Faroese">Meksikobýur</name>
+		<name normalized="Meksikostad" languages="Afrikaans">Meksikostad</name>
+		<name normalized="Meksyk" languages="Polish;Silesian">Meksyk</name>
+		<name normalized="Meksiko" languages="Kurdish">Meksîko</name>
+		<name normalized="Mekseks" languages="Samogitian">Meksėks</name>
+		<name normalized="Mexico" languages="Bikol Central;Catalan;Cebuano;Danish;Dutch;English;French;Italian;Low Saxon (Netherlands);Malagasy;official;Polish;Romanian;Scots;Slovak;Swahili;Volapuk;Waray">Mexico</name>
+		<name normalized="Mexico by" languages="Norwegian (bokmal);Norwegian Nynorsk">Mexico by</name>
+		<name normalized="Mexico Ceety" languages="Scots">Mexico Ceety</name>
+		<name normalized="Mexico City" languages="Danish;English;Fiji Hindi;Javanese;Kalaallisut;Shona;Simple English;Swedish">Mexico City</name>
+		<name normalized="Mexico Siti" languages="Samoan">Mexico Siti</name>
+		<name normalized="Mexico-Stad" languages="Dutch">Mexico-Stad</name>
+		<name normalized="Mexicoburg" languages="Old English">Mexicoburg</name>
+		<name normalized="Mexicopolis" languages="Latin">Mexicopolis</name>
+		<name normalized="Mexiko" languages="Alemannisch;Azerbaijani;Bavarian;Czech;German;Slovak">Mexiko</name>
+		<name normalized="Mexiko Hiria" languages="Basque">Mexiko Hiria</name>
+		<name normalized="Mexiko shahri" languages="Uzbek">Mexiko shahri</name>
+		<name normalized="Mexiko Urbe" languages="Novial">Mexiko Urbe</name>
+		<name normalized="Mexiko-mesto" languages="Upper Sorbian">Mexiko-město</name>
+		<name normalized="Mexiko-Stad" languages="Luxembourgish">Mexiko-Stad</name>
+		<name normalized="Mexiko-Stadt" languages="Alemannisch;German">Mexiko-Stadt</name>
+		<name normalized="Mexikovaros" languages="Hungarian">Mexikóváros</name>
+		<name normalized="mexygu'e tcadu" languages="Lojban">mexygu'e tcadu</name>
+		<name normalized="Mexikoborg" languages="Icelandic">Mexíkóborg</name>
+		<name normalized="Mishiku llaqta" languages="Quechua">Mishiku llaqta</name>
+		<name normalized="Mehigoʼ sidii" languages="Navajo">Méhigoʼ sídii</name>
+		<name normalized="Mejiko tava" languages="Guarani">Méjiko táva</name>
+		<name normalized="Mexico" languages="Estonian;Finnish;Galician;Ido;Portuguese;Spanish;Voro">México</name>
+		<name normalized="Mexico Chhi" languages="Chinese (Min Nan)">México Chhī</name>
+		<name normalized="Mexico D.F." languages="Asturian">México D.F.</name>
+		<name normalized="Mixiku marka" languages="Aymara">Mïxiku marka</name>
+		<name normalized="Mekiko D.F." languages="Hawaiian">Mēkiko D.F.</name>
+		<name normalized="Sita del Mesico" languages="veneto">Sità del Mèsico</name>
+		<name normalized="Sita del Messich" languages="Piedmontese">Sità dël Méssich</name>
+		<name normalized="Siudad ti Mehiko" languages="Iloko">Siudad ti Mehiko</name>
+		<name normalized="Sivdad de Meksiko" languages="Ladino">Sivdad de Meksiko</name>
+		<name normalized="Syudad han Mehiko" languages="Waray">Syudad han Mehiko</name>
+		<name normalized="Thanh pho Mexico" languages="Vietnamese">Thành phố México</name>
+		<name normalized="Tzitade de su Messico" languages="Sardinian">Tzitade de su Mèssico</name>
+		<name normalized="Cittae do Mescico" languages="Ligure">Çittæ do Mescico</name>
+		<name normalized="Ilu Me´ksiko" languages="Yoruba">Ìlú Mẹ́ksíkò</name>
+		<name normalized="Altepetl Mexihco" languages="Nahuatl">Āltepētl Mēxihco</name>
+		<name normalized="Πολη του Μεξικοu" languages="Greek">Πόλη του Μεξικού</name>
+		<name normalized="Goрad Мikika" languages="Belarusian">Горад Мехіка</name>
+		<name normalized="Мikсiko" languages="Bulgarian;Macedonian;Serbian">Мексико</name>
+		<name normalized="Мikсiko Сiti" languages="Serbian">Мексико Сити</name>
+		<name normalized="Мikсiko Сiti" languages="Rusyn">Мексіко Сіті</name>
+		<name normalized="Мikiko" languages="Bashkir;Chechen;Chuvash;Eastern Mari;Hill Mari;Kazakh;Lezghian;Mongolian;Ossetic;Russian;Sakha;Tajik;Tatar;Udmurt">Мехико</name>
+		<name normalized="Мikiko" languages="Ukrainian">Мехіко</name>
+		<name normalized="Мekika" languages="biлaрuсkai (taрaskivita)‎">Мэхіка</name>
+		<name normalized="Mեxիkv" languages="Armenian">Մեխիկո</name>
+		<name normalized="מעqסיqא שtאt" languages="Yiddish">מעקסיקא שטאט</name>
+		<name normalized="מqסיqv סיtי" languages="Hebrew">מקסיקו סיטי</name>
+		<name normalized="mدyنة mkسykو" languages="Arabic">مدينة مكسيكو</name>
+		<name normalized="mykسykو سytى" languages="Egyptian Spoken Arabic">ميكسيكو سيتى</name>
+		<name normalized="mکزیکو سیtی" languages="Persian">مکزیکو سیتی</name>
+		<name normalized="mیکسیکو شہr" languages="Urdu;Western Punjabi">میکسیکو شہر</name>
+		<name normalized="mېkسىkא شەھىrى" languages="Uyghur">مېكسىكا شەھىرى</name>
+		<name normalized="mەکسیکۆ سیtی" languages="Sorani Kurdish">مەکسیکۆ سیتی</name>
+		<name normalized="mek्siko ngr" languages="Hindi">मेक्सिको नगर</name>
+		<name normalized="mek्siko siटi" languages="Marathi">मेक्सिको सिटी</name>
+		<name normalized="mek্siko siটi" languages="Bengali">মেক্সিকো সিটি</name>
+		<name normalized="maksikੋ s਼hir" languages="Punjabi">ਮੈਕਸੀਕੋ ਸ਼ਹਿਰ</name>
+		<name normalized="ମେକ୍ସିକୋ ସହର" languages="Oriya">ମେକ୍ସିକୋ ସହର</name>
+		<name normalized="மெக்சிக்கோ நகரம்" languages="Tamil">மெக்சிக்கோ நகரம்</name>
+		<name normalized="ಮೆಕ್ಸಿಕೋ ನಗರ" languages="Kannada">ಮೆಕ್ಸಿಕೋ ನಗರ</name>
+		<name normalized="മെക്സിക്കോ സിറ്റി" languages="Malayalam">മെക്സിക്കോ സിറ്റി</name>
+		<name normalized="මෙක්සිකෝ නගරය" languages="Sinhala">මෙක්සිකෝ නගරය</name>
+		<name normalized="เม็กซิโกซิตี" languages="Thai">เม็กซิโกซิตี</name>
+		<name normalized="མེག་སི་ཀོ་གྲོང་།" languages="Tibetan">མེག་སི་ཀོ་གྲོང་།</name>
+		<name normalized="မက္ကဆီကိုမြို့" languages="Burmese">မက္ကဆီကိုမြို့</name>
+		<name normalized="მეხიკო" languages="Georgian;Mingrelian">მეხიკო</name>
+		<name normalized="ሜክሲኮ ከተማ" languages="Amharic">ሜክሲኮ ከተማ</name>
+		<name normalized="mksksti" languages="Japanese">メキシコシティ</name>
+		<name normalized="墨西哥城" languages="Cantonese;Chinese">墨西哥城</name>
+		<name normalized="멕시코시티" languages="Korean">멕시코시티</name>
+	</region>
+	<region name="Durango" type="state" typeTranslated="estado">
+		<name normalized="Durango" languages="English;official">Durango</name>
+	</region>
+	<region name="Guanajuato" type="state" typeTranslated="estado">
+		<name normalized="Guanajuato" languages="English;official">Guanajuato</name>
+	</region>
+	<region name="Guerrero" type="state" typeTranslated="estado">
+		<name normalized="Bellator" languages="Latin">Bellator</name>
+		<name normalized="Delstaten Guerrero" languages="Norwegian Nynorsk">Delstaten Guerrero</name>
+		<name normalized="Estado de Guerrero" languages="Galician;Spanish">Estado de Guerrero</name>
+		<name normalized="Estat de Guerrero" languages="Catalan">Estat de Guerrero</name>
+		<name normalized="Estato de Guerrero" languages="Aragonese">Estato de Guerrero</name>
+		<name normalized="Gereras" languages="Lithuanian">Gereras</name>
+		<name normalized="Gerrero" languages="Latvian">Gerrero</name>
+		<name normalized="Guerrero" languages="Basque;Breton;Cheyenne;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Hungarian;Indonesian;Interlingua;Italian;Malagasy;Malay;Nahuatl;Norwegian (bokmal);Occitan;official;Pampanga;Piedmontese;Polish;Portuguese;Romanian;Romansh;Scots;Serbo-Croatian;Silesian;Simple English;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh">Guerrero</name>
+		<name normalized="Guerrero suyu" languages="Quechua">Guerrero suyu</name>
+		<name normalized="Γκερρeρο" languages="Greek">Γκερρέρο</name>
+		<name normalized="Giрiрo" languages="Bulgarian;Macedonian;Serbian">Гереро</name>
+		<name normalized="Giррiрo" languages="Hill Mari;Russian">Герреро</name>
+		<name normalized="Giрeрa" languages="biлaрuсkai (taрaskivita)‎">Герэра</name>
+		<name normalized="Iёлati Giррiрo" languages="Tajik">Иёлати Герреро</name>
+		<name normalized="Stat Giрeрa" languages="Belarusian">Штат Герэра</name>
+		<name normalized="Ґiррiрo" languages="Ukrainian">Ґерреро</name>
+		<name normalized="גrrv" languages="Hebrew">גררו</name>
+		<name normalized="ولאyة غyryrو" languages="Arabic">ولاية غيريرو</name>
+		<name normalized="grrو" languages="Persian">گررو</name>
+		<name normalized="grrیrو" languages="Western Punjabi">گرریرو</name>
+		<name normalized="gوئrrو" languages="Mazanderani">گوئررو</name>
+		<name normalized="gerero" languages="Marathi">गेरेरो</name>
+		<name normalized="รัฐเกร์เรโร" languages="Thai">รัฐเกร์เรโร</name>
+		<name normalized="გერეროს შტატი" languages="Georgian">გერეროს შტატი</name>
+		<name normalized="grーr州" languages="Japanese">ゲレーロ州</name>
+		<name normalized="格雷羅州" languages="Chinese">格雷羅州</name>
+		<name normalized="게레로 주" languages="Korean">게레로 주</name>
+	</region>
+	<region name="Hidalgo" type="state" typeTranslated="estado">
+		<name normalized="Hidalgo" languages="Basque;Breton;Czech;Danish;Dutch;English;Esperanto;Finnish;French;German;Hungarian;Italian;official;Polish;Portuguese;Romanian;Serbo-Croatian;Slovenian;Spanish;Swedish;Volapuk">Hidalgo</name>
+		<name normalized="Idaльgo" languages="Russian">Идальго</name>
+		<name normalized="Kidaлgo" languages="Bulgarian">Хидалго</name>
+		<name normalized="Idaльgo" languages="Ukrainian">Ідальго</name>
+		<name normalized="אیدאلgو אیאلt" languages="Mazanderani">ایدالگو ایالت</name>
+		<name normalized="idrg" languages="Japanese">イダルゴ</name>
+		<name normalized="伊达尔戈" languages="Chinese">伊达尔戈</name>
+		<name normalized="이달고" languages="Korean">이달고</name>
+	</region>
+	<region name="Jalisco" type="state" typeTranslated="estado">
+		<name normalized="Chaliskas" languages="Lithuanian">Chaliskas</name>
+		<name normalized="Halisko" languages="Latvian">Halisko</name>
+		<name normalized="Jalisco" languages="Afrikaans;Aragonese;Basque;Breton;Catalan;Cheyenne;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Guarani;Hungarian;Indonesian;Interlingua;Irish;Italian;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Piedmontese;Polish;Portuguese;Quechua;Romanian;Romansh;Scots;Serbo-Croatian;Sicilian;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;veneto;Waray;Welsh">Jalisco</name>
+		<name normalized="Jalisco Hahoodzo" languages="Navajo">Jalisco Hahoodzo</name>
+		<name normalized="Xaliscum" languages="Latin">Xaliscum</name>
+		<name normalized="Xalixco" languages="Nahuatl">Xālīxco</name>
+		<name normalized="Χαλισκο" languages="Greek">Χαλίσκο</name>
+		<name normalized="Iёлati Kaлiсko" languages="Tajik">Иёлати Халиско</name>
+		<name normalized="Kaлiсko" languages="Bulgarian;Macedonian;Ossetic;Russian;Serbian">Халиско</name>
+		<name normalized="Kaлiсka" languages="biлaрuсkai (taрaskivita)‎">Халіска</name>
+		<name normalized="Kaлiсko" languages="Ukrainian">Халіско</name>
+		<name normalized="Stat Kaлiсka" languages="Belarusian">Штат Халіска</name>
+		<name normalized="hדיסqv" languages="Hebrew">חליסקו</name>
+		<name normalized="jאلسکو" languages="Western Punjabi">جالسکو</name>
+		<name normalized="خאلسکو" languages="Urdu">خالسکو</name>
+		<name normalized="خאلیسکو" languages="Mazanderani;Persian">خالیسکو</name>
+		<name normalized="ولאyة خאلyسkو" languages="Arabic">ولاية خاليسكو</name>
+		<name normalized="hाlis्ko" languages="Marathi">हालिस्को</name>
+		<name normalized="รัฐฮาลิสโก" languages="Thai">รัฐฮาลิสโก</name>
+		<name normalized="ხალისკოს შტატი" languages="Georgian">ხალისკოს შტატი</name>
+		<name normalized="hrsk州" languages="Japanese">ハリスコ州</name>
+		<name normalized="哈利斯科州" languages="Chinese">哈利斯科州</name>
+		<name normalized="할리스코 주" languages="Korean">할리스코 주</name>
+	</region>
+	<region name="Mexico" type="state" typeTranslated="estado">
+		<name normalized="Mec'hiko" languages="Breton">Mec'hiko</name>
+		<name normalized="Meksiko" languages="Albanian;Croatian;Haitian;Turkish">Meksiko</name>
+		<name normalized="Mexico" languages="Bikol Central;Catalan;Cebuano;Danish;Dutch;English;French;Italian;Low Saxon (Netherlands);Malagasy;official;Polish;Romanian;Scots;Slovak;Swahili;Volapuk;Waray">Mexico</name>
+		<name normalized="Mexiko" languages="Alemannisch;Azerbaijani;Bavarian;Czech;German;Slovak">Mexiko</name>
+		<name normalized="Mexico" languages="Estonian;Finnish;Galician;Ido;Portuguese;Spanish;Voro">México</name>
+		<name normalized="Мikсiko" languages="Bulgarian;Macedonian;Serbian">Мексико</name>
+		<name normalized="Мikiko" languages="Bashkir;Chechen;Chuvash;Eastern Mari;Hill Mari;Kazakh;Lezghian;Mongolian;Ossetic;Russian;Sakha;Tajik;Tatar;Udmurt">Мехико</name>
+		<name normalized="Мikiko" languages="Ukrainian">Мехіко</name>
+		<name normalized="Мekika" languages="biлaрuсkai (taрaskivita)‎">Мэхіка</name>
+		<name normalized="מqסיqv" languages="Hebrew">מקסיקו</name>
+		<name normalized="mکزیک" languages="Persian">مکزیک</name>
+		<name normalized="mksk" languages="Japanese">メキシコ</name>
+		<name normalized="멕시코" languages="Korean">멕시코</name>
+	</region>
+	<region name="Michoacan de Ocampo" type="state" typeTranslated="estado">
+		<name normalized="Mechoacana" languages="Latin">Mechoacana</name>
+		<name normalized="Michhuahcan Ocampo" languages="Nahuatl">Michhuahcān Ocampo</name>
+		<name normalized="Michoacan" languages="Interlingua">Michoacan</name>
+		<name normalized="Michoacan de Ocampo" languages="English;official">Michoacan de Ocampo</name>
+		<name normalized="Michoacan" languages="Aragonese;Basque;Catalan;Cheyenne;Cornish;Croatian;Czech;Danish;English;Esperanto;Estonian;Finnish;French;Galician;German;Hungarian;Indonesian;Italian;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;Pampanga;Polish;Portuguese;Romanian;Romansh;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Tagalog;Turkish;Vietnamese;Waray;Welsh">Michoacán</name>
+		<name normalized="Michoacan de Ocampo" languages="Breton;Dutch;Piedmontese;Swedish">Michoacán de Ocampo</name>
+		<name normalized="Michoacan Hahoodzo" languages="Navajo">Michoacán Hahoodzo</name>
+		<name normalized="Michoacan suyu" languages="Quechua">Michoacán suyu</name>
+		<name normalized="Micoakana de Okampo" languages="Latvian">Mičoakana de Okampo</name>
+		<name normalized="Micoakanas" languages="Lithuanian">Mičoakanas</name>
+		<name normalized="Μιτσοακαν" languages="Greek">Μιτσοακάν</name>
+		<name normalized="Iёлati Мicoakaн di Okaмpo" languages="Tajik">Иёлати Мичоакан де Окампо</name>
+		<name normalized="Мicoakaн" languages="Bulgarian;Russian;Serbian">Мичоакан</name>
+		<name normalized="Мicaakaн" languages="biлaрuсkai (taрaskivita)‎">Мічаакан</name>
+		<name normalized="Мicoakaн" languages="Ukrainian">Мічоакан</name>
+		<name normalized="Stat Мicaakaн" languages="Belarusian">Штат Мічаакан</name>
+		<name normalized="mیچوآکאن" languages="Mazanderani;Persian">میچوآکان</name>
+		<name normalized="mیچوאکאن" languages="Western Punjabi">میچواکان</name>
+		<name normalized="ولאyة mytشوאkאن" languages="Arabic">ولاية ميتشواكان</name>
+		<name normalized="micoakाn" languages="Marathi">मिचोआकान</name>
+		<name normalized="รัฐมิโชอากัง" languages="Thai">รัฐมิโชอากัง</name>
+		<name normalized="მიჩოაკანის შტატი" languages="Georgian">მიჩოაკანის შტატი</name>
+		<name normalized="mtョakn州" languages="Japanese">ミチョアカン州</name>
+		<name normalized="米却肯州" languages="Chinese">米却肯州</name>
+		<name normalized="미초아칸 주" languages="Korean">미초아칸 주</name>
+	</region>
+	<region name="Morelos" type="state" typeTranslated="estado">
+		<name normalized="Morelos" languages="English;Esperanto;Norwegian (bokmal);official;Portuguese;Scots;Spanish">Morelos</name>
+		<name normalized="Municipio Morelos" languages="German">Municipio Morelos</name>
+	</region>
+	<region name="Nayarit" type="state" typeTranslated="estado">
+		<name normalized="Naiaritis" languages="Latin">Naiaritis</name>
+		<name normalized="Najarita" languages="Latvian">Najarita</name>
+		<name normalized="Najaritas" languages="Lithuanian">Najaritas</name>
+		<name normalized="Nayarit" languages="Aragonese;Basque;Breton;Catalan;Cheyenne;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Hungarian;Indonesian;Interlingua;Italian;Malagasy;Malay;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Piedmontese;Polish;Portuguese;Romanian;Romansh;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh">Nayarit</name>
+		<name normalized="Nayarit suyu" languages="Quechua">Nayarit suyu</name>
+		<name normalized="Ναγιαριτ" languages="Greek">Ναγιαρίτ</name>
+		<name normalized="Iёлati Нaiрit" languages="Tajik">Иёлати Наярит</name>
+		<name normalized="Нaiрit" languages="Bulgarian;Russian">Наярит</name>
+		<name normalized="Нaiрыt" languages="biлaрuсkai (taрaskivita)‎">Наярыт</name>
+		<name normalized="Нaiрit" languages="Ukrainian">Наяріт</name>
+		<name normalized="Нajaрit" languages="Serbian">Најарит</name>
+		<name normalized="Stat Нaiрыt" languages="Belarusian">Штат Наярыт</name>
+		<name normalized="nאיאrיt" languages="Hebrew">נאיאריט</name>
+		<name normalized="نאyאryt" languages="Arabic">ناياريت</name>
+		<name normalized="نאیאrیt" languages="Mazanderani;Persian">نایاریت</name>
+		<name normalized="نیאrt" languages="Western Punjabi">نیارت</name>
+		<name normalized="nाyाrit" languages="Marathi">नायारित</name>
+		<name normalized="รัฐนายาริต" languages="Thai">รัฐนายาริต</name>
+		<name normalized="ნაიარიტის შტატი" languages="Georgian">ნაიარიტის შტატი</name>
+		<name normalized="nyrtt州" languages="Japanese">ナヤリット州</name>
+		<name normalized="納亞里特州" languages="Chinese">納亞里特州</name>
+		<name normalized="나야리트 주" languages="Korean">나야리트 주</name>
+	</region>
+	<region name="Nuevo Leon" type="state" typeTranslated="estado">
+		<name normalized="Leon Baru" languages="Indonesian">León Baru</name>
+		<name normalized="Nova Legio" languages="Latin">Nova Legio</name>
+		<name normalized="Nuevo Leon" languages="Basque;English;Interlingua;official">Nuevo Leon</name>
+		<name normalized="Nuevo Leonas" languages="Lithuanian">Nuevo Leonas</name>
+		<name normalized="Nuevo Leon" languages="Aragonese;Asturian;Breton;Catalan;Cheyenne;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Italian;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;Pampanga;Piedmontese;Polish;Portuguese;Romanian;Romansh;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh">Nuevo León</name>
+		<name normalized="Nuevo Leon suyu" languages="Quechua">Nuevo León suyu</name>
+		<name normalized="Nuevoleona" languages="Latvian">Nuevoleona</name>
+		<name normalized="Yancuic Leon" languages="Nahuatl">Yancuīc León</name>
+		<name normalized="Uj-Leon" languages="Hungarian">Új-León</name>
+		<name normalized="Νουeβο Λεον" languages="Greek">Νουέβο Λεόν</name>
+		<name normalized="Iёлati Нuevo Лioн" languages="Tajik">Иёлати Нуэво Леон</name>
+		<name normalized="Нovi Лioн" languages="Serbian">Нови Леон</name>
+		<name normalized="Нuivo Лioн" languages="Bulgarian">Нуево Леон</name>
+		<name normalized="Нuivo-Лioн" languages="Ukrainian">Нуево-Леон</name>
+		<name normalized="Нueva-Лioн" languages="biлaрuсkai (taрaskivita)‎">Нуэва-Леон</name>
+		<name normalized="Нuevo-Лioн" languages="Ossetic;Russian">Нуэво-Леон</name>
+		<name normalized="Stat Нueva-Лioн" languages="Belarusian">Штат Нуэва-Леон</name>
+		<name normalized="نوئوو لئون" languages="Mazanderani;Persian">نوئوو لئون</name>
+		<name normalized="نیووو لیون" languages="Western Punjabi">نیووو لیون</name>
+		<name normalized="ولאyة نوyfو لyون" languages="Arabic">ولاية نويفو ليون</name>
+		<name normalized="nuev्ho leon" languages="Marathi">नुएव्हो लेओन</name>
+		<name normalized="รัฐนวยโวเลออง" languages="Thai">รัฐนวยโวเลออง</name>
+		<name normalized="ნუევო-ლეონის შტატი" languages="Georgian">ნუევო-ლეონის შტატი</name>
+		<name normalized="neb・ron州" languages="Japanese">ヌエボ・レオン州</name>
+		<name normalized="新萊昂州" languages="Chinese">新萊昂州</name>
+		<name normalized="누에보레온 주" languages="Korean">누에보레온 주</name>
+	</region>
+	<region name="Oaxaca" type="state" typeTranslated="estado">
+		<name normalized="Oaxaca" languages="English;official">Oaxaca</name>
+	</region>
+	<region name="Puebla" type="state" typeTranslated="estado">
+		<name normalized="Puebla" languages="English;official">Puebla</name>
+		<name normalized="pوئbلא" languages="Persian">پوئبلا</name>
+	</region>
+	<region name="Queretaro de Arteaga" type="state" typeTranslated="estado">
+		<name normalized="Delstaten Queretaro" languages="Norwegian Nynorsk">Delstaten Querétaro</name>
+		<name normalized="Keretaras" languages="Lithuanian">Keretaras</name>
+		<name normalized="Keretaro" languages="Latvian">Keretaro</name>
+		<name normalized="Queretaro" languages="Interlingua">Queretaro</name>
+		<name normalized="Queretaro de Arteaga" languages="English;official">Queretaro de Arteaga</name>
+		<name normalized="Queretarum" languages="Latin">Queretarum</name>
+		<name normalized="Queretaro" languages="Afrikaans;Aragonese;Basque;Breton;Catalan;Cheyenne;Cornish;Croatian;Czech;Danish;English;Esperanto;Estonian;Finnish;French;Galician;German;Hungarian;Indonesian;Italian;Malagasy;Malay;Nahuatl;Norwegian (bokmal);Occitan;Pampanga;Piedmontese;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Tagalog;Turkish;Vietnamese;Waray;Welsh">Querétaro</name>
+		<name normalized="Queretaro Arteaga" languages="Swedish">Querétaro Arteaga</name>
+		<name normalized="Queretaro de Arteaga" languages="Dutch;Romansh">Querétaro de Arteaga</name>
+		<name normalized="Queretaro suyu" languages="Quechua">Querétaro suyu</name>
+		<name normalized="Κερeταρο" languages="Greek">Κερέταρο</name>
+		<name normalized="Iёлati Kiрitaрo Aрtiaga" languages="Tajik">Иёлати Керетаро Артеага</name>
+		<name normalized="Kiрitaрo" languages="Bulgarian;Russian;Serbian;Ukrainian">Керетаро</name>
+		<name normalized="Kiрetaрa" languages="biлaрuсkai (taрaskivita)‎">Керэтара</name>
+		<name normalized="Stat Kiрetaрa" languages="Belarusian">Штат Керэтара</name>
+		<name normalized="ولאyة kوyrytאrو" languages="Arabic">ولاية كويريتارو</name>
+		<name normalized="کrtאrو" languages="Mazanderani;Persian">کرتارو</name>
+		<name normalized="کویrאٹאrو" languages="Western Punjabi">کویراٹارو</name>
+		<name normalized="keretाro" languages="Marathi">केरेतारो</name>
+		<name normalized="รัฐเกเรตาโร" languages="Thai">รัฐเกเรตาโร</name>
+		<name normalized="კერეტაროს შტატი" languages="Georgian">კერეტაროს შტატი</name>
+		<name normalized="krtr州" languages="Japanese">ケレタロ州</name>
+		<name normalized="克雷塔羅州" languages="Chinese">克雷塔羅州</name>
+		<name normalized="케레타로 주" languages="Korean">케레타로 주</name>
+	</region>
+	<region name="Quintana Roo" type="state" typeTranslated="estado">
+		<name normalized="Kintana Roo" languages="Latvian;Lithuanian">Kintana Roo</name>
+		<name normalized="Quintana Roo" languages="Aragonese;Basque;Breton;Catalan;Cheyenne;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Hungarian;Indonesian;Interlingua;Italian;Latin;Malagasy;Malay;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Piedmontese;Polish;Portuguese;Romanian;Romansh;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh">Quintana Roo</name>
+		<name normalized="Quintana Roo suyu" languages="Quechua">Quintana Roo suyu</name>
+		<name normalized="Κιντανα Ροο" languages="Greek">Κιντάνα Ρόο</name>
+		<name normalized="Iёлati Kiнtaнa Рoo" languages="Tajik">Иёлати Кинтана Роо</name>
+		<name normalized="Kiнtaнa Рo" languages="Bulgarian;Serbian">Кинтана Ро</name>
+		<name normalized="Kiнtaнa-Рoo" languages="Russian">Кинтана-Роо</name>
+		<name normalized="Kiнtaнa-Рoo" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Кінтана-Роо</name>
+		<name normalized="Stat Kiнtaнa-Рoa" languages="Belarusian">Штат Кінтана-Роа</name>
+		<name normalized="qיntnh rv" languages="Hebrew">קינטנה רו</name>
+		<name normalized="ولאyة kyنtאنא rو" languages="Arabic">ولاية كينتانا رو</name>
+		<name normalized="کونٹאنא rو" languages="Western Punjabi">کونٹانا رو</name>
+		<name normalized="کینtאنא rو" languages="Mazanderani;Persian">کینتانا رو</name>
+		<name normalized="kiंtाnा ro" languages="Marathi">किंताना रो</name>
+		<name normalized="รัฐกินตานาโร" languages="Thai">รัฐกินตานาโร</name>
+		<name normalized="კინტანა-როოს შტატი" languages="Georgian">კინტანა-როოს შტატი</name>
+		<name normalized="kntn・rー州" languages="Japanese">キンタナ・ロー州</name>
+		<name normalized="金塔納羅奧州" languages="Chinese">金塔納羅奧州</name>
+		<name normalized="킨타나로오 주" languages="Korean">킨타나로오 주</name>
+	</region>
+	<region name="San Luis Potosi" type="state" typeTranslated="estado">
+		<name normalized="San Luis Potosi" languages="English;official">San Luis Potosi</name>
+		<name normalized="San Luis Potosi" languages="English">San Luis Potosí</name>
+	</region>
+	<region name="Sinaloa" type="state" typeTranslated="estado">
+		<name normalized="Sinaloa" languages="Afrikaans;Aragonese;Basque;Breton;Catalan;Cheyenne;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Hungarian;Indonesian;Interlingua;Italian;Latin;Latvian;Lithuanian;Malagasy;Malay;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Piedmontese;Polish;Portuguese;Romanian;Romansh;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh">Sinaloa</name>
+		<name normalized="Sinaloa suyu" languages="Quechua">Sinaloa suyu</name>
+		<name normalized="Σιναλοα" languages="Greek">Σιναλόα</name>
+		<name normalized="Iёлati Сiнaлoa" languages="Tajik">Иёлати Синалоа</name>
+		<name normalized="Сiнaлoa" languages="Bulgarian;Russian;Serbian">Синалоа</name>
+		<name normalized="Сынaлёa" languages="biлaрuсkai (taрaskivita)‎">Сыналёа</name>
+		<name normalized="Сiнaлoa" languages="Ukrainian">Сіналоа</name>
+		<name normalized="Stat Сiнaлoa" languages="Belarusian">Штат Сіналоа</name>
+		<name normalized="سyنאلوא" languages="Arabic">سينالوا</name>
+		<name normalized="سینאلوآ" languages="Mazanderani;Persian">سینالوآ</name>
+		<name normalized="سینאلوא" languages="Western Punjabi">سینالوا</name>
+		<name normalized="sinाloa" languages="Marathi">सिनालोआ</name>
+		<name normalized="รัฐซีนาโลอา" languages="Thai">รัฐซีนาโลอา</name>
+		<name normalized="სინალოის შტატი" languages="Georgian">სინალოის შტატი</name>
+		<name normalized="snra州" languages="Japanese">シナロア州</name>
+		<name normalized="錫那羅亞州" languages="Chinese">錫那羅亞州</name>
+		<name normalized="시날로아 주" languages="Korean">시날로아 주</name>
+	</region>
+	<region name="Sonora" type="state" typeTranslated="estado">
+		<name normalized="Delstaten Sonora" languages="Norwegian Nynorsk">Delstaten Sonora</name>
+		<name normalized="Sonora" languages="Aragonese;Basque;Breton;Catalan;Cheyenne;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Hungarian;Ido;Indonesian;Interlingua;Italian;Latin;Latvian;Lithuanian;Malagasy;Malay;Nahuatl;Norwegian (bokmal);Occitan;official;Pampanga;Piedmontese;Polish;Portuguese;Romanian;Romansh;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh">Sonora</name>
+		<name normalized="Sonora Hahoodzo" languages="Navajo">Sonora Hahoodzo</name>
+		<name normalized="Sonora suyu" languages="Quechua">Sonora suyu</name>
+		<name normalized="Σονορα" languages="Greek">Σονόρα</name>
+		<name normalized="Iёлati Сoнoрa" languages="Tajik">Иёлати Сонора</name>
+		<name normalized="Сaнoрa" languages="biлaрuсkai (taрaskivita)‎">Санора</name>
+		<name normalized="Сoнoрa" languages="Bulgarian;Macedonian;Russian;Serbian;Ukrainian">Сонора</name>
+		<name normalized="Stat Сaнoрa" languages="Belarusian">Штат Санора</name>
+		<name normalized="סvnvrh" languages="Hebrew">סונורה</name>
+		<name normalized="אیאلt سونوrא" languages="Persian">ایالت سونورا</name>
+		<name normalized="سونوrא" languages="Western Punjabi">سونورا</name>
+		<name normalized="ولאyة سونوrא" languages="Arabic">ولاية سونورا</name>
+		<name normalized="sonorा" languages="Marathi">सोनोरा</name>
+		<name normalized="sonorা" languages="Bishnupria Manipuri">সোনোরা</name>
+		<name normalized="รัฐโซโนรา" languages="Thai">รัฐโซโนรา</name>
+		<name normalized="სონორის შტატი" languages="Georgian">სონორის შტატი</name>
+		<name normalized="snr州" languages="Japanese">ソノラ州</name>
+		<name normalized="索諾拉州" languages="Chinese">索諾拉州</name>
+		<name normalized="소노라 주" languages="Korean">소노라 주</name>
+	</region>
+	<region name="Tabasco" type="state" typeTranslated="estado">
+		<name normalized="Tabasco" languages="Aragonese;Basque;Breton;Catalan;Cheyenne;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Hungarian;Indonesian;Interlingua;Italian;Malagasy;Malay;Nahuatl;Norwegian (bokmal);Occitan;official;Pampanga;Piedmontese;Polish;Portuguese;Romanian;Romansh;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh">Tabasco</name>
+		<name normalized="Tabasco i Mexico" languages="Norwegian Nynorsk">Tabasco i Mexico</name>
+		<name normalized="Tabasco suyu" languages="Quechua">Tabasco suyu</name>
+		<name normalized="Tabascum" languages="Latin">Tabascum</name>
+		<name normalized="Tabaskas" languages="Lithuanian">Tabaskas</name>
+		<name normalized="Tabasko" languages="Latvian">Tabasko</name>
+		<name normalized="Ταμπασκο" languages="Greek">Ταμπάσκο</name>
+		<name normalized="Iёлati Tabaсko" languages="Tajik">Иёлати Табаско</name>
+		<name normalized="Tabaсka" languages="biлaрuсkai (taрaskivita)‎">Табаска</name>
+		<name normalized="Tabaсko" languages="Bulgarian;Russian;Serbian;Ukrainian">Табаско</name>
+		<name normalized="Stat Tabaсka" languages="Belarusian">Штат Табаска</name>
+		<name normalized="אیאلt tאbאسکو" languages="Persian">ایالت تاباسکو</name>
+		<name normalized="tאbאسkو" languages="Arabic">تاباسكو</name>
+		<name normalized="tאbאسکو אیאلt" languages="Mazanderani">تاباسکو ایالت</name>
+		<name normalized="ٹאbسکو" languages="Western Punjabi">ٹابسکو</name>
+		<name normalized="tाbाs्ko" languages="Marathi">ताबास्को</name>
+		<name normalized="ടബാസ്കോ" languages="Malayalam">ടബാസ്കോ</name>
+		<name normalized="รัฐตาบัสโก" languages="Thai">รัฐตาบัสโก</name>
+		<name normalized="ტაბასკოს შტატი" languages="Georgian">ტაბასკოს შტატი</name>
+		<name normalized="tbsk州" languages="Japanese">タバスコ州</name>
+		<name normalized="塔巴斯科州" languages="Chinese">塔巴斯科州</name>
+		<name normalized="타바스코 주" languages="Korean">타바스코 주</name>
+	</region>
+	<region name="Tamaulipas" type="state" typeTranslated="estado">
+		<name normalized="Tamaulipae" languages="Latin">Tamaulipae</name>
+		<name normalized="Tamaulipas" languages="Aragonese;Basque;Breton;Catalan;Cheyenne;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Hungarian;Indonesian;Interlingua;Italian;Malagasy;Malay;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Piedmontese;Polish;Portuguese;Romanian;Romansh;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh;Western Frisian">Tamaulipas</name>
+		<name normalized="Tamaulipas suyu" languages="Quechua">Tamaulipas suyu</name>
+		<name normalized="Tamaulipasa" languages="Latvian">Tamaulipasa</name>
+		<name normalized="Tamaulipasas" languages="Lithuanian">Tamaulipasas</name>
+		<name normalized="Ταμαουλιπας" languages="Greek">Ταμαουλίπας</name>
+		<name normalized="Iёлati Taмauлipaс" languages="Tajik">Иёлати Тамаулипас</name>
+		<name normalized="Taмauлipaс" languages="Bulgarian;Russian;Serbian">Тамаулипас</name>
+		<name normalized="Taмauлipaс" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Тамауліпас</name>
+		<name normalized="Stat Taмauлipaс" languages="Belarusian">Штат Тамауліпас</name>
+		<name normalized="tאmאئولیpאس" languages="Mazanderani;Persian">تامائولیپاس</name>
+		<name normalized="ولאyة tאmאولybאس" languages="Arabic">ولاية تاماوليباس</name>
+		<name normalized="ٹאmولیpאس" languages="Western Punjabi">ٹامولیپاس</name>
+		<name normalized="tाmalipाs" languages="Marathi">तामौलिपास</name>
+		<name normalized="รัฐตาเมาลีปัส" languages="Thai">รัฐตาเมาลีปัส</name>
+		<name normalized="ტამაულიპასის შტატი" languages="Georgian">ტამაულიპასის შტატი</name>
+		<name normalized="tmurps州" languages="Japanese">タマウリパス州</name>
+		<name normalized="塔毛利帕斯州" languages="Chinese">塔毛利帕斯州</name>
+		<name normalized="타마울리파스 주" languages="Korean">타마울리파스 주</name>
+	</region>
+	<region name="Tlaxcala" type="state" typeTranslated="estado">
+		<name normalized="Tlaskala" languages="Lithuanian">Tlaskala</name>
+		<name normalized="Tlaxcala" languages="Dutch;English;German;Italian;official;Polish;Simple English;Spanish;Swedish;Turkish">Tlaxcala</name>
+		<name normalized="Tлaсkaлa" languages="Russian">Тласкала</name>
+		<name normalized="trskr" languages="Japanese">トラスカラ</name>
+	</region>
+	<region name="Veracruz de Ignacio de la Llave" type="state" typeTranslated="estado">
+		<name normalized="Estado de Veracruz" languages="Galician">Estado de Veracruz</name>
+		<name normalized="Estat de Veracruz" languages="Catalan;Occitan">Estat de Veracruz</name>
+		<name normalized="Statul Veracruz" languages="Romanian">Statul Veracruz</name>
+		<name normalized="Vera Crux" languages="Latin">Vera Crux</name>
+		<name normalized="Veracruz" languages="Basque;Cornish;Croatian;Czech;Danish;English;Esperanto;Finnish;French;German;Hungarian;Indonesian;Italian;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Piedmontese;Polish;Portuguese;Romansh;Scots;Serbo-Croatian;Simple English;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh">Veracruz</name>
+		<name normalized="Veracruz de Ignacio de la Llave" languages="Aragonese;Breton;Dutch;English;Nahuatl;official;Spanish;Western Frisian">Veracruz de Ignacio de la Llave</name>
+		<name normalized="Veracruz suyu" languages="Quechua">Veracruz suyu</name>
+		<name normalized="Veracruzi osariik" languages="Estonian">Veracruzi osariik</name>
+		<name normalized="Verakrus" languages="Uzbek">Verakrus</name>
+		<name normalized="Verakrusa de Ignasio de la Ljave" languages="Latvian">Verakrusa de Ignasio de la Ljave</name>
+		<name normalized="Verakrusas" languages="Lithuanian">Verakrusas</name>
+		<name normalized="Βερακροuς" languages="Greek">Βερακρούς</name>
+		<name normalized="Viрakрuz" languages="Macedonian;Serbian">Веракруз</name>
+		<name normalized="Viрakрuс" languages="Bulgarian;Hill Mari;Ossetic;Russian;Ukrainian">Веракрус</name>
+		<name normalized="Veрakрuс" languages="biлaрuсkai (taрaskivita)‎">Вэракрус</name>
+		<name normalized="Iёлati Viрakрuс" languages="Tajik">Иёлати Веракрус</name>
+		<name normalized="Stat Viрakрuс" languages="Belarusian">Штат Веракрус</name>
+		<name normalized="vrאqrvס" languages="Hebrew">וראקרוס</name>
+		<name normalized="وrאکrوس" languages="Mazanderani;Persian">وراکروس</name>
+		<name normalized="ولאyة fyrאkrوز" languages="Arabic">ولاية فيراكروز</name>
+		<name normalized="ویrאکrوز" languages="Urdu;Western Punjabi">ویراکروز</name>
+		<name normalized="berाk्rut" languages="Marathi">बेराक्रुथ</name>
+		<name normalized="รัฐเวรากรูซ" languages="Thai">รัฐเวรากรูซ</name>
+		<name normalized="ဗေရကရုမြို့" languages="Burmese">ဗေရကရုမြို့</name>
+		<name normalized="ვერაკრუსის შტატი" languages="Georgian">ვერაკრუსის შტატი</name>
+		<name normalized="brkrs州" languages="Japanese">ベラクルス州</name>
+		<name normalized="韋拉克魯斯州" languages="Chinese">韋拉克魯斯州</name>
+		<name normalized="베라크루스 주" languages="Korean">베라크루스 주</name>
+	</region>
+	<region name="Yucatan" type="state" typeTranslated="estado">
+		<name normalized="Yucatan" languages="English;official">Yucatan</name>
+		<name normalized="Yucatan" languages="English">Yucatán</name>
+	</region>
+	<region name="Zacatecas" type="state" typeTranslated="estado">
+		<name normalized="Zacatecas" languages="English;official">Zacatecas</name>
+	</region>
+</regions>

@@ -1,0 +1,397 @@
+<regions country="Burundi">
+	<region name="Bubanza" type="province" typeTranslated="province">
+		<name normalized="Bubanza" languages="Breton;Danish;Dutch;English;French;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Rundi;Spanish;Swahili;Swedish">Bubanza</name>
+		<name normalized="Bubanza ili" languages="Turkish">Bubanza ili</name>
+		<name normalized="Bubanza probintzia" languages="Basque">Bubanza probintzia</name>
+		<name normalized="Bubanza Province" languages="English;official">Bubanza Province</name>
+		<name normalized="Bubanzan provinssi" languages="Finnish">Bubanzan provinssi</name>
+		<name normalized="IProvense ya Bubanza" languages="Rundi">IProvense ya Bubanza</name>
+		<name normalized="Mkoa wa Bubanza" languages="Swahili">Mkoa wa Bubanza</name>
+		<name normalized="Province de Bubanza" languages="French">Province de Bubanza</name>
+		<name normalized="Provincia Bubanza" languages="Romanian">Provincia Bubanza</name>
+		<name normalized="Provincia de Bubanza" languages="Galician;Spanish">Provincia de Bubanza</name>
+		<name normalized="Provincia di Bubanza" languages="Italian">Provincia di Bubanza</name>
+		<name normalized="Provinco Bubanza" languages="Esperanto">Provinco Bubanza</name>
+		<name normalized="Provinsi Bubanza" languages="Indonesian">Provinsi Bubanza</name>
+		<name normalized="Prowincja Bubanza" languages="Polish">Prowincja Bubanza</name>
+		<name normalized="Μπουμπανζα" languages="Greek">Μπουμπάνζα</name>
+		<name normalized="Bubaнza" languages="Bulgarian;Russian;biлaрuсkai (taрaskivita)‎">Бубанза</name>
+		<name normalized="bودאنزא, bوrوندی" languages="Persian">بودانزا، بوروندی</name>
+		<name normalized="bbnz県" languages="Japanese">ブバンザ県</name>
+		<name normalized="布班扎" languages="Chinese">布班扎</name>
+		<name normalized="布班扎省" languages="Chinese">布班扎省</name>
+		<name normalized="부반자 주" languages="Korean">부반자 주</name>
+	</region>
+	<region name="Bujumbura Mairie" type="province" typeTranslated="province">
+		<name normalized="Boujoumboura" languages="Haitian">Boujoumboura</name>
+		<name normalized="Bujumbura" languages="Afrikaans;Azerbaijani;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;Galician;German;Hungarian;Ido;Indonesian;Interlingue;Irish;Italian;Javanese;Kabyle;Kinyarwanda;Kurdish;Latin;Ligure;lumbaart;Luxembourgish;Malagasy;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;Piedmontese;Portuguese;Quechua;Romanian;Rundi;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Slovak;Somali;Swahili;Swedish;Tagalog;Turkish;Upper Sorbian;Vietnamese;veneto;Waray;Welsh;Wolof;Yoruba">Bujumbura</name>
+		<name normalized="Bujumbura linnaprovints" languages="Estonian">Bujumbura linnaprovints</name>
+		<name normalized="Bujumbura Mairie" languages="Dutch;English;Finnish;Galician;Norwegian (bokmal);official;Portuguese;Swedish">Bujumbura Mairie</name>
+		<name normalized="Bujumbura Mairie probintzia" languages="Basque">Bujumbura Mairie probintzia</name>
+		<name normalized="Bujumbura Mairie Province" languages="English;official">Bujumbura Mairie Province</name>
+		<name normalized="Bujumbura" languages="Lingala">Bujumbúra</name>
+		<name normalized="Buj.umbura" languages="Franco-Provencal">Buj·umbura</name>
+		<name normalized="Buyumbura" languages="Aragonese;Nahuatl;Spanish">Buyumbura</name>
+		<name normalized="Bujumburo" languages="Esperanto">Buĵumburo</name>
+		<name normalized="Buzumbura" languages="Polish">Bużumbura</name>
+		<name normalized="Buzumbura" languages="Latvian">Bužumbura</name>
+		<name normalized="Buzumbura" languages="Lithuanian">Bužumbūra</name>
+		<name normalized="Bujumbura" languages="Icelandic">Bújúmbúra</name>
+		<name normalized="Bujumbura" languages="Western Frisian">Bûjûmbûra</name>
+		<name normalized="Provincia Bujumbura Mairie" languages="Romanian">Provincia Bujumbura Mairie</name>
+		<name normalized="Provincia de Buyumbura Mairie" languages="Spanish">Provincia de Buyumbura Mairie</name>
+		<name normalized="Provincia di Bujumbura Mairie" languages="Italian">Provincia di Bujumbura Mairie</name>
+		<name normalized="Provinco Bujumbura Mairie" languages="Esperanto">Provinco Bujumbura Mairie</name>
+		<name normalized="Provinsi Bujumbura Mairie" languages="Indonesian">Provinsi Bujumbura Mairie</name>
+		<name normalized="Prowincja Miasto Buzumbura" languages="Polish">Prowincja Miasto Bużumbura</name>
+		<name normalized="Μπουζουμποuρα" languages="Greek">Μπουζουμπούρα</name>
+		<name normalized="Buzuмbuрa" languages="Bulgarian;Chechen;Hill Mari;Kyrgyz;Mongolian;Russian;Udmurt;Ukrainian;biлaрuсkai (taрaskivita)‎">Бужумбура</name>
+		<name normalized="Budzuмbuрa" languages="Macedonian;Serbian">Буџумбура</name>
+		<name normalized="Bucuмbuрa" languages="Tajik">Буҷумбура</name>
+		<name normalized="Goрad Buzuмbuрa" languages="Belarusian">Горад Бужумбура</name>
+		<name normalized="Bvyժvymbvyrա" languages="Armenian">Բուժումբուրա</name>
+		<name normalized="bvג'vמbvrh" languages="Hebrew">בוג'ומבורה</name>
+		<name normalized="bvזשvמbvrע" languages="Yiddish">בוזשומבורע</name>
+		<name normalized="bאjmbوrא" languages="Western Punjabi">باجمبورا</name>
+		<name normalized="bوjوmbrא" languages="Urdu">بوجومبرا</name>
+		<name normalized="bوjوmbوrא" languages="Arabic;Persian;Sorani Kurdish">بوجومبورا</name>
+		<name normalized="bujuंburा" languages="Marathi">बुजुंबुरा</name>
+		<name normalized="bujuੰburਾ" languages="Punjabi">ਬੁਜੁੰਬੁਰਾ</name>
+		<name normalized="ବୁଜୁମବୁରା" languages="Oriya">ବୁଜୁମବୁରା</name>
+		<name normalized="புசும்புரா" languages="Tamil">புசும்புரா</name>
+		<name normalized="บูจุมบูรา" languages="Thai">บูจุมบูรา</name>
+		<name normalized="བུ་ཇུམ་བུ་ར།" languages="Tibetan">བུ་ཇུམ་བུ་ར།</name>
+		<name normalized="ბუჟუმბურა" languages="Georgian">ბუჟუმბურა</name>
+		<name normalized="ቡጁምቡራ" languages="Amharic">ቡጁምቡራ</name>
+		<name normalized="bzynbr" languages="Japanese">ブジュンブラ</name>
+		<name normalized="布松布拉" languages="Cantonese">布松布拉</name>
+		<name normalized="布琼布拉" languages="Chinese">布琼布拉</name>
+		<name normalized="부줌부라" languages="Korean">부줌부라</name>
+	</region>
+	<region name="Bujumbura Rural" type="province" typeTranslated="province">
+		<name normalized="Bujumbura maaprovints" languages="Estonian">Bujumbura maaprovints</name>
+		<name normalized="Bujumbura Rural" languages="Breton;Dutch;English;Finnish;Galician;German;Norwegian (bokmal);official;Portuguese;Swedish">Bujumbura Rural</name>
+		<name normalized="Bujumbura Rural ili" languages="Turkish">Bujumbura Rural ili</name>
+		<name normalized="Bujumbura Rural probintzia" languages="Basque">Bujumbura Rural probintzia</name>
+		<name normalized="Bujumbura Rural Province" languages="English;official">Bujumbura Rural Province</name>
+		<name normalized="IProvense ya Bujumbura Rural" languages="Rundi">IProvense ya Bujumbura Rural</name>
+		<name normalized="Province de Bujumbura rural" languages="French">Province de Bujumbura rural</name>
+		<name normalized="Provincia Bujumbura Rurala" languages="Romanian">Provincia Bujumbura Rurală</name>
+		<name normalized="Provincia de Buyumbura Rural" languages="Spanish">Provincia de Buyumbura Rural</name>
+		<name normalized="Provincia di Bujumbura Rurale" languages="Italian">Provincia di Bujumbura Rurale</name>
+		<name normalized="Provinco Bujumbura Rural" languages="Esperanto">Provinco Bujumbura Rural</name>
+		<name normalized="Provinsi Bujumbura Rural" languages="Indonesian">Provinsi Bujumbura Rural</name>
+		<name normalized="Prowincja Buzumbura" languages="Polish">Prowincja Bużumbura</name>
+		<name normalized="Μπουζουμπουρα-Ρουραλ" languages="Greek">Μπουζουμπουρά-Ρουράλ</name>
+		<name normalized="Buzuмbuрa" languages="Bulgarian;Chechen;Hill Mari;Kyrgyz;Mongolian;Russian;Udmurt;Ukrainian;biлaрuсkai (taрaskivita)‎">Бужумбура</name>
+		<name normalized="Buzuмbuрa-Рuрaль" languages="biлaрuсkai (taрaskivita)‎">Бужумбура-Рураль</name>
+		<name normalized="bzynbr近郊県" languages="Japanese">ブジュンブラ近郊県</name>
+		<name normalized="布松布拉鄉村省" languages="Chinese">布松布拉鄉村省</name>
+		<name normalized="부줌부라 교외 주" languages="Korean">부줌부라 교외 주</name>
+	</region>
+	<region name="Bururi" type="province" typeTranslated="province">
+		<name normalized="Bururi" languages="Breton;Croatian;Danish;Dutch;English;Finnish;French;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Rundi;Swahili;Swedish">Bururi</name>
+		<name normalized="Bururi ili" languages="Turkish">Bururi ili</name>
+		<name normalized="Bururi probintzia" languages="Basque">Bururi probintzia</name>
+		<name normalized="Bururi Province" languages="English;official">Bururi Province</name>
+		<name normalized="Bururin provinssi" languages="Finnish">Bururin provinssi</name>
+		<name normalized="IProvense ya Bururi" languages="Rundi">IProvense ya Bururi</name>
+		<name normalized="Mkoa wa Bururi" languages="Swahili">Mkoa wa Bururi</name>
+		<name normalized="Province de Bururi" languages="French">Province de Bururi</name>
+		<name normalized="Provincia Bururi" languages="Romanian">Provincia Bururi</name>
+		<name normalized="Provincia de Bururi" languages="Asturian;Galician;Spanish">Provincia de Bururi</name>
+		<name normalized="Provincia di Bururi" languages="Italian">Provincia di Bururi</name>
+		<name normalized="Provinco Bururi" languages="Esperanto">Provinco Bururi</name>
+		<name normalized="Provinsi Bururi" languages="Indonesian">Provinsi Bururi</name>
+		<name normalized="Prowincja Bururi" languages="Polish">Prowincja Bururi</name>
+		<name normalized="Μπουροuρι" languages="Greek">Μπουρούρι</name>
+		<name normalized="Buрuрi" languages="Russian;Serbian">Бурури</name>
+		<name normalized="Buрuры" languages="biлaрuсkai (taрaskivita)‎">Буруры</name>
+		<name normalized="Buрuрi" languages="Ukrainian">Бурурі</name>
+		<name normalized="bوrوrی, bوrوندی" languages="Persian">بوروری، بوروندی</name>
+		<name normalized="brr県" languages="Japanese">ブルリ県</name>
+		<name normalized="布鲁里" languages="Chinese">布鲁里</name>
+		<name normalized="布鲁里省" languages="Chinese">布鲁里省</name>
+		<name normalized="부루리 주" languages="Korean">부루리 주</name>
+	</region>
+	<region name="Cankuzo" type="province" typeTranslated="province">
+		<name normalized="Cankuzo" languages="Breton;Dutch;English;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Rundi;Swahili;Swedish">Cankuzo</name>
+		<name normalized="Cankuzo ili" languages="Turkish">Cankuzo ili</name>
+		<name normalized="Cankuzo probintzia" languages="Basque">Cankuzo probintzia</name>
+		<name normalized="Cankuzo Province" languages="English;official">Cankuzo Province</name>
+		<name normalized="Cankuzon provinssi" languages="Finnish">Cankuzon provinssi</name>
+		<name normalized="IProvense ya Cankuzo" languages="Rundi">IProvense ya Cankuzo</name>
+		<name normalized="Mkoa wa Cankuzo" languages="Swahili">Mkoa wa Cankuzo</name>
+		<name normalized="Province de Cankuzo" languages="French">Province de Cankuzo</name>
+		<name normalized="Provincia Cankuzo" languages="Romanian">Provincia Cankuzo</name>
+		<name normalized="Provincia de Cankuzo" languages="Galician;Spanish">Provincia de Cankuzo</name>
+		<name normalized="Provincia di Cankuzo" languages="Italian">Provincia di Cankuzo</name>
+		<name normalized="Provinco Cankuzo" languages="Esperanto">Provinco Cankuzo</name>
+		<name normalized="Provinsi Cankuzo" languages="Indonesian">Provinsi Cankuzo</name>
+		<name normalized="Prowincja Cankuzo" languages="Polish">Prowincja Cankuzo</name>
+		<name normalized="Κανκοuζο" languages="Greek">Κανκούζο</name>
+		<name normalized="Kaнkuzo" languages="biлaрuсkai (taрaskivita)‎">Канкузо</name>
+		<name normalized="کאنکوزو, bوrوندی" languages="Persian">کانکوزو، بوروندی</name>
+		<name normalized="knkz県" languages="Japanese">カンクゾ県</name>
+		<name normalized="坎庫佐省" languages="Chinese">坎庫佐省</name>
+		<name normalized="캉쿠조 주" languages="Korean">캉쿠조 주</name>
+	</region>
+	<region name="Cibitoke" type="province" typeTranslated="province">
+		<name normalized="Cibitoke" languages="Breton;Danish;Dutch;English;Estonian;French;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Rundi;Swahili;Swedish">Cibitoke</name>
+		<name normalized="Cibitoke probintzia" languages="Basque">Cibitoke probintzia</name>
+		<name normalized="Cibitoke Province" languages="English;official">Cibitoke Province</name>
+		<name normalized="Cibitoke provints" languages="Estonian">Cibitoke provints</name>
+		<name normalized="Cibitoken provinssi" languages="Finnish">Cibitoken provinssi</name>
+		<name normalized="IProvense ya Cibitoke" languages="Rundi">IProvense ya Cibitoke</name>
+		<name normalized="Mkoa wa Cibitoke" languages="Swahili">Mkoa wa Cibitoke</name>
+		<name normalized="Province de Cibitoke" languages="French">Province de Cibitoke</name>
+		<name normalized="Provincia Cibitoke" languages="Romanian">Provincia Cibitoke</name>
+		<name normalized="Provincia de Cibitoke" languages="Galician;Spanish">Provincia de Cibitoke</name>
+		<name normalized="Provincia di Cibitoke" languages="Italian">Provincia di Cibitoke</name>
+		<name normalized="Provinco Cibitoke" languages="Esperanto">Provinco Cibitoke</name>
+		<name normalized="Provinsi Cibitoke" languages="Indonesian">Provinsi Cibitoke</name>
+		<name normalized="Prowincja Cibitoke" languages="Polish">Prowincja Cibitoke</name>
+		<name normalized="Κιμπιτοκε" languages="Greek">Κιμπιτόκε</name>
+		<name normalized="Kibitoki" languages="Russian">Кибитоке</name>
+		<name normalized="Kibitoki" languages="biлaрuсkai (taрaskivita)‎">Кібітоке</name>
+		<name normalized="سیbیtوک, bوrوندی" languages="Persian">سیبیتوک، بوروندی</name>
+		<name normalized="tbtk県" languages="Japanese">チビトケ県</name>
+		<name normalized="锡比托凯省" languages="Chinese">锡比托凯省</name>
+		<name normalized="키비토케 주" languages="Korean">키비토케 주</name>
+	</region>
+	<region name="Gitega" type="province" typeTranslated="province">
+		<name normalized="Gitega" languages="Breton;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Indonesian;Italian;Latin;Low German;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Rundi;Spanish;Swahili;Swedish">Gitega</name>
+		<name normalized="Gitega probintzia" languages="Basque">Gitega probintzia</name>
+		<name normalized="Gitega Province" languages="English;official">Gitega Province</name>
+		<name normalized="IProvense ya Gitega" languages="Rundi">IProvense ya Gitega</name>
+		<name normalized="Mkoa wa Gitega" languages="Swahili">Mkoa wa Gitega</name>
+		<name normalized="Province de Gitega" languages="French">Province de Gitega</name>
+		<name normalized="Provincia de Gitega" languages="Galician;Spanish">Provincia de Gitega</name>
+		<name normalized="Provincia di Gitega" languages="Italian">Provincia di Gitega</name>
+		<name normalized="Provincia Gitega" languages="Romanian">Provincia Gitega</name>
+		<name normalized="Provinsi Gitega" languages="Indonesian">Provinsi Gitega</name>
+		<name normalized="Prowincja Gitega" languages="Polish">Prowincja Gitega</name>
+		<name normalized="Γκιτeγκα" languages="Greek">Γκιτέγκα</name>
+		<name normalized="Gitiga" languages="Russian">Гитега</name>
+		<name normalized="Gitiga" languages="Ukrainian">Гітега</name>
+		<name normalized="Zыtega" languages="biлaрuсkai (taрaskivita)‎">Жытэга</name>
+		<name normalized="gیtgא, bوrوندی" languages="Persian">گیتگا، بوروندی</name>
+		<name normalized="กีเตกา" languages="Thai">กีเตกา</name>
+		<name normalized="gtg" languages="Japanese">ギテガ</name>
+		<name normalized="gtg県" languages="Japanese">ギテガ県</name>
+		<name normalized="基特加" languages="Chinese">基特加</name>
+		<name normalized="基特加省" languages="Chinese">基特加省</name>
+		<name normalized="기테가" languages="Korean">기테가</name>
+		<name normalized="기테가 주" languages="Korean">기테가 주</name>
+	</region>
+	<region name="Karuzi" type="province" typeTranslated="province">
+		<name normalized="IProvense ya Karuzi" languages="Rundi">IProvense ya Karuzi</name>
+		<name normalized="Karuzi" languages="Breton;Dutch;English;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Rundi;Swahili;Swedish">Karuzi</name>
+		<name normalized="Karuzi probintzia" languages="Basque">Karuzi probintzia</name>
+		<name normalized="Karuzi Province" languages="English;official">Karuzi Province</name>
+		<name normalized="Mkoa wa Karuzi" languages="Swahili">Mkoa wa Karuzi</name>
+		<name normalized="Province de Karuzi" languages="French">Province de Karuzi</name>
+		<name normalized="Provincia de Karuzi" languages="Galician;Spanish">Provincia de Karuzi</name>
+		<name normalized="Provincia di Karuzi" languages="Italian">Provincia di Karuzi</name>
+		<name normalized="Provincia Karuzi" languages="Romanian">Provincia Karuzi</name>
+		<name normalized="Prowincja Karuzi" languages="Polish">Prowincja Karuzi</name>
+		<name normalized="Καροuζι" languages="Greek">Καρούζι</name>
+		<name normalized="Kaрuzi" languages="biлaрuсkai (taрaskivita)‎">Карузі</name>
+		<name normalized="کאrوزی, bوrوندی" languages="Persian">کاروزی، بوروندی</name>
+		<name normalized="krz県" languages="Japanese">カルジ県</name>
+		<name normalized="卡鲁济省" languages="Chinese">卡鲁济省</name>
+		<name normalized="카루지 주" languages="Korean">카루지 주</name>
+	</region>
+	<region name="Kayanza" type="province" typeTranslated="province">
+		<name normalized="IProvense ya Kayanza" languages="Rundi">IProvense ya Kayanza</name>
+		<name normalized="Kayanza" languages="Breton;Dutch;English;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Rundi;Spanish;Swahili;Swedish">Kayanza</name>
+		<name normalized="Kayanza probintzia" languages="Basque">Kayanza probintzia</name>
+		<name normalized="Kayanza Province" languages="English;official">Kayanza Province</name>
+		<name normalized="Mkoa wa Kayanza" languages="Swahili">Mkoa wa Kayanza</name>
+		<name normalized="Province de Kayanza" languages="French">Province de Kayanza</name>
+		<name normalized="Provincia de Kayanza" languages="Galician;Spanish">Provincia de Kayanza</name>
+		<name normalized="Provincia di Kayanza" languages="Italian">Provincia di Kayanza</name>
+		<name normalized="Provincia Kayanza" languages="Romanian">Provincia Kayanza</name>
+		<name normalized="Prowincja Kayanza" languages="Polish">Prowincja Kayanza</name>
+		<name normalized="Καγιανζα" languages="Greek">Καγιάνζα</name>
+		<name normalized="Kaйaнza" languages="Ukrainian">Кайанза</name>
+		<name normalized="Kaiнza" languages="biлaрuсkai (taрaskivita)‎">Каянза</name>
+		<name normalized="کאیאنزא, bوrوندی" languages="Persian">کایانزا، بوروندی</name>
+		<name normalized="kynz県" languages="Japanese">カヤンザ県</name>
+		<name normalized="卡揚扎" languages="Chinese">卡揚扎</name>
+		<name normalized="卡揚扎省" languages="Chinese">卡揚扎省</name>
+		<name normalized="카얀자 주" languages="Korean">카얀자 주</name>
+	</region>
+	<region name="Kirundo" type="province" typeTranslated="province">
+		<name normalized="IProvense ya Kirundo" languages="Rundi">IProvense ya Kirundo</name>
+		<name normalized="Kirundo" languages="Breton;Dutch;English;Estonian;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Rundi;Swahili;Swedish">Kirundo</name>
+		<name normalized="Kirundo probintzia" languages="Basque">Kirundo probintzia</name>
+		<name normalized="Kirundo Province" languages="English;official">Kirundo Province</name>
+		<name normalized="Kirundo provints" languages="Estonian">Kirundo provints</name>
+		<name normalized="Mkoa wa Kirundo" languages="Swahili">Mkoa wa Kirundo</name>
+		<name normalized="Province de Kirundo" languages="French">Province de Kirundo</name>
+		<name normalized="Provincia de Kirundo" languages="Asturian;Galician;Spanish">Provincia de Kirundo</name>
+		<name normalized="Provincia di Kirundo" languages="Italian">Provincia di Kirundo</name>
+		<name normalized="Provincia Kirundo" languages="Romanian">Provincia Kirundo</name>
+		<name normalized="Provinco Kirundo" languages="Esperanto">Provinco Kirundo</name>
+		<name normalized="Provinsi Kirundo" languages="Indonesian">Provinsi Kirundo</name>
+		<name normalized="Prowincja Kirundo" languages="Polish">Prowincja Kirundo</name>
+		<name normalized="Κιροuντο" languages="Greek">Κιρούντο</name>
+		<name normalized="Kiрuнdo" languages="biлaрuсkai (taрaskivita)‎">Кірундо</name>
+		<name normalized="کیrوندو, bوrوندی" languages="Persian">کیروندو، بوروندی</name>
+		<name normalized="krnd県" languages="Japanese">キルンド県</name>
+		<name normalized="基龍多省" languages="Chinese">基龍多省</name>
+		<name normalized="키룬도 주" languages="Korean">키룬도 주</name>
+	</region>
+	<region name="Makamba" type="province" typeTranslated="province">
+		<name normalized="IProvense ya Makamba" languages="Rundi">IProvense ya Makamba</name>
+		<name normalized="Makamba" languages="Breton;Dutch;English;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Rundi;Swahili;Swedish">Makamba</name>
+		<name normalized="Makamba probintzia" languages="Basque">Makamba probintzia</name>
+		<name normalized="Makamba Province" languages="English;official">Makamba Province</name>
+		<name normalized="Makamban provinssi" languages="Finnish">Makamban provinssi</name>
+		<name normalized="Mkoa wa Makamba" languages="Swahili">Mkoa wa Makamba</name>
+		<name normalized="Province de Makamba" languages="French">Province de Makamba</name>
+		<name normalized="Provincia de Makamba" languages="Galician;Spanish">Provincia de Makamba</name>
+		<name normalized="Provincia di Makamba" languages="Italian">Provincia di Makamba</name>
+		<name normalized="Provincia Makamba" languages="Romanian">Provincia Makamba</name>
+		<name normalized="Provinsi Makamba" languages="Indonesian">Provinsi Makamba</name>
+		<name normalized="Prowincja Makamba" languages="Polish">Prowincja Makamba</name>
+		<name normalized="Μακαμπα" languages="Greek">Μακάμπα</name>
+		<name normalized="Мakaмba" languages="Russian;biлaрuсkai (taрaskivita)‎">Макамба</name>
+		<name normalized="mאکאmbא, bوrوندی" languages="Persian">ماکامبا، بوروندی</name>
+		<name normalized="mknb県" languages="Japanese">マカンバ県</name>
+		<name normalized="馬坎巴省" languages="Chinese">馬坎巴省</name>
+		<name normalized="마캄바 주" languages="Korean">마캄바 주</name>
+	</region>
+	<region name="Muramvya" type="province" typeTranslated="province">
+		<name normalized="IProvense ya Muramvya" languages="Rundi">IProvense ya Muramvya</name>
+		<name normalized="Mkoa wa Muramvya" languages="Swahili">Mkoa wa Muramvya</name>
+		<name normalized="Muramvya" languages="Breton;Dutch;English;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Rundi;Spanish;Swahili;Swedish">Muramvya</name>
+		<name normalized="Muramvya probintzia" languages="Basque">Muramvya probintzia</name>
+		<name normalized="Muramvya Province" languages="English;official">Muramvya Province</name>
+		<name normalized="Province de Muramvya" languages="French">Province de Muramvya</name>
+		<name normalized="Provincia de Muramvya" languages="Galician;Spanish">Provincia de Muramvya</name>
+		<name normalized="Provincia di Muramvya" languages="Italian">Provincia di Muramvya</name>
+		<name normalized="Provincia Muramvya" languages="Romanian">Provincia Muramvya</name>
+		<name normalized="Provinco Muramvya" languages="Esperanto">Provinco Muramvya</name>
+		<name normalized="Provinsi Muramvya" languages="Indonesian">Provinsi Muramvya</name>
+		<name normalized="Prowincja Muramvya" languages="Polish">Prowincja Muramvya</name>
+		<name normalized="Μουραμβια" languages="Greek">Μουράμβια</name>
+		<name normalized="Мuрaмvьi" languages="Russian">Мурамвья</name>
+		<name normalized="Мuрaмvii" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Мурамвія</name>
+		<name normalized="mوrאmویא, bوrوندی" languages="Persian">مورامویا، بوروندی</name>
+		<name normalized="mrnviy県" languages="Japanese">ムランヴィヤ県</name>
+		<name normalized="穆拉姆维亚" languages="Chinese">穆拉姆维亚</name>
+		<name normalized="穆拉姆维亚省" languages="Chinese">穆拉姆维亚省</name>
+		<name normalized="무람비야 주" languages="Korean">무람비야 주</name>
+	</region>
+	<region name="Muyinga" type="province" typeTranslated="province">
+		<name normalized="IProvense ya Muyinga" languages="Rundi">IProvense ya Muyinga</name>
+		<name normalized="Mkoa wa Muyinga" languages="Swahili">Mkoa wa Muyinga</name>
+		<name normalized="Muyinga" languages="Breton;Danish;Dutch;English;Estonian;French;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Rundi;Spanish;Swahili;Swedish">Muyinga</name>
+		<name normalized="Muyinga probintzia" languages="Basque">Muyinga probintzia</name>
+		<name normalized="Muyinga Province" languages="English;official">Muyinga Province</name>
+		<name normalized="Muyingan provinssi" languages="Finnish">Muyingan provinssi</name>
+		<name normalized="Province de Muyinga" languages="French">Province de Muyinga</name>
+		<name normalized="Provincia de Muyinga" languages="Galician;Spanish">Provincia de Muyinga</name>
+		<name normalized="Provincia di Muyinga" languages="Italian">Provincia di Muyinga</name>
+		<name normalized="Provincia Muyinga" languages="Romanian">Provincia Muyinga</name>
+		<name normalized="Provinsi Muyinga" languages="Indonesian">Provinsi Muyinga</name>
+		<name normalized="Prowincja Muyinga" languages="Polish">Prowincja Muyinga</name>
+		<name normalized="Μουγινγκα" languages="Greek">Μουγίνγκα</name>
+		<name normalized="Мuйiнga" languages="Russian">Муйинга</name>
+		<name normalized="Мuiнga" languages="biлaрuсkai (taрaskivita)‎">Муінга</name>
+		<name normalized="mویینgא, bوrوندی" languages="Persian">مویینگا، بوروندی</name>
+		<name normalized="ming県" languages="Japanese">ムインガ県</name>
+		<name normalized="穆因加" languages="Chinese">穆因加</name>
+		<name normalized="穆因加省" languages="Chinese">穆因加省</name>
+		<name normalized="무잉가 주" languages="Korean">무잉가 주</name>
+	</region>
+	<region name="Mwaro" type="province" typeTranslated="province">
+		<name normalized="IProvense ya Mwaro" languages="Rundi">IProvense ya Mwaro</name>
+		<name normalized="Mkoa wa Mwaro" languages="Swahili">Mkoa wa Mwaro</name>
+		<name normalized="Mwaro" languages="Breton;Dutch;English;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Rundi;Swahili;Swedish">Mwaro</name>
+		<name normalized="Mwaro probintzia" languages="Basque">Mwaro probintzia</name>
+		<name normalized="Mwaro Province" languages="English;official">Mwaro Province</name>
+		<name normalized="Province de Mwaro" languages="French">Province de Mwaro</name>
+		<name normalized="Provincia de Mwaro" languages="Galician;Spanish">Provincia de Mwaro</name>
+		<name normalized="Provincia di Mwaro" languages="Italian">Provincia di Mwaro</name>
+		<name normalized="Provincia Mwaro" languages="Romanian">Provincia Mwaro</name>
+		<name normalized="Provinsi Mwaro" languages="Indonesian">Provinsi Mwaro</name>
+		<name normalized="Prowincja Mwaro" languages="Polish">Prowincja Mwaro</name>
+		<name normalized="Μουαρο" languages="Greek">Μουάρο</name>
+		<name normalized="Мvaрo" languages="biлaрuсkai (taрaskivita)‎">Мваро</name>
+		<name normalized="mوאrو, bوrوندی" languages="Persian">موارو، بوروندی</name>
+		<name normalized="mwr県" languages="Japanese">ムワロ県</name>
+		<name normalized="穆瓦洛" languages="Chinese">穆瓦洛</name>
+		<name normalized="穆瓦洛省" languages="Chinese">穆瓦洛省</name>
+		<name normalized="음와로 주" languages="Korean">음와로 주</name>
+	</region>
+	<region name="Ngozi" type="province" typeTranslated="province">
+		<name normalized="IProvense ya Ngozi" languages="Rundi">IProvense ya Ngozi</name>
+		<name normalized="Mkoa wa Ngozi" languages="Swahili">Mkoa wa Ngozi</name>
+		<name normalized="Ngozi" languages="Breton;Croatian;Danish;Dutch;English;French;German;Indonesian;Italian;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Rundi;Spanish;Swahili;Swedish">Ngozi</name>
+		<name normalized="Ngozi probintzia" languages="Basque">Ngozi probintzia</name>
+		<name normalized="Ngozi Province" languages="English;official">Ngozi Province</name>
+		<name normalized="Province de Ngozi" languages="French">Province de Ngozi</name>
+		<name normalized="Provincia de Ngozi" languages="Galician;Spanish">Provincia de Ngozi</name>
+		<name normalized="Provincia di Ngozi" languages="Italian">Provincia di Ngozi</name>
+		<name normalized="Provincia Ngozi" languages="Romanian">Provincia Ngozi</name>
+		<name normalized="Provinsi Ngozi" languages="Indonesian">Provinsi Ngozi</name>
+		<name normalized="Prowincja Ngozi" languages="Polish">Prowincja Ngozi</name>
+		<name normalized="Νγκοζι" languages="Greek">Νγκόζι</name>
+		<name normalized="Нgazi" languages="biлaрuсkai (taрaskivita)‎">Нгазі</name>
+		<name normalized="Нgozi" languages="Russian">Нгози</name>
+		<name normalized="Нgozi" languages="Ukrainian">Нгозі</name>
+		<name normalized="אسtאن نgوزی" languages="Persian">استان نگوزی</name>
+		<name normalized="نgوزی, bوrوندی" languages="Persian">نگوزی، بوروندی</name>
+		<name normalized="ngz県" languages="Japanese">ンゴジ県</name>
+		<name normalized="恩戈齊" languages="Chinese">恩戈齊</name>
+		<name normalized="恩戈齊省" languages="Chinese">恩戈齊省</name>
+		<name normalized="응고지 주" languages="Korean">응고지 주</name>
+	</region>
+	<region name="Rutana" type="province" typeTranslated="province">
+		<name normalized="IProvense ya Rutana" languages="Rundi">IProvense ya Rutana</name>
+		<name normalized="Mkoa wa Rutana" languages="Swahili">Mkoa wa Rutana</name>
+		<name normalized="Province de Rutana" languages="French">Province de Rutana</name>
+		<name normalized="Provincia de Rutana" languages="Galician;Spanish">Provincia de Rutana</name>
+		<name normalized="Provincia di Rutana" languages="Italian">Provincia di Rutana</name>
+		<name normalized="Provincia Rutana" languages="Romanian">Provincia Rutana</name>
+		<name normalized="Provinsi Rutana" languages="Indonesian">Provinsi Rutana</name>
+		<name normalized="Prowincja Rutana" languages="Polish">Prowincja Rutana</name>
+		<name normalized="Rutana" languages="Breton;Danish;Dutch;English;Finnish;French;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Rundi;Swahili;Swedish">Rutana</name>
+		<name normalized="Rutana probintzia" languages="Basque">Rutana probintzia</name>
+		<name normalized="Rutana Province" languages="English;official">Rutana Province</name>
+		<name normalized="Rutanan provinssi" languages="Finnish">Rutanan provinssi</name>
+		<name normalized="Ρουτανα" languages="Greek">Ρουτάνα</name>
+		<name normalized="Рutaнa" languages="Russian;biлaрuсkai (taрaskivita)‎">Рутана</name>
+		<name normalized="rوtאنא, bوrوندی" languages="Persian">روتانا، بوروندی</name>
+		<name normalized="rtn県" languages="Japanese">ルタナ県</name>
+		<name normalized="魯塔納" languages="Chinese">魯塔納</name>
+		<name normalized="魯塔納省" languages="Chinese">魯塔納省</name>
+		<name normalized="루타나 주" languages="Korean">루타나 주</name>
+	</region>
+	<region name="Ruyigi" type="province" typeTranslated="province">
+		<name normalized="IProvense ya Ruyigi" languages="Rundi">IProvense ya Ruyigi</name>
+		<name normalized="Mkoa wa Ruyigi" languages="Swahili">Mkoa wa Ruyigi</name>
+		<name normalized="Province de Ruyigi" languages="French">Province de Ruyigi</name>
+		<name normalized="Provincia de Ruyigi" languages="Galician;Spanish">Provincia de Ruyigi</name>
+		<name normalized="Provincia di Ruyigi" languages="Italian">Provincia di Ruyigi</name>
+		<name normalized="Provincia Ruyigi" languages="Romanian">Provincia Ruyigi</name>
+		<name normalized="Provinco Ruyigi" languages="Esperanto">Provinco Ruyigi</name>
+		<name normalized="Provinsi Ruyigi" languages="Indonesian">Provinsi Ruyigi</name>
+		<name normalized="Prowincja Ruyigi" languages="Polish">Prowincja Ruyigi</name>
+		<name normalized="Ruyigi" languages="Breton;Dutch;English;French;German;Italian;Latin;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Rundi;Spanish;Swahili;Swedish">Ruyigi</name>
+		<name normalized="Ruyigi probintzia" languages="Basque">Ruyigi probintzia</name>
+		<name normalized="Ruyigi Province" languages="English;official">Ruyigi Province</name>
+		<name normalized="Ruyigin provinssi" languages="Finnish">Ruyigin provinssi</name>
+		<name normalized="Ρουγιγκι" languages="Greek">Ρουγίγκι</name>
+		<name normalized="Рuйigi" languages="Russian">Руйиги</name>
+		<name normalized="Рuigi" languages="biлaрuсkai (taрaskivita)‎">Руігі</name>
+		<name normalized="rوییgی, bوrوندی" languages="Persian">روییگی، بوروندی</name>
+		<name normalized="rig県" languages="Japanese">ルイギ県</name>
+		<name normalized="鲁伊吉" languages="Chinese">鲁伊吉</name>
+		<name normalized="鲁伊吉省" languages="Chinese">鲁伊吉省</name>
+		<name normalized="루이기 주" languages="Korean">루이기 주</name>
+	</region>
+</regions>

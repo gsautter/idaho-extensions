@@ -1,0 +1,202 @@
+<regions country="Mauritius">
+	<region name="Agalega Islands" type="dependency" typeTranslated="dependency">
+		<name normalized="Agalega" languages="Estonian;Galician;Italian;Lithuanian;Portuguese;Swedish">Agalega</name>
+		<name normalized="Agalega Islands" languages="English;official">Agalega Islands</name>
+		<name normalized="Agalega-eilanden" languages="Dutch">Agalega-eilanden</name>
+		<name normalized="Agalega-Inseln" languages="German">Agalega-Inseln</name>
+		<name normalized="Agalegaoyene" languages="Norwegian (bokmal)">Agalegaøyene</name>
+		<name normalized="Agalega" languages="English;French">Agaléga</name>
+		<name normalized="Agalega Adaları" languages="Turkish">Agaléga Adaları</name>
+		<name normalized="Islas Agalega" languages="Spanish">Islas Agalega</name>
+		<name normalized="Islles Agalega" languages="Asturian">Islles Agalega</name>
+		<name normalized="Wyspy Agalega" languages="Polish">Wyspy Agalega</name>
+		<name normalized="Awon Erekusu Agalega" languages="Yoruba">Àwọn Erékùṣù Agalega</name>
+		<name normalized="Agaлiga" languages="Russian;Ukrainian">Агалега</name>
+		<name normalized="Agaлiga oсtрva" languages="Serbian">Агалега острва</name>
+		<name normalized="jزאیr آgאلgא" languages="Persian">جزایر آگالگا</name>
+		<name normalized="agrg諸島" languages="Japanese">アガレガ諸島</name>
+		<name normalized="阿加萊加群島" languages="Cantonese;Chinese">阿加萊加群島</name>
+		<name normalized="아갈레가 제도" languages="Korean">아갈레가 제도</name>
+	</region>
+	<region name="Black River" type="district" typeTranslated="district">
+		<name normalized="Black River" languages="Breton;Dutch;English;French;German;Javanese;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Spanish;Swedish">Black River</name>
+		<name normalized="Black River District" languages="English;official">Black River District</name>
+		<name normalized="Blek Riverio rajonas" languages="Lithuanian">Blek Riverio rajonas</name>
+		<name normalized="Distretto di Black River" languages="Italian">Distretto di Black River</name>
+		<name normalized="Districtul Black River" languages="Romanian">Districtul Black River</name>
+		<name normalized="Distrito de Black River" languages="Spanish">Distrito de Black River</name>
+		<name normalized="Riviere Noire" languages="French">Rivière Noire</name>
+		<name normalized="Riviere Noire District" languages="English">Rivière Noire District</name>
+		<name normalized="Bлik Рiviр Мauрitijuс" languages="Serbian">Блек Ривер Маурицијус</name>
+		<name normalized="Рivьiр-Нuaр" languages="Russian">Ривьер-Нуар</name>
+		<name normalized="אلنhr אلأسود" languages="Arabic">النهر الأسود</name>
+		<name normalized="brtkrbー県" languages="Japanese">ブラックリバー県</name>
+		<name normalized="黑河區" languages="Chinese">黑河區</name>
+		<name normalized="블랙리버 구" languages="Korean">블랙리버 구</name>
+	</region>
+	<region name="Cargados Carajos Shoals" type="dependency" typeTranslated="dependency">
+		<name normalized="Cargados Carajos" languages="Breton;Danish;Dutch;Estonian;Galician;Norwegian (bokmal);Polish;Portuguese;Romanian;Spanish;Swedish;Yoruba">Cargados Carajos</name>
+		<name normalized="Cargados Carajos Shoals" languages="English;official">Cargados Carajos Shoals</name>
+		<name normalized="Cargados-Carajos-Inseln" languages="German">Cargados-Carajos-Inseln</name>
+		<name normalized="Kargados Karachos" languages="Lithuanian">Kargados Karachos</name>
+		<name normalized="Saint Brandon" languages="Italian">Saint Brandon</name>
+		<name normalized="Saint-Brandon" languages="French">Saint-Brandon</name>
+		<name normalized="St. Brandon" languages="English">St. Brandon</name>
+		<name normalized="Kaрgadoс Kaрakoс" languages="Serbian">Каргадос Карахос</name>
+		<name normalized="Kaрgadoс-Kaрakoс" languages="Bulgarian;Russian">Каргадос-Карахос</name>
+		<name normalized="krgds・krhs諸島" languages="Japanese">カルガドス・カラホス諸島</name>
+		<name normalized="卡加多斯-卡拉若斯群岛" languages="Chinese">卡加多斯-卡拉若斯群岛</name>
+		<name normalized="카르가도스 카라호스 제도" languages="Korean">카르가도스 카라호스 제도</name>
+	</region>
+	<region name="Flacq" type="district" typeTranslated="district">
+		<name normalized="Districtul Flacq" languages="Romanian">Districtul Flacq</name>
+		<name normalized="Distrito de Flacq" languages="Spanish">Distrito de Flacq</name>
+		<name normalized="Flacq" languages="Dutch;English;French;German;Italian;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Swedish">Flacq</name>
+		<name normalized="Flacq District" languages="English;official">Flacq District</name>
+		<name normalized="Flako rajonas" languages="Lithuanian">Flako rajonas</name>
+		<name normalized="Флak" languages="Russian;Serbian">Флак</name>
+		<name normalized="hrtk県" languages="Japanese">フラック県</name>
+		<name normalized="弗拉克區" languages="Chinese">弗拉克區</name>
+		<name normalized="플라크 구" languages="Korean">플라크 구</name>
+	</region>
+	<region name="Grand Port" type="district" typeTranslated="district">
+		<name normalized="Districtul Grand Port" languages="Romanian">Districtul Grand Port</name>
+		<name normalized="Distrito de Grand Port" languages="Spanish">Distrito de Grand Port</name>
+		<name normalized="Gran Porto rajonas" languages="Lithuanian">Gran Porto rajonas</name>
+		<name normalized="Grand Port" languages="Dutch;English;French;German;Italian;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Swedish">Grand Port</name>
+		<name normalized="Grand Port District" languages="English;official">Grand Port District</name>
+		<name normalized="Gрaнd Poрt" languages="Serbian">Гранд Порт</name>
+		<name normalized="Gрaнd-Poрt" languages="Russian">Гранд-Порт</name>
+		<name normalized="grn・pーr県" languages="Japanese">グラン・ポール県</name>
+		<name normalized="大港區" languages="Chinese">大港區</name>
+		<name normalized="그랑포르 구" languages="Korean">그랑포르 구</name>
+	</region>
+	<region name="Moka" type="district" typeTranslated="district">
+		<name normalized="Distretto di Moka" languages="Italian">Distretto di Moka</name>
+		<name normalized="Districtul Moka" languages="Romanian">Districtul Moka</name>
+		<name normalized="Distrito de Moka" languages="Spanish">Distrito de Moka</name>
+		<name normalized="Moka" languages="Dutch;English;French;German;Italian;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Swedish">Moka</name>
+		<name normalized="Moka District" languages="English;official">Moka District</name>
+		<name normalized="Mokos rajonas" languages="Lithuanian">Mokos rajonas</name>
+		<name normalized="Мoka" languages="Russian">Мока</name>
+		<name normalized="Мoka Мauрitijuс" languages="Serbian">Мока Маурицијус</name>
+		<name normalized="மோக்கா மாவட்டம்" languages="Tamil">மோக்கா மாவட்டம்</name>
+		<name normalized="mk県" languages="Japanese">モカ県</name>
+		<name normalized="莫卡區" languages="Chinese">莫卡區</name>
+		<name normalized="모카 구" languages="Korean">모카 구</name>
+	</region>
+	<region name="Pamplemousses" type="district" typeTranslated="district">
+		<name normalized="Districtul Pamplemousses" languages="Romanian">Districtul Pamplemousses</name>
+		<name normalized="Distrito de Pamplemousses" languages="Spanish">Distrito de Pamplemousses</name>
+		<name normalized="Pamplemousses" languages="Dutch;English;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Swedish">Pamplemousses</name>
+		<name normalized="Pamplemousses District" languages="English;official">Pamplemousses District</name>
+		<name normalized="Pamplemuso rajonas" languages="Lithuanian">Pamplemuso rajonas</name>
+		<name normalized="Paмpлiмuс" languages="Russian">Памплемус</name>
+		<name normalized="pnprmーs県" languages="Japanese">パンプルムース県</name>
+		<name normalized="龐波慕斯區" languages="Chinese">龐波慕斯區</name>
+		<name normalized="팜플레무스 구" languages="Korean">팜플레무스 구</name>
+	</region>
+	<region name="Plaines Wilhems" type="district" typeTranslated="district">
+		<name normalized="Districtul Plaines Wilhems" languages="Romanian">Districtul Plaines Wilhems</name>
+		<name normalized="Distrito de Plaines Wilhems" languages="Spanish">Distrito de Plaines Wilhems</name>
+		<name normalized="Plaines Wilhems" languages="Dutch;English;French;German;Italian;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Swedish">Plaines Wilhems</name>
+		<name normalized="Plaines Wilhems District" languages="English;official">Plaines Wilhems District</name>
+		<name normalized="Plen Vilemo rajonas" languages="Lithuanian">Plen Vilemo rajonas</name>
+		<name normalized="Pлiн-Viлiм" languages="Russian">Плен-Вилем</name>
+		<name normalized="பிலெய்ன்சு வில்ஹெம்சு மாவட்டம்" languages="Tamil">பிலெய்ன்சு வில்ஹெம்சு மாவட்டம்</name>
+		<name normalized="prーn・uirhrm県" languages="Japanese">プレーン・ウィルヘルム県</name>
+		<name normalized="威廉平原區" languages="Chinese">威廉平原區</name>
+		<name normalized="플랭윌렐름 구" languages="Korean">플랭윌렐름 구</name>
+	</region>
+	<region name="Port Louis" type="district" typeTranslated="district">
+		<name normalized="Bort Lois" languages="Somali">Bort Lois</name>
+		<name normalized="Distretto di Port Louis" languages="Italian">Distretto di Port Louis</name>
+		<name normalized="Districtul Port Louis" languages="Romanian">Districtul Port Louis</name>
+		<name normalized="Distrito de Port Louis" languages="Spanish">Distrito de Port Louis</name>
+		<name normalized="Port Lois" languages="Icelandic">Port Lois</name>
+		<name normalized="Port Louis" languages="Afrikaans;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;Galician;German;Hungarian;Ido;Indonesian;Interlingue;Italian;Javanese;lumbaart;Luxembourgish;Malagasy;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Polish;Portuguese;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Slovak;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Volapuk;veneto;Waray;Welsh;Western Frisian;Yoruba">Port Louis</name>
+		<name normalized="Port Louis District" languages="English;official">Port Louis District</name>
+		<name normalized="Port Louis ilcesi" languages="Turkish">Port Louis ilçesi</name>
+		<name normalized="Port Luis" languages="Piedmontese">Port Luis</name>
+		<name normalized="Port Luisas" languages="Lithuanian">Port Luisas</name>
+		<name normalized="Port Luiso rajonas" languages="Lithuanian">Port Luiso rajonas</name>
+		<name normalized="Port Luiz" languages="Azerbaijani">Port Luiz</name>
+		<name normalized="Port-Louis" languages="French">Port-Louis</name>
+		<name normalized="Port-Luiso" languages="Esperanto">Port-Luiso</name>
+		<name normalized="Portlui" languages="Latvian">Portluī</name>
+		<name normalized="Portus Ludovici" languages="Latin">Portus Ludovici</name>
+		<name normalized="Po-Loui" languages="Haitian">Pò-Loui</name>
+		<name normalized="Πορ-Λουι" languages="Greek">Πορ-Λουί</name>
+		<name normalized="Goрad Poрt-Лui" languages="Belarusian">Горад Порт-Луі</name>
+		<name normalized="Poрt Лui" languages="Bulgarian;Chuvash">Порт Луи</name>
+		<name normalized="Poрt Лuiс" languages="Macedonian;Serbian">Порт Луис</name>
+		<name normalized="Poрt Лui" languages="biлaрuсkai (taрaskivita)‎">Порт Луі</name>
+		<name normalized="Poрt-Лui" languages="Chechen;Kyrgyz;Ossetic;Russian;Tajik;Udmurt">Порт-Луи</name>
+		<name normalized="Poрt-Лuy" languages="Ukrainian">Порт-Луї</name>
+		<name normalized="Pvrt Lvyի" languages="Armenian">Պորտ Լուի</name>
+		<name normalized="pvr דvאי" languages="Hebrew">פור לואי</name>
+		<name normalized="bوr لوyس" languages="Arabic">بور لويس</name>
+		<name normalized="pوrt‌لوئیس" languages="Persian">پورت‌لوئیس</name>
+		<name normalized="pوrٹ لوئس" languages="Urdu">پورٹ لوئس</name>
+		<name normalized="pوrٹ لوئی" languages="Western Punjabi">پورٹ لوئی</name>
+		<name normalized="pۆrt لویس" languages="Sorani Kurdish">پۆرت لویس</name>
+		<name normalized="por्ट lui" languages="Hindi">पोर्ट लुई</name>
+		<name normalized="por्ट luis" languages="Marathi">पोर्ट लुईस</name>
+		<name normalized="por্ট luis" languages="Bengali">পোর্ট লুইস</name>
+		<name normalized="pੋrਟ lui" languages="Punjabi">ਪੋਰਟ ਲੂਈ</name>
+		<name normalized="ପୋର୍ଟ ଲୁଇସ" languages="Oriya">ପୋର୍ଟ ଲୁଇସ</name>
+		<name normalized="போர்ட் லூயிஸ்" languages="Tamil">போர்ட் லூயிஸ்</name>
+		<name normalized="พอร์ตหลุยส์" languages="Thai">พอร์ตหลุยส์</name>
+		<name normalized="ལོ་ཡི་སི་གྲུ་ཁ།" languages="Tibetan">ལོ་ཡི་སི་གྲུ་ཁ།</name>
+		<name normalized="პორტ-ლუი" languages="Georgian">პორტ-ლუი</name>
+		<name normalized="ፖርት ሉዊስ" languages="Amharic">ፖርት ሉዊስ</name>
+		<name normalized="pーtris" languages="Japanese">ポートルイス</name>
+		<name normalized="pーtris県" languages="Japanese">ポートルイス県</name>
+		<name normalized="路易港" languages="Cantonese;Chinese">路易港</name>
+		<name normalized="路易港區" languages="Chinese">路易港區</name>
+		<name normalized="포트루이스" languages="Korean">포트루이스</name>
+		<name normalized="포트루이스 구" languages="Korean">포트루이스 구</name>
+	</region>
+	<region name="Riviere du Rempart" type="district" typeTranslated="district">
+		<name normalized="Districtul Riviere du Rempart" languages="Romanian">Districtul Rivière du Rempart</name>
+		<name normalized="Distrito de Riviere du Rempart" languages="Spanish">Distrito de Rivière du Rempart</name>
+		<name normalized="Riviere du Rempart" languages="English;German;official">Riviere du Rempart</name>
+		<name normalized="Riviere du Rempart District" languages="English;official">Riviere du Rempart District</name>
+		<name normalized="Riviere du Rempart" languages="Dutch;English;French;Italian;Norwegian (bokmal);Norwegian Nynorsk;Polish;Portuguese;Swedish">Rivière du Rempart</name>
+		<name normalized="Riviere du Rempart District" languages="English">Rivière du Rempart District</name>
+		<name normalized="Rivjer diu Ramparo rajonas" languages="Lithuanian">Rivjer diu Ramparo rajonas</name>
+		<name normalized="Рivьiр-dю-Рaмpaр" languages="Russian">Ривьер-дю-Рампар</name>
+		<name normalized="rvieーr・dy・rnpーr県" languages="Japanese">リヴィエール・デュ・ランパール県</name>
+		<name normalized="朗帕河區" languages="Chinese">朗帕河區</name>
+		<name normalized="리비에르뒤랑파르 구" languages="Korean">리비에르뒤랑파르 구</name>
+	</region>
+	<region name="Rodrigues" type="dependency" typeTranslated="dependency">
+		<name normalized="Illa de Rodrigues" languages="Catalan">Illa de Rodrigues</name>
+		<name normalized="Insula Rodrigues" languages="Romanian">Insula Rodrigues</name>
+		<name normalized="Rodriges" languages="Esperanto">Rodriges</name>
+		<name normalized="Rodrigesas" languages="Lithuanian">Rodrigesas</name>
+		<name normalized="Rodrigez" languages="Breton">Rodrigez</name>
+		<name normalized="Rodrigues" languages="Afrikaans;Basque;Czech;Danish;Dutch;English;Finnish;French;Galician;German;Italian;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Spanish;Swedish;Yoruba">Rodrigues</name>
+		<name normalized="Ροντριγκες" languages="Greek">Ροντρίγκες</name>
+		<name normalized="Рodрigiz" languages="Serbian">Родригез</name>
+		<name normalized="Рodрigiс" languages="Russian">Родригес</name>
+		<name normalized="Рodрigiс" languages="Ukrainian">Родрігес</name>
+		<name normalized="rوڈrیgس" languages="Urdu">روڈریگس</name>
+		<name normalized="rdrgs島" languages="Japanese">ロドリゲス島</name>
+		<name normalized="罗德里格斯岛" languages="Chinese">罗德里格斯岛</name>
+		<name normalized="羅德里格斯島" languages="Cantonese">羅德里格斯島</name>
+		<name normalized="로드리게스 섬" languages="Korean">로드리게스 섬</name>
+	</region>
+	<region name="Savanne" type="district" typeTranslated="district">
+		<name normalized="Districtul Savanne" languages="Romanian">Districtul Savanne</name>
+		<name normalized="Distrito de Savanne" languages="Spanish">Distrito de Savanne</name>
+		<name normalized="Savanne" languages="Dutch;English;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Swedish">Savanne</name>
+		<name normalized="Savanne District" languages="English;official">Savanne District</name>
+		<name normalized="Savanne pa Mauritius" languages="Norwegian Nynorsk">Savanne på Mauritius</name>
+		<name normalized="Savano rajonas" languages="Lithuanian">Savano rajonas</name>
+		<name normalized="Сavaн" languages="Russian">Саван</name>
+		<name normalized="sbnn県" languages="Japanese">サバンナ県</name>
+		<name normalized="薩凡納區" languages="Chinese">薩凡納區</name>
+		<name normalized="사반 구" languages="Korean">사반 구</name>
+	</region>
+</regions>

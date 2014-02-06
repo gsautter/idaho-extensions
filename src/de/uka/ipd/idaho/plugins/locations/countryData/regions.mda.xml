@@ -1,0 +1,593 @@
+<regions country="Moldova">
+	<region name="Anenii Noi" type="raion" typeTranslated="raion">
+		<name normalized="Anenii Noi" languages="Catalan;Dutch;English;German;Indonesian;Italian;official;Polish;Romanian;Scots;Spanish">Anenii Noi</name>
+		<name normalized="Anenii Noi Raion" languages="English;official">Anenii Noi Raion</name>
+		<name normalized="Naujieji Anenai" languages="Lithuanian">Naujieji Anėnai</name>
+		<name normalized="Aнiнiй-Нoй" languages="Ukrainian">Аненій-Ной</name>
+		<name normalized="Нovыi Aнiны" languages="Russian">Новые Анены</name>
+		<name normalized="نوאں אنینی" languages="Western Punjabi">نواں انینی</name>
+		<name normalized="新阿內尼" languages="Chinese">新阿內尼</name>
+	</region>
+	<region name="Balti" type="municipality" typeTranslated="municipiul">
+		<name normalized="Balti" languages="English;official">Balti</name>
+		<name normalized="Belci" languages="Latvian">Belci</name>
+		<name normalized="Belcis" languages="Lithuanian">Belcis</name>
+		<name normalized="Belca" languages="Samogitian">Belcā</name>
+		<name normalized="Belsı" languages="Azerbaijani">Belsı</name>
+		<name normalized="Belz" languages="Alemannisch">Belz</name>
+		<name normalized="Bielce" languages="Polish">Bielce</name>
+		<name normalized="Belti" languages="Gagauz">Bêlţi</name>
+		<name normalized="Balti" languages="Afrikaans;Aragonese;Bosnian;Breton;Faroese;Franco-Provencal;Haitian;Icelandic;Indonesian;Luxembourgish;Malay;Maltese;Norwegian Nynorsk;Portuguese;Serbo-Croatian;Simple English;Slovak;Slovenian;Swahili;Swedish;Turkish;Uzbek;Vietnamese;Volapuk;Walloon;Waray;Welsh;Zazaki">Bălţi</name>
+		<name normalized="Balți" languages="Aromanian;Basque;Catalan;Cebuano;Corsican;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Hungarian;Interlingua;Irish;Italian;Norwegian (bokmal);Occitan;Romanian;Romansh;Scots;Spanish;tarandine">Bălți</name>
+		<name normalized="Μπαλτσι" languages="Greek">Μπάλτσι</name>
+		<name normalized="Biлti" languages="Bulgarian;Macedonian">Белци</name>
+		<name normalized="Biльtы" languages="Chuvash;Russian;Sakha">Бельцы</name>
+		<name normalized="Beлt" languages="biлaрuсkai (taрaskivita)‎">Бэлц</name>
+		<name normalized="Beльti" languages="Ukrainian">Бєльці</name>
+		<name normalized="Goрad Biльtы" languages="Belarusian">Горад Бельцы</name>
+		<name normalized="bדץ" languages="Hebrew">בלץ</name>
+		<name normalized="bאلtسy" languages="Arabic">بالتسي</name>
+		<name normalized="bאلtی" languages="Persian">بالتی</name>
+		<name normalized="ܒܠܛܝ" languages="Aramaic">ܒܠܛܝ</name>
+		<name normalized="บัลตส์" languages="Thai">บัลตส์</name>
+		<name normalized="ბელცი" languages="Georgian">ბელცი</name>
+		<name normalized="በልጺ" languages="Amharic">በልጺ</name>
+		<name normalized="brti" languages="Japanese">バルツィ</name>
+		<name normalized="伯爾茲" languages="Cantonese;Chinese">伯爾茲</name>
+		<name normalized="벌치" languages="Korean">벌치</name>
+	</region>
+	<region name="Basarabeasca" type="raion" typeTranslated="raion">
+		<name normalized="Basarabeasca" languages="Czech;Dutch;English;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Romanian;Spanish">Basarabeasca</name>
+		<name normalized="Basarabeasca Raion" languages="English;official">Basarabeasca Raion</name>
+		<name normalized="Basarabiaska" languages="Lithuanian">Basarabiaska</name>
+		<name normalized="Baсaрabiсka" languages="biлaрuсkai (taрaskivita)‎">Басарабяска</name>
+		<name normalized="Biсaрabka" languages="Bulgarian">Бесарабка</name>
+		<name normalized="Biссaрabka" languages="Russian;Ukrainian">Бессарабка</name>
+		<name normalized="bאسאrאbyאسkא" languages="Arabic">باسارابياسكا</name>
+		<name normalized="bیسאrאbکא" languages="Western Punjabi">بیسارابکا</name>
+		<name normalized="巴薩拉貝亞斯卡" languages="Chinese">巴薩拉貝亞斯卡</name>
+	</region>
+	<region name="Bender" type="municipality" typeTranslated="municipiul">
+		<name normalized="Bender" languages="Basque;Catalan;Danish;English;Estonian;Finnish;Gagauz;German;Indonesian;Norwegian Nynorsk;official;Scots;Spanish;Swedish;Turkish;Vietnamese">Bender</name>
+		<name normalized="Bendera" languages="Latvian">Bendera</name>
+		<name normalized="Benderai" languages="Lithuanian">Benderai</name>
+		<name normalized="Bendery" languages="French;Polish;Slovak">Bendery</name>
+		<name normalized="Bəndər" languages="Azerbaijani">Bəndər</name>
+		<name normalized="Tighina" languages="Czech;Dutch;Esperanto;Italian;Norwegian (bokmal);Portuguese;Romanian">Tighina</name>
+		<name normalized="Biнdiр" languages="Macedonian">Бендер</name>
+		<name normalized="Biнdiрi" languages="Bulgarian;Ukrainian">Бендери</name>
+		<name normalized="Biнdiры" languages="Ossetic;Russian">Бендеры</name>
+		<name normalized="Beнdeр" languages="biлaрuсkai (taрaskivita)‎">Бэндэр</name>
+		<name normalized="Goрad Biнdeр" languages="Belarusian">Горад Бендэр</name>
+		<name normalized="tיגיnh" languages="Hebrew">טיגינה</name>
+		<name normalized="byندr, mولدوfyא" languages="Arabic">بيندر، مولدوفيا</name>
+		<name normalized="bndr" languages="Japanese">ベンデル</name>
+		<name normalized="賓傑里" languages="Chinese">賓傑里</name>
+		<name normalized="벤데르" languages="Korean">벤데르</name>
+	</region>
+	<region name="Briceni" type="raion" typeTranslated="raion">
+		<name normalized="Briceni" languages="Dutch;English;Finnish;French;Italian;official;Romanian;Spanish">Briceni</name>
+		<name normalized="Briceni Raion" languages="English;official">Briceni Raion</name>
+		<name normalized="Bricenis" languages="Lithuanian">Bričenis</name>
+		<name normalized="Bryczany" languages="Polish">Bryczany</name>
+		<name normalized="Bрicaнi" languages="Ukrainian">Бричани</name>
+		<name normalized="Bрicaны" languages="Russian">Бричаны</name>
+		<name normalized="Bрiciнь" languages="Moldavian">Бричень</name>
+		<name normalized="brیچאنی" languages="Western Punjabi">بریچانی</name>
+		<name normalized="布里切尼" languages="Chinese">布里切尼</name>
+	</region>
+	<region name="Cahul" type="raion" typeTranslated="raion">
+		<name normalized="Cahul" languages="Catalan;Czech;Danish;Dutch;English;Finnish;French;German;Italian;Norwegian Nynorsk;official;Portuguese;Romanian;Spanish;Swedish;Vietnamese">Cahul</name>
+		<name normalized="Cahul Raion" languages="English;official">Cahul Raion</name>
+		<name normalized="Kagul" languages="Polish">Kaguł</name>
+		<name normalized="Kahul" languages="Gagauz">Kahul</name>
+		<name normalized="Kahulis" languages="Lithuanian">Kahulis</name>
+		<name normalized="Goрad Kakuл" languages="Belarusian">Горад Кахул</name>
+		<name normalized="Kaguл" languages="Ukrainian">Кагул</name>
+		<name normalized="Kakuл" languages="Bulgarian;Macedonian;Moldavian;Russian;biлaрuсkai (taрaskivita)‎">Кахул</name>
+		<name normalized="qגvד" languages="Hebrew">קגול</name>
+		<name normalized="کאہول" languages="Western Punjabi">کاہول</name>
+		<name normalized="卡胡爾" languages="Chinese">卡胡爾</name>
+		<name normalized="카훌" languages="Korean">카훌</name>
+	</region>
+	<region name="Calarasi" type="raion" typeTranslated="raion">
+		<name normalized="Calarasi" languages="English;official">Calarasi</name>
+		<name normalized="Calarasi Raion" languages="English;official">Calarasi Raion</name>
+		<name normalized="Calarasi" languages="Polish;Portuguese">Călăraşi</name>
+		<name normalized="Calarasi" languages="Dutch;English;French;German;Italian;Romanian;Spanish">Călărași</name>
+		<name normalized="Kelerasis" languages="Lithuanian">Kelerašis</name>
+		<name normalized="Kaлaрas" languages="Russian">Калараш</name>
+		<name normalized="Kiлiрas" languages="Ukrainian">Келераш</name>
+		<name normalized="Keлeрas" languages="biлaрuсkai (taрaskivita)‎">Кэлэраш</name>
+		<name normalized="卡拉拉什" languages="Chinese">卡拉拉什</name>
+	</region>
+	<region name="Cantemir" type="raion" typeTranslated="raion">
+		<name normalized="Cantemir" languages="Dutch;English;Italian;official;Polish;Romanian;Spanish">Cantemir</name>
+		<name normalized="Cantemir Raion" languages="English;official">Cantemir Raion</name>
+		<name normalized="Kantemyras" languages="Lithuanian">Kantemyras</name>
+		<name normalized="Kaнtiмiр" languages="Russian">Кантемир</name>
+		<name normalized="Kaнtiмiр" languages="Ukrainian">Кантемір</name>
+		<name normalized="岡代米爾" languages="Chinese">岡代米爾</name>
+	</region>
+	<region name="Causeni" type="raion" typeTranslated="raion">
+		<name normalized="Causeni" languages="English;official">Causeni</name>
+		<name normalized="Causeni Raion" languages="English;official">Causeni Raion</name>
+		<name normalized="Causeni" languages="Galician;Italian;Polish;Portuguese;Spanish">Căuşeni</name>
+		<name normalized="Causeni" languages="Dutch;English;German;Romanian">Căușeni</name>
+		<name normalized="Keusenis" languages="Lithuanian">Keušenis</name>
+		<name normalized="Kausaнi" languages="Ukrainian">Каушани</name>
+		<name normalized="Kausaны" languages="Russian">Каушаны</name>
+		<name normalized="Keўseнь" languages="biлaрuсkai (taрaskivita)‎">Кэўшэнь</name>
+		<name normalized="کאؤشینی" languages="Western Punjabi">کاؤشینی</name>
+		<name normalized="克烏謝尼" languages="Chinese">克烏謝尼</name>
+		<name normalized="커우셰니" languages="Korean">커우셰니</name>
+	</region>
+	<region name="Chisinau" type="municipality" typeTranslated="municipiul">
+		<name normalized="Chishinau" languages="Aromanian">Chishinãu</name>
+		<name normalized="Chisinaou" languages="Haitian">Chisinaou</name>
+		<name normalized="Chisinau" languages="Basque;Chavacano de Zamboanga;Dutch;English;Ido;official">Chisinau</name>
+		<name normalized="Chisinau" languages="Spanish">Chisináu</name>
+		<name normalized="Chisla Nova" languages="Latin">Chisla Nova</name>
+		<name normalized="Chisinau" languages="Afrikaans;Breton;Chinese (Min Nan);Corsican;Faroese;Fiji Hindi;Javanese;Ligure;lumbaart;Luxembourgish;Maori;Northern Sami;Norwegian Nynorsk;Occitan;Piedmontese;Quechua;Scottish Gaelic;Sicilian;Simple English;Vietnamese;veneto;Welsh;Yoruba">Chişinău</name>
+		<name normalized="Chisinau" languages="Aragonese;Bosnian;Catalan;Danish;English;Estonian;Finnish;French;German;Hungarian;Indonesian;Interlingua;Interlingue;Italian;Malagasy;Maltese;Manx;Northern Frisian;Norwegian (bokmal);Portuguese;Romanian;Romansh;Scots;Shona;Swedish;Voro;Waray">Chișinău</name>
+		<name normalized="Cisinea" languages="Irish">Císineá</name>
+		<name normalized="Kischinau" languages="Alemannisch">Kischinau</name>
+		<name normalized="Kishinau" languages="Albanian;Novial">Kishinau</name>
+		<name normalized="Kishineu" languages="Swahili">Kishineu</name>
+		<name normalized="Kisinau" languages="Tagalog">Kisinau</name>
+		<name normalized="Kisinawu" languages="Wolof">Kisinawu</name>
+		<name normalized="Kiszyniow" languages="Polish">Kiszyniów</name>
+		<name normalized="Kisinev" languages="Icelandic">Kisínev</name>
+		<name normalized="Kisinevo" languages="Esperanto">Kiŝinevo</name>
+		<name normalized="Kisineu" languages="Crimean Turkish">Kişineu</name>
+		<name normalized="Kisinev" languages="Turkish">Kişinev</name>
+		<name normalized="Kisinew" languages="Zazaki">Kişinew</name>
+		<name normalized="Kisinyov" languages="Azerbaijani">Kişinyov</name>
+		<name normalized="Kisinov" languages="Gagauz">Kişinöv</name>
+		<name normalized="Kisiniovas" languages="Lithuanian">Kišiniovas</name>
+		<name normalized="Kisinjev" languages="Croatian;Serbo-Croatian;Slovenian">Kišinjev</name>
+		<name normalized="Kisinjow" languages="Upper Sorbian">Kišinjow</name>
+		<name normalized="Kisinov" languages="Veps">Kišinöv</name>
+		<name normalized="Kisinev" languages="Czech">Kišiněv</name>
+		<name normalized="Kisineva" languages="Latvian">Kišiņeva</name>
+		<name normalized="Kisinov" languages="Slovak">Kišiňov</name>
+		<name normalized="Kiseniuovs" languages="Samogitian">Kišėniuovs</name>
+		<name normalized="Κισιναου" languages="Greek">Κισινάου</name>
+		<name normalized="Goрad Kisынёў" languages="Belarusian">Горад Кішынёў</name>
+		<name normalized="Kisiнiv" languages="Bulgarian;Kazakh;Macedonian;Sakha">Кишинев</name>
+		<name normalized="Kisiнёv" languages="Chechen;Chuvash;Eastern Mari;Komi;Ossetic;Russian;Tajik;Tatar;Udmurt">Кишинёв</name>
+		<name normalized="Kisiнiv" languages="Ukrainian">Кишинів</name>
+		<name normalized="Kisiniv" languages="Serbian">Кишињев</name>
+		<name normalized="Kisынёў" languages="biлaрuсkai (taрaskivita)‎">Кішынёў</name>
+		<name normalized="Kիsնև" languages="Armenian">Քիշնև</name>
+		<name normalized="qישיnb" languages="Hebrew">קישינב</name>
+		<name normalized="qעשעnעvv" languages="Yiddish">קעשענעוו</name>
+		<name normalized="kىشىنېۋ" languages="Uyghur">كىشىنېۋ</name>
+		<name normalized="kyشyنאو" languages="Arabic">كيشيناو</name>
+		<name normalized="کشینیf" languages="Western Punjabi">کشینیف</name>
+		<name normalized="کیشینאو" languages="Persian;Sorani Kurdish;Urdu">کیشیناو</name>
+		<name normalized="cisinाu" languages="Hindi;Marathi">चिशिनाउ</name>
+		<name normalized="cisina" languages="Sanskrit">चिशिनौ</name>
+		<name normalized="kis਼nਾਓ" languages="Punjabi">ਕਿਸ਼ਨਾਓ</name>
+		<name normalized="சிஷினோ" languages="Tamil">சிஷினோ</name>
+		<name normalized="คีชีเนา" languages="Thai">คีชีเนา</name>
+		<name normalized="ཅི་སི་ནའུ།" languages="Tibetan">ཅི་སི་ནའུ།</name>
+		<name normalized="კიშინიოვი" languages="Georgian">კიშინიოვი</name>
+		<name normalized="ኪሺንው" languages="Amharic">ኪሺንው</name>
+		<name normalized="ksnu" languages="Japanese">キシナウ</name>
+		<name normalized="基希讷乌" languages="Chinese">基希讷乌</name>
+		<name normalized="基施紐" languages="Cantonese">基施紐</name>
+		<name normalized="키시너우" languages="Korean">키시너우</name>
+	</region>
+	<region name="Cimislia" type="raion" typeTranslated="raion">
+		<name normalized="Cimislia" languages="English;official">Cimislia</name>
+		<name normalized="Cimislia Raion" languages="English;official">Cimislia Raion</name>
+		<name normalized="Cimislia" languages="Indonesian;Italian;Polish;Portuguese;Spanish">Cimişlia</name>
+		<name normalized="Cimislia" languages="Dutch;English;French;Romanian">Cimișlia</name>
+		<name normalized="Cimislija" languages="Lithuanian">Čimišlija</name>
+		<name normalized="Ciмisлii" languages="Russian">Чимишлия</name>
+		<name normalized="Ciмisлii" languages="Ukrainian">Чимішлія</name>
+		<name normalized="Cымisлii" languages="biлaрuсkai (taрaskivita)‎">Чымішлія</name>
+		<name normalized="سymyشلyא" languages="Arabic">سيميشليا</name>
+		<name normalized="چmیشلیא" languages="Western Punjabi">چمیشلیا</name>
+		<name normalized="奇米什利亞" languages="Chinese">奇米什利亞</name>
+	</region>
+	<region name="Criuleni" type="raion" typeTranslated="raion">
+		<name normalized="Criuleni" languages="Dutch;English;French;German;Italian;official;Polish;Romanian;Spanish">Criuleni</name>
+		<name normalized="Criuleni Raion" languages="English;official">Criuleni Raion</name>
+		<name normalized="Kriulenis" languages="Lithuanian">Kriulenis</name>
+		<name normalized="Kрiuлiнь" languages="Russian">Криулень</name>
+		<name normalized="Kрiuлiн" languages="Bulgarian">Криулян</name>
+		<name normalized="Kрiuлiнi" languages="Ukrainian">Криуляни</name>
+		<name normalized="کrیؤلینی" languages="Western Punjabi">کریؤلینی</name>
+		<name normalized="克留萊尼" languages="Chinese">克留萊尼</name>
+	</region>
+	<region name="Donduseni" type="raion" typeTranslated="raion">
+		<name normalized="Donduseni" languages="English;official">Donduseni</name>
+		<name normalized="Donduseni Raion" languages="English;official">Donduseni Raion</name>
+		<name normalized="Donduseni" languages="Indonesian;Italian;Polish;Turkish">Donduşeni</name>
+		<name normalized="Dondusenis" languages="Lithuanian">Dondušenis</name>
+		<name normalized="Donduseni" languages="Dutch;English;Romanian;Spanish">Dondușeni</name>
+		<name normalized="Doнdusiнь" languages="Ukrainian">Дондушень</name>
+		<name normalized="Doнdюsaны" languages="Russian">Дондюшаны</name>
+		<name normalized="دوندوشینی" languages="Western Punjabi">دوندوشینی</name>
+		<name normalized="棟杜謝尼" languages="Chinese">棟杜謝尼</name>
+	</region>
+	<region name="Drochia" type="raion" typeTranslated="raion">
+		<name normalized="Drochia" languages="Dutch;English;French;Indonesian;Italian;official;Polish;Romanian;Spanish;Swedish;Turkish">Drochia</name>
+		<name normalized="Drochia Raion" languages="English;official">Drochia Raion</name>
+		<name normalized="Drokija" languages="Lithuanian">Drokija</name>
+		<name normalized="Dрokii" languages="Moldavian;Russian">Дрокия</name>
+		<name normalized="Dрokii" languages="Ukrainian">Дрокія</name>
+		<name normalized="Dрok'i" languages="biлaрuсkai (taрaskivita)‎">Дрок’я</name>
+		<name normalized="دrوکیא" languages="Western Punjabi">دروکیا</name>
+		<name normalized="德羅基亞" languages="Chinese">德羅基亞</name>
+	</region>
+	<region name="Dubasari" type="raion" typeTranslated="raion">
+		<name normalized="Dubasari" languages="English;official">Dubasari</name>
+		<name normalized="Dubasari Raion" languages="English;official">Dubasari Raion</name>
+		<name normalized="Dubesaris" languages="Lithuanian">Dubesaris</name>
+		<name normalized="Dubosary" languages="Polish">Dubosary</name>
+		<name normalized="Dubossary" languages="Czech">Dubossary</name>
+		<name normalized="Dubasari" languages="Danish;Dutch;English;Estonian;French;German;Indonesian;Italian;Norwegian Nynorsk;Romanian;Spanish;Vietnamese">Dubăsari</name>
+		<name normalized="Goрad Dubaсaры" languages="Belarusian">Горад Дубасары</name>
+		<name normalized="Dubaсaрi" languages="Macedonian">Дубасари</name>
+		<name normalized="Duboссaрi" languages="Ukrainian">Дубоссари</name>
+		<name normalized="Duboссaры" languages="Russian">Дубоссары</name>
+		<name normalized="Dubъсaрi" languages="Bulgarian">Дубъсари</name>
+		<name normalized="Dubeсaр" languages="biлaрuсkai (taрaskivita)‎">Дубэсар</name>
+		<name normalized="Dubeсaрь" languages="Moldavian">Дубэсарь</name>
+		<name normalized="דvbסrי" languages="Hebrew">דובסרי</name>
+		<name normalized="دوbאسאrی" languages="Western Punjabi">دوباساری</name>
+		<name normalized="dubsr" languages="Japanese">ドゥベサリ</name>
+		<name normalized="杜伯薩里" languages="Chinese">杜伯薩里</name>
+		<name normalized="두버사리" languages="Korean">두버사리</name>
+	</region>
+	<region name="Edinet" type="raion" typeTranslated="raion">
+		<name normalized="Edinet" languages="English;official">Edinet</name>
+		<name normalized="Edinet Raion" languages="English;official">Edinet Raion</name>
+		<name normalized="Edinet" languages="Danish;Italian;Turkish">Edineţ</name>
+		<name normalized="Edineț" languages="Dutch;English;French;Indonesian;Romanian;Spanish">Edineț</name>
+		<name normalized="Jedinecas" languages="Lithuanian">Jedinecas</name>
+		<name normalized="Jedynce" languages="Polish">Jedyńce</name>
+		<name normalized="Idiнit" languages="Moldavian;Russian">Единец</name>
+		<name normalized="Edынet" languages="biлaрuсkai (taрaskivita)‎">Эдынэц</name>
+		<name normalized="Ediнti" languages="Ukrainian">Єдинці</name>
+		<name normalized="אیدینیس" languages="Western Punjabi">ایدینیس</name>
+		<name normalized="埃迪內茨" languages="Chinese">埃迪內茨</name>
+		<name normalized="에디네츠" languages="Korean">에디네츠</name>
+	</region>
+	<region name="Falesti" type="raion" typeTranslated="raion">
+		<name normalized="Falesti" languages="English;official">Falesti</name>
+		<name normalized="Falesti Raion" languages="English;official">Falesti Raion</name>
+		<name normalized="Felestis" languages="Lithuanian">Feleštis</name>
+		<name normalized="Falesti" languages="Italian;Polish">Făleşti</name>
+		<name normalized="Falesti" languages="Czech;Dutch;English;Romanian;Spanish">Fălești</name>
+		<name normalized="Фaлisti" languages="Ukrainian">Фалешти</name>
+		<name normalized="Фaлistы" languages="Russian">Фалешты</name>
+		<name normalized="Фeлestь" languages="biлaрuсkai (taрaskivita)‎">Фэлэшць</name>
+		<name normalized="fلوrیشtی" languages="Western Punjabi">فلوریشتی</name>
+		<name normalized="弗萊什蒂" languages="Chinese">弗萊什蒂</name>
+	</region>
+	<region name="Floresti" type="raion" typeTranslated="raion">
+		<name normalized="Floresti" languages="English;official">Floresti</name>
+		<name normalized="Floresti Raion" languages="English;official">Floresti Raion</name>
+		<name normalized="Floresti" languages="Indonesian;Polish">Floreşti</name>
+		<name normalized="Florestis" languages="Lithuanian">Floreštis</name>
+		<name normalized="Floresti" languages="Dutch;English;French;Italian;Romanian;Spanish">Florești</name>
+		<name normalized="Флaрestь" languages="biлaрuсkai (taрaskivita)‎">Фларэшць</name>
+		<name normalized="Флoрisti" languages="Ukrainian">Флорешти</name>
+		<name normalized="Флoрistы" languages="Russian">Флорешты</name>
+		<name normalized="弗洛雷什蒂" languages="Chinese">弗洛雷什蒂</name>
+	</region>
+	<region name="Gagauzia" type="autonomous territorial unit" typeTranslated="unitatea teritoriala autonoma">
+		<name normalized="Gagaoezie" languages="Dutch">Gagaoezië</name>
+		<name normalized="Gagaouzie" languages="French">Gagaouzie</name>
+		<name normalized="Gagaus" languages="Norwegian (bokmal)">Gagaus</name>
+		<name normalized="Gagausia" languages="Finnish">Gagausia</name>
+		<name normalized="Gagausien" languages="German">Gagausien</name>
+		<name normalized="Gagausie" languages="Afrikaans">Gagausië</name>
+		<name normalized="Gagauska" languages="Upper Sorbian">Gagauska</name>
+		<name normalized="Gagauusia" languages="Estonian">Gagauusia</name>
+		<name normalized="Gagauz Yeri" languages="Gagauz">Gagauz Yeri</name>
+		<name normalized="Gagauzia" languages="English;Hungarian;Indonesian;Italian;Norwegian Nynorsk;Occitan;official;Spanish;Sundanese;Vietnamese;Welsh">Gagauzia</name>
+		<name normalized="Gagauzie" languages="Scots">Gagauzie</name>
+		<name normalized="Gagauzien" languages="Danish;Swedish">Gagauzien</name>
+		<name normalized="Gagauzija" languages="Croatian;Serbo-Croatian">Gagauzija</name>
+		<name normalized="Gagauzja" languages="Polish">Gagauzja</name>
+		<name normalized="Gagauzsko" languages="Czech">Gagauzsko</name>
+		<name normalized="Gagauzyjo" languages="Silesian">Gagauzyjo</name>
+		<name normalized="Gagavuzya" languages="Turkish">Gagavuzya</name>
+		<name normalized="Gagausia" languages="Catalan">Gagaúsia</name>
+		<name normalized="Gagauzia" languages="Portuguese">Gagaúzia</name>
+		<name normalized="Gagauzija" languages="Lithuanian">Gagaūzija</name>
+		<name normalized="Gagauzio" languages="Esperanto">Gagaŭzio</name>
+		<name normalized="Gagasia" languages="Icelandic">Gagásía</name>
+		<name normalized="Gagauzia" languages="Romanian;Slovak">Găgăuzia</name>
+		<name normalized="Qaqauziya" languages="Azerbaijani">Qaqauziya</name>
+		<name normalized="U.T.A. Gagauzia" languages="Albanian">U.T.A. Gagauzia</name>
+		<name normalized="Γκαγκαουζια" languages="Greek">Γκαγκαουζία</name>
+		<name normalized="Gagavuzii" languages="biлaрuсkai (taрaskivita)‎">Гагавузія</name>
+		<name normalized="Gagauzi" languages="Chuvash;Ossetic">Гагаузи</name>
+		<name normalized="Gagauzii" languages="Bulgarian;Russian">Гагаузия</name>
+		<name normalized="Gagauzija" languages="Macedonian;Serbian">Гагаузија</name>
+		<name normalized="Gagauzii" languages="Belarusian;Ukrainian">Гагаузія</name>
+		<name normalized="Gegeuzii" languages="Moldavian">Гэгэузия</name>
+		<name normalized="Gəgəuzii" languages="Kazakh">Гәгәузия</name>
+		<name normalized="גגאvזיh" languages="Hebrew">גגאוזיה</name>
+		<name normalized="غאغאوزyא" languages="Arabic">غاغاوزيا</name>
+		<name normalized="gאgאؤزیא" languages="Urdu;Western Punjabi">گاگاؤزیا</name>
+		<name normalized="gאgאئوزیא" languages="Persian">گاگائوزیا</name>
+		<name normalized="กาเกาเซีย" languages="Thai">กาเกาเซีย</name>
+		<name normalized="გაგაუზია" languages="Georgian">გაგაუზია</name>
+		<name normalized="gguz自治区" languages="Japanese">ガガウズ自治区</name>
+		<name normalized="加告茲自治區" languages="Chinese">加告茲自治區</name>
+		<name normalized="가가우지아" languages="Korean">가가우지아</name>
+	</region>
+	<region name="Glodeni" type="raion" typeTranslated="raion">
+		<name normalized="Glodeni" languages="Dutch;English;Italian;official;Polish;Romanian;Spanish">Glodeni</name>
+		<name normalized="Glodeni Raion" languages="English;official">Glodeni Raion</name>
+		<name normalized="Glodenis" languages="Lithuanian">Glodenis</name>
+		<name normalized="Gлadeнь" languages="biлaрuсkai (taрaskivita)‎">Гладэнь</name>
+		<name normalized="Gлodiнi" languages="Ukrainian">Глодяни</name>
+		<name normalized="Gлodiны" languages="Russian">Глодяны</name>
+		<name normalized="gلودینی" languages="Western Punjabi">گلودینی</name>
+		<name normalized="格洛代尼" languages="Chinese">格洛代尼</name>
+	</region>
+	<region name="Hincesti" type="raion" typeTranslated="raion">
+		<name normalized="Hincesti" languages="English;official">Hincesti</name>
+		<name normalized="Hincesti Raion" languages="English;official">Hincesti Raion</name>
+		<name normalized="Hincestis" languages="Lithuanian">Hinčeštis</name>
+		<name normalized="Hincesti" languages="Italian;Polish">Hînceşti</name>
+		<name normalized="Hincesti" languages="Dutch;English;Indonesian;Romanian;Spanish">Hîncești</name>
+		<name normalized="Kiнcisti" languages="Ukrainian">Хинчешти</name>
+		<name normalized="Kынcistы" languages="Russian">Хынчешты</name>
+		<name normalized="Kынcestь" languages="biлaрuсkai (taрaskivita)‎">Хынчэшць</name>
+		<name normalized="Hնcեst" languages="Armenian">Հնչեշտ</name>
+		<name normalized="hyنسشty" languages="Arabic">هينسشتي</name>
+		<name normalized="ہنچیشtی" languages="Western Punjabi">ہنچیشتی</name>
+		<name normalized="亨切什蒂" languages="Chinese">亨切什蒂</name>
+		<name normalized="흔체슈티" languages="Korean">흔체슈티</name>
+	</region>
+	<region name="Ialoveni" type="raion" typeTranslated="raion">
+		<name normalized="Ialoveni" languages="Dutch;English;French;German;Italian;official;Polish;Romanian;Spanish">Ialoveni</name>
+		<name normalized="Ialoveni Raion" languages="English;official">Ialoveni Raion</name>
+		<name normalized="Jalovenis" languages="Lithuanian">Jalovenis</name>
+		<name normalized="Ялaveнь" languages="biлaрuсkai (taрaskivita)‎">Ялавэнь</name>
+		<name normalized="Ялoviнi" languages="Ukrainian">Яловени</name>
+		<name normalized="Ялoviны" languages="Russian">Яловены</name>
+		<name normalized="یאلووینی" languages="Western Punjabi">یالووینی</name>
+		<name normalized="亞洛韋尼" languages="Chinese">亞洛韋尼</name>
+	</region>
+	<region name="Leova" type="raion" typeTranslated="raion">
+		<name normalized="Leova" languages="Dutch;English;Italian;Lithuanian;official;Polish;Romanian;Spanish">Leova</name>
+		<name normalized="Leova Raion" languages="English;official">Leova Raion</name>
+		<name normalized="Лiova" languages="Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Леова</name>
+		<name normalized="لیووא" languages="Western Punjabi">لیووا</name>
+		<name normalized="萊奧瓦" languages="Chinese">萊奧瓦</name>
+	</region>
+	<region name="Nisporeni" type="raion" typeTranslated="raion">
+		<name normalized="Nisporeni" languages="Dutch;English;Finnish;German;Italian;official;Polish;Romanian;Spanish">Nisporeni</name>
+		<name normalized="Nisporeni Raion" languages="English;official">Nisporeni Raion</name>
+		<name normalized="Nisporenis" languages="Lithuanian">Nisporenis</name>
+		<name normalized="Нiсpoрiны" languages="Russian">Ниспорены</name>
+		<name normalized="Нiсpaрeнь" languages="biлaрuсkai (taрaskivita)‎">Ніспарэнь</name>
+		<name normalized="Нiсpoрiнi" languages="Ukrainian">Ніспорени</name>
+		<name normalized="نسpوrینی" languages="Western Punjabi">نسپورینی</name>
+		<name normalized="尼斯波雷尼" languages="Chinese">尼斯波雷尼</name>
+	</region>
+	<region name="Ocnita" type="raion" typeTranslated="raion">
+		<name normalized="Ocnita" languages="English;official;Vietnamese">Ocnita</name>
+		<name normalized="Ocnita Raion" languages="English;official">Ocnita Raion</name>
+		<name normalized="Ocnita" languages="Czech;Italian;Polish;Spanish">Ocniţa</name>
+		<name normalized="Ocnița" languages="Dutch;English;French;German;Romanian">Ocnița</name>
+		<name normalized="Oknica" languages="Lithuanian">Oknica</name>
+		<name normalized="Okнita" languages="Russian;Sakha">Окница</name>
+		<name normalized="Okнiti" languages="Ukrainian">Окниця</name>
+		<name normalized="אوکنیtسא" languages="Western Punjabi">اوکنیتسا</name>
+		<name normalized="奧克尼察" languages="Chinese">奧克尼察</name>
+	</region>
+	<region name="Orhei" type="raion" typeTranslated="raion">
+		<name normalized="Orgiejow" languages="Polish">Orgiejów</name>
+		<name normalized="Orhei" languages="Catalan;Danish;Dutch;English;French;German;Italian;Norwegian Nynorsk;official;Romanian;Spanish;Swedish">Orhei</name>
+		<name normalized="Orhei Raion" languages="English;official">Orhei Raion</name>
+		<name normalized="Orhejus" languages="Lithuanian">Orhėjus</name>
+		<name normalized="Aрkeй" languages="biлaрuсkai (taрaskivita)‎">Архэй</name>
+		<name normalized="Oрgiyv" languages="Ukrainian">Оргіїв</name>
+		<name normalized="Oрkiй" languages="Bulgarian;Moldavian;Russian">Орхей</name>
+		<name normalized="Oрkij" languages="Macedonian">Орхеј</name>
+		<name normalized="אvrhיי" languages="Hebrew">אורחיי</name>
+		<name normalized="אوrہیئی" languages="Western Punjabi">اورہیئی</name>
+		<name normalized="奧爾海伊" languages="Chinese">奧爾海伊</name>
+		<name normalized="오르헤이" languages="Korean">오르헤이</name>
+	</region>
+	<region name="Rezina" type="raion" typeTranslated="raion">
+		<name normalized="Rezina" languages="Dutch;English;French;Italian;official;Polish;Romanian;Spanish">Rezina</name>
+		<name normalized="Rezina Raion" languages="English;official">Rezina Raion</name>
+		<name normalized="Рiziнa" languages="Russian;Sakha;Ukrainian">Резина</name>
+		<name normalized="Рeziнa" languages="biлaрuсkai (taрaskivita)‎">Рэзіна</name>
+		<name normalized="rیزینא" languages="Western Punjabi">ریزینا</name>
+		<name normalized="雷濟納" languages="Chinese">雷濟納</name>
+		<name normalized="레지나" languages="Korean">레지나</name>
+	</region>
+	<region name="Riscani" type="raion" typeTranslated="raion">
+		<name normalized="Riscani" languages="English;official">Riscani</name>
+		<name normalized="Riscani Raion" languages="English;official">Riscani Raion</name>
+		<name normalized="Ryszkany" languages="Polish">Ryszkany</name>
+		<name normalized="Riscani" languages="Italian;Spanish">Rîşcani</name>
+		<name normalized="Riscani" languages="Dutch;English;German;Romanian">Rîșcani</name>
+		<name normalized="Рiskaнi" languages="Ukrainian">Ришкани</name>
+		<name normalized="Рыskaны" languages="Russian">Рышканы</name>
+		<name normalized="Рыskaнь" languages="biлaрuсkai (taрaskivita)‎">Рышкань</name>
+		<name normalized="rیشکאنی" languages="Western Punjabi">ریشکانی</name>
+		<name normalized="雷什卡內" languages="Chinese">雷什卡內</name>
+	</region>
+	<region name="Singerei" type="raion" typeTranslated="raion">
+		<name normalized="Sindzerejus" languages="Lithuanian">Sindžerėjus</name>
+		<name normalized="Singerei" languages="English;official">Singerei</name>
+		<name normalized="Singerei Raion" languages="English;official">Singerei Raion</name>
+		<name normalized="Singerei" languages="Dutch;English;Italian;Polish;Romanian;Spanish">Sîngerei</name>
+		<name normalized="Сiнziрii" languages="Ukrainian">Синжерея</name>
+		<name normalized="Сынdzeрeй" languages="biлaрuсkai (taрaskivita)‎">Сынджэрэй</name>
+		<name normalized="Сынziрii" languages="Russian">Сынжерея</name>
+		<name normalized="سنgیrیئی" languages="Western Punjabi">سنگیریئی</name>
+		<name normalized="森傑雷" languages="Chinese">森傑雷</name>
+	</region>
+	<region name="Soldanesti" type="raion" typeTranslated="raion">
+		<name normalized="Soldanesti" languages="English;official">Soldanesti</name>
+		<name normalized="Soldanesti Raion" languages="English;official">Soldanesti Raion</name>
+		<name normalized="Soldanesti" languages="Italian;Occitan;Polish;Spanish">Şoldăneşti</name>
+		<name normalized="Soldanesti" languages="Dutch;English;Romanian">Șoldănești</name>
+		<name normalized="Soлdaнisti" languages="Ukrainian">Шолданешти</name>
+		<name normalized="Soлdaнistы" languages="Russian">Шолданешты</name>
+		<name normalized="Soлdeнestы" languages="Sakha">Шолдэнэшты</name>
+		<name normalized="شولدאنیشtی" languages="Western Punjabi">شولدانیشتی</name>
+		<name normalized="紹爾德內什蒂" languages="Chinese">紹爾德內什蒂</name>
+	</region>
+	<region name="Soroca" type="raion" typeTranslated="raion">
+		<name normalized="Soroca" languages="Catalan;Danish;Dutch;English;French;German;Italian;Norwegian Nynorsk;official;Portuguese;Romanian;Spanish;Swedish">Soroca</name>
+		<name normalized="Soroca Raion" languages="English;official">Soroca Raion</name>
+		<name normalized="Soroka" languages="Crimean Turkish;Lithuanian">Soroka</name>
+		<name normalized="Soroki" languages="Polish">Soroki</name>
+		<name normalized="Сaрoka" languages="biлaрuсkai (taрaskivita)‎">Сарока</name>
+		<name normalized="Сoрoka" languages="Macedonian">Сорока</name>
+		<name normalized="Сoрoki" languages="Bulgarian;Russian;Sakha;Ukrainian">Сороки</name>
+		<name normalized="סvrvqh" languages="Hebrew">סורוקה</name>
+		<name normalized="سوrوکא" languages="Western Punjabi">سوروکا</name>
+		<name normalized="索羅卡" languages="Chinese">索羅卡</name>
+		<name normalized="소로카" languages="Korean">소로카</name>
+	</region>
+	<region name="Stefan-Voda" type="raion" typeTranslated="raion">
+		<name normalized="Distretto di Stefan Voda" languages="Italian">Distretto di Ștefan Vodă</name>
+		<name normalized="Districte de Stefan Voda" languages="Catalan">Districte de Ştefan Vodă</name>
+		<name normalized="Distrito de Stefan Voda" languages="Spanish">Distrito de Ștefan Vodă</name>
+		<name normalized="Okres Stefan Voda" languages="Czech">Okres Ştefan Vodă</name>
+		<name normalized="Raion de Stefan Voda" languages="French">Raion de Ștefan Vodă</name>
+		<name normalized="Raionul Stefan Voda" languages="Albanian;Indonesian">Raionul Ştefan Vodă</name>
+		<name normalized="Raionul Stefan Voda" languages="Romanian">Raionul Ștefan Vodă</name>
+		<name normalized="Rajon Stefan Voda" languages="German">Rajon Ștefan Vodă</name>
+		<name normalized="Rejon Stefan Voda" languages="Polish">Rejon Ştefan Vodă</name>
+		<name normalized="Stefan-Voda" languages="English;official">Stefan-Voda</name>
+		<name normalized="Stefan-Voda Raion" languages="English;official">Stefan-Voda Raion</name>
+		<name normalized="Stefan Voda" languages="Portuguese;Slovak">Ştefan Vodă</name>
+		<name normalized="Stefan Voda" languages="Dutch">Ștefan Vodă</name>
+		<name normalized="Stefan Voda District" languages="English">Ștefan Vodă District</name>
+		<name normalized="Stefan Vodan piiri" languages="Finnish">Ștefan Vodăn piiri</name>
+		<name normalized="Рaйoнuл Stiфaн Vode" languages="Moldavian">Районул Штефан Водэ</name>
+		<name normalized="Stiфaн-Vodсkiй рaйoн" languages="Russian">Штефан-Водский район</name>
+		<name normalized="Stiфaн-Vodсьkiй рaйoн" languages="Ukrainian">Штефан-Водський район</name>
+		<name normalized="Щiфaнvodсki рaйoн" languages="Bulgarian">Щефанводски район</name>
+		<name normalized="dلع شtیfאن وودא" languages="Western Punjabi">ضلع شتیفان وودا</name>
+		<name normalized="斯特凡大公區" languages="Chinese">斯特凡大公區</name>
+		<name normalized="슈테판보더 구" languages="Korean">슈테판보더 구</name>
+	</region>
+	<region name="Stinga Nistrului" type="territorial unit" typeTranslated="unitatea teritoriala autonoma">
+		<name normalized="Dnestranrand" languages="Veps">Dnestranrand</name>
+		<name normalized="Dnestryanı" languages="Azerbaijani">Dnestryanı</name>
+		<name normalized="Dnyeszter Menti Koztarsasag" languages="Hungarian">Dnyeszter Menti Köztársaság</name>
+		<name normalized="Naddniestrze" languages="Polish">Naddniestrze</name>
+		<name normalized="Padniestre" languages="Lithuanian">Padniestrė</name>
+		<name normalized="Piednestras Moldavu Republika" languages="Latvian">Piedņestras Moldāvu Republika</name>
+		<name normalized="Podnestersko" languages="Slovak">Podnestersko</name>
+		<name normalized="Podnjesterska" languages="Upper Sorbian">Podnjesterska</name>
+		<name normalized="Podnestri" languages="Czech">Podněstří</name>
+		<name normalized="Pridnestrovye" languages="Crimean Turkish">Pridnestrovye</name>
+		<name normalized="Pridnjestrovlje" languages="Serbo-Croatian">Pridnjestrovlje</name>
+		<name normalized="Pridnjestrovska Moldavska Republika" languages="Bosnian;Croatian">Pridnjestrovska Moldavska Republika</name>
+		<name normalized="Pridnjestrska republika" languages="Slovenian">Pridnjestrska republika</name>
+		<name normalized="Podnjesterska" languages="Lower Sorbian">Pódnjesterska</name>
+		<name normalized="Republica de Transnistrie moldava" languages="Franco-Provencal">Rèpublica de Transnistrie moldava</name>
+		<name normalized="Stinga Nistrului" languages="English;official">Stinga Nistrului</name>
+		<name normalized="Transdinyester" languages="Turkish">Transdinyester</name>
+		<name normalized="Transnistri" languages="Cornish">Transnistri</name>
+		<name normalized="Transnistria" languages="Aragonese;Asturian;Basque;English;Estonian;Finnish;Galician;Indonesian;Interlingue;Italian;Javanese;Malay;Neapolitan;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Piedmontese;Romanian;Sicilian;Simple English;Spanish;Sundanese;Swahili;Tagalog;Vietnamese;Waray;Welsh;Yoruba">Transnistria</name>
+		<name normalized="Transnistrie" languages="French;Scots">Transnistrie</name>
+		<name normalized="Transnistrien" languages="Danish;German;Low German;Northern Frisian;Swedish">Transnistrien</name>
+		<name normalized="Transnistrija" languages="Maltese">Transnistrija</name>
+		<name normalized="Transnistriya" languages="Gagauz">Transnistriya</name>
+		<name normalized="Transnistrie" languages="Afrikaans;Dutch">Transnistrië</name>
+		<name normalized="Transnistria" languages="Icelandic">Transnistría</name>
+		<name normalized="Transnistria" languages="Catalan;Occitan;Portuguese">Transnístria</name>
+		<name normalized="Transnistriya" languages="Kurdish">Transnîstriya</name>
+		<name normalized="Transtyria" languages="Latin">Transtyria</name>
+		<name normalized="Treuznistria" languages="Breton">Treuznistria</name>
+		<name normalized="Cednestrio" languages="Esperanto">Ĉednestrio</name>
+		<name normalized="Υπερδνειστερια" languages="Greek">Υπερδνειστερία</name>
+		<name normalized="Dнiсtр bui Мoлdovaн Zɵмһүрiiti" languages="Tatar">Днестр буе Молдован Җөмһүрияте</name>
+		<name normalized="Dнiсtр buйы рiсpubлikaһы" languages="Bashkir">Днестр буйы республикаһы</name>
+		<name normalized="Dнiсtр Kivсiн Мoлdavмudiн Taңһc" languages="Kalmyk">Днестр Кевсин Молдавмудин Таңһч</name>
+		<name normalized="Dнiсtрdoр" languages="Komi">Днестрдор</name>
+		<name normalized="Dнiсtырpыt Мoлdove Рiсpubлike" languages="Kabardian">Днестырпыт Молдовэ Республикэ</name>
+		<name normalized="Pрidнiсtрovii" languages="Bulgarian;Macedonian">Приднестровие</name>
+		<name normalized="Pрidнiсtрovсkai Мoлdavсkai Рiсpubлika" languages="Russian">Приднестровская Молдавская Республика</name>
+		<name normalized="Pрidнiсtрovьi" languages="Chechen;Ossetic">Приднестровье</name>
+		<name normalized="Pрidнiсtрovсьka Мoлdavсьka Рiсpubлika" languages="Ukrainian">Придністровська Молдавська Республіка</name>
+		<name normalized="Pрidънѣсtрiѥ" languages="Church Slavic">Придънѣстриѥ</name>
+		<name normalized="Pрidniсtрovli" languages="Serbian">Придњестровље</name>
+		<name normalized="Pрыdнiсtрoўi" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Прыднястроўе</name>
+		<name normalized="Рipubлika Мoлdoviнiсke Нiсtрiнe" languages="Moldavian">Република Молдовеняскэ Нистрянэ</name>
+		<name normalized="Tрaнснiсtрii" languages="Kazakh">Транснистрия</name>
+		<name normalized="Mեrjdնեstrի Mvldvվաkան Hանrաpեtvytյvyն" languages="Armenian">Մերձդնեստրի Մոլդովական Հանրապետություն</name>
+		<name normalized="trאnסnיסtrיע" languages="Yiddish">טראנסניסטריע</name>
+		<name normalized="trnסnיסtrיh" languages="Hebrew">טרנסניסטריה</name>
+		<name normalized="trאنسنyسtryא" languages="Arabic;Egyptian Spoken Arabic">ترانسنيستريا</name>
+		<name normalized="trنسنیسtrیא" languages="Persian">ترنسنیستریا</name>
+		<name normalized="ٹrאنسنسٹrیא" languages="Western Punjabi">ٹرانسنسٹریا</name>
+		<name normalized="ٹrینسنیسٹrیא" languages="Urdu">ٹرینسنیسٹریا</name>
+		<name normalized="ޓުރާންސްނިސްޓުރިއާ" languages="Divehi">ޓުރާންސްނިސްޓުރިއާ</name>
+		<name normalized="ट्rाn्snis्ट्riyा" languages="Marathi">ट्रान्सनिस्ट्रिया</name>
+		<name normalized="ਟrਾਂsnistria" languages="Punjabi">ਟਰਾਂਸਨਿਸਤਰੀਆ</name>
+		<name normalized="திரான்சுனிஸ்திரியா" languages="Tamil">திரான்சுனிஸ்திரியா</name>
+		<name normalized="ട്രാൻസ്‌നിസ്ട്രിയ" languages="Malayalam">ട്രാൻസ്‌നിസ്ട്രിയ</name>
+		<name normalized="ทรานส์นิสเตรีย" languages="Thai">ทรานส์นิสเตรีย</name>
+		<name normalized="დნესტრისპირეთი" languages="Georgian">დნესტრისპირეთი</name>
+		<name normalized="德涅斯特河沿岸" languages="Chinese">德涅斯特河沿岸</name>
+		<name normalized="德涅斯特河沿岸共和國" languages="Cantonese">德涅斯特河沿岸共和國</name>
+		<name normalized="沿dnestr共和国" languages="Japanese">沿ドニエストル共和国</name>
+		<name normalized="트란스니스트리아" languages="Korean">트란스니스트리아</name>
+	</region>
+	<region name="Straseni" type="raion" typeTranslated="raion">
+		<name normalized="Straseni" languages="English;official;Portuguese">Straseni</name>
+		<name normalized="Straseni Raion" languages="English;official">Straseni Raion</name>
+		<name normalized="Straszany" languages="Polish">Straszany</name>
+		<name normalized="Stresenis" languages="Lithuanian">Strešenis</name>
+		<name normalized="Straseni" languages="Galician;Indonesian;Italian;Spanish">Străşeni</name>
+		<name normalized="Straseni" languages="Dutch;English;Romanian">Strășeni</name>
+		<name normalized="Сtрasiнi" languages="Ukrainian">Страшени</name>
+		<name normalized="Сtрasiны" languages="Russian">Страшены</name>
+		<name normalized="Сtрeseнь" languages="biлaрuсkai (taрaskivita)‎">Стрэшэнь</name>
+		<name normalized="سtrאشنی" languages="Western Punjabi">ستراشنی</name>
+		<name normalized="斯特勒謝尼" languages="Chinese">斯特勒謝尼</name>
+	</region>
+	<region name="Taraclia" type="raion" typeTranslated="raion">
+		<name normalized="Taraclia" languages="Dutch;English;Italian;official;Polish;Romanian;Spanish;Swedish">Taraclia</name>
+		<name normalized="Taraclia Raion" languages="English;official">Taraclia Raion</name>
+		<name normalized="Taraklija" languages="Lithuanian">Taraklija</name>
+		<name normalized="Taрakлii" languages="Bulgarian;Moldavian;Russian">Тараклия</name>
+		<name normalized="Taрakлii" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Тараклія</name>
+		<name normalized="trאکلیא" languages="Western Punjabi">تراکلیا</name>
+		<name normalized="塔拉克利亞" languages="Chinese">塔拉克利亞</name>
+	</region>
+	<region name="Telenesti" type="raion" typeTranslated="raion">
+		<name normalized="Telenesti" languages="English;official">Telenesti</name>
+		<name normalized="Telenesti Raion" languages="English;official">Telenesti Raion</name>
+		<name normalized="Telenesti" languages="Indonesian;Italian;Polish">Teleneşti</name>
+		<name normalized="Telenesti" languages="Dutch;English;Romanian">Telenești</name>
+		<name normalized="Tiлiнisti" languages="Ukrainian">Теленешти</name>
+		<name normalized="Tiлiнistы" languages="Russian">Теленешты</name>
+		<name normalized="tדnשtי" languages="Hebrew">טלנשטי</name>
+		<name normalized="tیلینیشtی" languages="Western Punjabi">تیلینیشتی</name>
+		<name normalized="泰萊內什蒂" languages="Chinese">泰萊內什蒂</name>
+	</region>
+	<region name="Ungheni" type="raion" typeTranslated="raion">
+		<name normalized="Ungenis" languages="Lithuanian">Ungenis</name>
+		<name normalized="Ungheni" languages="Catalan;Croatian;Czech;Danish;Dutch;English;French;German;Italian;Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Spanish;Swedish">Ungheni</name>
+		<name normalized="Ungheni Raion" languages="English;official">Ungheni Raion</name>
+		<name normalized="Uнgiн" languages="Bulgarian">Унген</name>
+		<name normalized="Uнgiнi" languages="Macedonian;Ukrainian">Унгени</name>
+		<name normalized="Uнgiнь" languages="Russian;biлaрuсkai (taрaskivita)‎">Унгень</name>
+		<name normalized="אvnגnי" languages="Hebrew">אונגני</name>
+		<name normalized="溫格內" languages="Chinese">溫格內</name>
+		<name normalized="운게니" languages="Korean">운게니</name>
+	</region>
+</regions>

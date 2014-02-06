@@ -1,0 +1,294 @@
+<regions country="Namibia">
+	<region name="//Karas" type="region" typeTranslated="region">
+		<name normalized="!Karas" languages="Dutch;Polish">!Karas</name>
+		<name normalized="//Karas" languages="English;official">//Karas</name>
+		<name normalized="//Karas Region" languages="English;official">//Karas Region</name>
+		<name normalized="Karas" languages="Catalan;Croatian;Czech;Dutch;English;Finnish;French;German;Indonesian;Norwegian (bokmal);official;Portuguese;Spanish;Turkish">Karas</name>
+		<name normalized="Karas Region" languages="English;official">Karas Region</name>
+		<name normalized="Karas-regiono" languages="Esperanto">Karas-regiono</name>
+		<name normalized="Karasi ringkond" languages="Estonian">Karasi ringkond</name>
+		<name normalized="Karaso regionas" languages="Lithuanian">Karaso regionas</name>
+		<name normalized="Mkoa wa Karas" languages="Swahili">Mkoa wa Karas</name>
+		<name normalized="Regione di Karas" languages="Italian">Regione di Karas</name>
+		<name normalized="Regiunea Karas" languages="Romanian">Regiunea Karas</name>
+		<name normalized="ǀǀKaras" languages="Afrikaans">ǀǀKaras</name>
+		<name normalized="ǁKaras" languages="German">ǁKaras</name>
+		<name normalized="ǁKaras Region" languages="English">ǁKaras Region</name>
+		<name normalized="Kaрaс" languages="Bulgarian;Russian">Карас</name>
+		<name normalized="sوbہ کrאس" languages="Western Punjabi">صوبہ کراس</name>
+		<name normalized="kाrाs p्rdes" languages="Hindi">कारास प्रदेश</name>
+		<name normalized="krs州" languages="Japanese">カラス州</name>
+		<name normalized="卡拉斯區" languages="Chinese">卡拉斯區</name>
+		<name normalized="카라스" languages="Korean">카라스</name>
+		<name normalized="카라스 주" languages="Korean">카라스 주</name>
+	</region>
+	<region name="Erongo" type="region" typeTranslated="region">
+		<name normalized="Erongo" languages="Afrikaans;Catalan;Croatian;Dutch;English;Finnish;French;German;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Turkish">Erongo</name>
+		<name normalized="Erongo Region" languages="English;official">Erongo Region</name>
+		<name normalized="Erongo regionas" languages="Lithuanian">Erongo regionas</name>
+		<name normalized="Erongo ringkond" languages="Estonian">Erongo ringkond</name>
+		<name normalized="Erongo-regiono" languages="Esperanto">Erongo-regiono</name>
+		<name normalized="Mkoa wa Erongo" languages="Swahili">Mkoa wa Erongo</name>
+		<name normalized="Regione degli Erongo" languages="Italian">Regione degli Erongo</name>
+		<name normalized="Regiunea Erongo" languages="Romanian">Regiunea Erongo</name>
+		<name normalized="Iрoнgo" languages="Bulgarian;Ukrainian">Еронго</name>
+		<name normalized="Eрoнgo" languages="Russian">Эронго</name>
+		<name normalized="אrvnגv" languages="Hebrew">ארונגו</name>
+		<name normalized="إqلym إyrونغو" languages="Arabic">إقليم إيرونغو</name>
+		<name normalized="sوbہ אrونgو" languages="Western Punjabi">صوبہ ارونگو</name>
+		<name normalized="eroंgo p्rdes" languages="Hindi">एरोंगो प्रदेश</name>
+		<name normalized="erng州" languages="Japanese">エロンゴ州</name>
+		<name normalized="埃龍戈區" languages="Chinese">埃龍戈區</name>
+		<name normalized="에롱고 주" languages="Korean">에롱고 주</name>
+	</region>
+	<region name="Hardap" type="region" typeTranslated="region">
+		<name normalized="Hardap" languages="Afrikaans;Catalan;Croatian;Dutch;English;Estonian;Finnish;French;German;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Turkish">Hardap</name>
+		<name normalized="Hardap Region" languages="English;official">Hardap Region</name>
+		<name normalized="Hardap-regiono" languages="Esperanto">Hardap-regiono</name>
+		<name normalized="Hardapi ringkond" languages="Estonian">Hardapi ringkond</name>
+		<name normalized="Hardapo regionas" languages="Lithuanian">Hardapo regionas</name>
+		<name normalized="Mkoa wa Hardap" languages="Swahili">Mkoa wa Hardap</name>
+		<name normalized="Regione di Hardap" languages="Italian">Regione di Hardap</name>
+		<name normalized="Regiunea Hardap" languages="Romanian">Regiunea Hardap</name>
+		<name normalized="Kaрdap" languages="Bulgarian;Russian">Хардап</name>
+		<name normalized="sوbہ ہrدp" languages="Western Punjabi">صوبہ ہردپ</name>
+		<name normalized="hाrडाp p्rdes" languages="Hindi">हारडाप प्रदेश</name>
+		<name normalized="hrdp州" languages="Japanese">ハルダプ州</name>
+		<name normalized="哈達普區" languages="Chinese">哈達普區</name>
+		<name normalized="하르다프 주" languages="Korean">하르다프 주</name>
+	</region>
+	<region name="Kavango East" type="region" typeTranslated="region">
+		<name normalized="East Kavango" languages="English;official">East Kavango</name>
+		<name normalized="East Kavango Region" languages="English;official">East Kavango Region</name>
+		<name normalized="Kavangai" languages="Lithuanian">Kavangai</name>
+		<name normalized="Kavango" languages="Croatian;Dutch;English;French;German;Italian;official;Polish;Portuguese;Spanish;Swedish;Turkish">Kavango</name>
+		<name normalized="Kavango East" languages="English;official">Kavango East</name>
+		<name normalized="Kavango East Region" languages="English;official">Kavango East Region</name>
+		<name normalized="Kavango people" languages="English">Kavango people</name>
+		<name normalized="Kavango Region" languages="English;official">Kavango Region</name>
+		<name normalized="Kavango-Ost" languages="German">Kavango-Ost</name>
+		<name normalized="Kavango-regiono" languages="Esperanto">Kavango-regiono</name>
+		<name normalized="Kavangoj" languages="Esperanto">Kavangoj</name>
+		<name normalized="Kavangon alue" languages="Finnish">Kavangon alue</name>
+		<name normalized="Kavangos" languages="French">Kavangos</name>
+		<name normalized="Kawango" languages="Afrikaans">Kawango</name>
+		<name normalized="Kawango's" languages="Afrikaans">Kawango's</name>
+		<name normalized="Mkoa wa Kavango" languages="Swahili">Mkoa wa Kavango</name>
+		<name normalized="Okavango" languages="Norwegian (bokmal)">Okavango</name>
+		<name normalized="Okavango regionas" languages="Lithuanian">Okavango regionas</name>
+		<name normalized="Okavango ringkond" languages="Estonian">Okavango ringkond</name>
+		<name normalized="Regione di Kavango" languages="Italian">Regione di Kavango</name>
+		<name normalized="Regiunea Kavango" languages="Romanian">Regiunea Kavango</name>
+		<name normalized="Okavaнgo" languages="Bulgarian;Russian">Окаванго</name>
+		<name normalized="sوbہ کאوאنgو" languages="Western Punjabi">صوبہ کاوانگو</name>
+		<name normalized="kvांgo p्rdes" languages="Hindi">कवांगो प्रदेश</name>
+		<name normalized="kbng州" languages="Japanese">カバンゴ州</name>
+		<name normalized="奧卡萬戈區" languages="Chinese">奧卡萬戈區</name>
+		<name normalized="카방고 주" languages="Korean">카방고 주</name>
+	</region>
+	<region name="Kavango West" type="region" typeTranslated="region">
+		<name normalized="Kavangai" languages="Lithuanian">Kavangai</name>
+		<name normalized="Kavango" languages="Croatian;Dutch;English;French;German;Italian;official;Polish;Portuguese;Spanish;Swedish;Turkish">Kavango</name>
+		<name normalized="Kavango people" languages="English">Kavango people</name>
+		<name normalized="Kavango Region" languages="English;official">Kavango Region</name>
+		<name normalized="Kavango West" languages="English;official">Kavango West</name>
+		<name normalized="Kavango West Region" languages="English;official">Kavango West Region</name>
+		<name normalized="Kavango-regiono" languages="Esperanto">Kavango-regiono</name>
+		<name normalized="Kavango-West" languages="German">Kavango-West</name>
+		<name normalized="Kavangoj" languages="Esperanto">Kavangoj</name>
+		<name normalized="Kavangon alue" languages="Finnish">Kavangon alue</name>
+		<name normalized="Kavangos" languages="French">Kavangos</name>
+		<name normalized="Kawango" languages="Afrikaans">Kawango</name>
+		<name normalized="Kawango's" languages="Afrikaans">Kawango's</name>
+		<name normalized="Mkoa wa Kavango" languages="Swahili">Mkoa wa Kavango</name>
+		<name normalized="Okavango" languages="Norwegian (bokmal)">Okavango</name>
+		<name normalized="Okavango regionas" languages="Lithuanian">Okavango regionas</name>
+		<name normalized="Okavango ringkond" languages="Estonian">Okavango ringkond</name>
+		<name normalized="Regione di Kavango" languages="Italian">Regione di Kavango</name>
+		<name normalized="Regiunea Kavango" languages="Romanian">Regiunea Kavango</name>
+		<name normalized="West Kavango" languages="English;official">West Kavango</name>
+		<name normalized="West Kavango Region" languages="English;official">West Kavango Region</name>
+		<name normalized="Okavaнgo" languages="Bulgarian;Russian">Окаванго</name>
+		<name normalized="sوbہ کאوאنgو" languages="Western Punjabi">صوبہ کاوانگو</name>
+		<name normalized="kvांgo p्rdes" languages="Hindi">कवांगो प्रदेश</name>
+		<name normalized="kbng州" languages="Japanese">カバンゴ州</name>
+		<name normalized="奧卡萬戈區" languages="Chinese">奧卡萬戈區</name>
+		<name normalized="카방고 주" languages="Korean">카방고 주</name>
+	</region>
+	<region name="Khomas" type="region" typeTranslated="region">
+		<name normalized="Chomaso regionas" languages="Lithuanian">Chomaso regionas</name>
+		<name normalized="Khomas" languages="Afrikaans;Croatian;Dutch;English;Finnish;French;German;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Turkish;Vietnamese">Khomas</name>
+		<name normalized="Khomas Region" languages="English;official">Khomas Region</name>
+		<name normalized="Khomasi ringkond" languages="Estonian">Khomasi ringkond</name>
+		<name normalized="Mkoa wa Khomas" languages="Swahili">Mkoa wa Khomas</name>
+		<name normalized="Regione di Khomas" languages="Italian">Regione di Khomas</name>
+		<name normalized="Regiunea Khomas" languages="Romanian">Regiunea Khomas</name>
+		<name normalized="Kkoмaс" languages="Bulgarian;Russian">Кхомас</name>
+		<name normalized="إqلym خوmאس" languages="Arabic">إقليم خوماس</name>
+		<name normalized="sوbہ خوmאس" languages="Western Punjabi">صوبہ خوماس</name>
+		<name normalized="komाs p्rdes" languages="Hindi">खोमास प्रदेश</name>
+		<name normalized="hms州" languages="Japanese">ホマス州</name>
+		<name normalized="霍馬斯區" languages="Chinese">霍馬斯區</name>
+		<name normalized="호마스 주" languages="Korean">호마스 주</name>
+	</region>
+	<region name="Kunene" type="region" typeTranslated="region">
+		<name normalized="Kunene" languages="Afrikaans;Croatian;Dutch;English;Finnish;French;German;Luxembourgish;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Turkish">Kunene</name>
+		<name normalized="Kunene Region" languages="English;official">Kunene Region</name>
+		<name normalized="Kunene ringkond" languages="Estonian">Kunene ringkond</name>
+		<name normalized="Kunenes regionas" languages="Lithuanian">Kunenės regionas</name>
+		<name normalized="Mkoa wa Kunene" languages="Swahili">Mkoa wa Kunene</name>
+		<name normalized="Regione del Kunene" languages="Italian">Regione del Kunene</name>
+		<name normalized="Kuнiнi" languages="Bulgarian;Russian">Кунене</name>
+		<name normalized="qvnnh" languages="Hebrew">קוננה</name>
+		<name normalized="sوbہ کنونے" languages="Western Punjabi">صوبہ کنونے</name>
+		<name normalized="kunene p्rdes" languages="Hindi">कुनेने प्रदेश</name>
+		<name normalized="knn州" languages="Japanese">クネネ州</name>
+		<name normalized="庫內內區" languages="Chinese">庫內內區</name>
+		<name normalized="쿠네네 주" languages="Korean">쿠네네 주</name>
+	</region>
+	<region name="Ohangwena" type="region" typeTranslated="region">
+		<name normalized="Mkoa wa Ohangwena" languages="Swahili">Mkoa wa Ohangwena</name>
+		<name normalized="Ohangvenos regionas" languages="Lithuanian">Ohangvenos regionas</name>
+		<name normalized="Ohangwena" languages="Afrikaans;Croatian;Dutch;English;Finnish;French;German;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Turkish">Ohangwena</name>
+		<name normalized="Ohangwena Region" languages="English;official">Ohangwena Region</name>
+		<name normalized="Ohangwena ringkond" languages="Estonian">Ohangwena ringkond</name>
+		<name normalized="Regione di Ohangwena" languages="Italian">Regione di Ohangwena</name>
+		<name normalized="Regiunea Ohangwena" languages="Romanian">Regiunea Ohangwena</name>
+		<name normalized="Okaнgviнa" languages="Bulgarian;Russian">Охангвена</name>
+		<name normalized="sوbہ אوہنgوینא" languages="Western Punjabi">صوبہ اوہنگوینا</name>
+		<name normalized="ohांgvenा p्rdes" languages="Hindi">ओहांगवेना प्रदेश</name>
+		<name normalized="ohnguen州" languages="Japanese">オハングウェナ州</name>
+		<name normalized="奧漢圭納區" languages="Chinese">奧漢圭納區</name>
+		<name normalized="오항그웨나 주" languages="Korean">오항그웨나 주</name>
+	</region>
+	<region name="Omaheke" type="region" typeTranslated="region">
+		<name normalized="Mkoa wa Omaheke" languages="Swahili">Mkoa wa Omaheke</name>
+		<name normalized="Omaheke" languages="Afrikaans;Croatian;Dutch;English;Finnish;French;German;Norwegian (bokmal);official;Polish;Portuguese;Slovak;Spanish;Turkish">Omaheke</name>
+		<name normalized="Omaheke Region" languages="English;official">Omaheke Region</name>
+		<name normalized="Omaheke ringkond" languages="Estonian">Omaheke ringkond</name>
+		<name normalized="Omahekes regionas" languages="Lithuanian">Omahekės regionas</name>
+		<name normalized="Regione di Omaheke" languages="Italian">Regione di Omaheke</name>
+		<name normalized="Regiunea Omaheke" languages="Romanian">Regiunea Omaheke</name>
+		<name normalized="Oмakiki" languages="Bulgarian;Russian">Омахеке</name>
+		<name normalized="sوbہ אوmאہیکے" languages="Western Punjabi">صوبہ اوماہیکے</name>
+		<name normalized="omाheke p्rdes" languages="Hindi">ओमाहेके प्रदेश</name>
+		<name normalized="omhk州" languages="Japanese">オマヘケ州</name>
+		<name normalized="奧馬海凱區" languages="Chinese">奧馬海凱區</name>
+		<name normalized="오마헤케 주" languages="Korean">오마헤케 주</name>
+	</region>
+	<region name="Omusati" type="region" typeTranslated="region">
+		<name normalized="Mkoa wa Omusati" languages="Swahili">Mkoa wa Omusati</name>
+		<name normalized="Omoesati" languages="Afrikaans">Omoesati</name>
+		<name normalized="Omusati" languages="Croatian;Dutch;English;Finnish;French;German;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Turkish">Omusati</name>
+		<name normalized="Omusati Region" languages="English;official">Omusati Region</name>
+		<name normalized="Omusati ringkond" languages="Estonian">Omusati ringkond</name>
+		<name normalized="Regione di Omusati" languages="Italian">Regione di Omusati</name>
+		<name normalized="Regiunea Omusati" languages="Romanian">Regiunea Omusati</name>
+		<name normalized="Oмuсati" languages="Bulgarian;Russian">Омусати</name>
+		<name normalized="sوbہ אوmوسאٹی" languages="Western Punjabi">صوبہ اوموساٹی</name>
+		<name normalized="omusाti p्rdes" languages="Hindi">ओमुसाती प्रदेश</name>
+		<name normalized="ਓmusਾਟi" languages="Punjabi">ਓਮੁਸਾਟੀ</name>
+		<name normalized="omsti州" languages="Japanese">オムサティ州</name>
+		<name normalized="奧穆薩蒂區" languages="Chinese">奧穆薩蒂區</name>
+		<name normalized="오무사티 주" languages="Korean">오무사티 주</name>
+	</region>
+	<region name="Oshana" type="region" typeTranslated="region">
+		<name normalized="Mkoa wa Oshana" languages="Swahili">Mkoa wa Oshana</name>
+		<name normalized="Oshana" languages="Croatian;Dutch;English;Finnish;French;German;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Turkish">Oshana</name>
+		<name normalized="Oshana Region" languages="English;official">Oshana Region</name>
+		<name normalized="Osjana" languages="Afrikaans">Osjana</name>
+		<name normalized="Regione dell'Oshana" languages="Italian">Regione dell'Oshana</name>
+		<name normalized="Osaнa" languages="Bulgarian;Russian">Ошана</name>
+		<name normalized="sوbہ אوشאنہ" languages="Western Punjabi">صوبہ اوشانہ</name>
+		<name normalized="osाnा p्rdes" languages="Hindi">ओशाना प्रदेश</name>
+		<name normalized="osyn州" languages="Japanese">オシャナ州</name>
+		<name normalized="奧沙納區" languages="Chinese">奧沙納區</name>
+		<name normalized="오샤나 주" languages="Korean">오샤나 주</name>
+	</region>
+	<region name="Oshikoto" type="region" typeTranslated="region">
+		<name normalized="Mkoa wa Oshikoto" languages="Swahili">Mkoa wa Oshikoto</name>
+		<name normalized="Oshikoto" languages="Croatian;Dutch;English;Finnish;French;German;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Turkish">Oshikoto</name>
+		<name normalized="Oshikoto Region" languages="English;official">Oshikoto Region</name>
+		<name normalized="Osjikoto" languages="Afrikaans">Osjikoto</name>
+		<name normalized="Regione di Oshikoto" languages="Italian">Regione di Oshikoto</name>
+		<name normalized="Osikoto" languages="Bulgarian;Russian">Ошикото</name>
+		<name normalized="sوbہ אوشیکوٹو" languages="Western Punjabi">صوبہ اوشیکوٹو</name>
+		<name normalized="osikoto p्rdes" languages="Hindi">ओशीकोतो प्रदेश</name>
+		<name normalized="oskt州" languages="Japanese">オシコト州</name>
+		<name normalized="奧希科托區" languages="Chinese">奧希科托區</name>
+		<name normalized="오시코토 주" languages="Korean">오시코토 주</name>
+	</region>
+	<region name="Otjozondjupa" type="region" typeTranslated="region">
+		<name normalized="Mkoa wa Otjozondjupa" languages="Swahili">Mkoa wa Otjozondjupa</name>
+		<name normalized="Otjozondjoepa" languages="Afrikaans">Otjozondjoepa</name>
+		<name normalized="Otjozondjupa" languages="Croatian;Dutch;English;French;German;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Turkish">Otjozondjupa</name>
+		<name normalized="Otjozondjupa Region" languages="English;official">Otjozondjupa Region</name>
+		<name normalized="Otjozondjupa ringkond" languages="Estonian">Otjozondjupa ringkond</name>
+		<name normalized="Regione di Otjozondjupa" languages="Italian">Regione di Otjozondjupa</name>
+		<name normalized="Ocoсoнdьюpa" languages="Russian">Очосондьюпа</name>
+		<name normalized="Ocoсoнdюpa" languages="Bulgarian">Очосондюпа</name>
+		<name normalized="sوbہ אوٹیوزندیאpא" languages="Western Punjabi">صوبہ اوٹیوزندیاپا</name>
+		<name normalized="oट्yoj़n्d्yupा p्rdes" languages="Hindi">ओट्योज़न्द्यूपा प्रदेश</name>
+		<name normalized="otョsndyp州" languages="Japanese">オチョソンデュパ州</name>
+		<name normalized="奧喬宗朱帕區" languages="Chinese">奧喬宗朱帕區</name>
+		<name normalized="오초존주파 주" languages="Korean">오초존주파 주</name>
+	</region>
+	<region name="Zambezi" type="region" typeTranslated="region">
+		<name normalized="Afon Zambezi" languages="Welsh">Afon Zambezi</name>
+		<name normalized="Caprivi" languages="Catalan;Croatian;Czech;Finnish;French;Malay;Norwegian (bokmal);Portuguese;Spanish;Turkish">Caprivi</name>
+		<name normalized="Caprivi ringkond" languages="Estonian">Caprivi ringkond</name>
+		<name normalized="Caprivi-regiono" languages="Esperanto">Caprivi-regiono</name>
+		<name normalized="Fluviul Zambezi" languages="Romanian">Fluviul Zambezi</name>
+		<name normalized="Kali Zambezi" languages="Javanese">Kali Zambezi</name>
+		<name normalized="Kaprivio regionas" languages="Lithuanian">Kaprivio regionas</name>
+		<name normalized="Mkoa wa Caprivi" languages="Swahili">Mkoa wa Caprivi</name>
+		<name normalized="Regione dello Zambesi" languages="Italian">Regione dello Zambesi</name>
+		<name normalized="Regiunea Caprivi" languages="Romanian">Regiunea Caprivi</name>
+		<name normalized="Rio Zambeze" languages="Portuguese">Rio Zambeze</name>
+		<name normalized="Riu Zambezi" languages="Catalan">Riu Zambezi</name>
+		<name normalized="Rwizi Zambezi" languages="Shona">Rwizi Zambezi</name>
+		<name normalized="Rio Zambeze" languages="Galician;Spanish">Río Zambeze</name>
+		<name normalized="Sambesi" languages="Afrikaans;Alemannisch;Finnish;German">Sambesi</name>
+		<name normalized="Sambesi" languages="Icelandic">Sambesí</name>
+		<name normalized="Sungai Zambezi" languages="Indonesian">Sungai Zambezi</name>
+		<name normalized="Zambesi" languages="Italian">Zambesi</name>
+		<name normalized="Zambezi" languages="Basque;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Ido;Interlingua;Latvian;lumbaart;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Serbo-Croatian;Slovak;Slovenian;Swahili;Swedish;Tagalog;Turkish;Uzbek;Vietnamese">Zambezi</name>
+		<name normalized="Zambezi Region" languages="English;official">Zambezi Region</name>
+		<name normalized="Zambezi River" languages="Simple English">Zambezi River</name>
+		<name normalized="Zambezi cayı" languages="Azerbaijani">Zambezi çayı</name>
+		<name normalized="Zambezirivier" languages="Afrikaans">Zambezirivier</name>
+		<name normalized="Zambeze" languages="Lithuanian">Zambezė</name>
+		<name normalized="Zambeze" languages="French">Zambèze</name>
+		<name normalized="Zambezi" languages="Occitan">Zambèzi</name>
+		<name normalized="Zambezi" languages="Hungarian">Zambézi</name>
+		<name normalized="Ζαμβeζης" languages="Greek">Ζαμβέζης</name>
+		<name normalized="Zaмbizi" languages="Bulgarian;Macedonian;Russian;Serbian;buрiad">Замбези</name>
+		<name normalized="Zaмbizi goл" languages="Mongolian">Замбези гол</name>
+		<name normalized="Zaмbizi" languages="Ukrainian">Замбезі</name>
+		<name normalized="Zaмbezi" languages="biлaрuсkai (taрaskivita)‎">Замбэзі</name>
+		<name normalized="Kapрivi" languages="Bulgarian;Russian">Каприви</name>
+		<name normalized="Рaka Zaмbizi" languages="Belarusian">Рака Замбезі</name>
+		<name normalized="Zաmbեzի" languages="Armenian">Զամբեզի</name>
+		<name normalized="זמbזי" languages="Hebrew">זמבזי</name>
+		<name normalized="دrیאۓ زیmbزی" languages="Western Punjabi">دریاۓ زیمبزی</name>
+		<name normalized="زאmbزی" languages="Persian">زامبزی</name>
+		<name normalized="sوbہ کیprیوی" languages="Western Punjabi">صوبہ کیپریوی</name>
+		<name normalized="نhr زmbyزy" languages="Arabic">نهر زمبيزي</name>
+		<name normalized="kp्rivi p्rdes" languages="Hindi">कप्रीवी प्रदेश</name>
+		<name normalized="jem्beji ndi" languages="Hindi">जेम्बेजी नदी</name>
+		<name normalized="kap੍rivi" languages="Punjabi">ਕੈਪ੍ਰੀਵੀ</name>
+		<name normalized="j਼ੰbੇj਼i dria" languages="Punjabi">ਜ਼ੰਬੇਜ਼ੀ ਦਰਿਆ</name>
+		<name normalized="சாம்பசி ஆறு" languages="Tamil">சாம்பசி ஆறு</name>
+		<name normalized="സാംബീസി നദി" languages="Malayalam">സാംബീസി നദി</name>
+		<name normalized="แม่น้ำแซมบีซี" languages="Thai">แม่น้ำแซมบีซี</name>
+		<name normalized="ཙན་པི་ཞི་གཙང་པོ།" languages="Tibetan">ཙན་པི་ཞི་གཙང་པོ།</name>
+		<name normalized="ဇမ်ဗီဇီမြစ်" languages="Burmese">ဇမ်ဗီဇီမြစ်</name>
+		<name normalized="ზამბეზი" languages="Georgian">ზამბეზი</name>
+		<name normalized="znbz川" languages="Japanese">ザンベジ川</name>
+		<name normalized="znbz州" languages="Japanese">ザンベジ州</name>
+		<name normalized="卡普里维区" languages="Chinese">卡普里维区</name>
+		<name normalized="赞比西河" languages="Chinese">赞比西河</name>
+		<name normalized="잠베지 강" languages="Korean">잠베지 강</name>
+		<name normalized="카프리비 주" languages="Korean">카프리비 주</name>
+	</region>
+</regions>

@@ -1,0 +1,57 @@
+<regions country="Iceland">
+	<region name="Austurland" type="region" typeTranslated="region">
+		<name normalized="Austurland" languages="Basque;Breton;Catalan;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Icelandic;Indonesian;Irish;Italian;Latin;Low Saxon (Netherlands);Northern Sami;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">Austurland</name>
+		<name normalized="Austurland Region" languages="English;official">Austurland Region</name>
+		<name normalized="Austurlandas" languages="Lithuanian">Austurlandas</name>
+		<name normalized="Eastern Region" languages="English">Eastern Region</name>
+		<name normalized="Eysturland" languages="Azerbaijani">Eystürland</name>
+		<name normalized="Ανατολικη Ισλανδια" languages="Greek">Ανατολική Ισλανδία</name>
+		<name normalized="Auсtuрлaнd" languages="Ukrainian">Аустурланд</name>
+		<name normalized="Ijсtiрtлaнd" languages="Serbian">Ејстиртланд</name>
+		<name normalized="Eйсtюрлaнd" languages="Russian">Эйстюрланд</name>
+		<name normalized="Eյstյvyrlանd" languages="Armenian">Էյստյուրլանդ</name>
+		<name normalized="აუსტურლანდი" languages="Georgian">აუსტურლანდი</name>
+		<name normalized="東aisrnd" languages="Japanese">東アイスランド</name>
+		<name normalized="東部區" languages="Chinese">東部區</name>
+		<name normalized="외이스튀를란드" languages="Korean">외이스튀를란드</name>
+	</region>
+	<region name="Hofudhborgarsvaedhi" type="region" typeTranslated="region">
+		<name normalized="Hofudhborgarsvaedhi" languages="English;official">Hofudhborgarsvaedhi</name>
+		<name normalized="Hofudhborgarsvaedhi Region" languages="English;official">Hofudhborgarsvaedhi Region</name>
+	</region>
+	<region name="Nordhurland Eystra" type="region" typeTranslated="region">
+		<name normalized="Nordhurland Eystra" languages="English;official">Nordhurland Eystra</name>
+		<name normalized="Region Nordhurland Eystra" languages="English;official">Region Nordhurland Eystra</name>
+	</region>
+	<region name="Nordhurland Vestra" type="region" typeTranslated="region">
+		<name normalized="Nordhurland Vestra" languages="English;official">Nordhurland Vestra</name>
+		<name normalized="Region Nordhurland Vestra" languages="English;official">Region Nordhurland Vestra</name>
+	</region>
+	<region name="Sudhurland" type="region" typeTranslated="region">
+		<name normalized="Region Sudhurland" languages="English;official">Region Sudhurland</name>
+		<name normalized="Sudhurland" languages="English;official">Sudhurland</name>
+	</region>
+	<region name="Sudhurnes" type="region" typeTranslated="region">
+		<name normalized="Region Sudhurnes" languages="English;official">Region Sudhurnes</name>
+		<name normalized="Sudhurnes" languages="English;official">Sudhurnes</name>
+	</region>
+	<region name="Vestfirdhir" type="region" typeTranslated="region">
+		<name normalized="Vestfirdhir" languages="English;official">Vestfirdhir</name>
+		<name normalized="Vestfirdhir Region" languages="English;official">Vestfirdhir Region</name>
+	</region>
+	<region name="Vesturland" type="region" typeTranslated="region">
+		<name normalized="Vesturland" languages="Azerbaijani;Basque;Breton;Catalan;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Icelandic;Indonesian;Italian;Latin;Low Saxon (Netherlands);Northern Sami;Norwegian (bokmal);official;Portuguese;Spanish">Vesturland</name>
+		<name normalized="Vesturland Region" languages="English;official">Vesturland Region</name>
+		<name normalized="Vesturlandas" languages="Lithuanian">Vesturlandas</name>
+		<name normalized="Vastlandet" languages="Swedish">Västlandet</name>
+		<name normalized="Western Region" languages="English">Western Region</name>
+		<name normalized="Δυτικη Ισλανδια" languages="Greek">Δυτική Ισλανδία</name>
+		<name normalized="Viсtiрtлaнd" languages="Serbian">Вестиртланд</name>
+		<name normalized="Viсtuрлaнd" languages="Russian;Ukrainian">Вестурланд</name>
+		<name normalized="Վեstvyrlանd" languages="Armenian">Վեստուրլանդ</name>
+		<name normalized="ვესტურლანდი" languages="Georgian">ვესტურლანდი</name>
+		<name normalized="西aisrnd" languages="Japanese">西アイスランド</name>
+		<name normalized="西部區" languages="Chinese">西部區</name>
+		<name normalized="베스튀를란드" languages="Korean">베스튀를란드</name>
+	</region>
+</regions>

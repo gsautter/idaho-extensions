@@ -1,0 +1,616 @@
+<regions country="Libya">
+	<region name="Al Butnan" type="district" typeTranslated="shabiyat">
+		<name normalized="Al Boutnan" languages="French">Al Boutnan</name>
+		<name normalized="Al Butnan" languages="Basque;Danish;Dutch;English;Esperanto;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">Al Butnan</name>
+		<name normalized="Al Butnan Destrict" languages="Scots">Al Butnan Destrict</name>
+		<name normalized="Al Butnan District" languages="English;official">Al Butnan District</name>
+		<name normalized="Al Butnan Shabiyat" languages="English;official">Al Butnan Shabiyat</name>
+		<name normalized="Al-Butnan" languages="Polish">Al-Butnan</name>
+		<name normalized="Butnan" languages="Indonesian;Malay">Butnan</name>
+		<name normalized="Butnan District" languages="English">Butnan District</name>
+		<name normalized="Butnanian" languages="Volapuk">Butnaniän</name>
+		<name normalized="Butnano savivaldybe" languages="Lithuanian">Butnano savivaldybė</name>
+		<name normalized="Butnan tartomany" languages="Hungarian">Butnán tartomány</name>
+		<name normalized="Districtul Al Butnan" languages="Romanian">Districtul Al Butnan</name>
+		<name normalized="El Butnan ili" languages="Turkish">El Butnan ili</name>
+		<name normalized="Municipalita di Butnan" languages="Italian">Municipalità di Butnan</name>
+		<name normalized="Munizip al-Butnan" languages="German">Munizip al-Butnan</name>
+		<name normalized="Aл Butнaн" languages="Bulgarian">Ал Бутнан</name>
+		<name normalized="Viлoiti Aл-Butнoн" languages="Tajik">Вилояти Ал-Бутнон</name>
+		<name normalized="Eль-Butнaн" languages="Russian;biлaрuсkai (taрaskivita)‎">Эль-Бутнан</name>
+		<name normalized="אسtאن btنאن" languages="Persian">استان بطنان</name>
+		<name normalized="شعbyة אلbtنאن" languages="Arabic">شعبية البطنان</name>
+		<name normalized="ელ-ბუტნანი" languages="Georgian">ელ-ბუტნანი</name>
+		<name normalized="btnーn県" languages="Japanese">ブトナーン県</name>
+		<name normalized="布特南省" languages="Chinese">布特南省</name>
+		<name normalized="부트난 주" languages="Korean">부트난 주</name>
+	</region>
+	<region name="Al Jabal al Akhdar" type="district" typeTranslated="shabiyat">
+		<name normalized="Al Jabal al Akhdar" languages="Basque;Danish;Dutch;English;French;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">Al Jabal al Akhdar</name>
+		<name normalized="Al Jabal al Akhdar Destrict" languages="Scots">Al Jabal al Akhdar Destrict</name>
+		<name normalized="Al Jabal al Akhdar District" languages="English;official">Al Jabal al Akhdar District</name>
+		<name normalized="Al Jabal al Akhdar Shabiyat" languages="English;official">Al Jabal al Akhdar Shabiyat</name>
+		<name normalized="Al Gabal Al Ahdar" languages="Esperanto">Al Ĝabal Al Aĥdar</name>
+		<name normalized="Al-Dzabal al-Achdar" languages="Polish">Al-Dżabal al-Achdar</name>
+		<name normalized="Cabalalakdarian" languages="Volapuk">Cäbälälakdariän</name>
+		<name normalized="Districtul Al Jabal al Akhdar" languages="Romanian">Districtul Al Jabal al Akhdar</name>
+		<name normalized="Dzsabal el-Ahdar tartomany" languages="Hungarian">Dzsabal el-Ahdar tartomány</name>
+		<name normalized="Dzabal al Achdaro savivaldybe" languages="Lithuanian">Džabal al Achdaro savivaldybė</name>
+		<name normalized="Jabal al Akhdar" languages="English">Jabal al Akhdar</name>
+		<name normalized="Municipalita di Gebel el-Achdar" languages="Italian">Municipalità di Gebel el-Achdar</name>
+		<name normalized="Munizip al-Dschabal al-Achdar" languages="German">Munizip al-Dschabal al-Achdar</name>
+		<name normalized="Viлoiti Aл Cabaл aл Axdaр" languages="Tajik">Вилояти Ал Ҷабал ал Аxдар</name>
+		<name normalized="Eль-Dzibiль-Eль-Akdaр" languages="Russian">Эль-Джебель-Эль-Ахдар</name>
+		<name normalized="Eль-Dzebaль-eль-Akdaр" languages="biлaрuсkai (taрaskivita)‎">Эль-Джэбаль-эль-Ахдар</name>
+		<name normalized="شعbyة אلjbل אلأخdr" languages="Arabic">شعبية الجبل الأخضر</name>
+		<name normalized="ელ-ჯებალ-ელ-ახდარი" languages="Georgian">ელ-ჯებალ-ელ-ახდარი</name>
+		<name normalized="zybr・ar・ahdr県" languages="Japanese">ジャバル・アル・アフダル県</name>
+		<name normalized="綠山省" languages="Chinese">綠山省</name>
+		<name normalized="자발알아크다르 주" languages="Korean">자발알아크다르 주</name>
+	</region>
+	<region name="Al Jabal al Gharbi" type="district" typeTranslated="shabiyat">
+		<name normalized="Al Djabal al Gharbi" languages="French">Al Djabal al Gharbi</name>
+		<name normalized="Al Jabal al Gharbi" languages="Dutch;English;official;Spanish;Swedish">Al Jabal al Gharbi</name>
+		<name normalized="Al Jabal al Gharbi Destrict" languages="Scots">Al Jabal al Gharbi Destrict</name>
+		<name normalized="Al Jabal al Gharbi District" languages="English;official">Al Jabal al Gharbi District</name>
+		<name normalized="Al Jabal al Gharbi Shabiyat" languages="English;official">Al Jabal al Gharbi Shabiyat</name>
+		<name normalized="Al Gabal Al Garbi" languages="Esperanto">Al Ĝabal Al Garbi</name>
+		<name normalized="Al-Dzabal al-Gharbi" languages="Polish">Al-Dżabal al-Gharbi</name>
+		<name normalized="Djebel Nefoussa" languages="French">Djebel Nefoussa</name>
+		<name normalized="Dschabal Nafusa" languages="German">Dschabal Nafusa</name>
+		<name normalized="Dzsabal el-Garbi tartomany" languages="Hungarian">Dzsabal el-Garbi tartomány</name>
+		<name normalized="Dzabal Nafusa" languages="Polish">Dżabal Nafusa</name>
+		<name normalized="Gebel Nefusa" languages="Italian">Gebel Nefusa</name>
+		<name normalized="Jabal al Gharbi District" languages="English">Jabal al Gharbi District</name>
+		<name normalized="Jabal Nafusa" languages="Catalan">Jabal Nafusa</name>
+		<name normalized="Municipalita di Gebel Garbi" languages="Italian">Municipalità di Gebel Garbi</name>
+		<name normalized="Munizip al-Dschabal al-Gharbi" languages="German">Munizip al-Dschabal al-Gharbi</name>
+		<name normalized="Nafoesagebergte" languages="Dutch">Nafoesagebergte</name>
+		<name normalized="Nafusa Mountains" languages="English">Nafusa Mountains</name>
+		<name normalized="Nafusa-montaro" languages="Esperanto">Nafusa-montaro</name>
+		<name normalized="Nefusza-hegyseg" languages="Hungarian">Nefúsza-hegység</name>
+		<name normalized="Yebel Nefusa" languages="Portuguese;Spanish">Yebel Nefusa</name>
+		<name normalized="Мuнitыpaлitet Eль-Dzabaл-eль-Gaрbi" languages="Belarusian">Муніцыпалітэт Эль-Джабал-эль-Гарбі</name>
+		<name normalized="Eль-Dzabaл-eль-Gaрbi" languages="Russian">Эль-Джабал-эль-Гарби</name>
+		<name normalized="Eль-Dzebaль-eль-Gaрbi" languages="biлaрuсkai (taрaskivita)‎">Эль-Джэбаль-эль-Гарбі</name>
+		<name normalized="jbل نfوسة" languages="Arabic">جبل نفوسة</name>
+		<name normalized="شعbyة אلjbل אلغrby" languages="Arabic">شعبية الجبل الغربي</name>
+		<name normalized="ელ-ჯაბალ-ელ-ღარბი" languages="Georgian">ელ-ჯაბალ-ელ-ღარბი</name>
+		<name normalized="ნაფუსის ქედი" languages="Georgian">ნაფუსის ქედი</name>
+		<name normalized="zybr・ar・grb県" languages="Japanese">ジャバル・アル・ガルビ県</name>
+		<name normalized="nhs山地" languages="Japanese">ナフサ山地</name>
+		<name normalized="奈富塞山" languages="Chinese">奈富塞山</name>
+		<name normalized="西山省" languages="Chinese">西山省</name>
+		<name normalized="자발알가르비 주" languages="Korean">자발알가르비 주</name>
+	</region>
+	<region name="Al Jafarah" type="district" typeTranslated="shabiyat">
+		<name normalized="Al Jafarah" languages="English;official">Al Jafarah</name>
+		<name normalized="Al Jafarah District" languages="English;official">Al Jafarah District</name>
+		<name normalized="Al Jafarah Shabiyat" languages="English;official">Al Jafarah Shabiyat</name>
+	</region>
+	<region name="Al Jufrah" type="district" typeTranslated="shabiyat">
+		<name normalized="Al Djoufrah" languages="French">Al Djoufrah</name>
+		<name normalized="Al Jufrah" languages="Basque;Danish;Dutch;English;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">Al Jufrah</name>
+		<name normalized="Al Jufrah Destrict" languages="Scots">Al Jufrah Destrict</name>
+		<name normalized="Al Jufrah District" languages="English;official">Al Jufrah District</name>
+		<name normalized="Al Jufrah Shabiyat" languages="English;official">Al Jufrah Shabiyat</name>
+		<name normalized="Al Gufra" languages="Esperanto">Al Ĝufra</name>
+		<name normalized="Al-Dzufra" languages="Polish">Al-Dżufra</name>
+		<name normalized="Al-Dzufra" languages="Czech">Al-Džufra</name>
+		<name normalized="Cufrian" languages="Volapuk">Cufriän</name>
+		<name normalized="Districtul Al Jufrah" languages="Romanian">Districtul Al Jufrah</name>
+		<name normalized="Dzsufra tartomany" languages="Hungarian">Dzsufra tartomány</name>
+		<name normalized="Dzufros savivaldybe" languages="Lithuanian">Džufros savivaldybė</name>
+		<name normalized="El Cufra ili" languages="Turkish">El Cufra ili</name>
+		<name normalized="Jufra District" languages="English">Jufra District</name>
+		<name normalized="Municipalita di Giofra" languages="Italian">Municipalità di Giofra</name>
+		<name normalized="Munizip al-Dschufra" languages="German">Munizip al-Dschufra</name>
+		<name normalized="Viлoiti Aл Cuфрa" languages="Tajik">Вилояти Ал Ҷуфра</name>
+		<name normalized="Мuнitыpaлitet Eль-Dzuфрa" languages="Belarusian">Муніцыпалітэт Эль-Джуфра</name>
+		<name normalized="Eль-Dzuфрa" languages="Russian;biлaрuсkai (taрaskivita)‎">Эль-Джуфра</name>
+		<name normalized="אسtאن jfrh" languages="Persian">استان جفره</name>
+		<name normalized="شعbyة אلjfrة" languages="Arabic">شعبية الجفرة</name>
+		<name normalized="ელ-ჯუფრა" languages="Georgian">ელ-ჯუფრა</name>
+		<name normalized="zyhr県" languages="Japanese">ジュフラ県</name>
+		<name normalized="朱夫拉省" languages="Chinese">朱夫拉省</name>
+		<name normalized="주프라 주" languages="Korean">주프라 주</name>
+	</region>
+	<region name="Al Kufrah" type="district" typeTranslated="shabiyat">
+		<name normalized="Al Kufra" languages="Esperanto">Al Kufra</name>
+		<name normalized="Al Kufrah" languages="Danish;Dutch;English;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">Al Kufrah</name>
+		<name normalized="Al Kufrah Destrict" languages="Scots">Al Kufrah Destrict</name>
+		<name normalized="Al Kufrah District" languages="English;official">Al Kufrah District</name>
+		<name normalized="Al Kufrah Shabiyat" languages="English;official">Al Kufrah Shabiyat</name>
+		<name normalized="Al-Koufrah" languages="French">Al-Koufrah</name>
+		<name normalized="Al-Kufra" languages="Czech;Polish">Al-Kufra</name>
+		<name normalized="Districtul Al Kufrah" languages="Romanian">Districtul Al Kufrah</name>
+		<name normalized="El Kufra ili" languages="Turkish">El Kufra ili</name>
+		<name normalized="Kofra" languages="Indonesian;Malay">Kofra</name>
+		<name normalized="Kufra" languages="Basque;veneto">Kufra</name>
+		<name normalized="Kufra District" languages="English">Kufra District</name>
+		<name normalized="Kufra tartomany" languages="Hungarian">Kufra tartomány</name>
+		<name normalized="Kufrian" languages="Volapuk">Kufriän</name>
+		<name normalized="Kufros savivaldybe" languages="Lithuanian">Kufros savivaldybė</name>
+		<name normalized="Municipalita di Cufra" languages="Italian">Municipalità di Cufra</name>
+		<name normalized="Munizip al-Kufra" languages="German">Munizip al-Kufra</name>
+		<name normalized="Мuнitыpaлitet Eль-Kuфрa" languages="Belarusian">Муніцыпалітэт Эль-Куфра</name>
+		<name normalized="Eль-Kuфрa" languages="Russian;biлaрuсkai (taрaskivita)‎">Эль-Куфра</name>
+		<name normalized="אسtאن کfrh" languages="Persian">استان کفره</name>
+		<name normalized="شعbyة אلkfrة" languages="Arabic">شعبية الكفرة</name>
+		<name normalized="ელ-კუფრა" languages="Georgian">ელ-კუფრა</name>
+		<name normalized="khr県" languages="Japanese">クフラ県</name>
+		<name normalized="庫夫拉省" languages="Chinese">庫夫拉省</name>
+		<name normalized="쿠프라 주" languages="Korean">쿠프라 주</name>
+	</region>
+	<region name="Al Marj" type="district" typeTranslated="shabiyat">
+		<name normalized="Al Marj" languages="Basque;Danish;Dutch;English;French;official;Portuguese;Romanian;Scots;Spanish;Swedish;Vietnamese">Al Marj</name>
+		<name normalized="Al Marj Destrict" languages="Scots">Al Marj Destrict</name>
+		<name normalized="Al Marj District" languages="English;official">Al Marj District</name>
+		<name normalized="Al Marj Shabiyat" languages="English;official">Al Marj Shabiyat</name>
+		<name normalized="Al Marg" languages="Esperanto">Al Marĝ</name>
+		<name normalized="Al-Mardz" languages="Polish">Al-Mardż</name>
+		<name normalized="Districtul Al Marj" languages="Romanian">Districtul Al Marj</name>
+		<name normalized="Distrikto Al Marg" languages="Esperanto">Distrikto Al Marĝ</name>
+		<name normalized="El Merdj" languages="French;German">El Merdj</name>
+		<name normalized="El Merj" languages="Italian;Norwegian (bokmal);Sardinian">El Merj</name>
+		<name normalized="Mardzs tartomany" languages="Hungarian">Mardzs tartomány</name>
+		<name normalized="Mardzo savivaldybe" languages="Lithuanian">Mardžo savivaldybė</name>
+		<name normalized="Marj" languages="English">Marj</name>
+		<name normalized="Marj District" languages="English">Marj District</name>
+		<name normalized="Municipalita di Barca" languages="Italian">Municipalità di Barca</name>
+		<name normalized="Munizip al-Mardsch" languages="German">Munizip al-Mardsch</name>
+		<name normalized="Marc" languages="Volapuk">Märc</name>
+		<name normalized="Marcian" languages="Volapuk">Märciän</name>
+		<name normalized="Viлoiti Aл Мaрc" languages="Tajik">Вилояти Ал Марҷ</name>
+		<name normalized="Eль-Мaрdz" languages="Russian;biлaрuсkai (taрaskivita)‎">Эль-Мардж</name>
+		<name normalized="אسtאن mrj" languages="Persian">استان مرج</name>
+		<name normalized="אلmrj" languages="Arabic">المرج</name>
+		<name normalized="شعbyة אلmrj" languages="Arabic">شعبية المرج</name>
+		<name normalized="ელ-მარჯი" languages="Georgian">ელ-მარჯი</name>
+		<name normalized="ელ-მარჯის რაიონი" languages="Georgian">ელ-მარჯის რაიონი</name>
+		<name normalized="mrzy" languages="Japanese">マルジュ</name>
+		<name normalized="mrzy県" languages="Japanese">マルジュ県</name>
+		<name normalized="迈尔季" languages="Chinese">迈尔季</name>
+		<name normalized="邁爾季省" languages="Chinese">邁爾季省</name>
+		<name normalized="마르지" languages="Korean">마르지</name>
+		<name normalized="마르지 주" languages="Korean">마르지 주</name>
+	</region>
+	<region name="Al Marqab" type="district" typeTranslated="shabiyat">
+		<name normalized="Al Marqab" languages="English;official;Portuguese">Al Marqab</name>
+		<name normalized="Al Marqab District" languages="English;official">Al Marqab District</name>
+		<name normalized="Al Marqab Shabiyat" languages="English;official">Al Marqab Shabiyat</name>
+		<name normalized="Al Mourqoub" languages="French">Al Mourqoub</name>
+		<name normalized="Al Murgub" languages="Basque;Danish;Dutch;Esperanto;Norwegian (bokmal);Spanish;Swedish">Al Murgub</name>
+		<name normalized="Al Murgub Destrict" languages="Scots">Al Murgub Destrict</name>
+		<name normalized="Al-Marakib" languages="Polish">Al-Marakib</name>
+		<name normalized="Districtul Al Murgub" languages="Romanian">Districtul Al Murgub</name>
+		<name normalized="Markab tartomany" languages="Hungarian">Markab tartomány</name>
+		<name normalized="Municipalita di Margheb" languages="Italian">Municipalità di Margheb</name>
+		<name normalized="Munizip al-Murgub" languages="German">Munizip al-Murgub</name>
+		<name normalized="Murgubo savivaldybe" languages="Lithuanian">Murgubo savivaldybė</name>
+		<name normalized="Murqub District" languages="English">Murqub District</name>
+		<name normalized="Markabian" languages="Volapuk">Märkabiän</name>
+		<name normalized="Viлoiti Aл Мuрgub" languages="Tajik">Вилояти Ал Мургуб</name>
+		<name normalized="Мuнitыpaлitet Eль-Мaрgab" languages="Belarusian">Муніцыпалітэт Эль-Маргаб</name>
+		<name normalized="Eль-Мagрab" languages="biлaрuсkai (taрaskivita)‎">Эль-Маграб</name>
+		<name normalized="Eль-Мaрgab" languages="Russian">Эль-Маргаб</name>
+		<name normalized="אسtאن mrqb" languages="Persian">استان مرقب</name>
+		<name normalized="شعbyة אلmrqb" languages="Arabic">شعبية المرقب</name>
+		<name normalized="ელ-მარღაბი" languages="Georgian">ელ-მარღაბი</name>
+		<name normalized="mrkb県" languages="Japanese">ムルクブ県</name>
+		<name normalized="迈尔盖卜省" languages="Chinese">迈尔盖卜省</name>
+		<name normalized="무르쿠브 주" languages="Korean">무르쿠브 주</name>
+	</region>
+	<region name="Al Wahat" type="district" typeTranslated="shabiyat">
+		<name normalized="Al Vahat" languages="Esperanto">Al Vahat</name>
+		<name normalized="Al Wahat" languages="Basque;Danish;Dutch;English;French;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">Al Wahat</name>
+		<name normalized="Al Wahat Destrict" languages="Scots">Al Wahat Destrict</name>
+		<name normalized="Al Wahat District" languages="English;official">Al Wahat District</name>
+		<name normalized="Al Wahat Shabiyat" languages="English;official">Al Wahat Shabiyat</name>
+		<name normalized="Al Wahat" languages="Czech">Al Wáhát</name>
+		<name normalized="Al-Wahat" languages="Polish">Al-Wahat</name>
+		<name normalized="Districtul Al Wahat" languages="Romanian">Districtul Al Wahat</name>
+		<name normalized="Municipalita di el-Uahat" languages="Italian">Municipalità di el-Uahat</name>
+		<name normalized="Munizip al-Wahat" languages="German">Munizip al-Wahat</name>
+		<name normalized="Vahatian" languages="Volapuk">Vahatiän</name>
+		<name normalized="Vahato savivaldybe" languages="Lithuanian">Vahato savivaldybė</name>
+		<name normalized="Vahat tartomany" languages="Hungarian">Váhát tartomány</name>
+		<name normalized="Viлoiti Aл Vahat" languages="Tajik">Вилояти Ал Ваҳат</name>
+		<name normalized="Мuнitыpaлitet Eль-Vakat" languages="Belarusian">Муніцыпалітэт Эль-Вахат</name>
+		<name normalized="Eль-Vagat" languages="biлaрuсkai (taрaskivita)‎">Эль-Вагат</name>
+		<name normalized="Eль-Vakat" languages="Russian">Эль-Вахат</name>
+		<name normalized="אسtאن وאhאt" languages="Persian">استان واحات</name>
+		<name normalized="شعbyة אلوאhאt" languages="Arabic">شعبية الواحات</name>
+		<name normalized="ელ-ვახატი" languages="Georgian">ელ-ვახატი</name>
+		<name normalized="绿洲省" languages="Chinese">绿洲省</name>
+		<name normalized="알와하트 주" languages="Korean">알와하트 주</name>
+	</region>
+	<region name="An Nuqat al Khams" type="district" typeTranslated="shabiyat">
+		<name normalized="An Nouqat al Khams" languages="French">An Nouqat al Khams</name>
+		<name normalized="An Nukat Al Hams" languages="Esperanto">An Nukat Al Ĥams</name>
+		<name normalized="An Nuqat al Khams" languages="Basque;Danish;Dutch;English;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">An Nuqat al Khams</name>
+		<name normalized="An Nuqat al Khams Destrict" languages="Scots">An Nuqat al Khams Destrict</name>
+		<name normalized="An Nuqat al Khams District" languages="English;official">An Nuqat al Khams District</name>
+		<name normalized="An Nuqat al Khams Shabiyat" languages="English;official">An Nuqat al Khams Shabiyat</name>
+		<name normalized="An-Nukat al-Chams" languages="Polish">An-Nukat al-Chams</name>
+		<name normalized="An-Nuqat al-Khams" languages="Estonian">An-Nuqāt al-Khams</name>
+		<name normalized="Districtul An Nuqat al Khams" languages="Romanian">Districtul An Nuqat al Khams</name>
+		<name normalized="Municipalita di Nuqat al Khams" languages="Italian">Municipalità di Nuqat al Khams</name>
+		<name normalized="Munizip an-Nuqat al-Chams" languages="German">Munizip an-Nuqat al-Chams</name>
+		<name normalized="Nukat al Chamso savivaldybe" languages="Lithuanian">Nukat al Chamso savivaldybė</name>
+		<name normalized="Nukatalkamsian" languages="Volapuk">Nukatälkamsiän</name>
+		<name normalized="Nukat el-Hamsz tartomany" languages="Hungarian">Nukát el-Hamsz tartomány</name>
+		<name normalized="Nuqat al Khams" languages="English">Nuqat al Khams</name>
+		<name normalized="Aн Нukat aл Kaмс" languages="Bulgarian">Ан Нукат ал Хамс</name>
+		<name normalized="Viлoiti Aн Нukat aл Kaмс" languages="Tajik">Вилояти Ан Нуқат ал Хамс</name>
+		<name normalized="Eн-Нugat-eль-Kuмс" languages="Russian;biлaрuсkai (taрaskivita)‎">Эн-Нугат-эль-Хумс</name>
+		<name normalized="אسtאن نqאt אلخmس" languages="Persian">استان نقاط الخمس</name>
+		<name normalized="شعbyة אلنqאt אلخmس" languages="Arabic">شعبية النقاط الخمس</name>
+		<name normalized="ენ-ნუგატ-ელ-ხუმსი" languages="Georgian">ენ-ნუგატ-ელ-ხუმსი</name>
+		<name normalized="nkーt・ar・hms県" languages="Japanese">ヌカート・アル・ハムス県</name>
+		<name normalized="努加特海姆斯省" languages="Chinese">努加特海姆斯省</name>
+		<name normalized="누카트알함스 주" languages="Korean">누카트알함스 주</name>
+	</region>
+	<region name="Az Zawiyah" type="district" typeTranslated="shabiyat">
+		<name normalized="Az Zaouiyah" languages="French">Az Zaouiyah</name>
+		<name normalized="Az Zawiyah" languages="Danish;Dutch;English;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Swedish">Az Zawiyah</name>
+		<name normalized="Az Zawiyah Destrict" languages="Scots">Az Zawiyah Destrict</name>
+		<name normalized="Az Zawiyah District" languages="English;official">Az Zawiyah District</name>
+		<name normalized="Az Zawiyah Shabiyat" languages="English;official">Az Zawiyah Shabiyat</name>
+		<name normalized="Az-Zawija" languages="Polish">Az-Zawija</name>
+		<name normalized="Az-Zawiyah" languages="Swedish">Az-Zawiyah</name>
+		<name normalized="Az-Zawiyya" languages="German">Az-Zawiyya</name>
+		<name normalized="Districtul Az Zawiyah" languages="Romanian">Districtul Az Zawiyah</name>
+		<name normalized="Distrikto az Zauija" languages="Esperanto">Distrikto az Zaŭija</name>
+		<name normalized="Ez Zauia" languages="Catalan;Indonesian;Italian;Waray">Ez Zauia</name>
+		<name normalized="Municipalita di Zauia" languages="Italian">Municipalità di Zauia</name>
+		<name normalized="Munizip az-Zawiya" languages="German">Munizip az-Zawiya</name>
+		<name normalized="Saviya" languages="Volapuk">Saviyä</name>
+		<name normalized="Savian" languages="Volapuk">Saviän</name>
+		<name normalized="Zaouia" languages="French">Zaouïa</name>
+		<name normalized="Zauiya" languages="Spanish">Zauiya</name>
+		<name normalized="Zavija" languages="Lithuanian">Zavija</name>
+		<name normalized="Zavijos savivaldybe" languages="Lithuanian">Zavijos savivaldybė</name>
+		<name normalized="Zawia" languages="Afrikaans">Zawia</name>
+		<name normalized="Zawiya" languages="Basque;English;Vietnamese">Zawiya</name>
+		<name normalized="Zawiya District" languages="English">Zawiya District</name>
+		<name normalized="Zawiyah" languages="Portuguese">Zawiyah</name>
+		<name normalized="Zauija" languages="Esperanto">Zaŭija</name>
+		<name normalized="Zavija tartomany" languages="Hungarian">Závija tartomány</name>
+		<name normalized="Zavija" languages="Czech">Závíja</name>
+		<name normalized="Zawija" languages="Slovak">Záwíja</name>
+		<name normalized="Viлoiti Az-Zovii" languages="Tajik">Вилояти Аз-Зовия</name>
+		<name normalized="Goрad Ez-Zavii" languages="Belarusian">Горад Эз-Завія</name>
+		<name normalized="Iz Zavija" languages="Serbian">Ез Завија</name>
+		<name normalized="Ez-Zavii" languages="Russian">Эз-Завия</name>
+		<name normalized="Ez-Zavii" languages="biлaрuсkai (taрaskivita)‎">Эз-Завія</name>
+		<name normalized="א-זאvvיh" languages="Hebrew">א-זאוויה</name>
+		<name normalized="אسtאن زאویh" languages="Persian">استان زاویه</name>
+		<name normalized="אلزאوyة" languages="Arabic">الزاوية</name>
+		<name normalized="زאویh" languages="Persian">زاویه</name>
+		<name normalized="شعbyة אلزאوyة" languages="Arabic">شعبية الزاوية</name>
+		<name normalized="ეზ-ზავიის რაიონი" languages="Georgian">ეზ-ზავიის რაიონი</name>
+		<name normalized="ელ-ზავია" languages="Georgian">ელ-ზავია</name>
+		<name normalized="zーuiy" languages="Japanese">ザーウィヤ</name>
+		<name normalized="zーuiy県" languages="Japanese">ザーウィヤ県</name>
+		<name normalized="扎維耶" languages="Cantonese">扎維耶</name>
+		<name normalized="扎維耶省" languages="Chinese">扎維耶省</name>
+		<name normalized="扎维耶" languages="Chinese">扎维耶</name>
+		<name normalized="자위야" languages="Korean">자위야</name>
+		<name normalized="자위야 주" languages="Korean">자위야 주</name>
+	</region>
+	<region name="Banghazi" type="district" typeTranslated="shabiyat">
+		<name normalized="Banghazi" languages="English;official">Banghazi</name>
+		<name normalized="Banghazi District" languages="English;official">Banghazi District</name>
+		<name normalized="Banghazi Shabiyat" languages="English;official">Banghazi Shabiyat</name>
+		<name normalized="Bengasi" languages="Bikol Central;Catalan;Extremaduran;Finnish;German;Interlingue;Irish;Italian;Malay;Neapolitan;Portuguese;Serbo-Croatian;Sicilian;Spanish;Waray;Welsh">Bengasi</name>
+		<name normalized="Bengazi" languages="Basque;Bosnian;Croatian;Esperanto;Occitan;Polish;Slovenian">Bengazi</name>
+		<name normalized="Bengazis" languages="Lithuanian">Bengazis</name>
+		<name normalized="Bengazy" languages="Western Frisian">Bengazy</name>
+		<name normalized="Benghazi" languages="Afrikaans;Basa Banyumasan;Breton;Danish;Dutch;English;Estonian;French;Indonesian;Kalaallisut;Norwegian (bokmal);Norwegian Nynorsk;Romanian;Scots;Simple English;Swedish;Vietnamese">Benghazi</name>
+		<name normalized="Benghazi" languages="Czech">Benghází</name>
+		<name normalized="Bengazi" languages="Hungarian;Slovak">Bengázi</name>
+		<name normalized="Bengazi" languages="Latvian">Bengāzī</name>
+		<name normalized="Benqazi" languages="Azerbaijani">Benqazi</name>
+		<name normalized="Bingazi" languages="Turkish">Bingazi</name>
+		<name normalized="Bangasi" languages="Volapuk">Bängasi</name>
+		<name normalized="Bengasi" languages="Piedmontese">Bèngasi</name>
+		<name normalized="Hesperides" languages="Latin">Hesperides</name>
+		<name normalized="Βεγγαζη" languages="Greek">Βεγγάζη</name>
+		<name normalized="Biнgazi" languages="Bulgarian;Kazakh;Russian;Serbian">Бенгази</name>
+		<name normalized="Biнgazi" languages="Ukrainian">Бенгазі</name>
+		<name normalized="Viлoiti Biнғazi" languages="Tajik">Вилояти Бенғази</name>
+		<name normalized="Goрad Biнgazi" languages="Belarusian">Горад Бенгазі</name>
+		<name normalized="Bենղաzի" languages="Armenian">Բենղազի</name>
+		<name normalized="bnגאזי" languages="Hebrew">בנגאזי</name>
+		<name normalized="bنغאزى" languages="Egyptian Spoken Arabic">بنغازى</name>
+		<name normalized="bنغאزy" languages="Arabic">بنغازي</name>
+		<name normalized="bنغאزی" languages="Persian;Urdu">بنغازی</name>
+		<name normalized="bengाji" languages="Marathi">बेनगाझी</name>
+		<name normalized="bng਼ਾj਼i" languages="Punjabi">ਬਨਗ਼ਾਜ਼ੀ</name>
+		<name normalized="பங்காசி" languages="Tamil">பங்காசி</name>
+		<name normalized="เบนกาซี" languages="Thai">เบนกาซี</name>
+		<name normalized="ბენღაზი" languages="Georgian">ბენღაზი</name>
+		<name normalized="bngz" languages="Japanese">ベンガジ</name>
+		<name normalized="班加西" languages="Cantonese;Chinese">班加西</name>
+		<name normalized="벵가지" languages="Korean">벵가지</name>
+	</region>
+	<region name="Darnah" type="district" typeTranslated="shabiyat">
+		<name normalized="Darna" languages="Esperanto;German;Polish">Darna</name>
+		<name normalized="Darna tartomany" languages="Hungarian">Darna tartomány</name>
+		<name normalized="Darnah" languages="Croatian;Danish;English;French;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Romanian;Scots;Swedish;Vietnamese">Darnah</name>
+		<name normalized="Darnah Destrict" languages="Scots">Darnah Destrict</name>
+		<name normalized="Darnah District" languages="English;official">Darnah District</name>
+		<name normalized="Darnah Shabiyat" languages="English;official">Darnah Shabiyat</name>
+		<name normalized="Darnos savivaldybe" languages="Lithuanian">Darnos savivaldybė</name>
+		<name normalized="Derna" languages="Basque;Catalan;Dutch;English;French;Italian;Norwegian (bokmal);Portuguese;Spanish">Derna</name>
+		<name normalized="Derna District" languages="English">Derna District</name>
+		<name normalized="Derne" languages="Turkish">Derne</name>
+		<name normalized="Districtul Darnah" languages="Romanian">Districtul Darnah</name>
+		<name normalized="Distrikto Darna" languages="Esperanto">Distrikto Darna</name>
+		<name normalized="Darnian" languages="Volapuk">Därniän</name>
+		<name normalized="Darna" languages="Volapuk">Därnä</name>
+		<name normalized="Municipalita di Derna" languages="Italian">Municipalità di Derna</name>
+		<name normalized="Munizip Darna" languages="German">Munizip Darna</name>
+		<name normalized="Viлoiti Daрнah" languages="Tajik">Вилояти Дарнаҳ</name>
+		<name normalized="Daрнa" languages="Bulgarian">Дарна</name>
+		<name normalized="Diрнa" languages="Russian;Serbian">Дерна</name>
+		<name normalized="Deрнa" languages="biлaрuсkai (taрaskivita)‎">Дэрна</name>
+		<name normalized="דrnh" languages="Hebrew">דרנה</name>
+		<name normalized="אسtאن دrنh" languages="Persian">استان درنه</name>
+		<name normalized="دrنة" languages="Arabic">درنة</name>
+		<name normalized="دrنh" languages="Persian">درنه</name>
+		<name normalized="شعbyة دrنة" languages="Arabic">شعبية درنة</name>
+		<name normalized="დარნა" languages="Georgian">დარნა</name>
+		<name normalized="დარნის რაიონი" languages="Georgian">დარნის რაიონი</name>
+		<name normalized="drn" languages="Japanese">デルナ</name>
+		<name normalized="drn県" languages="Japanese">デルナ県</name>
+		<name normalized="德尔纳" languages="Chinese">德尔纳</name>
+		<name normalized="德爾納省" languages="Chinese">德爾納省</name>
+		<name normalized="데르나" languages="Korean">데르나</name>
+		<name normalized="데르나 주" languages="Korean">데르나 주</name>
+	</region>
+	<region name="Ghat" type="district" typeTranslated="shabiyat">
+		<name normalized="Districtul Ghat" languages="Romanian">Districtul Ghat</name>
+		<name normalized="Distrikto Gat" languages="Esperanto">Distrikto Gat</name>
+		<name normalized="Gat" languages="Catalan;Esperanto;Italian;Turkish;Volapuk">Gat</name>
+		<name normalized="Gatas" languages="Lithuanian">Gatas</name>
+		<name normalized="Gatian" languages="Volapuk">Gatiän</name>
+		<name normalized="Gato savivaldybe" languages="Lithuanian">Gato savivaldybė</name>
+		<name normalized="Ghat" languages="Basque;Danish;Dutch;English;French;German;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Spanish;Swedish">Ghat</name>
+		<name normalized="Ghat Destrict" languages="Scots">Ghat Destrict</name>
+		<name normalized="Ghat District" languages="English;official">Ghat District</name>
+		<name normalized="Ghat Shabiyat" languages="English;official">Ghat Shabiyat</name>
+		<name normalized="Gat tartomany" languages="Hungarian">Gát tartomány</name>
+		<name normalized="Municipalita di Gat" languages="Italian">Municipalità di Gat</name>
+		<name normalized="Munizip Ghat" languages="German">Munizip Ghat</name>
+		<name normalized="Viлoiti Ғat" languages="Tajik">Вилояти Ғат</name>
+		<name normalized="Gat" languages="Russian;biлaрuсkai (taрaskivita)‎">Гат</name>
+		<name normalized="אسtאن غאt" languages="Persian">استان غات</name>
+		<name normalized="شعbyة غאt" languages="Arabic">شعبية غات</name>
+		<name normalized="غאt" languages="Arabic">غات</name>
+		<name normalized="ღათი" languages="Georgian">ღათი</name>
+		<name normalized="ღათის რაიონი" languages="Georgian">ღათის რაიონი</name>
+		<name normalized="gーt" languages="Japanese">ガート</name>
+		<name normalized="gーt県" languages="Japanese">ガート県</name>
+		<name normalized="加特" languages="Chinese">加特</name>
+		<name normalized="加特省" languages="Chinese">加特省</name>
+		<name normalized="가트" languages="Korean">가트</name>
+		<name normalized="가트 주" languages="Korean">가트 주</name>
+	</region>
+	<region name="Misratah" type="district" typeTranslated="shabiyat">
+		<name normalized="Al Misratah" languages="Finnish">Al Misratah</name>
+		<name normalized="Distrikto Misrata" languages="Esperanto">Distrikto Misrata</name>
+		<name normalized="Misrata" languages="Afrikaans;Bikol Central;Breton;English;Esperanto;French;German;Irish;Kalaallisut;Lithuanian;Piedmontese;Polish;Portuguese;Romanian;Scots;Simple English;Turkish;Vietnamese;Waray;Welsh">Misrata</name>
+		<name normalized="Misrata Destrict" languages="Scots">Misrata Destrict</name>
+		<name normalized="Misrata District" languages="English">Misrata District</name>
+		<name normalized="Misratah" languages="Basque;Catalan;Danish;Dutch;English;French;Indonesian;Malay;official;Swedish">Misratah</name>
+		<name normalized="Misratah District" languages="English;official">Misratah District</name>
+		<name normalized="Misratah Shabiyat" languages="English;official">Misratah Shabiyat</name>
+		<name normalized="Misratian" languages="Volapuk">Misratiän</name>
+		<name normalized="Misratos savivaldybe" languages="Lithuanian">Misratos savivaldybė</name>
+		<name normalized="Misrata" languages="Volapuk">Misratä</name>
+		<name normalized="Misrata" languages="Slovak">Misráta</name>
+		<name normalized="Misrata" languages="Latvian">Misrāta</name>
+		<name normalized="Misurata" languages="Azerbaijani;Italian;Norwegian (bokmal);Serbo-Croatian;Sicilian;Spanish;veneto">Misurata</name>
+		<name normalized="Misurata" languages="Czech">Misuráta</name>
+		<name normalized="Miszrata" languages="Hungarian">Miszráta</name>
+		<name normalized="Miszrata tartomany" languages="Hungarian">Miszráta tartomány</name>
+		<name normalized="Misratah" languages="Estonian">Mişrātah</name>
+		<name normalized="Municipalita di Misurata" languages="Italian">Municipalità di Misurata</name>
+		<name normalized="Munizip Misrata" languages="German">Munizip Misrata</name>
+		<name normalized="Μισρατα" languages="Greek">Μισράτα</name>
+		<name normalized="Viлoiti Мiсрatah" languages="Tajik">Вилояти Мисратаҳ</name>
+		<name normalized="Goрad Мiсuрata" languages="Belarusian">Горад Місурата</name>
+		<name normalized="Мiсрata" languages="Bulgarian">Мисрата</name>
+		<name normalized="Мiсuрata" languages="Kazakh;Russian;Serbian">Мисурата</name>
+		<name normalized="Мuнitыpaлitet Мiсuрata" languages="Belarusian">Муніцыпалітэт Місурата</name>
+		<name normalized="Мiсuрata" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Місурата</name>
+		<name normalized="מיסvrאtאh" languages="Yiddish">מיסוראטאה</name>
+		<name normalized="מיסrאth" languages="Hebrew">מיסראתה</name>
+		<name normalized="אسtאن msrאth" languages="Persian">استان مصراته</name>
+		<name normalized="شعbyة msrאtة" languages="Arabic">شعبية مصراتة</name>
+		<name normalized="msrאtة" languages="Arabic">مصراتة</name>
+		<name normalized="msrאth" languages="Persian">مصراته</name>
+		<name normalized="მისრათა" languages="Georgian">მისრათა</name>
+		<name normalized="მისრათის რაიონი" languages="Georgian">მისრათის რაიონი</name>
+		<name normalized="msrt" languages="Japanese">ミスラタ</name>
+		<name normalized="msrt県" languages="Japanese">ミスラタ県</name>
+		<name normalized="米蘇拉塔" languages="Cantonese;Chinese">米蘇拉塔</name>
+		<name normalized="米蘇拉塔省" languages="Chinese">米蘇拉塔省</name>
+		<name normalized="미스라타" languages="Korean">미스라타</name>
+		<name normalized="미스라타 주" languages="Korean">미스라타 주</name>
+	</region>
+	<region name="Murzuq" type="district" typeTranslated="shabiyat">
+		<name normalized="Districtul Murzuq" languages="Romanian">Districtul Murzuq</name>
+		<name normalized="Distrikto Murzuk" languages="Esperanto">Distrikto Murzuk</name>
+		<name normalized="Distrito de Murzuk" languages="Spanish">Distrito de Murzuk</name>
+		<name normalized="Marzuk" languages="Polish">Marzuk</name>
+		<name normalized="Mourzouq" languages="French">Mourzouq</name>
+		<name normalized="Municipalita di Murzuch" languages="Italian">Municipalità di Murzuch</name>
+		<name normalized="Munizip Murzuq" languages="German">Munizip Murzuq</name>
+		<name normalized="Mursuk" languages="Volapuk">Mursuk</name>
+		<name normalized="Mursukian" languages="Volapuk">Mursukiän</name>
+		<name normalized="Murzuch" languages="Catalan;Italian">Murzuch</name>
+		<name normalized="Murzuk" languages="Dutch;English;Esperanto;German;Romanian;Scots;Spanish;Swedish;Turkish">Murzuk</name>
+		<name normalized="Murzuk tartomany" languages="Hungarian">Murzuk tartomány</name>
+		<name normalized="Murzukas" languages="Lithuanian">Murzukas</name>
+		<name normalized="Murzuko savivaldybe" languages="Lithuanian">Murzuko savivaldybė</name>
+		<name normalized="Murzuq" languages="Basque;Czech;Dutch;English;Finnish;official;Portuguese;Swedish">Murzuq</name>
+		<name normalized="Murzuq Destrict" languages="Scots">Murzuq Destrict</name>
+		<name normalized="Murzuq District" languages="English;official">Murzuq District</name>
+		<name normalized="Murzuq Shabiyat" languages="English;official">Murzuq Shabiyat</name>
+		<name normalized="Viлoiti Мuрzuk" languages="Tajik">Вилояти Мурзуқ</name>
+		<name normalized="Goрad Мuрzuk" languages="Belarusian">Горад Мурзук</name>
+		<name normalized="Мaрzuk" languages="Russian">Марзук</name>
+		<name normalized="Мuzрuk" languages="biлaрuсkai (taрaskivita)‎">Музрук</name>
+		<name normalized="Мuнitыpaлitet Мaрzuk" languages="Belarusian">Муніцыпалітэт Марзук</name>
+		<name normalized="Мuрzuk" languages="Bulgarian;Russian">Мурзук</name>
+		<name normalized="אسtאن mrزq" languages="Persian">استان مرزق</name>
+		<name normalized="شعbyة mrزq" languages="Arabic">شعبية مرزق</name>
+		<name normalized="mrزq" languages="Arabic;Urdu">مرزق</name>
+		<name normalized="mrزq, لیbی" languages="Persian">مرزق، لیبی</name>
+		<name normalized="მარზუკი" languages="Georgian">მარზუკი</name>
+		<name normalized="მარზუკის რაიონი" languages="Georgian">მარზუკის რაიონი</name>
+		<name normalized="mrzk" languages="Japanese">ムルズク</name>
+		<name normalized="mrzk県" languages="Japanese">ムルズク県</name>
+		<name normalized="迈尔祖格" languages="Chinese">迈尔祖格</name>
+		<name normalized="邁爾祖格省" languages="Chinese">邁爾祖格省</name>
+		<name normalized="무르주크" languages="Korean">무르주크</name>
+		<name normalized="무르주크 주" languages="Korean">무르주크 주</name>
+	</region>
+	<region name="Nalut" type="district" typeTranslated="shabiyat">
+		<name normalized="Districtul Nalut" languages="Romanian">Districtul Nalut</name>
+		<name normalized="Distrikto Nalut" languages="Esperanto">Distrikto Nalut</name>
+		<name normalized="Municipalita di Nalut" languages="Italian">Municipalità di Nalut</name>
+		<name normalized="Munizip Nalut" languages="German">Munizip Nalut</name>
+		<name normalized="Naloet" languages="Afrikaans">Naloet</name>
+		<name normalized="Nalout" languages="French">Nalout</name>
+		<name normalized="Nalut" languages="Basque;Danish;Dutch;English;Esperanto;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Scots;Spanish;Swedish;Vietnamese;Volapuk">Nalut</name>
+		<name normalized="Nalut Destrict" languages="Scots">Nalut Destrict</name>
+		<name normalized="Nalut District" languages="English;official">Nalut District</name>
+		<name normalized="Nalut Shabiyat" languages="English;official">Nalut Shabiyat</name>
+		<name normalized="Nalutian" languages="Volapuk">Nalutiän</name>
+		<name normalized="Naluto savivaldybe" languages="Lithuanian">Naluto savivaldybė</name>
+		<name normalized="Nalut tartomany" languages="Hungarian">Nálút tartomány</name>
+		<name normalized="Viлoiti Нaлut" languages="Tajik">Вилояти Налут</name>
+		<name normalized="Мuнitыpaлitet Нaлut" languages="Belarusian">Муніцыпалітэт Налут</name>
+		<name normalized="Нaлut" languages="Russian;Serbian;biлaрuсkai (taрaskivita)‎">Налут</name>
+		<name normalized="אسtאن نאلوt" languages="Persian">استان نالوت</name>
+		<name normalized="شعbyة نאلوt" languages="Arabic">شعبية نالوت</name>
+		<name normalized="نאلوt" languages="Arabic;Persian">نالوت</name>
+		<name normalized="ნალუთი" languages="Georgian">ნალუთი</name>
+		<name normalized="ნალუთის რაიონი" languages="Georgian">ნალუთის რაიონი</name>
+		<name normalized="nーrーt" languages="Japanese">ナールート</name>
+		<name normalized="nーrーt県" languages="Japanese">ナールート県</name>
+		<name normalized="納盧特省" languages="Chinese">納盧特省</name>
+		<name normalized="날루트" languages="Korean">날루트</name>
+		<name normalized="날루트 주" languages="Korean">날루트 주</name>
+	</region>
+	<region name="Sabha" type="district" typeTranslated="shabiyat">
+		<name normalized="Districtul Sabha" languages="Romanian">Districtul Sabha</name>
+		<name normalized="Distrikto Sabha" languages="Esperanto">Distrikto Sabha</name>
+		<name normalized="Municipalita di Sebha" languages="Italian">Municipalità di Sebha</name>
+		<name normalized="Munizip Sabha" languages="German">Munizip Sabha</name>
+		<name normalized="Sabha" languages="Afrikaans;Basque;Danish;Dutch;English;Esperanto;German;official;Polish;Portuguese;Romanian;Scots;Spanish;Swedish;Vietnamese">Sabha</name>
+		<name normalized="Sabha Destrict" languages="Scots">Sabha Destrict</name>
+		<name normalized="Sabha District" languages="English;official">Sabha District</name>
+		<name normalized="Sabha Shabiyat" languages="English;official">Sabha Shabiyat</name>
+		<name normalized="Sabhos savivaldybe" languages="Lithuanian">Sabhos savivaldybė</name>
+		<name normalized="Sabha" languages="Czech">Sabhá</name>
+		<name normalized="Sebha" languages="Catalan;Finnish;French;Indonesian;Italian;Lithuanian;Turkish;Waray">Sebha</name>
+		<name normalized="Szabha tartomany" languages="Hungarian">Szabha tartomány</name>
+		<name normalized="Sabha" languages="Volapuk">Säbha</name>
+		<name normalized="Sabhian" languages="Volapuk">Säbhiän</name>
+		<name normalized="Viлoiti Сabha" languages="Tajik">Вилояти Сабҳа</name>
+		<name normalized="Сabga" languages="biлaрuсkai (taрaskivita)‎">Сабга</name>
+		<name normalized="Сabka" languages="Bulgarian;Russian;Serbian">Сабха</name>
+		<name normalized="Сibka" languages="Mongolian;Russian">Себха</name>
+		<name normalized="סbhא" languages="Hebrew">סבהא</name>
+		<name normalized="אسtאن سbhא" languages="Persian">استان سبها</name>
+		<name normalized="سbhא" languages="Arabic;Persian">سبها</name>
+		<name normalized="شعbyة سbhא" languages="Arabic">شعبية سبها</name>
+		<name normalized="საბჰა" languages="Georgian">საბჰა</name>
+		<name normalized="საბჰის რაიონი" languages="Georgian">საბჰის რაიონი</name>
+		<name normalized="sbhー県" languages="Japanese">サブハー県</name>
+		<name normalized="sbh" languages="Japanese">セブハ</name>
+		<name normalized="塞卜哈省" languages="Chinese">塞卜哈省</name>
+		<name normalized="拾哈" languages="Chinese">拾哈</name>
+		<name normalized="세바" languages="Korean">세바</name>
+		<name normalized="세바 주" languages="Korean">세바 주</name>
+	</region>
+	<region name="Surt" type="district" typeTranslated="shabiyat">
+		<name normalized="Districtul Surt" languages="Romanian">Districtul Surt</name>
+		<name normalized="Distrikto Sirto" languages="Esperanto">Distrikto Sirto</name>
+		<name normalized="Municipalita di Sirte" languages="Italian">Municipalità di Sirte</name>
+		<name normalized="Munizip Surt" languages="German">Munizip Surt</name>
+		<name normalized="Sirt" languages="Finnish;Maltese;Romanian;Serbo-Croatian;Swedish;Vietnamese">Sirt</name>
+		<name normalized="Sirte" languages="Afrikaans;Azerbaijani;Basque;Catalan;Chinese (Min Nan);Danish;Dutch;English;German;Indonesian;Italian;Javanese;Malay;Portuguese;Scots;Scottish Gaelic;Simple English;Spanish;Turkish;Welsh;Western Frisian">Sirte</name>
+		<name normalized="Sirte Destrict" languages="Scots">Sirte Destrict</name>
+		<name normalized="Sirte District" languages="English">Sirte District</name>
+		<name normalized="Sirto" languages="Esperanto">Sirto</name>
+		<name normalized="Surt" languages="Czech;Danish;English;Estonian;Indonesian;Kabyle;official;Portuguese;Serbo-Croatian;Swedish;Volapuk">Surt</name>
+		<name normalized="Surt District" languages="English;official">Surt District</name>
+		<name normalized="Surt Shabiyat" languages="English;official">Surt Shabiyat</name>
+		<name normalized="Surtas" languages="Lithuanian">Surtas</name>
+		<name normalized="Surtian" languages="Volapuk">Surtiän</name>
+		<name normalized="Surto savivaldybe" languages="Lithuanian">Surto savivaldybė</name>
+		<name normalized="Syrta" languages="Czech;Polish;Slovak">Syrta</name>
+		<name normalized="Syrte" languages="French">Syrte</name>
+		<name normalized="Szurt" languages="Hungarian">Szurt</name>
+		<name normalized="Szurt tartomany" languages="Hungarian">Szurt tartomány</name>
+		<name normalized="Σuρτη" languages="Greek">Σύρτη</name>
+		<name normalized="Viлoiti Сuрt" languages="Tajik">Вилояти Сурт</name>
+		<name normalized="Goрad Сiрt" languages="Belarusian">Горад Сірт</name>
+		<name normalized="Мuнitыpaлitet Сuрt" languages="Belarusian">Муніцыпалітэт Сурт</name>
+		<name normalized="Сiрt" languages="Bulgarian;Kazakh;Ossetic;Russian;Serbian;Ukrainian">Сирт</name>
+		<name normalized="Сырt" languages="biлaрuсkai (taрaskivita)‎">Сырт</name>
+		<name normalized="סיrt" languages="Hebrew">סירת</name>
+		<name normalized="אسtאن سrt" languages="Persian">استان سرت</name>
+		<name normalized="سrt" languages="Arabic;Persian;Urdu">سرت</name>
+		<name normalized="شعbyة سrt" languages="Arabic">شعبية سرت</name>
+		<name normalized="sir्t" languages="Hindi">सिर्त</name>
+		<name normalized="სურთი" languages="Georgian">სურთი</name>
+		<name normalized="სურთის რაიონი" languages="Georgian">სურთის რაიონი</name>
+		<name normalized="srt" languages="Japanese">スルト</name>
+		<name normalized="srt県" languages="Japanese">スルト県</name>
+		<name normalized="蘇爾特" languages="Cantonese">蘇爾特</name>
+		<name normalized="蘇爾特省" languages="Chinese">蘇爾特省</name>
+		<name normalized="蘇特" languages="Chinese">蘇特</name>
+		<name normalized="시르테" languages="Korean">시르테</name>
+		<name normalized="시르테 주" languages="Korean">시르테 주</name>
+	</region>
+	<region name="Tarabulus" type="district" typeTranslated="shabiyat">
+		<name normalized="Distrikto Tripolo" languages="Esperanto">Distrikto Tripolo</name>
+		<name normalized="Municipalita di Tripoli" languages="Italian">Municipalità di Tripoli</name>
+		<name normalized="Munizip Tripolis" languages="German">Munizip Tripolis</name>
+		<name normalized="Tarablus" languages="English">Tarablus</name>
+		<name normalized="Tarabulus" languages="English;official;Swedish">Tarabulus</name>
+		<name normalized="Tarabulus Destrict" languages="Scots">Tarabulus Destrict</name>
+		<name normalized="Tarabulus District" languages="English;official">Tarabulus District</name>
+		<name normalized="Tarabulus Shabiyat" languages="English;official">Tarabulus Shabiyat</name>
+		<name normalized="Trablus ili" languages="Turkish">Trablus ili</name>
+		<name normalized="Tripoli" languages="Dutch;French">Tripoli</name>
+		<name normalized="Tripoli District" languages="English">Tripoli District</name>
+		<name normalized="Tripoli tartomany" languages="Hungarian">Tripoli tartomány</name>
+		<name normalized="Tripolio savivaldybe" languages="Lithuanian">Tripolio savivaldybė</name>
+		<name normalized="Trypolis" languages="Polish">Trypolis</name>
+		<name normalized="Tripoli" languages="Spanish">Trípoli</name>
+		<name normalized="Мuнitыpaлitet Taрabuлuс" languages="Belarusian">Муніцыпалітэт Тарабулус</name>
+		<name normalized="Taрabuлuс" languages="Russian;biлaрuсkai (taрaskivita)‎">Тарабулус</name>
+		<name normalized="شعbyة trאbلس" languages="Arabic">شعبية طرابلس</name>
+		<name normalized="ტრიპოლის რაიონი" languages="Georgian">ტრიპოლის რაიონი</name>
+		<name normalized="的黎波里省" languages="Chinese">的黎波里省</name>
+		<name normalized="타라불루스 주" languages="Korean">타라불루스 주</name>
+	</region>
+	<region name="Wadi al Hayat" type="district" typeTranslated="shabiyat">
+		<name normalized="Wadi al Hayat" languages="English;official">Wadi al Hayat</name>
+		<name normalized="Wadi al Hayat District" languages="English;official">Wadi al Hayat District</name>
+		<name normalized="Wadi al Hayat Shabiyat" languages="English;official">Wadi al Hayat Shabiyat</name>
+	</region>
+	<region name="Wadi ash Shati" type="district" typeTranslated="shabiyat">
+		<name normalized="Wadi ash Shati" languages="English;official">Wadi ash Shati</name>
+		<name normalized="Wadi ash Shati District" languages="English;official">Wadi ash Shati District</name>
+		<name normalized="Wadi ash Shati Shabiyat" languages="English;official">Wadi ash Shati Shabiyat</name>
+	</region>
+</regions>

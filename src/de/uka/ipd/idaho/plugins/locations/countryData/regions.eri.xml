@@ -1,0 +1,451 @@
+<regions country="Eritrea">
+	<region name="Anseba" type="region" typeTranslated="zoba">
+		<name normalized="Anseba" languages="Breton;Croatian;Dutch;English;French;German;Lithuanian;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Turkish">Anseba</name>
+		<name normalized="Anseba Region" languages="English;official;Scots">Anseba Region</name>
+		<name normalized="Anseba Zoba" languages="English;official">Anseba Zoba</name>
+		<name normalized="Ansebo" languages="Esperanto">Ansebo</name>
+		<name normalized="Eneo la Anseba" languages="Swahili">Eneo la Anseba</name>
+		<name normalized="Regione dell'Anseba" languages="Italian">Regione dell'Anseba</name>
+		<name normalized="Regiunea Anseba" languages="Romanian">Regiunea Anseba</name>
+		<name normalized="Aнсiba" languages="Bulgarian;Ukrainian">Ансеба</name>
+		<name normalized="Aнсeba" languages="Russian">Ансэба</name>
+		<name normalized="إqلym أنسbא" languages="Arabic">إقليم أنسبا</name>
+		<name normalized="ዞባ ዓንሰባ" languages="Tigrinya">ዞባ ዓንሰባ</name>
+		<name normalized="ansb地方" languages="Japanese">アンセバ地方</name>
+		<name normalized="安塞巴區" languages="Chinese">安塞巴區</name>
+		<name normalized="안세바 주" languages="Korean">안세바 주</name>
+	</region>
+	<region name="Debub" type="region" typeTranslated="zoba">
+		<name normalized="Basur" languages="Kurdish">Başûr</name>
+		<name normalized="Chamhembe" languages="Shona">Chamhembe</name>
+		<name normalized="Cənub" languages="Azerbaijani">Cənub</name>
+		<name normalized="Debub" languages="Breton;Croatian;Dutch;English;French;German;Norwegian (bokmal);official;Portuguese;Spanish;Turkish">Debub</name>
+		<name normalized="Debub Region" languages="English;official;Scots">Debub Region</name>
+		<name normalized="Debub Zoba" languages="English;official">Debub Zoba</name>
+		<name normalized="Debubas" languages="Lithuanian">Debubas</name>
+		<name normalized="Deisceart" languages="Irish">Deisceart</name>
+		<name normalized="Dienvidi" languages="Latvian">Dienvidi</name>
+		<name normalized="Del" languages="Hungarian">Dél</name>
+		<name normalized="Eneo la Kusini" languages="Swahili">Eneo la Kusini</name>
+		<name normalized="Etela" languages="Finnish">Etelä</name>
+		<name normalized="Guney" languages="Turkish">Güney</name>
+		<name normalized="Habagatan" languages="Cebuano">Habagatan</name>
+		<name normalized="Hego" languages="Basque">Hego</name>
+		<name normalized="Huong Nam" languages="Vietnamese">Hướng Nam</name>
+		<name normalized="Janub" languages="Uzbek">Janub</name>
+		<name normalized="Janubiy hudud" languages="Uzbek">Janubiy hudud</name>
+		<name normalized="Jih" languages="Czech">Jih</name>
+		<name normalized="Jug" languages="Bosnian;Croatian;Serbo-Croatian;Slovenian">Jug</name>
+		<name normalized="Jugu" languages="Albanian">Jugu</name>
+		<name normalized="Juh" languages="Slovak">Juh</name>
+		<name normalized="Kidul" languages="Sundanese">Kidul</name>
+		<name normalized="Koonfur" languages="Somali">Koonfur</name>
+		<name normalized="Kusini" languages="Swahili">Kusini</name>
+		<name normalized="Louna" languages="Estonian">Lõuna</name>
+		<name normalized="Lounapiirkond" languages="Estonian">Lõunapiirkond</name>
+		<name normalized="Mauli" languages="Pampanga">Mauli</name>
+		<name normalized="Meridies" languages="Latin">Meridies</name>
+		<name normalized="Mezde" languages="Emiliano-Romagnolo">Mezdé</name>
+		<name normalized="Pietus" languages="Lithuanian">Pietūs</name>
+		<name normalized="Pietu regionas" languages="Lithuanian">Pietų regionas</name>
+		<name normalized="Poludnie" languages="Polish">Południe</name>
+		<name normalized="Peita" languages="Samogitian">Pėitā</name>
+		<name normalized="Region Poludniowy" languages="Polish">Region Południowy</name>
+		<name normalized="Regione del Sud" languages="Italian">Regione del Sud</name>
+		<name normalized="Regiunea Debub" languages="Romanian">Regiunea Debub</name>
+		<name normalized="Regiao Sul" languages="Portuguese">Região Sul</name>
+		<name normalized="Regio Sud" languages="Catalan">Regió Sud</name>
+		<name normalized="Rexion Sur" languages="Galician">Rexión Sur</name>
+		<name normalized="Salatan" languages="Minangkabau;Waray">Salatan</name>
+		<name normalized="Selatan" languages="Banjar;Indonesian;Malay">Selatan</name>
+		<name normalized="Sid" languages="Haitian">Sid</name>
+		<name normalized="Sooth" languages="Scots">Sooth</name>
+		<name normalized="South" languages="English;official;Simple English">South</name>
+		<name normalized="South Region" languages="English;official">South Region</name>
+		<name normalized="South Zoba" languages="English;official">South Zoba</name>
+		<name normalized="Southern Region" languages="English;German">Southern Region</name>
+		<name normalized="Su" languages="Breton;Nouormand">Su</name>
+		<name normalized="Sud" languages="Catalan;French;Interlingua;Interlingue;Italian;lumbaart;Neapolitan;Occitan;Romanian;veneto;Walloon">Sud</name>
+		<name normalized="Sudo" languages="Esperanto;Ido">Sudo</name>
+		<name normalized="Sudu" languages="Corsican">Sudu</name>
+		<name normalized="Suid" languages="Afrikaans">Suid</name>
+		<name normalized="Sul" languages="Portuguese">Sul</name>
+		<name normalized="Sur" languages="Galician;Spanish">Sur</name>
+		<name normalized="Suvi" languages="Veps">Suvi</name>
+		<name normalized="Sudur" languages="Icelandic">Suður</name>
+		<name normalized="Syd" languages="Danish">Syd</name>
+		<name normalized="Soder" languages="Swedish">Söder</name>
+		<name normalized="Sor" languages="Norwegian (bokmal);Norwegian Nynorsk">Sør</name>
+		<name normalized="Sudi" languages="Lingala">Súdi</name>
+		<name normalized="Suden" languages="German;Luxembourgish">Süden</name>
+		<name normalized="Suud" languages="Northern Frisian">Süüd</name>
+		<name normalized="Urin" languages="Quechua">Urin</name>
+		<name normalized="Veroc" languages="Zazaki">Veroc</name>
+		<name normalized="Zuid" languages="Dutch">Zuid</name>
+		<name normalized="Νοτος" languages="Greek">Νότος</name>
+		<name normalized="Dibub" languages="Ukrainian">Дебуб</name>
+		<name normalized="Debub" languages="Russian">Дэбуб</name>
+		<name normalized="Kaнtaр" languages="Chuvash">Кăнтăр</name>
+		<name normalized="Kicыvaлviл" languages="Eastern Mari">Кечывалвел</name>
+		<name normalized="Kɵньik" languages="Tatar">Көньяк</name>
+		<name normalized="Kɵньiҡ" languages="Bashkir">Көньяҡ</name>
+		<name normalized="Лiмbi ёнkс" languages="Erzya">Лембе ёнкс</name>
+		<name normalized="Лuнvыv" languages="Komi;Komi-Permyak">Лунвыв</name>
+		<name normalized="Poўdziнь" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Поўдзень</name>
+		<name normalized="Pivdiнь" languages="Ukrainian">Південь</name>
+		<name normalized="Сoҕuрuu" languages="Sakha">Соҕуруу</name>
+		<name normalized="Tүstүk" languages="Kyrgyz">Түштүк</name>
+		<name normalized="Юg" languages="Bulgarian;Russian">Юг</name>
+		<name normalized="Юgъ" languages="Church Slavic">Югъ</name>
+		<name normalized="Юziн рigioн" languages="Bulgarian">Южен регион</name>
+		<name normalized="Юzный рigioн" languages="Russian">Южный регион</name>
+		<name normalized="Jug" languages="Macedonian;Serbian">Југ</name>
+		<name normalized="Caнub" languages="Tajik">Ҷануб</name>
+		<name normalized="דrvם" languages="Hebrew;Yiddish">דרום</name>
+		<name normalized="jنوb" languages="Arabic;Persian;Urdu">جنوب</name>
+		<name normalized="دکھن" languages="Western Punjabi">دکھن</name>
+		<name normalized="ܓܪܒܝܐ" languages="Aramaic">ܓܪܒܝܐ</name>
+		<name normalized="dk्षiण" languages="Hindi;Nepali">दक्षिण</name>
+		<name normalized="dk्षiण disा" languages="Marathi">दक्षिण दिशा</name>
+		<name normalized="yetा" languages="Newari">येता</name>
+		<name normalized="dੱkਣ" languages="Punjabi">ਦੱਖਣ</name>
+		<name normalized="dk્ષiણ" languages="Gujarati">દક્ષિણ</name>
+		<name normalized="தெற்கு" languages="Tamil">தெற்கு</name>
+		<name normalized="దక్షిణం" languages="Telugu">దక్షిణం</name>
+		<name normalized="ದಕ್ಷಿಣ" languages="Kannada">ದಕ್ಷಿಣ</name>
+		<name normalized="തെക്ക്" languages="Malayalam">തെക്ക്</name>
+		<name normalized="දකුණ" languages="Sinhala">දකුණ</name>
+		<name normalized="ทิศใต้" languages="Thai">ทิศใต้</name>
+		<name normalized="სამხრეთი" languages="Georgian">სამხრეთი</name>
+		<name normalized="ዞባ ደቡብ" languages="Tigrinya">ዞባ ደቡብ</name>
+		<name normalized="ደቡብ" languages="Amharic">ደቡብ</name>
+		<name normalized="dbb地方" languages="Japanese">デブブ地方</name>
+		<name normalized="南" languages="Cantonese;Chinese;Gan;Hakka;Japanese;Wu">南</name>
+		<name normalized="南部區" languages="Chinese">南部區</name>
+		<name normalized="남쪽" languages="Korean">남쪽</name>
+		<name normalized="데붑 주" languages="Korean">데붑 주</name>
+	</region>
+	<region name="Debubawi K'eyih Bahri" type="region" typeTranslated="zoba">
+		<name normalized="Badacas" languages="Somali">Badacas</name>
+		<name normalized="Bahari ya Shamu" languages="Swahili">Bahari ya Shamu</name>
+		<name normalized="Bahar l-Ahmar" languages="Maltese">Baħar l-Aħmar</name>
+		<name normalized="Bien Do" languages="Vietnamese">Biển Đỏ</name>
+		<name normalized="Cerwjene morjo" languages="Lower Sorbian">Cerwjene mórjo</name>
+		<name normalized="Crveno more" languages="Bosnian;Croatian;Serbo-Croatian">Crveno more</name>
+		<name normalized="Dagat Pula" languages="Tagalog">Dagat Pula</name>
+		<name normalized="Dankalia" languages="Catalan">Dankàlia</name>
+		<name normalized="Debub-Keih-Bahri" languages="French;Portuguese">Debub-Keih-Bahri</name>
+		<name normalized="Debubawi K'eyih Bahri" languages="English;official">Debubawi K'eyih Bahri</name>
+		<name normalized="Debubawi K'eyih Bahri Region" languages="English;official">Debubawi K'eyih Bahri Region</name>
+		<name normalized="Debubawi K'eyih Bahri Zoba" languages="English;official">Debubawi K'eyih Bahri Zoba</name>
+		<name normalized="Debubawi Kayih Bahri" languages="German">Debubawi Kayih Bahri</name>
+		<name normalized="Debubawi Keyih Bahri" languages="Breton;Dutch;English;Norwegian (bokmal);official;Spanish">Debubawi Keyih Bahri</name>
+		<name normalized="Debubawi Keyih Bahri Region" languages="English;official">Debubawi Keyih Bahri Region</name>
+		<name normalized="Debubawi Keyih Bahri Zoba" languages="English;official">Debubawi Keyih Bahri Zoba</name>
+		<name normalized="Deryaya Sor" languages="Kurdish">Deryaya Sor</name>
+		<name normalized="Deryayo Sur" languages="Zazaki">Deryayo Sur</name>
+		<name normalized="Deti i Kuq" languages="Albanian">Deti i Kuq</name>
+		<name normalized="Fung-hoi" languages="Hakka">Fùng-hói</name>
+		<name normalized="Galaana Diimaa" languages="Oromo">Galaana Diimaa</name>
+		<name normalized="Guney Kızıldeniz" languages="Turkish">Güney Kızıldeniz</name>
+		<name normalized="Itsaso Gorria" languages="Basque">Itsaso Gorria</name>
+		<name normalized="Juzno crveno more" languages="Croatian">Južno crveno more</name>
+		<name normalized="Kızıldeniz" languages="Turkish">Kızıldeniz</name>
+		<name normalized="Kusini Eneo la ziwa Nyekundu" languages="Swahili">Kusini Eneo la ziwa Nyekundu</name>
+		<name normalized="La'ot Mirah" languages="Achinese">La'ôt Mirah</name>
+		<name normalized="Laman Kora" languages="Papiamento">Laman Korá</name>
+		<name normalized="Laut Beureum" languages="Sundanese">Laut Beureum</name>
+		<name normalized="Laut Habang" languages="Banjar">Laut Habang</name>
+		<name normalized="Laut Merah" languages="Indonesian;Malay">Laut Merah</name>
+		<name normalized="Mar Bermeya" languages="Asturian">Mar Bermeya</name>
+		<name normalized="Mar Cotschna" languages="Romansh">Mar Cotschna</name>
+		<name normalized="Mar Roja" languages="Catalan;Occitan">Mar Roja</name>
+		<name normalized="Mar Rojo" languages="Spanish">Mar Rojo</name>
+		<name normalized="Mar Roso" languages="veneto">Mar Roso</name>
+		<name normalized="Mar Rosso" languages="Italian">Mar Rosso</name>
+		<name normalized="Mar Roya" languages="Aragonese">Mar Roya</name>
+		<name normalized="Mar Ruosso" languages="Neapolitan">Mar Ruosso</name>
+		<name normalized="Mar Russ" languages="lumbaart">Mar Russ</name>
+		<name normalized="Mar Vermelho" languages="Portuguese">Mar Vermelho</name>
+		<name normalized="Mar Vermello" languages="Galician">Mar Vermello</name>
+		<name normalized="Mare rubrum" languages="Latin">Mare rubrum</name>
+		<name normalized="Marea Rosie" languages="Romanian">Marea Roșie</name>
+		<name normalized="Mari Colorau" languages="Extremaduran">Mari Colorau</name>
+		<name normalized="Mari Russu" languages="Sicilian">Mari Russu</name>
+		<name normalized="Mer Rouge" languages="French">Mer Rouge</name>
+		<name normalized="Mor Ruz" languages="Breton">Mor Ruz</name>
+		<name normalized="Morze Czerwone" languages="Polish">Morze Czerwone</name>
+		<name normalized="Muir Rua" languages="Irish">Muir Rua</name>
+		<name normalized="Nam Bien Do" languages="Vietnamese">Nam Biển Đỏ</name>
+		<name normalized="Pietine Raudonoji Jura" languages="Lithuanian">Pietinė Raudonoji Jūra</name>
+		<name normalized="Pula nga Dagat" languages="Waray">Pula nga Dagat</name>
+		<name normalized="Punainenmeri" languages="Finnish">Punainenmeri</name>
+		<name normalized="Punane meri" languages="Estonian">Punane meri</name>
+		<name normalized="Qırmızı dəniz" languages="Azerbaijani">Qırmızı dəniz</name>
+		<name normalized="Ranomasina Mena" languages="Malagasy">Ranomasina Mena</name>
+		<name normalized="Raudehavet" languages="Norwegian Nynorsk">Raudehavet</name>
+		<name normalized="Raudonoji jura" languages="Lithuanian">Raudonoji jūra</name>
+		<name normalized="Raudahaf" languages="Icelandic">Rauðahaf</name>
+		<name normalized="Rdece morje" languages="Slovenian">Rdeče morje</name>
+		<name normalized="Reade See" languages="Western Frisian">Reade See</name>
+		<name normalized="Red Sea" languages="English;Fiji Hindi;official;Simple English">Red Sea</name>
+		<name normalized="Red Sea Region" languages="English;official">Red Sea Region</name>
+		<name normalized="Red Sea Zoba" languages="English;official">Red Sea Zoba</name>
+		<name normalized="Reda maro" languages="Ido">Reda maro</name>
+		<name normalized="Region Poludniowy Morza Czerwonego" languages="Polish">Region Południowy Morza Czerwonego</name>
+		<name normalized="Regione del Mar Rosso Meridionale" languages="Italian">Regione del Mar Rosso Meridionale</name>
+		<name normalized="Regiunea Debubawi Keyih Bahri" languages="Romanian">Regiunea Debubawi Keyih Bahri</name>
+		<name normalized="Rode Zee" languages="Dutch">Rode Zee</name>
+		<name normalized="Rooi See" languages="Afrikaans">Rooi See</name>
+		<name normalized="Rotes Meer" languages="German">Rotes Meer</name>
+		<name normalized="Rouoge Me" languages="Nouormand">Rouoge Mé</name>
+		<name normalized="Rout Mier" languages="Luxembourgish">Rout Mier</name>
+		<name normalized="Rude more" languages="Czech">Rudé moře</name>
+		<name normalized="Ruga Maro" languages="Esperanto">Ruĝa Maro</name>
+		<name normalized="Roda havet" languages="Swedish">Röda havet</name>
+		<name normalized="Rode Hav" languages="Danish">Røde Hav</name>
+		<name normalized="Rodehavet" languages="Norwegian (bokmal)">Rødehavet</name>
+		<name normalized="Sarkana jura" languages="Latvian">Sarkanā jūra</name>
+		<name normalized="Segara Abang" languages="Javanese">Segara Abang</name>
+		<name normalized="Soothren Reid Sea Region" languages="Scots">Soothren Reid Sea Region</name>
+		<name normalized="Southern Red Sea" languages="English;official">Southern Red Sea</name>
+		<name normalized="Southern Red Sea Region" languages="English;official">Southern Red Sea Region</name>
+		<name normalized="Southern Red Sea Zoba" languages="English;official">Southern Red Sea Zoba</name>
+		<name normalized="Voros-tenger" languages="Hungarian">Vörös-tenger</name>
+		<name normalized="Y Mor Coch" languages="Welsh">Y Môr Coch</name>
+		<name normalized="Yn Vooir Ruy" languages="Manx">Yn Vooir Ruy</name>
+		<name normalized="Ang-hai" languages="Chinese (Min Nan)">Âng-hái</name>
+		<name normalized="Okun Pupa" languages="Yoruba">Òkun Pupa</name>
+		<name normalized="Cervene more" languages="Slovak">Červené more</name>
+		<name normalized="Cerwjene morjo" languages="Upper Sorbian">Čerwjene morjo</name>
+		<name normalized="Ερυθρα Θαλασσα" languages="Greek">Ερυθρά Θάλασσα</name>
+		<name normalized="Goрd сaрidz" languages="Komi">Гӧрд саридз</name>
+		<name normalized="Dibubavi-Kiй-Bakрi" languages="Ukrainian">Дебубаві-Кей-Бахрі</name>
+		<name normalized="Debub-Keй-Bakрi" languages="Russian">Дэбуб-Кэй-Бахри</name>
+		<name normalized="Kрaснoi мoрi" languages="Russian">Красное море</name>
+		<name normalized="Kыzыл diңgiz" languages="Tatar">Кызыл диңгез</name>
+		<name normalized="Uлaaн teнgiс" languages="Mongolian">Улаан тэнгис</name>
+		<name normalized="Keрлe tiнeс" languages="Chuvash">Хĕрлĕ тинĕс</name>
+		<name normalized="Tрviнo Мoрi" languages="Macedonian;Serbian">Црвено Море</name>
+		<name normalized="Ciрviнo мoрi" languages="Bulgarian">Червено море</name>
+		<name normalized="Ciрviнo мoрi юg" languages="Bulgarian">Червено море юг</name>
+		<name normalized="Ciрvoнi мoрi" languages="Ukrainian">Червоне море</name>
+		<name normalized="Cырvoнai мoрa" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Чырвонае мора</name>
+		<name normalized="Яksaр taнgыz" languages="Hill Mari">Якшар тангыж</name>
+		<name normalized="Ярu gьuьл" languages="Lezghian">Яру гьуьл</name>
+		<name normalized="Kыzыл tiңiz" languages="Kazakh">Қызыл теңіз</name>
+		<name normalized="Kաrmիr cvվ" languages="Armenian">Կարմիր ծով</name>
+		<name normalized="ים סvף" languages="Hebrew;Yiddish">ים סוף</name>
+		<name normalized="אلbhr אلأhmr" languages="Arabic">البحر الأحمر</name>
+		<name normalized="אلbhr אلאhmr" languages="Egyptian Spoken Arabic">البحر الاحمر</name>
+		<name normalized="bhیrہ אhmr" languages="Urdu">بحیرہ احمر</name>
+		<name normalized="دrیאی سrخ" languages="Persian">دریای سرخ</name>
+		<name normalized="سrخ دrیא" languages="Mazanderani">سرخ دریا</name>
+		<name normalized="لאل سmندr" languages="Western Punjabi">لال سمندر</name>
+		<name normalized="ܝܡܐ ܣܘܡܩܐ" languages="Aramaic">ܝܡܐ ܣܘܡܩܐ</name>
+		<name normalized="ރަތްކަނޑު" languages="Divehi">ރަތްކަނޑު</name>
+		<name normalized="lाl smud्r" languages="Marathi">लाल समुद्र</name>
+		<name normalized="lाl sाgr" languages="Hindi">लाल सागर</name>
+		<name normalized="lohit sাgr" languages="Bengali">লোহিত সাগর</name>
+		<name normalized="lਾl sਾgr" languages="Punjabi">ਲਾਲ ਸਾਗਰ</name>
+		<name normalized="செங்கடல்" languages="Tamil">செங்கடல்</name>
+		<name normalized="ఎర్ర సముద్రం" languages="Telugu">ఎర్ర సముద్రం</name>
+		<name normalized="ಕೆಂಪು ಸಮುದ್ರ" languages="Kannada">ಕೆಂಪು ಸಮುದ್ರ</name>
+		<name normalized="ചെങ്കടൽ" languages="Malayalam">ചെങ്കടൽ</name>
+		<name normalized="ทะเลแดง" languages="Thai">ทะเลแดง</name>
+		<name normalized="ပင်လယ်နီ" languages="Burmese">ပင်လယ်နီ</name>
+		<name normalized="წითელი ზღვა" languages="Georgian">წითელი ზღვა</name>
+		<name normalized="ჭითა ზუღა" languages="Mingrelian">ჭითა ზუღა</name>
+		<name normalized="ዞባ ደቡባዊ ቀይሕ ባሕሪ" languages="Tigrinya">ዞባ ደቡባዊ ቀይሕ ባሕሪ</name>
+		<name normalized="dbbui・kibhr地方" languages="Japanese">デブバウィ・ケイバハリ地方</name>
+		<name normalized="南紅海區" languages="Chinese">南紅海區</name>
+		<name normalized="紅海" languages="Cantonese;Japanese">紅海</name>
+		<name normalized="红海" languages="Chinese">红海</name>
+		<name normalized="홍해" languages="Korean">홍해</name>
+		<name normalized="홍해 남부 주" languages="Korean">홍해 남부 주</name>
+	</region>
+	<region name="Gash Barka" type="region" typeTranslated="zoba">
+		<name normalized="Eneo la Gash-Barka" languages="Swahili">Eneo la Gash-Barka</name>
+		<name normalized="Gash Barka" languages="English;official">Gash Barka</name>
+		<name normalized="Gash Barka Region" languages="English;official">Gash Barka Region</name>
+		<name normalized="Gash Barka Zoba" languages="English;official">Gash Barka Zoba</name>
+		<name normalized="Gash-Barka" languages="Breton;Croatian;Dutch;French;German;Norwegian (bokmal);Portuguese;Spanish;Turkish">Gash-Barka</name>
+		<name normalized="Gash-Barka Region" languages="English;Scots">Gash-Barka Region</name>
+		<name normalized="Gasz-Barka" languages="Polish">Gasz-Barka</name>
+		<name normalized="Gas Barka" languages="Lithuanian">Gaš Barka</name>
+		<name normalized="Regione di Gasc-Barca" languages="Italian">Regione di Gasc-Barca</name>
+		<name normalized="Gas-Baрka" languages="Bulgarian;Russian;Ukrainian">Гаш-Барка</name>
+		<name normalized="ዞባ ጋሽ ባርካ" languages="Tigrinya">ዞባ ጋሽ ባርካ</name>
+		<name normalized="gsy・brk地方" languages="Japanese">ガシュ・バルカ地方</name>
+		<name normalized="加什-巴爾卡區" languages="Chinese">加什-巴爾卡區</name>
+		<name normalized="가시-바르카 주" languages="Korean">가시-바르카 주</name>
+	</region>
+	<region name="Ma'akel" type="region" typeTranslated="zoba">
+		<name normalized="Central" languages="Dutch;English;French;German;Italian;official;Polish;Portuguese;Simple English;Spanish;Swedish;Vietnamese;Volapuk">Central</name>
+		<name normalized="Central Region" languages="English;official">Central Region</name>
+		<name normalized="Central Zoba" languages="English;official">Central Zoba</name>
+		<name normalized="Eneo ya Kati" languages="Swahili">Eneo ya Kati</name>
+		<name normalized="Ma'akel" languages="English;official">Ma'akel</name>
+		<name normalized="Ma'akel Region" languages="English;official">Ma'akel Region</name>
+		<name normalized="Ma'akel Zoba" languages="English;official">Ma'akel Zoba</name>
+		<name normalized="Maakel" languages="English;official;Swedish">Maakel</name>
+		<name normalized="Maakel Region" languages="English;official">Maakel Region</name>
+		<name normalized="Maakel Zoba" languages="English;official">Maakel Zoba</name>
+		<name normalized="Maekel" languages="Breton;Croatian;Dutch;French;German;Norwegian (bokmal);Portuguese;Spanish;Turkish">Maekel</name>
+		<name normalized="Maekel Region" languages="English;Scots">Maekel Region</name>
+		<name normalized="Maekelis" languages="Lithuanian">Maekelis</name>
+		<name normalized="Region Centralny" languages="Polish">Region Centralny</name>
+		<name normalized="Regione Centrale" languages="Italian">Regione Centrale</name>
+		<name normalized="Regiunea Maekel" languages="Romanian">Regiunea Maekel</name>
+		<name normalized="Мaikiл" languages="Ukrainian">Маекел</name>
+		<name normalized="Мaekiль" languages="Russian">Маэкель</name>
+		<name normalized="Сiнtрaл" languages="Serbian">Сентрал</name>
+		<name normalized="Tiнtрaлiн рigioн" languages="Bulgarian">Централен регион</name>
+		<name normalized="Tiнtрaль" languages="Russian">Централь</name>
+		<name normalized="אلmنtqة אلmrkزyة" languages="Arabic">المنطقة المركزية</name>
+		<name normalized="mrکزی" languages="Persian">مرکزی</name>
+		<name normalized="sen্ট্rাl" languages="Bishnupria Manipuri">সেন্ট্রাল</name>
+		<name normalized="சென்ட்ரல்" languages="Tamil">சென்ட்ரல்</name>
+		<name normalized="กลาง" languages="Thai">กลาง</name>
+		<name normalized="ዞባ ማእከል" languages="Tigrinya">ዞባ ማእከል</name>
+		<name normalized="sntrr" languages="Japanese">セントラル</name>
+		<name normalized="makr地方" languages="Japanese">マアカル地方</name>
+		<name normalized="中" languages="Chinese;Gan">中</name>
+		<name normalized="中部區" languages="Chinese">中部區</name>
+		<name normalized="센트럴" languages="Korean">센트럴</name>
+		<name normalized="중앙 주" languages="Korean">중앙 주</name>
+	</region>
+	<region name="Semenawi Keyih Bahri" type="region" typeTranslated="zoba">
+		<name normalized="Badacas" languages="Somali">Badacas</name>
+		<name normalized="Bahari ya Shamu" languages="Swahili">Bahari ya Shamu</name>
+		<name normalized="Bahar l-Ahmar" languages="Maltese">Baħar l-Aħmar</name>
+		<name normalized="Bien Do" languages="Vietnamese">Biển Đỏ</name>
+		<name normalized="Cerwjene morjo" languages="Lower Sorbian">Cerwjene mórjo</name>
+		<name normalized="Crveno more" languages="Bosnian;Croatian;Serbo-Croatian">Crveno more</name>
+		<name normalized="Dagat Pula" languages="Tagalog">Dagat Pula</name>
+		<name normalized="Deryaya Sor" languages="Kurdish">Deryaya Sor</name>
+		<name normalized="Deryayo Sur" languages="Zazaki">Deryayo Sur</name>
+		<name normalized="Deti i Kuq" languages="Albanian">Deti i Kuq</name>
+		<name normalized="Fung-hoi" languages="Hakka">Fùng-hói</name>
+		<name normalized="Galaana Diimaa" languages="Oromo">Galaana Diimaa</name>
+		<name normalized="Itsaso Gorria" languages="Basque">Itsaso Gorria</name>
+		<name normalized="Kaskazini Eneo la Ziwa Nyekundu" languages="Swahili">Kaskazini Eneo la Ziwa Nyekundu</name>
+		<name normalized="Kızıldeniz" languages="Turkish">Kızıldeniz</name>
+		<name normalized="Kuzey Kızıldeniz" languages="Turkish">Kuzey Kızıldeniz</name>
+		<name normalized="La'ot Mirah" languages="Achinese">La'ôt Mirah</name>
+		<name normalized="Laman Kora" languages="Papiamento">Laman Korá</name>
+		<name normalized="Laut Beureum" languages="Sundanese">Laut Beureum</name>
+		<name normalized="Laut Habang" languages="Banjar">Laut Habang</name>
+		<name normalized="Laut Merah" languages="Indonesian;Malay">Laut Merah</name>
+		<name normalized="Mar Bermeya" languages="Asturian">Mar Bermeya</name>
+		<name normalized="Mar Cotschna" languages="Romansh">Mar Cotschna</name>
+		<name normalized="Mar Roja" languages="Catalan;Occitan">Mar Roja</name>
+		<name normalized="Mar Rojo" languages="Spanish">Mar Rojo</name>
+		<name normalized="Mar Roso" languages="veneto">Mar Roso</name>
+		<name normalized="Mar Rosso" languages="Italian">Mar Rosso</name>
+		<name normalized="Mar Roya" languages="Aragonese">Mar Roya</name>
+		<name normalized="Mar Ruosso" languages="Neapolitan">Mar Ruosso</name>
+		<name normalized="Mar Russ" languages="lumbaart">Mar Russ</name>
+		<name normalized="Mar Vermelho" languages="Portuguese">Mar Vermelho</name>
+		<name normalized="Mar Vermello" languages="Galician">Mar Vermello</name>
+		<name normalized="Mare rubrum" languages="Latin">Mare rubrum</name>
+		<name normalized="Marea Rosie" languages="Romanian">Marea Roșie</name>
+		<name normalized="Mari Colorau" languages="Extremaduran">Mari Colorau</name>
+		<name normalized="Mari Russu" languages="Sicilian">Mari Russu</name>
+		<name normalized="Mer Rouge" languages="French">Mer Rouge</name>
+		<name normalized="Mor Ruz" languages="Breton">Mor Ruz</name>
+		<name normalized="Morze Czerwone" languages="Polish">Morze Czerwone</name>
+		<name normalized="Muir Rua" languages="Irish">Muir Rua</name>
+		<name normalized="Northern Red Sea" languages="English;official">Northern Red Sea</name>
+		<name normalized="Northern Red Sea Region" languages="English;official">Northern Red Sea Region</name>
+		<name normalized="Northern Red Sea Zoba" languages="English;official">Northern Red Sea Zoba</name>
+		<name normalized="Northren Reid Sea Region" languages="Scots">Northren Reid Sea Region</name>
+		<name normalized="Pula nga Dagat" languages="Waray">Pula nga Dagat</name>
+		<name normalized="Punainenmeri" languages="Finnish">Punainenmeri</name>
+		<name normalized="Punane meri" languages="Estonian">Punane meri</name>
+		<name normalized="Qırmızı dəniz" languages="Azerbaijani">Qırmızı dəniz</name>
+		<name normalized="Ranomasina Mena" languages="Malagasy">Ranomasina Mena</name>
+		<name normalized="Raudehavet" languages="Norwegian Nynorsk">Raudehavet</name>
+		<name normalized="Raudonoji jura" languages="Lithuanian">Raudonoji jūra</name>
+		<name normalized="Raudahaf" languages="Icelandic">Rauðahaf</name>
+		<name normalized="Rdece morje" languages="Slovenian">Rdeče morje</name>
+		<name normalized="Reade See" languages="Western Frisian">Reade See</name>
+		<name normalized="Red Sea" languages="English;Fiji Hindi;official;Simple English">Red Sea</name>
+		<name normalized="Red Sea Region" languages="English;official">Red Sea Region</name>
+		<name normalized="Red Sea Zoba" languages="English;official">Red Sea Zoba</name>
+		<name normalized="Reda maro" languages="Ido">Reda maro</name>
+		<name normalized="Region Polnocny Morza Czerwonego" languages="Polish">Region Północny Morza Czerwonego</name>
+		<name normalized="Regione del Mar Rosso Settentrionale" languages="Italian">Regione del Mar Rosso Settentrionale</name>
+		<name normalized="Rode Zee" languages="Dutch">Rode Zee</name>
+		<name normalized="Rooi See" languages="Afrikaans">Rooi See</name>
+		<name normalized="Rotes Meer" languages="German">Rotes Meer</name>
+		<name normalized="Rouoge Me" languages="Nouormand">Rouoge Mé</name>
+		<name normalized="Rout Mier" languages="Luxembourgish">Rout Mier</name>
+		<name normalized="Rude more" languages="Czech">Rudé moře</name>
+		<name normalized="Ruga Maro" languages="Esperanto">Ruĝa Maro</name>
+		<name normalized="Roda havet" languages="Swedish">Röda havet</name>
+		<name normalized="Rode Hav" languages="Danish">Røde Hav</name>
+		<name normalized="Rodehavet" languages="Norwegian (bokmal)">Rødehavet</name>
+		<name normalized="Sarkana jura" languages="Latvian">Sarkanā jūra</name>
+		<name normalized="Segara Abang" languages="Javanese">Segara Abang</name>
+		<name normalized="Semenawi Keyih Bahri" languages="Breton;Dutch;English;Norwegian (bokmal);official;Spanish">Semenawi Keyih Bahri</name>
+		<name normalized="Semenawi Keyih Bahri Region" languages="English;official">Semenawi Keyih Bahri Region</name>
+		<name normalized="Semenawi Keyih Bahri Zoba" languages="English;official">Semenawi Keyih Bahri Zoba</name>
+		<name normalized="Semien-Keih-Bahri" languages="French;Portuguese">Semien-Keih-Bahri</name>
+		<name normalized="Semienawi Kayih Bahri" languages="German">Semienawi Kayih Bahri</name>
+		<name normalized="Sjeverno crveno more" languages="Croatian">Sjeverno crveno more</name>
+		<name normalized="Voros-tenger" languages="Hungarian">Vörös-tenger</name>
+		<name normalized="Y Mor Coch" languages="Welsh">Y Môr Coch</name>
+		<name normalized="Yn Vooir Ruy" languages="Manx">Yn Vooir Ruy</name>
+		<name normalized="Ang-hai" languages="Chinese (Min Nan)">Âng-hái</name>
+		<name normalized="Okun Pupa" languages="Yoruba">Òkun Pupa</name>
+		<name normalized="Cervene more" languages="Slovak">Červené more</name>
+		<name normalized="Cerwjene morjo" languages="Upper Sorbian">Čerwjene morjo</name>
+		<name normalized="Siaurine Raudonoji Jura" languages="Lithuanian">Šiaurinė Raudonoji Jūra</name>
+		<name normalized="Ερυθρα Θαλασσα" languages="Greek">Ερυθρά Θάλασσα</name>
+		<name normalized="Goрd сaрidz" languages="Komi">Гӧрд саридз</name>
+		<name normalized="Kрaснoi мoрi" languages="Russian">Красное море</name>
+		<name normalized="Kыzыл diңgiz" languages="Tatar">Кызыл диңгез</name>
+		<name normalized="Сiмiнavi-Kiй-Bakрi" languages="Ukrainian">Семенаві-Кей-Бахрі</name>
+		<name normalized="Сeмieн-Keй-Bakрi" languages="Russian">Сэмиэн-Кэй-Бахри</name>
+		<name normalized="Uлaaн teнgiс" languages="Mongolian">Улаан тэнгис</name>
+		<name normalized="Keрлe tiнeс" languages="Chuvash">Хĕрлĕ тинĕс</name>
+		<name normalized="Tрviнo Мoрi" languages="Macedonian;Serbian">Црвено Море</name>
+		<name normalized="Ciрviнo мoрi" languages="Bulgarian">Червено море</name>
+		<name normalized="Ciрviнo мoрi сiviр" languages="Bulgarian">Червено море север</name>
+		<name normalized="Ciрvoнi мoрi" languages="Ukrainian">Червоне море</name>
+		<name normalized="Cырvoнai мoрa" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Чырвонае мора</name>
+		<name normalized="Яksaр taнgыz" languages="Hill Mari">Якшар тангыж</name>
+		<name normalized="Ярu gьuьл" languages="Lezghian">Яру гьуьл</name>
+		<name normalized="Kыzыл tiңiz" languages="Kazakh">Қызыл теңіз</name>
+		<name normalized="Kաrmիr cvվ" languages="Armenian">Կարմիր ծով</name>
+		<name normalized="ים סvף" languages="Hebrew;Yiddish">ים סוף</name>
+		<name normalized="אلbhr אلأhmr" languages="Arabic">البحر الأحمر</name>
+		<name normalized="אلbhr אلאhmr" languages="Egyptian Spoken Arabic">البحر الاحمر</name>
+		<name normalized="bhیrہ אhmr" languages="Urdu">بحیرہ احمر</name>
+		<name normalized="دrیאی سrخ" languages="Persian">دریای سرخ</name>
+		<name normalized="سrخ دrیא" languages="Mazanderani">سرخ دریا</name>
+		<name normalized="لאل سmندr" languages="Western Punjabi">لال سمندر</name>
+		<name normalized="ܝܡܐ ܣܘܡܩܐ" languages="Aramaic">ܝܡܐ ܣܘܡܩܐ</name>
+		<name normalized="ރަތްކަނޑު" languages="Divehi">ރަތްކަނޑު</name>
+		<name normalized="lाl smud्r" languages="Marathi">लाल समुद्र</name>
+		<name normalized="lाl sाgr" languages="Hindi">लाल सागर</name>
+		<name normalized="lohit sাgr" languages="Bengali">লোহিত সাগর</name>
+		<name normalized="lਾl sਾgr" languages="Punjabi">ਲਾਲ ਸਾਗਰ</name>
+		<name normalized="செங்கடல்" languages="Tamil">செங்கடல்</name>
+		<name normalized="ఎర్ర సముద్రం" languages="Telugu">ఎర్ర సముద్రం</name>
+		<name normalized="ಕೆಂಪು ಸಮುದ್ರ" languages="Kannada">ಕೆಂಪು ಸಮುದ್ರ</name>
+		<name normalized="ചെങ്കടൽ" languages="Malayalam">ചെങ്കടൽ</name>
+		<name normalized="ทะเลแดง" languages="Thai">ทะเลแดง</name>
+		<name normalized="ပင်လယ်နီ" languages="Burmese">ပင်လယ်နီ</name>
+		<name normalized="წითელი ზღვა" languages="Georgian">წითელი ზღვა</name>
+		<name normalized="ჭითა ზუღა" languages="Mingrelian">ჭითა ზუღა</name>
+		<name normalized="ዞባ ሰሜናዊ ቀይሕ ባሕሪ" languages="Tigrinya">ዞባ ሰሜናዊ ቀይሕ ባሕሪ</name>
+		<name normalized="smnui・kibhr地方" languages="Japanese">セメナウィ・ケイバハリ地方</name>
+		<name normalized="北紅海區" languages="Chinese">北紅海區</name>
+		<name normalized="紅海" languages="Cantonese;Japanese">紅海</name>
+		<name normalized="红海" languages="Chinese">红海</name>
+		<name normalized="홍해" languages="Korean">홍해</name>
+		<name normalized="홍해 북부 주" languages="Korean">홍해 북부 주</name>
+	</region>
+</regions>

@@ -1,0 +1,572 @@
+<regions country="Korea, South">
+	<region name="Busan" type="metropolitan city" typeTranslated="gwangyoksi">
+		<name normalized="Busan" languages="Achinese;Afrikaans;Basque;Bislama;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Ido;Indonesian;Italian;Javanese;Kalaallisut;lumbaart;Maori;Norwegian (bokmal);Occitan;official;Portuguese;Quechua;Romanian;Scots;Simple English;Spanish;Swahili;Tagalog;Turkish;Vietnamese;Waray">Busan</name>
+		<name normalized="Busanas" languages="Lithuanian">Busanas</name>
+		<name normalized="Pusan" languages="Czech;English;Norwegian Nynorsk;official;Polish;Slovak;Swedish;Uzbek">Pusan</name>
+		<name normalized="Pusana" languages="Latvian">Pusana</name>
+		<name normalized="Pusano" languages="Esperanto">Pusano</name>
+		<name normalized="Pusanum" languages="Latin">Pusanum</name>
+		<name normalized="Puszan" languages="Hungarian">Puszan</name>
+		<name normalized="Πουσαν" languages="Greek">Πουσάν</name>
+		<name normalized="Buсaн" languages="Serbian">Бусан</name>
+		<name normalized="Goрad Puсaн" languages="Belarusian">Горад Пусан</name>
+		<name normalized="Puсaн" languages="Bulgarian;Chechen;Eastern Mari;Kazakh;Ossetic;Russian;Sakha;Ukrainian">Пусан</name>
+		<name normalized="Pүсaн" languages="Mongolian">Пүсан</name>
+		<name normalized="Pvysան" languages="Armenian">Պուսան</name>
+		<name normalized="pvסן" languages="Hebrew">פוסן</name>
+		<name normalized="bسאن" languages="Arabic;Western Punjabi">بسان</name>
+		<name normalized="bوسאن" languages="Mazanderani;Persian">بوسان</name>
+		<name normalized="busाn" languages="Hindi;Marathi">बुसान</name>
+		<name normalized="busਾn" languages="Punjabi">ਬੂਸਾਨ</name>
+		<name normalized="ബുസാൻ" languages="Malayalam">ബുസാൻ</name>
+		<name normalized="ปูซาน" languages="Thai">ปูซาน</name>
+		<name normalized="ဘူဆန်မြို့" languages="Burmese">ဘူဆန်မြို့</name>
+		<name normalized="პუსანი" languages="Georgian">პუსანი</name>
+		<name normalized="釜山" languages="Cantonese">釜山</name>
+		<name normalized="釜山广域市" languages="Wu">釜山广域市</name>
+		<name normalized="釜山広域市" languages="Japanese">釜山広域市</name>
+		<name normalized="釜山廣域市" languages="Chinese;Classical Chinese">釜山廣域市</name>
+		<name normalized="부산광역시" languages="Korean">부산광역시</name>
+	</region>
+	<region name="Chungbuk" type="province" typeTranslated="do">
+		<name normalized="Ch'ungch'ong Polnocny" languages="Polish">Ch'ungch'ŏng Północny</name>
+		<name normalized="Chungbuk" languages="English;official">Chungbuk</name>
+		<name normalized="Chungbuk Do" languages="English;official">Chungbuk Do</name>
+		<name normalized="Chungbuk Province" languages="English;official">Chungbuk Province</name>
+		<name normalized="Chungcheong" languages="Catalan;English;French;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Vietnamese">Chungcheong</name>
+		<name normalized="Chungcheong Bac" languages="Vietnamese">Chungcheong Bắc</name>
+		<name normalized="Chungcheong del Norte" languages="Spanish">Chungcheong del Norte</name>
+		<name normalized="Chungcheong Do" languages="English;official">Chungcheong Do</name>
+		<name normalized="Chungcheong do Norte" languages="Portuguese">Chungcheong do Norte</name>
+		<name normalized="Chungcheong Province" languages="English;official">Chungcheong Province</name>
+		<name normalized="Chungcheong Utara" languages="Indonesian;Malay">Chungcheong Utara</name>
+		<name normalized="Chungcheong-do" languages="German">Chungcheong-do</name>
+		<name normalized="Chungcheongbuk" languages="French">Chungcheongbuk</name>
+		<name normalized="Chungcheongbuk-do" languages="Achinese;Catalan;Dutch;German;lumbaart;Scots;Swahili">Chungcheongbuk-do</name>
+		<name normalized="Chung-chhin Pet-tho" languages="Hakka">Chûng-chhîn Pet-tho</name>
+		<name normalized="Kuzey Cungceong" languages="Turkish">Kuzey Çungçeong</name>
+		<name normalized="Nord Chungcheong" languages="Italian">Nord Chungcheong</name>
+		<name normalized="Nord-Chungcheong" languages="Norwegian (bokmal)">Nord-Chungcheong</name>
+		<name normalized="Nordchungcheong" languages="Swedish">Nordchungcheong</name>
+		<name normalized="North Chungcheong" languages="English;official">North Chungcheong</name>
+		<name normalized="North Chungcheong Do" languages="English;official">North Chungcheong Do</name>
+		<name normalized="North Chungcheong Province" languages="English;official">North Chungcheong Province</name>
+		<name normalized="Pohjois-Chungcheon" languages="Finnish">Pohjois-Chungcheon</name>
+		<name normalized="Pohja-Chungcheongi provints" languages="Estonian">Põhja-Chungcheongi provints</name>
+		<name normalized="Severni Cchungcchong" languages="Czech">Severní Čchungčchong</name>
+		<name normalized="Eszak-Cshungcshong" languages="Hungarian">Észak-Cshungcshong</name>
+		<name normalized="Siaures Cungcongo provincija" languages="Lithuanian">Šiaurės Čungčongo provincija</name>
+		<name normalized="Pрoviнtii Ckuнckoн" languages="Ukrainian">Провінція Чхунчхон</name>
+		<name normalized="Pivdiннa pрoviнtii Ckuнckoн" languages="Ukrainian">Південна провінція Чхунчхон</name>
+		<name normalized="Uмaрd Cүнcoн" languages="Mongolian">Умард Чүнчон</name>
+		<name normalized="Ckuнckoн-Pukto" languages="Russian">Чхунчхон-Пукто</name>
+		<name normalized="Ckuнckoнdo" languages="Russian">Чхунчхондо</name>
+		<name normalized="Ckuнckън-Pukto" languages="Bulgarian">Чхунчхън-Пукто</name>
+		<name normalized="tشنغtشونغ אلشmאلyة" languages="Arabic">تشنغتشونغ الشمالية</name>
+		<name normalized="sوbہ אtلא چونgچیونg" languages="Western Punjabi">صوبہ اتلا چونگچیونگ</name>
+		<name normalized="چونgچیونbوک-دو" languages="Persian">چونگچیونبوک-دو</name>
+		<name normalized="ut्tr cuंgcाँg p्rांt" languages="Marathi">उत्तर चुंगचाँग प्रांत</name>
+		<name normalized="จังหวัดชุงช็องเหนือ" languages="Thai">จังหวัดชุงช็องเหนือ</name>
+		<name normalized="忠清北道" languages="Chinese;Classical Chinese;Japanese">忠清北道</name>
+		<name normalized="忠清道" languages="Chinese;Japanese">忠清道</name>
+		<name normalized="충청도" languages="Korean">충청도</name>
+		<name normalized="충청북도" languages="Korean">충청북도</name>
+	</region>
+	<region name="Chungnam" type="province" typeTranslated="do">
+		<name normalized="Chungcheong" languages="Catalan;English;French;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Vietnamese">Chungcheong</name>
+		<name normalized="Chungcheong del Sur" languages="Spanish">Chungcheong del Sur</name>
+		<name normalized="Chungcheong Do" languages="English;official">Chungcheong Do</name>
+		<name normalized="Chungcheong do Sul" languages="Portuguese">Chungcheong do Sul</name>
+		<name normalized="Chungcheong du Sud" languages="French">Chungcheong du Sud</name>
+		<name normalized="Chungcheong Nam" languages="Vietnamese">Chungcheong Nam</name>
+		<name normalized="Chungcheong Poludniowy" languages="Polish">Chungcheong Południowy</name>
+		<name normalized="Chungcheong Province" languages="English;official">Chungcheong Province</name>
+		<name normalized="Chungcheong Selatan" languages="Indonesian;Malay">Chungcheong Selatan</name>
+		<name normalized="Chungcheong-do" languages="German">Chungcheong-do</name>
+		<name normalized="Chungcheongnam" languages="Achinese">Chungcheongnam</name>
+		<name normalized="Chungcheongnam-do" languages="Catalan;Dutch;German;lumbaart;Scots;Swahili">Chungcheongnam-do</name>
+		<name normalized="Chungnam" languages="English;official">Chungnam</name>
+		<name normalized="Chungnam Do" languages="English;official">Chungnam Do</name>
+		<name normalized="Chungnam Province" languages="English;official">Chungnam Province</name>
+		<name normalized="Chung-chhin Nam-tho" languages="Hakka">Chûng-chhîn Nàm-tho</name>
+		<name normalized="Del-Cshungcshong" languages="Hungarian">Dél-Cshungcshong</name>
+		<name normalized="Etela-Chungcheong" languages="Finnish">Etelä-Chungcheong</name>
+		<name normalized="Guney Cungceong" languages="Turkish">Güney Çungçeong</name>
+		<name normalized="Jizni Cchungcchong" languages="Czech">Jižní Čchungčchong</name>
+		<name normalized="Louna-Chungcheongi provints" languages="Estonian">Lõuna-Chungcheongi provints</name>
+		<name normalized="Pietu Cungcongo provincija" languages="Lithuanian">Pietų Čungčongo provincija</name>
+		<name normalized="South Chungcheong" languages="English;official">South Chungcheong</name>
+		<name normalized="South Chungcheong Do" languages="English;official">South Chungcheong Do</name>
+		<name normalized="South Chungcheong Province" languages="English;official;Simple English">South Chungcheong Province</name>
+		<name normalized="Sud Chungcheong" languages="Italian">Sud Chungcheong</name>
+		<name normalized="Sydchungcheong" languages="Swedish">Sydchungcheong</name>
+		<name normalized="Sor-Chungcheong" languages="Norwegian (bokmal)">Sør-Chungcheong</name>
+		<name normalized="Pрoviнtii Ckuнckoн" languages="Ukrainian">Провінція Чхунчхон</name>
+		<name normalized="Pivdiннa pрoviнtii Ckuнckoн" languages="Ukrainian">Південна провінція Чхунчхон</name>
+		<name normalized="Ckuнckoн-Нaмdo" languages="Russian">Чхунчхон-Намдо</name>
+		<name normalized="Ckuнckoнdo" languages="Russian">Чхунчхондо</name>
+		<name normalized="Ckuнckън-Нaмdo" languages="Bulgarian">Чхунчхън-Намдо</name>
+		<name normalized="Өмнɵ Cүнcoн" languages="Mongolian">Өмнө Чүнчон</name>
+		<name normalized="tشنغtشونغ אلjنوbyة" languages="Arabic">تشنغتشونغ الجنوبية</name>
+		<name normalized="چونgچئونgنאm-دو" languages="Persian">چونگچئونگنام-دو</name>
+		<name normalized="dk्षiण cuंgcाँg p्rांt" languages="Marathi">दक्षिण चुंगचाँग प्रांत</name>
+		<name normalized="จังหวัดชุงช็องใต้" languages="Thai">จังหวัดชุงช็องใต้</name>
+		<name normalized="忠清南道" languages="Chinese;Classical Chinese;Japanese">忠清南道</name>
+		<name normalized="忠清道" languages="Chinese;Japanese">忠清道</name>
+		<name normalized="충청남도" languages="Korean">충청남도</name>
+		<name normalized="충청도" languages="Korean">충청도</name>
+	</region>
+	<region name="Daegu" type="metropolitan city" typeTranslated="gwangyoksi">
+		<name normalized="Daegu" languages="Achinese;Afrikaans;Basque;Catalan;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Ido;Indonesian;Interlingue;Italian;Kalaallisut;Latin;lumbaart;Malay;Maori;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Scots;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Waray">Daegu</name>
+		<name normalized="Daegu Kong-he̍k-chhi" languages="Chinese (Min Nan)">Daegu Kóng-he̍k-chhī</name>
+		<name normalized="Taegu" languages="English;official">Taegu</name>
+		<name normalized="Tegu" languages="Czech;Hungarian;Latvian;Lithuanian;Serbo-Croatian">Tegu</name>
+		<name normalized="Teguo" languages="Esperanto">Teguo</name>
+		<name normalized="Tagu" languages="Slovak">Tägu</name>
+		<name normalized="Τεγκοu" languages="Greek">Τεγκού</name>
+		<name normalized="Tigu" languages="Bulgarian;Serbian;Ukrainian">Тегу</name>
+		<name normalized="Tegu" languages="Chechen;Kazakh;Ossetic;Russian">Тэгу</name>
+		<name normalized="Tegү" languages="Mongolian">Тэгү</name>
+		<name normalized="tגv" languages="Hebrew">טגו</name>
+		<name normalized="دאئjو" languages="Persian">دائجو</name>
+		<name normalized="دyغو" languages="Arabic">ديغو</name>
+		<name normalized="ڈیgو" languages="Western Punjabi">ڈیگو</name>
+		<name normalized="dagu" languages="Marathi">दैगू</name>
+		<name normalized="ദേഗു" languages="Malayalam">ദേഗു</name>
+		<name normalized="แทกู" languages="Thai">แทกู</name>
+		<name normalized="大邱广域市" languages="Wu">大邱广域市</name>
+		<name normalized="大邱広域市" languages="Japanese">大邱広域市</name>
+		<name normalized="大邱廣域市" languages="Chinese;Classical Chinese">大邱廣域市</name>
+		<name normalized="대구광역시" languages="Korean">대구광역시</name>
+	</region>
+	<region name="Daejon" type="metropolitan city" typeTranslated="gwangyoksi">
+		<name normalized="Daejeon" languages="Achinese;Afrikaans;Basque;Bislama;Catalan;Danish;Dutch;English;Estonian;Finnish;French;German;Indonesian;Interlingua;Italian;Kalaallisut;Latin;lumbaart;Malay;Maori;Norwegian (bokmal);Polish;Portuguese;Romanian;Scots;Simple English;Spanish;Swahili;Swedish;Tagalog;Uzbek;Vietnamese;Waray">Daejeon</name>
+		<name normalized="Daejon" languages="English;Ido;official">Daejon</name>
+		<name normalized="Degon" languages="Esperanto">Deĝon</name>
+		<name normalized="Taejon" languages="English;official">Taejon</name>
+		<name normalized="Tedzon" languages="Czech">Tedžon</name>
+		<name normalized="Tedzonas" languages="Lithuanian">Tedžonas</name>
+		<name normalized="Thai-thien Kong-vet-su" languages="Hakka">Thai-thièn Kóng-vet-sṳ</name>
+		<name normalized="Tidzoн" languages="Ukrainian">Теджон</name>
+		<name normalized="Tidzън" languages="Bulgarian">Теджън</name>
+		<name normalized="Tedzoн" languages="Chechen;Russian">Тэджон</name>
+		<name normalized="Tezoн" languages="Mongolian">Тэжон</name>
+		<name normalized="tג'אן" languages="Hebrew">טג'אן</name>
+		<name normalized="دאئjونg" languages="Persian">دائجونگ</name>
+		<name normalized="دאyjyون" languages="Arabic">دايجيون</name>
+		<name normalized="ڈیjیون" languages="Western Punjabi">ڈیجیون</name>
+		<name normalized="dejon" languages="Marathi">देजॉन</name>
+		<name normalized="แทจ็อน" languages="Thai">แทจ็อน</name>
+		<name normalized="大田广域市" languages="Chinese;Wu">大田广域市</name>
+		<name normalized="大田広域市" languages="Japanese">大田広域市</name>
+		<name normalized="大田廣域市" languages="Classical Chinese">大田廣域市</name>
+		<name normalized="대전광역시" languages="Korean">대전광역시</name>
+	</region>
+	<region name="Gangwon" type="province" typeTranslated="do">
+		<name normalized="Gangwon" languages="English;Indonesian;Malay;official;Tagalog;Vietnamese">Gangwon</name>
+		<name normalized="Gangwon Do" languages="English;official">Gangwon Do</name>
+		<name normalized="Gangwon Province" languages="English;official">Gangwon Province</name>
+		<name normalized="Kangvon" languages="Hungarian">Kangvon</name>
+		<name normalized="Kangvonas" languages="Lithuanian">Kangvonas</name>
+		<name normalized="Kaнvoн" languages="Mongolian">Канвон</name>
+		<name normalized="Kaнvoнdo" languages="Russian">Канвондо</name>
+		<name normalized="จังหวัดคังว็อน" languages="Thai">จังหวัดคังว็อน</name>
+		<name normalized="江原道" languages="Japanese">江原道</name>
+		<name normalized="강원도" languages="Korean">강원도</name>
+	</region>
+	<region name="Gwangju" type="metropolitan city" typeTranslated="gwangyoksi">
+		<name normalized="Gouanjou" languages="Haitian">Gouanjou</name>
+		<name normalized="Gwangju" languages="Achinese;Afrikaans;Basque;Bislama;Catalan;Danish;Dutch;English;Estonian;Finnish;French;German;Ido;Indonesian;Italian;Kalaallisut;lumbaart;Malay;Maori;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Volapuk;Waray">Gwangju</name>
+		<name normalized="Kvandzu" languages="Lithuanian">Kvandžu</name>
+		<name normalized="Kwangdzu" languages="Czech">Kwangdžu</name>
+		<name normalized="Kwangju" languages="English;official">Kwangju</name>
+		<name normalized="Kuangjuo" languages="Esperanto">Kŭangĵuo</name>
+		<name normalized="Quansua" languages="Latin">Quansua</name>
+		<name normalized="Kvaнgdzu" languages="Serbian">Квангџу</name>
+		<name normalized="Kvaнdzu" languages="Chechen;Kazakh;Russian;Ukrainian">Кванджу</name>
+		<name normalized="Kuaнdzu" languages="Bulgarian">Куанджу</name>
+		<name normalized="Kuaнzү" languages="Mongolian">Куанжү</name>
+		<name normalized="qvvאnגג'v" languages="Hebrew">קוואנגג'ו</name>
+		<name normalized="غوאنغjو" languages="Arabic">غوانغجو</name>
+		<name normalized="gوאنgjو" languages="Persian;Western Punjabi">گوانگجو</name>
+		<name normalized="g्vांgju" languages="Marathi">ग्वांगजू</name>
+		<name normalized="ควังจู" languages="Thai">ควังจู</name>
+		<name normalized="光州" languages="Cantonese">光州</name>
+		<name normalized="光州广域市" languages="Wu">光州广域市</name>
+		<name normalized="光州広域市" languages="Japanese">光州広域市</name>
+		<name normalized="光州廣域市" languages="Chinese;Classical Chinese">光州廣域市</name>
+		<name normalized="광주광역시" languages="Korean">광주광역시</name>
+	</region>
+	<region name="Gyeongbuk" type="province" typeTranslated="do">
+		<name normalized="Gyeongbuk" languages="English;official">Gyeongbuk</name>
+		<name normalized="Gyeongbuk Do" languages="English;official">Gyeongbuk Do</name>
+		<name normalized="Gyeongbuk Province" languages="English;official">Gyeongbuk Province</name>
+		<name normalized="Gyeongsang" languages="English;Finnish;French;Norwegian (bokmal);official;Portuguese;Spanish;Vietnamese">Gyeongsang</name>
+		<name normalized="Gyeongsang Bac" languages="Vietnamese">Gyeongsang Bắc</name>
+		<name normalized="Gyeongsang del Norte" languages="Spanish">Gyeongsang del Norte</name>
+		<name normalized="Gyeongsang Do" languages="English;official">Gyeongsang Do</name>
+		<name normalized="Gyeongsang do Norte" languages="Portuguese">Gyeongsang do Norte</name>
+		<name normalized="Gyeongsang du Nord" languages="French">Gyeongsang du Nord</name>
+		<name normalized="Gyeongsang Province" languages="English;official">Gyeongsang Province</name>
+		<name normalized="Gyeongsang Polnocny" languages="Polish">Gyeongsang Północny</name>
+		<name normalized="Gyeongsang Utara" languages="Indonesian;Malay">Gyeongsang Utara</name>
+		<name normalized="Gyeongsang-do" languages="German">Gyeongsang-do</name>
+		<name normalized="Gyeongsangbuk" languages="Achinese">Gyeongsangbuk</name>
+		<name normalized="Gyeongsangbuk-do" languages="Catalan;Dutch;German;lumbaart;Romanian;Scots;Swahili">Gyeongsangbuk-do</name>
+		<name normalized="Nord Gyeongsang" languages="Italian">Nord Gyeongsang</name>
+		<name normalized="Nord-Gyeongsang" languages="Norwegian (bokmal)">Nord-Gyeongsang</name>
+		<name normalized="Nordgyeongsang" languages="Swedish">Nordgyeongsang</name>
+		<name normalized="North Gyeongsang" languages="English;official">North Gyeongsang</name>
+		<name normalized="North Gyeongsang Do" languages="English;official">North Gyeongsang Do</name>
+		<name normalized="North Gyeongsang Province" languages="English;official">North Gyeongsang Province</name>
+		<name normalized="Pohjois-Gyeongsang" languages="Finnish">Pohjois-Gyeongsang</name>
+		<name normalized="Pohja-Gyeongsangi provints" languages="Estonian">Põhja-Gyeongsangi provints</name>
+		<name normalized="Severni Kjongsang" languages="Czech">Severní Kjongsang</name>
+		<name normalized="Eszak-Kjongszang" languages="Hungarian">Észak-Kjongszang</name>
+		<name normalized="Siaures Kiongsango provincija" languages="Lithuanian">Šiaurės Kiongsango provincija</name>
+		<name normalized="Kьoнсaн-Pukto" languages="Bulgarian">Кьонсан-Пукто</name>
+		<name normalized="Kёнсaн-Pukto" languages="Russian">Кёнсан-Пукто</name>
+		<name normalized="Kёнсaнdo" languages="Russian">Кёнсандо</name>
+		<name normalized="Pрoviнtii Kьoнсaн" languages="Ukrainian">Провінція Кьонсан</name>
+		<name normalized="Pivнicнa pрoviнtii Kьoнсaн" languages="Ukrainian">Північна провінція Кьонсан</name>
+		<name normalized="Uмaр Kёнсaн" languages="Mongolian">Умар Кёнсан</name>
+		<name normalized="jئونسאنgbوک-دو" languages="Persian">جئونسانگبوک-دو</name>
+		<name normalized="ut्tr g्yाँgsांg p्rांt" languages="Marathi">उत्तर ग्याँगसांग प्रांत</name>
+		<name normalized="จังหวัดคย็องซังเหนือ" languages="Thai">จังหวัดคย็องซังเหนือ</name>
+		<name normalized="庆尚北道" languages="Chinese">庆尚北道</name>
+		<name normalized="庆尚道" languages="Chinese">庆尚道</name>
+		<name normalized="慶尚北道" languages="Classical Chinese;Japanese">慶尚北道</name>
+		<name normalized="慶尚道" languages="Japanese">慶尚道</name>
+		<name normalized="경상도" languages="Korean">경상도</name>
+		<name normalized="경상북도" languages="Korean">경상북도</name>
+	</region>
+	<region name="Gyeonggi" type="province" typeTranslated="do">
+		<name normalized="Gyeonggi" languages="Achinese;English;Finnish;French;Indonesian;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish;Tok Pisin;Vietnamese">Gyeonggi</name>
+		<name normalized="Gyeonggi Do" languages="English;official">Gyeonggi Do</name>
+		<name normalized="Gyeonggi Province" languages="English;official">Gyeonggi Province</name>
+		<name normalized="Gyeonggi provints" languages="Estonian">Gyeonggi provints</name>
+		<name normalized="Gyeonggi-do" languages="Catalan;Dutch;German;lumbaart;Romanian;Scots;Simple English;Sundanese;Swahili">Gyeonggi-do</name>
+		<name normalized="Kiongi provincija" languages="Lithuanian">Kiongi provincija</name>
+		<name normalized="Kjonggi" languages="Czech;Hungarian">Kjonggi</name>
+		<name normalized="Kin-ki-tho" languages="Hakka">Kîn-ki-tho</name>
+		<name normalized="Kьoнgi-do" languages="Bulgarian">Кьонги-до</name>
+		<name normalized="Kёнgi" languages="Mongolian">Кёнги</name>
+		<name normalized="Kёнgido" languages="Russian">Кёнгидо</name>
+		<name normalized="Pрoviнtii Kьoнgi" languages="Ukrainian">Провінція Кьонгі</name>
+		<name normalized="sوbہ gیونgی" languages="Western Punjabi">صوبہ گیونگی</name>
+		<name normalized="غyونغy" languages="Arabic">غيونغي</name>
+		<name normalized="gیونgی-دو" languages="Persian">گیونگی-دو</name>
+		<name normalized="g्yाँgi p्rांt" languages="Marathi">ग्याँगी प्रांत</name>
+		<name normalized="จังหวัดคย็องกี" languages="Thai">จังหวัดคย็องกี</name>
+		<name normalized="京畿道" languages="Chinese;Classical Chinese;Japanese;Wu">京畿道</name>
+		<name normalized="경기도" languages="Korean">경기도</name>
+	</region>
+	<region name="Gyeongnam" type="province" typeTranslated="do">
+		<name normalized="Del-Kjongszang" languages="Hungarian">Dél-Kjongszang</name>
+		<name normalized="Etela-Gyeongsang" languages="Finnish">Etelä-Gyeongsang</name>
+		<name normalized="Gyeongnam" languages="English;official">Gyeongnam</name>
+		<name normalized="Gyeongnam Do" languages="English;official">Gyeongnam Do</name>
+		<name normalized="Gyeongnam Province" languages="English;official">Gyeongnam Province</name>
+		<name normalized="Gyeongsang" languages="English;Finnish;French;Norwegian (bokmal);official;Portuguese;Spanish;Vietnamese">Gyeongsang</name>
+		<name normalized="Gyeongsang del Sur" languages="Spanish">Gyeongsang del Sur</name>
+		<name normalized="Gyeongsang Do" languages="English;official">Gyeongsang Do</name>
+		<name normalized="Gyeongsang do Sul" languages="Portuguese">Gyeongsang do Sul</name>
+		<name normalized="Gyeongsang du Sud" languages="French">Gyeongsang du Sud</name>
+		<name normalized="Gyeongsang Nam" languages="Vietnamese">Gyeongsang Nam</name>
+		<name normalized="Gyeongsang Poludniowy" languages="Polish">Gyeongsang Południowy</name>
+		<name normalized="Gyeongsang Province" languages="English;official">Gyeongsang Province</name>
+		<name normalized="Gyeongsang Selatan" languages="Indonesian;Malay">Gyeongsang Selatan</name>
+		<name normalized="Gyeongsang-do" languages="German">Gyeongsang-do</name>
+		<name normalized="Gyeongsangnam" languages="Achinese">Gyeongsangnam</name>
+		<name normalized="Gyeongsangnam-do" languages="Catalan;Dutch;German;lumbaart;Scots;Swahili">Gyeongsangnam-do</name>
+		<name normalized="Jizni Kjongsang" languages="Czech">Jižní Kjongsang</name>
+		<name normalized="Louna-Gyeongsangi provints" languages="Estonian">Lõuna-Gyeongsangi provints</name>
+		<name normalized="Pietu Kiongsango provincija" languages="Lithuanian">Pietų Kiongsango provincija</name>
+		<name normalized="South Gyeongsang" languages="English;official">South Gyeongsang</name>
+		<name normalized="South Gyeongsang Do" languages="English;official">South Gyeongsang Do</name>
+		<name normalized="South Gyeongsang Province" languages="English;official">South Gyeongsang Province</name>
+		<name normalized="Sud Gyeongsang" languages="Italian">Sud Gyeongsang</name>
+		<name normalized="Sydgyeongsang" languages="Swedish">Sydgyeongsang</name>
+		<name normalized="Sor-Gyeongsang" languages="Norwegian (bokmal)">Sør-Gyeongsang</name>
+		<name normalized="Kьoнсaн-Нaмdo" languages="Bulgarian">Кьонсан-Намдо</name>
+		<name normalized="Kёнсaн-Нaмdo" languages="Kazakh;Russian">Кёнсан-Намдо</name>
+		<name normalized="Kёнсaнdo" languages="Russian">Кёнсандо</name>
+		<name normalized="Pрoviнtii Kьoнсaн" languages="Ukrainian">Провінція Кьонсан</name>
+		<name normalized="Pivdiннa pрoviнtii Kьoнсaн" languages="Ukrainian">Південна провінція Кьонсан</name>
+		<name normalized="Өмнɵ Kёнсaн" languages="Mongolian">Өмнө Кёнсан</name>
+		<name normalized="jئونسאنgنאm-دو" languages="Persian">جئونسانگنام-دو</name>
+		<name normalized="sوbہ tھلوאں gیونgسونg" languages="Western Punjabi">صوبہ تھلواں گیونگسونگ</name>
+		<name normalized="dk्षiण g्yाँgsांg p्rांt" languages="Marathi">दक्षिण ग्याँगसांग प्रांत</name>
+		<name normalized="จังหวัดคย็องซังใต้" languages="Thai">จังหวัดคย็องซังใต้</name>
+		<name normalized="庆尚南道" languages="Chinese">庆尚南道</name>
+		<name normalized="庆尚道" languages="Chinese">庆尚道</name>
+		<name normalized="慶尚南道" languages="Classical Chinese;Japanese">慶尚南道</name>
+		<name normalized="慶尚道" languages="Japanese">慶尚道</name>
+		<name normalized="경상남도" languages="Korean">경상남도</name>
+		<name normalized="경상도" languages="Korean">경상도</name>
+	</region>
+	<region name="Incheon" type="metropolitan city" typeTranslated="gwangyoksi">
+		<name normalized="Inch'on" languages="English;official">Inch'on</name>
+		<name normalized="Incheon" languages="Achinese;Afrikaans;Basque;Bislama;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Ido;Indonesian;Italian;Kalaallisut;lumbaart;Malay;Maori;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Polish;Portuguese;Romanian;Scots;Simple English;Spanish;Swahili;Tagalog;Turkish;Vietnamese;Waray">Incheon</name>
+		<name normalized="Inchon" languages="Catalan;English;official;Swedish">Inchon</name>
+		<name normalized="Incshon" languages="Hungarian">Incshon</name>
+		<name normalized="Incono" languages="Esperanto">Inĉono</name>
+		<name normalized="Incchon" languages="Czech;Slovak">Inčchon</name>
+		<name normalized="Inchona" languages="Latvian">Inčhona</name>
+		<name normalized="Inconas" languages="Lithuanian">Inčonas</name>
+		<name normalized="Ιντσον" languages="Greek">Ιντσόν</name>
+		<name normalized="Goрad Iнckoн" languages="Belarusian">Горад Інчхон</name>
+		<name normalized="Iнcoн" languages="Mongolian;Serbian">Инчон</name>
+		<name normalized="Iнckoн" languages="Chechen;Kazakh;Ossetic;Russian">Инчхон</name>
+		<name normalized="Iнckън" languages="Bulgarian">Инчхън</name>
+		<name normalized="Iнckoн" languages="Ukrainian">Інчхон</name>
+		<name normalized="איnצ'vן" languages="Hebrew">אינצ'ון</name>
+		<name normalized="إنtشون" languages="Arabic">إنتشون</name>
+		<name normalized="אنچن" languages="Western Punjabi">انچن</name>
+		<name normalized="אینچئون" languages="Persian">اینچئون</name>
+		<name normalized="iंciyon" languages="Hindi">इंचियोन</name>
+		<name normalized="iंcon" languages="Marathi">इंचॉन</name>
+		<name normalized="incn" languages="Punjabi">ਇਨਚਨ</name>
+		<name normalized="இங்கியோன்" languages="Tamil">இங்கியோன்</name>
+		<name normalized="อินช็อน" languages="Thai">อินช็อน</name>
+		<name normalized="仁川广域市" languages="Wu">仁川广域市</name>
+		<name normalized="仁川広域市" languages="Japanese">仁川広域市</name>
+		<name normalized="仁川廣域市" languages="Chinese;Classical Chinese">仁川廣域市</name>
+		<name normalized="인천광역시" languages="Korean">인천광역시</name>
+	</region>
+	<region name="Jeju" type="province" typeTranslated="do">
+		<name normalized="Csedzsu-sziget" languages="Hungarian">Csedzsu-sziget</name>
+		<name normalized="Czedzu" languages="Polish">Czedżu</name>
+		<name normalized="Insula Jeju" languages="Romanian">Insula Jeju</name>
+		<name normalized="Jeju" languages="Achinese;Croatian;Dutch;English;Estonian;Finnish;Galician;German;Indonesian;Malay;Norwegian (bokmal);official;Portuguese;Spanish;Swedish;Tagalog;Vietnamese">Jeju</name>
+		<name normalized="Jeju Do" languages="English;official">Jeju Do</name>
+		<name normalized="Jeju insulo" languages="Ido">Jeju insulo</name>
+		<name normalized="Jeju Province" languages="English;official">Jeju Province</name>
+		<name normalized="Jeju provints" languages="Estonian">Jeju provints</name>
+		<name normalized="Jeju-do" languages="Catalan;Danish;Dutch;Esperanto;French;German;Interlingua;Italian;Occitan;Scots;Simple English;Swahili;Waray">Jeju-do</name>
+		<name normalized="Jejudo" languages="Basque;Javanese">Jejudo</name>
+		<name normalized="Cedzu" languages="Czech;Lithuanian">Čedžu</name>
+		<name normalized="Pрoviнtii Cidzu" languages="Ukrainian">Провінція Чеджу</name>
+		<name normalized="Cidzu" languages="Chuvash;Ukrainian">Чеджу</name>
+		<name normalized="Cidzu-do" languages="Bulgarian">Чеджу-до</name>
+		<name normalized="Cidzudo" languages="Kazakh;Russian">Чеджудо</name>
+		<name normalized="Cidzu" languages="Serbian">Чеџу</name>
+		<name normalized="Cedzuda" languages="Belarusian">Чэджуда</name>
+		<name normalized="Cezү" languages="Mongolian">Чэжү</name>
+		<name normalized="ג'ג'v" languages="Hebrew">ג'ג'ו</name>
+		<name normalized="jjو-دو" languages="Persian">ججو-دو</name>
+		<name normalized="jیjو jزیrہ" languages="Western Punjabi">جیجو جزیرہ</name>
+		<name normalized="mqאtعة jyjو" languages="Arabic">مقاطعة جيجو</name>
+		<name normalized="jeju" languages="Marathi">जेजू</name>
+		<name normalized="jeju d্bip" languages="Bengali">জেজু দ্বীপ</name>
+		<name normalized="เกาะเชจู" languages="Thai">เกาะเชจู</name>
+		<name normalized="济州特别自治道" languages="Wu">济州特别自治道</name>
+		<name normalized="済州" languages="Japanese">済州</name>
+		<name normalized="済州特別自治道" languages="Japanese">済州特別自治道</name>
+		<name normalized="濟州" languages="Chinese">濟州</name>
+		<name normalized="濟州特別自治道" languages="Chinese;Classical Chinese">濟州特別自治道</name>
+		<name normalized="제주" languages="Korean">제주</name>
+		<name normalized="제주특별자치도" languages="Korean">제주특별자치도</name>
+	</region>
+	<region name="Jeonbuk" type="province" typeTranslated="do">
+		<name normalized="Jeolla" languages="English;French;Norwegian (bokmal);official;Portuguese;Spanish;Vietnamese">Jeolla</name>
+		<name normalized="Jeolla Bac" languages="Vietnamese">Jeolla Bắc</name>
+		<name normalized="Jeolla del Norte" languages="Spanish">Jeolla del Norte</name>
+		<name normalized="Jeolla Do" languages="English;official">Jeolla Do</name>
+		<name normalized="Jeolla do Norte" languages="Portuguese">Jeolla do Norte</name>
+		<name normalized="Jeolla du Nord" languages="French">Jeolla du Nord</name>
+		<name normalized="Jeolla Province" languages="English;official">Jeolla Province</name>
+		<name normalized="Jeolla Polnocna" languages="Polish">Jeolla Północna</name>
+		<name normalized="Jeolla Utara" languages="Indonesian;Malay">Jeolla Utara</name>
+		<name normalized="Jeolla-do" languages="German">Jeolla-do</name>
+		<name normalized="Jeollabuk" languages="Achinese">Jeollabuk</name>
+		<name normalized="Jeollabuk-do" languages="Catalan;Dutch;German;Javanese;lumbaart;Scots;Swahili">Jeollabuk-do</name>
+		<name normalized="Jeonbuk" languages="English;official">Jeonbuk</name>
+		<name normalized="Jeonbuk Do" languages="English;official">Jeonbuk Do</name>
+		<name normalized="Jeonbuk Province" languages="English;official">Jeonbuk Province</name>
+		<name normalized="Nord Jeolla" languages="Italian">Nord Jeolla</name>
+		<name normalized="Nord-Jeolla" languages="Norwegian (bokmal)">Nord-Jeolla</name>
+		<name normalized="Nordjeolla" languages="Swedish">Nordjeolla</name>
+		<name normalized="North Jeolla" languages="English;official">North Jeolla</name>
+		<name normalized="North Jeolla Do" languages="English;official">North Jeolla Do</name>
+		<name normalized="North Jeolla Province" languages="English;official">North Jeolla Province</name>
+		<name normalized="Pohjois-Jeolla" languages="Finnish">Pohjois-Jeolla</name>
+		<name normalized="Pohja-Jeolla provints" languages="Estonian">Põhja-Jeolla provints</name>
+		<name normalized="Severni Colla" languages="Czech">Severní Čolla</name>
+		<name normalized="Eszak-Csolla" languages="Hungarian">Észak-Csolla</name>
+		<name normalized="Siaures Dzolos provincija" languages="Lithuanian">Šiaurės Džolos provincija</name>
+		<name normalized="Pрoviнtii Coллa" languages="Ukrainian">Провінція Чолла</name>
+		<name normalized="Pivнicнa pрoviнtii Coллa" languages="Ukrainian">Північна провінція Чолла</name>
+		<name normalized="Uмaр Coллa" languages="Mongolian">Умар Чолла</name>
+		<name normalized="Coллa" languages="Mongolian">Чолла</name>
+		<name normalized="Coллa-Pukto" languages="Russian">Чолла-Пукто</name>
+		<name normalized="Coллado" languages="Russian">Чолладо</name>
+		<name normalized="Cълa-Pukto" languages="Bulgarian">Чъла-Пукто</name>
+		<name normalized="jئولאbوک-دو" languages="Persian">جئولابوک-دو</name>
+		<name normalized="sوbہ אtلא jیولא" languages="Western Punjabi">صوبہ اتلا جیولا</name>
+		<name normalized="ut्tr jeolा p्rांt" languages="Marathi">उत्तर जेओला प्रांत</name>
+		<name normalized="จังหวัดช็อลลาเหนือ" languages="Thai">จังหวัดช็อลลาเหนือ</name>
+		<name normalized="全罗北道" languages="Wu">全罗北道</name>
+		<name normalized="全羅北道" languages="Chinese;Classical Chinese;Japanese">全羅北道</name>
+		<name normalized="全羅道" languages="Chinese;Japanese">全羅道</name>
+		<name normalized="전라도" languages="Korean">전라도</name>
+		<name normalized="전라북도" languages="Korean">전라북도</name>
+	</region>
+	<region name="Jeonnam" type="province" typeTranslated="do">
+		<name normalized="Del-Csolla" languages="Hungarian">Dél-Csolla</name>
+		<name normalized="Etela-Jeolla" languages="Finnish">Etelä-Jeolla</name>
+		<name normalized="Jeolla" languages="English;French;Norwegian (bokmal);official;Portuguese;Spanish;Vietnamese">Jeolla</name>
+		<name normalized="Jeolla del Sur" languages="Spanish">Jeolla del Sur</name>
+		<name normalized="Jeolla Do" languages="English;official">Jeolla Do</name>
+		<name normalized="Jeolla do Sul" languages="Portuguese">Jeolla do Sul</name>
+		<name normalized="Jeolla du Sud" languages="French">Jeolla du Sud</name>
+		<name normalized="Jeolla Nam" languages="Vietnamese">Jeolla Nam</name>
+		<name normalized="Jeolla Poludniowa" languages="Polish">Jeolla Południowa</name>
+		<name normalized="Jeolla Province" languages="English;official">Jeolla Province</name>
+		<name normalized="Jeolla Selatan" languages="Indonesian;Malay">Jeolla Selatan</name>
+		<name normalized="Jeolla-do" languages="German">Jeolla-do</name>
+		<name normalized="Jeollanam" languages="Achinese">Jeollanam</name>
+		<name normalized="Jeollanam-do" languages="Catalan;Dutch;German;lumbaart;Scots;Swahili">Jeollanam-do</name>
+		<name normalized="Jeonnam" languages="English;official">Jeonnam</name>
+		<name normalized="Jeonnam Do" languages="English;official">Jeonnam Do</name>
+		<name normalized="Jeonnam Province" languages="English;official">Jeonnam Province</name>
+		<name normalized="Jizni Colla" languages="Czech">Jižní Čolla</name>
+		<name normalized="Louna-Jeolla provints" languages="Estonian">Lõuna-Jeolla provints</name>
+		<name normalized="Pietu Dzolos provincija" languages="Lithuanian">Pietų Džolos provincija</name>
+		<name normalized="South Jeolla" languages="English;official;Simple English">South Jeolla</name>
+		<name normalized="South Jeolla Do" languages="English;official">South Jeolla Do</name>
+		<name normalized="South Jeolla Province" languages="English;official">South Jeolla Province</name>
+		<name normalized="Sud Jeolla" languages="Italian">Sud Jeolla</name>
+		<name normalized="Sydjeolla" languages="Swedish">Sydjeolla</name>
+		<name normalized="Sor-Jeolla" languages="Norwegian (bokmal)">Sør-Jeolla</name>
+		<name normalized="Pрoviнtii Coллa" languages="Ukrainian">Провінція Чолла</name>
+		<name normalized="Pivdiннa pрoviнtii Coллa" languages="Ukrainian">Південна провінція Чолла</name>
+		<name normalized="Coллa" languages="Mongolian">Чолла</name>
+		<name normalized="Coллa-Нaмdo" languages="Kazakh;Russian">Чолла-Намдо</name>
+		<name normalized="Coллado" languages="Russian">Чолладо</name>
+		<name normalized="Cълa-Нaмdo" languages="Bulgarian">Чъла-Намдо</name>
+		<name normalized="Өмнɵ Coллa" languages="Mongolian">Өмнө Чолла</name>
+		<name normalized="jئولאنאm-دو" languages="Persian">جئولانام-دو</name>
+		<name normalized="sوbہ tھلوאں jیولא" languages="Western Punjabi">صوبہ تھلواں جیولا</name>
+		<name normalized="dk्षiण jeolा p्rांt" languages="Marathi">दक्षिण जेओला प्रांत</name>
+		<name normalized="จังหวัดช็อลลาใต้" languages="Thai">จังหวัดช็อลลาใต้</name>
+		<name normalized="全羅南道" languages="Chinese;Classical Chinese;Japanese">全羅南道</name>
+		<name normalized="全羅道" languages="Chinese;Japanese">全羅道</name>
+		<name normalized="전라남도" languages="Korean">전라남도</name>
+		<name normalized="전라도" languages="Korean">전라도</name>
+	</region>
+	<region name="Sejong" type="special self-governing city" typeTranslated="special self-governing city">
+		<name normalized="Rei Sejong" languages="Portuguese">Rei Sejong</name>
+		<name normalized="Sedzong Veliky" languages="Czech">Sedžong Veliký</name>
+		<name normalized="Sejong" languages="Catalan;English;German;Latin;official;Turkish">Sejong</name>
+		<name normalized="Sejong Agung" languages="Malay">Sejong Agung</name>
+		<name normalized="Sejong cel Mare de Joseon" languages="Romanian">Sejong cel Mare de Joseon</name>
+		<name normalized="Sejong de Grote van Joseon" languages="Dutch">Sejong de Grote van Joseon</name>
+		<name normalized="Sejong den store" languages="Norwegian (bokmal);Norwegian Nynorsk;Swedish">Sejong den store</name>
+		<name normalized="Sejong el Grande" languages="Spanish">Sejong el Grande</name>
+		<name normalized="Sejong Handia" languages="Basque">Sejong Handia</name>
+		<name normalized="Sejong il Grande" languages="Italian">Sejong il Grande</name>
+		<name normalized="Sejong le Grand" languages="French">Sejong le Grand</name>
+		<name normalized="Sejong lo Grand" languages="Occitan">Sejong lo Grand</name>
+		<name normalized="Sejong nga Harangdon" languages="Waray">Sejong nga Harangdon</name>
+		<name normalized="Sejong the Great" languages="English;Simple English">Sejong the Great</name>
+		<name normalized="Sejong Veur" languages="Breton">Sejong Veur</name>
+		<name normalized="Sejong Wioldzi" languages="Kashubian">Sejong Wiôldżi</name>
+		<name normalized="Sejong Wjelgi" languages="Silesian">Sejong Wjelgi</name>
+		<name normalized="Sejong yang Agung" languages="Indonesian">Sejong yang Agung</name>
+		<name normalized="Segong" languages="Esperanto">Seĝong</name>
+		<name normalized="Szedzsong koreai kiraly" languages="Hungarian">Szedzsong koreai király</name>
+		<name normalized="Se-chong Tai-ong" languages="Chinese (Min Nan)">Sè-chong Tāi-ông</name>
+		<name normalized="Trieu Tien The Tong" languages="Vietnamese">Triều Tiên Thế Tông</name>
+		<name normalized="Сidzoн" languages="Bulgarian">Седжон</name>
+		<name normalized="Сidzoн Viлikiй" languages="Ukrainian">Седжон Великий</name>
+		<name normalized="Сiczoн Viлikiй" languages="Russian">Сечжон Великий</name>
+		<name normalized="Сezuн vaн" languages="Mongolian">Сэжун ван</name>
+		<name normalized="سjونg کbیr" languages="Persian">سجونگ کبیر</name>
+		<name normalized="سyjونغ אلعzym mلk jوسون" languages="Arabic">سيجونغ العظيم ملك جوسون</name>
+		<name normalized="พระเจ้าเซจงมหาราช" languages="Thai">พระเจ้าเซจงมหาราช</name>
+		<name normalized="სეჯონ დიდი" languages="Georgian">სეჯონ დიდი</name>
+		<name normalized="世宗" languages="Japanese">世宗</name>
+		<name normalized="朝鮮世宗" languages="Cantonese;Chinese;Classical Chinese;Wu">朝鮮世宗</name>
+		<name normalized="조선 세종" languages="Korean">조선 세종</name>
+	</region>
+	<region name="Seoul" type="special city" typeTranslated="special city">
+		<name normalized="Seoel" languages="Afrikaans;Dutch">Seoel</name>
+		<name normalized="Seol" languages="Occitan">Seol</name>
+		<name normalized="Seoul" languages="Achinese;Albanian;Alemannisch;Banjar;Bislama;Breton;Cornish;Danish;English;Faroese;Fiji Hindi;German;Haitian;Ido;Iloko;Indonesian;Interlingua;Interlingue;Javanese;Kalaallisut;Ligure;lumbaart;Luxembourgish;Malay;Maori;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Papiamento;Piedmontese;Romansh;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Sicilian;Simple English;Somali;Swahili;Swedish;Tagalog;Upper Sorbian;Vietnamese;Waray;Welsh;Western Frisian;Yoruba">Seoul</name>
+		<name normalized="Seoul Te̍k-pia̍t-chhi" languages="Chinese (Min Nan)">Seoul Te̍k-pia̍t-chhī</name>
+		<name normalized="Seul" languages="Azerbaijani;Basque;Bosnian;Crimean Turkish;Croatian;Gagauz;Italian;Kashubian;Mirandese;Nahuatl;Polish;Portuguese;Romanian;Silesian;Slovenian;tarandine;Tatar;Turkish;Turkmen;Uzbek;Zazaki">Seul</name>
+		<name normalized="Seula" languages="Latvian">Seula</name>
+		<name normalized="Seulas" languages="Lithuanian">Seulas</name>
+		<name normalized="Seulo" languages="Esperanto">Seulo</name>
+		<name normalized="Seuls" languages="Samogitian">Seuls</name>
+		<name normalized="Seulum" languages="Latin">Seulum</name>
+		<name normalized="Seul" languages="Aragonese;Asturian;Extremaduran;Galician;Icelandic;Spanish">Seúl</name>
+		<name normalized="Seul" languages="Catalan">Seül</name>
+		<name normalized="Siul" languages="Quechua">Siul</name>
+		<name normalized="Siu-ek" languages="Min Dong Chinese">Siū-ék</name>
+		<name normalized="Soel" languages="Norfuk / Pitkern">Soel</name>
+		<name normalized="Sol" languages="Tok Pisin">Sol</name>
+		<name normalized="Soujwj" languages="Zhuang">Soujwj</name>
+		<name normalized="Soul" languages="Czech;Estonian;Finnish;Lower Sorbian;Slovak">Soul</name>
+		<name normalized="Szoul" languages="Hungarian">Szöul</name>
+		<name normalized="Seoul" languages="French">Séoul</name>
+		<name normalized="Seul" languages="Kurdish">Sêûl</name>
+		<name normalized="Soul" languages="Volapuk">Söul</name>
+		<name normalized="Sul" languages="Irish">Súl</name>
+		<name normalized="Soul" languages="Voro">Sŏul</name>
+		<name normalized="Soul" languages="Lingala">Sɔul</name>
+		<name normalized="Σεοuλ" languages="Greek">Σεούλ</name>
+		<name normalized="Goрad Сiuл" languages="Belarusian">Горад Сеул</name>
+		<name normalized="Сiuл" languages="Bashkir;Bulgarian;Chechen;Chuvash;Eastern Mari;Kazakh;Kyrgyz;Macedonian;Ossetic;Russian;Sakha;Serbian;Tajik;Ukrainian">Сеул</name>
+		<name normalized="Сouл" languages="Rusyn">Соул</name>
+		<name normalized="Сoүль" languages="buрiad">Соүль</name>
+		<name normalized="Сeuл" languages="biлaрuсkai (taрaskivita)‎">Сэул</name>
+		<name normalized="Сɵүл" languages="Mongolian">Сөүл</name>
+		<name normalized="Sեvyl" languages="Armenian">Սեուլ</name>
+		<name normalized="סיאvד" languages="Hebrew">סיאול</name>
+		<name normalized="סעאד" languages="Yiddish">סעאל</name>
+		<name normalized="سئول" languages="Persian">سئول</name>
+		<name normalized="سول" languages="Egyptian Spoken Arabic">سول</name>
+		<name normalized="سyئول" languages="Arabic">سيئول</name>
+		<name normalized="سyول" languages="Pashto">سيول</name>
+		<name normalized="سۆل" languages="Sorani Kurdish">سۆل</name>
+		<name normalized="سیول" languages="Urdu;Western Punjabi">سیول</name>
+		<name normalized="siyol" languages="Bihari;Hindi">सियोल</name>
+		<name normalized="sol" languages="Marathi;Newari">सोल</name>
+		<name normalized="siol" languages="Bengali">সিওল</name>
+		<name normalized="siਓl" languages="Punjabi">ਸਿਓਲ</name>
+		<name normalized="சியோல்" languages="Tamil">சியோல்</name>
+		<name normalized="ಸೌಲ್" languages="Kannada">ಸೌಲ್</name>
+		<name normalized="സോൾ" languages="Malayalam">സോൾ</name>
+		<name normalized="โซล" languages="Thai">โซล</name>
+		<name normalized="སེ་ཨུལ།" languages="Tibetan">སེ་ཨུལ།</name>
+		<name normalized="ဆိုးလ်မြို့" languages="Burmese">ဆိုးလ်မြို့</name>
+		<name normalized="სეული" languages="Georgian">სეული</name>
+		<name normalized="ሶል" languages="Amharic">ሶል</name>
+		<name normalized="សេអ៊ូល" languages="Khmer">សេអ៊ូល</name>
+		<name normalized="sur特別市" languages="Japanese">ソウル特別市</name>
+		<name normalized="首尔" languages="Wu">首尔</name>
+		<name normalized="首爾" languages="Cantonese;Chinese;Gan">首爾</name>
+		<name normalized="首爾特別市" languages="Classical Chinese">首爾特別市</name>
+		<name normalized="서울특별시" languages="Korean">서울특별시</name>
+	</region>
+	<region name="Ulsan" type="metropolitan city" typeTranslated="gwangyoksi">
+		<name normalized="Ulsan" languages="Achinese;Afrikaans;Basque;Bislama;Catalan;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Ido;Indonesian;Italian;Kalaallisut;lumbaart;Malay;Maori;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Spanish;Swahili;Swedish;Tagalog;Vietnamese;Waray">Ulsan</name>
+		<name normalized="Ulsanas" languages="Lithuanian">Ulsanas</name>
+		<name normalized="Uлсaн" languages="Bulgarian">Улсан</name>
+		<name normalized="Uльсaн" languages="Chechen;Kazakh;Russian;Ukrainian">Ульсан</name>
+		<name normalized="Үлсaн" languages="Mongolian">Үлсан</name>
+		<name normalized="אvדסן" languages="Hebrew">אולסן</name>
+		<name normalized="أولسאن" languages="Arabic">أولسان</name>
+		<name normalized="אلسאن" languages="Western Punjabi">السان</name>
+		<name normalized="אولسאن" languages="Persian">اولسان</name>
+		<name normalized="ul्sाn" languages="Marathi">उल्सान</name>
+		<name normalized="อุลซัน" languages="Thai">อุลซัน</name>
+		<name normalized="蔚山" languages="Cantonese">蔚山</name>
+		<name normalized="蔚山广域市" languages="Chinese;Wu">蔚山广域市</name>
+		<name normalized="蔚山広域市" languages="Japanese">蔚山広域市</name>
+		<name normalized="蔚山廣域市" languages="Classical Chinese">蔚山廣域市</name>
+		<name normalized="울산광역시" languages="Korean">울산광역시</name>
+	</region>
+</regions>

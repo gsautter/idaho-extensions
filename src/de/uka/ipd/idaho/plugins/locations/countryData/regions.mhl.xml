@@ -1,0 +1,276 @@
+<regions country="Marshall Islands">
+	<region name="Ailinglaplap" type="municipality" typeTranslated="municipality">
+		<name normalized="Ailinglapalap" languages="German;Swedish">Ailinglapalap</name>
+		<name normalized="Ailinglaplap" languages="Croatian;English;Finnish;French;Italian;official;Portuguese;Serbo-Croatian;Spanish">Ailinglaplap</name>
+		<name normalized="Ailinglaplap Atoll" languages="English">Ailinglaplap Atoll</name>
+		<name normalized="Ailinglaplapas" languages="Lithuanian">Ailinglaplapas</name>
+		<name normalized="Atol Ailinglaplap" languages="Galician">Atol Ailinglaplap</name>
+		<name normalized="Aiлiнgлapaлap" languages="Russian">Аилинглапалап</name>
+		<name normalized="Ajлiнgлapлap" languages="Macedonian">Ајлинглаплап</name>
+		<name normalized="איידיnגדאpדאp" languages="Hebrew">איילינגלאפלאפ</name>
+		<name normalized="airngrtp環礁" languages="Japanese">アイリングラップ環礁</name>
+		<name normalized="埃林拉普拉普環礁" languages="Chinese">埃林拉普拉普環礁</name>
+		<name normalized="아일링글라플라프 환초" languages="Korean">아일링글라플라프 환초</name>
+	</region>
+	<region name="Ailuk" type="municipality" typeTranslated="municipality">
+		<name normalized="Ailuk" languages="Catalan;English;Finnish;French;German;Italian;official;Portuguese;Spanish;Swedish">Ailuk</name>
+		<name normalized="Ailuk Atoll" languages="English;Hungarian">Ailuk Atoll</name>
+		<name normalized="Ailukas" languages="Lithuanian">Ailukas</name>
+		<name normalized="Atol Ailuk" languages="Galician">Atol Ailuk</name>
+		<name normalized="Aiлuk" languages="Russian">Аилук</name>
+		<name normalized="Ajлuk" languages="Macedonian">Ајлук</name>
+		<name normalized="airtk環礁" languages="Japanese">アイルック環礁</name>
+		<name normalized="艾盧克環礁" languages="Chinese">艾盧克環礁</name>
+		<name normalized="아일루크 환초" languages="Korean">아일루크 환초</name>
+	</region>
+	<region name="Arno" type="municipality" typeTranslated="municipality">
+		<name normalized="Arnas" languages="Lithuanian">Arnas</name>
+		<name normalized="Arno" languages="English;Estonian;Finnish;French;Italian;official">Arno</name>
+		<name normalized="Arno Atoll" languages="English">Arno Atoll</name>
+		<name normalized="Arno-Atoll" languages="German">Arno-Atoll</name>
+		<name normalized="Atol Arno" languages="Galician">Atol Arno</name>
+		<name normalized="Aрнo" languages="Macedonian;Russian">Арно</name>
+		<name normalized="אrnv" languages="Hebrew">ארנו</name>
+		<name normalized="arn環礁" languages="Japanese">アルノ環礁</name>
+		<name normalized="阿爾諾環礁" languages="Chinese">阿爾諾環礁</name>
+		<name normalized="아르노 환초" languages="Korean">아르노 환초</name>
+	</region>
+	<region name="Aur" type="municipality" typeTranslated="municipality">
+		<name normalized="Atol Aur" languages="Galician;Indonesian">Atol Aur</name>
+		<name normalized="Aur" languages="English;Finnish;French;German;Italian;official;Portuguese;Spanish;Swedish">Aur</name>
+		<name normalized="Aur Atoll" languages="English;Hungarian">Aur Atoll</name>
+		<name normalized="Auras" languages="Lithuanian">Auras</name>
+		<name normalized="Auр" languages="Macedonian;Russian">Аур</name>
+		<name normalized="oーr環礁" languages="Japanese">オール環礁</name>
+		<name normalized="奧爾環礁" languages="Chinese">奧爾環礁</name>
+		<name normalized="아우르 환초" languages="Korean">아우르 환초</name>
+	</region>
+	<region name="Bikini & Kili" type="municipality" typeTranslated="municipality">
+		<name normalized="Bikini  Kili" languages="English;official">Bikini  Kili</name>
+		<name normalized="Bikini &amp; Kili" languages="English;official">Bikini &amp; Kili</name>
+	</region>
+	<region name="Ebon" type="municipality" typeTranslated="municipality">
+		<name normalized="Atol Ebon" languages="Galician">Atol Ebon</name>
+		<name normalized="Ebon" languages="Croatian;English;Estonian;Finnish;French;Italian;official;Serbo-Croatian;Spanish;Swedish">Ebon</name>
+		<name normalized="Ebon Atoll" languages="English;Hungarian">Ebon Atoll</name>
+		<name normalized="Ebon-Atoll" languages="Colognian;German">Ebon-Atoll</name>
+		<name normalized="Ebonas" languages="Lithuanian">Ebonas</name>
+		<name normalized="Atoл Eboн" languages="Belarusian">Атол Эбон</name>
+		<name normalized="Iboн" languages="Macedonian">Ебон</name>
+		<name normalized="Eboн" languages="Russian">Эбон</name>
+		<name normalized="ebn環礁" languages="Japanese">エボン環礁</name>
+		<name normalized="埃崩環礁" languages="Chinese">埃崩環礁</name>
+		<name normalized="에본 환초" languages="Korean">에본 환초</name>
+	</region>
+	<region name="Enewetak & Ujelang" type="municipality" typeTranslated="municipality">
+		<name normalized="Enewetak  Ujelang" languages="English;official">Enewetak  Ujelang</name>
+		<name normalized="Enewetak &amp; Ujelang" languages="English;official">Enewetak &amp; Ujelang</name>
+	</region>
+	<region name="Jabat" type="municipality" typeTranslated="municipality">
+		<name normalized="Illa Jabat" languages="Galician">Illa Jabat</name>
+		<name normalized="Jabat" languages="English;Finnish;French;Italian;official;Spanish">Jabat</name>
+		<name normalized="Jabat Island" languages="English">Jabat Island</name>
+		<name normalized="Jabwat" languages="Croatian;Serbo-Croatian">Jabwat</name>
+		<name normalized="Jabwot" languages="German;Swedish">Jabwot</name>
+		<name normalized="Dzabat" languages="Russian">Джабат</name>
+		<name normalized="Dzabat" languages="Macedonian">Џабат</name>
+		<name normalized="zybtt島" languages="Japanese">ジャボット島</name>
+		<name normalized="賈普坦島" languages="Chinese">賈普坦島</name>
+		<name normalized="자바트 섬" languages="Korean">자바트 섬</name>
+	</region>
+	<region name="Jaluit" type="municipality" typeTranslated="municipality">
+		<name normalized="Atol Jaluit" languages="Galician">Atol Jaluit</name>
+		<name normalized="Dzaluitas" languages="Lithuanian">Džaluitas</name>
+		<name normalized="Ialuit" languages="Latin">Ialuit</name>
+		<name normalized="Jaluit" languages="Croatian;Dutch;English;Finnish;French;German;Italian;official;Polish;Serbo-Croatian;Spanish;Swedish">Jaluit</name>
+		<name normalized="Jaluit Atoll" languages="English;Hungarian">Jaluit Atoll</name>
+		<name normalized="Atoл Dzaлuit" languages="Belarusian">Атол Джалуіт</name>
+		<name normalized="Dzaлuit" languages="Russian">Джалуит</name>
+		<name normalized="Dzaлuit" languages="Macedonian">Џалуит</name>
+		<name normalized="ג'דvאיt" languages="Hebrew">ג'לואיט</name>
+		<name normalized="zyrーt環礁" languages="Japanese">ジャルート環礁</name>
+		<name normalized="賈盧伊特環礁" languages="Chinese">賈盧伊特環礁</name>
+		<name normalized="잘루이트 환초" languages="Korean">잘루이트 환초</name>
+	</region>
+	<region name="Kwajalein" type="municipality" typeTranslated="municipality">
+		<name normalized="Atol Kwajalein" languages="Galician">Atol Kwajalein</name>
+		<name normalized="Atolul Kwajalein" languages="Romanian">Atolul Kwajalein</name>
+		<name normalized="Kvadzaleinas" languages="Lithuanian">Kvadžaleinas</name>
+		<name normalized="Kwajalein" languages="Croatian;Czech;Danish;Dutch;English;Esperanto;Finnish;French;German;Italian;Latin;Norwegian (bokmal);official;Polish;Portuguese;Simple English;Slovak;Spanish;Swedish;Vietnamese">Kwajalein</name>
+		<name normalized="Kwajalein Atoll" languages="English">Kwajalein Atoll</name>
+		<name normalized="Atoл Kvadzaлiйн" languages="Belarusian">Атол Кваджалейн</name>
+		<name normalized="Kvadzaлiйн" languages="Russian;Ukrainian">Кваджалейн</name>
+		<name normalized="Kvadzaлijн" languages="Macedonian">Кваџалејн</name>
+		<name normalized="Kuadzaлiн" languages="Bulgarian">Куаджалин</name>
+		<name normalized="qvvג'דין" languages="Hebrew">קווג'לין</name>
+		<name normalized="کوאjאلین" languages="Persian">کواجالین</name>
+		<name normalized="kezrn環礁" languages="Japanese">クェゼリン環礁</name>
+		<name normalized="瓜加林環礁" languages="Chinese">瓜加林環礁</name>
+		<name normalized="콰잘레인 환초" languages="Korean">콰잘레인 환초</name>
+	</region>
+	<region name="Lae" type="municipality" typeTranslated="municipality">
+		<name normalized="Atol Lae" languages="Galician;Portuguese">Atol Lae</name>
+		<name normalized="Lae" languages="Croatian;English;Finnish;French;Italian;official;Swedish">Lae</name>
+		<name normalized="Lae Atoll" languages="English">Lae Atoll</name>
+		<name normalized="Lae-Atoll" languages="German">Lae-Atoll</name>
+		<name normalized="Lae" languages="Lithuanian">Laė</name>
+		<name normalized="Лai" languages="Macedonian">Лае</name>
+		<name normalized="Лae" languages="Russian">Лаэ</name>
+		<name normalized="reー環礁" languages="Japanese">ラエー環礁</name>
+		<name normalized="拉埃環礁" languages="Chinese">拉埃環礁</name>
+		<name normalized="라에 환초" languages="Korean">라에 환초</name>
+	</region>
+	<region name="Lib" type="municipality" typeTranslated="municipality">
+		<name normalized="Lib" languages="Croatian;English;Finnish;French;Galician;German;Italian;official;Spanish;Swedish">Lib</name>
+		<name normalized="Lib Island" languages="English">Lib Island</name>
+		<name normalized="Libas" languages="Lithuanian">Libas</name>
+		<name normalized="Лib" languages="Macedonian;Russian">Либ</name>
+		<name normalized="rb島" languages="Japanese">リブ島</name>
+		<name normalized="里布島" languages="Chinese">里布島</name>
+		<name normalized="리브 섬" languages="Korean">리브 섬</name>
+	</region>
+	<region name="Likiep" type="municipality" typeTranslated="municipality">
+		<name normalized="Atol Likiep" languages="Galician">Atol Likiep</name>
+		<name normalized="Likiep" languages="English;Finnish;French;German;Italian;official;Spanish;Swedish">Likiep</name>
+		<name normalized="Likiep Atoll" languages="English">Likiep Atoll</name>
+		<name normalized="Likiepas" languages="Lithuanian">Likiepas</name>
+		<name normalized="Лikiip" languages="Macedonian;Russian">Ликиеп</name>
+		<name normalized="rketp環礁" languages="Japanese">リキエップ環礁</name>
+		<name normalized="利基埃普環礁" languages="Chinese">利基埃普環礁</name>
+		<name normalized="리키에프 환초" languages="Korean">리키에프 환초</name>
+	</region>
+	<region name="Majuro" type="municipality" typeTranslated="municipality">
+		<name normalized="Dalap-Uliga-Darrit" languages="Slovak">Dalap-Uliga-Darrit</name>
+		<name normalized="Macuro" languages="Azerbaijani">Macuro</name>
+		<name normalized="Madzurum" languages="Latin">Madzurum</name>
+		<name normalized="Madzuro" languages="Latvian">Madžuro</name>
+		<name normalized="Madzuras" languages="Lithuanian">Madžūras</name>
+		<name normalized="Majouro" languages="Haitian">Majouro</name>
+		<name normalized="Majuro" languages="Afrikaans;Albanian;Basque;Bosnian;Breton;Catalan;Croatian;Czech;Dutch;English;Esperanto;Fiji Hindi;Finnish;French;Hungarian;Ido;Indonesian;Interlingue;Italian;Kinyarwanda;Luxembourgish;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Polish;Portuguese;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh;Western Frisian">Majuro</name>
+		<name normalized="Majuro atoll" languages="Estonian">Majuro atoll</name>
+		<name normalized="Majuro-Atoll" languages="German;Low German">Majuro-Atoll</name>
+		<name normalized="Majuro" languages="Icelandic">Majúró</name>
+		<name normalized="Ματζοuρο" languages="Greek">Ματζούρο</name>
+		<name normalized="Goрad Мadzuрa" languages="Belarusian">Горад Маджура</name>
+		<name normalized="Мadzuрa" languages="biлaрuсkai (taрaskivita)‎">Маджура</name>
+		<name normalized="Мadzuрo" languages="Bulgarian;Ossetic;Russian;Ukrainian">Маджуро</name>
+		<name normalized="Мadьuрo" languages="Sakha">Мадьуро</name>
+		<name normalized="Мadzuрo" languages="Macedonian;Serbian">Маџуро</name>
+		<name normalized="Mաjvyrv" languages="Armenian">Մաջուրո</name>
+		<name normalized="מג'vrv" languages="Hebrew">מג'ורו</name>
+		<name normalized="mאjوrو" languages="Arabic;Persian;Urdu">ماجورو</name>
+		<name normalized="mाjuro" languages="Marathi">माजुरो</name>
+		<name normalized="มาจูโร" languages="Thai">มาจูโร</name>
+		<name normalized="མ་ཇུ་རོ།" languages="Tibetan">མ་ཇུ་རོ།</name>
+		<name normalized="მაჯურო" languages="Georgian">მაჯურო</name>
+		<name normalized="ማጁሮ" languages="Amharic">ማጁሮ</name>
+		<name normalized="mzyr" languages="Japanese">マジュロ</name>
+		<name normalized="馬久羅" languages="Chinese">馬久羅</name>
+		<name normalized="마주로" languages="Korean">마주로</name>
+	</region>
+	<region name="Maloelap" type="municipality" typeTranslated="municipality">
+		<name normalized="Atol Maloelap" languages="Galician;Portuguese">Atol Maloelap</name>
+		<name normalized="Maloelap" languages="English;Finnish;French;German;Italian;official;Polish;Spanish;Swedish;Vietnamese">Maloelap</name>
+		<name normalized="Maloelap Atoll" languages="English;Hungarian">Maloelap Atoll</name>
+		<name normalized="Maloelapas" languages="Lithuanian">Maloelapas</name>
+		<name normalized="Мaлoiлap" languages="Macedonian">Малоелап</name>
+		<name normalized="Мaлoeлap" languages="Russian">Малоэлап</name>
+		<name normalized="mrertp環礁" languages="Japanese">マロエラップ環礁</name>
+		<name normalized="馬洛埃拉普環礁" languages="Chinese">馬洛埃拉普環礁</name>
+		<name normalized="말로엘라프 환초" languages="Korean">말로엘라프 환초</name>
+	</region>
+	<region name="Mejit" type="municipality" typeTranslated="municipality">
+		<name normalized="Illa Mejit" languages="Galician">Illa Mejit</name>
+		<name normalized="Medzitas" languages="Lithuanian">Medžitas</name>
+		<name normalized="Mejit" languages="English;Finnish;French;German;Italian;official;Spanish;Swedish">Mejit</name>
+		<name normalized="Mejit Island" languages="English">Mejit Island</name>
+		<name normalized="Мidzit" languages="Russian">Меджит</name>
+		<name normalized="Мidzit" languages="Macedonian">Меџит</name>
+		<name normalized="mztt島" languages="Japanese">メジット島</name>
+		<name normalized="梅吉特島" languages="Chinese">梅吉特島</name>
+		<name normalized="메지트 섬" languages="Korean">메지트 섬</name>
+	</region>
+	<region name="Mili" type="municipality" typeTranslated="municipality">
+		<name normalized="Atol Mili" languages="Galician">Atol Mili</name>
+		<name normalized="Mili" languages="English;Finnish;French;German;Italian;official;Polish;Spanish;Swedish">Mili</name>
+		<name normalized="Mili Atoll" languages="English">Mili Atoll</name>
+		<name normalized="Mili atoloia" languages="Basque">Mili atoloia</name>
+		<name normalized="Milis" languages="Lithuanian">Milis</name>
+		<name normalized="Мiлi" languages="Macedonian;Russian">Мили</name>
+		<name normalized="מידי" languages="Hebrew">מילי</name>
+		<name normalized="mیلی-" languages="Sorani Kurdish">میلی-</name>
+		<name normalized="mr環礁" languages="Japanese">ミリ環礁</name>
+		<name normalized="米利環礁" languages="Chinese">米利環礁</name>
+		<name normalized="밀리 환초" languages="Korean">밀리 환초</name>
+	</region>
+	<region name="Namdrik" type="municipality" typeTranslated="municipality">
+		<name normalized="Atol Namorik" languages="Galician">Atol Namorik</name>
+		<name normalized="Namdrik" languages="English;French;official">Namdrik</name>
+		<name normalized="Namdrik Atoll" languages="English">Namdrik Atoll</name>
+		<name normalized="Namdrikas" languages="Lithuanian">Namdrikas</name>
+		<name normalized="Namorik" languages="Croatian;Finnish;German;Italian;Polish;Portuguese;Serbo-Croatian;Spanish;Swedish">Namorik</name>
+		<name normalized="Нaмdрik" languages="Macedonian">Намдрик</name>
+		<name normalized="Нaмoрik" languages="Russian">Наморик</name>
+		<name normalized="nmrtk環礁" languages="Japanese">ナモリック環礁</name>
+		<name normalized="納莫里克環礁" languages="Chinese">納莫里克環礁</name>
+		<name normalized="나모리크 환초" languages="Korean">나모리크 환초</name>
+	</region>
+	<region name="Namu" type="municipality" typeTranslated="municipality">
+		<name normalized="Atol Namu" languages="Galician;Portuguese">Atol Namu</name>
+		<name normalized="Namu" languages="Croatian;English;Finnish;French;German;Italian;Lithuanian;official;Swedish">Namu</name>
+		<name normalized="Namu Atoll" languages="English">Namu Atoll</name>
+		<name normalized="Namu atoloia" languages="Basque">Namu atoloia</name>
+		<name normalized="Нaмu" languages="Macedonian;Russian">Наму</name>
+		<name normalized="nmー環礁" languages="Japanese">ナムー環礁</name>
+		<name normalized="納木環礁" languages="Chinese">納木環礁</name>
+		<name normalized="나무 환초" languages="Korean">나무 환초</name>
+	</region>
+	<region name="Rongelap" type="municipality" typeTranslated="municipality">
+		<name normalized="Atol Rongelap" languages="Galician;Portuguese">Atol Rongelap</name>
+		<name normalized="Rongelap" languages="Croatian;Dutch;English;Finnish;French;Italian;Latin;Norwegian (bokmal);official;Polish;Spanish;Swedish;Vietnamese">Rongelap</name>
+		<name normalized="Rongelap Atoll" languages="English">Rongelap Atoll</name>
+		<name normalized="Rongelap-Atoll" languages="German">Rongelap-Atoll</name>
+		<name normalized="Rongelapa" languages="Latvian">Rongelapa</name>
+		<name normalized="Rongelapas" languages="Lithuanian">Rongelapas</name>
+		<name normalized="Atoл Рaнgiлap" languages="Belarusian">Атол Рангелап</name>
+		<name normalized="Рoнgiлap" languages="Macedonian;Russian">Ронгелап</name>
+		<name normalized="rngrtp環礁" languages="Japanese">ロンゲラップ環礁</name>
+		<name normalized="朗格拉普環礁" languages="Chinese">朗格拉普環礁</name>
+		<name normalized="롱겔라프 환초" languages="Korean">롱겔라프 환초</name>
+	</region>
+	<region name="Ujae" type="municipality" typeTranslated="municipality">
+		<name normalized="Atol Ujae" languages="Galician;Indonesian">Atol Ujae</name>
+		<name normalized="Udzae" languages="Lithuanian">Udžaė</name>
+		<name normalized="Ujae" languages="Croatian;English;Finnish;French;German;Italian;official;Spanish;Swedish">Ujae</name>
+		<name normalized="Ujae Atoll" languages="English">Ujae Atoll</name>
+		<name normalized="Udzae" languages="Russian">Уджаэ</name>
+		<name normalized="Udzai" languages="Macedonian">Уџае</name>
+		<name normalized="uzye環礁" languages="Japanese">ウジャエ環礁</name>
+		<name normalized="烏賈環礁" languages="Chinese">烏賈環礁</name>
+		<name normalized="우자에 환초" languages="Korean">우자에 환초</name>
+	</region>
+	<region name="Utrik" type="municipality" typeTranslated="municipality">
+		<name normalized="Utrik" languages="English;official">Utrik</name>
+	</region>
+	<region name="Wotho" type="municipality" typeTranslated="municipality">
+		<name normalized="Atol Wotho" languages="Galician;Indonesian">Atol Wotho</name>
+		<name normalized="Votas" languages="Lithuanian">Votas</name>
+		<name normalized="Wotho" languages="Croatian;English;Finnish;French;German;Italian;official;Spanish;Swedish">Wotho</name>
+		<name normalized="Wotho Atoll" languages="English">Wotho Atoll</name>
+		<name normalized="Voto" languages="Macedonian;Russian">Вото</name>
+		<name normalized="otー環礁" languages="Japanese">オトー環礁</name>
+		<name normalized="沃特環礁" languages="Chinese">沃特環礁</name>
+		<name normalized="워토 환초" languages="Korean">워토 환초</name>
+	</region>
+	<region name="Wotje" type="municipality" typeTranslated="municipality">
+		<name normalized="Atol Wotje" languages="Galician;Portuguese">Atol Wotje</name>
+		<name normalized="Votje" languages="Lithuanian">Votjė</name>
+		<name normalized="Wotje" languages="English;Finnish;French;German;Italian;official;Polish;Spanish;Swedish">Wotje</name>
+		<name normalized="Wotje Atoll" languages="English">Wotje Atoll</name>
+		<name normalized="Votьi" languages="Russian">Вотье</name>
+		<name normalized="Votji" languages="Macedonian">Вотје</name>
+		<name normalized="uotze環礁" languages="Japanese">ウォッジェ環礁</name>
+		<name normalized="沃特傑環礁" languages="Chinese">沃特傑環礁</name>
+		<name normalized="워트제 환초" languages="Korean">워트제 환초</name>
+	</region>
+</regions>

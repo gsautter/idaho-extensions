@@ -1,0 +1,1790 @@
+<regions country="Philippines">
+	<region name="Abra" type="province" typeTranslated="province">
+		<name normalized="Abra" languages="Bikol Central;Cebuano;Chavacano de Zamboanga;Chinese (Min Nan);Dutch;English;Finnish;Galician;German;Iloko;Indonesian;Latin;Norwegian (bokmal);official;Pampanga;Pangasinan;Polish;Portuguese;Swedish;Tagalog;Turkish;Vietnamese;Waray">Abra</name>
+		<name normalized="Abra Province" languages="English;official">Abra Province</name>
+		<name normalized="Propinsi Abra" languages="Achinese">Propinsi Abra</name>
+		<name normalized="Province d'Abra" languages="French">Province d'Abra</name>
+		<name normalized="Provincia de Abra" languages="Spanish">Provincia de Abra</name>
+		<name normalized="Provincia di Abra" languages="Italian">Provincia di Abra</name>
+		<name normalized="Wilayah Abra" languages="Malay">Wilayah Abra</name>
+		<name normalized="Abрa" languages="Macedonian;Russian">Абра</name>
+		<name normalized="آbrא" languages="Persian">آبرا</name>
+		<name normalized="abr州" languages="Japanese">アブラ州</name>
+		<name normalized="阿布拉省" languages="Chinese">阿布拉省</name>
+		<name normalized="아브라 주" languages="Korean">아브라 주</name>
+	</region>
+	<region name="Agusan del Norte" type="province" typeTranslated="province">
+		<name normalized="Agusan del Norte" languages="Bikol Central;Catalan;Cebuano;Chinese (Min Nan);Dutch;English;German;Iloko;Indonesian;Malay;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Agusan del Norte</name>
+		<name normalized="Agusan del Norte Province" languages="English;official">Agusan del Norte Province</name>
+		<name normalized="Agusan du Nord" languages="French">Agusan du Nord</name>
+		<name normalized="Agusan ed Baybay" languages="Pangasinan">Agusan ed Baybay</name>
+		<name normalized="Agusana Septemtrionalis" languages="Latin">Agusana Septemtrionalis</name>
+		<name normalized="Propinsi Agusan del Norte" languages="Achinese">Propinsi Agusan del Norte</name>
+		<name normalized="Provincia di Agusan del Norte" languages="Italian">Provincia di Agusan del Norte</name>
+		<name normalized="Сiviрiн Aguсaн" languages="Macedonian">Северен Агусан</name>
+		<name normalized="Сiviрный Aguсaн" languages="Russian">Северный Агусан</name>
+		<name normalized="آgوسאن شmאلی" languages="Persian">آگوسان شمالی</name>
+		<name normalized="sوbہ آgوسאن ڈیل نوٹrے" languages="Western Punjabi">صوبہ آگوسان ڈیل نوٹرے</name>
+		<name normalized="北agsn州" languages="Japanese">北アグサン州</name>
+		<name normalized="北阿古桑省" languages="Chinese">北阿古桑省</name>
+		<name normalized="북아구산 주" languages="Korean">북아구산 주</name>
+	</region>
+	<region name="Agusan del Sur" type="province" typeTranslated="province">
+		<name normalized="Agusan del Sur" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;German;Iloko;Indonesian;Malay;Norwegian (bokmal);official;Pampanga;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Agusan del Sur</name>
+		<name normalized="Agusan del Sur Province" languages="English;official">Agusan del Sur Province</name>
+		<name normalized="Agusan du Sud" languages="French">Agusan du Sud</name>
+		<name normalized="Agusan ed Abalaten" languages="Pangasinan">Agusan ed Abalaten</name>
+		<name normalized="Agusana Meridionalis" languages="Latin">Agusana Meridionalis</name>
+		<name normalized="Propinsi Agusan del Sur" languages="Achinese">Propinsi Agusan del Sur</name>
+		<name normalized="Provincia di Agusan del Sur" languages="Italian">Provincia di Agusan del Sur</name>
+		<name normalized="Юzный Aguсaн" languages="Russian">Южный Агусан</name>
+		<name normalized="Juziн Aguсaн" languages="Macedonian">Јужен Агусан</name>
+		<name normalized="آgوسאن jنوbی" languages="Persian">آگوسان جنوبی</name>
+		<name normalized="sوbہ آgوسאن ڈیل سوr" languages="Western Punjabi">صوبہ آگوسان ڈیل سور</name>
+		<name normalized="南agsn州" languages="Japanese">南アグサン州</name>
+		<name normalized="南阿古桑省" languages="Chinese">南阿古桑省</name>
+		<name normalized="남아구산 주" languages="Korean">남아구산 주</name>
+	</region>
+	<region name="Aklan" type="province" typeTranslated="province">
+		<name normalized="Aklan" languages="Basque;Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Malay;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Aklan</name>
+		<name normalized="Aklan Province" languages="English;official">Aklan Province</name>
+		<name normalized="Aklano" languages="Esperanto">Aklano</name>
+		<name normalized="Propinsi Aklan" languages="Achinese">Propinsi Aklan</name>
+		<name normalized="Provincia di Aklan" languages="Italian">Provincia di Aklan</name>
+		<name normalized="Akлaн" languages="Macedonian;Russian">Аклан</name>
+		<name normalized="آکلאن" languages="Persian">آکلان</name>
+		<name normalized="sوbہ אکلאن" languages="Western Punjabi">صوبہ اکلان</name>
+		<name normalized="ولאyة أkلאن" languages="Arabic">ولاية أكلان</name>
+		<name normalized="akrn州" languages="Japanese">アクラン州</name>
+		<name normalized="阿克兰省" languages="Chinese">阿克兰省</name>
+		<name normalized="아클란 주" languages="Korean">아클란 주</name>
+	</region>
+	<region name="Albay" type="province" typeTranslated="province">
+		<name normalized="Albajo" languages="Esperanto">Albajo</name>
+		<name normalized="Albay" languages="Bikol Central;Catalan;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Latin;Malay;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Portuguese;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Albay</name>
+		<name normalized="Albay Province" languages="English;official">Albay Province</name>
+		<name normalized="Propinsi Albay" languages="Achinese">Propinsi Albay</name>
+		<name normalized="Provincia di Albay" languages="Italian">Provincia di Albay</name>
+		<name normalized="Aлbaй" languages="Russian">Албай</name>
+		<name normalized="Aлbaj" languages="Macedonian">Албај</name>
+		<name normalized="آلbאی" languages="Persian">آلبای</name>
+		<name normalized="arbi州" languages="Japanese">アルバイ州</name>
+		<name normalized="阿尔拜省" languages="Chinese">阿尔拜省</name>
+		<name normalized="알바이 주" languages="Korean">알바이 주</name>
+	</region>
+	<region name="Angeles" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Anchelesas" languages="Lithuanian">Anchelesas</name>
+		<name normalized="Angeles" languages="Dutch;English;Finnish;official;Polish;Vietnamese;Waray">Angeles</name>
+		<name normalized="Angeles City" languages="Danish;German;Indonesian;Swedish">Angeles City</name>
+		<name normalized="Angeles Lakanbalen" languages="Pampanga">Angeles Lakanbalen</name>
+		<name normalized="Citta del Angeles" languages="Italian">Città del Angeles</name>
+		<name normalized="Dakbayan sa Angeles" languages="Cebuano">Dakbayan sa Angeles</name>
+		<name normalized="Lungsod ng Angeles" languages="Tagalog">Lungsod ng Angeles</name>
+		<name normalized="Siudad ti Angeles" languages="Iloko">Siudad ti Angeles</name>
+		<name normalized="Siyudad na Angeles" languages="Pangasinan">Siyudad na Angeles</name>
+		<name normalized="Angeles" languages="French;Spanish">Ángeles</name>
+		<name normalized="Aнkiлiс" languages="Russian">Анхелес</name>
+		<name normalized="anhrs" languages="Japanese">アンヘレス</name>
+		<name normalized="安吉利斯" languages="Chinese">安吉利斯</name>
+		<name normalized="앙헬레스" languages="Korean">앙헬레스</name>
+	</region>
+	<region name="Antipolo" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Anti-Polo" languages="Pangasinan">Anti-Polo</name>
+		<name normalized="Antipolo" languages="Catalan;Dutch;English;Esperanto;French;German;Iloko;Indonesian;Italian;Occitan;official;Polish;Portuguese;Spanish;Swedish;Tagalog;Vietnamese;Waray">Antipolo</name>
+		<name normalized="Antipolo Lakanbalen" languages="Pampanga">Antipolo Lakanbalen</name>
+		<name normalized="Dakbayan sa Antipolo" languages="Cebuano">Dakbayan sa Antipolo</name>
+		<name normalized="Syudad nin Antipolo" languages="Bikol Central">Syudad nin Antipolo</name>
+		<name normalized="Aнtipoлo" languages="Mongolian;Russian">Антиполо</name>
+		<name normalized="antipr" languages="Japanese">アンティポロ</name>
+		<name normalized="安蒂波洛" languages="Chinese">安蒂波洛</name>
+		<name normalized="안티폴로" languages="Korean">안티폴로</name>
+	</region>
+	<region name="Antique" type="province" typeTranslated="province">
+		<name normalized="Antica" languages="Latin">Antica</name>
+		<name normalized="Antiko" languages="Esperanto">Antiko</name>
+		<name normalized="Antique" languages="Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Antique</name>
+		<name normalized="Antique Province" languages="English;official">Antique Province</name>
+		<name normalized="Propinsi Antique" languages="Achinese">Propinsi Antique</name>
+		<name normalized="Provincia de Antique" languages="Spanish">Provincia de Antique</name>
+		<name normalized="Provincia di Antique" languages="Italian">Provincia di Antique</name>
+		<name normalized="Wilayah Antique" languages="Malay">Wilayah Antique</name>
+		<name normalized="Aнtiki" languages="Macedonian;Russian">Антике</name>
+		<name normalized="آنtیک" languages="Persian">آنتیک</name>
+		<name normalized="antiーk州" languages="Japanese">アンティーケ州</name>
+		<name normalized="安蒂克省" languages="Chinese">安蒂克省</name>
+		<name normalized="안티케 주" languages="Korean">안티케 주</name>
+	</region>
+	<region name="Apayao" type="province" typeTranslated="province">
+		<name normalized="Apayao" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Malay;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Apayao</name>
+		<name normalized="Apayao Province" languages="English;official">Apayao Province</name>
+		<name normalized="Propinsi Apayao" languages="Achinese">Propinsi Apayao</name>
+		<name normalized="Provincia di Apayao" languages="Italian">Provincia di Apayao</name>
+		<name normalized="Apaio" languages="Russian">Апаяо</name>
+		<name normalized="Apajao" languages="Macedonian">Апајао</name>
+		<name normalized="آpאیو" languages="Persian">آپایو</name>
+		<name normalized="apyo州" languages="Japanese">アパヤオ州</name>
+		<name normalized="阿巴尧省" languages="Chinese">阿巴尧省</name>
+		<name normalized="아파야오 주" languages="Korean">아파야오 주</name>
+	</region>
+	<region name="Aurora" type="province" typeTranslated="province">
+		<name normalized="Aurora" languages="Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Malay;Norwegian (bokmal);Occitan;official;Pangasinan;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Aurora</name>
+		<name normalized="Aurora Province" languages="English;official;Pampanga">Aurora Province</name>
+		<name normalized="Auroro" languages="Esperanto">Aŭroro</name>
+		<name normalized="Propinsi Aurora" languages="Achinese">Propinsi Aurora</name>
+		<name normalized="Provincia de Aurora" languages="Spanish">Provincia de Aurora</name>
+		<name normalized="Provincia di Aurora" languages="Italian">Provincia di Aurora</name>
+		<name normalized="Auрoрa" languages="Macedonian;Russian">Аурора</name>
+		<name normalized="آrوrא" languages="Persian">آرورا</name>
+		<name normalized="aurr州" languages="Japanese">アウロラ州</name>
+		<name normalized="奥罗拉省" languages="Chinese">奥罗拉省</name>
+		<name normalized="아우로라 주" languages="Korean">아우로라 주</name>
+	</region>
+	<region name="Bacolod" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Bacolod" languages="Croatian;Dutch;English;Esperanto;French;Iloko;Italian;Occitan;official;Polish;Vietnamese;Waray">Bacolod</name>
+		<name normalized="Bacolod City" languages="German;Indonesian;Swedish">Bacolod City</name>
+		<name normalized="Bacolod Lakanbalen" languages="Pampanga">Bacolod Lakanbalen</name>
+		<name normalized="Bacolod" languages="Portuguese;Spanish">Bacólod</name>
+		<name normalized="Bakolodas" languages="Lithuanian">Bakolodas</name>
+		<name normalized="Dakbayan sa Bacolod" languages="Cebuano">Dakbayan sa Bacolod</name>
+		<name normalized="Lungsod ng Bacolod" languages="Tagalog">Lungsod ng Bacolod</name>
+		<name normalized="Urbs Bacolodensis" languages="Latin">Urbs Bacolodensis</name>
+		<name normalized="Bakoлod" languages="Russian">Баколод</name>
+		<name normalized="bkrd" languages="Japanese">バコロド</name>
+		<name normalized="巴科洛德" languages="Chinese">巴科洛德</name>
+		<name normalized="바콜로드" languages="Korean">바콜로드</name>
+	</region>
+	<region name="Baguio" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Bagijas" languages="Lithuanian">Bagijas</name>
+		<name normalized="Bagio" languages="Azerbaijani">Bagio</name>
+		<name normalized="Baguio" languages="Bikol Central;Bosnian;Catalan;Chinese (Min Nan);Croatian;Dutch;English;French;Galician;Iloko;Italian;Malay;Occitan;official;Polish;Portuguese;Spanish;Vietnamese;Waray">Baguio</name>
+		<name normalized="Baguio City" languages="Finnish;German;Indonesian;Latin;Swedish">Baguio City</name>
+		<name normalized="Baguio Lakanbalen" languages="Pampanga">Baguio Lakanbalen</name>
+		<name normalized="Dakbayan sa Baguio" languages="Cebuano">Dakbayan sa Baguio</name>
+		<name normalized="Lungsod ng Baguio" languages="Tagalog">Lungsod ng Baguio</name>
+		<name normalized="Siyudad na Baguio" languages="Pangasinan">Siyudad na Baguio</name>
+		<name normalized="Bagio" languages="Russian">Багио</name>
+		<name normalized="บาเกียว" languages="Thai">บาเกียว</name>
+		<name normalized="bgo" languages="Japanese">バギオ</name>
+		<name normalized="碧瑶市" languages="Chinese">碧瑶市</name>
+		<name normalized="바기오" languages="Korean">바기오</name>
+	</region>
+	<region name="Basilan" type="province" typeTranslated="province">
+		<name normalized="Basilan" languages="Bikol Central;Cebuano;Chavacano de Zamboanga;Chinese (Min Nan);Czech;Dutch;English;French;Iloko;Indonesian;Interlingua;Latin;Malay;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Portuguese;Swedish;Tagalog;Turkish;Vietnamese;Waray">Basilan</name>
+		<name normalized="Basilan Province" languages="English;official">Basilan Province</name>
+		<name normalized="Basilanas" languages="Lithuanian">Basilanas</name>
+		<name normalized="Basilan" languages="Spanish">Basilán</name>
+		<name normalized="Propinsi Basilan" languages="Achinese">Propinsi Basilan</name>
+		<name normalized="Provincia di Basilan" languages="Italian">Provincia di Basilan</name>
+		<name normalized="Baсiлaн" languages="Macedonian;Russian">Басилан</name>
+		<name normalized="bאسیلאن" languages="Persian">باسیلان</name>
+		<name normalized="bsrn州" languages="Japanese">バシラン州</name>
+		<name normalized="巴西兰省" languages="Chinese">巴西兰省</name>
+		<name normalized="바실란 주" languages="Korean">바실란 주</name>
+	</region>
+	<region name="Bataan" type="province" typeTranslated="province">
+		<name normalized="Bataan" languages="Bikol Central;Cebuano;Chavacano de Zamboanga;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Latin;Malay;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Portuguese;Swedish;Tagalog;Turkish;Vietnamese;Waray">Bataan</name>
+		<name normalized="Bataan Province" languages="English;official">Bataan Province</name>
+		<name normalized="Bataano" languages="Esperanto">Bataano</name>
+		<name normalized="Bataan" languages="Spanish">Bataán</name>
+		<name normalized="Peninsula de Bataan" languages="Catalan">Península de Bataan</name>
+		<name normalized="Propinsi Bataan" languages="Achinese">Propinsi Bataan</name>
+		<name normalized="Provincia di Bataan" languages="Italian">Provincia di Bataan</name>
+		<name normalized="Bataaн" languages="Macedonian;Russian;Ukrainian">Батаан</name>
+		<name normalized="bאtאآن" languages="Persian">باتاآن</name>
+		<name normalized="btーn州" languages="Japanese">バターン州</name>
+		<name normalized="巴丹省" languages="Chinese">巴丹省</name>
+		<name normalized="바탄 주" languages="Korean">바탄 주</name>
+	</region>
+	<region name="Batanes" type="province" typeTranslated="province">
+		<name normalized="Batanes" languages="Bikol Central;Cebuano;Chinese (Min Nan);Croatian;Dutch;English;French;German;Iloko;Indonesian;Malay;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Batanes</name>
+		<name normalized="Batanes Province" languages="English;official">Batanes Province</name>
+		<name normalized="Batanoj" languages="Esperanto">Batanoj</name>
+		<name normalized="Propinsi Batanes" languages="Achinese">Propinsi Batanes</name>
+		<name normalized="Provincia di Batanes" languages="Italian">Provincia di Batanes</name>
+		<name normalized="Bataнiс" languages="Macedonian;Russian">Батанес</name>
+		<name normalized="bאtאنس" languages="Persian">باتانس</name>
+		<name normalized="btns州" languages="Japanese">バタネス州</name>
+		<name normalized="巴丹群島省" languages="Chinese">巴丹群島省</name>
+		<name normalized="바타네스 주" languages="Korean">바타네스 주</name>
+	</region>
+	<region name="Batangas" type="province" typeTranslated="province">
+		<name normalized="Batangas" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Latin;Malay;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Scots;Swedish;Tagalog;Turkish;Vietnamese;Waray">Batangas</name>
+		<name normalized="Batangas Province" languages="English;official">Batangas Province</name>
+		<name normalized="Propinsi Batangas" languages="Achinese">Propinsi Batangas</name>
+		<name normalized="Provincia de Batangas" languages="Spanish">Provincia de Batangas</name>
+		<name normalized="Provincia di Batangas" languages="Italian">Provincia di Batangas</name>
+		<name normalized="Bataнgaс" languages="Macedonian;Russian">Батангас</name>
+		<name normalized="bאtאنgא" languages="Persian">باتانگا</name>
+		<name normalized="btngs州" languages="Japanese">バタンガス州</name>
+		<name normalized="八打雁省" languages="Chinese">八打雁省</name>
+		<name normalized="바탕가스 주" languages="Korean">바탕가스 주</name>
+	</region>
+	<region name="Benguet" type="province" typeTranslated="province">
+		<name normalized="Benguet" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Malay;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Benguet</name>
+		<name normalized="Benguet Province" languages="English;official">Benguet Province</name>
+		<name normalized="Propinsi Benguet" languages="Achinese">Propinsi Benguet</name>
+		<name normalized="Provincia di Benguet" languages="Italian">Provincia di Benguet</name>
+		<name normalized="Biнgvit" languages="Macedonian">Бенгвет</name>
+		<name normalized="Biнgit" languages="Russian">Бенгет</name>
+		<name normalized="bنgوئh" languages="Persian">بنگوئه</name>
+		<name normalized="bngtt州" languages="Japanese">ベンゲット州</name>
+		<name normalized="本格特省" languages="Chinese">本格特省</name>
+		<name normalized="벵게트 주" languages="Korean">벵게트 주</name>
+	</region>
+	<region name="Biliran" type="province" typeTranslated="province">
+		<name normalized="Biliran" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Biliran</name>
+		<name normalized="Biliran Province" languages="English;official">Biliran Province</name>
+		<name normalized="Bilirano" languages="Esperanto">Bilirano</name>
+		<name normalized="Propinsi Biliran" languages="Achinese">Propinsi Biliran</name>
+		<name normalized="Provincia de Biliran" languages="Spanish">Provincia de Bilirán</name>
+		<name normalized="Provincia di Biliran" languages="Italian">Provincia di Biliran</name>
+		<name normalized="Biлiрaн" languages="Macedonian;Russian">Билиран</name>
+		<name normalized="bیلیrאن" languages="Persian">بیلیران</name>
+		<name normalized="brrn州" languages="Japanese">ビリラン州</name>
+		<name normalized="比利兰省" languages="Chinese">比利兰省</name>
+		<name normalized="빌리란 주" languages="Korean">빌리란 주</name>
+	</region>
+	<region name="Bohol" type="province" typeTranslated="province">
+		<name normalized="Bohol" languages="Basque;Bikol Central;Catalan;Cebuano;Chinese (Min Nan);Dutch;English;Estonian;Finnish;French;Galician;German;Iloko;Indonesian;Javanese;Latin;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Portuguese;Simple English;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Bohol</name>
+		<name normalized="Bohol Province" languages="English;official">Bohol Province</name>
+		<name normalized="Boholis" languages="Lithuanian">Boholis</name>
+		<name normalized="Boholo" languages="Esperanto">Boholo</name>
+		<name normalized="Propinsi Bohol" languages="Achinese">Propinsi Bohol</name>
+		<name normalized="Provincia di Bohol" languages="Italian">Provincia di Bohol</name>
+		<name normalized="Bokoл" languages="Macedonian;Serbian">Бохол</name>
+		<name normalized="Bokoль" languages="Russian">Бохоль</name>
+		<name normalized="bhل" languages="Persian">بهل</name>
+		<name normalized="ബൊഹോൾ" languages="Malayalam">ബൊഹോൾ</name>
+		<name normalized="bhーr州" languages="Japanese">ボホール州</name>
+		<name normalized="保和省" languages="Chinese">保和省</name>
+		<name normalized="보홀 주" languages="Korean">보홀 주</name>
+	</region>
+	<region name="Bukidnon" type="province" typeTranslated="province">
+		<name normalized="Bukidnon" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Latin;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Bukidnon</name>
+		<name normalized="Bukidnon Province" languages="English;official">Bukidnon Province</name>
+		<name normalized="Propinsi Bukidnon" languages="Achinese">Propinsi Bukidnon</name>
+		<name normalized="Provincia di Bukidnon" languages="Italian">Provincia di Bukidnon</name>
+		<name normalized="Bukidнoн" languages="Macedonian;Russian">Букиднон</name>
+		<name normalized="bوکیدنون" languages="Persian">بوکیدنون</name>
+		<name normalized="bkdnn州" languages="Japanese">ブキドノン州</name>
+		<name normalized="布基农省" languages="Chinese">布基农省</name>
+		<name normalized="부키드논 주" languages="Korean">부키드논 주</name>
+	</region>
+	<region name="Bulacan" type="province" typeTranslated="province">
+		<name normalized="Bulacan" languages="Bikol Central;Cebuano;Chinese (Min Nan);Czech;Dutch;English;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Simple English;Swedish;Tagalog;Turkish;Vietnamese;Waray">Bulacan</name>
+		<name normalized="Bulacan Province" languages="English;official">Bulacan Province</name>
+		<name normalized="Bulakan" languages="Pangasinan">Bulakan</name>
+		<name normalized="Bulakano" languages="Esperanto">Bulakano</name>
+		<name normalized="Propinsi Bulacan" languages="Achinese">Propinsi Bulacan</name>
+		<name normalized="Provincia de Bulacan" languages="Spanish">Provincia de Bulacán</name>
+		<name normalized="Provincia di Bulacan" languages="Italian">Provincia di Bulacan</name>
+		<name normalized="Buлakaн" languages="Macedonian;Russian">Булакан</name>
+		<name normalized="bولאکאن" languages="Persian">بولاکان</name>
+		<name normalized="brkn州" languages="Japanese">ブラカン州</name>
+		<name normalized="布拉干省" languages="Chinese">布拉干省</name>
+		<name normalized="불라칸 주" languages="Korean">불라칸 주</name>
+	</region>
+	<region name="Butuan" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Butuan" languages="Dutch;English;French;Iloko;Italian;Occitan;official;Polish;Spanish;Waray">Butuan</name>
+		<name normalized="Butuan City" languages="German;Indonesian;Latin;Malay;Swedish">Butuan City</name>
+		<name normalized="Butuan Lakanbalen" languages="Pampanga">Butuan Lakanbalen</name>
+		<name normalized="Butuanas" languages="Lithuanian">Butuanas</name>
+		<name normalized="Dakbayan sa Butuan" languages="Cebuano">Dakbayan sa Butuan</name>
+		<name normalized="Lungsod ng Butuan" languages="Tagalog">Lungsod ng Butuan</name>
+		<name normalized="Syudad nin Butuan" languages="Bikol Central">Syudad nin Butuan</name>
+		<name normalized="btuan" languages="Japanese">ブトゥアン</name>
+		<name normalized="武端市" languages="Chinese">武端市</name>
+		<name normalized="부투안" languages="Korean">부투안</name>
+	</region>
+	<region name="Cagayan" type="province" typeTranslated="province">
+		<name normalized="Cagayan" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Latin;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Cagayan</name>
+		<name normalized="Cagayan Province" languages="English;official">Cagayan Province</name>
+		<name normalized="Cagayan" languages="Spanish">Cagayán</name>
+		<name normalized="Kagajano" languages="Esperanto">Kagajano</name>
+		<name normalized="Propinsi Cagayan" languages="Achinese">Propinsi Cagayan</name>
+		<name normalized="Provincia di Cagayan" languages="Italian">Provincia di Cagayan</name>
+		<name normalized="Kagaiн" languages="Russian">Кагаян</name>
+		<name normalized="Kagajaн" languages="Macedonian">Кагајан</name>
+		<name normalized="کאgאیאن" languages="Persian">کاگایان</name>
+		<name normalized="kgyn州" languages="Japanese">カガヤン州</name>
+		<name normalized="卡加延省" languages="Chinese">卡加延省</name>
+		<name normalized="카가얀 주" languages="Korean">카가얀 주</name>
+	</region>
+	<region name="Cagayan de Oro" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Cagayan de Oro" languages="Dutch;English;Esperanto;Finnish;German;Iloko;Italian;Norwegian (bokmal);Occitan;official;Polish;Portuguese;Vietnamese;Waray">Cagayan de Oro</name>
+		<name normalized="Cagayan de Oro City" languages="Indonesian;Latin;Swedish">Cagayan de Oro City</name>
+		<name normalized="Cagayan de Oro Lakanbalen" languages="Pampanga">Cagayan de Oro Lakanbalen</name>
+		<name normalized="Cagayan de Oro" languages="French;Spanish">Cagayán de Oro</name>
+		<name normalized="Dakbayan sa Cagayan de Oro" languages="Cebuano">Dakbayan sa Cagayan de Oro</name>
+		<name normalized="Kagajan de Oras" languages="Lithuanian">Kagajan de Oras</name>
+		<name normalized="Lungsod ng Cagayan de Oro" languages="Tagalog">Lungsod ng Cagayan de Oro</name>
+		<name normalized="Kagaiн-di-Oрo" languages="Russian">Кагаян-де-Оро</name>
+		<name normalized="kgyn・d・or" languages="Japanese">カガヤン・デ・オロ</name>
+		<name normalized="卡加延德奥罗" languages="Chinese">卡加延德奥罗</name>
+		<name normalized="카가얀데오로" languages="Korean">카가얀데오로</name>
+	</region>
+	<region name="Caloocan" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Caloocan" languages="Afrikaans;Croatian;Dutch;English;Finnish;French;German;Iloko;Italian;Occitan;official;Polish;Portuguese;Scots;Simple English;Spanish;Vietnamese;Waray">Caloocan</name>
+		<name normalized="Caloocan City" languages="Indonesian">Caloocan City</name>
+		<name normalized="Caloocan Lakanbalen" languages="Pampanga">Caloocan Lakanbalen</name>
+		<name normalized="Dakbayan sa Caloocan" languages="Cebuano">Dakbayan sa Caloocan</name>
+		<name normalized="Kalookan" languages="Norwegian Nynorsk">Kalookan</name>
+		<name normalized="Kalookan City" languages="Swedish">Kalookan City</name>
+		<name normalized="Kalukanas" languages="Lithuanian">Kalukanas</name>
+		<name normalized="Kalukano" languages="Esperanto">Kalukano</name>
+		<name normalized="Lungsod ng Kalookan" languages="Tagalog">Lungsod ng Kalookan</name>
+		<name normalized="Siyudad na Caloocan" languages="Pangasinan">Siyudad na Caloocan</name>
+		<name normalized="Kaлookaн" languages="Chechen;Mongolian;Russian">Калоокан</name>
+		<name normalized="krーkn" languages="Japanese">カローカン</name>
+		<name normalized="加洛坎市" languages="Chinese">加洛坎市</name>
+		<name normalized="칼로오칸" languages="Korean">칼로오칸</name>
+	</region>
+	<region name="Camarines Norte" type="province" typeTranslated="province">
+		<name normalized="Camarines ed Baybay" languages="Pangasinan">Camarines ed Baybay</name>
+		<name normalized="Camarines Norte" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Camarines Norte</name>
+		<name normalized="Camarines Norte Province" languages="English;official">Camarines Norte Province</name>
+		<name normalized="Nordaj Kamarinoj" languages="Esperanto">Nordaj Kamarinoj</name>
+		<name normalized="Propinsi Camarines Norte" languages="Achinese">Propinsi Camarines Norte</name>
+		<name normalized="Provincia di Camarines Norte" languages="Italian">Provincia di Camarines Norte</name>
+		<name normalized="Сiviрiн Kaмaрiнiс" languages="Macedonian">Северен Камаринес</name>
+		<name normalized="Сiviрный Kaмaрiнiс" languages="Russian">Северный Камаринес</name>
+		<name normalized="کאmאrینh شmאلی" languages="Persian">کامارینه شمالی</name>
+		<name normalized="北kmrns州" languages="Japanese">北カマリネス州</name>
+		<name normalized="北甘馬粦省" languages="Chinese">北甘馬粦省</name>
+		<name normalized="북카마리네스 주" languages="Korean">북카마리네스 주</name>
+	</region>
+	<region name="Camarines Sur" type="province" typeTranslated="province">
+		<name normalized="Camarines ed Abalaten" languages="Pangasinan">Camarines ed Abalaten</name>
+		<name normalized="Camarines Sur" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Camarines Sur</name>
+		<name normalized="Camarines Sur Province" languages="English;official">Camarines Sur Province</name>
+		<name normalized="Propinsi Camarines Sur" languages="Achinese">Propinsi Camarines Sur</name>
+		<name normalized="Provincia di Camarines Sur" languages="Italian">Provincia di Camarines Sur</name>
+		<name normalized="Sudaj Kamarinoj" languages="Esperanto">Sudaj Kamarinoj</name>
+		<name normalized="Юzный Kaмaрiнiс" languages="Russian">Южный Камаринес</name>
+		<name normalized="Juziн Kaмaрiнiс" languages="Macedonian">Јужен Камаринес</name>
+		<name normalized="کאmאrینh jنوbی" languages="Persian">کامارینه جنوبی</name>
+		<name normalized="南kmrns州" languages="Japanese">南カマリネス州</name>
+		<name normalized="南甘馬粦省" languages="Chinese">南甘馬粦省</name>
+		<name normalized="남카마리네스 주" languages="Korean">남카마리네스 주</name>
+	</region>
+	<region name="Camiguin" type="province" typeTranslated="province">
+		<name normalized="Camiguin" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Camiguin</name>
+		<name normalized="Camiguin Province" languages="English;official">Camiguin Province</name>
+		<name normalized="Camiguin" languages="Spanish">Camiguín</name>
+		<name normalized="Kamigino" languages="Esperanto">Kamigino</name>
+		<name normalized="Propinsi Camiguin" languages="Achinese">Propinsi Camiguin</name>
+		<name normalized="Provincia di Camiguin" languages="Italian">Provincia di Camiguin</name>
+		<name normalized="Kaмigviн" languages="Macedonian">Камигвин</name>
+		<name normalized="Kaмigiн" languages="Russian">Камигин</name>
+		<name normalized="کאmیgوئین" languages="Persian">کامیگوئین</name>
+		<name normalized="kmgn州" languages="Japanese">カミギン州</name>
+		<name normalized="卡米金省" languages="Chinese">卡米金省</name>
+		<name normalized="카미긴 주" languages="Korean">카미긴 주</name>
+	</region>
+	<region name="Capiz" type="province" typeTranslated="province">
+		<name normalized="Capiz" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;German;Iloko;Indonesian;Latin;Norwegian (bokmal);official;Pampanga;Pangasinan;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Capiz</name>
+		<name normalized="Capiz Province" languages="English;official">Capiz Province</name>
+		<name normalized="Capiz" languages="French;Spanish">Cápiz</name>
+		<name normalized="Kapiso" languages="Esperanto">Kapiso</name>
+		<name normalized="Propinsi Capiz" languages="Achinese">Propinsi Capiz</name>
+		<name normalized="Provincia di Capiz" languages="Italian">Provincia di Capiz</name>
+		<name normalized="Kapiz" languages="Macedonian">Капиз</name>
+		<name normalized="Kapiс" languages="Russian">Капис</name>
+		<name normalized="کאpیز" languages="Persian">کاپیز</name>
+		<name normalized="kps州" languages="Japanese">カピス州</name>
+		<name normalized="卡皮茲省" languages="Chinese">卡皮茲省</name>
+		<name normalized="카피스 주" languages="Korean">카피스 주</name>
+	</region>
+	<region name="Catanduanes" type="province" typeTranslated="province">
+		<name normalized="Catanduanes" languages="Bikol Central;Cebuano;Chinese (Min Nan);Czech;Dutch;English;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Catanduanes</name>
+		<name normalized="Catanduanes Province" languages="English;official">Catanduanes Province</name>
+		<name normalized="Propinsi Catanduanes" languages="Achinese">Propinsi Catanduanes</name>
+		<name normalized="Provincia di Catanduanes" languages="Italian">Provincia di Catanduanes</name>
+		<name normalized="Kataнduaнiс" languages="Macedonian;Russian">Катандуанес</name>
+		<name normalized="کאtאندوאنh" languages="Persian">کاتاندوانه</name>
+		<name normalized="ktnduans州" languages="Japanese">カタンドゥアネス州</name>
+		<name normalized="卡坦端内斯省" languages="Chinese">卡坦端内斯省</name>
+		<name normalized="카탄두아네스 주" languages="Korean">카탄두아네스 주</name>
+	</region>
+	<region name="Cavite" type="province" typeTranslated="province">
+		<name normalized="Cavite" languages="Bikol Central;Cebuano;Chavacano de Zamboanga;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Latin;Malay;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Portuguese;Swedish;Turkish;Vietnamese;Waray">Cavite</name>
+		<name normalized="Cavite Province" languages="English;official">Cavite Province</name>
+		<name normalized="Kabite" languages="Tagalog">Kabite</name>
+		<name normalized="Propinsi Cavite" languages="Achinese">Propinsi Cavite</name>
+		<name normalized="Provincia de Cavite" languages="Spanish">Provincia de Cavite</name>
+		<name normalized="Provincia di Cavite" languages="Italian">Provincia di Cavite</name>
+		<name normalized="Kaviti" languages="Macedonian;Russian">Кавите</name>
+		<name normalized="کאویth" languages="Persian">کاویته</name>
+		<name normalized="kvit州" languages="Japanese">カヴィテ州</name>
+		<name normalized="甲米地省" languages="Chinese">甲米地省</name>
+		<name normalized="카비테 주" languages="Korean">카비테 주</name>
+	</region>
+	<region name="Cebu" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Caebua" languages="Latin">Caebua</name>
+		<name normalized="Cebu" languages="Bikol Central;Catalan;Chinese (Min Nan);Danish;Dutch;English;Estonian;French;German;Iloko;Indonesian;Italian;Malay;Norwegian (bokmal);official;Pampanga;Pangasinan;Polish;Portuguese;Swedish;Tagalog;Turkish;Vietnamese;Western Frisian">Cebu</name>
+		<name normalized="Cebu Province" languages="English;official">Cebu Province</name>
+		<name normalized="Cebuo" languages="Esperanto">Cebuo</name>
+		<name normalized="Cebu" languages="Galician;Interlingua;Spanish">Cebú</name>
+		<name normalized="Propinsi Cebu" languages="Achinese">Propinsi Cebu</name>
+		<name normalized="Provincia de Cebu" languages="Spanish">Provincia de Cebú</name>
+		<name normalized="Provincia di Cebu" languages="Italian">Provincia di Cebu</name>
+		<name normalized="Provincia de Cebu" languages="Catalan">Província de Cebu</name>
+		<name normalized="Sebu" languages="Lithuanian">Sebu</name>
+		<name normalized="Sugbo" languages="Cebuano;Waray">Sugbo</name>
+		<name normalized="Сibu" languages="Macedonian;Russian;Serbian;Ukrainian">Себу</name>
+		<name normalized="סbv" languages="Hebrew">סבו</name>
+		<name normalized="סעbv" languages="Yiddish">סעבו</name>
+		<name normalized="سیbو" languages="Persian;Urdu">سیبو</name>
+		<name normalized="സെബൂ" languages="Malayalam">സെബൂ</name>
+		<name normalized="sb州" languages="Japanese">セブ州</name>
+		<name normalized="宿務" languages="Chinese">宿務</name>
+		<name normalized="宿霧省" languages="Chinese">宿霧省</name>
+		<name normalized="세부" languages="Korean">세부</name>
+		<name normalized="세부 주" languages="Korean">세부 주</name>
+	</region>
+	<region name="Compostela" type="province" typeTranslated="province">
+		<name normalized="Compostela" languages="Dutch;English;French;Galician;German;Italian;official;Portuguese;Spanish;Waray">Compostela</name>
+		<name normalized="Compostela Province" languages="English;official">Compostela Province</name>
+		<name normalized="Compostela Vadisi" languages="Turkish">Compostela Vadisi</name>
+		<name normalized="Compostela Valley" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;German;Indonesian;Norwegian (bokmal);Polish;Vietnamese;Waray">Compostela Valley</name>
+		<name normalized="Composteladalen" languages="Swedish">Composteladalen</name>
+		<name normalized="Lambak ng Compostela" languages="Tagalog">Lambak ng Compostela</name>
+		<name normalized="Propinsi Compostela Valley" languages="Achinese">Propinsi Compostela Valley</name>
+		<name normalized="Provincia di Compostela Valley" languages="Italian">Provincia di Compostela Valley</name>
+		<name normalized="Saug Compostela" languages="Pampanga">Saug Compostela</name>
+		<name normalized="Tanap ti Compostela" languages="Iloko">Tanap ti Compostela</name>
+		<name normalized="Valle de Compostela" languages="Spanish">Valle de Compostela</name>
+		<name normalized="Vallee de Compostela" languages="French">Vallée de Compostela</name>
+		<name normalized="Doлiнa Koмpoсtiлa" languages="Russian">Долина Компостела</name>
+		<name normalized="Koмpoсtiлa" languages="Russian">Компостела</name>
+		<name normalized="Koмpoсtiлa Vaлi" languages="Macedonian">Компостела Вале</name>
+		<name normalized="کאmpوسtلא" languages="Persian">کامپوستلا</name>
+		<name normalized="کאmpوسtلא ولی" languages="Persian">کامپوستلا ولی</name>
+		<name normalized="knpstr・brー州" languages="Japanese">コンポステラ・バレー州</name>
+		<name normalized="康波斯特拉谷省" languages="Chinese">康波斯特拉谷省</name>
+		<name normalized="콤포스텔라밸리 주" languages="Korean">콤포스텔라밸리 주</name>
+	</region>
+	<region name="Cotabato" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Cotabato" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Latin;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Cotabato</name>
+		<name normalized="Propinsi Cotabato" languages="Achinese">Propinsi Cotabato</name>
+		<name normalized="Provincia de Cotabato" languages="Spanish">Provincia de Cotabato</name>
+		<name normalized="Provincia di Cotabato" languages="Italian">Provincia di Cotabato</name>
+		<name normalized="Kotabato" languages="Macedonian;Russian">Котабато</name>
+		<name normalized="کوtאbאtو" languages="Persian">کوتاباتو</name>
+		<name normalized="ktbt州" languages="Japanese">コタバト州</name>
+		<name normalized="哥打巴托省" languages="Chinese">哥打巴托省</name>
+		<name normalized="코타바토 주" languages="Korean">코타바토 주</name>
+	</region>
+	<region name="Dagupan" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Ciudad de Dagupan" languages="Chavacano de Zamboanga">Ciudad de Dagupán</name>
+		<name normalized="Dagupan" languages="Dutch;English;French;Iloko;Italian;Malay;official;Polish;Waray">Dagupan</name>
+		<name normalized="Dagupan City" languages="Bikol Central;German;Indonesian;Pangasinan;Swedish">Dagupan City</name>
+		<name normalized="Dagupan Lakanbalen" languages="Pampanga">Dagupan Lakanbalen</name>
+		<name normalized="Dagupanas" languages="Lithuanian">Dagupanas</name>
+		<name normalized="Dagupan" languages="Spanish">Dagupán</name>
+		<name normalized="Dakbayan sa Dagupan" languages="Cebuano">Dakbayan sa Dagupan</name>
+		<name normalized="Lungsod ng Dagupan" languages="Tagalog">Lungsod ng Dagupan</name>
+		<name normalized="다구판" languages="Korean">다구판</name>
+	</region>
+	<region name="Davao" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Davao" languages="English;French;German;Iloko;Italian;official;Spanish;Swedish;Tagalog">Davao</name>
+		<name normalized="Davao" languages="Russian">Давао</name>
+		<name normalized="دאوאئو" languages="Persian">داوائو</name>
+	</region>
+	<region name="Davao del Norte" type="province" typeTranslated="province">
+		<name normalized="Davao del Norte" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;German;Iloko;Indonesian;Norwegian (bokmal);official;Pampanga;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Davao del Norte</name>
+		<name normalized="Davao del Norte Province" languages="English;official">Davao del Norte Province</name>
+		<name normalized="Davao du Nord" languages="French">Davao du Nord</name>
+		<name normalized="Propinsi Davao del Norte" languages="Achinese">Propinsi Davao del Norte</name>
+		<name normalized="Provincia di Davao del Norte" languages="Italian">Provincia di Davao del Norte</name>
+		<name normalized="Сiviрiн Davao" languages="Macedonian">Северен Давао</name>
+		<name normalized="Сiviрный Davao" languages="Russian">Северный Давао</name>
+		<name normalized="دאوאئو شmאلی" languages="Persian">داوائو شمالی</name>
+		<name normalized="dbo州" languages="Japanese">ダバオ州</name>
+		<name normalized="北達沃省" languages="Chinese">北達沃省</name>
+		<name normalized="북다바오 주" languages="Korean">북다바오 주</name>
+	</region>
+	<region name="Davao del Sur" type="province" typeTranslated="province">
+		<name normalized="Davao del Sur" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;German;Iloko;Indonesian;Norwegian (bokmal);official;Pampanga;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Davao del Sur</name>
+		<name normalized="Davao del Sur Province" languages="English;official">Davao del Sur Province</name>
+		<name normalized="Davao do Sul" languages="Portuguese">Davao do Sul</name>
+		<name normalized="Davao du Sud" languages="French">Davao du Sud</name>
+		<name normalized="Propinsi Davao del Sur" languages="Achinese">Propinsi Davao del Sur</name>
+		<name normalized="Provincia di Davao del Sur" languages="Italian">Provincia di Davao del Sur</name>
+		<name normalized="Юzный Davao" languages="Russian">Южный Давао</name>
+		<name normalized="Juziн Davao" languages="Macedonian">Јужен Давао</name>
+		<name normalized="دאوאئو jنوbی" languages="Persian">داوائو جنوبی</name>
+		<name normalized="南dbo州" languages="Japanese">南ダバオ州</name>
+		<name normalized="南達沃省" languages="Chinese">南達沃省</name>
+		<name normalized="남다바오 주" languages="Korean">남다바오 주</name>
+	</region>
+	<region name="Davao Oriental" type="province" typeTranslated="province">
+		<name normalized="Davao Oriental" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Norwegian (bokmal);official;Pampanga;Polish;Portuguese;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Davao Oriental</name>
+		<name normalized="Davao Oriental Province" languages="English;official">Davao Oriental Province</name>
+		<name normalized="Propinsi Davao Oriental" languages="Achinese">Propinsi Davao Oriental</name>
+		<name normalized="Provincia di Davao Oriental" languages="Italian">Provincia di Davao Oriental</name>
+		<name normalized="Voсtocный Davao" languages="Russian">Восточный Давао</name>
+		<name normalized="Iсtociн Davao" languages="Macedonian">Источен Давао</name>
+		<name normalized="دאوאئو شrqی" languages="Persian">داوائو شرقی</name>
+		<name normalized="东达沃省" languages="Chinese">东达沃省</name>
+		<name normalized="東dbo州" languages="Japanese">東ダバオ州</name>
+		<name normalized="동다바오 주" languages="Korean">동다바오 주</name>
+	</region>
+	<region name="Dinagat Islands" type="province" typeTranslated="province">
+		<name normalized="Dinagat" languages="Spanish">Dinagat</name>
+		<name normalized="Dinagat Islands" languages="Bikol Central;Chinese (Min Nan);Dutch;English;German;official;Polish;Waray">Dinagat Islands</name>
+		<name normalized="Dinagat Islands Province" languages="English;official">Dinagat Islands Province</name>
+		<name normalized="Dinagatoarna" languages="Swedish">Dinagatöarna</name>
+		<name normalized="Is-isla ti Dinagat" languages="Iloko">Is-isla ti Dinagat</name>
+		<name normalized="Kapuluang Dinagat" languages="Tagalog">Kapuluang Dinagat</name>
+		<name normalized="Kapupud-ang Dinagat" languages="Cebuano">Kapupud-ang Dinagat</name>
+		<name normalized="Provincia di Dinagat Islands" languages="Italian">Provincia di Dinagat Islands</name>
+		<name normalized="Pulo-pulo Dinagat" languages="Achinese">Pulo-pulo Dinagat</name>
+		<name normalized="Quan dao Dinagat" languages="Vietnamese">Quần đảo Dinagat</name>
+		<name normalized="Saray isla ed Dinagat" languages="Pangasinan">Saray isla ed Dinagât</name>
+		<name normalized="Iles Dinagat" languages="French">Îles Dinagat</name>
+		<name normalized="Diнagat" languages="Macedonian">Динагат</name>
+		<name normalized="Oсtрova Diнagat" languages="Russian">Острова Динагат</name>
+		<name normalized="دینאgאt آیلندز" languages="Persian">دیناگات آیلندز</name>
+		<name normalized="dingtt・airnz州" languages="Japanese">ディナガット・アイランズ州</name>
+		<name normalized="迪纳加特群岛" languages="Chinese">迪纳加特群岛</name>
+		<name normalized="디나가트 제도 주" languages="Korean">디나가트 제도 주</name>
+	</region>
+	<region name="Eastern Samar" type="province" typeTranslated="province">
+		<name normalized="Aslagang Samar" languages="Pampanga">Aslagang Samar</name>
+		<name normalized="Daya a Samar" languages="Iloko">Daya a Samar</name>
+		<name normalized="Dogu Samar" languages="Turkish">Doğu Samar</name>
+		<name normalized="Eastern Samar" languages="Bikol Central;Chinese (Min Nan);Dutch;English;German;Norwegian (bokmal);official;Polish;Waray">Eastern Samar</name>
+		<name normalized="Eastern Samar Province" languages="English;official">Eastern Samar Province</name>
+		<name normalized="Illa Samar" languages="Galician">Illa Samar</name>
+		<name normalized="Insula Samar" languages="Romanian">Insula Samar</name>
+		<name normalized="Insulo Samaro" languages="Esperanto">Insulo Samaro</name>
+		<name normalized="Isla de Samar" languages="Spanish">Isla de Sámar</name>
+		<name normalized="Isola di Samar" languages="Italian">Isola di Samar</name>
+		<name normalized="Orienta Samaro" languages="Esperanto">Orienta Samaro</name>
+		<name normalized="Propinsi Samar" languages="Achinese">Propinsi Samar</name>
+		<name normalized="Propinsi Samar Timu" languages="Achinese">Propinsi Samar Timu</name>
+		<name normalized="Provincia di Eastern Samar" languages="Italian">Provincia di Eastern Samar</name>
+		<name normalized="Provincia di Samar" languages="Italian">Provincia di Samar</name>
+		<name normalized="Provincia de Samar" languages="Catalan">Província de Samar</name>
+		<name normalized="Samar" languages="Basque;Bikol Central;Breton;Catalan;Cebuano;Chinese (Min Nan);Croatian;Danish;Dutch;English;Estonian;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pangasinan;Polish;Portuguese;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh">Samar</name>
+		<name normalized="Samar Oriental" languages="Catalan;French">Samar Oriental</name>
+		<name normalized="Samar Province" languages="English;official;Pampanga">Samar Province</name>
+		<name normalized="Samar Timur" languages="Indonesian">Samar Timur</name>
+		<name normalized="Samara provinco" languages="Esperanto">Samara provinco</name>
+		<name normalized="Samaras" languages="Lithuanian">Samaras</name>
+		<name normalized="Sidlakang Samar" languages="Cebuano">Sidlakang Samar</name>
+		<name normalized="Silangang Samar" languages="Tagalog">Silangang Samar</name>
+		<name normalized="Samar" languages="Spanish">Sámar</name>
+		<name normalized="Samar Oriental" languages="Spanish">Sámar Oriental</name>
+		<name normalized="Ostra Samar" languages="Swedish">Östra Samar</name>
+		<name normalized="Oya Samar" languages="Norwegian Nynorsk">Øya Samar</name>
+		<name normalized="Dong Samar" languages="Vietnamese">Đông Samar</name>
+		<name normalized="Σαμαρ" languages="Greek">Σαμάρ</name>
+		<name normalized="Voсtocный Сaмaр" languages="Russian">Восточный Самар</name>
+		<name normalized="Voсtрaў Сaмaр" languages="Belarusian">Востраў Самар</name>
+		<name normalized="Iсtociн Сaмaр" languages="Macedonian">Источен Самар</name>
+		<name normalized="Сaмaр" languages="Bulgarian;Chuvash;Macedonian;Russian;Serbian">Самар</name>
+		<name normalized="Tukac Сaмaр" languages="Chuvash">Тухăç Самар</name>
+		<name normalized="سאmאr" languages="Persian">سامار</name>
+		<name normalized="سאmאr شrqی" languages="Persian">سامار شرقی</name>
+		<name normalized="სამარი" languages="Georgian">სამარი</name>
+		<name normalized="smr州" languages="Japanese">サマル州</name>
+		<name normalized="smーr島" languages="Japanese">サマール島</name>
+		<name normalized="東smr州" languages="Japanese">東サマル州</name>
+		<name normalized="東薩馬省" languages="Chinese">東薩馬省</name>
+		<name normalized="薩馬島" languages="Chinese">薩馬島</name>
+		<name normalized="薩馬省" languages="Chinese">薩馬省</name>
+		<name normalized="동사마르 주" languages="Korean">동사마르 주</name>
+		<name normalized="사마르 섬" languages="Korean">사마르 섬</name>
+		<name normalized="사마르 주" languages="Korean">사마르 주</name>
+	</region>
+	<region name="General Santos" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Dakbayan sa General Santos" languages="Cebuano">Dakbayan sa General Santos</name>
+		<name normalized="General Santos" languages="Bikol Central;Dutch;English;Esperanto;German;Iloko;Italian;Norwegian (bokmal);Occitan;official;Polish;Portuguese;Spanish;Vietnamese;Waray">General Santos</name>
+		<name normalized="General Santos City" languages="Indonesian;Swedish">General Santos City</name>
+		<name normalized="General Santos Lakanbalen" languages="Pampanga">General Santos Lakanbalen</name>
+		<name normalized="Lungsod ng Heneral Santos" languages="Tagalog">Lungsod ng Heneral Santos</name>
+		<name normalized="Siyudad na Heneral Santos" languages="Pangasinan">Siyudad na Heneral Santos</name>
+		<name normalized="Giнiрaл-Сaнtoс" languages="Russian">Генерал-Сантос</name>
+		<name normalized="zenrr・snts" languages="Japanese">ジェネラル・サントス</name>
+		<name normalized="三投斯將軍市" languages="Chinese">三投斯將軍市</name>
+		<name normalized="제너럴산토스" languages="Korean">제너럴산토스</name>
+	</region>
+	<region name="Guimaras" type="province" typeTranslated="province">
+		<name normalized="Guimaras" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;Esperanto;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Guimaras</name>
+		<name normalized="Guimaras Province" languages="English;official">Guimaras Province</name>
+		<name normalized="Guimaras" languages="Spanish">Guimarás</name>
+		<name normalized="Propinsi Guimaras" languages="Achinese">Propinsi Guimaras</name>
+		<name normalized="Provincia di Guimaras" languages="Italian">Provincia di Guimaras</name>
+		<name normalized="Giмaрaс" languages="Russian">Гимарас</name>
+		<name normalized="Guiмaрaс" languages="Macedonian">Гуимарас</name>
+		<name normalized="gیmאrאس" languages="Persian">گیماراس</name>
+		<name normalized="gmrs州" languages="Japanese">ギマラス州</name>
+		<name normalized="吉馬拉斯省" languages="Chinese">吉馬拉斯省</name>
+		<name normalized="기마라스 주" languages="Korean">기마라스 주</name>
+	</region>
+	<region name="Ifugao" type="province" typeTranslated="province">
+		<name normalized="Ifugao" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Malay;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Ifugao</name>
+		<name normalized="Ifugao Province" languages="English;official">Ifugao Province</name>
+		<name normalized="Propinsi Ifugao" languages="Achinese">Propinsi Ifugao</name>
+		<name normalized="Provincia di Ifugao" languages="Italian">Provincia di Ifugao</name>
+		<name normalized="Iфugao" languages="Macedonian;Russian">Ифугао</name>
+		<name normalized="אیfوgאئو" languages="Persian">ایفوگائو</name>
+		<name normalized="ihgo州" languages="Japanese">イフガオ州</name>
+		<name normalized="伊富高省" languages="Chinese">伊富高省</name>
+		<name normalized="이푸가오 주" languages="Korean">이푸가오 주</name>
+	</region>
+	<region name="Iligan" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Dakbayan sa Iligan" languages="Cebuano">Dakbayan sa Iligan</name>
+		<name normalized="Iligan" languages="Dutch;English;Iloko;Italian;official;Polish;Spanish;Waray">Iligan</name>
+		<name normalized="Iligan City" languages="German;Indonesian;Swedish">Iligan City</name>
+		<name normalized="Iligan Lakanbalen" languages="Pampanga">Iligan Lakanbalen</name>
+		<name normalized="Lungsod ng Iligan" languages="Tagalog">Lungsod ng Iligan</name>
+		<name normalized="irgn" languages="Japanese">イリガン</name>
+		<name normalized="伊利甘" languages="Chinese">伊利甘</name>
+		<name normalized="일리간" languages="Korean">일리간</name>
+	</region>
+	<region name="Ilocos Norte" type="province" typeTranslated="province">
+		<name normalized="Ilocos ed Baybay" languages="Pangasinan">Ilocos ed Baybay</name>
+		<name normalized="Ilocos Norte" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Latin;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Romanian;Spanish;Tagalog;Turkish;Vietnamese;Waray">Ilocos Norte</name>
+		<name normalized="Ilocos Norte Province" languages="English;official">Ilocos Norte Province</name>
+		<name normalized="Norda Iloko" languages="Esperanto">Norda Iloko</name>
+		<name normalized="Norra Ilocos" languages="Swedish">Norra Ilocos</name>
+		<name normalized="Propinsi Ilocos Norte" languages="Achinese">Propinsi Ilocos Norte</name>
+		<name normalized="Provincia di Ilocos Norte" languages="Italian">Provincia di Ilocos Norte</name>
+		<name normalized="Сiviрiн Iлokoс" languages="Macedonian">Северен Илокос</name>
+		<name normalized="Сiviрный Iлokoс" languages="Russian">Северный Илокос</name>
+		<name normalized="אیلوکوس شmאلی" languages="Persian">ایلوکوس شمالی</name>
+		<name normalized="北irks州" languages="Japanese">北イロコス州</name>
+		<name normalized="北伊羅戈省" languages="Chinese">北伊羅戈省</name>
+		<name normalized="북일로코스 주" languages="Korean">북일로코스 주</name>
+	</region>
+	<region name="Ilocos Sur" type="province" typeTranslated="province">
+		<name normalized="Ilocos ed Abalaten" languages="Pangasinan">Ilocos ed Abalaten</name>
+		<name normalized="Ilocos Sur" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Latin;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Spanish;Tagalog;Turkish;Vietnamese;Waray">Ilocos Sur</name>
+		<name normalized="Ilocos Sur Province" languages="English;official">Ilocos Sur Province</name>
+		<name normalized="Propinsi Ilocos Sur" languages="Achinese">Propinsi Ilocos Sur</name>
+		<name normalized="Provincia di Ilocos Sur" languages="Italian">Provincia di Ilocos Sur</name>
+		<name normalized="Suda Iloko" languages="Esperanto">Suda Iloko</name>
+		<name normalized="Sodra Ilocos" languages="Swedish">Södra Ilocos</name>
+		<name normalized="Юzный Iлokoс" languages="Russian">Южный Илокос</name>
+		<name normalized="Juziн Iлokoс" languages="Macedonian">Јужен Илокос</name>
+		<name normalized="אیلوکوس jنوbی" languages="Persian">ایلوکوس جنوبی</name>
+		<name normalized="南irks州" languages="Japanese">南イロコス州</name>
+		<name normalized="南伊羅戈省" languages="Chinese">南伊羅戈省</name>
+		<name normalized="남일로코스 주" languages="Korean">남일로코스 주</name>
+	</region>
+	<region name="Iloilo" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Iloilo" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;Esperanto;Finnish;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Iloilo</name>
+		<name normalized="Iloilo Province" languages="English;official">Iloilo Province</name>
+		<name normalized="Propinsi Iloilo" languages="Achinese">Propinsi Iloilo</name>
+		<name normalized="Provincia de Iloilo" languages="Spanish">Provincia de Iloílo</name>
+		<name normalized="Provincia di Iloilo" languages="Italian">Provincia di Iloilo</name>
+		<name normalized="Iлoiлo" languages="Macedonian;Russian">Илоило</name>
+		<name normalized="אیلوئیلو" languages="Persian">ایلوئیلو</name>
+		<name normalized="irir州" languages="Japanese">イロイロ州</name>
+		<name normalized="伊洛伊洛省" languages="Chinese">伊洛伊洛省</name>
+		<name normalized="일로일로 주" languages="Korean">일로일로 주</name>
+	</region>
+	<region name="Isabela" type="province" typeTranslated="province">
+		<name normalized="Ciudad de Isabela" languages="Chavacano de Zamboanga">Ciudad de Isabela</name>
+		<name normalized="Dakbayan sa Isabela" languages="Cebuano">Dakbayan sa Isabela</name>
+		<name normalized="Isabela" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Italian;Latin;Malay;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Isabela</name>
+		<name normalized="Isabela City" languages="German;Indonesian;Malay;Norwegian (bokmal)">Isabela City</name>
+		<name normalized="Isabela Lakanbalen" languages="Pampanga">Isabela Lakanbalen</name>
+		<name normalized="Isabela Province" languages="English;official">Isabela Province</name>
+		<name normalized="Isabella" languages="Pangasinan">Isabella</name>
+		<name normalized="Isabelo" languages="Esperanto">Isabelo</name>
+		<name normalized="Lungsod ng Isabela" languages="Tagalog">Lungsod ng Isabela</name>
+		<name normalized="Propinsi Isabela" languages="Achinese">Propinsi Isabela</name>
+		<name normalized="Provincia de Isabela" languages="Spanish">Provincia de Isabela</name>
+		<name normalized="Provincia di Isabela" languages="Italian">Provincia di Isabela</name>
+		<name normalized="Syudad nin Isabela" languages="Bikol Central">Syudad nin Isabela</name>
+		<name normalized="Izabiлa" languages="Macedonian">Изабела</name>
+		<name normalized="Iсabiлa" languages="Russian">Исабела</name>
+		<name normalized="אیزאbلא" languages="Persian">ایزابلا</name>
+		<name normalized="isbr" languages="Japanese">イサベラ</name>
+		<name normalized="isbr州" languages="Japanese">イサベラ州</name>
+		<name normalized="伊莎貝拉省" languages="Chinese">伊莎貝拉省</name>
+		<name normalized="이사벨라" languages="Korean">이사벨라</name>
+		<name normalized="이사벨라 주" languages="Korean">이사벨라 주</name>
+	</region>
+	<region name="Kalinga" type="province" typeTranslated="province">
+		<name normalized="Kalinga" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Latin;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Portuguese;Swedish;Tagalog;Turkish;Vietnamese;Waray">Kalinga</name>
+		<name normalized="Kalinga Province" languages="English;official">Kalinga Province</name>
+		<name normalized="Propinsi Kalinga" languages="Achinese">Propinsi Kalinga</name>
+		<name normalized="Provincia de Kalinga" languages="Spanish">Provincia de Kalinga</name>
+		<name normalized="Provincia di Kalinga" languages="Italian">Provincia di Kalinga</name>
+		<name normalized="Provincia de Kalinga" languages="Catalan">Província de Kalinga</name>
+		<name normalized="Kaлiнga" languages="Macedonian;Russian">Калинга</name>
+		<name normalized="کאلینgא" languages="Persian">کالینگا</name>
+		<name normalized="krng州" languages="Japanese">カリンガ州</name>
+		<name normalized="卡林阿省" languages="Chinese">卡林阿省</name>
+		<name normalized="칼링가 주" languages="Korean">칼링가 주</name>
+	</region>
+	<region name="La Union" type="province" typeTranslated="province">
+		<name normalized="La Union" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">La Union</name>
+		<name normalized="La Union Province" languages="English;official">La Union Province</name>
+		<name normalized="La Union" languages="English;French;Galician;German;Italian;Nahuatl;Polish;Portuguese;Spanish">La Unión</name>
+		<name normalized="La-Unio" languages="Esperanto">La-Unio</name>
+		<name normalized="Propinsi La Union" languages="Achinese">Propinsi La Union</name>
+		<name normalized="Provincia di La Union" languages="Italian">Provincia di La Union</name>
+		<name normalized="Лa Uнioн" languages="Macedonian">Ла Унион</name>
+		<name normalized="Лa-Uнioн" languages="Russian">Ла-Унион</name>
+		<name normalized="لא یونیون" languages="Persian">لا یونیون</name>
+		<name normalized="runon州" languages="Japanese">ラウニオン州</name>
+		<name normalized="聯合省" languages="Chinese">聯合省</name>
+		<name normalized="라우니온 주" languages="Korean">라우니온 주</name>
+	</region>
+	<region name="Laguna" type="province" typeTranslated="province">
+		<name normalized="La Laguna" languages="Spanish">La Laguna</name>
+		<name normalized="Laguna" languages="Bikol Central;Cebuano;Chavacano de Zamboanga;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Latin;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Portuguese;Simple English;Swedish;Tagalog;Turkish;Vietnamese;Waray">Laguna</name>
+		<name normalized="Laguna probintzia" languages="Basque">Laguna probintzia</name>
+		<name normalized="Laguna Province" languages="English;official">Laguna Province</name>
+		<name normalized="Propinsi Laguna" languages="Achinese">Propinsi Laguna</name>
+		<name normalized="Provincia di Laguna" languages="Italian">Provincia di Laguna</name>
+		<name normalized="Лaguнa" languages="Macedonian;Russian">Лагуна</name>
+		<name normalized="لאgونא" languages="Persian">لاگونا</name>
+		<name normalized="rgn州" languages="Japanese">ラグナ州</name>
+		<name normalized="內湖省" languages="Chinese">內湖省</name>
+		<name normalized="라구나 주" languages="Korean">라구나 주</name>
+	</region>
+	<region name="Lanao del Norte" type="province" typeTranslated="province">
+		<name normalized="Lanao del Norte" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;German;Iloko;Indonesian;Norwegian (bokmal);official;Pampanga;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Lanao del Norte</name>
+		<name normalized="Lanao del Norte Province" languages="English;official">Lanao del Norte Province</name>
+		<name normalized="Lanao du Nord" languages="French">Lanao du Nord</name>
+		<name normalized="Propinsi Lanao del Norte" languages="Achinese">Propinsi Lanao del Norte</name>
+		<name normalized="Provincia di Lanao del Norte" languages="Italian">Provincia di Lanao del Norte</name>
+		<name normalized="Сiviрiн Лaнao" languages="Macedonian">Северен Ланао</name>
+		<name normalized="Сiviрный Лaнao" languages="Russian">Северный Ланао</name>
+		<name normalized="لאنאئو شmאلی" languages="Persian">لانائو شمالی</name>
+		<name normalized="北rno州" languages="Japanese">北ラナオ州</name>
+		<name normalized="北拉瑙省" languages="Chinese">北拉瑙省</name>
+		<name normalized="북라나오 주" languages="Korean">북라나오 주</name>
+	</region>
+	<region name="Lanao del Sur" type="province" typeTranslated="province">
+		<name normalized="Lanao del Sur" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;German;Iloko;Indonesian;Norwegian (bokmal);official;Pampanga;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Lanao del Sur</name>
+		<name normalized="Lanao del Sur Province" languages="English;official">Lanao del Sur Province</name>
+		<name normalized="Lanao du Sud" languages="French">Lanao du Sud</name>
+		<name normalized="Propinsi Lanao del Sur" languages="Achinese">Propinsi Lanao del Sur</name>
+		<name normalized="Provincia di Lanao del Sur" languages="Italian">Provincia di Lanao del Sur</name>
+		<name normalized="Suda Lanao" languages="Esperanto">Suda Lanao</name>
+		<name normalized="Юzный Лaнao" languages="Russian">Южный Ланао</name>
+		<name normalized="Juziн Лaнao" languages="Macedonian">Јужен Ланао</name>
+		<name normalized="لאنאئو jنوbی" languages="Persian">لانائو جنوبی</name>
+		<name normalized="南rno州" languages="Japanese">南ラナオ州</name>
+		<name normalized="南拉瑙省" languages="Chinese">南拉瑙省</name>
+		<name normalized="남라나오 주" languages="Korean">남라나오 주</name>
+	</region>
+	<region name="Lapu-Lapu" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Cidade do Lapu-Lapu" languages="Portuguese">Cidade do Lapu-Lapu</name>
+		<name normalized="Dakbayan sa Lapu-Lapu" languages="Cebuano">Dakbayan sa Lapu-Lapu</name>
+		<name normalized="Lapu-Lapu" languages="Bikol Central;Catalan;English;French;Italian;official;Polish;Waray">Lapu-Lapu</name>
+		<name normalized="Lapu-Lapu City" languages="Dutch;Finnish;German;Indonesian;Norwegian (bokmal);Simple English;Swedish">Lapu-Lapu City</name>
+		<name normalized="Lapu-Lapu Lakanbalen" languages="Pampanga">Lapu-Lapu Lakanbalen</name>
+		<name normalized="Lapulapu" languages="Spanish">Lapulapu</name>
+		<name normalized="Lungsod ng Lapu-Lapu" languages="Tagalog">Lungsod ng Lapu-Lapu</name>
+		<name normalized="Siudad ti Lapu-Lapu" languages="Iloko">Siudad ti Lapu-Lapu</name>
+		<name normalized="Лapu-Лapu" languages="Russian">Лапу-Лапу</name>
+		<name normalized="rp=rp市" languages="Japanese">ラプ＝ラプ市</name>
+		<name normalized="拉普拉普市" languages="Chinese">拉普拉普市</name>
+		<name normalized="라푸라푸 시" languages="Korean">라푸라푸 시</name>
+	</region>
+	<region name="Las Pinas" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Dakbayan sa Las Pinas" languages="Cebuano">Dakbayan sa Las Piñas</name>
+		<name normalized="Las Pinas" languages="English;official">Las Pinas</name>
+		<name normalized="Las Pinjasas" languages="Lithuanian">Las Pinjasas</name>
+		<name normalized="Las Pinas" languages="Dutch;English;Esperanto;Finnish;French;Galician;German;Iloko;Italian;Latin;Polish;Portuguese;Spanish;Swedish;Vietnamese;Waray">Las Piñas</name>
+		<name normalized="Las Pinas City" languages="Indonesian">Las Piñas City</name>
+		<name normalized="Las Pinas Lakanbalen" languages="Pampanga">Las Piñas Lakanbalen</name>
+		<name normalized="Lungsod ng Las Pinas" languages="Tagalog">Lungsod ng Las Piñas</name>
+		<name normalized="Siyudad na Las Pinas" languages="Pangasinan">Siyudad na Las Piñas</name>
+		<name normalized="Лaс-Piньiс" languages="Russian">Лас-Пиньяс</name>
+		<name normalized="rspnys" languages="Japanese">ラスピニャス</name>
+		<name normalized="拉斯皮納斯市" languages="Chinese">拉斯皮納斯市</name>
+		<name normalized="라스피냐스" languages="Korean">라스피냐스</name>
+	</region>
+	<region name="Leyte" type="province" typeTranslated="province">
+		<name normalized="Illa Leyte" languages="Galician">Illa Leyte</name>
+		<name normalized="Isla de Leyte" languages="Spanish">Isla de Leyte</name>
+		<name normalized="Leite" languages="Lithuanian">Leitė</name>
+		<name normalized="Lejteo" languages="Esperanto">Lejteo</name>
+		<name normalized="Leyte" languages="Basque;Bikol Central;Breton;Catalan;Cebuano;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;French;German;Iloko;Italian;Latin;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh">Leyte</name>
+		<name normalized="Leyte Adası" languages="Turkish">Leyte Adası</name>
+		<name normalized="Leyte Province" languages="English;official">Leyte Province</name>
+		<name normalized="Leyte Utara" languages="Indonesian">Leyte Utara</name>
+		<name normalized="Propinsi Leyte" languages="Achinese">Propinsi Leyte</name>
+		<name normalized="Provincia de Leyte" languages="Spanish">Provincia de Leyte</name>
+		<name normalized="Provincia di Leyte" languages="Italian">Provincia di Leyte</name>
+		<name normalized="Provinco Lejteo" languages="Esperanto">Provinco Lejteo</name>
+		<name normalized="Provincia de Leyte" languages="Catalan">Província de Leyte</name>
+		<name normalized="Pulau Leyte" languages="Indonesian">Pulau Leyte</name>
+		<name normalized="Pulo ng Leyte" languages="Tagalog">Pulo ng Leyte</name>
+		<name normalized="Λeιτε" languages="Greek">Λέιτε</name>
+		<name normalized="Лiйti" languages="Chuvash;Russian;Ukrainian">Лейте</name>
+		<name normalized="Лijti" languages="Macedonian;Serbian">Лејте</name>
+		<name normalized="דייth" languages="Hebrew">לייטה</name>
+		<name normalized="لیth" languages="Persian">لیته</name>
+		<name normalized="mqאtعة لytة" languages="Arabic">مقاطعة ليتة</name>
+		<name normalized="லெய்டி மாகாணம்" languages="Tamil">லெய்டி மாகாணம்</name>
+		<name normalized="เกาะเลย์เต" languages="Thai">เกาะเลย์เต</name>
+		<name normalized="rit島" languages="Japanese">レイテ島</name>
+		<name normalized="rit州" languages="Japanese">レイテ州</name>
+		<name normalized="禮智省" languages="Chinese">禮智省</name>
+		<name normalized="莱特岛" languages="Chinese">莱特岛</name>
+		<name normalized="레이테 섬" languages="Korean">레이테 섬</name>
+		<name normalized="레이테 주" languages="Korean">레이테 주</name>
+	</region>
+	<region name="Lucena" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Dakbayan sa Lucena" languages="Cebuano">Dakbayan sa Lucena</name>
+		<name normalized="Lucena" languages="Asturian;Dutch;English;French;Italian;official;Pangasinan;Polish;Spanish;Waray">Lucena</name>
+		<name normalized="Lucena City" languages="Chavacano de Zamboanga;German;Indonesian;Swedish">Lucena City</name>
+		<name normalized="Lucena Lakanbalen" languages="Pampanga">Lucena Lakanbalen</name>
+		<name normalized="Lungsod ng Lucena" languages="Tagalog">Lungsod ng Lucena</name>
+		<name normalized="Siudad ti Lucena" languages="Iloko">Siudad ti Lucena</name>
+		<name normalized="Лuсiнa" languages="Russian">Лусена</name>
+		<name normalized="卢塞纳" languages="Chinese">卢塞纳</name>
+		<name normalized="루세나" languages="Korean">루세나</name>
+	</region>
+	<region name="Maguindanao" type="province" typeTranslated="province">
+		<name normalized="Magindanao" languages="Esperanto">Magindanao</name>
+		<name normalized="Maguindanao" languages="Bikol Central;Catalan;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Maguindanao</name>
+		<name normalized="Maguindanao Province" languages="English;official">Maguindanao Province</name>
+		<name normalized="Propinsi Maguindanao" languages="Achinese">Propinsi Maguindanao</name>
+		<name normalized="Provincia di Maguindanao" languages="Italian">Provincia di Maguindanao</name>
+		<name normalized="Мagiнdaнao" languages="Russian">Магинданао</name>
+		<name normalized="Мaguiнdaнao" languages="Macedonian">Магуинданао</name>
+		<name normalized="mאgوئیندאنאئو" languages="Persian">ماگوئیندانائو</name>
+		<name normalized="mgndno州" languages="Japanese">マギンダナオ州</name>
+		<name normalized="馬京達瑙省" languages="Chinese">馬京達瑙省</name>
+		<name normalized="마긴다나오 주" languages="Korean">마긴다나오 주</name>
+	</region>
+	<region name="Makati" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Dakbayan sa Makati" languages="Cebuano">Dakbayan sa Makati</name>
+		<name normalized="Lungsod ng Makati" languages="Tagalog">Lungsod ng Makati</name>
+		<name normalized="Makati" languages="Dutch;English;Finnish;French;Iloko;Indonesian;Italian;Latin;Malay;Norwegian (bokmal);Occitan;official;Polish;Portuguese;Scots;Simple English;Spanish;Swedish;Vietnamese;Waray">Makati</name>
+		<name normalized="Makati City" languages="German">Makati City</name>
+		<name normalized="Makati Lakanbalen" languages="Pampanga">Makati Lakanbalen</name>
+		<name normalized="Siyudad na Makati" languages="Pangasinan">Siyudad na Makati</name>
+		<name normalized="Мakati" languages="Bulgarian;Russian">Макати</name>
+		<name normalized="mkti" languages="Japanese">マカティ</name>
+		<name normalized="马卡蒂" languages="Chinese">马卡蒂</name>
+		<name normalized="마카티" languages="Korean">마카티</name>
+	</region>
+	<region name="Malabon" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Dakbayan sa Malabon" languages="Cebuano">Dakbayan sa Malabon</name>
+		<name normalized="Lungsod ng Malabon" languages="Tagalog">Lungsod ng Malabon</name>
+		<name normalized="Malabon" languages="Dutch;English;Finnish;French;Iloko;Italian;official;Polish;Portuguese;Swedish;Vietnamese;Waray">Malabon</name>
+		<name normalized="Malabon City" languages="German;Indonesian">Malabon City</name>
+		<name normalized="Malabon Lakanbalen" languages="Pampanga">Malabon Lakanbalen</name>
+		<name normalized="Malabon" languages="Spanish">Malabón</name>
+		<name normalized="Siyudad na Malabon" languages="Pangasinan">Siyudad na Malabon</name>
+		<name normalized="马拉翁" languages="Chinese">马拉翁</name>
+		<name normalized="말라본" languages="Korean">말라본</name>
+	</region>
+	<region name="Mandaluyong" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Dakbayan sa Mandaluyong" languages="Cebuano">Dakbayan sa Mandaluyong</name>
+		<name normalized="Lungsod ng Mandaluyong" languages="Tagalog">Lungsod ng Mandaluyong</name>
+		<name normalized="Mandaluyong" languages="Dutch;English;Finnish;French;Iloko;Italian;official;Polish;Portuguese;Spanish;Swedish;Vietnamese;Waray">Mandaluyong</name>
+		<name normalized="Mandaluyong City" languages="German;Indonesian">Mandaluyong City</name>
+		<name normalized="Mandaluyong Lakanbalen" languages="Pampanga">Mandaluyong Lakanbalen</name>
+		<name normalized="Siyudad na Mandaluyong" languages="Pangasinan">Siyudad na Mandaluyong</name>
+		<name normalized="曼达卢永" languages="Chinese">曼达卢永</name>
+		<name normalized="만달루용" languages="Korean">만달루용</name>
+	</region>
+	<region name="Mandaue" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Dakbayan sa Mandaue" languages="Cebuano">Dakbayan sa Mandaue</name>
+		<name normalized="Lungsod ng Mandaue" languages="Tagalog">Lungsod ng Mandaue</name>
+		<name normalized="Mandaue" languages="Bikol Central;Dutch;English;French;Iloko;Italian;official;Polish;Romanian;Simple English;Spanish;Waray">Mandaue</name>
+		<name normalized="Mandaue City" languages="German;Indonesian;Norwegian (bokmal);Swedish">Mandaue City</name>
+		<name normalized="Mandaue Lakanbalen" languages="Pampanga">Mandaue Lakanbalen</name>
+		<name normalized="Мaнdaue" languages="Russian">Мандауэ</name>
+		<name normalized="mndue" languages="Japanese">マンダウエ</name>
+		<name normalized="曼達維市" languages="Chinese">曼達維市</name>
+		<name normalized="만다우에" languages="Korean">만다우에</name>
+	</region>
+	<region name="Manila" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Ciudad de Manila" languages="Chavacano de Zamboanga">Ciudad de Manila</name>
+		<name normalized="Dakbayan sa Manila" languages="Cebuano">Dakbayan sa Manila</name>
+		<name normalized="Mainile" languages="Irish">Mainile</name>
+		<name normalized="Manila" languages="Achinese;Afrikaans;Albanian;Aragonese;Asturian;Azerbaijani;Basa Banyumasan;Basque;Bikol Central;Bosnian;Breton;Catalan;Chinese (Min Nan);Crimean Turkish;Croatian;Czech;Danish;English;Estonian;Faroese;Fiji Hindi;Finnish;Galician;German;Hungarian;Ido;Iloko;Indonesian;Interlingua;Interlingue;Italian;Javanese;Kinyarwanda;Latin;Latvian;Lithuanian;lumbaart;Luxembourgish;Malay;Mirandese;Nauru;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Pangasinan;Piedmontese;Polish;Portuguese;Quechua;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Sicilian;Simple English;Slovak;Slovenian;Spanish;Swahili;Swedish;Turkish;Upper Sorbian;Uzbek;Vietnamese;Voro;Waray;Welsh;Yoruba">Manila</name>
+		<name normalized="manilias." languages="Lojban">manilias.</name>
+		<name normalized="Manilla" languages="Dutch;Western Frisian">Manilla</name>
+		<name normalized="Manillah" languages="Nahuatl">Manillah</name>
+		<name normalized="Manille" languages="French;Malagasy">Manille</name>
+		<name normalized="Manilo" languages="Esperanto">Manilo</name>
+		<name normalized="Manyl" languages="Haitian">Manyl</name>
+		<name normalized="Manila" languages="Icelandic">Maníla</name>
+		<name normalized="Maynila" languages="Tagalog;Volapuk">Maynila</name>
+		<name normalized="Menila" languages="Pampanga">Menila</name>
+		<name normalized="Μανιλα" languages="Greek">Μανίλα</name>
+		<name normalized="Goрad Мaнiлa" languages="Belarusian">Горад Маніла</name>
+		<name normalized="Мaнiлae" languages="Ossetic">Манилæ</name>
+		<name normalized="Мaнiлa" languages="Bulgarian;Chechen;Kazakh;Macedonian;Mongolian;Russian;Sakha;Serbian;Tajik">Манила</name>
+		<name normalized="Мaнiлa" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Маніла</name>
+		<name normalized="Mանիlա" languages="Armenian">Մանիլա</name>
+		<name normalized="מאnידא" languages="Yiddish">מאנילא</name>
+		<name normalized="מnידh" languages="Hebrew">מנילה</name>
+		<name normalized="mאنىلא" languages="Uyghur">مانىلا</name>
+		<name normalized="mאنyلא" languages="Arabic;Pashto">مانيلا</name>
+		<name normalized="mאنیل" languages="Persian">مانیل</name>
+		<name normalized="mאنیلא" languages="Sorani Kurdish">مانیلا</name>
+		<name normalized="mنیلא" languages="Urdu">منیلا</name>
+		<name normalized="mnilा" languages="Marathi;Newari">मनिला</name>
+		<name normalized="mnilा" languages="Hindi">मनीला</name>
+		<name normalized="m্yাnilা" languages="Bengali">ম্যানিলা</name>
+		<name normalized="mnilਾ" languages="Punjabi">ਮਨੀਲਾ</name>
+		<name normalized="ମାନିଲା" languages="Oriya">ମାନିଲା</name>
+		<name normalized="மணிலா" languages="Tamil">மணிலா</name>
+		<name normalized="మనీలా" languages="Telugu">మనీలా</name>
+		<name normalized="ಮನಿಲ" languages="Kannada">ಮನಿಲ</name>
+		<name normalized="മനില" languages="Malayalam">മനില</name>
+		<name normalized="මැනිලා" languages="Sinhala">මැනිලා</name>
+		<name normalized="มะนิลา" languages="Thai">มะนิลา</name>
+		<name normalized="མ་ནི་ལ།" languages="Tibetan">མ་ནི་ལ།</name>
+		<name normalized="မနီလာမြို့" languages="Burmese">မနီလာမြို့</name>
+		<name normalized="მანილა" languages="Georgian">მანილა</name>
+		<name normalized="ማኒላ" languages="Amharic">ማኒላ</name>
+		<name normalized="mnr" languages="Japanese">マニラ</name>
+		<name normalized="馬尼拉" languages="Cantonese">馬尼拉</name>
+		<name normalized="马尼拉" languages="Chinese">马尼拉</name>
+		<name normalized="마닐라" languages="Korean">마닐라</name>
+	</region>
+	<region name="Marikina" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Dakbayan sa Marikina" languages="Cebuano">Dakbayan sa Marikina</name>
+		<name normalized="Lungsod ng Marikina" languages="Tagalog">Lungsod ng Marikina</name>
+		<name normalized="Marikina" languages="Czech;Dutch;English;Finnish;Iloko;Italian;Nauru;official;Polish;Portuguese;Scots;Swedish;Vietnamese;Waray">Marikina</name>
+		<name normalized="Marikina City" languages="German;Indonesian">Marikina City</name>
+		<name normalized="Marikina Lakanbalen" languages="Pampanga">Marikina Lakanbalen</name>
+		<name normalized="Mariquina" languages="Spanish">Mariquina</name>
+		<name normalized="Siyudad na Marikina" languages="Pangasinan">Siyudad na Marikina</name>
+		<name normalized="馬利金納市" languages="Chinese">馬利金納市</name>
+		<name normalized="마리키나" languages="Korean">마리키나</name>
+	</region>
+	<region name="Marinduque" type="province" typeTranslated="province">
+		<name normalized="Marinduque" languages="Bikol Central;Cebuano;Chinese (Min Nan);Croatian;Dutch;English;French;German;Iloko;Indonesian;Latin;Malay;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Marinduque</name>
+		<name normalized="Marinduque Province" languages="English;official">Marinduque Province</name>
+		<name normalized="Propinsi Marinduque" languages="Achinese">Propinsi Marinduque</name>
+		<name normalized="Provincia di Marinduque" languages="Italian">Provincia di Marinduque</name>
+		<name normalized="Мaрiнduki" languages="Macedonian;Russian">Мариндуке</name>
+		<name normalized="mאrیندوک" languages="Persian">ماریندوک</name>
+		<name normalized="mrnduk州" languages="Japanese">マリンドゥケ州</name>
+		<name normalized="馬林杜克省" languages="Chinese">馬林杜克省</name>
+		<name normalized="마린두케 주" languages="Korean">마린두케 주</name>
+	</region>
+	<region name="Masbate" type="province" typeTranslated="province">
+		<name normalized="Masbate" languages="Bikol Central;Cebuano;Chinese (Min Nan);Croatian;Dutch;English;Finnish;French;German;Iloko;Indonesian;Latin;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Masbate</name>
+		<name normalized="Masbate Province" languages="English;official">Masbate Province</name>
+		<name normalized="Propinsi Masbate" languages="Achinese">Propinsi Masbate</name>
+		<name normalized="Provincia de Masbate" languages="Spanish">Provincia de Masbate</name>
+		<name normalized="Provincia di Masbate" languages="Italian">Provincia di Masbate</name>
+		<name normalized="Мaсbati" languages="Macedonian;Russian">Масбате</name>
+		<name normalized="mאسbאth" languages="Persian">ماسباته</name>
+		<name normalized="msbt州" languages="Japanese">マスバテ州</name>
+		<name normalized="馬士弼" languages="Cantonese">馬士弼</name>
+		<name normalized="馬斯巴特省" languages="Chinese">馬斯巴特省</name>
+		<name normalized="마스바테 주" languages="Korean">마스바테 주</name>
+	</region>
+	<region name="Mindoro Occidental" type="province" typeTranslated="province">
+		<name normalized="Kasadpang Mindoro" languages="Cebuano">Kasadpang Mindoro</name>
+		<name normalized="Mindoro Occidental" languages="Catalan;English;French;Occitan;official;Spanish">Mindoro Occidental</name>
+		<name normalized="Mindoro Occidental Province" languages="English;official">Mindoro Occidental Province</name>
+		<name normalized="Occidental Mindoro" languages="Bikol Central;Chinese (Min Nan);Dutch;English;German;Iloko;Indonesian;Norwegian (bokmal);Pampanga;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Occidental Mindoro</name>
+		<name normalized="Propinsi Occidental Mindoro" languages="Achinese">Propinsi Occidental Mindoro</name>
+		<name normalized="Provincia di Occidental Mindoro" languages="Italian">Provincia di Occidental Mindoro</name>
+		<name normalized="Zapadiн Мiнdoрo" languages="Macedonian">Западен Миндоро</name>
+		<name normalized="Zapadный Мiнdoрo" languages="Russian">Западный Миндоро</name>
+		<name normalized="mیندوrو غrbی" languages="Persian">میندورو غربی</name>
+		<name normalized="西mndr州" languages="Japanese">西ミンドロ州</name>
+		<name normalized="西民都洛省" languages="Chinese">西民都洛省</name>
+		<name normalized="서민도로 주" languages="Korean">서민도로 주</name>
+	</region>
+	<region name="Mindoro Oriental" type="province" typeTranslated="province">
+		<name normalized="Mindoro Oriental" languages="Catalan;English;French;Occitan;official;Spanish">Mindoro Oriental</name>
+		<name normalized="Mindoro Oriental Province" languages="English;official">Mindoro Oriental Province</name>
+		<name normalized="Mindoro Orientalis" languages="Latin">Mindoro Orientalis</name>
+		<name normalized="New Mindoro" languages="Pangasinan">New Mindoro</name>
+		<name normalized="Oriental Mindoro" languages="Bikol Central;Chinese (Min Nan);Dutch;English;German;Iloko;Indonesian;Malay;Norwegian (bokmal);Pampanga;Polish;Swedish;Turkish;Vietnamese;Waray">Oriental Mindoro</name>
+		<name normalized="Propinsi Oriental Mindoro" languages="Achinese">Propinsi Oriental Mindoro</name>
+		<name normalized="Provincia di Oriental Mindoro" languages="Italian">Provincia di Oriental Mindoro</name>
+		<name normalized="Sidlakang Mindoro" languages="Cebuano">Sidlakang Mindoro</name>
+		<name normalized="Silangang Mindoro" languages="Tagalog">Silangang Mindoro</name>
+		<name normalized="Voсtocный Мiнdoрo" languages="Russian">Восточный Миндоро</name>
+		<name normalized="Iсtociн Мiнdoрo" languages="Macedonian">Источен Миндоро</name>
+		<name normalized="mیندوrو شrqی" languages="Persian">میندورو شرقی</name>
+		<name normalized="東mndr州" languages="Japanese">東ミンドロ州</name>
+		<name normalized="東民都洛省" languages="Chinese">東民都洛省</name>
+		<name normalized="동민도로 주" languages="Korean">동민도로 주</name>
+	</region>
+	<region name="Misamis Occidental" type="province" typeTranslated="province">
+		<name normalized="Misamis Occidental" languages="Bikol Central;Catalan;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Portuguese;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Misamis Occidental</name>
+		<name normalized="Misamis Occidental Province" languages="English;official">Misamis Occidental Province</name>
+		<name normalized="Okcidenta Misamiso" languages="Esperanto">Okcidenta Misamiso</name>
+		<name normalized="Propinsi Misamis Occidental" languages="Achinese">Propinsi Misamis Occidental</name>
+		<name normalized="Provincia di Misamis Occidental" languages="Italian">Provincia di Misamis Occidental</name>
+		<name normalized="Zapadiн Мiсaмiс" languages="Macedonian">Западен Мисамис</name>
+		<name normalized="Zapadный Мiсaмiс" languages="Russian">Западный Мисамис</name>
+		<name normalized="mیسאmی غrbی" languages="Persian">میسامی غربی</name>
+		<name normalized="西msms州" languages="Japanese">西ミサミス州</name>
+		<name normalized="西米薩米斯省" languages="Chinese">西米薩米斯省</name>
+		<name normalized="서미사미스 주" languages="Korean">서미사미스 주</name>
+	</region>
+	<region name="Misamis Oriental" type="province" typeTranslated="province">
+		<name normalized="Misamis Oriental" languages="Bikol Central;Catalan;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Misamis Oriental</name>
+		<name normalized="Misamis Oriental Province" languages="English;official">Misamis Oriental Province</name>
+		<name normalized="Orienta Misamiso" languages="Esperanto">Orienta Misamiso</name>
+		<name normalized="Propinsi Misamis Oriental" languages="Achinese">Propinsi Misamis Oriental</name>
+		<name normalized="Provincia di Misamis Oriental" languages="Italian">Provincia di Misamis Oriental</name>
+		<name normalized="Voсtocный Мiсaмiс" languages="Russian">Восточный Мисамис</name>
+		<name normalized="Iсtociн Мiсaмiс" languages="Macedonian">Источен Мисамис</name>
+		<name normalized="mیسאmی شrqی" languages="Persian">میسامی شرقی</name>
+		<name normalized="東msms州" languages="Japanese">東ミサミス州</name>
+		<name normalized="東米薩米斯省" languages="Chinese">東米薩米斯省</name>
+		<name normalized="동미사미스 주" languages="Korean">동미사미스 주</name>
+	</region>
+	<region name="Mountain Province" type="province" typeTranslated="province">
+		<name normalized="Bergsprovinsen" languages="Swedish">Bergsprovinsen</name>
+		<name normalized="Bukid nga Lalawigan" languages="Waray">Bukid nga Lalawigan</name>
+		<name normalized="Dag Bolgesi" languages="Turkish">Dağ Bölgesi</name>
+		<name normalized="La Montana" languages="Norwegian (bokmal)">La Montaña</name>
+		<name normalized="Lalawigang Bulubundukin" languages="Pampanga;Tagalog">Lalawigang Bulubundukin</name>
+		<name normalized="Luyag na Palandey" languages="Pangasinan">Luyag na Palandey</name>
+		<name normalized="Mountain Province" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Italian;Occitan;official;Polish;Vietnamese">Mountain Province</name>
+		<name normalized="Propinsi Bulubundukin" languages="Achinese">Propinsi Bulubundukin</name>
+		<name normalized="Provincia de La Montana" languages="Spanish">Provincia de La Montaña</name>
+		<name normalized="Provinsi Pegunungan" languages="Indonesian">Provinsi Pegunungan</name>
+		<name normalized="Goрнai pрoviнtii" languages="Russian">Горная провинция</name>
+		<name normalized="Pлaнiнсka pokрaiнa" languages="Macedonian">Планинска покраина</name>
+		<name normalized="mאونtین" languages="Persian">ماونتین</name>
+		<name normalized="muntn州" languages="Japanese">マウンテン州</name>
+		<name normalized="高山省" languages="Chinese">高山省</name>
+		<name normalized="마운틴 주" languages="Korean">마운틴 주</name>
+	</region>
+	<region name="Muntinlupa" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Dakbayan sa Muntinlupa" languages="Cebuano">Dakbayan sa Muntinlupa</name>
+		<name normalized="Lungsod ng Muntinlupa" languages="Tagalog">Lungsod ng Muntinlupa</name>
+		<name normalized="Muntinlupa" languages="Dutch;English;Finnish;French;Iloko;Indonesian;Italian;official;Polish;Portuguese;Spanish;Swedish;Vietnamese;Waray">Muntinlupa</name>
+		<name normalized="Muntinlupa City" languages="German">Muntinlupa City</name>
+		<name normalized="Muntinlupa Lakanbalen" languages="Pampanga">Muntinlupa Lakanbalen</name>
+		<name normalized="Siyudad na Muntinlupa" languages="Pangasinan">Siyudad na Muntinlupa</name>
+		<name normalized="Мuнtiнлupa" languages="Bulgarian;Russian">Мунтинлупа</name>
+		<name normalized="מvntיnדvpא" languages="Yiddish">מונטינלופא</name>
+		<name normalized="mntnrp" languages="Japanese">モンテンルパ</name>
+		<name normalized="文珍俞巴市" languages="Chinese">文珍俞巴市</name>
+		<name normalized="문틴루파" languages="Korean">문틴루파</name>
+	</region>
+	<region name="Naga" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Naga" languages="Bikol Central;Catalan;Cebuano;Croatian;Dutch;English;Finnish;French;German;Italian;Javanese;Lithuanian;Malay;official;Polish;Portuguese;Swedish;Tagalog;Waray">Naga</name>
+		<name normalized="Nagovia" languages="Slovak">Nágovia</name>
+		<name normalized="Нaga" languages="Russian">Нага</name>
+	</region>
+	<region name="Navotas" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Dakbayan sa Navotas" languages="Cebuano">Dakbayan sa Navotas</name>
+		<name normalized="Lungsod ng Navotas" languages="Tagalog">Lungsod ng Navotas</name>
+		<name normalized="Navotas" languages="Dutch;English;Finnish;Iloko;Indonesian;Italian;official;Polish;Swedish;Vietnamese;Waray">Navotas</name>
+		<name normalized="Navotas City" languages="German">Navotas City</name>
+		<name normalized="Navotas Lakanbalen" languages="Pampanga">Navotas Lakanbalen</name>
+		<name normalized="Siyudad na Navotas" languages="Pangasinan">Siyudad na Navotas</name>
+		<name normalized="纳沃塔斯" languages="Chinese">纳沃塔斯</name>
+		<name normalized="나보타스" languages="Korean">나보타스</name>
+	</region>
+	<region name="Negros Occidental" type="province" typeTranslated="province">
+		<name normalized="Negros ed Sagor" languages="Pangasinan">Negros ed Sagor</name>
+		<name normalized="Negros Occidental" languages="Bikol Central;Catalan;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Negros Occidental</name>
+		<name normalized="Negros Occidental Province" languages="English;official">Negros Occidental Province</name>
+		<name normalized="Okcidenta Negroso" languages="Esperanto">Okcidenta Negroso</name>
+		<name normalized="Propinsi Negros Occidental" languages="Achinese">Propinsi Negros Occidental</name>
+		<name normalized="Provincia di Negros Occidental" languages="Italian">Provincia di Negros Occidental</name>
+		<name normalized="Zapadiн Нigрoс" languages="Macedonian">Западен Негрос</name>
+		<name normalized="Zapadный Нigрoс" languages="Russian">Западный Негрос</name>
+		<name normalized="نgrو غrbی" languages="Persian">نگرو غربی</name>
+		<name normalized="西ngrs州" languages="Japanese">西ネグロス州</name>
+		<name normalized="西內格羅省" languages="Chinese">西內格羅省</name>
+		<name normalized="서네그로스 주" languages="Korean">서네그로스 주</name>
+	</region>
+	<region name="Negros Oriental" type="province" typeTranslated="province">
+		<name normalized="Negros Oriental" languages="Bikol Central;Catalan;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Malay;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Portuguese;Simple English;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Negros Oriental</name>
+		<name normalized="Negros Oriental Province" languages="English;official">Negros Oriental Province</name>
+		<name normalized="Orienta Negroso" languages="Esperanto">Orienta Negroso</name>
+		<name normalized="Propinsi Negros Oriental" languages="Achinese">Propinsi Negros Oriental</name>
+		<name normalized="Provincia di Negros Oriental" languages="Italian">Provincia di Negros Oriental</name>
+		<name normalized="Voсtocный Нigрoс" languages="Russian">Восточный Негрос</name>
+		<name normalized="Iсtociн Нigрoс" languages="Macedonian">Источен Негрос</name>
+		<name normalized="نgrو شrqی" languages="Persian">نگرو شرقی</name>
+		<name normalized="東ngrs州" languages="Japanese">東ネグロス州</name>
+		<name normalized="東內格羅省" languages="Chinese">東內格羅省</name>
+		<name normalized="동네그로스 주" languages="Korean">동네그로스 주</name>
+	</region>
+	<region name="North Cotabato" type="province" typeTranslated="province">
+		<name normalized="Cotabato" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Latin;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Cotabato</name>
+		<name normalized="Cotabato Province" languages="English;official">Cotabato Province</name>
+		<name normalized="North Cotabato" languages="English;official">North Cotabato</name>
+		<name normalized="North Cotabato Province" languages="English;official">North Cotabato Province</name>
+		<name normalized="Propinsi Cotabato" languages="Achinese">Propinsi Cotabato</name>
+		<name normalized="Provincia de Cotabato" languages="Spanish">Provincia de Cotabato</name>
+		<name normalized="Provincia di Cotabato" languages="Italian">Provincia di Cotabato</name>
+		<name normalized="Kotabato" languages="Macedonian;Russian">Котабато</name>
+		<name normalized="کوtאbאtو" languages="Persian">کوتاباتو</name>
+		<name normalized="ktbt州" languages="Japanese">コタバト州</name>
+		<name normalized="哥打巴托省" languages="Chinese">哥打巴托省</name>
+		<name normalized="코타바토 주" languages="Korean">코타바토 주</name>
+	</region>
+	<region name="Northern Samar" type="province" typeTranslated="province">
+		<name normalized="Amianan a Samar" languages="Iloko">Amianan a Samar</name>
+		<name normalized="Amihanang Samar" languages="Cebuano">Amihanang Samar</name>
+		<name normalized="Bac Samar" languages="Vietnamese">Bắc Samar</name>
+		<name normalized="Hilagang Samar" languages="Tagalog">Hilagang Samar</name>
+		<name normalized="Illa Samar" languages="Galician">Illa Samar</name>
+		<name normalized="Insula Samar" languages="Romanian">Insula Samar</name>
+		<name normalized="Insulo Samaro" languages="Esperanto">Insulo Samaro</name>
+		<name normalized="Isla de Samar" languages="Spanish">Isla de Sámar</name>
+		<name normalized="Isola di Samar" languages="Italian">Isola di Samar</name>
+		<name normalized="Kuzey Samar" languages="Turkish">Kuzey Samar</name>
+		<name normalized="Norda Samaro" languages="Esperanto">Norda Samaro</name>
+		<name normalized="Norra Samar" languages="Swedish">Norra Samar</name>
+		<name normalized="Norte san Samar" languages="Waray">Norte san Samar</name>
+		<name normalized="Northern Samar" languages="Bikol Central;Chinese (Min Nan);Dutch;English;German;Norwegian (bokmal);official;Polish">Northern Samar</name>
+		<name normalized="Northern Samar Province" languages="English;official">Northern Samar Province</name>
+		<name normalized="Pangulung Samar" languages="Pampanga">Pangulung Samar</name>
+		<name normalized="Propinsi Samar" languages="Achinese">Propinsi Samar</name>
+		<name normalized="Propinsi Samar Baroh" languages="Achinese">Propinsi Samar Barôh</name>
+		<name normalized="Provincia di Northern Samar" languages="Italian">Provincia di Northern Samar</name>
+		<name normalized="Provincia di Samar" languages="Italian">Provincia di Samar</name>
+		<name normalized="Provincia de Samar" languages="Catalan">Província de Samar</name>
+		<name normalized="Samar" languages="Basque;Bikol Central;Breton;Catalan;Cebuano;Chinese (Min Nan);Croatian;Danish;Dutch;English;Estonian;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pangasinan;Polish;Portuguese;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh">Samar</name>
+		<name normalized="Samar du Nord" languages="French">Samar du Nord</name>
+		<name normalized="Samar Province" languages="English;official;Pampanga">Samar Province</name>
+		<name normalized="Samar Septentrional" languages="Catalan">Samar Septentrional</name>
+		<name normalized="Samar Utara" languages="Indonesian">Samar Utara</name>
+		<name normalized="Samara provinco" languages="Esperanto">Samara provinco</name>
+		<name normalized="Samaras" languages="Lithuanian">Samaras</name>
+		<name normalized="Samar" languages="Spanish">Sámar</name>
+		<name normalized="Samar del Norte" languages="Spanish">Sámar del Norte</name>
+		<name normalized="Oya Samar" languages="Norwegian Nynorsk">Øya Samar</name>
+		<name normalized="Σαμαρ" languages="Greek">Σαμάρ</name>
+		<name normalized="Voсtрaў Сaмaр" languages="Belarusian">Востраў Самар</name>
+		<name normalized="Сaмaр" languages="Bulgarian;Chuvash;Macedonian;Russian;Serbian">Самар</name>
+		<name normalized="Сiviрiн Сaмaр" languages="Macedonian">Северен Самар</name>
+		<name normalized="Сiviрный Сaмaр" languages="Russian">Северный Самар</name>
+		<name normalized="سאmאr" languages="Persian">سامار</name>
+		<name normalized="سאmאr شmאلی" languages="Persian">سامار شمالی</name>
+		<name normalized="სამარი" languages="Georgian">სამარი</name>
+		<name normalized="smr州" languages="Japanese">サマル州</name>
+		<name normalized="smーr島" languages="Japanese">サマール島</name>
+		<name normalized="北smr州" languages="Japanese">北サマル州</name>
+		<name normalized="北薩馬省" languages="Chinese">北薩馬省</name>
+		<name normalized="薩馬島" languages="Chinese">薩馬島</name>
+		<name normalized="薩馬省" languages="Chinese">薩馬省</name>
+		<name normalized="북사마르 주" languages="Korean">북사마르 주</name>
+		<name normalized="사마르 섬" languages="Korean">사마르 섬</name>
+		<name normalized="사마르 주" languages="Korean">사마르 주</name>
+	</region>
+	<region name="Nueva Ecija" type="province" typeTranslated="province">
+		<name normalized="Balon Ecija" languages="Pangasinan">Balon Ecija</name>
+		<name normalized="Nova Ekijo" languages="Esperanto">Nova Ekijo</name>
+		<name normalized="Nueva Ecija" languages="Bikol Central;Catalan;Cebuano;Chinese (Min Nan);Czech;Dutch;English;French;German;Iloko;Indonesian;Latin;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Portuguese;Swedish;Tagalog;Turkish;Vietnamese;Waray">Nueva Ecija</name>
+		<name normalized="Nueva Ecija Province" languages="English;official">Nueva Ecija Province</name>
+		<name normalized="Nueva Ecija" languages="Spanish">Nueva Écija</name>
+		<name normalized="Propinsi Nueva Ecija" languages="Achinese">Propinsi Nueva Ecija</name>
+		<name normalized="Provincia di Nueva Ecija" languages="Italian">Provincia di Nueva Ecija</name>
+		<name normalized="Нova Itija" languages="Macedonian">Нова Еција</name>
+		<name normalized="Нueva-Eсika" languages="Russian">Нуэва-Эсиха</name>
+		<name normalized="نوئh‌وא אکیjא" languages="Persian">نوئه‌وا اکیجا</name>
+		<name normalized="neva・esh州" languages="Japanese">ヌエヴァ・エシハ州</name>
+		<name normalized="新怡詩夏省" languages="Chinese">新怡詩夏省</name>
+		<name normalized="누에바에시하 주" languages="Korean">누에바에시하 주</name>
+	</region>
+	<region name="Nueva Vizcaya" type="province" typeTranslated="province">
+		<name normalized="Balon Vizcaya" languages="Pangasinan">Balon Vizcaya</name>
+		<name normalized="Bizkaia Berria" languages="Basque">Bizkaia Berria</name>
+		<name normalized="Nova Biskajo" languages="Esperanto">Nova Biskajo</name>
+		<name normalized="Nueva Vizcaya" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Nueva Vizcaya</name>
+		<name normalized="Nueva Vizcaya Province" languages="English;official">Nueva Vizcaya Province</name>
+		<name normalized="Propinsi Nueva Vizcaya" languages="Achinese">Propinsi Nueva Vizcaya</name>
+		<name normalized="Provincia de Nueva Vizcaya" languages="Spanish">Provincia de Nueva Vizcaya</name>
+		<name normalized="Provincia di Nueva Vizcaya" languages="Italian">Provincia di Nueva Vizcaya</name>
+		<name normalized="Нova Viсkaja" languages="Macedonian">Нова Вискаја</name>
+		<name normalized="Нueva-Viсkai" languages="Russian">Нуэва-Виская</name>
+		<name normalized="نوئh‌وא ویزکאیא" languages="Persian">نوئه‌وا ویزکایا</name>
+		<name normalized="neva・visky州" languages="Japanese">ヌエヴァ・ヴィスカヤ州</name>
+		<name normalized="新比斯開省" languages="Chinese">新比斯開省</name>
+		<name normalized="누에바비스카야 주" languages="Korean">누에바비스카야 주</name>
+	</region>
+	<region name="Olongapo" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Bandaraya Olongapo" languages="Malay">Bandaraya Olongapo</name>
+		<name normalized="Ciudad de Olongapo" languages="Chavacano de Zamboanga">Ciudad de Olongapo</name>
+		<name normalized="Dakbayan sa Olongapo" languages="Cebuano">Dakbayan sa Olongapo</name>
+		<name normalized="Lungsod ng Olongapo" languages="Tagalog">Lungsod ng Olongapo</name>
+		<name normalized="Olongapo" languages="Bikol Central;Croatian;Dutch;English;French;Iloko;Italian;Latin;official;Polish;Vietnamese;Waray">Olongapo</name>
+		<name normalized="Olongapo City" languages="German;Indonesian;Swedish">Olongapo City</name>
+		<name normalized="Olongapo Lakanbalen" languages="Pampanga">Olongapo Lakanbalen</name>
+		<name normalized="Olongapo" languages="Spanish">Olóngapo</name>
+		<name normalized="Siyudad na Olongapo" languages="Pangasinan">Siyudad na Olóngapo</name>
+		<name normalized="奥隆阿波" languages="Chinese">奥隆阿波</name>
+		<name normalized="올롱가포" languages="Korean">올롱가포</name>
+	</region>
+	<region name="Ormoc" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Dakbayan sa Ormoc" languages="Cebuano">Dakbayan sa Ormoc</name>
+		<name normalized="Lungsod ng Ormoc" languages="Tagalog">Lungsod ng Ormoc</name>
+		<name normalized="Ormoc" languages="Bikol Central;Dutch;English;French;Iloko;Italian;official;Polish;Simple English;Spanish;Vietnamese;Waray">Ormoc</name>
+		<name normalized="Ormoc City" languages="German;Indonesian;Swedish">Ormoc City</name>
+		<name normalized="Ormoc Lakanbalen" languages="Pampanga">Ormoc Lakanbalen</name>
+		<name normalized="ormtk" languages="Japanese">オルモック</name>
+		<name normalized="오르모크" languages="Korean">오르모크</name>
+	</region>
+	<region name="Palawan" type="province" typeTranslated="province">
+		<name normalized="Palawan" languages="Bikol Central;Catalan;Cebuano;Chavacano de Zamboanga;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Finnish;German;Iloko;Indonesian;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Serbo-Croatian;Simple English;Slovenian;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh">Palawan</name>
+		<name normalized="Palawan Province" languages="English;official">Palawan Province</name>
+		<name normalized="Paragoia" languages="Latin">Paragoia</name>
+		<name normalized="Propinsi Palawan" languages="Achinese">Propinsi Palawan</name>
+		<name normalized="Province de Palawan" languages="French">Province de Palawan</name>
+		<name normalized="Provincia di Palawan" languages="Italian">Provincia di Palawan</name>
+		<name normalized="Provinco Palavano" languages="Esperanto">Provinco Palavano</name>
+		<name normalized="Voсtрaў Paлavaн" languages="Belarusian">Востраў Палаван</name>
+		<name normalized="Paлavaн" languages="Bulgarian;Macedonian;Russian;Serbian;Ukrainian">Палаван</name>
+		<name normalized="bאلאوאن" languages="Arabic">بالاوان</name>
+		<name normalized="pאلאوאن" languages="Persian">پالاوان</name>
+		<name normalized="prwn州" languages="Japanese">パラワン州</name>
+		<name normalized="巴拉望省" languages="Chinese">巴拉望省</name>
+		<name normalized="팔라완 주" languages="Korean">팔라완 주</name>
+	</region>
+	<region name="Pampanga" type="province" typeTranslated="province">
+		<name normalized="Pampanga" languages="Bikol Central;Catalan;Cebuano;Chinese (Min Nan);Dutch;English;Finnish;French;German;Iloko;Indonesian;Latin;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Portuguese;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Pampanga</name>
+		<name normalized="Pampanga Province" languages="English;official">Pampanga Province</name>
+		<name normalized="Pampango" languages="Esperanto">Pampango</name>
+		<name normalized="Propinsi Pampanga" languages="Achinese">Propinsi Pampanga</name>
+		<name normalized="Provincia di Pampanga" languages="Italian">Provincia di Pampanga</name>
+		<name normalized="Paмpaнga" languages="Macedonian;Russian">Пампанга</name>
+		<name normalized="pאmpאنgא" languages="Persian">پامپانگا</name>
+		<name normalized="pnpng州" languages="Japanese">パンパンガ州</name>
+		<name normalized="邦板牙省" languages="Chinese">邦板牙省</name>
+		<name normalized="팜팡가 주" languages="Korean">팜팡가 주</name>
+	</region>
+	<region name="Pangasinan" type="province" typeTranslated="province">
+		<name normalized="Luyag na Pangasinan" languages="Pangasinan">Luyag na Pangasinan</name>
+		<name normalized="Pangasinan" languages="Bikol Central;Cebuano;Chavacano de Zamboanga;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Javanese;Latin;Malay;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Pangasinan</name>
+		<name normalized="Pangasinan Province" languages="English;official">Pangasinan Province</name>
+		<name normalized="Pangasinano" languages="Esperanto">Pangasinano</name>
+		<name normalized="Pangasinan" languages="Portuguese;Spanish">Pangasinán</name>
+		<name normalized="Propinsi Pangasinan" languages="Achinese">Propinsi Pangasinan</name>
+		<name normalized="Provincia di Pangasinan" languages="Italian">Provincia di Pangasinan</name>
+		<name normalized="Paнgaсiнaн" languages="Macedonian;Russian">Пангасинан</name>
+		<name normalized="pאنgאسینאن" languages="Persian">پانگاسینان</name>
+		<name normalized="pngsnn州" languages="Japanese">パンガシナン州</name>
+		<name normalized="邦阿西楠省" languages="Chinese">邦阿西楠省</name>
+		<name normalized="팡가시난 주" languages="Korean">팡가시난 주</name>
+	</region>
+	<region name="Paranaque" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Dakbayan sa Paranaque" languages="Cebuano">Dakbayan sa Parañaque</name>
+		<name normalized="Lungsod ng Paranaque" languages="Tagalog">Lungsod ng Parañaque</name>
+		<name normalized="Paranaque" languages="English;official">Paranaque</name>
+		<name normalized="Paranaque" languages="Dutch;English;Esperanto;Finnish;French;Iloko;Italian;Polish;Portuguese;Spanish;Swedish;Vietnamese;Waray">Parañaque</name>
+		<name normalized="Paranaque City" languages="German;Indonesian">Parañaque City</name>
+		<name normalized="Paranaque Lakanbalen" languages="Pampanga">Parañaque Lakanbalen</name>
+		<name normalized="Siyudad na Paranaque" languages="Pangasinan">Siyudad na Parañaque</name>
+		<name normalized="Paрaнak" languages="Russian">Паранак</name>
+		<name normalized="prnyーk" languages="Japanese">パラニャーケ</name>
+		<name normalized="帕拉納克市" languages="Chinese">帕拉納克市</name>
+		<name normalized="琶兰那克" languages="Wu">琶兰那克</name>
+		<name normalized="파라냐케" languages="Korean">파라냐케</name>
+	</region>
+	<region name="Pasay" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Bandar Raya Pasay" languages="Malay">Bandar Raya Pasay</name>
+		<name normalized="Dakbayan sa Pasay" languages="Cebuano">Dakbayan sa Pasay</name>
+		<name normalized="Lungsod ng Pasay" languages="Tagalog">Lungsod ng Pasay</name>
+		<name normalized="Pasay" languages="Dutch;English;Finnish;French;Iloko;Italian;Latin;official;Polish;Portuguese;Scots;Vietnamese;Waray">Pasay</name>
+		<name normalized="Pasay City" languages="German;Indonesian;Swedish">Pasay City</name>
+		<name normalized="Pasay Lakanbalen" languages="Pampanga">Pasay Lakanbalen</name>
+		<name normalized="Pasay" languages="Spanish">Pásay</name>
+		<name normalized="Siyudad na Pasay" languages="Pangasinan">Siyudad na Pasay</name>
+		<name normalized="ปาไซ" languages="Thai">ปาไซ</name>
+		<name normalized="psi" languages="Japanese">パサイ</name>
+		<name normalized="帕賽市" languages="Chinese">帕賽市</name>
+		<name normalized="파사이" languages="Korean">파사이</name>
+	</region>
+	<region name="Pasig" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Dakbayan sa Pasig" languages="Cebuano">Dakbayan sa Pasig</name>
+		<name normalized="Lungsod ng Pasig" languages="Tagalog">Lungsod ng Pasig</name>
+		<name normalized="Pasig" languages="Dutch;English;Esperanto;Finnish;French;Iloko;Italian;official;Polish;Portuguese;Swedish;Vietnamese;Waray">Pasig</name>
+		<name normalized="Pasig City" languages="German;Indonesian;Occitan">Pasig City</name>
+		<name normalized="Pasig Lakanbalen" languages="Pampanga">Pasig Lakanbalen</name>
+		<name normalized="Pasig" languages="Spanish">Pásig</name>
+		<name normalized="Siyudad na Pasig" languages="Pangasinan">Siyudad na Pasig</name>
+		<name normalized="Syudad nin Pasig" languages="Bikol Central">Syudad nin Pasig</name>
+		<name normalized="pstg" languages="Japanese">パシッグ</name>
+		<name normalized="帕西格" languages="Chinese">帕西格</name>
+		<name normalized="파시그" languages="Korean">파시그</name>
+	</region>
+	<region name="Puerto Princesa" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Dakbayan sa Puerto Princesa" languages="Cebuano">Dakbayan sa Puerto Princesa</name>
+		<name normalized="Lungsod ng Puerto Princesa" languages="Tagalog">Lungsod ng Puerto Princesa</name>
+		<name normalized="Puerto Princesa" languages="Dutch;English;French;German;Iloko;Italian;official;Polish;Spanish;Vietnamese;Waray">Puerto Princesa</name>
+		<name normalized="Puerto Princesa City" languages="Danish;Indonesian;Swedish">Puerto Princesa City</name>
+		<name normalized="Puerto Princesa Lakanbalen" languages="Pampanga">Puerto Princesa Lakanbalen</name>
+		<name normalized="Syudad nin Puerto Princesa" languages="Bikol Central">Syudad nin Puerto Princesa</name>
+		<name normalized="Puiрto Pрiнсiсa" languages="Bulgarian">Пуерто Принсеса</name>
+		<name normalized="Pueрto-Pрiнсiсa" languages="Russian">Пуэрто-Принсеса</name>
+		<name normalized="pوrtوprنسس" languages="Persian">پورتوپرنسس</name>
+		<name normalized="pert・prnss" languages="Japanese">プエルト・プリンセサ</name>
+		<name normalized="普林塞薩港" languages="Chinese">普林塞薩港</name>
+		<name normalized="푸에르토프린세사" languages="Korean">푸에르토프린세사</name>
+	</region>
+	<region name="Quezon" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Propinsi Quezon" languages="Achinese">Propinsi Quezon</name>
+		<name normalized="Provincia de Quezon" languages="Spanish">Provincia de Quezón</name>
+		<name normalized="Provincia di Quezon" languages="Italian">Provincia di Quezon</name>
+		<name normalized="Quezon" languages="Bikol Central;Cebuano;Chavacano de Zamboanga;Chinese (Min Nan);Dutch;English;French;German;Iloko;Latin;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Quezon</name>
+		<name normalized="Quezon Province" languages="English;official">Quezon Province</name>
+		<name normalized="Kizoн" languages="Macedonian">Кезон</name>
+		<name normalized="Kiсoн" languages="Russian">Кесон</name>
+		<name normalized="کزون" languages="Persian">کزون</name>
+		<name normalized="ksn州" languages="Japanese">ケソン州</name>
+		<name normalized="奎松省" languages="Chinese">奎松省</name>
+		<name normalized="케손 주" languages="Korean">케손 주</name>
+	</region>
+	<region name="Quirino" type="province" typeTranslated="province">
+		<name normalized="Propinsi Quirino" languages="Achinese">Propinsi Quirino</name>
+		<name normalized="Provincia de Quirino" languages="Spanish">Provincia de Quirino</name>
+		<name normalized="Provincia di Quirino" languages="Italian">Provincia di Quirino</name>
+		<name normalized="Quirino" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Norwegian (bokmal);official;Pampanga;Pangasinan;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Quirino</name>
+		<name normalized="Quirino Province" languages="English;official">Quirino Province</name>
+		<name normalized="Kiрiнo" languages="Macedonian;Russian">Кирино</name>
+		<name normalized="کویrینو" languages="Persian">کویرینو</name>
+		<name normalized="krn州" languages="Japanese">キリノ州</name>
+		<name normalized="季里諾省" languages="Chinese">季里諾省</name>
+		<name normalized="키리노 주" languages="Korean">키리노 주</name>
+	</region>
+	<region name="Rizal" type="province" typeTranslated="province">
+		<name normalized="Propinsi Rizal" languages="Achinese">Propinsi Rizal</name>
+		<name normalized="Provincia de Rizal" languages="Spanish">Provincia de Rizal</name>
+		<name normalized="Provincia di Rizal" languages="Italian">Provincia di Rizal</name>
+		<name normalized="Rizal" languages="Bikol Central;Cebuano;Chavacano de Zamboanga;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Rizal</name>
+		<name normalized="Rizal Province" languages="English;official">Rizal Province</name>
+		<name normalized="Рizaл" languages="Macedonian">Ризал</name>
+		<name normalized="Рiсaль" languages="Russian">Рисаль</name>
+		<name normalized="rیزאل" languages="Persian">ریزال</name>
+		<name normalized="rsーr州" languages="Japanese">リサール州</name>
+		<name normalized="黎剎省" languages="Chinese">黎剎省</name>
+		<name normalized="리살 주" languages="Korean">리살 주</name>
+	</region>
+	<region name="Romblon" type="province" typeTranslated="province">
+		<name normalized="Propinsi Romblon" languages="Achinese">Propinsi Romblon</name>
+		<name normalized="Provincia de Romblon" languages="Spanish">Provincia de Romblón</name>
+		<name normalized="Provincia di Romblon" languages="Italian">Provincia di Romblon</name>
+		<name normalized="Romblon" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Portuguese;Swedish;Tagalog;Turkish;Vietnamese;Waray">Romblon</name>
+		<name normalized="Romblon Province" languages="English;official">Romblon Province</name>
+		<name normalized="Рoмbлoн" languages="Macedonian;Russian">Ромблон</name>
+		<name normalized="rوmbلون" languages="Persian">رومبلون</name>
+		<name normalized="rnbrn州" languages="Japanese">ロンブロン州</name>
+		<name normalized="朗布隆省" languages="Chinese">朗布隆省</name>
+		<name normalized="롬블론 주" languages="Korean">롬블론 주</name>
+	</region>
+	<region name="Samar" type="province" typeTranslated="province">
+		<name normalized="Illa Samar" languages="Galician">Illa Samar</name>
+		<name normalized="Insula Samar" languages="Romanian">Insula Samar</name>
+		<name normalized="Insulo Samaro" languages="Esperanto">Insulo Samaro</name>
+		<name normalized="Isla de Samar" languages="Spanish">Isla de Sámar</name>
+		<name normalized="Isola di Samar" languages="Italian">Isola di Samar</name>
+		<name normalized="Propinsi Samar" languages="Achinese">Propinsi Samar</name>
+		<name normalized="Provincia di Samar" languages="Italian">Provincia di Samar</name>
+		<name normalized="Provincia de Samar" languages="Catalan">Província de Samar</name>
+		<name normalized="Samar" languages="Basque;Bikol Central;Breton;Catalan;Cebuano;Chinese (Min Nan);Croatian;Danish;Dutch;English;Estonian;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pangasinan;Polish;Portuguese;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh">Samar</name>
+		<name normalized="Samar Province" languages="English;official;Pampanga">Samar Province</name>
+		<name normalized="Samara provinco" languages="Esperanto">Samara provinco</name>
+		<name normalized="Samaras" languages="Lithuanian">Samaras</name>
+		<name normalized="Samar" languages="Spanish">Sámar</name>
+		<name normalized="Oya Samar" languages="Norwegian Nynorsk">Øya Samar</name>
+		<name normalized="Σαμαρ" languages="Greek">Σαμάρ</name>
+		<name normalized="Voсtрaў Сaмaр" languages="Belarusian">Востраў Самар</name>
+		<name normalized="Сaмaр" languages="Bulgarian;Chuvash;Macedonian;Russian;Serbian">Самар</name>
+		<name normalized="سאmאr" languages="Persian">سامار</name>
+		<name normalized="სამარი" languages="Georgian">სამარი</name>
+		<name normalized="smr州" languages="Japanese">サマル州</name>
+		<name normalized="smーr島" languages="Japanese">サマール島</name>
+		<name normalized="薩馬島" languages="Chinese">薩馬島</name>
+		<name normalized="薩馬省" languages="Chinese">薩馬省</name>
+		<name normalized="사마르 섬" languages="Korean">사마르 섬</name>
+		<name normalized="사마르 주" languages="Korean">사마르 주</name>
+	</region>
+	<region name="San Juan" type="chartered city" typeTranslated="chartered city">
+		<name normalized="San Chuanas" languages="Lithuanian">San Chuanas</name>
+		<name normalized="San Juan" languages="Basque;Breton;Catalan;Cebuano;Croatian;Czech;Danish;Dutch;English;Finnish;French;Galician;German;Indonesian;Italian;Norwegian (bokmal);Novial;official;Polish;Portuguese;Romanian;Scots;Scottish Gaelic;Simple English;Slovak;Spanish;Swedish;Tagalog;Turkish;Waray;Welsh">San Juan</name>
+		<name normalized="San Xuan" languages="Asturian">San Xuan</name>
+		<name normalized="Sant Chuan" languages="Aragonese">Sant Chuan</name>
+		<name normalized="Σαν Χουαν" languages="Greek">Σαν Χουάν</name>
+		<name normalized="Сaн Kuaн" languages="Bulgarian;Serbian">Сан Хуан</name>
+		<name normalized="Сaн-Kuaн" languages="Belarusian;Russian;Ukrainian">Сан-Хуан</name>
+		<name normalized="סן hvאן" languages="Hebrew">סן חואן</name>
+		<name normalized="سאن خوאن" languages="Arabic">سان خوان</name>
+		<name normalized="سن خوآن" languages="Persian">سن خوآن</name>
+		<name normalized="სან-ხუანი" languages="Georgian">სან-ხუანი</name>
+		<name normalized="snhan" languages="Japanese">サンフアン</name>
+		<name normalized="圣胡安" languages="Chinese">圣胡安</name>
+		<name normalized="산후안" languages="Korean">산후안</name>
+	</region>
+	<region name="Santiago" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Dakbayan sa Santiago" languages="Cebuano">Dakbayan sa Santiago</name>
+		<name normalized="Lungsod ng Santiago" languages="Tagalog">Lungsod ng Santiago</name>
+		<name normalized="Santiago" languages="Dutch;English;French;Iloko;Italian;official;Polish;Swedish;Waray">Santiago</name>
+		<name normalized="Santiago City" languages="Bikol Central;German;Indonesian">Santiago City</name>
+		<name normalized="Santiago Lakanbalen" languages="Pampanga">Santiago Lakanbalen</name>
+		<name normalized="Siyudad na Santiago" languages="Pangasinan">Siyudad na Santiago</name>
+		<name normalized="산티아고" languages="Korean">산티아고</name>
+	</region>
+	<region name="Sarangani" type="province" typeTranslated="province">
+		<name normalized="Propinsi Sarangani" languages="Achinese">Propinsi Sarangani</name>
+		<name normalized="Provincia de Sarangani" languages="Spanish">Provincia de Sarangani</name>
+		<name normalized="Provincia di Sarangani" languages="Italian">Provincia di Sarangani</name>
+		<name normalized="Sarangani" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Sarangani</name>
+		<name normalized="Sarangani Province" languages="English;official">Sarangani Province</name>
+		<name normalized="Сaрaнgaнi" languages="Macedonian;Russian">Сарангани</name>
+		<name normalized="سאrאنgאنی" languages="Persian">سارانگانی</name>
+		<name normalized="srngn州" languages="Japanese">サランガニ州</name>
+		<name normalized="薩蘭加尼省" languages="Chinese">薩蘭加尼省</name>
+		<name normalized="사랑가니 주" languages="Korean">사랑가니 주</name>
+	</region>
+	<region name="Siquijor" type="province" typeTranslated="province">
+		<name normalized="Propinsi Siquijor" languages="Achinese">Propinsi Siquijor</name>
+		<name normalized="Provincia de Siquijor" languages="Spanish">Provincia de Siquijor</name>
+		<name normalized="Provincia di Siquijor" languages="Italian">Provincia di Siquijor</name>
+		<name normalized="Sikijoro" languages="Esperanto">Sikijoro</name>
+		<name normalized="Siquijor" languages="Bikol Central;Catalan;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Portuguese;Swedish;Tagalog;Turkish;Waray">Siquijor</name>
+		<name normalized="Siquijor Province" languages="English;official">Siquijor Province</name>
+		<name normalized="Сigijoр" languages="Macedonian">Сигијор</name>
+		<name normalized="Сikikoр" languages="Russian">Сикихор</name>
+		<name normalized="سیکیخوr" languages="Persian">سیکیخور</name>
+		<name normalized="skhr州" languages="Japanese">シキホル州</name>
+		<name normalized="錫基霍爾省" languages="Chinese">錫基霍爾省</name>
+		<name normalized="시키호르 주" languages="Korean">시키호르 주</name>
+	</region>
+	<region name="Sorsogon" type="province" typeTranslated="province">
+		<name normalized="Propinsi Sorsogon" languages="Achinese">Propinsi Sorsogon</name>
+		<name normalized="Provincia de Sorsogon" languages="Spanish">Provincia de Sorsogón</name>
+		<name normalized="Provincia di Sorsogon" languages="Italian">Provincia di Sorsogon</name>
+		<name normalized="Sorsogon" languages="Bikol Central;Cebuano;Chavacano de Zamboanga;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Latin;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Sorsogon</name>
+		<name normalized="Sorsogon Province" languages="English;official">Sorsogon Province</name>
+		<name normalized="Sorsogono" languages="Esperanto">Sorsogono</name>
+		<name normalized="Сoрсogoн" languages="Macedonian;Russian">Сорсогон</name>
+		<name normalized="سوrوسوgون" languages="Persian">سوروسوگون</name>
+		<name normalized="srsgn州" languages="Japanese">ソルソゴン州</name>
+		<name normalized="索索貢省" languages="Chinese">索索貢省</name>
+		<name normalized="소르소곤 주" languages="Korean">소르소곤 주</name>
+	</region>
+	<region name="South Cotabato" type="province" typeTranslated="province">
+		<name normalized="Abagatan a Cotabato" languages="Iloko">Abagatan a Cotabato</name>
+		<name normalized="Cotabato" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Latin;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Cotabato</name>
+		<name normalized="Cotabato Australis" languages="Latin">Cotabato Australis</name>
+		<name normalized="Cotabato del Sur" languages="Spanish">Cotabato del Sur</name>
+		<name normalized="Cotabato du Sud" languages="French">Cotabato du Sud</name>
+		<name normalized="Cotabato Province" languages="English;official">Cotabato Province</name>
+		<name normalized="Cotabato Selatan" languages="Indonesian">Cotabato Selatan</name>
+		<name normalized="Cotabato sud" languages="Occitan">Cotabato sud</name>
+		<name normalized="Guney Cotabato" languages="Turkish">Güney Cotabato</name>
+		<name normalized="Habagatang Cotabato" languages="Cebuano">Habagatang Cotabato</name>
+		<name normalized="Mauling Cotabato" languages="Pampanga">Mauling Cotabato</name>
+		<name normalized="Nam Cotabato" languages="Vietnamese">Nam Cotabato</name>
+		<name normalized="Propinsi Cotabato" languages="Achinese">Propinsi Cotabato</name>
+		<name normalized="Propinsi Cotabato Seulatan" languages="Achinese">Propinsi Cotabato Seulatan</name>
+		<name normalized="Provincia de Cotabato" languages="Spanish">Provincia de Cotabato</name>
+		<name normalized="Provincia di Cotabato" languages="Italian">Provincia di Cotabato</name>
+		<name normalized="Provincia di South Cotabato" languages="Italian">Provincia di South Cotabato</name>
+		<name normalized="South Cotabato" languages="Bikol Central;Chinese (Min Nan);Dutch;English;German;Norwegian (bokmal);official;Polish;Waray">South Cotabato</name>
+		<name normalized="South Cotabato Province" languages="English;official">South Cotabato Province</name>
+		<name normalized="Sodra Cotabato" languages="Swedish">Södra Cotabato</name>
+		<name normalized="Timog Cotabato" languages="Tagalog">Timog Cotabato</name>
+		<name normalized="Kotabato" languages="Macedonian;Russian">Котабато</name>
+		<name normalized="Юzный Kotabato" languages="Russian">Южный Котабато</name>
+		<name normalized="Juziн Kotabato" languages="Macedonian">Јужен Котабато</name>
+		<name normalized="کوtאbאtو" languages="Persian">کوتاباتو</name>
+		<name normalized="کوtאbאtو jنوbی" languages="Persian">کوتاباتو جنوبی</name>
+		<name normalized="ktbt州" languages="Japanese">コタバト州</name>
+		<name normalized="南ktbt州" languages="Japanese">南コタバト州</name>
+		<name normalized="南哥打巴托省" languages="Chinese">南哥打巴托省</name>
+		<name normalized="哥打巴托省" languages="Chinese">哥打巴托省</name>
+		<name normalized="남코타바토 주" languages="Korean">남코타바토 주</name>
+		<name normalized="코타바토 주" languages="Korean">코타바토 주</name>
+	</region>
+	<region name="Southern Leyte" type="province" typeTranslated="province">
+		<name normalized="Abagatan a Leyte" languages="Iloko">Abagatan a Leyte</name>
+		<name normalized="Guney Leyte" languages="Turkish">Güney Leyte</name>
+		<name normalized="Habagatang Leyte" languages="Cebuano">Habagatang Leyte</name>
+		<name normalized="Illa Leyte" languages="Galician">Illa Leyte</name>
+		<name normalized="Isla de Leyte" languages="Spanish">Isla de Leyte</name>
+		<name normalized="Katimugang Leyte" languages="Tagalog">Katimugang Leyte</name>
+		<name normalized="Leite" languages="Lithuanian">Leitė</name>
+		<name normalized="Lejteo" languages="Esperanto">Lejteo</name>
+		<name normalized="Leyte" languages="Basque;Bikol Central;Breton;Catalan;Cebuano;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;French;German;Iloko;Italian;Latin;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh">Leyte</name>
+		<name normalized="Leyte Adası" languages="Turkish">Leyte Adası</name>
+		<name normalized="Leyte del Sur" languages="Spanish">Leyte del Sur</name>
+		<name normalized="Leyte du Sud" languages="French">Leyte du Sud</name>
+		<name normalized="Leyte Meridional" languages="Catalan">Leyte Meridional</name>
+		<name normalized="Leyte Province" languages="English;official">Leyte Province</name>
+		<name normalized="Leyte Selatan" languages="Indonesian">Leyte Selatan</name>
+		<name normalized="Leyte Utara" languages="Indonesian">Leyte Utara</name>
+		<name normalized="Mauling Leyte" languages="Pampanga">Mauling Leyte</name>
+		<name normalized="Nam Leyte" languages="Vietnamese">Nam Leyte</name>
+		<name normalized="Propinsi Leyte" languages="Achinese">Propinsi Leyte</name>
+		<name normalized="Propinsi Leyte Tunong" languages="Achinese">Propinsi Leyte Tunong</name>
+		<name normalized="Provincia de Leyte" languages="Spanish">Provincia de Leyte</name>
+		<name normalized="Provincia di Leyte" languages="Italian">Provincia di Leyte</name>
+		<name normalized="Provincia di Southern Leyte" languages="Italian">Provincia di Southern Leyte</name>
+		<name normalized="Provinco Lejteo" languages="Esperanto">Provinco Lejteo</name>
+		<name normalized="Provincia de Leyte" languages="Catalan">Província de Leyte</name>
+		<name normalized="Pulau Leyte" languages="Indonesian">Pulau Leyte</name>
+		<name normalized="Pulo ng Leyte" languages="Tagalog">Pulo ng Leyte</name>
+		<name normalized="Southern Leyte" languages="Bikol Central;Chinese (Min Nan);Dutch;English;German;Norwegian (bokmal);official;Polish;Waray">Southern Leyte</name>
+		<name normalized="Southern Leyte Province" languages="English;official">Southern Leyte Province</name>
+		<name normalized="Suda Lejteo" languages="Esperanto">Suda Lejteo</name>
+		<name normalized="Sodra Leyte" languages="Swedish">Södra Leyte</name>
+		<name normalized="Λeιτε" languages="Greek">Λέιτε</name>
+		<name normalized="Лiйti" languages="Chuvash;Russian;Ukrainian">Лейте</name>
+		<name normalized="Лijti" languages="Macedonian;Serbian">Лејте</name>
+		<name normalized="Юzный Лiйti" languages="Russian">Южный Лейте</name>
+		<name normalized="Juziн Лijti" languages="Macedonian">Јужен Лејте</name>
+		<name normalized="דייth" languages="Hebrew">לייטה</name>
+		<name normalized="لאyty אلjنوbyة" languages="Arabic">لايتي الجنوبية</name>
+		<name normalized="لیth" languages="Persian">لیته</name>
+		<name normalized="لیth jنوbی" languages="Persian">لیته جنوبی</name>
+		<name normalized="mqאtعة لytة" languages="Arabic">مقاطعة ليتة</name>
+		<name normalized="லெய்டி மாகாணம்" languages="Tamil">லெய்டி மாகாணம்</name>
+		<name normalized="เกาะเลย์เต" languages="Thai">เกาะเลย์เต</name>
+		<name normalized="rit島" languages="Japanese">レイテ島</name>
+		<name normalized="rit州" languages="Japanese">レイテ州</name>
+		<name normalized="南rit州" languages="Japanese">南レイテ州</name>
+		<name normalized="南萊特省" languages="Chinese">南萊特省</name>
+		<name normalized="禮智省" languages="Chinese">禮智省</name>
+		<name normalized="莱特岛" languages="Chinese">莱特岛</name>
+		<name normalized="남레이테 주" languages="Korean">남레이테 주</name>
+		<name normalized="레이테 섬" languages="Korean">레이테 섬</name>
+		<name normalized="레이테 주" languages="Korean">레이테 주</name>
+	</region>
+	<region name="Sultan Kudarat" type="province" typeTranslated="province">
+		<name normalized="Propinsi Sultan Kudarat" languages="Achinese">Propinsi Sultan Kudarat</name>
+		<name normalized="Provincia de Sultan Kudarat" languages="Spanish">Provincia de Sultán Kudarat</name>
+		<name normalized="Provincia di Sultan Kudarat" languages="Italian">Provincia di Sultan Kudarat</name>
+		<name normalized="Sultan Kudarat" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Sultan Kudarat</name>
+		<name normalized="Sultan Kudarat Province" languages="English;official">Sultan Kudarat Province</name>
+		<name normalized="Сuлtaн Kudaрat" languages="Macedonian">Султан Кударат</name>
+		<name normalized="Сuлtaн-Kudaрat" languages="Russian">Султан-Кударат</name>
+		<name normalized="سلtאن qدrt" languages="Persian">سلطان قدرت</name>
+		<name normalized="srtn・kdrtt州" languages="Japanese">スルタン・クダラット州</name>
+		<name normalized="蘇丹庫達拉省" languages="Chinese">蘇丹庫達拉省</name>
+		<name normalized="술탄쿠다라트 주" languages="Korean">술탄쿠다라트 주</name>
+	</region>
+	<region name="Sulu" type="province" typeTranslated="province">
+		<name normalized="Archipelag Sulu" languages="Polish">Archipelag Sulu</name>
+		<name normalized="Propinsi Sulu" languages="Achinese">Propinsi Sulu</name>
+		<name normalized="Provincia di Sulu" languages="Italian">Provincia di Sulu</name>
+		<name normalized="Sulu" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Latin;Malay;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Scots;Swedish;Tagalog;Turkish;Vietnamese;Waray">Sulu</name>
+		<name normalized="Sulu Province" languages="English;official">Sulu Province</name>
+		<name normalized="Suluo" languages="Esperanto">Suluo</name>
+		<name normalized="Sulu" languages="Spanish">Sulú</name>
+		<name normalized="Сuлu" languages="Macedonian;Russian">Сулу</name>
+		<name normalized="سولو" languages="Persian">سولو</name>
+		<name normalized="จังหวัดซูลู" languages="Thai">จังหวัดซูลู</name>
+		<name normalized="sーrー州" languages="Japanese">スールー州</name>
+		<name normalized="蘇祿省" languages="Chinese">蘇祿省</name>
+		<name normalized="술루 주" languages="Korean">술루 주</name>
+	</region>
+	<region name="Surigao del Norte" type="province" typeTranslated="province">
+		<name normalized="Propinsi Surigao del Norte" languages="Achinese">Propinsi Surigao del Norte</name>
+		<name normalized="Provincia di Surigao del Norte" languages="Italian">Provincia di Surigao del Norte</name>
+		<name normalized="Surigao del Norte" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;German;Iloko;Indonesian;Norwegian (bokmal);official;Pampanga;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Surigao del Norte</name>
+		<name normalized="Surigao del Norte Province" languages="English;official">Surigao del Norte Province</name>
+		<name normalized="Surigao du Nord" languages="French">Surigao du Nord</name>
+		<name normalized="Surigao ed Baybay" languages="Pangasinan">Surigao ed Baybay</name>
+		<name normalized="Сiviрiн Сuрigao" languages="Macedonian">Северен Суригао</name>
+		<name normalized="Сiviрный Сuрigao" languages="Russian">Северный Суригао</name>
+		<name normalized="سوrیgאئو شmאلی" languages="Persian">سوریگائو شمالی</name>
+		<name normalized="北srgo州" languages="Japanese">北スリガオ州</name>
+		<name normalized="北苏里高省" languages="Chinese">北苏里高省</name>
+		<name normalized="북수리가오 주" languages="Korean">북수리가오 주</name>
+	</region>
+	<region name="Surigao del Sur" type="province" typeTranslated="province">
+		<name normalized="Propinsi Surigao del Sur" languages="Achinese">Propinsi Surigao del Sur</name>
+		<name normalized="Provincia di Surigao del Sur" languages="Italian">Provincia di Surigao del Sur</name>
+		<name normalized="Surigao del Sur" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;German;Iloko;Indonesian;Malay;Norwegian (bokmal);official;Pampanga;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Surigao del Sur</name>
+		<name normalized="Surigao del Sur Province" languages="English;official">Surigao del Sur Province</name>
+		<name normalized="Surigao du Sud" languages="French">Surigao du Sud</name>
+		<name normalized="Юzный Сuрigao" languages="Russian">Южный Суригао</name>
+		<name normalized="Juziн Сuрigao" languages="Macedonian">Јужен Суригао</name>
+		<name normalized="سوrیgאئو jنوbی" languages="Persian">سوریگائو جنوبی</name>
+		<name normalized="南srgo州" languages="Japanese">南スリガオ州</name>
+		<name normalized="南苏里高省" languages="Chinese">南苏里高省</name>
+		<name normalized="남수리가오 주" languages="Korean">남수리가오 주</name>
+	</region>
+	<region name="Tacloban" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Bandaraya Tacloban" languages="Malay">Bandaraya Tacloban</name>
+		<name normalized="Ciudad de Tacloban" languages="Chavacano de Zamboanga">Ciudad de Tacloban</name>
+		<name normalized="Dakbayan sa Tacloban" languages="Cebuano">Dakbayan sa Tacloban</name>
+		<name normalized="Dayeuh Tacloban" languages="Sundanese">Dayeuh Tacloban</name>
+		<name normalized="Lungsod ng Tacloban" languages="Tagalog">Lungsod ng Tacloban</name>
+		<name normalized="Syudad nin Tacloban" languages="Bikol Central">Syudad nin Tacloban</name>
+		<name normalized="Tacloban" languages="Albanian;Aragonese;Basque;Catalan;Croatian;Czech;Dutch;English;Esperanto;Estonian;Faroese;Finnish;French;Galician;Hungarian;Ido;Iloko;Interlingua;Italian;Javanese;lumbaart;Nahuatl;Norwegian (bokmal);Occitan;official;Piedmontese;Polish;Portuguese;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Simple English;Spanish;Turkish;Turkmen;Vietnamese;Volapuk;Walloon;Waray">Tacloban</name>
+		<name normalized="Tacloban City" languages="German;Indonesian;Low German;Pangasinan;Swedish">Tacloban City</name>
+		<name normalized="Tacloban Lakanbalen" languages="Pampanga">Tacloban Lakanbalen</name>
+		<name normalized="Takloban" languages="Afrikaans">Takloban</name>
+		<name normalized="Taklobana" languages="Latvian">Taklobana</name>
+		<name normalized="Taklobanas" languages="Lithuanian">Taklobanas</name>
+		<name normalized="Urbs Taclobana" languages="Latin">Urbs Taclobana</name>
+		<name normalized="Τακλομπαν" languages="Greek">Τακλομπάν</name>
+		<name normalized="Takлobaн" languages="Bulgarian;Macedonian;Ossetic;Russian;Serbian;Ukrainian">Таклобан</name>
+		<name normalized="Takлopaн" languages="Chuvash">Таклопан</name>
+		<name normalized="tאqדאbאן" languages="Yiddish">טאקלאבאן</name>
+		<name normalized="tqדvbן" languages="Hebrew">טקלובן</name>
+		<name normalized="tאkلوbאن" languages="Arabic">تاكلوبان</name>
+		<name normalized="tאکلوbאن" languages="Persian">تاکلوبان</name>
+		<name normalized="ٹیکلوbאن" languages="Urdu">ٹیکلوبان</name>
+		<name normalized="ટek્loben" languages="Gujarati">ટેક્લોબેન</name>
+		<name normalized="ตักโลบัน" languages="Thai">ตักโลบัน</name>
+		<name normalized="ታክሎባን" languages="Amharic">ታክሎባን</name>
+		<name normalized="tkrbn" languages="Japanese">タクロバン</name>
+		<name normalized="独鲁万市" languages="Chinese">独鲁万市</name>
+		<name normalized="타클로반" languages="Korean">타클로반</name>
+	</region>
+	<region name="Taguig" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Ciudad de Taguig" languages="Chavacano de Zamboanga">Ciudad de Taguig</name>
+		<name normalized="Dakbayan sa Taguig" languages="Cebuano">Dakbayan sa Taguig</name>
+		<name normalized="Lungsod ng Taguig" languages="Tagalog">Lungsod ng Taguig</name>
+		<name normalized="Siyudad na Taguig" languages="Pangasinan">Siyudad na Taguig</name>
+		<name normalized="Taguig" languages="Dutch;English;Esperanto;Finnish;French;Iloko;Italian;Occitan;official;Polish;Portuguese;Spanish;Vietnamese;Waray">Taguig</name>
+		<name normalized="Taguig City" languages="German;Indonesian;Swedish">Taguig City</name>
+		<name normalized="Taguig Lakanbalen" languages="Pampanga">Taguig Lakanbalen</name>
+		<name normalized="Tagig" languages="Mongolian;Russian">Тагиг</name>
+		<name normalized="tgtg" languages="Japanese">タギッグ</name>
+		<name normalized="達義市" languages="Chinese">達義市</name>
+		<name normalized="타기그" languages="Korean">타기그</name>
+	</region>
+	<region name="Tarlac" type="province" typeTranslated="province">
+		<name normalized="Propinsi Tarlac" languages="Achinese">Propinsi Tarlac</name>
+		<name normalized="Provincia de Tarlac" languages="Spanish">Provincia de Tarlac</name>
+		<name normalized="Provincia di Tarlac" languages="Italian">Provincia di Tarlac</name>
+		<name normalized="Tarlac" languages="Bikol Central;Cebuano;Chavacano de Zamboanga;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Latin;Malay;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Portuguese;Simple English;Swedish;Tagalog;Turkish;Vietnamese;Waray">Tarlac</name>
+		<name normalized="Tarlac Province" languages="English;official">Tarlac Province</name>
+		<name normalized="Tarlako" languages="Esperanto">Tarlako</name>
+		<name normalized="Taрлak" languages="Macedonian;Russian;Ukrainian">Тарлак</name>
+		<name normalized="tאrلאک" languages="Persian">تارلاک</name>
+		<name normalized="trrtk州" languages="Japanese">タルラック州</name>
+		<name normalized="丹轆省" languages="Chinese">丹轆省</name>
+		<name normalized="타를라크 주" languages="Korean">타를라크 주</name>
+	</region>
+	<region name="Tawi-Tawi" type="province" typeTranslated="province">
+		<name normalized="Propinsi Tawi-Tawi" languages="Achinese">Propinsi Tawi-Tawi</name>
+		<name normalized="Provincia di Tawi-Tawi" languages="Italian">Provincia di Tawi-Tawi</name>
+		<name normalized="Tavi-Tavio" languages="Esperanto">Tavi-Tavio</name>
+		<name normalized="Tawi-Tawi" languages="Bikol Central;Catalan;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Latin;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Portuguese;Slovak;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Tawi-Tawi</name>
+		<name normalized="Tawi-Tawi Province" languages="English;official">Tawi-Tawi Province</name>
+		<name normalized="Tavi-Tavi" languages="Macedonian;Russian">Тави-Тави</name>
+		<name normalized="tאوی tאوی" languages="Persian">تاوی تاوی</name>
+		<name normalized="tuitui州" languages="Japanese">タウイタウイ州</name>
+		<name normalized="塔威塔威省" languages="Chinese">塔威塔威省</name>
+		<name normalized="타위타위 주" languages="Korean">타위타위 주</name>
+	</region>
+	<region name="Valenzuela" type="chartered city" typeTranslated="chartered city">
+		<name normalized="Dakbayan sa Valenzuela" languages="Cebuano">Dakbayan sa Valenzuela</name>
+		<name normalized="Lungsod ng Valenzuela" languages="Tagalog">Lungsod ng Valenzuela</name>
+		<name normalized="Siudad ti Valenzuela" languages="Iloko">Siudad ti Valenzuela</name>
+		<name normalized="Siyudad na Valenzuela" languages="Pangasinan">Siyudad na Valenzuela</name>
+		<name normalized="Valenzuela" languages="Dutch;English;Esperanto;Finnish;French;Italian;official;Polish;Portuguese;Spanish;Swedish;Vietnamese;Waray">Valenzuela</name>
+		<name normalized="Valenzuela City" languages="German;Indonesian;Simple English">Valenzuela City</name>
+		<name normalized="varnzer" languages="Japanese">ヴァレンズエラ</name>
+		<name normalized="巴伦苏埃拉" languages="Chinese">巴伦苏埃拉</name>
+		<name normalized="발렌수엘라" languages="Korean">발렌수엘라</name>
+	</region>
+	<region name="Zambales" type="province" typeTranslated="province">
+		<name normalized="Propinsi Zambales" languages="Achinese">Propinsi Zambales</name>
+		<name normalized="Provincia di Zambales" languages="Italian">Provincia di Zambales</name>
+		<name normalized="Zambales" languages="Azerbaijani;Bikol Central;Cebuano;Chavacano de Zamboanga;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Latin;Malay;Norwegian (bokmal);Occitan;official;Pampanga;Pangasinan;Polish;Portuguese;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Zambales</name>
+		<name normalized="Zambales Province" languages="English;official">Zambales Province</name>
+		<name normalized="Zambaloj" languages="Esperanto">Zambaloj</name>
+		<name normalized="Zaмbaлiс" languages="Macedonian">Замбалес</name>
+		<name normalized="Сaмbaлiс" languages="Russian">Самбалес</name>
+		<name normalized="زאmbאلh" languages="Persian">زامباله</name>
+		<name normalized="snbrs州" languages="Japanese">サンバレス州</name>
+		<name normalized="三描礼士省" languages="Chinese">三描礼士省</name>
+		<name normalized="삼발레스 주" languages="Korean">삼발레스 주</name>
+	</region>
+	<region name="Zamboanga" type="chartered city" typeTranslated="chartered city">
+		<name normalized="" languages="English;official"></name>
+		<name normalized="2012" languages="Abkhazian;Afrikaans;Albanian;Aragonese;Aramaic;Armenian;Asturian;Avaric;Aymara;Azerbaijani;Banjar;Basa Banyumasan;Basque;Belarusian;Bikol Central;Breton;Bulgarian;Catalan;Cebuano;Chuvash;Cornish;Corsican;Crimean Turkish;Czech;Danish;Divehi;Dutch;Eastern Mari;Egyptian Spoken Arabic;English;Esperanto;Estonian;Extremaduran;Faroese;Fiji Hindi;Finnish;Franco-Provencal;French;Friulian;Gagauz;Galician;Georgian;German;Greek;Guarani;Haitian;Hebrew;Hungarian;Icelandic;Ido;Iloko;Indonesian;Interlingua;Irish;Italian;Javanese;Kalaallisut;Kashubian;Kurdish;Latin;Ligure;Limburgish;Low German;Low Saxon (Netherlands);Lower Sorbian;lumbaart;Luxembourgish;Macedonian;Malay;Malayalam;Manx;Maori;Minangkabau;Nahuatl;Nauru;Neapolitan;Northern Frisian;Northern Sami;Northern Sotho;Norwegian (bokmal);Norwegian Nynorsk;Nouormand;Occitan;official;Pangasinan;Papiamento;Pashto;Polish;Portuguese;Quechua;Romanian;Rusyn;Sakha;Samogitian;Scots;Scottish Gaelic;Seeltersk;Serbian;Serbo-Croatian;Sicilian;Silesian;Simple English;Sinhala;Slovak;Slovenian;Somali;Spanish;Swahili;Swedish;Tagalog;Tamil;Telugu;Tetum;Turkish;Turkmen;Twi;Ukrainian;Upper Sorbian;Uzbek;Vietnamese;Volapuk;veneto;Voro;Walloon;Waray;Welsh;West-Vlams;Western Frisian;Western Punjabi;Yiddish;Yoruba;Zazaki;Zeeuws;biлaрuсkai (taрaskivita)‎">2012</name>
+		<name normalized="2012 m." languages="Lithuanian">2012 m.</name>
+		<name normalized="2012 ni" languages="Chinese (Min Nan)">2012 nî</name>
+		<name normalized="2012 aр" languages="Udmurt">2012 ар</name>
+		<name normalized="2012 vo" languages="Komi">2012 во</name>
+		<name normalized="2012 god" languages="Russian">2012 год</name>
+		<name normalized="2012 dzыл" languages="Karachay-Balkar">2012 джыл</name>
+		<name normalized="2012 iл" languages="Tatar">2012 ел</name>
+		<name normalized="2012 zыл" languages="Kazakh">2012 жыл</name>
+		<name normalized="2012 йiс" languages="Lezghian">2012 йис</name>
+		<name normalized="2012 йыл" languages="Bashkir">2012 йыл</name>
+		<name normalized="2012 oн" languages="Mongolian;buрiad">2012 он</name>
+		<name normalized="2012 cыл" languages="Tuvinian">2012 чыл</name>
+		<name normalized="2012 so" languages="Chechen">2012 шо</name>
+		<name normalized="2012 እ.ኤ.አ." languages="Amharic">2012 እ.ኤ.አ.</name>
+		<name normalized="2012-aeм az" languages="Ossetic">2012-æм аз</name>
+		<name normalized="2012." languages="Bosnian;Croatian">2012.</name>
+		<name normalized="2012. gads" languages="Latvian">2012. gads</name>
+		<name normalized="2012ء" languages="Urdu">2012ء</name>
+		<name normalized="2012' vo" languages="Komi-Permyak">2012’ во</name>
+		<name normalized="2012年" languages="Cantonese;Chinese;Gan;Japanese">2012年</name>
+		<name normalized="2012년" languages="Korean">2012년</name>
+		<name normalized="Joohr 2012" languages="Colognian">Joohr 2012</name>
+		<name normalized="Wikipedia" languages="English">Wikipedia</name>
+		<name normalized="Zamboanga" languages="English;German;Italian;Latin;official;Spanish;Tagalog;Vietnamese">Zamboanga</name>
+		<name normalized="Zaмboaнga" languages="Russian">Замбоанга</name>
+		<name normalized="Сoлi 2012" languages="Tajik">Соли 2012</name>
+		<name normalized="mلhq:2012" languages="Arabic">ملحق:2012</name>
+		<name normalized="2012" languages="Sorani Kurdish">٢٠١٢</name>
+		<name normalized="2012" languages="Gilaki;Mazanderani;Persian">۲۰۱۲</name>
+		<name normalized="i.s. 2012" languages="Marathi">इ.स. २०१२</name>
+		<name normalized="sn 2012" languages="Nepali">सन २०१२</name>
+		<name normalized="sn् 2012" languages="Newari">सन् २०१२</name>
+		<name normalized="2012" languages="Bihari;Hindi;Pali;Sanskrit">२०१२</name>
+		<name normalized="2012" languages="Assamese;Bengali">২০১২</name>
+		<name normalized="2012" languages="Punjabi">੨੦੧੨</name>
+		<name normalized="พ.ศ. 2555" languages="Thai">พ.ศ. 2555</name>
+		<name normalized="二〇一二年" languages="Classical Chinese">二〇一二年</name>
+	</region>
+	<region name="Zamboanga del Norte" type="province" typeTranslated="province">
+		<name normalized="Norda Zamboango" languages="Esperanto">Norda Zamboango</name>
+		<name normalized="Propinsi Zamboanga del Norte" languages="Achinese">Propinsi Zamboanga del Norte</name>
+		<name normalized="Provincia di Zamboanga del Norte" languages="Italian">Provincia di Zamboanga del Norte</name>
+		<name normalized="Zamboanga del Norte" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;German;Iloko;Indonesian;Norwegian (bokmal);official;Pampanga;Polish;Portuguese;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Zamboanga del Norte</name>
+		<name normalized="Zamboanga del Norte Province" languages="English;official">Zamboanga del Norte Province</name>
+		<name normalized="Zamboanga du Nord" languages="French">Zamboanga du Nord</name>
+		<name normalized="Сiviрнa Zaмboaнga" languages="Macedonian">Северна Замбоанга</name>
+		<name normalized="Сiviрнai Zaмboaнga" languages="Russian">Северная Замбоанга</name>
+		<name normalized="زאmbوאنgא شmאلی" languages="Persian">زامبوانگا شمالی</name>
+		<name normalized="北snbang州" languages="Japanese">北サンボアンガ州</name>
+		<name normalized="北三寶顏省" languages="Chinese">北三寶顏省</name>
+		<name normalized="북삼보앙가 주" languages="Korean">북삼보앙가 주</name>
+	</region>
+	<region name="Zamboanga del Sur" type="province" typeTranslated="province">
+		<name normalized="Propinsi Zamboanga del Sur" languages="Achinese">Propinsi Zamboanga del Sur</name>
+		<name normalized="Provincia di Zamboanga del Sur" languages="Italian">Provincia di Zamboanga del Sur</name>
+		<name normalized="Suda Zamboango" languages="Esperanto">Suda Zamboango</name>
+		<name normalized="Zamboanga del Sur" languages="Bikol Central;Cebuano;Chinese (Min Nan);Dutch;English;German;Iloko;Indonesian;Latin;Norwegian (bokmal);official;Pampanga;Polish;Portuguese;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Zamboanga del Sur</name>
+		<name normalized="Zamboanga del Sur Province" languages="English;official">Zamboanga del Sur Province</name>
+		<name normalized="Zamboanga du Sud" languages="French">Zamboanga du Sud</name>
+		<name normalized="Юzнai Zaмboaнga" languages="Russian">Южная Замбоанга</name>
+		<name normalized="Juzнa Zaмboaнga" languages="Macedonian">Јужна Замбоанга</name>
+		<name normalized="زאmbوאنgא jنوbی" languages="Persian">زامبوانگا جنوبی</name>
+		<name normalized="南snbang州" languages="Japanese">南サンボアンガ州</name>
+		<name normalized="南三寶顏省" languages="Chinese">南三寶顏省</name>
+		<name normalized="남삼보앙가 주" languages="Korean">남삼보앙가 주</name>
+	</region>
+	<region name="Zamboanga Sibugay" type="province" typeTranslated="province">
+		<name normalized="Propinsi Zamboanga Sibugay" languages="Achinese">Propinsi Zamboanga Sibugay</name>
+		<name normalized="Provincia di Zamboanga Sibugay" languages="Italian">Provincia di Zamboanga Sibugay</name>
+		<name normalized="Zamboanga Sibugay" languages="Bikol Central;Catalan;Cebuano;Chinese (Min Nan);Dutch;English;French;German;Iloko;Indonesian;Latin;Malay;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Portuguese;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Zamboanga Sibugay</name>
+		<name normalized="Zamboanga Sibugay Province" languages="English;official">Zamboanga Sibugay Province</name>
+		<name normalized="Zamboango Sibugaja" languages="Esperanto">Zamboango Sibugaja</name>
+		<name normalized="Zaмboaнga Сibugaj" languages="Macedonian">Замбоанга Сибугај</name>
+		<name normalized="Zaмboaнga-Сibugiй" languages="Russian">Замбоанга-Сибугей</name>
+		<name normalized="زאmbوאنgא سیbوgאی" languages="Persian">زامبوانگا سیبوگای</name>
+		<name normalized="snbang・sbgi州" languages="Japanese">サンボアンガ・シブガイ州</name>
+		<name normalized="三寶顏錫布格省" languages="Chinese">三寶顏錫布格省</name>
+		<name normalized="삼보앙가시부가이 주" languages="Korean">삼보앙가시부가이 주</name>
+	</region>
+</regions>

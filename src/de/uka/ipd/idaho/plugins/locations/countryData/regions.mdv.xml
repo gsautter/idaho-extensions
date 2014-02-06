@@ -1,0 +1,257 @@
+<regions country="Maldives">
+	<region name="Dhekunu" type="province" typeTranslated="province">
+		<name normalized="Basur" languages="Kurdish">Başûr</name>
+		<name normalized="Chamhembe" languages="Shona">Chamhembe</name>
+		<name normalized="Cənub" languages="Azerbaijani">Cənub</name>
+		<name normalized="Deisceart" languages="Irish">Deisceart</name>
+		<name normalized="Dhekunu" languages="English;official">Dhekunu</name>
+		<name normalized="Dhekunu Province" languages="English;official">Dhekunu Province</name>
+		<name normalized="Dienvidi" languages="Latvian">Dienvidi</name>
+		<name normalized="Del" languages="Hungarian">Dél</name>
+		<name normalized="Etela" languages="Finnish">Etelä</name>
+		<name normalized="Guney" languages="Turkish">Güney</name>
+		<name normalized="Habagatan" languages="Cebuano">Habagatan</name>
+		<name normalized="Hego" languages="Basque">Hego</name>
+		<name normalized="Huong Nam" languages="Vietnamese">Hướng Nam</name>
+		<name normalized="Janub" languages="Uzbek">Janub</name>
+		<name normalized="Jih" languages="Czech">Jih</name>
+		<name normalized="Jug" languages="Bosnian;Croatian;Serbo-Croatian;Slovenian">Jug</name>
+		<name normalized="Jugu" languages="Albanian">Jugu</name>
+		<name normalized="Juh" languages="Slovak">Juh</name>
+		<name normalized="Kidul" languages="Sundanese">Kidul</name>
+		<name normalized="Koonfur" languages="Somali">Koonfur</name>
+		<name normalized="Kusini" languages="Swahili">Kusini</name>
+		<name normalized="Louna" languages="Estonian">Lõuna</name>
+		<name normalized="Mauli" languages="Pampanga">Mauli</name>
+		<name normalized="Meridies" languages="Latin">Meridies</name>
+		<name normalized="Mezde" languages="Emiliano-Romagnolo">Mezdé</name>
+		<name normalized="Pietus" languages="Lithuanian">Pietūs</name>
+		<name normalized="Poludnie" languages="Polish">Południe</name>
+		<name normalized="Provinsi Dhekunu" languages="Indonesian">Provinsi Dhekunu</name>
+		<name normalized="Peita" languages="Samogitian">Pėitā</name>
+		<name normalized="Salatan" languages="Minangkabau;Waray">Salatan</name>
+		<name normalized="Selatan" languages="Banjar;Indonesian;Malay">Selatan</name>
+		<name normalized="Sid" languages="Haitian">Sid</name>
+		<name normalized="Sooth" languages="Scots">Sooth</name>
+		<name normalized="South" languages="English;official;Simple English">South</name>
+		<name normalized="South Province" languages="English;official">South Province</name>
+		<name normalized="Su" languages="Breton;Nouormand">Su</name>
+		<name normalized="Sud" languages="Catalan;French;Interlingua;Interlingue;Italian;lumbaart;Neapolitan;Occitan;Romanian;veneto;Walloon">Sud</name>
+		<name normalized="Sudo" languages="Esperanto;Ido">Sudo</name>
+		<name normalized="Sudu" languages="Corsican">Sudu</name>
+		<name normalized="Suid" languages="Afrikaans">Suid</name>
+		<name normalized="Sul" languages="Portuguese">Sul</name>
+		<name normalized="Sur" languages="Galician;Spanish">Sur</name>
+		<name normalized="Suvi" languages="Veps">Suvi</name>
+		<name normalized="Sudur" languages="Icelandic">Suður</name>
+		<name normalized="Syd" languages="Danish">Syd</name>
+		<name normalized="Soder" languages="Swedish">Söder</name>
+		<name normalized="Sor" languages="Norwegian (bokmal);Norwegian Nynorsk">Sør</name>
+		<name normalized="Sudi" languages="Lingala">Súdi</name>
+		<name normalized="Suden" languages="German;Luxembourgish">Süden</name>
+		<name normalized="Suud" languages="Northern Frisian">Süüd</name>
+		<name normalized="Urin" languages="Quechua">Urin</name>
+		<name normalized="Veroc" languages="Zazaki">Veroc</name>
+		<name normalized="Zuid" languages="Dutch">Zuid</name>
+		<name normalized="Νοτος" languages="Greek">Νότος</name>
+		<name normalized="Kaнtaр" languages="Chuvash">Кăнтăр</name>
+		<name normalized="Kicыvaлviл" languages="Eastern Mari">Кечывалвел</name>
+		<name normalized="Kɵньik" languages="Tatar">Көньяк</name>
+		<name normalized="Kɵньiҡ" languages="Bashkir">Көньяҡ</name>
+		<name normalized="Лiмbi ёнkс" languages="Erzya">Лембе ёнкс</name>
+		<name normalized="Лuнvыv" languages="Komi;Komi-Permyak">Лунвыв</name>
+		<name normalized="Poўdziнь" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Поўдзень</name>
+		<name normalized="Pivdiнь" languages="Ukrainian">Південь</name>
+		<name normalized="Сoҕuрuu" languages="Sakha">Соҕуруу</name>
+		<name normalized="Tүstүk" languages="Kyrgyz">Түштүк</name>
+		<name normalized="Юg" languages="Bulgarian;Russian">Юг</name>
+		<name normalized="Юgъ" languages="Church Slavic">Югъ</name>
+		<name normalized="Jug" languages="Macedonian;Serbian">Југ</name>
+		<name normalized="Caнub" languages="Tajik">Ҷануб</name>
+		<name normalized="דrvם" languages="Hebrew;Yiddish">דרום</name>
+		<name normalized="jنوb" languages="Arabic;Persian;Urdu">جنوب</name>
+		<name normalized="دکھن" languages="Western Punjabi">دکھن</name>
+		<name normalized="ܓܪܒܝܐ" languages="Aramaic">ܓܪܒܝܐ</name>
+		<name normalized="dk्षiण" languages="Hindi;Nepali">दक्षिण</name>
+		<name normalized="dk्षiण disा" languages="Marathi">दक्षिण दिशा</name>
+		<name normalized="yetा" languages="Newari">येता</name>
+		<name normalized="dੱkਣ" languages="Punjabi">ਦੱਖਣ</name>
+		<name normalized="dk્ષiણ" languages="Gujarati">દક્ષિણ</name>
+		<name normalized="தெற்கு" languages="Tamil">தெற்கு</name>
+		<name normalized="దక్షిణం" languages="Telugu">దక్షిణం</name>
+		<name normalized="ದಕ್ಷಿಣ" languages="Kannada">ದಕ್ಷಿಣ</name>
+		<name normalized="തെക്ക്" languages="Malayalam">തെക്ക്</name>
+		<name normalized="දකුණ" languages="Sinhala">දකුණ</name>
+		<name normalized="ทิศใต้" languages="Thai">ทิศใต้</name>
+		<name normalized="სამხრეთი" languages="Georgian">სამხრეთი</name>
+		<name normalized="ደቡብ" languages="Amharic">ደቡብ</name>
+		<name normalized="南" languages="Cantonese;Chinese;Gan;Hakka;Japanese;Wu">南</name>
+		<name normalized="남쪽" languages="Korean">남쪽</name>
+	</region>
+	<region name="Maale" type="municipality" typeTranslated="municipality">
+		<name normalized="Maale" languages="English;official">Maale</name>
+		<name normalized="Male" languages="Azerbaijani;Basque;Czech;Estonian;Haitian;Latvian;Novial;Polish;Slovak">Male</name>
+		<name normalized="Malee" languages="Western Frisian">Malee</name>
+		<name normalized="Maleo" languages="Esperanto">Maleo</name>
+		<name normalized="Male" languages="Achinese;Afrikaans;Albanian;Bosnian;Breton;Catalan;Croatian;Danish;Dutch;English;Fiji Hindi;Finnish;French;Galician;German;Hungarian;Ido;Indonesian;Interlingue;Italian;Kinyarwanda;Latin;lumbaart;Luxembourgish;Malagasy;Malay;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Occitan;Piedmontese;Portuguese;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh;Yoruba">Malé</name>
+		<name normalized="Male" languages="Lithuanian">Malė</name>
+		<name normalized="Μαλe" languages="Greek">Μαλέ</name>
+		<name normalized="Goрad Мaлi" languages="Belarusian">Горад Мале</name>
+		<name normalized="Мaлi" languages="Bulgarian;Kazakh;Macedonian;Mongolian;Ossetic;Russian;Serbian;Tajik;Tatar;Ukrainian;biлaрuсkai (taрaskivita)‎">Мале</name>
+		<name normalized="Mաlե" languages="Armenian">Մալե</name>
+		<name normalized="מאדh" languages="Hebrew">מאלה</name>
+		<name normalized="mאلh" languages="Persian">ماله</name>
+		<name normalized="mאلyh" languages="Arabic">ماليه</name>
+		<name normalized="mאلێ" languages="Sorani Kurdish">مالێ</name>
+		<name normalized="mאلې" languages="Uyghur">مالې</name>
+		<name normalized="mאلے" languages="Urdu;Western Punjabi">مالے</name>
+		<name normalized="މާލެ" languages="Divehi">މާލެ</name>
+		<name normalized="mाle" languages="Hindi;Marathi">माले</name>
+		<name normalized="mাle" languages="Bengali">মালে</name>
+		<name normalized="mਾlੇ" languages="Punjabi">ਮਾਲੇ</name>
+		<name normalized="மாலே" languages="Tamil">மாலே</name>
+		<name normalized="మాలే" languages="Telugu">మాలే</name>
+		<name normalized="ಮಾಲೆ" languages="Kannada">ಮಾಲೆ</name>
+		<name normalized="മാലി" languages="Malayalam">മാലി</name>
+		<name normalized="มาเล" languages="Thai">มาเล</name>
+		<name normalized="མ་ལེ།" languages="Tibetan">མ་ལེ།</name>
+		<name normalized="მალე" languages="Georgian">მალე</name>
+		<name normalized="mr" languages="Japanese">マレ</name>
+		<name normalized="馬累" languages="Cantonese;Chinese">馬累</name>
+		<name normalized="말레" languages="Korean">말레</name>
+	</region>
+	<region name="Mathi Dhekunu" type="province" typeTranslated="province">
+		<name normalized="Mathi Dhekunu" languages="English;official">Mathi Dhekunu</name>
+		<name normalized="Mathi Dhekunu Province" languages="English;official">Mathi Dhekunu Province</name>
+		<name normalized="Sud superieur" languages="French">Sud supérieur</name>
+		<name normalized="Thuong Nam Hoa Ky" languages="Vietnamese">Thượng Nam Hoa Kỳ</name>
+		<name normalized="Upland South" languages="English;German;Slovak">Upland South</name>
+		<name normalized="Upper South" languages="English;official">Upper South</name>
+		<name normalized="Upper South Province" languages="English;official">Upper South Province</name>
+		<name normalized="Ovre Sodern" languages="Swedish">Övre Södern</name>
+		<name normalized="Ανω Νοτος" languages="Greek">Άνω Νότος</name>
+		<name normalized="atprndsus" languages="Japanese">アップランドサウス</name>
+		<name normalized="上南方" languages="Chinese">上南方</name>
+	</region>
+	<region name="Mathi Uthuru" type="province" typeTranslated="province">
+		<name normalized="Mathi Uthuru" languages="English;official">Mathi Uthuru</name>
+		<name normalized="Mathi Uthuru Province" languages="English;official">Mathi Uthuru Province</name>
+		<name normalized="Provinsi Mathi-Uthuru" languages="Indonesian">Provinsi Mathi-Uthuru</name>
+		<name normalized="Upper North" languages="English;official">Upper North</name>
+		<name normalized="Upper North Province" languages="English;official">Upper North Province</name>
+	</region>
+	<region name="Medhu" type="province" typeTranslated="province">
+		<name normalized="Central" languages="Dutch;English;French;German;Italian;official;Polish;Portuguese;Simple English;Spanish;Swedish;Vietnamese;Volapuk">Central</name>
+		<name normalized="Central Province" languages="English;official">Central Province</name>
+		<name normalized="Medhu" languages="English;official">Medhu</name>
+		<name normalized="Medhu Province" languages="English;official">Medhu Province</name>
+		<name normalized="Сiнtрaл" languages="Serbian">Сентрал</name>
+		<name normalized="Tiнtрaль" languages="Russian">Централь</name>
+		<name normalized="mrکزی" languages="Persian">مرکزی</name>
+		<name normalized="sen্ট্rাl" languages="Bishnupria Manipuri">সেন্ট্রাল</name>
+		<name normalized="சென்ட்ரல்" languages="Tamil">சென்ட்ரல்</name>
+		<name normalized="กลาง" languages="Thai">กลาง</name>
+		<name normalized="sntrr" languages="Japanese">セントラル</name>
+		<name normalized="中" languages="Chinese;Gan">中</name>
+		<name normalized="센트럴" languages="Korean">센트럴</name>
+	</region>
+	<region name="Medhu Dhekunu" type="province" typeTranslated="province">
+		<name normalized="Medhu Dhekunu" languages="English;official">Medhu Dhekunu</name>
+		<name normalized="Medhu Dhekunu Province" languages="English;official">Medhu Dhekunu Province</name>
+		<name normalized="South Central" languages="English;German;official">South Central</name>
+		<name normalized="South Central Province" languages="English;official">South Central Province</name>
+	</region>
+	<region name="Medhu Uthuru" type="province" typeTranslated="province">
+		<name normalized="Medhu Uthuru" languages="English;official">Medhu Uthuru</name>
+		<name normalized="Medhu Uthuru Province" languages="English;official">Medhu Uthuru Province</name>
+		<name normalized="North Central" languages="English;official">North Central</name>
+		<name normalized="North Central Province" languages="English;official">North Central Province</name>
+		<name normalized="北中部" languages="Japanese">北中部</name>
+	</region>
+	<region name="Uthuru" type="province" typeTranslated="province">
+		<name normalized="Amihan" languages="Waray">Amihan</name>
+		<name normalized="Amihanan" languages="Cebuano">Amihanan</name>
+		<name normalized="Bakur" languages="Kurdish">Bakur</name>
+		<name normalized="Baroh" languages="Achinese">Barôh</name>
+		<name normalized="Bijhe" languages="Walloon">Bijhe</name>
+		<name normalized="Chincha" languages="Quechua">Chincha</name>
+		<name normalized="Huong Bac" languages="Vietnamese">Hướng Bắc</name>
+		<name normalized="Ipar" languages="Basque">Ipar</name>
+		<name normalized="Kaler" languages="Sundanese">Kalér</name>
+		<name normalized="Kaskazini" languages="Swahili">Kaskazini</name>
+		<name normalized="Kuzey" languages="Turkish">Kuzey</name>
+		<name normalized="Manorang" languages="Buginese">Manorang</name>
+		<name normalized="Maodzanyemba" languages="Shona">Maodzanyemba</name>
+		<name normalized="Nola" languages="Lingala">Nola</name>
+		<name normalized="Noord" languages="Afrikaans;Dutch">Noord</name>
+		<name normalized="Nord" languages="Catalan;French;Friulian;Interlingua;Interlingue;Italian;Neapolitan;Norwegian (bokmal);Norwegian Nynorsk;Nouormand;Romanian;Sicilian;veneto">Nord</name>
+		<name normalized="Norde" languages="Colognian">Norde</name>
+		<name normalized="Norden" languages="Alemannisch;German;Luxembourgish">Norden</name>
+		<name normalized="Nordo" languages="Esperanto">Nordo</name>
+		<name normalized="Nordu" languages="Corsican">Nordu</name>
+		<name normalized="Norr" languages="Swedish">Norr</name>
+		<name normalized="Norte" languages="Galician;Portuguese;Spanish">Norte</name>
+		<name normalized="North" languages="English;official;Scots;Simple English">North</name>
+		<name normalized="North Province" languages="English;official">North Province</name>
+		<name normalized="Norzh" languages="Breton">Norzh</name>
+		<name normalized="Nordur" languages="Icelandic">Norður</name>
+		<name normalized="No" languages="Haitian">Nò</name>
+		<name normalized="Nord" languages="lumbaart;Occitan">Nòrd</name>
+		<name normalized="Node" languages="Kongo">Nôde</name>
+		<name normalized="Not" languages="Emiliano-Romagnolo">Nôt</name>
+		<name normalized="Pangulu" languages="Pampanga">Pangulu</name>
+		<name normalized="Pohjoine" languages="Veps">Pohjoine</name>
+		<name normalized="Pohjoinen" languages="Finnish">Pohjoinen</name>
+		<name normalized="Polnoc" languages="Polish">Północ</name>
+		<name normalized="Pohi" languages="Estonian">Põhi</name>
+		<name normalized="Septentrio" languages="Latin">Septentrio</name>
+		<name normalized="Sever" languages="Czech;Slovak;Slovenian">Sever</name>
+		<name normalized="Shimol" languages="Uzbek">Shimol</name>
+		<name normalized="Sjever" languages="Bosnian;Croatian;Serbo-Croatian">Sjever</name>
+		<name normalized="Tuaisceart" languages="Irish">Tuaisceart</name>
+		<name normalized="Utara" languages="Banjar;Indonesian;Malay">Utara</name>
+		<name normalized="Utaro" languages="Minangkabau">Utaro</name>
+		<name normalized="Uthuru" languages="English;official">Uthuru</name>
+		<name normalized="Uthuru Province" languages="English;official">Uthuru Province</name>
+		<name normalized="Veriu" languages="Albanian">Veriu</name>
+		<name normalized="Woqooyi" languages="Somali">Woqooyi</name>
+		<name normalized="Ziemeli" languages="Latvian">Ziemeļi</name>
+		<name normalized="Zıme" languages="Zazaki">Zıme</name>
+		<name normalized="Ariwa" languages="Yoruba">Àríwá</name>
+		<name normalized="Eszak" languages="Hungarian">Észak</name>
+		<name normalized="Simal" languages="Azerbaijani">Şimal</name>
+		<name normalized="Siaure" languages="Lithuanian;Samogitian">Šiaurė</name>
+		<name normalized="Βορρας" languages="Greek">Βορράς</name>
+		<name normalized="Voйvыv" languages="Komi">Войвыв</name>
+		<name normalized="Йudviл" languages="Eastern Mari">Йӱдвел</name>
+		<name normalized="Oйvыv" languages="Komi-Permyak">Ойвыв</name>
+		<name normalized="Piлivi ёнkс" languages="Erzya">Пелеве ёнкс</name>
+		<name normalized="Poўнac" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Поўнач</name>
+		<name normalized="Pivнic" languages="Ukrainian">Північ</name>
+		<name normalized="Сiviр" languages="Bulgarian;Macedonian;Russian;Serbian">Север</name>
+		<name normalized="Сѣveръ" languages="Church Slavic">Сѣвєръ</name>
+		<name normalized="Tɵньik" languages="Tatar">Төньяк</name>
+		<name normalized="Tɵньiҡ" languages="Bashkir">Төньяҡ</name>
+		<name normalized="Kotu" languages="Sakha">Хоту</name>
+		<name normalized="Siмoл" languages="Tajik">Шимол</name>
+		<name normalized="צpvן" languages="Hebrew;Yiddish">צפון</name>
+		<name normalized="אtr" languages="Western Punjabi">اتر</name>
+		<name normalized="شmאل" languages="Arabic;Persian;Urdu">شمال</name>
+		<name normalized="ܬܝܡܢܐ" languages="Aramaic">ܬܝܡܢܐ</name>
+		<name normalized="ut्tr" languages="Hindi;Nepali">उत्तर</name>
+		<name normalized="ut्tr disा" languages="Marathi">उत्तर दिशा</name>
+		<name normalized="yंtा" languages="Newari">यंता</name>
+		<name normalized="uੱtr" languages="Punjabi">ਉੱਤਰ</name>
+		<name normalized="ut્tr" languages="Gujarati">ઉત્તર</name>
+		<name normalized="வடக்கு" languages="Tamil">வடக்கு</name>
+		<name normalized="ఉత్తరం" languages="Telugu">ఉత్తరం</name>
+		<name normalized="വടക്ക്" languages="Malayalam">വടക്ക്</name>
+		<name normalized="උතුර" languages="Sinhala">උතුර</name>
+		<name normalized="ทิศเหนือ" languages="Thai">ทิศเหนือ</name>
+		<name normalized="བྱང་ཕྱོགས།" languages="Tibetan">བྱང་ཕྱོགས།</name>
+		<name normalized="ჩრდილოეთი" languages="Georgian">ჩრდილოეთი</name>
+		<name normalized="ሰሜን" languages="Amharic">ሰሜን</name>
+		<name normalized="北" languages="Cantonese;Chinese;Gan;Hakka;Japanese;Wu">北</name>
+		<name normalized="북쪽" languages="Korean">북쪽</name>
+	</region>
+</regions>

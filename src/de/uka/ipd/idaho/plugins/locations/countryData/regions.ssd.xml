@@ -1,0 +1,299 @@
+<regions country="South Sudan">
+	<region name="Central Equatoria" type="state" typeTranslated="state">
+		<name normalized="Butnga nga Equatoria" languages="Waray">Butnga nga Equatoria</name>
+		<name normalized="Central Equatoria" languages="Danish;Dutch;English;Finnish;German;official;Swedish">Central Equatoria</name>
+		<name normalized="Centrine Ekvatorija" languages="Lithuanian">Centrinė Ekvatorija</name>
+		<name normalized="Ecuatoria Central" languages="Spanish">Ecuatoria Central</name>
+		<name normalized="Ekwatoria Srodkowa" languages="Polish">Ekwatoria Środkowa</name>
+		<name normalized="Equatoria Centrala" languages="Occitan">Equatoria Centrala</name>
+		<name normalized="Equatoria Centrale" languages="Italian">Equatoria Centrale</name>
+		<name normalized="Equatoria Central" languages="Catalan">Equatòria Central</name>
+		<name normalized="Equatoria Central" languages="Portuguese">Equatória Central</name>
+		<name normalized="Khatulistiwa Tengah" languages="Indonesian">Khatulistiwa Tengah</name>
+		<name normalized="Markaziy Ekvatoriya" languages="Uzbek">Markaziy Ekvatoriya</name>
+		<name normalized="Mashariki Equatoria" languages="Swahili">Mashariki Equatoria</name>
+		<name normalized="Statul Ecuatoria Centrala" languages="Romanian">Statul Ecuatoria Centrală</name>
+		<name normalized="Trung Equatoria" languages="Vietnamese">Trung Equatoria</name>
+		<name normalized="Equatoria-Central" languages="French">Équatoria-Central</name>
+		<name normalized="Κεντρικη Εκουατορια" languages="Greek">Κεντρική Εκουατόρια</name>
+		<name normalized="Tiнtрaлнa Ikvatoрii" languages="Bulgarian">Централна Екватория</name>
+		<name normalized="Tiнtрaлнa Ikvatoрija" languages="Macedonian;Serbian">Централна Екваторија</name>
+		<name normalized="Tiнtрaльнa Ikvatoрii" languages="Ukrainian">Центральна Екваторія</name>
+		<name normalized="Tiнtрaльнai Ekvatoрii" languages="Russian">Центральная Экватория</name>
+		<name normalized="אqvvtvrיh htיכvnh" languages="Hebrew">אקווטוריה התיכונה</name>
+		<name normalized="אسtوאئیh وسtی" languages="Persian">استوائیه وسطی</name>
+		<name normalized="وسt אلאسtوאئyة" languages="Arabic">وسط الاستوائية</name>
+		<name normalized="وشکאrلא אسtوאئی" languages="Western Punjabi">وشکارلا استوائی</name>
+		<name normalized="中央ekatra州" languages="Japanese">中央エクアトリア州</name>
+		<name normalized="中赤道省" languages="Chinese">中赤道省</name>
+		<name normalized="중부 적도 주" languages="Korean">중부 적도 주</name>
+	</region>
+	<region name="Eastern Equatoria" type="state" typeTranslated="state">
+		<name normalized="Eastern Equatoria" languages="Dutch;English;Finnish;German;official;Swedish">Eastern Equatoria</name>
+		<name normalized="Ecuatoria Oriental" languages="Spanish">Ecuatoria Oriental</name>
+		<name normalized="Ekwatoria Wschodnia" languages="Polish">Ekwatoria Wschodnia</name>
+		<name normalized="Equatoria ar Reter" languages="Breton">Equatoria ar Reter</name>
+		<name normalized="Equatoria de l'Est" languages="Occitan">Equatoria de l'Èst</name>
+		<name normalized="Equatoria Orientale" languages="Italian">Equatoria Orientale</name>
+		<name normalized="Equatoria Oriental" languages="Catalan">Equatòria Oriental</name>
+		<name normalized="Equatoria Oriental" languages="Portuguese">Equatória Oriental</name>
+		<name normalized="G'arbiy Ekvatoriya" languages="Uzbek">G'arbiy Ekvatoriya</name>
+		<name normalized="Khatulistiwa Timur" languages="Indonesian">Khatulistiwa Timur</name>
+		<name normalized="Rytu Ekvatorija" languages="Lithuanian">Rytų Ekvatorija</name>
+		<name normalized="Sinirangan nga Equatoria" languages="Waray">Sinirangan nga Equatoria</name>
+		<name normalized="Statul Ecuatoria de Est" languages="Romanian">Statul Ecuatoria de Est</name>
+		<name normalized="Equatoria-Oriental" languages="French">Équatoria-Oriental</name>
+		<name normalized="Ost-Ekvatoria" languages="Norwegian (bokmal)">Øst-Ekvatoria</name>
+		<name normalized="Dong Equatoria" languages="Vietnamese">Đông Equatoria</name>
+		<name normalized="Voсtocнai Ekvatoрii" languages="Russian">Восточная Экватория</name>
+		<name normalized="Iztocнa Ikvatoрii" languages="Bulgarian">Източна Екватория</name>
+		<name normalized="Iсtocнa Ikvatoрija" languages="Macedonian;Serbian">Источна Екваторија</name>
+		<name normalized="Сkidнa Ikvatoрii" languages="Ukrainian">Східна Екваторія</name>
+		<name normalized="אqvvtvrיh hמזrhיt" languages="Hebrew">אקווטוריה המזרחית</name>
+		<name normalized="אسtوאئیh شrqی" languages="Persian">استوائیه شرقی</name>
+		<name normalized="شrq אلאسtوאئyة" languages="Arabic">شرق الاستوائية</name>
+		<name normalized="چڑدא אسtوאئی" languages="Western Punjabi">چڑدا استوائی</name>
+		<name normalized="东赤道省" languages="Chinese">东赤道省</name>
+		<name normalized="東ekatra州" languages="Japanese">東エクアトリア州</name>
+		<name normalized="동부 적도 주" languages="Korean">동부 적도 주</name>
+	</region>
+	<region name="Jonglei" type="state" typeTranslated="state">
+		<name normalized="Dzonglejus" languages="Lithuanian">Džonglėjus</name>
+		<name normalized="Jonglei" languages="Catalan;Dutch;English;Finnish;French;German;Italian;Norwegian (bokmal);Occitan;official;Polish;Swedish;Vietnamese;Waray">Jonglei</name>
+		<name normalized="Jongli" languages="Uzbek">Jongli</name>
+		<name normalized="Juncali" languages="Portuguese">Juncáli</name>
+		<name normalized="Junqali" languages="Indonesian;Spanish;Sundanese;Swahili">Junqali</name>
+		<name normalized="Statul Jonglei" languages="Romanian">Statul Jonglei</name>
+		<name normalized="Dzoнgлiй" languages="Bulgarian;Ukrainian">Джонглей</name>
+		<name normalized="Dzoнgлiй" languages="Russian">Джонглий</name>
+		<name normalized="Dzoнgлij" languages="Macedonian;Serbian">Џонглеј</name>
+		<name normalized="ג'vnגדיי" languages="Hebrew">ג'ונגליי</name>
+		<name normalized="jونqلy" languages="Arabic">جونقلي</name>
+		<name normalized="jونqلی" languages="Persian">جونقلی</name>
+		<name normalized="jونgلئی" languages="Western Punjabi">جونگلئی</name>
+		<name normalized="ჯონგლი" languages="Georgian">ჯონგლი</name>
+		<name normalized="zョngri州" languages="Japanese">ジョングレイ州</name>
+		<name normalized="琼莱省" languages="Chinese">琼莱省</name>
+		<name normalized="종글레이 주" languages="Korean">종글레이 주</name>
+	</region>
+	<region name="Lakes" type="state" typeTranslated="state">
+		<name normalized="Adagun" languages="Yoruba">Adágún</name>
+		<name normalized="Aintzira" languages="Basque">Aintzira</name>
+		<name normalized="Danau" languages="Indonesian">Danau</name>
+		<name normalized="Danaw" languages="Banjar;Bikol Central;Waray">Danaw</name>
+		<name normalized="Estanh" languages="Occitan">Estanh</name>
+		<name normalized="Etima" languages="Lingala">Etímá</name>
+		<name normalized="Ezers" languages="Latvian">Ezers</name>
+		<name normalized="Ezeras" languages="Lithuanian">Ežeras</name>
+		<name normalized="Ezers" languages="Samogitian">Ežers</name>
+		<name normalized="Farihy" languages="Malagasy">Farihy</name>
+		<name normalized="Gol" languages="Kurdish">Gol</name>
+		<name normalized="Gol" languages="Azerbaijani;Turkish">Göl</name>
+		<name normalized="Ho" languages="Vietnamese">Hồ</name>
+		<name normalized="Innsjo" languages="Norwegian (bokmal);Norwegian Nynorsk">Innsjø</name>
+		<name normalized="Insjo" languages="Swedish">Insjö</name>
+		<name normalized="Jazero" languages="Slovak">Jazero</name>
+		<name normalized="Jezero" languages="Bosnian;Croatian;Czech;Serbo-Croatian;Slovenian">Jezero</name>
+		<name normalized="Jezioro" languages="Polish">Jezioro</name>
+		<name normalized="Jarv" languages="Estonian;Voro">Järv</name>
+		<name normalized="Jarvi" languages="Finnish">Järvi</name>
+		<name normalized="Jezor" languages="Upper Sorbian">Jězor</name>
+		<name normalized="Lac" languages="French;Romanian">Lac</name>
+		<name normalized="Laco" languages="Aragonese;Neapolitan">Laco</name>
+		<name normalized="Lacu" languages="Sicilian">Lacu</name>
+		<name normalized="Lacus" languages="Latin">Lacus</name>
+		<name normalized="Lagh" languages="lumbaart">Lagh</name>
+		<name normalized="Lago" languages="Esperanto;Galician;Ido;Italian;Mirandese;Papiamento;Portuguese;Spanish;Uzbek">Lago</name>
+		<name normalized="Lai" languages="Romansh">Lai</name>
+		<name normalized="Lak" languages="Haitian">Lak</name>
+		<name normalized="Lake" languages="English;Simple English">Lake</name>
+		<name normalized="Lakes" languages="English;official">Lakes</name>
+		<name normalized="lalxu" languages="Lojban">lalxu</name>
+		<name normalized="Lawa" languages="Tagalog">Lawa</name>
+		<name normalized="Lenn" languages="Breton">Lenn</name>
+		<name normalized="Liqeni" languages="Albanian">Liqeni</name>
+		<name normalized="Llac" languages="Catalan">Llac</name>
+		<name normalized="Llagu" languages="Asturian">Llagu</name>
+		<name normalized="Llyn" languages="Welsh">Llyn</name>
+		<name normalized="Loch" languages="Irish;Scots">Loch</name>
+		<name normalized="Loch-uisge" languages="Scottish Gaelic">Loch-uisge</name>
+		<name normalized="Logh" languages="Manx">Logh</name>
+		<name normalized="Lac" languages="Friulian">Lâc</name>
+		<name normalized="Leg" languages="Emiliano-Romagnolo">Lèg</name>
+		<name normalized="Mar" languages="Western Frisian">Mar</name>
+		<name normalized="Meer" languages="Afrikaans;Dutch">Meer</name>
+		<name normalized="Ngeej" languages="Wolof">Ngéej</name>
+		<name normalized="Nyanza" languages="Shona">Nyanza</name>
+		<name normalized="Qucha" languages="Quechua">Qucha</name>
+		<name normalized="Quta" languages="Aymara">Quta</name>
+		<name normalized="See" languages="German">See</name>
+		<name normalized="Situ" languages="Sundanese">Situ</name>
+		<name normalized="Stoduvatn" languages="Icelandic">Stöðuvatn</name>
+		<name normalized="Sei" languages="Luxembourgish">Séi</name>
+		<name normalized="So" languages="Danish">Sø</name>
+		<name normalized="Tasik" languages="Malay">Tasik</name>
+		<name normalized="Tasek" languages="Achinese">Tasék</name>
+		<name normalized="Tlaga" languages="Javanese">Tlaga</name>
+		<name normalized="To" languages="Hungarian">Tó</name>
+		<name normalized="Ypa" languages="Guarani">Ypa</name>
+		<name normalized="Ziwa" languages="Swahili">Ziwa</name>
+		<name normalized="O͘" languages="Chinese (Min Nan)">Ô͘</name>
+		<name normalized="Atezcatl" languages="Nahuatl">Ātezcatl</name>
+		<name normalized="Lago" languages="veneto">Łago</name>
+		<name normalized="Λιμνη" languages="Greek">Λίμνη</name>
+		<name normalized="Voziрa" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Возера</name>
+		<name normalized="Iziрo" languages="Bulgarian;Macedonian">Езеро</name>
+		<name normalized="Iр" languages="Eastern Mari">Ер</name>
+		<name normalized="Йaр" languages="Hill Mari">Йӓр</name>
+		<name normalized="Kүл" languages="Bashkir;Tatar">Күл</name>
+		<name normalized="Kүɵл" languages="Sakha">Күөл</name>
+		<name normalized="Kɵл" languages="Kazakh">Көл</name>
+		<name normalized="Kuл" languages="Tajik">Кӯл</name>
+		<name normalized="Kuлe" languages="Chuvash">Кӳлĕ</name>
+		<name normalized="Нuuр" languages="Mongolian">Нуур</name>
+		<name normalized="Oziрo" languages="Russian;Rusyn;Ukrainian">Озеро</name>
+		<name normalized="Tы" languages="Komi;Udmurt">Ты</name>
+		<name normalized="Tad" languages="Ossetic">Цад</name>
+		<name normalized="Eрьki" languages="Erzya">Эрьке</name>
+		<name normalized="Jiziрo" languages="Serbian">Језеро</name>
+		<name normalized="Lիc" languages="Armenian">Լիճ</name>
+		<name normalized="אגם" languages="Hebrew">אגם</name>
+		<name normalized="אזעrע" languages="Yiddish">אזערע</name>
+		<name normalized="bhyrة" languages="Arabic">بحيرة</name>
+		<name normalized="jھیل" languages="Urdu">جھیل</name>
+		<name normalized="دrیאچh" languages="Mazanderani;Persian">دریاچه</name>
+		<name normalized="ܝܡܬܐ" languages="Aramaic">ܝܡܬܐ</name>
+		<name normalized="jil" languages="Hindi">झील</name>
+		<name normalized="srovr" languages="Marathi">सरोवर</name>
+		<name normalized="h্rd" languages="Bengali">হ্রদ</name>
+		<name normalized="jil" languages="Punjabi">ਝੀਲ</name>
+		<name normalized="ஏரி" languages="Tamil">ஏரி</name>
+		<name normalized="సరస్సు" languages="Telugu">సరస్సు</name>
+		<name normalized="ಸರೋವರ" languages="Kannada">ಸರೋವರ</name>
+		<name normalized="തടാകം" languages="Malayalam">തടാകം</name>
+		<name normalized="විල" languages="Sinhala">විල</name>
+		<name normalized="ทะเลสาบ" languages="Thai">ทะเลสาบ</name>
+		<name normalized="ტბა" languages="Georgian">ტბა</name>
+		<name normalized="ტობა" languages="Mingrelian">ტობა</name>
+		<name normalized="ሀይቅ" languages="Amharic">ሀይቅ</name>
+		<name normalized="湖" languages="Cantonese;Gan;Japanese;Wu">湖</name>
+		<name normalized="湖泊" languages="Chinese">湖泊</name>
+		<name normalized="호수" languages="Korean">호수</name>
+	</region>
+	<region name="Northern Bahr el Ghazal" type="state" typeTranslated="state">
+		<name normalized="Amihanan nga Bahr el Ghazal" languages="Waray">Amihanan nga Bahr el Ghazal</name>
+		<name normalized="Bahr al-Gazal del Norte" languages="Spanish">Bahr al-Gazal del Norte</name>
+		<name normalized="Bahr al-Ghazal del nord" languages="Catalan">Bahr al-Ghazal del nord</name>
+		<name normalized="Bahr al-Ghazal do Norte" languages="Portuguese">Bahr al-Ghazal do Norte</name>
+		<name normalized="Bahr al-Ghazal Settentrionale" languages="Italian">Bahr al-Ghazal Settentrionale</name>
+		<name normalized="Bahr el Ghazal del Nord" languages="Occitan">Bahr el Ghazal del Nòrd</name>
+		<name normalized="Bahr el Ghazal du Nord" languages="French">Bahr el Ghazal du Nord</name>
+		<name normalized="Bahr el Ghazal Polnocny" languages="Polish">Bahr el Ghazal Północny</name>
+		<name normalized="Bahrul Ghazal Utara" languages="Indonesian;Malay">Bahrul Ghazal Utara</name>
+		<name normalized="Bac Bahr el Ghazal" languages="Vietnamese">Bắc Bahr el Ghazal</name>
+		<name normalized="Kaskazini Bahr al Ghazal" languages="Swahili">Kaskazini Bahr al Ghazal</name>
+		<name normalized="Northern Bahr el Ghazal" languages="Dutch;English;German;official;Swedish">Northern Bahr el Ghazal</name>
+		<name normalized="Northern Bahr el-Ghazal" languages="Finnish">Northern Bahr el-Ghazal</name>
+		<name normalized="Shimoliy Baxr-al-G'azal" languages="Uzbek">Shimoliy Baxr-al-G'azal</name>
+		<name normalized="Siaures Bahr al Gazalis" languages="Lithuanian">Šiaurės Bahr al Gazalis</name>
+		<name normalized="Pivнicнiй Bakр-iль-Gazaль" languages="Ukrainian">Північний Бахр-ель-Газаль</name>
+		<name normalized="Сiviрiн Bakр iл Gazaл" languages="Macedonian">Северен Бахр ел Газал</name>
+		<name normalized="Сiviрiн Bakър aл Gazaл" languages="Bulgarian">Северен Бахър ал Газал</name>
+		<name normalized="Сiviрнi Bakр iл Gazaл" languages="Serbian">Северни Бахр ел Газал</name>
+		<name normalized="Сiviрный Bakр-eль-Gazaль" languages="Russian">Северный Бахр-эль-Газаль</name>
+		<name normalized="צpvן bhr אד-ע'זאד" languages="Hebrew">צפון בחר אל-ע'זאל</name>
+		<name normalized="אtلא bہr אل غزل" languages="Western Punjabi">اتلا بہر ال غزل</name>
+		<name normalized="شmאل bhr אلغزאل" languages="Arabic">شمال بحر الغزال</name>
+		<name normalized="北bhr・ar・gzーr州" languages="Japanese">北バハル・アル・ガザール州</name>
+		<name normalized="北加扎勒河省" languages="Chinese">北加扎勒河省</name>
+		<name normalized="북부 바르알가잘 주" languages="Korean">북부 바르알가잘 주</name>
+	</region>
+	<region name="Unity" type="state" typeTranslated="state">
+		<name normalized="Nil Superior de l'Oest" languages="Occitan">Nil Superior de l'Oèst</name>
+		<name normalized="Statul Unitatea" languages="Romanian">Statul Unitatea</name>
+		<name normalized="Umoja" languages="Swahili">Umoja</name>
+		<name normalized="Unidad" languages="Spanish">Unidad</name>
+		<name normalized="Unidade" languages="Portuguese">Unidade</name>
+		<name normalized="Unitat" languages="Catalan">Unitat</name>
+		<name normalized="Unity" languages="Dutch;English;Finnish;German;Indonesian;Norwegian (bokmal);official;Polish;Swedish;Vietnamese;Waray">Unity</name>
+		<name normalized="Unita" languages="Italian">Unità</name>
+		<name normalized="Unite" languages="French">Unité</name>
+		<name normalized="Vakaru Aukstutinis Nilas" languages="Lithuanian">Vakarų Aukštutinis Nilas</name>
+		<name normalized="Idiнсtvo" languages="Bulgarian;Macedonian">Единство</name>
+		<name normalized="Iл Vakda" languages="Serbian">Ел Вахда</name>
+		<name normalized="Iль-Vakda" languages="Ukrainian">Ель-Вахда</name>
+		<name normalized="Eль-Vakda" languages="Russian">Эль-Вахда</name>
+		<name normalized="מדיnt hאיhvד" languages="Hebrew">מדינת האיחוד</name>
+		<name normalized="אلوhدة" languages="Arabic">الوحدة</name>
+		<name normalized="אک jٹھ sوbہ" languages="Western Punjabi">اک جٹھ صوبہ</name>
+		<name normalized="ynti州" languages="Japanese">ユニティ州</name>
+		<name normalized="猶尼提省" languages="Chinese">猶尼提省</name>
+		<name normalized="유니티 주" languages="Korean">유니티 주</name>
+	</region>
+	<region name="Upper Nile" type="state" typeTranslated="state">
+		<name normalized="Alt Nil" languages="Catalan">Alt Nil</name>
+		<name normalized="Alto Nilo" languages="Italian">Alto Nilo</name>
+		<name normalized="Nil Hulu" languages="Indonesian">Nil Hulu</name>
+		<name normalized="Nil Superieur" languages="French">Nil Supérieur</name>
+		<name normalized="Upper Nile" languages="English;official">Upper Nile</name>
+	</region>
+	<region name="Warrap" type="state" typeTranslated="state">
+		<name normalized="Warab" languages="Dutch;French;Indonesian;Polish;Romanian;Spanish">Warab</name>
+		<name normalized="Warrap" languages="English;German;Italian;official">Warrap</name>
+		<name normalized="وאrאb" languages="Arabic">واراب</name>
+		<name normalized="瓦拉普" languages="Chinese">瓦拉普</name>
+	</region>
+	<region name="Western Bahr el Ghazal" type="state" typeTranslated="state">
+		<name normalized="Bahr al-Gazal Occidental" languages="Spanish">Bahr al-Gazal Occidental</name>
+		<name normalized="Bahr al-Ghazal de l'oest" languages="Catalan">Bahr al-Ghazal de l'oest</name>
+		<name normalized="Bahr al-Ghazal Occidentale" languages="Italian">Bahr al-Ghazal Occidentale</name>
+		<name normalized="Bahr al-Ghazal Ocidental" languages="Portuguese">Bahr al-Ghazal Ocidental</name>
+		<name normalized="Bahr el Ghazal de l'Oest" languages="Occitan">Bahr el Ghazal de l'Oèst</name>
+		<name normalized="Bahr el Ghazal occidental" languages="French">Bahr el Ghazal occidental</name>
+		<name normalized="Bahr el Ghazal Zachodni" languages="Polish">Bahr el Ghazal Zachodni</name>
+		<name normalized="Bahrul Ghazal Barat" languages="Indonesian;Malay">Bahrul Ghazal Barat</name>
+		<name normalized="Katundan nga Bahr el Ghazal" languages="Waray">Katundan nga Bahr el Ghazal</name>
+		<name normalized="Statul Bahr al Ghazal de Vest" languages="Romanian">Statul Bahr al Ghazal de Vest</name>
+		<name normalized="Tay Bahr el Ghazal" languages="Vietnamese">Tây Bahr el Ghazal</name>
+		<name normalized="Vakaru Bahr al Gazalis" languages="Lithuanian">Vakarų Bahr al Gazalis</name>
+		<name normalized="Western Bahr el Ghazal" languages="Dutch;English;German;official;Swedish">Western Bahr el Ghazal</name>
+		<name normalized="Western Bahr el-Ghazal" languages="Finnish">Western Bahr el-Ghazal</name>
+		<name normalized="Zapadiн Bakр iл Gazaл" languages="Macedonian">Западен Бахр ел Газал</name>
+		<name normalized="Zapadiн Bakър aл Gazaл" languages="Bulgarian">Западен Бахър ал Газал</name>
+		<name normalized="Zapadнi Bakр iл Gazaл" languages="Serbian">Западни Бахр ел Газал</name>
+		<name normalized="Zapadный Bakр-eль-Gazaль" languages="Russian">Западный Бахр-эль-Газаль</name>
+		<name normalized="Zakidнiй Bakр-iль-Gazaль" languages="Ukrainian">Західний Бахр-ель-Газаль</name>
+		<name normalized="מעrb bhr אד-ע'זאד" languages="Hebrew">מערב בחר אל-ע'זאל</name>
+		<name normalized="غrb bhr אلغزאل" languages="Arabic">غرب بحر الغزال</name>
+		<name normalized="لیندא bאہr אل غزل" languages="Western Punjabi">لیندا باہر ال غزل</name>
+		<name normalized="西bhr・ar・gzーr州" languages="Japanese">西バハル・アル・ガザール州</name>
+		<name normalized="西加扎勒河省" languages="Chinese">西加扎勒河省</name>
+		<name normalized="서부 바르알가잘 주" languages="Korean">서부 바르알가잘 주</name>
+	</region>
+	<region name="Western Equatoria" type="state" typeTranslated="state">
+		<name normalized="Ecuatoria Occidental" languages="Spanish">Ecuatoria Occidental</name>
+		<name normalized="Ekwatoria Zachodnia" languages="Polish">Ekwatoria Zachodnia</name>
+		<name normalized="Equatoria de l'Oest" languages="Occitan">Equatoria de l'Oèst</name>
+		<name normalized="Equatoria Occidentale" languages="Italian">Equatoria Occidentale</name>
+		<name normalized="Equatoria Occidental" languages="Catalan">Equatòria Occidental</name>
+		<name normalized="Equatoria Ocidental" languages="Portuguese">Equatória Ocidental</name>
+		<name normalized="Katundan nga Equatoria" languages="Waray">Katundan nga Equatoria</name>
+		<name normalized="Khatulistiwa Barat" languages="Indonesian">Khatulistiwa Barat</name>
+		<name normalized="Magharibi Equatoria" languages="Swahili">Magharibi Equatoria</name>
+		<name normalized="Statul Ecuatoria de Vest" languages="Romanian">Statul Ecuatoria de Vest</name>
+		<name normalized="Tay Equatoria" languages="Vietnamese">Tây Equatoria</name>
+		<name normalized="Vakaru Ekvatorija" languages="Lithuanian">Vakarų Ekvatorija</name>
+		<name normalized="Western Equatoria" languages="Dutch;English;Finnish;German;official;Swedish">Western Equatoria</name>
+		<name normalized="Equatoria-Occidental" languages="French">Équatoria-Occidental</name>
+		<name normalized="Zapadнa Ikvatoрii" languages="Bulgarian">Западна Екватория</name>
+		<name normalized="Zapadнa Ikvatoрija" languages="Macedonian;Serbian">Западна Екваторија</name>
+		<name normalized="Zapadнai Ekvatoрii" languages="Russian">Западная Экватория</name>
+		<name normalized="Zakidнa Ikvatoрii" languages="Ukrainian">Західна Екваторія</name>
+		<name normalized="אqvvtvrיh hמעrbיt" languages="Hebrew">אקווטוריה המערבית</name>
+		<name normalized="غrb אلאسtوאئyة" languages="Arabic">غرب الاستوائية</name>
+		<name normalized="لیندא אسtوאئی" languages="Western Punjabi">لیندا استوائی</name>
+		<name normalized="西ekatra州" languages="Japanese">西エクアトリア州</name>
+		<name normalized="西赤道省" languages="Chinese">西赤道省</name>
+		<name normalized="서부 적도 주" languages="Korean">서부 적도 주</name>
+	</region>
+</regions>

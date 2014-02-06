@@ -1,0 +1,437 @@
+<regions country="South Africa">
+	<region name="Eastern Cape" type="province" typeTranslated="province">
+		<name normalized="Cabo" languages="Portuguese">Cabo</name>
+		<name normalized="Cabo Oriental" languages="Portuguese">Cabo Oriental</name>
+		<name normalized="Cap Oriental" languages="Catalan">Cap Oriental</name>
+		<name normalized="Cap-Oriental" languages="French">Cap-Oriental</name>
+		<name normalized="Capa" languages="Catalan;German;Spanish">Capa</name>
+		<name normalized="Cape" languages="English;official;Simple English;Swedish">Cape</name>
+		<name normalized="Cape Province" languages="English;official">Cape Province</name>
+		<name normalized="Cape Timur" languages="Malay">Cape Timur</name>
+		<name normalized="Cappa" languages="Italian;Sicilian">Cappa</name>
+		<name normalized="Dogu Kap" languages="Turkish">Doğu Kap</name>
+		<name normalized="Eastern Cape" languages="English;Indonesian;Norwegian (bokmal);Norwegian Nynorsk;Nyanja;official;Serbo-Croatian;Simple English;Swati;Tswana;Yoruba">Eastern Cape</name>
+		<name normalized="Eastern Cape Province" languages="English;official;Somali">Eastern Cape Province</name>
+		<name normalized="Est Kabe" languages="Novial">Est Kabe</name>
+		<name normalized="Ida-Kapimaa" languages="Estonian">Ida-Kapimaa</name>
+		<name normalized="IPhondo yaMpuma-Koloni" languages="Xhosa">IPhondo yaMpuma-Koloni</name>
+		<name normalized="Istocni Kap" languages="Croatian">Istočni Kap</name>
+		<name normalized="Ita-Kap" languages="Finnish">Itä-Kap</name>
+		<name normalized="Jimbo la Rasi" languages="Swahili">Jimbo la Rasi</name>
+		<name normalized="Kaapprovincie" languages="Dutch">Kaapprovincie</name>
+		<name normalized="Kaapprovinsie" languages="Afrikaans">Kaapprovinsie</name>
+		<name normalized="Kabo" languages="Esperanto">Kabo</name>
+		<name normalized="Kabprovinco" languages="Esperanto">Kabprovinco</name>
+		<name normalized="Kap-provinsen" languages="Danish">Kap-provinsen</name>
+		<name normalized="Kapa" languages="Southern Sotho">Kapa</name>
+		<name normalized="Kapa Bohlabela" languages="Northern Sotho">Kapa Bohlabela</name>
+		<name normalized="Kapa Botjhabela" languages="Southern Sotho">Kapa Botjhabela</name>
+		<name normalized="Kapa Vhubvaduvha" languages="Venda">Kapa Vhubvaḓuvha</name>
+		<name normalized="Kappe" languages="Danish">Kappe</name>
+		<name normalized="Kapprovinsen" languages="Norwegian (bokmal);Swedish">Kapprovinsen</name>
+		<name normalized="Kapprovinz" languages="German">Kapprovinz</name>
+		<name normalized="Kapsko" languages="Czech">Kapsko</name>
+		<name normalized="Keeppi" languages="Finnish">Keeppi</name>
+		<name normalized="Kraj Przyladkowy" languages="Polish">Kraj Przylądkowy</name>
+		<name normalized="KwaXhosa" languages="Zulu">KwaXhosa</name>
+		<name normalized="Lofudakepian" languages="Volapuk">Lofüdakepiän</name>
+		<name normalized="Lurmutur Ekialdea" languages="Basque">Lurmutur Ekialdea</name>
+		<name normalized="O Cabo Oriental" languages="Galician">O Cabo Oriental</name>
+		<name normalized="Oos-Kaap" languages="Afrikaans">Oos-Kaap</name>
+		<name normalized="Oost-Kaap" languages="Dutch">Oost-Kaap</name>
+		<name normalized="Orienta Kablando" languages="Esperanto">Orienta Kablando</name>
+		<name normalized="Ostkap" languages="German">Ostkap</name>
+		<name normalized="Promontorium Orientale" languages="Latin">Promontorium Orientale</name>
+		<name normalized="Province du Cap" languages="French">Province du Cap</name>
+		<name normalized="Provincia del Cabo" languages="Spanish">Provincia del Cabo</name>
+		<name normalized="Provincia del Capo Orientale" languages="Italian">Provincia del Capo Orientale</name>
+		<name normalized="Provincia Eastern Cape" languages="Romanian">Provincia Eastern Cape</name>
+		<name normalized="Provincia Oriental del Cabo" languages="Spanish">Provincia Oriental del Cabo</name>
+		<name normalized="Provincia del Cap" languages="Catalan">Província del Cap</name>
+		<name normalized="Prowincja Przyladkowa Wschodnia" languages="Polish">Prowincja Przylądkowa Wschodnia</name>
+		<name normalized="Rasi ya Mashariki" languages="Swahili">Rasi ya Mashariki</name>
+		<name normalized="Rytu Kapas" languages="Lithuanian">Rytų Kapas</name>
+		<name normalized="Tung Khoi-phu-sen" languages="Hakka">Tûng Khôi-phú-sén</name>
+		<name normalized="Ostra Kapprovinsen" languages="Swedish">Östra Kapprovinsen</name>
+		<name normalized="Ost-Kapprovinsen" languages="Danish">Øst-Kapprovinsen</name>
+		<name normalized="Dong Cape" languages="Vietnamese">Đông Cape</name>
+		<name normalized="Voсtocнo-Kapсkai pрoviнtii" languages="Russian">Восточно-Капская провинция</name>
+		<name normalized="Iztociн Kiйp" languages="Bulgarian">Източен Кейп</name>
+		<name normalized="Iсtociн Kijp" languages="Macedonian">Источен Кејп</name>
+		<name normalized="Iсtocнi Kijp" languages="Serbian">Источни Кејп</name>
+		<name normalized="Kapсka pрoviнtii" languages="Bulgarian">Капска провинция</name>
+		<name normalized="Kapсkai pрaviнtыi" languages="Belarusian">Капская правінцыя</name>
+		<name normalized="Kapсkai pрoviнtii" languages="Russian">Капская провинция</name>
+		<name normalized="Kapсьka pрoviнtii" languages="Ukrainian">Капська провінція</name>
+		<name normalized="Kijp Pрoviнtija" languages="Serbian">Кејп Провинција</name>
+		<name normalized="Сkidнa Kapсьka pрoviнtii" languages="Ukrainian">Східна Капська провінція</name>
+		<name normalized="Uсkodнi-Kapсkai pрaviнtыi" languages="Belarusian">Усходне-Капская правінцыя</name>
+		<name normalized="Uсkodнii Kapсkai pрaviнtыi" languages="biлaрuсkai (taрaskivita)‎">Усходняя Капская правінцыя</name>
+		<name normalized="Kաpի նաhանգ" languages="Armenian">Կապի նահանգ</name>
+		<name normalized="hכף hמזrhי" languages="Hebrew">הכף המזרחי</name>
+		<name normalized="אلkאb" languages="Arabic">الكاب</name>
+		<name normalized="شنل" languages="Persian">شنل</name>
+		<name normalized="kyb אلشrqyة" languages="Arabic">كيب الشرقية</name>
+		<name normalized="لیندא کیp" languages="Western Punjabi">لیندا کیپ</name>
+		<name normalized="کیp شrqی" languages="Persian">کیپ شرقی</name>
+		<name normalized="is्टr्n kep" languages="Marathi">ईस्टर्न केप</name>
+		<name normalized="pur্b kep p্rdes" languages="Bengali">পূর্ব কেপ প্রদেশ</name>
+		<name normalized="kーp" languages="Japanese">ケープ</name>
+		<name normalized="kーp州" languages="Japanese">ケープ州</name>
+		<name normalized="東kーp州" languages="Japanese">東ケープ州</name>
+		<name normalized="東開普省" languages="Chinese">東開普省</name>
+		<name normalized="開普省" languages="Chinese">開普省</name>
+		<name normalized="이스턴케이프 주" languages="Korean">이스턴케이프 주</name>
+	</region>
+	<region name="Free State" type="province" typeTranslated="province">
+		<name normalized="Chhu-yu Pang-sen" languages="Hakka">Chhṳ-yù Pâng-sén</name>
+		<name normalized="Civitas Libera" languages="Latin">Civitas Libera</name>
+		<name normalized="Dola Huru" languages="Swahili">Dola Huru</name>
+		<name normalized="Estado Libre" languages="Galician">Estado Libre</name>
+		<name normalized="Estado Livre" languages="Portuguese">Estado Livre</name>
+		<name normalized="Estat Lliure" languages="Catalan">Estat Lliure</name>
+		<name normalized="Estatu Askea" languages="Basque">Estatu Askea</name>
+		<name normalized="Free State" languages="Croatian;English;Estonian;Indonesian;Italian;Northern Sotho;Norwegian (bokmal);Nyanja;official;Serbo-Croatian;Simple English;Tswana;Venda;Vietnamese;Yoruba">Free State</name>
+		<name normalized="Free State Province" languages="English;official;Somali">Free State Province</name>
+		<name normalized="Freistaat" languages="German">Freistaat</name>
+		<name normalized="Freistata" languages="Southern Sotho">Freistata</name>
+		<name normalized="Fristatprovinsen" languages="Danish">Fristatprovinsen</name>
+		<name normalized="Fristatsprovinsen" languages="Swedish">Fristatsprovinsen</name>
+		<name normalized="Fristeitas" languages="Lithuanian">Fristeitas</name>
+		<name normalized="Fuleyistata" languages="Swati">Fuleyistata</name>
+		<name normalized="IFleyistata" languages="Zulu">IFleyistata</name>
+		<name normalized="Libatatian" languages="Volapuk">Libatatiän</name>
+		<name normalized="Liberi State" languages="Novial">Liberi State</name>
+		<name normalized="Provincia del Estado Libre" languages="Spanish">Provincia del Estado Libre</name>
+		<name normalized="Provincia Free State" languages="Romanian">Provincia Free State</name>
+		<name normalized="Provinco Liberstato" languages="Esperanto">Provinco Liberŝtato</name>
+		<name normalized="Svobodny stat" languages="Czech">Svobodný stát</name>
+		<name normalized="Vapaavaltio" languages="Finnish">Vapaavaltio</name>
+		<name normalized="Vrijstaat" languages="Dutch">Vrijstaat</name>
+		<name normalized="Vrystaat" languages="Afrikaans">Vrystaat</name>
+		<name normalized="Wolne Panstwo" languages="Polish">Wolne Państwo</name>
+		<name normalized="Etat-Libre" languages="French">État-Libre</name>
+		<name normalized="Viльнa diрzava" languages="Ukrainian">Вільна держава</name>
+		<name normalized="Сvabodнai dziрzava" languages="biлaрuсkai (taрaskivita)‎">Свабодная дзяржава</name>
+		<name normalized="Фрaйсtat" languages="Bulgarian">Фрайстат</name>
+		<name normalized="Фрi Сtijt" languages="Macedonian;Serbian">Фри Стејт</name>
+		<name normalized="Фрi-Сtiйt" languages="Russian">Фри-Стейт</name>
+		<name normalized="Frի Stեյt" languages="Armenian">Ֆրի Սթեյթ</name>
+		<name normalized="hמדיnh hhvpשיt" languages="Hebrew">המדינה החופשית</name>
+		<name normalized="fry سtyt" languages="Arabic">فري ستيت</name>
+		<name normalized="frی سٹیٹ" languages="Western Punjabi">فری سٹیٹ</name>
+		<name normalized="p्ri s्टeट" languages="Marathi">फ्री स्टेट</name>
+		<name normalized="hrーstit州" languages="Japanese">フリーステイト州</name>
+		<name normalized="自由邦省" languages="Chinese">自由邦省</name>
+		<name normalized="자유 주" languages="Korean">자유 주</name>
+	</region>
+	<region name="Gauteng" type="province" typeTranslated="province">
+		<name normalized="Chrysotopia" languages="Latin">Chrysotopia</name>
+		<name normalized="Gauteng" languages="Afrikaans;Basque;Catalan;Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;French;German;Indonesian;Italian;Northern Sotho;Norwegian (bokmal);Norwegian Nynorsk;Novial;Nyanja;official;Polish;Portuguese;Scots;Serbo-Croatian;Slovak;Southern Sotho;Spanish;Swahili;Swati;Swedish;Tswana;Turkish;Venda;Vietnamese;Welsh;Yoruba">Gauteng</name>
+		<name normalized="Gauteng Province" languages="English;official;Somali">Gauteng Province</name>
+		<name normalized="Gauteng-sen" languages="Hakka">Gauteng-sén</name>
+		<name normalized="Gautengas" languages="Lithuanian">Gautengas</name>
+		<name normalized="IGauteng" languages="Zulu">IGauteng</name>
+		<name normalized="IPhondo yaRhawuti" languages="Xhosa">IPhondo yaRhawuti</name>
+		<name normalized="Kautian" languages="Volapuk">Kautiän</name>
+		<name normalized="Provincia Gauteng" languages="Romanian">Provincia Gauteng</name>
+		<name normalized="Hautengo" languages="Esperanto">Ĥaŭtengo</name>
+		<name normalized="Gautiнg" languages="Bulgarian;Macedonian;Russian">Гаутенг</name>
+		<name normalized="Kautiнg" languages="Serbian">Хаутенг</name>
+		<name normalized="Ґautiнg" languages="Ukrainian">Ґаутенг</name>
+		<name normalized="hאvtnג" languages="Hebrew">חאוטנג</name>
+		<name normalized="غאوtyنj" languages="Arabic">غاوتينج</name>
+		<name normalized="gאؤtنg" languages="Western Punjabi">گاؤتنگ</name>
+		<name normalized="g्vाटeंg" languages="Marathi">ग्वाटेंग</name>
+		<name normalized="hutn州" languages="Japanese">ハウテン州</name>
+		<name normalized="豪登省" languages="Chinese">豪登省</name>
+		<name normalized="하우텡 주" languages="Korean">하우텡 주</name>
+	</region>
+	<region name="KwaZulu-Natal" type="province" typeTranslated="province">
+		<name normalized="IPhondo yaKwaZulu-Natala" languages="Xhosa">IPhondo yaKwaZulu-Natala</name>
+		<name normalized="KaZulu" languages="Swati">KaZulu</name>
+		<name normalized="Kvazulu-Natalis" languages="Lithuanian">Kvazulu-Natalis</name>
+		<name normalized="Kvazulu-Natalo" languages="Esperanto">Kvazulu-Natalo</name>
+		<name normalized="Kvazulu-Natala" languages="Latvian">Kvazulu-Natāla</name>
+		<name normalized="Kwa-Zulu Natal" languages="Slovak">Kwa-Zulu Natal</name>
+		<name normalized="KwaZoeloe-Natal" languages="Dutch">KwaZoeloe-Natal</name>
+		<name normalized="KwaZulu Natala" languages="Northern Sotho">KwaZulu Natala</name>
+		<name normalized="KwaZulu-Natal" languages="Afrikaans;Basque;Catalan;Croatian;Czech;Danish;English;Estonian;Finnish;French;Galician;German;Indonesian;Italian;Luxembourgish;Norwegian (bokmal);Novial;Nyanja;Occitan;official;Polish;Portuguese;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tswana;Turkish;Venda;Vietnamese;Welsh;Yoruba;Zulu">KwaZulu-Natal</name>
+		<name normalized="KwaZulu-Natal Province" languages="English;official;Somali">KwaZulu-Natal Province</name>
+		<name normalized="Kwazulu-Natala" languages="Southern Sotho">Kwazulu-Natala</name>
+		<name normalized="Provincia KwaZulu-Natal" languages="Romanian">Provincia KwaZulu-Natal</name>
+		<name normalized="Suluvan-Natalian" languages="Volapuk">Suluvän-Nataliän</name>
+		<name normalized="Zuluvia-Nativitas" languages="Latin">Zuluvia-Nativitas</name>
+		<name normalized="Kvazuлu-Нataл" languages="Bulgarian;Macedonian;Russian;Serbian;biлaрuсkai (taрaskivita)‎">Квазулу-Натал</name>
+		<name normalized="Kvazuлu-Нataль" languages="Ukrainian">Квазулу-Наталь</name>
+		<name normalized="Pрaviнtыi Kvazuлu-Нataл" languages="Belarusian">Правінцыя Квазулу-Натал</name>
+		<name normalized="qvvאזvדv-ntאד" languages="Hebrew">קוואזולו-נטאל</name>
+		<name normalized="kوאزولو نאtאل" languages="Arabic">كوازولو ناتال</name>
+		<name normalized="کوאزولو نٹאل" languages="Western Punjabi">کوازولو نٹال</name>
+		<name normalized="کوאزولو-نאtאل" languages="Persian">کوازولو-ناتال</name>
+		<name normalized="k्vाjulu-nाtाl" languages="Marathi">क्वाझुलू-नाताल</name>
+		<name normalized="koy়া-julu nাটাl p্rdes" languages="Bengali">কোয়া-জুলু নাটাল প্রদেশ</name>
+		<name normalized="kwzーr・ntーr州" languages="Japanese">クワズール・ナタール州</name>
+		<name normalized="夸祖魯-納塔爾省" languages="Chinese">夸祖魯-納塔爾省</name>
+		<name normalized="콰줄루나탈 주" languages="Korean">콰줄루나탈 주</name>
+	</region>
+	<region name="Limpopo" type="province" typeTranslated="province">
+		<name normalized="IPhondo yaLimpopo" languages="Xhosa">IPhondo yaLimpopo</name>
+		<name normalized="Limpopas" languages="Lithuanian">Limpopas</name>
+		<name normalized="Limpopo" languages="Afrikaans;Basque;Croatian;Danish;Dutch;English;French;Galician;German;Indonesian;Northern Sotho;Norwegian (bokmal);Nyanja;official;Polish;Portuguese;Serbo-Croatian;Southern Sotho;Swahili;Swati;Tsonga;Tswana;Turkish;Venda;Vietnamese;Yoruba;Zulu">Limpopo</name>
+		<name normalized="Limpopo Province" languages="English;official;Somali">Limpopo Province</name>
+		<name normalized="Limpopo Provinse" languages="Novial">Limpopo Provinse</name>
+		<name normalized="Limpopo provints" languages="Estonian">Limpopo provints</name>
+		<name normalized="Limpopo-sen" languages="Hakka">Limpopo-sén</name>
+		<name normalized="Limpopoian" languages="Volapuk">Limpopoiän</name>
+		<name normalized="Limpopon provinssi" languages="Finnish">Limpopon provinssi</name>
+		<name normalized="Limpopoprovinsen" languages="Swedish">Limpopoprovinsen</name>
+		<name normalized="Provincia de Limpopo" languages="Spanish">Provincia de Limpopo</name>
+		<name normalized="Provincia del Limpopo" languages="Italian">Provincia del Limpopo</name>
+		<name normalized="Provincia Limpopi" languages="Latin">Provincia Limpopi</name>
+		<name normalized="Provincia Limpopo" languages="Romanian">Provincia Limpopo</name>
+		<name normalized="Provinco Limpopo" languages="Esperanto">Provinco Limpopo</name>
+		<name normalized="Provincia de Limpopo" languages="Catalan">Província de Limpopo</name>
+		<name normalized="Лiмpopo" languages="Bulgarian;Macedonian;Russian;Serbian;Tajik">Лимпопо</name>
+		<name normalized="Лiмpopa" languages="biлaрuсkai (taрaskivita)‎">Лімпопа</name>
+		<name normalized="Лiмpopo" languages="Ukrainian">Лімпопо</name>
+		<name normalized="Pрaviнtыi Лiмpopa" languages="Belarusian">Правінцыя Лімпопа</name>
+		<name normalized="لmpوpو" languages="Western Punjabi">لمپوپو</name>
+		<name normalized="لymbوbو" languages="Arabic">ليمبوبو</name>
+		<name normalized="لیmpوpو" languages="Persian">لیمپوپو</name>
+		<name normalized="lim्popo" languages="Marathi">लिम्पोपो</name>
+		<name normalized="ლიმპოპო" languages="Georgian">ლიმპოპო</name>
+		<name normalized="rnpp州" languages="Japanese">リンポポ州</name>
+		<name normalized="林波波省" languages="Chinese">林波波省</name>
+		<name normalized="림포포 주" languages="Korean">림포포 주</name>
+	</region>
+	<region name="Mpumalanga" type="province" typeTranslated="province">
+		<name normalized="IPhondo yaMpumalanga" languages="Xhosa">IPhondo yaMpumalanga</name>
+		<name normalized="Mpumalanga" languages="Afrikaans;Basque;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Indonesian;Italian;Latin;Lithuanian;Northern Sotho;Norwegian (bokmal);Novial;Nyanja;official;Polish;Portuguese;Serbo-Croatian;Southern Sotho;Spanish;Swahili;Swati;Swedish;Tswana;Turkish;Venda;Vietnamese;Waray;Yoruba;Zulu">Mpumalanga</name>
+		<name normalized="Mpumalanga Province" languages="English;official;Somali">Mpumalanga Province</name>
+		<name normalized="Mpumalanga-sen" languages="Hakka">Mpumalanga-sén</name>
+		<name normalized="Mpumalangian" languages="Volapuk">Mpumalangiän</name>
+		<name normalized="Provincia Mpumalanga" languages="Romanian">Provincia Mpumalanga</name>
+		<name normalized="Мpuмaлaнga" languages="Bulgarian;Macedonian;Russian;Serbian;Ukrainian;biлaрuсkai (taрaskivita)‎">Мпумаланга</name>
+		<name normalized="Pрaviнtыi Мpuмaлaнga" languages="Belarusian">Правінцыя Мпумаланга</name>
+		<name normalized="מpvמדnגh" languages="Hebrew">מפומלנגה</name>
+		<name normalized="mbوmאلאنjא" languages="Arabic">مبومالانجا</name>
+		<name normalized="mpوmאلאنgא" languages="Western Punjabi">مپومالانگا</name>
+		<name normalized="um्pumाlांgा" languages="Marathi">उम्पुमालांगा</name>
+		<name normalized="მპუმალანგა" languages="Georgian">მპუმალანგა</name>
+		<name normalized="mpmrng州" languages="Japanese">ムプマランガ州</name>
+		<name normalized="普馬蘭加省" languages="Chinese">普馬蘭加省</name>
+		<name normalized="음푸말랑가 주" languages="Korean">음푸말랑가 주</name>
+	</region>
+	<region name="North West" type="province" typeTranslated="province">
+		<name normalized="Bokone Bophirim" languages="Tswana">Bokone Bophirim</name>
+		<name normalized="Boreoccidens" languages="Latin">Boreoccidens</name>
+		<name normalized="Devhula-Vhukovhela" languages="Venda">Devhula-Vhukovhela</name>
+		<name normalized="Ipar-mendebaldea" languages="Basque">Ipar-mendebaldea</name>
+		<name normalized="IPhondo yaseMntla-Ntshona" languages="Xhosa">IPhondo yaseMntla-Ntshona</name>
+		<name normalized="Kaskazini-Magharibi" languages="Swahili">Kaskazini-Magharibi</name>
+		<name normalized="Leboa Bohlabela Transvaal" languages="Northern Sotho">Leboa Bohlabela Transvaal</name>
+		<name normalized="Leboya Bophirimela" languages="Southern Sotho">Leboya Bophirimela</name>
+		<name normalized="Loodeprovints" languages="Estonian">Loodeprovints</name>
+		<name normalized="Luoteismaakunta" languages="Finnish">Luoteismaakunta</name>
+		<name normalized="Noludavesudian" languages="Volapuk">Nolüdavesüdiän</name>
+		<name normalized="Noordwes" languages="Afrikaans">Noordwes</name>
+		<name normalized="Noordwest" languages="Dutch">Noordwest</name>
+		<name normalized="Nord-Ouest" languages="French">Nord-Ouest</name>
+		<name normalized="Nord-west Provinse" languages="Novial">Nord-west Provinse</name>
+		<name normalized="Nordokcidenta Provinco" languages="Esperanto">Nordokcidenta Provinco</name>
+		<name normalized="Nordvest" languages="Danish">Nordvest</name>
+		<name normalized="Nordvastprovinsen" languages="Swedish">Nordvästprovinsen</name>
+		<name normalized="Nordwest" languages="German">Nordwest</name>
+		<name normalized="Noroeste" languages="Portuguese">Noroeste</name>
+		<name normalized="North West" languages="Croatian;English;Indonesian;Norwegian (bokmal);Nyanja;official;Serbo-Croatian;Swati">North West</name>
+		<name normalized="North West Province" languages="English;official;Somali">North West Province</name>
+		<name normalized="Nyakatho-Ntshonalanga" languages="Zulu">Nyakatho-Ntshonalanga</name>
+		<name normalized="Provincia del Nordovest" languages="Italian">Provincia del Nordovest</name>
+		<name normalized="Provincia del Noroeste" languages="Spanish">Provincia del Noroeste</name>
+		<name normalized="Provincia North West" languages="Romanian">Provincia North West</name>
+		<name normalized="Provincia del Nord-oest" languages="Catalan">Província del Nord-oest</name>
+		<name normalized="Prowincja Polnocno-Zachodnia" languages="Polish">Prowincja Północno-Zachodnia</name>
+		<name normalized="Si-pet-sen" languages="Hakka">Sî-pet-sén</name>
+		<name normalized="Tay Bac" languages="Vietnamese">Tây Bắc</name>
+		<name normalized="Ariwa-Iwoorun" languages="Yoruba">Àríwá-Ìwọòrùn</name>
+		<name normalized="Siaures Vakarai" languages="Lithuanian">Šiaurės Vakarai</name>
+		<name normalized="Pivнicнo-Zakidнa pрoviнtii" languages="Ukrainian">Північно-Західна провінція</name>
+		<name normalized="Сiviрo-Zapadнai pрoviнtii" languages="Russian">Северо-Западная провинция</name>
+		<name normalized="Сiviрozapadнa pokрaiнa" languages="Macedonian">Северозападна покраина</name>
+		<name normalized="Сiviрozapadнa pokрajiнa" languages="Serbian">Северозападна покрајина</name>
+		<name normalized="Сiviрozapadнa pрoviнtii" languages="Bulgarian">Северозападна провинция</name>
+		<name normalized="אtلא لیندא" languages="Western Punjabi">اتلا لیندا</name>
+		<name normalized="אلشmאلyة אلغrbyة" languages="Arabic">الشمالية الغربية</name>
+		<name normalized="nor्t ves्ट" languages="Marathi">नॉर्थ वेस्ट</name>
+		<name normalized="ut্tr ps্cim p্rdes" languages="Bengali">উত্তর পশ্চিম প্রদেশ</name>
+		<name normalized="ჩრდილო-დასავლეთი" languages="Georgian">ჩრდილო-დასავლეთი</name>
+		<name normalized="北西州" languages="Japanese">北西州</name>
+		<name normalized="西北省" languages="Chinese">西北省</name>
+		<name normalized="노스웨스트 주" languages="Korean">노스웨스트 주</name>
+	</region>
+	<region name="Northern Cape" type="province" typeTranslated="province">
+		<name normalized="Bac Cape" languages="Vietnamese">Bắc Cape</name>
+		<name normalized="Cabo" languages="Portuguese">Cabo</name>
+		<name normalized="Cabo Setentrional" languages="Portuguese">Cabo Setentrional</name>
+		<name normalized="Cao Setentrional" languages="veneto">Cao Setentrional</name>
+		<name normalized="Cap Septentrional" languages="Catalan;Occitan">Cap Septentrional</name>
+		<name normalized="Cap-du-Nord" languages="French">Cap-du-Nord</name>
+		<name normalized="Capa" languages="Catalan;German;Spanish">Capa</name>
+		<name normalized="Cape" languages="English;official;Simple English;Swedish">Cape</name>
+		<name normalized="Cape Province" languages="English;official">Cape Province</name>
+		<name normalized="Cappa" languages="Italian;Sicilian">Cappa</name>
+		<name normalized="IKipi laseNyakatho" languages="Zulu">IKipi laseNyakatho</name>
+		<name normalized="IPhondo yaseMntla-Koloni" languages="Xhosa">IPhondo yaseMntla-Koloni</name>
+		<name normalized="Jimbo la Rasi" languages="Swahili">Jimbo la Rasi</name>
+		<name normalized="Kaapprovincie" languages="Dutch">Kaapprovincie</name>
+		<name normalized="Kaapprovinsie" languages="Afrikaans">Kaapprovinsie</name>
+		<name normalized="Kabo" languages="Esperanto">Kabo</name>
+		<name normalized="Kabprovinco" languages="Esperanto">Kabprovinco</name>
+		<name normalized="Kap-provinsen" languages="Danish">Kap-provinsen</name>
+		<name normalized="Kapa" languages="Southern Sotho">Kapa</name>
+		<name normalized="Kapa Devhula" languages="Venda">Kapa Devhula</name>
+		<name normalized="Kapa Leboa" languages="Northern Sotho">Kapa Leboa</name>
+		<name normalized="Kapa Leboya" languages="Southern Sotho">Kapa Leboya</name>
+		<name normalized="Kappe" languages="Danish">Kappe</name>
+		<name normalized="Kapprovinsen" languages="Norwegian (bokmal);Swedish">Kapprovinsen</name>
+		<name normalized="Kapprovinz" languages="German">Kapprovinz</name>
+		<name normalized="Kapsko" languages="Czech">Kapsko</name>
+		<name normalized="Keeppi" languages="Finnish">Keeppi</name>
+		<name normalized="Kraj Przyladkowy" languages="Polish">Kraj Przylądkowy</name>
+		<name normalized="Kuzey Kap" languages="Turkish">Kuzey Kap</name>
+		<name normalized="Lurmutur Iparraldea" languages="Basque">Lurmutur Iparraldea</name>
+		<name normalized="Noludakepian" languages="Volapuk">Nolüdakepiän</name>
+		<name normalized="Noord-Kaap" languages="Afrikaans;Dutch">Noord-Kaap</name>
+		<name normalized="Nord Kabe" languages="Novial">Nord Kabe</name>
+		<name normalized="Nord-Kapprovinsen" languages="Danish">Nord-Kapprovinsen</name>
+		<name normalized="Norda Kablando" languages="Esperanto">Norda Kablando</name>
+		<name normalized="Nordkap" languages="German">Nordkap</name>
+		<name normalized="Norra Kapprovinsen" languages="Swedish">Norra Kapprovinsen</name>
+		<name normalized="North Cape" languages="Serbo-Croatian">North Cape</name>
+		<name normalized="Northern Cape" languages="Croatian;English;Faroese;Indonesian;Norwegian (bokmal);Norwegian Nynorsk;Nyanja;official;Swati;Tswana;Yoruba">Northern Cape</name>
+		<name normalized="Northern Cape Province" languages="English;official;Somali">Northern Cape Province</name>
+		<name normalized="Pet Khoi-phu-sen" languages="Hakka">Pet Khôi-phú-sén</name>
+		<name normalized="Pohjois-Kap" languages="Finnish">Pohjois-Kap</name>
+		<name normalized="Promontorium Septemtrionale" languages="Latin">Promontorium Septemtrionale</name>
+		<name normalized="Province du Cap" languages="French">Province du Cap</name>
+		<name normalized="Provincia del Cabo" languages="Spanish">Provincia del Cabo</name>
+		<name normalized="Provincia del Capo Settentrionale" languages="Italian">Provincia del Capo Settentrionale</name>
+		<name normalized="Provincia Northern Cape" languages="Romanian">Provincia Northern Cape</name>
+		<name normalized="Provincia Septentrional del Cabo" languages="Spanish">Provincia Septentrional del Cabo</name>
+		<name normalized="Provincia del Cap" languages="Catalan">Província del Cap</name>
+		<name normalized="Prowincja Przyladkowa Polnocna" languages="Polish">Prowincja Przylądkowa Północna</name>
+		<name normalized="Pohja-Kapimaa" languages="Estonian">Põhja-Kapimaa</name>
+		<name normalized="Rasi ya Kaskazini" languages="Swahili">Rasi ya Kaskazini</name>
+		<name normalized="Eszak-Fokfold" languages="Hungarian">Észak-Fokföld</name>
+		<name normalized="Siaures Kapas" languages="Lithuanian">Šiaurės Kapas</name>
+		<name normalized="Kapсka pрoviнtii" languages="Bulgarian">Капска провинция</name>
+		<name normalized="Kapсkai pрaviнtыi" languages="Belarusian">Капская правінцыя</name>
+		<name normalized="Kapсkai pрoviнtii" languages="Russian">Капская провинция</name>
+		<name normalized="Kapсьka pрoviнtii" languages="Ukrainian">Капська провінція</name>
+		<name normalized="Kijp Pрoviнtija" languages="Serbian">Кејп Провинција</name>
+		<name normalized="Pivнicнa Kapсьka pрoviнtii" languages="Ukrainian">Північна Капська провінція</name>
+		<name normalized="Сiviрiн Kiйp" languages="Bulgarian">Северен Кейп</name>
+		<name normalized="Сiviрiн Kijp" languages="Macedonian">Северен Кејп</name>
+		<name normalized="Сiviрнi Kijp" languages="Serbian">Северни Кејп</name>
+		<name normalized="Сiviрo-Kapсkai pрoviнtii" languages="Russian">Северо-Капская провинция</name>
+		<name normalized="Kաpի նաhանգ" languages="Armenian">Կապի նահանգ</name>
+		<name normalized="hכף hצpvnי" languages="Hebrew">הכף הצפוני</name>
+		<name normalized="אtلא کیp" languages="Western Punjabi">اتلا کیپ</name>
+		<name normalized="אلkאb" languages="Arabic">الكاب</name>
+		<name normalized="شنل" languages="Persian">شنل</name>
+		<name normalized="kyb אلشmאلyة" languages="Arabic">كيب الشمالية</name>
+		<name normalized="کیp شmאلی" languages="Persian">کیپ شمالی</name>
+		<name normalized="nor्dr्n kep" languages="Marathi">नॉर्दर्न केप</name>
+		<name normalized="ut্tr kep p্rdes" languages="Bengali">উত্তর কেপ প্রদেশ</name>
+		<name normalized="kーp" languages="Japanese">ケープ</name>
+		<name normalized="kーp州" languages="Japanese">ケープ州</name>
+		<name normalized="北kーp州" languages="Japanese">北ケープ州</name>
+		<name normalized="北開普省" languages="Chinese">北開普省</name>
+		<name normalized="開普省" languages="Chinese">開普省</name>
+		<name normalized="노던케이프 주" languages="Korean">노던케이프 주</name>
+	</region>
+	<region name="Western Cape" type="province" typeTranslated="province">
+		<name normalized="Cabo" languages="Portuguese">Cabo</name>
+		<name normalized="Cabo Occidental" languages="Galician">Cabo Occidental</name>
+		<name normalized="Cabo Ocidental" languages="Portuguese">Cabo Ocidental</name>
+		<name normalized="Cap Occidental" languages="Catalan">Cap Occidental</name>
+		<name normalized="Cap-Occidental" languages="French">Cap-Occidental</name>
+		<name normalized="Capa" languages="Catalan;German;Spanish">Capa</name>
+		<name normalized="Cape" languages="English;official;Simple English;Swedish">Cape</name>
+		<name normalized="Cape Barat" languages="Malay">Cape Barat</name>
+		<name normalized="Cape Province" languages="English;official">Cape Province</name>
+		<name normalized="Cappa" languages="Italian;Sicilian">Cappa</name>
+		<name normalized="IKipi laseNtshonalanga" languages="Zulu">IKipi laseNtshonalanga</name>
+		<name normalized="IPhondo yaNtshona-Koloni" languages="Xhosa">IPhondo yaNtshona-Koloni</name>
+		<name normalized="Jimbo la Rasi" languages="Swahili">Jimbo la Rasi</name>
+		<name normalized="Kaapprovincie" languages="Dutch">Kaapprovincie</name>
+		<name normalized="Kaapprovinsie" languages="Afrikaans">Kaapprovinsie</name>
+		<name normalized="Kabo" languages="Esperanto">Kabo</name>
+		<name normalized="Kabprovinco" languages="Esperanto">Kabprovinco</name>
+		<name normalized="Kap-provinsen" languages="Danish">Kap-provinsen</name>
+		<name normalized="Kapa" languages="Southern Sotho">Kapa</name>
+		<name normalized="Kapa Bodikela" languages="Northern Sotho">Kapa Bodikela</name>
+		<name normalized="Kapa Bophirimela" languages="Southern Sotho">Kapa Bophirimela</name>
+		<name normalized="Kapa Vhukovhela" languages="Venda">Kapa Vhukovhela</name>
+		<name normalized="Kappe" languages="Danish">Kappe</name>
+		<name normalized="Kapprovinsen" languages="Norwegian (bokmal);Swedish">Kapprovinsen</name>
+		<name normalized="Kapprovinz" languages="German">Kapprovinz</name>
+		<name normalized="Kapsko" languages="Czech">Kapsko</name>
+		<name normalized="Keeppi" languages="Finnish">Keeppi</name>
+		<name normalized="Kraj Przyladkowy" languages="Polish">Kraj Przylądkowy</name>
+		<name normalized="Lurmutur Mendebaldea" languages="Basque">Lurmutur Mendebaldea</name>
+		<name normalized="Lansi-Kap" languages="Finnish">Länsi-Kap</name>
+		<name normalized="Laane-Kapimaa" languages="Estonian">Lääne-Kapimaa</name>
+		<name normalized="Okcidenta Kablando" languages="Esperanto">Okcidenta Kablando</name>
+		<name normalized="Promontorium Occidentale" languages="Latin">Promontorium Occidentale</name>
+		<name normalized="Province du Cap" languages="French">Province du Cap</name>
+		<name normalized="Provincia del Cabo" languages="Spanish">Provincia del Cabo</name>
+		<name normalized="Provincia del Capo Occidentale" languages="Italian">Provincia del Capo Occidentale</name>
+		<name normalized="Provincia Occidental del Cabo" languages="Spanish">Provincia Occidental del Cabo</name>
+		<name normalized="Provincia Western Cape" languages="Romanian">Provincia Western Cape</name>
+		<name normalized="Provincia del Cap" languages="Catalan">Província del Cap</name>
+		<name normalized="Prowincja Przyladkowa Zachodnia" languages="Polish">Prowincja Przylądkowa Zachodnia</name>
+		<name normalized="Rasi ya Magharibi" languages="Swahili">Rasi ya Magharibi</name>
+		<name normalized="Si Khoi-phu-sen" languages="Hakka">Sî Khôi-phú-sén</name>
+		<name normalized="Tay Cape" languages="Vietnamese">Tây Cape</name>
+		<name normalized="Vakaru Kapas" languages="Lithuanian">Vakarų Kapas</name>
+		<name normalized="Vest-Kapprovinsen" languages="Danish">Vest-Kapprovinsen</name>
+		<name normalized="Vesudakepian" languages="Volapuk">Vesüdakepiän</name>
+		<name normalized="Vastra Kapprovinsen" languages="Swedish">Västra Kapprovinsen</name>
+		<name normalized="Wastren Cape" languages="Scots">Wastren Cape</name>
+		<name normalized="Wes-Kaap" languages="Afrikaans">Wes-Kaap</name>
+		<name normalized="West Kabe" languages="Novial">West Kabe</name>
+		<name normalized="West-Kaap" languages="Dutch">West-Kaap</name>
+		<name normalized="Western Cape" languages="Croatian;English;Indonesian;Norwegian (bokmal);Norwegian Nynorsk;Nyanja;official;Serbo-Croatian;Swati;Tswana;Yoruba">Western Cape</name>
+		<name normalized="Western Cape Province" languages="English;official;Somali">Western Cape Province</name>
+		<name normalized="Westkap" languages="German">Westkap</name>
+		<name normalized="Zapadiн Kiйp" languages="Bulgarian">Западен Кейп</name>
+		<name normalized="Zapadiн Kijp" languages="Macedonian">Западен Кејп</name>
+		<name normalized="Zapadнi Kijp" languages="Serbian">Западни Кејп</name>
+		<name normalized="Zapadнo-Kapсkai pрoviнtii" languages="Russian">Западно-Капская провинция</name>
+		<name normalized="Zakodнi-Kapсkai pрaviнtыi" languages="Belarusian">Заходне-Капская правінцыя</name>
+		<name normalized="Zakidнa Kapсьka pрoviнtii" languages="Ukrainian">Західна Капська провінція</name>
+		<name normalized="Kapсka pрoviнtii" languages="Bulgarian">Капска провинция</name>
+		<name normalized="Kapсkai pрaviнtыi" languages="Belarusian">Капская правінцыя</name>
+		<name normalized="Kapсkai pрoviнtii" languages="Russian">Капская провинция</name>
+		<name normalized="Kapсьka pрoviнtii" languages="Ukrainian">Капська провінція</name>
+		<name normalized="Kijp Pрoviнtija" languages="Serbian">Кејп Провинција</name>
+		<name normalized="Աrևեlյան Kեյփ" languages="Armenian">Արևելյան Քեյփ</name>
+		<name normalized="Kաpի նաhանգ" languages="Armenian">Կապի նահանգ</name>
+		<name normalized="hכף hמעrbי" languages="Hebrew">הכף המערבי</name>
+		<name normalized="אلkאb" languages="Arabic">الكاب</name>
+		<name normalized="شنل" languages="Persian">شنل</name>
+		<name normalized="kyb אلغrbyة" languages="Arabic">كيب الغربية</name>
+		<name normalized="چڑھدא کیp" languages="Western Punjabi">چڑھدا کیپ</name>
+		<name normalized="کیp غrbی" languages="Persian">کیپ غربی</name>
+		<name normalized="ves्टr्n kep" languages="Marathi">वेस्टर्न केप</name>
+		<name normalized="ps্cim kep p্rdes" languages="Bengali">পশ্চিম কেপ প্রদেশ</name>
+		<name normalized="kーp" languages="Japanese">ケープ</name>
+		<name normalized="kーp州" languages="Japanese">ケープ州</name>
+		<name normalized="西kーp州" languages="Japanese">西ケープ州</name>
+		<name normalized="西開普省" languages="Chinese">西開普省</name>
+		<name normalized="開普省" languages="Chinese">開普省</name>
+		<name normalized="웨스턴케이프 주" languages="Korean">웨스턴케이프 주</name>
+	</region>
+</regions>

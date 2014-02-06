@@ -1,0 +1,654 @@
+<regions country="Cameroon">
+	<region name="Adamaoua" type="region" typeTranslated="region">
+		<name normalized="Adamaoua" languages="Dutch;English;German;Italian;Norwegian (bokmal);official">Adamaoua</name>
+		<name normalized="Adamaoua piirkond" languages="Estonian">Adamaoua piirkond</name>
+		<name normalized="Adamaoua Region" languages="English;official">Adamaoua Region</name>
+		<name normalized="Adamaua" languages="German">Adamaua</name>
+		<name normalized="Adamava" languages="Lithuanian">Adamava</name>
+		<name normalized="Adamavos regionas" languages="Lithuanian">Adamavos regionas</name>
+		<name normalized="Adamawa" languages="Dutch;English;Estonian;French;Galician;Polish;Portuguese;Slovak;Spanish">Adamawa</name>
+		<name normalized="Adamawa Bolgesi" languages="Turkish">Adamawa Bölgesi</name>
+		<name normalized="Adamawa Region" languages="English">Adamawa Region</name>
+		<name normalized="Provincia Adamawa" languages="Romanian">Provincia Adamawa</name>
+		<name normalized="Region Adamawa" languages="Indonesian">Region Adamawa</name>
+		<name normalized="Regione di Adamaoua" languages="Italian">Regione di Adamaoua</name>
+		<name normalized="Region Adamawa" languages="Spanish">Región Adamawa</name>
+		<name normalized="Region de l'Adamaoua" languages="French">Région de l'Adamaoua</name>
+		<name normalized="Adaмava" languages="Russian;biлaрuсkai (taрaskivita)‎">Адамава</name>
+		<name normalized="Adaмaua" languages="Bulgarian;Ukrainian">Адамауа</name>
+		<name normalized="Viлoiti Adaмaoua" languages="Tajik">Вилояти Адамаоуа</name>
+		<name normalized="Рegiён Adaмava" languages="Belarusian">Рэгіён Адамава</name>
+		<name normalized="אسtאن آدאmאوא" languages="Persian">استان آداماوا</name>
+		<name normalized="അഡമാവാ" languages="Malayalam">അഡമാവാ</name>
+		<name normalized="admw" languages="Japanese">アダマワ</name>
+		<name normalized="admw州" languages="Japanese">アダマワ州</name>
+		<name normalized="阿达马瓦区" languages="Chinese">阿达马瓦区</name>
+		<name normalized="아다마와" languages="Korean">아다마와</name>
+		<name normalized="아다마와 주" languages="Korean">아다마와 주</name>
+	</region>
+	<region name="Centre" type="region" typeTranslated="region">
+		<name normalized="Butnga nga Rehiyon han Fransya" languages="Waray">Butnga nga Rehiyon han Fransya</name>
+		<name normalized="Center" languages="Breton;Danish;Dutch;English;French;German;Italian;Polish;Portuguese;Slovak;Slovenian;Spanish;Swedish">Center</name>
+		<name normalized="Centras" languages="Lithuanian">Centras</name>
+		<name normalized="Centre" languages="Afrikaans;Basque;Bosnian;Breton;Catalan;Cebuano;Croatian;Czech;Danish;Dutch;English;German;Hungarian;Icelandic;Indonesian;Javanese;Kurdish;lumbaart;Luxembourgish;Malagasy;Malay;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Quechua;Scots;Simple English;Slovak;Swedish;Vietnamese;Volapuk;Welsh;Zazaki">Centre</name>
+		<name normalized="Centre Region" languages="English">Centre Region</name>
+		<name normalized="Centro" languages="Aragonese;Esperanto;Galician;Ido;Italian;Portuguese;Spanish">Centro</name>
+		<name normalized="Centrs" languages="Latvian">Centrs</name>
+		<name normalized="Centru" languages="Asturian;Romanian">Centru</name>
+		<name normalized="Centrum" languages="Latin">Centrum</name>
+		<name normalized="Chente" languages="Nouormand">Chente</name>
+		<name normalized="Keski-Ranska" languages="Finnish">Keski-Ranska</name>
+		<name normalized="Keskpiirkond" languages="Estonian">Keskpiirkond</name>
+		<name normalized="Keskpunkt" languages="Estonian">Keskpunkt</name>
+		<name normalized="Merkez" languages="Turkish">Merkez</name>
+		<name normalized="Mkoa wa Centre" languages="Swahili">Mkoa wa Centre</name>
+		<name normalized="Pakati" languages="Shona">Pakati</name>
+		<name normalized="Region Centralny" languages="Polish">Region Centralny</name>
+		<name normalized="Region Centre" languages="English;official">Region Centre</name>
+		<name normalized="Region du Centre" languages="English;official">Region du Centre</name>
+		<name normalized="Region Centre" languages="Chinese (Min Nan);French;Sicilian">Région Centre</name>
+		<name normalized="Sentr" languages="Azerbaijani">Sentr</name>
+		<name normalized="Sentro" languages="Ladino;veneto">Sentro</name>
+		<name normalized="Sintre" languages="Western Frisian">Sintre</name>
+		<name normalized="Cantre" languages="Franco-Provencal">Çantre</name>
+		<name normalized="Рegiён Teнtр" languages="Belarusian">Рэгіён Цэнтр</name>
+		<name normalized="Tiнtaр" languages="Macedonian;Serbian">Центар</name>
+		<name normalized="Tiнtр" languages="Ossetic;Russian;Ukrainian">Центр</name>
+		<name normalized="Tiнtър" languages="Bulgarian">Център</name>
+		<name normalized="Teнtaр" languages="biлaрuсkai (taрaskivita)‎">Цэнтар</name>
+		<name normalized="מrכז" languages="Hebrew">מרכז</name>
+		<name normalized="סאntr" languages="Hebrew">סאנטר</name>
+		<name normalized="سאنtr" languages="Arabic;Persian">سانتر</name>
+		<name normalized="سنٹr" languages="Western Punjabi">سنٹر</name>
+		<name normalized="sाँt्r" languages="Marathi">साँत्र</name>
+		<name normalized="sঁt্r্‌" languages="Bengali">সঁত্র্‌</name>
+		<name normalized="saਂtr" languages="Punjabi">ਸੌਂਤਰ</name>
+		<name normalized="เซ็นเตอร์" languages="Thai">เซ็นเตอร์</name>
+		<name normalized="แคว้นซ็องทร์" languages="Thai">แคว้นซ็องทร์</name>
+		<name normalized="ცენტრი" languages="Georgian;Mingrelian">ცენტრი</name>
+		<name normalized="sntr地域圏" languages="Japanese">サントル地域圏</name>
+		<name normalized="sntー" languages="Japanese">センター</name>
+		<name normalized="中央" languages="Chinese">中央</name>
+		<name normalized="中心" languages="Chinese">中心</name>
+		<name normalized="상트르" languages="Korean">상트르</name>
+		<name normalized="센터" languages="Korean">센터</name>
+	</region>
+	<region name="East" type="region" typeTranslated="region">
+		<name normalized="Anti" languages="Quechua">Anti</name>
+		<name normalized="Aslagan" languages="Pampanga">Aslagan</name>
+		<name normalized="Aust" languages="Norwegian Nynorsk">Aust</name>
+		<name normalized="Austrumi" languages="Latvian">Austrumi</name>
+		<name normalized="Austur" languages="Icelandic">Austur</name>
+		<name normalized="Bari" languages="Somali">Bari</name>
+		<name normalized="Dogu" languages="Turkish">Doğu</name>
+		<name normalized="Dogu Bolgesi" languages="Turkish">Doğu Bölgesi</name>
+		<name normalized="East" languages="English;official;Scots;Simple English">East</name>
+		<name normalized="East Region" languages="English;official">East Region</name>
+		<name normalized="Ekialde" languages="Basque">Ekialde</name>
+		<name normalized="Est" languages="Catalan;Chinese;Dutch;English;Esperanto;Estonian;French;Friulian;German;Hungarian;Indonesian;Interlingua;Italian;Japanese;Korean;Latvian;Lithuanian;lumbaart;Neapolitan;Norwegian (bokmal);official;Persian;Polish;Romanian;Russian;Slovenian;Spanish;Swedish;Turkish;veneto">Est</name>
+		<name normalized="Este" languages="Asturian;Spanish">Este</name>
+		<name normalized="Esto" languages="Ido">Esto</name>
+		<name normalized="Estu" languages="Corsican">Estu</name>
+		<name normalized="Huong Dong" languages="Vietnamese">Hướng Đông</name>
+		<name normalized="Ida" languages="Estonian">Ida</name>
+		<name normalized="Idapiirkond" languages="Estonian">Idapiirkond</name>
+		<name normalized="Istok" languages="Bosnian;Croatian;Serbo-Croatian">Istok</name>
+		<name normalized="Ita" languages="Finnish">Itä</name>
+		<name normalized="Kelet" languages="Hungarian">Kelet</name>
+		<name normalized="Kuarahyrese" languages="Guarani">Kuarahyresẽ</name>
+		<name normalized="Leste" languages="Galician;Portuguese">Leste</name>
+		<name normalized="Levant" languages="Walloon">Levant</name>
+		<name normalized="Lindja" languages="Albanian">Lindja</name>
+		<name normalized="Les" languages="Haitian">Lès</name>
+		<name normalized="Mabvazuva" languages="Shona">Mabvazuva</name>
+		<name normalized="Mashariki" languages="Swahili">Mashariki</name>
+		<name normalized="Mateina" languages="Emiliano-Romagnolo">Matèina</name>
+		<name normalized="Monyele" languages="Lingala">Monyɛlɛ</name>
+		<name normalized="Oirthear" languages="Irish">Oirthear</name>
+		<name normalized="Oos" languages="Afrikaans">Oos</name>
+		<name normalized="Oost" languages="Dutch">Oost</name>
+		<name normalized="Oriens" languages="Latin">Oriens</name>
+		<name normalized="Oriento" languages="Esperanto">Oriento</name>
+		<name normalized="Ost" languages="Interlingue">Ost</name>
+		<name normalized="Osten" languages="Alemannisch;German">Osten</name>
+		<name normalized="Ostn" languages="Bavarian">Ostn</name>
+		<name normalized="Paivnouzm" languages="Veps">Päivnouzm</name>
+		<name normalized="Region de l'Est" languages="English;official">Region de l'Est</name>
+		<name normalized="Region Est" languages="English;official">Region Est</name>
+		<name normalized="Region Timur" languages="Indonesian">Region Timur</name>
+		<name normalized="Region Wschodni" languages="Polish">Region Wschodni</name>
+		<name normalized="Regione dell'Est" languages="Italian">Regione dell'Est</name>
+		<name normalized="Regiunea de Est" languages="Romanian">Regiunea de Est</name>
+		<name normalized="Regiao Leste" languages="Portuguese">Região Leste</name>
+		<name normalized="Region del Este" languages="Spanish">Región del Este</name>
+		<name normalized="Reter" languages="Breton">Reter</name>
+		<name normalized="Rocvetıs" languages="Zazaki">Rocvetış</name>
+		<name normalized="Rojhilat" languages="Kurdish">Rojhilat</name>
+		<name normalized="Rytai" languages="Lithuanian">Rytai</name>
+		<name normalized="Rytu regionas" languages="Lithuanian">Rytų regionas</name>
+		<name normalized="Region de l'Est" languages="French">Région de l'Est</name>
+		<name normalized="Rita" languages="Samogitian">Rītā</name>
+		<name normalized="Sharq" languages="Uzbek">Sharq</name>
+		<name normalized="Sidlakan" languages="Cebuano">Sidlakan</name>
+		<name normalized="Sinirangan" languages="Waray">Sinirangan</name>
+		<name normalized="Timur" languages="Banjar;Indonesian;Malay">Timur</name>
+		<name normalized="Uast" languages="Northern Frisian">Uast</name>
+		<name normalized="Vzhod" languages="Slovenian">Vzhod</name>
+		<name normalized="Vychod" languages="Czech;Slovak">Východ</name>
+		<name normalized="Wetan" languages="Basa Banyumasan">Wetan</name>
+		<name normalized="Wschod" languages="Polish">Wschód</name>
+		<name normalized="Wetan" languages="Javanese;Sundanese">Wétan</name>
+		<name normalized="Est" languages="Occitan">Èst</name>
+		<name normalized="Et" languages="Nouormand">Êt</name>
+		<name normalized="Oster" languages="Swedish">Öster</name>
+		<name normalized="Ost" languages="Norwegian (bokmal)">Øst</name>
+		<name normalized="Sərq" languages="Azerbaijani">Şərq</name>
+		<name normalized="Ανατολη" languages="Greek">Ανατολή</name>
+		<name normalized="Aсыvvыv" languages="Komi;Komi-Permyak">Асыввыв</name>
+		<name normalized="Viлoiti Saрki" languages="Tajik">Вилояти Шарқӣ</name>
+		<name normalized="Voсtok" languages="Russian">Восток</name>
+		<name normalized="Voсtocный рigioн" languages="Russian">Восточный регион</name>
+		<name normalized="Vъсtokъ" languages="Church Slavic">Въстокъ</name>
+		<name normalized="Doрнo" languages="Mongolian">Дорно</name>
+		<name normalized="Iztok" languages="Bulgarian">Изток</name>
+		<name normalized="Iztociн рigioн" languages="Bulgarian">Източен регион</name>
+		<name normalized="Iлiн" languages="Sakha">Илин</name>
+		<name normalized="Iсtok" languages="Macedonian;Serbian">Исток</name>
+		<name normalized="Kɵнсығыs" languages="Bashkir">Көнсығыш</name>
+		<name normalized="Kɵнcыgыs" languages="Tatar">Көнчыгыш</name>
+		<name normalized="Сkid" languages="Ukrainian">Схід</name>
+		<name normalized="Uсkod" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Усход</name>
+		<name normalized="Uсkodнi рegiён" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Усходні рэгіён</name>
+		<name normalized="Ciлiсiмa" languages="Erzya">Чилисема</name>
+		<name normalized="Cыgыs" languages="Kyrgyz">Чыгыш</name>
+		<name normalized="Saрk" languages="Tajik">Шарқ</name>
+		<name normalized="Sығыс" languages="Kazakh">Шығыс</name>
+		<name normalized="Eрviл" languages="Eastern Mari">Эрвел</name>
+		<name normalized="מזrh" languages="Hebrew">מזרח</name>
+		<name normalized="מיזrh" languages="Yiddish">מיזרח</name>
+		<name normalized="خאوr" languages="Persian">خاور</name>
+		<name normalized="خtyځ" languages="Pashto">ختيځ</name>
+		<name normalized="شrq" languages="Arabic;Egyptian Spoken Arabic">شرق</name>
+		<name normalized="mشrq" languages="Urdu">مشرق</name>
+		<name normalized="چڑدא" languages="Western Punjabi">چڑدا</name>
+		<name normalized="ܡܕܢܚܐ" languages="Aramaic">ܡܕܢܚܐ</name>
+		<name normalized="pur्v" languages="Hindi;Nepali">पूर्व</name>
+		<name normalized="pur्v disा" languages="Marathi">पूर्व दिशा</name>
+		<name normalized="vंtा" languages="Newari">वंता</name>
+		<name normalized="purb" languages="Punjabi">ਪੂਰਬ</name>
+		<name normalized="கிழக்கு" languages="Tamil">கிழக்கு</name>
+		<name normalized="తూర్పు" languages="Telugu">తూర్పు</name>
+		<name normalized="ಪೂರ್ವ" languages="Kannada">ಪೂರ್ವ</name>
+		<name normalized="കിഴക്ക്" languages="Malayalam">കിഴക്ക്</name>
+		<name normalized="ทิศตะวันออก" languages="Thai">ทิศตะวันออก</name>
+		<name normalized="ཤར་ཕྱོགས།" languages="Tibetan">ཤར་ཕྱོགས།</name>
+		<name normalized="აღმოსავლეთი" languages="Georgian">აღმოსავლეთი</name>
+		<name normalized="ምሥራቅ" languages="Amharic">ምሥራቅ</name>
+		<name normalized="东部区" languages="Chinese">东部区</name>
+		<name normalized="東" languages="Cantonese;Chinese;Classical Chinese;Gan;Hakka;Japanese">東</name>
+		<name normalized="東部州" languages="Japanese">東部州</name>
+		<name normalized="동부 주" languages="Korean">동부 주</name>
+		<name normalized="동쪽" languages="Korean">동쪽</name>
+	</region>
+	<region name="Far North" type="region" typeTranslated="region">
+		<name normalized="Extreme-Nord" languages="English;official">Extreme-Nord</name>
+		<name normalized="Extremo Norte" languages="Portuguese">Extremo Norte</name>
+		<name normalized="Extreme-Nord" languages="Dutch;German;Norwegian (bokmal)">Extrême-Nord</name>
+		<name normalized="Far North" languages="English;French;German;official;Spanish">Far North</name>
+		<name normalized="Far North Bolgesi" languages="Turkish">Far North Bölgesi</name>
+		<name normalized="Far North Region" languages="English;official">Far North Region</name>
+		<name normalized="Kaug-Pohjapiirkond" languages="Estonian">Kaug-Põhjapiirkond</name>
+		<name normalized="Provincia Extrem Nord" languages="Romanian">Provincia Extrem Nord</name>
+		<name normalized="Rannvro an Norzh-Pellan" languages="Breton">Rannvro an Norzh-Pellañ</name>
+		<name normalized="Region Dalekiej Polnocy" languages="Polish">Region Dalekiej Północy</name>
+		<name normalized="Region Extreme-Nord" languages="English;official">Region Extreme-Nord</name>
+		<name normalized="Region Ujung Utara" languages="Indonesian">Region Ujung Utara</name>
+		<name normalized="Regione dell'Estremo Nord" languages="Italian">Regione dell'Estremo Nord</name>
+		<name normalized="Region del Extremo Norte" languages="Spanish">Región del Extremo Norte</name>
+		<name normalized="Region de l'Extreme-Nord" languages="French">Région de l'Extrême-Nord</name>
+		<name normalized="Tolimosios Siaures regionas" languages="Lithuanian">Tolimosios Šiaurės regionas</name>
+		<name normalized="Viлoiti Siмoлi Duрi" languages="Tajik">Вилояти Шимоли Дурӣ</name>
+		<name normalized="Daлiciн Сiviр" languages="Bulgarian">Далечен Север</name>
+		<name normalized="Kрaйнiсiviрный рigioн" languages="Russian">Крайнесеверный регион</name>
+		<name normalized="Kрaйнi Paўнocны рegiён" languages="Belarusian">Крайні Паўночны рэгіён</name>
+		<name normalized="Uсkрaйнi Paўнocны рegiён" languages="biлaрuсkai (taрaskivita)‎">Ускрайні Паўночны рэгіён</name>
+		<name normalized="極北" languages="Japanese">極北</name>
+		<name normalized="極北區" languages="Chinese">極北區</name>
+		<name normalized="極北州" languages="Japanese">極北州</name>
+		<name normalized="극북 주" languages="Korean">극북 주</name>
+	</region>
+	<region name="Littoral" type="region" typeTranslated="region">
+		<name normalized="Battigia" languages="Italian">Battigia</name>
+		<name normalized="Can duyen" languages="Vietnamese">Cận duyên</name>
+		<name normalized="Litoraal" languages="Estonian">Litoraal</name>
+		<name normalized="Litoral" languages="German;Norwegian Nynorsk;Portuguese;Serbo-Croatian;Slovenian;Spanish;Swedish;Uzbek">Litoral</name>
+		<name normalized="Litorale" languages="Lithuanian">Litoralė</name>
+		<name normalized="Litoro" languages="Ido">Litoro</name>
+		<name normalized="Litoral" languages="Czech">Litorál</name>
+		<name normalized="Littoraal" languages="Dutch">Littoraal</name>
+		<name normalized="Littoral" languages="Dutch;English;French;German;Norwegian (bokmal);official">Littoral</name>
+		<name normalized="Littoral Bolgesi" languages="Turkish">Littoral Bölgesi</name>
+		<name normalized="Littoral Region" languages="English;official">Littoral Region</name>
+		<name normalized="Littoral zone" languages="English;Simple English">Littoral zone</name>
+		<name normalized="Marbordo" languages="Esperanto">Marbordo</name>
+		<name normalized="Pakrantes regionas" languages="Lithuanian">Pakrantės regionas</name>
+		<name normalized="Priobalje" languages="Croatian">Priobalje</name>
+		<name normalized="Provincia Litoral" languages="Romanian">Provincia Litoral</name>
+		<name normalized="Rannikupiirkond" languages="Estonian">Rannikupiirkond</name>
+		<name normalized="Region Littoral" languages="Indonesian">Region Littoral</name>
+		<name normalized="Region Nadmorski" languages="Polish">Region Nadmorski</name>
+		<name normalized="Regione del Litorale" languages="Italian">Regione del Litorale</name>
+		<name normalized="Region del Litoral" languages="Spanish">Región del Litoral</name>
+		<name normalized="Region du Littoral" languages="French">Région du Littoral</name>
+		<name normalized="Strefa przybrzezna" languages="Polish">Strefa przybrzeżna</name>
+		<name normalized="Zona litoral" languages="Catalan">Zona litoral</name>
+		<name normalized="Zona litorala" languages="Romanian">Zonă litorală</name>
+		<name normalized="Viлoiti Лittoрaл" languages="Tajik">Вилояти Литторал</name>
+		<name normalized="Лitoрaл" languages="Bulgarian">Литорал</name>
+		<name normalized="Лitoрaль" languages="Kazakh;Russian">Литораль</name>
+		<name normalized="Лitaрaль" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Літараль</name>
+		<name normalized="Лitoрaль" languages="Ukrainian">Літораль</name>
+		<name normalized="Pрibрizный рigioн" languages="Russian">Прибрежный регион</name>
+		<name normalized="Pрыbiрezны рegiён" languages="Belarusian">Прыбярэжны рэгіён</name>
+		<name normalized="වෙරළ බඩ කලාප" languages="Sinhala">වෙරළ බඩ කලාප</name>
+		<name normalized="ლიტორალი" languages="Georgian">ლიტორალი</name>
+		<name normalized="rtrr州" languages="Japanese">リトラル州</name>
+		<name normalized="濱海區" languages="Chinese">濱海區</name>
+		<name normalized="연안 주" languages="Korean">연안 주</name>
+	</region>
+	<region name="North" type="region" typeTranslated="region">
+		<name normalized="Amihan" languages="Waray">Amihan</name>
+		<name normalized="Amihanan" languages="Cebuano">Amihanan</name>
+		<name normalized="Bakur" languages="Kurdish">Bakur</name>
+		<name normalized="Baroh" languages="Achinese">Barôh</name>
+		<name normalized="Bijhe" languages="Walloon">Bijhe</name>
+		<name normalized="Chincha" languages="Quechua">Chincha</name>
+		<name normalized="Huong Bac" languages="Vietnamese">Hướng Bắc</name>
+		<name normalized="Ipar" languages="Basque">Ipar</name>
+		<name normalized="Kaler" languages="Sundanese">Kalér</name>
+		<name normalized="Kaskazini" languages="Swahili">Kaskazini</name>
+		<name normalized="Kuzey" languages="Turkish">Kuzey</name>
+		<name normalized="Kuzey Bolgesi" languages="Turkish">Kuzey Bölgesi</name>
+		<name normalized="Manorang" languages="Buginese">Manorang</name>
+		<name normalized="Maodzanyemba" languages="Shona">Maodzanyemba</name>
+		<name normalized="Nola" languages="Lingala">Nola</name>
+		<name normalized="Noord" languages="Afrikaans;Dutch">Noord</name>
+		<name normalized="Nord" languages="Breton;Catalan;Dutch;English;Estonian;Finnish;French;Friulian;German;Interlingua;Interlingue;Italian;lumbaart;Neapolitan;Norwegian (bokmal);Norwegian Nynorsk;Nouormand;official;Polish;Portuguese;Romanian;Scots;Sicilian;Slovak;Swedish;Vietnamese;veneto">Nord</name>
+		<name normalized="Norde" languages="Colognian">Norde</name>
+		<name normalized="Norden" languages="Alemannisch;German;Luxembourgish">Norden</name>
+		<name normalized="Nordo" languages="Esperanto;Ido">Nordo</name>
+		<name normalized="Nordu" languages="Corsican">Nordu</name>
+		<name normalized="Norr" languages="Swedish">Norr</name>
+		<name normalized="Norte" languages="Galician;Portuguese;Spanish">Norte</name>
+		<name normalized="North" languages="English;official;Scots;Simple English">North</name>
+		<name normalized="North Region" languages="English;official">North Region</name>
+		<name normalized="Norzh" languages="Breton">Norzh</name>
+		<name normalized="Nordur" languages="Icelandic">Norður</name>
+		<name normalized="No" languages="Haitian">Nò</name>
+		<name normalized="Nord" languages="lumbaart;Occitan">Nòrd</name>
+		<name normalized="Node" languages="Kongo">Nôde</name>
+		<name normalized="Not" languages="Emiliano-Romagnolo">Nôt</name>
+		<name normalized="Pangulu" languages="Pampanga">Pangulu</name>
+		<name normalized="Pohjoine" languages="Veps">Pohjoine</name>
+		<name normalized="Pohjoinen" languages="Finnish">Pohjoinen</name>
+		<name normalized="Provincia de Nord" languages="Romanian">Provincia de Nord</name>
+		<name normalized="Polnoc" languages="Polish">Północ</name>
+		<name normalized="Pohi" languages="Estonian">Põhi</name>
+		<name normalized="Pohjapiirkond" languages="Estonian">Põhjapiirkond</name>
+		<name normalized="Region du Nord" languages="English;official">Region du Nord</name>
+		<name normalized="Region Nord" languages="English;official">Region Nord</name>
+		<name normalized="Region Polnocny" languages="Polish">Region Północny</name>
+		<name normalized="Region Utara" languages="Indonesian">Region Utara</name>
+		<name normalized="Regione del Nord" languages="Italian">Regione del Nord</name>
+		<name normalized="Regiao Norte" languages="Portuguese">Região Norte</name>
+		<name normalized="Region del Norte" languages="Spanish">Región del Norte</name>
+		<name normalized="Region du Nord" languages="French">Région du Nord</name>
+		<name normalized="Septentrio" languages="Latin">Septentrio</name>
+		<name normalized="Sever" languages="Czech;Slovak;Slovenian">Sever</name>
+		<name normalized="Shimol" languages="Uzbek">Shimol</name>
+		<name normalized="Sjever" languages="Bosnian;Croatian;Serbo-Croatian">Sjever</name>
+		<name normalized="Tuaisceart" languages="Irish">Tuaisceart</name>
+		<name normalized="Utara" languages="Banjar;Indonesian;Malay">Utara</name>
+		<name normalized="Utaro" languages="Minangkabau">Utaro</name>
+		<name normalized="Veriu" languages="Albanian">Veriu</name>
+		<name normalized="Woqooyi" languages="Somali">Woqooyi</name>
+		<name normalized="Ziemeli" languages="Latvian">Ziemeļi</name>
+		<name normalized="Zıme" languages="Zazaki">Zıme</name>
+		<name normalized="Ariwa" languages="Yoruba">Àríwá</name>
+		<name normalized="Eszak" languages="Hungarian">Észak</name>
+		<name normalized="Simal" languages="Azerbaijani">Şimal</name>
+		<name normalized="Siaure" languages="Lithuanian;Samogitian">Šiaurė</name>
+		<name normalized="Siaures regionas" languages="Lithuanian">Šiaurės regionas</name>
+		<name normalized="Βορρας" languages="Greek">Βορράς</name>
+		<name normalized="Viлoiti Siмoлi" languages="Tajik">Вилояти Шимолӣ</name>
+		<name normalized="Voйvыv" languages="Komi">Войвыв</name>
+		<name normalized="Йudviл" languages="Eastern Mari">Йӱдвел</name>
+		<name normalized="Нoрd" languages="Russian;Ukrainian">Норд</name>
+		<name normalized="Oйvыv" languages="Komi-Permyak">Ойвыв</name>
+		<name normalized="Paўнocны рegiён" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Паўночны рэгіён</name>
+		<name normalized="Piлivi ёнkс" languages="Erzya">Пелеве ёнкс</name>
+		<name normalized="Poўнac" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Поўнач</name>
+		<name normalized="Pivнic" languages="Ukrainian">Північ</name>
+		<name normalized="Сiviр" languages="Bulgarian;Macedonian;Russian;Serbian">Север</name>
+		<name normalized="Сiviрiн рigioн" languages="Bulgarian">Северен регион</name>
+		<name normalized="Сiviрный рigioн" languages="Russian">Северный регион</name>
+		<name normalized="Сѣveръ" languages="Church Slavic">Сѣвєръ</name>
+		<name normalized="Tɵньik" languages="Tatar">Төньяк</name>
+		<name normalized="Tɵньiҡ" languages="Bashkir">Төньяҡ</name>
+		<name normalized="Kotu" languages="Sakha">Хоту</name>
+		<name normalized="Siмoл" languages="Tajik">Шимол</name>
+		<name normalized="צpvן" languages="Hebrew;Yiddish">צפון</name>
+		<name normalized="אtr" languages="Western Punjabi">اتر</name>
+		<name normalized="אلmنtqة אلشmאلyة, אلkאmyrون" languages="Arabic">المنطقة الشمالية، الكاميرون</name>
+		<name normalized="شmאل" languages="Arabic;Persian;Urdu">شمال</name>
+		<name normalized="ܬܝܡܢܐ" languages="Aramaic">ܬܝܡܢܐ</name>
+		<name normalized="ut्tr" languages="Hindi;Nepali">उत्तर</name>
+		<name normalized="ut्tr disा" languages="Marathi">उत्तर दिशा</name>
+		<name normalized="yंtा" languages="Newari">यंता</name>
+		<name normalized="uੱtr" languages="Punjabi">ਉੱਤਰ</name>
+		<name normalized="ut્tr" languages="Gujarati">ઉત્તર</name>
+		<name normalized="வடக்கு" languages="Tamil">வடக்கு</name>
+		<name normalized="ఉత్తరం" languages="Telugu">ఉత్తరం</name>
+		<name normalized="വടക്ക്" languages="Malayalam">വടക്ക്</name>
+		<name normalized="උතුර" languages="Sinhala">උතුර</name>
+		<name normalized="ทิศเหนือ" languages="Thai">ทิศเหนือ</name>
+		<name normalized="นอร์ด" languages="Thai">นอร์ด</name>
+		<name normalized="བྱང་ཕྱོགས།" languages="Tibetan">བྱང་ཕྱོགས།</name>
+		<name normalized="ჩრდილოეთი" languages="Georgian">ჩრდილოეთი</name>
+		<name normalized="ሰሜን" languages="Amharic">ሰሜን</name>
+		<name normalized="nーr" languages="Japanese">ノール</name>
+		<name normalized="北" languages="Cantonese;Chinese;Gan;Hakka;Japanese;Wu">北</name>
+		<name normalized="北部區" languages="Chinese">北部區</name>
+		<name normalized="北部州" languages="Japanese">北部州</name>
+		<name normalized="북부 주" languages="Korean">북부 주</name>
+		<name normalized="북쪽" languages="Korean">북쪽</name>
+	</region>
+	<region name="North-West" type="region" typeTranslated="region">
+		<name normalized="Boxing the compass" languages="Indonesian">Boxing the compass</name>
+		<name normalized="Kerte" languages="Turkish">Kerte</name>
+		<name normalized="Kuzeybatı Bolgesi" languages="Turkish">Kuzeybatı Bölgesi</name>
+		<name normalized="Loodepiirkond" languages="Estonian">Loodepiirkond</name>
+		<name normalized="Nord-Ouest" languages="Dutch;English;French;German;Norwegian (bokmal);official">Nord-Ouest</name>
+		<name normalized="Noroeste" languages="Portuguese">Noroeste</name>
+		<name normalized="North-West" languages="English;official">North-West</name>
+		<name normalized="North-West Region" languages="English;official">North-West Region</name>
+		<name normalized="Northwest Region" languages="English">Northwest Region</name>
+		<name normalized="Pemberian nama titik utama kompas" languages="Malay">Pemberian nama titik utama kompas</name>
+		<name normalized="Points of the compass" languages="English">Points of the compass</name>
+		<name normalized="Provincia de Nord-Vest" languages="Romanian">Provincia de Nord-Vest</name>
+		<name normalized="Provins ar Gwalarn" languages="Breton">Proviñs ar Gwalarn</name>
+		<name normalized="Region Barat Laut" languages="Indonesian">Region Barat Laut</name>
+		<name normalized="Region du Nord-Ouest" languages="English;official">Region du Nord-Ouest</name>
+		<name normalized="Region Nord-Ouest" languages="English;official">Region Nord-Ouest</name>
+		<name normalized="Region Polnocno-Zachodni" languages="Polish">Region Północno-Zachodni</name>
+		<name normalized="Regione del Nordovest" languages="Italian">Regione del Nordovest</name>
+		<name normalized="Region del Noroeste" languages="Spanish">Región del Noroeste</name>
+		<name normalized="Rhumb" languages="French">Rhumb</name>
+		<name normalized="Rumb" languages="Polish">Rumb</name>
+		<name normalized="Region du Nord-Ouest" languages="French">Région du Nord-Ouest</name>
+		<name normalized="Vung Tay Bac" languages="Vietnamese">Vùng Tây Bắc</name>
+		<name normalized="Siaures Vakaru regionas" languages="Lithuanian">Šiaurės Vakarų regionas</name>
+		<name normalized="Viлoiti Siмoлi Ғaрbi" languages="Tajik">Вилояти Шимоли Ғарбӣ</name>
+		<name normalized="Paўнocнa-Zakodнi рegiён" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Паўночна-Заходні рэгіён</name>
+		<name normalized="Рuмb" languages="Russian;Ukrainian">Румб</name>
+		<name normalized="Сiviрo-Zapadный рigioн" languages="Russian">Северо-Западный регион</name>
+		<name normalized="Сiviрozapadiн рigioн" languages="Bulgarian">Северозападен регион</name>
+		<name normalized="אtjאhאt אلbوsلة" languages="Arabic">اتجاهات البوصلة</name>
+		<name normalized="نאmgذאrی bh trtیb نqאt qtb‌نmא" languages="Persian">نامگذاری به ترتیب نقاط قطب‌نما</name>
+		<name normalized="北西州" languages="Japanese">北西州</name>
+		<name normalized="罗盘方位" languages="Chinese">罗盘方位</name>
+		<name normalized="西北區" languages="Chinese">西北區</name>
+		<name normalized="북서부 주" languages="Korean">북서부 주</name>
+	</region>
+	<region name="South" type="region" typeTranslated="region">
+		<name normalized="Basur" languages="Kurdish">Başûr</name>
+		<name normalized="Chamhembe" languages="Shona">Chamhembe</name>
+		<name normalized="Cənub" languages="Azerbaijani">Cənub</name>
+		<name normalized="Deisceart" languages="Irish">Deisceart</name>
+		<name normalized="Dienvidi" languages="Latvian">Dienvidi</name>
+		<name normalized="Del" languages="Hungarian">Dél</name>
+		<name normalized="Etela" languages="Finnish">Etelä</name>
+		<name normalized="Guney" languages="Turkish">Güney</name>
+		<name normalized="Guney Bolgesi" languages="Turkish">Güney Bölgesi</name>
+		<name normalized="Habagatan" languages="Cebuano">Habagatan</name>
+		<name normalized="Hego" languages="Basque">Hego</name>
+		<name normalized="Huong Nam" languages="Vietnamese">Hướng Nam</name>
+		<name normalized="Janub" languages="Uzbek">Janub</name>
+		<name normalized="Jih" languages="Czech">Jih</name>
+		<name normalized="Jug" languages="Bosnian;Croatian;Serbo-Croatian;Slovenian">Jug</name>
+		<name normalized="Jugu" languages="Albanian">Jugu</name>
+		<name normalized="Juh" languages="Slovak">Juh</name>
+		<name normalized="Kidul" languages="Sundanese">Kidul</name>
+		<name normalized="Koonfur" languages="Somali">Koonfur</name>
+		<name normalized="Kusini" languages="Swahili">Kusini</name>
+		<name normalized="Louna" languages="Estonian">Lõuna</name>
+		<name normalized="Lounapiirkond" languages="Estonian">Lõunapiirkond</name>
+		<name normalized="Mauli" languages="Pampanga">Mauli</name>
+		<name normalized="Meridies" languages="Latin">Meridies</name>
+		<name normalized="Mezde" languages="Emiliano-Romagnolo">Mezdé</name>
+		<name normalized="Pietus" languages="Lithuanian">Pietūs</name>
+		<name normalized="Pietu regionas" languages="Lithuanian">Pietų regionas</name>
+		<name normalized="Poludnie" languages="Polish">Południe</name>
+		<name normalized="Provincia de Sud" languages="Romanian">Provincia de Sud</name>
+		<name normalized="Peita" languages="Samogitian">Pėitā</name>
+		<name normalized="Region du Sud" languages="English;official">Region du Sud</name>
+		<name normalized="Region Poludniowy" languages="Polish">Region Południowy</name>
+		<name normalized="Region Selatan" languages="Indonesian">Region Selatan</name>
+		<name normalized="Region Sud" languages="English;official">Region Sud</name>
+		<name normalized="Regione del Sud" languages="Italian">Regione del Sud</name>
+		<name normalized="Regiao Sul" languages="Portuguese">Região Sul</name>
+		<name normalized="Region del Sur" languages="Spanish">Región del Sur</name>
+		<name normalized="Region du Sud" languages="French">Région du Sud</name>
+		<name normalized="Salatan" languages="Minangkabau;Waray">Salatan</name>
+		<name normalized="Selatan" languages="Banjar;Indonesian;Malay">Selatan</name>
+		<name normalized="Sid" languages="Haitian">Sid</name>
+		<name normalized="Sooth" languages="Scots">Sooth</name>
+		<name normalized="South" languages="English;official;Simple English">South</name>
+		<name normalized="South Region" languages="English;official">South Region</name>
+		<name normalized="Su" languages="Breton;Nouormand">Su</name>
+		<name normalized="Sud" languages="Bosnian;Catalan;Czech;Dutch;English;French;German;Interlingua;Interlingue;Italian;Japanese;lumbaart;Neapolitan;Norwegian (bokmal);Occitan;official;Romanian;veneto;Walloon">Sud</name>
+		<name normalized="Sudo" languages="Esperanto;Ido">Sudo</name>
+		<name normalized="Sudu" languages="Corsican">Sudu</name>
+		<name normalized="Suid" languages="Afrikaans">Suid</name>
+		<name normalized="Sul" languages="Portuguese">Sul</name>
+		<name normalized="Sur" languages="Galician;Spanish">Sur</name>
+		<name normalized="Suvi" languages="Veps">Suvi</name>
+		<name normalized="Sudur" languages="Icelandic">Suður</name>
+		<name normalized="Syd" languages="Danish">Syd</name>
+		<name normalized="Soder" languages="Swedish">Söder</name>
+		<name normalized="Sor" languages="Norwegian (bokmal);Norwegian Nynorsk">Sør</name>
+		<name normalized="Sudi" languages="Lingala">Súdi</name>
+		<name normalized="Suden" languages="German;Luxembourgish">Süden</name>
+		<name normalized="Suud" languages="Northern Frisian">Süüd</name>
+		<name normalized="Urin" languages="Quechua">Urin</name>
+		<name normalized="Veroc" languages="Zazaki">Veroc</name>
+		<name normalized="Zuid" languages="Dutch">Zuid</name>
+		<name normalized="Zuud" languages="Low Saxon (Netherlands)">Zuud</name>
+		<name normalized="Νοτος" languages="Greek">Νότος</name>
+		<name normalized="Viлoiti Caнubi" languages="Tajik">Вилояти Ҷанубӣ</name>
+		<name normalized="Kaнtaр" languages="Chuvash">Кăнтăр</name>
+		<name normalized="Kicыvaлviл" languages="Eastern Mari">Кечывалвел</name>
+		<name normalized="Kɵньik" languages="Tatar">Көньяк</name>
+		<name normalized="Kɵньiҡ" languages="Bashkir">Көньяҡ</name>
+		<name normalized="Лiмbi ёнkс" languages="Erzya">Лембе ёнкс</name>
+		<name normalized="Лuнvыv" languages="Komi;Komi-Permyak">Лунвыв</name>
+		<name normalized="Paўdнёvы рegiён" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Паўднёвы рэгіён</name>
+		<name normalized="Poўdziнь" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Поўдзень</name>
+		<name normalized="Pivdiнь" languages="Ukrainian">Південь</name>
+		<name normalized="Сoҕuрuu" languages="Sakha">Соҕуруу</name>
+		<name normalized="Сud" languages="Russian;Serbian">Суд</name>
+		<name normalized="Tүstүk" languages="Kyrgyz">Түштүк</name>
+		<name normalized="Юg" languages="Bulgarian;Russian">Юг</name>
+		<name normalized="Юgъ" languages="Church Slavic">Югъ</name>
+		<name normalized="Юzный рigioн" languages="Russian">Южный регион</name>
+		<name normalized="Jug" languages="Macedonian;Serbian">Југ</name>
+		<name normalized="Caнub" languages="Tajik">Ҷануб</name>
+		<name normalized="דrvם" languages="Hebrew;Yiddish">דרום</name>
+		<name normalized="jنوb" languages="Arabic;Persian;Urdu">جنوب</name>
+		<name normalized="دکھن" languages="Western Punjabi">دکھن</name>
+		<name normalized="ܓܪܒܝܐ" languages="Aramaic">ܓܪܒܝܐ</name>
+		<name normalized="dk्षiण" languages="Hindi;Nepali">दक्षिण</name>
+		<name normalized="dk्षiण disा" languages="Marathi">दक्षिण दिशा</name>
+		<name normalized="yetा" languages="Newari">येता</name>
+		<name normalized="dੱkਣ" languages="Punjabi">ਦੱਖਣ</name>
+		<name normalized="dk્ષiણ" languages="Gujarati">દક્ષિણ</name>
+		<name normalized="தெற்கு" languages="Tamil">தெற்கு</name>
+		<name normalized="దక్షిణం" languages="Telugu">దక్షిణం</name>
+		<name normalized="ದಕ್ಷಿಣ" languages="Kannada">ದಕ್ಷಿಣ</name>
+		<name normalized="തെക്ക്" languages="Malayalam">തെക്ക്</name>
+		<name normalized="දකුණ" languages="Sinhala">දකුණ</name>
+		<name normalized="ทิศใต้" languages="Thai">ทิศใต้</name>
+		<name normalized="სამხრეთი" languages="Georgian">სამხრეთი</name>
+		<name normalized="ደቡብ" languages="Amharic">ደቡብ</name>
+		<name normalized="南" languages="Cantonese;Chinese;Gan;Hakka;Japanese;Wu">南</name>
+		<name normalized="南部区" languages="Chinese">南部区</name>
+		<name normalized="南部州" languages="Japanese">南部州</name>
+		<name normalized="남부 주" languages="Korean">남부 주</name>
+		<name normalized="남쪽" languages="Korean">남쪽</name>
+	</region>
+	<region name="South-West" type="region" typeTranslated="region">
+		<name normalized="Boxing the compass" languages="Indonesian">Boxing the compass</name>
+		<name normalized="Edelapiirkond" languages="Estonian">Edelapiirkond</name>
+		<name normalized="Guneybatı Bolgesi" languages="Turkish">Güneybatı Bölgesi</name>
+		<name normalized="Kerte" languages="Turkish">Kerte</name>
+		<name normalized="Pemberian nama titik utama kompas" languages="Malay">Pemberian nama titik utama kompas</name>
+		<name normalized="Pietvakariu regionas" languages="Lithuanian">Pietvakarių regionas</name>
+		<name normalized="Points of the compass" languages="English">Points of the compass</name>
+		<name normalized="Region Barat Daya" languages="Indonesian">Region Barat Daya</name>
+		<name normalized="Region du Sud-Ouest" languages="English;official">Region du Sud-Ouest</name>
+		<name normalized="Region Poludniowo-Zachodni" languages="Polish">Region Południowo-Zachodni</name>
+		<name normalized="Region Sud-Ouest" languages="English;official">Region Sud-Ouest</name>
+		<name normalized="Regione del Sudovest" languages="Italian">Regione del Sudovest</name>
+		<name normalized="Region del Sudoeste" languages="Spanish">Región del Sudoeste</name>
+		<name normalized="Rhumb" languages="French">Rhumb</name>
+		<name normalized="Rumb" languages="Polish">Rumb</name>
+		<name normalized="Region du Sud-Ouest" languages="French">Région du Sud-Ouest</name>
+		<name normalized="South-West" languages="English;official">South-West</name>
+		<name normalized="South-West Region" languages="English;official">South-West Region</name>
+		<name normalized="Southwest Region" languages="English">Southwest Region</name>
+		<name normalized="Sud-Ouest" languages="Dutch;English;French;German;Italian;Norwegian (bokmal);official">Sud-Ouest</name>
+		<name normalized="Sudoeste" languages="Portuguese">Sudoeste</name>
+		<name normalized="Vung Tay Nam" languages="Vietnamese">Vùng Tây Nam</name>
+		<name normalized="Viлoiti Caнubi Ғaрbi" languages="Tajik">Вилояти Ҷануби Ғарбӣ</name>
+		<name normalized="Paўdнёva-Zakodнi рegiён" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Паўднёва-Заходні рэгіён</name>
+		<name normalized="Рuмb" languages="Russian;Ukrainian">Румб</name>
+		<name normalized="Юgo-Zapad" languages="Russian">Юго-Запад</name>
+		<name normalized="Юgo-Zapadный рigioн" languages="Russian">Юго-Западный регион</name>
+		<name normalized="אtjאhאt אلbوsلة" languages="Arabic">اتجاهات البوصلة</name>
+		<name normalized="نאmgذאrی bh trtیb نqאt qtb‌نmא" languages="Persian">نامگذاری به ترتیب نقاط قطب‌نما</name>
+		<name normalized="南西州" languages="Japanese">南西州</name>
+		<name normalized="罗盘方位" languages="Chinese">罗盘方位</name>
+		<name normalized="西南区" languages="Chinese">西南区</name>
+		<name normalized="남서부 주" languages="Korean">남서부 주</name>
+	</region>
+	<region name="West" type="region" typeTranslated="region">
+		<name normalized="Albugan" languages="Pampanga">Albugan</name>
+		<name normalized="Baraik" languages="Minangkabau">Baraik</name>
+		<name normalized="Barat" languages="Banjar;Indonesian;Malay">Barat</name>
+		<name normalized="Batı" languages="Turkish">Batı</name>
+		<name normalized="Batı Bolgesi" languages="Turkish">Batı Bölgesi</name>
+		<name normalized="Coutchant" languages="Walloon">Coûtchant</name>
+		<name normalized="Galbeed" languages="Somali">Galbeed</name>
+		<name normalized="Gʻarb" languages="Uzbek">Gʻarb</name>
+		<name normalized="Huong Tay" languages="Vietnamese">Hướng Tây</name>
+		<name normalized="Iarthar" languages="Irish">Iarthar</name>
+		<name normalized="Kasadpan" languages="Cebuano">Kasadpan</name>
+		<name normalized="Katundan" languages="Waray">Katundan</name>
+		<name normalized="Kornog" languages="Breton">Kornôg</name>
+		<name normalized="Kuarahyreike" languages="Guarani">Kuarahyreike</name>
+		<name normalized="Kulon" languages="Javanese;Sundanese">Kulon</name>
+		<name normalized="Kunti" languages="Quechua">Kunti</name>
+		<name normalized="Lwes" languages="Haitian">Lwès</name>
+		<name normalized="Lansi" languages="Finnish">Länsi</name>
+		<name normalized="Laanepiirkond" languages="Estonian">Läänepiirkond</name>
+		<name normalized="Laas" languages="Estonian">Lääs</name>
+		<name normalized="Limbe" languages="Lingala">Límbe</name>
+		<name normalized="Madokero" languages="Shona">Madokero</name>
+		<name normalized="Magharibi" languages="Swahili">Magharibi</name>
+		<name normalized="Mendebalde" languages="Basque">Mendebalde</name>
+		<name normalized="Nyugat" languages="Hungarian">Nyugat</name>
+		<name normalized="Occidens" languages="Latin">Occidens</name>
+		<name normalized="Oest" languages="Catalan">Oest</name>
+		<name normalized="Oeste" languages="Galician;Portuguese;Spanish">Oeste</name>
+		<name normalized="Okcidento" languages="Esperanto">Okcidento</name>
+		<name normalized="Ouest" languages="Dutch;English;French;German;Italian;Norwegian (bokmal);official">Ouest</name>
+		<name normalized="Ovest" languages="Italian;lumbaart;Neapolitan;veneto">Ovest</name>
+		<name normalized="Oest" languages="Occitan">Oèst</name>
+		<name normalized="Perendimi" languages="Albanian">Perëndimi</name>
+		<name normalized="Provincia de Vest" languages="Romanian">Provincia de Vest</name>
+		<name normalized="Punenti" languages="Corsican">Punenti</name>
+		<name normalized="Paivlaskm" languages="Veps">Päivlaskm</name>
+		<name normalized="Qərb" languages="Azerbaijani">Qərb</name>
+		<name normalized="Region Barat" languages="Indonesian">Region Barat</name>
+		<name normalized="Region de l'Ouest" languages="English;official">Region de l'Ouest</name>
+		<name normalized="Region Ouest" languages="English;official">Region Ouest</name>
+		<name normalized="Region Zachodni" languages="Polish">Region Zachodni</name>
+		<name normalized="Regione dell'Ovest" languages="Italian">Regione dell'Ovest</name>
+		<name normalized="Region del Oeste" languages="Spanish">Región del Oeste</name>
+		<name normalized="Rietumi" languages="Latvian">Rietumi</name>
+		<name normalized="Rocawan" languages="Zazaki">Rocawan</name>
+		<name normalized="Rojava" languages="Kurdish">Rojava</name>
+		<name normalized="Region de l'Ouest" languages="French">Région de l'Ouest</name>
+		<name normalized="Sira" languages="Emiliano-Romagnolo">Sîra</name>
+		<name normalized="Vakarai" languages="Lithuanian">Vakarai</name>
+		<name normalized="Vakara" languages="Samogitian">Vakarā</name>
+		<name normalized="Vakaru regionas" languages="Lithuanian">Vakarų regionas</name>
+		<name normalized="Vest" languages="Danish;Norwegian (bokmal);Norwegian Nynorsk;Romanian">Vest</name>
+		<name normalized="Vestur" languages="Icelandic">Vestur</name>
+		<name normalized="Vouet" languages="Nouormand">Vouêt</name>
+		<name normalized="Vaster" languages="Swedish">Väster</name>
+		<name normalized="Waast" languages="Northern Frisian">Waast</name>
+		<name normalized="Wast" languages="Scots">Wast</name>
+		<name normalized="Wes" languages="Afrikaans">Wes</name>
+		<name normalized="West" languages="Dutch;English;Interlingua;Interlingue;official;Simple English">West</name>
+		<name normalized="West Region" languages="English;official">West Region</name>
+		<name normalized="Westen" languages="German;Luxembourgish">Westen</name>
+		<name normalized="Westo" languages="Ido">Westo</name>
+		<name normalized="Zachod" languages="Polish">Zachód</name>
+		<name normalized="Zachud" languages="Silesian">Zachůd</name>
+		<name normalized="Zahod" languages="Slovenian">Zahod</name>
+		<name normalized="Zapad" languages="Bosnian;Croatian;Serbo-Croatian">Zapad</name>
+		<name normalized="Zapad" languages="Czech;Slovak">Západ</name>
+		<name normalized="Δuση" languages="Greek">Δύση</name>
+		<name normalized="Aрҕaa" languages="Sakha">Арҕаа</name>
+		<name normalized="Batыс" languages="Kazakh">Батыс</name>
+		<name normalized="Batыs" languages="Kyrgyz">Батыш</name>
+		<name normalized="Viлoiti Ғaрbi" languages="Tajik">Вилояти Ғарбӣ</name>
+		<name normalized="Zapad" languages="Bulgarian;Macedonian;Russian;Serbian">Запад</name>
+		<name normalized="Zapadный рigioн" languages="Russian">Западный регион</name>
+		<name normalized="Zakad" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Захад</name>
+		<name normalized="Zakodнi рegiён" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Заходні рэгіён</name>
+		<name normalized="Zakid" languages="Ukrainian">Захід</name>
+		<name normalized="Kaсviл" languages="Eastern Mari">Касвел</name>
+		<name normalized="Kɵнbaйыs" languages="Bashkir">Көнбайыш</name>
+		<name normalized="Рыtvыv" languages="Komi-Permyak">Рытвыв</name>
+		<name normalized="Рыtыvvыv" languages="Komi">Рытыввыв</name>
+		<name normalized="Civaлgoмa" languages="Erzya">Чивалгома</name>
+		<name normalized="Աrևmvytk" languages="Armenian">Արևմուտք</name>
+		<name normalized="מעrb" languages="Hebrew;Yiddish">מערב</name>
+		<name normalized="bאخtr" languages="Persian">باختر</name>
+		<name normalized="غrb" languages="Arabic">غرب</name>
+		<name normalized="لیندא" languages="Western Punjabi">لیندا</name>
+		<name normalized="mغrb-سmt" languages="Urdu">مغرب-سمت</name>
+		<name normalized="ܡܥܪܒܐ" languages="Aramaic">ܡܥܪܒܐ</name>
+		<name normalized="ps्cim" languages="Hindi;Nepali">पश्चिम</name>
+		<name normalized="ps्cim disा" languages="Marathi">पश्चिम दिशा</name>
+		<name normalized="yotा" languages="Newari">योता</name>
+		<name normalized="pੱcm" languages="Punjabi">ਪੱਛਮ</name>
+		<name normalized="ps્cim" languages="Gujarati">પશ્ચિમ</name>
+		<name normalized="மேற்கு" languages="Tamil">மேற்கு</name>
+		<name normalized="పడమర" languages="Telugu">పడమర</name>
+		<name normalized="ಪಶ್ಚಿಮ" languages="Kannada">ಪಶ್ಚಿಮ</name>
+		<name normalized="പടിഞ്ഞാറ്" languages="Malayalam">പടിഞ്ഞാറ്</name>
+		<name normalized="ทิศตะวันตก" languages="Thai">ทิศตะวันตก</name>
+		<name normalized="ནུབ་ཕྱོགས།" languages="Tibetan">ནུབ་ཕྱོགས།</name>
+		<name normalized="დასავლეთი" languages="Georgian">დასავლეთი</name>
+		<name normalized="ምዕራብ" languages="Amharic">ምዕራብ</name>
+		<name normalized="西" languages="Cantonese;Chinese;Gan;Hakka;Japanese;Wu">西</name>
+		<name normalized="西部区" languages="Chinese">西部区</name>
+		<name normalized="西部州" languages="Japanese">西部州</name>
+		<name normalized="Ꙁapadъ" languages="Church Slavic">Ꙁападъ</name>
+		<name normalized="서부 주" languages="Korean">서부 주</name>
+		<name normalized="서쪽" languages="Korean">서쪽</name>
+	</region>
+</regions>

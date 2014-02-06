@@ -1,0 +1,652 @@
+<regions country="Mongolia">
+	<region name="Arhangay" type="province" typeTranslated="aymag">
+		<name normalized="Aimag Arkhangai" languages="Achinese">Aimag Arkhangai</name>
+		<name normalized="Ajmak polnocnochangajski" languages="Polish">Ajmak północnochangajski</name>
+		<name normalized="Archangai-Aimag" languages="German;Romanian">Archangai-Aimag</name>
+		<name normalized="Archangaj" languages="Swedish">Archangaj</name>
+		<name normalized="Archangajaus aimakas" languages="Lithuanian">Archangajaus aimakas</name>
+		<name normalized="Arhangaj" languages="Dutch">Arhangaj</name>
+		<name normalized="Arhangaj aimakk" languages="Estonian">Arhangaj aimakk</name>
+		<name normalized="Arhangay" languages="English;French;official;Spanish">Arhangay</name>
+		<name normalized="Arhangay Aymag" languages="English;official">Arhangay Aymag</name>
+		<name normalized="Arhangay Province" languages="English;official">Arhangay Province</name>
+		<name normalized="Arkhangai" languages="Catalan;Finnish;Irish;Vietnamese;Waray">Arkhangai</name>
+		<name normalized="Arkhangai Province" languages="English;Scots">Arkhangai Province</name>
+		<name normalized="Arkhangaj" languages="Norwegian (bokmal)">Arkhangaj</name>
+		<name normalized="Arkhangay" languages="Portuguese">Arkhangay</name>
+		<name normalized="Arxanqay" languages="Azerbaijani">Arxanqay</name>
+		<name normalized="Lalawigan ng Arkhangai" languages="Tagalog">Lalawigan ng Arkhangai</name>
+		<name normalized="Provincia dell'Arhangaj" languages="Italian">Provincia dell'Arhangaj</name>
+		<name normalized="Provinsi Arkhangai" languages="Indonesian">Provinsi Arkhangai</name>
+		<name normalized="Aрkaнgaй" languages="Bulgarian;Mongolian;Russian;biлaрuсkai (taрaskivita)‎">Архангай</name>
+		<name normalized="Aрkaнgaj" languages="Macedonian;Serbian">Архангај</name>
+		<name normalized="Viлoiti Aрkaнgaй" languages="Tajik">Вилояти Архангай</name>
+		<name normalized="אrhאnגאי" languages="Hebrew">ארחאנגאי</name>
+		<name normalized="sوbہ אrخאنgאئی" languages="Western Punjabi">صوبہ ارخانگائی</name>
+		<name normalized="ark़ाngi p्rांt" languages="Hindi">अरख़ानगई प्रांत</name>
+		<name normalized="arhngi県" languages="Japanese">アルハンガイ県</name>
+		<name normalized="后杭爱省" languages="Chinese">后杭爱省</name>
+		<name normalized="아르항가이" languages="Korean">아르항가이</name>
+	</region>
+	<region name="Bayan-Olgiy" type="province" typeTranslated="aymag">
+		<name normalized="Aimag Bayan-Olgii" languages="Achinese">Aimag Bayan-Ölgii</name>
+		<name normalized="Ajmak bajanolgijski" languages="Polish">Ajmak bajanolgijski</name>
+		<name normalized="Bajan Ulegejaus aimakas" languages="Lithuanian">Bajan Ulegėjaus aimakas</name>
+		<name normalized="Bajan-Olgi" languages="Dutch">Bajan-Ölgi</name>
+		<name normalized="Bajan-Olgii" languages="Finnish">Bajan-Ölgii</name>
+		<name normalized="Bajan-Olgii-Aimag" languages="German;Romanian">Bajan-Ölgii-Aimag</name>
+		<name normalized="Bajan-Olgij" languages="Norwegian (bokmal);Swedish">Bajan-Ölgij</name>
+		<name normalized="Bajan-Olgij aimakk" languages="Estonian">Bajan-Ölgij aimakk</name>
+		<name normalized="Bayan Olgii ili" languages="Turkish">Bayan Ölgii ili</name>
+		<name normalized="Bayan-Olgiy" languages="English;official">Bayan-Olgiy</name>
+		<name normalized="Bayan-Olgiy Aymag" languages="English;official">Bayan-Olgiy Aymag</name>
+		<name normalized="Bayan-Olgiy Province" languages="English;official">Bayan-Olgiy Province</name>
+		<name normalized="Bayan-Olgii" languages="Irish;Vietnamese;Waray">Bayan-Ölgii</name>
+		<name normalized="Bayan-Olgii Province" languages="English;Scots">Bayan-Ölgii Province</name>
+		<name normalized="Bayan-Olgiy" languages="French;Portuguese;Spanish">Bayan-Ölgiy</name>
+		<name normalized="Lalawigan ng Bayan-Olgii" languages="Tagalog">Lalawigan ng Bayan-Ölgii</name>
+		<name normalized="Provincia del Bajan-Olgij" languages="Italian">Provincia del Bajan-Ôlgij</name>
+		<name normalized="Provinsi Bayan-Olgii" languages="Indonesian">Provinsi Bayan-Ölgii</name>
+		<name normalized="Provincia de Bayan-Olgii" languages="Catalan">Província de Bayan-Ölgii</name>
+		<name normalized="Baiн Йoлgiй" languages="Bulgarian">Баян Йолгий</name>
+		<name normalized="Baiн-Uлgiй" languages="Russian">Баян-Улгий</name>
+		<name normalized="Baiн-Uлgiй" languages="biлaрuсkai (taрaskivita)‎">Баян-Улгій</name>
+		<name normalized="Baiн-Өлgiй aймaғы" languages="Kazakh">Баян-Өлгей аймағы</name>
+		<name normalized="Baiн-Өлgiй" languages="Mongolian">Баян-Өлгий</name>
+		<name normalized="Bajaн-Oлgi" languages="Macedonian">Бајан-Олги</name>
+		<name normalized="Bajaн-Uлgij" languages="Serbian">Бајан-Улгиј</name>
+		<name normalized="Viлoiti Baiн-Oлgiй" languages="Tajik">Вилояти Баян-Олгий</name>
+		<name normalized="bאיין-אvדגי" languages="Hebrew">באיין-אולגי</name>
+		<name normalized="sوbہ bאیאن אولgאئی" languages="Western Punjabi">صوبہ بایان اولگائی</name>
+		<name normalized="byाn-olgi p्rांt" languages="Hindi">बयान-ओलगी प्रांत</name>
+		<name normalized="byn・urgー県" languages="Japanese">バヤン・ウルギー県</name>
+		<name normalized="巴彦乌列盖省" languages="Chinese">巴彦乌列盖省</name>
+		<name normalized="바잉을기" languages="Korean">바잉을기</name>
+	</region>
+	<region name="Bayanhongor" type="province" typeTranslated="aymag">
+		<name normalized="Aimag Bayankhongor" languages="Achinese">Aimag Bayankhongor</name>
+		<name normalized="Ajmak bajanchongorski" languages="Polish">Ajmak bajanchongorski</name>
+		<name normalized="Baiankhongor" languages="Catalan">Baiankhongor</name>
+		<name normalized="Bajanchongor" languages="Czech;German;Polish;Swedish">Bajanchongor</name>
+		<name normalized="Bajanchongor-Aimag" languages="German;Romanian">Bajanchongor-Aimag</name>
+		<name normalized="Bajanchongoras" languages="Lithuanian">Bajanchongoras</name>
+		<name normalized="Bajanchongoro aimakas" languages="Lithuanian">Bajanchongoro aimakas</name>
+		<name normalized="Bajanhongor" languages="Dutch;Finnish;Italian">Bajanhongor</name>
+		<name normalized="Bajanhongori aimakk" languages="Estonian">Bajanhongori aimakk</name>
+		<name normalized="Bajankhongor" languages="Danish;Norwegian (bokmal)">Bajankhongor</name>
+		<name normalized="Bayanhongor" languages="English;French;official;Spanish">Bayanhongor</name>
+		<name normalized="Bayanhongor Aymag" languages="English;official">Bayanhongor Aymag</name>
+		<name normalized="Bayanhongor Province" languages="English;official">Bayanhongor Province</name>
+		<name normalized="Bayankhongor" languages="English;Portuguese;Vietnamese;Waray">Bayankhongor</name>
+		<name normalized="Bayankhongor Province" languages="English;Scots">Bayankhongor Province</name>
+		<name normalized="Provincia di Bajanhongor" languages="Italian">Provincia di Bajanhongor</name>
+		<name normalized="Provinsi Bayankhongor" languages="Indonesian">Provinsi Bayankhongor</name>
+		<name normalized="Provincia de Baiankhongor" languages="Catalan">Província de Baiankhongor</name>
+		<name normalized="Baiнkaнgoр" languages="biлaрuсkai (taрaskivita)‎">Баянхангор</name>
+		<name normalized="Baiнkoнgoр" languages="Bulgarian;Mongolian;Russian">Баянхонгор</name>
+		<name normalized="Bajaнkoнgoр" languages="Macedonian;Serbian">Бајанхонгор</name>
+		<name normalized="Viлoiti Baiнkoнgoр" languages="Tajik">Вилояти Баянхонгор</name>
+		<name normalized="bאייnhvnגvr" languages="Hebrew">באיינחונגור</name>
+		<name normalized="bیאنخאنgאr" languages="Persian">بیانخانگار</name>
+		<name normalized="sوbہ bאیאن خونgوr" languages="Western Punjabi">صوبہ بایان خونگور</name>
+		<name normalized="byाnk़oंgor p्rांt" languages="Hindi">बयानख़ोंगोर प्रांत</name>
+		<name normalized="bynhngr県" languages="Japanese">バヤンホンゴル県</name>
+		<name normalized="巴彥洪戈爾" languages="Chinese">巴彥洪戈爾</name>
+		<name normalized="巴彦洪戈尔省" languages="Chinese">巴彦洪戈尔省</name>
+		<name normalized="바잉홍거르" languages="Korean">바잉홍거르</name>
+	</region>
+	<region name="Bulgan" type="province" typeTranslated="aymag">
+		<name normalized="Aimag Bulgan" languages="Achinese">Aimag Bulgan</name>
+		<name normalized="Ajmag Bulgan" languages="Dutch">Ajmag Bulgan</name>
+		<name normalized="Ajmak bulganski" languages="Polish">Ajmak bulgański</name>
+		<name normalized="Bulgan" languages="English;Finnish;French;German;Irish;Norwegian (bokmal);official;Portuguese;Spanish;Swedish;Vietnamese;Waray">Bulgan</name>
+		<name normalized="Bulgan Aymag" languages="English;official">Bulgan Aymag</name>
+		<name normalized="Bulgan Province" languages="English;official;Scots">Bulgan Province</name>
+		<name normalized="Bulgan-Aimag" languages="German;Romanian">Bulgan-Aimag</name>
+		<name normalized="Bulgani aimakk" languages="Estonian">Bulgani aimakk</name>
+		<name normalized="Bulgano aimakas" languages="Lithuanian">Bulgano aimakas</name>
+		<name normalized="Lalawigan ng Bulgan" languages="Tagalog">Lalawigan ng Bulgan</name>
+		<name normalized="Provincia di Bulgan" languages="Italian">Provincia di Bulgan</name>
+		<name normalized="Provinsi Bulgan" languages="Indonesian">Provinsi Bulgan</name>
+		<name normalized="Provincia de Bulgan" languages="Catalan">Província de Bulgan</name>
+		<name normalized="Buлgaн" languages="Bulgarian;Macedonian;Mongolian;Russian;Serbian;biлaрuсkai (taрaskivita)‎">Булган</name>
+		<name normalized="Buлgaн сuм" languages="Mongolian">Булган сум</name>
+		<name normalized="Viлoiti Buлgaн" languages="Tajik">Вилояти Булган</name>
+		<name normalized="bvדגאן" languages="Hebrew">בולגאן</name>
+		<name normalized="sوbہ bلgאن" languages="Western Punjabi">صوبہ بلگان</name>
+		<name normalized="bul्gn p्rांt" languages="Hindi">बुल्गन प्रांत</name>
+		<name normalized="brgn県" languages="Japanese">ボルガン県</name>
+		<name normalized="布尔干省" languages="Chinese">布尔干省</name>
+		<name normalized="볼강" languages="Korean">볼강</name>
+	</region>
+	<region name="Darhan-Uul" type="province" typeTranslated="aymag">
+		<name normalized="Aimag Darkhan-Uul" languages="Achinese">Aimag Darkhan-Uul</name>
+		<name normalized="Ajmak darchanski" languages="Polish">Ajmak darchański</name>
+		<name normalized="Darchan Ulo aimakas" languages="Lithuanian">Darchan Ulo aimakas</name>
+		<name normalized="Darchan-Uul" languages="Swedish">Darchan-Uul</name>
+		<name normalized="Darchan-Uul-Aimag" languages="German;Romanian">Darchan-Uul-Aimag</name>
+		<name normalized="Darchanulsky ajmag" languages="Czech">Darchanúlský ajmag</name>
+		<name normalized="Darhan-Uul" languages="Dutch;English;Finnish;French;official;Portuguese;Spanish">Darhan-Uul</name>
+		<name normalized="Darhan-Uul Aymag" languages="English;official">Darhan-Uul Aymag</name>
+		<name normalized="Darhan-Uul Province" languages="English;official">Darhan-Uul Province</name>
+		<name normalized="Darhan-Ul ajmag" languages="Hungarian">Darhan-Úl ajmag</name>
+		<name normalized="Darhani aimakk" languages="Estonian">Darhani aimakk</name>
+		<name normalized="Darkhan-Uul" languages="Irish;Norwegian (bokmal);Vietnamese;Waray">Darkhan-Uul</name>
+		<name normalized="Darkhan-Uul Province" languages="English;Scots">Darkhan-Uul Province</name>
+		<name normalized="Lalawigan ng Darkhan-Uul" languages="Tagalog">Lalawigan ng Darkhan-Uul</name>
+		<name normalized="Provincia di Darhan-Uul" languages="Italian">Provincia di Darhan-Uul</name>
+		<name normalized="Provinsi Darkhan-Uul" languages="Indonesian">Provinsi Darkhan-Uul</name>
+		<name normalized="Provincia de Darkhan-Uul" languages="Catalan">Província de Darkhan-Uul</name>
+		<name normalized="Viлoiti Daрkaн-Uuл" languages="Tajik">Вилояти Дархан-Уул</name>
+		<name normalized="Daрkaн Uл" languages="Bulgarian">Дархан Ул</name>
+		<name normalized="Daрkaн-Uл" languages="Macedonian;Serbian">Дархан-Ул</name>
+		<name normalized="Daрkaн-Uuл" languages="Mongolian;Russian">Дархан-Уул</name>
+		<name normalized="Daрkaн-Uўл" languages="biлaрuсkai (taрaskivita)‎">Дархан-Уўл</name>
+		<name normalized="דrhאן-אvד" languages="Hebrew">דרחאן-אול</name>
+		<name normalized="sوbہ دאrخאن אول" languages="Western Punjabi">صوبہ دارخان اول</name>
+		<name normalized="drk़ाn-ul p्rांt" languages="Hindi">दरख़ान-ऊल प्रांत</name>
+		<name normalized="drhn・oーr県" languages="Japanese">ダルハン・オール県</name>
+		<name normalized="达尔汗乌勒省" languages="Chinese">达尔汗乌勒省</name>
+		<name normalized="다르항올" languages="Korean">다르항올</name>
+	</region>
+	<region name="Dornod" type="province" typeTranslated="aymag">
+		<name normalized="Aimag Dornod" languages="Achinese">Aimag Dornod</name>
+		<name normalized="Ajmak wschodni" languages="Polish">Ajmak wschodni</name>
+		<name normalized="Dornod" languages="Danish;Dutch;English;Finnish;French;Irish;Norwegian (bokmal);official;Portuguese;Spanish;Swedish;Vietnamese;Waray">Dornod</name>
+		<name normalized="Dornod Aymag" languages="English;official">Dornod Aymag</name>
+		<name normalized="Dornod Province" languages="English;official;Scots;Tagalog">Dornod Province</name>
+		<name normalized="Dornod-Aimag" languages="German;Romanian">Dornod-Aimag</name>
+		<name normalized="Dornodo aimakas" languages="Lithuanian">Dornodo aimakas</name>
+		<name normalized="Idaaimakk" languages="Estonian">Idaaimakk</name>
+		<name normalized="Provincia del Dornod" languages="Italian">Provincia del Dornod</name>
+		<name normalized="Provinsi Dornod" languages="Indonesian">Provinsi Dornod</name>
+		<name normalized="Provincia de Dornod" languages="Catalan">Província de Dornod</name>
+		<name normalized="Vychodni ajmag" languages="Czech">Východní ajmag</name>
+		<name normalized="Viлoiti Doрнod" languages="Tajik">Вилояти Дорнод</name>
+		<name normalized="Daрнod" languages="biлaрuсkai (taрaskivita)‎">Дарнод</name>
+		<name normalized="Doрнod" languages="Bulgarian;Macedonian;Mongolian;Russian;Serbian">Дорнод</name>
+		<name normalized="דvrnvד" languages="Hebrew">דורנוד</name>
+		<name normalized="sوbہ ڈوrنوڈ" languages="Western Punjabi">صوبہ ڈورنوڈ</name>
+		<name normalized="drnd県" languages="Japanese">ドルノド県</name>
+		<name normalized="东方省" languages="Chinese">东方省</name>
+		<name normalized="도르노드" languages="Korean">도르노드</name>
+	</region>
+	<region name="Dornogovi" type="province" typeTranslated="aymag">
+		<name normalized="Aimag Dornogovi" languages="Achinese">Aimag Dornogovi</name>
+		<name normalized="Ajmak wschodniogobijski" languages="Polish">Ajmak wschodniogobijski</name>
+		<name normalized="Dorno-Gobi-Aimag" languages="German;Romanian">Dorno-Gobi-Aimag</name>
+		<name normalized="Dornogobi" languages="Swedish">Dornogobi</name>
+		<name normalized="Dornogov" languages="Norwegian (bokmal)">Dornogov</name>
+		<name normalized="Dornogovi" languages="Catalan;English;Finnish;French;official;Spanish;Vietnamese;Waray">Dornogovi</name>
+		<name normalized="Dornogovi Aymag" languages="English;official">Dornogovi Aymag</name>
+		<name normalized="Dornogovi Province" languages="English;official;Scots;Tagalog">Dornogovi Province</name>
+		<name normalized="Dornogovi" languages="Dutch;Portuguese">Dornogovĭ</name>
+		<name normalized="Ida-Gobi aimakk" languages="Estonian">Ida-Gobi aimakk</name>
+		<name normalized="Provincia del Dornogov'" languages="Italian">Provincia del Dornogov'</name>
+		<name normalized="Provinsi Dornogovi" languages="Indonesian">Provinsi Dornogovi</name>
+		<name normalized="Rytu Gobio aimakas" languages="Lithuanian">Rytų Gobio aimakas</name>
+		<name normalized="Viлoiti Doрнogov" languages="Tajik">Вилояти Дорногов</name>
+		<name normalized="Daрнagoў" languages="biлaрuсkai (taрaskivita)‎">Дарнагоў</name>
+		<name normalized="Doрнo Govi" languages="Bulgarian">Дорно Гови</name>
+		<name normalized="Doрнogovi" languages="Macedonian;Serbian">Дорногови</name>
+		<name normalized="Doрнogovь" languages="Mongolian;Russian">Дорноговь</name>
+		<name normalized="דvrnvגvbי" languages="Hebrew">דורנוגובי</name>
+		<name normalized="sوbہ ڈوrنوgووی" languages="Western Punjabi">صوبہ ڈورنوگووی</name>
+		<name normalized="drngb県" languages="Japanese">ドルノゴビ県</name>
+		<name normalized="东戈壁省" languages="Chinese">东戈壁省</name>
+		<name normalized="도르노고비" languages="Korean">도르노고비</name>
+	</region>
+	<region name="Dundgovi" type="province" typeTranslated="aymag">
+		<name normalized="Aimag Dundgovi" languages="Achinese">Aimag Dundgovi</name>
+		<name normalized="Ajmak srodkowogobijski" languages="Polish">Ajmak środkowogobijski</name>
+		<name normalized="Dund-Gobi-Aimag" languages="German;Romanian">Dund-Gobi-Aimag</name>
+		<name normalized="Dundgobi" languages="Swedish">Dundgobi</name>
+		<name normalized="Dundgov" languages="Norwegian (bokmal)">Dundgov</name>
+		<name normalized="Dundgovi" languages="English;Finnish;French;Irish;official;Spanish;Vietnamese;Waray">Dundgovi</name>
+		<name normalized="Dundgovi Aymag" languages="English;official">Dundgovi Aymag</name>
+		<name normalized="Dundgovi Province" languages="English;official;Scots;Tagalog">Dundgovi Province</name>
+		<name normalized="Dundgovi" languages="Dutch;Portuguese">Dundgovĭ</name>
+		<name normalized="Kesk-Gobi aimakk" languages="Estonian">Kesk-Gobi aimakk</name>
+		<name normalized="Provincia del Dundgov'" languages="Italian">Provincia del Dundgov'</name>
+		<name normalized="Provinsi Dundgovi" languages="Indonesian">Provinsi Dundgovi</name>
+		<name normalized="Provincia de Dundgovi" languages="Catalan">Província de Dundgovi</name>
+		<name normalized="Vidurinio Gobio aimakas" languages="Lithuanian">Vidurinio Gobio aimakas</name>
+		<name normalized="Viлoiti Duнdgov" languages="Tajik">Вилояти Дундгов</name>
+		<name normalized="Duнd Govi" languages="Bulgarian">Дунд Гови</name>
+		<name normalized="Duнdgovi" languages="Macedonian;Serbian">Дундгови</name>
+		<name normalized="Duнdgovь" languages="Mongolian;Russian">Дундговь</name>
+		<name normalized="Duнdgoў" languages="biлaрuсkai (taрaskivita)‎">Дундгоў</name>
+		<name normalized="דvnדגvbי" languages="Hebrew">דונדגובי</name>
+		<name normalized="sوbہ ڈنڈgوئی" languages="Western Punjabi">صوبہ ڈنڈگوئی</name>
+		<name normalized="dndgb県" languages="Japanese">ドンドゴビ県</name>
+		<name normalized="中戈壁省" languages="Chinese">中戈壁省</name>
+		<name normalized="돈드고비" languages="Korean">돈드고비</name>
+	</region>
+	<region name="Dzavhan" type="province" typeTranslated="aymag">
+		<name normalized="Aimag Zavkhan" languages="Achinese">Aimag Zavkhan</name>
+		<name normalized="Ajmak dzawchanski" languages="Polish">Ajmak dzawchański</name>
+		<name normalized="Dsawchan-Aimag" languages="German">Dsawchan-Aimag</name>
+		<name normalized="Dzabchano aimakas" languages="Lithuanian">Dzabchano aimakas</name>
+		<name normalized="Dzavchan" languages="Swedish">Dzavchan</name>
+		<name normalized="Dzavhan" languages="English;official">Dzavhan</name>
+		<name normalized="Dzavhan Aymag" languages="English;official">Dzavhan Aymag</name>
+		<name normalized="Dzavhan Province" languages="English;official">Dzavhan Province</name>
+		<name normalized="Dzavhani aimakk" languages="Estonian">Dzavhani aimakk</name>
+		<name normalized="Provincia del Zavhan" languages="Italian">Provincia del Zavhan</name>
+		<name normalized="Provinsi Zavkhan" languages="Indonesian">Provinsi Zavkhan</name>
+		<name normalized="Provincia de Zavkhan" languages="Catalan">Província de Zavkhan</name>
+		<name normalized="Zavhan" languages="Dutch;Finnish;French;Spanish">Zavhan</name>
+		<name normalized="Zavkhan" languages="English;Norwegian (bokmal);official;Portuguese;Vietnamese;Waray">Zavkhan</name>
+		<name normalized="Zavkhan Aymag" languages="English;official">Zavkhan Aymag</name>
+		<name normalized="Zavkhan Province" languages="English;official;Scots;Tagalog">Zavkhan Province</name>
+		<name normalized="Zawchan-Aimag" languages="Romanian">Zawchan-Aimag</name>
+		<name normalized="Viлoiti Zavkaн" languages="Tajik">Вилояти Завхан</name>
+		<name normalized="Zavkaн" languages="Bulgarian;Macedonian;Mongolian;Russian">Завхан</name>
+		<name normalized="Zavkaн aймaғы" languages="Kazakh">Завхан аймағы</name>
+		<name normalized="Zaўkaн" languages="biлaрuсkai (taрaskivita)‎">Заўхан</name>
+		<name normalized="זbhאן" languages="Hebrew">זבחאן</name>
+		<name normalized="sوbہ زאوخאن" languages="Western Punjabi">صوبہ زاوخان</name>
+		<name normalized="zbhn県" languages="Japanese">ザブハン県</name>
+		<name normalized="扎布汗省" languages="Chinese">扎布汗省</name>
+		<name normalized="자브항" languages="Korean">자브항</name>
+	</region>
+	<region name="Govi-Altay" type="province" typeTranslated="aymag">
+		<name normalized="Aimag Govi-Altai" languages="Achinese">Aimag Govi-Altai</name>
+		<name normalized="Ajmak gobijsko-altajski" languages="Polish">Ajmak gobijsko-ałtajski</name>
+		<name normalized="Gobi Altai aimakk" languages="Estonian">Gobi Altai aimakk</name>
+		<name normalized="Gobi-Altai-Aimag" languages="German;Romanian">Gobi-Altai-Aimag</name>
+		<name normalized="Gobi-Altaj" languages="Swedish">Gobi-Altaj</name>
+		<name normalized="Gobi-Altai" languages="French">Gobi-Altaï</name>
+		<name normalized="Gobio Altajaus aimakas" languages="Lithuanian">Gobio Altajaus aimakas</name>
+		<name normalized="Gov-Altaj" languages="Norwegian (bokmal)">Gov-Altaj</name>
+		<name normalized="Govi-Altai" languages="Finnish;Vietnamese;Waray">Govi-Altai</name>
+		<name normalized="Govi-Altai Province" languages="English;Scots;Tagalog">Govi-Altai Province</name>
+		<name normalized="Govi-Altay" languages="English;official;Portuguese;Spanish">Govi-Altay</name>
+		<name normalized="Govi-Altay Aymag" languages="English;official">Govi-Altay Aymag</name>
+		<name normalized="Govi-Altay Province" languages="English;official">Govi-Altay Province</name>
+		<name normalized="Govi-Altaj" languages="Dutch">Govĭ-Altaj</name>
+		<name normalized="Provincia del Gov'-Altaj" languages="Italian">Provincia del Gov'-Altaj</name>
+		<name normalized="Provinsi Govi-Altai" languages="Indonesian">Provinsi Govi-Altai</name>
+		<name normalized="Provincia de Govi-Altai" languages="Catalan">Província de Govi-Altai</name>
+		<name normalized="Viлoiti Gov-Aлtaй" languages="Tajik">Вилояти Гов-Алтай</name>
+		<name normalized="Govi Aлtaй" languages="Bulgarian">Гови Алтай</name>
+		<name normalized="Govi-Aлtaj" languages="Macedonian;Serbian">Гови-Алтај</name>
+		<name normalized="Govь Aлtaй aймaғы" languages="Kazakh">Говь Алтай аймағы</name>
+		<name normalized="Govь-Aлtaй" languages="Mongolian;Russian">Говь-Алтай</name>
+		<name normalized="Goў-Aлtaй" languages="biлaрuсkai (taрaskivita)‎">Гоў-Алтай</name>
+		<name normalized="גvbי-אדtאי" languages="Hebrew">גובי-אלטאי</name>
+		<name normalized="sوbہ gوئی אلtאئی" languages="Western Punjabi">صوبہ گوئی الطائی</name>
+		<name normalized="gb・arti県" languages="Japanese">ゴビ・アルタイ県</name>
+		<name normalized="戈壁阿尔泰省" languages="Chinese">戈壁阿尔泰省</name>
+		<name normalized="고비알타이" languages="Korean">고비알타이</name>
+	</region>
+	<region name="Govisumber" type="province" typeTranslated="aymag">
+		<name normalized="Aimag Govisumber" languages="Achinese">Aimag Govisümber</name>
+		<name normalized="Ajmak gobijsko-sumberski" languages="Polish">Ajmak gobijsko-sumberski</name>
+		<name normalized="Gobi-Sumber" languages="Swedish">Gobi-Sümber</name>
+		<name normalized="Gobi-Sumber-Aimag" languages="German">Gobi-Sümber-Aimag</name>
+		<name normalized="Gobisumbero aimakas" languages="Lithuanian">Gobisumbero aimakas</name>
+		<name normalized="Gov-Sumber" languages="Norwegian (bokmal)">Gov-Sümber</name>
+		<name normalized="Gov-Sumberi aimakk" languages="Estonian">Gov-Sümberi aimakk</name>
+		<name normalized="Govisumber" languages="English;Finnish;official">Govisumber</name>
+		<name normalized="Govisumber Aymag" languages="English;official">Govisumber Aymag</name>
+		<name normalized="Govisumber Province" languages="English;official">Govisumber Province</name>
+		<name normalized="Govisumber" languages="French;Irish;Spanish;Vietnamese;Waray">Govisümber</name>
+		<name normalized="Govisumber Province" languages="English;Scots;Tagalog">Govisümber Province</name>
+		<name normalized="Govisumber" languages="Dutch;Portuguese">Govĭsümber</name>
+		<name normalized="Gobi-Szumber ajmag" languages="Hungarian">Góbi-Szümber ajmag</name>
+		<name normalized="Provincia del Gov'-Sumber" languages="Italian">Provincia del Gov'-Sùmbėr</name>
+		<name normalized="Provinsi Govisumber" languages="Indonesian">Provinsi Govisümber</name>
+		<name normalized="Provincia de Govisumber" languages="Catalan">Província de Govisümber</name>
+		<name normalized="Viлoiti Gov-Сuмbiр" languages="Tajik">Вилояти Гов-Сумбер</name>
+		<name normalized="Govi Сuмbiр" languages="Bulgarian">Гови Сумбер</name>
+		<name normalized="Goviсuмbiр" languages="Macedonian">Говисумбер</name>
+		<name normalized="Govь-Сuмbeр" languages="Russian">Говь-Сумбэр</name>
+		<name normalized="Govьсүмbeр" languages="Mongolian">Говьсүмбэр</name>
+		<name normalized="Goў-Сuмbeр" languages="biлaрuсkai (taрaskivita)‎">Гоў-Сумбэр</name>
+		<name normalized="גvbיסvמbr" languages="Hebrew">גוביסומבר</name>
+		<name normalized="sوbہ gوئی سmbr" languages="Western Punjabi">صوبہ گوئی سمبر</name>
+		<name normalized="gbsnbr県" languages="Japanese">ゴビスンベル県</name>
+		<name normalized="戈壁苏木贝尔省" languages="Chinese">戈壁苏木贝尔省</name>
+		<name normalized="고비숨베르" languages="Korean">고비숨베르</name>
+	</region>
+	<region name="Hentiy" type="province" typeTranslated="aymag">
+		<name normalized="Aimag Khentii" languages="Achinese">Aimag Khentii</name>
+		<name normalized="Ajmak chentejski" languages="Polish">Ajmak chentejski</name>
+		<name normalized="Chentii-Aimag" languages="German;Romanian">Chentii-Aimag</name>
+		<name normalized="Chentij" languages="Swedish">Chentij</name>
+		<name normalized="Chentejaus aimakas" languages="Lithuanian">Chentėjaus aimakas</name>
+		<name normalized="Henti" languages="Dutch">Henti</name>
+		<name normalized="Hentii" languages="Finnish">Hentii</name>
+		<name normalized="Hentij aimakk" languages="Estonian">Hentij aimakk</name>
+		<name normalized="Hentiy" languages="English;French;official;Spanish">Hentiy</name>
+		<name normalized="Hentiy Aymag" languages="English;official">Hentiy Aymag</name>
+		<name normalized="Hentiy Province" languages="English;official">Hentiy Province</name>
+		<name normalized="Khentii" languages="Catalan;English;Vietnamese;Waray">Khentii</name>
+		<name normalized="Khentii Province" languages="English;Scots;Tagalog">Khentii Province</name>
+		<name normalized="Khentij" languages="Norwegian (bokmal)">Khentij</name>
+		<name normalized="Khentiy" languages="Portuguese">Khentiy</name>
+		<name normalized="Provincia del Hentij" languages="Italian">Provincia del Hėntij</name>
+		<name normalized="Provinsi Khentii" languages="Indonesian">Provinsi Khentii</name>
+		<name normalized="Provincia de Khentii" languages="Catalan">Província de Khentii</name>
+		<name normalized="Viлoiti Kiнtiй" languages="Tajik">Вилояти Хентий</name>
+		<name normalized="Kiнtiй" languages="Bulgarian">Хентий</name>
+		<name normalized="Kiнtij" languages="Macedonian">Хентиј</name>
+		<name normalized="Keнtiй" languages="Mongolian;Russian">Хэнтий</name>
+		<name normalized="Keнtiй" languages="biлaрuсkai (taрaskivita)‎">Хэнцій</name>
+		<name normalized="hntי" languages="Hebrew">חנטי</name>
+		<name normalized="sوbہ خنtאئی" languages="Western Punjabi">صوبہ خنتائی</name>
+		<name normalized="hntiー県" languages="Japanese">ヘンティー県</name>
+		<name normalized="肯特省" languages="Chinese">肯特省</name>
+		<name normalized="헹티" languages="Korean">헹티</name>
+	</region>
+	<region name="Hovd" type="province" typeTranslated="aymag">
+		<name normalized="Aimag Khovd" languages="Achinese">Aimag Khovd</name>
+		<name normalized="Ajmag Hovd" languages="Dutch">Ajmag Hovd</name>
+		<name normalized="Ajmak kobdoski" languages="Polish">Ajmak kobdoski</name>
+		<name normalized="Chovd" languages="Swedish">Chovd</name>
+		<name normalized="Chowd" languages="German;Romanian">Chowd</name>
+		<name normalized="Chowd-Aimag" languages="German;Romanian">Chowd-Aimag</name>
+		<name normalized="Hovd" languages="Dutch;English;Finnish;French;official;Spanish">Hovd</name>
+		<name normalized="Hovd Aymag" languages="English;official">Hovd Aymag</name>
+		<name normalized="Hovd Province" languages="English;official">Hovd Province</name>
+		<name normalized="Hovdi aimakk" languages="Estonian">Hovdi aimakk</name>
+		<name normalized="Khovd" languages="Catalan;English;Norwegian (bokmal);Portuguese;Vietnamese;Waray">Khovd</name>
+		<name normalized="Khovd Province" languages="English;Scots;Tagalog">Khovd Province</name>
+		<name normalized="Kobdo aimakas" languages="Lithuanian">Kobdo aimakas</name>
+		<name normalized="Provincia di Hovd" languages="Italian">Provincia di Hovd</name>
+		<name normalized="Provinsi Khovd" languages="Indonesian">Provinsi Khovd</name>
+		<name normalized="Provincia de Khovd" languages="Catalan">Província de Khovd</name>
+		<name normalized="Viлoiti Kovd" languages="Tajik">Вилояти Ховд</name>
+		<name normalized="Kovd" languages="Bulgarian;Macedonian;Mongolian;Russian">Ховд</name>
+		<name normalized="Kovda aймaғы" languages="Kazakh">Ховда аймағы</name>
+		<name normalized="Koўd" languages="biлaрuсkai (taрaskivita)‎">Хоўд</name>
+		<name normalized="hvbד" languages="Hebrew">חובד</name>
+		<name normalized="sوbہ خود" languages="Western Punjabi">صوبہ خود</name>
+		<name normalized="k़ov्d p्rांt" languages="Hindi">ख़ोव्द प्रांत</name>
+		<name normalized="hbd県" languages="Japanese">ホブド県</name>
+		<name normalized="科布多" languages="Chinese">科布多</name>
+		<name normalized="科布多省" languages="Chinese">科布多省</name>
+		<name normalized="호브드" languages="Korean">호브드</name>
+	</region>
+	<region name="Hovsgol" type="province" typeTranslated="aymag">
+		<name normalized="Aimag Khovsgol" languages="Achinese">Aimag Khövsgöl</name>
+		<name normalized="Ajmak chubsugulski" languages="Polish">Ajmak chubsugulski</name>
+		<name normalized="Chubsugulo aimakas" languages="Lithuanian">Chubsugulo aimakas</name>
+		<name normalized="Chovsgol" languages="Swedish">Chövsgöl</name>
+		<name normalized="Chowsgol-Aimag" languages="German;Romanian">Chöwsgöl-Aimag</name>
+		<name normalized="Hovsgol" languages="English;official">Hovsgol</name>
+		<name normalized="Hovsgol Aymag" languages="English;official">Hovsgol Aymag</name>
+		<name normalized="Hovsgol Province" languages="English;official">Hovsgol Province</name>
+		<name normalized="Hovsgol" languages="Dutch;Finnish;French;Spanish">Hövsgöl</name>
+		<name normalized="Hovsgoli aimakk" languages="Estonian">Hövsgöli aimakk</name>
+		<name normalized="Hovszgol ajmag" languages="Hungarian">Hövszgöl ajmag</name>
+		<name normalized="Khovsgol" languages="Irish;Norwegian (bokmal);Portuguese;Waray">Khövsgöl</name>
+		<name normalized="Khovsgol Province" languages="English;Scots;Tagalog">Khövsgöl Province</name>
+		<name normalized="Provincia del Hovsgol" languages="Italian">Provincia del Hôvsgôl</name>
+		<name normalized="Provinsi Khovsgol" languages="Indonesian">Provinsi Khövsgöl</name>
+		<name normalized="Provincia de Khovsgol" languages="Catalan">Província de Khövsgöl</name>
+		<name normalized="Viлoiti Kovсgoл" languages="Tajik">Вилояти Хoвсгoл</name>
+		<name normalized="Kovсgoл" languages="Macedonian">Ховсгол</name>
+		<name normalized="Kuvсgiл" languages="Russian">Хувсгел</name>
+		<name normalized="Kuўсgiл" languages="biлaрuсkai (taрaskivita)‎">Хуўсгел</name>
+		<name normalized="Kьovсgьoл" languages="Bulgarian">Хьовсгьол</name>
+		<name normalized="Kɵvсgɵл aймag" languages="Mongolian">Хөвсгөл аймаг</name>
+		<name normalized="Kɵvсgɵл aймaғы" languages="Kazakh">Хөвсгөл аймағы</name>
+		<name normalized="hvbסגvד" languages="Hebrew">חובסגול</name>
+		<name normalized="sوbہ خوسgول" languages="Western Punjabi">صوبہ خوسگول</name>
+		<name normalized="hbsgr県" languages="Japanese">フブスグル県</name>
+		<name normalized="库苏古尔省" languages="Chinese">库苏古尔省</name>
+		<name normalized="후브스굴" languages="Korean">후브스굴</name>
+	</region>
+	<region name="Omnogovi" type="province" typeTranslated="aymag">
+		<name normalized="Aimag Omnogovi" languages="Achinese">Aimag Ömnögovi</name>
+		<name normalized="Ajmak poludniowogobijski" languages="Polish">Ajmak południowogobijski</name>
+		<name normalized="Jihogobijsky ajmag" languages="Czech">Jihogobijský ajmag</name>
+		<name normalized="Louna-Gobi aimakk" languages="Estonian">Lõuna-Gobi aimakk</name>
+		<name normalized="Omnogovi" languages="English;official">Omnogovi</name>
+		<name normalized="Omnogovi Aymag" languages="English;official">Omnogovi Aymag</name>
+		<name normalized="Omnogovi Province" languages="English;official">Omnogovi Province</name>
+		<name normalized="Pietu Gobio aimakas" languages="Lithuanian">Pietų Gobio aimakas</name>
+		<name normalized="Provincia dell'Omnogov'" languages="Italian">Provincia dell'Ômnôgov'</name>
+		<name normalized="Provinsi Omnogovi" languages="Indonesian">Provinsi Ömnögovi</name>
+		<name normalized="Provincia d'Omnogovi" languages="Catalan">Província d'Ömnögovi</name>
+		<name normalized="Omno-Gobi-Aimag" languages="German;Romanian">Ömnö-Gobi-Aimag</name>
+		<name normalized="Omnogobi" languages="Swedish">Ömnögobi</name>
+		<name normalized="Omnogov" languages="Norwegian (bokmal)">Ömnögov</name>
+		<name normalized="Omnogovi" languages="English;Finnish;French;Spanish;Vietnamese;Waray">Ömnögovi</name>
+		<name normalized="Omnogovi ajmag" languages="Hungarian">Ömnögovi ajmag</name>
+		<name normalized="Omnogovi Province" languages="English;Scots;Tagalog">Ömnögovi Province</name>
+		<name normalized="Omnogovi" languages="Dutch;Portuguese">Ömnögovĭ</name>
+		<name normalized="Viлoiti Oмнogov" languages="Tajik">Вилояти Омногов</name>
+		<name normalized="Йoмньo Govi" languages="Bulgarian">Йомньо Гови</name>
+		<name normalized="Oмнogovi" languages="Macedonian">Омногови</name>
+		<name normalized="Uмнigovь" languages="Russian">Умнеговь</name>
+		<name normalized="Uмнegoў" languages="biлaрuсkai (taрaskivita)‎">Умнэгоў</name>
+		<name normalized="Өмнɵgovь" languages="Mongolian">Өмнөговь</name>
+		<name normalized="אvמnvגvbי" languages="Hebrew">אומנוגובי</name>
+		<name normalized="sوbہ אوmنوgوئی" languages="Western Punjabi">صوبہ اومنوگوئی</name>
+		<name normalized="umngb県" languages="Japanese">ウムヌゴビ県</name>
+		<name normalized="南戈壁省" languages="Chinese">南戈壁省</name>
+		<name normalized="엄너고비" languages="Korean">엄너고비</name>
+	</region>
+	<region name="Orhon" type="province" typeTranslated="aymag">
+		<name normalized="Aimag Orkhon" languages="Achinese">Aimag Orkhon</name>
+		<name normalized="Ajmak orchonski" languages="Polish">Ajmak orchoński</name>
+		<name normalized="Orchon" languages="Swedish">Orchon</name>
+		<name normalized="Orchon-Aimag" languages="Danish;German;Romanian">Orchon-Aimag</name>
+		<name normalized="Orchono aimakas" languages="Lithuanian">Orchono aimakas</name>
+		<name normalized="Orchonsky ajmag" languages="Czech">Orchonský ajmag</name>
+		<name normalized="Orhon" languages="Dutch;English;Finnish;French;Italian;official;Portuguese;Spanish">Orhon</name>
+		<name normalized="Orhon Aymag" languages="English;official">Orhon Aymag</name>
+		<name normalized="Orhon Province" languages="English;official">Orhon Province</name>
+		<name normalized="Orhoni aimakk" languages="Estonian">Orhoni aimakk</name>
+		<name normalized="Orkhon" languages="English;Irish;Norwegian (bokmal);Vietnamese;Waray">Orkhon</name>
+		<name normalized="Orkhon Province" languages="English;Scots;Tagalog">Orkhon Province</name>
+		<name normalized="Provincia dell'Orhon" languages="Italian">Provincia dell'Orhon</name>
+		<name normalized="Provinsi Orkhon" languages="Indonesian">Provinsi Orkhon</name>
+		<name normalized="Provincia d'Orkhon" languages="Catalan">Província d'Orkhon</name>
+		<name normalized="Aрkoн" languages="biлaрuсkai (taрaskivita)‎">Архон</name>
+		<name normalized="Viлoiti Oрkoн" languages="Tajik">Вилояти Орхон</name>
+		<name normalized="Oрkoн" languages="Bulgarian;Macedonian;Mongolian;Russian">Орхон</name>
+		<name normalized="אvrhvן" languages="Hebrew">אורחון</name>
+		<name normalized="sوbہ אrخون" languages="Western Punjabi">صوبہ ارخون</name>
+		<name normalized="orhn県" languages="Japanese">オルホン県</name>
+		<name normalized="鄂尔浑省" languages="Chinese">鄂尔浑省</name>
+		<name normalized="오르홍" languages="Korean">오르홍</name>
+	</region>
+	<region name="Ovorhangay" type="province" typeTranslated="aymag">
+		<name normalized="Aimag Ovorkhangai" languages="Achinese">Aimag Övörkhangai</name>
+		<name normalized="Ajmak poludniowochangajski" languages="Polish">Ajmak południowochangajski</name>
+		<name normalized="Ovorhangay" languages="English;official">Ovorhangay</name>
+		<name normalized="Ovorhangay Aymag" languages="English;official">Ovorhangay Aymag</name>
+		<name normalized="Ovorhangay Province" languages="English;official">Ovorhangay Province</name>
+		<name normalized="Pietinio Changajaus aimakas" languages="Lithuanian">Pietinio Changajaus aimakas</name>
+		<name normalized="Provincia del Ovorhangaj" languages="Italian">Provincia del Ôvôrhangaj</name>
+		<name normalized="Provinsi Ovorkhangai" languages="Indonesian">Provinsi Övörkhangai</name>
+		<name normalized="Provincia d'Ovorkhangai" languages="Catalan">Província d'Övörkhangai</name>
+		<name normalized="Ovorchangaj" languages="Swedish">Övörchangaj</name>
+		<name normalized="Ovorhangai" languages="Finnish">Övörhangai</name>
+		<name normalized="Ovorhangaj" languages="Dutch">Övörhangaj</name>
+		<name normalized="Ovorhangaj aimakk" languages="Estonian">Övörhangaj aimakk</name>
+		<name normalized="Ovorhangaj ajmag" languages="Hungarian">Övörhangaj ajmag</name>
+		<name normalized="Ovorhangay" languages="French;Spanish;Turkish">Övörhangay</name>
+		<name normalized="Ovorkhangai" languages="Irish;Vietnamese;Waray">Övörkhangai</name>
+		<name normalized="Ovorkhangai Province" languages="English;Scots;Tagalog">Övörkhangai Province</name>
+		<name normalized="Ovorkhangaj" languages="Norwegian (bokmal)">Övörkhangaj</name>
+		<name normalized="Ovorkhangay" languages="Portuguese">Övörkhangay</name>
+		<name normalized="Oworchangai-Aimag" languages="German;Romanian">Öwörchangai-Aimag</name>
+		<name normalized="Viлoiti Ovoрkaнgaй" languages="Tajik">Вилояти Овoрхангай</name>
+		<name normalized="Йovьoрkaнgaй" languages="Bulgarian">Йовьорхангай</name>
+		<name normalized="Ovoрkaнgaj" languages="Macedonian">Оворхангај</name>
+		<name normalized="Uviрkaнgaй" languages="Russian">Уверхангай</name>
+		<name normalized="Uveрkaнgaй" languages="biлaрuсkai (taрaskivita)‎">Увэрхангай</name>
+		<name normalized="Өvɵрkaнgaй" languages="Mongolian">Өвөрхангай</name>
+		<name normalized="אvbvrhאnגאי" languages="Hebrew">אובורחאנגאי</name>
+		<name normalized="sوbہ אوrخאنgאئی" languages="Western Punjabi">صوبہ اورخانگائی</name>
+		<name normalized="ubrhngi県" languages="Japanese">ウブルハンガイ県</name>
+		<name normalized="前杭爱省" languages="Chinese">前杭爱省</name>
+		<name normalized="어워르항가이" languages="Korean">어워르항가이</name>
+	</region>
+	<region name="Selenge" type="province" typeTranslated="aymag">
+		<name normalized="Aimag Selenge" languages="Achinese">Aimag Selenge</name>
+		<name normalized="Ajmak selengijski" languages="Polish">Ajmak selengijski</name>
+		<name normalized="Provincia del Selenge" languages="Italian">Provincia del Sėlėngė</name>
+		<name normalized="Provinsi Selenge" languages="Indonesian">Provinsi Selenge</name>
+		<name normalized="Provincia de Selenge" languages="Catalan">Província de Selenge</name>
+		<name normalized="Selenga" languages="Swedish">Selenga</name>
+		<name normalized="Selenge" languages="Danish;Dutch;English;Finnish;French;German;Norwegian (bokmal);official;Portuguese;Spanish;Vietnamese;Waray">Selenge</name>
+		<name normalized="Selenge aimakk" languages="Estonian">Selenge aimakk</name>
+		<name normalized="Selenge Aymag" languages="English;official">Selenge Aymag</name>
+		<name normalized="Selenge Province" languages="English;official;Scots;Tagalog">Selenge Province</name>
+		<name normalized="Selenge-Aimag" languages="German;Romanian">Selenge-Aimag</name>
+		<name normalized="Selengos aimakas" languages="Lithuanian">Selengos aimakas</name>
+		<name normalized="Szelenge ajmag" languages="Hungarian">Szelenge ajmag</name>
+		<name normalized="Viлoiti Сiлiнgi" languages="Tajik">Вилояти Селенге</name>
+		<name normalized="Сiлiнgi" languages="Bulgarian;Macedonian">Селенге</name>
+		<name normalized="Сeлeнge" languages="Mongolian;Russian;biлaрuсkai (taрaskivita)‎">Сэлэнгэ</name>
+		<name normalized="Сeлeнge aймag" languages="Mongolian">Сэлэнгэ аймаг</name>
+		<name normalized="סדnגh" languages="Hebrew">סלנגה</name>
+		<name normalized="sوbہ سیلینgی" languages="Western Punjabi">صوبہ سیلینگی</name>
+		<name normalized="seleंge p्rांt" languages="Hindi">सेलेंगे प्रांत</name>
+		<name normalized="srng県" languages="Japanese">セレンゲ県</name>
+		<name normalized="色楞格省" languages="Chinese">色楞格省</name>
+		<name normalized="셀렝게" languages="Korean">셀렝게</name>
+	</region>
+	<region name="Suhbaatar" type="province" typeTranslated="aymag">
+		<name normalized="Aimag Sukhbaatar" languages="Achinese">Aimag Sükhbaatar</name>
+		<name normalized="Ajmak suchebatorski" languages="Polish">Ajmak suchebatorski</name>
+		<name normalized="Provincia di Suhbaatar" languages="Italian">Provincia di Sùhbaatar</name>
+		<name normalized="Provinsi Sukhbaatar" languages="Indonesian">Provinsi Sükhbaatar</name>
+		<name normalized="Provincia de Sukhbaatar" languages="Catalan">Província de Sükhbaatar</name>
+		<name normalized="Suche Batoro aimakas" languages="Lithuanian">Suche Batoro aimakas</name>
+		<name normalized="Suhbaatar" languages="English;official">Suhbaatar</name>
+		<name normalized="Suhbaatar Aymag" languages="English;official">Suhbaatar Aymag</name>
+		<name normalized="Suhbaatar Province" languages="English;official">Suhbaatar Province</name>
+		<name normalized="Sukhbaatar" languages="French">Sukhbaatar</name>
+		<name normalized="Szuhebator ajmag" languages="Hungarian">Szühebátor ajmag</name>
+		<name normalized="Suchbaatar" languages="German;Swedish">Süchbaatar</name>
+		<name normalized="Suchbaatar-Aimag" languages="German">Süchbaatar-Aimag</name>
+		<name normalized="Suchbatar" languages="Czech">Süchbátar</name>
+		<name normalized="Suhbaatar" languages="Dutch;Finnish;French;Spanish">Sühbaatar</name>
+		<name normalized="Suhbaatari aimakk" languages="Estonian">Sühbaatari aimakk</name>
+		<name normalized="Sukhbaatar" languages="English;Finnish;Norwegian (bokmal);Portuguese;Vietnamese;Waray">Sükhbaatar</name>
+		<name normalized="Sukhbaatar Province" languages="English;Scots;Tagalog">Sükhbaatar Province</name>
+		<name normalized="Viлoiti Сukbaataр" languages="Tajik">Вилояти Сухбаатар</name>
+		<name normalized="Сukbatoр" languages="Macedonian">Сухбатор</name>
+		<name normalized="Сuki Batoр" languages="Bulgarian">Сухе Батор</name>
+		<name normalized="Сuke-Bataр" languages="biлaрuсkai (taрaskivita)‎">Сухэ-Батар</name>
+		<name normalized="Сuke-Batoр" languages="Russian">Сухэ-Батор</name>
+		<name normalized="Сүkbaataр" languages="Mongolian">Сүхбаатар</name>
+		<name normalized="Сүkbaataр aймag" languages="Mongolian">Сүхбаатар аймаг</name>
+		<name normalized="סvhbאאtאr" languages="Hebrew">סוחבאאטאר</name>
+		<name normalized="sوbہ سخbאtאr" languages="Western Punjabi">صوبہ سخباتار</name>
+		<name normalized="shbーtr" languages="Japanese">スフバートル</name>
+		<name normalized="shbーtr県" languages="Japanese">スフバートル県</name>
+		<name normalized="苏赫巴托尔省" languages="Chinese">苏赫巴托尔省</name>
+		<name normalized="수흐바타르" languages="Korean">수흐바타르</name>
+	</region>
+	<region name="Tov" type="province" typeTranslated="aymag">
+		<name normalized="Aimag Tov" languages="Achinese">Aimag Töv</name>
+		<name normalized="Ajmak centralny" languages="Polish">Ajmak centralny</name>
+		<name normalized="Keskaimakk" languages="Estonian">Keskaimakk</name>
+		<name normalized="Provincia del Tov" languages="Italian">Provincia del Tôv</name>
+		<name normalized="Provinsi Tov" languages="Indonesian">Provinsi Töv</name>
+		<name normalized="Provincia de Tov" languages="Catalan">Província de Töv</name>
+		<name normalized="Tiobo aimakas" languages="Lithuanian">Tiobo aimakas</name>
+		<name normalized="Tov" languages="English;official">Tov</name>
+		<name normalized="Tov Aymag" languages="English;official">Tov Aymag</name>
+		<name normalized="Tov Province" languages="English;official">Tov Province</name>
+		<name normalized="Tuv" languages="Finnish">Tuv</name>
+		<name normalized="Tov" languages="Dutch;French;Norwegian (bokmal);Portuguese;Spanish;Swedish;Vietnamese;Waray">Töv</name>
+		<name normalized="Tov Province" languages="English;Scots;Tagalog">Töv Province</name>
+		<name normalized="Tow-Aimag" languages="German">Töw-Aimag</name>
+		<name normalized="Viлoiti Tov" languages="Tajik">Вилояти Тoв</name>
+		<name normalized="Tov" languages="Macedonian">Тов</name>
+		<name normalized="Tuvi" languages="Russian">Туве</name>
+		<name normalized="Tuve" languages="biлaрuсkai (taрaskivita)‎">Тувэ</name>
+		<name normalized="Tьov" languages="Bulgarian">Тьов</name>
+		<name normalized="Tɵv" languages="Mongolian">Төв</name>
+		<name normalized="tvb" languages="Hebrew">טוב</name>
+		<name normalized="sوbہ ٹوو" languages="Western Punjabi">صوبہ ٹوو</name>
+		<name normalized="tub県" languages="Japanese">トゥブ県</name>
+		<name normalized="中央省" languages="Chinese">中央省</name>
+		<name normalized="터브" languages="Korean">터브</name>
+	</region>
+	<region name="Ulaanbaatar" type="municipality" typeTranslated="municipality">
+		<name normalized="Oulan-Bator" languages="French">Oulan-Bator</name>
+		<name normalized="Oulan-Bato" languages="Haitian">Oulan-Batò</name>
+		<name normalized="Ulaan Baatar" languages="Occitan">Ulaan Baatar</name>
+		<name normalized="Ulaanbaatar" languages="Afrikaans;Breton;Chinese (Min Nan);Dutch;English;Estonian;German;Novial;official;Piedmontese;Romanian;Shona;Swahili;Upper Sorbian;Vietnamese;Waray;Western Frisian">Ulaanbaatar</name>
+		<name normalized="Ulaanbaataro" languages="Esperanto">Ulaanbaataro</name>
+		<name normalized="Ulan Bator" languages="Achinese;Albanian;Basque;Bosnian;Catalan;Croatian;Danish;English;Fiji Hindi;Finnish;Ido;Indonesian;Interlingua;Italian;Kalaallisut;Low Saxon (Netherlands);lumbaart;Luxembourgish;Malay;Norfuk / Pitkern;Norwegian (bokmal);Norwegian Nynorsk;Papiamento;Portuguese;Scots;Scottish Gaelic;Serbo-Croatian;Sicilian;Simple English;Slovenian;Somali;Swedish;Tagalog;Tatar;Welsh;Yoruba;Zazaki;Zhuang">Ulan Bator</name>
+		<name normalized="Ulan Batoras" languages="Lithuanian">Ulan Batoras</name>
+		<name normalized="Ulan Batur" languages="Turkish">Ulan Batur</name>
+		<name normalized="Ulan-Bator" languages="Azerbaijani;Interlingue;Uzbek">Ulan-Bator</name>
+		<name normalized="Ulanbatora" languages="Latvian">Ulanbatora</name>
+		<name normalized="Ulanbatur" languages="Uyghur">Ulanbatur</name>
+		<name normalized="Ulanbatar" languages="Slovak">Ulanbátar</name>
+		<name normalized="Ulan Bator" languages="Aragonese;Spanish">Ulán Bator</name>
+		<name normalized="Ulan Bator" languages="Galician">Ulán Bátor</name>
+		<name normalized="Ulanbatar" languages="Czech;Irish">Ulánbátar</name>
+		<name normalized="Ulanbator" languages="Hungarian">Ulánbátor</name>
+		<name normalized="Urga" languages="Latin">Urga</name>
+		<name normalized="Ulan Bator" languages="Polish">Ułan Bator</name>
+		<name normalized="Ulan Bator" languages="Icelandic">Úlan Bator</name>
+		<name normalized="Ουλαν Μπατορ" languages="Greek">Ουλάν Μπατόρ</name>
+		<name normalized="Goрad Uлaн-Bataр" languages="Belarusian">Горад Улан-Батар</name>
+		<name normalized="Uлaaн Baataр" languages="buрiad">Улаан Баатар</name>
+		<name normalized="Uлaaнbaataр" languages="Mongolian;Sakha">Улаанбаатар</name>
+		<name normalized="Uлaн Baatр" languages="Kalmyk">Улан Баатр</name>
+		<name normalized="Uлaн Batoр" languages="Bulgarian;Chuvash;Macedonian;Serbian">Улан Батор</name>
+		<name normalized="Uлaн-Bataр" languages="biлaрuсkai (taрaskivita)‎">Улан-Батар</name>
+		<name normalized="Uлaн-Batoр" languages="Chechen;Eastern Mari;Komi;Lezghian;Ossetic;Russian;Tajik;Ukrainian">Улан-Батор</name>
+		<name normalized="Uлaн-Batoр os" languages="Erzya">Улан-Батор ош</name>
+		<name normalized="Ұлaнbatыр" languages="Kazakh">Ұланбатыр</name>
+		<name normalized="Vylան Bաtvr" languages="Armenian">Ուլան Բատոր</name>
+		<name normalized="אvדאן bאtאr" languages="Yiddish">אולאן באטאר</name>
+		<name normalized="אvדן btvr" languages="Hebrew">אולן בטור</name>
+		<name normalized="أولאن bאtوr" languages="Arabic">أولان باتور</name>
+		<name normalized="ئولאنbאtۆr" languages="Sorani Kurdish">ئولانباتۆر</name>
+		<name normalized="אولאنbאtאr" languages="Mazanderani">اولانباتار</name>
+		<name normalized="אولאن‌ bאtوr" languages="Urdu">اولان‌ باتور</name>
+		<name normalized="אولאن‌bאtوr" languages="Persian">اولان‌باتور</name>
+		<name normalized="ulाn btor" languages="Hindi">उलान बतोर</name>
+		<name normalized="ulाnbाtr" languages="Marathi">उलानबातर</name>
+		<name normalized="ulাnbাটr" languages="Bengali">উলানবাটর</name>
+		<name normalized="ulਾn btੋr" languages="Punjabi">ਉਲਾਨ ਬਤੋਰ</name>
+		<name normalized="உலான் பத்தூர்" languages="Tamil">உலான் பத்தூர்</name>
+		<name normalized="ಉಲಾನ್ ಬತೊರ್" languages="Kannada">ಉಲಾನ್ ಬತೊರ್</name>
+		<name normalized="อูลานบาตอร์" languages="Thai">อูลานบาตอร์</name>
+		<name normalized="ཝུ་ལན་བ་ཐུར" languages="Tibetan">ཝུ་ལན་བ་ཐུར</name>
+		<name normalized="ဦလန်ဘာတာမြို့" languages="Burmese">ဦလန်ဘာတာမြို့</name>
+		<name normalized="ულან-ბატორი" languages="Georgian">ულან-ბატორი</name>
+		<name normalized="ኡላዓን ባዓታር" languages="Amharic">ኡላዓን ባዓታር</name>
+		<name normalized="អ៊ូលេនបាធរ" languages="Khmer">អ៊ូលេនបាធរ</name>
+		<name normalized="urnbーtr" languages="Japanese">ウランバートル</name>
+		<name normalized="乌兰巴托" languages="Chinese">乌兰巴托</name>
+		<name normalized="烏蘭巴托" languages="Cantonese">烏蘭巴托</name>
+		<name normalized="울란바토르" languages="Korean">울란바토르</name>
+	</region>
+	<region name="Uvs" type="province" typeTranslated="aymag">
+		<name normalized="Aimag Uvs" languages="Achinese">Aimag Uvs</name>
+		<name normalized="Ajmak uwski" languages="Polish">Ajmak uwski</name>
+		<name normalized="Provincia dell'Uvs" languages="Italian">Provincia dell'Uvs</name>
+		<name normalized="Provinsi Uvs" languages="Indonesian">Provinsi Uvs</name>
+		<name normalized="Ubso aimakas" languages="Lithuanian">Ubso aimakas</name>
+		<name normalized="Uvs" languages="Catalan;Dutch;English;Finnish;French;Norwegian (bokmal);official;Portuguese;Spanish;Swedish;Vietnamese;Waray">Uvs</name>
+		<name normalized="Uvs Aymag" languages="English;official">Uvs Aymag</name>
+		<name normalized="Uvs Province" languages="English;official;Scots;Tagalog">Uvs Province</name>
+		<name normalized="Uvsi aimakk" languages="Estonian">Uvsi aimakk</name>
+		<name normalized="Uws-Aimag" languages="German;Romanian">Uws-Aimag</name>
+		<name normalized="Viлoiti Uvс" languages="Tajik">Вилояти Увс</name>
+		<name normalized="Uvс" languages="Bulgarian;Macedonian;Mongolian;Russian">Увс</name>
+		<name normalized="Uvс aймaғы" languages="Kazakh">Увс аймағы</name>
+		<name normalized="Uўс" languages="biлaрuсkai (taрaskivita)‎">Уўс</name>
+		<name normalized="אvbס" languages="Hebrew">אובס</name>
+		<name normalized="sوbہ یوس" languages="Western Punjabi">صوبہ یوس</name>
+		<name normalized="obs県" languages="Japanese">オブス県</name>
+		<name normalized="乌布苏省" languages="Chinese">乌布苏省</name>
+		<name normalized="오브스" languages="Korean">오브스</name>
+	</region>
+</regions>

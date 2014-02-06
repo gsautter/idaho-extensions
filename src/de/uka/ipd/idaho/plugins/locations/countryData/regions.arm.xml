@@ -1,0 +1,394 @@
+<regions country="Armenia">
+	<region name="Aragatsotn" type="province" typeTranslated="marz">
+		<name normalized="Aragacotn" languages="Bosnian;Croatian;Czech">Aragacotn</name>
+		<name normalized="Aragacotn tartomany" languages="Hungarian">Aragacotn tartomány</name>
+		<name normalized="Aragacotno" languages="Esperanto">Aragacotno</name>
+		<name normalized="Aragacotno sritis" languages="Lithuanian">Aragacotno sritis</name>
+		<name normalized="Aragadzotn" languages="Catalan">Aragadzotn</name>
+		<name normalized="Aragatsotn" languages="Dutch;English;Finnish;French;Indonesian;Italian;Norwegian (bokmal);official;Portuguese;Spanish;Swedish;Turkish;Vietnamese;Waray">Aragatsotn</name>
+		<name normalized="Aragatsotn Marz" languages="English;official">Aragatsotn Marz</name>
+		<name normalized="Aragatsotn Province" languages="English;official;Scots;Simple English">Aragatsotn Province</name>
+		<name normalized="Aragatsotni maakond" languages="Estonian">Aragatsotni maakond</name>
+		<name normalized="Aragazotn" languages="German">Aragazotn</name>
+		<name normalized="Agin" languages="Azerbaijani">Ağin</name>
+		<name normalized="Propinsi Aragatsotn" languages="Sundanese">Propinsi Aragatsotn</name>
+		<name normalized="Prowincja Aragacotn" languages="Polish">Prowincja Aragacotn</name>
+		<name normalized="Wilayah Aragatsotn" languages="Malay">Wilayah Aragatsotn</name>
+		<name normalized="Aрagatotн" languages="Bulgarian;Macedonian;Ossetic;Serbian;Serbo-Croatian">Арагацотн</name>
+		<name normalized="Aрagatotн aймag" languages="Mongolian">Арагацотн аймаг</name>
+		<name normalized="Aрagatotнсkai obлaсtь" languages="Russian">Арагацотнская область</name>
+		<name normalized="Aрaґatotн" languages="Ukrainian">Араґацотн</name>
+		<name normalized="Աrագաcvtնի mաrz" languages="Armenian">Արագածոտնի մարզ</name>
+		<name normalized="آrאغאtسوtن" languages="Arabic">آراغاتسوتن</name>
+		<name normalized="אسtאن آrאgאtسوtن" languages="Persian">استان آراگاتسوتن</name>
+		<name normalized="sوbہ אrאgאtسtن" languages="Western Punjabi">صوبہ اراگاتستن</name>
+		<name normalized="arाgt्sot्n p्rाn्t" languages="Nepali">अरागत्सोत्न प्रान्त</name>
+		<name normalized="arਾgtsੋtn" languages="Punjabi">ਅਰਾਗਤਸੋਤਨ</name>
+		<name normalized="არაგაწოტნის პროვინცია" languages="Georgian">არაგაწოტნის პროვინცია</name>
+		<name normalized="argtotun地方" languages="Japanese">アラガツォトゥン地方</name>
+		<name normalized="阿拉加措特恩省" languages="Cantonese;Chinese">阿拉加措特恩省</name>
+		<name normalized="아라가초튼 주" languages="Korean">아라가초튼 주</name>
+	</region>
+	<region name="Ararat" type="province" typeTranslated="marz">
+		<name normalized="Ararat" languages="Catalan;Croatian;Dutch;English;Estonian;Finnish;French;German;Hungarian;Indonesian;Italian;Malay;Norwegian (bokmal);Occitan;official;Polish;Romanian;Scots;Spanish;Swahili;Swedish;Turkish;Vietnamese;Waray">Ararat</name>
+		<name normalized="Ararat Idari Bolgesi" languages="Turkish">Ararat İdari Bölgesi</name>
+		<name normalized="Ararat Marz" languages="English;official">Ararat Marz</name>
+		<name normalized="Ararat Province" languages="English;official;Scots;Simple English">Ararat Province</name>
+		<name normalized="Ararat tartomany" languages="Hungarian">Ararat tartomány</name>
+		<name normalized="Araratas" languages="Lithuanian">Araratas</name>
+		<name normalized="Ararate" languages="Portuguese">Ararate</name>
+		<name normalized="Ararati maakond" languages="Estonian">Ararati maakond</name>
+		<name normalized="Ararato" languages="Esperanto">Ararato</name>
+		<name normalized="Ararato sritis" languages="Lithuanian">Ararato sritis</name>
+		<name normalized="Parezgeha Ararat" languages="Kurdish">Parêzgeha Ararat</name>
+		<name normalized="Propinsi Ararat" languages="Sundanese">Propinsi Ararat</name>
+		<name normalized="Provincia Ararat" languages="Romanian">Provincia Ararat</name>
+		<name normalized="Provincia di Ararat" languages="Italian">Provincia di Ararat</name>
+		<name normalized="Provinsi Ararat" languages="Indonesian">Provinsi Ararat</name>
+		<name normalized="Prowincja Ararat" languages="Polish">Prowincja Ararat</name>
+		<name normalized="Wilayah Ararat" languages="Malay">Wilayah Ararat</name>
+		<name normalized="Aрaрat" languages="Bulgarian;Chechen;Macedonian;Ossetic;Russian;Serbian;Ukrainian">Арарат</name>
+		<name normalized="Aрaрat aймag" languages="Mongolian">Арарат аймаг</name>
+		<name normalized="Aрaрatсkai obлaсtь" languages="Russian">Араратская область</name>
+		<name normalized="Աrաrաt" languages="Armenian">Արարատ</name>
+		<name normalized="Աrաrաtի mաrz" languages="Armenian">Արարատի մարզ</name>
+		<name normalized="אrrt" languages="Yiddish">אררט</name>
+		<name normalized="آrאrאt, אrmنسtאن" languages="Persian">آرارات، ارمنستان</name>
+		<name normalized="أrאrאt" languages="Arabic">أرارات</name>
+		<name normalized="أrאrאt, أrאrאt" languages="Arabic">أرارات، أرارات</name>
+		<name normalized="אسtאن آrאrאt" languages="Persian">استان آرارات</name>
+		<name normalized="sوbہ אrאrאt" languages="Western Punjabi">صوبہ ارارات</name>
+		<name normalized="arाrt p्rाn्t" languages="Nepali">अरारत प्रान्त</name>
+		<name normalized="arਾrt" languages="Punjabi">ਅਰਾਰਤ</name>
+		<name normalized="არარატი" languages="Georgian">არარატი</name>
+		<name normalized="არარატის პროვინცია" languages="Georgian">არარატის პროვინცია</name>
+		<name normalized="arrt" languages="Japanese">アララト</name>
+		<name normalized="arrt地方" languages="Japanese">アララト地方</name>
+		<name normalized="亞拉拉特省" languages="Chinese">亞拉拉特省</name>
+		<name normalized="亞拉臘" languages="Chinese">亞拉臘</name>
+		<name normalized="아라라트" languages="Korean">아라라트</name>
+		<name normalized="아라라트 주" languages="Korean">아라라트 주</name>
+	</region>
+	<region name="Armavir" type="province" typeTranslated="marz">
+		<name normalized="Armavir" languages="Catalan;Croatian;Dutch;English;Estonian;Finnish;French;Indonesian;Italian;Malay;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Turkish;Vietnamese;Waray">Armavir</name>
+		<name normalized="Armavir Idari Bolgesi" languages="Turkish">Armavir İdari Bölgesi</name>
+		<name normalized="Armavir Marz" languages="English;official">Armavir Marz</name>
+		<name normalized="Armavir Province" languages="English;official;Scots;Simple English">Armavir Province</name>
+		<name normalized="Armavir tartomany" languages="Hungarian">Armavir tartomány</name>
+		<name normalized="Armaviras" languages="Lithuanian">Armaviras</name>
+		<name normalized="Armaviri maakond" languages="Estonian">Armaviri maakond</name>
+		<name normalized="Armaviro" languages="Esperanto">Armaviro</name>
+		<name normalized="Armaviro sritis" languages="Lithuanian">Armaviro sritis</name>
+		<name normalized="Armawir" languages="German;Polish">Armawir</name>
+		<name normalized="Armawir" languages="Kurdish">Armawîr</name>
+		<name normalized="Propinsi Armavir" languages="Sundanese">Propinsi Armavir</name>
+		<name normalized="Provincia di Armavir" languages="Italian">Provincia di Armavir</name>
+		<name normalized="Prowincja Armawir" languages="Polish">Prowincja Armawir</name>
+		<name normalized="Sərdarabad" languages="Azerbaijani">Sərdarabad</name>
+		<name normalized="Wilayah Armavir" languages="Malay">Wilayah Armavir</name>
+		<name normalized="Aрмaviр" languages="Bulgarian;Chechen;Macedonian;Russian;Serbian">Армавир</name>
+		<name normalized="Aрмaviр aймag" languages="Mongolian">Армавир аймаг</name>
+		<name normalized="Aрмaviрсkai obлaсtь" languages="Russian">Армавирская область</name>
+		<name normalized="Aрмaviр" languages="Ukrainian">Армавір</name>
+		<name normalized="Աrmավիr" languages="Armenian">Արմավիր</name>
+		<name normalized="Աrmավիrի mաrz" languages="Armenian">Արմավիրի մարզ</name>
+		<name normalized="آrmאویr" languages="Persian">آرماویر</name>
+		<name normalized="אسtאن آrmאویr" languages="Persian">استان آرماویر</name>
+		<name normalized="sوbہ אrאmویr" languages="Western Punjabi">صوبہ ارامویر</name>
+		<name normalized="ar्mाvir p्rाn्t" languages="Nepali">अर्मावीर प्रान्त</name>
+		<name normalized="armਾvir subਾ" languages="Punjabi">ਅਰਮਾਵੀਰ ਸੂਬਾ</name>
+		<name normalized="არმავირი" languages="Georgian">არმავირი</name>
+		<name normalized="არმავირის პროვინცია" languages="Georgian">არმავირის პროვინცია</name>
+		<name normalized="armvir" languages="Japanese">アルマヴィル</name>
+		<name normalized="armvir地方" languages="Japanese">アルマヴィル地方</name>
+		<name normalized="亞馬維爾省" languages="Chinese">亞馬維爾省</name>
+		<name normalized="阿爾馬維爾" languages="Chinese">阿爾馬維爾</name>
+		<name normalized="아르마비르" languages="Korean">아르마비르</name>
+		<name normalized="아르마비르 주" languages="Korean">아르마비르 주</name>
+	</region>
+	<region name="Geghark'unik'" type="province" typeTranslated="marz">
+		<name normalized="Gegarkounik tartomany" languages="Hungarian">Gegarkounik tartomány</name>
+		<name normalized="Gegarkuniko sritis" languages="Lithuanian">Gegarkuniko sritis</name>
+		<name normalized="Geghark'unik'" languages="English;Finnish;official;Spanish">Geghark'unik'</name>
+		<name normalized="Geghark'unik' Marz" languages="English;official">Geghark'unik' Marz</name>
+		<name normalized="Geghark'unik' Province" languages="English;official">Geghark'unik' Province</name>
+		<name normalized="Gegharkhunikhi maakond" languages="Estonian">Gegharkhunikhi maakond</name>
+		<name normalized="Gegharkoenik" languages="Dutch">Gegharkoenik</name>
+		<name normalized="Gegharkunik" languages="Croatian;Czech;English;Esperanto;French;German;Italian;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray;Welsh">Gegharkunik</name>
+		<name normalized="Gegharkunik Marz" languages="English;official">Gegharkunik Marz</name>
+		<name normalized="Gegharkunik Province" languages="English;official;Scots;Simple English">Gegharkunik Province</name>
+		<name normalized="Gegarkunik" languages="Azerbaijani;Turkish">Geğarkunik</name>
+		<name normalized="Propinsi Gegharkunik" languages="Sundanese">Propinsi Gegharkunik</name>
+		<name normalized="Provinsi Gegharkunik" languages="Indonesian">Provinsi Gegharkunik</name>
+		<name normalized="Prowincja Gegharkunik" languages="Polish">Prowincja Gegharkunik</name>
+		<name normalized="Wilayah Gegharkunik" languages="Malay">Wilayah Gegharkunik</name>
+		<name normalized="Gigaрkuнik" languages="Bulgarian">Гегаркуник</name>
+		<name normalized="Gikaрkuнik" languages="Macedonian;Ossetic;Serbian">Гехаркуник</name>
+		<name normalized="Gikaрkuнik aймag" languages="Mongolian">Гехаркуник аймаг</name>
+		<name normalized="Gikaрkuнikсkai obлaсtь" languages="Russian">Гехаркуникская область</name>
+		<name normalized="Ґigaрkuнik" languages="Ukrainian">Ґегаркунік</name>
+		<name normalized="Գեղաrkvyնիkի mաrz" languages="Armenian">Գեղարքունիքի մարզ</name>
+		<name normalized="אسtאن gغאrکونیک" languages="Persian">استان گغارکونیک</name>
+		<name normalized="sوbہ gغאrکونیک" languages="Western Punjabi">صوبہ گغارکونیک</name>
+		<name normalized="gegाr्kunik p्rाn्t" languages="Nepali">गेघार्कुनिक प्रान्त</name>
+		<name normalized="გეღარქუნიქის პროვინცია" languages="Georgian">გეღარქუნიქის პროვინცია</name>
+		<name normalized="ggrknk地方" languages="Japanese">ゲガルクニク地方</name>
+		<name normalized="格加爾庫尼克省" languages="Chinese">格加爾庫尼克省</name>
+		<name normalized="게가르쿠니크 주" languages="Korean">게가르쿠니크 주</name>
+	</region>
+	<region name="Kotayk'" type="province" typeTranslated="marz">
+		<name normalized="Kotaiko sritis" languages="Lithuanian">Kotaiko sritis</name>
+		<name normalized="Kotajk" languages="Croatian;German;Norwegian (bokmal);Serbo-Croatian;Swedish">Kotajk</name>
+		<name normalized="Kotajk tartomany" languages="Hungarian">Kotajk tartomány</name>
+		<name normalized="Kotajk'" languages="Finnish">Kotajk'</name>
+		<name normalized="Kotajkhi maakond" languages="Estonian">Kotajkhi maakond</name>
+		<name normalized="Kotajko" languages="Esperanto">Kotajko</name>
+		<name normalized="Kotayk" languages="Dutch;English;French;Indonesian;official;Portuguese;Scots;Turkish;Vietnamese;Waray">Kotayk</name>
+		<name normalized="Kotayk Marz" languages="English;official">Kotayk Marz</name>
+		<name normalized="Kotayk Province" languages="English;official;Scots;Simple English">Kotayk Province</name>
+		<name normalized="Kotayk'" languages="English;official;Spanish">Kotayk'</name>
+		<name normalized="Kotayk' Marz" languages="English;official">Kotayk' Marz</name>
+		<name normalized="Kotayk' Province" languages="English;official">Kotayk' Province</name>
+		<name normalized="Propinsi Kotayk" languages="Sundanese">Propinsi Kotayk</name>
+		<name normalized="Provincia di Kotayk'" languages="Italian">Provincia di Kotayk'</name>
+		<name normalized="Prowincja Kotajk" languages="Polish">Prowincja Kotajk</name>
+		<name normalized="Wilayah Kotayk" languages="Malay">Wilayah Kotayk</name>
+		<name normalized="Kotaйk" languages="Bulgarian;Russian;Ukrainian">Котайк</name>
+		<name normalized="Kotaйk aймag" languages="Mongolian">Котайк аймаг</name>
+		<name normalized="Kotaйkсkai obлaсtь" languages="Russian">Котайкская область</name>
+		<name normalized="Kotajk" languages="Macedonian;Serbian">Котајк</name>
+		<name normalized="Kvtայkի mաrz" languages="Armenian">Կոտայքի մարզ</name>
+		<name normalized="אسtאن کوtאیک" languages="Persian">استان کوتایک</name>
+		<name normalized="sوbہ کوtאیک" languages="Western Punjabi">صوبہ کوتایک</name>
+		<name normalized="koटाyk p्rाn्t" languages="Nepali">कोटायक प्रान्त</name>
+		<name normalized="kੋਟਾik" languages="Punjabi">ਕੋਟਾਇਕ</name>
+		<name normalized="კოტაიქის პროვინცია" languages="Georgian">კოტაიქის პროვინცია</name>
+		<name normalized="ktik地方" languages="Japanese">コタイク地方</name>
+		<name normalized="科泰克省" languages="Chinese">科泰克省</name>
+		<name normalized="코타이크 주" languages="Korean">코타이크 주</name>
+	</region>
+	<region name="Lorri" type="province" typeTranslated="marz">
+		<name normalized="Lori" languages="Catalan;Croatian;Dutch;Esperanto;German;Indonesian;Italian;Norwegian (bokmal);Serbo-Croatian;Turkish;Vietnamese;Waray">Lori</name>
+		<name normalized="Lori maakond" languages="Estonian">Lori maakond</name>
+		<name normalized="Lori Province" languages="English;Scots;Simple English">Lori Province</name>
+		<name normalized="Lorio sritis" languages="Lithuanian">Lorio sritis</name>
+		<name normalized="Lorj tartomany" languages="Hungarian">Lorj tartomány</name>
+		<name normalized="Lorri" languages="English;Finnish;French;official;Portuguese;Spanish;Swedish">Lorri</name>
+		<name normalized="Lorri Marz" languages="English;official">Lorri Marz</name>
+		<name normalized="Lorri Province" languages="English;official">Lorri Province</name>
+		<name normalized="Loru mahalı" languages="Azerbaijani">Loru mahalı</name>
+		<name normalized="Propinsi Lori" languages="Sundanese">Propinsi Lori</name>
+		<name normalized="Prowincja Lorri" languages="Polish">Prowincja Lorri</name>
+		<name normalized="Wilayah Lorri" languages="Malay">Wilayah Lorri</name>
+		<name normalized="Лoрi" languages="Bulgarian;Macedonian;Ossetic;Serbian">Лори</name>
+		<name normalized="Лoрiйсkai obлaсtь" languages="Russian">Лорийская область</name>
+		<name normalized="Лoрi" languages="Ukrainian">Лорі</name>
+		<name normalized="Lvrvy mաrz" languages="Armenian">Լոռու մարզ</name>
+		<name normalized="אسtאن لوrی" languages="Persian">استان لوری</name>
+		<name normalized="sوbہ لوrی" languages="Western Punjabi">صوبہ لوری</name>
+		<name normalized="lori p्rाn्t" languages="Nepali">लोरी प्रान्त</name>
+		<name normalized="lੋri p੍rਾਂt" languages="Punjabi">ਲੋਰੀ ਪ੍ਰਾਂਤ</name>
+		<name normalized="ლორეს პროვინცია" languages="Georgian">ლორეს პროვინცია</name>
+		<name normalized="rr地方" languages="Japanese">ロリ地方</name>
+		<name normalized="洛里省" languages="Chinese">洛里省</name>
+		<name normalized="로리 주" languages="Korean">로리 주</name>
+	</region>
+	<region name="Shirak" type="province" typeTranslated="marz">
+		<name normalized="Amasiya" languages="Azerbaijani">Amasiya</name>
+		<name normalized="Propinsi Shirak" languages="Sundanese">Propinsi Shirak</name>
+		<name normalized="Provincia di Shirak" languages="Italian">Provincia di Shirak</name>
+		<name normalized="Prowincja Szirak" languages="Polish">Prowincja Szirak</name>
+		<name normalized="Schirak" languages="German">Schirak</name>
+		<name normalized="Shirak" languages="English;French;Indonesian;Italian;official;Portuguese;Scots;Spanish;Vietnamese;Waray">Shirak</name>
+		<name normalized="Shirak Marz" languages="English;official">Shirak Marz</name>
+		<name normalized="Shirak Province" languages="English;official;Scots;Simple English">Shirak Province</name>
+		<name normalized="Sirak tartomany" languages="Hungarian">Sirak tartomány</name>
+		<name normalized="Sjirak" languages="Dutch;Norwegian (bokmal);Swedish">Sjirak</name>
+		<name normalized="Wilayah Shirak" languages="Malay">Wilayah Shirak</name>
+		<name normalized="Xirak" languages="Catalan">Xirak</name>
+		<name normalized="Sirako" languages="Esperanto">Ŝirako</name>
+		<name normalized="Sirak Idari Bolgesi" languages="Turkish">Şirak İdari Bölgesi</name>
+		<name normalized="Sirak" languages="Croatian;Finnish">Širak</name>
+		<name normalized="Siraki maakond" languages="Estonian">Širaki maakond</name>
+		<name normalized="Sirako sritis" languages="Lithuanian">Širako sritis</name>
+		<name normalized="Atik" languages="Russian">Ацик</name>
+		<name normalized="Siрak" languages="Bulgarian;Macedonian;Serbian;Ukrainian">Ширак</name>
+		<name normalized="Siрak aймag" languages="Mongolian">Ширак аймаг</name>
+		<name normalized="Siрakсkai obлaсtь" languages="Russian">Ширакская область</name>
+		<name normalized="Sիrաk" languages="Armenian">Շիրակ</name>
+		<name normalized="Sիrաkի mաrz" languages="Armenian">Շիրակի մարզ</name>
+		<name normalized="אسtאن شیrאک" languages="Persian">استان شیراک</name>
+		<name normalized="sوbہ شrאک" languages="Western Punjabi">صوبہ شراک</name>
+		<name normalized="sirाk p्rाn्t" languages="Nepali">शिराक प्रान्त</name>
+		<name normalized="s਼irਾk" languages="Punjabi">ਸ਼ਿਰਾਕ</name>
+		<name normalized="შირაკის პროვინცია" languages="Georgian">შირაკის პროვინცია</name>
+		<name normalized="srk地方" languages="Japanese">シラク地方</name>
+		<name normalized="希拉克省" languages="Chinese">希拉克省</name>
+		<name normalized="시라크 주" languages="Korean">시라크 주</name>
+	</region>
+	<region name="Syunik'" type="province" typeTranslated="marz">
+		<name normalized="Propinsi Syunik" languages="Sundanese">Propinsi Syunik</name>
+		<name normalized="Prowincja Sjunik" languages="Polish">Prowincja Sjunik</name>
+		<name normalized="Siunia" languages="Catalan">Siunia</name>
+		<name normalized="Siuniko sritis" languages="Lithuanian">Siuniko sritis</name>
+		<name normalized="Siunique" languages="Portuguese">Siunique</name>
+		<name normalized="Sjoenik" languages="Dutch">Sjoenik</name>
+		<name normalized="Sjunik" languages="Croatian;Czech;German;Serbo-Croatian">Sjunik</name>
+		<name normalized="Sjunik'" languages="Finnish">Sjunik'</name>
+		<name normalized="Sjunikhi maakond" languages="Estonian">Sjunikhi maakond</name>
+		<name normalized="Sjuniko" languages="Esperanto">Sjuniko</name>
+		<name normalized="Syunik" languages="English;French;Indonesian;Italian;Norwegian (bokmal);official;Vietnamese;Waray;Welsh">Syunik</name>
+		<name normalized="Syunik Marz" languages="English;official">Syunik Marz</name>
+		<name normalized="Syunik Province" languages="English;official;Scots;Simple English">Syunik Province</name>
+		<name normalized="Syunik'" languages="English;official;Spanish">Syunik'</name>
+		<name normalized="Syunik' Marz" languages="English;official">Syunik' Marz</name>
+		<name normalized="Syunik' Province" languages="English;official">Syunik' Province</name>
+		<name normalized="Szjounik tartomany" languages="Hungarian">Szjounik tartomány</name>
+		<name normalized="Sunik" languages="Turkish">Sünik</name>
+		<name normalized="Wilayah Syunik" languages="Malay">Wilayah Syunik</name>
+		<name normalized="Сюнik" languages="Bulgarian;Ossetic">Сюник</name>
+		<name normalized="Сюнik aймag" languages="Mongolian">Сюник аймаг</name>
+		<name normalized="Сюнikсkai obлaсtь" languages="Russian">Сюникская область</name>
+		<name normalized="Сюнik" languages="Ukrainian">Сюнік</name>
+		<name normalized="Сjuнik" languages="Macedonian;Serbian">Сјуник</name>
+		<name normalized="Sյvyնիkի mաrz" languages="Armenian">Սյունիքի մարզ</name>
+		<name normalized="אسtאن سیونیک" languages="Persian">استان سیونیک</name>
+		<name normalized="sوbہ سیونک" languages="Western Punjabi">صوبہ سیونک</name>
+		<name normalized="s्yunik p्rाn्t" languages="Nepali">स्युनिक प्रान्त</name>
+		<name normalized="სიუნიქის პროვინცია" languages="Georgian">სიუნიქის პროვინცია</name>
+		<name normalized="synk地方" languages="Japanese">シュニク地方</name>
+		<name normalized="休尼克省" languages="Chinese">休尼克省</name>
+		<name normalized="슈니크 주" languages="Korean">슈니크 주</name>
+	</region>
+	<region name="Tavush" type="province" typeTranslated="marz">
+		<name normalized="Propinsi Tavush" languages="Sundanese">Propinsi Tavush</name>
+		<name normalized="Provincia di Tavows" languages="Italian">Provincia di Tavowš</name>
+		<name normalized="Provinsi Tavush" languages="Indonesian">Provinsi Tavush</name>
+		<name normalized="Prowincja Tawusz" languages="Polish">Prowincja Tawusz</name>
+		<name normalized="T'ovowz" languages="Italian">T'ovowz</name>
+		<name normalized="Tavoesj" languages="Dutch">Tavoesj</name>
+		<name normalized="Tavous tartomany" languages="Hungarian">Tavous tartomány</name>
+		<name normalized="Tavush" languages="Catalan;English;French;official;Portuguese;Simple English;Spanish;Vietnamese;Waray">Tavush</name>
+		<name normalized="Tavush Marz" languages="English;official">Tavush Marz</name>
+		<name normalized="Tavush Province" languages="English;official;Scots">Tavush Province</name>
+		<name normalized="Tavusj" languages="Norwegian (bokmal);Swedish">Tavusj</name>
+		<name normalized="Tavuso" languages="Esperanto">Tavuŝo</name>
+		<name normalized="Tavus" languages="Azerbaijani;Turkish">Tavuş</name>
+		<name normalized="Tavus" languages="Croatian;Czech;Finnish">Tavuš</name>
+		<name normalized="Tavusi maakond" languages="Estonian">Tavuši maakond</name>
+		<name normalized="Tavuso sritis" languages="Lithuanian">Tavušo sritis</name>
+		<name normalized="Tawusch" languages="German">Tawusch</name>
+		<name normalized="Tovuz" languages="Malay;Scots">Tovuz</name>
+		<name normalized="Wilayah Tavush" languages="Malay">Wilayah Tavush</name>
+		<name normalized="Tavus" languages="Bulgarian;Macedonian;Russian;Serbian;Ukrainian">Тавуш</name>
+		<name normalized="Tavus aймag" languages="Mongolian">Тавуш аймаг</name>
+		<name normalized="Tavusсkai obлaсtь" languages="Russian">Тавушская область</name>
+		<name normalized="Tավvys" languages="Armenian">Տավուշ</name>
+		<name normalized="Tավvysի mաrz" languages="Armenian">Տավուշի մարզ</name>
+		<name normalized="אسtאن tאووش" languages="Persian">استان تاووش</name>
+		<name normalized="sوbہ tאووش" languages="Western Punjabi">صوبہ تاووش</name>
+		<name normalized="tाvus p्rाn्t" languages="Nepali">तावूश प्रान्त</name>
+		<name normalized="tvus਼" languages="Punjabi">ਤਵੂਸ਼</name>
+		<name normalized="ტავუშის პროვინცია" languages="Georgian">ტავუშის პროვინცია</name>
+		<name normalized="tvsy地方" languages="Japanese">タヴシュ地方</name>
+		<name normalized="塔武什省" languages="Chinese">塔武什省</name>
+		<name normalized="타부시 주" languages="Korean">타부시 주</name>
+	</region>
+	<region name="Vayots' Dzor" type="province" typeTranslated="marz">
+		<name normalized="Dərələyəz mahalı" languages="Azerbaijani">Dərələyəz mahalı</name>
+		<name normalized="Propinsi Vayots Dzor" languages="Sundanese">Propinsi Vayots Dzor</name>
+		<name normalized="Provinsi Vayots Dzor" languages="Indonesian">Provinsi Vayots Dzor</name>
+		<name normalized="Prowincja Wajoc Dzor" languages="Polish">Prowincja Wajoc Dzor</name>
+		<name normalized="Vajoc Dzor" languages="Czech">Vajoc Dzor</name>
+		<name normalized="Vajoc Dzor tartomany" languages="Hungarian">Vajoc Dzor tartomány</name>
+		<name normalized="Vajocdzoro sritis" languages="Lithuanian">Vajocdzoro sritis</name>
+		<name normalized="Vajoco-Dzoro" languages="Esperanto">Vajoco-Dzoro</name>
+		<name normalized="Vajots Dzor" languages="Croatian;Norwegian (bokmal);Swedish">Vajots Dzor</name>
+		<name normalized="Vajots' Dzor" languages="Finnish">Vajots' Dzor</name>
+		<name normalized="Vajotsh Dzori maakond" languages="Estonian">Vajotsh Dzori maakond</name>
+		<name normalized="Vayots Dzor" languages="Dutch;English;French;Italian;official;Portuguese;Simple English;Turkish;Vietnamese;Waray;Welsh">Vayots Dzor</name>
+		<name normalized="Vayots Dzor Marz" languages="English;official">Vayots Dzor Marz</name>
+		<name normalized="Vayots Dzor Province" languages="English;official;Scots">Vayots Dzor Province</name>
+		<name normalized="Vayots' Dzor" languages="English;official;Spanish">Vayots' Dzor</name>
+		<name normalized="Vayots' Dzor Marz" languages="English;official">Vayots' Dzor Marz</name>
+		<name normalized="Vayots' Dzor Province" languages="English;official">Vayots' Dzor Province</name>
+		<name normalized="Wajoz Dsor" languages="German">Wajoz Dsor</name>
+		<name normalized="Wilayah Vayots Dzor" languages="Malay">Wilayah Vayots Dzor</name>
+		<name normalized="Vaйot Dzoр" languages="Bulgarian;Ossetic">Вайоц Дзор</name>
+		<name normalized="Vaйot-Dzoр" languages="Ukrainian">Вайоц-Дзор</name>
+		<name normalized="Vaйotdzoрсkai obлaсtь" languages="Russian">Вайоцдзорская область</name>
+		<name normalized="Vaйotzoр aймag" languages="Mongolian">Вайоцзор аймаг</name>
+		<name normalized="Vajot Dzoр" languages="Macedonian">Вајоц Ѕор</name>
+		<name normalized="Vajot Dzoр" languages="Serbian">Вајоц Џор</name>
+		<name normalized="Վայvc jvrի mաrz" languages="Armenian">Վայոց ձորի մարզ</name>
+		<name normalized="אسtאن وאیوtس‌jوr" languages="Persian">استان وایوتس‌جور</name>
+		<name normalized="sوbہ وאیوtس jوr" languages="Western Punjabi">صوبہ وایوتس جور</name>
+		<name normalized="vाyot्s d्j़or p्rाn्t" languages="Nepali">वायोत्स द्ज़ोर प्रान्त</name>
+		<name normalized="vਾiਓt jੋr subਾ" languages="Punjabi">ਵਾਇਓਤ ਜੋਰ ਸੂਬਾ</name>
+		<name normalized="ვაიოცძორის პროვინცია" languages="Georgian">ვაიოცძორის პროვინცია</name>
+		<name normalized="vayt・zr地方" languages="Japanese">ヴァヨツ・ゾル地方</name>
+		<name normalized="瓦約茨佐爾省" languages="Chinese">瓦約茨佐爾省</name>
+		<name normalized="바요츠조르 주" languages="Korean">바요츠조르 주</name>
+	</region>
+	<region name="Yerevan" type="province" typeTranslated="marz">
+		<name normalized="Djerevan" languages="Ladino">Djerevan</name>
+		<name normalized="Eireavan" languages="Irish">Eireaván</name>
+		<name normalized="Erevan" languages="Aragonese;Basque;Bosnian;Catalan;Croatian;French;Italian;Ligure;lumbaart;Nahuatl;Occitan;Piedmontese;Portuguese;Romanian;Serbo-Croatian;Sicilian;Slovenian;Tagalog">Erevan</name>
+		<name normalized="Erevano" languages="Esperanto">Erevano</name>
+		<name normalized="Erevanum" languages="Latin">Erevanum</name>
+		<name normalized="Erevan" languages="Haitian">Erevàn</name>
+		<name normalized="Erevan" languages="Spanish">Ereván</name>
+		<name normalized="Erevana" languages="Latvian">Erevāna</name>
+		<name normalized="Erivan" languages="Gagauz;Turkish">Erivan</name>
+		<name normalized="Eriwan" languages="Luxembourgish">Eriwan</name>
+		<name normalized="Erywan" languages="Polish">Erywań</name>
+		<name normalized="Ierevan" languages="Galician">Iereván</name>
+		<name normalized="Irəvan" languages="Azerbaijani">İrəvan</name>
+		<name normalized="Jerevan" languages="Czech;Danish;Dutch;Estonian;Finnish;Icelandic;Interlingue;Norwegian (bokmal);Norwegian Nynorsk;Slovak;Swedish;Veps;Voro;Western Frisian;Zeeuws">Jerevan</name>
+		<name normalized="Jerevanas" languages="Lithuanian">Jerevanas</name>
+		<name normalized="Jerevani" languages="Albanian">Jerevani</name>
+		<name normalized="Jerevan" languages="Hungarian">Jereván</name>
+		<name normalized="Jerewan" languages="Afrikaans;German">Jerewan</name>
+		<name normalized="Jerjewan" languages="Upper Sorbian">Jerjewan</name>
+		<name normalized="Yerevan" languages="Breton;English;Fiji Hindi;Ido;Iloko;Indonesian;Javanese;Kinyarwanda;Malagasy;Malay;Manx;Maori;Novial;official;Quechua;Scots;Scottish Gaelic;Shona;Simple English;Swahili;Uzbek;Vietnamese;Volapuk;Waray;Welsh;Yoruba">Yerevan</name>
+		<name normalized="Yerevan Marz" languages="English;official">Yerevan Marz</name>
+		<name normalized="Yerevan Province" languages="English;official">Yerevan Province</name>
+		<name normalized="Yerevan" languages="Zazaki">Yerêvan</name>
+		<name normalized="Yerevan" languages="Achinese;Franco-Provencal">Yèrèvan</name>
+		<name normalized="Yerevan" languages="Sundanese">Yérévan</name>
+		<name normalized="Erivan" languages="veneto">Èrivan</name>
+		<name normalized="Erivan" languages="Kurdish">Êrîvan</name>
+		<name normalized="Γερεβαν" languages="Greek">Γερεβάν</name>
+		<name normalized="Goрad Iрevaн" languages="Belarusian">Горад Ерэван</name>
+		<name normalized="Iрivaн" languages="Avaric;Bulgarian;Chechen;Chuvash;Eastern Mari;Kazakh;Komi;Kyrgyz;Lezghian;Macedonian;Mongolian;Ossetic;Russian;Sakha;Tajik;Tatar;Udmurt">Ереван</name>
+		<name normalized="Iрivaн os" languages="Erzya">Ереван ош</name>
+		<name normalized="Iрivaн osсь" languages="Moksha">Ереван ошсь</name>
+		<name normalized="Iрevaн" languages="biлaрuсkai (taрaskivita)‎">Ерэван</name>
+		<name normalized="Eрivaн" languages="Ukrainian">Єреван</name>
+		<name normalized="Jiрivaн" languages="Serbian">Јереван</name>
+		<name normalized="Եrևան" languages="Armenian">Երևան</name>
+		<name normalized="יעrעvvאן" languages="Yiddish">יערעוואן</name>
+		<name normalized="יrvvאן" languages="Hebrew">ירוואן</name>
+		<name normalized="אیrوאن" languages="Mazanderani;Persian">ایروان</name>
+		<name normalized="yryfאن" languages="Arabic">يريفان</name>
+		<name normalized="yېrېۋאن" languages="Uyghur">يېرېۋان</name>
+		<name normalized="یrیوאن" languages="Urdu;Western Punjabi">یریوان</name>
+		<name normalized="یەrیvאن" languages="Sorani Kurdish">یەریڤان</name>
+		<name normalized="yervाn" languages="Hindi">येरवान</name>
+		<name normalized="yervाn p्rाn्t" languages="Nepali">येरवान प्रान्त</name>
+		<name normalized="yerevाn" languages="Sanskrit">येरेवान</name>
+		<name normalized="yerev्hाn" languages="Marathi">येरेव्हान</name>
+		<name normalized="iy়erebাn" languages="Bengali">ইয়েরেভান</name>
+		<name normalized="யெரெவான்" languages="Tamil">யெரெவான்</name>
+		<name normalized="ಯೆರೆವಾನ್" languages="Kannada">ಯೆರೆವಾನ್</name>
+		<name normalized="യെറിവാൻ" languages="Malayalam">യെറിവാൻ</name>
+		<name normalized="เยเรวาน" languages="Thai">เยเรวาน</name>
+		<name normalized="ཡེ་རེ་ཝན།" languages="Tibetan">ཡེ་རེ་ཝན།</name>
+		<name normalized="ერევანი" languages="Georgian;Mingrelian">ერევანი</name>
+		<name normalized="ዬሬቫን" languages="Amharic">ዬሬቫን</name>
+		<name normalized="erbn" languages="Japanese">エレバン</name>
+		<name normalized="埃里溫" languages="Cantonese">埃里溫</name>
+		<name normalized="葉里溫" languages="Chinese">葉里溫</name>
+		<name normalized="예레반" languages="Korean">예레반</name>
+	</region>
+</regions>

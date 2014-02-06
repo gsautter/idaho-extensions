@@ -1,0 +1,2338 @@
+<regions country="Japan">
+	<region name="Aichi" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Aichi" languages="Basque;Croatian;Dutch;English;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Vietnamese;Waray;Welsh">Aichi</name>
+		<name normalized="Aichi Prefectur" languages="Scots">Aichi Prefectur</name>
+		<name normalized="Aichi Prefecture" languages="English;Novial;official;Pampanga;Simple English">Aichi Prefecture</name>
+		<name normalized="Aichi prefektur" languages="Swedish">Aichi prefektur</name>
+		<name normalized="Aichi prefektuur" languages="Estonian">Aichi prefektuur</name>
+		<name normalized="Aichi prefektuvra" languages="Northern Sami">Aichi prefektuvra</name>
+		<name normalized="Aichi-praefekturet" languages="Danish">Aichi-præfekturet</name>
+		<name normalized="Aichin prefektuuri" languages="Finnish">Aichin prefektuuri</name>
+		<name normalized="Aicsi prefektura" languages="Hungarian">Aicsi prefektúra</name>
+		<name normalized="Aiti-koan" languages="Chinese (Min Nan)">Aiti-koān</name>
+		<name normalized="Aici" languages="Latvian;Slovak">Aiči</name>
+		<name normalized="Aicio prefektura" languages="Lithuanian">Aičio prefektūra</name>
+		<name normalized="Ayti" languages="Azerbaijani">Ayti</name>
+		<name normalized="Gubernio Ajci" languages="Esperanto">Gubernio Ajĉi</name>
+		<name normalized="Mkoa wa Aichi" languages="Swahili">Mkoa wa Aichi</name>
+		<name normalized="Prefectura Aichi" languages="Romanian">Prefectura Aichi</name>
+		<name normalized="Prefectura d'Aichi" languages="Catalan">Prefectura d'Aichi</name>
+		<name normalized="Prefectura de Aichi" languages="Galician;Spanish">Prefectura de Aichi</name>
+		<name normalized="Prefektur Aichi" languages="Achinese;Indonesian;Javanese">Prefektur Aichi</name>
+		<name normalized="Prefektura Aichi" languages="Polish;Serbo-Croatian">Prefektura Aichi</name>
+		<name normalized="Prefektura Aici" languages="Czech">Prefektura Aiči</name>
+		<name normalized="Prefettura di Aichi" languages="Italian">Prefettura di Aichi</name>
+		<name normalized="Prepektura ng Aichi" languages="Tagalog">Prepektura ng Aichi</name>
+		<name normalized="Prepektura ti Aichi" languages="Iloko">Prepektura ti Aichi</name>
+		<name normalized="Prafektur Aichi" languages="German">Präfektur Aichi</name>
+		<name normalized="Prefecture d'Aichi" languages="French">Préfecture d'Aichi</name>
+		<name normalized="Prefektur Aichi" languages="Sundanese">Préféktur Aichi</name>
+		<name normalized="Wilayah Aichi" languages="Malay">Wilayah Aichi</name>
+		<name normalized="Aйti" languages="Russian">Айти</name>
+		<name normalized="Aйci" languages="Bulgarian;Mongolian">Айчи</name>
+		<name normalized="Ajci" languages="Macedonian">Ајчи</name>
+		<name normalized="Pрiфiktuрa Aici" languages="Serbian">Префектура Аичи</name>
+		<name normalized="Pрiфiktuрa Aйci" languages="Ukrainian">Префектура Айчі</name>
+		<name normalized="Pрiфiktuрai Aйci" languages="Tajik">Префектураи Айчи</name>
+		<name normalized="آytشy" languages="Arabic">آيتشي</name>
+		<name normalized="آیچی אسtאن" languages="Mazanderani">آیچی استان</name>
+		<name normalized="ئאیچی" languages="Sorani Kurdish">ئایچی</name>
+		<name normalized="אسtאن آیچی" languages="Persian">استان آیچی</name>
+		<name normalized="אیچی prیfیکچr" languages="Urdu">ایچی پریفیکچر</name>
+		<name normalized="dلع آیچی" languages="Western Punjabi">ضلع آیچی</name>
+		<name normalized="aici p्rip़ek्cr" languages="Hindi">आइची प्रीफ़ेक्चर</name>
+		<name normalized="aci" languages="Marathi">ऐची</name>
+		<name normalized="จังหวัดไอชิ" languages="Thai">จังหวัดไอชิ</name>
+		<name normalized="ཨའི་ཆི་ཞེས་པའི་སྲིད་འཛིན་ས་ཁུལ།" languages="Tibetan">ཨའི་ཆི་ཞེས་པའི་སྲིད་འཛིན་ས་ཁུལ།</name>
+		<name normalized="აიტის პრეფექტურა" languages="Georgian">აიტის პრეფექტურა</name>
+		<name normalized="ខេត្តអៃឈិ" languages="Khmer">ខេត្តអៃឈិ</name>
+		<name normalized="愛知県" languages="Japanese">愛知県</name>
+		<name normalized="愛知縣" languages="Cantonese;Chinese">愛知縣</name>
+		<name normalized="아이치 현" languages="Korean">아이치 현</name>
+	</region>
+	<region name="Akita" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Akita" languages="Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Slovak;Vietnamese;Waray;Welsh">Akita</name>
+		<name normalized="Akita Prefectur" languages="Scots">Akita Prefectur</name>
+		<name normalized="Akita Prefecture" languages="English;Novial;official;Pampanga;Simple English">Akita Prefecture</name>
+		<name normalized="Akita prefektur" languages="Swedish">Akita prefektur</name>
+		<name normalized="Akita prefektuur" languages="Estonian">Akita prefektuur</name>
+		<name normalized="Akita prefektura" languages="Hungarian">Akita prefektúra</name>
+		<name normalized="Akita-koan" languages="Chinese (Min Nan)">Akita-koān</name>
+		<name normalized="Akitan prefektuuri" languages="Finnish">Akitan prefektuuri</name>
+		<name normalized="Akitas prefektura" languages="Latvian">Akitas prefektūra</name>
+		<name normalized="Akitos prefektura" languages="Lithuanian">Akitos prefektūra</name>
+		<name normalized="Gubernio Akita" languages="Esperanto">Gubernio Akita</name>
+		<name normalized="Mkoa wa Akita" languages="Swahili">Mkoa wa Akita</name>
+		<name normalized="Prefectura Akita" languages="Romanian">Prefectura Akita</name>
+		<name normalized="Prefectura d'Akita" languages="Catalan">Prefectura d'Akita</name>
+		<name normalized="Prefectura de Akita" languages="Galician;Spanish">Prefectura de Akita</name>
+		<name normalized="Prefektur Akita" languages="Achinese;Indonesian;Javanese">Prefektur Akita</name>
+		<name normalized="Prefektura Akita" languages="Czech;Polish;Serbo-Croatian">Prefektura Akita</name>
+		<name normalized="Prefettura di Akita" languages="Italian">Prefettura di Akita</name>
+		<name normalized="Prepektura ng Akita" languages="Tagalog">Prepektura ng Akita</name>
+		<name normalized="Prepektura ti Akita" languages="Iloko">Prepektura ti Akita</name>
+		<name normalized="Prafektur Akita" languages="German">Präfektur Akita</name>
+		<name normalized="Prefecture d'Akita" languages="French">Préfecture d'Akita</name>
+		<name normalized="Prefektur Akita" languages="Sundanese">Préféktur Akita</name>
+		<name normalized="Wilayah Akita" languages="Malay">Wilayah Akita</name>
+		<name normalized="Akita" languages="Bulgarian;Macedonian;Mongolian;Russian">Акита</name>
+		<name normalized="Pрiфiktuрa Akita" languages="Serbian">Префектура Акита</name>
+		<name normalized="Pрiфiktuрa Akita" languages="Ukrainian">Префектура Акіта</name>
+		<name normalized="Pрiфiktuрai Akita" languages="Tajik">Префектураи Акита</name>
+		<name normalized="אqיth" languages="Hebrew">אקיטה</name>
+		<name normalized="أkytא" languages="Arabic">أكيتا</name>
+		<name normalized="ئאkىtא نאھىyىسى" languages="Uyghur">ئاكىتا ناھىيىسى</name>
+		<name normalized="ئאکیtא" languages="Sorani Kurdish">ئاکیتا</name>
+		<name normalized="אسtאن آکیtא" languages="Persian">استان آکیتا</name>
+		<name normalized="אکیtא prیfیکچr" languages="Urdu">اکیتا پریفیکچر</name>
+		<name normalized="dلع אکیٹא" languages="Western Punjabi">ضلع اکیٹا</name>
+		<name normalized="akitा" languages="Marathi">अकिता</name>
+		<name normalized="akitा p्rip़ek्cr" languages="Hindi">अकिता प्रीफ़ेक्चर</name>
+		<name normalized="จังหวัดอะกิตะ" languages="Thai">จังหวัดอะกิตะ</name>
+		<name normalized="ខេត្តអាគីតា" languages="Khmer">ខេត្តអាគីតា</name>
+		<name normalized="秋田县" languages="Chinese;Gan;Wu">秋田县</name>
+		<name normalized="秋田県" languages="Japanese">秋田県</name>
+		<name normalized="秋田縣" languages="Cantonese">秋田縣</name>
+		<name normalized="아키타 현" languages="Korean">아키타 현</name>
+	</region>
+	<region name="Aomori" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Aomori" languages="Azerbaijani;Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Slovak;Vietnamese;Waray;Welsh">Aomori</name>
+		<name normalized="Aomori Prefectur" languages="Scots">Aomori Prefectur</name>
+		<name normalized="Aomori Prefecture" languages="English;Novial;official;Pampanga;Simple English">Aomori Prefecture</name>
+		<name normalized="Aomori prefektur" languages="Swedish">Aomori prefektur</name>
+		<name normalized="Aomori prefektuur" languages="Estonian">Aomori prefektuur</name>
+		<name normalized="Aomori prefektura" languages="Hungarian">Aomori prefektúra</name>
+		<name normalized="Aomori prefektura" languages="Latvian">Aomori prefektūra</name>
+		<name normalized="Aomori-koan" languages="Chinese (Min Nan)">Aomori-koān</name>
+		<name normalized="Aomorin prefektuuri" languages="Finnish">Aomorin prefektuuri</name>
+		<name normalized="Aomorio prefektura" languages="Lithuanian">Aomorio prefektūra</name>
+		<name normalized="Gubernio Aomori" languages="Esperanto">Gubernio Aomori</name>
+		<name normalized="Mkoa wa Aomori" languages="Swahili">Mkoa wa Aomori</name>
+		<name normalized="Prefectura Aomori" languages="Romanian">Prefectura Aomori</name>
+		<name normalized="Prefectura d'Aomori" languages="Catalan">Prefectura d'Aomori</name>
+		<name normalized="Prefectura de Aomori" languages="Galician;Spanish">Prefectura de Aomori</name>
+		<name normalized="Prefektur Aomori" languages="Achinese;Indonesian;Javanese">Prefektur Aomori</name>
+		<name normalized="Prefektura Aomori" languages="Czech;Polish;Serbo-Croatian">Prefektura Aomori</name>
+		<name normalized="Prefettura di Aomori" languages="Italian">Prefettura di Aomori</name>
+		<name normalized="Prepektura ng Aomori" languages="Tagalog">Prepektura ng Aomori</name>
+		<name normalized="Prepektura ti Aomori" languages="Iloko">Prepektura ti Aomori</name>
+		<name normalized="Prafektur Aomori" languages="German">Präfektur Aomori</name>
+		<name normalized="Prefecture d'Aomori" languages="French">Préfecture d'Aomori</name>
+		<name normalized="Prefektur Aomori" languages="Sundanese">Préféktur Aomori</name>
+		<name normalized="Wilayah Aomori" languages="Malay">Wilayah Aomori</name>
+		<name normalized="Aoмoрi" languages="Bulgarian;Macedonian;Mongolian;Russian">Аомори</name>
+		<name normalized="Pрiфiktuрa Aoмoрi" languages="Serbian">Префектура Аомори</name>
+		<name normalized="Pрiфiktuрa Aoмoрi" languages="Ukrainian">Префектура Аоморі</name>
+		<name normalized="Pрiфiktuрai Aoмoрi" languages="Tajik">Префектураи Аомори</name>
+		<name normalized="Աvmvrի" languages="Armenian">Աոմորի</name>
+		<name normalized="אאvמvrי" languages="Hebrew">אאומורי</name>
+		<name normalized="آوmوry" languages="Arabic">آوموري</name>
+		<name normalized="ئאئوmوrى نאھىyىسى" languages="Uyghur">ئائومورى ناھىيىسى</name>
+		<name normalized="ئאئۆmۆrی" languages="Sorani Kurdish">ئائۆمۆری</name>
+		<name normalized="אسtאن آئوmوrی" languages="Persian">استان آئوموری</name>
+		<name normalized="אوmوrی prیfیکچr" languages="Urdu">اوموری پریفیکچر</name>
+		<name normalized="dلع آوmوrی" languages="Western Punjabi">ضلع آوموری</name>
+		<name normalized="aomori p्rip़ek्cr" languages="Hindi">आओमोरी प्रीफ़ेक्चर</name>
+		<name normalized="omori" languages="Marathi">ओमोरी</name>
+		<name normalized="จังหวัดอะโอะโมะริ" languages="Thai">จังหวัดอะโอะโมะริ</name>
+		<name normalized="青森县" languages="Wu">青森县</name>
+		<name normalized="青森県" languages="Japanese">青森県</name>
+		<name normalized="青森縣" languages="Cantonese;Chinese;Gan">青森縣</name>
+		<name normalized="아오모리 현" languages="Korean">아오모리 현</name>
+	</region>
+	<region name="Chiba" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Chiba" languages="Basque;Catalan;Croatian;Dutch;English;German;Italian;Norwegian (bokmal);official;Portuguese;Scots;Simple English;Spanish;Swahili;Vietnamese;Waray;Welsh">Chiba</name>
+		<name normalized="Chiba ili" languages="Turkish">Chiba ili</name>
+		<name normalized="Chiba Prefectur" languages="Scots">Chiba Prefectur</name>
+		<name normalized="Chiba Prefecture" languages="English;Novial;official;Pampanga;Simple English">Chiba Prefecture</name>
+		<name normalized="Chiba prefektur" languages="Swedish">Chiba prefektur</name>
+		<name normalized="Chiba prefektuur" languages="Estonian">Chiba prefektuur</name>
+		<name normalized="Chiba-praefekturet" languages="Danish">Chiba-præfekturet</name>
+		<name normalized="Chiban prefektuuri" languages="Finnish">Chiban prefektuuri</name>
+		<name normalized="Csiba prefektura" languages="Hungarian">Csiba prefektúra</name>
+		<name normalized="Gubernio Ciba" languages="Esperanto">Gubernio Ĉiba</name>
+		<name normalized="Mkoa wa Chiba" languages="Swahili">Mkoa wa Chiba</name>
+		<name normalized="Prefectura Chiba" languages="Romanian">Prefectura Chiba</name>
+		<name normalized="Prefectura de Chiba" languages="Catalan;Galician;Occitan;Spanish">Prefectura de Chiba</name>
+		<name normalized="Prefektur Chiba" languages="Achinese;Indonesian;Javanese">Prefektur Chiba</name>
+		<name normalized="Prefektura Chiba" languages="Polish;Serbo-Croatian">Prefektura Chiba</name>
+		<name normalized="Prefektura Ciba" languages="Czech;Slovenian">Prefektura Čiba</name>
+		<name normalized="Prefettura di Chiba" languages="Italian">Prefettura di Chiba</name>
+		<name normalized="Prepektura ng Chiba" languages="Tagalog">Prepektura ng Chiba</name>
+		<name normalized="Prepektura ti Chiba" languages="Iloko">Prepektura ti Chiba</name>
+		<name normalized="Prafektur Chiba" languages="German">Präfektur Chiba</name>
+		<name normalized="Prefecture de Chiba" languages="French">Préfecture de Chiba</name>
+		<name normalized="Prefektur Chiba" languages="Sundanese">Préféktur Chiba</name>
+		<name normalized="Tiba" languages="Chinese (Min Nan)">Tiba</name>
+		<name normalized="Tiba-koan" languages="Chinese (Min Nan)">Tiba-koān</name>
+		<name normalized="Wilayah Chiba" languages="Malay">Wilayah Chiba</name>
+		<name normalized="Ciba" languages="Azerbaijani">Çiba</name>
+		<name normalized="Ciba" languages="Esperanto">Ĉiba</name>
+		<name normalized="Ciba" languages="Slovak">Čiba</name>
+		<name normalized="Cibas prefektura" languages="Latvian">Čibas prefektūra</name>
+		<name normalized="Cibos prefektura" languages="Lithuanian">Čibos prefektūra</name>
+		<name normalized="Pрiфiktuрa Ciba" languages="Serbian">Префектура Чиба</name>
+		<name normalized="Pрiфiktuрa Ciba" languages="Ukrainian">Префектура Чіба</name>
+		<name normalized="Pрiфiktuрai Ciba" languages="Tajik">Префектураи Чиба</name>
+		<name normalized="Pрeфiktuрa Tыba" languages="Belarusian">Прэфектура Тыба</name>
+		<name normalized="Tiba" languages="Russian">Тиба</name>
+		<name normalized="Ciba" languages="Bulgarian;Macedonian;Serbian">Чиба</name>
+		<name normalized="Ciba-keн" languages="Mongolian">Чиба-кэн</name>
+		<name normalized="Ciba" languages="Ukrainian">Чіба</name>
+		<name normalized="צ'יbh" languages="Hebrew">צ'יבה</name>
+		<name normalized="אسtאن چیbא" languages="Persian">استان چیبا</name>
+		<name normalized="tشybא" languages="Arabic">تشيبا</name>
+		<name normalized="dلع چیbא" languages="Western Punjabi">ضلع چیبا</name>
+		<name normalized="چیbא" languages="Persian;Sorani Kurdish">چیبا</name>
+		<name normalized="چیbא prیfیکچr" languages="Urdu">چیبا پریفیکچر</name>
+		<name normalized="cibा" languages="Marathi">चिबा</name>
+		<name normalized="จังหวัดชิบะ" languages="Thai">จังหวัดชิบะ</name>
+		<name normalized="ชิบะ" languages="Thai">ชิบะ</name>
+		<name normalized="ខេត្តឈីបា" languages="Khmer">ខេត្តឈីបា</name>
+		<name normalized="千叶县" languages="Wu">千叶县</name>
+		<name normalized="千葉" languages="Chinese;Japanese">千葉</name>
+		<name normalized="千葉県" languages="Japanese">千葉県</name>
+		<name normalized="千葉縣" languages="Cantonese;Chinese;Classical Chinese">千葉縣</name>
+		<name normalized="지바" languages="Korean">지바</name>
+		<name normalized="지바 현" languages="Korean">지바 현</name>
+	</region>
+	<region name="Ehime" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Ehime" languages="Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Slovak;Vietnamese;Waray;Welsh">Ehime</name>
+		<name normalized="Ehime Prefectur" languages="Scots">Ehime Prefectur</name>
+		<name normalized="Ehime Prefecture" languages="English;official;Pampanga;Simple English">Ehime Prefecture</name>
+		<name normalized="Ehime prefektur" languages="Swedish">Ehime prefektur</name>
+		<name normalized="Ehime prefektuur" languages="Estonian">Ehime prefektuur</name>
+		<name normalized="Ehime prefektura" languages="Hungarian">Ehime prefektúra</name>
+		<name normalized="Ehime-koan" languages="Chinese (Min Nan)">Ehime-koān</name>
+		<name normalized="Ehimen prefektuuri" languages="Finnish">Ehimen prefektuuri</name>
+		<name normalized="Ehimes prefektura" languages="Latvian">Ehimes prefektūra</name>
+		<name normalized="Ehimes prefektura" languages="Lithuanian">Ehimės prefektūra</name>
+		<name normalized="Gubernio Ehime" languages="Esperanto">Gubernio Ehime</name>
+		<name normalized="Mkoa wa Ehime" languages="Swahili">Mkoa wa Ehime</name>
+		<name normalized="Oi-yen-yen" languages="Hakka">Oi-yèn-yen</name>
+		<name normalized="Prefectura d'Ehime" languages="Catalan">Prefectura d'Ehime</name>
+		<name normalized="Prefectura de Ehime" languages="Galician;Spanish">Prefectura de Ehime</name>
+		<name normalized="Prefectura Ehime" languages="Romanian">Prefectura Ehime</name>
+		<name normalized="Prefektur Ehime" languages="Achinese;Indonesian;Javanese">Prefektur Ehime</name>
+		<name normalized="Prefektura Ehime" languages="Czech;Polish;Serbo-Croatian">Prefektura Ehime</name>
+		<name normalized="Prefettura di Ehime" languages="Italian">Prefettura di Ehime</name>
+		<name normalized="Prepektura ng Ehime" languages="Tagalog">Prepektura ng Ehime</name>
+		<name normalized="Prepektura ti Ehime" languages="Iloko">Prepektura ti Ehime</name>
+		<name normalized="Prafektur Ehime" languages="German">Präfektur Ehime</name>
+		<name normalized="Prefecture d'Ehime" languages="French">Préfecture d'Ehime</name>
+		<name normalized="Prefektur Ehime" languages="Sundanese">Préféktur Ehime</name>
+		<name normalized="Wilayah Ehime" languages="Malay">Wilayah Ehime</name>
+		<name normalized="Ikiмi" languages="Bulgarian;Macedonian">Ехиме</name>
+		<name normalized="Pрiфiktuрa Ikiмi" languages="Serbian">Префектура Ехиме</name>
+		<name normalized="Pрiфiktuрa Ikiмi" languages="Ukrainian">Префектура Ехіме</name>
+		<name normalized="Pрiфiktuрai Ekiмi" languages="Tajik">Префектураи Эхиме</name>
+		<name normalized="Ekiмe" languages="Russian">Эхимэ</name>
+		<name normalized="إhymh" languages="Arabic">إهيمه</name>
+		<name normalized="ئێھیmێ" languages="Sorani Kurdish">ئێھیمێ</name>
+		<name normalized="אسtאن אhیmh" languages="Persian">استان اهیمه</name>
+		<name normalized="אہیmے prیfیکچr" languages="Urdu">اہیمے پریفیکچر</name>
+		<name normalized="dلع אہیmے" languages="Western Punjabi">ضلع اہیمے</name>
+		<name normalized="ehime" languages="Marathi">एहिमे</name>
+		<name normalized="จังหวัดเอะฮิเมะ" languages="Thai">จังหวัดเอะฮิเมะ</name>
+		<name normalized="ეჰიმეს პრეფექტურა" languages="Georgian">ეჰიმეს პრეფექტურა</name>
+		<name normalized="ខេត្តអិហ៊ីមិ" languages="Khmer">ខេត្តអិហ៊ីមិ</name>
+		<name normalized="愛媛県" languages="Japanese">愛媛県</name>
+		<name normalized="愛媛縣" languages="Cantonese;Classical Chinese">愛媛縣</name>
+		<name normalized="爱媛县" languages="Chinese;Wu">爱媛县</name>
+		<name normalized="에히메 현" languages="Korean">에히메 현</name>
+	</region>
+	<region name="Fukui" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Fukui" languages="Azerbaijani;Basque;Croatian;Czech;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Serbo-Croatian;Simple English;Slovak;Spanish;Sundanese;Swahili;Swedish;Tagalog;Vietnamese;Waray;Welsh">Fukui</name>
+		<name normalized="Fukui Prefectur" languages="Scots">Fukui Prefectur</name>
+		<name normalized="Fukui Prefecture" languages="English;official;Pampanga;Simple English">Fukui Prefecture</name>
+		<name normalized="Fukui prefektur" languages="Swedish">Fukui prefektur</name>
+		<name normalized="Fukui prefektuur" languages="Estonian">Fukui prefektuur</name>
+		<name normalized="Fukui prefektura" languages="Hungarian">Fukui prefektúra</name>
+		<name normalized="Fukuin prefektuuri" languages="Finnish">Fukuin prefektuuri</name>
+		<name normalized="Fukujaus prefektura" languages="Lithuanian">Fukujaus prefektūra</name>
+		<name normalized="Fukuji prefektura" languages="Latvian">Fukuji prefektūra</name>
+		<name normalized="Fukujus" languages="Lithuanian">Fukujus</name>
+		<name normalized="Gubernio Fukui" languages="Esperanto">Gubernio Fukui</name>
+		<name normalized="Hukui-chhi" languages="Chinese (Min Nan)">Hukui-chhī</name>
+		<name normalized="Hukui-koan" languages="Chinese (Min Nan)">Hukui-koān</name>
+		<name normalized="Mkoa wa Fukui" languages="Swahili">Mkoa wa Fukui</name>
+		<name normalized="Prefectura de Fukui" languages="Catalan;Galician;Spanish">Prefectura de Fukui</name>
+		<name normalized="Prefectura Fukui" languages="Romanian">Prefectura Fukui</name>
+		<name normalized="Prefektur Fukui" languages="Achinese;Indonesian;Javanese">Prefektur Fukui</name>
+		<name normalized="Prefektura Fukui" languages="Czech;Polish;Serbo-Croatian">Prefektura Fukui</name>
+		<name normalized="Prefettura di Fukui" languages="Italian">Prefettura di Fukui</name>
+		<name normalized="Prepektura ng Fukui" languages="Tagalog">Prepektura ng Fukui</name>
+		<name normalized="Prepektura ti Fukui" languages="Iloko">Prepektura ti Fukui</name>
+		<name normalized="Prafektur Fukui" languages="German">Präfektur Fukui</name>
+		<name normalized="Prefecture de Fukui" languages="French">Préfecture de Fukui</name>
+		<name normalized="Prefektur Fukui" languages="Sundanese">Préféktur Fukui</name>
+		<name normalized="Wilayah Fukui" languages="Malay">Wilayah Fukui</name>
+		<name normalized="Pрiфiktuрa Фukuй" languages="Ukrainian">Префектура Фукуй</name>
+		<name normalized="Pрiфiktuрa Фukuj" languages="Serbian">Префектура Фукуј</name>
+		<name normalized="Pрiфiktuрai Фukui" languages="Tajik">Префектураи Фукуи</name>
+		<name normalized="Фukui" languages="Bulgarian;Macedonian;Russian;Tajik">Фукуи</name>
+		<name normalized="Фukuй" languages="Ukrainian">Фукуй</name>
+		<name normalized="Фukuj" languages="Serbian">Фукуј</name>
+		<name normalized="אسtאن fوکوئی" languages="Persian">استان فوکوئی</name>
+		<name normalized="dلع fوکوئی" languages="Western Punjabi">ضلع فوکوئی</name>
+		<name normalized="fوkوy" languages="Arabic">فوكوي</name>
+		<name normalized="fوkوy, fوkوy" languages="Arabic">فوكوي، فوكوي</name>
+		<name normalized="fوکوئی" languages="Mazanderani;Persian;Sorani Kurdish;Urdu">فوکوئی</name>
+		<name normalized="fوکوئی prیfیکچr" languages="Urdu">فوکوئی پریفیکچر</name>
+		<name normalized="pukui" languages="Marathi">फुकुई</name>
+		<name normalized="จังหวัดฟุกุอิ" languages="Thai">จังหวัดฟุกุอิ</name>
+		<name normalized="ฟุกุอิ" languages="Thai">ฟุกุอิ</name>
+		<name normalized="福井市" languages="Chinese;Japanese">福井市</name>
+		<name normalized="福井県" languages="Japanese">福井県</name>
+		<name normalized="福井縣" languages="Cantonese;Chinese">福井縣</name>
+		<name normalized="후쿠이 시" languages="Korean">후쿠이 시</name>
+		<name normalized="후쿠이 현" languages="Korean">후쿠이 현</name>
+	</region>
+	<region name="Fukuoka" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Fucuoca" languages="Latin">Fucuoca</name>
+		<name normalized="Fuk-kong-yen" languages="Hakka">Fuk-kông-yen</name>
+		<name normalized="Fukuoka" languages="Afrikaans;Azerbaijani;Basque;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Faroese;Finnish;French;Galician;German;Hungarian;Indonesian;Italian;Kalaallisut;Latvian;Lithuanian;Luxembourgish;Malay;Maori;Norwegian (bokmal);official;Polish;Portuguese;Quechua;Romanian;Scots;Serbo-Croatian;Simple English;Slovak;Spanish;Sundanese;Swahili;Swedish;Turkish;Vietnamese;Waray;Welsh">Fukuoka</name>
+		<name normalized="Fukuoka Prefectur" languages="Scots">Fukuoka Prefectur</name>
+		<name normalized="Fukuoka Prefecture" languages="English;Novial;official;Pampanga;Simple English">Fukuoka Prefecture</name>
+		<name normalized="Fukuoka prefektur" languages="Swedish">Fukuoka prefektur</name>
+		<name normalized="Fukuoka prefektuur" languages="Estonian">Fukuoka prefektuur</name>
+		<name normalized="Fukuoka prefektura" languages="Hungarian">Fukuoka prefektúra</name>
+		<name normalized="Fukuokan prefektuuri" languages="Finnish">Fukuokan prefektuuri</name>
+		<name normalized="Fukuokas prefektura" languages="Latvian">Fukuokas prefektūra</name>
+		<name normalized="Fukuokos prefektura" languages="Lithuanian">Fukuokos prefektūra</name>
+		<name normalized="Gubernio Fukuoka" languages="Esperanto">Gubernio Fukuoka</name>
+		<name normalized="Hukuoka-chhi" languages="Chinese (Min Nan)">Hukuoka-chhī</name>
+		<name normalized="Hukuoka-koan" languages="Chinese (Min Nan)">Hukuoka-koān</name>
+		<name normalized="Lungsod ng Fukuoka" languages="Tagalog">Lungsod ng Fukuoka</name>
+		<name normalized="Mkoa wa Fukuoka" languages="Swahili">Mkoa wa Fukuoka</name>
+		<name normalized="Prefectura de Fukuoka" languages="Catalan;Galician;Spanish">Prefectura de Fukuoka</name>
+		<name normalized="Prefectura Fukuoka" languages="Romanian">Prefectura Fukuoka</name>
+		<name normalized="Prefektur Fukuoka" languages="Achinese;Indonesian;Javanese;Luxembourgish">Prefektur Fukuoka</name>
+		<name normalized="Prefektura Fukuoka" languages="Czech;Polish;Serbo-Croatian;Slovenian">Prefektura Fukuoka</name>
+		<name normalized="Prefettura di Fukuoka" languages="Italian">Prefettura di Fukuoka</name>
+		<name normalized="Prepektura ng Fukuoka" languages="Tagalog">Prepektura ng Fukuoka</name>
+		<name normalized="Prepektura ti Fukuoka" languages="Iloko">Prepektura ti Fukuoka</name>
+		<name normalized="Prafektur Fukuoka" languages="German">Präfektur Fukuoka</name>
+		<name normalized="Prefecture de Fukuoka" languages="French">Préfecture de Fukuoka</name>
+		<name normalized="Prefektur Fukuoka" languages="Sundanese">Préféktur Fukuoka</name>
+		<name normalized="Wilayah Fukuoka" languages="Malay">Wilayah Fukuoka</name>
+		<name normalized="Φουκουοκα" languages="Greek">Φουκουόκα</name>
+		<name normalized="Goрad Фukuoka" languages="Belarusian">Горад Фукуока</name>
+		<name normalized="Pрiфiktuрa Фukuoka" languages="Serbian;Ukrainian">Префектура Фукуока</name>
+		<name normalized="Pрiфiktuрai Фukuoka" languages="Tajik">Префектураи Фукуока</name>
+		<name normalized="Фukuoka" languages="Bulgarian;Chechen;Macedonian;Russian;Serbian;Tajik;Ukrainian">Фукуока</name>
+		<name normalized="Фүkүoka" languages="Mongolian">Фүкүока</name>
+		<name normalized="Fvykvyvkա" languages="Armenian">Ֆուկուոկա</name>
+		<name normalized="pvqvאvqh" languages="Hebrew">פוקואוקה</name>
+		<name normalized="אسtאن fوکوئوکא" languages="Persian">استان فوکوئوکا</name>
+		<name normalized="dلع fوکوکא" languages="Western Punjabi">ضلع فوکوکا</name>
+		<name normalized="fوkوkא" languages="Arabic">فوكوكا</name>
+		<name normalized="fوkوkא, fوkوkא" languages="Arabic">فوكوكا، فوكوكا</name>
+		<name normalized="fوکوئوکא" languages="Mazanderani;Persian">فوکوئوکا</name>
+		<name normalized="fوکوئۆکא" languages="Sorani Kurdish">فوکوئۆکا</name>
+		<name normalized="fوکوکא" languages="Urdu">فوکوکا</name>
+		<name normalized="fوکوکא prیfیکچr" languages="Urdu">فوکوکا پریفیکچر</name>
+		<name normalized="fکوکא" languages="Western Punjabi">فکوکا</name>
+		<name normalized="pukuokा" languages="Marathi">फुकुओका</name>
+		<name normalized="ഫുക്കുഓക്ക" languages="Malayalam">ഫുക്കുഓക്ക</name>
+		<name normalized="จังหวัดฟุกุโอะกะ" languages="Thai">จังหวัดฟุกุโอะกะ</name>
+		<name normalized="ฟุกุโอะกะ" languages="Thai">ฟุกุโอะกะ</name>
+		<name normalized="ფუკუოკა" languages="Georgian">ფუკუოკა</name>
+		<name normalized="福冈县" languages="Chinese">福冈县</name>
+		<name normalized="福岡市" languages="Cantonese;Chinese;Classical Chinese;Japanese">福岡市</name>
+		<name normalized="福岡県" languages="Japanese">福岡県</name>
+		<name normalized="福岡縣" languages="Cantonese">福岡縣</name>
+		<name normalized="후쿠오카 시" languages="Korean">후쿠오카 시</name>
+		<name normalized="후쿠오카 현" languages="Korean">후쿠오카 현</name>
+	</region>
+	<region name="Fukushima" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Fukushima" languages="Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray;Welsh">Fukushima</name>
+		<name normalized="Fukushima Prefectur" languages="Scots">Fukushima Prefectur</name>
+		<name normalized="Fukushima Prefecture" languages="English;Novial;official;Pampanga;Simple English">Fukushima Prefecture</name>
+		<name normalized="Fukushima prefektuur" languages="Estonian">Fukushima prefektuur</name>
+		<name normalized="Fukushima-praefekturet" languages="Danish">Fukushima-præfekturet</name>
+		<name normalized="Fukushiman prefektuuri" languages="Finnish">Fukushiman prefektuuri</name>
+		<name normalized="Fukusima" languages="Azerbaijani">Fukusima</name>
+		<name normalized="Fukusima prefektura" languages="Hungarian">Fukusima prefektúra</name>
+		<name normalized="Fukusima" languages="Latvian;Slovak">Fukušima</name>
+		<name normalized="Fukusimos prefektura" languages="Lithuanian">Fukušimos prefektūra</name>
+		<name normalized="Gubernio Fukusima" languages="Esperanto">Gubernio Fukuŝima</name>
+		<name normalized="Hukusima-koan" languages="Chinese (Min Nan)">Hukusima-koān</name>
+		<name normalized="Mkoa wa Fukushima" languages="Swahili">Mkoa wa Fukushima</name>
+		<name normalized="Prefectura de Fukushima" languages="Catalan;Galician;Spanish">Prefectura de Fukushima</name>
+		<name normalized="Prefectura Fukushima" languages="Romanian">Prefectura Fukushima</name>
+		<name normalized="Prefektur Fukushima" languages="Achinese;Indonesian;Javanese">Prefektur Fukushima</name>
+		<name normalized="Prefektura Fukushima" languages="Polish;Serbo-Croatian">Prefektura Fukushima</name>
+		<name normalized="Prefektura Fukusima" languages="Czech">Prefektura Fukušima</name>
+		<name normalized="Prefettura di Fukushima" languages="Italian">Prefettura di Fukushima</name>
+		<name normalized="Prepektura ng Fukushima" languages="Tagalog">Prepektura ng Fukushima</name>
+		<name normalized="Prepektura ti Fukushima" languages="Iloko">Prepektura ti Fukushima</name>
+		<name normalized="Prafektur Fukushima" languages="German">Präfektur Fukushima</name>
+		<name normalized="Prefecture de Fukushima" languages="French">Préfecture de Fukushima</name>
+		<name normalized="Prefektur Fukushima" languages="Sundanese">Préféktur Fukushima</name>
+		<name normalized="Wilayah Fukushima" languages="Malay">Wilayah Fukushima</name>
+		<name normalized="Pрiфiktuрa Фukuсiмa" languages="Ukrainian">Префектура Фукусіма</name>
+		<name normalized="Pрiфiktuрa Фukusiмa" languages="Serbian">Префектура Фукушима</name>
+		<name normalized="Pрiфiktuрai Фukusiмa" languages="Tajik">Префектураи Фукушима</name>
+		<name normalized="Фukuсiмa" languages="Bashkir;Russian">Фукусима</name>
+		<name normalized="Фukusiмa" languages="Bulgarian;Macedonian">Фукушима</name>
+		<name normalized="Фүkүsiмa" languages="Mongolian">Фүкүшима</name>
+		<name normalized="Fvykvysիmա" languages="Armenian">Ֆուկուսիմա</name>
+		<name normalized="pvqvשימh" languages="Hebrew">פוקושימה</name>
+		<name normalized="אسtאن fوکوشیmא" languages="Persian">استان فوکوشیما</name>
+		<name normalized="dلع fوکوشیmא" languages="Western Punjabi">ضلع فوکوشیما</name>
+		<name normalized="fوkوشymא" languages="Arabic">فوكوشيما</name>
+		<name normalized="fوکوشیmא" languages="Sorani Kurdish">فوکوشیما</name>
+		<name normalized="fوکوشیmא prیfیکچr" languages="Urdu">فوکوشیما پریفیکچر</name>
+		<name normalized="fۇkۇشىmא نאھىyىسى" languages="Uyghur">فۇكۇشىما ناھىيىسى</name>
+		<name normalized="p़ukusimा p्rip़ek्cr" languages="Hindi">फ़ूकूशिमा प्रीफ़ेक्चर</name>
+		<name normalized="pukusimा" languages="Marathi">फुकुशिमा</name>
+		<name normalized="จังหวัดฟุกุชิมะ" languages="Thai">จังหวัดฟุกุชิมะ</name>
+		<name normalized="福岛县" languages="Chinese;Gan;Wu">福岛县</name>
+		<name normalized="福島県" languages="Japanese">福島県</name>
+		<name normalized="福島縣" languages="Cantonese;Classical Chinese">福島縣</name>
+		<name normalized="후쿠시마 현" languages="Korean">후쿠시마 현</name>
+	</region>
+	<region name="Gifu" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gifu" languages="Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Slovak;Vietnamese;Waray;Welsh">Gifu</name>
+		<name normalized="Gifu Prefectur" languages="Scots">Gifu Prefectur</name>
+		<name normalized="Gifu Prefecture" languages="English;Novial;official;Pampanga;Simple English">Gifu Prefecture</name>
+		<name normalized="Gifu prefektur" languages="Swedish">Gifu prefektur</name>
+		<name normalized="Gifu prefekturası" languages="Azerbaijani">Gifu prefekturası</name>
+		<name normalized="Gifu prefektuur" languages="Estonian">Gifu prefektuur</name>
+		<name normalized="Gifu prefektura" languages="Hungarian">Gifu prefektúra</name>
+		<name normalized="Gifu prefektura" languages="Latvian;Lithuanian">Gifu prefektūra</name>
+		<name normalized="Gifun prefektuuri" languages="Finnish">Gifun prefektuuri</name>
+		<name normalized="Gihu-koan" languages="Chinese (Min Nan)">Gihu-koān</name>
+		<name normalized="Gubernio Gifu" languages="Esperanto">Gubernio Gifu</name>
+		<name normalized="Mkoa wa Gifu" languages="Swahili">Mkoa wa Gifu</name>
+		<name normalized="Prefectura de Gifu" languages="Catalan;Galician;Spanish">Prefectura de Gifu</name>
+		<name normalized="Prefectura Gifu" languages="Romanian">Prefectura Gifu</name>
+		<name normalized="Prefektur Gifu" languages="Achinese;Indonesian;Javanese">Prefektur Gifu</name>
+		<name normalized="Prefektura Gifu" languages="Czech;Polish;Serbo-Croatian">Prefektura Gifu</name>
+		<name normalized="Prefettura di Gifu" languages="Italian">Prefettura di Gifu</name>
+		<name normalized="Prepektura ng Gifu" languages="Tagalog">Prepektura ng Gifu</name>
+		<name normalized="Prepektura ti Gifu" languages="Iloko">Prepektura ti Gifu</name>
+		<name normalized="Prafektur Gifu" languages="German">Präfektur Gifu</name>
+		<name normalized="Prefecture de Gifu" languages="French">Préfecture de Gifu</name>
+		<name normalized="Prefektur Gifu" languages="Sundanese">Préféktur Gifu</name>
+		<name normalized="Wilayah Gifu" languages="Malay">Wilayah Gifu</name>
+		<name normalized="Giфu" languages="Bulgarian;Macedonian;Russian">Гифу</name>
+		<name normalized="Pрiфiktuрa Giфu" languages="Serbian">Префектура Гифу</name>
+		<name normalized="Pрiфiktuрa Ґiфu" languages="Ukrainian">Префектура Ґіфу</name>
+		<name normalized="Pрiфiktuрai Giфu" languages="Tajik">Префектураи Гифу</name>
+		<name normalized="Pрeфiktuрa Giфu" languages="Belarusian">Прэфектура Гіфу</name>
+		<name normalized="גיpv" languages="Hebrew">גיפו</name>
+		<name normalized="אسtאن gیfو" languages="Persian">استان گیفو</name>
+		<name normalized="dلع gیfو" languages="Western Punjabi">ضلع گیفو</name>
+		<name normalized="غyfو" languages="Arabic">غيفو</name>
+		<name normalized="gیfو" languages="Sorani Kurdish">گیفو</name>
+		<name normalized="gیfو prیfیکچr" languages="Urdu">گیفو پریفیکچر</name>
+		<name normalized="gipu" languages="Marathi">गिफू</name>
+		<name normalized="จังหวัดกิฟุ" languages="Thai">จังหวัดกิฟุ</name>
+		<name normalized="岐阜县" languages="Chinese">岐阜县</name>
+		<name normalized="岐阜県" languages="Japanese">岐阜県</name>
+		<name normalized="岐阜縣" languages="Cantonese">岐阜縣</name>
+		<name normalized="기후 현" languages="Korean">기후 현</name>
+	</region>
+	<region name="Gunma" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Gunma" languages="Esperanto">Gubernio Gunma</name>
+		<name normalized="Gumma prefektuur" languages="Estonian">Gumma prefektuur</name>
+		<name normalized="Gummas prefektura" languages="Latvian">Gummas prefektūra</name>
+		<name normalized="Gunma" languages="Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Slovak;Vietnamese;Waray;Welsh">Gunma</name>
+		<name normalized="Gunma Prefectur" languages="Scots">Gunma Prefectur</name>
+		<name normalized="Gunma Prefecture" languages="English;Novial;official;Pampanga;Simple English">Gunma Prefecture</name>
+		<name normalized="Gunma prefektur" languages="Swedish">Gunma prefektur</name>
+		<name normalized="Gunma prefektura" languages="Hungarian">Gunma prefektúra</name>
+		<name normalized="Gunma prefektura" languages="Samogitian">Gunma prefektūra</name>
+		<name normalized="Gunma-koan" languages="Chinese (Min Nan)">Gunma-koān</name>
+		<name normalized="Gunman prefektuuri" languages="Finnish">Gunman prefektuuri</name>
+		<name normalized="Gunmos prefektura" languages="Lithuanian">Gunmos prefektūra</name>
+		<name normalized="Mkoa wa Gunma" languages="Swahili">Mkoa wa Gunma</name>
+		<name normalized="Prefectura de Gunma" languages="Catalan;Galician;Spanish">Prefectura de Gunma</name>
+		<name normalized="Prefectura Gunma" languages="Romanian">Prefectura Gunma</name>
+		<name normalized="Prefektur Gunma" languages="Achinese;Indonesian;Javanese">Prefektur Gunma</name>
+		<name normalized="Prefektura Gunma" languages="Czech;Polish;Serbo-Croatian">Prefektura Gunma</name>
+		<name normalized="Prefettura di Gunma" languages="Italian">Prefettura di Gunma</name>
+		<name normalized="Prepektura ng Gunma" languages="Tagalog">Prepektura ng Gunma</name>
+		<name normalized="Prepektura ti Gunma" languages="Iloko">Prepektura ti Gunma</name>
+		<name normalized="Prafektur Gunma" languages="German">Präfektur Gunma</name>
+		<name normalized="Prefecture de Gunma" languages="French">Préfecture de Gunma</name>
+		<name normalized="Prefektur Gunma" languages="Sundanese">Préféktur Gunma</name>
+		<name normalized="Qumma" languages="Azerbaijani">Qumma</name>
+		<name normalized="Wilayah Gunma" languages="Malay">Wilayah Gunma</name>
+		<name normalized="Guммa" languages="Russian">Гумма</name>
+		<name normalized="Guнмa" languages="Bulgarian;Macedonian">Гунма</name>
+		<name normalized="Pрiфiktuрa Guнмa" languages="Serbian">Префектура Гунма</name>
+		<name normalized="Pрiфiktuрa Ґuммa" languages="Ukrainian">Префектура Ґумма</name>
+		<name normalized="Pрiфiktuрai Guммa" languages="Tajik">Префектураи Гумма</name>
+		<name normalized="Pрeфiktuрa Guмa" languages="Belarusian">Прэфектура Гума</name>
+		<name normalized="אسtאن gونmא" languages="Persian">استان گونما</name>
+		<name normalized="dلع gنmא" languages="Western Punjabi">ضلع گنما</name>
+		<name normalized="غونmא" languages="Arabic">غونما</name>
+		<name normalized="gونmא" languages="Sorani Kurdish">گونما</name>
+		<name normalized="gونmא prیfیکچr" languages="Urdu">گونما پریفیکچر</name>
+		<name normalized="gun्mा" languages="Marathi">गुन्मा</name>
+		<name normalized="จังหวัดกุมมะ" languages="Thai">จังหวัดกุมมะ</name>
+		<name normalized="群馬県" languages="Japanese">群馬県</name>
+		<name normalized="群馬縣" languages="Cantonese;Chinese">群馬縣</name>
+		<name normalized="群马县" languages="Wu">群马县</name>
+		<name normalized="군마 현" languages="Korean">군마 현</name>
+	</region>
+	<region name="Hiroshima" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Hirosima" languages="Esperanto">Gubernio Hiroŝima</name>
+		<name normalized="Hiroshima" languages="Alemannisch;Aragonese;Asturian;Basque;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Extremaduran;Faroese;Finnish;French;German;Icelandic;Indonesian;Irish;Italian;Javanese;Kinyarwanda;Luxembourgish;Malay;Maltese;Maori;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Piedmontese;Portuguese;Quechua;Scots;Serbo-Croatian;Sicilian;Simple English;Spanish;Sundanese;Swahili;Swedish;Vietnamese;Waray;Welsh;Western Frisian;Yoruba">Hiroshima</name>
+		<name normalized="Hiroshima Prefectur" languages="Scots">Hiroshima Prefectur</name>
+		<name normalized="Hiroshima Prefecture" languages="English;official;Pampanga;Simple English">Hiroshima Prefecture</name>
+		<name normalized="Hiroshima prefektur" languages="Swedish">Hiroshima prefektur</name>
+		<name normalized="Hiroshima prefektuur" languages="Estonian">Hiroshima prefektuur</name>
+		<name normalized="Hiroshiman prefektuuri" languages="Finnish">Hiroshiman prefektuuri</name>
+		<name normalized="Hirosima" languages="Hungarian;Latin;Latvian;Lithuanian">Hirosima</name>
+		<name normalized="Hirosima-chhi" languages="Chinese (Min Nan)">Hirosima-chhī</name>
+		<name normalized="Hirosima-koan" languages="Chinese (Min Nan)">Hirosima-koān</name>
+		<name normalized="Hirosimas prefektura" languages="Latvian">Hirosimas prefektūra</name>
+		<name normalized="Hirosimos prefektura" languages="Lithuanian">Hirosimos prefektūra</name>
+		<name normalized="Hirosjima" languages="Afrikaans">Hirosjima</name>
+		<name normalized="Hiroszima" languages="Polish;Silesian">Hiroszima</name>
+		<name normalized="Hiroxima" languages="Galician">Hiroxima</name>
+		<name normalized="Hirosimo" languages="Esperanto">Hiroŝimo</name>
+		<name normalized="Hirosima" languages="Azerbaijani;Turkish">Hiroşima</name>
+		<name normalized="Hirosima" languages="Bosnian;Croatian;Czech;Slovak;Slovenian">Hirošima</name>
+		<name normalized="Hirosima" languages="Romanian">Hiroșima</name>
+		<name normalized="Kong-to-yen" languages="Hakka">Kóng-tó-yen</name>
+		<name normalized="Lungsod ng Hiroshima" languages="Tagalog">Lungsod ng Hiroshima</name>
+		<name normalized="Mkoa wa Hiroshima" languages="Swahili">Mkoa wa Hiroshima</name>
+		<name normalized="Prefectura d'Hiroshima" languages="Catalan">Prefectura d'Hiroshima</name>
+		<name normalized="Prefectura de Hiroshima" languages="Galician;Spanish">Prefectura de Hiroshima</name>
+		<name normalized="Prefectura Hiroshima" languages="Romanian">Prefectura Hiroshima</name>
+		<name normalized="Prefektur Hiroshima" languages="Achinese;Indonesian">Prefektur Hiroshima</name>
+		<name normalized="Prefektura Hiroshima" languages="Serbo-Croatian">Prefektura Hiroshima</name>
+		<name normalized="Prefektura Hiroszima" languages="Polish">Prefektura Hiroszima</name>
+		<name normalized="Prefektura Hirosima" languages="Czech">Prefektura Hirošima</name>
+		<name normalized="Prefettura di Hiroshima" languages="Italian">Prefettura di Hiroshima</name>
+		<name normalized="Prepektura ng Hiroshima" languages="Tagalog">Prepektura ng Hiroshima</name>
+		<name normalized="Prepektura ti Hiroshima" languages="Iloko">Prepektura ti Hiroshima</name>
+		<name normalized="Provincia de Hiroshima" languages="Portuguese">Província de Hiroshima</name>
+		<name normalized="Prafektur Hiroshima" languages="German">Präfektur Hiroshima</name>
+		<name normalized="Prefecture de Hiroshima" languages="French">Préfecture de Hiroshima</name>
+		<name normalized="Prefektur Hiroshima" languages="Sundanese">Préféktur Hiroshima</name>
+		<name normalized="Wilayah Hiroshima" languages="Malay">Wilayah Hiroshima</name>
+		<name normalized="Xirosima" languages="Tatar;Uzbek">Xirosima</name>
+		<name normalized="Χιροσιμα" languages="Greek">Χιροσίμα</name>
+		<name normalized="Goрad Kiрaсiмa" languages="Belarusian">Горад Хірасіма</name>
+		<name normalized="Pрiфiktuрa Kiрosiмa" languages="Serbian">Префектура Хирошима</name>
+		<name normalized="Pрiфiktuрa Kiрoсiмa" languages="Ukrainian">Префектура Хіросіма</name>
+		<name normalized="Pрiфiktuрai Hiрosiмa" languages="Tajik">Префектураи Ҳирошима</name>
+		<name normalized="Kiрoсiмa" languages="Chechen;Russian;Sakha">Хиросима</name>
+		<name normalized="Kiрosiмa" languages="Bulgarian;Macedonian;Mongolian;Serbian">Хирошима</name>
+		<name normalized="Kiрoсiмa" languages="Ukrainian">Хіросіма</name>
+		<name normalized="Hiрosiмa" languages="Tajik">Ҳирошима</name>
+		<name normalized="hיrvשימh" languages="Hebrew">הירושימה</name>
+		<name normalized="אسtאن hیrوشیmא" languages="Persian">استان هیروشیما</name>
+		<name normalized="dلع ہیrوشیmא" languages="Western Punjabi">ضلع ہیروشیما</name>
+		<name normalized="hyrوشymא" languages="Arabic">هيروشيما</name>
+		<name normalized="hیrوشیmא" languages="Mazanderani;Persian">هیروشیما</name>
+		<name normalized="ھیrۆشیmא" languages="Sorani Kurdish">ھیرۆشیما</name>
+		<name normalized="ہیrوشیmא" languages="Urdu;Western Punjabi">ہیروشیما</name>
+		<name normalized="ہیrوشیmא prیfیکچr" languages="Urdu">ہیروشیما پریفیکچر</name>
+		<name normalized="hirosimा" languages="Hindi;Marathi">हिरोशिमा</name>
+		<name normalized="hirosimা" languages="Bengali">হিরোশিমা</name>
+		<name normalized="hirੋs਼imਾ" languages="Punjabi">ਹੀਰੋਸ਼ੀਮਾ</name>
+		<name normalized="ஹிரோஷிமா" languages="Tamil">ஹிரோஷிமா</name>
+		<name normalized="ಹಿರೋಶಿಮ" languages="Kannada">ಹಿರೋಶಿಮ</name>
+		<name normalized="ഹിരോഷിമ" languages="Malayalam">ഹിരോഷിമ</name>
+		<name normalized="จังหวัดฮิโระชิมะ" languages="Thai">จังหวัดฮิโระชิมะ</name>
+		<name normalized="ฮิโระชิมะ" languages="Thai">ฮิโระชิมะ</name>
+		<name normalized="ဟီရိုရှီးမားမြို့" languages="Burmese">ဟီရိုရှီးမားမြို့</name>
+		<name normalized="ჰიროსიმა" languages="Georgian">ჰიროსიმა</name>
+		<name normalized="ჰიროსიმაშ პრეფექტურა" languages="Mingrelian">ჰიროსიმაშ პრეფექტურა</name>
+		<name normalized="ჰიროსიმის პრეფექტურა" languages="Georgian">ჰიროსიმის პრეფექტურა</name>
+		<name normalized="ខេត្តហ៊ីរ៉ូស៊ីម៉ា" languages="Khmer">ខេត្តហ៊ីរ៉ូស៊ីម៉ា</name>
+		<name normalized="広島市" languages="Japanese">広島市</name>
+		<name normalized="広島県" languages="Japanese">広島県</name>
+		<name normalized="廣島市" languages="Cantonese;Chinese">廣島市</name>
+		<name normalized="廣島縣" languages="Cantonese;Chinese">廣島縣</name>
+		<name normalized="히로시마 시" languages="Korean">히로시마 시</name>
+		<name normalized="히로시마 현" languages="Korean">히로시마 현</name>
+	</region>
+	<region name="Hokkaido" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Hoccaido" languages="Latin">Hoccaido</name>
+		<name normalized="Hokaidas" languages="Lithuanian">Hokaidas</name>
+		<name normalized="Hokaido" languages="Albanian;Bosnian;Latvian;Slovenian">Hokaido</name>
+		<name normalized="Hokaids" languages="Samogitian">Hokaids</name>
+		<name normalized="Hokajdo" languages="Esperanto">Hokajdo</name>
+		<name normalized="Hokkaido" languages="Achinese;Afrikaans;Basque;Bavarian;Breton;Catalan;Croatian;Danish;Dutch;English;Galician;Iloko;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Polish;Portuguese;Quechua;Scots;Silesian;Slovak;Sundanese;Swedish;Tok Pisin;Waray">Hokkaido</name>
+		<name normalized="Hokkaido Prefecture" languages="English;official">Hokkaido Prefecture</name>
+		<name normalized="Hokkaido" languages="Czech;Hungarian">Hokkaidó</name>
+		<name normalized="Hokkaido" languages="Estonian;Finnish;French;German;Icelandic;Italian;Malay;Occitan;Pampanga;Romansh;Seeltersk;Serbo-Croatian;Simple English;Spanish;Tagalog;Turkish;Vietnamese;Welsh">Hokkaidō</name>
+		<name normalized="Hokkaydo" languages="Azerbaijani">Hokkaydo</name>
+		<name normalized="Mkoa wa Hokkaido" languages="Swahili">Mkoa wa Hokkaidō</name>
+		<name normalized="Pak-hai-to" languages="Chinese (Min Nan)">Pak-hái-tō</name>
+		<name normalized="Χοκκαιντο" languages="Greek">Χοκκάιντο</name>
+		<name normalized="Voсtрaў Kakaйda" languages="Belarusian">Востраў Хакайда</name>
+		<name normalized="Kakaйda" languages="biлaрuсkai (taрaskivita)‎">Хакайда</name>
+		<name normalized="Kokaido" languages="Macedonian;Serbian">Хокаидо</name>
+		<name normalized="Kokaйdo" languages="Bulgarian">Хокайдо</name>
+		<name normalized="Kokkaйdo" languages="Kazakh;Mongolian;Russian;Tatar;Ukrainian">Хоккайдо</name>
+		<name normalized="hאqיידא" languages="Yiddish">האקיידא</name>
+		<name normalized="hvqאידv" languages="Hebrew">הוקאידו</name>
+		<name normalized="خوkkאyدو ئאrىلى" languages="Uyghur">خوككايدو ئارىلى</name>
+		<name normalized="hوkאyدو" languages="Arabic">هوكايدو</name>
+		<name normalized="hوکאیدو" languages="Persian">هوکایدو</name>
+		<name normalized="hوکאیدو jزیrh" languages="Mazanderani">هوکایدو جزیره</name>
+		<name normalized="ھۆکאیدۆ" languages="Sorani Kurdish">ھۆکایدۆ</name>
+		<name normalized="ہوکאئیدو" languages="Urdu">ہوکائیدو</name>
+		<name normalized="ہوکیڈو" languages="Western Punjabi">ہوکیڈو</name>
+		<name normalized="hok्kाido" languages="Hindi;Marathi">होक्काइदो</name>
+		<name normalized="ஹொக்கைடோ" languages="Tamil">ஹொக்கைடோ</name>
+		<name normalized="จังหวัดฮกไกโด" languages="Thai">จังหวัดฮกไกโด</name>
+		<name normalized="ཧོ་ཁའི་དོ།" languages="Tibetan">ཧོ་ཁའི་དོ།</name>
+		<name normalized="ဟော့ကိုင်းဒိုးကျွန်း" languages="Burmese">ဟော့ကိုင်းဒိုးကျွန်း</name>
+		<name normalized="ჰოკაიდო" languages="Georgian;Mingrelian">ჰოკაიდო</name>
+		<name normalized="តំបន់ហុកកៃដូ" languages="Khmer">តំបន់ហុកកៃដូ</name>
+		<name normalized="北海道" languages="Cantonese;Chinese;Classical Chinese;Japanese">北海道</name>
+		<name normalized="홋카이도" languages="Korean">홋카이도</name>
+	</region>
+	<region name="Hyogo" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Hjogo" languages="Esperanto">Gubernio Hjogo</name>
+		<name normalized="Hiogo prefektura" languages="Lithuanian">Hiogo prefektūra</name>
+		<name normalized="Hjogo prefektura" languages="Latvian">Hjogo prefektūra</name>
+		<name normalized="Hjogo" languages="Slovak">Hjógo</name>
+		<name normalized="Hjogo prefektura" languages="Hungarian">Hjógo prefektúra</name>
+		<name normalized="Hyogo" languages="Dutch;English;official">Hyogo</name>
+		<name normalized="Hyogo Prefecture" languages="English;official">Hyogo Prefecture</name>
+		<name normalized="Hyogo prefektur" languages="Swedish">Hyogo prefektur</name>
+		<name normalized="Hyogo-herad" languages="Icelandic">Hyogo-hérað</name>
+		<name normalized="Hyogo-koan" languages="Chinese (Min Nan)">Hyôgo-koān</name>
+		<name normalized="Hyogo" languages="Basque;Croatian;Norwegian (bokmal);Portuguese;Vietnamese;Waray;Welsh">Hyōgo</name>
+		<name normalized="Hyogo ili" languages="Turkish">Hyōgo ili</name>
+		<name normalized="Hyogo Prefectur" languages="Scots">Hyōgo Prefectur</name>
+		<name normalized="Hyogo Prefecture" languages="English;Novial;Pampanga;Simple English">Hyōgo Prefecture</name>
+		<name normalized="Hyogo prefektuur" languages="Estonian">Hyōgo prefektuur</name>
+		<name normalized="Hyogon prefektuuri" languages="Finnish">Hyōgon prefektuuri</name>
+		<name normalized="Mkoa wa Hyogo" languages="Swahili">Mkoa wa Hyogo</name>
+		<name normalized="Prefectura de Hyogo" languages="Catalan;Galician;Spanish">Prefectura de Hyōgo</name>
+		<name normalized="Prefectura Hyogo" languages="Romanian">Prefectura Hyōgo</name>
+		<name normalized="Prefektur Hyogo" languages="Achinese;Indonesian;Javanese">Prefektur Hyogo</name>
+		<name normalized="Prefektura Hjogo" languages="Czech">Prefektura Hjógo</name>
+		<name normalized="Prefektura Hjogo" languages="Serbo-Croatian">Prefektura Hjōgo</name>
+		<name normalized="Prefektura Hyogo" languages="Polish">Prefektura Hyōgo</name>
+		<name normalized="Prefettura di Hyogo" languages="Italian">Prefettura di Hyōgo</name>
+		<name normalized="Prepektura ng Hyogo" languages="Tagalog">Prepektura ng Hyōgo</name>
+		<name normalized="Prepektura ti Hyogo" languages="Iloko">Prepektura ti Hyōgo</name>
+		<name normalized="Prafektur Hyogo" languages="German">Präfektur Hyōgo</name>
+		<name normalized="Prefecture de Hyogo" languages="French">Préfecture de Hyōgo</name>
+		<name normalized="Prefektur Hyogo" languages="Sundanese">Préféktur Hyogo</name>
+		<name normalized="Pin-khu-yen" languages="Hakka">Pîn-khù-yen</name>
+		<name normalized="Wilayah Hyogo" languages="Malay">Wilayah Hyōgo</name>
+		<name normalized="Pрiфiktuрa Kьoґo" languages="Ukrainian">Префектура Хьоґо</name>
+		<name normalized="Pрiфiktuрa Kjogo" languages="Serbian">Префектура Хјого</name>
+		<name normalized="Pрiфiktuрai Hёgo" languages="Tajik">Префектураи Ҳёго</name>
+		<name normalized="Pрeфiktuрa Kiёga" languages="Belarusian">Прэфектура Хіёга</name>
+		<name normalized="Kьogo" languages="Bulgarian">Хього</name>
+		<name normalized="Kёgo" languages="Russian">Хёго</name>
+		<name normalized="Kjogo" languages="Macedonian">Хјого</name>
+		<name normalized="אسtאن hیوgو" languages="Persian">استان هیوگو</name>
+		<name normalized="dلع ہیوgو" languages="Western Punjabi">ضلع ہیوگو</name>
+		<name normalized="hyوغو" languages="Arabic">هيوغو</name>
+		<name normalized="ھیۆgۆ" languages="Sorani Kurdish">ھیۆگۆ</name>
+		<name normalized="ہیوgو prیfیکچr" languages="Urdu">ہیوگو پریفیکچر</name>
+		<name normalized="h्yogo" languages="Marathi">ह्योगो</name>
+		<name normalized="จังหวัดเฮียวโงะ" languages="Thai">จังหวัดเฮียวโงะ</name>
+		<name normalized="兵库县" languages="Chinese;Wu">兵库县</name>
+		<name normalized="兵庫県" languages="Japanese">兵庫県</name>
+		<name normalized="兵庫縣" languages="Cantonese;Classical Chinese">兵庫縣</name>
+		<name normalized="효고 현" languages="Korean">효고 현</name>
+	</region>
+	<region name="Ibaraki" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Ibaraki" languages="Esperanto">Gubernio Ibaraki</name>
+		<name normalized="Ibaraki" languages="Azerbaijani;Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Slovak;Turkish;Vietnamese;Waray;Welsh">Ibaraki</name>
+		<name normalized="Ibaraki Prefectur" languages="Scots">Ibaraki Prefectur</name>
+		<name normalized="Ibaraki Prefecture" languages="English;official;Pampanga;Simple English;Sundanese">Ibaraki Prefecture</name>
+		<name normalized="Ibaraki prefektur" languages="Norwegian Nynorsk;Swedish">Ibaraki prefektur</name>
+		<name normalized="Ibaraki prefektuur" languages="Estonian">Ibaraki prefektuur</name>
+		<name normalized="Ibaraki prefektura" languages="Hungarian">Ibaraki prefektúra</name>
+		<name normalized="Ibaraki prefektura" languages="Latvian;Samogitian">Ibaraki prefektūra</name>
+		<name normalized="Ibaraki-koan" languages="Chinese (Min Nan)">Ibaraki-koān</name>
+		<name normalized="Ibarakin prefektuuri" languages="Finnish">Ibarakin prefektuuri</name>
+		<name normalized="Ibarakio prefektura" languages="Lithuanian">Ibarakio prefektūra</name>
+		<name normalized="Mkoa wa Ibaraki" languages="Swahili">Mkoa wa Ibaraki</name>
+		<name normalized="Prefectura d'Ibaraki" languages="Catalan">Prefectura d'Ibaraki</name>
+		<name normalized="Prefectura de Ibaraki" languages="Galician;Spanish">Prefectura de Ibaraki</name>
+		<name normalized="Prefectura Ibaraki" languages="Romanian">Prefectura Ibaraki</name>
+		<name normalized="Prefektur Ibaraki" languages="Achinese;Indonesian;Javanese">Prefektur Ibaraki</name>
+		<name normalized="Prefektura Ibaraki" languages="Czech;Polish;Serbo-Croatian">Prefektura Ibaraki</name>
+		<name normalized="Prefettura di Ibaraki" languages="Italian">Prefettura di Ibaraki</name>
+		<name normalized="Prepektura ng Ibaraki" languages="Tagalog">Prepektura ng Ibaraki</name>
+		<name normalized="Prepektura ti Ibaraki" languages="Iloko">Prepektura ti Ibaraki</name>
+		<name normalized="Prafektur Ibaraki" languages="German">Präfektur Ibaraki</name>
+		<name normalized="Prefecture d'Ibaraki" languages="French">Préfecture d'Ibaraki</name>
+		<name normalized="Wilayah Ibaraki" languages="Malay">Wilayah Ibaraki</name>
+		<name normalized="Ibaрaki" languages="Bulgarian;Macedonian;Mongolian;Russian">Ибараки</name>
+		<name normalized="Pрiфiktuрa Ibaрaki" languages="Serbian">Префектура Ибараки</name>
+		<name normalized="Pрiфiktuрa Ibaрaki" languages="Ukrainian">Префектура Ібаракі</name>
+		<name normalized="Pрiфiktuрai Ibaрaki" languages="Tajik">Префектураи Ибараки</name>
+		<name normalized="איbrאqי" languages="Hebrew">איבראקי</name>
+		<name normalized="إybאrאky" languages="Arabic">إيباراكي</name>
+		<name normalized="ئىbאrאkى نאھىyىسى" languages="Uyghur">ئىباراكى ناھىيىسى</name>
+		<name normalized="ئیbאrאکی" languages="Sorani Kurdish">ئیباراکی</name>
+		<name normalized="אسtאن אیbאrאکی" languages="Persian">استان ایباراکی</name>
+		<name normalized="אیbאrאکی prیfیکچr" languages="Urdu">ایباراکی پریفیکچر</name>
+		<name normalized="dلع אbאrאکی" languages="Western Punjabi">ضلع اباراکی</name>
+		<name normalized="ibाrाki" languages="Marathi">इबाराकी</name>
+		<name normalized="จังหวัดอิบะระกิ" languages="Thai">จังหวัดอิบะระกิ</name>
+		<name normalized="იბარაკის პრეფექტურა" languages="Georgian">იბარაკის პრეფექტურა</name>
+		<name normalized="茨城県" languages="Japanese">茨城県</name>
+		<name normalized="茨城縣" languages="Cantonese;Chinese">茨城縣</name>
+		<name normalized="이바라키 현" languages="Korean">이바라키 현</name>
+	</region>
+	<region name="Ishikawa" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Isikaua" languages="Esperanto">Gubernio Iŝikaŭa</name>
+		<name normalized="Ishikawa" languages="Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Vietnamese;Waray;Welsh">Ishikawa</name>
+		<name normalized="Ishikawa Prefectur" languages="Scots">Ishikawa Prefectur</name>
+		<name normalized="Ishikawa Prefecture" languages="English;official;Pampanga;Simple English">Ishikawa Prefecture</name>
+		<name normalized="Ishikawa prefektur" languages="Swedish">Ishikawa prefektur</name>
+		<name normalized="Ishikawa prefektuur" languages="Estonian">Ishikawa prefektuur</name>
+		<name normalized="Ishikawan prefektuuri" languages="Finnish">Ishikawan prefektuuri</name>
+		<name normalized="Isikava prefektura" languages="Hungarian">Isikava prefektúra</name>
+		<name normalized="Isikavas prefektura" languages="Latvian">Isikavas prefektūra</name>
+		<name normalized="Isikawa-koan" languages="Chinese (Min Nan)">Isikawa-koān</name>
+		<name normalized="Isikavos prefektura" languages="Lithuanian">Išikavos prefektūra</name>
+		<name normalized="Isikawa" languages="Slovak">Išikawa</name>
+		<name normalized="Mkoa wa Ishikawa" languages="Swahili">Mkoa wa Ishikawa</name>
+		<name normalized="Prefectura d'Ishikawa" languages="Catalan">Prefectura d'Ishikawa</name>
+		<name normalized="Prefectura de Ishikawa" languages="Galician;Spanish">Prefectura de Ishikawa</name>
+		<name normalized="Prefectura Ishikawa" languages="Romanian">Prefectura Ishikawa</name>
+		<name normalized="Prefektur Ishikawa" languages="Achinese;Indonesian">Prefektur Ishikawa</name>
+		<name normalized="Prefektura Ishikawa" languages="Polish;Serbo-Croatian">Prefektura Ishikawa</name>
+		<name normalized="Prefektura Isikawa" languages="Czech">Prefektura Išikawa</name>
+		<name normalized="Prefettura di Ishikawa" languages="Italian">Prefettura di Ishikawa</name>
+		<name normalized="Prepektura ng Ishikawa" languages="Tagalog">Prepektura ng Ishikawa</name>
+		<name normalized="Prepektura ti Ishikawa" languages="Iloko">Prepektura ti Ishikawa</name>
+		<name normalized="Prafektur Ishikawa" languages="German">Präfektur Ishikawa</name>
+		<name normalized="Prefecture d'Ishikawa" languages="French">Préfecture d'Ishikawa</name>
+		<name normalized="Prefektur Ishikawa" languages="Sundanese">Préféktur Ishikawa</name>
+		<name normalized="Wilayah Ishikawa" languages="Malay">Wilayah Ishikawa</name>
+		<name normalized="Iсikava" languages="Russian">Исикава</name>
+		<name normalized="Isikava" languages="Bulgarian;Macedonian">Ишикава</name>
+		<name normalized="Pрiфiktuрa Isikava" languages="Serbian">Префектура Ишикава</name>
+		<name normalized="Pрiфiktuрa Iсikava" languages="Ukrainian">Префектура Ісікава</name>
+		<name normalized="Pрiфiktuрai Isikava" languages="Tajik">Префектураи Ишикава</name>
+		<name normalized="إyشykאوא" languages="Arabic">إيشيكاوا</name>
+		<name normalized="ئیشیکאوא" languages="Sorani Kurdish">ئیشیکاوا</name>
+		<name normalized="אسtאن אیشیکאوא" languages="Persian">استان ایشیکاوا</name>
+		<name normalized="אشیکאوא prیfیکچr" languages="Urdu">اشیکاوا پریفیکچر</name>
+		<name normalized="dلع אشیکאوא" languages="Western Punjabi">ضلع اشیکاوا</name>
+		<name normalized="isikाvा" languages="Marathi">इशिकावा</name>
+		<name normalized="จังหวัดอิชิกะวะ" languages="Thai">จังหวัดอิชิกะวะ</name>
+		<name normalized="ისიკავის პრეფექტურა" languages="Georgian">ისიკავის პრეფექტურა</name>
+		<name normalized="石川县" languages="Wu">石川县</name>
+		<name normalized="石川県" languages="Japanese">石川県</name>
+		<name normalized="石川縣" languages="Cantonese;Chinese">石川縣</name>
+		<name normalized="이시카와 현" languages="Korean">이시카와 현</name>
+	</region>
+	<region name="Iwate" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Iuate" languages="Esperanto">Gubernio Iŭate</name>
+		<name normalized="Ivate" languages="Azerbaijani">İvate</name>
+		<name normalized="Ivate prefektura" languages="Hungarian">Ivate prefektúra</name>
+		<name normalized="Ivates prefektura" languages="Latvian">Ivates prefektūra</name>
+		<name normalized="Ivates prefektura" languages="Lithuanian">Ivatės prefektūra</name>
+		<name normalized="Iwate" languages="Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Slovak;Swedish;Turkish;Vietnamese;Waray;Welsh">Iwate</name>
+		<name normalized="Iwate Prefectur" languages="Scots">Iwate Prefectur</name>
+		<name normalized="Iwate Prefecture" languages="English;Novial;official;Pampanga;Simple English;Sundanese">Iwate Prefecture</name>
+		<name normalized="Iwate prefektuur" languages="Estonian">Iwate prefektuur</name>
+		<name normalized="Iwate prefektuvra" languages="Northern Sami">Iwate prefektuvra</name>
+		<name normalized="Iwate-koan" languages="Chinese (Min Nan)">Iwate-koān</name>
+		<name normalized="Iwaten prefektuuri" languages="Finnish">Iwaten prefektuuri</name>
+		<name normalized="Mkoa wa Iwate" languages="Swahili">Mkoa wa Iwate</name>
+		<name normalized="Prefectura d'Iwate" languages="Catalan">Prefectura d'Iwate</name>
+		<name normalized="Prefectura de Iwate" languages="Galician;Spanish">Prefectura de Iwate</name>
+		<name normalized="Prefectura Iwate" languages="Romanian">Prefectura Iwate</name>
+		<name normalized="Prefektur Iwate" languages="Achinese;Indonesian;Javanese">Prefektur Iwate</name>
+		<name normalized="Prefektura Ivate" languages="Serbo-Croatian">Prefektura Ivate</name>
+		<name normalized="Prefektura Iwate" languages="Czech;Polish">Prefektura Iwate</name>
+		<name normalized="Prefettura di Iwate" languages="Italian">Prefettura di Iwate</name>
+		<name normalized="Prepektura ng Iwate" languages="Tagalog">Prepektura ng Iwate</name>
+		<name normalized="Prepektura ti Iwate" languages="Iloko">Prepektura ti Iwate</name>
+		<name normalized="Prafektur Iwate" languages="German">Präfektur Iwate</name>
+		<name normalized="Prefecture d'Iwate" languages="French">Préfecture d'Iwate</name>
+		<name normalized="Wilayah Iwate" languages="Malay">Wilayah Iwate</name>
+		<name normalized="Ivati" languages="Bulgarian;Macedonian">Ивате</name>
+		<name normalized="Ivate" languages="Mongolian;Russian">Иватэ</name>
+		<name normalized="Pрiфiktuрa Ivati" languages="Serbian">Префектура Ивате</name>
+		<name normalized="Pрiфiktuрa Ivati" languages="Ukrainian">Префектура Івате</name>
+		<name normalized="Pрiфiktuрai Ivati" languages="Tajik">Префектураи Ивате</name>
+		<name normalized="Pрeфiktuрa Ivate" languages="Belarusian">Прэфектура Іватэ</name>
+		<name normalized="Իվաtե" languages="Armenian">Իվատե</name>
+		<name normalized="איvvth" languages="Hebrew">איווטה</name>
+		<name normalized="إyوאth" languages="Arabic">إيواته</name>
+		<name normalized="ئىۋאtە نאھىyىسى" languages="Uyghur">ئىۋاتە ناھىيىسى</name>
+		<name normalized="ئیوאtێ" languages="Sorani Kurdish">ئیواتێ</name>
+		<name normalized="אسtאن אیوאth" languages="Persian">استان ایواته</name>
+		<name normalized="אیوאtے prیfیکچr" languages="Urdu">ایواتے پریفیکچر</name>
+		<name normalized="dلع אیوאٹے" languages="Western Punjabi">ضلع ایواٹے</name>
+		<name normalized="ivाte" languages="Marathi">इवाते</name>
+		<name normalized="ivाte p्rip़ek्cr" languages="Hindi">इवाते प्रीफ़ेक्चर</name>
+		<name normalized="จังหวัดอิวะเตะ" languages="Thai">จังหวัดอิวะเตะ</name>
+		<name normalized="ივატეს პრეფექტურა" languages="Georgian">ივატეს პრეფექტურა</name>
+		<name normalized="ខេត្តអ៊ីវ៉ាតិ" languages="Khmer">ខេត្តអ៊ីវ៉ាតិ</name>
+		<name normalized="岩手县" languages="Chinese;Gan;Wu">岩手县</name>
+		<name normalized="岩手県" languages="Japanese">岩手県</name>
+		<name normalized="岩手縣" languages="Cantonese">岩手縣</name>
+		<name normalized="이와테 현" languages="Korean">이와테 현</name>
+	</region>
+	<region name="Kagawa" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Kagaua" languages="Esperanto">Gubernio Kagaŭa</name>
+		<name normalized="Hiong-tshon-yen" languages="Hakka">Hiông-tshon-yen</name>
+		<name normalized="Kagavas prefektura" languages="Latvian">Kagavas prefektūra</name>
+		<name normalized="Kagavos prefektura" languages="Lithuanian">Kagavos prefektūra</name>
+		<name normalized="Kagawa" languages="Basque;Croatian;Dutch;English;French;German;Norwegian (bokmal);official;Portuguese;Slovak;Vietnamese;Waray;Welsh">Kagawa</name>
+		<name normalized="Kagawa Prefectur" languages="Scots">Kagawa Prefectur</name>
+		<name normalized="Kagawa Prefecture" languages="English;official;Pampanga;Simple English;Sundanese">Kagawa Prefecture</name>
+		<name normalized="Kagawa prefektur" languages="Swedish">Kagawa prefektur</name>
+		<name normalized="Kagawa prefektuur" languages="Estonian">Kagawa prefektuur</name>
+		<name normalized="Kagawa-koan" languages="Chinese (Min Nan)">Kagawa-koān</name>
+		<name normalized="Kagawan prefektuuri" languages="Finnish">Kagawan prefektuuri</name>
+		<name normalized="Kaqava" languages="Azerbaijani">Kaqava</name>
+		<name normalized="Mkoa wa Kagawa" languages="Swahili">Mkoa wa Kagawa</name>
+		<name normalized="Prefectura de Kagawa" languages="Catalan;Galician;Spanish">Prefectura de Kagawa</name>
+		<name normalized="Prefectura Kagawa" languages="Romanian">Prefectura Kagawa</name>
+		<name normalized="Prefektur Kagawa" languages="Achinese;Indonesian">Prefektur Kagawa</name>
+		<name normalized="Prefektura Kagava" languages="Serbo-Croatian">Prefektura Kagava</name>
+		<name normalized="Prefektura Kagawa" languages="Czech;Polish">Prefektura Kagawa</name>
+		<name normalized="Prefettura di Kagawa" languages="Italian">Prefettura di Kagawa</name>
+		<name normalized="Prepektura ng Kagawa" languages="Tagalog">Prepektura ng Kagawa</name>
+		<name normalized="Prepektura ti Kagawa" languages="Iloko">Prepektura ti Kagawa</name>
+		<name normalized="Prafektur Kagawa" languages="German">Präfektur Kagawa</name>
+		<name normalized="Prefecture de Kagawa" languages="French">Préfecture de Kagawa</name>
+		<name normalized="Wilayah Kagawa" languages="Malay">Wilayah Kagawa</name>
+		<name normalized="Kagava" languages="Bulgarian;Macedonian;Russian">Кагава</name>
+		<name normalized="Pрiфiktuрa Kagava" languages="Serbian">Префектура Кагава</name>
+		<name normalized="Pрiфiktuрa Kaґava" languages="Ukrainian">Префектура Каґава</name>
+		<name normalized="Pрiфiktuрai Kagava" languages="Tajik">Префектураи Кагава</name>
+		<name normalized="אسtאن کאgאوא" languages="Persian">استان کاگاوا</name>
+		<name normalized="dلع کאgאوא" languages="Western Punjabi">ضلع کاگاوا</name>
+		<name normalized="kאغאوא" languages="Arabic">كاغاوا</name>
+		<name normalized="کאgאوא" languages="Sorani Kurdish">کاگاوا</name>
+		<name normalized="کאgאوא prیfیکچr" languages="Urdu">کاگاوا پریفیکچر</name>
+		<name normalized="kाgाvा" languages="Marathi">कागावा</name>
+		<name normalized="จังหวัดคะงะวะ" languages="Thai">จังหวัดคะงะวะ</name>
+		<name normalized="კაგავის პრეფექტურა" languages="Georgian">კაგავის პრეფექტურა</name>
+		<name normalized="香川" languages="Japanese">香川</name>
+		<name normalized="香川县" languages="Chinese">香川县</name>
+		<name normalized="香川県" languages="Japanese">香川県</name>
+		<name normalized="香川縣" languages="Cantonese;Classical Chinese">香川縣</name>
+		<name normalized="가가와" languages="Korean">가가와</name>
+		<name normalized="가가와 현" languages="Korean">가가와 현</name>
+	</region>
+	<region name="Kagoshima" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Kagosimo" languages="Esperanto">Gubernio Kagoŝimo</name>
+		<name normalized="Kagoshima" languages="Basque;Bavarian;Croatian;Dutch;English;Estonian;Faroese;Finnish;French;Galician;German;Indonesian;Italian;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Vietnamese;Waray;Welsh">Kagoshima</name>
+		<name normalized="Kagoshima Prefectur" languages="Scots">Kagoshima Prefectur</name>
+		<name normalized="Kagoshima Prefecture" languages="English;Novial;official;Pampanga;Simple English;Sundanese">Kagoshima Prefecture</name>
+		<name normalized="Kagoshima prefektur" languages="Swedish">Kagoshima prefektur</name>
+		<name normalized="Kagoshima prefektuur" languages="Estonian">Kagoshima prefektuur</name>
+		<name normalized="Kagoshima prefektuvra" languages="Northern Sami">Kagoshima prefektuvra</name>
+		<name normalized="Kagoshiman prefektuuri" languages="Finnish">Kagoshiman prefektuuri</name>
+		<name normalized="Kagosima" languages="Hungarian">Kagosima</name>
+		<name normalized="Kagosima-chhi" languages="Chinese (Min Nan)">Kagosima-chhī</name>
+		<name normalized="Kagosima-koan" languages="Chinese (Min Nan)">Kagosima-koān</name>
+		<name normalized="Kagosimas prefektura" languages="Latvian">Kagosimas prefektūra</name>
+		<name normalized="Kagosima" languages="Esperanto">Kagoŝima</name>
+		<name normalized="Kagosima ili" languages="Turkish">Kagoşima ili</name>
+		<name normalized="Kagosima" languages="Croatian;Czech;Lithuanian;Slovak">Kagošima</name>
+		<name normalized="Kagosimos prefektura" languages="Lithuanian">Kagošimos prefektūra</name>
+		<name normalized="Lungsod ng Kagoshima" languages="Tagalog">Lungsod ng Kagoshima</name>
+		<name normalized="Lu̍k-yi-to-yen" languages="Hakka">Lu̍k-yì-tó-yen</name>
+		<name normalized="Mkoa wa Kagoshima" languages="Swahili">Mkoa wa Kagoshima</name>
+		<name normalized="Prefectura de Kagoshima" languages="Catalan;Galician;Spanish">Prefectura de Kagoshima</name>
+		<name normalized="Prefectura Kagoshima" languages="Romanian">Prefectura Kagoshima</name>
+		<name normalized="Prefektur Kagoshima" languages="Achinese;Indonesian;Javanese">Prefektur Kagoshima</name>
+		<name normalized="Prefektura Kagoshima" languages="Polish;Serbo-Croatian">Prefektura Kagoshima</name>
+		<name normalized="Prefektura Kagosima" languages="Czech;Slovenian">Prefektura Kagošima</name>
+		<name normalized="Prefettura di Kagoshima" languages="Italian">Prefettura di Kagoshima</name>
+		<name normalized="Prepektura ng Kagoshima" languages="Tagalog">Prepektura ng Kagoshima</name>
+		<name normalized="Prepektura ti Kagoshima" languages="Iloko">Prepektura ti Kagoshima</name>
+		<name normalized="Prafektur Kagoshima" languages="German">Präfektur Kagoshima</name>
+		<name normalized="Prefecture de Kagoshima" languages="French">Préfecture de Kagoshima</name>
+		<name normalized="Wilayah Kagoshima" languages="Malay">Wilayah Kagoshima</name>
+		<name normalized="Καγκοσιμα" languages="Greek">Καγκοσίμα</name>
+		<name normalized="Goрad Kagaсiмa" languages="Belarusian">Горад Кагасіма</name>
+		<name normalized="Kagoсiмa" languages="Russian">Кагосима</name>
+		<name normalized="Kagosiмa" languages="Bulgarian;Macedonian;Serbian;Tajik">Кагошима</name>
+		<name normalized="Kaґosiмa" languages="Ukrainian">Каґошіма</name>
+		<name normalized="Pрiфiktuрa Kagosiмa" languages="Serbian">Префектура Кагошима</name>
+		<name normalized="Pрiфiktuрa Kaґoсiмa" languages="Ukrainian">Префектура Каґосіма</name>
+		<name normalized="Pрiфiktuрai Kagosiмa" languages="Tajik">Префектураи Кагошима</name>
+		<name normalized="qגvשימh" languages="Hebrew">קגושימה</name>
+		<name normalized="אسtאن کאgوشیmא" languages="Persian">استان کاگوشیما</name>
+		<name normalized="dلع کאgوشیmא" languages="Western Punjabi">ضلع کاگوشیما</name>
+		<name normalized="kאغوشymא" languages="Arabic">كاغوشيما</name>
+		<name normalized="kאغوشymא, kאغوشymא" languages="Arabic">كاغوشيما، كاغوشيما</name>
+		<name normalized="کאgوشیmא" languages="Mazanderani;Persian;Urdu">کاگوشیما</name>
+		<name normalized="کאgوشیmא prیfیکچr" languages="Urdu">کاگوشیما پریفیکچر</name>
+		<name normalized="کאgۆشیmא" languages="Sorani Kurdish">کاگۆشیما</name>
+		<name normalized="kाgosimा" languages="Marathi">कागोशिमा</name>
+		<name normalized="คะโงะชิมะ" languages="Thai">คะโงะชิมะ</name>
+		<name normalized="จังหวัดคะโงะชิมะ" languages="Thai">จังหวัดคะโงะชิมะ</name>
+		<name normalized="ខេត្តខាហ្គុស៊ីម៉ា" languages="Khmer">ខេត្តខាហ្គុស៊ីម៉ា</name>
+		<name normalized="鹿儿岛县" languages="Chinese;Wu">鹿儿岛县</name>
+		<name normalized="鹿儿岛市" languages="Chinese">鹿儿岛市</name>
+		<name normalized="鹿児島市" languages="Japanese">鹿児島市</name>
+		<name normalized="鹿児島県" languages="Japanese">鹿児島県</name>
+		<name normalized="鹿兒島縣" languages="Cantonese">鹿兒島縣</name>
+		<name normalized="가고시마 시" languages="Korean">가고시마 시</name>
+		<name normalized="가고시마 현" languages="Korean">가고시마 현</name>
+	</region>
+	<region name="Kanagawa" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Kanagaua" languages="Esperanto">Gubernio Kanagaŭa</name>
+		<name normalized="Kanagavas prefektura" languages="Latvian">Kanagavas prefektūra</name>
+		<name normalized="Kanagavos prefektura" languages="Lithuanian">Kanagavos prefektūra</name>
+		<name normalized="Kanagawa" languages="Albanian;Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Slovak;Vietnamese;Waray;Welsh">Kanagawa</name>
+		<name normalized="Kanagawa ili" languages="Turkish">Kanagawa ili</name>
+		<name normalized="Kanagawa Prefectur" languages="Scots">Kanagawa Prefectur</name>
+		<name normalized="Kanagawa Prefecture" languages="English;Novial;official;Pampanga;Simple English;Sundanese">Kanagawa Prefecture</name>
+		<name normalized="Kanagawa prefektur" languages="Swedish">Kanagawa prefektur</name>
+		<name normalized="Kanagawa prefektuur" languages="Estonian">Kanagawa prefektuur</name>
+		<name normalized="Kanagawa prefektuvra" languages="Northern Sami">Kanagawa prefektuvra</name>
+		<name normalized="Kanagawa-koan" languages="Chinese (Min Nan)">Kanagawa-koān</name>
+		<name normalized="Kanagawan prefektuuri" languages="Finnish">Kanagawan prefektuuri</name>
+		<name normalized="Mkoa wa Kanagawa" languages="Swahili">Mkoa wa Kanagawa</name>
+		<name normalized="Prefectura de Kanagawa" languages="Catalan;Galician;Spanish">Prefectura de Kanagawa</name>
+		<name normalized="Prefectura Kanagawa" languages="Romanian">Prefectura Kanagawa</name>
+		<name normalized="Prefektur Kanagawa" languages="Achinese;Indonesian">Prefektur Kanagawa</name>
+		<name normalized="Prefektura Kanagava" languages="Serbo-Croatian">Prefektura Kanagava</name>
+		<name normalized="Prefektura Kanagawa" languages="Czech;Polish">Prefektura Kanagawa</name>
+		<name normalized="Prefettura di Kanagawa" languages="Italian">Prefettura di Kanagawa</name>
+		<name normalized="Prepektura ng Kanagawa" languages="Tagalog">Prepektura ng Kanagawa</name>
+		<name normalized="Prepektura ti Kanagawa" languages="Iloko">Prepektura ti Kanagawa</name>
+		<name normalized="Prafektur Kanagawa" languages="German">Präfektur Kanagawa</name>
+		<name normalized="Prefecture de Kanagawa" languages="French">Préfecture de Kanagawa</name>
+		<name normalized="Wilayah Kanagawa" languages="Malay">Wilayah Kanagawa</name>
+		<name normalized="Kaнagava" languages="Bulgarian;Macedonian;Mongolian;Russian">Канагава</name>
+		<name normalized="Pрiфiktuрa Kaнagava" languages="Serbian">Префектура Канагава</name>
+		<name normalized="Pрiфiktuрa Kaнaґava" languages="Ukrainian">Префектура Канаґава</name>
+		<name normalized="Pрiфiktuрai Kaнagava" languages="Tajik">Префектураи Канагава</name>
+		<name normalized="אسtאن کאنאgאوא" languages="Persian">استان کاناگاوا</name>
+		<name normalized="dلع کאنאgאوא" languages="Western Punjabi">ضلع کاناگاوا</name>
+		<name normalized="kאنאغאوא" languages="Arabic">كاناغاوا</name>
+		<name normalized="کאنאgאوא" languages="Sorani Kurdish">کاناگاوا</name>
+		<name normalized="کאنאgאوא prیfیکچr" languages="Urdu">کاناگاوا پریفیکچر</name>
+		<name normalized="knाgाvा" languages="Marathi">कनागावा</name>
+		<name normalized="จังหวัดคะนะงะวะ" languages="Thai">จังหวัดคะนะงะวะ</name>
+		<name normalized="კანაგავის პრეფექტურა" languages="Georgian">კანაგავის პრეფექტურა</name>
+		<name normalized="ខេត្តខាន់ណាហ្គាវ៉ា" languages="Khmer">ខេត្តខាន់ណាហ្គាវ៉ា</name>
+		<name normalized="神奈川县" languages="Wu">神奈川县</name>
+		<name normalized="神奈川県" languages="Japanese">神奈川県</name>
+		<name normalized="神奈川縣" languages="Cantonese;Chinese">神奈川縣</name>
+		<name normalized="가나가와 현" languages="Korean">가나가와 현</name>
+	</region>
+	<region name="Kochi" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Koci" languages="Esperanto">Gubernio Koĉi</name>
+		<name normalized="Kochi" languages="Dutch;English;official;Portuguese">Kochi</name>
+		<name normalized="Kochi Prefecture" languages="English;official">Kochi Prefecture</name>
+		<name normalized="Kochi prefektur" languages="Swedish">Kochi prefektur</name>
+		<name normalized="Koci prefektura" languages="Latvian">Koči prefektūra</name>
+		<name normalized="Kocio prefektura" languages="Lithuanian">Kočio prefektūra</name>
+		<name normalized="Koci" languages="Slovak">Kóči</name>
+		<name normalized="Ko-ti-yen" languages="Hakka">Kô-tî-yen</name>
+		<name normalized="Koti-koan" languages="Chinese (Min Nan)">Kôti-koān</name>
+		<name normalized="Kochi" languages="Basque;Croatian;Norwegian (bokmal);Vietnamese;Waray;Welsh">Kōchi</name>
+		<name normalized="Kochi Prefectur" languages="Scots">Kōchi Prefectur</name>
+		<name normalized="Kochi Prefecture" languages="English;Pampanga;Simple English">Kōchi Prefecture</name>
+		<name normalized="Kochi prefektuur" languages="Estonian">Kōchi prefektuur</name>
+		<name normalized="Kochin prefektuuri" languages="Finnish">Kōchin prefektuuri</name>
+		<name normalized="Mkoa wa Kochi" languages="Swahili">Mkoa wa Kochi</name>
+		<name normalized="Prefectura de Kochi" languages="Catalan;Galician;Spanish">Prefectura de Kōchi</name>
+		<name normalized="Prefectura Kochi" languages="Romanian">Prefectura Kōchi</name>
+		<name normalized="Prefektur Kochi" languages="Achinese;Indonesian">Prefektur Kochi</name>
+		<name normalized="Prefektura Koci" languages="Czech">Prefektura Kóči</name>
+		<name normalized="Prefektura Kochi" languages="Polish;Serbo-Croatian">Prefektura Kōchi</name>
+		<name normalized="Prefettura di Kochi" languages="Italian">Prefettura di Kōchi</name>
+		<name normalized="Prepektura ng Kochi" languages="Tagalog">Prepektura ng Kōchi</name>
+		<name normalized="Prepektura ti Kochi" languages="Iloko">Prepektura ti Kōchi</name>
+		<name normalized="Prafektur Kochi" languages="German">Präfektur Kōchi</name>
+		<name normalized="Prefecture de Kochi" languages="French">Préfecture de Kōchi</name>
+		<name normalized="Prefektur Kochi" languages="Sundanese">Préféktur Kōchi</name>
+		<name normalized="Wilayah Kochi" languages="Malay">Wilayah Kōchi</name>
+		<name normalized="Koti" languages="Russian">Коти</name>
+		<name normalized="Koci" languages="Bulgarian;Macedonian">Кочи</name>
+		<name normalized="Koci-keн" languages="Mongolian">Кочи-кэн</name>
+		<name normalized="Pрiфiktuрa Koci" languages="Serbian">Префектура Кочи</name>
+		<name normalized="Pрiфiktuрa Koci" languages="Ukrainian">Префектура Кочі</name>
+		<name normalized="Pрiфiktuрai Koci" languages="Tajik">Префектураи Кочи</name>
+		<name normalized="Pрeфiktuрa Kotы" languages="Belarusian">Прэфектура Коты</name>
+		<name normalized="אسtאن کوچی" languages="Persian">استان کوچی</name>
+		<name normalized="dلع کوچی" languages="Western Punjabi">ضلع کوچی</name>
+		<name normalized="kوtشy" languages="Arabic">كوتشي</name>
+		<name normalized="کوچی prیfیکچr" languages="Urdu">کوچی پریفیکچر</name>
+		<name normalized="کۆچی" languages="Sorani Kurdish">کۆچی</name>
+		<name normalized="koci" languages="Marathi">कोची</name>
+		<name normalized="จังหวัดโคชิ" languages="Thai">จังหวัดโคชิ</name>
+		<name normalized="ខេត្តខូឈិ" languages="Khmer">ខេត្តខូឈិ</name>
+		<name normalized="高知县" languages="Chinese">高知县</name>
+		<name normalized="高知県" languages="Japanese">高知県</name>
+		<name normalized="高知縣" languages="Cantonese;Classical Chinese">高知縣</name>
+		<name normalized="고치 현" languages="Korean">고치 현</name>
+	</region>
+	<region name="Kumamoto" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Kumamoto" languages="Esperanto">Gubernio Kumamoto</name>
+		<name normalized="Kumamotas" languages="Lithuanian">Kumamotas</name>
+		<name normalized="Kumamoto" languages="Azerbaijani;Basque;Croatian;Czech;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Indonesian;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Quechua;Romanian;Scots;Serbo-Croatian;Simple English;Slovak;Spanish;Swahili;Swedish;Uzbek;Vietnamese;Waray;Welsh">Kumamoto</name>
+		<name normalized="Kumamoto Prefectur" languages="Scots">Kumamoto Prefectur</name>
+		<name normalized="Kumamoto Prefecture" languages="English;official;Pampanga;Simple English;Sundanese">Kumamoto Prefecture</name>
+		<name normalized="Kumamoto prefektur" languages="Swedish">Kumamoto prefektur</name>
+		<name normalized="Kumamoto prefektuur" languages="Estonian">Kumamoto prefektuur</name>
+		<name normalized="Kumamoto prefektura" languages="Latvian;Lithuanian">Kumamoto prefektūra</name>
+		<name normalized="Kumamoto-chhi" languages="Chinese (Min Nan)">Kumamoto-chhī</name>
+		<name normalized="Kumamoto-koan" languages="Chinese (Min Nan)">Kumamoto-koān</name>
+		<name normalized="Kumamoton prefektuuri" languages="Finnish">Kumamoton prefektuuri</name>
+		<name normalized="Lungsod ng Kumamoto" languages="Tagalog">Lungsod ng Kumamoto</name>
+		<name normalized="Mkoa wa Kumamoto" languages="Swahili">Mkoa wa Kumamoto</name>
+		<name normalized="Prefectura de Kumamoto" languages="Catalan;Galician;Spanish">Prefectura de Kumamoto</name>
+		<name normalized="Prefectura Kumamoto" languages="Romanian">Prefectura Kumamoto</name>
+		<name normalized="Prefektur Kumamoto" languages="Achinese;Indonesian">Prefektur Kumamoto</name>
+		<name normalized="Prefektura Kumamoto" languages="Czech;Polish;Serbo-Croatian">Prefektura Kumamoto</name>
+		<name normalized="Prefettura di Kumamoto" languages="Italian">Prefettura di Kumamoto</name>
+		<name normalized="Prepektura ng Kumamoto" languages="Tagalog">Prepektura ng Kumamoto</name>
+		<name normalized="Prepektura ti Kumamoto" languages="Iloko">Prepektura ti Kumamoto</name>
+		<name normalized="Prafektur Kumamoto" languages="German">Präfektur Kumamoto</name>
+		<name normalized="Prefecture de Kumamoto" languages="French">Préfecture de Kumamoto</name>
+		<name normalized="Wilayah Kumamoto" languages="Malay">Wilayah Kumamoto</name>
+		<name normalized="Yung-pun-yen" languages="Hakka">Yùng-pún-yen</name>
+		<name normalized="Goрad Kuмaмota" languages="Belarusian">Горад Кумамота</name>
+		<name normalized="Kuмaмota" languages="biлaрuсkai (taрaskivita)‎">Кумамота</name>
+		<name normalized="Kuмaмoto" languages="Bulgarian;Macedonian;Russian;Serbian;Tajik;Ukrainian">Кумамото</name>
+		<name normalized="Kүмaмoto" languages="Mongolian">Күмамото</name>
+		<name normalized="Pрiфiktuрa Kuмaмoto" languages="Serbian;Ukrainian">Префектура Кумамото</name>
+		<name normalized="Pрiфiktuрai Kuмaмoto" languages="Tajik">Префектураи Кумамото</name>
+		<name normalized="Pрeфiktuрa Kuмaмota" languages="Belarusian">Прэфектура Кумамота</name>
+		<name normalized="אسtאن کوmאmوtو" languages="Persian">استان کوماموتو</name>
+		<name normalized="dلع کوmאmوٹو" languages="Western Punjabi">ضلع کوماموٹو</name>
+		<name normalized="kوmאmوtو" languages="Arabic">كوماموتو</name>
+		<name normalized="kوmאmوtو, kوmאmوtو" languages="Arabic">كوماموتو، كوماموتو</name>
+		<name normalized="کوmאmوtو" languages="Mazanderani;Persian;Urdu">کوماموتو</name>
+		<name normalized="کوmאmوtو prیfیکچr" languages="Urdu">کوماموتو پریفیکچر</name>
+		<name normalized="کوmאmۆtۆ" languages="Sorani Kurdish">کومامۆتۆ</name>
+		<name normalized="kumाmoto" languages="Marathi">कुमामोतो</name>
+		<name normalized="คุมะโมะโตะ" languages="Thai">คุมะโมะโตะ</name>
+		<name normalized="จังหวัดคุมะโมะโตะ" languages="Thai">จังหวัดคุมะโมะโตะ</name>
+		<name normalized="熊本市" languages="Chinese;Japanese">熊本市</name>
+		<name normalized="熊本県" languages="Japanese">熊本県</name>
+		<name normalized="熊本縣" languages="Cantonese;Chinese">熊本縣</name>
+		<name normalized="구마모토 시" languages="Korean">구마모토 시</name>
+		<name normalized="구마모토 현" languages="Korean">구마모토 현</name>
+	</region>
+	<region name="Kyoto" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Kioto" languages="Esperanto">Gubernio Kioto</name>
+		<name normalized="Kian-to͘-chhi" languages="Chinese (Min Nan)">Kiaⁿ-to͘-chhī</name>
+		<name normalized="Kian-to͘-hu" languages="Chinese (Min Nan)">Kiaⁿ-to͘-hú</name>
+		<name normalized="Kiotas" languages="Lithuanian">Kiotas</name>
+		<name normalized="Kioto" languages="Afrikaans;Azerbaijani;Bavarian;Dutch;Esperanto;Finnish;Latvian;Polish;Spanish">Kioto</name>
+		<name normalized="Kioto prefektura" languages="Latvian;Lithuanian">Kioto prefektūra</name>
+		<name normalized="Kioton prefektuuri" languages="Finnish">Kioton prefektuuri</name>
+		<name normalized="Kioto" languages="Hungarian">Kiotó</name>
+		<name normalized="Kjoto" languages="Serbo-Croatian;Slovenian">Kjoto</name>
+		<name normalized="Kjoto" languages="Czech;Slovak">Kjóto</name>
+		<name normalized="Kyoto" languages="Asturian;Basque;Breton;Catalan;Croatian;Danish;English;Faroese;French;Icelandic;Indonesian;Interlingue;Irish;Italian;Javanese;Kalaallisut;Malay;Maori;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Romanian;Scots;Scottish Gaelic;Simple English;Sundanese;Swahili;Swedish;Turkish;veneto;Waray;Welsh">Kyoto</name>
+		<name normalized="Kyoto Prefectur" languages="Scots">Kyoto Prefectur</name>
+		<name normalized="Kyoto Prefecture" languages="English;official;Pampanga;Simple English">Kyoto Prefecture</name>
+		<name normalized="Kyoto prefektur" languages="Swedish">Kyoto prefektur</name>
+		<name normalized="Kyoto-praefekturet" languages="Danish">Kyoto-præfekturet</name>
+		<name normalized="Kyotu" languages="Sicilian">Kyotu</name>
+		<name normalized="Kyotum" languages="Latin">Kyotum</name>
+		<name normalized="Kyoto" languages="Croatian;Estonian;German;Piedmontese;Quechua;Vietnamese">Kyōto</name>
+		<name normalized="Kyoto prefektuur" languages="Estonian">Kyōto prefektuur</name>
+		<name normalized="Kin-tu-fu" languages="Hakka">Kîn-tû-fú</name>
+		<name normalized="Kejuota prefektura" languages="Samogitian">Kėjuota prefektūra</name>
+		<name normalized="Kejuots" languages="Samogitian">Kėjuots</name>
+		<name normalized="Lungsod ng Kyoto" languages="Tagalog">Lungsod ng Kyoto</name>
+		<name normalized="Mkoa wa Kyoto" languages="Swahili">Mkoa wa Kyoto</name>
+		<name normalized="Prefectura de Kioto" languages="Spanish">Prefectura de Kioto</name>
+		<name normalized="Prefectura de Kyoto" languages="Catalan">Prefectura de Kyoto</name>
+		<name normalized="Prefectura de Kyoto" languages="Galician">Prefectura de Kyōto</name>
+		<name normalized="Prefectura Kyoto" languages="Romanian">Prefectura Kyoto</name>
+		<name normalized="Prefektur Kyoto" languages="Achinese;Indonesian">Prefektur Kyoto</name>
+		<name normalized="Prefektura Kioto" languages="Polish">Prefektura Kioto</name>
+		<name normalized="Prefektura Kjoto" languages="Serbo-Croatian">Prefektura Kjoto</name>
+		<name normalized="Prefektura Kjoto" languages="Czech">Prefektura Kjóto</name>
+		<name normalized="Prefettura di Kyoto" languages="Italian">Prefettura di Kyoto</name>
+		<name normalized="Prefetura de Kyoto" languages="veneto">Prefetura de Kyoto</name>
+		<name normalized="Prepektura ng Kyoto" languages="Tagalog">Prepektura ng Kyoto</name>
+		<name normalized="Prepektura ti Kyoto" languages="Iloko">Prepektura ti Kyoto</name>
+		<name normalized="Prafektur Kyoto" languages="German">Präfektur Kyōto</name>
+		<name normalized="Prefecture de Kyoto" languages="French">Préfecture de Kyoto</name>
+		<name normalized="Prefektur Kyoto" languages="Sundanese">Préféktur Kyoto</name>
+		<name normalized="Quioto" languages="Galician;Portuguese">Quioto</name>
+		<name normalized="Wilayah Kyoto" languages="Malay">Wilayah Kyoto</name>
+		<name normalized="Κιοτο" languages="Greek">Κιότο</name>
+		<name normalized="Goрad Kiёta" languages="Belarusian">Горад Кіёта</name>
+		<name normalized="Kioto" languages="Bulgarian;Chechen;Kazakh;Mongolian;Ossetic;Russian;Sakha">Киото</name>
+		<name normalized="Kёto" languages="Tajik">Кёто</name>
+		<name normalized="Kioto" languages="Ukrainian">Кіото</name>
+		<name normalized="Kjoto" languages="Macedonian;Serbian">Кјото</name>
+		<name normalized="Pрiфiktuрa Kioto" languages="Ukrainian">Префектура Кіото</name>
+		<name normalized="Pрiфiktuрa Kjoto" languages="Serbian">Префектура Кјото</name>
+		<name normalized="Pрiфiktuрai Kioto" languages="Tajik">Префектураи Киото</name>
+		<name normalized="Kիvtv" languages="Armenian">Կիոտո</name>
+		<name normalized="qיאtא" languages="Yiddish">קיאטא</name>
+		<name normalized="qיvtv" languages="Hebrew">קיוטו</name>
+		<name normalized="אسtאن کیوtو" languages="Persian">استان کیوتو</name>
+		<name normalized="dلع کیوٹو" languages="Western Punjabi">ضلع کیوٹو</name>
+		<name normalized="kyوtو" languages="Arabic;Egyptian Spoken Arabic">كيوتو</name>
+		<name normalized="کیوtو" languages="Mazanderani;Persian">کیوتو</name>
+		<name normalized="کیوٹو" languages="Urdu;Western Punjabi">کیوٹو</name>
+		<name normalized="کیوٹو prیfیکچr" languages="Urdu">کیوٹو پریفیکچر</name>
+		<name normalized="کیۆtۆ" languages="Sorani Kurdish">کیۆتۆ</name>
+		<name normalized="ܩܝܘܛܘ" languages="Aramaic">ܩܝܘܛܘ</name>
+		<name normalized="k्yoटo" languages="Hindi;Newari">क्योटो</name>
+		<name normalized="k्yoto" languages="Marathi">क्योतो</name>
+		<name normalized="கியோத்தோ" languages="Tamil">கியோத்தோ</name>
+		<name normalized="ക്യോത്തോ" languages="Malayalam">ക്യോത്തോ</name>
+		<name normalized="จังหวัดเคียวโตะ" languages="Thai">จังหวัดเคียวโตะ</name>
+		<name normalized="เคียวโตะ" languages="Thai">เคียวโตะ</name>
+		<name normalized="ཁེཡོ་ཐྲོ།" languages="Tibetan">ཁེཡོ་ཐྲོ།</name>
+		<name normalized="ကျိုတိုမြို့" languages="Burmese">ကျိုတိုမြို့</name>
+		<name normalized="კიოტო" languages="Georgian">კიოტო</name>
+		<name normalized="京都" languages="Cantonese">京都</name>
+		<name normalized="京都市" languages="Chinese;Japanese">京都市</name>
+		<name normalized="京都府" languages="Cantonese;Chinese;Japanese">京都府</name>
+		<name normalized="교토 부" languages="Korean">교토 부</name>
+		<name normalized="교토 시" languages="Korean">교토 시</name>
+	</region>
+	<region name="Mie" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Mie" languages="Esperanto">Gubernio Mie</name>
+		<name normalized="Mie" languages="Azerbaijani;Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Slovak;Vietnamese;Waray;Welsh">Mie</name>
+		<name normalized="Mie ili" languages="Turkish">Mie ili</name>
+		<name normalized="Mie Prefectur" languages="Scots">Mie Prefectur</name>
+		<name normalized="Mie Prefecture" languages="English;Novial;official;Pampanga;Simple English">Mie Prefecture</name>
+		<name normalized="Mie prefektur" languages="Swedish">Mie prefektur</name>
+		<name normalized="Mie prefektuur" languages="Estonian">Mie prefektuur</name>
+		<name normalized="Mie prefektuvra" languages="Northern Sami">Mie prefektuvra</name>
+		<name normalized="Mie prefektura" languages="Hungarian">Mie prefektúra</name>
+		<name normalized="Mie prefektura" languages="Latvian">Mie prefektūra</name>
+		<name normalized="Mie-koan" languages="Chinese (Min Nan)">Mie-koān</name>
+		<name normalized="Mien prefektuuri" languages="Finnish">Mien prefektuuri</name>
+		<name normalized="Mieum" languages="Latin">Mieum</name>
+		<name normalized="Mijes prefektura" languages="Lithuanian">Mijės prefektūra</name>
+		<name normalized="Mkoa wa Mie" languages="Swahili">Mkoa wa Mie</name>
+		<name normalized="Prefectura de Mie" languages="Catalan;Galician;Spanish">Prefectura de Mie</name>
+		<name normalized="Prefectura Mie" languages="Romanian">Prefectura Mie</name>
+		<name normalized="Prefektur Mie" languages="Achinese;Indonesian">Prefektur Mie</name>
+		<name normalized="Prefektura Mie" languages="Czech;Polish;Serbo-Croatian">Prefektura Mie</name>
+		<name normalized="Prefettura di Mie" languages="Italian">Prefettura di Mie</name>
+		<name normalized="Prepektura ng Mie" languages="Tagalog">Prepektura ng Mie</name>
+		<name normalized="Prepektura ti Mie" languages="Iloko">Prepektura ti Mie</name>
+		<name normalized="Prafektur Mie" languages="German">Präfektur Mie</name>
+		<name normalized="Prefecture de Mie" languages="French">Préfecture de Mie</name>
+		<name normalized="Prefektur Mie" languages="Sundanese">Préféktur Mie</name>
+		<name normalized="Sam-tshung-yen" languages="Hakka">Sâm-tshûng-yen</name>
+		<name normalized="Wilayah Mie" languages="Malay">Wilayah Mie</name>
+		<name normalized="Мii" languages="Bulgarian;Macedonian">Мие</name>
+		<name normalized="Мie" languages="Russian">Миэ</name>
+		<name normalized="Pрiфiktuрa Мiji" languages="Serbian">Префектура Мије</name>
+		<name normalized="Pрiфiktuрa Мie" languages="Ukrainian">Префектура Міє</name>
+		<name normalized="Pрiфiktuрai Мii" languages="Tajik">Префектураи Мие</name>
+		<name normalized="Pрeфiktuрa Мie" languages="Belarusian">Прэфектура Міэ</name>
+		<name normalized="אسtאن mیh" languages="Persian">استان میه</name>
+		<name normalized="dلع mאئی" languages="Western Punjabi">ضلع مائی</name>
+		<name normalized="myh" languages="Arabic">ميه</name>
+		<name normalized="mیہ prیfیکچr" languages="Urdu">میہ پریفیکچر</name>
+		<name normalized="mیە" languages="Sorani Kurdish">میە</name>
+		<name normalized="mii" languages="Marathi">मिई</name>
+		<name normalized="จังหวัดมิเอะ" languages="Thai">จังหวัดมิเอะ</name>
+		<name normalized="三重县" languages="Chinese">三重县</name>
+		<name normalized="三重県" languages="Japanese">三重県</name>
+		<name normalized="三重縣" languages="Cantonese">三重縣</name>
+		<name normalized="미에 현" languages="Korean">미에 현</name>
+	</region>
+	<region name="Miyagi" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Mijagi" languages="Esperanto">Gubernio Mijagi</name>
+		<name normalized="Mijagi" languages="Slovak">Mijagi</name>
+		<name normalized="Mijagi prefektura" languages="Latvian;Samogitian">Mijagi prefektūra</name>
+		<name normalized="Mijagio prefektura" languages="Lithuanian">Mijagio prefektūra</name>
+		<name normalized="Miyagi" languages="Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Vietnamese;Waray;Welsh">Miyagi</name>
+		<name normalized="Miyagi Prefectur" languages="Scots">Miyagi Prefectur</name>
+		<name normalized="Miyagi Prefecture" languages="English;official;Pampanga;Simple English;Sundanese">Miyagi Prefecture</name>
+		<name normalized="Miyagi prefektur" languages="Swedish">Miyagi prefektur</name>
+		<name normalized="Miyagi prefektuur" languages="Estonian">Miyagi prefektuur</name>
+		<name normalized="Miyagi-koan" languages="Chinese (Min Nan)">Miyagi-koān</name>
+		<name normalized="Miyagi-praefekturet" languages="Danish">Miyagi-præfekturet</name>
+		<name normalized="Miyagin prefektuuri" languages="Finnish">Miyagin prefektuuri</name>
+		<name normalized="Miyaqi" languages="Azerbaijani">Miyaqi</name>
+		<name normalized="Mkoa wa Miyagi" languages="Swahili">Mkoa wa Miyagi</name>
+		<name normalized="Prefectura de Miyagi" languages="Catalan;Galician;Occitan;Spanish">Prefectura de Miyagi</name>
+		<name normalized="Prefectura Miyagi" languages="Romanian">Prefectura Miyagi</name>
+		<name normalized="Prefektur Miyagi" languages="Achinese;Indonesian">Prefektur Miyagi</name>
+		<name normalized="Prefektura Mijagi" languages="Czech;Serbo-Croatian">Prefektura Mijagi</name>
+		<name normalized="Prefektura Miyagi" languages="Polish">Prefektura Miyagi</name>
+		<name normalized="Prefettura di Miyagi" languages="Italian">Prefettura di Miyagi</name>
+		<name normalized="Prepektura ng Miyagi" languages="Tagalog">Prepektura ng Miyagi</name>
+		<name normalized="Prepektura ti Miyagi" languages="Iloko">Prepektura ti Miyagi</name>
+		<name normalized="Prafektur Miyagi" languages="German">Präfektur Miyagi</name>
+		<name normalized="Prefecture de Miyagi" languages="French">Préfecture de Miyagi</name>
+		<name normalized="Wilayah Miyagi" languages="Malay">Wilayah Miyagi</name>
+		<name normalized="Мiigi" languages="Bulgarian;Mongolian;Russian">Мияги</name>
+		<name normalized="Мijagi" languages="Macedonian">Мијаги</name>
+		<name normalized="Pрiфiktuрa Мijagi" languages="Serbian">Префектура Мијаги</name>
+		<name normalized="Pрiфiktuрa Мiiґi" languages="Ukrainian">Префектура Міяґі</name>
+		<name normalized="Pрiфiktuрai Мiigi" languages="Tajik">Префектураи Мияги</name>
+		<name normalized="Mիյագի" languages="Armenian">Միյագի</name>
+		<name normalized="מיאגי" languages="Hebrew">מיאגי</name>
+		<name normalized="אسtאن mیאgی" languages="Persian">استان میاگی</name>
+		<name normalized="dلع mیאgی" languages="Western Punjabi">ضلع میاگی</name>
+		<name normalized="mىyאgى نאھىyىسى" languages="Uyghur">مىياگى ناھىيىسى</name>
+		<name normalized="myאغy" languages="Arabic">مياغي</name>
+		<name normalized="mیאgی" languages="Sorani Kurdish">میاگی</name>
+		<name normalized="mیאgی prیfیکچr" languages="Urdu">میاگی پریفیکچر</name>
+		<name normalized="miyाgi" languages="Marathi">मियागी</name>
+		<name normalized="จังหวัดมิยะงิ" languages="Thai">จังหวัดมิยะงิ</name>
+		<name normalized="მიაგის პრეფექტურა" languages="Georgian">მიაგის პრეფექტურა</name>
+		<name normalized="მიაგიშ პრეფექტურა" languages="Mingrelian">მიაგიშ პრეფექტურა</name>
+		<name normalized="宮城县" languages="Wu">宮城县</name>
+		<name normalized="宮城県" languages="Japanese">宮城県</name>
+		<name normalized="宮城縣" languages="Cantonese;Chinese;Gan">宮城縣</name>
+		<name normalized="미야기 현" languages="Korean">미야기 현</name>
+	</region>
+	<region name="Miyazaki" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Mijazaki" languages="Esperanto">Gubernio Mijazaki</name>
+		<name normalized="Kiung-khi-yen" languages="Hakka">Kiûng-khì-yen</name>
+		<name normalized="Mijadzaki prefektura" languages="Latvian">Mijadzaki prefektūra</name>
+		<name normalized="Mijadzakio prefektura" languages="Lithuanian">Mijadzakio prefektūra</name>
+		<name normalized="Mijazaki" languages="Slovak">Mijazaki</name>
+		<name normalized="Miyazaki" languages="Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Vietnamese;Waray;Welsh">Miyazaki</name>
+		<name normalized="Miyazaki Prefectur" languages="Scots">Miyazaki Prefectur</name>
+		<name normalized="Miyazaki Prefecture" languages="English;official;Pampanga;Simple English;Sundanese">Miyazaki Prefecture</name>
+		<name normalized="Miyazaki prefektur" languages="Swedish">Miyazaki prefektur</name>
+		<name normalized="Miyazaki prefektuur" languages="Estonian">Miyazaki prefektuur</name>
+		<name normalized="Miyazaki-koan" languages="Chinese (Min Nan)">Miyazaki-koān</name>
+		<name normalized="Miyazakin prefektuuri" languages="Finnish">Miyazakin prefektuuri</name>
+		<name normalized="Mkoa wa Miyazaki" languages="Swahili">Mkoa wa Miyazaki</name>
+		<name normalized="Prefectura de Miyazaki" languages="Catalan;Galician;Spanish">Prefectura de Miyazaki</name>
+		<name normalized="Prefectura Miyazaki" languages="Romanian">Prefectura Miyazaki</name>
+		<name normalized="Prefektur Miyazaki" languages="Achinese;Indonesian">Prefektur Miyazaki</name>
+		<name normalized="Prefektura Mijazaki" languages="Czech;Serbo-Croatian">Prefektura Mijazaki</name>
+		<name normalized="Prefektura Miyazaki" languages="Polish">Prefektura Miyazaki</name>
+		<name normalized="Prefettura di Miyazaki" languages="Italian">Prefettura di Miyazaki</name>
+		<name normalized="Prepektura ng Miyazaki" languages="Tagalog">Prepektura ng Miyazaki</name>
+		<name normalized="Prepektura ti Miyazaki" languages="Iloko">Prepektura ti Miyazaki</name>
+		<name normalized="Prafektur Miyazaki" languages="German">Präfektur Miyazaki</name>
+		<name normalized="Prefecture de Miyazaki" languages="French">Préfecture de Miyazaki</name>
+		<name normalized="Wilayah Miyazaki" languages="Malay">Wilayah Miyazaki</name>
+		<name normalized="Мiidzaki" languages="Bulgarian;Russian">Миядзаки</name>
+		<name normalized="Мijazaki" languages="Macedonian">Мијазаки</name>
+		<name normalized="Pрiфiktuрa Мijazaki" languages="Serbian">Префектура Мијазаки</name>
+		<name normalized="Pрiфiktuрa Мiidzaki" languages="Ukrainian">Префектура Міядзакі</name>
+		<name normalized="Pрiфiktuрai Мiizaki" languages="Tajik">Префектураи Миязаки</name>
+		<name normalized="Mիյաjաkի" languages="Armenian">Միյաձակի</name>
+		<name normalized="אسtאن mیאزאکی" languages="Persian">استان میازاکی</name>
+		<name normalized="dلع mیאزאکی" languages="Western Punjabi">ضلع میازاکی</name>
+		<name normalized="myאزאky" languages="Arabic">ميازاكي</name>
+		<name normalized="mیאزאکی" languages="Sorani Kurdish">میازاکی</name>
+		<name normalized="mیאزאکی prیfیکچr" languages="Urdu">میازاکی پریفیکچر</name>
+		<name normalized="miyाjाki" languages="Marathi">मियाझाकी</name>
+		<name normalized="மியாசாக்கி மாகாணம்" languages="Tamil">மியாசாக்கி மாகாணம்</name>
+		<name normalized="จังหวัดมิยะซะกิ" languages="Thai">จังหวัดมิยะซะกิ</name>
+		<name normalized="ខេត្តមីយ៉ាសាគី" languages="Khmer">ខេត្តមីយ៉ាសាគី</name>
+		<name normalized="宮崎県" languages="Japanese">宮崎県</name>
+		<name normalized="宮崎縣" languages="Cantonese;Chinese">宮崎縣</name>
+		<name normalized="미야자키 현" languages="Korean">미야자키 현</name>
+	</region>
+	<region name="Nagano" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Nagano" languages="Esperanto">Gubernio Nagano</name>
+		<name normalized="Lungsod ng Nagano" languages="Tagalog">Lungsod ng Nagano</name>
+		<name normalized="Mkoa wa Nagano" languages="Swahili">Mkoa wa Nagano</name>
+		<name normalized="Naganas" languages="Lithuanian">Naganas</name>
+		<name normalized="Nagano" languages="Afrikaans;Basque;Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Faroese;Finnish;French;Galician;German;Hungarian;Indonesian;Interlingue;Italian;Latvian;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Slovak;Slovenian;Spanish;Swahili;Swedish;Vietnamese;Waray;Welsh;Western Frisian">Nagano</name>
+		<name normalized="Nagano Prefectur" languages="Scots">Nagano Prefectur</name>
+		<name normalized="Nagano Prefecture" languages="English;Novial;official;Pampanga;Simple English;Sundanese">Nagano Prefecture</name>
+		<name normalized="Nagano prefektur" languages="Swedish">Nagano prefektur</name>
+		<name normalized="Nagano prefektuur" languages="Estonian">Nagano prefektuur</name>
+		<name normalized="Nagano prefektura" languages="Hungarian">Nagano prefektúra</name>
+		<name normalized="Nagano prefektura" languages="Latvian;Lithuanian">Nagano prefektūra</name>
+		<name normalized="Nagano-chhi" languages="Chinese (Min Nan)">Nagano-chhī</name>
+		<name normalized="Nagano-koan" languages="Chinese (Min Nan)">Nagano-koān</name>
+		<name normalized="Naganon prefektuuri" languages="Finnish">Naganon prefektuuri</name>
+		<name normalized="Naganum" languages="Latin">Naganum</name>
+		<name normalized="Naqano" languages="Azerbaijani">Naqano</name>
+		<name normalized="Prefectura de Nagano" languages="Catalan;Galician;Spanish">Prefectura de Nagano</name>
+		<name normalized="Prefectura Nagano" languages="Romanian">Prefectura Nagano</name>
+		<name normalized="Prefektur Nagano" languages="Achinese;Indonesian">Prefektur Nagano</name>
+		<name normalized="Prefektura Nagano" languages="Czech;Polish;Serbo-Croatian;Slovenian">Prefektura Nagano</name>
+		<name normalized="Prefettura di Nagano" languages="Italian">Prefettura di Nagano</name>
+		<name normalized="Prepektura ng Nagano" languages="Tagalog">Prepektura ng Nagano</name>
+		<name normalized="Prepektura ti Nagano" languages="Iloko">Prepektura ti Nagano</name>
+		<name normalized="Prafektur Nagano" languages="German">Präfektur Nagano</name>
+		<name normalized="Prefecture de Nagano" languages="French">Préfecture de Nagano</name>
+		<name normalized="Wilayah Nagano" languages="Malay">Wilayah Nagano</name>
+		<name normalized="Goрad Нagaнa" languages="Belarusian">Горад Нагана</name>
+		<name normalized="Нagaнo" languages="Bulgarian;Macedonian;Mongolian;Russian;Serbian;Tajik">Нагано</name>
+		<name normalized="Нaґaнo" languages="Ukrainian">Наґано</name>
+		<name normalized="Pрiфiktuрa Нagaнo" languages="Serbian">Префектура Нагано</name>
+		<name normalized="Pрiфiktuрa Нaґaнo" languages="Ukrainian">Префектура Наґано</name>
+		<name normalized="Pрiфiktuрai Нagaнo" languages="Tajik">Префектураи Нагано</name>
+		<name normalized="Նագանv" languages="Armenian">Նագանո</name>
+		<name normalized="nאגnv" languages="Hebrew">נאגנו</name>
+		<name normalized="אسtאن نאgאنو" languages="Persian">استان ناگانو</name>
+		<name normalized="dلع نאgאنو" languages="Western Punjabi">ضلع ناگانو</name>
+		<name normalized="نאغאنو" languages="Arabic">ناغانو</name>
+		<name normalized="نאغאنو, نאغאنو" languages="Arabic">ناغانو، ناغانو</name>
+		<name normalized="نאgאنو" languages="Mazanderani;Persian;Urdu">ناگانو</name>
+		<name normalized="نאgאنو prیfیکچr" languages="Urdu">ناگانو پریفیکچر</name>
+		<name normalized="نאgאنۆ" languages="Sorani Kurdish">ناگانۆ</name>
+		<name normalized="nाgाno" languages="Marathi">नागानो</name>
+		<name normalized="จังหวัดนะงะโนะ" languages="Thai">จังหวัดนะงะโนะ</name>
+		<name normalized="นะงะโนะ" languages="Thai">นะงะโนะ</name>
+		<name normalized="ნაგანო" languages="Georgian">ნაგანო</name>
+		<name normalized="長野市" languages="Chinese;Japanese">長野市</name>
+		<name normalized="長野県" languages="Japanese">長野県</name>
+		<name normalized="長野縣" languages="Cantonese;Classical Chinese">長野縣</name>
+		<name normalized="长野县" languages="Chinese;Wu">长野县</name>
+		<name normalized="나가노 시" languages="Korean">나가노 시</name>
+		<name normalized="나가노 현" languages="Korean">나가노 현</name>
+	</region>
+	<region name="Nagasaki" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Nagasaki" languages="Esperanto">Gubernio Nagasaki</name>
+		<name normalized="Lungsod ng Nagasaki" languages="Tagalog">Lungsod ng Nagasaki</name>
+		<name normalized="Mkoa wa Nagasaki" languages="Swahili">Mkoa wa Nagasaki</name>
+		<name normalized="Nagasacium" languages="Latin">Nagasacium</name>
+		<name normalized="Nagasaki" languages="Afrikaans;Aragonese;Basque;Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Estonian;Faroese;Finnish;French;Galician;German;Icelandic;Ido;Indonesian;Irish;Italian;Javanese;Kinyarwanda;Kurdish;Latvian;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Piedmontese;Polish;Portuguese;Quechua;Romanian;Scots;Serbo-Croatian;Sicilian;Simple English;Slovak;Slovenian;Spanish;Swahili;Swedish;Uzbek;Vietnamese;Waray;Welsh">Nagasaki</name>
+		<name normalized="Nagasaki Prefectur" languages="Scots">Nagasaki Prefectur</name>
+		<name normalized="Nagasaki Prefecture" languages="English;official;Pampanga;Simple English">Nagasaki Prefecture</name>
+		<name normalized="Nagasaki prefektur" languages="Swedish">Nagasaki prefektur</name>
+		<name normalized="Nagasaki prefektuur" languages="Estonian">Nagasaki prefektuur</name>
+		<name normalized="Nagasaki prefektura" languages="Latvian">Nagasaki prefektūra</name>
+		<name normalized="Nagasaki-chhi" languages="Chinese (Min Nan)">Nagasaki-chhī</name>
+		<name normalized="Nagasaki-koan" languages="Chinese (Min Nan)">Nagasaki-koān</name>
+		<name normalized="Nagasakin prefektuuri" languages="Finnish">Nagasakin prefektuuri</name>
+		<name normalized="Nagasakio prefektura" languages="Lithuanian">Nagasakio prefektūra</name>
+		<name normalized="Nagasakis" languages="Lithuanian">Nagasakis</name>
+		<name normalized="Nagasako" languages="Esperanto">Nagasako</name>
+		<name normalized="Nagasaky" languages="Western Frisian">Nagasaky</name>
+		<name normalized="Nagaszaki" languages="Hungarian">Nagaszaki</name>
+		<name normalized="Nagazaki" languages="Turkish">Nagazaki</name>
+		<name normalized="Naqasaki" languages="Azerbaijani">Naqasaki</name>
+		<name normalized="Prefectura de Nagasaki" languages="Catalan;Galician;Spanish">Prefectura de Nagasaki</name>
+		<name normalized="Prefectura Nagasaki" languages="Romanian">Prefectura Nagasaki</name>
+		<name normalized="Prefektur Nagasaki" languages="Achinese;Indonesian">Prefektur Nagasaki</name>
+		<name normalized="Prefektura Nagasaki" languages="Czech;Polish;Serbo-Croatian">Prefektura Nagasaki</name>
+		<name normalized="Prefettura di Nagasaki" languages="Italian">Prefettura di Nagasaki</name>
+		<name normalized="Prepektura ng Nagasaki" languages="Tagalog">Prepektura ng Nagasaki</name>
+		<name normalized="Prepektura ti Nagasaki" languages="Iloko">Prepektura ti Nagasaki</name>
+		<name normalized="Prafektur Nagasaki" languages="German">Präfektur Nagasaki</name>
+		<name normalized="Prefecture de Nagasaki" languages="French">Préfecture de Nagasaki</name>
+		<name normalized="Prefektur Nagasaki" languages="Sundanese">Préféktur Nagasaki</name>
+		<name normalized="Tshong-khi-yen" languages="Hakka">Tshòng-khì-yen</name>
+		<name normalized="Wilayah Nagasaki" languages="Malay">Wilayah Nagasaki</name>
+		<name normalized="Ναγκασακι" languages="Greek">Ναγκασάκι</name>
+		<name normalized="Goрad Нagaсaki" languages="Belarusian">Горад Нагасакі</name>
+		<name normalized="Нagaсaki" languages="Bashkir;Bulgarian;Kazakh;Macedonian;Russian;Serbian;Tajik">Нагасаки</name>
+		<name normalized="Нagaсaki" languages="Ukrainian">Нагасакі</name>
+		<name normalized="Pрiфiktuрa Нagaсaki" languages="Serbian">Префектура Нагасаки</name>
+		<name normalized="Pрiфiktuрa Нaґaсaki" languages="Ukrainian">Префектура Наґасакі</name>
+		<name normalized="Pрiфiktuрai Нagaсaki" languages="Tajik">Префектураи Нагасаки</name>
+		<name normalized="Նագաsաkի" languages="Armenian">Նագասակի</name>
+		<name normalized="nגסאqי" languages="Hebrew">נגסאקי</name>
+		<name normalized="אسtאن نאgאسאکی" languages="Persian">استان ناگاساکی</name>
+		<name normalized="dلع نאgאسאکی" languages="Western Punjabi">ضلع ناگاساکی</name>
+		<name normalized="نאغאسאky" languages="Arabic">ناغاساكي</name>
+		<name normalized="نאغאسאky, نאغאسאky" languages="Arabic">ناغاساكي، ناغاساكي</name>
+		<name normalized="نאgאزאکی" languages="Mazanderani;Persian">ناگازاکی</name>
+		<name normalized="نאgאزאکی אسtאن" languages="Mazanderani">ناگازاکی استان</name>
+		<name normalized="نאgאسאkى" languages="Uyghur">ناگاساكى</name>
+		<name normalized="نאgאسאکی" languages="Sorani Kurdish;Urdu;Western Punjabi">ناگاساکی</name>
+		<name normalized="نאgאسאکی prیfیکچr" languages="Urdu">ناگاساکی پریفیکچر</name>
+		<name normalized="nाgाsाki" languages="Hindi;Marathi">नागासाकी</name>
+		<name normalized="nাgাsাki" languages="Bengali">নাগাসাকি</name>
+		<name normalized="நாகசாகி" languages="Tamil">நாகசாகி</name>
+		<name normalized="നാഗസാക്കി" languages="Malayalam">നാഗസാക്കി</name>
+		<name normalized="จังหวัดนะงะซะกิ" languages="Thai">จังหวัดนะงะซะกิ</name>
+		<name normalized="นะงะซะกิ" languages="Thai">นะงะซะกิ</name>
+		<name normalized="ნაგასაკი" languages="Georgian">ნაგასაკი</name>
+		<name normalized="長崎" languages="Cantonese">長崎</name>
+		<name normalized="長崎市" languages="Japanese">長崎市</name>
+		<name normalized="長崎県" languages="Japanese">長崎県</name>
+		<name normalized="長崎縣" languages="Cantonese">長崎縣</name>
+		<name normalized="长崎县" languages="Chinese">长崎县</name>
+		<name normalized="长崎市" languages="Chinese">长崎市</name>
+		<name normalized="나가사키 시" languages="Korean">나가사키 시</name>
+		<name normalized="나가사키 현" languages="Korean">나가사키 현</name>
+	</region>
+	<region name="Nara" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Nara" languages="Esperanto">Gubernio Nara</name>
+		<name normalized="Lungsod ng Nara" languages="Tagalog">Lungsod ng Nara</name>
+		<name normalized="Mkoa wa Nara" languages="Swahili">Mkoa wa Nara</name>
+		<name normalized="Nara" languages="Afrikaans;Azerbaijani;Basque;Croatian;Czech;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Hungarian;Indonesian;Italian;Latin;Lithuanian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Serbo-Croatian;Simple English;Slovak;Spanish;Swahili;Swedish;Vietnamese;Waray;Welsh">Nara</name>
+		<name normalized="Nara Prefectur" languages="Scots">Nara Prefectur</name>
+		<name normalized="Nara Prefecture" languages="English;official;Pampanga;Simple English;Sundanese">Nara Prefecture</name>
+		<name normalized="Nara prefektur" languages="Swedish">Nara prefektur</name>
+		<name normalized="Nara prefektuur" languages="Estonian">Nara prefektuur</name>
+		<name normalized="Nara prefektuvra" languages="Northern Sami">Nara prefektuvra</name>
+		<name normalized="Nara-chhi" languages="Chinese (Min Nan)">Nara-chhī</name>
+		<name normalized="Nara-koan" languages="Chinese (Min Nan)">Nara-koān</name>
+		<name normalized="Naran prefektuuri" languages="Finnish">Naran prefektuuri</name>
+		<name normalized="Naras prefektura" languages="Latvian">Naras prefektūra</name>
+		<name normalized="Naros prefektura" languages="Lithuanian">Naros prefektūra</name>
+		<name normalized="Prefectura de Nara" languages="Catalan;Galician;Spanish">Prefectura de Nara</name>
+		<name normalized="Prefectura Nara" languages="Romanian">Prefectura Nara</name>
+		<name normalized="Prefektur Nara" languages="Achinese;Indonesian;Javanese">Prefektur Nara</name>
+		<name normalized="Prefektura Nara" languages="Czech;Polish;Serbo-Croatian">Prefektura Nara</name>
+		<name normalized="Prefettura di Nara" languages="Italian">Prefettura di Nara</name>
+		<name normalized="Prepektura ng Nara" languages="Tagalog">Prepektura ng Nara</name>
+		<name normalized="Prepektura ti Nara" languages="Iloko">Prepektura ti Nara</name>
+		<name normalized="Prafektur Nara" languages="German">Präfektur Nara</name>
+		<name normalized="Prefecture de Nara" languages="French">Préfecture de Nara</name>
+		<name normalized="Wilayah Nara" languages="Malay">Wilayah Nara</name>
+		<name normalized="Goрad Нaрa" languages="Belarusian">Горад Нара</name>
+		<name normalized="Нaрa" languages="Bulgarian;Macedonian;Mongolian;Russian;Serbian;Tajik;Ukrainian">Нара</name>
+		<name normalized="Pрiфiktuрa Нaрa" languages="Serbian;Ukrainian">Префектура Нара</name>
+		<name normalized="Pрiфiktuрai Нaрa" languages="Tajik">Префектураи Нара</name>
+		<name normalized="nאrh" languages="Hebrew">נארה</name>
+		<name normalized="אسtאن نאrא" languages="Persian">استان نارا</name>
+		<name normalized="dلع نאrא" languages="Western Punjabi">ضلع نارا</name>
+		<name normalized="نאrא" languages="Arabic;Mazanderani;Persian;Sorani Kurdish;Urdu">نارا</name>
+		<name normalized="نאrא prیfیکچr" languages="Urdu">نارا پریفیکچر</name>
+		<name normalized="نאrא, نאrא" languages="Arabic">نارا، نارا</name>
+		<name normalized="nाrा" languages="Marathi">नारा</name>
+		<name normalized="จังหวัดนะระ" languages="Thai">จังหวัดนะระ</name>
+		<name normalized="นะระ" languages="Thai">นะระ</name>
+		<name normalized="ნარა" languages="Georgian">ნარა</name>
+		<name normalized="អាណាខេត្តណារ៉ា" languages="Khmer">អាណាខេត្តណារ៉ា</name>
+		<name normalized="奈良县" languages="Chinese">奈良县</name>
+		<name normalized="奈良市" languages="Chinese;Japanese">奈良市</name>
+		<name normalized="奈良県" languages="Japanese">奈良県</name>
+		<name normalized="奈良縣" languages="Cantonese">奈良縣</name>
+		<name normalized="나라 시" languages="Korean">나라 시</name>
+		<name normalized="나라 현" languages="Korean">나라 현</name>
+	</region>
+	<region name="Niigata" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Niigata" languages="Esperanto">Gubernio Niigata</name>
+		<name normalized="Mkoa wa Niigata" languages="Swahili">Mkoa wa Niigata</name>
+		<name normalized="Nigata" languages="Latin">Nigata</name>
+		<name normalized="Niigata" languages="Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Slovak;Vietnamese;Waray;Welsh">Niigata</name>
+		<name normalized="Niigata Prefectur" languages="Scots">Niigata Prefectur</name>
+		<name normalized="Niigata Prefecture" languages="English;Novial;official;Simple English;Sundanese">Niigata Prefecture</name>
+		<name normalized="Niigata prefektur" languages="Swedish">Niigata prefektur</name>
+		<name normalized="Niigata prefektuur" languages="Estonian">Niigata prefektuur</name>
+		<name normalized="Niigata prefektura" languages="Hungarian">Niigata prefektúra</name>
+		<name normalized="Niigata-koan" languages="Chinese (Min Nan)">Niigata-koān</name>
+		<name normalized="Niigata-praefekturet" languages="Danish">Niigata-præfekturet</name>
+		<name normalized="Niigatan prefektuuri" languages="Finnish">Niigatan prefektuuri</name>
+		<name normalized="Niigatas prefektura" languages="Latvian">Niigatas prefektūra</name>
+		<name normalized="Nijigatos prefektura" languages="Lithuanian">Nijigatos prefektūra</name>
+		<name normalized="Prefectura de Niigata" languages="Catalan;Galician;Spanish">Prefectura de Niigata</name>
+		<name normalized="Prefectura Niigata" languages="Romanian">Prefectura Niigata</name>
+		<name normalized="Prefektur Niigata" languages="Achinese;Indonesian;Javanese">Prefektur Niigata</name>
+		<name normalized="Prefektura Niigata" languages="Czech;Polish;Serbo-Croatian">Prefektura Niigata</name>
+		<name normalized="Prefettura di Niigata" languages="Italian">Prefettura di Niigata</name>
+		<name normalized="Prepektura ng Niigata" languages="Tagalog">Prepektura ng Niigata</name>
+		<name normalized="Prepektura ti Niigata" languages="Iloko">Prepektura ti Niigata</name>
+		<name normalized="Prafektur Niigata" languages="German">Präfektur Niigata</name>
+		<name normalized="Prefecture de Niigata" languages="French">Préfecture de Niigata</name>
+		<name normalized="Wilayah Niigata" languages="Malay">Wilayah Niigata</name>
+		<name normalized="Нiigata" languages="Bulgarian;Macedonian;Russian">Ниигата</name>
+		<name normalized="Pрiфiktuрa Нigata" languages="Serbian">Префектура Нигата</name>
+		<name normalized="Pрiфiktuрa Нiyґata" languages="Ukrainian">Префектура Ніїґата</name>
+		<name normalized="Pрiфiktuрai Нiigata" languages="Tajik">Префектураи Ниигата</name>
+		<name normalized="Pрeфiktuрa Нiigata" languages="Belarusian">Прэфектура Ніігата</name>
+		<name normalized="אسtאن نیgאtא" languages="Persian">استان نیگاتا</name>
+		<name normalized="dلع نیאیgאٹא" languages="Western Punjabi">ضلع نیایگاٹا</name>
+		<name normalized="نyyغאtא" languages="Arabic">نييغاتا</name>
+		<name normalized="نیgאtא" languages="Sorani Kurdish">نیگاتا</name>
+		<name normalized="نیgאtא prیfیکچr" languages="Urdu">نیگاتا پریفیکچر</name>
+		<name normalized="nigाtा" languages="Marathi">निगाता</name>
+		<name normalized="จังหวัดนีงะตะ" languages="Thai">จังหวัดนีงะตะ</name>
+		<name normalized="新潟县" languages="Chinese">新潟县</name>
+		<name normalized="新潟県" languages="Japanese">新潟県</name>
+		<name normalized="新潟縣" languages="Cantonese">新潟縣</name>
+		<name normalized="니가타 현" languages="Korean">니가타 현</name>
+	</region>
+	<region name="Oita" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Oita" languages="Esperanto">Gubernio Oita</name>
+		<name normalized="Mkoa wa Oita" languages="Swahili">Mkoa wa Ōita</name>
+		<name normalized="Oita" languages="Azerbaijani;Dutch;English;Latin;official;Portuguese">Oita</name>
+		<name normalized="Oita Prefecture" languages="English;official">Oita Prefecture</name>
+		<name normalized="Oitas prefektura" languages="Latvian">Oitas prefektūra</name>
+		<name normalized="Oitos prefektura" languages="Lithuanian">Oitos prefektūra</name>
+		<name normalized="Prefectura d'Oita" languages="Catalan">Prefectura d'Ōita</name>
+		<name normalized="Prefectura de Oita" languages="Galician;Spanish">Prefectura de Ōita</name>
+		<name normalized="Prefectura Oita" languages="Romanian">Prefectura Ōita</name>
+		<name normalized="Prefektur Oita" languages="Achinese;Indonesian">Prefektur Oita</name>
+		<name normalized="Prefektura Oita" languages="Czech">Prefektura Óita</name>
+		<name normalized="Prefektura Oita" languages="Polish;Serbo-Croatian">Prefektura Ōita</name>
+		<name normalized="Prefettura di Oita" languages="Italian">Prefettura di Ōita</name>
+		<name normalized="Prepektura ng Oita" languages="Tagalog">Prepektura ng Ōita</name>
+		<name normalized="Prepektura ti Oita" languages="Iloko">Prepektura ti Ōita</name>
+		<name normalized="Prafektur Oita" languages="German">Präfektur Ōita</name>
+		<name normalized="Prefecture d'Oita" languages="French">Préfecture d'Ōita</name>
+		<name normalized="Thai-fun-yen" languages="Hakka">Thai-fûn-yen</name>
+		<name normalized="Wilayah Oita" languages="Malay">Wilayah Ōita</name>
+		<name normalized="Oita" languages="Slovak">Óita</name>
+		<name normalized="Oita-koan" languages="Chinese (Min Nan)">Ôita-koān</name>
+		<name normalized="Oita" languages="Basque;Croatian;Norwegian (bokmal);Vietnamese;Waray;Welsh">Ōita</name>
+		<name normalized="Oita Prefectur" languages="Scots">Ōita Prefectur</name>
+		<name normalized="Oita Prefecture" languages="English;Simple English;Sundanese">Ōita Prefecture</name>
+		<name normalized="Oita prefektur" languages="Swedish">Ōita prefektur</name>
+		<name normalized="Oita prefektuur" languages="Estonian">Ōita prefektuur</name>
+		<name normalized="Oitan prefektuuri" languages="Finnish">Ōitan prefektuuri</name>
+		<name normalized="Oita" languages="Bashkir;Bulgarian;Macedonian;Russian">Оита</name>
+		<name normalized="Pрiфiktuрa Oita" languages="Serbian">Префектура Оита</name>
+		<name normalized="Pрiфiktuрa Oйta" languages="Ukrainian">Префектура Ойта</name>
+		<name normalized="Pрiфiktuрai Oita" languages="Tajik">Префектураи Оита</name>
+		<name normalized="אvיth" languages="Hebrew">אויטה</name>
+		<name normalized="أوytא" languages="Arabic">أويتا</name>
+		<name normalized="ئۆئیtא" languages="Sorani Kurdish">ئۆئیتا</name>
+		<name normalized="אسtאن אوئیtא" languages="Persian">استان اوئیتا</name>
+		<name normalized="אوئیtא prیfیکچr" languages="Urdu">اوئیتا پریفیکچر</name>
+		<name normalized="dلع אویٹא" languages="Western Punjabi">ضلع اویٹا</name>
+		<name normalized="oitा" languages="Marathi">ओइता</name>
+		<name normalized="จังหวัดโออิตะ" languages="Thai">จังหวัดโออิตะ</name>
+		<name normalized="大分县" languages="Chinese">大分县</name>
+		<name normalized="大分県" languages="Japanese">大分県</name>
+		<name normalized="大分縣" languages="Cantonese">大分縣</name>
+		<name normalized="오이타 현" languages="Korean">오이타 현</name>
+	</region>
+	<region name="Okayama" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Okajama" languages="Esperanto">Gubernio Okajama</name>
+		<name normalized="Kong-san-yen" languages="Hakka">Kông-sân-yen</name>
+		<name normalized="Lungsod ng Okayama" languages="Tagalog">Lungsod ng Okayama</name>
+		<name normalized="Mkoa wa Okayama" languages="Swahili">Mkoa wa Okayama</name>
+		<name normalized="Okajama" languages="Croatian;Czech;Esperanto;Lithuanian;Serbo-Croatian;Slovak">Okajama</name>
+		<name normalized="Okajamas prefektura" languages="Latvian">Okajamas prefektūra</name>
+		<name normalized="Okajamos prefektura" languages="Lithuanian">Okajamos prefektūra</name>
+		<name normalized="Okayama" languages="Azerbaijani;Basque;Croatian;Dutch;English;Estonian;Finnish;French;Galician;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Simple English;Spanish;Swahili;Swedish;Turkish;Vietnamese;Waray;Welsh">Okayama</name>
+		<name normalized="Okayama Prefectur" languages="Scots">Okayama Prefectur</name>
+		<name normalized="Okayama Prefecture" languages="English;official;Simple English;Sundanese">Okayama Prefecture</name>
+		<name normalized="Okayama prefektur" languages="Swedish">Okayama prefektur</name>
+		<name normalized="Okayama prefektuur" languages="Estonian">Okayama prefektuur</name>
+		<name normalized="Okayama-chhi" languages="Chinese (Min Nan)">Okayama-chhī</name>
+		<name normalized="Okayama-koan" languages="Chinese (Min Nan)">Okayama-koān</name>
+		<name normalized="Okayaman prefektuuri" languages="Finnish">Okayaman prefektuuri</name>
+		<name normalized="Prefectura d'Okayama" languages="Catalan">Prefectura d'Okayama</name>
+		<name normalized="Prefectura de Okayama" languages="Galician;Spanish">Prefectura de Okayama</name>
+		<name normalized="Prefectura Okayama" languages="Romanian">Prefectura Okayama</name>
+		<name normalized="Prefektur Okayama" languages="Achinese;Indonesian;Javanese">Prefektur Okayama</name>
+		<name normalized="Prefektura Okajama" languages="Czech;Serbo-Croatian">Prefektura Okajama</name>
+		<name normalized="Prefektura Okayama" languages="Polish">Prefektura Okayama</name>
+		<name normalized="Prefettura di Okayama" languages="Italian">Prefettura di Okayama</name>
+		<name normalized="Prepektura ng Okayama" languages="Tagalog">Prepektura ng Okayama</name>
+		<name normalized="Prepektura ti Okayama" languages="Iloko">Prepektura ti Okayama</name>
+		<name normalized="Prafektur Okayama" languages="German">Präfektur Okayama</name>
+		<name normalized="Prefecture d'Okayama" languages="French">Préfecture d'Okayama</name>
+		<name normalized="Wilayah Okayama" languages="Malay">Wilayah Okayama</name>
+		<name normalized="Okaiмa" languages="Bulgarian;Mongolian;Russian;Tajik;Ukrainian">Окаяма</name>
+		<name normalized="Okajaмa" languages="Macedonian;Serbian">Окајама</name>
+		<name normalized="Pрiфiktuрa Okaiмa" languages="Ukrainian">Префектура Окаяма</name>
+		<name normalized="Pрiфiktuрa Okajaмa" languages="Serbian">Префектура Окајама</name>
+		<name normalized="Pрiфiktuрai Okaiмa" languages="Tajik">Префектураи Окаяма</name>
+		<name normalized="أوkאyאmא" languages="Arabic">أوكاياما</name>
+		<name normalized="أوkאyאmא, أوkאyאmא" languages="Arabic">أوكاياما، أوكاياما</name>
+		<name normalized="ئۆکאیאmא" languages="Sorani Kurdish">ئۆکایاما</name>
+		<name normalized="אسtאن אوکאیאmא" languages="Persian">استان اوکایاما</name>
+		<name normalized="אوکאیאmא" languages="Mazanderani;Persian;Urdu">اوکایاما</name>
+		<name normalized="אوکאیאmא prیfیکچr" languages="Urdu">اوکایاما پریفیکچر</name>
+		<name normalized="dلع אوکאیאmא" languages="Western Punjabi">ضلع اوکایاما</name>
+		<name normalized="okाyाmा" languages="Marathi">ओकायामा</name>
+		<name normalized="ஒகாயாமா" languages="Tamil">ஒகாயாமா</name>
+		<name normalized="จังหวัดโอะกะยะมะ" languages="Thai">จังหวัดโอะกะยะมะ</name>
+		<name normalized="โอะกะยะมะ" languages="Thai">โอะกะยะมะ</name>
+		<name normalized="冈山县" languages="Wu">冈山县</name>
+		<name normalized="岡山市" languages="Chinese;Japanese">岡山市</name>
+		<name normalized="岡山県" languages="Japanese">岡山県</name>
+		<name normalized="岡山縣" languages="Cantonese;Chinese">岡山縣</name>
+		<name normalized="오카야마 시" languages="Korean">오카야마 시</name>
+		<name normalized="오카야마 현" languages="Korean">오카야마 현</name>
+	</region>
+	<region name="Okinawa" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Okinavo" languages="Esperanto">Gubernio Okinavo</name>
+		<name normalized="Mkoa wa Okinawa" languages="Swahili">Mkoa wa Okinawa</name>
+		<name normalized="Okinava" languages="Azerbaijani">Okinava</name>
+		<name normalized="Okinavas prefektura" languages="Latvian">Okinavas prefektūra</name>
+		<name normalized="Okinavos prefektura" languages="Lithuanian">Okinavos prefektūra</name>
+		<name normalized="Okinawa" languages="Basque;Croatian;Dutch;English;Galician;Latin;Norwegian (bokmal);official;Portuguese;Slovak;Turkish;Vietnamese;Waray;Welsh">Okinawa</name>
+		<name normalized="Okinawa Prefectur" languages="Scots">Okinawa Prefectur</name>
+		<name normalized="Okinawa Prefecture" languages="English;official;Simple English;Sundanese">Okinawa Prefecture</name>
+		<name normalized="Okinawa prefektur" languages="Swedish">Okinawa prefektur</name>
+		<name normalized="Okinawa prefektuur" languages="Estonian">Okinawa prefektuur</name>
+		<name normalized="Okinawa prefektuvra" languages="Northern Sami">Okinawa prefektuvra</name>
+		<name normalized="Okinawa-koan" languages="Chinese (Min Nan)">Okinawa-koān</name>
+		<name normalized="Okinawa-praefekturet" languages="Danish">Okinawa-præfekturet</name>
+		<name normalized="Okinawan prefektuuri" languages="Finnish">Okinawan prefektuuri</name>
+		<name normalized="Prefectura d'Okinawa" languages="Catalan">Prefectura d'Okinawa</name>
+		<name normalized="Prefectura de Okinawa" languages="Spanish">Prefectura de Okinawa</name>
+		<name normalized="Prefectura Okinawa" languages="Romanian">Prefectura Okinawa</name>
+		<name normalized="Prefektur Okinawa" languages="Achinese;Indonesian;Javanese">Prefektur Okinawa</name>
+		<name normalized="Prefektura Okinava" languages="Serbo-Croatian">Prefektura Okinava</name>
+		<name normalized="Prefektura Okinawa" languages="Czech;Polish">Prefektura Okinawa</name>
+		<name normalized="Prefettura di Okinawa" languages="Italian">Prefettura di Okinawa</name>
+		<name normalized="Prepektura kan Okinawa" languages="Bikol Central">Prepektura kan Okinawa</name>
+		<name normalized="Prepektura ng Okinawa" languages="Tagalog">Prepektura ng Okinawa</name>
+		<name normalized="Prepektura ti Okinawa" languages="Iloko">Prepektura ti Okinawa</name>
+		<name normalized="Prafektur Okinawa" languages="German">Präfektur Okinawa</name>
+		<name normalized="Prefecture d'Okinawa" languages="French">Préfecture d'Okinawa</name>
+		<name normalized="Tshung-shin-yen" languages="Hakka">Tshûng-shîn-yen</name>
+		<name normalized="Wilayah Okinawa" languages="Malay">Wilayah Okinawa</name>
+		<name normalized="Okiнava" languages="Bulgarian;Macedonian;Russian">Окинава</name>
+		<name normalized="Pрiфiktuрa Okiнava" languages="Serbian">Префектура Окинава</name>
+		<name normalized="Pрiфiktuрa Okiнava" languages="Ukrainian">Префектура Окінава</name>
+		<name normalized="Pрiфiktuрai Okiнava" languages="Tajik">Префектураи Окинава</name>
+		<name normalized="Pрeфiktuрa Akiнava" languages="Belarusian">Прэфектура Акінава</name>
+		<name normalized="אvqיnאvvh" languages="Hebrew">אוקינאווה</name>
+		<name normalized="أوkyنאوא" languages="Arabic">أوكيناوا</name>
+		<name normalized="ئۆکینאوא" languages="Sorani Kurdish">ئۆکیناوا</name>
+		<name normalized="אسtאن אوکینאوא" languages="Persian">استان اوکیناوا</name>
+		<name normalized="אوکینאوא prیfیکچr" languages="Urdu">اوکیناوا پریفیکچر</name>
+		<name normalized="אکینאوא" languages="Mazanderani">اکیناوا</name>
+		<name normalized="dلع אوکینאوא" languages="Western Punjabi">ضلع اوکیناوا</name>
+		<name normalized="okinाvा" languages="Marathi">ओकिनावा</name>
+		<name normalized="ஓக்கினாவா மாகாணம்" languages="Tamil">ஓக்கினாவா மாகாணம்</name>
+		<name normalized="จังหวัดโอะกินะวะ" languages="Thai">จังหวัดโอะกินะวะ</name>
+		<name normalized="ខេត្តអូគីណាវ៉ា" languages="Khmer">ខេត្តអូគីណាវ៉ា</name>
+		<name normalized="沖縄県" languages="Japanese">沖縄県</name>
+		<name normalized="沖繩縣" languages="Cantonese;Chinese;Classical Chinese">沖繩縣</name>
+		<name normalized="오키나와 현" languages="Korean">오키나와 현</name>
+	</region>
+	<region name="Osaka" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Osaka" languages="Esperanto">Gubernio Osaka</name>
+		<name normalized="Lungsod ng Osaka" languages="Tagalog">Lungsod ng Osaka</name>
+		<name normalized="Mkoa wa Osaka" languages="Swahili">Mkoa wa Osaka</name>
+		<name normalized="Osaca" languages="Galician">Osaca</name>
+		<name normalized="Osaka" languages="Afrikaans;Azerbaijani;Basque;Bavarian;Bosnian;Breton;Catalan;Croatian;Danish;Dutch;English;Faroese;Finnish;French;Icelandic;Ido;Indonesian;Italian;Javanese;Kalaallisut;Kurdish;Latin;Latvian;Lithuanian;Malay;Maori;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Piedmontese;Polish;Portuguese;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Sicilian;Simple English;Slovak;Spanish;Sundanese;Swahili;Swedish;Turkish;Uzbek;Waray;Welsh">Osaka</name>
+		<name normalized="Osaka ili" languages="Turkish">Osaka ili</name>
+		<name normalized="Osaka Prefectur" languages="Scots">Osaka Prefectur</name>
+		<name normalized="Osaka Prefecture" languages="English;Novial;official;Simple English;Sundanese">Osaka Prefecture</name>
+		<name normalized="Osaka prefektur" languages="Swedish">Osaka prefektur</name>
+		<name normalized="Osakan prefektuuri" languages="Finnish">Osakan prefektuuri</name>
+		<name normalized="Osakas prefektura" languages="Latvian">Osakas prefektūra</name>
+		<name normalized="Osako" languages="Esperanto">Osako</name>
+		<name normalized="Osakos prefektura" languages="Lithuanian">Osakos prefektūra</name>
+		<name normalized="Oszaka" languages="Hungarian">Oszaka</name>
+		<name normalized="Ousaca" languages="Mirandese">Ousaca</name>
+		<name normalized="Prefectura d'Osaka" languages="Catalan">Prefectura d'Osaka</name>
+		<name normalized="Prefectura de Osaka" languages="Spanish">Prefectura de Osaka</name>
+		<name normalized="Prefectura de Osaka" languages="Galician">Prefectura de Ōsaka</name>
+		<name normalized="Prefectura Osaka" languages="Romanian">Prefectura Osaka</name>
+		<name normalized="Prefektur Osaka" languages="Achinese;Indonesian">Prefektur Osaka</name>
+		<name normalized="Prefektura Osaka" languages="Polish;Serbo-Croatian">Prefektura Osaka</name>
+		<name normalized="Prefektura Osaka" languages="Czech">Prefektura Ósaka</name>
+		<name normalized="Prefettura di Osaka" languages="Italian">Prefettura di Osaka</name>
+		<name normalized="Prepektura ng Osaka" languages="Tagalog">Prepektura ng Osaka</name>
+		<name normalized="Prepektura ti Osaka" languages="Iloko">Prepektura ti Osaka</name>
+		<name normalized="Prafektur Osaka" languages="German">Präfektur Ōsaka</name>
+		<name normalized="Prefecture d'Osaka" languages="French">Préfecture d'Osaka</name>
+		<name normalized="Thai-fan-fu" languages="Hakka">Thai-fán-fú</name>
+		<name normalized="Thai-fan-su" languages="Hakka">Thai-fán-sṳ</name>
+		<name normalized="Tai-pan-chhi" languages="Chinese (Min Nan)">Tāi-pán-chhī</name>
+		<name normalized="Tai-pan-hu" languages="Chinese (Min Nan)">Tāi-pán-hú</name>
+		<name normalized="Usaka" languages="Emiliano-Romagnolo">Uśàka</name>
+		<name normalized="Wilayah Osaka" languages="Malay">Wilayah Osaka</name>
+		<name normalized="Osaca" languages="Irish">Ósaca</name>
+		<name normalized="Osaka" languages="Czech">Ósaka</name>
+		<name normalized="Osaka" languages="Croatian;Estonian;German;Quechua;Vietnamese">Ōsaka</name>
+		<name normalized="Osaka prefektuur" languages="Estonian">Ōsaka prefektuur</name>
+		<name normalized="Οσακα" languages="Greek">Οσάκα</name>
+		<name normalized="Goрad Oсaka" languages="Belarusian">Горад Осака</name>
+		<name normalized="Oсakae" languages="Ossetic">Осакæ</name>
+		<name normalized="Oсaka" languages="Bulgarian;Chechen;Kazakh;Macedonian;Mongolian;Russian;Sakha;Serbian;Tajik;Ukrainian">Осака</name>
+		<name normalized="Pрiфiktuрa Oсaka" languages="Serbian;Ukrainian">Префектура Осака</name>
+		<name normalized="Pрiфiktuрai Oсaka" languages="Tajik">Префектураи Осака</name>
+		<name normalized="אvסqh" languages="Hebrew">אוסקה</name>
+		<name normalized="أوسאkא" languages="Arabic">أوساكا</name>
+		<name normalized="ئوسאkא" languages="Uyghur">ئوساكا</name>
+		<name normalized="ئۆسאکא" languages="Sorani Kurdish">ئۆساکا</name>
+		<name normalized="אسtאن אوسאکא" languages="Persian">استان اوساکا</name>
+		<name normalized="אوسאکא" languages="Mazanderani;Pashto;Persian;Urdu;Western Punjabi">اوساکا</name>
+		<name normalized="אوسאکא prیfیکچr" languages="Urdu">اوساکا پریفیکچر</name>
+		<name normalized="dلع אوسאکא" languages="Western Punjabi">ضلع اوساکا</name>
+		<name normalized="osाkा" languages="Hindi;Marathi">ओसाका</name>
+		<name normalized="osাkা" languages="Bengali">ওসাকা</name>
+		<name normalized="ਓsਾkਾ" languages="Punjabi">ਓਸਾਕਾ</name>
+		<name normalized="ஒசாக்கா" languages="Tamil">ஒசாக்கா</name>
+		<name normalized="จังหวัดโอซะกะ" languages="Thai">จังหวัดโอซะกะ</name>
+		<name normalized="โอซะกะ" languages="Thai">โอซะกะ</name>
+		<name normalized="အိုဆာကာမြို့" languages="Burmese">အိုဆာကာမြို့</name>
+		<name normalized="ოსაკა" languages="Georgian">ოსაკა</name>
+		<name normalized="អាណាខេត្តអូសាកា" languages="Khmer">អាណាខេត្តអូសាកា</name>
+		<name normalized="大阪市" languages="Cantonese;Chinese;Japanese;Wu">大阪市</name>
+		<name normalized="大阪府" languages="Cantonese;Chinese;Classical Chinese;Japanese">大阪府</name>
+		<name normalized="오사카 부" languages="Korean">오사카 부</name>
+		<name normalized="오사카 시" languages="Korean">오사카 시</name>
+	</region>
+	<region name="Saga" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Saga" languages="Esperanto">Gubernio Saga</name>
+		<name normalized="Mkoa wa Saga" languages="Swahili">Mkoa wa Saga</name>
+		<name normalized="Prefectura de Saga" languages="Catalan;Galician;Spanish">Prefectura de Saga</name>
+		<name normalized="Prefectura Saga" languages="Romanian">Prefectura Saga</name>
+		<name normalized="Prefektur Saga" languages="Achinese;Indonesian">Prefektur Saga</name>
+		<name normalized="Prefektura Saga" languages="Czech;Polish;Serbo-Croatian">Prefektura Saga</name>
+		<name normalized="Prefettura di Saga" languages="Italian">Prefettura di Saga</name>
+		<name normalized="Prepektura ng Saga" languages="Tagalog">Prepektura ng Saga</name>
+		<name normalized="Prepektura ti Saga" languages="Iloko">Prepektura ti Saga</name>
+		<name normalized="Prafektur Saga" languages="German">Präfektur Saga</name>
+		<name normalized="Prefecture de Saga" languages="French">Préfecture de Saga</name>
+		<name normalized="Prefektur Saga" languages="Sundanese">Préféktur Saga</name>
+		<name normalized="Saga" languages="Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Slovak;Vietnamese;Waray;Welsh">Saga</name>
+		<name normalized="Saga Prefectur" languages="Scots">Saga Prefectur</name>
+		<name normalized="Saga Prefecture" languages="English;official;Simple English">Saga Prefecture</name>
+		<name normalized="Saga prefektur" languages="Swedish">Saga prefektur</name>
+		<name normalized="Saga prefektuur" languages="Estonian">Saga prefektuur</name>
+		<name normalized="Saga prefektuvra" languages="Northern Sami">Saga prefektuvra</name>
+		<name normalized="Saga-koan" languages="Chinese (Min Nan)">Saga-koān</name>
+		<name normalized="Sagan prefektuuri" languages="Finnish">Sagan prefektuuri</name>
+		<name normalized="Sagas prefektura" languages="Latvian">Sagas prefektūra</name>
+		<name normalized="Sagos prefektura" languages="Lithuanian">Sagos prefektūra</name>
+		<name normalized="Tso-fo-yen" languages="Hakka">Tsó-fo-yen</name>
+		<name normalized="Wilayah Saga" languages="Malay">Wilayah Saga</name>
+		<name normalized="Pрiфiktuрa Сaga" languages="Serbian">Префектура Сага</name>
+		<name normalized="Pрiфiktuрa Сaґa" languages="Ukrainian">Префектура Саґа</name>
+		<name normalized="Pрiфiktuрai Сaga" languages="Tajik">Префектураи Сага</name>
+		<name normalized="Сaga" languages="Bulgarian;Macedonian;Russian">Сага</name>
+		<name normalized="אسtאن سאgא" languages="Persian">استان ساگا</name>
+		<name normalized="سאغא" languages="Arabic">ساغا</name>
+		<name normalized="سאgא" languages="Sorani Kurdish">ساگا</name>
+		<name normalized="سאgא prیfیکچr" languages="Urdu">ساگا پریفیکچر</name>
+		<name normalized="dلع سאgא" languages="Western Punjabi">ضلع ساگا</name>
+		<name normalized="sाgा" languages="Marathi">सागा</name>
+		<name normalized="จังหวัดซะงะ" languages="Thai">จังหวัดซะงะ</name>
+		<name normalized="佐賀県" languages="Japanese">佐賀県</name>
+		<name normalized="佐賀縣" languages="Cantonese">佐賀縣</name>
+		<name normalized="佐贺县" languages="Chinese">佐贺县</name>
+		<name normalized="사가 현" languages="Korean">사가 현</name>
+	</region>
+	<region name="Saitama" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Sajtama" languages="Esperanto">Gubernio Sajtama</name>
+		<name normalized="Lungsod ng Saitama" languages="Tagalog">Lungsod ng Saitama</name>
+		<name normalized="Mkoa wa Saitama" languages="Swahili">Mkoa wa Saitama</name>
+		<name normalized="Prefectura de Saitama" languages="Catalan;Galician;Spanish">Prefectura de Saitama</name>
+		<name normalized="Prefectura Saitama" languages="Romanian">Prefectura Saitama</name>
+		<name normalized="Prefektur Saitama" languages="Achinese;Indonesian">Prefektur Saitama</name>
+		<name normalized="Prefektura Saitama" languages="Czech;Polish;Serbo-Croatian">Prefektura Saitama</name>
+		<name normalized="Prefettura di Saitama" languages="Italian">Prefettura di Saitama</name>
+		<name normalized="Prepektura ng Saitama" languages="Tagalog">Prepektura ng Saitama</name>
+		<name normalized="Prepektura ti Saitama" languages="Iloko">Prepektura ti Saitama</name>
+		<name normalized="Prafektur Saitama" languages="German">Präfektur Saitama</name>
+		<name normalized="Prefecture de Saitama" languages="French">Préfecture de Saitama</name>
+		<name normalized="Saitama" languages="Afrikaans;Basque;Catalan;Croatian;Czech;Danish;Dutch;English;Estonian;Faroese;Finnish;French;Galician;German;Indonesian;Italian;Lithuanian;Malay;Maori;Norwegian (bokmal);Occitan;official;Polish;Portuguese;Quechua;Romanian;Scots;Serbo-Croatian;Simple English;Slovak;Slovenian;Spanish;Sundanese;Swahili;Swedish;Turkish;Vietnamese;Waray;Welsh">Saitama</name>
+		<name normalized="Saitama ili" languages="Turkish">Saitama ili</name>
+		<name normalized="Saitama Prefectur" languages="Scots">Saitama Prefectur</name>
+		<name normalized="Saitama Prefecture" languages="English;Novial;official;Simple English;Sundanese">Saitama Prefecture</name>
+		<name normalized="Saitama prefektur" languages="Swedish">Saitama prefektur</name>
+		<name normalized="Saitama prefektuur" languages="Estonian">Saitama prefektuur</name>
+		<name normalized="Saitama-chhi" languages="Chinese (Min Nan)">Saitama-chhī</name>
+		<name normalized="Saitama-koan" languages="Chinese (Min Nan)">Saitama-koān</name>
+		<name normalized="Saitaman prefektuuri" languages="Finnish">Saitaman prefektuuri</name>
+		<name normalized="Saitamas prefektura" languages="Latvian">Saitamas prefektūra</name>
+		<name normalized="Saitamos prefektura" languages="Lithuanian">Saitamos prefektūra</name>
+		<name normalized="Sajtama" languages="Esperanto">Sajtama</name>
+		<name normalized="Saytama" languages="Azerbaijani">Saytama</name>
+		<name normalized="Szaitama" languages="Hungarian">Szaitama</name>
+		<name normalized="Σαιταμα" languages="Greek">Σαϊτάμα</name>
+		<name normalized="Goрad Сaйtaмa" languages="Belarusian">Горад Сайтама</name>
+		<name normalized="Pрiфiktuрa Сaitaмa" languages="Serbian">Префектура Саитама</name>
+		<name normalized="Pрiфiktuрa Сaйtaмa" languages="Ukrainian">Префектура Сайтама</name>
+		<name normalized="Pрiфiktuрai Сaitaмa" languages="Tajik">Префектураи Саитама</name>
+		<name normalized="Сaitaмa" languages="Serbian;Tajik">Саитама</name>
+		<name normalized="Сaйtaмa" languages="Bulgarian;Chechen;Russian;Ukrainian">Сайтама</name>
+		<name normalized="Сaйtaмa aймag" languages="Mongolian">Сайтама аймаг</name>
+		<name normalized="Сajtaмa" languages="Macedonian">Сајтама</name>
+		<name normalized="אسtאن سאیtאmא" languages="Persian">استان سایتاما</name>
+		<name normalized="سאئیtאmא" languages="Urdu">سائیتاما</name>
+		<name normalized="سאئیtאmא prیfیکچr" languages="Urdu">سائیتاما پریفیکچر</name>
+		<name normalized="سאytאmא" languages="Arabic">سايتاما</name>
+		<name normalized="سאytאmא, سאytאmא" languages="Arabic">سايتاما، سايتاما</name>
+		<name normalized="سאیtאmא" languages="Mazanderani;Persian;Sorani Kurdish">سایتاما</name>
+		<name normalized="dلع سאئیٹאmא" languages="Western Punjabi">ضلع سائیٹاما</name>
+		<name normalized="satाmा" languages="Marathi">सैतामा</name>
+		<name normalized="จังหวัดไซตะมะ" languages="Thai">จังหวัดไซตะมะ</name>
+		<name normalized="ไซตะมะ" languages="Thai">ไซตะมะ</name>
+		<name normalized="ខេត្តសៃតាម៉ា" languages="Khmer">ខេត្តសៃតាម៉ា</name>
+		<name normalized="sitm市" languages="Japanese">さいたま市</name>
+		<name normalized="埼玉县" languages="Wu">埼玉县</name>
+		<name normalized="埼玉市" languages="Chinese">埼玉市</name>
+		<name normalized="埼玉県" languages="Japanese">埼玉県</name>
+		<name normalized="埼玉縣" languages="Cantonese;Chinese">埼玉縣</name>
+		<name normalized="사이타마 시" languages="Korean">사이타마 시</name>
+		<name normalized="사이타마 현" languages="Korean">사이타마 현</name>
+	</region>
+	<region name="Shiga" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Siga" languages="Esperanto">Gubernio Ŝiga</name>
+		<name normalized="Mkoa wa Shiga" languages="Swahili">Mkoa wa Shiga</name>
+		<name normalized="Prefectura de Shiga" languages="Catalan;Galician;Spanish">Prefectura de Shiga</name>
+		<name normalized="Prefectura Shiga" languages="Romanian">Prefectura Shiga</name>
+		<name normalized="Prefektur Shiga" languages="Achinese;Indonesian;Javanese">Prefektur Shiga</name>
+		<name normalized="Prefektura Shiga" languages="Polish;Serbo-Croatian">Prefektura Shiga</name>
+		<name normalized="Prefektura Siga" languages="Czech">Prefektura Šiga</name>
+		<name normalized="Prefettura di Shiga" languages="Italian">Prefettura di Shiga</name>
+		<name normalized="Prepektura ng Shiga" languages="Tagalog">Prepektura ng Shiga</name>
+		<name normalized="Prepektura ti Shiga" languages="Iloko">Prepektura ti Shiga</name>
+		<name normalized="Prafektur Shiga" languages="German">Präfektur Shiga</name>
+		<name normalized="Prefecture de Shiga" languages="French">Préfecture de Shiga</name>
+		<name normalized="Prefektur Shiga" languages="Sundanese">Préféktur Shiga</name>
+		<name normalized="Shiga" languages="Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Vietnamese;Waray;Welsh">Shiga</name>
+		<name normalized="Shiga Prefectur" languages="Scots">Shiga Prefectur</name>
+		<name normalized="Shiga Prefecture" languages="English;official;Simple English">Shiga Prefecture</name>
+		<name normalized="Shiga prefektur" languages="Swedish">Shiga prefektur</name>
+		<name normalized="Shiga prefektuur" languages="Estonian">Shiga prefektuur</name>
+		<name normalized="Shigan prefektuuri" languages="Finnish">Shigan prefektuuri</name>
+		<name normalized="Siga" languages="Latin">Siga</name>
+		<name normalized="Siga prefektura" languages="Hungarian">Siga prefektúra</name>
+		<name normalized="Siga-koan" languages="Chinese (Min Nan)">Siga-koān</name>
+		<name normalized="Sigas prefektura" languages="Latvian">Sigas prefektūra</name>
+		<name normalized="Tsuˆ-fo-yen" languages="Hakka">Tsṳ̂-fo-yen</name>
+		<name normalized="Wilayah Shiga" languages="Malay">Wilayah Shiga</name>
+		<name normalized="Siga" languages="Slovak">Šiga</name>
+		<name normalized="Sigos prefektura" languages="Lithuanian">Šigos prefektūra</name>
+		<name normalized="Pрiфiktuрa Siga" languages="Serbian">Префектура Шига</name>
+		<name normalized="Pрiфiktuрa Siґa" languages="Ukrainian">Префектура Шіґа</name>
+		<name normalized="Pрiфiktuрai Siga" languages="Tajik">Префектураи Шига</name>
+		<name normalized="Сiga" languages="Russian">Сига</name>
+		<name normalized="Siga" languages="Bulgarian;Macedonian;Mongolian">Шига</name>
+		<name normalized="אسtאن شیgא" languages="Persian">استان شیگا</name>
+		<name normalized="شyغא" languages="Arabic">شيغا</name>
+		<name normalized="شیgא" languages="Sorani Kurdish">شیگا</name>
+		<name normalized="شیgא prیfیکچr" languages="Urdu">شیگا پریفیکچر</name>
+		<name normalized="dلع شیgא" languages="Western Punjabi">ضلع شیگا</name>
+		<name normalized="sigा" languages="Marathi">शिगा</name>
+		<name normalized="จังหวัดชิงะ" languages="Thai">จังหวัดชิงะ</name>
+		<name normalized="滋賀県" languages="Japanese">滋賀県</name>
+		<name normalized="滋賀縣" languages="Cantonese">滋賀縣</name>
+		<name normalized="滋贺县" languages="Chinese">滋贺县</name>
+		<name normalized="시가 현" languages="Korean">시가 현</name>
+	</region>
+	<region name="Shimane" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Simane" languages="Esperanto">Gubernio Ŝimane</name>
+		<name normalized="Mkoa wa Shimane" languages="Swahili">Mkoa wa Shimane</name>
+		<name normalized="Prefectura de Shimane" languages="Catalan;Galician;Spanish">Prefectura de Shimane</name>
+		<name normalized="Prefectura Shimane" languages="Romanian">Prefectura Shimane</name>
+		<name normalized="Prefektur Shimane" languages="Achinese;Indonesian">Prefektur Shimane</name>
+		<name normalized="Prefektura Shimane" languages="Polish;Serbo-Croatian">Prefektura Shimane</name>
+		<name normalized="Prefektura Simane" languages="Czech">Prefektura Šimane</name>
+		<name normalized="Prefettura di Shimane" languages="Italian">Prefettura di Shimane</name>
+		<name normalized="Prepektura ng Shimane" languages="Tagalog">Prepektura ng Shimane</name>
+		<name normalized="Prepektura ti Shimane" languages="Iloko">Prepektura ti Shimane</name>
+		<name normalized="Prafektur Shimane" languages="German">Präfektur Shimane</name>
+		<name normalized="Prefecture de Shimane" languages="French">Préfecture de Shimane</name>
+		<name normalized="Shimane" languages="Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Vietnamese;Waray;Welsh">Shimane</name>
+		<name normalized="Shimane Prefectur" languages="Scots">Shimane Prefectur</name>
+		<name normalized="Shimane Prefecture" languages="English;official;Simple English;Sundanese">Shimane Prefecture</name>
+		<name normalized="Shimane prefektur" languages="Swedish">Shimane prefektur</name>
+		<name normalized="Shimane prefektuur" languages="Estonian">Shimane prefektuur</name>
+		<name normalized="Shimanen prefektuuri" languages="Finnish">Shimanen prefektuuri</name>
+		<name normalized="Simane" languages="Azerbaijani">Simane</name>
+		<name normalized="Simane-koan" languages="Chinese (Min Nan)">Simane-koān</name>
+		<name normalized="Simanes prefektura" languages="Latvian">Simanes prefektūra</name>
+		<name normalized="To-kin-yen" languages="Hakka">Tó-kîn-yen</name>
+		<name normalized="Wilayah Shimane" languages="Malay">Wilayah Shimane</name>
+		<name normalized="Simane" languages="Slovak">Šimane</name>
+		<name normalized="Simanes prefektura" languages="Lithuanian">Šimanės prefektūra</name>
+		<name normalized="Pрiфiktuрa Siмaнi" languages="Serbian">Префектура Шимане</name>
+		<name normalized="Pрiфiktuрa Siмaнi" languages="Ukrainian">Префектура Шімане</name>
+		<name normalized="Pрiфiktuрai Siмaнi" languages="Tajik">Префектураи Шимане</name>
+		<name normalized="Сiмaнe" languages="Russian">Симанэ</name>
+		<name normalized="Siмaнi" languages="Bulgarian;Macedonian">Шимане</name>
+		<name normalized="אسtאن شیmאنh" languages="Persian">استان شیمانه</name>
+		<name normalized="شymאنh" languages="Arabic">شيمانه</name>
+		<name normalized="شیmאنێ" languages="Sorani Kurdish">شیمانێ</name>
+		<name normalized="شیmאنے prیfیکچr" languages="Urdu">شیمانے پریفیکچر</name>
+		<name normalized="dلع شیmאنے" languages="Western Punjabi">ضلع شیمانے</name>
+		<name normalized="simाne" languages="Marathi">शिमाने</name>
+		<name normalized="จังหวัดชิมะเนะ" languages="Thai">จังหวัดชิมะเนะ</name>
+		<name normalized="ខេត្តស៊ីម៉ាណិ" languages="Khmer">ខេត្តស៊ីម៉ាណិ</name>
+		<name normalized="岛根县" languages="Chinese">岛根县</name>
+		<name normalized="島根県" languages="Japanese">島根県</name>
+		<name normalized="島根縣" languages="Cantonese">島根縣</name>
+		<name normalized="시마네 현" languages="Korean">시마네 현</name>
+	</region>
+	<region name="Shizuoka" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Sizuoka" languages="Esperanto">Gubernio Ŝizuoka</name>
+		<name normalized="Mkoa wa Shizuoka" languages="Swahili">Mkoa wa Shizuoka</name>
+		<name normalized="Prefectura de Shizuoka" languages="Catalan;Galician;Spanish">Prefectura de Shizuoka</name>
+		<name normalized="Prefectura Shizuoka" languages="Romanian">Prefectura Shizuoka</name>
+		<name normalized="Prefektur Shizuoka" languages="Achinese;Indonesian;Javanese">Prefektur Shizuoka</name>
+		<name normalized="Prefektura Shizuoka" languages="Polish;Serbo-Croatian">Prefektura Shizuoka</name>
+		<name normalized="Prefektura Sizuoka" languages="Czech;Slovenian">Prefektura Šizuoka</name>
+		<name normalized="Prefettura di Shizuoka" languages="Italian">Prefettura di Shizuoka</name>
+		<name normalized="Prepektura ng Shizuoka" languages="Tagalog">Prepektura ng Shizuoka</name>
+		<name normalized="Prepektura ti Shizuoka" languages="Iloko">Prepektura ti Shizuoka</name>
+		<name normalized="Prafektur Shizuoka" languages="German">Präfektur Shizuoka</name>
+		<name normalized="Prefecture de Shizuoka" languages="French">Préfecture de Shizuoka</name>
+		<name normalized="Prefektur Shizuoka" languages="Sundanese">Préféktur Shizuoka</name>
+		<name normalized="Shizuoka" languages="Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Vietnamese;Waray;Welsh">Shizuoka</name>
+		<name normalized="Shizuoka Prefectur" languages="Scots">Shizuoka Prefectur</name>
+		<name normalized="Shizuoka Prefecture" languages="English;Novial;official;Simple English">Shizuoka Prefecture</name>
+		<name normalized="Shizuoka prefektur" languages="Swedish">Shizuoka prefektur</name>
+		<name normalized="Shizuoka prefektuur" languages="Estonian">Shizuoka prefektuur</name>
+		<name normalized="Shizuoka-umdaemi" languages="Icelandic">Shizuoka-umdæmi</name>
+		<name normalized="Shizuokan prefektuuri" languages="Finnish">Shizuokan prefektuuri</name>
+		<name normalized="Sidzuoka" languages="Azerbaijani">Sidzuoka</name>
+		<name normalized="Sidzuokas prefektura" languages="Latvian">Sidzuokas prefektūra</name>
+		<name normalized="Sizuoka prefektura" languages="Hungarian">Sizuoka prefektúra</name>
+		<name normalized="Sizuoka-koan" languages="Chinese (Min Nan)">Sizuoka-koān</name>
+		<name normalized="Wilayah Shizuoka" languages="Malay">Wilayah Shizuoka</name>
+		<name normalized="Sidzuokos prefektura" languages="Lithuanian">Šidzuokos prefektūra</name>
+		<name normalized="Sizuoka" languages="Slovak">Šizuoka</name>
+		<name normalized="Pрiфiktuрa Sizuoka" languages="Serbian">Префектура Шизуока</name>
+		<name normalized="Pрiфiktuрa Sidzuoka" languages="Ukrainian">Префектура Шідзуока</name>
+		<name normalized="Pрiфiktuрai Sizuoka" languages="Tajik">Префектураи Шизуока</name>
+		<name normalized="Сidzuoka" languages="Russian">Сидзуока</name>
+		<name normalized="Sidzuoka" languages="Bulgarian">Шидзуока</name>
+		<name normalized="Sizuoka" languages="Macedonian">Шизуока</name>
+		<name normalized="אسtאن شیزوئوکא" languages="Persian">استان شیزوئوکا</name>
+		<name normalized="شyزوkא" languages="Arabic">شيزوكا</name>
+		<name normalized="شیزوئۆکא" languages="Sorani Kurdish">شیزوئۆکا</name>
+		<name normalized="شیزوکא prیfیکچr" languages="Urdu">شیزوکا پریفیکچر</name>
+		<name normalized="dلع شیزوکא" languages="Western Punjabi">ضلع شیزوکا</name>
+		<name normalized="sijuokा" languages="Marathi">शिझुओका</name>
+		<name normalized="จังหวัดชิซุโอะกะ" languages="Thai">จังหวัดชิซุโอะกะ</name>
+		<name normalized="静冈县" languages="Wu">静冈县</name>
+		<name normalized="静岡県" languages="Japanese">静岡県</name>
+		<name normalized="靜岡縣" languages="Cantonese;Chinese">靜岡縣</name>
+		<name normalized="시즈오카 현" languages="Korean">시즈오카 현</name>
+	</region>
+	<region name="Tochigi" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Tocigi" languages="Esperanto">Gubernio Toĉigi</name>
+		<name normalized="Mkoa wa Tochigi" languages="Swahili">Mkoa wa Tochigi</name>
+		<name normalized="Prefectura de Tochigi" languages="Catalan;Galician;Spanish">Prefectura de Tochigi</name>
+		<name normalized="Prefectura Tochigi" languages="Romanian">Prefectura Tochigi</name>
+		<name normalized="Prefektur Tochigi" languages="Achinese;Indonesian">Prefektur Tochigi</name>
+		<name normalized="Prefektura Tochigi" languages="Polish;Serbo-Croatian">Prefektura Tochigi</name>
+		<name normalized="Prefektura Tocigi" languages="Czech">Prefektura Točigi</name>
+		<name normalized="Prefettura di Tochigi" languages="Italian">Prefettura di Tochigi</name>
+		<name normalized="Prepektura ng Tochigi" languages="Tagalog">Prepektura ng Tochigi</name>
+		<name normalized="Prepektura ti Tochigi" languages="Iloko">Prepektura ti Tochigi</name>
+		<name normalized="Prafektur Tochigi" languages="German">Präfektur Tochigi</name>
+		<name normalized="Prefecture de Tochigi" languages="French">Préfecture de Tochigi</name>
+		<name normalized="Tochigi" languages="Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Vietnamese;Waray;Welsh">Tochigi</name>
+		<name normalized="Tochigi Prefectur" languages="Scots">Tochigi Prefectur</name>
+		<name normalized="Tochigi Prefecture" languages="English;official;Simple English;Sundanese">Tochigi Prefecture</name>
+		<name normalized="Tochigi prefektur" languages="Swedish">Tochigi prefektur</name>
+		<name normalized="Tochigi prefektuur" languages="Estonian">Tochigi prefektuur</name>
+		<name normalized="Tochigin prefektuuri" languages="Finnish">Tochigin prefektuuri</name>
+		<name normalized="Totigi-koan" languages="Chinese (Min Nan)">Totigi-koān</name>
+		<name normalized="Tociqi" languages="Azerbaijani">Toçiqi</name>
+		<name normalized="Tocigi" languages="Slovak">Točigi</name>
+		<name normalized="Tocigi prefektura" languages="Latvian">Točigi prefektūra</name>
+		<name normalized="Tocigio prefektura" languages="Lithuanian">Točigio prefektūra</name>
+		<name normalized="Wilayah Tochigi" languages="Malay">Wilayah Tochigi</name>
+		<name normalized="Pрiфiktuрa Tocigi" languages="Serbian">Префектура Точиги</name>
+		<name normalized="Pрiфiktuрa Tociґi" languages="Ukrainian">Префектура Точіґі</name>
+		<name normalized="Pрiфiktuрai Tocigi" languages="Tajik">Префектураи Точиги</name>
+		<name normalized="Totigi" languages="Russian">Тотиги</name>
+		<name normalized="Tocigi" languages="Bulgarian;Macedonian">Точиги</name>
+		<name normalized="אسtאن tوچیgی" languages="Persian">استان توچیگی</name>
+		<name normalized="tوtشyغy" languages="Arabic">توتشيغي</name>
+		<name normalized="tوچىgى نאھىyىسى" languages="Uyghur">توچىگى ناھىيىسى</name>
+		<name normalized="tوچیgی אسtאن" languages="Mazanderani">توچیگی استان</name>
+		<name normalized="tوچیgی prیfیکچr" languages="Urdu">توچیگی پریفیکچر</name>
+		<name normalized="tۆچیgی" languages="Sorani Kurdish">تۆچیگی</name>
+		<name normalized="dلع ٹوچیgی" languages="Western Punjabi">ضلع ٹوچیگی</name>
+		<name normalized="tocigi" languages="Marathi">तोचिगी</name>
+		<name normalized="จังหวัดโทะชิงิ" languages="Thai">จังหวัดโทะชิงิ</name>
+		<name normalized="栃木県" languages="Japanese">栃木県</name>
+		<name normalized="栃木縣" languages="Cantonese;Chinese">栃木縣</name>
+		<name normalized="도치기 현" languages="Korean">도치기 현</name>
+	</region>
+	<region name="Tokushima" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Tokusima" languages="Esperanto">Gubernio Tokuŝima</name>
+		<name normalized="Lungsod ng Tokushima" languages="Tagalog">Lungsod ng Tokushima</name>
+		<name normalized="Mkoa wa Tokushima" languages="Swahili">Mkoa wa Tokushima</name>
+		<name normalized="Prefectura de Tokushima" languages="Catalan;Galician;Spanish">Prefectura de Tokushima</name>
+		<name normalized="Prefectura Tokushima" languages="Romanian">Prefectura Tokushima</name>
+		<name normalized="Prefektur Tokushima" languages="Achinese;Indonesian;Javanese">Prefektur Tokushima</name>
+		<name normalized="Prefektura Tokushima" languages="Polish;Serbo-Croatian">Prefektura Tokushima</name>
+		<name normalized="Prefektura Tokusima" languages="Czech">Prefektura Tokušima</name>
+		<name normalized="Prefettura di Tokushima" languages="Italian">Prefettura di Tokushima</name>
+		<name normalized="Prepektura ng Tokushima" languages="Tagalog">Prepektura ng Tokushima</name>
+		<name normalized="Prepektura ti Tokushima" languages="Iloko">Prepektura ti Tokushima</name>
+		<name normalized="Prafektur Tokushima" languages="German">Präfektur Tokushima</name>
+		<name normalized="Prefecture de Tokushima" languages="French">Préfecture de Tokushima</name>
+		<name normalized="Tet-to-yen" languages="Hakka">Tet-tó-yen</name>
+		<name normalized="Tokushima" languages="Basque;Croatian;Dutch;English;Finnish;French;Galician;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Quechua;Romanian;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Vietnamese;Waray;Welsh">Tokushima</name>
+		<name normalized="Tokushima Prefectur" languages="Scots">Tokushima Prefectur</name>
+		<name normalized="Tokushima Prefecture" languages="English;official;Simple English;Sundanese">Tokushima Prefecture</name>
+		<name normalized="Tokushima prefektur" languages="Swedish">Tokushima prefektur</name>
+		<name normalized="Tokushima prefektuur" languages="Estonian">Tokushima prefektuur</name>
+		<name normalized="Tokushiman prefektuuri" languages="Finnish">Tokushiman prefektuuri</name>
+		<name normalized="Tokusima" languages="Azerbaijani">Tokusima</name>
+		<name normalized="Tokusima-chhi" languages="Chinese (Min Nan)">Tokusima-chhī</name>
+		<name normalized="Tokusima-koan" languages="Chinese (Min Nan)">Tokusima-koān</name>
+		<name normalized="Tokusimas prefektura" languages="Latvian">Tokusimas prefektūra</name>
+		<name normalized="Tokusima" languages="Esperanto">Tokuŝima</name>
+		<name normalized="Tokusima" languages="Czech;Lithuanian">Tokušima</name>
+		<name normalized="Tokusimos prefektura" languages="Lithuanian">Tokušimos prefektūra</name>
+		<name normalized="Wilayah Tokushima" languages="Malay">Wilayah Tokushima</name>
+		<name normalized="Goрad Takuсiмa" languages="Belarusian">Горад Такусіма</name>
+		<name normalized="Pрiфiktuрa Tokusiмa" languages="Serbian">Префектура Токушима</name>
+		<name normalized="Pрiфiktuрa Tokusiмa" languages="Ukrainian">Префектура Токушіма</name>
+		<name normalized="Pрiфiktuрai Tokusiмa" languages="Tajik">Префектураи Токушима</name>
+		<name normalized="Tokuсiмa" languages="Russian">Токусима</name>
+		<name normalized="Tokusiмa" languages="Bulgarian;Macedonian;Serbian;Tajik">Токушима</name>
+		<name normalized="Tokusiмa" languages="Ukrainian">Токушіма</name>
+		<name normalized="אسtאن tوکوشیmא" languages="Persian">استان توکوشیما</name>
+		<name normalized="tوkوشymא" languages="Arabic">توكوشيما</name>
+		<name normalized="tوکوشیmא" languages="Mazanderani;Persian;Urdu">توکوشیما</name>
+		<name normalized="tوکوشیmא prیfیکچr" languages="Urdu">توکوشیما پریفیکچر</name>
+		<name normalized="tۆکوشیmא" languages="Sorani Kurdish">تۆکوشیما</name>
+		<name normalized="dلع ٹوکوشیmא" languages="Western Punjabi">ضلع ٹوکوشیما</name>
+		<name normalized="tokusimा" languages="Marathi">तोकुशिमा</name>
+		<name normalized="จังหวัดโทะกุชิมะ" languages="Thai">จังหวัดโทะกุชิมะ</name>
+		<name normalized="โทะกุชิมะ" languages="Thai">โทะกุชิมะ</name>
+		<name normalized="徳島市" languages="Japanese">徳島市</name>
+		<name normalized="徳島県" languages="Japanese">徳島県</name>
+		<name normalized="德岛县" languages="Chinese">德岛县</name>
+		<name normalized="德島市" languages="Chinese">德島市</name>
+		<name normalized="德島縣" languages="Cantonese">德島縣</name>
+		<name normalized="도쿠시마 시" languages="Korean">도쿠시마 시</name>
+		<name normalized="도쿠시마 현" languages="Korean">도쿠시마 현</name>
+	</region>
+	<region name="Tokyo" type="prefecture" typeTranslated="prefecture">
+		<name normalized="De¨ng-ging" languages="Min Dong Chinese">Dĕ̤ng-gĭng</name>
+		<name normalized="ITokyo" languages="Zulu">ITokyo</name>
+		<name normalized="Prefectura de Toquio" languages="Occitan">Prefectura de Tòquio</name>
+		<name normalized="Prefektura Tokio" languages="Czech">Prefektura Tokio</name>
+		<name normalized="Prafektur Tokio" languages="German">Präfektur Tokio</name>
+		<name normalized="Tang-kian-to͘" languages="Chinese (Min Nan)">Tang-kiaⁿ-to͘</name>
+		<name normalized="Tochiu" languages="Sicilian">Tochiu</name>
+		<name normalized="Togjo" languages="Palzisch">Togjo</name>
+		<name normalized="Tokia Gubernio" languages="Esperanto">Tokia Gubernio</name>
+		<name normalized="Tokija" languages="Latvian">Tokija</name>
+		<name normalized="Tokijas" languages="Lithuanian">Tokijas</name>
+		<name normalized="Tokijo" languages="Serbo-Croatian">Tokijo</name>
+		<name normalized="Tokio" languages="Afrikaans;Alemannisch;Aragonese;Asturian;Azerbaijani;Basque;Bavarian;Bosnian;Croatian;Dutch;Esperanto;Finnish;Guarani;Ladino;Limburgish;Low German;Low Saxon (Netherlands);Lower Sorbian;Luxembourgish;Polish;Romanian;Romansh;Sardinian;Seeltersk;Slovak;Slovenian;Spanish;Turkmen;Upper Sorbian;Uzbek;Voro;Western Frisian">Tokio</name>
+		<name normalized="tokios" languages="Lojban">tokios</name>
+		<name normalized="Tokium" languages="Latin">Tokium</name>
+		<name normalized="Tokio" languages="Hungarian">Tokió</name>
+		<name normalized="Tokjo" languages="Albanian;Maltese;Silesian">Tokjo</name>
+		<name normalized="Tokyo" languages="Aromanian;Aymara;Banjar;Breton;Cornish;Crimean Turkish;Danish;English;Faroese;Fiji Hindi;French;Haitian;Ido;Iloko;Indonesian;Interlingua;Italian;Javanese;Kabyle;Kalaallisut;Kinyarwanda;Kurdish;Lingala;lumbaart;Malagasy;Malay;Maori;Minangkabau;Nauru;Neapolitan;Norfuk / Pitkern;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Papiamento;Piedmontese;Quechua;Scots;Scottish Gaelic;Shona;Simple English;Somali;Sundanese;Swahili;Tagalog;Tahitian;tarandine;Tok Pisin;Turkish;Twi;Vietnamese;Volapuk;veneto;Waray;Welsh;Yoruba;Zazaki">Tokyo</name>
+		<name normalized="Tokyo Prefecture" languages="English;official;Simple English">Tokyo Prefecture</name>
+		<name normalized="Tokyo prefektur" languages="Swedish">Tokyo prefektur</name>
+		<name normalized="Tokyo-fu" languages="French">Tokyo-fu</name>
+		<name normalized="Tokyo" languages="Achinese">Tokyô</name>
+		<name normalized="Tokejes" languages="Samogitian">Tokėjės</name>
+		<name normalized="Toquio" languages="Galician">Toquio</name>
+		<name normalized="Tokyo" languages="Ligure">Tòkyo</name>
+		<name normalized="Toquio" languages="Catalan">Tòquio</name>
+		<name normalized="Toiceo" languages="Irish">Tóiceo</name>
+		<name normalized="Tokyo" languages="Icelandic">Tókýó</name>
+		<name normalized="Toquio" languages="Mirandese;Portuguese">Tóquio</name>
+		<name normalized="Toquiu" languages="Extremaduran">Tóquiu</name>
+		<name normalized="Tokyo" languages="Interlingue">Tōkyō</name>
+		<name normalized="Tokyo prefektuur" languages="Estonian">Tōkyō prefektuur</name>
+		<name normalized="Toquio" languages="Nahuatl">Tōquiō</name>
+		<name normalized="Τοκιο" languages="Greek">Τόκιο</name>
+		<name normalized="Goрad Tokia" languages="Belarusian">Горад Токіа</name>
+		<name normalized="Pрiфiktuрai Tokio" languages="Tajik">Префектураи Токио</name>
+		<name normalized="Tokio" languages="Bashkir;Bulgarian;Chechen;Chuvash;Eastern Mari;Hill Mari;Kazakh;Lezghian;Macedonian;Moksha;Mongolian;Ossetic;Russian;Sakha;Serbian;Tatar;Udmurt;buрiad">Токио</name>
+		<name normalized="Tokio os" languages="Erzya">Токио ош</name>
+		<name normalized="Tokё" languages="Moldavian">Токё</name>
+		<name normalized="Tokio" languages="Rusyn;Ukrainian">Токіо</name>
+		<name normalized="Tokiё" languages="biлaрuсkai (taрaskivita)‎">Токіё</name>
+		<name normalized="Tvkիv" languages="Armenian">Տոկիո</name>
+		<name normalized="tאqיא" languages="Yiddish">טאקיא</name>
+		<name normalized="tvqיv" languages="Hebrew">טוקיו</name>
+		<name normalized="tوkyو" languages="Uyghur">توكيو</name>
+		<name normalized="tوکyو" languages="Mazanderani;Pashto">توکيو</name>
+		<name normalized="tوکیو" languages="Persian;Urdu">توکیو</name>
+		<name normalized="tۆکیۆ" languages="Sorani Kurdish">تۆکیۆ</name>
+		<name normalized="tوkyو" languages="Arabic;Egyptian Spoken Arabic">طوكيو</name>
+		<name normalized="ٹوکیو" languages="Western Punjabi">ٹوکیو</name>
+		<name normalized="ܛܘܩܝܘ" languages="Aramaic">ܛܘܩܝܘ</name>
+		<name normalized="टokiyo" languages="Nepali">टोकियो</name>
+		<name normalized="टok्yo" languages="Hindi">टोक्यो</name>
+		<name normalized="tok्yo" languages="Marathi;Newari">तोक्यो</name>
+		<name normalized="টokio" languages="Bengali">টোকিও</name>
+		<name normalized="ਟੋkiਓ" languages="Punjabi">ਟੋਕੀਓ</name>
+		<name normalized="ଟୋକିଓ" languages="Oriya">ଟୋକିଓ</name>
+		<name normalized="தோக்கியோ" languages="Tamil">தோக்கியோ</name>
+		<name normalized="టోక్యో" languages="Telugu">టోక్యో</name>
+		<name normalized="ಟೋಕ್ಯೊ" languages="Kannada">ಟೋಕ್ಯೊ</name>
+		<name normalized="ടോക്കിയോ" languages="Malayalam">ടോക്കിയോ</name>
+		<name normalized="ටෝකියෝ" languages="Sinhala">ටෝකියෝ</name>
+		<name normalized="โตเกียว" languages="Thai">โตเกียว</name>
+		<name normalized="ໂຕກຽວ" languages="Lao">ໂຕກຽວ</name>
+		<name normalized="ཐོ་ཁེ་ཡོ།" languages="Tibetan">ཐོ་ཁེ་ཡོ།</name>
+		<name normalized="တိုကျိုမြို့" languages="Burmese">တိုကျိုမြို့</name>
+		<name normalized="ტოკიო" languages="Georgian;Mingrelian">ტოკიო</name>
+		<name normalized="ቶክዮ" languages="Amharic">ቶክዮ</name>
+		<name normalized="ᏙᎩᏲ" languages="Cherokee">ᏙᎩᏲ</name>
+		<name normalized="ᑑᑭᐅ" languages="Inuktitut">ᑑᑭᐅ</name>
+		<name normalized="ទីក្រុងតូខ្យូ" languages="Khmer">ទីក្រុងតូខ្យូ</name>
+		<name normalized="东京都" languages="Wu">东京都</name>
+		<name normalized="東京" languages="Gan">東京</name>
+		<name normalized="東京府" languages="Chinese;Japanese">東京府</name>
+		<name normalized="東京都" languages="Cantonese;Chinese;Classical Chinese;Japanese">東京都</name>
+		<name normalized="도쿄 도" languages="Korean">도쿄 도</name>
+		<name normalized="도쿄 부" languages="Korean">도쿄 부</name>
+	</region>
+	<region name="Tottori" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Tottori" languages="Esperanto">Gubernio Tottori</name>
+		<name normalized="Mkoa wa Tottori" languages="Swahili">Mkoa wa Tottori</name>
+		<name normalized="Prefectura de Tottori" languages="Catalan;Galician;Spanish">Prefectura de Tottori</name>
+		<name normalized="Prefectura Tottori" languages="Romanian">Prefectura Tottori</name>
+		<name normalized="Prefektur Tottori" languages="Achinese;Indonesian;Javanese">Prefektur Tottori</name>
+		<name normalized="Prefektura Tottori" languages="Czech;Polish;Serbo-Croatian">Prefektura Tottori</name>
+		<name normalized="Prefettura di Tottori" languages="Italian">Prefettura di Tottori</name>
+		<name normalized="Prepektura ng Tottori" languages="Tagalog">Prepektura ng Tottori</name>
+		<name normalized="Prepektura ti Tottori" languages="Iloko">Prepektura ti Tottori</name>
+		<name normalized="Prafektur Tottori" languages="German">Präfektur Tottori</name>
+		<name normalized="Prefecture de Tottori" languages="French">Préfecture de Tottori</name>
+		<name normalized="Tiau-tshi-yen" languages="Hakka">Tiâu-tshí-yen</name>
+		<name normalized="Totori prefektura" languages="Latvian">Totori prefektūra</name>
+		<name normalized="Totorio prefektura" languages="Lithuanian">Totorio prefektūra</name>
+		<name normalized="Tottori" languages="Azerbaijani;Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Slovak;Vietnamese;Waray;Welsh">Tottori</name>
+		<name normalized="Tottori Prefectur" languages="Scots">Tottori Prefectur</name>
+		<name normalized="Tottori Prefecture" languages="English;official;Simple English;Sundanese">Tottori Prefecture</name>
+		<name normalized="Tottori prefektur" languages="Swedish">Tottori prefektur</name>
+		<name normalized="Tottori prefektuur" languages="Estonian">Tottori prefektuur</name>
+		<name normalized="Tottori-koan" languages="Chinese (Min Nan)">Tottori-koān</name>
+		<name normalized="Tottorin prefektuuri" languages="Finnish">Tottorin prefektuuri</name>
+		<name normalized="Wilayah Tottori" languages="Malay">Wilayah Tottori</name>
+		<name normalized="Pрiфiktuрa Totoрi" languages="Serbian">Префектура Тотори</name>
+		<name normalized="Pрiфiktuрa Tottoрi" languages="Ukrainian">Префектура Тотторі</name>
+		<name normalized="Pрiфiktuрai Tottoрi" languages="Tajik">Префектураи Тоттори</name>
+		<name normalized="Totoрi" languages="Bulgarian;Macedonian">Тотори</name>
+		<name normalized="Tottoрi" languages="Russian">Тоттори</name>
+		<name normalized="אسtאن tوtوrی" languages="Persian">استان توتوری</name>
+		<name normalized="tوtوry" languages="Arabic">توتوري</name>
+		<name normalized="tوtوrی prیfیکچr" languages="Urdu">توتوری پریفیکچر</name>
+		<name normalized="tۆtۆrی" languages="Sorani Kurdish">تۆتۆری</name>
+		<name normalized="dلع ٹوٹوrی" languages="Western Punjabi">ضلع ٹوٹوری</name>
+		<name normalized="totori" languages="Marathi">तोतोरी</name>
+		<name normalized="จังหวัดทตโตะริ" languages="Thai">จังหวัดทตโตะริ</name>
+		<name normalized="鳥取県" languages="Japanese">鳥取県</name>
+		<name normalized="鳥取縣" languages="Cantonese;Chinese">鳥取縣</name>
+		<name normalized="돗토리 현" languages="Korean">돗토리 현</name>
+	</region>
+	<region name="Toyama" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Tojama" languages="Esperanto">Gubernio Tojama</name>
+		<name normalized="Mkoa wa Toyama" languages="Swahili">Mkoa wa Toyama</name>
+		<name normalized="Prefectura de Toyama" languages="Catalan;Galician;Spanish">Prefectura de Toyama</name>
+		<name normalized="Prefectura Toyama" languages="Romanian">Prefectura Toyama</name>
+		<name normalized="Prefektur Toyama" languages="Achinese;Indonesian">Prefektur Toyama</name>
+		<name normalized="Prefektura Tojama" languages="Czech;Serbo-Croatian">Prefektura Tojama</name>
+		<name normalized="Prefektura Toyama" languages="Polish">Prefektura Toyama</name>
+		<name normalized="Prefettura di Toyama" languages="Italian">Prefettura di Toyama</name>
+		<name normalized="Prepektura ng Toyama" languages="Tagalog">Prepektura ng Toyama</name>
+		<name normalized="Prepektura ti Toyama" languages="Iloko">Prepektura ti Toyama</name>
+		<name normalized="Prafektur Toyama" languages="German">Präfektur Toyama</name>
+		<name normalized="Prefecture de Toyama" languages="French">Préfecture de Toyama</name>
+		<name normalized="Tojama" languages="Slovak">Tojama</name>
+		<name normalized="Tojama prefektura" languages="Hungarian">Tojama prefektúra</name>
+		<name normalized="Tojamas prefektura" languages="Latvian">Tojamas prefektūra</name>
+		<name normalized="Tojamos prefektura" languages="Lithuanian">Tojamos prefektūra</name>
+		<name normalized="Toyama" languages="Azerbaijani;Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Vietnamese;Waray;Welsh">Toyama</name>
+		<name normalized="Toyama Prefectur" languages="Scots">Toyama Prefectur</name>
+		<name normalized="Toyama Prefecture" languages="English;official;Simple English;Sundanese">Toyama Prefecture</name>
+		<name normalized="Toyama prefektur" languages="Swedish">Toyama prefektur</name>
+		<name normalized="Toyama prefektuur" languages="Estonian">Toyama prefektuur</name>
+		<name normalized="Toyama-koan" languages="Chinese (Min Nan)">Toyama-koān</name>
+		<name normalized="Toyaman prefektuuri" languages="Finnish">Toyaman prefektuuri</name>
+		<name normalized="Wilayah Toyama" languages="Malay">Wilayah Toyama</name>
+		<name normalized="Pрiфiktuрa Toiмa" languages="Ukrainian">Префектура Тояма</name>
+		<name normalized="Pрiфiktuрa Tojaмa" languages="Serbian">Префектура Тојама</name>
+		<name normalized="Pрiфiktuрai Toiмa" languages="Tajik">Префектураи Тояма</name>
+		<name normalized="Toiмa" languages="Bulgarian;Russian">Тояма</name>
+		<name normalized="Tojaмa" languages="Macedonian">Тојама</name>
+		<name normalized="Tvյաmա" languages="Armenian">Տոյամա</name>
+		<name normalized="אسtאن tویאmא" languages="Persian">استان تویاما</name>
+		<name normalized="tوyאmא" languages="Arabic">توياما</name>
+		<name normalized="tویאmא prیfیکچr" languages="Urdu">تویاما پریفیکچر</name>
+		<name normalized="tۆیאmא" languages="Sorani Kurdish">تۆیاما</name>
+		<name normalized="dلع ٹویאmא" languages="Western Punjabi">ضلع ٹویاما</name>
+		<name normalized="toyाmा" languages="Marathi">तोयामा</name>
+		<name normalized="toyाmा p्rbाg" languages="Hindi">तोयामा प्रभाग</name>
+		<name normalized="จังหวัดโทะยะมะ" languages="Thai">จังหวัดโทะยะมะ</name>
+		<name normalized="富山県" languages="Japanese">富山県</name>
+		<name normalized="富山縣" languages="Cantonese;Chinese">富山縣</name>
+		<name normalized="도야마 현" languages="Korean">도야마 현</name>
+	</region>
+	<region name="Wakayama" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Uakajama" languages="Esperanto">Gubernio Ŭakajama</name>
+		<name normalized="Mkoa wa Wakayama" languages="Swahili">Mkoa wa Wakayama</name>
+		<name normalized="Prefectura de Wakayama" languages="Catalan;Galician;Spanish">Prefectura de Wakayama</name>
+		<name normalized="Prefectura Wakayama" languages="Romanian">Prefectura Wakayama</name>
+		<name normalized="Prefektur Wakayama" languages="Achinese;Indonesian;Javanese">Prefektur Wakayama</name>
+		<name normalized="Prefektura Vakajama" languages="Serbo-Croatian">Prefektura Vakajama</name>
+		<name normalized="Prefektura Wakajama" languages="Czech">Prefektura Wakajama</name>
+		<name normalized="Prefektura Wakayama" languages="Polish">Prefektura Wakayama</name>
+		<name normalized="Prefettura di Wakayama" languages="Italian">Prefettura di Wakayama</name>
+		<name normalized="Prepektura ng Wakayama" languages="Tagalog">Prepektura ng Wakayama</name>
+		<name normalized="Prepektura ti Wakayama" languages="Iloko">Prepektura ti Wakayama</name>
+		<name normalized="Prafektur Wakayama" languages="German">Präfektur Wakayama</name>
+		<name normalized="Prefecture de Wakayama" languages="French">Préfecture de Wakayama</name>
+		<name normalized="Vakajamas prefektura" languages="Latvian">Vakajamas prefektūra</name>
+		<name normalized="Vakajamos prefektura" languages="Lithuanian">Vakajamos prefektūra</name>
+		<name normalized="Vakayama" languages="Azerbaijani">Vakayama</name>
+		<name normalized="Wakajama" languages="Slovak">Wakajama</name>
+		<name normalized="Wakayama" languages="Basque;Croatian;Dutch;English;Latin;Norwegian (bokmal);official;Portuguese;Vietnamese;Waray;Welsh">Wakayama</name>
+		<name normalized="Wakayama Prefectur" languages="Scots">Wakayama Prefectur</name>
+		<name normalized="Wakayama Prefecture" languages="English;official;Simple English;Sundanese">Wakayama Prefecture</name>
+		<name normalized="Wakayama prefektur" languages="Swedish">Wakayama prefektur</name>
+		<name normalized="Wakayama prefektuur" languages="Estonian">Wakayama prefektuur</name>
+		<name normalized="Wakayama-koan" languages="Chinese (Min Nan)">Wakayama-koān</name>
+		<name normalized="Wakayaman prefektuuri" languages="Finnish">Wakayaman prefektuuri</name>
+		<name normalized="Wilayah Wakayama" languages="Malay">Wilayah Wakayama</name>
+		<name normalized="Vakaiмa" languages="Bulgarian;Mongolian;Russian">Вакаяма</name>
+		<name normalized="Vakajaмa" languages="Macedonian">Вакајама</name>
+		<name normalized="Pрiфiktuрa Vakaiмa" languages="Ukrainian">Префектура Вакаяма</name>
+		<name normalized="Pрiфiktuрa Vakajaмa" languages="Serbian">Префектура Вакајама</name>
+		<name normalized="Pрiфiktuрai Vakaiмa" languages="Tajik">Префектураи Вакаяма</name>
+		<name normalized="Վաkայաmա" languages="Armenian">Վակայամա</name>
+		<name normalized="אسtאن وאکאیאmא" languages="Persian">استان واکایاما</name>
+		<name normalized="dلع وאکאیאmא" languages="Western Punjabi">ضلع واکایاما</name>
+		<name normalized="وאkאyאmא" languages="Arabic">واكاياما</name>
+		<name normalized="وאکאیאmא" languages="Sorani Kurdish">واکایاما</name>
+		<name normalized="وאکאیאmא prیfیکچr" languages="Urdu">واکایاما پریفیکچر</name>
+		<name normalized="vाkाyाmा" languages="Marathi">वाकायामा</name>
+		<name normalized="จังหวัดวะกะยะมะ" languages="Thai">จังหวัดวะกะยะมะ</name>
+		<name normalized="和歌山县" languages="Chinese">和歌山县</name>
+		<name normalized="和歌山県" languages="Japanese">和歌山県</name>
+		<name normalized="和歌山縣" languages="Cantonese">和歌山縣</name>
+		<name normalized="와카야마 현" languages="Korean">와카야마 현</name>
+	</region>
+	<region name="Yamagata" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Jamagata" languages="Esperanto">Gubernio Jamagata</name>
+		<name normalized="Jamagata" languages="Slovak">Jamagata</name>
+		<name normalized="Jamagatas prefektura" languages="Latvian">Jamagatas prefektūra</name>
+		<name normalized="Jamagatos prefektura" languages="Lithuanian">Jamagatos prefektūra</name>
+		<name normalized="Mkoa wa Yamagata" languages="Swahili">Mkoa wa Yamagata</name>
+		<name normalized="Prefectura de Yamagata" languages="Catalan;Galician;Spanish">Prefectura de Yamagata</name>
+		<name normalized="Prefectura Yamagata" languages="Romanian">Prefectura Yamagata</name>
+		<name normalized="Prefektur Yamagata" languages="Achinese;Indonesian">Prefektur Yamagata</name>
+		<name normalized="Prefektura Jamagata" languages="Czech;Serbo-Croatian">Prefektura Jamagata</name>
+		<name normalized="Prefektura Yamagata" languages="Polish">Prefektura Yamagata</name>
+		<name normalized="Prefettura di Yamagata" languages="Italian">Prefettura di Yamagata</name>
+		<name normalized="Prepektura ng Yamagata" languages="Tagalog">Prepektura ng Yamagata</name>
+		<name normalized="Prepektura ti Yamagata" languages="Iloko">Prepektura ti Yamagata</name>
+		<name normalized="Prafektur Yamagata" languages="German">Präfektur Yamagata</name>
+		<name normalized="Prefecture de Yamagata" languages="French">Préfecture de Yamagata</name>
+		<name normalized="Wilayah Yamagata" languages="Malay">Wilayah Yamagata</name>
+		<name normalized="Yamagata" languages="Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Vietnamese;Waray;Welsh">Yamagata</name>
+		<name normalized="Yamagata Prefectur" languages="Scots">Yamagata Prefectur</name>
+		<name normalized="Yamagata Prefecture" languages="English;Novial;official;Simple English;Sundanese">Yamagata Prefecture</name>
+		<name normalized="Yamagata prefektur" languages="Swedish">Yamagata prefektur</name>
+		<name normalized="Yamagata prefektuur" languages="Estonian">Yamagata prefektuur</name>
+		<name normalized="Yamagata-koan" languages="Chinese (Min Nan)">Yamagata-koān</name>
+		<name normalized="Yamagatan prefektuuri" languages="Finnish">Yamagatan prefektuuri</name>
+		<name normalized="Pрiфiktuрa Ямaґata" languages="Ukrainian">Префектура Ямаґата</name>
+		<name normalized="Pрiфiktuрa Jaмagata" languages="Serbian">Префектура Јамагата</name>
+		<name normalized="Pрiфiktuрai Ямagata" languages="Tajik">Префектураи Ямагата</name>
+		<name normalized="Pрeфiktuрa Ямagata" languages="Belarusian">Прэфектура Ямагата</name>
+		<name normalized="Ямagata" languages="Bulgarian;Russian">Ямагата</name>
+		<name normalized="Ямagata-keн" languages="Mongolian">Ямагата-кэн</name>
+		<name normalized="Jaмagata" languages="Macedonian">Јамагата</name>
+		<name normalized="יאמאגth" languages="Hebrew">יאמאגטה</name>
+		<name normalized="אسtאن یאmאgאtא" languages="Persian">استان یاماگاتا</name>
+		<name normalized="dلع یאmאgאٹא" languages="Western Punjabi">ضلع یاماگاٹا</name>
+		<name normalized="yאmאغאtא" languages="Arabic">ياماغاتا</name>
+		<name normalized="yאmאgאtא نאھىyىسى" languages="Uyghur">ياماگاتا ناھىيىسى</name>
+		<name normalized="یאmאgאtא" languages="Sorani Kurdish">یاماگاتا</name>
+		<name normalized="یאgאmאٹא prیfیکچr" languages="Urdu">یاگاماٹا پریفیکچر</name>
+		<name normalized="yाmाgाtा" languages="Marathi">यामागाता</name>
+		<name normalized="จังหวัดยะมะงะตะ" languages="Thai">จังหวัดยะมะงะตะ</name>
+		<name normalized="იამაგატის პრეფექტურა" languages="Georgian">იამაგატის პრეფექტურა</name>
+		<name normalized="ខេត្តយ៉ាម៉ាកាតា" languages="Khmer">ខេត្តយ៉ាម៉ាកាតា</name>
+		<name normalized="山形县" languages="Chinese;Gan;Wu">山形县</name>
+		<name normalized="山形県" languages="Japanese">山形県</name>
+		<name normalized="山形縣" languages="Cantonese">山形縣</name>
+		<name normalized="야마가타 현" languages="Korean">야마가타 현</name>
+	</region>
+	<region name="Yamaguchi" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Jamaguci" languages="Esperanto">Gubernio Jamaguĉi</name>
+		<name normalized="Jamagucsi prefektura" languages="Hungarian">Jamagucsi prefektúra</name>
+		<name normalized="Jamaguci" languages="Slovak">Jamaguči</name>
+		<name normalized="Jamaguci prefektura" languages="Latvian">Jamaguči prefektūra</name>
+		<name normalized="Jamagucio prefektura" languages="Lithuanian">Jamagučio prefektūra</name>
+		<name normalized="Mkoa wa Yamaguchi" languages="Swahili">Mkoa wa Yamaguchi</name>
+		<name normalized="Prefectura de Yamaguchi" languages="Catalan;Galician;Spanish">Prefectura de Yamaguchi</name>
+		<name normalized="Prefectura Yamaguchi" languages="Romanian">Prefectura Yamaguchi</name>
+		<name normalized="Prefektur Yamaguchi" languages="Achinese;Indonesian">Prefektur Yamaguchi</name>
+		<name normalized="Prefektura Jamaguchi" languages="Serbo-Croatian">Prefektura Jamaguchi</name>
+		<name normalized="Prefektura Jamaguci" languages="Czech">Prefektura Jamaguči</name>
+		<name normalized="Prefektura Yamaguchi" languages="Polish">Prefektura Yamaguchi</name>
+		<name normalized="Prefettura di Yamaguchi" languages="Italian">Prefettura di Yamaguchi</name>
+		<name normalized="Prepektura ng Yamaguchi" languages="Tagalog">Prepektura ng Yamaguchi</name>
+		<name normalized="Prepektura ti Yamaguchi" languages="Iloko">Prepektura ti Yamaguchi</name>
+		<name normalized="Prafektur Yamaguchi" languages="German">Präfektur Yamaguchi</name>
+		<name normalized="Prefecture de Yamaguchi" languages="French">Préfecture de Yamaguchi</name>
+		<name normalized="San-khieu-yen" languages="Hakka">Sân-khiéu-yen</name>
+		<name normalized="Wilayah Yamaguchi" languages="Malay">Wilayah Yamaguchi</name>
+		<name normalized="Yamaguchi" languages="Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Vietnamese;Waray;Welsh">Yamaguchi</name>
+		<name normalized="Yamaguchi Prefectur" languages="Scots">Yamaguchi Prefectur</name>
+		<name normalized="Yamaguchi Prefecture" languages="English;official;Simple English;Sundanese">Yamaguchi Prefecture</name>
+		<name normalized="Yamaguchi prefektur" languages="Swedish">Yamaguchi prefektur</name>
+		<name normalized="Yamaguchi prefektuur" languages="Estonian">Yamaguchi prefektuur</name>
+		<name normalized="Yamaguchin prefektuuri" languages="Finnish">Yamaguchin prefektuuri</name>
+		<name normalized="Yamaguti-koan" languages="Chinese (Min Nan)">Yamaguti-koān</name>
+		<name normalized="Yamaquti" languages="Azerbaijani">Yamaquti</name>
+		<name normalized="Pрiфiktuрa Ямaґuci" languages="Ukrainian">Префектура Ямаґучі</name>
+		<name normalized="Pрiфiktuрa Jaмaguci" languages="Serbian">Префектура Јамагучи</name>
+		<name normalized="Pрiфiktuрai Ямaguci" languages="Tajik">Префектураи Ямагучи</name>
+		<name normalized="Pрeфiktuрa Ямagutы" languages="Belarusian">Прэфектура Ямагуты</name>
+		<name normalized="Ямaguti" languages="Russian">Ямагути</name>
+		<name normalized="Ямaguci" languages="Bulgarian">Ямагучи</name>
+		<name normalized="Jaмaguci" languages="Macedonian">Јамагучи</name>
+		<name normalized="יאמגvצ'י" languages="Hebrew">יאמגוצ'י</name>
+		<name normalized="אسtאن یאmאgوچی" languages="Persian">استان یاماگوچی</name>
+		<name normalized="dلع یאmאgوچی" languages="Western Punjabi">ضلع یاماگوچی</name>
+		<name normalized="yאmאغوtشy" languages="Arabic">ياماغوتشي</name>
+		<name normalized="یאmאgوچی" languages="Sorani Kurdish">یاماگوچی</name>
+		<name normalized="یאmאgوچی prیfیکچr" languages="Urdu">یاماگوچی پریفیکچر</name>
+		<name normalized="yाmाguci" languages="Marathi">यामागुची</name>
+		<name normalized="จังหวัดยะมะงุชิ" languages="Thai">จังหวัดยะมะงุชิ</name>
+		<name normalized="იამაგუტის პრეფექტურა" languages="Georgian">იამაგუტის პრეფექტურა</name>
+		<name normalized="ខេត្តយ៉ាម៉ាហ្គឹឈិ" languages="Khmer">ខេត្តយ៉ាម៉ាហ្គឹឈិ</name>
+		<name normalized="山口县" languages="Chinese">山口县</name>
+		<name normalized="山口県" languages="Japanese">山口県</name>
+		<name normalized="山口縣" languages="Cantonese;Classical Chinese">山口縣</name>
+		<name normalized="야마구치 현" languages="Korean">야마구치 현</name>
+	</region>
+	<region name="Yamanashi" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Gubernio Jamanasi" languages="Esperanto">Gubernio Jamanaŝi</name>
+		<name normalized="Jamanasi prefektura" languages="Hungarian">Jamanasi prefektúra</name>
+		<name normalized="Jamanasi prefektura" languages="Latvian">Jamanasi prefektūra</name>
+		<name normalized="Jamanasi" languages="Slovak">Jamanaši</name>
+		<name normalized="Jamanasio prefektura" languages="Lithuanian">Jamanašio prefektūra</name>
+		<name normalized="Mkoa wa Yamanashi" languages="Swahili">Mkoa wa Yamanashi</name>
+		<name normalized="Prefectura de Yamanashi" languages="Catalan;Galician;Spanish">Prefectura de Yamanashi</name>
+		<name normalized="Prefectura Yamanashi" languages="Romanian">Prefectura Yamanashi</name>
+		<name normalized="Prefektur Yamanashi" languages="Achinese;Indonesian">Prefektur Yamanashi</name>
+		<name normalized="Prefektura Jamanashi" languages="Serbo-Croatian">Prefektura Jamanashi</name>
+		<name normalized="Prefektura Jamanasi" languages="Czech">Prefektura Jamanaši</name>
+		<name normalized="Prefektura Yamanashi" languages="Polish">Prefektura Yamanashi</name>
+		<name normalized="Prefettura di Yamanashi" languages="Italian">Prefettura di Yamanashi</name>
+		<name normalized="Prepektura ng Yamanashi" languages="Tagalog">Prepektura ng Yamanashi</name>
+		<name normalized="Prepektura ti Yamanashi" languages="Iloko">Prepektura ti Yamanashi</name>
+		<name normalized="Prafektur Yamanashi" languages="German">Präfektur Yamanashi</name>
+		<name normalized="Prefecture de Yamanashi" languages="French">Préfecture de Yamanashi</name>
+		<name normalized="Prefektur Yamanashi" languages="Sundanese">Préféktur Yamanashi</name>
+		<name normalized="Wilayah Yamanashi" languages="Malay">Wilayah Yamanashi</name>
+		<name normalized="Yamanashi" languages="Basque;Croatian;Dutch;English;Norwegian (bokmal);official;Portuguese;Vietnamese;Waray;Welsh">Yamanashi</name>
+		<name normalized="Yamanashi Prefectur" languages="Scots">Yamanashi Prefectur</name>
+		<name normalized="Yamanashi Prefecture" languages="English;official;Simple English">Yamanashi Prefecture</name>
+		<name normalized="Yamanashi prefektur" languages="Swedish">Yamanashi prefektur</name>
+		<name normalized="Yamanashi prefektuur" languages="Estonian">Yamanashi prefektuur</name>
+		<name normalized="Yamanashin prefektuuri" languages="Finnish">Yamanashin prefektuuri</name>
+		<name normalized="Yamanasi-koan" languages="Chinese (Min Nan)">Yamanasi-koān</name>
+		<name normalized="Pрiфiktuрa Ямaнaсi" languages="Ukrainian">Префектура Яманасі</name>
+		<name normalized="Pрiфiktuрa Jaмaнasi" languages="Serbian">Префектура Јаманаши</name>
+		<name normalized="Pрiфiktuрai Ямaнasi" languages="Tajik">Префектураи Яманаши</name>
+		<name normalized="Ямaнaсi" languages="Russian">Яманаси</name>
+		<name normalized="Ямaнasi" languages="Bulgarian">Яманаши</name>
+		<name normalized="Jaмaнasi" languages="Macedonian">Јаманаши</name>
+		<name normalized="יאמאnאשי" languages="Hebrew">יאמאנאשי</name>
+		<name normalized="אسtאن یאmאنאشی" languages="Persian">استان یاماناشی</name>
+		<name normalized="dلع یאmאنאشی" languages="Western Punjabi">ضلع یاماناشی</name>
+		<name normalized="yאmאنאشy" languages="Arabic">ياماناشي</name>
+		<name normalized="یאmאنאشی" languages="Sorani Kurdish">یاماناشی</name>
+		<name normalized="یאmאنאشی prیfیکچr" languages="Urdu">یاماناشی پریفیکچر</name>
+		<name normalized="yाmाnाsi" languages="Marathi">यामानाशी</name>
+		<name normalized="จังหวัดยะมะนะชิ" languages="Thai">จังหวัดยะมะนะชิ</name>
+		<name normalized="იამანასის პრეფექტურა" languages="Georgian">იამანასის პრეფექტურა</name>
+		<name normalized="ខេត្តយ៉ាម៉ាណាស៊ី" languages="Khmer">ខេត្តយ៉ាម៉ាណាស៊ី</name>
+		<name normalized="山梨县" languages="Chinese">山梨县</name>
+		<name normalized="山梨県" languages="Japanese">山梨県</name>
+		<name normalized="山梨縣" languages="Cantonese">山梨縣</name>
+		<name normalized="야마나시 현" languages="Korean">야마나시 현</name>
+	</region>
+</regions>

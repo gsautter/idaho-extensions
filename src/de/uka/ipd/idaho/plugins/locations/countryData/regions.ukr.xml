@@ -1,0 +1,882 @@
+<regions country="Ukraine">
+	<region name="Cherkasy" type="municipality" typeTranslated="misto">
+		<name normalized="Cerkasi" languages="Romanian">Cerkasî</name>
+		<name normalized="Cherkasy" languages="English;Indonesian;Interlingue;official;Simple English;Spanish;Vietnamese;Waray">Cherkasy</name>
+		<name normalized="Circassium" languages="Latin">Circassium</name>
+		<name normalized="Cserkaszi" languages="Hungarian">Cserkaszi</name>
+		<name normalized="Czerkasy" languages="Polish">Czerkasy</name>
+		<name normalized="Tcherkassy" languages="French">Tcherkassy</name>
+		<name normalized="Tcherkassi" languages="Portuguese">Tcherkássi</name>
+		<name normalized="Tjerkasi" languages="Danish">Tjerkasi</name>
+		<name normalized="Tjerkasy" languages="Swedish">Tjerkasy</name>
+		<name normalized="Tscherkassy" languages="German">Tscherkassy</name>
+		<name normalized="Tsjerkasy" languages="Dutch;Norwegian (bokmal);Norwegian Nynorsk;Western Frisian">Tsjerkasy</name>
+		<name normalized="Txerkasy" languages="Basque">Txerkasy</name>
+		<name normalized="Tserkasso" languages="Estonian">Tšerkassõ</name>
+		<name normalized="Tserkasy" languages="Finnish">Tšerkasy</name>
+		<name normalized="Cerkasi" languages="Azerbaijani;Crimean Turkish">Çerkasi</name>
+		<name normalized="Cerkassi" languages="Turkish">Çerkassi</name>
+		<name normalized="Cerkaso" languages="Esperanto">Ĉerkaso</name>
+		<name normalized="Cerkasai" languages="Lithuanian">Čerkasai</name>
+		<name normalized="Cerkasi" languages="Croatian">Čerkasi</name>
+		<name normalized="Cerkasy" languages="Czech;Italian;Slovak;Upper Sorbian">Čerkasy</name>
+		<name normalized="Goрad Caрkaсы" languages="Belarusian">Горад Чаркасы</name>
+		<name normalized="Caрkaсы" languages="biлaрuсkai (taрaskivita)‎">Чаркасы</name>
+		<name normalized="Ciрkaсi" languages="Bulgarian;Macedonian;Serbian;Ukrainian">Черкаси</name>
+		<name normalized="Ciрkaссi" languages="Chechen">Черкасси</name>
+		<name normalized="Ciрkaссы" languages="Russian;Sakha;Tatar">Черкассы</name>
+		<name normalized="Ciрkaсы" languages="Mongolian;Rusyn">Черкасы</name>
+		<name normalized="Cեrkաsի" languages="Armenian">Չերկասի</name>
+		<name normalized="צ'rqאסי" languages="Hebrew">צ'רקאסי</name>
+		<name normalized="چrکאسی" languages="Persian">چرکاسی</name>
+		<name normalized="چrکیسی" languages="Western Punjabi">چرکیسی</name>
+		<name normalized="ჩერკასი" languages="Georgian">ჩერკასი</name>
+		<name normalized="terkーsi" languages="Japanese">チェルカースィ</name>
+		<name normalized="切爾卡瑟" languages="Chinese">切爾卡瑟</name>
+		<name normalized="체르카시" languages="Korean">체르카시</name>
+	</region>
+	<region name="Chernihiv" type="municipality" typeTranslated="misto">
+		<name normalized="Cernigau" languages="Romanian">Cernigău</name>
+		<name normalized="Chernigov" languages="Portuguese">Chernigov</name>
+		<name normalized="Chernihiv" languages="English;Indonesian;Interlingue;Malay;official;Vietnamese;Waray">Chernihiv</name>
+		<name normalized="Chernigov" languages="Spanish">Chernígov</name>
+		<name normalized="Csernyihiv" languages="Hungarian">Csernyihiv</name>
+		<name normalized="Czernihovia" languages="Latin">Czernihovia</name>
+		<name normalized="Czernihow" languages="Polish">Czernihów</name>
+		<name normalized="Tchernihiv" languages="French">Tchernihiv</name>
+		<name normalized="Tjernihiv" languages="Danish;Swedish">Tjernihiv</name>
+		<name normalized="Tschernihiw" languages="German">Tschernihiw</name>
+		<name normalized="Tsjernihiv" languages="Dutch;Norwegian (bokmal);Norwegian Nynorsk">Tsjernihiv</name>
+		<name normalized="Txernihiv" languages="Basque">Txernihiv</name>
+		<name normalized="Txernihiv" languages="Catalan">Txerníhiv</name>
+		<name normalized="Tsernigiv" languages="Estonian">Tšernigiv</name>
+		<name normalized="Tsernihiv" languages="Finnish">Tšernihiv</name>
+		<name normalized="Cernigiv" languages="Crimean Turkish;Turkish">Çernigiv</name>
+		<name normalized="Cerniqov" languages="Azerbaijani">Çerniqov</name>
+		<name normalized="Cernihivo" languages="Esperanto">Ĉernihivo</name>
+		<name normalized="Cernigiv" languages="Serbo-Croatian">Černigiv</name>
+		<name normalized="Cernigov" languages="Croatian">Černigov</name>
+		<name normalized="Cernigovas" languages="Lithuanian">Černigovas</name>
+		<name normalized="Cernihiv" languages="Italian;Slovak">Černihiv</name>
+		<name normalized="Cernihiw" languages="Upper Sorbian">Černihiw</name>
+		<name normalized="Cernihov" languages="Czech">Černihov</name>
+		<name normalized="Goрad Caрнigaў" languages="Belarusian">Горад Чарнігаў</name>
+		<name normalized="Caрнigaў" languages="biлaрuсkai (taрaskivita)‎">Чарнігаў</name>
+		<name normalized="Ciрнigiv" languages="Tajik">Чернигив</name>
+		<name normalized="Ciрнigov" languages="Bulgarian;Chechen;Macedonian;Ossetic;Russian;Sakha;Serbian;Tatar">Чернигов</name>
+		<name normalized="Ciрнigiv" languages="Ukrainian">Чернігів</name>
+		<name normalized="Ciрнygiv" languages="Rusyn">Чернїгів</name>
+		<name normalized="Cեrնիգvվ" languages="Armenian">Չեռնիգով</name>
+		<name normalized="צ'rnיhיb" languages="Hebrew">צ'רניהיב</name>
+		<name normalized="tشrنyغوf" languages="Arabic">تشرنيغوف</name>
+		<name normalized="چrنیhیf" languages="Persian">چرنیهیف</name>
+		<name normalized="چrنیہیf" languages="Western Punjabi">چرنیہیف</name>
+		<name normalized="ჩერნიგოვი" languages="Georgian">ჩერნიგოვი</name>
+		<name normalized="ternーhu" languages="Japanese">チェルニーヒウ</name>
+		<name normalized="切尔尼戈夫" languages="Chinese">切尔尼戈夫</name>
+		<name normalized="체르니히우" languages="Korean">체르니히우</name>
+	</region>
+	<region name="Chernivtsi" type="municipality" typeTranslated="misto">
+		<name normalized="Cernauți" languages="Romanian">Cernăuți</name>
+		<name normalized="Chernivtsi" languages="English;Indonesian;Interlingue;Malay;official;Portuguese;Spanish;Vietnamese;Waray">Chernivtsi</name>
+		<name normalized="Csernyivci" languages="Hungarian">Csernyivci</name>
+		<name normalized="Czerniowce" languages="Polish">Czerniowce</name>
+		<name normalized="Czernovicum" languages="Latin">Czernovicum</name>
+		<name normalized="Czernowitz" languages="German">Czernowitz</name>
+		<name normalized="Tchernivtsi" languages="Breton;French">Tchernivtsi</name>
+		<name normalized="Tjernivtsi" languages="Danish;Swedish">Tjernivtsi</name>
+		<name normalized="Tsjernivtsi" languages="Dutch;Norwegian (bokmal);Norwegian Nynorsk">Tsjernivtsi</name>
+		<name normalized="Txernivtsi" languages="Basque">Txernivtsi</name>
+		<name normalized="Txernivtsi" languages="Catalan">Txernivtsí</name>
+		<name normalized="Tsernivtsi" languages="Estonian;Finnish">Tšernivtsi</name>
+		<name normalized="Cernivtsi" languages="Crimean Turkish;Turkish">Çernivtsi</name>
+		<name normalized="Cernivcı" languages="Azerbaijani">Çernivçı</name>
+		<name normalized="Cernivco" languages="Esperanto">Ĉernivco</name>
+		<name normalized="Cernivci" languages="Italian;lumbaart">Černivci</name>
+		<name normalized="Cernivciai" languages="Lithuanian">Černivciai</name>
+		<name normalized="Cernovci" languages="Croatian">Černovci</name>
+		<name normalized="Cernovice" languages="Czech;Slovak">Černovice</name>
+		<name normalized="Goрad Caрнaўtы" languages="Belarusian">Горад Чарнаўцы</name>
+		<name normalized="Caрнaўtы" languages="biлaрuсkai (taрaskivita)‎">Чарнаўцы</name>
+		<name normalized="Ciрнivti" languages="Serbian">Чернивци</name>
+		<name normalized="Ciрнovti" languages="Bulgarian;Chechen">Черновци</name>
+		<name normalized="Ciрнovtы" languages="Russian">Черновцы</name>
+		<name normalized="Ciрнeutь" languages="Moldavian">Чернэуць</name>
+		<name normalized="Ciрнivti" languages="Ukrainian">Чернівці</name>
+		<name normalized="Ciрнivty" languages="Rusyn">Чернівцї</name>
+		<name normalized="Cեrնvվcի" languages="Armenian">Չեռնովցի</name>
+		<name normalized="tשעrnאvvיץ" languages="Yiddish">טשערנאוויץ</name>
+		<name normalized="צ'rnvbיץ" languages="Hebrew">צ'רנוביץ</name>
+		<name normalized="چrنیوtسی" languages="Persian;Western Punjabi">چرنیوتسی</name>
+		<name normalized="ჩერნოვცი" languages="Georgian">ჩერნოვცი</name>
+		<name normalized="ternutiー" languages="Japanese">チェルニウツィー</name>
+		<name normalized="切爾諾夫策" languages="Chinese">切爾諾夫策</name>
+		<name normalized="체르니우치" languages="Korean">체르니우치</name>
+	</region>
+	<region name="Crimea" type="autonomous republic" typeTranslated="autonomous republic">
+		<name normalized="An Chrime" languages="Irish">An Chrimé</name>
+		<name normalized="Avtonomna Respublika Krym" languages="English;official">Avtonomna Respublika Krym</name>
+		<name normalized="Crimaea" languages="Latin">Crimaea</name>
+		<name normalized="Crimea" languages="Asturian;Catalan;English;Galician;Italian;official;Scots;Sicilian;Simple English;Spanish;Tagalog;Waray;Welsh">Crimea</name>
+		<name normalized="Crimeea" languages="Romanian">Crimeea</name>
+		<name normalized="Crimeia" languages="Portuguese">Crimeia</name>
+		<name normalized="Crimia" languages="veneto">Crimia</name>
+		<name normalized="Crimea" languages="Occitan">Crimèa</name>
+		<name normalized="Crimee" languages="French">Crimée</name>
+		<name normalized="Crimeye" languages="Walloon">Crimêye</name>
+		<name normalized="Kırım Ozerk Cumhuriyeti" languages="Turkish">Kırım Özerk Cumhuriyeti</name>
+		<name normalized="Krim" languages="Afrikaans;Alemannisch;Azerbaijani;Bavarian;Croatian;Danish;Finnish;German;Norwegian (bokmal);Slovenian;Swedish;Upper Sorbian;Western Frisian">Krim</name>
+		<name normalized="Krima" languages="Latvian">Krima</name>
+		<name normalized="Krimea" languages="Basque;Breton;Ido;Indonesian;Javanese;Malay;Sundanese">Krimea</name>
+		<name normalized="Krimeo" languages="Esperanto">Krimeo</name>
+		<name normalized="Krimeya" languages="Romani">Krimeya</name>
+		<name normalized="Krimhalvoya" languages="Norwegian Nynorsk">Krimhalvøya</name>
+		<name normalized="Krimm" languages="Estonian">Krimm</name>
+		<name normalized="Krimrepubliek" languages="Dutch">Krimrepubliek</name>
+		<name normalized="Krym" languages="Chinese (Min Nan);Czech;Polish;Slovak;Vietnamese">Krym</name>
+		<name normalized="Krymo autonomine respublika" languages="Lithuanian">Krymo autonominė respublika</name>
+		<name normalized="Krim" languages="Hungarian">Krím</name>
+		<name normalized="Krimskagi" languages="Icelandic">Krímskagi</name>
+		<name normalized="Peninsula de Crimea" languages="Aragonese">Peninsula de Crimea</name>
+		<name normalized="Qırım" languages="Crimean Turkish">Qırım</name>
+		<name normalized="Qrim" languages="Uzbek">Qrim</name>
+		<name normalized="Αυτονομη Δημοκρατια της Κριμαιας" languages="Greek">Αυτόνομη Δημοκρατία της Κριμαίας</name>
+		<name normalized="Avtoнoмнa Рipubлika Kрiм" languages="Macedonian">Автономна Република Крим</name>
+		<name normalized="Avtoнoмнa Рiсpubлika Kрiм" languages="Ukrainian">Автономна Республіка Крим</name>
+		<name normalized="Avtoнoмнai Рiсpubлika Kрым" languages="Russian">Автономная Республика Крым</name>
+		<name normalized="Kрiм" languages="Bulgarian;Serbian">Крим</name>
+		<name normalized="Kрым" languages="Belarusian;Chechen;biлaрuсkai (taрaskivita)‎">Крым</name>
+		<name normalized="Kрымын koйg" languages="Mongolian">Крымын хойг</name>
+		<name normalized="Kъiрiм" languages="лakku">Къирим</name>
+		<name normalized="Kърым" languages="Karachay-Balkar">Кърым</name>
+		<name normalized="Kырым" languages="Tatar">Кырым</name>
+		<name normalized="Kъырым" languages="Ossetic">Хъырым</name>
+		<name normalized="Kырым tүbigi" languages="Kazakh">Қырым түбегі</name>
+		<name normalized="Ղrիm" languages="Armenian">Ղրիմ</name>
+		<name normalized="hצי hאי qrים" languages="Hebrew">חצי האי קרים</name>
+		<name normalized="אلqrm" languages="Arabic">القرم</name>
+		<name normalized="krymyא" languages="Egyptian Spoken Arabic">كريميا</name>
+		<name normalized="کrیmh" languages="Persian">کریمه</name>
+		<name normalized="کrیmh jزیrh mونא" languages="Mazanderani">کریمه جزیره مونا</name>
+		<name normalized="کrیmیא" languages="Sorani Kurdish;Urdu;Western Punjabi">کریمیا</name>
+		<name normalized="k्rाimiyा" languages="Marathi">क्राइमिया</name>
+		<name normalized="k्rimiyा" languages="Hindi">क्रीमिया</name>
+		<name normalized="k্rimiy়া" languages="Bengali">ক্রিমিয়া</name>
+		<name normalized="ക്രിമിയ" languages="Malayalam">ക്രിമിയ</name>
+		<name normalized="ไครเมีย" languages="Thai">ไครเมีย</name>
+		<name normalized="ყირიმი" languages="Georgian">ყირიმი</name>
+		<name normalized="krma半島" languages="Japanese">クリミア半島</name>
+		<name normalized="克里米亚" languages="Chinese">克里米亚</name>
+		<name normalized="크림 공화국" languages="Korean">크림 공화국</name>
+		<name normalized="𐌺𐍂𐌴𐌹𐌼" languages="Gothic">𐌺𐍂𐌴𐌹𐌼</name>
+	</region>
+	<region name="Dnipropetrovs'k" type="municipality" typeTranslated="misto">
+		<name normalized="Dnepropetrovsk" languages="Azerbaijani;Finnish;Slovak">Dnepropetrovsk</name>
+		<name normalized="Dniepropetrovsk" languages="Romanian">Dniepropetrovsk</name>
+		<name normalized="Dniepropetrovskas" languages="Lithuanian">Dniepropetrovskas</name>
+		<name normalized="Dniepropetrowsk" languages="Polish">Dniepropetrowsk</name>
+		<name normalized="Dnipropetrovs'k" languages="English;Italian;official;Sicilian">Dnipropetrovs'k</name>
+		<name normalized="Dnipropetrovsk" languages="Basque;Breton;Catalan;Crimean Turkish;Danish;English;Estonian;French;Indonesian;Interlingue;Kalaallisut;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Scots;Simple English;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Volapuk;Waray">Dnipropetrovsk</name>
+		<name normalized="Dnipropetrovsko" languages="Esperanto">Dnipropetrovsko</name>
+		<name normalized="Dnipropetrowsk" languages="German;Upper Sorbian">Dnipropetrowsk</name>
+		<name normalized="Dnjepropetrovsk" languages="Croatian;Dutch;Western Frisian">Dnjepropetrovsk</name>
+		<name normalized="Dnjepropetrowsk" languages="Afrikaans">Dnjepropetrowsk</name>
+		<name normalized="Dnjipropetrovsk" languages="Serbo-Croatian">Dnjipropetrovsk</name>
+		<name normalized="Dnyipropetrovszk" languages="Hungarian">Dnyipropetrovszk</name>
+		<name normalized="Dnepropetrovsk" languages="Czech">Dněpropetrovsk</name>
+		<name normalized="Dnepropetrovska" languages="Latvian">Dņepropetrovska</name>
+		<name normalized="Ντνιπροπετροφσκ" languages="Greek">Ντνιπροπετρόφσκ</name>
+		<name normalized="Goрad Dнipрapitрoўсk" languages="Belarusian">Горад Днепрапятроўск</name>
+		<name normalized="Dнipрapitрoўсk" languages="biлaрuсkai (taрaskivita)‎">Днепрапятроўск</name>
+		<name normalized="Dнipрopitрovсk" languages="Bulgarian;Chechen;Chuvash;Eastern Mari;Macedonian;Ossetic;Russian;Sakha;Tatar;Udmurt">Днепропетровск</name>
+		<name normalized="Dнipрopitрovсk kot" languages="Mongolian">Днепропетровск хот</name>
+		<name normalized="Dнipрopitрovсьk" languages="Ukrainian">Дніпропетровськ</name>
+		<name normalized="Dнypрopitрovсk" languages="Rusyn">Днїпропетровск</name>
+		<name normalized="Dnipрopitрovсk" languages="Serbian">Дњепропетровск</name>
+		<name normalized="Dնեprvpեtrvվsk" languages="Armenian">Դնեպրոպետրովսկ</name>
+		<name normalized="דnיprאpעtrאvvסq" languages="Yiddish">דניפראפעטראווסק</name>
+		<name normalized="דnיprvptrvbסq" languages="Hebrew">דניפרופטרובסק</name>
+		<name normalized="دنybrوbtrوfسk" languages="Arabic">دنيبروبتروفسك</name>
+		<name normalized="دنیprوptrوfسک" languages="Persian">دنیپروپتروفسک</name>
+		<name normalized="دنیprوptrووسک" languages="Western Punjabi">دنیپروپترووسک</name>
+		<name normalized="d्nep्ropet्rov्s्k" languages="Marathi">द्नेप्रोपेत्रोव्स्क</name>
+		<name normalized="ดนีโปรเปตรอฟสค์" languages="Thai">ดนีโปรเปตรอฟสค์</name>
+		<name normalized="დნეპროპეტროვსკი" languages="Georgian">დნეპროპეტროვსკი</name>
+		<name normalized="dnprptrusk" languages="Japanese">ドニプロペトロウシク</name>
+		<name normalized="第聂伯罗彼得罗夫斯克" languages="Chinese">第聂伯罗彼得罗夫斯克</name>
+		<name normalized="드니프로페트로우시크" languages="Korean">드니프로페트로우시크</name>
+	</region>
+	<region name="Donets'k" type="municipality" typeTranslated="misto">
+		<name normalized="Donec'k" languages="Italian">Donec'k</name>
+		<name normalized="Doneck" languages="Hungarian;Slovak;Upper Sorbian">Doneck</name>
+		<name normalized="Doneckas" languages="Lithuanian">Doneckas</name>
+		<name normalized="Donecko" languages="Esperanto">Donecko</name>
+		<name normalized="Donets'k" languages="English;official">Donets'k</name>
+		<name normalized="Donetsk" languages="Afrikaans;Azerbaijani;Basque;Catalan;Crimean Turkish;Danish;Dutch;English;Estonian;Faroese;Finnish;French;Galician;Indonesian;Interlingue;Javanese;Kalaallisut;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Scots;Sicilian;Spanish;Swedish;Turkish;Twi;Vietnamese;Volapuk;Waray">Donetsk</name>
+		<name normalized="Donezk" languages="German">Donezk</name>
+		<name normalized="Donețk" languages="Romanian">Donețk</name>
+		<name normalized="Donieck" languages="Polish">Donieck</name>
+		<name normalized="Donietsk" languages="Papiamento">Donietsk</name>
+		<name normalized="Donjeck" languages="Croatian;Serbo-Croatian">Donjeck</name>
+		<name normalized="Doneck" languages="Czech">Doněck</name>
+		<name normalized="Donecka" languages="Latvian">Doņecka</name>
+		<name normalized="Ντονeτσκ" languages="Greek">Ντονέτσκ</name>
+		<name normalized="Goрad Daнitk" languages="Belarusian">Горад Данецк</name>
+		<name normalized="Daнitk" languages="biлaрuсkai (taрaskivita)‎">Данецк</name>
+		<name normalized="Doнitk" languages="Bulgarian;Chechen;Chuvash;Eastern Mari;Kazakh;Komi;Ossetic;Russian;Sakha;Tatar;Udmurt">Донецк</name>
+		<name normalized="Doнitk kot" languages="Mongolian">Донецк хот</name>
+		<name normalized="Doнitьk" languages="Rusyn;Ukrainian">Донецьк</name>
+		<name normalized="Donitk" languages="Serbian">Доњецк</name>
+		<name normalized="Dvնեck" languages="Armenian">Դոնեցկ</name>
+		<name normalized="דvnצq" languages="Hebrew">דונצק</name>
+		<name normalized="دونtسک" languages="Persian">دونتسک</name>
+		<name normalized="دونytسk" languages="Arabic">دونيتسك</name>
+		<name normalized="دونیtسک" languages="Western Punjabi">دونیتسک</name>
+		<name normalized="دۆنێtسک" languages="Sorani Kurdish">دۆنێتسک</name>
+		<name normalized="donet्s्k" languages="Marathi">दोनेत्स्क</name>
+		<name normalized="தோனெத்ஸ்க்" languages="Tamil">தோனெத்ஸ்க்</name>
+		<name normalized="โดเนตสค์" languages="Thai">โดเนตสค์</name>
+		<name normalized="დონეცკი" languages="Georgian">დონეცკი</name>
+		<name normalized="dntik" languages="Japanese">ドネツィク</name>
+		<name normalized="頓涅茨克" languages="Chinese">頓涅茨克</name>
+		<name normalized="도네츠크" languages="Korean">도네츠크</name>
+	</region>
+	<region name="Ivano-Frankivs'k" type="municipality" typeTranslated="misto">
+		<name normalized="Ivano Frankivskas" languages="Lithuanian">Ivano Frankivskas</name>
+		<name normalized="Ivano-Frankivs'k" languages="English;Italian;official">Ivano-Frankivs'k</name>
+		<name normalized="Ivano-Frankivscum" languages="Latin">Ivano-Frankivscum</name>
+		<name normalized="Ivano-Frankivsk" languages="Basque;Catalan;Crimean Turkish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Indonesian;Norwegian (bokmal);Norwegian Nynorsk;official;Romanian;Slovak;Spanish;Swedish;Turkish;Vietnamese;Waray">Ivano-Frankivsk</name>
+		<name normalized="Ivano-Frankivszk" languages="Hungarian">Ivano-Frankivszk</name>
+		<name normalized="Ivano-Frankovsk" languages="Azerbaijani">İvano-Frankovsk</name>
+		<name normalized="Ivanofrankivska" languages="Latvian">Ivanofrankivska</name>
+		<name normalized="Iwano-Frankiwsk" languages="German;Polish;Upper Sorbian">Iwano-Frankiwsk</name>
+		<name normalized="Goрad Ivaнa-Фрaнkoўсk" languages="Belarusian">Горад Івана-Франкоўск</name>
+		<name normalized="Ivaнo-Фрaнkivсk" languages="Serbian">Ивано-Франкивск</name>
+		<name normalized="Ivaнo-Фрaнkovсk" languages="Bulgarian;Chechen;Eastern Mari;Russian;Sakha">Ивано-Франковск</name>
+		<name normalized="Ivaнa-Фрaнkoўсk" languages="biлaрuсkai (taрaskivita)‎">Івана-Франкоўск</name>
+		<name normalized="Ivaнo-Фрaнkivсk" languages="Rusyn">Івано-Франківск</name>
+		<name normalized="Ivaнo-Фрaнkivсьk" languages="Ukrainian">Івано-Франківськ</name>
+		<name normalized="Իվանv-Frանkvվsk" languages="Armenian">Իվանո-Ֆրանկովսկ</name>
+		<name normalized="איvvnv-prnqיbסq" languages="Hebrew">איוונו-פרנקיבסק</name>
+		<name normalized="אیوאنو frאنکیوسک" languages="Western Punjabi">ایوانو فرانکیوسک</name>
+		<name normalized="אیوאنو-frאنکیfسک" languages="Persian">ایوانو-فرانکیفسک</name>
+		<name normalized="ივანო-ფრანკოვსკი" languages="Georgian">ივანო-ფრანკოვსკი</name>
+		<name normalized="ivaーn=hrnkーusk" languages="Japanese">イヴァーノ＝フランキーウシク</name>
+		<name normalized="伊万诺-弗兰科夫斯克" languages="Chinese">伊万诺-弗兰科夫斯克</name>
+		<name normalized="이바노프란키우시크" languages="Korean">이바노프란키우시크</name>
+	</region>
+	<region name="Kharkiv" type="municipality" typeTranslated="misto">
+		<name normalized="C'harkiv" languages="Breton">C'harkiv</name>
+		<name normalized="Carcovia" languages="Portuguese">Carcóvia</name>
+		<name normalized="Charcovia" languages="Latin">Charcovia</name>
+		<name normalized="Charkiv" languages="Italian;Swedish">Charkiv</name>
+		<name normalized="Charkiw" languages="German;Lower Sorbian;Upper Sorbian">Charkiw</name>
+		<name normalized="Charkof" languages="Afrikaans">Charkof</name>
+		<name normalized="Charkov" languages="Czech;Dutch;Slovak">Charkov</name>
+		<name normalized="Charkovas" languages="Lithuanian">Charkovas</name>
+		<name normalized="Charkow" languages="Polish">Charków</name>
+		<name normalized="Harkiv" languages="Bosnian;Crimean Turkish;Croatian;Estonian">Harkiv</name>
+		<name normalized="Harkov" languages="Hungarian;Romanian;Serbo-Croatian;Slovenian;Turkish">Harkov</name>
+		<name normalized="Harkova" languages="Finnish;Latvian">Harkova</name>
+		<name normalized="Jarkov" languages="Spanish">Járkov</name>
+		<name normalized="Kharkiv" languages="Basque;Danish;English;Faroese;French;Galician;Ido;Indonesian;Interlingue;Javanese;Kalaallisut;Norwegian Nynorsk;official;Papiamento;Scots;Simple English;Vietnamese;Volapuk;Waray">Kharkiv</name>
+		<name normalized="Kharkov" languages="Norwegian (bokmal)">Kharkov</name>
+		<name normalized="Kharkiv" languages="Catalan">Khàrkiv</name>
+		<name normalized="Xarkov" languages="Azerbaijani">Xarkov</name>
+		<name normalized="Harkovo" languages="Esperanto">Ĥarkovo</name>
+		<name normalized="Χαρκοβο" languages="Greek">Χάρκοβο</name>
+		<name normalized="Goрad Kaрkaў" languages="Belarusian">Горад Харкаў</name>
+		<name normalized="Kaрkaў" languages="biлaрuсkai (taрaskivita)‎">Харкаў</name>
+		<name normalized="Kaрkov" languages="Bulgarian;Macedonian;Serbian">Харков</name>
+		<name normalized="Kaрkiv" languages="Rusyn;Ukrainian">Харків</name>
+		<name normalized="Kaрьkov" languages="Chechen;Eastern Mari;Ossetic;Russian;Sakha;Tatar;Udmurt">Харьков</name>
+		<name normalized="Xաrkvվ" languages="Armenian">Խարկով</name>
+		<name normalized="hrqvb" languages="Hebrew">חרקוב</name>
+		<name normalized="خאrkyf" languages="Arabic">خاركيف</name>
+		<name normalized="خאrکوf" languages="Persian">خارکوف</name>
+		<name normalized="خאrکیf" languages="Western Punjabi">خارکیف</name>
+		<name normalized="خאrکیv" languages="Sorani Kurdish">خارکیڤ</name>
+		<name normalized="k़ाrkiv" languages="Hindi">ख़ारकिव</name>
+		<name normalized="kाr्kiv्h" languages="Marathi">खार्कीव्ह</name>
+		<name normalized="kਾrkiv" languages="Punjabi">ਖਾਰਕੀਵ</name>
+		<name normalized="கார்கீவ்" languages="Tamil">கார்கீவ்</name>
+		<name normalized="คาร์คิฟ" languages="Thai">คาร์คิฟ</name>
+		<name normalized="ხარკოვი" languages="Georgian">ხარკოვი</name>
+		<name normalized="hrku" languages="Japanese">ハルキウ</name>
+		<name normalized="卡爾哥夫" languages="Cantonese">卡爾哥夫</name>
+		<name normalized="哈爾科夫" languages="Chinese">哈爾科夫</name>
+		<name normalized="하르키우" languages="Korean">하르키우</name>
+	</region>
+	<region name="Kherson" type="municipality" typeTranslated="misto">
+		<name normalized="Cherson" languages="Czech;Dutch;German;Italian;lumbaart;Slovak;Swedish;Upper Sorbian">Cherson</name>
+		<name normalized="Chersonas" languages="Lithuanian">Chersonas</name>
+		<name normalized="Cherson" languages="Polish">Chersoń</name>
+		<name normalized="Herson" languages="Crimean Turkish;Croatian;Estonian;Romanian;Serbo-Croatian;Turkish">Herson</name>
+		<name normalized="Herszon" languages="Hungarian">Herszon</name>
+		<name normalized="H'erson" languages="Finnish">H’erson</name>
+		<name normalized="Jerson" languages="Spanish">Jersón</name>
+		<name normalized="Kherson" languages="Basque;Catalan;Danish;English;French;Indonesian;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Scots;Vietnamese;Waray">Kherson</name>
+		<name normalized="Xerson" languages="Azerbaijani">Xerson</name>
+		<name normalized="Hersono" languages="Esperanto">Ĥersono</name>
+		<name normalized="Χερσωνα" languages="Greek">Χερσώνα</name>
+		<name normalized="Goрad Kiрсoн" languages="Belarusian">Горад Херсон</name>
+		<name normalized="Kiрсoн" languages="Bulgarian;Chechen;Ossetic;Russian;Rusyn;Serbian;Ukrainian">Херсон</name>
+		<name normalized="Keрсoн" languages="biлaрuсkai (taрaskivita)‎">Хэрсон</name>
+		<name normalized="Xեrsvն" languages="Armenian">Խերսոն</name>
+		<name normalized="hrסvן" languages="Hebrew">חרסון</name>
+		<name normalized="خrسون" languages="Persian">خرسون</name>
+		<name normalized="خyrسون" languages="Arabic">خيرسون</name>
+		<name normalized="خیrسون" languages="Western Punjabi">خیرسون</name>
+		<name normalized="ker्sn" languages="Marathi">खेर्सन</name>
+		<name normalized="ხერსონი" languages="Georgian">ხერსონი</name>
+		<name normalized="hrsn" languages="Japanese">ヘルソン</name>
+		<name normalized="赫尔松" languages="Chinese">赫尔松</name>
+		<name normalized="헤르손" languages="Korean">헤르손</name>
+	</region>
+	<region name="Khmel'nyts'kyy" type="municipality" typeTranslated="misto">
+		<name normalized="Chmel'nyc'kyj" languages="Italian">Chmel'nyc'kyj</name>
+		<name normalized="Chmelnitski" languages="Dutch">Chmelnitski</name>
+		<name normalized="Chmelnyckis" languages="Lithuanian">Chmelnyckis</name>
+		<name normalized="Chmelnyckyj" languages="Czech;Upper Sorbian">Chmelnyckyj</name>
+		<name normalized="Chmelnytskyj" languages="Swedish">Chmelnytskyj</name>
+		<name normalized="Chmelnyzkyj" languages="German">Chmelnyzkyj</name>
+		<name normalized="Chmelnyckyj" languages="Slovak">Chmeľnyckyj</name>
+		<name normalized="Chmielnicius" languages="Latin">Chmielnicius</name>
+		<name normalized="Chmielnicki" languages="Polish">Chmielnicki</name>
+		<name normalized="Hmeljnicki" languages="Croatian">Hmeljnicki</name>
+		<name normalized="Hmelnitski" languages="Turkish">Hmelnitski</name>
+		<name normalized="Hmelnıtskıy" languages="Crimean Turkish">Hmelnıtskıy</name>
+		<name normalized="Hmelnițki" languages="Romanian">Hmelnițki</name>
+		<name normalized="Hmelnytskyi" languages="Finnish">Hmelnytskyi</name>
+		<name normalized="Hmelnotskoi" languages="Estonian">Hmelnõtskõi</name>
+		<name normalized="Jmelnitsky" languages="Spanish">Jmelnitsky</name>
+		<name normalized="Khmel'nyts'kyy" languages="English;official">Khmel'nyts'kyy</name>
+		<name normalized="Khmelnitski" languages="Catalan">Khmelnitski</name>
+		<name normalized="Khmelnitskij" languages="Danish">Khmelnitskij</name>
+		<name normalized="Khmelnytsky" languages="Basque">Khmelnytsky</name>
+		<name normalized="Khmelnytskyi" languages="English;Indonesian;Scots;Vietnamese;Waray">Khmelnytskyi</name>
+		<name normalized="Khmelnytskyj" languages="Norwegian (bokmal);Norwegian Nynorsk">Khmelnytskyj</name>
+		<name normalized="Khmelnytskyy" languages="English;official">Khmelnytskyy</name>
+		<name normalized="Khmelnytskyi" languages="French">Khmelnytskyï</name>
+		<name normalized="Xmelnitskiy" languages="Azerbaijani">Xmelnitskiy</name>
+		<name normalized="Hmelnicko" languages="Esperanto">Ĥmelnicko</name>
+		<name normalized="Goрad Kмiльнitki" languages="Belarusian">Горад Хмяльніцкі</name>
+		<name normalized="Kмiлнitki" languages="Bulgarian">Хмелницки</name>
+		<name normalized="Kмiльнitki" languages="Chechen">Хмельницки</name>
+		<name normalized="Kмiльнitkiй" languages="Russian;Sakha">Хмельницкий</name>
+		<name normalized="Kмiльнitьkiй" languages="Mongolian;Ukrainian">Хмельницький</name>
+		<name normalized="Kмiльнitьkый" languages="Rusyn">Хмельницькый</name>
+		<name normalized="Kмilнitki" languages="Serbian">Хмељницки</name>
+		<name normalized="Kмiльнitki" languages="biлaрuсkai (taрaskivita)‎">Хмяльніцкі</name>
+		<name normalized="Xmեlնիckի" languages="Armenian">Խմելնիցկի</name>
+		<name normalized="hמדnיצqי" languages="Hebrew">חמלניצקי</name>
+		<name normalized="خmلنیtسکیی, אوکrאین" languages="Persian">خملنیتسکیی، اوکراین</name>
+		<name normalized="ხმელნიცკი" languages="Georgian">ხმელნიცკი</name>
+		<name normalized="hmrniーtikii" languages="Japanese">フメリヌィーツィクィイ</name>
+		<name normalized="赫梅利尼茨基" languages="Chinese">赫梅利尼茨基</name>
+		<name normalized="흐멜니츠키" languages="Korean">흐멜니츠키</name>
+	</region>
+	<region name="Kirovohrad" type="municipality" typeTranslated="misto">
+		<name normalized="Kirovograd" languages="Crimean Turkish;Croatian;Danish;Estonian;Turkish;Veps">Kirovograd</name>
+		<name normalized="Kirovogrado" languages="Spanish">Kirovogrado</name>
+		<name normalized="Kirovohrad" languages="Basque;Catalan;Czech;Dutch;English;Finnish;French;Galician;Hungarian;Indonesian;Italian;Norwegian (bokmal);Norwegian Nynorsk;official;Romanian;Slovak;Swedish;Twi;Vietnamese;Waray">Kirovohrad</name>
+		<name normalized="Kirovohradas" languages="Lithuanian">Kirovohradas</name>
+		<name normalized="Kirovohrado" languages="Esperanto">Kirovohrado</name>
+		<name normalized="Kirovoqrad" languages="Azerbaijani">Kirovoqrad</name>
+		<name normalized="Kirowograd" languages="Afrikaans">Kirowograd</name>
+		<name normalized="Kirowohrad" languages="German;Polish;Upper Sorbian">Kirowohrad</name>
+		<name normalized="Goрad Kiрavagрad" languages="Belarusian">Горад Кіраваград</name>
+		<name normalized="Kiрovogрad" languages="Bulgarian;Chechen;Eastern Mari;Russian;Serbian">Кировоград</name>
+		<name normalized="Kiрavagрad" languages="biлaрuсkai (taрaskivita)‎">Кіраваград</name>
+		<name normalized="Kiрovogрad" languages="Rusyn;Ukrainian">Кіровоград</name>
+		<name normalized="Kիrvվvգrաd" languages="Armenian">Կիրովոգրադ</name>
+		<name normalized="qיrvbvגrד" languages="Hebrew">קירובוגרד</name>
+		<name normalized="کیrووhrאد" languages="Persian">کیرووهراد</name>
+		<name normalized="کیrووہrאد" languages="Western Punjabi">کیرووہراد</name>
+		<name normalized="კიროვოგრადი" languages="Georgian">კიროვოგრადი</name>
+		<name normalized="krvohrーd" languages="Japanese">キロヴォフラード</name>
+		<name normalized="基洛沃格勒" languages="Chinese">基洛沃格勒</name>
+		<name normalized="키로보흐라드" languages="Korean">키로보흐라드</name>
+	</region>
+	<region name="Kyiv" type="municipality" typeTranslated="misto">
+		<name normalized="Caenugeard" languages="Old English">Cænugeard</name>
+		<name normalized="Civ" languages="Irish">Cív</name>
+		<name normalized="IKiyevi" languages="Zulu">IKiyevi</name>
+		<name normalized="Kieu" languages="Maori">Kieu</name>
+		<name normalized="Kiev" languages="Aragonese;Basque;Danish;Dutch;English;Extremaduran;Fiji Hindi;French;Gagauz;Galician;Iloko;Indonesian;Interlingua;Interlingue;Italian;Javanese;Ligure;lumbaart;Malagasy;Malay;Maltese;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Papiamento;Portuguese;Romani;Romanian;Sardinian;Scots;Scottish Gaelic;Sicilian;Simple English;Spanish;Swahili;Swedish;Tagalog;tarandine;Turkish;Twi;Vietnamese;veneto;Waray;Welsh;Western Frisian;Yoruba">Kiev</name>
+		<name normalized="Kievi" languages="Albanian">Kievi</name>
+		<name normalized="Kievo" languages="Esperanto">Kievo</name>
+		<name normalized="Kiew" languages="Alemannisch;Bavarian;German;Low German;Luxembourgish;Northern Frisian">Kiew</name>
+		<name normalized="Kiiev" languages="Estonian">Kiiev</name>
+		<name normalized="Kiiova" languages="Voro">Kiiova</name>
+		<name normalized="Kijev" languages="Bosnian;Croatian;Hungarian;Serbo-Croatian;Slovenian;Veps">Kijev</name>
+		<name normalized="Kijeva" languages="Latvian">Kijeva</name>
+		<name normalized="Kijevas" languages="Lithuanian">Kijevas</name>
+		<name normalized="Kijevs" languages="Samogitian">Kijevs</name>
+		<name normalized="Kijew" languages="Lower Sorbian;Upper Sorbian">Kijew</name>
+		<name normalized="Kijv" languages="Piedmontese">Kijv</name>
+		<name normalized="Kijow" languages="Polish">Kijów</name>
+		<name normalized="Kijuw" languages="Silesian">Kijůw</name>
+		<name normalized="Kiova" languages="Finnish;Northern Sami">Kiova</name>
+		<name normalized="Kiovia" languages="Latin">Kiovia</name>
+		<name normalized="Kiyev" languages="Azerbaijani;Crimean Turkish;Novial;Uzbek">Kiyev</name>
+		<name normalized="Kiyew" languages="Wolof">Kiyew</name>
+		<name normalized="Kiyiw" languages="Quechua">Kiyiw</name>
+		<name normalized="Kief" languages="Afrikaans">Kiëf</name>
+		<name normalized="Kyiiv" languages="Occitan">Kyiiv</name>
+		<name normalized="Kyiv" languages="Breton;English;Faroese;Ido;Kalaallisut;Ladino;Manx;official;Shona">Kyiv</name>
+		<name normalized="Kyjev" languages="Czech;Slovak">Kyjev</name>
+		<name normalized="Kyjiw" languages="Lingala">Kyjiw</name>
+		<name normalized="Kyyiv" languages="Chinese (Min Nan)">Kyyiv</name>
+		<name normalized="Kyev" languages="Haitian">Kyèv</name>
+		<name normalized="Kiev" languages="Catalan;Icelandic">Kíev</name>
+		<name normalized="Kiev" languages="Kurdish">Kîev</name>
+		<name normalized="Kuyiv" languages="Volapuk">Küyiv</name>
+		<name normalized="Κιεβο" languages="Greek">Κίεβο</name>
+		<name normalized="Goрad Kiiў" languages="Belarusian">Горад Кіеў</name>
+		<name normalized="Kiйu" languages="Chuvash">Кейӳ</name>
+		<name normalized="Kiiv" languages="Bulgarian;Chechen;Eastern Mari;Hill Mari;Kazakh;Komi;Komi-Permyak;Kyrgyz;Macedonian;Moksha;Mongolian;Ossetic;Russian;Sakha;Tajik;Tatar;Udmurt;buрiad">Киев</name>
+		<name normalized="Kiiv os" languages="Erzya">Киев ош</name>
+		<name normalized="Kiyv" languages="Rusyn;Ukrainian">Київ</name>
+		<name normalized="Kijiv" languages="Serbian">Кијев</name>
+		<name normalized="Kыiv" languages="Abkhazian">Кыив</name>
+		<name normalized="Kiiў" languages="biлaрuсkai (taрaskivita)‎">Кіеў</name>
+		<name normalized="Kꙑѥvъ" languages="Church Slavic">Кꙑѥвъ</name>
+		<name normalized="Kիև" languages="Armenian">Կիև</name>
+		<name normalized="qייb" languages="Hebrew">קייב</name>
+		<name normalized="qיעvv" languages="Yiddish">קיעוו</name>
+		<name normalized="kىyېۋ" languages="Uyghur">كىيېۋ</name>
+		<name normalized="kyyf" languages="Arabic;Egyptian Spoken Arabic">كييف</name>
+		<name normalized="کyېf" languages="Pashto">کيېف</name>
+		<name normalized="کیf" languages="Urdu;Western Punjabi">کیف</name>
+		<name normalized="کیێv" languages="Sorani Kurdish">کیێڤ</name>
+		<name normalized="کی‌یf" languages="Persian">کی‌یف</name>
+		<name normalized="kiv" languages="Hindi">कीव</name>
+		<name normalized="k्yiv" languages="Marathi">क्यीव</name>
+		<name normalized="kiy়eb" languages="Bengali">কিয়েভ</name>
+		<name normalized="kiv" languages="Punjabi">ਕੀਵ</name>
+		<name normalized="கீவ்" languages="Tamil">கீவ்</name>
+		<name normalized="క్యివ్" languages="Telugu">క్యివ్</name>
+		<name normalized="ಕೀವ್" languages="Kannada">ಕೀವ್</name>
+		<name normalized="കീവ്" languages="Malayalam">കീവ്</name>
+		<name normalized="เคียฟ" languages="Thai">เคียฟ</name>
+		<name normalized="ཀིབ།" languages="Tibetan">ཀིབ།</name>
+		<name normalized="ကီးယက်မြို့" languages="Burmese">ကီးယက်မြို့</name>
+		<name normalized="კიევი" languages="Georgian;Mingrelian">კიევი</name>
+		<name normalized="ኪየቭ" languages="Amharic">ኪየቭ</name>
+		<name normalized="keh" languages="Japanese">キエフ</name>
+		<name normalized="基輔" languages="Cantonese;Chinese">基輔</name>
+		<name normalized="키예프" languages="Korean">키예프</name>
+	</region>
+	<region name="L'viv" type="municipality" typeTranslated="misto">
+		<name normalized="Ilbav" languages="Crimean Turkish">İlbav</name>
+		<name normalized="L'viv" languages="English;official;Volapuk">L'viv</name>
+		<name normalized="Lavov" languages="Bosnian;Croatian;Serbian;Serbo-Croatian">Lavov</name>
+		<name normalized="Lemberg" languages="Alemannisch;Bavarian;German">Lemberg</name>
+		<name normalized="Lembarsch" languages="Palzisch">Lembärsch</name>
+		<name normalized="Leopoli" languages="Italian">Leopoli</name>
+		<name normalized="Leopolis" languages="Latin">Leopolis</name>
+		<name normalized="Leopoli" languages="veneto">Leopołi</name>
+		<name normalized="Leopul" languages="lumbaart">Leopul</name>
+		<name normalized="Leopolis" languages="Spanish">Leópolis</name>
+		<name normalized="Liov" languages="Romanian">Liov</name>
+		<name normalized="Liopuli" languages="Sicilian">Liòpuli</name>
+		<name normalized="Ljviv" languages="Faroese">Ljviv</name>
+		<name normalized="Lviv" languages="Aragonese;Basque;Breton;Catalan;Danish;Dutch;English;Estonian;Finnish;French;Galician;Hungarian;Ido;Indonesian;Interlingue;Javanese;Kalaallisut;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Papiamento;Piedmontese;Portuguese;Scots;Simple English;Swedish;Turkish;Vietnamese;Voro;Waray">Lviv</name>
+		<name normalized="Lvivo" languages="Esperanto">Lvivo</name>
+		<name normalized="Lvov" languages="Azerbaijani;Czech;Slovenian">Lvov</name>
+		<name normalized="Lvovas" languages="Lithuanian">Lvovas</name>
+		<name normalized="Lwif" languages="Afrikaans">Lwif</name>
+		<name normalized="Lwiw" languages="Quechua">Lwiw</name>
+		<name normalized="Lwow" languages="Polish;Upper Sorbian">Lwów</name>
+		<name normalized="Lwuw" languages="Silesian">Lwůw</name>
+		<name normalized="Lvova" languages="Latvian">Ļvova</name>
+		<name normalized="Lvov" languages="Slovak">Ľvov</name>
+		<name normalized="Λβιβ" languages="Greek">Λβιβ</name>
+		<name normalized="Goрad Льvoў" languages="Belarusian">Горад Львоў</name>
+		<name normalized="Лavov" languages="Macedonian">Лавов</name>
+		<name normalized="Лvov" languages="Bulgarian">Лвов</name>
+		<name normalized="Льviv" languages="Abkhazian;Tajik">Львив</name>
+		<name normalized="Льvov" languages="Chechen;Chuvash;Eastern Mari;Hill Mari;Mongolian;Ossetic;Russian;Sakha;Tatar">Львов</name>
+		<name normalized="Льvoў" languages="biлaрuсkai (taрaskivita)‎">Львоў</name>
+		<name normalized="Льviv" languages="Rusyn;Ukrainian">Львів</name>
+		<name normalized="Lվvվ" languages="Armenian">Լվով</name>
+		<name normalized="דbvb" languages="Hebrew">לבוב</name>
+		<name normalized="דעמbעrג" languages="Yiddish">לעמבערג</name>
+		<name normalized="لfyf" languages="Arabic">لفيف</name>
+		<name normalized="لووf" languages="Persian">لووف</name>
+		<name normalized="لویو" languages="Western Punjabi">لویو</name>
+		<name normalized="لvیv" languages="Sorani Kurdish">لڤیڤ</name>
+		<name normalized="liv्hiv" languages="Marathi">लिव्हिव</name>
+		<name normalized="லிவீவ்" languages="Tamil">லிவீவ்</name>
+		<name normalized="ลวีฟ" languages="Thai">ลวีฟ</name>
+		<name normalized="ლვოვი" languages="Georgian">ლვოვი</name>
+		<name normalized="rviu" languages="Japanese">リヴィウ</name>
+		<name normalized="利沃夫" languages="Chinese">利沃夫</name>
+		<name normalized="리비우" languages="Korean">리비우</name>
+	</region>
+	<region name="Luhans'k" type="municipality" typeTranslated="misto">
+		<name normalized="Loehansk" languages="Dutch">Loehansk</name>
+		<name normalized="Louhansk" languages="French">Louhansk</name>
+		<name normalized="Lugansk" languages="Crimean Turkish;Croatian;Estonian;Portuguese;Spanish">Lugansk</name>
+		<name normalized="Lugansk" languages="Danish">Lugánsk</name>
+		<name normalized="Luhans'k" languages="English;Italian;official">Luhans'k</name>
+		<name normalized="Luhansk" languages="Basque;Catalan;Czech;English;Finnish;Galician;German;Indonesian;Kalaallisut;Norwegian (bokmal);Norwegian Nynorsk;official;Romanian;Scots;Slovak;Swedish;Turkish;Upper Sorbian;Vietnamese;Volapuk;Voro;Waray">Luhansk</name>
+		<name normalized="Luhanska" languages="Latvian">Luhanska</name>
+		<name normalized="Luhanskas" languages="Lithuanian">Luhanskas</name>
+		<name normalized="Luhansko" languages="Esperanto">Luhansko</name>
+		<name normalized="Luhanszk" languages="Hungarian">Luhanszk</name>
+		<name normalized="Luqansk" languages="Azerbaijani">Luqansk</name>
+		<name normalized="Lugansk" languages="Polish">Ługańsk</name>
+		<name normalized="Luhansk" languages="Silesian">Łuhańsk</name>
+		<name normalized="Goрad Лugaнсk" languages="Belarusian">Горад Луганск</name>
+		<name normalized="Лugaнсk" languages="Bulgarian;Chechen;Eastern Mari;Macedonian;Ossetic;Russian;Sakha;Serbian">Луганск</name>
+		<name normalized="Лugaнсkai" languages="biлaрuсkai (taрaskivita)‎">Луганскае</name>
+		<name normalized="Лugaнсьk" languages="Ukrainian">Луганськ</name>
+		<name normalized="Лugaньсk" languages="Rusyn">Луганьск</name>
+		<name normalized="Лukaнсk" languages="Mongolian">Луханск</name>
+		<name normalized="Lvyգանsk" languages="Armenian">Լուգանսկ</name>
+		<name normalized="דvhnסq" languages="Hebrew">לוהנסק</name>
+		<name normalized="لوhאنسک" languages="Persian">لوهانسک</name>
+		<name normalized="لوہאنسک" languages="Western Punjabi">لوہانسک</name>
+		<name normalized="ლუგანსკი" languages="Georgian">ლუგანსკი</name>
+		<name normalized="rhーnsk" languages="Japanese">ルハーンシク</name>
+		<name normalized="卢甘斯克" languages="Chinese">卢甘斯克</name>
+		<name normalized="루한시크" languages="Korean">루한시크</name>
+	</region>
+	<region name="Mykolayiv" type="municipality" typeTranslated="misto">
+		<name normalized="Mikolaiv" languages="Catalan;Danish">Mikolaiv</name>
+		<name normalized="Mikolajiv" languages="Croatian;Hungarian">Mikolajiv</name>
+		<name normalized="Mikolajivo" languages="Esperanto">Mikolajivo</name>
+		<name normalized="Mikolayev" languages="Azerbaijani">Mikolayev</name>
+		<name normalized="Mıkolayiv" languages="Crimean Turkish;Turkish">Mıkolayiv</name>
+		<name normalized="Mikolajow" languages="Polish">Mikołajów</name>
+		<name normalized="Mykolaiv" languages="Basque;English;Indonesian;Kalaallisut;Portuguese;Simple English;Spanish;Vietnamese;Waray">Mykolaiv</name>
+		<name normalized="Mykolajiv" languages="Dutch;Finnish;Norwegian (bokmal);Norwegian Nynorsk;Slovak;Swedish">Mykolajiv</name>
+		<name normalized="Mykolajivas" languages="Lithuanian">Mykolajivas</name>
+		<name normalized="Mykolajiw" languages="German;Upper Sorbian">Mykolajiw</name>
+		<name normalized="Mykolayiv" languages="English;official">Mykolayiv</name>
+		<name normalized="Mykolaiv" languages="French;Italian;lumbaart">Mykolaïv</name>
+		<name normalized="Mikolaiv" languages="Romanian">Mîkolaiv</name>
+		<name normalized="Mokolajiv" languages="Estonian">Mõkolajiv</name>
+		<name normalized="Nikolajev" languages="Czech">Nikolajev</name>
+		<name normalized="Nikolajeva" languages="Latvian">Nikolajeva</name>
+		<name normalized="Goрad Мikaлaiў" languages="Belarusian">Горад Мікалаеў</name>
+		<name normalized="Мikoлayv" languages="Rusyn;Ukrainian">Миколаїв</name>
+		<name normalized="Мikoлajiv" languages="Serbian">Миколајив</name>
+		<name normalized="Мikaлaiў" languages="biлaрuсkai (taрaskivita)‎">Мікалаеў</name>
+		<name normalized="Нikoлaiv" languages="Bulgarian;Chechen;Russian">Николаев</name>
+		<name normalized="Նիkvlաև" languages="Armenian">Նիկոլաև</name>
+		<name normalized="מיqvדאייb" languages="Hebrew">מיקולאייב</name>
+		<name normalized="mykولאyf" languages="Arabic">ميكولايف</name>
+		<name normalized="mیکولאئیf" languages="Persian;Western Punjabi">میکولائیف</name>
+		<name normalized="ნიკოლაევი" languages="Georgian">ნიკოლაევი</name>
+		<name normalized="mikrーiu" languages="Japanese">ムィコラーイウ</name>
+		<name normalized="尼古拉耶夫" languages="Chinese">尼古拉耶夫</name>
+		<name normalized="미콜라이우" languages="Korean">미콜라이우</name>
+	</region>
+	<region name="Odesa" type="municipality" typeTranslated="misto">
+		<name normalized="Ades" languages="Crimean Turkish">Ades</name>
+		<name normalized="Odesa" languages="Basque;Breton;Croatian;English;Esperanto;Gagauz;Galician;Latvian;Lithuanian;official;Portuguese;Romanian;Serbo-Croatian;Simple English;Slovak;Slovenian;Spanish;Upper Sorbian;Volapuk">Odesa</name>
+		<name normalized="Odess" languages="Veps">Odess</name>
+		<name normalized="Odessa" languages="Afrikaans;Aragonese;Azerbaijani;Catalan;Danish;Dutch;English;Estonian;Faroese;Finnish;French;German;Ido;Indonesian;Interlingue;Italian;Javanese;Kalaallisut;Latin;Luxembourgish;Norwegian (bokmal);Norwegian Nynorsk;Occitan;Polish;Sardinian;Scots;Sicilian;Silesian;Swedish;Tagalog;Turkish;Vietnamese;veneto;Waray;Welsh;Western Frisian">Odessa</name>
+		<name normalized="Odessza" languages="Hungarian">Odessza</name>
+		<name normalized="Odesa" languages="Czech">Oděsa</name>
+		<name normalized="Udessa" languages="lumbaart">Udessa</name>
+		<name normalized="Odessa" languages="Icelandic">Ódessa</name>
+		<name normalized="Οδησσος" languages="Greek">Οδησσός</name>
+		<name normalized="Adeсa" languages="biлaрuсkai (taрaskivita)‎">Адэса</name>
+		<name normalized="Goрad Adeсa" languages="Belarusian">Горад Адэса</name>
+		<name normalized="Odiсa" languages="Bulgarian;Macedonian;Rusyn;Serbian;Ukrainian">Одеса</name>
+		<name normalized="Odiсс" languages="Mongolian">Одесс</name>
+		<name normalized="Odiссae" languages="Ossetic">Одессæ</name>
+		<name normalized="Odiссa" languages="Chechen;Chuvash;Russian;Sakha;Tajik;Tatar">Одесса</name>
+		<name normalized="Odiссi" languages="Eastern Mari">Одессе</name>
+		<name normalized="Odեsա" languages="Armenian">Օդեսա</name>
+		<name normalized="אדעס" languages="Yiddish">אדעס</name>
+		<name normalized="אvדסh" languages="Hebrew">אודסה</name>
+		<name normalized="أودyسא" languages="Arabic">أوديسا</name>
+		<name normalized="אودسא" languages="Persian">اودسا</name>
+		<name normalized="אودyسא" languages="Egyptian Spoken Arabic">اوديسا</name>
+		<name normalized="אودیسא" languages="Urdu;Western Punjabi">اودیسا</name>
+		<name normalized="odesा" languages="Marathi">ओदेसा</name>
+		<name normalized="အိုဒက်ဆာမြို့" languages="Burmese">အိုဒက်ဆာမြို့</name>
+		<name normalized="ოდესა" languages="Georgian">ოდესა</name>
+		<name normalized="odts" languages="Japanese">オデッサ</name>
+		<name normalized="敖德薩" languages="Chinese">敖德薩</name>
+		<name normalized="오데사" languages="Korean">오데사</name>
+	</region>
+	<region name="Poltava" type="municipality" typeTranslated="misto">
+		<name normalized="Poltava" languages="Azerbaijani;Basque;Catalan;Crimean Turkish;Croatian;Czech;Danish;Dutch;English;Estonian;French;Hungarian;Indonesian;Italian;Latin;Lithuanian;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Romanian;Spanish;Swedish;Turkish;Vietnamese;Waray">Poltava</name>
+		<name normalized="Poltavo" languages="Esperanto">Poltavo</name>
+		<name normalized="Poltawa" languages="Alemannisch;German;Upper Sorbian">Poltawa</name>
+		<name normalized="Poltawa" languages="Polish">Połtawa</name>
+		<name normalized="Pultava" languages="Finnish">Pultava</name>
+		<name normalized="Goрad Paлtava" languages="Belarusian">Горад Палтава</name>
+		<name normalized="Paлtava" languages="biлaрuсkai (taрaskivita)‎">Палтава</name>
+		<name normalized="Poлtavae" languages="Ossetic">Полтавæ</name>
+		<name normalized="Poлtava" languages="Bulgarian;Chechen;Chuvash;Russian;Rusyn;Serbian;Ukrainian">Полтава</name>
+		<name normalized="Pvltավա" languages="Armenian">Պոլտավա</name>
+		<name normalized="pvדtbh" languages="Hebrew">פולטבה</name>
+		<name normalized="pولtאوא" languages="Persian;Western Punjabi">پولتاوا</name>
+		<name normalized="პოლტავა" languages="Georgian">პოლტავა</name>
+		<name normalized="prtva" languages="Japanese">ポルタヴァ</name>
+		<name normalized="波尔塔瓦" languages="Chinese">波尔塔瓦</name>
+		<name normalized="폴타바" languages="Korean">폴타바</name>
+	</region>
+	<region name="Rivne" type="municipality" typeTranslated="misto">
+		<name normalized="Eractum" languages="Latin">Eractum</name>
+		<name normalized="Rivne" languages="Azerbaijani;Basque;Catalan;Crimean Turkish;Croatian;Danish;Dutch;English;Estonian;Finnish;French;Hungarian;Indonesian;Italian;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Romanian;Spanish;Swedish;Turkish;Vietnamese;Waray">Rivne</name>
+		<name normalized="Rivno" languages="Esperanto">Rivno</name>
+		<name normalized="Rivne" languages="Lithuanian">Rivnė</name>
+		<name normalized="Riwne" languages="German;Upper Sorbian">Riwne</name>
+		<name normalized="Rovno" languages="Czech">Rovno</name>
+		<name normalized="Rowne" languages="Polish">Równe</name>
+		<name normalized="Goрad Рoўнa" languages="Belarusian">Горад Роўна</name>
+		<name normalized="Рovнo" languages="Bulgarian;Chechen;Russian;Serbian">Ровно</name>
+		<name normalized="Рoўнa" languages="biлaрuсkai (taрaskivita)‎">Роўна</name>
+		<name normalized="Рivнi" languages="Rusyn;Ukrainian">Рівне</name>
+		<name normalized="Rvվնv" languages="Armenian">Ռովնո</name>
+		<name normalized="rאvvnע" languages="Yiddish">ראוונע</name>
+		<name normalized="rvbnv" languages="Hebrew">רובנו</name>
+		<name normalized="rوfنو" languages="Arabic">روفنو</name>
+		<name normalized="rیون" languages="Western Punjabi">ریون</name>
+		<name normalized="rیونh" languages="Persian">ریونه</name>
+		<name normalized="როვნო" languages="Georgian">როვნო</name>
+		<name normalized="run" languages="Japanese">リウネ</name>
+		<name normalized="羅夫諾" languages="Chinese">羅夫諾</name>
+		<name normalized="리우네" languages="Korean">리우네</name>
+	</region>
+	<region name="Sevastopol'" type="municipality" typeTranslated="misto">
+		<name normalized="Aqyar" languages="Crimean Turkish">Aqyar</name>
+		<name normalized="Sebastopol" languages="Basque;Dutch;Galician;Portuguese;Spanish;Walloon">Sebastopol</name>
+		<name normalized="Sebastopoli" languages="Italian">Sebastopoli</name>
+		<name normalized="Sebastopolis" languages="Latin">Sebastopolis</name>
+		<name normalized="Sebastopolo" languages="Esperanto">Sebastopolo</name>
+		<name normalized="Sebastople" languages="Occitan">Sebastòple</name>
+		<name normalized="Sebastopol" languages="Catalan">Sebastòpol</name>
+		<name normalized="Sevastopol" languages="Aragonese;Azerbaijani;Breton;Czech;Danish;English;Estonian;Finnish;Indonesian;Kalaallisut;Norwegian (bokmal);Norwegian Nynorsk;official;Romanian;Scots;Simple English;Slovenian;Swedish;Vietnamese;Waray">Sevastopol</name>
+		<name normalized="Sevastopol'" languages="English;official">Sevastopol'</name>
+		<name normalized="Sevastopole" languages="Latvian">Sevastopole</name>
+		<name normalized="Sevastopolis" languages="Lithuanian">Sevastopolis</name>
+		<name normalized="Sevastopolj" languages="Croatian;Serbo-Croatian">Sevastopolj</name>
+		<name normalized="Sevastopol" languages="Slovak">Sevastopoľ</name>
+		<name normalized="Sewastopol" languages="Afrikaans;German;Polish;Upper Sorbian">Sewastopol</name>
+		<name normalized="Sivastopol" languages="Turkish">Sivastopol</name>
+		<name normalized="Szevasztopol" languages="Hungarian">Szevasztopol</name>
+		<name normalized="Sebastopol" languages="French">Sébastopol</name>
+		<name normalized="Akъiр" languages="Tatar">Акъяр</name>
+		<name normalized="Goрad Сivaсtopaль" languages="Belarusian">Горад Севастопаль</name>
+		<name normalized="Сivaсtopaль" languages="biлaрuсkai (taрaskivita)‎">Севастопаль</name>
+		<name normalized="Сivaсtopoл" languages="Bulgarian;Macedonian">Севастопол</name>
+		<name normalized="Сivaсtopoль" languages="Chechen;Eastern Mari;Mongolian;Ossetic;Russian;Rusyn;Ukrainian">Севастополь</name>
+		<name normalized="Сivaсtopol" languages="Serbian">Севастопољ</name>
+		<name normalized="Sևաstvpvl" languages="Armenian">Սևաստոպոլ</name>
+		<name normalized="סbסtvpvד" languages="Hebrew">סבסטופול</name>
+		<name normalized="سوאسtوpول" languages="Persian">سواستوپول</name>
+		<name normalized="سyfאسtوbول" languages="Arabic">سيفاستوبول</name>
+		<name normalized="sev्hाs्topol" languages="Marathi">सेव्हास्तोपोल</name>
+		<name normalized="ဆီပတ်စတိုပိုမြို့" languages="Burmese">ဆီပတ်စတိုပိုမြို့</name>
+		<name normalized="სევასტოპოლი" languages="Georgian">სევასტოპოლი</name>
+		<name normalized="svastpr" languages="Japanese">セヴァストポリ</name>
+		<name normalized="塞瓦斯托波爾" languages="Chinese">塞瓦斯托波爾</name>
+		<name normalized="세바스토폴" languages="Korean">세바스토폴</name>
+	</region>
+	<region name="Sumy" type="municipality" typeTranslated="misto">
+		<name normalized="Soemy" languages="Dutch">Soemy</name>
+		<name normalized="Soumy" languages="French">Soumy</name>
+		<name normalized="Sumai" languages="Lithuanian">Sumai</name>
+		<name normalized="Sumi" languages="Azerbaijani;Crimean Turkish;Croatian;Turkish;Vietnamese">Sumi</name>
+		<name normalized="Sumio" languages="Esperanto">Sumio</name>
+		<name normalized="Sumy" languages="Basque;Czech;English;Finnish;German;Indonesian;Italian;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Slovak;Spanish;Swedish;Upper Sorbian;Waray">Sumy</name>
+		<name normalized="Sumi" languages="Romanian">Sumî</name>
+		<name normalized="Sumo" languages="Estonian">Sumõ</name>
+		<name normalized="Szumi" languages="Hungarian">Szumi</name>
+		<name normalized="Goрad Сuмы" languages="Belarusian">Горад Сумы</name>
+		<name normalized="Сuмi" languages="Bulgarian;Chechen;Serbian;Ukrainian">Суми</name>
+		<name normalized="Сuмы" languages="Ossetic;Russian;Rusyn;biлaрuсkai (taрaskivita)‎">Сумы</name>
+		<name normalized="Svymի" languages="Armenian">Սումի</name>
+		<name normalized="סvמי" languages="Hebrew">סומי</name>
+		<name normalized="سوmy" languages="Arabic">سومي</name>
+		<name normalized="سوmی" languages="Persian;Western Punjabi">سومی</name>
+		<name normalized="სუმი" languages="Georgian">სუმი</name>
+		<name normalized="sーmi" languages="Japanese">スームィ</name>
+		<name normalized="蘇梅" languages="Chinese">蘇梅</name>
+		<name normalized="수미" languages="Korean">수미</name>
+	</region>
+	<region name="Ternopil'" type="municipality" typeTranslated="misto">
+		<name normalized="Tarnopol" languages="Polish">Tarnopol</name>
+		<name normalized="Tarnopolis" languages="Latin">Tarnopolis</name>
+		<name normalized="Ternopil" languages="Azerbaijani;Basque;Crimean Turkish;Czech;Dutch;English;Estonian;Finnish;French;German;Ido;Indonesian;Norwegian (bokmal);Norwegian Nynorsk;official;Romanian;Scots;Simple English;Spanish;Swedish;Turkish;Upper Sorbian;Vietnamese;Waray">Ternopil</name>
+		<name normalized="Ternopil'" languages="English;Italian;official">Ternopil'</name>
+		<name normalized="Ternopilis" languages="Lithuanian">Ternopilis</name>
+		<name normalized="Ternopilj" languages="Croatian">Ternopilj</name>
+		<name normalized="Ternopilo" languages="Esperanto">Ternopilo</name>
+		<name normalized="Ternopol'" languages="Veps">Ternopol'</name>
+		<name normalized="Goрad Tiрнopaль" languages="Belarusian">Горад Цярнопаль</name>
+		<name normalized="Tiрнopoл" languages="Bulgarian">Тернопол</name>
+		<name normalized="Tiрнopoль" languages="Chechen;Russian;Sakha">Тернополь</name>
+		<name normalized="Tiрнopol" languages="Serbian">Тернопољ</name>
+		<name normalized="Tiрнopiль" languages="Rusyn;Ukrainian">Тернопіль</name>
+		<name normalized="Teрнopaль" languages="biлaрuсkai (taрaskivita)‎">Тэрнопаль</name>
+		<name normalized="Tեrնvpvl" languages="Armenian">Տերնոպոլ</name>
+		<name normalized="trnvpvד" languages="Hebrew">טרנופול</name>
+		<name normalized="trنوbل" languages="Arabic">ترنوبل</name>
+		<name normalized="trنوpیل" languages="Persian">ترنوپیل</name>
+		<name normalized="ტერნოპოლი" languages="Georgian">ტერნოპოლი</name>
+		<name normalized="trnーpr" languages="Japanese">テルノーピリ</name>
+		<name normalized="捷尔诺波尔" languages="Chinese">捷尔诺波尔</name>
+		<name normalized="테르노필" languages="Korean">테르노필</name>
+	</region>
+	<region name="Vinnytsya" type="municipality" typeTranslated="misto">
+		<name normalized="Vinico" languages="Esperanto">Vinico</name>
+		<name normalized="Vinnicia" languages="Latin">Vinnicia</name>
+		<name normalized="Vinnicja" languages="Croatian;Hungarian">Vinnicja</name>
+		<name normalized="Vinnitsya" languages="Azerbaijani;Turkish">Vinnitsya</name>
+		<name normalized="Vinnıtsa" languages="Crimean Turkish">Vinnıtsâ</name>
+		<name normalized="Vinnycia" languages="Slovak">Vinnycia</name>
+		<name normalized="Vinnycja" languages="Czech;Italian">Vinnycja</name>
+		<name normalized="Vinnytsia" languages="Basque;English;French;Indonesian;Kalaallisut;Norwegian (bokmal);Norwegian Nynorsk;Portuguese;Spanish;Vietnamese;Waray">Vinnytsia</name>
+		<name normalized="Vinnytsja" languages="Dutch;Finnish;Swedish">Vinnytsja</name>
+		<name normalized="Vinnytsya" languages="English;official">Vinnytsya</name>
+		<name normalized="Vinnițea" languages="Romanian">Vinnîțea</name>
+		<name normalized="Vinnotsja" languages="Estonian">Vinnõtsja</name>
+		<name normalized="Vinycia" languages="Lithuanian">Vinycia</name>
+		<name normalized="Vinnitsja" languages="Danish">Vínnitsja</name>
+		<name normalized="Vinnytsia" languages="Catalan">Vínnytsia</name>
+		<name normalized="Winnica" languages="Polish">Winnica</name>
+		<name normalized="Winnycja" languages="Upper Sorbian">Winnycja</name>
+		<name normalized="Winnyzja" languages="German">Winnyzja</name>
+		<name normalized="Viнita" languages="Bulgarian;Macedonian;Serbian">Виница</name>
+		<name normalized="Viннitae" languages="Ossetic">Винницæ</name>
+		<name normalized="Viннita" languages="Chechen;Kazakh;Russian;Sakha;Tatar">Винница</name>
+		<name normalized="Viннiti" languages="Eastern Mari">Виннице</name>
+		<name normalized="Viнiti" languages="Rusyn">Віниця</name>
+		<name normalized="Viннiti" languages="Ukrainian">Вінниця</name>
+		<name normalized="Viньнita" languages="biлaрuсkai (taрaskivita)‎">Віньніца</name>
+		<name normalized="Goрad Viннita" languages="Belarusian">Горад Вінніца</name>
+		<name normalized="Վիննիcա" languages="Armenian">Վիննիցա</name>
+		<name normalized="vיnיצh" languages="Hebrew">ויניצה</name>
+		<name normalized="fyنytسא" languages="Arabic">فينيتسا</name>
+		<name normalized="وینیtسא" languages="Persian">وینیتسا</name>
+		<name normalized="وینیtسیא" languages="Western Punjabi">وینیتسیا</name>
+		<name normalized="ვინიცა" languages="Georgian">ვინიცა</name>
+		<name normalized="viーnnity" languages="Japanese">ヴィーンヌィツャ</name>
+		<name normalized="文尼察" languages="Chinese">文尼察</name>
+		<name normalized="빈니차" languages="Korean">빈니차</name>
+	</region>
+	<region name="Volyn'" type="municipality" typeTranslated="misto">
+		<name normalized="Volhinya" languages="Turkish">Volhinya</name>
+		<name normalized="Volhynia" languages="English;Indonesian;Latin;Norwegian (bokmal);Norwegian Nynorsk">Volhynia</name>
+		<name normalized="Volhynie" languages="French">Volhynie</name>
+		<name normalized="Volhynien" languages="Danish">Volhynien</name>
+		<name normalized="Volinia" languages="Basque;Italian;Spanish">Volinia</name>
+		<name normalized="Volinio" languages="Esperanto">Volinio</name>
+		<name normalized="Volinj" languages="Croatian">Volinj</name>
+		<name normalized="Voluine" languages="Lithuanian">Voluinė</name>
+		<name normalized="Volyn" languages="English;official">Volyn</name>
+		<name normalized="Volyn'" languages="English;official">Volyn'</name>
+		<name normalized="Volynia" languages="Finnish">Volynia</name>
+		<name normalized="Volynien" languages="Swedish">Volynien</name>
+		<name normalized="Volyn" languages="Czech">Volyň</name>
+		<name normalized="Volania" languages="Romanian">Volânia</name>
+		<name normalized="Volinia" languages="Catalan;Portuguese">Volínia</name>
+		<name normalized="Wolhynien" languages="German">Wolhynien</name>
+		<name normalized="Wolynie" languages="Dutch">Wolynië</name>
+		<name normalized="Wolynska" languages="Upper Sorbian">Wołynska</name>
+		<name normalized="Wolyn" languages="Polish">Wołyń</name>
+		<name normalized="Wolynska" languages="Lower Sorbian">Wołyńska</name>
+		<name normalized="Vaлынь" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Валынь</name>
+		<name normalized="Voлiнь" languages="Ukrainian">Волинь</name>
+		<name normalized="Voлынь" languages="Russian">Волынь</name>
+		<name normalized="vvאhדין" languages="Yiddish">וואהלין</name>
+		<name normalized="vvhדין" languages="Hebrew">ווהלין</name>
+		<name normalized="fولyنyא" languages="Arabic">فولينيا</name>
+		<name normalized="ولین" languages="Western Punjabi">ولین</name>
+		<name normalized="voriーn" languages="Japanese">ヴォルィーニ</name>
+		<name normalized="沃里尼亞" languages="Chinese">沃里尼亞</name>
+		<name normalized="볼히니아" languages="Korean">볼히니아</name>
+	</region>
+	<region name="Zakarpattya" type="municipality" typeTranslated="misto">
+		<name normalized="Transcarpathia" languages="English">Transcarpathia</name>
+		<name normalized="Zakarpattya" languages="English;official">Zakarpattya</name>
+		<name normalized="Zakaрpatti" languages="Ukrainian">Закарпаття</name>
+	</region>
+	<region name="Zaporizhzhya" type="municipality" typeTranslated="misto">
+		<name normalized="Saporischschja" languages="German">Saporischschja</name>
+		<name normalized="Zaporijia" languages="French;Volapuk">Zaporijia</name>
+		<name normalized="Zaporijja" languages="Crimean Turkish">Zaporijjâ</name>
+		<name normalized="Zaporijya" languages="Turkish">Zaporijya</name>
+		<name normalized="Zaporiyia" languages="Spanish">Zaporiyia</name>
+		<name normalized="Zaporizhia" languages="Basque;English;Indonesian;Interlingue;Vietnamese;Waray">Zaporizhia</name>
+		<name normalized="Zaporizhzhia" languages="Kalaallisut">Zaporizhzhia</name>
+		<name normalized="Zaporizhzhya" languages="English;official;Portuguese">Zaporizhzhya</name>
+		<name normalized="Zaporizja" languages="Dutch">Zaporizja</name>
+		<name normalized="Zaporizjzja" languages="Danish;Norwegian (bokmal);Swedish">Zaporizjzja</name>
+		<name normalized="Zaporizjzjia" languages="Norwegian Nynorsk">Zaporizjzjia</name>
+		<name normalized="Zaporizzsja" languages="Hungarian">Zaporizzsja</name>
+		<name normalized="Zaporijo" languages="Esperanto">Zaporiĵo</name>
+		<name normalized="Zaporizzja" languages="Croatian;Estonian;Finnish;Italian">Zaporižžja</name>
+		<name normalized="Zaporoje" languages="Romanian">Zaporoje</name>
+		<name normalized="Zaporojya" languages="Azerbaijani">Zaporojya</name>
+		<name normalized="Zaporojye" languages="Gagauz;Uzbek">Zaporojye</name>
+		<name normalized="Zaporoze" languages="Polish">Zaporoże</name>
+		<name normalized="Zaporozje" languages="Latvian;Upper Sorbian">Zaporožje</name>
+		<name normalized="Zaporoze" languages="Lithuanian">Zaporožė</name>
+		<name normalized="Zaporijjia" languages="Catalan">Zaporíjjia</name>
+		<name normalized="Zaporozie" languages="Slovak">Záporožie</name>
+		<name normalized="Zaporozi" languages="Czech">Záporoží</name>
+		<name normalized="Ζαποριζια" languages="Greek">Ζαπορίζια</name>
+		<name normalized="Goрad Zapaрozza" languages="Belarusian">Горад Запарожжа</name>
+		<name normalized="Zapaрozza" languages="biлaрuсkai (taрaskivita)‎">Запарожжа</name>
+		<name normalized="Zapoрozii" languages="Bulgarian">Запорожие</name>
+		<name normalized="Zapoрozьi" languages="Chechen;Eastern Mari;Ossetic;Russian;Sakha">Запорожье</name>
+		<name normalized="Zapoрozьi kot" languages="Mongolian">Запорожье хот</name>
+		<name normalized="Zapoрozji" languages="Serbian">Запорожје</name>
+		<name normalized="Zapoрizzi" languages="Ukrainian">Запоріжжя</name>
+		<name normalized="Zapoрizi" languages="Rusyn">Запоріжя</name>
+		<name normalized="Zաpvrvժիե" languages="Armenian">Զապորոժիե</name>
+		<name normalized="זאpאrאזשיע" languages="Yiddish">זאפאראזשיע</name>
+		<name normalized="זpvrvז'יh" languages="Hebrew">זפורוז'יה</name>
+		<name normalized="زאbوrوjyyh" languages="Arabic">زابوروجييه</name>
+		<name normalized="زאprوjیא" languages="Persian">زاپروژیا</name>
+		<name normalized="زאpوrیjینא" languages="Western Punjabi">زاپوریژینا</name>
+		<name normalized="jाporijiyा" languages="Marathi">झापोरिझिया</name>
+		<name normalized="ზაპოროჟიე" languages="Georgian">ზაპოროჟიე</name>
+		<name normalized="zprーzy" languages="Japanese">ザポリージャ</name>
+		<name normalized="扎波罗热" languages="Chinese">扎波罗热</name>
+		<name normalized="자포리자" languages="Korean">자포리자</name>
+	</region>
+	<region name="Zhytomyr" type="municipality" typeTranslated="misto">
+		<name normalized="Jitomir" languages="Azerbaijani;Breton;Crimean Turkish;Portuguese;Turkish">Jitomir</name>
+		<name normalized="Jytomyr" languages="French">Jytomyr</name>
+		<name normalized="Jytomyr" languages="Catalan">Jytómyr</name>
+		<name normalized="Jitomir" languages="Romanian">Jîtomîr</name>
+		<name normalized="Schytomyr" languages="German">Schytomyr</name>
+		<name normalized="Zhytomyr" languages="Basque;English;Indonesian;official;Simple English;Spanish;Vietnamese;Waray">Zhytomyr</name>
+		<name normalized="Zitomiria" languages="Latin">Zitomiria</name>
+		<name normalized="Zjitomir" languages="Danish">Zjitomir</name>
+		<name normalized="Zjytomyr" languages="Dutch;Norwegian (bokmal);Norwegian Nynorsk;Swedish">Zjytomyr</name>
+		<name normalized="Zsitomir" languages="Hungarian">Zsitomir</name>
+		<name normalized="Jitomir" languages="Esperanto">Ĵitomir</name>
+		<name normalized="Zytomierz" languages="Polish">Żytomierz</name>
+		<name normalized="Zitomir" languages="Croatian">Žitomir</name>
+		<name normalized="Zytomyr" languages="Czech;Finnish;Italian;Slovak;Upper Sorbian">Žytomyr</name>
+		<name normalized="Zytomyras" languages="Lithuanian">Žytomyras</name>
+		<name normalized="Zotomor" languages="Estonian">Žõtomõr</name>
+		<name normalized="Goрad Zыtoмiр" languages="Belarusian">Горад Жытомір</name>
+		<name normalized="Zitoмiр" languages="Bulgarian;Chechen;Chuvash;Eastern Mari;Russian;Sakha;Serbian;Tatar;Ukrainian">Житомир</name>
+		<name normalized="Zitoмiръ" languages="Church Slavic">Житомиръ</name>
+		<name normalized="Zыtoмiр" languages="Rusyn">Жытомир</name>
+		<name normalized="Zыtoмiр" languages="biлaрuсkai (taрaskivita)‎">Жытомір</name>
+		<name normalized="Ժիtvmիr" languages="Armenian">Ժիտոմիր</name>
+		<name normalized="ז'יtvמיr" languages="Hebrew">ז'יטומיר</name>
+		<name normalized="זשיtאמיr" languages="Yiddish">זשיטאמיר</name>
+		<name normalized="jytوmyr" languages="Arabic">جيتومير</name>
+		<name normalized="jیtوmیr" languages="Persian;Western Punjabi">ژیتومیر</name>
+		<name normalized="ჟიტომირი" languages="Georgian">ჟიტომირი</name>
+		<name normalized="ztーmir" languages="Japanese">ジトームィル</name>
+		<name normalized="日托米尔" languages="Chinese">日托米尔</name>
+		<name normalized="지토미르" languages="Korean">지토미르</name>
+	</region>
+</regions>

@@ -1,0 +1,160 @@
+<regions country="Gabon">
+	<region name="Estuaire" type="province" typeTranslated="province">
+		<name normalized="Estuaire" languages="Breton;Dutch;English;Finnish;French;German;Indonesian;Italian;Kurdish;Norwegian (bokmal);official;Polish;Portuguese;Silesian;Vietnamese;Waray">Estuaire</name>
+		<name normalized="Estuaire probintzia" languages="Basque">Estuaire probintzia</name>
+		<name normalized="Estuaire Province" languages="English">Estuaire Province</name>
+		<name normalized="Estuarijos provincija" languages="Lithuanian">Estuarijos provincija</name>
+		<name normalized="Mkoa wa Estuaire" languages="Swahili">Mkoa wa Estuaire</name>
+		<name normalized="Province Estuaire" languages="English;official">Province Estuaire</name>
+		<name normalized="Provincia de Estuaire" languages="Spanish">Provincia de Estuaire</name>
+		<name normalized="Provincia Estuaire" languages="Romanian">Provincia Estuaire</name>
+		<name normalized="Provincia d'Estuaire" languages="Catalan">Província d'Estuaire</name>
+		<name normalized="Iсtuaр" languages="Bulgarian">Естуар</name>
+		<name normalized="Eсtuaрe" languages="biлaрuсkai (taрaskivita)‎">Эстуарэ</name>
+		<name normalized="Eсtueр" languages="Russian">Эстуэр</name>
+		<name normalized="estyeーr州" languages="Japanese">エスチュエール州</name>
+		<name normalized="河口省" languages="Chinese">河口省</name>
+		<name normalized="에스튀에르 주" languages="Korean">에스튀에르 주</name>
+	</region>
+	<region name="Haut-Ogooue" type="province" typeTranslated="province">
+		<name normalized="Aukstutines Ogoves provincija" languages="Lithuanian">Aukštutinės Ogovės provincija</name>
+		<name normalized="Haut Ogooue" languages="Finnish">Haut Ogooué</name>
+		<name normalized="Haut-Ogooue" languages="Basque;English;official;Vietnamese">Haut-Ogooue</name>
+		<name normalized="Haut-Ogooue Province" languages="English;official">Haut-Ogooue Province</name>
+		<name normalized="Haut-Ogooue" languages="Breton;Dutch;French;German;Indonesian;Italian;Kurdish;Norwegian (bokmal);Portuguese;Waray">Haut-Ogooué</name>
+		<name normalized="Haut-Ogooue Province" languages="English">Haut-Ogooué Province</name>
+		<name normalized="Mkoa wa Haut-Ogooue" languages="Swahili">Mkoa wa Haut-Ogooué</name>
+		<name normalized="Ogowe Gorne" languages="Polish">Ogowe Górne</name>
+		<name normalized="Provincia de Haut-Ogooue" languages="Spanish">Provincia de Haut-Ogooué</name>
+		<name normalized="Provincia Haut-Ogooue" languages="Romanian">Provincia Haut-Ogooué</name>
+		<name normalized="Provincia d'Haut-Ogooue" languages="Catalan">Província d'Haut-Ogooué</name>
+		<name normalized="Viрkнii Ogovi" languages="Russian">Верхнее Огове</name>
+		<name normalized="Viрkнii Agaўe" languages="biлaрuсkai (taрaskivita)‎">Верхняе Агаўэ</name>
+		<name normalized="O Ogoui" languages="Bulgarian">О Огоуе</name>
+		<name normalized="oーtogue州" languages="Japanese">オートオゴウェ州</name>
+		<name normalized="上奥果韦省" languages="Chinese">上奥果韦省</name>
+		<name normalized="오트오고웨 주" languages="Korean">오트오고웨 주</name>
+	</region>
+	<region name="Moyen-Ogooue" type="province" typeTranslated="province">
+		<name normalized="Mkoa wa Moyen-Ogooue" languages="Swahili">Mkoa wa Moyen-Ogooué</name>
+		<name normalized="Moyen Ogooue" languages="Finnish">Moyen Ogooué</name>
+		<name normalized="Moyen-Ogooue" languages="English;official">Moyen-Ogooue</name>
+		<name normalized="Moyen-Ogooue Province" languages="English;official">Moyen-Ogooue Province</name>
+		<name normalized="Moyen-Ogooue" languages="Breton;Dutch;French;German;Indonesian;Italian;Kurdish;Norwegian (bokmal);Portuguese;Vietnamese;Waray">Moyen-Ogooué</name>
+		<name normalized="Moyen-Ogooue Province" languages="English">Moyen-Ogooué Province</name>
+		<name normalized="Ogowe Srodkowe" languages="Polish">Ogowe Środkowe</name>
+		<name normalized="Provincia de Moyen-Ogooue" languages="Spanish">Provincia de Moyen-Ogooué</name>
+		<name normalized="Provincia de Moyen-Ogooue" languages="Catalan">Província de Moyen-Ogooué</name>
+		<name normalized="Viduriniosios Ogoves provincija" languages="Lithuanian">Viduriniosios Ogovės provincija</name>
+		<name normalized="Мoaiн Ogoui" languages="Bulgarian">Моаян Огоуе</name>
+		<name normalized="Срidнii Ogovi" languages="Russian">Среднее Огове</name>
+		<name normalized="Сiрedнii Agaўe" languages="biлaрuсkai (taрaskivita)‎">Сярэдняе Агаўэ</name>
+		<name normalized="mwien・ogue州" languages="Japanese">モワイエン・オゴウェ州</name>
+		<name normalized="中奧果韋省" languages="Chinese">中奧果韋省</name>
+		<name normalized="무아얭오고웨 주" languages="Korean">무아얭오고웨 주</name>
+	</region>
+	<region name="Ngounie" type="province" typeTranslated="province">
+		<name normalized="Mkoa wa Ngounie" languages="Swahili">Mkoa wa Ngounié</name>
+		<name normalized="Ngounie" languages="English;official">Ngounie</name>
+		<name normalized="Ngounie Province" languages="English;official">Ngounie Province</name>
+		<name normalized="Ngounie" languages="Breton;Dutch;French;German;Indonesian;Kurdish;Malay;Norwegian (bokmal);Polish;Portuguese;Vietnamese;Waray">Ngounié</name>
+		<name normalized="Ngounie Province" languages="English">Ngounié Province</name>
+		<name normalized="Ngunio provincija" languages="Lithuanian">Ngunio provincija</name>
+		<name normalized="Provincia de Ngounie" languages="Spanish">Provincia de Ngounié</name>
+		<name normalized="Provincia di Ngounie" languages="Italian">Provincia di Ngounié</name>
+		<name normalized="Provincia de Ngounie" languages="Catalan">Província de Ngounié</name>
+		<name normalized="Нguнi" languages="Russian">Нгуни</name>
+		<name normalized="Нguнii" languages="Bulgarian">Нгуние</name>
+		<name normalized="Нguнi" languages="biлaрuсkai (taрaskivita)‎">Нгуні</name>
+		<name normalized="ngne州" languages="Japanese">ングニエ州</name>
+		<name normalized="恩古涅省" languages="Chinese">恩古涅省</name>
+		<name normalized="응고위니에 주" languages="Korean">응고위니에 주</name>
+	</region>
+	<region name="Nyanga" type="province" typeTranslated="province">
+		<name normalized="Mkoa wa Nyanga" languages="Swahili">Mkoa wa Nyanga</name>
+		<name normalized="Niangos provincija" languages="Lithuanian">Niangos provincija</name>
+		<name normalized="Nyanga" languages="Breton;Dutch;English;Finnish;French;German;Italian;Kurdish;Norwegian (bokmal);official;Polish;Portuguese;Waray">Nyanga</name>
+		<name normalized="Nyanga Province" languages="English;official">Nyanga Province</name>
+		<name normalized="Provincia de Nyanga" languages="Spanish">Provincia de Nyanga</name>
+		<name normalized="Provincia di Nyanga" languages="Italian">Provincia di Nyanga</name>
+		<name normalized="Provincia Nyanga" languages="Romanian">Provincia Nyanga</name>
+		<name normalized="Provinsi Nyanga" languages="Indonesian">Provinsi Nyanga</name>
+		<name normalized="Provincia de Nyanga" languages="Catalan">Província de Nyanga</name>
+		<name normalized="Ньiнga" languages="Russian;biлaрuсkai (taрaskivita)‎">Ньянга</name>
+		<name normalized="Нiнga" languages="Bulgarian">Нянга</name>
+		<name normalized="Naнga" languages="Serbian">Њанга</name>
+		<name normalized="nyng州" languages="Japanese">ニャンガ州</name>
+		<name normalized="尼揚加省" languages="Chinese">尼揚加省</name>
+		<name normalized="냥가 주" languages="Korean">냥가 주</name>
+	</region>
+	<region name="Ogooue-Ivindo" type="province" typeTranslated="province">
+		<name normalized="Mkoa wa Ogooue-Ivindo" languages="Swahili">Mkoa wa Ogooué-Ivindo</name>
+		<name normalized="Ogooue-Ivindo" languages="English;official">Ogooue-Ivindo</name>
+		<name normalized="Ogooue-Ivindo Province" languages="English;official">Ogooue-Ivindo Province</name>
+		<name normalized="Ogooue-Ivindo" languages="Breton;Dutch;French;German;Indonesian;Italian;Kurdish;Norwegian (bokmal);Portuguese;Vietnamese;Waray">Ogooué-Ivindo</name>
+		<name normalized="Ogooue-Ivindo Province" languages="English">Ogooué-Ivindo Province</name>
+		<name normalized="Ogoves-Ivindo provincija" languages="Lithuanian">Ogovės-Ivindo provincija</name>
+		<name normalized="Ogowe-Ivindo" languages="Polish">Ogowe-Ivindo</name>
+		<name normalized="Provincia de Ogooue-Ivindo" languages="Spanish">Provincia de Ogooué-Ivindo</name>
+		<name normalized="Provincia Ogooue-Ivindo" languages="Romanian">Provincia Ogooué-Ivindo</name>
+		<name normalized="Provincia d'Ogooue-Ivindo" languages="Catalan">Província d'Ogooué-Ivindo</name>
+		<name normalized="Agaўe-Iviнdo" languages="biлaрuсkai (taрaskivita)‎">Агаўэ-Івіндо</name>
+		<name normalized="Ogovi-Iviнdo" languages="Russian">Огове-Ивиндо</name>
+		<name normalized="Ogoui-Iviнdo" languages="Bulgarian">Огоуе-Ивиндо</name>
+		<name normalized="ogue・ivind州" languages="Japanese">オゴウェ・イヴィンド州</name>
+		<name normalized="奧果韋-伊溫多省" languages="Chinese">奧果韋-伊溫多省</name>
+		<name normalized="오고웨이빈도 주" languages="Korean">오고웨이빈도 주</name>
+	</region>
+	<region name="Ogooue-Lolo" type="province" typeTranslated="province">
+		<name normalized="Mkoa wa Ogooue-Lolo" languages="Swahili">Mkoa wa Ogooué-Lolo</name>
+		<name normalized="Ogooue-Lolo" languages="English;official">Ogooue-Lolo</name>
+		<name normalized="Ogooue-Lolo Province" languages="English;official">Ogooue-Lolo Province</name>
+		<name normalized="Ogooue-Lolo" languages="Breton;Dutch;French;German;Indonesian;Italian;Kurdish;Norwegian (bokmal);Portuguese;Vietnamese;Waray">Ogooué-Lolo</name>
+		<name normalized="Ogooue-Lolo Province" languages="English">Ogooué-Lolo Province</name>
+		<name normalized="Ogoves-Lolo provincija" languages="Lithuanian">Ogovės-Lolo provincija</name>
+		<name normalized="Ogowe-Lolo" languages="Polish">Ogowe-Lolo</name>
+		<name normalized="Provincia de Ogooue-Lolo" languages="Spanish">Provincia de Ogooué-Lolo</name>
+		<name normalized="Provincia Ogooue-Lolo" languages="Romanian">Provincia Ogooué-Lolo</name>
+		<name normalized="Provincia d'Ogooue-Lolo" languages="Catalan">Província d'Ogooué-Lolo</name>
+		<name normalized="Agaўe-Лёлё" languages="biлaрuсkai (taрaskivita)‎">Агаўэ-Лёлё</name>
+		<name normalized="Ogovi-Лoлo" languages="Russian">Огове-Лоло</name>
+		<name normalized="Ogoui-Лoлo" languages="Bulgarian">Огоуе-Лоло</name>
+		<name normalized="ogue・rr州" languages="Japanese">オゴウェ・ロロ州</name>
+		<name normalized="奧果韋-洛洛省" languages="Chinese">奧果韋-洛洛省</name>
+		<name normalized="오고웨롤로 주" languages="Korean">오고웨롤로 주</name>
+	</region>
+	<region name="Ogooue-Maritime" type="province" typeTranslated="province">
+		<name normalized="Mkoa wa Ogooue-Maritime" languages="Swahili">Mkoa wa Ogooué-Maritime</name>
+		<name normalized="Ogooue-Maritime" languages="English;official">Ogooue-Maritime</name>
+		<name normalized="Ogooue-Maritime Province" languages="English;official">Ogooue-Maritime Province</name>
+		<name normalized="Ogooue-Maritime" languages="Breton;Dutch;French;German;Indonesian;Kurdish;Norwegian (bokmal);Portuguese;Vietnamese;Waray">Ogooué-Maritime</name>
+		<name normalized="Ogooue-Maritime Province" languages="English">Ogooué-Maritime Province</name>
+		<name normalized="Ogowe Nadmorskie" languages="Polish">Ogowe Nadmorskie</name>
+		<name normalized="Pajurio Ogoves provincija" languages="Lithuanian">Pajūrio Ogovės provincija</name>
+		<name normalized="Provincia de Ogooue-Maritime" languages="Spanish">Provincia de Ogooué-Maritime</name>
+		<name normalized="Provincia di Ogooue-Maritime" languages="Italian">Provincia di Ogooué-Maritime</name>
+		<name normalized="Provincia Ogooue-Maritime" languages="Romanian">Provincia Ogooué-Maritime</name>
+		<name normalized="Provincia d'Ogooue-Maritime" languages="Catalan">Província d'Ogooué-Maritime</name>
+		<name normalized="Agaўe-Мaрыtым" languages="biлaрuсkai (taрaskivita)‎">Агаўэ-Марытым</name>
+		<name normalized="Ogovi-Мaрitiм" languages="Russian">Огове-Маритим</name>
+		<name normalized="Ogoui-Мaрitiм" languages="Bulgarian">Огоуе-Маритим</name>
+		<name normalized="ogue・mrtim州" languages="Japanese">オゴウェ・マリティム州</name>
+		<name normalized="濱海奧果韋省" languages="Chinese">濱海奧果韋省</name>
+		<name normalized="오고웨마리팀 주" languages="Korean">오고웨마리팀 주</name>
+	</region>
+	<region name="Woleu-Ntem" type="province" typeTranslated="province">
+		<name normalized="Mkoa wa Woleu-Ntem" languages="Swahili">Mkoa wa Woleu-Ntem</name>
+		<name normalized="Provincia de Woleu-Ntem" languages="Spanish">Provincia de Woleu-Ntem</name>
+		<name normalized="Provincia Woleu-Ntem" languages="Romanian">Provincia Woleu-Ntem</name>
+		<name normalized="Provincia de Woleu-Ntem" languages="Catalan">Província de Woleu-Ntem</name>
+		<name normalized="Volijo-Ntemo provincija" languages="Lithuanian">Volijo-Ntemo provincija</name>
+		<name normalized="Woleu-Ntem" languages="Breton;Dutch;English;French;German;Indonesian;Italian;Kurdish;Norwegian (bokmal);official;Polish;Portuguese;Vietnamese;Waray">Woleu-Ntem</name>
+		<name normalized="Woleu-Ntem Province" languages="English;official">Woleu-Ntem Province</name>
+		<name normalized="Vaлю-Нteм" languages="biлaрuсkai (taрaskivita)‎">Валю-Нтэм</name>
+		<name normalized="Voльo-Нtiм" languages="Bulgarian">Вольо-Нтем</name>
+		<name normalized="Voлю-Нtiм" languages="Russian">Волю-Нтем</name>
+		<name normalized="uoru・ntm州" languages="Japanese">ウォレウ・ンテム州</name>
+		<name normalized="沃勒-恩特姆省" languages="Chinese">沃勒-恩特姆省</name>
+		<name normalized="욀뢰은템 주" languages="Korean">욀뢰은템 주</name>
+	</region>
+</regions>

@@ -1,0 +1,482 @@
+<regions country="Paraguay">
+	<region name="Alto Paraguay" type="department" typeTranslated="departamento">
+		<name normalized="Alto Paraguay" languages="Dutch;English;official;Portuguese;Swedish;Waray">Alto Paraguay</name>
+		<name normalized="Alto Paraguay Departamento" languages="English;official">Alto Paraguay Departamento</name>
+		<name normalized="Alto Paraguay Department" languages="English;official">Alto Paraguay Department</name>
+		<name normalized="Alto Paraguay megye" languages="Hungarian">Alto Paraguay megye</name>
+		<name normalized="Alto Paraguayn maakunta" languages="Finnish">Alto Paraguayn maakunta</name>
+		<name normalized="Alto Paraguai" languages="Guarani">Alto Paraguái</name>
+		<name normalized="Alto Paragvaj" languages="Croatian">Alto Paragvaj</name>
+		<name normalized="Alto Parawayi suyu" languages="Quechua">Alto Parawayi suyu</name>
+		<name normalized="Aukstotene Paragvajaus departaments" languages="Samogitian">Aukštotėne Paragvajaus departaments</name>
+		<name normalized="Aukstutinio Paragvajaus departamentas" languages="Lithuanian">Aukštutinio Paragvajaus departamentas</name>
+		<name normalized="Departament de l'Alt Paraguai" languages="Catalan">Departament de l'Alt Paraguai</name>
+		<name normalized="Departamento Alto Paraguay" languages="German">Departamento Alto Paraguay</name>
+		<name normalized="Departamento de Alto Paraguay" languages="Galician;Spanish">Departamento de Alto Paraguay</name>
+		<name normalized="Departemen Alto Paraguay" languages="Indonesian">Departemen Alto Paraguay</name>
+		<name normalized="Dipartimento dell'Alto Paraguay" languages="Italian">Dipartimento dell'Alto Paraguay</name>
+		<name normalized="Departement de l'Alto Paraguay" languages="French">Département de l'Alto Paraguay</name>
+		<name normalized="Gorny Paragwaj" languages="Polish">Górny Paragwaj</name>
+		<name normalized="Aлto Paрagvaj" languages="Macedonian">Алто Парагвај</name>
+		<name normalized="Aльto-Paрagvaй" languages="Russian">Альто-Парагвай</name>
+		<name normalized="Goрiн Paрagvaй" languages="Bulgarian">Горен Парагвай</name>
+		<name normalized="ალტო-პარაგვაის დეპარტამენტი" languages="Georgian">ალტო-პარაგვაის დეპარტამენტი</name>
+		<name normalized="art・prgai県" languages="Japanese">アルト・パラグアイ県</name>
+		<name normalized="上巴拉圭省" languages="Chinese">上巴拉圭省</name>
+	</region>
+	<region name="Alto Parana" type="department" typeTranslated="departamento">
+		<name normalized="Alto Parana" languages="English;Guarani;official">Alto Parana</name>
+		<name normalized="Alto Parana Departamento" languages="English;official">Alto Parana Departamento</name>
+		<name normalized="Alto Parana Department" languages="English;official">Alto Parana Department</name>
+		<name normalized="Alto Parana" languages="Corsican;Croatian;Dutch;Galician;Portuguese;Swedish;Waray">Alto Paraná</name>
+		<name normalized="Alto Parana Depairtment" languages="Scots">Alto Paraná Depairtment</name>
+		<name normalized="Alto Parana Department" languages="English">Alto Paraná Department</name>
+		<name normalized="Alto Parana megye" languages="Hungarian">Alto Paraná megye</name>
+		<name normalized="Alto Parana suyu" languages="Quechua">Alto Paraná suyu</name>
+		<name normalized="Alto Paranan maakunta" languages="Finnish">Alto Paranán maakunta</name>
+		<name normalized="Aukstutines Paranos departamentas" languages="Lithuanian">Aukštutinės Paranos departamentas</name>
+		<name normalized="Departament d'Alto Parana" languages="Catalan">Departament d'Alto Paraná</name>
+		<name normalized="Departamento Alto Parana" languages="German">Departamento Alto Paraná</name>
+		<name normalized="Departamento de Alto Parana" languages="Spanish">Departamento de Alto Paraná</name>
+		<name normalized="Departemen Alto Parana" languages="Indonesian">Departemen Alto Paraná</name>
+		<name normalized="Dipartimento dell'Alto Parana" languages="Italian">Dipartimento dell'Alto Paraná</name>
+		<name normalized="Departement de l'Alto Parana" languages="French">Département de l'Alto Paraná</name>
+		<name normalized="Gorna Parana" languages="Polish">Górna Parana</name>
+		<name normalized="Aлto Paрaнa" languages="Macedonian">Алто Парана</name>
+		<name normalized="Aльto-Paрaнa" languages="Russian">Альто-Парана</name>
+		<name normalized="Goрнa Paрaнa" languages="Bulgarian">Горна Парана</name>
+		<name normalized="ალტო-პარანის დეპარტამენტი" languages="Georgian">ალტო-პარანის დეპარტამენტი</name>
+		<name normalized="art・prn県" languages="Japanese">アルト・パラナ県</name>
+		<name normalized="上巴拉那省" languages="Chinese">上巴拉那省</name>
+	</region>
+	<region name="Amambay" type="department" typeTranslated="departamento">
+		<name normalized="Amambai" languages="Guarani">Amambai</name>
+		<name normalized="Amambajaus departamentas" languages="Lithuanian">Amambajaus departamentas</name>
+		<name normalized="Amambajaus departaments" languages="Samogitian">Amambajaus departaments</name>
+		<name normalized="Amambay" languages="Croatian;Dutch;English;Galician;official;Polish;Portuguese;Swedish;Waray">Amambay</name>
+		<name normalized="Amambay Departamento" languages="English;official">Amambay Departamento</name>
+		<name normalized="Amambay Department" languages="English;official">Amambay Department</name>
+		<name normalized="Amambay megye" languages="Hungarian">Amambay megye</name>
+		<name normalized="Amambay suyu" languages="Quechua">Amambay suyu</name>
+		<name normalized="Amambayn maakunta" languages="Finnish">Amambayn maakunta</name>
+		<name normalized="Departament d'Amambay" languages="Catalan">Departament d'Amambay</name>
+		<name normalized="Departamento Amambay" languages="German;Spanish">Departamento Amambay</name>
+		<name normalized="Departemen Amambay" languages="Indonesian">Departemen Amambay</name>
+		<name normalized="Dipartimento di Amambay" languages="Italian">Dipartimento di Amambay</name>
+		<name normalized="Departement d'Amambay" languages="French">Département d'Amambay</name>
+		<name normalized="Aмaмbaй" languages="Bulgarian;Russian">Амамбай</name>
+		<name normalized="Aмaмbaj" languages="Macedonian">Амамбај</name>
+		<name normalized="ამამბაის დეპარტამენტი" languages="Georgian">ამამბაის დეპარტამენტი</name>
+		<name normalized="阿曼拜省" languages="Chinese">阿曼拜省</name>
+	</region>
+	<region name="Asuncion" type="capital city" typeTranslated="capital city">
+		<name normalized="Asounsyon" languages="Haitian">Asounsyòn</name>
+		<name normalized="Assumptio" languages="Latin">Assumptio</name>
+		<name normalized="Assuncion" languages="Papiamento">Assuncion</name>
+		<name normalized="Assuncao" languages="Portuguese">Assunção</name>
+		<name normalized="Asuncion" languages="Basque;English;French;Ido;official;Swahili;Tagalog">Asuncion</name>
+		<name normalized="Asunciono" languages="Esperanto">Asunciono</name>
+		<name normalized="Asuncion" languages="Afrikaans;Albanian;Asturian;Bosnian;Breton;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;Extremaduran;Fiji Hindi;Finnish;Galician;German;Hungarian;Indonesian;Interlingue;Irish;Italian;Javanese;Ligure;lumbaart;Luxembourgish;Malagasy;Manx;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Occitan;Piedmontese;Polish;Quechua;Romanian;Romansh;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Slovak;Slovenian;Spanish;Swedish;Turkish;Vietnamese;Volapuk;Waray;Welsh;Western Frisian;Yoruba">Asunción</name>
+		<name normalized="Asunsaun" languages="Tetum">Asunsaun</name>
+		<name normalized="Asunsion" languages="Novial">Asunsion</name>
+		<name normalized="Asunsjona" languages="Latvian">Asunsjona</name>
+		<name normalized="Asunsjonas" languages="Lithuanian">Asunsjonas</name>
+		<name normalized="Asunsjuons" languages="Samogitian">Asunsjuons</name>
+		<name normalized="Asunson" languages="Azerbaijani;Uzbek">Asunson</name>
+		<name normalized="Asunsyun" languages="Aymara">Asunsyun</name>
+		<name normalized="Asunsjon" languages="Icelandic">Asúnsjón</name>
+		<name normalized="Gunung Berapi Asuncion" languages="Malay">Gunung Berapi Asuncion</name>
+		<name normalized="Paraguay" languages="Guarani">Paraguay</name>
+		<name normalized="Ασουνσιον" languages="Greek">Ασουνσιόν</name>
+		<name normalized="Aсuнсioн" languages="Bulgarian;Macedonian;Serbian">Асунсион</name>
+		<name normalized="Aсuнсьйoн" languages="Ukrainian">Асунсьйон</name>
+		<name normalized="Aсuнсьoн" languages="Chechen;Kazakh;Ossetic;Russian;Tatar">Асунсьон</name>
+		<name normalized="Aсuнсьён" languages="biлaрuсkai (taрaskivita)‎">Асунсьён</name>
+		<name normalized="Goрad Aсuнсьён" languages="Belarusian">Горад Асунсьён</name>
+		<name normalized="Աsvyնsյvն" languages="Armenian">Ասունսյոն</name>
+		<name normalized="אסvnסיאן" languages="Yiddish">אסונסיאן</name>
+		<name normalized="אסvnסיvן" languages="Hebrew">אסונסיון</name>
+		<name normalized="آسونسیون" languages="Mazanderani;Persian">آسونسیون</name>
+		<name normalized="أسونسyون" languages="Arabic">أسونسيون</name>
+		<name normalized="ئאسۇنسىئون" languages="Uyghur">ئاسۇنسىئون</name>
+		<name normalized="אسنشن" languages="Western Punjabi">اسنشن</name>
+		<name normalized="אسونسیون" languages="Urdu">اسونسیون</name>
+		<name normalized="asun्siyon" languages="Marathi">आसुन्सियोन</name>
+		<name normalized="asuੰsiਓn" languages="Punjabi">ਅਸੂੰਸੀਓਨ</name>
+		<name normalized="அசுன்சியோன்" languages="Tamil">அசுன்சியோன்</name>
+		<name normalized="ಅಸೂನ್‌ಸಿಯಾನ್" languages="Kannada">ಅಸೂನ್‌ಸಿಯಾನ್</name>
+		<name normalized="อะซุนซิออง" languages="Thai">อะซุนซิออง</name>
+		<name normalized="ཨ་སུན་སི་འན།" languages="Tibetan">ཨ་སུན་སི་འན།</name>
+		<name normalized="ასუნსიონი" languages="Georgian">ასუნსიონი</name>
+		<name normalized="አሱንሲዮን" languages="Amharic">አሱንሲዮን</name>
+		<name normalized="asnson" languages="Japanese">アスンシオン</name>
+		<name normalized="亞松森" languages="Cantonese;Chinese">亞松森</name>
+		<name normalized="아순시온" languages="Korean">아순시온</name>
+	</region>
+	<region name="Boqueron" type="department" typeTranslated="departamento">
+		<name normalized="Bokerono departamentas" languages="Lithuanian">Bokerono departamentas</name>
+		<name normalized="Boqueron" languages="English;French;official">Boqueron</name>
+		<name normalized="Boqueron Departamento" languages="English;official">Boqueron Departamento</name>
+		<name normalized="Boqueron Department" languages="English;official">Boqueron Department</name>
+		<name normalized="Boqueron" languages="Croatian;Dutch;English;Galician;Guarani;Polish;Portuguese;Spanish;Swedish;Waray">Boquerón</name>
+		<name normalized="Boqueron department" languages="English">Boquerón department</name>
+		<name normalized="Boqueron megye" languages="Hungarian">Boquerón megye</name>
+		<name normalized="Boqueron suyu" languages="Quechua">Boquerón suyu</name>
+		<name normalized="Boqueronin maakunta" languages="Finnish">Boquerónin maakunta</name>
+		<name normalized="Departament de Boqueron" languages="Catalan">Departament de Boquerón</name>
+		<name normalized="Departamento Boqueron" languages="German">Departamento Boquerón</name>
+		<name normalized="Departamento de Boqueron" languages="Spanish">Departamento de Boquerón</name>
+		<name normalized="Departemen Boqueron" languages="Indonesian">Departemen Boquerón</name>
+		<name normalized="Dipartimento di Boqueron" languages="Italian">Dipartimento di Boquerón</name>
+		<name normalized="Departement de Boqueron" languages="French">Département de Boquerón</name>
+		<name normalized="Bokiрoн" languages="Bulgarian;Macedonian;Russian;Serbian">Бокерон</name>
+		<name normalized="mqאtعة bوkوyrون" languages="Arabic">مقاطعة بوكويرون</name>
+		<name normalized="ბოკერონის დეპარტამენტი" languages="Georgian">ბოკერონის დეპარტამენტი</name>
+		<name normalized="博克龍省" languages="Chinese">博克龍省</name>
+	</region>
+	<region name="Caaguazu" type="department" typeTranslated="departamento">
+		<name normalized="Caaguazu" languages="English;official">Caaguazu</name>
+		<name normalized="Caaguazu Departamento" languages="English;official">Caaguazu Departamento</name>
+		<name normalized="Caaguazu Department" languages="English;official">Caaguazu Department</name>
+		<name normalized="Caaguazu" languages="Croatian;Dutch;English;Polish;Portuguese;Swedish;Volapuk;Waray">Caaguazú</name>
+		<name normalized="Caaguazu Department" languages="English">Caaguazú Department</name>
+		<name normalized="Caaguazu megye" languages="Hungarian">Caaguazú megye</name>
+		<name normalized="Caaguazu suyu" languages="Quechua">Caaguazú suyu</name>
+		<name normalized="Caaguazun maakunta" languages="Finnish">Caaguazún maakunta</name>
+		<name normalized="Departament de Caaguazu" languages="Catalan">Departament de Caaguazú</name>
+		<name normalized="Departamento Caaguazu" languages="German">Departamento Caaguazú</name>
+		<name normalized="Departamento de Caaguazu" languages="Galician;Spanish">Departamento de Caaguazú</name>
+		<name normalized="Departemen Caaguazu" languages="Indonesian">Departemen Caaguazú</name>
+		<name normalized="Dipartimento di Caaguazu" languages="Italian">Dipartimento di Caaguazú</name>
+		<name normalized="Departement de Caaguazu" languages="French">Département de Caaguazú</name>
+		<name normalized="Ka'aguasu" languages="Guarani">Ka'aguasu</name>
+		<name normalized="Kaaguasu departamentas" languages="Lithuanian">Kaaguasu departamentas</name>
+		<name normalized="Kaaguaсu" languages="Bulgarian;Russian">Каагуасу</name>
+		<name normalized="Kagvazu" languages="Macedonian">Кагвазу</name>
+		<name normalized="კააგუასუს დეპარტამენტი" languages="Georgian">კააგუასუს დეპარტამენტი</name>
+		<name normalized="卡瓜蘇省" languages="Chinese">卡瓜蘇省</name>
+	</region>
+	<region name="Caazapa" type="department" typeTranslated="departamento">
+		<name normalized="Caazapa" languages="English;official">Caazapa</name>
+		<name normalized="Caazapa Departamento" languages="English;official">Caazapa Departamento</name>
+		<name normalized="Caazapa Department" languages="English;official">Caazapa Department</name>
+		<name normalized="Caazapa" languages="Catalan;Croatian;Dutch;English;Finnish;French;German;Italian;Polish;Portuguese;Romanian;Spanish;Swedish;Waray">Caazapá</name>
+		<name normalized="Caazapa Department" languages="English">Caazapá Department</name>
+		<name normalized="Caazapa megye" languages="Hungarian">Caazapá megye</name>
+		<name normalized="Caazapa suyu" languages="Quechua">Caazapá suyu</name>
+		<name normalized="Caazapan maakunta" languages="Finnish">Caazapán maakunta</name>
+		<name normalized="Departament de Caazapa" languages="Catalan">Departament de Caazapá</name>
+		<name normalized="Departamento Caazapa" languages="German">Departamento Caazapá</name>
+		<name normalized="Departamento de Caazapa" languages="Galician;Spanish">Departamento de Caazapá</name>
+		<name normalized="Departemen Caazapa" languages="Indonesian">Departemen Caazapá</name>
+		<name normalized="Dipartimento di Caazapa" languages="Italian">Dipartimento di Caazapá</name>
+		<name normalized="Departement de Caazapa" languages="French">Département de Caazapá</name>
+		<name normalized="Ka'asapa" languages="Guarani">Ka'asapa</name>
+		<name normalized="Kaasapa" languages="Lithuanian">Kaasapa</name>
+		<name normalized="Kaasapos departamentas" languages="Lithuanian">Kaasapos departamentas</name>
+		<name normalized="Tetavore Ka'asapa" languages="Guarani">Tetãvore Ka'asapa</name>
+		<name normalized="Kaaсapa" languages="Bulgarian;Russian">Каасапа</name>
+		<name normalized="Kazapa" languages="Macedonian">Казапа</name>
+		<name normalized="კაასაპა" languages="Georgian">კაასაპა</name>
+		<name normalized="კაასაპის დეპარტამენტი" languages="Georgian">კაასაპის დეპარტამენტი</name>
+		<name normalized="卡薩帕" languages="Chinese">卡薩帕</name>
+		<name normalized="卡薩帕省" languages="Chinese">卡薩帕省</name>
+	</region>
+	<region name="Canindeyu" type="department" typeTranslated="departamento">
+		<name normalized="Canindeyu" languages="English;official">Canindeyu</name>
+		<name normalized="Canindeyu Departamento" languages="English;official">Canindeyu Departamento</name>
+		<name normalized="Canindeyu Department" languages="English;official">Canindeyu Department</name>
+		<name normalized="Canindeyu" languages="Corsican;Croatian;Dutch;Galician;Polish;Portuguese;Swedish;Waray">Canindeyú</name>
+		<name normalized="Canindeyu Depairtment" languages="Scots">Canindeyú Depairtment</name>
+		<name normalized="Canindeyu Department" languages="English">Canindeyú Department</name>
+		<name normalized="Canindeyu megye" languages="Hungarian">Canindeyú megye</name>
+		<name normalized="Canindeyu suyu" languages="Quechua">Canindeyú suyu</name>
+		<name normalized="Canindeyun maakunta" languages="Finnish">Canindeyún maakunta</name>
+		<name normalized="Departament de Canindeyu" languages="Catalan">Departament de Canindeyú</name>
+		<name normalized="Departamento Canindeyu" languages="German">Departamento Canindeyú</name>
+		<name normalized="Departamento de Canindeyu" languages="Spanish">Departamento de Canindeyú</name>
+		<name normalized="Departemen Canindeyu" languages="Indonesian">Departemen Canindeyú</name>
+		<name normalized="Dipartimento di Canindeyu" languages="Italian">Dipartimento di Canindeyú</name>
+		<name normalized="Departement de Canindeyu" languages="French">Département de Canindeyú</name>
+		<name normalized="Kanindeju" languages="Guarani">Kanindeju</name>
+		<name normalized="Kanindeju departamentas" languages="Lithuanian">Kanindeju departamentas</name>
+		<name normalized="Kaнiнdiю" languages="Russian">Канендию</name>
+		<name normalized="Kaнiнdiю" languages="Bulgarian">Каниндею</name>
+		<name normalized="Kaнiнdiju" languages="Macedonian">Каниндеју</name>
+		<name normalized="კანინდეიუს დეპარტამენტი" languages="Georgian">კანინდეიუს დეპარტამენტი</name>
+		<name normalized="knndzy県" languages="Japanese">カニンデジュ県</name>
+		<name normalized="卡寧德尤省" languages="Chinese">卡寧德尤省</name>
+	</region>
+	<region name="Central" type="department" typeTranslated="departamento">
+		<name normalized="Central" languages="Dutch;English;French;German;Italian;official;Polish;Portuguese;Serbo-Croatian;Simple English;Spanish;Swedish;Vietnamese;Volapuk;Waray">Central</name>
+		<name normalized="Central Depairtment" languages="Scots">Central Depairtment</name>
+		<name normalized="Central Departamento" languages="English;official">Central Departamento</name>
+		<name normalized="Central Department" languages="English;official">Central Department</name>
+		<name normalized="Central megye" languages="Hungarian">Central megye</name>
+		<name normalized="Centralni okrug" languages="Croatian">Centralni okrug</name>
+		<name normalized="Centrinis departamentas" languages="Lithuanian">Centrinis departamentas</name>
+		<name normalized="Chawpi suyu" languages="Quechua">Chawpi suyu</name>
+		<name normalized="Departament Central" languages="Catalan">Departament Central</name>
+		<name normalized="Departamento Central" languages="Galician;German;Spanish">Departamento Central</name>
+		<name normalized="Departemen Central" languages="Indonesian">Departemen Central</name>
+		<name normalized="Dipartimento Central" languages="Italian">Dipartimento Central</name>
+		<name normalized="Departement Central" languages="French">Département Central</name>
+		<name normalized="Tetavore Central" languages="Guarani">Tetãvore Central</name>
+		<name normalized="Сiнtрaл" languages="Bulgarian;Serbian">Сентрал</name>
+		<name normalized="Tiнtрaлiн dipaрtмaн" languages="Macedonian">Централен департман</name>
+		<name normalized="Tiнtрaль" languages="Russian">Централь</name>
+		<name normalized="mrکزی" languages="Persian">مرکزی</name>
+		<name normalized="sen্ট্rাl" languages="Bishnupria Manipuri">সেন্ট্রাল</name>
+		<name normalized="சென்ட்ரல்" languages="Tamil">சென்ட்ரல்</name>
+		<name normalized="กลาง" languages="Thai">กลาง</name>
+		<name normalized="ცენტრალური დეპარტამენტი" languages="Georgian">ცენტრალური დეპარტამენტი</name>
+		<name normalized="sntrr" languages="Japanese">セントラル</name>
+		<name normalized="中" languages="Chinese;Gan">中</name>
+		<name normalized="中央省" languages="Chinese">中央省</name>
+		<name normalized="센트럴" languages="Korean">센트럴</name>
+	</region>
+	<region name="Concepcion" type="department" typeTranslated="departamento">
+		<name normalized="Concepcion" languages="English;official">Concepcion</name>
+		<name normalized="Concepcion Departamento" languages="English;official">Concepcion Departamento</name>
+		<name normalized="Concepcion Department" languages="English;official">Concepcion Department</name>
+		<name normalized="Concepcion" languages="Catalan;Croatian;Dutch;English;Esperanto;Finnish;French;Galician;German;Guarani;Italian;Polish;Portuguese;Quechua;Romanian;Scots;Serbo-Croatian;Spanish;Swedish;Waray">Concepción</name>
+		<name normalized="Concepcion Department" languages="English">Concepción Department</name>
+		<name normalized="Concepcion megye" languages="Hungarian">Concepción megye</name>
+		<name normalized="Concepcionin maakunta" languages="Finnish">Concepciónin maakunta</name>
+		<name normalized="Departament de Concepcion" languages="Catalan">Departament de Concepción</name>
+		<name normalized="Departamento Concepcion" languages="German">Departamento Concepción</name>
+		<name normalized="Departamento de Concepcion" languages="Galician;Spanish">Departamento de Concepción</name>
+		<name normalized="Departemen Concepcion" languages="Indonesian">Departemen Concepción</name>
+		<name normalized="Dipartimento di Concepcion" languages="Italian">Dipartimento di Concepción</name>
+		<name normalized="Departement de Concepcion" languages="French">Département de Concepción</name>
+		<name normalized="Konsepsjonas" languages="Lithuanian">Konsepsjonas</name>
+		<name normalized="Konsepsjono departamentas" languages="Lithuanian">Konsepsjono departamentas</name>
+		<name normalized="Tetavore Concepcion" languages="Guarani">Tetãvore Concepción</name>
+		<name normalized="Koнсipсioн" languages="Bulgarian;Macedonian">Консепсион</name>
+		<name normalized="Koнсipсьoн" languages="Russian">Консепсьон</name>
+		<name normalized="mqאtعة kونسybسyون" languages="Arabic">مقاطعة كونسيبسيون</name>
+		<name normalized="کنسpسیون, pאrאgوئh" languages="Persian">کنسپسیون، پاراگوئه</name>
+		<name normalized="კონსეფსიონი" languages="Georgian">კონსეფსიონი</name>
+		<name normalized="კონსეფსიონის დეპარტამენტი" languages="Georgian">კონსეფსიონის დეპარტამენტი</name>
+		<name normalized="knspson" languages="Japanese">コンセプシオン</name>
+		<name normalized="康塞普西翁" languages="Chinese">康塞普西翁</name>
+		<name normalized="康塞普西翁省" languages="Chinese">康塞普西翁省</name>
+	</region>
+	<region name="Cordillera" type="department" typeTranslated="departamento">
+		<name normalized="Cordillera" languages="Croatian;Dutch;English;Guarani;official;Polish;Portuguese;Swedish;Waray">Cordillera</name>
+		<name normalized="Cordillera Departamento" languages="English;official">Cordillera Departamento</name>
+		<name normalized="Cordillera Department" languages="English;official">Cordillera Department</name>
+		<name normalized="Cordillera megye" languages="Hungarian">Cordillera megye</name>
+		<name normalized="Cordillera suyu" languages="Quechua">Cordillera suyu</name>
+		<name normalized="Cordilleran maakunta" languages="Finnish">Cordilleran maakunta</name>
+		<name normalized="Cordillere" languages="French">Cordillère</name>
+		<name normalized="Departament de la Cordillera" languages="Catalan">Departament de la Cordillera</name>
+		<name normalized="Departamento Cordillera" languages="German">Departamento Cordillera</name>
+		<name normalized="Departamento de Cordillera" languages="Galician;Spanish">Departamento de Cordillera</name>
+		<name normalized="Departemen Cordillera" languages="Indonesian">Departemen Cordillera</name>
+		<name normalized="Dipartimento di Cordillera" languages="Italian">Dipartimento di Cordillera</name>
+		<name normalized="Departement de la Cordillera" languages="French">Département de la Cordillera</name>
+		<name normalized="Kordiljeros departamentas" languages="Lithuanian">Kordiljeros departamentas</name>
+		<name normalized="Kordillere" languages="German">Kordillere</name>
+		<name normalized="Kordillerak" languages="Hungarian">Kordillerák</name>
+		<name normalized="Kuordeljeras departaments" languages="Samogitian">Kuordėljeras departaments</name>
+		<name normalized="Κορδιλιeρα" languages="Greek">Κορδιλιέρα</name>
+		<name normalized="Koрdiйiрa" languages="Bulgarian">Кордийера</name>
+		<name normalized="Koрdiлjiрa" languages="Macedonian">Кордилјера</name>
+		<name normalized="კორდილიერის დეპარტამენტი" languages="Georgian">კორდილიერის დეპარტამენტი</name>
+		<name normalized="科迪勒拉省" languages="Chinese">科迪勒拉省</name>
+	</region>
+	<region name="Guaira" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Guaira" languages="Catalan">Departament de Guairá</name>
+		<name normalized="Departamento de Guaira" languages="Spanish">Departamento de Guairá</name>
+		<name normalized="Departamento Guaira" languages="German">Departamento Guairá</name>
+		<name normalized="Departemen Guaira" languages="Indonesian">Departemen Guairá</name>
+		<name normalized="Dipartimento di Guaira" languages="Italian">Dipartimento di Guairá</name>
+		<name normalized="Departement de Guaira" languages="French">Département de Guairá</name>
+		<name normalized="Guaira" languages="English;French;Guarani;official">Guaira</name>
+		<name normalized="Guaira Departamento" languages="English;official">Guaira Departamento</name>
+		<name normalized="Guaira Department" languages="English;official">Guaira Department</name>
+		<name normalized="Guaira" languages="Croatian;Dutch;Galician;Polish;Portuguese;Scottish Gaelic;Swedish;Waray">Guairá</name>
+		<name normalized="Guaira Department" languages="English">Guairá Department</name>
+		<name normalized="Guaira megye" languages="Hungarian">Guairá megye</name>
+		<name normalized="Guaira suyu" languages="Quechua">Guairá suyu</name>
+		<name normalized="Guairan maakunta" languages="Finnish">Guairán maakunta</name>
+		<name normalized="Gvairas departaments" languages="Samogitian">Gvairas departaments</name>
+		<name normalized="Gvairos departamentas" languages="Lithuanian">Gvairos departamentas</name>
+		<name normalized="Gvaiрa" languages="Macedonian">Гваира</name>
+		<name normalized="Guaiрa" languages="Bulgarian">Гуаира</name>
+		<name normalized="გუაირის დეპარტამენტი" languages="Georgian">გუაირის დეპარტამენტი</name>
+		<name normalized="瓜伊拉省" languages="Chinese">瓜伊拉省</name>
+	</region>
+	<region name="Itapua" type="department" typeTranslated="departamento">
+		<name normalized="Departament d'Itapua" languages="Catalan">Departament d'Itapúa</name>
+		<name normalized="Departamento de Itapua" languages="Spanish">Departamento de Itapúa</name>
+		<name normalized="Departamento Itapua" languages="German">Departamento Itapúa</name>
+		<name normalized="Departemen Itapua" languages="Indonesian">Departemen Itapúa</name>
+		<name normalized="Dipartimento di Itapua" languages="Italian">Dipartimento di Itapúa</name>
+		<name normalized="Departement d'Itapua" languages="French">Département d'Itapúa</name>
+		<name normalized="Itapua" languages="English;official">Itapua</name>
+		<name normalized="Itapua Departamento" languages="English;official">Itapua Departamento</name>
+		<name normalized="Itapua Department" languages="English;official">Itapua Department</name>
+		<name normalized="Itapujos departamentas" languages="Lithuanian">Itapujos departamentas</name>
+		<name normalized="Itapua" languages="Croatian;Dutch;Galician;Guarani;Polish;Portuguese;Scottish Gaelic;Swedish;Waray">Itapúa</name>
+		<name normalized="Itapua Depairtment" languages="Scots">Itapúa Depairtment</name>
+		<name normalized="Itapua Department" languages="English">Itapúa Department</name>
+		<name normalized="Itapua megye" languages="Hungarian">Itapúa megye</name>
+		<name normalized="Itapua suyu" languages="Quechua">Itapúa suyu</name>
+		<name normalized="Itapuan maakunta" languages="Finnish">Itapúan maakunta</name>
+		<name normalized="Itapua" languages="Bulgarian;Macedonian;Russian">Итапуа</name>
+		<name normalized="იტაპუის დეპარტამენტი" languages="Georgian">იტაპუის დეპარტამენტი</name>
+		<name normalized="itpa県" languages="Japanese">イタプア県</name>
+		<name normalized="伊塔普阿省" languages="Chinese">伊塔普阿省</name>
+	</region>
+	<region name="Misiones" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Misiones" languages="Catalan">Departament de Misiones</name>
+		<name normalized="Departamento de Misiones" languages="Galician;Spanish">Departamento de Misiones</name>
+		<name normalized="Departamento Misiones" languages="German">Departamento Misiones</name>
+		<name normalized="Departemen Misiones" languages="Indonesian">Departemen Misiones</name>
+		<name normalized="Departemento Misiones" languages="Esperanto">Departemento Misiones</name>
+		<name normalized="Dipartimento di Misiones" languages="Italian">Dipartimento di Misiones</name>
+		<name normalized="Departement de Misiones" languages="French">Département de Misiones</name>
+		<name normalized="Misijonesa provinceje" languages="Samogitian">Misijonėsa provincėjė</name>
+		<name normalized="Misiones" languages="Breton;Croatian;Czech;Dutch;English;Guarani;lumbaart;Norwegian (bokmal);official;Piedmontese;Polish;Portuguese;Serbo-Croatian;Slovak;Swedish;Vietnamese;Volapuk;Waray">Misiones</name>
+		<name normalized="Misiones Depairtment" languages="Scots">Misiones Depairtment</name>
+		<name normalized="Misiones Departamento" languages="English;official">Misiones Departamento</name>
+		<name normalized="Misiones Department" languages="English;official">Misiones Department</name>
+		<name normalized="Misiones megye" languages="Hungarian">Misiones megye</name>
+		<name normalized="Misiones Province" languages="English;Scots;Simple English">Misiones Province</name>
+		<name normalized="Misiones suyu" languages="Quechua">Misiones suyu</name>
+		<name normalized="Misiones Seng" languages="Chinese (Min Nan)">Misiones Séng</name>
+		<name normalized="Misiones wamani" languages="Quechua">Misiones wamani</name>
+		<name normalized="Misionesin maakunta" languages="Finnish">Misionesin maakunta</name>
+		<name normalized="Misionesko probintzia" languages="Basque">Misionesko probintzia</name>
+		<name normalized="Misioneso departamentas" languages="Lithuanian">Misioneso departamentas</name>
+		<name normalized="Misioneso provincija" languages="Lithuanian">Misioneso provincija</name>
+		<name normalized="Mkoa wa Misiones" languages="Swahili">Mkoa wa Misiones</name>
+		<name normalized="Province de Misiones" languages="French">Province de Misiones</name>
+		<name normalized="Provincia de Misiones" languages="Danish;Galician;Spanish;veneto">Provincia de Misiones</name>
+		<name normalized="Provincia di Misiones" languages="Italian">Provincia di Misiones</name>
+		<name normalized="Provinco Misiones" languages="Esperanto">Provinco Misiones</name>
+		<name normalized="Provinsi Misiones" languages="Indonesian">Provinsi Misiones</name>
+		<name normalized="Provinz Misiones" languages="German">Provinz Misiones</name>
+		<name normalized="Provincia de Misiones" languages="Catalan">Província de Misiones</name>
+		<name normalized="Provincia de Missiones" languages="Occitan">Província de Missiones</name>
+		<name normalized="Talaith Misiones" languages="Welsh">Talaith Misiones</name>
+		<name normalized="Wilayah Misiones" languages="Malay">Wilayah Misiones</name>
+		<name normalized="Мiсioнiс" languages="Bulgarian;Macedonian;Serbian;Tajik">Мисионес</name>
+		<name normalized="Мiсьoнiс" languages="Ossetic;Russian">Мисьонес</name>
+		<name normalized="Мiсьйoнiс" languages="Ukrainian">Місьйонес</name>
+		<name normalized="Pрaviнtыi Мiсьёнiс" languages="Belarusian">Правінцыя Місьёнес</name>
+		<name normalized="מיסיvnס" languages="Hebrew">מיסיונס</name>
+		<name normalized="אیאلt mیسیونز" languages="Persian">ایالت میسیونز</name>
+		<name normalized="sوbہ mیسیؤنس" languages="Western Punjabi">صوبہ میسیؤنس</name>
+		<name normalized="myسyونس" languages="Arabic">ميسيونس</name>
+		<name normalized="mis्yones" languages="Marathi">मिस्योनेस</name>
+		<name normalized="รัฐมีซีโอเนส" languages="Thai">รัฐมีซีโอเนส</name>
+		<name normalized="მისიონესის დეპარტამენტი" languages="Georgian">მისიონესის დეპარტამენტი</name>
+		<name normalized="მისიონესის პროვინცია" languages="Georgian">მისიონესის პროვინცია</name>
+		<name normalized="msons州" languages="Japanese">ミシオネス州</name>
+		<name normalized="米西奧內斯省" languages="Chinese">米西奧內斯省</name>
+		<name normalized="미시오네스 주" languages="Korean">미시오네스 주</name>
+	</region>
+	<region name="Neembucu" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Neembucu" languages="Catalan">Departament de Ñeembucú</name>
+		<name normalized="Departamento de Neembucu" languages="Spanish">Departamento de Ñeembucú</name>
+		<name normalized="Departamento Neembucu" languages="German">Departamento Ñeembucú</name>
+		<name normalized="Departemen Neembucu" languages="Indonesian">Departemen Ñeembucú</name>
+		<name normalized="Dipartimento di Neembucu" languages="Italian">Dipartimento di Ñeembucú</name>
+		<name normalized="Departement de Neembucu" languages="French">Département de Ñeembucú</name>
+		<name normalized="Neembucu" languages="English;official">Neembucu</name>
+		<name normalized="Neembucu Departamento" languages="English;official">Neembucu Departamento</name>
+		<name normalized="Neembucu Department" languages="English;official">Neembucu Department</name>
+		<name normalized="Njembuku departamentas" languages="Lithuanian">Njembuku departamentas</name>
+		<name normalized="Ne'embuku" languages="Guarani">Ñe'ẽmbuku</name>
+		<name normalized="Neembucu" languages="Croatian;Dutch;Galician;Polish;Portuguese;Swedish;Waray">Ñeembucú</name>
+		<name normalized="Neembucu Depairtment" languages="Scots">Ñeembucú Depairtment</name>
+		<name normalized="Neembucu Department" languages="English">Ñeembucú Department</name>
+		<name normalized="Neembucu megye" languages="Hungarian">Ñeembucú megye</name>
+		<name normalized="Neembucu suyu" languages="Quechua">Ñeembucú suyu</name>
+		<name normalized="Neembucun maakunta" languages="Finnish">Ñeembucún maakunta</name>
+		<name normalized="Нiiмbuku" languages="Bulgarian">Неембуку</name>
+		<name normalized="Niмbuku" languages="Macedonian">Њембуку</name>
+		<name normalized="ნიეემბუკუს დეპარტამენტი" languages="Georgian">ნიეემბუკუს დეპარტამენტი</name>
+		<name normalized="涅恩布庫省" languages="Chinese">涅恩布庫省</name>
+	</region>
+	<region name="Paraguari" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Paraguari" languages="Catalan">Departament de Paraguarí</name>
+		<name normalized="Departamento de Paraguari" languages="Galician;Spanish">Departamento de Paraguarí</name>
+		<name normalized="Departamento Paraguari" languages="German">Departamento Paraguarí</name>
+		<name normalized="Departemen Paraguari" languages="Indonesian">Departemen Paraguarí</name>
+		<name normalized="Dipartimento di Paraguari" languages="Italian">Dipartimento di Paraguarí</name>
+		<name normalized="Departement de Paraguari" languages="French">Département de Paraguarí</name>
+		<name normalized="Paraguari" languages="English;Guarani;official">Paraguari</name>
+		<name normalized="Paraguari Departamento" languages="English;official">Paraguari Departamento</name>
+		<name normalized="Paraguari departaments" languages="Samogitian">Paraguari departaments</name>
+		<name normalized="Paraguari Department" languages="English;official">Paraguari Department</name>
+		<name normalized="Paraguari" languages="Catalan;Croatian;Dutch;English;Finnish;Galician;German;Italian;Polish;Portuguese;Spanish;Swedish;Waray">Paraguarí</name>
+		<name normalized="Paraguari Department" languages="English">Paraguarí Department</name>
+		<name normalized="Paraguari megye" languages="Hungarian">Paraguarí megye</name>
+		<name normalized="Paraguari suyu" languages="Quechua">Paraguarí suyu</name>
+		<name normalized="Paraguarin maakunta" languages="Finnish">Paraguarín maakunta</name>
+		<name normalized="Paragvari" languages="Lithuanian">Paragvari</name>
+		<name normalized="Paragvari departamentas" languages="Lithuanian">Paragvari departamentas</name>
+		<name normalized="Tetavore Paraguari" languages="Guarani">Tetãvore Paraguari</name>
+		<name normalized="Paрagvaрi" languages="Macedonian">Парагвари</name>
+		<name normalized="Paрaguaрi" languages="Bulgarian;Russian">Парагуари</name>
+		<name normalized="პარაგუარი" languages="Georgian">პარაგუარი</name>
+		<name normalized="პარაგუარის დეპარტამენტი" languages="Georgian">პარაგუარის დეპარტამენტი</name>
+		<name normalized="巴拉瓜里" languages="Chinese">巴拉瓜里</name>
+		<name normalized="巴拉瓜里省" languages="Chinese">巴拉瓜里省</name>
+	</region>
+	<region name="Presidente Hayes" type="department" typeTranslated="departamento">
+		<name normalized="Departament del Presidente Hayes" languages="Catalan">Departament del Presidente Hayes</name>
+		<name normalized="Departamento Presidente Hayes" languages="German;Spanish">Departamento Presidente Hayes</name>
+		<name normalized="Departemen Presidente Hayes" languages="Indonesian">Departemen Presidente Hayes</name>
+		<name normalized="Dipartimento Presidente Hayes" languages="Italian">Dipartimento Presidente Hayes</name>
+		<name normalized="Departement de Presidente Hayes" languages="French">Département de Presidente Hayes</name>
+		<name normalized="Presidente Hajes departaments" languages="Samogitian">Presidente Hajes departaments</name>
+		<name normalized="Presidente Hayes" languages="Croatian;Dutch;English;Galician;official;Polish;Portuguese;Swedish;Waray">Presidente Hayes</name>
+		<name normalized="Presidente Hayes Depairtment" languages="Scots">Presidente Hayes Depairtment</name>
+		<name normalized="Presidente Hayes Departamento" languages="English;official">Presidente Hayes Departamento</name>
+		<name normalized="Presidente Hayes Department" languages="English;official">Presidente Hayes Department</name>
+		<name normalized="Presidente Hayes megye" languages="Hungarian">Presidente Hayes megye</name>
+		<name normalized="Presidente Hayes suyu" languages="Quechua">Presidente Hayes suyu</name>
+		<name normalized="Presidente Hayesin maakunta" languages="Finnish">Presidente Hayesin maakunta</name>
+		<name normalized="Prezidento Hajeso departamentas" languages="Lithuanian">Prezidento Hajeso departamentas</name>
+		<name normalized="Tetavore Presidente Hayes" languages="Guarani">Tetãvore Presidente Hayes</name>
+		<name normalized="Pрiсidiнti Aйiс" languages="Bulgarian">Пресиденте Айес</name>
+		<name normalized="Pрiсidiнti Ajiс" languages="Macedonian">Пресиденте Ајес</name>
+		<name normalized="Pрiсidiнti-Aiс" languages="Russian">Пресиденте-Аес</name>
+		<name normalized="პრესიდენტე-ჰეისის დეპარტამენტი" languages="Georgian">პრესიდენტე-ჰეისის დეპარტამენტი</name>
+		<name normalized="阿耶斯總統省" languages="Chinese">阿耶斯總統省</name>
+	</region>
+	<region name="San Pedro" type="department" typeTranslated="departamento">
+		<name normalized="Departament de San Pedro" languages="Catalan">Departament de San Pedro</name>
+		<name normalized="Departamento de San Pedro" languages="Galician;Spanish">Departamento de San Pedro</name>
+		<name normalized="Departamento San Pedro" languages="German">Departamento San Pedro</name>
+		<name normalized="Departemen San Pedro" languages="Indonesian">Departemen San Pedro</name>
+		<name normalized="Departemento San Pedro" languages="Esperanto">Departemento San Pedro</name>
+		<name normalized="Dipartimento di San Pedro" languages="Italian">Dipartimento di San Pedro</name>
+		<name normalized="Departement de San Pedro" languages="French">Département de San Pedro</name>
+		<name normalized="San Pedro" languages="Croatian;Dutch;English;Finnish;official;Polish;Portuguese;Quechua;Swedish;Waray">San Pedro</name>
+		<name normalized="San Pedro de Ycuamandiyu" languages="Catalan;English;Galician;Italian">San Pedro de Ycuamandiyú</name>
+		<name normalized="San Pedro de Ycuamandyyu" languages="French">San Pedro de Ycuamandyyú</name>
+		<name normalized="San Pedro del Ycuamandiyu" languages="Portuguese;Spanish">San Pedro del Ycuamandiyú</name>
+		<name normalized="San Pedro del Ykuamandyju" languages="German">San Pedro del Ykuamandyju</name>
+		<name normalized="San Pedro departamentas" languages="Lithuanian">San Pedro departamentas</name>
+		<name normalized="San Pedro Departamento" languages="English;official">San Pedro Departamento</name>
+		<name normalized="San Pedro departaments" languages="Samogitian">San Pedro departaments</name>
+		<name normalized="San Pedro Department" languages="English;official">San Pedro Department</name>
+		<name normalized="San Pedro megye" languages="Hungarian">San Pedro megye</name>
+		<name normalized="San Pedron maakunta" languages="Finnish">San Pedron maakunta</name>
+		<name normalized="Tetavore San Pedro" languages="Guarani">Tetãvore San Pedro</name>
+		<name normalized="Ykuamandyju" languages="Guarani">Ykuamandyju</name>
+		<name normalized="Сaн Pidрo" languages="Bulgarian;Macedonian">Сан Педро</name>
+		<name normalized="Сaн-Pidрo" languages="Russian">Сан-Педро</name>
+		<name normalized="سאن byدrو" languages="Arabic">سان بيدرو</name>
+		<name normalized="სან-პედრო-დე-იკუამანდიიუ" languages="Georgian">სან-პედრო-დე-იკუამანდიიუ</name>
+		<name normalized="სან-პედროს დეპარტამენტი" languages="Georgian">სან-პედროს დეპარტამენტი</name>
+		<name normalized="聖佩德羅" languages="Chinese">聖佩德羅</name>
+		<name normalized="聖佩德羅省" languages="Chinese">聖佩德羅省</name>
+	</region>
+</regions>

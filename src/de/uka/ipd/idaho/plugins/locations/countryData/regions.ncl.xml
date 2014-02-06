@@ -1,0 +1,53 @@
+<regions country="New Caledonia">
+	<region name="Province des Iles" type="null" typeTranslated="null">
+		<name normalized="Ilhas Lealdade" languages="Portuguese">Ilhas Lealdade</name>
+		<name normalized="Illas da Lealdade" languages="Galician">Illas da Lealdade</name>
+		<name normalized="Illes Loyaute" languages="Catalan">Illes Loyauté</name>
+		<name normalized="Inizi Loyaute" languages="Breton">Inizi Loyauté</name>
+		<name normalized="Islas de la Lealtad" languages="Spanish">Islas de la Lealtad</name>
+		<name normalized="Isole della Lealta" languages="Italian">Isole della Lealtà</name>
+		<name normalized="Istikimybes salos" languages="Lithuanian">Ištikimybės salos</name>
+		<name normalized="Leialtasun uharteak" languages="Basque">Leialtasun uharteak</name>
+		<name normalized="Lojaleca insularo" languages="Esperanto">Lojaleca insularo</name>
+		<name normalized="Loyaliteitseilanden" languages="Dutch">Loyaliteitseilanden</name>
+		<name normalized="Loyalitatsinseln" languages="German">Loyalitätsinseln</name>
+		<name normalized="Loyalty Islands" languages="English">Loyalty Islands</name>
+		<name normalized="Loyalty-oerne" languages="Danish">Loyalty-øerne</name>
+		<name normalized="Loyauteoarna" languages="Swedish">Loyautéöarna</name>
+		<name normalized="Loyauteoyene" languages="Norwegian (bokmal)">Loyautéøyene</name>
+		<name normalized="Province des Iles" languages="English;official">Province des Iles</name>
+		<name normalized="Province des iles Loyaute" languages="French">Province des îles Loyauté</name>
+		<name normalized="Quan dao Loyaute" languages="Vietnamese">Quần đảo Loyauté</name>
+		<name normalized="Wyspy Lojalnosci" languages="Polish">Wyspy Lojalności</name>
+		<name normalized="Aсtрavы Лuaite" languages="Belarusian">Астравы Луаятэ</name>
+		<name normalized="Лoaйoti" languages="Bulgarian">Лоайоте</name>
+		<name normalized="Лoiлti" languages="Kazakh">Лоялти</name>
+		<name normalized="Лuaйoti" languages="Russian;Ukrainian">Луайоте</name>
+		<name normalized="riyrti諸島" languages="Japanese">ロイヤルティ諸島</name>
+		<name normalized="洛亚蒂群岛" languages="Chinese">洛亚蒂群岛</name>
+	</region>
+	<region name="Province Nord" type="null" typeTranslated="null">
+		<name normalized="Nordprovinz" languages="German">Nordprovinz</name>
+		<name normalized="North Province" languages="English">North Province</name>
+		<name normalized="Province Nord" languages="Dutch;English;French;Indonesian;official">Province Nord</name>
+		<name normalized="Provincia Nord" languages="Italian">Provincia Nord</name>
+		<name normalized="Provincia Norte" languages="Spanish">Provincia Norte</name>
+		<name normalized="Provins Norzh" languages="Breton">Proviñs Norzh</name>
+		<name normalized="Provincia del Nord" languages="Catalan">Província del Nord</name>
+		<name normalized="Prowincja Polnocna" languages="Polish">Prowincja Północna</name>
+		<name normalized="Tinh Bac" languages="Vietnamese">Tỉnh Bắc</name>
+		<name normalized="Siaures provincija" languages="Lithuanian">Šiaurės provincija</name>
+	</region>
+	<region name="Province Sud" type="null" typeTranslated="null">
+		<name normalized="Pietu provincija" languages="Lithuanian">Pietų provincija</name>
+		<name normalized="Province Sud" languages="Dutch;English;French;Indonesian;official">Province Sud</name>
+		<name normalized="Provincia Sud" languages="Italian">Provincia Sud</name>
+		<name normalized="Provincia Sur" languages="Spanish">Provincia Sur</name>
+		<name normalized="Provins Su" languages="Breton">Proviñs Su</name>
+		<name normalized="Provincia del Sud" languages="Catalan">Província del Sud</name>
+		<name normalized="Prowincja Poludniowa" languages="Polish">Prowincja Południowa</name>
+		<name normalized="South Province" languages="English">South Province</name>
+		<name normalized="Sudprovinz" languages="German">Südprovinz</name>
+		<name normalized="Tinh Nam" languages="Vietnamese">Tỉnh Nam</name>
+	</region>
+</regions>

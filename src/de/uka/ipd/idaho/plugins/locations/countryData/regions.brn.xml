@@ -1,0 +1,78 @@
+<regions country="Brunei">
+	<region name="Belait" type="district" typeTranslated="daerah">
+		<name normalized="Belait" languages="Dutch;English;French;Galician;German;Indonesian;official;Polish;Portuguese;Waray">Belait</name>
+		<name normalized="Belait barrutia" languages="Basque">Belait barrutia</name>
+		<name normalized="Belait Daerah" languages="English;official">Belait Daerah</name>
+		<name normalized="Belait District" languages="English;official">Belait District</name>
+		<name normalized="Belaitas" languages="Lithuanian">Belaitas</name>
+		<name normalized="Belaito rajonas" languages="Lithuanian">Belaito rajonas</name>
+		<name normalized="Daerah Belait" languages="Malay">Daerah Belait</name>
+		<name normalized="Distretto di Belait" languages="Italian">Distretto di Belait</name>
+		<name normalized="Distrik Belait" languages="Indonesian">Distrik Belait</name>
+		<name normalized="Distrito de Belait" languages="Spanish">Distrito de Belait</name>
+		<name normalized="Wilayah Belait" languages="Achinese">Wilayah Belait</name>
+		<name normalized="Μπελαιτ" languages="Greek">Μπελάιτ</name>
+		<name normalized="Biлaйt" languages="Bulgarian;Russian;Ukrainian">Белайт</name>
+		<name normalized="bדייt" languages="Hebrew">בלייט</name>
+		<name normalized="brit地区" languages="Japanese">ブライト地区</name>
+		<name normalized="马来奕县" languages="Chinese">马来奕县</name>
+		<name normalized="블라잇 구" languages="Korean">블라잇 구</name>
+	</region>
+	<region name="Brunei-Muara" type="district" typeTranslated="daerah">
+		<name normalized="Brunei e Muara" languages="Galician;Portuguese">Brunei e Muara</name>
+		<name normalized="Brunei en Muara" languages="Dutch">Brunei en Muara</name>
+		<name normalized="Brunei eta Muara" languages="Basque">Brunei eta Muara</name>
+		<name normalized="Brunei y Muara" languages="Spanish">Brunei y Muara</name>
+		<name normalized="Brunei-Muara" languages="Colognian;English;French;official;Polish;Waray">Brunei-Muara</name>
+		<name normalized="Brunei-Muara Daerah" languages="English;official">Brunei-Muara Daerah</name>
+		<name normalized="Brunei-Muara District" languages="English;official">Brunei-Muara District</name>
+		<name normalized="Brunejaus-Muaros rajonas" languages="Lithuanian">Brunėjaus–Muaros rajonas</name>
+		<name normalized="Daerah Brunei Muara" languages="Malay">Daerah Brunei Muara</name>
+		<name normalized="Distretto di Brunei-Muara" languages="Italian">Distretto di Brunei-Muara</name>
+		<name normalized="Distrik Brunei-Muara" languages="Indonesian">Distrik Brunei-Muara</name>
+		<name normalized="Wilayah Brunei-Muara" languages="Achinese">Wilayah Brunei-Muara</name>
+		<name normalized="Μπρουνeι-Μουαρα" languages="Greek">Μπρουνέι-Μουάρα</name>
+		<name normalized="Bрuнiй-Мuaрa" languages="Bulgarian;Russian">Бруней-Муара</name>
+		<name normalized="brvnיי vמvאrh" languages="Hebrew">ברוניי ומוארה</name>
+		<name normalized="เขตบรูไนและมูอารา" languages="Thai">เขตบรูไนและมูอารา</name>
+		<name normalized="brni・mar地区" languages="Japanese">ブルネイ・ムアラ地区</name>
+		<name normalized="汶莱摩拉县" languages="Chinese">汶莱摩拉县</name>
+		<name normalized="브루나이무아라 구" languages="Korean">브루나이무아라 구</name>
+	</region>
+	<region name="Temburong" type="district" typeTranslated="daerah">
+		<name normalized="Daerah Temburong" languages="Malay">Daerah Temburong</name>
+		<name normalized="Distretto di Temburong" languages="Italian">Distretto di Temburong</name>
+		<name normalized="Distrik Temburong" languages="Indonesian">Distrik Temburong</name>
+		<name normalized="Temburong" languages="Dutch;English;Finnish;French;Galician;German;official;Polish;Portuguese;Spanish;Waray">Temburong</name>
+		<name normalized="Temburong barrutia" languages="Basque">Temburong barrutia</name>
+		<name normalized="Temburong Daerah" languages="English;official">Temburong Daerah</name>
+		<name normalized="Temburong District" languages="English;official">Temburong District</name>
+		<name normalized="Temburongo rajonas" languages="Lithuanian">Temburongo rajonas</name>
+		<name normalized="Wilayah Temburong" languages="Achinese">Wilayah Temburong</name>
+		<name normalized="Τεμπουρονγκ" languages="Greek">Τεμπουρόνγκ</name>
+		<name normalized="Tiмbuрoнg" languages="Bulgarian;Russian">Тембуронг</name>
+		<name normalized="tמbvrvnג" languages="Hebrew">טמבורונג</name>
+		<name normalized="tnbrn地区" languages="Japanese">テンブロン地区</name>
+		<name normalized="淡布隆县" languages="Chinese">淡布隆县</name>
+		<name normalized="템부롱 구" languages="Korean">템부롱 구</name>
+	</region>
+	<region name="Tutong" type="district" typeTranslated="daerah">
+		<name normalized="Daerah Tutong" languages="Malay">Daerah Tutong</name>
+		<name normalized="Distretto di Tutong" languages="Italian">Distretto di Tutong</name>
+		<name normalized="Distrik Tutong" languages="Indonesian">Distrik Tutong</name>
+		<name normalized="Distrito de Tutong" languages="Spanish">Distrito de Tutong</name>
+		<name normalized="Tutong" languages="Dutch;English;Finnish;French;Galician;German;Indonesian;Norwegian (bokmal);official;Polish;Portuguese;Waray">Tutong</name>
+		<name normalized="Tutong barrutia" languages="Basque">Tutong barrutia</name>
+		<name normalized="Tutong Daerah" languages="English;official">Tutong Daerah</name>
+		<name normalized="Tutong District" languages="English;official">Tutong District</name>
+		<name normalized="Tutongo rajonas" languages="Lithuanian">Tutongo rajonas</name>
+		<name normalized="Wilayah Tutong" languages="Achinese">Wilayah Tutong</name>
+		<name normalized="Τουτονγκ" languages="Greek">Τουτόνγκ</name>
+		<name normalized="Tutoнg" languages="Bulgarian;Russian;Ukrainian">Тутонг</name>
+		<name normalized="tvtvnג" languages="Hebrew">טוטונג</name>
+		<name normalized="ตูตง" languages="Thai">ตูตง</name>
+		<name normalized="ttn地区" languages="Japanese">ツトン地区</name>
+		<name normalized="都东县" languages="Chinese">都东县</name>
+		<name normalized="투통 구" languages="Korean">투통 구</name>
+	</region>
+</regions>

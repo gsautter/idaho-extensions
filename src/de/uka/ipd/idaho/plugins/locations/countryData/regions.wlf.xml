@@ -1,0 +1,25 @@
+<regions country="Wallis and Futuna">
+	<region name="Alo" type="null" typeTranslated="null">
+		<name normalized="Alo" languages="Catalan;English;French;Italian;official;Polish;Spanish;Swedish">Alo</name>
+		<name normalized="Aлo" languages="Russian">Ало</name>
+	</region>
+	<region name="Sigave" type="null" typeTranslated="null">
+		<name normalized="Sigave" languages="Catalan;English;French;Italian;official;Polish;Portuguese;Spanish;Swedish">Sigave</name>
+		<name normalized="Сigav" languages="Russian">Сигав</name>
+	</region>
+	<region name="Wallis" type="null" typeTranslated="null">
+		<name normalized="'Uvea" languages="Dutch">'Uvea</name>
+		<name normalized="Illa Wallis" languages="Catalan">Illa Wallis</name>
+		<name normalized="Insula Wallis" languages="Romanian">Insula Wallis</name>
+		<name normalized="Isla Wallis" languages="Spanish">Isla Wallis</name>
+		<name normalized="Uvea" languages="Danish;Polish">Uvea</name>
+		<name normalized="Uvea" languages="German">Uvéa</name>
+		<name normalized="Wallis" languages="English;Finnish;French;Galician;Italian;official;Slovak;Vietnamese">Wallis</name>
+		<name normalized="Wallison" languages="Swedish">Wallisön</name>
+		<name normalized="Voсtрaў Uvia" languages="Belarusian">Востраў Увеа</name>
+		<name normalized="Uvia" languages="Russian">Увеа</name>
+		<name normalized="'Uvea" languages="Latin">‘Uvea</name>
+		<name normalized="uba島" languages="Japanese">ウベア島</name>
+		<name normalized="瓦利斯岛" languages="Chinese">瓦利斯岛</name>
+	</region>
+</regions>

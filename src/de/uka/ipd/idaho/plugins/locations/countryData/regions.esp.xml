@@ -1,0 +1,1377 @@
+<regions country="Spain">
+	<region name="Andalucia" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="An Andaluis" languages="Irish">An Andalúis</name>
+		<name normalized="Andalosia" languages="Occitan">Andalosia</name>
+		<name normalized="Andalosie" languages="Franco-Provencal">Andalosie</name>
+		<name normalized="Andalousi" languages="Cornish">Andalousi</name>
+		<name normalized="Andalousie" languages="French">Andalousie</name>
+		<name normalized="Andalouzeye" languages="Walloon">Andalouzeye</name>
+		<name normalized="Andalouzi" languages="Haitian">Andalouzi</name>
+		<name normalized="Andalouzia" languages="Breton">Andalouzia</name>
+		<name normalized="Andalucia" languages="English;official">Andalucia</name>
+		<name normalized="Andalucia" languages="Aragonese;Asturian;Chinese (Min Nan);Galician;Manx;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Novial;Spanish;Tagalog;Waray;Welsh">Andalucía</name>
+		<name normalized="Andalusia" languages="Catalan;English;Faroese;Finnish;Indonesian;Interlingua;Italian;Javanese;Malay;Maori;Norfuk / Pitkern;Pampanga;Scottish Gaelic;Sicilian;Simple English;Swahili;tarandine;Vietnamese">Andalusia</name>
+		<name normalized="Andalusie" languages="Czech;Scots">Andalusie</name>
+		<name normalized="Andalusien" languages="Alemannisch;Danish;German;Luxembourgish;Seeltersk;Swedish">Andalusien</name>
+		<name normalized="Andalusiya" languages="Quechua;Romani;Uzbek">Andalusiya</name>
+		<name normalized="Andalusiye" languages="Uyghur">Andalusiye</name>
+		<name normalized="Andalusie" languages="Afrikaans;Dutch;West-Vlams">Andalusië</name>
+		<name normalized="Andalusia" languages="Piedmontese;veneto">Andalusìa</name>
+		<name normalized="Andaluusia" languages="Estonian">Andaluusia</name>
+		<name normalized="Andaluzia" languages="Basque;Extremaduran;Ido;Portuguese;Romanian;Tetum">Andaluzia</name>
+		<name normalized="Andaluzija" languages="Bosnian;Croatian;Serbo-Croatian">Andaluzija</name>
+		<name normalized="Andaluzio" languages="Esperanto">Andaluzio</name>
+		<name normalized="Andaluziya" languages="Ladino">Andaluziya</name>
+		<name normalized="Andaluzja" languages="Polish">Andaluzja</name>
+		<name normalized="Andalusia" languages="Icelandic">Andalúsía</name>
+		<name normalized="Andaluzia" languages="Hungarian;Slovak">Andalúzia</name>
+		<name normalized="Andalusje" languages="Western Frisian">Andalûsje</name>
+		<name normalized="Andaluzija" languages="Latvian;Lithuanian">Andalūzija</name>
+		<name normalized="Endulus" languages="Kurdish">Endulus</name>
+		<name normalized="Endulus" languages="Turkish">Endülüs</name>
+		<name normalized="Vandalitia" languages="Latin">Vandalitia</name>
+		<name normalized="Əndəlus" languages="Azerbaijani">Əndəlus</name>
+		<name normalized="Ανδαλουσια" languages="Greek">Ανδαλουσία</name>
+		<name normalized="Aнdaлuzija" languages="Macedonian;Serbian">Андалузија</name>
+		<name normalized="Aнdaлuс oрoн" languages="Mongolian">Андалус орон</name>
+		<name normalized="Aнdaлuсi" languages="Ossetic">Андалуси</name>
+		<name normalized="Aнdaлuсie" languages="Kabardian">Андалусиэ</name>
+		<name normalized="Aнdaлuсii" languages="Bulgarian;Karachay-Balkar;Kazakh;Russian">Андалусия</name>
+		<name normalized="Aнdaлuсii" languages="Belarusian;Ukrainian">Андалусія</name>
+		<name normalized="Aнdaлюzii" languages="biлaрuсkai (taрaskivita)‎">Андалюзія</name>
+		<name normalized="Անdաlvysիա" languages="Armenian">Անդալուսիա</name>
+		<name normalized="אnדדvסיh" languages="Hebrew">אנדלוסיה</name>
+		<name normalized="آندאلوسیא" languages="Gilaki">آندالوسیا</name>
+		<name normalized="אندلس" languages="Persian">اندلس</name>
+		<name normalized="אندلسیہ" languages="Western Punjabi">اندلسیہ</name>
+		<name normalized="אندلوسyא" languages="Egyptian Spoken Arabic">اندلوسيا</name>
+		<name normalized="אندلوسیא" languages="Urdu">اندلوسیا</name>
+		<name normalized="mنtqة أندلوسyא" languages="Arabic">منطقة أندلوسيا</name>
+		<name normalized="aंdाlusiyा" languages="Hindi;Marathi">आंदालुसिया</name>
+		<name normalized="an্dাlusiy়া" languages="Bengali">আন্দালুসিয়া</name>
+		<name normalized="ആൻഡലൂഷ്യ" languages="Malayalam">ആൻഡലൂഷ്യ</name>
+		<name normalized="แคว้นอันดาลูซีอา" languages="Thai">แคว้นอันดาลูซีอา</name>
+		<name normalized="ანდალუსია" languages="Georgian">ანდალუსია</name>
+		<name normalized="andrsa州" languages="Japanese">アンダルシア州</name>
+		<name normalized="安達魯西亞" languages="Chinese">安達魯西亞</name>
+		<name normalized="안달루시아 지방" languages="Korean">안달루시아 지방</name>
+		<name normalized="𐍅𐌰𐌽𐌳𐌰𐌻𐌹𐍄𐌾𐌰/Wandalitja" languages="Gothic">𐍅𐌰𐌽𐌳𐌰𐌻𐌹𐍄𐌾𐌰/Wandalitja</name>
+	</region>
+	<region name="Aragon" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="An Aragoin" languages="Irish">An Aragóin</name>
+		<name normalized="Aragaun" languages="Tetum">Aragaun</name>
+		<name normalized="Aragoi" languages="Basque">Aragoi</name>
+		<name normalized="Aragon" languages="Bosnian;Breton;Cornish;English;French;Haitian;Icelandic;Ido;Indonesian;Interlingua;Javanese;Ladino;Malay;Maori;Mirandese;Norfuk / Pitkern;Occitan;official;Pampanga;Romanian;Scots;Serbo-Croatian;Simple English;Turkish;Vietnamese">Aragon</name>
+		<name normalized="Aragon-a" languages="Piedmontese">Aragon-a</name>
+		<name normalized="Aragona" languages="Italian;Latvian;lumbaart;tarandine">Aragona</name>
+		<name normalized="Aragonas" languages="Lithuanian">Aragonas</name>
+		<name normalized="Aragonia" languages="Finnish;Latin;Polish">Aragonia</name>
+		<name normalized="Aragonie" languages="Czech">Aragonie</name>
+		<name normalized="Aragonien" languages="Alemannisch;Danish;German;Luxembourgish;Seeltersk;Swedish">Aragonien</name>
+		<name normalized="Aragonija" languages="Croatian">Aragonija</name>
+		<name normalized="Aragono" languages="Esperanto">Aragono</name>
+		<name normalized="Aragun" languages="Quechua">Aragun</name>
+		<name normalized="Aragao" languages="Portuguese">Aragão</name>
+		<name normalized="Arago" languages="Catalan">Aragó</name>
+		<name normalized="Aragon" languages="Aragonese;Asturian;Chinese (Min Nan);Dutch;Estonian;Extremaduran;Galician;Hakka;Manx;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Novial;Scottish Gaelic;Spanish;Tagalog;Waray;Welsh">Aragón</name>
+		<name normalized="Aragonia" languages="Hungarian">Aragónia</name>
+		<name normalized="Aragonsko" languages="Slovak">Aragónsko</name>
+		<name normalized="Araqon" languages="Azerbaijani">Araqon</name>
+		<name normalized="Arauna" languages="Sicilian">Araùna</name>
+		<name normalized="Arragon" languages="Western Frisian">Arragon</name>
+		<name normalized="Comunotat otonoma d'Aragon" languages="Franco-Provencal">Comunôtât ôtonoma d’Aragon</name>
+		<name normalized="Αραγονια" languages="Greek">Αραγονία</name>
+		<name normalized="Aрagoн" languages="Belarusian;Bulgarian;Kabardian;Karachay-Balkar;Kazakh;Macedonian;Ossetic;Russian;Serbian;Ukrainian;biлaрuсkai (taрaskivita)‎">Арагон</name>
+		<name normalized="Aрagoн oрoн" languages="Mongolian">Арагон орон</name>
+		<name normalized="Աrագvն" languages="Armenian">Արագոն</name>
+		<name normalized="אrאגvן" languages="Hebrew">אראגון</name>
+		<name normalized="آrאgون" languages="Persian">آراگون</name>
+		<name normalized="אrאjون" languages="Egyptian Spoken Arabic">اراجون</name>
+		<name normalized="אrאغون" languages="Western Punjabi">اراغون</name>
+		<name normalized="mنtqة أrאغون" languages="Arabic">منطقة أراغون</name>
+		<name normalized="arाgon" languages="Hindi;Marathi">आरागोन</name>
+		<name normalized="அரகொன்" languages="Tamil">அரகொன்</name>
+		<name normalized="แคว้นอารากอง" languages="Thai">แคว้นอารากอง</name>
+		<name normalized="არაგონი" languages="Georgian">არაგონი</name>
+		<name normalized="argn州" languages="Japanese">アラゴン州</name>
+		<name normalized="阿拉贡自治区" languages="Chinese">阿拉贡自治区</name>
+		<name normalized="아라곤 지방" languages="Korean">아라곤 지방</name>
+	</region>
+	<region name="Asturias" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="Astuerje" languages="Western Frisian">Astuerje</name>
+		<name normalized="Asturi" languages="Sicilian">Asturi</name>
+		<name normalized="Asturia" languages="Finnish;Ido;Nahuatl;Polish;Romanian">Asturia</name>
+		<name normalized="Asturias" languages="English;Extremaduran;Indonesian;Irish;Javanese;Ladino;Ligure;Malay;Maori;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Pampanga;Scots;Simple English;Spanish;Tagalog;Turkish;Vietnamese;Welsh">Asturias</name>
+		<name normalized="Asturias Thau-lang-kok" languages="Chinese (Min Nan)">Asturias Thâu-lâng-kok</name>
+		<name normalized="Asturiasko Printzerria" languages="Basque">Asturiasko Printzerria</name>
+		<name normalized="Asturie" languages="Czech;Italian;Piedmontese;tarandine;veneto">Asturie</name>
+		<name normalized="Asturien" languages="Danish;German;Luxembourgish;Swedish">Asturien</name>
+		<name normalized="Asturies" languages="Franco-Provencal;French;Haitian">Asturies</name>
+		<name normalized="Asturiez" languages="Breton">Asturiez</name>
+		<name normalized="Asturija" languages="Bosnian;Croatian;Serbo-Croatian">Asturija</name>
+		<name normalized="Asturio" languages="Esperanto">Asturio</name>
+		<name normalized="Asturiya" languages="Azerbaijani">Asturiya</name>
+		<name normalized="Asturie" languages="Afrikaans;Dutch">Asturië</name>
+		<name normalized="Asturya" languages="Cornish">Asturya</name>
+		<name normalized="Astuuria" languages="Estonian">Astuuria</name>
+		<name normalized="Asturia" languages="Slovak">Astúria</name>
+		<name normalized="Asturias" languages="Occitan;Portuguese">Astúrias</name>
+		<name normalized="Asturies" languages="Catalan">Astúries</name>
+		<name normalized="Asturia" languages="Icelandic">Astúría</name>
+		<name normalized="Asturija" languages="Latvian;Lithuanian">Astūrija</name>
+		<name normalized="Aszturia" languages="Hungarian">Asztúria</name>
+		<name normalized="Prencipato d'Asturias" languages="Aragonese">Prencipato d'Asturias</name>
+		<name normalized="Principado de Asturias" languages="Galician;Waray">Principado de Asturias</name>
+		<name normalized="Principato de Asturias" languages="Interlingua">Principato de Asturias</name>
+		<name normalized="Principatus Asturiarum" languages="Latin">Principatus Asturiarum</name>
+		<name normalized="Principau d'Asturies" languages="Asturian">Principáu d'Asturies</name>
+		<name normalized="Prionnsachd Asturias" languages="Scottish Gaelic">Prionnsachd Asturias</name>
+		<name normalized="Αστοuριες" languages="Greek">Αστούριες</name>
+		<name normalized="Aсtuр мuz" languages="Mongolian">Астур муж</name>
+		<name normalized="Aсtuрvлa" languages="Hill Mari">Астурвлӓ</name>
+		<name normalized="Aсtuрi" languages="Ossetic">Астури</name>
+		<name normalized="Aсtuрie" languages="Kabardian">Астуриэ</name>
+		<name normalized="Aсtuрii" languages="Bulgarian;Karachay-Balkar;Kazakh;Russian">Астурия</name>
+		<name normalized="Aсtuрija" languages="Macedonian">Астурија</name>
+		<name normalized="Aсtuрыi" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Астурыя</name>
+		<name normalized="Aсtuрii" languages="Ukrainian">Астурія</name>
+		<name normalized="Kнiziviнa Aсtuрija" languages="Serbian">Кнежевина Астурија</name>
+		<name normalized="Աstvyrիա" languages="Armenian">Աստուրիա</name>
+		<name normalized="אסtvrיאס" languages="Hebrew">אסטוריאס</name>
+		<name normalized="آسtوrیאس" languages="Persian">آستوریاس</name>
+		<name normalized="אسtوryאس" languages="Egyptian Spoken Arabic">استورياس</name>
+		<name normalized="אسtوrیא" languages="Western Punjabi">استوریا</name>
+		<name normalized="mنtqة أسtوryאس" languages="Arabic">منطقة أستورياس</name>
+		<name normalized="as्turiyाs" languages="Hindi;Marathi">आस्तुरियास</name>
+		<name normalized="as্turiy়াs" languages="Bengali">আস্তুরিয়াস</name>
+		<name normalized="ஆதூரியா" languages="Tamil">ஆதூரியா</name>
+		<name normalized="แคว้นอัสตูเรียส" languages="Thai">แคว้นอัสตูเรียส</name>
+		<name normalized="ასტურია" languages="Georgian">ასტურია</name>
+		<name normalized="asturas州" languages="Japanese">アストゥリアス州</name>
+		<name normalized="阿斯图里亚斯" languages="Chinese">阿斯图里亚斯</name>
+		<name normalized="아스투리아스 지방" languages="Korean">아스투리아스 지방</name>
+	</region>
+	<region name="Canarias" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="Canaria Kun-to" languages="Chinese (Min Nan)">Canaria Kûn-tó</name>
+		<name normalized="Canariae Insulae" languages="Latin">Canariae Insulae</name>
+		<name normalized="Canarias" languages="Aragonese;Cornish;English;Interlingua;Nahuatl;official;Spanish;Tagalog">Canarias</name>
+		<name normalized="Canaries" languages="Asturian;Franco-Provencal;Haitian">Canaries</name>
+		<name normalized="Canarische Eilanden" languages="Dutch">Canarische Eilanden</name>
+		<name normalized="Canary Islands" languages="English;Fiji Hindi;Hausa;Northern Sotho;official;Scots;Simple English">Canary Islands</name>
+		<name normalized="Canarias" languages="Extremaduran;Portuguese">Canárias</name>
+		<name normalized="Duni Kanaari" languages="Wolof">Duni Kanaari</name>
+		<name normalized="Fortunatus iegland" languages="Old English">Fortunatus iegland</name>
+		<name normalized="Giraven Qenariye" languages="Kurdish">Giravên Qenariyê</name>
+		<name normalized="Illas Canarias" languages="Galician">Illas Canarias</name>
+		<name normalized="Illas Canarias" languages="Occitan">Illas Canàrias</name>
+		<name normalized="Illes Canaries" languages="Catalan">Illes Canàries</name>
+		<name normalized="Insulele Canare" languages="Romanian">Insulele Canare</name>
+		<name normalized="Ishujt Kanare" languages="Albanian">Ishujt Kanare</name>
+		<name normalized="Islas Canarias" languages="Maori;Waray">Islas Canarias</name>
+		<name normalized="Isles Kanarias" languages="Novial">Isles Kanarias</name>
+		<name normalized="Isoe Canaie" languages="Ligure">Isoe Canaïe</name>
+		<name normalized="Isole Canarie" languages="Italian;tarandine">Isole Canarie</name>
+		<name normalized="Isulas Canarias" languages="Sardinian">Isulas Canarias</name>
+		<name normalized="Isuli Canarii" languages="Sicilian">Isuli Canarii</name>
+		<name normalized="Iziqhingi iKhaneli" languages="Zulu">Iziqhingi iKhaneli</name>
+		<name normalized="Kanaaren" languages="Northern Frisian">Kanaaren</name>
+		<name normalized="Kanaari saared" languages="Estonian">Kanaari saared</name>
+		<name normalized="Kanar adaları" languages="Azerbaijani">Kanar adaları</name>
+		<name normalized="Kanar orollari" languages="Uzbek">Kanar orollari</name>
+		<name normalized="Kanaresch Inselen" languages="Luxembourgish">Kanaresch Inselen</name>
+		<name normalized="Kanari" languages="Croatian;Serbo-Croatian">Kanari</name>
+		<name normalized="Kanariak" languages="Basque">Kanariak</name>
+		<name normalized="Kanariansaaret" languages="Finnish">Kanariansaaret</name>
+		<name normalized="Kanarias" languages="Ladino">Kanarias</name>
+		<name normalized="Kanariese Eilande" languages="Afrikaans">Kanariese Eilande</name>
+		<name normalized="Kanariese Eiloanden" languages="Low Saxon (Netherlands)">Kanariese Eiloanden</name>
+		<name normalized="Kanariez" languages="Breton">Kanariez</name>
+		<name normalized="Kanarieoarna" languages="Swedish">Kanarieöarna</name>
+		<name normalized="Kanarii" languages="Ido">Kanarii</name>
+		<name normalized="Kanarioj" languages="Esperanto">Kanarioj</name>
+		<name normalized="Kanarische Inseln" languages="Alemannisch;German">Kanarische Inseln</name>
+		<name normalized="Kanariske Ailounde" languages="Seeltersk">Kanariske Ailounde</name>
+		<name normalized="Kanariske kupy" languages="Upper Sorbian">Kanariske kupy</name>
+		<name normalized="Kanariske Oer" languages="Danish">Kanariske Øer</name>
+		<name normalized="Kanarisku oyggjarnar" languages="Faroese">Kanarisku oyggjarnar</name>
+		<name normalized="Kanariya adaları" languages="Gagauz">Kanariya adaları</name>
+		<name normalized="Kanarioyane" languages="Norwegian Nynorsk">Kanariøyane</name>
+		<name normalized="Kanarioyene" languages="Norwegian (bokmal)">Kanariøyene</name>
+		<name normalized="Kanarska ostrva" languages="Bosnian">Kanarska ostrva</name>
+		<name normalized="Kanarski otoki" languages="Slovenian">Kanarski otoki</name>
+		<name normalized="Kanarya Adaları" languages="Turkish">Kanarya Adaları</name>
+		<name normalized="Kanarya wat'akuna" languages="Quechua">Kanarya wat'akuna</name>
+		<name normalized="Kanaryske Eilannen" languages="Western Frisian">Kanaryske Eilannen</name>
+		<name normalized="Kanarieyjar" languages="Icelandic">Kanaríeyjar</name>
+		<name normalized="Kanaru salos" languages="Lithuanian">Kanarų salos</name>
+		<name normalized="Kanari-szigetek" languages="Hungarian">Kanári-szigetek</name>
+		<name normalized="Kanariasullot" languages="Northern Sami">Kanáriasullot</name>
+		<name normalized="Kanarske ostrovy" languages="Slovak">Kanárske ostrovy</name>
+		<name normalized="Kanarske ostrovy" languages="Czech">Kanárské ostrovy</name>
+		<name normalized="Kanariju Salas" languages="Latvian">Kanāriju Salas</name>
+		<name normalized="Kapuloan Canary" languages="Javanese">Kapuloan Canary</name>
+		<name normalized="Kapuloan Kanaria" languages="Sundanese">Kapuloan Kanaria</name>
+		<name normalized="Kepulauan Canaria" languages="Indonesian">Kepulauan Canaria</name>
+		<name normalized="Kepulauan Canary" languages="Malay">Kepulauan Canary</name>
+		<name normalized="Na h-Eileanan Canarach" languages="Scottish Gaelic">Na h-Eileanan Canàrach</name>
+		<name normalized="Na hOileain Chanaracha" languages="Irish">Na hOileáin Chanáracha</name>
+		<name normalized="Quan dao Canaria" languages="Vietnamese">Quần đảo Canaria</name>
+		<name normalized="Visiwa vya Kanari" languages="Swahili">Visiwa vya Kanari</name>
+		<name normalized="Wyspy Kanaryjskie" languages="Polish">Wyspy Kanaryjskie</name>
+		<name normalized="Yr Ynysoedd Dedwydd" languages="Welsh">Yr Ynysoedd Dedwydd</name>
+		<name normalized="Awon Erekusu Kanari" languages="Yoruba">Àwọn Erékùṣù Kánárì</name>
+		<name normalized="Isole Canarie" languages="Piedmontese">Ìsole Canarie</name>
+		<name normalized="Ixole Canarie" languages="veneto">Ìxołe Canarie</name>
+		<name normalized="Iles Canaries" languages="French">Îles Canaries</name>
+		<name normalized="Καναριες Νησοι" languages="Greek">Κανάριες Νήσοι</name>
+		<name normalized="Kaнaр aрaлdaры" languages="Kazakh">Канар аралдары</name>
+		<name normalized="Kaнaр aрыылaрa" languages="Sakha">Канар арыылара</name>
+		<name normalized="Kaнaр kы tӀыgukeр" languages="Kabardian">Канар хы тӀыгухэр</name>
+		<name normalized="Kaнaрaн gӀaйрis" languages="Chechen">Канаран гӀайреш</name>
+		<name normalized="Kaнaрсka oсtрva" languages="Serbian">Канарска острва</name>
+		<name normalized="Kaнaрсki oсtрovi" languages="Bulgarian;Macedonian">Канарски острови</name>
+		<name normalized="Kaнaрсkii oсtрova" languages="Russian">Канарские острова</name>
+		<name normalized="Kaнaрсki aрkipeлig" languages="biлaрuсkai (taрaskivita)‎">Канарскі архіпэляг</name>
+		<name normalized="Kaнaрсkii aсtрavы" languages="Belarusian">Канарскія астравы</name>
+		<name normalized="Kaнaрсьki oсtрovi" languages="Ukrainian">Канарські острови</name>
+		<name normalized="Kaнaры сakъadaektae" languages="Ossetic">Канары сакъадæхтæ</name>
+		<name normalized="Kանաrյան kղzինեr" languages="Armenian">Կանարյան կղզիներ</name>
+		<name normalized="hאיים hqnrיים" languages="Hebrew">האיים הקנריים</name>
+		<name normalized="qאnאrישע איnזדען" languages="Yiddish">קאנארישע אינזלען</name>
+		<name normalized="jزאئr کنאrی" languages="Urdu">جزائر کناری</name>
+		<name normalized="jزאیr qنאrی" languages="Persian">جزایر قناری</name>
+		<name normalized="jزr אلkنאrى" languages="Egyptian Spoken Arabic">جزر الكنارى</name>
+		<name normalized="jزr אلkنאry" languages="Arabic">جزر الكناري</name>
+		<name normalized="کنאrی jزیrے" languages="Western Punjabi">کناری جزیرے</name>
+		<name normalized="kenri d्vipsmuh" languages="Marathi">कॅनरी द्वीपसमूह</name>
+		<name normalized="kanri d्vipsmuh" languages="Hindi">कैनरी द्वीपसमूह</name>
+		<name normalized="kাnাri d্bippun্j" languages="Bengali">কানারি দ্বীপপুঞ্জ</name>
+		<name normalized="கேனரி தீவுகள்" languages="Tamil">கேனரி தீவுகள்</name>
+		<name normalized="కానరీ ద్వీపములు" languages="Telugu">కానరీ ద్వీపములు</name>
+		<name normalized="หมู่เกาะคะเนรี" languages="Thai">หมู่เกาะคะเนรี</name>
+		<name normalized="ကနေရီကျွန်းစု" languages="Burmese">ကနေရီကျွန်းစု</name>
+		<name normalized="კანარის კუნძულები" languages="Georgian">კანარის კუნძულები</name>
+		<name normalized="კანარიშ კოკეფი" languages="Mingrelian">კანარიშ კოკეფი</name>
+		<name normalized="knra諸島" languages="Japanese">カナリア諸島</name>
+		<name normalized="加那利群岛" languages="Chinese">加那利群岛</name>
+		<name normalized="카나리아 제도" languages="Korean">카나리아 제도</name>
+	</region>
+	<region name="Cantabria" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="Cantabria" languages="Aragonese;Asturian;Chinese (Min Nan);English;Extremaduran;Finnish;Galician;Indonesian;Interlingua;Irish;Italian;Latin;Malay;Maori;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Old English;Pampanga;Piedmontese;Romanian;Sicilian;Simple English;Spanish;Tagalog;tarandine;Vietnamese;Waray;Welsh">Cantabria</name>
+		<name normalized="Cantabrie" languages="Franco-Provencal;French;Haitian;Scots">Cantabrie</name>
+		<name normalized="Cantabrie" languages="Dutch">Cantabrië</name>
+		<name normalized="Cantabria" languages="Catalan;Occitan;Scottish Gaelic">Cantàbria</name>
+		<name normalized="Cantabria" languages="Portuguese">Cantábria</name>
+		<name normalized="Kantaabria" languages="Estonian">Kantaabria</name>
+		<name normalized="Kantaabrje" languages="Western Frisian">Kantaabrje</name>
+		<name normalized="Kantabri" languages="Cornish">Kantabri</name>
+		<name normalized="Kantabria" languages="Basque;Breton;Ladino;Polish;Turkish">Kantabria</name>
+		<name normalized="Kantabrien" languages="Danish;German;Luxembourgish;Swedish">Kantabrien</name>
+		<name normalized="Kantabrija" languages="Bosnian;Croatian;Latvian;Lithuanian;Serbo-Croatian">Kantabrija</name>
+		<name normalized="Kantabrio" languages="Esperanto">Kantabrio</name>
+		<name normalized="Kantabriya" languages="Azerbaijani;Romani">Kantabriya</name>
+		<name normalized="Kantabria" languages="Icelandic">Kantabría</name>
+		<name normalized="Kantawriya" languages="Quechua">Kantawriya</name>
+		<name normalized="Kantabria" languages="Hungarian;Slovak">Kantábria</name>
+		<name normalized="Kantabrie" languages="Czech">Kantábrie</name>
+		<name normalized="Κανταβρια" languages="Greek">Κανταβρία</name>
+		<name normalized="Kaнtabрi" languages="Ossetic">Кантабри</name>
+		<name normalized="Kaнtabрii" languages="Bulgarian;Kazakh;Russian">Кантабрия</name>
+		<name normalized="Kaнtabрija" languages="Macedonian;Serbian">Кантабрија</name>
+		<name normalized="Kaнtabрыi" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Кантабрыя</name>
+		<name normalized="Kaнtabрii" languages="Ukrainian">Кантабрія</name>
+		<name normalized="qntbrיh" languages="Hebrew">קנטבריה</name>
+		<name normalized="אسtאن کאنtאbrیא" languages="Persian">استان کانتابریا</name>
+		<name normalized="kאنtאbryא" languages="Egyptian Spoken Arabic">كانتابريا</name>
+		<name normalized="mنtqة kאنtאbryא" languages="Arabic">منطقة كانتابريا</name>
+		<name normalized="کینٹیbrیא" languages="Western Punjabi">کینٹیبریا</name>
+		<name normalized="kांtाb्riyा" languages="Marathi">कांताब्रिया</name>
+		<name normalized="kাn্tাb্riy়া" languages="Bengali">কান্তাব্রিয়া</name>
+		<name normalized="காந்தாபிரியா" languages="Tamil">காந்தாபிரியா</name>
+		<name normalized="แคว้นกันตาเบรีย" languages="Thai">แคว้นกันตาเบรีย</name>
+		<name normalized="კანტაბრია" languages="Georgian;Mingrelian">კანტაბრია</name>
+		<name normalized="kntbra州" languages="Japanese">カンタブリア州</name>
+		<name normalized="坎塔布里亚" languages="Chinese">坎塔布里亚</name>
+		<name normalized="칸타브리아 지방" languages="Korean">칸타브리아 지방</name>
+	</region>
+	<region name="Castilla y Leon" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="Castela e Leao" languages="Portuguese">Castela e Leão</name>
+		<name normalized="Castela e Leon" languages="Galician">Castela e León</name>
+		<name normalized="Castelha e Leon" languages="Occitan">Castelha e Leon</name>
+		<name normalized="Castella et Legio" languages="Latin">Castella et Legio</name>
+		<name normalized="Castella i Lleo" languages="Catalan">Castella i Lleó</name>
+		<name normalized="Castiella y Leyon" languages="Aragonese">Castiella y Leyón</name>
+		<name normalized="Castiella y Llion" languages="Asturian">Castiella y Llión</name>
+		<name normalized="Castigghia e Leon" languages="Sicilian">Castigghia e León</name>
+		<name normalized="Castiglia e Leon" languages="Italian;tarandine">Castiglia e León</name>
+		<name normalized="Castiil a' Liion" languages="Norfuk / Pitkern">Castiil a' Liion</name>
+		<name normalized="Castija e Leon" languages="Piedmontese">Castija e León</name>
+		<name normalized="Castil'ye et Leon" languages="Nouormand">Castil'ye et Léon</name>
+		<name normalized="Castile an Leon" languages="Scots">Castile an León</name>
+		<name normalized="Castile and Leon" languages="English;Simple English">Castile and León</name>
+		<name normalized="Castile me Leon" languages="Maori">Castile me León</name>
+		<name normalized="Castile va Leon" languages="Vietnamese">Castile và León</name>
+		<name normalized="Castile-Leon" languages="Javanese">Castile-Leon</name>
+		<name normalized="Castile-Leon" languages="Malay">Castile-León</name>
+		<name normalized="Castilia e Leon" languages="Interlingua">Castilia e Leon</name>
+		<name normalized="Castilia e Leon" languages="veneto">Castilia e León</name>
+		<name normalized="Castilia si Leon" languages="Romanian">Castilia și León</name>
+		<name normalized="Castilie en Leon" languages="Dutch;West-Vlams">Castilië en León</name>
+		<name normalized="Castilla i Lion" languages="Extremaduran">Castilla i Lión</name>
+		<name normalized="Castilla lau Leon" languages="Hakka">Castilla lâu León</name>
+		<name normalized="Castilla y Leon" languages="English;official">Castilla y Leon</name>
+		<name normalized="Castilla y Leon" languages="Danish;Indonesian;Irish;Norwegian (bokmal);Norwegian Nynorsk;Novial;Scottish Gaelic;Spanish;Tagalog;Waray;Welsh">Castilla y León</name>
+		<name normalized="Castilla-Leon" languages="Estonian">Castilla-León</name>
+		<name normalized="Castille a Leon" languages="Hawaiian">Castille a Leon</name>
+		<name normalized="Castille-et-Leon" languages="French">Castille-et-León</name>
+		<name normalized="Castillan ihuan Leon" languages="Nahuatl">Castillān īhuān León</name>
+		<name normalized="Castilye-et-Lion" languages="Franco-Provencal">Castilye-et-Lion</name>
+		<name normalized="Gaztela eta Leon" languages="Basque">Gaztela eta Leon</name>
+		<name normalized="Kastil ak Leon" languages="Haitian">Kastil ak Leon</name>
+		<name normalized="Kastil ha Leon" languages="Cornish">Kastil ha Leon</name>
+		<name normalized="Kastilha ha Leon" languages="Breton">Kastilha ha León</name>
+		<name normalized="Kastilia e Leon" languages="Ido">Kastilia e Leon</name>
+		<name normalized="Kastilia ja Leon" languages="Finnish">Kastilia ja León</name>
+		<name normalized="Kastilie a Leon" languages="Czech">Kastilie a León</name>
+		<name normalized="Kastilien och Leon" languages="Swedish">Kastilien och León</name>
+		<name normalized="Kastilien und Leon" languages="German">Kastilien und León</name>
+		<name normalized="Kastilien-Leon" languages="Luxembourgish;Seeltersk">Kastilien-León</name>
+		<name normalized="Kastilija ir Leonas" languages="Lithuanian">Kastilija ir Leonas</name>
+		<name normalized="Kastilio kaj Leono" languages="Esperanto">Kastilio kaj Leono</name>
+		<name normalized="Kastiliya və Leon" languages="Azerbaijani">Kastiliya və Leon</name>
+		<name normalized="Kastilie en Leon" languages="Zeeuws">Kastilië en León</name>
+		<name normalized="Kastilja i Leon" languages="Bosnian;Serbo-Croatian">Kastilja i Leon</name>
+		<name normalized="Kastilja i Leon" languages="Croatian">Kastilja i León</name>
+		<name normalized="Kastilla Liyunpas" languages="Quechua">Kastilla Liyunpas</name>
+		<name normalized="Kastilya ve Leon" languages="Turkish">Kastilya ve Leon</name>
+		<name normalized="Kastilia-Leon" languages="Icelandic">Kastilía-León</name>
+		<name normalized="Kastylia i Leon" languages="Polish">Kastylia i León</name>
+		<name normalized="Kastylje en Leon" languages="Western Frisian">Kastylje en Leon</name>
+		<name normalized="Kastilija un Leona" languages="Latvian">Kastīlija un Leona</name>
+		<name normalized="Kasztilia es Leon" languages="Hungarian">Kasztília és León</name>
+		<name normalized="Komunidad Otonoma de Kastiya i Leon" languages="Ladino">Komunidad Otonoma de Kastiya i Leon</name>
+		<name normalized="Καστιλλη και Λεον" languages="Greek">Καστίλλη και Λεόν</name>
+		<name normalized="Kaсtiлi aeмae Лioн" languages="Ossetic">Кастили æмæ Леон</name>
+		<name normalized="Kaсtiлii zəнi Лioн" languages="Kazakh">Кастилия және Леон</name>
+		<name normalized="Kaсtiлii i Лioн" languages="Bulgarian;Russian">Кастилия и Леон</name>
+		<name normalized="Kaсtiлii-i-Лioн" languages="Ukrainian">Кастилія-і-Леон</name>
+		<name normalized="Kaсtiлja i Лioн" languages="Macedonian">Кастилја и Леон</name>
+		<name normalized="Kaсtila i Лioн" languages="Serbian">Кастиља и Леон</name>
+		<name normalized="Kaсtылii i Лioн" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Кастылія і Леон</name>
+		<name normalized="qסtידיh vדאvן" languages="Hebrew">קסטיליה ולאון</name>
+		<name normalized="kאسtyyא و لyون" languages="Egyptian Spoken Arabic">كاستييا و ليون</name>
+		<name normalized="mنtqة qشtאلة ولyون" languages="Arabic">منطقة قشتالة وليون</name>
+		<name normalized="کאسtیא و لئون" languages="Persian">کاستیا و لئون</name>
+		<name normalized="کیسtلא tے لیون" languages="Western Punjabi">کیستلا تے لیون</name>
+		<name normalized="kाs्tiyा i leon" languages="Marathi">कास्तिया इ लेओन</name>
+		<name normalized="แคว้นคาสตีลและเลออน" languages="Thai">แคว้นคาสตีลและเลออน</name>
+		<name normalized="კასტილია და ლეონი" languages="Georgian;Mingrelian">კასტილია და ლეონი</name>
+		<name normalized="kstiーry・ron州" languages="Japanese">カスティーリャ・レオン州</name>
+		<name normalized="卡斯蒂利亚-莱昂" languages="Chinese">卡斯蒂利亚-莱昂</name>
+		<name normalized="카스티야이레온 지방" languages="Korean">카스티야이레온 지방</name>
+	</region>
+	<region name="Castilla-La Mancha" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="Castela-A Mancha" languages="Galician">Castela-A Mancha</name>
+		<name normalized="Castela-Mancha" languages="Portuguese">Castela-Mancha</name>
+		<name normalized="Castelha-La Mancha" languages="Occitan">Castelha-La Mancha</name>
+		<name normalized="Castella-Manica" languages="Latin">Castella-Manica</name>
+		<name normalized="Castiella-La Mancha" languages="Aragonese;Asturian">Castiella-La Mancha</name>
+		<name normalized="Castigghia-La Mancia" languages="Sicilian">Castigghia-La Mancia</name>
+		<name normalized="Castiglia-La Mancia" languages="Italian;tarandine">Castiglia-La Mancia</name>
+		<name normalized="Castija-La Mancha" languages="Piedmontese">Castija-La Mancha</name>
+		<name normalized="Castile-La Mancha" languages="English;Javanese;Malay;Maori;Scots;Simple English;Vietnamese">Castile-La Mancha</name>
+		<name normalized="Castilia-La Mancha" languages="Interlingua;Romanian">Castilia-La Mancha</name>
+		<name normalized="Castilie-La Mancha" languages="Dutch">Castilië-La Mancha</name>
+		<name normalized="Castilla-La Mancha" languages="Bosnian;Chinese (Min Nan);Danish;English;Extremaduran;Indonesian;Irish;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Scottish Gaelic;Spanish;Waray;Welsh">Castilla-La Mancha</name>
+		<name normalized="Castilla-La Mancha" languages="Estonian">Castilla–La Mancha</name>
+		<name normalized="Castille-La Manche" languages="French;Haitian">Castille-La Manche</name>
+		<name normalized="Castillan-La Mancha" languages="Nahuatl">Castillān-La Mancha</name>
+		<name normalized="Castilye-La Mange" languages="Franco-Provencal">Castilye-La Mange</name>
+		<name normalized="Gaztela-Mantxa" languages="Basque">Gaztela-Mantxa</name>
+		<name normalized="Kastil-La Mancha" languages="Cornish">Kastil-La Mancha</name>
+		<name normalized="Kastilha-La Mancha" languages="Breton">Kastilha-La Mancha</name>
+		<name normalized="Kastilia- La Mancha" languages="Finnish">Kastilia- La Mancha</name>
+		<name normalized="Kastilia-La Mancha" languages="Ido">Kastilia-La Mancha</name>
+		<name normalized="Kastilie-La Mancha" languages="Czech">Kastilie-La Mancha</name>
+		<name normalized="Kastilien-La Mancha" languages="German;Luxembourgish;Swedish">Kastilien-La Mancha</name>
+		<name normalized="Kastilija ir La Manca" languages="Lithuanian">Kastilija ir La Manča</name>
+		<name normalized="Kastilio-Manco" languages="Esperanto">Kastilio-Manĉo</name>
+		<name normalized="Kastiliya-La Manca" languages="Azerbaijani">Kastiliya-La Mança</name>
+		<name normalized="Kastilja-La Mancha" languages="Croatian">Kastilja-La Mancha</name>
+		<name normalized="Kastilla Manchapas" languages="Quechua">Kastilla Manchapas</name>
+		<name normalized="Kastilya-La Mancha" languages="Turkish">Kastilya-La Mancha</name>
+		<name normalized="Kastilia-La Mancha" languages="Icelandic">Kastilía-La Mancha</name>
+		<name normalized="Kastylia-La Mancha" languages="Polish">Kastylia-La Mancha</name>
+		<name normalized="Kastylje-La Mancha" languages="Western Frisian">Kastylje-La Mancha</name>
+		<name normalized="Kastilija-Lamanca" languages="Latvian">Kastīlija-Lamanča</name>
+		<name normalized="Kasztilia-La Mancha" languages="Hungarian">Kasztília-La Mancha</name>
+		<name normalized="Καστιλλη-Λα Μαντσα" languages="Greek">Καστίλλη-Λα Μάντσα</name>
+		<name normalized="Kaсtiлja-Лa Мaнca" languages="Macedonian">Кастилја-Ла Манча</name>
+		<name normalized="Kaсtila-Лa Мaнca" languages="Serbian">Кастиља-Ла Манча</name>
+		<name normalized="Kaсtiлii-Лa-Мaнca" languages="Ukrainian">Кастілія-Ла-Манча</name>
+		<name normalized="Kաstիlիա-Lա Mանcա" languages="Armenian">Կաստիլիա-Լա Մանչա</name>
+		<name normalized="qסtידיh-דh מnצ'h" languages="Hebrew">קסטיליה-לה מנצ'ה</name>
+		<name normalized="kאسtyא لא mאنtشא" languages="Egyptian Spoken Arabic">كاستيا لا مانتشا</name>
+		<name normalized="kאسtyא-لא mאنtشא" languages="Arabic">كاستيا-لا مانتشا</name>
+		<name normalized="کאسtیא-لאmאنچא" languages="Persian">کاستیا-لامانچا</name>
+		<name normalized="کیسtلא لאmאنچא" languages="Western Punjabi">کیستلا لامانچا</name>
+		<name normalized="kाs्tiyा-lा mांcा" languages="Hindi;Marathi">कास्तिया-ला मांचा</name>
+		<name normalized="แคว้นคาสตีล-ลามันชา" languages="Thai">แคว้นคาสตีล-ลามันชา</name>
+		<name normalized="კასტილია-ლა მანჩა" languages="Georgian">კასტილია-ლა მანჩა</name>
+		<name normalized="kstiーry・r・mnty州" languages="Japanese">カスティーリャ・ラ・マンチャ州</name>
+		<name normalized="卡斯蒂利亚-拉曼恰" languages="Chinese">卡斯蒂利亚-拉曼恰</name>
+		<name normalized="카스티야라만차 지방" languages="Korean">카스티야라만차 지방</name>
+	</region>
+	<region name="Catalonha" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="An Chataloin" languages="Irish">An Chatalóin</name>
+		<name normalized="Catalania" languages="Nahuatl">Catalania</name>
+		<name normalized="Catalaunia" languages="Latin">Catalaunia</name>
+		<name normalized="Catalogna" languages="Italian;Ligure;Sardinian;tarandine">Catalogna</name>
+		<name normalized="Catalogne" languages="French">Catalogne</name>
+		<name normalized="Catalonha" languages="English;Occitan;official">Catalonha</name>
+		<name normalized="Catalonia" languages="English;Hakka;Interlingua;Malay;Maori;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Romanian;Simple English">Catalonia</name>
+		<name normalized="Catalonie" languages="Scots">Catalonie</name>
+		<name normalized="Catalonien" languages="Danish">Catalonien</name>
+		<name normalized="Catalonie" languages="Dutch;West-Vlams">Catalonië</name>
+		<name normalized="Catalugna" languages="Sicilian">Catalugna</name>
+		<name normalized="Catalunha" languages="Portuguese">Catalunha</name>
+		<name normalized="Catalunia" languages="Corsican">Catalunia</name>
+		<name normalized="Catalunya" languages="Aragonese;Catalan;Chinese (Min Nan);English;Indonesian;Javanese;official;Tagalog;Vietnamese">Catalunya</name>
+		<name normalized="Cataluna" languages="Asturian;Extremaduran;Galician;Spanish;Waray">Cataluña</name>
+		<name normalized="Catalwnia" languages="Welsh">Catalwnia</name>
+		<name normalized="Catalogna" languages="lumbaart;Piedmontese">Catalògna</name>
+		<name normalized="Cataloinia" languages="Scottish Gaelic">Catalòinia</name>
+		<name normalized="Catelogna" languages="veneto">Catełogna</name>
+		<name normalized="Comunotat otonoma de Catalogne" languages="Franco-Provencal">Comunôtât ôtonoma de Catalogne</name>
+		<name normalized="Katalanska" languages="Upper Sorbian">Katalanska</name>
+		<name normalized="Kataloanje" languages="Western Frisian">Kataloanje</name>
+		<name normalized="Kataloni" languages="Cornish">Kataloni</name>
+		<name normalized="Katalonia" languages="Albanian;Finnish;Polish">Katalonia</name>
+		<name normalized="Katalonien" languages="Alemannisch;German;Seeltersk;Swedish">Katalonien</name>
+		<name normalized="Katalonija" languages="Bosnian;Croatian;Latvian;Lithuanian;Serbo-Croatian;Slovenian">Katalonija</name>
+		<name normalized="Kataloniya" languages="Azerbaijani">Kataloniya</name>
+		<name normalized="Katalonie" languages="Afrikaans">Katalonië</name>
+		<name normalized="Katalonya" languages="Kurdish;Turkish;Zazaki">Katalonya</name>
+		<name normalized="Kataloonia" languages="Estonian">Kataloonia</name>
+		<name normalized="Katalooniya" languages="Somali">Katalooniya</name>
+		<name normalized="Katalounien" languages="Luxembourgish">Katalounien</name>
+		<name normalized="Kataloy" languages="Haitian">Kataloy</name>
+		<name normalized="Katalunia" languages="Basque;Ido;Novial">Katalunia</name>
+		<name normalized="Katalunio" languages="Esperanto">Katalunio</name>
+		<name normalized="Katalunya" languages="Ladino;Quechua">Katalunya</name>
+		<name normalized="Katalansko" languages="Czech;Slovak">Katalánsko</name>
+		<name normalized="Katalonia" languages="Hungarian">Katalónia</name>
+		<name normalized="Katalonia" languages="Icelandic">Katalónía</name>
+		<name normalized="Katalunijo" languages="Silesian">Katalůńijo</name>
+		<name normalized="Kumuniezh Emren Katalonia" languages="Breton">Kumuniezh Emren Katalonia</name>
+		<name normalized="Tatarunia" languages="Tahitian">Tatarūnia</name>
+		<name normalized="Yn Chataloan" languages="Manx">Yn Chataloan</name>
+		<name normalized="Καταλονια" languages="Greek">Καταλονία</name>
+		<name normalized="Kataлoн oрoн" languages="Mongolian">Каталон орон</name>
+		<name normalized="Kataлoнi" languages="Ossetic">Каталони</name>
+		<name normalized="Kataлoнii" languages="Bashkir;Bulgarian;Karachay-Balkar;Kazakh;Kyrgyz;Russian;Tatar">Каталония</name>
+		<name normalized="Kataлoнija" languages="Macedonian;Serbian">Каталонија</name>
+		<name normalized="Kataлoнii" languages="Belarusian;Ukrainian">Каталонія</name>
+		<name normalized="Kataлёнii" languages="biлaрuсkai (taрaskivita)‎">Каталёнія</name>
+		<name normalized="Kաtաlvնիա" languages="Armenian">Կատալոնիա</name>
+		<name normalized="qtדvnיh" languages="Hebrew">קטלוניה</name>
+		<name normalized="kאtאلونyא" languages="Egyptian Spoken Arabic">كاتالونيا</name>
+		<name normalized="mنtqة ktאلونyא" languages="Arabic">منطقة كتالونيا</name>
+		<name normalized="کאtאلونون" languages="Mazanderani">کاتالونون</name>
+		<name normalized="کאtאلونیא" languages="Persian">کاتالونیا</name>
+		<name normalized="کیtلونیא" languages="Western Punjabi">کیتلونیا</name>
+		<name normalized="کەtەلۆنیא" languages="Sorani Kurdish">کەتەلۆنیا</name>
+		<name normalized="ܩܛܠܘܢܝܐ" languages="Aramaic">ܩܛܠܘܢܝܐ</name>
+		<name normalized="kाtाloniyा" languages="Marathi">कातालोनिया</name>
+		<name normalized="kাtাloniy়া" languages="Bengali">কাতালোনিয়া</name>
+		<name normalized="kਾtਾlੋnia" languages="Punjabi">ਕਾਤਾਲੋਨੀਆ</name>
+		<name normalized="காத்தலோனியா" languages="Tamil">காத்தலோனியா</name>
+		<name normalized="കാറ്റലോണിയ" languages="Malayalam">കാറ്റലോണിയ</name>
+		<name normalized="කැටලෝනියා" languages="Sinhala">කැටලෝනියා</name>
+		<name normalized="แคว้นคาเทโลเนีย" languages="Thai">แคว้นคาเทโลเนีย</name>
+		<name normalized="ແຄວ້ນກາຕາໂລຍ" languages="Lao">ແຄວ້ນກາຕາໂລຍ</name>
+		<name normalized="კატალონია" languages="Georgian;Mingrelian">კატალონია</name>
+		<name normalized="ktrーny州" languages="Japanese">カタルーニャ州</name>
+		<name normalized="加泰罗尼亚" languages="Chinese;Wu">加泰罗尼亚</name>
+		<name normalized="카탈루냐 지방" languages="Korean">카탈루냐 지방</name>
+	</region>
+	<region name="Cataluna" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="An Chataloin" languages="Irish">An Chatalóin</name>
+		<name normalized="Catalania" languages="Nahuatl">Catalania</name>
+		<name normalized="Catalaunia" languages="Latin">Catalaunia</name>
+		<name normalized="Catalogna" languages="Italian;Ligure;Sardinian;tarandine">Catalogna</name>
+		<name normalized="Catalogne" languages="French">Catalogne</name>
+		<name normalized="Catalonha" languages="English;Occitan;official">Catalonha</name>
+		<name normalized="Catalonia" languages="English;Hakka;Interlingua;Malay;Maori;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Romanian;Simple English">Catalonia</name>
+		<name normalized="Catalonie" languages="Scots">Catalonie</name>
+		<name normalized="Catalonien" languages="Danish">Catalonien</name>
+		<name normalized="Catalonie" languages="Dutch;West-Vlams">Catalonië</name>
+		<name normalized="Catalugna" languages="Sicilian">Catalugna</name>
+		<name normalized="Cataluna" languages="English;official">Cataluna</name>
+		<name normalized="Catalunha" languages="Portuguese">Catalunha</name>
+		<name normalized="Catalunia" languages="Corsican">Catalunia</name>
+		<name normalized="Catalunya" languages="Aragonese;Catalan;Chinese (Min Nan);English;Indonesian;Javanese;official;Tagalog;Vietnamese">Catalunya</name>
+		<name normalized="Cataluna" languages="Asturian;Extremaduran;Galician;Spanish;Waray">Cataluña</name>
+		<name normalized="Catalwnia" languages="Welsh">Catalwnia</name>
+		<name normalized="Catalogna" languages="lumbaart;Piedmontese">Catalògna</name>
+		<name normalized="Cataloinia" languages="Scottish Gaelic">Catalòinia</name>
+		<name normalized="Catelogna" languages="veneto">Catełogna</name>
+		<name normalized="Comunotat otonoma de Catalogne" languages="Franco-Provencal">Comunôtât ôtonoma de Catalogne</name>
+		<name normalized="Katalanska" languages="Upper Sorbian">Katalanska</name>
+		<name normalized="Kataloanje" languages="Western Frisian">Kataloanje</name>
+		<name normalized="Kataloni" languages="Cornish">Kataloni</name>
+		<name normalized="Katalonia" languages="Albanian;Finnish;Polish">Katalonia</name>
+		<name normalized="Katalonien" languages="Alemannisch;German;Seeltersk;Swedish">Katalonien</name>
+		<name normalized="Katalonija" languages="Bosnian;Croatian;Latvian;Lithuanian;Serbo-Croatian;Slovenian">Katalonija</name>
+		<name normalized="Kataloniya" languages="Azerbaijani">Kataloniya</name>
+		<name normalized="Katalonie" languages="Afrikaans">Katalonië</name>
+		<name normalized="Katalonya" languages="Kurdish;Turkish;Zazaki">Katalonya</name>
+		<name normalized="Kataloonia" languages="Estonian">Kataloonia</name>
+		<name normalized="Katalooniya" languages="Somali">Katalooniya</name>
+		<name normalized="Katalounien" languages="Luxembourgish">Katalounien</name>
+		<name normalized="Kataloy" languages="Haitian">Kataloy</name>
+		<name normalized="Katalunia" languages="Basque;Ido;Novial">Katalunia</name>
+		<name normalized="Katalunio" languages="Esperanto">Katalunio</name>
+		<name normalized="Katalunya" languages="Ladino;Quechua">Katalunya</name>
+		<name normalized="Katalansko" languages="Czech;Slovak">Katalánsko</name>
+		<name normalized="Katalonia" languages="Hungarian">Katalónia</name>
+		<name normalized="Katalonia" languages="Icelandic">Katalónía</name>
+		<name normalized="Katalunijo" languages="Silesian">Katalůńijo</name>
+		<name normalized="Kumuniezh Emren Katalonia" languages="Breton">Kumuniezh Emren Katalonia</name>
+		<name normalized="Tatarunia" languages="Tahitian">Tatarūnia</name>
+		<name normalized="Yn Chataloan" languages="Manx">Yn Chataloan</name>
+		<name normalized="Καταλονια" languages="Greek">Καταλονία</name>
+		<name normalized="Kataлoн oрoн" languages="Mongolian">Каталон орон</name>
+		<name normalized="Kataлoнi" languages="Ossetic">Каталони</name>
+		<name normalized="Kataлoнii" languages="Bashkir;Bulgarian;Karachay-Balkar;Kazakh;Kyrgyz;Russian;Tatar">Каталония</name>
+		<name normalized="Kataлoнija" languages="Macedonian;Serbian">Каталонија</name>
+		<name normalized="Kataлoнii" languages="Belarusian;Ukrainian">Каталонія</name>
+		<name normalized="Kataлёнii" languages="biлaрuсkai (taрaskivita)‎">Каталёнія</name>
+		<name normalized="Kաtաlvնիա" languages="Armenian">Կատալոնիա</name>
+		<name normalized="qtדvnיh" languages="Hebrew">קטלוניה</name>
+		<name normalized="kאtאلونyא" languages="Egyptian Spoken Arabic">كاتالونيا</name>
+		<name normalized="mنtqة ktאلونyא" languages="Arabic">منطقة كتالونيا</name>
+		<name normalized="کאtאلونون" languages="Mazanderani">کاتالونون</name>
+		<name normalized="کאtאلونیא" languages="Persian">کاتالونیا</name>
+		<name normalized="کیtلونیא" languages="Western Punjabi">کیتلونیا</name>
+		<name normalized="کەtەلۆنیא" languages="Sorani Kurdish">کەتەلۆنیا</name>
+		<name normalized="ܩܛܠܘܢܝܐ" languages="Aramaic">ܩܛܠܘܢܝܐ</name>
+		<name normalized="kाtाloniyा" languages="Marathi">कातालोनिया</name>
+		<name normalized="kাtাloniy়া" languages="Bengali">কাতালোনিয়া</name>
+		<name normalized="kਾtਾlੋnia" languages="Punjabi">ਕਾਤਾਲੋਨੀਆ</name>
+		<name normalized="காத்தலோனியா" languages="Tamil">காத்தலோனியா</name>
+		<name normalized="കാറ്റലോണിയ" languages="Malayalam">കാറ്റലോണിയ</name>
+		<name normalized="කැටලෝනියා" languages="Sinhala">කැටලෝනියා</name>
+		<name normalized="แคว้นคาเทโลเนีย" languages="Thai">แคว้นคาเทโลเนีย</name>
+		<name normalized="ແຄວ້ນກາຕາໂລຍ" languages="Lao">ແຄວ້ນກາຕາໂລຍ</name>
+		<name normalized="კატალონია" languages="Georgian;Mingrelian">კატალონია</name>
+		<name normalized="ktrーny州" languages="Japanese">カタルーニャ州</name>
+		<name normalized="加泰罗尼亚" languages="Chinese;Wu">加泰罗尼亚</name>
+		<name normalized="카탈루냐 지방" languages="Korean">카탈루냐 지방</name>
+	</region>
+	<region name="Catalunya" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="An Chataloin" languages="Irish">An Chatalóin</name>
+		<name normalized="Catalaans" languages="Dutch">Catalaans</name>
+		<name normalized="Catalan" languages="English;French;German;official;Simple English;Swedish">Catalan</name>
+		<name normalized="Catalania" languages="Nahuatl">Catalania</name>
+		<name normalized="Catalano" languages="Italian">Catalano</name>
+		<name normalized="Catalaunia" languages="Latin">Catalaunia</name>
+		<name normalized="Catalogna" languages="Italian;Ligure;Sardinian;tarandine">Catalogna</name>
+		<name normalized="Catalogne" languages="French">Catalogne</name>
+		<name normalized="Catalonha" languages="English;Occitan;official">Catalonha</name>
+		<name normalized="Catalonia" languages="English;Hakka;Interlingua;Malay;Maori;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Romanian;Simple English">Catalonia</name>
+		<name normalized="Catalonie" languages="Scots">Catalonie</name>
+		<name normalized="Catalonien" languages="Danish">Catalonien</name>
+		<name normalized="Catalonie" languages="Dutch;West-Vlams">Catalonië</name>
+		<name normalized="Catalugna" languages="Sicilian">Catalugna</name>
+		<name normalized="Catalunha" languages="Portuguese">Catalunha</name>
+		<name normalized="Catalunia" languages="Corsican">Catalunia</name>
+		<name normalized="Catalunya" languages="Aragonese;Catalan;Chinese (Min Nan);English;Indonesian;Javanese;official;Tagalog;Vietnamese">Catalunya</name>
+		<name normalized="Cataluna" languages="Asturian;Extremaduran;Galician;Spanish;Waray">Cataluña</name>
+		<name normalized="Catalwnia" languages="Welsh">Catalwnia</name>
+		<name normalized="Catala" languages="Catalan">Català</name>
+		<name normalized="Catalan" languages="Extremaduran;Galician;Spanish">Catalán</name>
+		<name normalized="Catalogna" languages="lumbaart;Piedmontese">Catalògna</name>
+		<name normalized="Cataloinia" languages="Scottish Gaelic">Catalòinia</name>
+		<name normalized="Catelogna" languages="veneto">Catełogna</name>
+		<name normalized="Comunotat otonoma de Catalogne" languages="Franco-Provencal">Comunôtât ôtonoma de Catalogne</name>
+		<name normalized="Katalan" languages="Turkish">Katalan</name>
+		<name normalized="Katalanska" languages="Upper Sorbian">Katalanska</name>
+		<name normalized="Kataloanje" languages="Western Frisian">Kataloanje</name>
+		<name normalized="Kataloni" languages="Cornish">Kataloni</name>
+		<name normalized="Katalonia" languages="Albanian;Finnish;Polish">Katalonia</name>
+		<name normalized="Katalonien" languages="Alemannisch;German;Seeltersk;Swedish">Katalonien</name>
+		<name normalized="Katalonija" languages="Bosnian;Croatian;Latvian;Lithuanian;Serbo-Croatian;Slovenian">Katalonija</name>
+		<name normalized="Kataloniya" languages="Azerbaijani">Kataloniya</name>
+		<name normalized="Katalonie" languages="Afrikaans">Katalonië</name>
+		<name normalized="Katalonya" languages="Kurdish;Turkish;Zazaki">Katalonya</name>
+		<name normalized="Kataloonia" languages="Estonian">Kataloonia</name>
+		<name normalized="Katalooniya" languages="Somali">Katalooniya</name>
+		<name normalized="Katalounien" languages="Luxembourgish">Katalounien</name>
+		<name normalized="Kataloy" languages="Haitian">Kataloy</name>
+		<name normalized="Katalunia" languages="Basque;Ido;Novial">Katalunia</name>
+		<name normalized="Katalunio" languages="Esperanto">Katalunio</name>
+		<name normalized="Katalunya" languages="Ladino;Quechua">Katalunya</name>
+		<name normalized="Katalansko" languages="Czech;Slovak">Katalánsko</name>
+		<name normalized="Katalonia" languages="Hungarian">Katalónia</name>
+		<name normalized="Katalonia" languages="Icelandic">Katalónía</name>
+		<name normalized="Katalunijo" languages="Silesian">Katalůńijo</name>
+		<name normalized="Kumuniezh Emren Katalonia" languages="Breton">Kumuniezh Emren Katalonia</name>
+		<name normalized="Tatarunia" languages="Tahitian">Tatarūnia</name>
+		<name normalized="Yn Chataloan" languages="Manx">Yn Chataloan</name>
+		<name normalized="Καταλονια" languages="Greek">Καταλονία</name>
+		<name normalized="Kataлoн oрoн" languages="Mongolian">Каталон орон</name>
+		<name normalized="Kataлoнi" languages="Ossetic">Каталони</name>
+		<name normalized="Kataлoнii" languages="Bashkir;Bulgarian;Karachay-Balkar;Kazakh;Kyrgyz;Russian;Tatar">Каталония</name>
+		<name normalized="Kataлoнija" languages="Macedonian;Serbian">Каталонија</name>
+		<name normalized="Kataлoнii" languages="Belarusian;Ukrainian">Каталонія</name>
+		<name normalized="Kataлёнii" languages="biлaрuсkai (taрaskivita)‎">Каталёнія</name>
+		<name normalized="Kաtաlvնիա" languages="Armenian">Կատալոնիա</name>
+		<name normalized="qtדvnיh" languages="Hebrew">קטלוניה</name>
+		<name normalized="kאtאلونyא" languages="Egyptian Spoken Arabic">كاتالونيا</name>
+		<name normalized="mنtqة ktאلونyא" languages="Arabic">منطقة كتالونيا</name>
+		<name normalized="کאtאلאن" languages="Persian">کاتالان</name>
+		<name normalized="کאtאلونون" languages="Mazanderani">کاتالونون</name>
+		<name normalized="کאtאلونیא" languages="Persian">کاتالونیا</name>
+		<name normalized="کیtلونیא" languages="Western Punjabi">کیتلونیا</name>
+		<name normalized="کەtەلۆنیא" languages="Sorani Kurdish">کەتەلۆنیا</name>
+		<name normalized="ܩܛܠܘܢܝܐ" languages="Aramaic">ܩܛܠܘܢܝܐ</name>
+		<name normalized="kाtाloniyा" languages="Marathi">कातालोनिया</name>
+		<name normalized="kাtাloniy়া" languages="Bengali">কাতালোনিয়া</name>
+		<name normalized="kਾtਾlੋnia" languages="Punjabi">ਕਾਤਾਲੋਨੀਆ</name>
+		<name normalized="காத்தலோனியா" languages="Tamil">காத்தலோனியா</name>
+		<name normalized="കാറ്റലോണിയ" languages="Malayalam">കാറ്റലോണിയ</name>
+		<name normalized="කැටලෝනියා" languages="Sinhala">කැටලෝනියා</name>
+		<name normalized="แคว้นคาเทโลเนีย" languages="Thai">แคว้นคาเทโลเนีย</name>
+		<name normalized="ແຄວ້ນກາຕາໂລຍ" languages="Lao">ແຄວ້ນກາຕາໂລຍ</name>
+		<name normalized="კატალონია" languages="Georgian;Mingrelian">კატალონია</name>
+		<name normalized="ktrーny州" languages="Japanese">カタルーニャ州</name>
+		<name normalized="加泰罗尼亚" languages="Chinese;Wu">加泰罗尼亚</name>
+		<name normalized="카탈루냐 지방" languages="Korean">카탈루냐 지방</name>
+	</region>
+	<region name="Ceuta" type="autonomous city" typeTranslated="autonomous city">
+		<name normalized="Ceuta" languages="Afrikaans;Alemannisch;Aragonese;Asturian;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Dutch;English;Estonian;Extremaduran;Fiji Hindi;Finnish;Franco-Provencal;French;Gagauz;Galician;German;Haitian;Hungarian;Icelandic;Ido;Indonesian;Interlingua;Irish;Italian;Javanese;Kurdish;Ligure;lumbaart;Luxembourgish;Malay;Nahuatl;Northern Frisian;Northern Sami;Northern Sotho;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Piedmontese;Polish;Portuguese;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Sicilian;Simple English;Slovak;Spanish;Swahili;Swedish;Tagalog;tarandine;Turkish;Upper Sorbian;Vietnamese;veneto;Waray;Welsh;Yoruba;Zeeuws;Zulu">Ceuta</name>
+		<name normalized="Ceuto" languages="Esperanto">Ceŭto</name>
+		<name normalized="Ceuta" languages="Sundanese">Céuta</name>
+		<name normalized="Sebta" languages="Kabyle">Sebta</name>
+		<name normalized="Septa" languages="Latin">Septa</name>
+		<name normalized="Seuta" languages="Ladino;Latvian;Lithuanian;Tatar">Seuta</name>
+		<name normalized="Θeουτα" languages="Greek">Θέουτα</name>
+		<name normalized="Goрad Сiўta" languages="Belarusian">Горад Сеўта</name>
+		<name normalized="Сiutae" languages="Ossetic">Сеутæ</name>
+		<name normalized="Сiuta" languages="Bulgarian;Kazakh;Macedonian;Russian;Serbian;Ukrainian">Сеута</name>
+		<name normalized="Сeўta" languages="biлaрuсkai (taрaskivita)‎">Сэўта</name>
+		<name normalized="Sեvytա" languages="Armenian">Սեուտա</name>
+		<name normalized="סאvth" languages="Hebrew">סאוטה</name>
+		<name normalized="ثyوytא" languages="Egyptian Spoken Arabic">ثيويتا</name>
+		<name normalized="سbtة" languages="Arabic">سبتة</name>
+		<name normalized="سbth" languages="Persian">سبته</name>
+		<name normalized="سbtہ" languages="Urdu">سبتہ</name>
+		<name normalized="seuटा" languages="Hindi">सेउटा</name>
+		<name normalized="seutा" languages="Marathi">सेउता</name>
+		<name normalized="சியூடா" languages="Tamil">சியூடா</name>
+		<name normalized="เซวตา" languages="Thai">เซวตา</name>
+		<name normalized="სეუტა" languages="Georgian">სეუტა</name>
+		<name normalized="sut" languages="Japanese">セウタ</name>
+		<name normalized="休达" languages="Chinese">休达</name>
+		<name normalized="세우타" languages="Korean">세우타</name>
+	</region>
+	<region name="Comunidad Valenciana" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="Autonom Gemeinschaft Valencia" languages="Luxembourgish">Autonom Gemeinschaft Valencia</name>
+		<name normalized="Boodeeys Valencia" languages="Manx">Boodeeys Valencia</name>
+		<name normalized="Cemaxcayotl Valencia" languages="Nahuatl">Cemāxcāyōtl Valencia</name>
+		<name normalized="Co-chomann Valencia" languages="Scottish Gaelic">Co-chomann València</name>
+		<name normalized="Comhphobal Valencia" languages="Irish">Comhphobal Valencia</name>
+		<name normalized="Communaute valencienne" languages="French">Communauté valencienne</name>
+		<name normalized="Communitas Valentiana" languages="Latin">Communitas Valentiana</name>
+		<name normalized="Comunetate Valenzane" languages="tarandine">Comunetate Valenzane</name>
+		<name normalized="Comunidad Valenciana" languages="English;official;Spanish;Waray">Comunidad Valenciana</name>
+		<name normalized="Comunidade Valenciana" languages="Galician;Portuguese">Comunidade Valenciana</name>
+		<name normalized="Comunida Valenciana" languages="Asturian;Extremaduran">Comunidá Valenciana</name>
+		<name normalized="Comunitat Valenciana" languages="English;Norwegian (bokmal);official">Comunitat Valenciana</name>
+		<name normalized="Comunitatea Valenciana" languages="Romanian">Comunitatea Valenciană</name>
+		<name normalized="Comunita Valensian-a" languages="Piedmontese">Comunità Valensian-a</name>
+		<name normalized="Comunita valenzana" languages="Italian">Comunità valenzana</name>
+		<name normalized="Comunita Valensiana" languages="veneto">Comunità Vałensiana</name>
+		<name normalized="Comunotat otonoma de Valence" languages="Franco-Provencal">Comunôtât ôtonoma de Valence</name>
+		<name normalized="Cong dong Valencia" languages="Vietnamese">Cộng đồng Valencia</name>
+		<name normalized="Komunidad Valensiana" languages="Ladino">Komunidad Valensiana</name>
+		<name normalized="Komunie de Valencia" languages="Novial">Komunie de Valencia</name>
+		<name normalized="Komuniti Valencia" languages="Malay">Komuniti Valencia</name>
+		<name normalized="Kumuniezh Valencia" languages="Breton">Kumuniezh València</name>
+		<name normalized="Pamayanang Balensyano" languages="Tagalog">Pamayanang Balensyano</name>
+		<name normalized="Pais Valencian" languages="Occitan">País Valencian</name>
+		<name normalized="Pais Valencia" languages="Catalan">País Valencià</name>
+		<name normalized="Pais Valencian" languages="Aragonese">País Valencián</name>
+		<name normalized="Pow Valensianek" languages="Cornish">Pow Valensianek</name>
+		<name normalized="Regionen Valencia" languages="Norwegian Nynorsk">Regionen Valencia</name>
+		<name normalized="Valence" languages="Haitian">Valence</name>
+		<name normalized="Valencia" languages="Bosnian;Danish;Dutch;Faroese;Finnish;Simple English;Swedish;Welsh;West-Vlams;Western Frisian">Valencia</name>
+		<name normalized="Valencia autonoomne piirkond" languages="Estonian">Valencia autonoomne piirkond</name>
+		<name normalized="Valencia autonom kozosseg" languages="Hungarian">Valencia autonóm közösség</name>
+		<name normalized="Valencia Sia-li" languages="Chinese (Min Nan)">Valencia Siā-lí</name>
+		<name normalized="Valencia suyu" languages="Quechua">Valencia suyu</name>
+		<name normalized="Valencian Community" languages="English;official">Valencian Community</name>
+		<name normalized="Valencianische Gemeinschaft" languages="German">Valencianische Gemeinschaft</name>
+		<name normalized="Valencie Commonty" languages="Scots">Valencie Commonty</name>
+		<name normalized="Valencijska Zajednica" languages="Croatian;Serbo-Croatian">Valencijska Zajednica</name>
+		<name normalized="Valencijske spolecenstvi" languages="Czech">Valencijské společenství</name>
+		<name normalized="Valencilando" languages="Esperanto">Valencilando</name>
+		<name normalized="Valensija" languages="Latvian;Lithuanian">Valensija</name>
+		<name normalized="Valensiya" languages="Turkish">Valensiya</name>
+		<name normalized="Valensia" languages="Icelandic">Valensía</name>
+		<name normalized="Valentziako Erkidegoa" languages="Basque">Valentziako Erkidegoa</name>
+		<name normalized="Valenza" languages="Sicilian">Valenza</name>
+		<name normalized="Walencja" languages="Polish">Walencja</name>
+		<name normalized="Wilayah Valencia" languages="Indonesian">Wilayah Valencia</name>
+		<name normalized="Βαλeνθια" languages="Greek">Βαλένθια</name>
+		<name normalized="Vaлiнсi" languages="Ossetic">Валенси</name>
+		<name normalized="Vaлiнсiйсka obщнoсt" languages="Bulgarian">Валенсийска общност</name>
+		<name normalized="Vaлiнсie" languages="Kabardian">Валенсиэ</name>
+		<name normalized="Vaлiнсii" languages="Karachay-Balkar;Kazakh;Russian">Валенсия</name>
+		<name normalized="Vaлiнсija" languages="Macedonian">Валенсија</name>
+		<name normalized="Vaлiнсijaнсka Pokрajiнa" languages="Serbian">Валенсијанска Покрајина</name>
+		<name normalized="Vaлiнсii" languages="Belarusian;Ukrainian;biлaрuсkai (taрaskivita)‎">Валенсія</name>
+		<name normalized="Վաlենsիա" languages="Armenian">Վալենսիա</name>
+		<name normalized="vדnסיh" languages="Hebrew">ולנסיה</name>
+		<name normalized="bخش خودmخtאr وאلنسیא" languages="Persian">بخش خودمختار والنسیا</name>
+		<name normalized="mنtqة bلنسyة" languages="Arabic">منطقة بلنسية</name>
+		<name normalized="mنtqة fאلyنسyא" languages="Egyptian Spoken Arabic">منطقة فالينسيا</name>
+		<name normalized="ویلینسیאئی سنgt" languages="Western Punjabi">ویلینسیائی سنگت</name>
+		<name normalized="vाlen्siyा" languages="Marathi">वालेन्सिया</name>
+		<name normalized="valeंsiyाi smudाy" languages="Hindi">वैलेंसियाई समुदाय</name>
+		<name normalized="velen્siyા no p્rdes" languages="Gujarati">વૅલેન્શિયા નો પ્રદેશ</name>
+		<name normalized="แคว้นบาเลนเซีย" languages="Thai">แคว้นบาเลนเซีย</name>
+		<name normalized="ვალენსიაშ ავტონომიური გოართოიანაფა" languages="Mingrelian">ვალენსიაშ ავტონომიური გოართოიანაფა</name>
+		<name normalized="ვალენსიის ავტონომიური გაერთიანება" languages="Georgian">ვალენსიის ავტონომიური გაერთიანება</name>
+		<name normalized="brnsa州" languages="Japanese">バレンシア州</name>
+		<name normalized="巴倫西亞自治區" languages="Chinese">巴倫西亞自治區</name>
+		<name normalized="발렌시아 지방" languages="Korean">발렌시아 지방</name>
+	</region>
+	<region name="Comunitat Valenciana" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="Autonom Gemeinschaft Valencia" languages="Luxembourgish">Autonom Gemeinschaft Valencia</name>
+		<name normalized="Boodeeys Valencia" languages="Manx">Boodeeys Valencia</name>
+		<name normalized="Cemaxcayotl Valencia" languages="Nahuatl">Cemāxcāyōtl Valencia</name>
+		<name normalized="Co-chomann Valencia" languages="Scottish Gaelic">Co-chomann València</name>
+		<name normalized="Comhphobal Valencia" languages="Irish">Comhphobal Valencia</name>
+		<name normalized="Communaute valencienne" languages="French">Communauté valencienne</name>
+		<name normalized="Communitas Valentiana" languages="Latin">Communitas Valentiana</name>
+		<name normalized="Comunetate Valenzane" languages="tarandine">Comunetate Valenzane</name>
+		<name normalized="Comunidad Valenciana" languages="English;official;Spanish;Waray">Comunidad Valenciana</name>
+		<name normalized="Comunidade Valenciana" languages="Galician;Portuguese">Comunidade Valenciana</name>
+		<name normalized="Comunida Valenciana" languages="Asturian;Extremaduran">Comunidá Valenciana</name>
+		<name normalized="Comunitat Valenciana" languages="English;Norwegian (bokmal);official">Comunitat Valenciana</name>
+		<name normalized="Comunitatea Valenciana" languages="Romanian">Comunitatea Valenciană</name>
+		<name normalized="Comunita Valensian-a" languages="Piedmontese">Comunità Valensian-a</name>
+		<name normalized="Comunita valenzana" languages="Italian">Comunità valenzana</name>
+		<name normalized="Comunita Valensiana" languages="veneto">Comunità Vałensiana</name>
+		<name normalized="Comunotat otonoma de Valence" languages="Franco-Provencal">Comunôtât ôtonoma de Valence</name>
+		<name normalized="Cong dong Valencia" languages="Vietnamese">Cộng đồng Valencia</name>
+		<name normalized="Komunidad Valensiana" languages="Ladino">Komunidad Valensiana</name>
+		<name normalized="Komunie de Valencia" languages="Novial">Komunie de Valencia</name>
+		<name normalized="Komuniti Valencia" languages="Malay">Komuniti Valencia</name>
+		<name normalized="Kumuniezh Valencia" languages="Breton">Kumuniezh València</name>
+		<name normalized="Pamayanang Balensyano" languages="Tagalog">Pamayanang Balensyano</name>
+		<name normalized="Pais Valencian" languages="Occitan">País Valencian</name>
+		<name normalized="Pais Valencia" languages="Catalan">País Valencià</name>
+		<name normalized="Pais Valencian" languages="Aragonese">País Valencián</name>
+		<name normalized="Pow Valensianek" languages="Cornish">Pow Valensianek</name>
+		<name normalized="Regionen Valencia" languages="Norwegian Nynorsk">Regionen Valencia</name>
+		<name normalized="Valence" languages="Haitian">Valence</name>
+		<name normalized="Valencia" languages="Bosnian;Danish;Dutch;Faroese;Finnish;Simple English;Swedish;Welsh;West-Vlams;Western Frisian">Valencia</name>
+		<name normalized="Valencia autonoomne piirkond" languages="Estonian">Valencia autonoomne piirkond</name>
+		<name normalized="Valencia autonom kozosseg" languages="Hungarian">Valencia autonóm közösség</name>
+		<name normalized="Valencia Sia-li" languages="Chinese (Min Nan)">Valencia Siā-lí</name>
+		<name normalized="Valencia suyu" languages="Quechua">Valencia suyu</name>
+		<name normalized="Valencian Community" languages="English;official">Valencian Community</name>
+		<name normalized="Valencianische Gemeinschaft" languages="German">Valencianische Gemeinschaft</name>
+		<name normalized="Valencie Commonty" languages="Scots">Valencie Commonty</name>
+		<name normalized="Valencijska Zajednica" languages="Croatian;Serbo-Croatian">Valencijska Zajednica</name>
+		<name normalized="Valencijske spolecenstvi" languages="Czech">Valencijské společenství</name>
+		<name normalized="Valencilando" languages="Esperanto">Valencilando</name>
+		<name normalized="Valensija" languages="Latvian;Lithuanian">Valensija</name>
+		<name normalized="Valensiya" languages="Turkish">Valensiya</name>
+		<name normalized="Valensia" languages="Icelandic">Valensía</name>
+		<name normalized="Valentziako Erkidegoa" languages="Basque">Valentziako Erkidegoa</name>
+		<name normalized="Valenza" languages="Sicilian">Valenza</name>
+		<name normalized="Walencja" languages="Polish">Walencja</name>
+		<name normalized="Wilayah Valencia" languages="Indonesian">Wilayah Valencia</name>
+		<name normalized="Βαλeνθια" languages="Greek">Βαλένθια</name>
+		<name normalized="Vaлiнсi" languages="Ossetic">Валенси</name>
+		<name normalized="Vaлiнсiйсka obщнoсt" languages="Bulgarian">Валенсийска общност</name>
+		<name normalized="Vaлiнсie" languages="Kabardian">Валенсиэ</name>
+		<name normalized="Vaлiнсii" languages="Karachay-Balkar;Kazakh;Russian">Валенсия</name>
+		<name normalized="Vaлiнсija" languages="Macedonian">Валенсија</name>
+		<name normalized="Vaлiнсijaнсka Pokрajiнa" languages="Serbian">Валенсијанска Покрајина</name>
+		<name normalized="Vaлiнсii" languages="Belarusian;Ukrainian;biлaрuсkai (taрaskivita)‎">Валенсія</name>
+		<name normalized="Վաlենsիա" languages="Armenian">Վալենսիա</name>
+		<name normalized="vדnסיh" languages="Hebrew">ולנסיה</name>
+		<name normalized="bخش خودmخtאr وאلنسیא" languages="Persian">بخش خودمختار والنسیا</name>
+		<name normalized="mنtqة bلنسyة" languages="Arabic">منطقة بلنسية</name>
+		<name normalized="mنtqة fאلyنسyא" languages="Egyptian Spoken Arabic">منطقة فالينسيا</name>
+		<name normalized="ویلینسیאئی سنgt" languages="Western Punjabi">ویلینسیائی سنگت</name>
+		<name normalized="vाlen्siyा" languages="Marathi">वालेन्सिया</name>
+		<name normalized="valeंsiyाi smudाy" languages="Hindi">वैलेंसियाई समुदाय</name>
+		<name normalized="velen્siyા no p્rdes" languages="Gujarati">વૅલેન્શિયા નો પ્રદેશ</name>
+		<name normalized="แคว้นบาเลนเซีย" languages="Thai">แคว้นบาเลนเซีย</name>
+		<name normalized="ვალენსიაშ ავტონომიური გოართოიანაფა" languages="Mingrelian">ვალენსიაშ ავტონომიური გოართოიანაფა</name>
+		<name normalized="ვალენსიის ავტონომიური გაერთიანება" languages="Georgian">ვალენსიის ავტონომიური გაერთიანება</name>
+		<name normalized="brnsa州" languages="Japanese">バレンシア州</name>
+		<name normalized="巴倫西亞自治區" languages="Chinese">巴倫西亞自治區</name>
+		<name normalized="발렌시아 지방" languages="Korean">발렌시아 지방</name>
+	</region>
+	<region name="Euskadi" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="Autonom Gemeinschaft Baskeland" languages="Luxembourgish">Autonom Gemeinschaft Baskeland</name>
+		<name normalized="Autonome Gemeinschaft Baskenland" languages="German">Autonome Gemeinschaft Baskenland</name>
+		<name normalized="Autonomni spolecenstvi Baskicko" languages="Czech">Autonomní společenství Baskicko</name>
+		<name normalized="Bascoat" languages="Occitan">Bascoat</name>
+		<name normalized="Bask Bolgesi" languages="Turkish">Bask Bölgesi</name>
+		<name normalized="Baskaland" languages="Icelandic">Baskaland</name>
+		<name normalized="Baskelan" languages="Western Frisian">Baskelân</name>
+		<name normalized="Baskenland" languages="Dutch;Low German">Baskenland</name>
+		<name normalized="Baskenlun" languages="Northern Frisian">Baskenlun</name>
+		<name normalized="Baskerland" languages="Norwegian (bokmal)">Baskerland</name>
+		<name normalized="Baskerlandet" languages="Danish">Baskerlandet</name>
+		<name normalized="Baski autonoomne piirkond" languages="Estonian">Baski autonoomne piirkond</name>
+		<name normalized="Baskia" languages="Albanian;Ido">Baskia</name>
+		<name normalized="Baskicko" languages="Slovak">Baskicko</name>
+		<name normalized="Baskien" languages="Swedish">Baskien</name>
+		<name normalized="Baskija" languages="Croatian;Lithuanian;Slovenian">Baskija</name>
+		<name normalized="Baskimaa" languages="Finnish">Baskimaa</name>
+		<name normalized="Baskiska" languages="Upper Sorbian">Baskiska</name>
+		<name normalized="Basklar olkəsi" languages="Azerbaijani">Basklar ölkəsi</name>
+		<name normalized="Basku Zeme" languages="Latvian">Basku Zeme</name>
+		<name normalized="Basque Country" languages="English;official">Basque Country</name>
+		<name normalized="Basque Kintra" languages="Scots">Basque Kintra</name>
+		<name normalized="Baszkfold" languages="Hungarian">Baszkföld</name>
+		<name normalized="Bayang Basko" languages="Tagalog">Bayang Basko</name>
+		<name normalized="Comunautat Autonoma Basca" languages="Occitan">Comunautat Autonòma Basca</name>
+		<name normalized="Comunidade autonoma do Pais Basco" languages="Portuguese">Comunidade autónoma do País Basco</name>
+		<name normalized="Comunitat autonoma del Pais Basc" languages="Catalan">Comunitat autònoma del País Basc</name>
+		<name normalized="Comunita autonoma dei Paexi Baschi" languages="veneto">Comunità autonoma dei Paexi Baschi</name>
+		<name normalized="Comunotat otonoma basca" languages="Franco-Provencal">Comunôtât ôtonoma bâsca</name>
+		<name normalized="Cymuned Ymreolaethol Gwlad y Basg" languages="Welsh">Cymuned Ymreolaethol Gwlad y Basg</name>
+		<name normalized="Duthaich nam Basgach" languages="Scottish Gaelic">Dùthaich nam Basgach</name>
+		<name normalized="Euskadi" languages="Chinese (Min Nan);English;official">Euskadi</name>
+		<name normalized="Euskal Autonomia Erkidegoa" languages="Basque">Euskal Autonomia Erkidegoa</name>
+		<name normalized="Euskerum-Vaskum lande" languages="Novial">Euskerum-Vaskum lande</name>
+		<name normalized="Euska Autonoma Komunumo" languages="Esperanto">Eŭska Aŭtonoma Komunumo</name>
+		<name normalized="Herema Otonom a Baski" languages="Kurdish">Herêma Otonom a Baskî</name>
+		<name normalized="Kemmynieth Omrewlys Bask" languages="Cornish">Kemmynieth Omrewlys Bask</name>
+		<name normalized="Kraj Baskow" languages="Polish">Kraj Basków</name>
+		<name normalized="Kumuniezh Emren Euskadi" languages="Breton">Kumuniezh Emren Euskadi</name>
+		<name normalized="Negara Basque" languages="Malay">Negara Basque</name>
+		<name normalized="Outonome Gemeenskap van die Baskeland" languages="Afrikaans">Outonome Gemeenskap van die Baskeland</name>
+		<name normalized="Paesi Baschi" languages="Italian">Paesi Baschi</name>
+		<name normalized="Paexi Baschi" languages="veneto">Paexi Baschi</name>
+		<name normalized="Pais Basch" languages="Piedmontese">Pais Basch</name>
+		<name normalized="Pais Basko" languages="Ladino">Pais Basko</name>
+		<name normalized="Paisi Baschi" languages="Sicilian">Paisi Baschi</name>
+		<name normalized="Paisu Bascu" languages="Sardinian">Paisu Bascu</name>
+		<name normalized="Pajesere Basche" languages="tarandine">Pajèsere Basche</name>
+		<name normalized="Pays basque" languages="French">Pays basque</name>
+		<name normalized="Pais Basco" languages="Portuguese">País Basco</name>
+		<name normalized="Pais Vasco" languages="Aragonese;Galician;Indonesian;Javanese;Spanish;Waray">País Vasco</name>
+		<name normalized="Pais Vascu" languages="Asturian;Extremaduran">País Vascu</name>
+		<name normalized="Peyi basque" languages="Haitian">Peyi basque</name>
+		<name normalized="Regionen Baskarland" languages="Norwegian Nynorsk">Regionen Baskarland</name>
+		<name normalized="Tir na mBascach Theas" languages="Irish">Tír na mBascach Theas</name>
+		<name normalized="Vasconia" languages="Latin;Nahuatl">Vasconia</name>
+		<name normalized="Xu Basque" languages="Vietnamese">Xứ Basque</name>
+		<name normalized="Yn Cheer Vascagh" languages="Manx">Yn Çheer Vascagh</name>
+		<name normalized="Yuskadi" languages="Quechua">Yuskadi</name>
+		<name normalized="Țara Bascilor" languages="Romanian">Țara Bascilor</name>
+		<name normalized="Χωρα των Βασκων" languages="Greek">Χώρα των Βάσκων</name>
+		<name normalized="Baсk oрoн" languages="Mongolian">Баск орон</name>
+		<name normalized="Baсkaegtы Baeсtae" languages="Ossetic">Баскæгты Бæстæ</name>
+		<name normalized="Baсka avtoнoмнa obлaсt" languages="Bulgarian">Баска автономна област</name>
+		<name normalized="Baсkija" languages="Macedonian;Serbian">Баскија</name>
+		<name normalized="Baсkлaны dzuрtu" languages="Karachay-Balkar">Баскланы джурту</name>
+		<name normalized="Baсktaр iлi" languages="Kazakh">Басктар елі</name>
+		<name normalized="Baсktaр Өлkɵсү" languages="Kyrgyz">Басктар Өлкөсү</name>
+		<name normalized="Baсkkeм i Kъeрaл" languages="Kabardian">Баскхэм я Къэрал</name>
+		<name normalized="Kрaiнa Baсkaў" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Краіна Баскаў</name>
+		<name normalized="Kрayнa Baсkiv" languages="Ukrainian">Країна Басків</name>
+		<name normalized="Сtрaнa baсkov" languages="Russian">Страна басков</name>
+		<name normalized="Bաskեrի եrkիr" languages="Armenian">Բասկերի երկիր</name>
+		<name normalized="hbד hbסqים" languages="Hebrew">חבל הבסקים</name>
+		<name normalized="إqلym אلbאسk" languages="Arabic">إقليم الباسك</name>
+		<name normalized="אqلym אلbאسk" languages="Egyptian Spoken Arabic">اقليم الباسك</name>
+		<name normalized="bאسک دیس" languages="Western Punjabi">باسک دیس</name>
+		<name normalized="bאسک mلک" languages="Urdu">باسک ملک</name>
+		<name normalized="سrزmین bאسک" languages="Persian">سرزمین باسک</name>
+		<name normalized="mنtqة إqلym אلbאسk" languages="Arabic">منطقة إقليم الباسك</name>
+		<name normalized="ھەrێmی bאسک" languages="Sorani Kurdish">ھەرێمی باسک</name>
+		<name normalized="pाij bाs्ko" languages="Marathi">पाईज बास्को</name>
+		<name normalized="bाs्k p्rdes" languages="Hindi">बास्क प्रदेश</name>
+		<name normalized="แคว้นบาสก์" languages="Thai">แคว้นบาสก์</name>
+		<name normalized="ბასკეთი" languages="Georgian;Mingrelian">ბასკეთი</name>
+		<name normalized="bsk自治州" languages="Japanese">バスク自治州</name>
+		<name normalized="巴斯克" languages="Chinese">巴斯克</name>
+		<name normalized="巴斯克自治區" languages="Cantonese;Chinese">巴斯克自治區</name>
+		<name normalized="바스크 지방" languages="Korean">바스크 지방</name>
+	</region>
+	<region name="Extremadura" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="Ekstremadura" languages="Croatian;Serbo-Croatian;Turkish">Ekstremadura</name>
+		<name normalized="Ekstremaduro" languages="Esperanto">Ekstremaduro</name>
+		<name normalized="Ekstremadura" languages="Western Frisian">Ekstremadûra</name>
+		<name normalized="Estremadura" languages="Aragonese;Asturian;Azerbaijani;Breton;Galician;Italian;Ladino;Latvian;Piedmontese;Polish;Portuguese;Sicilian;tarandine">Estremadura</name>
+		<name normalized="Estremadure" languages="Haitian">Estremadure</name>
+		<name normalized="Estremadura" languages="Lithuanian">Estremadūra</name>
+		<name normalized="Estremaura" languages="Extremaduran">Estremaúra</name>
+		<name normalized="Estremadure" languages="French">Estrémadure</name>
+		<name normalized="Extremadura" languages="Afrikaans;Basque;Bosnian;Catalan;Cornish;Czech;Danish;Dutch;English;Estonian;Finnish;German;Hungarian;Ido;Indonesian;Irish;Latin;Luxembourgish;Malay;Maori;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Romanian;Scots;Scottish Gaelic;Seeltersk;Simple English;Slovak;Slovenian;Spanish;Swedish;Tagalog;Vietnamese;Waray;Welsh">Extremadura</name>
+		<name normalized="Extremadura" languages="Icelandic">Extremadúra</name>
+		<name normalized="Ikstrimadura" languages="Quechua">Ikstrimadura</name>
+		<name normalized="Estremadura" languages="Franco-Provencal">Èstrèmadura</name>
+		<name normalized="Εξτρεμαδοuρα" languages="Greek">Εξτρεμαδούρα</name>
+		<name normalized="Ikсtрiмaduрa" languages="Macedonian;Serbian">Екстремадура</name>
+		<name normalized="Iсtрiмaduрa" languages="Bulgarian;Ukrainian">Естремадура</name>
+		<name normalized="Eсtрiмaduрae" languages="Ossetic">Эстремадурæ</name>
+		<name normalized="Eсtрiмaduрa" languages="Kazakh;Russian">Эстремадура</name>
+		<name normalized="Eсtрeмaduрa" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Эстрэмадура</name>
+		<name normalized="Estrեmաdvyrա" languages="Armenian">Էստրեմադուրա</name>
+		<name normalized="אqסtrמדvrh" languages="Hebrew">אקסטרמדורה</name>
+		<name normalized="אkسtrymאدوrא" languages="Egyptian Spoken Arabic">اكستريمادورا</name>
+		<name normalized="אکسtrmאدوrא" languages="Persian">اکسترمادورا</name>
+		<name normalized="אیکسٹrیmאڈوrא" languages="Western Punjabi">ایکسٹریماڈورا</name>
+		<name normalized="mنtqة إkسtrymאدوrא" languages="Arabic">منطقة إكستريمادورا</name>
+		<name normalized="es्t्remाdurा" languages="Marathi">एस्त्रेमादुरा</name>
+		<name normalized="แคว้นเอกซ์เตรมาดูรา" languages="Thai">แคว้นเอกซ์เตรมาดูรา</name>
+		<name normalized="ესტრემადურა" languages="Georgian">ესტრემადურა</name>
+		<name normalized="estrmduーr州" languages="Japanese">エストレマドゥーラ州</name>
+		<name normalized="埃斯特雷馬杜拉" languages="Classical Chinese">埃斯特雷馬杜拉</name>
+		<name normalized="埃斯特雷马杜拉" languages="Chinese">埃斯特雷马杜拉</name>
+		<name normalized="에스트레마두라 지방" languages="Korean">에스트레마두라 지방</name>
+	</region>
+	<region name="Galicia" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="An Ghailis" languages="Irish">An Ghailís</name>
+		<name normalized="Galegio" languages="Esperanto">Galegio</name>
+		<name normalized="Galice" languages="Franco-Provencal;French">Galice</name>
+		<name normalized="Galicia" languages="Aragonese;Asturian;English;Estonian;Extremaduran;Finnish;Galician;Hungarian;Malay;Maori;Nahuatl;Norwegian (bokmal);Novial;official;Pampanga;Romanian;Sardinian;Scottish Gaelic;Simple English;Spanish;Tagalog;Vietnamese;Waray">Galicia</name>
+		<name normalized="Galicia i Spania" languages="Norwegian Nynorsk">Galicia i Spania</name>
+		<name normalized="Galicie" languages="Czech;Scots">Galicie</name>
+		<name normalized="Galicien" languages="Danish;German;Luxembourgish;Swedish">Galicien</name>
+		<name normalized="Galicija" languages="Bosnian;Croatian;Serbo-Croatian;Slovenian;Upper Sorbian">Galicija</name>
+		<name normalized="Galicie" languages="Dutch">Galicië</name>
+		<name normalized="Galicja" languages="Polish">Galicja</name>
+		<name normalized="Galisi" languages="Cornish">Galisi</name>
+		<name normalized="Galisia" languages="Ido;Indonesian;Welsh">Galisia</name>
+		<name normalized="Galisija" languages="Latvian;Lithuanian">Galisija</name>
+		<name normalized="Galisiya" languages="Haitian">Galisiya</name>
+		<name normalized="Galissia" languages="Ligure;lumbaart;Piedmontese">Galissia</name>
+		<name normalized="Galisya" languages="Quechua">Galisya</name>
+		<name normalized="Galisia" languages="Icelandic">Galisía</name>
+		<name normalized="Galiza" languages="Breton;Portuguese">Galiza</name>
+		<name normalized="Galizia" languages="Basque;Corsican;Italian;Ladino;tarandine">Galizia</name>
+		<name normalized="Galizzia" languages="Sicilian">Galizzia</name>
+		<name normalized="Galicya" languages="Turkish">Galiçya</name>
+		<name normalized="Gallaecia" languages="Latin">Gallaecia</name>
+		<name normalized="Gallecia" languages="Interlingua">Gallecia</name>
+		<name normalized="Galysje" languages="Western Frisian">Galysje</name>
+		<name normalized="Galicia" languages="Catalan;Occitan;Slovak">Galícia</name>
+		<name normalized="Galisya" languages="Kurdish">Galîsya</name>
+		<name normalized="Qalisiya" languages="Azerbaijani">Qalisiya</name>
+		<name normalized="Yn Ghaleesh" languages="Manx">Yn Ghaleesh</name>
+		<name normalized="Γαλικια" languages="Greek">Γαλικία</name>
+		<name normalized="Gaлiсi" languages="Ossetic">Галиси</name>
+		<name normalized="Gaлiсie" languages="Kabardian">Галисиэ</name>
+		<name normalized="Gaлiсii" languages="Bulgarian;Karachay-Balkar;Kazakh;Russian">Галисия</name>
+		<name normalized="Gaлitija" languages="Macedonian;Serbian">Галиција</name>
+		<name normalized="Gaлiсii" languages="Belarusian;Ukrainian;biлaрuсkai (taрaskivita)‎">Галісія</name>
+		<name normalized="Գաlիsիա" languages="Armenian">Գալիսիա</name>
+		<name normalized="גדיסיh" languages="Hebrew">גליסיה</name>
+		<name normalized="jאلyسyא" languages="Egyptian Spoken Arabic">جاليسيا</name>
+		<name normalized="mنtqة غאلyسyא" languages="Arabic">منطقة غاليسيا</name>
+		<name normalized="gאلیسیא" languages="Persian">گالیسیا</name>
+		<name normalized="gאلیکیא" languages="Western Punjabi">گالیکیا</name>
+		<name normalized="glisiyा" languages="Hindi">गलिशिया</name>
+		<name normalized="gाlisiyा" languages="Marathi">गालिसिया</name>
+		<name normalized="gাlitiy়া" languages="Bengali">গালিথিয়া</name>
+		<name normalized="கலீசியா" languages="Tamil">கலீசியா</name>
+		<name normalized="แคว้นกาลิเซีย" languages="Thai">แคว้นกาลิเซีย</name>
+		<name normalized="გალისია" languages="Georgian">გალისია</name>
+		<name normalized="grsa州" languages="Japanese">ガリシア州</name>
+		<name normalized="加利西亚" languages="Chinese">加利西亚</name>
+		<name normalized="갈리시아 지방" languages="Korean">갈리시아 지방</name>
+	</region>
+	<region name="Illes Baleares" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="Baleaarid" languages="Estonian">Baleaarid</name>
+		<name normalized="Baleaarit" languages="Finnish">Baleaarit</name>
+		<name normalized="Balear adaları" languages="Azerbaijani;Turkish">Balear adaları</name>
+		<name normalized="Balear Kun-to" languages="Chinese (Min Nan)">Balear Kûn-tó</name>
+		<name normalized="Balear uharteak" languages="Basque">Balear uharteak</name>
+		<name normalized="Balearane" languages="Norwegian Nynorsk">Balearane</name>
+		<name normalized="Baleare" languages="Corsican">Baleare</name>
+		<name normalized="Balearen" languages="Dutch;Low German">Balearen</name>
+		<name normalized="Balearene" languages="Norwegian (bokmal)">Balearene</name>
+		<name normalized="Balearerna" languages="Swedish">Balearerna</name>
+		<name normalized="Baleares" languages="Interlingue;Nahuatl;Portuguese;Tagalog">Baleares</name>
+		<name normalized="Balearesch Inselen" languages="Luxembourgish">Balearesch Inselen</name>
+		<name normalized="Baleareyjar" languages="Icelandic">Baleareyjar</name>
+		<name normalized="Balearez" languages="Breton">Balearez</name>
+		<name normalized="Baleari" languages="Croatian;Ido;Serbo-Croatian">Baleari</name>
+		<name normalized="Balearic Islands" languages="English;official;Pampanga;Scots;Simple English">Balearic Islands</name>
+		<name normalized="Baleariese Eilande" languages="Afrikaans">Baleariese Eilande</name>
+		<name normalized="Balearische Inseln" languages="German">Balearische Inseln</name>
+		<name normalized="Baleariske Ailounde" languages="Seeltersk">Baleariske Ailounde</name>
+		<name normalized="Baleariske Oer" languages="Danish">Baleariske Øer</name>
+		<name normalized="Balearoj" languages="Esperanto">Balearoj</name>
+		<name normalized="Balearska ostrva" languages="Bosnian">Balearska ostrva</name>
+		<name normalized="Balearski otoki" languages="Slovenian">Balearski otoki</name>
+		<name normalized="Baleary" languages="Lower Sorbian;Polish;Upper Sorbian">Baleary</name>
+		<name normalized="Balearu salos" languages="Lithuanian">Balearų salos</name>
+		<name normalized="Balejoarn" languages="Low Saxon (Netherlands)">Balejoarn</name>
+		<name normalized="Balear-szigetek" languages="Hungarian">Baleár-szigetek</name>
+		<name normalized="Baleary" languages="Czech;Slovak">Baleáry</name>
+		<name normalized="Balearen" languages="Western Frisian">Baleären</name>
+		<name normalized="Balearu Salas" languages="Latvian">Baleāru Salas</name>
+		<name normalized="Baleari" languages="veneto">Bałeari</name>
+		<name normalized="Giraven Balear" languages="Kurdish">Giravên Balear</name>
+		<name normalized="Iles Baleares" languages="Franco-Provencal">Iles Balèares</name>
+		<name normalized="Illas Balearas" languages="Occitan">Illas Balearas</name>
+		<name normalized="Illas Baleares" languages="Galician">Illas Baleares</name>
+		<name normalized="Illes Baleares" languages="English;official">Illes Baleares</name>
+		<name normalized="Illes Balears" languages="Catalan">Illes Balears</name>
+		<name normalized="Insulae Baliares" languages="Latin">Insulae Baliares</name>
+		<name normalized="Insulele Baleare" languages="Romanian">Insulele Baleare</name>
+		<name normalized="Islas Baleares" languages="Cebuano;Spanish">Islas Baleares</name>
+		<name normalized="Islas Balearis" languages="Extremaduran">Islas Balearis</name>
+		<name normalized="Islas Balears" languages="Aragonese">Islas Balears</name>
+		<name normalized="Isles Baleares" languages="Novial">Isles Baleares</name>
+		<name normalized="Islles Baleares" languages="Asturian">Islles Baleares</name>
+		<name normalized="Isoe Baleari" languages="Ligure">Isoe Baleari</name>
+		<name normalized="Isolas Baleares" languages="Ladino">Isolas Baleares</name>
+		<name normalized="Isole Baleari" languages="Italian;tarandine">Isole Baleari</name>
+		<name normalized="Kapuloan Baleares" languages="Javanese">Kapuloan Baleares</name>
+		<name normalized="Kapuropod-an Balear" languages="Waray">Kapuropod-an Balear</name>
+		<name normalized="Kepulauan Balearic" languages="Malay">Kepulauan Balearic</name>
+		<name normalized="Kepulauan Balears" languages="Indonesian">Kepulauan Balears</name>
+		<name normalized="Na h-Eileanan Balearach" languages="Scottish Gaelic">Na h-Eileanan Balèarach</name>
+		<name normalized="Na hOileain Bhailearacha" languages="Irish">Na hOileáin Bhailéaracha</name>
+		<name normalized="Ny h-Ellanyn Balearagh" languages="Manx">Ny h-Ellanyn Balearagh</name>
+		<name normalized="Quan dao Baleares" languages="Vietnamese">Quần đảo Baleares</name>
+		<name normalized="Ynysoedd Balearig" languages="Welsh">Ynysoedd Balearig</name>
+		<name normalized="Ynysow Balearek" languages="Cornish">Ynysow Balearek</name>
+		<name normalized="Zile Baleares" languages="Haitian">Zile Baleares</name>
+		<name normalized="Isole Balear" languages="Piedmontese">Ìsole Balear</name>
+		<name normalized="Isuli Baliari" languages="Sicilian">Ìsuli Baliari</name>
+		<name normalized="Iles Baleares" languages="French">Îles Baléares</name>
+		<name normalized="Βαλεαριδες Νησοι" languages="Greek">Βαλεαρίδες Νήσοι</name>
+		<name normalized="Baлiaр aйрымkaнлa" languages="Karachay-Balkar">Балеар айрымканла</name>
+		<name normalized="Baлiaр aрaлdaры" languages="Kazakh">Балеар аралдары</name>
+		<name normalized="Baлiaр kы tӀыgukeр" languages="Kabardian">Балеар хы тӀыгухэр</name>
+		<name normalized="Baлiaрсka oсtрva" languages="Serbian">Балеарска острва</name>
+		<name normalized="Baлiaрсki oсtрovi" languages="Bulgarian;Macedonian">Балеарски острови</name>
+		<name normalized="Baлiaрсkii oсtрova" languages="Russian">Балеарские острова</name>
+		<name normalized="Baлiaрсkii aсtрavы" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Балеарскія астравы</name>
+		<name normalized="Baлiaрсьki oсtрovi" languages="Ukrainian">Балеарські острови</name>
+		<name normalized="Baлiaры сakъadaektae" languages="Ossetic">Балеары сакъадæхтæ</name>
+		<name normalized="Baлiaрын aрлuud" languages="Mongolian">Балеарын арлууд</name>
+		<name normalized="Bաlեաrյան kղzինեr" languages="Armenian">Բալեարյան կղզիներ</name>
+		<name normalized="bאדעאrישע איnזדען" languages="Yiddish">באלעארישע אינזלען</name>
+		<name normalized="hאיים hbדאrיים" languages="Hebrew">האיים הבלאריים</name>
+		<name normalized="bیلאrک jزیrے" languages="Western Punjabi">بیلارک جزیرے</name>
+		<name normalized="jزאئr bلیbאr" languages="Urdu">جزائر بلیبار</name>
+		<name normalized="jزאیr bאلئאrی" languages="Persian">جزایر بالئاری</name>
+		<name normalized="jزr אلbلyאr" languages="Egyptian Spoken Arabic">جزر البليار</name>
+		<name normalized="mنtqة jزr אلbلyאr" languages="Arabic">منطقة جزر البليار</name>
+		<name normalized="bाlearik d्vipsmuh" languages="Marathi">बालेआरिक द्वीपसमूह</name>
+		<name normalized="பலேரிக் தீவுகள்" languages="Tamil">பலேரிக் தீவுகள்</name>
+		<name normalized="หมู่เกาะแบลีแอริก" languages="Thai">หมู่เกาะแบลีแอริก</name>
+		<name normalized="ბალეარის კუნძულები" languages="Georgian">ბალეარის კუნძულები</name>
+		<name normalized="ბალეარიშ კოკეფი" languages="Mingrelian">ბალეარიშ კოკეფი</name>
+		<name normalized="brars諸島" languages="Japanese">バレアレス諸島</name>
+		<name normalized="巴利阿里群島" languages="Chinese">巴利阿里群島</name>
+		<name normalized="발레아레스 제도" languages="Korean">발레아레스 제도</name>
+	</region>
+	<region name="La Rioja" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="A Riocha" languages="Aragonese">A Riocha</name>
+		<name normalized="A Rioxa" languages="Galician">A Rioxa</name>
+		<name normalized="Errioxako Autonomia Erkidegoa" languages="Basque">Errioxako Autonomia Erkidegoa</name>
+		<name normalized="La Riocha" languages="Lithuanian">La Riocha</name>
+		<name normalized="La Rioga" languages="Western Frisian">La Rioga</name>
+		<name normalized="La Rioja" languages="Breton;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Estonian;Extremaduran;Finnish;Franco-Provencal;French;German;Haitian;Hungarian;Icelandic;Indonesian;Irish;Italian;Javanese;Malay;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Pampanga;Piedmontese;Polish;Portuguese;Quechua;Romanian;Scots;Scottish Gaelic;Seeltersk;Sicilian;Simple English;Spanish;Swahili;Swedish;Tagalog;tarandine;Turkish;Vietnamese;Waray;Welsh">La Rioja</name>
+		<name normalized="La Rioxa" languages="Asturian">La Rioxa</name>
+		<name normalized="Larjoha" languages="Latvian">Larjoha</name>
+		<name normalized="Provinco Rioho" languages="Esperanto">Provinco Rioĥo</name>
+		<name normalized="Rioiia" languages="Latin">Rioiia</name>
+		<name normalized="Rioja" languages="Tetum">Rioja</name>
+		<name normalized="Rioxa" languages="Azerbaijani">Rioxa</name>
+		<name normalized="Λα Ριοχα" languages="Greek">Λα Ριόχα</name>
+		<name normalized="Лa Рioka" languages="Bulgarian">Ла Риоха</name>
+		<name normalized="Лa-Рioka" languages="Ukrainian">Ла-Ріоха</name>
+		<name normalized="Рiokae" languages="Ossetic">Риохæ</name>
+		<name normalized="Рioka" languages="Kazakh;Macedonian;Russian;Serbian">Риоха</name>
+		<name normalized="Рыёka" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Рыёха</name>
+		<name normalized="דh rיvhh" languages="Hebrew">לה ריוחה</name>
+		<name normalized="لא ryوخא" languages="Egyptian Spoken Arabic">لا ريوخا</name>
+		<name normalized="لא rیوخא" languages="Western Punjabi">لا ریوخا</name>
+		<name normalized="لאrیوخא" languages="Persian">لاریوخا</name>
+		<name normalized="mنtqة لא ryوخא" languages="Arabic">منطقة لا ريوخا</name>
+		<name normalized="lा riyohा" languages="Marathi">ला रियोहा</name>
+		<name normalized="แคว้นลารีโอคา" languages="Thai">แคว้นลารีโอคา</name>
+		<name normalized="ლა-რიოხა" languages="Georgian">ლა-რიოხა</name>
+		<name normalized="r・roh州" languages="Japanese">ラ・リオハ州</name>
+		<name normalized="拉里奥哈" languages="Chinese">拉里奥哈</name>
+		<name normalized="라리오하 지방" languages="Korean">라리오하 지방</name>
+	</region>
+	<region name="Madrid" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="Madrid" languages="Achinese;Afrikaans;Asturian;Aymara;Azerbaijani;Bikol Central;Bislama;Bosnian;Breton;Catalan;Cebuano;Chamorro;Chavacano de Zamboanga;Cheyenne;Chinese (Min Nan);Cornish;Crimean Turkish;Croatian;Czech;Danish;Deitsch;Dutch;Emiliano-Romagnolo;English;Estonian;Ewe;Faroese;Fiji Hindi;Finnish;Franco-Provencal;French;Friulian;Gagauz;Galician;German;Guarani;Haitian;Hakka;Hungarian;Icelandic;Ido;Iloko;Indonesian;Interlingua;Interlingue;Italian;Javanese;Kabyle;Kalaallisut;Kara-Kalpak;Ladino;Ligure;Limburgish;Low German;Lower Sorbian;lumbaart;Luxembourgish;Malagasy;Malay;Maltese;Manx;Maori;Nahuatl;Nauru;Northern Frisian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Old English;Pampanga;Papiamento;Piedmontese;Portuguese;Quechua;Romani;Romanian;Romansh;Rundi;Sardinian;Scots;Scottish Gaelic;Seeltersk;Serbo-Croatian;Shona;Sicilian;Simple English;Slovak;Slovenian;Southern Sotho;Spanish;Sranan Tongo;Swahili;Swedish;Tagalog;Tahitian;tarandine;Tatar;Tok Pisin;Tswana;Turkish;Turkmen;Upper Sorbian;Uyghur;Uzbek;Veps;Vietnamese;Volapuk;veneto;Voro;Waray;Welsh;Western Frisian;Wolof;Yoruba;Zazaki">Madrid</name>
+		<name normalized="Madridas" languages="Lithuanian">Madridas</name>
+		<name normalized="Madride" languages="Latvian">Madride</name>
+		<name normalized="Madridi" languages="Albanian;Corsican">Madridi</name>
+		<name normalized="Madrido" languages="Esperanto">Madrido</name>
+		<name normalized="Madrids" languages="Samogitian">Madrids</name>
+		<name normalized="Madril" languages="Basque">Madril</name>
+		<name normalized="Madrit" languages="Aragonese;Kashubian">Madrit</name>
+		<name normalized="Madryt" languages="Polish;Silesian">Madryt</name>
+		<name normalized="Madrid" languages="Tetum">Madríd</name>
+		<name normalized="Madrid" languages="Kurdish">Madrîd</name>
+		<name normalized="Maidrid" languages="Irish">Maidrid</name>
+		<name normalized="Mairil" languages="Extremaduran">Mairil</name>
+		<name normalized="Makelika" languages="Hawaiian">Makelika</name>
+		<name normalized="Matritum" languages="Latin">Matritum</name>
+		<name normalized="Medrid" languages="Low Saxon (Netherlands)">Medrid</name>
+		<name normalized="Μαδριτη" languages="Greek">Μαδρίτη</name>
+		<name normalized="Goрad Мadрыd" languages="Belarusian">Горад Мадрыд</name>
+		<name normalized="Мadрid" languages="Abkhazian">Мaдрид</name>
+		<name normalized="Мadрid" languages="Bashkir;Bulgarian;Chechen;Chuvash;Eastern Mari;Hill Mari;Kabardian;Kazakh;Komi;Komi-Permyak;Kyrgyz;Lezghian;Macedonian;Mongolian;Ossetic;Russian;Sakha;Serbian;Tajik;Udmurt;Ukrainian">Мадрид</name>
+		<name normalized="Мadрid os" languages="Erzya">Мадрид ош</name>
+		<name normalized="Мadрыd" languages="biлaрuсkai (taрaskivita)‎">Мадрыд</name>
+		<name normalized="Мadрid" languages="Rusyn">Мадрід</name>
+		<name normalized="Mաdrիd" languages="Armenian">Մադրիդ</name>
+		<name normalized="מאדrיד" languages="Yiddish">מאדריד</name>
+		<name normalized="מדrיד" languages="Hebrew">מדריד</name>
+		<name normalized="mאدrید" languages="Mazanderani;Persian">مادرید</name>
+		<name normalized="mدryد" languages="Arabic;Egyptian Spoken Arabic">مدريد</name>
+		<name normalized="mیدrد" languages="Urdu">میدرد</name>
+		<name normalized="mیڈrڈ" languages="Western Punjabi">میڈرڈ</name>
+		<name normalized="mەدrید" languages="Sorani Kurdish">مەدرید</name>
+		<name normalized="ܡܕܪܝܕ" languages="Aramaic">ܡܕܪܝܕ</name>
+		<name normalized="md्rid" languages="Hindi">मद्रिद</name>
+		<name normalized="md्rid्" languages="Sanskrit">मद्रिद्</name>
+		<name normalized="mाd्rid" languages="Marathi">माद्रिद</name>
+		<name normalized="mाd्ri" languages="Newari">माद्री</name>
+		<name normalized="mাd্rid" languages="Bengali">মাদ্রিদ</name>
+		<name normalized="mਾdrid" languages="Punjabi">ਮਾਦਰਿਦ</name>
+		<name normalized="ମାଡ୍ରିଦ" languages="Oriya">ମାଡ୍ରିଦ</name>
+		<name normalized="மத்ரித்" languages="Tamil">மத்ரித்</name>
+		<name normalized="ಮಡ್ರಿಡ್" languages="Kannada">ಮಡ್ರಿಡ್</name>
+		<name normalized="മാഡ്രിഡ്" languages="Malayalam">മാഡ്രിഡ്</name>
+		<name normalized="มาดริด" languages="Thai">มาดริด</name>
+		<name normalized="མ་ད་རིད།" languages="Tibetan">མ་ད་རིད།</name>
+		<name normalized="မဒရစ်မြို့" languages="Burmese">မဒရစ်မြို့</name>
+		<name normalized="მადრიდი" languages="Georgian;Mingrelian">მადრიდი</name>
+		<name normalized="ማድሪድ" languages="Amharic">ማድሪድ</name>
+		<name normalized="mdrーd" languages="Japanese">マドリード</name>
+		<name normalized="馬德里" languages="Cantonese">馬德里</name>
+		<name normalized="马德里" languages="Chinese">马德里</name>
+		<name normalized="마드리드" languages="Korean">마드리드</name>
+	</region>
+	<region name="Melilla" type="autonomous city" typeTranslated="autonomous city">
+		<name normalized="IMelilla" languages="Zulu">IMelilla</name>
+		<name normalized="Melilha" languages="Portuguese">Melilha</name>
+		<name normalized="Melilja" languages="Latvian;Lithuanian">Melilja</name>
+		<name normalized="Melilla" languages="Afrikaans;Alemannisch;Aragonese;Asturian;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Dutch;English;Estonian;Extremaduran;Finnish;French;Galician;German;Haitian;Hungarian;Icelandic;Ido;Indonesian;Interlingua;Irish;Italian;Javanese;Kurdish;Ligure;lumbaart;Luxembourgish;Malay;Nahuatl;Northern Frisian;Northern Sami;Northern Sotho;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Piedmontese;Polish;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Sicilian;Simple English;Slovak;Spanish;Swahili;Swedish;Tagalog;tarandine;Turkish;Vietnamese;veneto;Waray;Welsh;Yoruba;Zeeuws">Melilla</name>
+		<name normalized="Melilo" languages="Esperanto">Melilo</name>
+		<name normalized="Melilya" languages="Franco-Provencal">Melilya</name>
+		<name normalized="Meliya" languages="Ladino">Meliya</name>
+		<name normalized="Mlilt" languages="Kabyle">Mlilt</name>
+		<name normalized="Melilya" languages="Sundanese">Mélilya</name>
+		<name normalized="Rusadir" languages="Latin">Rusadir</name>
+		<name normalized="Μελιγια" languages="Greek">Μελίγια</name>
+		<name normalized="Goрad Мiлiльi" languages="Belarusian">Горад Мелілья</name>
+		<name normalized="Мiлiльi" languages="Kazakh;Ossetic;Russian">Мелилья</name>
+		<name normalized="Мiлiлi" languages="Bulgarian">Мелиля</name>
+		<name normalized="Мiлiлja" languages="Macedonian">Мелилја</name>
+		<name normalized="Мiлila" languages="Serbian">Мелиља</name>
+		<name normalized="Мiлiльi" languages="Ukrainian">Мелілья</name>
+		<name normalized="Мeлiльлi" languages="biлaрuсkai (taрaskivita)‎">Мэлільля</name>
+		<name normalized="Mեlիlյա" languages="Armenian">Մելիլյա</name>
+		<name normalized="מדייh" languages="Hebrew">מלייה</name>
+		<name normalized="mلyلyة" languages="Arabic">مليلية</name>
+		<name normalized="mلیلہ" languages="Urdu">ملیلہ</name>
+		<name normalized="mلیلیh" languages="Persian">ملیلیه</name>
+		<name normalized="myلyyא" languages="Egyptian Spoken Arabic">ميلييا</name>
+		<name normalized="meliyा" languages="Marathi">मेलिया</name>
+		<name normalized="மெலில்லா" languages="Tamil">மெலில்லா</name>
+		<name normalized="เมลียา" languages="Thai">เมลียา</name>
+		<name normalized="მელილია" languages="Georgian">მელილია</name>
+		<name normalized="mrry" languages="Japanese">メリリャ</name>
+		<name normalized="梅利利亚" languages="Chinese">梅利利亚</name>
+		<name normalized="멜리야" languages="Korean">멜리야</name>
+	</region>
+	<region name="Murcia" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="Murcia" languages="Aragonese;Asturian;Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;Galician;German;Hungarian;Icelandic;Ido;Indonesian;Italian;Javanese;Latin;lumbaart;Luxembourgish;Malay;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Pampanga;Piedmontese;Quechua;Romanian;Sicilian;Simple English;Spanish;Swedish;Turkish;Vietnamese;veneto;Waray">Murcia</name>
+		<name normalized="Murcie" languages="French">Murcie</name>
+		<name normalized="Murcio" languages="Esperanto">Murcio</name>
+		<name normalized="Murcja" languages="Polish">Murcja</name>
+		<name normalized="Mursia" languages="Ladino">Mursia</name>
+		<name normalized="Mursija" languages="Latvian;Lithuanian">Mursija</name>
+		<name normalized="Murseje" languages="Samogitian">Mursėjė</name>
+		<name normalized="Murtzia" languages="Basque">Murtzia</name>
+		<name normalized="Murcia" languages="Catalan;Extremaduran;Occitan;Portuguese">Múrcia</name>
+		<name normalized="Mursia" languages="Tetum">Múrsia</name>
+		<name normalized="Goрad Мuрсii" languages="Belarusian">Горад Мурсія</name>
+		<name normalized="Мuрсii" languages="Bulgarian;Kazakh;Russian">Мурсия</name>
+		<name normalized="Мuрсija" languages="Serbian">Мурсија</name>
+		<name normalized="Мuрсii" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Мурсія</name>
+		<name normalized="Mvyrsիա" languages="Armenian">Մուրսիա</name>
+		<name normalized="מvrסיh" languages="Hebrew">מורסיה</name>
+		<name normalized="mrسyh" languages="Arabic">مرسيه</name>
+		<name normalized="mrسیہ شہr" languages="Western Punjabi">مرسیہ شہر</name>
+		<name normalized="mوrسyא" languages="Egyptian Spoken Arabic">مورسيا</name>
+		<name normalized="mوrسیא" languages="Persian">مورسیا</name>
+		<name normalized="mur्siyा" languages="Marathi">मुर्सिया</name>
+		<name normalized="มูร์เซีย" languages="Thai">มูร์เซีย</name>
+		<name normalized="მურსია" languages="Georgian">მურსია</name>
+		<name normalized="mrsa" languages="Japanese">ムルシア</name>
+		<name normalized="穆尔西亚" languages="Chinese">穆尔西亚</name>
+		<name normalized="무르시아" languages="Korean">무르시아</name>
+	</region>
+	<region name="Nafarroa" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="Communaute forale de Navarre" languages="French">Communauté forale de Navarre</name>
+		<name normalized="Comunautat Forala de Navarra" languages="Occitan">Comunautat Forala de Navarra</name>
+		<name normalized="Comunotat forala de Navarra" languages="Franco-Provencal">Comunôtât forâla de Navarra</name>
+		<name normalized="Nafarroa" languages="Breton;English;official;Scottish Gaelic;Tagalog">Nafarroa</name>
+		<name normalized="Nafarroako Foru Erkidegoa" languages="Basque">Nafarroako Foru Erkidegoa</name>
+		<name normalized="Navara" languages="Bosnian;Croatian;Lithuanian;Piedmontese;veneto">Navara</name>
+		<name normalized="Navaro" languages="Esperanto">Navaro</name>
+		<name normalized="Navarra" languages="Aragonese;Asturian;Azerbaijani;Catalan;Cornish;Czech;Danish;Dutch;English;Estonian;Extremaduran;Finnish;Galician;German;Hungarian;Icelandic;Ido;Indonesian;Irish;Italian;Ladino;Latin;Latvian;Luxembourgish;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Portuguese;Romanian;Sardinian;Serbo-Croatian;Sicilian;Slovak;Spanish;Swedish;tarandine;Turkish;Vietnamese;Waray;Welsh;Western Frisian">Navarra</name>
+		<name normalized="Navarre" languages="English;Haitian;Malay;official;Pampanga;Scots;Simple English">Navarre</name>
+		<name normalized="Nawarra" languages="Polish;Quechua">Nawarra</name>
+		<name normalized="Ναβαρρα" languages="Greek">Ναβάρρα</name>
+		<name normalized="Нavaрa" languages="Belarusian;Bulgarian;Macedonian;Serbian;biлaрuсkai (taрaskivita)‎">Навара</name>
+		<name normalized="Нavaррae" languages="Ossetic">Наваррæ</name>
+		<name normalized="Нavaррa" languages="Kazakh;Russian;Ukrainian">Наварра</name>
+		<name normalized="Նավաrrա" languages="Armenian">Նավարրա</name>
+		<name normalized="nvvאrh" languages="Hebrew">נווארה</name>
+		<name normalized="mنtqة نאfאrא" languages="Arabic">منطقة نافارا</name>
+		<name normalized="نאbאrא" languages="Persian">نابارا</name>
+		<name normalized="نאfאrא" languages="Egyptian Spoken Arabic">نافارا</name>
+		<name normalized="نאوאrא" languages="Western Punjabi">ناوارا</name>
+		<name normalized="nाbाrा" languages="Marathi">नाबारा</name>
+		<name normalized="nाvाrा" languages="Hindi">नावारा</name>
+		<name normalized="แคว้นนาวาร์" languages="Thai">แคว้นนาวาร์</name>
+		<name normalized="ნავარა" languages="Georgian;Mingrelian">ნავარა</name>
+		<name normalized="nbr州" languages="Japanese">ナバラ州</name>
+		<name normalized="納瓦拉" languages="Chinese">納瓦拉</name>
+		<name normalized="나바라 지방" languages="Korean">나바라 지방</name>
+	</region>
+	<region name="Navarra" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="Communaute forale de Navarre" languages="French">Communauté forale de Navarre</name>
+		<name normalized="Comunautat Forala de Navarra" languages="Occitan">Comunautat Forala de Navarra</name>
+		<name normalized="Comunotat forala de Navarra" languages="Franco-Provencal">Comunôtât forâla de Navarra</name>
+		<name normalized="Nafarroa" languages="Breton;English;official;Scottish Gaelic;Tagalog">Nafarroa</name>
+		<name normalized="Nafarroako Foru Erkidegoa" languages="Basque">Nafarroako Foru Erkidegoa</name>
+		<name normalized="Navara" languages="Bosnian;Croatian;Lithuanian;Piedmontese;veneto">Navara</name>
+		<name normalized="Navaro" languages="Esperanto">Navaro</name>
+		<name normalized="Navarra" languages="Aragonese;Asturian;Azerbaijani;Catalan;Cornish;Czech;Danish;Dutch;English;Estonian;Extremaduran;Finnish;Galician;German;Hungarian;Icelandic;Ido;Indonesian;Irish;Italian;Ladino;Latin;Latvian;Luxembourgish;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Portuguese;Romanian;Sardinian;Serbo-Croatian;Sicilian;Slovak;Spanish;Swedish;tarandine;Turkish;Vietnamese;Waray;Welsh;Western Frisian">Navarra</name>
+		<name normalized="Navarre" languages="English;Haitian;Malay;official;Pampanga;Scots;Simple English">Navarre</name>
+		<name normalized="Nawarra" languages="Polish;Quechua">Nawarra</name>
+		<name normalized="Ναβαρρα" languages="Greek">Ναβάρρα</name>
+		<name normalized="Нavaрa" languages="Belarusian;Bulgarian;Macedonian;Serbian;biлaрuсkai (taрaskivita)‎">Навара</name>
+		<name normalized="Нavaррae" languages="Ossetic">Наваррæ</name>
+		<name normalized="Нavaррa" languages="Kazakh;Russian;Ukrainian">Наварра</name>
+		<name normalized="Նավաrrա" languages="Armenian">Նավարրա</name>
+		<name normalized="nvvאrh" languages="Hebrew">נווארה</name>
+		<name normalized="mنtqة نאfאrא" languages="Arabic">منطقة نافارا</name>
+		<name normalized="نאbאrא" languages="Persian">نابارا</name>
+		<name normalized="نאfאrא" languages="Egyptian Spoken Arabic">نافارا</name>
+		<name normalized="نאوאrא" languages="Western Punjabi">ناوارا</name>
+		<name normalized="nाbाrा" languages="Marathi">नाबारा</name>
+		<name normalized="nाvाrा" languages="Hindi">नावारा</name>
+		<name normalized="แคว้นนาวาร์" languages="Thai">แคว้นนาวาร์</name>
+		<name normalized="ნავარა" languages="Georgian;Mingrelian">ნავარა</name>
+		<name normalized="nbr州" languages="Japanese">ナバラ州</name>
+		<name normalized="納瓦拉" languages="Chinese">納瓦拉</name>
+		<name normalized="나바라 지방" languages="Korean">나바라 지방</name>
+	</region>
+	<region name="Pais Vasco" type="autonomous community" typeTranslated="comunidad autonoma">
+		<name normalized="Autonom Gemeinschaft Baskeland" languages="Luxembourgish">Autonom Gemeinschaft Baskeland</name>
+		<name normalized="Autonome Gemeinschaft Baskenland" languages="German">Autonome Gemeinschaft Baskenland</name>
+		<name normalized="Autonomni spolecenstvi Baskicko" languages="Czech">Autonomní společenství Baskicko</name>
+		<name normalized="Bask Bolgesi" languages="Turkish">Bask Bölgesi</name>
+		<name normalized="Baskaland" languages="Icelandic">Baskaland</name>
+		<name normalized="Baskelan" languages="Western Frisian">Baskelân</name>
+		<name normalized="Baskenland" languages="Dutch;Low German">Baskenland</name>
+		<name normalized="Baskenlun" languages="Northern Frisian">Baskenlun</name>
+		<name normalized="Baskerland" languages="Norwegian (bokmal)">Baskerland</name>
+		<name normalized="Baskerlandet" languages="Danish">Baskerlandet</name>
+		<name normalized="Baski autonoomne piirkond" languages="Estonian">Baski autonoomne piirkond</name>
+		<name normalized="Baskia" languages="Albanian;Ido">Baskia</name>
+		<name normalized="Baskicko" languages="Slovak">Baskicko</name>
+		<name normalized="Baskien" languages="Swedish">Baskien</name>
+		<name normalized="Baskija" languages="Croatian;Lithuanian;Slovenian">Baskija</name>
+		<name normalized="Baskimaa" languages="Finnish">Baskimaa</name>
+		<name normalized="Baskiska" languages="Upper Sorbian">Baskiska</name>
+		<name normalized="Basklar olkəsi" languages="Azerbaijani">Basklar ölkəsi</name>
+		<name normalized="Basku Zeme" languages="Latvian">Basku Zeme</name>
+		<name normalized="Basque Country" languages="English;official">Basque Country</name>
+		<name normalized="Basque Kintra" languages="Scots">Basque Kintra</name>
+		<name normalized="Baszkfold" languages="Hungarian">Baszkföld</name>
+		<name normalized="Bayang Basko" languages="Tagalog">Bayang Basko</name>
+		<name normalized="Comunautat Autonoma Basca" languages="Occitan">Comunautat Autonòma Basca</name>
+		<name normalized="Comunidade autonoma do Pais Basco" languages="Portuguese">Comunidade autónoma do País Basco</name>
+		<name normalized="Comunitat autonoma del Pais Basc" languages="Catalan">Comunitat autònoma del País Basc</name>
+		<name normalized="Comunita autonoma dei Paexi Baschi" languages="veneto">Comunità autonoma dei Paexi Baschi</name>
+		<name normalized="Comunotat otonoma basca" languages="Franco-Provencal">Comunôtât ôtonoma bâsca</name>
+		<name normalized="Cymuned Ymreolaethol Gwlad y Basg" languages="Welsh">Cymuned Ymreolaethol Gwlad y Basg</name>
+		<name normalized="Duthaich nam Basgach" languages="Scottish Gaelic">Dùthaich nam Basgach</name>
+		<name normalized="Euskadi" languages="Chinese (Min Nan);English;official">Euskadi</name>
+		<name normalized="Euskal Autonomia Erkidegoa" languages="Basque">Euskal Autonomia Erkidegoa</name>
+		<name normalized="Euska Autonoma Komunumo" languages="Esperanto">Eŭska Aŭtonoma Komunumo</name>
+		<name normalized="Herema Otonom a Baski" languages="Kurdish">Herêma Otonom a Baskî</name>
+		<name normalized="Kemmynieth Omrewlys Bask" languages="Cornish">Kemmynieth Omrewlys Bask</name>
+		<name normalized="Kraj Baskow" languages="Polish">Kraj Basków</name>
+		<name normalized="Kumuniezh Emren Euskadi" languages="Breton">Kumuniezh Emren Euskadi</name>
+		<name normalized="Negara Basque" languages="Malay">Negara Basque</name>
+		<name normalized="Outonome Gemeenskap van die Baskeland" languages="Afrikaans">Outonome Gemeenskap van die Baskeland</name>
+		<name normalized="Paesi Baschi" languages="Italian">Paesi Baschi</name>
+		<name normalized="Pais Basch" languages="Piedmontese">Pais Basch</name>
+		<name normalized="Pais Basko" languages="Ladino">Pais Basko</name>
+		<name normalized="Pais Vasco" languages="English;official">Pais Vasco</name>
+		<name normalized="Paisi Baschi" languages="Sicilian">Paisi Baschi</name>
+		<name normalized="Paisu Bascu" languages="Sardinian">Paisu Bascu</name>
+		<name normalized="Pajesere Basche" languages="tarandine">Pajèsere Basche</name>
+		<name normalized="Pays basque" languages="French">Pays basque</name>
+		<name normalized="Pais Vasco" languages="Aragonese;Galician;Indonesian;Javanese;Spanish;Waray">País Vasco</name>
+		<name normalized="Pais Vascu" languages="Asturian;Extremaduran">País Vascu</name>
+		<name normalized="Peyi basque" languages="Haitian">Peyi basque</name>
+		<name normalized="Regionen Baskarland" languages="Norwegian Nynorsk">Regionen Baskarland</name>
+		<name normalized="Tir na mBascach Theas" languages="Irish">Tír na mBascach Theas</name>
+		<name normalized="Vasconia" languages="Latin;Nahuatl">Vasconia</name>
+		<name normalized="Xu Basque" languages="Vietnamese">Xứ Basque</name>
+		<name normalized="Yn Cheer Vascagh" languages="Manx">Yn Çheer Vascagh</name>
+		<name normalized="Yuskadi" languages="Quechua">Yuskadi</name>
+		<name normalized="Țara Bascilor" languages="Romanian">Țara Bascilor</name>
+		<name normalized="Χωρα των Βασκων" languages="Greek">Χώρα των Βάσκων</name>
+		<name normalized="Baсk oрoн" languages="Mongolian">Баск орон</name>
+		<name normalized="Baсkaegtы Baeсtae" languages="Ossetic">Баскæгты Бæстæ</name>
+		<name normalized="Baсka avtoнoмнa obлaсt" languages="Bulgarian">Баска автономна област</name>
+		<name normalized="Baсkija" languages="Macedonian;Serbian">Баскија</name>
+		<name normalized="Baсkлaны dzuрtu" languages="Karachay-Balkar">Баскланы джурту</name>
+		<name normalized="Baсktaр iлi" languages="Kazakh">Басктар елі</name>
+		<name normalized="Baсktaр Өлkɵсү" languages="Kyrgyz">Басктар Өлкөсү</name>
+		<name normalized="Baсkkeм i Kъeрaл" languages="Kabardian">Баскхэм я Къэрал</name>
+		<name normalized="Kрaiнa Baсkaў" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Краіна Баскаў</name>
+		<name normalized="Kрayнa Baсkiv" languages="Ukrainian">Країна Басків</name>
+		<name normalized="Сtрaнa Baсkov" languages="Russian">Страна Басков</name>
+		<name normalized="Bաskեrի եrkիr" languages="Armenian">Բասկերի երկիր</name>
+		<name normalized="hbד hbסqים" languages="Hebrew">חבל הבסקים</name>
+		<name normalized="אqلym אلbאسk" languages="Egyptian Spoken Arabic">اقليم الباسك</name>
+		<name normalized="bאسک دیس" languages="Western Punjabi">باسک دیس</name>
+		<name normalized="bאسک mلک" languages="Urdu">باسک ملک</name>
+		<name normalized="سrزmین bאسک" languages="Persian">سرزمین باسک</name>
+		<name normalized="mنtqة إqلym אلbאسk" languages="Arabic">منطقة إقليم الباسك</name>
+		<name normalized="ھەrێmی bאسک" languages="Sorani Kurdish">ھەرێمی باسک</name>
+		<name normalized="pाij bाs्ko" languages="Marathi">पाईज बास्को</name>
+		<name normalized="bाs्k p्rdes" languages="Hindi">बास्क प्रदेश</name>
+		<name normalized="แคว้นบาสก์" languages="Thai">แคว้นบาสก์</name>
+		<name normalized="ბასკეთი" languages="Georgian;Mingrelian">ბასკეთი</name>
+		<name normalized="bsk自治州" languages="Japanese">バスク自治州</name>
+		<name normalized="巴斯克自治區" languages="Cantonese;Chinese">巴斯克自治區</name>
+		<name normalized="바스크 지방" languages="Korean">바스크 지방</name>
+	</region>
+</regions>

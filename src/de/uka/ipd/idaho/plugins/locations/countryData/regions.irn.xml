@@ -1,0 +1,1618 @@
+<regions country="Iran">
+	<region name="Alborz" type="province" typeTranslated="ostan">
+		<name normalized="Alborz" languages="Croatian;Czech;Danish;Dutch;English;Estonian;German;Hungarian;Indonesian;official;Portuguese;Serbo-Croatian;Swedish;Vietnamese;Waray;Welsh">Alborz</name>
+		<name normalized="Alborz Mountains" languages="Simple English">Alborz Mountains</name>
+		<name normalized="Alborz Ostan" languages="English;official">Alborz Ostan</name>
+		<name normalized="Alborz Province" languages="English;official;Scots">Alborz Province</name>
+		<name normalized="Alborz tartomany" languages="Hungarian">Alborz tartomány</name>
+		<name normalized="Alborzi provints" languages="Estonian">Alborzi provints</name>
+		<name normalized="Alborska pokrajina" languages="Croatian;Serbo-Croatian">Alborška pokrajina</name>
+		<name normalized="Cordilheira Elbruz" languages="Portuguese">Cordilheira Elbruz</name>
+		<name normalized="Elboers" languages="Dutch">Elboers</name>
+		<name normalized="Elborz-Montaro" languages="Esperanto">Elborz-Montaro</name>
+		<name normalized="Elbourz" languages="French">Elbourz</name>
+		<name normalized="Elburs" languages="Finnish;Polish;Uzbek;Voro">Elburs</name>
+		<name normalized="Elburs-Gebirge" languages="German">Elburs-Gebirge</name>
+		<name normalized="Elburso kalnai" languages="Lithuanian">Elburso kalnai</name>
+		<name normalized="Elburz" languages="Basque;Catalan;Cebuano;Italian;Norwegian Nynorsk;Swedish">Elburz</name>
+		<name normalized="Elburz Dagları" languages="Turkish">Elburz Dağları</name>
+		<name normalized="Elburz Eyaleti" languages="Turkish">Elburz Eyaleti</name>
+		<name normalized="Elburzfjellene" languages="Norwegian (bokmal)">Elburzfjellene</name>
+		<name normalized="Elburs-berchtme" languages="Western Frisian">Elbûrs-berchtme</name>
+		<name normalized="Montes Elburz" languages="Spanish">Montes Elburz</name>
+		<name normalized="Monts Alborz" languages="Occitan">Monts Alborz</name>
+		<name normalized="Province d'Alborz" languages="French">Province d'Alborz</name>
+		<name normalized="Provincia de Elburz" languages="Spanish">Provincia de Elburz</name>
+		<name normalized="Regione di Alborz" languages="Italian">Regione di Alborz</name>
+		<name normalized="Alborz" languages="Finnish">Ālborz</name>
+		<name normalized="Əlburz dagları" languages="Azerbaijani">Əlburz dağları</name>
+		<name normalized="Əlburz ostanı" languages="Azerbaijani">Əlburz ostanı</name>
+		<name normalized="Aлboрz" languages="Bulgarian;Macedonian">Алборз</name>
+		<name normalized="Aльboрz" languages="Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Альборз</name>
+		<name normalized="Aльboрz мuz" languages="Mongolian">Альборз муж</name>
+		<name normalized="Iльbuрс" languages="Ukrainian">Ельбурс</name>
+		<name normalized="Kuhhoi Aлbuрz" languages="Tajik">Кӯҳҳои Албурз</name>
+		<name normalized="Eльbuрс" languages="Belarusian;Kazakh;Russian">Эльбурс</name>
+		<name normalized="אדbvrז" languages="Hebrew">אלבורז</name>
+		<name normalized="מhvז אדbvrז" languages="Hebrew">מחוז אלבורז</name>
+		<name normalized="ألbrز" languages="Arabic">ألبرز</name>
+		<name normalized="ئەلbوrز" languages="Sorani Kurdish">ئەلبورز</name>
+		<name normalized="אسtאن אلbrز" languages="Persian">استان البرز</name>
+		<name normalized="אلbrز" languages="Mazanderani;Persian;Western Punjabi">البرز</name>
+		<name normalized="jbאل ألbrز" languages="Arabic">جبال ألبرز</name>
+		<name normalized="sوbہ אلbrز" languages="Urdu;Western Punjabi">صوبہ البرز</name>
+		<name normalized="pאrێزgאی ئەلbوrز" languages="Sorani Kurdish">پارێزگای ئەلبورز</name>
+		<name normalized="al्bor्j़ p्rांt" languages="Hindi">अल्बोर्ज़ प्रांत</name>
+		<name normalized="albur্‌j" languages="Bengali">আলবুর্‌জ</name>
+		<name normalized="arbrz山脈" languages="Japanese">アルボルズ山脈</name>
+		<name normalized="arbrz州" languages="Japanese">アルボルズ州</name>
+		<name normalized="厄尔布尔士山脉" languages="Chinese">厄尔布尔士山脉</name>
+		<name normalized="厄尔布尔士省" languages="Chinese">厄尔布尔士省</name>
+		<name normalized="알보르즈 주" languages="Korean">알보르즈 주</name>
+		<name normalized="엘부르즈 산맥" languages="Korean">엘부르즈 산맥</name>
+	</region>
+	<region name="Ardabil" type="province" typeTranslated="ostan">
+		<name normalized="Ardabil" languages="Basque;Catalan;Cebuano;Croatian;Danish;English;French;German;Indonesian;Italian;Malagasy;Malay;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Swedish;Vietnamese;Waray">Ardabil</name>
+		<name normalized="Ardabil Ostan" languages="English;official">Ardabil Ostan</name>
+		<name normalized="Ardabil Province" languages="English;official;Scots;Simple English">Ardabil Province</name>
+		<name normalized="Ardabil tartomany" languages="Hungarian">Ardabil tartomány</name>
+		<name normalized="Ardabilska pokrajina" languages="Croatian;Serbo-Croatian">Ardabilska pokrajina</name>
+		<name normalized="Ardabil" languages="Czech">Ardabíl</name>
+		<name normalized="Ardabil" languages="Estonian;Finnish">Ardabīl</name>
+		<name normalized="Ardabila" languages="Latvian">Ardabīla</name>
+		<name normalized="Ardabili provints" languages="Estonian">Ardabīli provints</name>
+		<name normalized="Ardebil" languages="Dutch;Spanish">Ardebil</name>
+		<name normalized="Ardebilio provincija" languages="Lithuanian">Ardebilio provincija</name>
+		<name normalized="Ardebilis" languages="Lithuanian">Ardebilis</name>
+		<name normalized="Dakbayan sa Ardabil" languages="Cebuano">Dakbayan sa Ardabil</name>
+		<name normalized="Erdebil" languages="Turkish;Zazaki">Erdebil</name>
+		<name normalized="Erdebil Eyaleti" languages="Turkish">Erdebil Eyaleti</name>
+		<name normalized="Erdebil" languages="Kurdish">Erdebîl</name>
+		<name normalized="Lalawigan ng Ardabil" languages="Tagalog">Lalawigan ng Ardabil</name>
+		<name normalized="Province d'Ardabil" languages="French">Province d'Ardabil</name>
+		<name normalized="Provincia Ardabil" languages="Romanian">Provincia Ardabil</name>
+		<name normalized="Provincia de Ardebil" languages="Spanish">Provincia de Ardebil</name>
+		<name normalized="Provinco Ardabil" languages="Esperanto">Provinco Ardabil</name>
+		<name normalized="Provinsi Ardabil" languages="Indonesian">Provinsi Ardabil</name>
+		<name normalized="Provincia de Ardabil" languages="Portuguese">Província de Ardabil</name>
+		<name normalized="Regione di Ardabil" languages="Italian">Regione di Ardabil</name>
+		<name normalized="Ərdəbil" languages="Azerbaijani">Ərdəbil</name>
+		<name normalized="Ərdəbil ostanı" languages="Azerbaijani">Ərdəbil ostanı</name>
+		<name normalized="Αρνταμπιλ" languages="Greek">Αρνταμπίλ</name>
+		<name normalized="Aрdabiл" languages="Tajik">Ардабел</name>
+		<name normalized="Aрdabiл" languages="Bulgarian;Macedonian;Serbian">Ардабил</name>
+		<name normalized="Aрdabiль" languages="biлaрuсkai (taрaskivita)‎">Ардабіль</name>
+		<name normalized="Aрdibiль" languages="Ossetic;Russian">Ардебиль</name>
+		<name normalized="Aрdibiль мuz" languages="Mongolian">Ардебиль муж</name>
+		<name normalized="Aрdibiль" languages="Ukrainian">Ардебіль</name>
+		<name normalized="Goрad Aрdebiль" languages="Belarusian">Горад Ардэбіль</name>
+		<name normalized="Pokрajiнa Aрdabiл" languages="Serbian">Покрајина Ардабил</name>
+		<name normalized="Uсtoнi Aрdabiл" languages="Tajik">Устони Ардабел</name>
+		<name normalized="Աrdաbիl" languages="Armenian">Արդաբիլ</name>
+		<name normalized="Աrdեbիl" languages="Armenian">Արդեբիլ</name>
+		<name normalized="אrדbיד" languages="Hebrew">ארדביל</name>
+		<name normalized="מhvז אrדbיד" languages="Hebrew">מחוז ארדביל</name>
+		<name normalized="أrدbyل" languages="Arabic">أردبيل</name>
+		<name normalized="אrدbyل" languages="Egyptian Spoken Arabic">اردبيل</name>
+		<name normalized="אrدbیل" languages="Gilaki;Persian;Urdu;Western Punjabi">اردبیل</name>
+		<name normalized="אسtאن אrدbیل" languages="Persian">استان اردبیل</name>
+		<name normalized="sوbہ אrدbیل" languages="Urdu;Western Punjabi">صوبہ اردبیل</name>
+		<name normalized="pאrێزgאی ئەrدەوێڵ" languages="Sorani Kurdish">پارێزگای ئەردەوێڵ</name>
+		<name normalized="ar्dbil p्rांt" languages="Hindi">अर्दबील प्रांत</name>
+		<name normalized="ar्dाbil p्rांt" languages="Marathi">अर्दाबिल प्रांत</name>
+		<name normalized="ar्dbil" languages="Hindi">आर्दबील</name>
+		<name normalized="ar্dাbil p্rdes" languages="Bengali">আর্দাবিল প্রদেশ</name>
+		<name normalized="არდებილი" languages="Georgian">არდებილი</name>
+		<name normalized="არდებილის ოსტანი" languages="Georgian">არდებილის ოსტანი</name>
+		<name normalized="ardbーr" languages="Japanese">アルダビール</name>
+		<name normalized="ardbーr州" languages="Japanese">アルダビール州</name>
+		<name normalized="阿尔达比勒" languages="Chinese">阿尔达比勒</name>
+		<name normalized="阿爾達比勒省" languages="Chinese">阿爾達比勒省</name>
+		<name normalized="아르다빌" languages="Korean">아르다빌</name>
+		<name normalized="아르다빌 주" languages="Korean">아르다빌 주</name>
+	</region>
+	<region name="Azarbayjan-e Gharbi" type="province" typeTranslated="ostan">
+		<name normalized="An Asarbaiseain" languages="Irish">An Asarbaiseáin</name>
+		<name normalized="Aserbaidschan" languages="German">Aserbaidschan</name>
+		<name normalized="Aserbaidzaan" languages="Estonian">Aserbaidžaan</name>
+		<name normalized="Azarbaijan Barat" languages="Malay">Azarbaijan Barat</name>
+		<name normalized="Azarbajdzan" languages="Croatian;Serbo-Croatian">Azarbajdžan</name>
+		<name normalized="Azarbayjan-e Gharbi" languages="English;official">Azarbayjan-e Gharbi</name>
+		<name normalized="Azarbayjan-e Gharbi Ostan" languages="English;official">Azarbayjan-e Gharbi Ostan</name>
+		<name normalized="Azarbayjan-e Gharbi Province" languages="English;official">Azarbayjan-e Gharbi Province</name>
+		<name normalized="Azerbaidjan" languages="Romanian">Azerbaidjan</name>
+		<name normalized="Azerbaidjan Irania" languages="Catalan">Azerbaidjan Iranià</name>
+		<name normalized="Azerbaidzan" languages="Finnish">Azerbaidžan</name>
+		<name normalized="Azerbaigian persiano" languages="Italian">Azerbaigian persiano</name>
+		<name normalized="Azerbaijan" languages="English;Indonesian;official">Azerbaijan</name>
+		<name normalized="Azerbaijan Ostan" languages="English;official">Azerbaijan Ostan</name>
+		<name normalized="Azerbaijan Province" languages="English;official">Azerbaijan Province</name>
+		<name normalized="Azerbaijao" languages="Portuguese">Azerbaijão</name>
+		<name normalized="Azerbaijao Ocidental" languages="Portuguese">Azerbaijão Ocidental</name>
+		<name normalized="Azerbaiyan irani" languages="Spanish">Azerbaiyán iraní</name>
+		<name normalized="Azerbaiyan Occidental" languages="Spanish">Azerbaiyán Occidental</name>
+		<name normalized="Azerbajgano" languages="Esperanto">Azerbajĝano</name>
+		<name normalized="Azerbaycan" languages="Turkish">Azerbaycan</name>
+		<name normalized="Azerbaycana Rojava" languages="Kurdish">Azerbaycana Rojava</name>
+		<name normalized="Azerbaycane Rocawani" languages="Zazaki">Azerbaycanê Rocawani</name>
+		<name normalized="Azerbaidjan iranien" languages="French">Azerbaïdjan iranien</name>
+		<name normalized="Azerbaidjan occidental" languages="French">Azerbaïdjan occidental</name>
+		<name normalized="Azerbeidzjan" languages="Dutch">Azerbeidzjan</name>
+		<name normalized="Azerbejdzan Iranski" languages="Polish">Azerbejdżan Irański</name>
+		<name normalized="Azerbejdzan Zachodni" languages="Polish">Azerbejdżan Zachodni</name>
+		<name normalized="Batı Azerbaycan Eyaleti" languages="Turkish">Batı Azerbaycan Eyaleti</name>
+		<name normalized="Cənubi Azərbaycan" languages="Azerbaijani">Cənubi Azərbaycan</name>
+		<name normalized="Guney Azerbaycan" languages="Gagauz">Güney Azerbaycan</name>
+		<name normalized="Irano Azerbaidzanas" languages="Lithuanian">Irano Azerbaidžanas</name>
+		<name normalized="Iranska Azarbaijan" languages="Swedish">Iranska Azarbaijan</name>
+		<name normalized="Kanlurang Aserbayan" languages="Tagalog">Kanlurang Aserbayan</name>
+		<name normalized="Kasadpang Aserbayan" languages="Cebuano">Kasadpang Aserbayan</name>
+		<name normalized="Katundan nga Azarbaijan" languages="Waray">Katundan nga Azarbaijan</name>
+		<name normalized="Laane-Aserbaidzaan" languages="Estonian">Lääne-Aserbaidžaan</name>
+		<name normalized="Mendebaldeko Azerbaijan" languages="Basque">Mendebaldeko Azerbaijan</name>
+		<name normalized="Nyugat-Azerbajdzsan tartomany" languages="Hungarian">Nyugat-Azerbajdzsán tartomány</name>
+		<name normalized="Okcidenta Azerbajgano" languages="Esperanto">Okcidenta Azerbajĝano</name>
+		<name normalized="Provincia Azerbaidjanul de Vest" languages="Romanian">Provincia Azerbaidjanul de Vest</name>
+		<name normalized="Provinsi Azarbaijan Barat" languages="Indonesian">Provinsi Azarbaijan Barat</name>
+		<name normalized="Qərbi Azərbaycan ostanı" languages="Azerbaijani">Qərbi Azərbaycan ostanı</name>
+		<name normalized="Regione dell'Azarbaijan occidentale" languages="Italian">Regione dell'Azarbaijan occidentale</name>
+		<name normalized="Rietumazerbaidzana" languages="Latvian">Rietumazerbaidžāna</name>
+		<name normalized="Tay Azerbaijan" languages="Vietnamese">Tây Azerbaijan</name>
+		<name normalized="Vakaru Azerbaidzano provincija" languages="Lithuanian">Vakarų Azerbaidžano provincija</name>
+		<name normalized="Vest-Aserbajdsjan" languages="Danish;Norwegian (bokmal)">Vest-Aserbajdsjan</name>
+		<name normalized="Vastazarbaijan" languages="Swedish">Västazarbaijan</name>
+		<name normalized="Wast Azerbaijan Province" languages="Scots">Wast Azerbaijan Province</name>
+		<name normalized="West Azarbaijan Province" languages="Simple English">West Azarbaijan Province</name>
+		<name normalized="West Azerbaijan" languages="English;official">West Azerbaijan</name>
+		<name normalized="West Azerbaijan Ostan" languages="English;official">West Azerbaijan Ostan</name>
+		<name normalized="West Azerbaijan Province" languages="English;official">West Azerbaijan Province</name>
+		<name normalized="West-Aserbaidschan" languages="German">West-Aserbaidschan</name>
+		<name normalized="West-Azerbeidzjan" languages="Dutch">West-Azerbeidzjan</name>
+		<name normalized="Zapadni Azarbajdzan" languages="Croatian;Serbo-Croatian">Zapadni Azarbajdžan</name>
+		<name normalized="Zapadni Azerbajdzan" languages="Czech">Západní Ázerbájdžán</name>
+		<name normalized="Azarbayjan-e Gharbi" languages="Finnish">Āzārbāyjān-e Gharbī</name>
+		<name normalized="Zapadiн Aziрbiйdzaн" languages="Bulgarian">Западен Азербейджан</name>
+		<name normalized="Zapadiн Aziрbijdzaн" languages="Macedonian">Западен Азербејџан</name>
+		<name normalized="Zapadный Aziрbaйdzaн" languages="Russian">Западный Азербайджан</name>
+		<name normalized="Zakodнi Azeрbaйdzaн" languages="biлaрuсkai (taрaskivita)‎">Заходні Азэрбайджан</name>
+		<name normalized="Zakidнiй Aziрbaйdzaн" languages="Ukrainian">Західний Азербайджан</name>
+		<name normalized="Iрaнсkiй Aziрbaйdzaн" languages="Russian">Иранский Азербайджан</name>
+		<name normalized="Pokрajiнa Zapadнi Aziрbijdzaн" languages="Serbian">Покрајина Западни Азербејџан</name>
+		<name normalized="Uсtoнi Ozaрboйcoнi ғaрbi" languages="Tajik">Устони Озарбойчони ғарбӣ</name>
+		<name normalized="Iрaнсьkiй Aziрbaйdzaн" languages="Ukrainian">Іранський Азербайджан</name>
+		<name normalized="Աdrbեjան" languages="Armenian">Ադրբեջան</name>
+		<name normalized="Աrևmtյան Աdrbեjան" languages="Armenian">Արևմտյան Ադրբեջան</name>
+		<name normalized="מhvז מעrb אזrbייג'ן" languages="Hebrew">מחוז מערב אזרבייג'ן</name>
+		<name normalized="آذrbאئیjאن" languages="Urdu">آذربائیجان</name>
+		<name normalized="آذrbאیjאن" languages="Persian">آذربایجان</name>
+		<name normalized="أذrbyjאن אلغrbyة" languages="Arabic">أذربيجان الغربية</name>
+		<name normalized="ئىrאن ئەزەrbەyjאن" languages="Uyghur">ئىران ئەزەربەيجان</name>
+		<name normalized="אزrbyjאن אلغrbyh" languages="Egyptian Spoken Arabic">ازربيجان الغربيه</name>
+		<name normalized="אسtאن آذrbאیjאن غrbی" languages="Persian">استان آذربایجان غربی</name>
+		<name normalized="sوbہ آذrbאئیjאن غrbی" languages="Urdu">صوبہ آذربائیجان غربی</name>
+		<name normalized="sوbہ لیندא آزrbאئ jאن" languages="Western Punjabi">صوبہ لیندا آزربائ جان</name>
+		<name normalized="pאrێزgאی ئאزەrbאیjאنی ڕۆjאوא" languages="Sorani Kurdish">پارێزگای ئازەربایجانی ڕۆژاوا</name>
+		<name normalized="gونئی آزrbאیjאن" languages="Mazanderani">گونئی آزربایجان</name>
+		<name normalized="ps्cim aj़rbajाn p्rांt" languages="Hindi">पश्चिम अज़रबैजान प्रांत</name>
+		<name normalized="ps्cim ajrbajाn p्rांt" languages="Marathi">पश्चिम अझरबैजान प्रांत</name>
+		<name normalized="ps্cim ajাrbাijাn p্rdes" languages="Bengali">পশ্চিম আজারবাইজান প্রদেশ</name>
+		<name normalized="อาเซอร์ไบจาน" languages="Thai">อาเซอร์ไบจาน</name>
+		<name normalized="დასავლეთი აზერბაიჯანის ოსტანი" languages="Georgian">დასავლეთი აზერბაიჯანის ოსტანი</name>
+		<name normalized="aーzrbーizyーn" languages="Japanese">アーザルバーイジャーン</name>
+		<name normalized="伊朗阿塞拜疆" languages="Chinese">伊朗阿塞拜疆</name>
+		<name normalized="西aーzrbーizyーn州" languages="Japanese">西アーザルバーイジャーン州</name>
+		<name normalized="西亞塞拜然省" languages="Chinese">西亞塞拜然省</name>
+		<name normalized="아자르바이잔에가르비 주" languages="Korean">아자르바이잔에가르비 주</name>
+		<name normalized="이란령 아제르바이잔" languages="Korean">이란령 아제르바이잔</name>
+	</region>
+	<region name="Azarbayjan-e Sharqi" type="province" typeTranslated="ostan">
+		<name normalized="An Asarbaiseain" languages="Irish">An Asarbaiseáin</name>
+		<name normalized="Aserbaidschan" languages="German">Aserbaidschan</name>
+		<name normalized="Aserbaidzaan" languages="Estonian">Aserbaidžaan</name>
+		<name normalized="Austrumazerbaidzana" languages="Latvian">Austrumazerbaidžāna</name>
+		<name normalized="Azarbaijan Timur" languages="Malay">Azarbaijan Timur</name>
+		<name normalized="Azarbajdzan" languages="Croatian;Serbo-Croatian">Azarbajdžan</name>
+		<name normalized="Azarbayjan-e Sharqi" languages="English;official">Azarbayjan-e Sharqi</name>
+		<name normalized="Azarbayjan-e Sharqi Ostan" languages="English;official">Azarbayjan-e Sharqi Ostan</name>
+		<name normalized="Azarbayjan-e Sharqi Province" languages="English;official">Azarbayjan-e Sharqi Province</name>
+		<name normalized="Azerbaidjan" languages="Romanian">Azerbaidjan</name>
+		<name normalized="Azerbaidjan Irania" languages="Catalan">Azerbaidjan Iranià</name>
+		<name normalized="Azerbaidjan Oriental" languages="Catalan">Azerbaidjan Oriental</name>
+		<name normalized="Azerbaidzan" languages="Finnish">Azerbaidžan</name>
+		<name normalized="Azerbaigian persiano" languages="Italian">Azerbaigian persiano</name>
+		<name normalized="Azerbaijan" languages="English;Indonesian;official">Azerbaijan</name>
+		<name normalized="Azerbaijan Ostan" languages="English;official">Azerbaijan Ostan</name>
+		<name normalized="Azerbaijan Province" languages="English;official">Azerbaijan Province</name>
+		<name normalized="Azerbaijao" languages="Portuguese">Azerbaijão</name>
+		<name normalized="Azerbaijao Oriental" languages="Portuguese">Azerbaijão Oriental</name>
+		<name normalized="Azerbaiyan irani" languages="Spanish">Azerbaiyán iraní</name>
+		<name normalized="Azerbaiyan Oriental" languages="Spanish">Azerbaiyán Oriental</name>
+		<name normalized="Azerbajgano" languages="Esperanto">Azerbajĝano</name>
+		<name normalized="Azerbaycan" languages="Turkish">Azerbaycan</name>
+		<name normalized="Azerbaycana Rojhilat" languages="Kurdish">Azerbaycana Rojhilat</name>
+		<name normalized="Azerbaycane Rocvetısi" languages="Zazaki">Azerbaycanê Rocvetışi</name>
+		<name normalized="Azerbaidjan iranien" languages="French">Azerbaïdjan iranien</name>
+		<name normalized="Azerbaidjan oriental" languages="French">Azerbaïdjan oriental</name>
+		<name normalized="Azerbeidzjan" languages="Dutch">Azerbeidzjan</name>
+		<name normalized="Azerbejdzan Iranski" languages="Polish">Azerbejdżan Irański</name>
+		<name normalized="Azerbejdzan Wschodni" languages="Polish">Azerbejdżan Wschodni</name>
+		<name normalized="Cənubi Azərbaycan" languages="Azerbaijani">Cənubi Azərbaycan</name>
+		<name normalized="Dogu Azerbaycan Eyaleti" languages="Turkish">Doğu Azerbaycan Eyaleti</name>
+		<name normalized="East Azarbaijan Province" languages="Simple English">East Azarbaijan Province</name>
+		<name normalized="East Azerbaijan" languages="English;official">East Azerbaijan</name>
+		<name normalized="East Azerbaijan Ostan" languages="English;official">East Azerbaijan Ostan</name>
+		<name normalized="East Azerbaijan Province" languages="English;official;Scots">East Azerbaijan Province</name>
+		<name normalized="Guney Azerbaycan" languages="Gagauz">Güney Azerbaycan</name>
+		<name normalized="Ida-Aserbaidzaan" languages="Estonian">Ida-Aserbaidžaan</name>
+		<name normalized="Irano Azerbaidzanas" languages="Lithuanian">Irano Azerbaidžanas</name>
+		<name normalized="Iranska Azarbaijan" languages="Swedish">Iranska Azarbaijan</name>
+		<name normalized="Istocni Azarbajdzan" languages="Croatian;Serbo-Croatian">Istočni Azarbajdžan</name>
+		<name normalized="Kelet-Azerbajdzsan tartomany" languages="Hungarian">Kelet-Azerbajdzsán tartomány</name>
+		<name normalized="Oost-Azerbeidzjan" languages="Dutch">Oost-Azerbeidzjan</name>
+		<name normalized="Orienta Azerbajgano" languages="Esperanto">Orienta Azerbajĝano</name>
+		<name normalized="Ost-Aserbaidschan" languages="German">Ost-Aserbaidschan</name>
+		<name normalized="Provincia Azarbaidjanul de Est" languages="Romanian">Provincia Azarbaidjanul de Est</name>
+		<name normalized="Provinsi Azarbaijan Timur" languages="Indonesian">Provinsi Azarbaijan Timur</name>
+		<name normalized="Regione dell'Azarbaijan orientale" languages="Italian">Regione dell'Azarbaijan orientale</name>
+		<name normalized="Rytu Azerbaidzano provincija" languages="Lithuanian">Rytų Azerbaidžano provincija</name>
+		<name normalized="Sidlakang Aserbayan" languages="Cebuano">Sidlakang Aserbayan</name>
+		<name normalized="Silangang Aserbayan" languages="Tagalog">Silangang Aserbayan</name>
+		<name normalized="Sinirangan nga Azarbaijan" languages="Waray">Sinirangan nga Azarbaijan</name>
+		<name normalized="Vychodni Azerbajdzan" languages="Czech">Východní Ázerbájdžán</name>
+		<name normalized="Ostazarbaijan" languages="Swedish">Östazarbaijan</name>
+		<name normalized="Ost-Aserbajdsjan" languages="Danish;Norwegian (bokmal)">Øst-Aserbajdsjan</name>
+		<name normalized="Azarbayjan-e Sharqi" languages="Finnish">Āzārbāyjān-e Sharqī</name>
+		<name normalized="Dong Azarbaijan" languages="Vietnamese">Đông Azarbaijan</name>
+		<name normalized="Sərqi Azərbaycan ostanı" languages="Azerbaijani">Şərqi Azərbaycan ostanı</name>
+		<name normalized="Voсtocный Aziрbaйdzaн" languages="Russian">Восточный Азербайджан</name>
+		<name normalized="Iztociн Aziрbiйdzaн" languages="Bulgarian">Източен Азербейджан</name>
+		<name normalized="Iрaнсkiй Aziрbaйdzaн" languages="Russian">Иранский Азербайджан</name>
+		<name normalized="Iсtociн Aziрbijdzaн" languages="Macedonian">Источен Азербејџан</name>
+		<name normalized="Pokрajiнa Iсtocнi Aziрbijdzaн" languages="Serbian">Покрајина Источни Азербејџан</name>
+		<name normalized="Сkidнiй Aziрbaйdzaн" languages="Ukrainian">Східний Азербайджан</name>
+		<name normalized="Uсtoнi Ozaрboйcoнi saрki" languages="Tajik">Устони Озарбойҷони шарқӣ</name>
+		<name normalized="Uсkodнi Azeрbaйdzaн" languages="biлaрuсkai (taрaskivita)‎">Усходні Азэрбайджан</name>
+		<name normalized="Iрaнсьkiй Aziрbaйdzaн" languages="Ukrainian">Іранський Азербайджан</name>
+		<name normalized="Աdrbեjան" languages="Armenian">Ադրբեջան</name>
+		<name normalized="Աrևեlյան Աdrbեjան" languages="Armenian">Արևելյան Ադրբեջան</name>
+		<name normalized="מhvז מזrh אזrbייג'ן" languages="Hebrew">מחוז מזרח אזרבייג'ן</name>
+		<name normalized="آذrbאئیjאن" languages="Urdu">آذربائیجان</name>
+		<name normalized="آذrbאیjאن" languages="Persian">آذربایجان</name>
+		<name normalized="أذrbyjאن אلشrqyة" languages="Arabic">أذربيجان الشرقية</name>
+		<name normalized="ئىrאن ئەزەrbەyjאن" languages="Uyghur">ئىران ئەزەربەيجان</name>
+		<name normalized="אذrbyjאن شrqى" languages="Egyptian Spoken Arabic">اذربيجان شرقى</name>
+		<name normalized="אسtאن آذrbאیjאن شrqی" languages="Persian">استان آذربایجان شرقی</name>
+		<name normalized="شrqی آذrbאیjאن אوسtאن" languages="Mazanderani">شرقی آذربایجان اوستان</name>
+		<name normalized="sوbہ آذrbאئیjאن شrqی" languages="Urdu">صوبہ آذربائیجان شرقی</name>
+		<name normalized="sوbہ چڑدא آزrbאئ jאن" languages="Western Punjabi">صوبہ چڑدا آزربائ جان</name>
+		<name normalized="pאrێزgאی ئאزەrbאیjאنی ڕۆjھەڵאt" languages="Sorani Kurdish">پارێزگای ئازەربایجانی ڕۆژھەڵات</name>
+		<name normalized="gونئی آزrbאیjאن" languages="Mazanderani">گونئی آزربایجان</name>
+		<name normalized="pur्v aj़rbajाn p्rांt" languages="Hindi">पूर्व अज़रबैजान प्रांत</name>
+		<name normalized="pur्v ajrbajाn p्rांt" languages="Marathi">पूर्व अझरबैजान प्रांत</name>
+		<name normalized="pur্b ajাrbাijাn p্rdes" languages="Bengali">পূর্ব আজারবাইজান প্রদেশ</name>
+		<name normalized="อาเซอร์ไบจาน" languages="Thai">อาเซอร์ไบจาน</name>
+		<name normalized="აღმოსავლეთი აზერბაიჯანის ოსტანი" languages="Georgian">აღმოსავლეთი აზერბაიჯანის ოსტანი</name>
+		<name normalized="aーzrbーizyーn" languages="Japanese">アーザルバーイジャーン</name>
+		<name normalized="伊朗阿塞拜疆" languages="Chinese">伊朗阿塞拜疆</name>
+		<name normalized="東aーzrbーizyーn州" languages="Japanese">東アーザルバーイジャーン州</name>
+		<name normalized="東亞塞拜疆省" languages="Chinese">東亞塞拜疆省</name>
+		<name normalized="아자르바이잔에샤르키 주" languages="Korean">아자르바이잔에샤르키 주</name>
+		<name normalized="이란령 아제르바이잔" languages="Korean">이란령 아제르바이잔</name>
+	</region>
+	<region name="Bushehr" type="province" typeTranslated="ostan">
+		<name normalized="Bandar Busehr" languages="Hungarian">Bandar Busehr</name>
+		<name normalized="Bouchehr" languages="French">Bouchehr</name>
+		<name normalized="Buixehr" languages="Catalan">Buixehr</name>
+		<name normalized="Buschehr" languages="German">Buschehr</name>
+		<name normalized="Busehr tartomany" languages="Hungarian">Busehr tartomány</name>
+		<name normalized="Bushehr" languages="Basque;Danish;Dutch;English;Indonesian;Italian;Malagasy;Malay;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Swedish;Tagalog;Vietnamese;Waray">Bushehr</name>
+		<name normalized="Bushehr Ostan" languages="English;official">Bushehr Ostan</name>
+		<name normalized="Bushehr Province" languages="English;official;Scots">Bushehr Province</name>
+		<name normalized="Buszehr" languages="Polish">Buszehr</name>
+		<name normalized="Busehr" languages="Turkish;Zazaki">Buşehr</name>
+		<name normalized="Busehr Eyaleti" languages="Turkish">Buşehr Eyaleti</name>
+		<name normalized="Busir" languages="Azerbaijani">Buşir</name>
+		<name normalized="Busir ostanı" languages="Azerbaijani">Buşir ostanı</name>
+		<name normalized="Buseher" languages="Croatian;Serbo-Croatian">Bušeher</name>
+		<name normalized="Buseherska pokrajina" languages="Croatian;Serbo-Croatian">Bušeherska pokrajina</name>
+		<name normalized="Busehr" languages="Cebuano">Bušehr</name>
+		<name normalized="Busehras" languages="Lithuanian">Bušehras</name>
+		<name normalized="Busehro provincija" languages="Lithuanian">Bušehro provincija</name>
+		<name normalized="Busehr" languages="Czech">Búšehr</name>
+		<name normalized="Busehr" languages="Kurdish">Bûşehr</name>
+		<name normalized="Bushehri provints" languages="Estonian">Būshehri provints</name>
+		<name normalized="Busehr" languages="Finnish">Būšehr</name>
+		<name normalized="Busehra" languages="Latvian">Būšehra</name>
+		<name normalized="Dakbayan sa Busehr" languages="Cebuano">Dakbayan sa Bušehr</name>
+		<name normalized="Lalawigan ng Bushehr" languages="Tagalog">Lalawigan ng Bushehr</name>
+		<name normalized="Province de Bouchehr" languages="French">Province de Bouchehr</name>
+		<name normalized="Provincia de Bushehr" languages="Spanish">Provincia de Bushehr</name>
+		<name normalized="Provinco Busehr" languages="Esperanto">Provinco Buŝehr</name>
+		<name normalized="Provinsi Bushehr" languages="Indonesian">Provinsi Bushehr</name>
+		<name normalized="Regione di Bushehr" languages="Italian">Regione di Bushehr</name>
+		<name normalized="Busiр" languages="Bulgarian;Macedonian;Ukrainian">Бушер</name>
+		<name normalized="Busiр" languages="Ossetic;Russian">Бушир</name>
+		<name normalized="Buseр" languages="biлaрuсkai (taрaskivita)‎">Бушэр</name>
+		<name normalized="Busihр" languages="Tajik">Бӯшиҳр</name>
+		<name normalized="Goрad Busыр" languages="Belarusian">Горад Бушыр</name>
+		<name normalized="Pokрajiнa Busiр" languages="Serbian">Покрајина Бушер</name>
+		<name normalized="Uсtoнi Busihр" languages="Tajik">Устони Бушеҳр</name>
+		<name normalized="Bvysեr" languages="Armenian">Բուշեր</name>
+		<name normalized="מhvז bvשhr" languages="Hebrew">מחוז בושהר</name>
+		<name normalized="אسtאن bوشhr" languages="Gilaki;Persian">استان بوشهر</name>
+		<name normalized="bندr bوشhr" languages="Mazanderani">بندر بوشهر</name>
+		<name normalized="bوشhr" languages="Arabic;Egyptian Spoken Arabic;Persian;Western Punjabi">بوشهر</name>
+		<name normalized="bوشhr אوسtאن" languages="Mazanderani">بوشهر اوستان</name>
+		<name normalized="bوشھr" languages="Urdu">بوشھر</name>
+		<name normalized="sوbہ bوشہr" languages="Urdu;Western Punjabi">صوبہ بوشہر</name>
+		<name normalized="pאrێزgאی bووشەھr" languages="Sorani Kurdish">پارێزگای بووشەھر</name>
+		<name normalized="bushr" languages="Marathi">बुशहर</name>
+		<name normalized="bushr p्rांt" languages="Hindi">बुशहर प्रांत</name>
+		<name normalized="busehr p্rdes" languages="Bengali">বুশেহর প্রদেশ</name>
+		<name normalized="ბუშირი" languages="Georgian">ბუშირი</name>
+		<name normalized="ბუშირის ოსტანი" languages="Georgian">ბუშირის ოსტანი</name>
+		<name normalized="bーsehr" languages="Japanese">ブーシェフル</name>
+		<name normalized="bーsehr州" languages="Japanese">ブーシェフル州</name>
+		<name normalized="布什尔" languages="Chinese">布什尔</name>
+		<name normalized="布什爾省" languages="Chinese">布什爾省</name>
+		<name normalized="부셰르" languages="Korean">부셰르</name>
+		<name normalized="부셰르 주" languages="Korean">부셰르 주</name>
+	</region>
+	<region name="Chahar Mahal va Bakhtiari" type="province" typeTranslated="ostan">
+		<name normalized="Chahar Mahal va Bakhtiari" languages="English;official">Chahar Mahal va Bakhtiari</name>
+		<name normalized="Chahar Mahal va Bakhtiari Ostan" languages="English;official">Chahar Mahal va Bakhtiari Ostan</name>
+		<name normalized="Chahar Mahal va Bakhtiari Province" languages="English;official">Chahar Mahal va Bakhtiari Province</name>
+	</region>
+	<region name="Esfahan" type="province" typeTranslated="ostan">
+		<name normalized="Dakbayan sa Esfahan" languages="Cebuano">Dakbayan sa Esfahān</name>
+		<name normalized="Esfahan" languages="English;German;Italian;official;Swedish">Esfahan</name>
+		<name normalized="Esfahan Ostan" languages="English;official">Esfahan Ostan</name>
+		<name normalized="Esfahan Province" languages="English;official">Esfahan Province</name>
+		<name normalized="Esfahan-provinsen" languages="Norwegian Nynorsk">Esfahan-provinsen</name>
+		<name normalized="Esfahano" languages="Esperanto">Esfahano</name>
+		<name normalized="Esfahan" languages="Cebuano;Simple English;Tagalog">Esfahān</name>
+		<name normalized="Esfahan" languages="Finnish">Eṣfahān</name>
+		<name normalized="Gabae" languages="Latin">Gabae</name>
+		<name normalized="Isfahan" languages="Afrikaans;Azerbaijani;Basque;Bosnian;Breton;Catalan;Croatian;Danish;Dutch;English;German;Kabyle;Kalaallisut;Malagasy;Malay;Maori;Norwegian (bokmal);Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Slovenian;Turkish;Vietnamese;Waray;Welsh;Western Frisian">Isfahan</name>
+		<name normalized="Isfahan Eyaleti" languages="Turkish">İsfahan Eyaleti</name>
+		<name normalized="Isfahan ostanı" languages="Azerbaijani">İsfahan ostanı</name>
+		<name normalized="Isfahan probintzia" languages="Basque">Isfahan probintzia</name>
+		<name normalized="Isfahan Province" languages="English;Scots">Isfahan Province</name>
+		<name normalized="Isfahanas" languages="Lithuanian">Isfahanas</name>
+		<name normalized="Isfahano provincija" languages="Lithuanian">Isfahano provincija</name>
+		<name normalized="Isfahanska pokrajina" languages="Croatian;Serbo-Croatian">Isfahanska pokrajina</name>
+		<name normalized="Isfahan" languages="Czech;Galician;Slovak;Spanish">Isfahán</name>
+		<name normalized="Isfahana" languages="Latvian">Isfahāna</name>
+		<name normalized="Ispahan" languages="French">Ispahan</name>
+		<name normalized="Ispaao" languages="Portuguese">Ispaão</name>
+		<name normalized="Iszfahan" languages="Hungarian">Iszfahán</name>
+		<name normalized="Iszfahan tartomany" languages="Hungarian">Iszfahán tartomány</name>
+		<name normalized="Kota Isfahan" languages="Indonesian">Kota Isfahan</name>
+		<name normalized="Lalawigan ng Esfahan" languages="Tagalog">Lalawigan ng Esfahān</name>
+		<name normalized="Province d'Ispahan" languages="French">Province d'Ispahan</name>
+		<name normalized="Provincia de Isfahan" languages="Spanish">Provincia de Isfahán</name>
+		<name normalized="Provinco Isfahano" languages="Esperanto">Provinco Isfahano</name>
+		<name normalized="Provinsi Isfahan" languages="Indonesian">Provinsi Isfahan</name>
+		<name normalized="Provincia d'Isfahan" languages="Catalan">Província d'Isfahan</name>
+		<name normalized="Regione di Esfahan" languages="Italian">Regione di Esfahan</name>
+		<name normalized="Yspyhan" languages="Turkmen">Yspyhan</name>
+		<name normalized="Isfehan" languages="Kurdish">Îsfehan</name>
+		<name normalized="Ισφαχαν" languages="Greek">Ισφαχάν</name>
+		<name normalized="Aсtaн Iсфakaн" languages="Belarusian">Астан Ісфахан</name>
+		<name normalized="Goрad Iсфakaн" languages="Belarusian">Горад Ісфахан</name>
+		<name normalized="Iсфakaн" languages="Bulgarian;Chechen;Macedonian;Ossetic;Russian;Serbian">Исфахан</name>
+		<name normalized="Iсфahoн" languages="Tajik">Исфаҳон</name>
+		<name normalized="Iсфaһaн" languages="Kazakh">Исфаһан</name>
+		<name normalized="Iсфaһaн obлысы" languages="Kazakh">Исфаһан облысы</name>
+		<name normalized="Uсtoнi Iсфahoн" languages="Tajik">Устони Исфаҳон</name>
+		<name normalized="Iсфagaн" languages="biлaрuсkai (taрaskivita)‎">Ісфаган</name>
+		<name normalized="Iсфakaн" languages="Ukrainian">Ісфахан</name>
+		<name normalized="Spաhան" languages="Armenian">Սպահան</name>
+		<name normalized="אסphאן" languages="Hebrew">אספהאן</name>
+		<name normalized="מhvז אסphאן" languages="Hebrew">מחוז אספהאן</name>
+		<name normalized="أsfhאن" languages="Arabic">أصفهان</name>
+		<name normalized="ئەسfەھאن" languages="Sorani Kurdish">ئەسفەھان</name>
+		<name normalized="אسtאن אsfhאن" languages="Persian">استان اصفهان</name>
+		<name normalized="אsfhאن" languages="Egyptian Spoken Arabic;Mazanderani;Persian;Western Punjabi">اصفهان</name>
+		<name normalized="אsfhאن אوسtאن" languages="Mazanderani">اصفهان اوستان</name>
+		<name normalized="אsfہאن" languages="Urdu">اصفہان</name>
+		<name normalized="د אsfhאن ولאyt" languages="Pashto">د اصفهان ولايت</name>
+		<name normalized="sوbہ אsfہאن" languages="Urdu;Western Punjabi">صوبہ اصفہان</name>
+		<name normalized="pאrێزgאی ئەسfەھאن" languages="Sorani Kurdish">پارێزگای ئەسفەھان</name>
+		<name normalized="is्phाn" languages="Marathi">इस्फहान</name>
+		<name normalized="is्phाn p्rांt" languages="Marathi">इस्फहान प्रांत</name>
+		<name normalized="is्p़hाn" languages="Hindi">इस्फ़हान</name>
+		<name normalized="is्p़hाn p्rांt" languages="Hindi">इस्फ़हान प्रांत</name>
+		<name normalized="espাhn" languages="Bengali">এসফাহন</name>
+		<name normalized="espাhn p্rdes" languages="Bengali">এসফাহন প্রদেশ</name>
+		<name normalized="อิสฟาฮาน" languages="Thai">อิสฟาฮาน</name>
+		<name normalized="ისპაანი" languages="Georgian;Mingrelian">ისპაანი</name>
+		<name normalized="ისპაჰანის ოსტანი" languages="Georgian">ისპაჰანის ოსტანი</name>
+		<name normalized="eshahーn" languages="Japanese">エスファハーン</name>
+		<name normalized="eshahーn州" languages="Japanese">エスファハーン州</name>
+		<name normalized="伊斯法罕" languages="Chinese">伊斯法罕</name>
+		<name normalized="伊斯法罕省" languages="Chinese">伊斯法罕省</name>
+		<name normalized="이스파한" languages="Korean">이스파한</name>
+		<name normalized="이스파한 주" languages="Korean">이스파한 주</name>
+	</region>
+	<region name="Fars" type="province" typeTranslated="ostan">
+		<name normalized="Fars" languages="Basque;Bosnian;Croatian;Czech;Danish;Dutch;English;French;German;Italian;Kurdish;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Serbo-Croatian;Spanish;Swedish;Turkish;Vietnamese;Waray;Zazaki">Fars</name>
+		<name normalized="Fars Eyaleti" languages="Turkish">Fars Eyaleti</name>
+		<name normalized="Fars Ostan" languages="English;official">Fars Ostan</name>
+		<name normalized="Fars ostanı" languages="Azerbaijani">Fars ostanı</name>
+		<name normalized="Fars Province" languages="English;official;Scots">Fars Province</name>
+		<name normalized="Farso provincija" languages="Lithuanian">Farso provincija</name>
+		<name normalized="Fars" languages="Czech">Fárs</name>
+		<name normalized="Farsz tartomany" languages="Hungarian">Fársz tartomány</name>
+		<name normalized="Fars" languages="Cebuano;Finnish;Tagalog">Fārs</name>
+		<name normalized="Farsa" languages="Latvian">Fārsa</name>
+		<name normalized="Persida" languages="Romanian">Persida</name>
+		<name normalized="Persis" languages="Latin">Persis</name>
+		<name normalized="Provinco Fars" languages="Esperanto">Provinco Fars</name>
+		<name normalized="Provinsi Fars" languages="Indonesian">Provinsi Fars</name>
+		<name normalized="Provincia de Fars" languages="Catalan">Província de Fars</name>
+		<name normalized="Φαρς" languages="Greek">Φαρς</name>
+		<name normalized="Pokрajiнa Фaрс" languages="Serbian">Покрајина Фарс</name>
+		<name normalized="Uсtoнi Фoрс" languages="Tajik">Устони Форс</name>
+		<name normalized="Фaрс" languages="Bulgarian;Macedonian;Ossetic;Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Фарс</name>
+		<name normalized="Фaрс obлысы" languages="Kazakh">Фарс облысы</name>
+		<name normalized="Fաrs" languages="Armenian">Ֆարս</name>
+		<name normalized="מhvז pאrס" languages="Hebrew">מחוז פארס</name>
+		<name normalized="אسtאن fאrس" languages="Persian">استان فارس</name>
+		<name normalized="د fאrس ولאyt" languages="Pashto">د فارس ولايت</name>
+		<name normalized="sوbہ fאrس" languages="Urdu;Western Punjabi">صوبہ فارس</name>
+		<name normalized="fאrس" languages="Arabic;Egyptian Spoken Arabic;Persian;Urdu">فارس</name>
+		<name normalized="fאrس אوسtאن" languages="Mazanderani">فارس اوستان</name>
+		<name normalized="pאrێزgאی fאrس" languages="Sorani Kurdish">پارێزگای فارس</name>
+		<name normalized="p़ाr्s" languages="Hindi">फ़ार्स</name>
+		<name normalized="pाr्s p्rांt" languages="Marathi">फार्स प्रांत</name>
+		<name normalized="pr্s p্rdes" languages="Bengali">ফর্স প্রদেশ</name>
+		<name normalized="จังหวัดฟาร์ส" languages="Thai">จังหวัดฟาร์ส</name>
+		<name normalized="ფარსი" languages="Georgian">ფარსი</name>
+		<name normalized="ფარსის ოსტანი" languages="Georgian">ფარსის ოსტანი</name>
+		<name normalized="haーrs州" languages="Japanese">ファールス州</name>
+		<name normalized="法爾斯省" languages="Chinese">法爾斯省</name>
+		<name normalized="파르스 주" languages="Korean">파르스 주</name>
+	</region>
+	<region name="Gilan" type="province" typeTranslated="ostan">
+		<name normalized="Gilan" languages="Basque;Catalan;Croatian;Danish;Dutch;English;French;German;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Serbo-Croatian;Swedish;Vietnamese;Waray;Zazaki">Gilan</name>
+		<name normalized="Gilan Eyaleti" languages="Turkish">Gilan Eyaleti</name>
+		<name normalized="Gilan Ostan" languages="English;official">Gilan Ostan</name>
+		<name normalized="Gilan ostanı" languages="Azerbaijani">Gilan ostanı</name>
+		<name normalized="Gilan Province" languages="English;official;Scots;Simple English">Gilan Province</name>
+		<name normalized="Gilano" languages="Esperanto">Gilano</name>
+		<name normalized="Gilano provincija" languages="Lithuanian">Gilano provincija</name>
+		<name normalized="Gilan tartomany" languages="Hungarian">Gilán tartomány</name>
+		<name normalized="Gilan" languages="Cebuano">Gilān</name>
+		<name normalized="Guilan" languages="Spanish">Guilán</name>
+		<name normalized="Gilan" languages="Czech">Gílán</name>
+		<name normalized="Gilan" languages="Kurdish">Gîlan</name>
+		<name normalized="Gilan" languages="Finnish;Welsh">Gīlān</name>
+		<name normalized="Gilana" languages="Latvian">Gīlāna</name>
+		<name normalized="Provincia Gilan" languages="Romanian">Provincia Gilan</name>
+		<name normalized="Provinsi Gilan" languages="Indonesian">Provinsi Gīlān</name>
+		<name normalized="Regione di Gilan" languages="Italian">Regione di Gilan</name>
+		<name normalized="Γκιλαν" languages="Greek">Γκιλάν</name>
+		<name normalized="Giлaн" languages="Macedonian">Гилан</name>
+		<name normalized="Giлiн" languages="Bulgarian;Ossetic;Russian">Гилян</name>
+		<name normalized="Giлiн мuz" languages="Mongolian">Гилян муж</name>
+		<name normalized="Giлiн" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Гілян</name>
+		<name normalized="Pokрajiнa Giлaн" languages="Serbian">Покрајина Гилан</name>
+		<name normalized="Uсtoнi Giлoн" languages="Tajik">Устони Гелон</name>
+		<name normalized="Գիlան" languages="Armenian">Գիլան</name>
+		<name normalized="מhvז גידאן" languages="Hebrew">מחוז גילאן</name>
+		<name normalized="אسtאن gیلאن" languages="Persian">استان گیلان</name>
+		<name normalized="jyلאن" languages="Egyptian Spoken Arabic">جيلان</name>
+		<name normalized="sوbہ jیلאن" languages="Urdu">صوبہ جیلان</name>
+		<name normalized="sوbہ gیلאن" languages="Western Punjabi">صوبہ گیلان</name>
+		<name normalized="غیلאن" languages="Arabic">غیلان</name>
+		<name normalized="pאrێزgאی gێڵאن" languages="Sorani Kurdish">پارێزگای گێڵان</name>
+		<name normalized="gyلאن" languages="Gilaki">گيلان</name>
+		<name normalized="gیلون אوسtאن" languages="Mazanderani">گیلون اوستان</name>
+		<name normalized="gilाn p्rांt" languages="Hindi;Marathi">गिलान प्रांत</name>
+		<name normalized="giln p্rdes" languages="Bengali">গিলন প্রদেশ</name>
+		<name normalized="გილანის ოსტანი" languages="Georgian">გილანის ოსტანი</name>
+		<name normalized="gーrーn州" languages="Japanese">ギーラーン州</name>
+		<name normalized="吉蘭省" languages="Chinese">吉蘭省</name>
+		<name normalized="길란 주" languages="Korean">길란 주</name>
+	</region>
+	<region name="Golestan" type="province" typeTranslated="ostan">
+		<name normalized="(gولوسtאن" languages="Azerbaijani">(گولوستان</name>
+		<name normalized="Golestan" languages="Basque;Croatian;Danish;Dutch;English;German;Italian;Malagasy;Malay;Norwegian (bokmal);official;Polish;Portuguese;Serbo-Croatian;Swedish;Vietnamese">Golestan</name>
+		<name normalized="Golestan Ostan" languages="English;official">Golestan Ostan</name>
+		<name normalized="Golestan Province" languages="English;official;Scots">Golestan Province</name>
+		<name normalized="Golestano provincija" languages="Lithuanian">Golestano provincija</name>
+		<name normalized="Golestan" languages="Czech;Spanish">Golestán</name>
+		<name normalized="Golestan" languages="Cebuano;Estonian;Tagalog;Waray">Golestān</name>
+		<name normalized="Golestana" languages="Latvian">Golestāna</name>
+		<name normalized="Golesztan tartomany" languages="Hungarian">Golesztán tartomány</name>
+		<name normalized="Gulistan" languages="Kurdish;Zazaki">Gulistan</name>
+		<name normalized="Gulistan" languages="Turkish">Gülistan</name>
+		<name normalized="Gulistan Eyaleti" languages="Turkish">Gülistan Eyaleti</name>
+		<name normalized="Gulistan Welayaty" languages="Turkmen">Gülistan Welaýaty</name>
+		<name normalized="Gulustan ostanı" languages="Azerbaijani">Gülüstan ostanı</name>
+		<name normalized="Province du Golestan" languages="French">Province du Golestan</name>
+		<name normalized="Provinsi Golestan" languages="Indonesian">Provinsi Golestān</name>
+		<name normalized="Gaлiнсtaн" languages="biлaрuсkai (taрaskivita)‎">Галенстан</name>
+		<name normalized="Goлiсtaн" languages="Bulgarian;Macedonian;Ossetic;Russian;Ukrainian">Голестан</name>
+		<name normalized="Uсtoнi Guлiсtoн" languages="Tajik">Устони Гулистон</name>
+		<name normalized="Գvlեstան" languages="Armenian">Գոլեստան</name>
+		<name normalized="מhvז גvדסtאן" languages="Hebrew">מחוז גולסתאן</name>
+		<name normalized="אسtאن gلسtאن" languages="Persian">استان گلستان</name>
+		<name normalized="jلسtאن" languages="Egyptian Spoken Arabic">جلستان</name>
+		<name normalized="sوbہ gلسtאن" languages="Urdu">صوبہ گلستان</name>
+		<name normalized="sوbہ gولسtאن" languages="Western Punjabi">صوبہ گولستان</name>
+		<name normalized="غلسtאن" languages="Arabic">غلستان</name>
+		<name normalized="pאrێزgאی gوڵسtאن" languages="Sorani Kurdish">پارێزگای گوڵستان</name>
+		<name normalized="gلسtאن" languages="Persian">گلستان</name>
+		<name normalized="gلسtون אوسtאن" languages="Mazanderani">گلستون اوستان</name>
+		<name normalized="goles्tाn" languages="Hindi">गोलेस्तान</name>
+		<name normalized="goles्tाn p्rांt" languages="Marathi">गोलेस्तान प्रांत</name>
+		<name normalized="goles্tn p্rdes" languages="Bengali">গোলেস্তন প্রদেশ</name>
+		<name normalized="გულისტანის ოსტანი" languages="Georgian">გულისტანის ოსტანი</name>
+		<name normalized="grstーn州" languages="Japanese">ゴレスターン州</name>
+		<name normalized="戈勒斯坦省" languages="Chinese">戈勒斯坦省</name>
+		<name normalized="골레스탄 주" languages="Korean">골레스탄 주</name>
+	</region>
+	<region name="Hamadan" type="province" typeTranslated="ostan">
+		<name normalized="Ecbatana" languages="Cebuano;Latin;Tagalog">Ecbatana</name>
+		<name normalized="Hamadan" languages="Basque;Catalan;Croatian;Danish;Dutch;English;Esperanto;French;German;Italian;Norwegian (bokmal);official;Polish;Romanian;Serbo-Croatian;Swedish;Vietnamese;Waray">Hamadan</name>
+		<name normalized="Hamadan Ostan" languages="English;official">Hamadan Ostan</name>
+		<name normalized="Hamadan probintzia" languages="Basque">Hamadan probintzia</name>
+		<name normalized="Hamadan Province" languages="English;official;Scots">Hamadan Province</name>
+		<name normalized="Hamadanas" languages="Lithuanian">Hamadanas</name>
+		<name normalized="Hamadano provincija" languages="Lithuanian">Hamadano provincija</name>
+		<name normalized="Hamadanska pokrajina" languages="Croatian;Serbo-Croatian">Hamadanska pokrajina</name>
+		<name normalized="Hamadon" languages="Uzbek">Hamadon</name>
+		<name normalized="Hamadan" languages="Czech;Galician;Hungarian;Spanish">Hamadán</name>
+		<name normalized="Hamadan tartomany" languages="Hungarian">Hamadán tartomány</name>
+		<name normalized="Hamada" languages="Portuguese">Hamadã</name>
+		<name normalized="Hamadan" languages="Cebuano;Finnish;Tagalog;Waray">Hamadān</name>
+		<name normalized="Hamadana" languages="Latvian">Hamadāna</name>
+		<name normalized="Hamedan" languages="Danish;English;Indonesian;Malagasy;Malay;Turkish">Hamedan</name>
+		<name normalized="Hamedan Eyaleti" languages="Turkish">Hamedan Eyaleti</name>
+		<name normalized="Hemedan" languages="Kurdish">Hemedan</name>
+		<name normalized="Həmədan" languages="Azerbaijani">Həmədan</name>
+		<name normalized="Həmədan ostanı" languages="Azerbaijani">Həmədan ostanı</name>
+		<name normalized="Province de Hamedan" languages="French">Province de Hamedan</name>
+		<name normalized="Provincia de Hamadan" languages="Spanish">Provincia de Hamadán</name>
+		<name normalized="Provincia Hamadan" languages="Romanian">Provincia Hamadān</name>
+		<name normalized="Provinco Hamadan" languages="Esperanto">Provinco Hamadan</name>
+		<name normalized="Provinsi Hamadan" languages="Indonesian">Provinsi Hamadān</name>
+		<name normalized="Provincia d'Hamadan" languages="Catalan">Província d'Hamadan</name>
+		<name normalized="Regione di Hamadan" languages="Italian">Regione di Hamadan</name>
+		<name normalized="Kaмadaн" languages="Bulgarian;Macedonian;Russian;Serbian;Ukrainian">Хамадан</name>
+		<name normalized="Haмadoн" languages="Tajik">Ҳамадон</name>
+		<name normalized="hמדאן" languages="Hebrew">המדאן</name>
+		<name normalized="מhvז hמדאן" languages="Hebrew">מחוז המדאן</name>
+		<name normalized="אسtאن hmدאن" languages="Persian">استان همدان</name>
+		<name normalized="sوbہ ہmدאن" languages="Urdu;Western Punjabi">صوبہ ہمدان</name>
+		<name normalized="mدyنة hmدאن" languages="Arabic">مدينة همدان</name>
+		<name normalized="hmدאن" languages="Arabic;Egyptian Spoken Arabic;Persian;Western Punjabi">همدان</name>
+		<name normalized="hmدون" languages="Mazanderani">همدون</name>
+		<name normalized="pאrێزgאی ھەmەدאن" languages="Sorani Kurdish">پارێزگای ھەمەدان</name>
+		<name normalized="ھmدאن" languages="Urdu">ھمدان</name>
+		<name normalized="ھەmەدאن" languages="Sorani Kurdish">ھەمەدان</name>
+		<name normalized="hmाdाn" languages="Hindi">हमादान</name>
+		<name normalized="hmाdाn p्rांt" languages="Hindi">हमादान प्रांत</name>
+		<name normalized="ჰამადანი" languages="Georgian">ჰამადანი</name>
+		<name normalized="ჰამადანის ოსტანი" languages="Georgian">ჰამადანის ოსტანი</name>
+		<name normalized="hmdーn" languages="Japanese">ハマダーン</name>
+		<name normalized="hmdーn州" languages="Japanese">ハマダーン州</name>
+		<name normalized="哈馬丹省" languages="Chinese">哈馬丹省</name>
+		<name normalized="哈马丹" languages="Chinese">哈马丹</name>
+		<name normalized="하마단" languages="Korean">하마단</name>
+		<name normalized="하마단 주" languages="Korean">하마단 주</name>
+	</region>
+	<region name="Hormozgan" type="province" typeTranslated="ostan">
+		<name normalized="Hormozgan" languages="Afrikaans;Basque;Danish;Dutch;English;French;German;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Swedish;Vietnamese">Hormozgan</name>
+		<name normalized="Hormozgan Ostan" languages="English;official">Hormozgan Ostan</name>
+		<name normalized="Hormozgan Province" languages="English;official;Scots">Hormozgan Province</name>
+		<name normalized="Hormozgano provincija" languages="Lithuanian">Hormozgano provincija</name>
+		<name normalized="Hormozgan" languages="Czech;Spanish">Hormozgán</name>
+		<name normalized="Hormozgan tartomany" languages="Hungarian">Hormozgán tartomány</name>
+		<name normalized="Hormozgan" languages="Cebuano;Finnish;Waray">Hormozgān</name>
+		<name normalized="Hormozgana" languages="Latvian">Hormozgāna</name>
+		<name normalized="Hormuzgan" languages="Croatian;Serbo-Croatian">Hormuzgan</name>
+		<name normalized="Hurmizgan" languages="Kurdish">Hurmizgan</name>
+		<name normalized="Hormuzgan ostanı" languages="Azerbaijani">Hörmüzgan ostanı</name>
+		<name normalized="Hurmuzgan Eyaleti" languages="Turkish">Hürmüzgan Eyaleti</name>
+		<name normalized="Mkoa wa Hormozgan" languages="Swahili">Mkoa wa Hormozgan</name>
+		<name normalized="Provinco Hormozgan" languages="Esperanto">Provinco Hormozgan</name>
+		<name normalized="Provinsi Hormozgan" languages="Indonesian">Provinsi Hormozgān</name>
+		<name normalized="Pokрajiнa Koрмozgaн" languages="Serbian">Покрајина Хормозган</name>
+		<name normalized="Uсtoнi Huрмuzgoн" languages="Tajik">Устони Ҳурмузгон</name>
+		<name normalized="Kaрмazgaн" languages="biлaрuсkai (taрaskivita)‎">Хармазган</name>
+		<name normalized="Koрмozgaн" languages="Bulgarian;Macedonian;Ossetic;Russian;Ukrainian">Хормозган</name>
+		<name normalized="מhvז hvrמvזגאן" languages="Hebrew">מחוז הורמוזגאן</name>
+		<name normalized="אسtאن hrmزgאن" languages="Persian">استان هرمزگان</name>
+		<name normalized="sوbہ ہrmزgאن" languages="Urdu">صوبہ ہرمزگان</name>
+		<name normalized="hrmزjאن" languages="Egyptian Spoken Arabic">هرمزجان</name>
+		<name normalized="hrmزغאن" languages="Arabic">هرمزغان</name>
+		<name normalized="pאrێزgאی ھوrmزgאن" languages="Sorani Kurdish">پارێزگای ھورمزگان</name>
+		<name normalized="ہrmوزgאن" languages="Western Punjabi">ہرموزگان</name>
+		<name normalized="hor्moj़्gाn p्rांt" languages="Hindi">होर्मोज़्गान प्रांत</name>
+		<name normalized="hor্mojgn p্rdes" languages="Bengali">হোর্মোজগন প্রদেশ</name>
+		<name normalized="ჰორმაზაგანის ოსტანი" languages="Georgian">ჰორმაზაგანის ოსტანი</name>
+		<name normalized="hrmzgーn州" languages="Japanese">ホルモズガーン州</name>
+		<name normalized="霍爾木茲甘省" languages="Chinese">霍爾木茲甘省</name>
+		<name normalized="호르모즈간 주" languages="Korean">호르모즈간 주</name>
+	</region>
+	<region name="Ilam" type="province" typeTranslated="ostan">
+		<name normalized="Dakbayan sa Ilam" languages="Cebuano">Dakbayan sa Ilām</name>
+		<name normalized="Ilam" languages="Azerbaijani;Basque;Croatian;Danish;Dutch;English;French;German;Italian;Malagasy;Malay;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Serbo-Croatian;Swedish;Turkish;Vietnamese;Waray;Zazaki">Ilam</name>
+		<name normalized="Ilam Eyaleti" languages="Turkish">İlam Eyaleti</name>
+		<name normalized="Ilam Ostan" languages="English;official">Ilam Ostan</name>
+		<name normalized="Ilam ostanı" languages="Azerbaijani">İlam ostanı</name>
+		<name normalized="Ilam Province" languages="English;official;Scots">Ilam Province</name>
+		<name normalized="Ilamo" languages="Esperanto">Ilamo</name>
+		<name normalized="Ilamo provincija" languages="Lithuanian">Ilamo provincija</name>
+		<name normalized="Ilamska pokrajina" languages="Croatian;Serbo-Croatian">Ilamska pokrajina</name>
+		<name normalized="Ilam tartomany" languages="Hungarian">Ilám tartomány</name>
+		<name normalized="Ilam" languages="Cebuano;Finnish">Ilām</name>
+		<name normalized="Lalawigan ng Ilam" languages="Tagalog">Lalawigan ng Ilām</name>
+		<name normalized="Province d'Ilam" languages="French">Province d'Ilam</name>
+		<name normalized="Provincia de Ilam" languages="Spanish">Provincia de Ilam</name>
+		<name normalized="Provincia Ilam" languages="Romanian">Provincia Īlām</name>
+		<name normalized="Provinco Ilam" languages="Esperanto">Provinco Ilam</name>
+		<name normalized="Provinsi Ilam" languages="Indonesian">Provinsi Īlām</name>
+		<name normalized="Regione di Ilam" languages="Italian">Regione di Ilam</name>
+		<name normalized="Ilam" languages="Czech">Ílám</name>
+		<name normalized="Ilam" languages="Kurdish;Zazaki">Îlam</name>
+		<name normalized="Ilam" languages="Waray">Īlām</name>
+		<name normalized="Ilama" languages="Latvian">Īlāma</name>
+		<name normalized="Goрad Iлaм" languages="Belarusian">Горад Ілам</name>
+		<name normalized="Iлaм" languages="Bulgarian;Macedonian;Russian">Илам</name>
+		<name normalized="Uсtoнi Eлoм" languages="Tajik">Устони Элом</name>
+		<name normalized="Eлoм" languages="Tajik">Элом</name>
+		<name normalized="Iлaм" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Ілам</name>
+		<name normalized="מhvז עדאם" languages="Hebrew">מחוז עלאם</name>
+		<name normalized="إyلאm" languages="Arabic">إيلام</name>
+		<name normalized="ئیلאm" languages="Sorani Kurdish">ئیلام</name>
+		<name normalized="אسtאن אیلאm" languages="Persian">استان ایلام</name>
+		<name normalized="אyلאm" languages="Egyptian Spoken Arabic">ايلام</name>
+		<name normalized="אیلאm" languages="Persian">ایلام</name>
+		<name normalized="אیلאm شہr" languages="Western Punjabi">ایلام شہر</name>
+		<name normalized="sوbہ אیلאm" languages="Urdu;Western Punjabi">صوبہ ایلام</name>
+		<name normalized="mhאfzة إyلאm" languages="Arabic">محافظة إيلام</name>
+		<name normalized="pאrێزgאی ئیلאm" languages="Sorani Kurdish">پارێزگای ئیلام</name>
+		<name normalized="ilm p्rांt" languages="Hindi">ईलम प्रांत</name>
+		<name normalized="ilm p্rdes" languages="Bengali">ইলম প্রদেশ</name>
+		<name normalized="ილამის ოსტანი" languages="Georgian">ილამის ოსტანი</name>
+		<name normalized="iーrーm" languages="Japanese">イーラーム</name>
+		<name normalized="iーrーm州" languages="Japanese">イーラーム州</name>
+		<name normalized="伊拉姆市" languages="Chinese">伊拉姆市</name>
+		<name normalized="伊拉姆省" languages="Chinese">伊拉姆省</name>
+		<name normalized="일람" languages="Korean">일람</name>
+		<name normalized="일람 주" languages="Korean">일람 주</name>
+	</region>
+	<region name="Kerman" type="province" typeTranslated="ostan">
+		<name normalized="Carmana" languages="Latin">Carmana</name>
+		<name normalized="Carmania" languages="Latin">Carmania</name>
+		<name normalized="Dakbayan sa Kerman" languages="Cebuano">Dakbayan sa Kermān</name>
+		<name normalized="Kerman" languages="Alemannisch;Basque;Catalan;Croatian;Danish;Dutch;English;French;German;Indonesian;Italian;Malagasy;Malay;official;Polish;Portuguese;Romanian;Serbo-Croatian;Simple English;Slovenian;Swedish;Vietnamese;Waray">Kerman</name>
+		<name normalized="Kerman Ostan" languages="English;official">Kerman Ostan</name>
+		<name normalized="Kerman Province" languages="English;official;Scots">Kerman Province</name>
+		<name normalized="Kermanas" languages="Lithuanian">Kermanas</name>
+		<name normalized="Kermano" languages="Esperanto">Kermano</name>
+		<name normalized="Kermano provincija" languages="Lithuanian">Kermano provincija</name>
+		<name normalized="Kermanska pokrajina" languages="Croatian;Serbo-Croatian">Kermanska pokrajina</name>
+		<name normalized="Kerman" languages="Czech;Hungarian;Spanish">Kermán</name>
+		<name normalized="Kerman tartomany" languages="Hungarian">Kermán tartomány</name>
+		<name normalized="Kerman" languages="Cebuano;Finnish;Norwegian (bokmal);Waray">Kermān</name>
+		<name normalized="Kermana" languages="Latvian">Kermāna</name>
+		<name normalized="Kirman" languages="Azerbaijani;Kurdish;Turkish;Western Frisian">Kirman</name>
+		<name normalized="Kirman Eyaleti" languages="Turkish">Kirman Eyaleti</name>
+		<name normalized="Kirman ostanı" languages="Azerbaijani">Kirman ostanı</name>
+		<name normalized="Lalawigan ng Kerman" languages="Tagalog">Lalawigan ng Kermān</name>
+		<name normalized="Province de Kerman" languages="French">Province de Kerman</name>
+		<name normalized="Provincia de Kerman" languages="Spanish">Provincia de Kermán</name>
+		<name normalized="Provinco Kerman" languages="Esperanto">Provinco Kerman</name>
+		<name normalized="Provinsi Kerman" languages="Indonesian">Provinsi Kermān</name>
+		<name normalized="Regione di Kerman" languages="Italian">Regione di Kerman</name>
+		<name normalized="Goрad Kiрмaн" languages="Belarusian">Горад Керман</name>
+		<name normalized="Kiрмaн" languages="Bulgarian;Macedonian;Russian;Serbian;Ukrainian;biлaрuсkai (taрaskivita)‎">Керман</name>
+		<name normalized="Kiрмoн" languages="Tajik">Кирмон</name>
+		<name normalized="Uсtoнi Kiрмoн" languages="Tajik">Устони Кирмон</name>
+		<name normalized="כrמאן" languages="Hebrew">כרמאן</name>
+		<name normalized="מhvז כrמאן" languages="Hebrew">מחוז כרמאן</name>
+		<name normalized="אسtאن کrmאن" languages="Persian">استان کرمان</name>
+		<name normalized="د کrmאن ولאyt" languages="Pashto">د کرمان ولايت</name>
+		<name normalized="sوbہ کrmאن" languages="Urdu;Western Punjabi">صوبہ کرمان</name>
+		<name normalized="krmאن" languages="Arabic;Egyptian Spoken Arabic">كرمان</name>
+		<name normalized="pאrێزgאی کrmאن" languages="Sorani Kurdish">پارێزگای کرمان</name>
+		<name normalized="کrmאن" languages="Pashto;Persian;Sorani Kurdish;Urdu;Western Punjabi">کرمان</name>
+		<name normalized="krmाn p्rांt" languages="Hindi">करमान प्रांत</name>
+		<name normalized="kr्mाn p्rांt" languages="Marathi">कर्मान प्रांत</name>
+		<name normalized="ker্mn p্rdes" languages="Bengali">কের্মন প্রদেশ</name>
+		<name normalized="ქერმანი" languages="Georgian">ქერმანი</name>
+		<name normalized="ქერმანის ოსტანი" languages="Georgian">ქერმანის ოსტანი</name>
+		<name normalized="krmーn" languages="Japanese">ケルマーン</name>
+		<name normalized="krmーn州" languages="Japanese">ケルマーン州</name>
+		<name normalized="克尔曼" languages="Chinese">克尔曼</name>
+		<name normalized="克爾曼省" languages="Chinese">克爾曼省</name>
+		<name normalized="케르만" languages="Korean">케르만</name>
+		<name normalized="케르만 주" languages="Korean">케르만 주</name>
+	</region>
+	<region name="Kermanshah" type="province" typeTranslated="ostan">
+		<name normalized="Dakbayan sa Kermansah" languages="Cebuano">Dakbayan sa Kermānšāh</name>
+		<name normalized="Kermanshah" languages="Danish;Dutch;English;French;Italian;Malagasy;Malay;Norwegian (bokmal);official;Portuguese;Romanian;Scottish Gaelic;Simple English;Spanish;Swedish;Vietnamese;Waray;Welsh">Kermanshah</name>
+		<name normalized="Kermanshah Ostan" languages="English;official">Kermanshah Ostan</name>
+		<name normalized="Kermanshah Province" languages="English;official;Scots">Kermanshah Province</name>
+		<name normalized="Kermanszah" languages="Polish">Kermanszah</name>
+		<name normalized="Kermanxah" languages="Basque;Catalan">Kermanxah</name>
+		<name normalized="Kermanxah probintzia" languages="Basque">Kermanxah probintzia</name>
+		<name normalized="Kermansaho" languages="Esperanto">Kermanŝaho</name>
+		<name normalized="Kermansah" languages="Croatian;Serbo-Croatian">Kermanšah</name>
+		<name normalized="Kermansahas" languages="Lithuanian">Kermanšahas</name>
+		<name normalized="Kermansaho provincija" languages="Lithuanian">Kermanšaho provincija</name>
+		<name normalized="Kermansaska pokrajina" languages="Croatian;Serbo-Croatian">Kermanšaška pokrajina</name>
+		<name normalized="Kermansah" languages="Czech">Kermánšáh</name>
+		<name normalized="Kermanschah" languages="German">Kermānschāh</name>
+		<name normalized="Kermansah" languages="Cebuano;Finnish">Kermānšāh</name>
+		<name normalized="Kermansaha" languages="Latvian">Kermānšāha</name>
+		<name normalized="Kirmansah" languages="Azerbaijani;Turkish;Zazaki">Kirmanşah</name>
+		<name normalized="Kirmansah Eyaleti" languages="Turkish">Kirmanşah Eyaleti</name>
+		<name normalized="Kirmansah ostanı" languages="Azerbaijani">Kirmanşah ostanı</name>
+		<name normalized="Kirmasan" languages="Kurdish;Zazaki">Kirmaşan</name>
+		<name normalized="Lalawigan ng Kermanshah" languages="Tagalog">Lalawigan ng Kermānshāh</name>
+		<name normalized="Province de Kermanshah" languages="French">Province de Kermanshah</name>
+		<name normalized="Provincia de Kermanshah" languages="Spanish">Provincia de Kermanshah</name>
+		<name normalized="Provincia Kermanshah" languages="Romanian">Provincia Kermanshah</name>
+		<name normalized="Provinco Kermansah" languages="Esperanto">Provinco Kermanŝah</name>
+		<name normalized="Provinsi Kermanshah" languages="Indonesian">Provinsi Kermanshah</name>
+		<name normalized="Regione di Kermanshah" languages="Italian">Regione di Kermanshah</name>
+		<name normalized="Goрad Kiрмaнsak" languages="Belarusian">Горад Керманшах</name>
+		<name normalized="Kiрмaнsag" languages="biлaрuсkai (taрaskivita)‎">Керманшаг</name>
+		<name normalized="Kiрмaнsak" languages="Bulgarian;Macedonian;Mongolian;Ossetic;Russian;Serbian;Ukrainian">Керманшах</name>
+		<name normalized="Kiрмaнsak мuz" languages="Mongolian">Керманшах муж</name>
+		<name normalized="Kiрмoнsoh" languages="Tajik">Кирмоншоҳ</name>
+		<name normalized="Uсtoнi Kiрмoнsoh" languages="Tajik">Устони Кирмоншоҳ</name>
+		<name normalized="כrמאnשאh" languages="Hebrew">כרמאנשאה</name>
+		<name normalized="מhvז כrמאnשאh" languages="Hebrew">מחוז כרמאנשאה</name>
+		<name normalized="אسtאن کrmאنشאh" languages="Persian">استان کرمانشاه</name>
+		<name normalized="sوbہ کrmאنشאہ" languages="Urdu">صوبہ کرمانشاہ</name>
+		<name normalized="sوbہ کrmאںشאہ" languages="Western Punjabi">صوبہ کرماںشاہ</name>
+		<name normalized="krmאنشאh" languages="Arabic;Egyptian Spoken Arabic">كرمانشاه</name>
+		<name normalized="pאrێزgאی کrmאشאن" languages="Sorani Kurdish">پارێزگای کرماشان</name>
+		<name normalized="کrmאشאن" languages="Sorani Kurdish">کرماشان</name>
+		<name normalized="کrmאنشאh" languages="Persian">کرمانشاه</name>
+		<name normalized="کrmאنشאہ" languages="Urdu;Western Punjabi">کرمانشاہ</name>
+		<name normalized="krmाnsाh p्rांt" languages="Hindi">करमानशाह प्रांत</name>
+		<name normalized="ker্mnsh p্rdes" languages="Bengali">কের্মনশহ প্রদেশ</name>
+		<name normalized="ქირმანშაჰი" languages="Georgian">ქირმანშაჰი</name>
+		<name normalized="ქირმანშაჰის ოსტანი" languages="Georgian">ქირმანშაჰის ოსტანი</name>
+		<name normalized="krmーnsyー" languages="Japanese">ケルマーンシャー</name>
+		<name normalized="krmーnsyー州" languages="Japanese">ケルマーンシャー州</name>
+		<name normalized="克尔曼沙赫" languages="Chinese">克尔曼沙赫</name>
+		<name normalized="克爾曼沙汗省" languages="Chinese">克爾曼沙汗省</name>
+		<name normalized="케르만샤" languages="Korean">케르만샤</name>
+		<name normalized="케르만샤 주" languages="Korean">케르만샤 주</name>
+	</region>
+	<region name="Khorasan-e Jonubi" type="province" typeTranslated="ostan">
+		<name normalized="Chorasan" languages="German;Polish">Chorasan</name>
+		<name normalized="Chorasan Poludniowy" languages="Polish">Chorasan Południowy</name>
+		<name normalized="Chorasan" languages="Slovak">Chorasán</name>
+		<name normalized="Coracao" languages="Portuguese">Coração</name>
+		<name normalized="Coracao do Sul" languages="Portuguese">Coração do Sul</name>
+		<name normalized="Cənubi Xorasan ostanı" languages="Azerbaijani">Cənubi Xorasan ostanı</name>
+		<name normalized="Dienvidhorasana" languages="Latvian">Dienvidhorasāna</name>
+		<name normalized="Del-Horaszan tartomany" languages="Hungarian">Dél-Horászán tartomány</name>
+		<name normalized="Guney Horasan Eyaleti" languages="Turkish">Güney Horasan Eyaleti</name>
+		<name normalized="Habagatang Xorasan" languages="Cebuano">Habagatang Xorāsān</name>
+		<name normalized="Hego Khorasan" languages="Basque">Hego Khorasan</name>
+		<name normalized="Horasan" languages="Croatian;Dutch;Serbo-Croatian;Turkish">Horasan</name>
+		<name normalized="Horaszan" languages="Hungarian">Horászán</name>
+		<name normalized="Jizni Chorasan" languages="Czech">Jižní Chorásán</name>
+		<name normalized="Jorasan" languages="Spanish">Jorasán</name>
+		<name normalized="Juzni Horasan" languages="Croatian;Serbo-Croatian">Južni Horasan</name>
+		<name normalized="Khorasan" languages="Basque;Catalan;Dutch;English;Indonesian;Italian;Malay;Norwegian (bokmal);official;Swedish">Khorasan</name>
+		<name normalized="Khorasan meridionale" languages="Italian">Khorasan meridionale</name>
+		<name normalized="Khorasan meridional" languages="French">Khorasan méridional</name>
+		<name normalized="Khorasan Ostan" languages="English;official">Khorasan Ostan</name>
+		<name normalized="Khorasan Province" languages="English;official;Simple English">Khorasan Province</name>
+		<name normalized="Khorasan Selatan" languages="Malay">Khorasan Selatan</name>
+		<name normalized="Khorasan-e Jonubi" languages="English;official">Khorasan-e Jonubi</name>
+		<name normalized="Khorasan-e Jonubi Ostan" languages="English;official">Khorasan-e Jonubi Ostan</name>
+		<name normalized="Khorasan-e Jonubi Province" languages="English;official">Khorasan-e Jonubi Province</name>
+		<name normalized="Khorassan" languages="French">Khorassan</name>
+		<name normalized="Khorasan-e Junoubi" languages="Finnish">Khorāsān-e Junoubi</name>
+		<name normalized="Louna-Khorasan" languages="Estonian">Lõuna-Khorāsān</name>
+		<name normalized="Pietu Chorasano provincija" languages="Lithuanian">Pietų Chorasano provincija</name>
+		<name normalized="Provinco Suda Horasano" languages="Esperanto">Provinco Suda Ĥorasano</name>
+		<name normalized="Provinsi Khorasan" languages="Indonesian">Provinsi Khorasan</name>
+		<name normalized="Provinsi Khorasan Selatan" languages="Indonesian">Provinsi Khorasan Selatan</name>
+		<name normalized="Salatan nga Khorasan" languages="Waray">Salatan nga Khorasan</name>
+		<name normalized="Sooth Khorasan Province" languages="Scots">Sooth Khorasan Province</name>
+		<name normalized="South Khorasan" languages="English;official">South Khorasan</name>
+		<name normalized="South Khorasan Ostan" languages="English;official">South Khorasan Ostan</name>
+		<name normalized="South Khorasan Province" languages="English;official;Simple English">South Khorasan Province</name>
+		<name normalized="Syd-Khorasan" languages="Danish">Syd-Khorasan</name>
+		<name normalized="Sydkhorasan" languages="Swedish">Sydkhorasan</name>
+		<name normalized="Sor-Khorasan" languages="Norwegian (bokmal)">Sør-Khorasan</name>
+		<name normalized="Sud-Chorasan" languages="German">Süd-Chorasan</name>
+		<name normalized="Xorasan" languages="Azerbaijani;Kurdish">Xorasan</name>
+		<name normalized="Xorasana Basur" languages="Kurdish">Xorasana Başûr</name>
+		<name normalized="Xuroson" languages="Uzbek">Xuroson</name>
+		<name normalized="Zuid-Khorasan" languages="Dutch">Zuid-Khorasan</name>
+		<name normalized="Horasano" languages="Esperanto">Ĥorasano</name>
+		<name normalized="Χορασαν" languages="Greek">Χορασάν</name>
+		<name normalized="Aсtaн Paўdнёvы Kaрaсaн" languages="Belarusian">Астан Паўднёвы Харасан</name>
+		<name normalized="Paўdнёvы Kaрaсaн" languages="biлaрuсkai (taрaskivita)‎">Паўднёвы Харасан</name>
+		<name normalized="Pivdiннiй Koрaсaн" languages="Ukrainian">Південний Хорасан</name>
+		<name normalized="Uсtoнi Kuрoсoнi caнubi" languages="Tajik">Устони Хуросони ҷанубӣ</name>
+		<name normalized="Koрaсaн" languages="Bulgarian;Ossetic;Russian">Хорасан</name>
+		<name normalized="Kuрaсaн" languages="Chuvash">Хурасан</name>
+		<name normalized="Kuссaр Koрaсaн" languages="Ossetic">Хуссар Хорасан</name>
+		<name normalized="Юzный Koрaсaн" languages="Russian">Южный Хорасан</name>
+		<name normalized="Juziн Koрaсaн" languages="Macedonian">Јужен Хорасан</name>
+		<name normalized="מhvז דrvם h'vrאסאן" languages="Hebrew">מחוז דרום ח'וראסאן</name>
+		<name normalized="אسtאن خrאسאن" languages="Persian">استان خراسان</name>
+		<name normalized="אسtאن خrאسאن jنوbی" languages="Persian">استان خراسان جنوبی</name>
+		<name normalized="خrאسאن" languages="Arabic;Persian">خراسان</name>
+		<name normalized="خrאسאن jنوbى" languages="Egyptian Spoken Arabic">خراسان جنوبى</name>
+		<name normalized="خrאسאن jنوby" languages="Arabic">خراسان جنوبي</name>
+		<name normalized="د سhېلy خrאسאن ولאyt" languages="Pashto">د سهېلي خراسان ولايت</name>
+		<name normalized="sوbہ tھلوאں خrאسאن" languages="Western Punjabi">صوبہ تھلواں خراسان</name>
+		<name normalized="sوbہ خrאسאن jنوbی" languages="Urdu">صوبہ خراسان جنوبی</name>
+		<name normalized="mqאtعة خrאسאن" languages="Arabic">مقاطعة خراسان</name>
+		<name normalized="pאrێزgאی خۆrאسאنی bאشووr" languages="Sorani Kurdish">پارێزگای خۆراسانی باشوور</name>
+		<name normalized="k़orाsाn" languages="Hindi">ख़ोरासान</name>
+		<name normalized="korाsाn p्rांt" languages="Marathi">खोरासान प्रांत</name>
+		<name normalized="dk्षiण k़orाsाn p्rांt" languages="Hindi">दक्षिण ख़ोरासान प्रांत</name>
+		<name normalized="dk्षiण korाsाn p्rांt" languages="Marathi">दक्षिण खोरासान प्रांत</name>
+		<name normalized="dk্ষiণ korsn p্rdes" languages="Bengali">দক্ষিণ খোরসন প্রদেশ</name>
+		<name normalized="სამხრეთი ხორასანის ოსტანი" languages="Georgian">სამხრეთი ხორასანის ოსტანი</name>
+		<name normalized="hrーsーn" languages="Japanese">ホラーサーン</name>
+		<name normalized="南hrーsーn州" languages="Japanese">南ホラーサーン州</name>
+		<name normalized="南呼羅珊省" languages="Chinese">南呼羅珊省</name>
+		<name normalized="呼罗珊" languages="Chinese">呼罗珊</name>
+		<name normalized="호라산에조누비 주" languages="Korean">호라산에조누비 주</name>
+	</region>
+	<region name="Khorasan-e Razavi" type="province" typeTranslated="ostan">
+		<name normalized="Chorasan-e Rezawi" languages="Polish">Chorasan-e Rezawi</name>
+		<name normalized="Chorasan Razavi" languages="Czech">Chorásán Razaví</name>
+		<name normalized="Coracao Razavi" languages="Portuguese">Coração Razavi</name>
+		<name normalized="Jorasan Razavi" languages="Spanish">Jorasán Razaví</name>
+		<name normalized="Khorasan-e Razavi" languages="English;French;official">Khorasan-e Razavi</name>
+		<name normalized="Khorasan-e Razavi Ostan" languages="English;official">Khorasan-e Razavi Ostan</name>
+		<name normalized="Khorasan-e Razavi Province" languages="English;official">Khorasan-e Razavi Province</name>
+		<name normalized="Khorasan-e Razavi" languages="Finnish">Khorāsān-e Razavi</name>
+		<name normalized="Provinco Razavi-Horasano" languages="Esperanto">Provinco Razavi-Ĥorasano</name>
+		<name normalized="Provinsi Razavi Khorasan" languages="Indonesian">Provinsi Razavi Khorasan</name>
+		<name normalized="Razavi Horasan" languages="Croatian;Serbo-Croatian">Razavi Horasan</name>
+		<name normalized="Razavi Horasan Eyaleti" languages="Turkish">Razavi Horasan Eyaleti</name>
+		<name normalized="Razavi Horaszan tartomany" languages="Hungarian">Razavi Horászán tartomány</name>
+		<name normalized="Razavi Khorasan" languages="Basque;Danish;English;Italian;Malay;official;Vietnamese;Waray">Razavi Khorasan</name>
+		<name normalized="Razavi Khorasan Ostan" languages="English;official">Razavi Khorasan Ostan</name>
+		<name normalized="Razavi Khorasan Province" languages="English;official;Scots;Simple English">Razavi Khorasan Province</name>
+		<name normalized="Razavi-Chorasan" languages="German">Razavi-Chorasan</name>
+		<name normalized="Razavi-Khorasan" languages="Dutch;Norwegian (bokmal)">Razavi-Khorasan</name>
+		<name normalized="Razavi-Khorasan" languages="Estonian">Razavi-Khorāsān</name>
+		<name normalized="Razavikhorasan" languages="Swedish">Razavikhorasan</name>
+		<name normalized="Rezavio Chorasano provincija" languages="Lithuanian">Rezavio Chorasano provincija</name>
+		<name normalized="Rezavi Horasana" languages="Latvian">Rezāvi Horasāna</name>
+		<name normalized="Rəzəvi Xorasan ostanı" languages="Azerbaijani">Rəzəvi Xorasan ostanı</name>
+		<name normalized="Xorasana Rezewi" languages="Kurdish">Xorasana Rezewî</name>
+		<name normalized="Xorasan-e Razavi" languages="Cebuano">Xorāsān-e Razavi</name>
+		<name normalized="Рazavi Koрaсaн" languages="Macedonian">Разави Хорасан</name>
+		<name normalized="Uсtoнi Kuрoсoнi рazavi" languages="Tajik">Устони Хуросони разавӣ</name>
+		<name normalized="Kaрaсaн Рezavi" languages="biлaрuсkai (taрaskivita)‎">Харасан Рэзаві</name>
+		<name normalized="Koрaсaн-Рizavi" languages="Ossetic;Russian">Хорасан-Резави</name>
+		<name normalized="Koрaсaн-Рizavi" languages="Ukrainian">Хорасан-Резаві</name>
+		<name normalized="מhvז h'vrאסאן rזאvvי" languages="Hebrew">מחוז ח'וראסאן רזאווי</name>
+		<name normalized="אسtאن خrאسאن rdوی" languages="Persian">استان خراسان رضوی</name>
+		<name normalized="خrאسאن rdوى" languages="Egyptian Spoken Arabic">خراسان رضوى</name>
+		<name normalized="خrאسאن rdوy" languages="Arabic">خراسان رضوي</name>
+		<name normalized="د rdوy خrאسאن ولאyt" languages="Pashto">د رضوي خراسان ولايت</name>
+		<name normalized="rdوی خـِrאسون אوسtאن" languages="Mazanderani">رضوی خـِراسون اوستان</name>
+		<name normalized="pאrێزgאی خۆrאسאنی ڕەزەوی" languages="Sorani Kurdish">پارێزگای خۆراسانی ڕەزەوی</name>
+		<name normalized="rj़ाvi k़orाsाn" languages="Hindi">रज़ावी ख़ोरासान</name>
+		<name normalized="rjाvi korाsाn p्rांt" languages="Marathi">रझावी खोरासान प्रांत</name>
+		<name normalized="korsne rাjাbi p্rdes" languages="Bengali">খোরসনে রাজাভি প্রদেশ</name>
+		<name normalized="ხორასან-რეზავის ოსტანი" languages="Georgian">ხორასან-რეზავის ოსტანი</name>
+		<name normalized="rzviー・hrーsーn州" languages="Japanese">ラザヴィー・ホラーサーン州</name>
+		<name normalized="礼萨呼罗珊省" languages="Chinese">礼萨呼罗珊省</name>
+		<name normalized="호라산에라자비 주" languages="Korean">호라산에라자비 주</name>
+	</region>
+	<region name="Khorasan-e Shomali" type="province" typeTranslated="ostan">
+		<name normalized="Amihanan nga Khorasan" languages="Waray">Amihanan nga Khorasan</name>
+		<name normalized="Amihanang Xorasan" languages="Cebuano">Amihanang Xorāsān</name>
+		<name normalized="Chorasan" languages="German;Polish">Chorasan</name>
+		<name normalized="Chorasan Polnocny" languages="Polish">Chorasan Północny</name>
+		<name normalized="Chorasan" languages="Slovak">Chorasán</name>
+		<name normalized="Coracao" languages="Portuguese">Coração</name>
+		<name normalized="Coracao do Norte" languages="Portuguese">Coração do Norte</name>
+		<name normalized="Horasan" languages="Croatian;Dutch;Serbo-Croatian;Turkish">Horasan</name>
+		<name normalized="Horaszan" languages="Hungarian">Horászán</name>
+		<name normalized="Ipar Khorasan" languages="Basque">Ipar Khorasan</name>
+		<name normalized="Jorasan" languages="Spanish">Jorasán</name>
+		<name normalized="Jorasan del Norte" languages="Spanish">Jorasán del Norte</name>
+		<name normalized="Khorasan" languages="Basque;Catalan;Dutch;English;Indonesian;Italian;Malay;Norwegian (bokmal);official;Swedish">Khorasan</name>
+		<name normalized="Khorasan Ostan" languages="English;official">Khorasan Ostan</name>
+		<name normalized="Khorasan Province" languages="English;official;Simple English">Khorasan Province</name>
+		<name normalized="Khorasan septentrional" languages="French">Khorasan septentrional</name>
+		<name normalized="Khorasan settentrionale" languages="Italian">Khorasan settentrionale</name>
+		<name normalized="Khorasan Utara" languages="Malay">Khorasan Utara</name>
+		<name normalized="Khorasan-e Shomali" languages="English;official">Khorasan-e Shomali</name>
+		<name normalized="Khorasan-e Shomali Ostan" languages="English;official">Khorasan-e Shomali Ostan</name>
+		<name normalized="Khorasan-e Shomali Province" languages="English;official">Khorasan-e Shomali Province</name>
+		<name normalized="Khorassan" languages="French">Khorassan</name>
+		<name normalized="Khorasan-e Shomali" languages="Finnish">Khorāsān-e Shomali</name>
+		<name normalized="Kuzey Horasan Eyaleti" languages="Turkish">Kuzey Horasan Eyaleti</name>
+		<name normalized="Noord-Khorasan" languages="Dutch">Noord-Khorasan</name>
+		<name normalized="Nord-Chorasan" languages="German">Nord-Chorasan</name>
+		<name normalized="Nord-Khorasan" languages="Danish;Norwegian (bokmal)">Nord-Khorasan</name>
+		<name normalized="Nordkhorasan" languages="Swedish">Nordkhorasan</name>
+		<name normalized="North Khorasan" languages="English;official">North Khorasan</name>
+		<name normalized="North Khorasan Ostan" languages="English;official">North Khorasan Ostan</name>
+		<name normalized="North Khorasan Province" languages="English;official;Scots;Simple English">North Khorasan Province</name>
+		<name normalized="Provinco Norda Horasano" languages="Esperanto">Provinco Norda Ĥorasano</name>
+		<name normalized="Provinsi Khorasan" languages="Indonesian">Provinsi Khorasan</name>
+		<name normalized="Provinsi Khorasan Utara" languages="Indonesian">Provinsi Khorasan Utara</name>
+		<name normalized="Pohja-Khorasan" languages="Estonian">Põhja-Khorāsān</name>
+		<name normalized="Severni Chorasan" languages="Czech">Severní Chorásán</name>
+		<name normalized="Sjeverni Horasan" languages="Croatian;Serbo-Croatian">Sjeverni Horasan</name>
+		<name normalized="Xorasan" languages="Azerbaijani;Kurdish">Xorasan</name>
+		<name normalized="Xorasana Bakur" languages="Kurdish">Xorasana Bakur</name>
+		<name normalized="Xuroson" languages="Uzbek">Xuroson</name>
+		<name normalized="Ziemelhorasana" languages="Latvian">Ziemeļhorasāna</name>
+		<name normalized="Eszak-Horaszan tartomany" languages="Hungarian">Észak-Horászán tartomány</name>
+		<name normalized="Horasano" languages="Esperanto">Ĥorasano</name>
+		<name normalized="Simali Xorasan ostanı" languages="Azerbaijani">Şimali Xorasan ostanı</name>
+		<name normalized="Siaures Chorasano provincija" languages="Lithuanian">Šiaurės Chorasano provincija</name>
+		<name normalized="Χορασαν" languages="Greek">Χορασάν</name>
+		<name normalized="Paўнocны Kaрaсaн" languages="biлaрuсkai (taрaskivita)‎">Паўночны Харасан</name>
+		<name normalized="Pivнicнiй Koрaсaн" languages="Ukrainian">Північний Хорасан</name>
+		<name normalized="Сiviрiн Koрaсaн" languages="Macedonian">Северен Хорасан</name>
+		<name normalized="Сiviрный Koрaсaн" languages="Russian">Северный Хорасан</name>
+		<name normalized="Uсtoнi Kuрoсoнi siмoлi" languages="Tajik">Устони Хуросони шимолӣ</name>
+		<name normalized="Koрaсaн" languages="Bulgarian;Ossetic;Russian">Хорасан</name>
+		<name normalized="Kuрaсaн" languages="Chuvash">Хурасан</name>
+		<name normalized="מhvז צpvן h'vrאסאן" languages="Hebrew">מחוז צפון ח'וראסאן</name>
+		<name normalized="אسtאن خrאسאن" languages="Persian">استان خراسان</name>
+		<name normalized="אسtאن خrאسאن شmאلی" languages="Persian">استان خراسان شمالی</name>
+		<name normalized="خrאسאن" languages="Arabic;Persian">خراسان</name>
+		<name normalized="خrאسאن شmאلى" languages="Egyptian Spoken Arabic">خراسان شمالى</name>
+		<name normalized="خrאسאن شmאلy" languages="Arabic">خراسان شمالي</name>
+		<name normalized="sوbہ אtلא خوrאسאن" languages="Western Punjabi">صوبہ اتلا خوراسان</name>
+		<name normalized="sوbہ خrאسאن شmאلی" languages="Urdu">صوبہ خراسان شمالی</name>
+		<name normalized="mqאtعة خrאسאن" languages="Arabic">مقاطعة خراسان</name>
+		<name normalized="pאrێزgאی خۆrאسאنی bאکووr" languages="Sorani Kurdish">پارێزگای خۆراسانی باکوور</name>
+		<name normalized="ut्tr k़orाsाn p्rांt" languages="Hindi">उत्तर ख़ोरासान प्रांत</name>
+		<name normalized="ut्tr korाsाn p्rांt" languages="Marathi">उत्तर खोरासान प्रांत</name>
+		<name normalized="k़orाsाn" languages="Hindi">ख़ोरासान</name>
+		<name normalized="korाsाn p्rांt" languages="Marathi">खोरासान प्रांत</name>
+		<name normalized="ut্tr korsn p্rdes" languages="Bengali">উত্তর খোরসন প্রদেশ</name>
+		<name normalized="ჩრდილოეთი ხორასანის ოსტანი" languages="Georgian">ჩრდილოეთი ხორასანის ოსტანი</name>
+		<name normalized="hrーsーn" languages="Japanese">ホラーサーン</name>
+		<name normalized="北hrーsーn州" languages="Japanese">北ホラーサーン州</name>
+		<name normalized="北呼羅珊省" languages="Chinese">北呼羅珊省</name>
+		<name normalized="呼罗珊" languages="Chinese">呼罗珊</name>
+		<name normalized="호라산에쇼말리 주" languages="Korean">호라산에쇼말리 주</name>
+	</region>
+	<region name="Khuzestan" type="province" typeTranslated="ostan">
+		<name normalized="Chuzestan" languages="German;Polish">Chuzestan</name>
+		<name normalized="Chuzestano provincija" languages="Lithuanian">Chuzestano provincija</name>
+		<name normalized="Chuzistan" languages="Czech">Chúzistán</name>
+		<name normalized="Cuzistao" languages="Portuguese">Cuzistão</name>
+		<name normalized="Huzestan" languages="Croatian;Serbo-Croatian">Huzestan</name>
+		<name normalized="Huzesztan tartomany" languages="Hungarian">Huzesztán tartomány</name>
+		<name normalized="Huzistan Eyaleti" languages="Turkish">Huzistan Eyaleti</name>
+		<name normalized="Huzestana" languages="Latvian">Hūzestāna</name>
+		<name normalized="Juzestan" languages="Spanish">Juzestán</name>
+		<name normalized="Khouzistan" languages="French">Khouzistan</name>
+		<name normalized="Khusistan" languages="Danish">Khusistan</name>
+		<name normalized="Khuzestan" languages="Basque;Catalan;Dutch;English;Malay;Norwegian (bokmal);Occitan;official;Swedish;Vietnamese">Khuzestan</name>
+		<name normalized="Khuzestan Ostan" languages="English;official">Khuzestan Ostan</name>
+		<name normalized="Khuzestan Province" languages="English;official;Scots">Khuzestan Province</name>
+		<name normalized="Khuzestan" languages="Estonian;Finnish;Italian;Waray;Welsh">Khūzestān</name>
+		<name normalized="Provinsi Khuzestan" languages="Indonesian">Provinsi Khūzestān</name>
+		<name normalized="Susiana" languages="Latin">Susiana</name>
+		<name normalized="Xuzestan" languages="Cebuano">Xuzestān</name>
+		<name normalized="Xuzistan ostanı" languages="Azerbaijani">Xuzistan ostanı</name>
+		<name normalized="Xuzistan" languages="Kurdish">Xûzistan</name>
+		<name normalized="Huzestano" languages="Esperanto">Ĥuzestano</name>
+		<name normalized="Uсtoнi Kuziсtoн" languages="Tajik">Устони Хӯзистон</name>
+		<name normalized="Kuziсtaн" languages="Bulgarian;Macedonian;Ossetic;Russian;Ukrainian">Хузестан</name>
+		<name normalized="Kuzeсtaн" languages="biлaрuсkai (taрaskivita)‎">Хузэстан</name>
+		<name normalized="מhvז h'vזסtאן" languages="Hebrew">מחוז ח'וזסתאן</name>
+		<name normalized="אسtאن خوزسtאن" languages="Persian">استان خوزستان</name>
+		<name normalized="خوزسtאن" languages="Arabic;Egyptian Spoken Arabic">خوزستان</name>
+		<name normalized="sوbہ hوزسtאن" languages="Western Punjabi">صوبہ حوزستان</name>
+		<name normalized="sوbہ خوزسtאن" languages="Urdu">صوبہ خوزستان</name>
+		<name normalized="pאrێزgאی خووزسtאن" languages="Sorani Kurdish">پارێزگای خووزستان</name>
+		<name normalized="k़uj़s्tाn" languages="Hindi">ख़ूज़स्तान</name>
+		<name normalized="kujes্tn p্rdes" languages="Bengali">খুজেস্তন প্রদেশ</name>
+		<name normalized="kujistਾn riast" languages="Punjabi">ਖੁਜਿਸਤਾਨ ਰਿਆਸਤ</name>
+		<name normalized="ხუზისტანის ოსტანი" languages="Georgian">ხუზისტანის ოსტანი</name>
+		<name normalized="hーzstーn州" languages="Japanese">フーゼスターン州</name>
+		<name normalized="胡齊斯坦省" languages="Chinese">胡齊斯坦省</name>
+		<name normalized="후제스탄 주" languages="Korean">후제스탄 주</name>
+	</region>
+	<region name="Kohgiluyeh va Bowyer Ahmad" type="province" typeTranslated="ostan">
+		<name normalized="Kohgiluyeh va Bowyer Ahmad" languages="English;official">Kohgiluyeh va Bowyer Ahmad</name>
+		<name normalized="Kohgiluyeh va Bowyer Ahmad Ostan" languages="English;official">Kohgiluyeh va Bowyer Ahmad Ostan</name>
+		<name normalized="Kohgiluyeh va Bowyer Ahmad Province" languages="English;official">Kohgiluyeh va Bowyer Ahmad Province</name>
+	</region>
+	<region name="Kordestan" type="province" typeTranslated="ostan">
+		<name normalized="An Chordastain" languages="Irish">An Chordastáin</name>
+		<name normalized="Curdistan" languages="Occitan">Curdistan</name>
+		<name normalized="Curdistan" languages="Galician">Curdistán</name>
+		<name normalized="Curdistao" languages="Portuguese">Curdistão</name>
+		<name normalized="Cyrdistan" languages="Welsh">Cyrdistan</name>
+		<name normalized="Koerdistan" languages="Afrikaans;Dutch;Western Frisian">Koerdistan</name>
+		<name normalized="Kordestan" languages="Dutch;English;official">Kordestan</name>
+		<name normalized="Kordestan Ostan" languages="English;official">Kordestan Ostan</name>
+		<name normalized="Kordestan Province" languages="English;official">Kordestan Province</name>
+		<name normalized="Kordestan" languages="Cebuano;Finnish;German">Kordestān</name>
+		<name normalized="Kurdio" languages="Esperanto">Kurdio</name>
+		<name normalized="Kurdistan" languages="Basque;Breton;Catalan;Cebuano;Croatian;Danish;English;Estonian;Finnish;French;German;Iloko;Italian;Kabyle;Kurdish;Lower Sorbian;Malay;Norwegian (bokmal);Norwegian Nynorsk;Pampanga;Romanian;Scots;Seeltersk;Serbo-Croatian;Sicilian;Simple English;Slovak;Swedish;Vietnamese;Waray;Zazaki">Kurdistan</name>
+		<name normalized="Kurdistan Province" languages="English;Scots">Kurdistan Province</name>
+		<name normalized="Kurdistanas" languages="Lithuanian">Kurdistanas</name>
+		<name normalized="Kurdistango probintzia" languages="Basque">Kurdistango probintzia</name>
+		<name normalized="Kurdistani" languages="Albanian">Kurdistani</name>
+		<name normalized="Kurdistani provints" languages="Estonian">Kurdistani provints</name>
+		<name normalized="Kurdistano provincija" languages="Lithuanian">Kurdistano provincija</name>
+		<name normalized="Kurdistanska pokrajina" languages="Croatian;Serbo-Croatian">Kurdistanska pokrajina</name>
+		<name normalized="Kurdiston" languages="Uzbek">Kurdiston</name>
+		<name normalized="Kurdistan" languages="Aragonese;Czech;Spanish">Kurdistán</name>
+		<name normalized="Kurdistana" languages="Latvian">Kurdistāna</name>
+		<name normalized="Kurdisztan" languages="Hungarian">Kurdisztán</name>
+		<name normalized="Kurdisztan tartomany" languages="Hungarian">Kurdisztán tartomány</name>
+		<name normalized="Kurdystan" languages="Polish">Kurdystan</name>
+		<name normalized="Kurdistan" languages="Azerbaijani;Turkish">Kürdistan</name>
+		<name normalized="Kurdistan Eyaleti" languages="Turkish">Kürdistan Eyaleti</name>
+		<name normalized="Kurdustan ostanı" languages="Azerbaijani">Kürdüstan ostanı</name>
+		<name normalized="Province iranienne du Kurdistan" languages="French">Province iranienne du Kurdistan</name>
+		<name normalized="Provincia de Kurdistan" languages="Spanish">Provincia de Kurdistán</name>
+		<name normalized="Provincia Kurdistan" languages="Romanian">Provincia Kurdistan</name>
+		<name normalized="Provinco Kurdistan" languages="Esperanto">Provinco Kurdistan</name>
+		<name normalized="Provinsi Kurdistan" languages="Indonesian">Provinsi Kurdistan</name>
+		<name normalized="Regione del Kurdistan" languages="Italian">Regione del Kurdistan</name>
+		<name normalized="Κουρδισταν" languages="Greek">Κουρδιστάν</name>
+		<name normalized="Aсtaн Kuрdысtaн" languages="Belarusian">Астан Курдыстан</name>
+		<name normalized="Koрdiсtaн" languages="Bulgarian">Кордестан</name>
+		<name normalized="Kuрdiсtaн" languages="Macedonian;Ossetic;Russian;Serbian;Ukrainian">Курдистан</name>
+		<name normalized="Kuрdiсtoн" languages="Tajik">Курдистон</name>
+		<name normalized="Kuрdысtaн" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Курдыстан</name>
+		<name normalized="Kюрdiсtaн" languages="Bulgarian">Кюрдистан</name>
+		<name normalized="Uсtoнi Kuрdiсtoн" languages="Tajik">Устони Курдистон</name>
+		<name normalized="כvrדיסtן" languages="Hebrew">כורדיסטן</name>
+		<name normalized="מhvז כvrדיסtאן" languages="Hebrew">מחוז כורדיסתאן</name>
+		<name normalized="qvrדיסtאן" languages="Yiddish">קורדיסטאן</name>
+		<name normalized="אسtאن کrدسtאن" languages="Persian">استان کردستان</name>
+		<name normalized="sوbہ کrدسtאن" languages="Urdu;Western Punjabi">صوبہ کردستان</name>
+		<name normalized="krدسtאن" languages="Arabic">كردستان</name>
+		<name normalized="krدسtאن אلkbrى" languages="Arabic">كردستان الكبرى</name>
+		<name normalized="kوrدسtאن" languages="Egyptian Spoken Arabic">كوردستان</name>
+		<name normalized="kۇrدىسtאن" languages="Uyghur">كۇردىستان</name>
+		<name normalized="pאrێزgאی کوrدسtאن" languages="Sorani Kurdish">پارێزگای کوردستان</name>
+		<name normalized="کrدسtאن" languages="Persian;Urdu;Western Punjabi">کردستان</name>
+		<name normalized="کوrدسtאن" languages="Pashto;Sorani Kurdish">کوردستان</name>
+		<name normalized="کوrدسtאن אوسtאن" languages="Mazanderani">کوردستان اوستان</name>
+		<name normalized="کوrدسtون" languages="Mazanderani">کوردستون</name>
+		<name normalized="kur्dis्tाn" languages="Hindi;Marathi">कुर्दिस्तान</name>
+		<name normalized="kur्dis्tाn p्rांt" languages="Hindi;Marathi">कुर्दिस्तान प्रांत</name>
+		<name normalized="kur্dis্tাn" languages="Bengali">কুর্দিস্তান</name>
+		<name normalized="kor্des্tn p্rdes" languages="Bengali">কোর্দেস্তন প্রদেশ</name>
+		<name normalized="kurdistਾn" languages="Punjabi">ਕੁਰਦਿਸਤਾਨ</name>
+		<name normalized="குர்திசுத்தான்" languages="Tamil">குர்திசுத்தான்</name>
+		<name normalized="เคอร์ดิสถาน" languages="Thai">เคอร์ดิสถาน</name>
+		<name normalized="ქურთისტანი" languages="Georgian">ქურთისტანი</name>
+		<name normalized="ქურთისტანის ოსტანი" languages="Georgian">ქურთისტანის ოსტანი</name>
+		<name normalized="krdistn" languages="Japanese">クルディスタン</name>
+		<name normalized="krdstーn州" languages="Japanese">コルデスターン州</name>
+		<name normalized="庫爾德斯坦" languages="Cantonese;Chinese">庫爾德斯坦</name>
+		<name normalized="庫爾德斯坦省" languages="Chinese">庫爾德斯坦省</name>
+		<name normalized="코르데스탄 주" languages="Korean">코르데스탄 주</name>
+		<name normalized="쿠르디스탄" languages="Korean">쿠르디스탄</name>
+	</region>
+	<region name="Lorestan" type="province" typeTranslated="ostan">
+		<name normalized="Lorestan" languages="Basque;Dutch;English;French;German;Italian;Malay;official;Polish;Swedish;Vietnamese">Lorestan</name>
+		<name normalized="Lorestan Ostan" languages="English;official">Lorestan Ostan</name>
+		<name normalized="Lorestan Province" languages="English;official;Scots">Lorestan Province</name>
+		<name normalized="Lorestano" languages="Esperanto">Lorestano</name>
+		<name normalized="Lorestan" languages="Czech;Spanish">Lorestán</name>
+		<name normalized="Lorestao" languages="Portuguese">Lorestão</name>
+		<name normalized="Lorestan" languages="Cebuano;Estonian;Finnish;Waray;Welsh">Lorestān</name>
+		<name normalized="Loresztan tartomany" languages="Hungarian">Loresztán tartomány</name>
+		<name normalized="Lurestano provincija" languages="Lithuanian">Lurestano provincija</name>
+		<name normalized="Luristan" languages="Croatian;Danish;Kurdish;Norwegian (bokmal);Serbo-Croatian;Zazaki">Luristan</name>
+		<name normalized="Luristan Eyaleti" languages="Turkish">Luristan Eyaleti</name>
+		<name normalized="Luristan ostanı" languages="Azerbaijani">Luristan ostanı</name>
+		<name normalized="Luristana" languages="Latvian">Luristāna</name>
+		<name normalized="Provincia Lorestan" languages="Romanian">Provincia Lorestan</name>
+		<name normalized="Provinsi Lorestan" languages="Indonesian">Provinsi Lorestān</name>
+		<name normalized="Provincia de Lorestan" languages="Catalan">Província de Lorestan</name>
+		<name normalized="Лoрiсtaн" languages="Macedonian">Лорестан</name>
+		<name normalized="Лuрiсtaн" languages="Bulgarian;Ossetic;Russian;Ukrainian">Лурестан</name>
+		<name normalized="Лuрeсtaн" languages="biлaрuсkai (taрaskivita)‎">Лурэстан</name>
+		<name normalized="Uсtoнi Лuрiсtoн" languages="Tajik">Устони Луристон</name>
+		<name normalized="מhvז דvrסtאן" languages="Hebrew">מחוז לורסתאן</name>
+		<name normalized="אسtאن لrسtאن" languages="Persian">استان لرستان</name>
+		<name normalized="sوbہ لrسtאن" languages="Urdu">صوبہ لرستان</name>
+		<name normalized="sوbہ لوrسtאن" languages="Western Punjabi">صوبہ لورستان</name>
+		<name normalized="لrسtאن" languages="Arabic">لرستان</name>
+		<name normalized="لوrسtאن" languages="Egyptian Spoken Arabic">لورستان</name>
+		<name normalized="pאrێزgאی لوڕسtאن" languages="Sorani Kurdish">پارێزگای لوڕستان</name>
+		<name normalized="luris्tाn" languages="Hindi">लूरिस्तान</name>
+		<name normalized="lores্tাn p্rdes" languages="Bengali">লোরেস্তান প্রদেশ</name>
+		<name normalized="ლურისტანის ოსტანი" languages="Georgian">ლურისტანის ოსტანი</name>
+		<name normalized="rrstーn州" languages="Japanese">ロレスターン州</name>
+		<name normalized="洛雷斯坦省" languages="Chinese">洛雷斯坦省</name>
+		<name normalized="로레스탄 주" languages="Korean">로레스탄 주</name>
+	</region>
+	<region name="Markazi" type="province" typeTranslated="ostan">
+		<name normalized="Markazi" languages="Basque;Cebuano;Croatian;Danish;Dutch;English;French;Galician;German;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Serbo-Croatian;Swedish;Vietnamese;Waray;Welsh">Markazi</name>
+		<name normalized="Markazi Ostan" languages="English;official">Markazi Ostan</name>
+		<name normalized="Markazi Province" languages="English;official;Scots;Simple English">Markazi Province</name>
+		<name normalized="Markazi tartomany" languages="Hungarian">Markazi tartomány</name>
+		<name normalized="Markazi" languages="Czech;Spanish">Markazí</name>
+		<name normalized="Markazi" languages="Finnish;Latvian">Markazī</name>
+		<name normalized="Merkezi Eyaleti" languages="Turkish">Merkezi Eyaleti</name>
+		<name normalized="Merkezio provincija" languages="Lithuanian">Merkezio provincija</name>
+		<name normalized="Merkezi" languages="Kurdish">Merkezî</name>
+		<name normalized="Mərkəzi ostanı" languages="Azerbaijani">Mərkəzi ostanı</name>
+		<name normalized="Provincia Markazi" languages="Romanian">Provincia Markazi</name>
+		<name normalized="Provinco Markazi" languages="Esperanto">Provinco Markazi</name>
+		<name normalized="Provinsi Markazi" languages="Indonesian">Provinsi Markazi</name>
+		<name normalized="Regione di Markazi" languages="Italian">Regione di Markazi</name>
+		<name normalized="Мaрkazi" languages="Bulgarian">Маркажи</name>
+		<name normalized="Мaрkazi" languages="Macedonian">Маркази</name>
+		<name normalized="Мaрkazi" languages="biлaрuсkai (taрaskivita)‎">Марказі</name>
+		<name normalized="Мiрkizi" languages="Ukrainian">Меркезі</name>
+		<name normalized="Uсtoнi Мaрkazi" languages="Tajik">Устони Марказӣ</name>
+		<name normalized="Tiнtрaлoн oсtaн" languages="Ossetic">Централон остан</name>
+		<name normalized="Tiнtрaльный oсtaн" languages="Russian">Центральный остан</name>
+		<name normalized="מhvז מrכזי" languages="Hebrew">מחוז מרכזי</name>
+		<name normalized="אسtאن mrکزی" languages="Persian">استان مرکزی</name>
+		<name normalized="sوbہ خوrאسאن rزאوی" languages="Western Punjabi">صوبہ خوراسان رزاوی</name>
+		<name normalized="sوbہ mrکزی" languages="Urdu">صوبہ مرکزی</name>
+		<name normalized="mrkزy" languages="Arabic;Egyptian Spoken Arabic">مركزي</name>
+		<name normalized="pאrێزgאی mەrکەزی" languages="Sorani Kurdish">پارێزگای مەرکەزی</name>
+		<name normalized="mr्kj़i p्rांt" languages="Hindi">मर्कज़ी प्रांत</name>
+		<name normalized="mাr্kাji p্rdes" languages="Bengali">মার্কাজি প্রদেশ</name>
+		<name normalized="მარკაზის ოსტანი" languages="Georgian">მარკაზის ოსტანი</name>
+		<name normalized="mrkyziー州" languages="Japanese">マルキャズィー州</name>
+		<name normalized="中央省" languages="Chinese">中央省</name>
+		<name normalized="마르카지 주" languages="Korean">마르카지 주</name>
+	</region>
+	<region name="Mazandaran" type="province" typeTranslated="ostan">
+		<name normalized="Mazandaran" languages="Basque;Croatian;Danish;Dutch;English;Italian;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Serbo-Croatian;Swedish;Vietnamese">Mazandaran</name>
+		<name normalized="Mazandaran Ostan" languages="English;official">Mazandaran Ostan</name>
+		<name normalized="Mazandaran ostanı" languages="Azerbaijani">Mazandaran ostanı</name>
+		<name normalized="Mazandaran Province" languages="English;official;Scots;Simple English">Mazandaran Province</name>
+		<name normalized="Mazandarano" languages="Esperanto">Mazandarano</name>
+		<name normalized="Mazandaran" languages="Spanish">Mazandarán</name>
+		<name normalized="Mazanderan" languages="Catalan">Mazanderan</name>
+		<name normalized="Mazanderan" languages="French">Mazandéran</name>
+		<name normalized="Mazenderan" languages="Kurdish;Zazaki">Mazenderan</name>
+		<name normalized="Mazenderan Eyaleti" languages="Turkish">Mazenderan Eyaleti</name>
+		<name normalized="Mazenderano provincija" languages="Lithuanian">Mazenderano provincija</name>
+		<name normalized="Mazandaran" languages="Czech">Mázandarán</name>
+		<name normalized="Mazandaran tartomany" languages="Hungarian">Mázandarán tartomány</name>
+		<name normalized="Mazandaran" languages="Cebuano;Estonian;Finnish;German;Waray">Māzandarān</name>
+		<name normalized="Mazenderana" languages="Latvian">Māzenderāna</name>
+		<name normalized="Provinsi Mazandaran" languages="Indonesian">Provinsi Māzandarān</name>
+		<name normalized="Aсtaн Мaziнdeрaн" languages="Belarusian">Астан Мазендэран</name>
+		<name normalized="Мazaнdaрaн" languages="Bulgarian;biлaрuсkai (taрaskivita)‎">Мазандаран</name>
+		<name normalized="Мaziнdiрaн" languages="Macedonian;Ossetic;Russian;Ukrainian">Мазендеран</name>
+		<name normalized="Uсtoнi Мozaнdaрoн" languages="Tajik">Устони Мозандарон</name>
+		<name normalized="מhvז מאזnדrאן" languages="Hebrew">מחוז מאזנדראן</name>
+		<name normalized="אسtאن mאزندrאن" languages="Persian">استان مازندران</name>
+		<name normalized="sوbہ mאزندrאن" languages="Urdu">صوبہ مازندران</name>
+		<name normalized="mאزrون" languages="Mazanderani">مازرون</name>
+		<name normalized="mאزندrאن" languages="Arabic;Egyptian Spoken Arabic;Gilaki">مازندران</name>
+		<name normalized="mאjندrאن" languages="Western Punjabi">ماژندران</name>
+		<name normalized="pאrێزgאی mאزەندەrאن" languages="Sorani Kurdish">پارێزگای مازەندەران</name>
+		<name normalized="mाj़ंdrाn p्rांt" languages="Hindi">माज़ंदरान प्रांत</name>
+		<name normalized="mाjांdाrाn p्rांt" languages="Marathi">माझांदारान प्रांत</name>
+		<name normalized="mাjাn্dাrাn p্rdes" languages="Bengali">মাজান্দারান প্রদেশ</name>
+		<name normalized="მაზანდარანის ოსტანი" languages="Georgian">მაზანდარანის ოსტანი</name>
+		<name normalized="mーzndrーn州" languages="Japanese">マーザンダラーン州</name>
+		<name normalized="馬贊德蘭省" languages="Chinese">馬贊德蘭省</name>
+		<name normalized="마잔다란 주" languages="Korean">마잔다란 주</name>
+	</region>
+	<region name="Qazvin" type="province" typeTranslated="ostan">
+		<name normalized="Dakbayan sa Qazvin" languages="Cebuano">Dakbayan sa Qazvin</name>
+		<name normalized="Kazvin" languages="Croatian;Esperanto;Hungarian;Serbo-Croatian;Turkish">Kazvin</name>
+		<name normalized="Kazvin Eyaleti" languages="Turkish">Kazvin Eyaleti</name>
+		<name normalized="Kazvin tartomany" languages="Hungarian">Kazvin tartomány</name>
+		<name normalized="Kazvinas" languages="Lithuanian">Kazvinas</name>
+		<name normalized="Kazvino provincija" languages="Lithuanian">Kazvino provincija</name>
+		<name normalized="Kazvinska pokrajina" languages="Croatian;Serbo-Croatian">Kazvinska pokrajina</name>
+		<name normalized="Kazvin" languages="Czech">Kazvín</name>
+		<name normalized="Kazvina" languages="Latvian">Kazvīna</name>
+		<name normalized="Kazwin" languages="Polish">Kazwin</name>
+		<name normalized="Lalawigan ng Qazvin" languages="Tagalog">Lalawigan ng Qazvin</name>
+		<name normalized="Province de Qazvin" languages="French">Province de Qazvin</name>
+		<name normalized="Provincia de Qazvin" languages="Spanish">Provincia de Qazvín</name>
+		<name normalized="Provincia Qazvin" languages="Romanian">Provincia Qazvīn</name>
+		<name normalized="Provinco Kazvin" languages="Esperanto">Provinco Kazvin</name>
+		<name normalized="Provinsi Qazvin" languages="Indonesian">Provinsi Qazvīn</name>
+		<name normalized="Provincia de Qazvin" languages="Catalan">Província de Qazvín</name>
+		<name normalized="Qazvin" languages="Alemannisch;Basque;Cebuano;Danish;Dutch;English;French;German;Indonesian;Italian;Malagasy;Malay;Norwegian (bokmal);official;Portuguese;Romanian;Swedish;Vietnamese;Waray">Qazvin</name>
+		<name normalized="Qazvin Ostan" languages="English;official">Qazvin Ostan</name>
+		<name normalized="Qazvin Province" languages="English;official;Scots">Qazvin Province</name>
+		<name normalized="Qazvin" languages="Catalan;Spanish">Qazvín</name>
+		<name normalized="Qazvin" languages="Finnish;Waray">Qazvīn</name>
+		<name normalized="Qazwen" languages="Kurdish">Qazwên</name>
+		<name normalized="Qəzvin" languages="Azerbaijani">Qəzvin</name>
+		<name normalized="Qəzvin ostanı" languages="Azerbaijani">Qəzvin ostanı</name>
+		<name normalized="Regione di Qazvin" languages="Italian">Regione di Qazvin</name>
+		<name normalized="Aсtaн Kazviн" languages="Belarusian">Астан Казвін</name>
+		<name normalized="Kazviн" languages="Bulgarian;Macedonian;Ossetic;Russian;Serbian">Казвин</name>
+		<name normalized="Kazviн" languages="Ukrainian">Казвін</name>
+		<name normalized="Kazьviн" languages="biлaрuсkai (taрaskivita)‎">Казьвін</name>
+		<name normalized="Uсtoнi Kazviн" languages="Tajik">Устони Қазвин</name>
+		<name normalized="Kazviн" languages="Tajik">Қазвин</name>
+		<name normalized="Ղաzվին" languages="Armenian">Ղազվին</name>
+		<name normalized="מhvז qזvvין" languages="Hebrew">מחוז קזווין</name>
+		<name normalized="אسtאن qزوین" languages="Persian">استان قزوین</name>
+		<name normalized="sوbہ qאزون" languages="Western Punjabi">صوبہ قازون</name>
+		<name normalized="sوbہ qزوین" languages="Urdu">صوبہ قزوین</name>
+		<name normalized="qزوyن" languages="Arabic;Egyptian Spoken Arabic">قزوين</name>
+		<name normalized="qزوین" languages="Mazanderani;Persian;Urdu;Western Punjabi">قزوین</name>
+		<name normalized="qەزوین" languages="Sorani Kurdish">قەزوین</name>
+		<name normalized="pאrێزgאی qەزوین" languages="Sorani Kurdish">پارێزگای قەزوین</name>
+		<name normalized="k़j़्vin p्rांt" languages="Hindi">क़ज़्वीन प्रांत</name>
+		<name normalized="kাjbin p্rdes" languages="Bengali">কাজভিন প্রদেশ</name>
+		<name normalized="กอซวีน" languages="Thai">กอซวีน</name>
+		<name normalized="ყაზვინი" languages="Georgian">ყაზვინი</name>
+		<name normalized="ყაზვინის ოსტანი" languages="Georgian">ყაზვინის ოსტანი</name>
+		<name normalized="gzviーn" languages="Japanese">ガズヴィーン</name>
+		<name normalized="gzviーn州" languages="Japanese">ガズヴィーン州</name>
+		<name normalized="加兹温" languages="Chinese">加兹温</name>
+		<name normalized="加茲溫省" languages="Chinese">加茲溫省</name>
+		<name normalized="카즈빈" languages="Korean">카즈빈</name>
+		<name normalized="카즈빈 주" languages="Korean">카즈빈 주</name>
+	</region>
+	<region name="Qom" type="province" typeTranslated="ostan">
+		<name normalized="Dakbayan sa Qom" languages="Cebuano">Dakbayan sa Qom</name>
+		<name normalized="Ghom" languages="German">Ghom</name>
+		<name normalized="Kom" languages="Croatian;Polish;Serbo-Croatian">Kom</name>
+		<name normalized="Kom tartomany" languages="Hungarian">Kom tartomány</name>
+		<name normalized="Komska pokrajina" languages="Croatian;Serbo-Croatian">Komska pokrajina</name>
+		<name normalized="Kum" languages="Turkish;Turkmen">Kum</name>
+		<name normalized="Kum Eyaleti" languages="Turkish">Kum Eyaleti</name>
+		<name normalized="Kuma" languages="Latvian">Kuma</name>
+		<name normalized="Kumas" languages="Lithuanian">Kumas</name>
+		<name normalized="Kumo provincija" languages="Lithuanian">Kumo provincija</name>
+		<name normalized="Lalawigan ng Qom" languages="Tagalog">Lalawigan ng Qom</name>
+		<name normalized="Province de Qom" languages="French">Province de Qom</name>
+		<name normalized="Provincia de Qom" languages="Spanish">Provincia de Qom</name>
+		<name normalized="Provincia Qom" languages="Romanian">Provincia Qom</name>
+		<name normalized="Provinco Hom" languages="Esperanto">Provinco Ĥom</name>
+		<name normalized="Provinsi Qom" languages="Indonesian">Provinsi Qom</name>
+		<name normalized="Qom" languages="Afrikaans;Basque;Catalan;Cebuano;Czech;Danish;Dutch;English;Estonian;Finnish;French;Indonesian;Italian;Malagasy;Malay;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Spanish;Swedish;Tagalog;Vietnamese;Waray;Welsh">Qom</name>
+		<name normalized="Qom Ostan" languages="English;official">Qom Ostan</name>
+		<name normalized="Qom Province" languages="English;official;Scots;Simple English">Qom Province</name>
+		<name normalized="Qomi provints" languages="Estonian">Qomi provints</name>
+		<name normalized="Qum" languages="Azerbaijani;Zazaki">Qum</name>
+		<name normalized="Qum ostanı" languages="Azerbaijani">Qum ostanı</name>
+		<name normalized="Qum" languages="Kurdish">Qûm</name>
+		<name normalized="Regione di Qom" languages="Italian">Regione di Qom</name>
+		<name normalized="Homo" languages="Esperanto">Ĥomo</name>
+		<name normalized="Koм" languages="Macedonian;Serbian">Ком</name>
+		<name normalized="Kuм" languages="Bulgarian;Ossetic;Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Кум</name>
+		<name normalized="Pokрajiнa Koм" languages="Serbian">Покрајина Ком</name>
+		<name normalized="Uсtoнi Kuм" languages="Tajik">Устони Қум</name>
+		<name normalized="Kuм" languages="Tajik">Қум</name>
+		<name normalized="מhvז qvם" languages="Hebrew">מחוז קום</name>
+		<name normalized="qvם" languages="Hebrew">קום</name>
+		<name normalized="אسtאن qm" languages="Persian">استان قم</name>
+		<name normalized="د qm ولאyt" languages="Pashto">د قم ولايت</name>
+		<name normalized="sوbہ qm" languages="Urdu">صوبہ قم</name>
+		<name normalized="qm" languages="Arabic;Egyptian Spoken Arabic;Pashto;Persian;Urdu;Western Punjabi">قم</name>
+		<name normalized="qm אوسtאن" languages="Mazanderani">قم اوستان</name>
+		<name normalized="qوm" languages="Western Punjabi">قوم</name>
+		<name normalized="pאrێزgאی qوm" languages="Sorani Kurdish">پارێزگای قوم</name>
+		<name normalized="k़om p्rांt" languages="Hindi">क़ोम प्रांत</name>
+		<name normalized="kom p্rdes" languages="Bengali">কোম প্রদেশ</name>
+		<name normalized="ყუმის ოსტანი" languages="Georgian">ყუმის ოსტანი</name>
+		<name normalized="gm" languages="Japanese">ゴム</name>
+		<name normalized="gm州" languages="Japanese">ゴム州</name>
+		<name normalized="库姆" languages="Chinese">库姆</name>
+		<name normalized="庫姆省" languages="Chinese">庫姆省</name>
+		<name normalized="쿰" languages="Korean">쿰</name>
+		<name normalized="쿰 주" languages="Korean">쿰 주</name>
+	</region>
+	<region name="Semnan" type="province" typeTranslated="ostan">
+		<name normalized="Dakbayan sa Semnan" languages="Cebuano">Dakbayan sa Semnān</name>
+		<name normalized="Lalawigan ng Semnan" languages="Tagalog">Lalawigan ng Semnān</name>
+		<name normalized="Province de Semnan" languages="French">Province de Semnan</name>
+		<name normalized="Provincia de Semnan" languages="Galician">Provincia de Semnan</name>
+		<name normalized="Provincia de Semnan" languages="Spanish">Provincia de Semnán</name>
+		<name normalized="Provinco Semnan" languages="Esperanto">Provinco Semnan</name>
+		<name normalized="Provinsi Semnan" languages="Indonesian">Provinsi Semnān</name>
+		<name normalized="Provincia de Semnan" languages="Catalan">Província de Semnan</name>
+		<name normalized="Regione di Semnan" languages="Italian">Regione di Semnan</name>
+		<name normalized="Semnan" languages="Basque;Catalan;Croatian;Danish;Dutch;English;French;German;Italian;Malagasy;Norwegian (bokmal);official;Piedmontese;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Swedish;Waray">Semnan</name>
+		<name normalized="Semnan Ostan" languages="English;official">Semnan Ostan</name>
+		<name normalized="Semnan Province" languages="English;official;Scots;Simple English">Semnan Province</name>
+		<name normalized="Semnano provincija" languages="Lithuanian">Semnano provincija</name>
+		<name normalized="Semnanska pokrajina" languages="Croatian;Serbo-Croatian">Semnanska pokrajina</name>
+		<name normalized="Semnan" languages="Czech;Spanish">Semnán</name>
+		<name normalized="Semnan" languages="Cebuano;Finnish;Waray;Welsh">Semnān</name>
+		<name normalized="Semnana" languages="Latvian">Semnāna</name>
+		<name normalized="Simnan" languages="Azerbaijani;Kurdish;Turkish;Zazaki">Simnan</name>
+		<name normalized="Simnan Eyaleti" languages="Turkish">Simnan Eyaleti</name>
+		<name normalized="Simnan ostanı" languages="Azerbaijani">Simnan ostanı</name>
+		<name normalized="Symnun" languages="Silesian">Symnůn</name>
+		<name normalized="Szemnan" languages="Hungarian">Szemnán</name>
+		<name normalized="Szemnan tartomany" languages="Hungarian">Szemnán tartomány</name>
+		<name normalized="Wilayah Semnan" languages="Malay">Wilayah Semnan</name>
+		<name normalized="Сiмнaн" languages="Bulgarian;Macedonian;Ossetic;Russian;Serbian;Ukrainian">Семнан</name>
+		<name normalized="Сiмнoн" languages="Tajik">Симнон</name>
+		<name normalized="Сeмнaн" languages="biлaрuсkai (taрaskivita)‎">Сэмнан</name>
+		<name normalized="Uсtoнi Сiмнoн" languages="Tajik">Устони Симнон</name>
+		<name normalized="מhvז סמnאן" languages="Hebrew">מחוז סמנאן</name>
+		<name normalized="סמnאן" languages="Hebrew">סמנאן</name>
+		<name normalized="אسtאن سmنאن" languages="Persian">استان سمنان</name>
+		<name normalized="سmنאن" languages="Arabic;Egyptian Spoken Arabic;Mazanderani;Persian;Sorani Kurdish;Urdu;Western Punjabi">سمنان</name>
+		<name normalized="sوbہ سmنאن" languages="Urdu;Western Punjabi">صوبہ سمنان</name>
+		<name normalized="mدyنة سmنאن" languages="Arabic">مدينة سمنان</name>
+		<name normalized="pאrێزgאی سmنאن" languages="Sorani Kurdish">پارێزگای سمنان</name>
+		<name normalized="semnाn p्rांt" languages="Hindi;Marathi">सेमनान प्रांत</name>
+		<name normalized="sem্‌nn p্rdes" languages="Bengali">সেম্‌নন প্রদেশ</name>
+		<name normalized="სემნანის ოსტანი" languages="Georgian">სემნანის ოსტანი</name>
+		<name normalized="smnーn" languages="Japanese">セムナーン</name>
+		<name normalized="smnーn州" languages="Japanese">セムナーン州</name>
+		<name normalized="塞姆南市" languages="Chinese">塞姆南市</name>
+		<name normalized="塞姆南省" languages="Chinese">塞姆南省</name>
+		<name normalized="셈난" languages="Korean">셈난</name>
+		<name normalized="셈난 주" languages="Korean">셈난 주</name>
+	</region>
+	<region name="Sistan va Baluchestan" type="province" typeTranslated="ostan">
+		<name normalized="Mkoa wa Sistan na Baluchistan" languages="Swahili">Mkoa wa Sistan na Baluchistan</name>
+		<name normalized="Provincia Sistan-Baluchestan" languages="Romanian">Provincia Sistan-Baluchestan</name>
+		<name normalized="Provinco Sistano kaj Balucistano" languages="Esperanto">Provinco Sistano kaj Baluĉistano</name>
+		<name normalized="Provinsi Sistan dan Baluchestan" languages="Indonesian">Provinsi Sistan dan Baluchestan</name>
+		<name normalized="Seistan-o-Balouchestan" languages="French">Seistan-o-Balouchestan</name>
+		<name normalized="Sistan an Baluchestan Province" languages="Scots">Sistan an Baluchestan Province</name>
+		<name normalized="Sistan and Baluchestan Province" languages="English;Simple English">Sistan and Baluchestan Province</name>
+		<name normalized="Sistan dan Baluchestan" languages="Malay">Sistan dan Baluchestan</name>
+		<name normalized="Sistan e Baluchistan" languages="Italian">Sistan e Baluchistan</name>
+		<name normalized="Sistan en Beloetsjistan" languages="Dutch">Sistan en Beloetsjistan</name>
+		<name normalized="Sistan eta Balutxistan" languages="Basque">Sistan eta Balutxistan</name>
+		<name normalized="Sistan i Balucistan" languages="Serbo-Croatian">Sistan i Balučistan</name>
+		<name normalized="Sistan i Beludzystan" languages="Polish">Sistan i Beludżystan</name>
+		<name normalized="Sistan i Beludzistan" languages="Croatian">Sistan i Beludžistan</name>
+		<name normalized="Sistan ngan Baluchestan" languages="Waray">Sistan ngan Baluchestan</name>
+		<name normalized="Sistan och Baluchistan" languages="Swedish">Sistan och Baluchistan</name>
+		<name normalized="Sistan og Baluchistan" languages="Danish">Sistan og Baluchistan</name>
+		<name normalized="Sistan og Balutsjistan" languages="Norwegian (bokmal)">Sistan og Balutsjistan</name>
+		<name normalized="Sistan u Belucıstan" languages="Zazaki">Sistan u Beluçıstan</name>
+		<name normalized="Sistan und Belutschistan" languages="German">Sistan und Belutschistan</name>
+		<name normalized="Sistan va Baluchestan" languages="English;official">Sistan va Baluchestan</name>
+		<name normalized="Sistan va Baluchestan Ostan" languages="English;official">Sistan va Baluchestan Ostan</name>
+		<name normalized="Sistan va Baluchestan Province" languages="English;official">Sistan va Baluchestan Province</name>
+		<name normalized="Sistan ve Belucistan Eyaleti" languages="Turkish">Sistan ve Belucistan Eyaleti</name>
+		<name normalized="Sistan və Bəlucistan ostanı" languages="Azerbaijani">Sistan və Bəlucistan ostanı</name>
+		<name normalized="Sistano ir Beludzistano provincija" languages="Lithuanian">Sistano ir Beludžistano provincija</name>
+		<name normalized="Sistan y Baluchistan" languages="Spanish">Sistán y Baluchistán</name>
+		<name normalized="Sistao-Baluchistao" languages="Portuguese">Sistão-Baluchistão</name>
+		<name normalized="Sistan o Balucestan" languages="Cebuano">Sistān o Balucestān</name>
+		<name normalized="Szisztan es Beludzsisztan tartomany" languages="Hungarian">Szisztán és Beludzsisztán tartomány</name>
+		<name normalized="Sistan a Balucistan" languages="Czech">Sístán a Balúčistán</name>
+		<name normalized="Sistan u Belucistan" languages="Kurdish">Sîstan û Belûçistan</name>
+		<name normalized="Sistan ja Baluchestan" languages="Finnish">Sīstān ja Balūchestān</name>
+		<name normalized="Sistan va Baluchestan" languages="Estonian">Sīstān va Balūchestān</name>
+		<name normalized="Sistana un Beludzistana" languages="Latvian">Sīstāna un Beludžistāna</name>
+		<name normalized="Tinh Sistan va Baluchestan" languages="Vietnamese">Tỉnh Sistan và Baluchestan</name>
+		<name normalized="Сiсtaн aeмae Biлudziсtaн" languages="Ossetic">Систан æмæ Белуджистан</name>
+		<name normalized="Сiсtaн i Baлudziсtaн" languages="Macedonian">Систан и Балуџистан</name>
+		<name normalized="Сiсtaн i Biлudziсtaн" languages="Russian">Систан и Белуджистан</name>
+		<name normalized="Сiсtaн i Biлudziсtaн" languages="Ukrainian">Систан і Белуджистан</name>
+		<name normalized="Сысtaн i Baлucысtaн" languages="biлaрuсkai (taрaskivita)‎">Сыстан і Балучыстан</name>
+		<name normalized="Uсtoнi Сiсtoнu Baлuciсtoн" languages="Tajik">Устони Сестону Балӯчистон</name>
+		<name normalized="מhvז סיסtאן vbדvצ'סtאן" languages="Hebrew">מחוז סיסתאן ובלוצ'סתאן</name>
+		<name normalized="אسtאن سیسtאن و bلوچسtאن" languages="Persian">استان سیستان و بلوچستان</name>
+		<name normalized="د سyسtאن אو bلوچسtאن ولאyt" languages="Pashto">د سيستان او بلوچستان ولايت</name>
+		<name normalized="سyسtאن و bلوtشسtאن" languages="Egyptian Spoken Arabic">سيستان و بلوتشستان</name>
+		<name normalized="سyسtאن وbلوtشسtאن" languages="Arabic">سيستان وبلوتشستان</name>
+		<name normalized="sوbہ سیسtאن و bلوچسtאن" languages="Urdu;Western Punjabi">صوبہ سیستان و بلوچستان</name>
+		<name normalized="pאrێزgאی سێسtאن و bەلۆچسtאن" languages="Sorani Kurdish">پارێزگای سێستان و بەلۆچستان</name>
+		<name normalized="sis्tाn ar blucis्tाn" languages="Hindi">सिस्तान और बलूचिस्तान</name>
+		<name normalized="sis्tाn v blucis्tाn p्rांt" languages="Marathi">सिस्तान व बलुचिस्तान प्रांत</name>
+		<name normalized="sis্tn o bাluces্tn p্rdes" languages="Bengali">সিস্তন ও বালুচেস্তন প্রদেশ</name>
+		<name normalized="சிச்தான் மற்றும் பலுசிஸ்த்தான் மாகாணம்" languages="Tamil">சிச்தான் மற்றும் பலுசிஸ்த்தான் மாகாணம்</name>
+		<name normalized="სისტანი და ბელუჯისტანის ოსტანი" languages="Georgian">სისტანი და ბელუჯისტანის ოსტანი</name>
+		<name normalized="siーstーn・brーtestーn州" languages="Japanese">スィースターン・バルーチェスターン州</name>
+		<name normalized="錫斯坦-俾路支斯坦省" languages="Chinese">錫斯坦－俾路支斯坦省</name>
+		<name normalized="시스탄오발루체스탄 주" languages="Korean">시스탄오발루체스탄 주</name>
+	</region>
+	<region name="Tehran" type="province" typeTranslated="ostan">
+		<name normalized="Dakbayan sa Teheran" languages="Cebuano">Dakbayan sa Teheran</name>
+		<name normalized="Lalawigan ng Teheran" languages="Tagalog">Lalawigan ng Teherán</name>
+		<name normalized="Province de Teheran" languages="French">Province de Téhéran</name>
+		<name normalized="Provincia de Teheran" languages="Spanish">Provincia de Teherán</name>
+		<name normalized="Provincia Tehran" languages="Romanian">Provincia Tehran</name>
+		<name normalized="Provinco Teherano" languages="Esperanto">Provinco Teherano</name>
+		<name normalized="Provinsi Tehran" languages="Indonesian">Provinsi Tehran</name>
+		<name normalized="Regione di Teheran" languages="Italian">Regione di Teheran</name>
+		<name normalized="Tahraan" languages="Somali">Tahraan</name>
+		<name normalized="Tahran" languages="Turkish">Tahran</name>
+		<name normalized="Tahran Eyaleti" languages="Turkish">Tahran Eyaleti</name>
+		<name normalized="Teera" languages="Portuguese">Teerã</name>
+		<name normalized="Teerao" languages="Portuguese">Teerão</name>
+		<name normalized="Teheran" languages="Afrikaans;Alemannisch;Basque;Bosnian;Catalan;Cebuano;Croatian;Danish;Dutch;Estonian;Faroese;Finnish;German;Haitian;Icelandic;Indonesian;Interlingue;Irish;Italian;Javanese;Ligure;lumbaart;Luxembourgish;Malagasy;Malay;Neapolitan;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Occitan;Papiamento;Piedmontese;Polish;Romanian;Romansh;Sardinian;Serbo-Croatian;Sicilian;Silesian;Slovenian;Swedish;tarandine;Upper Sorbian;Voro;Western Frisian">Teheran</name>
+		<name normalized="Teheranas" languages="Lithuanian">Teheranas</name>
+		<name normalized="Teherango probintzia" languages="Basque">Teherango probintzia</name>
+		<name normalized="Teherani" languages="Albanian">Teherani</name>
+		<name normalized="Teherano provincija" languages="Lithuanian">Teherano provincija</name>
+		<name normalized="Teherans" languages="Samogitian">Teherans</name>
+		<name normalized="Teheranska pokrajina" languages="Croatian;Serbo-Croatian">Teheranska pokrajina</name>
+		<name normalized="Teheranum" languages="Latin">Teheranum</name>
+		<name normalized="Teheran" languages="Aragonese;Czech;Extremaduran;Galician;Hungarian;Slovak;Spanish;Tagalog">Teherán</name>
+		<name normalized="Teheran tartomany" languages="Hungarian">Teherán tartomány</name>
+		<name normalized="Teherana" languages="Latvian">Teherāna</name>
+		<name normalized="Tehran" languages="Azerbaijani;Bikol Central;Breton;Chinese (Min Nan);Cornish;Crimean Turkish;English;Fiji Hindi;Ido;Iloko;Interlingua;Kalaallisut;Kara-Kalpak;Kurdish;Maori;official;Quechua;Scots;Scottish Gaelic;Shona;Simple English;Swahili;Vietnamese;Volapuk;Waray;Welsh;Yoruba;Zazaki">Tehran</name>
+		<name normalized="Tehran Ostan" languages="English;official">Tehran Ostan</name>
+		<name normalized="Tehran ostanı" languages="Azerbaijani">Tehran ostanı</name>
+		<name normalized="Tehran Province" languages="English;official;Scots;Simple English">Tehran Province</name>
+		<name normalized="Tehrano" languages="Esperanto">Tehrano</name>
+		<name normalized="Tehron" languages="Uzbek">Tehron</name>
+		<name normalized="Tehran" languages="Finnish;Nahuatl">Tehrān</name>
+		<name normalized="Teran" languages="Novial">Teran</name>
+		<name normalized="Tahran" languages="Turkmen">Tähran</name>
+		<name normalized="Tehran" languages="Achinese">Tèhran</name>
+		<name normalized="Teheran" languages="French">Téhéran</name>
+		<name normalized="Τεχερανη" languages="Greek">Τεχεράνη</name>
+		<name normalized="Goрad Tegiрaн" languages="Belarusian">Горад Тэгеран</name>
+		<name normalized="Pokрajiнa Tikiрaн" languages="Serbian">Покрајина Техеран</name>
+		<name normalized="Taekрaн" languages="Ossetic">Тæхран</name>
+		<name normalized="Tigiрaн" languages="Bashkir;Chechen;Chuvash;Eastern Mari;Kazakh;Mongolian;Russian;Rusyn;Sakha;Ukrainian">Тегеран</name>
+		<name normalized="Tigьрaн" languages="Lezghian">Тегьран</name>
+		<name normalized="Tikiрaн" languages="Bulgarian;Macedonian;Serbian">Техеран</name>
+		<name normalized="Tihрoн" languages="Tajik">Теҳрон</name>
+		<name normalized="Tegiрaн" languages="biлaрuсkai (taрaskivita)‎">Тэгеран</name>
+		<name normalized="Təһрaн" languages="Tatar">Тәһран</name>
+		<name normalized="Uсtoнi Tihрoн" languages="Tajik">Устони Теҳрон</name>
+		<name normalized="Tեhrան" languages="Armenian">Թեհրան</name>
+		<name normalized="thrאן" languages="Hebrew">טהראן</name>
+		<name normalized="tעhrאן" languages="Yiddish">טעהראן</name>
+		<name normalized="מhvז thrאן" languages="Hebrew">מחוז טהראן</name>
+		<name normalized="אسtאن thrאن" languages="Persian">استان تهران</name>
+		<name normalized="tאrאن" languages="Sorani Kurdish">تاران</name>
+		<name normalized="thrאن" languages="Pashto;Persian">تهران</name>
+		<name normalized="thrאن אوسtאن" languages="Mazanderani">تهران اوستان</name>
+		<name normalized="thrون" languages="Mazanderani">تهرون</name>
+		<name normalized="tہrאن" languages="Urdu;Western Punjabi">تہران</name>
+		<name normalized="tېھrאن" languages="Uyghur">تېھران</name>
+		<name normalized="sوbہ tہrאن" languages="Urdu;Western Punjabi">صوبہ تہران</name>
+		<name normalized="thrאن" languages="Arabic;Egyptian Spoken Arabic">طهران</name>
+		<name normalized="pאrێزgאی tאrאن" languages="Sorani Kurdish">پارێزگای تاران</name>
+		<name normalized="ܛܗܪܐܢ" languages="Aramaic">ܛܗܪܐܢ</name>
+		<name normalized="tehrाn" languages="Hindi;Marathi">तेहरान</name>
+		<name normalized="tehrाn p्rांt" languages="Hindi;Marathi">तेहरान प्रांत</name>
+		<name normalized="tehrাn" languages="Bengali">তেহরান</name>
+		<name normalized="tehrাn p্rdes" languages="Bengali">তেহরান প্রদেশ</name>
+		<name normalized="thirਾn" languages="Punjabi">ਤਹਿਰਾਨ</name>
+		<name normalized="ତେହେରାନ" languages="Oriya">ତେହେରାନ</name>
+		<name normalized="தெஹ்ரான்" languages="Tamil">தெஹ்ரான்</name>
+		<name normalized="టెహరాన్" languages="Telugu">టెహరాన్</name>
+		<name normalized="ತೆಹ್ರಾನ್" languages="Kannada">ತೆಹ್ರಾನ್</name>
+		<name normalized="ടെഹ്റാൻ" languages="Malayalam">ടെഹ്റാൻ</name>
+		<name normalized="เตหะราน" languages="Thai">เตหะราน</name>
+		<name normalized="ཏེ་ཧི་རན།" languages="Tibetan">ཏེ་ཧི་རན།</name>
+		<name normalized="တီဟီရန်မြို့" languages="Burmese">တီဟီရန်မြို့</name>
+		<name normalized="თეირანი" languages="Georgian">თეირანი</name>
+		<name normalized="თეირანის ოსტანი" languages="Georgian">თეირანის ოსტანი</name>
+		<name normalized="ቴህራን" languages="Amharic">ቴህራን</name>
+		<name normalized="thrn" languages="Japanese">テヘラン</name>
+		<name normalized="thrn州" languages="Japanese">テヘラン州</name>
+		<name normalized="德黑兰" languages="Chinese;Wu">德黑兰</name>
+		<name normalized="德黑蘭" languages="Cantonese">德黑蘭</name>
+		<name normalized="德黑蘭省" languages="Chinese">德黑蘭省</name>
+		<name normalized="테헤란" languages="Korean">테헤란</name>
+		<name normalized="테헤란 주" languages="Korean">테헤란 주</name>
+	</region>
+	<region name="Yazd" type="province" typeTranslated="ostan">
+		<name normalized="Dakbayan sa Yazd" languages="Cebuano">Dakbayan sa Yazd</name>
+		<name normalized="Jazd" languages="Croatian;Czech;Hungarian;Polish;Serbo-Croatian">Jazd</name>
+		<name normalized="Jazd tartomany" languages="Hungarian">Jazd tartomány</name>
+		<name normalized="Jazdo" languages="Esperanto">Jazdo</name>
+		<name normalized="Jazdska pokrajina" languages="Croatian;Serbo-Croatian">Jazdska pokrajina</name>
+		<name normalized="Jezda" languages="Latvian">Jezda</name>
+		<name normalized="Jezdas" languages="Lithuanian">Jezdas</name>
+		<name normalized="Jezdo provincija" languages="Lithuanian">Jezdo provincija</name>
+		<name normalized="Lalawigan ng Yazd" languages="Tagalog">Lalawigan ng Yazd</name>
+		<name normalized="Province de Yazd" languages="French">Province de Yazd</name>
+		<name normalized="Provincia de Yazd" languages="Spanish">Provincia de Yazd</name>
+		<name normalized="Provinco Jazd" languages="Esperanto">Provinco Jazd</name>
+		<name normalized="Provinsi Yazd" languages="Indonesian">Provinsi Yazd</name>
+		<name normalized="Regione di Yazd" languages="Italian">Regione di Yazd</name>
+		<name normalized="Yasd" languages="Alemannisch">Yasd</name>
+		<name normalized="Yazd" languages="Basque;Cebuano;Danish;Dutch;English;Finnish;French;German;Indonesian;Italian;Ladino;Malagasy;Malay;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Slovenian;Spanish;Swedish;Tagalog;Vietnamese;Waray">Yazd</name>
+		<name normalized="Yazd Ostan" languages="English;official">Yazd Ostan</name>
+		<name normalized="Yazd Province" languages="English;official;Scots">Yazd Province</name>
+		<name normalized="Yezd" languages="Catalan;Kurdish;Turkish;Zazaki">Yezd</name>
+		<name normalized="Yezd Eyaleti" languages="Turkish">Yezd Eyaleti</name>
+		<name normalized="Yəzd" languages="Azerbaijani">Yəzd</name>
+		<name normalized="Yəzd ostanı" languages="Azerbaijani">Yəzd ostanı</name>
+		<name normalized="Γιαζντ" languages="Greek">Γιαζντ</name>
+		<name normalized="Йizd" languages="Kazakh;Russian">Йезд</name>
+		<name normalized="Pokрajiнa Jazd" languages="Serbian">Покрајина Јазд</name>
+		<name normalized="Uсtoнi Яzd" languages="Tajik">Устони Язд</name>
+		<name normalized="Яzd" languages="Tajik;Ukrainian;biлaрuсkai (taрaskivita)‎">Язд</name>
+		<name normalized="Ezd" languages="Ukrainian">Єзд</name>
+		<name normalized="Jazd" languages="Macedonian;Serbian">Јазд</name>
+		<name normalized="Յաzd" languages="Armenian">Յազդ</name>
+		<name normalized="יזד" languages="Hebrew">יזד</name>
+		<name normalized="מhvז יזד" languages="Hebrew">מחוז יזד</name>
+		<name normalized="אسtאن یزد" languages="Persian">استان یزد</name>
+		<name normalized="sوbہ یزد" languages="Urdu">صوبہ یزد</name>
+		<name normalized="yزد" languages="Arabic;Egyptian Spoken Arabic">يزد</name>
+		<name normalized="yزد ولאyt" languages="Pashto">يزد ولايت</name>
+		<name normalized="pאrێزgאی یەزد" languages="Sorani Kurdish">پارێزگای یەزد</name>
+		<name normalized="یزد" languages="Persian;Urdu;Western Punjabi">یزد</name>
+		<name normalized="yj़्d p्rांt" languages="Hindi">यज़्द प्रांत</name>
+		<name normalized="yाj p्rांt" languages="Marathi">याज प्रांत</name>
+		<name normalized="iy়াj্‌d্‌ p্rdes" languages="Bengali">ইয়াজ্‌দ্‌ প্রদেশ</name>
+		<name normalized="იაზდის ოსტანი" languages="Georgian">იაზდის ოსტანი</name>
+		<name normalized="იეზდი" languages="Georgian">იეზდი</name>
+		<name normalized="yzd" languages="Japanese">ヤズド</name>
+		<name normalized="yzd州" languages="Japanese">ヤズド州</name>
+		<name normalized="亚兹德" languages="Chinese">亚兹德</name>
+		<name normalized="亞茲德省" languages="Chinese">亞茲德省</name>
+		<name normalized="야즈드" languages="Korean">야즈드</name>
+		<name normalized="야즈드 주" languages="Korean">야즈드 주</name>
+	</region>
+	<region name="Zanjan" type="province" typeTranslated="ostan">
+		<name normalized="Dakbayan sa Zanjan" languages="Cebuano">Dakbayan sa Zanjān</name>
+		<name normalized="Lalawigan ng Zanjan" languages="Tagalog">Lalawigan ng Zanjān</name>
+		<name normalized="Province de Zanjan" languages="French">Province de Zanjan</name>
+		<name normalized="Provincia de Zanyan" languages="Spanish">Provincia de Zanyán</name>
+		<name normalized="Provincia Zanjan" languages="Romanian">Provincia Zanjan</name>
+		<name normalized="Provinco Zangan" languages="Esperanto">Provinco Zanĝan</name>
+		<name normalized="Provinsi Zanjan" languages="Indonesian">Provinsi Zanjan</name>
+		<name normalized="Regione di Zanjan" languages="Italian">Regione di Zanjan</name>
+		<name normalized="Zandschan" languages="German">Zandschan</name>
+		<name normalized="Zandzsan tartomany" languages="Hungarian">Zandzsán tartomány</name>
+		<name normalized="Zandzan" languages="Polish">Zandżan</name>
+		<name normalized="Zandzan" languages="Croatian;Serbo-Croatian">Zandžan</name>
+		<name normalized="Zandzanska pokrajina" languages="Croatian;Serbo-Croatian">Zandžanska pokrajina</name>
+		<name normalized="Zandzan" languages="Czech">Zandžán</name>
+		<name normalized="Zandzana" languages="Latvian">Zandžāna</name>
+		<name normalized="Zanjan" languages="Basque;Catalan;Danish;Dutch;English;French;Indonesian;Italian;Malagasy;Malay;Norwegian (bokmal);official;Portuguese;Romanian;Swedish;Vietnamese;Waray">Zanjan</name>
+		<name normalized="Zanjan Ostan" languages="English;official">Zanjan Ostan</name>
+		<name normalized="Zanjan Province" languages="English;official;Scots">Zanjan Province</name>
+		<name normalized="Zanjan" languages="Cebuano;Finnish">Zanjān</name>
+		<name normalized="Zanyan" languages="Spanish">Zanyán</name>
+		<name normalized="Zencan" languages="Turkish">Zencan</name>
+		<name normalized="Zencan Eyaleti" languages="Turkish">Zencan Eyaleti</name>
+		<name normalized="Zendzano provincija" languages="Lithuanian">Zendžano provincija</name>
+		<name normalized="Zengan" languages="Kurdish">Zengan</name>
+		<name normalized="Zəncan ostanı" languages="Azerbaijani">Zəncan ostanı</name>
+		<name normalized="Goрad Ziнdzaн" languages="Belarusian">Горад Зенджан</name>
+		<name normalized="Zaнdzaн" languages="Bulgarian;biлaрuсkai (taрaskivita)‎">Занджан</name>
+		<name normalized="Zaнiн" languages="Bulgarian">Занян</name>
+		<name normalized="Zaнdzaн" languages="Macedonian;Serbian">Занџан</name>
+		<name normalized="Zaнcoн" languages="Tajik">Занҷон</name>
+		<name normalized="Ziнdzaн" languages="Russian;Ukrainian">Зенджан</name>
+		<name normalized="Pokрajiнa Zaнdzaн" languages="Serbian">Покрајина Занџан</name>
+		<name normalized="Uсtoнi Zaнcoн" languages="Tajik">Устони Занҷон</name>
+		<name normalized="Zանjան" languages="Armenian">Զանջան</name>
+		<name normalized="זnג'אן" languages="Hebrew">זנג'אן</name>
+		<name normalized="מhvז זnג'אן" languages="Hebrew">מחוז זנג'אן</name>
+		<name normalized="אسtאن زنjאن" languages="Persian">استان زنجان</name>
+		<name normalized="زאنjאن" languages="Egyptian Spoken Arabic">زانجان</name>
+		<name normalized="زنjאن" languages="Arabic;Egyptian Spoken Arabic;Persian;Western Punjabi">زنجان</name>
+		<name normalized="زنgאن" languages="Azerbaijani">زنگان</name>
+		<name normalized="زەنgאن" languages="Sorani Kurdish">زەنگان</name>
+		<name normalized="sوbہ زنjאن" languages="Urdu">صوبہ زنجان</name>
+		<name normalized="pאrێزgאی زەنgאن" languages="Sorani Kurdish">پارێزگای زەنگان</name>
+		<name normalized="j़ंjn p्rांt" languages="Hindi">ज़ंजन प्रांत</name>
+		<name normalized="jাn্‌jn p্rdes" languages="Bengali">জান্‌জন প্রদেশ</name>
+		<name normalized="ზენჯანი" languages="Georgian">ზენჯანი</name>
+		<name normalized="ზენჯანის ოსტანი" languages="Georgian">ზენჯანის ოსტანი</name>
+		<name normalized="znzyーn" languages="Japanese">ザンジャーン</name>
+		<name normalized="znzyーn州" languages="Japanese">ザンジャーン州</name>
+		<name normalized="贊詹省" languages="Chinese">贊詹省</name>
+		<name normalized="赞詹" languages="Chinese">赞詹</name>
+		<name normalized="잔잔" languages="Korean">잔잔</name>
+		<name normalized="잔잔 주" languages="Korean">잔잔 주</name>
+	</region>
+</regions>

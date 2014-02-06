@@ -1,0 +1,961 @@
+<regions country="Italy">
+	<region name="Abruzzo" type="region" typeTranslated="regione">
+		<name normalized="Abbruzze" languages="tarandine">Abbruzze</name>
+		<name normalized="Abbruzzu" languages="Sicilian">Abbruzzu</name>
+		<name normalized="Abrucai" languages="Lithuanian">Abrucai</name>
+		<name normalized="Abruci" languages="Slovenian">Abruci</name>
+		<name normalized="Abruco" languages="Albanian;Esperanto;Latvian">Abruco</name>
+		<name normalized="Abruso" languages="veneto">Abruso</name>
+		<name normalized="Abruss" languages="Piedmontese">Abruss</name>
+		<name normalized="Abrusso" languages="Ligure">Abrusso</name>
+		<name normalized="Abruzes" languages="Franco-Provencal">Abruzes</name>
+		<name normalized="Abruzja" languages="Polish">Abruzja</name>
+		<name normalized="Abruzos" languages="Aragonese;Galician;Portuguese;Spanish">Abruzos</name>
+		<name normalized="Abruzze" languages="Afrikaans">Abruzze</name>
+		<name normalized="Abruzzen" languages="Dutch;German;Western Frisian">Abruzzen</name>
+		<name normalized="Abruzzes" languages="French">Abruzzes</name>
+		<name normalized="Abruzzo" languages="Azerbaijani;Basque;Bikol Central;Bosnian;Breton;Cebuano;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;English;Estonian;Finnish;Hungarian;Iloko;Indonesian;Interlingua;Irish;Italian;Javanese;Kurdish;Ladino;lumbaart;Malay;Neapolitan;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Quechua;Romanian;Sardinian;Scots;Serbo-Croatian;Simple English;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh">Abruzzo</name>
+		<name normalized="Abruzzo Region" languages="English;official">Abruzzo Region</name>
+		<name normalized="Abruzzo Regione" languages="English;official">Abruzzo Regione</name>
+		<name normalized="Abruzzu" languages="Corsican">Abruzzu</name>
+		<name normalized="Abruzzy" languages="Slovak">Abruzzy</name>
+		<name normalized="Abruc" languages="Friulian;Occitan">Abruç</name>
+		<name normalized="Abrucos" languages="Catalan">Abruços</name>
+		<name normalized="Abrozz" languages="Emiliano-Romagnolo">Abrózz</name>
+		<name normalized="Abrutsi" languages="Icelandic">Abrútsi</name>
+		<name normalized="Aprutium" languages="Latin">Aprutium</name>
+		<name normalized="Αμπροuτσο" languages="Greek">Αμπρούτσο</name>
+		<name normalized="Abрuta" languages="Belarusian">Абруца</name>
+		<name normalized="Abрuto" languages="Bulgarian;Serbian">Абруцо</name>
+		<name normalized="Abрutta" languages="biлaрuсkai (taрaskivita)‎">Абруцца</name>
+		<name normalized="Abрutto" languages="Chechen;Chuvash;Kazakh;Ossetic;Russian;Ukrainian">Абруццо</name>
+		<name normalized="Աbrvyccv" languages="Armenian">Աբրուցցո</name>
+		<name normalized="אbrvצv" languages="Hebrew">אברוצו</name>
+		<name normalized="آbrوزو" languages="Urdu">آبروزو</name>
+		<name normalized="أbrوtسو" languages="Arabic">أبروتسو</name>
+		<name normalized="אbrوtزو" languages="Persian">ابروتزو</name>
+		<name normalized="sوbہ אbrززو" languages="Western Punjabi">صوبہ ابرززو</name>
+		<name normalized="ab्rut्so" languages="Hindi;Marathi">आब्रुत्सो</name>
+		<name normalized="abrutsੋ" languages="Punjabi">ਆਬਰੂਤਸੋ</name>
+		<name normalized="แคว้นอาบรุซโซ" languages="Thai">แคว้นอาบรุซโซ</name>
+		<name normalized="აბრუცი" languages="Georgian">აბრუცი</name>
+		<name normalized="abrtto州" languages="Japanese">アブルッツォ州</name>
+		<name normalized="阿布鲁佐" languages="Chinese">阿布鲁佐</name>
+		<name normalized="아브루초 주" languages="Korean">아브루초 주</name>
+	</region>
+	<region name="Basilicata" type="region" typeTranslated="regione">
+		<name normalized="Baselecata" languages="Neapolitan">Baselecata</name>
+		<name normalized="Basilicata" languages="Aragonese;Basque;Bikol Central;Bosnian;Breton;Catalan;Cebuano;Chinese (Min Nan);Cornish;Corsican;Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;Franco-Provencal;Galician;Hungarian;Iloko;Indonesian;Interlingua;Irish;Italian;Javanese;Ligure;Malay;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Sardinian;Scots;Serbo-Croatian;Sicilian;Simple English;Slovak;Spanish;Swahili;Swedish;tarandine;Turkish;Vietnamese;Waray;Welsh">Basilicata</name>
+		<name normalized="Basilicata Region" languages="English;official">Basilicata Region</name>
+		<name normalized="Basilicata Regione" languages="English;official">Basilicata Regione</name>
+		<name normalized="Basilicate" languages="French">Basilicate</name>
+		<name normalized="Basilica" languages="Piedmontese">Basilicà</name>
+		<name normalized="Basilikata" languages="German;Ido;Ladino;Western Frisian">Basilikata</name>
+		<name normalized="Basilikato" languages="Esperanto">Basilikato</name>
+		<name normalized="Basilikata" languages="Icelandic">Basilíkata</name>
+		<name normalized="Baxilicata" languages="veneto">Baxiłicata</name>
+		<name normalized="Bazilikata" languages="Albanian;Latvian;Lithuanian;Slovenian">Bazilikata</name>
+		<name normalized="Lucania" languages="Latin">Lucania</name>
+		<name normalized="Lucanie" languages="Friulian">Lucanie</name>
+		<name normalized="Lucagna" languages="Emiliano-Romagnolo">Lucàgna</name>
+		<name normalized="Baziлikatae" languages="Ossetic">Базиликатæ</name>
+		<name normalized="Baziлikata" languages="Bulgarian;Chechen;Chuvash;Kazakh;Russian;Serbian">Базиликата</name>
+		<name normalized="Baziлikata" languages="Ukrainian">Базиліката</name>
+		<name normalized="Bazылikata" languages="biлaрuсkai (taрaskivita)‎">Базыліката</name>
+		<name normalized="Baziлikata" languages="Belarusian">Базіліката</name>
+		<name normalized="bזידיqth" languages="Hebrew">בזיליקטה</name>
+		<name normalized="bאزyلykאtא" languages="Arabic">بازيليكاتا</name>
+		<name normalized="bאزیلیکאtא" languages="Urdu">بازیلیکاتا</name>
+		<name normalized="bאسیلیکאtא" languages="Persian">باسیلیکاتا</name>
+		<name normalized="sوbہ bیسیلیکאٹא" languages="Western Punjabi">صوبہ بیسیلیکاٹا</name>
+		<name normalized="bाj़ilikाtा" languages="Hindi">बाज़िलीकाता</name>
+		<name normalized="bाjilikाtा" languages="Marathi">बाझिलिकाता</name>
+		<name normalized="bਾj਼ilikਾtਾ" languages="Punjabi">ਬਾਜ਼ਿਲੀਕਾਤਾ</name>
+		<name normalized="பசிளிகாதா" languages="Tamil">பசிளிகாதா</name>
+		<name normalized="แคว้นบาซีลีกาตา" languages="Thai">แคว้นบาซีลีกาตา</name>
+		<name normalized="ბაზილიკატა" languages="Georgian">ბაზილიკატა</name>
+		<name normalized="bzrkーt州" languages="Japanese">バジリカータ州</name>
+		<name normalized="巴斯利卡塔" languages="Chinese">巴斯利卡塔</name>
+		<name normalized="바실리카타 주" languages="Korean">바실리카타 주</name>
+	</region>
+	<region name="Calabria" type="region" typeTranslated="regione">
+		<name normalized="Bruttium" languages="Latin">Bruttium</name>
+		<name normalized="Calabbria" languages="Ligure;Sicilian">Calabbria</name>
+		<name normalized="Calabre" languages="French">Calabre</name>
+		<name normalized="Calabria" languages="Aragonese;Basque;Bikol Central;Breton;Cebuano;Chinese (Min Nan);Corsican;English;Estonian;Finnish;Galician;Hungarian;Iloko;Indonesian;Interlingua;Irish;Italian;Javanese;Kurdish;Malay;Nahuatl;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Piedmontese;Romanian;Sardinian;Simple English;Spanish;Swahili;Tagalog;Turkish;Vietnamese;Waray;Welsh">Calabria</name>
+		<name normalized="Calabria Region" languages="English;official">Calabria Region</name>
+		<name normalized="Calabria Regione" languages="English;official">Calabria Regione</name>
+		<name normalized="Calabrie" languages="Franco-Provencal;Friulian;Scots">Calabrie</name>
+		<name normalized="Calabrien" languages="Danish">Calabrien</name>
+		<name normalized="Calabrie" languages="Dutch">Calabrië</name>
+		<name normalized="Calavria" languages="Neapolitan">Calavria</name>
+		<name normalized="Calavrie" languages="tarandine">Calavrie</name>
+		<name normalized="Calabria" languages="Catalan;Occitan">Calàbria</name>
+		<name normalized="Calabria" languages="Portuguese">Calábria</name>
+		<name normalized="Calabria" languages="veneto">Całabria</name>
+		<name normalized="Kalaabrje" languages="Western Frisian">Kalaabrje</name>
+		<name normalized="Kalabri" languages="Cornish">Kalabri</name>
+		<name normalized="Kalabria" languages="Albanian;Ido;Ladino;Polish">Kalabria</name>
+		<name normalized="Kalabrien" languages="German;Swedish">Kalabrien</name>
+		<name normalized="Kalabrija" languages="Bosnian;Croatian;Latvian;Lithuanian;Serbo-Croatian;Slovenian">Kalabrija</name>
+		<name normalized="Kalabrio" languages="Esperanto">Kalabrio</name>
+		<name normalized="Kalabria" languages="Icelandic">Kalabría</name>
+		<name normalized="Kalabria" languages="Slovak">Kalábria</name>
+		<name normalized="Kalabrie" languages="Czech">Kalábrie</name>
+		<name normalized="Καλαβρια" languages="Greek">Καλαβρία</name>
+		<name normalized="Kaлabрi" languages="Chechen;Ossetic">Калабри</name>
+		<name normalized="Kaлabрia" languages="Chuvash">Калабриа</name>
+		<name normalized="Kaлabрii" languages="Bulgarian;Kazakh;Russian;Tajik">Калабрия</name>
+		<name normalized="Kaлabрija" languages="Macedonian;Serbian">Калабрија</name>
+		<name normalized="Kaлabрыi" languages="Belarusian">Калабрыя</name>
+		<name normalized="Kaлabрii" languages="Ukrainian">Калабрія</name>
+		<name normalized="Kaлibрыi" languages="biлaрuсkai (taрaskivita)‎">Калябрыя</name>
+		<name normalized="Kաlաbrիա" languages="Armenian">Կալաբրիա</name>
+		<name normalized="qדbrיh" languages="Hebrew">קלבריה</name>
+		<name normalized="sوbہ کאلאbrیא" languages="Western Punjabi">صوبہ کالابریا</name>
+		<name normalized="qلوryة" languages="Arabic">قلورية</name>
+		<name normalized="کאلאbrیא" languages="Persian">کالابریا</name>
+		<name normalized="کلאbrیא" languages="Urdu">کلابریا</name>
+		<name normalized="kाlाb्riyा" languages="Hindi;Marathi">कालाब्रिया</name>
+		<name normalized="kਾlਾbria" languages="Punjabi">ਕਾਲਾਬਰੀਆ</name>
+		<name normalized="கலபிரியா" languages="Tamil">கலபிரியா</name>
+		<name normalized="แคว้นกาลาเบรีย" languages="Thai">แคว้นกาลาเบรีย</name>
+		<name normalized="კალაბრია" languages="Georgian">კალაბრია</name>
+		<name normalized="krbra州" languages="Japanese">カラブリア州</name>
+		<name normalized="卡拉布里亚" languages="Chinese">卡拉布里亚</name>
+		<name normalized="칼라브리아 주" languages="Korean">칼라브리아 주</name>
+	</region>
+	<region name="Campania" type="region" typeTranslated="regione">
+		<name normalized="Campania" languages="Aragonese;Basque;Bikol Central;Breton;Cebuano;Chinese (Min Nan);Corsican;Danish;Dutch;English;Estonian;Finnish;Galician;Hungarian;Indonesian;Interlingua;Irish;Italian;Javanese;Kikuyu;Latin;Malay;Neapolitan;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Piedmontese;Romanian;Sardinian;Sicilian;Simple English;Spanish;Swahili;Tagalog;tarandine;Turkish;Vietnamese;Waray;Welsh">Campania</name>
+		<name normalized="Campania Region" languages="English;official">Campania Region</name>
+		<name normalized="Campania Regione" languages="English;official">Campania Regione</name>
+		<name normalized="Campanie" languages="Franco-Provencal;French;Friulian;Scots">Campanie</name>
+		<name normalized="Campannia" languages="Ligure">Campannia</name>
+		<name normalized="Campania" languages="Catalan;Occitan">Campània</name>
+		<name normalized="Campania" languages="Portuguese">Campânia</name>
+		<name normalized="Canpania" languages="veneto">Canpania</name>
+		<name normalized="Kampani" languages="Cornish">Kampani</name>
+		<name normalized="Kampania" languages="Albanian;Ido;Ladino;Polish">Kampania</name>
+		<name normalized="Kampanien" languages="Alemannisch;German;Low German;Swedish">Kampanien</name>
+		<name normalized="Kampanija" languages="Bosnian;Croatian;Lithuanian;Serbo-Croatian;Slovenian">Kampanija</name>
+		<name normalized="Kampanio" languages="Esperanto">Kampanio</name>
+		<name normalized="Kampaniya" languages="Azerbaijani">Kampaniya</name>
+		<name normalized="Kampanie" languages="Afrikaans">Kampanië</name>
+		<name normalized="Kampanje" languages="Western Frisian">Kampanje</name>
+		<name normalized="Kampania" languages="Icelandic">Kampanía</name>
+		<name normalized="Kampania" languages="Slovak">Kampánia</name>
+		<name normalized="Kampanie" languages="Czech">Kampánie</name>
+		<name normalized="Kampanija" languages="Latvian">Kampānija</name>
+		<name normalized="Καμπανια" languages="Greek">Καμπανία</name>
+		<name normalized="Kaмpaнi" languages="Chechen;Chuvash;Ossetic">Кампани</name>
+		<name normalized="Kaмpaнii" languages="Bulgarian;Kazakh;Russian">Кампания</name>
+		<name normalized="Kaмpaнija" languages="Macedonian;Serbian">Кампанија</name>
+		<name normalized="Kaмpaнii" languages="Belarusian;Ukrainian;biлaрuсkai (taрaskivita)‎">Кампанія</name>
+		<name normalized="qמpnיh" languages="Hebrew">קמפניה</name>
+		<name normalized="sوbہ کیmpאنیא" languages="Western Punjabi">صوبہ کیمپانیا</name>
+		<name normalized="kאmbאنyא" languages="Arabic">كامبانيا</name>
+		<name normalized="کאmpאنیא" languages="Persian">کامپانیا</name>
+		<name normalized="کmpאنیہ" languages="Urdu">کمپانیہ</name>
+		<name normalized="kांpाniyा" languages="Hindi;Marathi">कांपानिया</name>
+		<name normalized="kাm্pাniy়া" languages="Bengali">কাম্পানিয়া</name>
+		<name normalized="kਾਂpਾnia" languages="Punjabi">ਕਾਂਪਾਨੀਆ</name>
+		<name normalized="แคว้นกัมปาเนีย" languages="Thai">แคว้นกัมปาเนีย</name>
+		<name normalized="კამპანია" languages="Georgian">კამპანია</name>
+		<name normalized="knpna州" languages="Japanese">カンパニア州</name>
+		<name normalized="坎帕尼亚" languages="Chinese">坎帕尼亚</name>
+		<name normalized="캄파니아 주" languages="Korean">캄파니아 주</name>
+	</region>
+	<region name="Emilia-Romagna" type="region" typeTranslated="regione">
+		<name normalized="Aemilia-Romania" languages="Latin">Aemilia-Romania</name>
+		<name normalized="Emilia Romagna" languages="Estonian">Emilia Romagna</name>
+		<name normalized="Emilia Rumagna" languages="Sicilian">Emilia Rumagna</name>
+		<name normalized="Emilia e Romagna" languages="Corsican">Emilia è Romagna</name>
+		<name normalized="Emilia-Romagna" languages="Afrikaans;Basque;Bikol Central;Bosnian;Breton;Cebuano;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Dutch;English;Finnish;German;Ido;Irish;Italian;Javanese;Kikuyu;Ligure;Malay;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Piedmontese;Quechua;Romanian;Sardinian;Scots;Serbo-Croatian;Simple English;Slovak;Swahili;Swedish;tarandine;Turkish;Vietnamese;Waray;Welsh">Emilia-Romagna</name>
+		<name normalized="Emilia-Romagna Region" languages="English;official">Emilia-Romagna Region</name>
+		<name normalized="Emilia-Romagna Regione" languages="English;official">Emilia-Romagna Regione</name>
+		<name normalized="Emilia-Romania" languages="Interlingua;Polish">Emilia-Romania</name>
+		<name normalized="Emilia-Romanja" languages="Albanian">Emilia-Romanja</name>
+		<name normalized="Emilia-Romanya" languages="Aragonese;Ladino">Emilia-Romanya</name>
+		<name normalized="Emilia-Romana" languages="Galician;Spanish">Emilia-Romaña</name>
+		<name normalized="Emilia-Rumagna" languages="lumbaart;Neapolitan">Emilia-Rumagna</name>
+		<name normalized="Emilia-Romagna" languages="Hungarian;Indonesian">Emilia–Romagna</name>
+		<name normalized="Emilie-Romagne" languages="Friulian">Emilie-Romagne</name>
+		<name normalized="Emilija-Romanija" languages="Lithuanian">Emilija-Romanija</name>
+		<name normalized="Emilio-Romanjo" languages="Esperanto">Emilio-Romanjo</name>
+		<name normalized="Emilia-Romanja" languages="Icelandic">Emilía-Rómanja</name>
+		<name normalized="Emilia-Romagna" languages="veneto">Emiłia-Romagna</name>
+		<name normalized="Emylje-Romanje" languages="Western Frisian">Emylje-Romanje</name>
+		<name normalized="Emegglia-Rumagna" languages="Emiliano-Romagnolo">Emégglia-Rumâgna</name>
+		<name normalized="Emilia-Romanha" languages="Occitan;Portuguese">Emília-Romanha</name>
+		<name normalized="Emilia-Romanya" languages="Catalan">Emília-Romanya</name>
+		<name normalized="Emilija-Romanja" languages="Latvian">Emīlija-Romanja</name>
+		<name normalized="Emilie-Romagne" languages="Franco-Provencal">Èmilie-Romagne</name>
+		<name normalized="Emilie-Romagne" languages="French">Émilie-Romagne</name>
+		<name normalized="Εμιλια-Ρομανια" languages="Greek">Εμίλια-Ρομάνια</name>
+		<name normalized="Iмiлii-Рoмaнi" languages="Bulgarian">Емилия-Романя</name>
+		<name normalized="Iмiлija-Рoмana" languages="Macedonian;Serbian">Емилија-Ромања</name>
+		<name normalized="Iмiлii-Рoмaньi" languages="Ukrainian">Емілія-Романья</name>
+		<name normalized="Eмiлi-Рoмaньi" languages="Chuvash;Ossetic">Эмили-Романья</name>
+		<name normalized="Eмiлii-Рoмaньi" languages="Chechen;Kazakh;Russian">Эмилия-Романья</name>
+		<name normalized="Eмiлii-Рaмaньнi" languages="biлaрuсkai (taрaskivita)‎">Эмілія-Раманьня</name>
+		<name normalized="Eмiлii-Рaмaньi" languages="Belarusian">Эмілія-Раманья</name>
+		<name normalized="אמידיh-rvמאnיh" languages="Hebrew">אמיליה-רומאניה</name>
+		<name normalized="إmyلyא-rوmאنyא" languages="Arabic">إميليا-رومانيا</name>
+		<name normalized="אmیلیא-rوmאنیא" languages="Persian">امیلیا-رومانیا</name>
+		<name normalized="אیmیلیא rوmאنیא" languages="Urdu">ایمیلیا رومانیا</name>
+		<name normalized="sوbہ אیmیلیא rوmאنא" languages="Western Punjabi">صوبہ ایمیلیا رومانا</name>
+		<name normalized="emiliyा-romाn्yा" languages="Marathi">एमिलिया-रोमान्या</name>
+		<name normalized="emiliyा-romाnा" languages="Hindi">एमीलिया-रोमाञा</name>
+		<name normalized="ਏmilia-rੋmਾਞਾ" languages="Punjabi">ਏਮੀਲੀਆ-ਰੋਮਾਞਾ</name>
+		<name normalized="எமிலியா-ரோமாஞா" languages="Tamil">எமிலியா-ரோமாஞா</name>
+		<name normalized="แคว้นเอมีเลีย-โรมัญญา" languages="Thai">แคว้นเอมีเลีย-โรมัญญา</name>
+		<name normalized="ემილია-რომანია" languages="Georgian">ემილია-რომანია</name>
+		<name normalized="emra=rmーny州" languages="Japanese">エミリア＝ロマーニャ州</name>
+		<name normalized="艾米利亚-罗马涅" languages="Chinese">艾米利亚-罗马涅</name>
+		<name normalized="에밀리아로마냐 주" languages="Korean">에밀리아로마냐 주</name>
+	</region>
+	<region name="Friuli-Venezia Giulia" type="autonomous region" typeTranslated="regione autonoma">
+		<name normalized="Forum Iulii-Venetia Iulia" languages="Latin">Forum Iulii-Venetia Iulia</name>
+		<name normalized="Friaul-Julisch Venetien" languages="German">Friaul-Julisch Venetien</name>
+		<name normalized="Friol-Venecia Julia" languages="Occitan">Friol-Venècia Júlia</name>
+		<name normalized="Frioul-Venecie j.uliena" languages="Franco-Provencal">Frioul-Vènècie j·ulièna</name>
+		<name normalized="Frioul-Venetie julienne" languages="French">Frioul-Vénétie julienne</name>
+		<name normalized="Friul-Venesia Julia" languages="veneto">Friul-Venesia Julia</name>
+		<name normalized="Friul-Venessia Giulia" languages="Piedmontese">Friul-Venessia Giulia</name>
+		<name normalized="Friul-Veneza Julia" languages="Portuguese">Friul-Veneza Júlia</name>
+		<name normalized="Friul-Venezia Giulia" languages="lumbaart">Friul-Venezia Giulia</name>
+		<name normalized="Friuli Venezzia Giulia" languages="Sicilian">Friuli Venezzia Giulia</name>
+		<name normalized="Friuli e Venezia Ghjulia" languages="Corsican">Friuli è Venezia Ghjulia</name>
+		<name normalized="Friuli-Venecia Chulia" languages="Aragonese">Friuli-Venecia Chulia</name>
+		<name normalized="Friuli-Venecia Julia" languages="Spanish">Friuli-Venecia Julia</name>
+		<name normalized="Friuli-Venecia Xhulia" languages="Albanian">Friuli-Venecia Xhulia</name>
+		<name normalized="Friuli-Venetia Giulia" languages="Interlingua">Friuli-Venetia Giulia</name>
+		<name normalized="Friuli-Venezia Giulia" languages="Bikol Central;Breton;Cebuano;Chinese (Min Nan);Cornish;Danish;Dutch;English;Estonian;Finnish;Ido;Irish;Italian;Javanese;Malay;Neapolitan;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Sardinian;Scots;Simple English;Swahili;Swedish;Turkish;Waray;Welsh">Friuli-Venezia Giulia</name>
+		<name normalized="Friuli-Venezia Julia" languages="Ladino">Friuli-Venezia Julia</name>
+		<name normalized="Friuli-Venezia-Julia" languages="Basque">Friuli-Venezia-Julia</name>
+		<name normalized="Friuli-Veneția Giulia" languages="Romanian">Friuli-Veneția Giulia</name>
+		<name normalized="Friuli-Venecija Dzulija" languages="Latvian">Friuli-Venēcija Džūlija</name>
+		<name normalized="Friuli-Wenecja Julijska" languages="Polish">Friuli-Wenecja Julijska</name>
+		<name normalized="Friulis-Venecija Dzulija" languages="Lithuanian">Friulis-Venecija Džulija</name>
+		<name normalized="Friuli-Venezia Giulia" languages="Hungarian;Indonesian;Vietnamese">Friuli–Venezia Giulia</name>
+		<name normalized="Friulo-Venecio Julia" languages="Esperanto">Friulo-Venecio Julia</name>
+		<name normalized="Friaul" languages="Emiliano-Romagnolo">Friåul</name>
+		<name normalized="Friuli-Venessia Giulia" languages="Ligure">Friùli-Venessia Giulia</name>
+		<name normalized="Friul-Venecia Xulia" languages="Galician">Friúl-Venecia Xulia</name>
+		<name normalized="Friuli" languages="Icelandic">Friúlí</name>
+		<name normalized="Friul-Vignesie Julie" languages="Friulian">Friûl-Vignesie Julie</name>
+		<name normalized="Friuly-Julysk Feneesje" languages="Western Frisian">Friûly-Julysk Feneesje</name>
+		<name normalized="Furlanija-Julijska Krajina" languages="Bosnian;Croatian;Serbo-Croatian">Furlanija-Julijska Krajina</name>
+		<name normalized="Furlansko-Julske Benatsko" languages="Czech">Furlansko-Julské Benátsko</name>
+		<name normalized="Furlansko-Julske Benatky" languages="Slovak">Furlansko-Júlske Benátky</name>
+		<name normalized="Φριουλι-Βενeτσια Τζοuλια" languages="Greek">Φρίουλι-Βενέτσια Τζούλια</name>
+		<name normalized="Фрiuлi-Viнiti-Dzuлi" languages="Chechen;Ossetic">Фриули-Венеци-Джули</name>
+		<name normalized="Фрiuлi-Viнitii-Dzuлii" languages="Kazakh;Russian">Фриули-Венеция-Джулия</name>
+		<name normalized="Фрыuлi-Viнitыi-Dzuлii" languages="Belarusian">Фрыулі-Венецыя-Джулія</name>
+		<name normalized="Фрыўлi-Veнetыi-Dzuлii" languages="biлaрuсkai (taрaskivita)‎">Фрыўлі-Вэнэцыя-Джулія</name>
+		<name normalized="Фрiuлi-Viнitii-Dzuлii" languages="Ukrainian">Фріулі-Венеція-Джулія</name>
+		<name normalized="Фuрлaнija-Juлijсka kрajiнa" languages="Serbian">Фурланија-Јулијска крајина</name>
+		<name normalized="prיvדי-vnציh ג'vדיh" languages="Hebrew">פריולי-ונציה ג'וליה</name>
+		<name normalized="sوbہ frیولی وینیزیא jولیא" languages="Western Punjabi">صوبہ فریولی وینیزیا جولیا</name>
+		<name normalized="fryولy fyنytسyא jولyא" languages="Arabic">فريولي فينيتسيا جوليا</name>
+		<name normalized="frیولی ونtزیא jولیא" languages="Persian">فریولی ونتزیا جولیا</name>
+		<name normalized="frیولی وینیزیא jولیא" languages="Urdu">فریولی وینیزیا جولیا</name>
+		<name normalized="p्ruli-v्henejiyा juliyा" languages="Marathi">फ्रुली-व्हेनेझिया जुलिया</name>
+		<name normalized="ഫ്രിയൂളി-വെനേസിയ ജിയൂളിയ" languages="Malayalam">ഫ്രിയൂളി-വെനേസിയ ജിയൂളിയ</name>
+		<name normalized="แคว้นปกครองตนเองฟรีอูลี-เวเนเซียจูเลีย" languages="Thai">แคว้นปกครองตนเองฟรีอูลี-เวเนเซียจูเลีย</name>
+		<name normalized="ფრიული-ვენეცია-ჯულია" languages="Georgian">ფრიული-ვენეცია-ჯულია</name>
+		<name normalized="hrur=ventia・zyra州" languages="Japanese">フリウリ＝ヴェネツィア・ジュリア州</name>
+		<name normalized="弗留利-威尼斯朱利亚" languages="Chinese">弗留利-威尼斯朱利亚</name>
+		<name normalized="프리울리베네치아줄리아 주" languages="Korean">프리울리베네치아줄리아 주</name>
+	</region>
+	<region name="Lazio" type="region" typeTranslated="regione">
+		<name normalized="Laci" languages="Catalan;Occitan">Laci</name>
+		<name normalized="Lacij" languages="Croatian;Serbo-Croatian;Slovenian">Lacij</name>
+		<name normalized="Lacijus" languages="Lithuanian">Lacijus</name>
+		<name normalized="Lacio" languages="Albanian;Bosnian;Cebuano;Galician;Latvian;Spanish">Lacio</name>
+		<name normalized="Lacion" languages="Franco-Provencal">Lacion</name>
+		<name normalized="Lacjum" languages="Polish">Lacjum</name>
+		<name normalized="Lasio" languages="Azerbaijani">Lasio</name>
+		<name normalized="Lassio" languages="Ligure;Piedmontese">Lassio</name>
+		<name normalized="Latio" languages="Esperanto;Interlingua">Latio</name>
+		<name normalized="Latium" languages="Afrikaans;Alemannisch;Bikol Central;Bosnian;Catalan;English;Estonian;Finnish;French;German;Indonesian;Italian;Javanese;Latin;Malay;Northern Sami;Norwegian (bokmal);official;Picard;Scots;Spanish;Vietnamese;Welsh">Latium</name>
+		<name normalized="Latium Region" languages="English;official">Latium Region</name>
+		<name normalized="Latium Regione" languages="English;official">Latium Regione</name>
+		<name normalized="Latium" languages="Icelandic">Latíum</name>
+		<name normalized="Lazi" languages="Friulian">Lazi</name>
+		<name normalized="Lazio" languages="Aragonese;Basque;Bikol Central;Breton;Chinese (Min Nan);Cornish;Czech;Danish;Dutch;English;Estonian;Finnish;Hungarian;Ido;Irish;Italian;Kurdish;Ladino;Norwegian Nynorsk;official;Pampanga;Romanian;Scots;Simple English;Slovak;Swahili;Swedish;Turkish;Vietnamese;Waray;Welsh;Western Frisian">Lazio</name>
+		<name normalized="Lazio Region" languages="English;official">Lazio Region</name>
+		<name normalized="Lazio Regione" languages="English;official">Lazio Regione</name>
+		<name normalized="Laziu" languages="Corsican">Laziu</name>
+		<name normalized="Lazzio" languages="Neapolitan">Lazzio</name>
+		<name normalized="Lazziu" languages="Sicilian">Lazziu</name>
+		<name normalized="Lasio" languages="lumbaart">Làsio</name>
+		<name normalized="Lacio" languages="Portuguese">Lácio</name>
+		<name normalized="Lazi" languages="Emiliano-Romagnolo">Lâzi</name>
+		<name normalized="Lasio" languages="veneto">Łasio</name>
+		<name normalized="Λατιο" languages="Greek">Λάτιο</name>
+		<name normalized="Лatiй" languages="Russian">Лаций</name>
+		<name normalized="Лatio" languages="Bulgarian;Chechen;Chuvash;Kazakh;Macedonian;Ossetic;Russian;Serbian">Лацио</name>
+		<name normalized="Лatio мuz" languages="Mongolian">Лацио муж</name>
+		<name normalized="Лatыa" languages="Belarusian">Лацыа</name>
+		<name normalized="Лatiй" languages="Ukrainian">Лацій</name>
+		<name normalized="Лatio" languages="Ukrainian">Лаціо</name>
+		<name normalized="Лitыё" languages="biлaрuсkai (taрaskivita)‎">Ляцыё</name>
+		<name normalized="דאtיvם" languages="Hebrew">לאטיום</name>
+		<name normalized="דאציv" languages="Hebrew">לאציו</name>
+		<name normalized="sوbہ لیزیو" languages="Western Punjabi">صوبہ لیزیو</name>
+		<name normalized="لאtزیو" languages="Persian">لاتزیو</name>
+		<name normalized="لאtسyو" languages="Arabic">لاتسيو</name>
+		<name normalized="لאtyوm" languages="Arabic">لاتيوم</name>
+		<name normalized="لאزیو" languages="Urdu">لازیو</name>
+		<name normalized="lाt्siyo" languages="Hindi;Marathi">लात्सियो</name>
+		<name normalized="leटiym" languages="Marathi">लॅटियम</name>
+		<name normalized="lਾtsiਓ" languages="Punjabi">ਲਾਤਸੀਓ</name>
+		<name normalized="แคว้นลาซีโอ" languages="Thai">แคว้นลาซีโอ</name>
+		<name normalized="ლაციო" languages="Georgian">ლაციო</name>
+		<name normalized="rtio州" languages="Japanese">ラツィオ州</name>
+		<name normalized="rtium" languages="Japanese">ラティウム</name>
+		<name normalized="拉齐奥" languages="Chinese">拉齐奥</name>
+		<name normalized="라치오 주" languages="Korean">라치오 주</name>
+		<name normalized="라티움" languages="Korean">라티움</name>
+	</region>
+	<region name="Liguria" type="region" typeTranslated="regione">
+		<name normalized="Liguerje" languages="Western Frisian">Liguerje</name>
+		<name normalized="Liguri" languages="Cornish">Liguri</name>
+		<name normalized="Liguria" languages="Albanian;Aragonese;Asturian;Basque;Bikol Central;Breton;Cebuano;Chinese (Min Nan);Corsican;Danish;English;Finnish;Galician;Hungarian;Ido;Indonesian;Interlingua;Irish;Italian;Javanese;Ladino;Latin;Ligure;Malay;Neapolitan;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Piedmontese;Polish;Quechua;Romanian;Sicilian;Simple English;Spanish;Swahili;tarandine;Vietnamese;Waray;Welsh">Liguria</name>
+		<name normalized="Liguria Region" languages="English;official">Liguria Region</name>
+		<name normalized="Liguria Regione" languages="English;official">Liguria Regione</name>
+		<name normalized="Ligurie" languages="Czech;Franco-Provencal;French;Friulian;Scots">Ligurie</name>
+		<name normalized="Ligurien" languages="German;Swedish">Ligurien</name>
+		<name normalized="Ligurija" languages="Bosnian;Croatian;Serbo-Croatian;Slovenian">Ligurija</name>
+		<name normalized="Ligurio" languages="Esperanto">Ligurio</name>
+		<name normalized="Ligurie" languages="Afrikaans;Dutch">Ligurië</name>
+		<name normalized="Ligurya" languages="Turkish">Ligurya</name>
+		<name normalized="Liguuria" languages="Estonian">Liguuria</name>
+		<name normalized="Liguria" languages="Catalan;Occitan;Portuguese;Slovak">Ligúria</name>
+		<name normalized="Liguria" languages="Emiliano-Romagnolo">Ligûria</name>
+		<name normalized="Liguria" languages="lumbaart">Ligüria</name>
+		<name normalized="Ligurija" languages="Latvian;Lithuanian">Ligūrija</name>
+		<name normalized="Liguria" languages="Icelandic">Lígúría</name>
+		<name normalized="Liguria" languages="veneto">Łiguria</name>
+		<name normalized="Λιγουρια" languages="Greek">Λιγουρία</name>
+		<name normalized="Лiguрi" languages="Chechen;Chuvash;Ossetic">Лигури</name>
+		<name normalized="Лiguрii" languages="Bulgarian;Kazakh;Russian">Лигурия</name>
+		<name normalized="Лiguрija" languages="Macedonian;Serbian">Лигурија</name>
+		<name normalized="Лiguрыi" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Лігурыя</name>
+		<name normalized="Лiguрii" languages="Ukrainian">Лігурія</name>
+		<name normalized="Лiґuрii" languages="Rusyn">Ліґурія</name>
+		<name normalized="דיגvrיh" languages="Hebrew">ליגוריה</name>
+		<name normalized="sوbہ لیgوrیא" languages="Western Punjabi">صوبہ لیگوریا</name>
+		<name normalized="لyغوryא" languages="Arabic">ليغوريا</name>
+		<name normalized="لیgوrیא" languages="Persian;Urdu">لیگوریا</name>
+		<name normalized="liguriyा" languages="Hindi;Marathi">लिगुरिया</name>
+		<name normalized="liguria" languages="Punjabi">ਲਿਗੂਰੀਆ</name>
+		<name normalized="แคว้นลิกูเรีย" languages="Thai">แคว้นลิกูเรีย</name>
+		<name normalized="ლიგურია" languages="Georgian">ლიგურია</name>
+		<name normalized="ሊጉርያ" languages="Amharic">ሊጉርያ</name>
+		<name normalized="rgーra州" languages="Japanese">リグーリア州</name>
+		<name normalized="利古里亞" languages="Chinese">利古里亞</name>
+		<name normalized="리구리아 주" languages="Korean">리구리아 주</name>
+	</region>
+	<region name="Lombardia" type="region" typeTranslated="regione">
+		<name normalized="An Lombaird" languages="Irish">An Lombaird</name>
+		<name normalized="Langbardaland" languages="Icelandic">Langbarðaland</name>
+		<name normalized="Langbeardnaland" languages="Old English">Langbeardnaland</name>
+		<name normalized="Langobardia" languages="Latin">Langobardia</name>
+		<name normalized="Llombardia" languages="Catalan">Llombardia</name>
+		<name normalized="Lombardei" languages="Alemannisch;German">Lombardei</name>
+		<name normalized="Lombardi" languages="Cornish">Lombardi</name>
+		<name normalized="Lombardia" languages="Albanian;Basque;Breton;Cebuano;Chinese (Min Nan);English;Estonian;Finnish;Hungarian;Ido;Iloko;Indonesian;Interlingua;Italian;Javanese;Ladino;Nahuatl;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Polish;Portuguese;Quechua;Romanian;Sardinian;Somali;Swahili;Vietnamese;Welsh">Lombardia</name>
+		<name normalized="Lombardia Region" languages="English;official">Lombardia Region</name>
+		<name normalized="Lombardia Regione" languages="English;official">Lombardia Regione</name>
+		<name normalized="Lombardie" languages="Czech;Franco-Provencal;French;Friulian;tarandine">Lombardie</name>
+		<name normalized="Lombardiet" languages="Danish;Swedish">Lombardiet</name>
+		<name normalized="Lombardija" languages="Bosnian;Croatian;Latvian;Lithuanian;Serbo-Croatian;Slovenian">Lombardija</name>
+		<name normalized="Lombardije" languages="Dutch;Western Frisian">Lombardije</name>
+		<name normalized="Lombardiya" languages="Azerbaijani;Turkish;Waray">Lombardiya</name>
+		<name normalized="Lombardsko" languages="Slovak">Lombardsko</name>
+		<name normalized="Lombardujo" languages="Esperanto">Lombardujo</name>
+		<name normalized="Lombardy" languages="Bikol Central;English;Malay;Pampanga;Scots;Simple English;Tagalog">Lombardy</name>
+		<name normalized="Lombardia" languages="Piedmontese">Lombardìa</name>
+		<name normalized="Lombardia" languages="Aragonese;Galician;Spanish">Lombardía</name>
+		<name normalized="Lombardia" languages="Ligure">Lombardïa</name>
+		<name normalized="Lumbardia" languages="Asturian;Corsican;lumbaart">Lumbardia</name>
+		<name normalized="Lummardia" languages="Neapolitan;Sicilian">Lummardìa</name>
+		<name normalized="Lunbardi" languages="Emiliano-Romagnolo">Lunbardî</name>
+		<name normalized="Lonbardia" languages="veneto">Łonbardia</name>
+		<name normalized="Λομβαρδια" languages="Greek">Λομβαρδία</name>
+		<name normalized="Лaмbaрdыi" languages="Belarusian">Ламбардыя</name>
+		<name normalized="Лoмbaрd мuz" languages="Mongolian">Ломбард муж</name>
+		<name normalized="Лoмbaрdi" languages="Chechen;Chuvash;Ossetic">Ломбарди</name>
+		<name normalized="Лoмbaрdii" languages="Bulgarian;Kazakh;Russian">Ломбардия</name>
+		<name normalized="Лoмbaрdija" languages="Macedonian;Serbian">Ломбардија</name>
+		<name normalized="Лoмbaрdii" languages="Ukrainian">Ломбардія</name>
+		<name normalized="Лiмbaрdыi" languages="biлaрuсkai (taрaskivita)‎">Лямбардыя</name>
+		<name normalized="Lvmbաrdիա" languages="Armenian">Լոմբարդիա</name>
+		<name normalized="דvמbrדיh" languages="Hebrew">לומברדיה</name>
+		<name normalized="sوbہ لmbאrڈی" languages="Western Punjabi">صوبہ لمبارڈی</name>
+		<name normalized="لmbאrدی" languages="Persian">لمباردی</name>
+		<name normalized="لوmbאrد" languages="Uyghur">لومبارد</name>
+		<name normalized="لوmbאrدyא" languages="Arabic">لومبارديا</name>
+		<name normalized="لوmbאrدیہ" languages="Urdu">لومباردیہ</name>
+		<name normalized="loंbाr्diyा" languages="Marathi">लोंबार्दिया</name>
+		<name normalized="lੋਂbਾrdia" languages="Punjabi">ਲੋਂਬਾਰਦੀਆ</name>
+		<name normalized="லோம்பார்டி" languages="Tamil">லோம்பார்டி</name>
+		<name normalized="แคว้นลอมบาร์เดีย" languages="Thai">แคว้นลอมบาร์เดีย</name>
+		<name normalized="ლომბარდია" languages="Georgian">ლომბარდია</name>
+		<name normalized="rnbrdia州" languages="Japanese">ロンバルディア州</name>
+		<name normalized="伦巴第" languages="Chinese">伦巴第</name>
+		<name normalized="倫巴第大區" languages="Cantonese">倫巴第大區</name>
+		<name normalized="롬바르디아 주" languages="Korean">롬바르디아 주</name>
+	</region>
+	<region name="Marche" type="region" typeTranslated="regione">
+		<name normalized="Marcas" languages="Aragonese;Portuguese;Spanish">Marcas</name>
+		<name normalized="Marchas" languages="Occitan">Marchas</name>
+		<name normalized="Marche" languages="Bikol Central;Bosnian;Breton;Cebuano;Chinese (Min Nan);Cornish;Corsican;Czech;Danish;Dutch;English;Estonian;Finnish;Galician;Hungarian;Ido;Indonesian;Interlingua;Irish;Italian;Javanese;Ligure;lumbaart;Malay;Neapolitan;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Piedmontese;Polish;Romanian;Scots;Serbo-Croatian;Simple English;Swahili;Swedish;Tagalog;Turkish;Vietnamese;veneto;Waray;Welsh">Marche</name>
+		<name normalized="Marche Region" languages="English;official">Marche Region</name>
+		<name normalized="Marche Regione" languages="English;official">Marche Regione</name>
+		<name normalized="Marches" languages="French">Marches</name>
+		<name normalized="Marchi" languages="Sicilian">Marchi</name>
+		<name normalized="Marchia Anconitana" languages="Latin">Marchia Anconitana</name>
+		<name normalized="Marchis" languages="Friulian">Marchis</name>
+		<name normalized="Markak" languages="Basque">Markak</name>
+		<name normalized="Markas" languages="Ladino">Markas</name>
+		<name normalized="Marke" languages="Albanian;Croatian;Icelandic;Latvian;Slovenian">Marke</name>
+		<name normalized="Markee" languages="Western Frisian">Markee</name>
+		<name normalized="Marken" languages="German">Marken</name>
+		<name normalized="Markio" languages="Esperanto">Markio</name>
+		<name normalized="Marky" languages="Slovak">Marky</name>
+		<name normalized="Markes" languages="Picard">Markés</name>
+		<name normalized="Marke" languages="Lithuanian">Markė</name>
+		<name normalized="Marques" languages="Catalan">Marques</name>
+		<name normalized="Marches" languages="Franco-Provencal">Mârches</name>
+		<name normalized="Merch" languages="Emiliano-Romagnolo">Mèrch</name>
+		<name normalized="Мaрki" languages="Belarusian;Bulgarian;Chechen;Chuvash;Ossetic;Russian;Serbian;Ukrainian;biлaрuсkai (taрaskivita)‎">Марке</name>
+		<name normalized="מאrqh" languages="Hebrew">מארקה</name>
+		<name normalized="sوbہ mאrچے" languages="Western Punjabi">صوبہ مارچے</name>
+		<name normalized="mאrky" languages="Arabic">ماركي</name>
+		<name normalized="mאrکh" languages="Persian">مارکه</name>
+		<name normalized="mאrکے" languages="Urdu">مارکے</name>
+		<name normalized="mाr्ke" languages="Marathi">मार्के</name>
+		<name normalized="mਾrkੇ" languages="Punjabi">ਮਾਰਕੇ</name>
+		<name normalized="แคว้นมาร์เก" languages="Thai">แคว้นมาร์เก</name>
+		<name normalized="მარკე" languages="Georgian">მარკე</name>
+		<name normalized="mrk州" languages="Japanese">マルケ州</name>
+		<name normalized="马尔凯" languages="Chinese">马尔凯</name>
+		<name normalized="마르케 주" languages="Korean">마르케 주</name>
+	</region>
+	<region name="Molise" type="region" typeTranslated="regione">
+		<name normalized="Molise" languages="Aragonese;Basque;Bikol Central;Bosnian;Breton;Catalan;Cebuano;Chinese (Min Nan);Cornish;Corsican;Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Hungarian;Ido;Indonesian;Interlingua;Irish;Italian;Javanese;Ladino;lumbaart;Malay;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Piedmontese;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Slovak;Spanish;Swahili;Swedish;Tagalog;tarandine;Turkish;Vietnamese;Waray;Welsh;Western Frisian">Molise</name>
+		<name normalized="Molise Region" languages="English;official">Molise Region</name>
+		<name normalized="Molise Regione" languages="English;official">Molise Regione</name>
+		<name normalized="Molisium" languages="Latin">Molisium</name>
+		<name normalized="Molize" languages="Franco-Provencal;Latvian;Slovenian">Molize</name>
+		<name normalized="Molizo" languages="Esperanto">Molizo</name>
+		<name normalized="Molize" languages="Lithuanian">Molizė</name>
+		<name normalized="Molis" languages="Friulian">Molîs</name>
+		<name normalized="Molise" languages="Ligure">Molïse</name>
+		<name normalized="Molixe" languages="veneto">Mołixe</name>
+		<name normalized="Mulise" languages="Neapolitan">Mulise</name>
+		<name normalized="Mulisi" languages="Sicilian">Mulisi</name>
+		<name normalized="Molise" languages="Icelandic">Mólíse</name>
+		<name normalized="Μολιζε" languages="Greek">Μολίζε</name>
+		<name normalized="Мaлize" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Малізэ</name>
+		<name normalized="Мoлizi" languages="Bulgarian;Chechen;Chuvash;Kazakh;Ossetic;Russian;Serbian">Молизе</name>
+		<name normalized="Мoлizi" languages="Ukrainian">Молізе</name>
+		<name normalized="מvדיזh" languages="Hebrew">מוליזה</name>
+		<name normalized="sوbہ mولیزے" languages="Western Punjabi">صوبہ مولیزے</name>
+		<name normalized="mولyزy" languages="Arabic">موليزي</name>
+		<name normalized="mولیز" languages="Persian">مولیز</name>
+		<name normalized="mولیزے" languages="Urdu">مولیزے</name>
+		<name normalized="molije" languages="Marathi">मोलीझे</name>
+		<name normalized="แคว้นโมลีเซ" languages="Thai">แคว้นโมลีเซ</name>
+		<name normalized="მოლიზე" languages="Georgian">მოლიზე</name>
+		<name normalized="mrーz州" languages="Japanese">モリーゼ州</name>
+		<name normalized="莫利塞" languages="Chinese">莫利塞</name>
+		<name normalized="몰리세 주" languages="Korean">몰리세 주</name>
+	</region>
+	<region name="Piemonte" type="region" typeTranslated="regione">
+		<name normalized="Fjallaland" languages="Icelandic">Fjallaland</name>
+		<name normalized="Pedemonte" languages="Interlingua">Pedemonte</name>
+		<name normalized="Pedemontium" languages="Latin">Pedemontium</name>
+		<name normalized="Piamonte" languages="Spanish">Piamonte</name>
+		<name normalized="Piedmont" languages="Bikol Central;English;official;Pampanga;Simple English">Piedmont</name>
+		<name normalized="Piedmont Region" languages="English;official">Piedmont Region</name>
+		<name normalized="Piedmont Regione" languages="English;official">Piedmont Regione</name>
+		<name normalized="Piemont" languages="Alemannisch;Aragonese;Catalan;Czech;Franco-Provencal;Friulian;German;Hungarian;Ido;lumbaart;Luxembourgish;Occitan;Piedmontese;Polish;Romanian;Romansh;Scots;Slovak;Slovenian">Piemont</name>
+		<name normalized="Piemonte" languages="Asturian;Basque;Breton;Cebuano;Chinese (Min Nan);Cornish;Corsican;Danish;English;Estonian;Faroese;Finnish;Galician;Indonesian;Italian;Javanese;Kikuyu;Ladino;Ligure;Malay;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Quechua;Sardinian;Swahili;Swedish;Tagalog;tarandine;Vietnamese;Volapuk;veneto;Waray;Welsh">Piemonte</name>
+		<name normalized="Piemonte Region" languages="English;official">Piemonte Region</name>
+		<name normalized="Piemonte Regione" languages="English;official">Piemonte Regione</name>
+		<name normalized="Piemonti" languages="Albanian">Piemonti</name>
+		<name normalized="Piemonto" languages="Esperanto">Piemonto</name>
+		<name normalized="Piemunte" languages="Neapolitan">Piemunte</name>
+		<name normalized="Piemunti" languages="Sicilian">Piemunti</name>
+		<name normalized="Piemant" languages="Emiliano-Romagnolo">Piemånt</name>
+		<name normalized="Pijemont" languages="Bosnian;Croatian;Serbo-Croatian">Pijemont</name>
+		<name normalized="Piyemonte" languages="Turkish">Piyemonte</name>
+		<name normalized="Piemont" languages="French;Picard">Piémont</name>
+		<name normalized="Piemont" languages="Dutch;Western Frisian">Piëmont</name>
+		<name normalized="Pjemonta" languages="Latvian">Pjemonta</name>
+		<name normalized="Pjemontas" languages="Lithuanian">Pjemontas</name>
+		<name normalized="Piodmant" languages="Irish">Píodmant</name>
+		<name normalized="Πεδεμοντιο" languages="Greek">Πεδεμόντιο</name>
+		<name normalized="P'iмoнt" languages="Belarusian">П'емонт</name>
+		<name normalized="P'eмoнt" languages="Ukrainian">П'ємонт</name>
+		<name normalized="Piiмoнt" languages="Bulgarian">Пиемонт</name>
+		<name normalized="Pijiмoнt" languages="Serbian">Пијемонт</name>
+		<name normalized="Pьiмoнt" languages="Chechen;Chuvash;Kazakh;Ossetic;Russian">Пьемонт</name>
+		<name normalized="P'iмoнt" languages="biлaрuсkai (taрaskivita)‎">П’емонт</name>
+		<name normalized="pיימvnth" languages="Hebrew">פיימונטה</name>
+		<name normalized="byymونty" languages="Arabic">بييمونتي</name>
+		<name normalized="sوbہ pیغmونtے" languages="Western Punjabi">صوبہ پیغمونتے</name>
+		<name normalized="pیعیmونtے" languages="Urdu">پیعیمونتے</name>
+		<name normalized="pیmونt" languages="Persian">پیمونت</name>
+		<name normalized="p्yimाँt" languages="Marathi">प्यिमाँत</name>
+		<name normalized="piਏmੋਂtੇ" languages="Punjabi">ਪੀਏਮੋਂਤੇ</name>
+		<name normalized="பியத்மாந்து" languages="Tamil">பியத்மாந்து</name>
+		<name normalized="แคว้นปีเอมอนเต" languages="Thai">แคว้นปีเอมอนเต</name>
+		<name normalized="პიემონტი" languages="Georgian">პიემონტი</name>
+		<name normalized="ខេត្តជើងភ្នំ" languages="Khmer">ខេត្តជើងភ្នំ</name>
+		<name normalized="pemnt州" languages="Japanese">ピエモンテ州</name>
+		<name normalized="皮埃蒙特" languages="Chinese">皮埃蒙特</name>
+		<name normalized="피에몬테 주" languages="Korean">피에몬테 주</name>
+	</region>
+	<region name="Puglia" type="region" typeTranslated="regione">
+		<name normalized="Apuli" languages="Cornish">Apuli</name>
+		<name normalized="Apulia" languages="Basque;Bikol Central;Cebuano;English;Finnish;Iloko;Interlingua;Latin;Malay;official;Pampanga;Polish;Romanian;Simple English;Spanish;Tagalog;Vietnamese;Waray">Apulia</name>
+		<name normalized="Apulia Region" languages="English;official">Apulia Region</name>
+		<name normalized="Apulia Regione" languages="English;official">Apulia Regione</name>
+		<name normalized="Apulie" languages="Czech;Scots">Apulie</name>
+		<name normalized="Apulien" languages="Danish;German;Swedish">Apulien</name>
+		<name normalized="Apulija" languages="Bosnian;Croatian;Lithuanian;Serbo-Croatian;Slovenian">Apulija</name>
+		<name normalized="Apulio" languages="Esperanto">Apulio</name>
+		<name normalized="Apulie" languages="Dutch">Apulië</name>
+		<name normalized="Apulje" languages="Western Frisian">Apulje</name>
+		<name normalized="Apuulia" languages="Estonian">Apuulia</name>
+		<name normalized="Apulia" languages="Portuguese;Slovak">Apúlia</name>
+		<name normalized="Apulia" languages="Icelandic">Apúlía</name>
+		<name normalized="Apulija" languages="Latvian">Apūlija</name>
+		<name normalized="Polha" languages="Occitan">Polha</name>
+		<name normalized="Pouilles" languages="French">Pouilles</name>
+		<name normalized="Poulye" languages="Franco-Provencal">Poulye</name>
+		<name normalized="Pugghia" languages="Sicilian">Pugghia</name>
+		<name normalized="Puggia" languages="Ligure">Puggia</name>
+		<name normalized="Puglia" languages="Breton;Chinese (Min Nan);Corsican;English;Galician;Hungarian;Ido;Indonesian;Irish;Italian;Javanese;Kikuyu;Ladino;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Swahili;Turkish;Welsh">Puglia</name>
+		<name normalized="Puglia Region" languages="English;official">Puglia Region</name>
+		<name normalized="Puglia Regione" languages="English;official">Puglia Regione</name>
+		<name normalized="Puia" languages="veneto">Puia</name>
+		<name normalized="Puilla" languages="Old English">Puilla</name>
+		<name normalized="Pulia" languages="Albanian;Piedmontese">Pulia</name>
+		<name normalized="Pulie" languages="Friulian">Pulie</name>
+		<name normalized="Pulla" languages="Aragonese;Catalan">Pulla</name>
+		<name normalized="Pugghie" languages="tarandine">Pùgghie</name>
+		<name normalized="Puglia" languages="Neapolitan">Pùglia</name>
+		<name normalized="Puja" languages="lumbaart">Püja</name>
+		<name normalized="Απουλια" languages="Greek">Απουλία</name>
+		<name normalized="Apuлi" languages="Chechen;Chuvash;Ossetic">Апули</name>
+		<name normalized="Apuлii" languages="Kazakh;Russian">Апулия</name>
+		<name normalized="Apuлija" languages="Serbian">Апулија</name>
+		<name normalized="Apuлii" languages="Belarusian;Ukrainian;biлaрuсkai (taрaskivita)‎">Апулія</name>
+		<name normalized="Puлii" languages="Bulgarian">Пулия</name>
+		<name normalized="pvדיh" languages="Hebrew">פוליה</name>
+		<name normalized="آpولیא" languages="Persian">آپولیا</name>
+		<name normalized="bولyא" languages="Arabic">بوليا</name>
+		<name normalized="sوbہ אpولیא" languages="Western Punjabi">صوبہ اپولیا</name>
+		<name normalized="pلیہ" languages="Urdu">پلیہ</name>
+		<name normalized="puliyा" languages="Hindi">पुलिया</name>
+		<name normalized="puliyा" languages="Marathi">पुलीया</name>
+		<name normalized="pulia" languages="Punjabi">ਪੂਲੀਆ</name>
+		<name normalized="แคว้นปูลยา" languages="Thai">แคว้นปูลยา</name>
+		<name normalized="აპულია" languages="Georgian">აპულია</name>
+		<name normalized="ptry州" languages="Japanese">プッリャ州</name>
+		<name normalized="普利亚" languages="Chinese">普利亚</name>
+		<name normalized="풀리아 주" languages="Korean">풀리아 주</name>
+	</region>
+	<region name="Sardegna" type="autonomous region" typeTranslated="regione autonoma">
+		<name normalized="An tSairdin" languages="Irish">An tSairdín</name>
+		<name normalized="Cerdenya" languages="Aragonese">Cerdenya</name>
+		<name normalized="Cerdena" languages="Asturian;Cebuano;Extremaduran;Spanish">Cerdeña</name>
+		<name normalized="Rejion de Sardenya" languages="Ladino">Rejion de Sardenya</name>
+		<name normalized="Sardaigne" languages="French">Sardaigne</name>
+		<name normalized="Sardainia" languages="Scottish Gaelic">Sardainia</name>
+		<name normalized="Sardayn" languages="Cornish">Sardayn</name>
+		<name normalized="Sardegna" languages="Chinese (Min Nan);Corsican;English;Italian;Ligure;lumbaart;Nahuatl;official;Quechua;tarandine;Vietnamese;veneto">Sardegna</name>
+		<name normalized="Sardegne" languages="Friulian">Sardegne</name>
+		<name normalized="Sardenha" languages="Occitan;Portuguese">Sardenha</name>
+		<name normalized="Sardenja" languages="Albanian">Sardenja</name>
+		<name normalized="Sardenya" languages="Catalan">Sardenya</name>
+		<name normalized="Sardena" languages="Galician">Sardeña</name>
+		<name normalized="Sardigna" languages="Breton;Sardinian;Sicilian">Sardigna</name>
+		<name normalized="Sardiinia" languages="Estonian">Sardiinia</name>
+		<name normalized="Sardiiniya" languages="Somali">Sardiiniya</name>
+		<name normalized="Sardinia" languages="Basque;Bikol Central;English;Finnish;Ido;Indonesian;Interlingua;Javanese;Latin;Minangkabau;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Old English;Pampanga;Romanian;Simple English;Swahili;Tagalog;Welsh">Sardinia</name>
+		<name normalized="Sardinie" languages="Czech;Scots">Sardinie</name>
+		<name normalized="Sardinien" languages="Alemannisch;Bavarian;Danish;German;Low German;Luxembourgish;Swedish">Sardinien</name>
+		<name normalized="Sardinija" languages="Bosnian;Croatian;Lithuanian;Serbo-Croatian;Slovenian">Sardinija</name>
+		<name normalized="Sardiniska" languages="Lower Sorbian;Upper Sorbian">Sardiniska</name>
+		<name normalized="Sardiniya" languages="Azerbaijani">Sardiniya</name>
+		<name normalized="Sardinie" languages="Afrikaans;Dutch;Low Saxon (Netherlands)">Sardinië</name>
+		<name normalized="Sardinya" languages="Turkish;Waray">Sardinya</name>
+		<name normalized="Sardinia" languages="Icelandic">Sardinía</name>
+		<name normalized="Sardio" languages="Esperanto">Sardio</name>
+		<name normalized="Sardynia" languages="Polish">Sardynia</name>
+		<name normalized="Sardynje" languages="Western Frisian">Sardynje</name>
+		<name normalized="Sardynijo" languages="Silesian">Sardyńijo</name>
+		<name normalized="Sardaggna" languages="Emiliano-Romagnolo">Sardàggna</name>
+		<name normalized="Sardegne" languages="Franco-Provencal">Sardêgne</name>
+		<name normalized="Sardegna" languages="Piedmontese">Sardëgna</name>
+		<name normalized="Sardinia" languages="Slovak">Sardínia</name>
+		<name normalized="Sardinya" languages="Kurdish">Sardînya</name>
+		<name normalized="Sardinija" languages="Latvian">Sardīnija</name>
+		<name normalized="Szardinia" languages="Hungarian">Szardínia</name>
+		<name normalized="Yn Tardeen" languages="Manx">Yn Tardeen</name>
+		<name normalized="Zardegna" languages="Neapolitan">Zardegna</name>
+		<name normalized="Σαρδηνια" languages="Greek">Σαρδηνία</name>
+		<name normalized="Сaрdziнii" languages="Belarusian">Сардзінія</name>
+		<name normalized="Сaрdiнi" languages="Chechen;Chuvash;Ossetic">Сардини</name>
+		<name normalized="Сaрdiнii" languages="Bulgarian;Kazakh;Russian">Сардиния</name>
+		<name normalized="Сaрdiнija" languages="Macedonian;Serbian">Сардинија</name>
+		<name normalized="Сaрdiнii" languages="Ukrainian">Сардинія</name>
+		<name normalized="Сaрdынii" languages="biлaрuсkai (taрaskivita)‎">Сардынія</name>
+		<name normalized="Sաrdինիա" languages="Armenian">Սարդինիա</name>
+		<name normalized="סrדיnיh" languages="Hebrew">סרדיניה</name>
+		<name normalized="سאrدنی" languages="Persian">ساردنی</name>
+		<name normalized="سאrدىنىyە ئאrىلى" languages="Uyghur">ساردىنىيە ئارىلى</name>
+		<name normalized="سאrدینیא" languages="Urdu">ساردینیا</name>
+		<name normalized="سrدyنyא" languages="Arabic">سردينيا</name>
+		<name normalized="sوbہ سאrڈینیא" languages="Western Punjabi">صوبہ سارڈینیا</name>
+		<name normalized="sाrडiniyा" languages="Hindi">सारडीनिया</name>
+		<name normalized="sाr्diniyा" languages="Marathi">सार्दिनिया</name>
+		<name normalized="sਾrdੇਞਾ" languages="Punjabi">ਸਾਰਦੇਞਾ</name>
+		<name normalized="சார்தீனியா" languages="Tamil">சார்தீனியா</name>
+		<name normalized="แคว้นปกครองตนเองซาร์ดิเนีย" languages="Thai">แคว้นปกครองตนเองซาร์ดิเนีย</name>
+		<name normalized="ဆာဒင်းနီးယားကျွန်း" languages="Burmese">ဆာဒင်းနီးယားကျွန်း</name>
+		<name normalized="სარდინია" languages="Georgian;Mingrelian">სარდინია</name>
+		<name normalized="srdーny" languages="Japanese">サルデーニャ</name>
+		<name normalized="撒丁岛" languages="Chinese">撒丁岛</name>
+		<name normalized="薩丁島" languages="Cantonese">薩丁島</name>
+		<name normalized="사르데냐" languages="Korean">사르데냐</name>
+	</region>
+	<region name="Sicilia" type="autonomous region" typeTranslated="regione autonoma">
+		<name normalized="An tSicil" languages="Irish">An tSicil</name>
+		<name normalized="Autonome Region Sizilien" languages="German">Autonome Region Sizilien</name>
+		<name normalized="Sasiiliya" languages="Somali">Sasiiliya</name>
+		<name normalized="Secilia" languages="Aragonese">Secilia</name>
+		<name normalized="Sicile" languages="French;Nouormand">Sicile</name>
+		<name normalized="Sicilia" languages="Albanian;Asturian;Cebuano;Chinese (Min Nan);Corsican;English;Galician;Ido;Iloko;Interlingua;Interlingue;Italian;Latin;lumbaart;Nahuatl;Neapolitan;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Old English;Piedmontese;Quechua;Romanian;Sicilian;Spanish;Tagalog;tarandine;Vietnamese;Waray">Sicilia</name>
+		<name normalized="Sicilie" languages="Franco-Provencal;Friulian">Sicilie</name>
+		<name normalized="Sicilien" languages="Danish;Swedish">Sicilien</name>
+		<name normalized="Sicilija" languages="Bosnian;Croatian;Lithuanian;Serbo-Croatian;Slovenian">Sicilija</name>
+		<name normalized="Sicilio" languages="Esperanto">Sicilio</name>
+		<name normalized="Siciliska" languages="Lower Sorbian">Siciliska</name>
+		<name normalized="Siciliya" languages="Azerbaijani">Siciliya</name>
+		<name normalized="Sicilie" languages="Dutch">Sicilië</name>
+		<name normalized="Sicilska" languages="Upper Sorbian">Sicilska</name>
+		<name normalized="Sicily" languages="Bikol Central;English;Malay;official;Pampanga;Scots;Simple English;Yoruba">Sicily</name>
+		<name normalized="Sicilya Ozerk Bolgesi" languages="Turkish">Sicilya Özerk Bölgesi</name>
+		<name normalized="Sicilia" languages="veneto">Siciłia</name>
+		<name normalized="Sicilia" languages="Catalan;Extremaduran;Occitan;Portuguese;Slovak">Sicília</name>
+		<name normalized="Sicilie" languages="Czech">Sicílie</name>
+		<name normalized="Sicilija" languages="Latvian">Sicīlija</name>
+		<name normalized="Sikiley" languages="Icelandic">Sikiley</name>
+		<name normalized="Sikilia" languages="Breton">Sikilia</name>
+		<name normalized="Sisili" languages="Cornish;Welsh">Sisili</name>
+		<name normalized="Sisilia" languages="Finnish;Indonesian;Javanese;Ladino;Swahili">Sisilia</name>
+		<name normalized="Sisilie" languages="Afrikaans">Sisilië</name>
+		<name normalized="Sisylje" languages="Western Frisian">Sisylje</name>
+		<name normalized="Sitsiilia maakond" languages="Estonian">Sitsiilia maakond</name>
+		<name normalized="Sitzilia" languages="Sardinian">Sitzìlia</name>
+		<name normalized="Sizilia" languages="Basque">Sizilia</name>
+		<name normalized="Sizilien" languages="Alemannisch;Bavarian;Luxembourgish">Sizilien</name>
+		<name normalized="Sizegglia" languages="Emiliano-Romagnolo">Sizégglia</name>
+		<name normalized="Sicilia" languages="Ligure">Siçilia</name>
+		<name normalized="Sqallija" languages="Maltese">Sqallija</name>
+		<name normalized="Sycylia" languages="Polish">Sycylia</name>
+		<name normalized="Sycylijo" languages="Silesian">Sycylijo</name>
+		<name normalized="Szicilia" languages="Hungarian">Szicília</name>
+		<name normalized="Sicilya" languages="Kurdish">Sîcîlya</name>
+		<name normalized="Σικελια" languages="Greek">Σικελία</name>
+		<name normalized="Сitiiлiйe" languages="Sakha">Сициилийэ</name>
+		<name normalized="Сitiлi" languages="Chechen;Chuvash;Ossetic">Сицили</name>
+		<name normalized="Сitiлii" languages="Bulgarian;Kazakh;Russian">Сицилия</name>
+		<name normalized="Сitiлija" languages="Macedonian;Serbian">Сицилија</name>
+		<name normalized="Сitiлii" languages="Ukrainian">Сицилія</name>
+		<name normalized="Сыtылii" languages="biлaрuсkai (taрaskivita)‎">Сыцылія</name>
+		<name normalized="Сitылii" languages="Belarusian">Сіцылія</name>
+		<name normalized="Sիcիlիա" languages="Armenian">Սիցիլիա</name>
+		<name normalized="סיצידיh" languages="Hebrew">סיציליה</name>
+		<name normalized="סיצידיע" languages="Yiddish">סיציליע</name>
+		<name normalized="سىtسىلىyە" languages="Uyghur">سىتسىلىيە</name>
+		<name normalized="سyسyلyא" languages="Egyptian Spoken Arabic">سيسيليا</name>
+		<name normalized="سیسیل" languages="Persian">سیسیل</name>
+		<name normalized="sqلyة" languages="Arabic">صقلية</name>
+		<name normalized="sqلیہ" languages="Urdu">صقلیہ</name>
+		<name normalized="sوbہ سسلی" languages="Western Punjabi">صوبہ سسلی</name>
+		<name normalized="ܣܩܠܝܐ" languages="Aramaic">ܣܩܠܝܐ</name>
+		<name normalized="sicil्yा" languages="Marathi">सिचिल्या</name>
+		<name normalized="sisili d্bippun্j" languages="Bengali">সিসিলি দ্বীপপুঞ্জ</name>
+		<name normalized="sicilia" languages="Punjabi">ਸਿਚੀਲੀਆ</name>
+		<name normalized="சிசிலி" languages="Tamil">சிசிலி</name>
+		<name normalized="സിസിലി" languages="Malayalam">സിസിലി</name>
+		<name normalized="แคว้นปกครองตนเองซิซิลี" languages="Thai">แคว้นปกครองตนเองซิซิลี</name>
+		<name normalized="སི་ཅི་ལི་ཡ།" languages="Tibetan">སི་ཅི་ལི་ཡ།</name>
+		<name normalized="სიცილია" languages="Georgian;Mingrelian">სიცილია</name>
+		<name normalized="ሲኪልያ" languages="Amharic">ሲኪልያ</name>
+		<name normalized="stra" languages="Japanese">シチリア</name>
+		<name normalized="西西里" languages="Cantonese">西西里</name>
+		<name normalized="西西里岛" languages="Chinese">西西里岛</name>
+		<name normalized="시칠리아" languages="Korean">시칠리아</name>
+	</region>
+	<region name="Toscana" type="region" typeTranslated="regione">
+		<name normalized="An Tuscain" languages="Irish">An Tuscáin</name>
+		<name normalized="Toscan-a" languages="Piedmontese">Toscan-a</name>
+		<name normalized="Toscana" languages="Aragonese;Catalan;Cebuano;Chinese (Min Nan);Cornish;Corsican;Danish;English;Estonian;Finnish;Franco-Provencal;Galician;Interlingua;Italian;Javanese;Kurdish;lumbaart;Neapolitan;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Portuguese;Quechua;Romanian;Spanish;Swahili;Swedish;tarandine;Vietnamese;veneto;Waray;Welsh">Toscana</name>
+		<name normalized="Toscana Region" languages="English;official">Toscana Region</name>
+		<name normalized="Toscana Regione" languages="English;official">Toscana Regione</name>
+		<name normalized="Toscane" languages="Dutch;French;Friulian;West-Vlams">Toscane</name>
+		<name normalized="Toscann-a" languages="Ligure">Toscann-a</name>
+		<name normalized="Toskana" languages="Alemannisch;Azerbaijani;Basque;Bavarian;Bosnian;Breton;Croatian;German;Icelandic;Indonesian;Ladino;Lithuanian;Luxembourgish;Serbo-Croatian;Slovenian;Turkish">Toskana</name>
+		<name normalized="Toskane" languages="Afrikaans;Western Frisian">Toskane</name>
+		<name normalized="Toskania" languages="Ido;Polish">Toskania</name>
+		<name normalized="Toskanio" languages="Esperanto">Toskanio</name>
+		<name normalized="Toskansko" languages="Czech;Slovak">Toskánsko</name>
+		<name normalized="Toskana" languages="Latvian">Toskāna</name>
+		<name normalized="Toszkana" languages="Hungarian">Toszkána</name>
+		<name normalized="Tuscana" languages="Sicilian">Tuscana</name>
+		<name normalized="Tuscania" languages="Old English">Tuscania</name>
+		<name normalized="Tuscany" languages="Bikol Central;English;Malay;official;Pampanga;Scots;Simple English">Tuscany</name>
+		<name normalized="Tuscany Region" languages="English;official">Tuscany Region</name>
+		<name normalized="Tuscany Regione" languages="English;official">Tuscany Regione</name>
+		<name normalized="Tuschena" languages="Emiliano-Romagnolo">Tuschèna</name>
+		<name normalized="Tuscia" languages="Latin">Tuscia</name>
+		<name normalized="Tuskanya" languages="Tagalog">Tuskanya</name>
+		<name normalized="Τοσκανη" languages="Greek">Τοσκάνη</name>
+		<name normalized="Taсkaнa" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Таскана</name>
+		<name normalized="Toсkaнae" languages="Ossetic">Тосканæ</name>
+		<name normalized="Toсkaнa" languages="Bulgarian;Chechen;Chuvash;Kazakh;Macedonian;Russian;Serbian;Ukrainian">Тоскана</name>
+		<name normalized="tvסqnh" languages="Hebrew">טוסקנה</name>
+		<name normalized="tسکאنہ" languages="Urdu">تسکانہ</name>
+		<name normalized="tوسkאنא" languages="Arabic">توسكانا</name>
+		<name normalized="tوسکאنی" languages="Persian">توسکانی</name>
+		<name normalized="sوbہ ٹسکنی" languages="Western Punjabi">صوبہ ٹسکنی</name>
+		<name normalized="tos्kाnा" languages="Marathi">तोस्काना</name>
+		<name normalized="tੋskਾnਾ" languages="Punjabi">ਤੋਸਕਾਨਾ</name>
+		<name normalized="ടസ്കനി" languages="Malayalam">ടസ്കനി</name>
+		<name normalized="แคว้นทัสกานี" languages="Thai">แคว้นทัสกานี</name>
+		<name normalized="ტოსკანა" languages="Georgian">ტოსკანა</name>
+		<name normalized="tskーn州" languages="Japanese">トスカーナ州</name>
+		<name normalized="托斯卡納大區" languages="Cantonese">托斯卡納大區</name>
+		<name normalized="托斯卡纳" languages="Chinese">托斯卡纳</name>
+		<name normalized="토스카나 주" languages="Korean">토스카나 주</name>
+	</region>
+	<region name="Trentino-Alto Adige" type="autonomous region" typeTranslated="regione autonoma">
+		<name normalized="Trendine-Irte Adige" languages="tarandine">Trendine-Ìrte Adige</name>
+		<name normalized="Trentin-Alto Adexe" languages="veneto">Trentin-Alto Àdexe</name>
+		<name normalized="Trentin-Aut Adige" languages="Occitan">Trentin-Aut Adige</name>
+		<name normalized="Trentin-Erto Addige" languages="Ligure">Trentin-Erto Addige</name>
+		<name normalized="Trentin-Haut-Adige" languages="French">Trentin-Haut-Adige</name>
+		<name normalized="Trentin-Hot Adige" languages="Franco-Provencal">Trentin-Hôt Adige</name>
+		<name normalized="Trentin-Sud Tirol" languages="Piedmontese">Trentin-Sud Tiròl</name>
+		<name normalized="Trentin-Sud Tirol" languages="Friulian">Trentin-Sud Tirôl</name>
+		<name normalized="Trentin-Sud Tirol" languages="lumbaart">Trentin-Süd Tirol</name>
+		<name normalized="Trentinas-Alto Adidze" languages="Lithuanian">Trentinas-Alto Adidžė</name>
+		<name normalized="Trentino Urin Tirul" languages="Quechua">Trentino Urin Tirul</name>
+		<name normalized="Trentino-Adige Garaia" languages="Basque">Trentino-Adige Garaia</name>
+		<name normalized="Trentino-Alto Adice" languages="Azerbaijani">Trentino-Alto Adice</name>
+		<name normalized="Trentino-Alto Adige" languages="Bikol Central;Breton;Cebuano;Chinese (Min Nan);Cornish;English;Esperanto;Estonian;Indonesian;Interlingua;Italian;Javanese;Malay;Northern Sami;Norwegian Nynorsk;official;Swahili;Swedish;Turkish;Welsh">Trentino-Alto Adige</name>
+		<name normalized="Trentino-Alto Adige/Sudtirol" languages="English;Pampanga;Scots;Simple English;Tagalog;Waray">Trentino-Alto Adige/Südtirol</name>
+		<name normalized="Trentino-Alto Adigio" languages="Aragonese;Spanish">Trentino-Alto Adigio</name>
+		<name normalized="Trentino-Alto Adige" languages="Portuguese">Trentino-Alto Ádige</name>
+		<name normalized="Trentino-Avere Arece" languages="Neapolitan">Trentino-Avere Arece</name>
+		<name normalized="Trentino-Etela-Tiroli" languages="Finnish">Trentino-Etelä-Tiroli</name>
+		<name normalized="Trentino-Juzni Tirol" languages="Bosnian;Croatian;Serbo-Croatian">Trentino-Južni Tirol</name>
+		<name normalized="Trentino-Nam Tirol" languages="Vietnamese">Trentino-Nam Tirol</name>
+		<name normalized="Trentino-Sidtiroul" languages="Bavarian">Trentino-Sidtiroul</name>
+		<name normalized="Trentino-South Tyrol" languages="English;official">Trentino-South Tyrol</name>
+		<name normalized="Trentino-Suedtirol" languages="English;official">Trentino-Suedtirol</name>
+		<name normalized="Trentino-Suid-Tirool" languages="Afrikaans">Trentino-Suid-Tirool</name>
+		<name normalized="Trentino-Supr Adijo/Suda Tirol" languages="Ido">Trentino-Supr Adijo/Suda Tirol</name>
+		<name normalized="Trentino-Syd-Tirol" languages="Norwegian (bokmal)">Trentino-Syd-Tirol</name>
+		<name normalized="Trentino-Sydtyrol" languages="Danish">Trentino-Sydtyrol</name>
+		<name normalized="Trentino-Sud-Tirol" languages="Western Frisian">Trentino-Súd-Tirol</name>
+		<name normalized="Trentino-Sudtirol" languages="German">Trentino-Südtirol</name>
+		<name normalized="Trentino-Tirol do Sur" languages="Galician">Trentino-Tirol do Sur</name>
+		<name normalized="Trentino-Tirol Theas" languages="Irish">Trentino-Tirol Theas</name>
+		<name normalized="Trentino-Tiroli Jugor" languages="Albanian">Trentino-Tiroli Jugor</name>
+		<name normalized="Trentino-Tirolul de Sud" languages="Romanian">Trentino-Tirolul de Sud</name>
+		<name normalized="Trentino-Zuid-Tirol" languages="Dutch">Trentino-Zuid-Tirol</name>
+		<name normalized="Trentino-Alto Adige" languages="Hungarian">Trentino–Alto Adige</name>
+		<name normalized="Trentinu e Altu Adige" languages="Corsican">Trentinu è Altu Adige</name>
+		<name normalized="Trenten-Elt Egg'" languages="Emiliano-Romagnolo">Trentén-Elt Égg’</name>
+		<name normalized="Trentino-Sudur-Tyrol" languages="Icelandic">Trentínó-Suður-Týról</name>
+		<name normalized="Trentino-Alto Adidze" languages="Latvian">Trentīno-Alto Adidže</name>
+		<name normalized="Tridentinum et Athesia Superior vel Tirolis Meridionalis" languages="Latin">Tridentinum et Athesia Superior vel Tirolis Meridionalis</name>
+		<name normalized="Tridentsko-Horna Adiza" languages="Slovak">Tridentsko-Horná Adiža</name>
+		<name normalized="Tridentsko-Horni Adize" languages="Czech">Tridentsko-Horní Adiže</name>
+		<name normalized="Trydent-Gorna Adyga" languages="Polish">Trydent-Górna Adyga</name>
+		<name normalized="Tрiнtiнo-Юziн Tiрoл" languages="Bulgarian">Трентино-Южен Тирол</name>
+		<name normalized="Tрiнtiнo-Juzнi Tiрoл" languages="Serbian">Трентино-Јужни Тирол</name>
+		<name normalized="Tрiнtiнo-Aльto-Adidzi" languages="Ukrainian">Трентіно-Альто-Адідже</name>
+		<name normalized="Tрeнtынa-Aльta Adыdze" languages="biлaрuсkai (taрaskivita)‎">Трэнтына-Альта Адыджэ</name>
+		<name normalized="Tрeнtiнa-Aльta-Adыdze" languages="Belarusian">Трэнціна-Альта-Адыджэ</name>
+		<name normalized="trنtینو אلtو آدیjh" languages="Persian">ترنتینو التو آدیجه</name>
+		<name normalized="tryنtyنو ألtو أدyjy" languages="Arabic">ترينتينو ألتو أديجي</name>
+		<name normalized="trینtینو jنوbی ٹאئrول" languages="Urdu">ترینتینو جنوبی ٹائرول</name>
+		<name normalized="sوbہ trنtینو tھلوאں ٹאئrول" languages="Western Punjabi">صوبہ ترنتینو تھلواں ٹائرول</name>
+		<name normalized="t्ren्tino-al्to adije" languages="Marathi">त्रेन्तिनो-आल्तो अदिजे</name>
+		<name normalized="ട്രെന്റിനോ ആൾട്ടോ അഡിജേ" languages="Malayalam">ട്രെന്റിനോ ആൾട്ടോ അഡിജേ</name>
+		<name normalized="แคว้นปกครองตนเองเตรนตีโน-อัลโตอาดีเจ" languages="Thai">แคว้นปกครองตนเองเตรนตีโน-อัลโตอาดีเจ</name>
+		<name normalized="ტრენტინო-ალტო-ადიჯე" languages="Georgian">ტრენტინო-ალტო-ადიჯე</name>
+		<name normalized="trntiーn=art・adize州" languages="Japanese">トレンティーノ＝アルト・アディジェ州</name>
+		<name normalized="特伦蒂诺-上阿迪杰" languages="Chinese">特伦蒂诺-上阿迪杰</name>
+		<name normalized="트렌티노알토아디제 주" languages="Korean">트렌티노알토아디제 주</name>
+	</region>
+	<region name="Umbria" type="region" typeTranslated="regione">
+		<name normalized="Ombrie" languages="Franco-Provencal;French">Ombrie</name>
+		<name normalized="Onbria" languages="veneto">Onbria</name>
+		<name normalized="Umbri" languages="Cornish">Umbri</name>
+		<name normalized="Umbria" languages="Basque;Bikol Central;Breton;Cebuano;Chinese (Min Nan);Corsican;Danish;English;Estonian;Finnish;Hungarian;Ido;Indonesian;Interlingua;Irish;Italian;Javanese;Ladino;Latin;lumbaart;Malay;Neapolitan;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Piedmontese;Polish;Romanian;Sicilian;Simple English;Slovak;Swahili;Tagalog;Turkish;Vietnamese;Waray;Welsh">Umbria</name>
+		<name normalized="Umbria Region" languages="English;official">Umbria Region</name>
+		<name normalized="Umbria Regione" languages="English;official">Umbria Regione</name>
+		<name normalized="Umbrie" languages="Czech;Friulian;Scots;tarandine">Umbrie</name>
+		<name normalized="Umbrien" languages="Alemannisch;German;Luxembourgish;Swedish">Umbrien</name>
+		<name normalized="Umbrija" languages="Bosnian;Croatian;Latvian;Lithuanian;Serbo-Croatian;Slovenian">Umbrija</name>
+		<name normalized="Umbrio" languages="Esperanto">Umbrio</name>
+		<name normalized="Umbrie" languages="Dutch">Umbrië</name>
+		<name normalized="Umbrje" languages="Western Frisian">Umbrje</name>
+		<name normalized="Umbria" languages="Aragonese;Galician;Spanish">Umbría</name>
+		<name normalized="Umbia" languages="Ligure">Umbïa</name>
+		<name normalized="Ombria" languages="Occitan">Ómbria</name>
+		<name normalized="Onbria" languages="Emiliano-Romagnolo">Ónbria</name>
+		<name normalized="Umbria" languages="Catalan;Portuguese">Úmbria</name>
+		<name normalized="Umbria" languages="Icelandic">Úmbría</name>
+		<name normalized="Οuμπρια" languages="Greek">Ούμπρια</name>
+		<name normalized="Uмbрi" languages="Chechen;Ossetic">Умбри</name>
+		<name normalized="Uмbрii" languages="Bulgarian;Chuvash;Kazakh;Russian">Умбрия</name>
+		<name normalized="Uмbрija" languages="Serbian">Умбрија</name>
+		<name normalized="Uмbрыi" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Умбрыя</name>
+		<name normalized="Uмbрii" languages="Ukrainian">Умбрія</name>
+		<name normalized="אvמbrיh" languages="Hebrew">אומבריה</name>
+		<name normalized="أوmbryא" languages="Arabic">أومبريا</name>
+		<name normalized="אmbrیא" languages="Urdu">امبریا</name>
+		<name normalized="אوmbrیא" languages="Persian">اومبریا</name>
+		<name normalized="sوbہ אmbrیא" languages="Western Punjabi">صوبہ امبریا</name>
+		<name normalized="aंb्riyा" languages="Marathi">अंब्रिया</name>
+		<name normalized="aੰbria" languages="Punjabi">ਅੰਬਰੀਆ</name>
+		<name normalized="แคว้นอุมเบรีย" languages="Thai">แคว้นอุมเบรีย</name>
+		<name normalized="უმბრია" languages="Georgian">უმბრია</name>
+		<name normalized="unbra州" languages="Japanese">ウンブリア州</name>
+		<name normalized="翁布里亚" languages="Chinese">翁布里亚</name>
+		<name normalized="움브리아 주" languages="Korean">움브리아 주</name>
+	</region>
+	<region name="Valle d'Aosta" type="autonomous region" typeTranslated="regione autonoma">
+		<name normalized="Aosta Saug" languages="Pampanga">Aosta Saug</name>
+		<name normalized="Aosta Vadisi" languages="Turkish">Aosta Vadisi</name>
+		<name normalized="Aosta Valley" languages="Bikol Central;English;official">Aosta Valley</name>
+		<name normalized="Aosta Valo" languages="Esperanto">Aosta Valo</name>
+		<name normalized="Aostadalen" languages="Norwegian (bokmal);Swedish">Aostadalen</name>
+		<name normalized="Aostako Harana" languages="Basque">Aostako Harana</name>
+		<name normalized="Aostanlaakso" languages="Finnish">Aostanlaakso</name>
+		<name normalized="Aostatal" languages="Alemannisch;German">Aostatal</name>
+		<name normalized="Aostos slenis" languages="Lithuanian">Aostos slėnis</name>
+		<name normalized="Dolina Aoste" languages="Slovenian">Dolina Aoste</name>
+		<name normalized="Dolina Aosty" languages="Polish">Dolina Aosty</name>
+		<name normalized="Falle d'Aosta" languages="Western Frisian">Falle d'Aosta</name>
+		<name normalized="Ginget ti Aosta" languages="Iloko">Ginget ti Aosta</name>
+		<name normalized="Lambak ng Aosta" languages="Tagalog">Lambak ng Aosta</name>
+		<name normalized="Lembah Aosta" languages="Indonesian;Javanese;Malay">Lembah Aosta</name>
+		<name normalized="Lugina e Aostes" languages="Albanian">Lugina e Aostës</name>
+		<name normalized="Nans Aosta" languages="Cornish">Nans Aosta</name>
+		<name normalized="Siong han Aosta" languages="Waray">Siong han Aosta</name>
+		<name normalized="Thung lung Aosta" languages="Vietnamese">Thung lũng Aosta</name>
+		<name normalized="Traonienn Aosta" languages="Breton">Traoñienn Aosta</name>
+		<name normalized="Vaddi d'Aosta" languages="Sicilian">Vaddi d'Aosta</name>
+		<name normalized="Val d'Aosta" languages="Aragonese;Occitan">Val d'Aosta</name>
+		<name normalized="Val d'Aoste" languages="Friulian">Val d'Aoste</name>
+		<name normalized="Val d'Osta" languages="Piedmontese">Val d'Osta</name>
+		<name normalized="Val de Aosta" languages="Galician">Val de Aosta</name>
+		<name normalized="Val d'Outa" languages="Franco-Provencal">Val d’Oûta</name>
+		<name normalized="Vale de Aosta" languages="Portuguese">Vale de Aosta</name>
+		<name normalized="Vall d'Aosta" languages="Catalan">Vall d'Aosta</name>
+		<name normalized="Valle 'e Aosta" languages="Neapolitan">Valle 'e Aosta</name>
+		<name normalized="Valle d'Aosta" languages="Bosnian;Chinese (Min Nan);Corsican;Croatian;Czech;Danish;Dutch;English;Estonian;Irish;Italian;Kikuyu;Ladino;Latvian;Ligure;Northern Sami;Norwegian Nynorsk;official;Romanian;Scots;Serbo-Croatian;Simple English;Swahili;tarandine;Welsh">Valle d'Aosta</name>
+		<name normalized="Valle de Aosta" languages="Interlingua;Spanish">Valle de Aosta</name>
+		<name normalized="Valle d'Aosta" languages="Hungarian;Slovak">Valle d’Aosta</name>
+		<name normalized="Vallee d'Aoste" languages="English;official">Vallee d'Aoste</name>
+		<name normalized="Vallis Augustana" languages="Latin">Vallis Augustana</name>
+		<name normalized="Vallee d'Aoste" languages="French">Vallée d'Aoste</name>
+		<name normalized="Valo di Aosta" languages="Ido">Valo di Aosta</name>
+		<name normalized="Vale d'Aosta" languages="veneto">Vałe d'Aosta</name>
+		<name normalized="Walog sa Aosta" languages="Cebuano">Walog sa Aosta</name>
+		<name normalized="Agustudalur" languages="Icelandic">Ágústudalur</name>
+		<name normalized="Κοιλαδα της Αοστα" languages="Greek">Κοιλάδα της Αόστα</name>
+		<name normalized="Vaлi d'Aoсta" languages="Bulgarian">Вале д'Аоста</name>
+		<name normalized="Vaлi-d'Aoсta" languages="Belarusian">Вале-д’Аоста</name>
+		<name normalized="Vaллi-d'Aoсta" languages="Ukrainian">Валле-д'Аоста</name>
+		<name normalized="Vaллi-d'Aoсtae" languages="Ossetic">Валле-д’Аостæ</name>
+		<name normalized="Vaллi-d'Aoсta" languages="Chechen;Chuvash;Kazakh;Russian">Валле-д’Аоста</name>
+		<name normalized="Vaльлi-d'Aoсta" languages="biлaрuсkai (taрaskivita)‎">Вальле-д’Аоста</name>
+		<name normalized="Doлiнa Aoсti" languages="Serbian">Долина Аосте</name>
+		<name normalized="vאד ד'אvסth" languages="Hebrew">ואל ד'אוסטה</name>
+		<name normalized="fאلy دא أوسtא" languages="Arabic">فالي دا أوستا</name>
+		<name normalized="وאدی آوسtہ" languages="Urdu;Western Punjabi">وادی آوستہ</name>
+		<name normalized="وאلh دאئوسtא" languages="Persian">واله دائوستا</name>
+		<name normalized="aos्tा gाटi" languages="Hindi">आओस्ता घाटी</name>
+		<name normalized="v्hाle dाos्tा" languages="Marathi">व्हाले दाओस्ता</name>
+		<name normalized="aਓstਾ gਾਟi" languages="Punjabi">ਆਓਸਤਾ ਘਾਟੀ</name>
+		<name normalized="അയോസ്റ്റ വാലി" languages="Malayalam">അയോസ്റ്റ വാലി</name>
+		<name normalized="แคว้นปกครองตนเองวัลเลดาออสตา" languages="Thai">แคว้นปกครองตนเองวัลเลดาออสตา</name>
+		<name normalized="ვალე-დ'აოსტა" languages="Georgian">ვალე-დ’აოსტა</name>
+		<name normalized="vatr・dost州" languages="Japanese">ヴァッレ・ダオスタ州</name>
+		<name normalized="歐斯達山谷大區" languages="Cantonese">歐斯達山谷大區</name>
+		<name normalized="瓦莱达奥斯塔" languages="Chinese">瓦莱达奥斯塔</name>
+		<name normalized="발레다오스타 주" languages="Korean">발레다오스타 주</name>
+	</region>
+	<region name="Veneto" type="region" typeTranslated="regione">
+		<name normalized="Benecija" languages="Slovenian">Benečija</name>
+		<name normalized="Benatsko" languages="Czech;Slovak">Benátsko</name>
+		<name normalized="Feneto" languages="Western Frisian">Feneto</name>
+		<name normalized="Venetas" languages="Lithuanian">Venetas</name>
+		<name normalized="Venetia" languages="English;Finnish;Latin;official">Venetia</name>
+		<name normalized="Venetia Region" languages="English;official">Venetia Region</name>
+		<name normalized="Venetia Regione" languages="English;official">Venetia Regione</name>
+		<name normalized="Venetien" languages="German;Luxembourgish">Venetien</name>
+		<name normalized="Veneto" languages="Albanian;Aragonese;Basque;Bikol Central;Bosnian;Breton;Cebuano;Chinese (Min Nan);Cornish;Croatian;Danish;Dutch;English;Esperanto;Estonian;Finnish;Hungarian;Ido;Indonesian;Interlingua;Irish;Italian;Javanese;Ladino;Latvian;lumbaart;Malay;Neapolitan;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Quechua;Romanian;Scots;Serbo-Croatian;Simple English;Swahili;Swedish;Tagalog;tarandine;Turkish;Vietnamese;Waray;Welsh">Veneto</name>
+		<name normalized="Veneto Region" languages="English;official">Veneto Region</name>
+		<name normalized="Veneto Regione" languages="English;official">Veneto Regione</name>
+		<name normalized="Venetu" languages="Corsican">Venetu</name>
+		<name normalized="Veneto" languages="Icelandic">Venetó</name>
+		<name normalized="Veneza" languages="Portuguese">Veneza</name>
+		<name normalized="Venezien" languages="Bavarian">Venezien</name>
+		<name normalized="Venit" languages="Friulian">Venit</name>
+		<name normalized="Venneto" languages="Ligure">Venneto</name>
+		<name normalized="Venet" languages="Occitan">Venèt</name>
+		<name normalized="Venet" languages="Emiliano-Romagnolo">Vènet</name>
+		<name normalized="Veneto" languages="Catalan;veneto">Vèneto</name>
+		<name normalized="Venitu" languages="Sicilian">Vènitu</name>
+		<name normalized="Venecie" languages="Franco-Provencal">Vènècie</name>
+		<name normalized="Veneto" languages="Galician;Piedmontese;Spanish">Véneto</name>
+		<name normalized="Venetu" languages="Asturian">Vénetu</name>
+		<name normalized="Venetie" languages="French">Vénétie</name>
+		<name normalized="Veneto" languages="Portuguese">Vêneto</name>
+		<name normalized="Wenecja Euganejska" languages="Polish">Wenecja Euganejska</name>
+		<name normalized="Βeνετο" languages="Greek">Βένετο</name>
+		<name normalized="Viнita" languages="Belarusian">Венета</name>
+		<name normalized="Viнito" languages="Bulgarian;Chechen;Chuvash;Kazakh;Ossetic;Russian;Serbian;Ukrainian">Венето</name>
+		<name normalized="Veнeta" languages="biлaрuсkai (taрaskivita)‎">Вэнэта</name>
+		<name normalized="vntv" languages="Hebrew">ונטו</name>
+		<name normalized="sوbہ وینیٹو" languages="Western Punjabi">صوبہ وینیٹو</name>
+		<name normalized="fyنytو" languages="Arabic;Egyptian Spoken Arabic">فينيتو</name>
+		<name normalized="ونtو" languages="Persian">ونتو</name>
+		<name normalized="وینیtو" languages="Urdu">وینیتو</name>
+		<name normalized="v्heneto" languages="Marathi">व्हेनेतो</name>
+		<name normalized="vanੇtੋ" languages="Punjabi">ਵੈਨੇਤੋ</name>
+		<name normalized="แคว้นเวเนโต" languages="Thai">แคว้นเวเนโต</name>
+		<name normalized="ཝེ་ནེ་ཏོ།" languages="Tibetan">ཝེ་ནེ་ཏོ།</name>
+		<name normalized="ვენეტო" languages="Georgian">ვენეტო</name>
+		<name normalized="vent州" languages="Japanese">ヴェネト州</name>
+		<name normalized="威尼托" languages="Chinese">威尼托</name>
+		<name normalized="베네토 주" languages="Korean">베네토 주</name>
+	</region>
+</regions>

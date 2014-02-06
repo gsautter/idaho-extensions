@@ -1,0 +1,350 @@
+<regions country="Belarus">
+	<region name="Brest" type="province" typeTranslated="voblasts'">
+		<name normalized="Bressicia" languages="Latin">Bressicia</name>
+		<name normalized="Brest" languages="Aragonese;Azerbaijani;Basque;Breton;Catalan;Crimean Turkish;Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;French;German;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Slovak;Spanish;Swedish;Tahitian;Turkish;Vietnamese;Volapuk;Waray">Brest</name>
+		<name normalized="Brest i Kviterussland" languages="Norwegian Nynorsk">Brest i Kviterussland</name>
+		<name normalized="Brest oblast" languages="Danish">Brest oblast</name>
+		<name normalized="Brest Province" languages="English;official">Brest Province</name>
+		<name normalized="Brest Region" languages="English;Scots;Simple English">Brest Region</name>
+		<name normalized="Brest voblast" languages="Norwegian (bokmal)">Brest voblast</name>
+		<name normalized="Brest Voblastı" languages="Turkish">Brest Voblastı</name>
+		<name normalized="Brest Voblasts'" languages="English;official">Brest Voblasts'</name>
+		<name normalized="Brest-Litovsk" languages="Indonesian">Brest-Litovsk</name>
+		<name normalized="Bresta" languages="Latvian">Bresta</name>
+		<name normalized="Bresta regiono" languages="Esperanto">Bresta regiono</name>
+		<name normalized="Brestas" languages="Lithuanian">Brestas</name>
+		<name normalized="Brestas apgabals" languages="Latvian">Brestas apgabals</name>
+		<name normalized="Bresteko oblasta" languages="Basque">Bresteko oblasta</name>
+		<name normalized="Bresti oblast" languages="Estonian">Bresti oblast</name>
+		<name normalized="Brestin alue" languages="Finnish">Brestin alue</name>
+		<name normalized="Bresto" languages="Esperanto">Bresto</name>
+		<name normalized="Bresto sritis" languages="Lithuanian">Bresto sritis</name>
+		<name normalized="Brests voblast" languages="Swedish">Brests voblast</name>
+		<name normalized="Brestska oblast" languages="Bosnian;Croatian">Brestska oblast</name>
+		<name normalized="Brestska oblast" languages="Czech">Brestská oblast</name>
+		<name normalized="Brestska oblast" languages="Slovak">Brestská oblasť</name>
+		<name normalized="Breszkaja Woblasz" languages="German">Breszkaja Woblasz</name>
+		<name normalized="Breszt" languages="Hungarian">Breszt</name>
+		<name normalized="Breszti terulet" languages="Hungarian">Breszti terület</name>
+		<name normalized="Brzesc" languages="Polish">Brześć</name>
+		<name normalized="Brest" languages="Italian;lumbaart">Brėst</name>
+		<name normalized="Oblast Brest" languages="Dutch">Oblast Brest</name>
+		<name normalized="Obwod brzeski" languages="Polish">Obwód brzeski</name>
+		<name normalized="Provincia de Brest" languages="Spanish">Provincia de Brest</name>
+		<name normalized="Provinsi Brest" languages="Indonesian">Provinsi Brest</name>
+		<name normalized="Provincia de Brest" languages="Catalan">Província de Brest</name>
+		<name normalized="Regiunea Brest" languages="Romanian">Regiunea Brest</name>
+		<name normalized="Rexion de Bierascie" languages="Galician">Rexión de Bierascie</name>
+		<name normalized="Voblasc' di Brest" languages="Italian">Voblasc' di Brėst</name>
+		<name normalized="Voblast de Brest" languages="French">Voblast de Brest</name>
+		<name normalized="Biрaсьti" languages="biлaрuсkai (taрaskivita)‎">Берасьце</name>
+		<name normalized="Biрaсьtiйсkai vobлaсьtь" languages="biлaрuсkai (taрaskivita)‎">Берасьцейская вобласьць</name>
+		<name normalized="Biрiсtiйсьka obлaсtь" languages="Ukrainian">Берестейська область</name>
+		<name normalized="Biрiсti" languages="Ukrainian">Берестя</name>
+		<name normalized="Bрiсt" languages="Bulgarian;Eastern Mari;Kazakh;Lezghian;Macedonian;Russian;Serbian;Tatar">Брест</name>
+		<name normalized="Bрiсt ɵлkəсi" languages="Tatar">Брест өлкәсе</name>
+		<name normalized="Bрiсtka obлaсt" languages="Bulgarian">Брестка област</name>
+		<name normalized="Bрiсtсka obлaсt" languages="Serbian">Брестска област</name>
+		<name normalized="Bрiсtсkai obлaсtь" languages="Russian">Брестская область</name>
+		<name normalized="Bрeсt" languages="Sakha">Брэст</name>
+		<name normalized="Bрeсtkai vobлaсtь" languages="Belarusian">Брэсцкая вобласць</name>
+		<name normalized="Goрad Bрeсt" languages="Belarusian">Горад Брэст</name>
+		<name normalized="Brեstի mաrz" languages="Armenian">Բրեստի մարզ</name>
+		<name normalized="brיסq" languages="Yiddish">בריסק</name>
+		<name normalized="brסt דיtvbסq" languages="Hebrew">ברסט ליטובסק</name>
+		<name normalized="brسt, brسt" languages="Arabic">برست، برست</name>
+		<name normalized="brیسt אوbلאسt" languages="Western Punjabi">بریست اوبلاست</name>
+		<name normalized="bوbryسk أوbلאسt" languages="Arabic">بوبريسك أوبلاست</name>
+		<name normalized="เบรสต์" languages="Thai">เบรสต์</name>
+		<name normalized="ბრესტი" languages="Georgian">ბრესტი</name>
+		<name normalized="brst" languages="Japanese">ブレスト</name>
+		<name normalized="brst州" languages="Japanese">ブレスト州</name>
+		<name normalized="布列斯特" languages="Chinese">布列斯特</name>
+		<name normalized="布列斯特州" languages="Chinese">布列斯特州</name>
+		<name normalized="브레스트" languages="Korean">브레스트</name>
+		<name normalized="브레스트 주" languages="Korean">브레스트 주</name>
+	</region>
+	<region name="Homyel'" type="province" typeTranslated="voblasts'">
+		<name normalized="Gomel" languages="Crimean Turkish;Croatian;Danish;Dutch;English;Esperanto;Occitan;official;Portuguese;Romanian;Scots;Simple English;Vietnamese">Gomel</name>
+		<name normalized="Gomel Province" languages="English;official">Gomel Province</name>
+		<name normalized="Gomel Region" languages="English;Scots;Simple English">Gomel Region</name>
+		<name normalized="Gomel Voblasts'" languages="English;official">Gomel Voblasts'</name>
+		<name normalized="Gomelio sritis" languages="Lithuanian">Gomelio sritis</name>
+		<name normalized="Gomelis" languages="Lithuanian">Gomelis</name>
+		<name normalized="Gomelska oblast" languages="Bosnian;Croatian">Gomelska oblast</name>
+		<name normalized="Gomela" languages="Latvian">Gomeļa</name>
+		<name normalized="Gomelas apgabals" languages="Latvian">Gomeļas apgabals</name>
+		<name normalized="Guomele sretes" languages="Samogitian">Guomele srėtės</name>
+		<name normalized="Gomel" languages="Spanish">Gómel</name>
+		<name normalized="Homel" languages="Afrikaans;Basque;Czech;Finnish;German;Hungarian;Latin;Norwegian (bokmal);Polish;Swedish;Tahitian">Homel</name>
+		<name normalized="Homel'" languages="Italian">Homel'</name>
+		<name normalized="Homela regiono" languages="Esperanto">Homela regiono</name>
+		<name normalized="Homelgo oblasta" languages="Basque">Homelgo oblasta</name>
+		<name normalized="Homeli terulet" languages="Hungarian">Homeli terület</name>
+		<name normalized="Homelin alue" languages="Finnish">Homelin alue</name>
+		<name normalized="Homels voblast" languages="Swedish">Homels voblast</name>
+		<name normalized="Homelskaja Woblasz" languages="German">Homelskaja Woblasz</name>
+		<name normalized="Homelska oblast" languages="Czech">Homelská oblast</name>
+		<name normalized="Homel" languages="Slovak">Homeľ</name>
+		<name normalized="Homelska oblast" languages="Slovak">Homeľská oblasť</name>
+		<name normalized="Homiel" languages="Estonian;French">Homiel</name>
+		<name normalized="Homieli oblast" languages="Estonian">Homieli oblast</name>
+		<name normalized="Homjel voblast" languages="Norwegian (bokmal)">Homjel voblast</name>
+		<name normalized="Homyel" languages="English;Indonesian;official;Volapuk;Waray">Homyel</name>
+		<name normalized="Homyel Province" languages="English;official">Homyel Province</name>
+		<name normalized="Homyel Voblastı" languages="Turkish">Homyel Voblastı</name>
+		<name normalized="Homyel Voblasts'" languages="English;official">Homyel Voblasts'</name>
+		<name normalized="Homyel'" languages="English;official">Homyel'</name>
+		<name normalized="Homyel' Province" languages="English;official">Homyel' Province</name>
+		<name normalized="Homyel' Voblasts'" languages="English;official">Homyel' Voblasts'</name>
+		<name normalized="Homiel" languages="Catalan">Hómiel</name>
+		<name normalized="Oblast Gomel" languages="Dutch">Oblast Gomel</name>
+		<name normalized="Obwod homelski" languages="Polish">Obwód homelski</name>
+		<name normalized="Provincia de Gomel" languages="Spanish">Provincia de Gómel</name>
+		<name normalized="Provinsi Homiel" languages="Indonesian">Provinsi Homiel</name>
+		<name normalized="Provincia de Homiel" languages="Catalan">Província de Hómiel</name>
+		<name normalized="Regiunea Gomel" languages="Romanian">Regiunea Gomel</name>
+		<name normalized="Voblasc' di Homel'" languages="Italian">Voblasc' di Homel'</name>
+		<name normalized="Voblast de Homiel" languages="French;Portuguese">Voblast de Homiel</name>
+		<name normalized="Γομελ" languages="Greek">Γόμελ</name>
+		<name normalized="Goмiл" languages="Bulgarian">Гомел</name>
+		<name normalized="Goмiлсka obлaсt" languages="Bulgarian">Гомелска област</name>
+		<name normalized="Goмiлы obлaeсt" languages="Ossetic">Гомелы облæст</name>
+		<name normalized="Goмiль" languages="Chechen;Eastern Mari;Komi;Ossetic;Russian;Sakha;Ukrainian;biлaрuсkai (taрaskivita)‎">Гомель</name>
+		<name normalized="Goмiль ɵлkəсi" languages="Tatar">Гомель өлкәсе</name>
+		<name normalized="Goмiльсkai vobлaсtь" languages="Belarusian">Гомельская вобласць</name>
+		<name normalized="Goмiльсkai vobлaсьtь" languages="biлaрuсkai (taрaskivita)‎">Гомельская вобласьць</name>
+		<name normalized="Goмiльсkai obлaсtь" languages="Russian">Гомельская область</name>
+		<name normalized="Goмiльсьka obлaсtь" languages="Ukrainian">Гомельська область</name>
+		<name normalized="Goмil" languages="Serbian">Гомељ</name>
+		<name normalized="Goмilсka obлaсt" languages="Serbian">Гомељска област</name>
+		<name normalized="Goрad Goмiль" languages="Belarusian">Горад Гомель</name>
+		<name normalized="Գvmեlի mաrz" languages="Armenian">Գոմելի մարզ</name>
+		<name normalized="hvמד" languages="Hebrew">הומל</name>
+		<name normalized="غوmل أوbلאسt" languages="Arabic">غومل أوبلاست</name>
+		<name normalized="غوmyل" languages="Arabic">غوميل</name>
+		<name normalized="gوmل" languages="Mazanderani;Persian">گومل</name>
+		<name normalized="ہوmیئل ووbلאسt" languages="Western Punjabi">ہومیئل ووبلاست</name>
+		<name normalized="கோமெல்" languages="Tamil">கோமெல்</name>
+		<name normalized="กอเมล" languages="Thai">กอเมล</name>
+		<name normalized="hmr" languages="Japanese">ホメリ</name>
+		<name normalized="hmr州" languages="Japanese">ホメリ州</name>
+		<name normalized="戈梅利" languages="Chinese">戈梅利</name>
+		<name normalized="戈梅利州" languages="Chinese">戈梅利州</name>
+		<name normalized="호몔" languages="Korean">호몔</name>
+		<name normalized="호몔 주" languages="Korean">호몔 주</name>
+	</region>
+	<region name="Horad Minsk" type="municipality" typeTranslated="municipality">
+		<name normalized="Horad Minsk" languages="English;official">Horad Minsk</name>
+		<name normalized="Minsc" languages="Irish">Minsc</name>
+		<name normalized="Minscum" languages="Latin">Minscum</name>
+		<name normalized="Minsk" languages="Afrikaans;Albanian;Aragonese;Asturian;Azerbaijani;Banjar;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Crimean Turkish;Croatian;Czech;Danish;Dutch;English;Estonian;Ewe;Extremaduran;Faroese;Fiji Hindi;Finnish;Franco-Provencal;French;Gagauz;Galician;German;Haitian;Icelandic;Ido;Indonesian;Interlingue;Italian;Javanese;Kabyle;Ligure;Lingala;Lower Sorbian;lumbaart;Luxembourgish;Malagasy;Maltese;Manx;Maori;Nahuatl;Neapolitan;Northern Frisian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Papiamento;Piedmontese;Portuguese;Quechua;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Sicilian;Simple English;Slovak;Slovenian;Spanish;Swahili;Swedish;Tagalog;Tahitian;Turkish;Turkmen;Upper Sorbian;Uzbek;Veps;Vietnamese;Volapuk;veneto;Voro;Waray;Welsh;Western Frisian;Wolof;Yoruba">Minsk</name>
+		<name normalized="Minsk City" languages="English;official">Minsk City</name>
+		<name normalized="Minska" languages="Latvian">Minska</name>
+		<name normalized="Minskas" languages="Lithuanian">Minskas</name>
+		<name normalized="Minsko" languages="Esperanto">Minsko</name>
+		<name normalized="Minsks" languages="Samogitian">Minsks</name>
+		<name normalized="Minszk" languages="Hungarian">Minszk</name>
+		<name normalized="Minsk" languages="Kashubian;Polish;Silesian">Mińsk</name>
+		<name normalized="Minsk" languages="Kurdish">Mînsk</name>
+		<name normalized="Μινσκ" languages="Greek">Μινσκ</name>
+		<name normalized="Goрad Мiнсk" languages="Belarusian">Горад Мінск</name>
+		<name normalized="Мiнсk" languages="biлaрuсkai (taрaskivita)‎">Менск</name>
+		<name normalized="Мiнсk" languages="Bulgarian;Chechen;Chuvash;Eastern Mari;Kazakh;Komi;Kyrgyz;Macedonian;Moldavian;Mongolian;Ossetic;Russian;Serbian;Tajik;Tatar;Udmurt">Минск</name>
+		<name normalized="Мiнсk os" languages="Erzya">Минск ош</name>
+		<name normalized="Мiнсkaй" languages="Sakha">Минскай</name>
+		<name normalized="Мiнсk" languages="Rusyn">Мінск</name>
+		<name normalized="Мiнсьk" languages="Ukrainian">Мінськ</name>
+		<name normalized="Мѣньсkъ" languages="Church Slavic">Мѣньскъ</name>
+		<name normalized="Mինsk" languages="Armenian">Մինսկ</name>
+		<name normalized="מיnסq" languages="Hebrew;Yiddish">מינסק</name>
+		<name normalized="mنسک" languages="Urdu;Western Punjabi">منسک</name>
+		<name normalized="mىنىسkى" languages="Uyghur">مىنىسكى</name>
+		<name normalized="myنسk" languages="Arabic">مينسك</name>
+		<name normalized="mینسک" languages="Persian;Sorani Kurdish">مینسک</name>
+		<name normalized="min्‍s्‍k" languages="Hindi;Marathi">मिन्‍स्‍क</name>
+		<name normalized="miੰsk" languages="Punjabi">ਮਿੰਸਕ</name>
+		<name normalized="மின்ஸ்க்" languages="Tamil">மின்ஸ்க்</name>
+		<name normalized="ಮಿನ್ಸ್ಕ್" languages="Kannada">ಮಿನ್ಸ್ಕ್</name>
+		<name normalized="മിൻസ്ക്" languages="Malayalam">മിൻസ്ക്</name>
+		<name normalized="มินสก์" languages="Thai">มินสก์</name>
+		<name normalized="མིན་སིཀ།" languages="Tibetan">མིན་སིཀ།</name>
+		<name normalized="მინსკი" languages="Georgian">მინსკი</name>
+		<name normalized="mnsk" languages="Japanese">ミンスク</name>
+		<name normalized="明斯克" languages="Cantonese;Chinese;Wu">明斯克</name>
+		<name normalized="민스크" languages="Korean">민스크</name>
+	</region>
+	<region name="Hrodna" type="province" typeTranslated="voblasts'">
+		<name normalized="Gardinas" languages="Lithuanian">Gardinas</name>
+		<name normalized="Grodna" languages="Latin">Grodna</name>
+		<name normalized="Grodno" languages="Crimean Turkish;Croatian;Czech;Danish;Dutch;English;Esperanto;official;Polish;Scots;Simple English;Spanish;Turkish">Grodno</name>
+		<name normalized="Grodno Province" languages="English;official">Grodno Province</name>
+		<name normalized="Grodno Voblasts'" languages="English;official">Grodno Voblasts'</name>
+		<name normalized="Grodna" languages="Latvian">Grodņa</name>
+		<name normalized="Hrodna" languages="Basque;Catalan;English;Estonian;Finnish;French;German;Hungarian;Indonesian;Italian;Norwegian (bokmal);official;Portuguese;Romanian;Slovak;Swedish;Tahitian;Volapuk;Waray">Hrodna</name>
+		<name normalized="Hrodna Province" languages="English;official">Hrodna Province</name>
+		<name normalized="Hrodna Voblasts'" languages="English;official">Hrodna Voblasts'</name>
+		<name normalized="Goрad Gрodнa" languages="Belarusian">Горад Гродна</name>
+		<name normalized="Goрadнi" languages="biлaрuсkai (taрaskivita)‎">Горадня</name>
+		<name normalized="Gрodнo" languages="Bulgarian;Chechen;Ossetic;Russian;Sakha;Serbian;Tatar;Ukrainian">Гродно</name>
+		<name normalized="hvrדnh" languages="Hebrew">הורדנה</name>
+		<name normalized="غrودنو" languages="Arabic">غرودنو</name>
+		<name normalized="grودنא" languages="Western Punjabi">گرودنا</name>
+		<name normalized="กรอดโน" languages="Thai">กรอดโน</name>
+		<name normalized="hrdn" languages="Japanese">フロドナ</name>
+		<name normalized="格罗德诺" languages="Chinese">格罗德诺</name>
+		<name normalized="흐로드나" languages="Korean">흐로드나</name>
+	</region>
+	<region name="Mahilyow" type="province" typeTranslated="voblasts'">
+		<name normalized="Maguilov" languages="Spanish">Maguilov</name>
+		<name normalized="Mahiliou" languages="Basque">Mahiliou</name>
+		<name normalized="Mahiljou" languages="Finnish;German">Mahiljou</name>
+		<name normalized="Mahiljov" languages="Hungarian">Mahiljov</name>
+		<name normalized="Mahiljow" languages="Norwegian (bokmal)">Mahiljow</name>
+		<name normalized="Mahiljou" languages="Danish;Esperanto;Swedish">Mahiljoŭ</name>
+		<name normalized="Mahilou" languages="Portuguese">Mahilou</name>
+		<name normalized="Mahilou" languages="Croatian;Estonian">Mahiloŭ</name>
+		<name normalized="Mahilyow" languages="English;Indonesian;official">Mahilyow</name>
+		<name normalized="Mahilyow Province" languages="English;official">Mahilyow Province</name>
+		<name normalized="Mahilyow Voblasts'" languages="English;official">Mahilyow Voblasts'</name>
+		<name normalized="Mahileu" languages="Italian;lumbaart">Mahilëŭ</name>
+		<name normalized="Mahilov" languages="Slovak">Mahiľov</name>
+		<name normalized="Moghilau" languages="Romanian">Moghilău</name>
+		<name normalized="Mogilev" languages="Breton;Crimean Turkish;English;official;Scots;Vietnamese;Waray">Mogilev</name>
+		<name normalized="Mogilev Province" languages="English;official">Mogilev Province</name>
+		<name normalized="Mogilev Voblasts'" languages="English;official">Mogilev Voblasts'</name>
+		<name normalized="Mogiliavas" languages="Lithuanian">Mogiliavas</name>
+		<name normalized="Mogiljov" languages="Dutch">Mogiljov</name>
+		<name normalized="Mogilyov" languages="Simple English;Turkish">Mogilyov</name>
+		<name normalized="Mogileva" languages="Latvian">Mogiļeva</name>
+		<name normalized="Moguilev" languages="French">Moguilev</name>
+		<name normalized="Mohilovia" languages="Latin">Mohilovia</name>
+		<name normalized="Mohylev" languages="Czech">Mohylev</name>
+		<name normalized="Mohylew" languages="Polish">Mohylew</name>
+		<name normalized="Μογκιλιοφ" languages="Greek">Μογκιλιόφ</name>
+		<name normalized="Goрad Мagiлёў" languages="Belarusian">Горад Магілёў</name>
+		<name normalized="Мagiлёў" languages="biлaрuсkai (taрaskivita)‎">Магілёў</name>
+		<name normalized="Мogiльov" languages="Bulgarian;Ukrainian">Могильов</name>
+		<name normalized="Мogiлёv" languages="Ossetic;Russian;Sakha;Tatar">Могилёв</name>
+		<name normalized="Мogilov" languages="Serbian">Могиљов</name>
+		<name normalized="מvhידb" languages="Hebrew">מוהילב</name>
+		<name normalized="mوgیلf" languages="Persian">موگیلف</name>
+		<name normalized="mوgیلیf" languages="Western Punjabi">موگیلیف</name>
+		<name normalized="โมกีลอฟ" languages="Thai">โมกีลอฟ</name>
+		<name normalized="mhrョu" languages="Japanese">マヒリョウ</name>
+		<name normalized="莫吉廖夫" languages="Chinese">莫吉廖夫</name>
+		<name normalized="마힐료프" languages="Korean">마힐료프</name>
+	</region>
+	<region name="Minsk" type="province" typeTranslated="voblasts'">
+		<name normalized="Minsc" languages="Irish">Minsc</name>
+		<name normalized="Minscum" languages="Latin">Minscum</name>
+		<name normalized="Minsk" languages="Afrikaans;Albanian;Aragonese;Asturian;Azerbaijani;Banjar;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Crimean Turkish;Croatian;Czech;Danish;Dutch;English;Estonian;Ewe;Extremaduran;Faroese;Fiji Hindi;Finnish;Franco-Provencal;French;Gagauz;Galician;German;Haitian;Icelandic;Ido;Indonesian;Interlingue;Italian;Javanese;Kabyle;Ligure;Lingala;Lower Sorbian;lumbaart;Luxembourgish;Malagasy;Maltese;Manx;Maori;Nahuatl;Neapolitan;Northern Frisian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Papiamento;Piedmontese;Portuguese;Quechua;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Sicilian;Simple English;Slovak;Slovenian;Spanish;Swahili;Swedish;Tagalog;Tahitian;Turkish;Turkmen;Upper Sorbian;Uzbek;Veps;Vietnamese;Volapuk;veneto;Voro;Waray;Welsh;Western Frisian;Wolof;Yoruba">Minsk</name>
+		<name normalized="Minsk Province" languages="English;official">Minsk Province</name>
+		<name normalized="Minsk Region" languages="English;Scots;Simple English">Minsk Region</name>
+		<name normalized="Minsk voblast" languages="Norwegian (bokmal)">Minsk voblast</name>
+		<name normalized="Minsk Voblasts'" languages="English;official">Minsk Voblasts'</name>
+		<name normalized="Minska" languages="Latvian">Minska</name>
+		<name normalized="Minska oblast" languages="Bosnian;Croatian">Minska oblast</name>
+		<name normalized="Minska regiono" languages="Esperanto">Minska regiono</name>
+		<name normalized="Minska sretes" languages="Samogitian">Minska srėtės</name>
+		<name normalized="Minskaja Woblasz" languages="German">Minskaja Woblasz</name>
+		<name normalized="Minskas" languages="Lithuanian">Minskas</name>
+		<name normalized="Minskas apgabals" languages="Latvian">Minskas apgabals</name>
+		<name normalized="Minskeko oblasta" languages="Basque">Minskeko oblasta</name>
+		<name normalized="Minski oblast" languages="Estonian">Minski oblast</name>
+		<name normalized="Minskin alue" languages="Finnish">Minskin alue</name>
+		<name normalized="Minsko" languages="Esperanto">Minsko</name>
+		<name normalized="Minsko sritis" languages="Lithuanian">Minsko sritis</name>
+		<name normalized="Minsks" languages="Samogitian">Minsks</name>
+		<name normalized="Minsks voblast" languages="Swedish">Minsks voblast</name>
+		<name normalized="Minska oblast" languages="Czech">Minská oblast</name>
+		<name normalized="Minska oblast" languages="Slovak">Minská oblasť</name>
+		<name normalized="Minszk" languages="Hungarian">Minszk</name>
+		<name normalized="Minszki terulet" languages="Hungarian">Minszki terület</name>
+		<name normalized="Minsk" languages="Kashubian;Polish;Silesian">Mińsk</name>
+		<name normalized="Minsk" languages="Kurdish">Mînsk</name>
+		<name normalized="Oblast Minsk" languages="Dutch">Oblast Minsk</name>
+		<name normalized="Obwod minski" languages="Polish">Obwód miński</name>
+		<name normalized="Provincia de Minsk" languages="Spanish">Provincia de Minsk</name>
+		<name normalized="Provinsi Minsk" languages="Indonesian">Provinsi Minsk</name>
+		<name normalized="Provincia de Minsk" languages="Catalan">Província de Minsk</name>
+		<name normalized="Regiunea Minsk" languages="Romanian">Regiunea Minsk</name>
+		<name normalized="Voblasc' di Minsk" languages="Italian">Voblasc' di Minsk</name>
+		<name normalized="Voblast de Minsk" languages="French;Portuguese">Voblast de Minsk</name>
+		<name normalized="Μινσκ" languages="Greek">Μινσκ</name>
+		<name normalized="Goрad Мiнсk" languages="Belarusian">Горад Мінск</name>
+		<name normalized="Мiнсk" languages="biлaрuсkai (taрaskivita)‎">Менск</name>
+		<name normalized="Мiнсkai vobлaсьtь" languages="biлaрuсkai (taрaskivita)‎">Менская вобласьць</name>
+		<name normalized="Мiнсk" languages="Bulgarian;Chechen;Chuvash;Eastern Mari;Kazakh;Komi;Kyrgyz;Macedonian;Moldavian;Mongolian;Ossetic;Russian;Serbian;Tajik;Tatar;Udmurt">Минск</name>
+		<name normalized="Мiнсk os" languages="Erzya">Минск ош</name>
+		<name normalized="Мiнсk ɵлkəсi" languages="Tatar">Минск өлкәсе</name>
+		<name normalized="Мiнсka obлaсt" languages="Bulgarian;Macedonian;Serbian">Минска област</name>
+		<name normalized="Мiнсkaй" languages="Sakha">Минскай</name>
+		<name normalized="Мiнсkai obлaсtь" languages="Russian">Минская область</name>
+		<name normalized="Мiнсk" languages="Rusyn">Мінск</name>
+		<name normalized="Мiнсkai vobлaсtь" languages="Belarusian">Мінская вобласць</name>
+		<name normalized="Мiнсьk" languages="Ukrainian">Мінськ</name>
+		<name normalized="Мiнсьka obлaсtь" languages="Ukrainian">Мінська область</name>
+		<name normalized="Мѣньсkъ" languages="Church Slavic">Мѣньскъ</name>
+		<name normalized="Mինsk" languages="Armenian">Մինսկ</name>
+		<name normalized="Mինskի mաrz" languages="Armenian">Մինսկի մարզ</name>
+		<name normalized="מיnסq" languages="Hebrew;Yiddish">מינסק</name>
+		<name normalized="מיnסqעr גvbעrnיע" languages="Yiddish">מינסקער גובערניע</name>
+		<name normalized="mنسک" languages="Urdu;Western Punjabi">منسک</name>
+		<name normalized="mنسک ووbلאسt" languages="Western Punjabi">منسک ووبلاست</name>
+		<name normalized="mىنىسkى" languages="Uyghur">مىنىسكى</name>
+		<name normalized="myنسk" languages="Arabic">مينسك</name>
+		<name normalized="mینسک" languages="Persian;Sorani Kurdish">مینسک</name>
+		<name normalized="min्‍s्‍k" languages="Hindi;Marathi">मिन्‍स्‍क</name>
+		<name normalized="miੰsk" languages="Punjabi">ਮਿੰਸਕ</name>
+		<name normalized="மின்ஸ்க்" languages="Tamil">மின்ஸ்க்</name>
+		<name normalized="ಮಿನ್ಸ್ಕ್" languages="Kannada">ಮಿನ್ಸ್ಕ್</name>
+		<name normalized="മിൻസ്ക്" languages="Malayalam">മിൻസ്ക്</name>
+		<name normalized="มินสก์" languages="Thai">มินสก์</name>
+		<name normalized="མིན་སིཀ།" languages="Tibetan">མིན་སིཀ།</name>
+		<name normalized="მინსკი" languages="Georgian">მინსკი</name>
+		<name normalized="mnsk" languages="Japanese">ミンスク</name>
+		<name normalized="mnsk州" languages="Japanese">ミンスク州</name>
+		<name normalized="明斯克" languages="Cantonese;Chinese;Wu">明斯克</name>
+		<name normalized="明斯克州" languages="Chinese">明斯克州</name>
+		<name normalized="민스크" languages="Korean">민스크</name>
+		<name normalized="민스크 주" languages="Korean">민스크 주</name>
+	</region>
+	<region name="Vitsyebsk" type="province" typeTranslated="voblasts'">
+		<name normalized="Vicebsk" languages="Croatian;Italian;lumbaart;Slovak">Vicebsk</name>
+		<name normalized="Vicebsko" languages="Esperanto">Vicebsko</name>
+		<name normalized="Vicebszk" languages="Hungarian">Vicebszk</name>
+		<name normalized="Viciebsk" languages="Estonian">Viciebsk</name>
+		<name normalized="Vitebscum" languages="Latin">Vitebscum</name>
+		<name normalized="Vitebsk" languages="Crimean Turkish;Czech;Danish;Dutch;English;French;Indonesian;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Scots;Serbo-Croatian;Simple English;Slovenian;Turkish;Veps;Waray">Vitebsk</name>
+		<name normalized="Vitebsk Province" languages="English;official">Vitebsk Province</name>
+		<name normalized="Vitebsk Voblasts'" languages="English;official">Vitebsk Voblasts'</name>
+		<name normalized="Vitebska" languages="Latvian">Vitebska</name>
+		<name normalized="Vitebskas" languages="Lithuanian">Vitebskas</name>
+		<name normalized="Vitsebsk" languages="Basque;Finnish;Swedish;Tahitian">Vitsebsk</name>
+		<name normalized="Vitsyebsk" languages="English;official;Volapuk">Vitsyebsk</name>
+		<name normalized="Vitsyebsk Province" languages="English;official">Vitsyebsk Province</name>
+		<name normalized="Vitsyebsk Voblasts'" languages="English;official">Vitsyebsk Voblasts'</name>
+		<name normalized="Vitebsk" languages="Spanish">Vítebsk</name>
+		<name normalized="Vitsiebsk" languages="Catalan">Vítsiebsk</name>
+		<name normalized="Witebsk" languages="Kashubian;Polish;Turkmen">Witebsk</name>
+		<name normalized="Wizebsk" languages="German;Low German">Wizebsk</name>
+		<name normalized="Βιτσeμπσκ" languages="Greek">Βιτσέμπσκ</name>
+		<name normalized="Vitibсk" languages="Bulgarian;Chechen;Russian;Sakha">Витебск</name>
+		<name normalized="Vitipсk" languages="Serbian">Витепск</name>
+		<name normalized="Vitьbьсkъ" languages="Church Slavic">Витьбьскъ</name>
+		<name normalized="Vitibсьk" languages="Ukrainian">Вітебськ</name>
+		<name normalized="Vitibсk" languages="biлaрuсkai (taрaskivita)‎">Віцебск</name>
+		<name normalized="Goрad Vitibсk" languages="Belarusian">Горад Віцебск</name>
+		<name normalized="Վիtեbsk" languages="Armenian">Վիտեբսկ</name>
+		<name normalized="vvיtעbסq" languages="Yiddish">וויטעבסק</name>
+		<name normalized="vיtbסq" languages="Hebrew">ויטבסק</name>
+		<name normalized="fytybسk" languages="Arabic">فيتيبسك</name>
+		<name normalized="وtیbسک" languages="Western Punjabi">وتیبسک</name>
+		<name normalized="วีเต็บสค์" languages="Thai">วีเต็บสค์</name>
+		<name normalized="ვიტებსკი" languages="Georgian">ვიტებსკი</name>
+		<name normalized="viーtepsk" languages="Japanese">ヴィーツェプスク</name>
+		<name normalized="维捷布斯克" languages="Chinese">维捷布斯克</name>
+		<name normalized="비쳅스크" languages="Korean">비쳅스크</name>
+	</region>
+</regions>

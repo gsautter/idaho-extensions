@@ -1,0 +1,536 @@
+<regions country="Venezuela">
+	<region name="Amazonas" type="state" typeTranslated="estado">
+		<name normalized="Amarumayu suyu" languages="Quechua">Amarumayu suyu</name>
+		<name normalized="Amasonas" languages="Ladino">Amasonas</name>
+		<name normalized="Amazonas" languages="Basque;Breton;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Dutch;English;Finnish;Galician;German;Hungarian;Ido;Indonesian;Italian;Malay;Norwegian (bokmal);Occitan;official;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swedish;Turkish;Vietnamese;Waray">Amazonas</name>
+		<name normalized="Amazonas i Venezuela" languages="Norwegian Nynorsk">Amazonas i Venezuela</name>
+		<name normalized="Amazonase osariik" languages="Estonian">Amazonase osariik</name>
+		<name normalized="Amazonio" languages="Esperanto">Amazonio</name>
+		<name normalized="Amazone" languages="Lithuanian">Amazonė</name>
+		<name normalized="Estat de l'Amazones" languages="Catalan">Estat de l'Amazones</name>
+		<name normalized="Estato Amazonas" languages="Aragonese">Estato Amazonas</name>
+		<name normalized="Etat d'Amazonas" languages="French">État d'Amazonas</name>
+		<name normalized="Aмazoнaс" languages="Macedonian;Serbian">Амазонас</name>
+		<name normalized="Aмaсoнaс" languages="Bulgarian;Russian;Ukrainian">Амасонас</name>
+		<name normalized="Iёлoti Aмazoнaс" languages="Tajik">Иёлоти Амазонас</name>
+		<name normalized="Stat Aмaсoнaс" languages="Belarusian">Штат Амасонас</name>
+		<name normalized="אیאلt آmאزون" languages="Persian">ایالت آمازون</name>
+		<name normalized="sوbہ אیmیزونאس" languages="Western Punjabi">صوبہ ایمیزوناس</name>
+		<name normalized="รัฐอามาโซนัส" languages="Thai">รัฐอามาโซนัส</name>
+		<name normalized="ამასონასის შტატი" languages="Georgian">ამასონასის შტატი</name>
+		<name normalized="amsns州" languages="Japanese">アマソナス州</name>
+		<name normalized="亞馬遜州" languages="Chinese">亞馬遜州</name>
+		<name normalized="아마소나스 주" languages="Korean">아마소나스 주</name>
+	</region>
+	<region name="Anzoategui" type="state" typeTranslated="estado">
+		<name normalized="Ansoategis" languages="Lithuanian">Ansoategis</name>
+		<name normalized="Anzoategui" languages="English;Ladino;official;Vietnamese">Anzoategui</name>
+		<name normalized="Anzoategui" languages="Basque;Breton;Catalan;Chinese (Min Nan);Cornish;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;Galician;German;Hungarian;Indonesian;Italian;Norwegian (bokmal);Norwegian Nynorsk;Polish;Portuguese;Romanian;Scots;Spanish;Swedish;Waray">Anzoátegui</name>
+		<name normalized="Anzoategui suyu" languages="Quechua">Anzoátegui suyu</name>
+		<name normalized="Estato Anzoategui" languages="Aragonese">Estato Anzoátegui</name>
+		<name normalized="Etat d'Anzoategui" languages="French">État d'Anzoátegui</name>
+		<name normalized="Aнzoatigi" languages="Macedonian;Serbian">Анзоатеги</name>
+		<name normalized="Aнсoatigi" languages="Bulgarian;Russian">Ансоатеги</name>
+		<name normalized="Aнсoatigi" languages="Ukrainian">Ансоатегі</name>
+		<name normalized="Iёлoti Aнzoatigi" languages="Tajik">Иёлоти Анзоатеги</name>
+		<name normalized="Stat Aнсaategi" languages="Belarusian">Штат Ансаатэгі</name>
+		<name normalized="אیאلt آنسوآtgی" languages="Persian">ایالت آنسوآتگی</name>
+		<name normalized="รัฐอันโซอาเตกี" languages="Thai">รัฐอันโซอาเตกี</name>
+		<name normalized="ანსოატეგი" languages="Georgian">ანსოატეგი</name>
+		<name normalized="ansatg州" languages="Japanese">アンソアテギ州</name>
+		<name normalized="安索阿特吉州" languages="Chinese">安索阿特吉州</name>
+		<name normalized="안소아테기 주" languages="Korean">안소아테기 주</name>
+	</region>
+	<region name="Apure" type="state" typeTranslated="estado">
+		<name normalized="Apure" languages="Basque;Breton;Catalan;Chinese (Min Nan);Cornish;Czech;Danish;Dutch;English;Estonian;Finnish;Galician;German;Hungarian;Indonesian;Italian;Ladino;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Polish;Portuguese;Romanian;Scots;Simple English;Spanish;Swedish;Vietnamese;Waray">Apure</name>
+		<name normalized="Apure suyu" languages="Quechua">Apure suyu</name>
+		<name normalized="Apure" languages="Lithuanian">Apūrė</name>
+		<name normalized="Estato Apure" languages="Aragonese">Estato Apure</name>
+		<name normalized="Etat d'Apure" languages="French">État d'Apure</name>
+		<name normalized="Apuрi" languages="Bulgarian;Macedonian;Russian;Serbian;Ukrainian">Апуре</name>
+		<name normalized="Iёлoti Apuр" languages="Tajik">Иёлоти Апур</name>
+		<name normalized="Stat Apuрe" languages="Belarusian">Штат Апурэ</name>
+		<name normalized="אیאلt آpوrh" languages="Persian">ایالت آپوره</name>
+		<name normalized="sوbہ آpوrہ" languages="Western Punjabi">صوبہ آپورہ</name>
+		<name normalized="รัฐอาปูเร" languages="Thai">รัฐอาปูเร</name>
+		<name normalized="apr州" languages="Japanese">アプレ州</name>
+		<name normalized="阿普雷州" languages="Chinese">阿普雷州</name>
+		<name normalized="아푸레 주" languages="Korean">아푸레 주</name>
+	</region>
+	<region name="Aragua" type="state" typeTranslated="estado">
+		<name normalized="Aragua" languages="Basque;Breton;Catalan;Chinese (Min Nan);Cornish;Czech;Danish;Dutch;English;Esperanto;Estonian;German;Indonesian;Italian;Ladino;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Scots;Spanish;Swedish;Vietnamese;Waray">Aragua</name>
+		<name normalized="Aragua suyu" languages="Quechua">Aragua suyu</name>
+		<name normalized="Aragva" languages="Lithuanian">Aragva</name>
+		<name normalized="Estato Aragua" languages="Aragonese">Estato Aragua</name>
+		<name normalized="Etat d'Aragua" languages="French">État d'Aragua</name>
+		<name normalized="Aрagva" languages="Macedonian;Serbian">Арагва</name>
+		<name normalized="Aрaguae" languages="Ossetic">Арагуæ</name>
+		<name normalized="Aрagua" languages="Bulgarian;Russian;Ukrainian">Арагуа</name>
+		<name normalized="Iёлoti Aрagua" languages="Tajik">Иёлоти Арагуа</name>
+		<name normalized="Stat Aрagua" languages="Belarusian">Штат Арагуа</name>
+		<name normalized="אیאلt آrאgوآ" languages="Persian">ایالت آراگوآ</name>
+		<name normalized="sوbہ אrאgوא" languages="Western Punjabi">صوبہ اراگوا</name>
+		<name normalized="รัฐอารากวา" languages="Thai">รัฐอารากวา</name>
+		<name normalized="არაგუის შტატი" languages="Georgian">არაგუის შტატი</name>
+		<name normalized="arga州" languages="Japanese">アラグア州</name>
+		<name normalized="阿拉瓜州" languages="Chinese">阿拉瓜州</name>
+		<name normalized="아라과 주" languages="Korean">아라과 주</name>
+	</region>
+	<region name="Barinas" type="state" typeTranslated="estado">
+		<name normalized="Barinas" languages="Breton;Catalan;Chinese (Min Nan);Cornish;Czech;Danish;Dutch;English;German;Indonesian;Italian;Ladino;Malay;Nahuatl;Norwegian (bokmal);Occitan;official;Polish;Portuguese;Romanian;Scots;Spanish;Swedish;Waray">Barinas</name>
+		<name normalized="Barinas estatua" languages="Basque">Barinas estatua</name>
+		<name normalized="Barinas i Venezuela" languages="Norwegian Nynorsk">Barinas i Venezuela</name>
+		<name normalized="Barinas suyu" languages="Quechua">Barinas suyu</name>
+		<name normalized="Barinasas" languages="Lithuanian">Barinasas</name>
+		<name normalized="Barinase osariik" languages="Estonian">Barinase osariik</name>
+		<name normalized="Estato Barinas" languages="Aragonese">Estato Barinas</name>
+		<name normalized="Etat de Barinas" languages="French">État de Barinas</name>
+		<name normalized="Baрiнaс" languages="Bulgarian;Macedonian;Ossetic;Russian;Serbian">Баринас</name>
+		<name normalized="Stat Baрынaс" languages="Belarusian">Штат Барынас</name>
+		<name normalized="אیאلt bאrینאس" languages="Persian">ایالت باریناس</name>
+		<name normalized="sوbہ bאrینאس" languages="Western Punjabi">صوبہ باریناس</name>
+		<name normalized="ولאyة bאryنאس" languages="Arabic">ولاية باريناس</name>
+		<name normalized="รัฐบารีนัส" languages="Thai">รัฐบารีนัส</name>
+		<name normalized="ბარინასის შტატი" languages="Georgian">ბარინასის შტატი</name>
+		<name normalized="brns州" languages="Japanese">バリナス州</name>
+		<name normalized="巴里纳斯州" languages="Chinese">巴里纳斯州</name>
+		<name normalized="바리나스 주" languages="Korean">바리나스 주</name>
+	</region>
+	<region name="Bolivar" type="state" typeTranslated="estado">
+		<name normalized="Bolivar" languages="Croatian;English;Ladino;official;Serbo-Croatian">Bolivar</name>
+		<name normalized="Bolivaras" languages="Lithuanian">Bolivaras</name>
+		<name normalized="Bolivaro" languages="Esperanto">Bolivaro</name>
+		<name normalized="Bolivar" languages="Breton;Cornish;Danish;Dutch;English;Finnish;German;Indonesian;Italian;Malay;Norwegian (bokmal);Polish;Portuguese;Romanian;Scots;Spanish;Swedish;Waray">Bolívar</name>
+		<name normalized="Bolivar estatua" languages="Basque">Bolívar estatua</name>
+		<name normalized="Bolivar i Venezuela" languages="Norwegian Nynorsk">Bolívar i Venezuela</name>
+		<name normalized="Bolivar suyu" languages="Quechua">Bolívar suyu</name>
+		<name normalized="Bolivari osariik" languages="Estonian">Bolívari osariik</name>
+		<name normalized="Estat Bolivar" languages="Catalan">Estat Bolívar</name>
+		<name normalized="Estato Bolivar" languages="Aragonese">Estato Bolívar</name>
+		<name normalized="Etat de Bolivar" languages="French">État de Bolívar</name>
+		<name normalized="Boлivaр" languages="Bulgarian;Macedonian;Ossetic;Russian;Serbian">Боливар</name>
+		<name normalized="Boлivaр" languages="Ukrainian">Болівар</name>
+		<name normalized="Stat Baлivaр" languages="Belarusian">Штат Балівар</name>
+		<name normalized="אیאلt bولیوאr" languages="Persian">ایالت بولیوار</name>
+		<name normalized="sوbہ bولیوאr(وینزویلא)" languages="Western Punjabi">صوبہ بولیوار(وینزویلا)</name>
+		<name normalized="รัฐโบลีวาร์" languages="Thai">รัฐโบลีวาร์</name>
+		<name normalized="ბოლივარის შტატი" languages="Georgian">ბოლივარის შტატი</name>
+		<name normalized="brbr州" languages="Japanese">ボリバル州</name>
+		<name normalized="玻利瓦爾州" languages="Chinese">玻利瓦爾州</name>
+		<name normalized="볼리바르 주" languages="Korean">볼리바르 주</name>
+	</region>
+	<region name="Carabobo" type="state" typeTranslated="estado">
+		<name normalized="Carabobo" languages="Afrikaans;Basque;Breton;Catalan;Chinese (Min Nan);Cornish;Czech;Danish;Dutch;English;Estonian;Finnish;German;Indonesian;Italian;Ladino;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Scots;Spanish;Swedish;Vietnamese;Waray">Carabobo</name>
+		<name normalized="Estato Carabobo" languages="Aragonese">Estato Carabobo</name>
+		<name normalized="Karabobas" languages="Lithuanian">Karabobas</name>
+		<name normalized="Karabubu suyu" languages="Quechua">Karabubu suyu</name>
+		<name normalized="Etat de Carabobo" languages="French">État de Carabobo</name>
+		<name normalized="Iёлoti Kaрabobo" languages="Tajik">Иёлоти Карабобо</name>
+		<name normalized="Kaрabobo" languages="Bulgarian;Macedonian;Ossetic;Russian;Serbian;Ukrainian">Карабобо</name>
+		<name normalized="Stat Kaрaboba" languages="Belarusian">Штат Карабоба</name>
+		<name normalized="sوbہ کאrאbوbو" languages="Western Punjabi">صوبہ کارابوبو</name>
+		<name normalized="รัฐการาโบโบ" languages="Thai">รัฐการาโบโบ</name>
+		<name normalized="კარაბობოს შტატი" languages="Georgian">კარაბობოს შტატი</name>
+		<name normalized="krbb州" languages="Japanese">カラボボ州</name>
+		<name normalized="卡拉波波州" languages="Chinese">卡拉波波州</name>
+		<name normalized="카라보보 주" languages="Korean">카라보보 주</name>
+	</region>
+	<region name="Cojedes" type="state" typeTranslated="estado">
+		<name normalized="Cojedes" languages="Breton;Catalan;Chinese (Min Nan);Cornish;Danish;Dutch;English;Estonian;German;Indonesian;Italian;Ladino;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Scots;Silesian;Spanish;Swedish;Waray">Cojedes</name>
+		<name normalized="Cojedes suyu" languages="Quechua">Cojedes suyu</name>
+		<name normalized="Estato Cojedes" languages="Aragonese">Estato Cojedes</name>
+		<name normalized="Kochedesas" languages="Lithuanian">Kochedesas</name>
+		<name normalized="Etat de Cojedes" languages="French">État de Cojedes</name>
+		<name normalized="Iёлoti Kokidiс" languages="Tajik">Иёлоти Кохедес</name>
+		<name normalized="Kokidiс" languages="Bulgarian;Macedonian;Russian;Serbian;Ukrainian">Кохедес</name>
+		<name normalized="Stat Kakideс" languages="Belarusian">Штат Кахедэс</name>
+		<name normalized="sوbہ کوjیدس" languages="Western Punjabi">صوبہ کوجیدس</name>
+		<name normalized="รัฐโกเฮเดส" languages="Thai">รัฐโกเฮเดส</name>
+		<name normalized="კოხედესის შტატი" languages="Georgian">კოხედესის შტატი</name>
+		<name normalized="khds州" languages="Japanese">コヘデス州</name>
+		<name normalized="科赫德斯州" languages="Chinese">科赫德斯州</name>
+		<name normalized="코헤데스 주" languages="Korean">코헤데스 주</name>
+	</region>
+	<region name="Delta Amacuro" type="state" typeTranslated="estado">
+		<name normalized="Amakuro Delta" languages="Lithuanian">Amakuro Delta</name>
+		<name normalized="Delta Amacuro" languages="Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Danish;Dutch;English;Estonian;German;Indonesian;Italian;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Spanish;Swedish;Waray">Delta Amacuro</name>
+		<name normalized="Delta Amacuro suyu" languages="Quechua">Delta Amacuro suyu</name>
+		<name normalized="Delta Amakuro" languages="Ladino">Delta Amakuro</name>
+		<name normalized="Estato Delta Amacuro" languages="Aragonese">Estato Delta Amacuro</name>
+		<name normalized="Etat de Delta Amacuro" languages="French">État de Delta Amacuro</name>
+		<name normalized="Diлta Aмakuрo" languages="Bulgarian;Macedonian;Serbian">Делта Амакуро</name>
+		<name normalized="Diльta-Aмakuрo" languages="Russian">Дельта-Амакуро</name>
+		<name normalized="Iёлoti Diлta Aмakuрo" languages="Tajik">Иёлоти Делта Амакуро</name>
+		<name normalized="Stat Deльta-Aмakuрa" languages="Belarusian">Штат Дэльта-Амакура</name>
+		<name normalized="sوbہ ڈیلٹא אیmאکیوrو" languages="Western Punjabi">صوبہ ڈیلٹا ایماکیورو</name>
+		<name normalized="รัฐเดลตาอามากูโร" languages="Thai">รัฐเดลตาอามากูโร</name>
+		<name normalized="დელტა-ამაკურო" languages="Georgian">დელტა-ამაკურო</name>
+		<name normalized="drtamkr州" languages="Japanese">デルタアマクロ州</name>
+		<name normalized="阿马库罗三角洲州" languages="Chinese">阿马库罗三角洲州</name>
+		<name normalized="델타아마쿠로 주" languages="Korean">델타아마쿠로 주</name>
+	</region>
+	<region name="Dependencias Federales" type="federal dependency" typeTranslated="federal dependency">
+		<name normalized="Dependencias Federales" languages="English;German;official;Swedish">Dependencias Federales</name>
+		<name normalized="Dependencias Federales Venezolanas" languages="Spanish">Dependencias Federales Venezolanas</name>
+		<name normalized="Dependencias Federales Venezolanos" languages="Waray">Dependencias Federales Venezolanos</name>
+		<name normalized="Dependencias Federals Venezolanas" languages="Aragonese">Dependencias Federals Venezolanas</name>
+		<name normalized="Dependencje Federalne" languages="Polish">Dependencje Federalne</name>
+		<name normalized="Dependensias Federalas" languages="Ladino">Dependensias Federalas</name>
+		<name normalized="Dependențele federale ale Venezuelei" languages="Romanian">Dependențele federale ale Venezuelei</name>
+		<name normalized="Dependencias Federais da Venezuela" languages="Portuguese">Dependências Federais da Venezuela</name>
+		<name normalized="Dipendenze Federali" languages="Italian">Dipendenze Federali</name>
+		<name normalized="Dependances federales" languages="French">Dépendances fédérales</name>
+		<name normalized="Federal Dependencies" languages="English;official">Federal Dependencies</name>
+		<name normalized="Federal dependencies o Venezuela" languages="Scots">Federal dependencies o Venezuela</name>
+		<name normalized="Federal Dependencies of Venezuela" languages="English">Federal Dependencies of Venezuela</name>
+		<name normalized="Federale gebieden" languages="Dutch">Federale gebieden</name>
+		<name normalized="Federalni dependence" languages="Czech">Federální dependence</name>
+		<name normalized="Venecuelas Federalie valdijumi" languages="Latvian">Venecuēlas Federālie valdījumi</name>
+		<name normalized="Venesuelos federalines valdos" languages="Lithuanian">Venesuelos federalinės valdos</name>
+		<name normalized="Фidiрaлнa tiрitoрija Viнituiлi" languages="Serbian">Федерална територија Венецуеле</name>
+		<name normalized="Фidiрaльныi vлadiнii Viнiсueлы" languages="Russian">Федеральные владения Венесуэлы</name>
+		<name normalized="Фidiрaльнi voлodiннi Viнiсuiлi" languages="Ukrainian">Федеральні володіння Венесуели</name>
+		<name normalized="ვენესუელის ფედერალური სამფლობელოები" languages="Georgian">ვენესუელის ფედერალური სამფლობელოები</name>
+		<name normalized="bnzer連邦保護領" languages="Japanese">ベネズエラ連邦保護領</name>
+		<name normalized="聯邦屬地" languages="Chinese">聯邦屬地</name>
+		<name normalized="연방 속지" languages="Korean">연방 속지</name>
+	</region>
+	<region name="Distrito Capital" type="capital district" typeTranslated="capital district">
+		<name normalized="Caipital Destrict" languages="Scots">Caipital Destrict</name>
+		<name normalized="Capital District" languages="English;official">Capital District</name>
+		<name normalized="Capital districts and territories" languages="English">Capital districts and territories</name>
+		<name normalized="Daerah dan distrik ibu kota" languages="Indonesian">Daerah dan distrik ibu kota</name>
+		<name normalized="Distretto Capitale" languages="Italian">Distretto Capitale</name>
+		<name normalized="District capitale de Caracas" languages="French">District capitale de Caracas</name>
+		<name normalized="Districto Capital" languages="Aragonese">Districto Capital</name>
+		<name normalized="Distrikti i Kryeqytetit" languages="Albanian">Distrikti i Kryeqytetit</name>
+		<name normalized="Distrito Capital" languages="Dutch;English;German;official;Portuguese;Romanian;Spanish">Distrito Capital</name>
+		<name normalized="Distrito Capital han Venezuela" languages="Waray">Distrito Capital han Venezuela</name>
+		<name normalized="Distrito Kapital" languages="Ladino">Distrito Kapital</name>
+		<name normalized="Hauptstadtdistrikt" languages="German">Hauptstadtdistrikt</name>
+		<name normalized="Hoofdstedelijk District" languages="Dutch">Hoofdstedelijk District</name>
+		<name normalized="Venesuelos sostines apygarda" languages="Lithuanian">Venesuelos sostinės apygarda</name>
+		<name normalized="Venezuela Baskent Bolgesi" languages="Turkish">Venezuela Başkent Bölgesi</name>
+		<name normalized="Venezuelas huvudstadsdistrikt" languages="Swedish">Venezuelas huvudstadsdistrikt</name>
+		<name normalized="Aсtaнaлыk tiррitoрii" languages="Kazakh">Астаналық территория</name>
+		<name normalized="Сtoлicнai tiррitoрii" languages="Russian">Столичная территория</name>
+		<name normalized="Фidiрaльный okрug Viнiсueлы" languages="Russian">Федеральный округ Венесуэлы</name>
+		<name normalized="ვენესუელის ფედერალური ოლქი" languages="Georgian">ვენესუელის ფედერალური ოლქი</name>
+		<name normalized="聯邦區" languages="Chinese">聯邦區</name>
+		<name normalized="首都地区" languages="Japanese">首都地区</name>
+		<name normalized="首都州" languages="Japanese">首都州</name>
+		<name normalized="수도 지구" languages="Korean">수도 지구</name>
+	</region>
+	<region name="Falcon" type="state" typeTranslated="estado">
+		<name normalized="Belatz" languages="Basque">Belatz</name>
+		<name normalized="Chi Cat" languages="Vietnamese">Chi Cắt</name>
+		<name normalized="Cuauhtohtli" languages="Nahuatl">Cuāuhtohtli</name>
+		<name normalized="Dogan" languages="Turkish">Doğan</name>
+		<name normalized="Dumagat" languages="Tagalog">Dumagat</name>
+		<name normalized="Fabhcun" languages="Irish">Fabhcún</name>
+		<name normalized="Falc'hun" languages="Breton">Falc'hun</name>
+		<name normalized="Falco" languages="Afrikaans;Aragonese;Croatian;Czech;Dutch;French;Hungarian;Italian;Latin;Spanish;Swedish">Falco</name>
+		<name normalized="Falcon" languages="English;official;Simple English">Falcon</name>
+		<name normalized="Falcao" languages="Portuguese">Falcão</name>
+		<name normalized="Falco" languages="Catalan">Falcó</name>
+		<name normalized="Falcon" languages="Galician">Falcón</name>
+		<name normalized="Falk" languages="Danish">Falk</name>
+		<name normalized="Falken" languages="German">Falken</name>
+		<name normalized="Falker" languages="Norwegian (bokmal)">Falker</name>
+		<name normalized="Falko" languages="Esperanto">Falko</name>
+		<name normalized="Falkon" languages="Indonesian;Malay">Falkon</name>
+		<name normalized="Falkono" languages="Ido">Falkono</name>
+		<name normalized="Falkur" languages="Faroese">Falkur</name>
+		<name normalized="Farcone" languages="Neapolitan">Farcone</name>
+		<name normalized="Faucon" languages="Scots">Faucon</name>
+		<name normalized="Fealcen" languages="Old English">Fealcen</name>
+		<name normalized="Feucon" languages="Picard">Feucon</name>
+		<name normalized="Facon" languages="Walloon">Fåcon</name>
+		<name normalized="Gavinel" languages="veneto">Gavinel</name>
+		<name normalized="Gini" languages="Navajo">Giní</name>
+		<name normalized="Jalohaukat" languages="Finnish">Jalohaukat</name>
+		<name normalized="Kozi" languages="Swahili">Kozi</name>
+		<name normalized="Mamani" languages="Aymara">Mamani</name>
+		<name normalized="Piekuni" languages="Latvian">Piekūni</name>
+		<name normalized="Qızılqus" languages="Azerbaijani">Qızılquş</name>
+		<name normalized="Sakalai" languages="Lithuanian">Sakalai</name>
+		<name normalized="Sokoly" languages="Polish">Sokoły</name>
+		<name normalized="Taguato" languages="Guarani">Taguato</name>
+		<name normalized="Waman" languages="Quechua">Waman</name>
+		<name normalized="Simqar" languages="Kurdish">Şimqar</name>
+		<name normalized="Γερακι" languages="Greek">Γεράκι</name>
+		<name normalized="Kaрd" languages="Lezghian">Кард</name>
+		<name normalized="Лacыннaр" languages="Tatar">Лачыннар</name>
+		<name normalized="Лica" languages="Chechen">Леча</name>
+		<name normalized="Мokсoҕoл" languages="Sakha">Мохсоҕол</name>
+		<name normalized="Сoko" languages="Serbian">Соко</name>
+		<name normalized="Сokoлi" languages="Bulgarian">Соколи</name>
+		<name normalized="Сokoлы" languages="Russian">Соколы</name>
+		<name normalized="Сokiл" languages="Ukrainian">Сокіл</name>
+		<name normalized="Uaрi" languages="Ossetic">Уари</name>
+		<name normalized="Soнkoр" languages="Mongolian">Шонхор</name>
+		<name normalized="Suмkaрлaр" languages="Kyrgyz">Шумкарлар</name>
+		<name normalized="Bաzենեr" languages="Armenian">Բազեներ</name>
+		<name normalized="bז" languages="Hebrew">בז</name>
+		<name normalized="bאز" languages="Pashto">باز</name>
+		<name normalized="شאhین" languages="Persian">شاهین</name>
+		<name normalized="sqr" languages="Arabic">صقر</name>
+		<name normalized="เหยี่ยว" languages="Thai">เหยี่ยว</name>
+		<name normalized="ဖယ်(လ်)ကင်သိမ်း" languages="Burmese">ဖယ်(လ်)ကင်သိမ်း</name>
+		<name normalized="შავარდენი" languages="Georgian">შავარდენი</name>
+		<name normalized="ᑭᒡᒐᕕᒃ" languages="Inuktitut">ᑭᒡᒐᕕᒃ</name>
+		<name normalized="hybs属" languages="Japanese">ハヤブサ属</name>
+		<name normalized="隼" languages="Chinese">隼</name>
+		<name normalized="매속" languages="Korean">매속</name>
+	</region>
+	<region name="Guarico" type="state" typeTranslated="estado">
+		<name normalized="Estato Guarico" languages="Aragonese">Estato Guárico</name>
+		<name normalized="Guarico" languages="English;official;Vietnamese">Guarico</name>
+		<name normalized="Guarico" languages="Breton;Catalan;Chinese (Min Nan);Cornish;Danish;Dutch;English;Estonian;Finnish;German;Italian;Malay;Norwegian (bokmal);Norwegian Nynorsk;Polish;Portuguese;Romanian;Scots;Spanish;Swedish;Waray">Guárico</name>
+		<name normalized="Guarico suyu" languages="Quechua">Guárico suyu</name>
+		<name normalized="Gvarikas" languages="Lithuanian">Gvarikas</name>
+		<name normalized="Etat de Guarico" languages="French">État de Guárico</name>
+		<name normalized="Gvaрiko" languages="Macedonian;Serbian">Гварико</name>
+		<name normalized="Guaрiko" languages="Bulgarian;Russian">Гуарико</name>
+		<name normalized="Guaрiko" languages="Ukrainian">Гуаріко</name>
+		<name normalized="Iёлoti Guaрiko" languages="Tajik">Иёлоти Гуарико</name>
+		<name normalized="Stat Guaрыka" languages="Belarusian">Штат Гуарыка</name>
+		<name normalized="sوbہ gوאrیکو" languages="Western Punjabi">صوبہ گواریکو</name>
+		<name normalized="รัฐกวารีโก" languages="Thai">รัฐกวารีโก</name>
+		<name normalized="გუარიკოს შტატი" languages="Georgian">გუარიკოს შტატი</name>
+		<name normalized="gark州" languages="Japanese">グアリコ州</name>
+		<name normalized="瓜里科州" languages="Chinese">瓜里科州</name>
+		<name normalized="과리코 주" languages="Korean">과리코 주</name>
+	</region>
+	<region name="Lara" type="state" typeTranslated="estado">
+		<name normalized="Estat Lara" languages="Catalan">Estat Lara</name>
+		<name normalized="Estato Lara" languages="Aragonese">Estato Lara</name>
+		<name normalized="Lara" languages="Breton;Chinese (Min Nan);Cornish;Danish;Dutch;English;Estonian;Finnish;German;Italian;Ladino;Lithuanian;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Scots;Spanish;Swedish;Waray">Lara</name>
+		<name normalized="Lara suyu" languages="Quechua">Lara suyu</name>
+		<name normalized="Etat de Lara" languages="French">État de Lara</name>
+		<name normalized="Iёлoti Лaрa" languages="Tajik">Иёлоти Лара</name>
+		<name normalized="Лaрa" languages="Bulgarian;Macedonian;Russian;Serbian;Ukrainian">Лара</name>
+		<name normalized="Stat Лaрa" languages="Belarusian">Штат Лара</name>
+		<name normalized="sوbہ لאrא" languages="Western Punjabi">صوبہ لارا</name>
+		<name normalized="รัฐลารา" languages="Thai">รัฐลารา</name>
+		<name normalized="ლარას შტატი" languages="Georgian">ლარას შტატი</name>
+		<name normalized="rr州" languages="Japanese">ララ州</name>
+		<name normalized="拉腊州" languages="Chinese">拉腊州</name>
+		<name normalized="라라 주" languages="Korean">라라 주</name>
+	</region>
+	<region name="Merida" type="state" typeTranslated="estado">
+		<name normalized="Emerita" languages="Latin">Emerita</name>
+		<name normalized="Merida" languages="Aragonese;Azerbaijani;English;Latvian;Lithuanian;official;Old English">Merida</name>
+		<name normalized="Merido" languages="Esperanto">Merido</name>
+		<name normalized="Meria" languages="Extremaduran">Méria</name>
+		<name normalized="Merida" languages="Afrikaans;Albanian;Alemannisch;Aromanian;Asturian;Basque;Bavarian;Bosnian;Catalan;Cheyenne;Chinese (Min Nan);Colognian;Croatian;Czech;Danish;Deitsch;Dutch;Emiliano-Romagnolo;English;Estonian;Finnish;French;Friulian;Gagauz;Galician;German;Haitian;Hungarian;Ido;Indonesian;Interlingua;Italian;Ladino;Ligure;lumbaart;Maltese;Mirandese;Nahuatl;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Nouormand;Occitan;Papiamento;Piedmontese;Polish;Portuguese;Quechua;Romanian;Romansh;Sardinian;Scots;Serbo-Croatian;Sicilian;Silesian;Simple English;Slovak;Slovenian;Spanish;Swahili;Swedish;tarandine;Turkish;Vietnamese;Volapuk;veneto;Walloon;Waray;Wolof;Yoruba">Mérida</name>
+		<name normalized="Santiago de los Caballeros de Merida" languages="Bislama;Breton;Novial">Santiago de los Caballeros de Mérida</name>
+		<name normalized="Μeριδα" languages="Greek">Μέριδα</name>
+		<name normalized="Goрad Мiрыda" languages="Belarusian">Горад Мерыда</name>
+		<name normalized="Мiрidae" languages="Ossetic">Меридæ</name>
+		<name normalized="Мiрida" languages="Abkhazian;Bashkir;Bulgarian;Chuvash;Kazakh;Macedonian;Moksha;Russian;Serbian;Tatar">Мерида</name>
+		<name normalized="Мiрida" languages="Ukrainian">Меріда</name>
+		<name normalized="Мeрыda" languages="biлaрuсkai (taрaskivita)‎">Мэрыда</name>
+		<name normalized="Mեrիdա" languages="Armenian">Մերիդա</name>
+		<name normalized="מעrידא" languages="Yiddish">מערידא</name>
+		<name normalized="מrידh" languages="Hebrew">מרידה</name>
+		<name normalized="mאrدة" languages="Arabic">ماردة</name>
+		<name normalized="mrیدא" languages="Persian">مریدا</name>
+		<name normalized="მერიდა" languages="Georgian">მერიდა</name>
+		<name normalized="ሜሪዳ፣ ቬኔዝዌላ" languages="Amharic">ሜሪዳ፣ ቬኔዝዌላ</name>
+		<name normalized="mrd" languages="Japanese">メリダ</name>
+		<name normalized="梅里達市" languages="Cantonese;Chinese">梅里達市</name>
+		<name normalized="메리다" languages="Korean">메리다</name>
+	</region>
+	<region name="Miranda" type="state" typeTranslated="estado">
+		<name normalized="Estat de Miranda" languages="Catalan">Estat de Miranda</name>
+		<name normalized="Estato Miranda" languages="Aragonese">Estato Miranda</name>
+		<name normalized="Miranda" languages="Breton;Chinese (Min Nan);Cornish;Czech;Danish;Dutch;English;Esperanto;Finnish;German;Hungarian;Italian;Ladino;Latin;Lithuanian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Simple English;Spanish;Swedish;Vietnamese;Waray">Miranda</name>
+		<name normalized="Miranda i Venezuela" languages="Norwegian Nynorsk">Miranda i Venezuela</name>
+		<name normalized="Miranda osariik" languages="Estonian">Miranda osariik</name>
+		<name normalized="Miranda suyu" languages="Quechua">Miranda suyu</name>
+		<name normalized="Etat de Miranda" languages="French">État de Miranda</name>
+		<name normalized="Iёлoti Мiрaнda" languages="Tajik">Иёлоти Миранда</name>
+		<name normalized="Мiрaнda" languages="Bulgarian;Macedonian;Russian;Serbian">Миранда</name>
+		<name normalized="Мiрaнda" languages="Ukrainian">Міранда</name>
+		<name normalized="Stat Мiрaнda" languages="Belarusian">Штат Міранда</name>
+		<name normalized="sوbہ mیrאندא" languages="Western Punjabi">صوبہ میراندا</name>
+		<name normalized="รัฐมีรันดา" languages="Thai">รัฐมีรันดา</name>
+		<name normalized="მირანდას შტატი" languages="Georgian">მირანდას შტატი</name>
+		<name normalized="mrnd州" languages="Japanese">ミランダ州</name>
+		<name normalized="米兰达州" languages="Chinese">米兰达州</name>
+		<name normalized="미란다 주" languages="Korean">미란다 주</name>
+	</region>
+	<region name="Monagas" type="state" typeTranslated="estado">
+		<name normalized="Estato Monagas" languages="Aragonese">Estato Monagas</name>
+		<name normalized="Monagas" languages="Breton;Catalan;Chinese (Min Nan);Cornish;Danish;Dutch;English;Estonian;German;Italian;Ladino;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Scots;Spanish;Swedish;Waray">Monagas</name>
+		<name normalized="Monagas suyu" languages="Quechua">Monagas suyu</name>
+		<name normalized="Monagasas" languages="Lithuanian">Monagasas</name>
+		<name normalized="Etat de Monagas" languages="French">État de Monagas</name>
+		<name normalized="Iёлoti Мoнagaс" languages="Tajik">Иёлоти Монагас</name>
+		<name normalized="Мoнagaс" languages="Bulgarian;Macedonian;Russian;Serbian;Ukrainian">Монагас</name>
+		<name normalized="Stat Мaнagaс" languages="Belarusian">Штат Манагас</name>
+		<name normalized="sوbہ mونאgאس" languages="Western Punjabi">صوبہ موناگاس</name>
+		<name normalized="รัฐโมนากัส" languages="Thai">รัฐโมนากัส</name>
+		<name normalized="მონაგასის შტატი" languages="Georgian">მონაგასის შტატი</name>
+		<name normalized="mngs州" languages="Japanese">モナガス州</name>
+		<name normalized="莫納加斯州" languages="Chinese">莫納加斯州</name>
+		<name normalized="모나가스 주" languages="Korean">모나가스 주</name>
+	</region>
+	<region name="Nueva Esparta" type="state" typeTranslated="estado">
+		<name normalized="Estato Nueva Esparta" languages="Aragonese">Estato Nueva Esparta</name>
+		<name normalized="Mueva Esparta" languages="Ladino">Mueva Esparta</name>
+		<name normalized="Nueva Esparta" languages="Breton;Catalan;Chinese (Min Nan);Cornish;Czech;Danish;Dutch;English;German;Lithuanian;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Scots;Spanish;Swedish;Waray">Nueva Esparta</name>
+		<name normalized="Nueva Esparta suyu" languages="Quechua">Nueva Esparta suyu</name>
+		<name normalized="Nuova Sparta" languages="Italian">Nuova Sparta</name>
+		<name normalized="Etat de Nueva Esparta" languages="French">État de Nueva Esparta</name>
+		<name normalized="Iёлoti Нueva Eсpaрta" languages="Tajik">Иёлоти Нуэва Эспарта</name>
+		<name normalized="Нuiva Iсpaрta" languages="Bulgarian;Macedonian;Serbian">Нуева Еспарта</name>
+		<name normalized="Нueva-Eсpaрtae" languages="Ossetic">Нуэва-Эспартæ</name>
+		<name normalized="Нueva-Eсpaрta" languages="Russian">Нуэва-Эспарта</name>
+		<name normalized="Stat Нueva-Eсpaрta" languages="Belarusian">Штат Нуэва-Эспарта</name>
+		<name normalized="sوbہ نیوא אسpאrٹא" languages="Western Punjabi">صوبہ نیوا اسپارٹا</name>
+		<name normalized="รัฐนวยวาเอสปาร์ตา" languages="Thai">รัฐนวยวาเอสปาร์ตา</name>
+		<name normalized="ნუევა-ესპარტა" languages="Georgian">ნუევა-ესპარტა</name>
+		<name normalized="neb・esprt州" languages="Japanese">ヌエバ・エスパルタ州</name>
+		<name normalized="新埃斯帕塔州" languages="Chinese">新埃斯帕塔州</name>
+		<name normalized="누에바에스파르타 주" languages="Korean">누에바에스파르타 주</name>
+	</region>
+	<region name="Portuguesa" type="state" typeTranslated="estado">
+		<name normalized="Estat Portuguesa" languages="Catalan">Estat Portuguesa</name>
+		<name normalized="Estato Portuguesa" languages="Aragonese">Estato Portuguesa</name>
+		<name normalized="Portugesa" languages="Lithuanian">Portugesa</name>
+		<name normalized="Portuguesa" languages="Breton;Cornish;Danish;Dutch;English;Estonian;German;Italian;Ladino;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Scots;Spanish;Swedish;Waray">Portuguesa</name>
+		<name normalized="Portuguesa suyu" languages="Quechua">Portuguesa suyu</name>
+		<name normalized="Etat de Portuguesa" languages="French">État de Portuguesa</name>
+		<name normalized="Iёлoti Poрtugiсa" languages="Tajik">Иёлоти Португеса</name>
+		<name normalized="Poрtugiсa" languages="Bulgarian;Macedonian;Russian;Serbian;Ukrainian">Португеса</name>
+		<name normalized="Stat Paрtugiсa" languages="Belarusian">Штат Партугеса</name>
+		<name normalized="אیאلt‌ pوrtوgسא" languages="Persian">ایالت‌ پورتوگسا</name>
+		<name normalized="bوrtوغyزא" languages="Arabic">بورتوغيزا</name>
+		<name normalized="sوbہ prtgیزא" languages="Western Punjabi">صوبہ پرتگیزا</name>
+		<name normalized="รัฐโปร์ตูเกซา" languages="Thai">รัฐโปร์ตูเกซา</name>
+		<name normalized="პორტუგესის შტატი" languages="Georgian">პორტუგესის შტატი</name>
+		<name normalized="prtugs州" languages="Japanese">ポルトゥゲサ州</name>
+		<name normalized="波图格萨州" languages="Chinese">波图格萨州</name>
+		<name normalized="포르투게사 주" languages="Korean">포르투게사 주</name>
+	</region>
+	<region name="Sucre" type="state" typeTranslated="estado">
+		<name normalized="Estat Sucre" languages="Catalan">Estat Sucre</name>
+		<name normalized="Estato Sucre" languages="Aragonese">Estato Sucre</name>
+		<name normalized="Sucre" languages="Breton;Cornish;Danish;Dutch;English;Finnish;German;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Spanish;Swedish;Waray">Sucre</name>
+		<name normalized="Sucre i Venezuela" languages="Norwegian Nynorsk">Sucre i Venezuela</name>
+		<name normalized="Sucre osariik" languages="Estonian">Sucre osariik</name>
+		<name normalized="Sucre suyu" languages="Quechua">Sucre suyu</name>
+		<name normalized="Sukre" languages="Ladino">Sukre</name>
+		<name normalized="Sukre" languages="Lithuanian">Sukrė</name>
+		<name normalized="Etat de Sucre" languages="French">État de Sucre</name>
+		<name normalized="Сukрi" languages="Bulgarian;Macedonian;Russian;Serbian;Ukrainian">Сукре</name>
+		<name normalized="Stat Сukрe" languages="Belarusian">Штат Сукрэ</name>
+		<name normalized="sوbہ سکrے" languages="Western Punjabi">صوبہ سکرے</name>
+		<name normalized="รัฐซูเกร" languages="Thai">รัฐซูเกร</name>
+		<name normalized="სუკრეს შტატი" languages="Georgian">სუკრეს შტატი</name>
+		<name normalized="skr州" languages="Japanese">スクレ州</name>
+		<name normalized="苏克雷州" languages="Chinese">苏克雷州</name>
+		<name normalized="수크레 주" languages="Korean">수크레 주</name>
+	</region>
+	<region name="Tachira" type="state" typeTranslated="estado">
+		<name normalized="Estato Tachira" languages="Aragonese">Estato Táchira</name>
+		<name normalized="Tachira" languages="English;Ladino;official">Tachira</name>
+		<name normalized="Tacira" languages="Lithuanian">Tačira</name>
+		<name normalized="Tachira" languages="Breton;Catalan;Chinese (Min Nan);Cornish;Danish;Dutch;English;Esperanto;Estonian;German;Italian;Malay;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Occitan;Polish;Portuguese;Romanian;Scots;Simple English;Spanish;Swedish;Turkish;Waray">Táchira</name>
+		<name normalized="Tachira suyu" languages="Quechua">Táchira suyu</name>
+		<name normalized="Etat de Tachira" languages="French">État de Táchira</name>
+		<name normalized="Iёлoti Taciрa" languages="Tajik">Иёлоти Тачира</name>
+		<name normalized="Taciрae" languages="Ossetic">Тачирæ</name>
+		<name normalized="Taciрa" languages="Bulgarian;Macedonian;Russian;Serbian">Тачира</name>
+		<name normalized="Taciрa" languages="Ukrainian">Тачіра</name>
+		<name normalized="Stat Tacырa" languages="Belarusian">Штат Тачыра</name>
+		<name normalized="אیאلt tאچیrא" languages="Persian">ایالت تاچیرا</name>
+		<name normalized="tאtشyrא" languages="Arabic">تاتشيرا</name>
+		<name normalized="sوbہ tאچrא" languages="Western Punjabi">صوبہ تاچرا</name>
+		<name normalized="รัฐตาชีรา" languages="Thai">รัฐตาชีรา</name>
+		<name normalized="ტაჩირის შტატი" languages="Georgian">ტაჩირის შტატი</name>
+		<name normalized="ttr州" languages="Japanese">タチラ州</name>
+		<name normalized="塔奇拉州" languages="Chinese">塔奇拉州</name>
+		<name normalized="타치라 주" languages="Korean">타치라 주</name>
+	</region>
+	<region name="Trujillo" type="state" typeTranslated="estado">
+		<name normalized="Estat de Trujillo" languages="Catalan">Estat de Trujillo</name>
+		<name normalized="Estato Trujillo" languages="Aragonese">Estato Trujillo</name>
+		<name normalized="Truchiljas" languages="Lithuanian">Truchiljas</name>
+		<name normalized="Truhillu suyu" languages="Quechua">Truhillu suyu</name>
+		<name normalized="Trujillo" languages="Breton;Chinese (Min Nan);Cornish;Danish;Dutch;English;Esperanto;German;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Spanish;Swedish;Vietnamese;Waray">Trujillo</name>
+		<name normalized="Trujillo i Venezuela" languages="Norwegian Nynorsk">Trujillo i Venezuela</name>
+		<name normalized="Trujillo osariik" languages="Estonian">Trujillo osariik</name>
+		<name normalized="Trujiyo" languages="Ladino">Trujiyo</name>
+		<name normalized="Etat de Trujillo" languages="French">État de Trujillo</name>
+		<name normalized="Iёлoti Tрukiлo" languages="Tajik">Иёлоти Трухило</name>
+		<name normalized="Tрukiльo" languages="Bulgarian;Russian">Трухильо</name>
+		<name normalized="Tрukiлjo" languages="Macedonian">Трухилјо</name>
+		<name normalized="Tрukilo" languages="Serbian">Трухиљо</name>
+		<name normalized="Tрukiльйo" languages="Ukrainian">Трухільйо</name>
+		<name normalized="Stat Tрukiльё" languages="Belarusian">Штат Трухільё</name>
+		<name normalized="אیאلt trوخیو" languages="Persian">ایالت تروخیو</name>
+		<name normalized="sوbہ trوjلو" languages="Western Punjabi">صوبہ تروجلو</name>
+		<name normalized="รัฐตรูฮีโย" languages="Thai">รัฐตรูฮีโย</name>
+		<name normalized="ტრუხილიოს შტატი" languages="Georgian">ტრუხილიოს შტატი</name>
+		<name normalized="trhーzョ州" languages="Japanese">トルヒージョ州</name>
+		<name normalized="特鲁希略州" languages="Chinese">特鲁希略州</name>
+		<name normalized="트루히요 주" languages="Korean">트루히요 주</name>
+	</region>
+	<region name="Vargas" type="state" typeTranslated="estado">
+		<name normalized="Estat de Vargas" languages="Catalan">Estat de Vargas</name>
+		<name normalized="Estato Vargas" languages="Aragonese">Estato Vargas</name>
+		<name normalized="Vargas" languages="Breton;Chinese (Min Nan);Cornish;Danish;Dutch;English;Estonian;German;Italian;Ladino;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Scots;Spanish;Swedish;Waray">Vargas</name>
+		<name normalized="Vargas suyu" languages="Quechua">Vargas suyu</name>
+		<name normalized="Vargasas" languages="Lithuanian">Vargasas</name>
+		<name normalized="Etat de Vargas" languages="French">État de Vargas</name>
+		<name normalized="Vaрgaс" languages="Bulgarian;Macedonian;Russian;Serbian;Ukrainian">Варгас</name>
+		<name normalized="Iёлoti Vaрgaс" languages="Tajik">Иёлоти Варгас</name>
+		<name normalized="Stat Vaрgaс" languages="Belarusian">Штат Варгас</name>
+		<name normalized="sوbہ وrgאس" languages="Western Punjabi">صوبہ ورگاس</name>
+		<name normalized="รัฐบาร์กัส" languages="Thai">รัฐบาร์กัส</name>
+		<name normalized="ვარგასის შტატი" languages="Georgian">ვარგასის შტატი</name>
+		<name normalized="brgs州" languages="Japanese">バルガス州</name>
+		<name normalized="瓦尔加斯州" languages="Chinese">瓦尔加斯州</name>
+		<name normalized="바르가스 주" languages="Korean">바르가스 주</name>
+	</region>
+	<region name="Yaracuy" type="state" typeTranslated="estado">
+		<name normalized="Estato Yaracuy" languages="Aragonese">Estato Yaracuy</name>
+		<name normalized="Jarakujus" languages="Lithuanian">Jarakujus</name>
+		<name normalized="Yaracuy" languages="Basque;Breton;Catalan;Chinese (Min Nan);Cornish;Danish;Dutch;English;Estonian;Galician;German;Italian;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Scots;Simple English;Spanish;Swedish;Waray">Yaracuy</name>
+		<name normalized="Yaracuy suyu" languages="Quechua">Yaracuy suyu</name>
+		<name normalized="Yarakui" languages="Ladino">Yarakui</name>
+		<name normalized="Etat d'Yaracuy" languages="French">État d'Yaracuy</name>
+		<name normalized="Iёлoti Ярakuй" languages="Tajik">Иёлоти Яракуй</name>
+		<name normalized="Stat Ярakuй" languages="Belarusian">Штат Яракуй</name>
+		<name normalized="Ярakuй" languages="Bulgarian;Russian;Ukrainian">Яракуй</name>
+		<name normalized="Jaрakuj" languages="Macedonian;Serbian">Јаракуј</name>
+		<name normalized="sوbہ یאrکوی" languages="Western Punjabi">صوبہ یارکوی</name>
+		<name normalized="รัฐยารากุย" languages="Thai">รัฐยารากุย</name>
+		<name normalized="იარაკუი" languages="Georgian">იარაკუი</name>
+		<name normalized="yrki州" languages="Japanese">ヤラクイ州</name>
+		<name normalized="亚拉奎州" languages="Chinese">亚拉奎州</name>
+		<name normalized="야라쿠이 주" languages="Korean">야라쿠이 주</name>
+	</region>
+	<region name="Zulia" type="state" typeTranslated="estado">
+		<name normalized="Estato Zulia" languages="Aragonese">Estato Zulia</name>
+		<name normalized="Sulija" languages="Lithuanian">Sulija</name>
+		<name normalized="Zulia" languages="Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;Galician;German;Italian;Ladino;Malay;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swedish;Waray">Zulia</name>
+		<name normalized="Zulia suyu" languages="Quechua">Zulia suyu</name>
+		<name normalized="Etat de Zulia" languages="French">État de Zulia</name>
+		<name normalized="Zuлija" languages="Macedonian;Serbian">Зулија</name>
+		<name normalized="Iёлoti Zuлii" languages="Tajik">Иёлоти Зулия</name>
+		<name normalized="Сuлi" languages="Ossetic">Сули</name>
+		<name normalized="Сuлii" languages="Bulgarian;Russian">Сулия</name>
+		<name normalized="Сuлii" languages="Ukrainian">Сулія</name>
+		<name normalized="Stat Сuлii" languages="Belarusian">Штат Сулія</name>
+		<name normalized="sوbہ زولیא" languages="Western Punjabi">صوبہ زولیا</name>
+		<name normalized="รัฐซูเลีย" languages="Thai">รัฐซูเลีย</name>
+		<name normalized="სულიას შტატი" languages="Georgian">სულიას შტატი</name>
+		<name normalized="sra州" languages="Japanese">スリア州</name>
+		<name normalized="苏利亚州" languages="Chinese">苏利亚州</name>
+		<name normalized="술리아 주" languages="Korean">술리아 주</name>
+	</region>
+</regions>

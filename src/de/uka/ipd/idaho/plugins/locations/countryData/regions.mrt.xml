@@ -1,0 +1,230 @@
+<regions country="Mauritania">
+	<region name="Adrar" type="region" typeTranslated="wilaya">
+		<name normalized="Adrar" languages="Danish;Dutch;English;French;German;Indonesian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish">Adrar</name>
+		<name normalized="Adrar Region" languages="English;official">Adrar Region</name>
+		<name normalized="Adrar Wilaya" languages="English;official">Adrar Wilaya</name>
+		<name normalized="Adraro vilaja" languages="Lithuanian">Adraro vilaja</name>
+		<name normalized="Regione di Adrar" languages="Italian">Regione di Adrar</name>
+		<name normalized="Regiono Adrar" languages="Esperanto">Regiono Adrar</name>
+		<name normalized="Regiunea Adrar" languages="Romanian">Regiunea Adrar</name>
+		<name normalized="Regio d'Adrar" languages="Catalan">Regió d'Adrar</name>
+		<name normalized="Adрaр" languages="Bulgarian;Russian">Адрар</name>
+		<name normalized="Vobлaсtь Adрaр" languages="Belarusian">Вобласць Адрар</name>
+		<name normalized="ولאyة أدrאr" languages="Arabic">ولاية أدرار</name>
+		<name normalized="adrr州" languages="Japanese">アドラル州</name>
+		<name normalized="阿德拉爾省" languages="Chinese">阿德拉爾省</name>
+		<name normalized="아드라르 주" languages="Korean">아드라르 주</name>
+	</region>
+	<region name="Assaba" type="region" typeTranslated="wilaya">
+		<name normalized="Al-Asaba" languages="Polish">Al-Asaba</name>
+		<name normalized="Asabos vilaja" languages="Lithuanian">Asabos vilaja</name>
+		<name normalized="Assaba" languages="Danish;Dutch;English;Esperanto;French;German;Indonesian;Malay;Norwegian (bokmal);official;Portuguese;Romanian;Spanish;Swedish">Assaba</name>
+		<name normalized="Assaba Region" languages="English;official">Assaba Region</name>
+		<name normalized="Assaba Wilaya" languages="English;official">Assaba Wilaya</name>
+		<name normalized="Regione di Assaba" languages="Italian">Regione di Assaba</name>
+		<name normalized="Aсaba" languages="Bulgarian">Асаба</name>
+		<name normalized="Aссaba" languages="Russian">Ассаба</name>
+		<name normalized="Vobлaсtь Aсaba" languages="Belarusian">Вобласць Асаба</name>
+		<name normalized="ولאyة אلعsאbة" languages="Arabic">ولاية العصابة</name>
+		<name normalized="asb州" languages="Japanese">アサバ州</name>
+		<name normalized="阿薩巴省" languages="Chinese">阿薩巴省</name>
+		<name normalized="아사바 주" languages="Korean">아사바 주</name>
+	</region>
+	<region name="Brakna" type="region" typeTranslated="wilaya">
+		<name normalized="Al-Barakina" languages="Polish">Al-Barakina</name>
+		<name normalized="Brakna" languages="Danish;Dutch;English;Esperanto;French;German;Indonesian;Malay;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">Brakna</name>
+		<name normalized="Brakna Region" languages="English;official">Brakna Region</name>
+		<name normalized="Brakna Wilaya" languages="English;official">Brakna Wilaya</name>
+		<name normalized="Braknos vilaja" languages="Lithuanian">Braknos vilaja</name>
+		<name normalized="Regione di Brakna" languages="Italian">Regione di Brakna</name>
+		<name normalized="Regiunea Brakna" languages="Romanian">Regiunea Brakna</name>
+		<name normalized="Bрakнa" languages="Bulgarian;Russian">Бракна</name>
+		<name normalized="Vobлaсtь Bрakнa" languages="Belarusian">Вобласць Бракна</name>
+		<name normalized="ولאyة אلbrאkنة" languages="Arabic">ولاية البراكنة</name>
+		<name normalized="brkn州" languages="Japanese">ブラクナ州</name>
+		<name normalized="卜拉克納省" languages="Chinese">卜拉克納省</name>
+		<name normalized="브라크나 주" languages="Korean">브라크나 주</name>
+	</region>
+	<region name="Dakhlet Nouadhibou" type="region" typeTranslated="wilaya">
+		<name normalized="Dachlat Nawazibu" languages="Polish">Dachlat Nawazibu</name>
+		<name normalized="Dachlet Nuadibu vilaja" languages="Lithuanian">Dachlet Nuadibu vilaja</name>
+		<name normalized="Dajlet Nuadibu" languages="Spanish">Dajlet Nuadibú</name>
+		<name normalized="Dakhlet Nouadhibou" languages="Danish;Dutch;English;French;German;Indonesian;Malay;Norwegian (bokmal);official;Portuguese;Swedish">Dakhlet Nouadhibou</name>
+		<name normalized="Dakhlet Nouadhibou Region" languages="English;official">Dakhlet Nouadhibou Region</name>
+		<name normalized="Dakhlet Nouadhibou Wilaya" languages="English;official">Dakhlet Nouadhibou Wilaya</name>
+		<name normalized="Dahlet Nuadibu" languages="Esperanto">Daĥlet Nuadibu</name>
+		<name normalized="Regione di Dakhlet-Nouadhibou" languages="Italian">Regione di Dakhlet-Nouadhibou</name>
+		<name normalized="Regiunea Dakhlet Nouadhibou" languages="Romanian">Regiunea Dakhlet Nouadhibou</name>
+		<name normalized="Dakлit Нuadibu" languages="Bulgarian">Дахлет Нуадибу</name>
+		<name normalized="Dakлit-Нuadibu" languages="Russian">Дахлет-Нуадибу</name>
+		<name normalized="دאخلة نوאذybو" languages="Arabic">داخلة نواذيبو</name>
+		<name normalized="dhrt・nazb州" languages="Japanese">ダフレト・ヌアジブ州</name>
+		<name normalized="努瓦迪布灣省" languages="Chinese">努瓦迪布灣省</name>
+		<name normalized="다클레트누아디부 주" languages="Korean">다클레트누아디부 주</name>
+	</region>
+	<region name="Gorgol" type="region" typeTranslated="wilaya">
+		<name normalized="Gorgol" languages="Danish;Dutch;English;Esperanto;French;German;Indonesian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish">Gorgol</name>
+		<name normalized="Gorgol Region" languages="English;official">Gorgol Region</name>
+		<name normalized="Gorgol Wilaya" languages="English;official">Gorgol Wilaya</name>
+		<name normalized="Gorgolo vilaja" languages="Lithuanian">Gorgolo vilaja</name>
+		<name normalized="Kurkul" languages="Polish">Kurkul</name>
+		<name normalized="Regione di Gorgol" languages="Italian">Regione di Gorgol</name>
+		<name normalized="Regiunea Gorgol" languages="Romanian">Regiunea Gorgol</name>
+		<name normalized="Goрgoль" languages="Russian">Горголь</name>
+		<name normalized="Kuрkuл" languages="Bulgarian">Куркул</name>
+		<name normalized="ولאyة kوrkول" languages="Arabic">ولاية كوركول</name>
+		<name normalized="grgr州" languages="Japanese">ゴルゴル州</name>
+		<name normalized="戈爾戈勒省" languages="Chinese">戈爾戈勒省</name>
+		<name normalized="고르골 주" languages="Korean">고르골 주</name>
+	</region>
+	<region name="Guidimaka" type="region" typeTranslated="wilaya">
+		<name normalized="Ghidimagha" languages="Polish">Ghidimagha</name>
+		<name normalized="Gidimaka" languages="Esperanto">Gidimaka</name>
+		<name normalized="Gidimakos vilaja" languages="Lithuanian">Gidimakos vilaja</name>
+		<name normalized="Guidimaka" languages="Danish;English;German;Indonesian;Malay;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">Guidimaka</name>
+		<name normalized="Guidimaka Region" languages="English;official">Guidimaka Region</name>
+		<name normalized="Guidimaka Wilaya" languages="English;official">Guidimaka Wilaya</name>
+		<name normalized="Guidimakha" languages="Dutch;French">Guidimakha</name>
+		<name normalized="Regione di Guidimagha" languages="Italian">Regione di Guidimagha</name>
+		<name normalized="Regiunea Guidimaka" languages="Romanian">Regiunea Guidimaka</name>
+		<name normalized="Γκιντιμαγκα" languages="Greek">Γκιντιμάγκα</name>
+		<name normalized="Kudiмaga" languages="Bulgarian;Russian">Кудимага</name>
+		<name normalized="ولאyة غyدymאغא" languages="Arabic">ولاية غيديماغا</name>
+		<name normalized="gdimk州" languages="Japanese">ギディマカ州</name>
+		<name normalized="吉迪馬卡省" languages="Chinese">吉迪馬卡省</name>
+		<name normalized="기디마카 주" languages="Korean">기디마카 주</name>
+	</region>
+	<region name="Hodh ech Chargui" type="region" typeTranslated="wilaya">
+		<name normalized="Haud asz-Szarki" languages="Polish">Haud asz-Szarki</name>
+		<name normalized="Hod es Sargio vilaja" languages="Lithuanian">Hod eš Šargio vilaja</name>
+		<name normalized="Hod Oriental" languages="Spanish">Hod Oriental</name>
+		<name normalized="Hod-es-Sarki" languages="Esperanto">Hod-eŝ-Ŝarki</name>
+		<name normalized="Hodh ech Chargui" languages="Danish;Dutch;English;French;German;Indonesian;Malay;Norwegian (bokmal);official;Portuguese;Swedish">Hodh ech Chargui</name>
+		<name normalized="Hodh Ech Chargui Region" languages="English;official">Hodh Ech Chargui Region</name>
+		<name normalized="Hodh ech Chargui Wilaya" languages="English;official">Hodh ech Chargui Wilaya</name>
+		<name normalized="Regione di Hodh-Charghi" languages="Italian">Regione di Hodh-Charghi</name>
+		<name normalized="Regiunea Hodh Ech Chargui" languages="Romanian">Regiunea Hodh Ech Chargui</name>
+		<name normalized="Kod-es-Saрki" languages="Russian">Ход-эш-Шарки</name>
+		<name normalized="Kud as-Saрki" languages="Bulgarian">Худ аш-Шарки</name>
+		<name normalized="ولאyة אلhوd אلشrqy" languages="Arabic">ولاية الحوض الشرقي</name>
+		<name normalized="hz・et・syrg州" languages="Japanese">ホズ・エッ・シャルギ州</name>
+		<name normalized="東胡德省" languages="Chinese">東胡德省</name>
+		<name normalized="호드에슈샤르기 주" languages="Korean">호드에슈샤르기 주</name>
+	</region>
+	<region name="Hodh el Gharbi" type="region" typeTranslated="wilaya">
+		<name normalized="Haud al-Gharbi" languages="Polish">Haud al-Gharbi</name>
+		<name normalized="Hod el Garbio vilaja" languages="Lithuanian">Hod el Garbio vilaja</name>
+		<name normalized="Hod Occidental" languages="Spanish">Hod Occidental</name>
+		<name normalized="Hod-el-Garbi" languages="Esperanto">Hod-el-Garbi</name>
+		<name normalized="Hodh el Gharbi" languages="Danish;Dutch;English;French;German;Indonesian;Malay;Norwegian (bokmal);official;Portuguese;Swedish">Hodh el Gharbi</name>
+		<name normalized="Hodh El Gharbi Region" languages="English;official">Hodh El Gharbi Region</name>
+		<name normalized="Hodh el Gharbi Wilaya" languages="English;official">Hodh el Gharbi Wilaya</name>
+		<name normalized="Regione di Hodh-Gharbi" languages="Italian">Regione di Hodh-Gharbi</name>
+		<name normalized="Regiunea Hodh El Gharbi" languages="Romanian">Regiunea Hodh El Gharbi</name>
+		<name normalized="Kod-eль-Gaрbi" languages="Russian">Ход-эль-Гарби</name>
+		<name normalized="Kud aл-Gaрbi" languages="Bulgarian">Худ ал-Гарби</name>
+		<name normalized="ولאyة אلhوd אلغrby" languages="Arabic">ولاية الحوض الغربي</name>
+		<name normalized="hz・er・grb州" languages="Japanese">ホズ・エル・ガルビ州</name>
+		<name normalized="西胡德省" languages="Chinese">西胡德省</name>
+		<name normalized="호드엘가르비 주" languages="Korean">호드엘가르비 주</name>
+	</region>
+	<region name="Inchiri" type="region" typeTranslated="wilaya">
+		<name normalized="Inchiri" languages="Danish;Dutch;English;French;German;Indonesian;Malay;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">Inchiri</name>
+		<name normalized="Inchiri Region" languages="English;official">Inchiri Region</name>
+		<name normalized="Inchiri Wilaya" languages="English;official">Inchiri Wilaya</name>
+		<name normalized="Insziri" languages="Polish">Insziri</name>
+		<name normalized="Insiri" languages="Esperanto">Inŝiri</name>
+		<name normalized="Insirio vilaja" languages="Lithuanian">Inširio vilaja</name>
+		<name normalized="Regione di Inchiri" languages="Italian">Regione di Inchiri</name>
+		<name normalized="Regiunea Inchiri" languages="Romanian">Regiunea Inchiri</name>
+		<name normalized="Vobлaсtь Iнsыры" languages="Belarusian">Вобласць Іншыры</name>
+		<name normalized="Iнsiрi" languages="Bulgarian;Russian">Иншири</name>
+		<name normalized="ولאyة إyنشyry" languages="Arabic">ولاية إينشيري</name>
+		<name normalized="insr州" languages="Japanese">インシリ州</name>
+		<name normalized="因希里省" languages="Chinese">因希里省</name>
+		<name normalized="인시리 주" languages="Korean">인시리 주</name>
+	</region>
+	<region name="Nouakchott" type="region" typeTranslated="wilaya">
+		<name normalized="Nawakshot" languages="Somali">Nawakshot</name>
+		<name normalized="Nawakszut" languages="Polish">Nawakszut</name>
+		<name normalized="Nouakchot" languages="Haitian;Novial">Nouakchot</name>
+		<name normalized="Nouakchott" languages="Achinese;Afrikaans;Albanian;Asturian;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;Fulah;Galician;German;Hungarian;Ido;Indonesian;Interlingue;Irish;Italian;Javanese;Latin;lumbaart;Luxembourgish;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Piedmontese;Portuguese;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Slovak;Slovenian;Swahili;Swedish;Tagalog;Vietnamese;veneto;Waray;Welsh;Western Frisian;Wolof;Yoruba">Nouakchott</name>
+		<name normalized="Nouakchott Region" languages="English;official">Nouakchott Region</name>
+		<name normalized="Nouakchott Wilaya" languages="English;official">Nouakchott Wilaya</name>
+		<name normalized="Nuakchot" languages="Basque;Spanish">Nuakchot</name>
+		<name normalized="Nuaksoto" languages="Esperanto">Nuakŝoto</name>
+		<name normalized="Nuaksot" languages="Azerbaijani;Turkish">Nuakşot</name>
+		<name normalized="Nuaksota" languages="Latvian">Nuakšota</name>
+		<name normalized="Nuaksotas" languages="Lithuanian">Nuakšotas</name>
+		<name normalized="Nuaksott" languages="Czech">Nuakšott</name>
+		<name normalized="Navakjut" languages="Volapuk">Nävakjut</name>
+		<name normalized="Nuaksjott" languages="Icelandic">Núaksjott</name>
+		<name normalized="Νουακσοτ" languages="Greek">Νουακσότ</name>
+		<name normalized="Goрad Нuaksot" languages="Belarusian">Горад Нуакшот</name>
+		<name normalized="Нuaksot" languages="Bulgarian;Chechen;Hill Mari;Kazakh;Kyrgyz;Macedonian;Russian;Serbian;Tajik;Udmurt;Ukrainian;biлaрuсkai (taрaskivita)‎">Нуакшот</name>
+		<name normalized="Նvyաksvt" languages="Armenian">Նուակշոտ</name>
+		<name normalized="nvאqשvt" languages="Hebrew">נואקשוט</name>
+		<name normalized="نوאkشوt" languages="Arabic">نواكشوط</name>
+		<name normalized="نوאکشوt" languages="Persian">نواکشوت</name>
+		<name normalized="نوאکشوt" languages="Urdu">نواکشوط</name>
+		<name normalized="نوאکشۆt" languages="Sorani Kurdish">نواکشۆت</name>
+		<name normalized="نووאکوٹ" languages="Western Punjabi">نوواکوٹ</name>
+		<name normalized="nvाksut" languages="Marathi">नवाकसुत</name>
+		<name normalized="nuoy়াksut" languages="Bengali">নুওয়াকশুত</name>
+		<name normalized="nuakcੋt" languages="Punjabi">ਨੁਆਕਚੋਤ</name>
+		<name normalized="நவாக்சோட்" languages="Tamil">நவாக்சோட்</name>
+		<name normalized="นูแอกชอต" languages="Thai">นูแอกชอต</name>
+		<name normalized="ནའུ་ཀ་ཅོ་ཊི།" languages="Tibetan">ནའུ་ཀ་ཅོ་ཊི།</name>
+		<name normalized="ნუაქშოტი" languages="Georgian">ნუაქშოტი</name>
+		<name normalized="ኑዋክሾት" languages="Amharic">ኑዋክሾት</name>
+		<name normalized="naksョtt" languages="Japanese">ヌアクショット</name>
+		<name normalized="努瓦克肖特" languages="Chinese">努瓦克肖特</name>
+		<name normalized="或索" languages="Cantonese">或索</name>
+		<name normalized="누악쇼트" languages="Korean">누악쇼트</name>
+	</region>
+	<region name="Tagant" type="region" typeTranslated="wilaya">
+		<name normalized="Regione di Tagant" languages="Italian">Regione di Tagant</name>
+		<name normalized="Regiunea Tagant" languages="Romanian">Regiunea Tagant</name>
+		<name normalized="Tagant" languages="Catalan;Danish;Dutch;English;Esperanto;French;German;Indonesian;Malay;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">Tagant</name>
+		<name normalized="Tagant Region" languages="English;official">Tagant Region</name>
+		<name normalized="Tagant Wilaya" languages="English;official">Tagant Wilaya</name>
+		<name normalized="Taganto vilaja" languages="Lithuanian">Taganto vilaja</name>
+		<name normalized="Takant" languages="Polish">Takant</name>
+		<name normalized="Tagaнt" languages="Russian">Тагант</name>
+		<name normalized="Takaнt" languages="Bulgarian">Такант</name>
+		<name normalized="ولאyة tkאنt" languages="Arabic">ولاية تكانت</name>
+		<name normalized="tgnt州" languages="Japanese">タガント州</name>
+		<name normalized="塔甘特省" languages="Chinese">塔甘特省</name>
+		<name normalized="타간트 주" languages="Korean">타간트 주</name>
+	</region>
+	<region name="Tiris Zemmour" type="region" typeTranslated="wilaya">
+		<name normalized="Regione di Tiris-Zemmour" languages="Italian">Regione di Tiris-Zemmour</name>
+		<name normalized="Regiunea Tiris Zemmour" languages="Romanian">Regiunea Tiris Zemmour</name>
+		<name normalized="Tiris Zammur" languages="Polish">Tiris Zammur</name>
+		<name normalized="Tiris Zemmour" languages="Danish;Dutch;English;Esperanto;French;German;Indonesian;Malay;Norwegian (bokmal);official;Portuguese;Swedish">Tiris Zemmour</name>
+		<name normalized="Tiris Zemmour Region" languages="English;official">Tiris Zemmour Region</name>
+		<name normalized="Tiris Zemmour Wilaya" languages="English;official">Tiris Zemmour Wilaya</name>
+		<name normalized="Tiris Zemmur" languages="Spanish">Tiris Zemmur</name>
+		<name normalized="Tiris Zemuro vilaja" languages="Lithuanian">Tiris Zemuro vilaja</name>
+		<name normalized="Tiрiс Zaмuр" languages="Bulgarian">Тирис Замур</name>
+		<name normalized="Tiрiс-Ziммuр" languages="Russian">Тирис-Земмур</name>
+		<name normalized="ولאyة tyrس زmوr" languages="Arabic">ولاية تيرس زمور</name>
+		<name normalized="tirs・zmーr州" languages="Japanese">ティリス・ゼムール州</name>
+		<name normalized="提里斯-宰穆爾省" languages="Chinese">提里斯-宰穆爾省</name>
+		<name normalized="티리스젬무르 주" languages="Korean">티리스젬무르 주</name>
+	</region>
+	<region name="Trarza" type="region" typeTranslated="wilaya">
+		<name normalized="At-Tarariza" languages="Polish">At-Tarariza</name>
+		<name normalized="Regione di Trarza" languages="Italian">Regione di Trarza</name>
+		<name normalized="Regiunea Trarza" languages="Romanian">Regiunea Trarza</name>
+		<name normalized="Trarza" languages="Danish;Dutch;English;Esperanto;French;German;Indonesian;Malay;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">Trarza</name>
+		<name normalized="Trarza Region" languages="English;official">Trarza Region</name>
+		<name normalized="Trarza Wilaya" languages="English;official">Trarza Wilaya</name>
+		<name normalized="Trarzos vilaja" languages="Lithuanian">Trarzos vilaja</name>
+		<name normalized="Tрaрza" languages="Bulgarian;Russian">Трарза</name>
+		<name normalized="ولאyة אلtrאrزة" languages="Arabic">ولاية الترارزة</name>
+		<name normalized="trrz州" languages="Japanese">トラルザ州</name>
+		<name normalized="特拉扎省" languages="Chinese">特拉扎省</name>
+		<name normalized="트라르자 주" languages="Korean">트라르자 주</name>
+	</region>
+</regions>

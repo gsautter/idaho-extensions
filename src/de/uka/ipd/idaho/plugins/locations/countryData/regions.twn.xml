@@ -1,0 +1,520 @@
+<regions country="Taiwan">
+	<region name="Changhua" type="county" typeTranslated="hsien">
+		<name normalized="Changhua" languages="Dutch;English;Finnish;French;German;Italian;official;Waray">Changhua</name>
+		<name normalized="Changhua City" languages="English">Changhua City</name>
+		<name normalized="Changhua County" languages="Danish;English;official;Simple English">Changhua County</name>
+		<name normalized="Changhua Hsien" languages="English;official">Changhua Hsien</name>
+		<name normalized="Changhua konderria" languages="Basque">Changhua konderria</name>
+		<name normalized="Chiong-hoa-koan" languages="Chinese (Min Nan)">Chiong-hoà-koān</name>
+		<name normalized="Chong-fa-su" languages="Hakka">Chông-fa-sṳ</name>
+		<name normalized="Chong-fa-yen" languages="Hakka">Chông-fa-yen</name>
+		<name normalized="Chuong Hoa" languages="Vietnamese">Chương Hóa</name>
+		<name normalized="Comte de Changhua" languages="French">Comté de Changhua</name>
+		<name normalized="Contea di Changhua" languages="Italian">Contea di Changhua</name>
+		<name normalized="Kabupaten Changhua" languages="Indonesian">Kabupaten Changhua</name>
+		<name normalized="Landkreis Changhua" languages="German">Landkreis Changhua</name>
+		<name normalized="Okres Cang-chua" languages="Czech">Okres Čang-chua</name>
+		<name normalized="Zhanghua" languages="Polish">Zhanghua</name>
+		<name normalized="Cang-chua" languages="Czech">Čang-chua</name>
+		<name normalized="Czaнkua" languages="Russian">Чжанхуа</name>
+		<name normalized="จางฮว่า" languages="Thai">จางฮว่า</name>
+		<name normalized="彰化县" languages="Wu">彰化县</name>
+		<name normalized="彰化市" languages="Chinese;Classical Chinese;Japanese">彰化市</name>
+		<name normalized="彰化県" languages="Japanese">彰化県</name>
+		<name normalized="彰化縣" languages="Cantonese;Chinese;Classical Chinese">彰化縣</name>
+		<name normalized="장화 시" languages="Korean">장화 시</name>
+		<name normalized="장화 현" languages="Korean">장화 현</name>
+	</region>
+	<region name="Chiayi" type="municipality" typeTranslated="shih">
+		<name normalized="Chiayi" languages="Basque;Dutch;English;French;German;Italian;Norwegian (bokmal);official;Spanish;Waray">Chiayi</name>
+		<name normalized="Chiayi City" languages="English;Simple English">Chiayi City</name>
+		<name normalized="Chiayi County" languages="English;official;Simple English">Chiayi County</name>
+		<name normalized="Chiayi Hsien" languages="English;official">Chiayi Hsien</name>
+		<name normalized="Chiayi konderria" languages="Basque">Chiayi konderria</name>
+		<name normalized="Comte de Chiayi" languages="French">Comté de Chiayi</name>
+		<name normalized="Contea di Chiayi" languages="Italian">Contea di Chiayi</name>
+		<name normalized="Gia Nghia" languages="Vietnamese">Gia Nghĩa</name>
+		<name normalized="Jiayi" languages="Polish;Swedish">Jiayi</name>
+		<name normalized="Ka-gi-chhi" languages="Chinese (Min Nan)">Ka-gī-chhī</name>
+		<name normalized="Ka-gi-koan" languages="Chinese (Min Nan)">Ka-gī-koān</name>
+		<name normalized="Kabupaten Chiayi" languages="Indonesian">Kabupaten Chiayi</name>
+		<name normalized="Kota Chiayi" languages="Indonesian">Kota Chiayi</name>
+		<name normalized="Ka-ngi-su" languages="Hakka">Kâ-ngi-sṳ</name>
+		<name normalized="Ka-ngi-yen" languages="Hakka">Kâ-ngi-yen</name>
+		<name normalized="Landkreis Chiayi" languages="German">Landkreis Chiayi</name>
+		<name normalized="Okres Tia-i" languages="Czech">Okres Ťia-i</name>
+		<name normalized="Tia-i" languages="Czech">Ťia-i</name>
+		<name normalized="Tzii" languages="Russian">Цзяи</name>
+		<name normalized="นครเจียอี้" languages="Thai">นครเจียอี้</name>
+		<name normalized="เจียอี้" languages="Thai">เจียอี้</name>
+		<name normalized="嘉義市" languages="Chinese;Classical Chinese;Japanese">嘉義市</name>
+		<name normalized="嘉義県" languages="Japanese">嘉義県</name>
+		<name normalized="嘉義縣" languages="Chinese;Classical Chinese">嘉義縣</name>
+		<name normalized="자이 시" languages="Korean">자이 시</name>
+		<name normalized="자이 현" languages="Korean">자이 현</name>
+	</region>
+	<region name="Hsinchu" type="municipality" typeTranslated="shih">
+		<name normalized="Comte de Hsinchu" languages="French">Comté de Hsinchu</name>
+		<name normalized="Condado de Hsinchu" languages="Spanish">Condado de Hsinchu</name>
+		<name normalized="Contea di Hsinchu" languages="Italian">Contea di Hsinchu</name>
+		<name normalized="Hsinchu" languages="Dutch;English;Finnish;French;German;Italian;Norwegian (bokmal);official;Scots;Swedish;Waray">Hsinchu</name>
+		<name normalized="Hsinchu City" languages="Simple English">Hsinchu City</name>
+		<name normalized="Hsinchu County" languages="English;official;Simple English">Hsinchu County</name>
+		<name normalized="Hsinchu Hsien" languages="English;official">Hsinchu Hsien</name>
+		<name normalized="Hsinchu konderria" languages="Basque">Hsinchu konderria</name>
+		<name normalized="Kabupaten Hsinchu" languages="Indonesian">Kabupaten Hsinchu</name>
+		<name normalized="Kota Hsinchu" languages="Indonesian">Kota Hsinchu</name>
+		<name normalized="Landkreis Hsinchu" languages="German">Landkreis Hsinchu</name>
+		<name normalized="Okres Sin-cu" languages="Czech">Okres Sin-ču</name>
+		<name normalized="Sin-tek-chhi" languages="Chinese (Min Nan)">Sin-tek-chhī</name>
+		<name normalized="Sin-tek-koan" languages="Chinese (Min Nan)">Sin-tek-koān</name>
+		<name normalized="Sin-cu" languages="Czech">Sin-ču</name>
+		<name normalized="Sinhcuz" languages="Zhuang">Sinhcuz</name>
+		<name normalized="Sin-chuk-su" languages="Hakka">Sîn-chuk-sṳ</name>
+		<name normalized="Sin-chuk-yen" languages="Hakka">Sîn-chuk-yen</name>
+		<name normalized="Tan Truc" languages="Vietnamese">Tân Trúc</name>
+		<name normalized="Xinzhu" languages="Polish">Xinzhu</name>
+		<name normalized="Сiньczu" languages="Russian">Синьчжу</name>
+		<name normalized="Siньzү" languages="Mongolian">Шиньжү</name>
+		<name normalized="سyن شو" languages="Arabic">سين شو</name>
+		<name normalized="ซินจู๋" languages="Thai">ซินจู๋</name>
+		<name normalized="นครซินจู๋" languages="Thai">นครซินจู๋</name>
+		<name normalized="ཞིག་ཀྲུའུ།" languages="Tibetan">ཞིག་ཀྲུའུ།</name>
+		<name normalized="新竹市" languages="Chinese;Classical Chinese;Japanese;Wu">新竹市</name>
+		<name normalized="新竹県" languages="Japanese">新竹県</name>
+		<name normalized="新竹縣" languages="Chinese;Classical Chinese">新竹縣</name>
+		<name normalized="신주 시" languages="Korean">신주 시</name>
+		<name normalized="신주 현" languages="Korean">신주 현</name>
+	</region>
+	<region name="Hualien" type="county" typeTranslated="hsien">
+		<name normalized="Comte d'Hualien" languages="French">Comté d'Hualien</name>
+		<name normalized="Contea di Hualien" languages="Italian">Contea di Hualien</name>
+		<name normalized="Fa-lien-yen" languages="Hakka">Fâ-lièn-yen</name>
+		<name normalized="Hoa Lien" languages="Vietnamese">Hoa Liên</name>
+		<name normalized="Hoa-lian-koan" languages="Chinese (Min Nan)">Hoa-liân-koān</name>
+		<name normalized="Hualian" languages="Polish">Hualian</name>
+		<name normalized="Hualien" languages="Dutch;English;official">Hualien</name>
+		<name normalized="Hualien County" languages="English;official;Simple English">Hualien County</name>
+		<name normalized="Hualien Hsien" languages="English;official">Hualien Hsien</name>
+		<name normalized="Hualien konderria" languages="Basque">Hualien konderria</name>
+		<name normalized="Kabupaten Hualien" languages="Indonesian">Kabupaten Hualien</name>
+		<name normalized="Landkreis Hualien" languages="German">Landkreis Hualien</name>
+		<name normalized="Okres Chua-lien" languages="Czech">Okres Chua-lien</name>
+		<name normalized="Kuaлiнь" languages="Russian">Хуалянь</name>
+		<name normalized="ฮวาเหลียน" languages="Thai">ฮวาเหลียน</name>
+		<name normalized="花蓮県" languages="Japanese">花蓮県</name>
+		<name normalized="花蓮縣" languages="Chinese;Classical Chinese">花蓮縣</name>
+		<name normalized="화롄 현" languages="Korean">화롄 현</name>
+	</region>
+	<region name="Kaohsiung" type="special municipality" typeTranslated="chih-hsia-shih">
+		<name normalized="Cao Hung" languages="Vietnamese">Cao Hùng</name>
+		<name normalized="Gaosiongas" languages="Lithuanian">Gaosiongas</name>
+		<name normalized="Gawshyung" languages="Uyghur">Gawshyung</name>
+		<name normalized="Kao-siung" languages="Czech;Slovak">Kao-siung</name>
+		<name normalized="Kaohsiung" languages="Afrikaans;Basque;Catalan;Dutch;English;Finnish;French;Galician;German;Italian;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Scots;Spanish;Swahili;Swedish;Waray">Kaohsiung</name>
+		<name normalized="Kaohsiung City" languages="Simple English">Kaohsiung City</name>
+		<name normalized="Kaohsziung" languages="Hungarian">Kaohsziung</name>
+		<name normalized="Kaosiung" languages="Esperanto">Kaoŝiung</name>
+		<name normalized="Kau-hiyun" languages="Quechua">Kau-hiyun</name>
+		<name normalized="Ko-hiong-chhi" languages="Chinese (Min Nan)">Ko-hiông-chhī</name>
+		<name normalized="Kota Kaohsiung" languages="Indonesian">Kota Kaohsiung</name>
+		<name normalized="Ko-hiung-su" languages="Hakka">Kô-hiùng-sṳ</name>
+		<name normalized="Καοσιοuνγκ" languages="Greek">Καοσιούνγκ</name>
+		<name normalized="Gaoсюн" languages="Bulgarian;Chechen;Russian;Ukrainian">Гаосюн</name>
+		<name normalized="Gaosюн" languages="Mongolian">Гаошюн</name>
+		<name normalized="kאوhسyونغ" languages="Arabic">كاوهسيونغ</name>
+		<name normalized="kਾਓsiaੰg" languages="Punjabi">ਕਾਓਸੀਅੰਗ</name>
+		<name normalized="เกาสฺยง" languages="Thai">เกาสฺยง</name>
+		<name normalized="ཀའོ་ཞུང་གྲོང་ཁྱེར།" languages="Tibetan">ཀའོ་ཞུང་གྲོང་ཁྱེར།</name>
+		<name normalized="ကောင်းရှုံမြို့" languages="Burmese">ကောင်းရှုံမြို့</name>
+		<name normalized="高雄市" languages="Cantonese;Chinese;Classical Chinese;Gan;Japanese;Wu">高雄市</name>
+		<name normalized="가오슝 시" languages="Korean">가오슝 시</name>
+	</region>
+	<region name="Keelung" type="municipality" typeTranslated="shih">
+		<name normalized="Chilung" languages="French;Norwegian (bokmal);Swedish">Chilung</name>
+		<name normalized="Co Long" languages="Vietnamese">Cơ Long</name>
+		<name normalized="Gie-le¨ng" languages="Min Dong Chinese">Giĕ-lè̤ng</name>
+		<name normalized="Ke-lang-chhi" languages="Chinese (Min Nan)">Ke-lâng-chhī</name>
+		<name normalized="Keelung" languages="Basque;Dutch;English;German;Italian;official;Polish;Portuguese;Scots;Spanish;Waray">Keelung</name>
+		<name normalized="Keelung City" languages="Simple English">Keelung City</name>
+		<name normalized="Kota Keelung" languages="Indonesian">Kota Keelung</name>
+		<name normalized="Ki-lung-su" languages="Hakka">Kî-lùng-sṳ</name>
+		<name normalized="Ti-lung" languages="Czech">Ťi-lung</name>
+		<name normalized="Tziлuн" languages="Russian">Цзилун</name>
+		<name normalized="ky لنغ" languages="Arabic">كي لنغ</name>
+		<name normalized="基隆" languages="Cantonese">基隆</name>
+		<name normalized="基隆市" languages="Chinese;Classical Chinese;Japanese">基隆市</name>
+		<name normalized="지룽 시" languages="Korean">지룽 시</name>
+	</region>
+	<region name="Kinmen" type="county" typeTranslated="hsien">
+		<name normalized="Ging-muong" languages="Min Dong Chinese">Gĭng-muòng</name>
+		<name normalized="Jinmen" languages="Estonian;French">Jinmen</name>
+		<name normalized="Kabupaten Kinmen" languages="Indonesian">Kabupaten Kinmen</name>
+		<name normalized="Kim Mon" languages="Vietnamese">Kim Môn</name>
+		<name normalized="Kim-mnˆg-koan" languages="Chinese (Min Nan)">Kim-mn̂g-koān</name>
+		<name normalized="Kinmen" languages="Basque;Catalan;Dutch;English;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Simple English;Spanish;Swedish;Yoruba">Kinmen</name>
+		<name normalized="Kinmen County" languages="English;official">Kinmen County</name>
+		<name normalized="Kinmen Hsien" languages="English;official">Kinmen Hsien</name>
+		<name normalized="Kinmen-szigetek" languages="Hungarian">Kinmen-szigetek</name>
+		<name normalized="Kim-mun-yen" languages="Hakka">Kîm-mùn-yen</name>
+		<name normalized="Okres Tin-men" languages="Czech">Okres Ťin-men</name>
+		<name normalized="Tziньмeнь" languages="Russian">Цзиньмэнь</name>
+		<name normalized="kنmن" languages="Arabic">كنمن</name>
+		<name normalized="കിന്മെൻ" languages="Malayalam">കിന്മെൻ</name>
+		<name normalized="หมู่เกาะจินเหมิน" languages="Thai">หมู่เกาะจินเหมิน</name>
+		<name normalized="金門" languages="Cantonese">金門</name>
+		<name normalized="金門県" languages="Japanese">金門県</name>
+		<name normalized="金門縣" languages="Chinese;Classical Chinese">金門縣</name>
+		<name normalized="진먼 현" languages="Korean">진먼 현</name>
+	</region>
+	<region name="Lienchiang" type="county" typeTranslated="hsien">
+		<name normalized="Ilhas Matsu" languages="Portuguese">Ilhas Matsu</name>
+		<name normalized="Islas Matsu" languages="Spanish">Islas Matsu</name>
+		<name normalized="Isole Matsu" languages="Italian">Isole Matsu</name>
+		<name normalized="Lienchiang" languages="English;official">Lienchiang</name>
+		<name normalized="Lienchiang County" languages="English;official">Lienchiang County</name>
+		<name normalized="Lienchiang Hsien" languages="English;official">Lienchiang Hsien</name>
+		<name normalized="Matsu" languages="Catalan">Matsu</name>
+		<name normalized="Matsu Islands" languages="English;Simple English">Matsu Islands</name>
+		<name normalized="Matsu-archipel" languages="Dutch">Matsu-archipel</name>
+		<name normalized="Matsu-Inseln" languages="German">Matsu-Inseln</name>
+		<name normalized="Matsu-szigetek" languages="Hungarian">Matsu-szigetek</name>
+		<name normalized="Matsuoarna" languages="Swedish">Matsuöarna</name>
+		<name normalized="Matsuoyene" languages="Norwegian (bokmal)">Matsuøyene</name>
+		<name normalized="Mazu Liedao" languages="Polish">Mazu Liedao</name>
+		<name normalized="Ma-cho͘-to" languages="Chinese (Min Nan)">Má-chó͘-tó</name>
+		<name normalized="Ma-cu" languages="Min Dong Chinese">Mā-cū</name>
+		<name normalized="Quan dao Ma To" languages="Vietnamese">Quần đảo Mã Tổ</name>
+		<name normalized="Souostrovi Ma-cu" languages="Czech">Souostroví Ma-cu</name>
+		<name normalized="Awon Erekusu Matsu" languages="Yoruba">Àwọn Erékùṣù Matsu</name>
+		<name normalized="Iles Matsu" languages="French">Îles Matsu</name>
+		<name normalized="Мatzu" languages="Russian">Мацзу</name>
+		<name normalized="หมู่เกาะหมาจู่" languages="Thai">หมู่เกาะหมาจู่</name>
+		<name normalized="馬祖" languages="Cantonese">馬祖</name>
+		<name normalized="馬祖列島" languages="Chinese">馬祖列島</name>
+		<name normalized="馬祖島" languages="Japanese">馬祖島</name>
+		<name normalized="마쭈 열도" languages="Korean">마쭈 열도</name>
+	</region>
+	<region name="Miaoli" type="county" typeTranslated="hsien">
+		<name normalized="Biau-le̍k" languages="Chinese (Min Nan)">Biâu-le̍k</name>
+		<name normalized="Biau-le̍k-koan" languages="Chinese (Min Nan)">Biâu-le̍k-koān</name>
+		<name normalized="Comte de Miaoli" languages="French">Comté de Miaoli</name>
+		<name normalized="Contea di Miaoli" languages="Italian">Contea di Miaoli</name>
+		<name normalized="Kabupaten Miaoli" languages="Indonesian">Kabupaten Miaoli</name>
+		<name normalized="Landkreis Miaoli" languages="German">Landkreis Miaoli</name>
+		<name normalized="Miaoli" languages="Dutch;English;official;Polish">Miaoli</name>
+		<name normalized="Miaoli County" languages="English;official">Miaoli County</name>
+		<name normalized="Miaoli Hsien" languages="English;official">Miaoli Hsien</name>
+		<name normalized="Miaoli konderria" languages="Basque">Miaoli konderria</name>
+		<name normalized="Mieu Lat" languages="Vietnamese">Miêu Lật</name>
+		<name normalized="Meu-li̍t-yen" languages="Hakka">Mèu-li̍t-yen</name>
+		<name normalized="Okres Miao-li" languages="Czech">Okres Miao-li</name>
+		<name normalized="Мioлi" languages="Russian">Мяоли</name>
+		<name normalized="เหมียวลี่" languages="Thai">เหมียวลี่</name>
+		<name normalized="苗栗" languages="Chinese;Japanese">苗栗</name>
+		<name normalized="苗栗県" languages="Japanese">苗栗県</name>
+		<name normalized="苗栗縣" languages="Cantonese;Chinese;Classical Chinese">苗栗縣</name>
+		<name normalized="먀오리" languages="Korean">먀오리</name>
+		<name normalized="먀오리 현" languages="Korean">먀오리 현</name>
+	</region>
+	<region name="Nantou" type="county" typeTranslated="hsien">
+		<name normalized="Comte de Nantou" languages="French">Comté de Nantou</name>
+		<name normalized="Contea di Nantou" languages="Italian">Contea di Nantou</name>
+		<name normalized="Kabupaten Nantou" languages="Indonesian">Kabupaten Nantou</name>
+		<name normalized="Landkreis Nantou" languages="German">Landkreis Nantou</name>
+		<name normalized="Lam-tau" languages="Chinese (Min Nan)">Lâm-tâu</name>
+		<name normalized="Lam-tau-koan" languages="Chinese (Min Nan)">Lâm-tâu-koān</name>
+		<name normalized="Nam Dau" languages="Vietnamese">Nam Đầu</name>
+		<name normalized="Nantou" languages="Dutch;English;German;official;Polish">Nantou</name>
+		<name normalized="Nantou County" languages="English;official">Nantou County</name>
+		<name normalized="Nantou Hsien" languages="English;official">Nantou Hsien</name>
+		<name normalized="Nantou konderria" languages="Basque">Nantou konderria</name>
+		<name normalized="Nam-theu-yen" languages="Hakka">Nàm-thèu-yen</name>
+		<name normalized="Okres Nan-tchou" languages="Czech">Okres Nan-tchou</name>
+		<name normalized="Нaньtou" languages="Russian">Наньтоу</name>
+		<name normalized="หนานโถว" languages="Thai">หนานโถว</name>
+		<name normalized="南投" languages="Chinese;Gan;Japanese">南投</name>
+		<name normalized="南投県" languages="Japanese">南投県</name>
+		<name normalized="南投縣" languages="Chinese;Classical Chinese">南投縣</name>
+		<name normalized="난터우" languages="Korean">난터우</name>
+		<name normalized="난터우 현" languages="Korean">난터우 현</name>
+	</region>
+	<region name="New Taipei" type="special municipality" typeTranslated="chih-hsia-shih">
+		<name normalized="Hszinpej" languages="Hungarian">Hszinpej</name>
+		<name normalized="Kabupaten Taipei" languages="Indonesian">Kabupaten Taipei</name>
+		<name normalized="Musuq T'aypik" languages="Quechua">Musuq T'aypik</name>
+		<name normalized="Neu-Taipeh" languages="German">Neu-Taipeh</name>
+		<name normalized="New Taipei" languages="English;official;Scots;Tagalog;Turkish">New Taipei</name>
+		<name normalized="New Taipei City" languages="English;Simple English">New Taipei City</name>
+		<name normalized="Nieu-Taipei" languages="Afrikaans">Nieu-Taipei</name>
+		<name normalized="Nieuw Taipei" languages="Dutch">Nieuw Taipei</name>
+		<name normalized="Nouveau Taipei" languages="French">Nouveau Taipei</name>
+		<name normalized="Nova Taipe" languages="Portuguese">Nova Taipé</name>
+		<name normalized="Novtajpeo" languages="Esperanto">Novtajpeo</name>
+		<name normalized="Nova Tchaj-pej" languages="Czech">Nová Tchaj-pej</name>
+		<name normalized="Nowe Tajpej" languages="Polish">Nowe Tajpej</name>
+		<name normalized="Nuevo Taipei" languages="Spanish">Nuevo Taipéi</name>
+		<name normalized="Nuova Taipei" languages="Italian">Nuova Taipei</name>
+		<name normalized="Ny Taipei" languages="Danish">Ny Taipei</name>
+		<name normalized="Sin-pak-chhi" languages="Chinese (Min Nan)">Sin-pak-chhī</name>
+		<name normalized="Syudad han Bag-o nga Taipei" languages="Waray">Syudad han Bag-o nga Taipei</name>
+		<name normalized="Sin-pet-su" languages="Hakka">Sîn-pet-sṳ</name>
+		<name normalized="Taipei konderria" languages="Basque">Taipei konderria</name>
+		<name normalized="Tan Bac" languages="Vietnamese">Tân Bắc</name>
+		<name normalized="Uusi-Taipei" languages="Finnish">Uusi-Taipei</name>
+		<name normalized="Сiньbeй" languages="Chechen;Russian">Синьбэй</name>
+		<name normalized="Siньbeй" languages="Mongolian">Шиньбэй</name>
+		<name normalized="Nu Tajpij" languages="Macedonian">Њу Тајпеј</name>
+		<name normalized="tאybyh אلjدyدة" languages="Arabic">تايبيه الجديدة</name>
+		<name normalized="nvਾਂ tਾipi s਼hir" languages="Punjabi">ਨਵਾਂ ਤਾਈਪਈ ਸ਼ਹਿਰ</name>
+		<name normalized="ซินเป่ย" languages="Thai">ซินเป่ย</name>
+		<name normalized="新北市" languages="Cantonese;Chinese;Classical Chinese;Japanese">新北市</name>
+		<name normalized="신베이 시" languages="Korean">신베이 시</name>
+	</region>
+	<region name="Penghu" type="county" typeTranslated="hsien">
+		<name normalized="Banh Ho" languages="Vietnamese">Bành Hồ</name>
+		<name normalized="Ilhas Pescadores" languages="Portuguese">Ilhas Pescadores</name>
+		<name normalized="Illes Pescadors" languages="Catalan">Illes Pescadors</name>
+		<name normalized="Islas Pescadores" languages="Spanish">Islas Pescadores</name>
+		<name normalized="Isole Penghu" languages="Italian">Isole Penghu</name>
+		<name normalized="Kabupaten Penghu" languages="Indonesian">Kabupaten Penghu</name>
+		<name normalized="Okres Pcheng-chu" languages="Czech">Okres Pcheng-chu</name>
+		<name normalized="Penghu" languages="Basque;English;official;Simple English;Yoruba">Penghu</name>
+		<name normalized="Penghu County" languages="English;official">Penghu County</name>
+		<name normalized="Penghu Hsien" languages="English;official">Penghu Hsien</name>
+		<name normalized="Penghu saarestik" languages="Estonian">Penghu saarestik</name>
+		<name normalized="Penghu-Inseln" languages="German">Penghu-Inseln</name>
+		<name normalized="Penghu-szigetek" languages="Hungarian">Penghu-szigetek</name>
+		<name normalized="Pescadorerna" languages="Swedish">Pescadorerna</name>
+		<name normalized="Pescadorerne" languages="Danish">Pescadorerne</name>
+		<name normalized="Pescadores" languages="Dutch;Norwegian (bokmal);Tagalog">Pescadores</name>
+		<name normalized="Pescadores Adaları" languages="Turkish">Pescadores Adaları</name>
+		<name normalized="Peskadorit" languages="Finnish">Peskadorit</name>
+		<name normalized="Peskadory" languages="Polish">Peskadory</name>
+		<name normalized="Phang-fu-yen" languages="Hakka">Phàng-fù-yen</name>
+		<name normalized="Phen-o͘-koan" languages="Chinese (Min Nan)">Phêⁿ-ô͘-koān</name>
+		<name normalized="Iles Pescadores" languages="French">Îles Pescadores</name>
+		<name normalized="Peнku" languages="Russian">Пэнху</name>
+		<name normalized="bسkאدوrز" languages="Arabic">بسكادورز</name>
+		<name normalized="เผิงหู" languages="Thai">เผิงหู</name>
+		<name normalized="澎湖列岛" languages="Wu">澎湖列岛</name>
+		<name normalized="澎湖列島" languages="Cantonese">澎湖列島</name>
+		<name normalized="澎湖県" languages="Japanese">澎湖県</name>
+		<name normalized="澎湖縣" languages="Chinese">澎湖縣</name>
+		<name normalized="펑후 현" languages="Korean">펑후 현</name>
+	</region>
+	<region name="Pingtung" type="county" typeTranslated="hsien">
+		<name normalized="Binh Dong" languages="Vietnamese">Bình Đông</name>
+		<name normalized="Comte de Pingtung" languages="French">Comté de Pingtung</name>
+		<name normalized="Condado de Pingtung" languages="Spanish">Condado de Pingtung</name>
+		<name normalized="Contea di Pingtung" languages="Italian">Contea di Pingtung</name>
+		<name normalized="Kabupaten Pingtung" languages="Indonesian">Kabupaten Pingtung</name>
+		<name normalized="Landkreis Pingtung" languages="German">Landkreis Pingtung</name>
+		<name normalized="Okres Pching-tung" languages="Czech">Okres Pching-tung</name>
+		<name normalized="Pching-tung" languages="Czech">Pching-tung</name>
+		<name normalized="Phin-tung-su" languages="Hakka">Phìn-tûng-sṳ</name>
+		<name normalized="Phin-tung-yen" languages="Hakka">Phìn-tûng-yen</name>
+		<name normalized="Ping Tung" languages="Esperanto">Ping Tung</name>
+		<name normalized="Pingdong" languages="Polish">Pingdong</name>
+		<name normalized="Pingtung" languages="Dutch;English;French;German;Italian;official;Waray">Pingtung</name>
+		<name normalized="Pingtung City" languages="English">Pingtung City</name>
+		<name normalized="Pingtung County" languages="English;official">Pingtung County</name>
+		<name normalized="Pingtung Hsien" languages="English;official">Pingtung Hsien</name>
+		<name normalized="Pingtung konderria" languages="Basque">Pingtung konderria</name>
+		<name normalized="Pin-tong-chhi" languages="Chinese (Min Nan)">Pîn-tong-chhī</name>
+		<name normalized="Pin-tong-koan" languages="Chinese (Min Nan)">Pîn-tong-koān</name>
+		<name normalized="Piнduн" languages="Russian">Пиндун</name>
+		<name normalized="ผิงตง" languages="Thai">ผิงตง</name>
+		<name normalized="屏東" languages="Gan">屏東</name>
+		<name normalized="屏東市" languages="Chinese;Classical Chinese;Japanese">屏東市</name>
+		<name normalized="屏東県" languages="Japanese">屏東県</name>
+		<name normalized="屏東縣" languages="Cantonese;Chinese;Classical Chinese">屏東縣</name>
+		<name normalized="핑둥 시" languages="Korean">핑둥 시</name>
+		<name normalized="핑둥 현" languages="Korean">핑둥 현</name>
+	</region>
+	<region name="Taichung" type="special municipality" typeTranslated="chih-hsia-shih">
+		<name normalized="Kota Taichung" languages="Indonesian">Kota Taichung</name>
+		<name normalized="T'aychun" languages="Quechua">T'aychun</name>
+		<name normalized="Taichung" languages="Afrikaans;Dutch;English;Finnish;French;German;Italian;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Spanish;Swedish;Waray">Taichung</name>
+		<name normalized="Taichung City" languages="Simple English">Taichung City</name>
+		<name normalized="Taizhong" languages="Polish">Taizhong</name>
+		<name normalized="Taicungas" languages="Lithuanian">Taičungas</name>
+		<name normalized="Tajcung" languages="Esperanto">Tajĉung</name>
+		<name normalized="Tchaj-cung" languages="Czech">Tchaj-čung</name>
+		<name normalized="Teyjong shehiri" languages="Uyghur">Teyjong shehiri</name>
+		<name normalized="Thoi-chung-su" languages="Hakka">Thòi-chûng-sṳ</name>
+		<name normalized="Tai-tiong-chhi" languages="Chinese (Min Nan)">Tâi-tiong-chhī</name>
+		<name normalized="Dai Trung" languages="Vietnamese">Đài Trung</name>
+		<name normalized="Taйzuн" languages="Mongolian">Тайжун</name>
+		<name normalized="Taйczuн" languages="Chechen;Russian">Тайчжун</name>
+		<name normalized="tאy شאنغ" languages="Arabic">تاي شانغ</name>
+		<name normalized="台中市" languages="Japanese">台中市</name>
+		<name normalized="臺中市" languages="Cantonese;Chinese;Classical Chinese">臺中市</name>
+		<name normalized="타이중 시" languages="Korean">타이중 시</name>
+	</region>
+	<region name="Tainan" type="special municipality" typeTranslated="chih-hsia-shih">
+		<name normalized="Kota Tainan" languages="Indonesian">Kota Tainan</name>
+		<name normalized="T'aynam" languages="Quechua">T'aynam</name>
+		<name normalized="Tainan" languages="Afrikaans;Basque;Danish;Dutch;English;Finnish;French;German;Italian;Norwegian (bokmal);official;Polish;Scots;Simple English;Spanish;Swedish;Turkish;Waray">Tainan</name>
+		<name normalized="Tajnan" languages="Esperanto;Hungarian">Tajnan</name>
+		<name normalized="Tchaj-nan" languages="Czech">Tchaj-nan</name>
+		<name normalized="Teynen shehiri" languages="Uyghur">Teynen shehiri</name>
+		<name normalized="Thoi-nam-su" languages="Hakka">Thòi-nàm-sṳ</name>
+		<name normalized="Tai-lam-chhi" languages="Chinese (Min Nan)">Tâi-lâm-chhī</name>
+		<name normalized="Dai Nam" languages="Vietnamese">Đài Nam</name>
+		<name normalized="Goрad Taйнaнь" languages="Belarusian">Горад Тайнань</name>
+		<name normalized="Taйнaнь" languages="Russian">Тайнань</name>
+		<name normalized="tאyنאن" languages="Arabic">تاينان</name>
+		<name normalized="台南市" languages="Japanese;Wu">台南市</name>
+		<name normalized="臺南市" languages="Cantonese;Chinese;Classical Chinese;Gan">臺南市</name>
+		<name normalized="타이난 시" languages="Korean">타이난 시</name>
+	</region>
+	<region name="Taipei" type="special municipality" typeTranslated="chih-hsia-shih">
+		<name normalized="Dai-bae¨k" languages="Min Dong Chinese">Dài-báe̤k</name>
+		<name normalized="Kota Taipei" languages="Indonesian">Kota Taipei</name>
+		<name normalized="T'aypik" languages="Quechua">T'aypik</name>
+		<name normalized="Taibei" languages="Latvian">Taibei</name>
+		<name normalized="Taipeh" languages="German;Luxembourgish">Taipeh</name>
+		<name normalized="Taipei" languages="Afrikaans;Basque;Bosnian;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;Galician;Ido;Iloko;Italian;Javanese;Ladino;Ligure;lumbaart;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Pampanga;Papiamento;Piedmontese;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Sicilian;Simple English;Swahili;Swedish;Tagalog;Tok Pisin;Turkish;veneto;Waray;Welsh;Western Frisian;Yoruba">Taipei</name>
+		<name normalized="Taipeium" languages="Latin">Taipeium</name>
+		<name normalized="Taipe" languages="Portuguese">Taipé</name>
+		<name normalized="Taipei" languages="Achinese;Spanish">Taipéi</name>
+		<name normalized="Taipejus" languages="Lithuanian">Taipėjus</name>
+		<name normalized="Tajpej" languages="Hungarian;Polish;Slovenian">Tajpej</name>
+		<name normalized="Tajpeo" languages="Esperanto">Tajpeo</name>
+		<name normalized="Taybey" languages="Azerbaijani;Tatar">Taybey</name>
+		<name normalized="Tayipeyi" languages="Kinyarwanda">Tayipeyi</name>
+		<name normalized="Tayipeh" languages="Franco-Provencal">Tayipèh</name>
+		<name normalized="Taypey" languages="Uzbek;Zazaki">Taypey</name>
+		<name normalized="Taype" languages="Haitian">Taypè</name>
+		<name normalized="Taipei" languages="Icelandic">Taípei</name>
+		<name normalized="Tchaj-pej" languages="Czech;Slovak">Tchaj-pej</name>
+		<name normalized="Thoi-pet-su" languages="Hakka">Thòi-pet-sṳ</name>
+		<name normalized="Tai-pak-chhi" languages="Chinese (Min Nan)">Tâi-pak-chhī</name>
+		<name normalized="Dai Bac" languages="Vietnamese">Đài Bắc</name>
+		<name normalized="Ταιπeι" languages="Greek">Ταϊπέι</name>
+		<name normalized="Goрad Taйbeй" languages="Belarusian">Горад Тайбэй</name>
+		<name normalized="Taйbiй" languages="Ukrainian">Тайбей</name>
+		<name normalized="Taйbeй" languages="Chechen;Kazakh;Mongolian;Ossetic;Russian;Tajik;biлaрuсkai (taрaskivita)‎">Тайбэй</name>
+		<name normalized="Taйpi" languages="Bulgarian">Тайпе</name>
+		<name normalized="Taйpeй" languages="Sakha">Тайпэй</name>
+		<name normalized="Tajpij" languages="Macedonian;Serbian">Тајпеј</name>
+		<name normalized="Tայbեյ" languages="Armenian">Թայբեյ</name>
+		<name normalized="tאיpיי" languages="Hebrew">טאיפיי</name>
+		<name normalized="tאئی pے" languages="Urdu">تائی پے</name>
+		<name normalized="tאybyh" languages="Arabic">تايبيه</name>
+		<name normalized="tאیph" languages="Persian">تایپه</name>
+		<name normalized="tאیpێ" languages="Sorani Kurdish">تایپێ</name>
+		<name normalized="tەybېy شەھىrى" languages="Uyghur">تەيبېي شەھىرى</name>
+		<name normalized="ٹאۓpی" languages="Western Punjabi">ٹاۓپی</name>
+		<name normalized="tाipe" languages="Hindi">ताइपे</name>
+		<name normalized="tाipei" languages="Marathi;Newari">ताइपेइ</name>
+		<name normalized="tাipe" languages="Bengali">তাইপে</name>
+		<name normalized="tਾipੇ" languages="Punjabi">ਤਾਈਪੇ</name>
+		<name normalized="ତାଇପେ" languages="Oriya">ତାଇପେ</name>
+		<name normalized="தாய்பெய்" languages="Tamil">தாய்பெய்</name>
+		<name normalized="ತೈಪೆ" languages="Kannada">ತೈಪೆ</name>
+		<name normalized="തായ്‌പെയ്" languages="Malayalam">തായ്‌പെയ്</name>
+		<name normalized="ไทเป" languages="Thai">ไทเป</name>
+		<name normalized="ཐའེ་པེ" languages="Tibetan">ཐའེ་པེ</name>
+		<name normalized="ထိုင်ပေမြို့" languages="Burmese">ထိုင်ပေမြို့</name>
+		<name normalized="ტაიბეი" languages="Georgian">ტაიბეი</name>
+		<name normalized="ታይፔ" languages="Amharic">ታይፔ</name>
+		<name normalized="台北市" languages="Japanese">台北市</name>
+		<name normalized="臺北市" languages="Cantonese;Chinese;Classical Chinese">臺北市</name>
+		<name normalized="타이베이 시" languages="Korean">타이베이 시</name>
+	</region>
+	<region name="Taitung" type="county" typeTranslated="hsien">
+		<name normalized="Comte de Taitung" languages="French">Comté de Taitung</name>
+		<name normalized="Contea di Taitung" languages="Italian">Contea di Taitung</name>
+		<name normalized="Kabupaten Taitung" languages="Indonesian">Kabupaten Taitung</name>
+		<name normalized="Landkreis Taitung" languages="German">Landkreis Taitung</name>
+		<name normalized="Okres Tchaj-tung" languages="Czech">Okres Tchaj-tung</name>
+		<name normalized="Taidong" languages="Polish">Taidong</name>
+		<name normalized="Taitung" languages="Dutch;English;official">Taitung</name>
+		<name normalized="Taitung County" languages="English;official">Taitung County</name>
+		<name normalized="Taitung Hsien" languages="English;official">Taitung Hsien</name>
+		<name normalized="Taitung konderria" languages="Basque">Taitung konderria</name>
+		<name normalized="Thoi-tung-yen" languages="Hakka">Thòi-tûng-yen</name>
+		<name normalized="Tai-tang" languages="Chinese (Min Nan)">Tâi-tang</name>
+		<name normalized="Tai-tang-koan" languages="Chinese (Min Nan)">Tâi-tang-koān</name>
+		<name normalized="Dai Dong" languages="Vietnamese">Đài Đông</name>
+		<name normalized="Taйduн" languages="Russian">Тайдун</name>
+		<name normalized="ไถตง" languages="Thai">ไถตง</name>
+		<name normalized="台東" languages="Chinese;Japanese">台東</name>
+		<name normalized="台東県" languages="Japanese">台東県</name>
+		<name normalized="臺東縣" languages="Chinese;Classical Chinese">臺東縣</name>
+		<name normalized="타이둥" languages="Korean">타이둥</name>
+		<name normalized="타이둥 현" languages="Korean">타이둥 현</name>
+	</region>
+	<region name="Taoyuan" type="county" typeTranslated="hsien">
+		<name normalized="Comte de Taoyuan" languages="French">Comté de Taoyuan</name>
+		<name normalized="Contea di Taoyuan" languages="Italian">Contea di Taoyuan</name>
+		<name normalized="Kabupaten Taoyuan" languages="Indonesian">Kabupaten Taoyuan</name>
+		<name normalized="Landkreis Taoyuan" languages="German">Landkreis Taoyuan</name>
+		<name normalized="Okres Tchao-juan" languages="Czech">Okres Tchao-jüan</name>
+		<name normalized="Taojuan megye" languages="Hungarian">Taojüan megye</name>
+		<name normalized="Taoyuan" languages="Dutch;English;Finnish;German;Italian;official;Polish;Portuguese;Spanish;Swedish">Taoyuan</name>
+		<name normalized="Taoyuan City" languages="English">Taoyuan City</name>
+		<name normalized="Taoyuan County" languages="English;official;Simple English">Taoyuan County</name>
+		<name normalized="Taoyuan Hsien" languages="English;official">Taoyuan Hsien</name>
+		<name normalized="Taoyuang konderria" languages="Basque">Taoyuang konderria</name>
+		<name normalized="Taoyuen" languages="Quechua">Taoyuen</name>
+		<name normalized="Tchao-juan" languages="Czech">Tchao-jüan</name>
+		<name normalized="Tho-yen-su" languages="Hakka">Thò-yèn-sṳ</name>
+		<name normalized="Tho-yen-yen" languages="Hakka">Thò-yèn-yen</name>
+		<name normalized="Tho-hnˆg-chhi" languages="Chinese (Min Nan)">Thô-hn̂g-chhī</name>
+		<name normalized="Tho-hnˆg-koan" languages="Chinese (Min Nan)">Thô-hn̂g-koān</name>
+		<name normalized="Dao Vien" languages="Vietnamese">Đào Viên</name>
+		<name normalized="Taoюaнь" languages="Russian;Sakha">Таоюань</name>
+		<name normalized="tאوyون" languages="Arabic">تاويون</name>
+		<name normalized="เถาหยวน" languages="Thai">เถาหยวน</name>
+		<name normalized="桃園市" languages="Chinese;Classical Chinese;Japanese">桃園市</name>
+		<name normalized="桃園県" languages="Japanese">桃園県</name>
+		<name normalized="桃園縣" languages="Chinese;Classical Chinese">桃園縣</name>
+		<name normalized="타오위안 시" languages="Korean">타오위안 시</name>
+		<name normalized="타오위안 현" languages="Korean">타오위안 현</name>
+	</region>
+	<region name="Yilan" type="county" typeTranslated="hsien">
+		<name normalized="Comte de Yilan" languages="French">Comté de Yilan</name>
+		<name normalized="Condado de Yilan" languages="Spanish">Condado de Yilan</name>
+		<name normalized="Contea di Yilan" languages="Italian">Contea di Yilan</name>
+		<name normalized="Gi-lan" languages="Chinese (Min Nan)">Gî-lân</name>
+		<name normalized="Gi-lan-koan" languages="Chinese (Min Nan)">Gî-lân-koān</name>
+		<name normalized="Kabupaten Yilan" languages="Indonesian">Kabupaten Yilan</name>
+		<name normalized="Landkreis Yilan" languages="German">Landkreis Yilan</name>
+		<name normalized="Nghi Lan" languages="Vietnamese">Nghi Lan</name>
+		<name normalized="Ngi-lan-yen" languages="Hakka">Ngì-làn-yen</name>
+		<name normalized="Okres I-lan" languages="Czech">Okres I-lan</name>
+		<name normalized="Yilan" languages="Dutch;English;official;Polish">Yilan</name>
+		<name normalized="Yilan County" languages="English;official">Yilan County</name>
+		<name normalized="Yilan Hsien" languages="English;official">Yilan Hsien</name>
+		<name normalized="Yilan konderria" languages="Basque">Yilan konderria</name>
+		<name normalized="Iлaнь" languages="Russian">Илань</name>
+		<name normalized="อี๋หลาน" languages="Thai">อี๋หลาน</name>
+		<name normalized="宜蘭" languages="Chinese;Japanese">宜蘭</name>
+		<name normalized="宜蘭県" languages="Japanese">宜蘭県</name>
+		<name normalized="宜蘭縣" languages="Chinese;Classical Chinese">宜蘭縣</name>
+		<name normalized="이란 현" languages="Korean">이란 현</name>
+	</region>
+	<region name="Yunlin" type="county" typeTranslated="hsien">
+		<name normalized="Comte de Yunlin" languages="French">Comté de Yunlin</name>
+		<name normalized="Condado de Yunlin" languages="Spanish">Condado de Yunlin</name>
+		<name normalized="Hun-lim-koan" languages="Chinese (Min Nan)">Hûn-lîm-koān</name>
+		<name normalized="Kabupaten Yunlin" languages="Indonesian">Kabupaten Yunlin</name>
+		<name normalized="Landkreis Yunlin" languages="German">Landkreis Yunlin</name>
+		<name normalized="Okres Jun-lin" languages="Czech">Okres Jün-lin</name>
+		<name normalized="Van Lam" languages="Vietnamese">Vân Lâm</name>
+		<name normalized="Yunlin" languages="Dutch;English;Italian;official;Polish">Yunlin</name>
+		<name normalized="Yunlin County" languages="English;official">Yunlin County</name>
+		<name normalized="Yunlin Hsien" languages="English;official">Yunlin Hsien</name>
+		<name normalized="Yunlin konderria" languages="Basque">Yunlin konderria</name>
+		<name normalized="Yun-lim-yen" languages="Hakka">Yùn-lìm-yen</name>
+		<name normalized="Юньлiнь" languages="Russian">Юньлинь</name>
+		<name normalized="หยุนหลิน" languages="Thai">หยุนหลิน</name>
+		<name normalized="雲林" languages="Gan">雲林</name>
+		<name normalized="雲林県" languages="Japanese">雲林県</name>
+		<name normalized="雲林縣" languages="Chinese;Classical Chinese">雲林縣</name>
+		<name normalized="윈린 현" languages="Korean">윈린 현</name>
+	</region>
+</regions>

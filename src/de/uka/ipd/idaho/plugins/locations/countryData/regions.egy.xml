@@ -1,0 +1,1544 @@
+<regions country="Egypt">
+	<region name="Ad Daqahliyah" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Ad Daqahliyah" languages="Danish;Dutch;English;Norwegian (bokmal);official;Romanian">Ad Daqahliyah</name>
+		<name normalized="Ad Daqahliyah Governorate" languages="English;official">Ad Daqahliyah Governorate</name>
+		<name normalized="Ad Daqahliyah Muhafazat" languages="English;official">Ad Daqahliyah Muhafazat</name>
+		<name normalized="Ad-Dakahlijja" languages="Polish">Ad-Dakahlijja</name>
+		<name normalized="Ad-Daqahliyya" languages="Latin;Swedish">Ad-Daqahliyya</name>
+		<name normalized="Dacalia" languages="Spanish">Dacalia</name>
+		<name normalized="Dachilija" languages="Czech">Dachílija</name>
+		<name normalized="Dakahlia" languages="Portuguese;Waray">Dakahlia</name>
+		<name normalized="Dakahlia Governorate" languages="English">Dakahlia Governorate</name>
+		<name normalized="Dakahlia Govrenorate" languages="Scots">Dakahlia Govrenorate</name>
+		<name normalized="Dakahlijos muchafaza" languages="Lithuanian">Dakahlijos muchafaza</name>
+		<name normalized="Dekahliye" languages="Turkish">Dekahliye</name>
+		<name normalized="Gouvernement ad-Daqahliyya" languages="German">Gouvernement ad-Daqahliyya</name>
+		<name normalized="Gouvernorat de Dakhleya" languages="French">Gouvernorat de Dakhleya</name>
+		<name normalized="Governacio d'Al-Daqahliyah" languages="Catalan">Governació d'Al-Daqahliyah</name>
+		<name normalized="Governatorato di Daqahliyya" languages="Italian">Governatorato di Daqahliyya</name>
+		<name normalized="Kegubernuran Ad Daqahliyah" languages="Indonesian">Kegubernuran Ad Daqahliyah</name>
+		<name normalized="Mkoa wa Dakahlia" languages="Swahili">Mkoa wa Dakahlia</name>
+		<name normalized="Provinco Dakahlija" languages="Esperanto">Provinco Dakahlija</name>
+		<name normalized="Dakagлii" languages="biлaрuсkai (taрaskivita)‎">Дакаглія</name>
+		<name normalized="Dakakлii" languages="Bulgarian;Russian">Дакахлия</name>
+		<name normalized="Dakakлija" languages="Serbian">Дакахлија</name>
+		<name normalized="Dakakлii" languages="Ukrainian">Дакахлія</name>
+		<name normalized="א-דqhדיh" languages="Hebrew">א-דקהליה</name>
+		<name normalized="אسtאن دqhلیh" languages="Persian">استان دقهلیه</name>
+		<name normalized="אلدqhلyة" languages="Arabic">الدقهلية</name>
+		<name normalized="sوbہ دאqאہلیہ" languages="Western Punjabi">صوبہ داقاہلیہ</name>
+		<name normalized="mhאfzة אلدqhلyh" languages="Egyptian Spoken Arabic">محافظة الدقهليه</name>
+		<name normalized="dk़ahleyा muhाp़j़ाh" languages="Hindi">दक़ैहलेया मुहाफ़ज़ाह</name>
+		<name normalized="დაკაჰლიის მუჰაფაზა" languages="Georgian">დაკაჰლიის მუჰაფაზა</name>
+		<name normalized="dkrーy県" languages="Japanese">ダカリーヤ県</name>
+		<name normalized="代蓋赫利耶省" languages="Chinese">代蓋赫利耶省</name>
+		<name normalized="다칼리야 주" languages="Korean">다칼리야 주</name>
+	</region>
+	<region name="Al Bahr al Ahmar" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Al Bahr al Ahmar" languages="English;official">Al Bahr al Ahmar</name>
+		<name normalized="Al Bahr al Ahmar Governorate" languages="English;official">Al Bahr al Ahmar Governorate</name>
+		<name normalized="Al Bahr al Ahmar Muhafazat" languages="English;official">Al Bahr al Ahmar Muhafazat</name>
+		<name normalized="Al-Bahr al-ahma" languages="Latin">Al-Bahr al-ahma</name>
+		<name normalized="Al-Bahr al-Ahmar" languages="Danish;Norwegian (bokmal);Slovak;Swedish">Al-Bahr al-Ahmar</name>
+		<name normalized="Al-Bahri al-Ahmari" languages="Czech">Al-Bahri al-Ahmari</name>
+		<name normalized="Al-Bahr al-Ahmari kubernerkond" languages="Estonian">Al-Baḩr al-Aḩmari kubernerkond</name>
+		<name normalized="Badacas" languages="Somali">Badacas</name>
+		<name normalized="Bahari ya Shamu" languages="Swahili">Bahari ya Shamu</name>
+		<name normalized="Bahar l-Ahmar" languages="Maltese">Baħar l-Aħmar</name>
+		<name normalized="Bien Do" languages="Vietnamese">Biển Đỏ</name>
+		<name normalized="Cerwjene morjo" languages="Lower Sorbian">Cerwjene mórjo</name>
+		<name normalized="Crveno more" languages="Bosnian;Croatian;Serbo-Croatian">Crveno more</name>
+		<name normalized="Dagat Pula" languages="Tagalog">Dagat Pula</name>
+		<name normalized="Deryaya Sor" languages="Kurdish">Deryaya Sor</name>
+		<name normalized="Deryayo Sur" languages="Zazaki">Deryayo Sur</name>
+		<name normalized="Deti i Kuq" languages="Albanian">Deti i Kuq</name>
+		<name normalized="Fung-hoi" languages="Hakka">Fùng-hói</name>
+		<name normalized="Galaana Diimaa" languages="Oromo">Galaana Diimaa</name>
+		<name normalized="Gouvernement al-Bahr al-ahmar" languages="German">Gouvernement al-Bahr al-ahmar</name>
+		<name normalized="Gouvernorat de la Mer-Rouge" languages="French">Gouvernorat de la Mer-Rouge</name>
+		<name normalized="Governacio de la Mar Roja" languages="Catalan">Governació de la Mar Roja</name>
+		<name normalized="Governatorato del Mar Rosso" languages="Italian">Governatorato del Mar Rosso</name>
+		<name normalized="Guvernoratul Al Bahr al Ahmar" languages="Romanian">Guvernoratul Al Bahr al Ahmar</name>
+		<name normalized="Itsaso Gorria" languages="Basque">Itsaso Gorria</name>
+		<name normalized="Kegubernuran Al-Bahr al-Ahmar" languages="Indonesian">Kegubernuran Al-Bahr al-Ahmar</name>
+		<name normalized="Kızıldeniz" languages="Turkish">Kızıldeniz</name>
+		<name normalized="La'ot Mirah" languages="Achinese">La'ôt Mirah</name>
+		<name normalized="Laman Kora" languages="Papiamento">Laman Korá</name>
+		<name normalized="Laut Beureum" languages="Sundanese">Laut Beureum</name>
+		<name normalized="Laut Habang" languages="Banjar">Laut Habang</name>
+		<name normalized="Laut Merah" languages="Indonesian;Malay">Laut Merah</name>
+		<name normalized="Mar Bermeya" languages="Asturian">Mar Bermeya</name>
+		<name normalized="Mar Cotschna" languages="Romansh">Mar Cotschna</name>
+		<name normalized="Mar Roja" languages="Catalan;Occitan">Mar Roja</name>
+		<name normalized="Mar Rojo" languages="Spanish">Mar Rojo</name>
+		<name normalized="Mar Roso" languages="veneto">Mar Roso</name>
+		<name normalized="Mar Rosso" languages="Italian">Mar Rosso</name>
+		<name normalized="Mar Roya" languages="Aragonese">Mar Roya</name>
+		<name normalized="Mar Ruosso" languages="Neapolitan">Mar Ruosso</name>
+		<name normalized="Mar Russ" languages="lumbaart">Mar Russ</name>
+		<name normalized="Mar Vermelho" languages="Portuguese">Mar Vermelho</name>
+		<name normalized="Mar Vermello" languages="Galician">Mar Vermello</name>
+		<name normalized="Mare rubrum" languages="Latin">Mare rubrum</name>
+		<name normalized="Marea Rosie" languages="Romanian">Marea Roșie</name>
+		<name normalized="Mari Colorau" languages="Extremaduran">Mari Colorau</name>
+		<name normalized="Mari Russu" languages="Sicilian">Mari Russu</name>
+		<name normalized="Mer Rouge" languages="French">Mer Rouge</name>
+		<name normalized="Mkoa wa Bahari ya Shamu" languages="Swahili">Mkoa wa Bahari ya Shamu</name>
+		<name normalized="Mor Ruz" languages="Breton">Mor Ruz</name>
+		<name normalized="Morze Czerwone" languages="Polish">Morze Czerwone</name>
+		<name normalized="Muir Rua" languages="Irish">Muir Rua</name>
+		<name normalized="Provinco Ruga Maro" languages="Esperanto">Provinco Ruĝa Maro</name>
+		<name normalized="Prowincja Morza Czerwonego" languages="Polish">Prowincja Morza Czerwonego</name>
+		<name normalized="Pula nga Dagat" languages="Waray">Pula nga Dagat</name>
+		<name normalized="Punainenmeri" languages="Finnish">Punainenmeri</name>
+		<name normalized="Punane meri" languages="Estonian">Punane meri</name>
+		<name normalized="Qırmızı dəniz" languages="Azerbaijani">Qırmızı dəniz</name>
+		<name normalized="Ranomasina Mena" languages="Malagasy">Ranomasina Mena</name>
+		<name normalized="Raudehavet" languages="Norwegian Nynorsk">Raudehavet</name>
+		<name normalized="Raudonoji jura" languages="Lithuanian">Raudonoji jūra</name>
+		<name normalized="Raudonosios Juros muchafaza" languages="Lithuanian">Raudonosios Jūros muchafaza</name>
+		<name normalized="Raudahaf" languages="Icelandic">Rauðahaf</name>
+		<name normalized="Rdece morje" languages="Slovenian">Rdeče morje</name>
+		<name normalized="Reade See" languages="Western Frisian">Reade See</name>
+		<name normalized="Red Sea" languages="English;Fiji Hindi;official;Simple English">Red Sea</name>
+		<name normalized="Red Sea Governorate" languages="English;official">Red Sea Governorate</name>
+		<name normalized="Red Sea Govrenorate" languages="Scots">Red Sea Govrenorate</name>
+		<name normalized="Red Sea Muhafazat" languages="English;official">Red Sea Muhafazat</name>
+		<name normalized="Reda maro" languages="Ido">Reda maro</name>
+		<name normalized="Rode Zee" languages="Dutch">Rode Zee</name>
+		<name normalized="Rooi See" languages="Afrikaans">Rooi See</name>
+		<name normalized="Rotes Meer" languages="German">Rotes Meer</name>
+		<name normalized="Rouoge Me" languages="Nouormand">Rouoge Mé</name>
+		<name normalized="Rout Mier" languages="Luxembourgish">Rout Mier</name>
+		<name normalized="Rude more" languages="Czech">Rudé moře</name>
+		<name normalized="Ruga Maro" languages="Esperanto">Ruĝa Maro</name>
+		<name normalized="Roda havet" languages="Swedish">Röda havet</name>
+		<name normalized="Rode Hav" languages="Danish">Røde Hav</name>
+		<name normalized="Rodehavet" languages="Norwegian (bokmal)">Rødehavet</name>
+		<name normalized="Sarkana jura" languages="Latvian">Sarkanā jūra</name>
+		<name normalized="Segara Abang" languages="Javanese">Segara Abang</name>
+		<name normalized="Voros-tenger" languages="Hungarian">Vörös-tenger</name>
+		<name normalized="Y Mor Coch" languages="Welsh">Y Môr Coch</name>
+		<name normalized="Yn Vooir Ruy" languages="Manx">Yn Vooir Ruy</name>
+		<name normalized="Ang-hai" languages="Chinese (Min Nan)">Âng-hái</name>
+		<name normalized="Okun Pupa" languages="Yoruba">Òkun Pupa</name>
+		<name normalized="Cervene more" languages="Slovak">Červené more</name>
+		<name normalized="Cerwjene morjo" languages="Upper Sorbian">Čerwjene morjo</name>
+		<name normalized="Ερυθρα Θαλασσα" languages="Greek">Ερυθρά Θάλασσα</name>
+		<name normalized="Bagр eль-Agмaр" languages="biлaрuсkai (taрaskivita)‎">Багр эль-Агмар</name>
+		<name normalized="Goрd сaрidz" languages="Komi">Гӧрд саридз</name>
+		<name normalized="Kрaснoi Мoрi" languages="Russian">Красное Море</name>
+		<name normalized="Kыzыл diңgiz" languages="Tatar">Кызыл диңгез</name>
+		<name normalized="Uлaaн teнgiс" languages="Mongolian">Улаан тэнгис</name>
+		<name normalized="Keрлe tiнeс" languages="Chuvash">Хĕрлĕ тинĕс</name>
+		<name normalized="Tрviнo мoрi" languages="Macedonian;Serbian">Црвено море</name>
+		<name normalized="Ciрviнo мoрi" languages="Bulgarian">Червено море</name>
+		<name normalized="Ciрvoнi Мoрi" languages="Ukrainian">Червоне Море</name>
+		<name normalized="Cырvoнai мoрa" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Чырвонае мора</name>
+		<name normalized="Яksaр taнgыz" languages="Hill Mari">Якшар тангыж</name>
+		<name normalized="Ярu gьuьл" languages="Lezghian">Яру гьуьл</name>
+		<name normalized="Kыzыл tiңiz" languages="Kazakh">Қызыл теңіз</name>
+		<name normalized="Kաrmիr cvվ" languages="Armenian">Կարմիր ծով</name>
+		<name normalized="ים סvף" languages="Hebrew;Yiddish">ים סוף</name>
+		<name normalized="אسtאن bhrאلאhmr" languages="Persian">استان بحرالاحمر</name>
+		<name normalized="אلbhr אلأhmr" languages="Arabic">البحر الأحمر</name>
+		<name normalized="אلbhr אلאhmr" languages="Egyptian Spoken Arabic">البحر الاحمر</name>
+		<name normalized="bhیrہ אhmr" languages="Urdu">بحیرہ احمر</name>
+		<name normalized="دrیאی سrخ" languages="Persian">دریای سرخ</name>
+		<name normalized="سrخ دrیא" languages="Mazanderani">سرخ دریا</name>
+		<name normalized="sوbہ لאل سmندr" languages="Western Punjabi">صوبہ لال سمندر</name>
+		<name normalized="لאل سmندr" languages="Western Punjabi">لال سمندر</name>
+		<name normalized="mhאfzة אلbhr אلأhmr" languages="Egyptian Spoken Arabic">محافظة البحر الأحمر</name>
+		<name normalized="ܝܡܐ ܣܘܡܩܐ" languages="Aramaic">ܝܡܐ ܣܘܡܩܐ</name>
+		<name normalized="ރަތްކަނޑު" languages="Divehi">ރަތްކަނޑު</name>
+		<name normalized="lाl smud्r" languages="Marathi">लाल समुद्र</name>
+		<name normalized="lाl sाgr" languages="Hindi">लाल सागर</name>
+		<name normalized="lाl sाgr muhाp़j़ाh" languages="Hindi">लाल सागर मुहाफ़ज़ाह</name>
+		<name normalized="lohit sাgr" languages="Bengali">লোহিত সাগর</name>
+		<name normalized="lਾl sਾgr" languages="Punjabi">ਲਾਲ ਸਾਗਰ</name>
+		<name normalized="செங்கடல்" languages="Tamil">செங்கடல்</name>
+		<name normalized="ఎర్ర సముద్రం" languages="Telugu">ఎర్ర సముద్రం</name>
+		<name normalized="ಕೆಂಪು ಸಮುದ್ರ" languages="Kannada">ಕೆಂಪು ಸಮುದ್ರ</name>
+		<name normalized="ചെങ്കടൽ" languages="Malayalam">ചെങ്കടൽ</name>
+		<name normalized="ทะเลแดง" languages="Thai">ทะเลแดง</name>
+		<name normalized="ပင်လယ်နီ" languages="Burmese">ပင်လယ်နီ</name>
+		<name normalized="წითელი ზღვა" languages="Georgian">წითელი ზღვა</name>
+		<name normalized="წითელი ზღვის მუჰაფაზა" languages="Georgian">წითელი ზღვის მუჰაფაზა</name>
+		<name normalized="ჭითა ზუღა" languages="Mingrelian">ჭითა ზუღა</name>
+		<name normalized="紅海" languages="Cantonese;Japanese">紅海</name>
+		<name normalized="紅海県" languages="Japanese">紅海県</name>
+		<name normalized="红海" languages="Chinese">红海</name>
+		<name normalized="红海省" languages="Chinese">红海省</name>
+		<name normalized="홍해" languages="Korean">홍해</name>
+		<name normalized="홍해 주" languages="Korean">홍해 주</name>
+	</region>
+	<region name="Al Buhayrah" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Al Buhayrah" languages="Danish;Dutch;English;Norwegian (bokmal);official">Al Buhayrah</name>
+		<name normalized="Al Buhayrah Governorate" languages="English;official">Al Buhayrah Governorate</name>
+		<name normalized="Al Buhayrah Muhafazat" languages="English;official">Al Buhayrah Muhafazat</name>
+		<name normalized="Al-Buhaira" languages="Latin;Portuguese">Al-Buhaira</name>
+		<name normalized="Al-Buhajra" languages="Polish;Slovak">Al-Buhajra</name>
+		<name normalized="Al-Buhayrati kubernerkond" languages="Estonian">Al-Buḩayrāti kubernerkond</name>
+		<name normalized="Beheira" languages="Swedish;Waray">Beheira</name>
+		<name normalized="Beheira Governorate" languages="English">Beheira Governorate</name>
+		<name normalized="Beheira Govrenorate" languages="Scots">Beheira Govrenorate</name>
+		<name normalized="Beheiros muchafaza" languages="Lithuanian">Beheiros muchafaza</name>
+		<name normalized="Behera" languages="Spanish">Behera</name>
+		<name normalized="Buhajra" languages="Czech">Buhajra</name>
+		<name normalized="Buheyre" languages="Turkish">Buheyre</name>
+		<name normalized="Gouvernement al-Buhaira" languages="German">Gouvernement al-Buhaira</name>
+		<name normalized="Gouvernorat de Beheira" languages="French">Gouvernorat de Beheira</name>
+		<name normalized="Governacio de Buhayra" languages="Catalan">Governació de Buhayra</name>
+		<name normalized="Governatorato di Buhayra" languages="Italian">Governatorato di Buhayra</name>
+		<name normalized="Guvernoratul Beheira" languages="Romanian">Guvernoratul Beheira</name>
+		<name normalized="Kegubernuran Al Buhayrah" languages="Indonesian">Kegubernuran Al Buhayrah</name>
+		<name normalized="Mkoa wa Beheira" languages="Swahili">Mkoa wa Beheira</name>
+		<name normalized="Provinco Buhajra" languages="Esperanto">Provinco Buhajra</name>
+		<name normalized="Bugeйрa" languages="biлaрuсkai (taрaskivita)‎">Бугэйра</name>
+		<name normalized="Bukaйрa" languages="Bulgarian">Бухайра</name>
+		<name normalized="Bukiйрa" languages="Russian;Ukrainian">Бухейра</name>
+		<name normalized="Bukijрa" languages="Serbian">Бухејра</name>
+		<name normalized="Мukaфaza Bukiйрa" languages="Belarusian">Мухафаза Бухейра</name>
+		<name normalized="אسtאن bhیrh" languages="Persian">استان بحیره</name>
+		<name normalized="אلbhyrة" languages="Arabic">البحيرة</name>
+		<name normalized="sوbہ bhیrہ" languages="Western Punjabi">صوبہ بحیرہ</name>
+		<name normalized="mhאfzة אلbhyrh" languages="Egyptian Spoken Arabic">محافظة البحيره</name>
+		<name normalized="beheirा muhाp़j़ाh" languages="Hindi">बेहेइरा मुहाफ़ज़ाह</name>
+		<name normalized="ბეჰეირის მუჰაფაზა" languages="Georgian">ბეჰეირის მუჰაფაზა</name>
+		<name normalized="bhir県" languages="Japanese">ブハイラ県</name>
+		<name normalized="布海拉省" languages="Chinese">布海拉省</name>
+		<name normalized="베헤이라 주" languages="Korean">베헤이라 주</name>
+	</region>
+	<region name="Al Fayyum" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Al Fayyum" languages="Croatian;Danish;English;Indonesian;Norwegian (bokmal);official;Romanian">Al Fayyum</name>
+		<name normalized="Al Fayyum Governorate" languages="English;official">Al Fayyum Governorate</name>
+		<name normalized="Al Fayyum Muhafazat" languages="English;official">Al Fayyum Muhafazat</name>
+		<name normalized="Al-Fayyum" languages="Finnish;Latin">Al-Fayyum</name>
+		<name normalized="Al-Fayyum" languages="Estonian;German">Al-Fayyūm</name>
+		<name normalized="Ciudad de Fayun" languages="Spanish">Ciudad de Fayún</name>
+		<name normalized="El-Fajoem" languages="Dutch">El-Fajoem</name>
+		<name normalized="Faijum" languages="Swedish">Faijum</name>
+		<name normalized="Faium" languages="Portuguese">Faium</name>
+		<name normalized="Faiyum" languages="Basque;English;Norwegian (bokmal);Scots;Serbo-Croatian;Waray">Faiyum</name>
+		<name normalized="Faiyum Governorate" languages="English">Faiyum Governorate</name>
+		<name normalized="Faiyum Govrenorate" languages="Scots">Faiyum Govrenorate</name>
+		<name normalized="Fajjum" languages="Czech;Slovak">Fajjúm</name>
+		<name normalized="Fajoem" languages="Dutch">Fajoem</name>
+		<name normalized="Fajum" languages="Polish">Fajum</name>
+		<name normalized="Fajumas" languages="Lithuanian">Fajumas</name>
+		<name normalized="Fajumo" languages="Esperanto">Fajumo</name>
+		<name normalized="Fajumo muchafaza" languages="Lithuanian">Fajumo muchafaza</name>
+		<name normalized="Fayyum" languages="Irish;Italian">Fayyum</name>
+		<name normalized="Fayun" languages="Spanish">Fayún</name>
+		<name normalized="Feyyum" languages="Turkish">Feyyum</name>
+		<name normalized="Gouvernement al-Fayyum" languages="German">Gouvernement al-Fayyum</name>
+		<name normalized="Gouvernorat du Fayoum" languages="French">Gouvernorat du Fayoum</name>
+		<name normalized="Governacio d'el Faium" languages="Catalan">Governació d'el Faium</name>
+		<name normalized="Governatorato di Fayyum" languages="Italian">Governatorato di Fayyum</name>
+		<name normalized="Guvernoratul Al Fayyum" languages="Romanian">Guvernoratul Al Fayyum</name>
+		<name normalized="Madinat al-Fayyum" languages="Catalan">Madinat al-Fayyum</name>
+		<name normalized="Mkoa wa Faiyum" languages="Swahili">Mkoa wa Faiyum</name>
+		<name normalized="Medinet el-Fayoum" languages="French">Médinet el-Fayoum</name>
+		<name normalized="Provinco Fajum" languages="Esperanto">Provinco Fajum</name>
+		<name normalized="Φαγιοuμ" languages="Greek">Φαγιούμ</name>
+		<name normalized="Iль-Фaйюм" languages="Ukrainian">Ель-Файюм</name>
+		<name normalized="Фaйюм" languages="Ukrainian">Файюм</name>
+		<name normalized="Фaюм" languages="Bulgarian">Фаюм</name>
+		<name normalized="Фajuм" languages="Serbian">Фајум</name>
+		<name normalized="Eль-Фaйюм" languages="Russian">Эль-Файюм</name>
+		<name normalized="Eль-Фaюм" languages="biлaрuсkai (taрaskivita)‎">Эль-Фаюм</name>
+		<name normalized="Fայvym" languages="Armenian">Ֆայում</name>
+		<name normalized="אד-pיvם" languages="Hebrew">אל-פיום</name>
+		<name normalized="pיvם" languages="Hebrew">פיום</name>
+		<name normalized="אسtאن fیوm" languages="Persian">استان فیوم</name>
+		<name normalized="אلfyوm" languages="Arabic">الفيوم</name>
+		<name normalized="sوbہ fیوm" languages="Western Punjabi">صوبہ فیوم</name>
+		<name normalized="fیوm" languages="Persian">فیوم</name>
+		<name normalized="p़y्yum muhाp़j़ाh" languages="Hindi">फ़य्यूम मुहाफ़ज़ाह</name>
+		<name normalized="ელ-ფაიუმი" languages="Georgian">ელ-ფაიუმი</name>
+		<name normalized="ელ-ფაიუმის მუჰაფაზა" languages="Georgian">ელ-ფაიუმის მუჰაფაზა</name>
+		<name normalized="haiyーm" languages="Japanese">ファイユーム</name>
+		<name normalized="haiyーm県" languages="Japanese">ファイユーム県</name>
+		<name normalized="法尤姆" languages="Chinese">法尤姆</name>
+		<name normalized="法尤姆省" languages="Chinese">法尤姆省</name>
+		<name normalized="파이윰" languages="Korean">파이윰</name>
+		<name normalized="파이윰 주" languages="Korean">파이윰 주</name>
+	</region>
+	<region name="Al Gharbiyah" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Al Gharbiyah" languages="Danish;Dutch;English;Norwegian (bokmal);official;Romanian">Al Gharbiyah</name>
+		<name normalized="Al Gharbiyah Governorate" languages="English;official">Al Gharbiyah Governorate</name>
+		<name normalized="Al Gharbiyah Muhafazat" languages="English;official">Al Gharbiyah Muhafazat</name>
+		<name normalized="Al-Gharbijja" languages="Polish">Al-Gharbijja</name>
+		<name normalized="Al-Gharbiyya" languages="Latin;Swedish">Al-Gharbiyya</name>
+		<name normalized="Garbia" languages="Portuguese">Garbia</name>
+		<name normalized="Garbijos muchafaza" languages="Lithuanian">Garbijos muchafaza</name>
+		<name normalized="Garbiya" languages="Turkish">Garbiya</name>
+		<name normalized="Gharb" languages="Dutch;German;Portuguese">Gharb</name>
+		<name normalized="Gharbia" languages="Waray">Gharbia</name>
+		<name normalized="Gharbia Governorate" languages="English">Gharbia Governorate</name>
+		<name normalized="Gharbia Govrenorate" languages="Scots">Gharbia Govrenorate</name>
+		<name normalized="Gharbija" languages="Czech">Gharbíja</name>
+		<name normalized="Gouvernement al-Gharbiyya" languages="German">Gouvernement al-Gharbiyya</name>
+		<name normalized="Gouvernorat de Gharbeya" languages="French">Gouvernorat de Gharbeya</name>
+		<name normalized="Governacio d'Al-Gharbiya" languages="Catalan">Governació d'Al-Gharbiya</name>
+		<name normalized="Governatorato di Gharbiyya" languages="Italian">Governatorato di Gharbiyya</name>
+		<name normalized="Kegubernuran Al Gharbiyah" languages="Indonesian">Kegubernuran Al Gharbiyah</name>
+		<name normalized="Mkoa wa Gharbia" languages="Swahili">Mkoa wa Gharbia</name>
+		<name normalized="Occidental" languages="Spanish">Occidental</name>
+		<name normalized="Provinco Garbija" languages="Esperanto">Provinco Garbija</name>
+		<name normalized="Prowincja Zachodnia" languages="Polish">Prowincja Zachodnia</name>
+		<name normalized="Gaрbii" languages="Bulgarian;Russian">Гарбия</name>
+		<name normalized="Gaрbija" languages="Serbian">Гарбија</name>
+		<name normalized="Gaрbii" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Гарбія</name>
+		<name normalized="אسtאن غrbیh" languages="Persian">استان غربیه</name>
+		<name normalized="אلغrbyة" languages="Arabic">الغربية</name>
+		<name normalized="sوbہ غrbیא" languages="Western Punjabi">صوبہ غربیا</name>
+		<name normalized="mhאfzة אلغrbyh" languages="Egyptian Spoken Arabic">محافظة الغربيه</name>
+		<name normalized="g़rbiyा muhाp़j़ाh" languages="Hindi">ग़रबीया मुहाफ़ज़ाह</name>
+		<name normalized="გარბიის მუჰაფაზა" languages="Georgian">გარბიის მუჰაფაზა</name>
+		<name normalized="grbーy県" languages="Japanese">ガルビーヤ県</name>
+		<name normalized="西部省" languages="Chinese">西部省</name>
+		<name normalized="가르비야 주" languages="Korean">가르비야 주</name>
+	</region>
+	<region name="Al Iskandariyah" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Al Iskandariyah" languages="English;Norwegian (bokmal);official">Al Iskandariyah</name>
+		<name normalized="Al Iskandariyah Governorate" languages="English;official">Al Iskandariyah Governorate</name>
+		<name normalized="Al Iskandariyah Muhafazat" languages="English;official">Al Iskandariyah Muhafazat</name>
+		<name normalized="Alegsandiri" languages="Wolof">Alegsàndiri</name>
+		<name normalized="Alehandriya" languages="Tagalog">Alehandriya</name>
+		<name normalized="Aleixandria" languages="Aragonese">Aleixandría</name>
+		<name normalized="Alejandria" languages="Extremaduran">Alejandria</name>
+		<name normalized="Alejandria" languages="Spanish">Alejandría</name>
+		<name normalized="Aleksandria" languages="Albanian;Breton;Estonian;Finnish;Polish;Swahili">Aleksandria</name>
+		<name normalized="Aleksandria kubernerkond" languages="Estonian">Aleksandria kubernerkond</name>
+		<name normalized="Aleksandrija" languages="Bosnian;Croatian;Latvian;Lithuanian;Serbo-Croatian;Slovenian">Aleksandrija</name>
+		<name normalized="Aleksandrijos muchafaza" languages="Lithuanian">Aleksandrijos muchafaza</name>
+		<name normalized="Aleksandrio" languages="Esperanto">Aleksandrio</name>
+		<name normalized="Aleksandriya" languages="Uzbek">Aleksandriya</name>
+		<name normalized="Aleksandrje" languages="Western Frisian">Aleksandrje</name>
+		<name normalized="Aleksandryjo" languages="Silesian">Aleksandryjo</name>
+		<name normalized="Alessandria d'Eggittu" languages="Sicilian">Alessandria d'Eggittu</name>
+		<name normalized="Alessandria d'Egitto" languages="Italian;Sardinian">Alessandria d'Egitto</name>
+		<name normalized="Alexandria" languages="Alemannisch;Basque;Catalan;Chinese (Min Nan);Danish;English;German;Hungarian;Javanese;Kalaallisut;Latin;Low German;Minangkabau;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Romanian;Scots;Shona;Simple English;Slovak;Swedish;Vietnamese;Waray;Welsh">Alexandria</name>
+		<name normalized="Alexandria Governorate" languages="English;official">Alexandria Governorate</name>
+		<name normalized="Alexandria Govrenorate" languages="Scots">Alexandria Govrenorate</name>
+		<name normalized="Alexandria Muhafazat" languages="English;official">Alexandria Muhafazat</name>
+		<name normalized="Alexandrie" languages="Czech;French">Alexandrie</name>
+		<name normalized="Alexandrie" languages="Afrikaans;Dutch">Alexandrië</name>
+		<name normalized="Alexandria" languages="Galician;Icelandic">Alexandría</name>
+		<name normalized="Alexandria" languages="Occitan">Alexàndria</name>
+		<name normalized="Alesandria d'Egito" languages="veneto">Ałesandria d'Egito</name>
+		<name normalized="Cathair Alastair" languages="Irish">Cathair Alastair</name>
+		<name normalized="Gouvernement al-Iskandariyya" languages="German">Gouvernement al-Iskandariyya</name>
+		<name normalized="Gouvernorat d'Alexandrie" languages="French">Gouvernorat d'Alexandrie</name>
+		<name normalized="Governacio d'Alexandria" languages="Catalan">Governació d'Alexandria</name>
+		<name normalized="Governatorato di Alessandria" languages="Italian">Governatorato di Alessandria</name>
+		<name normalized="Guvernoratul Alexandria" languages="Romanian">Guvernoratul Alexandria</name>
+		<name normalized="Isgəndəriyyə" languages="Azerbaijani">İsgəndəriyyə</name>
+		<name normalized="Iskandariah" languages="Malay">Iskandariah</name>
+		<name normalized="Iskandariya" languages="Quechua">Iskandariya</name>
+		<name normalized="Iskandariyah" languages="Indonesian">Iskandariyah</name>
+		<name normalized="Iskenderiye" languages="Turkish">İskenderiye</name>
+		<name normalized="Kegubernuran Al Iskandariyah" languages="Indonesian">Kegubernuran Al Iskandariyah</name>
+		<name normalized="Mkoa wa Aleksandria" languages="Swahili">Mkoa wa Aleksandria</name>
+		<name normalized="Provinco Aleksandrio" languages="Esperanto">Provinco Aleksandrio</name>
+		<name normalized="Αλεξανδρεια" languages="Greek">Αλεξάνδρεια</name>
+		<name normalized="Aлikсaнdрiй" languages="Eastern Mari">Александрий</name>
+		<name normalized="Aлikсaнdрii" languages="Bulgarian;Kazakh;Mongolian;Ossetic;Russian;Tajik">Александрия</name>
+		<name normalized="Aлikсaнdрija" languages="Macedonian;Serbian">Александрија</name>
+		<name normalized="Aлikсaнdрыi" languages="biлaрuсkai (taрaskivita)‎">Александрыя</name>
+		<name normalized="Aлikсaнdрii" languages="Ukrainian">Александрія</name>
+		<name normalized="Goрad Aлikсaнdрыi" languages="Belarusian">Горад Александрыя</name>
+		<name normalized="Iсkaнdрii" languages="Chechen">Искандрия</name>
+		<name normalized="Iсkəнdəрiə" languages="Bashkir">Искәндәриә</name>
+		<name normalized="Мukaфaza Aлikсaнdрыi" languages="Belarusian">Мухафаза Александрыя</name>
+		<name normalized="Oльokсaнdрii" languages="Komi;Komi-Permyak">Ӧльӧксандрия</name>
+		<name normalized="Աlեksանdrիա" languages="Armenian">Ալեքսանդրիա</name>
+		<name normalized="אדכסnדrיh" languages="Hebrew">אלכסנדריה</name>
+		<name normalized="אדעqסאnדrיע" languages="Yiddish">אלעקסאנדריע</name>
+		<name normalized="ئەسکەندەrیە" languages="Sorani Kurdish">ئەسکەندەریە</name>
+		<name normalized="אسtאن אسکندrیh" languages="Persian">استان اسکندریه</name>
+		<name normalized="אسkندryh" languages="Egyptian Spoken Arabic">اسكندريه</name>
+		<name normalized="אسکندrیh" languages="Persian">اسکندریه</name>
+		<name normalized="אسکندrیہ" languages="Urdu;Western Punjabi">اسکندریہ</name>
+		<name normalized="אلإسkندryة" languages="Arabic">الإسكندرية</name>
+		<name normalized="sوbہ אسکندrیہ" languages="Western Punjabi">صوبہ اسکندریہ</name>
+		<name normalized="mhאfzة אسkندryh" languages="Egyptian Spoken Arabic">محافظة اسكندريه</name>
+		<name normalized="ܐܠܟܣܢܕܪܝܐ" languages="Aramaic">ܐܠܟܣܢܕܪܝܐ</name>
+		<name normalized="alek्jांड्riyा" languages="Marathi">अलेक्झांड्रिया</name>
+		<name normalized="sikn्driyा" languages="Hindi">सिकन्दरिया</name>
+		<name normalized="sikn्driyा muhाp़j़ाh" languages="Hindi">सिकन्दरिया मुहाफ़ज़ाह</name>
+		<name normalized="alekjাn্d্riy়া" languages="Bengali">আলেকজান্দ্রিয়া</name>
+		<name normalized="alek্sাn্ড্riy়া" languages="Bishnupria Manipuri">আলেক্সান্ড্রিয়া</name>
+		<name normalized="sikੰdria" languages="Punjabi">ਸਿਕੰਦਰੀਆ</name>
+		<name normalized="elek્jાn્ડ્riyા" languages="Gujarati">એલેક્ઝાન્ડ્રિયા</name>
+		<name normalized="அலெக்சாந்திரியா" languages="Tamil">அலெக்சாந்திரியா</name>
+		<name normalized="అలెగ్జాండ్రియా" languages="Telugu">అలెగ్జాండ్రియా</name>
+		<name normalized="ಅಲೆಕ್ಸಾಂಡ್ರಿಯ" languages="Kannada">ಅಲೆಕ್ಸಾಂಡ್ರಿಯ</name>
+		<name normalized="അലക്സാണ്ട്രിയ" languages="Malayalam">അലക്സാണ്ട്രിയ</name>
+		<name normalized="อะเล็กซานเดรีย" languages="Thai">อะเล็กซานเดรีย</name>
+		<name normalized="ཡ་ལི་ཧྲན་ད" languages="Tibetan">ཡ་ལི་ཧྲན་ད</name>
+		<name normalized="အလက်ဇန္ဒရီးယားမြို့" languages="Burmese">အလက်ဇန္ဒရီးယားမြို့</name>
+		<name normalized="ალექსანდრია" languages="Georgian">ალექსანდრია</name>
+		<name normalized="ალექსანდრიის მუჰაფაზა" languages="Georgian">ალექსანდრიის მუჰაფაზა</name>
+		<name normalized="እስክንድርያ" languages="Amharic">እስክንድርያ</name>
+		<name normalized="arksndra" languages="Japanese">アレクサンドリア</name>
+		<name normalized="arksndra県" languages="Japanese">アレクサンドリア県</name>
+		<name normalized="亚历山大港" languages="Chinese">亚历山大港</name>
+		<name normalized="亞歷山大港" languages="Cantonese">亞歷山大港</name>
+		<name normalized="亞歷山大省" languages="Chinese">亞歷山大省</name>
+		<name normalized="알렉산드리아" languages="Korean">알렉산드리아</name>
+		<name normalized="알렉산드리아 주" languages="Korean">알렉산드리아 주</name>
+	</region>
+	<region name="Al Isma'iliyah" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Al Isma'iliyah" languages="Danish;English;Norwegian (bokmal);official;Romanian">Al Isma'iliyah</name>
+		<name normalized="Al Isma'iliyah Governorate" languages="English;official">Al Isma'iliyah Governorate</name>
+		<name normalized="Al Isma'iliyah Muhafazat" languages="English;official">Al Isma'iliyah Muhafazat</name>
+		<name normalized="Al Ismailiyah" languages="English;official">Al Ismailiyah</name>
+		<name normalized="Al Ismailiyah Governorate" languages="English;official">Al Ismailiyah Governorate</name>
+		<name normalized="Al Ismailiyah Muhafazat" languages="English;official">Al Ismailiyah Muhafazat</name>
+		<name normalized="Al-Ismaʿiliyya" languages="Latin">Al-Ismaʿiliyya</name>
+		<name normalized="Al-Ismailija" languages="Slovak">Al-Ismáílíja</name>
+		<name normalized="Al-Isma'iliyah" languages="Estonian">Al-Ismā’īlīyah</name>
+		<name normalized="Gouvernement al-Ismaʿiliyya" languages="German">Gouvernement al-Ismaʿiliyya</name>
+		<name normalized="Gouvernorat d'Ismailia" languages="French">Gouvernorat d'Ismaïlia</name>
+		<name normalized="Governacio d'Ismailiyah" languages="Catalan">Governació d'Ismailiyah</name>
+		<name normalized="Governatorato di Ismailia" languages="Italian">Governatorato di Ismailia</name>
+		<name normalized="Ismailia" languages="Basque;Danish;Dutch;English;German;Irish;Italian;Latin;Norwegian (bokmal);official;Polish;Scots;Spanish;Swedish;Vietnamese;Waray">Ismailia</name>
+		<name normalized="Ismailia Governorate" languages="English;official">Ismailia Governorate</name>
+		<name normalized="Ismailia Govrenorate" languages="Scots">Ismailia Govrenorate</name>
+		<name normalized="Ismailia Muhafazat" languages="English;official">Ismailia Muhafazat</name>
+		<name normalized="Ismailija" languages="Lithuanian">Ismailija</name>
+		<name normalized="Ismailijos muchafaza" languages="Lithuanian">Ismailijos muchafaza</name>
+		<name normalized="Ismailiyah" languages="Catalan">Ismailiyah</name>
+		<name normalized="Ismailiye" languages="Turkish">İsmailiye</name>
+		<name normalized="Ismailia" languages="Spanish">Ismailía</name>
+		<name normalized="Ismailia" languages="Portuguese">Ismaília</name>
+		<name normalized="Ismailia" languages="Croatian;Dutch;English;French;Indonesian;Simple English;Swahili">Ismaïlia</name>
+		<name normalized="Isma'ilija" languages="Czech">Ismá'ílíja</name>
+		<name normalized="Kegubernuran Al Isma'iliyah" languages="Indonesian">Kegubernuran Al Isma'iliyah</name>
+		<name normalized="Mkoa wa Ismailia" languages="Swahili">Mkoa wa Ismailia</name>
+		<name normalized="Provinco Ismailija" languages="Esperanto">Provinco Ismailija</name>
+		<name normalized="Goрad Iсмaiлii" languages="Belarusian">Горад Ісмаілія</name>
+		<name normalized="Iсмaiлii" languages="Bulgarian;Russian">Исмаилия</name>
+		<name normalized="Iсмaiлija" languages="Serbian">Исмаилија</name>
+		<name normalized="Iсмaiлii" languages="biлaрuсkai (taрaskivita)‎">Ісмаілія</name>
+		<name normalized="Iсмayлii" languages="Ukrainian">Ісмаїлія</name>
+		<name normalized="איסמעידיh" languages="Hebrew">איסמעיליה</name>
+		<name normalized="אسtאن אسmאعیلیh" languages="Persian">استان اسماعیلیه</name>
+		<name normalized="אسmאعyلyh" languages="Egyptian Spoken Arabic">اسماعيليه</name>
+		<name normalized="אسmאعیلیہ" languages="Western Punjabi">اسماعیلیہ</name>
+		<name normalized="אلإسmאعyلyة" languages="Arabic">الإسماعيلية</name>
+		<name normalized="شhr אسmאعیلیh" languages="Persian">شهر اسماعیلیه</name>
+		<name normalized="sوbہ אسmאعیلیہ" languages="Western Punjabi">صوبہ اسماعیلیہ</name>
+		<name normalized="mhאfzة אلאسmאعyلyh" languages="Egyptian Spoken Arabic">محافظة الاسماعيليه</name>
+		<name normalized="is्mाiliyा muhाp़j़ाh" languages="Hindi">इस्माईलिया मुहाफ़ज़ाह</name>
+		<name normalized="อิสเมอิลีอา" languages="Thai">อิสเมอิลีอา</name>
+		<name normalized="ისმაილია" languages="Georgian">ისმაილია</name>
+		<name normalized="ისმაილიის მუჰაფაზა" languages="Georgian">ისმაილიის მუჰაფაზა</name>
+		<name normalized="ismira" languages="Japanese">イスマイリア</name>
+		<name normalized="ismira県" languages="Japanese">イスマイリア県</name>
+		<name normalized="伊斯梅利亚" languages="Chinese">伊斯梅利亚</name>
+		<name normalized="伊斯梅利亚省" languages="Chinese">伊斯梅利亚省</name>
+		<name normalized="이스마일리아" languages="Korean">이스마일리아</name>
+		<name normalized="이스마일리아 주" languages="Korean">이스마일리아 주</name>
+	</region>
+	<region name="Al Jizah" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Al Jizah" languages="Danish;English;Norwegian (bokmal);official;Romanian;Scots">Al Jizah</name>
+		<name normalized="Al Jizah Governorate" languages="English;official">Al Jizah Governorate</name>
+		<name normalized="Al Jizah Muhafazat" languages="English;official">Al Jizah Muhafazat</name>
+		<name normalized="Al-Dschiza" languages="Latin">Al-Dschiza</name>
+		<name normalized="Al-Dziza" languages="Slovak">Al-Džíza</name>
+		<name normalized="Giza" languages="Basque;Bosnian;Croatian;Danish;English;Estonian;Finnish;Galician;Indonesian;Irish;Italian;Kalaallisut;Latin;Lithuanian;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Romanian;Scots;Serbo-Croatian;Simple English;Slovenian;Swahili;Swedish;Vietnamese;Waray;Welsh">Giza</name>
+		<name normalized="Giza Governorate" languages="English;official">Giza Governorate</name>
+		<name normalized="Giza Govrenorate" languages="Scots">Giza Govrenorate</name>
+		<name normalized="Giza kubernerkond" languages="Estonian">Giza kubernerkond</name>
+		<name normalized="Giza Muhafazat" languages="English;official">Giza Muhafazat</name>
+		<name normalized="Gizah" languages="Breton">Gizah</name>
+		<name normalized="Gize" languages="Turkish">Gize</name>
+		<name normalized="Gizeh" languages="Afrikaans;Catalan;Dutch;French;German;Occitan;Western Frisian">Gizeh</name>
+		<name normalized="Gizo" languages="Esperanto">Gizo</name>
+		<name normalized="Gizos muchafaza" languages="Lithuanian">Gizos muchafaza</name>
+		<name normalized="Gize" languages="Portuguese">Gizé</name>
+		<name normalized="Gouvernement al-Dschiza" languages="German">Gouvernement al-Dschiza</name>
+		<name normalized="Gouvernorat de Gizeh" languages="French">Gouvernorat de Gizeh</name>
+		<name normalized="Governacio de Gizeh" languages="Catalan">Governació de Gizeh</name>
+		<name normalized="Governatorato di Giza" languages="Italian">Governatorato di Giza</name>
+		<name normalized="Guiza" languages="Spanish">Guiza</name>
+		<name normalized="Guize" languages="Portuguese">Guizé</name>
+		<name normalized="Giza" languages="Czech">Gíza</name>
+		<name normalized="Giza" languages="Latvian">Gīza</name>
+		<name normalized="Kegubernuran Al Jizah" languages="Indonesian">Kegubernuran Al Jizah</name>
+		<name normalized="Mkoa wa Giza" languages="Swahili">Mkoa wa Giza</name>
+		<name normalized="Piramides van Giza" languages="Low Saxon (Netherlands)">Piramides van Giza</name>
+		<name normalized="Provinco Gizo" languages="Esperanto">Provinco Gizo</name>
+		<name normalized="Γκιζα" languages="Greek">Γκίζα</name>
+		<name normalized="Giza" languages="Bulgarian;Chuvash;Macedonian;Russian;Serbian">Гиза</name>
+		<name normalized="Goрad Giza" languages="Belarusian">Горад Гіза</name>
+		<name normalized="Giza" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Гіза</name>
+		<name normalized="ZizakӀ" languages="Chechen">ЖизахӀ</name>
+		<name normalized="Eль-Giza" languages="Russian">Эль-Гиза</name>
+		<name normalized="Գիzա" languages="Armenian">Գիզա</name>
+		<name normalized="גיזh" languages="Hebrew">גיזה</name>
+		<name normalized="מhvז אד-גיזh" languages="Hebrew">מחוז אל-גיזה</name>
+		<name normalized="אسtאن jیزh" languages="Persian">استان جیزه</name>
+		<name normalized="אلjyزة" languages="Arabic">الجيزة</name>
+		<name normalized="אلjyزh" languages="Egyptian Spoken Arabic">الجيزه</name>
+		<name normalized="jیزh" languages="Persian">جیزه</name>
+		<name normalized="sوbہ غزא" languages="Western Punjabi">صوبہ غزا</name>
+		<name normalized="غیزہ" languages="Western Punjabi">غیزہ</name>
+		<name normalized="mدyنة אلjyزة" languages="Arabic">مدينة الجيزة</name>
+		<name normalized="gیزہ" languages="Urdu">گیزہ</name>
+		<name normalized="gij़ा" languages="Hindi">गीज़ा</name>
+		<name normalized="gij़ा muhाp़j़ाh" languages="Hindi">गीज़ा मुहाफ़ज़ाह</name>
+		<name normalized="jij਼ਾ" languages="Punjabi">ਜੀਜ਼ਾ</name>
+		<name normalized="กีซา" languages="Thai">กีซา</name>
+		<name normalized="გიზა" languages="Georgian">გიზა</name>
+		<name normalized="გიზის მუჰაფაზა" languages="Georgian">გიზის მუჰაფაზა</name>
+		<name normalized="gーz" languages="Japanese">ギーザ</name>
+		<name normalized="gーz県" languages="Japanese">ギーザ県</name>
+		<name normalized="吉萨" languages="Chinese">吉萨</name>
+		<name normalized="吉薩省" languages="Chinese">吉薩省</name>
+		<name normalized="기자" languages="Korean">기자</name>
+		<name normalized="기자 주" languages="Korean">기자 주</name>
+	</region>
+	<region name="Al Minufiyah" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Al Minufiyah" languages="Danish;Dutch;English;Norwegian (bokmal);official;Romanian">Al Minufiyah</name>
+		<name normalized="Al Minufiyah Governorate" languages="English;official">Al Minufiyah Governorate</name>
+		<name normalized="Al Minufiyah Muhafazat" languages="English;official">Al Minufiyah Muhafazat</name>
+		<name normalized="Al-Minufijja" languages="Polish">Al-Minufijja</name>
+		<name normalized="Al-Minufiyya" languages="Latin;Swedish">Al-Minufiyya</name>
+		<name normalized="Gouvernement al-Minufiyya" languages="German">Gouvernement al-Minufiyya</name>
+		<name normalized="Gouvernorat de Menufeya" languages="French">Gouvernorat de Menufeya</name>
+		<name normalized="Governacio de Menufeya" languages="Catalan">Governació de Menufeya</name>
+		<name normalized="Governatorato di al-Manufiyya" languages="Italian">Governatorato di al-Manufiyya</name>
+		<name normalized="Kegubernuran Al Minufiyah" languages="Indonesian">Kegubernuran Al Minufiyah</name>
+		<name normalized="Menufia" languages="Spanish">Menufia</name>
+		<name normalized="Minufijos muchafaza" languages="Lithuanian">Minufijos muchafaza</name>
+		<name normalized="Minufiye" languages="Turkish">Minufiye</name>
+		<name normalized="Minufija" languages="Czech">Minúfija</name>
+		<name normalized="Mkoa wa Monufia" languages="Swahili">Mkoa wa Monufia</name>
+		<name normalized="Monufia" languages="Portuguese;Waray">Monufia</name>
+		<name normalized="Monufia Governorate" languages="English">Monufia Governorate</name>
+		<name normalized="Monufia Govrenorate" languages="Scots">Monufia Govrenorate</name>
+		<name normalized="Provinco Minufija" languages="Esperanto">Provinco Minufija</name>
+		<name normalized="Мiнuфii" languages="Bulgarian;Russian">Минуфия</name>
+		<name normalized="Мiнuфija" languages="Serbian">Минуфија</name>
+		<name normalized="Мiнuфii" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Мінуфія</name>
+		<name normalized="אسtאن mنوfیh" languages="Persian">استان منوفیه</name>
+		<name normalized="אلmنوfyة" languages="Arabic">المنوفية</name>
+		<name normalized="sوbہ mنوfیہ" languages="Western Punjabi">صوبہ منوفیہ</name>
+		<name normalized="mhאfzة אلmنوfyh" languages="Egyptian Spoken Arabic">محافظة المنوفيه</name>
+		<name normalized="monup़iyा muhाp़j़ाh" languages="Hindi">मोनूफ़िया मुहाफ़ज़ाह</name>
+		<name normalized="მონუფიის მუჰაფაზა" languages="Georgian">მონუფიის მუჰაფაზა</name>
+		<name normalized="mnーhiーy県" languages="Japanese">ミヌーフィーヤ県</name>
+		<name normalized="米努夫省" languages="Chinese">米努夫省</name>
+		<name normalized="무누피아 주" languages="Korean">무누피아 주</name>
+	</region>
+	<region name="Al Minya" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Al Minya" languages="Danish;English;Malay;Norwegian (bokmal);official;Romanian">Al Minya</name>
+		<name normalized="Al Minya Governorate" languages="English;official">Al Minya Governorate</name>
+		<name normalized="Al Minya Muhafazat" languages="English;official">Al Minya Muhafazat</name>
+		<name normalized="Al-Minja" languages="Polish">Al-Minja</name>
+		<name normalized="Al-Minya" languages="French;German;Irish;Swedish">Al-Minya</name>
+		<name normalized="Al-Minyan kuvernoraatti" languages="Finnish">Al-Minyan kuvernoraatti</name>
+		<name normalized="Al-Minya" languages="Catalan;Latin">Al-Minyā</name>
+		<name normalized="El Minye" languages="Turkish">El Minye</name>
+		<name normalized="Gouvernement al-Minya" languages="German">Gouvernement al-Minya</name>
+		<name normalized="Gouvernorat de Minya" languages="French">Gouvernorat de Minya</name>
+		<name normalized="Governacio d'Al-Minya" languages="Catalan">Governació d'Al-Minya</name>
+		<name normalized="Governatorato di Minya" languages="Italian">Governatorato di Minya</name>
+		<name normalized="Kegubernuran Al Minya" languages="Indonesian">Kegubernuran Al Minya</name>
+		<name normalized="Menia" languages="Spanish">Menia</name>
+		<name normalized="Minja" languages="Lithuanian">Minja</name>
+		<name normalized="Minjos muchafaza" languages="Lithuanian">Minjos muchafaza</name>
+		<name normalized="Minja" languages="Czech">Minjá</name>
+		<name normalized="Minya" languages="Dutch;English;Indonesian;Italian;Portuguese;Scots;Vietnamese;Waray">Minya</name>
+		<name normalized="Minya Governorate" languages="English">Minya Governorate</name>
+		<name normalized="Minya Govrenorate" languages="Scots">Minya Govrenorate</name>
+		<name normalized="Minye" languages="Turkish">Minye</name>
+		<name normalized="Mkoa wa Minya" languages="Swahili">Mkoa wa Minya</name>
+		<name normalized="Provinco Minja" languages="Esperanto">Provinco Minja</name>
+		<name normalized="Мiнi" languages="Bulgarian">Миня</name>
+		<name normalized="Мina" languages="Serbian">Миња</name>
+		<name normalized="Мiньi" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Мінья</name>
+		<name normalized="Eль-Мiньi" languages="Russian">Эль-Минья</name>
+		<name normalized="אسtאن mنیא" languages="Persian">استان منیا</name>
+		<name normalized="אلmنyא" languages="Arabic;Egyptian Spoken Arabic">المنيا</name>
+		<name normalized="sوbہ mنیא" languages="Western Punjabi">صوبہ منیا</name>
+		<name normalized="mنیא" languages="Persian;Western Punjabi">منیا</name>
+		<name normalized="min्yा muhाp़j़ाh" languages="Hindi">मिन्या मुहाफ़ज़ाह</name>
+		<name normalized="ელ-მინია" languages="Georgian">ელ-მინია</name>
+		<name normalized="ელ-მინიის მუჰაფაზა" languages="Georgian">ელ-მინიის მუჰაფაზა</name>
+		<name normalized="mnyー県" languages="Japanese">ミニヤー県</name>
+		<name normalized="明亚" languages="Chinese">明亚</name>
+		<name normalized="明亞省" languages="Chinese">明亞省</name>
+		<name normalized="미니아" languages="Korean">미니아</name>
+		<name normalized="미니아 주" languages="Korean">미니아 주</name>
+	</region>
+	<region name="Al Qahirah" type="governorate" typeTranslated="muhafazat">
+		<name normalized="'U Cairo" languages="tarandine">'U Cairo</name>
+		<name normalized="Al Qahirah" languages="Danish;English;Norwegian (bokmal);official;Romanian">Al Qahirah</name>
+		<name normalized="Al Qahirah Governorate" languages="English;official">Al Qahirah Governorate</name>
+		<name normalized="Al Qahirah Muhafazat" languages="English;official">Al Qahirah Muhafazat</name>
+		<name normalized="Al-Qahirah" languages="Achinese">Al-Qahirah</name>
+		<name normalized="Caireo" languages="Irish">Caireo</name>
+		<name normalized="Cairo" languages="Akan;Bikol Central;Cebuano;Chinese (Min Nan);Cornish;English;Fiji Hindi;Iloko;Interlingue;Kalaallisut;Manx;Mirandese;official;Portuguese;Romanian;Romansh;Sardinian;Scots;Scottish Gaelic;Shona;Simple English;Tagalog;Vietnamese;Waray;Welsh">Cairo</name>
+		<name normalized="Cairo Governorate" languages="English;official">Cairo Governorate</name>
+		<name normalized="Cairo Govrenorate" languages="Scots">Cairo Govrenorate</name>
+		<name normalized="Cairo Muhafazat" languages="English;official">Cairo Muhafazat</name>
+		<name normalized="Cairu" languages="Sicilian">Cairu</name>
+		<name normalized="Cairus" languages="Latin">Cairus</name>
+		<name normalized="Cairo" languages="Dutch;West-Vlams;Zeeuws">Caïro</name>
+		<name normalized="El Caire" languages="Catalan;Walloon">El Caire</name>
+		<name normalized="El Cairo" languages="lumbaart;Nahuatl;Spanish;veneto">El Cairo</name>
+		<name normalized="El Cairu" languages="Extremaduran">El Cairu</name>
+		<name normalized="Gouvernement al-Qahira" languages="German">Gouvernement al-Qahira</name>
+		<name normalized="Gouvernorat du Caire" languages="French">Gouvernorat du Caire</name>
+		<name normalized="Governacio del Caire" languages="Catalan">Governació del Caire</name>
+		<name normalized="Governatorato del Cairo" languages="Italian">Governatorato del Cairo</name>
+		<name normalized="Il Cairo" languages="Italian;Neapolitan">Il Cairo</name>
+		<name normalized="Kaero" languages="Breton">Kaero</name>
+		<name normalized="Kaherah" languages="Malay">Kaherah</name>
+		<name normalized="Kahire" languages="Turkish">Kahire</name>
+		<name normalized="Kahira" languages="Volapuk">Kahirä</name>
+		<name normalized="Kair" languages="Polish;Turkmen">Kair</name>
+		<name normalized="Kaira" languages="Latvian">Kaira</name>
+		<name normalized="Kairas" languages="Lithuanian">Kairas</name>
+		<name normalized="Kairas muhafaza" languages="Latvian">Kairas muhāfaza</name>
+		<name normalized="Kairo" languages="Alemannisch;Basque;Bosnian;Croatian;Danish;Esperanto;Estonian;Finnish;German;Ido;Indonesian;Javanese;Lingala;Lower Sorbian;Luxembourgish;Malagasy;Minangkabau;Northern Frisian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;Papiamento;Serbo-Croatian;Slovenian;Sundanese;Swahili;Swedish;Tok Pisin;Upper Sorbian;Voro;Western Frisian">Kairo</name>
+		<name normalized="Kairo muchafaza" languages="Lithuanian">Kairo muchafaza</name>
+		<name normalized="Kairs" languages="Samogitian">Kairs</name>
+		<name normalized="Kairo" languages="Hungarian">Kairó</name>
+		<name normalized="Kajir" languages="Silesian">Kajir</name>
+		<name normalized="Kajro" languages="Albanian">Kajro</name>
+		<name normalized="Kairo" languages="Icelandic">Kaíró</name>
+		<name normalized="Kairo" languages="Afrikaans">Kaïro</name>
+		<name normalized="Kegubernuran Al Qahirah" languages="Indonesian">Kegubernuran Al Qahirah</name>
+		<name normalized="Keiro" languages="Faroese">Keiro</name>
+		<name normalized="Kahira" languages="Czech;Slovak">Káhira</name>
+		<name normalized="Kairo" languages="Yoruba">Káírò</name>
+		<name normalized="Le Caire" languages="French">Le Caire</name>
+		<name normalized="Li Ke" languages="Haitian">Li Kè</name>
+		<name normalized="Lo Caire" languages="Occitan">Lo Caire</name>
+		<name normalized="Lo Cayiro" languages="Franco-Provencal">Lo Cayiro</name>
+		<name normalized="Mkoa wa Kairo" languages="Swahili">Mkoa wa Kairo</name>
+		<name normalized="O Caire" languages="Aragonese">O Caire</name>
+		<name normalized="O Cairo" languages="Galician;Ligure">O Cairo</name>
+		<name normalized="Provinco Kairo" languages="Esperanto">Provinco Kairo</name>
+		<name normalized="Qaahiro" languages="Somali">Qaahiro</name>
+		<name normalized="Qahira" languages="Quechua;Zazaki">Qahira</name>
+		<name normalized="Qahirə" languages="Azerbaijani">Qahirə</name>
+		<name normalized="Qahire" languages="Kurdish">Qahîre</name>
+		<name normalized="Qaire" languages="Crimean Turkish">Qaire</name>
+		<name normalized="Qohira" languages="Uzbek">Qohira</name>
+		<name normalized="Xayra" languages="Wolof">Xayra</name>
+		<name normalized="El Cairo" languages="Piedmontese">Ël Càiro</name>
+		<name normalized="Καιρο" languages="Greek">Κάιρο</name>
+		<name normalized="Καιρον" languages="Pontic">Κάιρον</name>
+		<name normalized="Goрad Kaiр" languages="Belarusian">Горад Каір</name>
+		<name normalized="Kagiрa" languages="Rusyn">Кагіра</name>
+		<name normalized="Kaiр" languages="Avaric;Chuvash;Eastern Mari;Hill Mari;Komi;Kyrgyz;Lezghian;Moksha;Mongolian;Ossetic;Russian;Sakha;Udmurt">Каир</name>
+		<name normalized="Kaiрo" languages="Macedonian;Serbian">Каиро</name>
+		<name normalized="Kaйрo" languages="Bulgarian">Кайро</name>
+		<name normalized="Kaiр" languages="biлaрuсkai (taрaskivita)‎">Каір</name>
+		<name normalized="Kayр" languages="Ukrainian">Каїр</name>
+		<name normalized="Kaһiрə" languages="Tatar">Каһирә</name>
+		<name normalized="KъakӀiрa" languages="Chechen">КъахӀира</name>
+		<name normalized="Kьagьiрa" languages="лakku">Кьагьира</name>
+		<name normalized="Мukaфaza Kaiр" languages="Belarusian">Мухафаза Каір</name>
+		<name normalized="Kohiрa" languages="Tajik">Қоҳира</name>
+		<name normalized="Ҡəһiрə" languages="Bashkir">Ҡәһирә</name>
+		<name normalized="Əл-Kaһiрa" languages="Kazakh">Әл-Қаһира</name>
+		<name normalized="Kաhիrե" languages="Armenian">Կահիրե</name>
+		<name normalized="מhvז qhיr" languages="Hebrew">מחוז קהיר</name>
+		<name normalized="qhיr" languages="Hebrew">קהיר</name>
+		<name normalized="qייrא" languages="Yiddish">קיירא</name>
+		<name normalized="אسtאن qאhrh" languages="Persian">استان قاهره</name>
+		<name normalized="אلqאhrة" languages="Arabic">القاهرة</name>
+		<name normalized="אلqאhrh" languages="Egyptian Spoken Arabic">القاهره</name>
+		<name normalized="sوbہ qאہrہ" languages="Western Punjabi">صوبہ قاہرہ</name>
+		<name normalized="qאhrh" languages="Mazanderani;Pashto;Persian">قاهره</name>
+		<name normalized="qאھیrە" languages="Sorani Kurdish">قاھیرە</name>
+		<name normalized="qאہrہ" languages="Urdu;Western Punjabi">قاہرہ</name>
+		<name normalized="kאyrو" languages="Uyghur">كايرو</name>
+		<name normalized="k़ाhirा muhाp़j़ाh" languages="Hindi">क़ाहिरा मुहाफ़ज़ाह</name>
+		<name normalized="kाyro" languages="Newari">कायरो</name>
+		<name normalized="kाhirा" languages="Hindi">काहिरा</name>
+		<name normalized="karo" languages="Marathi">कैरो</name>
+		<name normalized="kাy়ro" languages="Bengali">কায়রো</name>
+		<name normalized="karੋ" languages="Punjabi">ਕੈਰੋ</name>
+		<name normalized="கெய்ரோ" languages="Tamil">கெய்ரோ</name>
+		<name normalized="కైరో" languages="Telugu">కైరో</name>
+		<name normalized="ಕೈರೋ" languages="Kannada">ಕೈರೋ</name>
+		<name normalized="കെയ്റോ" languages="Malayalam">കെയ്റോ</name>
+		<name normalized="ไคโร" languages="Thai">ไคโร</name>
+		<name normalized="ཁ་ཡི་རོ" languages="Tibetan">ཁ་ཡི་རོ</name>
+		<name normalized="ကိုင်ရိုမြို့" languages="Burmese">ကိုင်ရိုမြို့</name>
+		<name normalized="კაირო" languages="Georgian">კაირო</name>
+		<name normalized="კაიროს მუჰაფაზა" languages="Georgian">კაიროს მუჰაფაზა</name>
+		<name normalized="ካይሮ" languages="Amharic">ካይሮ</name>
+		<name normalized="kir" languages="Japanese">カイロ</name>
+		<name normalized="kir県" languages="Japanese">カイロ県</name>
+		<name normalized="开罗" languages="Chinese;Wu">开罗</name>
+		<name normalized="开罗省" languages="Chinese">开罗省</name>
+		<name normalized="開羅" languages="Cantonese">開羅</name>
+		<name normalized="카이로" languages="Korean">카이로</name>
+		<name normalized="카이로 주" languages="Korean">카이로 주</name>
+	</region>
+	<region name="Al Qalyubiyah" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Al Qalyubiyah" languages="Danish;Dutch;English;Norwegian (bokmal);official;Romanian">Al Qalyubiyah</name>
+		<name normalized="Al Qalyubiyah Governorate" languages="English;official">Al Qalyubiyah Governorate</name>
+		<name normalized="Al Qalyubiyah Muhafazat" languages="English;official">Al Qalyubiyah Muhafazat</name>
+		<name normalized="Al-Kaljubijja" languages="Polish">Al-Kaljubijja</name>
+		<name normalized="Al-Qalyubiyya" languages="Swedish">Al-Qalyubiyya</name>
+		<name normalized="Al-Qalyubiya" languages="Latin">Al-Qalyūbīya</name>
+		<name normalized="Caliubia" languages="Spanish">Caliubia</name>
+		<name normalized="Gouvernement al-Qalyubiyya" languages="German">Gouvernement al-Qalyubiyya</name>
+		<name normalized="Gouvernorat de Qalyubiya" languages="French">Gouvernorat de Qalyubiya</name>
+		<name normalized="Governacio de Qalyubia" languages="Catalan">Governació de Qalyubia</name>
+		<name normalized="Governatorato di al-Qalyubiyya" languages="Italian">Governatorato di al-Qalyūbiyya</name>
+		<name normalized="Kaljubijos muchafaza" languages="Lithuanian">Kaljubijos muchafaza</name>
+		<name normalized="Kaljubija" languages="Czech">Kaljúbíja</name>
+		<name normalized="Kalyubiye" languages="Turkish">Kalyubiye</name>
+		<name normalized="Kegubernuran Al Qalyubiyah" languages="Indonesian">Kegubernuran Al Qalyubiyah</name>
+		<name normalized="Provinco Kaljubija" languages="Esperanto">Provinco Kaljubija</name>
+		<name normalized="Qaliubia" languages="Portuguese">Qaliubia</name>
+		<name normalized="Qaliubiya" languages="Basque">Qaliubiya</name>
+		<name normalized="Qalyubia" languages="Waray">Qalyubia</name>
+		<name normalized="Qalyubia Governorate" languages="English">Qalyubia Governorate</name>
+		<name normalized="Qalyubia Govrenorate" languages="Scots">Qalyubia Govrenorate</name>
+		<name normalized="Kaльюbii" languages="Russian">Кальюбия</name>
+		<name normalized="Kaльюbii" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Кальюбія</name>
+		<name normalized="Kaлюbii" languages="Bulgarian">Калюбия</name>
+		<name normalized="Kalubija" languages="Serbian">Каљубија</name>
+		<name normalized="אسtאن qلیوbیh" languages="Persian">استان قلیوبیه</name>
+		<name normalized="אلqلyوbyة" languages="Arabic">القليوبية</name>
+		<name normalized="sوbہ qلوbیہ" languages="Western Punjabi">صوبہ قلوبیہ</name>
+		<name normalized="mhאfzة אلqلyوbyh" languages="Egyptian Spoken Arabic">محافظة القليوبيه</name>
+		<name normalized="k़l्yubiyा muhाp़j़ाh" languages="Hindi">क़ल्यूबीया मुहाफ़ज़ाह</name>
+		<name normalized="კალიუბიის მუჰაფაზა" languages="Georgian">კალიუბიის მუჰაფაზა</name>
+		<name normalized="kryーbーy県" languages="Japanese">カリュービーヤ県</name>
+		<name normalized="蓋盧比尤省" languages="Chinese">蓋盧比尤省</name>
+		<name normalized="칼리우비야 주" languages="Korean">칼리우비야 주</name>
+	</region>
+	<region name="Al Uqsur" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Al Uqsur" languages="English;official">Al Uqsur</name>
+		<name normalized="Al Uqsur Governorate" languages="English;official">Al Uqsur Governorate</name>
+		<name normalized="Al Uqsur Muhafazat" languages="English;official">Al Uqsur Muhafazat</name>
+		<name normalized="Al-Uqsur" languages="Latin">Al-Uqsur</name>
+		<name normalized="El Uksur" languages="Turkish">El Uksur</name>
+		<name normalized="Gouvernement al-Uqsur" languages="German">Gouvernement al-Uqsur</name>
+		<name normalized="Gouvernorat de Louxor" languages="French">Gouvernorat de Louxor</name>
+		<name normalized="Governacio de Luxor" languages="Catalan">Governació de Luxor</name>
+		<name normalized="Governatorato di Luxor" languages="Italian">Governatorato di Luxor</name>
+		<name normalized="Guvernoratul Luxor" languages="Romanian">Guvernoratul Luxor</name>
+		<name normalized="Louxor" languages="French">Louxor</name>
+		<name normalized="Loxor" languages="Occitan">Loxòr</name>
+		<name normalized="Lucsar" languages="Irish">Lucsar</name>
+		<name normalized="Luksor" languages="Croatian;Polish;Serbo-Croatian;Slovenian">Luksor</name>
+		<name normalized="Luksora" languages="Latvian">Luksora</name>
+		<name normalized="Luksoras" languages="Lithuanian">Luksoras</name>
+		<name normalized="Luksoro" languages="Esperanto">Luksoro</name>
+		<name normalized="Luksoro muchafaza" languages="Lithuanian">Luksoro muchafaza</name>
+		<name normalized="Luxor" languages="Basque;Catalan;Czech;Danish;Dutch;English;Estonian;Finnish;Galician;German;Hungarian;Indonesian;Italian;Javanese;Kalaallisut;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Quechua;Romanian;Scots;Simple English;Slovak;Swedish;Tagalog;Vietnamese;Waray;Welsh;Zeeuws">Luxor</name>
+		<name normalized="Luxor Governorate" languages="English;official">Luxor Governorate</name>
+		<name normalized="Luxor Govrenorate" languages="Scots">Luxor Govrenorate</name>
+		<name normalized="Luxor Muhafazat" languages="English;official">Luxor Muhafazat</name>
+		<name normalized="Luxor" languages="Spanish">Lúxor</name>
+		<name normalized="Mkoa wa Luxor" languages="Swahili">Mkoa wa Luxor</name>
+		<name normalized="Provinco Luksoro" languages="Esperanto">Provinco Luksoro</name>
+		<name normalized="Λοuξορ" languages="Greek">Λούξορ</name>
+		<name normalized="Goрad Лukсoр" languages="Belarusian">Горад Луксор</name>
+		<name normalized="Лukсoр" languages="Bulgarian;Russian;Serbian;Ukrainian">Луксор</name>
+		<name normalized="Люkсoр" languages="biлaрuсkai (taрaskivita)‎">Люксор</name>
+		<name normalized="דvqסvr" languages="Hebrew">לוקסור</name>
+		<name normalized="אسtאن אqsr" languages="Persian">استان اقصر</name>
+		<name normalized="אqsr" languages="Persian;Urdu">اقصر</name>
+		<name normalized="אلأqsr" languages="Arabic">الأقصر</name>
+		<name normalized="אلאqsr" languages="Egyptian Spoken Arabic">الاقصر</name>
+		<name normalized="sوbہ لکسr" languages="Western Punjabi">صوبہ لکسر</name>
+		<name normalized="لکسr" languages="Western Punjabi">لکسر</name>
+		<name normalized="mhאfzة אلأqsr" languages="Egyptian Spoken Arabic">محافظة الأقصر</name>
+		<name normalized="lk्sr muhाp़j़ाh" languages="Hindi">लक्सर मुहाफ़ज़ाह</name>
+		<name normalized="lksr" languages="Punjabi">ਲਕਸਰ</name>
+		<name normalized="அல்-உக்சுர்" languages="Tamil">அல்-உக்சுர்</name>
+		<name normalized="ลักซอร์" languages="Thai">ลักซอร์</name>
+		<name normalized="ლუქსორი" languages="Georgian">ლუქსორი</name>
+		<name normalized="ლუქსორის მუჰაფაზა" languages="Georgian">ლუქსორის მუჰაფაზა</name>
+		<name normalized="rksーr" languages="Japanese">ルクソール</name>
+		<name normalized="rksーr県" languages="Japanese">ルクソール県</name>
+		<name normalized="樂蜀" languages="Cantonese;Chinese">樂蜀</name>
+		<name normalized="樂蜀省" languages="Chinese">樂蜀省</name>
+		<name normalized="룩소르" languages="Korean">룩소르</name>
+		<name normalized="룩소르 주" languages="Korean">룩소르 주</name>
+	</region>
+	<region name="Al Wadi al Jadid" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Al Wadi al Jadid" languages="English;Norwegian (bokmal);official;Romanian;Waray">Al Wadi al Jadid</name>
+		<name normalized="Al Wadi al Jadid Governorate" languages="English;official">Al Wadi al Jadid Governorate</name>
+		<name normalized="Al Wadi al Jadid Muhafazat" languages="English;official">Al Wadi al Jadid Muhafazat</name>
+		<name normalized="Al-Vadi al-Gadid" languages="Czech">Al-Vádí al-Gadíd</name>
+		<name normalized="Al-Wadi al-Jadid" languages="Swedish">Al-Wadi al-Jadid</name>
+		<name normalized="Al-Wadi al-Dzadid" languages="Slovak">Al-Wádí al-Džadíd</name>
+		<name normalized="Al-Wadi al-Jadidi kubernerkond" languages="Estonian">Al-Wādī al-Jadīdi kubernerkond</name>
+		<name normalized="Al-Wadi al-gadid" languages="Latin">Al-Wādī al-ǧadīd</name>
+		<name normalized="Gouvernement al-Wadi al-dschadid" languages="German">Gouvernement al-Wadi al-dschadid</name>
+		<name normalized="Gouvernorat de la Nouvelle-Vallee" languages="French">Gouvernorat de la Nouvelle-Vallée</name>
+		<name normalized="Governacio de Wadi al Jadid" languages="Catalan">Governació de Wadi al Jadid</name>
+		<name normalized="Governatorato di Wadi al-Jadid" languages="Italian">Governatorato di Wadi al-Jadid</name>
+		<name normalized="Kegubernuran Al Wadi al Jadid" languages="Indonesian">Kegubernuran Al Wadi al Jadid</name>
+		<name normalized="Mkoa wa Bonde la Mpya" languages="Swahili">Mkoa wa Bonde la Mpya</name>
+		<name normalized="Naujojo Slenio muchafaza" languages="Lithuanian">Naujojo Slėnio muchafaza</name>
+		<name normalized="New Valley" languages="English;official">New Valley</name>
+		<name normalized="New Valley Governorate" languages="English;official">New Valley Governorate</name>
+		<name normalized="New Valley Govrenorate" languages="Scots">New Valley Govrenorate</name>
+		<name normalized="New Valley Muhafazat" languages="English;official">New Valley Muhafazat</name>
+		<name normalized="Nieuwe Vallei" languages="Dutch">Nieuwe Vallei</name>
+		<name normalized="Nowa Dolina" languages="Polish">Nowa Dolina</name>
+		<name normalized="Nuevo Valle" languages="Spanish">Nuevo Valle</name>
+		<name normalized="Provinco Nova Valo" languages="Esperanto">Provinco Nova Valo</name>
+		<name normalized="Vale Novo" languages="Portuguese">Vale Novo</name>
+		<name normalized="Yeni Vadi" languages="Turkish">Yeni Vadi</name>
+		<name normalized="Vadzi-eль-Dzыdыd" languages="biлaрuсkai (taрaskivita)‎">Вадзі-эль-Джыдыд</name>
+		<name normalized="Нova Doлiнa" languages="Serbian;Ukrainian">Нова Долина</name>
+		<name normalized="Нovai Doлiнa" languages="Russian">Новая Долина</name>
+		<name normalized="Uadi aл Dzadid" languages="Bulgarian">Уади ал Джадид</name>
+		<name normalized="אسtאن وאدی‌אلjدید" languages="Persian">استان وادی‌الجدید</name>
+		<name normalized="אلوאدy אلjدyد" languages="Arabic">الوادي الجديد</name>
+		<name normalized="sوbہ نویں وאدی" languages="Western Punjabi">صوبہ نویں وادی</name>
+		<name normalized="mhאfzة אلوאدى אلjدyد" languages="Egyptian Spoken Arabic">محافظة الوادى الجديد</name>
+		<name normalized="al vाडi al jdid p्rdes" languages="Marathi">अल वाडी अल जदिद प्रदेश</name>
+		<name normalized="vाdi al-jdid muhाp़j़ाh" languages="Hindi">वादी अल-जदीद मुहाफ़ज़ाह</name>
+		<name normalized="ახალი ველის მუჰაფაზა" languages="Georgian">ახალი ველის მუჰაფაზა</name>
+		<name normalized="wーdiー・gdiーd県" languages="Japanese">ワーディー・ゲディード県</name>
+		<name normalized="新河谷省" languages="Chinese">新河谷省</name>
+		<name normalized="알와디알자디드 주" languages="Korean">알와디알자디드 주</name>
+	</region>
+	<region name="As Suways" type="governorate" typeTranslated="muhafazat">
+		<name normalized="As Suways" languages="English;Norwegian (bokmal);official;Romanian">As Suways</name>
+		<name normalized="As Suways Governorate" languages="English;official">As Suways Governorate</name>
+		<name normalized="As Suways Muhafazat" languages="English;official">As Suways Muhafazat</name>
+		<name normalized="As-Suwais" languages="Latin">As-Suwais</name>
+		<name normalized="Gobernacion de Suez" languages="Spanish">Gobernación de Suez</name>
+		<name normalized="Gouvernement as-Suwais" languages="German">Gouvernement as-Suwais</name>
+		<name normalized="Gouvernorat de Suez" languages="French">Gouvernorat de Suez</name>
+		<name normalized="Governacio de Suez" languages="Catalan">Governació de Suez</name>
+		<name normalized="Governatorato di Suez" languages="Italian">Governatorato di Suez</name>
+		<name normalized="Kegubernuran As Suways" languages="Indonesian">Kegubernuran As Suways</name>
+		<name normalized="Mkoa wa Suez" languages="Swahili">Mkoa wa Suez</name>
+		<name normalized="Provinco Suezo" languages="Esperanto">Provinco Suezo</name>
+		<name normalized="Suais" languages="Irish">Suais</name>
+		<name normalized="Suec" languages="Bosnian;Serbo-Croatian">Suec</name>
+		<name normalized="Suecas" languages="Lithuanian">Suecas</name>
+		<name normalized="Sueco muchafaza" languages="Lithuanian">Sueco muchafaza</name>
+		<name normalized="Sues" languages="German">Sues</name>
+		<name normalized="Suesia" languages="Latin">Suesia</name>
+		<name normalized="Suess" languages="Estonian">Suess</name>
+		<name normalized="Suez" languages="Afrikaans;Basque;Catalan;Croatian;Czech;Danish;Dutch;English;Finnish;French;Indonesian;Italian;Kalaallisut;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Scots;Simple English;Slovak;Spanish;Swedish;Waray;Western Frisian">Suez</name>
+		<name normalized="Suez Governorate" languages="English;official">Suez Governorate</name>
+		<name normalized="Suez Govrenorate" languages="Scots">Suez Govrenorate</name>
+		<name normalized="Suez Muhafazat" languages="English;official">Suez Muhafazat</name>
+		<name normalized="Suezo" languages="Esperanto">Suezo</name>
+		<name normalized="Suez" languages="Javanese;Occitan">Suèz</name>
+		<name normalized="Szuez" languages="Hungarian">Szuez</name>
+		<name normalized="Sues" languages="Icelandic">Súes</name>
+		<name normalized="Suveys" languages="Turkish">Süveyş</name>
+		<name normalized="Σουeζ" languages="Greek">Σουέζ</name>
+		<name normalized="Goрad Сuet" languages="Belarusian">Горад Суэц</name>
+		<name normalized="Сuvaйс" languages="Chechen">Сувайс</name>
+		<name normalized="Сuit" languages="Bulgarian;Serbian;Ukrainian">Суец</name>
+		<name normalized="Сuet" languages="Russian;biлaрuсkai (taрaskivita)‎">Суэц</name>
+		<name normalized="Svyեz" languages="Armenian">Սուեզ</name>
+		<name normalized="סvאץ" languages="Hebrew">סואץ</name>
+		<name normalized="אسtאن سوئز" languages="Persian">استان سوئز</name>
+		<name normalized="אلسوyس" languages="Arabic;Egyptian Spoken Arabic">السويس</name>
+		<name normalized="سوئز" languages="Persian">سوئز</name>
+		<name normalized="sوbہ سویز" languages="Western Punjabi">صوبہ سویز</name>
+		<name normalized="mhאfzة אلسوyس" languages="Egyptian Spoken Arabic">محافظة السويس</name>
+		<name normalized="suej़ muhाp़j़ाh" languages="Hindi">सुएज़ मुहाफ़ज़ाह</name>
+		<name normalized="სუეცი" languages="Georgian">სუეცი</name>
+		<name normalized="სუეცის მუჰაფაზა" languages="Georgian">სუეცის მუჰაფაზა</name>
+		<name normalized="sez" languages="Japanese">スエズ</name>
+		<name normalized="sez県" languages="Japanese">スエズ県</name>
+		<name normalized="苏伊士" languages="Chinese">苏伊士</name>
+		<name normalized="蘇伊士" languages="Cantonese">蘇伊士</name>
+		<name normalized="蘇伊士省" languages="Chinese">蘇伊士省</name>
+		<name normalized="수에즈" languages="Korean">수에즈</name>
+		<name normalized="수에즈 주" languages="Korean">수에즈 주</name>
+	</region>
+	<region name="Ash Sharqiyah" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Ach-Charqiya" languages="French">Ach-Charqiya</name>
+		<name normalized="Al Sharqia Governorate" languages="English">Al Sharqia Governorate</name>
+		<name normalized="Ash Sharqiyah" languages="Danish;Dutch;English;Norwegian (bokmal);official;Romanian">Ash Sharqiyah</name>
+		<name normalized="Ash Sharqiyah Governorate" languages="English;official">Ash Sharqiyah Governorate</name>
+		<name normalized="Ash Sharqiyah Muhafazat" languages="English;official">Ash Sharqiyah Muhafazat</name>
+		<name normalized="Ash-Sharqiyya" languages="Swedish">Ash-Sharqiyya</name>
+		<name normalized="As-Sarqiya" languages="Latin">Aš-Šarqīya</name>
+		<name normalized="Gouvernement asch-Scharqiyya" languages="German">Gouvernement asch-Scharqiyya</name>
+		<name normalized="Governacio de Sharqia" languages="Catalan">Governació de Sharqia</name>
+		<name normalized="Governatorato di Sharqiyya" languages="Italian">Governatorato di Sharqiyya</name>
+		<name normalized="Kegubernuran Asy Syarqiyah" languages="Indonesian">Kegubernuran Asy Syarqiyah</name>
+		<name normalized="Mkoa wa Sharqia" languages="Swahili">Mkoa wa Sharqia</name>
+		<name normalized="Oriental" languages="Spanish">Oriental</name>
+		<name normalized="Provinco Sarkija" languages="Esperanto">Provinco Ŝarkija</name>
+		<name normalized="Prowincja Wschodnia" languages="Polish">Prowincja Wschodnia</name>
+		<name normalized="Sharqia" languages="Waray">Sharqia</name>
+		<name normalized="Sharqia Govrenorate" languages="Scots">Sharqia Govrenorate</name>
+		<name normalized="Sharqia guvernement" languages="Norwegian Nynorsk">Sharqia guvernement</name>
+		<name normalized="Xarqia" languages="Portuguese">Xarqia</name>
+		<name normalized="Sarkiye" languages="Turkish">Şarkiye</name>
+		<name normalized="Sarkijos muchafaza" languages="Lithuanian">Šarkijos muchafaza</name>
+		<name normalized="Sarkija" languages="Czech">Šarkíja</name>
+		<name normalized="Saрkii" languages="Bulgarian;Russian">Шаркия</name>
+		<name normalized="Saрkija" languages="Serbian">Шаркија</name>
+		<name normalized="Saрkii" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Шаркія</name>
+		<name normalized="מhvז א-שrqיh" languages="Hebrew">מחוז א-שרקיה</name>
+		<name normalized="אسtאن شrqی" languages="Persian">استان شرقی</name>
+		<name normalized="אلشrqyة" languages="Arabic">الشرقية</name>
+		<name normalized="sوbہ شrqیہ" languages="Western Punjabi">صوبہ شرقیہ</name>
+		<name normalized="mhאfzة אلشrqyh" languages="Egyptian Spoken Arabic">محافظة الشرقيه</name>
+		<name normalized="al-srk़iyा muhाp़j़ाh" languages="Hindi">अल-शरक़िया मुहाफ़ज़ाह</name>
+		<name normalized="შარკიის მუჰაფაზა" languages="Georgian">შარკიის მუჰაფაზა</name>
+		<name normalized="syrkーy県" languages="Japanese">シャルキーヤ県</name>
+		<name normalized="東部省" languages="Chinese">東部省</name>
+		<name normalized="샤르키야 주" languages="Korean">샤르키야 주</name>
+	</region>
+	<region name="Aswan" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Assouan" languages="French">Assouan</name>
+		<name normalized="Assuan" languages="Catalan;Estonian;Finnish;German;Italian;Romanian;Sicilian;Swedish">Assuan</name>
+		<name normalized="Assuani kubernerkond" languages="Estonian">Assuani kubernerkond</name>
+		<name normalized="Assuao" languages="Portuguese">Assuão</name>
+		<name normalized="Asszuan" languages="Hungarian">Asszuán</name>
+		<name normalized="Asuan" languages="Bosnian;Croatian;Polish">Asuan</name>
+		<name normalized="Asuanas" languages="Lithuanian">Asuanas</name>
+		<name normalized="Asuano" languages="Esperanto">Asuano</name>
+		<name normalized="Asuano muchafaza" languages="Lithuanian">Asuano muchafaza</name>
+		<name normalized="Asuan" languages="Czech;Galician;Spanish">Asuán</name>
+		<name normalized="Asvan" languages="Turkish">Asvan</name>
+		<name normalized="Aswan" languages="Afrikaans;Basque;Danish;Dutch;English;Indonesian;Irish;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Scots;Simple English;Swahili;Vietnamese;Waray">Aswan</name>
+		<name normalized="Aswan Governorate" languages="English;official">Aswan Governorate</name>
+		<name normalized="Aswan Govrenorate" languages="Scots">Aswan Govrenorate</name>
+		<name normalized="Aswan guvernement" languages="Norwegian Nynorsk">Aswan guvernement</name>
+		<name normalized="Aswan Muhafazat" languages="English;official">Aswan Muhafazat</name>
+		<name normalized="Aswan" languages="Slovak">Aswán</name>
+		<name normalized="Aswan" languages="Latin">Aswān</name>
+		<name normalized="Eswan" languages="Kurdish">Eswan</name>
+		<name normalized="Gouvernement Aswan" languages="German">Gouvernement Aswan</name>
+		<name normalized="Gouvernorat d'Assouan" languages="French">Gouvernorat d'Assouan</name>
+		<name normalized="Governacio d'Assuan" languages="Catalan">Governació d'Assuan</name>
+		<name normalized="Governatorato di Assuan" languages="Italian">Governatorato di Assuan</name>
+		<name normalized="Guvernoratul Aswan" languages="Romanian">Guvernoratul Aswan</name>
+		<name normalized="Kegubernuran Aswan" languages="Indonesian">Kegubernuran Aswan</name>
+		<name normalized="Mkoa wa Aswan" languages="Swahili">Mkoa wa Aswan</name>
+		<name normalized="Provinco Asuano" languages="Esperanto">Provinco Asuano</name>
+		<name normalized="Syene" languages="Latin">Syene</name>
+		<name normalized="Ασσουαν" languages="Greek">Ασσουάν</name>
+		<name normalized="Aсuaн" languages="Bulgarian;Russian;Serbian;Ukrainian;biлaрuсkai (taрaskivita)‎">Асуан</name>
+		<name normalized="Goрad Aсuaн" languages="Belarusian">Горад Асуан</name>
+		<name normalized="Мukaфaza Aсuaн" languages="Belarusian">Мухафаза Асуан</name>
+		<name normalized="אסvאן" languages="Hebrew">אסואן</name>
+		<name normalized="أسوאن" languages="Arabic;Egyptian Spoken Arabic">أسوان</name>
+		<name normalized="אسtאن אسوאن" languages="Persian">استان اسوان</name>
+		<name normalized="אسوאن" languages="Persian;Urdu;Western Punjabi">اسوان</name>
+		<name normalized="sوbہ אسوאن" languages="Western Punjabi">صوبہ اسوان</name>
+		<name normalized="mhאfzة أسوאن" languages="Egyptian Spoken Arabic">محافظة أسوان</name>
+		<name normalized="asvाn muhाp़j़ाh" languages="Hindi">असवान मुहाफ़ज़ाह</name>
+		<name normalized="as्vाn" languages="Marathi">आस्वान</name>
+		<name normalized="ასუანი" languages="Georgian">ასუანი</name>
+		<name normalized="ასუანის მუჰაფაზა" languages="Georgian">ასუანის მუჰაფაზა</name>
+		<name normalized="aswn" languages="Japanese">アスワン</name>
+		<name normalized="aswn県" languages="Japanese">アスワン県</name>
+		<name normalized="阿斯旺" languages="Cantonese;Chinese">阿斯旺</name>
+		<name normalized="阿斯旺省" languages="Chinese">阿斯旺省</name>
+		<name normalized="아스완" languages="Korean">아스완</name>
+		<name normalized="아스완 주" languages="Korean">아스완 주</name>
+	</region>
+	<region name="Asyut" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Asijut" languages="Czech">Asijút</name>
+		<name normalized="Asiut" languages="Basque;Spanish">Asiut</name>
+		<name normalized="Asjut" languages="Polish">Asjut</name>
+		<name normalized="Asjutas" languages="Lithuanian">Asjutas</name>
+		<name normalized="Asjuto muchafaza" languages="Lithuanian">Asjuto muchafaza</name>
+		<name normalized="Asjut" languages="Slovak">Asjút</name>
+		<name normalized="Assioet" languages="Dutch">Assioet</name>
+		<name normalized="Assiout" languages="French">Assiout</name>
+		<name normalized="Assiut" languages="Catalan;Estonian;Finnish;Portuguese;Romanian">Assiut</name>
+		<name normalized="Assiuti kubernerkond" languages="Estonian">Assiuti kubernerkond</name>
+		<name normalized="Asyut" languages="Danish;English;German;Irish;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Scots;Simple English;Swedish;Turkish;Vietnamese;Waray">Asyut</name>
+		<name normalized="Asyut Governorate" languages="English;official">Asyut Governorate</name>
+		<name normalized="Asyut Govrenorate" languages="Scots">Asyut Govrenorate</name>
+		<name normalized="Asyut guvernement" languages="Norwegian Nynorsk">Asyut guvernement</name>
+		<name normalized="Asyut Muhafazat" languages="English;official">Asyut Muhafazat</name>
+		<name normalized="Asyuth" languages="Indonesian">Asyuth</name>
+		<name normalized="Asyut" languages="Italian;Latin">Asyūṭ</name>
+		<name normalized="Gouvernement Asyut" languages="German">Gouvernement Asyut</name>
+		<name normalized="Gouvernorat d'Assiout" languages="French">Gouvernorat d'Assiout</name>
+		<name normalized="Governacio d'Asyut" languages="Catalan">Governació d'Asyut</name>
+		<name normalized="Governatorato di Asyut" languages="Italian">Governatorato di Asyut</name>
+		<name normalized="Guvernoratul Asyut" languages="Romanian">Guvernoratul Asyut</name>
+		<name normalized="Lycopolis" languages="Latin">Lycopolis</name>
+		<name normalized="Mkoa wa Asyut" languages="Swahili">Mkoa wa Asyut</name>
+		<name normalized="Provinco Asjut" languages="Esperanto">Provinco Asjut</name>
+		<name normalized="Aсьюt" languages="Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Асьют</name>
+		<name normalized="Aсюt" languages="Bulgarian">Асют</name>
+		<name normalized="Aсjut" languages="Serbian">Асјут</name>
+		<name normalized="Goрad Aсьюt" languages="Belarusian">Горад Асьют</name>
+		<name normalized="Мukaфaza Aсьюt" languages="Belarusian">Мухафаза Асьют</name>
+		<name normalized="אסיvt" languages="Hebrew">אסיוט</name>
+		<name normalized="أسyوt" languages="Arabic">أسيوط</name>
+		<name normalized="אسtאن אسیوt" languages="Persian">استان اسیوط</name>
+		<name normalized="אسyوt" languages="Egyptian Spoken Arabic">اسيوط</name>
+		<name normalized="אسیوt" languages="Western Punjabi">اسیوت</name>
+		<name normalized="אسیوt" languages="Persian;Urdu">اسیوط</name>
+		<name normalized="sوbہ אسیوt" languages="Western Punjabi">صوبہ اسیوت</name>
+		<name normalized="mhאfzة אسyوt" languages="Egyptian Spoken Arabic">محافظة اسيوط</name>
+		<name normalized="asyut muhाp़j़ाh" languages="Hindi">असयूत मुहाफ़ज़ाह</name>
+		<name normalized="ასიუტი" languages="Georgian">ასიუტი</name>
+		<name normalized="ასიუტის მუჰაფაზა" languages="Georgian">ასიუტის მუჰაფაზა</name>
+		<name normalized="አስዩት" languages="Amharic">አስዩት</name>
+		<name normalized="asyーt県" languages="Japanese">アシュート県</name>
+		<name normalized="asyーt" languages="Japanese">アスユート</name>
+		<name normalized="艾斯尤特" languages="Chinese">艾斯尤特</name>
+		<name normalized="艾斯尤特省" languages="Chinese">艾斯尤特省</name>
+		<name normalized="아시우트" languages="Korean">아시우트</name>
+		<name normalized="아시우트 주" languages="Korean">아시우트 주</name>
+	</region>
+	<region name="Bani Suwayf" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Bani Suwaif" languages="German">Bani Suwaif</name>
+		<name normalized="Bani Suwajf" languages="Polish">Bani Suwajf</name>
+		<name normalized="Bani Suwayf" languages="Catalan;Danish;English;Norwegian (bokmal);official;Romanian">Bani Suwayf</name>
+		<name normalized="Bani Suwayf Governorate" languages="English;official">Bani Suwayf Governorate</name>
+		<name normalized="Bani Suwayf Muhafazat" languages="English;official">Bani Suwayf Muhafazat</name>
+		<name normalized="Bani Suwaif" languages="Latin">Banī Suwaif</name>
+		<name normalized="Bani Suwayf" languages="Estonian">Banī Suwayf</name>
+		<name normalized="Beni Suef" languages="Dutch;English;French;Irish;Italian;Malay;Norwegian (bokmal);Portuguese;Scots;Spanish;Swedish;Waray">Beni Suef</name>
+		<name normalized="Beni Suef Governorate" languages="English">Beni Suef Governorate</name>
+		<name normalized="Beni Suef Govrenorate" languages="Scots">Beni Suef Govrenorate</name>
+		<name normalized="Beni Sueifas" languages="Lithuanian">Beni Sueifas</name>
+		<name normalized="Beni Sueifo muchafaza" languages="Lithuanian">Beni Sueifo muchafaza</name>
+		<name normalized="Beni Suveyf" languages="Turkish">Beni Suveyf</name>
+		<name normalized="Beni Suveyf" languages="Turkish">Beni Süveyf</name>
+		<name normalized="Bani Suvajf" languages="Czech">Bání Suvajf</name>
+		<name normalized="Gouvernement Bani Suwaif" languages="German">Gouvernement Bani Suwaif</name>
+		<name normalized="Gouvernorat de Beni Souef" languages="French">Gouvernorat de Beni Souef</name>
+		<name normalized="Governacio de Beni Suef" languages="Catalan">Governació de Beni Suef</name>
+		<name normalized="Governatorato di Beni Suef" languages="Italian">Governatorato di Beni Suef</name>
+		<name normalized="Kegubernuran Bani Suwayf" languages="Indonesian">Kegubernuran Bani Suwayf</name>
+		<name normalized="Mkoa wa Beni Suef" languages="Swahili">Mkoa wa Beni Suef</name>
+		<name normalized="Provinco Beni Suef" languages="Esperanto">Provinco Beni Suef</name>
+		<name normalized="Biнi Сuiф" languages="Bulgarian">Бени Суеф</name>
+		<name normalized="Biнi Сuijф" languages="Serbian">Бени Суејф</name>
+		<name normalized="Biнi-Сueйф" languages="Russian">Бени-Суэйф</name>
+		<name normalized="Biнi-Сuiйф" languages="Ukrainian">Бені-Суейф</name>
+		<name normalized="Beнi-Сuiф" languages="biлaрuсkai (taрaskivita)‎">Бэні-Суеф</name>
+		<name normalized="Goрad Biнi-Сueйф" languages="Belarusian">Горад Бені-Суэйф</name>
+		<name normalized="Мukaфaza Biнi-Сueйф" languages="Belarusian">Мухафаза Бені-Суэйф</name>
+		<name normalized="Bենի Svyեյf" languages="Armenian">Բենի Սուեյֆ</name>
+		<name normalized="אسtאن bنی‌سویf" languages="Persian">استان بنی‌سویف</name>
+		<name normalized="bنy سوyf" languages="Arabic">بني سويف</name>
+		<name normalized="bنی سویf" languages="Persian">بنی سویف</name>
+		<name normalized="sوbہ bنی سیوf" languages="Western Punjabi">صوبہ بنی سیوف</name>
+		<name normalized="mhאfzة bنى سوyf" languages="Egyptian Spoken Arabic">محافظة بنى سويف</name>
+		<name normalized="bni suep़ muhाp़j़ाh" languages="Hindi">बनी सुएफ़ मुहाफ़ज़ाह</name>
+		<name normalized="ბანი-სუაფი" languages="Georgian">ბანი-სუაფი</name>
+		<name normalized="ბანი-სუაფის მუჰაფაზა" languages="Georgian">ბანი-სუაფის მუჰაფაზა</name>
+		<name normalized="bn・seh" languages="Japanese">ベニ・スエフ</name>
+		<name normalized="bn・seh県" languages="Japanese">ベニ・スエフ県</name>
+		<name normalized="貝尼蘇韋夫" languages="Chinese">貝尼蘇韋夫</name>
+		<name normalized="贝尼苏韦夫省" languages="Chinese">贝尼苏韦夫省</name>
+		<name normalized="베니수에프" languages="Korean">베니수에프</name>
+		<name normalized="베니수에프 주" languages="Korean">베니수에프 주</name>
+	</region>
+	<region name="Bur Sa'id" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Bur Sa'id" languages="Danish;English;Norwegian (bokmal);official;Romanian">Bur Sa'id</name>
+		<name normalized="Bur Sa'id Governorate" languages="English;official">Bur Sa'id Governorate</name>
+		<name normalized="Bur Sa'id Muhafazat" languages="English;official">Bur Sa'id Muhafazat</name>
+		<name normalized="Bur Said" languages="English;official">Bur Said</name>
+		<name normalized="Bur Said Governorate" languages="English;official">Bur Said Governorate</name>
+		<name normalized="Bur Said Muhafazat" languages="English;official">Bur Said Muhafazat</name>
+		<name normalized="Bursaid" languages="Indonesian">Bursaid</name>
+		<name normalized="Gouvernement Bur Saʿid" languages="German">Gouvernement Bur Saʿid</name>
+		<name normalized="Gouvernorat de Port-Said" languages="French">Gouvernorat de Port-Saïd</name>
+		<name normalized="Governacio de Port Said" languages="Catalan">Governació de Port Saïd</name>
+		<name normalized="Governatorato di Porto Said" languages="Italian">Governatorato di Porto Said</name>
+		<name normalized="Kegubernuran Bur Sa'id" languages="Indonesian">Kegubernuran Bur Sa'id</name>
+		<name normalized="Mkoa wa Port Said" languages="Swahili">Mkoa wa Port Said</name>
+		<name normalized="Port Said" languages="Afrikaans;Basque;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;German;Interlingue;Irish;Javanese;Kalaallisut;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Romanian;Scots;Serbo-Croatian;Simple English;Slovak;Swahili;Swedish;Turkish;Vietnamese;Waray">Port Said</name>
+		<name normalized="Port Said Governorate" languages="English;official;Simple English">Port Said Governorate</name>
+		<name normalized="Port Said Govrenorate" languages="Scots">Port Said Govrenorate</name>
+		<name normalized="Port Said Muhafazat" languages="English;official">Port Said Muhafazat</name>
+		<name normalized="Port Saidas" languages="Lithuanian">Port Saidas</name>
+		<name normalized="Port Saido muchafaza" languages="Lithuanian">Port Saido muchafaza</name>
+		<name normalized="Port Said" languages="Icelandic">Port Saíd</name>
+		<name normalized="Port Said" languages="Catalan">Port Saïd</name>
+		<name normalized="Port Szaid" languages="Hungarian">Port Szaíd</name>
+		<name normalized="Port-Said" languages="French">Port-Saïd</name>
+		<name normalized="Port-Səid" languages="Azerbaijani">Port-Səid</name>
+		<name normalized="Porto Said" languages="Italian;Portuguese">Porto Said</name>
+		<name normalized="Portus Said" languages="Latin">Portus Said</name>
+		<name normalized="Provinco Port Said" languages="Esperanto">Provinco Port Said</name>
+		<name normalized="Puerto Said" languages="Spanish">Puerto Saíd</name>
+		<name normalized="Buр-СaӀiйd" languages="Chechen">Бур-СаӀийд</name>
+		<name normalized="Goрad Poрt-Сaid" languages="Belarusian">Горад Порт-Саід</name>
+		<name normalized="Мukaфaza Poрt-Сaid" languages="Belarusian">Мухафаза Порт-Саід</name>
+		<name normalized="Poрt Сaid" languages="Bulgarian;Serbian">Порт Саид</name>
+		<name normalized="Poрt-Сaid" languages="Russian">Порт-Саид</name>
+		<name normalized="Poрt-Сaid" languages="biлaрuсkai (taрaskivita)‎">Порт-Саід</name>
+		<name normalized="Poрt-Сayd" languages="Ukrainian">Порт-Саїд</name>
+		<name normalized="pvrt סעיד" languages="Hebrew">פורט סעיד</name>
+		<name normalized="אسtאن pوrt‌سعید" languages="Persian">استان پورت‌سعید</name>
+		<name normalized="bوr سعyد" languages="Egyptian Spoken Arabic">بور سعيد</name>
+		<name normalized="bوrسعyد" languages="Arabic">بورسعيد</name>
+		<name normalized="sوbہ pوrٹ سعید" languages="Western Punjabi">صوبہ پورٹ سعید</name>
+		<name normalized="mhאfzة bوrسعyد" languages="Egyptian Spoken Arabic">محافظة بورسعيد</name>
+		<name normalized="pوrt‌سعید" languages="Persian">پورت‌سعید</name>
+		<name normalized="pوrٹ سعید" languages="Urdu;Western Punjabi">پورٹ سعید</name>
+		<name normalized="por्ट sid muhाp़j़ाh" languages="Hindi">पोर्ट सईद मुहाफ़ज़ाह</name>
+		<name normalized="bur sad" languages="Marathi">बुर सैद</name>
+		<name normalized="bੋr sid" languages="Punjabi">ਬੋਰ ਸਈਦ</name>
+		<name normalized="พอร์ตซาอิด" languages="Thai">พอร์ตซาอิด</name>
+		<name normalized="პორტ-საიდი" languages="Georgian">პორტ-საიდი</name>
+		<name normalized="პორტ-საიდის მუჰაფაზა" languages="Georgian">პორტ-საიდის მუჰაფაზა</name>
+		<name normalized="pーtsid" languages="Japanese">ポートサイド</name>
+		<name normalized="pーtsid県" languages="Japanese">ポートサイド県</name>
+		<name normalized="塞得港省" languages="Chinese">塞得港省</name>
+		<name normalized="塞德港" languages="Chinese">塞德港</name>
+		<name normalized="포트사이드" languages="Korean">포트사이드</name>
+		<name normalized="포트사이드 주" languages="Korean">포트사이드 주</name>
+	</region>
+	<region name="Dumyat" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Damieta" languages="Catalan;Portuguese;Spanish">Damieta</name>
+		<name normalized="Damietta" languages="Basque;Czech;Danish;Dutch;English;Finnish;Hungarian;Italian;Latin;Norwegian (bokmal);official;Polish;Scots;Serbo-Croatian;Swahili;Swedish;Waray">Damietta</name>
+		<name normalized="Damietta Governorate" languages="English;official">Damietta Governorate</name>
+		<name normalized="Damietta Govrenorate" languages="Scots">Damietta Govrenorate</name>
+		<name normalized="Damietta Muhafazat" languages="English;official">Damietta Muhafazat</name>
+		<name normalized="Damiette" languages="French;German">Damiette</name>
+		<name normalized="Dimjat" languages="Czech">Dimját</name>
+		<name normalized="Dimyat" languages="Turkish">Dimyat</name>
+		<name normalized="Dimyath" languages="Indonesian">Dimyath</name>
+		<name normalized="Doemjat" languages="Afrikaans">Doemjat</name>
+		<name normalized="Dumjatas" languages="Lithuanian">Dumjatas</name>
+		<name normalized="Dumjato muchafaza" languages="Lithuanian">Dumjato muchafaza</name>
+		<name normalized="Dumjat" languages="Slovak">Dumját</name>
+		<name normalized="Dumyat" languages="Danish;Dutch;English;German;Norwegian (bokmal);official;Romanian">Dumyat</name>
+		<name normalized="Dumyat Governorate" languages="English;official">Dumyat Governorate</name>
+		<name normalized="Dumyat Muhafazat" languages="English;official">Dumyat Muhafazat</name>
+		<name normalized="Gouvernement Dumyat" languages="German">Gouvernement Dumyat</name>
+		<name normalized="Gouvernorat de Damiette" languages="French">Gouvernorat de Damiette</name>
+		<name normalized="Governacio de Damietta" languages="Catalan">Governació de Damietta</name>
+		<name normalized="Governatorato di Damietta" languages="Italian">Governatorato di Damietta</name>
+		<name normalized="Kegubernuran Dumyat" languages="Indonesian">Kegubernuran Dumyat</name>
+		<name normalized="Mkoa wa Damietta" languages="Swahili">Mkoa wa Damietta</name>
+		<name normalized="Provinco Dumjat" languages="Esperanto">Provinco Dumjat</name>
+		<name normalized="Tamiathis" languages="Latin">Tamiathis</name>
+		<name normalized="Daмiita" languages="Bulgarian">Дамиета</name>
+		<name normalized="Daмijita" languages="Serbian">Дамијета</name>
+		<name normalized="Duм'it" languages="Ukrainian">Дум'ят</name>
+		<name normalized="Duмьit" languages="Russian">Думьят</name>
+		<name normalized="Dաmիեtա" languages="Armenian">Դամիետա</name>
+		<name normalized="דמיאt" languages="Hebrew">דמיאט</name>
+		<name normalized="אسtאن دmیאt" languages="Persian">استان دمیاط</name>
+		<name normalized="دmyאt" languages="Arabic;Egyptian Spoken Arabic">دمياط</name>
+		<name normalized="دmیאt" languages="Persian">دمیاط</name>
+		<name normalized="sوbہ دmیאt" languages="Western Punjabi">صوبہ دمیاط</name>
+		<name normalized="dumyाt muhाp़j़ाh" languages="Hindi">दुमयात मुहाफ़ज़ाह</name>
+		<name normalized="dmiat" languages="Punjabi">ਦਮੀਆਤ</name>
+		<name normalized="ดาเมียตตา" languages="Thai">ดาเมียตตา</name>
+		<name normalized="დუმიატი" languages="Georgian">დუმიატი</name>
+		<name normalized="დუმიატის მუჰაფაზა" languages="Georgian">დუმიატის მუჰაფაზა</name>
+		<name normalized="dimyーt" languages="Japanese">ディムヤート</name>
+		<name normalized="dimyーt県" languages="Japanese">ディムヤート県</name>
+		<name normalized="杜姆亚特" languages="Chinese">杜姆亚特</name>
+		<name normalized="杜姆亞特省" languages="Chinese">杜姆亞特省</name>
+		<name normalized="다미에타" languages="Korean">다미에타</name>
+		<name normalized="다미에타 주" languages="Korean">다미에타 주</name>
+	</region>
+	<region name="Janub Sina'" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Ban dao Sinai" languages="Vietnamese">Bán đảo Sinai</name>
+		<name normalized="Gouvernement Dschanub Sina" languages="German">Gouvernement Dschanub Sina</name>
+		<name normalized="Gouvernorat du Sinai Sud" languages="French">Gouvernorat du Sinaï Sud</name>
+		<name normalized="Governacio del Sinai del Sud" languages="Catalan">Governació del Sinaí del Sud</name>
+		<name normalized="Governatorato del Sinai del Sud" languages="Italian">Governatorato del Sinai del Sud</name>
+		<name normalized="Guney Sina" languages="Turkish">Güney Sina</name>
+		<name normalized="Janub Sina" languages="English;official">Janub Sina</name>
+		<name normalized="Janub Sina Governorate" languages="English;official">Janub Sina Governorate</name>
+		<name normalized="Janub Sina Muhafazat" languages="English;official">Janub Sina Muhafazat</name>
+		<name normalized="Janub Sina'" languages="Danish;English;Norwegian (bokmal);official;Romanian">Janub Sina'</name>
+		<name normalized="Janub Sina' Governorate" languages="English;official">Janub Sina' Governorate</name>
+		<name normalized="Janub Sina' Muhafazat" languages="English;official">Janub Sina' Muhafazat</name>
+		<name normalized="Jizni Sinaj" languages="Czech">Jižní Sinaj</name>
+		<name normalized="Juzni Sinaj" languages="Croatian">Južni Sinaj</name>
+		<name normalized="Kegubernuran Janub Sina'" languages="Indonesian">Kegubernuran Janub Sina'</name>
+		<name normalized="Leithinis Sionai" languages="Irish">Leithinis Síonáí</name>
+		<name normalized="Lieh-innys Sinai" languages="Manx">Lieh-innys Sinai</name>
+		<name normalized="Louna-Siinai kubernerkond" languages="Estonian">Lõuna-Siinai kubernerkond</name>
+		<name normalized="Mkoa wa Sinai Kusini" languages="Swahili">Mkoa wa Sinai Kusini</name>
+		<name normalized="Nivgirava Sina" languages="Kurdish">Nîvgirava Sîna</name>
+		<name normalized="Paeninsula Sinaitica" languages="Latin">Paeninsula Sinaitica</name>
+		<name normalized="Peninsula d'o Sinai" languages="Aragonese">Peninsula d'o Sinai</name>
+		<name normalized="Peninsula Sinai" languages="Romanian">Peninsula Sinai</name>
+		<name normalized="Penisola del Sinai" languages="Italian">Penisola del Sinai</name>
+		<name normalized="Peninsula del Sinai" languages="Catalan;Spanish">Península del Sinaí</name>
+		<name normalized="Peninsula do Sinai" languages="Galician">Península do Sinaí</name>
+		<name normalized="Pietu Sinajaus muchafaza" languages="Lithuanian">Pietų Sinajaus muchafaza</name>
+		<name normalized="Provinco Suda Sinajo" languages="Esperanto">Provinco Suda Sinajo</name>
+		<name normalized="Rasi ya Sinai" languages="Swahili">Rasi ya Sinai</name>
+		<name normalized="Salatan nga Sinai" languages="Waray">Salatan nga Sinai</name>
+		<name normalized="Se-nai Poan-to" languages="Chinese (Min Nan)">Se-nái Poàn-tó</name>
+		<name normalized="Semenanjung Sinai" languages="Indonesian;Javanese;Malay">Semenanjung Sinai</name>
+		<name normalized="Siinaa" languages="Somali">Siinaa</name>
+		<name normalized="Siinai" languages="Finnish">Siinai</name>
+		<name normalized="Siinai poolsaar" languages="Estonian">Siinai poolsaar</name>
+		<name normalized="Sina al-Janubiyya" languages="Swedish">Sina al-Janubiyya</name>
+		<name normalized="Sina Yarımadası" languages="Turkish">Sina Yarımadası</name>
+		<name normalized="Sinai" languages="Afrikaans;Basque;Breton;English;Ido;Ladino;Occitan;official;Portuguese;Sicilian;Welsh">Sinai</name>
+		<name normalized="Sinai Australis" languages="Latin">Sinai Australis</name>
+		<name normalized="Sinai do Sul" languages="Portuguese">Sinai do Sul</name>
+		<name normalized="Sinai Governorate" languages="English;official">Sinai Governorate</name>
+		<name normalized="Sinai Muhafazat" languages="English;official">Sinai Muhafazat</name>
+		<name normalized="Sinai Peninsula" languages="English;Simple English">Sinai Peninsula</name>
+		<name normalized="Sinai Selatan" languages="Malay">Sinai Selatan</name>
+		<name normalized="Sinai-Halbinsel" languages="German">Sinai-Halbinsel</name>
+		<name normalized="Sinai-halvoen" languages="Danish">Sinai-halvøen</name>
+		<name normalized="Sinaihalvon" languages="Swedish">Sinaihalvön</name>
+		<name normalized="Sinaihalvoya" languages="Norwegian (bokmal);Norwegian Nynorsk">Sinaihalvøya</name>
+		<name normalized="Sinaj" languages="Bosnian;Serbo-Croatian;Slovenian">Sinaj</name>
+		<name normalized="Sinajaus pusiasalis" languages="Lithuanian">Sinajaus pusiasalis</name>
+		<name normalized="Sinajo" languages="Esperanto">Sinajo</name>
+		<name normalized="Sinajski poluotok" languages="Croatian">Sinajski poluotok</name>
+		<name normalized="Sinajsky poloostrov" languages="Czech">Sinajský poloostrov</name>
+		<name normalized="Sinajsky polostrov" languages="Slovak">Sinajský polostrov</name>
+		<name normalized="Sinay yarımadası" languages="Azerbaijani">Sinay yarımadası</name>
+		<name normalized="Sinayi" languages="Cebuano">Sinayi</name>
+		<name normalized="Sinai" languages="Lingala">Sinaí</name>
+		<name normalized="Sinai del Sur" languages="Spanish">Sinaí del Sur</name>
+		<name normalized="Sinai" languages="Dutch;French;Western Frisian">Sinaï</name>
+		<name normalized="Sooth Sinai Govrenorate" languages="Scots">Sooth Sinai Govrenorate</name>
+		<name normalized="South Sinai" languages="English;official">South Sinai</name>
+		<name normalized="South Sinai Governorate" languages="English;official">South Sinai Governorate</name>
+		<name normalized="South Sinai Muhafazat" languages="English;official">South Sinai Muhafazat</name>
+		<name normalized="Synaj" languages="Polish">Synaj</name>
+		<name normalized="Synaj Poludniowy" languages="Polish">Synaj Południowy</name>
+		<name normalized="Sinai" languages="Piedmontese">Sìnai</name>
+		<name normalized="Sinai" languages="Yoruba">Sìnáì</name>
+		<name normalized="Sinai-felsziget" languages="Hungarian">Sínai-félsziget</name>
+		<name normalized="Sinaiskagi" languages="Icelandic">Sínaískagi</name>
+		<name normalized="Sinaja pussala" languages="Latvian">Sīnāja pussala</name>
+		<name normalized="Tangway ng Sinai" languages="Tagalog">Tangway ng Sinai</name>
+		<name normalized="Zuidelijke Sinai" languages="Dutch">Zuidelijke Sinaï</name>
+		<name normalized="Χερσονησος του Σινα" languages="Greek">Χερσόνησος του Σινά</name>
+		<name normalized="Paўdнёvы Сынaй" languages="biлaрuсkai (taрaskivita)‎">Паўднёвы Сынай</name>
+		<name normalized="Pivdiннiй Сiнaй" languages="Ukrainian">Південний Синай</name>
+		<name normalized="Сiнaй" languages="Bulgarian">Синай</name>
+		<name normalized="Сiнaй cuрutрave" languages="Chuvash">Синай çурутравĕ</name>
+		<name normalized="Сiнaй tүbigi" languages="Kazakh">Синай түбегі</name>
+		<name normalized="Сiнaйн koйg" languages="Mongolian">Синайн хойг</name>
+		<name normalized="Сiнaйсkiй poлuoсtрov" languages="Russian">Синайский полуостров</name>
+		<name normalized="Сiнaйсьkiй pivoсtрiv" languages="Ukrainian">Синайський півострів</name>
+		<name normalized="Сiнajсko poлuoсtрvo" languages="Serbian">Синајско полуострво</name>
+		<name normalized="Сынaйсki paўvoсtрaў" languages="biлaрuсkai (taрaskivita)‎">Сынайскі паўвостраў</name>
+		<name normalized="Сiнaйсki paўvoсtрaў" languages="Belarusian">Сінайскі паўвостраў</name>
+		<name normalized="Юziн Сiнaй" languages="Bulgarian">Южен Синай</name>
+		<name normalized="Юzный Сiнaй" languages="Russian">Южный Синай</name>
+		<name normalized="Juzнi Сiнaj" languages="Serbian">Јужни Синај</name>
+		<name normalized="Sինայի tեrաkղzի" languages="Armenian">Սինայի թերակղզի</name>
+		<name normalized="דrvם סיnי" languages="Hebrew">דרום סיני</name>
+		<name normalized="סיnי" languages="Hebrew">סיני</name>
+		<name normalized="אسtאن سینאی jنوbی" languages="Persian">استان سینای جنوبی</name>
+		<name normalized="jزیrہ نmא سینא" languages="Urdu;Western Punjabi">جزیرہ نما سینا</name>
+		<name normalized="jنوb سyنאء" languages="Arabic">جنوب سيناء</name>
+		<name normalized="سyنא" languages="Egyptian Spoken Arabic">سينا</name>
+		<name normalized="سyنאء" languages="Arabic">سيناء</name>
+		<name normalized="شbh‌jزیrh سینא" languages="Persian">شبه‌جزیره سینا</name>
+		<name normalized="mhאfzة jنوb سyنא" languages="Egyptian Spoken Arabic">محافظة جنوب سينا</name>
+		<name normalized="ܣܝܢܝ" languages="Aramaic">ܣܝܢܝ</name>
+		<name normalized="dk्षiण sinाi muhाp़j़ाh" languages="Hindi">दक्षिण सीनाई मुहाफ़ज़ाह</name>
+		<name normalized="sinाi d्vipkl्p" languages="Marathi">सिनाई द्वीपकल्प</name>
+		<name normalized="sinाi p्rाyd्vip" languages="Hindi">सीनाई प्रायद्वीप</name>
+		<name normalized="sinাi upd্bip" languages="Bengali">সিনাই উপদ্বীপ</name>
+		<name normalized="சினாய் தீபகற்பம்" languages="Tamil">சினாய் தீபகற்பம்</name>
+		<name normalized="സീനായ്‌ ഉപദ്വീപ്" languages="Malayalam">സീനായ്‌ ഉപദ്വീപ്</name>
+		<name normalized="සීනායි අර්ධද්වීපය" languages="Sinhala">සීනායි අර්ධද්වීපය</name>
+		<name normalized="คาบสมุทรไซนาย" languages="Thai">คาบสมุทรไซนาย</name>
+		<name normalized="სამხრეთ სინაის მუჰაფაზა" languages="Georgian">სამხრეთ სინაის მუჰაფაზა</name>
+		<name normalized="სინის ნახევარკუნძული" languages="Georgian">სინის ნახევარკუნძული</name>
+		<name normalized="sni半島" languages="Japanese">シナイ半島</name>
+		<name normalized="南sni県" languages="Japanese">南シナイ県</name>
+		<name normalized="南西奈省" languages="Chinese">南西奈省</name>
+		<name normalized="西奈半島" languages="Chinese">西奈半島</name>
+		<name normalized="시나이 반도" languages="Korean">시나이 반도</name>
+		<name normalized="자누브시나 주" languages="Korean">자누브시나 주</name>
+	</region>
+	<region name="Kafr ash Shaykh" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Gouvernement Kafr asch-Schaich" languages="German">Gouvernement Kafr asch-Schaich</name>
+		<name normalized="Gouvernorat de Kafr el-Cheik" languages="French">Gouvernorat de Kafr el-Cheik</name>
+		<name normalized="Governacio de Kafr al-Sheikh" languages="Catalan">Governació de Kafr al-Sheikh</name>
+		<name normalized="Governatorato di Kafr el-Sheikh" languages="Italian">Governatorato di Kafr el-Sheikh</name>
+		<name normalized="Guvernoratul Kafr el-Sheikh" languages="Romanian">Guvernoratul Kafr el-Sheikh</name>
+		<name normalized="Kafr al-Sheikh" languages="Catalan">Kafr al-Sheikh</name>
+		<name normalized="Kafr al-Saykh" languages="Finnish">Kafr al-Šaykh</name>
+		<name normalized="Kafr asch-Schaich" languages="German">Kafr asch-Schaich</name>
+		<name normalized="Kafr ash Shaykh" languages="Danish;English;Norwegian (bokmal);official;Romanian">Kafr ash Shaykh</name>
+		<name normalized="Kafr ash Shaykh Governorate" languages="English;official">Kafr ash Shaykh Governorate</name>
+		<name normalized="Kafr ash Shaykh Muhafazat" languages="English;official">Kafr ash Shaykh Muhafazat</name>
+		<name normalized="Kafr ash-Shaykh" languages="Estonian">Kafr ash-Shaykh</name>
+		<name normalized="Kafr asz-Szajch" languages="Polish">Kafr asz-Szajch</name>
+		<name normalized="Kafr as-Sajch" languages="Czech;Slovak">Kafr aš-Šajch</name>
+		<name normalized="Kafr as-Sayḫ" languages="Latin">Kafr aš-Šayḫ</name>
+		<name normalized="Kafr el Sheij" languages="Spanish">Kafr el Sheij</name>
+		<name normalized="Kafr el Sheikh" languages="Dutch">Kafr el Sheikh</name>
+		<name normalized="Kafr el-Cheik" languages="French">Kafr el-Cheik</name>
+		<name normalized="Kafr el-Sheikh" languages="Danish;English;Italian;Portuguese;Scots;Swedish;Vietnamese;Waray">Kafr el-Sheikh</name>
+		<name normalized="Kafr el-Sheikh Governorate" languages="English">Kafr el-Sheikh Governorate</name>
+		<name normalized="Kafr el-Sheikh Govrenorate" languages="Scots">Kafr el-Sheikh Govrenorate</name>
+		<name normalized="Kafr es Seichas" languages="Lithuanian">Kafr eš Šeichas</name>
+		<name normalized="Kafr es Seicho muchafaza" languages="Lithuanian">Kafr eš Šeicho muchafaza</name>
+		<name normalized="Kafru's-Seyh" languages="Turkish">Kafrü'ş-Şeyh</name>
+		<name normalized="Kegubernuran Kafr asy Syaykh" languages="Indonesian">Kegubernuran Kafr asy Syaykh</name>
+		<name normalized="Provinco Kafr as-Sejh" languages="Esperanto">Provinco Kafr aŝ-Ŝejĥ</name>
+		<name normalized="Kaфр iл Sijk" languages="Serbian">Кафр ел Шејх</name>
+		<name normalized="Kaфр is Sijk" languages="Serbian">Кафр еш Шејх</name>
+		<name normalized="Kaфр-is-Siйk" languages="Ukrainian">Кафр-еш-Шейх</name>
+		<name normalized="Kaфр-es-Siйk" languages="Kazakh;Russian">Кафр-эш-Шейх</name>
+		<name normalized="Kaфр-es-Seйk" languages="biлaрuсkai (taрaskivita)‎">Кафр-эш-Шэйх</name>
+		<name normalized="Kaфър iл-Siйk" languages="Bulgarian">Кафър ел-Шейх</name>
+		<name normalized="אسtאن کfrאلشیخ" languages="Persian">استان کفرالشیخ</name>
+		<name normalized="sوbہ کfrאلشیخ" languages="Western Punjabi">صوبہ کفرالشیخ</name>
+		<name normalized="kfr אلشyخ" languages="Arabic;Egyptian Spoken Arabic">كفر الشيخ</name>
+		<name normalized="mhאfzة kfr אلشyخ" languages="Egyptian Spoken Arabic">محافظة كفر الشيخ</name>
+		<name normalized="کfr אلشیخ" languages="Persian">کفر الشیخ</name>
+		<name normalized="kp़्r al-sek़ muhाp़j़ाh" languages="Hindi">कफ़्र अल-शेख़ मुहाफ़ज़ाह</name>
+		<name normalized="คัฟเรลเชค" languages="Thai">คัฟเรลเชค</name>
+		<name normalized="ქაფრ-ელ-შაიხი" languages="Georgian">ქაფრ-ელ-შაიხი</name>
+		<name normalized="ქაფრ-ელ-შაიხის მუჰაფაზა" languages="Georgian">ქაფრ-ელ-შაიხის მუჰაფაზა</name>
+		<name normalized="khr・atsyih県" languages="Japanese">カフル・アッシャイフ県</name>
+		<name normalized="謝赫村" languages="Chinese">謝赫村</name>
+		<name normalized="謝赫村省" languages="Chinese">謝赫村省</name>
+		<name normalized="카프르엘셰이크" languages="Korean">카프르엘셰이크</name>
+		<name normalized="카프르엘셰이크 주" languages="Korean">카프르엘셰이크 주</name>
+	</region>
+	<region name="Matruh" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Gouvernement Matruh" languages="German">Gouvernement Matruh</name>
+		<name normalized="Gouvernorat de Marsa-Matruh" languages="French">Gouvernorat de Marsa-Matruh</name>
+		<name normalized="Governacio de Matruh" languages="Catalan">Governació de Matruh</name>
+		<name normalized="Governatorato di Matruh" languages="Italian">Governatorato di Matruh</name>
+		<name normalized="Kegubernuran Matruh" languages="Indonesian">Kegubernuran Matruh</name>
+		<name normalized="Matrouh Governorate" languages="English">Matrouh Governorate</name>
+		<name normalized="Matruh" languages="Danish;Dutch;English;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Turkish;Waray">Matruh</name>
+		<name normalized="Matruh Governorate" languages="English;official">Matruh Governorate</name>
+		<name normalized="Matruh Govrenorate" languages="Scots">Matruh Govrenorate</name>
+		<name normalized="Matruh Muhafazat" languages="English;official">Matruh Muhafazat</name>
+		<name normalized="Matruho muchafaza" languages="Lithuanian">Matruho muchafaza</name>
+		<name normalized="Matru" languages="Spanish">Matrú</name>
+		<name normalized="Matruh" languages="Czech">Matrúh</name>
+		<name normalized="Matruh" languages="Latin">Matrūh</name>
+		<name normalized="Mersa Matruh" languages="Swedish">Mersa Matruh</name>
+		<name normalized="Mkoa wa Matruh" languages="Swahili">Mkoa wa Matruh</name>
+		<name normalized="Provinco Matruh" languages="Esperanto">Provinco Matruh</name>
+		<name normalized="Мatрug" languages="biлaрuсkai (taрaskivita)‎">Матруг</name>
+		<name normalized="Мatрuk" languages="Bulgarian;Russian;Serbian;Ukrainian">Матрух</name>
+		<name normalized="אسtאن mtrوh" languages="Persian">استان مطروح</name>
+		<name normalized="sوbہ mtrوh" languages="Western Punjabi">صوبہ مطروح</name>
+		<name normalized="mhאfzة mtrوh" languages="Egyptian Spoken Arabic">محافظة مطروح</name>
+		<name normalized="mtrوh" languages="Arabic">مطروح</name>
+		<name normalized="mt्ruh muhाp़j़ाh" languages="Hindi">मत्रूह मुहाफ़ज़ाह</name>
+		<name normalized="მატრუჰი" languages="Georgian">მატრუჰი</name>
+		<name normalized="მატრუჰის მუჰაფაზა" languages="Georgian">მატრუჰის მუჰაფაზა</name>
+		<name normalized="mtrーh県" languages="Japanese">マトルーフ県</name>
+		<name normalized="馬特魯省" languages="Chinese">馬特魯省</name>
+		<name normalized="마트루 주" languages="Korean">마트루 주</name>
+	</region>
+	<region name="Qina" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Gouvernement Qina" languages="German">Gouvernement Qina</name>
+		<name normalized="Gouvernorat de Qena" languages="French">Gouvernorat de Qena</name>
+		<name normalized="Governacio de Qena" languages="Catalan">Governació de Qena</name>
+		<name normalized="Governatorato di Qena" languages="Italian">Governatorato di Qena</name>
+		<name normalized="Guvernoratul Qena" languages="Romanian">Guvernoratul Qena</name>
+		<name normalized="Kegubernuran Qina" languages="Indonesian">Kegubernuran Qina</name>
+		<name normalized="Kena" languages="Lithuanian">Kena</name>
+		<name normalized="Kenos muchafaza" languages="Lithuanian">Kenos muchafaza</name>
+		<name normalized="Kena" languages="Czech">Kená</name>
+		<name normalized="Kina" languages="Polish;Turkish">Kina</name>
+		<name normalized="Mkoa wa Qena" languages="Swahili">Mkoa wa Qena</name>
+		<name normalized="Provinco Kina" languages="Esperanto">Provinco Kina</name>
+		<name normalized="Qena" languages="Catalan;English;French;Irish;Italian;Scots;Swedish;Waray">Qena</name>
+		<name normalized="Qena Governorate" languages="English">Qena Governorate</name>
+		<name normalized="Qena Govrenorate" languages="Scots">Qena Govrenorate</name>
+		<name normalized="Qina" languages="Basque;Danish;Dutch;English;Finnish;German;Norwegian (bokmal);official;Portuguese;Romanian">Qina</name>
+		<name normalized="Qina Governorate" languages="English;official">Qina Governorate</name>
+		<name normalized="Qina Muhafazat" languages="English;official">Qina Muhafazat</name>
+		<name normalized="Qina" languages="Estonian;Latin">Qinā</name>
+		<name normalized="Qina kubernerkond" languages="Estonian">Qinā kubernerkond</name>
+		<name normalized="Quena" languages="Spanish">Quena</name>
+		<name normalized="Goрad Kiнa" languages="Belarusian">Горад Кена</name>
+		<name normalized="Kiнa" languages="Bulgarian;Russian;Serbian;Ukrainian;biлaрuсkai (taрaskivita)‎">Кена</name>
+		<name normalized="אسtאن qنא" languages="Persian">استان قنا</name>
+		<name normalized="sوbہ qنא" languages="Western Punjabi">صوبہ قنا</name>
+		<name normalized="qنא" languages="Arabic;Egyptian Spoken Arabic;Persian">قنا</name>
+		<name normalized="mhאfzة qنא" languages="Egyptian Spoken Arabic">محافظة قنا</name>
+		<name normalized="k़enा muhाp़j़ाh" languages="Hindi">क़ेना मुहाफ़ज़ाह</name>
+		<name normalized="კენა" languages="Georgian">კენა</name>
+		<name normalized="კენის მუჰაფაზა" languages="Georgian">კენის მუჰაფაზა</name>
+		<name normalized="kn" languages="Japanese">ケナ</name>
+		<name normalized="kn県" languages="Japanese">ケナ県</name>
+		<name normalized="基納" languages="Chinese">基納</name>
+		<name normalized="基納省" languages="Chinese">基納省</name>
+		<name normalized="케나" languages="Korean">케나</name>
+		<name normalized="케나 주" languages="Korean">케나 주</name>
+	</region>
+	<region name="Shamal Sina'" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Amihanan nga Sinai" languages="Waray">Amihanan nga Sinai</name>
+		<name normalized="Ban dao Sinai" languages="Vietnamese">Bán đảo Sinai</name>
+		<name normalized="Gouvernement Schimal Sina" languages="German">Gouvernement Schimal Sina</name>
+		<name normalized="Gouvernorat du Sinai Nord" languages="French">Gouvernorat du Sinaï Nord</name>
+		<name normalized="Governacio del Sinai del Nord" languages="Catalan">Governació del Sinaí del Nord</name>
+		<name normalized="Governatorato del Sinai del Nord" languages="Italian">Governatorato del Sinai del Nord</name>
+		<name normalized="Kegubernuran Syamal Sina'" languages="Indonesian">Kegubernuran Syamal Sina'</name>
+		<name normalized="Kuzey Sina" languages="Turkish">Kuzey Sina</name>
+		<name normalized="Leithinis Sionai" languages="Irish">Leithinis Síonáí</name>
+		<name normalized="Lieh-innys Sinai" languages="Manx">Lieh-innys Sinai</name>
+		<name normalized="Mkoa wa Sinai Kaskazini" languages="Swahili">Mkoa wa Sinai Kaskazini</name>
+		<name normalized="Noordelijke Sinai" languages="Dutch">Noordelijke Sinaï</name>
+		<name normalized="North Sinai" languages="English;official">North Sinai</name>
+		<name normalized="North Sinai Governorate" languages="English;official">North Sinai Governorate</name>
+		<name normalized="North Sinai Govrenorate" languages="Scots">North Sinai Govrenorate</name>
+		<name normalized="North Sinai Muhafazat" languages="English;official">North Sinai Muhafazat</name>
+		<name normalized="Nivgirava Sina" languages="Kurdish">Nîvgirava Sîna</name>
+		<name normalized="Paeninsula Sinaitica" languages="Latin">Paeninsula Sinaitica</name>
+		<name normalized="Peninsula d'o Sinai" languages="Aragonese">Peninsula d'o Sinai</name>
+		<name normalized="Peninsula Sinai" languages="Romanian">Peninsula Sinai</name>
+		<name normalized="Penisola del Sinai" languages="Italian">Penisola del Sinai</name>
+		<name normalized="Peninsula del Sinai" languages="Catalan;Spanish">Península del Sinaí</name>
+		<name normalized="Peninsula do Sinai" languages="Galician">Península do Sinaí</name>
+		<name normalized="Provinco Norda Sinajo" languages="Esperanto">Provinco Norda Sinajo</name>
+		<name normalized="Pohja-Siinai kubernerkond" languages="Estonian">Põhja-Siinai kubernerkond</name>
+		<name normalized="Rasi ya Sinai" languages="Swahili">Rasi ya Sinai</name>
+		<name normalized="Se-nai Poan-to" languages="Chinese (Min Nan)">Se-nái Poàn-tó</name>
+		<name normalized="Semenanjung Sinai" languages="Indonesian;Javanese;Malay">Semenanjung Sinai</name>
+		<name normalized="Severni Sinaj" languages="Czech">Severní Sinaj</name>
+		<name normalized="Shamal Sina" languages="English;official">Shamal Sina</name>
+		<name normalized="Shamal Sina Governorate" languages="English;official">Shamal Sina Governorate</name>
+		<name normalized="Shamal Sina Muhafazat" languages="English;official">Shamal Sina Muhafazat</name>
+		<name normalized="Shamal Sina'" languages="Danish;English;Norwegian (bokmal);official;Romanian">Shamal Sina'</name>
+		<name normalized="Shamal Sina' Governorate" languages="English;official">Shamal Sina' Governorate</name>
+		<name normalized="Shamal Sina' Muhafazat" languages="English;official">Shamal Sina' Muhafazat</name>
+		<name normalized="Siinaa" languages="Somali">Siinaa</name>
+		<name normalized="Siinai" languages="Finnish">Siinai</name>
+		<name normalized="Siinai poolsaar" languages="Estonian">Siinai poolsaar</name>
+		<name normalized="Sina ash-Shamaliyya" languages="Swedish">Sina ash-Shamaliyya</name>
+		<name normalized="Sina Yarımadası" languages="Turkish">Sina Yarımadası</name>
+		<name normalized="Sinai" languages="Afrikaans;Basque;Breton;English;Ido;Ladino;Occitan;official;Portuguese;Sicilian;Welsh">Sinai</name>
+		<name normalized="Sinai do Norte" languages="Portuguese">Sinai do Norte</name>
+		<name normalized="Sinai Governorate" languages="English;official">Sinai Governorate</name>
+		<name normalized="Sinai Muhafazat" languages="English;official">Sinai Muhafazat</name>
+		<name normalized="Sinai Peninsula" languages="English;Simple English">Sinai Peninsula</name>
+		<name normalized="Sinai Septentrionalis" languages="Latin">Sinai Septentrionalis</name>
+		<name normalized="Sinai-Halbinsel" languages="German">Sinai-Halbinsel</name>
+		<name normalized="Sinai-halvoen" languages="Danish">Sinai-halvøen</name>
+		<name normalized="Sinaihalvon" languages="Swedish">Sinaihalvön</name>
+		<name normalized="Sinaihalvoya" languages="Norwegian (bokmal);Norwegian Nynorsk">Sinaihalvøya</name>
+		<name normalized="Sinaj" languages="Bosnian;Serbo-Croatian;Slovenian">Sinaj</name>
+		<name normalized="Sinajaus pusiasalis" languages="Lithuanian">Sinajaus pusiasalis</name>
+		<name normalized="Sinajo" languages="Esperanto">Sinajo</name>
+		<name normalized="Sinajski poluotok" languages="Croatian">Sinajski poluotok</name>
+		<name normalized="Sinajsky poloostrov" languages="Czech">Sinajský poloostrov</name>
+		<name normalized="Sinajsky polostrov" languages="Slovak">Sinajský polostrov</name>
+		<name normalized="Sinay yarımadası" languages="Azerbaijani">Sinay yarımadası</name>
+		<name normalized="Sinayi" languages="Cebuano">Sinayi</name>
+		<name normalized="Sinai" languages="Lingala">Sinaí</name>
+		<name normalized="Sinai del Norte" languages="Spanish">Sinaí del Norte</name>
+		<name normalized="Sinai" languages="Dutch;French;Western Frisian">Sinaï</name>
+		<name normalized="Synaj" languages="Polish">Synaj</name>
+		<name normalized="Synaj Polnocny" languages="Polish">Synaj Północny</name>
+		<name normalized="Sinai" languages="Piedmontese">Sìnai</name>
+		<name normalized="Sinai" languages="Yoruba">Sìnáì</name>
+		<name normalized="Sinai-felsziget" languages="Hungarian">Sínai-félsziget</name>
+		<name normalized="Sinaiskagi" languages="Icelandic">Sínaískagi</name>
+		<name normalized="Sinaja pussala" languages="Latvian">Sīnāja pussala</name>
+		<name normalized="Tangway ng Sinai" languages="Tagalog">Tangway ng Sinai</name>
+		<name normalized="Samal Sina'" languages="Finnish">Šamal Sina'</name>
+		<name normalized="Siaures Sinajaus muchafaza" languages="Lithuanian">Šiaurės Sinajaus muchafaza</name>
+		<name normalized="Χερσονησος του Σινα" languages="Greek">Χερσόνησος του Σινά</name>
+		<name normalized="Paўнocны Сынaй" languages="biлaрuсkai (taрaskivita)‎">Паўночны Сынай</name>
+		<name normalized="Pivнicнiй Сiнaй" languages="Ukrainian">Північний Синай</name>
+		<name normalized="Сiviрiн Сiнaй" languages="Bulgarian">Северен Синай</name>
+		<name normalized="Сiviрнi Сiнaj" languages="Serbian">Северни Синај</name>
+		<name normalized="Сiviрный Сiнaй" languages="Russian">Северный Синай</name>
+		<name normalized="Сiнaй" languages="Bulgarian">Синай</name>
+		<name normalized="Сiнaй cuрutрave" languages="Chuvash">Синай çурутравĕ</name>
+		<name normalized="Сiнaй tүbigi" languages="Kazakh">Синай түбегі</name>
+		<name normalized="Сiнaйн koйg" languages="Mongolian">Синайн хойг</name>
+		<name normalized="Сiнaйсkiй poлuoсtрov" languages="Russian">Синайский полуостров</name>
+		<name normalized="Сiнaйсьkiй pivoсtрiv" languages="Ukrainian">Синайський півострів</name>
+		<name normalized="Сiнajсko poлuoсtрvo" languages="Serbian">Синајско полуострво</name>
+		<name normalized="Сынaйсki paўvoсtрaў" languages="biлaрuсkai (taрaskivita)‎">Сынайскі паўвостраў</name>
+		<name normalized="Сiнaйсki paўvoсtрaў" languages="Belarusian">Сінайскі паўвостраў</name>
+		<name normalized="Sինայի tեrաkղzի" languages="Armenian">Սինայի թերակղզի</name>
+		<name normalized="סיnי" languages="Hebrew">סיני</name>
+		<name normalized="צpvן סיnי" languages="Hebrew">צפון סיני</name>
+		<name normalized="אسtאن سینאی شmאلی" languages="Persian">استان سینای شمالی</name>
+		<name normalized="jزیrہ نmא سینא" languages="Urdu;Western Punjabi">جزیرہ نما سینا</name>
+		<name normalized="سyنא" languages="Egyptian Spoken Arabic">سينا</name>
+		<name normalized="سyنאء" languages="Arabic">سيناء</name>
+		<name normalized="شbh‌jزیrh سینא" languages="Persian">شبه‌جزیره سینا</name>
+		<name normalized="شmאل سyنאء" languages="Arabic">شمال سيناء</name>
+		<name normalized="sوbہ אtلא سینאئی" languages="Western Punjabi">صوبہ اتلا سینائی</name>
+		<name normalized="mhאfzة شmאل سyنא" languages="Egyptian Spoken Arabic">محافظة شمال سينا</name>
+		<name normalized="ܣܝܢܝ" languages="Aramaic">ܣܝܢܝ</name>
+		<name normalized="ut्tr sinाi muhाp़j़ाh" languages="Hindi">उत्तर सीनाई मुहाफ़ज़ाह</name>
+		<name normalized="sinाi d्vipkl्p" languages="Marathi">सिनाई द्वीपकल्प</name>
+		<name normalized="sinाi p्rाyd्vip" languages="Hindi">सीनाई प्रायद्वीप</name>
+		<name normalized="sinাi upd্bip" languages="Bengali">সিনাই উপদ্বীপ</name>
+		<name normalized="சினாய் தீபகற்பம்" languages="Tamil">சினாய் தீபகற்பம்</name>
+		<name normalized="സീനായ്‌ ഉപദ്വീപ്" languages="Malayalam">സീനായ്‌ ഉപദ്വീപ്</name>
+		<name normalized="සීනායි අර්ධද්වීපය" languages="Sinhala">සීනායි අර්ධද්වීපය</name>
+		<name normalized="คาบสมุทรไซนาย" languages="Thai">คาบสมุทรไซนาย</name>
+		<name normalized="სინის ნახევარკუნძული" languages="Georgian">სინის ნახევარკუნძული</name>
+		<name normalized="ჩრდილოეთ სინაის მუჰაფაზა" languages="Georgian">ჩრდილოეთ სინაის მუჰაფაზა</name>
+		<name normalized="sni半島" languages="Japanese">シナイ半島</name>
+		<name normalized="北sni県" languages="Japanese">北シナイ県</name>
+		<name normalized="北西奈省" languages="Chinese">北西奈省</name>
+		<name normalized="西奈半島" languages="Chinese">西奈半島</name>
+		<name normalized="샤말시나 주" languages="Korean">샤말시나 주</name>
+		<name normalized="시나이 반도" languages="Korean">시나이 반도</name>
+	</region>
+	<region name="Suhaj" type="governorate" typeTranslated="muhafazat">
+		<name normalized="Gouvernement Sauhadsch" languages="German">Gouvernement Sauhadsch</name>
+		<name normalized="Gouvernorat de Sohag" languages="French">Gouvernorat de Sohag</name>
+		<name normalized="Governacio de Sohag" languages="Catalan">Governació de Sohag</name>
+		<name normalized="Governatorato di Sohag" languages="Italian">Governatorato di Sohag</name>
+		<name normalized="Guvernoratul Sohag" languages="Romanian">Guvernoratul Sohag</name>
+		<name normalized="Kegubernuran Suhaj" languages="Indonesian">Kegubernuran Suhaj</name>
+		<name normalized="Mkoa wa Sohag" languages="Swahili">Mkoa wa Sohag</name>
+		<name normalized="Provinco Sauhag" languages="Esperanto">Provinco Saŭhaĝ</name>
+		<name normalized="Sauhadz" languages="Polish">Sauhadż</name>
+		<name normalized="Sawhadz" languages="Slovak">Sawhádž</name>
+		<name normalized="Sawhag" languages="Latin">Sawhāǧ</name>
+		<name normalized="Sevhac" languages="Turkish">Sevhac</name>
+		<name normalized="Sohag" languages="Danish;English;French;German;Irish;Italian;Portuguese;Scots;Swedish;Vietnamese;Waray">Sohag</name>
+		<name normalized="Sohag Governorate" languages="English">Sohag Governorate</name>
+		<name normalized="Sohag Govrenorate" languages="Scots">Sohag Govrenorate</name>
+		<name normalized="Sohagas" languages="Lithuanian">Sohagas</name>
+		<name normalized="Sohago muchafaza" languages="Lithuanian">Sohago muchafaza</name>
+		<name normalized="Suhag" languages="Czech;Spanish">Suhag</name>
+		<name normalized="Suhaj" languages="Dutch;English;Finnish;Malay;Norwegian (bokmal);official;Romanian">Suhaj</name>
+		<name normalized="Suhaj Governorate" languages="English;official">Suhaj Governorate</name>
+		<name normalized="Suhaj Muhafazat" languages="English;official">Suhaj Muhafazat</name>
+		<name normalized="Сagag" languages="biлaрuсkai (taрaskivita)‎">Сагаг</name>
+		<name normalized="Сogaґ" languages="Ukrainian">Согаґ</name>
+		<name normalized="Сokag" languages="Russian;Serbian">Сохаг</name>
+		<name normalized="Сukadz" languages="Bulgarian">Сухадж</name>
+		<name normalized="אسtאن سوhאj" languages="Persian">استان سوهاج</name>
+		<name normalized="سوhאj" languages="Arabic;Egyptian Spoken Arabic;Persian">سوهاج</name>
+		<name normalized="sوbہ سوہאj" languages="Western Punjabi">صوبہ سوہاج</name>
+		<name normalized="mhאfzة سوhאj" languages="Egyptian Spoken Arabic">محافظة سوهاج</name>
+		<name normalized="sohाg muhाp़j़ाh" languages="Hindi">सोहाग मुहाफ़ज़ाह</name>
+		<name normalized="სუჰაგი" languages="Georgian">სუჰაგი</name>
+		<name normalized="სუჰაგის მუჰაფაზა" languages="Georgian">სუჰაგის მუჰაფაზა</name>
+		<name normalized="shーg県" languages="Japanese">ソハーグ県</name>
+		<name normalized="索哈傑" languages="Chinese">索哈傑</name>
+		<name normalized="索哈傑省" languages="Chinese">索哈傑省</name>
+		<name normalized="소하그" languages="Korean">소하그</name>
+		<name normalized="소하그 주" languages="Korean">소하그 주</name>
+	</region>
+</regions>

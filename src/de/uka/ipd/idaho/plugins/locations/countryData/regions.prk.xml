@@ -1,0 +1,389 @@
+<regions country="Korea, North">
+	<region name="Chagang-do" type="province" typeTranslated="do">
+		<name normalized="Chagang" languages="Danish;English;Finnish;Indonesian;Italian;Kashubian;Low German;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish;Vietnamese">Chagang</name>
+		<name normalized="Chagang Do" languages="English;official">Chagang Do</name>
+		<name normalized="Chagang Province" languages="English;official">Chagang Province</name>
+		<name normalized="Chagang-do" languages="Dutch;English;German;official;Scots">Chagang-do</name>
+		<name normalized="Chagang-do Do" languages="English;official">Chagang-do Do</name>
+		<name normalized="Chagang-do Province" languages="English;official">Chagang-do Province</name>
+		<name normalized="Csagang" languages="Hungarian">Csagang</name>
+		<name normalized="Jagang" languages="Achinese;French">Jagang</name>
+		<name normalized="Cagang" languages="Esperanto">Ĉagang</name>
+		<name normalized="Cagang" languages="Czech">Čagang</name>
+		<name normalized="Cagango provincija" languages="Lithuanian">Čagango provincija</name>
+		<name normalized="Pрoviнtii Cagaн" languages="Ukrainian">Провінція Чаган</name>
+		<name normalized="Cagaн" languages="Bulgarian">Чаган</name>
+		<name normalized="Cagaн-du" languages="Mongolian">Чаган-ду</name>
+		<name normalized="Cagaнdo" languages="Russian">Чагандо</name>
+		<name normalized="چאgאنg" languages="Persian;Western Punjabi">چاگانگ</name>
+		<name normalized="慈江" languages="Cantonese">慈江</name>
+		<name normalized="慈江道" languages="Chinese;Japanese">慈江道</name>
+		<name normalized="자강도" languages="Korean">자강도</name>
+	</region>
+	<region name="Hamgyong-bukto" type="province" typeTranslated="do">
+		<name normalized="Hamgyeong Utara" languages="Achinese">Hamgyeong Utara</name>
+		<name normalized="Hamgyeong-do" languages="German">Hamgyeong-do</name>
+		<name normalized="Hamgyong" languages="English;French;Norwegian (bokmal);official;Spanish;Vietnamese">Hamgyong</name>
+		<name normalized="Hamgyong Bac" languages="Vietnamese">Hamgyong Bắc</name>
+		<name normalized="Hamgyong Do" languages="English;official">Hamgyong Do</name>
+		<name normalized="Hamgyong du Nord" languages="French">Hamgyong du Nord</name>
+		<name normalized="Hamgyong Norte" languages="Portuguese">Hamgyong Norte</name>
+		<name normalized="Hamgyong Province" languages="English;official">Hamgyong Province</name>
+		<name normalized="Hamgyong Utara" languages="Indonesian">Hamgyong Utara</name>
+		<name normalized="Hamgyong-bukto" languages="English;official">Hamgyong-bukto</name>
+		<name normalized="Hamgyong-bukto Do" languages="English;official">Hamgyong-bukto Do</name>
+		<name normalized="Hamgyong-bukto Province" languages="English;official">Hamgyong-bukto Province</name>
+		<name normalized="Hamgyongbuk-do" languages="Scots">Hamgyongbuk-do</name>
+		<name normalized="Hamgyong del Norte" languages="Spanish">Hamgyŏng del Norte</name>
+		<name normalized="Hamgyong Polnocny" languages="Polish">Hamgyŏng Północny</name>
+		<name normalized="Hamgyong-pukto" languages="Dutch;German">Hamgyŏng-pukto</name>
+		<name normalized="Noord-Hamgyong" languages="Low German">Noord-Hamgyong</name>
+		<name normalized="Nord Hamgyong" languages="Italian">Nord Hamgyong</name>
+		<name normalized="Nord-Hamgjong" languages="Esperanto">Nord-Hamgjong</name>
+		<name normalized="Nord-Hamgyong" languages="Danish;Norwegian (bokmal)">Nord-Hamgyong</name>
+		<name normalized="Norra Hamgyong" languages="Swedish">Norra Hamgyong</name>
+		<name normalized="North Hamgyong" languages="English;official">North Hamgyong</name>
+		<name normalized="North Hamgyong Do" languages="English;official">North Hamgyong Do</name>
+		<name normalized="North Hamgyong Province" languages="English;official">North Hamgyong Province</name>
+		<name normalized="Pohjois-Hamgyong" languages="Finnish">Pohjois-Hamgyŏng</name>
+		<name normalized="Severni Hamgjong" languages="Czech">Severní Hamgjong</name>
+		<name normalized="Eszak-Hamgjong" languages="Hungarian">Észak-Hamgjong</name>
+		<name normalized="Siaures Hamgiongo provincija" languages="Lithuanian">Šiaurės Hamgiongo provincija</name>
+		<name normalized="Pрoviнtii Kaмgьoн" languages="Ukrainian">Провінція Хамгьон</name>
+		<name normalized="Pivнicнa pрoviнtii Kaмgьoн" languages="Ukrainian">Північна провінція Хамгьон</name>
+		<name normalized="Сiviрiн Kaмgьoн" languages="Bulgarian">Северен Хамгьон</name>
+		<name normalized="Uмaр Kaмgён" languages="Mongolian">Умар Хамгён</name>
+		<name normalized="Kaмgён-Pukto" languages="Russian">Хамгён-Пукто</name>
+		<name normalized="Kaмgёнdo" languages="Russian">Хамгёндо</name>
+		<name normalized="אtلא ہאmgیونg" languages="Western Punjabi">اتلا ہامگیونگ</name>
+		<name normalized="咸鏡北道" languages="Japanese">咸鏡北道</name>
+		<name normalized="咸鏡道" languages="Japanese">咸鏡道</name>
+		<name normalized="咸镜北道" languages="Chinese">咸镜北道</name>
+		<name normalized="咸镜道" languages="Chinese">咸镜道</name>
+		<name normalized="함경도" languages="Korean">함경도</name>
+		<name normalized="함경북도" languages="Korean">함경북도</name>
+	</region>
+	<region name="Hamgyong-namdo" type="province" typeTranslated="do">
+		<name normalized="Del-Hamgjong" languages="Hungarian">Dél-Hamgjong</name>
+		<name normalized="Etela-Hamgyong" languages="Finnish">Etelä-Hamgyŏng</name>
+		<name normalized="Hamgyeong Seulatan" languages="Achinese">Hamgyeong Seulatan</name>
+		<name normalized="Hamgyeong-do" languages="German">Hamgyeong-do</name>
+		<name normalized="Hamgyong" languages="English;French;Norwegian (bokmal);official;Spanish;Vietnamese">Hamgyong</name>
+		<name normalized="Hamgyong Do" languages="English;official">Hamgyong Do</name>
+		<name normalized="Hamgyong du Sud" languages="French">Hamgyong du Sud</name>
+		<name normalized="Hamgyong Nam" languages="Vietnamese">Hamgyong Nam</name>
+		<name normalized="Hamgyong Province" languages="English;official">Hamgyong Province</name>
+		<name normalized="Hamgyong Selatan" languages="Indonesian">Hamgyong Selatan</name>
+		<name normalized="Hamgyong Sul" languages="Portuguese">Hamgyong Sul</name>
+		<name normalized="Hamgyong-namdo" languages="English;official">Hamgyong-namdo</name>
+		<name normalized="Hamgyong-namdo Do" languages="English;official">Hamgyong-namdo Do</name>
+		<name normalized="Hamgyong-namdo Province" languages="English;official">Hamgyong-namdo Province</name>
+		<name normalized="Hamgyongnam-do" languages="Scots">Hamgyongnam-do</name>
+		<name normalized="Hamgyong del Sur" languages="Spanish">Hamgyŏng del Sur</name>
+		<name normalized="Hamgyong Poludniowy" languages="Polish">Hamgyŏng Południowy</name>
+		<name normalized="Hamgyong-namdo" languages="Dutch;German">Hamgyŏng-namdo</name>
+		<name normalized="Jizni Hamgjong" languages="Czech">Jižní Hamgjong</name>
+		<name normalized="Pietu Hamgiongo provincija" languages="Lithuanian">Pietų Hamgiongo provincija</name>
+		<name normalized="South Hamgyong" languages="English;official">South Hamgyong</name>
+		<name normalized="South Hamgyong Do" languages="English;official">South Hamgyong Do</name>
+		<name normalized="South Hamgyong Province" languages="English;official">South Hamgyong Province</name>
+		<name normalized="Sud Hamgyong" languages="Italian">Sud Hamgyong</name>
+		<name normalized="Sud-Hamgjong" languages="Esperanto">Sud-Hamgjong</name>
+		<name normalized="Syd-Hamgyong" languages="Danish">Syd-Hamgyong</name>
+		<name normalized="Sodra Hamgyong" languages="Swedish">Södra Hamgyong</name>
+		<name normalized="Sor-Hamgyong" languages="Norwegian (bokmal)">Sør-Hamgyong</name>
+		<name normalized="Suud-Hamgyong" languages="Low German">Süüd-Hamgyong</name>
+		<name normalized="Pрoviнtii Kaмgьoн" languages="Ukrainian">Провінція Хамгьон</name>
+		<name normalized="Pivdiннa pрoviнtii Kaмgьoн" languages="Ukrainian">Південна провінція Хамгьон</name>
+		<name normalized="Kaмgён-Нaмdo" languages="Russian">Хамгён-Намдо</name>
+		<name normalized="Kaмgёнdo" languages="Russian">Хамгёндо</name>
+		<name normalized="Юziн Kaмgьoн" languages="Bulgarian">Южен Хамгьон</name>
+		<name normalized="Өмнɵ Kaмgён" languages="Mongolian">Өмнө Хамгён</name>
+		<name normalized="tھلوאں ہאmgیونg" languages="Western Punjabi">تھلواں ہامگیونگ</name>
+		<name normalized="咸鏡南道" languages="Classical Chinese;Japanese">咸鏡南道</name>
+		<name normalized="咸鏡道" languages="Japanese">咸鏡道</name>
+		<name normalized="咸镜南道" languages="Chinese">咸镜南道</name>
+		<name normalized="咸镜道" languages="Chinese">咸镜道</name>
+		<name normalized="함경남도" languages="Korean">함경남도</name>
+		<name normalized="함경도" languages="Korean">함경도</name>
+	</region>
+	<region name="Hwanghae-bukto" type="province" typeTranslated="do">
+		<name normalized="Hwanghae" languages="English;French;Indonesian;Norwegian (bokmal);official;Spanish;Vietnamese">Hwanghae</name>
+		<name normalized="Hwanghae Bac" languages="Vietnamese">Hwanghae Bắc</name>
+		<name normalized="Hwanghae del Norte" languages="Spanish">Hwanghae del Norte</name>
+		<name normalized="Hwanghae Do" languages="English;official">Hwanghae Do</name>
+		<name normalized="Hwanghae du Nord" languages="French">Hwanghae du Nord</name>
+		<name normalized="Hwanghae Norte" languages="Portuguese">Hwanghae Norte</name>
+		<name normalized="Hwanghae Province" languages="English;official">Hwanghae Province</name>
+		<name normalized="Hwanghae Polnocne" languages="Polish">Hwanghae Północne</name>
+		<name normalized="Hwanghae Utara" languages="Achinese;Indonesian">Hwanghae Utara</name>
+		<name normalized="Hwanghae-bukto" languages="English;official">Hwanghae-bukto</name>
+		<name normalized="Hwanghae-bukto Do" languages="English;official">Hwanghae-bukto Do</name>
+		<name normalized="Hwanghae-bukto Province" languages="English;official">Hwanghae-bukto Province</name>
+		<name normalized="Hwanghae-do" languages="German">Hwanghae-do</name>
+		<name normalized="Hwanghae-pukto" languages="Dutch;German">Hwanghae-pukto</name>
+		<name normalized="Hwanghaebuk-do" languages="Scots">Hwanghaebuk-do</name>
+		<name normalized="Noord-Hwanghae" languages="Low German">Noord-Hwanghae</name>
+		<name normalized="Nord Hwanghae" languages="Italian">Nord Hwanghae</name>
+		<name normalized="Nord-Hwanghae" languages="Norwegian (bokmal)">Nord-Hwanghae</name>
+		<name normalized="Nord-Huanghae" languages="Esperanto">Nord-Hŭanghae</name>
+		<name normalized="Nordhwanghae" languages="Danish">Nordhwanghae</name>
+		<name normalized="Norra Hwanghae" languages="Swedish">Norra Hwanghae</name>
+		<name normalized="North Hwanghae" languages="English;official">North Hwanghae</name>
+		<name normalized="North Hwanghae Do" languages="English;official">North Hwanghae Do</name>
+		<name normalized="North Hwanghae Province" languages="English;official">North Hwanghae Province</name>
+		<name normalized="Pohjois-Hwanghae" languages="Finnish">Pohjois-Hwanghae</name>
+		<name normalized="Severni Hwanghe" languages="Czech">Severní Hwanghe</name>
+		<name normalized="Siaures Hvanghes provincija" languages="Lithuanian">Šiaurės Hvanghės provincija</name>
+		<name normalized="Pрoviнtii Kvaнki" languages="Ukrainian">Провінція Хванхе</name>
+		<name normalized="Pivнicнa pрoviнtii Kvaнki" languages="Ukrainian">Північна провінція Хванхе</name>
+		<name normalized="Сiviрiн Kvaнki" languages="Bulgarian">Северен Хванхе</name>
+		<name normalized="Uмaр Kuaнke" languages="Mongolian">Умар Хуанхэ</name>
+		<name normalized="Kvaнke-Pukto" languages="Russian">Хванхэ-Пукто</name>
+		<name normalized="Kvaнkedo" languages="Russian">Хванхэдо</name>
+		<name normalized="אtلא ہوאنgہے" languages="Western Punjabi">اتلا ہوانگہے</name>
+		<name normalized="黄海北道" languages="Chinese;Japanese">黄海北道</name>
+		<name normalized="黄海道" languages="Chinese;Japanese">黄海道</name>
+		<name normalized="황해도" languages="Korean">황해도</name>
+		<name normalized="황해북도" languages="Korean">황해북도</name>
+	</region>
+	<region name="Hwanghae-namdo" type="province" typeTranslated="do">
+		<name normalized="Etela-Hwanghae" languages="Finnish">Etelä-Hwanghae</name>
+		<name normalized="Hwanghae" languages="English;French;Indonesian;Norwegian (bokmal);official;Spanish;Vietnamese">Hwanghae</name>
+		<name normalized="Hwanghae del Sur" languages="Spanish">Hwanghae del Sur</name>
+		<name normalized="Hwanghae Do" languages="English;official">Hwanghae Do</name>
+		<name normalized="Hwanghae du Sud" languages="French">Hwanghae du Sud</name>
+		<name normalized="Hwanghae Nam" languages="Vietnamese">Hwanghae Nam</name>
+		<name normalized="Hwanghae Poludniowe" languages="Polish">Hwanghae Południowe</name>
+		<name normalized="Hwanghae Province" languages="English;official">Hwanghae Province</name>
+		<name normalized="Hwanghae Selatan" languages="Indonesian">Hwanghae Selatan</name>
+		<name normalized="Hwanghae Seulatan" languages="Achinese">Hwanghae Seulatan</name>
+		<name normalized="Hwanghae Sul" languages="Portuguese">Hwanghae Sul</name>
+		<name normalized="Hwanghae-do" languages="German">Hwanghae-do</name>
+		<name normalized="Hwanghae-namdo" languages="Dutch;English;German;official">Hwanghae-namdo</name>
+		<name normalized="Hwanghae-namdo Do" languages="English;official">Hwanghae-namdo Do</name>
+		<name normalized="Hwanghae-namdo Province" languages="English;official">Hwanghae-namdo Province</name>
+		<name normalized="Hwanghaenam-do" languages="Scots">Hwanghaenam-do</name>
+		<name normalized="Jizni Hwanghe" languages="Czech">Jižní Hwanghe</name>
+		<name normalized="Pietu Hvanghes provincija" languages="Lithuanian">Pietų Hvanghės provincija</name>
+		<name normalized="South Hwanghae" languages="English;official">South Hwanghae</name>
+		<name normalized="South Hwanghae Do" languages="English;official">South Hwanghae Do</name>
+		<name normalized="South Hwanghae Province" languages="English;official">South Hwanghae Province</name>
+		<name normalized="Sud Hwanghae" languages="Italian">Sud Hwanghae</name>
+		<name normalized="Sud-Huanghae" languages="Esperanto">Sud-Hŭanghae</name>
+		<name normalized="Sydhwanghae" languages="Danish">Sydhwanghae</name>
+		<name normalized="Sodra Hwanghae" languages="Swedish">Södra Hwanghae</name>
+		<name normalized="Sor-Hwanghae" languages="Norwegian (bokmal)">Sør-Hwanghae</name>
+		<name normalized="Suud-Hwanghae" languages="Low German">Süüd-Hwanghae</name>
+		<name normalized="Pрoviнtii Kvaнki" languages="Ukrainian">Провінція Хванхе</name>
+		<name normalized="Pivdiннa pрoviнtii Kvaнki" languages="Ukrainian">Південна провінція Хванхе</name>
+		<name normalized="Kvaнke-Нaмdo" languages="Russian">Хванхэ-Намдо</name>
+		<name normalized="Kvaнkedo" languages="Russian">Хванхэдо</name>
+		<name normalized="Юziн Kvaнki" languages="Bulgarian">Южен Хванхе</name>
+		<name normalized="Өмнɵ Kuaнke" languages="Mongolian">Өмнө Хуанхэ</name>
+		<name normalized="tھلوאں ہوאنgہے" languages="Western Punjabi">تھلواں ہوانگہے</name>
+		<name normalized="黄海南道" languages="Chinese;Japanese">黄海南道</name>
+		<name normalized="黄海道" languages="Chinese;Japanese">黄海道</name>
+		<name normalized="황해남도" languages="Korean">황해남도</name>
+		<name normalized="황해도" languages="Korean">황해도</name>
+	</region>
+	<region name="Kangwon-do" type="province" typeTranslated="do">
+		<name normalized="Gangwon" languages="English;Indonesian;Malay;Tagalog;Vietnamese">Gangwon</name>
+		<name normalized="Kangvon" languages="Hungarian">Kangvon</name>
+		<name normalized="Kangvonas" languages="Lithuanian">Kangvonas</name>
+		<name normalized="Kangwon" languages="English;official">Kangwon</name>
+		<name normalized="Kangwon Do" languages="English;official">Kangwon Do</name>
+		<name normalized="Kangwon Province" languages="English;official">Kangwon Province</name>
+		<name normalized="Kangwon-do" languages="English;official">Kangwon-do</name>
+		<name normalized="Kangwon-do Do" languages="English;official">Kangwon-do Do</name>
+		<name normalized="Kangwon-do Province" languages="English;official">Kangwon-do Province</name>
+		<name normalized="Kaнvoн" languages="Mongolian">Канвон</name>
+		<name normalized="Kaнvoнdo" languages="Russian">Канвондо</name>
+		<name normalized="江原道" languages="Japanese">江原道</name>
+		<name normalized="강원도" languages="Korean">강원도</name>
+	</region>
+	<region name="Nason-si" type="municipality" typeTranslated="si">
+		<name normalized="Nason-si" languages="English;official">Nason-si</name>
+	</region>
+	<region name="P'yongan-bukto" type="province" typeTranslated="do">
+		<name normalized="Noord-Pyongan" languages="Low German">Noord-Pyongan</name>
+		<name normalized="Nord Pyongan" languages="Italian">Nord Pyongan</name>
+		<name normalized="Nord-Pjongan" languages="Esperanto">Nord-Pjongan</name>
+		<name normalized="Nord-Pyongan" languages="Norwegian (bokmal)">Nord-Pyongan</name>
+		<name normalized="Nordpyongan" languages="Danish">Nordpyongan</name>
+		<name normalized="Norra P'yongan" languages="Swedish">Norra P'yŏngan</name>
+		<name normalized="North P'yongan" languages="English;official">North P'yongan</name>
+		<name normalized="North P'yongan Do" languages="English;official">North P'yongan Do</name>
+		<name normalized="North P'yongan Province" languages="English;official">North P'yongan Province</name>
+		<name normalized="North Pyongan" languages="English;official">North Pyongan</name>
+		<name normalized="North Pyongan Do" languages="English;official">North Pyongan Do</name>
+		<name normalized="North Pyongan Province" languages="English;official">North Pyongan Province</name>
+		<name normalized="P'yongan" languages="English;official">P'yongan</name>
+		<name normalized="P'yongan Do" languages="English;official">P'yongan Do</name>
+		<name normalized="P'yongan Province" languages="English;official">P'yongan Province</name>
+		<name normalized="P'yongan-bukto" languages="English;official">P'yongan-bukto</name>
+		<name normalized="P'yongan-bukto Do" languages="English;official">P'yongan-bukto Do</name>
+		<name normalized="P'yongan-bukto Province" languages="English;official">P'yongan-bukto Province</name>
+		<name normalized="P'yongan" languages="Finnish;Spanish;Swedish">P'yŏngan</name>
+		<name normalized="P'yongan del Norte" languages="Spanish">P'yŏngan del Norte</name>
+		<name normalized="P'yongan Polnocny" languages="Polish">P'yŏngan Północny</name>
+		<name normalized="P'yongan-pukto" languages="Dutch;German">P'yŏngan-pukto</name>
+		<name normalized="Pohjois-P'yongan" languages="Finnish">Pohjois-P'yŏngan</name>
+		<name normalized="Pyeong'an Utara" languages="Achinese">Pyeong'an Utara</name>
+		<name normalized="Pyeongan-do" languages="German">Pyeongan-do</name>
+		<name normalized="Pyongan" languages="English;French;Norwegian (bokmal);official;Vietnamese">Pyongan</name>
+		<name normalized="Pyongan Bac" languages="Vietnamese">Pyongan Bắc</name>
+		<name normalized="Pyongan Do" languages="English;official">Pyongan Do</name>
+		<name normalized="Pyongan du Nord" languages="French">Pyongan du Nord</name>
+		<name normalized="Pyongan Norte" languages="Portuguese">Pyongan Norte</name>
+		<name normalized="Pyongan Province" languages="English;official">Pyongan Province</name>
+		<name normalized="Pyongan Utara" languages="Indonesian">Pyongan Utara</name>
+		<name normalized="Pyongan-bukto" languages="English;official">Pyongan-bukto</name>
+		<name normalized="Pyongan-bukto Do" languages="English;official">Pyongan-bukto Do</name>
+		<name normalized="Pyongan-bukto Province" languages="English;official">Pyongan-bukto Province</name>
+		<name normalized="Pyonganbuk-do" languages="Scots">Pyonganbuk-do</name>
+		<name normalized="Severni Pchjongan" languages="Czech">Severní Pchjongan</name>
+		<name normalized="Eszak-Phjongan" languages="Hungarian">Észak-Phjongan</name>
+		<name normalized="Siaures Pchenjano provincija" languages="Lithuanian">Šiaurės Pchenjano provincija</name>
+		<name normalized="Pрoviнtii Pkьoнaн" languages="Ukrainian">Провінція Пхьонан</name>
+		<name normalized="Pkёнaн-Pukto" languages="Russian">Пхёнан-Пукто</name>
+		<name normalized="Pkёнaнdo" languages="Russian">Пхёнандо</name>
+		<name normalized="Pivнicнa pрoviнtii Pkьoнaн" languages="Ukrainian">Північна провінція Пхьонан</name>
+		<name normalized="Сiviрiн Pkьoнaн" languages="Bulgarian">Северен Пхьонан</name>
+		<name normalized="Uмaр Pёнъaнь" languages="Mongolian">Умар Пёнъань</name>
+		<name normalized="אtلא pیونgאن" languages="Western Punjabi">اتلا پیونگان</name>
+		<name normalized="จังหวัดพย็องอันเหนือ" languages="Thai">จังหวัดพย็องอันเหนือ</name>
+		<name normalized="平安北道" languages="Chinese;Japanese">平安北道</name>
+		<name normalized="平安道" languages="Chinese;Japanese">平安道</name>
+		<name normalized="평안도" languages="Korean">평안도</name>
+		<name normalized="평안북도" languages="Korean">평안북도</name>
+	</region>
+	<region name="P'yongan-namdo" type="province" typeTranslated="do">
+		<name normalized="Del-Phjongan" languages="Hungarian">Dél-Phjongan</name>
+		<name normalized="Etela-P'yongan" languages="Finnish">Etelä-P'yŏngan</name>
+		<name normalized="Jizni Pchjongan" languages="Czech">Jižní Pchjongan</name>
+		<name normalized="P'yongan" languages="English;official">P'yongan</name>
+		<name normalized="P'yongan Do" languages="English;official">P'yongan Do</name>
+		<name normalized="P'yongan Province" languages="English;official">P'yongan Province</name>
+		<name normalized="P'yongan-namdo" languages="English;official">P'yongan-namdo</name>
+		<name normalized="P'yongan-namdo Do" languages="English;official">P'yongan-namdo Do</name>
+		<name normalized="P'yongan-namdo Province" languages="English;official">P'yongan-namdo Province</name>
+		<name normalized="P'yongan" languages="Finnish;Spanish;Swedish">P'yŏngan</name>
+		<name normalized="P'yongan del Sur" languages="Spanish">P'yŏngan del Sur</name>
+		<name normalized="P'yongan Poludniowy" languages="Polish">P'yŏngan Południowy</name>
+		<name normalized="P'yongan-namdo" languages="Dutch;German">P'yŏngan-namdo</name>
+		<name normalized="Pietu Pchenjano provincija" languages="Lithuanian">Pietų Pchenjano provincija</name>
+		<name normalized="Pyeong'an Seulatan" languages="Achinese">Pyeong'an Seulatan</name>
+		<name normalized="Pyeongan-do" languages="German">Pyeongan-do</name>
+		<name normalized="Pyongan" languages="English;French;Norwegian (bokmal);official;Vietnamese">Pyongan</name>
+		<name normalized="Pyongan Do" languages="English;official">Pyongan Do</name>
+		<name normalized="Pyongan du Sud" languages="French">Pyongan du Sud</name>
+		<name normalized="Pyongan Nam" languages="Vietnamese">Pyongan Nam</name>
+		<name normalized="Pyongan Province" languages="English;official">Pyongan Province</name>
+		<name normalized="Pyongan Selatan" languages="Indonesian">Pyongan Selatan</name>
+		<name normalized="Pyongan Sul" languages="Portuguese">Pyongan Sul</name>
+		<name normalized="Pyongan-namdo" languages="English;official">Pyongan-namdo</name>
+		<name normalized="Pyongan-namdo Do" languages="English;official">Pyongan-namdo Do</name>
+		<name normalized="Pyongan-namdo Province" languages="English;official">Pyongan-namdo Province</name>
+		<name normalized="Pyongannam-do" languages="Scots">Pyongannam-do</name>
+		<name normalized="South P'yongan" languages="English;official">South P'yongan</name>
+		<name normalized="South P'yongan Do" languages="English;official">South P'yongan Do</name>
+		<name normalized="South P'yongan Province" languages="English;official">South P'yongan Province</name>
+		<name normalized="South Pyongan" languages="English;official">South Pyongan</name>
+		<name normalized="South Pyongan Do" languages="English;official">South Pyongan Do</name>
+		<name normalized="South Pyongan Province" languages="English;official">South Pyongan Province</name>
+		<name normalized="Sud Pyongan" languages="Italian">Sud Pyongan</name>
+		<name normalized="Sud-Pjongan" languages="Esperanto">Sud-Pjongan</name>
+		<name normalized="Sydpyongan" languages="Danish">Sydpyongan</name>
+		<name normalized="Sodra P'yongan" languages="Swedish">Södra P'yŏngan</name>
+		<name normalized="Sor-Pyongan" languages="Norwegian (bokmal)">Sør-Pyongan</name>
+		<name normalized="Suud-Pyongan" languages="Low German">Süüd-Pyongan</name>
+		<name normalized="Pрoviнtii Pkьoнaн" languages="Ukrainian">Провінція Пхьонан</name>
+		<name normalized="Pkёнaн-Нaмdo" languages="Russian">Пхёнан-Намдо</name>
+		<name normalized="Pkёнaнdo" languages="Russian">Пхёнандо</name>
+		<name normalized="Pivdiннa pрoviнtii Pkьoнaн" languages="Ukrainian">Південна провінція Пхьонан</name>
+		<name normalized="Юziн Pkьoнaн" languages="Bulgarian">Южен Пхьонан</name>
+		<name normalized="Өмнɵ Pёнъaнь" languages="Mongolian">Өмнө Пёнъань</name>
+		<name normalized="tھلوאں pیونgאن" languages="Western Punjabi">تھلواں پیونگان</name>
+		<name normalized="จังหวัดพย็องอันใต้" languages="Thai">จังหวัดพย็องอันใต้</name>
+		<name normalized="平安南道" languages="Chinese;Japanese">平安南道</name>
+		<name normalized="平安道" languages="Chinese;Japanese">平安道</name>
+		<name normalized="평안남도" languages="Korean">평안남도</name>
+		<name normalized="평안도" languages="Korean">평안도</name>
+	</region>
+	<region name="P'yongyang-si" type="municipality" typeTranslated="si">
+		<name normalized="Binh Nhuong" languages="Vietnamese">Bình Nhưỡng</name>
+		<name normalized="P'yongyang-si" languages="English;official">P'yongyang-si</name>
+		<name normalized="P'yongyang" languages="Kashubian;Welsh">P'yŏngyang</name>
+		<name normalized="Pchenjanas" languages="Lithuanian">Pchenjanas</name>
+		<name normalized="Pchenjans" languages="Samogitian">Pchenjans</name>
+		<name normalized="Pchjongjang" languages="Czech;Lower Sorbian;Slovak">Pchjongjang</name>
+		<name normalized="Phenian" languages="Romanian">Phenian</name>
+		<name normalized="Phenjan" languages="Hungarian">Phenjan</name>
+		<name normalized="Phenjana" languages="Latvian">Phenjana</name>
+		<name normalized="Piongiang" languages="Basque">Piongiang</name>
+		<name normalized="Pionyan" languages="Nahuatl">Pionyan</name>
+		<name normalized="Pionyang" languages="Spanish">Pionyang</name>
+		<name normalized="Pjongian" languages="Albanian">Pjongian</name>
+		<name normalized="Pjongjang" languages="Afrikaans;Bosnian;Croatian;Finnish;Icelandic;Polish;Serbo-Croatian;Slovenian">Pjongjang</name>
+		<name normalized="Pjongjango" languages="Esperanto">Pjongjango</name>
+		<name normalized="Pjongjang" languages="German;Low German;Luxembourgish">Pjöngjang</name>
+		<name normalized="Pxenyan" languages="Azerbaijani">Pxenyan</name>
+		<name normalized="Pyeongyang" languages="Achinese;Latin;Occitan">Pyeongyang</name>
+		<name normalized="Pyongyang" languages="Aragonese;Asturian;Breton;Catalan;Danish;Dutch;English;Estonian;Faroese;Fiji Hindi;French;Galician;Haitian;Ido;Iloko;Indonesian;Interlingue;Irish;Italian;Javanese;Kalaallisut;Kurdish;lumbaart;Malay;Maori;Neapolitan;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Piedmontese;Portuguese;Quechua;Scots;Scottish Gaelic;Shona;Sicilian;Simple English;Swahili;Swedish;Tagalog;Tok Pisin;Turkish;Uyghur;Waray;Western Frisian;Yoruba;Zazaki">Pyongyang</name>
+		<name normalized="Pyongyang-si" languages="English;official">Pyongyang-si</name>
+		<name normalized="Pyongyang" languages="Volapuk">Pyöngyang</name>
+		<name normalized="Peng-jiang Ti̍t-hat-chhi" languages="Chinese (Min Nan)">Pêng-jiáng Ti̍t-hat-chhī</name>
+		<name normalized="Πιονγιανγκ" languages="Greek">Πιονγιάνγκ</name>
+		<name normalized="Goрad Pkiньiн" languages="Belarusian">Горад Пхеньян</name>
+		<name normalized="Pkiньiн" languages="Chechen;Eastern Mari;Kazakh;Lezghian;Mongolian;Ossetic;Russian;Tatar;Ukrainian;biлaрuсkai (taрaskivita)‎">Пхеньян</name>
+		<name normalized="Pkiнiн" languages="Bulgarian">Пхенян</name>
+		<name normalized="Pёнъiн" languages="buрiad">Пёнъян</name>
+		<name normalized="Pjoнgjaнg" languages="Macedonian;Serbian">Пјонгјанг</name>
+		<name normalized="Փxենյան" languages="Armenian">Փխենյան</name>
+		<name normalized="pיאnגיאnג" languages="Yiddish">פיאנגיאנג</name>
+		<name normalized="pיvnגיאnג" languages="Hebrew">פיונגיאנג</name>
+		<name normalized="byونغyאنغ" languages="Arabic">بيونغيانغ</name>
+		<name normalized="pyونg yאنg" languages="Mazanderani">پيونگ يانگ</name>
+		<name normalized="pyونgyאنg" languages="Pashto">پيونگيانگ</name>
+		<name normalized="pیאنg یאنg" languages="Urdu;Western Punjabi">پیانگ یانگ</name>
+		<name normalized="pیونg‌یאنg" languages="Persian">پیونگ‌یانگ</name>
+		<name normalized="pیۆنgیאنg" languages="Sorani Kurdish">پیۆنگیانگ</name>
+		<name normalized="p्yाँgyांg" languages="Marathi">प्याँगयांग</name>
+		<name normalized="p्yoंgyांg" languages="Hindi">प्योंगयांग</name>
+		<name normalized="piy়ং iy়াং" languages="Bengali">পিয়ং ইয়াং</name>
+		<name normalized="piਓਂgyਾਂg" languages="Punjabi">ਪਿਓਂਗਯਾਂਗ</name>
+		<name normalized="பியொங்யாங்" languages="Tamil">பியொங்யாங்</name>
+		<name normalized="ಪ್ಯೊನ್ಗ್ಯಾಂಗ್" languages="Kannada">ಪ್ಯೊನ್ಗ್ಯಾಂಗ್</name>
+		<name normalized="เปียงยาง" languages="Thai">เปียงยาง</name>
+		<name normalized="ཕོང་ཡང་།" languages="Tibetan">ཕོང་ཡང་།</name>
+		<name normalized="ფხენიანი" languages="Georgian">ფხენიანი</name>
+		<name normalized="ፕዮንግያንግ" languages="Amharic">ፕዮንግያንግ</name>
+		<name normalized="平壌" languages="Japanese">平壌</name>
+		<name normalized="平壤" languages="Cantonese;Chinese">平壤</name>
+		<name normalized="平壤市" languages="Wu">平壤市</name>
+		<name normalized="平壤直轄市" languages="Classical Chinese">平壤直轄市</name>
+		<name normalized="평양직할시" languages="Korean">평양직할시</name>
+	</region>
+	<region name="Yanggang-do" type="province" typeTranslated="do">
+		<name normalized="Jangango provincija" languages="Lithuanian">Jangango provincija</name>
+		<name normalized="Rjanggang" languages="Czech;Esperanto">Rjanggang</name>
+		<name normalized="Ryanggang" languages="Achinese;Danish;Finnish;French;Indonesian;Italian;Low German;Norwegian (bokmal);Polish;Portuguese;Spanish;Swedish;Tagalog;Vietnamese">Ryanggang</name>
+		<name normalized="Ryanggang Province" languages="English">Ryanggang Province</name>
+		<name normalized="Ryanggang-do" languages="Dutch;German;Scots">Ryanggang-do</name>
+		<name normalized="Yanggang" languages="English;official">Yanggang</name>
+		<name normalized="Yanggang Do" languages="English;official">Yanggang Do</name>
+		<name normalized="Yanggang Province" languages="English;official">Yanggang Province</name>
+		<name normalized="Yanggang-do" languages="English;official">Yanggang-do</name>
+		<name normalized="Yanggang-do Do" languages="English;official">Yanggang-do Do</name>
+		<name normalized="Yanggang-do Province" languages="English;official">Yanggang-do Province</name>
+		<name normalized="Pрoviнtii Янgaн" languages="Ukrainian">Провінція Янган</name>
+		<name normalized="Рiнgaн" languages="Bulgarian">Рянган</name>
+		<name normalized="Янgaнdo" languages="Russian">Янгандо</name>
+		<name normalized="rیאنgکאنg" languages="Western Punjabi">ریانگکانگ</name>
+		<name normalized="riy়াংgাং" languages="Bengali">রিয়াংগাং</name>
+		<name normalized="両江道" languages="Japanese">両江道</name>
+		<name normalized="两江道" languages="Chinese">两江道</name>
+		<name normalized="량강도" languages="Korean">량강도</name>
+	</region>
+</regions>

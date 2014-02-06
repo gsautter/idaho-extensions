@@ -1,0 +1,391 @@
+<regions country="Croatia">
+	<region name="Bjelovarsko-Bilogorska" type="county" typeTranslated="zupanija">
+		<name normalized="Bjelovarsko-Bilogorska" languages="English;official">Bjelovarsko-Bilogorska</name>
+		<name normalized="Bjelovarsko-Bilogorska County" languages="English;official">Bjelovarsko-Bilogorska County</name>
+		<name normalized="Bjelovarsko-Bilogorska Zupanija" languages="English;official">Bjelovarsko-Bilogorska Zupanija</name>
+	</region>
+	<region name="Brodsko-Posavska" type="county" typeTranslated="zupanija">
+		<name normalized="Brodsko-Posavska" languages="English;official">Brodsko-Posavska</name>
+		<name normalized="Brodsko-Posavska County" languages="English;official">Brodsko-Posavska County</name>
+		<name normalized="Brodsko-Posavska Zupanija" languages="English;official">Brodsko-Posavska Zupanija</name>
+	</region>
+	<region name="Dubrovacko-Neretvanska" type="county" typeTranslated="zupanija">
+		<name normalized="Cantonul Dubrovnik-Neretva" languages="Romanian">Cantonul Dubrovnik-Neretva</name>
+		<name normalized="Comitat de Dubrovnik-Neretva" languages="French">Comitat de Dubrovnik-Neretva</name>
+		<name normalized="Comtat de Dubrovnik-Neretva" languages="Catalan">Comtat de Dubrovnik-Neretva</name>
+		<name normalized="Condado de Dubrovnik-Neretva" languages="Spanish">Condado de Dubrovnik-Neretva</name>
+		<name normalized="Dubrovacko-Neretvanska" languages="English;official">Dubrovacko-Neretvanska</name>
+		<name normalized="Dubrovacko-Neretvanska County" languages="English;official">Dubrovacko-Neretvanska County</name>
+		<name normalized="Dubrovacko-Neretvanska Zupanija" languages="English;official">Dubrovacko-Neretvanska Zupanija</name>
+		<name normalized="Dubrovacko-neretvanska zupanija" languages="Bosnian;Croatian;Serbo-Croatian">Dubrovačko-neretvanska županija</name>
+		<name normalized="Dubrovnicko-neretvanska zupa" languages="Czech">Dubrovnicko-neretvanská župa</name>
+		<name normalized="Dubrovnik-Neretva" languages="Dutch;English;Esperanto;Finnish;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Turkish;Waray">Dubrovnik-Neretva</name>
+		<name normalized="Dubrovnik-Neretva County" languages="English;official">Dubrovnik-Neretva County</name>
+		<name normalized="Dubrovnik-Neretva eskualdea" languages="Basque">Dubrovnik-Neretva eskualdea</name>
+		<name normalized="Dubrovnik-Neretva guovlu" languages="Northern Sami">Dubrovnik-Neretva guovlu</name>
+		<name normalized="Dubrovnik-Neretva megye" languages="Hungarian">Dubrovnik-Neretva megye</name>
+		<name normalized="Dubrovnik-Neretva Zupanija" languages="English;official">Dubrovnik-Neretva Zupanija</name>
+		<name normalized="Dubrovnik-Neretvas lan" languages="Swedish">Dubrovnik-Neretvas län</name>
+		<name normalized="Dubrovniki-Neretva maakond" languages="Estonian">Dubrovniki-Neretva maakond</name>
+		<name normalized="Dubrovniku-Neretvos apskritis" languages="Lithuanian">Dubrovnikų–Neretvos apskritis</name>
+		<name normalized="Dubrovnisko-neretvanska zupanija" languages="Slovenian">Dubrovniško-neretvanska županija</name>
+		<name normalized="Dubrovnicko-neretvianska zupa" languages="Slovak">Dubrovnícko-neretvianska župa</name>
+		<name normalized="Gespanschaft Dubrovnik-Neretva" languages="German">Gespanschaft Dubrovnik-Neretva</name>
+		<name normalized="Kabupaten Dubrovnik-Neretva" languages="Indonesian">Kabupaten Dubrovnik-Neretva</name>
+		<name normalized="Konteth Dubrovnik-Neretva" languages="Cornish">Konteth Dubrovnik-Neretva</name>
+		<name normalized="Ragusina-Narentina" languages="Latin">Ragusina-Narentina</name>
+		<name normalized="Regione raguseo-narentana" languages="Italian">Regione raguseo-narentana</name>
+		<name normalized="Rejon raguxeo-narentana" languages="veneto">Rejon raguxeo-narentana</name>
+		<name normalized="Zhupania e Dubrovnikut dhe Neretves" languages="Albanian">Zhupania e Dubrovnikut dhe Neretvës</name>
+		<name normalized="Zupania dubrownicko-neretwianska" languages="Polish">Żupania dubrownicko-neretwiańska</name>
+		<name normalized="Dubрovacko-нiрitvaнсka zupaнija" languages="Serbian">Дубровачко-неретванска жупанија</name>
+		<name normalized="Dubрovнitko-Нiрitvaнсkai zupaнii" languages="Russian">Дубровницко-Неретванская жупания</name>
+		<name normalized="Dubрovнitьko-Нiрitvaнсьka zupaнii" languages="Ukrainian">Дубровницько-Неретванська жупанія</name>
+		<name normalized="Dubрovнicko-нiрitvaнсka zupaнija" languages="Macedonian">Дубровничко-неретванска жупанија</name>
+		<name normalized="Dubрovнisko-нiрitvaнсka zupaнii" languages="Bulgarian">Дубровнишко-неретванска жупания</name>
+		<name normalized="Dubрoўнitka-Нiрetvaнсkai zupaнii" languages="biлaрuсkai (taрaskivita)‎">Дуброўніцка-Нерэтванская жупанія</name>
+		<name normalized="dلع دوbrوونک نیrیtوא" languages="Western Punjabi">ضلع دوبروونک نیریتوا</name>
+		<name normalized="mqאtعة دوbrوfنyk-نyrytfא" languages="Arabic">مقاطعة دوبروفنيك-نيريتفا</name>
+		<name normalized="dubrvnk=nrtva郡" languages="Japanese">ドゥブロヴニク＝ネレトヴァ郡</name>
+		<name normalized="杜布羅夫尼克-內雷特瓦縣" languages="Chinese">杜布羅夫尼克-內雷特瓦縣</name>
+		<name normalized="두브로브니크네레트바 주" languages="Korean">두브로브니크네레트바 주</name>
+	</region>
+	<region name="Istarska" type="county" typeTranslated="zupanija">
+		<name normalized="Cantonul Istria" languages="Romanian">Cantonul Istria</name>
+		<name normalized="Comitat d'Istrie" languages="French">Comitat d'Istrie</name>
+		<name normalized="Comtat d'Istria" languages="Catalan">Comtat d'Ístria</name>
+		<name normalized="Condado de Istria" languages="Spanish">Condado de Istria</name>
+		<name normalized="Condado de Istria" languages="Portuguese">Condado de Ístria</name>
+		<name normalized="Fylket Istria" languages="Norwegian Nynorsk">Fylket Istria</name>
+		<name normalized="Gespanschaft Istrien" languages="German">Gespanschaft Istrien</name>
+		<name normalized="Histria" languages="Latin">Histria</name>
+		<name normalized="Histriana" languages="Latin">Histriana</name>
+		<name normalized="Istarska" languages="English;official">Istarska</name>
+		<name normalized="Istarska County" languages="English;official">Istarska County</name>
+		<name normalized="Istarska Zupanija" languages="English;official">Istarska Zupanija</name>
+		<name normalized="Istarska zupanija" languages="Bosnian;Croatian;Serbo-Croatian">Istarska županija</name>
+		<name normalized="Istra" languages="Bosnian;Croatian;Serbo-Croatian;Slovenian">Istra</name>
+		<name normalized="Istra maakond" languages="Estonian">Istra maakond</name>
+		<name normalized="Istria" languages="Albanian;Basque;Breton;English;Finnish;Galician;Indonesian;Italian;lumbaart;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Simple English;Slovak;Spanish;Vietnamese;veneto;Waray">Istria</name>
+		<name normalized="Istria County" languages="English;official">Istria County</name>
+		<name normalized="Istria eskualdea" languages="Basque">Istria eskualdea</name>
+		<name normalized="Istria guovlu" languages="Northern Sami">Istria guovlu</name>
+		<name normalized="Istria Zupanija" languages="English;official">Istria Zupanija</name>
+		<name normalized="Istrie" languages="Czech;French">Istrie</name>
+		<name normalized="Istrien" languages="Danish;German;Luxembourgish;Swedish">Istrien</name>
+		<name normalized="Istriens lan" languages="Swedish">Istriens län</name>
+		<name normalized="Istrija" languages="Lithuanian">Istrija</name>
+		<name normalized="Istrijos apskritis" languages="Lithuanian">Istrijos apskritis</name>
+		<name normalized="Istrijska zupa" languages="Czech;Slovak">Istrijská župa</name>
+		<name normalized="Istrio" languages="Esperanto">Istrio</name>
+		<name normalized="Istriya" languages="Turkish">İstriya</name>
+		<name normalized="Istrie" languages="Dutch">Istrië</name>
+		<name normalized="Istrska zupanija" languages="Slovenian">Istrska županija</name>
+		<name normalized="Istryjo" languages="Silesian">Istryjo</name>
+		<name normalized="Isztria megye" languages="Hungarian">Isztria megye</name>
+		<name normalized="Isztriai-felsziget" languages="Hungarian">Isztriai-félsziget</name>
+		<name normalized="Kabupaten Istria" languages="Indonesian">Kabupaten Istria</name>
+		<name normalized="Konteth Istri" languages="Cornish">Konteth Istri</name>
+		<name normalized="Peninsula d'Istria" languages="Aragonese">Peninsula d'Istria</name>
+		<name normalized="Peninsula Istria" languages="Romanian">Peninsula Istria</name>
+		<name normalized="Regione istriana" languages="Italian">Regione istriana</name>
+		<name normalized="Regio d'Istria" languages="Catalan">Regió d'Ístria</name>
+		<name normalized="Rejon istriana" languages="veneto">Rejon istriana</name>
+		<name normalized="Zhupania e Istres" languages="Albanian">Zhupania e Istrës</name>
+		<name normalized="Istria" languages="Portuguese">Ístria</name>
+		<name normalized="Zupania istryjska" languages="Polish">Żupania istryjska</name>
+		<name normalized="Iсtaрсka zupaнija" languages="Macedonian;Serbian">Истарска жупанија</name>
+		<name normalized="Iсtрa" languages="Macedonian;Serbian">Истра</name>
+		<name normalized="Iсtрiйсka zupaнii" languages="Bulgarian">Истрийска жупания</name>
+		<name normalized="Iсtрiйсkai zupaнii" languages="Russian">Истрийская жупания</name>
+		<name normalized="Iсtрii" languages="Bulgarian;Russian">Истрия</name>
+		<name normalized="Iсtрыi" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Істрыя</name>
+		<name normalized="Iсtрiйсьka zupaнii" languages="Ukrainian">Істрійська жупанія</name>
+		<name normalized="Iсtрii" languages="Ukrainian">Істрія</name>
+		<name normalized="איסtrיh" languages="Hebrew">איסטריה</name>
+		<name normalized="إسtryא" languages="Arabic">إستريا</name>
+		<name normalized="אیسtrیא" languages="Persian">ایستریا</name>
+		<name normalized="dلع אسtrیא" languages="Western Punjabi">ضلع استریا</name>
+		<name normalized="mqאtعة إسtryא" languages="Arabic">مقاطعة إستريا</name>
+		<name normalized="istr郡" languages="Japanese">イストラ郡</name>
+		<name normalized="istra半島" languages="Japanese">イストリア半島</name>
+		<name normalized="伊斯特拉半島" languages="Chinese">伊斯特拉半島</name>
+		<name normalized="伊斯特拉縣" languages="Chinese">伊斯特拉縣</name>
+		<name normalized="이스트라 반도" languages="Korean">이스트라 반도</name>
+		<name normalized="이스트라 주" languages="Korean">이스트라 주</name>
+	</region>
+	<region name="Karlovacka" type="county" typeTranslated="zupanija">
+		<name normalized="Karlovacka" languages="English;official">Karlovacka</name>
+		<name normalized="Karlovacka County" languages="English;official">Karlovacka County</name>
+		<name normalized="Karlovacka Zupanija" languages="English;official">Karlovacka Zupanija</name>
+	</region>
+	<region name="Koprivnicko-Krizevacka" type="county" typeTranslated="zupanija">
+		<name normalized="Koprivnicko-Krizevacka" languages="English;official">Koprivnicko-Krizevacka</name>
+		<name normalized="Koprivnicko-Krizevacka County" languages="English;official">Koprivnicko-Krizevacka County</name>
+		<name normalized="Koprivnicko-Krizevacka Zupanija" languages="English;official">Koprivnicko-Krizevacka Zupanija</name>
+	</region>
+	<region name="Krapinsko-Zagorska" type="county" typeTranslated="zupanija">
+		<name normalized="Krapinsko-Zagorska" languages="English;official">Krapinsko-Zagorska</name>
+		<name normalized="Krapinsko-Zagorska County" languages="English;official">Krapinsko-Zagorska County</name>
+		<name normalized="Krapinsko-Zagorska Zupanija" languages="English;official">Krapinsko-Zagorska Zupanija</name>
+	</region>
+	<region name="Licko-Senjska" type="county" typeTranslated="zupanija">
+		<name normalized="Cantonul Lika-Senj" languages="Romanian">Cantonul Lika-Senj</name>
+		<name normalized="Comitat de Lika-Senj" languages="French">Comitat de Lika-Senj</name>
+		<name normalized="Comtat de Lika-Senj" languages="Catalan">Comtat de Lika-Senj</name>
+		<name normalized="Condado de Lika-Senj" languages="Portuguese;Spanish">Condado de Lika-Senj</name>
+		<name normalized="Gespanschaft Lika-Senj" languages="German">Gespanschaft Lika-Senj</name>
+		<name normalized="Iapudiensis-Seniensis" languages="Latin">Iapudiensis-Seniensis</name>
+		<name normalized="Kabupaten Lika-Senj" languages="Indonesian">Kabupaten Lika-Senj</name>
+		<name normalized="Konteth Lika-Senj" languages="Cornish">Konteth Lika-Senj</name>
+		<name normalized="Licko-Senjska" languages="English;official">Licko-Senjska</name>
+		<name normalized="Licko-Senjska County" languages="English;official">Licko-Senjska County</name>
+		<name normalized="Licko-Senjska Zupanija" languages="English;official">Licko-Senjska Zupanija</name>
+		<name normalized="Licko-senjska zupa" languages="Czech;Slovak">Licko-senjská župa</name>
+		<name normalized="Lika-Senj" languages="Dutch;English;Esperanto;Finnish;Norwegian (bokmal);Norwegian Nynorsk;official;Turkish;Waray">Lika-Senj</name>
+		<name normalized="Lika-Senj County" languages="English;official">Lika-Senj County</name>
+		<name normalized="Lika-Senj eskualdea" languages="Basque">Lika-Senj eskualdea</name>
+		<name normalized="Lika-Senj guovlu" languages="Northern Sami">Lika-Senj guovlu</name>
+		<name normalized="Lika-Senj Zupanija" languages="English;official">Lika-Senj Zupanija</name>
+		<name normalized="Lika-Senji maakond" languages="Estonian">Lika-Senji maakond</name>
+		<name normalized="Lika-Senjs lan" languages="Swedish">Lika-Senjs län</name>
+		<name normalized="Likos-Senio apskritis" languages="Lithuanian">Likos–Senio apskritis</name>
+		<name normalized="Licko-senjska zupanija" languages="Bosnian;Croatian;Serbo-Croatian;Slovenian">Ličko-senjska županija</name>
+		<name normalized="Regione della Lika e di Segna" languages="Italian">Regione della Lika e di Segna</name>
+		<name normalized="Zhupania e Likes dhe Senjit" languages="Albanian">Zhupania e Likës dhe Senjit</name>
+		<name normalized="Zupania licko-senska" languages="Polish">Żupania licko-seńska</name>
+		<name normalized="Лitko-Сiньсkai zupaнii" languages="Russian">Лицко-Сеньская жупания</name>
+		<name normalized="Лicko-сinсka zupaнija" languages="Macedonian;Serbian">Личко-сењска жупанија</name>
+		<name normalized="Лisko-сiнсka zupaнii" languages="Bulgarian">Лишко-сенска жупания</name>
+		<name normalized="Лitьko-Сiнсьka zupaнii" languages="Ukrainian">Ліцько-Сенська жупанія</name>
+		<name normalized="dلع لیکא سین" languages="Western Punjabi">ضلع لیکا سین</name>
+		<name normalized="mqאtعة لykא سنy" languages="Arabic">مقاطعة ليكا سني</name>
+		<name normalized="rk=sn郡" languages="Japanese">リカ＝セニ郡</name>
+		<name normalized="利卡-塞尼縣" languages="Chinese">利卡-塞尼縣</name>
+		<name normalized="리카센 주" languages="Korean">리카센 주</name>
+	</region>
+	<region name="Medimurska" type="county" typeTranslated="zupanija">
+		<name normalized="Medimurska" languages="English;official">Medimurska</name>
+		<name normalized="Medimurska County" languages="English;official">Medimurska County</name>
+		<name normalized="Medimurska Zupanija" languages="English;official">Medimurska Zupanija</name>
+	</region>
+	<region name="Osjecko-Baranjska" type="county" typeTranslated="zupanija">
+		<name normalized="Osjecko-Baranjska" languages="English;official">Osjecko-Baranjska</name>
+		<name normalized="Osjecko-Baranjska County" languages="English;official">Osjecko-Baranjska County</name>
+		<name normalized="Osjecko-Baranjska Zupanija" languages="English;official">Osjecko-Baranjska Zupanija</name>
+	</region>
+	<region name="Pozesko-Slavonska" type="county" typeTranslated="zupanija">
+		<name normalized="Cantonul Pozega-Slavonia" languages="Romanian">Cantonul Požega-Slavonia</name>
+		<name normalized="Comitat de Pozega-Slavonie" languages="French">Comitat de Požega-Slavonie</name>
+		<name normalized="Comtat de Pozega-Eslavonia" languages="Catalan">Comtat de Požega-Eslavònia</name>
+		<name normalized="Condado de Pozega-Eslavonia" languages="Spanish">Condado de Požega-Eslavonia</name>
+		<name normalized="Condado de Pozega-Eslavonia" languages="Portuguese">Condado de Požega-Eslavônia</name>
+		<name normalized="Gespanschaft Pozega-Slawonien" languages="German">Gespanschaft Požega-Slawonien</name>
+		<name normalized="Kabupaten Pozega-Slavonia" languages="Indonesian">Kabupaten Požega-Slavonia</name>
+		<name normalized="Konteth Pozega-Slavoni" languages="Cornish">Konteth Požega-Slavoni</name>
+		<name normalized="Posigiensis-Sclavonensis" languages="Latin">Posigiensis-Sclavonensis</name>
+		<name normalized="Pozega-Slavonia" languages="English;official">Pozega-Slavonia</name>
+		<name normalized="Pozega-Slavonia County" languages="English;official">Pozega-Slavonia County</name>
+		<name normalized="Pozega-Slavonia Zupanija" languages="English;official">Pozega-Slavonia Zupanija</name>
+		<name normalized="Pozesko-Slavonska" languages="English;official">Pozesko-Slavonska</name>
+		<name normalized="Pozesko-Slavonska County" languages="English;official">Pozesko-Slavonska County</name>
+		<name normalized="Pozesko-Slavonska Zupanija" languages="English;official">Pozesko-Slavonska Zupanija</name>
+		<name normalized="Pozsega-Szlavonia megye" languages="Hungarian">Pozsega-Szlavónia megye</name>
+		<name normalized="Pozecko-slavonska zupa" languages="Slovak">Požecko-slavónska župa</name>
+		<name normalized="Pozega-Eslavonia eskualdea" languages="Basque">Požega-Eslavonia eskualdea</name>
+		<name normalized="Pozega-Slavonia" languages="Finnish;Norwegian (bokmal);Norwegian Nynorsk;Waray">Požega-Slavonia</name>
+		<name normalized="Pozega-Slavonia County" languages="English">Požega-Slavonia County</name>
+		<name normalized="Pozega-Slavonia guovlu" languages="Northern Sami">Požega-Slavonia guovlu</name>
+		<name normalized="Pozega-Slavoniens lan" languages="Swedish">Požega-Slavoniens län</name>
+		<name normalized="Pozega-Slavonija" languages="Turkish">Požega-Slavonija</name>
+		<name normalized="Pozega-Slavonio" languages="Esperanto">Požega-Slavonio</name>
+		<name normalized="Pozega-Slavonie" languages="Dutch">Požega-Slavonië</name>
+		<name normalized="Pozega-Slavoonia maakond" languages="Estonian">Požega-Slavoonia maakond</name>
+		<name normalized="Pozegos-Slavonijos apskritis" languages="Lithuanian">Požegos–Slavonijos apskritis</name>
+		<name normalized="Pozesko-slavonska zupanija" languages="Bosnian;Croatian;Serbo-Croatian;Slovenian">Požeško-slavonska županija</name>
+		<name normalized="Pozezsko-slavonska zupa" languages="Czech">Požežsko-slavonská župa</name>
+		<name normalized="Regione di Pozega e della Slavonia" languages="Italian">Regione di Požega e della Slavonia</name>
+		<name normalized="Zupania pozedzko-slawonska" languages="Polish">Żupania pożedzko-slawońska</name>
+		<name normalized="Pozizko-слavoнсka zupaнii" languages="Bulgarian">Пожежко-славонска жупания</name>
+		<name normalized="Pozizсko-Слavoнсkai zupaнii" languages="Russian">Пожежско-Славонская жупания</name>
+		<name normalized="Pozizьko-Слavoнсьka zupaнii" languages="Ukrainian">Пожезько-Славонська жупанія</name>
+		<name normalized="Pozisko-слavoнсka zupaнija" languages="Macedonian;Serbian">Пожешко-славонска жупанија</name>
+		<name normalized="dلع pوjیgא سلאوونیא" languages="Western Punjabi">ضلع پوژیگا سلاوونیا</name>
+		<name normalized="mqאtعة bوزyغא-سلאfونyא" languages="Arabic">مقاطعة بوزيغا-سلافونيا</name>
+		<name normalized="pzeg=srvona郡" languages="Japanese">ポジェガ＝スラヴォニア郡</name>
+		<name normalized="波熱加-斯拉沃尼亞縣" languages="Chinese">波熱加-斯拉沃尼亞縣</name>
+		<name normalized="포제가슬라보니아 주" languages="Korean">포제가슬라보니아 주</name>
+	</region>
+	<region name="Primorsko-Goranska" type="county" typeTranslated="zupanija">
+		<name normalized="Primorsko-Goranska" languages="English;official">Primorsko-Goranska</name>
+		<name normalized="Primorsko-Goranska County" languages="English;official">Primorsko-Goranska County</name>
+		<name normalized="Primorsko-Goranska Zupanija" languages="English;official">Primorsko-Goranska Zupanija</name>
+	</region>
+	<region name="Sibensko-Kninska" type="county" typeTranslated="zupanija">
+		<name normalized="Sibensko-Kninska" languages="English;official">Sibensko-Kninska</name>
+		<name normalized="Sibensko-Kninska County" languages="English;official">Sibensko-Kninska County</name>
+		<name normalized="Sibensko-Kninska Zupanija" languages="English;official">Sibensko-Kninska Zupanija</name>
+	</region>
+	<region name="Sisacko-Moslavacka" type="county" typeTranslated="zupanija">
+		<name normalized="Sisacko-Moslavacka" languages="English;official">Sisacko-Moslavacka</name>
+		<name normalized="Sisacko-Moslavacka County" languages="English;official">Sisacko-Moslavacka County</name>
+		<name normalized="Sisacko-Moslavacka Zupanija" languages="English;official">Sisacko-Moslavacka Zupanija</name>
+	</region>
+	<region name="Splitsko-Dalmatinska" type="county" typeTranslated="zupanija">
+		<name normalized="Cantonul Split-Dalmația" languages="Romanian">Cantonul Split-Dalmația</name>
+		<name normalized="Comitat de Split-Dalmatie" languages="French">Comitat de Split-Dalmatie</name>
+		<name normalized="Comtat de Split-Dalmacia" languages="Catalan">Comtat de Split-Dalmàcia</name>
+		<name normalized="Condado de Split-Dalmacia" languages="Spanish">Condado de Split-Dalmacia</name>
+		<name normalized="Condado de Split-Dalmacia" languages="Portuguese">Condado de Split-Dalmácia</name>
+		<name normalized="Gespanschaft Split-Dalmatien" languages="German">Gespanschaft Split-Dalmatien</name>
+		<name normalized="Kabupaten Split-Dalmatia" languages="Indonesian">Kabupaten Split-Dalmatia</name>
+		<name normalized="Konteth Split-Dalmati" languages="Cornish">Konteth Split-Dalmati</name>
+		<name normalized="Regione spalatino-dalmata" languages="Italian">Regione spalatino-dalmata</name>
+		<name normalized="Rejon spalatin-dalmata" languages="veneto">Rejon spalatin-dàlmata</name>
+		<name normalized="Spalatensis-Dalmatica" languages="Latin">Spalatensis-Dalmatica</name>
+		<name normalized="Split-Dalmatia" languages="English;Finnish;Norwegian (bokmal);official;Waray">Split-Dalmatia</name>
+		<name normalized="Split-Dalmatia County" languages="English;official">Split-Dalmatia County</name>
+		<name normalized="Split-Dalmatia guovlu" languages="Northern Sami">Split-Dalmatia guovlu</name>
+		<name normalized="Split-Dalmatia Zupanija" languages="English;official">Split-Dalmatia Zupanija</name>
+		<name normalized="Split-Dalmatiens lan" languages="Swedish">Split-Dalmatiens län</name>
+		<name normalized="Split-Dalmatio" languages="Esperanto">Split-Dalmatio</name>
+		<name normalized="Split-Dalmatie" languages="Dutch">Split-Dalmatië</name>
+		<name normalized="Split-Dalmazia eskualdea" languages="Basque">Split-Dalmazia eskualdea</name>
+		<name normalized="Split-Dalmacya" languages="Turkish">Split-Dalmaçya</name>
+		<name normalized="Spliti-Dalmaatsia maakond" languages="Estonian">Spliti-Dalmaatsia maakond</name>
+		<name normalized="Splito-Dalmatijos apskritis" languages="Lithuanian">Splito–Dalmatijos apskritis</name>
+		<name normalized="Splitsko-Dalmatinska" languages="English;official">Splitsko-Dalmatinska</name>
+		<name normalized="Splitsko-Dalmatinska County" languages="English;official">Splitsko-Dalmatinska County</name>
+		<name normalized="Splitsko-Dalmatinska Zupanija" languages="English;official">Splitsko-Dalmatinska Zupanija</name>
+		<name normalized="Splitsko-dalmatinska zupanija" languages="Bosnian;Croatian;Serbo-Croatian;Slovenian">Splitsko-dalmatinska županija</name>
+		<name normalized="Splitsko-dalmatska zupa" languages="Czech">Splitsko-dalmatská župa</name>
+		<name normalized="Splitsko-dalmatinska zupa" languages="Slovak">Splitsko-dalmatínska župa</name>
+		<name normalized="Zhupania e Splitit dhe e Dalmacise" languages="Albanian">Zhupania e Splitit dhe e Dalmacisë</name>
+		<name normalized="Zupania splicko-dalmatynska" languages="Polish">Żupania splicko-dalmatyńska</name>
+		<name normalized="Сpлitсko-daлмatiнсka zupaнii" languages="Bulgarian">Сплитско-далматинска жупания</name>
+		<name normalized="Сpлitсko-daлмatiнсka zupaнija" languages="Macedonian;Serbian">Сплитско-далматинска жупанија</name>
+		<name normalized="Сpлitсko-Daлмatiнсkai zupaнii" languages="Russian">Сплитско-Далматинская жупания</name>
+		<name normalized="Сpлitсьko-Daлмatiнсьka zupaнii" languages="Ukrainian">Сплітсько-Далматинська жупанія</name>
+		<name normalized="dلع سpلt دאلmאtیא" languages="Western Punjabi">ضلع سپلت دالماتیا</name>
+		<name normalized="mqאtعة سbلyt-دאلmאسyא" languages="Arabic">مقاطعة سبليت-دالماسيا</name>
+		<name normalized="sprt=drmta郡" languages="Japanese">スプリト＝ダルマチア郡</name>
+		<name normalized="斯普利特-達爾馬提亞縣" languages="Chinese">斯普利特-達爾馬提亞縣</name>
+		<name normalized="스플리트달마티아 주" languages="Korean">스플리트달마티아 주</name>
+	</region>
+	<region name="Varazdinska" type="county" typeTranslated="zupanija">
+		<name normalized="Varazdinska" languages="English;official">Varazdinska</name>
+		<name normalized="Varazdinska County" languages="English;official">Varazdinska County</name>
+		<name normalized="Varazdinska Zupanija" languages="English;official">Varazdinska Zupanija</name>
+	</region>
+	<region name="Viroviticko-Podravska" type="county" typeTranslated="zupanija">
+		<name normalized="Viroviticko-Podravska" languages="English;official">Viroviticko-Podravska</name>
+		<name normalized="Viroviticko-Podravska County" languages="English;official">Viroviticko-Podravska County</name>
+		<name normalized="Viroviticko-Podravska Zupanija" languages="English;official">Viroviticko-Podravska Zupanija</name>
+	</region>
+	<region name="Vukovarsko-Srijemska" type="county" typeTranslated="zupanija">
+		<name normalized="Vukovarsko-Srijemska" languages="English;official">Vukovarsko-Srijemska</name>
+		<name normalized="Vukovarsko-Srijemska County" languages="English;official">Vukovarsko-Srijemska County</name>
+		<name normalized="Vukovarsko-Srijemska Zupanija" languages="English;official">Vukovarsko-Srijemska Zupanija</name>
+	</region>
+	<region name="Zadarska" type="county" typeTranslated="zupanija">
+		<name normalized="Zadarska" languages="English;official">Zadarska</name>
+		<name normalized="Zadarska County" languages="English;official">Zadarska County</name>
+		<name normalized="Zadarska Zupanija" languages="English;official">Zadarska Zupanija</name>
+	</region>
+	<region name="Zagreb" type="city" typeTranslated="city">
+		<name normalized="Agram" languages="Bavarian">Agram</name>
+		<name normalized="Lungsod ng Zagreb" languages="Tagalog">Lungsod ng Zagreb</name>
+		<name normalized="Sagreb" languages="Wolof">Sagreb</name>
+		<name normalized="Sagwzlwgbouh" languages="Zhuang">Sagwzlwgbouh</name>
+		<name normalized="Sakreb" languages="Norfuk / Pitkern">Sakreb</name>
+		<name normalized="Sagrab" languages="Irish">Ságrab</name>
+		<name normalized="Zagabbria" languages="Ligure">Zagabbria</name>
+		<name normalized="Zagabria" languages="Corsican;Italian;lumbaart;Piedmontese;Sicilian">Zagabria</name>
+		<name normalized="Zagavria" languages="veneto">Zagavria</name>
+		<name normalized="Zagrabia" languages="Latin">Zagrabia</name>
+		<name normalized="Zagreb" languages="Afrikaans;Aragonese;Asturian;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Crimean Turkish;Croatian;Danish;Deitsch;Dutch;English;Estonian;Faroese;Fiji Hindi;Finnish;French;Gagauz;Galician;German;Haitian;Hakka;Icelandic;Ido;Iloko;Indonesian;Interlingua;Interlingue;Javanese;Kara-Kalpak;Kurdish;Lingala;Low German;Lower Sorbian;Luxembourgish;Malagasy;Malay;Manx;Maori;Nahuatl;Northern Frisian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Portuguese;Quechua;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Slovenian;Southern Sotho;Spanish;Swahili;Swedish;Turkish;Upper Sorbian;Uzbek;Veps;Vietnamese;Volapuk;Voro;Waray;Welsh;Western Frisian;Yoruba">Zagreb</name>
+		<name normalized="Zagreba" languages="Latvian">Zagreba</name>
+		<name normalized="Zagrebas" languages="Lithuanian">Zagrebas</name>
+		<name normalized="Zagrebi" languages="Albanian">Zagrebi</name>
+		<name normalized="Zagrebo" languages="Esperanto">Zagrebo</name>
+		<name normalized="Zagrzeb" languages="Polish;Silesian">Zagrzeb</name>
+		<name normalized="Zagreb" languages="Occitan">Zagrèb</name>
+		<name normalized="Zagreb" languages="Uyghur">Zagréb</name>
+		<name normalized="Zagrebs" languages="Samogitian">Zagrėbs</name>
+		<name normalized="Zagabria" languages="Sardinian">Zagàbria</name>
+		<name normalized="Zaqreb" languages="Azerbaijani">Zaqreb</name>
+		<name normalized="Zagrab" languages="Hungarian">Zágráb</name>
+		<name normalized="Zahreb" languages="Slovak">Záhreb</name>
+		<name normalized="Zahreb" languages="Czech">Záhřeb</name>
+		<name normalized="Zagreb" languages="Maltese">Żagreb</name>
+		<name normalized="Ζαγκρεμπ" languages="Greek">Ζάγκρεμπ</name>
+		<name normalized="Goрad Zagрab" languages="Belarusian">Горад Заграб</name>
+		<name normalized="Zagрib" languages="Bulgarian;Chechen;Chuvash;Eastern Mari;Kazakh;Komi;Macedonian;Mongolian;Ossetic;Russian;Sakha;Serbian;Tajik;Udmurt;Ukrainian">Загреб</name>
+		<name normalized="Zagрeb" languages="biлaрuсkai (taрaskivita)‎">Загрэб</name>
+		<name normalized="Zագrեb" languages="Armenian">Զագրեբ</name>
+		<name normalized="זאגrb" languages="Hebrew">זאגרב</name>
+		<name normalized="זאגrעb" languages="Yiddish">זאגרעב</name>
+		<name normalized="زאjryb" languages="Egyptian Spoken Arabic">زاجريب</name>
+		<name normalized="زאgrb" languages="Persian">زاگرب</name>
+		<name normalized="زאgrێb" languages="Sorani Kurdish">زاگرێب</name>
+		<name normalized="زغrb" languages="Arabic;Urdu">زغرب</name>
+		<name normalized="زغrیb" languages="Western Punjabi">زغریب</name>
+		<name normalized="jाg्reb" languages="Marathi">झाग्रेब</name>
+		<name normalized="jাgreb" languages="Bengali">জাগরেব</name>
+		<name normalized="j਼ਾgrb" languages="Punjabi">ਜ਼ਾਗਰਬ</name>
+		<name normalized="சாகிரேப்" languages="Tamil">சாகிரேப்</name>
+		<name normalized="ซาเกร็บ" languages="Thai">ซาเกร็บ</name>
+		<name normalized="ཛག་རེབ།" languages="Tibetan">ཛག་རེབ།</name>
+		<name normalized="ზაგრები" languages="Georgian">ზაგრები</name>
+		<name normalized="ዛግሬብ" languages="Amharic">ዛግሬብ</name>
+		<name normalized="zgrb" languages="Japanese">ザグレブ</name>
+		<name normalized="萨格勒布" languages="Chinese">萨格勒布</name>
+		<name normalized="薩格勒布" languages="Cantonese">薩格勒布</name>
+		<name normalized="Ꙁagрebъ" languages="Church Slavic">Ꙁагрєбъ</name>
+		<name normalized="자그레브" languages="Korean">자그레브</name>
+	</region>
+	<region name="Zagrebacka" type="county" typeTranslated="zupanija">
+		<name normalized="Cantonul Zagreb" languages="Romanian">Cantonul Zagreb</name>
+		<name normalized="Comitat de Zagreb" languages="French">Comitat de Zagreb</name>
+		<name normalized="Comtat de Zagreb" languages="Catalan">Comtat de Zagreb</name>
+		<name normalized="Condado de Zagreb" languages="Portuguese;Spanish">Condado de Zagreb</name>
+		<name normalized="Gespanschaft Zagreb" languages="German">Gespanschaft Zagreb</name>
+		<name normalized="Kabupaten Zagreb" languages="Indonesian">Kabupaten Zagreb</name>
+		<name normalized="Konteth Zagreb" languages="Cornish">Konteth Zagreb</name>
+		<name normalized="Regione di Zagabria" languages="Italian">Regione di Zagabria</name>
+		<name normalized="Zagreb" languages="Afrikaans;Aragonese;Asturian;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Crimean Turkish;Croatian;Danish;Deitsch;Dutch;English;Estonian;Faroese;Fiji Hindi;Finnish;French;Gagauz;Galician;German;Haitian;Hakka;Icelandic;Ido;Iloko;Indonesian;Interlingua;Interlingue;Javanese;Kara-Kalpak;Kurdish;Lingala;Low German;Lower Sorbian;Luxembourgish;Malagasy;Malay;Manx;Maori;Nahuatl;Northern Frisian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Portuguese;Quechua;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Slovenian;Southern Sotho;Spanish;Swahili;Swedish;Turkish;Upper Sorbian;Uzbek;Veps;Vietnamese;Volapuk;Voro;Waray;Welsh;Western Frisian;Yoruba">Zagreb</name>
+		<name normalized="Zagreb Bolgesi" languages="Turkish">Zagreb Bölgesi</name>
+		<name normalized="Zagreb county" languages="English;official">Zagreb county</name>
+		<name normalized="Zagreb county County" languages="English;official">Zagreb county County</name>
+		<name normalized="Zagreb county Zupanija" languages="English;official">Zagreb county Zupanija</name>
+		<name normalized="Zagreb eskualdea" languages="Basque">Zagreb eskualdea</name>
+		<name normalized="Zagreb guovlu" languages="Northern Sami">Zagreb guovlu</name>
+		<name normalized="Zagreb lun" languages="Northern Frisian">Zagreb lun</name>
+		<name normalized="Zagreba provinco" languages="Esperanto">Zagreba provinco</name>
+		<name normalized="Zagrebacka" languages="English;official">Zagrebacka</name>
+		<name normalized="Zagrebacka County" languages="English;official">Zagrebacka County</name>
+		<name normalized="Zagrebacka Zupanija" languages="English;official">Zagrebacka Zupanija</name>
+		<name normalized="Zagrebacka zupanija" languages="Bosnian;Croatian;Serbo-Croatian">Zagrebačka županija</name>
+		<name normalized="Zagrebi maakond" languages="Estonian">Zagrebi maakond</name>
+		<name normalized="Zagrebiensis" languages="Latin">Zagrebiensis</name>
+		<name normalized="Zagrebo apskritis" languages="Lithuanian">Zagrebo apskritis</name>
+		<name normalized="Zagrebs lan" languages="Swedish">Zagrebs län</name>
+		<name normalized="Zagrebska zupanija" languages="Slovenian">Zagrebška županija</name>
+		<name normalized="Zhupania e Zagrebit" languages="Albanian">Zhupania e Zagrebit</name>
+		<name normalized="Zagrab megye" languages="Hungarian">Zágráb megye</name>
+		<name normalized="Zahrebska zupa" languages="Slovak">Záhrebská župa</name>
+		<name normalized="Zahrebska zupa" languages="Czech">Záhřebská župa</name>
+		<name normalized="Zupania zagrzebska" languages="Polish">Żupania zagrzebska</name>
+		<name normalized="Zagрibacka zupaнija" languages="Serbian">Загребачка жупанија</name>
+		<name normalized="Zagрibсka zupaнii" languages="Bulgarian">Загребска жупания</name>
+		<name normalized="Zagрibсkai zupaнii" languages="Russian">Загребская жупания</name>
+		<name normalized="Zagрibсьka zupaнii" languages="Ukrainian">Загребська жупанія</name>
+		<name normalized="Zagрipсka zupaнija" languages="Macedonian">Загрепска жупанија</name>
+		<name normalized="אیאلt زאgrb" languages="Persian">ایالت زاگرب</name>
+		<name normalized="dلع زאغrb" languages="Western Punjabi">ضلع زاغرب</name>
+		<name normalized="mqאtعة زغrb" languages="Arabic">مقاطعة زغرب</name>
+		<name normalized="zgrb郡" languages="Japanese">ザグレブ郡</name>
+		<name normalized="薩格勒布縣" languages="Chinese">薩格勒布縣</name>
+		<name normalized="자그레브 주" languages="Korean">자그레브 주</name>
+	</region>
+</regions>

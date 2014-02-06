@@ -1,0 +1,779 @@
+<regions country="Greece">
+	<region name="Agion Oros" type="autonomous monastic state" typeTranslated="autonomous monastic state">
+		<name normalized="Agion Oros" languages="English;official">Agion Oros</name>
+		<name normalized="Athos" languages="Basque;Catalan;Czech;Danish;Dutch;Esperanto;Faroese;Finnish;German;Ido;Latin;Norwegian (bokmal);Polish;Slovak;Swedish">Athos</name>
+		<name normalized="Athosz-hegy" languages="Hungarian">Athosz-hegy</name>
+		<name normalized="Atonas" languages="Lithuanian">Atonas</name>
+		<name normalized="Aynoroz" languages="Turkish">Aynoroz</name>
+		<name normalized="Atos" languages="Icelandic">Aþos</name>
+		<name normalized="Berg Athos" languages="Afrikaans">Berg Athos</name>
+		<name normalized="Brdo Atos" languages="Croatian">Brdo Atos</name>
+		<name normalized="Bukid Athos" languages="Waray">Bukid Athos</name>
+		<name normalized="Gunung Athos" languages="Indonesian">Gunung Athos</name>
+		<name normalized="Menez Athos" languages="Breton">Menez Athos</name>
+		<name normalized="Mont Athos" languages="French">Mont Athos</name>
+		<name normalized="Monte Athos" languages="Galician;Italian;Spanish">Monte Athos</name>
+		<name normalized="Monte Atos" languages="Portuguese">Monte Atos</name>
+		<name normalized="Mount Athos" languages="English;Javanese;official;Simple English">Mount Athos</name>
+		<name normalized="Munt Athos" languages="Scots">Munt Athos</name>
+		<name normalized="Muntele Athos" languages="Romanian">Muntele Athos</name>
+		<name normalized="Mynydd Athos" languages="Welsh">Mynydd Athos</name>
+		<name normalized="Monte Athos" languages="veneto">Mónte Athos</name>
+		<name normalized="Nui Athos" languages="Vietnamese">Núi Athos</name>
+		<name normalized="Sveta Gora" languages="Bosnian;Serbo-Croatian">Sveta Gora</name>
+		<name normalized="Athos" languages="Estonian;Norwegian Nynorsk">Áthos</name>
+		<name normalized="Χερσονησος του Αθω" languages="Greek">Χερσόνησος του Άθω</name>
+		<name normalized="Atoн" languages="Bulgarian">Атон</name>
+		<name normalized="Aфoн" languages="Russian;Ukrainian">Афон</name>
+		<name normalized="Сvita Goрa" languages="Macedonian;Serbian">Света Гора</name>
+		<name normalized="Աtvs" languages="Armenian">Աթոս</name>
+		<name normalized="hr אtvס" languages="Hebrew">הר אתוס</name>
+		<name normalized="jbل آثوس" languages="Arabic">جبل آثوس</name>
+		<name normalized="jbل אثوس" languages="Egyptian Spoken Arabic">جبل اثوس</name>
+		<name normalized="کوh آtوس" languages="Persian">کوه آتوس</name>
+		<name normalized="മൗണ്ട് ആഥോസ്" languages="Malayalam">മൗണ്ട് ആഥോസ്</name>
+		<name normalized="เมานต์เอธอส" languages="Thai">เมานต์เอธอส</name>
+		<name normalized="აიონ-ოროსი" languages="Georgian;Mingrelian">აიონ-ოროსი</name>
+		<name normalized="ats山" languages="Japanese">アトス山</name>
+		<name normalized="阿索斯山" languages="Chinese">阿索斯山</name>
+		<name normalized="아토스 산" languages="Korean">아토스 산</name>
+	</region>
+	<region name="Anatoliki Makedonia kai Thraki" type="region" typeTranslated="perifereia">
+		<name normalized="Anatoliki Makedonia kai Thraki" languages="English;official">Anatoliki Makedonia kai Thraki</name>
+		<name normalized="Anatoliki Makedonia kai Thraki Perifereia" languages="English;official">Anatoliki Makedonia kai Thraki Perifereia</name>
+		<name normalized="Anatoliki Makedonia kai Thraki Region" languages="English;official">Anatoliki Makedonia kai Thraki Region</name>
+		<name normalized="Aust-Makedonia og Thraki" languages="Norwegian Nynorsk">Aust-Makedonía og Thráki</name>
+		<name normalized="Dogu Makedonya ve Trakya" languages="Turkish">Doğu Makedonya ve Trakya</name>
+		<name normalized="East Macedonia and Thrace" languages="English;official">East Macedonia and Thrace</name>
+		<name normalized="East Macedonia and Thrace Perifereia" languages="English;official">East Macedonia and Thrace Perifereia</name>
+		<name normalized="East Macedonia and Thrace Region" languages="English;official">East Macedonia and Thrace Region</name>
+		<name normalized="East Macedonie an Thrace" languages="Scots">East Macedonie an Thrace</name>
+		<name normalized="Ekialdeko Mazedonia eta Trazia" languages="Basque">Ekialdeko Mazedonia eta Trazia</name>
+		<name normalized="Ida-Makedoonia ja Traakia" languages="Estonian">Ida-Makedoonia ja Traakia</name>
+		<name normalized="Ita-Makedonia ja Traakia" languages="Finnish">Itä-Makedonia ja Traakia</name>
+		<name normalized="Kelet-Makedonia es Thrakia" languages="Hungarian">Kelet-Makedónia és Thrákia</name>
+		<name normalized="Macedonia and Thrace" languages="English;official">Macedonia and Thrace</name>
+		<name normalized="Macedonia and Thrace Perifereia" languages="English;official">Macedonia and Thrace Perifereia</name>
+		<name normalized="Macedonia and Thrace Region" languages="English;official">Macedonia and Thrace Region</name>
+		<name normalized="Macedonia de Est si Tracia" languages="Romanian">Macedonia de Est și Tracia</name>
+		<name normalized="Macedonia Oriental e Tracia" languages="Galician">Macedonia Oriental e Tracia</name>
+		<name normalized="Macedonia Oriental y Tracia" languages="Spanish">Macedonia Oriental y Tracia</name>
+		<name normalized="Macedonia Orientale e Tracia" languages="Italian">Macedonia Orientale e Tracia</name>
+		<name normalized="Macedonia Orientalis et Thracia" languages="Latin">Macedonia Orientalis et Thracia</name>
+		<name normalized="Macedonia Oriental i Tracia" languages="Catalan">Macedònia Oriental i Tràcia</name>
+		<name normalized="Macedonia Urientala e Tracia" languages="lumbaart">Macedònia Urientàla e Tràcia</name>
+		<name normalized="Macedonia Oriental e Tracia" languages="Portuguese">Macedônia Oriental e Trácia</name>
+		<name normalized="Macidunia Urientali e Tracia" languages="Sicilian">Macidunia Urientali e Tracia</name>
+		<name normalized="Macedoine-Orientale-et-Thrace" languages="French">Macédoine-Orientale-et-Thrace</name>
+		<name normalized="Makedonia Timur dan Trasia" languages="Indonesian">Makedonia Timur dan Trasia</name>
+		<name normalized="Makedonia Wetan lan Trasia" languages="Javanese">Makedonia Wétan lan Trasia</name>
+		<name normalized="Maqedonia Lindore dhe Thrakia" languages="Albanian">Maqedonia Lindore dhe Thrakia</name>
+		<name normalized="Oos-Macedonie en Thracie" languages="Limburgish">Oos-Macedonië en Thracië</name>
+		<name normalized="Oost-Macedonie en Thracie" languages="Dutch">Oost-Macedonië en Thracië</name>
+		<name normalized="Orienta Makedonio kaj Trakio" languages="Esperanto">Orienta Makedonio kaj Trakio</name>
+		<name normalized="Ostmakedonien und Thrakien" languages="German">Ostmakedonien und Thrakien</name>
+		<name normalized="Periferija Istocna Makedonija i Trakija" languages="Serbo-Croatian">Periferija Istočna Makedonija i Trakija</name>
+		<name normalized="Region Macedonia Wschodnia i Tracja" languages="Polish">Region Macedonia Wschodnia i Tracja</name>
+		<name normalized="Rytu Makedonijos ir Trakijos periferija" languages="Lithuanian">Rytų Makedonijos ir Trakijos periferija</name>
+		<name normalized="Sinirangan nga Macedonia ngan Thracia" languages="Waray">Sinirangan nga Macedonia ngan Thracia</name>
+		<name normalized="Vychodna Makedonia a Tracia" languages="Slovak">Východná Makedónia a Trácia</name>
+		<name normalized="Vychodni Makedonie a Thrakie" languages="Czech">Východní Makedonie a Thrákie</name>
+		<name normalized="Ostra Makedonien och Thrakien" languages="Swedish">Östra Makedonien och Thrakien</name>
+		<name normalized="Ost-Makedonia og Trakia" languages="Norwegian (bokmal)">Øst-Makedonia og Trakia</name>
+		<name normalized="Dong Macedonia va Thrace" languages="Vietnamese">Đông Macedonia và Thrace</name>
+		<name normalized="Sərqi Makedoniya və Trakya" languages="Azerbaijani">Şərqi Makedoniya və Trakya</name>
+		<name normalized="Περιφeρεια Ανατολικης Μακεδονιας και Θρακης" languages="Greek">Περιφέρεια Ανατολικής Μακεδονίας και Θράκης</name>
+		<name normalized="Voсtocнai Мakidoнii i Фрakii" languages="Russian">Восточная Македония и Фракия</name>
+		<name normalized="Iztocнa Мakidoнii i Tрakii" languages="Bulgarian">Източна Македония и Тракия</name>
+		<name normalized="Iсtocнa Мakidoнija i Tрakija" languages="Macedonian">Источна Македонија и Тракија</name>
+		<name normalized="Piрiфiрija Iсtocнa Мakidoнija i Tрakija" languages="Serbian">Периферија Источна Македонија и Тракија</name>
+		<name normalized="Сkidнa Мakidoнii ta Фрakii" languages="Ukrainian">Східна Македонія та Фракія</name>
+		<name normalized="Uсkodнii Мakidoнii i Фрakii" languages="Belarusian">Усходняя Македонія і Фракія</name>
+		<name normalized="מזrh מqדvnיh vtrאqיh" languages="Hebrew">מזרח מקדוניה ותראקיה</name>
+		<name normalized="sوbہ چڑھدא mqدونیہ tے tھrیس" languages="Western Punjabi">صوبہ چڑھدا مقدونیہ تے تھریس</name>
+		<name normalized="mqدونyא אلشrqyة وtrאqyא" languages="Arabic">مقدونيا الشرقية وتراقيا</name>
+		<name normalized="mqدونیh شrqی و trאکیh" languages="Persian">مقدونیه شرقی و تراکیه</name>
+		<name normalized="აღმოსავლეთი მაკედონია და თრაკია" languages="Georgian">აღმოსავლეთი მაკედონია და თრაკია</name>
+		<name normalized="东马其顿-色雷斯" languages="Chinese">东马其顿-色雷斯</name>
+		<name normalized="東mkdna・trka" languages="Japanese">東マケドニア・トラキア</name>
+		<name normalized="동부 마케도니아와 트라키 주" languages="Korean">동부 마케도니아와 트라키 주</name>
+	</region>
+	<region name="Attiki" type="region" typeTranslated="perifereia">
+		<name normalized="An Ataic" languages="Irish">An Ataic</name>
+		<name normalized="Atica" languages="lumbaart;veneto">Atica</name>
+		<name normalized="Atika" languages="Albanian;Basque;Latvian;Lithuanian;Serbo-Croatian;Slovak;Slovenian">Atika</name>
+		<name normalized="Atika piirkond" languages="Estonian">Atika piirkond</name>
+		<name normalized="Atiko" languages="Esperanto">Atiko</name>
+		<name normalized="Attica" languages="English;Italian;Latin;Malay;official;Romanian;Scots;Sicilian;Simple English;Vietnamese;Welsh">Attica</name>
+		<name normalized="Attica Perifereia" languages="English;official">Attica Perifereia</name>
+		<name normalized="Attica Region" languages="English;official">Attica Region</name>
+		<name normalized="Attika" languages="Alemannisch;Azerbaijani;Breton;Czech;Danish;Dutch;Finnish;German;Hungarian;Indonesian;Javanese;Limburgish;Norwegian (bokmal);Swedish;Turkish;Waray">Attika</name>
+		<name normalized="Attiki" languages="English;official">Attiki</name>
+		<name normalized="Attiki Perifereia" languages="English;official">Attiki Perifereia</name>
+		<name normalized="Attiki Region" languages="English;official">Attiki Region</name>
+		<name normalized="Attiki" languages="Norwegian Nynorsk">Attikí</name>
+		<name normalized="Attique" languages="French">Attique</name>
+		<name normalized="Attyka" languages="Polish">Attyka</name>
+		<name normalized="Periferija Atika" languages="Croatian">Periferija Atika</name>
+		<name normalized="Atica" languages="Catalan">Àtica</name>
+		<name normalized="Atica" languages="Galician;Portuguese;Spanish">Ática</name>
+		<name normalized="Atika" languages="Bulgarian;Macedonian;Serbian">Атика</name>
+		<name normalized="Attikae" languages="Ossetic">Аттикæ</name>
+		<name normalized="Attika" languages="Kazakh;Russian;Ukrainian">Аттика</name>
+		<name normalized="Atыka" languages="Belarusian">Атыка</name>
+		<name normalized="Աttիkե" languages="Armenian">Ատտիկե</name>
+		<name normalized="אtיqh" languages="Hebrew">אטיקה</name>
+		<name normalized="אtיqע" languages="Yiddish">אטיקע</name>
+		<name normalized="آtیک" languages="Persian">آتیک</name>
+		<name normalized="أtykא" languages="Arabic">أتيكا</name>
+		<name normalized="አቲካ" languages="Amharic">አቲካ</name>
+		<name normalized="attik" languages="Japanese">アッティカ</name>
+		<name normalized="阿提卡" languages="Chinese">阿提卡</name>
+		<name normalized="아티키 주" languages="Korean">아티키 주</name>
+	</region>
+	<region name="Dytiki Ellada" type="region" typeTranslated="perifereia">
+		<name normalized="Batı Yunanistan" languages="Turkish">Batı Yunanistan</name>
+		<name normalized="Dytiki Ellada" languages="English;official">Dytiki Ellada</name>
+		<name normalized="Dytiki Ellada Perifereia" languages="English;official">Dytiki Ellada Perifereia</name>
+		<name normalized="Dytiki Ellada Region" languages="English;official">Dytiki Ellada Region</name>
+		<name normalized="Graecia Occidentalis" languages="Latin">Graecia Occidentalis</name>
+		<name normalized="Grecia de Vest" languages="Romanian">Grecia de Vest</name>
+		<name normalized="Grecia Occidental" languages="Galician;lumbaart;Spanish">Grecia Occidental</name>
+		<name normalized="Grecia Occidentale" languages="Italian">Grecia Occidentale</name>
+		<name normalized="Grece-Occidentale" languages="French">Grèce-Occidentale</name>
+		<name normalized="Grecia Occidental" languages="Catalan">Grècia Occidental</name>
+		<name normalized="Grecia Ocidental" languages="Portuguese">Grécia Ocidental</name>
+		<name normalized="Katundan nga Gresya" languages="Waray">Katundan nga Gresya</name>
+		<name normalized="Lansi-Kreikka" languages="Finnish">Länsi-Kreikka</name>
+		<name normalized="Laane-Kreeka piirkond" languages="Estonian">Lääne-Kreeka piirkond</name>
+		<name normalized="Nyugat-Gorogorszag" languages="Hungarian">Nyugat-Görögország</name>
+		<name normalized="Okcidenta Grekio" languages="Esperanto">Okcidenta Grekio</name>
+		<name normalized="Periferija Zapadna Grcka" languages="Croatian;Serbo-Croatian">Periferija Zapadna Grčka</name>
+		<name normalized="Region Grecja Zachodnia" languages="Polish">Region Grecja Zachodnia</name>
+		<name normalized="Tay Hy Lap" languages="Vietnamese">Tây Hy Lạp</name>
+		<name normalized="Vakaru Graikijos periferija" languages="Lithuanian">Vakarų Graikijos periferija</name>
+		<name normalized="Vest-Hellas" languages="Norwegian (bokmal);Norwegian Nynorsk">Vest-Hellas</name>
+		<name normalized="Vastra Grekland" languages="Swedish">Västra Grekland</name>
+		<name normalized="Wast Greece" languages="Scots">Wast Greece</name>
+		<name normalized="Wes-Griekeland" languages="Limburgish">Wes-Griekeland</name>
+		<name normalized="West Greece" languages="English;official">West Greece</name>
+		<name normalized="West Greece Perifereia" languages="English;official">West Greece Perifereia</name>
+		<name normalized="West Greece Region" languages="English;official">West Greece Region</name>
+		<name normalized="West-Griekenland" languages="Dutch">West-Griekenland</name>
+		<name normalized="Westgriechenland" languages="German">Westgriechenland</name>
+		<name normalized="Yunani Barat" languages="Indonesian">Yunani Barat</name>
+		<name normalized="Yunani Kulon" languages="Javanese">Yunani Kulon</name>
+		<name normalized="Zapadne Grecko" languages="Slovak">Západné Grécko</name>
+		<name normalized="Zapadni Recko" languages="Czech">Západní Řecko</name>
+		<name normalized="Περιφeρεια Δυτικης Ελλαδας" languages="Greek">Περιφέρεια Δυτικής Ελλάδας</name>
+		<name normalized="Zapadнa Gрtija" languages="Macedonian">Западна Грција</name>
+		<name normalized="Zapadнa Gърtii" languages="Bulgarian">Западна Гърция</name>
+		<name normalized="Zapadнai Gрitii" languages="Russian">Западная Греция</name>
+		<name normalized="Zakodнii Gрetыi" languages="Belarusian">Заходняя Грэцыя</name>
+		<name normalized="Zakidнa Gрitii" languages="Ukrainian">Західна Греція</name>
+		<name normalized="Ныguылaeн Gрikъ" languages="Ossetic">Ныгуылæн Грекъ</name>
+		<name normalized="Piрiфiрija Zapadнa Gрcka" languages="Serbian">Периферија Западна Грчка</name>
+		<name normalized="מעrb יvvן" languages="Hebrew">מערב יוון</name>
+		<name normalized="אسtאن یونאن غrbی" languages="Persian">استان یونان غربی</name>
+		<name normalized="sوbہ لیندא یونאن" languages="Western Punjabi">صوبہ لیندا یونان</name>
+		<name normalized="غrb אلyونאن" languages="Arabic">غرب اليونان</name>
+		<name normalized="დასავლეთი საბერძნეთი" languages="Georgian">დასავლეთი საბერძნეთი</name>
+		<name normalized="西grsy" languages="Japanese">西ギリシャ</name>
+		<name normalized="西希腊" languages="Chinese">西希腊</name>
+		<name normalized="서부 그리스 주" languages="Korean">서부 그리스 주</name>
+	</region>
+	<region name="Dytiki Makedonia" type="region" typeTranslated="perifereia">
+		<name normalized="An Mhacadoin Ghreigeach" languages="Irish">An Mhacadóin Ghréigeach</name>
+		<name normalized="Batı Makedonya" languages="Turkish">Batı Makedonya</name>
+		<name normalized="Dytiki Makedonia" languages="English;official">Dytiki Makedonia</name>
+		<name normalized="Dytiki Makedonia Perifereia" languages="English;official">Dytiki Makedonia Perifereia</name>
+		<name normalized="Dytiki Makedonia Region" languages="English;official">Dytiki Makedonia Region</name>
+		<name normalized="Egejska Makedonija" languages="Croatian">Egejska Makedonija</name>
+		<name normalized="Grekanman Makedonii" languages="Veps">Grekanman Makedonii</name>
+		<name normalized="Gresk Makedonia" languages="Norwegian Nynorsk">Gresk Makedonia</name>
+		<name normalized="Katundan nga Macedonia" languages="Waray">Katundan nga Macedonia</name>
+		<name normalized="Lansi-Makedonia" languages="Finnish">Länsi-Makedonia</name>
+		<name normalized="Laane-Makedoonia" languages="Estonian">Lääne-Makedoonia</name>
+		<name normalized="Macedonia" languages="Asturian;English;Italian;official;Polish;Romanian;Simple English;Spanish;Vietnamese;Welsh">Macedonia</name>
+		<name normalized="Macedonia de Vest" languages="Romanian">Macedonia de Vest</name>
+		<name normalized="Macedonia Graeca" languages="Latin">Macedonia Graeca</name>
+		<name normalized="Macedonia Occidental" languages="Galician;Spanish">Macedonia Occidental</name>
+		<name normalized="Macedonia Occidentale" languages="Italian">Macedonia Occidentale</name>
+		<name normalized="Macedonia Occidentalis" languages="Latin">Macedonia Occidentalis</name>
+		<name normalized="Macedonia Perifereia" languages="English;official">Macedonia Perifereia</name>
+		<name normalized="Macedonia Region" languages="English;official">Macedonia Region</name>
+		<name normalized="Macedonie" languages="Dutch">Macedonië</name>
+		<name normalized="Macedonia" languages="Catalan;Occitan">Macedònia</name>
+		<name normalized="Macedonia Occidental" languages="Catalan">Macedònia Occidental</name>
+		<name normalized="Macedonia Ucidental" languages="lumbaart">Macedònia Ucidental</name>
+		<name normalized="Macedonia" languages="Portuguese">Macedónia</name>
+		<name normalized="Macedonia Ocidental" languages="Portuguese">Macedônia Ocidental</name>
+		<name normalized="Macidonia" languages="Sicilian">Macidonia</name>
+		<name normalized="Macidunia Uccidentali" languages="Sicilian">Macidunia Uccidentali</name>
+		<name normalized="Macedoine grecque" languages="French">Macédoine grecque</name>
+		<name normalized="Macedoine-Occidentale" languages="French">Macédoine-Occidentale</name>
+		<name normalized="Makedonia" languages="Breton;Finnish;Norwegian (bokmal)">Makedonia</name>
+		<name normalized="Makedonia Barat" languages="Indonesian">Makedonia Barat</name>
+		<name normalized="Makedonia Gartseasca" languages="Aromanian">Makedonia Gãrtseascã</name>
+		<name normalized="Makedonia Kulon" languages="Javanese">Makedonia Kulon</name>
+		<name normalized="Makedonie" languages="Czech">Makedonie</name>
+		<name normalized="Makedonien" languages="Alemannisch;Danish;German;Low German;Luxembourgish;Swedish">Makedonien</name>
+		<name normalized="Makedonija" languages="Bosnian;Lithuanian;Serbo-Croatian">Makedonija</name>
+		<name normalized="Makedonio" languages="Esperanto">Makedonio</name>
+		<name normalized="Makedonya" languages="Turkish">Makedonya</name>
+		<name normalized="Makeduoneje" languages="Samogitian">Makeduonėjė</name>
+		<name normalized="Makedonia" languages="Slovak">Makedónia</name>
+		<name normalized="Maqedonia" languages="Albanian">Maqedonia</name>
+		<name normalized="Masedonie" languages="Afrikaans">Masedonië</name>
+		<name normalized="Mazedonia" languages="Basque">Mazedonia</name>
+		<name normalized="Makedonija" languages="Latvian">Maķedonija</name>
+		<name normalized="Mendebaldeko Mazedonia" languages="Basque">Mendebaldeko Mazedonia</name>
+		<name normalized="Nyugat-Makedonia" languages="Hungarian">Nyugat-Makedónia</name>
+		<name normalized="Okcidenta Makedonio" languages="Esperanto">Okcidenta Makedonio</name>
+		<name normalized="Periferija Zapadna Makedonija" languages="Croatian;Serbo-Croatian">Periferija Zapadna Makedonija</name>
+		<name normalized="Qərbi Makedoniya" languages="Azerbaijani">Qərbi Makedoniya</name>
+		<name normalized="Region Macedonia Zachodnia" languages="Polish">Region Macedonia Zachodnia</name>
+		<name normalized="Tay Macedonia" languages="Vietnamese">Tây Macedonia</name>
+		<name normalized="Vakaru Makedonijos periferija" languages="Lithuanian">Vakarų Makedonijos periferija</name>
+		<name normalized="Vest-Makedonia" languages="Norwegian (bokmal)">Vest-Makedonia</name>
+		<name normalized="Vest-Makedonia" languages="Norwegian Nynorsk">Vest-Makedonía</name>
+		<name normalized="Vastra Makedonien" languages="Swedish">Västra Makedonien</name>
+		<name normalized="Wast Macedonie" languages="Scots">Wast Macedonie</name>
+		<name normalized="Wes-Macedonie" languages="Limburgish">Wes-Macedonië</name>
+		<name normalized="West Macedonia" languages="English;official;Simple English">West Macedonia</name>
+		<name normalized="West Macedonia Perifereia" languages="English;official">West Macedonia Perifereia</name>
+		<name normalized="West Macedonia Region" languages="English;official">West Macedonia Region</name>
+		<name normalized="West-Macedonie" languages="Dutch">West-Macedonië</name>
+		<name normalized="Westmakedonien" languages="Alemannisch;German">Westmakedonien</name>
+		<name normalized="Yunanıstan Makedoniyası" languages="Azerbaijani">Yunanıstan Makedoniyası</name>
+		<name normalized="Zapadna Makedonia" languages="Slovak">Západná Makedónia</name>
+		<name normalized="Zapadni Makedonie" languages="Czech">Západní Makedonie</name>
+		<name normalized="Μακεδονια" languages="Greek;Pontic">Μακεδονία</name>
+		<name normalized="Περιφeρεια Δυτικης Μακεδονιας" languages="Greek">Περιφέρεια Δυτικής Μακεδονίας</name>
+		<name normalized="Igiйсka Мakidoнii" languages="Bulgarian">Егейска Македония</name>
+		<name normalized="Igijсka Мakidoнija" languages="Macedonian;Serbian">Егејска Македонија</name>
+		<name normalized="Zapadнa Мakidoнii" languages="Bulgarian">Западна Македония</name>
+		<name normalized="Zapadнa Мakidoнija" languages="Macedonian">Западна Македонија</name>
+		<name normalized="Zapadнai Мakidoнii" languages="Russian">Западная Македония</name>
+		<name normalized="Zakodнii Мakidoнii" languages="Belarusian">Заходняя Македонія</name>
+		<name normalized="Zakidнa Мakidoнii" languages="Ukrainian">Західна Македонія</name>
+		<name normalized="Мakidoнii" languages="Russian">Македония</name>
+		<name normalized="Мakidoнii" languages="Belarusian;Ukrainian;biлaрuсkai (taрaskivita)‎">Македонія</name>
+		<name normalized="Piрiфiрija Zapadнa Мakidoнija" languages="Serbian">Периферија Западна Македонија</name>
+		<name normalized="מעrb מqדvnיh" languages="Hebrew">מערב מקדוניה</name>
+		<name normalized="מqדvnיh hיvvnיt" languages="Hebrew">מקדוניה היוונית</name>
+		<name normalized="sوbہ لیندא mqدونیہ" languages="Western Punjabi">صوبہ لیندا مقدونیہ</name>
+		<name normalized="mqدونyא" languages="Arabic">مقدونيا</name>
+		<name normalized="mqدونyא אلغrbyة" languages="Arabic">مقدونيا الغربية</name>
+		<name normalized="mqدونیh" languages="Persian">مقدونیه</name>
+		<name normalized="mqدونیh غrbی" languages="Persian">مقدونیه غربی</name>
+		<name normalized="mqدونیہ" languages="Urdu;Western Punjabi">مقدونیہ</name>
+		<name normalized="m্yাseডoniy়া" languages="Bengali">ম্যাসেডোনিয়া</name>
+		<name normalized="დასავლეთი მაკედონია" languages="Georgian">დასავლეთი მაკედონია</name>
+		<name normalized="მაკედონია" languages="Georgian">მაკედონია</name>
+		<name normalized="mkdna" languages="Japanese">マケドニア</name>
+		<name normalized="西mkdna" languages="Japanese">西マケドニア</name>
+		<name normalized="西马其顿" languages="Chinese">西马其顿</name>
+		<name normalized="马其顿" languages="Chinese">马其顿</name>
+		<name normalized="마케도니아" languages="Korean">마케도니아</name>
+		<name normalized="서부 마케도니아 주" languages="Korean">서부 마케도니아 주</name>
+	</region>
+	<region name="Ionia Nisia" type="region" typeTranslated="perifereia">
+		<name normalized="Dei joniske oyane" languages="Norwegian Nynorsk">Dei joniske øyane</name>
+		<name normalized="Ilhas Jonicas" languages="Portuguese">Ilhas Jónicas</name>
+		<name normalized="Illas Ionianas" languages="Occitan">Illas Ionianas</name>
+		<name normalized="Illes Joniques" languages="Catalan">Illes Jòniques</name>
+		<name normalized="Insulae Ioniae" languages="Latin">Insulae Ioniae</name>
+		<name normalized="Insulele Ionice" languages="Romanian">Insulele Ionice</name>
+		<name normalized="Ionia Nisia" languages="English;official">Ionia Nisia</name>
+		<name normalized="Ionia Nisia Perifereia" languages="English;official">Ionia Nisia Perifereia</name>
+		<name normalized="Ionia Nisia Region" languages="English;official">Ionia Nisia Region</name>
+		<name normalized="Ioniaj insuloj" languages="Esperanto">Ioniaj insuloj</name>
+		<name normalized="Ionian Islands" languages="English;official">Ionian Islands</name>
+		<name normalized="Ionian Islands Perifereia" languages="English;official">Ionian Islands Perifereia</name>
+		<name normalized="Ionian Islands Region" languages="English;official">Ionian Islands Region</name>
+		<name normalized="Ionie Islands" languages="Scots">Ionie Islands</name>
+		<name normalized="Ionische Eilanden" languages="Dutch">Ionische Eilanden</name>
+		<name normalized="Ionische Eilen" languages="Limburgish">Ionische Eilen</name>
+		<name normalized="Ionische Inseln" languages="German">Ionische Inseln</name>
+		<name normalized="Ioniske Oer" languages="Danish">Ioniske Øer</name>
+		<name normalized="Ishujt e Jonit" languages="Albanian">Ishujt e Jonit</name>
+		<name normalized="Islas Ionicas" languages="Waray">Islas Ionicas</name>
+		<name normalized="Islas Jonicas" languages="Spanish">Islas Jónicas</name>
+		<name normalized="Isole Ionie" languages="Italian">Isole Ionie</name>
+		<name normalized="Isul Ioni" languages="lumbaart">Isul Ioni</name>
+		<name normalized="Iyonya Adaları" languages="Turkish">İyonya Adaları</name>
+		<name normalized="Ionske ostrovy" languages="Slovak">Iónske ostrovy</name>
+		<name normalized="Ionske ostrovy" languages="Czech">Iónské ostrovy</name>
+		<name normalized="Joniako uharteak" languages="Basque">Joniako uharteak</name>
+		<name normalized="Joniska oarna" languages="Swedish">Joniska öarna</name>
+		<name normalized="Joniske oyer" languages="Norwegian (bokmal)">Joniske øyer</name>
+		<name normalized="Jonski otoci" languages="Croatian;Serbo-Croatian">Jonski otoci</name>
+		<name normalized="Joonia saared" languages="Estonian">Joonia saared</name>
+		<name normalized="Jooniansaaret" languages="Finnish">Jooniansaaret</name>
+		<name normalized="Jon-szigetek" languages="Hungarian">Jón-szigetek</name>
+		<name normalized="Jonaoyggjar" languages="Faroese">Jónaoyggjar</name>
+		<name normalized="Kapuloan Ionia" languages="Javanese">Kapuloan Ionia</name>
+		<name normalized="Kepulauan Ionia" languages="Indonesian">Kepulauan Ionia</name>
+		<name normalized="Quan dao Ionia" languages="Vietnamese">Quần đảo Ionia</name>
+		<name normalized="Wyspy Jonskie" languages="Polish">Wyspy Jońskie</name>
+		<name normalized="Ynysoedd Ionaidd" languages="Welsh">Ynysoedd Ionaidd</name>
+		<name normalized="Ixole Jonie" languages="veneto">Ìxołe Jonie</name>
+		<name normalized="Iles Ioniennes" languages="French">Îles Ioniennes</name>
+		<name normalized="Επτανησα" languages="Greek">Επτάνησα</name>
+		<name normalized="Ioнiciсkii oсtрova" languages="Russian">Ионические острова</name>
+		<name normalized="Йoнiйсki oсtрovi" languages="Bulgarian">Йонийски острови</name>
+		<name normalized="Iaнicныi aсtрavы" languages="Belarusian">Іанічныя астравы</name>
+		<name normalized="Ioнicнi oсtрovi" languages="Ukrainian">Іонічні острови</name>
+		<name normalized="Joнсki Oсtрovi" languages="Macedonian">Јонски Острови</name>
+		<name normalized="hאיים hיvnיים" languages="Hebrew">האיים היוניים</name>
+		<name normalized="آئیאونین jزیrے" languages="Western Punjabi">آئیاونین جزیرے</name>
+		<name normalized="jزאیr אیونی" languages="Persian">جزایر ایونی</name>
+		<name normalized="หมู่เกาะไอโอเนียน" languages="Thai">หมู่เกาะไอโอเนียน</name>
+		<name normalized="იონიის კუნძულები" languages="Georgian">იონიის კუნძულები</name>
+		<name normalized="iona諸島" languages="Japanese">イオニア諸島</name>
+		<name normalized="伊奧尼亞群島" languages="Chinese">伊奧尼亞群島</name>
+		<name normalized="이오니아 제도" languages="Korean">이오니아 제도</name>
+	</region>
+	<region name="Ipeiros" type="region" typeTranslated="perifereia">
+		<name normalized="Epeiros" languages="Finnish">Epeiros</name>
+		<name normalized="Epir" languages="Catalan;lumbaart;Polish;Romanian;Turkish">Epir</name>
+		<name normalized="Epiri" languages="Albanian">Epiri</name>
+		<name normalized="Epiro" languages="Basque;Esperanto;Italian;Spanish">Epiro</name>
+		<name normalized="Epiros" languages="Waray;Welsh">Epiros</name>
+		<name normalized="Epirus" languages="Czech;Dutch;English;German;Indonesian;Javanese;Latin;Limburgish;Malay;Norwegian (bokmal);official;Scots;Slovak;Swedish">Epirus</name>
+		<name normalized="Epirus Perifereia" languages="English;official">Epirus Perifereia</name>
+		<name normalized="Epirus Region" languages="English;official">Epirus Region</name>
+		<name normalized="Epirusz" languages="Hungarian">Epirusz</name>
+		<name normalized="Epyras" languages="Lithuanian">Epyras</name>
+		<name normalized="Epyro periferija" languages="Lithuanian">Epyro periferija</name>
+		<name normalized="Ipeiros" languages="English;official">Ipeiros</name>
+		<name normalized="Ipeiros Perifereia" languages="English;official">Ipeiros Perifereia</name>
+		<name normalized="Ipeiros Region" languages="English;official">Ipeiros Region</name>
+		<name normalized="Periferija Epir" languages="Croatian;Serbo-Croatian">Periferija Epir</name>
+		<name normalized="Epire" languages="French">Épire</name>
+		<name normalized="Epiro" languages="Galician;Portuguese">Épiro</name>
+		<name normalized="Ipeiros" languages="Estonian;Vietnamese">Ípeiros</name>
+		<name normalized="Ipiros" languages="Norwegian Nynorsk">Ípiros</name>
+		<name normalized="Camerija" languages="Slovenian">Čamerija</name>
+		<name normalized="Ηπειρος" languages="Greek">Ήπειρος</name>
+		<name normalized="Περιφeρεια Ηπειρου" languages="Greek">Περιφέρεια Ηπείρου</name>
+		<name normalized="Ipiр" languages="Bulgarian;Macedonian">Епир</name>
+		<name normalized="Ipiр" languages="Ukrainian">Епір</name>
+		<name normalized="Piрiфiрija Ipiр" languages="Serbian">Периферија Епир</name>
+		<name normalized="Epiр" languages="Russian">Эпир</name>
+		<name normalized="Epiр" languages="Belarusian">Эпір</name>
+		<name normalized="אpיrvס" languages="Hebrew">אפירוס</name>
+		<name normalized="إbyrوس" languages="Arabic">إبيروس</name>
+		<name normalized="אسtאن אpیrوس" languages="Persian">استان اپیروس</name>
+		<name normalized="אpیrوس" languages="Persian">اپیروس</name>
+		<name normalized="ეპირი" languages="Georgian">ეპირი</name>
+		<name normalized="iprs" languages="Japanese">イピロス</name>
+		<name normalized="伊庇鲁斯" languages="Chinese">伊庇鲁斯</name>
+		<name normalized="이피로스 주" languages="Korean">이피로스 주</name>
+		<name normalized="이피로스 지방" languages="Korean">이피로스 지방</name>
+	</region>
+	<region name="Kentriki Makedonia" type="region" typeTranslated="perifereia">
+		<name normalized="Butnga nga Macedonia" languages="Waray">Butnga nga Macedonia</name>
+		<name normalized="Centraal-Macedonie" languages="Dutch">Centraal-Macedonië</name>
+		<name normalized="Central Macedonia" languages="English;official">Central Macedonia</name>
+		<name normalized="Central Macedonia Perifereia" languages="English;official">Central Macedonia Perifereia</name>
+		<name normalized="Central Macedonia Region" languages="English;official">Central Macedonia Region</name>
+		<name normalized="Central Macedonie" languages="Scots">Central Macedonie</name>
+		<name normalized="Centraol-Macedonie" languages="Limburgish">Centraol-Macedonië</name>
+		<name normalized="Centrines Makedonijos periferija" languages="Lithuanian">Centrinės Makedonijos periferija</name>
+		<name normalized="Erdialdeko Mazedonia" languages="Basque">Erdialdeko Mazedonia</name>
+		<name normalized="Kentriki Makedonia" languages="English;official">Kentriki Makedonia</name>
+		<name normalized="Kentriki Makedonia Perifereia" languages="English;official">Kentriki Makedonia Perifereia</name>
+		<name normalized="Kentriki Makedonia Region" languages="English;official">Kentriki Makedonia Region</name>
+		<name normalized="Kesk-Makedoonia" languages="Estonian">Kesk-Makedoonia</name>
+		<name normalized="Keski-Makedonia" languages="Finnish">Keski-Makedonia</name>
+		<name normalized="Kozep-Makedonia" languages="Hungarian">Közép-Makedónia</name>
+		<name normalized="Macedonia Central" languages="Galician;Spanish">Macedonia Central</name>
+		<name normalized="Macedonia Centrale" languages="Italian">Macedonia Centrale</name>
+		<name normalized="Macedonia Centrala" languages="Romanian">Macedonia Centrală</name>
+		<name normalized="Macedonia Media" languages="Latin">Macedonia Media</name>
+		<name normalized="Macedonia Tengah" languages="Malay">Macedonia Tengah</name>
+		<name normalized="Macedonia Central" languages="Catalan">Macedònia Central</name>
+		<name normalized="Macedonia Sentrala" languages="lumbaart">Macedònia Sentràla</name>
+		<name normalized="Macedonia Central" languages="Portuguese">Macedônia Central</name>
+		<name normalized="Macedoine-Centrale" languages="French">Macédoine-Centrale</name>
+		<name normalized="Makedonia Tengah" languages="Indonesian;Javanese">Makedonia Tengah</name>
+		<name normalized="Maqedonia Qendrore" languages="Albanian">Maqedonia Qendrore</name>
+		<name normalized="Mellersta Makedonien" languages="Swedish">Mellersta Makedonien</name>
+		<name normalized="Meza Makedonio" languages="Esperanto">Meza Makedonio</name>
+		<name normalized="Orta Makedoniya" languages="Azerbaijani">Orta Makedoniya</name>
+		<name normalized="Orta Makedonya" languages="Turkish">Orta Makedonya</name>
+		<name normalized="Periferija Sredisnja Makedonija" languages="Croatian;Serbo-Croatian">Periferija Središnja Makedonija</name>
+		<name normalized="Region Macedonia Srodkowa" languages="Polish">Region Macedonia Środkowa</name>
+		<name normalized="Sentral-Makedonia" languages="Norwegian (bokmal)">Sentral-Makedonia</name>
+		<name normalized="Sentral-Makedonia" languages="Norwegian Nynorsk">Sentral-Makedonía</name>
+		<name normalized="Stredna Makedonia" languages="Slovak">Stredná Makedónia</name>
+		<name normalized="Stredni Makedonie" languages="Czech">Střední Makedonie</name>
+		<name normalized="Trung Macedonia" languages="Vietnamese">Trung Macedonia</name>
+		<name normalized="Zentralmakedonien" languages="German">Zentralmakedonien</name>
+		<name normalized="Περιφeρεια Κεντρικης Μακεδονιας" languages="Greek">Περιφέρεια Κεντρικής Μακεδονίας</name>
+		<name normalized="Piрiфiрija Срidisna Мakidoнija" languages="Serbian">Периферија Средишња Македонија</name>
+		<name normalized="Tiнtрaлнa Мakidoнii" languages="Bulgarian">Централна Македония</name>
+		<name normalized="Tiнtрaлнa Мakidoнija" languages="Macedonian">Централна Македонија</name>
+		<name normalized="Tiнtрaлoн Мakidoнi" languages="Ossetic">Централон Македони</name>
+		<name normalized="Tiнtрaльнa Мakidoнii" languages="Ukrainian">Центральна Македонія</name>
+		<name normalized="Tiнtрaльнai Мakidoнii" languages="Russian">Центральная Македония</name>
+		<name normalized="Teнtрaльнai Мakidoнii" languages="Belarusian">Цэнтральная Македонія</name>
+		<name normalized="מrכז מqדvnיh" languages="Hebrew">מרכז מקדוניה</name>
+		<name normalized="sوbہ وشکאrلہ mfدونیہ" languages="Western Punjabi">صوبہ وشکارلہ مفدونیہ</name>
+		<name normalized="mqدونyא אلوسtى" languages="Arabic">مقدونيا الوسطى</name>
+		<name normalized="mqدونیh mrکزی" languages="Persian">مقدونیه مرکزی</name>
+		<name normalized="ცენტრალური მაკედონია" languages="Georgian">ცენტრალური მაკედონია</name>
+		<name normalized="中央mkdna" languages="Japanese">中央マケドニア</name>
+		<name normalized="中马其顿" languages="Chinese">中马其顿</name>
+		<name normalized="중부 마케도니아 주" languages="Korean">중부 마케도니아 주</name>
+	</region>
+	<region name="Kriti" type="region" typeTranslated="perifereia">
+		<name normalized="Creta" languages="Asturian;Catalan;Interlingua;Interlingue;Italian;Latin;lumbaart;Occitan;Portuguese;Romanian;Spanish;Tagalog;Welsh">Creta</name>
+		<name normalized="Crete" languages="English;Malay;official;Scots;Simple English">Crete</name>
+		<name normalized="Crete Perifereia" languages="English;official">Crete Perifereia</name>
+		<name normalized="Crete Region" languages="English;official">Crete Region</name>
+		<name normalized="Creto" languages="Old English">Creto</name>
+		<name normalized="Crita" languages="Sicilian">Crita</name>
+		<name normalized="Crete" languages="French">Crète</name>
+		<name normalized="Candia" languages="veneto">Càndia</name>
+		<name normalized="Girit" languages="Turkish">Girit</name>
+		<name normalized="Illa de Creta" languages="Galician">Illa de Creta</name>
+		<name normalized="Kreeta" languages="Estonian;Finnish">Kreeta</name>
+		<name normalized="Kreta" languages="Afrikaans;Albanian;Alemannisch;Basque;Bosnian;Breton;Croatian;Danish;Dutch;Faroese;German;Indonesian;Javanese;Kurdish;Limburgish;Lithuanian;Low German;Low Saxon (Netherlands);Luxembourgish;Norwegian (bokmal);Norwegian Nynorsk;Polish;Seeltersk;Silesian;Slovenian;Swedish;Upper Sorbian;Western Frisian">Kreta</name>
+		<name normalized="Krete" languages="Waray">Krete</name>
+		<name normalized="Kreto" languages="Esperanto">Kreto</name>
+		<name normalized="Krit" languages="Azerbaijani;Serbo-Croatian">Krit</name>
+		<name normalized="Kriti" languages="Chinese (Min Nan);English;Ido;official;Quechua">Kriti</name>
+		<name normalized="Kriti Perifereia" languages="English;official">Kriti Perifereia</name>
+		<name normalized="Kriti Region" languages="English;official">Kriti Region</name>
+		<name normalized="Krity" languages="Malagasy">Krity</name>
+		<name normalized="Kreta" languages="Czech;Hungarian;Slovak">Kréta</name>
+		<name normalized="Krit" languages="Icelandic">Krít</name>
+		<name normalized="Kriti" languages="Vietnamese">Kríti</name>
+		<name normalized="Kreta" languages="Latvian">Krēta</name>
+		<name normalized="Uzoqdan koʻrish" languages="Uzbek">Uzoqdan koʻrish</name>
+		<name normalized="Κρητη" languages="Greek">Κρήτη</name>
+		<name normalized="Voсtрaў Kрыt" languages="Belarusian">Востраў Крыт</name>
+		<name normalized="Kрit" languages="Bulgarian;Chuvash;Kazakh;Macedonian;Ossetic;Russian;Serbian;Tatar;Ukrainian">Крит</name>
+		<name normalized="Kрыt" languages="biлaрuсkai (taрaskivita)‎">Крыт</name>
+		<name normalized="Krեtե" languages="Armenian">Կրետե</name>
+		<name normalized="כrtים" languages="Hebrew">כרתים</name>
+		<name normalized="kryt" languages="Arabic;Egyptian Spoken Arabic">كريت</name>
+		<name normalized="کrt" languages="Persian">کرت</name>
+		<name normalized="کrیٹ" languages="Urdu;Western Punjabi">کریٹ</name>
+		<name normalized="ܩܪܛܐ" languages="Aramaic">ܩܪܛܐ</name>
+		<name normalized="k्riट" languages="Marathi">क्रीट</name>
+		<name normalized="k्rit" languages="Hindi">क्रीत</name>
+		<name normalized="கிரீட்" languages="Tamil">கிரீட்</name>
+		<name normalized="ครีต" languages="Thai">ครีต</name>
+		<name normalized="კრეტა" languages="Georgian;Mingrelian">კრეტა</name>
+		<name normalized="ቀርጤስ" languages="Amharic">ቀርጤስ</name>
+		<name normalized="krt島" languages="Japanese">クレタ島</name>
+		<name normalized="克里特" languages="Chinese">克里特</name>
+		<name normalized="크레타" languages="Korean">크레타</name>
+	</region>
+	<region name="Notio Aigaio" type="region" typeTranslated="perifereia">
+		<name normalized="Aegaeum Australe" languages="Latin">Aegaeum Australe</name>
+		<name normalized="Aegea Kidul" languages="Javanese">Aegea Kidul</name>
+		<name normalized="Aegea Selatan" languages="Indonesian;Malay">Aegea Selatan</name>
+		<name normalized="Aegean" languages="English;official">Aegean</name>
+		<name normalized="Aegean Perifereia" languages="English;official">Aegean Perifereia</name>
+		<name normalized="Aegean Region" languages="English;official;Tagalog">Aegean Region</name>
+		<name normalized="Dei sorlege egeiske oyane" languages="Norwegian Nynorsk">Dei sørlege egeiske øyane</name>
+		<name normalized="Del-Egei-szigetek" languages="Hungarian">Dél-Égei-szigetek</name>
+		<name normalized="Ege Bolgesi" languages="Turkish">Ege Bölgesi</name>
+		<name normalized="Egea regiono" languages="Esperanto">Egea regiono</name>
+		<name normalized="Egearregionen" languages="Norwegian Nynorsk">Egearregionen</name>
+		<name normalized="Egeea de Sud" languages="Romanian">Egeea de Sud</name>
+		<name normalized="Egej" languages="Serbo-Croatian;Slovenian">Egej</name>
+		<name normalized="Egejska regija" languages="Croatian">Egejska regija</name>
+		<name normalized="Egejsky region" languages="Czech">Egejský region</name>
+		<name normalized="Egeo" languages="Esperanto;Italian;Spanish">Egeo</name>
+		<name normalized="Egeo Meridional" languages="Spanish">Egeo Meridional</name>
+		<name normalized="Egeo Meridionale" languages="Italian">Egeo Meridionale</name>
+		<name normalized="Egeoko Kosta eskualdea" languages="Basque">Egeoko Kosta eskualdea</name>
+		<name normalized="Egeu" languages="Portuguese">Egeu</name>
+		<name normalized="Egeu Meridional" languages="Catalan;Portuguese">Egeu Meridional</name>
+		<name normalized="Egey regionu" languages="Azerbaijani">Egey regionu</name>
+		<name normalized="Egeische Zee-regio" languages="Dutch">Egeïsche Zee-regio</name>
+		<name normalized="Egeo Meridiunal" languages="lumbaart">Egéo Meridiunàl</name>
+		<name normalized="Etela-Egean saaret" languages="Finnish">Etelä-Egean saaret</name>
+		<name normalized="Exeo Meridional" languages="Galician">Exeo Meridional</name>
+		<name normalized="Guney Ege" languages="Turkish">Güney Ege</name>
+		<name normalized="Jizni Egeis" languages="Czech">Jižní Egeis</name>
+		<name normalized="Kanda ya Aegean" languages="Swahili">Kanda ya Aegean</name>
+		<name normalized="Louna-Egeus" languages="Estonian">Lõuna-Egeus</name>
+		<name normalized="Nam Aegea" languages="Vietnamese">Nam Aegea</name>
+		<name normalized="Notio Aigaio" languages="English;official">Notio Aigaio</name>
+		<name normalized="Notio Aigaio Perifereia" languages="English;official">Notio Aigaio Perifereia</name>
+		<name normalized="Notio Aigaio Region" languages="English;official">Notio Aigaio Region</name>
+		<name normalized="Periferija Juzni Egej" languages="Croatian;Serbo-Croatian">Periferija Južni Egej</name>
+		<name normalized="Pietu Egejo periferija" languages="Lithuanian">Pietų Egėjo periferija</name>
+		<name normalized="Region Wyspy Egejskie Poludniowe" languages="Polish">Region Wyspy Egejskie Południowe</name>
+		<name normalized="Regione dell'Egeo" languages="Italian">Regione dell'Egeo</name>
+		<name normalized="Regiunea Egeeana" languages="Romanian">Regiunea Egeeană</name>
+		<name normalized="Regiao do Egeu" languages="Portuguese">Região do Egeu</name>
+		<name normalized="Regio de l'Egeu" languages="Catalan">Regió de l'Egeu</name>
+		<name normalized="Region del Egeo" languages="Spanish">Región del Egeo</name>
+		<name normalized="Rexion do Exeo" languages="Galician">Rexión do Exeo</name>
+		<name normalized="Region egeenne" languages="French">Région égéenne</name>
+		<name normalized="Salatan nga Aegeo" languages="Waray">Salatan nga Aegeo</name>
+		<name normalized="Sooth Aegean" languages="Scots">Sooth Aegean</name>
+		<name normalized="South Aegean" languages="English;official">South Aegean</name>
+		<name normalized="South Aegean Perifereia" languages="English;official">South Aegean Perifereia</name>
+		<name normalized="South Aegean Region" languages="English;official">South Aegean Region</name>
+		<name normalized="Suda Egeo" languages="Esperanto">Suda Egeo</name>
+		<name normalized="Sydegeiska oarna" languages="Swedish">Sydegeiska öarna</name>
+		<name normalized="Sorlige egeiske oyer" languages="Norwegian (bokmal)">Sørlige egeiske øyer</name>
+		<name normalized="Sudliche Agais" languages="German">Südliche Ägäis</name>
+		<name normalized="Zuid-Egeische Eilanden" languages="Dutch">Zuid-Egeïsche Eilanden</name>
+		<name normalized="Zuid-Egeische Eilen" languages="Limburgish">Zuid-Egeïsche Eilen</name>
+		<name normalized="Agaisregion" languages="German">Ägäisregion</name>
+		<name normalized="Egei-tengeri regio" languages="Hungarian">Égei-tengeri régió</name>
+		<name normalized="Egee" languages="French">Égée</name>
+		<name normalized="Egee-Meridionale" languages="French">Égée-Méridionale</name>
+		<name normalized="Διαμeρισμα Αιγαιου" languages="Greek">Διαμέρισμα Αιγαίου</name>
+		<name normalized="Περιφeρεια Νοτιου Αιγαιου" languages="Greek">Περιφέρεια Νοτίου Αιγαίου</name>
+		<name normalized="Igiйсьkiй рigioн" languages="Ukrainian">Егейський регіон</name>
+		<name normalized="Igij" languages="Macedonian;Serbian">Егеј</name>
+		<name normalized="Igijсki рigioн" languages="Macedonian">Егејски регион</name>
+		<name normalized="Piрiфiрija Juzнi Igij" languages="Serbian">Периферија Јужни Егеј</name>
+		<name normalized="Pivdiннi Igiйсьki oсtрovi" languages="Ukrainian">Південні Егейські острови</name>
+		<name normalized="Egi рigioны" languages="Bashkir">Эге регионы</name>
+		<name normalized="Egiйсkiй рigioн" languages="Russian">Эгейский регион</name>
+		<name normalized="Egiйсki рegiён" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Эгейскі рэгіён</name>
+		<name normalized="Юziн Igiй" languages="Bulgarian">Южен Егей</name>
+		<name normalized="Юzныi Egiйсkii oсtрova" languages="Russian">Южные Эгейские острова</name>
+		<name normalized="Juziн Igij" languages="Macedonian">Јужен Егеј</name>
+		<name normalized="Eգեյան tաrաcաsrjան" languages="Armenian">Էգեյան տարածաշրջան</name>
+		<name normalized="דrvם hים hאגאי" languages="Hebrew">דרום הים האגאי</name>
+		<name normalized="מhvז hים hאגאי" languages="Hebrew">מחוז הים האגאי</name>
+		<name normalized="ئېgېy rאyونى" languages="Uyghur">ئېگېي رايونى</name>
+		<name normalized="אjh" languages="Persian">اژه</name>
+		<name normalized="אjh jنوbی" languages="Persian">اژه جنوبی</name>
+		<name normalized="jنوb إyjة" languages="Arabic">جنوب إيجة</name>
+		<name normalized="sوbہ tھلوאں אیjیئن" languages="Western Punjabi">صوبہ تھلواں ایجیئن</name>
+		<name normalized="mنtqة أyjh" languages="Arabic">منطقة أيجه</name>
+		<name normalized="نאhیh אjh" languages="Persian">ناحیه اژه</name>
+		<name normalized="نאوچەی ئێjە" languages="Sorani Kurdish">ناوچەی ئێژە</name>
+		<name normalized="ejiyn p्rdes" languages="Marathi">एजियन प्रदेश</name>
+		<name normalized="ეგეოსის რეგიონი" languages="Georgian">ეგეოსის რეგიონი</name>
+		<name normalized="სამხრეთ ეგეოსის კუნძულები" languages="Georgian">სამხრეთ ეგეოსის კუნძულები</name>
+		<name normalized="eーg海地方" languages="Japanese">エーゲ海地方</name>
+		<name normalized="南eーg" languages="Japanese">南エーゲ</name>
+		<name normalized="南愛琴" languages="Chinese">南愛琴</name>
+		<name normalized="爱琴海地区" languages="Chinese">爱琴海地区</name>
+		<name normalized="남부 에게 주" languages="Korean">남부 에게 주</name>
+		<name normalized="에게 해 지역" languages="Korean">에게 해 지역</name>
+	</region>
+	<region name="Peloponnisos" type="region" typeTranslated="perifereia">
+		<name normalized="Mora Yarımadası" languages="Turkish">Mora Yarımadası</name>
+		<name normalized="Morea" languages="veneto">Morea</name>
+		<name normalized="Peilipineiseach" languages="Irish">Peilipinéiseach</name>
+		<name normalized="Pelopones" languages="Kurdish">Pelopones</name>
+		<name normalized="Peloponesa" languages="Latvian">Peloponesa</name>
+		<name normalized="Peloponesas" languages="Lithuanian">Peloponesas</name>
+		<name normalized="Peloponeso" languages="Basque;Galician;Portuguese;Spanish">Peloponeso</name>
+		<name normalized="Peloponez" languages="Bosnian;Croatian;Polish;Romanian;Serbo-Croatian;Slovenian">Peloponez</name>
+		<name normalized="Peloponezo" languages="Esperanto">Peloponezo</name>
+		<name normalized="Peloponiso" languages="Aragonese">Peloponiso</name>
+		<name normalized="Peloponnes" languages="Alemannisch;Danish;Faroese;German;Low German;Luxembourgish;Norwegian (bokmal);Norwegian Nynorsk">Peloponnes</name>
+		<name normalized="Peloponnese" languages="Afrikaans;English;official;Simple English">Peloponnese</name>
+		<name normalized="Peloponnese Perifereia" languages="English;official">Peloponnese Perifereia</name>
+		<name normalized="Peloponnese Region" languages="English;official">Peloponnese Region</name>
+		<name normalized="Peloponneso" languages="Italian">Peloponneso</name>
+		<name normalized="Peloponnesos" languages="Breton;Dutch;Estonian;Finnish;Indonesian;Swedish;Welsh">Peloponnesos</name>
+		<name normalized="Peloponnesus" languages="Latin;Vietnamese">Peloponnesus</name>
+		<name normalized="Peloponnisos" languages="English;official">Peloponnisos</name>
+		<name normalized="Peloponnisos Perifereia" languages="English;official">Peloponnisos Perifereia</name>
+		<name normalized="Peloponnisos Region" languages="English;official">Peloponnisos Region</name>
+		<name normalized="Peloponneszosz" languages="Hungarian">Peloponnészosz</name>
+		<name normalized="Pelopones" languages="Catalan">Peloponès</name>
+		<name normalized="Pelopones" languages="Czech">Peloponés</name>
+		<name normalized="Peloponez" languages="Slovak">Peloponéz</name>
+		<name normalized="Pelopunes" languages="lumbaart">Pelopunés</name>
+		<name normalized="Peloponnisos" languages="Chinese (Min Nan)">Pelopónnisos</name>
+		<name normalized="Pelopsskagi" languages="Icelandic">Pelópsskagi</name>
+		<name normalized="Pilupunnesu" languages="Sicilian">Pilupunnesu</name>
+		<name normalized="Peloponnese" languages="French">Péloponnèse</name>
+		<name normalized="Πελοποννησος" languages="Greek">Πελοπόννησος</name>
+		<name normalized="Piлapaнiс" languages="Belarusian">Пелапанес</name>
+		<name normalized="Piлopoнiz" languages="Macedonian;Serbian">Пелопонез</name>
+		<name normalized="Piлopoнiс" languages="Bulgarian">Пелопонес</name>
+		<name normalized="Piлopoннiс" languages="Russian;Ukrainian">Пелопоннес</name>
+		<name normalized="Peлipaнeс" languages="biлaрuсkai (taрaskivita)‎">Пэляпанэс</name>
+		<name normalized="pדvpvnסvס" languages="Hebrew">פלופונסוס</name>
+		<name normalized="byلوbونyز" languages="Arabic">بيلوبونيز</name>
+		<name normalized="mوrیہ" languages="Urdu">موریہ</name>
+		<name normalized="pلوpونز" languages="Persian">پلوپونز</name>
+		<name normalized="pیلوpونیز" languages="Western Punjabi">پیلوپونیز</name>
+		<name normalized="peloponij़" languages="Hindi">पेलोपोनीज़</name>
+		<name normalized="เพโลพอนนีส" languages="Thai">เพโลพอนนีส</name>
+		<name normalized="პელოპონესის ნახევარკუნძული" languages="Georgian">პელოპონესის ნახევარკუნძული</name>
+		<name normalized="prpnss半島" languages="Japanese">ペロポネソス半島</name>
+		<name normalized="伯罗奔尼撒" languages="Chinese">伯罗奔尼撒</name>
+		<name normalized="펠로폰네소스 반도" languages="Korean">펠로폰네소스 반도</name>
+	</region>
+	<region name="Sterea Ellada" type="region" typeTranslated="perifereia">
+		<name normalized="Centra Grekio" languages="Esperanto">Centra Grekio</name>
+		<name normalized="Central Greece" languages="English;official">Central Greece</name>
+		<name normalized="Central Greece Perifereia" languages="English;official">Central Greece Perifereia</name>
+		<name normalized="Central Greece Region" languages="English;official">Central Greece Region</name>
+		<name normalized="Grecia Central" languages="Spanish">Grecia Central</name>
+		<name normalized="Periferija Centralna Grcka" languages="Serbo-Croatian">Periferija Centralna Grčka</name>
+		<name normalized="Sentral-Hellas" languages="Norwegian Nynorsk">Sentral-Hellas</name>
+		<name normalized="Sterea Ellada" languages="English;official">Sterea Ellada</name>
+		<name normalized="Sterea Ellada Perifereia" languages="English;official">Sterea Ellada Perifereia</name>
+		<name normalized="Sterea Ellada Region" languages="English;official">Sterea Ellada Region</name>
+		<name normalized="Zentralgriechenland" languages="German">Zentralgriechenland</name>
+		<name normalized="Στερεα Ελλαδα" languages="Greek">Στερεά Ελλάδα</name>
+		<name normalized="Срidisna Gрcka" languages="Serbian">Средишња Грчка</name>
+		<name normalized="Tiнtрaльнa Gрitii" languages="Ukrainian">Центральна Греція</name>
+		<name normalized="وشکאrلہ یونאن" languages="Western Punjabi">وشکارلہ یونان</name>
+		<name normalized="ცენტრალური საბერძნეთი" languages="Georgian">ცენტრალური საბერძნეთი</name>
+		<name normalized="중부 그리스" languages="Korean">중부 그리스</name>
+	</region>
+	<region name="Thessalia" type="region" typeTranslated="perifereia">
+		<name normalized="An Teasail" languages="Irish">An Teasáil</name>
+		<name normalized="Tesalia" languages="Basque;Galician;Polish;Romanian;Spanish">Tesalia</name>
+		<name normalized="Tesalija" languages="Croatian;Lithuanian;Serbo-Croatian;Slovenian">Tesalija</name>
+		<name normalized="Tesalio" languages="Esperanto">Tesalio</name>
+		<name normalized="Tesalonika" languages="Javanese">Tesalonika</name>
+		<name normalized="Tesalya" languages="Turkish">Tesalya</name>
+		<name normalized="Tessaalia piirkond" languages="Estonian">Tessaalia piirkond</name>
+		<name normalized="Tessaglia" languages="Italian">Tessaglia</name>
+		<name normalized="Tessalia" languages="Breton">Tessalia</name>
+		<name normalized="Tessalia" languages="Catalan">Tessàlia</name>
+		<name normalized="Tessalia" languages="Portuguese">Tessália</name>
+		<name normalized="Tesalia" languages="lumbaart">Tesàlia</name>
+		<name normalized="Tesalia" languages="Slovak">Tesália</name>
+		<name normalized="Thessalia" languages="English;Faroese;Finnish;Indonesian;Latin;Norwegian (bokmal);official">Thessalia</name>
+		<name normalized="Thessalia Perifereia" languages="English;official">Thessalia Perifereia</name>
+		<name normalized="Thessalia Region" languages="English;official">Thessalia Region</name>
+		<name normalized="Thessalie" languages="French">Thessalie</name>
+		<name normalized="Thessalien" languages="Alemannisch;German;Swedish">Thessalien</name>
+		<name normalized="Thessalie" languages="Dutch;Limburgish">Thessalië</name>
+		<name normalized="Thessaly" languages="English;official;Scots">Thessaly</name>
+		<name normalized="Thessaly Perifereia" languages="English;official">Thessaly Perifereia</name>
+		<name normalized="Thessaly Region" languages="English;official">Thessaly Region</name>
+		<name normalized="Thessalya" languages="Waray">Thessalya</name>
+		<name normalized="Thessalia" languages="Norwegian Nynorsk;Vietnamese">Thessalía</name>
+		<name normalized="Thesszalia" languages="Hungarian">Thesszália</name>
+		<name normalized="Thesalie" languages="Czech">Thesálie</name>
+		<name normalized="Tessalia" languages="Icelandic">Þessalía</name>
+		<name normalized="Θεσσαλια" languages="Greek">Θεσσαλία</name>
+		<name normalized="Tiсaлii" languages="Bulgarian">Тесалия</name>
+		<name normalized="Tiсaлija" languages="Macedonian;Serbian">Тесалија</name>
+		<name normalized="Фiсaлii" languages="Belarusian">Фесалія</name>
+		<name normalized="Фiссaлi" languages="Chuvash">Фессали</name>
+		<name normalized="Фiссaлii" languages="Russian">Фессалия</name>
+		<name normalized="Фiссaлii" languages="Ukrainian">Фессалія</name>
+		<name normalized="Фeсaлii" languages="biлaрuсkai (taрaskivita)‎">Фэсалія</name>
+		<name normalized="Tեsաlիա" languages="Armenian">Թեսալիա</name>
+		<name normalized="tסדיh" languages="Hebrew">תסליה</name>
+		<name normalized="tسאلی" languages="Persian">تسالی</name>
+		<name normalized="ثyسאلyא" languages="Arabic">ثيساليا</name>
+		<name normalized="sوbہ tھیسیلے" languages="Western Punjabi">صوبہ تھیسیلے</name>
+		<name normalized="თესალია" languages="Georgian">თესალია</name>
+		<name normalized="ttsra" languages="Japanese">テッサリア</name>
+		<name normalized="色萨利" languages="Chinese">色萨利</name>
+		<name normalized="테살리아" languages="Korean">테살리아</name>
+	</region>
+	<region name="Voreio Aigaio" type="region" typeTranslated="perifereia">
+		<name normalized="Aegaeum Boreale" languages="Latin">Aegaeum Boreale</name>
+		<name normalized="Aegea Lor" languages="Javanese">Aegea Lor</name>
+		<name normalized="Aegea Utara" languages="Indonesian;Malay">Aegea Utara</name>
+		<name normalized="Aegean" languages="English;official">Aegean</name>
+		<name normalized="Aegean Perifereia" languages="English;official">Aegean Perifereia</name>
+		<name normalized="Aegean Region" languages="English;official;Tagalog">Aegean Region</name>
+		<name normalized="Amihanan nga Aegeo" languages="Waray">Amihanan nga Aegeo</name>
+		<name normalized="Bac Aegea" languages="Vietnamese">Bắc Aegea</name>
+		<name normalized="Dei nordlege egeiske oyane" languages="Norwegian Nynorsk">Dei nordlege egeiske øyane</name>
+		<name normalized="Ege Bolgesi" languages="Turkish">Ege Bölgesi</name>
+		<name normalized="Egea regiono" languages="Esperanto">Egea regiono</name>
+		<name normalized="Egearregionen" languages="Norwegian Nynorsk">Egearregionen</name>
+		<name normalized="Egeea de Nord" languages="Romanian">Egeea de Nord</name>
+		<name normalized="Egej" languages="Serbo-Croatian;Slovenian">Egej</name>
+		<name normalized="Egejska regija" languages="Croatian">Egejska regija</name>
+		<name normalized="Egejsky region" languages="Czech">Egejský region</name>
+		<name normalized="Egeo" languages="Esperanto;Italian;Spanish">Egeo</name>
+		<name normalized="Egeo Septentrional" languages="Spanish">Egeo Septentrional</name>
+		<name normalized="Egeo Setentriunal" languages="lumbaart">Egeo Setentriunal</name>
+		<name normalized="Egeo Settentrionale" languages="Italian">Egeo Settentrionale</name>
+		<name normalized="Egeoko Kosta eskualdea" languages="Basque">Egeoko Kosta eskualdea</name>
+		<name normalized="Egeu" languages="Portuguese">Egeu</name>
+		<name normalized="Egeu Septentrional" languages="Catalan">Egeu Septentrional</name>
+		<name normalized="Egeu Setentrional" languages="Portuguese">Egeu Setentrional</name>
+		<name normalized="Egey regionu" languages="Azerbaijani">Egey regionu</name>
+		<name normalized="Egeische Zee-regio" languages="Dutch">Egeïsche Zee-regio</name>
+		<name normalized="Exeo Setentrional" languages="Galician">Exeo Setentrional</name>
+		<name normalized="Kanda ya Aegean" languages="Swahili">Kanda ya Aegean</name>
+		<name normalized="Kuzey Ege" languages="Turkish">Kuzey Ege</name>
+		<name normalized="Noord-Egeische Eilanden" languages="Dutch">Noord-Egeïsche Eilanden</name>
+		<name normalized="Noord-Egeische Eilen" languages="Limburgish">Noord-Egeïsche Eilen</name>
+		<name normalized="Norda Egeo" languages="Esperanto">Norda Egeo</name>
+		<name normalized="Nordegeiska oarna" languages="Swedish">Nordegeiska öarna</name>
+		<name normalized="Nordlige egeiske oyer" languages="Norwegian (bokmal)">Nordlige egeiske øyer</name>
+		<name normalized="North Aegean" languages="English;official;Scots">North Aegean</name>
+		<name normalized="North Aegean Perifereia" languages="English;official">North Aegean Perifereia</name>
+		<name normalized="North Aegean Region" languages="English;official">North Aegean Region</name>
+		<name normalized="Nordliche Agais" languages="German">Nördliche Ägäis</name>
+		<name normalized="Periferija Severni Egej" languages="Serbo-Croatian">Periferija Severni Egej</name>
+		<name normalized="Periferija Sjeverni Egej" languages="Croatian">Periferija Sjeverni Egej</name>
+		<name normalized="Pohjois-Egean saaret" languages="Finnish">Pohjois-Egean saaret</name>
+		<name normalized="Pohja-Egeus" languages="Estonian">Põhja-Egeus</name>
+		<name normalized="Region Wyspy Egejskie Polnocne" languages="Polish">Region Wyspy Egejskie Północne</name>
+		<name normalized="Regione dell'Egeo" languages="Italian">Regione dell'Egeo</name>
+		<name normalized="Regiunea Egeeana" languages="Romanian">Regiunea Egeeană</name>
+		<name normalized="Regiao do Egeu" languages="Portuguese">Região do Egeu</name>
+		<name normalized="Regio de l'Egeu" languages="Catalan">Regió de l'Egeu</name>
+		<name normalized="Region del Egeo" languages="Spanish">Región del Egeo</name>
+		<name normalized="Rexion do Exeo" languages="Galician">Rexión do Exeo</name>
+		<name normalized="Region egeenne" languages="French">Région égéenne</name>
+		<name normalized="Severni Egeis" languages="Czech">Severní Egeis</name>
+		<name normalized="Voreio Aigaio" languages="English;official">Voreio Aigaio</name>
+		<name normalized="Voreio Aigaio Perifereia" languages="English;official">Voreio Aigaio Perifereia</name>
+		<name normalized="Voreio Aigaio Region" languages="English;official">Voreio Aigaio Region</name>
+		<name normalized="Agaisregion" languages="German">Ägäisregion</name>
+		<name normalized="Egei-tengeri regio" languages="Hungarian">Égei-tengeri régió</name>
+		<name normalized="Egee" languages="French">Égée</name>
+		<name normalized="Egee-Septentrionale" languages="French">Égée-Septentrionale</name>
+		<name normalized="Eszak-Egei-szigetek" languages="Hungarian">Észak-Égei-szigetek</name>
+		<name normalized="Siaures Egejo periferija" languages="Lithuanian">Šiaurės Egėjo periferija</name>
+		<name normalized="Διαμeρισμα Αιγαιου" languages="Greek">Διαμέρισμα Αιγαίου</name>
+		<name normalized="Περιφeρεια Βορειου Αιγαιου" languages="Greek">Περιφέρεια Βορείου Αιγαίου</name>
+		<name normalized="Igiйсьkiй рigioн" languages="Ukrainian">Егейський регіон</name>
+		<name normalized="Igij" languages="Macedonian;Serbian">Егеј</name>
+		<name normalized="Igijсki рigioн" languages="Macedonian">Егејски регион</name>
+		<name normalized="Piрiфiрija Сiviрнi Igij" languages="Serbian">Периферија Северни Егеј</name>
+		<name normalized="Pivнicнi Igiйсьki oсtрovi" languages="Ukrainian">Північні Егейські острови</name>
+		<name normalized="Сiviрiн Igiй" languages="Bulgarian">Северен Егей</name>
+		<name normalized="Сiviрiн Igij" languages="Macedonian">Северен Егеј</name>
+		<name normalized="Сiviрныi Egiйсkii oсtрova" languages="Russian">Северные Эгейские острова</name>
+		<name normalized="Egi рigioны" languages="Bashkir">Эге регионы</name>
+		<name normalized="Egiйсkiй рigioн" languages="Russian">Эгейский регион</name>
+		<name normalized="Egiйсki рegiён" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Эгейскі рэгіён</name>
+		<name normalized="Eգեյան tաrաcաsrjան" languages="Armenian">Էգեյան տարածաշրջան</name>
+		<name normalized="מhvז hים hאגאי" languages="Hebrew">מחוז הים האגאי</name>
+		<name normalized="צpvן hים hאגאי" languages="Hebrew">צפון הים האגאי</name>
+		<name normalized="ئېgېy rאyونى" languages="Uyghur">ئېگېي رايونى</name>
+		<name normalized="אسtאن אjh شmאلی" languages="Persian">استان اژه شمالی</name>
+		<name normalized="אjh" languages="Persian">اژه</name>
+		<name normalized="شmאل إyjة" languages="Arabic">شمال إيجة</name>
+		<name normalized="sوbہ אtلא אیjیئن" languages="Western Punjabi">صوبہ اتلا ایجیئن</name>
+		<name normalized="mنtqة أyjh" languages="Arabic">منطقة أيجه</name>
+		<name normalized="نאhیh אjh" languages="Persian">ناحیه اژه</name>
+		<name normalized="نאوچەی ئێjە" languages="Sorani Kurdish">ناوچەی ئێژە</name>
+		<name normalized="ejiyn p्rdes" languages="Marathi">एजियन प्रदेश</name>
+		<name normalized="ეგეოსის რეგიონი" languages="Georgian">ეგეოსის რეგიონი</name>
+		<name normalized="ჩრდილოეთ ეგეოსის კუნძულები" languages="Georgian">ჩრდილოეთ ეგეოსის კუნძულები</name>
+		<name normalized="eーg海地方" languages="Japanese">エーゲ海地方</name>
+		<name normalized="北eーg" languages="Japanese">北エーゲ</name>
+		<name normalized="北愛琴" languages="Chinese">北愛琴</name>
+		<name normalized="爱琴海地区" languages="Chinese">爱琴海地区</name>
+		<name normalized="북부 에게 주" languages="Korean">북부 에게 주</name>
+		<name normalized="에게 해 지역" languages="Korean">에게 해 지역</name>
+	</region>
+</regions>

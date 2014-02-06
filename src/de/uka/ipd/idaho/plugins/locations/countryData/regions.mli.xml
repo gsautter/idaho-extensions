@@ -1,0 +1,278 @@
+<regions country="Mali">
+	<region name="District de Bamako" type="district" typeTranslated="district">
+		<name normalized="District de Bamako" languages="English;official">District de Bamako</name>
+	</region>
+	<region name="Gao" type="region" typeTranslated="region">
+		<name normalized="Gao" languages="Afrikaans;Bambara;Basque;Bosnian;Breton;Catalan;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Hungarian;Indonesian;Interlingue;Italian;Lithuanian;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Serbo-Croatian;Sicilian;Slovak;Slovenian;Spanish;Swedish;Vietnamese;Waray;Yoruba">Gao</name>
+		<name normalized="Gao eskualdea" languages="Basque">Gao eskualdea</name>
+		<name normalized="Gao piirkond" languages="Estonian">Gao piirkond</name>
+		<name normalized="Gao Region" languages="English;official;Simple English">Gao Region</name>
+		<name normalized="Gao regionas" languages="Lithuanian">Gao regionas</name>
+		<name normalized="Gao regio" languages="Hungarian">Gao régió</name>
+		<name normalized="Gaon alue" languages="Finnish">Gaon alue</name>
+		<name normalized="Region Gao" languages="German;Indonesian;Low German;Polish">Region Gao</name>
+		<name normalized="Regione di Gao" languages="Italian">Regione di Gao</name>
+		<name normalized="Regiono Gao" languages="Esperanto">Regiono Gao</name>
+		<name normalized="Regiunea Gao" languages="Romanian">Regiunea Gao</name>
+		<name normalized="Region de Gao" languages="French">Région de Gao</name>
+		<name normalized="Γκαο" languages="Greek">Γκάο</name>
+		<name normalized="Περιφeρεια Γκαο" languages="Greek">Περιφέρεια Γκαό</name>
+		<name normalized="Gao" languages="Bulgarian;Russian;Serbian;Ukrainian">Гао</name>
+		<name normalized="Ґao" languages="Ukrainian">Ґао</name>
+		<name normalized="גאv" languages="Hebrew">גאו</name>
+		<name normalized="אسtאن gאئو" languages="Persian">استان گائو</name>
+		<name normalized="علאqہ gאو" languages="Urdu">علاقہ گاو</name>
+		<name normalized="غאو" languages="Arabic">غاو</name>
+		<name normalized="mنtqة غאو" languages="Arabic">منطقة غاو</name>
+		<name normalized="gאئو" languages="Persian">گائو</name>
+		<name normalized="gאو" languages="Urdu">گاو</name>
+		<name normalized="กาโอ" languages="Thai">กาโอ</name>
+		<name normalized="go" languages="Japanese">ガオ</name>
+		<name normalized="go州" languages="Japanese">ガオ州</name>
+		<name normalized="加奥" languages="Chinese">加奥</name>
+		<name normalized="加奥区" languages="Chinese">加奥区</name>
+		<name normalized="가오" languages="Korean">가오</name>
+		<name normalized="가오 주" languages="Korean">가오 주</name>
+	</region>
+	<region name="Kayes" type="region" typeTranslated="region">
+		<name normalized="Kajesas" languages="Lithuanian">Kajesas</name>
+		<name normalized="Kajeso regionas" languages="Lithuanian">Kajeso regionas</name>
+		<name normalized="Kayes" languages="Basque;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Hungarian;Indonesian;Italian;Latin;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Swedish">Kayes</name>
+		<name normalized="Kayes eskualdea" languages="Basque">Kayes eskualdea</name>
+		<name normalized="Kayes Region" languages="English;official;Simple English">Kayes Region</name>
+		<name normalized="Kayes regio" languages="Hungarian">Kayes régió</name>
+		<name normalized="Kayesi piirkond" languages="Estonian">Kayesi piirkond</name>
+		<name normalized="Kayesin alue" languages="Finnish">Kayesin alue</name>
+		<name normalized="Kayi" languages="Bambara">Kayi</name>
+		<name normalized="Region Kayes" languages="German;Indonesian;Low German;Polish">Region Kayes</name>
+		<name normalized="Regione di Kayes" languages="Italian">Regione di Kayes</name>
+		<name normalized="Regiono Kayes" languages="Esperanto">Regiono Kayes</name>
+		<name normalized="Regiunea Kayes" languages="Romanian">Regiunea Kayes</name>
+		<name normalized="Region de Kayes" languages="French">Région de Kayes</name>
+		<name normalized="Καγιeς" languages="Greek">Καγιές</name>
+		<name normalized="Περιφeρεια Καγιeς" languages="Greek">Περιφέρεια Καγιές</name>
+		<name normalized="Goрad Kaiс" languages="Belarusian">Горад Каес</name>
+		<name normalized="Kaiс" languages="Russian">Каес</name>
+		<name normalized="Kaйiс" languages="Bulgarian">Кайес</name>
+		<name normalized="אسtאن کאیس" languages="Persian">استان کایس</name>
+		<name normalized="علאqہ کیز" languages="Urdu">علاقہ کیز</name>
+		<name normalized="kאyس" languages="Arabic">كايس</name>
+		<name normalized="mنtqة kאyس" languages="Arabic">منطقة كايس</name>
+		<name normalized="کאیس" languages="Persian">کایس</name>
+		<name normalized="კაესი" languages="Georgian">კაესი</name>
+		<name normalized="ki" languages="Japanese">カイ</name>
+		<name normalized="ki州" languages="Japanese">カイ州</name>
+		<name normalized="卡伊" languages="Chinese">卡伊</name>
+		<name normalized="卡伊區" languages="Chinese">卡伊區</name>
+		<name normalized="케이스" languages="Korean">케이스</name>
+		<name normalized="케이스 주" languages="Korean">케이스 주</name>
+	</region>
+	<region name="Kidal" type="region" typeTranslated="region">
+		<name normalized="Kidal" languages="Bambara;Basque;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Hungarian;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Swedish;Volapuk">Kidal</name>
+		<name normalized="Kidal eskualdea" languages="Basque">Kidal eskualdea</name>
+		<name normalized="Kidal Region" languages="English;official;Simple English">Kidal Region</name>
+		<name normalized="Kidal regio" languages="Hungarian">Kidal régió</name>
+		<name normalized="Kidali piirkond" languages="Estonian">Kidali piirkond</name>
+		<name normalized="Kidalin alue" languages="Finnish">Kidalin alue</name>
+		<name normalized="Kidalio regionas" languages="Lithuanian">Kidalio regionas</name>
+		<name normalized="Kidalis" languages="Lithuanian">Kidalis</name>
+		<name normalized="Region Kidal" languages="German;Indonesian;Low German;Polish">Region Kidal</name>
+		<name normalized="Regione di Kidal" languages="Italian">Regione di Kidal</name>
+		<name normalized="Regiono Kidal" languages="Esperanto">Regiono Kidal</name>
+		<name normalized="Regiunea Kidal" languages="Romanian">Regiunea Kidal</name>
+		<name normalized="Region de Kidal" languages="French">Région de Kidal</name>
+		<name normalized="Κινταλ" languages="Greek">Κιντάλ</name>
+		<name normalized="Περιφeρεια Κινταλ" languages="Greek">Περιφέρεια Κιντάλ</name>
+		<name normalized="Kidaл" languages="Bulgarian">Кидал</name>
+		<name normalized="Kidaль" languages="Russian">Кидаль</name>
+		<name normalized="Kidaль" languages="Ukrainian">Кідаль</name>
+		<name normalized="אسtאن کیدאل" languages="Persian">استان کیدال</name>
+		<name normalized="علאqہ کڈאل" languages="Urdu">علاقہ کڈال</name>
+		<name normalized="kyدאل" languages="Arabic">كيدال</name>
+		<name normalized="mنtqة kyدאل" languages="Arabic">منطقة كيدال</name>
+		<name normalized="کیدאل" languages="Persian">کیدال</name>
+		<name normalized="kdr" languages="Japanese">キダル</name>
+		<name normalized="kdr州" languages="Japanese">キダル州</name>
+		<name normalized="基達爾" languages="Chinese">基達爾</name>
+		<name normalized="基達爾區" languages="Chinese">基達爾區</name>
+		<name normalized="키달" languages="Korean">키달</name>
+		<name normalized="키달 주" languages="Korean">키달 주</name>
+	</region>
+	<region name="Koulikoro" type="region" typeTranslated="region">
+		<name normalized="Koulikoro" languages="Basque;Danish;Dutch;English;Esperanto;Finnish;French;German;Hungarian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Swedish">Koulikoro</name>
+		<name normalized="Koulikoro eskualdea" languages="Basque">Koulikoro eskualdea</name>
+		<name normalized="Koulikoro piirkond" languages="Estonian">Koulikoro piirkond</name>
+		<name normalized="Koulikoro Region" languages="English;official;Simple English">Koulikoro Region</name>
+		<name normalized="Koulikoro regio" languages="Hungarian">Koulikoro régió</name>
+		<name normalized="Koulikoron alue" languages="Finnish">Koulikoron alue</name>
+		<name normalized="Kulikoras" languages="Lithuanian">Kulikoras</name>
+		<name normalized="Kulikoro regionas" languages="Lithuanian">Kulikoro regionas</name>
+		<name normalized="Kulikoro" languages="Spanish">Kulikoró</name>
+		<name normalized="Kulikoro" languages="Bambara">Kulikɔrɔ</name>
+		<name normalized="Region Koulikoro" languages="German;Indonesian;Low German;Polish">Region Koulikoro</name>
+		<name normalized="Regione di Koulikoro" languages="Italian">Regione di Koulikoro</name>
+		<name normalized="Regiono Koulikoro" languages="Esperanto">Regiono Koulikoro</name>
+		<name normalized="Regiunea Koulikoro" languages="Romanian">Regiunea Koulikoro</name>
+		<name normalized="Region de Koulikoro" languages="French">Région de Koulikoro</name>
+		<name normalized="Κουλικορο" languages="Greek">Κουλικορό</name>
+		<name normalized="Περιφeρεια Κουλικορο" languages="Greek">Περιφέρεια Κουλικορό</name>
+		<name normalized="Kuлikoрo" languages="Bulgarian;Russian">Куликоро</name>
+		<name normalized="אسtאن کولیکوrو" languages="Persian">استان کولیکورو</name>
+		<name normalized="علאqہ کولیکوrو" languages="Urdu">علاقہ کولیکورو</name>
+		<name normalized="mنtqة kولykوrو" languages="Arabic">منطقة كوليكورو</name>
+		<name normalized="کولیکوrو" languages="Persian">کولیکورو</name>
+		<name normalized="เขตกูลีกอโร" languages="Thai">เขตกูลีกอโร</name>
+		<name normalized="krkr" languages="Japanese">クリコロ</name>
+		<name normalized="krkr州" languages="Japanese">クリコロ州</name>
+		<name normalized="库利科罗区" languages="Chinese">库利科罗区</name>
+		<name normalized="庫利科羅" languages="Chinese">庫利科羅</name>
+		<name normalized="쿨리코로" languages="Korean">쿨리코로</name>
+		<name normalized="쿨리코로 주" languages="Korean">쿨리코로 주</name>
+	</region>
+	<region name="Mopti" type="region" typeTranslated="region">
+		<name normalized="Mopti" languages="Bambara;Basque;Catalan;Croatian;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Hungarian;Indonesian;Italian;Latin;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Spanish;Swedish">Mopti</name>
+		<name normalized="Mopti eskualdea" languages="Basque">Mopti eskualdea</name>
+		<name normalized="Mopti piirkond" languages="Estonian">Mopti piirkond</name>
+		<name normalized="Mopti Region" languages="English;official;Simple English">Mopti Region</name>
+		<name normalized="Mopti-regionen" languages="Norwegian Nynorsk">Mopti-regionen</name>
+		<name normalized="Moptin alue" languages="Finnish">Moptin alue</name>
+		<name normalized="Moptis" languages="Lithuanian">Moptis</name>
+		<name normalized="Mopcio regionas" languages="Lithuanian">Mopčio regionas</name>
+		<name normalized="Region Mopti" languages="German;Indonesian;Low German;Polish">Region Mopti</name>
+		<name normalized="Regione di Mopti" languages="Italian">Regione di Mopti</name>
+		<name normalized="Regiono Mopti" languages="Esperanto">Regiono Mopti</name>
+		<name normalized="Regiunea Mopti" languages="Romanian">Regiunea Mopti</name>
+		<name normalized="Regio de Mopti" languages="Catalan">Regió de Mopti</name>
+		<name normalized="Region de Mopti" languages="French">Région de Mopti</name>
+		<name normalized="Μοπτι" languages="Greek">Μοπτί</name>
+		<name normalized="Περιφeρεια Μοπτι" languages="Greek">Περιφέρεια Μοπτί</name>
+		<name normalized="Мopti" languages="Bulgarian;Russian">Мопти</name>
+		<name normalized="אسtאن mوptی" languages="Persian">استان موپتی</name>
+		<name normalized="علאqہ mوpٹی" languages="Urdu">علاقہ موپٹی</name>
+		<name normalized="mنtqة mوbty" languages="Arabic">منطقة موبتي</name>
+		<name normalized="mوptی" languages="Persian">موپتی</name>
+		<name normalized="mpti" languages="Japanese">モプティ</name>
+		<name normalized="mpti州" languages="Japanese">モプティ州</name>
+		<name normalized="莫普提" languages="Chinese">莫普提</name>
+		<name normalized="莫普提区" languages="Chinese">莫普提区</name>
+		<name normalized="몹티" languages="Korean">몹티</name>
+		<name normalized="몹티 주" languages="Korean">몹티 주</name>
+	</region>
+	<region name="Segou" type="region" typeTranslated="region">
+		<name normalized="Region Segou" languages="German;Indonesian;Low German;Polish">Region Ségou</name>
+		<name normalized="Regione di Segou" languages="Italian">Regione di Ségou</name>
+		<name normalized="Regiono Segou" languages="Esperanto">Regiono Ségou</name>
+		<name normalized="Regiunea Segou" languages="Romanian">Regiunea Ségou</name>
+		<name normalized="Region de Segou" languages="French">Région de Ségou</name>
+		<name normalized="Segou" languages="English;official">Segou</name>
+		<name normalized="Segou Region" languages="English;official">Segou Region</name>
+		<name normalized="Segu" languages="Bambara;Lithuanian">Segu</name>
+		<name normalized="Segu regionas" languages="Lithuanian">Segu regionas</name>
+		<name normalized="Segu" languages="Spanish">Segú</name>
+		<name normalized="Segou" languages="Basque;Catalan;Danish;Dutch;English;Esperanto;Finnish;French;German;Hungarian;Indonesian;Italian;Latin;Norwegian (bokmal);Polish;Portuguese;Romanian;Swedish;Welsh;Western Frisian">Ségou</name>
+		<name normalized="Segou eskualdea" languages="Basque">Ségou eskualdea</name>
+		<name normalized="Segou piirkond" languages="Estonian">Ségou piirkond</name>
+		<name normalized="Segou Region" languages="English;Simple English">Ségou Region</name>
+		<name normalized="Segoun alue" languages="Finnish">Ségoun alue</name>
+		<name normalized="Περιφeρεια Σεγκοu" languages="Greek">Περιφέρεια Σεγκού</name>
+		<name normalized="Σεγκοu" languages="Greek">Σεγκού</name>
+		<name normalized="Сigu" languages="Russian">Сегу</name>
+		<name normalized="אسtאن سgو" languages="Persian">استان سگو</name>
+		<name normalized="سyغو" languages="Arabic">سيغو</name>
+		<name normalized="سgو" languages="Persian">سگو</name>
+		<name normalized="علאqہ سیgو" languages="Urdu">علاقہ سیگو</name>
+		<name normalized="mنtqة سyغو" languages="Arabic">منطقة سيغو</name>
+		<name normalized="sgー" languages="Japanese">セグー</name>
+		<name normalized="sgー州" languages="Japanese">セグー州</name>
+		<name normalized="塞古" languages="Chinese">塞古</name>
+		<name normalized="塞古区" languages="Chinese">塞古区</name>
+		<name normalized="세구" languages="Korean">세구</name>
+		<name normalized="세구 주" languages="Korean">세구 주</name>
+	</region>
+	<region name="Sikasso" type="region" typeTranslated="region">
+		<name normalized="Region Sikasso" languages="German;Indonesian;Low German;Polish">Region Sikasso</name>
+		<name normalized="Regione di Sikasso" languages="Italian">Regione di Sikasso</name>
+		<name normalized="Regiono Sikasso" languages="Esperanto">Regiono Sikasso</name>
+		<name normalized="Regiunea Sikasso" languages="Romanian">Regiunea Sikasso</name>
+		<name normalized="Region de Sikasso" languages="French">Région de Sikasso</name>
+		<name normalized="Sikasas" languages="Lithuanian">Sikasas</name>
+		<name normalized="Sikaso" languages="Bambara">Sikaso</name>
+		<name normalized="Sikaso regionas" languages="Lithuanian">Sikaso regionas</name>
+		<name normalized="Sikasso" languages="Afrikaans;Basque;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Hungarian;Indonesian;Interlingue;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Swedish">Sikasso</name>
+		<name normalized="Sikasso eskualdea" languages="Basque">Sikasso eskualdea</name>
+		<name normalized="Sikasso piirkond" languages="Estonian">Sikasso piirkond</name>
+		<name normalized="Sikasso Region" languages="English;official;Simple English">Sikasso Region</name>
+		<name normalized="Sikasso regio" languages="Hungarian">Sikasso régió</name>
+		<name normalized="Sikasson alue" languages="Finnish">Sikasson alue</name>
+		<name normalized="Περιφeρεια Σικασσο" languages="Greek">Περιφέρεια Σικασσό</name>
+		<name normalized="Σικασσο" languages="Greek">Σικασσό</name>
+		<name normalized="Сikaсo" languages="Russian">Сикасо</name>
+		<name normalized="אسtאن سیکאسو" languages="Persian">استان سیکاسو</name>
+		<name normalized="سیکאسو" languages="Persian">سیکاسو</name>
+		<name normalized="علאqہ سیکאسو" languages="Urdu">علاقہ سیکاسو</name>
+		<name normalized="mنtqة سykאسو" languages="Arabic">منطقة سيكاسو</name>
+		<name normalized="sks" languages="Japanese">シカソ</name>
+		<name normalized="sks州" languages="Japanese">シカソ州</name>
+		<name normalized="錫卡索" languages="Chinese">錫卡索</name>
+		<name normalized="锡卡索区" languages="Chinese">锡卡索区</name>
+		<name normalized="시카소" languages="Korean">시카소</name>
+		<name normalized="시카소 주" languages="Korean">시카소 주</name>
+	</region>
+	<region name="Tombouctou" type="region" typeTranslated="region">
+		<name normalized="Region Timbuktu" languages="German;Indonesian;Low German;Polish">Region Timbuktu</name>
+		<name normalized="Regione di Timbuctu" languages="Italian">Regione di Timbuctù</name>
+		<name normalized="Regiono Tombouctou" languages="Esperanto">Regiono Tombouctou</name>
+		<name normalized="Regiunea Tombouctou" languages="Romanian">Regiunea Tombouctou</name>
+		<name normalized="Regio de Tombouctou" languages="Catalan">Regió de Tombouctou</name>
+		<name normalized="Region de Tombouctou" languages="French">Région de Tombouctou</name>
+		<name normalized="Timbocto" languages="Occitan">Timboctó</name>
+		<name normalized="Timboektoe" languages="Dutch">Timboektoe</name>
+		<name normalized="Timbuctu" languages="Catalan;Nahuatl">Timbuctu</name>
+		<name normalized="Timbuctu" languages="Italian;Sicilian;veneto">Timbuctù</name>
+		<name normalized="Timbuktu" languages="Bambara;Bosnian;Croatian;Czech;Danish;English;Estonian;Finnish;German;Hungarian;Indonesian;Interlingue;Javanese;Ladino;Latvian;Lithuanian;Low German;Luxembourgish;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Polish;Scots;Serbo-Croatian;Simple English;Slovak;Swahili;Swedish;Turkish;Vietnamese;Waray;Yoruba">Timbuktu</name>
+		<name normalized="Timbuktu piirkond" languages="Estonian">Timbuktu piirkond</name>
+		<name normalized="Timbuktu Region" languages="English;official">Timbuktu Region</name>
+		<name normalized="Timbuktun alue" languages="Finnish">Timbuktun alue</name>
+		<name normalized="Timbuktuo" languages="Esperanto">Timbuktuo</name>
+		<name normalized="Timbuktu" languages="Aragonese">Timbuktú</name>
+		<name normalized="Timbuktu" languages="Icelandic">Timbúktú</name>
+		<name normalized="Timbuktu" languages="Western Frisian">Timbûktû</name>
+		<name normalized="Tombouctou" languages="Chinese (Min Nan);English;French;Galician;official;Portuguese;Romanian;Welsh">Tombouctou</name>
+		<name normalized="Tombouctou Region" languages="English;official;Simple English">Tombouctou Region</name>
+		<name normalized="Tombuctu" languages="Portuguese">Tombuctu</name>
+		<name normalized="Tombuctu" languages="Spanish">Tombuctú</name>
+		<name normalized="Tombuktu regionas" languages="Lithuanian">Tombuktu regionas</name>
+		<name normalized="Tombutum" languages="Latin">Tombutum</name>
+		<name normalized="Tonbuktu" languages="Basque">Tonbuktu</name>
+		<name normalized="Tonbuktu eskualdea" languages="Basque">Tonbuktu eskualdea</name>
+		<name normalized="Περιφeρεια Τομπουκτοu" languages="Greek">Περιφέρεια Τομπουκτού</name>
+		<name normalized="Τιμπουκτοu" languages="Greek">Τιμπουκτού</name>
+		<name normalized="Tiмbuktu" languages="Bulgarian;Serbian">Тимбукту</name>
+		<name normalized="Toмbuktu" languages="Russian">Томбукту</name>
+		<name normalized="Tiмbuktu" languages="Ukrainian">Тімбукту</name>
+		<name normalized="tימbvqtv" languages="Hebrew;Yiddish">טימבוקטו</name>
+		<name normalized="אسtאن tوmbوکtو" languages="Persian">استان تومبوکتو</name>
+		<name normalized="tmbktو" languages="Arabic">تمبكتو</name>
+		<name normalized="tیmbوکtو" languages="Persian">تیمبوکتو</name>
+		<name normalized="علאqہ ٹmbکٹو" languages="Urdu">علاقہ ٹمبکٹو</name>
+		<name normalized="mنtqة tmbktو" languages="Arabic">منطقة تمبكتو</name>
+		<name normalized="ٹmbکٹو" languages="Urdu">ٹمبکٹو</name>
+		<name normalized="टiंbk्टu" languages="Marathi">टिंबक्टू</name>
+		<name normalized="टim्bkटu" languages="Hindi">टिम्बकटू</name>
+		<name normalized="tiੰbktu" languages="Punjabi">ਤਿੰਬਕਤੂ</name>
+		<name normalized="ટim્bk્ટu" languages="Gujarati">ટિમ્બક્ટુ</name>
+		<name normalized="திம்பக்து" languages="Tamil">திம்பக்து</name>
+		<name normalized="టింబక్టు" languages="Telugu">టింబక్టు</name>
+		<name normalized="ಟಿಂಬಕ್ಟು" languages="Kannada">ಟಿಂಬಕ್ಟು</name>
+		<name normalized="റ്റിംബക്റ്റൂ" languages="Malayalam">റ്റിംബക്റ്റൂ</name>
+		<name normalized="ทิมบักตู" languages="Thai">ทิมบักตู</name>
+		<name normalized="ტომბუქტუ" languages="Georgian">ტომბუქტუ</name>
+		<name normalized="tnbktu" languages="Japanese">トンブクトゥ</name>
+		<name normalized="tnbktu州" languages="Japanese">トンブクトゥ州</name>
+		<name normalized="廷巴克图" languages="Chinese;Wu">廷巴克图</name>
+		<name normalized="廷巴克圖" languages="Classical Chinese">廷巴克圖</name>
+		<name normalized="通布圖區" languages="Chinese">通布圖區</name>
+		<name normalized="통북투 주" languages="Korean">통북투 주</name>
+		<name normalized="팀북투" languages="Korean">팀북투</name>
+	</region>
+</regions>

@@ -1,0 +1,211 @@
+<regions country="Djibouti">
+	<region name="Ali Sabieh" type="district" typeTranslated="cercle">
+		<name normalized="Ali Sabieh" languages="Breton;Danish;Dutch;English;Estonian;French;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Swedish;Turkish">Ali Sabieh</name>
+		<name normalized="Ali Sabieh Bolgesi" languages="Turkish">Ali Sabieh Bölgesi</name>
+		<name normalized="Ali Sabieh Cercle" languages="English;official">Ali Sabieh Cercle</name>
+		<name normalized="Ali Sabieh District" languages="English;official">Ali Sabieh District</name>
+		<name normalized="Ali Sabieh Region" languages="English">Ali Sabieh Region</name>
+		<name normalized="Ali Sabiehi piirkond" languages="Estonian">Ali Sabiehi piirkond</name>
+		<name normalized="Region Ali Sabieh" languages="Polish">Region Ali Sabieh</name>
+		<name normalized="Regione di Ali Sabieh" languages="Italian">Regione di Ali Sabieh</name>
+		<name normalized="Regiunea Ali Sabieh" languages="Romanian">Regiunea Ali Sabieh</name>
+		<name normalized="Regiao de Ali Sabieh" languages="Portuguese">Região de Ali Sabieh</name>
+		<name normalized="Region d'Ali Sabieh" languages="French">Région d'Ali Sabieh</name>
+		<name normalized="Wilayah Ali Sabieh" languages="Indonesian">Wilayah Ali Sabieh</name>
+		<name normalized="Αλι Σαμπι" languages="Greek">Αλί Σαμπί</name>
+		<name normalized="Περιφeρεια Αλι Σαμπι" languages="Greek">Περιφέρεια Αλί Σαμπί</name>
+		<name normalized="Aлi Сabik" languages="Bulgarian">Али Сабих</name>
+		<name normalized="Aлi Сabьi" languages="Russian">Али Сабье</name>
+		<name normalized="Aлi-Сabьi" languages="Russian">Али-Сабье</name>
+		<name normalized="Aлi-Сabii" languages="biлaрuсkai (taрaskivita)‎">Алі-Сабіе</name>
+		<name normalized="Goрad Aлi-Сab'i" languages="Belarusian">Горад Алі-Саб'е</name>
+		<name normalized="Рegiён Aлi-Сab'i" languages="Belarusian">Рэгіён Алі-Саб'е</name>
+		<name normalized="Աlի Sաbիյեh" languages="Armenian">Ալի Սաբիյեհ</name>
+		<name normalized="إqلym علy sbyh" languages="Arabic">إقليم علي صبيح</name>
+		<name normalized="علy sbyh" languages="Arabic">علي صبيح</name>
+		<name normalized="علی sbیh" languages="Persian">علی صبیح</name>
+		<name normalized="ar・sbe" languages="Japanese">アリ・サビエ</name>
+		<name normalized="ar・sbe州" languages="Japanese">アリ・サビエ州</name>
+		<name normalized="阿里萨比耶" languages="Chinese">阿里萨比耶</name>
+		<name normalized="阿里薩比州" languages="Chinese">阿里薩比州</name>
+		<name normalized="알리사비에" languages="Korean">알리사비에</name>
+		<name normalized="알리사비에 주" languages="Korean">알리사비에 주</name>
+	</region>
+	<region name="Arta" type="district" typeTranslated="cercle">
+		<name normalized="Arta" languages="Breton;Dutch;English;Estonian;Finnish;French;German;Norwegian (bokmal);official;Polish;Romanian;Swedish;Turkish;Vietnamese">Arta</name>
+		<name normalized="Arta Bolgesi" languages="Turkish">Arta Bölgesi</name>
+		<name normalized="Arta Cercle" languages="English;official">Arta Cercle</name>
+		<name normalized="Arta District" languages="English;official">Arta District</name>
+		<name normalized="Arta piirkond" languages="Estonian">Arta piirkond</name>
+		<name normalized="Arta Region" languages="English">Arta Region</name>
+		<name normalized="Carta" languages="Somali">Carta</name>
+		<name normalized="Region Arta" languages="Polish">Region Arta</name>
+		<name normalized="Regione di Arta" languages="Italian">Regione di Arta</name>
+		<name normalized="Regiunea Arta" languages="Romanian">Regiunea Arta</name>
+		<name normalized="Regiao de Arta" languages="Portuguese">Região de Arta</name>
+		<name normalized="Region d'Arta" languages="French">Région d'Arta</name>
+		<name normalized="Αρτα" languages="Greek">Άρτα</name>
+		<name normalized="Περιφeρεια Αρτα" languages="Greek">Περιφέρεια Άρτα</name>
+		<name normalized="Aрta" languages="Bulgarian;Russian;biлaрuсkai (taрaskivita)‎">Арта</name>
+		<name normalized="Goрad Aрta" languages="Belarusian">Горад Арта</name>
+		<name normalized="Рegiён Aрta" languages="Belarusian">Рэгіён Арта</name>
+		<name normalized="Աrtա" languages="Armenian">Արթա</name>
+		<name normalized="أrtא" languages="Arabic">أرتا</name>
+		<name normalized="إqلym عrtא" languages="Arabic">إقليم عرتا</name>
+		<name normalized="אrtא, jیbوtی" languages="Persian">ارتا، جیبوتی</name>
+		<name normalized="art" languages="Japanese">アルタ</name>
+		<name normalized="art州" languages="Japanese">アルタ州</name>
+		<name normalized="阿爾塔" languages="Chinese">阿爾塔</name>
+		<name normalized="阿爾塔州" languages="Chinese">阿爾塔州</name>
+		<name normalized="아르타" languages="Korean">아르타</name>
+		<name normalized="아르타 주" languages="Korean">아르타 주</name>
+	</region>
+	<region name="Dikhil" type="district" typeTranslated="cercle">
+		<name normalized="Dikhil" languages="Breton;Danish;Dutch;English;Estonian;French;German;Indonesian;Norwegian (bokmal);official;Polish;Romanian;Spanish;Swedish;Turkish">Dikhil</name>
+		<name normalized="Dikhil Bolgesi" languages="Turkish">Dikhil Bölgesi</name>
+		<name normalized="Dikhil Cercle" languages="English;official">Dikhil Cercle</name>
+		<name normalized="Dikhil District" languages="English;official">Dikhil District</name>
+		<name normalized="Dikhil Region" languages="English">Dikhil Region</name>
+		<name normalized="Dikhili piirkond" languages="Estonian">Dikhili piirkond</name>
+		<name normalized="Region Dikhil" languages="Polish">Region Dikhil</name>
+		<name normalized="Regione di Dikhil" languages="Italian">Regione di Dikhil</name>
+		<name normalized="Regiunea Dikhil" languages="Romanian">Regiunea Dikhil</name>
+		<name normalized="Regiao de Dikhil" languages="Portuguese">Região de Dikhil</name>
+		<name normalized="Region de Dikhil" languages="French">Région de Dikhil</name>
+		<name normalized="Ντικιλ" languages="Greek">Ντικίλ</name>
+		<name normalized="Περιφeρεια Ντικιλ" languages="Greek">Περιφέρεια Ντικίλ</name>
+		<name normalized="Goрad Dыkiл" languages="Belarusian">Горад Дыхіл</name>
+		<name normalized="Dikiл" languages="Bulgarian;Russian">Дихил</name>
+		<name normalized="Dыkiль" languages="biлaрuсkai (taрaskivita)‎">Дыхіль</name>
+		<name normalized="Рegiён Dыkiл" languages="Belarusian">Рэгіён Дыхіл</name>
+		<name normalized="Dիxիl" languages="Armenian">Դիխիլ</name>
+		<name normalized="إqلym دخyل" languages="Arabic">إقليم دخيل</name>
+		<name normalized="دخyل" languages="Arabic">دخيل</name>
+		<name normalized="دخیل" languages="Persian">دخیل</name>
+		<name normalized="dikr" languages="Japanese">ディキル</name>
+		<name normalized="dikr州" languages="Japanese">ディキル州</name>
+		<name normalized="迪基勒" languages="Chinese">迪基勒</name>
+		<name normalized="迪基爾州" languages="Chinese">迪基爾州</name>
+		<name normalized="디크힐" languages="Korean">디크힐</name>
+		<name normalized="디크힐 주" languages="Korean">디크힐 주</name>
+	</region>
+	<region name="Djibouti" type="district" typeTranslated="cercle">
+		<name normalized="Byen Djibouti" languages="Norwegian Nynorsk">Byen Djibouti</name>
+		<name normalized="Cibuti" languages="Azerbaijani;Turkish">Cibuti</name>
+		<name normalized="Dinas Djibouti" languages="Welsh">Dinas Djibouti</name>
+		<name normalized="Diobuiti" languages="Irish">Diobúití</name>
+		<name normalized="Djiboeti" languages="Afrikaans">Djiboeti</name>
+		<name normalized="Djibouti" languages="Asturian;Bosnian;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;Haitian;Indonesian;Javanese;lumbaart;Norwegian (bokmal);official;Piedmontese;Portuguese;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Swedish;Vietnamese">Djibouti</name>
+		<name normalized="Djibouti Cercle" languages="English;official">Djibouti Cercle</name>
+		<name normalized="Djibouti Chhi" languages="Chinese (Min Nan)">Djibouti Chhī</name>
+		<name normalized="Djibouti District" languages="English;official">Djibouti District</name>
+		<name normalized="Djibuti" languages="Basque;Novial">Djibuti</name>
+		<name normalized="Dschibuti" languages="German;Luxembourgish">Dschibuti</name>
+		<name normalized="Dzjibuty" languages="Western Frisian">Dzjibûty</name>
+		<name normalized="Dzsibuti" languages="Hungarian">Dzsibuti</name>
+		<name normalized="Dzibuti" languages="Polish">Dżibuti</name>
+		<name normalized="Dzibuti" languages="Latvian;Slovak;Slovenian">Džibuti</name>
+		<name normalized="Dzibutis" languages="Lithuanian">Džibutis</name>
+		<name normalized="Dzibuti" languages="Czech">Džíbútí</name>
+		<name normalized="Gibuti" languages="Italian;veneto">Gibuti</name>
+		<name normalized="Gibutum" languages="Latin">Gibutum</name>
+		<name normalized="Jabuuti" languages="Somali">Jabuuti</name>
+		<name normalized="Jiboti" languages="Occitan">Jiboti</name>
+		<name normalized="Jibuti" languages="Swahili;Wolof">Jibuti</name>
+		<name normalized="Lungsod ng Djibouti" languages="Tagalog">Lungsod ng Djibouti</name>
+		<name normalized="Sita Jibouti" languages="Cornish">Sita Jibouti</name>
+		<name normalized="Syudad han Djibouti" languages="Waray">Syudad han Djibouti</name>
+		<name normalized="Xibuti" languages="Galician">Xibutí</name>
+		<name normalized="Yibuti" languages="Spanish">Yibuti</name>
+		<name normalized="Ilu Djibouti" languages="Yoruba">Ìlú Djibouti</name>
+		<name normalized="Gibuto" languages="Esperanto">Ĝibuto</name>
+		<name normalized="Τζιμπουτι" languages="Greek">Τζιμπουτί</name>
+		<name normalized="Goрad Dzыbuti" languages="Belarusian">Горад Джыбуці</name>
+		<name normalized="Dzibuti" languages="Bulgarian;Chechen;Hill Mari;Russian;Udmurt">Джибути</name>
+		<name normalized="Dzibuti" languages="Ukrainian">Джибуті</name>
+		<name normalized="Dzыbuti" languages="biлaрuсkai (taрaskivita)‎">Джыбуці</name>
+		<name normalized="Zibuti saaры" languages="Kyrgyz">Жибути шаары</name>
+		<name normalized="Dzibuti" languages="Macedonian;Serbian">Џибути</name>
+		<name normalized="Cibuti" languages="Tajik">Ҷибути</name>
+		<name normalized="Jիbvytի" languages="Armenian">Ջիբութի</name>
+		<name normalized="ג'יbvtי" languages="Hebrew">ג'יבוטי</name>
+		<name normalized="דזשיbvtי" languages="Yiddish">דזשיבוטי</name>
+		<name normalized="jbوtی" languages="Urdu;Western Punjabi">جبوتی</name>
+		<name normalized="jybوty" languages="Arabic">جيبوتي</name>
+		<name normalized="jیbوtی" languages="Persian">جیبوتی</name>
+		<name normalized="jیbووtی" languages="Sorani Kurdish">جیبووتی</name>
+		<name normalized="jibuti" languages="Marathi">जिबूती</name>
+		<name normalized="jibuti" languages="Bengali">জিবুতি</name>
+		<name normalized="jibuti" languages="Punjabi">ਜਿਬੂਤੀ</name>
+		<name normalized="จิบูตี" languages="Thai">จิบูตี</name>
+		<name normalized="ཇི་བའོ་ཊི།" languages="Tibetan">ཇི་བའོ་ཊི།</name>
+		<name normalized="ჯიბუტი" languages="Georgian">ჯიბუტი</name>
+		<name normalized="zbt市" languages="Japanese">ジブチ市</name>
+		<name normalized="吉布地市" languages="Chinese">吉布地市</name>
+		<name normalized="지부티" languages="Korean">지부티</name>
+	</region>
+	<region name="Obock" type="district" typeTranslated="cercle">
+		<name normalized="Obock" languages="Breton;Catalan;Danish;Dutch;English;Estonian;French;German;Indonesian;Norwegian (bokmal);official;Polish;Romanian;Spanish;Swedish">Obock</name>
+		<name normalized="Obock Cercle" languages="English;official">Obock Cercle</name>
+		<name normalized="Obock District" languages="English;official">Obock District</name>
+		<name normalized="Obock Region" languages="English">Obock Region</name>
+		<name normalized="Obocki piirkond" languages="Estonian">Obocki piirkond</name>
+		<name normalized="Obuk" languages="Turkish">Obuk</name>
+		<name normalized="Obuk Bolgesi" languages="Turkish">Obuk Bölgesi</name>
+		<name normalized="Region Obock" languages="Polish">Region Obock</name>
+		<name normalized="Regione di Obock" languages="Italian">Regione di Obock</name>
+		<name normalized="Regiunea Obock" languages="Romanian">Regiunea Obock</name>
+		<name normalized="Regiao de Obock" languages="Portuguese">Região de Obock</name>
+		<name normalized="Region d'Obock" languages="French">Région d'Obock</name>
+		<name normalized="Ομποκ" languages="Greek">Ομπόκ</name>
+		<name normalized="Περιφeρεια Ομποκ" languages="Greek">Περιφέρεια Ομπόκ</name>
+		<name normalized="Abok" languages="biлaрuсkai (taрaskivita)‎">Абок</name>
+		<name normalized="Goрad Abok" languages="Belarusian">Горад Абок</name>
+		<name normalized="Obok" languages="Bulgarian;Russian">Обок</name>
+		<name normalized="Рegiён Abok" languages="Belarusian">Рэгіён Абок</name>
+		<name normalized="Obvkի եrkrաmաs" languages="Armenian">Օբոքի երկրամաս</name>
+		<name normalized="أوbوk" languages="Arabic">أوبوك</name>
+		<name normalized="إqلym أوbوk" languages="Arabic">إقليم أوبوك</name>
+		<name normalized="אوbوک" languages="Persian">اوبوک</name>
+		<name normalized="obtk" languages="Japanese">オボック</name>
+		<name normalized="obtk州" languages="Japanese">オボック州</name>
+		<name normalized="奧博克" languages="Chinese">奧博克</name>
+		<name normalized="奧博克州" languages="Chinese">奧博克州</name>
+		<name normalized="오보크" languages="Korean">오보크</name>
+		<name normalized="오보크 주" languages="Korean">오보크 주</name>
+	</region>
+	<region name="Tadjourah" type="district" typeTranslated="cercle">
+		<name normalized="Region Tadzura" languages="Polish">Region Tadżura</name>
+		<name normalized="Regione di Tagiura" languages="Italian">Regione di Tagiura</name>
+		<name normalized="Regiunea Tadjourah" languages="Romanian">Regiunea Tadjourah</name>
+		<name normalized="Regiao de Tadjourah" languages="Portuguese">Região de Tadjourah</name>
+		<name normalized="Regio de Tadjoura" languages="Catalan">Regió de Tadjoura</name>
+		<name normalized="Region de Tadjourah" languages="French">Région de Tadjourah</name>
+		<name normalized="Tadjoura" languages="Catalan;Danish;English;Estonian;Finnish;German;Norwegian (bokmal);Spanish">Tadjoura</name>
+		<name normalized="Tadjoura piirkond" languages="Estonian">Tadjoura piirkond</name>
+		<name normalized="Tadjourah" languages="Breton;Dutch;English;French;Indonesian;Norwegian (bokmal);official;Portuguese;Romanian;Swedish;Turkish">Tadjourah</name>
+		<name normalized="Tadjourah Bolgesi" languages="Turkish">Tadjourah Bölgesi</name>
+		<name normalized="Tadjourah Cercle" languages="English;official">Tadjourah Cercle</name>
+		<name normalized="Tadjourah District" languages="English;official">Tadjourah District</name>
+		<name normalized="Tadjourah Region" languages="English">Tadjourah Region</name>
+		<name normalized="Tadzura" languages="Polish">Tadżura</name>
+		<name normalized="Tagiura" languages="Italian">Tagiura</name>
+		<name normalized="Wilayah Tadjourah" languages="Indonesian">Wilayah Tadjourah</name>
+		<name normalized="Περιφeρεια Ταντζουρα" languages="Greek">Περιφέρεια Ταντζουρά</name>
+		<name normalized="Ταντζουρα" languages="Greek">Ταντζουρά</name>
+		<name normalized="Goрad Tadzuрa" languages="Belarusian">Горад Таджура</name>
+		<name normalized="Рegiён Tadzuрa" languages="Belarusian">Рэгіён Таджура</name>
+		<name normalized="Tadzuрa" languages="Bulgarian;Russian;biлaрuсkai (taрaskivita)‎">Таджура</name>
+		<name normalized="Tadzuрak" languages="Russian">Таджурах</name>
+		<name normalized="Tանjvyrաh" languages="Armenian">Թանջուրահ</name>
+		<name normalized="Tաjvyrա" languages="Armenian">Թաջուրա</name>
+		<name normalized="إqلym tאjوrة" languages="Arabic">إقليم تاجورة</name>
+		<name normalized="tאjوrh" languages="Persian">تاجوره</name>
+		<name normalized="tzyr" languages="Japanese">タジュラ</name>
+		<name normalized="tzyr州" languages="Japanese">タジュラ州</name>
+		<name normalized="塔朱拉" languages="Chinese">塔朱拉</name>
+		<name normalized="塔朱拉州" languages="Chinese">塔朱拉州</name>
+		<name normalized="타주라" languages="Korean">타주라</name>
+		<name normalized="타주라흐 주" languages="Korean">타주라흐 주</name>
+	</region>
+</regions>

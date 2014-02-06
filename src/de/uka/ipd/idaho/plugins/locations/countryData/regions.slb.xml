@@ -1,0 +1,217 @@
+<regions country="Solomon Islands">
+	<region name="Central" type="province" typeTranslated="province">
+		<name normalized="Central" languages="Dutch;English;French;Galician;German;Italian;official;Polish;Portuguese;Simple English;Spanish;Swedish;Vietnamese;Volapuk">Central</name>
+		<name normalized="Central Province" languages="English;official">Central Province</name>
+		<name normalized="Centrine provincija" languages="Lithuanian">Centrinė provincija</name>
+		<name normalized="Erdialdeko probintzia" languages="Basque">Erdialdeko probintzia</name>
+		<name normalized="Province centrale" languages="French">Province centrale</name>
+		<name normalized="Provincia Central" languages="Spanish">Provincia Central</name>
+		<name normalized="Provincia Centrale" languages="Italian">Provincia Centrale</name>
+		<name normalized="Provinsi Tengah" languages="Indonesian">Provinsi Tengah</name>
+		<name normalized="Provins Kreiz" languages="Breton">Proviñs Kreiz</name>
+		<name normalized="Provincia Central" languages="Catalan;Portuguese">Província Central</name>
+		<name normalized="Prowincja Centralna" languages="Polish">Prowincja Centralna</name>
+		<name normalized="Сiнtрaл" languages="Serbian">Сентрал</name>
+		<name normalized="Tiнtрaлнa Pрoviнtija" languages="Macedonian">Централна Провинција</name>
+		<name normalized="Tiнtрaль" languages="Russian">Централь</name>
+		<name normalized="Tiнtрaльнai pрoviнtii" languages="Russian">Центральная провинция</name>
+		<name normalized="mrکزی" languages="Persian">مرکزی</name>
+		<name normalized="sen্ট্rাl" languages="Bishnupria Manipuri">সেন্ট্রাল</name>
+		<name normalized="சென்ட்ரல்" languages="Tamil">சென்ட்ரல்</name>
+		<name normalized="กลาง" languages="Thai">กลาง</name>
+		<name normalized="sntrr" languages="Japanese">セントラル</name>
+		<name normalized="中" languages="Chinese;Gan">中</name>
+		<name normalized="中央州" languages="Japanese">中央州</name>
+		<name normalized="中部群島省" languages="Chinese">中部群島省</name>
+		<name normalized="센트럴" languages="Korean">센트럴</name>
+		<name normalized="중부 주" languages="Korean">중부 주</name>
+	</region>
+	<region name="Choiseul" type="province" typeTranslated="province">
+		<name normalized="Choiseul" languages="Croatian;Dutch;English;German;official;Spanish">Choiseul</name>
+		<name normalized="Choiseul Province" languages="English;official">Choiseul Province</name>
+		<name normalized="Province de Choiseul" languages="French">Province de Choiseul</name>
+		<name normalized="Provincia de Choiseul" languages="Galician">Provincia de Choiseul</name>
+		<name normalized="Provincia di Choiseul" languages="Italian">Provincia di Choiseul</name>
+		<name normalized="Provinsi Choiseul" languages="Indonesian">Provinsi Choiseul</name>
+		<name normalized="Provincia de Choiseul" languages="Portuguese">Província de Choiseul</name>
+		<name normalized="Prowincja Choiseul" languages="Polish">Prowincja Choiseul</name>
+		<name normalized="Suazelio provincija" languages="Lithuanian">Šuazelio provincija</name>
+		<name normalized="Suazёль" languages="Russian">Шуазёль</name>
+		<name normalized="tョisr州" languages="Japanese">チョイスル州</name>
+		<name normalized="舒瓦瑟爾省" languages="Chinese">舒瓦瑟爾省</name>
+		<name normalized="슈아절 주" languages="Korean">슈아절 주</name>
+	</region>
+	<region name="Guadalcanal" type="province" typeTranslated="province">
+		<name normalized="Guadalcanal" languages="Catalan;Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Italian;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Simple English;Slovak;Slovenian;Spanish;Swedish;Vietnamese">Guadalcanal</name>
+		<name normalized="Guadalcanal Province" languages="English;official">Guadalcanal Province</name>
+		<name normalized="Guadalcanal uhartea" languages="Basque">Guadalcanal uhartea</name>
+		<name normalized="Guadalkanal" languages="Indonesian">Guadalkanal</name>
+		<name normalized="Gvadalkanalio provincija" languages="Lithuanian">Gvadalkanalio provincija</name>
+		<name normalized="Gvadalkanalis" languages="Lithuanian">Gvadalkanalis</name>
+		<name normalized="Province de Guadalcanal" languages="French">Province de Guadalcanal</name>
+		<name normalized="Provincia de Guadalcanal" languages="Galician">Provincia de Guadalcanal</name>
+		<name normalized="Provincia di Guadalcanal" languages="Italian">Provincia di Guadalcanal</name>
+		<name normalized="Provinsi Guadalcanal" languages="Indonesian">Provinsi Guadalcanal</name>
+		<name normalized="Prowincja Guadalcanal" languages="Polish">Prowincja Guadalcanal</name>
+		<name normalized="Γκουανταλκαναλ" languages="Greek">Γκουανταλκανάλ</name>
+		<name normalized="Voсtрaў Guadaлkaнaл" languages="Belarusian">Востраў Гуадалканал</name>
+		<name normalized="Gvadaлkaнaл" languages="Serbian">Гвадалканал</name>
+		<name normalized="Guadaлkaнaл" languages="Bulgarian;Russian;Ukrainian">Гуадалканал</name>
+		<name normalized="גvvדדqnד" languages="Hebrew">גוודלקנל</name>
+		<name normalized="jوאدאلkאنאل" languages="Arabic">جوادالكانال</name>
+		<name normalized="gوאدאل‌کאنאل" languages="Persian">گوادال‌کانال</name>
+		<name normalized="g्vाdाlkenाl" languages="Marathi">ग्वादालकॅनाल</name>
+		<name normalized="กวาดัลคะแนล" languages="Thai">กวาดัลคะแนล</name>
+		<name normalized="gdrknr島" languages="Japanese">ガダルカナル島</name>
+		<name normalized="gdrknr州" languages="Japanese">ガダルカナル州</name>
+		<name normalized="瓜达尔卡纳尔岛" languages="Chinese">瓜达尔卡纳尔岛</name>
+		<name normalized="瓜達爾卡納爾省" languages="Chinese">瓜達爾卡納爾省</name>
+		<name normalized="과달카날 섬" languages="Korean">과달카날 섬</name>
+		<name normalized="과달카날 주" languages="Korean">과달카날 주</name>
+	</region>
+	<region name="Honiara" type="capital territory" typeTranslated="capital territory">
+		<name normalized="Honiara" languages="Afrikaans;Azerbaijani;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;Galician;German;Hungarian;Ido;Indonesian;Italian;Latvian;Lithuanian;lumbaart;Luxembourgish;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Piedmontese;Polish;Portuguese;Romanian;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Slovak;Somali;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Volapuk;Waray;Welsh;Western Frisian;Yoruba">Honiara</name>
+		<name normalized="Honiaro" languages="Esperanto">Honiaro</name>
+		<name normalized="Honiara" languages="Icelandic">Honíara</name>
+		<name normalized="Onyara" languages="Haitian">Onyara</name>
+		<name normalized="Ονιαρα" languages="Greek">Ονιάρα</name>
+		<name normalized="Goрad Kaнiiрa" languages="Belarusian">Горад Ханіяра</name>
+		<name normalized="Kaнiiрa" languages="biлaрuсkai (taрaskivita)‎">Ханіяра</name>
+		<name normalized="Koнiaрa" languages="Bulgarian;Russian;Sakha">Хониара</name>
+		<name normalized="Koнijaрa" languages="Macedonian;Serbian">Хонијара</name>
+		<name normalized="Koнiaрa" languages="Ukrainian">Хоніара</name>
+		<name normalized="hvnיאrh" languages="Hebrew">הוניארה</name>
+		<name normalized="hونyאrא" languages="Arabic">هونيارا</name>
+		<name normalized="hونیאrא" languages="Persian">هونیارا</name>
+		<name normalized="ہونیאrא" languages="Urdu">ہونیارا</name>
+		<name normalized="honiyाrा" languages="Marathi">होनियारा</name>
+		<name normalized="hੋniarਾ" languages="Punjabi">ਹੋਨੀਆਰਾ</name>
+		<name normalized="โฮนีอารา" languages="Thai">โฮนีอารา</name>
+		<name normalized="ཧོ་ཉི་ཡ་ར།" languages="Tibetan">ཧོ་ཉི་ཡ་ར།</name>
+		<name normalized="ჰონიარა" languages="Georgian">ჰონიარა</name>
+		<name normalized="ሆኒያራ" languages="Amharic">ሆኒያራ</name>
+		<name normalized="hnar" languages="Japanese">ホニアラ</name>
+		<name normalized="霍尼亚拉" languages="Chinese">霍尼亚拉</name>
+		<name normalized="호니아라" languages="Korean">호니아라</name>
+	</region>
+	<region name="Isabel" type="province" typeTranslated="province">
+		<name normalized="Isabel" languages="Croatian;Dutch;English;Finnish;Galician;German;official;Portuguese;Simple English;Spanish">Isabel</name>
+		<name normalized="Isabel Province" languages="English;official">Isabel Province</name>
+		<name normalized="Isabella" languages="Breton;Danish;Estonian;Finnish;German;Italian;Latin;Norwegian (bokmal);Swedish">Isabella</name>
+		<name normalized="Isabelle" languages="French">Isabelle</name>
+		<name normalized="Isabeles provincija" languages="Lithuanian">Isabelės provincija</name>
+		<name normalized="Izabela" languages="Czech;Esperanto;Polish;Slovak;Slovenian">Izabela</name>
+		<name normalized="Izabella" languages="Hungarian">Izabella</name>
+		<name normalized="Province d'Isabel" languages="French">Province d'Isabel</name>
+		<name normalized="Provincia di Isabel" languages="Italian">Provincia di Isabel</name>
+		<name normalized="Provinsi Isabel" languages="Indonesian">Provinsi Isabel</name>
+		<name normalized="Prowincja Isabel" languages="Polish">Prowincja Isabel</name>
+		<name normalized="Isabella" languages="Icelandic">Ísabella</name>
+		<name normalized="Izabiлa" languages="Serbian">Изабела</name>
+		<name normalized="Izabiллa" languages="Russian">Изабелла</name>
+		<name normalized="Iсabiль" languages="Russian">Исабель</name>
+		<name normalized="Izabiлa" languages="Ukrainian">Ізабела</name>
+		<name normalized="isbr州" languages="Japanese">イサベル州</name>
+		<name normalized="伊莎貝爾省" languages="Chinese">伊莎貝爾省</name>
+		<name normalized="이사벨 주" languages="Korean">이사벨 주</name>
+	</region>
+	<region name="Makira" type="province" typeTranslated="province">
+		<name normalized="Makira" languages="Dutch;English;Estonian;French;Galician;German;Italian;Lithuanian;official;Polish;Portuguese;Spanish">Makira</name>
+		<name normalized="Makira Province" languages="English;official">Makira Province</name>
+		<name normalized="Makira und Ulawa" languages="German">Makira und Ulawa</name>
+		<name normalized="Makira-Ulawa" languages="Croatian;Vietnamese">Makira-Ulawa</name>
+		<name normalized="Makira-Ulawa Province" languages="English">Makira-Ulawa Province</name>
+		<name normalized="Makiros-Ulavos provincija" languages="Lithuanian">Makiros-Ulavos provincija</name>
+		<name normalized="Province de Makira-Ulawa" languages="French">Province de Makira-Ulawa</name>
+		<name normalized="Provincia di Makira-Ulawa" languages="Italian">Provincia di Makira-Ulawa</name>
+		<name normalized="Provinsi Makira-Ulawa" languages="Indonesian">Provinsi Makira-Ulawa</name>
+		<name normalized="Prowincja Makira-Ulawa" languages="Polish">Prowincja Makira-Ulawa</name>
+		<name normalized="Dao Makira" languages="Vietnamese">Đảo Makira</name>
+		<name normalized="Мakiрa-Uлava" languages="Russian">Макира-Улава</name>
+		<name normalized="Сaн-Kрiсtobaль" languages="Russian">Сан-Кристобаль</name>
+		<name normalized="Сaн-Kрiсtobaль" languages="Ukrainian">Сан-Крістобаль</name>
+		<name normalized="mkr・urw州" languages="Japanese">マキラ・ウラワ州</name>
+		<name normalized="mkr島" languages="Japanese">マキラ島</name>
+		<name normalized="馬基拉-烏拉瓦省" languages="Chinese">馬基拉-烏拉瓦省</name>
+		<name normalized="馬基拉島" languages="Chinese">馬基拉島</name>
+		<name normalized="마키라 섬" languages="Korean">마키라 섬</name>
+		<name normalized="마키라-울라와 주" languages="Korean">마키라-울라와 주</name>
+	</region>
+	<region name="Malaita" type="province" typeTranslated="province">
+		<name normalized="Malaita" languages="Basque;Croatian;Czech;Dutch;English;French;Galician;German;Italian;Lithuanian;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish">Malaita</name>
+		<name normalized="Malaita Province" languages="English;official">Malaita Province</name>
+		<name normalized="Malaitos provincija" languages="Lithuanian">Malaitos provincija</name>
+		<name normalized="Province de Malaita" languages="French">Province de Malaita</name>
+		<name normalized="Provincia di Malaita" languages="Italian">Provincia di Malaita</name>
+		<name normalized="Provinsi Malaita" languages="Indonesian">Provinsi Malaita</name>
+		<name normalized="Prowincja Malaita" languages="Polish">Prowincja Malaita</name>
+		<name normalized="Dao Malaita" languages="Vietnamese">Đảo Malaita</name>
+		<name normalized="Мaлaita" languages="Russian">Малаита</name>
+		<name normalized="Мaлayta" languages="Ukrainian">Малаїта</name>
+		<name normalized="mrit島" languages="Japanese">マライタ島</name>
+		<name normalized="mrit州" languages="Japanese">マライタ州</name>
+		<name normalized="馬萊塔島" languages="Chinese">馬萊塔島</name>
+		<name normalized="馬萊塔省" languages="Chinese">馬萊塔省</name>
+		<name normalized="말라이타 섬" languages="Korean">말라이타 섬</name>
+		<name normalized="말라이타 주" languages="Korean">말라이타 주</name>
+	</region>
+	<region name="Rennell and Bellona" type="province" typeTranslated="province">
+		<name normalized="Mu Ngiki" languages="Danish">Mu Ngiki</name>
+		<name normalized="Province de Rennell et Bellona" languages="French">Province de Rennell et Bellona</name>
+		<name normalized="Provincia di Rennell e Bellona" languages="Italian">Provincia di Rennell e Bellona</name>
+		<name normalized="Provinsi Rennell dan Bellona" languages="Indonesian">Provinsi Rennell dan Bellona</name>
+		<name normalized="Prowincja Rennell i Bellona" languages="Polish">Prowincja Rennell i Bellona</name>
+		<name normalized="Renelo ir Belonos provincija" languages="Lithuanian">Renelo ir Belonos provincija</name>
+		<name normalized="Rennell and Bellona" languages="English;official">Rennell and Bellona</name>
+		<name normalized="Rennell and Bellona Province" languages="English;official">Rennell and Bellona Province</name>
+		<name normalized="Rennell e Bellona" languages="Galician">Rennell e Bellona</name>
+		<name normalized="Rennell i Bellona" languages="Catalan;Croatian">Rennell i Bellona</name>
+		<name normalized="Rennell ja Bellona" languages="Finnish">Rennell ja Bellona</name>
+		<name normalized="Rennell und Bellona" languages="German">Rennell und Bellona</name>
+		<name normalized="Rennell y Bellona" languages="Spanish">Rennell y Bellona</name>
+		<name normalized="Rennell-Bellona" languages="Dutch">Rennell-Bellona</name>
+		<name normalized="Tinh Rennell va Bellona" languages="Vietnamese">Tỉnh Rennell và Bellona</name>
+		<name normalized="Рiннiлл i Biллoнa" languages="Russian">Реннелл и Беллона</name>
+		<name normalized="rnnr・brーn州" languages="Japanese">レンネル・ベローナ州</name>
+		<name normalized="拉納爾和貝羅納省" languages="Chinese">拉納爾和貝羅納省</name>
+		<name normalized="렌넬-벨로나 주" languages="Korean">렌넬-벨로나 주</name>
+	</region>
+	<region name="Temotu" type="province" typeTranslated="province">
+		<name normalized="Province de Temotu" languages="French">Province de Temotu</name>
+		<name normalized="Provincia di Temotu" languages="Italian">Provincia di Temotu</name>
+		<name normalized="Provinsi Temotu" languages="Indonesian">Provinsi Temotu</name>
+		<name normalized="Prowincja Temotu" languages="Polish">Prowincja Temotu</name>
+		<name normalized="Temotu" languages="Croatian;Dutch;English;Finnish;Galician;German;official;Spanish;Vietnamese">Temotu</name>
+		<name normalized="Temotu Province" languages="English;official">Temotu Province</name>
+		<name normalized="Temotu provincija" languages="Lithuanian">Temotu provincija</name>
+		<name normalized="Temotu-provinsen" languages="Norwegian (bokmal)">Temotu-provinsen</name>
+		<name normalized="Tiмotu" languages="Russian">Темоту</name>
+		<name normalized="tymوtو" languages="Arabic">تيموتو</name>
+		<name normalized="tmt州" languages="Japanese">テモツ州</name>
+		<name normalized="泰莫圖省" languages="Chinese">泰莫圖省</name>
+		<name normalized="테모투 주" languages="Korean">테모투 주</name>
+	</region>
+	<region name="Western" type="province" typeTranslated="province">
+		<name normalized="Occidental" languages="Galician">Occidental</name>
+		<name normalized="Phuong Tay" languages="Vietnamese">Phương Tây</name>
+		<name normalized="Province occidentale" languages="French">Province occidentale</name>
+		<name normalized="Provincia Occidental" languages="Spanish">Provincia Occidental</name>
+		<name normalized="Provincia Occidentale" languages="Italian">Provincia Occidentale</name>
+		<name normalized="Provinsi Barat" languages="Indonesian">Provinsi Barat</name>
+		<name normalized="Provins ar C'hornog" languages="Breton">Proviñs ar C'hornôg</name>
+		<name normalized="Prowincja Zachodnia" languages="Polish">Prowincja Zachodnia</name>
+		<name normalized="Vakaru provincija" languages="Lithuanian">Vakarų provincija</name>
+		<name normalized="Vastprovinsen" languages="Swedish">Västprovinsen</name>
+		<name normalized="Western" languages="Danish;Dutch;English;French;Galician;German;Italian;official;Polish;Portuguese;Simple English;Spanish;Swedish">Western</name>
+		<name normalized="Western Province" languages="English;official">Western Province</name>
+		<name normalized="Zapadna provincija" languages="Croatian">Zapadna provincija</name>
+		<name normalized="Zapadнa pрoviнtii" languages="Bulgarian">Западна провинция</name>
+		<name normalized="Zapadнai pрoviнtii" languages="Russian">Западная провинция</name>
+		<name normalized="Ueсtiрн" languages="Russian">Уэстерн</name>
+		<name normalized="وسtrن" languages="Persian">وسترن</name>
+		<name normalized="uestn" languages="Japanese">ウエスタン</name>
+		<name normalized="西部州" languages="Japanese">西部州</name>
+		<name normalized="西部省" languages="Chinese">西部省</name>
+		<name normalized="서부 주" languages="Korean">서부 주</name>
+	</region>
+</regions>

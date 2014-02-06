@@ -1,0 +1,49 @@
+<regions country="Micronesia, Federated States of">
+	<region name="Chuuk" type="state" typeTranslated="state">
+		<name normalized="Chuuk" languages="English;official">Chuuk</name>
+		<name normalized="Truk" languages="English;official">Truk</name>
+		<name normalized="Tрuk" languages="Russian">Трук</name>
+	</region>
+	<region name="Kosrae" type="state" typeTranslated="state">
+		<name normalized="Kosaie" languages="English;official">Kosaie</name>
+		<name normalized="Kosrae" languages="Catalan;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Serbo-Croatian;Spanish;Swedish;Vietnamese">Kosrae</name>
+		<name normalized="Kosrae-sziget" languages="Hungarian">Kosrae-sziget</name>
+		<name normalized="Kosrae" languages="Lithuanian">Kosraė</name>
+		<name normalized="Voсtрaў Kaсрai" languages="Belarusian">Востраў Касрае</name>
+		<name normalized="Koсрai" languages="Macedonian;Ukrainian">Косрае</name>
+		<name normalized="Kosрaй" languages="Bulgarian">Кошрай</name>
+		<name normalized="Kuсaii" languages="Russian">Кусаие</name>
+		<name normalized="คอสไร" languages="Thai">คอสไร</name>
+		<name normalized="ksre州" languages="Japanese">コスラエ州</name>
+		<name normalized="科斯雷" languages="Chinese">科斯雷</name>
+		<name normalized="코스라에 섬" languages="Korean">코스라에 섬</name>
+	</region>
+	<region name="Pohnpei" type="state" typeTranslated="state">
+		<name normalized="Pohnpei" languages="Basque;Catalan;Dutch;English;Estonian;Finnish;French;Galician;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Serbo-Croatian;Simple English;Spanish;Swedish;Vietnamese">Pohnpei</name>
+		<name normalized="Ponape" languages="English;Esperanto;official;Serbo-Croatian">Ponape</name>
+		<name normalized="Ponape" languages="Lithuanian">Ponapė</name>
+		<name normalized="Voсtрaў Paнpii" languages="Belarusian">Востраў Панпеі</name>
+		<name normalized="Poнpiй" languages="Bulgarian">Понпей</name>
+		<name normalized="Poнpiy" languages="Ukrainian">Понпеї</name>
+		<name normalized="Poнpij" languages="Macedonian">Понпеј</name>
+		<name normalized="bونby" languages="Arabic">بونبي</name>
+		<name normalized="pnpi島" languages="Japanese">ポンペイ島</name>
+		<name normalized="波纳佩" languages="Chinese">波纳佩</name>
+		<name normalized="폰페이 섬" languages="Korean">폰페이 섬</name>
+	</region>
+	<region name="Yap" type="state" typeTranslated="state">
+		<name normalized="Japas" languages="Lithuanian">Japas</name>
+		<name normalized="Pulau Yap" languages="Indonesian">Pulau Yap</name>
+		<name normalized="Yap" languages="Basque;Catalan;Dutch;English;Esperanto;Estonian;Finnish;Galician;German;Italian;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Slovenian;Spanish;Swedish;Vietnamese">Yap</name>
+		<name normalized="Iles Yap" languages="French">Îles Yap</name>
+		<name normalized="Aсtрavы Яp" languages="Belarusian">Астравы Яп</name>
+		<name normalized="Яp" languages="Bulgarian;Russian">Яп</name>
+		<name normalized="Jap" languages="Macedonian">Јап</name>
+		<name normalized="יאp" languages="Hebrew">יאפ</name>
+		<name normalized="yאb" languages="Arabic">ياب</name>
+		<name normalized="แยป" languages="Thai">แยป</name>
+		<name normalized="ytp島" languages="Japanese">ヤップ島</name>
+		<name normalized="雅蒲島" languages="Chinese">雅蒲島</name>
+		<name normalized="야프 섬" languages="Korean">야프 섬</name>
+	</region>
+</regions>

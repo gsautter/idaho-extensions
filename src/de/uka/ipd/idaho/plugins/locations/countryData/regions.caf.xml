@@ -1,0 +1,239 @@
+<regions country="Central African Republic">
+	<region name="Bamingui-Bangoran" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Bamingis-Bangoranas" languages="Lithuanian">Bamingis-Bangoranas</name>
+		<name normalized="Bamingui-Bangoran" languages="Albanian;Breton;Catalan;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Norwegian (bokmal);official;Portuguese;Romanian;Spanish;Turkish;Vietnamese">Bamingui-Bangoran</name>
+		<name normalized="Bamingui-Bangoran Prefecture" languages="English;official">Bamingui-Bangoran Prefecture</name>
+		<name normalized="Prefektura Bamingui-Bangoran" languages="Polish">Prefektura Bamingui-Bangoran</name>
+		<name normalized="Prefettura di Bamingui-Bangoran" languages="Italian">Prefettura di Bamingui-Bangoran</name>
+		<name normalized="Sese ti komanda-kota ti Bamingi-Bangoran" languages="Sango">Sêse tî kömändâ-kötä tî Bamïngï-Bangoran</name>
+		<name normalized="Baмiнgi-Baнgoрaн" languages="Bulgarian;Russian">Баминги-Бангоран</name>
+		<name normalized="bmng・bngrn州" languages="Japanese">バミンギ・バンゴラン州</name>
+		<name normalized="巴明吉-班戈兰省" languages="Chinese">巴明吉-班戈兰省</name>
+		<name normalized="바밍기방고랑 주" languages="Korean">바밍기방고랑 주</name>
+	</region>
+	<region name="Bangui" type="commune" typeTranslated="commune">
+		<name normalized="Bangi" languages="Azerbaijani;Basque;Latvian;Lingala;Polish;Wolof">Bangi</name>
+		<name normalized="Bangio" languages="Esperanto">Bangio</name>
+		<name normalized="Bangis" languages="Lithuanian">Bangis</name>
+		<name normalized="Bangiy" languages="Haitian">Bangiy</name>
+		<name normalized="Bangui" languages="Afrikaans;Albanian;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;Franco-Provencal;French;Galician;German;Hungarian;Ido;Indonesian;Interlingue;Italian;Javanese;Kinyarwanda;Latin;Low German;lumbaart;Luxembourgish;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Piedmontese;Portuguese;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Slovak;Somali;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;veneto;Waray;Welsh;Western Frisian;Yoruba">Bangui</name>
+		<name normalized="Bangvi" languages="Icelandic">Bangví</name>
+		<name normalized="Kota gbata ti Bangi" languages="Sango">Kötä gbätä tî Bangî</name>
+		<name normalized="Μπανγκι" languages="Greek">Μπανγκί</name>
+		<name normalized="Baнgi" languages="Bulgarian;Chechen;Kyrgyz;Macedonian;Russian;Serbian;Tajik;Udmurt">Банги</name>
+		<name normalized="Baнgi" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Бангі</name>
+		<name normalized="Goрad Baнgi" languages="Belarusian">Горад Бангі</name>
+		<name normalized="Bանգի" languages="Armenian">Բանգի</name>
+		<name normalized="bnגי" languages="Hebrew">בנגי</name>
+		<name normalized="bאنغy" languages="Arabic">بانغي</name>
+		<name normalized="bאنgوئی" languages="Persian;Urdu">بانگوئی</name>
+		<name normalized="bאنgی" languages="Sorani Kurdish">بانگی</name>
+		<name normalized="bنgوئی" languages="Western Punjabi">بنگوئی</name>
+		<name normalized="bांgui" languages="Marathi">बांगुई</name>
+		<name normalized="bਾਂgi" languages="Punjabi">ਬਾਂਗੀ</name>
+		<name normalized="பாங்கி" languages="Tamil">பாங்கி</name>
+		<name normalized="บังกี" languages="Thai">บังกี</name>
+		<name normalized="བང་གུའི།" languages="Tibetan">བང་གུའི།</name>
+		<name normalized="ბანგი" languages="Georgian">ბანგი</name>
+		<name normalized="ባንጊ" languages="Amharic">ባንጊ</name>
+		<name normalized="bng" languages="Japanese">バンギ</name>
+		<name normalized="班基" languages="Chinese">班基</name>
+		<name normalized="방기" languages="Korean">방기</name>
+	</region>
+	<region name="Basse-Kotto" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Basse-Kotto" languages="Albanian;Breton;Catalan;Dutch;English;Esperanto;Finnish;French;German;Norwegian (bokmal);official;Portuguese;Spanish;Vietnamese">Basse-Kotto</name>
+		<name normalized="Basse-Kotto Prefecture" languages="English;official">Basse-Kotto Prefecture</name>
+		<name normalized="Prefectura Basse-Kotto" languages="Romanian">Prefectura Basse-Kotto</name>
+		<name normalized="Prefektura Basse-Kotto" languages="Polish">Prefektura Basse-Kotto</name>
+		<name normalized="Prefettura di Basse-Kotto" languages="Italian">Prefettura di Basse-Kotto</name>
+		<name normalized="Sese ti komanda-kota ti Do-Koto" languages="Sango">Sêse tî kömändâ-kötä tî Do-Kötö</name>
+		<name normalized="Zemutinis Kotas" languages="Lithuanian">Žemutinis Kotas</name>
+		<name normalized="Baс-Koto" languages="Bulgarian">Бас-Кото</name>
+		<name normalized="Нizнii Kotto" languages="Russian">Нижнее Котто</name>
+		<name normalized="bs・kt州" languages="Japanese">バス・コト州</name>
+		<name normalized="下科托省" languages="Chinese">下科托省</name>
+		<name normalized="바스코토 주" languages="Korean">바스코토 주</name>
+	</region>
+	<region name="Haut-Mbomou" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Aukstutinis Mbomu" languages="Lithuanian">Aukštutinis Mbomu</name>
+		<name normalized="Haut-Mbomou" languages="Albanian;Breton;Catalan;Dutch;English;Esperanto;Finnish;French;German;Norwegian (bokmal);official;Portuguese;Romanian;Spanish;Turkish">Haut-Mbomou</name>
+		<name normalized="Haut-Mbomou Prefecture" languages="English;official">Haut-Mbomou Prefecture</name>
+		<name normalized="Prefektura Haut-Mbomou" languages="Polish">Prefektura Haut-Mbomou</name>
+		<name normalized="Prefettura di Haut-Mbomou" languages="Italian">Prefettura di Haut-Mbomou</name>
+		<name normalized="Sese ti komanda-kota ti To-Mbomu" languages="Sango">Sêse tî kömändâ-kötä tî Tö-Mbömü</name>
+		<name normalized="Viрkнii Мboмu" languages="Russian">Верхнее Мбому</name>
+		<name normalized="Ot-Мboмu" languages="Bulgarian">От-Мбому</name>
+		<name normalized="oー・mbm州" languages="Japanese">オー・ムボム州</name>
+		<name normalized="上姆博穆省" languages="Chinese">上姆博穆省</name>
+		<name normalized="오트음보무 주" languages="Korean">오트음보무 주</name>
+	</region>
+	<region name="Haute-Kotto" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Aukstutinis Kotas" languages="Lithuanian">Aukštutinis Kotas</name>
+		<name normalized="Haute-Kotto" languages="Albanian;Breton;Catalan;Dutch;English;Esperanto;Finnish;French;German;Norwegian (bokmal);official;Portuguese;Romanian;Spanish;Turkish">Haute-Kotto</name>
+		<name normalized="Haute-Kotto Prefecture" languages="English;official">Haute-Kotto Prefecture</name>
+		<name normalized="Prefektura Haute-Kotto" languages="Polish">Prefektura Haute-Kotto</name>
+		<name normalized="Prefettura di Haute-Kotto" languages="Italian">Prefettura di Haute-Kotto</name>
+		<name normalized="Sese ti komanda-kota ti To-Koto" languages="Sango">Sêse tî kömändâ-kötä tî Tö-Kötö</name>
+		<name normalized="Viрkнii Kotto" languages="Russian">Верхнее Котто</name>
+		<name normalized="Ot-Koto" languages="Bulgarian">От-Кото</name>
+		<name normalized="oーt・kt州" languages="Japanese">オート・コト州</name>
+		<name normalized="上科托省" languages="Chinese">上科托省</name>
+		<name normalized="오트코토 주" languages="Korean">오트코토 주</name>
+	</region>
+	<region name="Kemo" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Kemas" languages="Lithuanian">Kemas</name>
+		<name normalized="Kemo" languages="English;official">Kemo</name>
+		<name normalized="Kemo Prefecture" languages="English;official">Kemo Prefecture</name>
+		<name normalized="Kemo" languages="Albanian;Breton;Catalan;Dutch;English;Esperanto;Finnish;French;German;Norwegian (bokmal);Portuguese;Romanian;Spanish;Turkish">Kémo</name>
+		<name normalized="Prefektura Kemo" languages="Polish">Prefektura Kémo</name>
+		<name normalized="Prefettura di Kemo" languages="Italian">Prefettura di Kémo</name>
+		<name normalized="Sese ti komanda-kota ti Kemo" languages="Sango">Sêse tî kömändâ-kötä tî Kemö</name>
+		<name normalized="Kiмo" languages="Bulgarian;Russian">Кемо</name>
+		<name normalized="km州" languages="Japanese">ケモ州</name>
+		<name normalized="凱莫省" languages="Chinese">凱莫省</name>
+		<name normalized="케모 주" languages="Korean">케모 주</name>
+	</region>
+	<region name="Lobaye" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Lobaje" languages="Lithuanian">Lobajė</name>
+		<name normalized="Lobaye" languages="Albanian;Breton;Catalan;Dutch;English;Esperanto;Finnish;French;German;Norwegian (bokmal);official;Portuguese;Spanish">Lobaye</name>
+		<name normalized="Lobaye Prefecture" languages="English;official">Lobaye Prefecture</name>
+		<name normalized="Mambere-Kadei" languages="Albanian;Breton;Catalan;Dutch;English;Esperanto;Finnish;French;German;Norwegian (bokmal);Portuguese;Romanian;Spanish">Mambéré-Kadéï</name>
+		<name normalized="Prefektura Lobaye" languages="Polish">Prefektura Lobaye</name>
+		<name normalized="Prefettura di Lobaye" languages="Italian">Prefettura di Lobaye</name>
+		<name normalized="Sese ti komanda-kota ti Lobaye" languages="Sango">Sêse tî kömändâ-kötä tî Lobâye</name>
+		<name normalized="Лobai" languages="Russian">Лобае</name>
+		<name normalized="Лobaйi" languages="Bulgarian">Лобайе</name>
+		<name normalized="لوbאیh" languages="Persian">لوبایه</name>
+		<name normalized="rbie州" languages="Japanese">ロバイエ州</name>
+		<name normalized="洛巴耶省" languages="Chinese">洛巴耶省</name>
+		<name normalized="로바예 주" languages="Korean">로바예 주</name>
+	</region>
+	<region name="Mambere-Kadei" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Mambere-Kadei" languages="English;official">Mambere-Kadei</name>
+		<name normalized="Mambere-Kadei Prefecture" languages="English;official">Mambere-Kadei Prefecture</name>
+		<name normalized="Mambere-Kadejus" languages="Lithuanian">Mamberė-Kadėjus</name>
+		<name normalized="Mambere-Kadei" languages="Albanian;Breton;Catalan;Dutch;English;Esperanto;Finnish;French;German;Norwegian (bokmal);Portuguese;Romanian;Spanish">Mambéré-Kadéï</name>
+		<name normalized="Prefektura Mambere-Kadei" languages="Polish">Prefektura Mambéré-Kadéï</name>
+		<name normalized="Prefettura di Mambere-Kadei" languages="Italian">Prefettura di Mambéré-Kadéï</name>
+		<name normalized="Sese ti komanda-kota ti Mambere-Kadei" languages="Sango">Sêse tî kömändâ-kötä tî Mambere-Kadei</name>
+		<name normalized="Мaмbiрi-Kadii" languages="Bulgarian;Russian">Мамбере-Кадеи</name>
+		<name normalized="mאmbrh کאدئی" languages="Persian">مامبره کادئی</name>
+		<name normalized="mnbr・kdi州" languages="Japanese">マンベレ・カデイ州</name>
+		<name normalized="曼貝雷-卡代省" languages="Chinese">曼貝雷-卡代省</name>
+		<name normalized="맘베레카데이 주" languages="Korean">맘베레카데이 주</name>
+	</region>
+	<region name="Mbomou" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Mbomou" languages="Albanian;Breton;Catalan;Dutch;English;Esperanto;Finnish;French;German;Norwegian (bokmal);official;Portuguese;Romanian;Spanish">Mbomou</name>
+		<name normalized="Mbomou Bolgesi" languages="Turkish">Mbomou Bölgesi</name>
+		<name normalized="Mbomou Prefecture" languages="English;official">Mbomou Prefecture</name>
+		<name normalized="Mbomu" languages="Lithuanian">Mbomu</name>
+		<name normalized="Prefektura Mbomou" languages="Polish">Prefektura Mbomou</name>
+		<name normalized="Prefettura di Mbomou" languages="Italian">Prefettura di Mbomou</name>
+		<name normalized="Sese ti komanda-kota ti Mbomu" languages="Sango">Sêse tî kömändâ-kötä tî Mbömü</name>
+		<name normalized="Мboмu" languages="Bulgarian;Russian">Мбому</name>
+		<name normalized="mbm州" languages="Japanese">ムボム州</name>
+		<name normalized="姆博穆省" languages="Chinese">姆博穆省</name>
+		<name normalized="음보무 주" languages="Korean">음보무 주</name>
+	</region>
+	<region name="Nana-Grebizi" type="economic prefecture" typeTranslated="economic prefecture">
+		<name normalized="Nana-Grebizi" languages="English;official">Nana-Grebizi</name>
+		<name normalized="Nana-Grebizis" languages="Lithuanian">Nana-Grebizis</name>
+		<name normalized="Nana-Grebizi" languages="Albanian;Breton;Catalan;Dutch;English;Esperanto;Finnish;French;German;Norwegian (bokmal);Portuguese;Romanian;Spanish;Turkish">Nana-Grébizi</name>
+		<name normalized="Prefettura di Nana-Grebizi" languages="Italian">Prefettura di Nana-Grébizi</name>
+		<name normalized="Sese ti komanda-kota ti Nana-Giribizi" languages="Sango">Sêse tî kömändâ-kötä tî Nanä-Gïrïbïzï</name>
+		<name normalized="Нaнa-Gрibizi" languages="Bulgarian;Russian">Нана-Гребизи</name>
+		<name normalized="nn・grbz州" languages="Japanese">ナナ・グリビジ州</name>
+		<name normalized="纳纳-格里比齐省" languages="Chinese">纳纳-格里比齐省</name>
+		<name normalized="나나그레비지 주" languages="Korean">나나그레비지 주</name>
+	</region>
+	<region name="Nana-Mambere" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Nana-Mambere" languages="English;official">Nana-Mambere</name>
+		<name normalized="Nana-Mambere Prefecture" languages="English;official">Nana-Mambere Prefecture</name>
+		<name normalized="Nana-Mambere" languages="Lithuanian">Nana-Mamberė</name>
+		<name normalized="Nana-Mambere" languages="Albanian;Breton;Catalan;Dutch;English;Esperanto;Finnish;French;German;Norwegian (bokmal);Portuguese;Romanian;Spanish;Turkish">Nana-Mambéré</name>
+		<name normalized="Prefektura Nana-Mambere" languages="Polish">Prefektura Nana-Mambéré</name>
+		<name normalized="Prefettura di Nana-Mambere" languages="Italian">Prefettura di Nana-Mambéré</name>
+		<name normalized="Sese ti komanda-kota ti Nana-Mambere" languages="Sango">Sêse tî kömändâ-kötä tî Nanä-Mambere</name>
+		<name normalized="Нaнa-Мaмbiрi" languages="Bulgarian;Russian">Нана-Мамбере</name>
+		<name normalized="nn・mnbr州" languages="Japanese">ナナ・メンベレ州</name>
+		<name normalized="納納-曼貝雷省" languages="Chinese">納納-曼貝雷省</name>
+		<name normalized="나나맘베레 주" languages="Korean">나나맘베레 주</name>
+	</region>
+	<region name="Ombella-Mpoko" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Ombela-Mpokas" languages="Lithuanian">Ombela-Mpokas</name>
+		<name normalized="Ombella-M'Poko" languages="Albanian;Breton;Catalan;Dutch;English;Esperanto;French;Portuguese;Romanian;Spanish">Ombella-M'Poko</name>
+		<name normalized="Ombella-Mpoko" languages="English;Finnish;German;Norwegian (bokmal);official;Turkish">Ombella-Mpoko</name>
+		<name normalized="Ombella-Mpoko Prefecture" languages="English;official">Ombella-Mpoko Prefecture</name>
+		<name normalized="Prefektura Ombella-M'Poko" languages="Polish">Prefektura Ombella-M'Poko</name>
+		<name normalized="Prefettura di Ombella-M'Poko" languages="Italian">Prefettura di Ombella-M'Poko</name>
+		<name normalized="Sese ti komanda-kota ti Ombela-Poko" languages="Sango">Sêse tî kömändâ-kötä tî Ömbëlä-Pökö</name>
+		<name normalized="Oмbiлa-М'Poko" languages="Bulgarian">Омбела-М'Поко</name>
+		<name normalized="Oмbiллa-Мpoko" languages="Russian">Омбелла-Мпоко</name>
+		<name normalized="אوmbلאmpوکو" languages="Persian">اومبلامپوکو</name>
+		<name normalized="onbr・mpk州" languages="Japanese">オンベラ・ムポコ州</name>
+		<name normalized="翁貝拉-姆波科省" languages="Chinese">翁貝拉-姆波科省</name>
+		<name normalized="옴벨라음포코 주" languages="Korean">옴벨라음포코 주</name>
+	</region>
+	<region name="Ouaka" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Ouaka" languages="Albanian;Breton;Catalan;Dutch;English;Esperanto;Finnish;French;German;Norwegian (bokmal);official;Portuguese;Romanian;Spanish">Ouaka</name>
+		<name normalized="Ouaka Bolgesi" languages="Turkish">Ouaka Bölgesi</name>
+		<name normalized="Ouaka Prefecture" languages="English;official">Ouaka Prefecture</name>
+		<name normalized="Prefektura Ouaka" languages="Polish">Prefektura Ouaka</name>
+		<name normalized="Prefettura di Ouaka" languages="Italian">Prefettura di Ouaka</name>
+		<name normalized="Sese ti komanda-kota ti Waka" languages="Sango">Sêse tî kömändâ-kötä tî Wäkä</name>
+		<name normalized="Uaka" languages="Lithuanian">Uaka</name>
+		<name normalized="Uaka" languages="Bulgarian;Russian">Уака</name>
+		<name normalized="wk州" languages="Japanese">ワカ州</name>
+		<name normalized="瓦卡省" languages="Chinese">瓦卡省</name>
+		<name normalized="와카 주" languages="Korean">와카 주</name>
+	</region>
+	<region name="Ouham" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Ouham" languages="Albanian;Breton;Catalan;Dutch;English;Esperanto;Finnish;French;German;Norwegian (bokmal);official;Portuguese;Romanian;Spanish">Ouham</name>
+		<name normalized="Ouham Bolgesi" languages="Turkish">Ouham Bölgesi</name>
+		<name normalized="Ouham Prefecture" languages="English;official">Ouham Prefecture</name>
+		<name normalized="Prefektura Ouham" languages="Polish">Prefektura Ouham</name>
+		<name normalized="Prefettura di Ouham" languages="Italian">Prefettura di Ouham</name>
+		<name normalized="Sese ti komanda-kota ti Wamo" languages="Sango">Sêse tî kömändâ-kötä tî Wâmo</name>
+		<name normalized="Uhamas" languages="Lithuanian">Uhamas</name>
+		<name normalized="Uaм" languages="Bulgarian;Russian">Уам</name>
+		<name normalized="uhm州" languages="Japanese">ウハム州</name>
+		<name normalized="瓦姆省" languages="Chinese">瓦姆省</name>
+		<name normalized="우암 주" languages="Korean">우암 주</name>
+	</region>
+	<region name="Ouham-Pende" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Ouham-Pende" languages="English;official">Ouham-Pende</name>
+		<name normalized="Ouham-Pende Prefecture" languages="English;official">Ouham-Pende Prefecture</name>
+		<name normalized="Ouham-Pende" languages="Albanian;Breton;Catalan;Dutch;English;Esperanto;Finnish;French;German;Norwegian (bokmal);Portuguese;Romanian;Spanish">Ouham-Pendé</name>
+		<name normalized="Prefektura Ouham-Pende" languages="Polish">Prefektura Ouham-Pendé</name>
+		<name normalized="Prefettura di Ouham-Pende" languages="Italian">Prefettura di Ouham-Pendé</name>
+		<name normalized="Sese ti komanda-kota ti Wamo-Pende" languages="Sango">Sêse tî kömändâ-kötä tî Wâmo-Pendë</name>
+		<name normalized="Uhamas-Pende" languages="Lithuanian">Uhamas-Pendė</name>
+		<name normalized="Uaм-Piнdi" languages="Bulgarian;Russian">Уам-Пенде</name>
+		<name normalized="uhm・pnd州" languages="Japanese">ウハム・ペンデ州</name>
+		<name normalized="瓦姆-彭代省" languages="Chinese">瓦姆-彭代省</name>
+		<name normalized="우암펭데 주" languages="Korean">우암펭데 주</name>
+	</region>
+	<region name="Sangha-Mbaere" type="economic prefecture" typeTranslated="economic prefecture">
+		<name normalized="Prefettura di Sangha-Mbaere" languages="Italian">Prefettura di Sangha-Mbaéré</name>
+		<name normalized="Sanga-Mbaere" languages="Lithuanian">Sanga-Mbaerė</name>
+		<name normalized="Sangha-Mbaere" languages="English;official">Sangha-Mbaere</name>
+		<name normalized="Sangha-Mbaere" languages="Albanian;Breton;Catalan;Dutch;English;Esperanto;Finnish;French;German;Norwegian (bokmal);Portuguese;Romanian;Spanish;Turkish">Sangha-Mbaéré</name>
+		<name normalized="Sese ti komanda-kota ti Sanga-Mbaere" languages="Sango">Sêse tî kömändâ-kötä tî Sangä-Mbaere</name>
+		<name normalized="Сaнga-Мbaiрi" languages="Bulgarian">Санга-Мбаере</name>
+		<name normalized="Сaнga-Мbaeрi" languages="Russian">Санга-Мбаэре</name>
+		<name normalized="sng・mber州" languages="Japanese">サンガ・ムバエレ州</name>
+		<name normalized="桑加-姆巴埃雷省" languages="Chinese">桑加-姆巴埃雷省</name>
+		<name normalized="상가음바에레 주" languages="Korean">상가음바에레 주</name>
+	</region>
+	<region name="Vakaga" type="prefecture" typeTranslated="prefecture">
+		<name normalized="Prefektura Vakaga" languages="Polish">Prefektura Vakaga</name>
+		<name normalized="Prefettura di Vakaga" languages="Italian">Prefettura di Vakaga</name>
+		<name normalized="Sese ti komanda-kota ti Vakaga" languages="Sango">Sêse tî kömändâ-kötä tî Vakaga</name>
+		<name normalized="Vakaga" languages="Albanian;Breton;Catalan;Dutch;English;Esperanto;Finnish;French;German;Lithuanian;Norwegian (bokmal);official;Portuguese;Romanian;Spanish;Turkish">Vakaga</name>
+		<name normalized="Vakaga Prefecture" languages="English;official">Vakaga Prefecture</name>
+		<name normalized="Vakaga" languages="Bulgarian;Russian">Вакага</name>
+		<name normalized="bkg州" languages="Japanese">バカガ州</name>
+		<name normalized="瓦卡加省" languages="Chinese">瓦卡加省</name>
+		<name normalized="바카가 주" languages="Korean">바카가 주</name>
+	</region>
+</regions>

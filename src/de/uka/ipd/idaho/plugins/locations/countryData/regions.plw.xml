@@ -1,0 +1,142 @@
+<regions country="Palau">
+	<region name="Aimeliik" type="state" typeTranslated="state">
+		<name normalized="Aimeliik" languages="Dutch;English;Estonian;Finnish;French;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish;Vietnamese">Aimeliik</name>
+		<name normalized="Aimelikas" languages="Lithuanian">Aimelikas</name>
+		<name normalized="Aiмiлiik" languages="Hill Mari">Аимелиик</name>
+		<name normalized="aimrーk州" languages="Japanese">アイメリーク州</name>
+		<name normalized="艾梅利克州" languages="Chinese">艾梅利克州</name>
+		<name normalized="아이멜리크 주" languages="Korean">아이멜리크 주</name>
+	</region>
+	<region name="Airai" type="state" typeTranslated="state">
+		<name normalized="Airai" languages="Dutch;English;Estonian;Finnish;French;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish;Vietnamese">Airai</name>
+		<name normalized="Airajus" languages="Lithuanian">Airajus</name>
+		<name normalized="Aiрai" languages="Hill Mari">Аираи</name>
+		<name normalized="airi州" languages="Japanese">アイライ州</name>
+		<name normalized="艾拉伊州" languages="Chinese">艾拉伊州</name>
+		<name normalized="아이라이 주" languages="Korean">아이라이 주</name>
+	</region>
+	<region name="Angaur" type="state" typeTranslated="state">
+		<name normalized="Angaur" languages="Dutch;English;Finnish;French;Galician;German;Indonesian;Italian;Kinyarwanda;Norwegian (bokmal);official;Portuguese;Spanish;Swedish;Vietnamese">Angaur</name>
+		<name normalized="Angauras" languages="Lithuanian">Angauras</name>
+		<name normalized="Aнgauр" languages="Hill Mari;Macedonian;Russian">Ангаур</name>
+		<name normalized="Voсtрaў Aнgauр" languages="Belarusian">Востраў Ангаур</name>
+		<name normalized="אnגאvr" languages="Hebrew">אנגאור</name>
+		<name normalized="angur州" languages="Japanese">アンガウル州</name>
+		<name normalized="安加爾" languages="Chinese">安加爾</name>
+		<name normalized="앙가우르 주" languages="Korean">앙가우르 주</name>
+	</region>
+	<region name="Hatohobei" type="state" typeTranslated="state">
+		<name normalized="Hatohobei" languages="Dutch;English;Finnish;French;German;Indonesian;Italian;official;Polish;Spanish;Swedish;Vietnamese">Hatohobei</name>
+		<name normalized="Hatohobejus" languages="Lithuanian">Hatohobėjus</name>
+		<name normalized="Illa Hatohobei" languages="Galician">Illa Hatohobei</name>
+		<name normalized="Katokobii" languages="Hill Mari;Russian">Хатохобеи</name>
+		<name normalized="hthbi州" languages="Japanese">ハトホベイ州</name>
+		<name normalized="哈托博海伊州" languages="Chinese">哈托博海伊州</name>
+		<name normalized="하토호베이 주" languages="Korean">하토호베이 주</name>
+	</region>
+	<region name="Kayangel" type="state" typeTranslated="state">
+		<name normalized="Kajangelis" languages="Lithuanian">Kajangelis</name>
+		<name normalized="Kayangel" languages="Dutch;English;Finnish;French;German;Indonesian;Italian;Kinyarwanda;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish;Vietnamese">Kayangel</name>
+		<name normalized="Kaiнgiл" languages="Hill Mari">Каянгел</name>
+		<name normalized="kyngr州" languages="Japanese">カヤンゲル州</name>
+		<name normalized="卡揚埃爾" languages="Chinese">卡揚埃爾</name>
+		<name normalized="카양겔 주" languages="Korean">카양겔 주</name>
+	</region>
+	<region name="Koror" type="state" typeTranslated="state">
+		<name normalized="Koro" languages="Haitian">Koro</name>
+		<name normalized="Koror" languages="Basque;Catalan;Czech;Danish;Dutch;English;Finnish;French;German;Ido;Indonesian;Italian;Kinyarwanda;Malay;Norwegian (bokmal);Occitan;official;Polish;Portuguese;Scots;Simple English;Slovak;Spanish;Swedish;Turkish;Uzbek;Vietnamese">Koror</name>
+		<name normalized="Kororas" languages="Lithuanian">Kororas</name>
+		<name normalized="Κορορ" languages="Greek">Κορόρ</name>
+		<name normalized="Goрad Koрaр" languages="Belarusian">Горад Корар</name>
+		<name normalized="Koрoр" languages="Hill Mari;Macedonian;Russian;Ukrainian">Корор</name>
+		<name normalized="qvrvr" languages="Hebrew">קורור</name>
+		<name normalized="kوrوr" languages="Arabic">كورور</name>
+		<name normalized="کوrوr" languages="Persian;Urdu">کورور</name>
+		<name normalized="คอรอร์" languages="Thai">คอรอร์</name>
+		<name normalized="ཁོ་རོར།" languages="Tibetan">ཁོ་རོར།</name>
+		<name normalized="ኮሮር" languages="Amharic">ኮሮር</name>
+		<name normalized="krーr" languages="Japanese">コロール</name>
+		<name normalized="科羅爾" languages="Chinese">科羅爾</name>
+		<name normalized="코로르" languages="Korean">코로르</name>
+	</region>
+	<region name="Melekeok" type="state" typeTranslated="state">
+		<name normalized="Melekeok" languages="Czech;Dutch;English;French;German;Italian;official;Spanish">Melekeok</name>
+		<name normalized="Мiлikiok" languages="Russian;Serbian;Ukrainian">Мелекеок</name>
+		<name normalized="mrkョk州" languages="Japanese">マルキョク州</name>
+	</region>
+	<region name="Ngaraard" type="state" typeTranslated="state">
+		<name normalized="Ngaraard" languages="Dutch;English;French;German;Indonesian;Italian;official;Spanish;Swedish;Vietnamese">Ngaraard</name>
+		<name normalized="Ngarardas" languages="Lithuanian">Ngarardas</name>
+		<name normalized="Нgaрaaрd" languages="Hill Mari">Нгараард</name>
+		<name normalized="Нgaрaрd" languages="Macedonian">Нгарард</name>
+		<name normalized="grrd州" languages="Japanese">ガラルド州</name>
+		<name normalized="雅拉爾德州" languages="Chinese">雅拉爾德州</name>
+		<name normalized="가라르드 주" languages="Korean">가라르드 주</name>
+	</region>
+	<region name="Ngarchelong" type="state" typeTranslated="state">
+		<name normalized="Ngarchelong" languages="Dutch;English;Finnish;French;German;Indonesian;Italian;Norwegian (bokmal);official;Spanish;Swedish;Vietnamese">Ngarchelong</name>
+		<name normalized="Ngarcelongas" languages="Lithuanian">Ngarčelongas</name>
+		<name normalized="Нgaрkiлoнg" languages="Hill Mari">Нгархелонг</name>
+		<name normalized="arkrn州" languages="Japanese">アルコロン州</name>
+		<name normalized="雅切隆州" languages="Chinese">雅切隆州</name>
+		<name normalized="가르첼롱 주" languages="Korean">가르첼롱 주</name>
+	</region>
+	<region name="Ngardmau" type="state" typeTranslated="state">
+		<name normalized="Ngardmau" languages="Dutch;English;French;German;Indonesian;Italian;Lithuanian;official;Spanish;Swedish;Vietnamese">Ngardmau</name>
+		<name normalized="Нgaрdмau" languages="Hill Mari">Нгардмау</name>
+		<name normalized="grsmo州" languages="Japanese">ガラスマオ州</name>
+		<name normalized="雅德馬烏州" languages="Chinese">雅德馬烏州</name>
+		<name normalized="가르드마우 주" languages="Korean">가르드마우 주</name>
+	</region>
+	<region name="Ngatpang" type="state" typeTranslated="state">
+		<name normalized="Ngatpang" languages="Croatian;Dutch;English;French;German;Indonesian;Italian;official;Spanish;Swedish;Vietnamese">Ngatpang</name>
+		<name normalized="Ngatpangas" languages="Lithuanian">Ngatpangas</name>
+		<name normalized="Нgatpaнg" languages="Hill Mari">Нгатпанг</name>
+		<name normalized="gspn州" languages="Japanese">ガスパン州</name>
+		<name normalized="雅龐" languages="Chinese">雅龐</name>
+		<name normalized="가트팡 주" languages="Korean">가트팡 주</name>
+	</region>
+	<region name="Ngchesar" type="state" typeTranslated="state">
+		<name normalized="Ngchesar" languages="Dutch;English;French;German;Indonesian;Italian;Norwegian (bokmal);official;Spanish;Swedish;Vietnamese">Ngchesar</name>
+		<name normalized="Ngcesaras" languages="Lithuanian">Ngčesaras</name>
+		<name normalized="Нgkiсaр" languages="Hill Mari">Нгхесар</name>
+		<name normalized="esーr州" languages="Japanese">エサール州</name>
+		<name normalized="恩切薩爾州" languages="Chinese">恩切薩爾州</name>
+		<name normalized="체사르 주" languages="Korean">체사르 주</name>
+	</region>
+	<region name="Ngeremlengui" type="state" typeTranslated="state">
+		<name normalized="Ngaremlengui" languages="French;German;Indonesian;Italian;Vietnamese">Ngaremlengui</name>
+		<name normalized="Ngaremlengujis" languages="Lithuanian">Ngaremlengujis</name>
+		<name normalized="Ngeremlengui" languages="Dutch;English;official;Spanish;Swedish">Ngeremlengui</name>
+		<name normalized="Нgaрiмлiнgui" languages="Hill Mari">Нгаремленгуи</name>
+		<name normalized="armngi州" languages="Japanese">アルモノグイ州</name>
+		<name normalized="埃雷姆倫維州" languages="Chinese">埃雷姆倫維州</name>
+		<name normalized="가렘렝구이 주" languages="Korean">가렘렝구이 주</name>
+	</region>
+	<region name="Ngiwal" type="state" typeTranslated="state">
+		<name normalized="Ngivalas" languages="Lithuanian">Ngivalas</name>
+		<name normalized="Ngiwal" languages="Dutch;English;French;German;Indonesian;Italian;official;Spanish;Swedish;Vietnamese">Ngiwal</name>
+		<name normalized="Нgivaл" languages="Hill Mari">Нгивал</name>
+		<name normalized="ogwr州" languages="Japanese">オギワル州</name>
+		<name normalized="기왈 주" languages="Korean">기왈 주</name>
+	</region>
+	<region name="Peleliu" type="state" typeTranslated="state">
+		<name normalized="Peleliu" languages="Catalan;Dutch;English;Finnish;French;German;Indonesian;Italian;Kinyarwanda;Lithuanian;Norwegian (bokmal);official;Polish;Portuguese;Slovenian;Spanish;Swedish;Turkish;Vietnamese">Peleliu</name>
+		<name normalized="Πελελιου" languages="Greek">Πελελίου</name>
+		<name normalized="Piлiлiu" languages="Hill Mari;Russian">Пелелиу</name>
+		<name normalized="Piлiлiu" languages="Ukrainian">Пелеліу</name>
+		<name normalized="prryー州" languages="Japanese">ペリリュー州</name>
+		<name normalized="貝里琉州" languages="Chinese">貝里琉州</name>
+		<name normalized="펠렐리우 주" languages="Korean">펠렐리우 주</name>
+	</region>
+	<region name="Sonsorol" type="state" typeTranslated="state">
+		<name normalized="Sonsoral" languages="Norwegian (bokmal);Spanish;Swedish">Sonsoral</name>
+		<name normalized="Sonsorol" languages="Dutch;English;Esperanto;Finnish;French;German;Indonesian;Italian;Kinyarwanda;official;Polish;Vietnamese">Sonsorol</name>
+		<name normalized="Sonsorolis" languages="Lithuanian">Sonsorolis</name>
+		<name normalized="Aсtрavы Сaнсaрoл" languages="Belarusian">Астравы Сансарол</name>
+		<name normalized="Сoнсoрoл" languages="Hill Mari;Russian">Сонсорол</name>
+		<name normalized="snsrーr州" languages="Japanese">ソンソロール州</name>
+		<name normalized="松索羅爾" languages="Chinese">松索羅爾</name>
+		<name normalized="손소롤 주" languages="Korean">손소롤 주</name>
+	</region>
+</regions>

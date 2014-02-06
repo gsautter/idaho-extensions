@@ -1,0 +1,77 @@
+<regions country="Grenada">
+	<region name="Carriacou and Petite Martinique" type="dependency" typeTranslated="dependency">
+		<name normalized="Carriacou and Petite Martinique" languages="English;official">Carriacou and Petite Martinique</name>
+		<name normalized="Carriacou eta Martinika Txikia" languages="Basque">Carriacou eta Martinika Txikia</name>
+		<name normalized="Καρριακοu και Μικρη Μαρτινικα" languages="Greek">Καρριακού και Μικρή Μαρτινίκα</name>
+		<name normalized="Kaррiaku i Pitit Мaрtiнika" languages="Russian">Карриаку и Петит Мартиника</name>
+		<name normalized="krak島・ptitmrtinーk島" languages="Japanese">カリアク島・プティトマルティニーク島</name>
+		<name normalized="卡里亞庫和小馬提尼克" languages="Chinese">卡里亞庫和小馬提尼克</name>
+	</region>
+	<region name="Saint Andrew" type="parish" typeTranslated="parish">
+		<name normalized="Paroisse de Saint Andrew" languages="French">Paroisse de Saint Andrew</name>
+		<name normalized="Paroko Sankta Andreo" languages="Esperanto">Paroko Sankta Andreo</name>
+		<name normalized="Parrocchia di Saint Andrew" languages="Italian">Parrocchia di Saint Andrew</name>
+		<name normalized="Parroquia de Saint Andrew" languages="Spanish">Parroquia de Saint Andrew</name>
+		<name normalized="Saint Andrew" languages="Basque;Cornish;Dutch;English;German;official;Polish;Portuguese">Saint Andrew</name>
+		<name normalized="Saint Andrew Parish" languages="English;official">Saint Andrew Parish</name>
+		<name normalized="Sv. Andriaus parapija" languages="Lithuanian">Šv. Andriaus parapija</name>
+		<name normalized="Αγιος Ανδρeας" languages="Greek">Άγιος Ανδρέας</name>
+		<name normalized="聖安德魯區" languages="Chinese">聖安德魯區</name>
+	</region>
+	<region name="Saint David" type="parish" typeTranslated="parish">
+		<name normalized="Paroisse de Saint David" languages="French">Paroisse de Saint David</name>
+		<name normalized="Paroko Sankta Davido" languages="Esperanto">Paroko Sankta Davido</name>
+		<name normalized="Parrocchia di Saint David" languages="Italian">Parrocchia di Saint David</name>
+		<name normalized="Parroquia de Saint David" languages="Spanish">Parroquia de Saint David</name>
+		<name normalized="Saint David" languages="Basque;Cornish;Dutch;English;official;Polish;Portuguese">Saint David</name>
+		<name normalized="Saint David Parish" languages="English;official">Saint David Parish</name>
+		<name normalized="Sv. Dovydo parapija" languages="Lithuanian">Šv. Dovydo parapija</name>
+		<name normalized="Αγιος Δαβιδ" languages="Greek">Άγιος Δαβίδ</name>
+		<name normalized="聖戴維區" languages="Chinese">聖戴維區</name>
+	</region>
+	<region name="Saint George" type="parish" typeTranslated="parish">
+		<name normalized="Paroisse de Saint George" languages="French">Paroisse de Saint George</name>
+		<name normalized="Paroko Sankta Georgo" languages="Esperanto">Paroko Sankta Georgo</name>
+		<name normalized="Parrocchia di Saint George" languages="Italian">Parrocchia di Saint George</name>
+		<name normalized="Parroquia de Saint George" languages="Spanish">Parroquia de Saint George</name>
+		<name normalized="Saint George" languages="Cornish;Dutch;English;official;Polish;Portuguese">Saint George</name>
+		<name normalized="Saint George Parish" languages="English;official">Saint George Parish</name>
+		<name normalized="Saint George parrokia" languages="Basque">Saint George parrokia</name>
+		<name normalized="Sv. Jurgio parapija" languages="Lithuanian">Šv. Jurgio parapija</name>
+		<name normalized="Αγιος Γεωργιος" languages="Greek">Άγιος Γεώργιος</name>
+		<name normalized="聖喬治區" languages="Chinese">聖喬治區</name>
+	</region>
+	<region name="Saint John" type="parish" typeTranslated="parish">
+		<name normalized="Paroisse de Saint John" languages="French">Paroisse de Saint John</name>
+		<name normalized="Paroko Sankta Johano" languages="Esperanto">Paroko Sankta Johano</name>
+		<name normalized="Parrocchia di Saint John" languages="Italian">Parrocchia di Saint John</name>
+		<name normalized="Parroquia de Saint John" languages="Spanish">Parroquia de Saint John</name>
+		<name normalized="Saint John" languages="Basque;Cornish;Dutch;English;German;official;Polish;Portuguese">Saint John</name>
+		<name normalized="Saint John Parish" languages="English;official">Saint John Parish</name>
+		<name normalized="Sv. Jono parapija" languages="Lithuanian">Šv. Jono parapija</name>
+		<name normalized="Αγιος Ιωαννης" languages="Greek">Άγιος Ιωάννης</name>
+		<name normalized="聖約翰區" languages="Chinese">聖約翰區</name>
+	</region>
+	<region name="Saint Mark" type="parish" typeTranslated="parish">
+		<name normalized="Paroisse de Saint Mark" languages="French">Paroisse de Saint Mark</name>
+		<name normalized="Paroko Sankta Marko" languages="Esperanto">Paroko Sankta Marko</name>
+		<name normalized="Parrocchia di Saint Mark" languages="Italian">Parrocchia di Saint Mark</name>
+		<name normalized="Parroquia de Saint Mark" languages="Spanish">Parroquia de Saint Mark</name>
+		<name normalized="Saint Mark" languages="Basque;Cornish;Dutch;English;German;official;Polish;Portuguese">Saint Mark</name>
+		<name normalized="Saint Mark Parish" languages="English;official">Saint Mark Parish</name>
+		<name normalized="Sv. Morkaus parapija" languages="Lithuanian">Šv. Morkaus parapija</name>
+		<name normalized="Αγιος Μαρκος" languages="Greek">Άγιος Μάρκος</name>
+		<name normalized="聖馬克區" languages="Chinese">聖馬克區</name>
+	</region>
+	<region name="Saint Patrick" type="parish" typeTranslated="parish">
+		<name normalized="Paroisse de Saint Patrick" languages="French">Paroisse de Saint Patrick</name>
+		<name normalized="Paroko Sankta Patriko" languages="Esperanto">Paroko Sankta Patriko</name>
+		<name normalized="Parrocchia di Saint Patrick" languages="Italian">Parrocchia di Saint Patrick</name>
+		<name normalized="Parroquia de Saint Patrick" languages="Spanish">Parroquia de Saint Patrick</name>
+		<name normalized="Saint Patrick" languages="Basque;Cornish;Dutch;English;German;official;Polish;Portuguese">Saint Patrick</name>
+		<name normalized="Saint Patrick Parish" languages="English;official">Saint Patrick Parish</name>
+		<name normalized="Sv. Patriko parapija" languages="Lithuanian">Šv. Patriko parapija</name>
+		<name normalized="Αγιος Πατρικιος" languages="Greek">Άγιος Πατρίκιος</name>
+		<name normalized="聖帕特里克區" languages="Chinese">聖帕特里克區</name>
+	</region>
+</regions>

@@ -1,0 +1,1533 @@
+<regions country="India">
+	<region name="Andaman and Nicobar Islands" type="union territory" typeTranslated="union territory">
+		<name normalized="Andamaanit ja Nikobaarit" languages="Finnish">Andamaanit ja Nikobaarit</name>
+		<name normalized="Andaman and Nicobar Islands" languages="English;Fiji Hindi;official;Simple English">Andaman and Nicobar Islands</name>
+		<name normalized="Andaman e Nicobar" languages="Galician">Andaman e Nicobar</name>
+		<name normalized="Andaman eta Nikobar uharteak" languages="Basque">Andaman eta Nikobar uharteak</name>
+		<name normalized="Andaman kap Nicobar Kun-to" languages="Chinese (Min Nan)">Andaman kap Nicobar Kûn-tó</name>
+		<name normalized="Andaman ve Nikobar adaları" languages="Turkish">Andaman ve Nikobar adaları</name>
+		<name normalized="Andaman- en Nicobar-eilande" languages="Afrikaans">Andaman- en Nicobar-eilande</name>
+		<name normalized="Andaman- og Nikobareyjar" languages="Icelandic">Andaman- og Níkóbareyjar</name>
+		<name normalized="Andamane e Nicobare" languages="Italian">Andamane e Nicobare</name>
+		<name normalized="Andamanen en Nicobaren" languages="Dutch">Andamanen en Nicobaren</name>
+		<name normalized="Andamanen und Nikobaren" languages="German">Andamanen und Nikobaren</name>
+		<name normalized="Andamanene og Nikobarene" languages="Norwegian (bokmal)">Andamanene og Nikobarene</name>
+		<name normalized="Andamanerna och Nikobarerna" languages="Swedish">Andamanerna och Nikobarerna</name>
+		<name normalized="Andamanerne og Nicobarerne" languages="Danish">Andamanerne og Nicobarerne</name>
+		<name normalized="Andamani i Nikobari" languages="Bosnian">Andamani i Nikobari</name>
+		<name normalized="Andamanid ja Nicobarid" languages="Estonian">Andamanid ja Nicobarid</name>
+		<name normalized="Andamanoj kaj Nikobaroj" languages="Esperanto">Andamanoj kaj Nikobaroj</name>
+		<name normalized="Andamanski i Nikobarski otoci" languages="Croatian;Serbo-Croatian">Andamanski i Nikobarski otoci</name>
+		<name normalized="Andamanski in Nikobarski otoki" languages="Slovenian">Andamanski in Nikobarski otoki</name>
+		<name normalized="Andamanu un Nikobaru Salas" languages="Latvian">Andamanu un Nikobaru Salas</name>
+		<name normalized="Andamany a Nikobary" languages="Czech;Slovak">Andamany a Nikobary</name>
+		<name normalized="Andamany i Nikobary" languages="Polish">Andamany i Nikobary</name>
+		<name normalized="Andamanoyane og Nikobarane" languages="Norwegian Nynorsk">Andamanøyane og Nikobarane</name>
+		<name normalized="Andamanu ir Nikobaru salos" languages="Lithuanian">Andamanų ir Nikobarų salos</name>
+		<name normalized="Andaman- es Nikobar-szigetek" languages="Hungarian">Andamán- és Nikobár-szigetek</name>
+		<name normalized="Andamao e Nicobar" languages="Portuguese">Andamão e Nicobar</name>
+		<name normalized="Illas Andaman e Nicobar" languages="Occitan">Illas Andaman e Nicobar</name>
+		<name normalized="Illes Andaman i Nicobar" languages="Catalan">Illes Andaman i Nicobar</name>
+		<name normalized="Inizi Andaman ha Nicobar" languages="Breton">Inizi Andaman ha Nicobar</name>
+		<name normalized="Insulae Andamanenses et Nicobarenses" languages="Latin">Insulae Andamanenses et Nicobarenses</name>
+		<name normalized="Insulele Andaman si Nicobar" languages="Romanian">Insulele Andaman și Nicobar</name>
+		<name normalized="Islas Andaman y Nicobar" languages="Spanish">Islas Andamán y Nicobar</name>
+		<name normalized="Kapuloan Andaman lan Nikobar" languages="Javanese">Kapuloan Andaman lan Nikobar</name>
+		<name normalized="Kapuropod-an han Andaman ngan Nicobar" languages="Waray">Kapuropod-an han Andaman ngan Nicobar</name>
+		<name normalized="Kepulauan Andaman dan Nicobar" languages="Malay">Kepulauan Andaman dan Nicobar</name>
+		<name normalized="Kepulauan Andaman dan Nikobar" languages="Indonesian">Kepulauan Andaman dan Nikobar</name>
+		<name normalized="Quan dao Andaman va Nicobar" languages="Vietnamese">Quần đảo Andaman và Nicobar</name>
+		<name normalized="Awon Erekusu Andaman ati Nicobar" languages="Yoruba">Àwọn Erékùṣù Andaman àti Nicobar</name>
+		<name normalized="Iles Andaman-et-Nicobar" languages="French">Îles Andaman-et-Nicobar</name>
+		<name normalized="Aнdaмaнi i Нikobaрi" languages="Macedonian;Serbian">Андамани и Никобари</name>
+		<name normalized="Aнdaмaнсki i Нikobaрсki oсtрovi" languages="Bulgarian">Андамански и Никобарски острови</name>
+		<name normalized="Aнdaмaнсkii i Нikobaрсkii oсtрova" languages="Russian">Андаманские и Никобарские острова</name>
+		<name normalized="Aнdaмaнсkii i Нikabaрсkii aсtрavы" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Андаманскія і Нікабарскія астравы</name>
+		<name normalized="Aнdaмaнсьki i Нikobaрсьki oсtрovi" languages="Ukrainian">Андаманські і Нікобарські острови</name>
+		<name normalized="איי אnדמן vnיqvbr" languages="Hebrew">איי אנדמן וניקובר</name>
+		<name normalized="אنڈmאن tٔ نِکوbאr" languages="Kashmiri">انڈمان تٔ نِکوبار</name>
+		<name normalized="אینڈאmین tے نیکوbאr" languages="Western Punjabi">اینڈامین تے نیکوبار</name>
+		<name normalized="jزאئr אنڈmאن و نکوbאr" languages="Urdu">جزائر انڈمان و نکوبار</name>
+		<name normalized="jزאیr آندאmאن و نیکوbאr" languages="Persian">جزایر آندامان و نیکوبار</name>
+		<name normalized="jزr أندmאن ونykوbאr" languages="Arabic">جزر أندمان ونيكوبار</name>
+		<name normalized="އަންޒަމާނާއި ނައްކަވާރު" languages="Divehi">އަންޒަމާނާއި ނައްކަވާރު</name>
+		<name normalized="aंdmाn aणi nikobाr" languages="Marathi">अंदमान आणि निकोबार</name>
+		<name normalized="aण्डmाn ar nikobाr d्vipsmuh" languages="Hindi">अण्डमान और निकोबार द्वीपसमूह</name>
+		<name normalized="aण्डmाn r nikobाr d्vip smuh" languages="Nepali">अण्डमान र निकोबार द्वीप समूह</name>
+		<name normalized="aण्डmाnnikobाrd्vipsmuhः" languages="Sanskrit">अण्डमाननिकोबारद्वीपसमूहः</name>
+		<name normalized="an্dাmাn aৰu nikobৰ d্bippun্j" languages="Assamese">আন্দামান আৰু নিকোবৰ দ্বীপপুঞ্জ</name>
+		<name normalized="an্dাmাn o nikobr d্bippun্j" languages="Bengali">আন্দামান ও নিকোবর দ্বীপপুঞ্জ</name>
+		<name normalized="an্dাmাn bাro nikobr d্bipmাlা" languages="Bishnupria Manipuri">আন্দামান বারো নিকোবর দ্বীপমালা</name>
+		<name normalized="aੰਡੇmਾn atੇ nikੋbਾr ਟਾpu" languages="Punjabi">ਅੰਡੇਮਾਨ ਅਤੇ ਨਿਕੋਬਾਰ ਟਾਪੂ</name>
+		<name normalized="aંdાmાn ane nikobાr d્vipsmuh" languages="Gujarati">અંદામાન અને નિકોબાર દ્વીપસમૂહ</name>
+		<name normalized="ଆଣ୍ଡମାନ ଓ ନିକୋବର ଦ୍ଵୀପପୁଞ୍ଜ" languages="Oriya">ଆଣ୍ଡମାନ ଓ ନିକୋବର ଦ୍ଵୀପପୁଞ୍ଜ</name>
+		<name normalized="அந்தமான் நிக்கோபார் தீவுகள்" languages="Tamil">அந்தமான் நிக்கோபார் தீவுகள்</name>
+		<name normalized="అండమాన్ నికోబార్ దీవులు" languages="Telugu">అండమాన్ నికోబార్ దీవులు</name>
+		<name normalized="ಅಂಡಮಾನ್ ಮತ್ತು ನಿಕೊಬಾರ್ ದ್ವೀಪಗಳು" languages="Kannada">ಅಂಡಮಾನ್ ಮತ್ತು ನಿಕೊಬಾರ್ ದ್ವೀಪಗಳು</name>
+		<name normalized="ആന്തമാൻ നിക്കോബാർ ദ്വീപുകൾ" languages="Malayalam">ആന്തമാൻ നിക്കോബാർ ദ്വീപുകൾ</name>
+		<name normalized="หมู่เกาะอันดามันและนิโคบาร์" languages="Thai">หมู่เกาะอันดามันและนิโคบาร์</name>
+		<name normalized="ადამანიშ დო ნიკობარიშ კოკეფი" languages="Mingrelian">ადამანიშ დო ნიკობარიშ კოკეფი</name>
+		<name normalized="ანდამანის და ნიკობარის კუნძულები" languages="Georgian">ანდამანის და ნიკობარის კუნძულები</name>
+		<name normalized="andmn・nkbr諸島" languages="Japanese">アンダマン・ニコバル諸島</name>
+		<name normalized="安达曼-尼科巴群岛" languages="Chinese">安达曼-尼科巴群岛</name>
+		<name normalized="안다만 니코바르 제도" languages="Korean">안다만 니코바르 제도</name>
+	</region>
+	<region name="Andhra Pradesh" type="state" typeTranslated="state">
+		<name normalized="Andhra Pradesa" languages="Latin">Andhra Pradesa</name>
+		<name normalized="Andhra Pradesh" languages="Achinese;Aragonese;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Croatian;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;German;Icelandic;Indonesian;Italian;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Quechua;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;Uzbek;Vietnamese;veneto;Waray;Welsh;Yoruba">Andhra Pradesh</name>
+		<name normalized="Andhra Prades" languages="Azerbaijani;Turkish">Andhra Pradeş</name>
+		<name normalized="Andhra Pradesas" languages="Lithuanian">Andhra Pradešas</name>
+		<name normalized="Andra Pradex" languages="Galician">Andra Pradex</name>
+		<name normalized="Andra Prades" languages="Upper Sorbian">Andra Pradeš</name>
+		<name normalized="Andra-Pradeso" languages="Esperanto">Andra-Pradeŝo</name>
+		<name normalized="Andhra Prades" languages="Hungarian">Ándhra Prades</name>
+		<name normalized="Andhraprades" languages="Czech;Slovak">Ándhrapradéš</name>
+		<name normalized="Andhra Pradesa" languages="Latvian">Āndhra Pradēša</name>
+		<name normalized="Αντρα Πραντeς" languages="Greek">Άντρα Πραντές</name>
+		<name normalized="Aнdрa Pрadis" languages="Macedonian;Mongolian;Serbian">Андра Прадеш</name>
+		<name normalized="Aнdkрa Pрadis" languages="Bulgarian">Андхра Прадеш</name>
+		<name normalized="Aнdkрa-Pрadis" languages="Russian;Ukrainian">Андхра-Прадеш</name>
+		<name normalized="Aнdkрa-Pрades" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Андхра-Прадэш</name>
+		<name normalized="Oнdрa Pрadis" languages="Tajik">Ондра Прадиш</name>
+		<name normalized="אnדrא prאדעש" languages="Yiddish">אנדרא פראדעש</name>
+		<name normalized="אnדrh prאדש" languages="Hebrew">אנדרה פראדש</name>
+		<name normalized="آندrא prאدش" languages="Persian">آندرا پرادش</name>
+		<name normalized="آندھrא prدیش" languages="Urdu">آندھرا پردیش</name>
+		<name normalized="آندھrאprدیش" languages="Western Punjabi">آندھراپردیش</name>
+		<name normalized="أندrא brدyش" languages="Arabic">أندرا برديش</name>
+		<name normalized="އަންދްރަ ޕްރަދޭޝް" languages="Divehi">އަންދްރަ ޕްރަދޭޝް</name>
+		<name normalized="aंd्r p्rdes" languages="Bihari;Marathi">आंध्र प्रदेश</name>
+		<name normalized="an्d्r p्rdes" languages="Hindi;Nepali">आन्ध्र प्रदेश</name>
+		<name normalized="an्d्rp्rdes" languages="Newari">आन्ध्रप्रदेश</name>
+		<name normalized="an्d्rp्rdesrाj्ym्" languages="Sanskrit">आन्ध्रप्रदेशराज्यम्</name>
+		<name normalized="an্d্r p্rdes" languages="Bishnupria Manipuri">অন্ধ্র প্রদেশ</name>
+		<name normalized="an্d্rp্rdes" languages="Bengali">অন্ধ্রপ্রদেশ</name>
+		<name normalized="an্d্ৰp্ৰdes" languages="Assamese">অন্ধ্ৰপ্ৰদেশ</name>
+		<name normalized="aਂdrਾ p੍rdੇs਼" languages="Punjabi">ਆਂਧਰਾ ਪ੍ਰਦੇਸ਼</name>
+		<name normalized="aંd્r p્rdes" languages="Gujarati">આંધ્ર પ્રદેશ</name>
+		<name normalized="ଆନ୍ଧ୍ର ପ୍ରଦେଶ" languages="Oriya">ଆନ୍ଧ୍ର ପ୍ରଦେଶ</name>
+		<name normalized="ஆந்திரப் பிரதேசம்" languages="Tamil">ஆந்திரப் பிரதேசம்</name>
+		<name normalized="ఆంధ్ర ప్రదేశ్" languages="Telugu">ఆంధ్ర ప్రదేశ్</name>
+		<name normalized="ಆಂಧ್ರ ಪ್ರದೇಶ" languages="Kannada">ಆಂಧ್ರ ಪ್ರದೇಶ</name>
+		<name normalized="ആന്ധ്രാപ്രദേശ്‌" languages="Malayalam">ആന്ധ്രാപ്രദേശ്‌</name>
+		<name normalized="ආන්ද්‍ර ප්‍රදේශ්" languages="Sinhala">ආන්ද්‍ර ප්‍රදේශ්</name>
+		<name normalized="รัฐอานธรประเทศ" languages="Thai">รัฐอานธรประเทศ</name>
+		<name normalized="ཨཱན་དྷ་ར་མངའ་སྡེ།" languages="Tibetan">ཨཱན་དྷ་ར་མངའ་སྡེ།</name>
+		<name normalized="ანდჰრა-პრადეში" languages="Georgian">ანდჰრა-პრადეში</name>
+		<name normalized="aーndr・prdーsy州" languages="Japanese">アーンドラ・プラデーシュ州</name>
+		<name normalized="安得拉邦" languages="Chinese">安得拉邦</name>
+		<name normalized="안드라프라데시 주" languages="Korean">안드라프라데시 주</name>
+	</region>
+	<region name="Arunachal Pradesh" type="state" typeTranslated="state">
+		<name normalized="Arunacala Pradesa" languages="Latin">Arunacala Pradesa</name>
+		<name normalized="Arunachal Pradesh" languages="Achinese;Aragonese;Basque;Breton;Catalan;Chinese (Min Nan);Croatian;Danish;Dutch;English;Fiji Hindi;Finnish;French;German;Icelandic;Indonesian;Italian;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Vietnamese;Waray;Welsh;Yoruba">Arunachal Pradesh</name>
+		<name normalized="Arunachal Pradesh" languages="Turkish">Arunaçhal Pradesh</name>
+		<name normalized="Arunacal-Pradeso" languages="Esperanto">Arunaĉal-Pradeŝo</name>
+		<name normalized="Arunacal Prades" languages="Upper Sorbian">Arunačal Pradeš</name>
+		<name normalized="Arunacal Pradesas" languages="Lithuanian">Arunačal Pradešas</name>
+		<name normalized="Arunacsal Prades" languages="Hungarian">Arunácsal Prades</name>
+		<name normalized="Arunacalprades" languages="Czech;Slovak">Arunáčalpradéš</name>
+		<name normalized="Arunachal Pradesh" languages="Estonian">Arunāchal Pradesh</name>
+		<name normalized="Arunacala Pradesa" languages="Latvian">Arunāčala Pradēša</name>
+		<name normalized="Αρουνατσαλ Πραντeς" languages="Greek">Αρουνάτσαλ Πραντές</name>
+		<name normalized="Aрuнacaл Pрadis" languages="Bulgarian;Macedonian;Serbian">Аруначал Прадеш</name>
+		<name normalized="Aрuнacaл-Pрadis" languages="Russian;Ukrainian">Аруначал-Прадеш</name>
+		<name normalized="Aрuнacaл-Pрades" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Аруначал-Прадэш</name>
+		<name normalized="Oрuнocoл Pрadis" languages="Tajik">Оруночол Прадиш</name>
+		<name normalized="Աrvyնաcաl Prաdեs" languages="Armenian">Արունաչալ Պրադեշ</name>
+		<name normalized="אrvnאצ'ד prדש" languages="Hebrew">ארונאצ'ל פרדש</name>
+		<name normalized="آrونאچאل prאدش" languages="Persian">آروناچال پرادش</name>
+		<name normalized="أrونאjل brدyش" languages="Arabic">أروناجل برديش</name>
+		<name normalized="אrونאچل prدیش" languages="Urdu;Western Punjabi">اروناچل پردیش</name>
+		<name normalized="އަރުނާޗަލް ޕްރަދޭޝް" languages="Divehi">އަރުނާޗަލް ޕްރަދޭޝް</name>
+		<name normalized="aruणाcl p्rdes" languages="Bihari;Hindi;Marathi;Nepali;Newari">अरुणाचल प्रदेश</name>
+		<name normalized="aruणाclp्rdesrाj्ym्" languages="Sanskrit">अरुणाचलप्रदेशराज्यम्</name>
+		<name normalized="aruণাcl p্rdes" languages="Bengali;Bishnupria Manipuri">অরুণাচল প্রদেশ</name>
+		<name normalized="aৰuণাcl p্ৰdes" languages="Assamese">অৰুণাচল প্ৰদেশ</name>
+		<name normalized="arunਾcl p੍rdੇs਼" languages="Punjabi">ਅਰੁਨਾਚਲ ਪ੍ਰਦੇਸ਼</name>
+		<name normalized="aruણાcl p્rdes" languages="Gujarati">અરુણાચલ પ્રદેશ</name>
+		<name normalized="ଅରୁଣାଚଳ ପ୍ରଦେଶ" languages="Oriya">ଅରୁଣାଚଳ ପ୍ରଦେଶ</name>
+		<name normalized="அருணாசலப் பிரதேசம்" languages="Tamil">அருணாசலப் பிரதேசம்</name>
+		<name normalized="అరుణాచల్ ప్రదేశ్" languages="Telugu">అరుణాచల్ ప్రదేశ్</name>
+		<name normalized="ಅರುಣಾಚಲ ಪ್ರದೇಶ" languages="Kannada">ಅರುಣಾಚಲ ಪ್ರದೇಶ</name>
+		<name normalized="അരുണാചൽ പ്രദേശ്" languages="Malayalam">അരുണാചൽ പ്രദേശ്</name>
+		<name normalized="รัฐอรุณาจัลประเทศ" languages="Thai">รัฐอรุณาจัลประเทศ</name>
+		<name normalized="ཨ་རུ་ནཱ་ཅལ་མངའ་སྡེ།" languages="Tibetan">ཨ་རུ་ནཱ་ཅལ་མངའ་སྡེ།</name>
+		<name normalized="არუნაჩალ-პრადეში" languages="Georgian">არუნაჩალ-პრადეში</name>
+		<name normalized="arnーtyr・prdーsy州" languages="Japanese">アルナーチャル・プラデーシュ州</name>
+		<name normalized="阿魯納恰爾" languages="Cantonese">阿魯納恰爾</name>
+		<name normalized="阿鲁纳恰尔邦" languages="Chinese">阿鲁纳恰尔邦</name>
+		<name normalized="아루나찰프라데시 주" languages="Korean">아루나찰프라데시 주</name>
+	</region>
+	<region name="Assam" type="state" typeTranslated="state">
+		<name normalized="Asam" languages="Aragonese;Breton;Polish;Upper Sorbian">Asam</name>
+		<name normalized="Asama" languages="Latin;Latvian">Asama</name>
+		<name normalized="Asamas" languages="Lithuanian">Asamas</name>
+		<name normalized="Asamo" languages="Esperanto">Asamo</name>
+		<name normalized="Assam" languages="Achinese;Afrikaans;Basque;Catalan;Chinese (Min Nan);Croatian;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;Galician;German;Icelandic;Indonesian;Italian;Javanese;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Portuguese;Romanian;Scots;Serbo-Croatian;Silesian;Simple English;Spanish;Swahili;Swedish;Turkish;Vietnamese;veneto;Waray;Welsh;Yoruba">Assam</name>
+		<name normalized="Asszam" languages="Hungarian">Asszám</name>
+		<name normalized="Asam" languages="Slovak">Ásam</name>
+		<name normalized="Asam" languages="Czech">Ásám</name>
+		<name normalized="Ασσαμ" languages="Greek">Ασσάμ</name>
+		<name normalized="Aсaм" languages="Belarusian;Bulgarian;Chuvash;Macedonian;Serbian;biлaрuсkai (taрaskivita)‎">Асам</name>
+		<name normalized="Aссaм" languages="Russian;Tajik;Ukrainian">Ассам</name>
+		<name normalized="אסאם" languages="Hebrew">אסאם</name>
+		<name normalized="آسאm" languages="Arabic;Persian;Urdu;Western Punjabi">آسام</name>
+		<name normalized="އާސާމު" languages="Divehi">އާސާމު</name>
+		<name normalized="asm" languages="Hindi">असम</name>
+		<name normalized="asmrj्jं" languages="Pali">असमरज्जं</name>
+		<name normalized="asmrाj्ym्" languages="Sanskrit">असमराज्यम्</name>
+		<name normalized="asाm" languages="Bihari;Marathi;Nepali;Newari">आसाम</name>
+		<name normalized="asm" languages="Assamese;Bishnupria Manipuri">অসম</name>
+		<name normalized="asাm" languages="Bengali">আসাম</name>
+		<name normalized="asਾm" languages="Punjabi">ਅਸਾਮ</name>
+		<name normalized="asાm" languages="Gujarati">આસામ</name>
+		<name normalized="ଆସାମ" languages="Oriya">ଆସାମ</name>
+		<name normalized="அசாம்" languages="Tamil">அசாம்</name>
+		<name normalized="అసోం" languages="Telugu">అసోం</name>
+		<name normalized="ಅಸ್ಸಾಂ" languages="Kannada">ಅಸ್ಸಾಂ</name>
+		<name normalized="ആസാം" languages="Malayalam">ആസാം</name>
+		<name normalized="รัฐอัสสัม" languages="Thai">รัฐอัสสัม</name>
+		<name normalized="ཨཱསཱམ།" languages="Tibetan">ཨཱསཱམ།</name>
+		<name normalized="အာသံပြည်နယ်" languages="Burmese">အာသံပြည်နယ်</name>
+		<name normalized="ასამის შტატი" languages="Georgian">ასამის შტატი</name>
+		<name normalized="atsm州" languages="Japanese">アッサム州</name>
+		<name normalized="阿萨姆邦" languages="Chinese">阿萨姆邦</name>
+		<name normalized="아삼 주" languages="Korean">아삼 주</name>
+	</region>
+	<region name="Bihar" type="state" typeTranslated="state">
+		<name normalized="Bihar" languages="Achinese;Afrikaans;Alemannisch;Azerbaijani;Basque;Breton;Catalan;Chinese (Min Nan);Croatian;Danish;Dutch;English;Fiji Hindi;Finnish;French;Galician;German;Indonesian;Italian;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Old English;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Turkish;Upper Sorbian;Vietnamese;veneto;Waray;Welsh;Yoruba">Bihar</name>
+		<name normalized="Bihara" languages="Latin">Bihara</name>
+		<name normalized="Biharas" languages="Lithuanian">Biharas</name>
+		<name normalized="Biharo" languages="Esperanto">Biharo</name>
+		<name normalized="Bihar" languages="Czech;Hungarian;Slovak">Bihár</name>
+		<name normalized="Bihar" languages="Estonian">Bihār</name>
+		<name normalized="Bihara" languages="Latvian">Bihāra</name>
+		<name normalized="Bihar" languages="Icelandic">Bíhar</name>
+		<name normalized="Μπιχαρ" languages="Greek">Μπιχάρ</name>
+		<name normalized="Bikaр" languages="Bulgarian;Macedonian;Mongolian;Russian;Serbian">Бихар</name>
+		<name normalized="Bihaр" languages="Tajik">Биҳар</name>
+		<name normalized="Bikaр" languages="Belarusian;Ukrainian;biлaрuсkai (taрaskivita)‎">Біхар</name>
+		<name normalized="bיhr" languages="Hebrew">ביהר</name>
+		<name normalized="byhאr" languages="Arabic">بيهار</name>
+		<name normalized="bہאr" languages="Urdu;Western Punjabi">بہار</name>
+		<name normalized="bیhאr" languages="Persian">بیهار</name>
+		<name normalized="ބިހާރު" languages="Divehi">ބިހާރު</name>
+		<name normalized="bihाr" languages="Bihari;Hindi;Marathi;Nepali;Newari">बिहार</name>
+		<name normalized="bihाrrाj्ym्" languages="Sanskrit">बिहारराज्यम्</name>
+		<name normalized="bihাr" languages="Bengali;Bishnupria Manipuri">বিহার</name>
+		<name normalized="bihਾr" languages="Punjabi">ਬਿਹਾਰ</name>
+		<name normalized="bihાr" languages="Gujarati">બિહાર</name>
+		<name normalized="ବିହାର" languages="Oriya">ବିହାର</name>
+		<name normalized="பீகார்" languages="Tamil">பீகார்</name>
+		<name normalized="బీహార్" languages="Telugu">బీహార్</name>
+		<name normalized="ಬಿಹಾರ" languages="Kannada">ಬಿಹಾರ</name>
+		<name normalized="ബിഹാർ" languages="Malayalam">ബിഹാർ</name>
+		<name normalized="รัฐพิหาร" languages="Thai">รัฐพิหาร</name>
+		<name normalized="སྦི་ཧཱར།" languages="Tibetan">སྦི་ཧཱར།</name>
+		<name normalized="ბიჰარი" languages="Georgian">ბიჰარი</name>
+		<name normalized="bhーr州" languages="Japanese">ビハール州</name>
+		<name normalized="比哈尔邦" languages="Chinese">比哈尔邦</name>
+		<name normalized="비하르 주" languages="Korean">비하르 주</name>
+	</region>
+	<region name="Chandigarh" type="union territory" typeTranslated="union territory">
+		<name normalized="Candigarha" languages="Latin">Candigarha</name>
+		<name normalized="Chandigar" languages="Catalan">Chandigar</name>
+		<name normalized="Chandigarh" languages="Afrikaans;Basque;Chinese (Min Nan);Croatian;Danish;Dutch;English;Fiji Hindi;Finnish;French;German;Icelandic;Indonesian;Italian;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Vietnamese;Waray;Yoruba">Chandigarh</name>
+		<name normalized="Chandigarh" languages="Estonian">Chandīgarh</name>
+		<name normalized="Csandigarh" languages="Hungarian">Csandígarh</name>
+		<name normalized="Czandigarh" languages="Polish">Czandigarh</name>
+		<name normalized="Chandigarh" languages="Turkish">Çhandigarh</name>
+		<name normalized="Candigaro" languages="Esperanto">Ĉandigaro</name>
+		<name normalized="Candigarchas" languages="Lithuanian">Čandigarchas</name>
+		<name normalized="Candigarh" languages="Czech;Slovak">Čandígarh</name>
+		<name normalized="Candigarha" languages="Latvian">Čandīgarha</name>
+		<name normalized="Τσαντιγκαρ" languages="Greek">Τσαντιγκάρ</name>
+		<name normalized="Caнdigaр" languages="Macedonian;Serbian">Чандигар</name>
+		<name normalized="Caнdigaрk" languages="Bulgarian;Russian">Чандигарх</name>
+		<name normalized="Caнdыgaрk" languages="Belarusian">Чандыгарх</name>
+		<name normalized="Caнdigaрk" languages="Ukrainian">Чандігарх</name>
+		<name normalized="tשאnדיגאr" languages="Yiddish">טשאנדיגאר</name>
+		<name normalized="צ'אnדיגאr" languages="Hebrew">צ'אנדיגאר</name>
+		<name normalized="شאندyغאr" languages="Arabic">شانديغار</name>
+		<name normalized="چندی gڑھ" languages="Urdu;Western Punjabi">چندی گڑھ</name>
+		<name normalized="چندی‌gr" languages="Persian">چندی‌گر</name>
+		<name normalized="ޗަންދީގަޅު" languages="Divehi">ޗަންދީގަޅު</name>
+		<name normalized="cंdigढ" languages="Marathi">चंदिगढ</name>
+		<name normalized="cण्डigढ" languages="Nepali">चण्डिगढ</name>
+		<name normalized="cण्डigढ" languages="Newari;Sanskrit">चण्डीगढ</name>
+		<name normalized="cण्डigढ़" languages="Hindi">चण्डीगढ़</name>
+		<name normalized="cণ্ডigড়" languages="Bengali">চণ্ডীগড়</name>
+		<name normalized="cn্ডigড়" languages="Bishnupria Manipuri">চন্ডিগড়</name>
+		<name normalized="cੰਡigr੍h" languages="Punjabi">ਚੰਡੀਗੜ੍ਹ</name>
+		<name normalized="cંડigઢ" languages="Gujarati">ચંડીગઢ</name>
+		<name normalized="ଚଣ୍ଡୀଗଡ଼" languages="Oriya">ଚଣ୍ଡୀଗଡ଼</name>
+		<name normalized="சண்டிகர்" languages="Tamil">சண்டிகர்</name>
+		<name normalized="చండీగఢ్" languages="Telugu">చండీగఢ్</name>
+		<name normalized="ಚಂಡೀಗಡ" languages="Kannada">ಚಂಡೀಗಡ</name>
+		<name normalized="ചണ്ഡീഗഢ്" languages="Malayalam">ചണ്ഡീഗഢ്</name>
+		<name normalized="ჩანდიგარჰი" languages="Georgian">ჩანდიგარჰი</name>
+		<name normalized="tyndiーgr" languages="Japanese">チャンディーガル</name>
+		<name normalized="昌迪加尔" languages="Chinese">昌迪加尔</name>
+		<name normalized="昌迪加爾" languages="Cantonese">昌迪加爾</name>
+		<name normalized="찬디가르" languages="Korean">찬디가르</name>
+	</region>
+	<region name="Chhattisgarh" type="state" typeTranslated="state">
+		<name normalized="Chattisagarha" languages="Latin">Chattisagarha</name>
+		<name normalized="Chattisgarh" languages="Danish">Chattisgarh</name>
+		<name normalized="Chhattisgarh" languages="Achinese;Basque;Breton;Catalan;Chinese (Min Nan);Croatian;Dutch;English;Fiji Hindi;Finnish;French;German;Icelandic;Indonesian;Italian;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Turkish;Vietnamese;veneto;Waray;Welsh;Yoruba">Chhattisgarh</name>
+		<name normalized="Chhattisgarh" languages="Estonian">Chhattīsgarh</name>
+		<name normalized="Cshattiszgarh" languages="Hungarian">Cshattíszgarh</name>
+		<name normalized="Chatisgaro" languages="Esperanto">Ĉhatisgaro</name>
+		<name normalized="Catisgar" languages="Lower Sorbian;Upper Sorbian">Čatisgar</name>
+		<name normalized="Chatisgarhas" languages="Lithuanian">Čhatisgarhas</name>
+		<name normalized="Chattisgarh" languages="Czech;Slovak">Čhattísgarh</name>
+		<name normalized="Chatisgarha" languages="Latvian">Čhatīsgarha</name>
+		<name normalized="Τσατισγκαρ" languages="Greek">Τσατίσγκαρ</name>
+		<name normalized="Catiсgaр" languages="Macedonian;Serbian">Чатисгар</name>
+		<name normalized="Ckatiсgaрk" languages="Bulgarian">Чхатисгарх</name>
+		<name normalized="Ckattiсgaрk" languages="Russian">Чхаттисгарх</name>
+		<name normalized="Ckattiсґaрk" languages="Ukrainian">Чхаттісґарх</name>
+		<name normalized="Ckatысgaрk" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Чхатысгарх</name>
+		<name normalized="Chattiсgaр" languages="Tajik">Чҳаттисгар</name>
+		<name normalized="tשאtיסגאrh" languages="Yiddish">טשאטיסגארה</name>
+		<name normalized="צ'hאtיסגאr" languages="Hebrew">צ'האטיסגאר</name>
+		<name normalized="tشאtyسغאr" languages="Arabic">تشاتيسغار</name>
+		<name normalized="چtیسgr" languages="Persian">چتیسگر</name>
+		<name normalized="چھtیس gڑھ" languages="Urdu">چھتیس گڑھ</name>
+		<name normalized="چھtیسgڑھ" languages="Western Punjabi">چھتیسگڑھ</name>
+		<name normalized="ޗައްތީސްގަޅު" languages="Divehi">ޗައްތީސްގަޅު</name>
+		<name normalized="ct्tisgढ" languages="Marathi;Nepali;Newari">छत्तीसगढ</name>
+		<name normalized="ct्tisgढrाj्ym्" languages="Sanskrit">छत्तीसगढराज्यम्</name>
+		<name normalized="ct्tisgढ़" languages="Bihari;Hindi;Pali">छत्तीसगढ़</name>
+		<name normalized="ct্ticgঢ়" languages="Assamese">ছত্তীছগঢ়</name>
+		<name normalized="ct্tisgঢ়" languages="Bengali">ছত্তীসগঢ়</name>
+		<name normalized="ct্risgড়" languages="Bishnupria Manipuri">ছত্রিসগড়</name>
+		<name normalized="cੱtisgr੍h" languages="Punjabi">ਛੱਤੀਸਗੜ੍ਹ</name>
+		<name normalized="ct્tisgઢ" languages="Gujarati">છત્તીસગઢ</name>
+		<name normalized="ଛତିଶଗଡ଼" languages="Oriya">ଛତିଶଗଡ଼</name>
+		<name normalized="சத்தீசுகர்" languages="Tamil">சத்தீசுகர்</name>
+		<name normalized="ఛత్తీస్‌గఢ్" languages="Telugu">ఛత్తీస్‌గఢ్</name>
+		<name normalized="ಛತ್ತೀಸ್‌ಘಡ್" languages="Kannada">ಛತ್ತೀಸ್‌ಘಡ್</name>
+		<name normalized="ഛത്തീസ്‌ഗഢ്" languages="Malayalam">ഛത്തീസ്‌ഗഢ്</name>
+		<name normalized="รัฐฉัตติสครห์" languages="Thai">รัฐฉัตติสครห์</name>
+		<name normalized="ཆར་ཊི་སི་གྷར།" languages="Tibetan">ཆར་ཊི་སི་གྷར།</name>
+		<name normalized="ჩატისგარჰი" languages="Georgian">ჩატისგარჰი</name>
+		<name normalized="tyttiーsgr州" languages="Japanese">チャッティースガル州</name>
+		<name normalized="恰蒂斯加尔邦" languages="Chinese">恰蒂斯加尔邦</name>
+		<name normalized="차티스가르 주" languages="Korean">차티스가르 주</name>
+	</region>
+	<region name="Dadra and Nagar Haveli" type="union territory" typeTranslated="union territory">
+		<name normalized="Dadara et Nagara Haveli" languages="Latin">Dadara et Nagara Haveli</name>
+		<name normalized="Dadra a Nagar Haveli" languages="Welsh">Dadra a Nagar Haveli</name>
+		<name normalized="Dadra ampong Nagar Haveli" languages="Pampanga">Dadra ampong Nagar Haveli</name>
+		<name normalized="Dadra an Nagar Haveli" languages="Scots">Dadra an Nagar Haveli</name>
+		<name normalized="Dadra and Nagar Haveli" languages="English;official;Simple English">Dadra and Nagar Haveli</name>
+		<name normalized="Dadra dan Nagar Haveli" languages="Indonesian;Malay">Dadra dan Nagar Haveli</name>
+		<name normalized="Dadra e Nagar Haveli" languages="Galician;Italian;Occitan">Dadra e Nagar Haveli</name>
+		<name normalized="Dadra en Nagar Haveli" languages="Dutch">Dadra en Nagar Haveli</name>
+		<name normalized="Dadra et Nagar Haveli" languages="French">Dadra et Nagar Haveli</name>
+		<name normalized="Dadra eta Nagar Haveli" languages="Basque">Dadra eta Nagar Haveli</name>
+		<name normalized="Dadra i Nagar Haveli" languages="Catalan;Croatian;Serbo-Croatian">Dadra i Nagar Haveli</name>
+		<name normalized="Dadra i Nagarhaweli" languages="Polish">Dadra i Nagarhaweli</name>
+		<name normalized="Dadra ir Nagar Havelis" languages="Lithuanian">Dadra ir Nagar Havelis</name>
+		<name normalized="Dadra ja Nagar Haveli" languages="Estonian;Finnish">Dadra ja Nagar Haveli</name>
+		<name normalized="Dadra kap Nagar Haveli" languages="Chinese (Min Nan)">Dadra kap Nagar Haveli</name>
+		<name normalized="Dadra ngan Nagar Haveli" languages="Waray">Dadra ngan Nagar Haveli</name>
+		<name normalized="Dadra och Nagar Haveli" languages="Swedish">Dadra och Nagar Haveli</name>
+		<name normalized="Dadra og Nagar Haveli" languages="Danish;Icelandic;Norwegian (bokmal);Norwegian Nynorsk">Dadra og Nagar Haveli</name>
+		<name normalized="Dadra und Nagar Haveli" languages="German">Dadra und Nagar Haveli</name>
+		<name normalized="Dadra ve Nagar Haveli" languages="Turkish">Dadra ve Nagar Haveli</name>
+		<name normalized="Dadra va Nagar Haveli" languages="Vietnamese">Dadra và Nagar Haveli</name>
+		<name normalized="Dadra y Nagar Haveli" languages="Spanish">Dadra y Nagar Haveli</name>
+		<name normalized="Dadra ati Nagar Haveli" languages="Yoruba">Dadra àti Nagar Haveli</name>
+		<name normalized="Dadra es Nagar Haveli" languages="Hungarian">Dadra és Nagar Haveli</name>
+		<name normalized="Dadra si Nagar Haveli" languages="Romanian">Dadra și Nagar Haveli</name>
+		<name normalized="Dadro kaj Nagar-Havelio" languages="Esperanto">Dadro kaj Nagar-Havelio</name>
+		<name normalized="Dadra e Nagar-Aveli" languages="Portuguese">Dadrá e Nagar-Aveli</name>
+		<name normalized="Dadra a Nagar Haveli" languages="Slovak">Dádra a Nagar Havelí</name>
+		<name normalized="Dadra a Nagar Haveli" languages="Czech">Dádra a Nágar Havélí</name>
+		<name normalized="Dadra un Nagarhaveli" languages="Latvian">Dādra un Nagarhaveli</name>
+		<name normalized="Νταντρα και Ναγκαρ Χαβeλι" languages="Greek">Ντάντρα και Ναγκάρ Χαβέλι</name>
+		<name normalized="Dadрa i Нagaр Kaviлi" languages="Bulgarian;Macedonian;Serbian">Дадра и Нагар Хавели</name>
+		<name normalized="Dadрa i Нagaр-Kaviлi" languages="Russian">Дадра и Нагар-Хавели</name>
+		<name normalized="Dadрa i Нagaр-Kaviлi" languages="Ukrainian">Дадра і Нагар-Хавелі</name>
+		<name normalized="Dadрa i Нagaрkaviлi" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Дадра і Нагархавелі</name>
+		<name normalized="דאדrh vnאגr hbדי" languages="Hebrew">דאדרה ונאגר הבלי</name>
+		<name normalized="دאدrא tٔ نgr ہوےلی" languages="Kashmiri">دادرا تٔ نگر ہوےلی</name>
+		<name normalized="دאدrא و نאgאr hאولی" languages="Persian">دادرا و ناگار هاولی</name>
+		<name normalized="دאدrא و نgr hویلی" languages="Urdu">دادرا و نگر حویلی</name>
+		<name normalized="ދާދްރާ އާއި ނަގަރު ހަވޭލީ" languages="Divehi">ދާދްރާ އާއި ނަގަރު ހަވޭލީ</name>
+		<name normalized="dाdrा ani ngrhveli" languages="Nepali">दादरा अनि नगरहवेली</name>
+		<name normalized="dाdrा aणi ngr-hveli" languages="Marathi">दादरा आणि नगर-हवेली</name>
+		<name normalized="dाdrा ar ngr hveli" languages="Hindi">दादरा और नगर हवेली</name>
+		<name normalized="dाdrा ngrhveli c" languages="Sanskrit">दादरा नगरहवेली च</name>
+		<name normalized="dাdrা o ngr hাbeli" languages="Bengali">দাদরা ও নগর হাভেলি</name>
+		<name normalized="dাdrা bাro ngr hাbeli" languages="Bishnupria Manipuri">দাদরা বারো নগর হাভেলী</name>
+		<name normalized="dਾdr atੇ ngr hvੇli" languages="Punjabi">ਦਾਦਰ ਅਤੇ ਨਗਰ ਹਵੇਲੀ</name>
+		<name normalized="dાdrા ane ngrhveli" languages="Gujarati">દાદરા અને નગરહવેલી</name>
+		<name normalized="ଦାଦ୍ରା ଓ ନଗର ହବେଳୀ" languages="Oriya">ଦାଦ୍ରା ଓ ନଗର ହବେଳୀ</name>
+		<name normalized="தாத்ரா மற்றும் நகர் அவேலி" languages="Tamil">தாத்ரா மற்றும் நகர் அவேலி</name>
+		<name normalized="దాద్రా నగరు హవేలీ" languages="Telugu">దాద్రా నగరు హవేలీ</name>
+		<name normalized="ದಾದ್ರ ಮತ್ತು ನಗರ್ ಹವೆಲಿ" languages="Kannada">ದಾದ್ರ ಮತ್ತು ನಗರ್ ಹವೆಲಿ</name>
+		<name normalized="ദാദ്ര" languages="Malayalam">ദാദ്ര</name>
+		<name normalized="ดาดราและนครหเวลี" languages="Thai">ดาดราและนครหเวลี</name>
+		<name normalized="დადრა და ნაგარ-ჰაველი" languages="Georgian">დადრა და ნაგარ-ჰაველი</name>
+		<name normalized="dーdrー及bngr・hveーrー連邦直轄領" languages="Japanese">ダードラー及びナガル・ハヴェーリー連邦直轄領</name>
+		<name normalized="达德拉-纳加尔哈维利" languages="Chinese">达德拉-纳加尔哈维利</name>
+		<name normalized="다드라 나가르 하벨리" languages="Korean">다드라 나가르 하벨리</name>
+	</region>
+	<region name="Daman and Diu" type="union territory" typeTranslated="union territory">
+		<name normalized="Daman a Diu" languages="Slovak">Daman a Diú</name>
+		<name normalized="Daman a Diu" languages="Czech">Daman a Díu</name>
+		<name normalized="Daman an Diu" languages="Scots">Daman an Diu</name>
+		<name normalized="Daman and Diu" languages="English;official;Simple English">Daman and Diu</name>
+		<name normalized="Daman dan Diu" languages="Indonesian;Malay">Daman dan Diu</name>
+		<name normalized="Daman e Diu" languages="Italian;Occitan">Daman e Diu</name>
+		<name normalized="Daman en Diu" languages="Dutch">Daman en Diu</name>
+		<name normalized="Daman et Diu" languages="French">Daman et Diu</name>
+		<name normalized="Daman eta Diu" languages="Basque">Daman eta Diu</name>
+		<name normalized="Daman i Diu" languages="Catalan;Croatian;Polish;Serbo-Croatian">Daman i Diu</name>
+		<name normalized="Daman ja Diu" languages="Estonian;Finnish">Daman ja Diu</name>
+		<name normalized="Daman kap Diu" languages="Chinese (Min Nan)">Daman kap Diu</name>
+		<name normalized="Daman ngan Diu" languages="Waray">Daman ngan Diu</name>
+		<name normalized="Daman och Diu" languages="Swedish">Daman och Diu</name>
+		<name normalized="Daman og Diu" languages="Danish;Icelandic;Norwegian (bokmal);Norwegian Nynorsk">Daman og Diu</name>
+		<name normalized="Daman und Diu" languages="German">Daman und Diu</name>
+		<name normalized="Daman ve Diu" languages="Turkish">Daman ve Diu</name>
+		<name normalized="Daman va Diu" languages="Vietnamese">Daman và Diu</name>
+		<name normalized="Daman ati Diu" languages="Yoruba">Daman àti Diu</name>
+		<name normalized="Daman si Diu" languages="Romanian">Daman și Diu</name>
+		<name normalized="Damanas ir Diu" languages="Lithuanian">Damanas ir Diu</name>
+		<name normalized="Damano kaj Diuo" languages="Esperanto">Damano kaj Diuo</name>
+		<name normalized="Damanum et Diva" languages="Latin">Damanum et Diva</name>
+		<name normalized="Daman y Diu" languages="Spanish">Damán y Diu</name>
+		<name normalized="Damao e Diu" languages="Portuguese">Damão e Diu</name>
+		<name normalized="Damana un Diu" languages="Latvian">Damāna un Diu</name>
+		<name normalized="Daмaн i Diu" languages="Bulgarian;Macedonian;Russian">Даман и Диу</name>
+		<name normalized="Daмaн i Diju" languages="Serbian">Даман и Дију</name>
+		<name normalized="Daмaн i Dыu" languages="Belarusian">Даман і Дыу</name>
+		<name normalized="Daмaн i Dыў" languages="biлaрuсkai (taрaskivita)‎">Даман і Дыў</name>
+		<name normalized="Daмaн i Diu" languages="Ukrainian">Даман і Діу</name>
+		<name normalized="דאמאן vדיv" languages="Hebrew">דאמאן ודיו</name>
+		<name normalized="دאmאن و دیو" languages="Persian">دامان و دیو</name>
+		<name normalized="دmن و دیو" languages="Urdu">دمن و دیو</name>
+		<name normalized="دmن ودyو" languages="Arabic">دمن وديو</name>
+		<name normalized="ދަމަން އާއި ދީވު" languages="Divehi">ދަމަން އާއި ދީވު</name>
+		<name normalized="dmण" languages="Sanskrit">दमण</name>
+		<name normalized="dmण aणi div" languages="Marathi">दमण आणि दीव</name>
+		<name normalized="dmn ar div" languages="Hindi">दमन और दीव</name>
+		<name normalized="dmn diu" languages="Nepali">दमन दिउ</name>
+		<name normalized="dmn o diu" languages="Bengali">দমন ও দিউ</name>
+		<name normalized="dmn bাro diu" languages="Bishnupria Manipuri">দমন বারো দিউ</name>
+		<name normalized="dmn atੇ diu" languages="Punjabi">ਦਮਨ ਅਤੇ ਦਿਉ</name>
+		<name normalized="dmણ ane div" languages="Gujarati">દમણ અને દીવ</name>
+		<name normalized="ଡାମନ ଓ ଡିଉ" languages="Oriya">ଡାମନ ଓ ଡିଉ</name>
+		<name normalized="தமன் மற்றும் தியூ" languages="Tamil">தமன் மற்றும் தியூ</name>
+		<name normalized="దమన్ దియు" languages="Telugu">దమన్ దియు</name>
+		<name normalized="ದಮನ್ ಮತ್ತು ದಿಯು" languages="Kannada">ದಮನ್ ಮತ್ತು ದಿಯು</name>
+		<name normalized="ദമൻ" languages="Malayalam">ദമൻ</name>
+		<name normalized="ดามันและดีอู" languages="Thai">ดามันและดีอู</name>
+		<name normalized="დამანი და დიუ" languages="Georgian">დამანი და დიუ</name>
+		<name normalized="dmn・diーu連邦直轄領" languages="Japanese">ダマン・ディーウ連邦直轄領</name>
+		<name normalized="达曼-第乌" languages="Chinese">达曼-第乌</name>
+		<name normalized="다만 디우" languages="Korean">다만 디우</name>
+	</region>
+	<region name="Delhi" type="union territory" typeTranslated="union territory">
+		<name normalized="Dehli" languages="Azerbaijani;Uzbek">Dehli</name>
+		<name normalized="Delhi" languages="Afrikaans;Aragonese;Basque;Bislama;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Danish;Dutch;English;Estonian;Extremaduran;Finnish;French;Galician;German;Hungarian;Iloko;Irish;Italian;Kalaallisut;Low German;Lower Sorbian;Malay;Maori;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Simple English;Slovenian;Spanish;Swahili;Swedish;Tagalog;tarandine;Turkish;Vietnamese;Volapuk;Waray;Welsh;Yoruba">Delhi</name>
+		<name normalized="Delhio" languages="Esperanto">Delhio</name>
+		<name normalized="Delhi" languages="Kurdish">Delhî</name>
+		<name normalized="Deli" languages="Latvian;Portuguese;Turkmen">Deli</name>
+		<name normalized="Delis" languages="Lithuanian">Delis</name>
+		<name normalized="Dellium" languages="Latin">Dellium</name>
+		<name normalized="Deli" languages="Icelandic">Delí</name>
+		<name normalized="Dilhi" languages="Quechua">Dilhi</name>
+		<name normalized="Dilli" languages="Czech;Slovak">Dillí</name>
+		<name normalized="Dahli" languages="Tatar">Dähli</name>
+		<name normalized="Dehli" languages="Uyghur">Déhli</name>
+		<name normalized="Faritan'i Delhi" languages="Malagasy">Faritan'i Delhi</name>
+		<name normalized="Δελχι" languages="Greek">Δελχί</name>
+		<name normalized="Goрad Deлi" languages="Belarusian">Горад Дэлі</name>
+		<name normalized="Diлi" languages="Bashkir;Chechen;Eastern Mari;Kazakh;Mongolian;Ossetic;Russian;Sakha">Дели</name>
+		<name normalized="Diлki" languages="Bulgarian;Serbian">Делхи</name>
+		<name normalized="Diлi" languages="Rusyn;Ukrainian">Делі</name>
+		<name normalized="Dihлi" languages="Tajik">Деҳли</name>
+		<name normalized="Deлi" languages="biлaрuсkai (taрaskivita)‎">Дэлі</name>
+		<name normalized="Dեlի" languages="Armenian">Դելի</name>
+		<name normalized="דדhי" languages="Hebrew">דלהי</name>
+		<name normalized="דעדhי" languages="Yiddish">דעלהי</name>
+		<name normalized="دلhy" languages="Arabic">دلهي</name>
+		<name normalized="دلھی" languages="Kashmiri">دلھی</name>
+		<name normalized="دلی" languages="Urdu;Western Punjabi">دلی</name>
+		<name normalized="دhلy" languages="Sindhi">دهلي</name>
+		<name normalized="دhلی" languages="Persian">دهلی</name>
+		<name normalized="دyلhى" languages="Egyptian Spoken Arabic">ديلهى</name>
+		<name normalized="دێھلی" languages="Sorani Kurdish">دێھلی</name>
+		<name normalized="ډېلy" languages="Pashto">ډېلي</name>
+		<name normalized="ދިއްލީ" languages="Divehi">ދިއްލީ</name>
+		<name normalized="dil्li" languages="Hindi;Marathi;Nepali;Newari">दिल्ली</name>
+		<name normalized="dehli" languages="Sanskrit">देहली</name>
+		<name normalized="ni dil्li" languages="Bihari">नई दिल्ली</name>
+		<name normalized="dil্li" languages="Bengali">দিল্লি</name>
+		<name normalized="dil্li" languages="Assamese;Bishnupria Manipuri">দিল্লী</name>
+		<name normalized="diੱli" languages="Punjabi">ਦਿੱਲੀ</name>
+		<name normalized="dil્hi" languages="Gujarati">દિલ્હી</name>
+		<name normalized="ଦିଲ୍ଲୀ" languages="Oriya">ଦିଲ୍ଲୀ</name>
+		<name normalized="தில்லி" languages="Tamil">தில்லி</name>
+		<name normalized="ఢిల్లీ" languages="Telugu">ఢిల్లీ</name>
+		<name normalized="ದೆಹಲಿ" languages="Kannada">ದೆಹಲಿ</name>
+		<name normalized="ഡെൽഹി" languages="Malayalam">ഡെൽഹി</name>
+		<name normalized="เดลี" languages="Thai">เดลี</name>
+		<name normalized="დელი" languages="Georgian">დელი</name>
+		<name normalized="drー" languages="Japanese">デリー</name>
+		<name normalized="德里" languages="Cantonese;Chinese;Gan">德里</name>
+		<name normalized="델리" languages="Korean">델리</name>
+	</region>
+	<region name="Goa" type="state" typeTranslated="state">
+		<name normalized="Goa" languages="Achinese;Afrikaans;Basque;Breton;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Extremaduran;Fiji Hindi;Finnish;French;Galician;German;Hungarian;Indonesian;Interlingua;Irish;Italian;Ladino;Latin;Latvian;Lithuanian;Luxembourgish;Malagasy;Malay;Mirandese;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Slovak;Slovenian;Spanish;Swahili;Swedish;Turkish;Vietnamese;Waray;Welsh;Yoruba">Goa</name>
+		<name normalized="Goa osariik" languages="Estonian">Goa osariik</name>
+		<name normalized="Goao" languages="Esperanto">Goao</name>
+		<name normalized="Goa" languages="Icelandic">Góa</name>
+		<name normalized="Qoa" languages="Azerbaijani">Qoa</name>
+		<name normalized="Γκοα" languages="Greek">Γκόα</name>
+		<name normalized="Goa" languages="Belarusian;Bulgarian;Macedonian;Russian;Serbian;Ukrainian;biлaрuсkai (taрaskivita)‎">Гоа</name>
+		<name normalized="Gua" languages="Tajik">Гуа</name>
+		<name normalized="גvאh" languages="Hebrew">גואה</name>
+		<name normalized="غوא" languages="Arabic">غوا</name>
+		<name normalized="gوא" languages="Persian;Urdu;Western Punjabi">گوا</name>
+		<name normalized="ގޯވާ" languages="Divehi">ގޯވާ</name>
+		<name normalized="goa" languages="Nepali">गोआ</name>
+		<name normalized="govा" languages="Bihari;Hindi;Marathi;Newari">गोवा</name>
+		<name normalized="govाrाj्ym्" languages="Sanskrit">गोवाराज्यम्</name>
+		<name normalized="goy়া" languages="Bengali">গোয়া</name>
+		<name normalized="goৱা" languages="Assamese">গোৱা</name>
+		<name normalized="gৱা" languages="Bishnupria Manipuri">গৱা</name>
+		<name normalized="gੋa" languages="Punjabi">ਗੋਆ</name>
+		<name normalized="goa" languages="Gujarati">ગોઆ</name>
+		<name normalized="ଗୋଆ" languages="Oriya">ଗୋଆ</name>
+		<name normalized="கோவா" languages="Tamil">கோவா</name>
+		<name normalized="గోవా" languages="Telugu">గోవా</name>
+		<name normalized="ಗೋವ" languages="Kannada">ಗೋವ</name>
+		<name normalized="ഗോവ" languages="Malayalam">ഗോവ</name>
+		<name normalized="รัฐกัว" languages="Thai">รัฐกัว</name>
+		<name normalized="གྷོའ།" languages="Tibetan">གྷོའ།</name>
+		<name normalized="გოა" languages="Georgian">გოა</name>
+		<name normalized="ga州" languages="Japanese">ゴア州</name>
+		<name normalized="果阿邦" languages="Chinese">果阿邦</name>
+		<name normalized="고아 주" languages="Korean">고아 주</name>
+	</region>
+	<region name="Gujarat" type="state" typeTranslated="state">
+		<name normalized="An Ghuisearait" languages="Irish">An Ghúisearáit</name>
+		<name normalized="Gucerat" languages="Turkish">Gucerat</name>
+		<name normalized="Gucharat" languages="Aragonese">Gucharat</name>
+		<name normalized="Gudzsarat" languages="Hungarian">Gudzsarát</name>
+		<name normalized="Gudzarat" languages="Polish;Upper Sorbian">Gudźarat</name>
+		<name normalized="Gudzarat" languages="Croatian">Gudžarat</name>
+		<name normalized="Gudzaratas" languages="Lithuanian">Gudžaratas</name>
+		<name normalized="Gudzarat" languages="Czech;Slovak">Gudžarát</name>
+		<name normalized="Gudzarata" languages="Latvian">Gudžarāta</name>
+		<name normalized="Gujarat" languages="Achinese;Basque;Breton;Catalan;Chinese (Min Nan);Danish;Dutch;English;Fiji Hindi;Finnish;French;German;Icelandic;Indonesian;Italian;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Romanian;Scots;Serbo-Croatian;Simple English;Swahili;Swedish;Vietnamese;veneto;Waray;Welsh;Yoruba">Gujarat</name>
+		<name normalized="Gujarate" languages="Portuguese">Gujarate</name>
+		<name normalized="Gujarat" languages="Estonian">Gujarāt</name>
+		<name normalized="Guyarat" languages="Spanish">Guyarat</name>
+		<name normalized="Guzarata" languages="Latin">Guzarata</name>
+		<name normalized="Gugaratio" languages="Esperanto">Guĝaratio</name>
+		<name normalized="Gujerat" languages="Turkmen">Güjerat</name>
+		<name normalized="Γκουτζαρατ" languages="Greek">Γκουτζαράτ</name>
+		<name normalized="Gudzaрat" languages="Belarusian;Bulgarian;Lezghian;Ossetic;Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Гуджарат</name>
+		<name normalized="Gudzaрat" languages="Macedonian;Serbian">Гуџарат</name>
+		<name normalized="Gucaрot" languages="Tajik">Гуҷарот</name>
+		<name normalized="גvג'אrאt" languages="Hebrew">גוג'אראט</name>
+		<name normalized="גvדזשאrאt" languages="Yiddish">גודזשאראט</name>
+		<name normalized="jوjrאt" languages="Egyptian Spoken Arabic">جوجرات</name>
+		<name normalized="غوjאrאt" languages="Arabic">غوجارات</name>
+		<name normalized="gjrאt" languages="Persian;Urdu;Western Punjabi">گجرات</name>
+		<name normalized="gوjאrאt" languages="Sindhi">گوجارات</name>
+		<name normalized="gۇjאrאt" languages="Uyghur">گۇجارات</name>
+		<name normalized="ގުޖުރާތު" languages="Divehi">ގުޖުރާތު</name>
+		<name normalized="gujrाt" languages="Bihari;Hindi;Marathi;Nepali;Newari">गुजरात</name>
+		<name normalized="gujrाtrाj्ym्" languages="Sanskrit">गुजरातराज्यम्</name>
+		<name normalized="gujrাt" languages="Bengali;Bishnupria Manipuri">গুজরাত</name>
+		<name normalized="gujrਾt" languages="Punjabi">ਗੁਜਰਾਤ</name>
+		<name normalized="gujrાt" languages="Gujarati">ગુજરાત</name>
+		<name normalized="ଗୁଜରାଟ" languages="Oriya">ଗୁଜରାଟ</name>
+		<name normalized="குசராத்து" languages="Tamil">குசராத்து</name>
+		<name normalized="గుజరాత్" languages="Telugu">గుజరాత్</name>
+		<name normalized="ಗುಜರಾತ್" languages="Kannada">ಗುಜರಾತ್</name>
+		<name normalized="ഗുജറാത്ത്‌" languages="Malayalam">ഗുജറാത്ത്‌</name>
+		<name normalized="ගුජරාටය" languages="Sinhala">ගුජරාටය</name>
+		<name normalized="รัฐคุชราต" languages="Thai">รัฐคุชราต</name>
+		<name normalized="གྷུ་ཇ་རཱཏ།" languages="Tibetan">གྷུ་ཇ་རཱཏ།</name>
+		<name normalized="გუჯარათი" languages="Georgian">გუჯარათი</name>
+		<name normalized="gzyrーt州" languages="Japanese">グジャラート州</name>
+		<name normalized="古吉拉特邦" languages="Chinese">古吉拉特邦</name>
+		<name normalized="구자라트 주" languages="Korean">구자라트 주</name>
+	</region>
+	<region name="Haryana" type="state" typeTranslated="state">
+		<name normalized="Hariana" languages="Polish">Hariana</name>
+		<name normalized="Harijana" languages="Czech;Hungarian;Slovak">Harijána</name>
+		<name normalized="Hariyana" languages="Latin">Hariyana</name>
+		<name normalized="Harjana" languages="Afrikaans;Lithuanian;Upper Sorbian">Harjana</name>
+		<name normalized="Harjano" languages="Esperanto">Harjano</name>
+		<name normalized="Harjana" languages="Latvian">Harjāna</name>
+		<name normalized="Haryana" languages="Achinese;Basque;Breton;Catalan;Chinese (Min Nan);Croatian;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;Galician;German;Icelandic;Indonesian;Italian;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Turkish;Vietnamese;veneto;Waray;Welsh;Yoruba">Haryana</name>
+		<name normalized="Erjan" languages="Neapolitan">Ërjan</name>
+		<name normalized="Χαρυανα" languages="Greek">Χαρυάνα</name>
+		<name normalized="Kaр'iнa" languages="Belarusian;Ukrainian">Хар'яна</name>
+		<name normalized="Kaрajaнa" languages="Macedonian;Serbian">Харајана</name>
+		<name normalized="Kaрьiнa" languages="Chuvash;Russian">Харьяна</name>
+		<name normalized="Kaрiнa" languages="Bulgarian">Харяна</name>
+		<name normalized="Kaр'iнa" languages="biлaрuсkai (taрaskivita)‎">Хар’яна</name>
+		<name normalized="Haрiiнa" languages="Tajik">Ҳарияна</name>
+		<name normalized="hrיאnh" languages="Hebrew">הריאנה</name>
+		<name normalized="hאryאنא" languages="Arabic">هاريانا</name>
+		<name normalized="hאrیאنא" languages="Persian">هاریانا</name>
+		<name normalized="ہrیאنہ" languages="Urdu;Western Punjabi">ہریانہ</name>
+		<name normalized="ހަރިޔާނާ" languages="Divehi">ހަރިޔާނާ</name>
+		<name normalized="hriyाणा" languages="Bihari;Hindi;Marathi;Nepali;Newari">हरियाणा</name>
+		<name normalized="hriyाणाrाj्ym्" languages="Sanskrit">हरियाणाराज्यम्</name>
+		<name normalized="hriy়াণা" languages="Bengali">হরিয়াণা</name>
+		<name normalized="hriy়াnা" languages="Bishnupria Manipuri">হরিয়ানা</name>
+		<name normalized="hriaਣਾ" languages="Punjabi">ਹਰਿਆਣਾ</name>
+		<name normalized="hriyાણા" languages="Gujarati">હરિયાણા</name>
+		<name normalized="ହରିୟାଣା" languages="Oriya">ହରିୟାଣା</name>
+		<name normalized="அரியானா" languages="Tamil">அரியானா</name>
+		<name normalized="హర్యానా" languages="Telugu">హర్యానా</name>
+		<name normalized="ಹರಿಯಾಣ" languages="Kannada">ಹರಿಯಾಣ</name>
+		<name normalized="ഹരിയാണ" languages="Malayalam">ഹരിയാണ</name>
+		<name normalized="รัฐหรยาณา" languages="Thai">รัฐหรยาณา</name>
+		<name normalized="ཧ་རི་ཡཱ་ཎཱ།" languages="Tibetan">ཧ་རི་ཡཱ་ཎཱ།</name>
+		<name normalized="ჰარიანა" languages="Georgian">ჰარიანა</name>
+		<name normalized="hryーnー州" languages="Japanese">ハリヤーナー州</name>
+		<name normalized="哈里亚纳邦" languages="Chinese">哈里亚纳邦</name>
+		<name normalized="하리아나 주" languages="Korean">하리아나 주</name>
+	</region>
+	<region name="Himachal Pradesh" type="state" typeTranslated="state">
+		<name normalized="Himacala Pradesa" languages="Latin">Himacala Pradesa</name>
+		<name normalized="Himachal Pradesh" languages="Achinese;Basque;Breton;Catalan;Chinese (Min Nan);Croatian;Danish;Dutch;English;Fiji Hindi;Finnish;French;German;Icelandic;Indonesian;Italian;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Vietnamese;Waray;Welsh;Yoruba">Himachal Pradesh</name>
+		<name normalized="Himachal Prades" languages="Turkish">Himaçhal Pradeş</name>
+		<name normalized="Himacal-Pradeso" languages="Esperanto">Himaĉal-Pradeŝo</name>
+		<name normalized="Himacal Prades" languages="Slovenian;Upper Sorbian">Himačal Pradeš</name>
+		<name normalized="Himacal Pradesas" languages="Lithuanian">Himačal Pradešas</name>
+		<name normalized="Himacl Prdes" languages="Neapolitan">Himačl Prdeš</name>
+		<name normalized="Himacsal Prades" languages="Hungarian">Himácsal Prades</name>
+		<name normalized="Himacalprades" languages="Czech;Slovak">Himáčalpradéš</name>
+		<name normalized="Himachal Pradesh" languages="Estonian">Himāchal Pradesh</name>
+		<name normalized="Himacala Pradesa" languages="Latvian">Himāčala Pradēša</name>
+		<name normalized="Χιματσαλ Πραντeς" languages="Greek">Χιμάτσαλ Πραντές</name>
+		<name normalized="Kiмacaл Pрadis" languages="Bulgarian;Macedonian;Serbian">Химачал Прадеш</name>
+		<name normalized="Kiмacaл-Pрadis" languages="Russian">Химачал-Прадеш</name>
+		<name normalized="Kiмacaл-Pрadis" languages="Ukrainian">Хімачал-Прадеш</name>
+		<name normalized="Kiмacaл-Pрades" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Хімачал-Прадэш</name>
+		<name normalized="Hiмocaл Pрadis" languages="Tajik">Ҳимочал Прадеш</name>
+		<name normalized="hימאצ'ד prדש" languages="Hebrew">הימאצ'ל פרדש</name>
+		<name normalized="hymאjل brدyش" languages="Arabic">هيماجل برديش</name>
+		<name normalized="hیmאچאل prאدش" languages="Persian">هیماچال پرادش</name>
+		<name normalized="ہmאچل prدیش" languages="Urdu;Western Punjabi">ہماچل پردیش</name>
+		<name normalized="ހިމާޗަލް ޕްރަދޭޝް" languages="Divehi">ހިމާޗަލް ޕްރަދޭޝް</name>
+		<name normalized="himाcl p्rdes" languages="Bihari;Hindi;Marathi;Nepali">हिमाचल प्रदेश</name>
+		<name normalized="himाclp्rdesrाj्ym्" languages="Sanskrit">हिमाचलप्रदेशराज्यम्</name>
+		<name normalized="himাcl p্rdes" languages="Bengali;Bishnupria Manipuri">হিমাচল প্রদেশ</name>
+		<name normalized="himাcl p্ৰdes" languages="Assamese">হিমাচল প্ৰদেশ</name>
+		<name normalized="himਾcl p੍rdੇs਼" languages="Punjabi">ਹਿਮਾਚਲ ਪ੍ਰਦੇਸ਼</name>
+		<name normalized="himાcl p્rdes" languages="Gujarati">હિમાચલ પ્રદેશ</name>
+		<name normalized="ହିମାଚଳ ପ୍ରଦେଶ" languages="Oriya">ହିମାଚଳ ପ୍ରଦେଶ</name>
+		<name normalized="இமாச்சலப் பிரதேசம்" languages="Tamil">இமாச்சலப் பிரதேசம்</name>
+		<name normalized="హిమాచల్ ప్రదేశ్" languages="Telugu">హిమాచల్ ప్రదేశ్</name>
+		<name normalized="ಹಿಮಾಚಲ ಪ್ರದೇಶ" languages="Kannada">ಹಿಮಾಚಲ ಪ್ರದೇಶ</name>
+		<name normalized="ഹിമാചൽ പ്രദേശ്‌" languages="Malayalam">ഹിമാചൽ പ്രദേശ്‌</name>
+		<name normalized="හිමාචල් ප්‍රදේශ්" languages="Sinhala">හිමාචල් ප්‍රදේශ්</name>
+		<name normalized="รัฐหิมาจัลประเทศ" languages="Thai">รัฐหิมาจัลประเทศ</name>
+		<name normalized="ཧི་མ་ཅལ་མངའ་སྡེ།" languages="Tibetan">ཧི་མ་ཅལ་མངའ་སྡེ།</name>
+		<name normalized="ჰიმაჩალ-პრადეში" languages="Georgian">ჰიმაჩალ-პრადეში</name>
+		<name normalized="hmーtyr・prdーsy州" languages="Japanese">ヒマーチャル・プラデーシュ州</name>
+		<name normalized="喜马偕尔邦" languages="Chinese">喜马偕尔邦</name>
+		<name normalized="히마찰프라데시 주" languages="Korean">히마찰프라데시 주</name>
+	</region>
+	<region name="Jammu and Kashmir" type="state" typeTranslated="state">
+		<name normalized="Cemmu ve Kesmir" languages="Turkish">Cemmu ve Keşmir</name>
+		<name normalized="Dzsammu es Kasmir" languages="Hungarian">Dzsammu és Kasmír</name>
+		<name normalized="Dzammu i Kaszmir" languages="Polish">Dżammu i Kaszmir</name>
+		<name normalized="Dzammu un Kasmira" languages="Latvian">Džammu un Kašmīra</name>
+		<name normalized="Dzammu a Kasmir" languages="Czech;Slovak">Džammú a Kašmír</name>
+		<name normalized="Dzamu ir Kasmyras" languages="Lithuanian">Džamu ir Kašmyras</name>
+		<name normalized="Jammu a Kashmir" languages="Welsh">Jammu a Kashmir</name>
+		<name normalized="Jammu ampong Kashmir" languages="Pampanga">Jammu ampong Kashmir</name>
+		<name normalized="Jammu an Kashmir" languages="Scots">Jammu an Kashmir</name>
+		<name normalized="Jammu and Kashmir" languages="English;Fiji Hindi;official;Simple English">Jammu and Kashmir</name>
+		<name normalized="Jammu dan Kashmir" languages="Indonesian;Malay">Jammu dan Kashmir</name>
+		<name normalized="Jammu e Cashmir" languages="Occitan">Jammu e Cashmir</name>
+		<name normalized="Jammu e Caxemira" languages="Portuguese">Jammu e Caxemira</name>
+		<name normalized="Jammu e Kashmir" languages="Italian">Jammu e Kashmir</name>
+		<name normalized="Jammu en Kasjmir" languages="Dutch">Jammu en Kasjmir</name>
+		<name normalized="Jammu et Casmiria" languages="Latin">Jammu et Casmiria</name>
+		<name normalized="Jammu eta Kaxmir" languages="Basque">Jammu eta Kaxmir</name>
+		<name normalized="Jammu ha Kachmir" languages="Breton">Jammu ha Kachmir</name>
+		<name normalized="Jammu i Caixmir" languages="Catalan">Jammu i Caixmir</name>
+		<name normalized="Jammu i Kashmir" languages="Bosnian;Croatian;Serbo-Croatian">Jammu i Kashmir</name>
+		<name normalized="Jammu ja Kashmir" languages="Estonian;Finnish">Jammu ja Kashmir</name>
+		<name normalized="Jammu kap Kashmir" languages="Chinese (Min Nan)">Jammu kap Kashmir</name>
+		<name normalized="Jammu Kashmir" languages="Achinese">Jammu Kashmir</name>
+		<name normalized="Jammu ngan Kashmir" languages="Waray">Jammu ngan Kashmir</name>
+		<name normalized="Jammu och Kashmir" languages="Swedish">Jammu och Kashmir</name>
+		<name normalized="Jammu og Kashmir" languages="Norwegian (bokmal);Norwegian Nynorsk">Jammu og Kashmir</name>
+		<name normalized="Jammu und Kashmir" languages="German">Jammu und Kashmir</name>
+		<name normalized="Jammu va Kashmir" languages="Vietnamese">Jammu và Kashmir</name>
+		<name normalized="Jammu y Cachemira" languages="Spanish">Jammu y Cachemira</name>
+		<name normalized="Jammu ati Kashmir" languages="Yoruba">Jammu àti Kashmir</name>
+		<name normalized="Jammu si Casmir" languages="Romanian">Jammu și Cașmir</name>
+		<name normalized="Jammu-et-Cachemire" languages="French">Jammu-et-Cachemire</name>
+		<name normalized="Jammu og Kasmir" languages="Icelandic">Jammú og Kasmír</name>
+		<name normalized="Gamuo kaj Kasmiro" languages="Esperanto">Ĝamuo kaj Kaŝmiro</name>
+		<name normalized="Γιαμοu και Κασμιρ" languages="Greek">Γιαμού και Κασμίρ</name>
+		<name normalized="Dzaммu i Kasмiр" languages="Russian">Джамму и Кашмир</name>
+		<name normalized="Dzaммu й Kasмiр" languages="Ukrainian">Джамму й Кашмір</name>
+		<name normalized="Dzaмu i Kasмiр" languages="Bulgarian">Джаму и Кашмир</name>
+		<name normalized="Dzaмu i Kasмiр" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Джаму і Кашмір</name>
+		<name normalized="Dzaмu i Kasмiр" languages="Macedonian;Serbian">Џаму и Кашмир</name>
+		<name normalized="Caммu va Kasмiр" languages="Tajik">Ҷамму ва Кашмир</name>
+		<name normalized="Jաmmvy և Kաsmիr" languages="Armenian">Ջամմու և Քաշմիր</name>
+		<name normalized="ג'אמv vqשמיr" languages="Hebrew">ג'אמו וקשמיר</name>
+		<name normalized="jאmو و کشmیr" languages="Persian">جامو و کشمیر</name>
+		<name normalized="jאmو وkشmyr" languages="Arabic">جامو وكشمير</name>
+		<name normalized="jmوں tے کشmیr" languages="Western Punjabi">جموں تے کشمیر</name>
+		<name normalized="jmوں و کشmیr" languages="Urdu">جموں و کشمیر</name>
+		<name normalized="ޖައްމޫ ކަޝްމީރު" languages="Divehi">ޖައްމޫ ކަޝްމީރު</name>
+		<name normalized="jm्mu ks्mir" languages="Bihari;Nepali">जम्मु कश्मीर</name>
+		<name normalized="jm्mu aणi kाs्mir" languages="Marathi">जम्मू आणि काश्मीर</name>
+		<name normalized="jm्mu ar ks्mir" languages="Hindi">जम्मू और कश्मीर</name>
+		<name normalized="jm्mu v ks्mir" languages="Newari">जम्मू व कश्मिर</name>
+		<name normalized="jm्mukाs्mirrाj्ym्" languages="Sanskrit">जम्मूकाश्मीरराज्यम्</name>
+		<name normalized="jm্mu o kাs্mir" languages="Bengali">জম্মু ও কাশ্মীর</name>
+		<name normalized="jm্mu bাro kাs্mir" languages="Bishnupria Manipuri">জম্মু বারো কাশ্মির</name>
+		<name normalized="jੰmu atੇ ks਼mir" languages="Punjabi">ਜੰਮੂ ਅਤੇ ਕਸ਼ਮੀਰ</name>
+		<name normalized="jm્mu ane kાs્mir" languages="Gujarati">જમ્મુ અને કાશ્મીર</name>
+		<name normalized="ଜମ୍ମୁ ଓ କଶ୍ମୀର" languages="Oriya">ଜମ୍ମୁ ଓ କଶ୍ମୀର</name>
+		<name normalized="சம்மு காசுமீர்" languages="Tamil">சம்மு காசுமீர்</name>
+		<name normalized="జమ్మూ కాశ్మీరు" languages="Telugu">జమ్మూ కాశ్మీరు</name>
+		<name normalized="ಜಮ್ಮು ಮತ್ತು ಕಾಶ್ಮೀರ" languages="Kannada">ಜಮ್ಮು ಮತ್ತು ಕಾಶ್ಮೀರ</name>
+		<name normalized="ജമ്മു-കശ്മീർ" languages="Malayalam">ജമ്മു-കശ്മീർ</name>
+		<name normalized="รัฐชัมมูและกัศมีร์" languages="Thai">รัฐชัมมูและกัศมีร์</name>
+		<name normalized="ཇ་མུ་དང་ཀ་ཤི་མིར།" languages="Tibetan">ཇ་མུ་དང་ཀ་ཤི་མིར།</name>
+		<name normalized="ဂျမ်မူး နှင့် ကက်ရှမီးယားပြည်နယ်" languages="Burmese">ဂျမ်မူး နှင့် ကက်ရှမီးယားပြည်နယ်</name>
+		<name normalized="ჯამუ და ქაშმირი" languages="Georgian">ჯამუ და ქაშმირი</name>
+		<name normalized="zynmー・ksmーr州" languages="Japanese">ジャンムー・カシミール州</name>
+		<name normalized="查谟-克什米尔邦" languages="Chinese">查谟-克什米尔邦</name>
+		<name normalized="잠무 카슈미르 주" languages="Korean">잠무 카슈미르 주</name>
+	</region>
+	<region name="Jharkhand" type="state" typeTranslated="state">
+		<name normalized="Dzsharkhand" languages="Hungarian">Dzshárkhand</name>
+		<name normalized="Dzarkand" languages="Upper Sorbian">Dźarkand</name>
+		<name normalized="Dzharkhandas" languages="Lithuanian">Džharkhandas</name>
+		<name normalized="Dzharkhand" languages="Czech;Slovak">Džhárkhand</name>
+		<name normalized="Dzharkhanda" languages="Latvian">Džhārkhanda</name>
+		<name normalized="Jharakhanda" languages="Latin">Jharakhanda</name>
+		<name normalized="Jharkhand" languages="Achinese;Basque;Breton;Catalan;Chinese (Min Nan);Croatian;Danish;Dutch;English;Fiji Hindi;Finnish;French;German;Icelandic;Indonesian;Italian;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Turkish;Vietnamese;veneto;Waray;Welsh;Yoruba">Jharkhand</name>
+		<name normalized="Jharkhand" languages="Estonian">Jhārkhand</name>
+		<name normalized="Gharkhando" languages="Esperanto">Ĝharkhando</name>
+		<name normalized="Τζαρκαντ" languages="Greek">Τζαρκάντ</name>
+		<name normalized="Dzaрkkaнd" languages="Bulgarian;Russian">Джаркханд</name>
+		<name normalized="Dzkaрkkaнd" languages="Belarusian;Ukrainian;biлaрuсkai (taрaskivita)‎">Джхаркханд</name>
+		<name normalized="Zaрkaнd" languages="Mongolian">Жарканд</name>
+		<name normalized="Dzaрkaнd" languages="Macedonian;Serbian">Џарканд</name>
+		<name normalized="Caрkaнd" languages="Tajik">Ҷарханд</name>
+		<name normalized="ג'hrqאnד" languages="Hebrew">ג'הרקאנד</name>
+		<name normalized="דזשאrqhאnד" languages="Yiddish">דזשארקהאנד</name>
+		<name normalized="jאrکند" languages="Persian">جارکند</name>
+		<name normalized="jhאrخאند" languages="Arabic">جهارخاند</name>
+		<name normalized="jھאڑکھنڈ" languages="Urdu;Western Punjabi">جھاڑکھنڈ</name>
+		<name normalized="ޖަރްކަންދު" languages="Divehi">ޖަރްކަންދު</name>
+		<name normalized="jाrkंड" languages="Marathi">झारखंड</name>
+		<name normalized="jाrkण्ड" languages="Bihari;Hindi;Nepali;Newari">झारखण्ड</name>
+		<name normalized="jाrkण्डrाj्ym्" languages="Sanskrit">झारखण्डराज्यम्</name>
+		<name normalized="jাড়kণ্ড" languages="Bengali">ঝাড়খণ্ড</name>
+		<name normalized="jাড়kn্ড" languages="Bishnupria Manipuri">ঝাড়খন্ড</name>
+		<name normalized="jਾrkੰਡ" languages="Punjabi">ਝਾਰਖੰਡ</name>
+		<name normalized="jાrkંડ" languages="Gujarati">ઝારખંડ</name>
+		<name normalized="ଝାଡ଼ଖଣ୍ଡ" languages="Oriya">ଝାଡ଼ଖଣ୍ଡ</name>
+		<name normalized="சார்க்கண்ட்" languages="Tamil">சார்க்கண்ட்</name>
+		<name normalized="జార్ఖండ్" languages="Telugu">జార్ఖండ్</name>
+		<name normalized="ಝಾರ್ಖಂಡ್" languages="Kannada">ಝಾರ್ಖಂಡ್</name>
+		<name normalized="ഝാർഖണ്ഡ്‌" languages="Malayalam">ഝാർഖണ്ഡ്‌</name>
+		<name normalized="รัฐฌาร์ขัณฑ์" languages="Thai">รัฐฌาร์ขัณฑ์</name>
+		<name normalized="རྗར་ཁན་ཌི།" languages="Tibetan">རྗར་ཁན་ཌི།</name>
+		<name normalized="ჯარხანდი" languages="Georgian">ჯარხანდი</name>
+		<name normalized="zyーrknd州" languages="Japanese">ジャールカンド州</name>
+		<name normalized="賈坎德邦" languages="Classical Chinese">賈坎德邦</name>
+		<name normalized="贾坎德邦" languages="Chinese">贾坎德邦</name>
+		<name normalized="자르칸드 주" languages="Korean">자르칸드 주</name>
+	</region>
+	<region name="Karnataka" type="state" typeTranslated="state">
+		<name normalized="Carnatica" languages="Latin">Carnatica</name>
+		<name normalized="Estat de Karnataka" languages="Catalan">Estat de Karnataka</name>
+		<name normalized="Karnataka" languages="Achinese;Afrikaans;Basque;Breton;Chinese (Min Nan);Croatian;Danish;Dutch;English;Fiji Hindi;Finnish;French;German;Icelandic;Indonesian;Italian;Lithuanian;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Turkish;Upper Sorbian;Vietnamese;veneto;Waray;Welsh;Yoruba">Karnataka</name>
+		<name normalized="Karnatako" languages="Esperanto">Karnatako</name>
+		<name normalized="Karnataka" languages="Czech;Hungarian;Slovak">Karnátaka</name>
+		<name normalized="Karnataka" languages="Estonian;Latvian">Karnātaka</name>
+		<name normalized="Καρνατακα" languages="Greek">Καρνάτακα</name>
+		<name normalized="Kaрнataka" languages="Belarusian;Bulgarian;Macedonian;Mongolian;Russian;Serbian;Ukrainian;biлaрuсkai (taрaskivita)‎">Карнатака</name>
+		<name normalized="Kaрнotako" languages="Tajik">Карнотако</name>
+		<name normalized="qאrnאtאqא" languages="Yiddish">קארנאטאקא</name>
+		<name normalized="qrnאtqh" languages="Hebrew">קרנאטקה</name>
+		<name normalized="kאrنאtאkא" languages="Arabic">كارناتاكا</name>
+		<name normalized="کאrنאtאکא" languages="Persian">کارناتاکا</name>
+		<name normalized="کrنאٹک" languages="Urdu;Western Punjabi">کرناٹک</name>
+		<name normalized="ކަރްނާޓަކާ" languages="Divehi">ކަރްނާޓަކާ</name>
+		<name normalized="kr्णाटkrाj्ym्" languages="Sanskrit">कर्णाटकराज्यम्</name>
+		<name normalized="kr्nाटk" languages="Bihari;Hindi;Marathi;Nepali;Newari">कर्नाटक</name>
+		<name normalized="kr্ণাটk" languages="Bengali;Bishnupria Manipuri">কর্ণাটক</name>
+		<name normalized="krnਾਟkਾ" languages="Punjabi">ਕਰਨਾਟਕਾ</name>
+		<name normalized="kr્ણાટk" languages="Gujarati">કર્ણાટક</name>
+		<name normalized="କର୍ଣ୍ଣାଟକ" languages="Oriya">କର୍ଣ୍ଣାଟକ</name>
+		<name normalized="கருநாடகம்" languages="Tamil">கருநாடகம்</name>
+		<name normalized="కర్ణాటక" languages="Telugu">కర్ణాటక</name>
+		<name normalized="ಕರ್ನಾಟಕ" languages="Kannada">ಕರ್ನಾಟಕ</name>
+		<name normalized="കർണാടക" languages="Malayalam">കർണാടക</name>
+		<name normalized="รัฐกรณาฏกะ" languages="Thai">รัฐกรณาฏกะ</name>
+		<name normalized="ཁར་ན་ཀྲ་ཁཱ།" languages="Tibetan">ཁར་ན་ཀྲ་ཁཱ།</name>
+		<name normalized="კარნატაკა" languages="Georgian">კარნატაკა</name>
+		<name normalized="krnーtk州" languages="Japanese">カルナータカ州</name>
+		<name normalized="卡纳塔克邦" languages="Chinese;Wu">卡纳塔克邦</name>
+		<name normalized="카르나타카 주" languages="Korean">카르나타카 주</name>
+	</region>
+	<region name="Kerala" type="state" typeTranslated="state">
+		<name normalized="Cearala" languages="Scottish Gaelic">Cearala</name>
+		<name normalized="Kerala" languages="Achinese;Afrikaans;Basque;Breton;Catalan;Chinese (Min Nan);Croatian;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;German;Hungarian;Icelandic;Indonesian;Italian;Latvian;Lithuanian;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Turkish;Upper Sorbian;Vietnamese;veneto;Waray;Welsh;Yoruba">Kerala</name>
+		<name normalized="Keralao" languages="Esperanto">Keralao</name>
+		<name normalized="Kerala" languages="Czech;Slovak">Kérala</name>
+		<name normalized="Malabaria" languages="Latin">Malabaria</name>
+		<name normalized="Κεραλα" languages="Greek">Κεράλα</name>
+		<name normalized="Kiрaлa" languages="Belarusian;Bulgarian;Chuvash;Macedonian;Russian;Serbian;Tajik;Ukrainian;biлaрuсkai (taрaskivita)‎">Керала</name>
+		<name normalized="Kեrաlա" languages="Armenian">Կերալա</name>
+		<name normalized="qעrאדא" languages="Yiddish">קעראלא</name>
+		<name normalized="qrדh" languages="Hebrew">קרלה</name>
+		<name normalized="kyrאلא" languages="Egyptian Spoken Arabic">كيرالا</name>
+		<name normalized="kyrلא" languages="Arabic">كيرلا</name>
+		<name normalized="کrאلא" languages="Persian">کرالا</name>
+		<name normalized="کیrאلہ" languages="Western Punjabi">کیرالہ</name>
+		<name normalized="کیrلא" languages="Urdu">کیرلا</name>
+		<name normalized="ކެރެލާ" languages="Divehi">ކެރެލާ</name>
+		<name normalized="kerl" languages="Bihari;Hindi;Nepali;Newari">केरल</name>
+		<name normalized="kerl" languages="Marathi">केरळ</name>
+		<name normalized="kerlrाj्ym्" languages="Sanskrit">केरळराज्यम्</name>
+		<name normalized="kerl" languages="Bengali">কেরল</name>
+		<name normalized="kerাlা" languages="Bishnupria Manipuri">কেরালা</name>
+		<name normalized="kੇrlਾ" languages="Punjabi">ਕੇਰਲਾ</name>
+		<name normalized="kerll" languages="Gujarati">કેરળ</name>
+		<name normalized="କେରଳ" languages="Oriya">କେରଳ</name>
+		<name normalized="கேரளம்" languages="Tamil">கேரளம்</name>
+		<name normalized="కేరళ" languages="Telugu">కేరళ</name>
+		<name normalized="ಕೇರಳ" languages="Kannada">ಕೇರಳ</name>
+		<name normalized="കേരളം" languages="Malayalam">കേരളം</name>
+		<name normalized="รัฐเกรละ" languages="Thai">รัฐเกรละ</name>
+		<name normalized="ཀེ་ར་ལཱ།" languages="Tibetan">ཀེ་ར་ལཱ།</name>
+		<name normalized="კერალა" languages="Georgian">კერალა</name>
+		<name normalized="kーrr州" languages="Japanese">ケーララ州</name>
+		<name normalized="喀拉拉邦" languages="Chinese">喀拉拉邦</name>
+		<name normalized="케랄라 주" languages="Korean">케랄라 주</name>
+	</region>
+	<region name="Lakshadweep" type="union territory" typeTranslated="union territory">
+		<name normalized="Laccadiva" languages="Latin">Laccadiva</name>
+		<name normalized="Laccadive" languages="Italian">Laccadive</name>
+		<name normalized="Laccadiven" languages="Dutch">Laccadiven</name>
+		<name normalized="Lakadive" languages="Northern Frisian">Lakadive</name>
+		<name normalized="Lakadiveak" languages="Basque">Lakadiveak</name>
+		<name normalized="Lakadivi" languages="Croatian;Serbo-Croatian">Lakadivi</name>
+		<name normalized="Lakadivy" languages="Czech;Slovak">Lakadivy</name>
+		<name normalized="Lakkadivane" languages="Norwegian Nynorsk">Lakkadivane</name>
+		<name normalized="Lakkadivene" languages="Norwegian (bokmal)">Lakkadivene</name>
+		<name normalized="Laksadiva" languages="Hungarian">Laksadíva</name>
+		<name normalized="Lakshadvip" languages="Uzbek">Lakshadvip</name>
+		<name normalized="Lakshadweep" languages="Catalan;Chinese (Min Nan);Danish;English;Estonian;Finnish;French;German;Icelandic;Indonesian;Occitan;official;Romanian;Simple English;Swedish;Vietnamese;Waray;Yoruba">Lakshadweep</name>
+		<name normalized="Lakszadiwy" languages="Polish">Lakszadiwy</name>
+		<name normalized="Laksadivoj" languages="Esperanto">Lakŝadivoj</name>
+		<name normalized="Laksadvip Adaları" languages="Turkish">Lakşadvip Adaları</name>
+		<name normalized="Laksadvipas" languages="Lithuanian">Lakšadvipas</name>
+		<name normalized="Laksadvipa" languages="Latvian">Lakšadvīpa</name>
+		<name normalized="Laquedivas" languages="Portuguese;Spanish">Laquedivas</name>
+		<name normalized="Лakadivi" languages="Macedonian;Serbian">Лакадиви</name>
+		<name normalized="Лaksadvip" languages="Bulgarian;Russian">Лакшадвип</name>
+		<name normalized="Лaksadvip" languages="Belarusian;Ukrainian">Лакшадвіп</name>
+		<name normalized="דqשאדvvיp" languages="Hebrew">לקשאדוויפ</name>
+		<name normalized="لאکشאدویp" languages="Persian">لاکشادویپ</name>
+		<name normalized="لkشدyb" languages="Arabic">لكشديب</name>
+		<name normalized="لکشאدیp" languages="Urdu">لکشادیپ</name>
+		<name normalized="ލަކްޝަދީބު" languages="Divehi">ލަކްޝަދީބު</name>
+		<name normalized="lk्षd्vip" languages="Hindi;Marathi;Nepali">लक्षद्वीप</name>
+		<name normalized="lk्षd्vipाः" languages="Sanskrit">लक्षद्वीपाः</name>
+		<name normalized="lk্ষd্bip" languages="Bengali">লক্ষদ্বীপ</name>
+		<name normalized="lাk্ষাd্bip" languages="Bishnupria Manipuri">লাক্ষাদ্বীপ</name>
+		<name normalized="lks਼dip" languages="Punjabi">ਲਕਸ਼ਦੀਪ</name>
+		<name normalized="lk્ષd્vip" languages="Gujarati">લક્ષદ્વીપ</name>
+		<name normalized="ଲାକ୍ଷାଦ୍ଵୀପ" languages="Oriya">ଲାକ୍ଷାଦ୍ଵୀପ</name>
+		<name normalized="இலட்சத்தீவுகள்" languages="Tamil">இலட்சத்தீவுகள்</name>
+		<name normalized="లక్షద్వీపములు" languages="Telugu">లక్షద్వీపములు</name>
+		<name normalized="ಲಕ್ಷದ್ವೀಪ" languages="Kannada">ಲಕ್ಷದ್ವೀಪ</name>
+		<name normalized="ലക്ഷദ്വീപ്" languages="Malayalam">ലക്ഷദ്വീപ്</name>
+		<name normalized="ลักษทวีป" languages="Thai">ลักษทวีป</name>
+		<name normalized="ლაქშადვიპი" languages="Georgian">ლაქშადვიპი</name>
+		<name normalized="rksydiーp諸島" languages="Japanese">ラクシャディープ諸島</name>
+		<name normalized="拉克沙群島" languages="Chinese">拉克沙群島</name>
+		<name normalized="락샤드위프 제도" languages="Korean">락샤드위프 제도</name>
+	</region>
+	<region name="Madhya Pradesh" type="state" typeTranslated="state">
+		<name normalized="Madhja Prades" languages="Hungarian">Madhja Prades</name>
+		<name normalized="Madhja Pradesas" languages="Lithuanian">Madhja Pradešas</name>
+		<name normalized="Madhja Pradesa" languages="Latvian">Madhja Pradēša</name>
+		<name normalized="Madhja-Pradeso" languages="Esperanto">Madhja-Pradeŝo</name>
+		<name normalized="Madhjaprades" languages="Czech;Slovak">Madhjapradéš</name>
+		<name normalized="Madhya Pradesa" languages="Latin">Madhya Pradesa</name>
+		<name normalized="Madhya Pradesh" languages="Achinese;Basque;Breton;Catalan;Chinese (Min Nan);Croatian;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;German;Icelandic;Indonesian;Italian;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Turkish;Vietnamese;veneto;Waray;Welsh;Yoruba">Madhya Pradesh</name>
+		<name normalized="Madhya-Pradesh" languages="Uzbek">Madhya-Pradesh</name>
+		<name normalized="Μαντια Πραντeς" languages="Greek">Μάντια Πραντές</name>
+		<name normalized="Мadk'i-Pрadis" languages="Ukrainian">Мадх'я-Прадеш</name>
+		<name normalized="Мadk'i-Pрades" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Мадх'я-Прадэш</name>
+		<name normalized="Мadkьi-Pрadis" languages="Mongolian;Russian">Мадхья-Прадеш</name>
+		<name normalized="Мadki Pрadis" languages="Bulgarian">Мадхя Прадеш</name>
+		<name normalized="Мadja Pрadis" languages="Macedonian;Serbian">Мадја Прадеш</name>
+		<name normalized="Мadhi Pрadis" languages="Tajik">Мадҳя Прадеш</name>
+		<name normalized="מאדhיא prאדעש" languages="Yiddish">מאדהיא פראדעש</name>
+		<name normalized="מאדhיh prאדש" languages="Hebrew">מאדהיה פראדש</name>
+		<name normalized="mאدאیא prאدش" languages="Persian">مادایا پرادش</name>
+		<name normalized="mאدyא brאدyش" languages="Arabic">ماديا براديش</name>
+		<name normalized="mدھیہ prدیش" languages="Urdu">مدھیہ پردیش</name>
+		<name normalized="mدہیہ prدیش" languages="Western Punjabi">مدہیہ پردیش</name>
+		<name normalized="މަދްޔަ ޕްރަދޭޝް" languages="Divehi">މަދްޔަ ޕްރަދޭޝް</name>
+		<name normalized="md्y p्rdes" languages="Bihari;Hindi;Marathi;Nepali;Newari">मध्य प्रदेश</name>
+		<name normalized="md्yp्rdesrाj्ym्" languages="Sanskrit">मध्यप्रदेशराज्यम्</name>
+		<name normalized="md্y p্rdes" languages="Bishnupria Manipuri">মধ্য প্রদেশ</name>
+		<name normalized="md্yp্rdes" languages="Bengali">মধ্যপ্রদেশ</name>
+		<name normalized="mੱd p੍rdੇs਼" languages="Punjabi">ਮੱਧ ਪ੍ਰਦੇਸ਼</name>
+		<name normalized="md્y p્rdes" languages="Gujarati">મધ્ય પ્રદેશ</name>
+		<name normalized="ମଧ୍ୟ ପ୍ରଦେଶ" languages="Oriya">ମଧ୍ୟ ପ୍ରଦେଶ</name>
+		<name normalized="மத்தியப் பிரதேசம்" languages="Tamil">மத்தியப் பிரதேசம்</name>
+		<name normalized="మధ్య ప్రదేశ్" languages="Telugu">మధ్య ప్రదేశ్</name>
+		<name normalized="ಮಧ್ಯ ಪ್ರದೇಶ" languages="Kannada">ಮಧ್ಯ ಪ್ರದೇಶ</name>
+		<name normalized="മധ്യപ്രദേശ്‌" languages="Malayalam">മധ്യപ്രദേശ്‌</name>
+		<name normalized="รัฐมัธยประเทศ" languages="Thai">รัฐมัธยประเทศ</name>
+		<name normalized="မဇ္ဈဒေသ ပြည်နယ်" languages="Burmese">မဇ္ဈဒေသ ပြည်နယ်</name>
+		<name normalized="მადჰია-პრადეში" languages="Georgian">მადჰია-პრადეში</name>
+		<name normalized="mdiy・prdーsy州" languages="Japanese">マディヤ・プラデーシュ州</name>
+		<name normalized="中央邦" languages="Chinese">中央邦</name>
+		<name normalized="마디아프라데시 주" languages="Korean">마디아프라데시 주</name>
+	</region>
+	<region name="Maharashtra" type="state" typeTranslated="state">
+		<name normalized="Maharashtra" languages="Achinese;Basque;Breton;Catalan;Chinese (Min Nan);Croatian;Danish;Dutch;English;Fiji Hindi;Finnish;French;German;Icelandic;Indonesian;Italian;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Swahili;Swedish;Vietnamese;veneto;Waray;Welsh;Yoruba">Maharashtra</name>
+		<name normalized="Maharastra" languages="Latin;Spanish">Maharastra</name>
+		<name normalized="Maharasztra" languages="Polish">Maharasztra</name>
+		<name normalized="Maharastro" languages="Esperanto">Maharaŝtro</name>
+		<name normalized="Maharastra" languages="Turkish">Maharaştra</name>
+		<name normalized="Maharastra" languages="Lithuanian;Upper Sorbian">Maharaštra</name>
+		<name normalized="Maharastra" languages="Slovak">Maháraštra</name>
+		<name normalized="Maharastra" languages="Hungarian">Mahárástra</name>
+		<name normalized="Maharastra" languages="Czech">Maháráštra</name>
+		<name normalized="Maharashtra" languages="Estonian">Mahārāshtra</name>
+		<name normalized="Maharastra" languages="Latvian">Mahārāštra</name>
+		<name normalized="Μαχαραστρα" languages="Greek">Μαχαράστρα</name>
+		<name normalized="Мakaрastрa" languages="Belarusian;Macedonian;Mongolian;Russian;Serbian;Ukrainian;biлaрuсkai (taрaskivita)‎">Махараштра</name>
+		<name normalized="Мakaрaщрa" languages="Bulgarian">Махаращра</name>
+		<name normalized="Мahoрostрa" languages="Tajik">Маҳороштра</name>
+		<name normalized="מאhאrאשtrא" languages="Yiddish">מאהאראשטרא</name>
+		<name normalized="מhאrאשtrh" languages="Hebrew">מהאראשטרה</name>
+		<name normalized="mאhאrאشtrא" languages="Arabic">ماهاراشترا</name>
+		<name normalized="mhאrאشtrא" languages="Pashto;Persian">مهاراشترا</name>
+		<name normalized="mہאrאشٹr" languages="Urdu;Western Punjabi">مہاراشٹر</name>
+		<name normalized="މަހާރާޝްތުރާ" languages="Divehi">މަހާރާޝްތުރާ</name>
+		<name normalized="mhाrाष्ट्r" languages="Bihari;Hindi;Marathi;Nepali;Newari">महाराष्ट्र</name>
+		<name normalized="mhाrाष्ट्rrाj्ym्" languages="Sanskrit">महाराष्ट्रराज्यम्</name>
+		<name normalized="mhাrাষ্ট্r" languages="Bengali;Bishnupria Manipuri">মহারাষ্ট্র</name>
+		<name normalized="mhਾਂrਾs਼ਟr" languages="Punjabi">ਮਹਾਂਰਾਸ਼ਟਰ</name>
+		<name normalized="mhાrાષ્ટ્r" languages="Gujarati">મહારાષ્ટ્ર</name>
+		<name normalized="ମହାରାଷ୍ଟ୍ର" languages="Oriya">ମହାରାଷ୍ଟ୍ର</name>
+		<name normalized="மகாராட்டிரம்" languages="Tamil">மகாராட்டிரம்</name>
+		<name normalized="మహారాష్ట్ర" languages="Telugu">మహారాష్ట్ర</name>
+		<name normalized="ಮಹಾರಾಷ್ಟ್ರ" languages="Kannada">ಮಹಾರಾಷ್ಟ್ರ</name>
+		<name normalized="മഹാരാഷ്ട്ര" languages="Malayalam">മഹാരാഷ്ട്ര</name>
+		<name normalized="รัฐมหาราษฏระ" languages="Thai">รัฐมหาราษฏระ</name>
+		<name normalized="მაჰარაშტრა" languages="Georgian">მაჰარაშტრა</name>
+		<name normalized="mhーrーsytr州" languages="Japanese">マハーラーシュトラ州</name>
+		<name normalized="马哈拉施特拉邦" languages="Chinese">马哈拉施特拉邦</name>
+		<name normalized="마하라슈트라 주" languages="Korean">마하라슈트라 주</name>
+	</region>
+	<region name="Manipur" type="state" typeTranslated="state">
+		<name normalized="Manipoer" languages="Afrikaans">Manipoer</name>
+		<name normalized="Manipur" languages="Achinese;Basque;Breton;Catalan;Chinese (Min Nan);Croatian;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;German;Hungarian;Icelandic;Indonesian;Italian;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Turkish;Vietnamese;Waray;Welsh;Yoruba">Manipur</name>
+		<name normalized="Manipura" languages="Latin;Latvian">Manipura</name>
+		<name normalized="Manipuras" languages="Lithuanian">Manipuras</name>
+		<name normalized="Manipuro" languages="Esperanto">Manipuro</name>
+		<name normalized="Manipur" languages="Czech;Slovak">Manípur</name>
+		<name normalized="Μανιποuρ" languages="Greek">Μανιπούρ</name>
+		<name normalized="Мaнipuр" languages="Bulgarian;Macedonian;Russian;Serbian;Tajik">Манипур</name>
+		<name normalized="Мaнipuр" languages="Belarusian;Ukrainian;biлaрuсkai (taрaskivita)‎">Маніпур</name>
+		<name normalized="מnיpvr" languages="Hebrew">מניפור</name>
+		<name normalized="mאنybوr" languages="Arabic">مانيبور</name>
+		<name normalized="mאنیpوr" languages="Persian">مانیپور</name>
+		<name normalized="mنی pوr" languages="Urdu">منی پور</name>
+		<name normalized="mنیpوr" languages="Western Punjabi">منیپور</name>
+		<name normalized="މަނިޕޫރު" languages="Divehi">މަނިޕޫރު</name>
+		<name normalized="mणipur" languages="Bihari;Hindi;Nepali;Newari">मणिपुर</name>
+		<name normalized="mणipurrाj्ym्" languages="Sanskrit">मणिपुरराज्यम्</name>
+		<name normalized="mणipur" languages="Marathi">मणिपूर</name>
+		<name normalized="mণipur" languages="Bengali;Bishnupria Manipuri">মণিপুর</name>
+		<name normalized="mণipuৰ" languages="Assamese">মণিপুৰ</name>
+		<name normalized="mnipur" languages="Punjabi">ਮਨੀਪੁਰ</name>
+		<name normalized="mણipur" languages="Gujarati">મણિપુર</name>
+		<name normalized="ମଣିପୁର" languages="Oriya">ମଣିପୁର</name>
+		<name normalized="மணிப்பூர்" languages="Tamil">மணிப்பூர்</name>
+		<name normalized="మణిపూర్" languages="Telugu">మణిపూర్</name>
+		<name normalized="ಮಣಿಪುರ" languages="Kannada">ಮಣಿಪುರ</name>
+		<name normalized="മണിപ്പൂർ" languages="Malayalam">മണിപ്പൂർ</name>
+		<name normalized="รัฐมณีปุระ" languages="Thai">รัฐมณีปุระ</name>
+		<name normalized="མཱ་ནི་པུར།" languages="Tibetan">མཱ་ནི་པུར།</name>
+		<name normalized="မဏိပူရပြည်နယ်" languages="Burmese">မဏိပူရပြည်နယ်</name>
+		<name normalized="მანიპური" languages="Georgian">მანიპური</name>
+		<name normalized="mnpr州" languages="Japanese">マニプル州</name>
+		<name normalized="曼尼普尔邦" languages="Chinese">曼尼普尔邦</name>
+		<name normalized="마니푸르 주" languages="Korean">마니푸르 주</name>
+	</region>
+	<region name="Meghalaya" type="state" typeTranslated="state">
+		<name normalized="Megalaya" languages="Spanish">Megalaya</name>
+		<name normalized="Meghalaja" languages="Lithuanian">Meghalaja</name>
+		<name normalized="Meghalajo" languages="Esperanto">Meghalajo</name>
+		<name normalized="Meghalaya" languages="Achinese;Basque;Breton;Catalan;Chinese (Min Nan);Croatian;Danish;Dutch;English;Fiji Hindi;Finnish;French;German;Icelandic;Indonesian;Italian;Latin;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Serbo-Croatian;Simple English;Swahili;Swedish;Turkish;Vietnamese;Waray;Welsh;Yoruba">Meghalaya</name>
+		<name normalized="Meghalaj" languages="Slovak">Meghálaj</name>
+		<name normalized="Meghalaja" languages="Hungarian">Meghálaja</name>
+		<name normalized="Meghalaja" languages="Latvian">Meghālaja</name>
+		<name normalized="Meghalaya" languages="Estonian">Meghālaya</name>
+		<name normalized="Meghalaj" languages="Czech">Méghálaj</name>
+		<name normalized="Μεγκαλαγια" languages="Greek">Μεγκαλάγια</name>
+		<name normalized="Мigaлaja" languages="Macedonian">Мегалаја</name>
+		<name normalized="Мigkaлai" languages="Belarusian;Bulgarian;Russian">Мегхалая</name>
+		<name normalized="Мigkaлaja" languages="Serbian">Мегхалаја</name>
+		<name normalized="Мiґkaлai" languages="Ukrainian">Меґхалая</name>
+		<name normalized="Мiғaлai" languages="Tajik">Меғалая</name>
+		<name normalized="Мegkaлai" languages="biлaрuсkai (taрaskivita)‎">Мэгхалая</name>
+		<name normalized="מגhדאיh" languages="Hebrew">מגהלאיה</name>
+		<name normalized="myغאلאyא" languages="Arabic">ميغالايا</name>
+		<name normalized="mgאلאیא" languages="Persian">مگالایا</name>
+		<name normalized="mیgھאلیہ" languages="Urdu">میگھالیہ</name>
+		<name normalized="mیgہאلیہ" languages="Western Punjabi">میگہالیہ</name>
+		<name normalized="މެގަލާޔާ" languages="Divehi">މެގަލާޔާ</name>
+		<name normalized="megाly" languages="Bihari;Hindi;Marathi;Nepali;Newari">मेघालय</name>
+		<name normalized="megाlyrाj्ym्" languages="Sanskrit">मेघालयराज्यम्</name>
+		<name normalized="megাly়" languages="Assamese;Bengali;Bishnupria Manipuri">মেঘালয়</name>
+		<name normalized="mੇgਾlia" languages="Punjabi">ਮੇਘਾਲਿਆ</name>
+		<name normalized="megાly" languages="Gujarati">મેઘાલય</name>
+		<name normalized="ମେଘାଳୟ" languages="Oriya">ମେଘାଳୟ</name>
+		<name normalized="மேகாலயா" languages="Tamil">மேகாலயா</name>
+		<name normalized="మేఘాలయ" languages="Telugu">మేఘాలయ</name>
+		<name normalized="ಮೆಘಾಲಯ" languages="Kannada">ಮೆಘಾಲಯ</name>
+		<name normalized="മേഘാലയ" languages="Malayalam">മേഘാലയ</name>
+		<name normalized="รัฐเมฆาลัย" languages="Thai">รัฐเมฆาลัย</name>
+		<name normalized="მეგჰალაია" languages="Georgian">მეგჰალაია</name>
+		<name normalized="mーgーry州" languages="Japanese">メーガーラヤ州</name>
+		<name normalized="梅加拉亚邦" languages="Chinese">梅加拉亚邦</name>
+		<name normalized="메갈라야 주" languages="Korean">메갈라야 주</name>
+	</region>
+	<region name="Mizoram" type="state" typeTranslated="state">
+		<name normalized="Mizoram" languages="Achinese;Azerbaijani;Basque;Breton;Catalan;Chinese (Min Nan);Croatian;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;German;Hungarian;Icelandic;Indonesian;Italian;Latin;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Old English;Pampanga;Polish;Portuguese;Quechua;Romanian;Scots;Serbo-Croatian;Simple English;Swahili;Swedish;Turkish;Vietnamese;Waray;Welsh;Yoruba">Mizoram</name>
+		<name normalized="Mizoramas" languages="Lithuanian">Mizoramas</name>
+		<name normalized="Mizoramo" languages="Esperanto">Mizoramo</name>
+		<name normalized="Mizoram" languages="Slovak">Mizorám</name>
+		<name normalized="Mizoran" languages="Spanish">Mizorán</name>
+		<name normalized="Mizorama" languages="Latvian">Mizorāma</name>
+		<name normalized="Mizoram" languages="Czech">Mizóram</name>
+		<name normalized="Μιζοραμ" languages="Greek">Μιζόραμ</name>
+		<name normalized="Мizoрaм" languages="Bulgarian;Macedonian;Russian;Serbian">Мизорам</name>
+		<name normalized="Мizuрaм" languages="Tajik">Мизурам</name>
+		<name normalized="Мizaрaм" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Мізарам</name>
+		<name normalized="Мizoрaм" languages="Ukrainian">Мізорам</name>
+		<name normalized="מיזvrאם" languages="Hebrew">מיזוראם</name>
+		<name normalized="myزوrאm" languages="Arabic">ميزورام</name>
+		<name normalized="mیزوrאm" languages="Persian;Western Punjabi">میزورام</name>
+		<name normalized="mیزوrm" languages="Urdu">میزورم</name>
+		<name normalized="މިޒޮރާމް" languages="Divehi">މިޒޮރާމް</name>
+		<name normalized="mij़orm" languages="Bihari;Hindi">मिज़ोरम</name>
+		<name normalized="mijorm" languages="Nepali">मिजोरम</name>
+		<name normalized="mijormrाj्ym्" languages="Sanskrit">मिजोरमराज्यम्</name>
+		<name normalized="mijorm" languages="Marathi">मिझोरम</name>
+		<name normalized="mijorাm" languages="Bengali;Bishnupria Manipuri">মিজোরাম</name>
+		<name normalized="mijoৰাm" languages="Assamese">মিজোৰাম</name>
+		<name normalized="mij਼ੋrm" languages="Punjabi">ਮਿਜ਼ੋਰਮ</name>
+		<name normalized="mijorm" languages="Gujarati">મિઝોરમ</name>
+		<name normalized="ମିଜୋରାମ" languages="Oriya">ମିଜୋରାମ</name>
+		<name normalized="மிசோரம்" languages="Tamil">மிசோரம்</name>
+		<name normalized="మిజోరాం" languages="Telugu">మిజోరాం</name>
+		<name normalized="ಮಿಝೋರಂ" languages="Kannada">ಮಿಝೋರಂ</name>
+		<name normalized="മിസോറം" languages="Malayalam">മിസോറം</name>
+		<name normalized="รัฐมิโซรัม" languages="Thai">รัฐมิโซรัม</name>
+		<name normalized="მიზორამი" languages="Georgian">მიზორამი</name>
+		<name normalized="mzrm州" languages="Japanese">ミゾラム州</name>
+		<name normalized="米佐拉姆邦" languages="Chinese">米佐拉姆邦</name>
+		<name normalized="미조람 주" languages="Korean">미조람 주</name>
+	</region>
+	<region name="Nagaland" type="state" typeTranslated="state">
+		<name normalized="Nagaland" languages="Achinese;Afrikaans;Basque;Breton;Catalan;Chinese (Min Nan);Croatian;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;German;Icelandic;Indonesian;Italian;Latin;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Old English;Pampanga;Polish;Portuguese;Romanian;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Turkish;Vietnamese;Waray;Welsh;Yoruba">Nagaland</name>
+		<name normalized="Nagalandas" languages="Lithuanian">Nagalandas</name>
+		<name normalized="Nagalando" languages="Esperanto">Nagalando</name>
+		<name normalized="Naqalend" languages="Azerbaijani">Naqalend</name>
+		<name normalized="Nagafold" languages="Hungarian">Nágaföld</name>
+		<name normalized="Nagsko" languages="Slovak">Nágsko</name>
+		<name normalized="Nagaland" languages="Czech">Nágáland</name>
+		<name normalized="Nagalenda" languages="Latvian">Nāgālenda</name>
+		<name normalized="Ναγκαλαντ" languages="Greek">Ναγκαλάντ</name>
+		<name normalized="Нagaлaнd" languages="Bulgarian;Macedonian;Serbian;Tajik">Нагаланд</name>
+		<name normalized="Нagaлiнd" languages="Belarusian;Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Нагаленд</name>
+		<name normalized="nאגאדnד" languages="Hebrew">נאגאלנד</name>
+		<name normalized="نאjאلאند" languages="Arabic">ناجالاند</name>
+		<name normalized="نאgאلند" languages="Mazanderani;Persian">ناگالند</name>
+		<name normalized="نאgאلینڈ" languages="Urdu;Western Punjabi">ناگالینڈ</name>
+		<name normalized="ނާގަލޭންޑު" languages="Divehi">ނާގަލޭންޑު</name>
+		<name normalized="nाgाlँड" languages="Marathi">नागालँड</name>
+		<name normalized="nाgाlaंड" languages="Bihari">नागालैंड</name>
+		<name normalized="nाgाlaण्ड" languages="Hindi">नागालैण्ड</name>
+		<name normalized="nाgाl्yाण्ड" languages="Nepali">नागाल्याण्ड</name>
+		<name normalized="nाgाl्yाण्डrाj्ym्" languages="Sanskrit">नागाल्याण्डराज्यम्</name>
+		<name normalized="nাgাleণ্ড" languages="Assamese">নাগালেণ্ড</name>
+		<name normalized="nাgাl্yাn্ড" languages="Bengali;Bishnupria Manipuri">নাগাল্যান্ড</name>
+		<name normalized="nਾgਾlaਂਡ" languages="Punjabi">ਨਾਗਾਲੈਂਡ</name>
+		<name normalized="nાgાleંડ" languages="Gujarati">નાગાલેંડ</name>
+		<name normalized="ନାଗାଲାଣ୍ଡ" languages="Oriya">ନାଗାଲାଣ୍ଡ</name>
+		<name normalized="நாகாலாந்து" languages="Tamil">நாகாலாந்து</name>
+		<name normalized="నాగాలాండ్" languages="Telugu">నాగాలాండ్</name>
+		<name normalized="ನಾಗಲ್ಯಂಡ್" languages="Kannada">ನಾಗಲ್ಯಂಡ್</name>
+		<name normalized="നാഗാലാ‌ൻഡ്" languages="Malayalam">നാഗാലാ‌ൻഡ്</name>
+		<name normalized="รัฐนาคาแลนด์" languages="Thai">รัฐนาคาแลนด์</name>
+		<name normalized="ნაგალენდი" languages="Georgian">ნაგალენდი</name>
+		<name normalized="ngrnd州" languages="Japanese">ナガランド州</name>
+		<name normalized="那加兰邦" languages="Chinese">那加兰邦</name>
+		<name normalized="나갈랜드 주" languages="Korean">나갈랜드 주</name>
+	</region>
+	<region name="Odisha" type="state" typeTranslated="state">
+		<name normalized="Odisha" languages="Dutch;English;Estonian;French;German;Icelandic;Malagasy;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Simple English">Odisha</name>
+		<name normalized="Orisa" languages="Breton;Latvian;Lithuanian;Polish">Orisa</name>
+		<name normalized="Oriso" languages="Esperanto">Oriso</name>
+		<name normalized="Orissa" languages="Achinese;Afrikaans;Azerbaijani;Basque;Catalan;Chinese (Min Nan);Croatian;Danish;Fiji Hindi;Finnish;Galician;Indonesian;Italian;Latin;Malay;Pampanga;Portuguese;Romanian;Serbo-Croatian;Spanish;Swahili;Swedish;Turkish;Vietnamese;veneto;Waray;Welsh;Yoruba">Orissa</name>
+		<name normalized="Orisza" languages="Hungarian">Orisza</name>
+		<name normalized="Urisa" languages="Czech;Slovak">Urísa</name>
+		<name normalized="Ορισα" languages="Greek">Ορίσα</name>
+		<name normalized="Aрысa" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Арыса</name>
+		<name normalized="Oрiсa" languages="Bulgarian;Macedonian;Serbian">Ориса</name>
+		<name normalized="Oрiссa" languages="Russian;Tajik">Орисса</name>
+		<name normalized="Oрiссa" languages="Ukrainian">Орісса</name>
+		<name normalized="אדישא" languages="Yiddish">אדישא</name>
+		<name normalized="אvדישh" languages="Hebrew">אודישה</name>
+		<name normalized="أودyشא" languages="Arabic">أوديشا</name>
+		<name normalized="אوrیسא" languages="Persian">اوریسا</name>
+		<name normalized="אوڑیسہ" languages="Western Punjabi">اوڑیسہ</name>
+		<name normalized="אڑیسہ" languages="Urdu">اڑیسہ</name>
+		<name normalized="އޮރިއްސާ" languages="Divehi">އޮރިއްސާ</name>
+		<name normalized="uड़isा" languages="Nepali">उड़िसा</name>
+		<name normalized="oडisा" languages="Hindi;Marathi;Newari">ओडिशा</name>
+		<name normalized="oडisाrाj्ym्" languages="Sanskrit">ओडिशाराज्यम्</name>
+		<name normalized="oড়isা" languages="Bengali;Bishnupria Manipuri">ওড়িশা</name>
+		<name normalized="ਓਡis਼ਾ" languages="Punjabi">ਓਡੀਸ਼ਾ</name>
+		<name normalized="oડisા" languages="Gujarati">ઑડિશા</name>
+		<name normalized="ଓଡ଼ିଶା" languages="Oriya">ଓଡ଼ିଶା</name>
+		<name normalized="ஒடிசா" languages="Tamil">ஒடிசா</name>
+		<name normalized="ఒరిస్సా" languages="Telugu">ఒరిస్సా</name>
+		<name normalized="ಒರಿಸ್ಸಾ" languages="Kannada">ಒರಿಸ್ಸಾ</name>
+		<name normalized="ഒഡീഷ" languages="Malayalam">ഒഡീഷ</name>
+		<name normalized="รัฐโอริสสา" languages="Thai">รัฐโอริสสา</name>
+		<name normalized="ཨོ་རི་ས།" languages="Tibetan">ཨོ་རི་ས།</name>
+		<name normalized="ორისა" languages="Georgian">ორისა</name>
+		<name normalized="orts州" languages="Japanese">オリッサ州</name>
+		<name normalized="奥里萨邦" languages="Chinese">奥里萨邦</name>
+		<name normalized="오리사 주" languages="Korean">오리사 주</name>
+	</region>
+	<region name="Puducherry" type="union territory" typeTranslated="union territory">
+		<name normalized="Pondicherium" languages="Latin">Pondicherium</name>
+		<name normalized="Pondicherry" languages="Catalan;Croatian;Danish;Italian;Occitan;Serbo-Croatian;Swedish">Pondicherry</name>
+		<name normalized="Pondicero" languages="Esperanto">Pondiĉero</name>
+		<name normalized="Puduccseri" languages="Hungarian">Puduccseri</name>
+		<name normalized="Puducherry" languages="Basque;Chinese (Min Nan);Dutch;English;Finnish;German;Icelandic;Indonesian;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Polish;Portuguese;Romanian;Simple English;Spanish;Swahili;Vietnamese;Waray;Welsh;Yoruba">Puducherry</name>
+		<name normalized="Puducherry liiduterritoorium" languages="Estonian">Puducherry liiduterritoorium</name>
+		<name normalized="Puduceri" languages="Turkish">Puduçeri</name>
+		<name normalized="Puduceris" languages="Lithuanian">Pudučeris</name>
+		<name normalized="Puducerri" languages="Latvian">Pudučerri</name>
+		<name normalized="Puducceri" languages="Czech">Puduččéri</name>
+		<name normalized="Puttuceri" languages="Slovak">Puttučéri</name>
+		<name normalized="Territoire de Pondichery" languages="French">Territoire de Pondichéry</name>
+		<name normalized="Paнdыseры" languages="Belarusian">Пандышэры</name>
+		<name normalized="Poнdiciрi" languages="Bulgarian">Пондичери</name>
+		<name normalized="Poнdisiрi" languages="Macedonian">Пондишери</name>
+		<name normalized="Puduciррi" languages="Russian">Пудучерри</name>
+		<name normalized="Puduciррi" languages="Ukrainian">Пудучеррі</name>
+		<name normalized="Tiрitoрija Poнdisiрi" languages="Serbian">Територија Пондишери</name>
+		<name normalized="pvדvצ'rי" languages="Hebrew">פודוצ'רי</name>
+		<name normalized="bوندytشyry" languages="Arabic">بونديتشيري</name>
+		<name normalized="pودوچrی" languages="Persian">پودوچری</name>
+		<name normalized="pونڈیچrی" languages="Urdu">پونڈیچری</name>
+		<name normalized="ޕޮންޑިޗެރީ" languages="Divehi">ޕޮންޑިޗެރީ</name>
+		<name normalized="pाण्डiceri" languages="Sanskrit">पाण्डिचेरी</name>
+		<name normalized="puडuceri" languages="Marathi">पुडुचेरी</name>
+		<name normalized="puduceri" languages="Nepali">पुदुचेरी</name>
+		<name normalized="puduc्ceri" languages="Hindi">पुदुच्चेरी</name>
+		<name normalized="pণ্ডiceri" languages="Bishnupria Manipuri">পণ্ডিচেরী</name>
+		<name normalized="puduceri" languages="Bengali">পুদুচেরি</name>
+		<name normalized="pਾਂਡicri" languages="Punjabi">ਪਾਂਡੀਚਰੀ</name>
+		<name normalized="poંડiceri" languages="Gujarati">પૉંડિચેરી</name>
+		<name normalized="ପୁଡୁଚେରୀ" languages="Oriya">ପୁଡୁଚେରୀ</name>
+		<name normalized="புதுச்சேரி" languages="Tamil">புதுச்சேரி</name>
+		<name normalized="పుదుచ్చేరి" languages="Telugu">పుదుచ్చేరి</name>
+		<name normalized="ಪುದುಚೇರಿ" languages="Kannada">ಪುದುಚೇರಿ</name>
+		<name normalized="പുതുച്ചേരി" languages="Malayalam">പുതുച്ചേരി</name>
+		<name normalized="ปุทุจเจรี" languages="Thai">ปุทุจเจรี</name>
+		<name normalized="პონდიშერი" languages="Georgian">პონდიშერი</name>
+		<name normalized="pndiser連邦直轄領" languages="Japanese">ポンディシェリ連邦直轄領</name>
+		<name normalized="本地治里" languages="Chinese">本地治里</name>
+		<name normalized="푸두체리" languages="Korean">푸두체리</name>
+	</region>
+	<region name="Punjab" type="state" typeTranslated="state">
+		<name normalized="Pandzab" languages="Estonian">Pandžab</name>
+		<name normalized="Pandzabas" languages="Lithuanian">Pandžabas</name>
+		<name normalized="Pandzab" languages="Slovak">Pandžáb</name>
+		<name normalized="Panjab" languages="Breton;Catalan;Occitan">Panjab</name>
+		<name normalized="Panjab i India" languages="Norwegian Nynorsk">Panjab i India</name>
+		<name normalized="Panjaba" languages="Latin">Panjaba</name>
+		<name normalized="Pangabo" languages="Esperanto">Panĝabo</name>
+		<name normalized="Pandzab" languages="Czech">Paňdžáb</name>
+		<name normalized="Pendjab" languages="French">Pendjab</name>
+		<name normalized="Pendzab" languages="Polish">Pendżab</name>
+		<name normalized="Pendzaba" languages="Latvian">Pendžāba</name>
+		<name normalized="Punjab" languages="Achinese;Basque;Chinese (Min Nan);Croatian;Danish;Dutch;English;Fiji Hindi;Finnish;German;Indonesian;Italian;Malagasy;Malay;Norwegian (bokmal);official;Pampanga;Portuguese;Romanian;Scots;Simple English;Swahili;Swedish;Vietnamese;veneto;Waray;Welsh;Yoruba">Punjab</name>
+		<name normalized="Punyab" languages="Spanish">Punyab</name>
+		<name normalized="Punjab" languages="Icelandic">Púnjab</name>
+		<name normalized="Pəncab statı" languages="Azerbaijani">Pəncab ştatı</name>
+		<name normalized="Παντζαμπ" languages="Greek">Παντζάμπ</name>
+		<name normalized="Paнdzab" languages="biлaрuсkai (taрaskivita)‎">Панджаб</name>
+		<name normalized="Paнzab" languages="Mongolian">Панжаб</name>
+		<name normalized="Paнdzab" languages="Serbian">Панџаб</name>
+		<name normalized="Piнdzab" languages="Bulgarian;Russian;Ukrainian">Пенджаб</name>
+		<name normalized="Piнdzab" languages="Macedonian">Пенџаб</name>
+		<name normalized="Piнcob" languages="Tajik">Пенҷоб</name>
+		<name normalized="Stat Piнdzab" languages="Belarusian">Штат Пенджаб</name>
+		<name normalized="pnג'אb" languages="Hebrew">פנג'אב</name>
+		<name normalized="bنjאb" languages="Arabic">بنجاب</name>
+		<name normalized="pنjאb" languages="Persian;Urdu;Western Punjabi">پنجاب</name>
+		<name normalized="ޕަންޖާބު" languages="Divehi">ޕަންޖާބު</name>
+		<name normalized="pंjाb" languages="Bihari;Hindi;Marathi">पंजाब</name>
+		<name normalized="pn्jाb" languages="Nepali;Newari">पञ्जाब</name>
+		<name normalized="pn्jाbrाj्ym्" languages="Sanskrit">पञ्जाबराज्यम्</name>
+		<name normalized="pাn্jাb" languages="Bengali;Bishnupria Manipuri">পাঞ্জাব</name>
+		<name normalized="pੰjਾb" languages="Punjabi">ਪੰਜਾਬ</name>
+		<name normalized="pંjાb" languages="Gujarati">પંજાબ</name>
+		<name normalized="ପଞ୍ଜାବ" languages="Oriya">ପଞ୍ଜାବ</name>
+		<name normalized="பஞ்சாப்" languages="Tamil">பஞ்சாப்</name>
+		<name normalized="పంజాబ్" languages="Telugu">పంజాబ్</name>
+		<name normalized="ಪಂಜಾಬ್" languages="Kannada">ಪಂಜಾಬ್</name>
+		<name normalized="പഞ്ചാബ്" languages="Malayalam">പഞ്ചാബ്</name>
+		<name normalized="รัฐปัญจาบ" languages="Thai">รัฐปัญจาบ</name>
+		<name normalized="པན་ཇབ།" languages="Tibetan">པན་ཇབ།</name>
+		<name normalized="პენჯაბის შტატი" languages="Georgian">პენჯაბის შტატი</name>
+		<name normalized="pnzyーb州" languages="Japanese">パンジャーブ州</name>
+		<name normalized="旁遮普邦" languages="Chinese">旁遮普邦</name>
+		<name normalized="펀자브 주" languages="Korean">펀자브 주</name>
+	</region>
+	<region name="Rajasthan" type="state" typeTranslated="state">
+		<name normalized="Racastan" languages="Zazaki">Racastan</name>
+		<name normalized="Racasthan" languages="Turkish">Racasthan</name>
+		<name normalized="Radzastan" languages="Upper Sorbian">Radźastan</name>
+		<name normalized="Radzastan" languages="Polish">Radżastan</name>
+		<name normalized="Radzastan" languages="Slovak;Slovenian">Radžastan</name>
+		<name normalized="Radzasthanas" languages="Lithuanian">Radžasthanas</name>
+		<name normalized="Rajastan" languages="Basque">Rajastan</name>
+		<name normalized="Rajasthan" languages="Achinese;Breton;Catalan;Chinese (Min Nan);Croatian;Danish;Dutch;English;Fiji Hindi;Finnish;French;German;Icelandic;Ido;Indonesian;Italian;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Romanian;Scots;Serbo-Croatian;Simple English;Swahili;Swedish;Vietnamese;veneto;Waray;Welsh;Yoruba">Rajasthan</name>
+		<name normalized="Rajasthana" languages="Latin">Rajasthana</name>
+		<name normalized="Rajastan" languages="Spanish">Rajastán</name>
+		<name normalized="Rajastao" languages="Portuguese">Rajastão</name>
+		<name normalized="Ragastano" languages="Esperanto">Raĝastano</name>
+		<name normalized="Rojasthon" languages="Uzbek">Rojasthon</name>
+		<name normalized="Radzsasztan" languages="Hungarian">Rádzsasztán</name>
+		<name normalized="Radzasthan" languages="Czech">Rádžasthán</name>
+		<name normalized="Radzastana" languages="Latvian">Rādžastāna</name>
+		<name normalized="Rajasthan" languages="Estonian">Rājasthān</name>
+		<name normalized="Ρατζασταν" languages="Greek">Ρατζαστάν</name>
+		<name normalized="Рadzaсtaн" languages="Bulgarian">Раджастан</name>
+		<name normalized="Рadzaсtkaн" languages="Belarusian;Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Раджастхан</name>
+		<name normalized="Рadzaсtaн" languages="Macedonian;Serbian">Раџастан</name>
+		<name normalized="Рociсtoн" languages="Tajik">Роҷистон</name>
+		<name normalized="rאג'סtאן" languages="Hebrew">ראג'סטאן</name>
+		<name normalized="rאדזשאסthאן" languages="Yiddish">ראדזשאסטהאן</name>
+		<name normalized="rאjسtאن" languages="Arabic;Persian">راجستان</name>
+		<name normalized="rאjسtھאن" languages="Urdu;Western Punjabi">راجستھان</name>
+		<name normalized="ރާޖަސްތާން" languages="Divehi">ރާޖަސްތާން</name>
+		<name normalized="rाjs्tाn" languages="Bihari;Hindi;Marathi;Nepali;Newari">राजस्थान</name>
+		<name normalized="rाjs्tाnrाj्ym्" languages="Sanskrit">राजस्थानराज्यम्</name>
+		<name normalized="rাjs্tাn" languages="Bengali;Bishnupria Manipuri">রাজস্থান</name>
+		<name normalized="ৰাjs্tাn" languages="Assamese">ৰাজস্থান</name>
+		<name normalized="rਾjstਾn" languages="Punjabi">ਰਾਜਸਥਾਨ</name>
+		<name normalized="rાjs્tાn" languages="Gujarati">રાજસ્થાન</name>
+		<name normalized="ରାଜସ୍ଥାନ" languages="Oriya">ରାଜସ୍ଥାନ</name>
+		<name normalized="இராச்சசுத்தான்" languages="Tamil">இராச்சசுத்தான்</name>
+		<name normalized="రాజస్థాన్" languages="Telugu">రాజస్థాన్</name>
+		<name normalized="ರಾಜಸ್ಥಾನ" languages="Kannada">ರಾಜಸ್ಥಾನ</name>
+		<name normalized="രാജസ്ഥാന്‍" languages="Malayalam">രാജസ്ഥാന്‍</name>
+		<name normalized="รัฐราชสถาน" languages="Thai">รัฐราชสถาน</name>
+		<name normalized="რაჯასტანი" languages="Georgian">რაჯასტანი</name>
+		<name normalized="rーzystーn州" languages="Japanese">ラージャスターン州</name>
+		<name normalized="拉贾斯坦邦" languages="Chinese">拉贾斯坦邦</name>
+		<name normalized="라자스탄 주" languages="Korean">라자스탄 주</name>
+	</region>
+	<region name="Sikkim" type="state" typeTranslated="state">
+		<name normalized="Sikim" languages="Upper Sorbian">Sikim</name>
+		<name normalized="Sikima" languages="Latvian">Sikima</name>
+		<name normalized="Sikimas" languages="Lithuanian">Sikimas</name>
+		<name normalized="Sikimo" languages="Esperanto">Sikimo</name>
+		<name normalized="Sikkim" languages="Achinese;Afrikaans;Albanian;Azerbaijani;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;Galician;German;Icelandic;Indonesian;Italian;Latin;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Romanian;Serbo-Croatian;Simple English;Slovak;Spanish;Swahili;Swedish;Turkish;Vietnamese;Waray;Welsh;Yoruba">Sikkim</name>
+		<name normalized="Siquim" languages="Portuguese">Siquim</name>
+		<name normalized="Szikkim" languages="Hungarian">Szikkim</name>
+		<name normalized="Σικκιμ" languages="Greek">Σικκίμ</name>
+		<name normalized="Сikiм" languages="Bulgarian;Macedonian;Serbian">Сиким</name>
+		<name normalized="Сikkiм" languages="Russian;Tajik">Сикким</name>
+		<name normalized="Сыkiм" languages="biлaрuсkai (taрaskivita)‎">Сыкім</name>
+		<name normalized="Сikkiм" languages="Ukrainian">Сіккім</name>
+		<name normalized="Сikiм" languages="Belarusian">Сікім</name>
+		<name normalized="סיqים" languages="Hebrew">סיקים</name>
+		<name normalized="سykym" languages="Arabic">سيكيم</name>
+		<name normalized="سکm" languages="Urdu;Western Punjabi">سکم</name>
+		<name normalized="سیکیm" languages="Persian">سیکیم</name>
+		<name normalized="ސިއްކީމް" languages="Divehi">ސިއްކީމް</name>
+		<name normalized="sik्kim" languages="Bihari;Hindi;Marathi;Nepali;Newari">सिक्किम</name>
+		<name normalized="sik्kimrाj्ym्" languages="Sanskrit">सिक्किमराज्यम्</name>
+		<name normalized="cik্kim" languages="Assamese">ছিক্কিম</name>
+		<name normalized="sikim" languages="Bishnupria Manipuri">সিকিম</name>
+		<name normalized="sik্kim" languages="Bengali">সিক্কিম</name>
+		<name normalized="siੱkm" languages="Punjabi">ਸਿੱਕਮ</name>
+		<name normalized="sik્kim" languages="Gujarati">સિક્કિમ</name>
+		<name normalized="ସିକିମ" languages="Oriya">ସିକିମ</name>
+		<name normalized="சிக்கிம்" languages="Tamil">சிக்கிம்</name>
+		<name normalized="సిక్కిం" languages="Telugu">సిక్కిం</name>
+		<name normalized="ಸಿಕ್ಕಿಂ" languages="Kannada">ಸಿಕ್ಕಿಂ</name>
+		<name normalized="സിക്കിം" languages="Malayalam">സിക്കിം</name>
+		<name normalized="รัฐสิกขิม" languages="Thai">รัฐสิกขิม</name>
+		<name normalized="འབྲས་ལྗོངས།" languages="Tibetan">འབྲས་ལྗོངས།</name>
+		<name normalized="ဆစ်ကင်ပြည်နယ်" languages="Burmese">ဆစ်ကင်ပြည်နယ်</name>
+		<name normalized="სიკიმი" languages="Georgian">სიკიმი</name>
+		<name normalized="stkm州" languages="Japanese">シッキム州</name>
+		<name normalized="锡金" languages="Chinese">锡金</name>
+		<name normalized="시킴 주" languages="Korean">시킴 주</name>
+	</region>
+	<region name="Tamil Nadu" type="state" typeTranslated="state">
+		<name normalized="Coromandela" languages="Latin">Coromandela</name>
+		<name normalized="Tamil Nadu" languages="Achinese;Afrikaans;Basque;Breton;Catalan;Chinese (Min Nan);Croatian;Danish;Dutch;English;Fiji Hindi;Finnish;French;Galician;German;Icelandic;Indonesian;Italian;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Portuguese;Quechua;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Turkish;Vietnamese;veneto;Waray;Welsh;Yoruba">Tamil Nadu</name>
+		<name normalized="Tamil Nadu" languages="Estonian">Tamil Nādu</name>
+		<name normalized="Tamilnadas" languages="Lithuanian">Tamilnadas</name>
+		<name normalized="Tamilnado" languages="Esperanto">Tamilnado</name>
+		<name normalized="Tamilnadu" languages="Inupiaq;Polish">Tamilnadu</name>
+		<name normalized="Tamilnadu" languages="Czech;Hungarian;Slovak">Tamilnádu</name>
+		<name normalized="Tamilnada" languages="Latvian">Tamilnāda</name>
+		<name normalized="Ταμιλ Ναντοu" languages="Greek">Ταμίλ Ναντού</name>
+		<name normalized="Taмiл Нadu" languages="Bulgarian;Macedonian;Serbian">Тамил Наду</name>
+		<name normalized="Taмiлнad" languages="Ossetic;Russian">Тамилнад</name>
+		<name normalized="Taмiлнodu" languages="Tajik">Тамилноду</name>
+		<name normalized="Taмiлнad" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Тамілнад</name>
+		<name normalized="Taмiлнadu" languages="Ukrainian">Тамілнаду</name>
+		<name normalized="tאמיד nאדv" languages="Hebrew;Yiddish">טאמיל נאדו</name>
+		<name normalized="tאmل نאدو" languages="Arabic">تامل نادو</name>
+		<name normalized="tאmل نאڈو" languages="Urdu;Western Punjabi">تامل ناڈو</name>
+		<name normalized="tאmyل نאدو" languages="Egyptian Spoken Arabic">تاميل نادو</name>
+		<name normalized="tאmیل نאدو" languages="Persian">تامیل نادو</name>
+		<name normalized="ޓެމިލް ނާޑޫ" languages="Divehi">ޓެމިލް ނާޑޫ</name>
+		<name normalized="tmil nाडu" languages="Hindi">तमिल नाडु</name>
+		<name normalized="tmilnाडu" languages="Bihari;Nepali;Newari">तमिलनाडु</name>
+		<name normalized="tmilnाडu" languages="Marathi">तमिळनाडू</name>
+		<name normalized="tmillnाडurाj्ym्" languages="Sanskrit">तमिऴनाडुराज्यम्</name>
+		<name normalized="tাmil nাড়u" languages="Bishnupria Manipuri">তামিল নাড়ু</name>
+		<name normalized="tাmilnাড়u" languages="Bengali">তামিলনাড়ু</name>
+		<name normalized="tਾmil nਾਡu" languages="Punjabi">ਤਾਮਿਲ ਨਾਡੂ</name>
+		<name normalized="tmilnાડu" languages="Gujarati">તમિલનાડુ</name>
+		<name normalized="ତାମିଲନାଡୁ" languages="Oriya">ତାମିଲନାଡୁ</name>
+		<name normalized="தமிழ்நாடு" languages="Tamil">தமிழ்நாடு</name>
+		<name normalized="తమిళనాడు" languages="Telugu">తమిళనాడు</name>
+		<name normalized="ತಮಿಳುನಾಡು" languages="Kannada">ತಮಿಳುನಾಡು</name>
+		<name normalized="തമിഴ്‌നാട്" languages="Malayalam">തമിഴ്‌നാട്</name>
+		<name normalized="รัฐทมิฬนาฑู" languages="Thai">รัฐทมิฬนาฑู</name>
+		<name normalized="ཏཱ་མིལ་ན་ཌུ།" languages="Tibetan">ཏཱ་མིལ་ན་ཌུ།</name>
+		<name normalized="ტამილნადუ" languages="Georgian">ტამილნადუ</name>
+		<name normalized="tmr・nーdu州" languages="Japanese">タミル・ナードゥ州</name>
+		<name normalized="泰米尔纳德邦" languages="Chinese">泰米尔纳德邦</name>
+		<name normalized="타밀나두 주" languages="Korean">타밀나두 주</name>
+	</region>
+	<region name="Tripura" type="state" typeTranslated="state">
+		<name normalized="Tripoera" languages="Afrikaans">Tripoera</name>
+		<name normalized="Tripura" languages="Achinese;Azerbaijani;Basque;Breton;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;German;Hungarian;Icelandic;Indonesian;Italian;Latin;Latvian;Lithuanian;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Slovak;Spanish;Swahili;Swedish;Turkish;Vietnamese;Waray;Welsh;Yoruba">Tripura</name>
+		<name normalized="Tripuro" languages="Esperanto">Tripuro</name>
+		<name normalized="Τριπουρα" languages="Greek">Τρίπουρα</name>
+		<name normalized="Tрipuрa" languages="Bulgarian;Chuvash;Macedonian;Mongolian;Russian;Serbian;Tajik">Трипура</name>
+		<name normalized="Tрыpuрa" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Трыпура</name>
+		<name normalized="Tрipuрa" languages="Ukrainian">Тріпура</name>
+		<name normalized="trיpvrh" languages="Hebrew">טריפורה</name>
+		<name normalized="trאybوrא" languages="Arabic">ترايبورا</name>
+		<name normalized="trی pوrہ" languages="Urdu">تری پورہ</name>
+		<name normalized="trیpوrא" languages="Persian;Western Punjabi">تریپورا</name>
+		<name normalized="ތުރިޕޫރާ" languages="Divehi">ތުރިޕޫރާ</name>
+		<name normalized="t्ripurा" languages="Bihari;Hindi;Marathi;Nepali">त्रिपुरा</name>
+		<name normalized="t्ripurाrाj्ym्" languages="Sanskrit">त्रिपुराराज्यम्</name>
+		<name normalized="t্ripurা" languages="Bengali;Bishnupria Manipuri">ত্রিপুরা</name>
+		<name normalized="t্ৰipuৰা" languages="Assamese">ত্ৰিপুৰা</name>
+		<name normalized="t੍ripurਾ" languages="Punjabi">ਤ੍ਰਿਪੁਰਾ</name>
+		<name normalized="t્ripurા" languages="Gujarati">ત્રિપુરા</name>
+		<name normalized="ତ୍ରିପୁରା" languages="Oriya">ତ୍ରିପୁରା</name>
+		<name normalized="திரிபுரா" languages="Tamil">திரிபுரா</name>
+		<name normalized="త్రిపుర" languages="Telugu">త్రిపుర</name>
+		<name normalized="ತ್ರಿಪುರ" languages="Kannada">ತ್ರಿಪುರ</name>
+		<name normalized="ത്രിപുര" languages="Malayalam">ത്രിപുര</name>
+		<name normalized="รัฐตริปุระ" languages="Thai">รัฐตริปุระ</name>
+		<name normalized="ტრიპურა" languages="Georgian">ტრიპურა</name>
+		<name normalized="trpr州" languages="Japanese">トリプラ州</name>
+		<name normalized="特里普拉邦" languages="Chinese">特里普拉邦</name>
+		<name normalized="트리푸라 주" languages="Korean">트리푸라 주</name>
+	</region>
+	<region name="Uttar Pradesh" type="state" typeTranslated="state">
+		<name normalized="Oetarpradesj" languages="Afrikaans">Oetarpradesj</name>
+		<name normalized="Utar Pradesas" languages="Lithuanian">Utar Pradešas</name>
+		<name normalized="Utar-Pradeso" languages="Esperanto">Utar-Pradeŝo</name>
+		<name normalized="Utarpradesa" languages="Latvian">Utarpradēša</name>
+		<name normalized="Uttar Prades" languages="Hungarian">Uttar Prades</name>
+		<name normalized="Uttar Pradesh" languages="Achinese;Basque;Breton;Catalan;Chinese (Min Nan);Croatian;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Icelandic;Indonesian;Italian;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Piedmontese;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Vietnamese;veneto;Waray;Welsh;Yoruba">Uttar Pradesh</name>
+		<name normalized="Uttar Prades" languages="Azerbaijani;Turkish">Uttar Pradeş</name>
+		<name normalized="Uttara Pradesa" languages="Latin">Uttara Pradesa</name>
+		<name normalized="Uttarprades" languages="Czech;Slovak">Uttarpradéš</name>
+		<name normalized="Οuταρ Πραντeς" languages="Greek">Ούταρ Πραντές</name>
+		<name normalized="Utaр Pрadis" languages="Bulgarian;Macedonian;Serbian">Утар Прадеш</name>
+		<name normalized="Utaр-Pрades" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Утар-Прадэш</name>
+		<name normalized="Uttaр Pрadis" languages="Mongolian;Tajik">Уттар Прадеш</name>
+		<name normalized="Uttaр Pрadыs" languages="Sakha">Уттар Прадыш</name>
+		<name normalized="Uttaр-Pрadis" languages="Ossetic;Russian;Ukrainian">Уттар-Прадеш</name>
+		<name normalized="אvtאr prאדעש" languages="Yiddish">אוטאר פראדעש</name>
+		<name normalized="אvtr prאדש" languages="Hebrew">אוטר פראדש</name>
+		<name normalized="أtr brدyش" languages="Arabic">أتر برديش</name>
+		<name normalized="אtr prدیش" languages="Urdu;Western Punjabi">اتر پردیش</name>
+		<name normalized="אوtאr prאدش" languages="Persian">اوتار پرادش</name>
+		<name normalized="އުއްތަރު ޕްރަދޭޝް" languages="Divehi">އުއްތަރު ޕްރަދޭޝް</name>
+		<name normalized="ut्tr p्rdes" languages="Bihari;Hindi;Marathi;Nepali">उत्तर प्रदेश</name>
+		<name normalized="ut्trp्rdes" languages="Newari">उत्तरप्रदेश</name>
+		<name normalized="ut्trp्rdesrाj्ym्" languages="Sanskrit">उत्तरप्रदेशराज्यम्</name>
+		<name normalized="ut্tr p্rdes" languages="Bishnupria Manipuri">উত্তর প্রদেশ</name>
+		<name normalized="ut্trp্rdes" languages="Bengali">উত্তরপ্রদেশ</name>
+		<name normalized="uੱtr p੍rdੇs਼" languages="Punjabi">ਉੱਤਰ ਪ੍ਰਦੇਸ਼</name>
+		<name normalized="ut્tr p્rdes" languages="Gujarati">ઉત્તર પ્રદેશ</name>
+		<name normalized="ଉତ୍ତର ପ୍ରଦେଶ" languages="Oriya">ଉତ୍ତର ପ୍ରଦେଶ</name>
+		<name normalized="உத்தரப் பிரதேசம்" languages="Tamil">உத்தரப் பிரதேசம்</name>
+		<name normalized="ఉత్తర ప్రదేశ్" languages="Telugu">ఉత్తర ప్రదేశ్</name>
+		<name normalized="ಉತ್ತರ ಪ್ರದೇಶ" languages="Kannada">ಉತ್ತರ ಪ್ರದೇಶ</name>
+		<name normalized="ഉത്തർ‌പ്രദേശ്" languages="Malayalam">ഉത്തർ‌പ്രദേശ്</name>
+		<name normalized="รัฐอุตตรประเทศ" languages="Thai">รัฐอุตตรประเทศ</name>
+		<name normalized="უტარ-პრადეში" languages="Georgian">უტარ-პრადეში</name>
+		<name normalized="uttr・prdーsy州" languages="Japanese">ウッタル・プラデーシュ州</name>
+		<name normalized="北方邦" languages="Chinese">北方邦</name>
+		<name normalized="우타르프라데시 주" languages="Korean">우타르프라데시 주</name>
+	</region>
+	<region name="Uttarakhand" type="state" typeTranslated="state">
+		<name normalized="Taragand" languages="Neapolitan">Taragand</name>
+		<name normalized="Utarakando" languages="Esperanto">Utarakando</name>
+		<name normalized="Utarakhanda" languages="Latvian">Utarakhanda</name>
+		<name normalized="Utarakhandas" languages="Lithuanian">Utarakhandas</name>
+		<name normalized="Uttarakhand" languages="Achinese;Basque;Breton;Catalan;Chinese (Min Nan);Croatian;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;German;Hungarian;Icelandic;Indonesian;Italian;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Turkish;Vietnamese;veneto;Waray;Welsh;Yoruba">Uttarakhand</name>
+		<name normalized="Uttarakhanda" languages="Latin">Uttarakhanda</name>
+		<name normalized="Uttarakhand" languages="Czech;Slovak">Uttarákhand</name>
+		<name normalized="Ουταραχαντ" languages="Greek">Ουταράχαντ</name>
+		<name normalized="Utaрakaнd" languages="Macedonian">Утараканд</name>
+		<name normalized="Utaрakkaнd" languages="Belarusian;Bulgarian;biлaрuсkai (taрaskivita)‎">Утаракханд</name>
+		<name normalized="Utaрakaнd" languages="Serbian">Утараханд</name>
+		<name normalized="Uttaрakkaнd" languages="Russian;Ukrainian">Уттаракханд</name>
+		<name normalized="Uttaрaнcaл" languages="Tajik">Уттаранчал</name>
+		<name normalized="אvtrאqhאnד" languages="Hebrew">אוטראקהאנד</name>
+		<name normalized="أوtאrאخند" languages="Arabic">أوتاراخند</name>
+		<name normalized="אtrאکھنڈ" languages="Urdu">اتراکھنڈ</name>
+		<name normalized="אtrکھنڈ" languages="Western Punjabi">اترکھنڈ</name>
+		<name normalized="אوtאrאکند" languages="Persian">اوتاراکند</name>
+		<name normalized="އުއްތަރުކަންދު" languages="Divehi">އުއްތަރުކަންދު</name>
+		<name normalized="ut्trाkंड" languages="Marathi">उत्तराखंड</name>
+		<name normalized="ut्trाkण्ड" languages="Bihari;Hindi;Nepali;Newari">उत्तराखण्ड</name>
+		<name normalized="ut्trाkण्डrाj्ym्" languages="Sanskrit">उत्तराखण्डराज्यम्</name>
+		<name normalized="ut্trাkণ্ড" languages="Bengali">উত্তরাখণ্ড</name>
+		<name normalized="ut্trাn্cl" languages="Bishnupria Manipuri">উত্তরাঞ্চল</name>
+		<name normalized="uੱtrਾkੰਡ" languages="Punjabi">ਉੱਤਰਾਖੰਡ</name>
+		<name normalized="ut્trાkંડ" languages="Gujarati">ઉત્તરાખંડ</name>
+		<name normalized="ଉତ୍ତରାଖଣ୍ଡ" languages="Oriya">ଉତ୍ତରାଖଣ୍ଡ</name>
+		<name normalized="உத்தராகண்டம்" languages="Tamil">உத்தராகண்டம்</name>
+		<name normalized="ఉత్తరాఖండ్" languages="Telugu">ఉత్తరాఖండ్</name>
+		<name normalized="ಉತ್ತರಾಖಂಡ" languages="Kannada">ಉತ್ತರಾಖಂಡ</name>
+		<name normalized="ഉത്തരാഖണ്ഡ്" languages="Malayalam">ഉത്തരാഖണ്ഡ്</name>
+		<name normalized="รัฐอุตตราขัณฑ์" languages="Thai">รัฐอุตตราขัณฑ์</name>
+		<name normalized="უტარაკჰანდი" languages="Georgian">უტარაკჰანდი</name>
+		<name normalized="uttrーknd州" languages="Japanese">ウッタラーカンド州</name>
+		<name normalized="北阿坎德邦" languages="Chinese">北阿坎德邦</name>
+		<name normalized="우타라칸드 주" languages="Korean">우타라칸드 주</name>
+	</region>
+	<region name="West Bengal" type="state" typeTranslated="state">
+		<name normalized="Batı Bengal" languages="Turkish">Batı Bengal</name>
+		<name normalized="Bengal Barat" languages="Malay">Bengal Barat</name>
+		<name normalized="Bengal Rocawani" languages="Zazaki">Bengal Rocawani</name>
+		<name normalized="Bengal Zachodni" languages="Polish">Bengal Zachodni</name>
+		<name normalized="Bengala Occidental" languages="Catalan;Occitan;Spanish">Bengala Occidental</name>
+		<name normalized="Bengala occidentale" languages="Italian;veneto">Bengala occidentale</name>
+		<name normalized="Bengala Occidentalis" languages="Latin">Bengala Occidentalis</name>
+		<name normalized="Bengala Ocidental" languages="Portuguese">Bengala Ocidental</name>
+		<name normalized="Bengala Rojava" languages="Kurdish">Bengala Rojava</name>
+		<name normalized="Bengale-Occidental" languages="French">Bengale-Occidental</name>
+		<name normalized="Bengalul de Vest" languages="Romanian">Bengalul de Vest</name>
+		<name normalized="Bengaly andrefana" languages="Malagasy">Bengaly andrefana</name>
+		<name normalized="Benggala Barat" languages="Indonesian">Benggala Barat</name>
+		<name normalized="Gorllewin Bengal" languages="Welsh">Gorllewin Bengal</name>
+		<name normalized="Kanlurang Bengal" languages="Tagalog">Kanlurang Bengal</name>
+		<name normalized="Katundan nga Bengal" languages="Waray">Katundan nga Bengal</name>
+		<name normalized="Kornog Bengal" languages="Breton">Kornôg Bengal</name>
+		<name normalized="Kunti Banla" languages="Quechua">Kunti Banla</name>
+		<name normalized="Lansi-Bengali" languages="Finnish">Länsi-Bengali</name>
+		<name normalized="Laane-Bengali osariik" languages="Estonian">Lääne-Bengali osariik</name>
+		<name normalized="Mendebaldeko Bengala" languages="Basque">Mendebaldeko Bengala</name>
+		<name normalized="Nyugat-Bengal" languages="Hungarian">Nyugat-Bengál</name>
+		<name normalized="Okcident-Bengalo" languages="Esperanto">Okcident-Bengalo</name>
+		<name normalized="Rietumbengale" languages="Latvian">Rietumbengāle</name>
+		<name normalized="Tay Bengal" languages="Vietnamese">Tây Bengal</name>
+		<name normalized="Vakaru Bengalija" languages="Lithuanian">Vakarų Bengalija</name>
+		<name normalized="Vest-Bengal" languages="Norwegian (bokmal);Norwegian Nynorsk">Vest-Bengal</name>
+		<name normalized="Vestbengalen" languages="Danish">Vestbengalen</name>
+		<name normalized="Vestur-Bengal" languages="Icelandic">Vestur-Bengal</name>
+		<name normalized="Vastbengalen" languages="Swedish">Västbengalen</name>
+		<name normalized="Wast Bengal" languages="Scots">Wast Bengal</name>
+		<name normalized="Wes-Bengale" languages="Afrikaans">Wes-Bengale</name>
+		<name normalized="West Bengal" languages="Chinese (Min Nan);English;Fiji Hindi;official;Old English;Simple English;Swahili">West Bengal</name>
+		<name normalized="West-Bengalen" languages="Dutch">West-Bengalen</name>
+		<name normalized="Westbengalen" languages="German">Westbengalen</name>
+		<name normalized="Zapadni Bengal" languages="Croatian;Serbo-Croatian">Zapadni Bengal</name>
+		<name normalized="Zapadne Bengalsko" languages="Slovak">Západné Bengálsko</name>
+		<name normalized="Zapadni Bengalsko" languages="Czech">Západní Bengálsko</name>
+		<name normalized="Iwoorun Be`ngal" languages="Yoruba">Ìwọòrùn Bẹ̀ngál</name>
+		<name normalized="Δυτικη Βενγκαλη" languages="Greek">Δυτική Βενγκάλη</name>
+		<name normalized="Biнgoлi Ғaрbi" languages="Tajik">Бенголи Ғарбӣ</name>
+		<name normalized="Zapadiн Biнgaл" languages="Macedonian">Западен Бенгал</name>
+		<name normalized="Zapadнa Biнgaлii" languages="Bulgarian">Западна Бенгалия</name>
+		<name normalized="Zapadнai Biнgaлii" languages="Russian">Западная Бенгалия</name>
+		<name normalized="Zapadнi Biнgaл" languages="Serbian">Западни Бенгал</name>
+		<name normalized="Zakodнii Biнgaлii" languages="Belarusian">Заходняя Бенгалія</name>
+		<name normalized="Zakodнii Beнgaлii" languages="biлaрuсkai (taрaskivita)‎">Заходняя Бэнгалія</name>
+		<name normalized="Zakidнiй Biнgaл" languages="Ukrainian">Західний Бенгал</name>
+		<name normalized="מעrb bnגד" languages="Hebrew">מערב בנגל</name>
+		<name normalized="bنغאل אلغrbyة" languages="Arabic">بنغال الغربية</name>
+		<name normalized="bنgאل غrbی" languages="Persian">بنگال غربی</name>
+		<name normalized="لیندא bنgאل" languages="Western Punjabi">لیندا بنگال</name>
+		<name normalized="mغrbی bنgאل" languages="Urdu">مغربی بنگال</name>
+		<name normalized="ވެސްޓު ބެންގާލް" languages="Divehi">ވެސްޓު ބެންގާލް</name>
+		<name normalized="ps्cim bंgाl" languages="Bihari;Hindi;Marathi;Newari">पश्चिम बंगाल</name>
+		<name normalized="ps्cim bङ्gाl" languages="Nepali">पश्चिम बङ्गाल</name>
+		<name normalized="ps्cimbङ्glrाj्ym्" languages="Sanskrit">पश्चिमबङ्गलराज्यम्</name>
+		<name normalized="ps্cimbঙ্g" languages="Assamese;Bengali;Bishnupria Manipuri">পশ্চিমবঙ্গ</name>
+		<name normalized="pੱcmi bੰgਾl" languages="Punjabi">ਪੱਛਮੀ ਬੰਗਾਲ</name>
+		<name normalized="ps્cim bંgાll" languages="Gujarati">પશ્ચિમ બંગાળ</name>
+		<name normalized="ପଶ୍ଚିମବଙ୍ଗ" languages="Oriya">ପଶ୍ଚିମବଙ୍ଗ</name>
+		<name normalized="மேற்கு வங்காளம்" languages="Tamil">மேற்கு வங்காளம்</name>
+		<name normalized="పశ్చిమ బెంగాల్" languages="Telugu">పశ్చిమ బెంగాల్</name>
+		<name normalized="ಪಶ್ಚಿಮ ಬಂಗಾಳ" languages="Kannada">ಪಶ್ಚಿಮ ಬಂಗಾಳ</name>
+		<name normalized="പശ്ചിമ ബംഗാൾ" languages="Malayalam">പശ്ചിമ ബംഗാൾ</name>
+		<name normalized="รัฐเบงกอลตะวันตก" languages="Thai">รัฐเบงกอลตะวันตก</name>
+		<name normalized="დასავლეთი ბენგალი" languages="Georgian">დასავლეთი ბენგალი</name>
+		<name normalized="西bngr州" languages="Japanese">西ベンガル州</name>
+		<name normalized="西孟加拉邦" languages="Chinese">西孟加拉邦</name>
+		<name normalized="서벵골 주" languages="Korean">서벵골 주</name>
+	</region>
+</regions>

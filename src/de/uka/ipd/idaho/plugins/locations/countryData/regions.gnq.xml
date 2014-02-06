@@ -1,0 +1,151 @@
+<regions country="Equatorial Guinea">
+	<region name="Annobon" type="province" typeTranslated="provincia">
+		<name normalized="Annobon" languages="Basque;English;official">Annobon</name>
+		<name normalized="Annobon Province" languages="English;official">Annobon Province</name>
+		<name normalized="Annobon Provincia" languages="English;official">Annobon Provincia</name>
+		<name normalized="Annobon" languages="Breton;Catalan;Czech;Dutch;Estonian;Finnish;French;Galician;German;Hungarian;Indonesian;Latin;Norwegian (bokmal);Spanish;Swedish;Vietnamese">Annobón</name>
+		<name normalized="Annobon Province" languages="English;Scots">Annobón Province</name>
+		<name normalized="Ano-Bom" languages="Portuguese">Ano-Bom</name>
+		<name normalized="Anobonas" languages="Lithuanian">Anobonas</name>
+		<name normalized="Dobra Godina" languages="Croatian;Serbo-Croatian">Dobra Godina</name>
+		<name normalized="Pagalu" languages="Polish">Pagalu</name>
+		<name normalized="Provincia Annobon" languages="Romanian">Provincia Annobón</name>
+		<name normalized="Provincia di Annobon" languages="Italian">Provincia di Annobón</name>
+		<name normalized="Αννομπον" languages="Greek">Αννομπόν</name>
+		<name normalized="Aннoboн" languages="Russian;Ukrainian">Аннобон</name>
+		<name normalized="Aнoboн" languages="Bulgarian">Анобон</name>
+		<name normalized="Voсtрaў Aнaboн" languages="Belarusian">Востраў Анабон</name>
+		<name normalized="ანობონის პროვინცია" languages="Georgian">ანობონის პროვინცია</name>
+		<name normalized="annbn島" languages="Japanese">アンノボン島</name>
+		<name normalized="安諾本島" languages="Cantonese">安諾本島</name>
+		<name normalized="安诺本岛" languages="Chinese">安诺本岛</name>
+		<name normalized="안노본 섬" languages="Korean">안노본 섬</name>
+	</region>
+	<region name="Bioko Norte" type="province" typeTranslated="provincia">
+		<name normalized="Bioko Norte" languages="Dutch;English;German;Norwegian (bokmal);official;Portuguese">Bioko Norte</name>
+		<name normalized="Bioko Norte Province" languages="English;official;Scots">Bioko Norte Province</name>
+		<name normalized="Bioko Norte Provincia" languages="English;official">Bioko Norte Provincia</name>
+		<name normalized="Bioko Norten provinssi" languages="Finnish">Bioko Norten provinssi</name>
+		<name normalized="Bioko Polnocne" languages="Polish">Bioko Północne</name>
+		<name normalized="Bioko-Norte" languages="Breton;French">Bioko-Norte</name>
+		<name normalized="Provincia Bioko Norte" languages="Romanian">Provincia Bioko Norte</name>
+		<name normalized="Provincia de Bioko Norte" languages="Spanish">Provincia de Bioko Norte</name>
+		<name normalized="Provincia di Bioko Nord" languages="Italian">Provincia di Bioko Nord</name>
+		<name normalized="Provinsi Bioko Norte" languages="Indonesian">Provinsi Bioko Norte</name>
+		<name normalized="Sjeverni Bioko" languages="Croatian;Serbo-Croatian">Sjeverni Bioko</name>
+		<name normalized="Siaures Bioko provincija" languages="Lithuanian">Šiaurės Bioko provincija</name>
+		<name normalized="Bйoko Нoрti" languages="Ukrainian">Бйоко Норте</name>
+		<name normalized="Сiviрнa Bioko" languages="Bulgarian">Северна Биоко</name>
+		<name normalized="Сiviрный Bioko" languages="Russian">Северный Биоко</name>
+		<name normalized="ჩრდილოეთ ბიოკოს პროვინცია" languages="Georgian">ჩრდილოეთ ბიოკოს პროვინცია</name>
+		<name normalized="北bok県" languages="Japanese">北ビオコ県</name>
+		<name normalized="北比奥科省" languages="Chinese">北比奥科省</name>
+		<name normalized="북비오코 주" languages="Korean">북비오코 주</name>
+	</region>
+	<region name="Bioko Sur" type="province" typeTranslated="provincia">
+		<name normalized="Bioko Poludniowe" languages="Polish">Bioko Południowe</name>
+		<name normalized="Bioko Sur" languages="Dutch;English;German;Norwegian (bokmal);official;Portuguese">Bioko Sur</name>
+		<name normalized="Bioko Sur Province" languages="English;official;Scots">Bioko Sur Province</name>
+		<name normalized="Bioko Sur Provincia" languages="English;official">Bioko Sur Provincia</name>
+		<name normalized="Bioko Surin provinssi" languages="Finnish">Bioko Surin provinssi</name>
+		<name normalized="Bioko-Sur" languages="Breton;French">Bioko-Sur</name>
+		<name normalized="Juzni Bioko" languages="Croatian">Južni Bioko</name>
+		<name normalized="Pietu Bioko provincija" languages="Lithuanian">Pietų Bioko provincija</name>
+		<name normalized="Provincia Bioko Sur" languages="Romanian">Provincia Bioko Sur</name>
+		<name normalized="Provincia de Bioko Sur" languages="Spanish">Provincia de Bioko Sur</name>
+		<name normalized="Provincia di Bioko Sud" languages="Italian">Provincia di Bioko Sud</name>
+		<name normalized="Provinsi Bioko Sur" languages="Indonesian">Provinsi Bioko Sur</name>
+		<name normalized="Bйoko Сuр" languages="Ukrainian">Бйоко Сур</name>
+		<name normalized="Юzнa Bioko" languages="Bulgarian">Южна Биоко</name>
+		<name normalized="Юzный Bioko" languages="Russian">Южный Биоко</name>
+		<name normalized="სამხრეთ ბიოკოს პროვინცია" languages="Georgian">სამხრეთ ბიოკოს პროვინცია</name>
+		<name normalized="南bok県" languages="Japanese">南ビオコ県</name>
+		<name normalized="南比奥科省" languages="Chinese">南比奥科省</name>
+		<name normalized="남비오코 주" languages="Korean">남비오코 주</name>
+	</region>
+	<region name="Centro Sur" type="province" typeTranslated="provincia">
+		<name normalized="Centro Pietu provincija" languages="Lithuanian">Centro Pietų provincija</name>
+		<name normalized="Centro Sur" languages="Dutch;English;German;Norwegian (bokmal);official;Portuguese">Centro Sur</name>
+		<name normalized="Centro Sur Province" languages="English;official;Scots">Centro Sur Province</name>
+		<name normalized="Centro Sur Provincia" languages="English;official">Centro Sur Provincia</name>
+		<name normalized="Centro Surin provinssi" languages="Finnish">Centro Surin provinssi</name>
+		<name normalized="Centro-Sur" languages="Breton;French">Centro-Sur</name>
+		<name normalized="Kesk-Lounaprovints" languages="Estonian">Kesk-Lõunaprovints</name>
+		<name normalized="Provincia Centro Sud" languages="Italian">Provincia Centro Sud</name>
+		<name normalized="Provincia Centro Sur" languages="Romanian;Spanish">Provincia Centro Sur</name>
+		<name normalized="Prowincja Srodkowo-Poludniowa" languages="Polish">Prowincja Środkowo-Południowa</name>
+		<name normalized="Сiнtрo-Сuр" languages="Russian;Ukrainian">Сентро-Сур</name>
+		<name normalized="Юzнa tiнtрaлнa pрoviнtii" languages="Bulgarian">Южна централна провинция</name>
+		<name normalized="ცენტრო-სურის პროვინცია" languages="Georgian">ცენტრო-სურის პროვინცია</name>
+		<name normalized="中南省" languages="Chinese">中南省</name>
+		<name normalized="中南部県" languages="Japanese">中南部県</name>
+		<name normalized="중남부 주" languages="Korean">중남부 주</name>
+	</region>
+	<region name="Kie-Ntem" type="province" typeTranslated="provincia">
+		<name normalized="Ke Ntemo provincija" languages="Lithuanian">Ke Ntemo provincija</name>
+		<name normalized="Kie-Ntem" languages="English;official">Kie-Ntem</name>
+		<name normalized="Kie-Ntem Province" languages="English;official">Kie-Ntem Province</name>
+		<name normalized="Kie-Ntem Provincia" languages="English;official">Kie-Ntem Provincia</name>
+		<name normalized="Kie-Ntem" languages="Breton;Dutch;French;German;Norwegian (bokmal);Polish;Portuguese">Kié-Ntem</name>
+		<name normalized="Kie-Ntem Province" languages="English;Scots">Kié-Ntem Province</name>
+		<name normalized="Kie-Ntemin provinssi" languages="Finnish">Kié-Ntemin provinssi</name>
+		<name normalized="Provincia Kie-Ntem" languages="Italian;Romanian;Spanish">Provincia Kié-Ntem</name>
+		<name normalized="Ki-Нtiм" languages="Russian;Ukrainian">Ке-Нтем</name>
+		<name normalized="Kii-Нtiм" languages="Bulgarian">Кие-Нтем</name>
+		<name normalized="კე-ნტემის პროვინცია" languages="Georgian">კე-ნტემის პროვინცია</name>
+		<name normalized="kentm県" languages="Japanese">キエンテム県</name>
+		<name normalized="基埃恩特姆省" languages="Chinese">基埃恩特姆省</name>
+		<name normalized="키에은템 주" languages="Korean">키에은템 주</name>
+	</region>
+	<region name="Litoral" type="province" typeTranslated="provincia">
+		<name normalized="Battigia" languages="Italian">Battigia</name>
+		<name normalized="Can duyen" languages="Vietnamese">Cận duyên</name>
+		<name normalized="Litoraal" languages="Estonian">Litoraal</name>
+		<name normalized="Litoral" languages="Breton;Dutch;English;French;German;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Serbo-Croatian;Slovenian;Spanish;Swedish;Uzbek">Litoral</name>
+		<name normalized="Litoral Province" languages="English;official;Scots">Litoral Province</name>
+		<name normalized="Litoral Provincia" languages="English;official">Litoral Provincia</name>
+		<name normalized="Litoralin provinssi" languages="Finnish">Litoralin provinssi</name>
+		<name normalized="Litorale" languages="Lithuanian">Litoralė</name>
+		<name normalized="Litorales provincija" languages="Lithuanian">Litoralės provincija</name>
+		<name normalized="Litoro" languages="Ido">Litoro</name>
+		<name normalized="Litoral" languages="Czech">Litorál</name>
+		<name normalized="Littoraal" languages="Dutch">Littoraal</name>
+		<name normalized="Littoral" languages="French">Littoral</name>
+		<name normalized="Littoral zone" languages="English;Simple English">Littoral zone</name>
+		<name normalized="Marbordo" languages="Esperanto">Marbordo</name>
+		<name normalized="Primorje" languages="Croatian">Primorje</name>
+		<name normalized="Priobalje" languages="Croatian">Priobalje</name>
+		<name normalized="Provincia Litoral" languages="Romanian;Spanish">Provincia Litoral</name>
+		<name normalized="Provincia Litorale" languages="Italian">Provincia Litorale</name>
+		<name normalized="Prowincja Nadmorska" languages="Polish">Prowincja Nadmorska</name>
+		<name normalized="Strefa przybrzezna" languages="Polish">Strefa przybrzeżna</name>
+		<name normalized="Zona litoral" languages="Catalan">Zona litoral</name>
+		<name normalized="Zona litorala" languages="Romanian">Zonă litorală</name>
+		<name normalized="Лitoрaл" languages="Bulgarian;Russian">Литорал</name>
+		<name normalized="Лitoрaль" languages="Kazakh;Russian">Литораль</name>
+		<name normalized="Лitaрaль" languages="Belarusian">Літараль</name>
+		<name normalized="Лitoрaл" languages="Ukrainian">Літорал</name>
+		<name normalized="Лitoрaль" languages="Ukrainian">Літораль</name>
+		<name normalized="වෙරළ බඩ කලාප" languages="Sinhala">වෙරළ බඩ කලාප</name>
+		<name normalized="ლიტორალი" languages="Georgian">ლიტორალი</name>
+		<name normalized="ლიტორალის პროვინცია" languages="Georgian">ლიტორალის პროვინცია</name>
+		<name normalized="rtrr県" languages="Japanese">リトラル県</name>
+		<name normalized="滨海省" languages="Chinese">滨海省</name>
+		<name normalized="연안 주" languages="Korean">연안 주</name>
+	</region>
+	<region name="Wele-Nzas" type="province" typeTranslated="provincia">
+		<name normalized="Provincia Wele-Nzas" languages="Italian;Romanian;Spanish">Provincia Wele-Nzas</name>
+		<name normalized="Vele Nzaso provincija" languages="Lithuanian">Vele Nzaso provincija</name>
+		<name normalized="Wele-Nzas" languages="Breton;Dutch;English;French;German;official;Polish;Portuguese">Wele-Nzas</name>
+		<name normalized="Wele-Nzas Province" languages="English;official;Scots">Wele-Nzas Province</name>
+		<name normalized="Wele-Nzas Provincia" languages="English;official">Wele-Nzas Provincia</name>
+		<name normalized="Wele-Nzasin provinssi" languages="Finnish">Wele-Nzasin provinssi</name>
+		<name normalized="Wele-Nzas" languages="Norwegian (bokmal)">Wele-Nzás</name>
+		<name normalized="Viлi-Нzaс" languages="Russian;Ukrainian">Веле-Нзас</name>
+		<name normalized="Uiлi-Нzaс" languages="Bulgarian">Уеле-Нзас</name>
+		<name normalized="ველე-ნზასის პროვინცია" languages="Georgian">ველე-ნზასის პროვინცია</name>
+		<name normalized="uernzs県" languages="Japanese">ウェレンザス県</name>
+		<name normalized="韦莱恩萨斯省" languages="Chinese">韦莱恩萨斯省</name>
+		<name normalized="웰레은자스 주" languages="Korean">웰레은자스 주</name>
+	</region>
+</regions>

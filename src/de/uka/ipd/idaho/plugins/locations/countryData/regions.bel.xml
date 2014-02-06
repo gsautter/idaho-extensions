@@ -1,0 +1,606 @@
+<regions country="Belgium">
+	<region name="Brussels Hoofdstedelijk Gewest" type="region" typeTranslated="gewest">
+		<name normalized="An Bhruiseil" languages="Irish">An Bhruiséil</name>
+		<name normalized="Briksel" languages="Haitian">Briksèl</name>
+		<name normalized="Briseles galvaspilsetas regions" languages="Latvian">Briseles galvaspilsētas reģions</name>
+		<name normalized="Briuselio-sostines regionas" languages="Lithuanian">Briuselio-sostinės regionas</name>
+		<name normalized="Bruksel" languages="Kurdish;Zazaki">Bruksel</name>
+		<name normalized="Bruksela" languages="Kashubian;Silesian">Bruksela</name>
+		<name normalized="Brukseli" languages="Albanian">Brukseli</name>
+		<name normalized="brusel." languages="Lojban">brusel.</name>
+		<name normalized="Brusela Cefurba Regiono" languages="Esperanto">Brusela Ĉefurba Regiono</name>
+		<name normalized="Brusela-Hiriburua eskualdea" languages="Basque">Brusela-Hiriburua eskualdea</name>
+		<name normalized="Bruselas" languages="Iloko;Ladino;Waray">Bruselas</name>
+		<name normalized="Bruselj" languages="Slovenian">Bruselj</name>
+		<name normalized="Bruselsky region" languages="Czech">Bruselský region</name>
+		<name normalized="Brusilu" languages="Sranan Tongo">Brusilu</name>
+		<name normalized="Brussel" languages="Icelandic;Interlingua;Malay;Norwegian (bokmal);Norwegian Nynorsk;Seeltersk;Zeeuws">Brussel</name>
+		<name normalized="Brussel Poytaxt Regioni" languages="Uzbek">Brussel Poytaxt Regioni</name>
+		<name normalized="Brusselas" languages="Cornish">Brusselas</name>
+		<name normalized="Brussele" languages="Walloon">Brussele</name>
+		<name normalized="Brussels" languages="Chinese (Min Nan);English;Scots;Shona;Swahili">Brussels</name>
+		<name normalized="Brussels Hoofdstedelijk Gewest" languages="Dutch;English;official">Brussels Hoofdstedelijk Gewest</name>
+		<name normalized="Brussels Hoofdstedelijk Gewest Region" languages="English;official">Brussels Hoofdstedelijk Gewest Region</name>
+		<name normalized="Brussels Hoofsjtaejelik Gewes" languages="Limburgish">Brussels Hoofsjtaejelik Gewes</name>
+		<name normalized="Brussels Oofdstedelik Gewest" languages="West-Vlams">Brussels Oofdstedelik Gewest</name>
+		<name normalized="Brussels-Capital Region" languages="English;official;Simple English">Brussels-Capital Region</name>
+		<name normalized="Brusselse Hoofstedelike Gewes" languages="Afrikaans">Brusselse Hoofstedelike Gewes</name>
+		<name normalized="Brussel" languages="Achinese">Brussèl</name>
+		<name normalized="Bruxel" languages="Ido">Bruxel</name>
+		<name normalized="Bruxelas" languages="Portuguese">Bruxelas</name>
+		<name normalized="Bruxelas-Capital" languages="Galician">Bruxelas-Capital</name>
+		<name normalized="Bruxelles" languages="Interlingue;Sicilian;tarandine;Vietnamese">Bruxelles</name>
+		<name normalized="Bryssel" languages="Finnish;Northern Sami;Swedish">Bryssel</name>
+		<name normalized="Bryussel" languages="Uyghur">Bryussél</name>
+		<name normalized="Bruksel" languages="Gagauz">Brüksel</name>
+		<name normalized="Bruksel Baskent Bolgesi" languages="Turkish">Brüksel Başkent Bölgesi</name>
+		<name normalized="Brussel" languages="Upper Sorbian">Brüssel</name>
+		<name normalized="Brusszel Fovarosi Regio" languages="Hungarian">Brüsszel Fővárosi Régió</name>
+		<name normalized="Brußßel" languages="Colognian">Brüßßel</name>
+		<name normalized="Daerah Ibu Kota Brussel" languages="Indonesian">Daerah Ibu Kota Brussel</name>
+		<name normalized="Haaptstadregioun Breissel" languages="Luxembourgish">Haaptstadregioun Bréissel</name>
+		<name normalized="Paruhi" languages="Maori">Paruhi</name>
+		<name normalized="Pealinna Brusseli piirkond" languages="Estonian">Pealinna Brüsseli piirkond</name>
+		<name normalized="Rannvro Brusel-Kerbenn" languages="Breton">Rannvro Brusel-Kêrbenn</name>
+		<name normalized="Rechion de Bruselas-Capital" languages="Aragonese">Rechión de Bruselas-Capital</name>
+		<name normalized="Regija glavnog grada Bruxellesa" languages="Bosnian">Regija glavnog grada Bruxellesa</name>
+		<name normalized="Regija glavnoga grada Bruxellesa" languages="Croatian;Serbo-Croatian">Regija glavnoga grada Bruxellesa</name>
+		<name normalized="Regio Bruxellana" languages="Latin">Regio Bruxellana</name>
+		<name normalized="Region Brussel-Hauptstadt" languages="German">Region Brüssel-Hauptstadt</name>
+		<name normalized="Region de Brusselas Capitala" languages="Occitan">Region de Brussèlas Capitala</name>
+		<name normalized="Region Stoleczny Brukseli" languages="Polish">Region Stołeczny Brukseli</name>
+		<name normalized="Regione di Bruxelles-Capitale" languages="Italian">Regione di Bruxelles-Capitale</name>
+		<name normalized="Regiunea Capitalei Bruxelles" languages="Romanian">Regiunea Capitalei Bruxelles</name>
+		<name normalized="Regio de Brussel.les-Capital" languages="Catalan">Regió de Brussel·les-Capital</name>
+		<name normalized="Region Brusel-hlavne mesto" languages="Slovak">Región Brusel-hlavné mesto</name>
+		<name normalized="Region de Bruselas-Capital" languages="Spanish">Región de Bruselas-Capital</name>
+		<name normalized="Rhanbarth Brwsel-Prifddinas" languages="Welsh">Rhanbarth Brwsel-Prifddinas</name>
+		<name normalized="Region de Bruxelles-Capitale" languages="French">Région de Bruxelles-Capitale</name>
+		<name normalized="Yn Vrussyl" languages="Manx">Yn Vrussyl</name>
+		<name normalized="Περιοχη των Βρυξελλων" languages="Greek">Περιοχή των Βρυξελλών</name>
+		<name normalized="Bрiсiл" languages="Macedonian">Брисел</name>
+		<name normalized="Bрuсiльсki сtaлicны рegiён" languages="Belarusian">Брусельскі сталічны рэгіён</name>
+		<name normalized="Bрuсeльсki сtaлicны рegiён" languages="biлaрuсkai (taрaskivita)‎">Брусэльскі сталічны рэгіён</name>
+		<name normalized="Bрюkсiл" languages="Bulgarian">Брюксел</name>
+		<name normalized="Bрюссiл" languages="Tajik">Брюссел</name>
+		<name normalized="Bрюссiль" languages="Hill Mari;Komi;Mongolian">Брюссель</name>
+		<name normalized="Bрюссiльсkiй сtoлicный рigioн" languages="Russian">Брюссельский столичный регион</name>
+		<name normalized="Bрюссiльсьkiй сtoлicнiй рigioн" languages="Ukrainian">Брюссельський столичний регіон</name>
+		<name normalized="Bрүссiль" languages="Sakha">Брүссель</name>
+		<name normalized="Рigioн gлavнog gрada Bрiсiлa" languages="Serbian">Регион главног града Брисела</name>
+		<name normalized="Brյvysեlի mայrաkաղաkային tաrաcաsrjան" languages="Armenian">Բրյուսելի մայրաքաղաքային տարածաշրջան</name>
+		<name normalized="brיסד" languages="Hebrew">בריסל</name>
+		<name normalized="brיסד rאיאן" languages="Yiddish">בריסל ראיאן</name>
+		<name normalized="إqلym brوkسل אلعאsmة" languages="Arabic">إقليم بروكسل العاصمة</name>
+		<name normalized="brسلز" languages="Urdu;Western Punjabi">برسلز</name>
+		<name normalized="brوکسل" languages="Persian">بروکسل</name>
+		<name normalized="brوکسێل" languages="Sorani Kurdish">بروکسێل</name>
+		<name normalized="ܒܪܘܟܣܠ" languages="Aramaic">ܒܪܘܟܣܠ</name>
+		<name normalized="b्rsel्s" languages="Marathi;Newari">ब्रसेल्स</name>
+		<name normalized="b्rusel्s" languages="Hindi">ब्रुसेल्स</name>
+		<name normalized="b্rাsel্‌s" languages="Bengali">ব্রাসেল্‌স</name>
+		<name normalized="brੱsls" languages="Punjabi">ਬਰੱਸਲਸ</name>
+		<name normalized="ବ୍ରସେଲେସ" languages="Oriya">ବ୍ରସେଲେସ</name>
+		<name normalized="பிரசெல்சு" languages="Tamil">பிரசெல்சு</name>
+		<name normalized="ಬ್ರಸೆಲ್ಸ್" languages="Kannada">ಬ್ರಸೆಲ್ಸ್</name>
+		<name normalized="ബ്രസൽസ്" languages="Malayalam">ബ്രസൽസ്</name>
+		<name normalized="บรัสเซลส์" languages="Thai">บรัสเซลส์</name>
+		<name normalized="པུའུ་ལུའུ་སེལ​།" languages="Tibetan">པུའུ་ལུའུ་སེལ​།</name>
+		<name normalized="ဘရပ်ဆဲလ်မြို့" languages="Burmese">ဘရပ်ဆဲလ်မြို့</name>
+		<name normalized="ბრიუსელი" languages="Georgian">ბრიუსელი</name>
+		<name normalized="ብሩክሴል" languages="Amharic">ብሩክሴል</name>
+		<name normalized="brytsr" languages="Japanese">ブリュッセル</name>
+		<name normalized="布魯塞爾首都區" languages="Cantonese">布魯塞爾首都區</name>
+		<name normalized="布鲁塞尔" languages="Chinese">布鲁塞尔</name>
+		<name normalized="브뤼셀" languages="Korean">브뤼셀</name>
+	</region>
+	<region name="Brussels-Capital Region" type="region" typeTranslated="gewest">
+		<name normalized="An Bhruiseil" languages="Irish">An Bhruiséil</name>
+		<name normalized="Briksel" languages="Haitian">Briksèl</name>
+		<name normalized="Briseles galvaspilsetas regions" languages="Latvian">Briseles galvaspilsētas reģions</name>
+		<name normalized="Briuselio-sostines regionas" languages="Lithuanian">Briuselio-sostinės regionas</name>
+		<name normalized="Bruksel" languages="Kurdish;Zazaki">Bruksel</name>
+		<name normalized="Bruksela" languages="Kashubian;Silesian">Bruksela</name>
+		<name normalized="Brukseli" languages="Albanian">Brukseli</name>
+		<name normalized="brusel." languages="Lojban">brusel.</name>
+		<name normalized="Brusela Cefurba Regiono" languages="Esperanto">Brusela Ĉefurba Regiono</name>
+		<name normalized="Brusela-Hiriburua eskualdea" languages="Basque">Brusela-Hiriburua eskualdea</name>
+		<name normalized="Bruselas" languages="Iloko;Ladino;Waray">Bruselas</name>
+		<name normalized="Bruselj" languages="Slovenian">Bruselj</name>
+		<name normalized="Bruselsky region" languages="Czech">Bruselský region</name>
+		<name normalized="Brusilu" languages="Sranan Tongo">Brusilu</name>
+		<name normalized="Brussel" languages="Icelandic;Interlingua;Malay;Norwegian (bokmal);Norwegian Nynorsk;Seeltersk;Zeeuws">Brussel</name>
+		<name normalized="Brussel Poytaxt Regioni" languages="Uzbek">Brussel Poytaxt Regioni</name>
+		<name normalized="Brusselas" languages="Cornish">Brusselas</name>
+		<name normalized="Brussele" languages="Walloon">Brussele</name>
+		<name normalized="Brussels" languages="Chinese (Min Nan);English;Scots;Shona;Swahili">Brussels</name>
+		<name normalized="Brussels Hoofdstedelijk Gewest" languages="Dutch;English;official">Brussels Hoofdstedelijk Gewest</name>
+		<name normalized="Brussels Hoofsjtaejelik Gewes" languages="Limburgish">Brussels Hoofsjtaejelik Gewes</name>
+		<name normalized="Brussels Oofdstedelik Gewest" languages="West-Vlams">Brussels Oofdstedelik Gewest</name>
+		<name normalized="Brussels-Capital Region" languages="English;official;Simple English">Brussels-Capital Region</name>
+		<name normalized="Brussels-Capital Region Gewest" languages="English;official">Brussels-Capital Region Gewest</name>
+		<name normalized="Brusselse Hoofstedelike Gewes" languages="Afrikaans">Brusselse Hoofstedelike Gewes</name>
+		<name normalized="Brussel" languages="Achinese">Brussèl</name>
+		<name normalized="Bruxel" languages="Ido">Bruxel</name>
+		<name normalized="Bruxelas" languages="Portuguese">Bruxelas</name>
+		<name normalized="Bruxelas-Capital" languages="Galician">Bruxelas-Capital</name>
+		<name normalized="Bruxelles" languages="Interlingue;Sicilian;tarandine;Vietnamese">Bruxelles</name>
+		<name normalized="Bryssel" languages="Finnish;Northern Sami;Swedish">Bryssel</name>
+		<name normalized="Bryussel" languages="Uyghur">Bryussél</name>
+		<name normalized="Bruksel" languages="Gagauz">Brüksel</name>
+		<name normalized="Bruksel Baskent Bolgesi" languages="Turkish">Brüksel Başkent Bölgesi</name>
+		<name normalized="Brussel" languages="Upper Sorbian">Brüssel</name>
+		<name normalized="Brusszel Fovarosi Regio" languages="Hungarian">Brüsszel Fővárosi Régió</name>
+		<name normalized="Brußßel" languages="Colognian">Brüßßel</name>
+		<name normalized="Daerah Ibu Kota Brussel" languages="Indonesian">Daerah Ibu Kota Brussel</name>
+		<name normalized="Haaptstadregioun Breissel" languages="Luxembourgish">Haaptstadregioun Bréissel</name>
+		<name normalized="Paruhi" languages="Maori">Paruhi</name>
+		<name normalized="Pealinna Brusseli piirkond" languages="Estonian">Pealinna Brüsseli piirkond</name>
+		<name normalized="Rannvro Brusel-Kerbenn" languages="Breton">Rannvro Brusel-Kêrbenn</name>
+		<name normalized="Rechion de Bruselas-Capital" languages="Aragonese">Rechión de Bruselas-Capital</name>
+		<name normalized="Regija glavnog grada Bruxellesa" languages="Bosnian">Regija glavnog grada Bruxellesa</name>
+		<name normalized="Regija glavnoga grada Bruxellesa" languages="Croatian;Serbo-Croatian">Regija glavnoga grada Bruxellesa</name>
+		<name normalized="Regio Bruxellana" languages="Latin">Regio Bruxellana</name>
+		<name normalized="Region Brussel-Hauptstadt" languages="German">Region Brüssel-Hauptstadt</name>
+		<name normalized="Region de Brusselas Capitala" languages="Occitan">Region de Brussèlas Capitala</name>
+		<name normalized="Region Stoleczny Brukseli" languages="Polish">Region Stołeczny Brukseli</name>
+		<name normalized="Regione di Bruxelles-Capitale" languages="Italian">Regione di Bruxelles-Capitale</name>
+		<name normalized="Regiunea Capitalei Bruxelles" languages="Romanian">Regiunea Capitalei Bruxelles</name>
+		<name normalized="Regio de Brussel.les-Capital" languages="Catalan">Regió de Brussel·les-Capital</name>
+		<name normalized="Region Brusel-hlavne mesto" languages="Slovak">Región Brusel-hlavné mesto</name>
+		<name normalized="Region de Bruselas-Capital" languages="Spanish">Región de Bruselas-Capital</name>
+		<name normalized="Rhanbarth Brwsel-Prifddinas" languages="Welsh">Rhanbarth Brwsel-Prifddinas</name>
+		<name normalized="Region de Bruxelles-Capitale" languages="French">Région de Bruxelles-Capitale</name>
+		<name normalized="Yn Vrussyl" languages="Manx">Yn Vrussyl</name>
+		<name normalized="Περιοχη των Βρυξελλων" languages="Greek">Περιοχή των Βρυξελλών</name>
+		<name normalized="Bрiсiл" languages="Macedonian">Брисел</name>
+		<name normalized="Bрuсiльсki сtaлicны рegiён" languages="Belarusian">Брусельскі сталічны рэгіён</name>
+		<name normalized="Bрuсeльсki сtaлicны рegiён" languages="biлaрuсkai (taрaskivita)‎">Брусэльскі сталічны рэгіён</name>
+		<name normalized="Bрюkсiл" languages="Bulgarian">Брюксел</name>
+		<name normalized="Bрюссiл" languages="Tajik">Брюссел</name>
+		<name normalized="Bрюссiль" languages="Hill Mari;Komi;Mongolian">Брюссель</name>
+		<name normalized="Bрюссiльсkiй сtoлicный рigioн" languages="Russian">Брюссельский столичный регион</name>
+		<name normalized="Bрюссiльсьkiй сtoлicнiй рigioн" languages="Ukrainian">Брюссельський столичний регіон</name>
+		<name normalized="Bрүссiль" languages="Sakha">Брүссель</name>
+		<name normalized="Рigioн gлavнog gрada Bрiсiлa" languages="Serbian">Регион главног града Брисела</name>
+		<name normalized="Brյvysեlի mայrաkաղաkային tաrաcաsrjան" languages="Armenian">Բրյուսելի մայրաքաղաքային տարածաշրջան</name>
+		<name normalized="brיסד" languages="Hebrew">בריסל</name>
+		<name normalized="brיסד rאיאן" languages="Yiddish">בריסל ראיאן</name>
+		<name normalized="إqلym brوkسل אلعאsmة" languages="Arabic">إقليم بروكسل العاصمة</name>
+		<name normalized="brسلز" languages="Urdu;Western Punjabi">برسلز</name>
+		<name normalized="brوکسل" languages="Persian">بروکسل</name>
+		<name normalized="brوکسێل" languages="Sorani Kurdish">بروکسێل</name>
+		<name normalized="ܒܪܘܟܣܠ" languages="Aramaic">ܒܪܘܟܣܠ</name>
+		<name normalized="b्rsel्s" languages="Marathi;Newari">ब्रसेल्स</name>
+		<name normalized="b्rusel्s" languages="Hindi">ब्रुसेल्स</name>
+		<name normalized="b্rাsel্‌s" languages="Bengali">ব্রাসেল্‌স</name>
+		<name normalized="brੱsls" languages="Punjabi">ਬਰੱਸਲਸ</name>
+		<name normalized="ବ୍ରସେଲେସ" languages="Oriya">ବ୍ରସେଲେସ</name>
+		<name normalized="பிரசெல்சு" languages="Tamil">பிரசெல்சு</name>
+		<name normalized="ಬ್ರಸೆಲ್ಸ್" languages="Kannada">ಬ್ರಸೆಲ್ಸ್</name>
+		<name normalized="ബ്രസൽസ്" languages="Malayalam">ബ്രസൽസ്</name>
+		<name normalized="บรัสเซลส์" languages="Thai">บรัสเซลส์</name>
+		<name normalized="པུའུ་ལུའུ་སེལ​།" languages="Tibetan">པུའུ་ལུའུ་སེལ​།</name>
+		<name normalized="ဘရပ်ဆဲလ်မြို့" languages="Burmese">ဘရပ်ဆဲလ်မြို့</name>
+		<name normalized="ბრიუსელი" languages="Georgian">ბრიუსელი</name>
+		<name normalized="ብሩክሴል" languages="Amharic">ብሩክሴል</name>
+		<name normalized="brytsr" languages="Japanese">ブリュッセル</name>
+		<name normalized="布魯塞爾首都區" languages="Cantonese">布魯塞爾首都區</name>
+		<name normalized="布鲁塞尔" languages="Chinese">布鲁塞尔</name>
+		<name normalized="브뤼셀" languages="Korean">브뤼셀</name>
+	</region>
+	<region name="Bruxelles-Capitale" type="region" typeTranslated="gewest">
+		<name normalized="Bruxelles-Capitale" languages="English;official">Bruxelles-Capitale</name>
+		<name normalized="Bruxelles-Capitale Gewest" languages="English;official">Bruxelles-Capitale Gewest</name>
+		<name normalized="Bruxelles-Capitale Region" languages="English;official">Bruxelles-Capitale Region</name>
+	</region>
+	<region name="Flandre" type="region" typeTranslated="gewest">
+		<name normalized="Fflandrys" languages="Welsh">Fflandrys</name>
+		<name normalized="Fiandre" languages="Italian">Fiandre</name>
+		<name normalized="Fiandri" languages="Sicilian">Fiandri</name>
+		<name normalized="Flaanderen" languages="Western Frisian">Flaanderen</name>
+		<name normalized="Flanderi" languages="Finnish">Flanderi</name>
+		<name normalized="Flandern" languages="Danish;German;Norwegian (bokmal);Norwegian Nynorsk;Swedish">Flandern</name>
+		<name normalized="Flanders" languages="English;Malay;official">Flanders</name>
+		<name normalized="Flandes" languages="Catalan;Spanish;Tagalog">Flandes</name>
+		<name normalized="Flandra" languages="Occitan;Romanian">Flandra</name>
+		<name normalized="Flandre" languages="English;French;official;Turkish">Flandre</name>
+		<name normalized="Flandre Gewest" languages="English;official">Flandre Gewest</name>
+		<name normalized="Flandre Region" languages="English;official">Flandre Region</name>
+		<name normalized="Flandres" languages="Aragonese;Galician;Portuguese">Flandres</name>
+		<name normalized="Flandrez" languages="Breton">Flandrez</name>
+		<name normalized="Flandria" languages="Basque;Estonian;Hungarian;Indonesian;Interlingue;Latin;Polish;Swahili">Flandria</name>
+		<name normalized="Flandrija" languages="Bosnian;Croatian;Latvian;Lithuanian;Serbo-Croatian">Flandrija</name>
+		<name normalized="Flandrio" languages="Esperanto">Flandrio</name>
+		<name normalized="Flannern" languages="Low German">Flannern</name>
+		<name normalized="Flaemingjaland" languages="Icelandic">Flæmingjaland</name>
+		<name normalized="Flondras" languages="Irish">Flóndras</name>
+		<name normalized="Vlaandere" languages="Afrikaans">Vlaandere</name>
+		<name normalized="Vlaanderen" languages="Dutch;English;Low Saxon (Netherlands);official;Papiamento;Vietnamese">Vlaanderen</name>
+		<name normalized="Vlaondere" languages="Limburgish">Vlaondere</name>
+		<name normalized="Vlaonderen" languages="Zeeuws">Vlaonderen</name>
+		<name normalized="Vloandern" languages="West-Vlams">Vloandern</name>
+		<name normalized="Vlamsko" languages="Czech">Vlámsko</name>
+		<name normalized="Yn Flandyryn" languages="Manx">Yn Flandyryn</name>
+		<name normalized="Φλανδρα" languages="Greek">Φλάνδρα</name>
+		<name normalized="Флaнdрi" languages="Chuvash">Фландри</name>
+		<name normalized="Флaнdрii" languages="Russian">Фландрия</name>
+		<name normalized="Флaнdрija" languages="Macedonian;Serbian">Фландрија</name>
+		<name normalized="Флaнdрыi" languages="Belarusian">Фландрыя</name>
+		<name normalized="Флaнdрii" languages="Ukrainian">Фландрія</name>
+		<name normalized="Flանdrիա" languages="Armenian">Ֆլանդրիա</name>
+		<name normalized="pדאnדעrן" languages="Yiddish">פלאנדערן</name>
+		<name normalized="pדnדrיh" languages="Hebrew">פלנדריה</name>
+		<name normalized="fلאندr" languages="Egyptian Spoken Arabic;Persian">فلاندر</name>
+		<name normalized="fلאندrز" languages="Arabic">فلاندرز</name>
+		<name normalized="fلینڈrس" languages="Urdu">فلینڈرس</name>
+		<name normalized="p्lांडr्s" languages="Marathi">फ्लांडर्स</name>
+		<name normalized="แฟลนเดอส์" languages="Thai">แฟลนเดอส์</name>
+		<name normalized="hrndr" languages="Japanese">フランドル</name>
+		<name normalized="法兰德斯" languages="Chinese">法兰德斯</name>
+		<name normalized="플랑드르" languages="Korean">플랑드르</name>
+	</region>
+	<region name="Flemish Region" type="region" typeTranslated="gewest">
+		<name normalized="Fflandrys" languages="Welsh">Fflandrys</name>
+		<name normalized="Fiandre" languages="Italian">Fiandre</name>
+		<name normalized="Fiandri" languages="Sicilian">Fiandri</name>
+		<name normalized="Flaanderen" languages="Western Frisian">Flaanderen</name>
+		<name normalized="Flaman Bolgesi" languages="Turkish">Flaman Bölgesi</name>
+		<name normalized="Flanderi" languages="Finnish">Flanderi</name>
+		<name normalized="Flandern" languages="Danish;German;Norwegian (bokmal);Norwegian Nynorsk;Swedish">Flandern</name>
+		<name normalized="Flanders" languages="English;Malay;official">Flanders</name>
+		<name normalized="Flanders Gewest" languages="English;official">Flanders Gewest</name>
+		<name normalized="Flanders Region" languages="English;official">Flanders Region</name>
+		<name normalized="Flandes" languages="Catalan;Spanish;Tagalog">Flandes</name>
+		<name normalized="Flandra" languages="Occitan;Romanian">Flandra</name>
+		<name normalized="Flandra Regiono" languages="Esperanto">Flandra Regiono</name>
+		<name normalized="Flandre" languages="English;French;official;Turkish">Flandre</name>
+		<name normalized="Flandres" languages="Aragonese;Galician;Portuguese">Flandres</name>
+		<name normalized="Flandrez" languages="Breton">Flandrez</name>
+		<name normalized="Flandria" languages="Basque;Estonian;Hungarian;Indonesian;Interlingue;Latin;Polish;Swahili">Flandria</name>
+		<name normalized="Flandrija" languages="Bosnian;Croatian;Latvian;Lithuanian;Serbo-Croatian">Flandrija</name>
+		<name normalized="Flandrio" languages="Esperanto">Flandrio</name>
+		<name normalized="Flannern" languages="Low German">Flannern</name>
+		<name normalized="Flemish Region" languages="English;official;Scots;Simple English">Flemish Region</name>
+		<name normalized="Flemish Region Gewest" languages="English;official">Flemish Region Gewest</name>
+		<name normalized="Flamsky region" languages="Slovak">Flámsky región</name>
+		<name normalized="Flamesch Regioun" languages="Luxembourgish">Flämesch Regioun</name>
+		<name normalized="Flaemingjaland" languages="Icelandic">Flæmingjaland</name>
+		<name normalized="Flondras" languages="Irish">Flóndras</name>
+		<name normalized="Region Flamandzki" languages="Polish">Region Flamandzki</name>
+		<name normalized="Region Flamenca" languages="Spanish">Región Flamenca</name>
+		<name normalized="Region flamande" languages="French">Région flamande</name>
+		<name normalized="Vlaams Gewest" languages="Dutch;English;official;Waray">Vlaams Gewest</name>
+		<name normalized="Vlaandere" languages="Afrikaans">Vlaandere</name>
+		<name normalized="Vlaanderen" languages="Dutch;English;Low Saxon (Netherlands);official;Papiamento;Vietnamese">Vlaanderen</name>
+		<name normalized="Vlaondere" languages="Limburgish">Vlaondere</name>
+		<name normalized="Vlaonderen" languages="Zeeuws">Vlaonderen</name>
+		<name normalized="Vloandern" languages="West-Vlams">Vloandern</name>
+		<name normalized="Vlamsko" languages="Czech">Vlámsko</name>
+		<name normalized="Yn Flandyryn" languages="Manx">Yn Flandyryn</name>
+		<name normalized="Φλανδρα" languages="Greek">Φλάνδρα</name>
+		<name normalized="Φλαμανδικη Περιοχη" languages="Greek">Φλαμανδική Περιοχή</name>
+		<name normalized="Флaмaнdiйы рigioн" languages="Ossetic">Фламандийы регион</name>
+		<name normalized="Флaмaнdсki рigioн" languages="Bulgarian">Фламандски регион</name>
+		<name normalized="Флaмaнdсkiй рigioн" languages="Russian">Фламандский регион</name>
+		<name normalized="Флaмaнdсki рegiён" languages="Belarusian">Фламандскі рэгіён</name>
+		<name normalized="Флaмaнсki рigioн" languages="Macedonian">Фламански регион</name>
+		<name normalized="Флaнdрi" languages="Chuvash">Фландри</name>
+		<name normalized="Флaнdрii" languages="Russian">Фландрия</name>
+		<name normalized="Флaнdрija" languages="Macedonian;Serbian">Фландрија</name>
+		<name normalized="Флaнdрыi" languages="Belarusian">Фландрыя</name>
+		<name normalized="Флaнdрii" languages="Ukrainian">Фландрія</name>
+		<name normalized="Флiнdрыi" languages="biлaрuсkai (taрaskivita)‎">Фляндрыя</name>
+		<name normalized="Flանdrիա" languages="Armenian">Ֆլանդրիա</name>
+		<name normalized="pדאnדעrן" languages="Yiddish">פלאנדערן</name>
+		<name normalized="pדnדrיh" languages="Hebrew">פלנדריה</name>
+		<name normalized="אلإqلym אلfلאmندy" languages="Arabic">الإقليم الفلامندي</name>
+		<name normalized="fلאندr" languages="Egyptian Spoken Arabic;Persian">فلاندر</name>
+		<name normalized="fلאندrز" languages="Arabic">فلاندرز</name>
+		<name normalized="fلیmش" languages="Western Punjabi">فلیمش</name>
+		<name normalized="fلینڈrس" languages="Urdu">فلینڈرس</name>
+		<name normalized="p्lांडr्s" languages="Marathi">फ्लांडर्स</name>
+		<name normalized="p्lemis k्षet्r" languages="Hindi">फ्लेमिश क्षेत्र</name>
+		<name normalized="เขตฟลามส์" languages="Thai">เขตฟลามส์</name>
+		<name normalized="แฟลนเดอส์" languages="Thai">แฟลนเดอส์</name>
+		<name normalized="ფლანდრია" languages="Georgian;Mingrelian">ფლანდრია</name>
+		<name normalized="hrndrn地域" languages="Japanese">フランデレン地域</name>
+		<name normalized="hrndr" languages="Japanese">フランドル</name>
+		<name normalized="弗拉芒大區" languages="Chinese">弗拉芒大區</name>
+		<name normalized="法兰德斯" languages="Chinese">法兰德斯</name>
+		<name normalized="플라망 지역" languages="Korean">플라망 지역</name>
+		<name normalized="플랑드르" languages="Korean">플랑드르</name>
+	</region>
+	<region name="Region de Bruxelles-Capitale" type="region" typeTranslated="gewest">
+		<name normalized="An Bhruiseil" languages="Irish">An Bhruiséil</name>
+		<name normalized="Briksel" languages="Haitian">Briksèl</name>
+		<name normalized="Briseles galvaspilsetas regions" languages="Latvian">Briseles galvaspilsētas reģions</name>
+		<name normalized="Briuselio-sostines regionas" languages="Lithuanian">Briuselio-sostinės regionas</name>
+		<name normalized="Bruksel" languages="Kurdish;Zazaki">Bruksel</name>
+		<name normalized="Bruksela" languages="Kashubian;Silesian">Bruksela</name>
+		<name normalized="Brukseli" languages="Albanian">Brukseli</name>
+		<name normalized="brusel." languages="Lojban">brusel.</name>
+		<name normalized="Brusela Cefurba Regiono" languages="Esperanto">Brusela Ĉefurba Regiono</name>
+		<name normalized="Brusela-Hiriburua eskualdea" languages="Basque">Brusela-Hiriburua eskualdea</name>
+		<name normalized="Bruselas" languages="Iloko;Ladino;Waray">Bruselas</name>
+		<name normalized="Bruselj" languages="Slovenian">Bruselj</name>
+		<name normalized="Bruselsky region" languages="Czech">Bruselský region</name>
+		<name normalized="Brusilu" languages="Sranan Tongo">Brusilu</name>
+		<name normalized="Brussel" languages="Icelandic;Interlingua;Malay;Norwegian (bokmal);Norwegian Nynorsk;Seeltersk;Zeeuws">Brussel</name>
+		<name normalized="Brussel Poytaxt Regioni" languages="Uzbek">Brussel Poytaxt Regioni</name>
+		<name normalized="Brusselas" languages="Cornish">Brusselas</name>
+		<name normalized="Brussele" languages="Walloon">Brussele</name>
+		<name normalized="Brussels" languages="Chinese (Min Nan);English;Scots;Shona;Swahili">Brussels</name>
+		<name normalized="Brussels Hoofdstedelijk Gewest" languages="Dutch;English;official">Brussels Hoofdstedelijk Gewest</name>
+		<name normalized="Brussels Hoofsjtaejelik Gewes" languages="Limburgish">Brussels Hoofsjtaejelik Gewes</name>
+		<name normalized="Brussels Oofdstedelik Gewest" languages="West-Vlams">Brussels Oofdstedelik Gewest</name>
+		<name normalized="Brussels-Capital Region" languages="English;official;Simple English">Brussels-Capital Region</name>
+		<name normalized="Brusselse Hoofstedelike Gewes" languages="Afrikaans">Brusselse Hoofstedelike Gewes</name>
+		<name normalized="Brussel" languages="Achinese">Brussèl</name>
+		<name normalized="Bruxel" languages="Ido">Bruxel</name>
+		<name normalized="Bruxelas" languages="Portuguese">Bruxelas</name>
+		<name normalized="Bruxelas-Capital" languages="Galician">Bruxelas-Capital</name>
+		<name normalized="Bruxelles" languages="Interlingue;Sicilian;tarandine;Vietnamese">Bruxelles</name>
+		<name normalized="Bryssel" languages="Finnish;Northern Sami;Swedish">Bryssel</name>
+		<name normalized="Bryussel" languages="Uyghur">Bryussél</name>
+		<name normalized="Bruksel" languages="Gagauz">Brüksel</name>
+		<name normalized="Bruksel Baskent Bolgesi" languages="Turkish">Brüksel Başkent Bölgesi</name>
+		<name normalized="Brussel" languages="Upper Sorbian">Brüssel</name>
+		<name normalized="Brusszel Fovarosi Regio" languages="Hungarian">Brüsszel Fővárosi Régió</name>
+		<name normalized="Brußßel" languages="Colognian">Brüßßel</name>
+		<name normalized="Daerah Ibu Kota Brussel" languages="Indonesian">Daerah Ibu Kota Brussel</name>
+		<name normalized="Haaptstadregioun Breissel" languages="Luxembourgish">Haaptstadregioun Bréissel</name>
+		<name normalized="Paruhi" languages="Maori">Paruhi</name>
+		<name normalized="Pealinna Brusseli piirkond" languages="Estonian">Pealinna Brüsseli piirkond</name>
+		<name normalized="Rannvro Brusel-Kerbenn" languages="Breton">Rannvro Brusel-Kêrbenn</name>
+		<name normalized="Rechion de Bruselas-Capital" languages="Aragonese">Rechión de Bruselas-Capital</name>
+		<name normalized="Regija glavnog grada Bruxellesa" languages="Bosnian">Regija glavnog grada Bruxellesa</name>
+		<name normalized="Regija glavnoga grada Bruxellesa" languages="Croatian;Serbo-Croatian">Regija glavnoga grada Bruxellesa</name>
+		<name normalized="Regio Bruxellana" languages="Latin">Regio Bruxellana</name>
+		<name normalized="Region Brussel-Hauptstadt" languages="German">Region Brüssel-Hauptstadt</name>
+		<name normalized="Region de Brusselas Capitala" languages="Occitan">Region de Brussèlas Capitala</name>
+		<name normalized="Region de Bruxelles-Capitale" languages="English;official">Region de Bruxelles-Capitale</name>
+		<name normalized="Region de Bruxelles-Capitale Gewest" languages="English;official">Region de Bruxelles-Capitale Gewest</name>
+		<name normalized="Region Stoleczny Brukseli" languages="Polish">Region Stołeczny Brukseli</name>
+		<name normalized="Regione di Bruxelles-Capitale" languages="Italian">Regione di Bruxelles-Capitale</name>
+		<name normalized="Regiunea Capitalei Bruxelles" languages="Romanian">Regiunea Capitalei Bruxelles</name>
+		<name normalized="Regio de Brussel.les-Capital" languages="Catalan">Regió de Brussel·les-Capital</name>
+		<name normalized="Region Brusel-hlavne mesto" languages="Slovak">Región Brusel-hlavné mesto</name>
+		<name normalized="Region de Bruselas-Capital" languages="Spanish">Región de Bruselas-Capital</name>
+		<name normalized="Rhanbarth Brwsel-Prifddinas" languages="Welsh">Rhanbarth Brwsel-Prifddinas</name>
+		<name normalized="Region de Bruxelles-Capitale" languages="French">Région de Bruxelles-Capitale</name>
+		<name normalized="Yn Vrussyl" languages="Manx">Yn Vrussyl</name>
+		<name normalized="Περιοχη των Βρυξελλων" languages="Greek">Περιοχή των Βρυξελλών</name>
+		<name normalized="Bрiсiл" languages="Macedonian">Брисел</name>
+		<name normalized="Bрuсiльсki сtaлicны рegiён" languages="Belarusian">Брусельскі сталічны рэгіён</name>
+		<name normalized="Bрuсeльсki сtaлicны рegiён" languages="biлaрuсkai (taрaskivita)‎">Брусэльскі сталічны рэгіён</name>
+		<name normalized="Bрюkсiл" languages="Bulgarian">Брюксел</name>
+		<name normalized="Bрюссiл" languages="Tajik">Брюссел</name>
+		<name normalized="Bрюссiль" languages="Hill Mari;Komi;Mongolian">Брюссель</name>
+		<name normalized="Bрюссiльсkiй сtoлicный рigioн" languages="Russian">Брюссельский столичный регион</name>
+		<name normalized="Bрюссiльсьkiй сtoлicнiй рigioн" languages="Ukrainian">Брюссельський столичний регіон</name>
+		<name normalized="Bрүссiль" languages="Sakha">Брүссель</name>
+		<name normalized="Рigioн gлavнog gрada Bрiсiлa" languages="Serbian">Регион главног града Брисела</name>
+		<name normalized="Brյvysեlի mայrաkաղաkային tաrաcաsrjան" languages="Armenian">Բրյուսելի մայրաքաղաքային տարածաշրջան</name>
+		<name normalized="brיסד" languages="Hebrew">בריסל</name>
+		<name normalized="brיסד rאיאן" languages="Yiddish">בריסל ראיאן</name>
+		<name normalized="إqلym brوkسل אلعאsmة" languages="Arabic">إقليم بروكسل العاصمة</name>
+		<name normalized="brسلز" languages="Urdu;Western Punjabi">برسلز</name>
+		<name normalized="brوکسل" languages="Persian">بروکسل</name>
+		<name normalized="brوکسێل" languages="Sorani Kurdish">بروکسێل</name>
+		<name normalized="ܒܪܘܟܣܠ" languages="Aramaic">ܒܪܘܟܣܠ</name>
+		<name normalized="b्rsel्s" languages="Marathi;Newari">ब्रसेल्स</name>
+		<name normalized="b्rusel्s" languages="Hindi">ब्रुसेल्स</name>
+		<name normalized="b্rাsel্‌s" languages="Bengali">ব্রাসেল্‌স</name>
+		<name normalized="brੱsls" languages="Punjabi">ਬਰੱਸਲਸ</name>
+		<name normalized="ବ୍ରସେଲେସ" languages="Oriya">ବ୍ରସେଲେସ</name>
+		<name normalized="பிரசெல்சு" languages="Tamil">பிரசெல்சு</name>
+		<name normalized="ಬ್ರಸೆಲ್ಸ್" languages="Kannada">ಬ್ರಸೆಲ್ಸ್</name>
+		<name normalized="ബ്രസൽസ്" languages="Malayalam">ബ്രസൽസ്</name>
+		<name normalized="บรัสเซลส์" languages="Thai">บรัสเซลส์</name>
+		<name normalized="པུའུ་ལུའུ་སེལ​།" languages="Tibetan">པུའུ་ལུའུ་སེལ​།</name>
+		<name normalized="ဘရပ်ဆဲလ်မြို့" languages="Burmese">ဘရပ်ဆဲလ်မြို့</name>
+		<name normalized="ბრიუსელი" languages="Georgian">ბრიუსელი</name>
+		<name normalized="ብሩክሴል" languages="Amharic">ብሩክሴል</name>
+		<name normalized="brytsr" languages="Japanese">ブリュッセル</name>
+		<name normalized="布魯塞爾首都區" languages="Cantonese">布魯塞爾首都區</name>
+		<name normalized="布鲁塞尔" languages="Chinese">布鲁塞尔</name>
+		<name normalized="브뤼셀" languages="Korean">브뤼셀</name>
+	</region>
+	<region name="Region Flamande" type="region" typeTranslated="gewest">
+		<name normalized="Region Flamande" languages="English;official">Region Flamande</name>
+		<name normalized="Region Flamande Gewest" languages="English;official">Region Flamande Gewest</name>
+	</region>
+	<region name="Region Wallone" type="region" typeTranslated="gewest">
+		<name normalized="Region Wallone" languages="English;official">Region Wallone</name>
+		<name normalized="Region Wallone Gewest" languages="English;official">Region Wallone Gewest</name>
+	</region>
+	<region name="Vlaams Gewest" type="region" typeTranslated="gewest">
+		<name normalized="Flaman Bolgesi" languages="Turkish">Flaman Bölgesi</name>
+		<name normalized="Flandra Regiono" languages="Esperanto">Flandra Regiono</name>
+		<name normalized="Flandria" languages="Basque;Estonian;Hungarian;Indonesian;Interlingue;Latin;Polish;Swahili">Flandria</name>
+		<name normalized="Flandrija" languages="Bosnian;Croatian;Latvian;Lithuanian;Serbo-Croatian">Flandrija</name>
+		<name normalized="Flemish Region" languages="English;official;Scots;Simple English">Flemish Region</name>
+		<name normalized="Flamsky region" languages="Slovak">Flámsky región</name>
+		<name normalized="Flamesch Regioun" languages="Luxembourgish">Flämesch Regioun</name>
+		<name normalized="Region Flamandzki" languages="Polish">Region Flamandzki</name>
+		<name normalized="Region Flamenca" languages="Spanish">Región Flamenca</name>
+		<name normalized="Region flamande" languages="French">Région flamande</name>
+		<name normalized="Vlaams Gewest" languages="Dutch;English;official;Waray">Vlaams Gewest</name>
+		<name normalized="Vlaams Gewest Region" languages="English;official">Vlaams Gewest Region</name>
+		<name normalized="Φλαμανδικη Περιοχη" languages="Greek">Φλαμανδική Περιοχή</name>
+		<name normalized="Флaмaнdiйы рigioн" languages="Ossetic">Фламандийы регион</name>
+		<name normalized="Флaмaнdсki рigioн" languages="Bulgarian">Фламандски регион</name>
+		<name normalized="Флaмaнdсkiй рigioн" languages="Russian">Фламандский регион</name>
+		<name normalized="Флaмaнdсki рegiён" languages="Belarusian">Фламандскі рэгіён</name>
+		<name normalized="Флaмaнсki рigioн" languages="Macedonian">Фламански регион</name>
+		<name normalized="Флiнdрыi" languages="biлaрuсkai (taрaskivita)‎">Фляндрыя</name>
+		<name normalized="Flանdrիա" languages="Armenian">Ֆլանդրիա</name>
+		<name normalized="אلإqلym אلfلאmندy" languages="Arabic">الإقليم الفلامندي</name>
+		<name normalized="fلیmش" languages="Western Punjabi">فلیمش</name>
+		<name normalized="p्lemis k्षet्r" languages="Hindi">फ्लेमिश क्षेत्र</name>
+		<name normalized="เขตฟลามส์" languages="Thai">เขตฟลามส์</name>
+		<name normalized="ფლანდრია" languages="Georgian;Mingrelian">ფლანდრია</name>
+		<name normalized="hrndrn地域" languages="Japanese">フランデレン地域</name>
+		<name normalized="弗拉芒大區" languages="Chinese">弗拉芒大區</name>
+		<name normalized="플라망 지역" languages="Korean">플라망 지역</name>
+	</region>
+	<region name="Vlaanderen" type="region" typeTranslated="gewest">
+		<name normalized="Fflandrys" languages="Welsh">Fflandrys</name>
+		<name normalized="Fiandre" languages="Italian">Fiandre</name>
+		<name normalized="Fiandri" languages="Sicilian">Fiandri</name>
+		<name normalized="Flaanderen" languages="Western Frisian">Flaanderen</name>
+		<name normalized="Flanderi" languages="Finnish">Flanderi</name>
+		<name normalized="Flandern" languages="Danish;German;Norwegian (bokmal);Norwegian Nynorsk;Swedish">Flandern</name>
+		<name normalized="Flanders" languages="English;Malay;official">Flanders</name>
+		<name normalized="Flandes" languages="Catalan;Spanish;Tagalog">Flandes</name>
+		<name normalized="Flandra" languages="Occitan;Romanian">Flandra</name>
+		<name normalized="Flandre" languages="English;French;official;Turkish">Flandre</name>
+		<name normalized="Flandres" languages="Aragonese;Galician;Portuguese">Flandres</name>
+		<name normalized="Flandrez" languages="Breton">Flandrez</name>
+		<name normalized="Flandria" languages="Basque;Estonian;Hungarian;Indonesian;Interlingue;Latin;Polish;Swahili">Flandria</name>
+		<name normalized="Flandrija" languages="Bosnian;Croatian;Latvian;Lithuanian;Serbo-Croatian">Flandrija</name>
+		<name normalized="Flandrio" languages="Esperanto">Flandrio</name>
+		<name normalized="Flannern" languages="Low German">Flannern</name>
+		<name normalized="Flaemingjaland" languages="Icelandic">Flæmingjaland</name>
+		<name normalized="Flondras" languages="Irish">Flóndras</name>
+		<name normalized="Vlaandere" languages="Afrikaans">Vlaandere</name>
+		<name normalized="Vlaanderen" languages="Dutch;English;Low Saxon (Netherlands);official;Papiamento;Vietnamese">Vlaanderen</name>
+		<name normalized="Vlaanderen Gewest" languages="English;official">Vlaanderen Gewest</name>
+		<name normalized="Vlaanderen Region" languages="English;official">Vlaanderen Region</name>
+		<name normalized="Vlaondere" languages="Limburgish">Vlaondere</name>
+		<name normalized="Vlaonderen" languages="Zeeuws">Vlaonderen</name>
+		<name normalized="Vloandern" languages="West-Vlams">Vloandern</name>
+		<name normalized="Vlamsko" languages="Czech">Vlámsko</name>
+		<name normalized="Yn Flandyryn" languages="Manx">Yn Flandyryn</name>
+		<name normalized="Φλανδρα" languages="Greek">Φλάνδρα</name>
+		<name normalized="Флaнdрi" languages="Chuvash">Фландри</name>
+		<name normalized="Флaнdрii" languages="Russian">Фландрия</name>
+		<name normalized="Флaнdрija" languages="Macedonian;Serbian">Фландрија</name>
+		<name normalized="Флaнdрыi" languages="Belarusian">Фландрыя</name>
+		<name normalized="Флaнdрii" languages="Ukrainian">Фландрія</name>
+		<name normalized="Flանdrիա" languages="Armenian">Ֆլանդրիա</name>
+		<name normalized="pדאnדעrן" languages="Yiddish">פלאנדערן</name>
+		<name normalized="pדnדrיh" languages="Hebrew">פלנדריה</name>
+		<name normalized="fلאندr" languages="Egyptian Spoken Arabic;Persian">فلاندر</name>
+		<name normalized="fلאندrز" languages="Arabic">فلاندرز</name>
+		<name normalized="fلینڈrس" languages="Urdu">فلینڈرس</name>
+		<name normalized="p्lांडr्s" languages="Marathi">फ्लांडर्स</name>
+		<name normalized="แฟลนเดอส์" languages="Thai">แฟลนเดอส์</name>
+		<name normalized="hrndr" languages="Japanese">フランドル</name>
+		<name normalized="法兰德斯" languages="Chinese">法兰德斯</name>
+		<name normalized="플랑드르" languages="Korean">플랑드르</name>
+	</region>
+	<region name="Waals Gewest" type="region" typeTranslated="gewest">
+		<name normalized="Waals Gewest" languages="English;official">Waals Gewest</name>
+		<name normalized="Waals Gewest Region" languages="English;official">Waals Gewest Region</name>
+	</region>
+	<region name="Wallonie" type="region" typeTranslated="gewest">
+		<name normalized="An Valloin" languages="Irish">An Vallóin</name>
+		<name normalized="Region Walonski" languages="Polish">Region Waloński</name>
+		<name normalized="Region Valona" languages="Spanish">Región Valona</name>
+		<name normalized="Region wallonne" languages="French">Région wallonne</name>
+		<name normalized="Vallonia" languages="Finnish;Italian;Norwegian (bokmal)">Vallonia</name>
+		<name normalized="Vallonien" languages="Danish;Swedish">Vallonien</name>
+		<name normalized="Valloonia" languages="Estonian">Valloonia</name>
+		<name normalized="Vallonia" languages="Hungarian">Vallónia</name>
+		<name normalized="Valon Bolgesi" languages="Turkish">Valon Bölgesi</name>
+		<name normalized="Valonia" languages="Aragonese;Basque;Galician;lumbaart;Occitan;Romanian;Tagalog">Valonia</name>
+		<name normalized="Valonija" languages="Bosnian;Croatian;Latvian;Lithuanian;Serbo-Croatian;Slovenian">Valonija</name>
+		<name normalized="Valonio" languages="Esperanto">Valonio</name>
+		<name normalized="Valonsko" languages="Czech">Valonsko</name>
+		<name normalized="Valonia" languages="Catalan">Valònia</name>
+		<name normalized="Valonsky region" languages="Slovak">Valónsky región</name>
+		<name normalized="Valonia" languages="Portuguese">Valônia</name>
+		<name normalized="Waalnlaand" languages="Low Saxon (Netherlands)">Waalnlaand</name>
+		<name normalized="Walloanje" languages="Western Frisian">Walloanje</name>
+		<name normalized="Wallonia" languages="Breton;English;Latin;official;Simple English;Swahili">Wallonia</name>
+		<name normalized="Wallonie" languages="Chinese (Min Nan);English;official;Papiamento;Scots;Vietnamese;Waray">Wallonie</name>
+		<name normalized="Wallonie Gewest" languages="English;official">Wallonie Gewest</name>
+		<name normalized="Wallonie Region" languages="English;official">Wallonie Region</name>
+		<name normalized="Wallonische Region" languages="German">Wallonische Region</name>
+		<name normalized="Wallonie" languages="Afrikaans;Dutch;Limburgish;West-Vlams;Zeeuws">Wallonië</name>
+		<name normalized="Wallounesch Regioun" languages="Luxembourgish">Wallounesch Regioun</name>
+		<name normalized="Walonia" languages="Indonesian;Malay;Welsh">Walonia</name>
+		<name normalized="Walonnie" languages="Picard">Walonnie</name>
+		<name normalized="Walonreye" languages="Walloon">Walonreye</name>
+		<name normalized="Walonya" languages="Kurdish">Walonya</name>
+		<name normalized="Yn Walloon" languages="Manx">Yn Walloon</name>
+		<name normalized="Βαλλωνικη Περιοχη" languages="Greek">Βαλλωνική Περιοχή</name>
+		<name normalized="Vaллoнi" languages="Ossetic">Валлони</name>
+		<name normalized="Vaллoнii" languages="Russian">Валлония</name>
+		<name normalized="Vaллoнii" languages="Ukrainian">Валлонія</name>
+		<name normalized="Vaлoнii" languages="Bulgarian">Валония</name>
+		<name normalized="Vaлoнija" languages="Macedonian;Serbian">Валонија</name>
+		<name normalized="Vaлoнii" languages="Belarusian">Валонія</name>
+		<name normalized="Vaлёнii" languages="biлaрuсkai (taрaskivita)‎">Валёнія</name>
+		<name normalized="Վաlvնիա" languages="Armenian">Վալոնիա</name>
+		<name normalized="vvאדאnיע" languages="Yiddish">וואלאניע</name>
+		<name normalized="vדvnיh" languages="Hebrew">ולוניה</name>
+		<name normalized="وאلونyא" languages="Arabic">والونيا</name>
+		<name normalized="وאلونی" languages="Persian">والونی</name>
+		<name normalized="وאلونیא" languages="Urdu">والونیا</name>
+		<name normalized="ویلونیא" languages="Western Punjabi">ویلونیا</name>
+		<name normalized="vाloni" languages="Marathi">वालोनी</name>
+		<name normalized="เขตวัลลูน" languages="Thai">เขตวัลลูน</name>
+		<name normalized="ვალონია" languages="Georgian">ვალონია</name>
+		<name normalized="wrn地域" languages="Japanese">ワロン地域</name>
+		<name normalized="瓦隆" languages="Chinese">瓦隆</name>
+		<name normalized="왈롱" languages="Korean">왈롱</name>
+	</region>
+	<region name="Walloon Region" type="region" typeTranslated="gewest">
+		<name normalized="An Valloin" languages="Irish">An Vallóin</name>
+		<name normalized="Region Walonski" languages="Polish">Region Waloński</name>
+		<name normalized="Region Valona" languages="Spanish">Región Valona</name>
+		<name normalized="Region wallonne" languages="French">Région wallonne</name>
+		<name normalized="Vallonia" languages="Finnish;Italian;Norwegian (bokmal)">Vallonia</name>
+		<name normalized="Vallonien" languages="Danish;Swedish">Vallonien</name>
+		<name normalized="Valloonia" languages="Estonian">Valloonia</name>
+		<name normalized="Vallonia" languages="Hungarian">Vallónia</name>
+		<name normalized="Valon Bolgesi" languages="Turkish">Valon Bölgesi</name>
+		<name normalized="Valonia" languages="Aragonese;Basque;Galician;lumbaart;Occitan;Romanian;Tagalog">Valonia</name>
+		<name normalized="Valonija" languages="Bosnian;Croatian;Latvian;Lithuanian;Serbo-Croatian;Slovenian">Valonija</name>
+		<name normalized="Valonio" languages="Esperanto">Valonio</name>
+		<name normalized="Valonsko" languages="Czech">Valonsko</name>
+		<name normalized="Valonia" languages="Catalan">Valònia</name>
+		<name normalized="Valonsky region" languages="Slovak">Valónsky región</name>
+		<name normalized="Valonia" languages="Portuguese">Valônia</name>
+		<name normalized="Waalnlaand" languages="Low Saxon (Netherlands)">Waalnlaand</name>
+		<name normalized="Walloanje" languages="Western Frisian">Walloanje</name>
+		<name normalized="Wallonia" languages="Breton;English;Latin;official;Simple English;Swahili">Wallonia</name>
+		<name normalized="Wallonia Gewest" languages="English;official">Wallonia Gewest</name>
+		<name normalized="Wallonia Region" languages="English;official">Wallonia Region</name>
+		<name normalized="Wallonie" languages="Chinese (Min Nan);English;official;Papiamento;Scots;Vietnamese;Waray">Wallonie</name>
+		<name normalized="Wallonische Region" languages="German">Wallonische Region</name>
+		<name normalized="Wallonie" languages="Afrikaans;Dutch;Limburgish;West-Vlams;Zeeuws">Wallonië</name>
+		<name normalized="Walloon Region" languages="English;official">Walloon Region</name>
+		<name normalized="Walloon Region Gewest" languages="English;official">Walloon Region Gewest</name>
+		<name normalized="Wallounesch Regioun" languages="Luxembourgish">Wallounesch Regioun</name>
+		<name normalized="Walonia" languages="Indonesian;Malay;Welsh">Walonia</name>
+		<name normalized="Walonnie" languages="Picard">Walonnie</name>
+		<name normalized="Walonreye" languages="Walloon">Walonreye</name>
+		<name normalized="Walonya" languages="Kurdish">Walonya</name>
+		<name normalized="Yn Walloon" languages="Manx">Yn Walloon</name>
+		<name normalized="Βαλλωνικη Περιοχη" languages="Greek">Βαλλωνική Περιοχή</name>
+		<name normalized="Vaллoнi" languages="Ossetic">Валлони</name>
+		<name normalized="Vaллoнii" languages="Russian">Валлония</name>
+		<name normalized="Vaллoнii" languages="Ukrainian">Валлонія</name>
+		<name normalized="Vaлoнii" languages="Bulgarian">Валония</name>
+		<name normalized="Vaлoнija" languages="Macedonian;Serbian">Валонија</name>
+		<name normalized="Vaлoнii" languages="Belarusian">Валонія</name>
+		<name normalized="Vaлёнii" languages="biлaрuсkai (taрaskivita)‎">Валёнія</name>
+		<name normalized="Վաlvնիա" languages="Armenian">Վալոնիա</name>
+		<name normalized="vvאדאnיע" languages="Yiddish">וואלאניע</name>
+		<name normalized="vדvnיh" languages="Hebrew">ולוניה</name>
+		<name normalized="وאلونyא" languages="Arabic">والونيا</name>
+		<name normalized="وאلونی" languages="Persian">والونی</name>
+		<name normalized="وאلونیא" languages="Urdu">والونیا</name>
+		<name normalized="ویلونیא" languages="Western Punjabi">ویلونیا</name>
+		<name normalized="vाloni" languages="Marathi">वालोनी</name>
+		<name normalized="เขตวัลลูน" languages="Thai">เขตวัลลูน</name>
+		<name normalized="ვალონია" languages="Georgian">ვალონია</name>
+		<name normalized="wrn地域" languages="Japanese">ワロン地域</name>
+		<name normalized="瓦隆" languages="Chinese">瓦隆</name>
+		<name normalized="왈롱" languages="Korean">왈롱</name>
+	</region>
+</regions>

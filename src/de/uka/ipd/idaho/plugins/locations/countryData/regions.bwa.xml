@@ -1,0 +1,331 @@
+<regions country="Botswana">
+	<region name="Central" type="district" typeTranslated="district">
+		<name normalized="Central" languages="Breton;Dutch;English;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Simple English;Spanish;Swedish;Vietnamese;Volapuk">Central</name>
+		<name normalized="Central District" languages="English;Finnish;German;official">Central District</name>
+		<name normalized="Centrinis rajonas" languages="Lithuanian">Centrinis rajonas</name>
+		<name normalized="Distretto Centrale" languages="Italian">Distretto Centrale</name>
+		<name normalized="District central" languages="French">District central</name>
+		<name normalized="Districtul Central" languages="Romanian">Districtul Central</name>
+		<name normalized="Distrito Central" languages="Spanish">Distrito Central</name>
+		<name normalized="Distritu Central" languages="Asturian">Distritu Central</name>
+		<name normalized="Dystrykt Central" languages="Polish">Dystrykt Central</name>
+		<name normalized="Erdialdea" languages="Basque">Erdialdea</name>
+		<name normalized="Kgaolo ya Legare" languages="Tswana">Kgaolo ya Legare</name>
+		<name normalized="Merkez Bolgesi" languages="Turkish">Merkez Bölgesi</name>
+		<name normalized="Sentraal distrik" languages="Afrikaans">Sentraal distrik</name>
+		<name normalized="Κεντρικη Περιφeρεια" languages="Greek">Κεντρική Περιφέρεια</name>
+		<name normalized="Сiнtрaл" languages="Serbian">Сентрал</name>
+		<name normalized="Tiнtрaлiн okрug" languages="Macedonian">Централен округ</name>
+		<name normalized="Tiнtрaлнa obлaсt" languages="Bulgarian">Централна област</name>
+		<name normalized="Tiнtрaль" languages="Russian">Централь</name>
+		<name normalized="Tiнtрaльный okрug" languages="Russian">Центральный округ</name>
+		<name normalized="Teнtрaльнai akрuga" languages="Belarusian">Цэнтральная акруга</name>
+		<name normalized="Teнtрaльнai akрuga Batсvaны" languages="biлaрuсkai (taрaskivita)‎">Цэнтральная акруга Батсваны</name>
+		<name normalized="sوbہ سینٹrل" languages="Western Punjabi">صوبہ سینٹرل</name>
+		<name normalized="mrکزی" languages="Persian">مرکزی</name>
+		<name normalized="sen্ট্rাl" languages="Bishnupria Manipuri">সেন্ট্রাল</name>
+		<name normalized="சென்ட்ரல்" languages="Tamil">சென்ட்ரல்</name>
+		<name normalized="กลาง" languages="Thai">กลาง</name>
+		<name normalized="sntrr" languages="Japanese">セントラル</name>
+		<name normalized="sntrr地区" languages="Japanese">セントラル地区</name>
+		<name normalized="中" languages="Chinese;Gan">中</name>
+		<name normalized="中部區" languages="Chinese">中部區</name>
+		<name normalized="센트럴" languages="Korean">센트럴</name>
+		<name normalized="중부 구" languages="Korean">중부 구</name>
+	</region>
+	<region name="Francistown" type="town council" typeTranslated="town council">
+		<name normalized="Francistown" languages="Afrikaans;Breton;Croatian;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Shona;Spanish;Swedish;Tswana;Turkish;Waray">Francistown</name>
+		<name normalized="Frensistaun" languages="Azerbaijani">Frensistaun</name>
+		<name normalized="Frensistaunas" languages="Lithuanian">Frensistaunas</name>
+		<name normalized="Φρανσισταουν" languages="Greek">Φράνσισταουν</name>
+		<name normalized="Goрad Фрaнсiсtaўн" languages="Belarusian">Горад Франсістаўн</name>
+		<name normalized="Фрaнсiсtauн" languages="Bulgarian;Russian">Франсистаун</name>
+		<name normalized="frאنسیسtوون, bوtسوאنא" languages="Persian">فرانسیستوون، بوتسوانا</name>
+		<name normalized="แฟรนซิสทาวน์" languages="Thai">แฟรนซิสทาวน์</name>
+		<name normalized="hrnsstun" languages="Japanese">フランシスタウン</name>
+		<name normalized="弗朗西斯敦" languages="Chinese">弗朗西斯敦</name>
+		<name normalized="프랜시스타운" languages="Korean">프랜시스타운</name>
+	</region>
+	<region name="Gaborone" type="town council" typeTranslated="town council">
+		<name normalized="Gaberono" languages="Esperanto">Gaberono</name>
+		<name normalized="Gaboronas" languages="Lithuanian">Gaboronas</name>
+		<name normalized="Gaborone" languages="Afrikaans;Albanian;Aragonese;Asturian;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;Franco-Provencal;French;Galician;German;Hungarian;Ido;Indonesian;Interlingue;Irish;Italian;Javanese;Kinyarwanda;Latin;Latvian;lumbaart;Luxembourgish;Malagasy;Malay;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Piedmontese;Polish;Portuguese;Quechua;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Slovak;Slovenian;Somali;Spanish;Swahili;Swedish;Tagalog;Tswana;Turkish;Uzbek;Vietnamese;veneto;Waray;Welsh;Western Frisian;Yoruba">Gaborone</name>
+		<name normalized="Gaboron" languages="Haitian">Gaboròn</name>
+		<name normalized="Gaborone" languages="Icelandic">Gaboróne</name>
+		<name normalized="IGaborone" languages="Zulu">IGaborone</name>
+		<name normalized="Qaborone" languages="Azerbaijani">Qaborone</name>
+		<name normalized="Γκαμπορονε" languages="Greek">Γκαμπορόνε</name>
+		<name normalized="Gabaрoнe" languages="biлaрuсkai (taрaskivita)‎">Габаронэ</name>
+		<name normalized="Gaboрoнi" languages="Bulgarian;Chechen;Kyrgyz;Macedonian;Russian;Serbian;Tajik;Udmurt;Ukrainian">Габороне</name>
+		<name normalized="Goрad Gabaрoнe" languages="Belarusian">Горад Габаронэ</name>
+		<name normalized="Գաbvrvնե" languages="Armenian">Գաբորոնե</name>
+		<name normalized="גאbאrאן" languages="Yiddish">גאבאראן</name>
+		<name normalized="גאbvrvן" languages="Hebrew">גאבורון</name>
+		<name normalized="jאbوrون" languages="Arabic;Egyptian Spoken Arabic">جابورون</name>
+		<name normalized="gאbوrون" languages="Persian;Western Punjabi">گابورون</name>
+		<name normalized="gאbۆrۆن" languages="Sorani Kurdish">گابۆرۆن</name>
+		<name normalized="gbrون" languages="Urdu">گبرون</name>
+		<name normalized="gebाroni" languages="Marathi">गॅबारोनी</name>
+		<name normalized="gobor्ni" languages="Hindi">गोबोर्नी</name>
+		<name normalized="gਾbੋrੋni" languages="Punjabi">ਗਾਬੋਰੋਨੀ</name>
+		<name normalized="காபரோனி" languages="Tamil">காபரோனி</name>
+		<name normalized="กาโบโรเน" languages="Thai">กาโบโรเน</name>
+		<name normalized="ག་བོ་རོ་ནི།" languages="Tibetan">ག་བོ་རོ་ནི།</name>
+		<name normalized="გაბორონე" languages="Georgian">გაბორონე</name>
+		<name normalized="ጋበሮኔ" languages="Amharic">ጋበሮኔ</name>
+		<name normalized="hbrーn" languages="Japanese">ハボローネ</name>
+		<name normalized="嘉柏隆里" languages="Chinese">嘉柏隆里</name>
+		<name normalized="嘉波隆里" languages="Cantonese">嘉波隆里</name>
+		<name normalized="가보로네" languages="Korean">가보로네</name>
+	</region>
+	<region name="Ghanzi" type="district" typeTranslated="district">
+		<name normalized="Ciuda de Ghanzi" languages="Asturian">Ciudá de Ghanzi</name>
+		<name normalized="Distretto di Ghanzi" languages="Italian">Distretto di Ghanzi</name>
+		<name normalized="District de Ghanzi" languages="French">District de Ghanzi</name>
+		<name normalized="Districtul Ghanzi" languages="Romanian">Districtul Ghanzi</name>
+		<name normalized="Distrito de Ghanzi" languages="Spanish">Distrito de Ghanzi</name>
+		<name normalized="Dystrykt Ghanzi" languages="Polish">Dystrykt Ghanzi</name>
+		<name normalized="Ganzio rajonas" languages="Lithuanian">Ganzio rajonas</name>
+		<name normalized="Ganzis" languages="Lithuanian">Ganzis</name>
+		<name normalized="Ghanzi" languages="Afrikaans;Asturian;Basque;Breton;Croatian;Danish;Dutch;English;Finnish;French;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Swahili;Swedish;Tswana">Ghanzi</name>
+		<name normalized="Ghanzi Bolgesi" languages="Turkish">Ghanzi Bölgesi</name>
+		<name normalized="Ghanzi District" languages="English;German;official">Ghanzi District</name>
+		<name normalized="Ghanzi distrik" languages="Afrikaans">Ghanzi distrik</name>
+		<name normalized="Kgaolo ya Ghanzi" languages="Tswana">Kgaolo ya Ghanzi</name>
+		<name normalized="Γκανζι" languages="Greek">Γκάνζι</name>
+		<name normalized="Περιφeρεια Γκανζι" languages="Greek">Περιφέρεια Γκάνζι</name>
+		<name normalized="Akрuga Gaнzi" languages="Belarusian">Акруга Ганзі</name>
+		<name normalized="Gaнzi" languages="Bulgarian;Macedonian;Russian">Ганзи</name>
+		<name normalized="Gaнzi" languages="biлaрuсkai (taрaskivita)‎">Ганзі</name>
+		<name normalized="Goрad Gaнzi" languages="Belarusian">Горад Ганзі</name>
+		<name normalized="sوbہ غאنزی" languages="Western Punjabi">صوبہ غانزی</name>
+		<name normalized="ghאنزی, bوtسوאنא" languages="Persian">گهانزی، بوتسوانا</name>
+		<name normalized="hnti" languages="Japanese">ハンツィ</name>
+		<name normalized="hnti地区" languages="Japanese">ハンツィ地区</name>
+		<name normalized="杭濟" languages="Chinese">杭濟</name>
+		<name normalized="杭濟區" languages="Chinese">杭濟區</name>
+		<name normalized="간지" languages="Korean">간지</name>
+		<name normalized="간지 구" languages="Korean">간지 구</name>
+	</region>
+	<region name="Jwaneng" type="town council" typeTranslated="town council">
+		<name normalized="Jwaneng" languages="Afrikaans;English;French;Italian;official;Polish;Romanian;Swedish">Jwaneng</name>
+		<name normalized="Toropo ya Jwaneng" languages="Tswana">Toropo ya Jwaneng</name>
+		<name normalized="Τζουανeνγκ" languages="Greek">Τζουανένγκ</name>
+		<name normalized="Dzvaнiнg" languages="Russian">Джваненг</name>
+		<name normalized="یوאننg, bوtسوאنא" languages="Persian">یواننگ، بوتسوانا</name>
+		<name normalized="朱瓦能" languages="Chinese">朱瓦能</name>
+	</region>
+	<region name="Kgalagadi" type="district" typeTranslated="district">
+		<name normalized="Distretto di Kgalagadi" languages="Italian">Distretto di Kgalagadi</name>
+		<name normalized="District de Kgalagadi" languages="French">District de Kgalagadi</name>
+		<name normalized="Districtul Kgalagadi" languages="Romanian">Districtul Kgalagadi</name>
+		<name normalized="Distrito de Kgalagadi" languages="Spanish">Distrito de Kgalagadi</name>
+		<name normalized="Dystrykt Kgalagadi" languages="Polish">Dystrykt Kgalagadi</name>
+		<name normalized="Kgalagadi" languages="Afrikaans;Asturian;Basque;Breton;Dutch;English;Finnish;Italian;Norwegian (bokmal);official;Portuguese;Swedish">Kgalagadi</name>
+		<name normalized="Kgalagadi Bolgesi" languages="Turkish">Kgalagadi Bölgesi</name>
+		<name normalized="Kgalagadi District" languages="English;German;Norwegian (bokmal);official">Kgalagadi District</name>
+		<name normalized="Kgalagadi distrik" languages="Afrikaans">Kgalagadi distrik</name>
+		<name normalized="Kgalagadi le dikgaolo tse di mabapi" languages="Tswana">Kgalagadi le dikgaolo tse di mabapi</name>
+		<name normalized="Kgalagadzio rajonas" languages="Lithuanian">Kgalagadžio rajonas</name>
+		<name normalized="Περιφeρεια Κγκαλαγκαντι" languages="Greek">Περιφέρεια Κγκαλαγκάντι</name>
+		<name normalized="Akрuga Kgaлagadzi" languages="Belarusian">Акруга Кгалагадзі</name>
+		<name normalized="Kgaлagadzi" languages="biлaрuсkai (taрaskivita)‎">Кгалагадзі</name>
+		<name normalized="Kgaлagadi" languages="Macedonian;Russian">Кгалагади</name>
+		<name normalized="Obлaсt Kgaлagadi" languages="Bulgarian">Област Кгалагади</name>
+		<name normalized="sوbہ کgאلאgدی" languages="Western Punjabi">صوبہ کگالاگدی</name>
+		<name normalized="krhr地区" languages="Japanese">カラハリ地区</name>
+		<name normalized="卡拉哈迪區" languages="Chinese">卡拉哈迪區</name>
+		<name normalized="크갈라가디 구" languages="Korean">크갈라가디 구</name>
+	</region>
+	<region name="Kgatleng" type="district" typeTranslated="district">
+		<name normalized="Distretto di Kgatleng" languages="Italian">Distretto di Kgatleng</name>
+		<name normalized="District de Kgatleng" languages="French">District de Kgatleng</name>
+		<name normalized="Districtul Kgatleng" languages="Romanian">Districtul Kgatleng</name>
+		<name normalized="Distrito de Kgatleng" languages="Spanish">Distrito de Kgatleng</name>
+		<name normalized="Dystrykt Kgatleng" languages="Polish">Dystrykt Kgatleng</name>
+		<name normalized="Kgatleng" languages="Asturian;Basque;Breton;Dutch;English;Finnish;Norwegian (bokmal);official;Portuguese;Swedish">Kgatleng</name>
+		<name normalized="Kgatleng Bolgesi" languages="Turkish">Kgatleng Bölgesi</name>
+		<name normalized="Kgatleng District" languages="English;German;official">Kgatleng District</name>
+		<name normalized="Kgatleng distrik" languages="Afrikaans">Kgatleng distrik</name>
+		<name normalized="Kgatlengo rajonas" languages="Lithuanian">Kgatlengo rajonas</name>
+		<name normalized="Περιφeρεια Κγκατλeνγκ" languages="Greek">Περιφέρεια Κγκατλένγκ</name>
+		<name normalized="Akрuga Kgatлiнg" languages="Belarusian">Акруга Кгатленг</name>
+		<name normalized="Kgatлiнg" languages="Macedonian;Russian">Кгатленг</name>
+		<name normalized="Kgatлeнg" languages="biлaрuсkai (taрaskivita)‎">Кгатлэнг</name>
+		<name normalized="Obлaсt Kgatлiнg" languages="Bulgarian">Област Кгатленг</name>
+		<name normalized="sوbہ کgאtلنg" languages="Western Punjabi">صوبہ کگاتلنگ</name>
+		<name normalized="ktrn地区" languages="Japanese">カトレン地区</name>
+		<name normalized="卡特倫區" languages="Chinese">卡特倫區</name>
+		<name normalized="크가틀렝 구" languages="Korean">크가틀렝 구</name>
+	</region>
+	<region name="Kweneng" type="district" typeTranslated="district">
+		<name normalized="Distretto di Kweneng" languages="Italian">Distretto di Kweneng</name>
+		<name normalized="District de Kweneng" languages="French">District de Kweneng</name>
+		<name normalized="Districtul Kweneng" languages="Romanian">Districtul Kweneng</name>
+		<name normalized="Distrikto Kweneng" languages="Esperanto">Distrikto Kweneng</name>
+		<name normalized="Distrito de Kweneng" languages="Spanish">Distrito de Kweneng</name>
+		<name normalized="Dystrykt Kweneng" languages="Polish">Dystrykt Kweneng</name>
+		<name normalized="Kvenengo rajonas" languages="Lithuanian">Kvenengo rajonas</name>
+		<name normalized="Kweneng" languages="Asturian;Basque;Breton;Dutch;English;Finnish;French;Italian;Malagasy;Norwegian (bokmal);Occitan;official;Polish;Portuguese;Swedish">Kweneng</name>
+		<name normalized="Kweneng Bolgesi" languages="Turkish">Kweneng Bölgesi</name>
+		<name normalized="Kweneng District" languages="English;German;official">Kweneng District</name>
+		<name normalized="Kweneng distrik" languages="Afrikaans">Kweneng distrik</name>
+		<name normalized="Περιφeρεια Κουενeνγκ" languages="Greek">Περιφέρεια Κουενένγκ</name>
+		<name normalized="Akрuga Kviнiнg" languages="Belarusian">Акруга Квененг</name>
+		<name normalized="Kviнiнg" languages="Macedonian;Russian">Квененг</name>
+		<name normalized="Kveнeнg" languages="biлaрuсkai (taрaskivita)‎">Квэнэнг</name>
+		<name normalized="Kuiнiнg" languages="Bulgarian">Куененг</name>
+		<name normalized="sوbہ کویننg" languages="Western Punjabi">صوبہ کویننگ</name>
+		<name normalized="kuenn地区" languages="Japanese">クウェネン地区</name>
+		<name normalized="奎嫩區" languages="Chinese">奎嫩區</name>
+		<name normalized="크웨넹 구" languages="Korean">크웨넹 구</name>
+	</region>
+	<region name="Lobatse" type="town council" typeTranslated="town council">
+		<name normalized="Lobatse" languages="Afrikaans;Breton;Croatian;Dutch;English;Estonian;Finnish;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Swedish;Tswana">Lobatse</name>
+		<name normalized="Λομπατσε" languages="Greek">Λομπάτσε</name>
+		<name normalized="Лobati" languages="Russian">Лобаце</name>
+		<name normalized="لوbאtس, bوtسوאنא" languages="Persian">لوباتس، بوتسوانا</name>
+		<name normalized="rbte" languages="Japanese">ロバツェ</name>
+		<name normalized="洛巴策" languages="Chinese">洛巴策</name>
+	</region>
+	<region name="North East" type="district" typeTranslated="district">
+		<name normalized="Boxing the compass" languages="Indonesian">Boxing the compass</name>
+		<name normalized="Distretto Nordorientale" languages="Italian">Distretto Nordorientale</name>
+		<name normalized="District du Nord-Est" languages="French">District du Nord-Est</name>
+		<name normalized="Districtul North-East" languages="Romanian">Districtul North-East</name>
+		<name normalized="Distrito Noreste" languages="Spanish">Distrito Noreste</name>
+		<name normalized="Distritu noreste" languages="Asturian">Distritu noreste</name>
+		<name normalized="Dystrykt North East" languages="Polish">Dystrykt North East</name>
+		<name normalized="Ipar-ekialdea" languages="Basque">Ipar-ekialdea</name>
+		<name normalized="Kerte" languages="Turkish">Kerte</name>
+		<name normalized="Kuzeydogu Bolgesi" languages="Turkish">Kuzeydoğu Bölgesi</name>
+		<name normalized="Noord-Oos distrik" languages="Afrikaans">Noord-Oos distrik</name>
+		<name normalized="Nordeste" languages="Portuguese">Nordeste</name>
+		<name normalized="North East" languages="English;official">North East</name>
+		<name normalized="North East District" languages="English;official">North East District</name>
+		<name normalized="North-East" languages="Breton;Dutch;Norwegian (bokmal)">North-East</name>
+		<name normalized="North-East District" languages="English;Finnish;German">North-East District</name>
+		<name normalized="Northeast" languages="Swedish">Northeast</name>
+		<name normalized="Pemberian nama titik utama kompas" languages="Malay">Pemberian nama titik utama kompas</name>
+		<name normalized="Points of the compass" languages="English">Points of the compass</name>
+		<name normalized="Rhumb" languages="French">Rhumb</name>
+		<name normalized="Rumb" languages="Polish">Rumb</name>
+		<name normalized="Siaures rytu rajonas" languages="Lithuanian">Šiaurės rytų rajonas</name>
+		<name normalized="Βορειοανατολικη Περιφeρεια" languages="Greek">Βορειοανατολική Περιφέρεια</name>
+		<name normalized="Paўнocнa-uсkodнii akрuga" languages="Belarusian">Паўночна-усходняя акруга</name>
+		<name normalized="Paўнocнa-ўсkodнii akрuga Batсvaны" languages="biлaрuсkai (taрaskivita)‎">Паўночна-ўсходняя акруга Батсваны</name>
+		<name normalized="Рuмb" languages="Russian;Ukrainian">Румб</name>
+		<name normalized="Сiviрo-Voсtocный okрug" languages="Russian">Северо-Восточный округ</name>
+		<name normalized="Сiviрoiсtociн okрug" languages="Macedonian">Североисточен округ</name>
+		<name normalized="אtjאhאt אلbوsلة" languages="Arabic">اتجاهات البوصلة</name>
+		<name normalized="نאmgذאrی bh trtیb نqאt qtb‌نmא" languages="Persian">نامگذاری به ترتیب نقاط قطب‌نما</name>
+		<name normalized="nーsiーst地区" languages="Japanese">ノースイースト地区</name>
+		<name normalized="東北區" languages="Chinese">東北區</name>
+		<name normalized="罗盘方位" languages="Chinese">罗盘方位</name>
+		<name normalized="북동부 구" languages="Korean">북동부 구</name>
+	</region>
+	<region name="North West" type="district" typeTranslated="district">
+		<name normalized="Boxing the compass" languages="Indonesian">Boxing the compass</name>
+		<name normalized="Distretto Nordoccidentale" languages="Italian">Distretto Nordoccidentale</name>
+		<name normalized="District du Nord-Ouest" languages="French">District du Nord-Ouest</name>
+		<name normalized="Districtul North-West" languages="Romanian">Districtul North-West</name>
+		<name normalized="Distrito Noroeste" languages="Spanish">Distrito Noroeste</name>
+		<name normalized="Distritu Noroeste" languages="Asturian">Distritu Noroeste</name>
+		<name normalized="Dystrykt North West" languages="Polish">Dystrykt North West</name>
+		<name normalized="Ipar-mendebaldea" languages="Basque">Ipar-mendebaldea</name>
+		<name normalized="Kerte" languages="Turkish">Kerte</name>
+		<name normalized="Kuzeybatı Bolgesi" languages="Turkish">Kuzeybatı Bölgesi</name>
+		<name normalized="Noord-Wes distrik" languages="Afrikaans">Noord-Wes distrik</name>
+		<name normalized="Noroeste" languages="Portuguese">Noroeste</name>
+		<name normalized="North West" languages="English;official">North West</name>
+		<name normalized="North West District" languages="English;official">North West District</name>
+		<name normalized="North-West" languages="Breton;Dutch;Norwegian (bokmal)">North-West</name>
+		<name normalized="North-West District" languages="Danish;English;Finnish;German">North-West District</name>
+		<name normalized="Northwest" languages="Swedish">Northwest</name>
+		<name normalized="Pemberian nama titik utama kompas" languages="Malay">Pemberian nama titik utama kompas</name>
+		<name normalized="Points of the compass" languages="English">Points of the compass</name>
+		<name normalized="Rhumb" languages="French">Rhumb</name>
+		<name normalized="Rumb" languages="Polish">Rumb</name>
+		<name normalized="Siaures vakaru rajonas" languages="Lithuanian">Šiaurės vakarų rajonas</name>
+		<name normalized="Βορειοδυτικη Περιφeρεια" languages="Greek">Βορειοδυτική Περιφέρεια</name>
+		<name normalized="Paўнocнa-zakodнii akрuga" languages="Belarusian">Паўночна-заходняя акруга</name>
+		<name normalized="Paўнocнa-zakodнii akрuga Batсvaны" languages="biлaрuсkai (taрaskivita)‎">Паўночна-заходняя акруга Батсваны</name>
+		<name normalized="Рuмb" languages="Russian;Ukrainian">Румб</name>
+		<name normalized="Сiviрo-Zapadный okрug" languages="Russian">Северо-Западный округ</name>
+		<name normalized="Сiviрozapadiн okрug" languages="Macedonian">Северозападен округ</name>
+		<name normalized="Сiviрozapadнa obлaсt" languages="Bulgarian">Северозападна област</name>
+		<name normalized="אtjאhאt אلbوsلة" languages="Arabic">اتجاهات البوصلة</name>
+		<name normalized="نאmgذאrی bh trtیb نqאt qtb‌نmא" languages="Persian">نامگذاری به ترتیب نقاط قطب‌نما</name>
+		<name normalized="nーsuest地区" languages="Japanese">ノースウェスト地区</name>
+		<name normalized="罗盘方位" languages="Chinese">罗盘方位</name>
+		<name normalized="西北區" languages="Chinese">西北區</name>
+		<name normalized="북서부 구" languages="Korean">북서부 구</name>
+	</region>
+	<region name="Selebi-Pikwe" type="town council" typeTranslated="town council">
+		<name normalized="Selebi-Pikwe" languages="English;official">Selebi-Pikwe</name>
+	</region>
+	<region name="South East" type="district" typeTranslated="district">
+		<name normalized="Boxing the compass" languages="Indonesian">Boxing the compass</name>
+		<name normalized="Distretto Sudorientale" languages="Italian">Distretto Sudorientale</name>
+		<name normalized="District du Sud-Est" languages="French">District du Sud-Est</name>
+		<name normalized="Districtul South-East" languages="Romanian">Districtul South-East</name>
+		<name normalized="Distrito Sudeste" languages="Spanish">Distrito Sudeste</name>
+		<name normalized="Distritu Sureste" languages="Asturian">Distritu Sureste</name>
+		<name normalized="Dystrykt South East" languages="Polish">Dystrykt South East</name>
+		<name normalized="Guneydogu Bolgesi" languages="Turkish">Güneydoğu Bölgesi</name>
+		<name normalized="Hego-ekialdea" languages="Basque">Hego-ekialdea</name>
+		<name normalized="Kerte" languages="Turkish">Kerte</name>
+		<name normalized="Pemberian nama titik utama kompas" languages="Malay">Pemberian nama titik utama kompas</name>
+		<name normalized="Pietryciu rajonas" languages="Lithuanian">Pietryčių rajonas</name>
+		<name normalized="Points of the compass" languages="English">Points of the compass</name>
+		<name normalized="Rhumb" languages="French">Rhumb</name>
+		<name normalized="Rumb" languages="Polish">Rumb</name>
+		<name normalized="South East" languages="English;official">South East</name>
+		<name normalized="South East District" languages="English;official">South East District</name>
+		<name normalized="South-East" languages="Breton;Dutch;Norwegian (bokmal)">South-East</name>
+		<name normalized="South-East District" languages="English;Finnish">South-East District</name>
+		<name normalized="Southeast" languages="Swedish">Southeast</name>
+		<name normalized="Sudeste" languages="Portuguese">Sudeste</name>
+		<name normalized="Suid-Oos distrik" languages="Afrikaans">Suid-Oos distrik</name>
+		<name normalized="Νοτιοανατολικη Περιφeρεια" languages="Greek">Νοτιοανατολική Περιφέρεια</name>
+		<name normalized="Paўdнёva-uсkodнii akрuga" languages="Belarusian">Паўднёва-усходняя акруга</name>
+		<name normalized="Paўdнёva-ўсkodнii akрuga Batсvaны" languages="biлaрuсkai (taрaskivita)‎">Паўднёва-ўсходняя акруга Батсваны</name>
+		<name normalized="Рuмb" languages="Russian;Ukrainian">Румб</name>
+		<name normalized="Юgo-Voсtocный okрug" languages="Russian">Юго-Восточный округ</name>
+		<name normalized="Юgoiztocнa obлaсt" languages="Bulgarian">Югоизточна област</name>
+		<name normalized="Jugoiсtociн okрug" languages="Macedonian">Југоисточен округ</name>
+		<name normalized="אtjאhאt אلbوsلة" languages="Arabic">اتجاهات البوصلة</name>
+		<name normalized="نאmgذאrی bh trtیb نqאt qtb‌نmא" languages="Persian">نامگذاری به ترتیب نقاط قطب‌نما</name>
+		<name normalized="susiーst地区" languages="Japanese">サウスイースト地区</name>
+		<name normalized="東南區" languages="Chinese">東南區</name>
+		<name normalized="罗盘方位" languages="Chinese">罗盘方位</name>
+		<name normalized="남동부 구" languages="Korean">남동부 구</name>
+	</region>
+	<region name="Southern" type="district" typeTranslated="district">
+		<name normalized="Distretto Meridionale" languages="Italian">Distretto Meridionale</name>
+		<name normalized="District du Sud" languages="French">District du Sud</name>
+		<name normalized="Districtul Southern" languages="Romanian">Districtul Southern</name>
+		<name normalized="Distrito do Sul" languages="Portuguese">Distrito do Sul</name>
+		<name normalized="Distrito Sur" languages="Spanish">Distrito Sur</name>
+		<name normalized="Distritu Sur" languages="Asturian">Distritu Sur</name>
+		<name normalized="Dystrykt Southern" languages="Polish">Dystrykt Southern</name>
+		<name normalized="Guney Bolgesi" languages="Turkish">Güney Bölgesi</name>
+		<name normalized="Hegoaldea" languages="Basque">Hegoaldea</name>
+		<name normalized="Motsana wa Molapowabojang" languages="Tswana">Motsana wa Molapowabojang</name>
+		<name normalized="Pietu rajonas" languages="Lithuanian">Pietų rajonas</name>
+		<name normalized="Southern" languages="Breton;Dutch;English;French;German;Norwegian (bokmal);official;Polish;Simple English;Swedish">Southern</name>
+		<name normalized="Southern District" languages="English;Finnish;German;official">Southern District</name>
+		<name normalized="Suid distrik" languages="Afrikaans">Suid distrik</name>
+		<name normalized="Νοτια Περιφeρεια" languages="Greek">Νότια Περιφέρεια</name>
+		<name normalized="Paўdнёvai akрuga" languages="Belarusian">Паўднёвая акруга</name>
+		<name normalized="Paўdнёvai akрuga Batсvaны" languages="biлaрuсkai (taрaskivita)‎">Паўднёвая акруга Батсваны</name>
+		<name normalized="Сauziрн" languages="Russian">Саузерн</name>
+		<name normalized="Юzнa obлaсt" languages="Bulgarian">Южна област</name>
+		<name normalized="Юzный okрug" languages="Russian">Южный округ</name>
+		<name normalized="Juziн okрug" languages="Macedonian">Јужен округ</name>
+		<name normalized="szn" languages="Japanese">サザン</name>
+		<name normalized="szn地区" languages="Japanese">サザン地区</name>
+		<name normalized="南部區" languages="Chinese">南部區</name>
+		<name normalized="남부 구" languages="Korean">남부 구</name>
+	</region>
+</regions>

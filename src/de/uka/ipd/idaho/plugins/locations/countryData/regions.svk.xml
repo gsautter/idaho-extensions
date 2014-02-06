@@ -1,0 +1,45 @@
+<regions country="Slovakia">
+	<region name="Banskobystricky" type="region" typeTranslated="kraj">
+		<name normalized="Banskobystricky" languages="English;official">Banskobystricky</name>
+		<name normalized="Banskobystricky Kraj" languages="English;official">Banskobystricky Kraj</name>
+		<name normalized="Banskobystricky Region" languages="English;official">Banskobystricky Region</name>
+	</region>
+	<region name="Bratislavsky" type="region" typeTranslated="kraj">
+		<name normalized="Bratislavskaya" languages="English">Bratislavskaya</name>
+		<name normalized="Bratislavsky" languages="English;official">Bratislavsky</name>
+		<name normalized="Bratislavsky Kraj" languages="English;official">Bratislavsky Kraj</name>
+		<name normalized="Bratislavsky Region" languages="English;official">Bratislavsky Region</name>
+		<name normalized="Bрatiслavсkai" languages="Russian">Братиславская</name>
+	</region>
+	<region name="Kosicky" type="region" typeTranslated="kraj">
+		<name normalized="Kosicky" languages="English;official">Kosicky</name>
+		<name normalized="Kosicky Kraj" languages="English;official">Kosicky Kraj</name>
+		<name normalized="Kosicky Region" languages="English;official">Kosicky Region</name>
+		<name normalized="Kosicky" languages="Czech;Dutch;English;German;Italian;Malay;Portuguese;Slovak;Vietnamese">Kosičky</name>
+	</region>
+	<region name="Nitriansky" type="region" typeTranslated="kraj">
+		<name normalized="Nitriansky" languages="English;official">Nitriansky</name>
+		<name normalized="Nitriansky Kraj" languages="English;official">Nitriansky Kraj</name>
+		<name normalized="Nitriansky Region" languages="English;official">Nitriansky Region</name>
+	</region>
+	<region name="Presovsky" type="region" typeTranslated="kraj">
+		<name normalized="Presovsky" languages="English;official">Presovsky</name>
+		<name normalized="Presovsky Kraj" languages="English;official">Presovsky Kraj</name>
+		<name normalized="Presovsky Region" languages="English;official">Presovsky Region</name>
+	</region>
+	<region name="Trenciansky" type="region" typeTranslated="kraj">
+		<name normalized="Trenciansky" languages="English;official">Trenciansky</name>
+		<name normalized="Trenciansky Kraj" languages="English;official">Trenciansky Kraj</name>
+		<name normalized="Trenciansky Region" languages="English;official">Trenciansky Region</name>
+	</region>
+	<region name="Trnavsky" type="region" typeTranslated="kraj">
+		<name normalized="Trnavsky" languages="English;official">Trnavsky</name>
+		<name normalized="Trnavsky Kraj" languages="English;official">Trnavsky Kraj</name>
+		<name normalized="Trnavsky Region" languages="English;official">Trnavsky Region</name>
+	</region>
+	<region name="Zilinsky" type="region" typeTranslated="kraj">
+		<name normalized="Zilinsky" languages="English;official">Zilinsky</name>
+		<name normalized="Zilinsky Kraj" languages="English;official">Zilinsky Kraj</name>
+		<name normalized="Zilinsky Region" languages="English;official">Zilinsky Region</name>
+	</region>
+</regions>

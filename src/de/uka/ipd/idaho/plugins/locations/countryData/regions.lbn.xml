@@ -1,0 +1,259 @@
+<regions country="Lebanon">
+	<region name="Beqaa" type="governorate" typeTranslated="mohafazah">
+		<name normalized="Beka" languages="Dutch;Slovenian">Beka</name>
+		<name normalized="Bekaa" languages="Norwegian (bokmal)">Bekaa</name>
+		<name normalized="Bekaa ili" languages="Turkish">Bekaa ili</name>
+		<name normalized="Bekaa kormanyzosag" languages="Hungarian">Bekaa kormányzóság</name>
+		<name normalized="Bekaa kubernerkond" languages="Estonian">Bekaa kubernerkond</name>
+		<name normalized="Bekaan laakson hallintoalue" languages="Finnish">Bekaan laakson hallintoalue</name>
+		<name normalized="Bekos muchafaza" languages="Lithuanian">Bekos muchafaza</name>
+		<name normalized="Beqaa" languages="English;official;Portuguese;Vietnamese">Beqaa</name>
+		<name normalized="Beqaa Governorate" languages="English;official;Pampanga">Beqaa Governorate</name>
+		<name normalized="Beqaa Govrenorate" languages="Scots">Beqaa Govrenorate</name>
+		<name normalized="Beqaa Mohafazah" languages="English;official">Beqaa Mohafazah</name>
+		<name normalized="Gobernacion de Beca" languages="Spanish">Gobernación de Becá</name>
+		<name normalized="Gouvernement Bekaa" languages="German">Gouvernement Bekaa</name>
+		<name normalized="Gouvernorat de la Bekaa" languages="French">Gouvernorat de la Bekaa</name>
+		<name normalized="Governatorato della Beqa'" languages="Italian">Governatorato della Beqa'</name>
+		<name normalized="Kegubernuran Beqaa" languages="Indonesian">Kegubernuran Beqaa</name>
+		<name normalized="Muhafaza Al-Bika" languages="Polish">Muhafaza Al-Bika</name>
+		<name normalized="Bikaa" languages="Bulgarian;Russian;Ukrainian">Бекаа</name>
+		<name normalized="Bekaa" languages="biлaрuсkai (taрaskivita)‎">Бэкаа</name>
+		<name normalized="Viлoiti Bika" languages="Tajik">Вилояти Биқа</name>
+		<name normalized="Pрaviнtыi Bikaa" languages="Belarusian">Правінцыя Бекаа</name>
+		<name normalized="מhvז אד-bqאע" languages="Hebrew">מחוז אל-בקאע</name>
+		<name normalized="אسtאن bqאع" languages="Persian">استان بقاع</name>
+		<name normalized="אلbqאع" languages="Arabic">البقاع</name>
+		<name normalized="bqאع mhאfzہ" languages="Urdu">بقاع محافظہ</name>
+		<name normalized="bek़a p्rाn्t" languages="Hindi">बेक़आ प्रान्त</name>
+		<name normalized="btkー県" languages="Japanese">ベッカー県</name>
+		<name normalized="貝卡省" languages="Chinese">貝卡省</name>
+		<name normalized="베카 주" languages="Korean">베카 주</name>
+	</region>
+	<region name="Beyrouth" type="governorate" typeTranslated="mohafazah">
+		<name normalized="Beiroet" languages="Afrikaans;Dutch">Beiroet</name>
+		<name normalized="Beirot" languages="Occitan">Beirot</name>
+		<name normalized="Beirots" languages="Samogitian">Beirots</name>
+		<name normalized="Beirout" languages="Breton">Beirout</name>
+		<name normalized="Beirut" languages="Achinese;Aragonese;Basque;Bikol Central;Catalan;Croatian;Danish;English;Estonian;Extremaduran;Fiji Hindi;Finnish;Galician;German;Guarani;Ido;Indonesian;Italian;Javanese;Kalaallisut;Ligure;lumbaart;Luxembourgish;Malay;Manx;Neapolitan;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Piedmontese;Romanian;Scots;Scottish Gaelic;Shona;Sicilian;Simple English;Spanish;Swahili;Swedish;Tagalog;Upper Sorbian;Vietnamese;Waray;Welsh;Yoruba">Beirut</name>
+		<name normalized="Beirut Governorate" languages="English;official;Pampanga">Beirut Governorate</name>
+		<name normalized="Beirut Govrenorate" languages="Scots">Beirut Govrenorate</name>
+		<name normalized="Beirut Mohafazah" languages="English;official">Beirut Mohafazah</name>
+		<name normalized="Beirutas" languages="Lithuanian">Beirutas</name>
+		<name normalized="Beirute" languages="Portuguese;Tetum">Beirute</name>
+		<name normalized="Beiruto muchafaza" languages="Lithuanian">Beiruto muchafaza</name>
+		<name normalized="Beirut" languages="Icelandic">Beirút</name>
+		<name normalized="Beirut" languages="Western Frisian">Beirût</name>
+		<name normalized="Beiruta" languages="Latvian">Beirūta</name>
+		<name normalized="Bejrut" languages="Albanian;Bosnian;Polish;Serbo-Croatian;Slovenian">Bejrut</name>
+		<name normalized="Bejruto" languages="Esperanto">Bejruto</name>
+		<name normalized="Bejrut" languages="Czech;Hungarian;Slovak">Bejrút</name>
+		<name normalized="Berytus" languages="Latin">Berytus</name>
+		<name normalized="Bewout" languages="Haitian">Bewout</name>
+		<name normalized="Beyrouth" languages="Chinese (Min Nan);English;French;official">Beyrouth</name>
+		<name normalized="Beyrouth Governorate" languages="English;official">Beyrouth Governorate</name>
+		<name normalized="Beyrouth Mohafazah" languages="English;official">Beyrouth Mohafazah</name>
+		<name normalized="Beyrut" languages="Azerbaijani;Gagauz;Novial;Turkish">Beyrut</name>
+		<name normalized="Beyrut ili" languages="Turkish">Beyrut ili</name>
+		<name normalized="Birut" languages="Kabyle">Birut</name>
+		<name normalized="Bayrut" languages="Volapuk">Bäyrut</name>
+		<name normalized="Beiriut" languages="Irish">Béiriút</name>
+		<name normalized="Berut" languages="Kurdish">Bêrût</name>
+		<name normalized="Gobernacion de Beirut" languages="Spanish">Gobernación de Beirut</name>
+		<name normalized="Gouvernement Beirut" languages="German">Gouvernement Beirut</name>
+		<name normalized="Gouvernorat de Beyrouth" languages="French">Gouvernorat de Beyrouth</name>
+		<name normalized="Governatorato di Beirut" languages="Italian">Governatorato di Beirut</name>
+		<name normalized="Kegubernuran Beirut" languages="Indonesian">Kegubernuran Beirut</name>
+		<name normalized="Muhafaza Bejrut" languages="Polish">Muhafaza Bejrut</name>
+		<name normalized="Βηρυτος" languages="Greek">Βηρυτός</name>
+		<name normalized="Biйрut" languages="Bulgarian;Chechen;Eastern Mari;Kazakh;Kyrgyz;Mongolian;Ossetic;Russian;Sakha;Tajik;Ukrainian">Бейрут</name>
+		<name normalized="Biйрut osсь" languages="Moksha">Бейрут ошсь</name>
+		<name normalized="Bijрut" languages="Macedonian;Serbian">Бејрут</name>
+		<name normalized="Beйрut" languages="biлaрuсkai (taрaskivita)‎">Бэйрут</name>
+		<name normalized="Bəйрut" languages="Tatar">Бәйрут</name>
+		<name normalized="Viлoiti Biйрut" languages="Tajik">Вилояти Бейрут</name>
+		<name normalized="Goрad Biйрut" languages="Belarusian">Горад Бейрут</name>
+		<name normalized="Pрaviнtыi Biйрut" languages="Belarusian">Правінцыя Бейрут</name>
+		<name normalized="Bեյrvyt" languages="Armenian">Բեյրութ</name>
+		<name normalized="Bեյrvytի prvվինcիա" languages="Armenian">Բեյրութի պրովինցիա</name>
+		<name normalized="bייrvt" languages="Yiddish">ביירוט</name>
+		<name normalized="bייrvt" languages="Hebrew">ביירות</name>
+		<name normalized="מhvז bייrvt" languages="Hebrew">מחוז ביירות</name>
+		<name normalized="אسtאن bیrوt" languages="Persian">استان بیروت</name>
+		<name normalized="byrوt" languages="Arabic;Egyptian Spoken Arabic">بيروت</name>
+		<name normalized="bیrوt" languages="Mazanderani;Persian;Urdu;Western Punjabi">بیروت</name>
+		<name normalized="bېyrۇt" languages="Uyghur">بېيرۇت</name>
+		<name normalized="bەیrووt" languages="Sorani Kurdish">بەیرووت</name>
+		<name normalized="ܒܝܪܘܬ" languages="Aramaic">ܒܝܪܘܬ</name>
+		<name normalized="beyrut" languages="Hindi">बेयरूत</name>
+		<name normalized="beyrut p्rाn्t" languages="Hindi">बेयरूत प्रान्त</name>
+		<name normalized="bey्rut" languages="Newari">बेय्रुत</name>
+		<name normalized="barut" languages="Marathi">बैरूत</name>
+		<name normalized="barut" languages="Bengali">বৈরুত</name>
+		<name normalized="barut" languages="Punjabi">ਬੈਰੂਤ</name>
+		<name normalized="ବିରୁଟ" languages="Oriya">ବିରୁଟ</name>
+		<name normalized="பெய்ரூத்" languages="Tamil">பெய்ரூத்</name>
+		<name normalized="ಬೈರುತ್" languages="Kannada">ಬೈರುತ್</name>
+		<name normalized="ബെയ്റൂട്ട്" languages="Malayalam">ബെയ്റൂട്ട്</name>
+		<name normalized="เบรุต" languages="Thai">เบรุต</name>
+		<name normalized="པེ་རུ་ཐེ།" languages="Tibetan">པེ་རུ་ཐེ།</name>
+		<name normalized="ဘေရွတ်မြို့" languages="Burmese">ဘေရွတ်မြို့</name>
+		<name normalized="ბეირუთი" languages="Georgian;Mingrelian">ბეირუთი</name>
+		<name normalized="ቤይሩት" languages="Amharic">ቤይሩት</name>
+		<name normalized="birーt" languages="Japanese">ベイルート</name>
+		<name normalized="birーt県" languages="Japanese">ベイルート県</name>
+		<name normalized="貝魯特" languages="Cantonese">貝魯特</name>
+		<name normalized="贝鲁特" languages="Chinese;Wu">贝鲁特</name>
+		<name normalized="贝鲁特省" languages="Chinese">贝鲁特省</name>
+		<name normalized="베이루트" languages="Korean">베이루트</name>
+		<name normalized="베이루트 주" languages="Korean">베이루트 주</name>
+	</region>
+	<region name="Liban-Nord" type="governorate" typeTranslated="mohafazah">
+		<name normalized="Dystrykt Polnocny" languages="Polish">Dystrykt Północny</name>
+		<name normalized="Gouvernement Nord-Libanon" languages="German">Gouvernement Nord-Libanon</name>
+		<name normalized="Gouvernorat du Nord" languages="French">Gouvernorat du Nord</name>
+		<name normalized="Governacio del Liban-Nord" languages="Catalan">Governació del Líban-Nord</name>
+		<name normalized="Governatorato del Nord Libano" languages="Italian">Governatorato del Nord Libano</name>
+		<name normalized="Governorate Liban-Nord" languages="English;official">Governorate Liban-Nord</name>
+		<name normalized="Kegubernuran Utara" languages="Indonesian">Kegubernuran Utara</name>
+		<name normalized="Liban-Nord" languages="English;official">Liban-Nord</name>
+		<name normalized="Libano Setentrional" languages="Portuguese">Líbano Setentrional</name>
+		<name normalized="Libano-Norte" languages="Spanish">Líbano-Norte</name>
+		<name normalized="Noord" languages="Dutch">Noord</name>
+		<name normalized="Nord-Libanon" languages="Norwegian (bokmal)">Nord-Libanon</name>
+		<name normalized="North Governorate" languages="English">North Governorate</name>
+		<name normalized="North Govrenorate" languages="Scots">North Govrenorate</name>
+		<name normalized="Pentadbiran Utara" languages="Malay">Pentadbiran Utara</name>
+		<name normalized="Pohja-Liibanon" languages="Estonian">Põhja-Liibanon</name>
+		<name normalized="Tinh Bac" languages="Vietnamese">Tỉnh Bắc</name>
+		<name normalized="Eszak kormanyzosag" languages="Hungarian">Észak kormányzóság</name>
+		<name normalized="Simal Ili" languages="Turkish">Şimal İli</name>
+		<name normalized="Siaures Libano muchafaza" languages="Lithuanian">Šiaurės Libano muchafaza</name>
+		<name normalized="Viлoiti Siмoл" languages="Tajik">Вилояти Шимол</name>
+		<name normalized="Paўнocны Лibaн" languages="biлaрuсkai (taрaskivita)‎">Паўночны Лібан</name>
+		<name normalized="Pivнicнiй Лivaн" languages="Ukrainian">Північний Ліван</name>
+		<name normalized="Сiviрiн Лivaн" languages="Bulgarian">Северен Ливан</name>
+		<name normalized="Сiviрный Лivaн" languages="Russian">Северный Ливан</name>
+		<name normalized="Hյvysիsային Lիbանան" languages="Armenian">Հյուսիսային Լիբանան</name>
+		<name normalized="מhvז צpvן דbnvן" languages="Hebrew">מחוז צפון לבנון</name>
+		<name normalized="אسtאن شmאلی لbنאن" languages="Persian">استان شمالی لبنان</name>
+		<name normalized="אلشmאل" languages="Arabic">الشمال</name>
+		<name normalized="ut्tr p्rाn्t" languages="Hindi">उत्तर प्रान्त</name>
+		<name normalized="北rbnn県" languages="Japanese">北レバノン県</name>
+		<name normalized="北部省" languages="Chinese">北部省</name>
+		<name normalized="북부 주" languages="Korean">북부 주</name>
+	</region>
+	<region name="Liban-Sud" type="governorate" typeTranslated="mohafazah">
+		<name normalized="Cenub ili" languages="Turkish">Cenub ili</name>
+		<name normalized="Dystrykt Poludniowy" languages="Polish">Dystrykt Południowy</name>
+		<name normalized="Del kormanyzosag" languages="Hungarian">Dél kormányzóság</name>
+		<name normalized="Etela-Libanonin hallintoalue" languages="Finnish">Etelä-Libanonin hallintoalue</name>
+		<name normalized="Gouvernement Sud-Libanon" languages="German">Gouvernement Süd-Libanon</name>
+		<name normalized="Gouvernorat du Sud-Liban" languages="French">Gouvernorat du Sud-Liban</name>
+		<name normalized="Governacio del Liban-Sud" languages="Catalan">Governació del Líban-Sud</name>
+		<name normalized="Governatorato del Sud Libano" languages="Italian">Governatorato del Sud Libano</name>
+		<name normalized="Governorate Liban-Sud" languages="English;official">Governorate Liban-Sud</name>
+		<name normalized="Kegubernuran Selatan" languages="Indonesian">Kegubernuran Selatan</name>
+		<name normalized="Liban-Sud" languages="English;official">Liban-Sud</name>
+		<name normalized="Libano Meridional" languages="Portuguese">Líbano Meridional</name>
+		<name normalized="Libano-Sur" languages="Spanish">Líbano-Sur</name>
+		<name normalized="Louna-Liibanoni kubernerkond" languages="Estonian">Lõuna-Liibanoni kubernerkond</name>
+		<name normalized="Mauling Governorate" languages="Pampanga">Mauling Governorate</name>
+		<name normalized="Pentadbiran Selatan" languages="Malay">Pentadbiran Selatan</name>
+		<name normalized="Pietu Libano muchafaza" languages="Lithuanian">Pietų Libano muchafaza</name>
+		<name normalized="Sooth Govrenorate" languages="Scots">Sooth Govrenorate</name>
+		<name normalized="South Governorate" languages="English">South Governorate</name>
+		<name normalized="Tinh Nam" languages="Vietnamese">Tỉnh Nam</name>
+		<name normalized="Zuid" languages="Dutch">Zuid</name>
+		<name normalized="Viлoiti Caнub" languages="Tajik">Вилояти Ҷануб</name>
+		<name normalized="Paўdнёvы Лibaн" languages="biлaрuсkai (taрaskivita)‎">Паўднёвы Лібан</name>
+		<name normalized="Pрaviнtыi Paўdнёvы Лivaн" languages="Belarusian">Правінцыя Паўднёвы Ліван</name>
+		<name normalized="Pivdiннiй Лivaн" languages="Ukrainian">Південний Ліван</name>
+		<name normalized="Юziн Лivaн" languages="Bulgarian">Южен Ливан</name>
+		<name normalized="Юzный Лivaн" languages="Russian">Южный Ливан</name>
+		<name normalized="Hաrավային Lիbանան" languages="Armenian">Հարավային Լիբանան</name>
+		<name normalized="מhvז דrvם דbnvן" languages="Hebrew">מחוז דרום לבנון</name>
+		<name normalized="אسtאن jنوbی لbنאن" languages="Persian">استان جنوبی لبنان</name>
+		<name normalized="mhאfzة אلjنوb" languages="Arabic">محافظة الجنوب</name>
+		<name normalized="dk्षiण p्rाn्t" languages="Hindi">दक्षिण प्रान्त</name>
+		<name normalized="南rbnn県" languages="Japanese">南レバノン県</name>
+		<name normalized="南部省" languages="Chinese">南部省</name>
+		<name normalized="남부 주" languages="Korean">남부 주</name>
+	</region>
+	<region name="Mont-Liban" type="governorate" typeTranslated="mohafazah">
+		<name normalized="Cebel-i Lubnan Ili" languages="Turkish">Cebel-i Lübnan İli</name>
+		<name normalized="Gobernacion del Monte Libano" languages="Spanish">Gobernación del Monte Líbano</name>
+		<name normalized="Gouvernement Libanonberg" languages="German">Gouvernement Libanonberg</name>
+		<name normalized="Gouvernorat du Mont-Liban" languages="French">Gouvernorat du Mont-Liban</name>
+		<name normalized="Governatorato del Monte Libano" languages="Italian">Governatorato del Monte Libano</name>
+		<name normalized="Guvernementet Libanonfjella" languages="Norwegian Nynorsk">Guvernementet Libanonfjella</name>
+		<name normalized="Kalnu Libano muchafaza" languages="Lithuanian">Kalnų Libano muchafaza</name>
+		<name normalized="Kegubernuran Gunung Lebanon" languages="Indonesian">Kegubernuran Gunung Lebanon</name>
+		<name normalized="Libanon-hegy kormanyzosag" languages="Hungarian">Libanon-hegy kormányzóság</name>
+		<name normalized="Libanonfjellene" languages="Norwegian (bokmal)">Libanonfjellene</name>
+		<name normalized="Libanongebergte" languages="Dutch">Libanongebergte</name>
+		<name normalized="Mont-Liban" languages="English;official">Mont-Liban</name>
+		<name normalized="Mont-Liban Governorate" languages="English;official">Mont-Liban Governorate</name>
+		<name normalized="Mont-Liban Mohafazah" languages="English;official">Mont-Liban Mohafazah</name>
+		<name normalized="Monte Libano" languages="Portuguese">Monte Líbano</name>
+		<name normalized="Mount Lebanon Governorate" languages="English">Mount Lebanon Governorate</name>
+		<name normalized="Muhafaza Dzabal Lubnan" languages="Polish">Muhafaza Dżabal Lubnan</name>
+		<name normalized="Munt Lebanon Govrenorate" languages="Scots">Munt Lebanon Govrenorate</name>
+		<name normalized="Nui Liban" languages="Vietnamese">Núi Liban</name>
+		<name normalized="Viлoiti Kuhi Лubнoн" languages="Tajik">Вилояти Кӯҳи Лубнон</name>
+		<name normalized="Goрiн Лivaн" languages="Bulgarian">Горен Ливан</name>
+		<name normalized="Goрны Лivaн" languages="Belarusian">Горны Ліван</name>
+		<name normalized="Goрный Лivaн" languages="Russian">Горный Ливан</name>
+		<name normalized="Giрсьkiй Лivaн" languages="Ukrainian">Гірський Ліван</name>
+		<name normalized="Dzebeль Лibaн" languages="biлaрuсkai (taрaskivita)‎">Джэбэль Лібан</name>
+		<name normalized="Lեrնային Lիbանանի prvվինcիա" languages="Armenian">Լեռնային Լիբանանի պրովինցիա</name>
+		<name normalized="מhvז hr hדbnvן" languages="Hebrew">מחוז הר הלבנון</name>
+		<name normalized="אسtאن jbل لbنאن" languages="Persian">استان جبل لبنان</name>
+		<name normalized="jbل لbنאن" languages="Arabic">جبل لبنان</name>
+		<name normalized="jbl libnाn p्rाn्t" languages="Hindi">जबल लिबनान प्रान्त</name>
+		<name normalized="山岳rbnn県" languages="Japanese">山岳レバノン県</name>
+		<name normalized="黎巴嫩山省" languages="Chinese">黎巴嫩山省</name>
+		<name normalized="레바논 산 주" languages="Korean">레바논 산 주</name>
+	</region>
+	<region name="Nabatiye" type="governorate" typeTranslated="mohafazah">
+		<name normalized="An-Nabatijja" languages="Polish">An-Nabatijja</name>
+		<name normalized="An-Nabatiyah at-Tahta" languages="Estonian">An-Nabaţīyah at-Taḩtā</name>
+		<name normalized="An-Nabatiyah' kubernerkond" languages="Estonian">An-Nabaţīyah' kubernerkond</name>
+		<name normalized="Gobernacion de Nabatiye" languages="Spanish">Gobernación de Nabatiye</name>
+		<name normalized="Gouvernement Nabataa" languages="German">Gouvernement Nabatäa</name>
+		<name normalized="Gouvernorat de Nabatieh" languages="French">Gouvernorat de Nabatieh</name>
+		<name normalized="Governatorato di Nabatiye" languages="Italian">Governatorato di Nabatiye</name>
+		<name normalized="Kegubernuran Nabatiye" languages="Indonesian">Kegubernuran Nabatiye</name>
+		<name normalized="Muhafaza An-Nabatijja" languages="Polish">Muhafaza An-Nabatijja</name>
+		<name normalized="Nabatea" languages="Serbo-Croatian">Nabatea</name>
+		<name normalized="Nabatieh" languages="English;French;Scots;Vietnamese">Nabatieh</name>
+		<name normalized="Nabatieh Governorate" languages="English;Pampanga">Nabatieh Governorate</name>
+		<name normalized="Nabatieh Govrenorate" languages="Scots">Nabatieh Govrenorate</name>
+		<name normalized="Nabatija" languages="Lithuanian">Nabatija</name>
+		<name normalized="Nabatijja kormanyzosag" languages="Hungarian">Nabatijja kormányzóság</name>
+		<name normalized="Nabatijos muchafaza" languages="Lithuanian">Nabatijos muchafaza</name>
+		<name normalized="Nabatiye" languages="Dutch;English;Italian;Norwegian (bokmal);official;Portuguese">Nabatiye</name>
+		<name normalized="Nabatiye Governorate" languages="English;official">Nabatiye Governorate</name>
+		<name normalized="Nabatiye Mohafazah" languages="English;official">Nabatiye Mohafazah</name>
+		<name normalized="Nabataa" languages="German">Nabatäa</name>
+		<name normalized="Nabatiyen alue" languages="Finnish">Nabatîyén alue</name>
+		<name normalized="Nebatiye" languages="Turkish">Nebatiye</name>
+		<name normalized="Nebatiye ili" languages="Turkish">Nebatiye ili</name>
+		<name normalized="Viлoiti Нabatii" languages="Tajik">Вилояти Набатие</name>
+		<name normalized="Нabatii" languages="Bulgarian;Russian">Набатия</name>
+		<name normalized="Нabatija" languages="Serbian">Набатија</name>
+		<name normalized="Нabatыi" languages="biлaрuсkai (taрaskivita)‎">Набатыя</name>
+		<name normalized="Нabatii" languages="Ukrainian">Набатія</name>
+		<name normalized="אד-nbtיh" languages="Hebrew">אל-נבטיה</name>
+		<name normalized="מhvז אד-nbtיh" languages="Hebrew">מחוז אל-נבטיה</name>
+		<name normalized="אسtאن نbtیh" languages="Persian">استان نبطیه</name>
+		<name normalized="אلنbtyة" languages="Arabic">النبطية</name>
+		<name normalized="نbtیh" languages="Mazanderani">نبطیه</name>
+		<name normalized="نbtیh, لbنאن" languages="Persian">نبطیه، لبنان</name>
+		<name normalized="nbtiye​ p्rाn्t" languages="Hindi">नबतीये​ प्रान्त</name>
+		<name normalized="nbtiーe県" languages="Japanese">ナバティーエ県</name>
+		<name normalized="納巴泰" languages="Chinese">納巴泰</name>
+		<name normalized="納巴泰省" languages="Chinese">納巴泰省</name>
+		<name normalized="나바티예 주" languages="Korean">나바티예 주</name>
+	</region>
+</regions>

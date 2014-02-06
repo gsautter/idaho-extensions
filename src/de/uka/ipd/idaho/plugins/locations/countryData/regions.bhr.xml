@@ -1,0 +1,156 @@
+<regions country="Bahrain">
+	<region name="Asamah" type="governorate" typeTranslated="muhafazah">
+		<name normalized="Asamah" languages="English;official">Asamah</name>
+		<name normalized="Asamah Governorate" languages="English;official">Asamah Governorate</name>
+		<name normalized="Asamah Muhafazah" languages="English;official">Asamah Muhafazah</name>
+		<name normalized="Caipital Govrenorate" languages="Scots">Caipital Govrenorate</name>
+		<name normalized="Capital" languages="Aragonese;Asturian;Catalan;English;Extremaduran;French;Galician;official;Portuguese;Romanian;Simple English;Spanish">Capital</name>
+		<name normalized="Capital Governorate" languages="English;official;Simple English">Capital Governorate</name>
+		<name normalized="Capital Muhafazah" languages="English;official">Capital Muhafazah</name>
+		<name normalized="Capitale" languages="Italian">Capitale</name>
+		<name normalized="Capitali" languages="Sicilian">Capitali</name>
+		<name normalized="Fovaros kormanyzosag" languages="Hungarian">Főváros kormányzóság</name>
+		<name normalized="Gouvernorat de la capitale" languages="French">Gouvernorat de la capitale</name>
+		<name normalized="Governatorato della Capitale" languages="Italian">Governatorato della Capitale</name>
+		<name normalized="Hoofdstad" languages="Dutch">Hoofdstad</name>
+		<name normalized="Hovedstadsguvernementet" languages="Norwegian (bokmal)">Hovedstadsguvernementet</name>
+		<name normalized="Kagubernuran Ibu Kota" languages="Sundanese">Kagubernuran Ibu Kota</name>
+		<name normalized="Kapitaal" languages="Dutch">Kapitaal</name>
+		<name normalized="Kapitaali" languages="Finnish">Kapitaali</name>
+		<name normalized="Kapital" languages="Basque;German;Tagalog">Kapital</name>
+		<name normalized="Kapital" languages="Polish">Kapitał</name>
+		<name normalized="Kapital" languages="Slovak">Kapitál</name>
+		<name normalized="Kegubernuran Ibu Kota" languages="Indonesian">Kegubernuran Ibu Kota</name>
+		<name normalized="Provincia da Capital" languages="Portuguese">Província da Capital</name>
+		<name normalized="Toke" languages="Hungarian">Tőke</name>
+		<name normalized="Tu ban" languages="Vietnamese">Tư bản</name>
+		<name normalized="Κεφαλαιο" languages="Greek">Κεφάλαιο</name>
+		<name normalized="Kapitaл" languages="Macedonian;Russian;Serbian">Капитал</name>
+		<name normalized="Kapitaл" languages="Ukrainian">Капітал</name>
+		<name normalized="Сtoлicнa pрoviнtii" languages="Bulgarian">Столична провинция</name>
+		<name normalized="אسtאن عאsmh" languages="Persian">استان عاصمه</name>
+		<name normalized="rאjgھr" languages="Western Punjabi">راجگھر</name>
+		<name normalized="سrmאیh" languages="Persian">سرمایه</name>
+		<name normalized="mhאfzة אلعאsmة" languages="Arabic">محافظة العاصمة</name>
+		<name normalized="kyptr" languages="Japanese">キャピタル</name>
+		<name normalized="首都省" languages="Chinese">首都省</name>
+		<name normalized="首都県" languages="Japanese">首都県</name>
+		<name normalized="수도 주" languages="Korean">수도 주</name>
+		<name normalized="캐피털" languages="Korean">캐피털</name>
+	</region>
+	<region name="Janubiyah" type="governorate" typeTranslated="muhafazah">
+		<name normalized="Deli kormanyzosag" languages="Hungarian">Déli kormányzóság</name>
+		<name normalized="Gouvernorat meridional" languages="French">Gouvernorat méridional</name>
+		<name normalized="Governatorato Meridionale" languages="Italian">Governatorato Meridionale</name>
+		<name normalized="Guney Valiligi" languages="Turkish">Güney Valiliği</name>
+		<name normalized="Janubiyah" languages="English;official">Janubiyah</name>
+		<name normalized="Janubiyah Governorate" languages="English;official">Janubiyah Governorate</name>
+		<name normalized="Janubiyah Muhafazah" languages="English;official">Janubiyah Muhafazah</name>
+		<name normalized="Kagubernuran Kidul" languages="Sundanese">Kagubernuran Kidul</name>
+		<name normalized="Kegubernuran Selatan" languages="Indonesian">Kegubernuran Selatan</name>
+		<name normalized="Provincia do Sul" languages="Portuguese">Província do Sul</name>
+		<name normalized="Soothren Govrenorate" languages="Scots">Soothren Govrenorate</name>
+		<name normalized="Southern" languages="Dutch;English;French;German;official;Polish;Simple English;Swedish">Southern</name>
+		<name normalized="Southern Governorate" languages="English;official;Simple English">Southern Governorate</name>
+		<name normalized="Southern Muhafazah" languages="English;official">Southern Muhafazah</name>
+		<name normalized="Suda Provinco" languages="Esperanto">Suda Provinco</name>
+		<name normalized="Sur" languages="Spanish">Sur</name>
+		<name normalized="Sorlige guvernement" languages="Norwegian (bokmal)">Sørlige guvernement</name>
+		<name normalized="Zuid" languages="Dutch">Zuid</name>
+		<name normalized="Сauziрн" languages="Russian">Саузерн</name>
+		<name normalized="Юzнa pрoviнtii" languages="Bulgarian">Южна провинция</name>
+		<name normalized="jنوbyة" languages="Arabic">جنوبية</name>
+		<name normalized="jنوbیh" languages="Persian">جنوبیه</name>
+		<name normalized="szn" languages="Japanese">サザン</name>
+		<name normalized="南方省" languages="Chinese">南方省</name>
+		<name normalized="南部県" languages="Japanese">南部県</name>
+		<name normalized="남부 주" languages="Korean">남부 주</name>
+	</region>
+	<region name="Muharraq" type="governorate" typeTranslated="muhafazah">
+		<name normalized="Al Muharraq" languages="Galician;Indonesian;Italian;Malay;Portuguese;Spanish">Al Muharraq</name>
+		<name normalized="Al-Muharrak" languages="Polish;Turkish">Al-Muharrak</name>
+		<name normalized="Al-Muharraq" languages="Catalan;Danish;Finnish;German;Romanian;Tagalog">Al-Muharraq</name>
+		<name normalized="Gouvernorat de Muharraq" languages="French">Gouvernorat de Muharraq</name>
+		<name normalized="Governatorato di Muharraq" languages="Italian">Governatorato di Muharraq</name>
+		<name normalized="Kagubernuran Muharraq" languages="Sundanese">Kagubernuran Muharraq</name>
+		<name normalized="Kegubernuran Al Muharraq" languages="Indonesian">Kegubernuran Al Muharraq</name>
+		<name normalized="Muharrak kormanyzosag" languages="Hungarian">Muharrak kormányzóság</name>
+		<name normalized="Muharrako" languages="Esperanto">Muharrako</name>
+		<name normalized="Muharrako provinco" languages="Esperanto">Muharrako provinco</name>
+		<name normalized="Muharraq" languages="Dutch;English;French;official;Scots;Simple English;Spanish;Swedish">Muharraq</name>
+		<name normalized="Muharraq Governorate" languages="English;official;Simple English">Muharraq Governorate</name>
+		<name normalized="Muharraq guvernement" languages="Norwegian (bokmal)">Muharraq guvernement</name>
+		<name normalized="Muharraq Muhafazah" languages="English;official">Muharraq Muhafazah</name>
+		<name normalized="Pentadbiran Al Muharraq" languages="Malay">Pentadbiran Al Muharraq</name>
+		<name normalized="Provincia de Muharraq" languages="Portuguese">Província de Muharraq</name>
+		<name normalized="Мukaрak" languages="Bulgarian">Мухарак</name>
+		<name normalized="Мukaррak" languages="Mongolian;Russian;Ukrainian">Мухаррак</name>
+		<name normalized="מvhאrq" languages="Hebrew">מוחארק</name>
+		<name normalized="אسtאن mhrq" languages="Persian">استان محرق</name>
+		<name normalized="אلmhrq" languages="Arabic">المحرق</name>
+		<name normalized="mhאfzة אلmhrq" languages="Arabic">محافظة المحرق</name>
+		<name normalized="mhrq" languages="Persian;Urdu">محرق</name>
+		<name normalized="mhtrk" languages="Japanese">ムハッラク</name>
+		<name normalized="穆哈拉格" languages="Chinese">穆哈拉格</name>
+		<name normalized="穆哈拉格省" languages="Chinese">穆哈拉格省</name>
+		<name normalized="무하라크" languages="Korean">무하라크</name>
+		<name normalized="무하라크 주" languages="Korean">무하라크 주</name>
+	</region>
+	<region name="Shamaliyah" type="governorate" typeTranslated="muhafazah">
+		<name normalized="Ash Shamaliyah" languages="English;Norwegian (bokmal);Portuguese">Ash Shamaliyah</name>
+		<name normalized="Gouvernorat septentrional" languages="French">Gouvernorat septentrional</name>
+		<name normalized="Governatorato Settentrionale" languages="Italian">Governatorato Settentrionale</name>
+		<name normalized="Kagubernuran Kaler" languages="Sundanese">Kagubernuran Kalér</name>
+		<name normalized="Kegubernuran Utara" languages="Indonesian">Kegubernuran Utara</name>
+		<name normalized="Kuzey Valiligi" languages="Turkish">Kuzey Valiliği</name>
+		<name normalized="Noord" languages="Dutch">Noord</name>
+		<name normalized="Nordlige guvernement" languages="Norwegian (bokmal)">Nordlige guvernement</name>
+		<name normalized="Norte" languages="Spanish">Norte</name>
+		<name normalized="Northern" languages="Breton;Dutch;English;French;German;official;Polish;Portuguese;Swedish">Northern</name>
+		<name normalized="Northern Governorate" languages="English;official;Simple English">Northern Governorate</name>
+		<name normalized="Northern Muhafazah" languages="English;official">Northern Muhafazah</name>
+		<name normalized="Northren Govrenorate" languages="Scots">Northren Govrenorate</name>
+		<name normalized="Provincia do Norte" languages="Portuguese">Província do Norte</name>
+		<name normalized="Schamal" languages="German">Schamal</name>
+		<name normalized="Shamaliyah" languages="English;official">Shamaliyah</name>
+		<name normalized="Shamaliyah Governorate" languages="English;official">Shamaliyah Governorate</name>
+		<name normalized="Shamaliyah Muhafazah" languages="English;official">Shamaliyah Muhafazah</name>
+		<name normalized="Eszaki kormanyzosag" languages="Hungarian">Északi kormányzóság</name>
+		<name normalized="Сiviрнa pрoviнtii" languages="Bulgarian">Северна провинция</name>
+		<name normalized="אلشmאلyة" languages="Arabic">الشمالية</name>
+		<name normalized="شmאلیh" languages="Persian">شمالیه</name>
+		<name normalized="北方省" languages="Chinese">北方省</name>
+		<name normalized="북부 주" languages="Korean">북부 주</name>
+	</region>
+	<region name="Wasat" type="governorate" typeTranslated="muhafazah">
+		<name normalized="Centraal" languages="Dutch">Centraal</name>
+		<name normalized="Central" languages="Dutch;English;French;German;Italian;official;Polish;Portuguese;Simple English;Spanish;Swedish;Vietnamese;Volapuk">Central</name>
+		<name normalized="Central Governorate" languages="English;official;Simple English">Central Governorate</name>
+		<name normalized="Central Govrenorate" languages="Scots">Central Govrenorate</name>
+		<name normalized="Central Muhafazah" languages="English;official">Central Muhafazah</name>
+		<name normalized="Gouvernorat central" languages="French">Gouvernorat central</name>
+		<name normalized="Governatorato Centrale" languages="Italian">Governatorato Centrale</name>
+		<name normalized="Kagubernuran Tengah" languages="Sundanese">Kagubernuran Tengah</name>
+		<name normalized="Kegubernuran Tengah" languages="Indonesian">Kegubernuran Tengah</name>
+		<name normalized="Kozepso kormanyzosag" languages="Hungarian">Középső kormányzóság</name>
+		<name normalized="Provincia Central" languages="Portuguese">Província Central</name>
+		<name normalized="Sentralguvernementet" languages="Norwegian (bokmal)">Sentralguvernementet</name>
+		<name normalized="Wasat" languages="English;official">Wasat</name>
+		<name normalized="Wasat Governorate" languages="English;official">Wasat Governorate</name>
+		<name normalized="Wasat Muhafazah" languages="English;official">Wasat Muhafazah</name>
+		<name normalized="Сiнtрaл" languages="Serbian">Сентрал</name>
+		<name normalized="Tiнtрaлнa pрoviнtii" languages="Bulgarian">Централна провинция</name>
+		<name normalized="Tiнtрaль" languages="Russian">Централь</name>
+		<name normalized="אسtאن وسtی" languages="Persian">استان وسطی</name>
+		<name normalized="mhאfzة אلوسtى" languages="Arabic">محافظة الوسطى</name>
+		<name normalized="mrکزی" languages="Persian">مرکزی</name>
+		<name normalized="sen্ট্rাl" languages="Bishnupria Manipuri">সেন্ট্রাল</name>
+		<name normalized="சென்ட்ரல்" languages="Tamil">சென்ட்ரல்</name>
+		<name normalized="กลาง" languages="Thai">กลาง</name>
+		<name normalized="sntrr" languages="Japanese">セントラル</name>
+		<name normalized="中" languages="Chinese;Gan">中</name>
+		<name normalized="中央省" languages="Chinese">中央省</name>
+		<name normalized="센트럴" languages="Korean">센트럴</name>
+		<name normalized="중부 주" languages="Korean">중부 주</name>
+	</region>
+</regions>

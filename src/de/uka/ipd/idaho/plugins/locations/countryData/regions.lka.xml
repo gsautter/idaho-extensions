@@ -1,0 +1,203 @@
+<regions country="Sri Lanka">
+	<region name="Central" type="province" typeTranslated="province">
+		<name normalized="Centra Provinco" languages="Esperanto">Centra Provinco</name>
+		<name normalized="Central" languages="Dutch;English;French;German;Italian;official;Polish;Portuguese;Simple English;Spanish;Swedish;Vietnamese;Volapuk">Central</name>
+		<name normalized="Central Province" languages="English;official;Simple English">Central Province</name>
+		<name normalized="Centrale Provincie" languages="Dutch">Centrale Provincie</name>
+		<name normalized="Centralprovinsen" languages="Swedish">Centralprovinsen</name>
+		<name normalized="Province du Centre" languages="French">Province du Centre</name>
+		<name normalized="Provincia Central" languages="Spanish">Provincia Central</name>
+		<name normalized="Provincia Centrale" languages="Italian">Provincia Centrale</name>
+		<name normalized="Provincia Central" languages="Catalan;Portuguese">Província Central</name>
+		<name normalized="Prowincja Centralna" languages="Polish">Prowincja Centralna</name>
+		<name normalized="Zentralprovinz" languages="German">Zentralprovinz</name>
+		<name normalized="Сiнtрaл" languages="Serbian">Сентрал</name>
+		<name normalized="Tiнtрaлнa pрoviнtii" languages="Bulgarian">Централна провинция</name>
+		<name normalized="Tiнtрaль" languages="Russian">Централь</name>
+		<name normalized="Tiнtрaльнai pрoviнtii" languages="Russian">Центральная провинция</name>
+		<name normalized="mrکزی" languages="Persian">مرکزی</name>
+		<name normalized="md्y p्rांt" languages="Marathi">मध्य प्रांत</name>
+		<name normalized="md्y p्rाn्t" languages="Hindi">मध्य प्रान्त</name>
+		<name normalized="sen্ট্rাl" languages="Bishnupria Manipuri">সেন্ট্রাল</name>
+		<name normalized="சென்ட்ரல்" languages="Tamil">சென்ட்ரல்</name>
+		<name normalized="மத்திய மாகாணம்" languages="Tamil">மத்திய மாகாணம்</name>
+		<name normalized="මධ්‍යම පළාත" languages="Sinhala">මධ්‍යම පළාත</name>
+		<name normalized="กลาง" languages="Thai">กลาง</name>
+		<name normalized="sntrr" languages="Japanese">セントラル</name>
+		<name normalized="中" languages="Chinese;Gan">中</name>
+		<name normalized="中央省" languages="Chinese">中央省</name>
+		<name normalized="中部州" languages="Japanese">中部州</name>
+		<name normalized="센트럴" languages="Korean">센트럴</name>
+		<name normalized="중부 주" languages="Korean">중부 주</name>
+	</region>
+	<region name="Eastern" type="province" typeTranslated="province">
+		<name normalized="Eastern" languages="Dutch;English;German;official;Polish;Portuguese;Swedish">Eastern</name>
+		<name normalized="Eastern Province" languages="English;official;Simple English">Eastern Province</name>
+		<name normalized="Este" languages="Portuguese">Este</name>
+		<name normalized="Oostelijke Provincie" languages="Dutch">Oostelijke Provincie</name>
+		<name normalized="Orienta Provinco" languages="Esperanto">Orienta Provinco</name>
+		<name normalized="Ostprovinz" languages="German">Ostprovinz</name>
+		<name normalized="Phuong Dong" languages="Vietnamese">Phương Đông</name>
+		<name normalized="Province de l'Est" languages="French">Province de l'Est</name>
+		<name normalized="Provincia del Este" languages="Spanish">Provincia del Este</name>
+		<name normalized="Provincia Orientale" languages="Italian">Provincia Orientale</name>
+		<name normalized="Ostprovinsen" languages="Swedish">Östprovinsen</name>
+		<name normalized="Voсtocнai pрoviнtii" languages="Russian">Восточная провинция</name>
+		<name normalized="Iztocнa pрoviнtii" languages="Bulgarian">Източна провинция</name>
+		<name normalized="pur्v p्rांt" languages="Marathi">पूर्व प्रांत</name>
+		<name normalized="pur्vi p्rाn्t" languages="Hindi">पूर्वी प्रान्त</name>
+		<name normalized="கிழக்கு மாகாணம்" languages="Tamil">கிழக்கு மாகாணம்</name>
+		<name normalized="නැගෙනහිර පළාත" languages="Sinhala">නැගෙනහිර පළාත</name>
+		<name normalized="iーstn" languages="Japanese">イースタン</name>
+		<name normalized="東部州" languages="Japanese">東部州</name>
+		<name normalized="東部省" languages="Chinese">東部省</name>
+		<name normalized="동부 주" languages="Korean">동부 주</name>
+	</region>
+	<region name="North Central" type="province" typeTranslated="province">
+		<name normalized="Noordelijke Centrale Provincie" languages="Dutch">Noordelijke Centrale Provincie</name>
+		<name normalized="Nord-Zentralprovinz" languages="German">Nord-Zentralprovinz</name>
+		<name normalized="Nordcentra Provinco" languages="Esperanto">Nordcentra Provinco</name>
+		<name normalized="Norra centralprovinsen" languages="Swedish">Norra centralprovinsen</name>
+		<name normalized="North Central" languages="English;official">North Central</name>
+		<name normalized="North Central Province" languages="English;official;Simple English">North Central Province</name>
+		<name normalized="Province du Centre-Nord" languages="French">Province du Centre-Nord</name>
+		<name normalized="Provincia Central del Norte" languages="Spanish">Provincia Central del Norte</name>
+		<name normalized="Provincia Centro-Settentrionale" languages="Italian">Provincia Centro-Settentrionale</name>
+		<name normalized="Prowincja Polnocno-Centralna" languages="Polish">Prowincja Północno-Centralna</name>
+		<name normalized="Сiviрнa tiнtрaлнa pрoviнtii" languages="Bulgarian">Северна централна провинция</name>
+		<name normalized="Сiviрo-Tiнtрaльнai pрoviнtii" languages="Russian">Северо-Центральная провинция</name>
+		<name normalized="ut्tr md्y p्rांt" languages="Marathi">उत्तर मध्य प्रांत</name>
+		<name normalized="ut्tri md्y p्rाn्t" languages="Hindi">उत्तरी मध्य प्रान्त</name>
+		<name normalized="வடமத்திய மாகாணம்" languages="Tamil">வடமத்திய மாகாணம்</name>
+		<name normalized="北中省" languages="Chinese">北中省</name>
+		<name normalized="北中部" languages="Japanese">北中部</name>
+		<name normalized="北中部州" languages="Japanese">北中部州</name>
+		<name normalized="북중부 주" languages="Korean">북중부 주</name>
+	</region>
+	<region name="North Western" type="province" typeTranslated="province">
+		<name normalized="Noordwestelijke Provincie" languages="Dutch">Noordwestelijke Provincie</name>
+		<name normalized="Nordokcidenta Provinco" languages="Esperanto">Nordokcidenta Provinco</name>
+		<name normalized="Nordvastprovinsen" languages="Swedish">Nordvästprovinsen</name>
+		<name normalized="Nordwestprovinz" languages="German">Nordwestprovinz</name>
+		<name normalized="Noroeste" languages="Portuguese">Noroeste</name>
+		<name normalized="North Western" languages="English;official">North Western</name>
+		<name normalized="North Western Province" languages="English;official;Simple English">North Western Province</name>
+		<name normalized="Northwestern" languages="English;German">Northwestern</name>
+		<name normalized="Province du Nord-Ouest" languages="French">Province du Nord-Ouest</name>
+		<name normalized="Provincia Nord-Occidentale" languages="Italian">Provincia Nord-Occidentale</name>
+		<name normalized="Provincia Noroeste" languages="Spanish">Provincia Noroeste</name>
+		<name normalized="Prowincja Polnocno-Zachodnia" languages="Polish">Prowincja Północno-Zachodnia</name>
+		<name normalized="Сiviрo-Zapadнai pрoviнtii" languages="Russian">Северо-Западная провинция</name>
+		<name normalized="Сiviрozapadнa pрoviнtii" languages="Bulgarian">Северозападна провинция</name>
+		<name normalized="ut्tr ps्cimi p्rाn्t" languages="Hindi">उत्तर पश्चिमी प्रान्त</name>
+		<name normalized="vाyv्y p्rांt" languages="Marathi">वायव्य प्रांत</name>
+		<name normalized="வடமேல் மாகாணம்" languages="Tamil">வடமேல் மாகாணம்</name>
+		<name normalized="වයඹ පලාත" languages="Sinhala">වයඹ පලාත</name>
+		<name normalized="北西部" languages="Japanese">北西部</name>
+		<name normalized="北西部州" languages="Japanese">北西部州</name>
+		<name normalized="西北省" languages="Chinese">西北省</name>
+		<name normalized="북서부 주" languages="Korean">북서부 주</name>
+	</region>
+	<region name="Northern" type="province" typeTranslated="province">
+		<name normalized="Noordelijke Provincie" languages="Dutch">Noordelijke Provincie</name>
+		<name normalized="Norda Provinco" languages="Esperanto">Norda Provinco</name>
+		<name normalized="Nordprovinsen" languages="Swedish">Nordprovinsen</name>
+		<name normalized="Nordprovinz" languages="German">Nordprovinz</name>
+		<name normalized="Northern" languages="Breton;Dutch;English;French;German;official;Polish;Portuguese;Swedish">Northern</name>
+		<name normalized="Northern Province" languages="English;official;Simple English">Northern Province</name>
+		<name normalized="Province du Nord" languages="French">Province du Nord</name>
+		<name normalized="Provincia Norte" languages="Spanish">Provincia Norte</name>
+		<name normalized="Provincia Settentrionale" languages="Italian">Provincia Settentrionale</name>
+		<name normalized="Сiviрнa pрoviнtii" languages="Bulgarian">Северна провинция</name>
+		<name normalized="Сiviрнai pрoviнtii" languages="Russian">Северная провинция</name>
+		<name normalized="ut्tr p्rांt" languages="Marathi">उत्तर प्रांत</name>
+		<name normalized="ut्tri p्rाn्t" languages="Hindi">उत्तरी प्रान्त</name>
+		<name normalized="வட மாகாணம்" languages="Tamil">வட மாகாணம்</name>
+		<name normalized="വടക്കൻ പ്രവിശ്യ" languages="Malayalam">വടക്കൻ പ്രവിശ്യ</name>
+		<name normalized="北部州" languages="Japanese">北部州</name>
+		<name normalized="北部省" languages="Chinese">北部省</name>
+		<name normalized="북부 주" languages="Korean">북부 주</name>
+	</region>
+	<region name="Sabaragamuwa" type="province" typeTranslated="province">
+		<name normalized="Province de Sabaragamuwa" languages="French">Province de Sabaragamuwa</name>
+		<name normalized="Prowincja Sabaragamuwa" languages="Polish">Prowincja Sabaragamuwa</name>
+		<name normalized="Sabaragamuwa" languages="Dutch;English;Esperanto;Finnish;German;Italian;official;Portuguese;Spanish;Swedish">Sabaragamuwa</name>
+		<name normalized="Sabaragamuwa Province" languages="English;official;Simple English">Sabaragamuwa Province</name>
+		<name normalized="Сabaрagaмuva" languages="Bulgarian;Russian">Сабарагамува</name>
+		<name normalized="sbrgmuvा p्rांt" languages="Marathi">सबरगमुवा प्रांत</name>
+		<name normalized="sbrgmuvा p्rाn्t" languages="Hindi">सबरगमुवा प्रान्त</name>
+		<name normalized="சபரகமுவா மாகாணம்" languages="Tamil">சபரகமுவா மாகாணம்</name>
+		<name normalized="සබරගමුව පළාත" languages="Sinhala">සබරගමුව පළාත</name>
+		<name normalized="sbrgmw州" languages="Japanese">サバラガムワ州</name>
+		<name normalized="薩伯勒格穆沃省" languages="Chinese">薩伯勒格穆沃省</name>
+		<name normalized="사바라가무와 주" languages="Korean">사바라가무와 주</name>
+	</region>
+	<region name="Southern" type="province" typeTranslated="province">
+		<name normalized="Province du Sud" languages="French">Province du Sud</name>
+		<name normalized="Provincia Meridionale" languages="Italian">Provincia Meridionale</name>
+		<name normalized="Provincia Sur" languages="Spanish">Provincia Sur</name>
+		<name normalized="Prowincja Poludniowa" languages="Polish">Prowincja Południowa</name>
+		<name normalized="Southern" languages="Dutch;English;French;German;official;Polish;Simple English;Swedish">Southern</name>
+		<name normalized="Southern Province" languages="English;official;Simple English">Southern Province</name>
+		<name normalized="Sri Lankan etelainen provinssi" languages="Finnish">Sri Lankan eteläinen provinssi</name>
+		<name normalized="Suda Provinco" languages="Esperanto">Suda Provinco</name>
+		<name normalized="Sydprovinsen" languages="Swedish">Sydprovinsen</name>
+		<name normalized="Sudprovinz" languages="German">Südprovinz</name>
+		<name normalized="Zuidelijke Provincie" languages="Dutch">Zuidelijke Provincie</name>
+		<name normalized="Сauziрн" languages="Russian">Саузерн</name>
+		<name normalized="Юzнa pрoviнtii" languages="Bulgarian">Южна провинция</name>
+		<name normalized="Юzнai pрoviнtii" languages="Russian">Южная провинция</name>
+		<name normalized="dk्षiण p्rांt" languages="Marathi">दक्षिण प्रांत</name>
+		<name normalized="dk्षiणi p्rाn्t" languages="Hindi">दक्षिणी प्रान्त</name>
+		<name normalized="தென் மாகாணம்" languages="Tamil">தென் மாகாணம்</name>
+		<name normalized="തെക്കൻ പ്രവിശ്യ" languages="Malayalam">തെക്കൻ പ്രവിശ്യ</name>
+		<name normalized="szn" languages="Japanese">サザン</name>
+		<name normalized="南部州" languages="Japanese">南部州</name>
+		<name normalized="南部省" languages="Chinese">南部省</name>
+		<name normalized="남부 주" languages="Korean">남부 주</name>
+	</region>
+	<region name="Uva" type="province" typeTranslated="province">
+		<name normalized="Province d'Uva" languages="French">Province d'Uva</name>
+		<name normalized="Provincia de Uva" languages="Spanish">Provincia de Uva</name>
+		<name normalized="Provinco Uva" languages="Esperanto">Provinco Uva</name>
+		<name normalized="Prowincja Uva" languages="Polish">Prowincja Uva</name>
+		<name normalized="Uva" languages="Dutch;English;German;Italian;official;Portuguese">Uva</name>
+		<name normalized="Uva Province" languages="English;official;Simple English">Uva Province</name>
+		<name normalized="Uvaprovinsen" languages="Swedish">Uvaprovinsen</name>
+		<name normalized="Uva" languages="Bulgarian;Russian">Ува</name>
+		<name normalized="uvा p्rांt" languages="Marathi">उवा प्रांत</name>
+		<name normalized="uvा p्rाn्t" languages="Hindi">उवा प्रान्त</name>
+		<name normalized="ஊவா மாகாணம்" languages="Tamil">ஊவா மாகாணம்</name>
+		<name normalized="ඌව පළාත" languages="Sinhala">ඌව පළාත</name>
+		<name normalized="ub州" languages="Japanese">ウバ州</name>
+		<name normalized="烏沃省" languages="Chinese">烏沃省</name>
+		<name normalized="우바 주" languages="Korean">우바 주</name>
+	</region>
+	<region name="Western" type="province" typeTranslated="province">
+		<name normalized="Okcidenta Provinco" languages="Esperanto">Okcidenta Provinco</name>
+		<name normalized="Phuong Tay" languages="Vietnamese">Phương Tây</name>
+		<name normalized="Province de l'Ouest" languages="French">Province de l'Ouest</name>
+		<name normalized="Provincia del Oeste" languages="Spanish">Provincia del Oeste</name>
+		<name normalized="Provincia Occidentale" languages="Italian">Provincia Occidentale</name>
+		<name normalized="Provinsi Barat" languages="Indonesian">Provinsi Barat</name>
+		<name normalized="Prowincja Zachodnia" languages="Polish">Prowincja Zachodnia</name>
+		<name normalized="Sri Lankan lantinen provinssi" languages="Finnish">Sri Lankan läntinen provinssi</name>
+		<name normalized="Vastprovinsen" languages="Swedish">Västprovinsen</name>
+		<name normalized="Westelijke Provincie" languages="Dutch">Westelijke Provincie</name>
+		<name normalized="Western" languages="Danish;Dutch;English;French;Galician;German;Italian;official;Polish;Portuguese;Simple English;Spanish;Swedish">Western</name>
+		<name normalized="Western Province" languages="English;official;Simple English">Western Province</name>
+		<name normalized="Westprovinz" languages="German">Westprovinz</name>
+		<name normalized="Zapadнa pрoviнtii" languages="Bulgarian">Западна провинция</name>
+		<name normalized="Zapadнai pрoviнtii" languages="Russian">Западная провинция</name>
+		<name normalized="Ueсtiрн" languages="Russian">Уэстерн</name>
+		<name normalized="وسtrن" languages="Persian">وسترن</name>
+		<name normalized="ps्cim p्rांt" languages="Marathi">पश्चिम प्रांत</name>
+		<name normalized="ps्cimi p्rाn्t" languages="Hindi">पश्चिमी प्रान्त</name>
+		<name normalized="மேல் மாகாணம்" languages="Tamil">மேல் மாகாணம்</name>
+		<name normalized="බස්නාහිර පළාත" languages="Sinhala">බස්නාහිර පළාත</name>
+		<name normalized="uestn" languages="Japanese">ウエスタン</name>
+		<name normalized="西部州" languages="Japanese">西部州</name>
+		<name normalized="西部省" languages="Chinese">西部省</name>
+		<name normalized="서부 주" languages="Korean">서부 주</name>
+	</region>
+</regions>

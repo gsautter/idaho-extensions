@@ -1,0 +1,871 @@
+<regions country="Switzerland">
+	<region name="Aargau" type="canton" typeTranslated="Kanton">
+		<name normalized="Aargau" languages="Bosnian;Croatian;Czech;Danish;Dutch;English;Finnish;Icelandic;Iloko;Malay;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Slovenian;Swahili;Swedish;Turkish;Vietnamese;Waray;Welsh">Aargau</name>
+		<name normalized="Aargau Chiu" languages="Chinese (Min Nan)">Aargau Chiu</name>
+		<name normalized="Aargau kanton" languages="Estonian;Hungarian">Aargau kanton</name>
+		<name normalized="Argau" languages="Lithuanian">Argau</name>
+		<name normalized="Argovia" languages="Basque;Franco-Provencal;Galician;Latin">Argovia</name>
+		<name normalized="Argowia" languages="Polish">Argowia</name>
+		<name normalized="Argovia" languages="Catalan">Argòvia</name>
+		<name normalized="Argovia" languages="Portuguese">Argóvia</name>
+		<name normalized="Canton Aargau" languages="Deitsch">Canton Aargau</name>
+		<name normalized="Canton Argovia" languages="Italian;lumbaart;Sicilian">Canton Argovia</name>
+		<name normalized="Canton d'Argovie" languages="French">Canton d'Argovie</name>
+		<name normalized="Canton d'Argovia" languages="Occitan">Canton d'Argòvia</name>
+		<name normalized="Cantonul Argovia" languages="Romanian">Cantonul Argovia</name>
+		<name normalized="Canton d'Argovia" languages="Aragonese;Asturian">Cantón d'Argovia</name>
+		<name normalized="Canton de Argovia" languages="Spanish">Cantón de Argovia</name>
+		<name normalized="Chantun Argovia" languages="Romansh">Chantun Argovia</name>
+		<name normalized="Kanton Aargau" languages="Afrikaans;Alemannisch;Breton;German;Indonesian;Javanese">Kanton Aargau</name>
+		<name normalized="Kantoni Aargau" languages="Albanian">Kantoni Aargau</name>
+		<name normalized="Kantono Argovio" languages="Esperanto">Kantono Argovio</name>
+		<name normalized="Argavas kantons" languages="Latvian">Ārgavas kantons</name>
+		<name normalized="Aaрgau" languages="Bulgarian;Ukrainian">Ааргау</name>
+		<name normalized="Aaрgaў" languages="biлaрuсkai (taрaskivita)‎">Ааргаў</name>
+		<name normalized="Aрgau" languages="Kazakh;Russian">Аргау</name>
+		<name normalized="Kaнtoн Aaрgau" languages="Belarusian">Кантон Ааргау</name>
+		<name normalized="Kaнtoн Aрgau" languages="Serbian">Кантон Аргау</name>
+		<name normalized="אrגאv" languages="Hebrew">ארגאו</name>
+		<name normalized="آrgאو" languages="Western Punjabi">آرگاو</name>
+		<name normalized="אیאلt آrgאو" languages="Persian">ایالت آرگاو</name>
+		<name normalized="kאنtون أrjאو" languages="Arabic">كانتون أرجاو</name>
+		<name normalized="argाu kan्टn" languages="Hindi">आरगाउ कैन्टन</name>
+		<name normalized="ar्gाu" languages="Marathi">आर्गाउ</name>
+		<name normalized="รัฐอาร์เกา" languages="Thai">รัฐอาร์เกา</name>
+		<name normalized="აარგაუს კანტონი" languages="Georgian">აარგაუს კანტონი</name>
+		<name normalized="aーrgu州" languages="Japanese">アールガウ州</name>
+		<name normalized="阿爾高州" languages="Chinese">阿爾高州</name>
+		<name normalized="아르가우 주" languages="Korean">아르가우 주</name>
+	</region>
+	<region name="Appenzell Ausserrhoden" type="canton" typeTranslated="Kanton">
+		<name normalized="Abbatis Cella Exterior" languages="Latin">Abbatis Cella Exterior</name>
+		<name normalized="Apencelis-Auserodenas" languages="Lithuanian">Apencelis-Auserodenas</name>
+		<name normalized="Apencelles-Auserrodenes kantons" languages="Latvian">Apencelles-Auserrodenes kantons</name>
+		<name normalized="Apenzel Rodes-Exteriores" languages="Franco-Provencal">Apenzél Rodes-Èxtèriores</name>
+		<name normalized="Appenzell Ausser-Rhoden" languages="Catalan">Appenzell Ausser-Rhoden</name>
+		<name normalized="Appenzell Ausserrhoden" languages="Basque;Bosnian;Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;Iloko;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Swahili;Swedish;Turkish;Vietnamese;Waray;Welsh">Appenzell Ausserrhoden</name>
+		<name normalized="Appenzell Ausserrhoden Chiu" languages="Chinese (Min Nan)">Appenzell Ausserrhoden Chiu</name>
+		<name normalized="Appenzell Exterior" languages="Galician;Portuguese">Appenzell Exterior</name>
+		<name normalized="Appenzellu Sternu" languages="Sicilian">Appenzellu Sternu</name>
+		<name normalized="Canton Apenzel de Fora" languages="lumbaart">Canton Apenzel de Föra</name>
+		<name normalized="Canton Apenzelo Esterno" languages="veneto">Canton Apenzeło Esterno</name>
+		<name normalized="Canton Appenzello Esterno" languages="Italian">Canton Appenzello Esterno</name>
+		<name normalized="Canton d'Appenzell Ausserrhoden" languages="Occitan">Canton d'Appenzell Ausserrhoden</name>
+		<name normalized="Canton d'Appenzell Rhodes-Exterieures" languages="French">Canton d'Appenzell Rhodes-Extérieures</name>
+		<name normalized="Cantonul Appenzell Extern" languages="Romanian">Cantonul Appenzell Extern</name>
+		<name normalized="Canton d'Appenzell Rodas Exteriors" languages="Aragonese">Cantón d'Appenzell Rodas Exteriors</name>
+		<name normalized="Canton de Appenzell Rodas Exteriores" languages="Spanish">Cantón de Appenzell Rodas Exteriores</name>
+		<name normalized="Chantun Appenzell Dadora" languages="Romansh">Chantun Appenzell Dadora</name>
+		<name normalized="Kanton Appenzell Ausserrhoden" languages="Alemannisch;Breton;German;Indonesian;Javanese">Kanton Appenzell Ausserrhoden</name>
+		<name normalized="Kantoni Appenzell Ausserrhoden" languages="Albanian">Kantoni Appenzell Ausserrhoden</name>
+		<name normalized="Kantono Apencelo Ekstera" languages="Esperanto">Kantono Apencelo Ekstera</name>
+		<name normalized="Apiнtiл Auсiррodiн" languages="Bulgarian">Апенцел Аусерроден</name>
+		<name normalized="Appiнtiлль-Auссiррodiн" languages="Kazakh;Russian">Аппенцелль-Ауссерроден</name>
+		<name normalized="Apeнteль-Aўсeрodeн" languages="biлaрuсkai (taрaskivita)‎">Апэнцэль-Аўсэродэн</name>
+		<name normalized="Kaнtoн Apiнtiл Auсiрodiн" languages="Serbian">Кантон Апенцел Аусероден</name>
+		<name normalized="אpنزل آسrrہوڈن" languages="Western Punjabi">اپنزل آسررہوڈن</name>
+		<name normalized="אیאلt آpنtزل آوسrhودن" languages="Persian">ایالت آپنتزل آوسرهودن</name>
+		<name normalized="kאنtون أbyنزyل أوسyrhودن" languages="Arabic">كانتون أبينزيل أوسيرهودن</name>
+		<name normalized="apnt्sel ausाroडn kan्टn" languages="Hindi">आपनत्सेल आउसारोडन कैन्टन</name>
+		<name normalized="apeंjel ausrr्‍hoडn" languages="Marathi">आपेंझेल आउसरर्‍होडन</name>
+		<name normalized="აპენცელ-აუსერჰოდენის კანტონი" languages="Georgian">აპენცელ-აუსერჰოდენის კანტონი</name>
+		<name normalized="atpnter・ausーrーdn準州" languages="Japanese">アッペンツェル・アウサーローデン準州</name>
+		<name normalized="外阿彭策爾州" languages="Chinese">外阿彭策爾州</name>
+		<name normalized="아펜첼아우서로덴 주" languages="Korean">아펜첼아우서로덴 주</name>
+	</region>
+	<region name="Appenzell Innerrhoden" type="canton" typeTranslated="Kanton">
+		<name normalized="Abbatis Cella Interior" languages="Latin">Abbatis Cella Interior</name>
+		<name normalized="Apencelis-Inerodenas" languages="Lithuanian">Apencelis-Inerodenas</name>
+		<name normalized="Apencelles-Innerrodenes kantons" languages="Latvian">Apencelles-Innerrodenes kantons</name>
+		<name normalized="Apenzel Rodes-Enteriores" languages="Franco-Provencal">Apenzél Rodes-Entèriores</name>
+		<name normalized="Appenzell Inner-Rhoden" languages="Catalan">Appenzell Inner-Rhoden</name>
+		<name normalized="Appenzell Innerrhoden" languages="Basque;Bosnian;Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;Iloko;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Swahili;Swedish;Turkish;Vietnamese;Waray;Welsh">Appenzell Innerrhoden</name>
+		<name normalized="Appenzell Innerrhoden Chiu" languages="Chinese (Min Nan)">Appenzell Innerrhoden Chiu</name>
+		<name normalized="Appenzell Interior" languages="Galician;Portuguese">Appenzell Interior</name>
+		<name normalized="Appenzellu Nternu" languages="Sicilian">Appenzellu Nternu</name>
+		<name normalized="Canton Apenzel de Dent" languages="lumbaart">Canton Apenzel de Dent</name>
+		<name normalized="Canton Appenzello Interno" languages="Italian">Canton Appenzello Interno</name>
+		<name normalized="Canton d'Appenzell Innerrhoden" languages="Occitan">Canton d'Appenzell Innerrhoden</name>
+		<name normalized="Canton d'Appenzell Rhodes-Interieures" languages="French">Canton d'Appenzell Rhodes-Intérieures</name>
+		<name normalized="Cantonul Appenzell Intern" languages="Romanian">Cantonul Appenzell Intern</name>
+		<name normalized="Canton d'Appenzell Rodas Interiors" languages="Aragonese">Cantón d'Appenzell Rodas Interiors</name>
+		<name normalized="Canton de Appenzell Rodas Interiores" languages="Spanish">Cantón de Appenzell Rodas Interiores</name>
+		<name normalized="Chantun Appenzell Dadens" languages="Romansh">Chantun Appenzell Dadens</name>
+		<name normalized="Kanton Appenzell Innerrhoden" languages="Alemannisch;Breton;German;Indonesian;Javanese">Kanton Appenzell Innerrhoden</name>
+		<name normalized="Kantoni Appenzell Innerrhoden" languages="Albanian">Kantoni Appenzell Innerrhoden</name>
+		<name normalized="Kantono Apencelo Interna" languages="Esperanto">Kantono Apencelo Interna</name>
+		<name normalized="Apiнtiл Iнiррodiн" languages="Bulgarian">Апенцел Инерроден</name>
+		<name normalized="Appiнtiлль-Iннiррodiн" languages="Kazakh;Russian">Аппенцелль-Иннерроден</name>
+		<name normalized="Apeнteль-Iнeрodeн" languages="biлaрuсkai (taрaskivita)‎">Апэнцэль-Інэродэн</name>
+		<name normalized="Kaнtoн Apiнtiл Iнiрodiн" languages="Serbian">Кантон Апенцел Инероден</name>
+		<name normalized="אpنزلאنrہوڈن" languages="Western Punjabi">اپنزلانرہوڈن</name>
+		<name normalized="אیאلt آpنtزل אینrhودن" languages="Persian">ایالت آپنتزل اینرهودن</name>
+		<name normalized="kאنtون أbyنزyل إyنrhودن" languages="Arabic">كانتون أبينزيل إينرهودن</name>
+		<name normalized="apnt्sel in्nrroडn kan्टn" languages="Hindi">आपनत्सेल इन्नररोडन कैन्टन</name>
+		<name normalized="apeंjel inrr्‍hoडn" languages="Marathi">आपेंझेल इनरर्‍होडन</name>
+		<name normalized="აპენცელ-ინერჰოდენის კანტონი" languages="Georgian">აპენცელ-ინერჰოდენის კანტონი</name>
+		<name normalized="atpnter・innーrーdn準州" languages="Japanese">アッペンツェル・インナーローデン準州</name>
+		<name normalized="內阿彭策爾州" languages="Chinese">內阿彭策爾州</name>
+		<name normalized="아펜첼이너로덴 주" languages="Korean">아펜첼이너로덴 주</name>
+	</region>
+	<region name="Basel-Landschaft" type="canton" typeTranslated="Kanton">
+		<name normalized="Basel Wledig" languages="Welsh">Basel Wledig</name>
+		<name normalized="Basel-Landschaft" languages="Croatian;Danish;Dutch;English;Estonian;Finnish;Iloko;Javanese;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Scottish Gaelic;Serbo-Croatian;Swedish;Turkish;Waray">Basel-Landschaft</name>
+		<name normalized="Basel-Landschaft Chiu" languages="Chinese (Min Nan)">Basel-Landschaft Chiu</name>
+		<name normalized="Basel-provincija" languages="Bosnian">Basel-provincija</name>
+		<name normalized="Basilea Herrialdea" languages="Basque">Basilea Herrialdea</name>
+		<name normalized="Basilea-Camp" languages="Catalan">Basilea-Camp</name>
+		<name normalized="Basilea-Campo" languages="Galician">Basilea-Campo</name>
+		<name normalized="Basileia-Campo" languages="Portuguese">Basileia-Campo</name>
+		<name normalized="Basilej-venkov" languages="Czech">Basilej-venkov</name>
+		<name normalized="Bazelio sritis" languages="Lithuanian">Bazelio sritis</name>
+		<name normalized="Bazilej-vidiek" languages="Slovak">Bazilej-vidiek</name>
+		<name normalized="Bazylea-Okreg" languages="Polish">Bazylea-Okręg</name>
+		<name normalized="Bala-Campagne" languages="Franco-Provencal">Bâla-Campagne</name>
+		<name normalized="Bazeles lauku kantons" languages="Latvian">Bāzeles lauku kantons</name>
+		<name normalized="Canton Basilea Campagna" languages="Italian">Canton Basilea Campagna</name>
+		<name normalized="Canton Basilea-Campagna" languages="Sicilian">Canton Basilea-Campagna</name>
+		<name normalized="Canton de Basilea-Campanha" languages="Occitan">Canton de Basilèa-Campanha</name>
+		<name normalized="Canton de Bale-Campagne" languages="French">Canton de Bâle-Campagne</name>
+		<name normalized="Cantonul Basel-Provincie" languages="Romanian">Cantonul Basel-Provincie</name>
+		<name normalized="Canton de Basilea-Campanya" languages="Aragonese">Cantón de Basilea-Campanya</name>
+		<name normalized="Canton de Basilea-Campina" languages="Asturian;Spanish">Cantón de Basilea-Campiña</name>
+		<name normalized="Chantun Basilea-Champagna" languages="Romansh">Chantun Basilea-Champagna</name>
+		<name normalized="Jimbo la Basel" languages="Swahili">Jimbo la Basel</name>
+		<name normalized="Kanton Basel-Landschaft" languages="Alemannisch;Breton;German">Kanton Basel-Landschaft</name>
+		<name normalized="Kanton Basel-Negeri" languages="Indonesian">Kanton Basel-Negeri</name>
+		<name normalized="Kantono Bazelo Kampara" languages="Esperanto">Kantono Bazelo Kampara</name>
+		<name normalized="Pagus Basilia rus" languages="Latin">Pagus Basilia rus</name>
+		<name normalized="Baziл Лaнdsaфt" languages="Bulgarian">Базел Ландшафт</name>
+		<name normalized="Baziль-Лaнd" languages="Kazakh;Russian;Ukrainian">Базель-Ланд</name>
+		<name normalized="Bazeль-Лaнd" languages="biлaрuсkai (taрaskivita)‎">Базэль-Ланд</name>
+		<name normalized="Kaнtoн Baziл-pрoviнtija" languages="Serbian">Кантон Базел-провинција</name>
+		<name normalized="Kaнtoн Baziль-Лaнd" languages="Belarusian">Кантон Базель-Ланд</name>
+		<name normalized="אیאلt bאزل-لאندشאft" languages="Persian">ایالت بازل-لاندشافت</name>
+		<name normalized="bאسل دیس" languages="Western Punjabi">باسل دیس</name>
+		<name normalized="kאنtون ryf bאزل" languages="Arabic">كانتون ريف بازل</name>
+		<name normalized="bाsl-lांडsाp्ट" languages="Marathi">बासल-लांडशाफ्ट</name>
+		<name normalized="bाsl-lाn्डsाp़्ट kan्टn" languages="Hindi">बासल-लान्डशाफ़्ट कैन्टन</name>
+		<name normalized="รัฐบาเซิล-ลันด์ชาฟท์" languages="Thai">รัฐบาเซิล-ลันด์ชาฟท์</name>
+		<name normalized="ბაზელ-ლანდის კანტონი" languages="Georgian">ბაზელ-ლანდის კანტონი</name>
+		<name normalized="bーzr=rnt準州" languages="Japanese">バーゼル＝ラント準州</name>
+		<name normalized="巴塞爾鄉村州" languages="Chinese">巴塞爾鄉村州</name>
+		<name normalized="바젤란트 주" languages="Korean">바젤란트 주</name>
+	</region>
+	<region name="Basel-Stadt" type="canton" typeTranslated="Kanton">
+		<name normalized="Bandar Basel" languages="Malay">Bandar Basel</name>
+		<name normalized="Basel Ddinesig" languages="Welsh">Basel Ddinesig</name>
+		<name normalized="Basel-grad" languages="Bosnian">Basel-grad</name>
+		<name normalized="Basel-Stadt" languages="Danish;Dutch;English;Estonian;Finnish;Iloko;Javanese;Norwegian (bokmal);Norwegian Nynorsk;official;Scottish Gaelic;Serbo-Croatian;Swedish;Turkish;Waray">Basel-Stadt</name>
+		<name normalized="Basel-Stadt Chiu" languages="Chinese (Min Nan)">Basel-Stadt Chiu</name>
+		<name normalized="Basilea Hiria" languages="Basque">Basilea Hiria</name>
+		<name normalized="Basilea-Cidade" languages="Galician">Basilea-Cidade</name>
+		<name normalized="Basilea-Ciuda" languages="Asturian">Basilea-Ciudá</name>
+		<name normalized="Basilea-Ciutat" languages="Catalan">Basilea-Ciutat</name>
+		<name normalized="Basileia-Cidade" languages="Portuguese">Basileia-Cidade</name>
+		<name normalized="Basilej-mesto" languages="Czech">Basilej-město</name>
+		<name normalized="Bazilej-mesto" languages="Slovak">Bazilej-mesto</name>
+		<name normalized="Bazylea-Miasto" languages="Polish">Bazylea-Miasto</name>
+		<name normalized="Bala-Vela" languages="Franco-Provencal">Bâla-Vela</name>
+		<name normalized="Bale-Engumba" languages="Lingala">Bâle-Engumba</name>
+		<name normalized="Bazeles pilsetas kantons" languages="Latvian">Bāzeles pilsētas kantons</name>
+		<name normalized="Canton Basilea Citta" languages="Italian">Canton Basilea Città</name>
+		<name normalized="Canton Basilea-Cita" languages="Sicilian">Canton Basilea-Cità</name>
+		<name normalized="Canton de Basilea-Vila" languages="Occitan">Canton de Basilèa-Vila</name>
+		<name normalized="Canton de Bale-Ville" languages="French">Canton de Bâle-Ville</name>
+		<name normalized="Cantonul Basel-Oras" languages="Romanian">Cantonul Basel-Oraș</name>
+		<name normalized="Canton de Basilea-Ciudad" languages="Spanish">Cantón de Basilea-Ciudad</name>
+		<name normalized="Canton de Basilea-Ciudat" languages="Aragonese">Cantón de Basilea-Ciudat</name>
+		<name normalized="Chantun Basilea-Citad" languages="Romansh">Chantun Basilea-Citad</name>
+		<name normalized="Kanton Basel-Kota" languages="Indonesian">Kanton Basel-Kota</name>
+		<name normalized="Kanton Basel-Stadt" languages="Alemannisch;Breton;German">Kanton Basel-Stadt</name>
+		<name normalized="Kantono Bazelo Urba" languages="Esperanto">Kantono Bazelo Urba</name>
+		<name normalized="Mji wa Basel" languages="Swahili">Mji wa Basel</name>
+		<name normalized="Pagus Basilia Urbs" languages="Latin">Pagus Basilia Urbs</name>
+		<name normalized="Baziл Щat" languages="Bulgarian">Базел Щат</name>
+		<name normalized="Baziль-Stadt" languages="Kazakh;Russian;Ukrainian">Базель-Штадт</name>
+		<name normalized="Bazeль-Stat" languages="biлaрuсkai (taрaskivita)‎">Базэль-Штат</name>
+		<name normalized="Kaнtoн Baziл-gрad" languages="Serbian">Кантон Базел-град</name>
+		<name normalized="Kaнtoн Baziль-Stat" languages="Belarusian">Кантон Базель-Штат</name>
+		<name normalized="אیאلt bאزل אشtאد" languages="Persian">ایالت بازل اشتاد</name>
+		<name normalized="bאسل" languages="Western Punjabi">باسل</name>
+		<name normalized="kאنtون mدyنة bאزل" languages="Arabic">كانتون مدينة بازل</name>
+		<name normalized="bाsl-s्टाट" languages="Marathi">बासल-श्टाट</name>
+		<name normalized="bाsl-s्tाt kan्टn" languages="Hindi">बासल-श्तात कैन्टन</name>
+		<name normalized="ბაზელ-შტადტის კანტონი" languages="Georgian">ბაზელ-შტადტის კანტონი</name>
+		<name normalized="bーzr=syttt準州" languages="Japanese">バーゼル＝シュタット準州</name>
+		<name normalized="巴塞爾城市州" languages="Cantonese;Chinese">巴塞爾城市州</name>
+		<name normalized="바젤슈타트 주" languages="Korean">바젤슈타트 주</name>
+	</region>
+	<region name="Bern" type="canton" typeTranslated="Kanton">
+		<name normalized="Bann" languages="Deitsch">Bann</name>
+		<name normalized="Beirn" languages="Irish">Beirn</name>
+		<name normalized="Bern" languages="Achinese;Afrikaans;Alemannisch;Azerbaijani;Bosnian;Breton;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Dutch;English;Estonian;Faroese;Fiji Hindi;Finnish;German;Hungarian;Icelandic;Ido;Indonesian;Interlingue;Javanese;Kurdish;Lingala;Low German;Lower Sorbian;Luxembourgish;Malay;Maori;Nauru;Norfuk / Pitkern;Northern Frisian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Quechua;Scots;Serbo-Croatian;Shona;Simple English;Slovak;Slovenian;Swahili;Swedish;Turkish;Upper Sorbian;Veps;Vietnamese;Volapuk;Voro;Waray;Welsh;Western Frisian;Wolof;Zazaki">Bern</name>
+		<name normalized="Berna" languages="Albanian;Aragonese;Asturian;Basque;Catalan;Extremaduran;Friulian;Galician;Iloko;Italian;Latin;Ligure;lumbaart;Nahuatl;Neapolitan;Piedmontese;Portuguese;Romanian;Romansh;Sicilian;Spanish;Tagalog;veneto">Berna</name>
+		<name normalized="Bernas" languages="Lithuanian">Bernas</name>
+		<name normalized="Berne" languages="French;Latvian;Manx;Scottish Gaelic;Tok Pisin;Yoruba">Berne</name>
+		<name normalized="Berno" languages="Esperanto;Kashubian;Polish">Berno</name>
+		<name normalized="Ben" languages="Haitian">Bèn</name>
+		<name normalized="Berna" languages="Franco-Provencal;Occitan">Bèrna</name>
+		<name normalized="Βeρνη" languages="Greek">Βέρνη</name>
+		<name normalized="Biрн" languages="Bulgarian;Chechen;Chuvash;Kazakh;Macedonian;Mongolian;Ossetic;Russian;Sakha;Serbian;Tajik;Tatar;Udmurt;Ukrainian">Берн</name>
+		<name normalized="Beрн" languages="biлaрuсkai (taрaskivita)‎">Бэрн</name>
+		<name normalized="Goрad Biрн" languages="Belarusian">Горад Берн</name>
+		<name normalized="Bեrն" languages="Armenian">Բեռն</name>
+		<name normalized="bעrן" languages="Yiddish">בערן</name>
+		<name normalized="brן" languages="Hebrew">ברן</name>
+		<name normalized="brن" languages="Arabic;Persian;Urdu;Western Punjabi">برن</name>
+		<name normalized="byrن" languages="Egyptian Spoken Arabic">بيرن</name>
+		<name normalized="bێrن" languages="Sorani Kurdish">بێرن</name>
+		<name normalized="bېrن" languages="Uyghur">بېرن</name>
+		<name normalized="ܒܪܢ" languages="Aramaic">ܒܪܢ</name>
+		<name normalized="br्n" languages="Hindi;Marathi">बर्न</name>
+		<name normalized="ber্n" languages="Bengali">বের্ন</name>
+		<name normalized="brn" languages="Punjabi">ਬਰਨ</name>
+		<name normalized="ବର୍ନ" languages="Oriya">ବର୍ନ</name>
+		<name normalized="பேர்ன்" languages="Tamil">பேர்ன்</name>
+		<name normalized="ബേൺ" languages="Malayalam">ബേൺ</name>
+		<name normalized="เบิร์น" languages="Thai">เบิร์น</name>
+		<name normalized="པེར་ནེ།" languages="Tibetan">པེར་ནེ།</name>
+		<name normalized="ბერნი" languages="Georgian;Mingrelian">ბერნი</name>
+		<name normalized="ቤርን" languages="Amharic">ቤርን</name>
+		<name normalized="brn" languages="Japanese">ベルン</name>
+		<name normalized="伯尔尼" languages="Chinese">伯尔尼</name>
+		<name normalized="伯恩" languages="Cantonese">伯恩</name>
+		<name normalized="办合纳" languages="Wu">办合纳</name>
+		<name normalized="베른" languages="Korean">베른</name>
+	</region>
+	<region name="Fribourg" type="canton" typeTranslated="Kanton">
+		<name normalized="Canton Fribourg" languages="Javanese">Canton Fribourg</name>
+		<name normalized="Freiburg" languages="Volapuk">Freiburg</name>
+		<name normalized="Freiburg im Uechtland" languages="Alemannisch;German">Freiburg im Üechtland</name>
+		<name normalized="Friborgh" languages="Piedmontese">Friborgh</name>
+		<name normalized="Fribourg" languages="Albanian;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;French;Icelandic;Indonesian;Luxembourgish;Norwegian (bokmal);Norwegian Nynorsk;official;Romanian;Scottish Gaelic;Serbo-Croatian;Slovak;Slovenian;Swedish;Turkish;Vietnamese;Waray;Welsh">Fribourg</name>
+		<name normalized="Friburg" languages="Catalan;Romansh">Friburg</name>
+		<name normalized="Friburgh" languages="lumbaart">Friburgh</name>
+		<name normalized="Friburgo" languages="Basque;Esperanto;Italian;Portuguese;Spanish">Friburgo</name>
+		<name normalized="Friburgu" languages="Sicilian">Friburgu</name>
+		<name normalized="Friburgum" languages="Latin">Friburgum</name>
+		<name normalized="Friborg" languages="Franco-Provencal">Fribôrg</name>
+		<name normalized="Fribura" languages="Latvian">Fribūra</name>
+		<name normalized="Friburas" languages="Lithuanian">Fribūras</name>
+		<name normalized="Fryburg" languages="Polish">Fryburg</name>
+		<name normalized="Goрad Фрыbuр" languages="Belarusian">Горад Фрыбур</name>
+		<name normalized="Фрibuр" languages="Bulgarian;Chechen;Russian">Фрибур</name>
+		<name normalized="Фрibuр/Фрajbuрg" languages="Serbian">Фрибур/Фрајбург</name>
+		<name normalized="Фрыbuр" languages="biлaрuсkai (taрaskivita)‎">Фрыбур</name>
+		<name normalized="Фрibuр" languages="Ukrainian">Фрібур</name>
+		<name normalized="prיbvr" languages="Hebrew">פריבור</name>
+		<name normalized="frیbrg" languages="Western Punjabi">فریبرگ</name>
+		<name normalized="frیbوrg" languages="Persian">فریبورگ</name>
+		<name normalized="ფრიბური" languages="Georgian">ფრიბური</name>
+		<name normalized="hrbーr" languages="Japanese">フリブール</name>
+		<name normalized="弗里堡" languages="Chinese">弗里堡</name>
+		<name normalized="프리부르" languages="Korean">프리부르</name>
+	</region>
+	<region name="Geneve" type="canton" typeTranslated="Kanton">
+		<name normalized="An Ghineiv" languages="Irish">An Ghinéiv</name>
+		<name normalized="Cenevre" languages="Kurdish;Turkish">Cenevre</name>
+		<name normalized="Cenevrə" languages="Azerbaijani">Cenevrə</name>
+		<name normalized="Chinevra" languages="Aragonese">Chinevra</name>
+		<name normalized="Genava" languages="Latin">Genava</name>
+		<name normalized="Genebra" languages="Portuguese">Genebra</name>
+		<name normalized="Genefa" languages="Welsh">Genefa</name>
+		<name normalized="Geneva" languages="Basque;Breton;English;Fiji Hindi;Franco-Provencal;Malay;Romanian;Scots;Scottish Gaelic;Simple English;Swahili;Waray;Yoruba">Geneva</name>
+		<name normalized="Geneve" languages="English;Finnish;official">Geneve</name>
+		<name normalized="Genevra" languages="Romansh">Genevra</name>
+		<name normalized="Genewa" languages="Polish">Genewa</name>
+		<name normalized="Genf" languages="Alemannisch;Bavarian;Estonian;German;Hungarian;Icelandic;Low German;Luxembourgish;Northern Frisian;Old English">Genf</name>
+		<name normalized="Geneva" languages="Occitan">Genèva</name>
+		<name normalized="Geneve" languages="Afrikaans;Chinese (Min Nan);Danish;Dutch;French;Ido;Nauru;Norwegian (bokmal);Norwegian Nynorsk;Quechua;Swedish;Vietnamese;Volapuk">Genève</name>
+		<name normalized="Ginebra" languages="Catalan;Extremaduran;Spanish">Ginebra</name>
+		<name normalized="Ginevra" languages="Corsican;Italian;lumbaart;Neapolitan;Sardinian;Sicilian">Ginevra</name>
+		<name normalized="Gjeneva" languages="Albanian">Gjeneva</name>
+		<name normalized="Geneva" languages="Piedmontese">Gëneva</name>
+		<name normalized="Hinebra" languages="Tagalog">Hinebra</name>
+		<name normalized="Jenewa" languages="Indonesian">Jenewa</name>
+		<name normalized="Jenwe" languages="Uyghur">Jenwe</name>
+		<name normalized="Jenewa" languages="Javanese">Jenéwa</name>
+		<name normalized="Jineefa" languages="Somali">Jineefa</name>
+		<name normalized="Sjeneve" languages="Western Frisian">Sjenêve</name>
+		<name normalized="tcadrjenevu" languages="Lojban">tcadrjenevu</name>
+		<name normalized="Xenebra" languages="Galician">Xenebra</name>
+		<name normalized="Xinebra" languages="Asturian">Xinebra</name>
+		<name normalized="Zenevra" languages="veneto">Zenevra</name>
+		<name normalized="Genevo" languages="Esperanto">Ĝenevo</name>
+		<name normalized="Zeneva" languages="Bosnian;Croatian;Czech;Lithuanian;Serbo-Croatian;Slovak;Slovenian">Ženeva</name>
+		<name normalized="Zeneva" languages="Latvian">Ženēva</name>
+		<name normalized="Γενεuη" languages="Greek">Γενεύη</name>
+		<name normalized="Goрad Zeнiva" languages="Belarusian">Горад Жэнева</name>
+		<name normalized="Ziнiv" languages="Mongolian">Женев</name>
+		<name normalized="Ziнivae" languages="Ossetic">Женевæ</name>
+		<name normalized="Ziнiva" languages="Bulgarian;Chechen;Chuvash;Kazakh;Komi;Kyrgyz;Macedonian;Russian;Serbian;Tajik;Tatar;Ukrainian">Женева</name>
+		<name normalized="Ziнivi" languages="Eastern Mari">Женеве</name>
+		<name normalized="Zeнeva" languages="biлaрuсkai (taрaskivita)‎">Жэнэва</name>
+		<name normalized="Ժնև" languages="Armenian">Ժնև</name>
+		<name normalized="ז'nbh" languages="Hebrew">ז'נבה</name>
+		<name normalized="jنyf" languages="Arabic;Egyptian Spoken Arabic">جنيف</name>
+		<name normalized="jنیوא" languages="Urdu;Western Punjabi">جنیوا</name>
+		<name normalized="jنو" languages="Persian">ژنو</name>
+		<name normalized="jiniv्hा" languages="Marathi">जिनिव्हा</name>
+		<name normalized="jinivा" languages="Sanskrit">जिनीवा</name>
+		<name normalized="jinevा" languages="Hindi">जिनेवा</name>
+		<name normalized="jenebা" languages="Bengali">জেনেভা</name>
+		<name normalized="jinੇvਾ" languages="Punjabi">ਜਿਨੇਵਾ</name>
+		<name normalized="ஜெனீவா" languages="Tamil">ஜெனீவா</name>
+		<name normalized="ಜಿನಿವಾ" languages="Kannada">ಜಿನಿವಾ</name>
+		<name normalized="ജനീവ" languages="Malayalam">ജനീവ</name>
+		<name normalized="เจนีวา" languages="Thai">เจนีวา</name>
+		<name normalized="ཀྲེ་ནེ་ཝ།" languages="Tibetan">ཀྲེ་ནེ་ཝ།</name>
+		<name normalized="ဂျနီဗာမြို့" languages="Burmese">ဂျနီဗာမြို့</name>
+		<name normalized="ჟენევა" languages="Georgian">ჟენევა</name>
+		<name normalized="zynーv" languages="Japanese">ジュネーヴ</name>
+		<name normalized="日內瓦" languages="Cantonese">日內瓦</name>
+		<name normalized="日内瓦" languages="Chinese">日内瓦</name>
+		<name normalized="极乃伐" languages="Wu">极乃伐</name>
+		<name normalized="제네바" languages="Korean">제네바</name>
+	</region>
+	<region name="Glarus" type="canton" typeTranslated="Kanton">
+		<name normalized="Glaris" languages="Basque;Spanish">Glaris</name>
+		<name normalized="Glaris Centre" languages="French">Glaris Centre</name>
+		<name normalized="Glarona" languages="Italian;Latin;Portuguese">Glarona</name>
+		<name normalized="Glaruna" languages="lumbaart">Glaruna</name>
+		<name normalized="Glarus" languages="Albanian;Alemannisch;Catalan;Croatian;Czech;Danish;Dutch;English;Finnish;German;Indonesian;Norwegian (bokmal);Norwegian Nynorsk;official;Piedmontese;Polish;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Slovenian;Swedish;Turkish;Uzbek;Volapuk;Waray">Glarus</name>
+		<name normalized="Glaruso" languages="Esperanto">Glaruso</name>
+		<name normalized="Gлaрuс" languages="Bulgarian;Chechen;Kazakh;Russian;Serbian;Ukrainian">Гларус</name>
+		<name normalized="Gлiрuс" languages="biлaрuсkai (taрaskivita)‎">Глярус</name>
+		<name normalized="Goрad Gлaрuс" languages="Belarusian">Горад Гларус</name>
+		<name normalized="gلrو" languages="Persian">گلرو</name>
+		<name normalized="გლარუსი" languages="Georgian">გლარუსი</name>
+		<name normalized="grーrs" languages="Japanese">グラールス</name>
+		<name normalized="格拉魯斯" languages="Chinese">格拉魯斯</name>
+		<name normalized="글라루스" languages="Korean">글라루스</name>
+	</region>
+	<region name="Graubuenden" type="canton" typeTranslated="Kanton">
+		<name normalized="Canton des Grisons" languages="French">Canton des Grisons</name>
+		<name normalized="Canton Griggiuni" languages="Sicilian">Canton Griggiuni</name>
+		<name normalized="Canton Grisun" languages="lumbaart">Canton Grisun</name>
+		<name normalized="Canton Grixoni" languages="veneto">Canton Grixoni</name>
+		<name normalized="Canton y Grisons" languages="Welsh">Canton y Grisons</name>
+		<name normalized="Cantone dei Grigioni" languages="Italian">Cantone dei Grigioni</name>
+		<name normalized="Cantonul Grisunilor" languages="Romanian">Cantonul Grisunilor</name>
+		<name normalized="Canton d'os Grisons" languages="Aragonese">Cantón d'os Grisons</name>
+		<name normalized="Chantun Grischun" languages="Romansh">Chantun Grischun</name>
+		<name normalized="Etuka ya Mbwe" languages="Lingala">Etúká ya Mbwé</name>
+		<name normalized="Graubindenes kantons" languages="Latvian">Graubindenes kantons</name>
+		<name normalized="Graubiundenas" languages="Lithuanian">Graubiundenas</name>
+		<name normalized="Graubuenden" languages="English;official">Graubuenden</name>
+		<name normalized="Graubunden" languages="Bosnian;Croatian;Czech;Danish;Dutch;English;Finnish;Icelandic;Iloko;Javanese;Malay;Norwegian (bokmal);Norwegian Nynorsk;Scots;Serbo-Croatian;Simple English;Slovak;Slovenian;Swahili;Swedish;Turkish;Vietnamese;Waray">Graubünden</name>
+		<name normalized="Graubunden Chiu" languages="Chinese (Min Nan)">Graubünden Chiu</name>
+		<name normalized="Graubundeni kanton" languages="Estonian">Graubündeni kanton</name>
+		<name normalized="Gresons" languages="Franco-Provencal">Gresons</name>
+		<name normalized="Grischuns" languages="Scottish Gaelic">Grischuns</name>
+		<name normalized="Grisonia" languages="Basque;Latin;Spanish">Grisonia</name>
+		<name normalized="Grisons" languages="Catalan;Malagasy;Occitan">Grisons</name>
+		<name normalized="Grisons" languages="Galician">Grisóns</name>
+		<name normalized="Grisoes" languages="Portuguese">Grisões</name>
+		<name normalized="Gryzonia" languages="Polish">Gryzonia</name>
+		<name normalized="Kanton Graubunden" languages="Alemannisch;Breton;German;Indonesian">Kanton Graubünden</name>
+		<name normalized="Kantono Grizono" languages="Esperanto">Kantono Grizono</name>
+		<name normalized="Gрaubюнdiн" languages="Bulgarian;Kazakh;Ossetic;Russian;Ukrainian">Граубюнден</name>
+		<name normalized="Gрaўbюнdeн" languages="biлaрuсkai (taрaskivita)‎">Граўбюндэн</name>
+		<name normalized="Kaнtoн Gрaubiнdiн" languages="Serbian">Кантон Граубинден</name>
+		<name normalized="Kaнtoн Gрaўbюнdeн" languages="Belarusian">Кантон Граўбюндэн</name>
+		<name normalized="גrאvbיnדן" languages="Hebrew">גראובינדן</name>
+		<name normalized="אیאلt grאوbوندن" languages="Persian">ایالت گراوبوندن</name>
+		<name normalized="kאنtون غrאوbوندن" languages="Arabic">كانتون غراوبوندن</name>
+		<name normalized="grאوbندن" languages="Western Punjabi">گراوبندن</name>
+		<name normalized="g्rाubun्डn kan्टn" languages="Hindi">ग्राउबुन्डन कैन्टन</name>
+		<name normalized="g्rाub्yuंडn" languages="Marathi">ग्राउब्युंडन</name>
+		<name normalized="รัฐเกราบึนเดิน" languages="Thai">รัฐเกราบึนเดิน</name>
+		<name normalized="გრაუბიუნდენის კანტონი" languages="Georgian">გრაუბიუნდენის კანტონი</name>
+		<name normalized="grubyndn州" languages="Japanese">グラウビュンデン州</name>
+		<name normalized="格勞賓登州" languages="Chinese">格勞賓登州</name>
+		<name normalized="그라우뷘덴 주" languages="Korean">그라우뷘덴 주</name>
+	</region>
+	<region name="Jura" type="canton" typeTranslated="Kanton">
+		<name normalized="Canton de Jura" languages="Occitan">Canton de Jura</name>
+		<name normalized="Canton du Jura" languages="French">Canton du Jura</name>
+		<name normalized="Canton Giura" languages="Italian;Sicilian">Canton Giura</name>
+		<name normalized="Canton Giura" languages="lumbaart">Canton Giüra</name>
+		<name normalized="Canton Jura" languages="veneto">Canton Jura</name>
+		<name normalized="Canton of Jura" languages="English">Canton of Jura</name>
+		<name normalized="Cantonul Jura" languages="Romanian">Cantonul Jura</name>
+		<name normalized="Canto del Jura" languages="Catalan">Cantó del Jura</name>
+		<name normalized="Canton de Jura" languages="Aragonese">Cantón de Jura</name>
+		<name normalized="Canton de Xura" languages="Galician">Cantón de Xura</name>
+		<name normalized="Canton del Jura" languages="Spanish">Cantón del Jura</name>
+		<name normalized="Chantun Giura" languages="Romansh">Chantun Giura</name>
+		<name normalized="Canton du Jura" languages="Franco-Provencal">Cànton du Jura</name>
+		<name normalized="Iura" languages="Latin">Iura</name>
+		<name normalized="Jimbo la Jura" languages="Swahili">Jimbo la Jura</name>
+		<name normalized="Jura" languages="Bosnian;Croatian;Czech;Dutch;English;Finnish;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Swedish;Turkish;Vietnamese;Waray;Welsh">Jura</name>
+		<name normalized="Jura Chiu" languages="Chinese (Min Nan)">Jura Chiu</name>
+		<name normalized="Jura kanton" languages="Estonian">Jura kanton</name>
+		<name normalized="Jura kantonamendua" languages="Basque">Jura kantonamendua</name>
+		<name normalized="Juras kantons" languages="Latvian">Juras kantons</name>
+		<name normalized="Juros kantonas" languages="Lithuanian">Juros kantonas</name>
+		<name normalized="Jura" languages="Icelandic">Júra</name>
+		<name normalized="Kanton iti Jura" languages="Iloko">Kanton iti Jura</name>
+		<name normalized="Kanton Jura" languages="Alemannisch;Breton;Danish;German;Indonesian;Javanese">Kanton Jura</name>
+		<name normalized="Kantonen Jura" languages="Norwegian Nynorsk">Kantonen Jura</name>
+		<name normalized="Kantono Juraso" languages="Esperanto">Kantono Ĵuraso</name>
+		<name normalized="Wilayah Jura" languages="Malay">Wilayah Jura</name>
+		<name normalized="Kaнtoн Юрa" languages="Belarusian">Кантон Юра</name>
+		<name normalized="Kaнtoн Juрa" languages="Serbian">Кантон Јура</name>
+		<name normalized="Юрa" languages="Bulgarian;Kazakh;Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Юра</name>
+		<name normalized="ז'vrh" languages="Hebrew">ז'ורה</name>
+		<name normalized="אیאلt jوrא" languages="Persian">ایالت ژورا</name>
+		<name normalized="jوrא" languages="Western Punjabi">جورا</name>
+		<name normalized="kאنtون jوrא" languages="Arabic">كانتون جورا</name>
+		<name normalized="jurा kan्टn" languages="Hindi">जूरा कैन्टन</name>
+		<name normalized="yurा" languages="Marathi">युरा</name>
+		<name normalized="รัฐชูรา" languages="Thai">รัฐชูรา</name>
+		<name normalized="იურის კანტონი" languages="Georgian">იურის კანტონი</name>
+		<name normalized="zyr州" languages="Japanese">ジュラ州</name>
+		<name normalized="汝拉州" languages="Chinese">汝拉州</name>
+		<name normalized="쥐라 주" languages="Korean">쥐라 주</name>
+	</region>
+	<region name="Luzern" type="canton" typeTranslated="Kanton">
+		<name normalized="Canton Lucerne" languages="Javanese">Canton Lucerne</name>
+		<name normalized="Liucerna" languages="Lithuanian">Liucerna</name>
+		<name normalized="Lucern" languages="Bosnian;Czech">Lucern</name>
+		<name normalized="Lucerna" languages="Catalan;Galician;Italian;Latin;Latvian;Piedmontese;Polish;Portuguese;Romanian;Romansh;Sicilian;Spanish">Lucerna</name>
+		<name normalized="Lucerne" languages="English;French;Occitan;Scots;Simple English;Vietnamese;Waray;Welsh">Lucerne</name>
+		<name normalized="Lucerni" languages="Albanian">Lucerni</name>
+		<name normalized="Lucerno" languages="Esperanto">Lucerno</name>
+		<name normalized="Luzern" languages="Afrikaans;Alemannisch;Chinese (Min Nan);Croatian;Danish;Dutch;English;Estonian;Finnish;German;Hungarian;Icelandic;Indonesian;Irish;Luxembourgish;Nauru;Norwegian (bokmal);Norwegian Nynorsk;official;Scottish Gaelic;Serbo-Croatian;Slovak;Slovenian;Swedish;Turkish;Uzbek;Volapuk">Luzern</name>
+		<name normalized="Luzerna" languages="Basque">Luzerna</name>
+		<name normalized="Luzerna" languages="lumbaart">Lüzerna</name>
+		<name normalized="Luxerna" languages="veneto">Łuxerna</name>
+		<name normalized="Λουκeρνη" languages="Greek">Λουκέρνη</name>
+		<name normalized="Goрad Люteрн" languages="Belarusian">Горад Люцэрн</name>
+		<name normalized="Лutiрн" languages="Serbian">Луцерн</name>
+		<name normalized="Люtiрн" languages="Bulgarian;Chechen;Kazakh;Ossetic;Russian;Ukrainian">Люцерн</name>
+		<name normalized="Люteрн" languages="biлaрuсkai (taрaskivita)‎">Люцэрн</name>
+		<name normalized="דvצrן" languages="Hebrew">לוצרן</name>
+		<name normalized="لوسrن" languages="Arabic;Persian">لوسرن</name>
+		<name normalized="ལུ་ཛེར་ན།" languages="Tibetan">ལུ་ཛེར་ན།</name>
+		<name normalized="ლუცერნი" languages="Georgian">ლუცერნი</name>
+		<name normalized="rtern" languages="Japanese">ルツェルン</name>
+		<name normalized="卢塞恩" languages="Chinese">卢塞恩</name>
+		<name normalized="루체른" languages="Korean">루체른</name>
+	</region>
+	<region name="Neuchatel" type="canton" typeTranslated="Kanton">
+		<name normalized="Neuchatel" languages="English;official">Neuchatel</name>
+		<name normalized="Neuchatel" languages="Albanian;Basque;Breton;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;French;Hungarian;Icelandic;Indonesian;Italian;lumbaart;Luxembourgish;Norwegian (bokmal);Norwegian Nynorsk;Polish;Portuguese;Romanian;Romansh;Scottish Gaelic;Serbo-Croatian;Sicilian;Simple English;Slovak;Spanish;Swedish;Turkish;Vietnamese;Volapuk;Waray;Welsh">Neuchâtel</name>
+		<name normalized="Neuenburg" languages="Alemannisch">Neuenburg</name>
+		<name normalized="Neuenburg NE" languages="German">Neuenburg NE</name>
+		<name normalized="Nesatelis" languages="Lithuanian">Nešatelis</name>
+		<name normalized="Neusatelo" languages="Esperanto">Neŭŝatelo</name>
+		<name normalized="Novicastrum" languages="Latin">Novicastrum</name>
+		<name normalized="Nochathel" languages="Franco-Provencal">Nôchâthél</name>
+		<name normalized="Goрad Нёўsateль" languages="Belarusian">Горад Нёўшатэль</name>
+		<name normalized="Нivsatiль" languages="Chechen;Russian;Ukrainian">Невшатель</name>
+		<name normalized="Нisatiл" languages="Serbian">Нешател</name>
+		<name normalized="Ньosatiл" languages="Bulgarian">Ньошател</name>
+		<name normalized="Нeўsateль" languages="biлaрuсkai (taрaskivita)‎">Нэўшатэль</name>
+		<name normalized="نوشאtل" languages="Persian">نوشاتل</name>
+		<name normalized="نوشאtyل" languages="Arabic">نوشاتيل</name>
+		<name normalized="نیوشאtیل" languages="Western Punjabi">نیوشاتیل</name>
+		<name normalized="n्yusाtel" languages="Marathi">न्यूशातेल</name>
+		<name normalized="nーsytr" languages="Japanese">ヌーシャテル</name>
+		<name normalized="纳沙泰尔" languages="Chinese">纳沙泰尔</name>
+		<name normalized="뇌샤텔" languages="Korean">뇌샤텔</name>
+	</region>
+	<region name="Nidwalden" type="canton" typeTranslated="Kanton">
+		<name normalized="Canton de Nidwald" languages="French;Occitan">Canton de Nidwald</name>
+		<name normalized="Canton Nidvaldo" languages="Italian;veneto">Canton Nidvaldo</name>
+		<name normalized="Canton Nidvaldu" languages="Sicilian">Canton Nidvaldu</name>
+		<name normalized="Cantonul Nidwald" languages="Romanian">Cantonul Nidwald</name>
+		<name normalized="Canton de Nidwalden" languages="Aragonese;Spanish">Cantón de Nidwalden</name>
+		<name normalized="Chantun Sutsilvania" languages="Romansh">Chantun Sutsilvania</name>
+		<name normalized="Kanton Nidwalden" languages="Alemannisch;Breton;German;Indonesian">Kanton Nidwalden</name>
+		<name normalized="Kantono Nidvaldo" languages="Esperanto">Kantono Nidvaldo</name>
+		<name normalized="Nidvalde" languages="Franco-Provencal">Nidvalde</name>
+		<name normalized="Nidvaldenas" languages="Lithuanian">Nidvaldenas</name>
+		<name normalized="Nidvaldenes kantons" languages="Latvian">Nidvaldenes kantons</name>
+		<name normalized="Nidwald" languages="Portuguese">Nidwald</name>
+		<name normalized="Nidwalden" languages="Basque;Bosnian;Catalan;Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;Galician;Iloko;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Swahili;Swedish;Turkish;Vietnamese;Waray;Welsh">Nidwalden</name>
+		<name normalized="Nidwalden Chiu" languages="Chinese (Min Nan)">Nidwalden Chiu</name>
+		<name normalized="Subsilvania inferior" languages="Latin">Subsilvania inferior</name>
+		<name normalized="Kaнtoн Нidvaлdiн" languages="Serbian">Кантон Нидвалден</name>
+		<name normalized="Kaнtoн Нidvaльdeн" languages="Belarusian">Кантон Нідвальдэн</name>
+		<name normalized="Нidvaлdiн" languages="Bulgarian">Нидвалден</name>
+		<name normalized="Нidvaльdiн" languages="Kazakh;Russian">Нидвальден</name>
+		<name normalized="Нidvaльdiн" languages="Ukrainian">Нідвальден</name>
+		<name normalized="Нidvaльdeн" languages="biлaрuсkai (taрaskivita)‎">Нідвальдэн</name>
+		<name normalized="Նիdվաldեն" languages="Armenian">Նիդվալդեն</name>
+		<name normalized="nידvvדדן" languages="Hebrew">נידוולדן</name>
+		<name normalized="אیאلt نیدوאلدن" languages="Persian">ایالت نیدوالدن</name>
+		<name normalized="kאنtون نyدfאلدن" languages="Arabic">كانتون نيدفالدن</name>
+		<name normalized="نیدوאلڈن" languages="Western Punjabi">نیدوالڈن</name>
+		<name normalized="niडvाl्डn" languages="Marathi">निडवाल्डन</name>
+		<name normalized="niडvाl्डn kan्टn" languages="Hindi">नीडवाल्डन कैन्टन</name>
+		<name normalized="ნიდვალდენის კანტონი" languages="Georgian">ნიდვალდენის კანტონი</name>
+		<name normalized="ntvardn準州" languages="Japanese">ニトヴァルデン準州</name>
+		<name normalized="下瓦爾登州" languages="Chinese">下瓦爾登州</name>
+		<name normalized="니트발덴 주" languages="Korean">니트발덴 주</name>
+	</region>
+	<region name="Obwalden" type="canton" typeTranslated="Kanton">
+		<name normalized="Canton d'Obwald" languages="French;Occitan">Canton d'Obwald</name>
+		<name normalized="Canton Obvaldo" languages="Italian">Canton Obvaldo</name>
+		<name normalized="Canton Obvaldu" languages="Sicilian">Canton Obvaldu</name>
+		<name normalized="Cantonul Obwald" languages="Romanian">Cantonul Obwald</name>
+		<name normalized="Canton d'Obwalden" languages="Aragonese">Cantón d'Obwalden</name>
+		<name normalized="Canton de Obwalden" languages="Spanish">Cantón de Obwalden</name>
+		<name normalized="Chantun Sursilvania" languages="Romansh">Chantun Sursilvania</name>
+		<name normalized="Kanton Obwalden" languages="Alemannisch;Breton;German;Indonesian;Luxembourgish">Kanton Obwalden</name>
+		<name normalized="Kantoni Obwalden" languages="Albanian">Kantoni Obwalden</name>
+		<name normalized="Kantono Obvaldo" languages="Esperanto">Kantono Obvaldo</name>
+		<name normalized="Obvalde" languages="Franco-Provencal">Obvalde</name>
+		<name normalized="Obvaldenas" languages="Lithuanian">Obvaldenas</name>
+		<name normalized="Obvaldenes kantons" languages="Latvian">Obvaldenes kantons</name>
+		<name normalized="Obwald" languages="Portuguese">Obwald</name>
+		<name normalized="Obwalden" languages="Basque;Bosnian;Catalan;Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;Galician;Iloko;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Swahili;Swedish;Turkish;Vietnamese;Waray;Welsh">Obwalden</name>
+		<name normalized="Obwalden Chiu" languages="Chinese (Min Nan)">Obwalden Chiu</name>
+		<name normalized="Subsilvania superior" languages="Latin">Subsilvania superior</name>
+		<name normalized="Kaнtoн Obvaлdiн" languages="Serbian">Кантон Обвалден</name>
+		<name normalized="Kaнtoн Obvaльdeн" languages="Belarusian">Кантон Обвальдэн</name>
+		<name normalized="Obvaлdiн" languages="Bulgarian">Обвалден</name>
+		<name normalized="Obvaльdiн" languages="Kazakh;Russian;Ukrainian">Обвальден</name>
+		<name normalized="Obvaльdeн" languages="biлaрuсkai (taрaskivita)‎">Обвальдэн</name>
+		<name normalized="אvbvvדדן" languages="Hebrew">אובוולדן</name>
+		<name normalized="אوbوאلڈن" languages="Western Punjabi">اوبوالڈن</name>
+		<name normalized="אیאلt אbوאلدن" languages="Persian">ایالت ابوالدن</name>
+		<name normalized="kאنtون أوbfאلدن" languages="Arabic">كانتون أوبفالدن</name>
+		<name normalized="obvाl्डn" languages="Marathi">ओबवाल्डन</name>
+		<name normalized="obvाl्डn kan्टn" languages="Hindi">ओबवाल्डन कैन्टन</name>
+		<name normalized="ობვალდენის კანტონი" languages="Georgian">ობვალდენის კანტონი</name>
+		<name normalized="opvardn準州" languages="Japanese">オプヴァルデン準州</name>
+		<name normalized="上瓦爾登州" languages="Chinese">上瓦爾登州</name>
+		<name normalized="옵발덴 주" languages="Korean">옵발덴 주</name>
+	</region>
+	<region name="Sankt Gallen" type="canton" typeTranslated="Kanton">
+		<name normalized="San Gal" languages="lumbaart">San Gal</name>
+		<name normalized="San Gallo" languages="Italian">San Gallo</name>
+		<name normalized="Sanctogallum" languages="Latin">Sanctogallum</name>
+		<name normalized="Sankt Gallen" languages="Dutch;English;official;Polish;Slovak;Volapuk">Sankt Gallen</name>
+		<name normalized="St. Gallen" languages="Alemannisch;Czech;German">St. Gallen</name>
+		<name normalized="Сaнkt-Gaллiн" languages="Russian">Санкт-Галлен</name>
+		<name normalized="סnt גאדן" languages="Hebrew">סנט גאלן</name>
+	</region>
+	<region name="Schaffhausen" type="canton" typeTranslated="Kanton">
+		<name normalized="Scafusa" languages="Latin">Scafusa</name>
+		<name normalized="Schaffhausen" languages="Alemannisch;Basque;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Finnish;Galician;German;Hungarian;Icelandic;Indonesian;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Piedmontese;Portuguese;Romanian;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Slovenian;Spanish;Swedish;Turkish;Volapuk;Waray;Welsh">Schaffhausen</name>
+		<name normalized="Schaffhouse" languages="French">Schaffhouse</name>
+		<name normalized="Schaffusa" languages="Romansh">Schaffusa</name>
+		<name normalized="Sciaffusa" languages="Italian">Sciaffusa</name>
+		<name normalized="Sciafusa" languages="lumbaart">Sciafüsa</name>
+		<name normalized="Szafuza" languages="Polish">Szafuza</name>
+		<name normalized="Safhauzo" languages="Esperanto">Ŝafhaŭzo</name>
+		<name normalized="Safhauzenas" languages="Lithuanian">Šafhauzenas</name>
+		<name normalized="Safhauzene" languages="Latvian">Šafhauzene</name>
+		<name normalized="Saффgauziн" languages="Ukrainian">Шаффгаузен</name>
+		<name normalized="Saффkauziн" languages="Chechen;Kazakh;Russian">Шаффхаузен</name>
+		<name normalized="Saфkauziн" languages="Bulgarian;Serbian">Шафхаузен</name>
+		<name normalized="شאfہאؤزن" languages="Western Punjabi">شافہاؤزن</name>
+		<name normalized="شfوزאن" languages="Persian">شفوزان</name>
+		<name normalized="ชาฟฟ์เฮาเซิน" languages="Thai">ชาฟฟ์เฮาเซิน</name>
+		<name normalized="syhhuzn" languages="Japanese">シャフハウゼン</name>
+		<name normalized="沙夫豪森" languages="Chinese">沙夫豪森</name>
+		<name normalized="샤프하우젠" languages="Korean">샤프하우젠</name>
+	</region>
+	<region name="Schwyz" type="canton" typeTranslated="Kanton">
+		<name normalized="Schwytz" languages="French">Schwytz</name>
+		<name normalized="Schwyz" languages="Alemannisch;Basque;Breton;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Finnish;German;Indonesian;Norwegian (bokmal);Norwegian Nynorsk;official;Piedmontese;Polish;Portuguese;Scots;Scottish Gaelic;Serbo-Croatian;Slovak;Spanish;Swedish;Turkish;Uzbek;Volapuk;Waray">Schwyz</name>
+		<name normalized="Shvits" languages="Lingala">Shvits</name>
+		<name normalized="Suitius" languages="Latin">Suitius</name>
+		<name normalized="Svit" languages="lumbaart">Svit</name>
+		<name normalized="Svitto" languages="Italian">Svitto</name>
+		<name normalized="Sviz" languages="Romansh">Sviz</name>
+		<name normalized="Svico" languages="Esperanto">Ŝvico</name>
+		<name normalized="Svit" languages="Bulgarian;Chechen;Kazakh;Russian;Serbian">Швиц</name>
+		<name normalized="Svit" languages="Ukrainian">Швіц</name>
+		<name normalized="شوئیز" languages="Persian">شوئیز</name>
+		<name normalized="شوאئز شہr" languages="Western Punjabi">شوائز شہر</name>
+		<name normalized="syviーt" languages="Japanese">シュヴィーツ</name>
+		<name normalized="施維茨" languages="Chinese">施維茨</name>
+		<name normalized="슈비츠" languages="Korean">슈비츠</name>
+	</region>
+	<region name="Solothurn" type="canton" typeTranslated="Kanton">
+		<name normalized="Soletta" languages="Italian">Soletta</name>
+		<name normalized="Soleura" languages="Portuguese;Spanish">Soleura</name>
+		<name normalized="Soleure" languages="French">Soleure</name>
+		<name normalized="Solloturni" languages="Albanian">Solloturni</name>
+		<name normalized="Solodurum" languages="Latin">Solodurum</name>
+		<name normalized="Solothurn" languages="Alemannisch;Basque;Catalan;Chinese (Min Nan);Czech;Danish;Dutch;English;Finnish;German;Hungarian;Indonesian;Norwegian (bokmal);Norwegian Nynorsk;official;Piedmontese;Romanian;Scottish Gaelic;Serbo-Croatian;Sicilian;Slovak;Swedish;Uzbek;Vietnamese;Volapuk;Waray;Welsh">Solothurn</name>
+		<name normalized="Soloturn" languages="Romansh">Soloturn</name>
+		<name normalized="Soloturno" languages="Esperanto">Soloturno</name>
+		<name normalized="Solura" languages="Polish">Solura</name>
+		<name normalized="Suleta" languages="lumbaart">Suleta</name>
+		<name normalized="Zoloturnas" languages="Lithuanian">Zoloturnas</name>
+		<name normalized="Goрad Zaлatuрн" languages="Belarusian">Горад Залатурн</name>
+		<name normalized="Zaлatuрн" languages="biлaрuсkai (taрaskivita)‎">Залатурн</name>
+		<name normalized="Zoлotuрн" languages="Bulgarian;Chechen;Kazakh;Russian;Serbian;Ukrainian">Золотурн</name>
+		<name normalized="זvדvtvrן" languages="Hebrew">זולותורן</name>
+		<name normalized="سولوtوrن" languages="Arabic;Persian">سولوتورن</name>
+		<name normalized="โซโลทูร์น" languages="Thai">โซโลทูร์น</name>
+		<name normalized="ზოლოთურნი" languages="Georgian">ზოლოთურნი</name>
+		<name normalized="zrturn" languages="Japanese">ゾロトゥルン</name>
+		<name normalized="索洛图恩" languages="Chinese">索洛图恩</name>
+		<name normalized="졸로투른" languages="Korean">졸로투른</name>
+	</region>
+	<region name="Thurgau" type="canton" typeTranslated="Kanton">
+		<name normalized="Canton de Thurgovie" languages="French">Canton de Thurgovie</name>
+		<name normalized="Canton de Turgovia" languages="Occitan">Canton de Turgòvia</name>
+		<name normalized="Canton Turgovia" languages="Italian;Sicilian;veneto">Canton Turgovia</name>
+		<name normalized="Canton Turgovia" languages="lumbaart">Canton Türgovia</name>
+		<name normalized="Cantonul Turgovia" languages="Romanian">Cantonul Turgovia</name>
+		<name normalized="Canton de Turgovia" languages="Aragonese;Spanish">Cantón de Turgovia</name>
+		<name normalized="Chantun Turgovia" languages="Romansh">Chantun Turgovia</name>
+		<name normalized="Kanton Thurgau" languages="Alemannisch;Breton;German;Indonesian">Kanton Thurgau</name>
+		<name normalized="Kantono Turgovio" languages="Esperanto">Kantono Turgovio</name>
+		<name normalized="Thurgau" languages="Albanian;Bosnian;Croatian;Czech;Danish;Dutch;English;Finnish;Icelandic;Iloko;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Swahili;Swedish;Turkish;Vietnamese;Waray;Welsh">Thurgau</name>
+		<name normalized="Thurgau Chiu" languages="Chinese (Min Nan)">Thurgau Chiu</name>
+		<name normalized="Thurgau kanton" languages="Estonian">Thurgau kanton</name>
+		<name normalized="Turgau" languages="Lithuanian">Turgau</name>
+		<name normalized="Turgavas kantons" languages="Latvian">Turgavas kantons</name>
+		<name normalized="Turgovia" languages="Basque;Franco-Provencal;Galician;Latin">Turgovia</name>
+		<name normalized="Turgowia" languages="Polish">Turgowia</name>
+		<name normalized="Turgovia" languages="Catalan">Turgòvia</name>
+		<name normalized="Turgovia" languages="Portuguese">Turgóvia</name>
+		<name normalized="Kaнtoн Tuрgau" languages="Belarusian;Serbian">Кантон Тургау</name>
+		<name normalized="Tuрgau" languages="Bulgarian;Kazakh;Russian;Ukrainian">Тургау</name>
+		<name normalized="Tuрgaў" languages="biлaрuсkai (taрaskivita)‎">Тургаў</name>
+		<name normalized="tvrגאv" languages="Hebrew">תורגאו</name>
+		<name normalized="אیאلt tوrgאو" languages="Persian">ایالت تورگاو</name>
+		<name normalized="tھrgאو" languages="Western Punjabi">تھرگاو</name>
+		<name normalized="kאنtون tوrغאو" languages="Arabic">كانتون تورغاو</name>
+		<name normalized="ठurgाu kan्टn" languages="Hindi">ठूरगाउ कैन्टन</name>
+		<name normalized="tur्gाu" languages="Marathi">थुर्गाउ</name>
+		<name normalized="รัฐทูร์เกา" languages="Thai">รัฐทูร์เกา</name>
+		<name normalized="თურგაუს კანტონი" languages="Georgian">თურგაუს კანტონი</name>
+		<name normalized="tuーrgu州" languages="Japanese">トゥールガウ州</name>
+		<name normalized="圖爾高州" languages="Chinese">圖爾高州</name>
+		<name normalized="투르가우 주" languages="Korean">투르가우 주</name>
+	</region>
+	<region name="Ticino" type="canton" typeTranslated="Kanton">
+		<name normalized="Canton de Tecin" languages="Occitan">Canton de Tecin</name>
+		<name normalized="Canton du Tessin" languages="French">Canton du Tessin</name>
+		<name normalized="Canton Tesin" languages="lumbaart">Canton Tesin</name>
+		<name normalized="Canton Ticino" languages="Italian">Canton Ticino</name>
+		<name normalized="Canton Tisin" languages="veneto">Canton Tisin</name>
+		<name normalized="Cantonul Ticino" languages="Romanian">Cantonul Ticino</name>
+		<name normalized="Canto de Ticino" languages="Catalan">Cantó de Ticino</name>
+		<name normalized="Canton d'o Tesino" languages="Aragonese">Cantón d'o Tesino</name>
+		<name normalized="Canton del Tesino" languages="Spanish">Cantón del Tesino</name>
+		<name normalized="Chantun Tessin" languages="Romansh">Chantun Tessin</name>
+		<name normalized="Kanton Tessin" languages="Alemannisch;German">Kanton Tessin</name>
+		<name normalized="Kanton Ticino" languages="Breton;Indonesian;Javanese">Kanton Ticino</name>
+		<name normalized="Kantono Ticino" languages="Esperanto">Kantono Tiĉino</name>
+		<name normalized="Tesino" languages="Galician">Tesino</name>
+		<name normalized="Tessin" languages="Franco-Provencal">Tessin</name>
+		<name normalized="Ticino" languages="Basque;Bosnian;Croatian;Czech;Danish;Dutch;English;Finnish;Icelandic;Iloko;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Swahili;Swedish;Turkish;Vietnamese;Waray;Welsh">Ticino</name>
+		<name normalized="Ticino Chiu" languages="Chinese (Min Nan)">Ticino Chiu</name>
+		<name normalized="Ticino kanton" languages="Estonian">Ticino kanton</name>
+		<name normalized="Ticinu" languages="Sicilian">Ticinu</name>
+		<name normalized="Ticinum" languages="Latin">Ticinum</name>
+		<name normalized="Ticinas" languages="Lithuanian">Tičinas</name>
+		<name normalized="Ticino kantons" languages="Latvian">Tičīno kantons</name>
+		<name normalized="Kaнtoн Ticiнo" languages="Serbian">Кантон Тичино</name>
+		<name normalized="Kaнtoн Tыcынa" languages="Belarusian">Кантон Тычына</name>
+		<name normalized="Ticiнo" languages="Bulgarian;Kazakh;Macedonian;Ossetic;Russian">Тичино</name>
+		<name normalized="Tыcынa" languages="biлaрuсkai (taрaskivita)‎">Тычына</name>
+		<name normalized="Ticiнo" languages="Ukrainian">Тічино</name>
+		<name normalized="tיצ'יnv" languages="Hebrew">טיצ'ינו</name>
+		<name normalized="אیאلt tیچینو" languages="Persian">ایالت تیچینو</name>
+		<name normalized="kאنtون tyسyنو" languages="Arabic">كانتون تيسينو</name>
+		<name normalized="ٹیسینو" languages="Western Punjabi">ٹیسینو</name>
+		<name normalized="ticino" languages="Marathi">तिचिनो</name>
+		<name normalized="ticino kan्टn" languages="Hindi">तिचीनो कैन्टन</name>
+		<name normalized="ടിച്ചീനോ" languages="Malayalam">ടിച്ചീനോ</name>
+		<name normalized="รัฐทีชีโน" languages="Thai">รัฐทีชีโน</name>
+		<name normalized="ტიჩინოს კანტონი" languages="Georgian">ტიჩინოს კანტონი</name>
+		<name normalized="titーn州" languages="Japanese">ティチーノ州</name>
+		<name normalized="提契諾州" languages="Chinese">提契諾州</name>
+		<name normalized="티치노 주" languages="Korean">티치노 주</name>
+	</region>
+	<region name="Uri" type="canton" typeTranslated="Kanton">
+		<name normalized="Bang Uri" languages="Vietnamese">Bang Uri</name>
+		<name normalized="Canton d'Uri" languages="French;Occitan">Canton d'Uri</name>
+		<name normalized="Canton of Uri" languages="English">Canton of Uri</name>
+		<name normalized="Canton Uri" languages="Italian;lumbaart;Sicilian;veneto">Canton Uri</name>
+		<name normalized="Cantonul Uri" languages="Romanian">Cantonul Uri</name>
+		<name normalized="Canton d'Uri" languages="Aragonese">Cantón d'Uri</name>
+		<name normalized="Canton de Uri" languages="Galician;Spanish">Cantón de Uri</name>
+		<name normalized="Chantun Uri" languages="Romansh">Chantun Uri</name>
+		<name normalized="Jimbo la Uri" languages="Swahili">Jimbo la Uri</name>
+		<name normalized="Kanton iti Uri" languages="Iloko">Kanton iti Uri</name>
+		<name normalized="Kanton Uri" languages="Alemannisch;Breton;Danish;German;Indonesian;Luxembourgish">Kanton Uri</name>
+		<name normalized="Kantoni Uri" languages="Albanian">Kantoni Uri</name>
+		<name normalized="Kantono Urio" languages="Esperanto">Kantono Urio</name>
+		<name normalized="Ouri" languages="Franco-Provencal">Ouri</name>
+		<name normalized="Urania" languages="Latin">Urania</name>
+		<name normalized="Uri" languages="Bosnian;Catalan;Croatian;Czech;Dutch;English;Finnish;Icelandic;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Slovenian;Swedish;Turkish;Waray;Welsh">Uri</name>
+		<name normalized="Uri Chiu" languages="Chinese (Min Nan)">Uri Chiu</name>
+		<name normalized="Uri kanton" languages="Estonian">Uri kanton</name>
+		<name normalized="Uri kantonamendua" languages="Basque">Uri kantonamendua</name>
+		<name normalized="Uris" languages="Lithuanian">Uris</name>
+		<name normalized="Uri kantons" languages="Latvian">Ūrī kantons</name>
+		<name normalized="Kaнtoн Uрi" languages="Serbian">Кантон Ури</name>
+		<name normalized="Kaнtoн Uры" languages="Belarusian">Кантон Уры</name>
+		<name normalized="Uрi" languages="Bulgarian;Kazakh;Russian">Ури</name>
+		<name normalized="Uры" languages="biлaрuсkai (taрaskivita)‎">Уры</name>
+		<name normalized="Uрi" languages="Ukrainian">Урі</name>
+		<name normalized="אvrי" languages="Hebrew">אורי</name>
+		<name normalized="אrی" languages="Western Punjabi">اری</name>
+		<name normalized="אیאلt אوrی" languages="Persian">ایالت اوری</name>
+		<name normalized="kאنtون أوry" languages="Arabic">كانتون أوري</name>
+		<name normalized="uri" languages="Marathi">उरी</name>
+		<name normalized="uri kan्टn" languages="Hindi">ऊरी कैन्टन</name>
+		<name normalized="ურის კანტონი" languages="Georgian">ურის კანტონი</name>
+		<name normalized="uーr州" languages="Japanese">ウーリ州</name>
+		<name normalized="烏里州" languages="Chinese">烏里州</name>
+		<name normalized="우리 주" languages="Korean">우리 주</name>
+	</region>
+	<region name="Valais" type="canton" typeTranslated="Kanton">
+		<name normalized="Canton de Vales" languages="Occitan">Canton de Valés</name>
+		<name normalized="Canton du Valais" languages="French">Canton du Valais</name>
+		<name normalized="Canton du Vales" languages="Franco-Provencal">Canton du Valês</name>
+		<name normalized="Canton Vales" languages="lumbaart">Canton Vales</name>
+		<name normalized="Canton Vallese" languages="Italian">Canton Vallese</name>
+		<name normalized="Canton Vallisi" languages="Sicilian">Canton Vallisi</name>
+		<name normalized="Canton Valexe" languages="veneto">Canton Vałexe</name>
+		<name normalized="Cantone Vallese" languages="Neapolitan">Cantone Vallese</name>
+		<name normalized="Cantonul Valais" languages="Romanian">Cantonul Valais</name>
+		<name normalized="Canton d'o Valais" languages="Aragonese">Cantón d'o Valais</name>
+		<name normalized="Canton del Valais" languages="Spanish">Cantón del Valais</name>
+		<name normalized="Chantun Vallais" languages="Romansh">Chantun Vallais</name>
+		<name normalized="Kanton Valais" languages="Indonesian">Kanton Valais</name>
+		<name normalized="Kanton Wallis" languages="Alemannisch;German">Kanton Wallis</name>
+		<name normalized="Kanton ya Mbwaku" languages="Lingala">Kanton ya Mbwaku</name>
+		<name normalized="Kantoni Valais" languages="Albanian">Kantoni Valais</name>
+		<name normalized="Kantono Valezo" languages="Esperanto">Kantono Valezo</name>
+		<name normalized="Valais" languages="Bosnian;Breton;Catalan;Croatian;Czech;Danish;English;Finnish;Galician;Icelandic;Iloko;Malay;Northern Sami;Norwegian Nynorsk;official;Polish;Portuguese;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Swahili;Swedish;Turkish;Vietnamese;Waray;Welsh">Valais</name>
+		<name normalized="Valais Chiu" languages="Chinese (Min Nan)">Valais Chiu</name>
+		<name normalized="Valais kantonamendua" languages="Basque">Valais kantonamendua</name>
+		<name normalized="Valais' kanton" languages="Estonian">Valais' kanton</name>
+		<name normalized="Valesia" languages="Latin">Valesia</name>
+		<name normalized="Vale kantons" languages="Latvian">Valē kantons</name>
+		<name normalized="Vale" languages="Lithuanian">Valė</name>
+		<name normalized="Wallis" languages="Dutch;Norwegian (bokmal)">Wallis</name>
+		<name normalized="Wallis kanton" languages="Hungarian">Wallis kanton</name>
+		<name normalized="Vaлi" languages="Bulgarian;Kazakh;Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Вале</name>
+		<name normalized="Kaнtoн Vaлi" languages="Belarusian;Serbian">Кантон Вале</name>
+		<name normalized="vאדh" languages="Hebrew">ואלה</name>
+		<name normalized="אیאلt ولh" languages="Persian">ایالت وله</name>
+		<name normalized="ویلאئس" languages="Western Punjabi">ویلائس</name>
+		<name normalized="vाle kan्टn" languages="Hindi">वाले कैन्टन</name>
+		<name normalized="v्hाle" languages="Marathi">व्हाले</name>
+		<name normalized="รัฐวาเล" languages="Thai">รัฐวาเล</name>
+		<name normalized="ვალეს კანტონი" languages="Georgian">ვალეს კანტონი</name>
+		<name normalized="varー州" languages="Japanese">ヴァレー州</name>
+		<name normalized="瓦莱州" languages="Chinese">瓦莱州</name>
+		<name normalized="발레 주" languages="Korean">발레 주</name>
+	</region>
+	<region name="Vaud" type="canton" typeTranslated="Kanton">
+		<name normalized="Canton de Vaud" languages="French;Occitan">Canton de Vaud</name>
+		<name normalized="Canton de Vod" languages="Franco-Provencal">Canton de Vôd</name>
+		<name normalized="Canton Vaud" languages="Italian;lumbaart;Sicilian;veneto">Canton Vaud</name>
+		<name normalized="Cantonul Vaud" languages="Romanian">Cantonul Vaud</name>
+		<name normalized="Canton de Vaud" languages="Aragonese;Spanish">Cantón de Vaud</name>
+		<name normalized="Chantun Vad" languages="Romansh">Chantun Vad</name>
+		<name normalized="Kanton Vaud" languages="Breton;Indonesian;Javanese;Luxembourgish">Kanton Vaud</name>
+		<name normalized="Kanton Waadt" languages="Alemannisch;German">Kanton Waadt</name>
+		<name normalized="Kantoni Vaud" languages="Albanian">Kantoni Vaud</name>
+		<name normalized="Kantono Vaudo" languages="Esperanto">Kantono Vaŭdo</name>
+		<name normalized="Pagus Valdensis" languages="Latin">Pagus Valdensis</name>
+		<name normalized="Vaud" languages="Bosnian;Catalan;Croatian;Czech;Danish;Dutch;English;Finnish;Galician;Icelandic;Iloko;Malay;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Scots;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Swahili;Swedish;Turkish;Vietnamese;Waray;Welsh">Vaud</name>
+		<name normalized="Vaud Chiu" languages="Chinese (Min Nan)">Vaud Chiu</name>
+		<name normalized="Vaud kantonamendua" languages="Basque">Vaud kantonamendua</name>
+		<name normalized="Vaud' kanton" languages="Estonian">Vaud' kanton</name>
+		<name normalized="Vo" languages="Lithuanian">Vo</name>
+		<name normalized="Vo kantons" languages="Latvian">Vo kantons</name>
+		<name normalized="Vo" languages="Bulgarian;Kazakh;Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Во</name>
+		<name normalized="Vo viлaiti" languages="Tatar">Во вилаяте</name>
+		<name normalized="Kaнtoн Vo" languages="Belarusian;Serbian">Кантон Во</name>
+		<name normalized="vv" languages="Hebrew">וו</name>
+		<name normalized="אیאلt وو" languages="Persian">ایالت وو</name>
+		<name normalized="kאنtون fود" languages="Arabic">كانتون فود</name>
+		<name normalized="وאود" languages="Western Punjabi">واود</name>
+		<name normalized="vo kan्टn" languages="Hindi">वो कैन्टन</name>
+		<name normalized="v्ho" languages="Marathi">व्हो</name>
+		<name normalized="ვოს კანტონი" languages="Georgian">ვოს კანტონი</name>
+		<name normalized="voー州" languages="Japanese">ヴォー州</name>
+		<name normalized="沃州" languages="Chinese">沃州</name>
+		<name normalized="보 주" languages="Korean">보 주</name>
+	</region>
+	<region name="Zuerich" type="canton" typeTranslated="Kanton">
+		<name normalized="Ciurichas" languages="Lithuanian">Ciurichas</name>
+		<name normalized="Curych" languages="Czech">Curych</name>
+		<name normalized="Curih" languages="Veps">Cürih</name>
+		<name normalized="Cirihe" languages="Latvian">Cīrihe</name>
+		<name normalized="Syurix" languages="Uzbek">Syurix</name>
+		<name normalized="Surix" languages="Azerbaijani">Sürix</name>
+		<name normalized="Tsurique" languages="Franco-Provencal">Tsurique</name>
+		<name normalized="Tsurix" languages="Tatar">Tsürix</name>
+		<name normalized="Turicum" languages="Latin">Turicum</name>
+		<name normalized="Turitg" languages="Romansh">Turitg</name>
+		<name normalized="Zeurich" languages="Limburgish">Zeurich</name>
+		<name normalized="Zirich" languages="Bavarian;Palzisch">Zirich</name>
+		<name normalized="Zuerich" languages="English;official">Zuerich</name>
+		<name normalized="Zuric" languages="Catalan;Occitan">Zuric</name>
+		<name normalized="Zurich" languages="Deitsch;Extremaduran;French;Nahuatl;Scots;Waray;Wolof">Zurich</name>
+		<name normalized="Zurigh" languages="Piedmontese">Zurigh</name>
+		<name normalized="Zurigo" languages="Italian;Neapolitan;veneto">Zurigo</name>
+		<name normalized="Zuriko" languages="Esperanto">Zuriko</name>
+		<name normalized="Zurique" languages="Portuguese">Zurique</name>
+		<name normalized="Zurych" languages="Polish">Zurych</name>
+		<name normalized="Zuricu" languages="Sicilian">Zurìcu</name>
+		<name normalized="Zyrihu" languages="Albanian">Zyrihu</name>
+		<name normalized="Zuric" languages="Galician">Zúric</name>
+		<name normalized="Zurich" languages="Aragonese;Interlingue;Spanish">Zúrich</name>
+		<name normalized="Zurich" languages="Afrikaans;Alemannisch;Basque;Bosnian;Breton;Chinese (Min Nan);Croatian;Danish;Dutch;English;Estonian;Finnish;German;Hungarian;Icelandic;Ido;Iloko;Indonesian;Irish;Javanese;Low German;Lower Sorbian;Luxembourgish;Malay;Nauru;Northern Frisian;Norwegian (bokmal);Norwegian Nynorsk;Novial;Quechua;Romanian;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Slovenian;Swahili;Swedish;Tagalog;Upper Sorbian;Vietnamese;Volapuk;Welsh;Western Frisian;Yoruba">Zürich</name>
+		<name normalized="Zurigh" languages="lumbaart">Zürigh</name>
+		<name normalized="Zurih" languages="Turkish">Zürih</name>
+		<name normalized="Ζυριχη" languages="Greek">Ζυρίχη</name>
+		<name normalized="Goрad Tюрыk" languages="Belarusian">Горад Цюрых</name>
+		<name normalized="Tiрik" languages="Macedonian;Serbian">Цирих</name>
+		<name normalized="Tюрik" languages="Bulgarian;Chechen;Chuvash;Kazakh;Kyrgyz;Ossetic;Russian;Ukrainian">Цюрих</name>
+		<name normalized="Tюрik kot" languages="Mongolian">Цюрих хот</name>
+		<name normalized="Tюрыk" languages="biлaрuсkai (taрaskivita)‎">Цюрых</name>
+		<name normalized="Cյvyrիx" languages="Armenian">Ցյուրիխ</name>
+		<name normalized="ציrיד" languages="Hebrew;Yiddish">ציריך</name>
+		<name normalized="زوryخ" languages="Egyptian Spoken Arabic">زوريخ</name>
+		<name normalized="زوrیخ" languages="Persian">زوریخ</name>
+		<name normalized="زyوrخ" languages="Arabic">زيورخ</name>
+		<name normalized="زیوrخ" languages="Urdu">زیورخ</name>
+		<name normalized="زیوrچ" languages="Western Punjabi">زیورچ</name>
+		<name normalized="سyۇrىخ" languages="Uyghur">سيۇرىخ</name>
+		<name normalized="ܬܣܝܪܝܟ" languages="Aramaic">ܬܣܝܪܝܟ</name>
+		<name normalized="j़्yurik़" languages="Hindi">ज़्यूरिख़</name>
+		<name normalized="j्yurik" languages="Marathi">झ्युरिक</name>
+		<name normalized="jurik" languages="Bengali">জুরিখ</name>
+		<name normalized="j਼iurik" languages="Punjabi">ਜ਼ਿਊਰਿਖ</name>
+		<name normalized="சூரிக்கு" languages="Tamil">சூரிக்கு</name>
+		<name normalized="സൂറിച്ച്" languages="Malayalam">സൂറിച്ച്</name>
+		<name normalized="ซูริก" languages="Thai">ซูริก</name>
+		<name normalized="ဇူးရစ်ချ်မြို့" languages="Burmese">ဇူးရစ်ချ်မြို့</name>
+		<name normalized="ციურიხი" languages="Georgian">ციურიხი</name>
+		<name normalized="ዙሪክ" languages="Amharic">ዙሪክ</name>
+		<name normalized="tyーrth" languages="Japanese">チューリッヒ</name>
+		<name normalized="苏黎世" languages="Chinese;Wu">苏黎世</name>
+		<name normalized="蘇黎世" languages="Cantonese">蘇黎世</name>
+		<name normalized="취리히" languages="Korean">취리히</name>
+	</region>
+	<region name="Zug" type="canton" typeTranslated="Kanton">
+		<name normalized="Cugas" languages="Lithuanian">Cugas</name>
+		<name normalized="Tugium" languages="Latin">Tugium</name>
+		<name normalized="Zoug" languages="French">Zoug</name>
+		<name normalized="Zug" languages="Albanian;Alemannisch;Basque;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;German;Hungarian;Icelandic;Indonesian;lumbaart;Norwegian (bokmal);Norwegian Nynorsk;official;Piedmontese;Polish;Portuguese;Romanian;Romansh;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Slovenian;Spanish;Swedish;Turkish;Volapuk;Waray;Welsh">Zug</name>
+		<name normalized="Zugo" languages="Esperanto;Italian">Zugo</name>
+		<name normalized="Goрad Tug" languages="Belarusian">Горад Цуг</name>
+		<name normalized="Tug" languages="Bulgarian;Chechen;Kazakh;Russian;Serbian;Ukrainian;biлaрuсkai (taрaskivita)‎">Цуг</name>
+		<name normalized="زوg" languages="Persian">زوگ</name>
+		<name normalized="سوg" languages="Western Punjabi">سوگ</name>
+		<name normalized="tーk" languages="Japanese">ツーク</name>
+		<name normalized="楚格" languages="Chinese">楚格</name>
+		<name normalized="추크" languages="Korean">추크</name>
+	</region>
+</regions>

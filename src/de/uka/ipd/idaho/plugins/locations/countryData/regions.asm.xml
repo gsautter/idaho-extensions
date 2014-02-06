@@ -1,0 +1,64 @@
+<regions country="American Samoa">
+	<region name="Eastern" type="null" typeTranslated="null">
+		<name normalized="Eastern" languages="Dutch;English;German;official;Polish;Portuguese;Swedish">Eastern</name>
+		<name normalized="Phuong Dong" languages="Vietnamese">Phương Đông</name>
+		<name normalized="iーstn" languages="Japanese">イースタン</name>
+	</region>
+	<region name="Manu'a" type="null" typeTranslated="null">
+		<name normalized="Distretto Manu'a" languages="Italian">Distretto Manu'a</name>
+		<name normalized="Dystrykt Manu'a" languages="Polish">Dystrykt Manu'a</name>
+		<name normalized="Illas Manua" languages="Galician">Illas Manua</name>
+		<name normalized="Illes Manu'a" languages="Catalan">Illes Manu'a</name>
+		<name normalized="Islas Manu'a" languages="Spanish">Islas Manu'a</name>
+		<name normalized="Manu'a" languages="English;French;official;Samoan">Manu'a</name>
+		<name normalized="Manu'a-eilanden" languages="Dutch">Manu'a-eilanden</name>
+		<name normalized="Manua" languages="English;Latin;official">Manua</name>
+		<name normalized="Manuainseln" languages="German">Manuainseln</name>
+		<name normalized="Manuaoarna" languages="Swedish">Manuaöarna</name>
+		<name normalized="Aсtрavы Мaнua" languages="Belarusian">Астравы Мануа</name>
+		<name normalized="Oсtрova Мaнua" languages="Russian">Острова Мануа</name>
+		<name normalized="mna諸島" languages="Japanese">マヌア諸島</name>
+		<name normalized="马努阿群岛" languages="Chinese">马努阿群岛</name>
+	</region>
+	<region name="order" type="null" typeTranslated="null">
+		<name normalized="order" languages="English;German;official;Simple English">order</name>
+		<name normalized="Oрdiр" languages="Ukrainian">Ордер</name>
+		<name normalized="oーdー" languages="Japanese">オーダー</name>
+	</region>
+	<region name="Rose Island" type="null" typeTranslated="null">
+		<name normalized="Atol de Rose" languages="Catalan">Atol de Rose</name>
+		<name normalized="Atol Rose" languages="Galician;Portuguese">Atol Rose</name>
+		<name normalized="Atollo Rose" languages="Italian">Atollo Rose</name>
+		<name normalized="Rose Atoll" languages="English;Polish">Rose Atoll</name>
+		<name normalized="Rose Island" languages="English;official">Rose Island</name>
+		<name normalized="Rose-Atoll" languages="German">Rose-Atoll</name>
+		<name normalized="Roseatollen" languages="Swedish">Roseatollen</name>
+		<name normalized="Рozi" languages="Russian">Розе</name>
+		<name normalized="rーz環礁" languages="Japanese">ローズ環礁</name>
+		<name normalized="罗斯环礁" languages="Chinese">罗斯环礁</name>
+	</region>
+	<region name="Swains Island" type="null" typeTranslated="null">
+		<name normalized="Atol Swains" languages="Galician">Atol Swains</name>
+		<name normalized="Ilha Swains" languages="Portuguese">Ilha Swains</name>
+		<name normalized="Illa de Swains" languages="Catalan">Illa de Swains</name>
+		<name normalized="Isla Swains" languages="Spanish">Isla Swains</name>
+		<name normalized="Olohega" languages="Basque">Olohega</name>
+		<name normalized="Olosega" languages="Samoan">Olosega</name>
+		<name normalized="Swains" languages="Dutch;French">Swains</name>
+		<name normalized="Swains Island" languages="English;Finnish;German;official;Polish">Swains Island</name>
+		<name normalized="Swainson" languages="Swedish">Swainsön</name>
+		<name normalized="Voсtрaў Сueйнс" languages="Belarusian">Востраў Суэйнс</name>
+		<name normalized="Сuiйнс" languages="Ukrainian">Суейнс</name>
+		<name normalized="Сueйнс" languages="Russian">Суэйнс</name>
+		<name normalized="സ്വെയ്ൻസ് ദ്വീപ്" languages="Malayalam">സ്വെയ്ൻസ് ദ്വീപ്</name>
+		<name normalized="sueinz島" languages="Japanese">スウェインズ島</name>
+		<name normalized="斯温斯岛" languages="Chinese">斯温斯岛</name>
+	</region>
+	<region name="Western" type="null" typeTranslated="null">
+		<name normalized="Phuong Tay" languages="Vietnamese">Phương Tây</name>
+		<name normalized="Western" languages="Danish;Dutch;English;French;Galician;German;Italian;official;Polish;Portuguese;Simple English;Spanish;Swedish">Western</name>
+		<name normalized="Ueсtiрн" languages="Russian">Уэстерн</name>
+		<name normalized="وسtrن" languages="Persian">وسترن</name>
+		<name normalized="uestn" languages="Japanese">ウエスタン</name>
+	</region>
+</regions>

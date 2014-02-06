@@ -1,0 +1,245 @@
+<regions country="Lesotho">
+	<region name="Berea" type="district" typeTranslated="district">
+		<name normalized="Berea" languages="Breton;Dutch;English;Finnish;French;German;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish;Volapuk">Berea</name>
+		<name normalized="Berea District" languages="English;official">Berea District</name>
+		<name normalized="Berea rajonas" languages="Lithuanian">Berea rajonas</name>
+		<name normalized="Berea ringkond" languages="Estonian">Berea ringkond</name>
+		<name normalized="Beroea" languages="Catalan">Beroea</name>
+		<name normalized="Beroia" languages="Finnish;Italian">Beroia</name>
+		<name normalized="Daerah Berea" languages="Malay">Daerah Berea</name>
+		<name normalized="Distretto di Berea" languages="Italian">Distretto di Berea</name>
+		<name normalized="District de Berea" languages="French">District de Berea</name>
+		<name normalized="Districtul Berea" languages="Romanian">Districtul Berea</name>
+		<name normalized="Distrik Berea" languages="Indonesian">Distrik Berea</name>
+		<name normalized="Distrikt Berea" languages="German">Distrikt Berea</name>
+		<name normalized="Distrito de Berea" languages="Galician;Spanish">Distrito de Berea</name>
+		<name normalized="Dystrykt Berea" languages="Polish">Dystrykt Berea</name>
+		<name normalized="Biрia" languages="Bulgarian;Ukrainian">Береа</name>
+		<name normalized="Biрii" languages="Russian">Берея</name>
+		<name normalized="Biрija" languages="Serbian">Берија</name>
+		<name normalized="Biрьi" languages="Russian">Берья</name>
+		<name normalized="Beр'i" languages="biлaрuсkai (taрaskivita)‎">Бэр’я</name>
+		<name normalized="bra県" languages="Japanese">ベレア県</name>
+		<name normalized="伯里亞區" languages="Chinese">伯里亞區</name>
+		<name normalized="베레아 구" languages="Korean">베레아 구</name>
+	</region>
+	<region name="Butha-Buthe" type="district" typeTranslated="district">
+		<name normalized="Botha-Buthe" languages="Romanian">Botha-Buthe</name>
+		<name normalized="Buta Butes rajonas" languages="Lithuanian">Buta Butės rajonas</name>
+		<name normalized="Butha-Buthe" languages="Afrikaans;Breton;Dutch;English;Finnish;French;German;Norwegian (bokmal);official;Polish;Portuguese;Spanish">Butha-Buthe</name>
+		<name normalized="Butha-Buthe District" languages="English;official">Butha-Buthe District</name>
+		<name normalized="Butha-Buthe ringkond" languages="Estonian">Butha-Buthe ringkond</name>
+		<name normalized="Butha-Buthen alue" languages="Finnish">Butha-Buthen alue</name>
+		<name normalized="Daerah Butha-Buthe" languages="Malay">Daerah Butha-Buthe</name>
+		<name normalized="Distretto di Butha-Buthe" languages="Italian">Distretto di Butha-Buthe</name>
+		<name normalized="District de Butha-Buthe" languages="French">District de Butha-Buthe</name>
+		<name normalized="Districtul Botha-Buthe" languages="Romanian">Districtul Botha-Buthe</name>
+		<name normalized="Distrik Butha-Buthe" languages="Indonesian">Distrik Butha-Buthe</name>
+		<name normalized="Distrikt Butha-Buthe" languages="German">Distrikt Butha-Buthe</name>
+		<name normalized="Distrito de Butha-Buthe" languages="Spanish">Distrito de Butha-Buthe</name>
+		<name normalized="Dystrykt Butha-Buthe" languages="Polish">Dystrykt Butha-Buthe</name>
+		<name normalized="Buta-Buti" languages="Bulgarian;Russian;Ukrainian">Бута-Буте</name>
+		<name normalized="Buta-Bute" languages="biлaрuсkai (taрaskivita)‎">Бута-Бутэ</name>
+		<name normalized="mqאtعة bوثא-bوث" languages="Arabic">مقاطعة بوثا-بوث</name>
+		<name normalized="bーt・bーt県" languages="Japanese">ブータ・ブーテ県</name>
+		<name normalized="布塔-布泰" languages="Chinese">布塔-布泰</name>
+		<name normalized="布塔-布泰區" languages="Chinese">布塔-布泰區</name>
+		<name normalized="부타부테 구" languages="Korean">부타부테 구</name>
+	</region>
+	<region name="Leribe" type="district" typeTranslated="district">
+		<name normalized="Daerah Leribe" languages="Malay">Daerah Leribe</name>
+		<name normalized="Distretto di Leribe" languages="Italian">Distretto di Leribe</name>
+		<name normalized="District de Leribe" languages="French">District de Leribe</name>
+		<name normalized="Districtul Leribe" languages="Romanian">Districtul Leribe</name>
+		<name normalized="Distrik Leribe" languages="Indonesian">Distrik Leribe</name>
+		<name normalized="Distrikt Leribe" languages="German">Distrikt Leribe</name>
+		<name normalized="Distrito de Leribe" languages="Spanish">Distrito de Leribe</name>
+		<name normalized="Dystrykt Leribe" languages="Polish">Dystrykt Leribe</name>
+		<name normalized="Leribe" languages="Breton;Dutch;English;Finnish;German;Norwegian (bokmal);official;Portuguese">Leribe</name>
+		<name normalized="Leribe District" languages="English;official">Leribe District</name>
+		<name normalized="Leribe ringkond" languages="Estonian">Leribe ringkond</name>
+		<name normalized="Leriben alue" languages="Finnish">Leriben alue</name>
+		<name normalized="Leribes rajonas" languages="Lithuanian">Leribės rajonas</name>
+		<name normalized="Лiрibi" languages="Bulgarian;Russian">Лерибе</name>
+		<name normalized="Лiрыbe" languages="biлaрuсkai (taрaskivita)‎">Лерыбэ</name>
+		<name normalized="Лiрibi" languages="Ukrainian">Лерібе</name>
+		<name normalized="mqאtعة لryb" languages="Arabic">مقاطعة لريب</name>
+		<name normalized="rrb県" languages="Japanese">レリベ県</name>
+		<name normalized="萊里貝區" languages="Chinese">萊里貝區</name>
+		<name normalized="레리베 구" languages="Korean">레리베 구</name>
+	</region>
+	<region name="Mafeteng" type="district" typeTranslated="district">
+		<name normalized="Daerah Mafeteng" languages="Malay">Daerah Mafeteng</name>
+		<name normalized="Distretto di Mafeteng" languages="Italian">Distretto di Mafeteng</name>
+		<name normalized="District de Mafeteng" languages="French">District de Mafeteng</name>
+		<name normalized="Districtul Mafeteng" languages="Romanian">Districtul Mafeteng</name>
+		<name normalized="Distrik Mafeteng" languages="Indonesian">Distrik Mafeteng</name>
+		<name normalized="Distrikt Mafeteng" languages="German">Distrikt Mafeteng</name>
+		<name normalized="Distrito de Mafeteng" languages="Spanish">Distrito de Mafeteng</name>
+		<name normalized="Dystrykt Mafeteng" languages="Polish">Dystrykt Mafeteng</name>
+		<name normalized="Mafeteng" languages="Afrikaans;Breton;Croatian;Dutch;English;Finnish;French;German;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Swedish">Mafeteng</name>
+		<name normalized="Mafeteng District" languages="English;official">Mafeteng District</name>
+		<name normalized="Mafetengas" languages="Lithuanian">Mafetengas</name>
+		<name normalized="Mafetengo rajonas" languages="Lithuanian">Mafetengo rajonas</name>
+		<name normalized="Mafetenq" languages="Azerbaijani">Mafetenq</name>
+		<name normalized="Мaфitiнg" languages="Bulgarian;Russian;Ukrainian">Мафетенг</name>
+		<name normalized="Мaфeteнg" languages="biлaрuсkai (taрaskivita)‎">Мафэтэнг</name>
+		<name normalized="mqאtعة mאftنغ" languages="Arabic">مقاطعة مافتنغ</name>
+		<name normalized="mhetng県" languages="Japanese">マフェテング県</name>
+		<name normalized="馬費滕區" languages="Chinese">馬費滕區</name>
+		<name normalized="마페텡 구" languages="Korean">마페텡 구</name>
+	</region>
+	<region name="Maseru" type="district" typeTranslated="district">
+		<name normalized="Daerah Maseru" languages="Malay">Daerah Maseru</name>
+		<name normalized="Distretto di Maseru" languages="Italian">Distretto di Maseru</name>
+		<name normalized="District de Maseru" languages="French">District de Maseru</name>
+		<name normalized="Districtul Maseru" languages="Romanian">Districtul Maseru</name>
+		<name normalized="Distrik Maseru" languages="Indonesian">Distrik Maseru</name>
+		<name normalized="Distrikt Maseru" languages="German">Distrikt Maseru</name>
+		<name normalized="Distrito de Maseru" languages="Spanish">Distrito de Maseru</name>
+		<name normalized="Dystrykt Maseru" languages="Polish">Dystrykt Maseru</name>
+		<name normalized="Maserou" languages="Haitian">Maserou</name>
+		<name normalized="Maseru" languages="Afrikaans;Azerbaijani;Basque;Bavarian;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;Galician;German;Hungarian;Ido;Indonesian;Interlingue;Italian;Javanese;Kinyarwanda;Latin;Latvian;Ligure;Lithuanian;Low German;lumbaart;Luxembourgish;Malagasy;Malay;Nahuatl;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Papiamento;Piedmontese;Polish;Portuguese;Romanian;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Slovak;Somali;Spanish;Swahili;Swedish;Tagalog;Turkish;Veps;Vietnamese;veneto;Waray;Welsh;Western Frisian;Yoruba">Maseru</name>
+		<name normalized="Maseru District" languages="English;official">Maseru District</name>
+		<name normalized="Maseru rajonas" languages="Lithuanian">Maseru rajonas</name>
+		<name normalized="Maseru ringkond" languages="Estonian">Maseru ringkond</name>
+		<name normalized="Maserun alue" languages="Finnish">Maserun alue</name>
+		<name normalized="Maseruo" languages="Esperanto">Maseruo</name>
+		<name normalized="Maseru" languages="Icelandic">Maserú</name>
+		<name normalized="Μαζeρου" languages="Greek">Μαζέρου</name>
+		<name normalized="Goрad Мaсiрu" languages="Belarusian">Горад Масеру</name>
+		<name normalized="Мaсiрu" languages="Bulgarian;Chechen;Kyrgyz;Macedonian;Ossetic;Russian;Serbian;Tajik;Udmurt;Ukrainian">Масеру</name>
+		<name normalized="Мaсeрu" languages="biлaрuсkai (taрaskivita)‎">Масэру</name>
+		<name normalized="Mաsեrvy" languages="Armenian">Մասերու</name>
+		<name normalized="מאסעrv" languages="Yiddish">מאסערו</name>
+		<name normalized="מסrv" languages="Hebrew">מסרו</name>
+		<name normalized="mאسrو" languages="Persian">ماسرو</name>
+		<name normalized="mאسyrو" languages="Arabic">ماسيرو</name>
+		<name normalized="mאسیrو" languages="Urdu;Western Punjabi">ماسیرو</name>
+		<name normalized="mאسێrو" languages="Sorani Kurdish">ماسێرو</name>
+		<name normalized="mाseru" languages="Marathi">मासेरू</name>
+		<name normalized="msੇru" languages="Punjabi">ਮਸੇਰੂ</name>
+		<name normalized="มาเซรู" languages="Thai">มาเซรู</name>
+		<name normalized="མ་སི་རུ།" languages="Tibetan">མ་སི་རུ།</name>
+		<name normalized="მასერუ" languages="Georgian">მასერუ</name>
+		<name normalized="መሴሩ" languages="Amharic">መሴሩ</name>
+		<name normalized="msr" languages="Japanese">マセル</name>
+		<name normalized="msr県" languages="Japanese">マセル県</name>
+		<name normalized="馬塞盧" languages="Cantonese">馬塞盧</name>
+		<name normalized="馬塞盧區" languages="Chinese">馬塞盧區</name>
+		<name normalized="马塞卢" languages="Chinese">马塞卢</name>
+		<name normalized="마세루" languages="Korean">마세루</name>
+		<name normalized="마세루 구" languages="Korean">마세루 구</name>
+	</region>
+	<region name="Mohale's Hoek" type="district" typeTranslated="district">
+		<name normalized="Daerah Mohale's Hoek" languages="Malay">Daerah Mohale's Hoek</name>
+		<name normalized="Distretto di Mohale's Hoek" languages="Italian">Distretto di Mohale's Hoek</name>
+		<name normalized="District de Mohale's Hoek" languages="French">District de Mohale's Hoek</name>
+		<name normalized="Districtul Mohale's Hoek" languages="Romanian">Districtul Mohale's Hoek</name>
+		<name normalized="Distrik Mohale's Hoek" languages="Indonesian">Distrik Mohale's Hoek</name>
+		<name normalized="Distrikt Mohale's Hoek" languages="German">Distrikt Mohale’s Hoek</name>
+		<name normalized="Distrito de Mohale's Hoek" languages="Spanish">Distrito de Mohale's Hoek</name>
+		<name normalized="Dystrykt Mohale's Hoek" languages="Polish">Dystrykt Mohale's Hoek</name>
+		<name normalized="Mohale's Hoek" languages="Breton;Dutch;English;French;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish">Mohale's Hoek</name>
+		<name normalized="Mohale's Hoek District" languages="English;official">Mohale's Hoek District</name>
+		<name normalized="Mohale's Hoeki ringkond" languages="Estonian">Mohale's Hoeki ringkond</name>
+		<name normalized="Mohales Hoek" languages="English;official">Mohales Hoek</name>
+		<name normalized="Mohales Hoek District" languages="English;official">Mohales Hoek District</name>
+		<name normalized="Mohales Huko rajonas" languages="Lithuanian">Mohales Huko rajonas</name>
+		<name normalized="Mohaleshoek" languages="Afrikaans">Mohaleshoek</name>
+		<name normalized="Mohale's Hoek" languages="German">Mohale’s Hoek</name>
+		<name normalized="Мakaлiс-Guk" languages="biлaрuсkai (taрaskivita)‎">Махалес-Гук</name>
+		<name normalized="Мokaлiс-Kuk" languages="Bulgarian;Russian;Ukrainian">Мохалес-Хук</name>
+		<name normalized="mqאtعة mوhyلز hوk" languages="Arabic">مقاطعة موهيلز هوك</name>
+		<name normalized="mhrs・hーk県" languages="Japanese">モハレス・フーク県</name>
+		<name normalized="莫哈萊斯胡克區" languages="Chinese">莫哈萊斯胡克區</name>
+		<name normalized="모할레스후크 구" languages="Korean">모할레스후크 구</name>
+	</region>
+	<region name="Mokhotlong" type="district" typeTranslated="district">
+		<name normalized="Daerah Mokhotlong" languages="Malay">Daerah Mokhotlong</name>
+		<name normalized="Distretto di Mokhotlong" languages="Italian">Distretto di Mokhotlong</name>
+		<name normalized="District de Mokhotlong" languages="French">District de Mokhotlong</name>
+		<name normalized="Districtul Mokhotlong" languages="Romanian">Districtul Mokhotlong</name>
+		<name normalized="Distrik Mokhotlong" languages="Indonesian">Distrik Mokhotlong</name>
+		<name normalized="Distrikt Mokhotlong" languages="German">Distrikt Mokhotlong</name>
+		<name normalized="Distrito de Mokhotlong" languages="Spanish">Distrito de Mokhotlong</name>
+		<name normalized="Dystrykt Mokhotlong" languages="Polish">Dystrykt Mokhotlong</name>
+		<name normalized="Mokhotlong" languages="Afrikaans;Breton;Dutch;English;Finnish;French;German;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Swedish">Mokhotlong</name>
+		<name normalized="Mokhotlong District" languages="English;official">Mokhotlong District</name>
+		<name normalized="Mokotlongas" languages="Lithuanian">Mokotlongas</name>
+		<name normalized="Mokotlongo rajonas" languages="Lithuanian">Mokotlongo rajonas</name>
+		<name normalized="Мakatлoнg" languages="biлaрuсkai (taрaskivita)‎">Макатлонг</name>
+		<name normalized="Мokotлoнg" languages="Bulgarian;Russian;Ukrainian">Мокотлонг</name>
+		<name normalized="mqאtعة mوخوtلنغ" languages="Arabic">مقاطعة موخوتلنغ</name>
+		<name normalized="mktrng県" languages="Japanese">モコトロング県</name>
+		<name normalized="莫霍特隆" languages="Chinese">莫霍特隆</name>
+		<name normalized="莫霍特隆區" languages="Chinese">莫霍特隆區</name>
+		<name normalized="모코틀롱 구" languages="Korean">모코틀롱 구</name>
+	</region>
+	<region name="Qacha's Nek" type="district" typeTranslated="district">
+		<name normalized="Cgacas Nek" languages="Veps">Cgačas Nek</name>
+		<name normalized="Cgacas Nekas" languages="Lithuanian">Cgačas Nekas</name>
+		<name normalized="Cgacas Neko rajonas" languages="Lithuanian">Cgačas Neko rajonas</name>
+		<name normalized="Daerah Qacha's Nek" languages="Malay">Daerah Qacha's Nek</name>
+		<name normalized="Distretto di Qacha's Nek" languages="Italian">Distretto di Qacha's Nek</name>
+		<name normalized="District de Qacha's Nek" languages="French">District de Qacha's Nek</name>
+		<name normalized="Districtul Qacha's Nek" languages="Romanian">Districtul Qacha's Nek</name>
+		<name normalized="Distrik Qacha's Nek" languages="Indonesian">Distrik Qacha's Nek</name>
+		<name normalized="Distrikt Qacha's Nek" languages="German">Distrikt Qacha’s Nek</name>
+		<name normalized="Distrito de Qacha's Nek" languages="Spanish">Distrito de Qacha's Nek</name>
+		<name normalized="Dystrykt Qacha's Nek" languages="Polish">Dystrykt Qacha's Nek</name>
+		<name normalized="Qacha's Nek" languages="Afrikaans;Breton;Dutch;English;French;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Southern Sotho;Spanish">Qacha's Nek</name>
+		<name normalized="Qacha's Nek District" languages="English;official">Qacha's Nek District</name>
+		<name normalized="Qachas Nek" languages="English;official">Qachas Nek</name>
+		<name normalized="Qachas Nek District" languages="English;official">Qachas Nek District</name>
+		<name normalized="Qacha's Nek" languages="German">Qacha’s Nek</name>
+		<name normalized="Tgacaс-Нik" languages="Bulgarian;Russian;Ukrainian">Цгачас-Нек</name>
+		<name normalized="Tgacaс-Нek" languages="biлaрuсkai (taрaskivita)‎">Цгачас-Нэк</name>
+		<name normalized="kakhsntk県" languages="Japanese">クァクハスネック県</name>
+		<name normalized="加查斯內克" languages="Chinese">加查斯內克</name>
+		<name normalized="加查斯內克區" languages="Chinese">加查斯內克區</name>
+		<name normalized="카차스네크 구" languages="Korean">카차스네크 구</name>
+	</region>
+	<region name="Quthing" type="district" typeTranslated="district">
+		<name normalized="Cgutingas" languages="Lithuanian">Cgutingas</name>
+		<name normalized="Cgutingo rajonas" languages="Lithuanian">Cgutingo rajonas</name>
+		<name normalized="Daerah Quthing" languages="Malay">Daerah Quthing</name>
+		<name normalized="Distretto di Quthing" languages="Italian">Distretto di Quthing</name>
+		<name normalized="District de Quthing" languages="French">District de Quthing</name>
+		<name normalized="Districtul Quthing" languages="Romanian">Districtul Quthing</name>
+		<name normalized="Distrik Quthing" languages="Indonesian">Distrik Quthing</name>
+		<name normalized="Distrikt Quthing" languages="German">Distrikt Quthing</name>
+		<name normalized="Dystrykt Quthing" languages="Polish">Dystrykt Quthing</name>
+		<name normalized="Quthing" languages="Afrikaans;Breton;Dutch;English;Finnish;French;German;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Swedish">Quthing</name>
+		<name normalized="Quthing District" languages="English;official">Quthing District</name>
+		<name normalized="Κουτινγκ" languages="Greek">Κουτίνγκ</name>
+		<name normalized="Tgutiнg" languages="Bulgarian;Russian">Цгутинг</name>
+		<name normalized="Tgutынg" languages="biлaрuсkai (taрaskivita)‎">Цгутынг</name>
+		<name normalized="Tgutiнg" languages="Ukrainian">Цгутінг</name>
+		<name normalized="kting県" languages="Japanese">クティング県</name>
+		<name normalized="古廷" languages="Chinese">古廷</name>
+		<name normalized="古廷區" languages="Chinese">古廷區</name>
+		<name normalized="쿠팅 구" languages="Korean">쿠팅 구</name>
+	</region>
+	<region name="Thaba-Tseka" type="district" typeTranslated="district">
+		<name normalized="Daerah Thaba-Tseka" languages="Malay">Daerah Thaba-Tseka</name>
+		<name normalized="Distretto di Thaba-Tseka" languages="Italian">Distretto di Thaba-Tseka</name>
+		<name normalized="District de Thaba-Tseka" languages="French">District de Thaba-Tseka</name>
+		<name normalized="Districtul Thaba-Tseka" languages="Romanian">Districtul Thaba-Tseka</name>
+		<name normalized="Distrik Thaba-Tseka" languages="Indonesian">Distrik Thaba-Tseka</name>
+		<name normalized="Distrikt Thaba-Tseka" languages="German">Distrikt Thaba-Tseka</name>
+		<name normalized="Distrito de Thaba-Tseka" languages="Spanish">Distrito de Thaba-Tseka</name>
+		<name normalized="Dystrykt Thaba-Tseka" languages="Polish">Dystrykt Thaba-Tseka</name>
+		<name normalized="Taba Ceka" languages="Lithuanian">Taba Ceka</name>
+		<name normalized="Taba Cekos rajonas" languages="Lithuanian">Taba Cekos rajonas</name>
+		<name normalized="Thaba-Tseka" languages="Afrikaans;Breton;Dutch;English;Finnish;French;German;Hungarian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish">Thaba-Tseka</name>
+		<name normalized="Thaba-Tseka District" languages="English;official">Thaba-Tseka District</name>
+		<name normalized="Taba-Tika" languages="Bulgarian;Russian;Ukrainian">Таба-Цека</name>
+		<name normalized="Taba-Teka" languages="biлaрuсkai (taрaskivita)‎">Таба-Цэка</name>
+		<name normalized="mqאtعة ثאbא-tسykא" languages="Arabic">مقاطعة ثابا-تسيكا</name>
+		<name normalized="tーb・teーk県" languages="Japanese">ターバ・ツェーカ県</name>
+		<name normalized="塔巴-采卡區" languages="Chinese">塔巴-采卡區</name>
+		<name normalized="塔巴采卡" languages="Chinese">塔巴采卡</name>
+		<name normalized="타바체카 구" languages="Korean">타바체카 구</name>
+	</region>
+</regions>

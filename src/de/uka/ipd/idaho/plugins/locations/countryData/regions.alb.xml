@@ -1,0 +1,571 @@
+<regions country="Albania">
+	<region name="Berat" type="county" typeTranslated="qark">
+		<name normalized="Berat" languages="Alemannisch;Basque;Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Hungarian;Indonesian;Italian;Kongo;Malay;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Serbo-Croatian;Simple English;Slovak;Slovenian;Spanish;Swedish;Vietnamese;Waray">Berat</name>
+		<name normalized="Berat Coonty" languages="Scots">Berat Coonty</name>
+		<name normalized="Berat County" languages="English;official;Simple English">Berat County</name>
+		<name normalized="Berat ili" languages="Turkish">Berat ili</name>
+		<name normalized="Berat konderria" languages="Basque">Berat konderria</name>
+		<name normalized="Berat megye" languages="Hungarian">Berat megye</name>
+		<name normalized="Berat Qark" languages="English;official">Berat Qark</name>
+		<name normalized="Berati" languages="Albanian;Volapuk">Berati</name>
+		<name normalized="Berati maakond" languages="Estonian">Berati maakond</name>
+		<name normalized="Beratin maakunta" languages="Finnish">Beratin maakunta</name>
+		<name normalized="Beratis" languages="Lithuanian">Beratis</name>
+		<name normalized="Beratprefekturen" languages="Swedish">Beratprefekturen</name>
+		<name normalized="Beratski okrug" languages="Croatian">Beratski okrug</name>
+		<name normalized="Beracio apskritis" languages="Lithuanian">Beračio apskritis</name>
+		<name normalized="Bərat" languages="Azerbaijani">Bərat</name>
+		<name normalized="Comtat de Berat" languages="Catalan">Comtat de Berat</name>
+		<name normalized="Condado de Berat" languages="Galician;Spanish">Condado de Berat</name>
+		<name normalized="Contae Berat" languages="Irish">Contae Berat</name>
+		<name normalized="Obwod Berat" languages="Polish">Obwód Berat</name>
+		<name normalized="Prefectura de Berat" languages="Aragonese">Prefectura de Berat</name>
+		<name normalized="Prefettura de Berat" languages="lumbaart">Prefettura de Berat</name>
+		<name normalized="Prefettura di Berat" languages="Italian">Prefettura di Berat</name>
+		<name normalized="Provinco Berat" languages="Esperanto">Provinco Berat</name>
+		<name normalized="Prefecture de Berat" languages="French">Préfecture de Berat</name>
+		<name normalized="Qark Berat" languages="German">Qark Berat</name>
+		<name normalized="Qarku i Beratit" languages="Albanian">Qarku i Beratit</name>
+		<name normalized="Μπερατ" languages="Greek">Μπεράτ</name>
+		<name normalized="Νομος Μπερατ" languages="Greek">Νομός Μπεράτ</name>
+		<name normalized="Biлgрad" languages="Macedonian">Белград</name>
+		<name normalized="Biрat" languages="Bulgarian;Chechen;Russian;Serbian;Ukrainian">Берат</name>
+		<name normalized="Vobлaсtь Biрat" languages="Belarusian">Вобласць Берат</name>
+		<name normalized="Bեrաt" languages="Armenian">Բերատ</name>
+		<name normalized="brאt" languages="Hebrew">בראט</name>
+		<name normalized="brאt" languages="Persian">برات</name>
+		<name normalized="bیrאt" languages="Urdu;Western Punjabi">بیرات</name>
+		<name normalized="sوbہ bیrאt" languages="Urdu;Western Punjabi">صوبہ بیرات</name>
+		<name normalized="bੇrਾt kਾuਂਟi" languages="Punjabi">ਬੇਰਾਤ ਕਾਉਂਟੀ</name>
+		<name normalized="ბერატი" languages="Georgian">ბერატი</name>
+		<name normalized="brt" languages="Japanese">ベラト</name>
+		<name normalized="brt州" languages="Japanese">ベラト州</name>
+		<name normalized="培拉特" languages="Chinese">培拉特</name>
+		<name normalized="培拉特州" languages="Chinese">培拉特州</name>
+		<name normalized="베라트" languages="Korean">베라트</name>
+		<name normalized="베라트 주" languages="Korean">베라트 주</name>
+	</region>
+	<region name="Diber" type="county" typeTranslated="qark">
+		<name normalized="Comtat de Diber" languages="Catalan">Comtat de Dibër</name>
+		<name normalized="Condado de Diber" languages="Galician;Spanish">Condado de Dibër</name>
+		<name normalized="Contae Diber" languages="Irish">Contae Dibër</name>
+		<name normalized="Debre ili" languages="Turkish">Debre ili</name>
+		<name normalized="Diber" languages="English;official">Diber</name>
+		<name normalized="Diber County" languages="English;official">Diber County</name>
+		<name normalized="Diber Qark" languages="English;official">Diber Qark</name>
+		<name normalized="Diberio apskritis" languages="Lithuanian">Diberio apskritis</name>
+		<name normalized="Dibrski okrug" languages="Croatian">Dibrski okrug</name>
+		<name normalized="Dibre" languages="Czech">Dibrë</name>
+		<name normalized="Diber" languages="Breton;Dutch;English;Kongo;Norwegian (bokmal);Portuguese;Slovak;Swedish;Vietnamese;Waray">Dibër</name>
+		<name normalized="Diber Coonty" languages="Scots">Dibër Coonty</name>
+		<name normalized="Diber County" languages="English;Simple English">Dibër County</name>
+		<name normalized="Diber konderria" languages="Basque">Dibër konderria</name>
+		<name normalized="Diber prefektur" languages="Swedish">Dibër prefektur</name>
+		<name normalized="Diberi maakond" languages="Estonian">Dibëri maakond</name>
+		<name normalized="Diberin maakunta" languages="Finnish">Dibërin maakunta</name>
+		<name normalized="Obwod Dibra" languages="Polish">Obwód Dibra</name>
+		<name normalized="Prefectura de Diber" languages="Aragonese">Prefectura de Dibër</name>
+		<name normalized="Prefettura de Diber" languages="lumbaart">Prefettura de Dibër</name>
+		<name normalized="Prefettura di Diber" languages="Italian">Prefettura di Dibër</name>
+		<name normalized="Provinco Diber" languages="Esperanto">Provinco Dibër</name>
+		<name normalized="Prefecture de Diber" languages="French">Préfecture de Dibër</name>
+		<name normalized="Qark Dibra" languages="German">Qark Dibra</name>
+		<name normalized="Qarku i Dibres" languages="Albanian">Qarku i Dibrës</name>
+		<name normalized="Νομος Ντιμπρα" languages="Greek">Νομός Ντίμπρα</name>
+		<name normalized="Dibър" languages="Bulgarian">Дебър</name>
+		<name normalized="Dibрa" languages="Russian">Дибра</name>
+		<name normalized="Dիbrա" languages="Armenian">Դիբրա</name>
+		<name normalized="دیbr" languages="Western Punjabi">دیبر</name>
+		<name normalized="sوbہ دیbr" languages="Urdu;Western Punjabi">صوبہ دیبر</name>
+		<name normalized="ਡibr kਾuਂਟi" languages="Punjabi">ਡਿਬਰ ਕਾਉਂਟੀ</name>
+		<name normalized="dibr州" languages="Japanese">ディブラ州</name>
+		<name normalized="第巴爾州" languages="Chinese">第巴爾州</name>
+		<name normalized="디버르 주" languages="Korean">디버르 주</name>
+	</region>
+	<region name="Durres" type="county" typeTranslated="qark">
+		<name normalized="Comtat de Durres" languages="Catalan">Comtat de Durrës</name>
+		<name normalized="Condado de Durres" languages="Galician;Spanish">Condado de Durrës</name>
+		<name normalized="Contae Durres" languages="Irish">Contae Durrës</name>
+		<name normalized="Dırac ili" languages="Turkish">Dıraç ili</name>
+		<name normalized="Drac" languages="Bosnian;Croatian;Czech;Serbo-Croatian;Slovak;Slovenian">Drač</name>
+		<name normalized="Dracki okrug" languages="Croatian">Drački okrug</name>
+		<name normalized="Duraso" languages="Esperanto">Duraso</name>
+		<name normalized="Durazo" languages="veneto">Durazo</name>
+		<name normalized="Durazzo" languages="Italian">Durazzo</name>
+		<name normalized="Durazzu" languages="Sicilian">Durazzu</name>
+		<name normalized="Duresio apskritis" languages="Lithuanian">Duresio apskritis</name>
+		<name normalized="Duresis" languages="Lithuanian">Duresis</name>
+		<name normalized="Durrazo" languages="Aragonese">Durrazo</name>
+		<name normalized="Durres" languages="English;official">Durres</name>
+		<name normalized="Durres County" languages="English;official">Durres County</name>
+		<name normalized="Durres Qark" languages="English;official">Durres Qark</name>
+		<name normalized="Durresa" languages="Latvian">Durresa</name>
+		<name normalized="Durres" languages="Alemannisch;Breton;Catalan;Czech;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Hungarian;Indonesian;Kongo;Low German;Malay;Norwegian (bokmal);Occitan;Polish;Portuguese;Romanian;Scots;Simple English;Spanish;Swedish;Vietnamese;Waray;Welsh">Durrës</name>
+		<name normalized="Durres Coonty" languages="Scots">Durrës Coonty</name>
+		<name normalized="Durres County" languages="English;Simple English">Durrës County</name>
+		<name normalized="Durres konderria" languages="Basque">Durrës konderria</name>
+		<name normalized="Durres prefektur" languages="Swedish">Durrës prefektur</name>
+		<name normalized="Durresi" languages="Albanian;Volapuk">Durrësi</name>
+		<name normalized="Durresi maakond" languages="Estonian">Durrësi maakond</name>
+		<name normalized="Dyrrhachium" languages="Latin">Dyrrhachium</name>
+		<name normalized="Obwod Durres" languages="Polish">Obwód Durrës</name>
+		<name normalized="Prefectura de Durrazo" languages="Aragonese">Prefectura de Durrazo</name>
+		<name normalized="Prefettura de Durazz" languages="lumbaart">Prefettura de Durazz</name>
+		<name normalized="Prefettura di Durazzo" languages="Italian">Prefettura di Durazzo</name>
+		<name normalized="Provinco Durres" languages="Esperanto">Provinco Durrës</name>
+		<name normalized="Prefecture de Durres" languages="French">Préfecture de Durrës</name>
+		<name normalized="Qark Durres" languages="German">Qark Durrës</name>
+		<name normalized="Qarku i Durresit" languages="Albanian">Qarku i Durrësit</name>
+		<name normalized="Δυρραχιο" languages="Greek">Δυρράχιο</name>
+		<name normalized="Νομος Δυρραχιου" languages="Greek">Νομός Δυρραχίου</name>
+		<name normalized="Goрad Duрeс" languages="Belarusian">Горад Дурэс</name>
+		<name normalized="Dibaр" languages="Macedonian">Дебар</name>
+		<name normalized="Dрac" languages="Macedonian;Serbian">Драч</name>
+		<name normalized="Duррiс" languages="Chechen;Chuvash;Mongolian;Russian;Ukrainian">Дуррес</name>
+		<name normalized="Duръс" languages="Bulgarian">Дуръс</name>
+		<name normalized="Duрeс" languages="biлaрuсkai (taрaskivita)‎">Дурэс</name>
+		<name normalized="Dvyrrեs" languages="Armenian">Դուրրես</name>
+		<name normalized="דvrס" languages="Hebrew">דורס</name>
+		<name normalized="دrאj" languages="Persian;Urdu">دراج</name>
+		<name normalized="دrאس" languages="Arabic;Western Punjabi">دراس</name>
+		<name normalized="sوbہ دrאj" languages="Urdu;Western Punjabi">صوبہ دراج</name>
+		<name normalized="ਡurੇs kਾuਂਟi" languages="Punjabi">ਡੂਰੇਸ ਕਾਉਂਟੀ</name>
+		<name normalized="ดูร์เรส" languages="Thai">ดูร์เรส</name>
+		<name normalized="დურესი" languages="Georgian">დურესი</name>
+		<name normalized="durs" languages="Japanese">ドゥラス</name>
+		<name normalized="durs州" languages="Japanese">ドゥラス州</name>
+		<name normalized="杜勒斯州" languages="Chinese">杜勒斯州</name>
+		<name normalized="都拉斯" languages="Chinese">都拉斯</name>
+		<name normalized="두러스" languages="Korean">두러스</name>
+		<name normalized="두러스 주" languages="Korean">두러스 주</name>
+	</region>
+	<region name="Elbasan" type="county" typeTranslated="qark">
+		<name normalized="Condado de Elbasan" languages="Galician;Spanish">Condado de Elbasan</name>
+		<name normalized="Contae Elbasan" languages="Irish">Contae Elbasan</name>
+		<name normalized="Elbasan" languages="Alemannisch;Basque;Breton;Catalan;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Hungarian;Ido;Indonesian;Italian;Kongo;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Serbo-Croatian;Simple English;Slovak;Spanish;Swedish;Vietnamese;Waray;Welsh">Elbasan</name>
+		<name normalized="Elbasan Coonty" languages="Scots">Elbasan Coonty</name>
+		<name normalized="Elbasan County" languages="English;official;Simple English">Elbasan County</name>
+		<name normalized="Elbasan ili" languages="Turkish">Elbasan ili</name>
+		<name normalized="Elbasan konderria" languages="Basque">Elbasan konderria</name>
+		<name normalized="Elbasan prefektur" languages="Swedish">Elbasan prefektur</name>
+		<name normalized="Elbasan Qark" languages="English;official">Elbasan Qark</name>
+		<name normalized="Elbasani" languages="Albanian;Volapuk">Elbasani</name>
+		<name normalized="Elbasani maakond" languages="Estonian">Elbasani maakond</name>
+		<name normalized="Elbasanio apskritis" languages="Lithuanian">Elbasanio apskritis</name>
+		<name normalized="Elbasanis" languages="Lithuanian">Elbasanis</name>
+		<name normalized="Elbasanski okrug" languages="Croatian">Elbasanski okrug</name>
+		<name normalized="Elbasana" languages="Latvian">Eļbasana</name>
+		<name normalized="Obwod Elbasan" languages="Polish">Obwód Elbasan</name>
+		<name normalized="Prefectura d'Elbasan" languages="Aragonese">Prefectura d'Elbasan</name>
+		<name normalized="Prefettura de Elbasan" languages="lumbaart">Prefettura de Elbasan</name>
+		<name normalized="Prefettura di Elbasan" languages="Italian">Prefettura di Elbasan</name>
+		<name normalized="Provinco Elbasan" languages="Esperanto">Provinco Elbasan</name>
+		<name normalized="Prefecture d'Elbasan" languages="French">Préfecture d'Elbasan</name>
+		<name normalized="Qark Elbasan" languages="German">Qark Elbasan</name>
+		<name normalized="Qarku i Elbasanit" languages="Albanian">Qarku i Elbasanit</name>
+		<name normalized="Νομος Ελβασαν" languages="Greek">Νομός Ελβασάν</name>
+		<name normalized="Iлbaсaн" languages="Bulgarian;Macedonian;Serbian">Елбасан</name>
+		<name normalized="Iльbaсaн" languages="Ukrainian">Ельбасан</name>
+		<name normalized="Eльbaсaн" languages="Chechen;Russian">Эльбасан</name>
+		<name normalized="Elbաsան" languages="Armenian">Էլբասան</name>
+		<name normalized="prיpיqtvrh דh אידbאסאן" languages="Ladino">פריפיקטורה דה אילבאסאן</name>
+		<name normalized="إلbאسאن" languages="Arabic">إلباسان</name>
+		<name normalized="אلbאسאن" languages="Persian;Urdu;Western Punjabi">الباسان</name>
+		<name normalized="sوbہ אلbאسאن" languages="Urdu;Western Punjabi">صوبہ الباسان</name>
+		<name normalized="เอลบาซาน" languages="Thai">เอลบาซาน</name>
+		<name normalized="erbsn" languages="Japanese">エルバサン</name>
+		<name normalized="erbsn州" languages="Japanese">エルバサン州</name>
+		<name normalized="爱尔巴桑" languages="Chinese">爱尔巴桑</name>
+		<name normalized="艾巴申州" languages="Chinese">艾巴申州</name>
+		<name normalized="엘바산" languages="Korean">엘바산</name>
+		<name normalized="엘바산 주" languages="Korean">엘바산 주</name>
+	</region>
+	<region name="Fier" type="county" typeTranslated="qark">
+		<name normalized="Comtat de Fier" languages="Catalan">Comtat de Fier</name>
+		<name normalized="Condado de Fier" languages="Galician;Spanish">Condado de Fier</name>
+		<name normalized="Contae Fier" languages="Irish">Contae Fier</name>
+		<name normalized="Fier" languages="Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Hungarian;Indonesian;Italian;Kongo;Nahuatl;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Serbo-Croatian;Simple English;Slovak;Spanish;Swedish;Vietnamese;Waray">Fier</name>
+		<name normalized="Fier Coonty" languages="Scots">Fier Coonty</name>
+		<name normalized="Fier County" languages="English;official;Simple English">Fier County</name>
+		<name normalized="Fier ili" languages="Turkish">Fier ili</name>
+		<name normalized="Fier konderria" languages="Basque">Fier konderria</name>
+		<name normalized="Fier prefektur" languages="Swedish">Fier prefektur</name>
+		<name normalized="Fier Qark" languages="English;official">Fier Qark</name>
+		<name normalized="Fieri" languages="Albanian;Volapuk">Fieri</name>
+		<name normalized="Fieri maakond" languages="Estonian">Fieri maakond</name>
+		<name normalized="Fierio apskritis" languages="Lithuanian">Fierio apskritis</name>
+		<name normalized="Fieris" languages="Lithuanian">Fieris</name>
+		<name normalized="Fierski okrug" languages="Croatian">Fierski okrug</name>
+		<name normalized="Obwod Fier" languages="Polish">Obwód Fier</name>
+		<name normalized="Prefectura de Fier" languages="Aragonese">Prefectura de Fier</name>
+		<name normalized="Prefettura de Fier" languages="lumbaart">Prefettura de Fier</name>
+		<name normalized="Prefettura di Fier" languages="Italian">Prefettura di Fier</name>
+		<name normalized="Provinco Fier" languages="Esperanto">Provinco Fier</name>
+		<name normalized="Prefecture de Fier" languages="French">Préfecture de Fier</name>
+		<name normalized="Qark Fier" languages="German">Qark Fier</name>
+		<name normalized="Qarku i Fierit" languages="Albanian">Qarku i Fierit</name>
+		<name normalized="Νομος Φιeρ" languages="Greek">Νομός Φιέρ</name>
+		<name normalized="Фiiр" languages="Bulgarian;Macedonian">Фиер</name>
+		<name normalized="Фiiрi" languages="Chechen;Russian">Фиери</name>
+		<name normalized="Фjiр" languages="Serbian">Фјер</name>
+		<name normalized="Fիեrի" languages="Armenian">Ֆիերի</name>
+		<name normalized="sوbہ fیr" languages="Urdu;Western Punjabi">صوبہ فیر</name>
+		<name normalized="fیr" languages="Persian;Urdu;Western Punjabi">فیر</name>
+		<name normalized="hier" languages="Japanese">フィエル</name>
+		<name normalized="hier州" languages="Japanese">フィエル州</name>
+		<name normalized="非夏爾" languages="Chinese">非夏爾</name>
+		<name normalized="非夏爾州" languages="Chinese">非夏爾州</name>
+		<name normalized="피에르" languages="Korean">피에르</name>
+		<name normalized="피에르 주" languages="Korean">피에르 주</name>
+	</region>
+	<region name="Gjirokaster" type="county" typeTranslated="qark">
+		<name normalized="Argirocastro" languages="Italian">Argirocastro</name>
+		<name normalized="Comtat de Gjirokaster" languages="Catalan">Comtat de Gjirokastër</name>
+		<name normalized="Condado de Gjirokaster" languages="Galician;Spanish">Condado de Gjirokastër</name>
+		<name normalized="Contae Gjirokaster" languages="Irish">Contae Gjirokastër</name>
+		<name normalized="Ergiri ili" languages="Turkish">Ergiri ili</name>
+		<name normalized="Girokasterio apskritis" languages="Lithuanian">Girokasterio apskritis</name>
+		<name normalized="Girokasteris" languages="Lithuanian">Girokasteris</name>
+		<name normalized="Gjirokaster" languages="English;official">Gjirokaster</name>
+		<name normalized="Gjirokaster County" languages="English;official">Gjirokaster County</name>
+		<name normalized="Gjirokaster Qark" languages="English;official">Gjirokaster Qark</name>
+		<name normalized="Gjirokastra" languages="Albanian;Breton;Croatian;German;Hungarian;Norwegian (bokmal);Polish;Romanian;Spanish;Volapuk;Welsh">Gjirokastra</name>
+		<name normalized="Gjirokastra megye" languages="Hungarian">Gjirokastra megye</name>
+		<name normalized="Gjirokaster" languages="Basque;Breton;Catalan;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Indonesian;Kongo;Malay;Norwegian (bokmal);Portuguese;Simple English;Slovak;Swedish;Vietnamese;Waray">Gjirokastër</name>
+		<name normalized="Gjirokaster Coonty" languages="Scots">Gjirokastër Coonty</name>
+		<name normalized="Gjirokaster County" languages="English;Simple English">Gjirokastër County</name>
+		<name normalized="Gjirokaster konderria" languages="Basque">Gjirokastër konderria</name>
+		<name normalized="Gjirokaster prefektur" languages="Swedish">Gjirokastër prefektur</name>
+		<name normalized="Gjirokasteri maakond" languages="Estonian">Gjirokastëri maakond</name>
+		<name normalized="Gjirokasterski okrug" languages="Croatian">Gjirokastërski okrug</name>
+		<name normalized="Obwod Gjirokastra" languages="Polish">Obwód Gjirokastra</name>
+		<name normalized="Prefectura de Gjirokaster" languages="Aragonese">Prefectura de Gjirokastër</name>
+		<name normalized="Prefettura de Argirocaster" languages="lumbaart">Prefettura de Argirocaster</name>
+		<name normalized="Prefettura di Argirocastro" languages="Italian">Prefettura di Argirocastro</name>
+		<name normalized="Provinco Gjirokaster" languages="Esperanto">Provinco Gjirokastër</name>
+		<name normalized="Prefecture de Gjirokaster" languages="French">Préfecture de Gjirokastër</name>
+		<name normalized="Qark Gjirokastra" languages="German">Qark Gjirokastra</name>
+		<name normalized="Qarku i Gjirokastres" languages="Albanian">Qarku i Gjirokastrës</name>
+		<name normalized="Dirokastra" languages="Serbo-Croatian">Đirokastra</name>
+		<name normalized="Αργυροκαστρο" languages="Greek">Αργυρόκαστρο</name>
+		<name normalized="Νομος Αργυροκαστρου" languages="Greek">Νομός Αργυροκάστρου</name>
+		<name normalized="Aрgiрokaсtрo" languages="Bulgarian">Аргирокастро</name>
+		<name normalized="Giрokaсtрa" languages="Chechen;Russian">Гирокастра</name>
+		<name normalized="Giрokaсtрa" languages="Ukrainian">Гірокастра</name>
+		<name normalized="Diрokaсtрa" languages="Serbian">Ђирокастра</name>
+		<name normalized="Giрokaсtрo" languages="Macedonian">Ѓирокастро</name>
+		<name normalized="Գիrvkաstrա" languages="Armenian">Գիրոկաստրա</name>
+		<name normalized="ג'יrvqסtrh" languages="Hebrew">ג'ירוקסטרה</name>
+		<name normalized="אrjیr" languages="Urdu;Western Punjabi">ارجیر</name>
+		<name normalized="jیrوکאسtr" languages="Persian">جیروکاستر</name>
+		<name normalized="sوbہ אrjیr" languages="Urdu;Western Punjabi">صوبہ ارجیر</name>
+		<name normalized="გიროკასტრა" languages="Georgian">გიროკასტრა</name>
+		<name normalized="zrkstr" languages="Japanese">ジロカストラ</name>
+		<name normalized="zrkstr州" languages="Japanese">ジロカストラ州</name>
+		<name normalized="吉羅卡斯特州" languages="Chinese">吉羅卡斯特州</name>
+		<name normalized="吉诺卡斯特" languages="Chinese">吉诺卡斯特</name>
+		<name normalized="지로카스터르" languages="Korean">지로카스터르</name>
+		<name normalized="지로카스터르 주" languages="Korean">지로카스터르 주</name>
+	</region>
+	<region name="Korce" type="county" typeTranslated="qark">
+		<name normalized="Comtat de Korce" languages="Catalan">Comtat de Korçë</name>
+		<name normalized="Condado de Korce" languages="Galician;Spanish">Condado de Korçë</name>
+		<name normalized="Contae Korce" languages="Irish">Contae Korçë</name>
+		<name normalized="Coriza" languages="Italian">Coriza</name>
+		<name normalized="Gorice" languages="Turkish">Görice</name>
+		<name normalized="Gorice ili" languages="Turkish">Görice ili</name>
+		<name normalized="Korca" languages="Norwegian (bokmal)">Korca</name>
+		<name normalized="Korce" languages="English;official">Korce</name>
+		<name normalized="Korce County" languages="English;official">Korce County</name>
+		<name normalized="Korce Qark" languages="English;official">Korce Qark</name>
+		<name normalized="Korcza" languages="Polish">Korcza</name>
+		<name normalized="Korca" languages="Albanian;German;Hungarian;Romanian;Swedish;Volapuk">Korça</name>
+		<name normalized="Korca megye" languages="Hungarian">Korça megye</name>
+		<name normalized="Korce" languages="Breton;Catalan;Czech;Danish;Dutch;English;Esperanto;Finnish;French;Indonesian;Kongo;Norwegian (bokmal);Portuguese;Serbo-Croatian;Simple English;Slovak;Spanish;Vietnamese;Waray;Welsh">Korçë</name>
+		<name normalized="Korce Coonty" languages="Scots">Korçë Coonty</name>
+		<name normalized="Korce County" languages="English;Simple English">Korçë County</name>
+		<name normalized="Korce konderria" languages="Basque">Korçë konderria</name>
+		<name normalized="Korce maakond" languages="Estonian">Korçë maakond</name>
+		<name normalized="Korce prefektur" languages="Swedish">Korçë prefektur</name>
+		<name normalized="Korcanski okrug" languages="Croatian">Korčanski okrug</name>
+		<name normalized="Korce" languages="Lithuanian">Korčė</name>
+		<name normalized="Korces apskritis" languages="Lithuanian">Korčės apskritis</name>
+		<name normalized="Obwod Korcza" languages="Polish">Obwód Korcza</name>
+		<name normalized="Prefectura de Korce" languages="Aragonese">Prefectura de Korçë</name>
+		<name normalized="Prefettura de Coriza" languages="lumbaart">Prefettura de Coriza</name>
+		<name normalized="Prefettura di Coriza" languages="Italian">Prefettura di Coriza</name>
+		<name normalized="Provinco Korce" languages="Esperanto">Provinco Korçë</name>
+		<name normalized="Prefecture de Korce" languages="French">Préfecture de Korçë</name>
+		<name normalized="Qark Korca" languages="German">Qark Korça</name>
+		<name normalized="Qarku i Korces" languages="Albanian">Qarku i Korçës</name>
+		<name normalized="Κορυτσα" languages="Greek">Κορυτσά</name>
+		<name normalized="Νομος Κορυτσας" languages="Greek">Νομός Κορυτσάς</name>
+		<name normalized="Goрita" languages="Macedonian">Горица</name>
+		<name normalized="Koрca" languages="Bulgarian;Chechen;Mongolian;Russian;Serbian;Ukrainian">Корча</name>
+		<name normalized="Kvrcա" languages="Armenian">Կորչա</name>
+		<name normalized="qvrצ'h" languages="Hebrew">קורצ'ה</name>
+		<name normalized="sوbہ کوrچہ" languages="Urdu;Western Punjabi">صوبہ کورچہ</name>
+		<name normalized="کوrچh" languages="Persian">کورچه</name>
+		<name normalized="کوrچہ" languages="Urdu;Western Punjabi">کورچہ</name>
+		<name normalized="krty" languages="Japanese">コルチャ</name>
+		<name normalized="krty州" languages="Japanese">コルチャ州</name>
+		<name normalized="科尔察" languages="Chinese">科尔察</name>
+		<name normalized="科赤州" languages="Chinese">科赤州</name>
+		<name normalized="코르처" languages="Korean">코르처</name>
+		<name normalized="코르처 주" languages="Korean">코르처 주</name>
+	</region>
+	<region name="Kukes" type="county" typeTranslated="qark">
+		<name normalized="Comtat de Kukes" languages="Catalan">Comtat de Kukës</name>
+		<name normalized="Condado de Kukes" languages="Galician;Spanish">Condado de Kukës</name>
+		<name normalized="Contae Kukes" languages="Irish">Contae Kukës</name>
+		<name normalized="Kukes" languages="English;Norwegian (bokmal);official;Serbo-Croatian">Kukes</name>
+		<name normalized="Kukes County" languages="English;official">Kukes County</name>
+		<name normalized="Kukes Qark" languages="English;official">Kukes Qark</name>
+		<name normalized="Kukesio apskritis" languages="Lithuanian">Kukesio apskritis</name>
+		<name normalized="Kukesis" languages="Lithuanian">Kukesis</name>
+		<name normalized="Kukes" languages="Breton;Czech;Danish;Dutch;English;Esperanto;French;German;Hungarian;Italian;Kongo;Norwegian (bokmal);Polish;Portuguese;Romanian;Simple English;Slovak;Spanish;Swedish;Vietnamese;Waray">Kukës</name>
+		<name normalized="Kukes Coonty" languages="Scots">Kukës Coonty</name>
+		<name normalized="Kukes County" languages="English;Simple English">Kukës County</name>
+		<name normalized="Kukes ili" languages="Turkish">Kukës ili</name>
+		<name normalized="Kukes konderria" languages="Basque">Kukës konderria</name>
+		<name normalized="Kukes prefektur" languages="Swedish">Kukës prefektur</name>
+		<name normalized="Kukesi" languages="Albanian;Estonian">Kukësi</name>
+		<name normalized="Kukesi maakond" languages="Estonian">Kukësi maakond</name>
+		<name normalized="Kukeski okrug" languages="Croatian">Kukëski okrug</name>
+		<name normalized="Obwod Kukes" languages="Polish">Obwód Kukës</name>
+		<name normalized="Prefectura de Kukes" languages="Aragonese">Prefectura de Kukës</name>
+		<name normalized="Prefettura de Kukes" languages="lumbaart">Prefettura de Kukës</name>
+		<name normalized="Prefettura di Kukes" languages="Italian">Prefettura di Kukës</name>
+		<name normalized="Provinco Kukes" languages="Esperanto">Provinco Kukës</name>
+		<name normalized="Prefecture de Kukes" languages="French">Préfecture de Kukës</name>
+		<name normalized="Qark Kukes" languages="German">Qark Kukës</name>
+		<name normalized="Qarku i Kukesit" languages="Albanian">Qarku i Kukësit</name>
+		<name normalized="Νομος Κουκς" languages="Greek">Νομός Κουκς</name>
+		<name normalized="Goрad Kukiс" languages="Belarusian">Горад Кукес</name>
+		<name normalized="Kukiс" languages="Chechen;Russian;Serbian;Ukrainian">Кукес</name>
+		<name normalized="Kukс" languages="Macedonian">Кукс</name>
+		<name normalized="Kukъс" languages="Bulgarian">Кукъс</name>
+		<name normalized="Kvykեs" languages="Armenian">Կուկես</name>
+		<name normalized="qvqס" languages="Hebrew">קוקס</name>
+		<name normalized="sوbہ کوکس" languages="Urdu;Western Punjabi">صوبہ کوکس</name>
+		<name normalized="کوکس" languages="Persian;Urdu;Western Punjabi">کوکس</name>
+		<name normalized="kks州" languages="Japanese">クケス州</name>
+		<name normalized="库克斯" languages="Chinese">库克斯</name>
+		<name normalized="庫克斯州" languages="Chinese">庫克斯州</name>
+		<name normalized="쿠커스" languages="Korean">쿠커스</name>
+		<name normalized="쿠커스 주" languages="Korean">쿠커스 주</name>
+	</region>
+	<region name="Lezhe" type="county" typeTranslated="qark">
+		<name normalized="Alessio" languages="Italian">Alessio</name>
+		<name normalized="Comtat de Lezhe" languages="Catalan">Comtat de Lezhë</name>
+		<name normalized="Condado de Lezhe" languages="Galician;Spanish">Condado de Lezhë</name>
+		<name normalized="Contae Lezhe" languages="Irish">Contae Lezhë</name>
+		<name normalized="Lezha" languages="Albanian;German;Hungarian;Polish;Romanian;Swedish">Lezha</name>
+		<name normalized="Lezhe" languages="English;Norwegian (bokmal);official">Lezhe</name>
+		<name normalized="Lezhe County" languages="English;official">Lezhe County</name>
+		<name normalized="Lezhe Qark" languages="English;official">Lezhe Qark</name>
+		<name normalized="Lezhe" languages="Breton;Czech;Danish;Dutch;English;Esperanto;Finnish;French;Kongo;Norwegian (bokmal);Portuguese;Simple English;Slovak;Spanish;Vietnamese;Waray">Lezhë</name>
+		<name normalized="Lezhe Coonty" languages="Scots">Lezhë Coonty</name>
+		<name normalized="Lezhe County" languages="English;Simple English">Lezhë County</name>
+		<name normalized="Lezhe konderria" languages="Basque">Lezhë konderria</name>
+		<name normalized="Lezhe maakond" languages="Estonian">Lezhë maakond</name>
+		<name normalized="Lezhe prefektur" languages="Swedish">Lezhë prefektur</name>
+		<name normalized="Lec ili" languages="Turkish">Leç ili</name>
+		<name normalized="Leze" languages="Lithuanian">Ležė</name>
+		<name normalized="Lezes apskritis" languages="Lithuanian">Ležės apskritis</name>
+		<name normalized="Lissus" languages="Catalan">Lissus</name>
+		<name normalized="Ljes" languages="Serbo-Croatian">Lješ</name>
+		<name normalized="Ljeski okrug" languages="Croatian;Serbo-Croatian">Lješki okrug</name>
+		<name normalized="Obwod Lezha" languages="Polish">Obwód Lezha</name>
+		<name normalized="Prefectura de Lezhe" languages="Aragonese">Prefectura de Lezhë</name>
+		<name normalized="Prefettura de Alessi" languages="lumbaart">Prefettura de Alessi</name>
+		<name normalized="Prefettura di Alessio" languages="Italian">Prefettura di Alessio</name>
+		<name normalized="Provinco Lezhe" languages="Esperanto">Provinco Lezhë</name>
+		<name normalized="Prefecture de Lezhe" languages="French">Préfecture de Lezhë</name>
+		<name normalized="Qark Lezha" languages="German">Qark Lezha</name>
+		<name normalized="Qarku i Lezhes" languages="Albanian">Qarku i Lezhës</name>
+		<name normalized="Νομος Λεζ" languages="Greek">Νομός Λεζ</name>
+		<name normalized="Лiz" languages="Macedonian">Леж</name>
+		<name normalized="Лiza" languages="Bulgarian;Chechen;Russian">Лежа</name>
+		<name normalized="Lis" languages="Serbian">Љеш</name>
+		<name normalized="Lեժա" languages="Armenian">Լեժա</name>
+		<name normalized="sوbہ لjہ" languages="Urdu;Western Punjabi">صوبہ لژہ</name>
+		<name normalized="لjh" languages="Persian">لژه</name>
+		<name normalized="لjہ" languages="Urdu;Western Punjabi">لژہ</name>
+		<name normalized="rzy州" languages="Japanese">レジャ州</name>
+		<name normalized="列澤州" languages="Chinese">列澤州</name>
+		<name normalized="莱什" languages="Chinese">莱什</name>
+		<name normalized="레저" languages="Korean">레저</name>
+		<name normalized="레저 주" languages="Korean">레저 주</name>
+	</region>
+	<region name="Shkoder" type="county" typeTranslated="qark">
+		<name normalized="Comtat de Shkoder" languages="Catalan">Comtat de Shkodër</name>
+		<name normalized="Condado de Shkoder" languages="Galician;Spanish">Condado de Shkodër</name>
+		<name normalized="Contae Shkoder" languages="Irish">Contae Shkodër</name>
+		<name normalized="Iskodra" languages="Turkish">İşkodra</name>
+		<name normalized="Iskodra ili" languages="Turkish">İşkodra ili</name>
+		<name normalized="Obwod Szkodra" languages="Polish">Obwód Szkodra</name>
+		<name normalized="Prefectura de Shkoder" languages="Aragonese">Prefectura de Shkodër</name>
+		<name normalized="Prefettura de Scutar" languages="lumbaart">Prefettura de Scutar</name>
+		<name normalized="Prefettura di Scutari" languages="Italian">Prefettura di Scutari</name>
+		<name normalized="Provinco Shkoder" languages="Esperanto">Provinco Shkodër</name>
+		<name normalized="Prefecture de Shkoder" languages="French">Préfecture de Shkodër</name>
+		<name normalized="Qark Shkodra" languages="German">Qark Shkodra</name>
+		<name normalized="Qarku i Shkodres" languages="Albanian">Qarku i Shkodrës</name>
+		<name normalized="Scutari" languages="Italian">Scutari</name>
+		<name normalized="Shkoder" languages="English;Indonesian;official">Shkoder</name>
+		<name normalized="Shkoder County" languages="English;official">Shkoder County</name>
+		<name normalized="Shkoder Qark" languages="English;official">Shkoder Qark</name>
+		<name normalized="Shkodra" languages="Albanian;Alemannisch;German;Hungarian;Swedish;Volapuk">Shkodra</name>
+		<name normalized="Shkoder" languages="Aragonese;Basque;Breton;Catalan;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;Kongo;Malay;Norwegian (bokmal);Portuguese;Romanian;Simple English;Slovak;Spanish;Vietnamese;Waray;Welsh">Shkodër</name>
+		<name normalized="Shkoder Coonty" languages="Scots">Shkodër Coonty</name>
+		<name normalized="Shkoder County" languages="English;Simple English">Shkodër County</name>
+		<name normalized="Shkoder konderria" languages="Basque">Shkodër konderria</name>
+		<name normalized="Shkoder prefektur" languages="Swedish">Shkodër prefektur</name>
+		<name normalized="Shkoderi maakond" languages="Estonian">Shkodëri maakond</name>
+		<name normalized="Skadar" languages="Bosnian;Croatian;Czech;Serbo-Croatian;Slovenian">Skadar</name>
+		<name normalized="Skadarski okrug" languages="Croatian;Serbo-Croatian">Skadarski okrug</name>
+		<name normalized="Szkodra" languages="Polish">Szkodra</name>
+		<name normalized="Skoder" languages="Azerbaijani">Şkoder</name>
+		<name normalized="Skoderio apskritis" languages="Lithuanian">Škoderio apskritis</name>
+		<name normalized="Skoderis" languages="Lithuanian">Škoderis</name>
+		<name normalized="Skodra" languages="Latvian">Škodra</name>
+		<name normalized="Νομος Σκοδρας" languages="Greek">Νομός Σκόδρας</name>
+		<name normalized="Σκοδρα" languages="Greek">Σκόδρα</name>
+		<name normalized="Сkadaр" languages="Macedonian;Serbian">Скадар</name>
+		<name normalized="Skodiр" languages="Chechen;Chuvash;Russian;Ukrainian">Шкодер</name>
+		<name normalized="Skodрa" languages="Bulgarian">Шкодра</name>
+		<name normalized="Skvdեr" languages="Armenian">Շկոդեր</name>
+		<name normalized="שqvדrh" languages="Hebrew">שקודרה</name>
+		<name normalized="אشکودr" languages="Persian">اشکودر</name>
+		<name normalized="شqودrة" languages="Arabic">شقودرة</name>
+		<name normalized="شکودr" languages="Urdu;Western Punjabi">شکودر</name>
+		<name normalized="sوbہ شکودr" languages="Urdu;Western Punjabi">صوبہ شکودر</name>
+		<name normalized="sykdr" languages="Japanese">シュコドラ</name>
+		<name normalized="sykdr州" languages="Japanese">シュコドラ州</name>
+		<name normalized="士科德州" languages="Chinese">士科德州</name>
+		<name normalized="斯库台" languages="Chinese">斯库台</name>
+		<name normalized="슈코더르" languages="Korean">슈코더르</name>
+		<name normalized="슈코더르 주" languages="Korean">슈코더르 주</name>
+	</region>
+	<region name="Tirane" type="county" typeTranslated="qark">
+		<name normalized="Comtat de Tirana" languages="Catalan">Comtat de Tirana</name>
+		<name normalized="Condado de Tirana" languages="Galician;Spanish">Condado de Tirana</name>
+		<name normalized="Contae Tirane" languages="Irish">Contae Tiranë</name>
+		<name normalized="Obwod Tirana" languages="Polish">Obwód Tirana</name>
+		<name normalized="Prefectura de Tirana" languages="Aragonese">Prefectura de Tirana</name>
+		<name normalized="Prefettura de Tirana" languages="lumbaart">Prefettura de Tirana</name>
+		<name normalized="Prefettura di Tirana" languages="Italian">Prefettura di Tirana</name>
+		<name normalized="Provinco Tirano" languages="Esperanto">Provinco Tirano</name>
+		<name normalized="Prefecture de Tirana" languages="French">Préfecture de Tirana</name>
+		<name normalized="Qark Tirana" languages="German">Qark Tirana</name>
+		<name normalized="Qarku i Tiranes" languages="Albanian">Qarku i Tiranës</name>
+		<name normalized="Theranda" languages="Latin">Theranda</name>
+		<name normalized="Tiorana" languages="Irish">Tiorána</name>
+		<name normalized="Tiran" languages="Turkish;Veps">Tiran</name>
+		<name normalized="Tiran ili" languages="Turkish">Tiran ili</name>
+		<name normalized="Tiran-a" languages="Piedmontese">Tiran-a</name>
+		<name normalized="Tirana" languages="Achinese;Afrikaans;Akan;Albanian;Alemannisch;Aragonese;Aromanian;Asturian;Azerbaijani;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Crimean Turkish;Croatian;Czech;Danish;Dutch;English;Estonian;Ewe;Faroese;Fiji Hindi;Finnish;Franco-Provencal;French;Gagauz;Galician;German;Haitian;Hungarian;Indonesian;Interlingua;Interlingue;Italian;Javanese;Kalaallisut;Kinyarwanda;Kongo;Ladino;Ligure;Lingala;Lithuanian;Low German;Lower Sorbian;lumbaart;Luxembourgish;Malagasy;Malay;Maori;Nahuatl;Norfuk / Pitkern;Northern Frisian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;Old English;Papiamento;Polish;Portuguese;Quechua;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Sicilian;Simple English;Slovak;Slovenian;Spanish;Swahili;Swedish;Tagalog;Tetum;Upper Sorbian;Uyghur;Uzbek;Vietnamese;Volapuk;veneto;Voro;Waray;Welsh;Western Frisian;Wolof;Yoruba;Zeeuws">Tirana</name>
+		<name normalized="Tirana Coonty" languages="Scots">Tirana Coonty</name>
+		<name normalized="Tirana County" languages="English;Simple English">Tirana County</name>
+		<name normalized="Tirana konderria" languages="Basque">Tirana konderria</name>
+		<name normalized="Tirana maakond" languages="Estonian">Tirana maakond</name>
+		<name normalized="Tirane" languages="English;Ido;official">Tirane</name>
+		<name normalized="Tirane County" languages="English;official">Tirane County</name>
+		<name normalized="Tirane Qark" languages="English;official">Tirane Qark</name>
+		<name normalized="Tirano" languages="Esperanto">Tirano</name>
+		<name normalized="Tiranos apskritis" languages="Lithuanian">Tiranos apskritis</name>
+		<name normalized="Tiranski okrug" languages="Croatian">Tiranski okrug</name>
+		<name normalized="Tirane" languages="Czech;Manx;Norwegian (bokmal)">Tiranë</name>
+		<name normalized="Tirane prefektur" languages="Swedish">Tiranë prefektur</name>
+		<name normalized="Tirana" languages="Latvian">Tirāna</name>
+		<name normalized="Tirana" languages="Icelandic">Tírana</name>
+		<name normalized="Tirana" languages="Kurdish">Tîrana</name>
+		<name normalized="Terana" languages="Samogitian">Tėrana</name>
+		<name normalized="Νομος Τιρανων" languages="Greek">Νομός Τιράνων</name>
+		<name normalized="Τιρανα" languages="Greek">Τίρανα</name>
+		<name normalized="Goрad Tырaнa" languages="Belarusian">Горад Тырана</name>
+		<name normalized="Tiрaн kot" languages="Mongolian">Тиран хот</name>
+		<name normalized="Tiрaнae" languages="Ossetic">Тиранæ</name>
+		<name normalized="Tiрaнa" languages="Bulgarian;Chechen;Chuvash;Kazakh;Komi;Macedonian;Russian;Sakha;Serbian;Tajik;Tatar;Udmurt;Ukrainian">Тирана</name>
+		<name normalized="Tiрaнi" languages="Eastern Mari">Тиране</name>
+		<name normalized="Tырaнa" languages="biлaрuсkai (taрaskivita)‎">Тырана</name>
+		<name normalized="Tիrանա" languages="Armenian">Տիրանա</name>
+		<name normalized="tיrאnא" languages="Yiddish">טיראנא</name>
+		<name normalized="tיrnh" languages="Hebrew">טירנה</name>
+		<name normalized="tyrאنא" languages="Arabic;Egyptian Spoken Arabic">تيرانا</name>
+		<name normalized="tیrאنא" languages="Pashto;Persian;Sorani Kurdish;Urdu;Western Punjabi">تیرانا</name>
+		<name normalized="sوbہ tیrאنא" languages="Urdu;Western Punjabi">صوبہ تیرانا</name>
+		<name normalized="tirाnा" languages="Hindi;Marathi">तिराना</name>
+		<name normalized="tirাnা" languages="Bengali">তিরানা</name>
+		<name normalized="tirਾnਾ" languages="Punjabi">ਤਿਰਾਨਾ</name>
+		<name normalized="ଟିରାନା" languages="Oriya">ଟିରାନା</name>
+		<name normalized="டிரானா" languages="Tamil">டிரானா</name>
+		<name normalized="ടിറാന" languages="Malayalam">ടിറാന</name>
+		<name normalized="ติรานา" languages="Thai">ติรานา</name>
+		<name normalized="มณฑลติรานา" languages="Thai">มณฑลติรานา</name>
+		<name normalized="ཐིས་རན།" languages="Tibetan">ཐིས་རན།</name>
+		<name normalized="ტირანა" languages="Georgian">ტირანა</name>
+		<name normalized="ቲራና" languages="Amharic">ቲራና</name>
+		<name normalized="tirn" languages="Japanese">ティラナ</name>
+		<name normalized="tirn州" languages="Japanese">ティラナ州</name>
+		<name normalized="地拉那" languages="Cantonese;Chinese">地拉那</name>
+		<name normalized="地拉那州" languages="Chinese">地拉那州</name>
+		<name normalized="티라나" languages="Korean">티라나</name>
+		<name normalized="티라나 주" languages="Korean">티라나 주</name>
+	</region>
+	<region name="Vlore" type="county" typeTranslated="qark">
+		<name normalized="Aulon" languages="Latin">Aulon</name>
+		<name normalized="Avlonya" languages="Turkish">Avlonya</name>
+		<name normalized="Avlonya ili" languages="Turkish">Avlonya ili</name>
+		<name normalized="Comtat de Vlore" languages="Catalan">Comtat de Vlorë</name>
+		<name normalized="Condado de Vlore" languages="Galician;Spanish">Condado de Vlorë</name>
+		<name normalized="Contae Vlore" languages="Irish">Contae Vlorë</name>
+		<name normalized="Obwod Wlora" languages="Polish">Obwód Wlora</name>
+		<name normalized="Prefectura de Vlore" languages="Aragonese">Prefectura de Vlorë</name>
+		<name normalized="Prefettura de Valona" languages="lumbaart">Prefettura de Valòna</name>
+		<name normalized="Prefettura di Valona" languages="Italian">Prefettura di Valona</name>
+		<name normalized="Provinco Vlore" languages="Esperanto">Provinco Vlorë</name>
+		<name normalized="Prefecture de Vlore" languages="French">Préfecture de Vlorë</name>
+		<name normalized="Qark Vlora" languages="German">Qark Vlora</name>
+		<name normalized="Qarku i Vlores" languages="Albanian">Qarku i Vlorës</name>
+		<name normalized="Valona" languages="Bosnian;Croatian;Italian;Serbo-Croatian;Sicilian">Valona</name>
+		<name normalized="Valonski okrug" languages="Croatian">Valonski okrug</name>
+		<name normalized="Vliore" languages="Lithuanian">Vliorė</name>
+		<name normalized="Vliores apskritis" languages="Lithuanian">Vliorės apskritis</name>
+		<name normalized="Vlora" languages="Albanian;Czech;French;German;Hungarian;Norwegian (bokmal);Romanian;Swedish;Volapuk">Vlora</name>
+		<name normalized="Vlora megye" languages="Hungarian">Vlora megye</name>
+		<name normalized="Vlore" languages="English;official">Vlore</name>
+		<name normalized="Vlore County" languages="English;official">Vlore County</name>
+		<name normalized="Vlore Qark" languages="English;official">Vlore Qark</name>
+		<name normalized="Vlore" languages="Basque;Breton;Catalan;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;Indonesian;Kongo;Norwegian (bokmal);Norwegian Nynorsk;Portuguese;Simple English;Slovak;Spanish;Vietnamese;Waray;Welsh">Vlorë</name>
+		<name normalized="Vlore Coonty" languages="Scots">Vlorë Coonty</name>
+		<name normalized="Vlore County" languages="English;Simple English">Vlorë County</name>
+		<name normalized="Vlore konderria" languages="Basque">Vlorë konderria</name>
+		<name normalized="Vlore maakond" languages="Estonian">Vlorë maakond</name>
+		<name normalized="Vlore prefektur" languages="Swedish">Vlorë prefektur</name>
+		<name normalized="Vlyora" languages="Azerbaijani">Vlyora</name>
+		<name normalized="Vlora" languages="Latvian">Vļora</name>
+		<name normalized="Wlora" languages="Polish">Wlora</name>
+		<name normalized="Αυλωνας" languages="Greek">Αυλώνας</name>
+		<name normalized="Νομος Αυλωνα" languages="Greek">Νομός Αυλώνα</name>
+		<name normalized="Vaлoнa" languages="Macedonian;Serbian">Валона</name>
+		<name normalized="Vльoрa" languages="Bulgarian;Ukrainian">Вльора</name>
+		<name normalized="Vлёрa" languages="Chechen;Mongolian;Russian">Влёра</name>
+		<name normalized="Vobлaсtь Vлёрa" languages="Belarusian">Вобласць Влёра</name>
+		<name normalized="Վlյvrա" languages="Armenian">Վլյորա</name>
+		<name normalized="Վlvrա" languages="Armenian">Վլորա</name>
+		<name normalized="vדvrh" languages="Hebrew">ולורה</name>
+		<name normalized="sوbہ ولوrہ" languages="Urdu;Western Punjabi">صوبہ ولورہ</name>
+		<name normalized="fلوrh" languages="Arabic">فلوره</name>
+		<name normalized="ولوrh" languages="Persian">ولوره</name>
+		<name normalized="ولوrہ" languages="Urdu;Western Punjabi">ولورہ</name>
+		<name normalized="วโลเรอ" languages="Thai">วโลเรอ</name>
+		<name normalized="vrr" languages="Japanese">ヴロラ</name>
+		<name normalized="vrr州" languages="Japanese">ヴロラ州</name>
+		<name normalized="发罗拉" languages="Chinese">发罗拉</name>
+		<name normalized="夫羅勒州" languages="Chinese">夫羅勒州</name>
+		<name normalized="블로러" languages="Korean">블로러</name>
+		<name normalized="블로러 주" languages="Korean">블로러 주</name>
+	</region>
+</regions>

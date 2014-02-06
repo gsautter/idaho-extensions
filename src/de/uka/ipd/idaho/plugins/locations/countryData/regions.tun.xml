@@ -1,0 +1,945 @@
+<regions country="Tunisia">
+	<region name="Beja" type="governorate" typeTranslated="wilayah">
+		<name normalized="Bace" languages="Turkish">Bace</name>
+		<name normalized="Bace ili" languages="Turkish">Bace ili</name>
+		<name normalized="Badza" languages="Polish">Badża</name>
+		<name normalized="Badza" languages="Lithuanian">Badža</name>
+		<name normalized="Badzos vilajetas" languages="Lithuanian">Badžos vilajetas</name>
+		<name normalized="Bajah" languages="English;official">Bajah</name>
+		<name normalized="Bajah Governorate" languages="English;official">Bajah Governorate</name>
+		<name normalized="Bajah Wilayah" languages="English;official">Bajah Wilayah</name>
+		<name normalized="Beja" languages="English;German;official">Beja</name>
+		<name normalized="Beja Governorate" languages="English;official">Beja Governorate</name>
+		<name normalized="Beja Wilayah" languages="English;official">Beja Wilayah</name>
+		<name normalized="Beja" languages="Catalan;Danish;Dutch;English;Finnish;French;Italian;Norwegian (bokmal);Portuguese;Romanian;Scots;Spanish;Welsh">Béja</name>
+		<name normalized="Beja Governorate" languages="English">Béja Governorate</name>
+		<name normalized="Beja Govrenorate" languages="Scots">Béja Govrenorate</name>
+		<name normalized="Beja kormanyzosag" languages="Hungarian">Béja kormányzóság</name>
+		<name normalized="Gobernacion de Beja" languages="Spanish">Gobernación de Béja</name>
+		<name normalized="Gouvernement Beja" languages="German">Gouvernement Beja</name>
+		<name normalized="Gouvernorat de Beja" languages="French">Gouvernorat de Béja</name>
+		<name normalized="Governacio de Beja" languages="Catalan">Governació de Béja</name>
+		<name normalized="Governatorato di Beja" languages="Italian">Governatorato di Béja</name>
+		<name normalized="Gubernatorstwo Badza" languages="Polish">Gubernatorstwo Badża</name>
+		<name normalized="Guvernoratul Beja" languages="Romanian">Guvernoratul Béja</name>
+		<name normalized="Kawasan kegabenoran Beja" languages="Malay">Kawasan kegabenoran Béja</name>
+		<name normalized="Kegubernuran Beja" languages="Indonesian">Kegubernuran Béja</name>
+		<name normalized="Μπατζα" languages="Greek">Μπατζά</name>
+		<name normalized="Bidza" languages="Russian;Ukrainian">Беджа</name>
+		<name normalized="Biza" languages="Bulgarian">Бежа</name>
+		<name normalized="Bedza" languages="biлaрuсkai (taрaskivita)‎">Бэджа</name>
+		<name normalized="Viлait Bidza" languages="Belarusian">Вілает Беджа</name>
+		<name normalized="אسtאن bאjh" languages="Persian">استان باجه</name>
+		<name normalized="bאjة" languages="Arabic">باجة</name>
+		<name normalized="bאjh" languages="Persian">باجه</name>
+		<name normalized="bאjہ" languages="Urdu">باجہ</name>
+		<name normalized="ولאyة bאjة" languages="Arabic">ولاية باجة</name>
+		<name normalized="bzy県" languages="Japanese">ベジャ県</name>
+		<name normalized="巴傑省" languages="Chinese">巴傑省</name>
+		<name normalized="巴杰" languages="Chinese">巴杰</name>
+		<name normalized="베자" languages="Korean">베자</name>
+		<name normalized="베자 주" languages="Korean">베자 주</name>
+	</region>
+	<region name="Ben Arous" type="governorate" typeTranslated="wilayah">
+		<name normalized="Ben Arous" languages="Catalan;Dutch;English;Finnish;French;German;Italian;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Spanish;Swedish;Welsh">Ben Arous</name>
+		<name normalized="Ben Arous Governorate" languages="English;official">Ben Arous Governorate</name>
+		<name normalized="Ben Arous Govrenorate" languages="Scots">Ben Arous Govrenorate</name>
+		<name normalized="Ben Arous kormanyzosag" languages="Hungarian">Ben Arous kormányzóság</name>
+		<name normalized="Ben Arous Wilayah" languages="English;official">Ben Arous Wilayah</name>
+		<name normalized="Ben Arus" languages="Turkish">Ben Arus</name>
+		<name normalized="Ben Arus ili" languages="Turkish">Ben Arus ili</name>
+		<name normalized="Ben Arusas" languages="Lithuanian">Ben Arusas</name>
+		<name normalized="Ben Aruso vilajetas" languages="Lithuanian">Ben Aruso vilajetas</name>
+		<name normalized="Bin 'Arus" languages="English;official">Bin 'Arus</name>
+		<name normalized="Bin 'Arus Governorate" languages="English;official">Bin 'Arus Governorate</name>
+		<name normalized="Bin 'Arus Wilayah" languages="English;official">Bin 'Arus Wilayah</name>
+		<name normalized="Bin Arus" languages="English;official;Polish">Bin Arus</name>
+		<name normalized="Bin Arus Governorate" languages="English;official">Bin Arus Governorate</name>
+		<name normalized="Bin Arus Wilayah" languages="English;official">Bin Arus Wilayah</name>
+		<name normalized="Gobernacion de Ben Arous" languages="Spanish">Gobernación de Ben Arous</name>
+		<name normalized="Gouvernement Ben Arous" languages="German">Gouvernement Ben Arous</name>
+		<name normalized="Gouvernorat de Ben Arous" languages="French">Gouvernorat de Ben Arous</name>
+		<name normalized="Governacio de Ben Arous" languages="Catalan">Governació de Ben Arous</name>
+		<name normalized="Governatorato di Ben Arous" languages="Italian">Governatorato di Ben Arous</name>
+		<name normalized="Gubernatorstwo Bin Arus" languages="Polish">Gubernatorstwo Bin Arus</name>
+		<name normalized="Guvernoratul Ben Arous" languages="Romanian">Guvernoratul Ben Arous</name>
+		<name normalized="Kegubernuran Ben Arous" languages="Indonesian">Kegubernuran Ben Arous</name>
+		<name normalized="Μπιν Αροuς" languages="Greek">Μπιν Αρούς</name>
+		<name normalized="Biн Aрuс" languages="Bulgarian">Бен Арус</name>
+		<name normalized="Biн-Aрuс" languages="Russian;Ukrainian">Бен-Арус</name>
+		<name normalized="Beн-Aрuс" languages="biлaрuсkai (taрaskivita)‎">Бэн-Арус</name>
+		<name normalized="Viлait Biн-Aрuс" languages="Belarusian">Вілает Бен-Арус</name>
+		<name normalized="אسtאن bن عrوس" languages="Persian">استان بن عروس</name>
+		<name normalized="bن عrوس" languages="Arabic;Persian;Urdu">بن عروس</name>
+		<name normalized="ولאyة bن عrوس" languages="Arabic">ولاية بن عروس</name>
+		<name normalized="bnnrs県" languages="Japanese">ベンナラス県</name>
+		<name normalized="本阿魯斯省" languages="Chinese">本阿魯斯省</name>
+		<name normalized="本阿鲁斯" languages="Chinese">本阿鲁斯</name>
+		<name normalized="벤 아루스" languages="Korean">벤 아루스</name>
+		<name normalized="벤 아루스 주" languages="Korean">벤 아루스 주</name>
+	</region>
+	<region name="Bizerte" type="governorate" typeTranslated="wilayah">
+		<name normalized="Banzart" languages="English;official">Banzart</name>
+		<name normalized="Banzart Governorate" languages="English;official">Banzart Governorate</name>
+		<name normalized="Banzart Wilayah" languages="English;official">Banzart Wilayah</name>
+		<name normalized="Binzert ili" languages="Turkish">Binzert ili</name>
+		<name normalized="Biserta" languages="Finnish;Italian">Biserta</name>
+		<name normalized="Bizerta" languages="Basque;Catalan;German;Lithuanian;Polish;Portuguese;Spanish">Bizerta</name>
+		<name normalized="Bizerte" languages="Danish;Dutch;English;Esperanto;Finnish;French;Indonesian;Malay;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Slovenian;Swedish;Turkish;Waray;Welsh">Bizerte</name>
+		<name normalized="Bizerte Governorate" languages="English;official">Bizerte Governorate</name>
+		<name normalized="Bizerte Govrenorate" languages="Scots">Bizerte Govrenorate</name>
+		<name normalized="Bizerte kormanyzosag" languages="Hungarian">Bizerte kormányzóság</name>
+		<name normalized="Bizerte Wilayah" languages="English;official">Bizerte Wilayah</name>
+		<name normalized="Bizertos vilajetas" languages="Lithuanian">Bizertos vilajetas</name>
+		<name normalized="Gobernacion de Bizerta" languages="Spanish">Gobernación de Bizerta</name>
+		<name normalized="Gouvernement Bizerta" languages="German">Gouvernement Bizerta</name>
+		<name normalized="Gouvernorat de Bizerte" languages="French">Gouvernorat de Bizerte</name>
+		<name normalized="Governacio de Bizerta" languages="Catalan">Governació de Bizerta</name>
+		<name normalized="Governatorato di Biserta" languages="Italian">Governatorato di Biserta</name>
+		<name normalized="Gubernatorstwo Bizerta" languages="Polish">Gubernatorstwo Bizerta</name>
+		<name normalized="Guvernoratul Bizerte" languages="Romanian">Guvernoratul Bizerte</name>
+		<name normalized="Hippo Diarrhytus" languages="Latin">Hippo Diarrhytus</name>
+		<name normalized="Kawasan kegabenoran Bizerte" languages="Malay">Kawasan kegabenoran Bizerte</name>
+		<name normalized="Kegubernuran Bizerte" languages="Indonesian">Kegubernuran Bizerte</name>
+		<name normalized="Μπιζeρτα" languages="Greek">Μπιζέρτα</name>
+		<name normalized="Biziрta" languages="Bulgarian;Russian;Serbian">Бизерта</name>
+		<name normalized="Biziрta kaлaсы" languages="Kazakh">Бизерта қаласы</name>
+		<name normalized="Biziрta" languages="Ukrainian">Бізерта</name>
+		<name normalized="Bizeрta" languages="biлaрuсkai (taрaskivita)‎">Бізэрта</name>
+		<name normalized="Viлait Biziрta" languages="Belarusian">Вілает Бізерта</name>
+		<name normalized="bיזrth" languages="Hebrew">ביזרטה</name>
+		<name normalized="bنزrt" languages="Arabic;Egyptian Spoken Arabic;Persian;Urdu">بنزرت</name>
+		<name normalized="ولאyة bنزrt" languages="Arabic">ولاية بنزرت</name>
+		<name normalized="bzrt" languages="Japanese">ビゼルト</name>
+		<name normalized="bzrt県" languages="Japanese">ビゼルト県</name>
+		<name normalized="比塞大" languages="Chinese">比塞大</name>
+		<name normalized="比塞大省" languages="Chinese">比塞大省</name>
+		<name normalized="비제르테" languages="Korean">비제르테</name>
+		<name normalized="비제르테 주" languages="Korean">비제르테 주</name>
+	</region>
+	<region name="Gabes" type="governorate" typeTranslated="wilayah">
+		<name normalized="Gabes" languages="Basque;Danish;English;Esperanto;official;Serbo-Croatian;Sicilian;Slovenian;Turkish">Gabes</name>
+		<name normalized="Gabes Governorate" languages="English;official">Gabes Governorate</name>
+		<name normalized="Gabes Wilayah" languages="English;official">Gabes Wilayah</name>
+		<name normalized="Gabesas" languages="Lithuanian">Gabesas</name>
+		<name normalized="Gabeso vilajetas" languages="Lithuanian">Gabeso vilajetas</name>
+		<name normalized="Gabes" languages="Catalan;Dutch;English;Estonian;Finnish;French;German;Italian;Malay;Norwegian (bokmal);Portuguese;Romanian;Scots;Spanish;Swedish;Waray;Welsh">Gabès</name>
+		<name normalized="Gabes Governorate" languages="English">Gabès Governorate</name>
+		<name normalized="Gabes Govrenorate" languages="Scots">Gabès Govrenorate</name>
+		<name normalized="Gabes kormanyzosag" languages="Hungarian">Gabès kormányzóság</name>
+		<name normalized="Gobernacion de Gabes" languages="Spanish">Gobernación de Gabès</name>
+		<name normalized="Gouvernement Gabes" languages="German">Gouvernement Gabès</name>
+		<name normalized="Gouvernorat de Gabes" languages="French">Gouvernorat de Gabès</name>
+		<name normalized="Governacio de Gabes" languages="Catalan">Governació de Gabès</name>
+		<name normalized="Governatorato di Gabes" languages="Italian">Governatorato di Gabès</name>
+		<name normalized="Gubernatorstwo Kabis" languages="Polish">Gubernatorstwo Kabis</name>
+		<name normalized="Guvernoratul Gabes" languages="Romanian">Guvernoratul Gabès</name>
+		<name normalized="Kabes Vilayeti" languages="Turkish">Kabes Vilayeti</name>
+		<name normalized="Kabis" languages="Polish">Kabis</name>
+		<name normalized="Kawasan kegabenoran Gabes" languages="Malay">Kawasan kegabenoran Gabès</name>
+		<name normalized="Kegubernuran Gabes" languages="Indonesian">Kegubernuran Gabès</name>
+		<name normalized="Qabis" languages="English;official">Qabis</name>
+		<name normalized="Qabis Governorate" languages="English;official">Qabis Governorate</name>
+		<name normalized="Qabis Wilayah" languages="English;official">Qabis Wilayah</name>
+		<name normalized="Tacape" languages="Latin">Tacape</name>
+		<name normalized="Καμπις" languages="Greek">Κάμπις</name>
+		<name normalized="Viлait Gabiс" languages="Belarusian">Вілает Габес</name>
+		<name normalized="Gabiс" languages="Bulgarian;Russian;Ukrainian">Габес</name>
+		<name normalized="Gabeс" languages="biлaрuсkai (taрaskivita)‎">Габэс</name>
+		<name normalized="qאbس" languages="Arabic;Persian">قابس</name>
+		<name normalized="ولאyة qאbس" languages="Arabic">ولاية قابس</name>
+		<name normalized="gאbس" languages="Urdu">گابس</name>
+		<name normalized="กาแบส" languages="Thai">กาแบส</name>
+		<name normalized="gbs" languages="Japanese">ガベス</name>
+		<name normalized="gbz県" languages="Japanese">ガベズ県</name>
+		<name normalized="加貝斯" languages="Chinese">加貝斯</name>
+		<name normalized="加貝斯省" languages="Chinese">加貝斯省</name>
+		<name normalized="가베스" languages="Korean">가베스</name>
+		<name normalized="가베스 주" languages="Korean">가베스 주</name>
+	</region>
+	<region name="Gafsa" type="governorate" typeTranslated="wilayah">
+		<name normalized="Gafsa" languages="Basque;Catalan;Danish;Dutch;English;Esperanto;Finnish;French;German;Hungarian;Italian;Lithuanian;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Slovenian;Swedish;Welsh">Gafsa</name>
+		<name normalized="Gafsa Governorate" languages="English;official">Gafsa Governorate</name>
+		<name normalized="Gafsa Govrenorate" languages="Scots">Gafsa Govrenorate</name>
+		<name normalized="Gafsa kormanyzosag" languages="Hungarian">Gafsa kormányzóság</name>
+		<name normalized="Gafsa Wilayah" languages="English;official">Gafsa Wilayah</name>
+		<name normalized="Gafsos vilajetas" languages="Lithuanian">Gafsos vilajetas</name>
+		<name normalized="Gobernacion de Gafsa" languages="Spanish">Gobernación de Gafsa</name>
+		<name normalized="Gouvernement Gafsa" languages="German">Gouvernement Gafsa</name>
+		<name normalized="Gouvernorat de Gafsa" languages="French">Gouvernorat de Gafsa</name>
+		<name normalized="Governacio de Gafsa" languages="Catalan">Governació de Gafsa</name>
+		<name normalized="Governatorato di Gafsa" languages="Italian">Governatorato di Gafsa</name>
+		<name normalized="Gubernatorstwo Kafsa" languages="Polish">Gubernatorstwo Kafsa</name>
+		<name normalized="Guvernoratul Gafsa" languages="Romanian">Guvernoratul Gafsa</name>
+		<name normalized="Kafsa" languages="Polish;Turkish">Kafsa</name>
+		<name normalized="Kafsa ili" languages="Turkish">Kafsa ili</name>
+		<name normalized="Kawasan kegabenoran Gafsa" languages="Malay">Kawasan kegabenoran Gafsa</name>
+		<name normalized="Kegubernuran Gafsa" languages="Indonesian">Kegubernuran Gafsa</name>
+		<name normalized="Qafsah" languages="English;official">Qafsah</name>
+		<name normalized="Qafsah Governorate" languages="English;official">Qafsah Governorate</name>
+		<name normalized="Qafsah Wilayah" languages="English;official">Qafsah Wilayah</name>
+		<name normalized="Καφσα" languages="Greek">Κάφσα</name>
+		<name normalized="Viлait Gaфсa" languages="Belarusian">Вілает Гафса</name>
+		<name normalized="Gaфсa" languages="Bulgarian;Kazakh;Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Гафса</name>
+		<name normalized="גאpסh" languages="Hebrew">גאפסה</name>
+		<name normalized="qfsة" languages="Arabic">قفصة</name>
+		<name normalized="qfsh" languages="Persian">قفصه</name>
+		<name normalized="qfsہ" languages="Urdu">قفصہ</name>
+		<name normalized="ولאyة qfsة" languages="Arabic">ولاية قفصة</name>
+		<name normalized="กัฟซะห์" languages="Thai">กัฟซะห์</name>
+		<name normalized="ghs" languages="Japanese">ガフサ</name>
+		<name normalized="ghs県" languages="Japanese">ガフサ県</name>
+		<name normalized="加夫薩" languages="Chinese">加夫薩</name>
+		<name normalized="加夫薩省" languages="Chinese">加夫薩省</name>
+		<name normalized="가프사" languages="Korean">가프사</name>
+		<name normalized="가프사 주" languages="Korean">가프사 주</name>
+	</region>
+	<region name="Jendouba" type="governorate" typeTranslated="wilayah">
+		<name normalized="Cendube" languages="Turkish">Cendube</name>
+		<name normalized="Cendube ili" languages="Turkish">Cendube ili</name>
+		<name normalized="Dzenduba" languages="Lithuanian">Dženduba</name>
+		<name normalized="Dzendubos vilajetas" languages="Lithuanian">Džendubos vilajetas</name>
+		<name normalized="Gobernacion de Jendouba" languages="Spanish">Gobernación de Jendouba</name>
+		<name normalized="Gouvernement Jendouba" languages="German">Gouvernement Jendouba</name>
+		<name normalized="Gouvernorat de Jendouba" languages="French">Gouvernorat de Jendouba</name>
+		<name normalized="Governacio de Jendouba" languages="Catalan">Governació de Jendouba</name>
+		<name normalized="Governatorato di Jendouba" languages="Italian">Governatorato di Jendouba</name>
+		<name normalized="Gubernatorstwo Dzunduba" languages="Polish">Gubernatorstwo Dżunduba</name>
+		<name normalized="Guvernoratul Jendouba" languages="Romanian">Guvernoratul Jendouba</name>
+		<name normalized="Jendouba" languages="Catalan;Dutch;English;Finnish;French;German;Italian;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Welsh">Jendouba</name>
+		<name normalized="Jendouba Governorate" languages="English;official">Jendouba Governorate</name>
+		<name normalized="Jendouba Govrenorate" languages="Scots">Jendouba Govrenorate</name>
+		<name normalized="Jendouba Wilayah" languages="English;official">Jendouba Wilayah</name>
+		<name normalized="Jundubah" languages="English;official">Jundubah</name>
+		<name normalized="Jundubah Governorate" languages="English;official">Jundubah Governorate</name>
+		<name normalized="Jundubah Wilayah" languages="English;official">Jundubah Wilayah</name>
+		<name normalized="Kawasan kegabenoran Jendouba" languages="Malay">Kawasan kegabenoran Jendouba</name>
+		<name normalized="Kegubernuran Jendouba" languages="Indonesian">Kegubernuran Jendouba</name>
+		<name normalized="Τζουντοuμπα" languages="Greek">Τζουντούμπα</name>
+		<name normalized="Viлait Dzeнduba" languages="Belarusian">Вілает Джэндуба</name>
+		<name normalized="Dziнduba" languages="Russian;Ukrainian">Джендуба</name>
+		<name normalized="Dzeнduba" languages="biлaрuсkai (taрaskivita)‎">Джэндуба</name>
+		<name normalized="Ziнduba" languages="Bulgarian">Жендуба</name>
+		<name normalized="אسtאن jندوbh" languages="Persian">استان جندوبه</name>
+		<name normalized="jندوbة" languages="Arabic">جندوبة</name>
+		<name normalized="jندوbh" languages="Persian">جندوبه</name>
+		<name normalized="jندوbہ" languages="Urdu">جندوبہ</name>
+		<name normalized="ولאyة jندوbة" languages="Arabic">ولاية جندوبة</name>
+		<name normalized="zenduーb県" languages="Japanese">ジェンドゥーバ県</name>
+		<name normalized="堅杜拜" languages="Chinese">堅杜拜</name>
+		<name normalized="堅杜拜省" languages="Chinese">堅杜拜省</name>
+		<name normalized="젠두바" languages="Korean">젠두바</name>
+		<name normalized="젠두바 주" languages="Korean">젠두바 주</name>
+	</region>
+	<region name="Kairouan" type="governorate" typeTranslated="wilayah">
+		<name normalized="Al Qayrawan" languages="English;official">Al Qayrawan</name>
+		<name normalized="Al Qayrawan Governorate" languages="English;official">Al Qayrawan Governorate</name>
+		<name normalized="Al Qayrawan Wilayah" languages="English;official">Al Qayrawan Wilayah</name>
+		<name normalized="Cairuao" languages="Portuguese">Cairuão</name>
+		<name normalized="Gobernacion de Kairuan" languages="Spanish">Gobernación de Kairuán</name>
+		<name normalized="Gouvernement Kairouan" languages="German">Gouvernement Kairouan</name>
+		<name normalized="Gouvernorat de Kairouan" languages="French">Gouvernorat de Kairouan</name>
+		<name normalized="Governacio de Kairouan" languages="Catalan">Governació de Kairouan</name>
+		<name normalized="Governatorato di Kairouan" languages="Italian">Governatorato di Kairouan</name>
+		<name normalized="Gubernatorstwo Kairuan" languages="Polish">Gubernatorstwo Kairuan</name>
+		<name normalized="Guvernoratul Kairouan" languages="Romanian">Guvernoratul Kairouan</name>
+		<name normalized="Kairouan" languages="Danish;Dutch;English;Estonian;Finnish;French;Galician;Indonesian;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Romanian;Scots;Sicilian;Slovenian;Swedish;Vietnamese;Waray;Welsh">Kairouan</name>
+		<name normalized="Kairouan Governorate" languages="English;official">Kairouan Governorate</name>
+		<name normalized="Kairouan Govrenorate" languages="Scots">Kairouan Govrenorate</name>
+		<name normalized="Kairouan Wilayah" languages="English;official">Kairouan Wilayah</name>
+		<name normalized="Kairuan" languages="Basque;Bosnian;Catalan;Croatian;Polish;Serbo-Croatian">Kairuan</name>
+		<name normalized="Kairuanas" languages="Lithuanian">Kairuanas</name>
+		<name normalized="Kairuan" languages="Spanish">Kairuán</name>
+		<name normalized="Kajruano" languages="Esperanto">Kajruano</name>
+		<name normalized="Kawasan kegabenoran Kairouan" languages="Malay">Kawasan kegabenoran Kairouan</name>
+		<name normalized="Kayravan" languages="Turkish">Kayravan</name>
+		<name normalized="Kegubernuran Kairouan" languages="Indonesian">Kegubernuran Kairouan</name>
+		<name normalized="Keruan" languages="Serbian">Keruan</name>
+		<name normalized="Qairawan" languages="German">Qairawān</name>
+		<name normalized="Qayrawan" languages="Italian;Kabyle">Qayrawan</name>
+		<name normalized="Καιρουαν" languages="Greek">Καϊρουάν</name>
+		<name normalized="Viлait Kaйрuaн" languages="Belarusian">Вілает Кайруан</name>
+		<name normalized="Kaйрuaн" languages="Bulgarian;Russian;Ukrainian">Кайруан</name>
+		<name normalized="Kaйрўaн" languages="biлaрuсkai (taрaskivita)‎">Кайрўан</name>
+		<name normalized="Kaйрuaн kaлaсы" languages="Kazakh">Қайруан қаласы</name>
+		<name normalized="qיrvאן" languages="Hebrew">קירואן</name>
+		<name normalized="אسtאن qیrوאن" languages="Persian">استان قیروان</name>
+		<name normalized="אلqyrوאن" languages="Arabic">القيروان</name>
+		<name normalized="qیrوאن" languages="Persian;Urdu;Western Punjabi">قیروان</name>
+		<name normalized="ولאyة אلqyrوאن" languages="Arabic">ولاية القيروان</name>
+		<name normalized="კაირუანი" languages="Georgian">კაირუანი</name>
+		<name normalized="kran" languages="Japanese">ケルアン</name>
+		<name normalized="kran県" languages="Japanese">ケルアン県</name>
+		<name normalized="凯鲁万" languages="Chinese">凯鲁万</name>
+		<name normalized="凱魯萬省" languages="Chinese">凱魯萬省</name>
+		<name normalized="카이르완" languages="Korean">카이르완</name>
+		<name normalized="카이르완 주" languages="Korean">카이르완 주</name>
+	</region>
+	<region name="Kasserine" type="governorate" typeTranslated="wilayah">
+		<name normalized="Al Qasrayn" languages="English;official">Al Qasrayn</name>
+		<name normalized="Al Qasrayn Governorate" languages="English;official">Al Qasrayn Governorate</name>
+		<name normalized="Al Qasrayn Wilayah" languages="English;official">Al Qasrayn Wilayah</name>
+		<name normalized="Al-Kasrajn" languages="Polish">Al-Kasrajn</name>
+		<name normalized="Gobernacion de Kasserine" languages="Spanish">Gobernación de Kasserine</name>
+		<name normalized="Gouvernement Kasserine" languages="German">Gouvernement Kasserine</name>
+		<name normalized="Gouvernorat de Kasserine" languages="French">Gouvernorat de Kasserine</name>
+		<name normalized="Governacio de Kasserine" languages="Catalan">Governació de Kasserine</name>
+		<name normalized="Governatorato di Kasserine" languages="Italian">Governatorato di Kasserine</name>
+		<name normalized="Gubernatorstwo Al-Kasrajn" languages="Polish">Gubernatorstwo Al-Kasrajn</name>
+		<name normalized="Guvernoratul Kasserine" languages="Romanian">Guvernoratul Kasserine</name>
+		<name normalized="Kaserinas" languages="Lithuanian">Kaserinas</name>
+		<name normalized="Kassarin" languages="Turkish">Kassarin</name>
+		<name normalized="Kassarin ili" languages="Turkish">Kassarin ili</name>
+		<name normalized="Kasserine" languages="Basque;Catalan;Danish;Dutch;English;French;German;Italian;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Swedish;Welsh">Kasserine</name>
+		<name normalized="Kasserine Governorate" languages="English;official">Kasserine Governorate</name>
+		<name normalized="Kasserine Govrenorate" languages="Scots">Kasserine Govrenorate</name>
+		<name normalized="Kasserine Wilayah" languages="English;official">Kasserine Wilayah</name>
+		<name normalized="Kawasan kegabenoran Kasserine" languages="Malay">Kawasan kegabenoran Kasserine</name>
+		<name normalized="Kegubernuran Kasserine" languages="Indonesian">Kegubernuran Kasserine</name>
+		<name normalized="Αλ Κασραυν" languages="Greek">Αλ Κασράυν</name>
+		<name normalized="Viлait Kaсiрын" languages="Belarusian">Вілает Касерын</name>
+		<name normalized="Kaсiрiн" languages="Bulgarian;Russian">Касерин</name>
+		<name normalized="Kaсiрiн" languages="Ukrainian">Касерін</name>
+		<name normalized="Kaсeрын" languages="biлaрuсkai (taрaskivita)‎">Касэрын</name>
+		<name normalized="אلqsryن" languages="Arabic">القصرين</name>
+		<name normalized="אلqsrین" languages="Persian">القصرین</name>
+		<name normalized="qsrین" languages="Urdu">قصرین</name>
+		<name normalized="ولאyة אلqsryن" languages="Arabic">ولاية القصرين</name>
+		<name normalized="ksrーn" languages="Japanese">カスリーヌ</name>
+		<name normalized="ksrーn県" languages="Japanese">カスリーヌ県</name>
+		<name normalized="卡塞林" languages="Chinese">卡塞林</name>
+		<name normalized="卡塞林省" languages="Chinese">卡塞林省</name>
+		<name normalized="카세린" languages="Korean">카세린</name>
+		<name normalized="카세린 주" languages="Korean">카세린 주</name>
+	</region>
+	<region name="Kebili" type="governorate" typeTranslated="wilayah">
+		<name normalized="Gobernacion de Kebili" languages="Spanish">Gobernación de Kebili</name>
+		<name normalized="Gouvernement Kebili" languages="German">Gouvernement Kebili</name>
+		<name normalized="Gouvernorat de Kebili" languages="French">Gouvernorat de Kébili</name>
+		<name normalized="Governacio de Kebili" languages="Catalan">Governació de Kébili</name>
+		<name normalized="Governatorato di Kebili" languages="Italian">Governatorato di Kébili</name>
+		<name normalized="Gubernatorstwo Kibili" languages="Polish">Gubernatorstwo Kibili</name>
+		<name normalized="Guvernoratul Kebili" languages="Romanian">Guvernoratul Kebili</name>
+		<name normalized="Kabili" languages="Turkish">Kabili</name>
+		<name normalized="Kabili ili" languages="Turkish">Kabili ili</name>
+		<name normalized="Kawasan kegabenoran Kebili" languages="Malay">Kawasan kegabenoran Kebili</name>
+		<name normalized="Kebili" languages="English;Norwegian (bokmal);official;Portuguese;Romanian;Scots">Kebili</name>
+		<name normalized="Kebili Governorate" languages="English;official">Kebili Governorate</name>
+		<name normalized="Kebili Govrenorate" languages="Scots">Kebili Govrenorate</name>
+		<name normalized="Kebili Wilayah" languages="English;official">Kebili Wilayah</name>
+		<name normalized="Kegubernuran Kebili" languages="Indonesian">Kegubernuran Kebili</name>
+		<name normalized="Kibili" languages="Polish">Kibili</name>
+		<name normalized="Kebili" languages="Catalan;Dutch;French;Italian;Welsh">Kébili</name>
+		<name normalized="Qibili" languages="English;official">Qibili</name>
+		<name normalized="Qibili Governorate" languages="English;official">Qibili Governorate</name>
+		<name normalized="Qibili Wilayah" languages="English;official">Qibili Wilayah</name>
+		<name normalized="Κιμπιλι" languages="Greek">Κιμπιλί</name>
+		<name normalized="Viлait Kibiлi" languages="Belarusian">Вілает Кебілі</name>
+		<name normalized="Kibiлi" languages="Bulgarian;Russian">Кебили</name>
+		<name normalized="Kibiлi" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Кебілі</name>
+		<name normalized="qbلی" languages="Urdu">قبلی</name>
+		<name normalized="ولאyة qbلy" languages="Arabic">ولاية قبلي</name>
+		<name normalized="ڨbلy" languages="Arabic">ڨبلي</name>
+		<name normalized="kbr県" languages="Japanese">ケビリ県</name>
+		<name normalized="吉比利" languages="Chinese">吉比利</name>
+		<name normalized="吉比利省" languages="Chinese">吉比利省</name>
+		<name normalized="케빌리" languages="Korean">케빌리</name>
+		<name normalized="케빌리 주" languages="Korean">케빌리 주</name>
+	</region>
+	<region name="Kef" type="governorate" typeTranslated="wilayah">
+		<name normalized="Al Kaf" languages="English;official">Al Kaf</name>
+		<name normalized="Al Kaf Governorate" languages="English;official">Al Kaf Governorate</name>
+		<name normalized="Al Kaf Wilayah" languages="English;official">Al Kaf Wilayah</name>
+		<name normalized="Al-Kaf" languages="Polish">Al-Kaf</name>
+		<name normalized="Al-Kaf" languages="Spanish">Al-Kāf</name>
+		<name normalized="El Kef" languages="Catalan;Danish;Dutch;English;German;Portuguese;Romanian;Scots;Welsh">El Kef</name>
+		<name normalized="El Kaf" languages="Turkish">El Kâf</name>
+		<name normalized="Gobernacion de Al-Kaf" languages="Spanish">Gobernación de Al-Kāf</name>
+		<name normalized="Gouvernement Kef" languages="German">Gouvernement Kef</name>
+		<name normalized="Gouvernorat du Kef" languages="French">Gouvernorat du Kef</name>
+		<name normalized="Governacio del Kef" languages="Catalan">Governació del Kef</name>
+		<name normalized="Governatorato del Kef" languages="Italian">Governatorato del Kef</name>
+		<name normalized="Gubernatorstwo Kaf" languages="Polish">Gubernatorstwo Kaf</name>
+		<name normalized="Guvernoratul Kef" languages="Romanian">Guvernoratul Kef</name>
+		<name normalized="Kafas" languages="Lithuanian">Kafas</name>
+		<name normalized="Kawasan kegabenoran Kef" languages="Malay">Kawasan kegabenoran Kef</name>
+		<name normalized="Kef" languages="Dutch;English;Esperanto;Finnish;French;German;Hungarian;Italian;Japanese;Norwegian (bokmal);official;Portuguese">Kef</name>
+		<name normalized="Kef Governorate" languages="English;official">Kef Governorate</name>
+		<name normalized="Kef Govrenorate" languages="Scots">Kef Govrenorate</name>
+		<name normalized="Kef Wilayah" languages="English;official">Kef Wilayah</name>
+		<name normalized="Kegubernuran Kef" languages="Indonesian">Kegubernuran Kef</name>
+		<name normalized="Kaf ili" languages="Turkish">Kâf ili</name>
+		<name normalized="Le Kef" languages="French;Italian">Le Kef</name>
+		<name normalized="Αλ Καφ" languages="Greek">Αλ Καφ</name>
+		<name normalized="Viлait Eль-Kiф" languages="Belarusian">Вілает Эль-Кеф</name>
+		<name normalized="Iль-Kiф" languages="Ukrainian">Ель-Кеф</name>
+		<name normalized="Kiф" languages="Bulgarian">Кеф</name>
+		<name normalized="Eль-Kiф" languages="Russian;biлaрuсkai (taрaskivita)‎">Эль-Кеф</name>
+		<name normalized="אلkאf" languages="Arabic">الكاف</name>
+		<name normalized="אلکאf" languages="Persian">الکاف</name>
+		<name normalized="ولאyة אلkאf" languages="Arabic">ولاية الكاف</name>
+		<name normalized="کאf" languages="Urdu">کاف</name>
+		<name normalized="kh県" languages="Japanese">ケフ県</name>
+		<name normalized="卡夫" languages="Chinese">卡夫</name>
+		<name normalized="卡夫省" languages="Chinese">卡夫省</name>
+		<name normalized="엘 케프" languages="Korean">엘 케프</name>
+		<name normalized="케프 주" languages="Korean">케프 주</name>
+	</region>
+	<region name="L'Ariana" type="governorate" typeTranslated="wilayah">
+		<name normalized="Ariana" languages="Basque;Catalan;Danish;Dutch;Finnish;French;German;Italian;Lithuanian;Norwegian (bokmal);Portuguese;Romanian;Swedish;Vietnamese;Welsh">Ariana</name>
+		<name normalized="Ariana Governorate" languages="English">Ariana Governorate</name>
+		<name normalized="Ariana Govrenorate" languages="Scots">Ariana Govrenorate</name>
+		<name normalized="Ariana kormanyzosag" languages="Hungarian">Ariana kormányzóság</name>
+		<name normalized="Arianos vilajetas" languages="Lithuanian">Arianos vilajetas</name>
+		<name normalized="Arjana" languages="Esperanto;Polish">Arjana</name>
+		<name normalized="Aryana" languages="Turkish">Aryana</name>
+		<name normalized="Aryana Vilayeti" languages="Turkish">Aryana Vilayeti</name>
+		<name normalized="Aryanah" languages="English;Indonesian;Malay;official;Scots">Aryanah</name>
+		<name normalized="Aryanah Governorate" languages="English;official">Aryanah Governorate</name>
+		<name normalized="Aryanah Wilayah" languages="English;official">Aryanah Wilayah</name>
+		<name normalized="Gobernacion de Ariana" languages="Spanish">Gobernación de Ariana</name>
+		<name normalized="Gouvernement Ariana" languages="German">Gouvernement Ariana</name>
+		<name normalized="Gouvernorat de l'Ariana" languages="French">Gouvernorat de l'Ariana</name>
+		<name normalized="Governacio d'Ariana" languages="Catalan">Governació d'Ariana</name>
+		<name normalized="Governatorato di Ariana" languages="Italian">Governatorato di Ariana</name>
+		<name normalized="Gubernatorstwo Arjana" languages="Polish">Gubernatorstwo Arjana</name>
+		<name normalized="Guvernoratul Ariana" languages="Romanian">Guvernoratul Ariana</name>
+		<name normalized="Kawasan kegabenoran Ariana" languages="Malay">Kawasan kegabenoran Ariana</name>
+		<name normalized="Kegubernuran Ariana" languages="Indonesian">Kegubernuran Ariana</name>
+		<name normalized="L'Ariana" languages="English;official">L'Ariana</name>
+		<name normalized="L'Ariana Governorate" languages="English;official">L'Ariana Governorate</name>
+		<name normalized="L'Ariana Wilayah" languages="English;official">L'Ariana Wilayah</name>
+		<name normalized="Αρυανα" languages="Greek">Αρυάνα</name>
+		<name normalized="Aр'iнa" languages="Ukrainian">Ар'яна</name>
+		<name normalized="Aрiaнa" languages="Bulgarian">Ариана</name>
+		<name normalized="Aрыiнa" languages="biлaрuсkai (taрaskivita)‎">Арыяна</name>
+		<name normalized="Aрьiнa" languages="Russian">Арьяна</name>
+		<name normalized="Viлait Aрыiнa" languages="Belarusian">Вілает Арыяна</name>
+		<name normalized="آrیאنہ" languages="Urdu;Western Punjabi">آریانہ</name>
+		<name normalized="أryאنة" languages="Arabic">أريانة</name>
+		<name normalized="אrیאنh" languages="Persian">اریانه</name>
+		<name normalized="אسtאن אrیאنh" languages="Persian">استان اریانه</name>
+		<name normalized="ولאyة أryאنة" languages="Arabic">ولاية أريانة</name>
+		<name normalized="aran県" languages="Japanese">アリアナ県</name>
+		<name normalized="艾尔亚奈" languages="Chinese">艾尔亚奈</name>
+		<name normalized="艾爾亞內省" languages="Chinese">艾爾亞內省</name>
+		<name normalized="아리아나" languages="Korean">아리아나</name>
+		<name normalized="아리아나 주" languages="Korean">아리아나 주</name>
+	</region>
+	<region name="Mahdia" type="governorate" typeTranslated="wilayah">
+		<name normalized="Al Mahdiyah" languages="English;official">Al Mahdiyah</name>
+		<name normalized="Al Mahdiyah Governorate" languages="English;official">Al Mahdiyah Governorate</name>
+		<name normalized="Al Mahdiyah Wilayah" languages="English;official">Al Mahdiyah Wilayah</name>
+		<name normalized="Al-Mahdijja" languages="Polish">Al-Mahdijja</name>
+		<name normalized="Gobernacion de Mahdia" languages="Spanish">Gobernación de Mahdia</name>
+		<name normalized="Gouvernement Mahdia" languages="German">Gouvernement Mahdia</name>
+		<name normalized="Gouvernorat de Mahdia" languages="French">Gouvernorat de Mahdia</name>
+		<name normalized="Governacio de Mahdia" languages="Catalan">Governació de Mahdia</name>
+		<name normalized="Governatorato di Mahdia" languages="Italian">Governatorato di Mahdia</name>
+		<name normalized="Gubernatorstwo Al-Mahdijja" languages="Polish">Gubernatorstwo Al-Mahdijja</name>
+		<name normalized="Guvernoratul Mahdia" languages="Romanian">Guvernoratul Mahdia</name>
+		<name normalized="Kawasan kegabenoran Mahdia" languages="Malay">Kawasan kegabenoran Mahdia</name>
+		<name normalized="Kegubernuran Mahdia" languages="Indonesian">Kegubernuran Mahdia</name>
+		<name normalized="Mahdia" languages="Catalan;Danish;Dutch;English;Finnish;French;German;Italian;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Sicilian;Swedish;Vietnamese;Welsh">Mahdia</name>
+		<name normalized="Mahdia Governorate" languages="English;official">Mahdia Governorate</name>
+		<name normalized="Mahdia Govrenorate" languages="Scots">Mahdia Govrenorate</name>
+		<name normalized="Mahdia Wilayah" languages="English;official">Mahdia Wilayah</name>
+		<name normalized="Mahdija" languages="Lithuanian;Serbo-Croatian">Mahdija</name>
+		<name normalized="Mehdiye" languages="Turkish">Mehdiye</name>
+		<name normalized="Mehdiye ili" languages="Turkish">Mehdiye ili</name>
+		<name normalized="Αλ Μαντιγια" languages="Greek">Αλ Μαντίγια</name>
+		<name normalized="Viлait Мakdzii" languages="Belarusian">Вілает Махдзія</name>
+		<name normalized="Мakdzii" languages="biлaрuсkai (taрaskivita)‎">Махдзія</name>
+		<name normalized="Мakdii" languages="Bulgarian;Russian">Махдия</name>
+		<name normalized="Мakdii" languages="Ukrainian">Махдія</name>
+		<name normalized="אلmhدyة" languages="Arabic">المهدية</name>
+		<name normalized="אلmhدیh" languages="Persian">المهدیه</name>
+		<name normalized="mہدیہ" languages="Urdu">مہدیہ</name>
+		<name normalized="ولאyة אلmhدyة" languages="Arabic">ولاية المهدية</name>
+		<name normalized="mーdia" languages="Japanese">マーディア</name>
+		<name normalized="mーdia県" languages="Japanese">マーディア県</name>
+		<name normalized="馬赫迪耶省" languages="Chinese">馬赫迪耶省</name>
+		<name normalized="马赫迪耶" languages="Chinese">马赫迪耶</name>
+		<name normalized="마디아" languages="Korean">마디아</name>
+		<name normalized="마디아 주" languages="Korean">마디아 주</name>
+	</region>
+	<region name="Manouba" type="governorate" typeTranslated="wilayah">
+		<name normalized="Gobernacion de Manouba" languages="Spanish">Gobernación de Manouba</name>
+		<name normalized="Gouvernement Manouba" languages="German">Gouvernement Manouba</name>
+		<name normalized="Gouvernorat de la Manouba" languages="French">Gouvernorat de la Manouba</name>
+		<name normalized="Governacio de Manouba" languages="Catalan">Governació de Manouba</name>
+		<name normalized="Governatorato di Manouba" languages="Italian">Governatorato di Manouba</name>
+		<name normalized="Gubernatorstwo Manuba" languages="Polish">Gubernatorstwo Manuba</name>
+		<name normalized="Guvernoratul Manouba" languages="Romanian">Guvernoratul Manouba</name>
+		<name normalized="Kawasan kegabenoran Manouba" languages="Malay">Kawasan kegabenoran Manouba</name>
+		<name normalized="Kegubernuran Manouba" languages="Indonesian">Kegubernuran Manouba</name>
+		<name normalized="La Manouba" languages="French">La Manouba</name>
+		<name normalized="Manouba" languages="Catalan;Dutch;English;German;Italian;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Swedish;Welsh">Manouba</name>
+		<name normalized="Manouba Governorate" languages="English;official">Manouba Governorate</name>
+		<name normalized="Manouba Govrenorate" languages="Scots">Manouba Govrenorate</name>
+		<name normalized="Manouba Wilayah" languages="English;official">Manouba Wilayah</name>
+		<name normalized="Manuba" languages="Turkish">Manuba</name>
+		<name normalized="Manuba ili" languages="Turkish">Manuba ili</name>
+		<name normalized="Manubah" languages="English;official">Manubah</name>
+		<name normalized="Manubah Governorate" languages="English;official">Manubah Governorate</name>
+		<name normalized="Manubah Wilayah" languages="English;official">Manubah Wilayah</name>
+		<name normalized="Μανοuμπα" languages="Greek">Μανούμπα</name>
+		<name normalized="Viлait Мaнuba" languages="Belarusian">Вілает Мануба</name>
+		<name normalized="Мaнuba" languages="Bulgarian;Russian;Ukrainian">Мануба</name>
+		<name normalized="mنوbة" languages="Arabic">منوبة</name>
+		<name normalized="mنوbہ" languages="Urdu">منوبہ</name>
+		<name normalized="ولאyة mنوbة" languages="Arabic;Egyptian Spoken Arabic">ولاية منوبة</name>
+		<name normalized="mnーb県" languages="Japanese">マヌーバ県</name>
+		<name normalized="馬努巴" languages="Chinese">馬努巴</name>
+		<name normalized="馬努巴省" languages="Chinese">馬努巴省</name>
+		<name normalized="마누바 주" languages="Korean">마누바 주</name>
+	</region>
+	<region name="Medenine" type="governorate" typeTranslated="wilayah">
+		<name normalized="Gobernacion de Medenine" languages="Spanish">Gobernación de Medenine</name>
+		<name normalized="Gouvernement Medenine" languages="German">Gouvernement Medenine</name>
+		<name normalized="Gouvernorat de Medenine" languages="French">Gouvernorat de Médenine</name>
+		<name normalized="Governacio de Medenine" languages="Catalan">Governació de Médenine</name>
+		<name normalized="Governatorato di Medenine" languages="Italian">Governatorato di Médenine</name>
+		<name normalized="Gubernatorstwo Madanijin" languages="Polish">Gubernatorstwo Madanijin</name>
+		<name normalized="Guvernoratul Medenine" languages="Romanian">Guvernoratul Medenine</name>
+		<name normalized="Kawasan kegabenoran Medenine" languages="Malay">Kawasan kegabenoran Medenine</name>
+		<name normalized="Kegubernuran Medenine" languages="Indonesian">Kegubernuran Medenine</name>
+		<name normalized="Madanin" languages="English;official">Madanin</name>
+		<name normalized="Madanin Governorate" languages="English;official">Madanin Governorate</name>
+		<name normalized="Madanin Wilayah" languages="English;official">Madanin Wilayah</name>
+		<name normalized="Medenin" languages="Turkish">Medenin</name>
+		<name normalized="Medenin ili" languages="Turkish">Medenin ili</name>
+		<name normalized="Medenina" languages="Italian">Medenina</name>
+		<name normalized="Medeninas" languages="Lithuanian">Medeninas</name>
+		<name normalized="Medenine" languages="Danish;English;Finnish;German;Norwegian (bokmal);official;Romanian;Scots">Medenine</name>
+		<name normalized="Medenine Governorate" languages="English;official">Medenine Governorate</name>
+		<name normalized="Medenine Govrenorate" languages="Scots">Medenine Govrenorate</name>
+		<name normalized="Medenine Wilayah" languages="English;official">Medenine Wilayah</name>
+		<name normalized="Medenine" languages="Catalan;Dutch;French;Portuguese;Spanish;Welsh">Médenine</name>
+		<name normalized="Μαντανιγιν" languages="Greek">Μαντανίγιν</name>
+		<name normalized="Viлait Мidziнiн" languages="Belarusian">Вілает Медзенін</name>
+		<name normalized="Мidiнiн" languages="Bulgarian;Russian">Меденин</name>
+		<name normalized="Мidiнiн" languages="Ukrainian">Меденін</name>
+		<name normalized="Мedziнiн" languages="biлaрuсkai (taрaskivita)‎">Мэдзенін</name>
+		<name normalized="mدنyن" languages="Arabic">مدنين</name>
+		<name normalized="mدنین" languages="Persian;Urdu">مدنین</name>
+		<name normalized="ولאyة mدنyن" languages="Arabic">ولاية مدنين</name>
+		<name normalized="mdnn県" languages="Japanese">メドニン県</name>
+		<name normalized="梅德寧" languages="Chinese">梅德寧</name>
+		<name normalized="梅德寧省" languages="Chinese">梅德寧省</name>
+		<name normalized="메드닌" languages="Korean">메드닌</name>
+		<name normalized="메드닌 주" languages="Korean">메드닌 주</name>
+	</region>
+	<region name="Monastir" type="governorate" typeTranslated="wilayah">
+		<name normalized="Al Munastir" languages="English;official">Al Munastir</name>
+		<name normalized="Al Munastir Governorate" languages="English;official">Al Munastir Governorate</name>
+		<name normalized="Al Munastir Wilayah" languages="English;official">Al Munastir Wilayah</name>
+		<name normalized="Gobernacion de Monastir" languages="Spanish">Gobernación de Monastir</name>
+		<name normalized="Gouvernement Monastir" languages="German">Gouvernement Monastir</name>
+		<name normalized="Gouvernorat de Monastir" languages="French">Gouvernorat de Monastir</name>
+		<name normalized="Governacio de Monastir" languages="Catalan">Governació de Monastir</name>
+		<name normalized="Governatorato di Monastir" languages="Italian">Governatorato di Monastir</name>
+		<name normalized="Gubernatorstwo Monastyr" languages="Polish">Gubernatorstwo Monastyr</name>
+		<name normalized="Guvernoratul Monastir" languages="Romanian">Guvernoratul Monastir</name>
+		<name normalized="Kawasan kegabenoran Monastir" languages="Malay">Kawasan kegabenoran Monastir</name>
+		<name normalized="Kegubernuran Monastir" languages="Indonesian">Kegubernuran Monastir</name>
+		<name normalized="Monastır" languages="Azerbaijani;Catalan;Czech;Danish;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Italian;Malay;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Spanish;Swedish;Welsh">Monastır</name>
+		<name normalized="Monastir Governorate" languages="English;official">Monastir Governorate</name>
+		<name normalized="Monastir Govrenorate" languages="Scots">Monastir Govrenorate</name>
+		<name normalized="Monastir Wilayah" languages="English;official">Monastir Wilayah</name>
+		<name normalized="Monastyr" languages="Polish">Monastyr</name>
+		<name normalized="Monastyras" languages="Lithuanian">Monastyras</name>
+		<name normalized="Monasztir" languages="Hungarian">Monasztir</name>
+		<name normalized="Munastır" languages="Turkish">Munastır</name>
+		<name normalized="Μοναστιρ" languages="Greek">Μοναστίρ</name>
+		<name normalized="Viлait Мaнaсtiр" languages="Belarusian">Вілает Манасцір</name>
+		<name normalized="Goрad Мaнaсtiр" languages="Belarusian">Горад Манасцір</name>
+		<name normalized="Мaнaсtыр" languages="biлaрuсkai (taрaskivita)‎">Манастыр</name>
+		<name normalized="Мoнaсtiр" languages="Bulgarian;Russian;Serbian">Монастир</name>
+		<name normalized="Мoнaсtiр" languages="Ukrainian">Монастір</name>
+		<name normalized="אلmنسtyr" languages="Arabic">المنستير</name>
+		<name normalized="אلmنسtیr" languages="Persian">المنستیر</name>
+		<name normalized="mنسtr" languages="Urdu">منستر</name>
+		<name normalized="ولאyة אلmنسtyr" languages="Arabic">ولاية المنستير</name>
+		<name normalized="მონასტირი" languages="Georgian">მონასტირი</name>
+		<name normalized="მონასტირის ვილაიეთი" languages="Georgian">მონასტირის ვილაიეთი</name>
+		<name normalized="mnstir" languages="Japanese">モナスティル</name>
+		<name normalized="mnstir県" languages="Japanese">モナスティル県</name>
+		<name normalized="莫納斯提爾省" languages="Chinese">莫納斯提爾省</name>
+		<name normalized="莫纳斯提尔" languages="Chinese">莫纳斯提尔</name>
+		<name normalized="모나스티르" languages="Korean">모나스티르</name>
+		<name normalized="모나스티르 주" languages="Korean">모나스티르 주</name>
+	</region>
+	<region name="Nabeul" type="governorate" typeTranslated="wilayah">
+		<name normalized="Gobernacion de Nabeul" languages="Spanish">Gobernación de Nabeul</name>
+		<name normalized="Gouvernement Nabeul" languages="German">Gouvernement Nabeul</name>
+		<name normalized="Gouvernorat de Nabeul" languages="French">Gouvernorat de Nabeul</name>
+		<name normalized="Governacio de Nabeul" languages="Catalan">Governació de Nabeul</name>
+		<name normalized="Governatorato di Nabeul" languages="Italian">Governatorato di Nabeul</name>
+		<name normalized="Gubernatorstwo Nabul" languages="Polish">Gubernatorstwo Nabul</name>
+		<name normalized="Guvernoratul Nabeul" languages="Romanian">Guvernoratul Nabeul</name>
+		<name normalized="Kawasan kegabenoran Nabeul" languages="Malay">Kawasan kegabenoran Nabeul</name>
+		<name normalized="Kegubernuran Nabeul" languages="Indonesian">Kegubernuran Nabeul</name>
+		<name normalized="Nabeul" languages="Catalan;Danish;Dutch;English;Finnish;French;German;Italian;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Welsh">Nabeul</name>
+		<name normalized="Nabeul Governorate" languages="English;official">Nabeul Governorate</name>
+		<name normalized="Nabeul Govrenorate" languages="Scots">Nabeul Govrenorate</name>
+		<name normalized="Nabeul Wilayah" languages="English;official">Nabeul Wilayah</name>
+		<name normalized="Nabil" languages="Turkish">Nabil</name>
+		<name normalized="Nabil ili" languages="Turkish">Nabil ili</name>
+		<name normalized="Nabul" languages="English;official;Polish">Nabul</name>
+		<name normalized="Nabul Governorate" languages="English;official">Nabul Governorate</name>
+		<name normalized="Nabul Wilayah" languages="English;official">Nabul Wilayah</name>
+		<name normalized="Nabulas" languages="Lithuanian">Nabulas</name>
+		<name normalized="Ναμπουλ" languages="Greek">Νάμπουλ</name>
+		<name normalized="Viлait Нabuль" languages="Belarusian">Вілает Набуль</name>
+		<name normalized="Нabuль" languages="Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Набуль</name>
+		<name normalized="Нabьoл" languages="Bulgarian">Набьол</name>
+		<name normalized="نאbل" languages="Arabic;Persian;Urdu">نابل</name>
+		<name normalized="ولאyة نאbل" languages="Arabic">ولاية نابل</name>
+		<name normalized="nbーr" languages="Japanese">ナブール</name>
+		<name normalized="nbーr県" languages="Japanese">ナブール県</name>
+		<name normalized="納布勒省" languages="Chinese">納布勒省</name>
+		<name normalized="纳布勒" languages="Chinese">纳布勒</name>
+		<name normalized="나뵐" languages="Korean">나뵐</name>
+		<name normalized="나뵐 주" languages="Korean">나뵐 주</name>
+	</region>
+	<region name="Sfax" type="governorate" typeTranslated="wilayah">
+		<name normalized="Gobernacion de Sfax" languages="Spanish">Gobernación de Sfax</name>
+		<name normalized="Gouvernement Sfax" languages="German">Gouvernement Sfax</name>
+		<name normalized="Gouvernorat de Sfax" languages="French">Gouvernorat de Sfax</name>
+		<name normalized="Governacio de Sfax" languages="Catalan">Governació de Sfax</name>
+		<name normalized="Governatorato di Sfax" languages="Italian">Governatorato di Sfax</name>
+		<name normalized="Gubernatorstwo Safakis" languages="Polish">Gubernatorstwo Safakis</name>
+		<name normalized="Guvernoratul Sfax" languages="Romanian">Guvernoratul Sfax</name>
+		<name normalized="Kawasan kegabenoran Sfax" languages="Malay">Kawasan kegabenoran Sfax</name>
+		<name normalized="Kegubernuran Sfax" languages="Indonesian">Kegubernuran Sfax</name>
+		<name normalized="Safakes" languages="Turkish">Safakes</name>
+		<name normalized="Safakis" languages="Polish">Safakis</name>
+		<name normalized="Safaqis" languages="English;official">Safaqis</name>
+		<name normalized="Safaqis Governorate" languages="English;official">Safaqis Governorate</name>
+		<name normalized="Safaqis Wilayah" languages="English;official">Safaqis Wilayah</name>
+		<name normalized="Sfaks ili" languages="Turkish">Sfaks ili</name>
+		<name normalized="Sfaksas" languages="Lithuanian">Sfaksas</name>
+		<name normalized="Sfakso" languages="Esperanto">Sfakso</name>
+		<name normalized="Sfax" languages="Basque;Catalan;Czech;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Indonesian;Italian;lumbaart;Malay;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Serbo-Croatian;Sicilian;Slovenian;Spanish;Swedish;Vietnamese;Waray;Welsh">Sfax</name>
+		<name normalized="Sfax Governorate" languages="English;official">Sfax Governorate</name>
+		<name normalized="Sfax Govrenorate" languages="Scots">Sfax Govrenorate</name>
+		<name normalized="Sfax Wilayah" languages="English;official">Sfax Wilayah</name>
+		<name normalized="Sfaxi kubernerkond" languages="Estonian">Sfaxi kubernerkond</name>
+		<name normalized="Szfaksz" languages="Hungarian">Szfaksz</name>
+		<name normalized="Thaenae" languages="Latin">Thaenae</name>
+		<name normalized="Σφαξ" languages="Greek">Σφαξ</name>
+		<name normalized="Viлait Сфakс" languages="Belarusian">Вілает Сфакс</name>
+		<name normalized="Goрad Сфakс" languages="Belarusian">Горад Сфакс</name>
+		<name normalized="Сфakс" languages="Bulgarian;Russian;Serbian;Ukrainian;biлaрuсkai (taрaskivita)‎">Сфакс</name>
+		<name normalized="סpqס" languages="Hebrew">ספקס</name>
+		<name normalized="sfאqس" languages="Arabic;Persian;Urdu">صفاقس</name>
+		<name normalized="ولאyة sfאqس" languages="Arabic">ولاية صفاقس</name>
+		<name normalized="ซแฟกส์" languages="Thai">ซแฟกส์</name>
+		<name normalized="სფაქსი" languages="Georgian">სფაქსი</name>
+		<name normalized="shatks" languages="Japanese">スファックス</name>
+		<name normalized="shatks県" languages="Japanese">スファックス県</name>
+		<name normalized="斯法克斯" languages="Chinese">斯法克斯</name>
+		<name normalized="斯法克斯省" languages="Chinese">斯法克斯省</name>
+		<name normalized="스팍스" languages="Korean">스팍스</name>
+		<name normalized="스팍스 주" languages="Korean">스팍스 주</name>
+	</region>
+	<region name="Sidi Bouzid" type="governorate" typeTranslated="wilayah">
+		<name normalized="Gobernacion de Sidi Bouzid" languages="Spanish">Gobernación de Sidi Bouzid</name>
+		<name normalized="Gouvernement Sidi Bouzid" languages="German">Gouvernement Sidi Bouzid</name>
+		<name normalized="Gouvernorat de Sidi Bouzid" languages="French">Gouvernorat de Sidi Bouzid</name>
+		<name normalized="Governacio de Sidi Bou Zid" languages="Catalan">Governació de Sidi Bou Zid</name>
+		<name normalized="Governatorato di Sidi Bouzid" languages="Italian">Governatorato di Sidi Bouzid</name>
+		<name normalized="Gubernatorstwo Sidi Bu Zajd" languages="Polish">Gubernatorstwo Sidi Bu Zajd</name>
+		<name normalized="Guvernoratul Sidi Bouzid" languages="Romanian">Guvernoratul Sidi Bouzid</name>
+		<name normalized="Kawasan kegabenoran Sidi Bou Said" languages="Malay">Kawasan kegabenoran Sidi Bou Said</name>
+		<name normalized="Kegubernuran Sidi Bou Said" languages="Indonesian">Kegubernuran Sidi Bou Said</name>
+		<name normalized="Sidi Bou Said" languages="Dutch;English;Italian;Portuguese;Scots;Slovenian;Spanish">Sidi Bou Said</name>
+		<name normalized="Sidi Bou Said" languages="Catalan;Danish;French;German;Romanian;Welsh">Sidi Bou Saïd</name>
+		<name normalized="Sidi Bou Zid" languages="Catalan;Scots">Sidi Bou Zid</name>
+		<name normalized="Sidi Bou Zid Govrenorate" languages="Scots">Sidi Bou Zid Govrenorate</name>
+		<name normalized="Sidi Bouzid" languages="Dutch;English;Finnish;French;German;Italian;Norwegian (bokmal);official;Pampanga;Romanian;Spanish;Vietnamese;Welsh">Sidi Bouzid</name>
+		<name normalized="Sidi Bouzid Governorate" languages="English;official">Sidi Bouzid Governorate</name>
+		<name normalized="Sidi Bouzid Wilayah" languages="English;official">Sidi Bouzid Wilayah</name>
+		<name normalized="Sidi Bu Said" languages="Turkish">Sidi Bu Said</name>
+		<name normalized="Sidi Bu Zajd" languages="Polish">Sidi Bu Zajd</name>
+		<name normalized="Sidi Bu Zayd" languages="English;official">Sidi Bu Zayd</name>
+		<name normalized="Sidi Bu Zayd Governorate" languages="English;official">Sidi Bu Zayd Governorate</name>
+		<name normalized="Sidi Bu Zayd Wilayah" languages="English;official">Sidi Bu Zayd Wilayah</name>
+		<name normalized="Sidi Bu Zeyd" languages="Turkish">Sidi Bu Zeyd</name>
+		<name normalized="Sidi Bu Zeyd ili" languages="Turkish">Sidi Bu Zeyd ili</name>
+		<name normalized="Sidi-Bouzid" languages="Danish">Sidi-Bouzid</name>
+		<name normalized="Szidi Bu Zid" languages="Hungarian">Szidi Bú Zid</name>
+		<name normalized="Sidi Bu Zid" languages="Czech">Sídí Bú Zíd</name>
+		<name normalized="Σιντι Μπου Ζαυντ" languages="Greek">Σίντι Μπου Ζαΰντ</name>
+		<name normalized="Viлait Сidzi-Bu-Zid" languages="Belarusian">Вілает Сідзі-Бу-Зід</name>
+		<name normalized="Сidi Buzid" languages="Bulgarian">Сиди Бузид</name>
+		<name normalized="Сidi-Bu-Zid" languages="Russian">Сиди-Бу-Зид</name>
+		<name normalized="Сidi-Bu-Сaid" languages="Russian">Сиди-Бу-Саид</name>
+		<name normalized="Сidi-Buzid" languages="Russian">Сиди-Бузид</name>
+		<name normalized="Сidzi-Bu-Zid" languages="biлaрuсkai (taрaskivita)‎">Сідзі-Бу-Зід</name>
+		<name normalized="Сidi-Buzid" languages="Ukrainian">Сіді-Бузід</name>
+		<name normalized="Сidi-Buсayd" languages="Ukrainian">Сіді-Бусаїд</name>
+		<name normalized="سyدy bوزyد" languages="Arabic">سيدي بوزيد</name>
+		<name normalized="سyدy bوسعyد" languages="Arabic">سيدي بوسعيد</name>
+		<name normalized="سیدی bوزید" languages="Urdu">سیدی بوزید</name>
+		<name normalized="ولאyة سyدy bوزyد" languages="Arabic">ولاية سيدي بوزيد</name>
+		<name normalized="sdibztd県" languages="Japanese">シディブジッド県</name>
+		<name normalized="sdi・b・sid" languages="Japanese">シディ・ブ・サイド</name>
+		<name normalized="西迪布濟德" languages="Chinese">西迪布濟德</name>
+		<name normalized="西迪布濟德省" languages="Chinese">西迪布濟德省</name>
+		<name normalized="西迪布赛义德" languages="Chinese">西迪布赛义德</name>
+		<name normalized="시디 부 사이드" languages="Korean">시디 부 사이드</name>
+		<name normalized="시디 부지드" languages="Korean">시디 부지드</name>
+		<name normalized="시디 부지드 주" languages="Korean">시디 부지드 주</name>
+	</region>
+	<region name="Siliana" type="governorate" typeTranslated="wilayah">
+		<name normalized="Gobernacion de Siliana" languages="Spanish">Gobernación de Siliana</name>
+		<name normalized="Gouvernement Siliana" languages="German">Gouvernement Siliana</name>
+		<name normalized="Gouvernorat de Siliana" languages="French">Gouvernorat de Siliana</name>
+		<name normalized="Governacio de Siliana" languages="Catalan">Governació de Siliana</name>
+		<name normalized="Governatorato di Siliana" languages="Italian">Governatorato di Siliana</name>
+		<name normalized="Gubernatorstwo Siljana" languages="Polish">Gubernatorstwo Siljana</name>
+		<name normalized="Guvernoratul Siliana" languages="Romanian">Guvernoratul Siliana</name>
+		<name normalized="Kawasan kegabenoran Siliana" languages="Malay">Kawasan kegabenoran Siliana</name>
+		<name normalized="Kegubernuran Siliana" languages="Indonesian">Kegubernuran Siliana</name>
+		<name normalized="Siliana" languages="Catalan;Dutch;English;Finnish;French;German;Italian;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Welsh">Siliana</name>
+		<name normalized="Siliana Governorate" languages="English;official">Siliana Governorate</name>
+		<name normalized="Siliana Govrenorate" languages="Scots">Siliana Govrenorate</name>
+		<name normalized="Siliana Wilayah" languages="English;official">Siliana Wilayah</name>
+		<name normalized="Siljana" languages="Polish">Siljana</name>
+		<name normalized="Silyana" languages="Turkish">Silyana</name>
+		<name normalized="Silyana ili" languages="Turkish">Silyana ili</name>
+		<name normalized="Silyanah" languages="English;official">Silyanah</name>
+		<name normalized="Silyanah Governorate" languages="English;official">Silyanah Governorate</name>
+		<name normalized="Silyanah Wilayah" languages="English;official">Silyanah Wilayah</name>
+		<name normalized="Σιλγιανα" languages="Greek">Σιλγιάνα</name>
+		<name normalized="Viлait Сiльiнa" languages="Belarusian">Вілает Сільяна</name>
+		<name normalized="Сiлiaнa" languages="Bulgarian">Силиана</name>
+		<name normalized="Сiльiнa" languages="Russian">Сильяна</name>
+		<name normalized="Сiльiнa" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Сільяна</name>
+		<name normalized="سلyאنة" languages="Arabic">سليانة</name>
+		<name normalized="سلیאنہ" languages="Urdu">سلیانہ</name>
+		<name normalized="ولאyة سلyאنة" languages="Arabic">ولاية سليانة</name>
+		<name normalized="sran県" languages="Japanese">シリアナ県</name>
+		<name normalized="錫勒亞奈" languages="Chinese">錫勒亞奈</name>
+		<name normalized="錫勒亞奈省" languages="Chinese">錫勒亞奈省</name>
+		<name normalized="실리아나" languages="Korean">실리아나</name>
+		<name normalized="실리아나 주" languages="Korean">실리아나 주</name>
+	</region>
+	<region name="Sousse" type="governorate" typeTranslated="wilayah">
+		<name normalized="Gobernacion de Susa" languages="Spanish">Gobernación de Susa</name>
+		<name normalized="Gouvernement Sousse" languages="German">Gouvernement Sousse</name>
+		<name normalized="Gouvernorat de Sousse" languages="French">Gouvernorat de Sousse</name>
+		<name normalized="Governacio de Sussa" languages="Catalan">Governació de Sussa</name>
+		<name normalized="Governatorato di Susa" languages="Italian">Governatorato di Susa</name>
+		<name normalized="Gubernatorstwo Susa" languages="Polish">Gubernatorstwo Susa</name>
+		<name normalized="Guvernoratul Sousse" languages="Romanian">Guvernoratul Sousse</name>
+		<name normalized="Hadrumetum" languages="Latin">Hadrumetum</name>
+		<name normalized="Kawasan kegabenoran Sousse" languages="Malay">Kawasan kegabenoran Sousse</name>
+		<name normalized="Kegubernuran Sousse" languages="Indonesian">Kegubernuran Sousse</name>
+		<name normalized="Sousse" languages="Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Indonesian;Luxembourgish;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Romanian;Scots;Serbo-Croatian;Slovenian;Swedish;Waray;Welsh">Sousse</name>
+		<name normalized="Sousse Governorate" languages="English;official">Sousse Governorate</name>
+		<name normalized="Sousse Govrenorate" languages="Scots">Sousse Govrenorate</name>
+		<name normalized="Sousse Wilayah" languages="English;official">Sousse Wilayah</name>
+		<name normalized="Susa" languages="Basque;Croatian;Italian;Polish;Sicilian;Spanish;Turkish">Susa</name>
+		<name normalized="Susa ili" languages="Turkish">Susa ili</name>
+		<name normalized="Susah" languages="English;official">Susah</name>
+		<name normalized="Susah Governorate" languages="English;official">Susah Governorate</name>
+		<name normalized="Susah Wilayah" languages="English;official">Susah Wilayah</name>
+		<name normalized="Susas" languages="Lithuanian">Susas</name>
+		<name normalized="Sussa" languages="Catalan">Sussa</name>
+		<name normalized="Szusza" languages="Hungarian">Szúsza</name>
+		<name normalized="Susa" languages="Slovak">Súsa</name>
+		<name normalized="Σοuσα" languages="Greek">Σούσα</name>
+		<name normalized="Viлait Сuс" languages="Belarusian">Вілает Сус</name>
+		<name normalized="Goрad Сuс" languages="Belarusian">Горад Сус</name>
+		<name normalized="Сuс" languages="Bulgarian;Russian;Serbian;Ukrainian;biлaрuсkai (taрaskivita)‎">Сус</name>
+		<name normalized="סvסh" languages="Hebrew">סוסה</name>
+		<name normalized="سوسة" languages="Arabic">سوسة</name>
+		<name normalized="سوسh" languages="Persian">سوسه</name>
+		<name normalized="سوسہ" languages="Urdu">سوسہ</name>
+		<name normalized="ولאyة سوسة" languages="Arabic">ولاية سوسة</name>
+		<name normalized="სუსი" languages="Georgian">სუსი</name>
+		<name normalized="sーs" languages="Japanese">スース</name>
+		<name normalized="sーs県" languages="Japanese">スース県</name>
+		<name normalized="苏塞" languages="Chinese">苏塞</name>
+		<name normalized="蘇塞省" languages="Chinese">蘇塞省</name>
+		<name normalized="수스" languages="Korean">수스</name>
+		<name normalized="수스 주" languages="Korean">수스 주</name>
+	</region>
+	<region name="Tataouine" type="governorate" typeTranslated="wilayah">
+		<name normalized="Gobernacion de Tataouine" languages="Spanish">Gobernación de Tataouine</name>
+		<name normalized="Gouvernement Tataouine" languages="German">Gouvernement Tataouine</name>
+		<name normalized="Gouvernorat de Tataouine" languages="French">Gouvernorat de Tataouine</name>
+		<name normalized="Governacio de Tataouine" languages="Catalan">Governació de Tataouine</name>
+		<name normalized="Governatorato di Tataouine" languages="Italian">Governatorato di Tataouine</name>
+		<name normalized="Gubernatorstwo Tatawin" languages="Polish">Gubernatorstwo Tatawin</name>
+		<name normalized="Guvernoratul Tataouine" languages="Romanian">Guvernoratul Tataouine</name>
+		<name normalized="Kawasan kegabenoran Tataouine" languages="Malay">Kawasan kegabenoran Tataouine</name>
+		<name normalized="Kegubernuran Tataouine" languages="Indonesian">Kegubernuran Tataouine</name>
+		<name normalized="Tataouine" languages="Catalan;Danish;Dutch;English;Finnish;French;German;Italian;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Swedish;Welsh">Tataouine</name>
+		<name normalized="Tataouine Governorate" languages="English;official">Tataouine Governorate</name>
+		<name normalized="Tataouine Govrenorate" languages="Scots">Tataouine Govrenorate</name>
+		<name normalized="Tataouine Wilayah" languages="English;official">Tataouine Wilayah</name>
+		<name normalized="Tatavin" languages="Turkish">Tatavin</name>
+		<name normalized="Tatavin ili" languages="Turkish">Tatavin ili</name>
+		<name normalized="Tatavinas" languages="Lithuanian">Tatavinas</name>
+		<name normalized="Tatawin" languages="English;official;Polish">Tatawin</name>
+		<name normalized="Tatawin Governorate" languages="English;official">Tatawin Governorate</name>
+		<name normalized="Tatawin Wilayah" languages="English;official">Tatawin Wilayah</name>
+		<name normalized="Ταταουιν" languages="Greek">Τατάουιν</name>
+		<name normalized="Viлait Tataviн" languages="Belarusian">Вілает Татавін</name>
+		<name normalized="Tataviн" languages="Russian">Татавин</name>
+		<name normalized="Tatauiн" languages="Bulgarian">Татауин</name>
+		<name normalized="Tatauyн" languages="Ukrainian">Татауїн</name>
+		<name normalized="Tataўiн" languages="biлaрuсkai (taрaskivita)‎">Татаўін</name>
+		<name normalized="ttאوyن" languages="Arabic">تطاوين</name>
+		<name normalized="ttאوین" languages="Persian;Urdu">تطاوین</name>
+		<name normalized="ولאyة ttאوyن" languages="Arabic">ولاية تطاوين</name>
+		<name normalized="ttuin" languages="Japanese">タタウイヌ</name>
+		<name normalized="ttuin県" languages="Japanese">タタウイヌ県</name>
+		<name normalized="泰塔溫" languages="Chinese">泰塔溫</name>
+		<name normalized="泰塔溫省" languages="Chinese">泰塔溫省</name>
+		<name normalized="타타우인" languages="Korean">타타우인</name>
+		<name normalized="타타우인 주" languages="Korean">타타우인 주</name>
+	</region>
+	<region name="Tozeur" type="governorate" typeTranslated="wilayah">
+		<name normalized="Gobernacion de Tozeur" languages="Spanish">Gobernación de Tozeur</name>
+		<name normalized="Gouvernement Tozeur" languages="German">Gouvernement Tozeur</name>
+		<name normalized="Gouvernorat de Tozeur" languages="French">Gouvernorat de Tozeur</name>
+		<name normalized="Governacio de Tozeur" languages="Catalan">Governació de Tozeur</name>
+		<name normalized="Governatorato di Tozeur" languages="Italian">Governatorato di Tozeur</name>
+		<name normalized="Gubernatorstwo Tauzar" languages="Polish">Gubernatorstwo Tauzar</name>
+		<name normalized="Guvernoratul Tozeur" languages="Romanian">Guvernoratul Tozeur</name>
+		<name normalized="Kawasan kegabenoran Tozeur" languages="Malay">Kawasan kegabenoran Tozeur</name>
+		<name normalized="Kegubernuran Tozeur" languages="Indonesian">Kegubernuran Tozeur</name>
+		<name normalized="Tauzar" languages="Polish">Tauzar</name>
+		<name normalized="Tauzaras" languages="Lithuanian">Tauzaras</name>
+		<name normalized="Tawzar" languages="English;official">Tawzar</name>
+		<name normalized="Tawzar Governorate" languages="English;official">Tawzar Governorate</name>
+		<name normalized="Tawzar Wilayah" languages="English;official">Tawzar Wilayah</name>
+		<name normalized="Thusuros" languages="Latin">Thusuros</name>
+		<name normalized="Tozeur" languages="Catalan;Danish;Dutch;English;Finnish;French;German;Hungarian;Indonesian;Italian;Malay;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Slovenian;Welsh">Tozeur</name>
+		<name normalized="Tozeur Governorate" languages="English;official">Tozeur Governorate</name>
+		<name normalized="Tozeur Govrenorate" languages="Scots">Tozeur Govrenorate</name>
+		<name normalized="Tozeur Wilayah" languages="English;official">Tozeur Wilayah</name>
+		<name normalized="Tuzer" languages="Turkish">Tuzer</name>
+		<name normalized="Tuzer ili" languages="Turkish">Tuzer ili</name>
+		<name normalized="Ταουζαρ" languages="Greek">Ταουζάρ</name>
+		<name normalized="Viлait Taўzaр" languages="Belarusian">Вілает Таўзар</name>
+		<name normalized="Tauzaр" languages="Russian;Ukrainian">Таузар</name>
+		<name normalized="Taўzaр" languages="biлaрuсkai (taрaskivita)‎">Таўзар</name>
+		<name normalized="Tozьoр" languages="Bulgarian">Тозьор</name>
+		<name normalized="tوزr" languages="Arabic;Urdu">توزر</name>
+		<name normalized="ولאyة tوزr" languages="Arabic">ولاية توزر</name>
+		<name normalized="tzーr" languages="Japanese">トズール</name>
+		<name normalized="tzーr県" languages="Japanese">トズール県</name>
+		<name normalized="托泽尔" languages="Chinese">托泽尔</name>
+		<name normalized="托澤爾省" languages="Chinese">托澤爾省</name>
+		<name normalized="토죄르" languages="Korean">토죄르</name>
+		<name normalized="토죄르 주" languages="Korean">토죄르 주</name>
+	</region>
+	<region name="Tunis" type="governorate" typeTranslated="wilayah">
+		<name normalized="Gobernacion de Tunez" languages="Spanish">Gobernación de Túnez</name>
+		<name normalized="Gouvernement Tunis" languages="German">Gouvernement Tunis</name>
+		<name normalized="Gouvernorat de Tunis" languages="French">Gouvernorat de Tunis</name>
+		<name normalized="Governacio de Tunis" languages="Catalan">Governació de Tunis</name>
+		<name normalized="Governatorato di Tunisi" languages="Italian">Governatorato di Tunisi</name>
+		<name normalized="Gubernatorstwo Tunis" languages="Polish">Gubernatorstwo Tunis</name>
+		<name normalized="Guvernoratul Tunis" languages="Romanian">Guvernoratul Tunis</name>
+		<name normalized="Kawasan kegabenoran Tunis" languages="Malay">Kawasan kegabenoran Tunis</name>
+		<name normalized="Kegubernuran Tunis" languages="Indonesian">Kegubernuran Tunis</name>
+		<name normalized="Tinis" languages="Haitian">Tinis</name>
+		<name normalized="Tiwnis" languages="Welsh">Tiwnis</name>
+		<name normalized="Tunes" languages="Galician;Latin;Portuguese">Tunes</name>
+		<name normalized="Tunes tamaneɣt" languages="Kabyle">Tunes tamaneɣt</name>
+		<name normalized="Tunis" languages="Achinese;Afrikaans;Albanian;Azerbaijani;Basque;Bosnian;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;Franco-Provencal;French;German;Ido;Indonesian;Interlingue;Javanese;Luxembourgish;Malay;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Papiamento;Polish;Quechua;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Slovak;Slovenian;Somali;Swahili;Swedish;Tagalog;Vietnamese;Waray;Western Frisian;Wolof;Yoruba">Tunis</name>
+		<name normalized="Tunis Governorate" languages="English;official">Tunis Governorate</name>
+		<name normalized="Tunis Govrenorate" languages="Scots">Tunis Govrenorate</name>
+		<name normalized="Tunis Wilayah" languages="English;official">Tunis Wilayah</name>
+		<name normalized="Tunisa" languages="Latvian">Tunisa</name>
+		<name normalized="Tunisas" languages="Lithuanian">Tunisas</name>
+		<name normalized="Tunisi" languages="Italian">Tunisi</name>
+		<name normalized="Tunisz" languages="Hungarian">Tunisz</name>
+		<name normalized="Tuniz" languages="Breton">Tuniz</name>
+		<name normalized="Tunizo" languages="Esperanto">Tunizo</name>
+		<name normalized="Tunus" languages="Turkish">Tunus</name>
+		<name normalized="Tunus ili" languages="Turkish">Tunus ili</name>
+		<name normalized="Tunis" languages="Piedmontese">Tùnis</name>
+		<name normalized="Tunisi" languages="Sicilian">Tùnisi</name>
+		<name normalized="Tuinis" languages="Irish">Túinis</name>
+		<name normalized="Tunez" languages="Spanish">Túnez</name>
+		<name normalized="Tunis" languages="Extremaduran;Icelandic;Portuguese">Túnis</name>
+		<name normalized="Tunixi" languages="veneto">Túnixi</name>
+		<name normalized="Tuniz" languages="Aragonese">Túniz</name>
+		<name normalized="Tunis" languages="Kurdish">Tûnis</name>
+		<name normalized="Tunis" languages="lumbaart">Tünis</name>
+		<name normalized="Τuνιδα" languages="Greek">Τύνιδα</name>
+		<name normalized="Viлait Tuнiс" languages="Belarusian">Вілает Туніс</name>
+		<name normalized="Goрad Tuнiс" languages="Belarusian">Горад Туніс</name>
+		<name normalized="Tuнiс" languages="Bulgarian;Chechen;Chuvash;Hill Mari;Macedonian;Ossetic;Russian;Sakha;Serbian;Tajik;Udmurt">Тунис</name>
+		<name normalized="Tuнiс kot" languages="Mongolian">Тунис хот</name>
+		<name normalized="Tuнiс saaры" languages="Kyrgyz">Тунис шаары</name>
+		<name normalized="Tuнiсiн Oрн" languages="Kalmyk">Тунисин Орн</name>
+		<name normalized="Tuнiс" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Туніс</name>
+		<name normalized="Tvyնիs" languages="Armenian">Թունիս</name>
+		<name normalized="tvnיס" languages="Hebrew">תוניס</name>
+		<name normalized="אسtאن tونس" languages="Persian">استان تونس</name>
+		<name normalized="tونس" languages="Arabic;Persian;Urdu">تونس</name>
+		<name normalized="tونس شہr" languages="Urdu">تونس شہر</name>
+		<name normalized="tوونس" languages="Sorani Kurdish">توونس</name>
+		<name normalized="tۇنىس شەھىrى" languages="Uyghur">تۇنىس شەھىرى</name>
+		<name normalized="ولאyة tونس" languages="Arabic">ولاية تونس</name>
+		<name normalized="ٹیونس نgr" languages="Western Punjabi">ٹیونس نگر</name>
+		<name normalized="ܬܘܢܣ" languages="Aramaic">ܬܘܢܣ</name>
+		<name normalized="ट्yunis" languages="Marathi">ट्युनिस</name>
+		<name normalized="ट्yunis" languages="Hindi">ट्यूनिस</name>
+		<name normalized="tunis" languages="Punjabi">ਤੂਨਿਸ</name>
+		<name normalized="தூனிஸ்" languages="Tamil">தூனிஸ்</name>
+		<name normalized="ടൂണിസ്സ്" languages="Malayalam">ടൂണിസ്സ്</name>
+		<name normalized="ตูนิส" languages="Thai">ตูนิส</name>
+		<name normalized="ཊུ་ནིསི།" languages="Tibetan">ཊུ་ནིསི།</name>
+		<name normalized="ტუნისი" languages="Georgian">ტუნისი</name>
+		<name normalized="ቱኒስ" languages="Amharic">ቱኒስ</name>
+		<name normalized="tyns" languages="Japanese">チュニス</name>
+		<name normalized="tyns県" languages="Japanese">チュニス県</name>
+		<name normalized="突尼斯" languages="Cantonese">突尼斯</name>
+		<name normalized="突尼斯市" languages="Chinese;Wu">突尼斯市</name>
+		<name normalized="突尼斯省" languages="Chinese">突尼斯省</name>
+		<name normalized="튀니스" languages="Korean">튀니스</name>
+		<name normalized="튀니스 주" languages="Korean">튀니스 주</name>
+	</region>
+	<region name="Zaghouan" type="governorate" typeTranslated="wilayah">
+		<name normalized="Gobernacion de Zaghouan" languages="Spanish">Gobernación de Zaghouan</name>
+		<name normalized="Gouvernement Zaghouan" languages="German">Gouvernement Zaghouan</name>
+		<name normalized="Gouvernorat de Zaghouan" languages="French">Gouvernorat de Zaghouan</name>
+		<name normalized="Governacio de Zaghouan" languages="Catalan">Governació de Zaghouan</name>
+		<name normalized="Governatorato di Zaghouan" languages="Italian">Governatorato di Zaghouan</name>
+		<name normalized="Gubernatorstwo Zaghwan" languages="Polish">Gubernatorstwo Zaghwan</name>
+		<name normalized="Guvernoratul Zaghouan" languages="Romanian">Guvernoratul Zaghouan</name>
+		<name normalized="Kawasan kegabenoran Zaghouan" languages="Malay">Kawasan kegabenoran Zaghouan</name>
+		<name normalized="Kegubernuran Zaghouan" languages="Indonesian">Kegubernuran Zaghouan</name>
+		<name normalized="Zaghouan" languages="Catalan;Dutch;English;French;German;Italian;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Welsh">Zaghouan</name>
+		<name normalized="Zaghouan Governorate" languages="English;official">Zaghouan Governorate</name>
+		<name normalized="Zaghouan Govrenorate" languages="Scots">Zaghouan Govrenorate</name>
+		<name normalized="Zaghouan Wilayah" languages="English;official">Zaghouan Wilayah</name>
+		<name normalized="Zaghwan" languages="English;official">Zaghwan</name>
+		<name normalized="Zaghwan Governorate" languages="English;official">Zaghwan Governorate</name>
+		<name normalized="Zaghwan Wilayah" languages="English;official">Zaghwan Wilayah</name>
+		<name normalized="Zagvan" languages="Turkish">Zağvan</name>
+		<name normalized="Zagvan ili" languages="Turkish">Zağvan ili</name>
+		<name normalized="Ζαγκουαν" languages="Greek">Ζαγκουάν</name>
+		<name normalized="Viлait Zagvaн" languages="Belarusian">Вілает Загван</name>
+		<name normalized="Zagvaн" languages="Russian">Загван</name>
+		<name normalized="Zaguaн" languages="Bulgarian;Ukrainian">Загуан</name>
+		<name normalized="Zagўaн" languages="biлaрuсkai (taрaskivita)‎">Загўан</name>
+		<name normalized="زغوאن" languages="Arabic;Urdu">زغوان</name>
+		<name normalized="ولאyة زغوאن" languages="Arabic">ولاية زغوان</name>
+		<name normalized="zgan県" languages="Japanese">ザグアン県</name>
+		<name normalized="宰格萬" languages="Chinese">宰格萬</name>
+		<name normalized="宰格萬省" languages="Chinese">宰格萬省</name>
+		<name normalized="자구완" languages="Korean">자구완</name>
+		<name normalized="자구완 주" languages="Korean">자구완 주</name>
+	</region>
+</regions>

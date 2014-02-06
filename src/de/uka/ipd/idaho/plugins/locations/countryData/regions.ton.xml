@@ -1,0 +1,56 @@
+<regions country="Tonga">
+	<region name="'Eua" type="island division" typeTranslated="island division">
+		<name normalized="'Eua" languages="Catalan;Dutch;English;Galician;Italian;official;Spanish;Swedish">'Eua</name>
+		<name normalized="Eua" languages="English;official">Eua</name>
+		<name normalized="ʻEua" languages="English;French;Portuguese;Tongan">ʻEua</name>
+		<name normalized="Eua" languages="Russian">Эуа</name>
+		<name normalized="'Eua" languages="Estonian">‘Eua</name>
+		<name normalized="'Eua" languages="German">’Eua</name>
+		<name normalized="eua島" languages="Japanese">エウア島</name>
+		<name normalized="埃瓦島" languages="Chinese">埃瓦島</name>
+		<name normalized="에우아 섬" languages="Korean">에우아 섬</name>
+	</region>
+	<region name="Ha'apai" type="island division" typeTranslated="island division">
+		<name normalized="Archipelag Haʻapai" languages="Polish">Archipelag Haʻapai</name>
+		<name normalized="Grupo Galvez" languages="Spanish">Grupo Gálvez</name>
+		<name normalized="Ha'apai" languages="Catalan;Dutch;English;Galician;Italian;official;Portuguese;Swedish">Ha'apai</name>
+		<name normalized="Haapai" languages="English;Esperanto;Lithuanian;official">Haapai</name>
+		<name normalized="Haʻapai" languages="English;Finnish;French;German;Vietnamese">Haʻapai</name>
+		<name normalized="Oсtрova Kaapaй" languages="Russian">Острова Хаапай</name>
+		<name normalized="ฮาอะไป" languages="Thai">ฮาอะไป</name>
+		<name normalized="hapi諸島" languages="Japanese">ハアパイ諸島</name>
+		<name normalized="哈派群島" languages="Chinese">哈派群島</name>
+		<name normalized="하아파이 제도" languages="Korean">하아파이 제도</name>
+	</region>
+	<region name="Ongo Niua" type="island division" typeTranslated="island division">
+		<name normalized="Grupo Niuas" languages="Galician">Grupo Niuas</name>
+		<name normalized="Niuas" languages="Catalan;English;French;German;Italian;Portuguese;Spanish;Swedish">Niuas</name>
+		<name normalized="Ongo Niua" languages="English;official">Ongo Niua</name>
+		<name normalized="Oсtрova Нiuaс" languages="Russian">Острова Ниуас</name>
+		<name normalized="nuas諸島" languages="Japanese">ニウアス諸島</name>
+		<name normalized="니우아스 제도" languages="Korean">니우아스 제도</name>
+	</region>
+	<region name="Tongatapu" type="island division" typeTranslated="island division">
+		<name normalized="Tongatapu" languages="Alemannisch;Bosnian;Catalan;Dutch;English;Finnish;French;Galician;German;Indonesian;Italian;Latin;Lithuanian;official;Polish;Portuguese;Spanish;Swedish;Vietnamese">Tongatapu</name>
+		<name normalized="Voсtрaў Taнgatapu" languages="Belarusian">Востраў Тангатапу</name>
+		<name normalized="Toнgatapu" languages="Russian">Тонгатапу</name>
+		<name normalized="टoंgाटाpu" languages="Marathi">टोंगाटापू</name>
+		<name normalized="ตองกาตาปู" languages="Thai">ตองกาตาปู</name>
+		<name normalized="ტონგატაპუ" languages="Georgian">ტონგატაპუ</name>
+		<name normalized="tngtp島" languages="Japanese">トンガタプ島</name>
+		<name normalized="汤加塔布岛" languages="Chinese">汤加塔布岛</name>
+		<name normalized="통가타푸 섬" languages="Korean">통가타푸 섬</name>
+	</region>
+	<region name="Vava'u" type="island division" typeTranslated="island division">
+		<name normalized="Grupo Vava'u" languages="Galician">Grupo Vava'u</name>
+		<name normalized="Vava'u" languages="Catalan;Dutch;English;Indonesian;Italian;official;Portuguese;Spanish;Swedish">Vava'u</name>
+		<name normalized="Vavau" languages="English;Lithuanian;official">Vavau</name>
+		<name normalized="Vavaʻu" languages="English;Finnish;French;German;Polish">Vavaʻu</name>
+		<name normalized="Vava'u" languages="Slovak">Vava’u</name>
+		<name normalized="Vavau" languages="Bulgarian;Russian">Вавау</name>
+		<name normalized="วาวาอู" languages="Thai">วาวาอู</name>
+		<name normalized="vavau諸島" languages="Japanese">ヴァヴァウ諸島</name>
+		<name normalized="瓦瓦烏群島" languages="Chinese">瓦瓦烏群島</name>
+		<name normalized="바바우 제도" languages="Korean">바바우 제도</name>
+	</region>
+</regions>

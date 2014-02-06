@@ -1,0 +1,32 @@
+<regions country="Virgin Islands">
+	<region name="Saint Croix" type="null" typeTranslated="null">
+		<name normalized="Saint Croix" languages="Catalan;Croatian;Dutch;English;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Simple English;Spanish;Swedish">Saint Croix</name>
+		<name normalized="Sainte-Croix" languages="French">Sainte-Croix</name>
+		<name normalized="Sankt Croix" languages="Danish">Sankt Croix</name>
+		<name normalized="Santa Cruz" languages="Galician">Santa Cruz</name>
+		<name normalized="Σαιντ Κρουα" languages="Greek">Σαιντ Κρουά</name>
+		<name normalized="Сaнta-Kрuс" languages="Russian">Санта-Крус</name>
+		<name normalized="Сiнt Kрoj" languages="Macedonian;Serbian">Сент Крој</name>
+		<name normalized="סnt qrvאh" languages="Hebrew">סנט קרואה</name>
+		<name normalized="เซนต์ครอย" languages="Thai">เซนต์ครอย</name>
+		<name normalized="snt・kri島" languages="Japanese">セント・クロイ島</name>
+		<name normalized="圣克洛伊岛" languages="Chinese">圣克洛伊岛</name>
+		<name normalized="세인트크로이 섬" languages="Korean">세인트크로이 섬</name>
+	</region>
+	<region name="Saint John" type="null" typeTranslated="null">
+		<name normalized="Saint John" languages="Basque;Breton;Catalan;Dutch;English;Finnish;French;German;Indonesian;Italian;official;Polish;Portuguese;Simple English;Spanish;Swedish;Volapuk">Saint John</name>
+		<name normalized="Sent Dzonas" languages="Lithuanian">Sent Džonas</name>
+		<name normalized="St. John" languages="Norwegian (bokmal)">St. John</name>
+		<name normalized="Сiнt Dzoн" languages="Serbian">Сент Џон</name>
+		<name normalized="Сiнt-Dzoн" languages="Russian">Сент-Джон</name>
+		<name normalized="סnt ג'vן" languages="Hebrew">סנט ג'ון</name>
+		<name normalized="เซนต์จอห์น" languages="Thai">เซนต์จอห์น</name>
+		<name normalized="sntzョn" languages="Japanese">セントジョン</name>
+		<name normalized="聖約翰" languages="Chinese">聖約翰</name>
+		<name normalized="세인트존" languages="Korean">세인트존</name>
+	</region>
+	<region name="Saint Thomas" type="null" typeTranslated="null">
+		<name normalized="Saint Thomas" languages="Breton;Catalan;Dutch;English;French;German;Italian;official;Simple English;Slovak;Spanish;Swedish">Saint Thomas</name>
+		<name normalized="Saint-Thomas" languages="Portuguese">Saint-Thomas</name>
+	</region>
+</regions>

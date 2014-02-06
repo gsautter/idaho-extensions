@@ -1,0 +1,532 @@
+<regions country="Cambodia">
+	<region name="Banteay Meanchey" type="province" typeTranslated="khett">
+		<name normalized="Banteajo Meancejo" languages="Esperanto">Banteajo Meanĉejo</name>
+		<name normalized="Banteay Mean Cheay" languages="Dutch">Banteay Mean Cheay</name>
+		<name normalized="Banteay Meancheay" languages="Norwegian (bokmal)">Banteay Meancheay</name>
+		<name normalized="Banteay Meanchey" languages="English;German;official;Pampanga;Portuguese;Swedish;Vietnamese;Waray">Banteay Meanchey</name>
+		<name normalized="Banteay Meanchey Khett" languages="English;official">Banteay Meanchey Khett</name>
+		<name normalized="Banteay Meanchey Province" languages="English;official;Scots">Banteay Meanchey Province</name>
+		<name normalized="Banteay Meanchey" languages="Polish">Bântéay Méanchey</name>
+		<name normalized="Banteay Meancheay" languages="Finnish">Bântéay Méancheăy</name>
+		<name normalized="Propinsi Banteay Meanchey" languages="Achinese">Propinsi Banteay Meanchey</name>
+		<name normalized="Province de Banteay Mean Chey" languages="French">Province de Banteay Mean Chey</name>
+		<name normalized="Provincia de Banteay Mean Chey" languages="Spanish">Provincia de Banteay Mean Chey</name>
+		<name normalized="Provincia di Banteay Meanchey" languages="Italian">Provincia di Banteay Meanchey</name>
+		<name normalized="Provinsi Banteay Meanchey" languages="Indonesian">Provinsi Banteay Meanchey</name>
+		<name normalized="Baнtiaй Мiaнtiй" languages="Bulgarian">Бантеай Меантей</name>
+		<name normalized="Baнtiaймiaнtьiй" languages="Russian">Бантеаймеантьей</name>
+		<name normalized="sوbہ bאنٹیئے mینچے" languages="Western Punjabi">صوبہ بانٹیئے مینچے</name>
+		<name normalized="mhאfzة bאنtyאy myنtشy" languages="Arabic">محافظة بانتياي مينتشي</name>
+		<name normalized="จังหวัดบันเตียเมียนเจย" languages="Thai">จังหวัดบันเตียเมียนเจย</name>
+		<name normalized="ខេត្តបន្ទាយមានជ័យ" languages="Khmer">ខេត្តបន្ទាយមានជ័យ</name>
+		<name normalized="bntimntei州" languages="Japanese">バンテイメンチェイ州</name>
+		<name normalized="班迭棉吉省" languages="Chinese">班迭棉吉省</name>
+		<name normalized="반테아이메안체이 주" languages="Korean">반테아이메안체이 주</name>
+	</region>
+	<region name="Battambang" type="province" typeTranslated="khett">
+		<name normalized="Batambangas" languages="Lithuanian">Batambangas</name>
+		<name normalized="Battambang" languages="Basque;Dutch;English;French;German;Hungarian;Italian;Norwegian (bokmal);official;Portuguese;Romanian;Spanish;Vietnamese;Waray">Battambang</name>
+		<name normalized="Battambang Khett" languages="English;official">Battambang Khett</name>
+		<name normalized="Battambang Lalawigan" languages="Pampanga">Battambang Lalawigan</name>
+		<name normalized="Battambang Province" languages="English;official">Battambang Province</name>
+		<name normalized="Bat Dambang" languages="Finnish">Băt Dâmbâng</name>
+		<name normalized="Batdambang" languages="Estonian;Polish">Bătdâmbâng</name>
+		<name normalized="Propinsi Battambang" languages="Achinese">Propinsi Battambang</name>
+		<name normalized="Province de Battambang" languages="French">Province de Battambang</name>
+		<name normalized="Provincia di Battambang" languages="Italian">Provincia di Battambang</name>
+		<name normalized="Provinsi Battambang" languages="Indonesian">Provinsi Battambang</name>
+		<name normalized="Μπατταμπανγκ" languages="Greek">Μπατταμπάνγκ</name>
+		<name normalized="Bataмbaнg" languages="Bulgarian;Serbian">Батамбанг</name>
+		<name normalized="Batdaмbaн" languages="Mongolian">Батдамбан</name>
+		<name normalized="Battaмbaнg" languages="Russian">Баттамбанг</name>
+		<name normalized="bאtm‌bنg" languages="Persian">باتم‌بنگ</name>
+		<name normalized="bאٹאmbאنg" languages="Western Punjabi">باٹامبانگ</name>
+		<name normalized="sوbہ bאٹאmbאنg" languages="Western Punjabi">صوبہ باٹامبانگ</name>
+		<name normalized="mhאfzة bאtאmbאنغ" languages="Arabic">محافظة باتامبانغ</name>
+		<name normalized="b্yাটাmbং" languages="Bengali">ব্যাটামবং</name>
+		<name normalized="จังหวัดพระตะบอง" languages="Thai">จังหวัดพระตะบอง</name>
+		<name normalized="พระตะบอง" languages="Thai">พระตะบอง</name>
+		<name normalized="ក្រុងបាត់ដំបង" languages="Khmer">ក្រុងបាត់ដំបង</name>
+		<name normalized="ខេត្តបាត់ដំបង" languages="Khmer">ខេត្តបាត់ដំបង</name>
+		<name normalized="btnbn" languages="Japanese">バタンバン</name>
+		<name normalized="btnbn州" languages="Japanese">バタンバン州</name>
+		<name normalized="馬德望省" languages="Chinese">馬德望省</name>
+		<name normalized="马德望" languages="Chinese">马德望</name>
+		<name normalized="바탐방" languages="Korean">바탐방</name>
+		<name normalized="바탐방 주" languages="Korean">바탐방 주</name>
+	</region>
+	<region name="Kampong Cham" type="province" typeTranslated="khett">
+		<name normalized="Kampong Cham" languages="Dutch;English;Finnish;French;German;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Kampong Cham</name>
+		<name normalized="Kampong Cham Khett" languages="English;official">Kampong Cham Khett</name>
+		<name normalized="Kampong Cham Lalawigan" languages="Pampanga">Kampong Cham Lalawigan</name>
+		<name normalized="Kampong Cham Province" languages="English;official">Kampong Cham Province</name>
+		<name normalized="Kampong Cham" languages="Finnish;Polish">Kâmpóng Cham</name>
+		<name normalized="Kampong Chami provints" languages="Estonian">Kâmpóng Chami provints</name>
+		<name normalized="Propinsi Kampong Cham" languages="Achinese">Propinsi Kampong Cham</name>
+		<name normalized="Province de Kampong Cham" languages="French">Province de Kampong Cham</name>
+		<name normalized="Provincia de Kompung Cham" languages="Spanish">Provincia de Kompung Cham</name>
+		<name normalized="Provincia di Kampong Cham" languages="Italian">Provincia di Kampong Cham</name>
+		<name normalized="Provinsi Kampong Cham" languages="Indonesian">Provinsi Kampong Cham</name>
+		<name normalized="Kaмpoнg Tiм" languages="Bulgarian">Кампонг Тям</name>
+		<name normalized="Kaмpoнgtiм" languages="Russian">Кампонгтям</name>
+		<name normalized="sوbہ کmpونg چאm" languages="Western Punjabi">صوبہ کمپونگ چام</name>
+		<name normalized="กำปงจาม" languages="Thai">กำปงจาม</name>
+		<name normalized="เขตกำปงจาม" languages="Thai">เขตกำปงจาม</name>
+		<name normalized="ខេត្តកំពង់ចាម" languages="Khmer">ខេត្តកំពង់ចាម</name>
+		<name normalized="knpntym州" languages="Japanese">コンポンチャム州</name>
+		<name normalized="磅湛省" languages="Chinese">磅湛省</name>
+		<name normalized="캄퐁참 주" languages="Korean">캄퐁참 주</name>
+	</region>
+	<region name="Kampong Chhnang" type="province" typeTranslated="khett">
+		<name normalized="Kampong Chhnang" languages="Dutch;English;French;German;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Kampong Chhnang</name>
+		<name normalized="Kampong Chhnang Khett" languages="English;official">Kampong Chhnang Khett</name>
+		<name normalized="Kampong Chhnang Lalawigan" languages="Pampanga">Kampong Chhnang Lalawigan</name>
+		<name normalized="Kampong Chhnang Province" languages="English;official;Scots">Kampong Chhnang Province</name>
+		<name normalized="Kampong Chhnang" languages="Finnish;Polish">Kâmpóng Chhnăng</name>
+		<name normalized="Propinsi Kampong Chhnang" languages="Achinese">Propinsi Kampong Chhnang</name>
+		<name normalized="Province de Kampong Chhnang" languages="French">Province de Kampong Chhnang</name>
+		<name normalized="Provincia de Kompung Chinang" languages="Spanish">Provincia de Kompung Chinang</name>
+		<name normalized="Provincia di Kampong Chhnang" languages="Italian">Provincia di Kampong Chhnang</name>
+		<name normalized="Provinsi Kampong Chhnang" languages="Indonesian">Provinsi Kampong Chhnang</name>
+		<name normalized="Kaмpoнg Cнaнg" languages="Bulgarian">Кампонг Чнанг</name>
+		<name normalized="Kaмpoнgcнaнg" languages="Russian">Кампонгчнанг</name>
+		<name normalized="sوbہ کmpونg چھنאنg" languages="Western Punjabi">صوبہ کمپونگ چھنانگ</name>
+		<name normalized="เขตกำปงชนัง" languages="Thai">เขตกำปงชนัง</name>
+		<name normalized="ខេត្តកំពង់ឆ្នាំង" languages="Khmer">ខេត្តកំពង់ឆ្នាំង</name>
+		<name normalized="knpntynn州" languages="Japanese">コンポンチュナン州</name>
+		<name normalized="磅清扬省" languages="Chinese">磅清扬省</name>
+		<name normalized="캄퐁치낭 주" languages="Korean">캄퐁치낭 주</name>
+	</region>
+	<region name="Kampong Speu" type="province" typeTranslated="khett">
+		<name normalized="Kampong Speu" languages="English;German;official;Portuguese;Romanian;Vietnamese;Waray">Kampong Speu</name>
+		<name normalized="Kampong Speu Khett" languages="English;official">Kampong Speu Khett</name>
+		<name normalized="Kampong Speu Lalawigan" languages="Pampanga">Kampong Speu Lalawigan</name>
+		<name normalized="Kampong Speu Province" languages="English;official;Scots">Kampong Speu Province</name>
+		<name normalized="Kampong Spoe" languages="Dutch;Norwegian (bokmal);Swedish">Kampong Spoe</name>
+		<name normalized="Kampong Spoe" languages="Finnish;Polish">Kâmpóng Spœ</name>
+		<name normalized="Propinsi Kampong Speu" languages="Achinese">Propinsi Kampong Speu</name>
+		<name normalized="Province de Kampong Spoe" languages="French">Province de Kampong Spoe</name>
+		<name normalized="Provincia de Kompung Speu" languages="Spanish">Provincia de Kompung Speu</name>
+		<name normalized="Provincia di Kampong Speu" languages="Italian">Provincia di Kampong Speu</name>
+		<name normalized="Provinsi Kampong Speu" languages="Indonesian">Provinsi Kampong Speu</name>
+		<name normalized="Kaмpoнg Сpъ" languages="Bulgarian">Кампонг Спъ</name>
+		<name normalized="Kaмpoнgсpы" languages="Russian">Кампонгспы</name>
+		<name normalized="sوbہ کmpونg سpیو" languages="Western Punjabi">صوبہ کمپونگ سپیو</name>
+		<name normalized="کאmpونg سpئو" languages="Persian">کامپونگ سپئو</name>
+		<name normalized="จังหวัดกำปงสปือ" languages="Thai">จังหวัดกำปงสปือ</name>
+		<name normalized="ខេត្តកំពង់ស្ពឺ" languages="Khmer">ខេត្តកំពង់ស្ពឺ</name>
+		<name normalized="knpnspー州" languages="Japanese">コンポンスプー州</name>
+		<name normalized="磅士卑省" languages="Chinese">磅士卑省</name>
+		<name normalized="캄퐁스페우 주" languages="Korean">캄퐁스페우 주</name>
+	</region>
+	<region name="Kampong Thom" type="province" typeTranslated="khett">
+		<name normalized="Kampong Thom" languages="Czech;English;German;Norwegian (bokmal);official;Portuguese;Vietnamese;Waray">Kampong Thom</name>
+		<name normalized="Kampong Thom Khett" languages="English;official">Kampong Thom Khett</name>
+		<name normalized="Kampong Thom Lalawigan" languages="Pampanga">Kampong Thom Lalawigan</name>
+		<name normalized="Kampong Thom Province" languages="English;official;Scots">Kampong Thom Province</name>
+		<name normalized="Kampong Thum" languages="Dutch">Kampong Thum</name>
+		<name normalized="Kompong Thom" languages="Swedish">Kompong Thom</name>
+		<name normalized="Kampong Thum" languages="Finnish;Polish">Kâmpóng Thum</name>
+		<name normalized="Kampong Thumi provints" languages="Estonian">Kâmpóng Thumi provints</name>
+		<name normalized="Propinsi Kampong Thom" languages="Achinese">Propinsi Kampong Thom</name>
+		<name normalized="Province de Kampong Thom" languages="French">Province de Kampong Thom</name>
+		<name normalized="Provincia de Kompung Thom" languages="Spanish">Provincia de Kompung Thom</name>
+		<name normalized="Provincia di Kampong Thom" languages="Italian">Provincia di Kampong Thom</name>
+		<name normalized="Provinsi Kampong Thom" languages="Indonesian">Provinsi Kampong Thom</name>
+		<name normalized="Kaмpoнg Tkoм" languages="Bulgarian">Кампонг Тхом</name>
+		<name normalized="Kaмpoнgtkoм" languages="Russian">Кампонгтхом</name>
+		<name normalized="sوbہ کmpونg tھوm" languages="Western Punjabi">صوبہ کمپونگ تھوم</name>
+		<name normalized="ខេត្តកំពង់ធំ" languages="Khmer">ខេត្តកំពង់ធំ</name>
+		<name normalized="knpntm州" languages="Japanese">コンポントム州</name>
+		<name normalized="磅同省" languages="Chinese">磅同省</name>
+		<name normalized="캄퐁톰 주" languages="Korean">캄퐁톰 주</name>
+	</region>
+	<region name="Kampot" type="province" typeTranslated="khett">
+		<name normalized="Kam pot" languages="Vietnamese">Kam pốt</name>
+		<name normalized="Kampot" languages="Dutch;English;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Vietnamese;Waray">Kampot</name>
+		<name normalized="Kampot Khett" languages="English;official">Kampot Khett</name>
+		<name normalized="Kampot Province" languages="English;official">Kampot Province</name>
+		<name normalized="Kampotas" languages="Lithuanian">Kampotas</name>
+		<name normalized="Kampot" languages="Estonian;Finnish;Polish">Kâmpôt</name>
+		<name normalized="Propinsi Kampot" languages="Achinese">Propinsi Kampot</name>
+		<name normalized="Province de Kampot" languages="French">Province de Kampot</name>
+		<name normalized="Provincia de Kompot" languages="Spanish">Provincia de Kompot</name>
+		<name normalized="Provincia di Kampot" languages="Italian">Provincia di Kampot</name>
+		<name normalized="Provinsi Kampot" languages="Indonesian">Provinsi Kampot</name>
+		<name normalized="Kaмpot" languages="Russian">Кампот</name>
+		<name normalized="אسtאن کאmpوt" languages="Persian">استان کامپوت</name>
+		<name normalized="sوbہ کmpوٹ" languages="Western Punjabi">صوبہ کمپوٹ</name>
+		<name normalized="کאmpوt" languages="Persian">کامپوت</name>
+		<name normalized="کmpوٹ شہr" languages="Western Punjabi">کمپوٹ شہر</name>
+		<name normalized="ក្រុងកំពត" languages="Khmer">ក្រុងកំពត</name>
+		<name normalized="ខេត្តកំពត" languages="Khmer">ខេត្តកំពត</name>
+		<name normalized="knptt" languages="Japanese">カンポット</name>
+		<name normalized="knptt州" languages="Japanese">カンポット州</name>
+		<name normalized="贡布" languages="Chinese">贡布</name>
+		<name normalized="贡布省" languages="Chinese">贡布省</name>
+		<name normalized="캄포트" languages="Korean">캄포트</name>
+		<name normalized="캄포트 주" languages="Korean">캄포트 주</name>
+	</region>
+	<region name="Kandal" type="province" typeTranslated="khett">
+		<name normalized="Kandal" languages="Dutch;English;German;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Kandal</name>
+		<name normalized="Kandal Khett" languages="English;official">Kandal Khett</name>
+		<name normalized="Kandal Lalawigan" languages="Pampanga">Kandal Lalawigan</name>
+		<name normalized="Kandal Province" languages="English;official;Scots">Kandal Province</name>
+		<name normalized="Kandal" languages="Catalan;Finnish;Polish">Kândal</name>
+		<name normalized="Propinsi Kandal" languages="Achinese">Propinsi Kandal</name>
+		<name normalized="Province de Kandal" languages="French">Province de Kandal</name>
+		<name normalized="Provincia de Kandal" languages="Spanish">Provincia de Kandal</name>
+		<name normalized="Provincia di Kandal" languages="Italian">Provincia di Kandal</name>
+		<name normalized="Provinsi Kandal" languages="Indonesian">Provinsi Kandal</name>
+		<name normalized="Wilayah Kandal" languages="Malay">Wilayah Kandal</name>
+		<name normalized="Kaнdaл" languages="Bulgarian">Кандал</name>
+		<name normalized="Kaнdaль" languages="Russian">Кандаль</name>
+		<name normalized="sوbہ کنڈאل" languages="Western Punjabi">صوبہ کنڈال</name>
+		<name normalized="کَندאل" languages="Gilaki">کَندال</name>
+		<name normalized="เขตกันดาล" languages="Thai">เขตกันดาล</name>
+		<name normalized="ខេត្តកណ្ដាល" languages="Khmer">ខេត្តកណ្ដាល</name>
+		<name normalized="kndr州" languages="Japanese">カンダル州</name>
+		<name normalized="干丹省" languages="Chinese">干丹省</name>
+		<name normalized="칸달 주" languages="Korean">칸달 주</name>
+	</region>
+	<region name="Kep" type="province" typeTranslated="khett">
+		<name normalized="Ciudad de Kep" languages="Spanish">Ciudad de Kep</name>
+		<name normalized="Keb" languages="Dutch;Polish;Portuguese">Keb</name>
+		<name normalized="Kep" languages="English;French;German;Indonesian;Italian;Norwegian (bokmal);official;Vietnamese;Waray">Kep</name>
+		<name normalized="Kep Khett" languages="English;official">Kep Khett</name>
+		<name normalized="Kep Province" languages="English;official">Kep Province</name>
+		<name normalized="Keb" languages="Finnish">Kêb</name>
+		<name normalized="Kebi provints" languages="Estonian">Kêbi provints</name>
+		<name normalized="Propinsi Kep" languages="Achinese">Propinsi Kep</name>
+		<name normalized="Κεπ" languages="Greek">Κεπ</name>
+		<name normalized="Kaip" languages="Russian">Каеп</name>
+		<name normalized="qp" languages="Hebrew">קפ</name>
+		<name normalized="sوbہ کیp" languages="Western Punjabi">صوبہ کیپ</name>
+		<name normalized="แกบ" languages="Thai">แกบ</name>
+		<name normalized="ខេត្តកែប" languages="Khmer">ខេត្តកែប</name>
+		<name normalized="ktp" languages="Japanese">ケップ</name>
+		<name normalized="白馬市" languages="Chinese">白馬市</name>
+		<name normalized="케프" languages="Korean">케프</name>
+	</region>
+	<region name="Koh Kong" type="province" typeTranslated="khett">
+		<name normalized="Kaoh Kong" languages="Finnish">Kaôh Kông</name>
+		<name normalized="Kaoh Kong" languages="Polish">Kaôh Kŏng</name>
+		<name normalized="Kaoh Kongi provints" languages="Estonian">Kaôh Kŏngi provints</name>
+		<name normalized="Koh Kong" languages="Dutch;English;German;Norwegian (bokmal);official;Portuguese;Romanian;Swedish;Vietnamese;Waray">Koh Kong</name>
+		<name normalized="Koh Kong Khett" languages="English;official">Koh Kong Khett</name>
+		<name normalized="Koh Kong Lalawigan" languages="Pampanga">Koh Kong Lalawigan</name>
+		<name normalized="Koh Kong Province" languages="English;official">Koh Kong Province</name>
+		<name normalized="Propinsi Koh Kong" languages="Achinese">Propinsi Koh Kong</name>
+		<name normalized="Province de Kaoh Kong" languages="French">Province de Kaoh Kong</name>
+		<name normalized="Provincia de Koh Kong" languages="Spanish">Provincia de Koh Kong</name>
+		<name normalized="Provincia di Koh Kong" languages="Italian">Provincia di Koh Kong</name>
+		<name normalized="Provinsi Koh Kong" languages="Indonesian">Provinsi Koh Kong</name>
+		<name normalized="Provincia de Koh Kong" languages="Catalan">Província de Koh Kong</name>
+		<name normalized="Kok Koнg" languages="Bulgarian">Кох Конг</name>
+		<name normalized="Kokkoнg" languages="Russian">Кохконг</name>
+		<name normalized="sوbہ کوہکونg" languages="Western Punjabi">صوبہ کوہکونگ</name>
+		<name normalized="จังหวัดเกาะกง" languages="Thai">จังหวัดเกาะกง</name>
+		<name normalized="ខេត្តកោះកុង" languages="Khmer">ខេត្តកោះកុង</name>
+		<name normalized="kkn州" languages="Japanese">ココン州</name>
+		<name normalized="戈公省" languages="Chinese;Classical Chinese">戈公省</name>
+		<name normalized="코콩 주" languages="Korean">코콩 주</name>
+	</region>
+	<region name="Kratie" type="province" typeTranslated="khett">
+		<name normalized="Kracheh" languages="Dutch">Kracheh</name>
+		<name normalized="Kratie" languages="English;German;Norwegian (bokmal);official">Kratie</name>
+		<name normalized="Kratie Khett" languages="English;official">Kratie Khett</name>
+		<name normalized="Kratie Province" languages="English;official">Kratie Province</name>
+		<name normalized="Kratie" languages="English;Portuguese;Romanian;Vietnamese;Waray">Kratié</name>
+		<name normalized="Kratie Lalawigan" languages="Pampanga">Kratié Lalawigan</name>
+		<name normalized="Kratie Province" languages="English">Kratié Province</name>
+		<name normalized="Kracheh" languages="Estonian;Finnish;Polish">Krâchéh</name>
+		<name normalized="Krachehi provints" languages="Estonian">Krâchéhi provints</name>
+		<name normalized="Propinsi Kratie" languages="Achinese">Propinsi Kratié</name>
+		<name normalized="Province de Kratie" languages="French">Province de Kratie</name>
+		<name normalized="Provincia de Kratie" languages="Spanish">Provincia de Kratié</name>
+		<name normalized="Provincia di Kratie" languages="Italian">Provincia di Kratié</name>
+		<name normalized="Provinsi Kratie" languages="Indonesian">Provinsi Kratié</name>
+		<name normalized="Kрatik" languages="Bulgarian">Кратех</name>
+		<name normalized="Kрatьek" languages="Russian">Кратьэх</name>
+		<name normalized="sوbہ کrאٹیی" languages="Western Punjabi">صوبہ کراٹیی</name>
+		<name normalized="จังหวัดกระแจะ" languages="Thai">จังหวัดกระแจะ</name>
+		<name normalized="เขตกระแจะ" languages="Thai">เขตกระแจะ</name>
+		<name normalized="ខេត្តក្រចេះ" languages="Khmer">ខេត្តក្រចេះ</name>
+		<name normalized="krte州" languages="Japanese">クラチエ州</name>
+		<name normalized="桔井省" languages="Chinese">桔井省</name>
+		<name normalized="크라티에 주" languages="Korean">크라티에 주</name>
+	</region>
+	<region name="Mondolkiri" type="province" typeTranslated="khett">
+		<name normalized="Mondol Kiri" languages="Dutch">Mondol Kiri</name>
+		<name normalized="Mondolkiri" languages="English;official">Mondolkiri</name>
+		<name normalized="Mondolkiri Khett" languages="English;official">Mondolkiri Khett</name>
+		<name normalized="Mondolkiri Province" languages="English;official">Mondolkiri Province</name>
+		<name normalized="Mondul Kiri" languages="Portuguese">Mondul Kiri</name>
+		<name normalized="Mondulkiri" languages="German;Norwegian (bokmal);Pampanga;Vietnamese;Waray">Mondulkiri</name>
+		<name normalized="Mondulkiri Province" languages="English;Scots">Mondulkiri Province</name>
+		<name normalized="Mondol Kiri" languages="Finnish;Polish">Môndôl Kiri</name>
+		<name normalized="Mondol Kiri provints" languages="Estonian">Môndôl Kĭri provints</name>
+		<name normalized="Propinsi Mondulkiri" languages="Achinese">Propinsi Mondulkiri</name>
+		<name normalized="Province de Mondol Kiri" languages="French">Province de Mondol Kiri</name>
+		<name normalized="Provincia de Mondol Kiri" languages="Spanish">Provincia de Mondol Kirí</name>
+		<name normalized="Provincia di Mondulkiri" languages="Italian">Provincia di Mondulkiri</name>
+		<name normalized="Provinsi Mondulkiri" languages="Indonesian">Provinsi Mondulkiri</name>
+		<name normalized="Provincia de Mondulkiri" languages="Catalan">Província de Mondulkiri</name>
+		<name normalized="Мoнdoльkiрi" languages="Russian">Мондолькири</name>
+		<name normalized="Мoнduл Kiрi" languages="Bulgarian">Мондул Кири</name>
+		<name normalized="sوbہ mنوڈولکیrی" languages="Western Punjabi">صوبہ منوڈولکیری</name>
+		<name normalized="ខេត្តមណ្ឌលគិរី" languages="Khmer">ខេត្តមណ្ឌលគិរី</name>
+		<name normalized="mndrkr州" languages="Japanese">モンドルキリ州</name>
+		<name normalized="蒙多基里省" languages="Chinese">蒙多基里省</name>
+		<name normalized="몬둘키리 주" languages="Korean">몬둘키리 주</name>
+	</region>
+	<region name="Oddar Meanchey" type="province" typeTranslated="khett">
+		<name normalized="Oddar Mean Cheay" languages="Portuguese">Oddar Mean Cheay</name>
+		<name normalized="Oddar Meancheay" languages="Dutch;Norwegian (bokmal);Pampanga;Vietnamese;Waray">Oddar Meancheay</name>
+		<name normalized="Oddar Meanchey" languages="English;German;official">Oddar Meanchey</name>
+		<name normalized="Oddar Meanchey Khett" languages="English;official">Oddar Meanchey Khett</name>
+		<name normalized="Oddar Meanchey Province" languages="English;official;Scots">Oddar Meanchey Province</name>
+		<name normalized="Propinsi Oddar Meancheay" languages="Achinese">Propinsi Oddar Meancheay</name>
+		<name normalized="Province d'Otdar Mean Cheay" languages="French">Province d'Otdar Mean Cheay</name>
+		<name normalized="Provincia de Oddar Mean Chey" languages="Spanish">Provincia de Oddar Mean Chey</name>
+		<name normalized="Provincia di Oddar Meancheay" languages="Italian">Provincia di Oddar Meancheay</name>
+		<name normalized="Provinsi Oddar Meanchey" languages="Indonesian">Provinsi Oddar Meanchey</name>
+		<name normalized="Otar Meancheay" languages="Finnish">Ŏtâr Méancheăy</name>
+		<name normalized="Uddar Meanchey" languages="Polish">Ŭddâr Méanchey</name>
+		<name normalized="Odaр Мiaнtiй" languages="Bulgarian">Одар Меантей</name>
+		<name normalized="Oddaрмiaнtьiй" languages="Russian">Оддармеантьей</name>
+		<name normalized="sوbہ אوڈr mینچے" languages="Western Punjabi">صوبہ اوڈر مینچے</name>
+		<name normalized="จังหวัดอุดรมีชัย" languages="Thai">จังหวัดอุดรมีชัย</name>
+		<name normalized="ខេត្តឧត្ដរមានជ័យ" languages="Khmer">ខេត្តឧត្ដរមានជ័យ</name>
+		<name normalized="udnmntei州" languages="Japanese">ウドンメンチェイ州</name>
+		<name normalized="奥多棉吉省" languages="Chinese">奥多棉吉省</name>
+		<name normalized="오다르메안체이 주" languages="Korean">오다르메안체이 주</name>
+	</region>
+	<region name="Pailin" type="province" typeTranslated="khett">
+		<name normalized="Ciudad de Pailin" languages="Spanish">Ciudad de Pailín</name>
+		<name normalized="Pailin" languages="Dutch;English;French;German;Indonesian;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Swedish;Vietnamese;Waray">Pailin</name>
+		<name normalized="Pailin Khett" languages="English;official">Pailin Khett</name>
+		<name normalized="Pailin Province" languages="English;official">Pailin Province</name>
+		<name normalized="Pailin" languages="Estonian;Finnish">Pailĭn</name>
+		<name normalized="Propinsi Pailin" languages="Achinese">Propinsi Pailin</name>
+		<name normalized="Paйлiн" languages="Russian">Пайлин</name>
+		<name normalized="sوbہ pאئیلین" languages="Western Punjabi">صوبہ پائیلین</name>
+		<name normalized="pیلین" languages="Persian">پیلین</name>
+		<name normalized="ខេត្តប៉ៃលិន" languages="Khmer">ខេត្តប៉ៃលិន</name>
+		<name normalized="pirn" languages="Japanese">パイリン</name>
+		<name normalized="拜林市" languages="Chinese">拜林市</name>
+		<name normalized="파일린" languages="Korean">파일린</name>
+	</region>
+	<region name="Preah Vihear" type="province" typeTranslated="khett">
+		<name normalized="Preah Vihear" languages="Dutch;English;French;German;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Preah Vihear</name>
+		<name normalized="Preah Vihear Khett" languages="English;official">Preah Vihear Khett</name>
+		<name normalized="Preah Vihear Lalawigan" languages="Pampanga">Preah Vihear Lalawigan</name>
+		<name normalized="Preah Vihear Province" languages="English;official;Scots">Preah Vihear Province</name>
+		<name normalized="Preah Vihear" languages="Finnish">Preăh Vihéar</name>
+		<name normalized="Preah Vihear" languages="Polish">Preăh Vĭhéar</name>
+		<name normalized="Preah Viheari provints" languages="Estonian">Preăh Vĭhéari provints</name>
+		<name normalized="Propinsi Preah Vihear" languages="Achinese">Propinsi Preah Vihear</name>
+		<name normalized="Province de Preah Vihear" languages="French">Province de Preah Vihear</name>
+		<name normalized="Provincia de Preah Wijia" languages="Spanish">Provincia de Preah Wijía</name>
+		<name normalized="Provincia di Preah Vihear" languages="Italian">Provincia di Preah Vihear</name>
+		<name normalized="Provinsi Preah Vihear" languages="Indonesian">Provinsi Preah Vihear</name>
+		<name normalized="Pрiak Vikia" languages="Bulgarian">Преах Вихеа</name>
+		<name normalized="Pрeakvikia" languages="Russian">Прэахвихеа</name>
+		<name normalized="sوbہ prیہ ویہیr" languages="Western Punjabi">صوبہ پریہ ویہیر</name>
+		<name normalized="จังหวัดพระวิหาร" languages="Thai">จังหวัดพระวิหาร</name>
+		<name normalized="ខេត្តព្រះវិហារ" languages="Khmer">ខេត្តព្រះវិហារ</name>
+		<name normalized="praviha" languages="Japanese">プレアヴィヒア</name>
+		<name normalized="praviha州" languages="Japanese">プレアヴィヒア州</name>
+		<name normalized="柏威夏省" languages="Chinese">柏威夏省</name>
+		<name normalized="프레아비헤아르 주" languages="Korean">프레아비헤아르 주</name>
+	</region>
+	<region name="Prey Veng" type="province" typeTranslated="khett">
+		<name normalized="Prey Veng" languages="Dutch;English;German;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese;Waray">Prey Veng</name>
+		<name normalized="Prey Veng Khett" languages="English;official">Prey Veng Khett</name>
+		<name normalized="Prey Veng Province" languages="English;official">Prey Veng Province</name>
+		<name normalized="Prey Veng" languages="Finnish;Polish">Prey Vêng</name>
+		<name normalized="Propinsi Prey Veng" languages="Achinese">Propinsi Prey Veng</name>
+		<name normalized="Province de Prey Veng" languages="French">Province de Prey Veng</name>
+		<name normalized="Provincia de Prey Veng" languages="Spanish">Provincia de Prey Veng</name>
+		<name normalized="Provincia di Prey Veng" languages="Italian">Provincia di Prey Veng</name>
+		<name normalized="Provinsi Prey Veng" languages="Indonesian">Provinsi Prey Veng</name>
+		<name normalized="Pрiйveнg" languages="Russian">Прейвэнг</name>
+		<name normalized="sوbہ prے وینg" languages="Western Punjabi">صوبہ پرے وینگ</name>
+		<name normalized="ខេត្តព្រៃវែង" languages="Khmer">ខេត្តព្រៃវែង</name>
+		<name normalized="pribn州" languages="Japanese">プレイベン州</name>
+		<name normalized="波萝勉省" languages="Chinese">波萝勉省</name>
+		<name normalized="프레이벵 주" languages="Korean">프레이벵 주</name>
+	</region>
+	<region name="Pursat" type="province" typeTranslated="khett">
+		<name normalized="Pousatas" languages="Lithuanian">Pousatas</name>
+		<name normalized="Pouthisat" languages="Dutch;French">Pouthisat</name>
+		<name normalized="Poursat" languages="Polish">Poŭrsăt</name>
+		<name normalized="Pouthisat" languages="Estonian;Finnish">Poŭthĭsăt</name>
+		<name normalized="Propinsi Pursat" languages="Achinese">Propinsi Pursat</name>
+		<name normalized="Province de Pouthisat" languages="French">Province de Pouthisat</name>
+		<name normalized="Provincia de Pursat" languages="Spanish">Provincia de Pursat</name>
+		<name normalized="Provincia di Pursat" languages="Italian">Provincia di Pursat</name>
+		<name normalized="Provinsi Pursat" languages="Indonesian">Provinsi Pursat</name>
+		<name normalized="Provincia de Pursat" languages="Catalan">Província de Pursat</name>
+		<name normalized="Pursat" languages="English;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Vietnamese;Waray">Pursat</name>
+		<name normalized="Pursat Khett" languages="English;official">Pursat Khett</name>
+		<name normalized="Pursat Lalawigan" languages="Pampanga">Pursat Lalawigan</name>
+		<name normalized="Pursat Province" languages="English;official">Pursat Province</name>
+		<name normalized="Pouсat" languages="Bulgarian;Russian">Поусат</name>
+		<name normalized="sوbہ prسאt" languages="Western Punjabi">صوبہ پرسات</name>
+		<name normalized="prسאt" languages="Western Punjabi">پرسات</name>
+		<name normalized="pوrسt" languages="Persian">پورست</name>
+		<name normalized="ខេត្តពោធិ៍សាត់" languages="Khmer">ខេត្តពោធិ៍សាត់</name>
+		<name normalized="pーstt州" languages="Japanese">ポーサット州</name>
+		<name normalized="菩萨市" languages="Chinese">菩萨市</name>
+		<name normalized="菩萨省" languages="Chinese">菩萨省</name>
+		<name normalized="푸르사트 주" languages="Korean">푸르사트 주</name>
+	</region>
+	<region name="Ratanakiri" type="province" typeTranslated="khett">
+		<name normalized="Propinsi Ratanakiri" languages="Achinese">Propinsi Ratanakiri</name>
+		<name normalized="Province de Rotanah Kiri" languages="French">Province de Rotanah Kiri</name>
+		<name normalized="Provincia de Ratanak Kiri" languages="Spanish">Provincia de Ratanak Kirí</name>
+		<name normalized="Provincia di Ratanakiri" languages="Italian">Provincia di Ratanakiri</name>
+		<name normalized="Provinsi Ratanakiri" languages="Indonesian">Provinsi Ratanakiri</name>
+		<name normalized="Ratanakiri" languages="Dutch;English;German;Norwegian (bokmal);official;Pampanga;Portuguese;Vietnamese;Waray">Ratanakiri</name>
+		<name normalized="Ratanakiri Khett" languages="English;official">Ratanakiri Khett</name>
+		<name normalized="Ratanakiri Province" languages="English;official">Ratanakiri Province</name>
+		<name normalized="Rotanak Kiri" languages="Finnish">Rôtanak Kiri</name>
+		<name normalized="Rottanak Kiri" languages="Polish">Rôttanak Kiri</name>
+		<name normalized="Rotanah Kiri provints" languages="Estonian">Rôtânăh Kĭri provints</name>
+		<name normalized="Рataнa Kiрi" languages="Bulgarian">Ратана Кири</name>
+		<name normalized="Рataнakiрi" languages="Russian">Ратанакири</name>
+		<name normalized="sوbہ rאtאنאکیrی" languages="Western Punjabi">صوبہ راتاناکیری</name>
+		<name normalized="จังหวัดรัตนคีรี" languages="Thai">จังหวัดรัตนคีรี</name>
+		<name normalized="ខេត្តរតនគិរី" languages="Khmer">ខេត្តរតនគិរី</name>
+		<name normalized="rtnkr州" languages="Japanese">ラタナキリ州</name>
+		<name normalized="腊塔纳基里省" languages="Chinese">腊塔纳基里省</name>
+		<name normalized="라타나키리 주" languages="Korean">라타나키리 주</name>
+	</region>
+	<region name="Siem Reap" type="province" typeTranslated="khett">
+		<name normalized="Ciudad de Siem Riep" languages="Spanish">Ciudad de Siem Riep</name>
+		<name normalized="Propinsi Siem Reap" languages="Achinese">Propinsi Siem Reap</name>
+		<name normalized="Province de Siem Reap" languages="French">Province de Siem Reap</name>
+		<name normalized="Provincia de Siem Riep" languages="Spanish">Provincia de Siem Riep</name>
+		<name normalized="Provincia di Siem Reap" languages="Italian">Provincia di Siem Reap</name>
+		<name normalized="Provinsi Siem Reap" languages="Indonesian">Provinsi Siem Reap</name>
+		<name normalized="Siem Reap" languages="Basque;Catalan;Czech;Danish;Dutch;English;Esperanto;French;German;Indonesian;Interlingue;Italian;Norwegian (bokmal);Occitan;official;Polish;Portuguese;Romanian;Swedish;Turkish;Waray;Welsh">Siem Reap</name>
+		<name normalized="Siem Reap Khett" languages="English;official">Siem Reap Khett</name>
+		<name normalized="Siem Reap Lalawigan" languages="Pampanga">Siem Reap Lalawigan</name>
+		<name normalized="Siem Reap Province" languages="English;official">Siem Reap Province</name>
+		<name normalized="Siemreabas" languages="Lithuanian">Siemreabas</name>
+		<name normalized="Siem Reab" languages="Estonian;Finnish;Polish">Siĕm Réab</name>
+		<name normalized="Siem Reabi provints" languages="Estonian">Siĕm Réabi provints</name>
+		<name normalized="Sziemreap" languages="Hungarian">Sziemreap</name>
+		<name normalized="Xiem Riep" languages="Vietnamese">Xiêm Riệp</name>
+		<name normalized="Сiiм Рiap" languages="Bulgarian">Сием Реап</name>
+		<name normalized="Сiiмрiap" languages="Mongolian;Russian">Сиемреап</name>
+		<name normalized="Сijiм Рiap" languages="Serbian">Сијем Реап</name>
+		<name normalized="سyאm ryb" languages="Arabic">سيام ريب</name>
+		<name normalized="سیئm rیp" languages="Western Punjabi">سیئم ریپ</name>
+		<name normalized="سیh‌m rئאp" languages="Persian">سیه‌م رئاپ</name>
+		<name normalized="sوbہ سیئm rیp" languages="Western Punjabi">صوبہ سیئم ریپ</name>
+		<name normalized="sim rip" languages="Hindi">सीम रीप</name>
+		<name normalized="จังหวัดเสียมราฐ" languages="Thai">จังหวัดเสียมราฐ</name>
+		<name normalized="เสียมราฐ" languages="Thai">เสียมราฐ</name>
+		<name normalized="ក្រុងសៀមរាប" languages="Khmer">ក្រុងសៀមរាប</name>
+		<name normalized="ខេត្តសៀមរាប" languages="Khmer">ខេត្តសៀមរាប</name>
+		<name normalized="semratp" languages="Japanese">シェムリアップ</name>
+		<name normalized="semratp州" languages="Japanese">シェムリアップ州</name>
+		<name normalized="暹粒市" languages="Chinese">暹粒市</name>
+		<name normalized="暹粒省" languages="Chinese">暹粒省</name>
+		<name normalized="시엠레아프" languages="Korean">시엠레아프</name>
+		<name normalized="시엠레아프 주" languages="Korean">시엠레아프 주</name>
+	</region>
+	<region name="Sihanoukville" type="province" typeTranslated="khett">
+		<name normalized="Ciudad de Sihanoukville" languages="Spanish">Ciudad de Sihanoukville</name>
+		<name normalized="Preah Seihanu" languages="Polish">Preah Seihanu</name>
+		<name normalized="Preah Seihanu" languages="Estonian">Preăh Seihânŭ</name>
+		<name normalized="Propinsi Sihanoukville" languages="Achinese">Propinsi Sihanoukville</name>
+		<name normalized="Sianukvilis" languages="Lithuanian">Sianukvilis</name>
+		<name normalized="Sihanoukville" languages="Basque;Czech;Danish;Dutch;English;Finnish;French;German;Indonesian;Italian;Malay;Norwegian (bokmal);official;Portuguese;Romanian;Simple English;Swedish;Vietnamese;Waray">Sihanoukville</name>
+		<name normalized="Sihanoukville Khett" languages="English;official">Sihanoukville Khett</name>
+		<name normalized="Sihanoukville Province" languages="English;official">Sihanoukville Province</name>
+		<name normalized="Goрad Сiaнukviль" languages="Belarusian">Горад Сіануквіль</name>
+		<name normalized="Сiaнukviль" languages="Russian">Сиануквиль</name>
+		<name normalized="Сikaнukviл" languages="Serbian">Сихануквил</name>
+		<name normalized="Сiaнukviль" languages="Ukrainian">Сіануквіль</name>
+		<name normalized="سیhאنوکویل" languages="Persian">سیهانوکویل</name>
+		<name normalized="sوbہ prیہ سہאنوک" languages="Western Punjabi">صوبہ پریہ سہانوک</name>
+		<name normalized="สีหนุวิลล์" languages="Thai">สีหนุวิลล์</name>
+		<name normalized="ខេត្តព្រះសីហនុ" languages="Khmer">ខេត្តព្រះសីហនុ</name>
+		<name normalized="sanーkbr" languages="Japanese">シアヌークビル</name>
+		<name normalized="西哈努克市" languages="Chinese">西哈努克市</name>
+		<name normalized="시아누크빌" languages="Korean">시아누크빌</name>
+	</region>
+	<region name="Stung Treng" type="province" typeTranslated="khett">
+		<name normalized="Propinsi Stung Treng" languages="Achinese">Propinsi Stung Treng</name>
+		<name normalized="Province de Stoeng Treng" languages="French">Province de Stoeng Treng</name>
+		<name normalized="Provincia de Stung Treng" languages="Spanish">Provincia de Stung Treng</name>
+		<name normalized="Provincia di Stung Treng" languages="Italian">Provincia di Stung Treng</name>
+		<name normalized="Provinsi Stung Treng" languages="Indonesian">Provinsi Stung Treng</name>
+		<name normalized="Stoeng Treng" languages="Dutch;French;Polish">Stoeng Treng</name>
+		<name normalized="Stung Treng" languages="English;German;Italian;Norwegian (bokmal);official;Portuguese;Romanian;Vietnamese;Waray">Stung Treng</name>
+		<name normalized="Stung Treng Khett" languages="English;official">Stung Treng Khett</name>
+		<name normalized="Stung Treng Lalawigan" languages="Pampanga">Stung Treng Lalawigan</name>
+		<name normalized="Stung Treng Province" languages="English;official">Stung Treng Province</name>
+		<name normalized="Stoeng Treng" languages="Finnish">Stŏeng Trêng</name>
+		<name normalized="Stoeng Treng" languages="Polish">Stœng Trêng</name>
+		<name normalized="Stoe˘ng Trengi provints" languages="Estonian">Stœ̆ng Trêngi provints</name>
+		<name normalized="Сtънg Tрiнg" languages="Bulgarian">Стънг Тренг</name>
+		<name normalized="Сtынgtрaiнg" languages="Russian">Стынгтраенг</name>
+		<name normalized="אسtونg‌trنg" languages="Persian">استونگ‌ترنگ</name>
+		<name normalized="سٹونg trینg" languages="Western Punjabi">سٹونگ ترینگ</name>
+		<name normalized="sوbہ سٹونg trینg" languages="Western Punjabi">صوبہ سٹونگ ترینگ</name>
+		<name normalized="จังหวัดสตึงแตรง" languages="Thai">จังหวัดสตึงแตรง</name>
+		<name normalized="ខេត្តស្ទឹងត្រែង" languages="Khmer">ខេត្តស្ទឹងត្រែង</name>
+		<name normalized="stuntrn" languages="Japanese">ストゥントレン</name>
+		<name normalized="stuntrn州" languages="Japanese">ストゥントレン州</name>
+		<name normalized="上丁省" languages="Chinese">上丁省</name>
+		<name normalized="스퉁트렝" languages="Korean">스퉁트렝</name>
+		<name normalized="스퉁트렝 주" languages="Korean">스퉁트렝 주</name>
+	</region>
+	<region name="Svay Rieng" type="province" typeTranslated="khett">
+		<name normalized="Propinsi Svay Rieng" languages="Achinese">Propinsi Svay Rieng</name>
+		<name normalized="Province de Svay Rieng" languages="French">Province de Svay Rieng</name>
+		<name normalized="Provincia de Svay Rieng" languages="Spanish">Provincia de Svay Rieng</name>
+		<name normalized="Provincia di Svay Rieng" languages="Italian">Provincia di Svay Rieng</name>
+		<name normalized="Provinsi Svay Rieng" languages="Indonesian">Provinsi Svay Rieng</name>
+		<name normalized="Svay Rieng" languages="Dutch;English;Finnish;German;Norwegian (bokmal);official;Portuguese;Romanian;Vietnamese;Waray">Svay Rieng</name>
+		<name normalized="Svay Rieng Khett" languages="English;official">Svay Rieng Khett</name>
+		<name normalized="Svay Rieng Lalawigan" languages="Pampanga">Svay Rieng Lalawigan</name>
+		<name normalized="Svay Rieng Province" languages="English;official;Scots">Svay Rieng Province</name>
+		<name normalized="Svay Rieng" languages="Polish">Svay Riĕng</name>
+		<name normalized="Svay Riengi provints" languages="Estonian">Svay Riĕngi provints</name>
+		<name normalized="Сvaй Рiiнg" languages="Bulgarian">Свай Риенг</name>
+		<name normalized="Сvaйрiiнg" languages="Russian">Свайриенг</name>
+		<name normalized="sوbہ سویے rیئنg" languages="Western Punjabi">صوبہ سویے ریئنگ</name>
+		<name normalized="จังหวัดสวายเรียง" languages="Thai">จังหวัดสวายเรียง</name>
+		<name normalized="ខេត្តស្វាយរៀង" languages="Khmer">ខេត្តស្វាយរៀង</name>
+		<name normalized="svairen州" languages="Japanese">スヴァイリエン州</name>
+		<name normalized="柴楨省" languages="Chinese">柴楨省</name>
+		<name normalized="스바이리엥 주" languages="Korean">스바이리엥 주</name>
+	</region>
+	<region name="Takeo" type="province" typeTranslated="khett">
+		<name normalized="Propinsi Takeo" languages="Achinese">Propinsi Takéo</name>
+		<name normalized="Province de Takeo" languages="French">Province de Takeo</name>
+		<name normalized="Provincia de Takeo" languages="Spanish">Provincia de Takéo</name>
+		<name normalized="Provincia di Takeo" languages="Italian">Provincia di Takéo</name>
+		<name normalized="Provinsi Takeo" languages="Indonesian">Provinsi Takéo</name>
+		<name normalized="Takeo" languages="English;German;Norwegian (bokmal);official;Polish">Takeo</name>
+		<name normalized="Takeo Khett" languages="English;official">Takeo Khett</name>
+		<name normalized="Takeo Province" languages="English;official">Takeo Province</name>
+		<name normalized="Takev" languages="Dutch">Takev</name>
+		<name normalized="Takeo" languages="Portuguese;Vietnamese;Waray">Takéo</name>
+		<name normalized="Takeo Lalawigan" languages="Pampanga">Takéo Lalawigan</name>
+		<name normalized="Takeo Province" languages="English;Scots">Takéo Province</name>
+		<name normalized="Takev" languages="Finnish;Polish">Takêv</name>
+		<name normalized="Takio" languages="Bulgarian;Russian">Такео</name>
+		<name normalized="sوbہ ٹאکیو" languages="Western Punjabi">صوبہ ٹاکیو</name>
+		<name normalized="จังหวัดตาแกว" languages="Thai">จังหวัดตาแกว</name>
+		<name normalized="ខេត្តតាកែវ" languages="Khmer">ខេត្តតាកែវ</name>
+		<name normalized="tko州" languages="Japanese">タケオ州</name>
+		<name normalized="茶胶省" languages="Chinese">茶胶省</name>
+		<name normalized="타케오 주" languages="Korean">타케오 주</name>
+	</region>
+</regions>

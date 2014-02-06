@@ -1,0 +1,275 @@
+<regions country="Mozambique">
+	<region name="Cabo Delgado" type="province" typeTranslated="provincia">
+		<name normalized="Cabo Delgado" languages="Afrikaans;Catalan;Danish;Dutch;English;Finnish;Indonesian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish">Cabo Delgado</name>
+		<name normalized="Cabo Delgado Bolgesi" languages="Turkish">Cabo Delgado Bölgesi</name>
+		<name normalized="Cabo Delgado probintzia" languages="Basque">Cabo Delgado probintzia</name>
+		<name normalized="Cabo Delgado Province" languages="English;official">Cabo Delgado Province</name>
+		<name normalized="Cabo Delgado Provincia" languages="English;official">Cabo Delgado Provincia</name>
+		<name normalized="Kabo Delgado provincija" languages="Lithuanian">Kabo Delgado provincija</name>
+		<name normalized="Mkoa wa Cabo Delgado" languages="Swahili">Mkoa wa Cabo Delgado</name>
+		<name normalized="Province de Cabo Delgado" languages="French">Province de Cabo Delgado</name>
+		<name normalized="Provincia Cabo Delgado" languages="Romanian">Provincia Cabo Delgado</name>
+		<name normalized="Provincia di Cabo Delgado" languages="Italian">Provincia di Cabo Delgado</name>
+		<name normalized="Provinz Cabo Delgado" languages="German">Provinz Cabo Delgado</name>
+		<name normalized="Καμπο Ντελγκαντο" languages="Greek">Κάμπο Ντελγκάντο</name>
+		<name normalized="Kabo Diлgado" languages="Bulgarian">Кабо Делгадо</name>
+		<name normalized="Kabu-Diлgadu" languages="Russian">Кабу-Делгаду</name>
+		<name normalized="Kabu-Deлgadu" languages="biлaрuсkai (taрaskivita)‎">Кабу-Дэлгаду</name>
+		<name normalized="კაბუ-დელგადუს პროვინცია" languages="Georgian">კაბუ-დელგადუს პროვინცია</name>
+		<name normalized="kb・drgーd州" languages="Japanese">カボ・デルガード州</name>
+		<name normalized="德尔加杜角省" languages="Chinese">德尔加杜角省</name>
+		<name normalized="카부델가두 주" languages="Korean">카부델가두 주</name>
+	</region>
+	<region name="Cidade de Maputo" type="city" typeTranslated="city">
+		<name normalized="Cidade de Maputo" languages="English;official">Cidade de Maputo</name>
+	</region>
+	<region name="Gaza" type="province" typeTranslated="provincia">
+		<name normalized="Gaza" languages="Afrikaans;Danish;Dutch;English;Finnish;Norwegian (bokmal);official;Polish;Portuguese;Swedish">Gaza</name>
+		<name normalized="Gaza Bolgesi" languages="Turkish">Gaza Bölgesi</name>
+		<name normalized="Gaza probintzia" languages="Basque">Gaza probintzia</name>
+		<name normalized="Gaza Province" languages="English;official">Gaza Province</name>
+		<name normalized="Gaza Provincia" languages="English;official">Gaza Provincia</name>
+		<name normalized="Gaza provints" languages="Estonian">Gaza provints</name>
+		<name normalized="Gazos provincija" languages="Lithuanian">Gazos provincija</name>
+		<name normalized="Mkoa wa Gaza" languages="Swahili">Mkoa wa Gaza</name>
+		<name normalized="Province de Gaza" languages="French">Province de Gaza</name>
+		<name normalized="Provincia de Gaza" languages="Spanish">Provincia de Gaza</name>
+		<name normalized="Provincia di Gaza" languages="Italian">Provincia di Gaza</name>
+		<name normalized="Provincia Gaza" languages="Romanian">Provincia Gaza</name>
+		<name normalized="Provinsi Gaza" languages="Indonesian">Provinsi Gaza</name>
+		<name normalized="Provinz Gaza" languages="German">Provinz Gaza</name>
+		<name normalized="Provincia de Gaza" languages="Catalan">Província de Gaza</name>
+		<name normalized="Wilayah Gaza" languages="Malay">Wilayah Gaza</name>
+		<name normalized="Γαζα" languages="Greek">Γάζα</name>
+		<name normalized="Gaza" languages="Bulgarian;Russian;biлaрuсkai (taрaskivita)‎">Газа</name>
+		<name normalized="გაზის პროვინცია" languages="Georgian">გაზის პროვინცია</name>
+		<name normalized="gz州" languages="Japanese">ガザ州</name>
+		<name normalized="加扎省" languages="Chinese">加扎省</name>
+		<name normalized="가자 주" languages="Korean">가자 주</name>
+	</region>
+	<region name="Inhambane" type="province" typeTranslated="provincia">
+		<name normalized="Inhambane" languages="Afrikaans;Basque;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Slovak;Spanish;Swahili;Swedish">Inhambane</name>
+		<name normalized="Inhambane Bolgesi" languages="Turkish">Inhambane Bölgesi</name>
+		<name normalized="Inhambane probintzia" languages="Basque">Inhambane probintzia</name>
+		<name normalized="Inhambane Province" languages="English;official">Inhambane Province</name>
+		<name normalized="Inhambane Provincia" languages="English;official">Inhambane Provincia</name>
+		<name normalized="Inhambane provints" languages="Estonian">Inhambane provints</name>
+		<name normalized="Injambane" languages="Lithuanian">Injambanė</name>
+		<name normalized="Injambanes provincija" languages="Lithuanian">Injambanės provincija</name>
+		<name normalized="Mkoa wa Inhambane" languages="Swahili">Mkoa wa Inhambane</name>
+		<name normalized="Province d'Inhambane" languages="French">Province d'Inhambane</name>
+		<name normalized="Provincia di Inhambane" languages="Italian">Provincia di Inhambane</name>
+		<name normalized="Provincia Inhambane" languages="Romanian">Provincia Inhambane</name>
+		<name normalized="Provinsi Inhambane" languages="Indonesian">Provinsi Inhambane</name>
+		<name normalized="Provinz Inhambane" languages="German">Provinz Inhambane</name>
+		<name normalized="Provincia d'Inhambane" languages="Catalan">Província d'Inhambane</name>
+		<name normalized="Ινιαμπανε" languages="Greek">Ινιαμπάνε</name>
+		<name normalized="Iньiмbaнi" languages="Russian">Иньямбане</name>
+		<name normalized="Iнiмbaнi" languages="Bulgarian">Инямбане</name>
+		<name normalized="Iньiмbaнe" languages="biлaрuсkai (taрaskivita)‎">Іньямбанэ</name>
+		<name normalized="אینhאmbאنh" languages="Persian">اینهامبانه</name>
+		<name normalized="ინიამბანე" languages="Georgian">ინიამბანე</name>
+		<name normalized="ინიამბანეს პროვინცია" languages="Georgian">ინიამბანეს პროვინცია</name>
+		<name normalized="inynbn州" languages="Japanese">イニャンバネ州</name>
+		<name normalized="inynbn市" languages="Japanese">イニャンバネ市</name>
+		<name normalized="伊尼扬巴内省" languages="Chinese">伊尼扬巴内省</name>
+		<name normalized="伊尼揚巴內" languages="Chinese">伊尼揚巴內</name>
+		<name normalized="이냠바네" languages="Korean">이냠바네</name>
+		<name normalized="이냠바네 주" languages="Korean">이냠바네 주</name>
+	</region>
+	<region name="Manica" type="province" typeTranslated="provincia">
+		<name normalized="Manica" languages="Afrikaans;Catalan;Danish;Dutch;English;Finnish;German;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish">Manica</name>
+		<name normalized="Manica Bolgesi" languages="Turkish">Manica Bölgesi</name>
+		<name normalized="Manica probintzia" languages="Basque">Manica probintzia</name>
+		<name normalized="Manica Province" languages="English;official">Manica Province</name>
+		<name normalized="Manica Provincia" languages="English;official">Manica Provincia</name>
+		<name normalized="Manica provints" languages="Estonian">Manica provints</name>
+		<name normalized="Manikos provincija" languages="Lithuanian">Manikos provincija</name>
+		<name normalized="Mkoa wa Manica" languages="Swahili">Mkoa wa Manica</name>
+		<name normalized="Province de Manica" languages="French">Province de Manica</name>
+		<name normalized="Provincia di Manica" languages="Italian">Provincia di Manica</name>
+		<name normalized="Provincia Manica" languages="Romanian">Provincia Manica</name>
+		<name normalized="Provinsi Manica" languages="Indonesian">Provinsi Manica</name>
+		<name normalized="Μανικα" languages="Greek">Μανίκα</name>
+		<name normalized="Мaнika" languages="Bulgarian;Russian">Маника</name>
+		<name normalized="Мaнika" languages="biлaрuсkai (taрaskivita)‎">Маніка</name>
+		<name normalized="მანიკა" languages="Georgian">მანიკა</name>
+		<name normalized="მანიკის პროვინცია" languages="Georgian">მანიკის პროვინცია</name>
+		<name normalized="mnk州" languages="Japanese">マニカ州</name>
+		<name normalized="馬尼卡" languages="Chinese">馬尼卡</name>
+		<name normalized="马尼卡省" languages="Chinese">马尼卡省</name>
+		<name normalized="마니카 주" languages="Korean">마니카 주</name>
+	</region>
+	<region name="Maputo" type="province" typeTranslated="provincia">
+		<name normalized="Mabuto" languages="Somali">Mabuto</name>
+		<name normalized="Mapouto" languages="Haitian">Mapouto</name>
+		<name normalized="Maputo" languages="Afrikaans;Aragonese;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Fiji Hindi;Finnish;Franco-Provencal;French;Galician;German;Hungarian;Ido;Indonesian;Interlingue;Irish;Italian;Javanese;Kinyarwanda;Latin;Ligure;lumbaart;Luxembourgish;Malagasy;Maori;Mirandese;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Papiamento;Piedmontese;Polish;Portuguese;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Slovak;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;veneto;Waray;Welsh;Western Frisian;Wolof;Yoruba">Maputo</name>
+		<name normalized="Maputo Bolgesi" languages="Turkish">Maputo Bölgesi</name>
+		<name normalized="Maputo probintzia" languages="Basque">Maputo probintzia</name>
+		<name normalized="Maputo Province" languages="English;official;Scots">Maputo Province</name>
+		<name normalized="Maputo Provincia" languages="English;official">Maputo Provincia</name>
+		<name normalized="Maputu" languages="Azerbaijani;Latvian;Lithuanian;Quechua;Tetum">Maputu</name>
+		<name normalized="Maputu provincija" languages="Lithuanian">Maputu provincija</name>
+		<name normalized="Maputo" languages="Icelandic">Mapútó</name>
+		<name normalized="Mkoa wa Maputo" languages="Swahili">Mkoa wa Maputo</name>
+		<name normalized="Province de Maputo" languages="French">Province de Maputo</name>
+		<name normalized="Provincia de Maputo" languages="Spanish">Provincia de Maputo</name>
+		<name normalized="Provincia di Maputo" languages="Italian">Provincia di Maputo</name>
+		<name normalized="Provincia Maputo" languages="Romanian">Provincia Maputo</name>
+		<name normalized="Provinsi Maputo" languages="Indonesian">Provinsi Maputo</name>
+		<name normalized="Provinz Maputo" languages="German">Provinz Maputo</name>
+		<name normalized="Provincia de Maputo" languages="Catalan">Província de Maputo</name>
+		<name normalized="Μαποuτο" languages="Greek">Μαπούτο</name>
+		<name normalized="Goрad Мaputu" languages="Belarusian">Горад Мапуту</name>
+		<name normalized="Мaputo" languages="Bulgarian;Macedonian;Serbian">Мапуто</name>
+		<name normalized="Мaputu" languages="Chechen;Hill Mari;Kyrgyz;Russian;Tajik;Udmurt;Ukrainian;biлaрuсkai (taрaskivita)‎">Мапуту</name>
+		<name normalized="Mաpvytvy" languages="Armenian">Մապուտու</name>
+		<name normalized="מאpvtא" languages="Yiddish">מאפוטא</name>
+		<name normalized="מpvtv" languages="Hebrew">מפוטו</name>
+		<name normalized="mאbوtو" languages="Arabic">مابوتو</name>
+		<name normalized="mאpوtو" languages="Persian;Urdu">ماپوتو</name>
+		<name normalized="mאpوtۆ" languages="Sorani Kurdish">ماپوتۆ</name>
+		<name normalized="mאpوٹو" languages="Western Punjabi">ماپوٹو</name>
+		<name normalized="mाputo" languages="Marathi">मापुतो</name>
+		<name normalized="mਾputੋ" languages="Punjabi">ਮਾਪੂਤੋ</name>
+		<name normalized="மபூட்டோ" languages="Tamil">மபூட்டோ</name>
+		<name normalized="มาปูโต" languages="Thai">มาปูโต</name>
+		<name normalized="མ་པུ་ཊོ།" languages="Tibetan">མ་པུ་ཊོ།</name>
+		<name normalized="მაპუტუ" languages="Georgian">მაპუტუ</name>
+		<name normalized="მაპუტუს პროვინცია" languages="Georgian">მაპუტუს პროვინცია</name>
+		<name normalized="ማፑቶ" languages="Amharic">ማፑቶ</name>
+		<name normalized="mpt" languages="Japanese">マプト</name>
+		<name normalized="mpt州" languages="Japanese">マプト州</name>
+		<name normalized="馬布多" languages="Cantonese">馬布多</name>
+		<name normalized="马普托" languages="Chinese">马普托</name>
+		<name normalized="马普托省" languages="Chinese">马普托省</name>
+		<name normalized="마푸투" languages="Korean">마푸투</name>
+		<name normalized="마푸투 주" languages="Korean">마푸투 주</name>
+	</region>
+	<region name="Nampula" type="province" typeTranslated="provincia">
+		<name normalized="Mkoa wa Nampula" languages="Swahili">Mkoa wa Nampula</name>
+		<name normalized="Nampula" languages="Afrikaans;Basque;Catalan;Croatian;Danish;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Italian;Latin;Lithuanian;Maori;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Slovak;Spanish;Swahili;Swedish">Nampula</name>
+		<name normalized="Nampula Bolgesi" languages="Turkish">Nampula Bölgesi</name>
+		<name normalized="Nampula probintzia" languages="Basque">Nampula probintzia</name>
+		<name normalized="Nampula Province" languages="English;official">Nampula Province</name>
+		<name normalized="Nampula Provincia" languages="English;official">Nampula Provincia</name>
+		<name normalized="Nampulos provincija" languages="Lithuanian">Nampulos provincija</name>
+		<name normalized="Province de Nampula" languages="French">Province de Nampula</name>
+		<name normalized="Provincia de Nampula" languages="Spanish">Provincia de Nampula</name>
+		<name normalized="Provincia di Nampula" languages="Italian">Provincia di Nampula</name>
+		<name normalized="Provincia Nampula" languages="Romanian">Provincia Nampula</name>
+		<name normalized="Provinsi Nampula" languages="Indonesian">Provinsi Nampula</name>
+		<name normalized="Provinz Nampula" languages="German">Provinz Nampula</name>
+		<name normalized="Provincia de Nampula" languages="Catalan">Província de Nampula</name>
+		<name normalized="Επαρχια Ναμποuλα" languages="Greek">Επαρχία Ναμπούλα</name>
+		<name normalized="Ναμποuλα" languages="Greek">Ναμπούλα</name>
+		<name normalized="Нaмpuлa" languages="Bulgarian;Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Нампула</name>
+		<name normalized="ნამპულა" languages="Georgian">ნამპულა</name>
+		<name normalized="ნამპულის პროვინცია" languages="Georgian">ნამპულის პროვინცია</name>
+		<name normalized="nnpr" languages="Japanese">ナンプラ</name>
+		<name normalized="nnpーr州" languages="Japanese">ナンプーラ州</name>
+		<name normalized="楠普拉" languages="Chinese">楠普拉</name>
+		<name normalized="楠普拉省" languages="Chinese">楠普拉省</name>
+		<name normalized="남풀라" languages="Korean">남풀라</name>
+		<name normalized="남풀라 주" languages="Korean">남풀라 주</name>
+	</region>
+	<region name="Niassa" type="province" typeTranslated="provincia">
+		<name normalized="Mkoa wa Niassa" languages="Swahili">Mkoa wa Niassa</name>
+		<name normalized="Niasa" languages="Polish">Niasa</name>
+		<name normalized="Niassa" languages="Afrikaans;Danish;Dutch;English;Finnish;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">Niassa</name>
+		<name normalized="Niassa Bolgesi" languages="Turkish">Niassa Bölgesi</name>
+		<name normalized="Niassa probintzia" languages="Basque">Niassa probintzia</name>
+		<name normalized="Niassa Province" languages="English;official">Niassa Province</name>
+		<name normalized="Niassa Provincia" languages="English;official">Niassa Provincia</name>
+		<name normalized="Njasos provincija" languages="Lithuanian">Njasos provincija</name>
+		<name normalized="Province de Niassa" languages="French">Province de Niassa</name>
+		<name normalized="Provincia di Niassa" languages="Italian">Provincia di Niassa</name>
+		<name normalized="Provincia Niassa" languages="Romanian">Provincia Niassa</name>
+		<name normalized="Provinsi Niassa" languages="Indonesian">Provinsi Niassa</name>
+		<name normalized="Provinz Niassa" languages="German">Provinz Niassa</name>
+		<name normalized="Provincia de Niassa" languages="Catalan">Província de Niassa</name>
+		<name normalized="Επαρχια Νιασα" languages="Greek">Επαρχία Νιάσα</name>
+		<name normalized="Ньiсa" languages="Russian;biлaрuсkai (taрaskivita)‎">Ньяса</name>
+		<name normalized="Нiсa" languages="Bulgarian">Няса</name>
+		<name normalized="ნიასის პროვინცია" languages="Georgian">ნიასის პროვინცია</name>
+		<name normalized="nas州" languages="Japanese">ニアサ州</name>
+		<name normalized="尼亚萨省" languages="Chinese">尼亚萨省</name>
+		<name normalized="니아사 주" languages="Korean">니아사 주</name>
+	</region>
+	<region name="Sofala" type="province" typeTranslated="provincia">
+		<name normalized="Mkoa wa Sofala" languages="Swahili">Mkoa wa Sofala</name>
+		<name normalized="Province de Sofala" languages="French">Province de Sofala</name>
+		<name normalized="Provincia di Sofala" languages="Italian">Provincia di Sofala</name>
+		<name normalized="Provincia Sofala" languages="Romanian">Provincia Sofala</name>
+		<name normalized="Provinsi Sofala" languages="Indonesian">Provinsi Sofala</name>
+		<name normalized="Provinz Sofala" languages="German">Provinz Sofala</name>
+		<name normalized="Provincia de Sofala" languages="Catalan">Província de Sofala</name>
+		<name normalized="Sofala" languages="Afrikaans;Catalan;Danish;Dutch;English;Finnish;German;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swahili;Swedish">Sofala</name>
+		<name normalized="Sofala Bolgesi" languages="Turkish">Sofala Bölgesi</name>
+		<name normalized="Sofala probintzia" languages="Basque">Sofala probintzia</name>
+		<name normalized="Sofala Province" languages="English;official">Sofala Province</name>
+		<name normalized="Sofala Provincia" languages="English;official">Sofala Provincia</name>
+		<name normalized="Sofalos provincija" languages="Lithuanian">Sofalos provincija</name>
+		<name normalized="Σοφαλα" languages="Greek">Σοφάλα</name>
+		<name normalized="Сaфaлa" languages="biлaрuсkai (taрaskivita)‎">Сафала</name>
+		<name normalized="Сoфaлa" languages="Bulgarian;Russian">Софала</name>
+		<name normalized="سfאلة" languages="Arabic">سفالة</name>
+		<name normalized="სოფალის პროვინცია" languages="Georgian">სოფალის პროვინცია</name>
+		<name normalized="shar" languages="Japanese">ソファラ</name>
+		<name normalized="shar州" languages="Japanese">ソファラ州</name>
+		<name normalized="索法拉省" languages="Chinese">索法拉省</name>
+		<name normalized="소팔라 주" languages="Korean">소팔라 주</name>
+	</region>
+	<region name="Tete" type="province" typeTranslated="provincia">
+		<name normalized="Mkoa wa Tete" languages="Swahili">Mkoa wa Tete</name>
+		<name normalized="Province de Tete" languages="French">Province de Tete</name>
+		<name normalized="Provincia de Tete" languages="Spanish">Provincia de Tete</name>
+		<name normalized="Provincia di Tete" languages="Italian">Provincia di Tete</name>
+		<name normalized="Provincia Tete" languages="Romanian">Provincia Tete</name>
+		<name normalized="Provinsi Tete" languages="Indonesian">Provinsi Tete</name>
+		<name normalized="Provinz Tete" languages="German">Provinz Tete</name>
+		<name normalized="Provincia de Tete" languages="Catalan">Província de Tete</name>
+		<name normalized="Tete" languages="Afrikaans;Basque;Catalan;Croatian;Danish;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Swahili;Swedish;Vietnamese">Tete</name>
+		<name normalized="Tete Bolgesi" languages="Turkish">Tete Bölgesi</name>
+		<name normalized="Tete probintzia" languages="Basque">Tete probintzia</name>
+		<name normalized="Tete Province" languages="English;official">Tete Province</name>
+		<name normalized="Tete Provincia" languages="English;official">Tete Provincia</name>
+		<name normalized="Tete provints" languages="Estonian">Tete provints</name>
+		<name normalized="Tete" languages="Lithuanian">Tetė</name>
+		<name normalized="Tetes provincija" languages="Lithuanian">Tetės provincija</name>
+		<name normalized="Επαρχια Τeτε" languages="Greek">Επαρχία Τέτε</name>
+		<name normalized="Τeτε" languages="Greek">Τέτε</name>
+		<name normalized="Titi" languages="Bulgarian;Russian;Serbian">Тете</name>
+		<name normalized="Tete" languages="biлaрuсkai (taрaskivita)‎">Тэтэ</name>
+		<name normalized="ტეტე" languages="Georgian">ტეტე</name>
+		<name normalized="ტეტეს პროვინცია" languages="Georgian">ტეტეს პროვინცია</name>
+		<name normalized="tt" languages="Japanese">テテ</name>
+		<name normalized="tt州" languages="Japanese">テテ州</name>
+		<name normalized="太特" languages="Chinese">太特</name>
+		<name normalized="太特省" languages="Chinese">太特省</name>
+		<name normalized="테테" languages="Korean">테테</name>
+		<name normalized="테테 주" languages="Korean">테테 주</name>
+	</region>
+	<region name="Zambezia" type="province" typeTranslated="provincia">
+		<name normalized="Mkoa wa Zambezia" languages="Swahili">Mkoa wa Zambezia</name>
+		<name normalized="Province de Zambezie" languages="French">Province de Zambézie</name>
+		<name normalized="Provincia di Zambezia" languages="Italian">Provincia di Zambezia</name>
+		<name normalized="Provincia Zambezia" languages="Romanian">Provincia Zambezia</name>
+		<name normalized="Provinsi Zambezia" languages="Indonesian">Provinsi Zambezia</name>
+		<name normalized="Provinz Zambezia" languages="German">Provinz Zambezia</name>
+		<name normalized="Zambezia" languages="Afrikaans;Danish;Dutch;English;Finnish;German;Italian;Norwegian (bokmal);official;Spanish;Swedish">Zambezia</name>
+		<name normalized="Zambezia Bolgesi" languages="Turkish">Zambezia Bölgesi</name>
+		<name normalized="Zambezia probintzia" languages="Basque">Zambezia probintzia</name>
+		<name normalized="Zambezia Province" languages="English;official">Zambezia Province</name>
+		<name normalized="Zambezia Provincia" languages="English;official">Zambezia Provincia</name>
+		<name normalized="Zambezijos provincija" languages="Lithuanian">Zambezijos provincija</name>
+		<name normalized="Zambezia" languages="Catalan;Polish;Portuguese">Zambézia</name>
+		<name normalized="Επαρχια Ζαμβεζια" languages="Greek">Επαρχία Ζαμβεζία</name>
+		<name normalized="Zaмbizii" languages="Bulgarian;Russian">Замбезия</name>
+		<name normalized="Zaмbezii" languages="biлaрuсkai (taрaskivita)‎">Замбэзія</name>
+		<name normalized="ზამბეზიის პროვინცია" languages="Georgian">ზამბეზიის პროვინცია</name>
+		<name normalized="znbza州" languages="Japanese">ザンベジア州</name>
+		<name normalized="赞比西亚省" languages="Chinese">赞比西亚省</name>
+		<name normalized="잠베지아 주" languages="Korean">잠베지아 주</name>
+	</region>
+</regions>

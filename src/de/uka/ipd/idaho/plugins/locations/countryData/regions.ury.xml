@@ -1,0 +1,505 @@
+<regions country="Uruguay">
+	<region name="Artigas" type="department" typeTranslated="departamento">
+		<name normalized="Artigas" languages="Catalan;Chavacano de Zamboanga;Danish;Dutch;English;Esperanto;Finnish;French;Galician;German;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Quechua;Spanish;Swedish;Vietnamese;Volapuk;Waray">Artigas</name>
+		<name normalized="Artigas departamendua" languages="Basque">Artigas departamendua</name>
+		<name normalized="Artigas Departamento" languages="English;official">Artigas Departamento</name>
+		<name normalized="Artigas Department" languages="English;official">Artigas Department</name>
+		<name normalized="Artigas megye" languages="Hungarian">Artigas megye</name>
+		<name normalized="Artigas suyu" languages="Quechua">Artigas suyu</name>
+		<name normalized="Artigasas" languages="Lithuanian">Artigasas</name>
+		<name normalized="Artigasdepartementet" languages="Norwegian Nynorsk">Artigasdepartementet</name>
+		<name normalized="Artigaso departamentas" languages="Lithuanian">Artigaso departamentas</name>
+		<name normalized="Departament d'Artigas" languages="Catalan">Departament d'Artigas</name>
+		<name normalized="Departamento Artigas" languages="German">Departamento Artigas</name>
+		<name normalized="Departamento de Artigas" languages="Galician;Spanish">Departamento de Artigas</name>
+		<name normalized="Departemen Artigas" languages="Indonesian">Departemen Artigas</name>
+		<name normalized="Dipartimento di Artigas" languages="Italian">Dipartimento di Artigas</name>
+		<name normalized="Aрtigaс" languages="Bulgarian;Macedonian;Russian;Ukrainian">Артигас</name>
+		<name normalized="آrtیgאس, אrوgوئh" languages="Persian">آرتیگاس، اروگوئه</name>
+		<name normalized="არტიგასის დეპარტამენტი" languages="Georgian">არტიგასის დეპარტამენტი</name>
+		<name normalized="artigs" languages="Japanese">アルティガス</name>
+		<name normalized="artigs県" languages="Japanese">アルティガス県</name>
+		<name normalized="阿蒂加斯" languages="Chinese">阿蒂加斯</name>
+		<name normalized="阿蒂加斯省" languages="Chinese">阿蒂加斯省</name>
+		<name normalized="아르티가스" languages="Korean">아르티가스</name>
+	</region>
+	<region name="Canelones" type="department" typeTranslated="departamento">
+		<name normalized="Canelones" languages="Catalan;Chavacano de Zamboanga;Danish;Dutch;English;Esperanto;Finnish;French;Galician;German;Italian;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish;Waray">Canelones</name>
+		<name normalized="Canelones Depairtment" languages="Scots">Canelones Depairtment</name>
+		<name normalized="Canelones departamendua" languages="Basque">Canelones departamendua</name>
+		<name normalized="Canelones Departamento" languages="English;official">Canelones Departamento</name>
+		<name normalized="Canelones Department" languages="English;official">Canelones Department</name>
+		<name normalized="Canelones megye" languages="Hungarian">Canelones megye</name>
+		<name normalized="Canelones suyu" languages="Quechua">Canelones suyu</name>
+		<name normalized="Departament de Canelones" languages="Catalan">Departament de Canelones</name>
+		<name normalized="Departamento Canelones" languages="German">Departamento Canelones</name>
+		<name normalized="Departamento de Canelones" languages="Galician;Spanish">Departamento de Canelones</name>
+		<name normalized="Departemen Canelones" languages="Indonesian">Departemen Canelones</name>
+		<name normalized="Dipartimento di Canelones" languages="Italian">Dipartimento di Canelones</name>
+		<name normalized="Kanelonesas" languages="Lithuanian">Kanelonesas</name>
+		<name normalized="Kaneloneso departamentas" languages="Lithuanian">Kaneloneso departamentas</name>
+		<name normalized="Kaнiлoнiс" languages="Bulgarian;Macedonian;Russian;Ukrainian">Канелонес</name>
+		<name normalized="کنلونس, אrوgوئh" languages="Persian">کنلونس، اروگوئه</name>
+		<name normalized="კანელონესის დეპარტამენტი" languages="Georgian">კანელონესის დეპარტამენტი</name>
+		<name normalized="knrns県" languages="Japanese">カネロネス県</name>
+		<name normalized="knrーns" languages="Japanese">カネローネス</name>
+		<name normalized="卡內洛內斯" languages="Chinese">卡內洛內斯</name>
+		<name normalized="卡内洛内斯省" languages="Chinese">卡内洛内斯省</name>
+	</region>
+	<region name="Cerro Largo" type="department" typeTranslated="departamento">
+		<name normalized="Cerro Largo" languages="Chavacano de Zamboanga;Danish;Dutch;English;Esperanto;Finnish;French;German;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Swedish;Vietnamese;Waray">Cerro Largo</name>
+		<name normalized="Cerro Largo departamendua" languages="Basque">Cerro Largo departamendua</name>
+		<name normalized="Cerro Largo Departamento" languages="English;official">Cerro Largo Departamento</name>
+		<name normalized="Cerro Largo Department" languages="English;official">Cerro Largo Department</name>
+		<name normalized="Cerro Largo megye" languages="Hungarian">Cerro Largo megye</name>
+		<name normalized="Cerro Largo suyu" languages="Quechua">Cerro Largo suyu</name>
+		<name normalized="Departament de Cerro Largo" languages="Catalan">Departament de Cerro Largo</name>
+		<name normalized="Departamento Cerro Largo" languages="German">Departamento Cerro Largo</name>
+		<name normalized="Departamento de Cerro Largo" languages="Galician;Spanish">Departamento de Cerro Largo</name>
+		<name normalized="Departemen Cerro Largo" languages="Indonesian">Departemen Cerro Largo</name>
+		<name normalized="Dipartimento di Cerro Largo" languages="Italian">Dipartimento di Cerro Largo</name>
+		<name normalized="Sero Largo departamentas" languages="Lithuanian">Sero Largo departamentas</name>
+		<name normalized="Сiрo Лaрgo" languages="Bulgarian;Macedonian">Серо Ларго</name>
+		<name normalized="Сiррo-Лaрgo" languages="Russian;Ukrainian">Серро-Ларго</name>
+		<name normalized="سyrو لאغو" languages="Arabic">سيرو لاغو</name>
+		<name normalized="სერო-ლარგოს დეპარტამენტი" languages="Georgian">სერო-ლარგოს დეპარტამენტი</name>
+		<name normalized="sr・rrg県" languages="Japanese">セロ・ラルゴ県</name>
+		<name normalized="塞罗拉尔戈省" languages="Chinese">塞罗拉尔戈省</name>
+	</region>
+	<region name="Colonia" type="department" typeTranslated="departamento">
+		<name normalized="Colonia" languages="Asturian;Chavacano de Zamboanga;Danish;Dutch;English;Esperanto;Finnish;French;Northern Sami;Norwegian (bokmal);official;Polish;Swedish;Vietnamese;Waray">Colonia</name>
+		<name normalized="Colonia del Sacramento" languages="Afrikaans;Asturian;Basque;Catalan;Croatian;Czech;Danish;Dutch;English;Finnish;French;German;Hungarian;Italian;Nahuatl;Norwegian (bokmal);Occitan;Polish;Serbo-Croatian;Slovenian;Spanish;Swedish;Vietnamese;Waray">Colonia del Sacramento</name>
+		<name normalized="Colonia departamendua" languages="Basque">Colonia departamendua</name>
+		<name normalized="Colonia Departamento" languages="English;official">Colonia Departamento</name>
+		<name normalized="Colonia Department" languages="English;official">Colonia Department</name>
+		<name normalized="Colonia megye" languages="Hungarian">Colonia megye</name>
+		<name normalized="Colonia suyu" languages="Quechua">Colonia suyu</name>
+		<name normalized="Colonia" languages="Portuguese">Colônia</name>
+		<name normalized="Colonia do Sacramento" languages="Portuguese">Colônia do Sacramento</name>
+		<name normalized="Departament de Colonia" languages="Catalan">Departament de Colonia</name>
+		<name normalized="Departamento Colonia" languages="German">Departamento Colonia</name>
+		<name normalized="Departamento de Colonia" languages="Galician;Spanish">Departamento de Colonia</name>
+		<name normalized="Departemen Colonia" languages="Indonesian">Departemen Colonia</name>
+		<name normalized="Dipartimento di Colonia" languages="Italian">Dipartimento di Colonia</name>
+		<name normalized="Kolonija del Sakramentas" languages="Lithuanian">Kolonija del Sakramentas</name>
+		<name normalized="Kolonijos departamentas" languages="Lithuanian">Kolonijos departamentas</name>
+		<name normalized="Κολονια ντελ Σακραμeντο" languages="Greek">Κολόνια ντελ Σακραμέντο</name>
+		<name normalized="Koлoнii" languages="Bulgarian;Russian">Колония</name>
+		<name normalized="Koлoнii diл Сakрaмiнto" languages="Bulgarian">Колония дел Сакраменто</name>
+		<name normalized="Koлoнii-diль-Сakрaмiнto" languages="Russian">Колония-дель-Сакраменто</name>
+		<name normalized="Koлoнija" languages="Macedonian">Колонија</name>
+		<name normalized="Koлoнija diл Сakрaмiнto" languages="Serbian">Колонија дел Сакраменто</name>
+		<name normalized="Koлoнii-diль-Сakрaмiнto" languages="Ukrainian">Колонія-дель-Сакраменто</name>
+		<name normalized="qvדvnיh דד סqrמntv" languages="Hebrew">קולוניה דל סקרמנטו</name>
+		<name normalized="کولونیא دل سאکrאmنtو" languages="Persian">کولونیا دل ساکرامنتو</name>
+		<name normalized="koloniy়া del sাk্rাmen্to" languages="Bengali">কোলোনিয়া দেল সাক্রামেন্তো</name>
+		<name normalized="კოლონია-დელ-საკრამენტო" languages="Georgian">კოლონია-დელ-საკრამენტო</name>
+		<name normalized="კოლონიის დეპარტამენტი" languages="Georgian">კოლონიის დეპარტამენტი</name>
+		<name normalized="krna・dr・skrmnt" languages="Japanese">コロニア・デル・サクラメント</name>
+		<name normalized="krna県" languages="Japanese">コロニア県</name>
+		<name normalized="科洛尼亚省" languages="Chinese">科洛尼亚省</name>
+		<name normalized="科洛尼亞德爾薩克拉門托" languages="Chinese">科洛尼亞德爾薩克拉門托</name>
+		<name normalized="콜로니아델사크라멘토" languages="Korean">콜로니아델사크라멘토</name>
+	</region>
+	<region name="Durazno" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Durazno" languages="Catalan">Departament de Durazno</name>
+		<name normalized="Departamento de Durazno" languages="Galician;Spanish">Departamento de Durazno</name>
+		<name normalized="Departamento Durazno" languages="German">Departamento Durazno</name>
+		<name normalized="Departemen Durazno" languages="Indonesian">Departemen Durazno</name>
+		<name normalized="Dipartimento di Durazno" languages="Italian">Dipartimento di Durazno</name>
+		<name normalized="Durasnas" languages="Lithuanian">Durasnas</name>
+		<name normalized="Durasno departamentas" languages="Lithuanian">Durasno departamentas</name>
+		<name normalized="Durazno" languages="Basque;Catalan;Chavacano de Zamboanga;Danish;Dutch;English;Esperanto;Finnish;French;German;Italian;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Quechua;Spanish;Swedish;Vietnamese;Waray">Durazno</name>
+		<name normalized="Durazno departamendua" languages="Basque">Durazno departamendua</name>
+		<name normalized="Durazno Departamento" languages="English;official">Durazno Departamento</name>
+		<name normalized="Durazno Department" languages="English;official">Durazno Department</name>
+		<name normalized="Durazno megye" languages="Hungarian">Durazno megye</name>
+		<name normalized="Durazno suyu" languages="Quechua">Durazno suyu</name>
+		<name normalized="Duрaснo" languages="Bulgarian;Macedonian;Russian">Дурасно</name>
+		<name normalized="دوrאزنو" languages="Persian">دورازنو</name>
+		<name normalized="დურანსოს დეპარტამენტი" languages="Georgian">დურანსოს დეპარტამენტი</name>
+		<name normalized="dursn" languages="Japanese">ドゥラスノ</name>
+		<name normalized="杜拉斯諾" languages="Chinese">杜拉斯諾</name>
+		<name normalized="杜拉斯诺省" languages="Chinese">杜拉斯诺省</name>
+		<name normalized="두라즈노" languages="Korean">두라즈노</name>
+	</region>
+	<region name="Flores" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Flores" languages="Catalan">Departament de Flores</name>
+		<name normalized="Departamento de Flores" languages="Galician;Spanish">Departamento de Flores</name>
+		<name normalized="Departamento Flores" languages="German">Departamento Flores</name>
+		<name normalized="Departemen Flores" languages="Indonesian">Departemen Flores</name>
+		<name normalized="Dipartimento di Flores" languages="Italian">Dipartimento di Flores</name>
+		<name normalized="Flores" languages="Danish;Dutch;English;Esperanto;Finnish;French;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Swedish;Vietnamese;Waray">Flores</name>
+		<name normalized="Flores departamendua" languages="Basque">Flores departamendua</name>
+		<name normalized="Flores Departamento" languages="English;official">Flores Departamento</name>
+		<name normalized="Flores Department" languages="English;official">Flores Department</name>
+		<name normalized="Flores megye" languages="Hungarian">Flores megye</name>
+		<name normalized="Flores suyu" languages="Quechua">Flores suyu</name>
+		<name normalized="Floreso departamentas" languages="Lithuanian">Floreso departamentas</name>
+		<name normalized="Флoрiс" languages="Bulgarian;Macedonian;Russian">Флорес</name>
+		<name normalized="ფლორესის დეპარტამენტი" languages="Georgian">ფლორესის დეპარტამენტი</name>
+		<name normalized="hrrs県" languages="Japanese">フロレス県</name>
+		<name normalized="弗洛雷斯省" languages="Chinese">弗洛雷斯省</name>
+	</region>
+	<region name="Florida" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Florida" languages="Catalan">Departament de Florida</name>
+		<name normalized="Departamento de Florida" languages="Galician;Spanish">Departamento de Florida</name>
+		<name normalized="Departamento Florida" languages="German">Departamento Florida</name>
+		<name normalized="Departemen Florida" languages="Indonesian">Departemen Florida</name>
+		<name normalized="Dipartimento di Florida" languages="Italian">Dipartimento di Florida</name>
+		<name normalized="Florida" languages="Breton;Catalan;Chavacano de Zamboanga;Danish;Dutch;English;Esperanto;Finnish;French;Galician;German;Italian;Lithuanian;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Quechua;Spanish;Swedish;Vietnamese;Waray">Florida</name>
+		<name normalized="Florida departamendua" languages="Basque">Florida departamendua</name>
+		<name normalized="Florida Departamento" languages="English;official">Florida Departamento</name>
+		<name normalized="Florida Department" languages="English;official">Florida Department</name>
+		<name normalized="Florida megye" languages="Hungarian">Florida megye</name>
+		<name normalized="Floridos departamentas" languages="Lithuanian">Floridos departamentas</name>
+		<name normalized="Флoрida" languages="Bulgarian;Macedonian;Russian">Флорида</name>
+		<name normalized="fلوrیدא, אrوgوئh" languages="Persian">فلوریدا، اروگوئه</name>
+		<name normalized="ფლორიდის დეპარტამენტი" languages="Georgian">ფლორიდის დეპარტამენტი</name>
+		<name normalized="hrrd" languages="Japanese">フロリダ</name>
+		<name normalized="hrrd県" languages="Japanese">フロリダ県</name>
+		<name normalized="佛罗里达省" languages="Chinese">佛罗里达省</name>
+		<name normalized="佛羅里達" languages="Chinese">佛羅里達</name>
+		<name normalized="플로리다" languages="Korean">플로리다</name>
+	</region>
+	<region name="Lavalleja" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Lavalleja" languages="Catalan">Departament de Lavalleja</name>
+		<name normalized="Departamento de Lavalleja" languages="Galician;Spanish">Departamento de Lavalleja</name>
+		<name normalized="Departamento Lavalleja" languages="German">Departamento Lavalleja</name>
+		<name normalized="Departemen Lavalleja" languages="Indonesian">Departemen Lavalleja</name>
+		<name normalized="Dipartimento di Lavalleja" languages="Italian">Dipartimento di Lavalleja</name>
+		<name normalized="Lavaljechos departamentas" languages="Lithuanian">Lavaljechos departamentas</name>
+		<name normalized="Lavalleja" languages="Chavacano de Zamboanga;Danish;Dutch;English;Esperanto;Finnish;French;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Swedish;Vietnamese;Waray">Lavalleja</name>
+		<name normalized="Lavalleja Depairtment" languages="Scots">Lavalleja Depairtment</name>
+		<name normalized="Lavalleja departamendua" languages="Basque">Lavalleja departamendua</name>
+		<name normalized="Lavalleja Departamento" languages="English;official">Lavalleja Departamento</name>
+		<name normalized="Lavalleja Department" languages="English;official">Lavalleja Department</name>
+		<name normalized="Lavalleja megye" languages="Hungarian">Lavalleja megye</name>
+		<name normalized="Lavalleja suyu" languages="Quechua">Lavalleja suyu</name>
+		<name normalized="Лavaлika" languages="Bulgarian">Лавалеха</name>
+		<name normalized="Лavaльika" languages="Russian">Лавальеха</name>
+		<name normalized="Лavaльeka" languages="Ukrainian">Лавальєха</name>
+		<name normalized="ლავალიეხას დეპარტამენტი" languages="Georgian">ლავალიეხას დეპარტამენტი</name>
+		<name normalized="rbzeh県" languages="Japanese">ラバジェハ県</name>
+		<name normalized="拉瓦耶哈省" languages="Chinese">拉瓦耶哈省</name>
+	</region>
+	<region name="Maldonado" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Maldonado" languages="Catalan">Departament de Maldonado</name>
+		<name normalized="Departamento de Maldonado" languages="Galician;Spanish">Departamento de Maldonado</name>
+		<name normalized="Departamento Maldonado" languages="German">Departamento Maldonado</name>
+		<name normalized="Departemen Maldonado" languages="Indonesian">Departemen Maldonado</name>
+		<name normalized="Dipartimento di Maldonado" languages="Italian">Dipartimento di Maldonado</name>
+		<name normalized="Maldonadas" languages="Lithuanian">Maldonadas</name>
+		<name normalized="Maldonado" languages="Catalan;Chavacano de Zamboanga;Danish;Dutch;English;Esperanto;Finnish;French;Galician;German;Italian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Polish;Portuguese;Scots;Spanish;Swedish;Vietnamese;Waray">Maldonado</name>
+		<name normalized="Maldonado Depairtment" languages="Scots">Maldonado Depairtment</name>
+		<name normalized="Maldonado departamendua" languages="Basque">Maldonado departamendua</name>
+		<name normalized="Maldonado departamentas" languages="Lithuanian">Maldonado departamentas</name>
+		<name normalized="Maldonado Departamento" languages="English;official">Maldonado Departamento</name>
+		<name normalized="Maldonado Department" languages="English;official">Maldonado Department</name>
+		<name normalized="Maldonado megye" languages="Hungarian">Maldonado megye</name>
+		<name normalized="Maldonado suyu" languages="Quechua">Maldonado suyu</name>
+		<name normalized="Мaлdoнado" languages="Bulgarian">Малдонадо</name>
+		<name normalized="Мaльdoнado" languages="Russian;Ukrainian">Мальдонадо</name>
+		<name normalized="mאلدونאدو, אrوgوئh" languages="Persian">مالدونادو، اروگوئه</name>
+		<name normalized="mাldonাdo ডipাr্টmen্ট" languages="Bengali">মালদোনাদো ডিপার্টমেন্ট</name>
+		<name normalized="მალდონადოს დეპარტამენტი" languages="Georgian">მალდონადოს დეპარტამენტი</name>
+		<name normalized="mrdnd" languages="Japanese">マルドナド</name>
+		<name normalized="mrdnd県" languages="Japanese">マルドナド県</name>
+		<name normalized="馬爾多納多" languages="Chinese">馬爾多納多</name>
+		<name normalized="马尔多纳多省" languages="Chinese">马尔多纳多省</name>
+		<name normalized="말도나도" languages="Korean">말도나도</name>
+	</region>
+	<region name="Montevideo" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Montevideo" languages="Catalan">Departament de Montevideo</name>
+		<name normalized="Departamento de Montevideo" languages="Galician;Spanish">Departamento de Montevideo</name>
+		<name normalized="Departamento Montevideo" languages="German">Departamento Montevideo</name>
+		<name normalized="Departemen Montevideo" languages="Indonesian">Departemen Montevideo</name>
+		<name normalized="Dipartimento di Montevideo" languages="Italian">Dipartimento di Montevideo</name>
+		<name normalized="Monsvideus" languages="Latin">Monsvideus</name>
+		<name normalized="Montevideo" languages="Achinese;Afrikaans;Akan;Aragonese;Azerbaijani;Basque;Bosnian;Breton;Catalan;Chavacano de Zamboanga;Chinese (Min Nan);Corsican;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Fiji Hindi;Finnish;French;Gagauz;Galician;German;Guarani;Haitian;Hausa;Hawaiian;Hungarian;Ido;Indonesian;Interlingua;Interlingue;Irish;Italian;Ladino;Latvian;Ligure;Lingala;Low German;lumbaart;Luxembourgish;Maltese;Nahuatl;Neapolitan;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Piedmontese;Polish;Quechua;Romanian;Romansh;Rundi;Sardinian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Slovak;Slovenian;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Volapuk;veneto;Waray;Welsh;Western Frisian;Yoruba;Zazaki">Montevideo</name>
+		<name normalized="Montevideo ciudad" languages="Chavacano de Zamboanga">Montevideo ciudad</name>
+		<name normalized="Montevideo Depairtment" languages="Scots">Montevideo Depairtment</name>
+		<name normalized="Montevideo departamendua" languages="Basque">Montevideo departamendua</name>
+		<name normalized="Montevideo Departamento" languages="English;official">Montevideo Departamento</name>
+		<name normalized="Montevideo Departmanı" languages="Turkish">Montevideo Departmanı</name>
+		<name normalized="Montevideo Department" languages="English;official">Montevideo Department</name>
+		<name normalized="Montevideo megye" languages="Hungarian">Montevideo megye</name>
+		<name normalized="Montevideo suyu" languages="Quechua">Montevideo suyu</name>
+		<name normalized="Montevideu" languages="Tetum">Montevideu</name>
+		<name normalized="Montevidiejos" languages="Samogitian">Montevidiejos</name>
+		<name normalized="Montevideu" languages="Asturian;Papiamento;Portuguese">Montevidéu</name>
+		<name normalized="Montevidejas" languages="Lithuanian">Montevidėjas</name>
+		<name normalized="Montevidejo departamentas" languages="Lithuanian">Montevidėjo departamentas</name>
+		<name normalized="Montevideo" languages="Icelandic">Montevídeó</name>
+		<name normalized="Muntivideu" languages="Sicilian">Muntividèu</name>
+		<name normalized="Muntividew" languages="Aymara">Muntividëw</name>
+		<name normalized="Μοντεβιδeο" languages="Greek">Μοντεβιδέο</name>
+		<name normalized="Goрad Мaнtevidea" languages="Belarusian">Горад Мантэвідэа</name>
+		<name normalized="Мaнtevideo" languages="biлaрuсkai (taрaskivita)‎">Мантэвідэо</name>
+		<name normalized="Мoнtividio" languages="Abkhazian;Bulgarian;Chechen;Macedonian;Ossetic;Russian;Serbian;Tatar">Монтевидео</name>
+		<name normalized="Мoнtividio" languages="Ukrainian">Монтевідео</name>
+		<name normalized="Mvնtևիdեv" languages="Armenian">Մոնտևիդեո</name>
+		<name normalized="מאntעvvידעא" languages="Yiddish">מאנטעווידעא</name>
+		<name normalized="מvntvvידאv" languages="Hebrew">מונטווידאו</name>
+		<name normalized="mونth‌ویدئو" languages="Persian">مونته‌ویدئو</name>
+		<name normalized="mونtyfyدyو" languages="Arabic">مونتيفيديو</name>
+		<name normalized="mونtېۋىدېئو" languages="Uyghur">مونتېۋىدېئو</name>
+		<name normalized="mونٹیویڈیو" languages="Urdu">مونٹیویڈیو</name>
+		<name normalized="moण्टeviडiyo" languages="Hindi">मोण्टेवीडियो</name>
+		<name normalized="mon्tevideo" languages="Marathi">मोन्तेविदेओ</name>
+		<name normalized="mon্tebideo" languages="Bengali">মোন্তেবিদেও</name>
+		<name normalized="mੋਂtੇvidiਓ" languages="Punjabi">ਮੋਂਤੇਵੀਦਿਓ</name>
+		<name normalized="ମଣ୍ଟିଭିଡ଼ିଓ" languages="Oriya">ମଣ୍ଟିଭିଡ଼ିଓ</name>
+		<name normalized="മൊണ്ടേവീഡിയോ" languages="Malayalam">മൊണ്ടേവീഡിയോ</name>
+		<name normalized="มอนเตวิเดโอ" languages="Thai">มอนเตวิเดโอ</name>
+		<name normalized="མཱོན་ཊི་ཝི་ཌོ།" languages="Tibetan">མཱོན་ཊི་ཝི་ཌོ།</name>
+		<name normalized="မွန်တီဗစ်ဒီအိုမြို့" languages="Burmese">မွန်တီဗစ်ဒီအိုမြို့</name>
+		<name normalized="მონტევიდეო" languages="Georgian;Mingrelian">მონტევიდეო</name>
+		<name normalized="მონტევიდეოს დეპარტამენტი" languages="Georgian">მონტევიდეოს დეპარტამენტი</name>
+		<name normalized="ሞንቴቪዴዎ" languages="Amharic">ሞንቴቪዴዎ</name>
+		<name normalized="mntbdo" languages="Japanese">モンテビデオ</name>
+		<name normalized="mntbdo県" languages="Japanese">モンテビデオ県</name>
+		<name normalized="蒙得維的亞省" languages="Chinese">蒙得維的亞省</name>
+		<name normalized="蒙得维的亚" languages="Chinese">蒙得维的亚</name>
+		<name normalized="蒙特維多" languages="Cantonese">蒙特維多</name>
+		<name normalized="몬테비데오" languages="Korean">몬테비데오</name>
+	</region>
+	<region name="Paysandu" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Paysandu" languages="Catalan">Departament de Paysandú</name>
+		<name normalized="Departamento de Paysandu" languages="Galician;Spanish">Departamento de Paysandú</name>
+		<name normalized="Departamento Paysandu" languages="German">Departamento Paysandú</name>
+		<name normalized="Departemen Paysandu" languages="Indonesian">Departemen Paysandú</name>
+		<name normalized="Dipartimento di Paysandu" languages="Italian">Dipartimento di Paysandú</name>
+		<name normalized="Paisandu" languages="Lithuanian">Paisandu</name>
+		<name normalized="Paisandu departamentas" languages="Lithuanian">Paisandu departamentas</name>
+		<name normalized="Paysandu" languages="English;official">Paysandu</name>
+		<name normalized="Paysandu Departamento" languages="English;official">Paysandu Departamento</name>
+		<name normalized="Paysandu Department" languages="English;official">Paysandu Department</name>
+		<name normalized="Paysandu" languages="Catalan;Chavacano de Zamboanga;Danish;Dutch;English;Esperanto;Finnish;French;Galician;German;Indonesian;Italian;Northern Sami;Norwegian (bokmal);Polish;Portuguese;Quechua;Romanian;Spanish;Swedish;Vietnamese;Waray">Paysandú</name>
+		<name normalized="Paysandu departamendua" languages="Basque">Paysandú departamendua</name>
+		<name normalized="Paysandu Department" languages="English">Paysandú Department</name>
+		<name normalized="Paysandu megye" languages="Hungarian">Paysandú megye</name>
+		<name normalized="Paysandu suyu" languages="Quechua">Paysandú suyu</name>
+		<name normalized="Goрad Paйсaнdu" languages="Belarusian">Горад Пайсанду</name>
+		<name normalized="Paйсaнdu" languages="Bulgarian;Russian;Ukrainian">Пайсанду</name>
+		<name normalized="pאیسאندو" languages="Persian">پایساندو</name>
+		<name normalized="pাy়sাn্du" languages="Bengali">পায়সান্দু</name>
+		<name normalized="ไปย์ซันดู" languages="Thai">ไปย์ซันดู</name>
+		<name normalized="პაისანდუს დეპარტამენტი" languages="Georgian">პაისანდუს დეპარტამენტი</name>
+		<name normalized="pisnduー" languages="Japanese">パイサンドゥー</name>
+		<name normalized="pisndu県" languages="Japanese">パイサンドゥ県</name>
+		<name normalized="派桑杜" languages="Chinese">派桑杜</name>
+		<name normalized="派桑杜省" languages="Chinese">派桑杜省</name>
+		<name normalized="파이산두" languages="Korean">파이산두</name>
+	</region>
+	<region name="Rio Negro" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Rio Negro" languages="Catalan">Departament de Río Negro</name>
+		<name normalized="Departamento de Rio Negro" languages="Galician;Spanish">Departamento de Río Negro</name>
+		<name normalized="Departamento Rio Negro" languages="German">Departamento Río Negro</name>
+		<name normalized="Departemen Rio Negro" languages="Indonesian">Departemen Río Negro</name>
+		<name normalized="Dipartimento di Rio Negro" languages="Italian">Dipartimento di Río Negro</name>
+		<name normalized="Negras" languages="Lithuanian">Negras</name>
+		<name normalized="Negro River" languages="English">Negro River</name>
+		<name normalized="Rio Negro" languages="Chavacano de Zamboanga;English;Italian;official;Portuguese;Romanian">Rio Negro</name>
+		<name normalized="Rio Negro departamentas" languages="Lithuanian">Rio Negro departamentas</name>
+		<name normalized="Rio Negro Departamento" languages="English;official">Rio Negro Departamento</name>
+		<name normalized="Rio Negro Department" languages="English;official">Rio Negro Department</name>
+		<name normalized="Rio Negro" languages="Breton;Catalan;Croatian;Czech;Danish;Dutch;Esperanto;Finnish;French;German;Northern Sami;Norwegian (bokmal);Polish;Portuguese;Spanish;Swedish;Vietnamese;Waray">Río Negro</name>
+		<name normalized="Rio Negro departamendua" languages="Basque">Río Negro departamendua</name>
+		<name normalized="Rio Negro Department" languages="English">Río Negro Department</name>
+		<name normalized="Rio Negro megye" languages="Hungarian">Río Negro megye</name>
+		<name normalized="Rio Negro suyu" languages="Quechua">Río Negro suyu</name>
+		<name normalized="Рaka Рыa-Нigрa" languages="Belarusian">Рака Рыа-Негра</name>
+		<name normalized="Рio Нigрo" languages="Bulgarian">Рио Негро</name>
+		<name normalized="Рio-Нigрo" languages="Russian">Рио-Негро</name>
+		<name normalized="Рыё-Нegрa" languages="biлaрuсkai (taрaskivita)‎">Рыё-Нэгра</name>
+		<name normalized="Рio-Нigрo" languages="Ukrainian">Ріо-Негро</name>
+		<name normalized="rיv nגrv" languages="Hebrew">ריו נגרו</name>
+		<name normalized="rیو نgrو" languages="Persian">ریو نگرو</name>
+		<name normalized="რიო-ნეგრო" languages="Georgian">რიო-ნეგრო</name>
+		<name normalized="რიო-ნეგროს დეპარტამენტი" languages="Georgian">რიო-ნეგროს დეპარტამენტი</name>
+		<name normalized="ngr川" languages="Japanese">ネグロ川</name>
+		<name normalized="ro・ngr県" languages="Japanese">リオ・ネグロ県</name>
+		<name normalized="內格羅河" languages="Chinese">內格羅河</name>
+		<name normalized="内格罗河省" languages="Chinese">内格罗河省</name>
+		<name normalized="네그로 강" languages="Korean">네그로 강</name>
+	</region>
+	<region name="Rivera" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Rivera" languages="Catalan">Departament de Rivera</name>
+		<name normalized="Departamento de Rivera" languages="Galician;Spanish">Departamento de Rivera</name>
+		<name normalized="Departamento Rivera" languages="German">Departamento Rivera</name>
+		<name normalized="Departemen Rivera" languages="Indonesian">Departemen Rivera</name>
+		<name normalized="Dipartimento di Rivera" languages="Italian">Dipartimento di Rivera</name>
+		<name normalized="Rivera" languages="Catalan;Chavacano de Zamboanga;Danish;Dutch;English;Esperanto;Finnish;French;German;Italian;Lithuanian;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish;Vietnamese;Volapuk;Waray">Rivera</name>
+		<name normalized="Rivera departamendua" languages="Basque">Rivera departamendua</name>
+		<name normalized="Rivera Departamento" languages="English;official">Rivera Departamento</name>
+		<name normalized="Rivera Department" languages="English;official">Rivera Department</name>
+		<name normalized="Rivera megye" languages="Hungarian">Rivera megye</name>
+		<name normalized="Rivera suyu" languages="Quechua">Rivera suyu</name>
+		<name normalized="Riveros departamentas" languages="Lithuanian">Riveros departamentas</name>
+		<name normalized="Рiviрa" languages="Bulgarian;Russian">Ривера</name>
+		<name normalized="Рiviрa" languages="Ukrainian">Рівера</name>
+		<name normalized="rיbrh" languages="Hebrew">ריברה</name>
+		<name normalized="ryfyrא" languages="Arabic">ريفيرا</name>
+		<name normalized="rیوrא" languages="Persian">ریورا</name>
+		<name normalized="riberা" languages="Bengali">রিবেরা</name>
+		<name normalized="รีเบรา" languages="Thai">รีเบรา</name>
+		<name normalized="რივერის დეპარტამენტი" languages="Georgian">რივერის დეპარტამენტი</name>
+		<name normalized="rbr" languages="Japanese">リベラ</name>
+		<name normalized="rbr県" languages="Japanese">リベラ県</name>
+		<name normalized="里韦拉" languages="Chinese">里韦拉</name>
+		<name normalized="里韦拉省" languages="Chinese">里韦拉省</name>
+	</region>
+	<region name="Rocha" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Rocha" languages="Catalan">Departament de Rocha</name>
+		<name normalized="Departamento de Rocha" languages="Galician;Spanish">Departamento de Rocha</name>
+		<name normalized="Departamento Rocha" languages="German">Departamento Rocha</name>
+		<name normalized="Departemen Rocha" languages="Indonesian">Departemen Rocha</name>
+		<name normalized="Dipartimento di Rocha" languages="Italian">Dipartimento di Rocha</name>
+		<name normalized="Rocha" languages="Catalan;Chavacano de Zamboanga;Danish;Dutch;English;Esperanto;Finnish;French;Galician;German;Italian;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish;Vietnamese;Waray">Rocha</name>
+		<name normalized="Rocha Depairtment" languages="Scots">Rocha Depairtment</name>
+		<name normalized="Rocha departamendua" languages="Basque">Rocha departamendua</name>
+		<name normalized="Rocha Departamento" languages="English;official">Rocha Departamento</name>
+		<name normalized="Rocha Department" languages="English;official">Rocha Department</name>
+		<name normalized="Rocha megye" languages="Hungarian">Rocha megye</name>
+		<name normalized="Rocha suyu" languages="Quechua">Rocha suyu</name>
+		<name normalized="Roca" languages="Lithuanian">Roča</name>
+		<name normalized="Rocos departamentas" languages="Lithuanian">Ročos departamentas</name>
+		<name normalized="Рoca" languages="Bulgarian;Russian;Ukrainian">Роча</name>
+		<name normalized="rocা ডipাr্টmen্ট" languages="Bengali">রোচা ডিপার্টমেন্ট</name>
+		<name normalized="როჩის დეპარტამენტი" languages="Georgian">როჩის დეპარტამენტი</name>
+		<name normalized="rty" languages="Japanese">ロチャ</name>
+		<name normalized="rty県" languages="Japanese">ロチャ県</name>
+		<name normalized="罗恰省" languages="Chinese">罗恰省</name>
+		<name normalized="羅恰" languages="Chinese">羅恰</name>
+	</region>
+	<region name="Salto" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Salto" languages="Catalan">Departament de Salto</name>
+		<name normalized="Departamento de Salto" languages="Galician;Spanish">Departamento de Salto</name>
+		<name normalized="Departamento Salto" languages="German">Departamento Salto</name>
+		<name normalized="Departemen Salto" languages="Indonesian">Departemen Salto</name>
+		<name normalized="Departemento Salto" languages="Esperanto">Departemento Salto</name>
+		<name normalized="Dipartimento di Salto" languages="Italian">Dipartimento di Salto</name>
+		<name normalized="Saltas" languages="Lithuanian">Saltas</name>
+		<name normalized="Salto" languages="Catalan;Chavacano de Zamboanga;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Indonesian;Italian;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Scots;Spanish;Swedish;Vietnamese;Volapuk;Waray">Salto</name>
+		<name normalized="Salto Depairtment" languages="Scots">Salto Depairtment</name>
+		<name normalized="Salto departamendua" languages="Basque">Salto departamendua</name>
+		<name normalized="Salto departamentas" languages="Lithuanian">Salto departamentas</name>
+		<name normalized="Salto Departamento" languages="English;official">Salto Departamento</name>
+		<name normalized="Salto Department" languages="English;official">Salto Department</name>
+		<name normalized="Salto megye" languages="Hungarian">Salto megye</name>
+		<name normalized="Salto suyu" languages="Quechua">Salto suyu</name>
+		<name normalized="Сaлto" languages="Bulgarian">Салто</name>
+		<name normalized="Сaльto" languages="Russian;Ukrainian">Сальто</name>
+		<name normalized="סדtv" languages="Hebrew">סלטו</name>
+		<name normalized="سאلtو" languages="Arabic">سالتو</name>
+		<name normalized="سאلtو, אrوgوئh" languages="Persian">سالتو، اروگوئه</name>
+		<name normalized="sাlto" languages="Bengali">সালতো</name>
+		<name normalized="ซัลโต" languages="Thai">ซัลโต</name>
+		<name normalized="სალტოს დეპარტამენტი" languages="Georgian">სალტოს დეპარტამენტი</name>
+		<name normalized="srt" languages="Japanese">サルト</name>
+		<name normalized="srt県" languages="Japanese">サルト県</name>
+		<name normalized="萨尔托" languages="Chinese">萨尔托</name>
+		<name normalized="萨尔托省" languages="Chinese">萨尔托省</name>
+		<name normalized="살토" languages="Korean">살토</name>
+	</region>
+	<region name="San Jose" type="department" typeTranslated="departamento">
+		<name normalized="Departamant San Jose" languages="Breton">Departamant San José</name>
+		<name normalized="Departament de San Jose" languages="Catalan">Departament de San José</name>
+		<name normalized="Departamento de San Jose" languages="Galician;Spanish">Departamento de San José</name>
+		<name normalized="Departamento San Jose" languages="German">Departamento San José</name>
+		<name normalized="Departemen San Jose" languages="Indonesian">Departemen San José</name>
+		<name normalized="Dipartimento di San Jose" languages="Italian">Dipartimento di San José</name>
+		<name normalized="San Chose de Majas" languages="Lithuanian">San Chose de Majas</name>
+		<name normalized="San Choses departamentas" languages="Lithuanian">San Chosės departamentas</name>
+		<name normalized="San Jose" languages="Chavacano de Zamboanga;English;official">San Jose</name>
+		<name normalized="San Jose Departamento" languages="English;official">San Jose Departamento</name>
+		<name normalized="San Jose Department" languages="English;official">San Jose Department</name>
+		<name normalized="San Jose" languages="Danish;Dutch;Esperanto;Finnish;French;Northern Sami;Norwegian (bokmal);Polish;Portuguese;Swedish;Vietnamese;Waray">San José</name>
+		<name normalized="San Jose de Mayo" languages="Catalan;Danish;Dutch;English;Finnish;French;German;Italian;Norwegian (bokmal);Polish;Portuguese;Spanish;Volapuk;Waray">San José de Mayo</name>
+		<name normalized="San Jose Depairtment" languages="Scots">San José Depairtment</name>
+		<name normalized="San Jose departamendua" languages="Basque">San José departamendua</name>
+		<name normalized="San Jose Department" languages="English">San José Department</name>
+		<name normalized="San Jose megye" languages="Hungarian">San José megye</name>
+		<name normalized="San Jose suyu" languages="Quechua">San José suyu</name>
+		<name normalized="Сaн Koсi" languages="Bulgarian">Сан Хосе</name>
+		<name normalized="Сaн Koсi di Мaйo" languages="Bulgarian">Сан Хосе де Майо</name>
+		<name normalized="Сaн-Koсi" languages="Russian;Ukrainian">Сан-Хосе</name>
+		<name normalized="Сaн-Koсi-di-Мaйo" languages="Russian">Сан-Хосе-де-Майо</name>
+		<name normalized="سن خوزh د mאیو" languages="Persian">سن خوزه د مایو</name>
+		<name normalized="სან-ხოსეს დეპარტამენტი" languages="Georgian">სან-ხოსეს დეპარტამენტი</name>
+		<name normalized="sn・hs県" languages="Japanese">サン・ホセ県</name>
+		<name normalized="圣何塞省" languages="Chinese">圣何塞省</name>
+		<name normalized="聖何塞德馬約" languages="Chinese">聖何塞德馬約</name>
+	</region>
+	<region name="Soriano" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Soriano" languages="Catalan">Departament de Soriano</name>
+		<name normalized="Departamento de Soriano" languages="Galician;Spanish">Departamento de Soriano</name>
+		<name normalized="Departamento Soriano" languages="German">Departamento Soriano</name>
+		<name normalized="Departemen Soriano" languages="Indonesian">Departemen Soriano</name>
+		<name normalized="Dipartimento di Soriano" languages="Italian">Dipartimento di Soriano</name>
+		<name normalized="Soriano" languages="Danish;Dutch;English;Esperanto;Finnish;French;German;Italian;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish;Vietnamese;Waray">Soriano</name>
+		<name normalized="Soriano departamendua" languages="Basque">Soriano departamendua</name>
+		<name normalized="Soriano Departamento" languages="English;official">Soriano Departamento</name>
+		<name normalized="Soriano Department" languages="English;official">Soriano Department</name>
+		<name normalized="Soriano megye" languages="Hungarian">Soriano megye</name>
+		<name normalized="Soriano suyu" languages="Quechua">Soriano suyu</name>
+		<name normalized="Sorjano departamentas" languages="Lithuanian">Sorjano departamentas</name>
+		<name normalized="Сoрiaнo" languages="Bulgarian">Сориано</name>
+		<name normalized="Сoрьiнo" languages="Russian">Сорьяно</name>
+		<name normalized="Сoрiaнo" languages="Ukrainian">Соріано</name>
+		<name normalized="სორიანოს დეპარტამენტი" languages="Georgian">სორიანოს დეპარტამენტი</name>
+		<name normalized="sran県" languages="Japanese">ソリアノ県</name>
+		<name normalized="索里亚诺省" languages="Chinese">索里亚诺省</name>
+	</region>
+	<region name="Tacuarembo" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Tacuarembo" languages="Catalan">Departament de Tacuarembó</name>
+		<name normalized="Departamento de Tacuarembo" languages="Galician;Spanish">Departamento de Tacuarembó</name>
+		<name normalized="Departamento Tacuarembo" languages="German">Departamento Tacuarembó</name>
+		<name normalized="Departemen Tacuarembo" languages="Indonesian">Departemen Tacuarembó</name>
+		<name normalized="Dipartimento di Tacuarembo" languages="Italian">Dipartimento di Tacuarembó</name>
+		<name normalized="Tacuarembo" languages="English;Guarani;official">Tacuarembo</name>
+		<name normalized="Tacuarembo Departamento" languages="English;official">Tacuarembo Departamento</name>
+		<name normalized="Tacuarembo Department" languages="English;official">Tacuarembo Department</name>
+		<name normalized="Tacuarembo" languages="Catalan;Chavacano de Zamboanga;Danish;Dutch;English;Esperanto;Finnish;French;German;Italian;Luxembourgish;Northern Sami;Norwegian (bokmal);Polish;Portuguese;Quechua;Spanish;Swedish;Waray">Tacuarembó</name>
+		<name normalized="Tacuarembo departamendua" languages="Basque">Tacuarembó departamendua</name>
+		<name normalized="Tacuarembo Department" languages="English">Tacuarembó Department</name>
+		<name normalized="Tacuarembo megye" languages="Hungarian">Tacuarembó megye</name>
+		<name normalized="Tacuarembo suyu" languages="Quechua">Tacuarembó suyu</name>
+		<name normalized="Takuarembo" languages="Lithuanian">Takuarembo</name>
+		<name normalized="Takuarembo departamentas" languages="Lithuanian">Takuarembo departamentas</name>
+		<name normalized="Takuaрiмbo" languages="Bulgarian;Russian;Ukrainian">Такуарембо</name>
+		<name normalized="tאکوئאrmbو" languages="Persian">تاکوئارمبو</name>
+		<name normalized="ტაკუარემბოს დეპარტამენტი" languages="Georgian">ტაკუარემბოს დეპარტამენტი</name>
+		<name normalized="tkarnbー" languages="Japanese">タクアレンボー</name>
+		<name normalized="tkarnbー県" languages="Japanese">タクアレンボー県</name>
+		<name normalized="塔夸伦博" languages="Chinese">塔夸伦博</name>
+		<name normalized="塔夸伦博省" languages="Chinese">塔夸伦博省</name>
+		<name normalized="타쿠아렘보" languages="Korean">타쿠아렘보</name>
+	</region>
+	<region name="Treinta y Tres" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Treinta y Tres" languages="Catalan">Departament de Treinta y Tres</name>
+		<name normalized="Departamento de Treinta y Tres" languages="Galician;Spanish">Departamento de Treinta y Tres</name>
+		<name normalized="Departamento Treinta y Tres" languages="German">Departamento Treinta y Tres</name>
+		<name normalized="Departemen Treinta y Tres" languages="Indonesian">Departemen Treinta y Tres</name>
+		<name normalized="Dipartimento di Treinta y Tres" languages="Italian">Dipartimento di Treinta y Tres</name>
+		<name normalized="Treinta i Tresas" languages="Lithuanian">Treinta i Tresas</name>
+		<name normalized="Treinta i Treso departamentas" languages="Lithuanian">Treinta i Treso departamentas</name>
+		<name normalized="Treinta y Tres" languages="Catalan;Chavacano de Zamboanga;Danish;Dutch;English;Esperanto;Finnish;French;Galician;German;Italian;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish;Vietnamese;Waray">Treinta y Tres</name>
+		<name normalized="Treinta y Tres departamendua" languages="Basque">Treinta y Tres departamendua</name>
+		<name normalized="Treinta y Tres Departamento" languages="English;official">Treinta y Tres Departamento</name>
+		<name normalized="Treinta y Tres Department" languages="English;official">Treinta y Tres Department</name>
+		<name normalized="Treinta y Tres megye" languages="Hungarian">Treinta y Tres megye</name>
+		<name normalized="Treinta y Tres suyu" languages="Quechua">Treinta y Tres suyu</name>
+		<name normalized="Tрiйнta i Tрiс" languages="Bulgarian">Трейнта и Трес</name>
+		<name normalized="Tрiйнta-i-Tрiс" languages="Russian">Трейнта-и-Трес</name>
+		<name normalized="Tрiйнta-i-Tрiс" languages="Ukrainian">Трейнта-і-Трес</name>
+		<name normalized="trینtא و trس" languages="Persian">ترینتا و ترس</name>
+		<name normalized="ტრეინტა-ი-ტრესის დეპარტამენტი" languages="Georgian">ტრეინტა-ი-ტრესის დეპარტამენტი</name>
+		<name normalized="trint・i・trs" languages="Japanese">トレインタ・イ・トレス</name>
+		<name normalized="trint・i・trs県" languages="Japanese">トレインタ・イ・トレス県</name>
+		<name normalized="三十三人城" languages="Chinese">三十三人城</name>
+		<name normalized="三十三人省" languages="Chinese">三十三人省</name>
+		<name normalized="트레인타 이 트레스" languages="Korean">트레인타 이 트레스</name>
+	</region>
+</regions>

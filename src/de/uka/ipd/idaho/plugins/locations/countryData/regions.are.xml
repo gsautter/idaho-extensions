@@ -1,0 +1,235 @@
+<regions country="United Arab Emirates">
+	<region name="'Ajman" type="emirate" typeTranslated="imarah">
+		<name normalized="'Ajman" languages="English;official">'Ajman</name>
+		<name normalized="Acman" languages="Turkish">Acman</name>
+		<name normalized="Adj.man" languages="Franco-Provencal">Adj·man</name>
+		<name normalized="Adschman" languages="German;Luxembourgish">Adschman</name>
+		<name normalized="Adsman" languages="Icelandic">Adsman</name>
+		<name normalized="Adzman" languages="Polish">Adżman</name>
+		<name normalized="Adzmanas" languages="Lithuanian">Adžmanas</name>
+		<name normalized="Adzman" languages="Czech">Adžmán</name>
+		<name normalized="Ajman" languages="Basque;Breton;Catalan;Croatian;Danish;Dutch;English;Finnish;French;Indonesian;Italian;lumbaart;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Old English;Piedmontese;Portuguese;Romanian;Swedish;Vietnamese;Yoruba">Ajman</name>
+		<name normalized="Ajman" languages="Spanish">Ajmán</name>
+		<name normalized="Ajmano" languages="Esperanto">Aĵmano</name>
+		<name normalized="Adzмaн" languages="Bulgarian;Kazakh;Russian;Ukrainian">Аджман</name>
+		<name normalized="Adzмaн" languages="Serbian">Аџман</name>
+		<name normalized="Eмiрt Azмaн" languages="Mongolian">Эмирт Ажман</name>
+		<name normalized="Eмiрat Adzмaн" languages="Belarusian">Эмірат Аджман</name>
+		<name normalized="Աjmանի Emիrvytյvyն" languages="Armenian">Աջմանի Էմիրություն</name>
+		<name normalized="עג'מאן" languages="Hebrew">עג'מאן</name>
+		<name normalized="عjmאن" languages="Arabic;Persian;Urdu;Western Punjabi">عجمان</name>
+		<name normalized="ajmाn" languages="Hindi;Marathi">अजमान</name>
+		<name normalized="அஜ்மான்" languages="Tamil">அஜ்மான்</name>
+		<name normalized="അജ്‌മാൻ" languages="Malayalam">അജ്‌മാൻ</name>
+		<name normalized="รัฐอัจมาน" languages="Thai">รัฐอัจมาน</name>
+		<name normalized="'Ajmani emiraat" languages="Estonian">‘Ajmāni emiraat</name>
+		<name normalized="azymーn" languages="Japanese">アジュマーン</name>
+		<name normalized="阿吉曼" languages="Chinese">阿吉曼</name>
+		<name normalized="아지만" languages="Korean">아지만</name>
+	</region>
+	<region name="Abu Zaby" type="emirate" typeTranslated="imarah">
+		<name normalized="Aboe Dhabi" languages="Afrikaans">Aboe Dhabi</name>
+		<name normalized="Abou Dabi" languages="Franco-Provencal;French;Haitian">Abou Dabi</name>
+		<name normalized="Abu Dabi" languages="Albanian;Galician;Novial;Serbo-Croatian;Slovenian;Spanish;Turkish;Veps">Abu Dabi</name>
+		<name normalized="Abu Dabis" languages="Lithuanian;Samogitian">Abu Dabis</name>
+		<name normalized="Abu Dhabi" languages="Achinese;Banjar;Basque;Bikol Central;Bosnian;Breton;Catalan;Chinese (Min Nan);Croatian;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;German;Ido;Indonesian;Interlingue;Italian;Javanese;Kalaallisut;Latin;lumbaart;Luxembourgish;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Old English;Piedmontese;Portuguese;Romanian;Scots;Scottish Gaelic;Shona;Sicilian;Simple English;Swahili;Swedish;Tagalog;Vietnamese;Voro;Waray;Welsh;Yoruba">Abu Dhabi</name>
+		<name normalized="Abu Zabi" languages="Polish">Abu Zabi</name>
+		<name normalized="Abu Zaby" languages="English;official">Abu Zaby</name>
+		<name normalized="Abu Dabi" languages="Kabyle">Abu Ḍabi</name>
+		<name normalized="Abu-Dabi" languages="Uzbek">Abu-Dabi</name>
+		<name normalized="Abu-Dabio" languages="Esperanto">Abu-Dabio</name>
+		<name normalized="Abu-Dzabi" languages="Hungarian">Abu-Dzabi</name>
+		<name normalized="Abu Dabi" languages="Icelandic">Abú Dabí</name>
+		<name normalized="Abu Daibi" languages="Irish">Abú Daibí</name>
+		<name normalized="Abu Dhabi" languages="Czech">Abú Dhabí</name>
+		<name normalized="Abu Zabi" languages="Slovak">Abú Zabí</name>
+		<name normalized="Abu Daby" languages="Western Frisian">Abû Daby</name>
+		<name normalized="Abu Dabi" languages="Latvian">Abū Dabī</name>
+		<name normalized="Abu Saby" languages="Volapuk">Äbu Saby</name>
+		<name normalized="Əbu-Dabi" languages="Azerbaijani">Əbu-Dabi</name>
+		<name normalized="Αμποu Νταμπι" languages="Greek">Αμπού Ντάμπι</name>
+		<name normalized="Abu Dabi" languages="Bulgarian;Macedonian;Sakha;Serbian;Tajik">Абу Даби</name>
+		<name normalized="Abu Dabi" languages="biлaрuсkai (taрaskivita)‎">Абу Дабі</name>
+		<name normalized="Abu-Dabi" languages="Chechen;Kazakh;Ossetic;Russian">Абу-Даби</name>
+		<name normalized="Abu-Dabi kot" languages="Mongolian">Абу-Даби хот</name>
+		<name normalized="Abu-Dabi" languages="Ukrainian">Абу-Дабі</name>
+		<name normalized="Goрad Abu-Dabi" languages="Belarusian">Горад Абу-Дабі</name>
+		<name normalized="Əbү-Dəbi səһəрi" languages="Tatar">Әбү-Дәби шәһәре</name>
+		<name normalized="Աbvy Dաbի" languages="Armenian">Աբու Դաբի</name>
+		<name normalized="אbv דאbי" languages="Hebrew">אבו דאבי</name>
+		<name normalized="أbوzby" languages="Arabic">أبوظبي</name>
+		<name normalized="ئەbووزەbی" languages="Sorani Kurdish">ئەبووزەبی</name>
+		<name normalized="אbوzbی" languages="Persian">ابوظبی</name>
+		<name normalized="אbوzہbی" languages="Urdu;Western Punjabi">ابوظہبی</name>
+		<name normalized="abu dाbi" languages="Marathi">अबु धाबी</name>
+		<name normalized="abu dाbi" languages="Hindi">अबू धाबी</name>
+		<name normalized="abudাbi" languages="Bengali">আবুধাবি</name>
+		<name normalized="abu dਾbi" languages="Punjabi">ਅਬੂ ਧਾਬੀ</name>
+		<name normalized="ଆବୁଧାବି" languages="Oriya">ଆବୁଧାବି</name>
+		<name normalized="அபுதாபி" languages="Tamil">அபுதாபி</name>
+		<name normalized="ಅಬು ಧಾಬಿ" languages="Kannada">ಅಬು ಧಾಬಿ</name>
+		<name normalized="അബുദാബി" languages="Malayalam">അബുദാബി</name>
+		<name normalized="අබුඩාබි" languages="Sinhala">අබුඩාබි</name>
+		<name normalized="อาบูดาบี" languages="Thai">อาบูดาบี</name>
+		<name normalized="ཨ་པོའུ་དྷ་པེ།" languages="Tibetan">ཨ་པོའུ་དྷ་པེ།</name>
+		<name normalized="အဘူဒါဘီမြို့" languages="Burmese">အဘူဒါဘီမြို့</name>
+		<name normalized="აბუ-ზაბი" languages="Georgian">აბუ-ზაბი</name>
+		<name normalized="አቡ ዳቢ" languages="Amharic">አቡ ዳቢ</name>
+		<name normalized="abdb" languages="Japanese">アブダビ</name>
+		<name normalized="阿布扎比" languages="Cantonese;Chinese">阿布扎比</name>
+		<name normalized="아부다비" languages="Korean">아부다비</name>
+	</region>
+	<region name="Al Fujayrah" type="emirate" typeTranslated="imarah">
+		<name normalized="Al Fujayrah" languages="English;official;Portuguese">Al Fujayrah</name>
+		<name normalized="Al-Fujayrah' emiraat" languages="Estonian">Al-Fujayrah' emiraat</name>
+		<name normalized="Fudschaira" languages="German;Luxembourgish">Fudschaira</name>
+		<name normalized="Fudzajra" languages="Polish">Fudżajra</name>
+		<name normalized="Fudzajra" languages="Czech">Fudžajra</name>
+		<name normalized="Fudzeira" languages="Lithuanian">Fudžeira</name>
+		<name normalized="Fuijaira" languages="Finnish">Fuijaira</name>
+		<name normalized="Fujaira" languages="Basque;Italian">Fujaira</name>
+		<name normalized="Fujairah" languages="Catalan;Croatian;Danish;Dutch;English;Indonesian;Norwegian (bokmal);Norwegian Nynorsk;Occitan;Old English;Piedmontese;Romanian;Swedish;Tagalog;Vietnamese;Yoruba">Fujairah</name>
+		<name normalized="Fujayrah" languages="Breton">Fujayrah</name>
+		<name normalized="Fujairah" languages="French">Fujaïrah</name>
+		<name normalized="Fuyaira" languages="Spanish">Fuyaira</name>
+		<name normalized="Fujajro" languages="Esperanto">Fuĵajro</name>
+		<name normalized="Fuceyre" languages="Turkish">Füceyre</name>
+		<name normalized="Фudziйрa" languages="Bulgarian;Ukrainian">Фуджейра</name>
+		<name normalized="Фudzijрa" languages="Serbian">Фуџејра</name>
+		<name normalized="Eль-Фudzaйрa" languages="Russian">Эль-Фуджайра</name>
+		<name normalized="Eмiрat Eль-Фudzaйрa" languages="Belarusian">Эмірат Эль-Фуджайра</name>
+		<name normalized="Fvyjեյrայի Emիrvytյvyն" languages="Armenian">Ֆուջեյրայի Էմիրություն</name>
+		<name normalized="pvג'ייrh" languages="Hebrew">פוג'יירה</name>
+		<name normalized="אلfjyrة" languages="Arabic">الفجيرة</name>
+		<name normalized="fjیrh" languages="Persian">فجیره</name>
+		<name normalized="fjیrہ" languages="Urdu;Western Punjabi">فجیرہ</name>
+		<name normalized="p़ujarा" languages="Hindi">फ़ुजैरा</name>
+		<name normalized="pujarा" languages="Marathi">फुजैरा</name>
+		<name normalized="புஜைரா" languages="Tamil">புஜைரா</name>
+		<name normalized="ഫുജൈറ" languages="Malayalam">ഫുജൈറ</name>
+		<name normalized="รัฐฟูไจราห์" languages="Thai">รัฐฟูไจราห์</name>
+		<name normalized="hzyir" languages="Japanese">フジャイラ</name>
+		<name normalized="富吉拉" languages="Chinese">富吉拉</name>
+		<name normalized="푸자이라" languages="Korean">푸자이라</name>
+	</region>
+	<region name="Ash Shariqah" type="emirate" typeTranslated="imarah">
+		<name normalized="Ash Shariqah" languages="English;official">Ash Shariqah</name>
+		<name normalized="Charjah" languages="French">Charjah</name>
+		<name normalized="Sharjah" languages="Dutch;English;Italian;official;Scots">Sharjah</name>
+		<name normalized="Szardza" languages="Polish">Szardża</name>
+		<name normalized="Saрdza" languages="Russian;Ukrainian">Шарджа</name>
+	</region>
+	<region name="Dubayy" type="emirate" typeTranslated="imarah">
+		<name normalized="Doubayi" languages="Franco-Provencal">Doubayi</name>
+		<name normalized="Dubai" languages="Achinese;Albanian;Aragonese;Asturian;Basque;Bikol Central;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Danish;Dutch;English;Extremaduran;Fiji Hindi;Finnish;Galician;German;Ido;Iloko;Indonesian;Irish;Italian;Kalaallisut;Latin;lumbaart;Luxembourgish;Malay;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Old English;Piedmontese;Portuguese;Romanian;Scots;Serbo-Croatian;Sicilian;Simple English;Swahili;Swedish;Tagalog;tarandine;Turkish;Vietnamese;Waray;Welsh;Western Frisian;Yoruba;Zazaki">Dubai</name>
+		<name normalized="Dubai emiraat" languages="Estonian">Dubai emiraat</name>
+		<name normalized="Dubaija" languages="Latvian">Dubaija</name>
+		<name normalized="Dubaj" languages="Czech;Hungarian;Polish;Slovenian">Dubaj</name>
+		<name normalized="Dubajo" languages="Esperanto">Dubajo</name>
+		<name normalized="Dubajos" languages="Samogitian">Dubajos</name>
+		<name normalized="Dubajus" languages="Lithuanian">Dubajus</name>
+		<name normalized="Dubay" languages="Azerbaijani;Somali;Uzbek">Dubay</name>
+		<name normalized="Dubayy" languages="English;official">Dubayy</name>
+		<name normalized="Dubai" languages="French">Dubaï</name>
+		<name normalized="Dubay" languages="Turkmen">Dubaý</name>
+		<name normalized="Dubai" languages="Spanish">Dubái</name>
+		<name normalized="Dubae" languages="Icelandic">Dúbæ</name>
+		<name normalized="Nduvai" languages="Guarani">Nduvái</name>
+		<name normalized="Ντουμπαι" languages="Greek">Ντουμπάι</name>
+		<name normalized="Dubai" languages="Macedonian;Serbian">Дубаи</name>
+		<name normalized="Dubaй" languages="Bulgarian;Kazakh;Kyrgyz;Ossetic;Russian;Rusyn;Sakha;Ukrainian;biлaрuсkai (taрaskivita)‎">Дубай</name>
+		<name normalized="Eмiрat Dubaй" languages="Belarusian">Эмірат Дубай</name>
+		<name normalized="Dvybայի Emիrvytյvyն" languages="Armenian">Դուբայի Էմիրություն</name>
+		<name normalized="דvbאי" languages="Hebrew">דובאי</name>
+		<name normalized="דvbיי" languages="Yiddish">דוביי</name>
+		<name normalized="إmאrة دby" languages="Arabic">إمارة دبي</name>
+		<name normalized="دbئی" languages="Urdu;Western Punjabi">دبئی</name>
+		<name normalized="دbى" languages="Egyptian Spoken Arabic">دبى</name>
+		<name normalized="دbی, אmאrאt" languages="Persian">دبی، امارات</name>
+		<name normalized="دbۍ" languages="Pashto">دبۍ</name>
+		<name normalized="دوbەی" languages="Sorani Kurdish">دوبەی</name>
+		<name normalized="دۇbאئى" languages="Uyghur">دۇبائى</name>
+		<name normalized="dubi" languages="Hindi;Marathi">दुबई</name>
+		<name normalized="dubাi" languages="Bengali">দুবাই</name>
+		<name normalized="dubi" languages="Punjabi">ਦੁਬਈ</name>
+		<name normalized="துபாய்" languages="Tamil">துபாய்</name>
+		<name normalized="దుబాయ్" languages="Telugu">దుబాయ్</name>
+		<name normalized="ದುಬೈ" languages="Kannada">ದುಬೈ</name>
+		<name normalized="ദുബായ്" languages="Malayalam">ദുബായ്</name>
+		<name normalized="ඩුබායි" languages="Sinhala">ඩුබායි</name>
+		<name normalized="ดูไบ" languages="Thai">ดูไบ</name>
+		<name normalized="ဒူဘိုင်းမြို့" languages="Burmese">ဒူဘိုင်းမြို့</name>
+		<name normalized="დუბაის საამირო" languages="Georgian">დუბაის საამირო</name>
+		<name normalized="dbi" languages="Japanese">ドバイ</name>
+		<name normalized="杜拜" languages="Cantonese;Chinese">杜拜</name>
+		<name normalized="迪拜" languages="Wu">迪拜</name>
+		<name normalized="두바이" languages="Korean">두바이</name>
+	</region>
+	<region name="Ra's al Khaymah" type="emirate" typeTranslated="imarah">
+		<name normalized="Ra's al Khaymah" languages="English;official">Ra's al Khaymah</name>
+		<name normalized="Ra's al-Khaymah' emiraat" languages="Estonian">Ra's al-Khaymah' emiraat</name>
+		<name normalized="Ras al Chaima" languages="Lithuanian;Luxembourgish">Ras al Chaima</name>
+		<name normalized="Ras al Khaimah" languages="Yoruba">Ras al Khaimah</name>
+		<name normalized="Ras al Khaymah" languages="English;official">Ras al Khaymah</name>
+		<name normalized="Ras al-Chajma" languages="Polish">Ras al-Chajma</name>
+		<name normalized="Ras al-Jaima" languages="Spanish">Ras al-Jaima</name>
+		<name normalized="Ras al-Khaima" languages="Basque;Italian">Ras al-Khaima</name>
+		<name normalized="Ras al-Khaimah" languages="Breton;Catalan;Croatian;Danish;Dutch;English;Indonesian;lumbaart;Malay;Norwegian (bokmal);Norwegian Nynorsk;Old English;Piedmontese;Portuguese;Romanian;Scots;Swahili;Swedish;Tagalog;Vietnamese">Ras al-Khaimah</name>
+		<name normalized="Ras el Khaimah" languages="French">Ras el Khaïmah</name>
+		<name normalized="Ras-al-Hajmo" languages="Esperanto">Ras-al-Ĥajmo</name>
+		<name normalized="Ra's al-Chaima" languages="German">Ra’s al-Chaima</name>
+		<name normalized="Ra's al-Khaima" languages="Finnish">Ra’s al-Khaima</name>
+		<name normalized="Resu'l-Hayme" languages="Turkish">Resü'l-Hayme</name>
+		<name normalized="Ras al-Chajma" languages="Czech">Rás al-Chajma</name>
+		<name normalized="Ras al-Chajma" languages="Slovak">Rás al-Chajmá</name>
+		<name normalized="Rasz el-Haima" languages="Hungarian">Rász el-Haima</name>
+		<name normalized="Рaс aл-Kaйм" languages="Bulgarian">Рас ал-Хайм</name>
+		<name normalized="Рaс-iль-Kaймa" languages="Ukrainian">Рас-ель-Хайма</name>
+		<name normalized="Рaс-eль-Kaймa" languages="Russian">Рас-эль-Хайма</name>
+		<name normalized="Eмiрat Рaс-eль-Kaймa" languages="Belarusian">Эмірат Рас-эль-Хайма</name>
+		<name normalized="Rաs-աl-Xայmայի emիrvytյvyն" languages="Armenian">Ռաս-ալ-Խայմայի էմիրություն</name>
+		<name normalized="rאס אד-h'ימh" languages="Hebrew">ראס אל-ח'ימה</name>
+		<name normalized="rأس אلخymة" languages="Arabic">رأس الخيمة</name>
+		<name normalized="rأس‌אلخیmh" languages="Persian">رأس‌الخیمه</name>
+		<name normalized="rאس אلخیmہ" languages="Urdu;Western Punjabi">راس الخیمہ</name>
+		<name normalized="rs al kamा" languages="Hindi">रस अल खैमा</name>
+		<name normalized="ரஃஸ் அல்-கைமா" languages="Tamil">ரஃஸ் அல்-கைமா</name>
+		<name normalized="รัฐราสอัลไคมาห์" languages="Thai">รัฐราสอัลไคมาห์</name>
+		<name normalized="ras・ar=him" languages="Japanese">ラアス・アル＝ハイマ</name>
+		<name normalized="拉斯海玛" languages="Chinese">拉斯海玛</name>
+		<name normalized="라스알카이마" languages="Korean">라스알카이마</name>
+	</region>
+	<region name="Umm al Qaywayn" type="emirate" typeTranslated="imarah">
+		<name normalized="Oumm al Qaiwain" languages="French">Oumm al Qaïwaïn</name>
+		<name normalized="Um al Kuvainas" languages="Lithuanian">Um al Kuvainas</name>
+		<name normalized="Um Al Quwain" languages="Yoruba">Um Al Quwain</name>
+		<name normalized="Um-al-Kajvajno" languages="Esperanto">Um-al-Kajvajno</name>
+		<name normalized="Umm al Kaiwan" languages="Luxembourgish">Umm al Kaiwan</name>
+		<name normalized="Umm al Qaywayn" languages="English;official;Portuguese">Umm al Qaywayn</name>
+		<name normalized="Umm Al Quwain" languages="Danish;Old English">Umm Al Quwain</name>
+		<name normalized="Umm al-Kajwajn" languages="Polish">Umm al-Kajwajn</name>
+		<name normalized="Umm al-Kuvajn" languages="Czech">Umm al-Kuvajn</name>
+		<name normalized="Umm al-Qaiwain" languages="Basque;Catalan;Dutch;Finnish;German;Indonesian;Malay;Norwegian (bokmal);Norwegian Nynorsk;Romanian;Tagalog">Umm al-Qaiwain</name>
+		<name normalized="Umm al-Qaywayn" languages="Breton;Italian;Spanish;Swedish">Umm al-Qaywayn</name>
+		<name normalized="Umm al-Qaywayni emiraat" languages="Estonian">Umm al-Qaywayni emiraat</name>
+		<name normalized="Umm al-Quwain" languages="Croatian;English;lumbaart;Piedmontese;Swahili;Vietnamese">Umm al-Quwain</name>
+		<name normalized="Ummul-Kayveyn Emirligi" languages="Turkish">Ummül-Kayveyn Emirliği</name>
+		<name normalized="Uм aл-Kuiйн" languages="Bulgarian">Ум ал-Куейн</name>
+		<name normalized="Uмм-iль-Kuviйн" languages="Ukrainian">Умм-ель-Кувейн</name>
+		<name normalized="Uмм-eль-Kaйvaйн" languages="Russian">Умм-эль-Кайвайн</name>
+		<name normalized="Eмiрat Uм-eль-Kaйvaйн" languages="Belarusian">Эмірат Ум-эль-Кайвайн</name>
+		<name normalized="Vymm-աl-Kvyվեյն" languages="Armenian">Ումմ-ալ-Քուվեյն</name>
+		<name normalized="אvם אד-qיvין" languages="Hebrew">אום אל-קיוין</name>
+		<name normalized="أm אلqyوyن" languages="Arabic">أم القيوين</name>
+		<name normalized="אm אلqوین" languages="Urdu;Western Punjabi">ام القوین</name>
+		<name normalized="אm‌אلqوین" languages="Persian">ام‌القوین</name>
+		<name normalized="um al k्van" languages="Hindi">उम अल क्वैन</name>
+		<name normalized="um al-kuvan" languages="Marathi">उम अल-कुवैन</name>
+		<name normalized="உம் அல்-குவைன்" languages="Tamil">உம் அல்-குவைன்</name>
+		<name normalized="ഉം അല്‍ കുവൈന്‍" languages="Malayalam">ഉം അല്‍ കുവൈന്‍</name>
+		<name normalized="รัฐอุมม์อัลไกไวน์" languages="Thai">รัฐอุมม์อัลไกไวน์</name>
+		<name normalized="unm・ar=kiwin" languages="Japanese">ウンム・アル＝カイワイン</name>
+		<name normalized="欧姆古温" languages="Chinese">欧姆古温</name>
+		<name normalized="움알쿠와인" languages="Korean">움알쿠와인</name>
+	</region>
+</regions>

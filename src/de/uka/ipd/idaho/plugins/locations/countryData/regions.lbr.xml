@@ -1,0 +1,205 @@
+<regions country="Liberia">
+	<region name="Bomi" type="county" typeTranslated="county">
+		<name normalized="Bomi" languages="Basque;Breton;Dutch;English;Finnish;French;Galician;German;Norwegian (bokmal);official;Portuguese;Spanish">Bomi</name>
+		<name normalized="Bomi County" languages="English;German;official">Bomi County</name>
+		<name normalized="Bomi maakond" languages="Estonian">Bomi maakond</name>
+		<name normalized="Comte de Bomi" languages="French">Comté de Bomi</name>
+		<name normalized="Condado de Bomi" languages="Galician">Condado de Bomi</name>
+		<name normalized="Contea di Bomi" languages="Italian">Contea di Bomi</name>
+		<name normalized="Hrabstwo Bomi" languages="Polish">Hrabstwo Bomi</name>
+		<name normalized="Boмi" languages="Bulgarian;Russian">Боми</name>
+		<name normalized="Boмi" languages="Belarusian;Ukrainian;biлaрuсkai (taрaskivita)‎">Бомі</name>
+		<name normalized="Viлoiti Boмi" languages="Tajik">Вилояти Боми</name>
+		<name normalized="bm郡" languages="Japanese">ボミ郡</name>
+		<name normalized="伯米县" languages="Chinese">伯米县</name>
+		<name normalized="보미" languages="Korean">보미</name>
+		<name normalized="보미 주" languages="Korean">보미 주</name>
+	</region>
+	<region name="Bong" type="county" typeTranslated="county">
+		<name normalized="Bong" languages="Basque;Breton;Catalan;Dutch;English;Finnish;Norwegian (bokmal);official;Portuguese;Spanish">Bong</name>
+		<name normalized="Bong County" languages="English;German;official">Bong County</name>
+		<name normalized="Comte de Bong" languages="French">Comté de Bong</name>
+		<name normalized="Contea di Bong" languages="Italian">Contea di Bong</name>
+		<name normalized="Hrabstwo Bong" languages="Polish">Hrabstwo Bong</name>
+		<name normalized="Boнg" languages="Belarusian;Bulgarian;Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Бонг</name>
+		<name normalized="bn郡" languages="Japanese">ボン郡</name>
+		<name normalized="邦县" languages="Chinese">邦县</name>
+		<name normalized="봉 주" languages="Korean">봉 주</name>
+	</region>
+	<region name="Gbarpolu" type="county" typeTranslated="county">
+		<name normalized="Comte de Gbarpolu" languages="French">Comté de Gbarpolu</name>
+		<name normalized="Contea di Gbarpolu" languages="Italian">Contea di Gbarpolu</name>
+		<name normalized="Gbarpolu" languages="Basque;Breton;Dutch;English;Finnish;Norwegian (bokmal);official;Portuguese;Spanish">Gbarpolu</name>
+		<name normalized="Gbarpolu County" languages="English;German;official">Gbarpolu County</name>
+		<name normalized="Hrabstwo Gbarpolu" languages="Polish">Hrabstwo Gbarpolu</name>
+		<name normalized="Gbaрpaлu" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Гбарпалу</name>
+		<name normalized="Gbaрpoлu" languages="Bulgarian;Russian;Ukrainian">Гбарполу</name>
+		<name normalized="brpr郡" languages="Japanese">バルポル郡</name>
+		<name normalized="巴波卢县" languages="Chinese">巴波卢县</name>
+		<name normalized="바르폴루 주" languages="Korean">바르폴루 주</name>
+	</region>
+	<region name="Grand Bassa" type="county" typeTranslated="county">
+		<name normalized="Comte de Grand Bassa" languages="French">Comté de Grand Bassa</name>
+		<name normalized="Contea di Grand Bassa" languages="Italian">Contea di Grand Bassa</name>
+		<name normalized="Grand Bassa" languages="Basque;Breton;Dutch;English;Norwegian (bokmal);official;Polish;Portuguese;Spanish">Grand Bassa</name>
+		<name normalized="Grand Bassa County" languages="English;German;official">Grand Bassa County</name>
+		<name normalized="Gрaнd Baсa" languages="Bulgarian">Гранд Баса</name>
+		<name normalized="Gрaнd-Baсa" languages="Belarusian;Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Гранд-Баса</name>
+		<name normalized="grndbts郡" languages="Japanese">グランドバッサ郡</name>
+		<name normalized="大巴萨县" languages="Chinese">大巴萨县</name>
+		<name normalized="그랜드 바사 주" languages="Korean">그랜드 바사 주</name>
+	</region>
+	<region name="Grand Cape Mount" type="county" typeTranslated="county">
+		<name normalized="Comte de Grand Cape Mount" languages="French">Comté de Grand Cape Mount</name>
+		<name normalized="Contea di Grand Cape Mount" languages="Italian">Contea di Grand Cape Mount</name>
+		<name normalized="Grand Cape Mount" languages="Basque;Breton;Dutch;English;Norwegian (bokmal);official;Portuguese;Spanish">Grand Cape Mount</name>
+		<name normalized="Grand Cape Mount County" languages="English;German;official">Grand Cape Mount County</name>
+		<name normalized="Hrabstwo Grand Cape Mount" languages="Polish">Hrabstwo Grand Cape Mount</name>
+		<name normalized="Gрaнd Kiйp Мauнt" languages="Bulgarian">Гранд Кейп Маунт</name>
+		<name normalized="Gрaнd-Kiйp-Мauнt" languages="Russian;Ukrainian">Гранд-Кейп-Маунт</name>
+		<name normalized="Gрaнd-Kiйp-Мaўнt" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Гранд-Кейп-Маўнт</name>
+		<name normalized="grndkーpmunt郡" languages="Japanese">グランドケープマウント郡</name>
+		<name normalized="大角山县" languages="Chinese">大角山县</name>
+		<name normalized="그랜드 케이프 마운트 주" languages="Korean">그랜드 케이프 마운트 주</name>
+	</region>
+	<region name="Grand Gedeh" type="county" typeTranslated="county">
+		<name normalized="Comte de Grand Gedeh" languages="French">Comté de Grand Gedeh</name>
+		<name normalized="Contea di Grand Gedeh" languages="Italian">Contea di Grand Gedeh</name>
+		<name normalized="Grand Gedeh" languages="Basque;Breton;Dutch;English;Norwegian (bokmal);official;Polish;Portuguese;Spanish">Grand Gedeh</name>
+		<name normalized="Grand Gedeh County" languages="English;German;official">Grand Gedeh County</name>
+		<name normalized="Gрaнd Gidik" languages="Bulgarian">Гранд Гедех</name>
+		<name normalized="Gрaнd-Gidi" languages="Russian;Ukrainian">Гранд-Геде</name>
+		<name normalized="Gрaнd-Gide" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Гранд-Гедэ</name>
+		<name normalized="grndgd郡" languages="Japanese">グランドゲデ郡</name>
+		<name normalized="大各德县" languages="Chinese">大各德县</name>
+		<name normalized="그랜드 게데 주" languages="Korean">그랜드 게데 주</name>
+	</region>
+	<region name="Grand Kru" type="county" typeTranslated="county">
+		<name normalized="Comte de Grand Kru" languages="French">Comté de Grand Kru</name>
+		<name normalized="Contea di Grand Kru" languages="Italian">Contea di Grand Kru</name>
+		<name normalized="Grand Kru" languages="Basque;Breton;Dutch;English;Norwegian (bokmal);official;Portuguese;Spanish">Grand Kru</name>
+		<name normalized="Grand Kru County" languages="English;German;official">Grand Kru County</name>
+		<name normalized="Hrabstwo Grand Kru" languages="Polish">Hrabstwo Grand Kru</name>
+		<name normalized="Gрaнd Kрu" languages="Bulgarian">Гранд Кру</name>
+		<name normalized="Gрaнd-Kрu" languages="Belarusian;Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Гранд-Кру</name>
+		<name normalized="grndkr郡" languages="Japanese">グランドクル郡</name>
+		<name normalized="大克鲁县" languages="Chinese">大克鲁县</name>
+		<name normalized="그랜드 크루 주" languages="Korean">그랜드 크루 주</name>
+	</region>
+	<region name="Lofa" type="county" typeTranslated="county">
+		<name normalized="Comte de Lofa" languages="French">Comté de Lofa</name>
+		<name normalized="Contea di Lofa" languages="Italian">Contea di Lofa</name>
+		<name normalized="Hrabstwo Lofa" languages="Polish">Hrabstwo Lofa</name>
+		<name normalized="Lofa" languages="Basque;Breton;Dutch;English;Finnish;Norwegian (bokmal);official;Portuguese;Spanish">Lofa</name>
+		<name normalized="Lofa County" languages="English;German;official">Lofa County</name>
+		<name normalized="Лoфa" languages="Belarusian;Bulgarian;Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Лофа</name>
+		<name normalized="rha郡" languages="Japanese">ロファ郡</name>
+		<name normalized="洛法县" languages="Chinese">洛法县</name>
+		<name normalized="로파 주" languages="Korean">로파 주</name>
+	</region>
+	<region name="Margibi" type="county" typeTranslated="county">
+		<name normalized="Comte de Margibi" languages="French">Comté de Margibi</name>
+		<name normalized="Contea di Margibi" languages="Italian">Contea di Margibi</name>
+		<name normalized="Hrabstwo Margibi" languages="Polish">Hrabstwo Margibi</name>
+		<name normalized="Margibi" languages="Basque;Breton;Dutch;English;Norwegian (bokmal);official;Portuguese;Spanish">Margibi</name>
+		<name normalized="Margibi County" languages="English;German;official">Margibi County</name>
+		<name normalized="Мaрgibi" languages="Bulgarian;Russian">Маргиби</name>
+		<name normalized="Мaрgibi" languages="Belarusian;Ukrainian;biлaрuсkai (taрaskivita)‎">Маргібі</name>
+		<name normalized="mーzb郡" languages="Japanese">マージビ郡</name>
+		<name normalized="马及比县" languages="Chinese">马及比县</name>
+		<name normalized="마르지비 주" languages="Korean">마르지비 주</name>
+	</region>
+	<region name="Maryland" type="county" typeTranslated="county">
+		<name normalized="Comte de Maryland" languages="French">Comté de Maryland</name>
+		<name normalized="Condado de Maryland" languages="Spanish">Condado de Maryland</name>
+		<name normalized="Contea di Maryland" languages="Italian">Contea di Maryland</name>
+		<name normalized="Hrabstwo Maryland" languages="Polish">Hrabstwo Maryland</name>
+		<name normalized="Maryland" languages="Basque;Breton;Dutch;English;Finnish;Norwegian (bokmal);official;Portuguese">Maryland</name>
+		<name normalized="Maryland County" languages="English;German;official">Maryland County</name>
+		<name normalized="Akрuga Мeрылiнd" languages="Belarusian">Акруга Мэрыленд</name>
+		<name normalized="Мiрiлiнd" languages="Bulgarian">Мериленд</name>
+		<name normalized="Мiрiлiнd" languages="Ukrainian">Меріленд</name>
+		<name normalized="Мeрiлiнd" languages="Russian">Мэриленд</name>
+		<name normalized="Мeрылeнd" languages="biлaрuсkai (taрaskivita)‎">Мэрылэнд</name>
+		<name normalized="mrーrnd郡" languages="Japanese">メリーランド郡</name>
+		<name normalized="馬里蘭縣" languages="Chinese">馬里蘭縣</name>
+		<name normalized="메릴랜드 주" languages="Korean">메릴랜드 주</name>
+	</region>
+	<region name="Montserrado" type="county" typeTranslated="county">
+		<name normalized="Comte de Montserrado" languages="French">Comté de Montserrado</name>
+		<name normalized="Condado de Montserrado" languages="Spanish">Condado de Montserrado</name>
+		<name normalized="Contea di Montserrado" languages="Italian">Contea di Montserrado</name>
+		<name normalized="Hrabstwo Montserrado" languages="Polish">Hrabstwo Montserrado</name>
+		<name normalized="Montserrado" languages="Basque;Breton;Dutch;English;Finnish;Norwegian (bokmal);official;Portuguese;Vietnamese">Montserrado</name>
+		<name normalized="Montserrado County" languages="English;German;official">Montserrado County</name>
+		<name normalized="Мaнtсiрada" languages="Belarusian">Мантсерада</name>
+		<name normalized="Мaнtсeрada" languages="biлaрuсkai (taрaskivita)‎">Мантсэрада</name>
+		<name normalized="Мoнtсiрado" languages="Bulgarian">Монтсерадо</name>
+		<name normalized="Мoнtсiррado" languages="Russian;Ukrainian">Монтсеррадо</name>
+		<name normalized="mnsrーd郡" languages="Japanese">モンセラード郡</name>
+		<name normalized="蒙特塞拉多县" languages="Chinese">蒙特塞拉多县</name>
+		<name normalized="몽세라도 주" languages="Korean">몽세라도 주</name>
+	</region>
+	<region name="Nimba" type="county" typeTranslated="county">
+		<name normalized="Comte de Nimba" languages="French">Comté de Nimba</name>
+		<name normalized="Contea di Nimba" languages="Italian">Contea di Nimba</name>
+		<name normalized="Hrabstwo Nimba" languages="Polish">Hrabstwo Nimba</name>
+		<name normalized="Nimba" languages="Basque;Breton;Dutch;English;German;Norwegian (bokmal);official;Portuguese;Spanish">Nimba</name>
+		<name normalized="Nimba County" languages="English;German;official;Swedish">Nimba County</name>
+		<name normalized="Нiмba" languages="Bulgarian;Russian">Нимба</name>
+		<name normalized="Нiмba" languages="Belarusian;Ukrainian;biлaрuсkai (taрaskivita)‎">Німба</name>
+		<name normalized="nnb郡" languages="Japanese">ニンバ郡</name>
+		<name normalized="寧巴縣" languages="Chinese">寧巴縣</name>
+		<name normalized="님바 주" languages="Korean">님바 주</name>
+	</region>
+	<region name="River Cess" type="county" typeTranslated="county">
+		<name normalized="Cesstos City" languages="Dutch;French">Cesstos City</name>
+		<name normalized="Cestos City" languages="German">Cestos City</name>
+		<name normalized="Comte de River Cess" languages="French">Comté de River Cess</name>
+		<name normalized="Contea di River Cess" languages="Italian">Contea di River Cess</name>
+		<name normalized="Hrabstwo River Cess" languages="Polish">Hrabstwo River Cess</name>
+		<name normalized="River Cess" languages="Basque;Breton;Dutch;English;official;Polish;Portuguese;Spanish">River Cess</name>
+		<name normalized="River Cess County" languages="English;German;official">River Cess County</name>
+		<name normalized="Rivercess" languages="Norwegian (bokmal)">Rivercess</name>
+		<name normalized="Rivercess County" languages="English">Rivercess County</name>
+		<name normalized="Akрuga Рыviр-Сiс" languages="Belarusian">Акруга Рывер-Сес</name>
+		<name normalized="Рiviр-Сiсс" languages="Russian">Ривер-Сесс</name>
+		<name normalized="Рivър Сiс" languages="Bulgarian">Ривър Сес</name>
+		<name normalized="Рыveр-Сeс" languages="biлaрuсkai (taрaskivita)‎">Рывэр-Сэс</name>
+		<name normalized="Рiviр-Сiсс" languages="Ukrainian">Рівер-Сесс</name>
+		<name normalized="rbーss郡" languages="Japanese">リバーセス郡</name>
+		<name normalized="里弗塞斯" languages="Chinese">里弗塞斯</name>
+		<name normalized="里弗塞斯縣" languages="Chinese">里弗塞斯縣</name>
+		<name normalized="리버 세스 주" languages="Korean">리버 세스 주</name>
+	</region>
+	<region name="River Gee" type="county" typeTranslated="county">
+		<name normalized="Comte de River Gee" languages="French">Comté de River Gee</name>
+		<name normalized="Contea di River Gee" languages="Italian">Contea di River Gee</name>
+		<name normalized="Hrabstwo River Gee" languages="Polish">Hrabstwo River Gee</name>
+		<name normalized="River Gee" languages="Basque;Breton;Dutch;English;Norwegian (bokmal);official;Portuguese;Spanish">River Gee</name>
+		<name normalized="River Gee County" languages="English;German;official">River Gee County</name>
+		<name normalized="Рiviр-Gi" languages="Russian">Ривер-Ги</name>
+		<name normalized="Рivър Dziй" languages="Bulgarian">Ривър Джий</name>
+		<name normalized="Рыviр-Gi" languages="Belarusian">Рывер-Гі</name>
+		<name normalized="Рыveр-Gi" languages="biлaрuсkai (taрaskivita)‎">Рывэр-Гі</name>
+		<name normalized="Рiviр-Gi" languages="Ukrainian">Рівер-Гі</name>
+		<name normalized="rbーzー郡" languages="Japanese">リバージー郡</name>
+		<name normalized="吉河县" languages="Chinese">吉河县</name>
+		<name normalized="리버 지 주" languages="Korean">리버 지 주</name>
+	</region>
+	<region name="Sinoe" type="county" typeTranslated="county">
+		<name normalized="Comte de Sinoe" languages="French">Comté de Sinoe</name>
+		<name normalized="Contea di Sinoe" languages="Italian">Contea di Sinoe</name>
+		<name normalized="Hrabstwo Sinoe" languages="Polish">Hrabstwo Sinoe</name>
+		<name normalized="Sinoe" languages="Basque;Breton;Dutch;English;Finnish;French;Norwegian (bokmal);official;Portuguese;Spanish">Sinoe</name>
+		<name normalized="Sinoe County" languages="English;German;official">Sinoe County</name>
+		<name normalized="Сiнoi" languages="Bulgarian">Синое</name>
+		<name normalized="Сiнoe" languages="Russian">Синоэ</name>
+		<name normalized="Сынoe" languages="biлaрuсkai (taрaskivita)‎">Сыноэ</name>
+		<name normalized="Сiнoi" languages="Ukrainian">Сіное</name>
+		<name normalized="Сiнoe" languages="Belarusian">Сіноэ</name>
+		<name normalized="sne郡" languages="Japanese">シノエ郡</name>
+		<name normalized="錫諾縣" languages="Chinese">錫諾縣</name>
+		<name normalized="시노에 주" languages="Korean">시노에 주</name>
+	</region>
+</regions>

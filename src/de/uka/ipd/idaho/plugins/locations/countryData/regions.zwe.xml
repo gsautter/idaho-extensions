@@ -1,0 +1,251 @@
+<regions country="Zimbabwe">
+	<region name="Bulawayo" type="city" typeTranslated="city">
+		<name normalized="Bulavajas" languages="Lithuanian">Bulavajas</name>
+		<name normalized="Bulawayo" languages="Afrikaans;Basque;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Ido;Indonesian;Italian;Low Saxon (Netherlands);Malay;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Shona;Spanish;Swahili;Swedish;Turkish;Vietnamese;Waray">Bulawayo</name>
+		<name normalized="Buлavaйo" languages="Hill Mari;Russian;Ukrainian">Булавайо</name>
+		<name normalized="Buлavaё" languages="biлaрuсkai (taрaskivita)‎">Булаваё</name>
+		<name normalized="Buлavajo" languages="Serbian">Булавајо</name>
+		<name normalized="Buлaviйo" languages="Bulgarian">Булавейо</name>
+		<name normalized="Goрad Buлavaё" languages="Belarusian">Горад Булаваё</name>
+		<name normalized="bulाvाyo" languages="Hindi">बुलावायो</name>
+		<name normalized="brwy" languages="Japanese">ブラワヨ</name>
+		<name normalized="布拉瓦约" languages="Chinese">布拉瓦约</name>
+		<name normalized="불라와요" languages="Korean">불라와요</name>
+	</region>
+	<region name="Harare" type="city" typeTranslated="city">
+		<name normalized="Arare" languages="Haitian;Wolof">Arare</name>
+		<name normalized="Harare" languages="Afrikaans;Albanian;Aragonese;Azerbaijani;Basque;Bavarian;Bosnian;Breton;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;Galician;German;Hungarian;Icelandic;Ido;Indonesian;Interlingue;Irish;Italian;Javanese;Kinyarwanda;Latvian;lumbaart;Luxembourgish;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Papiamento;Piedmontese;Polish;Portuguese;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Slovak;Somali;Spanish;Swahili;Swedish;Tagalog;Turkish;Venda;Vietnamese;veneto;Waray;Welsh;Western Frisian;Yoruba">Harare</name>
+		<name normalized="Hararensis Urbs" languages="Latin">Hararensis Urbs</name>
+		<name normalized="Harareo" languages="Esperanto">Harareo</name>
+		<name normalized="Harare" languages="French">Hararé</name>
+		<name normalized="Harare" languages="Lithuanian">Hararė</name>
+		<name normalized="Χαραρε" languages="Greek">Χαράρε</name>
+		<name normalized="Goрad Kaрaрe" languages="Belarusian">Горад Харарэ</name>
+		<name normalized="Kaрaрi" languages="Bulgarian;Chechen;Hill Mari;Kazakh;Kyrgyz;Macedonian;Mongolian;Ossetic;Russian;Serbian;Tajik;Udmurt;Ukrainian">Хараре</name>
+		<name normalized="Kaрaрe" languages="biлaрuсkai (taрaskivita)‎">Харарэ</name>
+		<name normalized="Hաrաrե" languages="Armenian">Հարարե</name>
+		<name normalized="hאrאrh" languages="Hebrew">הארארה</name>
+		<name normalized="hאrאrע" languages="Yiddish">הארארע</name>
+		<name normalized="hאrאrى" languages="Egyptian Spoken Arabic">هارارى</name>
+		<name normalized="hrאrh" languages="Persian">هراره</name>
+		<name normalized="hrאry" languages="Arabic">هراري</name>
+		<name normalized="ھאrאrې" languages="Uyghur">ھارارې</name>
+		<name normalized="ھەrאrی" languages="Sorani Kurdish">ھەراری</name>
+		<name normalized="ہrאrے" languages="Urdu;Western Punjabi">ہرارے</name>
+		<name normalized="hrाre" languages="Hindi;Marathi">हरारे</name>
+		<name normalized="hাrাre" languages="Bengali">হারারে</name>
+		<name normalized="hrਾrੇ" languages="Punjabi">ਹਰਾਰੇ</name>
+		<name normalized="ହାରାରେ" languages="Oriya">ହାରାରେ</name>
+		<name normalized="ஹராரே" languages="Tamil">ஹராரே</name>
+		<name normalized="ฮาราเร" languages="Thai">ฮาราเร</name>
+		<name normalized="ཧ་ར་རི།" languages="Tibetan">ཧ་ར་རི།</name>
+		<name normalized="ჰარარე" languages="Georgian">ჰარარე</name>
+		<name normalized="ሀራሬ" languages="Amharic">ሀራሬ</name>
+		<name normalized="hrr" languages="Japanese">ハラレ</name>
+		<name normalized="哈拉雷" languages="Cantonese;Chinese">哈拉雷</name>
+		<name normalized="하라레" languages="Korean">하라레</name>
+	</region>
+	<region name="Manicaland" type="province" typeTranslated="province">
+		<name normalized="Manicaland" languages="Afrikaans;Basque;Catalan;Danish;Dutch;English;Estonian;Finnish;French;Indonesian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Shona;Swedish;Turkish">Manicaland</name>
+		<name normalized="Manicaland Province" languages="English;official">Manicaland Province</name>
+		<name normalized="Manicalandia" languages="Spanish">Manicalandia</name>
+		<name normalized="Manikalandas" languages="Lithuanian">Manikalandas</name>
+		<name normalized="Provincia del Manicaland" languages="Italian">Provincia del Manicaland</name>
+		<name normalized="Provinz Manicaland" languages="German">Provinz Manicaland</name>
+		<name normalized="Мaнikaлiнd" languages="Bulgarian;Hill Mari;Russian;Serbian">Маникаленд</name>
+		<name normalized="Мaнikaлeнd" languages="biлaрuсkai (taрaskivita)‎">Манікалэнд</name>
+		<name normalized="mnkrnd州" languages="Japanese">マニカランド州</name>
+		<name normalized="馬尼卡蘭省" languages="Chinese">馬尼卡蘭省</name>
+		<name normalized="마니칼랜드 주" languages="Korean">마니칼랜드 주</name>
+	</region>
+	<region name="Mashonaland Central" type="province" typeTranslated="province">
+		<name normalized="Erdialdeko Mashonaland" languages="Basque">Erdialdeko Mashonaland</name>
+		<name normalized="Kesk-Mashonaland" languages="Estonian">Kesk-Mashonaland</name>
+		<name normalized="Mashonaland Central" languages="Catalan;Danish;Dutch;English;Finnish;French;Norwegian (bokmal);official;Portuguese;Romanian;Swedish">Mashonaland Central</name>
+		<name normalized="Mashonaland Central Province" languages="English;official">Mashonaland Central Province</name>
+		<name normalized="Mashonaland Merkez" languages="Turkish">Mashonaland Merkez</name>
+		<name normalized="Mashonaland Pusat" languages="Indonesian">Mashonaland Pusat</name>
+		<name normalized="Mashonalandia Central" languages="Spanish">Mashonalandia Central</name>
+		<name normalized="Masjonaland-Sentraal" languages="Afrikaans">Masjonaland-Sentraal</name>
+		<name normalized="Maszona Srodkowa" languages="Polish">Maszona Środkowa</name>
+		<name normalized="Provincia del Mashonaland Centrale" languages="Italian">Provincia del Mashonaland Centrale</name>
+		<name normalized="Provinz Mashonaland Central" languages="German">Provinz Mashonaland Central</name>
+		<name normalized="Vidurio Masonalandas" languages="Lithuanian">Vidurio Mašonalandas</name>
+		<name normalized="Мasoнaлiнd Tiнtрaл" languages="Serbian">Машоналенд Централ</name>
+		<name normalized="Poksaл Мasoнaлiнd" languages="Hill Mari">Покшал Машоналенд</name>
+		<name normalized="Tiнtрaлiн Мasoнaлiнd" languages="Bulgarian">Централен Машоналенд</name>
+		<name normalized="Tiнtрaльный Мasoнaлiнd" languages="Russian">Центральный Машоналенд</name>
+		<name normalized="Teнtрaльны Мasaнaлeнd" languages="biлaрuсkai (taрaskivita)‎">Цэнтральны Машаналэнд</name>
+		<name normalized="中央msョnrnd州" languages="Japanese">中央マショナランド州</name>
+		<name normalized="中馬紹納蘭省" languages="Chinese">中馬紹納蘭省</name>
+		<name normalized="중앙마쇼날랜드 주" languages="Korean">중앙마쇼날랜드 주</name>
+	</region>
+	<region name="Mashonaland East" type="province" typeTranslated="province">
+		<name normalized="East Mashonaland" languages="English;official">East Mashonaland</name>
+		<name normalized="East Mashonaland Province" languages="English;official">East Mashonaland Province</name>
+		<name normalized="Ekialdeko Mashonaland" languages="Basque">Ekialdeko Mashonaland</name>
+		<name normalized="Ida-Mashonaland" languages="Estonian">Ida-Mashonaland</name>
+		<name normalized="Mahusekwa" languages="Shona">Mahusekwa</name>
+		<name normalized="Mashonaland" languages="Danish;English;German;Indonesian;Norwegian (bokmal);official;Swedish">Mashonaland</name>
+		<name normalized="Mashonaland Dogu" languages="Turkish">Mashonaland Doğu</name>
+		<name normalized="Mashonaland East" languages="Danish;Dutch;English;Finnish;Norwegian (bokmal);official;Swedish">Mashonaland East</name>
+		<name normalized="Mashonaland East Province" languages="English;official">Mashonaland East Province</name>
+		<name normalized="Mashonaland Este" languages="Portuguese">Mashonaland Este</name>
+		<name normalized="Mashonaland Oriental" languages="Catalan;French">Mashonaland Oriental</name>
+		<name normalized="Mashonaland Province" languages="English;official">Mashonaland Province</name>
+		<name normalized="Mashonaland Timur" languages="Indonesian;Malay">Mashonaland Timur</name>
+		<name normalized="Mashonalandia Oriental" languages="Spanish">Mashonalandia Oriental</name>
+		<name normalized="Masjonaland" languages="Afrikaans">Masjonaland</name>
+		<name normalized="Masjonaland-Oos" languages="Afrikaans">Masjonaland-Oos</name>
+		<name normalized="Maszona Wschodnia" languages="Polish">Maszona Wschodnia</name>
+		<name normalized="Masonalandas" languages="Lithuanian">Mašonalandas</name>
+		<name normalized="Provincia del Mashonaland Orientale" languages="Italian">Provincia del Mashonaland Orientale</name>
+		<name normalized="Provincia Mashonaland East" languages="Romanian">Provincia Mashonaland East</name>
+		<name normalized="Provinz Mashonaland East" languages="German">Provinz Mashonaland East</name>
+		<name normalized="Rytu Masonalandas" languages="Lithuanian">Rytų Mašonalandas</name>
+		<name normalized="Voсtocный Мasoнaлiнd" languages="Russian">Восточный Машоналенд</name>
+		<name normalized="Iztociн Мasoнaлiнd" languages="Bulgarian">Източен Машоналенд</name>
+		<name normalized="Iрviл Мasoнaлiнd" languages="Hill Mari">Ирвел Машоналенд</name>
+		<name normalized="Мasoнaлiнd" languages="Russian">Машоналенд</name>
+		<name normalized="Мasoнaлiнd Iсtok" languages="Serbian">Машоналенд Исток</name>
+		<name normalized="Uсkodнi Мasaнaлeнd" languages="biлaрuсkai (taрaskivita)‎">Усходні Машаналэнд</name>
+		<name normalized="東msョnrnd州" languages="Japanese">東マショナランド州</name>
+		<name normalized="東馬紹納蘭省" languages="Chinese">東馬紹納蘭省</name>
+		<name normalized="동마쇼날랜드 주" languages="Korean">동마쇼날랜드 주</name>
+	</region>
+	<region name="Mashonaland West" type="province" typeTranslated="province">
+		<name normalized="Laane-Mashonaland" languages="Estonian">Lääne-Mashonaland</name>
+		<name normalized="Mashonaland" languages="Danish;English;German;Indonesian;Norwegian (bokmal);official;Swedish">Mashonaland</name>
+		<name normalized="Mashonaland Barat" languages="Indonesian;Malay">Mashonaland Barat</name>
+		<name normalized="Mashonaland Batı" languages="Turkish">Mashonaland Batı</name>
+		<name normalized="Mashonaland Occidental" languages="Catalan;French">Mashonaland Occidental</name>
+		<name normalized="Mashonaland Oeste" languages="Portuguese">Mashonaland Oeste</name>
+		<name normalized="Mashonaland Province" languages="English;official">Mashonaland Province</name>
+		<name normalized="Mashonaland West" languages="Danish;Dutch;English;Finnish;Norwegian (bokmal);official;Romanian;Shona;Swedish">Mashonaland West</name>
+		<name normalized="Mashonaland West Province" languages="English;official">Mashonaland West Province</name>
+		<name normalized="Mashonalandia Occidental" languages="Spanish">Mashonalandia Occidental</name>
+		<name normalized="Masjonaland" languages="Afrikaans">Masjonaland</name>
+		<name normalized="Masjonaland-Wes" languages="Afrikaans">Masjonaland-Wes</name>
+		<name normalized="Maszona Zachodnia" languages="Polish">Maszona Zachodnia</name>
+		<name normalized="Masonalandas" languages="Lithuanian">Mašonalandas</name>
+		<name normalized="Mendebaldeko Mashonaland" languages="Basque">Mendebaldeko Mashonaland</name>
+		<name normalized="Provincia del Mashonaland Occidentale" languages="Italian">Provincia del Mashonaland Occidentale</name>
+		<name normalized="Provinz Mashonaland West" languages="German">Provinz Mashonaland West</name>
+		<name normalized="Vakaru Masonalandas" languages="Lithuanian">Vakarų Mašonalandas</name>
+		<name normalized="West Mashonaland" languages="English;official">West Mashonaland</name>
+		<name normalized="West Mashonaland Province" languages="English;official">West Mashonaland Province</name>
+		<name normalized="Vadыviл Мasoнaлiнd" languages="Hill Mari">Вадывел Машоналенд</name>
+		<name normalized="Zapadiн Мasoнaлiнd" languages="Bulgarian">Западен Машоналенд</name>
+		<name normalized="Zapadный Мasoнaлiнd" languages="Russian">Западный Машоналенд</name>
+		<name normalized="Zakodнi Мasaнaлeнd" languages="biлaрuсkai (taрaskivita)‎">Заходні Машаналэнд</name>
+		<name normalized="Мasoнaлiнd" languages="Russian">Машоналенд</name>
+		<name normalized="Мasoнaлiнd Zapad" languages="Serbian">Машоналенд Запад</name>
+		<name normalized="西msョnrnd州" languages="Japanese">西マショナランド州</name>
+		<name normalized="西馬紹納蘭省" languages="Chinese">西馬紹納蘭省</name>
+		<name normalized="서마쇼날랜드 주" languages="Korean">서마쇼날랜드 주</name>
+	</region>
+	<region name="Masvingo" type="province" typeTranslated="province">
+		<name normalized="Masvingo" languages="Afrikaans;Danish;Dutch;English;Finnish;Norwegian (bokmal);official;Polish;Portuguese;Swedish;Turkish">Masvingo</name>
+		<name normalized="Masvingo Province" languages="English;official">Masvingo Province</name>
+		<name normalized="Masvingo provincija" languages="Lithuanian">Masvingo provincija</name>
+		<name normalized="Masvingo provints" languages="Estonian">Masvingo provints</name>
+		<name normalized="Masvingoko probintzia" languages="Basque">Masvingoko probintzia</name>
+		<name normalized="Province de Masvingo" languages="French">Province de Masvingo</name>
+		<name normalized="Provincia de Masvingo" languages="Spanish">Provincia de Masvingo</name>
+		<name normalized="Provincia di Masvingo" languages="Italian">Provincia di Masvingo</name>
+		<name normalized="Provincia Masvingo" languages="Romanian">Provincia Masvingo</name>
+		<name normalized="Provinsi Masvingo" languages="Indonesian">Provinsi Masvingo</name>
+		<name normalized="Provinz Masvingo" languages="German">Provinz Masvingo</name>
+		<name normalized="Provincia de Masvingo" languages="Catalan">Província de Masvingo</name>
+		<name normalized="Мaсviнgo" languages="Bulgarian;Hill Mari;Russian">Масвинго</name>
+		<name normalized="Мaсьviнga" languages="biлaрuсkai (taрaskivita)‎">Масьвінга</name>
+		<name normalized="Мasviнgo" languages="Serbian">Машвинго</name>
+		<name normalized="mنtqة mאسfyنغو" languages="Arabic">منطقة ماسفينغو</name>
+		<name normalized="msng州" languages="Japanese">マシンゴ州</name>
+		<name normalized="馬斯溫戈省" languages="Chinese">馬斯溫戈省</name>
+		<name normalized="마싱고 주" languages="Korean">마싱고 주</name>
+	</region>
+	<region name="Matabeleland North" type="province" typeTranslated="province">
+		<name normalized="Iparraldeko Matabeleland" languages="Basque">Iparraldeko Matabeleland</name>
+		<name normalized="Matabele" languages="Polish">Matabele</name>
+		<name normalized="Matabeleland" languages="Dutch;English;French;German;Indonesian;Norwegian (bokmal);official;Portuguese;Turkish">Matabeleland</name>
+		<name normalized="Matabeleland Kuzey" languages="Turkish">Matabeleland Kuzey</name>
+		<name normalized="Matabeleland Norte" languages="Portuguese">Matabeleland Norte</name>
+		<name normalized="Matabeleland North" languages="Danish;Dutch;English;Finnish;Norwegian (bokmal);official;Romanian;Swahili;Swedish">Matabeleland North</name>
+		<name normalized="Matabeleland North Province" languages="English;official">Matabeleland North Province</name>
+		<name normalized="Matabeleland Province" languages="English;official">Matabeleland Province</name>
+		<name normalized="Matabeleland Polnocny" languages="Polish">Matabeleland Północny</name>
+		<name normalized="Matabeleland Septentrional" languages="Catalan;French">Matabeleland Septentrional</name>
+		<name normalized="Matabeleland Utara" languages="Indonesian">Matabeleland Utara</name>
+		<name normalized="Matabeleland-Noord" languages="Afrikaans">Matabeleland-Noord</name>
+		<name normalized="Matabelelandas" languages="Lithuanian">Matabelelandas</name>
+		<name normalized="Matabelelandia" languages="Spanish">Matabelelandia</name>
+		<name normalized="Matabelelandia Septentrional" languages="Spanish">Matabelelandia Septentrional</name>
+		<name normalized="North Matabeleland" languages="English;official">North Matabeleland</name>
+		<name normalized="North Matabeleland Province" languages="English;official">North Matabeleland Province</name>
+		<name normalized="Provincia del Matabeleland Settentrionale" languages="Italian">Provincia del Matabeleland Settentrionale</name>
+		<name normalized="Provinz Matabeleland North" languages="German">Provinz Matabeleland North</name>
+		<name normalized="Pohja-Matabeleland" languages="Estonian">Põhja-Matabeleland</name>
+		<name normalized="Siaures Matabelelandas" languages="Lithuanian">Šiaurės Matabelelandas</name>
+		<name normalized="Йыdviл Мatabiлiлiнd" languages="Hill Mari">Йыдвел Матабелеленд</name>
+		<name normalized="Мatabiлiлiнd Сiviр" languages="Serbian">Матабелеленд Север</name>
+		<name normalized="Paўнocны Мatabeлiлeнd" languages="biлaрuсkai (taрaskivita)‎">Паўночны Матабэлелэнд</name>
+		<name normalized="Сiviрiн Мatabiлiлiнd" languages="Bulgarian">Северен Матабелеленд</name>
+		<name normalized="Сiviрный Мatabiлiлiнd" languages="Russian">Северный Матабелеленд</name>
+		<name normalized="mאtאbyلyلאند" languages="Arabic">ماتابيليلاند</name>
+		<name normalized="mtbیلیلند" languages="Persian">متبیلیلند</name>
+		<name normalized="北mtbrrnd州" languages="Japanese">北マタベレランド州</name>
+		<name normalized="北馬塔貝萊蘭省" languages="Chinese">北馬塔貝萊蘭省</name>
+		<name normalized="북마타벨랜드 주" languages="Korean">북마타벨랜드 주</name>
+	</region>
+	<region name="Matabeleland South" type="province" typeTranslated="province">
+		<name normalized="Hegoaldeko Matabeleland" languages="Basque">Hegoaldeko Matabeleland</name>
+		<name normalized="Louna-Matabeleland" languages="Estonian">Lõuna-Matabeleland</name>
+		<name normalized="Matabele" languages="Polish">Matabele</name>
+		<name normalized="Matabeleland" languages="Dutch;English;French;German;Indonesian;Norwegian (bokmal);official;Portuguese;Turkish">Matabeleland</name>
+		<name normalized="Matabeleland Guney" languages="Turkish">Matabeleland Güney</name>
+		<name normalized="Matabeleland Meridional" languages="Catalan">Matabeleland Meridional</name>
+		<name normalized="Matabeleland meridional" languages="French">Matabeleland méridional</name>
+		<name normalized="Matabeleland Poludniowy" languages="Polish">Matabeleland Południowy</name>
+		<name normalized="Matabeleland Province" languages="English;official">Matabeleland Province</name>
+		<name normalized="Matabeleland Selatan" languages="Indonesian">Matabeleland Selatan</name>
+		<name normalized="Matabeleland South" languages="Danish;Dutch;English;Finnish;Norwegian (bokmal);official;Romanian;Swedish">Matabeleland South</name>
+		<name normalized="Matabeleland South Province" languages="English;official">Matabeleland South Province</name>
+		<name normalized="Matabeleland Sul" languages="Portuguese">Matabeleland Sul</name>
+		<name normalized="Matabeleland-Suid" languages="Afrikaans">Matabeleland-Suid</name>
+		<name normalized="Matabelelandas" languages="Lithuanian">Matabelelandas</name>
+		<name normalized="Matabelelandia" languages="Spanish">Matabelelandia</name>
+		<name normalized="Matabelelandia Meridional" languages="Spanish">Matabelelandia Meridional</name>
+		<name normalized="Pietu Matabelelandas" languages="Lithuanian">Pietų Matabelelandas</name>
+		<name normalized="Provincia del Matabeleland Meridionale" languages="Italian">Provincia del Matabeleland Meridionale</name>
+		<name normalized="Provinz Matabeleland South" languages="German">Provinz Matabeleland South</name>
+		<name normalized="South Matabeleland" languages="English;official">South Matabeleland</name>
+		<name normalized="South Matabeleland Province" languages="English;official">South Matabeleland Province</name>
+		<name normalized="Kicӹvaлviл Мatabiлiлiнd" languages="Hill Mari">Кечӹвӓлвел Матабелеленд</name>
+		<name normalized="Мatabiлiлiнd Jug" languages="Serbian">Матабелеленд Југ</name>
+		<name normalized="Paўdнёvы Мatabeлiлeнd" languages="biлaрuсkai (taрaskivita)‎">Паўднёвы Матабэлелэнд</name>
+		<name normalized="Юziн Мatabiлiлiнd" languages="Bulgarian">Южен Матабелеленд</name>
+		<name normalized="Юzный Мatabiлiлiнd" languages="Russian">Южный Матабелеленд</name>
+		<name normalized="mאtאbyلyلאند" languages="Arabic">ماتابيليلاند</name>
+		<name normalized="mtbیلیلند" languages="Persian">متبیلیلند</name>
+		<name normalized="南mtbrrnd州" languages="Japanese">南マタベレランド州</name>
+		<name normalized="南馬塔貝萊蘭省" languages="Chinese">南馬塔貝萊蘭省</name>
+		<name normalized="남마타벨랜드 주" languages="Korean">남마타벨랜드 주</name>
+	</region>
+	<region name="Midlands" type="province" typeTranslated="province">
+		<name normalized="Midlands" languages="Afrikaans;Asturian;Basque;Catalan;Danish;Dutch;English;Finnish;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish;Turkish">Midlands</name>
+		<name normalized="Midlands Province" languages="English;official">Midlands Province</name>
+		<name normalized="Midlandsas" languages="Lithuanian">Midlandsas</name>
+		<name normalized="Midlandsi provints" languages="Estonian">Midlandsi provints</name>
+		<name normalized="Province des Midlands" languages="French">Province des Midlands</name>
+		<name normalized="Provincia delle Midland" languages="Italian">Provincia delle Midland</name>
+		<name normalized="Provincia Midlands" languages="Romanian">Provincia Midlands</name>
+		<name normalized="Provinsi Midlands" languages="Indonesian">Provinsi Midlands</name>
+		<name normalized="Provinz Midlands" languages="German">Provinz Midlands</name>
+		<name normalized="Мidлiнdс" languages="Bulgarian;Hill Mari;Russian;Serbian">Мидлендс</name>
+		<name normalized="Мidлeнdz" languages="biлaрuсkai (taрaskivita)‎">Мідлэндз</name>
+		<name normalized="mtdrnz州" languages="Japanese">ミッドランズ州</name>
+		<name normalized="中部省" languages="Chinese">中部省</name>
+		<name normalized="미들랜즈 주" languages="Korean">미들랜즈 주</name>
+	</region>
+</regions>

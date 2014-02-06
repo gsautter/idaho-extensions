@@ -1,0 +1,483 @@
+<regions country="Australia">
+	<region name="Australian Capital Territory" type="territory" typeTranslated="territory">
+		<name normalized="Austraalia pealinna ala" languages="Estonian">Austraalia pealinna ala</name>
+		<name normalized="Australeschen Haaptstadterritoire" languages="Luxembourgish">Australeschen Haaptstadterritoire</name>
+		<name normalized="Australia Siu-to͘ Te̍k-pia̍t-khu" languages="Chinese (Min Nan)">Australia Siú-to͘ Te̍k-pia̍t-khu</name>
+		<name normalized="Australiako Hiriburuaren Lurraldea" languages="Basque">Australiako Hiriburuaren Lurraldea</name>
+		<name normalized="Australian Capital Territory" languages="Danish;Dutch;English;Fiji Hindi;German;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Romanian;Sicilian;Simple English;Swedish">Australian Capital Territory</name>
+		<name normalized="Australian paakaupunkiterritorio" languages="Finnish">Australian pääkaupunkiterritorio</name>
+		<name normalized="Australijos sostines teritorija" languages="Lithuanian">Australijos sostinės teritorija</name>
+		<name normalized="Australijskie Terytorium Stoleczne" languages="Polish">Australijskie Terytorium Stołeczne</name>
+		<name normalized="Australisc Heafodbyrig Landscipe" languages="Old English">Australisc Hēafodbyrig Landscipe</name>
+		<name normalized="Australijas galvaspilsetas teritorija" languages="Latvian">Austrālijas galvaspilsētas teritorija</name>
+		<name normalized="Ausztraliai fovarosi terulet" languages="Hungarian">Ausztráliai fővárosi terület</name>
+		<name normalized="Avstraliya Paytaxt Ərazisi" languages="Azerbaijani">Avstraliya Paytaxt Ərazisi</name>
+		<name normalized="Avustralya Baskent Bolgesi" languages="Turkish">Avustralya Başkent Bölgesi</name>
+		<name normalized="Australia Cefurba Teritorio" languages="Esperanto">Aŭstralia Ĉefurba Teritorio</name>
+		<name normalized="Crioch Phriomhchathair na hAstraile" languages="Irish">Críoch Phríomhchathair na hAstráile</name>
+		<name normalized="Hofudborgarsvaedi Astraliu" languages="Icelandic">Höfuðborgarsvæði Ástralíu</name>
+		<name normalized="Lanh tho Thu do Uc" languages="Vietnamese">Lãnh thổ Thủ đô Úc</name>
+		<name normalized="Ostrielyan Kapitel Teritrii" languages="Norfuk / Pitkern">Ostrielyan Kapitel Teritrii</name>
+		<name normalized="Teritorij australskog glavnog grada" languages="Croatian">Teritorij australskog glavnog grada</name>
+		<name normalized="Teritorija australijskog glavnog grada" languages="Bosnian">Teritorija australijskog glavnog grada</name>
+		<name normalized="Teritorija glavnog grada Australije" languages="Serbo-Croatian">Teritorija glavnog grada Australije</name>
+		<name normalized="Teritorium hlavniho mesta Australie" languages="Czech">Teritorium hlavního města Austrálie</name>
+		<name normalized="Teritoryo nga Kapital han Australya" languages="Waray">Teritoryo nga Kapital han Australya</name>
+		<name normalized="Teritorium australskeho hlavneho mesta" languages="Slovak">Teritórium austrálskeho hlavného mesta</name>
+		<name normalized="Teritoio da Capita Australian-a" languages="Ligure">Teritöio da Capitâ Australian-a</name>
+		<name normalized="Territoire de la capitale australienne" languages="French">Territoire de la capitale australienne</name>
+		<name normalized="Territori da la chapitala australiana" languages="Romansh">Territori da la chapitala australiana</name>
+		<name normalized="Territori de la Capital Australiana" languages="Catalan">Territori de la Capital Australiana</name>
+		<name normalized="Territorio da Capital Australiana" languages="Galician">Territorio da Capital Australiana</name>
+		<name normalized="Territorio de la Capital Australiana" languages="Spanish">Territorio de la Capital Australiana</name>
+		<name normalized="Territorio della Capitale Australiana" languages="Italian">Territorio della Capitale Australiana</name>
+		<name normalized="Territorium Capitale Australianum" languages="Latin">Territorium Capitale Australianum</name>
+		<name normalized="Territori de la capitala australiana" languages="Occitan">Territòri de la capitala australiana</name>
+		<name normalized="Territorio da Capital Australiana" languages="Portuguese">Território da Capital Australiana</name>
+		<name normalized="Thalloo Preeu-valjagh ny h-Austrail" languages="Manx">Thalloo Preeu-valjagh ny h-Austrail</name>
+		<name normalized="Tiriad Ker-benn Aostralia" languages="Breton">Tiriad Kêr-benn Aostralia</name>
+		<name normalized="Tiriogaeth Prifddinas Awstralia" languages="Welsh">Tiriogaeth Prifddinas Awstralia</name>
+		<name normalized="Wilayah Ibu Kota Australia" languages="Indonesian">Wilayah Ibu Kota Australia</name>
+		<name normalized="Wilayah Ibu Negara Australia" languages="Malay">Wilayah Ibu Negara Australia</name>
+		<name normalized="Επικρατεια Αυστραλιανης Πρωτεuουσας" languages="Greek">Επικράτεια Αυστραλιανής Πρωτεύουσας</name>
+		<name normalized="Avсtрaлiйн Нiйслeлiйн Нutag Devсgeр" languages="Mongolian">Австралийн Нийслэлийн Нутаг Дэвсгэр</name>
+		<name normalized="Avсtрaлiйсka сtoлicнa tiрitoрii" languages="Bulgarian">Австралийска столична територия</name>
+		<name normalized="Avсtрaлiйсkai сtoлicнai tiррitoрii" languages="Russian">Австралийская столичная территория</name>
+		<name normalized="Avсtрaлiсka pрiсtoлнiнсka tiрitoрija" languages="Macedonian">Австралиска престолнинска територија</name>
+		<name normalized="Avсtрaлiйсьka сtoлicнa tiрitoрii" languages="Ukrainian">Австралійська столична територія</name>
+		<name normalized="Auсtрaлijсka pрiсtoнicka tiрitoрija" languages="Serbian">Аустралијска престоничка територија</name>
+		<name normalized="Aўсtрaлiйсkai сtaлicнai teрыtoрыi" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Аўстралійская сталічная тэрыторыя</name>
+		<name normalized="Ավstrաlիաkան mայrաkաղաkային tաrաck" languages="Armenian">Ավստրալիական մայրաքաղաքային տարածք</name>
+		<name normalized="trיtvrייt hbיrh hאvסtrדיt" languages="Hebrew">טריטוריית הבירה האוסטרלית</name>
+		<name normalized="آسٹrیلوی دאrאلhکوmt علאqہ" languages="Urdu">آسٹریلوی دارالحکومت علاقہ</name>
+		<name normalized="qلmrو pאیtخtی אسtrאلیא" languages="Persian">قلمرو پایتختی استرالیا</name>
+		<name normalized="os्ट्reliyn kepiटl टeriटori" languages="Marathi">ऑस्ट्रेलियन कॅपिटल टेरिटोरी</name>
+		<name normalized="asਟ੍rੇliai rਾjdਾni rਾjkੇtr" languages="Punjabi">ਆਸਟ੍ਰੇਲੀਆਈ ਰਾਜਧਾਨੀ ਰਾਜਖੇਤਰ</name>
+		<name normalized="ஆத்திரேலியத் தலைநகர ஆட்புலம்" languages="Tamil">ஆத்திரேலியத் தலைநகர ஆட்புலம்</name>
+		<name normalized="ออสเตรเลียนแคพิทอลเทร์ริทอรี" languages="Thai">ออสเตรเลียนแคพิทอลเทร์ริทอรี</name>
+		<name normalized="ფედერალური ტერიტორია" languages="Georgian">ფედერალური ტერიტორია</name>
+		<name normalized="oーstrra首都特別地域" languages="Japanese">オーストラリア首都特別地域</name>
+		<name normalized="澳大利亚首都领地" languages="Chinese">澳大利亚首都领地</name>
+		<name normalized="澳洲首都地區" languages="Cantonese">澳洲首都地區</name>
+		<name normalized="오스트레일리아 수도 준주" languages="Korean">오스트레일리아 수도 준주</name>
+	</region>
+	<region name="New South Wales" type="state" typeTranslated="state">
+		<name normalized="Bagong Timog Gales" languages="Tagalog">Bagong Timog Gales</name>
+		<name normalized="Bretyn Yiass Noa" languages="Manx">Bretyn Yiass Noa</name>
+		<name normalized="De Cymru Newydd" languages="Welsh">De Cymru Newydd</name>
+		<name normalized="Hegoaldeko Gales Berria" languages="Basque">Hegoaldeko Gales Berria</name>
+		<name normalized="Jaundienvidvelsa" languages="Latvian">Jaundienvidvelsa</name>
+		<name normalized="Naujasis Pietu Velsas" languages="Lithuanian">Naujasis Pietų Velsas</name>
+		<name normalized="Neuvo Galles do Sud" languages="Ligure">Neuvo Galles do Sud</name>
+		<name normalized="New Sooth Wales" languages="Scots">New Sooth Wales</name>
+		<name normalized="New South Wales" languages="Achinese;Danish;English;Fiji Hindi;German;Indonesian;Irish;Javanese;Luxembourgish;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Scottish Gaelic;Seeltersk;Sicilian;Simple English;Somali;Swahili;Swedish;Vietnamese;Waray">New South Wales</name>
+		<name normalized="Nieu-Suid-Wallis" languages="Afrikaans">Nieu-Suid-Wallis</name>
+		<name normalized="Nieuw-Zuid-Wales" languages="Dutch">Nieuw-Zuid-Wales</name>
+		<name normalized="Noul Wales de Sud" languages="Romanian">Noul Wales de Sud</name>
+		<name normalized="Nouvelle-Galles du Sud" languages="French">Nouvelle-Galles du Sud</name>
+		<name normalized="Nova Cambria Australis" languages="Latin">Nova Cambria Australis</name>
+		<name normalized="Nova Gales do Sul" languages="Portuguese">Nova Gales do Sul</name>
+		<name normalized="Nova Gales do Sur" languages="Galician">Nova Gales do Sur</name>
+		<name normalized="Nova Gal.les del Sud" languages="Catalan">Nova Gal·les del Sud</name>
+		<name normalized="Nova Valisa dal Sid" languages="Romansh">Nova Valisa dal Sid</name>
+		<name normalized="Novi Juzni Wales" languages="Bosnian;Croatian;Serbo-Croatian;Slovenian">Novi Južni Wales</name>
+		<name normalized="Novo Gales del Sud" languages="veneto">Novo Gales del Sud</name>
+		<name normalized="Novsudkimrio" languages="Esperanto">Novsudkimrio</name>
+		<name normalized="Novy Jizni Wales" languages="Czech">Nový Jižní Wales</name>
+		<name normalized="Novy Juzny Wales" languages="Slovak">Nový Južný Wales</name>
+		<name normalized="Nowa Poludniowa Walia" languages="Polish">Nowa Południowa Walia</name>
+		<name normalized="Nueva Gales del Sur" languages="Spanish">Nueva Gales del Sur</name>
+		<name normalized="Nuovo Galles del Sud" languages="Italian">Nuovo Galles del Sud</name>
+		<name normalized="Nyuu Sauth Wiels" languages="Norfuk / Pitkern">Nyuu Sauth Wiels</name>
+		<name normalized="Nova Galas del Sud" languages="Occitan">Nòva Galas del Sud</name>
+		<name normalized="Nyja Sudur-Wales" languages="Icelandic">Nýja Suður-Wales</name>
+		<name normalized="Niwe Sutwealas" languages="Old English">Nīwe Sūþwealas</name>
+		<name normalized="Sin Lam Wales" languages="Chinese (Min Nan)">Sin Lâm Wales</name>
+		<name normalized="Sukembre-Nevez" languages="Breton">Sukembre-Nevez</name>
+		<name normalized="Sin Nam Vi-ngi-suˆ-chu" languages="Hakka">Sîn Nàm Vî-ngì-sṳ̂-chû</name>
+		<name normalized="Uus-Louna-Wales" languages="Estonian">Uus-Lõuna-Wales</name>
+		<name normalized="Uusi Etela-Wales" languages="Finnish">Uusi Etelä-Wales</name>
+		<name normalized="Valesa Atsimo Vaovao" languages="Malagasy">Valesa Atsimo Vaovao</name>
+		<name normalized="Yeni Cənubi Uels" languages="Azerbaijani">Yeni Cənubi Uels</name>
+		<name normalized="Yeni Guney Galler" languages="Turkish">Yeni Güney Galler</name>
+		<name normalized="Ceнe Kaнtaр Ueльс" languages="Chuvash">Çĕнĕ Кăнтăр Уэльс</name>
+		<name normalized="Uj-Del-Wales" languages="Hungarian">Új-Dél-Wales</name>
+		<name normalized="Νeα Νοτια Ουαλια" languages="Greek">Νέα Νότια Ουαλία</name>
+		<name normalized="Нov Juziн Viлс" languages="Macedonian">Нов Јужен Велс</name>
+		<name normalized="Нovi Юziн Uiлс" languages="Bulgarian">Нови Южен Уелс</name>
+		<name normalized="Нovi Juzнi Viлс" languages="Serbian">Нови Јужни Велс</name>
+		<name normalized="Нoviй Pivdiннiй Uiльс" languages="Ukrainian">Новий Південний Уельс</name>
+		<name normalized="Нovы Paўdнёvы Ўeйлz" languages="biлaрuсkai (taрaskivita)‎">Новы Паўднёвы Ўэйлз</name>
+		<name normalized="Нovый Юzный Ueльс" languages="Russian">Новый Южный Уэльс</name>
+		<name normalized="Нog Kuссaр Ueльс" languages="Ossetic">Ног Хуссар Уэльс</name>
+		<name normalized="Сana Сoҕuрuu Ueльс" languages="Sakha">Саҥа Соҕуруу Уэльс</name>
+		<name normalized="Siнe Өмнɵd Veльс" languages="Mongolian">Шинэ Өмнөд Вэльс</name>
+		<name normalized="Stat Нovы Paўdнёvы Ueльс" languages="Belarusian">Штат Новы Паўднёвы Уэльс</name>
+		<name normalized="Նvr Hաrավային Vyեls" languages="Armenian">Նոր Հարավային Ուելս</name>
+		<name normalized="nיv סאvt' vיידס" languages="Hebrew">ניו סאות' ויילס</name>
+		<name normalized="نyو سאوث وyلز" languages="Egyptian Spoken Arabic">نيو ساوث ويلز</name>
+		<name normalized="نyوسאوث وyلز" languages="Arabic">نيوساوث ويلز</name>
+		<name normalized="نیو سאؤtھ ویلز" languages="Urdu">نیو ساؤتھ ویلز</name>
+		<name normalized="نیو سאؤtہ ویلز" languages="Western Punjabi">نیو ساؤتہ ویلز</name>
+		<name normalized="نیو سאوt ولز" languages="Persian">نیو ساوت ولز</name>
+		<name normalized="n्yu sाut vel्s" languages="Hindi;Marathi">न्यू साउथ वेल्स</name>
+		<name normalized="niu sাut oy়el্s" languages="Bengali">নিউ সাউথ ওয়েল্স</name>
+		<name normalized="niu sਾut vੇlj਼" languages="Punjabi">ਨਿਊ ਸਾਊਥ ਵੇਲਜ਼</name>
+		<name normalized="நியூ சவுத் வேல்ஸ்" languages="Tamil">நியூ சவுத் வேல்ஸ்</name>
+		<name normalized="ന്യൂ സൗത്ത് വെയ്ൽസ്" languages="Malayalam">ന്യൂ സൗത്ത് വെയ്ൽസ്</name>
+		<name normalized="รัฐนิวเซาท์เวลส์" languages="Thai">รัฐนิวเซาท์เวลส์</name>
+		<name normalized="ახალი სამხრეთი უელსი" languages="Georgian">ახალი სამხრეთი უელსი</name>
+		<name normalized="nyーsusueーrz州" languages="Japanese">ニューサウスウェールズ州</name>
+		<name normalized="新南威爾士" languages="Cantonese">新南威爾士</name>
+		<name normalized="新南威爾士州" languages="Chinese;Classical Chinese">新南威爾士州</name>
+		<name normalized="뉴사우스웨일스 주" languages="Korean">뉴사우스웨일스 주</name>
+	</region>
+	<region name="Northern Territory" type="territory" typeTranslated="territory">
+		<name normalized="Amihanan nga Teritoryo" languages="Waray">Amihanan nga Teritoryo</name>
+		<name normalized="Crioch an Tuaiscirt" languages="Irish">Críoch an Tuaiscirt</name>
+		<name normalized="Hilagang Teritoryo" languages="Tagalog">Hilagang Teritoryo</name>
+		<name normalized="Ipar Lurraldea" languages="Basque">Ipar Lurraldea</name>
+		<name normalized="Kuzey Toprakları" languages="Turkish">Kuzey Toprakları</name>
+		<name normalized="Lanh tho Bac Uc" languages="Vietnamese">Lãnh thổ Bắc Úc</name>
+		<name normalized="Noordelijk Territorium" languages="Dutch">Noordelijk Territorium</name>
+		<name normalized="Noordelike Gebied" languages="Afrikaans">Noordelike Gebied</name>
+		<name normalized="Norda Teritorio" languages="Esperanto">Norda Teritorio</name>
+		<name normalized="Nordelik Territorium" languages="Limburgish">Nordelik Territorium</name>
+		<name normalized="Nordterritoriet" languages="Norwegian (bokmal);Norwegian Nynorsk">Nordterritoriet</name>
+		<name normalized="Northan Teritrii" languages="Norfuk / Pitkern">Northan Teritrii</name>
+		<name normalized="Northern Territory" languages="Danish;English;Fiji Hindi;German;official;Seeltersk;Simple English;Swedish;veneto">Northern Territory</name>
+		<name normalized="Northren Territory" languages="Scots">Northren Territory</name>
+		<name normalized="Nordur-svaedid" languages="Icelandic">Norður-svæðið</name>
+		<name normalized="Norterne Landscipe" languages="Old English">Norþerne Landscipe</name>
+		<name normalized="Nerdlechen Territoire" languages="Luxembourgish">Nërdlechen Territoire</name>
+		<name normalized="Pak Leng-to͘" languages="Chinese (Min Nan)">Pak Léng-tó͘</name>
+		<name normalized="Pangulung Territorio" languages="Pampanga">Pangulung Territorio</name>
+		<name normalized="Pohjoisterritorio" languages="Finnish">Pohjoisterritorio</name>
+		<name normalized="Pohjaterritoorium" languages="Estonian">Põhjaterritoorium</name>
+		<name normalized="Roinn-a-Tuath" languages="Scottish Gaelic">Roinn-a-Tuath</name>
+		<name normalized="Severne teritorium" languages="Slovak">Severné teritórium</name>
+		<name normalized="Severni teritorium" languages="Czech">Severní teritorium</name>
+		<name normalized="Sjeverna teritorija" languages="Bosnian;Serbo-Croatian">Sjeverna teritorija</name>
+		<name normalized="Sjeverni teritorij" languages="Croatian">Sjeverni teritorij</name>
+		<name normalized="Teritoriul de Nord" languages="Romanian">Teritoriul de Nord</name>
+		<name normalized="Teritoio do Nord" languages="Ligure">Teritöio do Nord</name>
+		<name normalized="Territoire du Nord" languages="French">Territoire du Nord</name>
+		<name normalized="Territori dal Nord" languages="Romansh">Territori dal Nord</name>
+		<name normalized="Territori del Nord" languages="Catalan">Territori del Nord</name>
+		<name normalized="Territorio del Nord" languages="Italian">Territorio del Nord</name>
+		<name normalized="Territorio del Norte" languages="Spanish">Territorio del Norte</name>
+		<name normalized="Territorio do Norte" languages="Galician">Territorio do Norte</name>
+		<name normalized="Territorium Septentrionale" languages="Latin">Territorium Septentrionale</name>
+		<name normalized="Territori del Nord" languages="Occitan">Territòri del Nòrd</name>
+		<name normalized="Territorio do Norte" languages="Portuguese">Território do Norte</name>
+		<name normalized="Terytorium Polnocne" languages="Polish">Terytorium Północne</name>
+		<name normalized="Thalloo yn Twoaie" languages="Manx">Thalloo yn Twoaie</name>
+		<name normalized="Tiriad an Norzh" languages="Breton">Tiriad an Norzh</name>
+		<name normalized="Tiriogaeth y Gogledd" languages="Welsh">Tiriogaeth y Gogledd</name>
+		<name normalized="Wilayah Utara" languages="Indonesian;Malay">Wilayah Utara</name>
+		<name normalized="Ziemelu teritorija" languages="Latvian">Ziemeļu teritorija</name>
+		<name normalized="Eszaki terulet" languages="Hungarian">Északi terület</name>
+		<name normalized="Simal ərazisi" languages="Azerbaijani">Şimal ərazisi</name>
+		<name normalized="Siaurine Teritorija" languages="Lithuanian">Šiaurinė Teritorija</name>
+		<name normalized="Βορεια Επικρατεια" languages="Greek">Βόρεια Επικράτεια</name>
+		<name normalized="Auсtрaлii kotugu tiррitoрiita" languages="Sakha">Аустралия хотугу территорията</name>
+		<name normalized="Paўнocнai teрыtoрыi" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Паўночная тэрыторыя</name>
+		<name normalized="Pivнicнa tiрitoрii" languages="Ukrainian">Північна територія</name>
+		<name normalized="Сiviрнa tiрitoрii" languages="Bulgarian">Северна територия</name>
+		<name normalized="Сiviрнa Tiрitoрija" languages="Macedonian;Serbian">Северна Територија</name>
+		<name normalized="Сiviрнai tiррitoрii" languages="Russian">Северная территория</name>
+		<name normalized="Koйd Нutag Devсgeр" languages="Mongolian">Хойд Нутаг Дэвсгэр</name>
+		<name normalized="Taegat tiррitoрi" languages="Ossetic">Цæгат территори</name>
+		<name normalized="Hյvysիsային tաrաck" languages="Armenian">Հյուսիսային տարածք</name>
+		<name normalized="htrיtvrיh hצpvnיt" languages="Hebrew">הטריטוריה הצפונית</name>
+		<name normalized="إqلym شmאلy" languages="Arabic">إقليم شمالي</name>
+		<name normalized="אtلא tھאں" languages="Western Punjabi">اتلا تھاں</name>
+		<name normalized="شmאلی علאqہ" languages="Urdu">شمالی علاقہ</name>
+		<name normalized="qلmrو شmאلی" languages="Persian">قلمرو شمالی</name>
+		<name normalized="nor्dr्n टeriटori" languages="Marathi">नॉर्दर्न टेरिटोरी</name>
+		<name normalized="uੱtri rਾjkੇtr" languages="Punjabi">ਉੱਤਰੀ ਰਾਜਖੇਤਰ</name>
+		<name normalized="வட ஆட்புலம்" languages="Tamil">வட ஆட்புலம்</name>
+		<name normalized="นอร์เทิร์นเทร์ริทอรี" languages="Thai">นอร์เทิร์นเทร์ริทอรี</name>
+		<name normalized="ჩრდილოეთი ტერიტორია" languages="Georgian">ჩრდილოეთი ტერიტორია</name>
+		<name normalized="nーzntrtrー" languages="Japanese">ノーザンテリトリー</name>
+		<name normalized="北領地" languages="Cantonese;Chinese">北領地</name>
+		<name normalized="北领地" languages="Wu">北领地</name>
+		<name normalized="노던 준주" languages="Korean">노던 준주</name>
+	</region>
+	<region name="Queensland" type="state" typeTranslated="state">
+		<name normalized="Cweneland" languages="Old English">Cwēneland</name>
+		<name normalized="Khun-su-lan-chu" languages="Hakka">Khûn-sṳ-làn-chû</name>
+		<name normalized="Kvinslandas" languages="Lithuanian">Kvinslandas</name>
+		<name normalized="Kvinslando" languages="Esperanto">Kvinslando</name>
+		<name normalized="Kvinslend" languages="Azerbaijani">Kvinslend</name>
+		<name normalized="Kvinslenda" languages="Latvian">Kvīnslenda</name>
+		<name normalized="Kwiinsland" languages="Norfuk / Pitkern">Kwiinsland</name>
+		<name normalized="Queensland" languages="Achinese;Afrikaans;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;Gagauz;Galician;German;Hungarian;Icelandic;Indonesian;Irish;Italian;Javanese;Ligure;Limburgish;Luxembourgish;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Romansh;Scots;Scottish Gaelic;Seeltersk;Serbo-Croatian;Simple English;Slovak;Slovenian;Somali;Spanish;Swedish;Tagalog;Turkish;Vietnamese;veneto;Waray;Welsh;Yoruba;Zeeuws">Queensland</name>
+		<name normalized="Quinslando" languages="Ido">Quinslando</name>
+		<name normalized="Terra Reginae" languages="Latin">Terra Reginae</name>
+		<name normalized="Ustralya" languages="Kabyle">Usṭralya</name>
+		<name normalized="Κουινσλαντ" languages="Greek">Κουίνσλαντ</name>
+		<name normalized="Kviйнслeнd" languages="Mongolian">Квийнслэнд</name>
+		<name normalized="Kviнслiнd" languages="Macedonian;Ossetic;Russian;Sakha;Serbian">Квинсленд</name>
+		<name normalized="Kviнслiнd" languages="Ukrainian">Квінсленд</name>
+		<name normalized="Kuiнслaнd" languages="Bulgarian">Куинсланд</name>
+		<name normalized="Kўiнzлeнd" languages="biлaрuсkai (taрaskivita)‎">Кўінзлэнд</name>
+		<name normalized="Stat Kviнслeнd" languages="Belarusian">Штат Квінслэнд</name>
+		<name normalized="Kվինslենd" languages="Armenian">Քվինսլենդ</name>
+		<name normalized="qvvיnסדnד" languages="Hebrew">קווינסלנד</name>
+		<name normalized="kوyنزلאند" languages="Arabic">كوينزلاند</name>
+		<name normalized="kۋېنسلאند" languages="Uyghur">كۋېنسلاند</name>
+		<name normalized="کوئنزلینڈ" languages="Urdu">کوئنزلینڈ</name>
+		<name normalized="کوئینزلند" languages="Persian">کوئینزلند</name>
+		<name normalized="کوینزلینڈ" languages="Western Punjabi">کوینزلینڈ</name>
+		<name normalized="k्vin्slंड" languages="Marathi">क्वीन्सलंड</name>
+		<name normalized="k्vin्slaण्ड" languages="Hindi">क्वीन्सलैण्ड</name>
+		<name normalized="kvinj਼laਂਡ" languages="Punjabi">ਕਵੀਨਜ਼ਲੈਂਡ</name>
+		<name normalized="k્vin્slen્ડ" languages="Gujarati">ક્વીન્સલેન્ડ</name>
+		<name normalized="குயின்ஸ்லாந்து" languages="Tamil">குயின்ஸ்லாந்து</name>
+		<name normalized="ಕ್ವೀನ್ಸ್‌ಲ್ಯಾಂಡ್‌" languages="Kannada">ಕ್ವೀನ್ಸ್‌ಲ್ಯಾಂಡ್‌</name>
+		<name normalized="รัฐควีนส์แลนด์" languages="Thai">รัฐควีนส์แลนด์</name>
+		<name normalized="ကွင်းစလန်ပြည်နယ်" languages="Burmese">ကွင်းစလန်ပြည်နယ်</name>
+		<name normalized="კუინზლენდი" languages="Georgian">კუინზლენდი</name>
+		<name normalized="kiーnzrnd州" languages="Japanese">クイーンズランド州</name>
+		<name normalized="昆士兰州" languages="Wu">昆士兰州</name>
+		<name normalized="昆士蘭" languages="Cantonese">昆士蘭</name>
+		<name normalized="昆士蘭州" languages="Chinese">昆士蘭州</name>
+		<name normalized="퀸즐랜드 주" languages="Korean">퀸즐랜드 주</name>
+	</region>
+	<region name="South Australia" type="state" typeTranslated="state">
+		<name normalized="An Astrail Theas" languages="Irish">An Astráil Theas</name>
+		<name normalized="Aostralia ar Su" languages="Breton">Aostralia ar Su</name>
+		<name normalized="Astrailia-a-Deas" languages="Scottish Gaelic">Astràilia-a-Deas</name>
+		<name normalized="Australia Australis" languages="Latin">Australia Australis</name>
+		<name normalized="Australia de Sud" languages="Romanian">Australia de Sud</name>
+		<name normalized="Australia do Sud" languages="Ligure">Australia do Sud</name>
+		<name normalized="Australia Kusini" languages="Swahili">Australia Kusini</name>
+		<name normalized="Australia Meridional" languages="Galician;Spanish">Australia Meridional</name>
+		<name normalized="Australia Meridionale" languages="Italian">Australia Meridionale</name>
+		<name normalized="Australia Meridiunala" languages="Romansh">Australia Meridiunala</name>
+		<name normalized="Australia Poludniowa" languages="Polish">Australia Południowa</name>
+		<name normalized="Australia Selatan" languages="Indonesian;Malay">Australia Selatan</name>
+		<name normalized="Australie-Meridionale" languages="French">Australie-Méridionale</name>
+		<name normalized="Australia Meridional" languages="Catalan">Austràlia Meridional</name>
+		<name normalized="Australia Meridionala" languages="Occitan">Austràlia Meridionala</name>
+		<name normalized="Australia Meridional" languages="Portuguese">Austrália Meridional</name>
+		<name normalized="Cənubi Avstraliya" languages="Azerbaijani">Cənubi Avstraliya</name>
+		<name normalized="De Awstralia" languages="Welsh">De Awstralia</name>
+		<name normalized="Dienvidaustralija" languages="Latvian">Dienvidaustrālija</name>
+		<name normalized="Del-Ausztralia" languages="Hungarian">Dél-Ausztrália</name>
+		<name normalized="Etela-Australia" languages="Finnish">Etelä-Australia</name>
+		<name normalized="Guney Avustralya" languages="Turkish">Güney Avustralya</name>
+		<name normalized="Hego Australia" languages="Basque">Hego Australia</name>
+		<name normalized="Jizni Australie" languages="Czech">Jižní Austrálie</name>
+		<name normalized="Juzna Australija" languages="Bosnian;Croatian;Serbo-Croatian">Južna Australija</name>
+		<name normalized="Juzna Avstralija" languages="Slovenian">Južna Avstralija</name>
+		<name normalized="Juzna Australia" languages="Slovak">Južná Austrália</name>
+		<name normalized="Koonfur Australia" languages="Somali">Koonfur Australia</name>
+		<name normalized="Lam Australia" languages="Chinese (Min Nan)">Lâm Australia</name>
+		<name normalized="Louna-Austraalia" languages="Estonian">Lõuna-Austraalia</name>
+		<name normalized="Mauling Australia" languages="Pampanga">Mauling Australia</name>
+		<name normalized="Nam Uc" languages="Vietnamese">Nam Úc</name>
+		<name normalized="Pietu Australija" languages="Lithuanian">Pietų Australija</name>
+		<name normalized="Sooth Australie" languages="Scots">Sooth Australie</name>
+		<name normalized="Soth Ostrali" languages="Cornish">Soth Ostrali</name>
+		<name normalized="South Australia" languages="Corsican;Danish;English;Fiji Hindi;German;official;Seeltersk;Sicilian;Simple English;Swedish;veneto;Waray">South Australia</name>
+		<name normalized="Sowth Ostrielya" languages="Norfuk / Pitkern">Sowth Ostrielya</name>
+		<name normalized="Suda Australio" languages="Esperanto">Suda Aŭstralio</name>
+		<name normalized="Suid-Australie" languages="Afrikaans">Suid-Australië</name>
+		<name normalized="Sudur-Astralia" languages="Icelandic">Suður-Ástralía</name>
+		<name normalized="Sor-Australia" languages="Norwegian (bokmal);Norwegian Nynorsk">Sør-Australia</name>
+		<name normalized="Sudaustralien" languages="Luxembourgish">Südaustralien</name>
+		<name normalized="Sutaustralia" languages="Old English">Sūþaustralia</name>
+		<name normalized="Timog Australya" languages="Tagalog">Timog Australya</name>
+		<name normalized="Yn Austrail Yiass" languages="Manx">Yn Austrail Yiass</name>
+		<name normalized="Zuid-Australie" languages="Dutch">Zuid-Australië</name>
+		<name normalized="Zuud-Australie" languages="Limburgish">Zuud-Australië</name>
+		<name normalized="Νοτια Αυστραλια" languages="Greek">Νότια Αυστραλία</name>
+		<name normalized="Paўdнёvai Aўсtрaлii" languages="biлaрuсkai (taрaskivita)‎">Паўднёвая Аўстралія</name>
+		<name normalized="Pivdiннa Avсtрaлii" languages="Ukrainian">Південна Австралія</name>
+		<name normalized="Kuссaр Avсtрaлi" languages="Ossetic">Хуссар Австрали</name>
+		<name normalized="Stat Paўdнёvai Aўсtрaлii" languages="Belarusian">Штат Паўднёвая Аўстралія</name>
+		<name normalized="Юzнa Avсtрaлii" languages="Bulgarian">Южна Австралия</name>
+		<name normalized="Юzнai Avсtрaлii" languages="Russian">Южная Австралия</name>
+		<name normalized="Juzнa Avсtрaлija" languages="Macedonian">Јужна Австралија</name>
+		<name normalized="Juzнa Auсtрaлija" languages="Serbian">Јужна Аустралија</name>
+		<name normalized="Өмнɵd Avсtрaлi" languages="Mongolian">Өмнөд Австрали</name>
+		<name normalized="Hաrավային Ավstrաlիա" languages="Armenian">Հարավային Ավստրալիա</name>
+		<name normalized="אvסtrדיh hדrvמיt" languages="Hebrew">אוסטרליה הדרומית</name>
+		<name normalized="אسtrאلیאی jنوbی" languages="Persian">استرالیای جنوبی</name>
+		<name normalized="jنوb أسtrאلyא" languages="Arabic">جنوب أستراليا</name>
+		<name normalized="jنوbی آسٹrیلیא" languages="Urdu">جنوبی آسٹریلیا</name>
+		<name normalized="سאؤtھ آسٹrیلیא" languages="Western Punjabi">ساؤتھ آسٹریلیا</name>
+		<name normalized="dk्षiण os्ट्reliyा" languages="Hindi">दक्षिण ऑस्ट्रेलिया</name>
+		<name normalized="sाut os्ट्reliyा" languages="Marathi">साउथ ऑस्ट्रेलिया</name>
+		<name normalized="sਾut asਟrੇlia" languages="Punjabi">ਸਾਊਥ ਆਸਟਰੇਲੀਆ</name>
+		<name normalized="தெற்கு ஆஸ்திரேலியா" languages="Tamil">தெற்கு ஆஸ்திரேலியா</name>
+		<name normalized="รัฐเซาท์ออสเตรเลีย" languages="Thai">รัฐเซาท์ออสเตรเลีย</name>
+		<name normalized="တောင်ဩစ‌တြေးလျပြည်နယ်" languages="Burmese">တောင်ဩစ‌တြေးလျပြည်နယ်</name>
+		<name normalized="სამხრეთი ავსტრალია" languages="Georgian">სამხრეთი ავსტრალია</name>
+		<name normalized="南oーstrra州" languages="Japanese">南オーストラリア州</name>
+		<name normalized="南澳大利亚州" languages="Chinese">南澳大利亚州</name>
+		<name normalized="南澳洲" languages="Cantonese">南澳洲</name>
+		<name normalized="사우스오스트레일리아 주" languages="Korean">사우스오스트레일리아 주</name>
+	</region>
+	<region name="Tasmania" type="state" typeTranslated="state">
+		<name normalized="An Tasmain" languages="Irish">An Tasmáin</name>
+		<name normalized="Tasmaania" languages="Estonian">Tasmaania</name>
+		<name normalized="Tasmaanje" languages="Western Frisian">Tasmaanje</name>
+		<name normalized="Tasmainya" languages="Norfuk / Pitkern">Tasmainya</name>
+		<name normalized="Tasmania" languages="Basque;Breton;Chinese (Min Nan);English;Faroese;Fiji Hindi;Finnish;Galician;Hungarian;Ido;Indonesian;Interlingua;Italian;Latin;Ligure;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Old English;Pampanga;Polish;Romanian;Romansh;Scottish Gaelic;Sicilian;Simple English;Spanish;Swahili;Tagalog;Vietnamese;Waray;Welsh">Tasmania</name>
+		<name normalized="Tasmanie" languages="French;Scots">Tasmanie</name>
+		<name normalized="Tasmanien" languages="Alemannisch;Danish;German;Luxembourgish;Seeltersk;Swedish">Tasmanien</name>
+		<name normalized="Tasmanija" languages="Bosnian;Croatian;Latvian;Lithuanian;Serbo-Croatian;Slovenian">Tasmanija</name>
+		<name normalized="Tasmanio" languages="Esperanto">Tasmanio</name>
+		<name normalized="Tasmaniya" languages="Azerbaijani;Somali">Tasmaniya</name>
+		<name normalized="Tasmanie" languages="Afrikaans;Dutch">Tasmanië</name>
+		<name normalized="Tasmanya" languages="Kabyle;Turkish">Tasmanya</name>
+		<name normalized="Tasmania" languages="Icelandic">Tasmanía</name>
+		<name normalized="Tasmanijo" languages="Silesian">Tasmańijo</name>
+		<name normalized="Tasmania" languages="Catalan">Tasmània</name>
+		<name normalized="Tasmania" languages="Slovak">Tasmánia</name>
+		<name normalized="Tasmanie" languages="Czech">Tasmánie</name>
+		<name normalized="Tasmania" languages="Portuguese">Tasmânia</name>
+		<name normalized="Yn Tasmaan" languages="Manx">Yn Tasmaan</name>
+		<name normalized="Τασμανια" languages="Greek">Τασμανία</name>
+		<name normalized="Taсмaнi" languages="Mongolian;Ossetic">Тасмани</name>
+		<name normalized="Taсмaнii" languages="Bulgarian;Russian;Sakha;Tatar">Тасмания</name>
+		<name normalized="Taсмaнija" languages="Macedonian;Serbian">Тасманија</name>
+		<name normalized="Taсмaнii" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Тасманія</name>
+		<name normalized="Stat Taсмaнii" languages="Belarusian">Штат Тасманія</name>
+		<name normalized="Tաsmանիա" languages="Armenian">Թասմանիա</name>
+		<name normalized="tסמnיh" languages="Hebrew">טסמניה</name>
+		<name normalized="tאسmאنی" languages="Persian">تاسمانی</name>
+		<name normalized="tسmאنyא" languages="Arabic">تسمانيا</name>
+		<name normalized="tسmאنیא" languages="Urdu;Western Punjabi">تسمانیا</name>
+		<name normalized="tەسmאنیא" languages="Sorani Kurdish">تەسمانیا</name>
+		<name normalized="टाsmाniyा" languages="Hindi">टासमानिया</name>
+		<name normalized="टाs्mाniyा" languages="Marathi">टास्मानिया</name>
+		<name normalized="tsmਾnia" languages="Punjabi">ਤਸਮਾਨੀਆ</name>
+		<name normalized="ଟାସମାନିଆ" languages="Oriya">ଟାସମାନିଆ</name>
+		<name normalized="தாசுமேனியா" languages="Tamil">தாசுமேனியா</name>
+		<name normalized="ಟ್ಯಾಸ್ಮೆನಿಯಾ" languages="Kannada">ಟ್ಯಾಸ್ಮೆನಿಯಾ</name>
+		<name normalized="ടാസ്മേനിയ" languages="Malayalam">ടാസ്മേനിയ</name>
+		<name normalized="รัฐแทสเมเนีย" languages="Thai">รัฐแทสเมเนีย</name>
+		<name normalized="ཐ་སི་མ་ནི་ཡཱ།" languages="Tibetan">ཐ་སི་མ་ནི་ཡཱ།</name>
+		<name normalized="တက်စ‌မေးနီးယားကျွန်း" languages="Burmese">တက်စ‌မေးနီးယားကျွန်း</name>
+		<name normalized="ტასმანია" languages="Georgian">ტასმანია</name>
+		<name normalized="tsmna州" languages="Japanese">タスマニア州</name>
+		<name normalized="塔斯曼尼亞省" languages="Cantonese">塔斯曼尼亞省</name>
+		<name normalized="塔斯馬尼亞州" languages="Chinese">塔斯馬尼亞州</name>
+		<name normalized="塔斯马尼亚" languages="Wu">塔斯马尼亚</name>
+		<name normalized="태즈메이니아 주" languages="Korean">태즈메이니아 주</name>
+	</region>
+	<region name="Victoria" type="state" typeTranslated="state">
+		<name normalized="Delstaten Victoria" languages="Norwegian Nynorsk">Delstaten Victoria</name>
+		<name normalized="Victoria" languages="Afrikaans;Basque;Bosnian;Breton;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;Galician;German;Hungarian;Icelandic;Indonesian;Irish;Italian;Javanese;Latin;Luxembourgish;Malay;Manx;Norwegian (bokmal);official;Old English;Pampanga;Romanian;Romansh;Scots;Scottish Gaelic;Seeltersk;Serbo-Croatian;Simple English;Spanish;Swedish;Tagalog;Turkish;Vietnamese;veneto;Welsh;Western Frisian">Victoria</name>
+		<name normalized="Victoria" languages="Catalan;Occitan">Victòria</name>
+		<name normalized="Viktorija" languages="Latvian;Lithuanian;Slovenian">Viktorija</name>
+		<name normalized="Viktorio" languages="Esperanto">Viktorio</name>
+		<name normalized="Viktoriya" languages="Azerbaijani">Viktoriya</name>
+		<name normalized="Viktoria" languages="Slovak">Viktória</name>
+		<name normalized="Vitoria" languages="Portuguese">Vitória</name>
+		<name normalized="Vitoia" languages="Ligure">Vitöia</name>
+		<name normalized="Vi-to-li-a-chu" languages="Hakka">Vì-tô-li-â-chû</name>
+		<name normalized="Wiktoreya" languages="Norfuk / Pitkern">Wiktoreya</name>
+		<name normalized="Wiktoria" languages="Polish">Wiktoria</name>
+		<name normalized="Βικτωρια" languages="Greek">Βικτώρια</name>
+		<name normalized="Viktoрi" languages="Ossetic">Виктори</name>
+		<name normalized="Viktoрia" languages="Mongolian">Викториа</name>
+		<name normalized="Viktoрii" languages="Bulgarian;Russian;Sakha">Виктория</name>
+		<name normalized="Viktoрija" languages="Macedonian;Serbian">Викторија</name>
+		<name normalized="Viktoрыi" languages="biлaрuсkai (taрaskivita)‎">Вікторыя</name>
+		<name normalized="Viktoрii" languages="Ukrainian">Вікторія</name>
+		<name normalized="Stat Viktoрыi" languages="Belarusian">Штат Вікторыя</name>
+		<name normalized="Վիktvrիա" languages="Armenian">Վիկտորիա</name>
+		<name normalized="vיqtvrיh" languages="Hebrew">ויקטוריה</name>
+		<name normalized="fyktوryא" languages="Arabic">فيكتوريا</name>
+		<name normalized="وکٹوrیہ" languages="Urdu;Western Punjabi">وکٹوریہ</name>
+		<name normalized="ویکtوrیא" languages="Persian">ویکتوریا</name>
+		<name normalized="vik्टoriyा" languages="Hindi">विक्टोरिया</name>
+		<name normalized="v्hik्टoriyा" languages="Marathi">व्हिक्टोरिया</name>
+		<name normalized="vikਟੋria" languages="Punjabi">ਵਿਕਟੋਰੀਆ</name>
+		<name normalized="விக்டோரியா" languages="Tamil">விக்டோரியா</name>
+		<name normalized="รัฐวิกตอเรีย" languages="Thai">รัฐวิกตอเรีย</name>
+		<name normalized="ვიქტორია" languages="Georgian">ვიქტორია</name>
+		<name normalized="bktra州" languages="Japanese">ビクトリア州</name>
+		<name normalized="維多利亞州" languages="Cantonese;Chinese">維多利亞州</name>
+		<name normalized="维克多利亚州" languages="Wu">维克多利亚州</name>
+		<name normalized="빅토리아 주" languages="Korean">빅토리아 주</name>
+	</region>
+	<region name="Western Australia" type="state" typeTranslated="state">
+		<name normalized="Albugang Australia" languages="Pampanga">Albugang Australia</name>
+		<name normalized="An Astrail Thiar" languages="Irish">An Astráil Thiar</name>
+		<name normalized="Aostralia ar C'hornog" languages="Breton">Aostralia ar C'hornôg</name>
+		<name normalized="Astrailia-an-Iar" languages="Scottish Gaelic">Astràilia-an-Iar</name>
+		<name normalized="Australia Barat" languages="Indonesian;Malay">Australia Barat</name>
+		<name normalized="Australia de Vest" languages="Romanian">Australia de Vest</name>
+		<name normalized="Australia Occidental" languages="Galician;Spanish">Australia Occidental</name>
+		<name normalized="Australia Occidentala" languages="Romansh">Australia Occidentala</name>
+		<name normalized="Australia Occidentale" languages="Italian">Australia Occidentale</name>
+		<name normalized="Australia Occidentalis" languages="Latin">Australia Occidentalis</name>
+		<name normalized="Australia Ocidenta" languages="Ligure">Australia Oçidentâ</name>
+		<name normalized="Australia ya Magharibi" languages="Swahili">Australia ya Magharibi</name>
+		<name normalized="Australia Zachodnia" languages="Polish">Australia Zachodnia</name>
+		<name normalized="Australie-Occidentale" languages="French">Australie-Occidentale</name>
+		<name normalized="Australia Occidental" languages="Catalan">Austràlia Occidental</name>
+		<name normalized="Australia Occidentala" languages="Occitan">Austràlia Occidentala</name>
+		<name normalized="Australia Ocidental" languages="Portuguese">Austrália Ocidental</name>
+		<name normalized="Batı Avustralya" languages="Turkish">Batı Avustralya</name>
+		<name normalized="Galbeed Australia" languages="Somali">Galbeed Australia</name>
+		<name normalized="Gorllewin Awstralia" languages="Welsh">Gorllewin Awstralia</name>
+		<name normalized="Kanlurang Australya" languages="Tagalog">Kanlurang Australya</name>
+		<name normalized="Lansi-Australia" languages="Finnish">Länsi-Australia</name>
+		<name normalized="Laane-Austraalia" languages="Estonian">Lääne-Austraalia</name>
+		<name normalized="Mendebaldeko Australia" languages="Basque">Mendebaldeko Australia</name>
+		<name normalized="Nyugat-Ausztralia" languages="Hungarian">Nyugat-Ausztrália</name>
+		<name normalized="Okcidenta Australio" languages="Esperanto">Okcidenta Aŭstralio</name>
+		<name normalized="Qərbi Avstraliya" languages="Azerbaijani">Qərbi Avstraliya</name>
+		<name normalized="Rietumaustralija" languages="Latvian">Rietumaustrālija</name>
+		<name normalized="Se Australia" languages="Chinese (Min Nan)">Se Australia</name>
+		<name normalized="Tay Uc" languages="Vietnamese">Tây Úc</name>
+		<name normalized="Vakaru Australija" languages="Lithuanian">Vakarų Australija</name>
+		<name normalized="Vest-Australia" languages="Norwegian (bokmal);Norwegian Nynorsk">Vest-Australia</name>
+		<name normalized="Vestur-Astralia" languages="Icelandic">Vestur-Ástralía</name>
+		<name normalized="Wastren Australie" languages="Scots">Wastren Australie</name>
+		<name normalized="Wes-Australie" languages="Afrikaans;Limburgish">Wes-Australië</name>
+		<name normalized="West Ostrielya" languages="Norfuk / Pitkern">West Ostrielya</name>
+		<name normalized="West-Australie" languages="Dutch">West-Australië</name>
+		<name normalized="Westaustralien" languages="Luxembourgish">Westaustralien</name>
+		<name normalized="Western Australia" languages="Danish;English;Fiji Hindi;German;official;Seeltersk;Simple English;Swedish;veneto;Waray">Western Australia</name>
+		<name normalized="Westerne Australia" languages="Old English">Westerne Australia</name>
+		<name normalized="Yn Austrail Heear" languages="Manx">Yn Austrail Heear</name>
+		<name normalized="Zahodna Avstralija" languages="Slovenian">Zahodna Avstralija</name>
+		<name normalized="Zapadna Australija" languages="Bosnian;Croatian;Serbo-Croatian">Zapadna Australija</name>
+		<name normalized="Zapadna Australia" languages="Slovak">Západná Austrália</name>
+		<name normalized="Zapadni Australie" languages="Czech">Západní Austrálie</name>
+		<name normalized="Δυτικη Αυστραλια" languages="Greek">Δυτική Αυστραλία</name>
+		<name normalized="Baрuuн Avсtрaлi" languages="Mongolian">Баруун Австрали</name>
+		<name normalized="Zapadнa Avсtрaлii" languages="Bulgarian">Западна Австралия</name>
+		<name normalized="Zapadнa Avсtрaлija" languages="Macedonian">Западна Австралија</name>
+		<name normalized="Zapadнa Auсtрaлija" languages="Serbian">Западна Аустралија</name>
+		<name normalized="Zapadнai Avсtрaлii" languages="Russian">Западная Австралия</name>
+		<name normalized="Zakodнii Aўсtрaлii" languages="biлaрuсkai (taрaskivita)‎">Заходняя Аўстралія</name>
+		<name normalized="Zakidнa Avсtрaлii" languages="Ukrainian">Західна Австралія</name>
+		<name normalized="Ныguылaeн Avсtрaлi" languages="Ossetic">Ныгуылæн Австрали</name>
+		<name normalized="Stat Zakodнii Aўсtрaлii" languages="Belarusian">Штат Заходняя Аўстралія</name>
+		<name normalized="Աrևmtյան Ավstrաlիա" languages="Armenian">Արևմտյան Ավստրալիա</name>
+		<name normalized="אvסtrדיh hמעrbיt" languages="Hebrew">אוסטרליה המערבית</name>
+		<name normalized="أسtrאلyא אلغrbyة" languages="Arabic">أستراليا الغربية</name>
+		<name normalized="אسtrאلیאی غrbی" languages="Persian">استرالیای غربی</name>
+		<name normalized="لیندא آسٹrیلیא" languages="Western Punjabi">لیندا آسٹریلیا</name>
+		<name normalized="mغrbی آسٹrیلیא" languages="Urdu">مغربی آسٹریلیا</name>
+		<name normalized="ps्cimi os्ट्reliyा" languages="Hindi">पश्चिमी ऑस्ट्रेलिया</name>
+		<name normalized="ves्टr्n os्ट्reliyा" languages="Marathi">वेस्टर्न ऑस्ट्रेलिया</name>
+		<name normalized="pੱcmi asਟrੇlia" languages="Punjabi">ਪੱਛਮੀ ਆਸਟਰੇਲੀਆ</name>
+		<name normalized="மேற்கு ஆஸ்திரேலியா" languages="Tamil">மேற்கு ஆஸ்திரேலியா</name>
+		<name normalized="รัฐเวสเทิร์นออสเตรเลีย" languages="Thai">รัฐเวสเทิร์นออสเตรเลีย</name>
+		<name normalized="დასავლეთი ავსტრალია" languages="Georgian">დასავლეთი ავსტრალია</name>
+		<name normalized="西oーstrra州" languages="Japanese">西オーストラリア州</name>
+		<name normalized="西澳大利亚州" languages="Chinese;Wu">西澳大利亚州</name>
+		<name normalized="西澳洲" languages="Cantonese">西澳洲</name>
+		<name normalized="웨스턴오스트레일리아 주" languages="Korean">웨스턴오스트레일리아 주</name>
+	</region>
+</regions>

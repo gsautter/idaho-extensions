@@ -1,0 +1,441 @@
+<regions country="Israel">
+	<region name="Central" type="district" typeTranslated="mehoz">
+		<name normalized="Centra distrikto de Israelo" languages="Esperanto">Centra distrikto de Israelo</name>
+		<name normalized="Central" languages="Dutch;English;French;German;Italian;official;Polish;Portuguese;Simple English;Spanish;Swedish;Vietnamese;Volapuk">Central</name>
+		<name normalized="Central Destrict" languages="Scots">Central Destrict</name>
+		<name normalized="Central District" languages="English;official">Central District</name>
+		<name normalized="Central Mehoz" languages="English;official">Central Mehoz</name>
+		<name normalized="Centrala distriktet" languages="Swedish">Centrala distriktet</name>
+		<name normalized="Centraldistriktet" languages="Danish">Centraldistriktet</name>
+		<name normalized="Centrine apskritis" languages="Lithuanian">Centrinė apskritis</name>
+		<name normalized="Centrum" languages="Dutch">Centrum</name>
+		<name normalized="Centralni distrikt" languages="Czech">Centrální distrikt</name>
+		<name normalized="Daerah Tengah" languages="Malay">Daerah Tengah</name>
+		<name normalized="Distretto Centrale" languages="Italian">Distretto Centrale</name>
+		<name normalized="District centre" languages="French">District centre</name>
+		<name normalized="Districte Central" languages="Catalan">Districte Central</name>
+		<name normalized="Districto Central" languages="Aragonese">Districto Central</name>
+		<name normalized="Districtul Central" languages="Romanian">Districtul Central</name>
+		<name normalized="Distrig Kreiz" languages="Breton">Distrig Kreiz</name>
+		<name normalized="Distrik Tengah" languages="Indonesian">Distrik Tengah</name>
+		<name normalized="Distrito Central" languages="Portuguese;Spanish">Distrito Central</name>
+		<name normalized="Dystrykt Centralny" languages="Polish">Dystrykt Centralny</name>
+		<name normalized="Erdialdeko barrutia" languages="Basque">Erdialdeko barrutia</name>
+		<name normalized="Keski-Israelin hallintoalue" languages="Finnish">Keski-Israelin hallintoalue</name>
+		<name normalized="Keskringkond" languages="Estonian">Keskringkond</name>
+		<name normalized="Merkez Bolge" languages="Turkish">Merkez Bölge</name>
+		<name normalized="Quan Trung" languages="Vietnamese">Quận Trung</name>
+		<name normalized="Sentraldistriktet" languages="Norwegian (bokmal)">Sentraldistriktet</name>
+		<name normalized="Sentrale distrik" languages="Afrikaans">Sentrale distrik</name>
+		<name normalized="Slyst Veanagh" languages="Manx">Slyst Veanagh</name>
+		<name normalized="Zentralbezirk" languages="German">Zentralbezirk</name>
+		<name normalized="Сiнtрaл" languages="Serbian">Сентрал</name>
+		<name normalized="Tiнtрaлiн okръg" languages="Bulgarian">Централен окръг</name>
+		<name normalized="Tiнtрaлнi okрug" languages="Serbian">Централни округ</name>
+		<name normalized="Tiнtрaль" languages="Russian">Централь</name>
+		<name normalized="Tiнtрaльнiй okрug" languages="Ukrainian">Центральний округ</name>
+		<name normalized="Tiнtрaльный okрug Izрaiлi" languages="Russian">Центральный округ Израиля</name>
+		<name normalized="Teнtрaльнai akрuga" languages="biлaрuсkai (taрaskivita)‎">Цэнтральная акруга</name>
+		<name normalized="Kենtrvնաkան mաrz" languages="Armenian">Կենտրոնական մարզ</name>
+		<name normalized="מhvז hמrכז" languages="Hebrew">מחוז המרכז</name>
+		<name normalized="צעntעr דיסtrיqt" languages="Yiddish">צענטער דיסטריקט</name>
+		<name normalized="אسtאن mrکز" languages="Persian">استان مرکز</name>
+		<name normalized="אلmنtqة אلوسtى" languages="Arabic">المنطقة الوسطى</name>
+		<name normalized="mrکزی" languages="Persian">مرکزی</name>
+		<name normalized="وشکאrلہ dلع" languages="Western Punjabi">وشکارلہ ضلع</name>
+		<name normalized="sen্ট্rাl" languages="Bishnupria Manipuri">সেন্ট্রাল</name>
+		<name normalized="சென்ட்ரல்" languages="Tamil">சென்ட்ரல்</name>
+		<name normalized="กลาง" languages="Thai">กลาง</name>
+		<name normalized="ცენტრალური რაიონი" languages="Georgian">ცენტრალური რაიონი</name>
+		<name normalized="sntrr" languages="Japanese">セントラル</name>
+		<name normalized="中" languages="Chinese;Gan">中</name>
+		<name normalized="中央区" languages="Chinese">中央区</name>
+		<name normalized="中央地区" languages="Japanese">中央地区</name>
+		<name normalized="센트럴" languages="Korean">센트럴</name>
+		<name normalized="중부 구" languages="Korean">중부 구</name>
+	</region>
+	<region name="Haifa" type="district" typeTranslated="mehoz">
+		<name normalized="Aifa" languages="Occitan">Aifa</name>
+		<name normalized="Beziak Haifa" languages="Bavarian">Beziak Haifa</name>
+		<name normalized="Bezirk Haifa" languages="German">Bezirk Haifa</name>
+		<name normalized="Daerah Haifa" languages="Malay">Daerah Haifa</name>
+		<name normalized="Distretto di Haifa" languages="Italian">Distretto di Haifa</name>
+		<name normalized="District de Haifa" languages="French">District de Haïfa</name>
+		<name normalized="Districte de Haifa" languages="Catalan">Districte de Haifa</name>
+		<name normalized="Districto de Haifa" languages="Aragonese">Districto de Haifa</name>
+		<name normalized="Districtul Haifa" languages="Romanian">Districtul Haifa</name>
+		<name normalized="Distrig Haifa" languages="Breton">Distrig Haifa</name>
+		<name normalized="Distrik Haifa" languages="Indonesian">Distrik Haifa</name>
+		<name normalized="Distrikto Hajfo" languages="Esperanto">Distrikto Ĥajfo</name>
+		<name normalized="Distrito de Haifa" languages="Spanish">Distrito de Haifa</name>
+		<name normalized="Dystrykt Hajfy" languages="Polish">Dystrykt Hajfy</name>
+		<name normalized="Haifa" languages="Afrikaans;Alemannisch;Aragonese;Basque;Bavarian;Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;German;Hungarian;Ido;Indonesian;Italian;Javanese;Kalaallisut;Ladino;Latin;Latvian;Lithuanian;Luxembourgish;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Sicilian;Simple English;Slovak;Spanish;Swedish;Tagalog;Vietnamese;Waray;Welsh">Haifa</name>
+		<name normalized="Haifa barrutia" languages="Basque">Haifa barrutia</name>
+		<name normalized="Haifa Destrict" languages="Scots">Haifa Destrict</name>
+		<name normalized="Haifa District" languages="English;official">Haifa District</name>
+		<name normalized="Haifa distrik" languages="Afrikaans">Haifa distrik</name>
+		<name normalized="Haifa Mehoz" languages="English;official">Haifa Mehoz</name>
+		<name normalized="Haifa ringkond" languages="Estonian">Haifa ringkond</name>
+		<name normalized="Haifa-distriktet" languages="Danish;Norwegian (bokmal)">Haifa-distriktet</name>
+		<name normalized="Haifan hallintoalue" languages="Finnish">Haifan hallintoalue</name>
+		<name normalized="Haifos apskritis" languages="Lithuanian">Haifos apskritis</name>
+		<name normalized="Haifsky distrikt" languages="Czech">Haifský distrikt</name>
+		<name normalized="Hajfa" languages="Polish">Hajfa</name>
+		<name normalized="Hayfa" languages="Azerbaijani;Turkish;Uzbek">Hayfa</name>
+		<name normalized="Hayfa Bolgesi" languages="Turkish">Hayfa Bölgesi</name>
+		<name normalized="Haifa" languages="Icelandic">Haífa</name>
+		<name normalized="Haifa" languages="French;Sardinian">Haïfa</name>
+		<name normalized="Okrug Haifa" languages="Croatian">Okrug Haifa</name>
+		<name normalized="Quan Haifa" languages="Vietnamese">Quận Haifa</name>
+		<name normalized="Slyst Haifa" languages="Manx">Slyst Haifa</name>
+		<name normalized="Hajfo" languages="Esperanto">Ĥajfo</name>
+		<name normalized="Χαιφα" languages="Greek">Χάιφα</name>
+		<name normalized="Goрad Kaйфa" languages="Belarusian">Горад Хайфа</name>
+		<name normalized="Kaiфa" languages="Serbian">Хаифа</name>
+		<name normalized="Kaйфae" languages="Ossetic">Хайфæ</name>
+		<name normalized="Kaйфa" languages="Bulgarian;Chechen;Kazakh;Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Хайфа</name>
+		<name normalized="Kaйфсki okръg" languages="Bulgarian">Хайфски окръг</name>
+		<name normalized="Kaйфсkiй okрug" languages="Russian">Хайфский округ</name>
+		<name normalized="Kaйфсьkiй okрug" languages="Ukrainian">Хайфський округ</name>
+		<name normalized="Hայfա" languages="Armenian">Հայֆա</name>
+		<name normalized="Hայfայի mաrz" languages="Armenian">Հայֆայի մարզ</name>
+		<name normalized="hיph" languages="Hebrew;Yiddish">חיפה</name>
+		<name normalized="hיph דיסtrיqt" languages="Yiddish">חיפה דיסטריקט</name>
+		<name normalized="מhvז hיph" languages="Hebrew">מחוז חיפה</name>
+		<name normalized="אسtאن hیfא" languages="Persian">استان حیفا</name>
+		<name normalized="hyfא" languages="Arabic">حيفا</name>
+		<name normalized="hیfא" languages="Persian">حیفا</name>
+		<name normalized="hەیfא" languages="Sorani Kurdish">حەیفا</name>
+		<name normalized="mنtqة hyfא" languages="Arabic">منطقة حيفا</name>
+		<name normalized="ہیfہ dلع" languages="Western Punjabi">ہیفہ ضلع</name>
+		<name normalized="ܚܝܦܐ" languages="Aramaic">ܚܝܦܐ</name>
+		<name normalized="hाipा" languages="Nepali">हाइफा</name>
+		<name normalized="hapा" languages="Marathi">हैफा</name>
+		<name normalized="கைஃபா" languages="Tamil">கைஃபா</name>
+		<name normalized="ಹೈಫ" languages="Kannada">ಹೈಫ</name>
+		<name normalized="ഹൈഫ" languages="Malayalam">ഹൈഫ</name>
+		<name normalized="ไฮฟา" languages="Thai">ไฮฟา</name>
+		<name normalized="ხაიფა" languages="Georgian">ხაიფა</name>
+		<name normalized="ხაიფის რაიონი" languages="Georgian">ხაიფის რაიონი</name>
+		<name normalized="hiha" languages="Japanese">ハイファ</name>
+		<name normalized="hiha地区" languages="Japanese">ハイファ地区</name>
+		<name normalized="海法" languages="Chinese">海法</name>
+		<name normalized="海法区" languages="Chinese">海法区</name>
+		<name normalized="하이파" languages="Korean">하이파</name>
+		<name normalized="하이파 구" languages="Korean">하이파 구</name>
+	</region>
+	<region name="Jerusalem" type="district" typeTranslated="mehoz">
+		<name normalized="Al-Qudıs" languages="Kara-Kalpak">Al-Qudıs</name>
+		<name normalized="Baitul Maqdis" languages="Banjar">Baitul Maqdis</name>
+		<name normalized="Baitulmuqaddis" languages="Malay">Baitulmuqaddis</name>
+		<name normalized="Bezirk Jerusalem" languages="German">Bezirk Jerusalem</name>
+		<name normalized="Cherusalem" languages="Aragonese">Cherusalem</name>
+		<name normalized="Daerah Jerusalem" languages="Malay">Daerah Jerusalem</name>
+		<name normalized="Distretto di Gerusalemme" languages="Italian">Distretto di Gerusalemme</name>
+		<name normalized="District de Jerusalem" languages="French">District de Jérusalem</name>
+		<name normalized="Districte de Jerusalem" languages="Catalan">Districte de Jerusalem</name>
+		<name normalized="Districto de Cherusalem" languages="Aragonese">Districto de Cherusalem</name>
+		<name normalized="Districtul Ierusalim" languages="Romanian">Districtul Ierusalim</name>
+		<name normalized="Distrig Jeruzalem" languages="Breton">Distrig Jeruzalem</name>
+		<name normalized="Distrik Yerusalem" languages="Indonesian">Distrik Yerusalem</name>
+		<name normalized="Distrikto Jerusalemo" languages="Esperanto">Distrikto Jerusalemo</name>
+		<name normalized="Distrito de Jerusalen" languages="Spanish">Distrito de Jerusalén</name>
+		<name normalized="Djeruzalem" languages="Walloon">Djeruzalem</name>
+		<name normalized="Dystrykt Jerozolimy" languages="Polish">Dystrykt Jerozolimy</name>
+		<name normalized="Gerusalem" languages="Piedmontese">Gerusalem</name>
+		<name normalized="Gerusalemme" languages="Italian;Ligure;Sardinian;tarandine">Gerusalemme</name>
+		<name normalized="Gerusalem" languages="lumbaart">Gerüsalem</name>
+		<name normalized="Girusalemmi" languages="Sicilian">Girusalemmi</name>
+		<name normalized="Herusalem" languages="Iloko;Papiamento;Tagalog">Herusalem</name>
+		<name normalized="Herusale" languages="Guarani">Herusalẽ</name>
+		<name normalized="Hierosolyma" languages="Latin">Hierosolyma</name>
+		<name normalized="Hierusalem" languages="Volapuk;veneto">Hierusalem</name>
+		<name normalized="Iarusaileim" languages="Irish">Iarúsailéim</name>
+		<name normalized="Ierusalem" languages="Ido;Nahuatl;Old English;Scottish Gaelic">Ierusalem</name>
+		<name normalized="Ierusalema" languages="Samoan">Ierusalema</name>
+		<name normalized="Ierusalim" languages="Romanian">Ierusalim</name>
+		<name normalized="Ia-lo͘-sat-leng" languages="Chinese (Min Nan)">Iâ-lō͘-sat-léng</name>
+		<name normalized="Iyerusalim" languages="Turkmen">Iýerusalim</name>
+		<name normalized="Jarusalen" languages="Mirandese">Jarusalen</name>
+		<name normalized="Jeriwsalem" languages="Welsh">Jeriwsalem</name>
+		<name normalized="Jerozale" languages="Samogitian">Jerozalė</name>
+		<name normalized="Jerozolima" languages="Polish">Jerozolima</name>
+		<name normalized="Jerozolema" languages="Kashubian">Jerozolëma</name>
+		<name normalized="Jerusalem" languages="Afrikaans;Alemannisch;Basque;Bavarian;Bosnian;Catalan;Cornish;Danish;English;Fiji Hindi;Finnish;German;Igbo;Interlingua;Kalaallisut;Low German;Luxembourgish;Malagasy;Manx;Northern Frisian;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Romansh;Scots;Seeltersk;Shona;Simple English;Sranan Tongo;Swedish;Vietnamese">Jerusalem</name>
+		<name normalized="Jerusalem barrutia" languages="Basque">Jerusalem barrutia</name>
+		<name normalized="Jerusalem Destrict" languages="Scots">Jerusalem Destrict</name>
+		<name normalized="Jerusalem District" languages="English;official">Jerusalem District</name>
+		<name normalized="Jerusalem distrik" languages="Afrikaans">Jerusalem distrik</name>
+		<name normalized="Jerusalem Mehoz" languages="English;official">Jerusalem Mehoz</name>
+		<name normalized="Jerusalem-distriktet" languages="Danish;Norwegian (bokmal)">Jerusalem-distriktet</name>
+		<name normalized="Jerusalemi" languages="Albanian;Fijian">Jerusalemi</name>
+		<name normalized="Jerusalemin hallintoalue" languages="Finnish">Jerusalemin hallintoalue</name>
+		<name normalized="Jerusalemo" languages="Esperanto">Jerusalemo</name>
+		<name normalized="Jerusalen" languages="Cebuano">Jerusalen</name>
+		<name normalized="Jerusalim" languages="Veps">Jerusalim</name>
+		<name normalized="Jerusalem" languages="Occitan">Jerusalèm</name>
+		<name normalized="Jerusalem" languages="Portuguese">Jerusalém</name>
+		<name normalized="Jerusalen" languages="Chavacano de Zamboanga;Extremaduran;Spanish;Waray">Jerusalén</name>
+		<name normalized="Jeruusalemm" languages="Estonian;Voro">Jeruusalemm</name>
+		<name normalized="Jeruusalemma ringkond" languages="Estonian">Jeruusalemma ringkond</name>
+		<name normalized="Jeruzalem" languages="Breton;Croatian;Dutch;Limburgish;Lower Sorbian;Serbo-Croatian;Slovak;Slovenian;Upper Sorbian;Zeeuws">Jeruzalem</name>
+		<name normalized="Jeruzaleme" languages="Latvian">Jeruzaleme</name>
+		<name normalized="Jeruzalim" languages="Western Frisian">Jeruzalim</name>
+		<name normalized="Jeruzalem" languages="Czech">Jeruzalém</name>
+		<name normalized="Jeruzalemsky distrikt" languages="Czech">Jeruzalémský distrikt</name>
+		<name normalized="Jeruzale" languages="Lithuanian">Jeruzalė</name>
+		<name normalized="Jeruzales apskritis" languages="Lithuanian">Jeruzalės apskritis</name>
+		<name normalized="Jeruzsalem" languages="Hungarian">Jeruzsálem</name>
+		<name normalized="Jerusalem" languages="Faroese;Icelandic">Jerúsalem</name>
+		<name normalized="Jerusale´mu" languages="Yoruba">Jerúsálẹ́mù</name>
+		<name normalized="Jerusalem" languages="French;Nouormand">Jérusalem</name>
+		<name normalized="Kudus" languages="Turkish">Kudüs</name>
+		<name normalized="Kudus Bolgesi" languages="Turkish">Kudüs Bölgesi</name>
+		<name normalized="Orcalim" languages="Kabyle">Orcalim</name>
+		<name normalized="Orselim" languages="Kurdish">Orşelîm</name>
+		<name normalized="Quddus" languages="Uzbek">Quddus</name>
+		<name normalized="Qudus" languages="Crimean Turkish;Somali">Qudus</name>
+		<name normalized="Quan Jerusalem" languages="Vietnamese">Quận Jerusalem</name>
+		<name normalized="Slyst Jerusalem" languages="Manx">Slyst Jerusalem</name>
+		<name normalized="Urselim" languages="Zazaki">Urşelim</name>
+		<name normalized="Xerusalen" languages="Asturian;Galician">Xerusalén</name>
+		<name normalized="Yerusalem" languages="Indonesian;Sundanese;Tok Pisin">Yerusalem</name>
+		<name normalized="Yerusalemu" languages="Kinyarwanda;Swahili">Yerusalemu</name>
+		<name normalized="Yerusalemi" languages="Lingala">Yerusalémi</name>
+		<name normalized="Yerushalayim" languages="Ladino;Quechua">Yerushalayim</name>
+		<name normalized="Yerusəlim" languages="Azerbaijani">Yerusəlim</name>
+		<name normalized="Ya-lu-sat-lang" languages="Hakka">Yâ-lu-sat-lâng</name>
+		<name normalized="Yerusalem" languages="Javanese">Yérusalem</name>
+		<name normalized="Ιερουσαλημ" languages="Greek">Ιερουσαλήμ</name>
+		<name normalized="Baйtuл Мakъdiс" languages="Avaric">Байтул Макъдис</name>
+		<name normalized="Goрad Iiрuсaлiм" languages="Belarusian">Горад Іерусалім</name>
+		<name normalized="Iрuсaлiм" languages="Macedonian;Moksha">Ерусалим</name>
+		<name normalized="Iрuсaлiм" languages="biлaрuсkai (taрaskivita)‎">Ерусалім</name>
+		<name normalized="Iрuсaлiмсkai akрuga" languages="biлaрuсkai (taрaskivita)‎">Ерусалімская акруга</name>
+		<name normalized="Iiрuсaлiм" languages="Chechen;Chuvash;Eastern Mari;Komi;Lezghian;Mongolian;Ossetic;Russian;Sakha;Tatar">Иерусалим</name>
+		<name normalized="Iiрuсaлiмсkiй okрug" languages="Russian">Иерусалимский округ</name>
+		<name normalized="Йiрuсaлiм" languages="Bulgarian">Йерусалим</name>
+		<name normalized="Йiрuсaлiмсki okръg" languages="Bulgarian">Йерусалимски окръг</name>
+		<name normalized="Kuduс" languages="Kyrgyz">Кудус</name>
+		<name normalized="Uрsaлiм" languages="Tajik">Уршалим</name>
+		<name normalized="Eрuсaлiм" languages="Rusyn;Ukrainian">Єрусалим</name>
+		<name normalized="Eрuсaлiмсьkiй okрug" languages="Ukrainian">Єрусалимський округ</name>
+		<name normalized="Yeрouсaлiмъ" languages="Church Slavic">Їєроусалимъ</name>
+		<name normalized="Jiрuсaлiм" languages="Serbian">Јерусалим</name>
+		<name normalized="Əл-Kұdыс" languages="Kazakh">Әл-Құдыс</name>
+		<name normalized="Եrvysաղեm" languages="Armenian">Երուսաղեմ</name>
+		<name normalized="Եrvysաղեmի mաrz" languages="Armenian">Երուսաղեմի մարզ</name>
+		<name normalized="יrvשדים" languages="Hebrew;Yiddish">ירושלים</name>
+		<name normalized="יrvשדים דיסtrיqt" languages="Yiddish">ירושלים דיסטריקט</name>
+		<name normalized="מhvז יrvשדים" languages="Hebrew">מחוז ירושלים</name>
+		<name normalized="ئوrشەلیm" languages="Sorani Kurdish">ئورشەلیم</name>
+		<name normalized="אسtאن אوrشلیm" languages="Persian">استان اورشلیم</name>
+		<name normalized="אلqدس" languages="Arabic;Egyptian Spoken Arabic">القدس</name>
+		<name normalized="אوrشلیm" languages="Persian">اورشلیم</name>
+		<name normalized="byt אلmqدس" languages="Pashto">بيت المقدس</name>
+		<name normalized="bیt אلmqدس" languages="Urdu">بیت المقدس</name>
+		<name normalized="qۇدس" languages="Uyghur">قۇدس</name>
+		<name normalized="mنtqة אلqدس" languages="Arabic">منطقة القدس</name>
+		<name normalized="یrوشلm" languages="Western Punjabi">یروشلم</name>
+		<name normalized="یrوشلm dلع" languages="Western Punjabi">یروشلم ضلع</name>
+		<name normalized="ܐܘܪܫܠܡ" languages="Aramaic">ܐܘܪܫܠܡ</name>
+		<name normalized="ޤުދުސް" languages="Divehi">ޤުދުސް</name>
+		<name normalized="jeruslem" languages="Marathi">जेरुसलेम</name>
+		<name normalized="yruslm" languages="Hindi">यरुशलम</name>
+		<name normalized="jerusাlem" languages="Bengali">জেরুসালেম</name>
+		<name normalized="jੇruslm" languages="Punjabi">ਜੇਰੂਸਲਮ</name>
+		<name normalized="ଜେରୁଜେଲମ" languages="Oriya">ଜେରୁଜେଲମ</name>
+		<name normalized="எருசலேம்" languages="Tamil">எருசலேம்</name>
+		<name normalized="జెరూసలేం" languages="Telugu">జెరూసలేం</name>
+		<name normalized="ಜೆರುಸಲೆಂ" languages="Kannada">ಜೆರುಸಲೆಂ</name>
+		<name normalized="ജെറുസലേം" languages="Malayalam">ജെറുസലേം</name>
+		<name normalized="เยรูซาเลม" languages="Thai">เยรูซาเลม</name>
+		<name normalized="ཇེ་རུ་ས་ལེམ།" languages="Tibetan">ཇེ་རུ་ས་ལེམ།</name>
+		<name normalized="ဂျေရုဆလင်မြို့" languages="Burmese">ဂျေရုဆလင်မြို့</name>
+		<name normalized="იერუსალიმი" languages="Georgian">იერუსალიმი</name>
+		<name normalized="እየሩሳሌም" languages="Amharic">እየሩሳሌም</name>
+		<name normalized="ersrm" languages="Japanese">エルサレム</name>
+		<name normalized="ersrm地区" languages="Japanese">エルサレム地区</name>
+		<name normalized="耶路撒冷" languages="Cantonese;Chinese;Gan">耶路撒冷</name>
+		<name normalized="耶路撒冷区" languages="Chinese">耶路撒冷区</name>
+		<name normalized="예루살렘" languages="Korean">예루살렘</name>
+		<name normalized="예루살렘 구" languages="Korean">예루살렘 구</name>
+		<name normalized="𐌹𐌰𐌹𐍂𐌿𐍃𐌰𐌿𐌻𐍅𐌼𐌰" languages="Gothic">𐌹𐌰𐌹𐍂𐌿𐍃𐌰𐌿𐌻𐍅𐌼𐌰</name>
+	</region>
+	<region name="Northern" type="district" typeTranslated="mehoz">
+		<name normalized="Daerah Utara" languages="Malay">Daerah Utara</name>
+		<name normalized="Distretto Settentrionale" languages="Italian">Distretto Settentrionale</name>
+		<name normalized="District nord" languages="French">District nord</name>
+		<name normalized="Districte del Nord" languages="Catalan">Districte del Nord</name>
+		<name normalized="Districto Norte" languages="Aragonese">Districto Norte</name>
+		<name normalized="Districtul de Nord" languages="Romanian">Districtul de Nord</name>
+		<name normalized="Distrig an Norzh" languages="Breton">Distrig an Norzh</name>
+		<name normalized="Distrik Utara" languages="Indonesian">Distrik Utara</name>
+		<name normalized="Distrito Norte" languages="Portuguese;Spanish">Distrito Norte</name>
+		<name normalized="Dystrykt Polnocny" languages="Polish">Dystrykt Północny</name>
+		<name normalized="Iparraldeko barrutia" languages="Basque">Iparraldeko barrutia</name>
+		<name normalized="Kuzey Bolgesi" languages="Turkish">Kuzey Bölgesi</name>
+		<name normalized="Noord" languages="Dutch">Noord</name>
+		<name normalized="Noordelike distrik" languages="Afrikaans">Noordelike distrik</name>
+		<name normalized="Norda distrikto de Israelo" languages="Esperanto">Norda distrikto de Israelo</name>
+		<name normalized="Nordbezirk" languages="German">Nordbezirk</name>
+		<name normalized="Norddistriktet" languages="Danish;Norwegian (bokmal)">Norddistriktet</name>
+		<name normalized="Norra distriktet" languages="Swedish">Norra distriktet</name>
+		<name normalized="Northern" languages="Breton;Dutch;English;French;German;official;Polish;Portuguese;Swedish">Northern</name>
+		<name normalized="Northern District" languages="English;official">Northern District</name>
+		<name normalized="Northern Mehoz" languages="English;official">Northern Mehoz</name>
+		<name normalized="Northren Destrict" languages="Scots">Northren Destrict</name>
+		<name normalized="Pohjoinen hallintoalue" languages="Finnish">Pohjoinen hallintoalue</name>
+		<name normalized="Pohjaringkond" languages="Estonian">Põhjaringkond</name>
+		<name normalized="Quan Bac" languages="Vietnamese">Quận Bắc</name>
+		<name normalized="Severni distrikt" languages="Czech">Severní distrikt</name>
+		<name normalized="Slyst Hwoaie" languages="Manx">Slyst Hwoaie</name>
+		<name normalized="Siaures apskritis" languages="Lithuanian">Šiaurės apskritis</name>
+		<name normalized="Paўнocнai akрuga" languages="biлaрuсkai (taрaskivita)‎">Паўночная акруга</name>
+		<name normalized="Pivнicнiй okрug" languages="Ukrainian">Північний округ</name>
+		<name normalized="Сiviрiн okръg" languages="Bulgarian">Северен окръг</name>
+		<name normalized="Сiviрнi okрug" languages="Serbian">Северни округ</name>
+		<name normalized="Сiviрный okрug Izрaiлi" languages="Russian">Северный округ Израиля</name>
+		<name normalized="Hյvysիsային mաrz" languages="Armenian">Հյուսիսային մարզ</name>
+		<name normalized="מhvז hצpvן" languages="Hebrew">מחוז הצפון</name>
+		<name normalized="צpvן דיסtrיqt" languages="Yiddish">צפון דיסטריקט</name>
+		<name normalized="אtلא dلع" languages="Western Punjabi">اتلا ضلع</name>
+		<name normalized="אسtאن شmאل" languages="Persian">استان شمال</name>
+		<name normalized="אلmنtqة אلشmאلyة" languages="Arabic">المنطقة الشمالية</name>
+		<name normalized="ჩრდილოეთი რაიონი" languages="Georgian">ჩრდილოეთი რაიონი</name>
+		<name normalized="北部区" languages="Chinese">北部区</name>
+		<name normalized="北部地区" languages="Japanese">北部地区</name>
+		<name normalized="북부 구" languages="Korean">북부 구</name>
+	</region>
+	<region name="Southern" type="district" typeTranslated="mehoz">
+		<name normalized="Daerah Selatan" languages="Malay">Daerah Selatan</name>
+		<name normalized="Distretto Meridionale" languages="Italian">Distretto Meridionale</name>
+		<name normalized="District sud" languages="French">District sud</name>
+		<name normalized="Districte del Sud" languages="Catalan">Districte del Sud</name>
+		<name normalized="Districto Sud" languages="Aragonese">Districto Sud</name>
+		<name normalized="Districtul de Sud" languages="Romanian">Districtul de Sud</name>
+		<name normalized="Distrig ar Su" languages="Breton">Distrig ar Su</name>
+		<name normalized="Distrik Selatan" languages="Indonesian">Distrik Selatan</name>
+		<name normalized="Distrito Meridional" languages="Spanish">Distrito Meridional</name>
+		<name normalized="Distrito Sul" languages="Portuguese">Distrito Sul</name>
+		<name normalized="Dystrykt Poludniowy" languages="Polish">Dystrykt Południowy</name>
+		<name normalized="Etelainen hallintoalue" languages="Finnish">Eteläinen hallintoalue</name>
+		<name normalized="Guney Bolgesi" languages="Turkish">Güney Bölgesi</name>
+		<name normalized="Hegoaldeko barrutia" languages="Basque">Hegoaldeko barrutia</name>
+		<name normalized="Jizni distrikt" languages="Czech">Jižní distrikt</name>
+		<name normalized="Juzni okrug" languages="Serbo-Croatian">Južni okrug</name>
+		<name normalized="Lounaringkond" languages="Estonian">Lõunaringkond</name>
+		<name normalized="Pietu apskritis" languages="Lithuanian">Pietų apskritis</name>
+		<name normalized="Quan Nam" languages="Vietnamese">Quận Nam</name>
+		<name normalized="Slyst Yiass" languages="Manx">Slyst Yiass</name>
+		<name normalized="Soothren Destrict" languages="Scots">Soothren Destrict</name>
+		<name normalized="Southern" languages="Dutch;English;French;German;official;Polish;Simple English;Swedish">Southern</name>
+		<name normalized="Southern District" languages="English;official">Southern District</name>
+		<name normalized="Southern Mehoz" languages="English;official">Southern Mehoz</name>
+		<name normalized="Suda distrikto de Israelo" languages="Esperanto">Suda distrikto de Israelo</name>
+		<name normalized="Suidelike distrik" languages="Afrikaans">Suidelike distrik</name>
+		<name normalized="Syddistriktet" languages="Danish">Syddistriktet</name>
+		<name normalized="Sodra distriktet" languages="Swedish">Södra distriktet</name>
+		<name normalized="Sordistriktet" languages="Norwegian (bokmal)">Sørdistriktet</name>
+		<name normalized="Sudbezirk" languages="German">Südbezirk</name>
+		<name normalized="Zuid" languages="Dutch">Zuid</name>
+		<name normalized="Paўdнёvai akрuga" languages="biлaрuсkai (taрaskivita)‎">Паўднёвая акруга</name>
+		<name normalized="Pivdiннiй okрug" languages="Ukrainian">Південний округ</name>
+		<name normalized="Сauziрн" languages="Russian">Саузерн</name>
+		<name normalized="Юziн okръg" languages="Bulgarian">Южен окръг</name>
+		<name normalized="Юzный okрug Izрaiлi" languages="Russian">Южный округ Израиля</name>
+		<name normalized="Juzнi okрug" languages="Serbian">Јужни округ</name>
+		<name normalized="Hաrավային mաrz" languages="Armenian">Հարավային մարզ</name>
+		<name normalized="דrvם דיסtrיqt" languages="Yiddish">דרום דיסטריקט</name>
+		<name normalized="מhvז hדrvם" languages="Hebrew">מחוז הדרום</name>
+		<name normalized="אسtאن jنوb" languages="Persian">استان جنوب</name>
+		<name normalized="אلmنtqة אلjنوbyة" languages="Arabic">المنطقة الجنوبية</name>
+		<name normalized="tھلوאں dلع" languages="Western Punjabi">تھلواں ضلع</name>
+		<name normalized="სამხრეთი რაიონი" languages="Georgian">სამხრეთი რაიონი</name>
+		<name normalized="szn" languages="Japanese">サザン</name>
+		<name normalized="南部区" languages="Chinese">南部区</name>
+		<name normalized="南部地区" languages="Japanese">南部地区</name>
+		<name normalized="남부 구" languages="Korean">남부 구</name>
+	</region>
+	<region name="Tel Aviv" type="district" typeTranslated="mehoz">
+		<name normalized="Bezirk Tel Aviv" languages="German">Bezirk Tel Aviv</name>
+		<name normalized="Daerah Tel Aviv" languages="Malay">Daerah Tel Aviv</name>
+		<name normalized="Distretto di Tel Aviv" languages="Italian">Distretto di Tel Aviv</name>
+		<name normalized="District de Tel Aviv" languages="French">District de Tel Aviv</name>
+		<name normalized="Districte de Tel Aviv" languages="Catalan">Districte de Tel Aviv</name>
+		<name normalized="Districto de Tel Aviv" languages="Aragonese">Districto de Tel Aviv</name>
+		<name normalized="Districtul Tel Aviv" languages="Romanian">Districtul Tel Aviv</name>
+		<name normalized="Distrig Tel Aviv" languages="Breton">Distrig Tel Aviv</name>
+		<name normalized="Distrik Tel Aviv" languages="Indonesian">Distrik Tel Aviv</name>
+		<name normalized="Distrikto Tel-Avivo" languages="Esperanto">Distrikto Tel-Avivo</name>
+		<name normalized="Distrito de Tel Aviv" languages="Spanish">Distrito de Tel Aviv</name>
+		<name normalized="Dystrykt Tel Awiwu" languages="Polish">Dystrykt Tel Awiwu</name>
+		<name normalized="Quan Tel Aviv" languages="Vietnamese">Quận Tel Aviv</name>
+		<name normalized="Slyst Tel Aviv" languages="Manx">Slyst Tel Aviv</name>
+		<name normalized="Tel Aviv" languages="Afrikaans;Basque;Bavarian;Bikol Central;Bosnian;Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Estonian;Extremaduran;Finnish;Galician;Ido;Indonesian;Italian;Javanese;Kabyle;Kalaallisut;Kinyarwanda;Ladino;lumbaart;Luxembourgish;Malay;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Portuguese;Romanian;Sardinian;Scots;Scottish Gaelic;Seeltersk;Serbo-Croatian;Sicilian;Simple English;Slovenian;Spanish;Swahili;Swedish;Turkish;Vietnamese;Waray;Welsh;Western Frisian;Zeeuws">Tel Aviv</name>
+		<name normalized="Tel Aviv barrutia" languages="Basque">Tel Aviv barrutia</name>
+		<name normalized="Tel Aviv Bolgesi" languages="Turkish">Tel Aviv Bölgesi</name>
+		<name normalized="Tel Aviv Destrict" languages="Scots">Tel Aviv Destrict</name>
+		<name normalized="Tel Aviv District" languages="English;official">Tel Aviv District</name>
+		<name normalized="Tel Aviv distrik" languages="Afrikaans">Tel Aviv distrik</name>
+		<name normalized="Tel Aviv Mehoz" languages="English;official">Tel Aviv Mehoz</name>
+		<name normalized="Tel Aviv-distriktet" languages="Danish;Norwegian (bokmal)">Tel Aviv-distriktet</name>
+		<name normalized="Tel Aviv-Jaffa" languages="Alemannisch;Faroese;French;German">Tel Aviv-Jaffa</name>
+		<name normalized="Tel Aviv-Jafo" languages="Slovak">Tel Aviv-Jafo</name>
+		<name normalized="Tel Aviv-Yafo" languages="Manx">Tel Aviv-Yafo</name>
+		<name normalized="Tel Avivas" languages="Lithuanian">Tel Avivas</name>
+		<name normalized="Tel Avivi ringkond" languages="Estonian">Tel Avivi ringkond</name>
+		<name normalized="Tel Avivo apskritis" languages="Lithuanian">Tel Avivo apskritis</name>
+		<name normalized="Tel Aviv" languages="Icelandic">Tel Avív</name>
+		<name normalized="Tel Avevs" languages="Samogitian">Tel Avėvs</name>
+		<name normalized="Tel Awiw-Jafa" languages="Polish">Tel Awiw-Jafa</name>
+		<name normalized="Tel-Abib" languages="Tagalog">Tel-Abib</name>
+		<name normalized="Tel-Aviv" languages="Hungarian;Uzbek">Tel-Aviv</name>
+		<name normalized="Tel-Avivo" languages="Esperanto">Tel-Avivo</name>
+		<name normalized="Tel-Əviv" languages="Azerbaijani">Tel-Əviv</name>
+		<name normalized="Telaviva" languages="Latvian">Telaviva</name>
+		<name normalized="Telavivsky distrikt" languages="Czech">Telavivský distrikt</name>
+		<name normalized="Telavivum" languages="Latin">Telavivum</name>
+		<name normalized="Τελ Αβιβ" languages="Greek">Τελ Αβίβ</name>
+		<name normalized="Goрad Teль-Aviў" languages="Belarusian">Горад Тэль-Авіў</name>
+		<name normalized="Tiл Aviv" languages="Bulgarian;Macedonian;Serbian">Тел Авив</name>
+		<name normalized="Tiл-Aviv" languages="Mongolian">Тел-Авив</name>
+		<name normalized="Tiлavivсki okръg" languages="Bulgarian">Телавивски окръг</name>
+		<name normalized="Tiль-Aviv" languages="Chechen;Kazakh;Ossetic;Russian;Sakha">Тель-Авив</name>
+		<name normalized="Tiль-Avivсkiй okрug" languages="Russian">Тель-Авивский округ</name>
+		<name normalized="Tiль-Aviv" languages="Ukrainian">Тель-Авів</name>
+		<name normalized="Tiль-Avivсьkiй okрug" languages="Ukrainian">Тель-Авівський округ</name>
+		<name normalized="Teль-Aviў" languages="biлaрuсkai (taрaskivita)‎">Тэль-Авіў</name>
+		<name normalized="Tեl Ավիվ" languages="Armenian">Թել Ավիվ</name>
+		<name normalized="Tեl Ավիվի mաrz" languages="Armenian">Թել Ավիվի մարզ</name>
+		<name normalized="מhvז tד אbיb" languages="Hebrew">מחוז תל אביב</name>
+		<name normalized="tד אbיb דיסtrיqt" languages="Yiddish">תל אביב דיסטריקט</name>
+		<name normalized="tד אbיb-יpv" languages="Hebrew;Yiddish">תל אביב-יפו</name>
+		<name normalized="אسtאن tل‌آویو" languages="Persian">استان تل‌آویو</name>
+		<name normalized="tل أbyb" languages="Arabic">تل أبيب</name>
+		<name normalized="tل אbyb" languages="Egyptian Spoken Arabic">تل ابيب</name>
+		<name normalized="tل אbیb" languages="Urdu">تل ابیب</name>
+		<name normalized="tل אویو dلع" languages="Western Punjabi">تل اویو ضلع</name>
+		<name normalized="tل‌آویو" languages="Persian">تل‌آویو</name>
+		<name normalized="tێل ئەvیv" languages="Sorani Kurdish">تێل ئەڤیڤ</name>
+		<name normalized="tېلאۋىf" languages="Uyghur">تېلاۋىف</name>
+		<name normalized="mنtqة tل أbyb" languages="Arabic">منطقة تل أبيب</name>
+		<name normalized="ܬܠ ܐܒܝܒ" languages="Aramaic">ܬܠ ܐܒܝܒ</name>
+		<name normalized="tel abiv" languages="Newari">तेल अभिव</name>
+		<name normalized="tel aviv" languages="Hindi">तेल अविव</name>
+		<name normalized="tel aviv" languages="Marathi">तेल अवीव</name>
+		<name normalized="tel abib" languages="Bengali">তেল আভিভ</name>
+		<name normalized="டெல் அவீவ்" languages="Tamil">டெல் அவீவ்</name>
+		<name normalized="ടെൽ അവീവ്" languages="Malayalam">ടെൽ അവീവ്</name>
+		<name normalized="เทลอาวีฟ" languages="Thai">เทลอาวีฟ</name>
+		<name normalized="თელ-ავივი" languages="Georgian">თელ-ავივი</name>
+		<name normalized="ቴል አቪቭ" languages="Amharic">ቴል አቪቭ</name>
+		<name normalized="trabb" languages="Japanese">テルアビブ</name>
+		<name normalized="trabb地区" languages="Japanese">テルアビブ地区</name>
+		<name normalized="特拉維夫" languages="Cantonese">特拉維夫</name>
+		<name normalized="特拉维夫" languages="Chinese">特拉维夫</name>
+		<name normalized="特拉维夫区" languages="Chinese">特拉维夫区</name>
+		<name normalized="텔아비브" languages="Korean">텔아비브</name>
+		<name normalized="텔아비브 구" languages="Korean">텔아비브 구</name>
+	</region>
+</regions>

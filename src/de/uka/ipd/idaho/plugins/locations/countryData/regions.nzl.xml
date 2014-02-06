@@ -1,0 +1,438 @@
+<regions country="New Zealand">
+	<region name="Auckland" type="region" typeTranslated="region">
+		<name normalized="Auckland" languages="Afrikaans;Basque;Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Fiji Hindi;Finnish;French;Galician;German;Hungarian;Icelandic;Ido;Indonesian;Interlingue;Irish;Italian;Javanese;Kalaallisut;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Sicilian;Simple English;Slovak;Spanish;Swahili;Swedish;Turkish;Vietnamese;Volapuk;Waray;Welsh;Western Frisian">Auckland</name>
+		<name normalized="Auckland eskualdea" languages="Basque">Auckland eskualdea</name>
+		<name normalized="Auckland Region" languages="English;official">Auckland Region</name>
+		<name normalized="Aucland" languages="Old English">Aucland</name>
+		<name normalized="Aucopolis" languages="Latin">Aucopolis</name>
+		<name normalized="Awklanda" languages="Quechua">Awklanda</name>
+		<name normalized="Oklandas" languages="Lithuanian">Oklandas</name>
+		<name normalized="Oklend" languages="Azerbaijani">Oklend</name>
+		<name normalized="Oklenda" languages="Latvian">Oklenda</name>
+		<name normalized="Regionen Auckland" languages="Norwegian Nynorsk">Regionen Auckland</name>
+		<name normalized="Regio d'Auckland" languages="Catalan">Regió d'Auckland</name>
+		<name normalized="Region de Auckland" languages="Spanish">Región de Auckland</name>
+		<name normalized="Tamaki-makau-rau" languages="Maori">Tāmaki-makau-rau</name>
+		<name normalized="Wilayah Auckland" languages="Malay">Wilayah Auckland</name>
+		<name normalized="Ωκλαντ" languages="Greek">Ώκλαντ</name>
+		<name normalized="Goрad Okлiнd" languages="Belarusian">Горад Окленд</name>
+		<name normalized="Okлaнd" languages="Bulgarian;Serbian">Окланд</name>
+		<name normalized="Okлiнd" languages="Chechen;Komi;Macedonian;Mongolian;Ossetic;Russian;Ukrainian">Окленд</name>
+		<name normalized="Okлeнd" languages="biлaрuсkai (taрaskivita)‎">Оклэнд</name>
+		<name normalized="Oklենd" languages="Armenian">Օքլենդ</name>
+		<name normalized="אvqדnד" languages="Hebrew">אוקלנד</name>
+		<name normalized="آوکلند" languages="Persian">آوکلند</name>
+		<name normalized="أوkلאند" languages="Arabic">أوكلاند</name>
+		<name normalized="ئאۋkلאند" languages="Uyghur">ئاۋكلاند</name>
+		<name normalized="aklaंड" languages="Nepali">अकलैंड</name>
+		<name normalized="oklंड" languages="Marathi">ऑकलंड</name>
+		<name normalized="ok्laण्ड" languages="Hindi">ऑक्लैण्ड</name>
+		<name normalized="aklaਂਡ" languages="Punjabi">ਆਕਲੈਂਡ</name>
+		<name normalized="oklen્ડ" languages="Gujarati">ઓકલેન્ડ</name>
+		<name normalized="ஆக்லன்ட்" languages="Tamil">ஆக்லன்ட்</name>
+		<name normalized="ఆక్లాండ్" languages="Telugu">ఆక్లాండ్</name>
+		<name normalized="ಆಕ್ಲೆಂಡ್‌" languages="Kannada">ಆಕ್ಲೆಂಡ್‌</name>
+		<name normalized="ഓക്‌ലൻഡ്" languages="Malayalam">ഓക്‌ലൻഡ്</name>
+		<name normalized="ออกแลนด์" languages="Thai">ออกแลนด์</name>
+		<name normalized="အော့ကလန်မြို့" languages="Burmese">အော့ကလန်မြို့</name>
+		<name normalized="ოკლენდი" languages="Georgian">ოკლენდი</name>
+		<name normalized="ოკლენდის რეგიონი" languages="Georgian">ოკლენდის რეგიონი</name>
+		<name normalized="oーkrnd" languages="Japanese">オークランド</name>
+		<name normalized="oーkrnd地方" languages="Japanese">オークランド地方</name>
+		<name normalized="奥克兰大区" languages="Chinese">奥克兰大区</name>
+		<name normalized="奧克蘭都會區" languages="Chinese">奧克蘭都會區</name>
+		<name normalized="屋崙" languages="Cantonese">屋崙</name>
+		<name normalized="오클랜드" languages="Korean">오클랜드</name>
+		<name normalized="오클랜드 지방" languages="Korean">오클랜드 지방</name>
+	</region>
+	<region name="Bay of Plenty" type="region" typeTranslated="region">
+		<name normalized="Baie de l'Abondance" languages="French">Baie de l'Abondance</name>
+		<name normalized="Bay of Plenty" languages="Catalan;Dutch;English;German;Italian;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Simple English;Spanish;Swedish">Bay of Plenty</name>
+		<name normalized="Bay of Plenty eskualdea" languages="Basque">Bay of Plenty eskualdea</name>
+		<name normalized="Bay of Plenty region" languages="English;official">Bay of Plenty region</name>
+		<name normalized="Te Moana-a-Toi" languages="Maori">Te Moana-a-Toi</name>
+		<name normalized="Wilayah Bay of Plenty" languages="Malay">Wilayah Bay of Plenty</name>
+		<name normalized="Biй-oф-Pлiнti" languages="Russian">Бей-оф-Пленти</name>
+		<name normalized="Zaлiv Pлiнti" languages="Macedonian">Залив Пленти</name>
+		<name normalized="bיי אvף pדntי" languages="Hebrew">ביי אוף פלנטי</name>
+		<name normalized="ბეი-ოვ-პლენტის რეგიონი" languages="Georgian">ბეი-ოვ-პლენტის რეგიონი</name>
+		<name normalized="bi・ob・prnti地方" languages="Japanese">ベイ・オブ・プレンティ地方</name>
+		<name normalized="普伦蒂湾大区" languages="Chinese">普伦蒂湾大区</name>
+		<name normalized="베이오브플렌티 지방" languages="Korean">베이오브플렌티 지방</name>
+	</region>
+	<region name="Canterbury" type="region" typeTranslated="region">
+		<name normalized="Canterbury" languages="Catalan;Czech;Dutch;English;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Swedish;Vietnamese">Canterbury</name>
+		<name normalized="Canterbury eskualdea" languages="Basque">Canterbury eskualdea</name>
+		<name normalized="Canterbury pa New Zealand" languages="Norwegian Nynorsk">Canterbury på New Zealand</name>
+		<name normalized="Canterbury Region" languages="English;official">Canterbury Region</name>
+		<name normalized="Canterbury ringkond" languages="Estonian">Canterbury ringkond</name>
+		<name normalized="Kanterburio" languages="Esperanto">Kanterburio</name>
+		<name normalized="Region de Canterbury" languages="Spanish">Región de Canterbury</name>
+		<name normalized="Waitaha" languages="Maori">Waitaha</name>
+		<name normalized="Wilayah Canterbury" languages="Malay">Wilayah Canterbury</name>
+		<name normalized="Kaнtiрbiрi" languages="Macedonian">Кантербери</name>
+		<name normalized="Kiнtiрbiрi" languages="Russian">Кентербери</name>
+		<name normalized="Kiнtърbърi" languages="Bulgarian">Кентърбъри</name>
+		<name normalized="qntrbrי" languages="Hebrew">קנטרברי</name>
+		<name normalized="نאhیh کאنtrbوrی" languages="Persian">ناحیه کانتربوری</name>
+		<name normalized="კენტერბერის რეგიონი" languages="Georgian">კენტერბერის რეგიონი</name>
+		<name normalized="kntbrー地方" languages="Japanese">カンタベリー地方</name>
+		<name normalized="坎特伯雷區" languages="Chinese">坎特伯雷區</name>
+		<name normalized="캔터베리 지방" languages="Korean">캔터베리 지방</name>
+	</region>
+	<region name="Chatham Islands" type="territory" typeTranslated="territory">
+		<name normalized="Cethamiga" languages="Old English">Cethāmīga</name>
+		<name normalized="Chatham Adaları" languages="Turkish">Chatham Adaları</name>
+		<name normalized="Chatham Islands" languages="English;official">Chatham Islands</name>
+		<name normalized="Chatham Islands Territory" languages="English;official">Chatham Islands Territory</name>
+		<name normalized="Chatham uharteak" languages="Basque">Chatham uharteak</name>
+		<name normalized="Chatham Oerne" languages="Danish">Chatham Øerne</name>
+		<name normalized="Chatham-Inseln" languages="German">Chatham-Inseln</name>
+		<name normalized="Chatham-insularo" languages="Esperanto">Chatham-insularo</name>
+		<name normalized="Chatham-szigetek" languages="Hungarian">Chatham-szigetek</name>
+		<name normalized="Chathameilanden" languages="Dutch">Chathameilanden</name>
+		<name normalized="Chathami saared" languages="Estonian">Chathami saared</name>
+		<name normalized="Chathamsaaret" languages="Finnish">Chathamsaaret</name>
+		<name normalized="Chathamske ostrovy" languages="Czech">Chathamské ostrovy</name>
+		<name normalized="Chathamoarna" languages="Swedish">Chathamöarna</name>
+		<name normalized="Chathamoyane" languages="Norwegian Nynorsk">Chathamøyane</name>
+		<name normalized="Chathamoyene" languages="Norwegian (bokmal)">Chathamøyene</name>
+		<name normalized="Ilhas Chatham" languages="Portuguese">Ilhas Chatham</name>
+		<name normalized="Illas Chatham" languages="Galician">Illas Chatham</name>
+		<name normalized="Illes Chatham" languages="Catalan">Illes Chatham</name>
+		<name normalized="Inizi Chatham" languages="Breton">Inizi Chatham</name>
+		<name normalized="Insulae Chathamenses" languages="Latin">Insulae Chathamenses</name>
+		<name normalized="Islas Chatham" languages="Spanish">Islas Chatham</name>
+		<name normalized="Isole Chatham" languages="Italian">Isole Chatham</name>
+		<name normalized="Kepulauan Chatham" languages="Indonesian;Malay">Kepulauan Chatham</name>
+		<name normalized="Otoci Chatham" languages="Serbo-Croatian">Otoci Chatham</name>
+		<name normalized="Wharekauri" languages="Maori">Wharekauri</name>
+		<name normalized="Wyspy Chatham" languages="Polish">Wyspy Chatham</name>
+		<name normalized="Awon Erekusu Chatham" languages="Yoruba">Àwọn Erékùṣù Chatham</name>
+		<name normalized="Catem" languages="Azerbaijani">Çatem</name>
+		<name normalized="Iles Chatham" languages="French">Îles Chatham</name>
+		<name normalized="Cetema salas" languages="Latvian">Četema salas</name>
+		<name normalized="Νησια Τσαταμ" languages="Greek">Νησιά Τσάταμ</name>
+		<name normalized="Aсtрavы Cateм" languages="Belarusian">Астравы Чатэм</name>
+		<name normalized="Catiм" languages="Russian;Ukrainian">Чатем</name>
+		<name normalized="Catъм" languages="Bulgarian">Чатъм</name>
+		<name normalized="Citiм oсtрva" languages="Serbian">Четем острва</name>
+		<name normalized="หมู่เกาะแชทัม" languages="Thai">หมู่เกาะแชทัม</name>
+		<name normalized="ჩატემის კუნძულები" languages="Georgian">ჩატემის კუნძულები</name>
+		<name normalized="tytm諸島" languages="Japanese">チャタム諸島</name>
+		<name normalized="查塔姆群岛" languages="Chinese">查塔姆群岛</name>
+		<name normalized="채텀 제도" languages="Korean">채텀 제도</name>
+	</region>
+	<region name="Gisborne" type="region" typeTranslated="region">
+		<name normalized="Gisborne" languages="Afrikaans;Dutch;English;French;German;Interlingue;Irish;Italian;Norwegian (bokmal);official;Polish;Portuguese;Simple English;Spanish;Swahili">Gisborne</name>
+		<name normalized="Gisborne eskualdea" languages="Basque">Gisborne eskualdea</name>
+		<name normalized="Gisborne Region" languages="English;official">Gisborne Region</name>
+		<name normalized="Regionen Gisborne" languages="Norwegian Nynorsk">Regionen Gisborne</name>
+		<name normalized="Regio de Gisborne" languages="Catalan">Regió de Gisborne</name>
+		<name normalized="Te Tai-rawhiti" languages="Maori">Te Tai-rāwhiti</name>
+		<name normalized="Turanga-nui-a-Kiwa" languages="Maori">Tūranga-nui-a-Kiwa</name>
+		<name normalized="Wilayah Gisborne" languages="Malay">Wilayah Gisborne</name>
+		<name normalized="Giсboрн" languages="Russian">Гисборн</name>
+		<name normalized="Giсbърн" languages="Bulgarian">Гисбърн</name>
+		<name normalized="גיזbrן" languages="Hebrew">גיזברן</name>
+		<name normalized="gis्bor्n" languages="Hindi">गिस्बॉर्न</name>
+		<name normalized="გიზბორნი" languages="Georgian">გიზბორნი</name>
+		<name normalized="გიზბორნის რეგიონი" languages="Georgian">გიზბორნის რეგიონი</name>
+		<name normalized="gzbーn" languages="Japanese">ギズボーン</name>
+		<name normalized="gzbーn地方" languages="Japanese">ギズボーン地方</name>
+		<name normalized="吉斯伯恩" languages="Chinese">吉斯伯恩</name>
+		<name normalized="吉斯伯恩大区" languages="Chinese">吉斯伯恩大区</name>
+		<name normalized="기즈번" languages="Korean">기즈번</name>
+		<name normalized="기즈번 지방" languages="Korean">기즈번 지방</name>
+	</region>
+	<region name="Hawke's Bay" type="region" typeTranslated="region">
+		<name normalized="Hawke's Bay" languages="Catalan;Croatian;Czech;Dutch;English;French;Italian;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Spanish;Swedish;Zeeuws">Hawke's Bay</name>
+		<name normalized="Hawke's Bay eskualdea" languages="Basque">Hawke's Bay eskualdea</name>
+		<name normalized="Hawke's Bay region" languages="English;official">Hawke's Bay region</name>
+		<name normalized="Hawkes Bay" languages="English;official">Hawkes Bay</name>
+		<name normalized="Hawkes Bay Region" languages="English;official">Hawkes Bay Region</name>
+		<name normalized="Hawke's Bay" languages="German">Hawke’s Bay</name>
+		<name normalized="Heretaunga" languages="Maori">Heretaunga</name>
+		<name normalized="Wilayah Hawke's Bay" languages="Malay">Wilayah Hawke's Bay</name>
+		<name normalized="Kokov Zaлiv" languages="Macedonian">Хоков Залив</name>
+		<name normalized="Kokс-Biй" languages="Russian">Хокс-Бей</name>
+		<name normalized="Koukс Biй" languages="Bulgarian">Хоукс Бей</name>
+		<name normalized="hvqס bיי" languages="Hebrew">הוקס ביי</name>
+		<name normalized="ჰოკს-ბეის რეგიონი" languages="Georgian">ჰოკს-ბეის რეგიონი</name>
+		<name normalized="hーks・bi地方" languages="Japanese">ホークス・ベイ地方</name>
+		<name normalized="霍克湾大区" languages="Chinese">霍克湾大区</name>
+		<name normalized="호크스베이 지방" languages="Korean">호크스베이 지방</name>
+	</region>
+	<region name="Manawatu-Wanganui" type="region" typeTranslated="region">
+		<name normalized="Manawatu-Wanganui" languages="Catalan;Croatian;Dutch;English;French;German;Italian;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Spanish;Swedish">Manawatu-Wanganui</name>
+		<name normalized="Manawatu-Wanganui eskualdea" languages="Basque">Manawatu-Wanganui eskualdea</name>
+		<name normalized="Manawatu-Wanganui region" languages="English;official">Manawatu-Wanganui region</name>
+		<name normalized="Manawatu-Whanganui" languages="Maori">Manawatū-Whanganui</name>
+		<name normalized="Wilayah Manawatu-Wanganui" languages="Malay">Wilayah Manawatu-Wanganui</name>
+		<name normalized="Мaнavatu-Uaнgaнui" languages="Russian">Манавату-Уангануи</name>
+		<name normalized="Мaнavatu-Uoнgaнui" languages="Bulgarian">Манавату-Уонгануи</name>
+		<name normalized="מnvvאtv-vnגnאvי" languages="Hebrew">מנוואטו-ונגנאוי</name>
+		<name normalized="მანავატუ-უანგანუის რეგიონი" languages="Georgian">მანავატუ-უანგანუის რეგიონი</name>
+		<name normalized="mnwt・wngni地方" languages="Japanese">マナワツ・ワンガヌイ地方</name>
+		<name normalized="马纳瓦图-旺加努伊" languages="Chinese">马纳瓦图－旺加努伊</name>
+		<name normalized="마너와투왕거누이 지방" languages="Korean">마너와투왕거누이 지방</name>
+	</region>
+	<region name="Marlborough" type="region" typeTranslated="region">
+		<name normalized="Marlborough" languages="Catalan;Dutch;English;Finnish;French;German;Italian;Norwegian (bokmal);official;Polish;Spanish;Swedish">Marlborough</name>
+		<name normalized="Marlborough pa New Zealand" languages="Norwegian Nynorsk">Marlborough på New Zealand</name>
+		<name normalized="Marlborough Region" languages="English;official">Marlborough Region</name>
+		<name normalized="Tauihu" languages="Maori">Tauihu</name>
+		<name normalized="Wilayah Marlborough" languages="Malay">Wilayah Marlborough</name>
+		<name normalized="Мaрлboрo" languages="Bulgarian;Macedonian;Russian">Марлборо</name>
+		<name normalized="dلع mאrلbrא" languages="Western Punjabi">ضلع مارلبرا</name>
+		<name normalized="მარლბოროს რეგიონი" languages="Georgian">მარლბოროს რეგიონი</name>
+		<name normalized="mーrbr地方" languages="Japanese">マールボロ地方</name>
+		<name normalized="马尔堡" languages="Chinese">马尔堡</name>
+		<name normalized="말버러 지방" languages="Korean">말버러 지방</name>
+	</region>
+	<region name="Nelson" type="region" typeTranslated="region">
+		<name normalized="Nelson" languages="Afrikaans;Catalan;Czech;Dutch;English;Esperanto;French;Galician;German;Hungarian;Indonesian;Irish;Italian;Kalaallisut;Malay;Norwegian (bokmal);official;Polish;Romanian;Scots;Spanish;Swahili;Swedish">Nelson</name>
+		<name normalized="Nelson eskualdea" languages="Basque">Nelson eskualdea</name>
+		<name normalized="Nelson pa New Zealand" languages="Norwegian Nynorsk">Nelson på New Zealand</name>
+		<name normalized="Nelson Region" languages="English;official">Nelson Region</name>
+		<name normalized="Nelsonas" languages="Lithuanian">Nelsonas</name>
+		<name normalized="Whakatu" languages="Maori">Whakatū</name>
+		<name normalized="Goрad Нiльсaн" languages="Belarusian">Горад Нельсан</name>
+		<name normalized="Нiлсoн" languages="Mongolian;Serbian">Нелсон</name>
+		<name normalized="Нiлсън" languages="Bulgarian">Нелсън</name>
+		<name normalized="Нiльсoн" languages="Russian">Нельсон</name>
+		<name normalized="nדסvן" languages="Hebrew">נלסון</name>
+		<name normalized="ნელსონი" languages="Georgian">ნელსონი</name>
+		<name normalized="nrsn" languages="Japanese">ネルソン</name>
+		<name normalized="尼爾遜" languages="Chinese">尼爾遜</name>
+		<name normalized="넬슨" languages="Korean">넬슨</name>
+	</region>
+	<region name="Northland" type="region" typeTranslated="region">
+		<name normalized="Nordia Regiono" languages="Esperanto">Nordia Regiono</name>
+		<name normalized="Northland" languages="Afrikaans;Catalan;Croatian;Dutch;English;French;German;Italian;Norwegian (bokmal);official;Polish;Romanian;Spanish;Swedish">Northland</name>
+		<name normalized="Northland eskualdea" languages="Basque">Northland eskualdea</name>
+		<name normalized="Northland pa New Zealand" languages="Norwegian Nynorsk">Northland på New Zealand</name>
+		<name normalized="Northland region" languages="English;official">Northland region</name>
+		<name normalized="Te Tai-tokerau" languages="Maori">Te Tai-tokerau</name>
+		<name normalized="Wilayah Northland" languages="Malay">Wilayah Northland</name>
+		<name normalized="Нoрtлaнd" languages="Bulgarian">Нортланд</name>
+		<name normalized="Нoрtлiнd" languages="Macedonian;Russian">Нортленд</name>
+		<name normalized="nvrt'דnד" languages="Hebrew">נורת'לנד</name>
+		<name normalized="ნორთლენდის რეგიონი" languages="Georgian">ნორთლენდის რეგიონი</name>
+		<name normalized="nーsrnd地方" languages="Japanese">ノースランド地方</name>
+		<name normalized="北地大区" languages="Chinese">北地大区</name>
+		<name normalized="노스랜드 지방" languages="Korean">노스랜드 지방</name>
+	</region>
+	<region name="Otago" type="region" typeTranslated="region">
+		<name normalized="Otago" languages="Catalan;Czech;Dutch;English;Esperanto;French;German;Italian;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Spanish;Swedish">Otago</name>
+		<name normalized="Otago eskualdea" languages="Basque">Otago eskualdea</name>
+		<name normalized="Otago Region" languages="English;official">Otago Region</name>
+		<name normalized="Wilayah Otago" languages="Malay">Wilayah Otago</name>
+		<name normalized="Otakou" languages="Maori">Ōtākou</name>
+		<name normalized="Otago" languages="Bulgarian;Macedonian;Russian">Отаго</name>
+		<name normalized="אvtגv" languages="Hebrew">אוטגו</name>
+		<name normalized="ოტაგოს რეგიონი" languages="Georgian">ოტაგოს რეგიონი</name>
+		<name normalized="otg地方" languages="Japanese">オタゴ地方</name>
+		<name normalized="奥塔哥大区" languages="Chinese">奥塔哥大区</name>
+		<name normalized="오타고 지방" languages="Korean">오타고 지방</name>
+	</region>
+	<region name="Southland" type="region" typeTranslated="region">
+		<name normalized="Murihiku" languages="Maori">Murihiku</name>
+		<name normalized="Southland" languages="Catalan;Dutch;English;French;German;Italian;Norwegian (bokmal);official;Polish;Spanish;Swedish">Southland</name>
+		<name normalized="Southland eskualdea" languages="Basque">Southland eskualdea</name>
+		<name normalized="Southland pa New Zealand" languages="Norwegian Nynorsk">Southland på New Zealand</name>
+		<name normalized="Southland Region" languages="English;official">Southland Region</name>
+		<name normalized="Wilayah Southland" languages="Malay">Wilayah Southland</name>
+		<name normalized="Сautлaнd" languages="Bulgarian">Саутланд</name>
+		<name normalized="Сautлiнd" languages="Macedonian;Russian">Саутленд</name>
+		<name normalized="סאvt'דnד" languages="Hebrew">סאות'לנד</name>
+		<name normalized="საუთლენდის რეგიონი" languages="Georgian">საუთლენდის რეგიონი</name>
+		<name normalized="susrnd地方" languages="Japanese">サウスランド地方</name>
+		<name normalized="南地大区" languages="Chinese">南地大区</name>
+		<name normalized="사우스랜드 지방" languages="Korean">사우스랜드 지방</name>
+	</region>
+	<region name="Taranaki" type="region" typeTranslated="region">
+		<name normalized="Taranaki" languages="Catalan;Croatian;Dutch;English;French;German;Italian;Maori;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Spanish;Swedish">Taranaki</name>
+		<name normalized="Taranaki eskualdea" languages="Basque">Taranaki eskualdea</name>
+		<name normalized="Taranaki region" languages="English;official">Taranaki region</name>
+		<name normalized="Wilayah Taranaki" languages="Malay">Wilayah Taranaki</name>
+		<name normalized="Taрaнaki" languages="Bulgarian;Russian">Таранаки</name>
+		<name normalized="trאnאqי" languages="Hebrew">טראנאקי</name>
+		<name normalized="ტარანაკის რეგიონი" languages="Georgian">ტარანაკის რეგიონი</name>
+		<name normalized="trnk地方" languages="Japanese">タラナキ地方</name>
+		<name normalized="塔拉纳基大区" languages="Chinese">塔拉纳基大区</name>
+		<name normalized="타라나키 지방" languages="Korean">타라나키 지방</name>
+	</region>
+	<region name="Tasman" type="region" typeTranslated="region">
+		<name normalized="Region de Tasman" languages="Spanish">Región de Tasman</name>
+		<name normalized="Tasman" languages="Catalan;Dutch;English;French;German;Italian;Norwegian (bokmal);official;Polish">Tasman</name>
+		<name normalized="Tasman eskualdea" languages="Basque">Tasman eskualdea</name>
+		<name normalized="Tasman pa New Zealand" languages="Norwegian Nynorsk">Tasman på New Zealand</name>
+		<name normalized="Tasman Region" languages="English;official">Tasman Region</name>
+		<name normalized="Wilayah Tasman" languages="Malay">Wilayah Tasman</name>
+		<name normalized="Taсмaн" languages="Bulgarian;Russian">Тасман</name>
+		<name normalized="dلع tسmאن" languages="Western Punjabi">ضلع تسمان</name>
+		<name normalized="ტასმანის რეგიონი" languages="Georgian">ტასმანის რეგიონი</name>
+		<name normalized="tsmn地方" languages="Japanese">タスマン地方</name>
+		<name normalized="塔斯曼" languages="Chinese">塔斯曼</name>
+		<name normalized="태즈먼 지방" languages="Korean">태즈먼 지방</name>
+	</region>
+	<region name="Waikato" type="region" typeTranslated="region">
+		<name normalized="Waikato" languages="Catalan;Croatian;Dutch;English;French;German;Italian;Maori;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Spanish;Swedish">Waikato</name>
+		<name normalized="Waikato eskualdea" languages="Basque">Waikato eskualdea</name>
+		<name normalized="Waikato region" languages="English;official">Waikato region</name>
+		<name normalized="Wilayah Waikato" languages="Malay">Wilayah Waikato</name>
+		<name normalized="Vaikato" languages="Macedonian">Ваикато</name>
+		<name normalized="Рegiён Vaйkata" languages="Belarusian">Рэгіён Вайката</name>
+		<name normalized="Uaikato" languages="Russian">Уаикато</name>
+		<name normalized="Uaйkato" languages="Bulgarian">Уайкато</name>
+		<name normalized="vאיqtv" languages="Hebrew">ואיקטו</name>
+		<name normalized="უაიკატოს რეგიონი" languages="Georgian">უაიკატოს რეგიონი</name>
+		<name normalized="wikt地方" languages="Japanese">ワイカト地方</name>
+		<name normalized="懷卡托" languages="Chinese">懷卡托</name>
+		<name normalized="와이카토 지방" languages="Korean">와이카토 지방</name>
+	</region>
+	<region name="Wellington" type="region" typeTranslated="region">
+		<name normalized="Regionen Wellington" languages="Norwegian Nynorsk">Regionen Wellington</name>
+		<name normalized="Regio de Wellington" languages="Catalan">Regió de Wellington</name>
+		<name normalized="Region de Wellington" languages="Spanish">Región de Wellington</name>
+		<name normalized="Te Whanga-nui-a-Tara" languages="Maori">Te Whanga-nui-a-Tara</name>
+		<name normalized="Ueligitone" languages="Samoan">Ueligitone</name>
+		<name normalized="Velingtona" languages="Latvian">Velingtona</name>
+		<name normalized="Velingtonas" languages="Lithuanian">Velingtonas</name>
+		<name normalized="Velingtono" languages="Esperanto">Velingtono</name>
+		<name normalized="Vellingtonia" languages="Latin">Vellingtonia</name>
+		<name normalized="Vellinqton" languages="Azerbaijani">Vellinqton</name>
+		<name normalized="Welinton" languages="Haitian">Welintòn</name>
+		<name normalized="Wellington" languages="Achinese;Afrikaans;Albanian;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;Gagauz;Galician;German;Hungarian;Icelandic;Ido;Indonesian;Interlingue;Irish;Italian;Kalaallisut;lumbaart;Malay;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Piedmontese;Polish;Portuguese;Quechua;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Sicilian;Simple English;Slovak;Slovenian;Somali;Spanish;Sundanese;Swahili;Swedish;Tagalog;Tatar;Turkish;Vietnamese;Volapuk;Waray;Welsh;Western Frisian;Yoruba">Wellington</name>
+		<name normalized="Wellington eskualdea" languages="Basque">Wellington eskualdea</name>
+		<name normalized="Wellington Region" languages="English;official">Wellington Region</name>
+		<name normalized="Wellinton" languages="Novial">Wellinton</name>
+		<name normalized="Weolingtun" languages="Old English">Weolingtūn</name>
+		<name normalized="Whanga-nui-a-Tara" languages="Tahitian">Whanga-nui-a-Tara</name>
+		<name normalized="Wilayah Wellington" languages="Malay">Wilayah Wellington</name>
+		<name normalized="Ουeλλινγκτον" languages="Greek">Ουέλλινγκτον</name>
+		<name normalized="Viлiнgtoн" languages="Macedonian;Serbian">Велингтон</name>
+		<name normalized="Viллiнgtoн" languages="Chechen;Chuvash;Mongolian;Ossetic;Russian">Веллингтон</name>
+		<name normalized="Viллiнgtoн" languages="Ukrainian">Веллінгтон</name>
+		<name normalized="Veлiнgtaн" languages="biлaрuсkai (taрaskivita)‎">Вэлінгтан</name>
+		<name normalized="Goрad Viлiнgtaн" languages="Belarusian">Горад Велінгтан</name>
+		<name normalized="Uiлiнgtън" languages="Bulgarian">Уелингтън</name>
+		<name normalized="Վեlինգtvն" languages="Armenian">Վելինգտոն</name>
+		<name normalized="vדיnגtvן" languages="Hebrew">ולינגטון</name>
+		<name normalized="װעדיnגtאן" languages="Yiddish">װעלינגטאן</name>
+		<name normalized="ولینgtون" languages="Persian">ولینگتون</name>
+		<name normalized="وyلyنjtون" languages="Egyptian Spoken Arabic">ويلينجتون</name>
+		<name normalized="وyلyنغtون" languages="Arabic">ويلينغتون</name>
+		<name normalized="ویلنgٹن" languages="Urdu">ویلنگٹن</name>
+		<name normalized="ۋېللىنgtون" languages="Uyghur">ۋېللىنگتون</name>
+		<name normalized="veliंgटn" languages="Newari">वेलिंगटन</name>
+		<name normalized="veliंg्टn" languages="Hindi;Marathi">वेलिंग्टन</name>
+		<name normalized="oy়eliংটn" languages="Bengali">ওয়েলিংটন</name>
+		<name normalized="ৱeliংটn" languages="Bishnupria Manipuri">ৱেলিংটন</name>
+		<name normalized="valiੰgਟn" languages="Punjabi">ਵੈਲਿੰਗਟਨ</name>
+		<name normalized="veliંg્ટn" languages="Gujarati">વેલિંગ્ટન</name>
+		<name normalized="வெலிங்டன்" languages="Tamil">வெலிங்டன்</name>
+		<name normalized="ವೆಲ್ಲಿಂಗ್ಟನ್" languages="Kannada">ವೆಲ್ಲಿಂಗ್ಟನ್</name>
+		<name normalized="വെല്ലിംഗ്ടൺ" languages="Malayalam">വെല്ലിംഗ്ടൺ</name>
+		<name normalized="เวลลิงตัน" languages="Thai">เวลลิงตัน</name>
+		<name normalized="ཝེ་ལིང་ཐོན།" languages="Tibetan">ཝེ་ལིང་ཐོན།</name>
+		<name normalized="ဝယ်လင်တန်မြို့" languages="Burmese">ဝယ်လင်တန်မြို့</name>
+		<name normalized="ველინგთონი" languages="Mingrelian">ველინგთონი</name>
+		<name normalized="უელინგტონი" languages="Georgian">უელინგტონი</name>
+		<name normalized="უელინგტონის რეგიონი" languages="Georgian">უელინგტონის რეგიონი</name>
+		<name normalized="ዌሊንግተን" languages="Amharic">ዌሊንግተን</name>
+		<name normalized="uerntn" languages="Japanese">ウェリントン</name>
+		<name normalized="uerntn地方" languages="Japanese">ウェリントン地方</name>
+		<name normalized="威靈頓" languages="Cantonese">威靈頓</name>
+		<name normalized="惠灵顿" languages="Chinese">惠灵顿</name>
+		<name normalized="惠灵顿大区" languages="Chinese">惠灵顿大区</name>
+		<name normalized="웰링턴" languages="Korean">웰링턴</name>
+		<name normalized="웰링턴 지방" languages="Korean">웰링턴 지방</name>
+	</region>
+	<region name="West Coast" type="region" typeTranslated="region">
+		<name normalized="Agbegbe Pwani" languages="Yoruba">Agbègbè Pwani</name>
+		<name normalized="Aod" languages="Breton">Aod</name>
+		<name normalized="Arfordir" languages="Welsh">Arfordir</name>
+		<name normalized="Bregdeti" languages="Albanian">Bregdeti</name>
+		<name normalized="Bo bien" languages="Vietnamese">Bờ biển</name>
+		<name normalized="Coast" languages="English;official;Simple English">Coast</name>
+		<name normalized="Coast Region" languages="English;official">Coast Region</name>
+		<name normalized="Costa" languages="Aragonese;Asturian;Catalan;Galician;Italian;Portuguese;Spanish">Costa</name>
+		<name normalized="Costa Oeste" languages="Portuguese">Costa Oeste</name>
+		<name normalized="Corsa" languages="Scottish Gaelic">Còrsa</name>
+		<name normalized="Costa" languages="lumbaart">Còsta</name>
+		<name normalized="Costa" languages="Irish">Cósta</name>
+		<name normalized="Cote" languages="French">Côte</name>
+		<name normalized="Gstod" languages="Bavarian">Gstod</name>
+		<name normalized="Itsasertz" languages="Basque">Itsasertz</name>
+		<name normalized="Kuslyn" languages="Afrikaans">Kuslyn</name>
+		<name normalized="Kust" languages="Dutch;Swedish">Kust</name>
+		<name normalized="Kyst" languages="Danish;Norwegian (bokmal);Norwegian Nynorsk">Kyst</name>
+		<name normalized="Kuste" languages="German">Küste</name>
+		<name normalized="Lamara junt'u tuqi suyu" languages="Aymara">Lamara junt'u tuqi suyu</name>
+		<name normalized="Litus" languages="Latin">Litus</name>
+		<name normalized="Mkoa wa Pwani" languages="Swahili">Mkoa wa Pwani</name>
+		<name normalized="Obala" languages="Bosnian;Croatian;Serbo-Croatian;Slovenian">Obala</name>
+		<name normalized="Okcidentmarborda Regiono" languages="Esperanto">Okcidentmarborda Regiono</name>
+		<name normalized="Pesisir" languages="Indonesian">Pesisir</name>
+		<name normalized="Piekraste" languages="Latvian">Piekraste</name>
+		<name normalized="Pobrezie" languages="Slovak">Pobrežie</name>
+		<name normalized="Pobrezi" languages="Czech">Pobřeží</name>
+		<name normalized="Pwani" languages="Croatian;Danish;Dutch;French;Galician;German;Norwegian (bokmal);Polish;Portuguese;Swedish;Vietnamese">Pwani</name>
+		<name normalized="Pwani Region" languages="English">Pwani Region</name>
+		<name normalized="Pwanin alue" languages="Finnish">Pwanin alue</name>
+		<name normalized="Rannik" languages="Estonian">Rannik</name>
+		<name normalized="Rannikko" languages="Finnish">Rannikko</name>
+		<name normalized="Regione di Pwani" languages="Italian">Regione di Pwani</name>
+		<name normalized="Regiono Pwani" languages="Esperanto">Regiono Pwani</name>
+		<name normalized="Regiunea Pwani" languages="Romanian">Regiunea Pwani</name>
+		<name normalized="Region de Pwani" languages="Spanish">Región de Pwani</name>
+		<name normalized="Relief litoral" languages="Romanian">Relief litoral</name>
+		<name normalized="Sahil" languages="Turkish">Sahil</name>
+		<name normalized="Strond" languages="Icelandic">Strönd</name>
+		<name normalized="Te Tai-poutini" languages="Maori">Te Tai-poutini</name>
+		<name normalized="West Coast" languages="Catalan;Dutch;English;French;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Spanish;Swedish">West Coast</name>
+		<name normalized="West Coast eskualdea" languages="Basque">West Coast eskualdea</name>
+		<name normalized="West Coast pa New Zealand" languages="Norwegian Nynorsk">West Coast på New Zealand</name>
+		<name normalized="West Coast Region" languages="English;official">West Coast Region</name>
+		<name normalized="Wilayah Pantai Barat" languages="Malay">Wilayah Pantai Barat</name>
+		<name normalized="Wybrzeze" languages="Polish">Wybrzeże</name>
+		<name normalized="Xeeb" languages="Somali">Xeeb</name>
+		<name normalized="Ακτη" languages="Greek">Ακτή</name>
+		<name normalized="Bрig" languages="Bulgarian">Бряг</name>
+		<name normalized="Viлoiti Pvaнi" languages="Tajik">Вилояти Пвани</name>
+		<name normalized="Zaғaлau" languages="Kazakh">Жағалау</name>
+		<name normalized="Obaлa" languages="Serbian">Обала</name>
+		<name normalized="Pvaнi" languages="Bulgarian;Russian;Serbian">Пвани</name>
+		<name normalized="Pobiрizьi" languages="Russian">Побережье</name>
+		<name normalized="Uiсt Kouсt" languages="Bulgarian">Уест Коуст</name>
+		<name normalized="Uzbiрizzi" languages="Ukrainian">Узбережжя</name>
+		<name normalized="Uzbiрezza" languages="Belarusian">Узбярэжжа</name>
+		<name normalized="Uzьbiрezza" languages="biлaрuсkai (taрaskivita)‎">Узьбярэжжа</name>
+		<name normalized="Ueсt-Koсt" languages="Russian">Уэст-Кост</name>
+		<name normalized="Яр bui" languages="Tatar">Яр буе</name>
+		<name normalized="brעג ים" languages="Yiddish">ברעג ים</name>
+		<name normalized="hhvף hמעrbי" languages="Hebrew">החוף המערבי</name>
+		<name normalized="qv hvף" languages="Hebrew">קו חוף</name>
+		<name normalized="אسtאن pوאنی" languages="Persian">استان پوانی</name>
+		<name normalized="سאhل" languages="Arabic">ساحل</name>
+		<name normalized="pوאنی" languages="Western Punjabi">پوانی</name>
+		<name normalized="کنאrh" languages="Persian">کناره</name>
+		<name normalized="smud्rkinाrा" languages="Marathi">समुद्रकिनारा</name>
+		<name normalized="ಕರಾವಳಿ" languages="Kannada">ಕರಾವಳಿ</name>
+		<name normalized="ชายฝั่ง" languages="Thai">ชายฝั่ง</name>
+		<name normalized="ნაპირის ზონა" languages="Georgian">ნაპირის ზონა</name>
+		<name normalized="უესტ-კოსტის რეგიონი" languages="Georgian">უესტ-კოსტის რეგიონი</name>
+		<name normalized="ᎠᎹᏳᎸᏗ" languages="Cherokee">ᎠᎹᏳᎸᏗ</name>
+		<name normalized="uest・kーst地方" languages="Japanese">ウェスト・コースト地方</name>
+		<name normalized="pwn州" languages="Japanese">プワニ州</name>
+		<name normalized="岸" languages="Chinese">岸</name>
+		<name normalized="海岸" languages="Japanese">海岸</name>
+		<name normalized="濱海區" languages="Chinese">濱海區</name>
+		<name normalized="西岸大区" languages="Chinese">西岸大区</name>
+		<name normalized="연안" languages="Korean">연안</name>
+		<name normalized="웨스트코스트 지방" languages="Korean">웨스트코스트 지방</name>
+		<name normalized="프와니 주" languages="Korean">프와니 주</name>
+	</region>
+</regions>

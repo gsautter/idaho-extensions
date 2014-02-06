@@ -1,0 +1,434 @@
+<regions country="Gambia, The">
+	<region name="Banjul" type="city" typeTranslated="city">
+		<name normalized="Bandzul" languages="Polish">Bandżul</name>
+		<name normalized="Bandzula" languages="Latvian">Bandžula</name>
+		<name normalized="Bandzulis" languages="Lithuanian">Bandžulis</name>
+		<name normalized="Banjoul" languages="Haitian">Banjoul</name>
+		<name normalized="Banjul" languages="Afrikaans;Azerbaijani;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;Galician;German;Hungarian;Ido;Indonesian;Interlingue;Italian;Javanese;Kinyarwanda;Kurdish;Low German;lumbaart;Luxembourgish;Malay;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Piedmontese;Portuguese;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Slovak;Somali;Spanish;Swahili;Swedish;Tagalog;Turkish;Vietnamese;Volapuk;veneto;Waray;Welsh;Western Frisian;Wolof;Yoruba">Banjul</name>
+		<name normalized="Banyul" languages="Nahuatl">Banyul</name>
+		<name normalized="Banjulo" languages="Esperanto">Banĵulo</name>
+		<name normalized="Bathurstopolis" languages="Latin">Bathurstopolis</name>
+		<name normalized="Μπανζοuλ" languages="Greek">Μπανζούλ</name>
+		<name normalized="Baнdzuл" languages="Bulgarian">Банджул</name>
+		<name normalized="Baнzuл" languages="Hill Mari;Kyrgyz;Russian;Udmurt;Ukrainian;biлaрuсkai (taрaskivita)‎">Банжул</name>
+		<name normalized="Baнdzuл" languages="Macedonian;Serbian">Банџул</name>
+		<name normalized="Baнcuл" languages="Tajik">Банҷул</name>
+		<name normalized="Goрad Baнzuл" languages="Belarusian">Горад Банжул</name>
+		<name normalized="Bանjvyl" languages="Armenian">Բանջուլ</name>
+		<name normalized="bאnזשvד" languages="Yiddish">באנזשול</name>
+		<name normalized="bnג'vד" languages="Hebrew">בנג'ול</name>
+		<name normalized="bאنjول" languages="Arabic;Persian;Sorani Kurdish;Urdu;Western Punjabi">بانجول</name>
+		<name normalized="bंjul" languages="Marathi">बंजुल</name>
+		<name normalized="bाn्jul" languages="Hindi">बाञ्जुल</name>
+		<name normalized="bੰjul" languages="Punjabi">ਬੰਜੁਲ</name>
+		<name normalized="பஞ்சுல்" languages="Tamil">பஞ்சுல்</name>
+		<name normalized="บันจูล" languages="Thai">บันจูล</name>
+		<name normalized="བཱན་ཇཱུ་ལ།" languages="Tibetan">བཱན་ཇཱུ་ལ།</name>
+		<name normalized="ბანჯული" languages="Georgian">ბანჯული</name>
+		<name normalized="ባንጁል" languages="Amharic">ባንጁል</name>
+		<name normalized="bnzyーr" languages="Japanese">バンジュール</name>
+		<name normalized="班竹" languages="Chinese">班竹</name>
+		<name normalized="반줄" languages="Korean">반줄</name>
+	</region>
+	<region name="Central River" type="division" typeTranslated="division">
+		<name normalized="Central River" languages="Breton;Dutch;English;Galician;Norwegian (bokmal);official;Portuguese">Central River</name>
+		<name normalized="Central River Bolgesi" languages="Turkish">Central River Bölgesi</name>
+		<name normalized="Central River Diveesion" languages="Scots">Central River Diveesion</name>
+		<name normalized="Central River Division" languages="English;official;Polish;Swedish">Central River Division</name>
+		<name normalized="Central River Region" languages="German">Central River Region</name>
+		<name normalized="Divisione del Central River" languages="Italian">Divisione del Central River</name>
+		<name normalized="Division Central River" languages="Spanish">División Central River</name>
+		<name normalized="Diviziunea Central River" languages="Romanian">Diviziunea Central River</name>
+		<name normalized="Viduriniosios Upes padalinys" languages="Lithuanian">Viduriniosios Upės padalinys</name>
+		<name normalized="Срidнa Рika" languages="Macedonian">Средна Река</name>
+		<name normalized="Срidna Рika" languages="Serbian">Средња Река</name>
+		<name normalized="Tiнtрaлнoрicнa obлaсt" languages="Bulgarian">Централноречна област</name>
+		<name normalized="Tiнtрaльнai Рika" languages="Russian">Центральная Река</name>
+		<name normalized="Teнtрaльнai Рaka" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Цэнтральная Рака</name>
+		<name normalized="gnba川中流地方" languages="Japanese">ガンビア川中流地方</name>
+		<name normalized="中河區" languages="Chinese">中河區</name>
+		<name normalized="강 중류 지방" languages="Korean">강 중류 지방</name>
+	</region>
+	<region name="Lower River" type="division" typeTranslated="division">
+		<name normalized="Abhainn" languages="Irish;Scottish Gaelic">Abhainn</name>
+		<name normalized="Afon" languages="Welsh">Afon</name>
+		<name normalized="Awin" languages="Manx">Awin</name>
+		<name normalized="Ciumi" languages="Sicilian">Ciumi</name>
+		<name normalized="Daryo" languages="Uzbek">Daryo</name>
+		<name normalized="Derya" languages="Turkmen">Derýa</name>
+		<name normalized="Dex" languages="Wolof">Dex</name>
+		<name normalized="Divisione del Lower River" languages="Italian">Divisione del Lower River</name>
+		<name normalized="Division Lower River" languages="Spanish">División Lower River</name>
+		<name normalized="Diviziunea Lower River" languages="Romanian">Diviziunea Lower River</name>
+		<name normalized="Ekaw" languages="Nauru">Ekaw</name>
+		<name normalized="Elv" languages="Norwegian (bokmal);Norwegian Nynorsk">Elv</name>
+		<name normalized="Fiume" languages="Italian;veneto">Fiume</name>
+		<name normalized="Fiomm" languages="Emiliano-Romagnolo">Fiòmm</name>
+		<name normalized="Fium" languages="lumbaart">Fiüm</name>
+		<name normalized="Flod" languages="Danish;Swedish">Flod</name>
+		<name normalized="Floss" languages="Luxembourgish">Floss</name>
+		<name normalized="Flum" languages="Friulian;Romansh">Flum</name>
+		<name normalized="Flumen" languages="Latin">Flumen</name>
+		<name normalized="Fluss" languages="Bavarian;German">Fluss</name>
+		<name normalized="Fluvio" languages="Interlingua">Fluvio</name>
+		<name normalized="Folyo" languages="Hungarian">Folyó</name>
+		<name normalized="Ho" languages="Chinese (Min Nan)">Hô</name>
+		<name normalized="Ibai" languages="Basque">Ibai</name>
+		<name normalized="Ilog" languages="Tagalog">Ilog</name>
+		<name normalized="Jawira" languages="Aymara">Jawira</name>
+		<name normalized="Joki" languages="Finnish">Joki</name>
+		<name normalized="Jume" languages="tarandine">Jume</name>
+		<name normalized="Jogi" languages="Estonian;Voro">Jõgi</name>
+		<name normalized="Kali" languages="Javanese">Kali</name>
+		<name normalized="Karayan" languages="Iloko">Karayan</name>
+		<name normalized="Krueng" languages="Achinese">Kruëng</name>
+		<name normalized="Kuuk" languages="Inupiaq">Kuuk</name>
+		<name normalized="Lower River" languages="Breton;Dutch;English;Galician;Norwegian (bokmal);official;Portuguese">Lower River</name>
+		<name normalized="Lower River Bolgesi" languages="Turkish">Lower River Bölgesi</name>
+		<name normalized="Lower River Division" languages="Czech;English;official;Polish;Swedish">Lower River Division</name>
+		<name normalized="Lower River Region" languages="German">Lower River Region</name>
+		<name normalized="Lumi" languages="Albanian">Lumi</name>
+		<name normalized="Mayu" languages="Quechua">Mayu</name>
+		<name normalized="Motima" languages="Lingala">Motíma</name>
+		<name normalized="Mto" languages="Swahili">Mto</name>
+		<name normalized="Mubu" languages="Kongo">Mubu</name>
+		<name normalized="Naddi" languages="Fiji Hindi">Naddi</name>
+		<name normalized="Nehir" languages="Turkish">Nehir</name>
+		<name normalized="Odo" languages="Yoruba">Odò</name>
+		<name normalized="Ope" languages="Samogitian">Opė</name>
+		<name normalized="Reka" languages="Slovenian">Reka</name>
+		<name normalized="Renirano" languages="Malagasy">Renirano</name>
+		<name normalized="Reveer" languages="Limburgish">Reveer</name>
+		<name normalized="Revier" languages="Low Saxon (Netherlands)">Revier</name>
+		<name normalized="Rewwer" languages="Deitsch">Rewwer</name>
+		<name normalized="Rieka" languages="Slovak">Rieka</name>
+		<name normalized="Rijeka" languages="Bosnian;Croatian;Serbo-Croatian">Rijeka</name>
+		<name normalized="Rio" languages="Portuguese">Rio</name>
+		<name normalized="rirxe" languages="Lojban">rirxe</name>
+		<name normalized="Riu" languages="Catalan;Mirandese;Occitan;Papiamento">Riu</name>
+		<name normalized="River" languages="English;official;Scots;Simple English">River</name>
+		<name normalized="River Division" languages="English;official">River Division</name>
+		<name normalized="Rivero" languages="Esperanto;Ido">Rivero</name>
+		<name normalized="Rivier" languages="Afrikaans;Dutch;Western Frisian">Rivier</name>
+		<name normalized="Riviere" languages="French">Rivière</name>
+		<name normalized="Riviethe" languages="Nouormand">Riviéthe</name>
+		<name normalized="Rivye" languages="Haitian">Rivyè</name>
+		<name normalized="Rwizi" languages="Shona">Rwizi</name>
+		<name normalized="Rzeka" languages="Polish">Rzeka</name>
+		<name normalized="Rzyka" languages="Silesian">Rzyka</name>
+		<name normalized="Rau" languages="Romanian">Râu</name>
+		<name normalized="Rio" languages="Aragonese;Galician;Spanish">Río</name>
+		<name normalized="Riu" languages="Asturian;Extremaduran">Ríu</name>
+		<name normalized="Reka" languages="Upper Sorbian">Rěka</name>
+		<name normalized="Salog" languages="Waray">Salog</name>
+		<name normalized="Sciummo" languages="Neapolitan">Sciummo</name>
+		<name normalized="Stroom" languages="Low German">Stroom</name>
+		<name normalized="Struum" languages="Northern Frisian">Struum</name>
+		<name normalized="Ster" languages="Breton">Stêr</name>
+		<name normalized="Sungai" languages="Banjar;Indonesian;Malay;Minangkabau">Sungai</name>
+		<name normalized="Song" languages="Vietnamese">Sông</name>
+		<name normalized="Umfula" languages="Zulu">Umfula</name>
+		<name normalized="Upe" languages="Latvian">Upe</name>
+		<name normalized="Upe" languages="Lithuanian">Upė</name>
+		<name normalized="Uruzi" languages="Kinyarwanda">Uruzi</name>
+		<name normalized="Walungan" languages="Sundanese">Walungan</name>
+		<name normalized="Webiyada" languages="Somali">Webiyada</name>
+		<name normalized="Ysyry" languages="Guarani">Ysyry</name>
+		<name normalized="A" languages="Icelandic">Á</name>
+		<name normalized="Ai" languages="Seeltersk">Äi</name>
+		<name normalized="Cay" languages="Azerbaijani">Çay</name>
+		<name normalized="Cem" languages="Kurdish">Çem</name>
+		<name normalized="O'he'e" languages="Cheyenne">Ó'he'e</name>
+		<name normalized="Atoyatl" languages="Nahuatl">Ātōyātl</name>
+		<name normalized="Reka" languages="Czech">Řeka</name>
+		<name normalized="Zemutines Upes padalinys" languages="Lithuanian">Žemutinės Upės padalinys</name>
+		<name normalized="Ποταμος" languages="Greek">Ποταμός</name>
+		<name normalized="VatI" languages="Lezghian">ВацI</name>
+		<name normalized="Goл мɵрɵн" languages="Mongolian">Гол мөрөн</name>
+		<name normalized="Daрё" languages="Tajik">Дарё</name>
+		<name normalized="Doлнa Рika" languages="Macedonian">Долна Река</name>
+		<name normalized="Doлнoрicнa obлaсt" languages="Bulgarian">Долноречна област</name>
+		<name normalized="Dona Рika" languages="Serbian">Доња Река</name>
+		<name normalized="Iлga" languages="Tatar">Елга</name>
+		<name normalized="Йылғa" languages="Bashkir">Йылға</name>
+		<name normalized="Лiй" languages="Erzya">Лей</name>
+		<name normalized="Нizнii Рika" languages="Russian">Нижняя Река</name>
+		<name normalized="Нizнii Рaka" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Ніжняя Рака</name>
+		<name normalized="Рaka" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Рака</name>
+		<name normalized="Рika" languages="Bulgarian;Macedonian;Russian;Serbian">Река</name>
+		<name normalized="Рika" languages="Rusyn">Ріка</name>
+		<name normalized="Рicka" languages="Ukrainian">Річка</name>
+		<name normalized="Сuu" languages="Karachay-Balkar">Суу</name>
+		<name normalized="Taeugaedoн" languages="Ossetic">Цæугæдон</name>
+		<name normalized="Eniр" languages="Eastern Mari">Эҥер</name>
+		<name normalized="Ю" languages="Komi">Ю</name>
+		<name normalized="Юkaн sыv" languages="Chuvash">Юхан шыв</name>
+		<name normalized="Өziн" languages="Kazakh">Өзен</name>
+		<name normalized="Өрүс" languages="Sakha">Өрүс</name>
+		<name normalized="Գեt" languages="Armenian">Գետ</name>
+		<name normalized="tייד" languages="Yiddish">טייך</name>
+		<name normalized="nhr" languages="Hebrew">נהר</name>
+		<name normalized="دrیא" languages="Urdu;Western Punjabi">دریا</name>
+		<name normalized="rود" languages="Persian">رود</name>
+		<name normalized="نhr" languages="Arabic;Egyptian Spoken Arabic">نهر</name>
+		<name normalized="ڕووbאr" languages="Sorani Kurdish">ڕووبار</name>
+		<name normalized="ܢܗܪܐ" languages="Aramaic">ܢܗܪܐ</name>
+		<name normalized="aऱu" languages="Newari">आऱु</name>
+		<name normalized="ndi" languages="Hindi;Marathi;Nepali;Sanskrit">नदी</name>
+		<name normalized="ndi" languages="Assamese;Bengali">নদী</name>
+		<name normalized="dria" languages="Punjabi">ਦਰਿਆ</name>
+		<name normalized="ஆறு" languages="Tamil">ஆறு</name>
+		<name normalized="నది" languages="Telugu">నది</name>
+		<name normalized="ನದಿ" languages="Kannada">ನದಿ</name>
+		<name normalized="നദി" languages="Malayalam">നദി</name>
+		<name normalized="ගඟ" languages="Sinhala">ගඟ</name>
+		<name normalized="แม่น้ำ" languages="Thai">แม่น้ำ</name>
+		<name normalized="ཆུ་རྒྱུན།" languages="Tibetan">ཆུ་རྒྱུན།</name>
+		<name normalized="မြစ်" languages="Burmese">မြစ်</name>
+		<name normalized="მდინარე" languages="Georgian">მდინარე</name>
+		<name normalized="წყარმალუ" languages="Mingrelian">წყარმალუ</name>
+		<name normalized="ወንዝ" languages="Amharic">ወንዝ</name>
+		<name normalized="ᎤᏪᏴ" languages="Cherokee">ᎤᏪᏴ</name>
+		<name normalized="ᑰᒃ" languages="Inuktitut">ᑰᒃ</name>
+		<name normalized="gnba川下流地方" languages="Japanese">ガンビア川下流地方</name>
+		<name normalized="下河區" languages="Chinese">下河區</name>
+		<name normalized="川" languages="Japanese">川</name>
+		<name normalized="江" languages="Gan">江</name>
+		<name normalized="河" languages="Cantonese">河</name>
+		<name normalized="河流" languages="Chinese">河流</name>
+		<name normalized="강" languages="Korean">강</name>
+		<name normalized="강 하류 지방" languages="Korean">강 하류 지방</name>
+	</region>
+	<region name="North Bank" type="division" typeTranslated="division">
+		<name normalized="Argentaria" languages="Latin">Argentaria</name>
+		<name normalized="Banc" languages="Catalan;Welsh">Banc</name>
+		<name normalized="Banca" languages="Interlingua;Italian;Occitan;Scottish Gaelic">Banca</name>
+		<name normalized="Banco" languages="Galician;Portuguese;Spanish">Banco</name>
+		<name normalized="Banca" languages="Romanian">Bancă</name>
+		<name normalized="Bangko" languages="Tagalog;Waray">Bangko</name>
+		<name normalized="Bank" languages="Afrikaans;Azerbaijani;Danish;Dutch;English;German;Hungarian;Indonesian;Javanese;Luxembourgish;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Simple English;Sundanese;Swedish;Uzbek">Bank</name>
+		<name normalized="Bank Division" languages="English;official">Bank Division</name>
+		<name normalized="Banka" languages="Albanian;Bosnian;Croatian;Czech;Latvian;Serbo-Croatian;Slovak;Slovenian;Turkish">Banka</name>
+		<name normalized="Bankas" languages="Lithuanian">Bankas</name>
+		<name normalized="Banki" languages="Icelandic;Somali">Banki</name>
+		<name normalized="Banko" languages="Esperanto;Ido">Banko</name>
+		<name normalized="Banks" languages="Samogitian">Banks</name>
+		<name normalized="Banku" languages="Basque">Banku</name>
+		<name normalized="Banqa" languages="Zazaki">Banqa</name>
+		<name normalized="Banque" languages="French;Nouormand">Banque</name>
+		<name normalized="Benki" languages="Swahili">Benki</name>
+		<name normalized="Bong" languages="Palzisch">Bong</name>
+		<name normalized="Divisione del North Bank" languages="Italian">Divisione del North Bank</name>
+		<name normalized="Division North Bank" languages="Spanish">División North Bank</name>
+		<name normalized="Diviziunea North Bank" languages="Romanian">Diviziunea North Bank</name>
+		<name normalized="Gin-hang" languages="Chinese (Min Nan)">Gîn-hâng</name>
+		<name normalized="Ngiun-hong" languages="Hakka">Ngiùn-hòng</name>
+		<name normalized="Ngan hang" languages="Vietnamese">Ngân hàng</name>
+		<name normalized="North Bank" languages="Breton;Dutch;English;Galician;Norwegian (bokmal);official;Portuguese">North Bank</name>
+		<name normalized="North Bank Bolgesi" languages="Turkish">North Bank Bölgesi</name>
+		<name normalized="North Bank Division" languages="English;official;Polish;Swedish">North Bank Division</name>
+		<name normalized="North Bank Region" languages="German">North Bank Region</name>
+		<name normalized="Pangike" languages="Tongan">Pangikē</name>
+		<name normalized="Pank" languages="Estonian">Pank</name>
+		<name normalized="Pankki" languages="Finnish">Pankki</name>
+		<name normalized="Qullqi wasi" languages="Quechua">Qullqi wasi</name>
+		<name normalized="Vancu" languages="Sicilian">Vancu</name>
+		<name normalized="Viruroga" languages="Guarani">Viruróga</name>
+		<name normalized="Siaurinio Kranto padalinys" languages="Lithuanian">Šiaurinio Kranto padalinys</name>
+		<name normalized="Τραπεζα" languages="Greek">Τράπεζα</name>
+		<name normalized="Baaн" languages="Sakha">Баан</name>
+		<name normalized="Baнk" languages="Belarusian;Chuvash;Kazakh;Mongolian;Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Банк</name>
+		<name normalized="Baнka" languages="Bulgarian;Macedonian;Serbian">Банка</name>
+		<name normalized="Boнk" languages="Tajik">Бонк</name>
+		<name normalized="Paўнocны Biрag" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Паўночны Бераг</name>
+		<name normalized="Сiviрiн Bрig" languages="Macedonian">Северен Брег</name>
+		<name normalized="Сiviрнa Obaлa" languages="Serbian">Северна Обала</name>
+		<name normalized="Сiviрнobрizнa obлaсt" languages="Bulgarian">Севернобрежна област</name>
+		<name normalized="Сiviрный Biрig" languages="Russian">Северный Берег</name>
+		<name normalized="Bանk" languages="Armenian">Բանկ</name>
+		<name normalized="bאnq" languages="Yiddish">באנק</name>
+		<name normalized="bnq" languages="Hebrew">בנק</name>
+		<name normalized="bאنک" languages="Pashto;Persian">بانک</name>
+		<name normalized="bنk" languages="Egyptian Spoken Arabic">بنك</name>
+		<name normalized="bنک" languages="Urdu">بنک</name>
+		<name normalized="msrf" languages="Arabic">مصرف</name>
+		<name normalized="ܒܝܬ ܥܘܪܦܢܐ" languages="Aramaic">ܒܝܬ ܥܘܪܦܢܐ</name>
+		<name normalized="baंk" languages="Hindi">बैंक</name>
+		<name normalized="beংk" languages="Assamese">বেংক</name>
+		<name normalized="b্yাংk" languages="Bengali">ব্যাংক</name>
+		<name normalized="baਂk" languages="Punjabi">ਬੈਂਕ</name>
+		<name normalized="beંk" languages="Gujarati">બેંક</name>
+		<name normalized="வங்கி" languages="Tamil">வங்கி</name>
+		<name normalized="బ్యాంకు" languages="Telugu">బ్యాంకు</name>
+		<name normalized="ಬ್ಯಾಂಕ್" languages="Kannada">ಬ್ಯಾಂಕ್</name>
+		<name normalized="ബാങ്ക്" languages="Malayalam">ബാങ്ക്</name>
+		<name normalized="බැංකු" languages="Sinhala">බැංකු</name>
+		<name normalized="ธนาคาร" languages="Thai">ธนาคาร</name>
+		<name normalized="ဘဏ်" languages="Burmese">ဘဏ်</name>
+		<name normalized="ბანკი" languages="Georgian">ბანკი</name>
+		<name normalized="nーsbnk地方" languages="Japanese">ノースバンク地方</name>
+		<name normalized="北岸區" languages="Chinese">北岸區</name>
+		<name normalized="銀行" languages="Cantonese;Chinese;Japanese">銀行</name>
+		<name normalized="노스뱅크 지방" languages="Korean">노스뱅크 지방</name>
+		<name normalized="은행" languages="Korean">은행</name>
+	</region>
+	<region name="Upper River" type="division" typeTranslated="division">
+		<name normalized="Abhainn" languages="Irish;Scottish Gaelic">Abhainn</name>
+		<name normalized="Afon" languages="Welsh">Afon</name>
+		<name normalized="Aukstutines Upes padalinys" languages="Lithuanian">Aukštutinės Upės padalinys</name>
+		<name normalized="Awin" languages="Manx">Awin</name>
+		<name normalized="Ciumi" languages="Sicilian">Ciumi</name>
+		<name normalized="Daryo" languages="Uzbek">Daryo</name>
+		<name normalized="Derya" languages="Turkmen">Derýa</name>
+		<name normalized="Dex" languages="Wolof">Dex</name>
+		<name normalized="Divisione dell'Upper River" languages="Italian">Divisione dell'Upper River</name>
+		<name normalized="Division Upper River" languages="Spanish">División Upper River</name>
+		<name normalized="Diviziunea Upper River" languages="Romanian">Diviziunea Upper River</name>
+		<name normalized="Ekaw" languages="Nauru">Ekaw</name>
+		<name normalized="Elv" languages="Norwegian (bokmal);Norwegian Nynorsk">Elv</name>
+		<name normalized="Fiume" languages="Italian;veneto">Fiume</name>
+		<name normalized="Fiomm" languages="Emiliano-Romagnolo">Fiòmm</name>
+		<name normalized="Fium" languages="lumbaart">Fiüm</name>
+		<name normalized="Flod" languages="Danish;Swedish">Flod</name>
+		<name normalized="Floss" languages="Luxembourgish">Floss</name>
+		<name normalized="Flum" languages="Friulian;Romansh">Flum</name>
+		<name normalized="Flumen" languages="Latin">Flumen</name>
+		<name normalized="Fluss" languages="Bavarian;German">Fluss</name>
+		<name normalized="Fluvio" languages="Interlingua">Fluvio</name>
+		<name normalized="Folyo" languages="Hungarian">Folyó</name>
+		<name normalized="Ho" languages="Chinese (Min Nan)">Hô</name>
+		<name normalized="Ibai" languages="Basque">Ibai</name>
+		<name normalized="Ilog" languages="Tagalog">Ilog</name>
+		<name normalized="Jawira" languages="Aymara">Jawira</name>
+		<name normalized="Joki" languages="Finnish">Joki</name>
+		<name normalized="Jume" languages="tarandine">Jume</name>
+		<name normalized="Jogi" languages="Estonian;Voro">Jõgi</name>
+		<name normalized="Kali" languages="Javanese">Kali</name>
+		<name normalized="Karayan" languages="Iloko">Karayan</name>
+		<name normalized="Krueng" languages="Achinese">Kruëng</name>
+		<name normalized="Kuuk" languages="Inupiaq">Kuuk</name>
+		<name normalized="Lumi" languages="Albanian">Lumi</name>
+		<name normalized="Mayu" languages="Quechua">Mayu</name>
+		<name normalized="Motima" languages="Lingala">Motíma</name>
+		<name normalized="Mto" languages="Swahili">Mto</name>
+		<name normalized="Mubu" languages="Kongo">Mubu</name>
+		<name normalized="Naddi" languages="Fiji Hindi">Naddi</name>
+		<name normalized="Nehir" languages="Turkish">Nehir</name>
+		<name normalized="Odo" languages="Yoruba">Odò</name>
+		<name normalized="Ope" languages="Samogitian">Opė</name>
+		<name normalized="Reka" languages="Slovenian">Reka</name>
+		<name normalized="Renirano" languages="Malagasy">Renirano</name>
+		<name normalized="Reveer" languages="Limburgish">Reveer</name>
+		<name normalized="Revier" languages="Low Saxon (Netherlands)">Revier</name>
+		<name normalized="Rewwer" languages="Deitsch">Rewwer</name>
+		<name normalized="Rieka" languages="Slovak">Rieka</name>
+		<name normalized="Rijeka" languages="Bosnian;Croatian;Serbo-Croatian">Rijeka</name>
+		<name normalized="Rio" languages="Portuguese">Rio</name>
+		<name normalized="rirxe" languages="Lojban">rirxe</name>
+		<name normalized="Riu" languages="Catalan;Mirandese;Occitan;Papiamento">Riu</name>
+		<name normalized="River" languages="English;official;Scots;Simple English">River</name>
+		<name normalized="River Division" languages="English;official">River Division</name>
+		<name normalized="Rivero" languages="Esperanto;Ido">Rivero</name>
+		<name normalized="Rivier" languages="Afrikaans;Dutch;Western Frisian">Rivier</name>
+		<name normalized="Riviere" languages="French">Rivière</name>
+		<name normalized="Riviethe" languages="Nouormand">Riviéthe</name>
+		<name normalized="Rivye" languages="Haitian">Rivyè</name>
+		<name normalized="Rwizi" languages="Shona">Rwizi</name>
+		<name normalized="Rzeka" languages="Polish">Rzeka</name>
+		<name normalized="Rzyka" languages="Silesian">Rzyka</name>
+		<name normalized="Rau" languages="Romanian">Râu</name>
+		<name normalized="Rio" languages="Aragonese;Galician;Spanish">Río</name>
+		<name normalized="Riu" languages="Asturian;Extremaduran">Ríu</name>
+		<name normalized="Reka" languages="Upper Sorbian">Rěka</name>
+		<name normalized="Salog" languages="Waray">Salog</name>
+		<name normalized="Sciummo" languages="Neapolitan">Sciummo</name>
+		<name normalized="Stroom" languages="Low German">Stroom</name>
+		<name normalized="Struum" languages="Northern Frisian">Struum</name>
+		<name normalized="Ster" languages="Breton">Stêr</name>
+		<name normalized="Sungai" languages="Banjar;Indonesian;Malay;Minangkabau">Sungai</name>
+		<name normalized="Song" languages="Vietnamese">Sông</name>
+		<name normalized="Umfula" languages="Zulu">Umfula</name>
+		<name normalized="Upe" languages="Latvian">Upe</name>
+		<name normalized="Upper River" languages="Breton;Dutch;English;Galician;Norwegian (bokmal);official;Portuguese">Upper River</name>
+		<name normalized="Upper River Bolgesi" languages="Turkish">Upper River Bölgesi</name>
+		<name normalized="Upper River Diveesion" languages="Scots">Upper River Diveesion</name>
+		<name normalized="Upper River Division" languages="English;official;Polish;Swedish">Upper River Division</name>
+		<name normalized="Upper River Region" languages="German">Upper River Region</name>
+		<name normalized="Upe" languages="Lithuanian">Upė</name>
+		<name normalized="Uruzi" languages="Kinyarwanda">Uruzi</name>
+		<name normalized="Walungan" languages="Sundanese">Walungan</name>
+		<name normalized="Webiyada" languages="Somali">Webiyada</name>
+		<name normalized="Ysyry" languages="Guarani">Ysyry</name>
+		<name normalized="A" languages="Icelandic">Á</name>
+		<name normalized="Ai" languages="Seeltersk">Äi</name>
+		<name normalized="Cay" languages="Azerbaijani">Çay</name>
+		<name normalized="Cem" languages="Kurdish">Çem</name>
+		<name normalized="O'he'e" languages="Cheyenne">Ó'he'e</name>
+		<name normalized="Atoyatl" languages="Nahuatl">Ātōyātl</name>
+		<name normalized="Reka" languages="Czech">Řeka</name>
+		<name normalized="Ποταμος" languages="Greek">Ποταμός</name>
+		<name normalized="VatI" languages="Lezghian">ВацI</name>
+		<name normalized="Viрkнii Рaka" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Верхняя Рака</name>
+		<name normalized="Viрkнii Рika" languages="Russian">Верхняя Река</name>
+		<name normalized="Goл мɵрɵн" languages="Mongolian">Гол мөрөн</name>
+		<name normalized="Goрнa Рika" languages="Macedonian">Горна Река</name>
+		<name normalized="Goрнoрicнa obлaсt" languages="Bulgarian">Горноречна област</name>
+		<name normalized="Goрna Рika" languages="Serbian">Горња Река</name>
+		<name normalized="Daрё" languages="Tajik">Дарё</name>
+		<name normalized="Iлga" languages="Tatar">Елга</name>
+		<name normalized="Йылғa" languages="Bashkir">Йылға</name>
+		<name normalized="Лiй" languages="Erzya">Лей</name>
+		<name normalized="Рaka" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Рака</name>
+		<name normalized="Рika" languages="Bulgarian;Macedonian;Russian;Serbian">Река</name>
+		<name normalized="Рika" languages="Rusyn">Ріка</name>
+		<name normalized="Рicka" languages="Ukrainian">Річка</name>
+		<name normalized="Сuu" languages="Karachay-Balkar">Суу</name>
+		<name normalized="Taeugaedoн" languages="Ossetic">Цæугæдон</name>
+		<name normalized="Eniр" languages="Eastern Mari">Эҥер</name>
+		<name normalized="Ю" languages="Komi">Ю</name>
+		<name normalized="Юkaн sыv" languages="Chuvash">Юхан шыв</name>
+		<name normalized="Өziн" languages="Kazakh">Өзен</name>
+		<name normalized="Өрүс" languages="Sakha">Өрүс</name>
+		<name normalized="Գեt" languages="Armenian">Գետ</name>
+		<name normalized="tייד" languages="Yiddish">טייך</name>
+		<name normalized="nhr" languages="Hebrew">נהר</name>
+		<name normalized="دrیא" languages="Urdu;Western Punjabi">دریا</name>
+		<name normalized="rود" languages="Persian">رود</name>
+		<name normalized="نhr" languages="Arabic;Egyptian Spoken Arabic">نهر</name>
+		<name normalized="ڕووbאr" languages="Sorani Kurdish">ڕووبار</name>
+		<name normalized="ܢܗܪܐ" languages="Aramaic">ܢܗܪܐ</name>
+		<name normalized="aऱu" languages="Newari">आऱु</name>
+		<name normalized="ndi" languages="Hindi;Marathi;Nepali;Sanskrit">नदी</name>
+		<name normalized="ndi" languages="Assamese;Bengali">নদী</name>
+		<name normalized="dria" languages="Punjabi">ਦਰਿਆ</name>
+		<name normalized="ஆறு" languages="Tamil">ஆறு</name>
+		<name normalized="నది" languages="Telugu">నది</name>
+		<name normalized="ನದಿ" languages="Kannada">ನದಿ</name>
+		<name normalized="നദി" languages="Malayalam">നദി</name>
+		<name normalized="ගඟ" languages="Sinhala">ගඟ</name>
+		<name normalized="แม่น้ำ" languages="Thai">แม่น้ำ</name>
+		<name normalized="ཆུ་རྒྱུན།" languages="Tibetan">ཆུ་རྒྱུན།</name>
+		<name normalized="မြစ်" languages="Burmese">မြစ်</name>
+		<name normalized="მდინარე" languages="Georgian">მდინარე</name>
+		<name normalized="წყარმალუ" languages="Mingrelian">წყარმალუ</name>
+		<name normalized="ወንዝ" languages="Amharic">ወንዝ</name>
+		<name normalized="ᎤᏪᏴ" languages="Cherokee">ᎤᏪᏴ</name>
+		<name normalized="ᑰᒃ" languages="Inuktitut">ᑰᒃ</name>
+		<name normalized="gnba川上流地方" languages="Japanese">ガンビア川上流地方</name>
+		<name normalized="上河區" languages="Chinese">上河區</name>
+		<name normalized="川" languages="Japanese">川</name>
+		<name normalized="江" languages="Gan">江</name>
+		<name normalized="河" languages="Cantonese">河</name>
+		<name normalized="河流" languages="Chinese">河流</name>
+		<name normalized="강" languages="Korean">강</name>
+		<name normalized="강 상류 지방" languages="Korean">강 상류 지방</name>
+	</region>
+	<region name="Western" type="division" typeTranslated="division">
+		<name normalized="Phuong Tay" languages="Vietnamese">Phương Tây</name>
+		<name normalized="Western" languages="Danish;Dutch;English;French;Galician;German;Italian;official;Polish;Portuguese;Simple English;Spanish;Swedish">Western</name>
+		<name normalized="Western Division" languages="English;German;official">Western Division</name>
+		<name normalized="Ueсtiрн" languages="Russian">Уэстерн</name>
+		<name normalized="وسtrن" languages="Persian">وسترن</name>
+		<name normalized="uestn" languages="Japanese">ウエスタン</name>
+	</region>
+</regions>

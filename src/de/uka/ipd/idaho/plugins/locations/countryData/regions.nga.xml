@@ -1,0 +1,679 @@
+<regions country="Nigeria">
+	<region name="Abia" type="state" typeTranslated="state">
+		<name normalized="Abia" languages="English;official">Abia</name>
+	</region>
+	<region name="Adamawa" type="state" typeTranslated="state">
+		<name normalized="Adamaoua" languages="Italian">Adamaoua</name>
+		<name normalized="Adamaua" languages="German">Adamaua</name>
+		<name normalized="Adamava" languages="Lithuanian">Adamava</name>
+		<name normalized="Adamawa" languages="Dutch;English;Estonian;French;Galician;official;Polish;Portuguese;Slovak;Spanish">Adamawa</name>
+		<name normalized="Adaмava" languages="Russian">Адамава</name>
+		<name normalized="Adaмaua" languages="Ukrainian">Адамауа</name>
+		<name normalized="admw" languages="Japanese">アダマワ</name>
+		<name normalized="아다마와" languages="Korean">아다마와</name>
+	</region>
+	<region name="Akwa Ibom" type="state" typeTranslated="state">
+		<name normalized="Akwa Ibom" languages="Catalan;Danish;Dutch;English;Finnish;Galician;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swahili;Swedish">Akwa Ibom</name>
+		<name normalized="Akwa Ibom Eyaleti" languages="Turkish">Akwa Ibom Eyaleti</name>
+		<name normalized="Akwa Ibom State" languages="English">Akwa Ibom State</name>
+		<name normalized="Akwa Ibomi osariik" languages="Estonian">Akwa Ibomi osariik</name>
+		<name normalized="Statul Akwa Ibom" languages="Romanian">Statul Akwa Ibom</name>
+		<name normalized="Etat d'Akwa Ibom" languages="French">État d'Akwa Ibom</name>
+		<name normalized="Ipinle` Akwa Ibom" languages="Yoruba">Ìpínlẹ̀ Akwa Íbọm</name>
+		<name normalized="Akva Iboм" languages="Bulgarian">Аква Ибом</name>
+		<name normalized="Akva-Iboм" languages="Hill Mari;Russian">Аква-Ибом</name>
+		<name normalized="აკვა-იბომის შტატი" languages="Georgian">აკვა-იბომის შტატი</name>
+		<name normalized="akw・ibm州" languages="Japanese">アクワ・イボム州</name>
+		<name normalized="阿夸伊博姆州" languages="Chinese">阿夸伊博姆州</name>
+		<name normalized="아크와이봄 주" languages="Korean">아크와이봄 주</name>
+	</region>
+	<region name="Anambra" type="state" typeTranslated="state">
+		<name normalized="Anambra" languages="Catalan;Danish;Dutch;English;Finnish;Galician;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish">Anambra</name>
+		<name normalized="Anambra Eyaleti" languages="Turkish">Anambra Eyaleti</name>
+		<name normalized="Anambra osariik" languages="Estonian">Anambra osariik</name>
+		<name normalized="Anambra State" languages="English">Anambra State</name>
+		<name normalized="Jimbo la Anambra" languages="Swahili">Jimbo la Anambra</name>
+		<name normalized="Statul Anambra" languages="Romanian">Statul Anambra</name>
+		<name normalized="Etat d'Anambra" languages="French">État d'Anambra</name>
+		<name normalized="Ipinle` Anambra" languages="Yoruba">Ìpínlẹ̀ Anámbra</name>
+		<name normalized="Ȯra Anambra" languages="Igbo">Ȯra Anambra</name>
+		<name normalized="Aнaмbрa" languages="Bulgarian;Hill Mari;Russian">Анамбра</name>
+		<name normalized="أنאmbrא" languages="Arabic">أنامبرا</name>
+		<name normalized="ანამბრის შტატი" languages="Georgian">ანამბრის შტატი</name>
+		<name normalized="annbr州" languages="Japanese">アナンブラ州</name>
+		<name normalized="阿南布拉州" languages="Cantonese;Chinese">阿南布拉州</name>
+		<name normalized="아남브라 주" languages="Korean">아남브라 주</name>
+	</region>
+	<region name="Bauchi" type="state" typeTranslated="state">
+		<name normalized="Bauchi" languages="Croatian;Danish;Dutch;English;Esperanto;Finnish;French;Galician;German;Italian;official;Portuguese;Romanian;Swedish;Yoruba">Bauchi</name>
+		<name normalized="Bauczi" languages="Polish">Bauczi</name>
+		<name normalized="Baucis" languages="Lithuanian">Baučis</name>
+		<name normalized="Bauci" languages="Russian">Баучи</name>
+		<name normalized="包奇" languages="Chinese">包奇</name>
+	</region>
+	<region name="Bayelsa" type="state" typeTranslated="state">
+		<name normalized="Bayelsa" languages="Catalan;Danish;Dutch;English;Estonian;Finnish;Galician;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish">Bayelsa</name>
+		<name normalized="Bayelsa Eyaleti" languages="Turkish">Bayelsa Eyaleti</name>
+		<name normalized="Bayelsa State" languages="English">Bayelsa State</name>
+		<name normalized="Jimbo la Bayelsa" languages="Swahili">Jimbo la Bayelsa</name>
+		<name normalized="Statul Bayelsa" languages="Romanian">Statul Bayelsa</name>
+		<name normalized="Etat de Bayelsa" languages="French">État de Bayelsa</name>
+		<name normalized="Ipinle` Bayelsa" languages="Yoruba">Ìpínlẹ̀ Bàyélsà</name>
+		<name normalized="Baйiлсa" languages="Bulgarian">Байелса</name>
+		<name normalized="Baйiльсa" languages="Hill Mari;Russian">Байельса</name>
+		<name normalized="ბაიელსის შტატი" languages="Georgian">ბაიელსის შტატი</name>
+		<name normalized="biers州" languages="Japanese">バイエルサ州</name>
+		<name normalized="巴耶尔萨州" languages="Chinese">巴耶尔萨州</name>
+		<name normalized="바이엘사 주" languages="Korean">바이엘사 주</name>
+	</region>
+	<region name="Benue" type="state" typeTranslated="state">
+		<name normalized="Benue" languages="Basque;Croatian;Czech;Danish;Dutch;English;German;Hungarian;Italian;Norwegian (bokmal);official;Polish;Serbo-Croatian;Slovenian;Swahili;Swedish;Turkish">Benue</name>
+		<name normalized="Benue jogi" languages="Estonian">Benue jõgi</name>
+		<name normalized="Benue River" languages="English;Simple English">Benue River</name>
+		<name normalized="Benue" languages="Lithuanian">Benuė</name>
+		<name normalized="Benoue" languages="French">Bénoué</name>
+		<name normalized="Odo Be´nue" languages="Yoruba">Odò Bẹ́núé</name>
+		<name normalized="Rio Benue" languages="Portuguese">Rio Benue</name>
+		<name normalized="Rio Benue" languages="Galician;Spanish">Río Benue</name>
+		<name normalized="Song Benue" languages="Vietnamese">Sông Benue</name>
+		<name normalized="Biнui" languages="Bulgarian;Serbian;Ukrainian">Бенуе</name>
+		<name normalized="Biнue" languages="Russian">Бенуэ</name>
+		<name normalized="Beнue" languages="biлaрuсkai (taрaskivita)‎">Бэнуэ</name>
+		<name normalized="Рaka Biнue" languages="Belarusian">Рака Бенуэ</name>
+		<name normalized="Bենvyե" languages="Armenian">Բենուե</name>
+		<name normalized="bنوئh" languages="Persian">بنوئه</name>
+		<name normalized="نhr bنوy" languages="Arabic">نهر بنوي</name>
+		<name normalized="bne川" languages="Japanese">ベヌエ川</name>
+		<name normalized="貝努埃河" languages="Chinese">貝努埃河</name>
+		<name normalized="베누에 강" languages="Korean">베누에 강</name>
+	</region>
+	<region name="Borno" type="state" typeTranslated="state">
+		<name normalized="Borno" languages="Dutch;English;French;Galician;German;official;Spanish">Borno</name>
+		<name normalized="Boрнo" languages="Russian">Борно</name>
+	</region>
+	<region name="Cross River" type="state" typeTranslated="state">
+		<name normalized="Cross" languages="French">Cross</name>
+		<name normalized="Cross River" languages="English;German;official">Cross River</name>
+		<name normalized="Krosas" languages="Lithuanian">Krosas</name>
+		<name normalized="Kroso" languages="Esperanto">Kroso</name>
+		<name normalized="Rio Cross" languages="Portuguese">Rio Cross</name>
+		<name normalized="Riu Cross" languages="Catalan">Riu Cross</name>
+		<name normalized="Rio Cross" languages="Spanish">Río Cross</name>
+		<name normalized="Kрoсс" languages="Russian">Кросс</name>
+		<name normalized="nhr qrvס" languages="Hebrew">נהר קרוס</name>
+		<name normalized="نhr krوس" languages="Arabic">نهر كروس</name>
+	</region>
+	<region name="Delta" type="state" typeTranslated="state">
+		<name normalized="Delta" languages="Aragonese;Basque;Bosnian;Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Extremaduran;Finnish;French;Galician;German;Indonesian;Italian;Kurdish;Latvian;Lithuanian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Sicilian;Slovak;Slovenian;Spanish;Swedish;Turkish;Volapuk;Welsh;Western Frisian">Delta</name>
+		<name normalized="Delto" languages="Esperanto">Delto</name>
+		<name normalized="Delta" languages="Occitan">Dèlta</name>
+		<name normalized="Δ" languages="Nahuatl">Δ</name>
+		<name normalized="Diлta" languages="Bulgarian;Serbian">Делта</name>
+		<name normalized="Diльta" languages="Russian;Ukrainian">Дельта</name>
+		<name normalized="Dեltա" languages="Armenian">Դելտա</name>
+		<name normalized="דדtא" languages="Hebrew">דלתא</name>
+		<name normalized="דעדtע" languages="Yiddish">דעלטע</name>
+		<name normalized="دلtא" languages="Persian">دلتا</name>
+		<name normalized="დელტა" languages="Georgian">დელტა</name>
+		<name normalized="drt" languages="Japanese">デルタ</name>
+		<name normalized="델타" languages="Korean">델타</name>
+	</region>
+	<region name="Ebonyi" type="state" typeTranslated="state">
+		<name normalized="Ebonyi" languages="Catalan;Danish;Dutch;English;Finnish;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish">Ebonyi</name>
+		<name normalized="Ebonyi Eyaleti" languages="Turkish">Ebonyi Eyaleti</name>
+		<name normalized="Ebonyi osariik" languages="Estonian">Ebonyi osariik</name>
+		<name normalized="Ebonyi State" languages="English">Ebonyi State</name>
+		<name normalized="Estado de Ebonyi" languages="Galician">Estado de Ebonyi</name>
+		<name normalized="Jimbo la Ebonyi" languages="Swahili">Jimbo la Ebonyi</name>
+		<name normalized="Statul Ebonyi" languages="Romanian">Statul Ebonyi</name>
+		<name normalized="Etat d'Ebonyi" languages="French">État d'Ebonyi</name>
+		<name normalized="Ipinle` E`bo´nyi" languages="Yoruba">Ìpínlẹ̀ Ẹ̀bọ́nyì</name>
+		<name normalized="Ȯra Ebonyi" languages="Igbo">Ȯra Ebonyi</name>
+		<name normalized="Iboнi" languages="Bulgarian">Ебони</name>
+		<name normalized="Eboньi" languages="Hill Mari;Russian">Эбоньи</name>
+		<name normalized="ებონიის შტატი" languages="Georgian">ებონიის შტატი</name>
+		<name normalized="ebn州" languages="Japanese">エボニ州</name>
+		<name normalized="埃邦伊州" languages="Chinese">埃邦伊州</name>
+		<name normalized="에보니 주" languages="Korean">에보니 주</name>
+	</region>
+	<region name="Edo" type="state" typeTranslated="state">
+		<name normalized="Edas" languages="Lithuanian">Edas</name>
+		<name normalized="Edo" languages="Basque;Bosnian;Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;German;Hungarian;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Simple English;Spanish;Swedish;Turkish;Vietnamese;Welsh">Edo</name>
+		<name normalized="Eντο" languages="Greek">Έντο</name>
+		<name normalized="Ido" languages="Ukrainian">Едо</name>
+		<name normalized="Edo" languages="Mongolian;Russian">Эдо</name>
+		<name normalized="إyدو" languages="Arabic">إيدو</name>
+		<name normalized="אدو" languages="Persian">ادو</name>
+		<name normalized="江戶" languages="Chinese;Classical Chinese">江戶</name>
+		<name normalized="江戸" languages="Japanese">江戸</name>
+		<name normalized="에도" languages="Korean">에도</name>
+	</region>
+	<region name="Ekiti" type="state" typeTranslated="state">
+		<name normalized="Ekiti" languages="Danish;Dutch;English;Finnish;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish">Ekiti</name>
+		<name normalized="Ekiti Eyaleti" languages="Turkish">Ekiti Eyaleti</name>
+		<name normalized="Ekiti osariik" languages="Estonian">Ekiti osariik</name>
+		<name normalized="Ekiti State" languages="English">Ekiti State</name>
+		<name normalized="Estado de Ekiti" languages="Galician">Estado de Ekiti</name>
+		<name normalized="Jimbo la Ekiti" languages="Swahili">Jimbo la Ekiti</name>
+		<name normalized="Statul Ekiti" languages="Romanian">Statul Ekiti</name>
+		<name normalized="Etat d'Ekiti" languages="French">État d'Ekiti</name>
+		<name normalized="Ipinle` Ekiti" languages="Yoruba">Ìpínlẹ̀ Èkìtì</name>
+		<name normalized="Ikiti" languages="Bulgarian">Екити</name>
+		<name normalized="Ekiti" languages="Hill Mari;Russian">Экити</name>
+		<name normalized="ekti州" languages="Japanese">エキティ州</name>
+		<name normalized="埃基蒂州" languages="Chinese">埃基蒂州</name>
+		<name normalized="에키티 주" languages="Korean">에키티 주</name>
+	</region>
+	<region name="Enugu" type="state" typeTranslated="state">
+		<name normalized="Enugu" languages="Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Italian;Lithuanian;official;Polish;Portuguese;Romanian;Spanish;Swahili;Swedish;Turkish;Vietnamese;Waray">Enugu</name>
+		<name normalized="Enugwu" languages="Igbo;lumbaart">Enúgwu</name>
+		<name normalized="Iнugu" languages="Bulgarian">Енугу</name>
+		<name normalized="Eнugu" languages="Russian">Энугу</name>
+		<name normalized="إنوغو" languages="Arabic">إنوغو</name>
+		<name normalized="Enugu" languages="Yoruba">Ẹnúgu</name>
+		<name normalized="eng" languages="Japanese">エヌグ</name>
+		<name normalized="埃努古" languages="Chinese">埃努古</name>
+		<name normalized="에누구" languages="Korean">에누구</name>
+	</region>
+	<region name="Federal Capital Territory" type="territory" typeTranslated="territory">
+		<name normalized="Abuja Federal Capital Territory" languages="Italian">Abuja Federal Capital Territory</name>
+		<name normalized="Agbegbe Oluilu Ijoba Apapo` Abuja" languages="Yoruba">Agbègbè Olúìlú Ìjọba Àpapọ̀ Abùjá</name>
+		<name normalized="Federal Baskent Bolgesi" languages="Turkish">Federal Başkent Bölgesi</name>
+		<name normalized="Federal Capital Territory" languages="Danish;Dutch;English;German;official;Swahili;Swedish">Federal Capital Territory</name>
+		<name normalized="Federalne Terytorium Stoleczne" languages="Polish">Federalne Terytorium Stołeczne</name>
+		<name normalized="Foderaalne pealinnaala" languages="Estonian">Föderaalne pealinnaala</name>
+		<name normalized="Territoire de la capitale federale du Nigeria" languages="French">Territoire de la capitale fédérale du Nigeria</name>
+		<name normalized="Territorio da Capital Federal de Nixeria" languages="Galician">Territorio da Capital Federal de Nixeria</name>
+		<name normalized="Territorio de la Capital Federal" languages="Spanish">Territorio de la Capital Federal</name>
+		<name normalized="Territorio da Capital Federal da Nigeria" languages="Portuguese">Território da Capital Federal da Nigéria</name>
+		<name normalized="Wilayah Ibu Kota Federal" languages="Indonesian">Wilayah Ibu Kota Federal</name>
+		<name normalized="Фidiрaльнai сtoлicнai tiррitoрii" languages="Russian">Федеральная столичная территория</name>
+		<name normalized="mنtqة אلعאsmة אلإthאدyة لنyjyryא" languages="Arabic">منطقة العاصمة الإتحادية لنيجيريا</name>
+		<name normalized="連邦首都地区" languages="Japanese">連邦首都地区</name>
+		<name normalized="연방 수도 지구" languages="Korean">연방 수도 지구</name>
+	</region>
+	<region name="Gombe" type="state" typeTranslated="state">
+		<name normalized="Gombe" languages="Croatian;Danish;Dutch;English;Esperanto;French;Galician;German;official;Polish;Portuguese;Romanian;Swedish">Gombe</name>
+		<name normalized="Gombe" languages="Yoruba">Gòmbè</name>
+		<name normalized="Goмbi" languages="Russian">Гомбе</name>
+		<name normalized="貢貝" languages="Chinese">貢貝</name>
+	</region>
+	<region name="Imo" type="state" typeTranslated="state">
+		<name normalized="Imo" languages="Chinese;Czech;Danish;Dutch;English;Esperanto;Finnish;French;Galician;German;Hebrew;Hungarian;Italian;Japanese;Korean;Northern Frisian;Norwegian (bokmal);official;Persian;Polish;Portuguese;Russian;Slovenian;Swedish;Ukrainian;Vietnamese">Imo</name>
+	</region>
+	<region name="Jigawa" type="state" typeTranslated="state">
+		<name normalized="Jigawa" languages="Danish;Dutch;English;Estonian;Finnish;Galician;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swahili;Swedish">Jigawa</name>
+		<name normalized="Jigawa Eyaleti" languages="Turkish">Jigawa Eyaleti</name>
+		<name normalized="Jigawa State" languages="English">Jigawa State</name>
+		<name normalized="Statul Jigawa" languages="Romanian">Statul Jigawa</name>
+		<name normalized="Etat de Jigawa" languages="French">État de Jigawa</name>
+		<name normalized="Ipinle` Jigawa" languages="Yoruba">Ìpínlẹ̀ Jígàwà</name>
+		<name normalized="Dzigava" languages="Bulgarian;Hill Mari;Russian">Джигава</name>
+		<name normalized="ولאyة jyغאوة" languages="Arabic">ولاية جيغاوة</name>
+		<name normalized="zgw州" languages="Japanese">ジガワ州</name>
+		<name normalized="吉加瓦州" languages="Chinese">吉加瓦州</name>
+		<name normalized="지가와 주" languages="Korean">지가와 주</name>
+	</region>
+	<region name="Kaduna" type="state" typeTranslated="state">
+		<name normalized="Kaduna" languages="Afrikaans;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Hausa;Indonesian;Italian;Lithuanian;Norwegian Nynorsk;official;Polish;Portuguese;Romanian;Spanish;Swahili;Swedish;Turkish;Waray">Kaduna</name>
+		<name normalized="Kaduno" languages="Esperanto">Kaduno</name>
+		<name normalized="Kaduna" languages="Yoruba">Kàdúná</name>
+		<name normalized="Goрad Kaduнa" languages="Belarusian">Горад Кадуна</name>
+		<name normalized="Kaduнa" languages="Bulgarian;Russian">Кадуна</name>
+		<name normalized="qדvnh" languages="Hebrew">קדונה</name>
+		<name normalized="kאدونא" languages="Arabic">كادونا</name>
+		<name normalized="kਾdunਾ" languages="Punjabi">ਕਾਦੂਨਾ</name>
+		<name normalized="kdun" languages="Japanese">カドゥナ</name>
+		<name normalized="卡杜納" languages="Chinese">卡杜納</name>
+		<name normalized="카두나" languages="Korean">카두나</name>
+	</region>
+	<region name="Kano" type="state" typeTranslated="state">
+		<name normalized="Kanas" languages="Lithuanian">Kanas</name>
+		<name normalized="Kano" languages="Afrikaans;Basque;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Icelandic;Igbo;Indonesian;Interlingue;Italian;Latvian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Shona;Simple English;Spanish;Swahili;Swedish;Turkish;Vietnamese;Waray">Kano</name>
+		<name normalized="Kano i Nigeria" languages="Norwegian Nynorsk">Kano i Nigeria</name>
+		<name normalized="Kano#Tarihin Kano" languages="Hausa">Kano#Tarihin Kano</name>
+		<name normalized="Kano" languages="Yoruba">Kánò</name>
+		<name normalized="Goрad Kaнo" languages="Belarusian">Горад Кано</name>
+		<name normalized="Kaнo" languages="Bulgarian;Chechen;Macedonian;Russian;Serbian;Ukrainian">Кано</name>
+		<name normalized="qnv" languages="Hebrew">קנו</name>
+		<name normalized="kאنو" languages="Arabic">كانو</name>
+		<name normalized="kਾnੋ" languages="Punjabi">ਕਾਨੋ</name>
+		<name normalized="kn" languages="Japanese">カノ</name>
+		<name normalized="卡諾市" languages="Chinese">卡諾市</name>
+		<name normalized="카노" languages="Korean">카노</name>
+	</region>
+	<region name="Katsina" type="state" typeTranslated="state">
+		<name normalized="Kacina" languages="Lithuanian">Kacina</name>
+		<name normalized="Katsina" languages="Danish;Dutch;English;Esperanto;French;German;Hausa;official;Polish;Portuguese;Romanian;Swedish;Turkish">Katsina</name>
+		<name normalized="Katsina" languages="Yoruba">Kàtsínà</name>
+		<name normalized="Katiнa" languages="Russian">Кацина</name>
+		<name normalized="卡齐纳" languages="Chinese">卡齐纳</name>
+	</region>
+	<region name="Kebbi" type="state" typeTranslated="state">
+		<name normalized="Kebbi" languages="Danish;Dutch;English;Finnish;Galician;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swahili;Swedish">Kebbi</name>
+		<name normalized="Kebbi State" languages="English">Kebbi State</name>
+		<name normalized="Statul Kebbi" languages="Romanian">Statul Kebbi</name>
+		<name normalized="Etat de Kebbi" languages="French">État de Kebbi</name>
+		<name normalized="Ipinle` Kebbi" languages="Yoruba">Ìpínlẹ̀ Kébbí</name>
+		<name normalized="Kibbi" languages="Bulgarian;Hill Mari;Russian">Кебби</name>
+		<name normalized="ولאyة kby" languages="Arabic">ولاية كبي</name>
+		<name normalized="kb州" languages="Japanese">ケビ州</name>
+		<name normalized="凯比州" languages="Chinese">凯比州</name>
+		<name normalized="케비 주" languages="Korean">케비 주</name>
+	</region>
+	<region name="Kogi" type="state" typeTranslated="state">
+		<name normalized="Estado de Kogi" languages="Galician">Estado de Kogi</name>
+		<name normalized="Kogi" languages="Danish;Dutch;English;Estonian;Finnish;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swahili;Swedish">Kogi</name>
+		<name normalized="Kogi State" languages="English">Kogi State</name>
+		<name normalized="Statul Kogi" languages="Romanian">Statul Kogi</name>
+		<name normalized="Etat de Kogi" languages="French">État de Kogi</name>
+		<name normalized="Ipinle` Kogi" languages="Yoruba">Ìpínlẹ̀ Kogí</name>
+		<name normalized="Kogi" languages="Bulgarian;Hill Mari;Russian">Коги</name>
+		<name normalized="Kogi" languages="Ukrainian">Когі</name>
+		<name normalized="ولאyة kوjy" languages="Arabic">ولاية كوجي</name>
+		<name normalized="kg州" languages="Japanese">コギ州</name>
+		<name normalized="科吉州" languages="Chinese">科吉州</name>
+		<name normalized="코기 주" languages="Korean">코기 주</name>
+	</region>
+	<region name="Kwara" type="state" typeTranslated="state">
+		<name normalized="Kwara" languages="English;official">Kwara</name>
+	</region>
+	<region name="Lagos" type="state" typeTranslated="state">
+		<name normalized="Lacupolis" languages="Latin">Lacupolis</name>
+		<name normalized="Lagos" languages="Afrikaans;Albanian;Alemannisch;Aragonese;Basque;Bosnian;Breton;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Estonian;Extremaduran;Fiji Hindi;Finnish;Franco-Provencal;French;Galician;German;Hungarian;Icelandic;Ido;Igbo;Iloko;Indonesian;Interlingue;Irish;Italian;Kurdish;lumbaart;Malay;Mirandese;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Papiamento;Piedmontese;Polish;Portuguese;Quechua;Romanian;Sardinian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Sicilian;Simple English;Slovak;Slovenian;Spanish;Swahili;Swedish;tarandine;Turkish;Turkmen;Uzbek;Vietnamese;Waray;Welsh;Western Frisian">Lagos</name>
+		<name normalized="Lagosa" languages="Latvian">Lagosa</name>
+		<name normalized="Lagosas" languages="Lithuanian">Lagosas</name>
+		<name normalized="Lagoso" languages="Esperanto">Lagoso</name>
+		<name normalized="Laguosos" languages="Samogitian">Laguosos</name>
+		<name normalized="Laqos" languages="Azerbaijani">Laqos</name>
+		<name normalized="Eko" languages="Yoruba">Èkó</name>
+		<name normalized="Λαγος" languages="Greek">Λάγος</name>
+		<name normalized="Goрad Лagaс" languages="Belarusian">Горад Лагас</name>
+		<name normalized="Лagaс" languages="biлaрuсkai (taрaskivita)‎">Лагас</name>
+		<name normalized="Лagoс" languages="Bashkir;Bulgarian;Chechen;Eastern Mari;Kazakh;Macedonian;Russian;Sakha;Serbian;Tajik;Ukrainian">Лагос</name>
+		<name normalized="Лaґoс" languages="Rusyn">Лаґос</name>
+		<name normalized="Lագvs" languages="Armenian">Լագոս</name>
+		<name normalized="דאגאס" languages="Yiddish">לאגאס</name>
+		<name normalized="דאגvס" languages="Hebrew">לאגוס</name>
+		<name normalized="لאjوس" languages="Egyptian Spoken Arabic">لاجوس</name>
+		<name normalized="لאغوس" languages="Arabic">لاغوس</name>
+		<name normalized="لאgوس" languages="Persian;Urdu;Western Punjabi">لاگوس</name>
+		<name normalized="لאgۆس" languages="Sorani Kurdish">لاگۆس</name>
+		<name normalized="lाgos" languages="Hindi;Marathi">लागोस</name>
+		<name normalized="legos" languages="Bengali">লেগোস</name>
+		<name normalized="lਾgੋs" languages="Punjabi">ਲਾਗੋਸ</name>
+		<name normalized="lાgos" languages="Gujarati">લાગોસ</name>
+		<name normalized="லாகோஸ்" languages="Tamil">லாகோஸ்</name>
+		<name normalized="లాగోస్" languages="Telugu">లాగోస్</name>
+		<name normalized="ಲಾಗೊಸ್" languages="Kannada">ಲಾಗೊಸ್</name>
+		<name normalized="ലാഗോസ്" languages="Malayalam">ലാഗോസ്</name>
+		<name normalized="เลกอส" languages="Thai">เลกอส</name>
+		<name normalized="လေးဂို့စ်မြို့" languages="Burmese">လေးဂို့စ်မြို့</name>
+		<name normalized="ლაგოსი" languages="Georgian">ლაგოსი</name>
+		<name normalized="rgs" languages="Japanese">ラゴス</name>
+		<name normalized="拉哥斯" languages="Cantonese;Chinese">拉哥斯</name>
+		<name normalized="라고스" languages="Korean">라고스</name>
+	</region>
+	<region name="Nasarawa" type="state" typeTranslated="state">
+		<name normalized="Estado de Nasarawa" languages="Galician">Estado de Nasarawa</name>
+		<name normalized="Jimbo la Nasarawa" languages="Swahili">Jimbo la Nasarawa</name>
+		<name normalized="Nasarawa" languages="English;Estonian;Finnish;Norwegian (bokmal);official;Portuguese;Swedish">Nasarawa</name>
+		<name normalized="Nasarawa State" languages="English">Nasarawa State</name>
+		<name normalized="Nassarawa" languages="Danish;Dutch;German;Indonesian;Italian;Polish">Nassarawa</name>
+		<name normalized="Nassawara" languages="Spanish">Nassawara</name>
+		<name normalized="Statul Nassarawa" languages="Romanian">Statul Nassarawa</name>
+		<name normalized="Etat de Nassarawa" languages="French">État de Nassarawa</name>
+		<name normalized="Ipinle` Nasarawa" languages="Yoruba">Ìpínlẹ̀ Násáráwá</name>
+		<name normalized="Нaсaрava" languages="Hill Mari;Russian">Насарава</name>
+		<name normalized="Нaсaрaua" languages="Bulgarian">Насарауа</name>
+		<name normalized="ولאyة نsrאوة" languages="Arabic">ولاية نصراوة</name>
+		<name normalized="nsrw州" languages="Japanese">ナサラワ州</name>
+		<name normalized="纳萨拉瓦州" languages="Chinese">纳萨拉瓦州</name>
+		<name normalized="나사라와 주" languages="Korean">나사라와 주</name>
+	</region>
+	<region name="Niger" type="state" typeTranslated="state">
+		<name normalized="An Nigir" languages="Irish">An Nígir</name>
+		<name normalized="INayighe" languages="Zulu">INayighe</name>
+		<name normalized="INayijari" languages="Swati">INayijari</name>
+		<name normalized="Nayjar" languages="Somali">Nayjar</name>
+		<name normalized="Nicer" languages="Zazaki">Nicer</name>
+		<name normalized="Niger" languages="Achinese;Afrikaans;Alemannisch;Azerbaijani;Banjar;Basque;Bikol Central;Bosnian;Breton;Cebuano;Chinese (Min Nan);Crimean Turkish;Croatian;Czech;Danish;Dutch;English;Estonian;Ewe;Faroese;Fiji Hindi;Finnish;French;Gagauz;German;Hungarian;Igbo;Iloko;Indonesian;Interlingua;Interlingue;Italian;Javanese;Ligure;Limburgish;Lower Sorbian;lumbaart;Luxembourgish;Malay;Minangkabau;Nahuatl;Northern Sami;Northern Sotho;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Pampanga;Polish;Romanian;Scots;Seeltersk;Serbo-Croatian;Shona;Sicilian;Simple English;Slovak;Slovenian;Sundanese;Swahili;Swedish;Tsonga;Turkmen;Upper Sorbian;Uzbek;Vietnamese;veneto;Voro;Waray;Welsh;Western Frisian">Niger</name>
+		<name normalized="Nigeri" languages="Albanian;Kinyarwanda">Nigeri</name>
+		<name normalized="Nigeris" languages="Lithuanian;Samogitian">Nigeris</name>
+		<name normalized="Nigeran" languages="Volapuk">Nigerän</name>
+		<name normalized="Nigi" languages="Extremaduran">Nigi</name>
+		<name normalized="Nig.er" languages="Franco-Provencal">Nig·èr</name>
+		<name normalized="Niger" languages="Occitan">Nigèr</name>
+		<name normalized="Nigera" languages="Latvian">Nigēra</name>
+		<name normalized="Niijir" languages="Norfuk / Pitkern">Niijir</name>
+		<name normalized="Niiser" languages="Fulah">Niiser</name>
+		<name normalized="Nijar" languages="Hausa">Nijar</name>
+		<name normalized="Nijer" languages="Bambara;Ido;Kongo;Turkish">Nijer</name>
+		<name normalized="Nije" languages="Haitian">Nijè</name>
+		<name normalized="Niqir" languages="Quechua">Niqir</name>
+		<name normalized="Niseer" languages="Wolof">Niseer</name>
+		<name normalized="Nixer" languages="Sardinian">Nixèr</name>
+		<name normalized="Niyer" languages="Tagalog">Niyer</name>
+		<name normalized="Nizer" languages="Lingala">Nizer</name>
+		<name normalized="Nizere" languages="Sango">Nizëre</name>
+		<name normalized="Nigero" languages="Esperanto">Niĝero</name>
+		<name normalized="Niger" languages="Maltese">Niġer</name>
+		<name normalized="Nigeir" languages="Scottish Gaelic">Nìgeir</name>
+		<name normalized="Niger" languages="Piedmontese">Nìger</name>
+		<name normalized="Nije`r" languages="Yoruba">Nìjẹ̀r</name>
+		<name normalized="Nicher" languages="Aragonese">Nícher</name>
+		<name normalized="Niger" languages="Catalan;Icelandic;Portuguese;Spanish">Níger</name>
+		<name normalized="Nixer" languages="Asturian;Galician">Níxer</name>
+		<name normalized="Nijer" languages="Kurdish">Nîjer</name>
+		<name normalized="Pow Nijer" languages="Cornish">Pow Nijer</name>
+		<name normalized="Republiek Niger" languages="Low German">Republiek Niger</name>
+		<name normalized="Res publica Nigritana" languages="Latin">Res publica Nigritana</name>
+		<name normalized="Yn Neegeyr" languages="Manx">Yn Neegeyr</name>
+		<name normalized="Niger" languages="Silesian">Ńiger</name>
+		<name normalized="Νιγηρας" languages="Greek">Νίγηρας</name>
+		<name normalized="Нigiр" languages="Bashkir;Bulgarian;Chechen;Hill Mari;Kazakh;Macedonian;Mongolian;Ossetic;Russian;Sakha;Serbian;buрiad">Нигер</name>
+		<name normalized="Нigiрмudiн Oрн" languages="Kalmyk">Нигермудин Орн</name>
+		<name normalized="Нiciр" languages="Tajik">Ниҷер</name>
+		<name normalized="Нigiр" languages="Belarusian;Ukrainian;biлaрuсkai (taрaskivita)‎">Нігер</name>
+		<name normalized="Нiґiр" languages="Rusyn">Ніґер</name>
+		<name normalized="Նիգեr" languages="Armenian">Նիգեր</name>
+		<name normalized="nיז'r" languages="Hebrew">ניז'ר</name>
+		<name normalized="nיזשעr" languages="Yiddish">ניזשער</name>
+		<name normalized="אلنyjr" languages="Arabic">النيجر</name>
+		<name normalized="نאئjr" languages="Urdu;Western Punjabi">نائجر</name>
+		<name normalized="نאیjېr" languages="Pashto">نایجېر</name>
+		<name normalized="نىgېr" languages="Uyghur">نىگېر</name>
+		<name normalized="نyjr" languages="Egyptian Spoken Arabic">نيجر</name>
+		<name normalized="نیjr" languages="Persian">نیجر</name>
+		<name normalized="نیjەr" languages="Sorani Kurdish">نیجەر</name>
+		<name normalized="ܢܝܓܪ" languages="Aramaic">ܢܝܓܪ</name>
+		<name normalized="ނީޖަރު" languages="Divehi">ނީޖަރު</name>
+		<name normalized="nाijr" languages="Hindi">नाइजर</name>
+		<name normalized="nाyjr" languages="Marathi">नायजर</name>
+		<name normalized="nije" languages="Sanskrit">नीजे</name>
+		<name normalized="nাijাr" languages="Bengali">নাইজার</name>
+		<name normalized="nাijer" languages="Bishnupria Manipuri">নাইজের</name>
+		<name normalized="nਾijr" languages="Punjabi">ਨਾਈਜਰ</name>
+		<name normalized="nાijr" languages="Gujarati">નાઈજર</name>
+		<name normalized="ନାଇଜର" languages="Oriya">ନାଇଜର</name>
+		<name normalized="நைஜர்" languages="Tamil">நைஜர்</name>
+		<name normalized="నైజర్" languages="Telugu">నైజర్</name>
+		<name normalized="നീഷർ" languages="Malayalam">നീഷർ</name>
+		<name normalized="නයිජර්" languages="Sinhala">නයිජර්</name>
+		<name normalized="ประเทศไนเจอร์" languages="Thai">ประเทศไนเจอร์</name>
+		<name normalized="ནི་ཇར།" languages="Tibetan">ནི་ཇར།</name>
+		<name normalized="နိုင်ဂျာနိုင်ငံ" languages="Burmese">နိုင်ဂျာနိုင်ငံ</name>
+		<name normalized="ნიგერი" languages="Georgian">ნიგერი</name>
+		<name normalized="ኒጄር" languages="Amharic">ኒጄር</name>
+		<name normalized="ናይጀር" languages="Tigrinya">ናይጀር</name>
+		<name normalized="nzeーr" languages="Japanese">ニジェール</name>
+		<name normalized="尼日尔" languages="Chinese">尼日尔</name>
+		<name normalized="尼日爾" languages="Cantonese">尼日爾</name>
+		<name normalized="니제르" languages="Korean">니제르</name>
+	</region>
+	<region name="Ogun" type="state" typeTranslated="state">
+		<name normalized="Estado de Ogun" languages="Galician">Estado de Ogun</name>
+		<name normalized="Jimbo la Ogun" languages="Swahili">Jimbo la Ogun</name>
+		<name normalized="Ogun" languages="Catalan;Danish;Dutch;English;Finnish;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish">Ogun</name>
+		<name normalized="Ogun State" languages="English">Ogun State</name>
+		<name normalized="Oguni osariik" languages="Estonian">Oguni osariik</name>
+		<name normalized="Statul Ogun" languages="Romanian">Statul Ogun</name>
+		<name normalized="Etat d'Ogun" languages="French">État d'Ogun</name>
+		<name normalized="Ipinle` Ogun" languages="Yoruba">Ìpínlẹ̀ Ògùn</name>
+		<name normalized="Oguн" languages="Bulgarian;Hill Mari;Russian">Огун</name>
+		<name normalized="ogn州" languages="Japanese">オグン州</name>
+		<name normalized="奥贡州" languages="Chinese">奥贡州</name>
+		<name normalized="오군 주" languages="Korean">오군 주</name>
+	</region>
+	<region name="Ondo" type="state" typeTranslated="state">
+		<name normalized="Ondo" languages="Dutch;English;German;Italian;official;Portuguese;Spanish">Ondo</name>
+	</region>
+	<region name="Osun" type="state" typeTranslated="state">
+		<name normalized="Oshun" languages="English;French;German;Italian;Norwegian (bokmal);Spanish;Swedish">Oshun</name>
+		<name normalized="Osun" languages="English;official">Osun</name>
+		<name normalized="Oszun" languages="Polish">Oszun</name>
+		<name normalized="Oxum" languages="Portuguese">Oxum</name>
+		<name normalized="Osuн" languages="Russian">Ошун</name>
+	</region>
+	<region name="Oyo" type="state" typeTranslated="state">
+		<name normalized="Oyo" languages="Dutch;English;Esperanto;French;German;Italian;official;Polish;Portuguese;Romanian;Swedish;Waray">Oyo</name>
+		<name normalized="Oйo" languages="Russian;Ukrainian">Ойо</name>
+		<name normalized="O`yo´" languages="Yoruba">Ọ̀yọ́</name>
+		<name normalized="oy" languages="Japanese">オヨ</name>
+		<name normalized="奥约" languages="Chinese">奥约</name>
+	</region>
+	<region name="Plateau" type="state" typeTranslated="state">
+		<name normalized="Alta planities" languages="Latin">Alta planities</name>
+		<name normalized="Altebenajo" languages="Esperanto">Altebenaĵo</name>
+		<name normalized="Altipian" languages="lumbaart">Altipian</name>
+		<name normalized="Altipla" languages="Catalan">Altiplà</name>
+		<name normalized="Altopiano" languages="Italian">Altopiano</name>
+		<name normalized="Cao nguyen" languages="Vietnamese">Cao nguyên</name>
+		<name normalized="Dataran tinggi" languages="Indonesian;Malay">Dataran tinggi</name>
+		<name normalized="Duvurwi" languages="Shona">Duvurwi</name>
+		<name normalized="Fennsik" languages="Hungarian">Fennsík</name>
+		<name normalized="Goi-ordoki" languages="Basque">Goi-ordoki</name>
+		<name normalized="Hochebene" languages="German">Hochebene</name>
+		<name normalized="Hoydedrag" languages="Norwegian (bokmal)">Høydedrag</name>
+		<name normalized="Koan-phian" languages="Chinese (Min Nan)">Koân-phiâⁿ</name>
+		<name normalized="Lavamaa" languages="Estonian">Lavamaa</name>
+		<name normalized="Meseta" languages="Galician;Spanish">Meseta</name>
+		<name normalized="Nahorna rovina" languages="Slovak">Náhorná rovina</name>
+		<name normalized="Nahorni plosina" languages="Czech">Náhorní plošina</name>
+		<name normalized="Plakankalne" languages="Latvian">Plakankalne</name>
+		<name normalized="Planalto" languages="Portuguese">Planalto</name>
+		<name normalized="Planota" languages="Slovenian">Planota</name>
+		<name normalized="Plateau" languages="Danish;Dutch;English;French;official;Simple English">Plateau</name>
+		<name normalized="Plata" languages="Norwegian Nynorsk;Swedish">Platå</name>
+		<name normalized="Pllaja" languages="Albanian">Pllaja</name>
+		<name normalized="Plynaukste" languages="Lithuanian">Plynaukštė</name>
+		<name normalized="Podis" languages="Romanian">Podiș</name>
+		<name normalized="Plaskowyz" languages="Polish">Płaskowyż</name>
+		<name normalized="Rejyon montaye" languages="Haitian">Rejyon montaye</name>
+		<name normalized="Talampas" languages="Tagalog">Talampas</name>
+		<name normalized="Uhelgompezenn" languages="Breton">Uhelgompezenn</name>
+		<name normalized="Umpas" languages="Waray">Umpás</name>
+		<name normalized="Visoravan" languages="Croatian;Serbo-Croatian">Visoravan</name>
+		<name normalized="Yayla" languages="Turkish">Yayla</name>
+		<name normalized="Yaylaq" languages="Azerbaijani">Yaylaq</name>
+		<name normalized="Ylanko" languages="Finnish">Ylänkö</name>
+		<name normalized="Zaravan" languages="Bosnian">Zaravan</name>
+		<name normalized="Ard-thir" languages="Scottish Gaelic">Àrd-thìr</name>
+		<name normalized="Οροπeδιο" languages="Greek">Οροπέδιο</name>
+		<name normalized="Viсija" languages="Serbian">Висија</name>
+		<name normalized="Viсoрaмнiнa" languages="Macedonian">Висорамнина</name>
+		<name normalized="Pлato" languages="Belarusian;Bulgarian;Russian;Ukrainian">Плато</name>
+		<name normalized="Pлito" languages="biлaрuсkai (taрaskivita)‎">Плято</name>
+		<name normalized="Сaрtлak" languages="Chuvash">Сăртлăх</name>
+		<name normalized="Bաrjrավանdաk" languages="Armenian">Բարձրավանդակ</name>
+		<name normalized="pדאtא" languages="Yiddish">פלאטא</name>
+		<name normalized="rמh" languages="Hebrew">רמה</name>
+		<name normalized="سth mrtfع" languages="Urdu">سطح مرتفع</name>
+		<name normalized="fلאt" languages="Persian">فلات</name>
+		<name normalized="hdbة" languages="Arabic">هضبة</name>
+		<name normalized="pठाr" languages="Hindi;Marathi">पठार</name>
+		<name normalized="plাnাl্টo" languages="Bishnupria Manipuri">পলানাল্টো</name>
+		<name normalized="பீடபூமி" languages="Tamil">பீடபூமி</name>
+		<name normalized="పీఠభూమి" languages="Telugu">పీఠభూమి</name>
+		<name normalized="პლატო" languages="Georgian;Mingrelian">პლატო</name>
+		<name normalized="台地" languages="Japanese">台地</name>
+		<name normalized="高原" languages="Chinese">高原</name>
+		<name normalized="고원" languages="Korean">고원</name>
+	</region>
+	<region name="Rivers" type="state" typeTranslated="state">
+		<name normalized="Abhainn" languages="Irish;Scottish Gaelic">Abhainn</name>
+		<name normalized="Afon" languages="Welsh">Afon</name>
+		<name normalized="Awin" languages="Manx">Awin</name>
+		<name normalized="Ciumi" languages="Sicilian">Ciumi</name>
+		<name normalized="Daryo" languages="Uzbek">Daryo</name>
+		<name normalized="Derya" languages="Turkmen">Derýa</name>
+		<name normalized="Dex" languages="Wolof">Dex</name>
+		<name normalized="Ekaw" languages="Nauru">Ekaw</name>
+		<name normalized="Elv" languages="Norwegian (bokmal);Norwegian Nynorsk">Elv</name>
+		<name normalized="Fiume" languages="Italian;veneto">Fiume</name>
+		<name normalized="Fiomm" languages="Emiliano-Romagnolo">Fiòmm</name>
+		<name normalized="Fium" languages="lumbaart">Fiüm</name>
+		<name normalized="Flod" languages="Danish;Swedish">Flod</name>
+		<name normalized="Floss" languages="Luxembourgish">Floss</name>
+		<name normalized="Flum" languages="Friulian;Romansh">Flum</name>
+		<name normalized="Flumen" languages="Latin">Flumen</name>
+		<name normalized="Fluss" languages="Bavarian;German">Fluss</name>
+		<name normalized="Fluvio" languages="Interlingua">Fluvio</name>
+		<name normalized="Folyo" languages="Hungarian">Folyó</name>
+		<name normalized="Ho" languages="Chinese (Min Nan)">Hô</name>
+		<name normalized="Ibai" languages="Basque">Ibai</name>
+		<name normalized="Ilog" languages="Tagalog">Ilog</name>
+		<name normalized="Jawira" languages="Aymara">Jawira</name>
+		<name normalized="Joki" languages="Finnish">Joki</name>
+		<name normalized="Jume" languages="tarandine">Jume</name>
+		<name normalized="Jogi" languages="Estonian;Voro">Jõgi</name>
+		<name normalized="Kali" languages="Javanese">Kali</name>
+		<name normalized="Karayan" languages="Iloko">Karayan</name>
+		<name normalized="Krueng" languages="Achinese">Kruëng</name>
+		<name normalized="Kuuk" languages="Inupiaq">Kuuk</name>
+		<name normalized="Lumi" languages="Albanian">Lumi</name>
+		<name normalized="Mayu" languages="Quechua">Mayu</name>
+		<name normalized="Motima" languages="Lingala">Motíma</name>
+		<name normalized="Mto" languages="Swahili">Mto</name>
+		<name normalized="Mubu" languages="Kongo">Mubu</name>
+		<name normalized="Naddi" languages="Fiji Hindi">Naddi</name>
+		<name normalized="Nehir" languages="Turkish">Nehir</name>
+		<name normalized="Odo" languages="Yoruba">Odò</name>
+		<name normalized="Ope" languages="Samogitian">Opė</name>
+		<name normalized="Reka" languages="Slovenian">Reka</name>
+		<name normalized="Renirano" languages="Malagasy">Renirano</name>
+		<name normalized="Reveer" languages="Limburgish">Reveer</name>
+		<name normalized="Revier" languages="Low Saxon (Netherlands)">Revier</name>
+		<name normalized="Rewwer" languages="Deitsch">Rewwer</name>
+		<name normalized="Rieka" languages="Slovak">Rieka</name>
+		<name normalized="Rijeka" languages="Bosnian;Croatian;Serbo-Croatian">Rijeka</name>
+		<name normalized="Rio" languages="Portuguese">Rio</name>
+		<name normalized="rirxe" languages="Lojban">rirxe</name>
+		<name normalized="Riu" languages="Catalan;Mirandese;Occitan;Papiamento">Riu</name>
+		<name normalized="River" languages="English;Scots;Simple English">River</name>
+		<name normalized="Rivero" languages="Esperanto;Ido">Rivero</name>
+		<name normalized="Rivers" languages="English;official">Rivers</name>
+		<name normalized="Rivier" languages="Afrikaans;Dutch;Western Frisian">Rivier</name>
+		<name normalized="Riviere" languages="French">Rivière</name>
+		<name normalized="Riviethe" languages="Nouormand">Riviéthe</name>
+		<name normalized="Rivye" languages="Haitian">Rivyè</name>
+		<name normalized="Rwizi" languages="Shona">Rwizi</name>
+		<name normalized="Rzeka" languages="Polish">Rzeka</name>
+		<name normalized="Rzyka" languages="Silesian">Rzyka</name>
+		<name normalized="Rau" languages="Romanian">Râu</name>
+		<name normalized="Rio" languages="Aragonese;Galician;Spanish">Río</name>
+		<name normalized="Riu" languages="Asturian;Extremaduran">Ríu</name>
+		<name normalized="Reka" languages="Upper Sorbian">Rěka</name>
+		<name normalized="Salog" languages="Waray">Salog</name>
+		<name normalized="Sciummo" languages="Neapolitan">Sciummo</name>
+		<name normalized="Stroom" languages="Low German">Stroom</name>
+		<name normalized="Struum" languages="Northern Frisian">Struum</name>
+		<name normalized="Ster" languages="Breton">Stêr</name>
+		<name normalized="Sungai" languages="Banjar;Indonesian;Malay;Minangkabau">Sungai</name>
+		<name normalized="Song" languages="Vietnamese">Sông</name>
+		<name normalized="Umfula" languages="Zulu">Umfula</name>
+		<name normalized="Upe" languages="Latvian">Upe</name>
+		<name normalized="Upe" languages="Lithuanian">Upė</name>
+		<name normalized="Uruzi" languages="Kinyarwanda">Uruzi</name>
+		<name normalized="Walungan" languages="Sundanese">Walungan</name>
+		<name normalized="Webiyada" languages="Somali">Webiyada</name>
+		<name normalized="Ysyry" languages="Guarani">Ysyry</name>
+		<name normalized="A" languages="Icelandic">Á</name>
+		<name normalized="Ai" languages="Seeltersk">Äi</name>
+		<name normalized="Cay" languages="Azerbaijani">Çay</name>
+		<name normalized="Cem" languages="Kurdish">Çem</name>
+		<name normalized="O'he'e" languages="Cheyenne">Ó'he'e</name>
+		<name normalized="Atoyatl" languages="Nahuatl">Ātōyātl</name>
+		<name normalized="Reka" languages="Czech">Řeka</name>
+		<name normalized="Ποταμος" languages="Greek">Ποταμός</name>
+		<name normalized="VatI" languages="Lezghian">ВацI</name>
+		<name normalized="Goл мɵрɵн" languages="Mongolian">Гол мөрөн</name>
+		<name normalized="Daрё" languages="Tajik">Дарё</name>
+		<name normalized="Iлga" languages="Tatar">Елга</name>
+		<name normalized="Йылғa" languages="Bashkir">Йылға</name>
+		<name normalized="Лiй" languages="Erzya">Лей</name>
+		<name normalized="Рaka" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Рака</name>
+		<name normalized="Рika" languages="Bulgarian;Macedonian;Russian;Serbian">Река</name>
+		<name normalized="Рika" languages="Rusyn">Ріка</name>
+		<name normalized="Рicka" languages="Ukrainian">Річка</name>
+		<name normalized="Сuu" languages="Karachay-Balkar">Суу</name>
+		<name normalized="Taeugaedoн" languages="Ossetic">Цæугæдон</name>
+		<name normalized="Eniр" languages="Eastern Mari">Эҥер</name>
+		<name normalized="Ю" languages="Komi">Ю</name>
+		<name normalized="Юkaн sыv" languages="Chuvash">Юхан шыв</name>
+		<name normalized="Өziн" languages="Kazakh">Өзен</name>
+		<name normalized="Өрүс" languages="Sakha">Өрүс</name>
+		<name normalized="Գեt" languages="Armenian">Գետ</name>
+		<name normalized="tייד" languages="Yiddish">טייך</name>
+		<name normalized="nhr" languages="Hebrew">נהר</name>
+		<name normalized="دrیא" languages="Urdu;Western Punjabi">دریا</name>
+		<name normalized="rود" languages="Persian">رود</name>
+		<name normalized="نhr" languages="Arabic;Egyptian Spoken Arabic">نهر</name>
+		<name normalized="ڕووbאr" languages="Sorani Kurdish">ڕووبار</name>
+		<name normalized="ܢܗܪܐ" languages="Aramaic">ܢܗܪܐ</name>
+		<name normalized="aऱu" languages="Newari">आऱु</name>
+		<name normalized="ndi" languages="Hindi;Marathi;Nepali;Sanskrit">नदी</name>
+		<name normalized="ndi" languages="Assamese;Bengali">নদী</name>
+		<name normalized="dria" languages="Punjabi">ਦਰਿਆ</name>
+		<name normalized="ஆறு" languages="Tamil">ஆறு</name>
+		<name normalized="నది" languages="Telugu">నది</name>
+		<name normalized="ನದಿ" languages="Kannada">ನದಿ</name>
+		<name normalized="നദി" languages="Malayalam">നദി</name>
+		<name normalized="ගඟ" languages="Sinhala">ගඟ</name>
+		<name normalized="แม่น้ำ" languages="Thai">แม่น้ำ</name>
+		<name normalized="ཆུ་རྒྱུན།" languages="Tibetan">ཆུ་རྒྱུན།</name>
+		<name normalized="မြစ်" languages="Burmese">မြစ်</name>
+		<name normalized="მდინარე" languages="Georgian">მდინარე</name>
+		<name normalized="წყარმალუ" languages="Mingrelian">წყარმალუ</name>
+		<name normalized="ወንዝ" languages="Amharic">ወንዝ</name>
+		<name normalized="ᎤᏪᏴ" languages="Cherokee">ᎤᏪᏴ</name>
+		<name normalized="ᑰᒃ" languages="Inuktitut">ᑰᒃ</name>
+		<name normalized="川" languages="Japanese">川</name>
+		<name normalized="江" languages="Gan">江</name>
+		<name normalized="河" languages="Cantonese">河</name>
+		<name normalized="河流" languages="Chinese">河流</name>
+		<name normalized="강" languages="Korean">강</name>
+	</region>
+	<region name="Sokoto" type="state" typeTranslated="state">
+		<name normalized="Sokoto" languages="Asturian;Catalan;Croatian;Danish;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Italian;official;Polish;Portuguese;Romanian;Simple English;Spanish;Swedish;Turkish">Sokoto</name>
+		<name normalized="Sokoto stad" languages="Afrikaans">Sokoto stad</name>
+		<name normalized="Sokoto" languages="Yoruba">Sókótó</name>
+		<name normalized="Сokoto" languages="Macedonian;Russian">Сокото</name>
+		<name normalized="სოკოტო" languages="Georgian">სოკოტო</name>
+		<name normalized="skt" languages="Japanese">ソコト</name>
+		<name normalized="索科托" languages="Chinese">索科托</name>
+		<name normalized="소코토" languages="Korean">소코토</name>
+	</region>
+	<region name="Taraba" type="state" typeTranslated="state">
+		<name normalized="Taraba" languages="Breton;Dutch;English;official;Polish">Taraba</name>
+	</region>
+	<region name="Yobe" type="state" typeTranslated="state">
+		<name normalized="Jimbo la Yobe" languages="Swahili">Jimbo la Yobe</name>
+		<name normalized="Statul Yobe" languages="Romanian">Statul Yobe</name>
+		<name normalized="Ybe" languages="Hausa">Ybe</name>
+		<name normalized="Yobe" languages="Danish;Dutch;English;Estonian;Finnish;Galician;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish">Yobe</name>
+		<name normalized="Yobe Eyaleti" languages="Turkish">Yobe Eyaleti</name>
+		<name normalized="Yobe State" languages="English">Yobe State</name>
+		<name normalized="Etat de Yobe" languages="French">État de Yobe</name>
+		<name normalized="Ipinle` Yobe" languages="Yoruba">Ìpínlẹ̀ Yòbè</name>
+		<name normalized="Йobi" languages="Bulgarian;Hill Mari;Russian">Йобе</name>
+		<name normalized="yb州" languages="Japanese">ヨベ州</name>
+		<name normalized="约贝州" languages="Chinese">约贝州</name>
+		<name normalized="요베 주" languages="Korean">요베 주</name>
+	</region>
+	<region name="Zamfara" type="state" typeTranslated="state">
+		<name normalized="Jimbo la Zamfara" languages="Swahili">Jimbo la Zamfara</name>
+		<name normalized="Statul Zamfara" languages="Romanian">Statul Zamfara</name>
+		<name normalized="Zamfara" languages="Danish;Dutch;English;Finnish;Galician;German;Hausa;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish">Zamfara</name>
+		<name normalized="Zamfara Eyaleti" languages="Turkish">Zamfara Eyaleti</name>
+		<name normalized="Zamfara osariik" languages="Estonian">Zamfara osariik</name>
+		<name normalized="Zamfara State" languages="English">Zamfara State</name>
+		<name normalized="Etat de Zamfara" languages="French">État de Zamfara</name>
+		<name normalized="Ipinle` Zamfara" languages="Yoruba">Ìpínlẹ̀ Zamfara</name>
+		<name normalized="Zaмфaрa" languages="Bulgarian;Hill Mari;Russian">Замфара</name>
+		<name normalized="زmfrة" languages="Arabic">زمفرة</name>
+		<name normalized="zmhar州" languages="Japanese">ザムファラ州</name>
+		<name normalized="扎姆法拉州" languages="Chinese">扎姆法拉州</name>
+		<name normalized="잠파라 주" languages="Korean">잠파라 주</name>
+	</region>
+</regions>

@@ -1,0 +1,163 @@
+<regions country="Trinidad and Tobago">
+	<region name="Arima" type="borough" typeTranslated="borough">
+		<name normalized="Arima" languages="Dutch;English;French;Galician;German;Italian;Lithuanian;official;Polish;Spanish;Swedish">Arima</name>
+		<name normalized="Arima Borough" languages="English;official">Arima Borough</name>
+		<name normalized="آrیmא" languages="Persian">آریما</name>
+		<name normalized="არიმა" languages="Georgian">არიმა</name>
+		<name normalized="아리마" languages="Korean">아리마</name>
+	</region>
+	<region name="Chaguanas" type="borough" typeTranslated="borough">
+		<name normalized="Chaguanas" languages="Catalan;Dutch;English;Finnish;French;Italian;official;Polish;Portuguese;Scottish Gaelic;Spanish;Vietnamese">Chaguanas</name>
+		<name normalized="Chaguanas Borough" languages="English;official">Chaguanas Borough</name>
+		<name normalized="Caquanas" languages="Azerbaijani">Çaquanas</name>
+		<name normalized="Caguanasas" languages="Lithuanian">Čaguanasas</name>
+		<name normalized="Goрad Caguaнaс" languages="Belarusian">Горад Чагуанас</name>
+		<name normalized="Caguaнaс" languages="Russian;Ukrainian">Чагуанас</name>
+		<name normalized="چאgوאنאس" languages="Persian">چاگواناس</name>
+		<name normalized="cgvाns" languages="Hindi">चगवानस</name>
+		<name normalized="ჩაგუანასი" languages="Georgian">ჩაგუანასი</name>
+	</region>
+	<region name="Couva/Tabaquite/Talparo" type="region" typeTranslated="region">
+		<name normalized="Couva" languages="Dutch;English;official;Polish">Couva</name>
+		<name normalized="Couva Region" languages="English;official">Couva Region</name>
+		<name normalized="Couva/Tabaquite/Talparo" languages="English;official">Couva/Tabaquite/Talparo</name>
+		<name normalized="Couva/Tabaquite/Talparo Region" languages="English;official">Couva/Tabaquite/Talparo Region</name>
+		<name normalized="Tabaquite" languages="English;official;Polish">Tabaquite</name>
+		<name normalized="Tabaquite Region" languages="English;official">Tabaquite Region</name>
+		<name normalized="Talparo" languages="English;official">Talparo</name>
+		<name normalized="Talparo Region" languages="English;official">Talparo Region</name>
+		<name normalized="tאbאکیth" languages="Persian">تاباکیته</name>
+		<name normalized="کووא" languages="Persian">کووا</name>
+	</region>
+	<region name="Diego Martin" type="region" typeTranslated="region">
+		<name normalized="Diego Martin" languages="English;French;German;official">Diego Martin</name>
+		<name normalized="Diego Martin Region" languages="English;official">Diego Martin Region</name>
+	</region>
+	<region name="Mayaro/Rio Claro" type="region" typeTranslated="region">
+		<name normalized="Mayaro" languages="English;official">Mayaro</name>
+		<name normalized="Mayaro County" languages="English">Mayaro County</name>
+		<name normalized="Mayaro Region" languages="English;official">Mayaro Region</name>
+		<name normalized="Mayaro/Rio Claro" languages="English;official">Mayaro/Rio Claro</name>
+		<name normalized="Mayaro/Rio Claro Region" languages="English;official">Mayaro/Rio Claro Region</name>
+		<name normalized="Rio Claro" languages="Dutch;English;official">Rio Claro</name>
+		<name normalized="Rio Claro Region" languages="English;official">Rio Claro Region</name>
+	</region>
+	<region name="Penal/Debe" type="region" typeTranslated="region">
+		<name normalized="Debe" languages="English;official">Debe</name>
+		<name normalized="Debe Region" languages="English;official">Debe Region</name>
+		<name normalized="Penal" languages="Dutch;English;official;Polish">Penal</name>
+		<name normalized="Penal Region" languages="English;official">Penal Region</name>
+		<name normalized="Penal/Debe" languages="English;official">Penal/Debe</name>
+		<name normalized="Penal/Debe Region" languages="English;official">Penal/Debe Region</name>
+		<name normalized="دbh" languages="Persian">دبه</name>
+	</region>
+	<region name="Point Fortin" type="borough" typeTranslated="borough">
+		<name normalized="Point Fortin" languages="Dutch;English;French;German;Italian;official;Spanish">Point Fortin</name>
+		<name normalized="Point Fortin Borough" languages="English;official">Point Fortin Borough</name>
+		<name normalized="Point Fortinas" languages="Lithuanian">Point Fortinas</name>
+		<name normalized="Point Fortin" languages="Polish">Point Fortín</name>
+		<name normalized="pوینt fوrtین" languages="Persian">پوینت فورتین</name>
+		<name normalized="პოინტ-ფორტინი" languages="Georgian">პოინტ-ფორტინი</name>
+	</region>
+	<region name="Port of Spain" type="city" typeTranslated="city">
+		<name normalized="Port of Spain" languages="Afrikaans;Bosnian;Breton;Cornish;Czech;Dutch;English;Estonian;Fiji Hindi;Finnish;Galician;German;Hungarian;Icelandic;Indonesian;Italian;lumbaart;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Piedmontese;Polish;Portuguese;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Slovak;Swedish;Turkish;Vietnamese;Volapuk;Waray;Welsh;Western Frisian;Yoruba">Port of Spain</name>
+		<name normalized="Port of Spein" languages="Azerbaijani">Port of Spein</name>
+		<name normalized="Port of Speinas" languages="Lithuanian">Port of Speinas</name>
+		<name normalized="Port-d'Espagne" languages="French">Port-d'Espagne</name>
+		<name normalized="Port-of-Spain" languages="Basque;Catalan;Chinese (Min Nan);Croatian;Danish;Ido">Port-of-Spain</name>
+		<name normalized="Portofspeina" languages="Latvian">Portofspeina</name>
+		<name normalized="Portospeno" languages="Esperanto">Portospeno</name>
+		<name normalized="Portu de Spania" languages="Novial">Portu de Spania</name>
+		<name normalized="Puerto Espana" languages="Spanish">Puerto España</name>
+		<name normalized="Puwerto Espanya" languages="Tagalog">Puwerto Espanya</name>
+		<name normalized="Po of Espay" languages="Haitian">Pò of Espay</name>
+		<name normalized="Acalquixohuayan Caxtillan" languages="Nahuatl">Ācalquīxōhuayān Caxtillān</name>
+		<name normalized="Πορτ-οφ-Σπeιν" languages="Greek">Πορτ-οφ-Σπέιν</name>
+		<name normalized="Goрad Poрt-oф-Сpiйн" languages="Belarusian">Горад Порт-оф-Спейн</name>
+		<name normalized="Poрt ov Сpijн" languages="Serbian">Порт ов Спејн</name>
+		<name normalized="Poрt oф Сpiйн" languages="Sakha">Порт оф Спейн</name>
+		<name normalized="Poрt oф Сpijн" languages="Macedonian">Порт оф Спејн</name>
+		<name normalized="Poрt ъф Сpiйн" languages="Bulgarian">Порт ъф Спейн</name>
+		<name normalized="Poрt-oф-Сpiйн" languages="Ossetic;Russian;Ukrainian">Порт-оф-Спейн</name>
+		<name normalized="Poрt-oф-Сpeйн" languages="biлaрuсkai (taрaskivita)‎">Порт-оф-Спэйн</name>
+		<name normalized="pvrt אvף סpיין" languages="Hebrew">פורט אוף ספיין</name>
+		<name normalized="bوrt أوf سbyن" languages="Arabic">بورت أوف سبين</name>
+		<name normalized="prt آو אسpאین" languages="Persian">پرت آو اسپاین</name>
+		<name normalized="pوrٹ آf אسpین" languages="Urdu">پورٹ آف اسپین</name>
+		<name normalized="por्ट op s्pen" languages="Hindi;Marathi">पोर्ट ऑफ स्पेन</name>
+		<name normalized="por্ট ap s্pen" languages="Bengali">পোর্ট অফ স্পেন</name>
+		<name normalized="pੋrਟ ap਼ spੇn" languages="Punjabi">ਪੋਰਟ ਆਫ਼ ਸਪੇਨ</name>
+		<name normalized="พอร์ต-ออฟ-สเปน" languages="Thai">พอร์ต-ออฟ-สเปน</name>
+		<name normalized="པོ་རོ་ཊི་ཨོཕ་སི་པེ་ན།" languages="Tibetan">པོ་རོ་ཊི་ཨོཕ་སི་པེ་ན།</name>
+		<name normalized="პორტ-ოვ-სპეინი" languages="Georgian">პორტ-ოვ-სპეინი</name>
+		<name normalized="ፖርት ኦፍ ስፔን" languages="Amharic">ፖርት ኦፍ ስፔን</name>
+		<name normalized="pーtobspin" languages="Japanese">ポートオブスペイン</name>
+		<name normalized="西班牙港" languages="Chinese">西班牙港</name>
+		<name normalized="포트오브스페인" languages="Korean">포트오브스페인</name>
+	</region>
+	<region name="Princes Town" type="region" typeTranslated="region">
+		<name normalized="Princes Town" languages="Dutch;English;German;official;Polish">Princes Town</name>
+		<name normalized="Princes Town Region" languages="English;official">Princes Town Region</name>
+		<name normalized="prنسس tאون" languages="Persian">پرنسس تاون</name>
+	</region>
+	<region name="San Fernando" type="city" typeTranslated="city">
+		<name normalized="San Fernandas" languages="Lithuanian">San Fernandas</name>
+		<name normalized="San Fernando" languages="Dutch;English;French;German;Italian;official;Polish;Spanish;Swedish;Vietnamese;Yoruba">San Fernando</name>
+		<name normalized="Vistabella" languages="Waray">Vistabella</name>
+		<name normalized="Goрad Сaн-Фiрнaнda" languages="Belarusian">Горад Сан-Фернанда</name>
+		<name normalized="Сaн-Фiрнaнdo" languages="Russian">Сан-Фернандо</name>
+		<name normalized="سאن frنאندو" languages="Persian">سان فرناندو</name>
+		<name normalized="snhernnd" languages="Japanese">サンフェルナンド</name>
+	</region>
+	<region name="San Juan/Laventille" type="region" typeTranslated="region">
+		<name normalized="Laventille" languages="English;official">Laventille</name>
+		<name normalized="Laventille Region" languages="English;official">Laventille Region</name>
+		<name normalized="San Chuanas" languages="Lithuanian">San Chuanas</name>
+		<name normalized="San Juan" languages="English;official;Polish">San Juan</name>
+		<name normalized="San Juan Region" languages="English;official">San Juan Region</name>
+		<name normalized="San Juan/Laventille" languages="English;official">San Juan/Laventille</name>
+		<name normalized="San Juan/Laventille Region" languages="English;official">San Juan/Laventille Region</name>
+		<name normalized="Сaн-Kuaн" languages="Russian">Сан-Хуан</name>
+		<name normalized="سن خوآن, trینیدאد و tوbאgو" languages="Persian">سن خوآن، ترینیداد و توباگو</name>
+		<name normalized="لאونtویل" languages="Persian">لاونتویل</name>
+	</region>
+	<region name="Sangre Grande" type="region" typeTranslated="region">
+		<name normalized="Sangre Grande" languages="Dutch;English;official;Polish">Sangre Grande</name>
+		<name normalized="Sangre Grande Region" languages="English;official">Sangre Grande Region</name>
+		<name normalized="Sangre Grande" languages="Lithuanian">Sangre Grandė</name>
+		<name normalized="سאنgrh grאندh" languages="Persian">سانگره گرانده</name>
+	</region>
+	<region name="Siparia" type="region" typeTranslated="region">
+		<name normalized="Siparia" languages="Dutch;English;Estonian;official;Polish">Siparia</name>
+		<name normalized="Siparia Region" languages="English;official">Siparia Region</name>
+		<name normalized="Siparija" languages="Lithuanian">Siparija</name>
+		<name normalized="سیpאrیא" languages="Persian">سیپاریا</name>
+	</region>
+	<region name="Tobago" type="ward" typeTranslated="ward">
+		<name normalized="Tabacum" languages="Latin">Tabacum</name>
+		<name normalized="Tobagas" languages="Lithuanian">Tobagas</name>
+		<name normalized="Tobago" languages="Basque;Catalan;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Hungarian;Indonesian;Italian;Kurdish;Malay;Norwegian (bokmal);Occitan;official;Polish;Portuguese;Romanian;Scottish Gaelic;Simple English;Spanish;Swedish;Turkish;Vietnamese;Welsh">Tobago</name>
+		<name normalized="Tobago Ward" languages="English;official">Tobago Ward</name>
+		<name normalized="Tobago" languages="Latvian">Tobāgo</name>
+		<name normalized="Tobago" languages="Yoruba">Tòbágò</name>
+		<name normalized="Τομπαγκο" languages="Greek">Τομπάγκο</name>
+		<name normalized="Voсtрaў Tabaga" languages="Belarusian">Востраў Табага</name>
+		<name normalized="Tobago" languages="Russian;Ukrainian">Тобаго</name>
+		<name normalized="tvbגv" languages="Hebrew">טובגו</name>
+		<name normalized="tوbאغو" languages="Arabic">توباغو</name>
+		<name normalized="ტობაგო" languages="Georgian">ტობაგო</name>
+		<name normalized="tbg島" languages="Japanese">トバゴ島</name>
+		<name normalized="多巴哥岛" languages="Chinese">多巴哥岛</name>
+		<name normalized="托巴哥島" languages="Cantonese">托巴哥島</name>
+		<name normalized="토바고 섬" languages="Korean">토바고 섬</name>
+	</region>
+	<region name="Tunapuna/Piarco" type="region" typeTranslated="region">
+		<name normalized="Piarco" languages="English;official">Piarco</name>
+		<name normalized="Piarco Region" languages="English;official">Piarco Region</name>
+		<name normalized="Tunapuna" languages="Dutch;English;German;Italian;Lithuanian;official;Polish">Tunapuna</name>
+		<name normalized="Tunapuna Region" languages="English;official">Tunapuna Region</name>
+		<name normalized="Tunapuna/Piarco" languages="English;official">Tunapuna/Piarco</name>
+		<name normalized="Tunapuna/Piarco Region" languages="English;official">Tunapuna/Piarco Region</name>
+		<name normalized="tونאpونא" languages="Persian">توناپونا</name>
+	</region>
+</regions>

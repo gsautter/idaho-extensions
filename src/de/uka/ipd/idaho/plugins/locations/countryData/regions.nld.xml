@@ -1,0 +1,728 @@
+<regions country="Netherlands">
+	<region name="Drenthe" type="province" typeTranslated="provincie">
+		<name normalized="Drenta" languages="Occitan">Drenta</name>
+		<name normalized="Drente" languages="Latvian;Portuguese;Spanish">Drente</name>
+		<name normalized="Drenthe" languages="Afrikaans;Albanian;Aragonese;Basque;Breton;Catalan;Colognian;Czech;Danish;Dutch;English;Esperanto;Faroese;Finnish;French;Galician;Hungarian;Icelandic;Indonesian;Interlingua;Irish;Italian;Limburgish;Low German;Low Saxon (Netherlands);Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Romanian;Scots;Scottish Gaelic;Seeltersk;Serbo-Croatian;Simple English;Slovak;Somali;Swahili;Swedish;Turkish;Vietnamese;Volapuk;Waray;Welsh;West-Vlams;Zeeuws">Drenthe</name>
+		<name normalized="Drenthe Province" languages="English;official">Drenthe Province</name>
+		<name normalized="Drenthe Provincie" languages="English;official">Drenthe Provincie</name>
+		<name normalized="Drenthe provints" languages="Estonian">Drenthe provints</name>
+		<name normalized="Drenthe pruwinsya" languages="Quechua">Drenthe pruwinsya</name>
+		<name normalized="Drenthia" languages="Latin">Drenthia</name>
+		<name normalized="Drente" languages="Lithuanian">Drentė</name>
+		<name normalized="Drinte" languages="Western Frisian">Drinte</name>
+		<name normalized="Provinz Drenthe" languages="German">Provinz Drenthe</name>
+		<name normalized="Provenz Drenthe" languages="Luxembourgish">Provënz Drenthe</name>
+		<name normalized="Prowins Drenthe" languages="Northern Frisian">Prowins Drenthe</name>
+		<name normalized="Ντρeντε" languages="Greek">Ντρέντε</name>
+		<name normalized="Viлoiti Dрiнti" languages="Tajik">Вилояти Дренте</name>
+		<name normalized="Dрiнti" languages="Bulgarian;Russian;Serbian;Ukrainian">Дренте</name>
+		<name normalized="Dрeнte" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Дрэнтэ</name>
+		<name normalized="Drենtե" languages="Armenian">Դրենթե</name>
+		<name normalized="דrnth" languages="Hebrew">דרנתה</name>
+		<name normalized="دrنth" languages="Persian">درنته</name>
+		<name normalized="دryنth" languages="Arabic;Egyptian Spoken Arabic">درينته</name>
+		<name normalized="ڈrینtھ" languages="Western Punjabi">ڈرینتھ</name>
+		<name normalized="d्reंt" languages="Marathi">द्रेंथ</name>
+		<name normalized="จังหวัดเดรนเทอ" languages="Thai">จังหวัดเดรนเทอ</name>
+		<name normalized="დრენთე" languages="Georgian">დრენთე</name>
+		<name normalized="drnt州" languages="Japanese">ドレンテ州</name>
+		<name normalized="德伦特省" languages="Chinese">德伦特省</name>
+		<name normalized="드렌터 주" languages="Korean">드렌터 주</name>
+	</region>
+	<region name="Flevoland" type="province" typeTranslated="provincie">
+		<name normalized="Flevolaand" languages="Low Saxon (Netherlands)">Flevolaand</name>
+		<name normalized="Flevoland" languages="Afrikaans;Albanian;Aragonese;Basque;Breton;Catalan;Czech;Danish;Dutch;English;Esperanto;Estonian;Faroese;Finnish;French;Galician;Icelandic;Indonesian;Interlingua;Irish;Italian;Javanese;Limburgish;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Polish;Romanian;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Somali;Swahili;Swedish;Turkish;Veps;Vietnamese;Volapuk;Waray;Welsh;West-Vlams;Zeeuws">Flevoland</name>
+		<name normalized="Flevoland Province" languages="English;official">Flevoland Province</name>
+		<name normalized="Flevoland Provincie" languages="English;official">Flevoland Provincie</name>
+		<name normalized="Flevoland pruwinsya" languages="Quechua">Flevoland pruwinsya</name>
+		<name normalized="Flevolanda" languages="Spanish">Flevolanda</name>
+		<name normalized="Flevolandas" languages="Lithuanian">Flevolandas</name>
+		<name normalized="Flevolande" languages="Latvian">Flevolande</name>
+		<name normalized="Flevolandia" languages="Latin">Flevolandia</name>
+		<name normalized="Flevolan" languages="Western Frisian">Flevolân</name>
+		<name normalized="Flevolandia" languages="Portuguese">Flevolândia</name>
+		<name normalized="Provinz Flevoland" languages="German">Provinz Flevoland</name>
+		<name normalized="Provenz Flevoland" languages="Luxembourgish">Provënz Flevoland</name>
+		<name normalized="Prowins Flevolun" languages="Northern Frisian">Prowins Flevolun</name>
+		<name normalized="Φλeβολαντ" languages="Greek">Φλέβολαντ</name>
+		<name normalized="Viлoiti Флivoлaнd" languages="Tajik">Вилояти Флеволанд</name>
+		<name normalized="Флivaлaнd" languages="Belarusian">Флеваланд</name>
+		<name normalized="Флivaлiнd" languages="biлaрuсkai (taрaskivita)‎">Флевалянд</name>
+		<name normalized="Флivoлaнd" languages="Bulgarian;Ossetic;Russian;Serbian;Ukrainian">Флеволанд</name>
+		<name normalized="Flևvlանd" languages="Armenian">Ֆլևոլանդ</name>
+		<name normalized="pדbvדnד" languages="Hebrew">פלבולנד</name>
+		<name normalized="fلyfولאند" languages="Arabic;Egyptian Spoken Arabic">فليفولاند</name>
+		<name normalized="fلیولینڈ" languages="Western Punjabi">فلیولینڈ</name>
+		<name normalized="fلیوولאند" languages="Persian">فلیوولاند</name>
+		<name normalized="p्lev्holांड" languages="Marathi">फ्लेव्होलांड</name>
+		<name normalized="จังหวัดเฟลโวลันด์" languages="Thai">จังหวัดเฟลโวลันด์</name>
+		<name normalized="ფლევოლანდი" languages="Georgian">ფლევოლანდი</name>
+		<name normalized="hrvornt州" languages="Japanese">フレヴォラント州</name>
+		<name normalized="弗莱福兰省" languages="Chinese">弗莱福兰省</name>
+		<name normalized="플레볼란트 주" languages="Korean">플레볼란트 주</name>
+	</region>
+	<region name="Fryslan" type="province" typeTranslated="provincie">
+		<name normalized="Frieslaand" languages="Low Saxon (Netherlands)">Frieslaand</name>
+		<name normalized="Friesland" languages="Afrikaans;Albanian;Dutch;English;Faroese;German;Indonesian;Irish;Javanese;Limburgish;Malay;Norwegian (bokmal);official;Polish;Portuguese;Scots;Serbo-Croatian;Simple English;Somali;Swahili;Swedish;Vietnamese;Volapuk;Waray;West-Vlams;Zeeuws">Friesland</name>
+		<name normalized="Friesland i Nederland" languages="Norwegian Nynorsk">Friesland i Nederland</name>
+		<name normalized="Friesland Province" languages="English;official">Friesland Province</name>
+		<name normalized="Friesland Provincie" languages="English;official">Friesland Provincie</name>
+		<name normalized="Friesland pruwinsya" languages="Quechua">Friesland pruwinsya</name>
+		<name normalized="Friisimaa provints" languages="Estonian">Friisimaa provints</name>
+		<name normalized="Friisinmaa" languages="Finnish">Friisinmaa</name>
+		<name normalized="Frisa" languages="Occitan">Frisa</name>
+		<name normalized="Frise" languages="Breton;French">Frise</name>
+		<name normalized="Frisia" languages="Aragonese;Basque;Galician;Interlingua;Italian;Latin;Spanish">Frisia</name>
+		<name normalized="Frisland" languages="Danish">Frisland</name>
+		<name normalized="Frislanda" languages="Romanian">Frislanda</name>
+		<name normalized="Frislando" languages="Esperanto">Frislando</name>
+		<name normalized="Friz" languages="Breton">Friz</name>
+		<name normalized="Friziska" languages="Upper Sorbian">Friziska</name>
+		<name normalized="Frizya" languages="Turkish">Frizya</name>
+		<name normalized="Frizejsko" languages="Kashubian">Frizëjskô</name>
+		<name normalized="Fryslan" languages="English;official">Fryslan</name>
+		<name normalized="Fryslan Province" languages="English;official">Fryslan Province</name>
+		<name normalized="Fryslan Provincie" languages="English;official">Fryslan Provincie</name>
+		<name normalized="Fryslan" languages="Low German;Scottish Gaelic;Seeltersk;Welsh;Western Frisian">Fryslân</name>
+		<name normalized="Fryzija" languages="Lithuanian">Fryzija</name>
+		<name normalized="Fryzja" languages="Polish">Fryzja</name>
+		<name normalized="Frisia" languages="Portuguese">Frísia</name>
+		<name normalized="Frisko" languages="Czech">Frísko</name>
+		<name normalized="Frisland" languages="Icelandic">Frísland</name>
+		<name normalized="Frizfold" languages="Hungarian">Frízföld</name>
+		<name normalized="Frizsko" languages="Slovak">Frízsko</name>
+		<name normalized="Frizlande" languages="Latvian">Frīzlande</name>
+		<name normalized="Provincia Frizia" languages="Romanian">Provincia Frizia</name>
+		<name normalized="Provinz Friesland" languages="German">Provinz Friesland</name>
+		<name normalized="Provenz Friesland" languages="Luxembourgish">Provënz Friesland</name>
+		<name normalized="Provincia de Frisia" languages="Catalan">Província de Frísia</name>
+		<name normalized="Weestfraschlonj" languages="Northern Frisian">Weestfraschlönj</name>
+		<name normalized="Yn Reeshlann" languages="Manx">Yn Reeshlann</name>
+		<name normalized="Φρισλαντ" languages="Greek">Φρίσλαντ</name>
+		<name normalized="Viлoiti Фрiслaнdii" languages="Tajik">Вилояти Фрисландия</name>
+		<name normalized="Фрizii" languages="Bulgarian">Фризия</name>
+		<name normalized="Фрizija" languages="Macedonian;Serbian">Фризија</name>
+		<name normalized="Фрiслaнdi" languages="Ossetic">Фрисланди</name>
+		<name normalized="Фрiслaнdii" languages="Russian">Фрисландия</name>
+		<name normalized="Фрiслaнdii" languages="Ukrainian">Фрисландія</name>
+		<name normalized="Фрыслaнdыi" languages="Belarusian">Фрысландыя</name>
+		<name normalized="Фрысьлiнd" languages="biлaрuсkai (taрaskivita)‎">Фрысьлянд</name>
+		<name normalized="prיסדnד" languages="Hebrew">פריסלנד</name>
+		<name normalized="frאyزلאند" languages="Arabic">فرايزلاند</name>
+		<name normalized="frیزلینڈ" languages="Western Punjabi">فریزلینڈ</name>
+		<name normalized="frیسلאند" languages="Persian">فریسلاند</name>
+		<name normalized="p्rislंड" languages="Marathi">फ्रीसलंड</name>
+		<name normalized="ෆ්‍රීස්ලන්ත්" languages="Sinhala">ෆ්‍රීස්ලන්ත්</name>
+		<name normalized="จังหวัดฟรีสแลนด์" languages="Thai">จังหวัดฟรีสแลนด์</name>
+		<name normalized="ფრისლანდია" languages="Georgian">ფრისლანდია</name>
+		<name normalized="hrーsrnt州" languages="Japanese">フリースラント州</name>
+		<name normalized="弗里斯兰省" languages="Chinese">弗里斯兰省</name>
+		<name normalized="프리슬란트 주" languages="Korean">프리슬란트 주</name>
+	</region>
+	<region name="Gelderland" type="province" typeTranslated="provincie">
+		<name normalized="Gelderlaand" languages="Low German;Low Saxon (Netherlands)">Gelderlaand</name>
+		<name normalized="Gelderland" languages="Afrikaans;Albanian;Aragonese;Basque;Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Finnish;Hungarian;Icelandic;Indonesian;Irish;Javanese;Limburgish;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;official;Quechua;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Somali;Swahili;Swedish;Turkish;Vietnamese;Volapuk;Waray;Welsh;West-Vlams;Zeeuws">Gelderland</name>
+		<name normalized="Gelderland Province" languages="English;official">Gelderland Province</name>
+		<name normalized="Gelderland Provincie" languages="English;official">Gelderland Provincie</name>
+		<name normalized="Gelderlandas" languages="Lithuanian">Gelderlandas</name>
+		<name normalized="Gelderlande" languages="Latvian">Gelderlande</name>
+		<name normalized="Gelderlandi provints" languages="Estonian">Gelderlandi provints</name>
+		<name normalized="Gelderlound" languages="Seeltersk">Gelderlound</name>
+		<name normalized="Gelderlan" languages="Western Frisian">Gelderlân</name>
+		<name normalized="Geldria" languages="Interlingua;Latin;Polish">Geldria</name>
+		<name normalized="Gheldria" languages="Italian">Gheldria</name>
+		<name normalized="Gueldre" languages="French">Gueldre</name>
+		<name normalized="Gueldria" languages="Galician">Gueldria</name>
+		<name normalized="Gueldres" languages="Occitan">Guèldres</name>
+		<name normalized="Gueldria" languages="Portuguese">Guéldria</name>
+		<name normalized="Gueldres" languages="Spanish">Güeldres</name>
+		<name normalized="Provinz Gelderland" languages="German">Provinz Gelderland</name>
+		<name normalized="Provenz Gelderland" languages="Luxembourgish">Provënz Gelderland</name>
+		<name normalized="Prowins Gelderlun" languages="Northern Frisian">Prowins Gelderlun</name>
+		<name normalized="Χeλντερλαντ" languages="Greek">Χέλντερλαντ</name>
+		<name normalized="Viлoiti Giлdiрлaнd" languages="Tajik">Вилояти Гелдерланд</name>
+		<name normalized="Giлdiрлaнd" languages="Bulgarian;Macedonian;Russian;Ukrainian">Гелдерланд</name>
+		<name normalized="Pрaviнtыi Giлdeрлaнd" languages="Belarusian">Правінцыя Гелдэрланд</name>
+		<name normalized="Kiлdiрлaнd" languages="Serbian">Хелдерланд</name>
+		<name normalized="Xեldեrlանd" languages="Armenian">Խելդերլանդ</name>
+		<name normalized="hדדrדnד" languages="Hebrew">חלדרלנד</name>
+		<name normalized="خلدrلאند" languages="Persian">خلدرلاند</name>
+		<name normalized="خyلدrلند" languages="Arabic">خيلدرلند</name>
+		<name normalized="gیلڈr لینڈ" languages="Western Punjabi">گیلڈر لینڈ</name>
+		<name normalized="gel्डrlांड" languages="Marathi">गेल्डरलांड</name>
+		<name normalized="จังหวัดเกลเดอร์ลันด์" languages="Thai">จังหวัดเกลเดอร์ลันด์</name>
+		<name normalized="გელდერლანდი" languages="Georgian">გელდერლანდი</name>
+		<name normalized="hrdーrnt州" languages="Japanese">ヘルダーラント州</name>
+		<name normalized="海尔德兰省" languages="Chinese">海尔德兰省</name>
+		<name normalized="헬데를란트 주" languages="Korean">헬데를란트 주</name>
+	</region>
+	<region name="Groningen" type="province" typeTranslated="provincie">
+		<name normalized="Greunienge" languages="Zeeuws">Greunienge</name>
+		<name normalized="Grins" languages="Western Frisian">Grins</name>
+		<name normalized="Grinslan" languages="Western Frisian">Grinslân</name>
+		<name normalized="Groninga" languages="Galician;Interlingua;Italian;Latin;lumbaart;Occitan;Portuguese;Spanish">Groninga</name>
+		<name normalized="Groninge" languages="Limburgish">Groninge</name>
+		<name normalized="Groningen" languages="Achinese;Afrikaans;Albanian;Aragonese;Basque;Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;German;Hungarian;Icelandic;Ido;Indonesian;Irish;Malay;Manx;Minangkabau;Northern Frisian;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Quechua;Romanian;Scots;Scottish Gaelic;Seeltersk;Serbo-Croatian;Simple English;Slovak;Somali;Swahili;Swedish;Turkish;Vietnamese;Volapuk;Waray;Welsh">Groningen</name>
+		<name normalized="Groningen Province" languages="English;official">Groningen Province</name>
+		<name normalized="Groningen Provincie" languages="English;official">Groningen Provincie</name>
+		<name normalized="Groningen pruwinsya" languages="Quechua">Groningen pruwinsya</name>
+		<name normalized="Groningena" languages="Latvian">Groningena</name>
+		<name normalized="Groningenas" languages="Lithuanian">Groningenas</name>
+		<name normalized="Groningeni provints" languages="Estonian">Groningeni provints</name>
+		<name normalized="Groningeno provincija" languages="Lithuanian">Groningeno provincija</name>
+		<name normalized="Groningerlound" languages="Seeltersk">Groningerlound</name>
+		<name normalized="Groningue" languages="French">Groningue</name>
+		<name normalized="Grunnen" languages="Low Saxon (Netherlands)">Grunnen</name>
+		<name normalized="Grunneng" languages="Low German">Grunneng</name>
+		<name normalized="Groninga" languages="Sicilian">Gròninga</name>
+		<name normalized="Mkoa wa Groningen" languages="Swahili">Mkoa wa Groningen</name>
+		<name normalized="Provincia de Groninga" languages="Galician;Spanish">Provincia de Groninga</name>
+		<name normalized="Provincia de Groningen" languages="Aragonese">Provincia de Groningen</name>
+		<name normalized="Provinsen Groningen" languages="Norwegian Nynorsk">Provinsen Groningen</name>
+		<name normalized="Provinsi Groningen" languages="Javanese">Provinsi Groningen</name>
+		<name normalized="Provinz Groningen" languages="German">Provinz Groningen</name>
+		<name normalized="Provinz Grunneng" languages="Low German">Provinz Grunneng</name>
+		<name normalized="Provenz Groningen" languages="Luxembourgish">Provënz Groningen</name>
+		<name normalized="Provincia de Groningen" languages="Catalan">Província de Groningen</name>
+		<name normalized="Prowins Groningen" languages="Northern Frisian">Prowins Groningen</name>
+		<name normalized="Qroningen" languages="Azerbaijani">Qroningen</name>
+		<name normalized="Xroninqen" languages="Azerbaijani">Xroninqen</name>
+		<name normalized="Χρονινγκεν" languages="Greek">Χρόνινγκεν</name>
+		<name normalized="Viлoiti Gрoнiнgiн" languages="Tajik">Вилояти Гронинген</name>
+		<name normalized="Goрad Gрoнiнgiн" languages="Belarusian">Горад Гронінген</name>
+		<name normalized="Gрoнiнgiн" languages="Bulgarian;Macedonian;Ossetic;Russian;Serbian">Гронинген</name>
+		<name normalized="Gрoнiнgiн kot" languages="Mongolian">Гронинген хот</name>
+		<name normalized="Gрoнiнgiн" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Гронінген</name>
+		<name normalized="Pрaviнtыi Gрoнiнgiн" languages="Belarusian">Правінцыя Гронінген</name>
+		<name normalized="Xrvնինգեն" languages="Armenian">Խրոնինգեն</name>
+		<name normalized="hrvnיnגן" languages="Hebrew">חרונינגן</name>
+		<name normalized="jrونyنjyن" languages="Egyptian Spoken Arabic">جرونينجين</name>
+		<name normalized="خrونyنغن" languages="Arabic">خرونينغن</name>
+		<name normalized="mqאtعة خrونyنغن" languages="Arabic">مقاطعة خرونينغن</name>
+		<name normalized="grوننgن شہr" languages="Western Punjabi">گروننگن شہر</name>
+		<name normalized="grونینgن" languages="Persian">گرونینگن</name>
+		<name normalized="g्roniंgn" languages="Marathi">ग्रोनिंगन</name>
+		<name normalized="k্roniঙen" languages="Bengali">খ্রোনিঙেন</name>
+		<name normalized="จังหวัดโกรนิงเงิน" languages="Thai">จังหวัดโกรนิงเงิน</name>
+		<name normalized="გრონინგენი" languages="Georgian">გრონინგენი</name>
+		<name normalized="გრონინგენის პროვინცია" languages="Georgian">გრონინგენის პროვინცია</name>
+		<name normalized="hrーnngn" languages="Japanese">フローニンゲン</name>
+		<name normalized="hrーnngn州" languages="Japanese">フローニンゲン州</name>
+		<name normalized="格罗宁根" languages="Chinese">格罗宁根</name>
+		<name normalized="格罗宁根省" languages="Chinese">格罗宁根省</name>
+		<name normalized="흐로닝언" languages="Korean">흐로닝언</name>
+		<name normalized="흐로닝언 주" languages="Korean">흐로닝언 주</name>
+	</region>
+	<region name="Limburg" type="province" typeTranslated="provincie">
+		<name normalized="Hollands Limburg" languages="West-Vlams">Hollands Limburg</name>
+		<name normalized="Limborg" languages="Occitan">Limborg</name>
+		<name normalized="Limbork" languages="Walloon">Limbork</name>
+		<name normalized="Limburch" languages="Western Frisian">Limburch</name>
+		<name normalized="Limburg" languages="Afrikaans;Basque;Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Finnish;Icelandic;Indonesian;Interlingua;Irish;Javanese;Low Saxon (Netherlands);Malay;Manx;Norwegian (bokmal);official;Quechua;Romanian;Serbo-Croatian;Simple English;Somali;Swahili;Swedish;Turkish;Vietnamese;Volapuk;Waray;Welsh">Limburg</name>
+		<name normalized="Limburg i Nederland" languages="Norwegian Nynorsk">Limburg i Nederland</name>
+		<name normalized="Limburg Province" languages="English;official">Limburg Province</name>
+		<name normalized="Limburg Provincie" languages="English;official">Limburg Provincie</name>
+		<name normalized="Limburga" languages="Latvian">Limburga</name>
+		<name normalized="Limburgi provints" languages="Estonian">Limburgi provints</name>
+		<name normalized="Limburgia" languages="Polish">Limburgia</name>
+		<name normalized="Limburgo" languages="Aragonese;Esperanto;Galician;Italian;Portuguese;Spanish">Limburgo</name>
+		<name normalized="Limburgo provincija" languages="Lithuanian">Limburgo provincija</name>
+		<name normalized="Limburgu" languages="Albanian">Limburgu</name>
+		<name normalized="Limburgum" languages="Latin">Limburgum</name>
+		<name normalized="Limbursko" languages="Slovak">Limbursko</name>
+		<name normalized="Limbuurich" languages="Seeltersk">Limbuurich</name>
+		<name normalized="Nederlands Limburg" languages="Limburgish;Zeeuws">Nederlands Limburg</name>
+		<name normalized="Province de Limbourg" languages="French">Province de Limbourg</name>
+		<name normalized="Provinz Limburg" languages="German">Provinz Limburg</name>
+		<name normalized="Provenz Limburg" languages="Luxembourgish">Provënz Limburg</name>
+		<name normalized="Prowins Limburg" languages="Northern Frisian">Prowins Limburg</name>
+		<name normalized="Λιμβουργια" languages="Greek">Λιμβουργία</name>
+		<name normalized="Viлoiti Лiмbuрg" languages="Tajik">Вилояти Лимбург</name>
+		<name normalized="Лiмbuрg" languages="Bulgarian;Ossetic;Russian;Serbian">Лимбург</name>
+		<name normalized="Лiмbuрg" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Лімбург</name>
+		<name normalized="Pрaviнtыi Лiмbuрg" languages="Belarusian">Правінцыя Лімбург</name>
+		<name normalized="Lիmbvyrx" languages="Armenian">Լիմբուրխ</name>
+		<name normalized="דימbvrג" languages="Hebrew">לימבורג</name>
+		<name normalized="sوbہ لmbrg" languages="Western Punjabi">صوبہ لمبرگ</name>
+		<name normalized="لmbrg" languages="Western Punjabi">لمبرگ</name>
+		<name normalized="لymbوrj" languages="Egyptian Spoken Arabic">ليمبورج</name>
+		<name normalized="لymbوrخ" languages="Arabic">ليمبورخ</name>
+		<name normalized="لیmbوrخ" languages="Persian">لیمبورخ</name>
+		<name normalized="limbr्g" languages="Marathi">लिमबर्ग</name>
+		<name normalized="จังหวัดลิมบูร์ก" languages="Thai">จังหวัดลิมบูร์ก</name>
+		<name normalized="ლიმბურგის პროვინცია" languages="Georgian">ლიმბურგის პროვინცია</name>
+		<name normalized="rnbrh州" languages="Japanese">リンブルフ州</name>
+		<name normalized="林堡省" languages="Chinese">林堡省</name>
+		<name normalized="림뷔르흐 주" languages="Korean">림뷔르흐 주</name>
+	</region>
+	<region name="Noord-Brabant" type="province" typeTranslated="provincie">
+		<name normalized="Amihanan nga Brabant" languages="Waray">Amihanan nga Brabant</name>
+		<name normalized="Brabancja Polnocna" languages="Polish">Brabancja Północna</name>
+		<name normalized="Brabant" languages="Aragonese;Breton;Catalan;Croatian;Czech;Dutch;English;French;German;Hungarian;Luxembourgish;Norwegian (bokmal);official;Romanian;Welsh">Brabant</name>
+		<name normalized="Brabant del Nord" languages="Interlingua">Brabant del Nord</name>
+		<name normalized="Brabant Hwoaie" languages="Manx">Brabant Hwoaie</name>
+		<name normalized="Brabant Lor" languages="Javanese">Brabant Lor</name>
+		<name normalized="Brabant Province" languages="English;official">Brabant Province</name>
+		<name normalized="Brabant Provincie" languages="English;official">Brabant Provincie</name>
+		<name normalized="Brabant Septentrional" languages="Aragonese;Catalan">Brabant Septentrional</name>
+		<name normalized="Brabant Septentrionau" languages="Occitan">Brabant Septentrionau</name>
+		<name normalized="Brabant Thuaidh" languages="Irish">Brabant Thuaidh</name>
+		<name normalized="Brabant Utara" languages="Indonesian">Brabant Utara</name>
+		<name normalized="Brabant-Septentrional" languages="French">Brabant-Septentrional</name>
+		<name normalized="Brabanta Veriore" languages="Albanian">Brabanta Veriore</name>
+		<name normalized="Brabantas" languages="Lithuanian">Brabantas</name>
+		<name normalized="Brabante" languages="Galician;Portuguese;Spanish">Brabante</name>
+		<name normalized="Brabante do Norte" languages="Galician;Portuguese">Brabante do Norte</name>
+		<name normalized="Brabante Septentrional" languages="Spanish">Brabante Septentrional</name>
+		<name normalized="Brabante Settentrionale" languages="Italian">Brabante Settentrionale</name>
+		<name normalized="Brabantul de Nord" languages="Romanian">Brabantul de Nord</name>
+		<name normalized="Braibant" languages="Walloon">Braibant</name>
+		<name normalized="Braobant" languages="Low Saxon (Netherlands)">Braobant</name>
+		<name normalized="Braobantj" languages="Limburgish">Braobantj</name>
+		<name normalized="Ipar Brabante" languages="Basque">Ipar Brabante</name>
+		<name normalized="Kuzey Brabant" languages="Turkish">Kuzey Brabant</name>
+		<name normalized="Noard-Braban" languages="Western Frisian">Noard-Brabân</name>
+		<name normalized="Noord-Brabant" languages="Afrikaans;Breton;Danish;Dutch;English;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Scottish Gaelic;Swahili;Swedish;Vietnamese;Volapuk;Welsh">Noord-Brabant</name>
+		<name normalized="Noord-Brabant Province" languages="English;official">Noord-Brabant Province</name>
+		<name normalized="Noord-Brabant Provincie" languages="English;official">Noord-Brabant Provincie</name>
+		<name normalized="Noord-Brabant pruwinsya" languages="Quechua">Noord-Brabant pruwinsya</name>
+		<name normalized="Noord-Braebant" languages="Zeeuws">Noord-Braebant</name>
+		<name normalized="Noord-Braobant" languages="Limburgish;Low Saxon (Netherlands)">Noord-Braobant</name>
+		<name normalized="Norda Brabanto" languages="Esperanto">Norda Brabanto</name>
+		<name normalized="North Brabant" languages="English;official;Scots;Simple English">North Brabant</name>
+		<name normalized="North Brabant Province" languages="English;official">North Brabant Province</name>
+		<name normalized="North Brabant Provincie" languages="English;official">North Brabant Provincie</name>
+		<name normalized="Nordur-Brabant" languages="Icelandic">Norður-Brabant</name>
+		<name normalized="Noudbrabant" languages="Seeltersk">Noudbrabant</name>
+		<name normalized="Noord-Broabant" languages="West-Vlams">Nôord-Broabant</name>
+		<name normalized="Pohjois-Brabant" languages="Finnish">Pohjois-Brabant</name>
+		<name normalized="Provinz Nordbrabant" languages="German">Provinz Nordbrabant</name>
+		<name normalized="Provenz Nordbrabant" languages="Luxembourgish">Provënz Nordbrabant</name>
+		<name normalized="Prowins Nuurdbrabant" languages="Northern Frisian">Prowins Nuurdbrabant</name>
+		<name normalized="Pohja-Brabant" languages="Estonian">Põhja-Brabant</name>
+		<name normalized="Severne Brabantsko" languages="Slovak">Severné Brabantsko</name>
+		<name normalized="Severni Brabantsko" languages="Czech">Severní Brabantsko</name>
+		<name normalized="Sjeverni Brabant" languages="Croatian;Serbo-Croatian">Sjeverni Brabant</name>
+		<name normalized="Waqooyiga Brabant" languages="Somali">Waqooyiga Brabant</name>
+		<name normalized="Ziemelbrabante" languages="Latvian">Ziemeļbrabante</name>
+		<name normalized="Simali Brabant" languages="Azerbaijani">Şimali Brabant</name>
+		<name normalized="Siaures Brabantas" languages="Lithuanian">Šiaurės Brabantas</name>
+		<name normalized="Βραβαντη" languages="Greek">Βραβάντη</name>
+		<name normalized="Βορεια Βραβαντη" languages="Greek">Βόρεια Βραβάντη</name>
+		<name normalized="Bрabaнt" languages="Russian">Брабант</name>
+		<name normalized="Viлoiti Siмoлi Bрabaнt" languages="Tajik">Вилояти Шимоли Брабант</name>
+		<name normalized="Paўнocны Bрabaнt" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Паўночны Брабант</name>
+		<name normalized="Pivнicнiй Bрabaнt" languages="Ukrainian">Північний Брабант</name>
+		<name normalized="Сiviрiн Bрabaнt" languages="Bulgarian">Северен Брабант</name>
+		<name normalized="Сiviрнi Bрabaнt" languages="Serbian">Северни Брабант</name>
+		<name normalized="Сiviрный Bрabaнt" languages="Russian">Северный Брабант</name>
+		<name normalized="Uмaр Bрabaнt" languages="Mongolian">Умар Брабант</name>
+		<name normalized="Hյvysիsային Brաbանd" languages="Armenian">Հյուսիսային Բրաբանդ</name>
+		<name normalized="צpvן brאbnt" languages="Hebrew">צפון בראבנט</name>
+		<name normalized="אtلאbrאbنٹ" languages="Western Punjabi">اتلابرابنٹ</name>
+		<name normalized="brאbאنt شmאلی" languages="Persian">برابانت شمالی</name>
+		<name normalized="شmאل brאbنt" languages="Arabic">شمال برابنت</name>
+		<name normalized="شmאلی brאbאنٹ" languages="Urdu">شمالی برابانٹ</name>
+		<name normalized="nur्d-b्rाbांt" languages="Marathi">नूर्द-ब्राबांत</name>
+		<name normalized="จังหวัดนอร์ทบราบันต์" languages="Thai">จังหวัดนอร์ทบราบันต์</name>
+		<name normalized="ჩრდილოეთი ბრაბანტი" languages="Georgian">ჩრდილოეთი ბრაბანტი</name>
+		<name normalized="brbnt" languages="Japanese">ブラバント</name>
+		<name normalized="北brbnt州" languages="Japanese">北ブラバント州</name>
+		<name normalized="北布拉班特省" languages="Chinese">北布拉班特省</name>
+		<name normalized="布拉班特" languages="Chinese">布拉班特</name>
+		<name normalized="노르트브라반트 주" languages="Korean">노르트브라반트 주</name>
+		<name normalized="브라반트" languages="Korean">브라반트</name>
+	</region>
+	<region name="Noord-Holland" type="province" typeTranslated="provincie">
+		<name normalized="An Ollainn Thuaidh" languages="Irish">An Ollainn Thuaidh</name>
+		<name normalized="An Olaind" languages="Scottish Gaelic">An Òlaind</name>
+		<name normalized="Holanda" languages="Basque;Catalan;Galician;Portuguese;Spanish">Holanda</name>
+		<name normalized="Holanda do Norte" languages="Portuguese">Holanda do Norte</name>
+		<name normalized="Holanda Septentrional" languages="Aragonese;Catalan;Spanish">Holanda Septentrional</name>
+		<name normalized="Holanda Setentrional" languages="Galician">Holanda Setentrional</name>
+		<name normalized="Holande" languages="Latvian">Holande</name>
+		<name normalized="Holandia" languages="Indonesian;Polish">Holandia</name>
+		<name normalized="Holandia Polnocna" languages="Polish">Holandia Północna</name>
+		<name normalized="Holandija" languages="Serbo-Croatian">Holandija</name>
+		<name normalized="Holando" languages="Esperanto">Holando</name>
+		<name normalized="Holandsko" languages="Czech">Holandsko</name>
+		<name normalized="Holland" languages="Afrikaans;Alemannisch;Breton;Danish;Dutch;English;German;Limburgish;Low German;Malay;Norwegian Nynorsk;official;Simple English;Swedish;West-Vlams">Holland</name>
+		<name normalized="Holland Lor" languages="Javanese">Holland Lor</name>
+		<name normalized="Holland Province" languages="English;official">Holland Province</name>
+		<name normalized="Holland Provincie" languages="English;official">Holland Provincie</name>
+		<name normalized="Holland Utara" languages="Indonesian">Holland Utara</name>
+		<name normalized="Hollanda" languages="Interlingua">Hollanda</name>
+		<name normalized="Hollanda del Nord" languages="Interlingua">Hollanda del Nord</name>
+		<name normalized="Hollanda e Veriut" languages="Albanian">Hollanda e Veriut</name>
+		<name normalized="Hollandaya Zımey" languages="Zazaki">Hollandaya Zımey</name>
+		<name normalized="Hollande" languages="French">Hollande</name>
+		<name normalized="Hollande-Septentrionale" languages="French">Hollande-Septentrionale</name>
+		<name normalized="Hollandia" languages="Latin">Hollandia</name>
+		<name normalized="Hollandia Septentrionalis" languages="Latin">Hollandia Septentrionalis</name>
+		<name normalized="Hollandiya" languages="Azerbaijani">Hollandiya</name>
+		<name normalized="Hollanti" languages="Finnish">Hollanti</name>
+		<name normalized="Hollound" languages="Seeltersk">Hollound</name>
+		<name normalized="Hollan" languages="Western Frisian">Hollân</name>
+		<name normalized="Holland" languages="Bavarian">Hollånd</name>
+		<name normalized="Ha Lan" languages="Vietnamese">Hà Lan</name>
+		<name normalized="Ho-lan" languages="Chinese (Min Nan)">Hô-lân</name>
+		<name normalized="IHolandi" languages="Zulu">IHolandi</name>
+		<name normalized="Ipar Holanda" languages="Basque">Ipar Holanda</name>
+		<name normalized="Kuzey Hollanda" languages="Turkish">Kuzey Hollanda</name>
+		<name normalized="Noard-Hollan" languages="Western Frisian">Noard-Hollân</name>
+		<name normalized="Noord-'Olland" languages="Zeeuws">Noord-'Olland</name>
+		<name normalized="Noord-Hollaand" languages="Low Saxon (Netherlands)">Noord-Hollaand</name>
+		<name normalized="Noord-Holland" languages="Afrikaans;Breton;Danish;Dutch;English;Faroese;Limburgish;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Scottish Gaelic;Sranan Tongo;Swahili;Swedish;Vietnamese;Volapuk;Waray;Welsh">Noord-Holland</name>
+		<name normalized="Noord-Holland Province" languages="English;official">Noord-Holland Province</name>
+		<name normalized="Noord-Holland Provincie" languages="English;official">Noord-Holland Provincie</name>
+		<name normalized="Noord-Holland pruwinsya" languages="Quechua">Noord-Holland pruwinsya</name>
+		<name normalized="Norda Holando" languages="Esperanto">Norda Holando</name>
+		<name normalized="North Holland" languages="English;official;Scots;Simple English">North Holland</name>
+		<name normalized="North Holland Province" languages="English;official">North Holland Province</name>
+		<name normalized="North Holland Provincie" languages="English;official">North Holland Provincie</name>
+		<name normalized="Nordur-Holland" languages="Icelandic">Norður-Holland</name>
+		<name normalized="Noud-Hollound" languages="Seeltersk">Noud-Hollound</name>
+		<name normalized="Noord-Holland" languages="West-Vlams">Nôord-Holland</name>
+		<name normalized="Olanda" languages="Italian;Occitan;Romanian;Sardinian">Olanda</name>
+		<name normalized="Olanda de Nord" languages="Romanian">Olanda de Nord</name>
+		<name normalized="Olanda Septentrionala" languages="Occitan">Olanda Septentrionala</name>
+		<name normalized="Olanda Settentrionale" languages="Italian">Olanda Settentrionale</name>
+		<name normalized="Olande" languages="Friulian">Olande</name>
+		<name normalized="Olandija" languages="Lithuanian">Olandija</name>
+		<name normalized="Ollanda" languages="Romansh">Ollanda</name>
+		<name normalized="Pak Ho-lan" languages="Chinese (Min Nan)">Pak Hô-lân</name>
+		<name normalized="Pohjois-Hollanti" languages="Finnish">Pohjois-Hollanti</name>
+		<name normalized="Provinz Nordholland" languages="German">Provinz Nordholland</name>
+		<name normalized="Provenz Nordholland" languages="Luxembourgish">Provënz Nordholland</name>
+		<name normalized="Prowins Nuurdholun" languages="Northern Frisian">Prowins Nuurdholun</name>
+		<name normalized="Pohja-Holland" languages="Estonian">Põhja-Holland</name>
+		<name normalized="Regioun Holland" languages="Luxembourgish">Regioun Holland</name>
+		<name normalized="Severna Holandija" languages="Slovenian">Severna Holandija</name>
+		<name normalized="Severni Holandsko" languages="Czech">Severní Holandsko</name>
+		<name normalized="Severny Holland" languages="Slovak">Severný Holland</name>
+		<name normalized="Sjeverna Holandija" languages="Serbo-Croatian">Sjeverna Holandija</name>
+		<name normalized="Waqooyiga Holland" languages="Somali">Waqooyiga Holland</name>
+		<name normalized="Yn Ollan" languages="Manx">Yn Ollan</name>
+		<name normalized="Yn Ollan Hwoaie" languages="Manx">Yn Ollan Hwoaie</name>
+		<name normalized="Ziemelholande" languages="Latvian">Ziemeļholande</name>
+		<name normalized="Simali Hollandiya" languages="Azerbaijani">Şimali Hollandiya</name>
+		<name normalized="Siaures Olandija" languages="Lithuanian">Šiaurės Olandija</name>
+		<name normalized="Βορεια Ολλανδια" languages="Greek">Βόρεια Ολλανδία</name>
+		<name normalized="Viлoiti Siмoлi Hoллaнdii" languages="Tajik">Вилояти Шимоли Ҳолландия</name>
+		<name normalized="Gaлaнdыi" languages="Belarusian">Галандыя</name>
+		<name normalized="Gaлiнdыi" languages="biлaрuсkai (taрaskivita)‎">Галяндыя</name>
+		<name normalized="Goллaнdii" languages="Russian">Голландия</name>
+		<name normalized="Goллaнdii" languages="Ukrainian">Голландія</name>
+		<name normalized="Paўнocнai Gaлaнdыi" languages="Belarusian">Паўночная Галандыя</name>
+		<name normalized="Pivнicнa Goллaнdii" languages="Ukrainian">Північна Голландія</name>
+		<name normalized="Сiviрнa Koлaнdii" languages="Bulgarian">Северна Холандия</name>
+		<name normalized="Сiviрнa Koлaнdija" languages="Serbian">Северна Холандија</name>
+		<name normalized="Сiviрнai Goллaнdii" languages="Russian">Северная Голландия</name>
+		<name normalized="Uмaр Koллaнd" languages="Mongolian">Умар Холланд</name>
+		<name normalized="Koлaнdii" languages="Bulgarian">Холандия</name>
+		<name normalized="Taegat Goллaнdi" languages="Ossetic">Цæгат Голланди</name>
+		<name normalized="Hյvysիsային Hvlանdիա" languages="Armenian">Հյուսիսային Հոլանդիա</name>
+		<name normalized="צpvן hvדnד" languages="Hebrew">צפון הולנד</name>
+		<name normalized="אtلאہאلینڈ" languages="Western Punjabi">اتلاہالینڈ</name>
+		<name normalized="شmאل-hولندא" languages="Arabic">شمال-هولندا</name>
+		<name normalized="hلند شmאلی" languages="Persian">هلند شمالی</name>
+		<name normalized="hولندא" languages="Arabic;Egyptian Spoken Arabic">هولندا</name>
+		<name normalized="hولندא אلشmאلyh" languages="Egyptian Spoken Arabic">هولندا الشماليه</name>
+		<name normalized="ہאلینڈ" languages="Western Punjabi">ہالینڈ</name>
+		<name normalized="ހޮލެންޑު" languages="Divehi">ހޮލެންޑު</name>
+		<name normalized="nur्d-holंड" languages="Marathi">नूर्द-हॉलंड</name>
+		<name normalized="ஒல்லாந்து" languages="Tamil">ஒல்லாந்து</name>
+		<name normalized="ಹಾಲೆಂಡ್‌" languages="Kannada">ಹಾಲೆಂಡ್‌</name>
+		<name normalized="ഹോളണ്ട്" languages="Malayalam">ഹോളണ്ട്</name>
+		<name normalized="จังหวัดนอร์ทฮอลแลนด์" languages="Thai">จังหวัดนอร์ทฮอลแลนด์</name>
+		<name normalized="ฮอลแลนด์" languages="Thai">ฮอลแลนด์</name>
+		<name normalized="ჩრდილოეთი ჰოლანდია" languages="Georgian">ჩრდილოეთი ჰოლანდია</name>
+		<name normalized="ჰოლანდია" languages="Georgian">ჰოლანდია</name>
+		<name normalized="hrnt" languages="Japanese">ホラント</name>
+		<name normalized="北hrnt州" languages="Japanese">北ホラント州</name>
+		<name normalized="北荷兰省" languages="Chinese">北荷兰省</name>
+		<name normalized="荷蘭" languages="Chinese">荷蘭</name>
+		<name normalized="노르트홀란트 주" languages="Korean">노르트홀란트 주</name>
+		<name normalized="홀란트" languages="Korean">홀란트</name>
+	</region>
+	<region name="Overijssel" type="province" typeTranslated="provincie">
+		<name normalized="Euverijssel" languages="Limburgish">Euverijssel</name>
+		<name normalized="Oaveriessel" languages="Low German;Low Saxon (Netherlands)">Oaveriessel</name>
+		<name normalized="Oerisel" languages="Western Frisian">Oerisel</name>
+		<name normalized="Overeisela" languages="Latvian">Overeisela</name>
+		<name normalized="Overeiselis" languages="Lithuanian">Overeiselis</name>
+		<name normalized="Overiessel" languages="Zeeuws">Overiessel</name>
+		<name normalized="Overijssel" languages="Afrikaans;Albanian;Aragonese;Basque;Breton;Catalan;Czech;Danish;Dutch;English;Esperanto;Faroese;Finnish;French;Galician;Icelandic;Indonesian;Interlingua;Irish;Italian;Javanese;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Polish;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Simple English;Slovak;Somali;Spanish;Swahili;Swedish;Turkish;Vietnamese;Volapuk;Waray;Welsh">Overijssel</name>
+		<name normalized="Overijssel Province" languages="English;official">Overijssel Province</name>
+		<name normalized="Overijssel Provincie" languages="English;official">Overijssel Provincie</name>
+		<name normalized="Overijssel pruwinsya" languages="Quechua">Overijssel pruwinsya</name>
+		<name normalized="Overijsseli provints" languages="Estonian">Overijsseli provints</name>
+		<name normalized="Overissel" languages="Portuguese">Overissel</name>
+		<name normalized="Provinz Overijssel" languages="German">Provinz Overijssel</name>
+		<name normalized="Provenz Overijssel" languages="Luxembourgish">Provënz Overijssel</name>
+		<name normalized="Prowins Overijssel" languages="Northern Frisian">Prowins Overijssel</name>
+		<name normalized="Transisalania" languages="Latin">Transisalania</name>
+		<name normalized="Uuriesel" languages="Seeltersk">Uuriesel</name>
+		<name normalized="Οφεραισσελ" languages="Greek">Οφεράισσελ</name>
+		<name normalized="Aveрeйсeл" languages="biлaрuсkai (taрaskivita)‎">Авэрэйсэл</name>
+		<name normalized="Viлoiti Oviрeйсiл" languages="Tajik">Вилояти Оверэйсел</name>
+		<name normalized="Oviрiйсiл" languages="Bulgarian;Ukrainian">Оверейсел</name>
+		<name normalized="Oviрijсiл" languages="Serbian">Оверејсел</name>
+		<name normalized="Oviрeйссiл" languages="Russian">Оверэйссел</name>
+		<name normalized="Pрaviнtыi Aviрeйсiл" languages="Belarusian">Правінцыя Аверэйсел</name>
+		<name normalized="Oվեrեյsեl" languages="Armenian">Օվերեյսել</name>
+		<name normalized="אvbrאיסד" languages="Hebrew">אובראיסל</name>
+		<name normalized="أوfrאyسل" languages="Arabic">أوفرايسل</name>
+		<name normalized="אfrیسل" languages="Persian">افریسل</name>
+		<name normalized="אوrآءیسل" languages="Western Punjabi">اورآءیسل</name>
+		<name normalized="ov्hrाijl" languages="Marathi">ओव्हराईजल</name>
+		<name normalized="จังหวัดโอเวอร์เอเซิล" languages="Thai">จังหวัดโอเวอร์เอเซิล</name>
+		<name normalized="ოვერეისელი" languages="Georgian">ოვერეისელი</name>
+		<name normalized="oーhaーaisr州" languages="Japanese">オーファーアイセル州</name>
+		<name normalized="上艾瑟尔省" languages="Chinese">上艾瑟尔省</name>
+		<name normalized="오버레이설 주" languages="Korean">오버레이설 주</name>
+	</region>
+	<region name="Utrecht" type="province" typeTranslated="provincie">
+		<name normalized="Gemeente Utrecht" languages="Javanese">Gemeente Utrecht</name>
+		<name normalized="Magaalada Utrecht" languages="Somali">Magaalada Utrecht</name>
+		<name normalized="Mkoa wa Utrecht" languages="Swahili">Mkoa wa Utrecht</name>
+		<name normalized="Provincia d'Utrecht" languages="Aragonese">Provincia d'Utrecht</name>
+		<name normalized="Provincia de Utrecht" languages="Galician;Spanish">Provincia de Utrecht</name>
+		<name normalized="Provinsen Utrecht" languages="Norwegian Nynorsk">Provinsen Utrecht</name>
+		<name normalized="Provinz Utrecht" languages="German">Provinz Utrecht</name>
+		<name normalized="Provins Utrecht" languages="Breton">Proviñs Utrecht</name>
+		<name normalized="Provenz Utrecht" languages="Luxembourgish">Provënz Utrecht</name>
+		<name normalized="Provincia d'Utrecht" languages="Catalan">Província d'Utrecht</name>
+		<name normalized="Prowins Utrecht" languages="Northern Frisian">Prowins Utrecht</name>
+		<name normalized="Traiectum ad Rhenum" languages="Latin">Traiectum ad Rhenum</name>
+		<name normalized="Utert" languages="Western Frisian">Utert</name>
+		<name normalized="Utrech" languages="Limburgish">Utrech</name>
+		<name normalized="Utrecht" languages="Afrikaans;Albanian;Aragonese;Basque;Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Hungarian;Icelandic;Indonesian;Interlingua;Interlingue;Irish;Italian;Low Saxon (Netherlands);Luxembourgish;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Old English;Papiamento;Polish;Portuguese;Quechua;Romanian;Scots;Scottish Gaelic;Seeltersk;Serbo-Croatian;Sicilian;Simple English;Slovak;Somali;Spanish;Sranan Tongo;Swahili;Swedish;Turkish;Vietnamese;Volapuk;Waray;Welsh;West-Vlams;Zeeuws">Utrecht</name>
+		<name normalized="Utrecht probintzia" languages="Basque">Utrecht probintzia</name>
+		<name normalized="Utrecht Province" languages="English;official">Utrecht Province</name>
+		<name normalized="Utrecht Provincie" languages="English;official">Utrecht Provincie</name>
+		<name normalized="Utrecht pruwinsya" languages="Quechua">Utrecht pruwinsya</name>
+		<name normalized="Utrechtas" languages="Lithuanian">Utrechtas</name>
+		<name normalized="Utrechti provints" languages="Estonian">Utrechti provints</name>
+		<name normalized="Utrechto provincija" languages="Lithuanian">Utrechto provincija</name>
+		<name normalized="Utrehta" languages="Latvian">Utrehta</name>
+		<name normalized="Utrext" languages="Azerbaijani">Utrext</name>
+		<name normalized="Ουτρeχτη" languages="Greek">Ουτρέχτη</name>
+		<name normalized="Viлoiti Utрikt" languages="Tajik">Вилояти Утрехт</name>
+		<name normalized="Goрad Utрekt" languages="Belarusian">Горад Утрэхт</name>
+		<name normalized="Pрaviнtыi Utрekt" languages="Belarusian">Правінцыя Утрэхт</name>
+		<name normalized="Utрikt" languages="Bulgarian;Russian;Serbian;Ukrainian">Утрехт</name>
+		<name normalized="Utрikt kot" languages="Mongolian">Утрехт хот</name>
+		<name normalized="Utрekt" languages="biлaрuсkai (taрaskivita)‎">Утрэхт</name>
+		<name normalized="Vytrեxt" languages="Armenian">Ուտրեխտ</name>
+		<name normalized="אvtrכt" languages="Hebrew">אוטרכט</name>
+		<name normalized="أوtrخt" languages="Arabic">أوترخت</name>
+		<name normalized="אسtאن אوtrخt" languages="Persian">استان اوترخت</name>
+		<name normalized="אوtrخt" languages="Persian">اوترخت</name>
+		<name normalized="mqאtعة أوtrخt" languages="Arabic">مقاطعة أوترخت</name>
+		<name normalized="یوtrخt" languages="Western Punjabi">یوترخت</name>
+		<name normalized="ܐܘܛܪܝܟܛ" languages="Aramaic">ܐܘܛܪܝܟܛ</name>
+		<name normalized="uट्rek्t" languages="Marathi">उट्रेख्त</name>
+		<name normalized="จังหวัดยูเทรกต์" languages="Thai">จังหวัดยูเทรกต์</name>
+		<name normalized="ยูเทรกต์" languages="Thai">ยูเทรกต์</name>
+		<name normalized="ယူးထရက်မြို့" languages="Burmese">ယူးထရက်မြို့</name>
+		<name normalized="უტრეხტი" languages="Georgian">უტრეხტი</name>
+		<name normalized="უტრეხტის პროვინცია" languages="Georgian">უტრეხტის პროვინცია</name>
+		<name normalized="ytrht" languages="Japanese">ユトレヒト</name>
+		<name normalized="ytrht州" languages="Japanese">ユトレヒト州</name>
+		<name normalized="乌得勒支" languages="Chinese">乌得勒支</name>
+		<name normalized="乌得勒支省" languages="Chinese">乌得勒支省</name>
+		<name normalized="위트레흐트" languages="Korean">위트레흐트</name>
+		<name normalized="위트레흐트 주" languages="Korean">위트레흐트 주</name>
+	</region>
+	<region name="Zeeland" type="province" typeTranslated="provincie">
+		<name normalized="Celandia" languages="Galician">Celandia</name>
+		<name normalized="Provinz Zeeland" languages="German">Provinz Zeeland</name>
+		<name normalized="Provenz Zeeland" languages="Luxembourgish">Provënz Zeeland</name>
+		<name normalized="Prowins Sialun" languages="Northern Frisian">Prowins Sialun</name>
+		<name normalized="Seeland" languages="Dutch;French;German;Low German">Seeland</name>
+		<name normalized="Seelound" languages="Seeltersk">Seelound</name>
+		<name normalized="Seelan" languages="Western Frisian">Seelân</name>
+		<name normalized="Selandia" languages="Galician;Interlingua;Spanish">Selandia</name>
+		<name normalized="Sialun" languages="Northern Frisian">Sialun</name>
+		<name normalized="Silandia" languages="Latin">Silandia</name>
+		<name normalized="Sjaland" languages="Icelandic">Sjáland</name>
+		<name normalized="Sjalland" languages="Swedish">Själland</name>
+		<name normalized="Sjaelland" languages="Basque;Breton;Catalan;Czech;Danish;Esperanto;Estonian;Finnish;Hungarian;Indonesian;Italian;Kalaallisut;Norwegian (bokmal);Norwegian Nynorsk;Slovak;Turkish;Welsh">Sjælland</name>
+		<name normalized="Saeland" languages="Faroese">Sæland</name>
+		<name normalized="Yn Teelynn" languages="Manx">Yn Teelynn</name>
+		<name normalized="Zealand" languages="English;official;Romanian;Simple English;Vietnamese">Zealand</name>
+		<name normalized="Zealand Province" languages="English;official">Zealand Province</name>
+		<name normalized="Zealand Provincie" languages="English;official">Zealand Provincie</name>
+		<name normalized="Zeelaand" languages="Low Saxon (Netherlands)">Zeelaand</name>
+		<name normalized="Zeeland" languages="Afrikaans;Albanian;Breton;Czech;Danish;Dutch;English;Faroese;Finnish;Indonesian;Irish;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Scots;Scottish Gaelic;Simple English;Somali;Swahili;Swedish;Vietnamese;Volapuk;Waray;Welsh">Zeeland</name>
+		<name normalized="Zeeland Province" languages="English;official">Zeeland Province</name>
+		<name normalized="Zeeland Provincie" languages="English;official">Zeeland Provincie</name>
+		<name normalized="Zeeland pruwinsya" languages="Quechua">Zeeland pruwinsya</name>
+		<name normalized="Zeelanda" languages="Basque;Romanian">Zeelanda</name>
+		<name normalized="Zeelandi provints" languages="Estonian">Zeelandi provints</name>
+		<name normalized="Zeland" languages="Bosnian;Croatian;Serbo-Croatian">Zeland</name>
+		<name normalized="Zelanda" languages="Aragonese;Catalan;Interlingua;Italian;Occitan;Spanish;Turkish">Zelanda</name>
+		<name normalized="Zelandia" languages="Latin;Polish">Zelandia</name>
+		<name normalized="Zelandija" languages="Lithuanian">Zelandija</name>
+		<name normalized="Zelandijos provincija" languages="Lithuanian">Zelandijos provincija</name>
+		<name normalized="Zelando" languages="Esperanto">Zelando</name>
+		<name normalized="Zelandia" languages="Portuguese">Zelândia</name>
+		<name normalized="Zeeland" languages="Zeeuws">Zeêland</name>
+		<name normalized="Zieland" languages="Limburgish">Zieland</name>
+		<name normalized="Zilanna" languages="Sicilian">Zilanna</name>
+		<name normalized="Zeland" languages="Slovak">Zéland</name>
+		<name normalized="Zelande" languages="French">Zélande</name>
+		<name normalized="Zeeland" languages="West-Vlams">Zêeland</name>
+		<name normalized="Zelande" languages="Latvian">Zēlande</name>
+		<name normalized="Ζηλανδια" languages="Greek">Ζηλανδία</name>
+		<name normalized="Σγιeλαν" languages="Greek">Σγιέλαν</name>
+		<name normalized="Viлoiti Ziлaнdii" languages="Tajik">Вилояти Зеландия</name>
+		<name normalized="Voсtрaў Ziлaнdыi" languages="Belarusian">Востраў Зеландыя</name>
+		<name normalized="Ziлaнd" languages="Macedonian;Serbian">Зеланд</name>
+		<name normalized="Ziлaнdi" languages="Ossetic">Зеланди</name>
+		<name normalized="Ziлaнdii" languages="Bulgarian;Kazakh;Russian">Зеландия</name>
+		<name normalized="Ziлaнdii" languages="Ukrainian">Зеландія</name>
+		<name normalized="Zeлiнdыi" languages="biлaрuсkai (taрaskivita)‎">Зэляндыя</name>
+		<name normalized="Pрaviнtыi Ziлaнdыi" languages="Belarusian">Правінцыя Зеландыя</name>
+		<name normalized="Сiлaнd" languages="Serbian">Селанд</name>
+		<name normalized="Siлaнd" languages="Bulgarian">Шеланд</name>
+		<name normalized="Zեlանdիա" languages="Armenian">Զելանդիա</name>
+		<name normalized="Zեյlանd" languages="Armenian">Զեյլանդ</name>
+		<name normalized="זיידnד" languages="Hebrew">זיילנד</name>
+		<name normalized="שדן" languages="Hebrew">שלן</name>
+		<name normalized="زyلאند" languages="Arabic;Egyptian Spoken Arabic">زيلاند</name>
+		<name normalized="زyلند" languages="Arabic">زيلند</name>
+		<name normalized="زی لینڈ" languages="Urdu;Western Punjabi">زی لینڈ</name>
+		<name normalized="زیلאند" languages="Persian">زیلاند</name>
+		<name normalized="زیلینڈ" languages="Urdu">زیلینڈ</name>
+		<name normalized="شیلند" languages="Persian">شیلند</name>
+		<name normalized="jilंड" languages="Marathi">झीलंड</name>
+		<name normalized="s्yilंड" languages="Marathi">स्यीलंड</name>
+		<name normalized="จังหวัดเซแลนด์" languages="Thai">จังหวัดเซแลนด์</name>
+		<name normalized="เกาะเชลลันด์" languages="Thai">เกาะเชลลันด์</name>
+		<name normalized="ເກາະຊີແລນ" languages="Lao">ເກາະຊີແລນ</name>
+		<name normalized="ზელანდია" languages="Georgian">ზელანდია</name>
+		<name normalized="ზელანდიის პროვინცია" languages="Georgian">ზელანდიის პროვინცია</name>
+		<name normalized="sern島" languages="Japanese">シェラン島</name>
+		<name normalized="zーrnt州" languages="Japanese">ゼーラント州</name>
+		<name normalized="斯崙島" languages="Cantonese">斯崙島</name>
+		<name normalized="泽兰省" languages="Chinese">泽兰省</name>
+		<name normalized="西兰岛" languages="Chinese">西兰岛</name>
+		<name normalized="셸란 섬" languages="Korean">셸란 섬</name>
+		<name normalized="제일란트 주" languages="Korean">제일란트 주</name>
+	</region>
+	<region name="Zuid-Holland" type="province" typeTranslated="provincie">
+		<name normalized="An Ollainn Theas" languages="Irish">An Ollainn Theas</name>
+		<name normalized="An Olaind" languages="Scottish Gaelic">An Òlaind</name>
+		<name normalized="Cənubi Hollandiya" languages="Azerbaijani">Cənubi Hollandiya</name>
+		<name normalized="Dienvidholande" languages="Latvian">Dienvidholande</name>
+		<name normalized="Del-Holland" languages="Hungarian">Dél-Holland</name>
+		<name normalized="Etela-Hollanti" languages="Finnish">Etelä-Hollanti</name>
+		<name normalized="Guney Hollanda" languages="Turkish">Güney Hollanda</name>
+		<name normalized="Hego Holanda" languages="Basque">Hego Holanda</name>
+		<name normalized="Holanda" languages="Basque;Catalan;Galician;Portuguese;Spanish">Holanda</name>
+		<name normalized="Holanda do Sul" languages="Portuguese">Holanda do Sul</name>
+		<name normalized="Holanda Meridional" languages="Aragonese;Catalan;Galician;Spanish">Holanda Meridional</name>
+		<name normalized="Holande" languages="Latvian">Holande</name>
+		<name normalized="Holandia" languages="Indonesian;Polish">Holandia</name>
+		<name normalized="Holandia Poludniowa" languages="Polish">Holandia Południowa</name>
+		<name normalized="Holandija" languages="Serbo-Croatian">Holandija</name>
+		<name normalized="Holando" languages="Esperanto">Holando</name>
+		<name normalized="Holandsko" languages="Czech">Holandsko</name>
+		<name normalized="Holland" languages="Afrikaans;Alemannisch;Breton;Danish;Dutch;English;German;Limburgish;Low German;Malay;Norwegian Nynorsk;official;Simple English;Swedish;West-Vlams">Holland</name>
+		<name normalized="Holland Kidul" languages="Javanese">Holland Kidul</name>
+		<name normalized="Holland Province" languages="English;official">Holland Province</name>
+		<name normalized="Holland Provincie" languages="English;official">Holland Provincie</name>
+		<name normalized="Holland Selatan" languages="Indonesian">Holland Selatan</name>
+		<name normalized="Hollanda" languages="Interlingua">Hollanda</name>
+		<name normalized="Hollanda del Sud" languages="Interlingua">Hollanda del Sud</name>
+		<name normalized="Hollanda e Jugut" languages="Albanian">Hollanda e Jugut</name>
+		<name normalized="Hollandaya Veroci" languages="Zazaki">Hollandaya Veroci</name>
+		<name normalized="Hollande" languages="French">Hollande</name>
+		<name normalized="Hollande-Meridionale" languages="French">Hollande-Méridionale</name>
+		<name normalized="Hollandia" languages="Latin">Hollandia</name>
+		<name normalized="Hollandia Australis" languages="Latin">Hollandia Australis</name>
+		<name normalized="Hollandiya" languages="Azerbaijani">Hollandiya</name>
+		<name normalized="Hollanti" languages="Finnish">Hollanti</name>
+		<name normalized="Hollound" languages="Seeltersk">Hollound</name>
+		<name normalized="Hollan" languages="Western Frisian">Hollân</name>
+		<name normalized="Holland" languages="Bavarian">Hollånd</name>
+		<name normalized="Ha Lan" languages="Vietnamese">Hà Lan</name>
+		<name normalized="Ho-lan" languages="Chinese (Min Nan)">Hô-lân</name>
+		<name normalized="IHolandi" languages="Zulu">IHolandi</name>
+		<name normalized="Jizni Holandsko" languages="Czech">Jižní Holandsko</name>
+		<name normalized="Juzna Holandija" languages="Serbo-Croatian">Južna Holandija</name>
+		<name normalized="Juzny Holland" languages="Slovak">Južný Holland</name>
+		<name normalized="Koofurta Holland" languages="Somali">Koofurta Holland</name>
+		<name normalized="Lam Ho-lan" languages="Chinese (Min Nan)">Lâm Hô-lân</name>
+		<name normalized="Louna-Holland" languages="Estonian">Lõuna-Holland</name>
+		<name normalized="Olanda" languages="Italian;Occitan;Romanian;Sardinian">Olanda</name>
+		<name normalized="Olanda de Sud" languages="Romanian">Olanda de Sud</name>
+		<name normalized="Olanda Meridionala" languages="Occitan">Olanda Meridionala</name>
+		<name normalized="Olanda Meridionale" languages="Italian">Olanda Meridionale</name>
+		<name normalized="Olande" languages="Friulian">Olande</name>
+		<name normalized="Olandija" languages="Lithuanian">Olandija</name>
+		<name normalized="Ollanda" languages="Romansh">Ollanda</name>
+		<name normalized="Pietu Olandija" languages="Lithuanian">Pietų Olandija</name>
+		<name normalized="Provinz Sudholland" languages="German">Provinz Südholland</name>
+		<name normalized="Provenz Sudholland" languages="Luxembourgish">Provënz Südholland</name>
+		<name normalized="Prowins Suudholun" languages="Northern Frisian">Prowins Süüdholun</name>
+		<name normalized="Regioun Holland" languages="Luxembourgish">Regioun Holland</name>
+		<name normalized="Sooth Holland" languages="Scots">Sooth Holland</name>
+		<name normalized="South Holland" languages="English;official;Simple English">South Holland</name>
+		<name normalized="South Holland Province" languages="English;official">South Holland Province</name>
+		<name normalized="South Holland Provincie" languages="English;official">South Holland Provincie</name>
+		<name normalized="Suda Holando" languages="Esperanto">Suda Holando</name>
+		<name normalized="Suid-Holland" languages="Afrikaans">Suid-Holland</name>
+		<name normalized="Suudhollound" languages="Seeltersk">Suudhollound</name>
+		<name normalized="Sudur-Holland" languages="Icelandic">Suður-Holland</name>
+		<name normalized="Sud-Hollan" languages="Western Frisian">Súd-Hollân</name>
+		<name normalized="Ulanda Miridiunali" languages="Sicilian">Ulanda Miridiunali</name>
+		<name normalized="Yn Ollan" languages="Manx">Yn Ollan</name>
+		<name normalized="Yn Ollan Yiass" languages="Manx">Yn Ollan Yiass</name>
+		<name normalized="Zuid-Holland" languages="Breton;Danish;Dutch;English;Faroese;Limburgish;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Scottish Gaelic;Sranan Tongo;Swahili;Swedish;Vietnamese;Volapuk;Waray;Welsh">Zuid-Holland</name>
+		<name normalized="Zuid-Holland Province" languages="English;official">Zuid-Holland Province</name>
+		<name normalized="Zuid-Holland Provincie" languages="English;official">Zuid-Holland Provincie</name>
+		<name normalized="Zuid-Holland pruwinsya" languages="Quechua">Zuid-Holland pruwinsya</name>
+		<name normalized="Zuud-'Olland" languages="Zeeuws">Zuud-'Olland</name>
+		<name normalized="Zuud-Hollaand" languages="Low Saxon (Netherlands)">Zuud-Hollaand</name>
+		<name normalized="Νοτια Ολλανδια" languages="Greek">Νότια Ολλανδία</name>
+		<name normalized="Viлoiti Caнubi Hoллaнdii" languages="Tajik">Вилояти Ҷануби Ҳолландия</name>
+		<name normalized="Gaлaнdыi" languages="Belarusian">Галандыя</name>
+		<name normalized="Gaлiнdыi" languages="biлaрuсkai (taрaskivita)‎">Галяндыя</name>
+		<name normalized="Goллaнdii" languages="Russian">Голландия</name>
+		<name normalized="Goллaнdii" languages="Ukrainian">Голландія</name>
+		<name normalized="Paўdнёvai Gaлaнdыi" languages="Belarusian">Паўднёвая Галандыя</name>
+		<name normalized="Pivdiннa Goллaнdii" languages="Ukrainian">Південна Голландія</name>
+		<name normalized="Koлaнdii" languages="Bulgarian">Холандия</name>
+		<name normalized="Kuссaр Goллaнdi" languages="Ossetic">Хуссар Голланди</name>
+		<name normalized="Юzнa Koлaнdii" languages="Bulgarian">Южна Холандия</name>
+		<name normalized="Юzнai Goллaнdii" languages="Russian">Южная Голландия</name>
+		<name normalized="Juzнa Koлaнdija" languages="Serbian">Јужна Холандија</name>
+		<name normalized="Өмнɵ Koллaнd" languages="Mongolian">Өмнө Холланд</name>
+		<name normalized="Hաrավային Hvlանdիա" languages="Armenian">Հարավային Հոլանդիա</name>
+		<name normalized="דrvם hvדnד" languages="Hebrew">דרום הולנד</name>
+		<name normalized="tھلوאں ہאلینڈ" languages="Western Punjabi">تھلواں ہالینڈ</name>
+		<name normalized="jنوb hولندא" languages="Arabic">جنوب هولندا</name>
+		<name normalized="hلند jنوbی" languages="Persian">هلند جنوبی</name>
+		<name normalized="hولندא" languages="Arabic;Egyptian Spoken Arabic">هولندا</name>
+		<name normalized="hولندא אلjنوbyh" languages="Egyptian Spoken Arabic">هولندا الجنوبيه</name>
+		<name normalized="ہאلینڈ" languages="Western Punjabi">ہالینڈ</name>
+		<name normalized="ހޮލެންޑު" languages="Divehi">ހޮލެންޑު</name>
+		<name normalized="jाuड-holंड" languages="Marathi">झाउड-हॉलंड</name>
+		<name normalized="ஒல்லாந்து" languages="Tamil">ஒல்லாந்து</name>
+		<name normalized="ಹಾಲೆಂಡ್‌" languages="Kannada">ಹಾಲೆಂಡ್‌</name>
+		<name normalized="ഹോളണ്ട്" languages="Malayalam">ഹോളണ്ട്</name>
+		<name normalized="จังหวัดเซาท์ฮอลแลนด์" languages="Thai">จังหวัดเซาท์ฮอลแลนด์</name>
+		<name normalized="ฮอลแลนด์" languages="Thai">ฮอลแลนด์</name>
+		<name normalized="სამხრეთი ჰოლანდია" languages="Georgian">სამხრეთი ჰოლანდია</name>
+		<name normalized="ჰოლანდია" languages="Georgian">ჰოლანდია</name>
+		<name normalized="hrnt" languages="Japanese">ホラント</name>
+		<name normalized="南hrnt州" languages="Japanese">南ホラント州</name>
+		<name normalized="南荷蘭省" languages="Chinese">南荷蘭省</name>
+		<name normalized="荷蘭" languages="Chinese">荷蘭</name>
+		<name normalized="자위트홀란트 주" languages="Korean">자위트홀란트 주</name>
+		<name normalized="홀란트" languages="Korean">홀란트</name>
+	</region>
+</regions>

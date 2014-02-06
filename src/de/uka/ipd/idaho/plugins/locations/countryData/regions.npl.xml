@@ -1,0 +1,285 @@
+<regions country="Nepal">
+	<region name="Bagmati" type="zone" typeTranslated="anchal">
+		<name normalized="Bagmati" languages="Dutch;English;Esperanto;Fiji Hindi;Finnish;French;German;Italian;official;Polish;Portuguese">Bagmati</name>
+		<name normalized="Bagmati Anchal" languages="English;official">Bagmati Anchal</name>
+		<name normalized="Bagmati Gunea" languages="Basque">Bagmati Gunea</name>
+		<name normalized="Bagmati ibaia" languages="Basque">Bagmati ibaia</name>
+		<name normalized="Bagmati River" languages="English">Bagmati River</name>
+		<name normalized="Bagmati Zone" languages="English;official;Scots">Bagmati Zone</name>
+		<name normalized="Bagmati" languages="Slovak">Bágmatí</name>
+		<name normalized="Rio Bagmati" languages="Portuguese">Rio Bagmati</name>
+		<name normalized="Riu Baghmati" languages="Catalan">Riu Baghmati</name>
+		<name normalized="Raul Bagmati" languages="Romanian">Râul Bagmati</name>
+		<name normalized="Rio Bagmati" languages="Spanish">Río Bagmati</name>
+		<name normalized="Zona Bagmati" languages="Indonesian">Zona Bagmati</name>
+		<name normalized="Zona de Bagmati" languages="Spanish">Zona de Bagmati</name>
+		<name normalized="Bagмati" languages="Bulgarian">Багмати</name>
+		<name normalized="bאgmאtی دrیא" languages="Western Punjabi">باگماتی دریا</name>
+		<name normalized="bाgmti" languages="Hindi">बागमती</name>
+		<name normalized="bाgmti an्cl" languages="Nepali;Newari">बागमती अञ्चल</name>
+		<name normalized="bाgmti kusi" languages="Newari">बागमती खुसि</name>
+		<name normalized="bाgmti ndi" languages="Marathi;Nepali">बागमती नदी</name>
+		<name normalized="bाgmti p्rाn्t" languages="Hindi">बागमती प्रान्त</name>
+		<name normalized="bাgmti an্cl" languages="Bengali">বাগমতী অঞ্চল</name>
+		<name normalized="bাgmti ly়া" languages="Bishnupria Manipuri">বাগমতী লয়া</name>
+		<name normalized="bાgmti p્rાંt" languages="Gujarati">બાગમતી પ્રાંત</name>
+		<name normalized="เขตบากมาติ" languages="Thai">เขตบากมาติ</name>
+		<name normalized="bgmti県" languages="Japanese">バグマティ県</name>
+		<name normalized="巴格馬蒂專區" languages="Chinese">巴格馬蒂專區</name>
+		<name normalized="바그마티 강" languages="Korean">바그마티 강</name>
+		<name normalized="바그마티 구" languages="Korean">바그마티 구</name>
+	</region>
+	<region name="Bheri" type="zone" typeTranslated="anchal">
+		<name normalized="Bheri" languages="Dutch;English;Fiji Hindi;Finnish;French;German;Italian;official;Polish;Portuguese;Slovak">Bheri</name>
+		<name normalized="Bheri Anchal" languages="English;official">Bheri Anchal</name>
+		<name normalized="Bheri Gunea" languages="Basque">Bheri Gunea</name>
+		<name normalized="Bheri Zone" languages="English;official">Bheri Zone</name>
+		<name normalized="Bheri" languages="Slovak">Bherí</name>
+		<name normalized="Zona de Bheri" languages="Spanish">Zona de Bheri</name>
+		<name normalized="Μπeρι" languages="Greek">Μπέρι</name>
+		<name normalized="Bkiрi" languages="Bulgarian">Бхери</name>
+		<name normalized="beri aंcl" languages="Hindi">भेरी अंचल</name>
+		<name normalized="beri an्cl" languages="Nepali">भेरी अञ्चल</name>
+		<name normalized="beri an্cl" languages="Bengali">ভেরী অঞ্চল</name>
+		<name normalized="beri ly়া" languages="Bishnupria Manipuri">ভেরী লয়া</name>
+		<name normalized="beri p્rાંt" languages="Gujarati">ભેરી પ્રાંત</name>
+		<name normalized="br県" languages="Japanese">ベリ県</name>
+		<name normalized="佩里專區" languages="Chinese">佩里專區</name>
+		<name normalized="베리 구" languages="Korean">베리 구</name>
+	</region>
+	<region name="Dhawalagiri" type="zone" typeTranslated="anchal">
+		<name normalized="Dhaualagiri" languages="Fiji Hindi">Dhaualagiri</name>
+		<name normalized="Dhaulagiri" languages="Finnish;French;German;Polish;Portuguese;Slovak">Dhaulagiri</name>
+		<name normalized="Dhaulagiri Gunea" languages="Basque">Dhaulagiri Gunea</name>
+		<name normalized="Dhawalagiri" languages="Dutch;English;Italian;official;Portuguese">Dhawalagiri</name>
+		<name normalized="Dhawalagiri Anchal" languages="English;official">Dhawalagiri Anchal</name>
+		<name normalized="Dhawalagiri Zone" languages="English;official">Dhawalagiri Zone</name>
+		<name normalized="Zona de Dhawalagiri" languages="Spanish">Zona de Dhawalagiri</name>
+		<name normalized="Νταουλαγκιρι" languages="Greek">Νταουλαγκίρι</name>
+		<name normalized="Dkavaлagiрi" languages="Bulgarian">Дхавалагири</name>
+		<name normalized="dalाgiri an्cl" languages="Nepali">धौलागिरी अञ्चल</name>
+		<name normalized="dlাgiri an্cl" languages="Bengali">ধলাগিরি অঞ্চল</name>
+		<name normalized="dlাgiri ly়া" languages="Bishnupria Manipuri">ধলাগিরী লয়া</name>
+		<name normalized="dvlાgiri p્rાંt" languages="Gujarati">ધવલાગિરી પ્રાંત</name>
+		<name normalized="durgr県" languages="Japanese">ダウラギリ県</name>
+		<name normalized="道拉吉里专区" languages="Chinese">道拉吉里专区</name>
+		<name normalized="다왈라기리 구" languages="Korean">다왈라기리 구</name>
+	</region>
+	<region name="Gandaki" type="zone" typeTranslated="anchal">
+		<name normalized="Gandaki" languages="Basque;Dutch;English;Fiji Hindi;Finnish;French;German;Italian;official;Polish;Portuguese">Gandaki</name>
+		<name normalized="Gandaki Anchal" languages="English;official">Gandaki Anchal</name>
+		<name normalized="Gandaki Gunea" languages="Basque">Gandaki Gunea</name>
+		<name normalized="Gandaki Zone" languages="English;official">Gandaki Zone</name>
+		<name normalized="Gandaki" languages="Slovak">Gandakí</name>
+		<name normalized="Zona de Gandaki" languages="Spanish">Zona de Gandaki</name>
+		<name normalized="Γκαντακι" languages="Greek">Γκαντάκι</name>
+		<name normalized="Gaнdaki" languages="Bulgarian;Russian">Гандаки</name>
+		<name normalized="gंडki aंcl" languages="Hindi">गंडकी अंचल</name>
+		<name normalized="gण्डki an्cl" languages="Nepali">गण्डकी अञ्चल</name>
+		<name normalized="gંડki p્rાંt" languages="Gujarati">ગંડકી પ્રાંત</name>
+		<name normalized="gndk県" languages="Japanese">ガンダキ県</name>
+		<name normalized="甘达基专区" languages="Chinese">甘达基专区</name>
+		<name normalized="간다키 구" languages="Korean">간다키 구</name>
+	</region>
+	<region name="Janakpur" type="zone" typeTranslated="anchal">
+		<name normalized="Dzanakpur" languages="Polish">Dźanakpur</name>
+		<name normalized="Dzanakpur" languages="Slovak">Džanakpur</name>
+		<name normalized="Dzanakpuras" languages="Lithuanian">Džanakpuras</name>
+		<name normalized="Janakapura" languages="Italian">Janakapura</name>
+		<name normalized="Janakpur" languages="Basque;Dutch;English;Fiji Hindi;Finnish;French;German;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Spanish;Swedish">Janakpur</name>
+		<name normalized="Janakpur Anchal" languages="English;official">Janakpur Anchal</name>
+		<name normalized="Janakpur Gunea" languages="Basque">Janakpur Gunea</name>
+		<name normalized="Janakpur Zone" languages="English;official">Janakpur Zone</name>
+		<name normalized="Janakpurdham" languages="English">Janakpurdham</name>
+		<name normalized="Zona de Janakpur" languages="Spanish">Zona de Janakpur</name>
+		<name normalized="Dzaнakpuр" languages="Bulgarian;Russian">Джанакпур</name>
+		<name normalized="jnkpur" languages="Hindi">जनकपुर</name>
+		<name normalized="jnkpur aंcl" languages="Hindi">जनकपुर अंचल</name>
+		<name normalized="jnkpur an्cl" languages="Nepali">जनकपुर अञ्चल</name>
+		<name normalized="jnkpur ngrpाlikा" languages="Nepali;Newari">जनकपुर नगरपालिका</name>
+		<name normalized="jnkpur an্cl" languages="Bengali">জনকপুর অঞ্চল</name>
+		<name normalized="jnkpur p્rાંt" languages="Gujarati">જનકપુર પ્રાંત</name>
+		<name normalized="zynkpr" languages="Japanese">ジャナクプル</name>
+		<name normalized="zynkpr県" languages="Japanese">ジャナクプル県</name>
+		<name normalized="賈納克布爾" languages="Chinese">賈納克布爾</name>
+		<name normalized="賈納克布爾專區" languages="Chinese">賈納克布爾專區</name>
+		<name normalized="자낙푸르" languages="Korean">자낙푸르</name>
+		<name normalized="자낙푸르 구" languages="Korean">자낙푸르 구</name>
+	</region>
+	<region name="Karnali" type="zone" typeTranslated="anchal">
+		<name normalized="Karnali" languages="Dutch;English;Fiji Hindi;Finnish;French;German;Italian;official;Polish;Portuguese;Slovak">Karnali</name>
+		<name normalized="Karnali Anchal" languages="English;official">Karnali Anchal</name>
+		<name normalized="Karnali Gunea" languages="Basque">Karnali Gunea</name>
+		<name normalized="Karnali Zone" languages="English;official">Karnali Zone</name>
+		<name normalized="Karnali" languages="Slovak">Karnálí</name>
+		<name normalized="Zona de Karnali" languages="Spanish">Zona de Karnali</name>
+		<name normalized="Καρναλι" languages="Greek">Καρνάλι</name>
+		<name normalized="Kaрнaлi" languages="Bulgarian">Карнали</name>
+		<name normalized="kr्णाli aंcl" languages="Hindi">कर्णाली अंचल</name>
+		<name normalized="kr्णाli an्cl" languages="Nepali">कर्णाली अञ्चल</name>
+		<name normalized="kr્ણાli p્rાંt" languages="Gujarati">કર્ણાલી પ્રાંત</name>
+		<name normalized="krnr県" languages="Japanese">カルナリ県</name>
+		<name normalized="格爾納利專區" languages="Chinese">格爾納利專區</name>
+		<name normalized="카르날리 구" languages="Korean">카르날리 구</name>
+	</region>
+	<region name="Kosi" type="zone" typeTranslated="anchal">
+		<name normalized="Anchal Kosi" languages="Breton">Anchal Kosi</name>
+		<name normalized="Koshi" languages="Fiji Hindi;French;German">Koshi</name>
+		<name normalized="Kosi" languages="Dutch;English;Finnish;German;Italian;official;Portuguese">Kosi</name>
+		<name normalized="Kosi Anchal" languages="English;official">Kosi Anchal</name>
+		<name normalized="Kosi Gunea" languages="Basque">Kosi Gunea</name>
+		<name normalized="Kosi Zone" languages="English;official">Kosi Zone</name>
+		<name normalized="Kosi" languages="Polish">Kośi</name>
+		<name normalized="Kosi" languages="Slovak">Koší</name>
+		<name normalized="Zona de Kosi" languages="Spanish">Zona de Kosi</name>
+		<name normalized="Koсi" languages="Bulgarian;Russian">Коси</name>
+		<name normalized="kosi aंcl" languages="Hindi">कोशी अंचल</name>
+		<name normalized="kosi an्cl" languages="Nepali">कोशी अञ्चल</name>
+		<name normalized="kosi an্cl" languages="Bengali">কোশী অঞ্চল</name>
+		<name normalized="kosi p્rાંt" languages="Gujarati">કોશી પ્રાંત</name>
+		<name normalized="ks県" languages="Japanese">コシ県</name>
+		<name normalized="戈西專區" languages="Chinese">戈西專區</name>
+		<name normalized="코시 구" languages="Korean">코시 구</name>
+	</region>
+	<region name="Lumbini" type="zone" typeTranslated="anchal">
+		<name normalized="Lumbini" languages="Basque;Catalan;Croatian;Danish;Dutch;English;Esperanto;Fiji Hindi;Finnish;French;German;Hungarian;Italian;Javanese;Malay;Occitan;official;Polish;Portuguese;Serbian;Serbo-Croatian;Spanish;Swedish;Turkish">Lumbini</name>
+		<name normalized="Lumbini Anchal" languages="English;official">Lumbini Anchal</name>
+		<name normalized="Lumbini Gunea" languages="Basque">Lumbini Gunea</name>
+		<name normalized="Lumbini Zone" languages="English;official">Lumbini Zone</name>
+		<name normalized="Lumbinis" languages="Lithuanian">Lumbinis</name>
+		<name normalized="Lumbini" languages="Czech;Slovak">Lumbiní</name>
+		<name normalized="Lumbini" languages="French">Lumbinî</name>
+		<name normalized="Lumbini" languages="Estonian">Lumbinī</name>
+		<name normalized="Lumbini ringkond" languages="Estonian">Luṁbinī ringkond</name>
+		<name normalized="Lam-Ty-Ni" languages="Vietnamese">Lâm-Tỳ-Ni</name>
+		<name normalized="Taman Lumbini" languages="Indonesian">Taman Lumbini</name>
+		<name normalized="Zona de Lumbini" languages="Spanish">Zona de Lumbini</name>
+		<name normalized="Λουμπινι" languages="Greek">Λουμπίνι</name>
+		<name normalized="Лuмbiнi" languages="Bulgarian;Russian">Лумбини</name>
+		<name normalized="Лuмbiнi" languages="Ukrainian">Лумбіні</name>
+		<name normalized="דvמbיnי" languages="Hebrew">לומביני</name>
+		<name normalized="لmbینی" languages="Western Punjabi">لمبینی</name>
+		<name normalized="لوmbyنy" languages="Arabic">لومبيني</name>
+		<name normalized="luंbini" languages="Hindi">लुंबिनी</name>
+		<name normalized="lum्bini" languages="Nepali">लुम्बिनी</name>
+		<name normalized="lum्bini an्cl" languages="Nepali">लुम्बिनी अञ्चल</name>
+		<name normalized="lum्bini gाvis" languages="Newari">लुम्बिनी गाविस</name>
+		<name normalized="lum्mini" languages="Pali">लुम्मिनी</name>
+		<name normalized="lum্bini" languages="Bengali">লুম্বিনী</name>
+		<name normalized="lum্bini an্cl" languages="Bengali">লুম্বিনী অঞ্চল</name>
+		<name normalized="luੰbini" languages="Punjabi">ਲੁੰਬਿਨੀ</name>
+		<name normalized="lum્bini" languages="Gujarati">લુમ્બિની</name>
+		<name normalized="lum્bini p્rાંt" languages="Gujarati">લુમ્બિની પ્રાંત</name>
+		<name normalized="ଲୁମ୍ବିନୀ" languages="Oriya">ଲୁମ୍ବିନୀ</name>
+		<name normalized="லும்பினி" languages="Tamil">லும்பினி</name>
+		<name normalized="ලුම්බිණිය" languages="Sinhala">ලුම්බිණිය</name>
+		<name normalized="ลุมพินีวัน" languages="Thai">ลุมพินีวัน</name>
+		<name normalized="ལུམ་བི་ནི་" languages="Tibetan">ལུམ་བི་ནི་</name>
+		<name normalized="ლუმბინი" languages="Georgian">ლუმბინი</name>
+		<name normalized="rnbn" languages="Japanese">ルンビニ</name>
+		<name normalized="rnbn県" languages="Japanese">ルンビニ県</name>
+		<name normalized="藍毗尼" languages="Chinese">藍毗尼</name>
+		<name normalized="藍毗尼專區" languages="Chinese">藍毗尼專區</name>
+		<name normalized="룸비니" languages="Korean">룸비니</name>
+		<name normalized="룸비니 구" languages="Korean">룸비니 구</name>
+	</region>
+	<region name="Mahakali" type="zone" typeTranslated="anchal">
+		<name normalized="Mahakali" languages="Dutch;English;Fiji Hindi;Finnish;French;German;Italian;official;Polish;Portuguese">Mahakali</name>
+		<name normalized="Mahakali Anchal" languages="English;official">Mahakali Anchal</name>
+		<name normalized="Mahakali Gunea" languages="Basque">Mahakali Gunea</name>
+		<name normalized="Mahakali Zone" languages="English;official">Mahakali Zone</name>
+		<name normalized="Mahakali" languages="Slovak">Mahákálí</name>
+		<name normalized="Zona de Mahakali" languages="Spanish">Zona de Mahakali</name>
+		<name normalized="Μαχακαλι" languages="Greek">Μαχακάλι</name>
+		<name normalized="Мakakaлi" languages="Bulgarian">Махакали</name>
+		<name normalized="mhाkाli an्cl" languages="Nepali">महाकाली अञ्चल</name>
+		<name normalized="mhাkাli an্cl" languages="Bengali">মহাকালী অঞ্চল</name>
+		<name normalized="mhાkાli p્rાંt" languages="Gujarati">મહાકાલી પ્રાંત</name>
+		<name normalized="mhkr県" languages="Japanese">マハカリ県</name>
+		<name normalized="馬哈卡利專區" languages="Chinese">馬哈卡利專區</name>
+		<name normalized="마하칼리 구" languages="Korean">마하칼리 구</name>
+	</region>
+	<region name="Mechi" type="zone" typeTranslated="anchal">
+		<name normalized="Mechi" languages="Dutch;English;Fiji Hindi;Finnish;French;German;Italian;official;Portuguese">Mechi</name>
+		<name normalized="Mechi Anchal" languages="English;official">Mechi Anchal</name>
+		<name normalized="Mechi Gunea" languages="Basque">Mechi Gunea</name>
+		<name normalized="Mechi Zone" languages="English;official;Simple English">Mechi Zone</name>
+		<name normalized="Meci" languages="Polish">Meći</name>
+		<name normalized="Mechi" languages="Slovak">Mečhí</name>
+		<name normalized="Zona de Mechi" languages="Spanish">Zona de Mechi</name>
+		<name normalized="Мici" languages="Bulgarian">Мечи</name>
+		<name normalized="meci an्cl" languages="Hindi;Nepali">मेची अञ्चल</name>
+		<name normalized="meci an্cl" languages="Bengali">মেচী অঞ্চল</name>
+		<name normalized="meci p્rાંt" languages="Gujarati">મેચી પ્રાંત</name>
+		<name normalized="mt県" languages="Japanese">メチ県</name>
+		<name normalized="梅吉專區" languages="Chinese">梅吉專區</name>
+		<name normalized="메치 구" languages="Korean">메치 구</name>
+	</region>
+	<region name="Narayani" type="zone" typeTranslated="anchal">
+		<name normalized="Narajani" languages="Polish">Narajani</name>
+		<name normalized="Narayani" languages="Dutch;English;Fiji Hindi;Finnish;French;German;Italian;official;Portuguese">Narayani</name>
+		<name normalized="Narayani Anchal" languages="English;official">Narayani Anchal</name>
+		<name normalized="Narayani Gunea" languages="Basque">Narayani Gunea</name>
+		<name normalized="Narayani Zone" languages="English;official">Narayani Zone</name>
+		<name normalized="Narajani" languages="Slovak">Nárájaní</name>
+		<name normalized="Zona de Narayani" languages="Spanish">Zona de Narayani</name>
+		<name normalized="Нaрaiнi" languages="Bulgarian;Russian">Нараяни</name>
+		<name normalized="nाrाyणi" languages="Sanskrit">नारायणी</name>
+		<name normalized="nाrाyणi an्cl" languages="Nepali">नारायणी अञ्चल</name>
+		<name normalized="nाrाyणi gा vi s" languages="Newari">नारायणी गा वि स</name>
+		<name normalized="nાrાyણi p્rાંt" languages="Gujarati">નારાયણી પ્રાંત</name>
+		<name normalized="nryn県" languages="Japanese">ナラヤニ県</name>
+		<name normalized="納拉亞尼專區" languages="Chinese">納拉亞尼專區</name>
+		<name normalized="나라야니 구" languages="Korean">나라야니 구</name>
+	</region>
+	<region name="Rapti" type="zone" typeTranslated="anchal">
+		<name normalized="Rapti" languages="Catalan;Dutch;English;Fiji Hindi;Finnish;French;German;Italian;official;Polish;Portuguese;Slovak">Rapti</name>
+		<name normalized="Rapti Anchal" languages="English;official">Rapti Anchal</name>
+		<name normalized="Rapti Gunea" languages="Basque">Rapti Gunea</name>
+		<name normalized="Rapti Zone" languages="English;official">Rapti Zone</name>
+		<name normalized="Rapti" languages="Slovak">Ráptí</name>
+		<name normalized="Zona de Rapti" languages="Spanish">Zona de Rapti</name>
+		<name normalized="Ραπτι" languages="Greek">Ράπτι</name>
+		<name normalized="Рapti" languages="Bulgarian;Russian">Рапти</name>
+		<name normalized="rाp्ti" languages="Nepali">राप्ती</name>
+		<name normalized="rाp्ti an्cl" languages="Nepali">राप्ती अञ्चल</name>
+		<name normalized="rাp্ti an্cl" languages="Bengali">রাপ্তী অঞ্চল</name>
+		<name normalized="rાp્ti p્rાંt" languages="Gujarati">રાપ્તી પ્રાંત</name>
+		<name normalized="rpti県" languages="Japanese">ラプティ県</name>
+		<name normalized="拉布蒂專區" languages="Chinese">拉布蒂專區</name>
+		<name normalized="랍티 구" languages="Korean">랍티 구</name>
+	</region>
+	<region name="Sagarmatha" type="zone" typeTranslated="anchal">
+		<name normalized="Sagarmatha" languages="Dutch;English;Fiji Hindi;Finnish;French;German;Italian;official;Polish;Portuguese;Swedish">Sagarmatha</name>
+		<name normalized="Sagarmatha Anchal" languages="English;official">Sagarmatha Anchal</name>
+		<name normalized="Sagarmatha Gunea" languages="Basque">Sagarmatha Gunea</name>
+		<name normalized="Sagarmatha Zone" languages="English;official">Sagarmatha Zone</name>
+		<name normalized="Sagarmatha" languages="Slovak">Sagarmáthá</name>
+		<name normalized="Zona de Sagarmatha" languages="Spanish">Zona de Sagarmatha</name>
+		<name normalized="Сagaрмatka" languages="Bulgarian;Russian">Сагарматха</name>
+		<name normalized="sgrmाtा aंcl" languages="Hindi">सगरमाथा अंचल</name>
+		<name normalized="sgrmाtा an्cl" languages="Nepali">सगरमाथा अञ्चल</name>
+		<name normalized="sgrmাtা an্cl" languages="Bengali">সগরমাথা অঞ্চল</name>
+		<name normalized="sgrmાtા p્rાંt" languages="Gujarati">સગરમાથા પ્રાંત</name>
+		<name normalized="sgrmt" languages="Japanese">サガルマタ</name>
+		<name normalized="sgrmt県" languages="Japanese">サガルマタ県</name>
+		<name normalized="萨加玛塔专区" languages="Chinese">萨加玛塔专区</name>
+		<name normalized="사가르마타 구" languages="Korean">사가르마타 구</name>
+	</region>
+	<region name="Seti" type="zone" typeTranslated="anchal">
+		<name normalized="Seti" languages="Dutch;English;Fiji Hindi;Finnish;French;German;Italian;official;Polish;Portuguese">Seti</name>
+		<name normalized="Seti Anchal" languages="English;official">Seti Anchal</name>
+		<name normalized="Seti Gunea" languages="Basque">Seti Gunea</name>
+		<name normalized="Seti Zone" languages="English;official">Seti Zone</name>
+		<name normalized="Seti" languages="Slovak">Setí</name>
+		<name normalized="Zona de Seti" languages="Spanish">Zona de Seti</name>
+		<name normalized="Σeτι" languages="Greek">Σέτι</name>
+		<name normalized="Сiti" languages="Bulgarian">Сети</name>
+		<name normalized="seti an्cl" languages="Nepali">सेती अञ्चल</name>
+		<name normalized="seti an্cl" languages="Bengali">সেতী অঞ্চল</name>
+		<name normalized="seti p્rાંt" languages="Gujarati">સેતી પ્રાંત</name>
+		<name normalized="sti県" languages="Japanese">セティ県</name>
+		<name normalized="塞蒂專區" languages="Chinese">塞蒂專區</name>
+		<name normalized="세티 구" languages="Korean">세티 구</name>
+	</region>
+</regions>

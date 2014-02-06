@@ -1,0 +1,442 @@
+<regions country="Kosovo">
+	<region name="Decan" type="municipality" typeTranslated="opstina">
+		<name normalized="Decan" languages="English;official">Decan</name>
+		<name normalized="Decani" languages="English;official">Decani</name>
+		<name normalized="Dechani" languages="Spanish">Dechani</name>
+		<name normalized="Decan" languages="Dutch;English;German;Turkish">Deçan</name>
+		<name normalized="Decani" languages="Albanian">Deçani</name>
+		<name normalized="Decanai" languages="Lithuanian">Dečanai</name>
+		<name normalized="Decani" languages="Bosnian;Catalan;Croatian;French;Indonesian;Italian;Polish;Portuguese;Serbo-Croatian;Swedish">Dečani</name>
+		<name normalized="Dicaнi" languages="Serbian">Дечане</name>
+		<name normalized="Dicaнi" languages="Russian">Дечани</name>
+		<name normalized="دچאنی" languages="Persian">دچانی</name>
+		<name normalized="代查尼" languages="Chinese">代查尼</name>
+	</region>
+	<region name="Dragash" type="municipality" typeTranslated="opstina">
+		<name normalized="Dragas" languages="English;official">Dragas</name>
+		<name normalized="Dragash" languages="Catalan;Dutch;English;German;official">Dragash</name>
+		<name normalized="Dragas" languages="Turkish">Dragaş</name>
+		<name normalized="Dragas" languages="English;French;Italian;Polish;Romanian;Scots;Serbo-Croatian;Swedish">Dragaš</name>
+		<name normalized="Dragasas" languages="Lithuanian">Dragašas</name>
+		<name normalized="Dрagas" languages="Russian;Serbian">Драгаш</name>
+		<name normalized="Kрakoviщa" languages="Bulgarian">Краковища</name>
+		<name normalized="دrאgאش" languages="Persian">دراگاش</name>
+		<name normalized="德拉加什" languages="Chinese">德拉加什</name>
+	</region>
+	<region name="Ferizaj" type="municipality" typeTranslated="opstina">
+		<name normalized="Ferizaj" languages="Dutch;English;Finnish;German;official;Portuguese;Spanish;Swedish">Ferizaj</name>
+		<name normalized="Ferizaji" languages="Estonian">Ferizaji</name>
+		<name normalized="Ferizovik" languages="Turkish">Ferizovik</name>
+		<name normalized="Komuna e Ferizajit" languages="Albanian">Komuna e Ferizajit</name>
+		<name normalized="Urosevac" languages="English;official">Urosevac</name>
+		<name normalized="Urosevac" languages="Bosnian;Croatian;Czech;French;Hungarian;Italian;Polish;Romanian;Serbo-Croatian">Uroševac</name>
+		<name normalized="Urosevacas" languages="Lithuanian">Uroševacas</name>
+		<name normalized="Uрosivat" languages="Macedonian;Russian;Serbian">Урошевац</name>
+		<name normalized="Фiрizovo" languages="Bulgarian">Феризово</name>
+		<name normalized="אوrوشوאس" languages="Persian">اوروشواس</name>
+		<name normalized="乌罗舍瓦茨" languages="Chinese">乌罗舍瓦茨</name>
+		<name normalized="페리자이" languages="Korean">페리자이</name>
+	</region>
+	<region name="Fushe Kosove" type="municipality" typeTranslated="opstina">
+		<name normalized="Amselfeld" languages="German">Amselfeld</name>
+		<name normalized="Fushe Kosove" languages="English;official">Fushe Kosove</name>
+		<name normalized="Fushe Kosova" languages="Albanian">Fushë Kosova</name>
+		<name normalized="Fushe Kosove" languages="Dutch">Fushë Kosovë</name>
+		<name normalized="Kosova Ovası" languages="Turkish">Kosova Ovası</name>
+		<name normalized="Kosovo Polje" languages="Bosnian;Croatian;English;Estonian;Finnish;French;Galician;Italian;official;Portuguese;Romanian;Serbo-Croatian;Spanish;Swedish">Kosovo Polje</name>
+		<name normalized="Kosovo Pole" languages="Lithuanian">Kosovo Polė</name>
+		<name normalized="Kosowo Pole" languages="Polish">Kosowo Pole</name>
+		<name normalized="Rigomezo" languages="Hungarian">Rigómező</name>
+		<name normalized="Koсovo poлi" languages="Bulgarian;Russian">Косово поле</name>
+		<name normalized="Koсovo Poli" languages="Serbian">Косово Поље</name>
+		<name normalized="fوشیو کوسوfא" languages="Persian">فوشیو کوسوفا</name>
+		<name normalized="hse・ksva" languages="Japanese">フシェ・コソヴァ</name>
+		<name normalized="科索沃波爾耶" languages="Chinese">科索沃波爾耶</name>
+	</region>
+	<region name="Gjakove" type="municipality" typeTranslated="opstina">
+		<name normalized="Dakovica" languages="English;official">Dakovica</name>
+		<name normalized="Djakowica" languages="Polish">Djakowica</name>
+		<name normalized="Dziakovica" languages="Lithuanian">Džiakovica</name>
+		<name normalized="Gjakova" languages="Albanian;English;German;Simple English;Swedish">Gjakova</name>
+		<name normalized="Gjakove" languages="English;official">Gjakove</name>
+		<name normalized="Gjakove" languages="Dutch;Estonian">Gjakovë</name>
+		<name normalized="Yakova" languages="Turkish">Yakova</name>
+		<name normalized="Dakovica" languages="Bosnian;Croatian;Finnish;French;Italian;Portuguese;Serbo-Croatian;Slovenian;Spanish">Đakovica</name>
+		<name normalized="Dzikovita" languages="Russian">Джяковица</name>
+		<name normalized="Dikovo" languages="Bulgarian">Дяково</name>
+		<name normalized="Dakovita" languages="Serbian">Ђаковица</name>
+		<name normalized="jאکوویسא" languages="Persian">جاکوویسا</name>
+		<name normalized="zykva" languages="Japanese">ジャコヴァ</name>
+		<name normalized="贾科维察" languages="Chinese">贾科维察</name>
+		<name normalized="자코비차" languages="Korean">자코비차</name>
+	</region>
+	<region name="Gjilan" type="municipality" typeTranslated="opstina">
+		<name normalized="Gilan" languages="Turkish">Gilan</name>
+		<name normalized="Gjilan" languages="Dutch;English;German;official;Portuguese">Gjilan</name>
+		<name normalized="Gjilani" languages="Albanian">Gjilani</name>
+		<name normalized="Gnilane" languages="Lithuanian">Gnilanė</name>
+		<name normalized="Gnjilane" languages="Bosnian;Catalan;Croatian;English;French;Italian;official;Polish;Romanian;Serbo-Croatian;Spanish;Swedish">Gnjilane</name>
+		<name normalized="Gнiлaнi" languages="Russian">Гнилане</name>
+		<name normalized="Gнiлiнi" languages="Bulgarian">Гниляне</name>
+		<name normalized="Gniлaнi" languages="Serbian">Гњилане</name>
+		<name normalized="jyلאن" languages="Arabic">جيلان</name>
+		<name normalized="gنییلאن" languages="Persian">گنییلان</name>
+		<name normalized="zrn" languages="Japanese">ジラン</name>
+		<name normalized="格尼拉内" languages="Chinese">格尼拉内</name>
+		<name normalized="그닐라네" languages="Korean">그닐라네</name>
+	</region>
+	<region name="Gllogovc" type="municipality" typeTranslated="opstina">
+		<name normalized="Drenasi" languages="Albanian">Drenasi</name>
+		<name normalized="Gllogoc" languages="German">Gllogoc</name>
+		<name normalized="Gllogovc" languages="Dutch;English;official">Gllogovc</name>
+		<name normalized="Glogovac" languages="Croatian;English;French;Italian;official;Polish;Romanian;Serbo-Croatian">Glogovac</name>
+		<name normalized="Glogovacas" languages="Lithuanian">Glogovacas</name>
+		<name normalized="Glogovac" languages="Turkish">Glogovaç</name>
+		<name normalized="Gлogovat" languages="Serbian">Глоговац</name>
+		<name normalized="gلوgووאس" languages="Persian">گلوگوواس</name>
+		<name normalized="格洛戈瓦茨" languages="Chinese">格洛戈瓦茨</name>
+	</region>
+	<region name="Gracanice" type="municipality" typeTranslated="opstina">
+		<name normalized="Gracanica" languages="English;official">Gracanica</name>
+		<name normalized="Gracanice" languages="English;official">Gracanice</name>
+		<name normalized="Gracanica" languages="Albanian">Graçanica</name>
+		<name normalized="Gracanica" languages="Turkish">Graçaniça</name>
+		<name normalized="Gracanica" languages="English;French;German;Lithuanian;Portuguese;Swedish">Gračanica</name>
+		<name normalized="Γκρατσανιτσα" languages="Greek">Γκρατσάνιτσα</name>
+		<name normalized="Gрacaнita" languages="Russian;Serbian">Грачаница</name>
+		<name normalized="Gрacaнiti" languages="Ukrainian">Грачаниця</name>
+	</region>
+	<region name="Hani i Elezit" type="municipality" typeTranslated="opstina">
+		<name normalized="Deneral Jankovic" languages="English;official">Deneral Jankovic</name>
+		<name normalized="Dzeneral Jankovicius" languages="Lithuanian">Dženeral Jankovičius</name>
+		<name normalized="Elezhan" languages="Turkish">Elezhan</name>
+		<name normalized="Han i Elezit" languages="German">Han i Elezit</name>
+		<name normalized="Hani i Elezit" languages="Albanian;Dutch;English;official">Hani i Elezit</name>
+		<name normalized="Deneral Jankovic" languages="English;French;Serbo-Croatian">Đeneral Janković</name>
+		<name normalized="Dziнiрaл-Янkovic" languages="Russian">Дженерал-Янкович</name>
+		<name normalized="Iлizki kaн" languages="Bulgarian">Елезки хан</name>
+		<name normalized="Diнiрaл Jaнkovits" languages="Serbian">Ђенерал Јанковић</name>
+	</region>
+	<region name="Istog" type="municipality" typeTranslated="opstina">
+		<name normalized="Burimi" languages="Albanian">Burimi</name>
+		<name normalized="Istog" languages="Dutch;English;German;official">Istog</name>
+		<name normalized="Istok" languages="Catalan;Croatian;English;French;Italian;official;Polish;Serbo-Croatian;Swedish;Turkish">Istok</name>
+		<name normalized="Istokas" languages="Lithuanian">Istokas</name>
+		<name normalized="Iсtok" languages="Russian;Serbian">Исток</name>
+		<name normalized="אیسtوک" languages="Persian">ایستوک</name>
+		<name normalized="伊斯托克" languages="Chinese">伊斯托克</name>
+	</region>
+	<region name="Junik" type="municipality" typeTranslated="opstina">
+		<name normalized="Junik" languages="Dutch;English;French;German;official;Polish">Junik</name>
+		<name normalized="Junikas" languages="Lithuanian">Junikas</name>
+		<name normalized="Juniku" languages="Albanian">Juniku</name>
+		<name normalized="Yunik" languages="Turkish">Yunik</name>
+		<name normalized="Юнik" languages="Russian">Юник</name>
+		<name normalized="Juнik" languages="Serbian">Јуник</name>
+		<name normalized="尤尼克" languages="Chinese">尤尼克</name>
+	</region>
+	<region name="Kacanik" type="municipality" typeTranslated="opstina">
+		<name normalized="Kacanik" languages="English;official">Kacanik</name>
+		<name normalized="Kacanik" languages="Dutch;German;Turkish">Kaçanik</name>
+		<name normalized="Kacaniku" languages="Albanian">Kaçaniku</name>
+		<name normalized="Kacanik" languages="Croatian;Czech;English;French;Italian;Polish;Serbo-Croatian;Swedish">Kačanik</name>
+		<name normalized="Kacanikas" languages="Lithuanian">Kačanikas</name>
+		<name normalized="Kacaнik" languages="Bulgarian;Russian;Serbian">Качаник</name>
+		<name normalized="کאچאنیک" languages="Persian">کاچانیک</name>
+		<name normalized="卡查尼克" languages="Chinese">卡查尼克</name>
+	</region>
+	<region name="Kamenice/Dardana" type="municipality" typeTranslated="opstina">
+		<name normalized="Dardana" languages="English;official">Dardana</name>
+		<name normalized="Kamenica" languages="Albanian;English;German;official">Kamenica</name>
+		<name normalized="Kamenice" languages="Croatian;Czech;Dutch;English;Esperanto;French;German;Italian;official;Slovak">Kamenice</name>
+		<name normalized="Kamenice/Dardana" languages="English;official">Kamenice/Dardana</name>
+		<name normalized="Kamenice" languages="Dutch">Kamenicë</name>
+		<name normalized="Kamenice" languages="Turkish">Kameniçe</name>
+		<name normalized="Kosovska Kamenica" languages="Croatian;Czech;English;French;Italian;Lithuanian;Polish;Romanian;Serbo-Croatian">Kosovska Kamenica</name>
+		<name normalized="Kaмiнiti" languages="Serbian">Каменице</name>
+		<name normalized="Koсovсka Kaмiнita" languages="Serbian">Косовска Каменица</name>
+		<name normalized="Koсovсka-Kaмiнita" languages="Russian">Косовска-Каменица</name>
+		<name normalized="kوزوfسkא kאmyنytشא" languages="Arabic">كوزوفسكا كامينيتشا</name>
+		<name normalized="کوزوو کאmنیکא" languages="Persian">کوزوو کامنیکا</name>
+	</region>
+	<region name="Kline" type="municipality" typeTranslated="opstina">
+		<name normalized="Klina" languages="Albanian;Croatian;English;French;German;Italian;Lithuanian;official;Polish;Romanian;Serbo-Croatian;Turkish">Klina</name>
+		<name normalized="Kline" languages="English;French;German;Italian;official;Polish;Portuguese;Volapuk">Kline</name>
+		<name normalized="Kline" languages="Dutch">Klinë</name>
+		<name normalized="Kлaйн" languages="Russian">Клайн</name>
+		<name normalized="Kлiнa" languages="Bulgarian;Russian;Serbian">Клина</name>
+		<name normalized="کلینא" languages="Persian">کلینا</name>
+		<name normalized="克利納" languages="Chinese">克利納</name>
+	</region>
+	<region name="Kllokot" type="municipality" typeTranslated="opstina">
+		<name normalized="Kllokot" languages="English;official">Kllokot</name>
+		<name normalized="Klokot" languages="English;official;Turkish">Klokot</name>
+		<name normalized="Klokotas" languages="Lithuanian">Klokotas</name>
+		<name normalized="Kлokot-Vрbovat" languages="Russian">Клокот-Врбовац</name>
+		<name normalized="Opstiнa Kлokot" languages="Serbian">Општина Клокот</name>
+	</region>
+	<region name="Leposaviq" type="municipality" typeTranslated="opstina">
+		<name normalized="Leposavic" languages="English;official">Leposavic</name>
+		<name normalized="Leposaviq" languages="English;official">Leposaviq</name>
+		<name normalized="Leposavic Belediyesi" languages="Turkish">Leposaviç Belediyesi</name>
+		<name normalized="Leposavic" languages="English">Leposavić</name>
+		<name normalized="Лipoсavic" languages="Bulgarian;Russian">Лепосавич</name>
+		<name normalized="Opstiнa Лipoсavits" languages="Serbian">Општина Лепосавић</name>
+	</region>
+	<region name="Lipjan" type="municipality" typeTranslated="opstina">
+		<name normalized="Lipjan" languages="Dutch;English;German;official">Lipjan</name>
+		<name normalized="Lipjani" languages="Albanian">Lipjani</name>
+		<name normalized="Liplan Belediyesi" languages="Turkish">Liplan Belediyesi</name>
+		<name normalized="Liplianas" languages="Lithuanian">Liplianas</name>
+		<name normalized="Lipljan" languages="Croatian;English;French;Italian;official;Polish;Romanian;Serbo-Croatian">Lipljan</name>
+		<name normalized="Лipлiн" languages="Bulgarian;Russian">Липлян</name>
+		<name normalized="Opstiнa Лiplaн" languages="Serbian">Општина Липљан</name>
+		<name normalized="لیpلیאن" languages="Persian">لیپلیان</name>
+	</region>
+	<region name="Malisheve" type="municipality" typeTranslated="opstina">
+		<name normalized="Malisevo" languages="English;official;Spanish">Malisevo</name>
+		<name normalized="Malisheva" languages="Albanian;German">Malisheva</name>
+		<name normalized="Malisheve" languages="English;official">Malisheve</name>
+		<name normalized="Malisheve" languages="Dutch">Malishevë</name>
+		<name normalized="Malisova" languages="Turkish">Malişova</name>
+		<name normalized="Malisevas" languages="Lithuanian">Mališevas</name>
+		<name normalized="Malisevo" languages="Croatian;English;French;Italian;Polish;Romanian;Scots;Serbo-Croatian">Mališevo</name>
+		<name normalized="Мaлisivo" languages="Bulgarian;Russian;Serbian">Малишево</name>
+		<name normalized="mאلیشوو" languages="Persian">مالیشوو</name>
+	</region>
+	<region name="Mamushe" type="municipality" typeTranslated="opstina">
+		<name normalized="Mamusa" languages="English;official">Mamusa</name>
+		<name normalized="Mamusha" languages="German">Mamusha</name>
+		<name normalized="Mamushe" languages="English;official">Mamushe</name>
+		<name normalized="Mamusa" languages="Dutch;Turkish">Mamuşa</name>
+		<name normalized="Mamusa" languages="English;French;Lithuanian;Scots">Mamuša</name>
+		<name normalized="Мaмusa" languages="Russian">Мамуша</name>
+	</region>
+	<region name="Mitrovice" type="municipality" typeTranslated="opstina">
+		<name normalized="Civitas Sancti Demetrii" languages="Latin">Civitas Sancti Demetrii</name>
+		<name normalized="Kosovo Mitrovica" languages="Lithuanian">Kosovo Mitrovica</name>
+		<name normalized="Kosovska Mitrovica" languages="Bosnian;Croatian;Czech;Danish;English;Esperanto;Finnish;French;German;Hungarian;Italian;Portuguese;Romanian;Serbo-Croatian;Simple English;Spanish">Kosovska Mitrovica</name>
+		<name normalized="Kosowska Mitrowica" languages="Polish">Kosowska Mitrowica</name>
+		<name normalized="Mitrovica" languages="Albanian;English;Norwegian (bokmal);official;Swedish">Mitrovica</name>
+		<name normalized="Mitrovice" languages="Czech;English;official;Scots">Mitrovice</name>
+		<name normalized="Mitrovice" languages="Dutch;Estonian">Mitrovicë</name>
+		<name normalized="Mitrovica" languages="Turkish">Mitroviça</name>
+		<name normalized="Koсovсkae-Мitрovitae" languages="Ossetic">Косовскæ-Митровицæ</name>
+		<name normalized="Koсovсka Мitрovita" languages="Bulgarian;Macedonian;Serbian">Косовска Митровица</name>
+		<name normalized="Koсovсka-Мitрovita" languages="Russian">Косовска-Митровица</name>
+		<name normalized="Koсovсьka Мitрovita" languages="Ukrainian">Косовська Мітровіца</name>
+		<name normalized="mytrوfytسא" languages="Arabic">ميتروفيتسا</name>
+		<name normalized="کوسوfسکא mtrوویسא" languages="Persian">کوسوفسکا متروویسا</name>
+		<name normalized="mtrvita" languages="Japanese">ミトロヴィツァ</name>
+		<name normalized="科索沃米特罗维察" languages="Chinese">科索沃米特罗维察</name>
+		<name normalized="코소브스카미트로비차" languages="Korean">코소브스카미트로비차</name>
+	</region>
+	<region name="Novoberde" type="municipality" typeTranslated="opstina">
+		<name normalized="Artana" languages="Albanian">Artana</name>
+		<name normalized="Nobırda" languages="Turkish">Nobırda</name>
+		<name normalized="Novo Brdas" languages="Lithuanian">Novo Brdas</name>
+		<name normalized="Novo Brdo" languages="Bosnian;Croatian;English;French;German;Italian;official;Polish;Romanian;Serbo-Croatian;Swedish">Novo Brdo</name>
+		<name normalized="Novoberde" languages="English;official">Novoberde</name>
+		<name normalized="Novoberde" languages="Dutch">Novobërdë</name>
+		<name normalized="Нovo Bрdo" languages="Serbian">Ново Брдо</name>
+		<name normalized="Нovo bърdo" languages="Bulgarian">Ново бърдо</name>
+		<name normalized="Нovo-Bрdo" languages="Russian">Ново-Брдо</name>
+		<name normalized="نوو brدو" languages="Persian">نوو بردو</name>
+		<name normalized="新布爾多" languages="Chinese">新布爾多</name>
+	</region>
+	<region name="Obiliq" type="municipality" typeTranslated="opstina">
+		<name normalized="Kastriot" languages="Turkish">Kastriot</name>
+		<name normalized="Kastrioti" languages="Albanian">Kastrioti</name>
+		<name normalized="Obilic" languages="English;official">Obilic</name>
+		<name normalized="Obiliq" languages="Dutch;English;German;official">Obiliq</name>
+		<name normalized="Obilic" languages="Croatian;English;French;Hungarian;Italian;Norwegian (bokmal);Polish;Portuguese;Romanian;Serbo-Croatian">Obilić</name>
+		<name normalized="Obilicius" languages="Lithuanian">Obiličius</name>
+		<name normalized="Obiлic" languages="Russian">Обилич</name>
+		<name normalized="Obiлits" languages="Serbian">Обилић</name>
+		<name normalized="أوbyلytش" languages="Arabic">أوبيليتش</name>
+		<name normalized="אوbیلیچ" languages="Persian">اوبیلیچ</name>
+		<name normalized="奧比利奇" languages="Chinese">奧比利奇</name>
+	</region>
+	<region name="Partesh" type="municipality" typeTranslated="opstina">
+		<name normalized="Conjugacion francesa" languages="Spanish">Conjugación francesa</name>
+		<name normalized="Conjugacao da lingua francesa" languages="Portuguese">Conjugação da língua francesa</name>
+		<name normalized="French conjugation" languages="English">French conjugation</name>
+		<name normalized="Partes" languages="English;official">Partes</name>
+		<name normalized="Partesh" languages="English;official">Partesh</name>
+		<name normalized="Partes" languages="Turkish">Parteş</name>
+		<name normalized="Partes" languages="English;French;German">Parteš</name>
+		<name normalized="Partesas" languages="Lithuanian">Partešas</name>
+		<name normalized="Paрtis" languages="Russian;Serbian">Партеш</name>
+		<name normalized="法语动词" languages="Chinese">法语动词</name>
+	</region>
+	<region name="Peje" type="municipality" typeTranslated="opstina">
+		<name normalized="Pec" languages="Czech;Dutch;English;German;official;Polish;Scots;Slovak">Pec</name>
+		<name normalized="Peje" languages="English;official">Peje</name>
+	</region>
+	<region name="Podujeve" type="municipality" typeTranslated="opstina">
+		<name normalized="Besiana" languages="Albanian;Swedish">Besiana</name>
+		<name normalized="Podujeva" languages="German">Podujeva</name>
+		<name normalized="Podujevas" languages="Lithuanian">Podujevas</name>
+		<name normalized="Podujeve" languages="English;official">Podujeve</name>
+		<name normalized="Podujevo" languages="Bosnian;Croatian;English;French;Italian;official;Polish;Romanian;Serbo-Croatian;Spanish">Podujevo</name>
+		<name normalized="Podujeve" languages="Dutch">Podujevë</name>
+		<name normalized="Poduyeva" languages="Turkish">Poduyeva</name>
+		<name normalized="Poduivo" languages="Bulgarian;Russian">Подуево</name>
+		<name normalized="Podujivo" languages="Serbian">Подујево</name>
+		<name normalized="pودویfو" languages="Persian">پودویفو</name>
+		<name normalized="波杜耶沃" languages="Chinese">波杜耶沃</name>
+	</region>
+	<region name="Prishtine" type="municipality" typeTranslated="opstina">
+		<name normalized="Prishtina" languages="Albanian;Asturian;Breton;Cornish;Hungarian;Manx;Occitan;Simple English">Prishtina</name>
+		<name normalized="Prishtine" languages="English;official">Prishtine</name>
+		<name normalized="Pristina" languages="Afrikaans;Basque;Catalan;Danish;Dutch;English;Finnish;French;Galician;Indonesian;Italian;Luxembourgish;Novial;official;Papiamento;Portuguese;Samoan;Scots;Shona;Sicilian;Spanish;Swedish;Waray;Western Frisian;Yoruba">Pristina</name>
+		<name normalized="Prisztina" languages="Polish">Prisztina</name>
+		<name normalized="Prixtina" languages="Maltese">Prixtina</name>
+		<name normalized="Pristino" languages="Esperanto">Priŝtino</name>
+		<name normalized="Pristina" languages="Azerbaijani">Priştina</name>
+		<name normalized="Pristine" languages="Turkish">Priştine</name>
+		<name normalized="Pristin" languages="Veps">Prištin</name>
+		<name normalized="Pristina" languages="Bosnian;Chinese (Min Nan);Croatian;Czech;Estonian;German;Interlingue;Javanese;Latvian;Lithuanian;Low German;Malay;Northern Frisian;Norwegian (bokmal);Norwegian Nynorsk;Serbo-Croatian;Slovak;Slovenian;Upper Sorbian;Vietnamese;Volapuk">Priština</name>
+		<name normalized="Pristina" languages="Romanian">Priștina</name>
+		<name normalized="Pristina" languages="Piedmontese">Prìstina</name>
+		<name normalized="Prestena" languages="Samogitian">Prėštėna</name>
+		<name normalized="Πριστινα" languages="Greek">Πρίστινα</name>
+		<name normalized="Goрad Pрыstiнa" languages="Belarusian">Горад Прышціна</name>
+		<name normalized="Pрistiнae" languages="Ossetic">Приштинæ</name>
+		<name normalized="Pрistiнa" languages="Chechen;Kazakh;Macedonian;Mongolian;Russian;Sakha;Serbian;Udmurt;Ukrainian">Приштина</name>
+		<name normalized="Pрiщiнa" languages="Bulgarian">Прищина</name>
+		<name normalized="Pрыstiнa" languages="biлaрuсkai (taрaskivita)‎">Прышціна</name>
+		<name normalized="Prիstինա" languages="Armenian">Պրիշտինա</name>
+		<name normalized="prישtיnh" languages="Hebrew">פרישטינה</name>
+		<name normalized="bryشtyنא" languages="Arabic">بريشتينا</name>
+		<name normalized="prیسٹینא" languages="Urdu">پریسٹینا</name>
+		<name normalized="prیسٹینہ" languages="Western Punjabi">پریسٹینہ</name>
+		<name normalized="prیشtینא" languages="Persian">پریشتینا</name>
+		<name normalized="p्ris्टinा" languages="Marathi">प्रिस्टिना</name>
+		<name normalized="p੍ris਼tinਾ" languages="Punjabi">ਪ੍ਰਿਸ਼ਤੀਨਾ</name>
+		<name normalized="பிரிஸ்டினா" languages="Tamil">பிரிஸ்டினா</name>
+		<name normalized="พริชตีนา" languages="Thai">พริชตีนา</name>
+		<name normalized="པི་རི་སི་ཊི་ན།" languages="Tibetan">པི་རི་སི་ཊི་ན།</name>
+		<name normalized="პრიშტინა" languages="Georgian">პრიშტინა</name>
+		<name normalized="prsytin" languages="Japanese">プリシュティナ</name>
+		<name normalized="普里什蒂納" languages="Cantonese">普里什蒂納</name>
+		<name normalized="普里什蒂纳" languages="Chinese">普里什蒂纳</name>
+		<name normalized="프리슈티나" languages="Korean">프리슈티나</name>
+	</region>
+	<region name="Prizren" type="municipality" typeTranslated="opstina">
+		<name normalized="Prizren" languages="Bosnian;Catalan;Croatian;Czech;Dutch;English;Esperanto;Estonian;Finnish;French;German;Hungarian;Interlingue;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Slovenian;Spanish;Swedish;Turkish;Waray">Prizren</name>
+		<name normalized="Prizrena" languages="Latvian">Prizrena</name>
+		<name normalized="Prizrenas" languages="Lithuanian">Prizrenas</name>
+		<name normalized="Prizreni" languages="Albanian">Prizreni</name>
+		<name normalized="Πριζρεν" languages="Greek">Πρίζρεν</name>
+		<name normalized="Pрizрiн" languages="Bulgarian;Macedonian;Russian;Serbian">Призрен</name>
+		<name normalized="Pрiꙁрѣнь" languages="Church Slavic">Приꙁрѣнь</name>
+		<name normalized="Pрizрiн" languages="Ukrainian">Прізрен</name>
+		<name normalized="bryزrن" languages="Arabic">بريزرن</name>
+		<name normalized="prیزrن" languages="Persian">پریزرن</name>
+		<name normalized="przrn" languages="Japanese">プリズレン</name>
+		<name normalized="普里兹伦" languages="Chinese">普里兹伦</name>
+		<name normalized="프리즈렌" languages="Korean">프리즈렌</name>
+	</region>
+	<region name="Rahovec" type="municipality" typeTranslated="opstina">
+		<name normalized="Orahovac" languages="Croatian;English;French;Italian;Norwegian (bokmal);official;Polish;Serbo-Croatian;Spanish">Orahovac</name>
+		<name normalized="Orahovacas" languages="Lithuanian">Orahovacas</name>
+		<name normalized="Rahofca" languages="Turkish">Rahofça</name>
+		<name normalized="Rahovec" languages="Dutch;English;German;official">Rahovec</name>
+		<name normalized="Rahoveci" languages="Albanian">Rahoveci</name>
+		<name normalized="Oрakovat" languages="Bulgarian;Russian;Serbian">Ораховац</name>
+		<name normalized="أوrאخوfאtش" languages="Arabic">أوراخوفاتش</name>
+		<name normalized="rאhووس" languages="Persian">راهووس</name>
+	</region>
+	<region name="Ranillug" type="municipality" typeTranslated="opstina">
+		<name normalized="Ranillug" languages="English;official">Ranillug</name>
+		<name normalized="Ranilug" languages="English;official">Ranilug</name>
+		<name normalized="Ranilug Municipality" languages="English">Ranilug Municipality</name>
+	</region>
+	<region name="Shterpce" type="municipality" typeTranslated="opstina">
+		<name normalized="Shterpce" languages="English;official">Shterpce</name>
+		<name normalized="Shterpca" languages="Albanian">Shtërpca</name>
+		<name normalized="Strpce" languages="English;official">Strpce</name>
+		<name normalized="Stırpce" languages="Turkish">Ştırpçe</name>
+		<name normalized="Strpce" languages="Bosnian;Croatian;Dutch;English;French;German;Italian;Polish;Romanian;Serbo-Croatian;Spanish">Štrpce</name>
+		<name normalized="Strpce" languages="Lithuanian">Štrpcė</name>
+		<name normalized="Stрpti" languages="Russian;Serbian">Штрпце</name>
+		<name normalized="Щръbti" languages="Bulgarian">Щръбце</name>
+		<name normalized="אشtrpس" languages="Persian">اشترپس</name>
+		<name normalized="什特爾普采" languages="Chinese">什特爾普采</name>
+	</region>
+	<region name="Shtime" type="municipality" typeTranslated="opstina">
+		<name normalized="Shtime" languages="Albanian;Dutch;English;German;official">Shtime</name>
+		<name normalized="Stimlje" languages="English;official">Stimlje</name>
+		<name normalized="Stimle" languages="Turkish">Ştimle</name>
+		<name normalized="Stimlje" languages="Croatian;English;French;Italian;Polish;Romanian;Serbo-Croatian">Štimlje</name>
+		<name normalized="Stimle" languages="Lithuanian">Štimlė</name>
+		<name normalized="Stiмлi" languages="Macedonian;Russian">Штимле</name>
+		<name normalized="Stiмli" languages="Serbian">Штимље</name>
+		<name normalized="אشtیmل" languages="Persian">اشتیمل</name>
+	</region>
+	<region name="Skenderaj" type="municipality" typeTranslated="opstina">
+		<name normalized="Opstina Srbica" languages="Serbo-Croatian">Opština Srbica</name>
+		<name normalized="Skenderaj" languages="English;French;official">Skenderaj</name>
+		<name normalized="Skenderay" languages="Turkish">Skenderay</name>
+		<name normalized="Skenderaj" languages="Albanian;Dutch;German;Swedish">Skënderaj</name>
+		<name normalized="Srbica" languages="Croatian;English;Finnish;Italian;Lithuanian;official;Polish;Romanian">Srbica</name>
+		<name normalized="Срbita" languages="Serbian">Србица</name>
+		<name normalized="سkندrאy" languages="Arabic">سكندراي</name>
+		<name normalized="srbیکא" languages="Persian">صربیکا</name>
+		<name normalized="skndri" languages="Japanese">スケンデライ</name>
+		<name normalized="斯爾比察" languages="Chinese">斯爾比察</name>
+	</region>
+	<region name="Suhareke" type="municipality" typeTranslated="opstina">
+		<name normalized="Suhareka" languages="German">Suhareka</name>
+		<name normalized="Suhareke" languages="English;official">Suhareke</name>
+		<name normalized="Suhareke" languages="Dutch">Suharekë</name>
+		<name normalized="Suva Reka" languages="Croatian;Czech;English;French;Italian;Lithuanian;official;Polish;Scots;Serbo-Croatian;Spanish">Suva Reka</name>
+		<name normalized="Suvareka" languages="Turkish">Suvareka</name>
+		<name normalized="Theranda" languages="Albanian">Theranda</name>
+		<name normalized="Сuva Рika" languages="Serbian">Сува Река</name>
+		<name normalized="Сuva-Рika" languages="Russian">Сува-Река</name>
+		<name normalized="Сuka рika" languages="Bulgarian">Суха река</name>
+		<name normalized="سووא rکא" languages="Persian">سووا رکا</name>
+		<name normalized="shrk" languages="Japanese">スハレカ</name>
+	</region>
+	<region name="Viti" type="municipality" typeTranslated="opstina">
+		<name normalized="Viti" languages="Dutch;English;official;Turkish">Viti</name>
+		<name normalized="Vitia" languages="Albanian;German;Romanian">Vitia</name>
+		<name normalized="Vitina" languages="Croatian;English;French;Italian;Lithuanian;official;Polish;Serbo-Croatian">Vitina</name>
+		<name normalized="Vitiнa" languages="Serbian">Витина</name>
+		<name normalized="fytyא" languages="Arabic">فيتيا</name>
+		<name normalized="ویtیא" languages="Persian">ویتیا</name>
+		<name normalized="維蒂納" languages="Chinese">維蒂納</name>
+	</region>
+	<region name="Vushtrri" type="municipality" typeTranslated="opstina">
+		<name normalized="Opstina Vucitrn" languages="Serbo-Croatian">Opština Vučitrn</name>
+		<name normalized="Vıcıtırın" languages="Turkish">Vıçıtırın</name>
+		<name normalized="Vucitrn" languages="English;official">Vucitrn</name>
+		<name normalized="Vushtrri" languages="Dutch;English;French;official;Swedish">Vushtrri</name>
+		<name normalized="Vushtrria" languages="Albanian;German">Vushtrria</name>
+		<name normalized="Vucitrn" languages="Bosnian;Croatian;Czech;English;Finnish;Hungarian;Italian;Polish;Portuguese;Romanian">Vučitrn</name>
+		<name normalized="Vucitrnas" languages="Lithuanian">Vučitrnas</name>
+		<name normalized="Vucitрн" languages="Russian;Serbian">Вучитрн</name>
+		<name normalized="Vucitрън" languages="Bulgarian">Вучитрън</name>
+		<name normalized="ووچیtrن" languages="Persian">ووچیترن</name>
+		<name normalized="武契特爾恩" languages="Chinese">武契特爾恩</name>
+	</region>
+	<region name="Zubin Potok" type="municipality" typeTranslated="opstina">
+		<name normalized="Opstina Zubin Potok" languages="German">Opština Zubin Potok</name>
+		<name normalized="Zubin Potok" languages="Croatian;Czech;Dutch;English;French;Hungarian;Italian;official;Polish;Romanian;Scots;Serbo-Croatian;Spanish;Turkish">Zubin Potok</name>
+		<name normalized="Zubin Potokas" languages="Lithuanian">Zubin Potokas</name>
+		<name normalized="Zubin Potoku" languages="Albanian">Zubin Potoku</name>
+		<name normalized="Zubiн Potok" languages="Serbian">Зубин Поток</name>
+		<name normalized="زوbین pوtوک" languages="Persian">زوبین پوتوک</name>
+	</region>
+	<region name="Zvecan" type="municipality" typeTranslated="opstina">
+		<name normalized="Zvecan" languages="English;official">Zvecan</name>
+		<name normalized="Zvecan" languages="Turkish">Zveçan</name>
+		<name normalized="Zvecani" languages="Albanian">Zveçani</name>
+		<name normalized="Zvecan" languages="Croatian;Dutch;English;Finnish;French;German;Italian;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish">Zvečan</name>
+		<name normalized="Zvecanas" languages="Lithuanian">Zvečanas</name>
+		<name normalized="Zvicaн" languages="Russian;Serbian">Звечан</name>
+		<name normalized="زوچאن" languages="Persian">زوچان</name>
+	</region>
+</regions>

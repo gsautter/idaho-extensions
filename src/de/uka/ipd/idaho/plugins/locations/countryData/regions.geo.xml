@@ -1,0 +1,474 @@
+<regions country="Georgia">
+	<region name="Abkhazia" type="autonomous republic" typeTranslated="avtom respublika">
+		<name normalized="Abascia" languages="Latin">Abascia</name>
+		<name normalized="Abcasia" languages="Italian;lumbaart">Abcasia</name>
+		<name normalized="Abcazia" languages="Occitan">Abcazia</name>
+		<name normalized="Abchasien" languages="Bavarian;German">Abchasien</name>
+		<name normalized="Abchasie" languages="Afrikaans">Abchasië</name>
+		<name normalized="Abchazien" languages="Swedish">Abchazien</name>
+		<name normalized="Abchazija" languages="Lithuanian">Abchazija</name>
+		<name normalized="Abchazie" languages="Dutch">Abchazië</name>
+		<name normalized="Abchazja" languages="Polish">Abchazja</name>
+		<name normalized="Abchazyjo" languages="Silesian">Abchazyjo</name>
+		<name normalized="Abchazie" languages="Czech">Abcházie</name>
+		<name normalized="Abchazsko" languages="Slovak">Abcházsko</name>
+		<name normalized="Abecasia" languages="Portuguese">Abecásia</name>
+		<name normalized="Abhaasia" languages="Estonian">Abhaasia</name>
+		<name normalized="Abhasia" languages="Finnish">Abhasia</name>
+		<name normalized="Abhasya" languages="Pampanga">Abhasya</name>
+		<name normalized="Abhazia" languages="Ladino;Romanian">Abhazia</name>
+		<name normalized="Abhazii" languages="Veps">Abhazii</name>
+		<name normalized="Abhazija" languages="Bosnian;Croatian;Serbo-Croatian;Slovenian">Abhazija</name>
+		<name normalized="Abhaziya" languages="Crimean Turkish;Gagauz">Abhaziya</name>
+		<name normalized="Abhaziya" languages="Turkmen">Abhaziýa</name>
+		<name normalized="Abhazya" languages="Turkish">Abhazya</name>
+		<name normalized="Abhazia" languages="Hungarian">Abházia</name>
+		<name normalized="Abhazija" languages="Latvian">Abhāzija</name>
+		<name normalized="Abjasia" languages="Chavacano de Zamboanga;Spanish">Abjasia</name>
+		<name normalized="Abkasia" languages="Novial">Abkasia</name>
+		<name normalized="Abkasya" languages="Tagalog">Abkasya</name>
+		<name normalized="Abkasia" languages="Icelandic">Abkasía</name>
+		<name normalized="Abkazeje" languages="Samogitian">Abkazėjė</name>
+		<name normalized="Abkhasia" languages="Aragonese;Asturian;Norwegian (bokmal);Norwegian Nynorsk">Abkhasia</name>
+		<name normalized="Abkhasien" languages="Danish">Abkhasien</name>
+		<name normalized="Abkhazia" languages="Albanian;Basque;Cebuano;English;Fiji Hindi;Galician;Ido;Indonesian;Interlingue;Javanese;Malay;official;Simple English;Somali;Sundanese;Swahili;Vietnamese;Waray;Yoruba">Abkhazia</name>
+		<name normalized="Abkhazie" languages="Franco-Provencal;French;Scots">Abkhazie</name>
+		<name normalized="Abkhazia" languages="Catalan">Abkhàzia</name>
+		<name normalized="Abkhazzia" languages="Sicilian">Abkhàzzia</name>
+		<name normalized="Abukaziya" languages="Kinyarwanda">Abukaziya</name>
+		<name normalized="Abxaziya" languages="Azerbaijani;Uzbek">Abxaziya</name>
+		<name normalized="Abxazya" languages="Kabyle;Kurdish">Abxazya</name>
+		<name normalized="Abhazio" languages="Esperanto">Abĥazio</name>
+		<name normalized="An Abcais" languages="Irish">An Abcáis</name>
+		<name normalized="Ap'khazet'is Avtonomiuri Respublika" languages="English;official">Ap'khazet'is Avtonomiuri Respublika</name>
+		<name normalized="Apkhazetis Avtonomiuri Respublika" languages="English;official">Apkhazetis Avtonomiuri Respublika</name>
+		<name normalized="Labkasan" languages="Volapuk">Labkasän</name>
+		<name normalized="Yn Abcaaish" languages="Manx">Yn Abcaaish</name>
+		<name normalized="Αμπχαζια" languages="Greek">Αμπχαζία</name>
+		<name normalized="Abkaz" languages="Ossetic">Абхаз</name>
+		<name normalized="Abkaz oрoн" languages="Mongolian">Абхаз орон</name>
+		<name normalized="Abkazi" languages="Chechen;Chuvash;Hill Mari">Абхази</name>
+		<name normalized="Abkaziй" languages="Eastern Mari">Абхазий</name>
+		<name normalized="Abkazii" languages="Bashkir;Bulgarian;Kazakh;Komi;Lezghian;Russian;Sakha;Tatar">Абхазия</name>
+		<name normalized="Abkazija" languages="Serbian">Абхазија</name>
+		<name normalized="Abkazii" languages="Belarusian;Ukrainian;biлaрuсkai (taрaskivita)‎">Абхазія</name>
+		<name normalized="Abkaꙁyꙗ" languages="Church Slavic">Абхаꙁїꙗ</name>
+		<name normalized="Azgъiй" languages="Kabardian">Азгъей</name>
+		<name normalized="Apсiн Taңһc" languages="Kalmyk">Апсин Таңһч</name>
+		<name normalized="Apkazija" languages="Macedonian">Апхазија</name>
+		<name normalized="Aҧсны" languages="Abkhazian">Аҧсны</name>
+		<name normalized="Kacыpсы" languages="Karachay-Balkar">Хачыпсы</name>
+		<name normalized="Աbxաzիա" languages="Armenian">Աբխազիա</name>
+		<name normalized="אbhזיh" languages="Hebrew">אבחזיה</name>
+		<name normalized="آbخאز" languages="Persian">آبخاز</name>
+		<name normalized="آbخאزیא" languages="Mazanderani">آبخازیا</name>
+		<name normalized="أbخאزyא" languages="Arabic">أبخازيا</name>
+		<name normalized="ئەbخאزیא" languages="Sorani Kurdish">ئەبخازیا</name>
+		<name normalized="אbخאزyא" languages="Urdu">ابخازيا</name>
+		<name normalized="אbخאزیہ" languages="Western Punjabi">ابخازیہ</name>
+		<name normalized="abk़ाj़iyा" languages="Hindi">अबख़ाज़िया</name>
+		<name normalized="abkाjiyा" languages="Marathi">अबखाझिया</name>
+		<name normalized="abkাjiy়া" languages="Bengali">আবখাজিয়া</name>
+		<name normalized="abk਼ਾj਼ia" languages="Punjabi">ਅਬਖ਼ਾਜ਼ੀਆ</name>
+		<name normalized="ଆବାଖାଜିଆ" languages="Oriya">ଆବାଖାଜିଆ</name>
+		<name normalized="அப்காசியா" languages="Tamil">அப்காசியா</name>
+		<name normalized="అబ్‌ఖజియా" languages="Telugu">అబ్‌ఖజియా</name>
+		<name normalized="അബ്ഖാസിയ" languages="Malayalam">അബ്ഖാസിയ</name>
+		<name normalized="อับฮาเซีย" languages="Thai">อับฮาเซีย</name>
+		<name normalized="აფხაზეთი" languages="Georgian;Mingrelian">აფხაზეთი</name>
+		<name normalized="abhza" languages="Japanese">アブハジア</name>
+		<name normalized="阿布哈茲" languages="Cantonese;Chinese">阿布哈茲</name>
+		<name normalized="압하스" languages="Korean">압하스</name>
+	</region>
+	<region name="Ajaria" type="autonomous republic" typeTranslated="avtom respublika">
+		<name normalized="Acara" languages="Gagauz">Acara</name>
+		<name normalized="Acara Ozerk Cumhuriyeti" languages="Turkish">Acara Özerk Cumhuriyeti</name>
+		<name normalized="Acaristan" languages="Kurdish">Acaristan</name>
+		<name normalized="Acarıstan Muxtar Respublikası" languages="Azerbaijani">Acarıstan Muxtar Respublikası</name>
+		<name normalized="Acharis Avtonomiuri Respublika" languages="English;official">Acharis Avtonomiuri Respublika</name>
+		<name normalized="Adjara" languages="English;Occitan;Pampanga;Portuguese;Scots;Vietnamese;Waray;Yoruba">Adjara</name>
+		<name normalized="Adjaria" languages="Basque;Romanian">Adjaria</name>
+		<name normalized="Adjarie" languages="French">Adjarie</name>
+		<name normalized="Adjarien" languages="Danish">Adjarien</name>
+		<name normalized="Adjaria" languages="Catalan">Adjària</name>
+		<name normalized="Adscharien" languages="German">Adscharien</name>
+		<name normalized="Adsjaria" languages="Norwegian (bokmal);Norwegian Nynorsk">Adsjaria</name>
+		<name normalized="Adzjarien" languages="Swedish">Adzjarien</name>
+		<name normalized="Adzjarie" languages="Afrikaans;Dutch">Adzjarië</name>
+		<name normalized="Adzsaria" languages="Hungarian">Adzsaria</name>
+		<name normalized="Adzaria" languages="Polish">Adżaria</name>
+		<name normalized="Adzaaria" languages="Estonian">Adžaaria</name>
+		<name normalized="Adzaria" languages="Finnish">Adžaria</name>
+		<name normalized="Adzarija" languages="Bosnian;Lithuanian;Serbo-Croatian;Slovenian">Adžarija</name>
+		<name normalized="Adzarsko" languages="Slovak">Adžarsko</name>
+		<name normalized="Adzarie" languages="Czech">Adžárie</name>
+		<name normalized="Adzarija" languages="Latvian">Adžārija</name>
+		<name normalized="Agiaria" languages="Italian;Sicilian">Agiaria</name>
+		<name normalized="Ajara" languages="Kinyarwanda">Ajara</name>
+		<name normalized="Ajaria" languages="English;Indonesian;Javanese;Malay;official;Sundanese;Welsh">Ajaria</name>
+		<name normalized="Ayaria" languages="Spanish">Ayaria</name>
+		<name normalized="Agario" languages="Esperanto">Aĝario</name>
+		<name normalized="Lacaran" languages="Volapuk">Lacarän</name>
+		<name normalized="Αζαρια" languages="Greek">Αζαρία</name>
+		<name normalized="Adzaрa" languages="biлaрuсkai (taрaskivita)‎">Аджара</name>
+		<name normalized="Adzaрi" languages="Chuvash">Аджари</name>
+		<name normalized="Adzaрie" languages="Kabardian">Аджариэ</name>
+		<name normalized="Adzaрii" languages="Bashkir;Bulgarian;Russian">Аджария</name>
+		<name normalized="Adzaрыi" languages="Belarusian">Аджарыя</name>
+		<name normalized="Adzaрii" languages="Ukrainian">Аджарія</name>
+		<name normalized="Acъaр" languages="Ossetic">Ачъар</name>
+		<name normalized="Adzaрija" languages="Macedonian;Serbian">Аџарија</name>
+		<name normalized="Acaрtəылatəi Avtoнoмtə Рiсpubлika" languages="Abkhazian">Аҷартәылатәи Автономтә Республика</name>
+		<name normalized="Աjաrիա" languages="Armenian">Աջարիա</name>
+		<name normalized="אג'rיh" languages="Hebrew">אג'ריה</name>
+		<name normalized="آjאrسtאن" languages="Persian">آجارستان</name>
+		<name normalized="أjאryא" languages="Arabic">أجاريا</name>
+		<name normalized="אیڈjאrא" languages="Western Punjabi">ایڈجارا</name>
+		<name normalized="അജാറ" languages="Malayalam">അജാറ</name>
+		<name normalized="อัดจารา" languages="Thai">อัดจารา</name>
+		<name normalized="აჭარაშ ავტონომიური რესპუბლიკა" languages="Mingrelian">აჭარაშ ავტონომიური რესპუბლიკა</name>
+		<name normalized="აჭარის ავტონომიური რესპუბლიკა" languages="Georgian">აჭარის ავტონომიური რესპუბლიკა</name>
+		<name normalized="azyra自治共和国" languages="Japanese">アジャリア自治共和国</name>
+		<name normalized="阿扎尔" languages="Chinese">阿扎尔</name>
+		<name normalized="아자리야 공화국" languages="Korean">아자리야 공화국</name>
+	</region>
+	<region name="Guria" type="region" typeTranslated="mkhare">
+		<name normalized="Goeria" languages="Dutch">Goeria</name>
+		<name normalized="Goreje" languages="Samogitian">Gorėjė</name>
+		<name normalized="Gouria" languages="Breton">Gouria</name>
+		<name normalized="Gourie" languages="French">Gourie</name>
+		<name normalized="Guria" languages="English;Estonian;Finnish;Hungarian;Italian;Norwegian (bokmal);official;Pampanga;Polish;Spanish;Turkish;Vietnamese;Waray">Guria</name>
+		<name normalized="Guria Mkhare" languages="English;official">Guria Mkhare</name>
+		<name normalized="Guria Region" languages="English;official">Guria Region</name>
+		<name normalized="Gurie" languages="Czech;Scots">Gurie</name>
+		<name normalized="Gurien" languages="German;Swedish">Gurien</name>
+		<name normalized="Gurija" languages="Lithuanian">Gurija</name>
+		<name normalized="Gurio" languages="Esperanto">Gurio</name>
+		<name normalized="Guria" languages="Catalan">Gúria</name>
+		<name normalized="Quriya" languages="Azerbaijani">Quriya</name>
+		<name normalized="Guрi" languages="Ossetic">Гури</name>
+		<name normalized="Guрii" languages="Bulgarian;Russian">Гурия</name>
+		<name normalized="Guрija" languages="Macedonian;Serbian">Гурија</name>
+		<name normalized="Guрыi" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Гурыя</name>
+		<name normalized="Guрii" languages="Ukrainian">Гурія</name>
+		<name normalized="Gəырia" languages="Abkhazian">Гәыриа</name>
+		<name normalized="Գvyrիա" languages="Armenian">Գուրիա</name>
+		<name normalized="גvrיh" languages="Hebrew">גוריה</name>
+		<name normalized="gوrیא" languages="Persian;Western Punjabi">گوریا</name>
+		<name normalized="გურიის მხარე" languages="Georgian">გურიის მხარე</name>
+		<name normalized="古利亞州" languages="Chinese">古利亞州</name>
+		<name normalized="구리아 주" languages="Korean">구리아 주</name>
+	</region>
+	<region name="Imereti" type="region" typeTranslated="mkhare">
+		<name normalized="Imerethi" languages="Breton;Estonian">Imerethi</name>
+		<name normalized="Imereti" languages="Azerbaijani;Dutch;English;Finnish;Hungarian;Norwegian (bokmal);official;Pampanga;Scots;Turkish;Vietnamese;Waray">Imereti</name>
+		<name normalized="Imereti Mkhare" languages="English;official">Imereti Mkhare</name>
+		<name normalized="Imereti Region" languages="English;official">Imereti Region</name>
+		<name normalized="Imeretia" languages="Polish">Imeretia</name>
+		<name normalized="Imeretie" languages="Czech">Imeretie</name>
+		<name normalized="Imeretien" languages="German;Swedish">Imeretien</name>
+		<name normalized="Imeretija" languages="Lithuanian">Imeretija</name>
+		<name normalized="Imeretio" languages="Esperanto">Imeretio</name>
+		<name normalized="Imerezia" languages="Italian">Imerezia</name>
+		<name normalized="Imericia" languages="Spanish">Imericia</name>
+		<name normalized="Imerethie" languages="French">Iméréthie</name>
+		<name normalized="Regio d'Imeretia" languages="Catalan">Regió d'Imerètia</name>
+		<name normalized="Iмiрit" languages="Ossetic">Имерет</name>
+		<name normalized="Iмiрiti" languages="Chuvash">Имерети</name>
+		<name normalized="Iмiрitii" languages="Bulgarian;Russian">Имеретия</name>
+		<name normalized="Iмiрitija" languages="Macedonian;Serbian">Имеретија</name>
+		<name normalized="Iмiрiti" languages="Abkhazian">Имереҭи</name>
+		<name normalized="Iмiрiti" languages="Ukrainian">Імереті</name>
+		<name normalized="Iмiрetii" languages="Belarusian">Імерэція</name>
+		<name normalized="Iмeрeti" languages="biлaрuсkai (taрaskivita)‎">Імэрэці</name>
+		<name normalized="Իmեrեt" languages="Armenian">Իմերեթ</name>
+		<name normalized="אימrtי" languages="Hebrew">אימרתי</name>
+		<name normalized="אmrtی" languages="Western Punjabi">امرتی</name>
+		<name normalized="אیmrtی" languages="Persian">ایمرتی</name>
+		<name normalized="იმერეთის მხარე" languages="Georgian">იმერეთის მხარე</name>
+		<name normalized="იმერეთიშ აკანი" languages="Mingrelian">იმერეთიშ აკანი</name>
+		<name normalized="imrti州" languages="Japanese">イメレティ州</name>
+		<name normalized="伊梅列季亞州" languages="Chinese">伊梅列季亞州</name>
+		<name normalized="이메레티 주" languages="Korean">이메레티 주</name>
+	</region>
+	<region name="Kakheti" type="region" typeTranslated="mkhare">
+		<name normalized="Cachezia" languages="Italian">Cachezia</name>
+		<name normalized="Cachetia" languages="Portuguese">Cachétia</name>
+		<name normalized="Kac'hethi" languages="Breton">Kac'hethi</name>
+		<name normalized="Kacheti" languages="Dutch">Kacheti</name>
+		<name normalized="Kachetia" languages="Polish">Kachetia</name>
+		<name normalized="Kachetie" languages="Czech">Kachetie</name>
+		<name normalized="Kachetien" languages="German;Swedish">Kachetien</name>
+		<name normalized="Kachetija" languages="Lithuanian">Kachetija</name>
+		<name normalized="Kaheti" languages="Hungarian;Turkish">Kaheti</name>
+		<name normalized="Kahhethi" languages="Estonian">Kahhethi</name>
+		<name normalized="Kajetia" languages="Spanish">Kajetia</name>
+		<name normalized="Kakheti" languages="Basque;English;Finnish;Norwegian (bokmal);official;Pampanga;Scots;Vietnamese;Waray">Kakheti</name>
+		<name normalized="Kakheti Mkhare" languages="English;official">Kakheti Mkhare</name>
+		<name normalized="Kakheti Region" languages="English;official">Kakheti Region</name>
+		<name normalized="Kakhetia" languages="Catalan">Kakhètia</name>
+		<name normalized="Kakhetie" languages="French">Kakhétie</name>
+		<name normalized="Kaxeti" languages="Azerbaijani">Kaxeti</name>
+		<name normalized="Kaheti" languages="Esperanto">Kaĥeti</name>
+		<name normalized="Kakitii" languages="Bulgarian;Russian">Кахетия</name>
+		<name normalized="Kakitija" languages="Macedonian;Serbian">Кахетија</name>
+		<name normalized="Kakitыi" languages="Belarusian">Кахетыя</name>
+		<name normalized="Kakiti" languages="Ukrainian">Кахеті</name>
+		<name normalized="Kakiti" languages="Abkhazian">Кахеҭи</name>
+		<name normalized="Kaketi" languages="biлaрuсkai (taрaskivita)‎">Кахэці</name>
+		<name normalized="Kъakit" languages="Ossetic">Къахет</name>
+		<name normalized="Kաxեt" languages="Armenian">Կախեթ</name>
+		<name normalized="qאhtי" languages="Hebrew">קאחתי</name>
+		<name normalized="کאخtی" languages="Persian">کاختی</name>
+		<name normalized="کאخtی" languages="Western Punjabi">کاخطی</name>
+		<name normalized="კახეთის მხარე" languages="Georgian">კახეთის მხარე</name>
+		<name normalized="კახეთიშ აკანი" languages="Mingrelian">კახეთიშ აკანი</name>
+		<name normalized="khti州" languages="Japanese">カヘティ州</name>
+		<name normalized="卡赫季州" languages="Chinese">卡赫季州</name>
+		<name normalized="카헤티 주" languages="Korean">카헤티 주</name>
+	</region>
+	<region name="Kvemo Kartli" type="region" typeTranslated="mkhare">
+		<name normalized="Also-Kartli" languages="Hungarian">Alsó-Kartli</name>
+		<name normalized="Asagı Kartli" languages="Azerbaijani">Aşağı Kartli</name>
+		<name normalized="Dolna Kartlia" languages="Polish">Dolna Kartlia</name>
+		<name normalized="Khvemo Kharthli" languages="Breton;Estonian">Khvemo Kharthli</name>
+		<name normalized="Kvemo Kartli" languages="Catalan;Czech;Dutch;English;Esperanto;Finnish;French;Italian;Norwegian (bokmal);official;Pampanga;Scots;Spanish;Turkish;Vietnamese;Waray">Kvemo Kartli</name>
+		<name normalized="Kvemo Kartli Mkhare" languages="English;official">Kvemo Kartli Mkhare</name>
+		<name normalized="Kvemo Kartli Region" languages="English;official">Kvemo Kartli Region</name>
+		<name normalized="Kvemo Kartlis" languages="Lithuanian">Kvemo Kartlis</name>
+		<name normalized="Nedre Kartlien" languages="Swedish">Nedre Kartlien</name>
+		<name normalized="Niederkartlien" languages="German">Niederkartlien</name>
+		<name normalized="Daeллag Kaрtлi" languages="Ossetic">Дæллаг Картли</name>
+		<name normalized="Doлнa Kaрtлi" languages="Bulgarian;Macedonian">Долна Картли</name>
+		<name normalized="Doni Kaрtлi" languages="Serbian">Доњи Картли</name>
+		<name normalized="Kviмa Kaрtлi" languages="Belarusian">Квема Картлі</name>
+		<name normalized="Kviмo Kaрtлi" languages="Ukrainian">Квемо Картлі</name>
+		<name normalized="Kviмo-Kaрtлi" languages="Russian">Квемо-Картли</name>
+		<name normalized="Kveмa Kaрtлi" languages="biлaрuсkai (taрaskivita)‎">Квэма Картлі</name>
+		<name normalized="Ҵaҟatəi Kaрtлi" languages="Abkhazian">Ҵаҟатәи Қарҭли</name>
+		<name normalized="Kվեmv Kաrtlի" languages="Armenian">Քվեմո Քարթլի</name>
+		<name normalized="כאrtדי thtיt" languages="Hebrew">כארתלי תחתית</name>
+		<name normalized="کوmو کאrtلی" languages="Persian">کومو کارتلی</name>
+		<name normalized="کویmو کאrtلی" languages="Western Punjabi">کویمو کارتلی</name>
+		<name normalized="ქვემო ქართლის მხარე" languages="Georgian">ქვემო ქართლის მხარე</name>
+		<name normalized="克維莫-卡特利州" languages="Chinese">克維莫-卡特利州</name>
+		<name normalized="크베모카르틀리 주" languages="Korean">크베모카르틀리 주</name>
+	</region>
+	<region name="Mtskheta-Mtianeti" type="region" typeTranslated="mkhare">
+		<name normalized="Mccheta-Mtianetia" languages="Polish">Mccheta-Mtianetia</name>
+		<name normalized="Mccheta-Mtianetie" languages="Czech">Mccheta-Mtianetie</name>
+		<name normalized="Mccheta-Mtianetija" languages="Lithuanian">Mccheta-Mtianetija</name>
+		<name normalized="Mcheta-Mtianeti" languages="Hungarian">Mcheta-Mtianeti</name>
+		<name normalized="Mcheta-Mtianeti" languages="Esperanto">Mcĥeta-Mtianeti</name>
+		<name normalized="Mtsc'hetha-Mthianethi" languages="Breton">Mtsc'hetha-Mthianethi</name>
+		<name normalized="Mtscheta-Mtianeti" languages="Dutch;Swedish">Mtscheta-Mtianeti</name>
+		<name normalized="Mtsheta-Mtianeti" languages="Turkish">Mtsheta-Mtianeti</name>
+		<name normalized="Mtshetha-Mthianethi" languages="Estonian">Mtshetha-Mthianethi</name>
+		<name normalized="Mtsjeta-Mtianeti" languages="Spanish">Mtsjeta-Mtianeti</name>
+		<name normalized="Mtskheta-Mtianeti" languages="English;Finnish;French;Italian;Norwegian (bokmal);official;Pampanga;Scots;Vietnamese;Waray">Mtskheta-Mtianeti</name>
+		<name normalized="Mtskheta-Mtianeti Mkhare" languages="English;official">Mtskheta-Mtianeti Mkhare</name>
+		<name normalized="Mtskheta-Mtianeti Region" languages="English;official">Mtskheta-Mtianeti Region</name>
+		<name normalized="Mtsxeta-Mtianeti" languages="Azerbaijani">Mtsxeta-Mtianeti</name>
+		<name normalized="Mzcheta-Mtianeti" languages="German">Mzcheta-Mtianeti</name>
+		<name normalized="Мtkita-Мtiaнit" languages="Ossetic">Мцхета-Мтианет</name>
+		<name normalized="Мtkita-Мtiaнiti" languages="Russian">Мцхета-Мтианети</name>
+		<name normalized="Мtkita-Мtijaнitija" languages="Macedonian;Serbian">Мцхета-Мтијанетија</name>
+		<name normalized="Мtkita-Мtыiнiti" languages="Belarusian">Мцхета-Мтыянеці</name>
+		<name normalized="Мtkita-Мtыiнeti" languages="biлaрuсkai (taрaskivita)‎">Мцхета-Мтыянэці</name>
+		<name normalized="Мtkita-Мtiaнiti" languages="Ukrainian">Мцхета-Мтіанеті</name>
+		<name normalized="Мtkitii-Мtiaнitii" languages="Bulgarian">Мцхетия-Мтианетия</name>
+		<name normalized="Мtkita-Мtiaнiti" languages="Abkhazian">Мцхеҭа-Мҭианеҭи</name>
+		<name normalized="Mcxեt-Mtիանեt" languages="Armenian">Մցխեթ-Մթիանեթ</name>
+		<name normalized="מצhth מtיאntי" languages="Hebrew">מצחתה מתיאנתי</name>
+		<name normalized="mtشیtא-mtیאنtی" languages="Western Punjabi">متشیتا-متیانطی</name>
+		<name normalized="მცხეთა-მთიანეთის მხარე" languages="Georgian">მცხეთა-მთიანეთის მხარე</name>
+		<name normalized="姆茨赫塔-姆季阿涅季州" languages="Cantonese;Chinese">姆茨赫塔-姆季阿涅季州</name>
+		<name normalized="므츠헤타므티아네티 주" languages="Korean">므츠헤타므티아네티 주</name>
+	</region>
+	<region name="Racha-Lechkhumi and Kvemo Svaneti" type="region" typeTranslated="mkhare">
+		<name normalized="Raca-Lechumi ve Kvemo Svaneti" languages="Turkish">Raca-Leçhumi ve Kvemo Svaneti</name>
+		<name normalized="Racha-Lechjumi y Kvemo Svaneti" languages="Spanish">Racha-Lechjumi y Kvemo Svaneti</name>
+		<name normalized="Racha-Lechkhumi an Kvemo Svaneti" languages="Scots">Racha-Lechkhumi an Kvemo Svaneti</name>
+		<name normalized="Racha-Lechkhumi and Kvemo Svaneti" languages="English;official">Racha-Lechkhumi and Kvemo Svaneti</name>
+		<name normalized="Racha-Lechkhumi and Kvemo Svaneti Mkhare" languages="English;official">Racha-Lechkhumi and Kvemo Svaneti Mkhare</name>
+		<name normalized="Racha-Lechkhumi and Kvemo Svaneti Region" languages="English;official">Racha-Lechkhumi and Kvemo Svaneti Region</name>
+		<name normalized="Racha-Lechkhumi at Kvemo Svaneti" languages="Pampanga">Racha-Lechkhumi at Kvemo Svaneti</name>
+		<name normalized="Racha-Lechkhumi dan Kvemo Svaneti" languages="Indonesian">Racha-Lechkhumi dan Kvemo Svaneti</name>
+		<name normalized="Racha-Lechkhumi e Kvemo Svaneti" languages="Italian">Racha-Lechkhumi e Kvemo Svaneti</name>
+		<name normalized="Racha-Lechkhumi et Kvemo Svaneti" languages="French">Racha-Lechkhumi et Kvemo Svaneti</name>
+		<name normalized="Racha-Lechkhumi ngan Kvemo Svaneti" languages="Waray">Racha-Lechkhumi ngan Kvemo Svaneti</name>
+		<name normalized="Racha-Lechkhumi og Kvemo Svaneti" languages="Norwegian (bokmal)">Racha-Lechkhumi og Kvemo Svaneti</name>
+		<name normalized="Racha-Lechkhumi va Kvemo Svaneti" languages="Vietnamese">Racha-Lechkhumi và Kvemo Svaneti</name>
+		<name normalized="Racsa-Lecshumi es Also-Szvaneti" languages="Hungarian">Racsa-Lecshumi és Alsó-Szvanéti</name>
+		<name normalized="Racza-Leczchumi i Dolna Swanetia" languages="Polish">Racza-Leczchumi i Dolna Swanetia</name>
+		<name normalized="Ratcha-Letchc'houmi ha Khvemo Svanethi" languages="Breton">Ratcha-Letchc'houmi ha Khvemo Svanethi</name>
+		<name normalized="Ratja-Letjchumi och Nedre Svanetien" languages="Swedish">Ratja-Letjchumi och Nedre Svanetien</name>
+		<name normalized="Ratscha-Letschchumi und Niederswanetien" languages="German">Ratscha-Letschchumi und Niederswanetien</name>
+		<name normalized="Ratsja-Letsjchoemi en Kvemo Svaneti" languages="Dutch">Ratsja-Letsjchoemi en Kvemo Svaneti</name>
+		<name normalized="Ratsa-Letshumi ja Khvemo Svanethi" languages="Estonian">Ratša-Letšhumi ja Khvemo Svanethi</name>
+		<name normalized="Ratsa-Letskhumi ja Kvemo Svaneti" languages="Finnish">Ratša-Letškhumi ja Kvemo Svaneti</name>
+		<name normalized="Raca-Lechumi kaj Kvemo Svaneti" languages="Esperanto">Raĉa-Leĉĥumi kaj Kvemo Svaneti</name>
+		<name normalized="Raca Lecchumi a Kvemo Svaneti" languages="Czech">Rača Lečchumi a Kvemo Svaneti</name>
+		<name normalized="Raca-Lecchumis ir Kvemo Svanetija" languages="Lithuanian">Rača-Lečchumis ir Kvemo Svanetija</name>
+		<name normalized="Рatъ-Лickuм aeмae Daeллag Сuaн" languages="Ossetic">Рацъ-Лечхум æмæ Дæллаг Суан</name>
+		<name normalized="Рaca-Лickuмi i Doлнa Сvaнitija" languages="Macedonian">Рача-Лечхуми и Долна Сванетија</name>
+		<name normalized="Рaca-Лickuмi i Dona Сvaнitija" languages="Serbian">Рача-Лечхуми и Доња Сванетија</name>
+		<name normalized="Рaca-Лickuмi i Kviмo-Сvaнiti" languages="Russian">Рача-Лечхуми и Квемо-Сванети</name>
+		<name normalized="Рaca-Лickuмi ta Kviмo Сvaнiti" languages="Ukrainian">Рача-Лечхумі та Квемо Сванеті</name>
+		<name normalized="Рaca-Лickuмi i Kviмa Сvaнiti" languages="Belarusian">Рача-Лечхумі і Квема Сванеці</name>
+		<name normalized="Рaca-Лickuмi i Kveмa Сvaнeti" languages="biлaрuсkai (taрaskivita)‎">Рача-Лечхумі і Квэма Сванэці</name>
+		<name normalized="Рaca-Лickəым-Ҵaҟatəi Səaны" languages="Abkhazian">Раҷа-Лечхәым-Ҵаҟатәи Шәаны</name>
+		<name normalized="Rաcա-Lեcxvym և Kվեmv Sվանեt" languages="Armenian">Ռաճա-Լեչխում և Քվեմո Սվանեթ</name>
+		<name normalized="rצ'h-דצ'hvמי vסvvאntי thtיt" languages="Hebrew">רצ'ה-לצ'חומי וסוואנתי תחתית</name>
+		<name normalized="rچא لیخیوmی-tے کویmو سوאنtی" languages="Western Punjabi">رچا لیخیومی-تے کویمو سوانتی</name>
+		<name normalized="რაჭა-ლეჩხუმისა და ქვემო სვანეთის მხარე" languages="Georgian">რაჭა-ლეჩხუმისა და ქვემო სვანეთის მხარე</name>
+		<name normalized="拉恰-列其呼米-下斯瓦涅季亞州" languages="Chinese">拉恰-列其呼米-下斯瓦涅季亞州</name>
+		<name normalized="라차레츠후미크베모스바네티 주" languages="Korean">라차레츠후미크베모스바네티 주</name>
+	</region>
+	<region name="Samegrelo and Zemo Svaneti" type="region" typeTranslated="mkhare">
+		<name normalized="Megrelia-Gorna Swanetia" languages="Polish">Megrelia-Górna Swanetia</name>
+		<name normalized="Megrelien-Ovre Svanetien" languages="Swedish">Megrelien-Övre Svanetien</name>
+		<name normalized="Mingrelia-Alta Svanezia" languages="Italian">Mingrelia-Alta Svanezia</name>
+		<name normalized="Mingrelien und Oberswanetien" languages="German">Mingrelien und Oberswanetien</name>
+		<name normalized="Mingrelie-et-Haute-Svanetie" languages="French">Mingrélie-et-Haute-Svanétie</name>
+		<name normalized="Samegrelo and Zemo Svaneti" languages="English;official">Samegrelo and Zemo Svaneti</name>
+		<name normalized="Samegrelo and Zemo Svaneti Mkhare" languages="English;official">Samegrelo and Zemo Svaneti Mkhare</name>
+		<name normalized="Samegrelo and Zemo Svaneti Region" languages="English;official">Samegrelo and Zemo Svaneti Region</name>
+		<name normalized="Samegrelo ja Zemo Svaneti" languages="Finnish">Samegrelo ja Zemo Svaneti</name>
+		<name normalized="Samegrelo-Zemo Svanethi" languages="Breton">Samegrelo-Zemo Svanethi</name>
+		<name normalized="Samegrelo-Zemo Svaneti" languages="Basque;Czech;Dutch;English;Esperanto;Norwegian (bokmal);Pampanga;Scots;Spanish;Turkish;Vietnamese;Waray">Samegrelo-Zemo Svaneti</name>
+		<name normalized="Samegrelo-Zemo Svanethi" languages="Estonian">Samegrelo–Zemo Svanethi</name>
+		<name normalized="Szamegrelo-Felso-Szvaneti" languages="Hungarian">Szamegrelo-Felső-Szvanéti</name>
+		<name normalized="Agырны-Kыkьtəi Səaны" languages="Abkhazian">Агырны-Хыхьтәи Шәаны</name>
+		<name normalized="Мigрiлi aeмae Uaeллag Сuaн" languages="Ossetic">Мегрели æмæ Уæллаг Суан</name>
+		<name normalized="Мigрiлija-Goрнa Сvaнitija" languages="Macedonian">Мегрелија-Горна Сванетија</name>
+		<name normalized="Мigрiлija-Goрna Сvaнitija" languages="Serbian">Мегрелија-Горња Сванетија</name>
+		<name normalized="Сaмigрeлa-Ziмa Сvaнiti" languages="Belarusian">Самегрэла-Зема Сванеці</name>
+		<name normalized="Сaмiґрiлo-Ziмo Сvaнiti" languages="Ukrainian">Самеґрело-Земо Сванеті</name>
+		<name normalized="Сaмegрeлa-Zeмa Сvaнeti" languages="biлaрuсkai (taрaskivita)‎">Самэгрэла-Зэма Сванэці</name>
+		<name normalized="Sաmեգrեlv-Zեmv Sվանեt" languages="Armenian">Սամեգրելո-Զեմո Սվանեթ</name>
+		<name normalized="סמגrדv vסvvאntי עידיt" languages="Hebrew">סמגרלו וסוואנתי עילית</name>
+		<name normalized="سאmgrلو-زmو سوאنtی" languages="Persian">سامگرلو-زمو سوانتی</name>
+		<name normalized="სამარგალო-ჟიმოლენი შონეშ აკანი" languages="Mingrelian">სამარგალო-ჟიმოლენი შონეშ აკანი</name>
+		<name normalized="სამეგრელო-ზემო სვანეთის მხარე" languages="Georgian">სამეგრელო-ზემო სვანეთის მხარე</name>
+		<name normalized="薩梅格列羅-上斯瓦涅季亞州" languages="Chinese">薩梅格列羅-上斯瓦涅季亞州</name>
+		<name normalized="사메그렐로제모스바네티 주" languages="Korean">사메그렐로제모스바네티 주</name>
+	</region>
+	<region name="Samtskhe-Javakheti" type="region" typeTranslated="mkhare">
+		<name normalized="Samcche-Dzawachetia" languages="Polish">Samcche-Dżawachetia</name>
+		<name normalized="Samcche-Dzavachetie" languages="Czech">Samcche-Džavachetie</name>
+		<name normalized="Samcche-Dzavachetija" languages="Lithuanian">Samcchė-Džavachetija</name>
+		<name normalized="Samche-Javaheti" languages="Esperanto">Samcĥe-Javaĥeti</name>
+		<name normalized="Samtsc'he-Djavac'hethi" languages="Breton">Samtsc'he-Djavac'hethi</name>
+		<name normalized="Samtsche-Dzjavacheti" languages="Dutch">Samtsche-Dzjavacheti</name>
+		<name normalized="Samtsche-Dzjavachetien" languages="Swedish">Samtsche-Dzjavachetien</name>
+		<name normalized="Samtshe-Cavaheti" languages="Turkish">Samtshe-Cavaheti</name>
+		<name normalized="Samtshe-Dzavahhethi" languages="Estonian">Samtshe-Džavahhethi</name>
+		<name normalized="Samtsje-Yavajeti" languages="Spanish">Samtsje-Yavajeti</name>
+		<name normalized="Samtskhe-Dzavakheti" languages="Finnish">Samtskhe-Džavakheti</name>
+		<name normalized="Samtskhe-Javakheti" languages="English;Italian;Norwegian (bokmal);official;Pampanga;Scots;Vietnamese;Waray">Samtskhe-Javakheti</name>
+		<name normalized="Samtskhe-Javakheti Mkhare" languages="English;official">Samtskhe-Javakheti Mkhare</name>
+		<name normalized="Samtskhe-Javakheti Region" languages="English;official">Samtskhe-Javakheti Region</name>
+		<name normalized="Samtskhe" languages="Catalan">Samtskhé</name>
+		<name normalized="Samtskhe-Djavakhetie" languages="French">Samtskhé-Djavakhétie</name>
+		<name normalized="Samtsxe-Cavaxeti" languages="Azerbaijani">Samtsxe-Cavaxeti</name>
+		<name normalized="Samzche-Dschawachetien" languages="German">Samzche-Dschawachetien</name>
+		<name normalized="Szamche-Dzsavaheti" languages="Hungarian">Szamche-Dzsavaheti</name>
+		<name normalized="Сaмtki-Dzavakiti" languages="Bulgarian;Ossetic;Russian">Самцхе-Джавахети</name>
+		<name normalized="Сaмtki-Dzavakiti" languages="Ukrainian">Самцхе-Джавахеті</name>
+		<name normalized="Сaмtki-Dzavakiti" languages="Belarusian">Самцхе-Джавахеці</name>
+		<name normalized="Сaмtki-Dzavaketi" languages="biлaрuсkai (taрaskivita)‎">Самцхе-Джавахэці</name>
+		<name normalized="Сaмtki-Dzavakitija" languages="Macedonian;Serbian">Самцхе-Џавахетија</name>
+		<name normalized="Сaмtki-Dzьavakiti" languages="Abkhazian">Самцхе-Џьавахеҭи</name>
+		<name normalized="Sաmcxե-Jավաxk" languages="Armenian">Սամցխե-Ջավախք</name>
+		<name normalized="סאמצhh-ג'אvvאhtי" languages="Hebrew">סאמצחה-ג'אוואחתי</name>
+		<name normalized="سאmtسخh-jאوאخtی" languages="Persian">سامتسخه-جاواختی</name>
+		<name normalized="სამცხე-ჯავახეთის მხარე" languages="Georgian">სამცხე-ჯავახეთის მხარე</name>
+		<name normalized="სამცხე-ჯავახეთიშ აკანი" languages="Mingrelian">სამცხე-ჯავახეთიშ აკანი</name>
+		<name normalized="薩姆茨赫-扎瓦赫季州" languages="Chinese">薩姆茨赫-扎瓦赫季州</name>
+		<name normalized="삼츠헤자바헤티 주" languages="Korean">삼츠헤자바헤티 주</name>
+	</region>
+	<region name="Shida Kartli" type="region" typeTranslated="mkhare">
+		<name normalized="Chida Kharthli" languages="Breton">Chida Kharthli</name>
+		<name normalized="Felso-Kartli" languages="Hungarian">Felső-Kartli</name>
+		<name normalized="Innerkartlien" languages="German">Innerkartlien</name>
+		<name normalized="Inre Kartlien" languages="Swedish">Inre Kartlien</name>
+		<name normalized="Ic Kartli" languages="Azerbaijani">İç Kartli</name>
+		<name normalized="Shida Kartli" languages="English;French;Italian;Norwegian (bokmal);official;Pampanga;Portuguese;Scots;Spanish;Vietnamese;Waray">Shida Kartli</name>
+		<name normalized="Shida Kartli Mkhare" languages="English;official">Shida Kartli Mkhare</name>
+		<name normalized="Shida Kartli Region" languages="English;official">Shida Kartli Region</name>
+		<name normalized="Sjida Kartli" languages="Dutch">Sjida Kartli</name>
+		<name normalized="Wewnetrzna Kartlia" languages="Polish">Wewnętrzna Kartlia</name>
+		<name normalized="Xida Kartli" languages="Basque;Catalan">Xida Kartli</name>
+		<name normalized="Sida Kartli" languages="Esperanto">Ŝida Kartli</name>
+		<name normalized="Sida Kartli" languages="Turkish">Şida Kartli</name>
+		<name normalized="Sida Kartli" languages="Czech;Finnish">Šida Kartli</name>
+		<name normalized="Sida Kartlis" languages="Lithuanian">Šida Kartlis</name>
+		<name normalized="Sida Kharthli" languages="Estonian">Šida Kharthli</name>
+		<name normalized="Aҩнutҟatəi Kaрtлi" languages="Abkhazian">Аҩнуҵҟатәи Қарҭли</name>
+		<name normalized="Vнatрisiн Kaрtлi" languages="Macedonian">Внатрешен Картли</name>
+		<name normalized="Vъtрisнa Kaрtлi" languages="Bulgarian">Вътрешна Картли</name>
+		<name normalized="Мidaeggag Kaрtлi" languages="Ossetic">Мидæггаг Картли</name>
+		<name normalized="Uнutрasni Kaрtлi" languages="Serbian">Унутрашњи Картли</name>
+		<name normalized="Sida Kaрtлi" languages="Ukrainian">Шида Картлі</name>
+		<name normalized="Sida-Kaрtлi" languages="Russian">Шида-Картли</name>
+		<name normalized="Sыda Kaрtлi" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Шыда Картлі</name>
+		<name normalized="Sիdա Kաrtlի" languages="Armenian">Շիդա Քարթլի</name>
+		<name normalized="כאrtדי hpnימיt" languages="Hebrew">כארתלי הפנימית</name>
+		<name normalized="شیدא کאrtلی" languages="Persian">شیدا کارتلی</name>
+		<name normalized="შიდა ქართლის მხარე" languages="Georgian">შიდა ქართლის მხარე</name>
+		<name normalized="什達-卡特利州" languages="Chinese">什達-卡特利州</name>
+		<name normalized="시다카르틀리 주" languages="Korean">시다카르틀리 주</name>
+	</region>
+	<region name="Tbilisi" type="city" typeTranslated="k'alak'i">
+		<name normalized="Tbilis" languages="Veps">Tbilis</name>
+		<name normalized="Tbilisi" languages="Achinese;Afrikaans;Albanian;Aragonese;Azerbaijani;Basque;Bikol Central;Bosnian;Breton;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Faroese;Fiji Hindi;Finnish;Franco-Provencal;Galician;Haitian;Ido;Indonesian;Irish;Italian;Javanese;Latvian;lumbaart;Malagasy;Malay;Manx;Maori;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Pampanga;Piedmontese;Polish;Portuguese;Romanian;Sardinian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Sicilian;Silesian;Simple English;Slovak;Slovenian;Swahili;Swedish;tarandine;Tatar;Upper Sorbian;Vietnamese;Volapuk;Waray;Welsh;Yoruba">Tbilisi</name>
+		<name normalized="Tbilisis" languages="Lithuanian">Tbilisis</name>
+		<name normalized="Tbiliso" languages="Esperanto">Tbiliso</name>
+		<name normalized="Tbilissi" languages="French;Occitan">Tbilissi</name>
+		<name normalized="Tbilisy" languages="Western Frisian">Tbilisy</name>
+		<name normalized="Tbiliszi" languages="Hungarian">Tbiliszi</name>
+		<name normalized="Tbelesis" languages="Samogitian">Tbėlėsis</name>
+		<name normalized="Thbilisi" languages="Estonian;Voro">Thbilisi</name>
+		<name normalized="Tibilisi" languages="Nahuatl;Wolof">Tibilisi</name>
+		<name normalized="Tiblisi" languages="Ligure">Tiblisi</name>
+		<name normalized="Tibilisi" languages="Kurdish">Tibîlîsî</name>
+		<name normalized="Tiflis" languages="Crimean Turkish;German;Luxembourgish;Spanish;Tagalog;Turkish;Zazaki">Tiflis</name>
+		<name normalized="Triphelis" languages="Latin">Triphelis</name>
+		<name normalized="Tiblisi" languages="Icelandic">Tíblisi</name>
+		<name normalized="Τιφλιδα" languages="Greek">Τιφλίδα</name>
+		<name normalized="Goрad Tbiлiсi" languages="Belarusian">Горад Тбілісі</name>
+		<name normalized="Tbiлiс" languages="Mongolian;Ossetic">Тбилис</name>
+		<name normalized="Tbiлiсi" languages="Bulgarian;Chechen;Chuvash;Eastern Mari;Hill Mari;Kabardian;Kazakh;Komi;Kyrgyz;Macedonian;Russian;Sakha;Serbian;Udmurt">Тбилиси</name>
+		<name normalized="Tbiлiсi os" languages="Erzya">Тбилиси ош</name>
+		<name normalized="Tbiлiсi" languages="Tajik">Тбилисӣ</name>
+		<name normalized="Tbiлiсi" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Тбілісі</name>
+		<name normalized="Ttupлiс" languages="лakku">Ттуплис</name>
+		<name normalized="Tuлpiс" languages="Avaric">Тулпис</name>
+		<name normalized="Kaрt" languages="Abkhazian">Қарҭ</name>
+		<name normalized="Tbիlիsի" languages="Armenian">Թբիլիսի</name>
+		<name normalized="tbידיסי" languages="Hebrew;Yiddish">טביליסי</name>
+		<name normalized="tbلyسى" languages="Egyptian Spoken Arabic">تبليسى</name>
+		<name normalized="tbلیس" languages="Sorani Kurdish">تبلیس</name>
+		<name normalized="tbلیسی" languages="Urdu;Western Punjabi">تبلیسی</name>
+		<name normalized="tbىلىسى" languages="Uyghur">تبىلىسى</name>
+		<name normalized="tfلyس" languages="Arabic">تفليس</name>
+		<name normalized="tfلیس" languages="Mazanderani;Persian">تفلیس</name>
+		<name normalized="ܛܒܝܠܝܣܝ" languages="Aramaic">ܛܒܝܠܝܣܝ</name>
+		<name normalized="t्bilisi" languages="Marathi">त्बिलिसी</name>
+		<name normalized="t्bilisi" languages="Hindi">थ्बिलिसि</name>
+		<name normalized="tibi‌lisi" languages="Bengali">তিবি‌লিসি</name>
+		<name normalized="tbilisi" languages="Punjabi">ਤਬੀਲਿਸੀ</name>
+		<name normalized="திபிலீசி" languages="Tamil">திபிலீசி</name>
+		<name normalized="ಟಿಬಿಲಿಸಿ" languages="Kannada">ಟಿಬಿಲಿಸಿ</name>
+		<name normalized="ทบิลิซิ" languages="Thai">ทบิลิซิ</name>
+		<name normalized="ཁྲེ་བྷི་ལི་སི།" languages="Tibetan">ཁྲེ་བྷི་ལི་སི།</name>
+		<name normalized="ཊི་བི་ལི་སི" languages="Dzongkha">ཊི་བི་ལི་སི</name>
+		<name normalized="თბილისი" languages="Georgian">თბილისი</name>
+		<name normalized="ქართი" languages="Mingrelian">ქართი</name>
+		<name normalized="ትብሊሲ" languages="Amharic">ትብሊሲ</name>
+		<name normalized="tbrs" languages="Japanese">トビリシ</name>
+		<name normalized="第比利斯" languages="Cantonese;Chinese">第比利斯</name>
+		<name normalized="트빌리시" languages="Korean">트빌리시</name>
+	</region>
+</regions>

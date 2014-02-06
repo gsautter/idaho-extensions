@@ -1,0 +1,578 @@
+<regions country="Guatemala">
+	<region name="Alta Verapaz" type="department" typeTranslated="departamento">
+		<name normalized="Alta Verapaco" languages="Esperanto">Alta Verapaco</name>
+		<name normalized="Alta Verapaz" languages="Basque;Bosnian;Catalan;Croatian;Dutch;English;Indonesian;Nahuatl;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Slovak;Spanish;Vietnamese">Alta Verapaz</name>
+		<name normalized="Alta Verapaz Depairtment" languages="Scots">Alta Verapaz Depairtment</name>
+		<name normalized="Alta Verapaz Departamento" languages="English;official">Alta Verapaz Departamento</name>
+		<name normalized="Alta Verapaz Department" languages="English;official">Alta Verapaz Department</name>
+		<name normalized="Aukstutinio Verapaso departamentas" languages="Lithuanian">Aukštutinio Verapaso departamentas</name>
+		<name normalized="Departamento Alta Verapaz" languages="German">Departamento Alta Verapaz</name>
+		<name normalized="Departamento de Alta Verapaz" languages="Galician">Departamento de Alta Verapaz</name>
+		<name normalized="Dipartimento di Alta Verapaz" languages="Italian">Dipartimento di Alta Verapaz</name>
+		<name normalized="Departement d'Alta Verapaz" languages="French">Département d'Alta Verapaz</name>
+		<name normalized="Hanan Verapaz suyu" languages="Quechua">Hanan Verapaz suyu</name>
+		<name normalized="Aльta-Viрapaс" languages="Russian">Альта-Верапас</name>
+		<name normalized="Goрiн Viрapaс" languages="Bulgarian">Горен Верапас</name>
+		<name normalized="sوbہ آلtא ویrאpאز" languages="Western Punjabi">صوبہ آلتا ویراپاز</name>
+		<name normalized="ალტა-ვერაპასის დეპარტამენტი" languages="Georgian">ალტა-ვერაპასის დეპარტამენტი</name>
+		<name normalized="art・brps県" languages="Japanese">アルタ・ベラパス県</name>
+		<name normalized="上維拉帕斯省" languages="Chinese">上維拉帕斯省</name>
+		<name normalized="알타베라파스 주" languages="Korean">알타베라파스 주</name>
+	</region>
+	<region name="Baja Verapaz" type="department" typeTranslated="departamento">
+		<name normalized="Baja Verapaz" languages="Bosnian;Catalan;Croatian;Dutch;English;Indonesian;Nahuatl;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Slovak;Spanish;Vietnamese">Baja Verapaz</name>
+		<name normalized="Baja Verapaz Depairtment" languages="Scots">Baja Verapaz Depairtment</name>
+		<name normalized="Baja Verapaz Departamento" languages="English;official">Baja Verapaz Departamento</name>
+		<name normalized="Baja Verapaz Department" languages="English;official">Baja Verapaz Department</name>
+		<name normalized="Departament de Baja Verapaz" languages="Occitan">Departament de Baja Verapaz</name>
+		<name normalized="Departamento Baja Verapaz" languages="German">Departamento Baja Verapaz</name>
+		<name normalized="Departamento de Baja Verapaz" languages="Galician">Departamento de Baja Verapaz</name>
+		<name normalized="Dipartimento di Baja Verapaz" languages="Italian">Dipartimento di Baja Verapaz</name>
+		<name normalized="Departement de Baja Verapaz" languages="French">Département de Baja Verapaz</name>
+		<name normalized="Malalta Verapaco" languages="Esperanto">Malalta Verapaco</name>
+		<name normalized="Urin Verapaz suyu" languages="Quechua">Urin Verapaz suyu</name>
+		<name normalized="Zemutinio Verapaso departamentas" languages="Lithuanian">Žemutinio Verapaso departamentas</name>
+		<name normalized="Baka-Viрapaс" languages="Russian">Баха-Верапас</name>
+		<name normalized="Doлiн Viрapaс" languages="Bulgarian">Долен Верапас</name>
+		<name normalized="sوbہ bאjא ویrאpאز" languages="Western Punjabi">صوبہ باجا ویراپاز</name>
+		<name normalized="ბახა-ვერაპასის დეპარტამენტი" languages="Georgian">ბახა-ვერაპასის დეპარტამენტი</name>
+		<name normalized="bh・brps県" languages="Japanese">バハ・ベラパス県</name>
+		<name normalized="下維拉帕斯省" languages="Chinese">下維拉帕斯省</name>
+		<name normalized="바하베라파스 주" languages="Korean">바하베라파스 주</name>
+	</region>
+	<region name="Chimaltenango" type="department" typeTranslated="departamento">
+		<name normalized="Chimaltenango" languages="Bosnian;Croatian;Dutch;English;French;Galician;German;Italian;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Slovak;Spanish">Chimaltenango</name>
+		<name normalized="Chimaltenango Depairtment" languages="Scots">Chimaltenango Depairtment</name>
+		<name normalized="Chimaltenango Departamento" languages="English;official">Chimaltenango Departamento</name>
+		<name normalized="Chimaltenango Department" languages="English;official">Chimaltenango Department</name>
+		<name normalized="Chimaltenango suyu" languages="Quechua">Chimaltenango suyu</name>
+		<name normalized="Chimaltenanco" languages="Nahuatl">Chīmaltēnanco</name>
+		<name normalized="Departament de Chimaltenango" languages="Catalan">Departament de Chimaltenango</name>
+		<name normalized="Departamento Chimaltenango" languages="German">Departamento Chimaltenango</name>
+		<name normalized="Departamento de Chimaltenango" languages="Galician">Departamento de Chimaltenango</name>
+		<name normalized="Departemen Chimaltenango" languages="Indonesian">Departemen Chimaltenango</name>
+		<name normalized="Dipartimento di Chimaltenango" languages="Italian">Dipartimento di Chimaltenango</name>
+		<name normalized="Departement de Chimaltenango" languages="French">Département de Chimaltenango</name>
+		<name normalized="Cimaltenango" languages="Esperanto">Ĉimaltenango</name>
+		<name normalized="Cimaltenangas" languages="Lithuanian">Čimaltenangas</name>
+		<name normalized="Cimaltenango departamentas" languages="Lithuanian">Čimaltenango departamentas</name>
+		<name normalized="Ciмaлtiнaнgo" languages="Bulgarian">Чималтенанго</name>
+		<name normalized="Ciмaльtiнaнgo" languages="Russian">Чимальтенанго</name>
+		<name normalized="sوbہ چیmאلtنאینgو" languages="Western Punjabi">صوبہ چیمالتناینگو</name>
+		<name normalized="ჩიმალტენანგოს დეპარტამენტი" languages="Georgian">ჩიმალტენანგოს დეპარტამენტი</name>
+		<name normalized="tmrtnng県" languages="Japanese">チマルテナンゴ県</name>
+		<name normalized="奇馬爾特南戈" languages="Chinese">奇馬爾特南戈</name>
+		<name normalized="奇馬爾特南戈省" languages="Chinese">奇馬爾特南戈省</name>
+		<name normalized="치말테낭고 주" languages="Korean">치말테낭고 주</name>
+	</region>
+	<region name="Chiquimula" type="department" typeTranslated="departamento">
+		<name normalized="Chiquimollan" languages="Nahuatl">Chiquimollān</name>
+		<name normalized="Chiquimula" languages="Bosnian;Dutch;English;Finnish;French;German;Italian;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Slovak;Spanish;Vietnamese">Chiquimula</name>
+		<name normalized="Chiquimula Depairtment" languages="Scots">Chiquimula Depairtment</name>
+		<name normalized="Chiquimula Departamento" languages="English;official">Chiquimula Departamento</name>
+		<name normalized="Chiquimula Department" languages="English;official">Chiquimula Department</name>
+		<name normalized="Chiquimula suyu" languages="Quechua">Chiquimula suyu</name>
+		<name normalized="Departament de Chiquimula" languages="Catalan">Departament de Chiquimula</name>
+		<name normalized="Departamento Chiquimula" languages="German">Departamento Chiquimula</name>
+		<name normalized="Departamento de Chiquimula" languages="Galician">Departamento de Chiquimula</name>
+		<name normalized="Departemen Chiquimula" languages="Indonesian">Departemen Chiquimula</name>
+		<name normalized="Dipartimento di Chiquimula" languages="Italian">Dipartimento di Chiquimula</name>
+		<name normalized="Departement de Chiquimula" languages="French">Département de Chiquimula</name>
+		<name normalized="Cikimulo" languages="Esperanto">Ĉikimulo</name>
+		<name normalized="Cikimula" languages="Lithuanian">Čikimula</name>
+		<name normalized="Cikimulos departamentas" languages="Lithuanian">Čikimulos departamentas</name>
+		<name normalized="Cikiмuлa" languages="Bulgarian;Russian">Чикимула</name>
+		<name normalized="sوbہ چیکوئیmولא" languages="Western Punjabi">صوبہ چیکوئیمولا</name>
+		<name normalized="ჩიკიმულის დეპარტამენტი" languages="Georgian">ჩიკიმულის დეპარტამენტი</name>
+		<name normalized="tkmr県" languages="Japanese">チキムラ県</name>
+		<name normalized="奇基穆拉" languages="Chinese">奇基穆拉</name>
+		<name normalized="奇基穆拉省" languages="Chinese">奇基穆拉省</name>
+		<name normalized="치키물라 주" languages="Korean">치키물라 주</name>
+	</region>
+	<region name="El Progreso" type="department" typeTranslated="departamento">
+		<name normalized="Departamento de El Progreso" languages="Galician">Departamento de El Progreso</name>
+		<name normalized="Departamento El Progreso" languages="German">Departamento El Progreso</name>
+		<name normalized="Departemen El Progreso" languages="Indonesian">Departemen El Progreso</name>
+		<name normalized="Dipartimento di El Progreso" languages="Italian">Dipartimento di El Progreso</name>
+		<name normalized="Departement d'El Progreso" languages="French">Département d'El Progreso</name>
+		<name normalized="El Progresas" languages="Lithuanian">El Progresas</name>
+		<name normalized="El Progreso" languages="Bosnian;Catalan;Dutch;English;French;Italian;Nahuatl;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Slovak;Spanish;Vietnamese;Waray">El Progreso</name>
+		<name normalized="El Progreso Depairtment" languages="Scots">El Progreso Depairtment</name>
+		<name normalized="El Progreso departamentas" languages="Lithuanian">El Progreso departamentas</name>
+		<name normalized="El Progreso Departamento" languages="English;official">El Progreso Departamento</name>
+		<name normalized="El Progreso Department" languages="English;official">El Progreso Department</name>
+		<name normalized="El Progreso suyu" languages="Quechua">El Progreso suyu</name>
+		<name normalized="Progreso" languages="Esperanto">Progreso</name>
+		<name normalized="Iл Pрogрiсo" languages="Bulgarian">Ел Прогресо</name>
+		<name normalized="Iль-Pрogрiсo" languages="Ukrainian">Ель-Прогресо</name>
+		<name normalized="Eль-Pрogрiсo" languages="Russian">Эль-Прогресо</name>
+		<name normalized="sوbہ אل prوgrیسو" languages="Western Punjabi">صوبہ ال پروگریسو</name>
+		<name normalized="ელ-პროგერსოს დეპარტამენტი" languages="Georgian">ელ-პროგერსოს დეპარტამენტი</name>
+		<name normalized="er・prgrs県" languages="Japanese">エル・プログレソ県</name>
+		<name normalized="埃爾普羅格雷索" languages="Chinese">埃爾普羅格雷索</name>
+		<name normalized="普羅格雷索省" languages="Chinese">普羅格雷索省</name>
+		<name normalized="엘프로그레소 주" languages="Korean">엘프로그레소 주</name>
+	</region>
+	<region name="Escuintla" type="department" typeTranslated="departamento">
+		<name normalized="Departament d'Escuintla" languages="Catalan">Departament d'Escuintla</name>
+		<name normalized="Departamento de Escuintla" languages="Galician">Departamento de Escuintla</name>
+		<name normalized="Departamento Escuintla" languages="German">Departamento Escuintla</name>
+		<name normalized="Departemen Escuintla" languages="Indonesian">Departemen Escuintla</name>
+		<name normalized="Dipartimento di Escuintla" languages="Italian">Dipartimento di Escuintla</name>
+		<name normalized="Departement d'Escuintla" languages="French">Département d'Escuintla</name>
+		<name normalized="Escuintla" languages="Basque;Bosnian;Dutch;English;French;German;Italian;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Scots;Slovak;Spanish;Vietnamese">Escuintla</name>
+		<name normalized="Escuintla Depairtment" languages="Scots">Escuintla Depairtment</name>
+		<name normalized="Escuintla Departamento" languages="English;official">Escuintla Departamento</name>
+		<name normalized="Escuintla Department" languages="English;official">Escuintla Department</name>
+		<name normalized="Escuintla suyu" languages="Quechua">Escuintla suyu</name>
+		<name normalized="Eskuintla" languages="Lithuanian">Eskuintla</name>
+		<name normalized="Eskuintlos departamentas" languages="Lithuanian">Eskuintlos departamentas</name>
+		<name normalized="Eskvintlo" languages="Esperanto">Eskvintlo</name>
+		<name normalized="Itzcuintlan" languages="Nahuatl">Itzcuintlān</name>
+		<name normalized="Εσκουιντλα" languages="Greek">Εσκουίντλα</name>
+		<name normalized="Iсkuiнtлa" languages="Bulgarian">Ескуинтла</name>
+		<name normalized="Eсkuiнtлa" languages="Russian">Эскуинтла</name>
+		<name normalized="ესკუინტლას დეპარტამენტი" languages="Georgian">ესკუინტლას დეპარტამენტი</name>
+		<name normalized="eskintr" languages="Japanese">エスクィントラ</name>
+		<name normalized="eskintr県" languages="Japanese">エスクィントラ県</name>
+		<name normalized="埃斯昆特拉" languages="Chinese">埃斯昆特拉</name>
+		<name normalized="埃斯昆特拉省" languages="Chinese">埃斯昆特拉省</name>
+		<name normalized="에스쿠인틀라 주" languages="Korean">에스쿠인틀라 주</name>
+	</region>
+	<region name="Guatemala" type="department" typeTranslated="departamento">
+		<name normalized="Baile Guatemala" languages="Scottish Gaelic">Baile Guatemala</name>
+		<name normalized="Banda Guatemala" languages="Achinese">Banda Guatemala</name>
+		<name normalized="Cidade da Guatemala" languages="Portuguese">Cidade da Guatemala</name>
+		<name normalized="Cidade de Guatemala" languages="Galician">Cidade de Guatemala</name>
+		<name normalized="Citta del Guatemala" languages="Italian">Città del Guatemala</name>
+		<name normalized="Cita del Guatemala" languages="lumbaart">Cità del Guatemala</name>
+		<name normalized="Ciudad de Guatemala" languages="Breton;Czech;Northern Sami;Romanian;Spanish;Volapuk">Ciudad de Guatemala</name>
+		<name normalized="Ciudad Guatemala" languages="Slovenian">Ciudad Guatemala</name>
+		<name normalized="Ciutat de Guatemala" languages="Catalan;Occitan">Ciutat de Guatemala</name>
+		<name normalized="Cuauhtemallan" languages="Nahuatl">Cuauhtēmallān</name>
+		<name normalized="Departament de Guatemala" languages="Catalan">Departament de Guatemala</name>
+		<name normalized="Departamento de Guatemala" languages="Galician">Departamento de Guatemala</name>
+		<name normalized="Departamento Guatemala" languages="German">Departamento Guatemala</name>
+		<name normalized="Departemen Guatemala" languages="Indonesian">Departemen Guatemala</name>
+		<name normalized="Dinas Guatemala" languages="Welsh">Dinas Guatemala</name>
+		<name normalized="Dipartimento di Guatemala" languages="Italian">Dipartimento di Guatemala</name>
+		<name normalized="Departement de Guatemala" languages="French">Département de Guatemala</name>
+		<name normalized="Guatamala City" languages="Danish">Guatamala City</name>
+		<name normalized="Guatemala" languages="Bosnian;Croatian;Dutch;English;Estonian;Finnish;French;Kurdish;Northern Sami;Norwegian (bokmal);official;Portuguese;Slovak;Spanish;Turkish;Vietnamese">Guatemala</name>
+		<name normalized="Guatemala by" languages="Norwegian (bokmal);Norwegian Nynorsk">Guatemala by</name>
+		<name normalized="Guatemala Ceety" languages="Scots">Guatemala Ceety</name>
+		<name normalized="Guatemala Chhi" languages="Chinese (Min Nan)">Guatemala Chhī</name>
+		<name normalized="Guatemala City" languages="Bosnian;English;Fiji Hindi;Shona;Simple English;Swahili;Swedish">Guatemala City</name>
+		<name normalized="Guatemala Cite" languages="Interlingue">Guatemala Cité</name>
+		<name normalized="Guatemala Depairtment" languages="Scots">Guatemala Depairtment</name>
+		<name normalized="Guatemala Departamento" languages="English;official">Guatemala Departamento</name>
+		<name normalized="Guatemala Departmanı" languages="Turkish">Guatemala Departmanı</name>
+		<name normalized="Guatemala Department" languages="English;official">Guatemala Department</name>
+		<name normalized="Guatemala Urbe" languages="Novial">Guatemala Urbe</name>
+		<name normalized="Guatemala-stad" languages="Afrikaans;Dutch">Guatemala-stad</name>
+		<name normalized="Guatemala-Stadt" languages="German">Guatemala-Stadt</name>
+		<name normalized="Guatemala-Urbo" languages="Ido">Guatemala-Urbo</name>
+		<name normalized="Guatemalako Hiria" languages="Basque">Guatemalako Hiria</name>
+		<name normalized="Guatemalavaros" languages="Hungarian">Guatemalaváros</name>
+		<name normalized="Gvatemala" languages="Latvian;Lithuanian">Gvatemala</name>
+		<name normalized="Gvatemalaborg" languages="Icelandic">Gvatemalaborg</name>
+		<name normalized="Gvatemalo" languages="Esperanto">Gvatemalo</name>
+		<name normalized="Gvatemalos departamentas" languages="Lithuanian">Gvatemalos departamentas</name>
+		<name normalized="Gvatemalurbo" languages="Esperanto">Gvatemalurbo</name>
+		<name normalized="Gwatemala" languages="Polish">Gwatemala</name>
+		<name normalized="Guatemala-Sted" languages="Western Frisian">Gûatemala-Stêd</name>
+		<name normalized="Kota Guatemala" languages="Indonesian">Kota Guatemala</name>
+		<name normalized="Lungsod ng Guwatemala" languages="Tagalog">Lungsod ng Guwatemala</name>
+		<name normalized="Qvatemala" languages="Azerbaijani">Qvatemala</name>
+		<name normalized="Sita ed Guatemala" languages="Piedmontese">Sità ëd Guatemala</name>
+		<name normalized="Siudad di Guatemala" languages="Papiamento">Siudad di Guatemala</name>
+		<name normalized="Siwdad" languages="Haitian">Siwdad</name>
+		<name normalized="Syudad han Guatemala" languages="Waray">Syudad han Guatemala</name>
+		<name normalized="Thanh pho Guatemala" languages="Vietnamese">Thành phố Guatemala</name>
+		<name normalized="Watimala llaqta" languages="Quechua">Watimala llaqta</name>
+		<name normalized="Watimala marka" languages="Aymara">Watimala marka</name>
+		<name normalized="Watimala suyu" languages="Quechua">Watimala suyu</name>
+		<name normalized="Ilu Guatemala" languages="Yoruba">Ìlú Guatẹmálà</name>
+		<name normalized="Altepetl Cuauhtemallan" languages="Nahuatl">Āltepētl Cuauhtēmallān</name>
+		<name normalized="Πολη της Γουατεμαλας" languages="Greek">Πόλη της Γουατεμάλας</name>
+		<name normalized="Gvatiмaлae" languages="Ossetic">Гватемалæ</name>
+		<name normalized="Gvatiмaлa" languages="Bulgarian;Chechen;Macedonian;Russian;Udmurt;Ukrainian">Гватемала</name>
+		<name normalized="Gvateмaлa" languages="biлaрuсkai (taрaskivita)‎">Гватэмала</name>
+		<name normalized="Goрad Gvateмaлa" languages="Belarusian">Горад Гватэмала</name>
+		<name normalized="Gрad Gvatiмaлa" languages="Serbian">Град Гватемала</name>
+		<name normalized="Guatiмaлa" languages="Sakha">Гуатемала</name>
+		<name normalized="גvאtמדh סיtי" languages="Hebrew">גואטמלה סיטי</name>
+		<name normalized="mدyنة غوאtymאلא" languages="Arabic">مدينة غواتيمالا</name>
+		<name normalized="gوئٹے mאلא شہr" languages="Urdu">گوئٹے مالا شہر</name>
+		<name normalized="gوאtmאلאسیtی" languages="Persian">گواتمالاسیتی</name>
+		<name normalized="gۋאtېmאلא شەھىrى" languages="Uyghur">گۋاتېمالا شەھىرى</name>
+		<name normalized="g्vाटemाlा ngr" languages="Hindi">ग्वाटेमाला नगर</name>
+		<name normalized="g्vाtemाlा siटi" languages="Marathi">ग्वातेमाला सिटी</name>
+		<name normalized="guy়াtemাlা siটi" languages="Bengali">গুয়াতেমালা সিটি</name>
+		<name normalized="guatੇmਾlਾ s਼hir" languages="Punjabi">ਗੁਆਤੇਮਾਲਾ ਸ਼ਹਿਰ</name>
+		<name normalized="குவாத்தமாலா நகரம்" languages="Tamil">குவாத்தமாலா நகரம்</name>
+		<name normalized="กัวเตมาลาซิตี" languages="Thai">กัวเตมาลาซิตี</name>
+		<name normalized="གུ་ཝེ་ཐི་མ་ལ་གྲོང་ཁྱེར།" languages="Tibetan">གུ་ཝེ་ཐི་མ་ལ་གྲོང་ཁྱེར།</name>
+		<name normalized="გვატემალა" languages="Georgian">გვატემალა</name>
+		<name normalized="გვატემალის დეპარტამენტი" languages="Georgian">გვატემალის დეპარტამენტი</name>
+		<name normalized="gatmrsti" languages="Japanese">グアテマラシティ</name>
+		<name normalized="gatmr県" languages="Japanese">グアテマラ県</name>
+		<name normalized="瓜地馬拉市" languages="Chinese">瓜地馬拉市</name>
+		<name normalized="瓜地馬拉省" languages="Chinese">瓜地馬拉省</name>
+		<name normalized="과테말라" languages="Korean">과테말라</name>
+		<name normalized="과테말라 주" languages="Korean">과테말라 주</name>
+	</region>
+	<region name="Huehuetenango" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Huehuetenango" languages="Catalan">Departament de Huehuetenango</name>
+		<name normalized="Departamento de Huehuetenango" languages="Galician">Departamento de Huehuetenango</name>
+		<name normalized="Departamento Huehuetenango" languages="German">Departamento Huehuetenango</name>
+		<name normalized="Departemen Huehuetenango" languages="Indonesian">Departemen Huehuetenango</name>
+		<name normalized="Dipartimento di Huehuetenango" languages="Italian">Dipartimento di Huehuetenango</name>
+		<name normalized="Departement de Huehuetenango" languages="French">Département de Huehuetenango</name>
+		<name normalized="Huehuetenangas" languages="Lithuanian">Huehuetenangas</name>
+		<name normalized="Huehuetenango" languages="Bosnian;Danish;Dutch;English;Esperanto;Finnish;French;German;Italian;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Slovak;Spanish;Vietnamese">Huehuetenango</name>
+		<name normalized="Huehuetenango Depairtment" languages="Scots">Huehuetenango Depairtment</name>
+		<name normalized="Huehuetenango departamentas" languages="Lithuanian">Huehuetenango departamentas</name>
+		<name normalized="Huehuetenango Departamento" languages="English;official">Huehuetenango Departamento</name>
+		<name normalized="Huehuetenango Department" languages="English;official">Huehuetenango Department</name>
+		<name normalized="Huehuetenango suyu" languages="Quechua">Huehuetenango suyu</name>
+		<name normalized="Ahuehuetenanco" languages="Nahuatl">Āhuēhuētēnanco</name>
+		<name normalized="Uiuitiнaнgo" languages="Bulgarian">Уеуетенанго</name>
+		<name normalized="Ueuetiнaнgo" languages="Russian">Уэуэтенанго</name>
+		<name normalized="უეუეტენანგოს დეპარტამენტი" languages="Georgian">უეუეტენანგოს დეპარტამენტი</name>
+		<name normalized="ueuetnng" languages="Japanese">ウェウェテナンゴ</name>
+		<name normalized="ueuetnng県" languages="Japanese">ウェウェテナンゴ県</name>
+		<name normalized="韋韋特南戈" languages="Chinese">韋韋特南戈</name>
+		<name normalized="韋韋特南戈省" languages="Chinese">韋韋特南戈省</name>
+		<name normalized="우에우에테낭고" languages="Korean">우에우에테낭고</name>
+		<name normalized="우에우에테낭고 주" languages="Korean">우에우에테낭고 주</name>
+	</region>
+	<region name="Izabal" type="department" typeTranslated="departamento">
+		<name normalized="Departamento de Izabal" languages="Galician">Departamento de Izabal</name>
+		<name normalized="Departamento Izabal" languages="German">Departamento Izabal</name>
+		<name normalized="Departemen Izabal" languages="Indonesian">Departemen Izabal</name>
+		<name normalized="Dipartimento di Izabal" languages="Italian">Dipartimento di Izabal</name>
+		<name normalized="Departement d'Izabal" languages="French">Département d'Izabal</name>
+		<name normalized="Isabalio departamentas" languages="Lithuanian">Isabalio departamentas</name>
+		<name normalized="Isabalis" languages="Lithuanian">Isabalis</name>
+		<name normalized="Izabal" languages="Bosnian;Catalan;Dutch;English;Esperanto;Finnish;Nahuatl;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Slovak;Spanish;Vietnamese">Izabal</name>
+		<name normalized="Izabal Depairtment" languages="Scots">Izabal Depairtment</name>
+		<name normalized="Izabal Departamento" languages="English;official">Izabal Departamento</name>
+		<name normalized="Izabal Department" languages="English;official;Simple English">Izabal Department</name>
+		<name normalized="Izabal suyu" languages="Quechua">Izabal suyu</name>
+		<name normalized="Iсabaл" languages="Bulgarian">Исабал</name>
+		<name normalized="Iсabaль" languages="Russian">Исабаль</name>
+		<name normalized="Iсabaль" languages="Ukrainian">Ісабаль</name>
+		<name normalized="ისაბალის დეპარტამენტი" languages="Georgian">ისაბალის დეპარტამენტი</name>
+		<name normalized="isbr県" languages="Japanese">イサバル県</name>
+		<name normalized="伊薩瓦爾省" languages="Chinese">伊薩瓦爾省</name>
+		<name normalized="이사발 주" languages="Korean">이사발 주</name>
+	</region>
+	<region name="Jalapa" type="department" typeTranslated="departamento">
+		<name normalized="Chalapa" languages="Lithuanian">Chalapa</name>
+		<name normalized="Chalapos departamentas" languages="Lithuanian">Chalapos departamentas</name>
+		<name normalized="Departament de Jalapa" languages="Catalan">Departament de Jalapa</name>
+		<name normalized="Departamento de Jalapa" languages="Galician">Departamento de Jalapa</name>
+		<name normalized="Departamento Jalapa" languages="German">Departamento Jalapa</name>
+		<name normalized="Dipartimento di Jalapa" languages="Italian">Dipartimento di Jalapa</name>
+		<name normalized="Departement de Jalapa" languages="French">Département de Jalapa</name>
+		<name normalized="Halapo" languages="Esperanto">Halapo</name>
+		<name normalized="Jalapa" languages="Bosnian;Dutch;English;French;German;Italian;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Slovak;Spanish;Vietnamese">Jalapa</name>
+		<name normalized="Jalapa Depairtment" languages="Scots">Jalapa Depairtment</name>
+		<name normalized="Jalapa Departamento" languages="English;official">Jalapa Departamento</name>
+		<name normalized="Jalapa Department" languages="English;official">Jalapa Department</name>
+		<name normalized="Jalapa suyu" languages="Quechua">Jalapa suyu</name>
+		<name normalized="Xalapan" languages="Nahuatl">Xālāpan</name>
+		<name normalized="Kaлapa" languages="Bulgarian;Russian">Халапа</name>
+		<name normalized="ხალაპის დეპარტამენტი" languages="Georgian">ხალაპის დეპარტამენტი</name>
+		<name normalized="hrp県" languages="Japanese">ハラパ県</name>
+		<name normalized="哈拉帕" languages="Chinese">哈拉帕</name>
+		<name normalized="哈拉帕省" languages="Chinese">哈拉帕省</name>
+		<name normalized="할라파 주" languages="Korean">할라파 주</name>
+	</region>
+	<region name="Jutiapa" type="department" typeTranslated="departamento">
+		<name normalized="Chutiapa" languages="Lithuanian">Chutiapa</name>
+		<name normalized="Chutiapos departamentas" languages="Lithuanian">Chutiapos departamentas</name>
+		<name normalized="Departament de Jutiapa" languages="Catalan">Departament de Jutiapa</name>
+		<name normalized="Departamento de Jutiapa" languages="Galician">Departamento de Jutiapa</name>
+		<name normalized="Departamento Jutiapa" languages="German">Departamento Jutiapa</name>
+		<name normalized="Dipartimento di Jutiapa" languages="Italian">Dipartimento di Jutiapa</name>
+		<name normalized="Departement de Jutiapa" languages="French">Département de Jutiapa</name>
+		<name normalized="Hutiapo" languages="Esperanto">Hutiapo</name>
+		<name normalized="Jutiapa" languages="Bosnian;Croatian;Dutch;English;French;German;Italian;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Slovak;Spanish;Vietnamese">Jutiapa</name>
+		<name normalized="Jutiapa Depairtment" languages="Scots">Jutiapa Depairtment</name>
+		<name normalized="Jutiapa Departamento" languages="English;official">Jutiapa Departamento</name>
+		<name normalized="Jutiapa Department" languages="English;official">Jutiapa Department</name>
+		<name normalized="Jutiapa suyu" languages="Quechua">Jutiapa suyu</name>
+		<name normalized="Kutiapa" languages="Bulgarian">Хутиапа</name>
+		<name normalized="Kutьipa" languages="Russian">Хутьяпа</name>
+		<name normalized="ხუტიაპის დეპარტამენტი" languages="Georgian">ხუტიაპის დეპარტამენტი</name>
+		<name normalized="htiap県" languages="Japanese">フティアパ県</name>
+		<name normalized="胡蒂亞帕" languages="Chinese">胡蒂亞帕</name>
+		<name normalized="胡蒂亞帕省" languages="Chinese">胡蒂亞帕省</name>
+		<name normalized="후티아파 주" languages="Korean">후티아파 주</name>
+	</region>
+	<region name="Peten" type="department" typeTranslated="departamento">
+		<name normalized="Departamento de El Peten" languages="Galician">Departamento de El Petén</name>
+		<name normalized="Departamento Peten" languages="German">Departamento Petén</name>
+		<name normalized="Departemen El Peten" languages="Indonesian">Departemen El Petén</name>
+		<name normalized="Dipartimento di Peten" languages="Italian">Dipartimento di Petén</name>
+		<name normalized="Departement du Peten" languages="French">Département du Petén</name>
+		<name normalized="El Peten" languages="Catalan;Danish;Portuguese">El Petén</name>
+		<name normalized="Peten" languages="English;Esperanto;official">Peten</name>
+		<name normalized="Peten Departamento" languages="English;official">Peten Departamento</name>
+		<name normalized="Peten Department" languages="English;official">Peten Department</name>
+		<name normalized="Peteno departamentas" languages="Lithuanian">Peteno departamentas</name>
+		<name normalized="Peten" languages="Bosnian;Czech;Dutch;English;Finnish;Nahuatl;Northern Sami;Norwegian (bokmal);Polish;Slovak;Spanish">Petén</name>
+		<name normalized="Peten Depairtment" languages="Scots">Petén Depairtment</name>
+		<name normalized="Peten Department" languages="English;Simple English">Petén Department</name>
+		<name normalized="Peten suyu" languages="Quechua">Petén suyu</name>
+		<name normalized="Pitiн" languages="Bulgarian;Russian">Петен</name>
+		<name normalized="sوbہ pیٹن" languages="Western Punjabi">صوبہ پیٹن</name>
+		<name normalized="peটen" languages="Bengali">পেটেন</name>
+		<name normalized="პეტენის დეპარტამენტი" languages="Georgian">პეტენის დეპარტამენტი</name>
+		<name normalized="ptn県" languages="Japanese">ペテン県</name>
+		<name normalized="貝登省" languages="Chinese">貝登省</name>
+		<name normalized="페텐 주" languages="Korean">페텐 주</name>
+	</region>
+	<region name="Quetzaltenango" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Quetzaltenango" languages="Catalan">Departament de Quetzaltenango</name>
+		<name normalized="Departamento de Quetzaltenango" languages="Galician">Departamento de Quetzaltenango</name>
+		<name normalized="Departamento Quetzaltenango" languages="German">Departamento Quetzaltenango</name>
+		<name normalized="Departemen Quetzaltenango" languages="Indonesian">Departemen Quetzaltenango</name>
+		<name normalized="Dipartimento di Quetzaltenango" languages="Italian">Dipartimento di Quetzaltenango</name>
+		<name normalized="Departement de Quetzaltenango" languages="French">Département de Quetzaltenango</name>
+		<name normalized="Kecaltenangas" languages="Lithuanian">Kecaltenangas</name>
+		<name normalized="Kecaltenango departamentas" languages="Lithuanian">Kecaltenango departamentas</name>
+		<name normalized="Ketzaltenango" languages="Esperanto">Ketzaltenango</name>
+		<name normalized="Quetzaltenango" languages="Basque;Bosnian;Catalan;Czech;Danish;Dutch;English;Finnish;French;German;Indonesian;Italian;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Slovak;Spanish;Swedish;Vietnamese">Quetzaltenango</name>
+		<name normalized="Quetzaltenango Depairtment" languages="Scots">Quetzaltenango Depairtment</name>
+		<name normalized="Quetzaltenango Departamento" languages="English;official">Quetzaltenango Departamento</name>
+		<name normalized="Quetzaltenango Department" languages="English;official">Quetzaltenango Department</name>
+		<name normalized="Quetzaltenango suyu" languages="Quechua">Quetzaltenango suyu</name>
+		<name normalized="Quetzaltenanco" languages="Nahuatl">Quetzaltenānco</name>
+		<name normalized="Κετσαλτενανγκο" languages="Greek">Κετσαλτενάνγκο</name>
+		<name normalized="Kiсaльtiнaнgo" languages="Russian;Ukrainian">Кесальтенанго</name>
+		<name normalized="Kitaлtiнaнgo" languages="Bulgarian">Кецалтенанго</name>
+		<name normalized="კეცალტენანგოს დეპარტამენტი" languages="Georgian">კეცალტენანგოს დეპარტამენტი</name>
+		<name normalized="ktartnng" languages="Japanese">ケツァルテナンゴ</name>
+		<name normalized="ktartnng県" languages="Japanese">ケツァルテナンゴ県</name>
+		<name normalized="克薩爾特南戈" languages="Chinese">克薩爾特南戈</name>
+		<name normalized="克薩爾特南戈省" languages="Chinese">克薩爾特南戈省</name>
+		<name normalized="케찰테낭고 주" languages="Korean">케찰테낭고 주</name>
+		<name normalized="케트살테낭고" languages="Korean">케트살테낭고</name>
+	</region>
+	<region name="Quiche" type="department" typeTranslated="departamento">
+		<name normalized="Departamento de El Quiche" languages="Galician">Departamento de El Quiché</name>
+		<name normalized="Departamento Quiche" languages="German">Departamento Quiché</name>
+		<name normalized="Departemen El Quiche" languages="Indonesian">Departemen El Quiché</name>
+		<name normalized="Dipartimento di Quiche" languages="Italian">Dipartimento di Quiché</name>
+		<name normalized="Departement du Quiche" languages="French">Département du Quiché</name>
+		<name normalized="El Quiche" languages="Catalan;Northern Sami;Portuguese">El Quiché</name>
+		<name normalized="Kiceo" languages="Esperanto">Kiĉeo</name>
+		<name normalized="Kices departamentas" languages="Lithuanian">Kičės departamentas</name>
+		<name normalized="Kiso" languages="Esperanto">Kiŝo</name>
+		<name normalized="Quiche" languages="Catalan;Danish;Dutch;English;Finnish;French;German;Hungarian;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Simple English;Spanish">Quiche</name>
+		<name normalized="Quiche Departamento" languages="English;official">Quiche Departamento</name>
+		<name normalized="Quiche Department" languages="English;official">Quiche Department</name>
+		<name normalized="Quiche lorraine" languages="Swedish">Quiche lorraine</name>
+		<name normalized="Quiche" languages="Basque;Bosnian;Dutch;Nahuatl;Norwegian (bokmal);Polish;Serbo-Croatian;Slovak;Spanish;Vietnamese">Quiché</name>
+		<name normalized="Quiche Depairtment" languages="Scots">Quiché Depairtment</name>
+		<name normalized="Quiche Department" languages="English">Quiché Department</name>
+		<name normalized="Quiche suyu" languages="Quechua">Quiché suyu</name>
+		<name normalized="Iл Kici" languages="Bulgarian">Ел Киче</name>
+		<name normalized="Kici" languages="Russian">Киче</name>
+		<name normalized="Kis" languages="Russian">Киш</name>
+		<name normalized="Kis" languages="Ukrainian">Кіш</name>
+		<name normalized="qיש" languages="Hebrew">קיש</name>
+		<name normalized="pאی کیش" languages="Persian">پای کیش</name>
+		<name normalized="กิช" languages="Thai">กิช</name>
+		<name normalized="კიჩეს დეპარტამენტი" languages="Georgian">კიჩეს დეპარტამენტი</name>
+		<name normalized="kte県" languages="Japanese">キチェ県</name>
+		<name normalized="ktsy" languages="Japanese">キッシュ</name>
+		<name normalized="基切省" languages="Chinese">基切省</name>
+		<name normalized="法式鹹派" languages="Chinese">法式鹹派</name>
+		<name normalized="키체 주" languages="Korean">키체 주</name>
+	</region>
+	<region name="Retalhuleu" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Retalhuleu" languages="Catalan">Departament de Retalhuleu</name>
+		<name normalized="Departamento de Retalhuleu" languages="Galician">Departamento de Retalhuleu</name>
+		<name normalized="Departamento Retalhuleu" languages="German">Departamento Retalhuleu</name>
+		<name normalized="Departemen Retalhuleu" languages="Indonesian">Departemen Retalhuleu</name>
+		<name normalized="Dipartimento di Retalhuleu" languages="Italian">Dipartimento di Retalhuleu</name>
+		<name normalized="Departement de Retalhuleu" languages="French">Département de Retalhuleu</name>
+		<name normalized="Retalhuleu" languages="Bosnian;Dutch;English;Esperanto;Nahuatl;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Slovak;Spanish;Vietnamese">Retalhuleu</name>
+		<name normalized="Retalhuleu Depairtment" languages="Scots">Retalhuleu Depairtment</name>
+		<name normalized="Retalhuleu departamentas" languages="Lithuanian">Retalhuleu departamentas</name>
+		<name normalized="Retalhuleu Departamento" languages="English;official">Retalhuleu Departamento</name>
+		<name normalized="Retalhuleu Department" languages="English;official">Retalhuleu Department</name>
+		<name normalized="Retalhuleu suyu" languages="Quechua">Retalhuleu suyu</name>
+		<name normalized="Рitaлuлiu" languages="Bulgarian;Russian">Реталулеу</name>
+		<name normalized="რეტალულეუს დეპარტამენტი" languages="Georgian">რეტალულეუს დეპარტამენტი</name>
+		<name normalized="rtrru県" languages="Japanese">レタルレウ県</name>
+		<name normalized="雷塔盧萊烏省" languages="Chinese">雷塔盧萊烏省</name>
+		<name normalized="레탈룰레우 주" languages="Korean">레탈룰레우 주</name>
+	</region>
+	<region name="Sacatepequez" type="department" typeTranslated="departamento">
+		<name normalized="Departamento de Sacatepequez" languages="Galician">Departamento de Sacatepéquez</name>
+		<name normalized="Departamento Sacatepequez" languages="German">Departamento Sacatepéquez</name>
+		<name normalized="Departemen Sacatepequez" languages="Indonesian">Departemen Sacatepéquez</name>
+		<name normalized="Dipartimento di Sacatepequez" languages="Italian">Dipartimento di Sacatepéquez</name>
+		<name normalized="Departement de Sacatepequez" languages="French">Département de Sacatepéquez</name>
+		<name normalized="Sacatepequez" languages="English;official">Sacatepequez</name>
+		<name normalized="Sacatepequez Departamento" languages="English;official">Sacatepequez Departamento</name>
+		<name normalized="Sacatepequez Department" languages="English;official">Sacatepequez Department</name>
+		<name normalized="Sacatepequez suyu" languages="Quechua">Sacatepequez suyu</name>
+		<name normalized="Sacatepequez" languages="Bosnian;Catalan;Dutch;English;Northern Sami;Norwegian (bokmal);Polish;Portuguese;Slovak;Spanish;Vietnamese">Sacatepéquez</name>
+		<name normalized="Sacatepequez Depairtment" languages="Scots">Sacatepéquez Depairtment</name>
+		<name normalized="Sacatepequez Department" languages="English">Sacatepéquez Department</name>
+		<name normalized="Sakatepekeso departamentas" languages="Lithuanian">Sakatepekeso departamentas</name>
+		<name normalized="Sakatepekezo" languages="Esperanto">Sakatepekezo</name>
+		<name normalized="Zacatepec" languages="Nahuatl">Zacatepēc</name>
+		<name normalized="Сakatipikiс" languages="Bulgarian;Russian">Сакатепекес</name>
+		<name normalized="საკატეპეკესის დეპარტამენტი" languages="Georgian">საკატეპეკესის დეპარტამენტი</name>
+		<name normalized="sktpks県" languages="Japanese">サカテペケス県</name>
+		<name normalized="薩卡特佩克斯省" languages="Chinese">薩卡特佩克斯省</name>
+		<name normalized="사카테페케스 주" languages="Korean">사카테페케스 주</name>
+	</region>
+	<region name="San Marcos" type="department" typeTranslated="departamento">
+		<name normalized="Departament de San Marcos" languages="Catalan">Departament de San Marcos</name>
+		<name normalized="Departamento de San Marcos" languages="Galician">Departamento de San Marcos</name>
+		<name normalized="Departamento San Marcos" languages="German">Departamento San Marcos</name>
+		<name normalized="Departemen San Marcos" languages="Indonesian">Departemen San Marcos</name>
+		<name normalized="Dipartimento di San Marcos" languages="Italian">Dipartimento di San Marcos</name>
+		<name normalized="Departement de San Marcos" languages="French">Département de San Marcos</name>
+		<name normalized="San Marcos" languages="Bosnian;Dutch;English;French;Galician;German;Italian;Nahuatl;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Scots;Slovak;Spanish;Vietnamese">San Marcos</name>
+		<name normalized="San Marcos Depairtment" languages="Scots">San Marcos Depairtment</name>
+		<name normalized="San Marcos Departamento" languages="English;official">San Marcos Departamento</name>
+		<name normalized="San Marcos Department" languages="English;official">San Marcos Department</name>
+		<name normalized="San Marcos suyu" languages="Quechua">San Marcos suyu</name>
+		<name normalized="San Markosas" languages="Lithuanian">San Markosas</name>
+		<name normalized="San Markoso departamentas" languages="Lithuanian">San Markoso departamentas</name>
+		<name normalized="Sankta Marko" languages="Esperanto">Sankta Marko</name>
+		<name normalized="Сaн Мaрkoс" languages="Bulgarian">Сан Маркос</name>
+		<name normalized="Сaн-Мaрkoс" languages="Russian">Сан-Маркос</name>
+		<name normalized="სან-მარკოსის დეპარტამენტი" languages="Georgian">სან-მარკოსის დეპარტამენტი</name>
+		<name normalized="sn・mrks県" languages="Japanese">サン・マルコス県</name>
+		<name normalized="聖馬科斯" languages="Chinese">聖馬科斯</name>
+		<name normalized="聖馬科斯省" languages="Chinese">聖馬科斯省</name>
+		<name normalized="산마르코스 주" languages="Korean">산마르코스 주</name>
+	</region>
+	<region name="Santa Rosa" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Santa Rosa" languages="Catalan">Departament de Santa Rosa</name>
+		<name normalized="Departamento de Santa Rosa" languages="Galician">Departamento de Santa Rosa</name>
+		<name normalized="Departamento Santa Rosa" languages="German">Departamento Santa Rosa</name>
+		<name normalized="Departemen Santa Rosa" languages="Indonesian">Departemen Santa Rosa</name>
+		<name normalized="Dipartimento di Santa Rosa" languages="Italian">Dipartimento di Santa Rosa</name>
+		<name normalized="Departement de Santa Rosa" languages="French">Département de Santa Rosa</name>
+		<name normalized="Sankta Roza" languages="Esperanto">Sankta Roza</name>
+		<name normalized="Santa Rosa" languages="Bosnian;Catalan;Dutch;English;French;Galician;German;Iloko;Italian;Lithuanian;Nahuatl;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Slovak;Spanish;Swahili;Swedish;Vietnamese;Volapuk;Waray">Santa Rosa</name>
+		<name normalized="Santa Rosa Depairtment" languages="Scots">Santa Rosa Depairtment</name>
+		<name normalized="Santa Rosa Departamento" languages="English;official">Santa Rosa Departamento</name>
+		<name normalized="Santa Rosa Department" languages="English;official">Santa Rosa Department</name>
+		<name normalized="Santa Rosa suyu" languages="Quechua">Santa Rosa suyu</name>
+		<name normalized="Santa Rosos departamentas" languages="Lithuanian">Santa Rosos departamentas</name>
+		<name normalized="Сaнta Рoсa" languages="Bulgarian;Serbian">Санта Роса</name>
+		<name normalized="Сaнta-Рoza" languages="Russian">Санта-Роза</name>
+		<name normalized="Сaнta-Рoсa" languages="Russian;Ukrainian">Санта-Роса</name>
+		<name normalized="tولאrوسא, نیوmکزیکو" languages="Persian">تولاروسا، نیومکزیکو</name>
+		<name normalized="სანტა-როსას დეპარტამენტი" languages="Georgian">სანტა-როსას დეპარტამენტი</name>
+		<name normalized="sntrーz" languages="Japanese">サンタローザ</name>
+		<name normalized="snt・rーs県" languages="Japanese">サンタ・ローサ県</name>
+		<name normalized="聖羅薩省" languages="Chinese">聖羅薩省</name>
+		<name normalized="산타로사" languages="Korean">산타로사</name>
+		<name normalized="산타로사 주" languages="Korean">산타로사 주</name>
+	</region>
+	<region name="Solola" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Solola" languages="Catalan">Departament de Sololá</name>
+		<name normalized="Departamento de Solola" languages="Galician">Departamento de Sololá</name>
+		<name normalized="Departamento Solola" languages="German">Departamento Sololá</name>
+		<name normalized="Departemen Solola" languages="Indonesian">Departemen Sololá</name>
+		<name normalized="Dipartimento di Solola" languages="Italian">Dipartimento di Sololá</name>
+		<name normalized="Departement de Solola" languages="French">Département de Sololá</name>
+		<name normalized="Solola" languages="English;Lithuanian;official">Solola</name>
+		<name normalized="Solola Departamento" languages="English;official">Solola Departamento</name>
+		<name normalized="Solola Department" languages="English;official">Solola Department</name>
+		<name normalized="Sololao" languages="Esperanto">Sololao</name>
+		<name normalized="Sololos departamentas" languages="Lithuanian">Sololos departamentas</name>
+		<name normalized="Solola" languages="Bosnian;Dutch;English;French;German;Italian;Nahuatl;Northern Sami;Norwegian (bokmal);Polish;Portuguese;Slovak;Spanish;Vietnamese">Sololá</name>
+		<name normalized="Solola Depairtment" languages="Scots">Sololá Depairtment</name>
+		<name normalized="Solola Department" languages="English">Sololá Department</name>
+		<name normalized="Solola suyu" languages="Quechua">Sololá suyu</name>
+		<name normalized="Сoлoлa" languages="Bulgarian;Russian">Солола</name>
+		<name normalized="სოლოლის დეპარტამენტი" languages="Georgian">სოლოლის დეპარტამენტი</name>
+		<name normalized="srr県" languages="Japanese">ソロラ県</name>
+		<name normalized="索洛拉" languages="Chinese">索洛拉</name>
+		<name normalized="索洛拉省" languages="Chinese">索洛拉省</name>
+		<name normalized="솔롤라 주" languages="Korean">솔롤라 주</name>
+	</region>
+	<region name="Suchitepequez" type="department" typeTranslated="departamento">
+		<name normalized="Departamento de Suchitepequez" languages="Galician">Departamento de Suchitepéquez</name>
+		<name normalized="Departamento Suchitepequez" languages="German">Departamento Suchitepéquez</name>
+		<name normalized="Departemen Suchitepequez" languages="Indonesian">Departemen Suchitepequez</name>
+		<name normalized="Dipartimento di Suchitepequez" languages="Italian">Dipartimento di Suchitepéquez</name>
+		<name normalized="Departement de Suchitepequez" languages="French">Département de Suchitepéquez</name>
+		<name normalized="Suchitepequez" languages="English;official">Suchitepequez</name>
+		<name normalized="Suchitepequez Departamento" languages="English;official">Suchitepequez Departamento</name>
+		<name normalized="Suchitepequez Department" languages="English;official">Suchitepequez Department</name>
+		<name normalized="Suchitepequez" languages="Bosnian;Catalan;Dutch;Northern Sami;Norwegian (bokmal);Polish;Portuguese;Slovak;Spanish;Vietnamese">Suchitepéquez</name>
+		<name normalized="Suchitepequez Depairtment" languages="Scots">Suchitepéquez Depairtment</name>
+		<name normalized="Suchitepequez Department" languages="English">Suchitepéquez Department</name>
+		<name normalized="Suchitepequez suyu" languages="Quechua">Suchitepéquez suyu</name>
+		<name normalized="Sucitepekezo" languages="Esperanto">Suĉitepekezo</name>
+		<name normalized="Sucitepekeso departamentas" languages="Lithuanian">Sučitepekeso departamentas</name>
+		<name normalized="Xochitepec" languages="Nahuatl">Xōchitepēc</name>
+		<name normalized="Сucitipikiс" languages="Bulgarian;Russian">Сучитепекес</name>
+		<name normalized="სუჩიტეპეკესის დეპარტამენტი" languages="Georgian">სუჩიტეპეკესის დეპარტამენტი</name>
+		<name normalized="sttpks県" languages="Japanese">スチテペケス県</name>
+		<name normalized="蘇奇特佩克斯省" languages="Chinese">蘇奇特佩克斯省</name>
+		<name normalized="수치테페케스 주" languages="Korean">수치테페케스 주</name>
+	</region>
+	<region name="Totonicapan" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Totonicapan" languages="Catalan">Departament de Totonicapán</name>
+		<name normalized="Departamento de Totonicapan" languages="Galician">Departamento de Totonicapán</name>
+		<name normalized="Departamento Totonicapan" languages="German">Departamento Totonicapán</name>
+		<name normalized="Dipartimento di Totonicapan" languages="Italian">Dipartimento di Totonicapán</name>
+		<name normalized="Departement de Totonicapan" languages="French">Département de Totonicapán</name>
+		<name normalized="Totonicapan" languages="English;official">Totonicapan</name>
+		<name normalized="Totonicapan Departamento" languages="English;official">Totonicapan Departamento</name>
+		<name normalized="Totonicapan Department" languages="English;official">Totonicapan Department</name>
+		<name normalized="Totonicapan" languages="Bosnian;Dutch;English;French;Galician;German;Italian;Northern Sami;Norwegian (bokmal);Polish;Portuguese;Slovak;Spanish;Vietnamese">Totonicapán</name>
+		<name normalized="Totonicapan Depairtment" languages="Scots">Totonicapán Depairtment</name>
+		<name normalized="Totonicapan Department" languages="English">Totonicapán Department</name>
+		<name normalized="Totonicapan suyu" languages="Quechua">Totonicapán suyu</name>
+		<name normalized="Totonikapanas" languages="Lithuanian">Totonikapanas</name>
+		<name normalized="Totonikapano" languages="Esperanto">Totonikapano</name>
+		<name normalized="Totonikapano departamentas" languages="Lithuanian">Totonikapano departamentas</name>
+		<name normalized="Totonicapan" languages="Nahuatl">Totōnicāpan</name>
+		<name normalized="Totoнikapaн" languages="Bulgarian;Russian">Тотоникапан</name>
+		<name normalized="ტოტონიკაპანის დეპარტამენტი" languages="Georgian">ტოტონიკაპანის დეპარტამენტი</name>
+		<name normalized="ttnkpn県" languages="Japanese">トトニカパン県</name>
+		<name normalized="托托尼卡潘" languages="Chinese">托托尼卡潘</name>
+		<name normalized="托托尼卡潘省" languages="Chinese">托托尼卡潘省</name>
+		<name normalized="토토니카판 주" languages="Korean">토토니카판 주</name>
+	</region>
+	<region name="Zacapa" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Zacapa" languages="Catalan">Departament de Zacapa</name>
+		<name normalized="Departamento de Zacapa" languages="Galician">Departamento de Zacapa</name>
+		<name normalized="Departamento Zacapa" languages="German">Departamento Zacapa</name>
+		<name normalized="Departemen Zacapa" languages="Indonesian">Departemen Zacapa</name>
+		<name normalized="Dipartimento di Zacapa" languages="Italian">Dipartimento di Zacapa</name>
+		<name normalized="Departement de Zacapa" languages="French">Département de Zacapa</name>
+		<name normalized="Sakapa" languages="Lithuanian">Sakapa</name>
+		<name normalized="Sakapos departamentas" languages="Lithuanian">Sakapos departamentas</name>
+		<name normalized="Zacapa" languages="Bosnian;Danish;Dutch;English;French;German;Italian;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Slovak;Spanish;Vietnamese">Zacapa</name>
+		<name normalized="Zacapa Depairtment" languages="Scots">Zacapa Depairtment</name>
+		<name normalized="Zacapa Departamento" languages="English;official">Zacapa Departamento</name>
+		<name normalized="Zacapa Department" languages="English;official">Zacapa Department</name>
+		<name normalized="Zacapa suyu" languages="Quechua">Zacapa suyu</name>
+		<name normalized="Zacapan" languages="Nahuatl">Zacāpan</name>
+		<name normalized="Zakapo" languages="Esperanto">Zakapo</name>
+		<name normalized="Сakapa" languages="Bulgarian;Russian">Сакапа</name>
+		<name normalized="საკაპის დეპარტამენტი" languages="Georgian">საკაპის დეპარტამენტი</name>
+		<name normalized="skp県" languages="Japanese">サカパ県</name>
+		<name normalized="薩卡帕" languages="Chinese">薩卡帕</name>
+		<name normalized="薩卡帕省" languages="Chinese">薩卡帕省</name>
+		<name normalized="사카파 주" languages="Korean">사카파 주</name>
+	</region>
+</regions>

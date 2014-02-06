@@ -1,0 +1,941 @@
+<regions country="Germany">
+	<region name="Baden-Wuerttemberg" type="state" typeTranslated="Land">
+		<name normalized="Bade-Wirddebarsch" languages="Palzisch">Bade-Wirddebärsch</name>
+		<name normalized="Bade-Wurtemberg" languages="French">Bade-Wurtemberg</name>
+		<name normalized="Baden-Virtembergo" languages="Esperanto">Baden-Virtembergo</name>
+		<name normalized="Baden-Vyrtemberg" languages="Albanian">Baden-Vyrtemberg</name>
+		<name normalized="Baden-Vyurtemberg" languages="Uzbek">Baden-Vyurtemberg</name>
+		<name normalized="Baden-Vurtemberg" languages="Turkish">Baden-Vürtemberg</name>
+		<name normalized="Baden-Vurtemberq" languages="Azerbaijani">Baden-Vürtemberq</name>
+		<name normalized="Baden-Wuertemberg" languages="Interlingua">Baden-Wuertemberg</name>
+		<name normalized="Baden-Wuerttemberg" languages="English;official">Baden-Wuerttemberg</name>
+		<name normalized="Baden-Wurtemberg" languages="Aragonese;Guarani;Spanish">Baden-Wurtemberg</name>
+		<name normalized="Baden-Wyrttemberg" languages="Old English">Baden-Wyrttemberg</name>
+		<name normalized="Baden-Wurtemberch" languages="Western Frisian">Baden-Wúrtemberch</name>
+		<name normalized="Baden-Wurrtenberg" languages="Ligure">Baden-Würrtenberg</name>
+		<name normalized="Baden-Wurtembierich" languages="Seeltersk">Baden-Würtembierich</name>
+		<name normalized="Baden-Wurttemberg" languages="Afrikaans;Alemannisch;Asturian;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Corsican;Croatian;Danish;Dutch;Emiliano-Romagnolo;English;Estonian;Finnish;Galician;German;Hungarian;Icelandic;Iloko;Indonesian;Interlingue;Irish;Italian;Javanese;Kongo;Kurdish;Limburgish;Low German;lumbaart;Luxembourgish;Malay;Manx;Nahuatl;Northern Frisian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Occitan;Pampanga;Piedmontese;Portuguese;Quechua;Romanian;Romansh;Sardinian;Scots;Scottish Gaelic;Serbo-Croatian;Sicilian;Simple English;Slovenian;Sranan Tongo;Swahili;Swedish;Turkmen;Vietnamese;veneto;Waray;Welsh;Yoruba">Baden-Württemberg</name>
+		<name normalized="Baden-Wurttemberg suyu" languages="Aymara">Baden-Württemberg suyu</name>
+		<name normalized="Baden-Wurttembergska" languages="Lower Sorbian">Baden-Württembergska</name>
+		<name normalized="Badenas-Viurtembergas" languages="Lithuanian">Badenas-Viurtembergas</name>
+		<name normalized="Badenia-Virtembergia" languages="Latin">Badenia-Virtembergia</name>
+		<name normalized="Badenia-Wirtembergia" languages="Polish">Badenia-Wirtembergia</name>
+		<name normalized="Badenia-Wurtemberg" languages="Ido">Badenia-Wurtemberg</name>
+		<name normalized="Badensko-Wurttembergska" languages="Upper Sorbian">Badensko-Württembergska</name>
+		<name normalized="badenvirtemberg" languages="Lojban">badenvirtemberg</name>
+		<name normalized="Badan-Vurtan" languages="Volapuk">Badän-Vürtän</name>
+		<name normalized="Boaden-Wurttembaarg" languages="Low Saxon (Netherlands)">Boaden-Wurttembaarg</name>
+		<name normalized="Badensko-Wurttembersko" languages="Czech;Slovak">Bádensko-Württembersko</name>
+		<name normalized="Badn-Wurttmberg" languages="Bavarian">Bådn-Württmberg</name>
+		<name normalized="Badene-Virtemberga" languages="Latvian">Bādene-Virtemberga</name>
+		<name normalized="Βαδη-Βυρτεμβeργη" languages="Greek">Βάδη-Βυρτεμβέργη</name>
+		<name normalized="Badiн-Viрtiмbiрg" languages="Macedonian;Serbian">Баден-Виртемберг</name>
+		<name normalized="Badiн-Vюрtiмbiрg" languages="Bulgarian;Chechen;Chuvash;Kazakh;Mongolian;Ossetic;Russian;Ukrainian">Баден-Вюртемберг</name>
+		<name normalized="Badeн-Vюрteмbiрg" languages="Belarusian">Бадэн-Вюртэмберг</name>
+		<name normalized="Badeн-Vюрteмbeрg" languages="biлaрuсkai (taрaskivita)‎">Бадэн-Вюртэмбэрг</name>
+		<name normalized="bאדין-bvrtיnbיrג" languages="Ladino">באדין-בורטינבירג</name>
+		<name normalized="bאדן-vvיrtמbvrג" languages="Yiddish">באדן-ווירטמבורג</name>
+		<name normalized="bאדן-vיrtמbrג" languages="Hebrew">באדן-וירטמברג</name>
+		<name normalized="bאدن-fوrtmbyrغ" languages="Arabic">بادن-فورتمبيرغ</name>
+		<name normalized="bאدن-ووrtmbrg" languages="Persian">بادن-وورتمبرگ</name>
+		<name normalized="bאدن-vویrtmbێrg" languages="Sorani Kurdish">بادن-ڤویرتمبێرگ</name>
+		<name normalized="bאدنوrtmbrg" languages="Western Punjabi">بادنورتمبرگ</name>
+		<name normalized="bאډن وrټmbrg" languages="Pashto">باډن ورټمبرگ</name>
+		<name normalized="bाडen-v्yur्टeंbr्g" languages="Marathi">बाडेन-व्युर्टेंबर्ग</name>
+		<name normalized="பாடன்-வுயர்ட்டம்பெர்கு" languages="Tamil">பாடன்-வுயர்ட்டம்பெர்கு</name>
+		<name normalized="รัฐบาเดิน-เวือร์ทเทมแบร์ก" languages="Thai">รัฐบาเดิน-เวือร์ทเทมแบร์ก</name>
+		<name normalized="ბადენ-ვიურტემბერგი" languages="Georgian">ბადენ-ვიურტემბერგი</name>
+		<name normalized="bーdn=vyrtnbrk州" languages="Japanese">バーデン＝ヴュルテンベルク州</name>
+		<name normalized="巴登-符腾堡" languages="Chinese">巴登-符腾堡</name>
+		<name normalized="바덴뷔르템베르크 주" languages="Korean">바덴뷔르템베르크 주</name>
+	</region>
+	<region name="Bayern" type="state" typeTranslated="Land">
+		<name normalized="An Bhavair" languages="Irish">An Bhaváir</name>
+		<name normalized="Bafaria" languages="Welsh">Bafaria</name>
+		<name normalized="Baieri" languages="Estonian">Baieri</name>
+		<name normalized="Baiern" languages="Low Saxon (Netherlands)">Baiern</name>
+		<name normalized="Baijeri" languages="Finnish">Baijeri</name>
+		<name normalized="Bajery" languages="Silesian">Bajery</name>
+		<name normalized="Bajere" languages="Kashubian">Bajerë</name>
+		<name normalized="Bajororszag" languages="Hungarian">Bajorország</name>
+		<name normalized="Bavaari" languages="Deitsch">Bavaari</name>
+		<name normalized="Bavaria" languages="Albanian;Basque;Breton;English;Ido;Iloko;Interlingua;Interlingue;Kongo;Latin;Malay;Nahuatl;Novial;official;Pampanga;Romanian;Simple English;Swahili;Tagalog;Yoruba">Bavaria</name>
+		<name normalized="Bavarie" languages="Scots">Bavarie</name>
+		<name normalized="Bavarija" languages="Lithuanian">Bavarija</name>
+		<name normalized="Bavario" languages="Esperanto">Bavario</name>
+		<name normalized="Bavariya" languages="Azerbaijani;Uzbek">Bavariya</name>
+		<name normalized="Bavarska" languages="Bosnian;Croatian;Serbo-Croatian;Slovenian">Bavarska</name>
+		<name normalized="Bavea" languages="Ligure">Bavea</name>
+		<name normalized="Bavera" languages="Aragonese">Bavera</name>
+		<name normalized="Baviera" languages="Catalan;Extremaduran;Galician;Guarani;Italian;lumbaart;Piedmontese;Portuguese;Romansh;Sardinian;Sicilian;Spanish;Tetum;veneto">Baviera</name>
+		<name normalized="Baviera" languages="Occitan">Bavièra</name>
+		<name normalized="Baviere" languages="French">Bavière</name>
+		<name normalized="Baviere" languages="Franco-Provencal">Baviére</name>
+		<name normalized="Bavorsko" languages="Czech;Slovak">Bavorsko</name>
+		<name normalized="Bavyera" languages="Turkish">Bavyera</name>
+		<name normalized="Bavarija" languages="Latvian">Bavārija</name>
+		<name normalized="Bawaria" languages="Polish">Bawaria</name>
+		<name normalized="Bawariya" languages="Turkmen">Bawariýa</name>
+		<name normalized="Bayan" languages="Palzisch">Bayan</name>
+		<name normalized="Bayern" languages="Alemannisch;Bavarian;Chinese (Min Nan);Cornish;Danish;English;German;Indonesian;Javanese;Kurdish;Low German;Luxembourgish;Northern Frisian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Quechua;Scottish Gaelic;Seeltersk;Swedish;Vietnamese;Waray">Bayern</name>
+		<name normalized="Bayern suyu" languages="Aymara">Bayern suyu</name>
+		<name normalized="Bayerska" languages="Lower Sorbian;Upper Sorbian">Bayerska</name>
+		<name normalized="Bayan" languages="Volapuk">Bayän</name>
+		<name normalized="Beiere" languages="Afrikaans;Limburgish">Beiere</name>
+		<name normalized="Beieren" languages="Dutch;Western Frisian">Beieren</name>
+		<name normalized="Baegwaraland" languages="Old English">Bægwaraland</name>
+		<name normalized="Baejaraland" languages="Icelandic">Bæjaraland</name>
+		<name normalized="Estau Llibre de Baviera" languages="Asturian">Estáu Llibre de Baviera</name>
+		<name normalized="Yn Vaveyr" languages="Manx">Yn Vaveyr</name>
+		<name normalized="Βαυαρια" languages="Greek">Βαυαρία</name>
+		<name normalized="Bavaр" languages="Mongolian">Бавар</name>
+		<name normalized="Bavaрi" languages="Chechen;Chuvash;Ossetic">Бавари</name>
+		<name normalized="Bavaрii" languages="Bashkir;Bulgarian;Kazakh;Russian;Sakha;Tatar">Бавария</name>
+		<name normalized="Bavaрija" languages="Macedonian">Баварија</name>
+		<name normalized="Bavaрсka" languages="Serbian">Баварска</name>
+		<name normalized="Bavaрыi" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Баварыя</name>
+		<name normalized="Bavaрii" languages="Ukrainian">Баварія</name>
+		<name normalized="Bավաrիա" languages="Armenian">Բավարիա</name>
+		<name normalized="bvvאrיh" languages="Hebrew">בוואריה</name>
+		<name normalized="bייעrן" languages="Yiddish">בייערן</name>
+		<name normalized="bאfאryא" languages="Arabic;Egyptian Spoken Arabic">بافاريا</name>
+		<name normalized="bאویrیא" languages="Western Punjabi">باویریا</name>
+		<name normalized="bאvאrیא" languages="Sorani Kurdish">باڤاریا</name>
+		<name normalized="bאیrن" languages="Persian">بایرن</name>
+		<name normalized="bाyr्n" languages="Hindi;Marathi">बायर्न</name>
+		<name normalized="bਾian" languages="Punjabi">ਬਾਈਆਨ</name>
+		<name normalized="பவேரியா" languages="Tamil">பவேரியா</name>
+		<name normalized="బవేరియా" languages="Telugu">బవేరియా</name>
+		<name normalized="รัฐบาวาเรีย" languages="Thai">รัฐบาวาเรีย</name>
+		<name normalized="ბავარია" languages="Georgian">ბავარია</name>
+		<name normalized="ባቫሪያ" languages="Amharic">ባቫሪያ</name>
+		<name normalized="biern州" languages="Japanese">バイエルン州</name>
+		<name normalized="巴伐利亚" languages="Chinese">巴伐利亚</name>
+		<name normalized="拜仁" languages="Cantonese">拜仁</name>
+		<name normalized="바이에른 자유주" languages="Korean">바이에른 자유주</name>
+	</region>
+	<region name="Berlin" type="state" typeTranslated="Land">
+		<name normalized="Baarliin" languages="Somali">Baarliin</name>
+		<name normalized="Balin" languages="Palzisch">Balin</name>
+		<name normalized="Barlin" languages="Lower Sorbian">Barliń</name>
+		<name normalized="Beirlin" languages="Irish">Beirlín</name>
+		<name normalized="Berleen" languages="Manx">Berleen</name>
+		<name normalized="Berlien" languages="Limburgish;Low Saxon (Netherlands)">Berlien</name>
+		<name normalized="Berliin" languages="Estonian;Voro">Berliin</name>
+		<name normalized="Berliini" languages="Finnish">Berliini</name>
+		<name normalized="Berlijn" languages="Dutch;Zeeuws">Berlijn</name>
+		<name normalized="Berlim" languages="Portuguese">Berlim</name>
+		<name normalized="Berlin" languages="Achinese;Akan;Alemannisch;Aymara;Azerbaijani;Bambara;Basque;Bavarian;Bislama;Bosnian;Breton;Cebuano;Chinese (Min Nan);Colognian;Cornish;Crimean Turkish;Croatian;Danish;Deitsch;English;Ewe;Faroese;Fiji Hindi;Fijian;French;Friulian;Gagauz;Ganda;German;Guarani;Hausa;Hungarian;Ido;Iloko;Indonesian;Interlingua;Interlingue;Javanese;Kabyle;Kalaallisut;Kara-Kalpak;Kinyarwanda;Kongo;Ladino;Ligure;Lingala;Lojban;Low German;lumbaart;Luxembourgish;Malagasy;Malay;Maltese;Mirandese;Nahuatl;Nauru;Norfuk / Pitkern;Northern Frisian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Old English;Pampanga;Papiamento;Picard;Piedmontese;Polish;Quechua;Romani;Romanian;Romansh;Rundi;Scots;Scottish Gaelic;Seeltersk;Serbo-Croatian;Silesian;Simple English;Slovenian;Sranan Tongo;Swahili;Swedish;Tagalog;Tahitian;Tok Pisin;Tumbuka;Turkish;Turkmen;Twi;Upper Sorbian;Uzbek;Veps;Vietnamese;Volapuk;veneto;Waray;Welsh;Wolof;Yoruba;Zazaki">Berlin</name>
+		<name normalized="Berline" languages="tarandine">Berline</name>
+		<name normalized="Berlini" languages="Albanian">Berlini</name>
+		<name normalized="Berlino" languages="Esperanto;Italian;Neapolitan;Sardinian">Berlino</name>
+		<name normalized="Berlins" languages="Latgalian">Berlins</name>
+		<name normalized="Berlinu" languages="Corsican">Berlinu</name>
+		<name normalized="Berlyn" languages="Afrikaans;West-Vlams;Western Frisian">Berlyn</name>
+		<name normalized="Berlynas" languages="Lithuanian">Berlynas</name>
+		<name normalized="Berleno" languages="Kashubian">Berlëno</name>
+		<name normalized="Berlin" languages="Aragonese;Asturian;Catalan;Chavacano de Zamboanga;Czech;Extremaduran;Galician;Icelandic;Slovak;Spanish;Tetum">Berlín</name>
+		<name normalized="Berlin" languages="Kurdish">Berlîn</name>
+		<name normalized="Berline" languages="Latvian">Berlīne</name>
+		<name normalized="Berlins" languages="Samogitian">Berlīns</name>
+		<name normalized="Berolinum" languages="Latin">Berolinum</name>
+		<name normalized="Birlinu" languages="Sicilian">Birlinu</name>
+		<name normalized="Belen" languages="Haitian">Bèlen</name>
+		<name normalized="Berlin" languages="Franco-Provencal">Bèrlin</name>
+		<name normalized="Berlin" languages="Nouormand">Bèrlîn</name>
+		<name normalized="Berlin" languages="Uyghur">Bérlin</name>
+		<name normalized="IBerlini" languages="Zulu">IBerlini</name>
+		<name normalized="Pak-lim" languages="Hakka">Pak-lìm</name>
+		<name normalized="Pearini" languages="Maori">Pearīni</name>
+		<name normalized="Pelelina" languages="Hawaiian">Pelelina</name>
+		<name normalized="Βερολινο" languages="Greek">Βερολίνο</name>
+		<name normalized="Βερολινον" languages="Pontic">Βερολίνον</name>
+		<name normalized="Biрлiн" languages="Abkhazian;Bashkir;Bulgarian;Chechen;Chuvash;Eastern Mari;Hill Mari;Kabardian;Kazakh;Komi;Komi-Permyak;Kyrgyz;Lezghian;Macedonian;Mongolian;Ossetic;Russian;Sakha;Serbian;Tajik;Tatar;Udmurt;buрiad">Берлин</name>
+		<name normalized="Biрлiн os" languages="Erzya">Берлин ош</name>
+		<name normalized="Biрлiн" languages="Rusyn;Ukrainian">Берлін</name>
+		<name normalized="Beрлiн" languages="biлaрuсkai (taрaskivita)‎">Бэрлін</name>
+		<name normalized="Beрлiнъ" languages="Church Slavic">Бєрлинъ</name>
+		<name normalized="Goрad Biрлiн" languages="Belarusian">Горад Берлін</name>
+		<name normalized="Bեrlին" languages="Armenian">Բեռլին</name>
+		<name normalized="bעrדין" languages="Yiddish">בערלין</name>
+		<name normalized="brדין" languages="Hebrew">ברלין</name>
+		<name normalized="brلن" languages="Urdu;Western Punjabi">برلن</name>
+		<name normalized="brلyن" languages="Arabic;Pashto">برلين</name>
+		<name normalized="brلین" languages="Mazanderani;Persian">برلین</name>
+		<name normalized="byrلyن" languages="Egyptian Spoken Arabic">بيرلين</name>
+		<name normalized="bەrلین" languages="Sorani Kurdish">بەرلین</name>
+		<name normalized="ܒܪܠܝܢ" languages="Aramaic">ܒܪܠܝܢ</name>
+		<name normalized="br्lin" languages="Hindi;Marathi;Nepali;Newari">बर्लिन</name>
+		<name normalized="bাr্lin" languages="Bengali">বার্লিন</name>
+		<name normalized="brlin" languages="Punjabi">ਬਰਲਿਨ</name>
+		<name normalized="ବର୍ଲିନ" languages="Oriya">ବର୍ଲିନ</name>
+		<name normalized="பெர்லின்" languages="Tamil">பெர்லின்</name>
+		<name normalized="బెర్లిన్" languages="Telugu">బెర్లిన్</name>
+		<name normalized="ಬರ್ಲಿನ್" languages="Kannada">ಬರ್ಲಿನ್</name>
+		<name normalized="ബെർലിൻ" languages="Malayalam">ബെർലിൻ</name>
+		<name normalized="බර්ලිනය" languages="Sinhala">බර්ලිනය</name>
+		<name normalized="เบอร์ลิน" languages="Thai">เบอร์ลิน</name>
+		<name normalized="པེར་ལིན།" languages="Tibetan">པེར་ལིན།</name>
+		<name normalized="ဘာလင်မြို့" languages="Burmese">ဘာလင်မြို့</name>
+		<name normalized="ბერლინი" languages="Georgian;Mingrelian">ბერლინი</name>
+		<name normalized="በርሊን" languages="Amharic">በርሊን</name>
+		<name normalized="ᐱᕐᓖᓐ" languages="Inuktitut">ᐱᕐᓖᓐ</name>
+		<name normalized="brrn" languages="Japanese">ベルリン</name>
+		<name normalized="柏林" languages="Cantonese;Chinese;Classical Chinese;Gan">柏林</name>
+		<name normalized="베를린" languages="Korean">베를린</name>
+	</region>
+	<region name="Brandenburg" type="state" typeTranslated="Land">
+		<name normalized="Braandenborg" languages="Low Saxon (Netherlands)">Braandenbörg</name>
+		<name normalized="Bramborska" languages="Lower Sorbian">Bramborska</name>
+		<name normalized="Brandeborg" languages="Occitan">Brandeborg</name>
+		<name normalized="Brandeborgh" languages="Piedmontese">Brandeborgh</name>
+		<name normalized="Brandebourg" languages="French">Brandebourg</name>
+		<name normalized="Brandeburg" languages="Limburgish">Brandeburg</name>
+		<name normalized="Brandeburgo" languages="Galician;Guarani;Italian;Spanish;Tagalog">Brandeburgo</name>
+		<name normalized="Brandebursch" languages="Palzisch">Brandebursch</name>
+		<name normalized="Brandeburgo" languages="lumbaart">Brandebùrgo</name>
+		<name normalized="Brandemburgo" languages="Aragonese;Portuguese">Brandemburgo</name>
+		<name normalized="Brandenboarch" languages="Western Frisian">Brandenboarch</name>
+		<name normalized="Brandenborg" languages="Icelandic">Brandenborg</name>
+		<name normalized="Brandenbourg" languages="Nouormand">Brandenbourg</name>
+		<name normalized="Brandenburg" languages="Afrikaans;Albanian;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Danish;Deitsch;Dutch;English;Estonian;Finnish;German;Hungarian;Ido;Iloko;Indonesian;Interlingua;Irish;Javanese;Kongo;Kurdish;Luxembourgish;Malay;Manx;Nahuatl;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Old English;Pampanga;Quechua;Romanian;Romansh;Scots;Scottish Gaelic;Serbo-Croatian;Simple English;Slovenian;Swahili;Swedish;Turkish;Uzbek;Vietnamese;Waray;Welsh;Yoruba">Brandenburg</name>
+		<name normalized="Brandenburg suyu" languages="Aymara">Brandenburg suyu</name>
+		<name normalized="Brandenburga" languages="Latvian">Brandenburga</name>
+		<name normalized="Brandenburgas" languages="Lithuanian">Brandenburgas</name>
+		<name normalized="Brandenburgia" languages="Interlingue;Polish">Brandenburgia</name>
+		<name normalized="Brandenburgio" languages="Esperanto">Brandenburgio</name>
+		<name normalized="Brandenburgo" languages="Basque;Ligure">Brandenburgo</name>
+		<name normalized="Brandenburgum" languages="Latin">Brandenburgum</name>
+		<name normalized="Brandenburq" languages="Azerbaijani">Brandenburq</name>
+		<name normalized="Brandenbursko" languages="Slovak">Brandenbursko</name>
+		<name normalized="Brandenbuurich" languages="Seeltersk">Brandenbuurich</name>
+		<name normalized="Brandenborj" languages="Northern Frisian">Brandenbörj</name>
+		<name normalized="Brandiburgo" languages="veneto">Brandiburgo</name>
+		<name normalized="Brandnburg" languages="Bavarian">Brandnburg</name>
+		<name normalized="Brandanburgan" languages="Volapuk">Brandänburgän</name>
+		<name normalized="Braniborska" languages="Upper Sorbian">Braniborska</name>
+		<name normalized="Braniborsko" languages="Czech">Braniborsko</name>
+		<name normalized="Brannenborg" languages="Low German">Brannenborg</name>
+		<name normalized="Land Brandenburg" languages="Alemannisch">Land Brandenburg</name>
+		<name normalized="Βραδεμβοuργο" languages="Greek">Βραδεμβούργο</name>
+		<name normalized="Bрaнdiнbuрg" languages="Bashkir;Bulgarian;Chechen;Chuvash;Kazakh;Macedonian;Mongolian;Ossetic;Russian;Serbian;Ukrainian">Бранденбург</name>
+		<name normalized="Bрaнdeнbuрg" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Брандэнбург</name>
+		<name normalized="brnדnbvrג" languages="Hebrew">ברנדנבורג</name>
+		<name normalized="brאندنbوrغ" languages="Arabic">براندنبورغ</name>
+		<name normalized="brאندنbوrg" languages="Pashto;Persian;Sorani Kurdish">براندنبورگ</name>
+		<name normalized="brאنڈنbrg" languages="Western Punjabi">برانڈنبرگ</name>
+		<name normalized="b्rांडenbur्g" languages="Marathi">ब्रांडेनबुर्ग</name>
+		<name normalized="b੍rਾਂਡnburg" languages="Punjabi">ਬ੍ਰਾਂਡਨਬੁਰਗ</name>
+		<name normalized="รัฐบรันเดนบูร์ก" languages="Thai">รัฐบรันเดนบูร์ก</name>
+		<name normalized="ბრანდენბურგი" languages="Georgian">ბრანდენბურგი</name>
+		<name normalized="brndnbrk州" languages="Japanese">ブランデンブルク州</name>
+		<name normalized="勃兰登堡" languages="Chinese">勃兰登堡</name>
+		<name normalized="브란덴부르크 주" languages="Korean">브란덴부르크 주</name>
+	</region>
+	<region name="Bremen" type="state" typeTranslated="Land">
+		<name normalized="Breemn" languages="Low Saxon (Netherlands)">Breemn</name>
+		<name normalized="Brema" languages="Italian;Latin;Polish;Sardinian">Brema</name>
+		<name normalized="Bremen" languages="Afrikaans;Alemannisch;Aragonese;Aymara;Azerbaijani;Basque;Catalan;Chinese (Min Nan);Cornish;Croatian;Danish;Dutch;English;Estonian;Extremaduran;Finnish;Galician;German;Icelandic;Ido;Iloko;Indonesian;Interlingua;Interlingue;Low German;Lower Sorbian;Luxembourgish;Malay;Manx;Nahuatl;Northern Frisian;Norwegian (bokmal);official;Pampanga;Portuguese;Quechua;Scots;Scottish Gaelic;Serbo-Croatian;Simple English;Slovenian;Spanish;Swahili;Swedish;Tumbuka;Turkish;Upper Sorbian;Uzbek;Vietnamese;Volapuk;Waray;Welsh;Western Frisian;Yoruba;Zazaki">Bremen</name>
+		<name normalized="Bremeni" languages="Albanian">Bremeni</name>
+		<name normalized="Bremeno" languages="Esperanto">Bremeno</name>
+		<name normalized="Brema" languages="Occitan">Brèma</name>
+		<name normalized="Brema" languages="Hungarian">Bréma</name>
+		<name normalized="Bremy" languages="Czech;Slovak">Brémy</name>
+		<name normalized="Bremen" languages="Uyghur">Brémén</name>
+		<name normalized="Breme" languages="French">Brême</name>
+		<name normalized="Bremene" languages="Latvian">Brēmene</name>
+		<name normalized="Bremenas" languages="Lithuanian">Brėmenas</name>
+		<name normalized="Byen Bremen" languages="Norwegian Nynorsk">Byen Bremen</name>
+		<name normalized="Βρeμη" languages="Greek">Βρέμη</name>
+		<name normalized="Bрiмiн" languages="Bulgarian;Chechen;Macedonian;Ossetic;Russian;Serbian;Ukrainian">Бремен</name>
+		<name normalized="Bрeмeн" languages="Sakha;biлaрuсkai (taрaskivita)‎">Брэмэн</name>
+		<name normalized="Goрad Bрeмiн" languages="Belarusian">Горад Брэмен</name>
+		<name normalized="Brեmեն" languages="Armenian">Բրեմեն</name>
+		<name normalized="brמן" languages="Hebrew">ברמן</name>
+		<name normalized="brmن" languages="Persian">برمن</name>
+		<name normalized="brymن" languages="Arabic">بريمن</name>
+		<name normalized="brێmن" languages="Sorani Kurdish">برێمن</name>
+		<name normalized="b्remn" languages="Marathi">ब्रेमन</name>
+		<name normalized="เบรเมิน" languages="Thai">เบรเมิน</name>
+		<name normalized="ဘရီမန်မြို့" languages="Burmese">ဘရီမန်မြို့</name>
+		<name normalized="ბრემენი" languages="Georgian">ბრემენი</name>
+		<name normalized="brーmn" languages="Japanese">ブレーメン</name>
+		<name normalized="不來梅" languages="Cantonese">不來梅</name>
+		<name normalized="不来梅" languages="Chinese">不来梅</name>
+		<name normalized="브레멘" languages="Korean">브레멘</name>
+		<name normalized="𐌱𐍂𐌴𐌼𐌴𐌽" languages="Gothic">𐌱𐍂𐌴𐌼𐌴𐌽</name>
+	</region>
+	<region name="Hamburg" type="state" typeTranslated="Land">
+		<name normalized="Amborg" languages="Occitan">Amborg</name>
+		<name normalized="Amborgh" languages="Piedmontese">Amborgh</name>
+		<name normalized="Amburc" languages="Friulian">Amburc</name>
+		<name normalized="Amburgh" languages="lumbaart">Amburgh</name>
+		<name normalized="Amburgo" languages="Italian;Ladino;Sardinian">Amburgo</name>
+		<name normalized="Amburgu" languages="Extremaduran;Maltese;Sicilian">Amburgu</name>
+		<name normalized="Amburgo" languages="Ligure">Ambûrgo</name>
+		<name normalized="Anburgo" languages="veneto">Anburgo</name>
+		<name normalized="Hamboarch" languages="Western Frisian">Hamboarch</name>
+		<name normalized="Hamborg" languages="Danish;Icelandic;Low German;Northern Sami">Hamborg</name>
+		<name normalized="Hambourg" languages="French">Hambourg</name>
+		<name normalized="Hambourq" languages="Picard">Hambourq</name>
+		<name normalized="Hamburch" languages="Palzisch">Hamburch</name>
+		<name normalized="Hamburg" languages="Afrikaans;Alemannisch;Aymara;Bavarian;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Deitsch;Dutch;English;Estonian;German;Hungarian;Ido;Iloko;Indonesian;Interlingue;Irish;Javanese;Kongo;Kurdish;Limburgish;Lower Sorbian;Luxembourgish;Malay;Manx;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Old English;Pampanga;Polish;Quechua;Romani;Romanian;Romansh;Scottish Gaelic;Serbo-Croatian;Silesian;Simple English;Slovak;Slovenian;Swahili;Swedish;Tumbuka;Turkish;Upper Sorbian;Uyghur;Uzbek;Vietnamese;Volapuk;Waray;Welsh;Xhosa;Yoruba;Zazaki">Hamburg</name>
+		<name normalized="Hamburga" languages="Latvian">Hamburga</name>
+		<name normalized="Hamburgas" languages="Lithuanian">Hamburgas</name>
+		<name normalized="Hamburgh" languages="Scots">Hamburgh</name>
+		<name normalized="Hamburgo" languages="Aragonese;Esperanto;Galician;Guarani;Interlingua;Portuguese;Spanish">Hamburgo</name>
+		<name normalized="Hamburgu" languages="Albanian">Hamburgu</name>
+		<name normalized="Hamburgum" languages="Latin">Hamburgum</name>
+		<name normalized="Hamburk" languages="Czech">Hamburk</name>
+		<name normalized="Hamburq" languages="Azerbaijani">Hamburq</name>
+		<name normalized="Hambuurich" languages="Seeltersk">Hambuurich</name>
+		<name normalized="Hamborg" languages="Low Saxon (Netherlands)">Hambörg</name>
+		<name normalized="Hamborj" languages="Northern Frisian">Hambörj</name>
+		<name normalized="Hamburg" languages="Kashubian">Hambùrg</name>
+		<name normalized="Hamepuka" languages="Hawaiian">Hamepuka</name>
+		<name normalized="Hampuri" languages="Finnish">Hampuri</name>
+		<name normalized="Hanburgo" languages="Basque">Hanburgo</name>
+		<name normalized="Αμβοuργο" languages="Greek">Αμβούργο</name>
+		<name normalized="Gaмbuрg" languages="Chechen;Chuvash;Eastern Mari;Hill Mari;Ossetic;Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Гамбург</name>
+		<name normalized="Goрad Gaмbuрg" languages="Belarusian">Горад Гамбург</name>
+		<name normalized="Kaмbuрg" languages="Bulgarian;Macedonian;Serbian">Хамбург</name>
+		<name normalized="Һaмbuрg" languages="Tatar;buрiad">Һамбург</name>
+		<name normalized="Hաmbvyrգ" languages="Armenian">Համբուրգ</name>
+		<name normalized="hאמbvrג" languages="Yiddish">האמבורג</name>
+		<name normalized="hמbvrג" languages="Hebrew">המבורג</name>
+		<name normalized="hאmbوrj" languages="Egyptian Spoken Arabic">هامبورج</name>
+		<name normalized="hאmbوrغ" languages="Arabic">هامبورغ</name>
+		<name normalized="hאmbوrg" languages="Persian">هامبورگ</name>
+		<name normalized="ھאmbوrg" languages="Sorani Kurdish">ھامبورگ</name>
+		<name normalized="ہאmbrg" languages="Western Punjabi">ہامبرگ</name>
+		<name normalized="ہیmbrg" languages="Urdu">ہیمبرگ</name>
+		<name normalized="ܗܐܡܒܘܪܓ" languages="Aramaic">ܗܐܡܒܘܪܓ</name>
+		<name normalized="hांbur्g" languages="Marathi">हांबुर्ग</name>
+		<name normalized="ham्br्g" languages="Hindi">हैम्बर्ग</name>
+		<name normalized="h्yाm्br्g" languages="Newari">ह्याम्बर्ग</name>
+		<name normalized="hাmbur্g" languages="Bengali">হামবুর্গ</name>
+		<name normalized="hਾmburg" languages="Punjabi">ਹਾਮਬੁਰਗ</name>
+		<name normalized="ಹ್ಯಾಂಬರ್ಗ್" languages="Kannada">ಹ್ಯಾಂಬರ್ಗ್</name>
+		<name normalized="ฮัมบูร์ก" languages="Thai">ฮัมบูร์ก</name>
+		<name normalized="ဟမ်းဗတ်မြို့" languages="Burmese">ဟမ်းဗတ်မြို့</name>
+		<name normalized="ჰამბურგი" languages="Georgian;Mingrelian">ჰამბურგი</name>
+		<name normalized="hnbrk" languages="Japanese">ハンブルク</name>
+		<name normalized="汉堡" languages="Chinese;Wu">汉堡</name>
+		<name normalized="漢堡" languages="Cantonese">漢堡</name>
+		<name normalized="함부르크 자유시" languages="Korean">함부르크 자유시</name>
+	</region>
+	<region name="Hessen" type="state" typeTranslated="Land">
+		<name normalized="Assia" languages="Corsican;Italian;Ligure;lumbaart;Neapolitan;Piedmontese;veneto">Assia</name>
+		<name normalized="Assie" languages="Friulian">Assie</name>
+		<name normalized="Essen" languages="West-Vlams">Essen</name>
+		<name normalized="Hassia" languages="Latin">Hassia</name>
+		<name normalized="Hesenas" languages="Lithuanian">Hesenas</name>
+		<name normalized="Hesene" languages="Latvian">Hesene</name>
+		<name normalized="Hesensko" languages="Czech;Slovak">Hesensko</name>
+		<name normalized="Hesia" languages="Albanian;Ido;Novial">Hesia</name>
+		<name normalized="Hesio" languages="Esperanto">Hesio</name>
+		<name normalized="Hesja" languages="Polish">Hesja</name>
+		<name normalized="Hessa" languages="Romanian">Hessa</name>
+		<name normalized="Hesse" languages="Afrikaans;Aragonese;Asturian;Cornish;Deitsch;English;Franco-Provencal;French;Guarani;Iloko;Interlingue;Ladino;Limburgish;Malay;Nouormand;official;Pampanga;Portuguese;Palzisch;Scots;Simple English;Spanish;Swahili;Tagalog;Yoruba">Hesse</name>
+		<name normalized="Hessen" languages="Alemannisch;Azerbaijani;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Colognian;Croatian;Danish;Dutch;English;Estonian;Finnish;Galician;German;Hungarian;Icelandic;Indonesian;Interlingua;Irish;Javanese;Kongo;Kurdish;Low German;Low Saxon (Netherlands);Luxembourgish;Manx;Nahuatl;Northern Frisian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Quechua;Romansh;Scottish Gaelic;Seeltersk;Serbo-Croatian;Sicilian;Slovenian;Swedish;Tatar;Turkish;Turkmen;Uzbek;Vietnamese;Waray;Welsh;Western Frisian;Zeeuws">Hessen</name>
+		<name normalized="Hessen suyu" languages="Aymara">Hessen suyu</name>
+		<name normalized="Hessenska" languages="Upper Sorbian">Hessenska</name>
+		<name normalized="Hessenska" languages="Lower Sorbian">Hesseńska</name>
+		<name normalized="Hessn" languages="Bavarian">Hessn</name>
+		<name normalized="Hesan" languages="Volapuk">Hesän</name>
+		<name normalized="Hetwaraland" languages="Old English">Hetwaraland</name>
+		<name normalized="Essa" languages="Occitan">Èssa</name>
+		<name normalized="Eσση" languages="Greek">Έσση</name>
+		<name normalized="Giссiн" languages="Chechen;Kazakh;Russian;Ukrainian">Гессен</name>
+		<name normalized="Giсeн" languages="Belarusian">Гесэн</name>
+		<name normalized="Geсeн" languages="biлaрuсkai (taрaskivita)‎">Гэсэн</name>
+		<name normalized="Kiсiн" languages="Bulgarian;Macedonian;Serbian">Хесен</name>
+		<name normalized="Kiссiн" languages="Mongolian">Хессен</name>
+		<name normalized="hסן" languages="Hebrew">הסן</name>
+		<name normalized="hעסע" languages="Yiddish">העסע</name>
+		<name normalized="hسن" languages="Arabic;Persian">هسن</name>
+		<name normalized="ھێسن" languages="Sorani Kurdish">ھێسن</name>
+		<name normalized="ہیسے" languages="Western Punjabi">ہیسے</name>
+		<name normalized="hese" languages="Hindi">हेसे</name>
+		<name normalized="hesen" languages="Marathi">हेसेन</name>
+		<name normalized="ஹெஸென்" languages="Tamil">ஹெஸென்</name>
+		<name normalized="รัฐเฮสเซิน" languages="Thai">รัฐเฮสเซิน</name>
+		<name normalized="ჰესენი" languages="Georgian">ჰესენი</name>
+		<name normalized="htsn州" languages="Japanese">ヘッセン州</name>
+		<name normalized="黑森" languages="Chinese">黑森</name>
+		<name normalized="헤센 주" languages="Korean">헤센 주</name>
+	</region>
+	<region name="Mecklenburg-Vorpommern" type="state" typeTranslated="Land">
+		<name normalized="Mecklembourg-Pomeranie-Occidentale" languages="French">Mecklembourg-Poméranie-Occidentale</name>
+		<name normalized="Mecklemburg-Pomerania Occidental" languages="Catalan">Mecklemburg-Pomerània Occidental</name>
+		<name normalized="Mecklemburgo-Antepomerania" languages="Galician">Mecklemburgo-Antepomerania</name>
+		<name normalized="Mecklemburgo-Kuarahyreike Pomerania" languages="Guarani">Mecklemburgo-Kuarahyreike Pomerania</name>
+		<name normalized="Mecklemburgo-Pomerania Occidental" languages="Aragonese;Spanish">Mecklemburgo-Pomerania Occidental</name>
+		<name normalized="Mecklemburgo-Pomerania Ocidental" languages="Portuguese">Mecklemburgo-Pomerânia Ocidental</name>
+		<name normalized="Mecklenborg-Vorpommern" languages="Icelandic">Mecklenborg-Vorpommern</name>
+		<name normalized="Mecklenburg-Aurrepomerania" languages="Basque">Mecklenburg-Aurrepomerania</name>
+		<name normalized="Mecklenburg-Etu-Pommeri" languages="Finnish">Mecklenburg-Etu-Pommeri</name>
+		<name normalized="Mecklenburg-Foorpomern" languages="Northern Frisian">Mecklenburg-Föörpomern</name>
+		<name normalized="Mecklenburg-Pomerania Anteriura" languages="Romansh">Mecklenburg-Pomerania Anteriura</name>
+		<name normalized="Mecklenburg-Pomerania ar C'hornaoueg" languages="Breton">Mecklenburg-Pomerania ar C'hornaoueg</name>
+		<name normalized="Mecklenburg-Pomerini Magharibi" languages="Swahili">Mecklenburg-Pomerini Magharibi</name>
+		<name normalized="Mecklenburg-Pommern Cihuatlampa" languages="Nahuatl">Mecklenburg-Pommern Cihuātlāmpa</name>
+		<name normalized="Mecklenburg-Predpomorjanska" languages="Slovenian">Mecklenburg-Predpomorjanska</name>
+		<name normalized="Mecklenburg-Voor-Pommeren" languages="Dutch">Mecklenburg-Voor-Pommeren</name>
+		<name normalized="Mecklenburg-Voorpommere" languages="Afrikaans">Mecklenburg-Voorpommere</name>
+		<name normalized="Mecklenburg-Vorpommeria" languages="Interlingua;Interlingue">Mecklenburg-Vorpommeria</name>
+		<name normalized="Mecklenburg-Vorpommern" languages="Albanian;Alemannisch;Bavarian;Chinese (Min Nan);Cornish;Danish;English;Estonian;German;Iloko;Indonesian;Irish;Javanese;Kongo;Kurdish;Limburgish;Malay;Manx;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Quechua;Scots;Scottish Gaelic;Simple English;Swedish;Turkish;Vietnamese;Waray;Welsh;Yoruba">Mecklenburg-Vorpommern</name>
+		<name normalized="Mecklenburg-Vorpommern suyu" languages="Aymara">Mecklenburg-Vorpommern suyu</name>
+		<name normalized="Mecklenburg-Westa Pomerania" languages="Ido">Mecklenburg-Westa Pomerania</name>
+		<name normalized="Mecklenburg-Western Pomerania" languages="English;official">Mecklenburg-Western Pomerania</name>
+		<name normalized="Mecklenburg-Zapadna Pomeranija" languages="Serbo-Croatian">Mecklenburg-Zapadna Pomeranija</name>
+		<name normalized="Mecklenburg-Zapadno Pomorje" languages="Croatian">Mecklenburg-Zapadno Pomorje</name>
+		<name normalized="Mecklenburgo Pomerania Occidenta" languages="Ligure">Mecklenburgo Pomerania Oççidentâ</name>
+		<name normalized="Mecklenburgska-Psedpomorska" languages="Lower Sorbian">Mecklenburgska-Pśedpomorska</name>
+		<name normalized="Mecklenburgsko-Predpomorska" languages="Upper Sorbian">Mecklenburgsko-Předpomorska</name>
+		<name normalized="Mecklenburg-Elo-Pomerania" languages="Hungarian">Mecklenburg–Elő-Pomeránia</name>
+		<name normalized="Mecklenbuurich-Foarpommern" languages="Seeltersk">Mecklenbuurich-Foarpommern</name>
+		<name normalized="Meclemborg-Cispomerania" languages="Occitan">Meclemborg-Cispomerània</name>
+		<name normalized="Meclemborgh-Pomerania Ossidental" languages="Piedmontese">Meclemborgh-Pomerania Ossidental</name>
+		<name normalized="Meclemburgo-Pomerania Anterior" languages="veneto">Meclemburgo-Pomerania Anterior</name>
+		<name normalized="Meclemburgo-Pomerania Anteriore" languages="Italian">Meclemburgo-Pomerania Anteriore</name>
+		<name normalized="Meclemburgo-Pomerania Anteriur" languages="lumbaart">Meclembùrgo-Pomerània Anteriùr</name>
+		<name normalized="Megapolis et Pomerania Citerior" languages="Latin">Megapolis et Pomerania Citerior</name>
+		<name normalized="Megglebursch-Vorpommre" languages="Palzisch">Megglebursch-Vorpommre</name>
+		<name normalized="Mekelnborg-Vorpommern" languages="Low German">Mekelnborg-Vörpommern</name>
+		<name normalized="Meklemburgia-Pomorze Przednie" languages="Polish">Meklemburgia-Pomorze Przednie</name>
+		<name normalized="Meklenburch-Foarpommeren" languages="Western Frisian">Meklenburch-Foarpommeren</name>
+		<name normalized="Meklenburg-Old Pomeraniya" languages="Uzbek">Meklenburg-Old Pomeraniya</name>
+		<name normalized="Meklenburgas-Pomeranija" languages="Lithuanian">Meklenburgas-Pomeranija</name>
+		<name normalized="Meklenburgo-Antaupomerio" languages="Esperanto">Meklenburgo-Antaŭpomerio</name>
+		<name normalized="Meklenburq-On Pomeraniya" languages="Azerbaijani">Meklenburq-Ön Pomeraniya</name>
+		<name normalized="Meklenbursko-Predpomoransko" languages="Slovak">Meklenbursko-Predpomoransko</name>
+		<name normalized="Meklenbursko-Predni Pomoransko" languages="Czech">Meklenbursko-Přední Pomořansko</name>
+		<name normalized="Meklenbursko-Przedne Pomre" languages="Kashubian">Meklenbùrskô-Przédné Pòmrë</name>
+		<name normalized="Maklanburgan-Vesudapomeran" languages="Volapuk">Mäklänburgän-Vesudapomerän</name>
+		<name normalized="Meklenburga-Priekspomeranija" languages="Latvian">Mēklenburga-Priekšpomerānija</name>
+		<name normalized="Μεκλεμβοuργο-Δυτικη Πομερανια" languages="Greek">Μεκλεμβούργο-Δυτική Πομερανία</name>
+		<name normalized="Мikлiнbuрg-Aлdыңғы Poмiрaнii" languages="Kazakh">Мекленбург-Алдыңғы Померания</name>
+		<name normalized="Мikлiнbuрg-Zapadнa Poмiрaнija" languages="Macedonian;Serbian">Мекленбург-Западна Померанија</name>
+		<name normalized="Мikлiнbuрg-Piрidнii Poмiрaнii" languages="Russian">Мекленбург-Передняя Померания</name>
+		<name normalized="Мikлiнbuрg-Pрidнa Poмiрaнii" languages="Bulgarian">Мекленбург-Предна Померания</name>
+		<name normalized="Мikлiнbuрg-Piрedнii Paмiрaнii" languages="Belarusian">Мекленбург-Пярэдняя Памеранія</name>
+		<name normalized="Мikлiнbuрg-Kьaлkaрa Poмiрaнi" languages="Chechen">Мекленбург-Хьалхара Померани</name>
+		<name normalized="מqדnbvrג-מעrb pvמrnיh" languages="Hebrew">מקלנבורג-מערב פומרניה</name>
+		<name normalized="mkلنbوrغ fوrbوmrن" languages="Arabic">مكلنبورغ فوربومرن</name>
+		<name normalized="mکلنbوrg-fوrpوmrن" languages="Persian">مکلنبورگ-فورپومرن</name>
+		<name normalized="mیکلنbrg-pوmrینیא" languages="Western Punjabi">میکلنبرگ-پومرینیا</name>
+		<name normalized="mێکلنbوrg-fۆrpۆmەrن" languages="Sorani Kurdish">مێکلنبورگ-فۆرپۆمەرن</name>
+		<name normalized="mek्lenbur्g-porpomer्n" languages="Marathi">मेक्लेनबुर्ग-फोरपोमेर्न</name>
+		<name normalized="รัฐเมคเลนบูร์ก-ฟอร์พอมเมิร์น" languages="Thai">รัฐเมคเลนบูร์ก-ฟอร์พอมเมิร์น</name>
+		<name normalized="მეკლენბურგ-წინა პომერანია" languages="Georgian">მეკლენბურგ-წინა პომერანია</name>
+		<name normalized="mkrnbrk=hoapnmrn州" languages="Japanese">メクレンブルク＝フォアポンメルン州</name>
+		<name normalized="梅克倫堡-西波美拉尼亞" languages="Chinese">梅克倫堡-西波美拉尼亞</name>
+		<name normalized="메클렌부르크포어포메른 주" languages="Korean">메클렌부르크포어포메른 주</name>
+	</region>
+	<region name="Niedersachsen" type="state" typeTranslated="Land">
+		<name normalized="Ala-Saksi" languages="Finnish">Ala-Saksi</name>
+		<name normalized="Alam-Saksi" languages="Estonian">Alam-Saksi</name>
+		<name normalized="Also-Szaszorszag" languages="Hungarian">Alsó-Szászország</name>
+		<name normalized="An tSacsain Iochtarach" languages="Irish">An tSacsain Íochtarach</name>
+		<name normalized="Asagı Saksoniya" languages="Azerbaijani">Aşağı Saksoniya</name>
+		<name normalized="Asagı Saksonya" languages="Turkish">Aşağı Saksonya</name>
+		<name normalized="Baixa Saxonia" languages="Aragonese;Galician">Baixa Saxonia</name>
+		<name normalized="Baixa Saxonia" languages="Catalan">Baixa Saxònia</name>
+		<name normalized="Baixa Saxonia" languages="Portuguese">Baixa Saxônia</name>
+		<name normalized="Baja Sajonia" languages="Spanish">Baja Sajonia</name>
+		<name normalized="Bassa Sassonia" languages="Italian">Bassa Sassonia</name>
+		<name normalized="Bassa Sassonia" languages="Piedmontese">Bassa Sassònia</name>
+		<name normalized="Bassa Sasonia" languages="Ligure">Bassa Sasònia</name>
+		<name normalized="Bassa Saxonia" languages="Occitan">Bassa Saxònia</name>
+		<name normalized="Basse Saxonia" languages="Interlingua">Basse Saxonia</name>
+		<name normalized="Basse-Saxe" languages="French">Basse-Saxe</name>
+		<name normalized="Baxa Saxonia" languages="Asturian">Baxa Saxonia</name>
+		<name normalized="Basa Sasonia" languages="lumbaart">Bàsa Sasònia</name>
+		<name normalized="Delnja Sakska" languages="Upper Sorbian">Delnja Sakska</name>
+		<name normalized="Dolna Saksonia" languages="Polish">Dolna Saksonia</name>
+		<name normalized="Dolnosakska" languages="Lower Sorbian">Dolnosakska</name>
+		<name normalized="Dolne Sasko" languages="Slovak">Dolné Sasko</name>
+		<name normalized="Dolni Sasko" languages="Czech">Dolní Sasko</name>
+		<name normalized="Dona-Saxan" languages="Volapuk">Dona-Saxän</name>
+		<name normalized="Donja Saksonija" languages="Bosnian">Donja Saksonija</name>
+		<name normalized="Donja Saska" languages="Croatian;Serbo-Croatian">Donja Saska</name>
+		<name normalized="Guy Sahona" languages="Guarani">Guy Sahoña</name>
+		<name normalized="Infra Saxonia" languages="Interlingue">Infra Saxonia</name>
+		<name normalized="Infra-Saxonia" languages="Ido">Infra-Saxonia</name>
+		<name normalized="Lawer Saxony" languages="Scots">Lawer Saxony</name>
+		<name normalized="Lejassaksija" languages="Latvian">Lejassaksija</name>
+		<name normalized="Lower Saxony" languages="English;official;Pampanga;Simple English;Yoruba">Lower Saxony</name>
+		<name normalized="Laichsaksen" languages="Seeltersk">Läichsaksen</name>
+		<name normalized="Malsupra Saksio" languages="Esperanto">Malsupra Saksio</name>
+		<name normalized="Neddersassen" languages="Low German">Neddersassen</name>
+		<name normalized="Nedersakse" languages="Afrikaans;Limburgish">Nedersakse</name>
+		<name normalized="Nedersaksen" languages="Dutch;Low Saxon (Netherlands);Western Frisian">Nedersaksen</name>
+		<name normalized="Nedra-Saxland" languages="Icelandic">Neðra-Saxland</name>
+		<name normalized="Nidasaksa" languages="Palzisch">Nidasaksä</name>
+		<name normalized="Niedersachsen" languages="Alemannisch;Bavarian;Chinese (Min Nan);Cornish;Danish;English;German;Indonesian;Javanese;Kongo;Kurdish;Manx;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Quechua;Somali;Swedish;Uzbek;Vietnamese;Waray;Welsh">Niedersachsen</name>
+		<name normalized="Niedersachsen suyu" languages="Aymara">Niedersachsen suyu</name>
+		<name normalized="Niidersaksen" languages="Northern Frisian">Niidersaksen</name>
+		<name normalized="Niderseaxland" languages="Old English">Niðerseaxland</name>
+		<name normalized="Sagsainn Iosail" languages="Scottish Gaelic">Sagsainn Ìosail</name>
+		<name normalized="Saks-Izel" languages="Breton">Saks-Izel</name>
+		<name normalized="Saksonia Chini" languages="Swahili">Saksonia Chini</name>
+		<name normalized="Saksonia e Ulet" languages="Albanian">Saksonia e Ulët</name>
+		<name normalized="Sassonia Bassa" languages="veneto">Sassonia Bassa</name>
+		<name normalized="Saxonia Beherea" languages="Basque">Saxonia Beherea</name>
+		<name normalized="Saxonia Inferioara" languages="Romanian">Saxonia Inferioară</name>
+		<name normalized="Saxonia Inferior" languages="Latin">Saxonia Inferior</name>
+		<name normalized="Saxonia Inferiura" languages="Romansh">Saxonia Inferiura</name>
+		<name normalized="Saxony Bawah" languages="Malay">Saxony Bawah</name>
+		<name normalized="Spodnja Saska" languages="Slovenian">Spodnja Saška</name>
+		<name normalized="Tlani Saxonia" languages="Nahuatl">Tlani Saxonia</name>
+		<name normalized="Zemutine Saksonija" languages="Lithuanian">Žemutinė Saksonija</name>
+		<name normalized="Κατω Σαξωνια" languages="Greek">Κάτω Σαξωνία</name>
+		<name normalized="Aллaрaa Сakсoнiйa" languages="Sakha">Аллараа Саксонийа</name>
+		<name normalized="Daeллag Сakсoнi" languages="Ossetic">Дæллаг Саксони</name>
+		<name normalized="Doлнa Сakсoнii" languages="Bulgarian">Долна Саксония</name>
+		<name normalized="Doлнa Сakсoнija" languages="Macedonian">Долна Саксонија</name>
+		<name normalized="Dooр Сakсoн" languages="Mongolian">Доор Саксон</name>
+		<name normalized="Dona Сakсoнija" languages="Serbian">Доња Саксонија</name>
+		<name normalized="Лakaрa Сakсoнi" languages="Chechen">Лахара Саксони</name>
+		<name normalized="Нizнi Сakсoнii" languages="Ukrainian">Нижня Саксонія</name>
+		<name normalized="Нizнii Сakсoнii" languages="Russian">Нижняя Саксония</name>
+		<name normalized="Нizнii Сakсoнii" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Ніжняя Саксонія</name>
+		<name normalized="Tүbəнgi Сakсoнii" languages="Bashkir">Түбәнге Саксония</name>
+		<name normalized="Tɵмiнgi Сakсoнii" languages="Kazakh">Төменгі Саксония</name>
+		<name normalized="brאnדnbvrג" languages="Yiddish">בראנדנבורג</name>
+		<name normalized="סqסvnיh hthtvnh" languages="Hebrew">סקסוניה התחתונה</name>
+		<name normalized="tھلوאں سیکسنی" languages="Western Punjabi">تھلواں سیکسنی</name>
+		<name normalized="سאکسۆنیאی خوאrوو" languages="Sorani Kurdish">ساکسۆنیای خواروو</name>
+		<name normalized="سkسونyא אلسfلى" languages="Arabic">سكسونيا السفلى</name>
+		<name normalized="نیدrزאکسن" languages="Persian">نیدرزاکسن</name>
+		<name normalized="niडrjाk्sn" languages="Marathi">नीडरजाक्सन</name>
+		<name normalized="รัฐโลว์เออร์แซกโซนี" languages="Thai">รัฐโลว์เออร์แซกโซนี</name>
+		<name normalized="ქვემო საქსონია" languages="Georgian">ქვემო საქსონია</name>
+		<name normalized="nーdーzksn州" languages="Japanese">ニーダーザクセン州</name>
+		<name normalized="下萨克森" languages="Chinese">下萨克森</name>
+		<name normalized="니더작센 주" languages="Korean">니더작센 주</name>
+	</region>
+	<region name="Nordrhein-Westfalen" type="state" typeTranslated="Land">
+		<name normalized="Amianan a Renania-Wespalia" languages="Iloko">Amianan a Renania-Wespalia</name>
+		<name normalized="Hilagang Renania-Westfalia" languages="Tagalog">Hilagang Renania-Westfalia</name>
+		<name normalized="Ipar Renania-Westfalia" languages="Basque">Ipar Renania-Westfalia</name>
+		<name normalized="Kuzey Ren-Vestfalya" languages="Turkish">Kuzey Ren-Vestfalya</name>
+		<name normalized="Nadrenia Polnocna-Westfalia" languages="Polish">Nadrenia Północna-Westfalia</name>
+		<name normalized="Noardryn-Westfalen" languages="Western Frisian">Noardryn-Westfalen</name>
+		<name normalized="Noludarinan-Vesfalan" languages="Volapuk">Nolüdarinän-Vesfalän</name>
+		<name normalized="Noordrhain-Westfele" languages="Low Saxon (Netherlands)">Noordrhain-Westfele</name>
+		<name normalized="Noordrhien-Westfalen" languages="Low German">Noordrhien-Westfalen</name>
+		<name normalized="Noordrien-Wesfale" languages="Limburgish">Noordrien-Wesfale</name>
+		<name normalized="Noordrijn-Westfalen" languages="Dutch">Noordrijn-Westfalen</name>
+		<name normalized="Noordryn-Wesfale" languages="Afrikaans">Noordryn-Wesfale</name>
+		<name normalized="Nord Reno-Westfalia" languages="lumbaart;Neapolitan">Nord Reno-Westfalia</name>
+		<name normalized="Nordrejn-Vestfalio" languages="Esperanto">Nordrejn-Vestfalio</name>
+		<name normalized="Nordrhein-Vestfalia" languages="Interlingue">Nordrhein-Vestfalia</name>
+		<name normalized="Nordrhein-Westfalen" languages="Albanian;Alemannisch;Bavarian;Breton;Chinese (Min Nan);Colognian;Cornish;Danish;English;Estonian;Finnish;German;Indonesian;Javanese;Kongo;Kurdish;Luxembourgish;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Quechua;Scottish Gaelic;Swedish;Vietnamese;Waray;Welsh;Yoruba">Nordrhein-Westfalen</name>
+		<name normalized="Nordrhein-Westfalen suyu" languages="Aymara">Nordrhein-Westfalen suyu</name>
+		<name normalized="Nordrhein-Westfalska" languages="Lower Sorbian">Nordrhein-Westfalska</name>
+		<name normalized="Nordrheno-Vestfalia" languages="Ido">Nordrheno-Vestfalia</name>
+		<name normalized="Nordrhin-Weestfaalen" languages="Northern Frisian">Nordrhin-Weestfåålen</name>
+		<name normalized="Nordrhoi-Weschdfaale" languages="Palzisch">Nordrhoi-Weschdfaale</name>
+		<name normalized="Nordrhoi-Wessfoale" languages="Deitsch">Nordrhoi-Wessfoale</name>
+		<name normalized="Nordu Renu-Westfalia" languages="Corsican">Nordu Renu-Westfalia</name>
+		<name normalized="North Rhine-Westphalia" languages="English;Malay;official;Simple English">North Rhine-Westphalia</name>
+		<name normalized="North Rhine-Westphalie" languages="Scots">North Rhine-Westphalie</name>
+		<name normalized="Nordurrin-Vestfalia" languages="Icelandic">Norðurrín-Vestfalía</name>
+		<name normalized="Noudrhien-Waastfoalen" languages="Seeltersk">Noudrhien-Wäästfoalen</name>
+		<name normalized="Nord Ren-Westfalia" languages="Piedmontese">Nòrd Ren-Westfalia</name>
+		<name normalized="Pangulung Rhine-Westphalia" languages="Pampanga">Pangulung Rhine-Westphalia</name>
+		<name normalized="Rain dal Nord-Vestfalia" languages="Romansh">Rain dal Nord-Vestfalia</name>
+		<name normalized="Ren del Nord-Vestfalia" languages="Occitan">Ren del Nòrd-Vestfàlia</name>
+		<name normalized="Renania d'o Norte-Westfalia" languages="Aragonese">Renania d'o Norte-Westfalia</name>
+		<name normalized="Renania de Nord-Westfalia" languages="Romanian">Renania de Nord-Westfalia</name>
+		<name normalized="Renania del Norte-Westfalia" languages="Spanish">Renania del Norte-Westfalia</name>
+		<name normalized="Renania do Norte-Westfalia" languages="Galician">Renania do Norte-Westfalia</name>
+		<name normalized="Renania do Nord-Vestfall-ia" languages="Ligure">Renania do Nòrd-Vestfall-ia</name>
+		<name normalized="Renania Setentrional-Vestfalia" languages="veneto">Renania Setentrional-Vestfalia</name>
+		<name normalized="Renania Settentrionale-Vestfalia" languages="Italian">Renania Settentrionale-Vestfalia</name>
+		<name normalized="Renania do Norte-Vestfalia" languages="Portuguese">Renânia do Norte-Vestfália</name>
+		<name normalized="Rhein Mictlampa-Westfalen" languages="Nahuatl">Rhein Mictlāmpa-Westfalen</name>
+		<name normalized="Rhenania Septentrionalis-Vestfalia" languages="Latin">Rhenania Septentrionalis-Vestfalia</name>
+		<name normalized="Rhine Kaskazini-Westfalia" languages="Swahili">Rhine Kaskazini-Westfalia</name>
+		<name normalized="Rhenanie-du-Nord-Westphalie" languages="French">Rhénanie-du-Nord-Westphalie</name>
+		<name normalized="Rin del Nord-Westfalia" languages="Catalan">Rin del Nord-Westfàlia</name>
+		<name normalized="Severno Porenje-Vestfalija" languages="Slovenian">Severno Porenje-Vestfalija</name>
+		<name normalized="Severne Porynie-Vestfalsko" languages="Slovak">Severné Porýnie-Vestfálsko</name>
+		<name normalized="Severni Poryni-Vestfalsko" languages="Czech">Severní Porýní-Vestfálsko</name>
+		<name normalized="Sewjerorynsko-Westfalska" languages="Upper Sorbian">Sewjerorynsko-Westfalska</name>
+		<name normalized="Shimoliy Reyn-Vestfaliya" languages="Uzbek">Shimoliy Reyn-Vestfaliya</name>
+		<name normalized="Sjeverna Rajna-Vestfalija" languages="Bosnian;Croatian;Serbo-Croatian">Sjeverna Rajna-Vestfalija</name>
+		<name normalized="Tuaisceart na Reine agus an Viostfail" languages="Irish">Tuaisceart na Réine agus an Viostfáil</name>
+		<name normalized="Yn Rhine Hwoaie-Westfalen" languages="Manx">Yn Rhine Hwoaie-Westfalen</name>
+		<name normalized="Yvate Rrenania-Westfalia" languages="Guarani">Yvate Rrenania-Westfalia</name>
+		<name normalized="Ziemelreina-Vestfalene" languages="Latvian">Ziemeļreina-Vestfālene</name>
+		<name normalized="Cuрceр Рiйн-Viсtфaлi" languages="Chuvash">Çурçĕр Рейн-Вестфали</name>
+		<name normalized="Eszak-Rajna-Vesztfalia" languages="Hungarian">Észak-Rajna–Vesztfália</name>
+		<name normalized="Simali Reyn-Vestfaliya" languages="Azerbaijani">Şimali Reyn-Vestfaliya</name>
+		<name normalized="Siaures Reinas-Vestfalija" languages="Lithuanian">Šiaurės Reinas-Vestfalija</name>
+		<name normalized="Βορεια Ρηνανια-Βεστφαλια" languages="Greek">Βόρεια Ρηνανία-Βεστφαλία</name>
+		<name normalized="Kъiлbсidiрa Рiйн-Viсtфaлi" languages="Chechen">Къилбседера Рейн-Вестфали</name>
+		<name normalized="Paўнocны Рeйн-Viсtфaлii" languages="Belarusian">Паўночны Рэйн-Вестфалія</name>
+		<name normalized="Pivнicнiй Рiйн-Viсtфaлii" languages="Ukrainian">Північний Рейн-Вестфалія</name>
+		<name normalized="Сiviрiн Рiйн-Viсtфaлii" languages="Bulgarian">Северен Рейн-Вестфалия</name>
+		<name normalized="Сiviрнa Рajнa-Viсtфaлija" languages="Macedonian;Serbian">Северна Рајна-Вестфалија</name>
+		<name normalized="Сiviрный Рiйн-Viсtфaлii" languages="Russian">Северный Рейн-Вестфалия</name>
+		<name normalized="Сoлtүсtik Рiйн-Viсtфaлii" languages="Kazakh">Солтүстік Рейн-Вестфалия</name>
+		<name normalized="Taegat Рiйн-Viсtфaлi" languages="Ossetic">Цæгат Рейн-Вестфали</name>
+		<name normalized="nאrד rיין-vvעסtpאדיע" languages="Yiddish">נארד ריין-וועסטפאליע</name>
+		<name normalized="nvrדrיין-vסtpאדיh" languages="Hebrew">נורדריין-וסטפאליה</name>
+		<name normalized="אtلא rאئین لیندא fאلیہ" languages="Western Punjabi">اتلا رائین لیندا فالیہ</name>
+		<name normalized="شmאل אلrאyن-وسtfאلyא" languages="Arabic">شمال الراين-وستفاليا</name>
+		<name normalized="نوrدrאین-وسtfאلن" languages="Persian">نوردراین-وستفالن</name>
+		<name normalized="ڕאینی bאکووr-وێسtfאلیא" languages="Sorani Kurdish">ڕاینی باکوور-وێستفالیا</name>
+		<name normalized="nor्डऱ्hाin-ves्टpाln" languages="Marathi">नोर्डऱ्हाइन-वेस्टफालन</name>
+		<name normalized="uੱtri rਾin-pੱcmi p਼ਾln" languages="Punjabi">ਉੱਤਰੀ ਰਾਈਨ-ਪੱਛਮੀ ਫ਼ਾਲਨ</name>
+		<name normalized="รัฐนอร์ดไรน์-เวสท์ฟาเลิน" languages="Thai">รัฐนอร์ดไรน์-เวสท์ฟาเลิน</name>
+		<name normalized="ჩრდილოეთი რაინ-ვესტფალია" languages="Georgian">ჩრდილოეთი რაინ-ვესტფალია</name>
+		<name normalized="nrtrin=vesthaーrn州" languages="Japanese">ノルトライン＝ヴェストファーレン州</name>
+		<name normalized="北莱茵-威斯特法伦" languages="Chinese">北莱茵-威斯特法伦</name>
+		<name normalized="노르트라인베스트팔렌 주" languages="Korean">노르트라인베스트팔렌 주</name>
+	</region>
+	<region name="Rheinland-Pfalz" type="state" typeTranslated="Land">
+		<name normalized="Falacko Porajnje" languages="Croatian">Falačko Porajnje</name>
+		<name normalized="Nadrenia-Palatynat" languages="Polish">Nadrenia-Palatynat</name>
+		<name normalized="Porajnje-Falacka" languages="Bosnian;Serbo-Croatian">Porajnje-Falačka</name>
+		<name normalized="Porenje-Pfalska" languages="Slovenian">Porenje-Pfalška</name>
+		<name normalized="Porynsko-Pfalca" languages="Upper Sorbian">Porynsko-Pfalca</name>
+		<name normalized="Porynie-Falcko" languages="Slovak">Porýnie-Falcko</name>
+		<name normalized="Poryni-Falc" languages="Czech">Porýní-Falc</name>
+		<name normalized="Rajna-videk-Pfalz" languages="Hungarian">Rajna-vidék–Pfalz</name>
+		<name normalized="Reino krastas-Pfalcas" languages="Lithuanian">Reino kraštas-Pfalcas</name>
+		<name normalized="Reinzeme-Pfalca" languages="Latvian">Reinzeme-Pfalca</name>
+		<name normalized="Rejnlando-Palatinato" languages="Esperanto">Rejnlando-Palatinato</name>
+		<name normalized="Renania Palatinato" languages="Ligure">Renania Palatinato</name>
+		<name normalized="Renania-Palatinado" languages="Galician;Ladino;Spanish">Renania-Palatinado</name>
+		<name normalized="Renania-Palatinat" languages="Romanian;Romansh">Renania-Palatinat</name>
+		<name normalized="Renania-Palatinato" languages="Aragonese;Italian">Renania-Palatinato</name>
+		<name normalized="Renania-Palatinatua" languages="Basque">Renania-Palatinatua</name>
+		<name normalized="Renania-Palatina" languages="Piedmontese;veneto">Renania-Palatinà</name>
+		<name normalized="Renanya-Palatina" languages="Turkish">Renanya-Palatina</name>
+		<name normalized="Renagna Palatina" languages="Emiliano-Romagnolo">Renàgna Palatinâ</name>
+		<name normalized="Renania-Palatinat" languages="Catalan;Occitan">Renània-Palatinat</name>
+		<name normalized="Renania-Palatinato" languages="lumbaart">Renània-Palatinàto</name>
+		<name normalized="Renania-Palatinado" languages="Portuguese">Renânia-Palatinado</name>
+		<name normalized="Reynland-Pfalts" languages="Azerbaijani">Reynland-Pfalts</name>
+		<name normalized="Rheinland-Palatinia" languages="Interlingue">Rheinland-Palatinia</name>
+		<name normalized="Rheinland-Pfalcojska" languages="Lower Sorbian">Rheinland-Pfalcojska</name>
+		<name normalized="Rheinland-Pfalz" languages="Albanian;Alemannisch;Bavarian;Breton;Chinese (Min Nan);Colognian;Cornish;Danish;English;Estonian;Finnish;German;Indonesian;Javanese;Kongo;Kurdish;Luxembourgish;Nahuatl;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Quechua;Scottish Gaelic;Swedish;Vietnamese;Waray;Welsh">Rheinland-Pfalz</name>
+		<name normalized="Rheinland-Pfalz suyu" languages="Aymara">Rheinland-Pfalz suyu</name>
+		<name normalized="Rheinlun-Pfalz" languages="Northern Frisian">Rheinlun-Pfalz</name>
+		<name normalized="Rhenania Palatina" languages="Interlingua">Rhenania Palatina</name>
+		<name normalized="Rhenania-Palatinatus" languages="Latin">Rhenania-Palatinatus</name>
+		<name normalized="Rhenlando-Palatenio" languages="Ido">Rhenlando-Palatenio</name>
+		<name normalized="Rhienland-Palz" languages="Low German">Rhienland-Palz</name>
+		<name normalized="Rhienlound-Palts" languages="Seeltersk">Rhienlound-Palts</name>
+		<name normalized="Rhine-Palatino" languages="Swahili">Rhine-Palatino</name>
+		<name normalized="Rhineland-Palatinate" languages="English;Malay;official;Pampanga;Scots;Simple English;Yoruba">Rhineland-Palatinate</name>
+		<name normalized="Rhoiland-Palz" languages="Deitsch">Rhoiland-Palz</name>
+		<name normalized="Rhoilond-Palz" languages="Palzisch">Rhoilond-Palz</name>
+		<name normalized="Rhenanie-Palatinat" languages="French">Rhénanie-Palatinat</name>
+		<name normalized="Rienland-Palts" languages="Limburgish">Rienland-Palts</name>
+		<name normalized="Rijnland-Palts" languages="Dutch">Rijnland-Palts</name>
+		<name normalized="Rinan-Palzan" languages="Volapuk">Rinän-Palzän</name>
+		<name normalized="Rrenania-Palatinado" languages="Guarani">Rrenania-Palatinado</name>
+		<name normalized="Rynland-Palts" languages="Afrikaans">Rynland-Palts</name>
+		<name normalized="Rynlan-Palts" languages="Western Frisian">Rynlân-Palts</name>
+		<name normalized="Rinarland-Pfalz" languages="Icelandic">Rínarland-Pfalz</name>
+		<name normalized="Tir na Reine agus an Phalaitineacht" languages="Irish">Tír na Réine agus an Phalaitíneacht</name>
+		<name normalized="Cheer ny Rhiney as y Phalateenaght" languages="Manx">Çheer ny Rhiney as y Phalateenaght</name>
+		<name normalized="Ρηνανια-Παλατινατο" languages="Greek">Ρηνανία-Παλατινάτο</name>
+		<name normalized="Рaйнлaнd-Pфaльt" languages="Bashkir">Райнланд-Пфальц</name>
+		<name normalized="Рaйнлiнd-Pфaльt" languages="biлaрuсkai (taрaskivita)‎">Райнлянд-Пфальц</name>
+		<name normalized="Рajнa-Paлatiнat" languages="Serbian">Рајна-Палатинат</name>
+		<name normalized="Рajнсka obлaсt-Pфaлt" languages="Macedonian">Рајнска област-Пфалц</name>
+		<name normalized="Рiйнлaнd-Pфaлt" languages="Bulgarian">Рейнланд-Пфалц</name>
+		<name normalized="Рiйнлaнd-Pфaльt" languages="Chechen;Chuvash;Kazakh;Russian;Ukrainian">Рейнланд-Пфальц</name>
+		<name normalized="Рeйнлaнd-Pфaльt" languages="Belarusian">Рэйнланд-Пфальц</name>
+		<name normalized="rייnדאnד-pאדץ" languages="Yiddish">ריינלאנד-פאלץ</name>
+		<name normalized="rייnדnד-pאדץ" languages="Hebrew">ריינלנד-פאלץ</name>
+		<name normalized="rאئین لینڈ-pאلאٹینאٹے" languages="Western Punjabi">رائین لینڈ-پالاٹیناٹے</name>
+		<name normalized="rאyنلند bאلאtyنאt" languages="Arabic">راينلند بالاتينات</name>
+		<name normalized="rאینلאند-fאلtس" languages="Persian">راینلاند-فالتس</name>
+		<name normalized="ڕאینلەند-pאلאtینאt" languages="Sorani Kurdish">ڕاینلەند-پالاتینات</name>
+		<name normalized="ऱ्hाinlांड-pाl्t्s" languages="Marathi">ऱ्हाइनलांड-फाल्त्स</name>
+		<name normalized="รัฐไรน์ลันด์-พฟัลซ์" languages="Thai">รัฐไรน์ลันด์-พฟัลซ์</name>
+		<name normalized="რაინლანდ-პფალცი" languages="Georgian">რაინლანდ-პფალცი</name>
+		<name normalized="rinrnt=phart州" languages="Japanese">ラインラント＝プファルツ州</name>
+		<name normalized="莱茵兰-普法尔茨" languages="Chinese">莱茵兰-普法尔茨</name>
+		<name normalized="라인란트팔츠 주" languages="Korean">라인란트팔츠 주</name>
+	</region>
+	<region name="Saarland" type="state" typeTranslated="Land">
+		<name normalized="An tSarlainn" languages="Irish">An tSárlainn</name>
+		<name normalized="Posaarska" languages="Upper Sorbian">Posaarska</name>
+		<name normalized="Posarje" languages="Slovenian">Posarje</name>
+		<name normalized="Saar" languages="Swahili">Saar</name>
+		<name normalized="Saar-videk" languages="Hungarian">Saar-vidék</name>
+		<name normalized="Saara" languages="Polish">Saara</name>
+		<name normalized="Saarimaa" languages="Estonian">Saarimaa</name>
+		<name normalized="Saarland" languages="Afrikaans;Albanian;Alemannisch;Azerbaijani;Bavarian;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Danish;Deitsch;Dutch;English;Finnish;German;Icelandic;Ido;Indonesian;Interlingue;Italian;Javanese;Kongo;Kurdish;Ligure;Limburgish;Low German;lumbaart;Luxembourgish;Malay;Manx;Nahuatl;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Piedmontese;Quechua;Romanian;Romansh;Scots;Scottish Gaelic;Serbo-Croatian;Simple English;Swedish;Turkish;Uzbek;Vietnamese;Waray;Welsh;Yoruba">Saarland</name>
+		<name normalized="Saarland suyu" languages="Aymara">Saarland suyu</name>
+		<name normalized="Saarlande" languages="Novial">Saarlande</name>
+		<name normalized="Saarlandska" languages="Lower Sorbian">Saarlandska</name>
+		<name normalized="Saarlond" languages="Palzisch">Saarlond</name>
+		<name normalized="Saarlound" languages="Seeltersk">Saarlound</name>
+		<name normalized="Saarlun" languages="Northern Frisian">Saarlun</name>
+		<name normalized="Saarlan" languages="Western Frisian">Saarlân</name>
+		<name normalized="Saarlan" languages="Volapuk">Saarlän</name>
+		<name normalized="Saarska" languages="Croatian">Saarska</name>
+		<name normalized="Saravia" languages="Latin">Saravia</name>
+		<name normalized="Sarlando" languages="Esperanto">Sarlando</name>
+		<name normalized="Saro krastas" languages="Lithuanian">Saro kraštas</name>
+		<name normalized="Sarre" languages="Aragonese;Basque;French;Galician;Guarani;Portuguese;Spanish">Sarre</name>
+		<name normalized="Sarsko" languages="Czech;Slovak">Sársko</name>
+		<name normalized="Zara" languages="Latvian">Zāra</name>
+		<name normalized="Σααρλαντ" languages="Greek">Σάαρλαντ</name>
+		<name normalized="Zaaрлiнd" languages="biлaрuсkai (taрaskivita)‎">Заарлянд</name>
+		<name normalized="Сaaр" languages="Belarusian;Chechen;Chuvash;Kazakh;Russian">Саар</name>
+		<name normalized="Сaaрлaнd" languages="Bulgarian;Ukrainian">Саарланд</name>
+		<name normalized="Сaр" languages="Macedonian">Сар</name>
+		<name normalized="Сaрлaнd" languages="Serbian">Сарланд</name>
+		<name normalized="hbד hסאr" languages="Hebrew">חבל הסאר</name>
+		<name normalized="زאrلאند" languages="Pashto">زارلاند</name>
+		<name normalized="زאrلند" languages="Persian">زارلند</name>
+		<name normalized="زאrلەند" languages="Sorani Kurdish">زارلەند</name>
+		<name normalized="سאrلאند" languages="Arabic">سارلاند</name>
+		<name normalized="سאrلینڈ" languages="Western Punjabi">سارلینڈ</name>
+		<name normalized="jाrlांड" languages="Marathi">जारलांड</name>
+		<name normalized="sਾrlaਂਡ" languages="Punjabi">ਸਾਰਲੈਂਡ</name>
+		<name normalized="รัฐซาร์ลันด์" languages="Thai">รัฐซาร์ลันด์</name>
+		<name normalized="ზაარლანდი" languages="Georgian">ზაარლანდი</name>
+		<name normalized="zーrrnt州" languages="Japanese">ザールラント州</name>
+		<name normalized="薩爾蘭" languages="Chinese">薩爾蘭</name>
+		<name normalized="자를란트 주" languages="Korean">자를란트 주</name>
+	</region>
+	<region name="Sachsen" type="state" typeTranslated="Land">
+		<name normalized="An tSacsain" languages="Irish">An tSacsain</name>
+		<name normalized="Freistaat Sachsen" languages="Alemannisch">Freistaat Sachsen</name>
+		<name normalized="Sachsen" languages="Chinese (Min Nan);Cornish;Danish;English;German;Indonesian;Javanese;Kongo;Malay;Manx;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Quechua;Swedish;Vietnamese;Waray;Welsh">Sachsen</name>
+		<name normalized="Sachsen suyu" languages="Aymara">Sachsen suyu</name>
+		<name normalized="Saggsn" languages="Bavarian">Saggsn</name>
+		<name normalized="Sagsainn" languages="Scottish Gaelic">Sagsainn</name>
+		<name normalized="Sahonya" languages="Tagalog">Sahonya</name>
+		<name normalized="Sahona" languages="Guarani">Sahoña</name>
+		<name normalized="Sajonia" languages="Spanish">Sajonia</name>
+		<name normalized="Saks" languages="Breton">Saks</name>
+		<name normalized="Sakse" languages="Afrikaans">Sakse</name>
+		<name normalized="Saksen" languages="Dutch;Low Saxon (Netherlands);Northern Frisian;Seeltersk;Western Frisian">Saksen</name>
+		<name normalized="Saksi" languages="Finnish">Saksi</name>
+		<name normalized="Saksija" languages="Latvian">Saksija</name>
+		<name normalized="Saksimaa" languages="Estonian">Saksimaa</name>
+		<name normalized="Saksio" languages="Esperanto">Saksio</name>
+		<name normalized="Sakska" languages="Lower Sorbian;Upper Sorbian">Sakska</name>
+		<name normalized="Saksonia" languages="Albanian;Polish;Swahili">Saksonia</name>
+		<name normalized="Saksonija" languages="Bosnian;Lithuanian;Serbo-Croatian">Saksonija</name>
+		<name normalized="Saksoniya" languages="Azerbaijani;Uzbek">Saksoniya</name>
+		<name normalized="Saksonya" languages="Kurdish;Turkish">Saksonya</name>
+		<name normalized="Saksa" languages="Palzisch">Saksä</name>
+		<name normalized="Saksunijo" languages="Silesian">Saksůńijo</name>
+		<name normalized="Saska" languages="Croatian">Saska</name>
+		<name normalized="Sasko" languages="Czech;Slovak">Sasko</name>
+		<name normalized="Sasonia" languages="lumbaart">Sasonia</name>
+		<name normalized="Sassen" languages="Low German">Sassen</name>
+		<name normalized="Sassonia" languages="Corsican;Italian;Ligure;Neapolitan;veneto">Sassonia</name>
+		<name normalized="Sassonia" languages="Piedmontese">Sassònia</name>
+		<name normalized="Saxe" languages="French">Saxe</name>
+		<name normalized="Saxland" languages="Icelandic">Saxland</name>
+		<name normalized="Saxonia" languages="Aragonese;Asturian;Basque;Galician;Ido;Interlingua;Interlingue;Latin;Nahuatl;Novial;Romanian;Romansh">Saxonia</name>
+		<name normalized="Saxony" languages="English;official;Pampanga;Scots;Simple English;Yoruba">Saxony</name>
+		<name normalized="Saxan" languages="Volapuk">Saxän</name>
+		<name normalized="Saxonia" languages="Catalan;Occitan">Saxònia</name>
+		<name normalized="Saxonia" languages="Portuguese">Saxônia</name>
+		<name normalized="Saska" languages="Slovenian">Saška</name>
+		<name normalized="Szaszorszag" languages="Hungarian">Szászország</name>
+		<name normalized="Σαξωνια" languages="Greek">Σαξωνία</name>
+		<name normalized="Viльнa diрzava Сakсoнii" languages="Ukrainian">Вільна держава Саксонія</name>
+		<name normalized="Мaьрsa packьaлkk Сakсoнi" languages="Chechen">Маьрша пачхьалкх Саксони</name>
+		<name normalized="Сakсoнi" languages="Chuvash;Ossetic">Саксони</name>
+		<name normalized="Сakсoнii" languages="Bulgarian;Russian">Саксония</name>
+		<name normalized="Сakсoнii iрkiн мiмлikiti" languages="Kazakh">Саксония еркін мемлекеті</name>
+		<name normalized="Сakсoнija" languages="Macedonian;Serbian">Саксонија</name>
+		<name normalized="Сakсoнii" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Саксонія</name>
+		<name normalized="Sաksvնիա" languages="Armenian">Սաքսոնիա</name>
+		<name normalized="סאqסאnיע" languages="Yiddish">סאקסאניע</name>
+		<name normalized="סqסvnיh" languages="Hebrew">סקסוניה</name>
+		<name normalized="زאکسن" languages="Persian">زاکسن</name>
+		<name normalized="سאkسونyא" languages="Arabic">ساكسونيا</name>
+		<name normalized="سאکسۆنیא" languages="Sorani Kurdish">ساکسۆنیا</name>
+		<name normalized="سیکسنی" languages="Western Punjabi">سیکسنی</name>
+		<name normalized="jाk्sn" languages="Marathi">जाक्सन</name>
+		<name normalized="j਼ਾksn" languages="Punjabi">ਜ਼ਾਕਸਨ</name>
+		<name normalized="รัฐซัคเซิน" languages="Thai">รัฐซัคเซิน</name>
+		<name normalized="საქსონია" languages="Georgian">საქსონია</name>
+		<name normalized="zksn州" languages="Japanese">ザクセン州</name>
+		<name normalized="萨克森自由州" languages="Chinese">萨克森自由州</name>
+		<name normalized="작센 자유주" languages="Korean">작센 자유주</name>
+	</region>
+	<region name="Sachsen-Anhalt" type="state" typeTranslated="Land">
+		<name normalized="An tSacsain-Anhalt" languages="Irish">An tSacsain-Anhalt</name>
+		<name normalized="Sachsen-Anhalt" languages="Alemannisch;Bavarian;Chinese (Min Nan);Cornish;Danish;English;German;Indonesian;Javanese;Kongo;Kurdish;Manx;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Quechua;Swedish;Vietnamese;Waray;Welsh">Sachsen-Anhalt</name>
+		<name normalized="Sachsen-Anhalt suyu" languages="Aymara">Sachsen-Anhalt suyu</name>
+		<name normalized="Sagsainn-Anhalt" languages="Scottish Gaelic">Sagsainn-Anhalt</name>
+		<name normalized="Sahona-Anhalt" languages="Guarani">Sahoña-Anhalt</name>
+		<name normalized="Sajonia-Anhalt" languages="Spanish">Sajonia-Anhalt</name>
+		<name normalized="Saks-Anhalt" languages="Breton">Saks-Anhalt</name>
+		<name normalized="Sakse-Anhalt" languages="Afrikaans">Sakse-Anhalt</name>
+		<name normalized="Saksen-Aanhoalt" languages="Low Saxon (Netherlands)">Saksen-Aanhoalt</name>
+		<name normalized="Saksen-Anhalt" languages="Dutch;Northern Frisian;Seeltersk;Western Frisian">Saksen-Anhalt</name>
+		<name normalized="Saksi-Anhalt" languages="Estonian;Finnish">Saksi-Anhalt</name>
+		<name normalized="Saksija-Anhalte" languages="Latvian">Saksija-Anhalte</name>
+		<name normalized="Saksio-Anhalto" languages="Esperanto">Saksio-Anhalto</name>
+		<name normalized="Sakska-Anhaltska" languages="Lower Sorbian">Sakska-Anhaltska</name>
+		<name normalized="Saksko-Anhaltska" languages="Upper Sorbian">Saksko-Anhaltska</name>
+		<name normalized="Saksonia Anhalt" languages="Albanian">Saksonia Anhalt</name>
+		<name normalized="Saksonia-Anhalt" languages="Polish;Swahili">Saksonia-Anhalt</name>
+		<name normalized="Saksonija-Anhalt" languages="Bosnian;Serbo-Croatian">Saksonija-Anhalt</name>
+		<name normalized="Saksonija-Anhaltas" languages="Lithuanian">Saksonija-Anhaltas</name>
+		<name normalized="Saksoniya-Anhalt" languages="Azerbaijani;Uzbek">Saksoniya-Anhalt</name>
+		<name normalized="Saksonya-Anhalt" languages="Turkish;Zazaki">Saksonya-Anhalt</name>
+		<name normalized="Saksa-Aahald" languages="Palzisch">Saksä-Aahald</name>
+		<name normalized="Saska-Anhalt" languages="Croatian">Saska-Anhalt</name>
+		<name normalized="Sasko-Anhaltsko" languages="Czech;Slovak">Sasko-Anhaltsko</name>
+		<name normalized="Sassen-Anholt" languages="Low German">Sassen-Anholt</name>
+		<name normalized="Sassonia Anhalt" languages="Ligure">Sassonia Anhalt</name>
+		<name normalized="Sassonia-Anhalt" languages="Italian;veneto">Sassonia-Anhalt</name>
+		<name normalized="Sassonia-Anhalt" languages="Piedmontese">Sassònia-Anhalt</name>
+		<name normalized="Sasonia-Anhalt" languages="lumbaart">Sasònia-Anhalt</name>
+		<name normalized="Saxe-Anhalt" languages="French">Saxe-Anhalt</name>
+		<name normalized="Saxland-Anhalt" languages="Icelandic">Saxland-Anhalt</name>
+		<name normalized="Saxonia-Anhalt" languages="Aragonese;Basque;Galician;Ido;Interlingue;Nahuatl;Romanian;Romansh">Saxonia-Anhalt</name>
+		<name normalized="Saxonia-Anhaltinia" languages="Interlingua">Saxonia-Anhaltinia</name>
+		<name normalized="Saxonia-Anhaltium" languages="Latin">Saxonia-Anhaltium</name>
+		<name normalized="Saxony-Anhalt" languages="English;Malay;official;Pampanga;Scots;Simple English;Yoruba">Saxony-Anhalt</name>
+		<name normalized="Saxan-Lanhaltan" languages="Volapuk">Saxän-Lanhaltän</name>
+		<name normalized="Saxonia-Anhalt" languages="Catalan;Occitan">Saxònia-Anhalt</name>
+		<name normalized="Saxonia-Anhalt" languages="Portuguese">Saxônia-Anhalt</name>
+		<name normalized="Saska-Anhalt" languages="Slovenian">Saška-Anhalt</name>
+		<name normalized="Szasz-Anhalt" languages="Hungarian">Szász-Anhalt</name>
+		<name normalized="Σαξωνια-Ανχαλτ" languages="Greek">Σαξωνία-Άνχαλτ</name>
+		<name normalized="Сakсoн-Aнkaльt" languages="Mongolian">Саксон-Анхальт</name>
+		<name normalized="Сakсoнi-Aнkaльt" languages="Chechen;Chuvash;Ossetic">Саксони-Анхальт</name>
+		<name normalized="Сakсoнii-Aнkaлt" languages="Bulgarian">Саксония-Анхалт</name>
+		<name normalized="Сakсoнii-Aнkaльt" languages="Kazakh;Russian">Саксония-Анхальт</name>
+		<name normalized="Сakсoнija-Aнkaлt" languages="Macedonian;Serbian">Саксонија-Анхалт</name>
+		<name normalized="Сakсoнii-Aнgaльt" languages="Belarusian;Ukrainian;biлaрuсkai (taрaskivita)‎">Саксонія-Ангальт</name>
+		<name normalized="Sաksvնիա-Անhաlt" languages="Armenian">Սաքսոնիա-Անհալթ</name>
+		<name normalized="סאqסאnיע-אnhאדt" languages="Yiddish">סאקסאניע-אנהאלט</name>
+		<name normalized="סqסvnיh-אnhדt" languages="Hebrew">סקסוניה-אנהלט</name>
+		<name normalized="زאکسن-آنhאلt" languages="Persian">زاکسن-آنهالت</name>
+		<name normalized="سאkسونyא أنhאلt" languages="Arabic">ساكسونيا أنهالت</name>
+		<name normalized="سאکسۆنیא-ئەنھאلt" languages="Sorani Kurdish">ساکسۆنیا-ئەنھالت</name>
+		<name normalized="سیکسنی آنہאلٹ" languages="Western Punjabi">سیکسنی آنہالٹ</name>
+		<name normalized="jाk्sn-anhाl्ट" languages="Marathi">जाक्सन-आनहाल्ट</name>
+		<name normalized="รัฐแซกโซนี-อันฮัลต์" languages="Thai">รัฐแซกโซนี-อันฮัลต์</name>
+		<name normalized="საქსონია-ანჰალტი" languages="Georgian">საქსონია-ანჰალტი</name>
+		<name normalized="zksn=anhrt州" languages="Japanese">ザクセン＝アンハルト州</name>
+		<name normalized="萨克森-安哈尔特" languages="Chinese">萨克森-安哈尔特</name>
+		<name normalized="작센안할트 주" languages="Korean">작센안할트 주</name>
+	</region>
+	<region name="Schleswig-Holstein" type="state" typeTranslated="Land">
+		<name normalized="Jlesvigan-Holstan" languages="Volapuk">Jlesvigän-Holstän</name>
+		<name normalized="Schleswig-Holstein" languages="Albanian;Alemannisch;Aragonese;Asturian;Basque;Bavarian;Bosnian;Breton;Chinese (Min Nan);Cornish;Croatian;English;Estonian;Faroese;Finnish;French;Galician;German;Guarani;Hungarian;Ido;Indonesian;Irish;Italian;Javanese;Kongo;Kurdish;Ladino;Ligure;lumbaart;Malay;Manx;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Pampanga;Piedmontese;Portuguese;Quechua;Romanian;Romansh;Scots;Scottish Gaelic;Serbo-Croatian;Simple English;Slovenian;Spanish;Swahili;Swedish;Turkish;Uzbek;Vietnamese;veneto;Waray;Welsh;Yoruba">Schleswig-Holstein</name>
+		<name normalized="Schleswig-Holstein suyu" languages="Aymara">Schleswig-Holstein suyu</name>
+		<name normalized="Schleswig-Holsteinia" languages="Interlingue">Schleswig-Holsteinia</name>
+		<name normalized="Schleswig-Holstian" languages="Northern Frisian">Schleswig-Holstian</name>
+		<name normalized="Schleswigsko-Holsteinska" languages="Upper Sorbian">Schleswigsko-Holsteinska</name>
+		<name normalized="Schlaswisch-Holschda" languages="Palzisch">Schläswisch-Holschdä</name>
+		<name normalized="Silesia-Holsteinia" languages="Interlingua">Silesia-Holsteinia</name>
+		<name normalized="Sleeswiek-Holstain" languages="Low Saxon (Netherlands)">Sleeswiek-Holstain</name>
+		<name normalized="Sleeswijk-Holstein" languages="Dutch">Sleeswijk-Holstein</name>
+		<name normalized="Sleeswyk-Holstein" languages="Afrikaans;Western Frisian">Sleeswyk-Holstein</name>
+		<name normalized="Slesvicum et Holsatia" languages="Latin">Slesvicum et Holsatia</name>
+		<name normalized="Slesvig-Holstein" languages="Catalan">Slesvig-Holstein</name>
+		<name normalized="Slesvig-Holsten" languages="Danish;Northern Sami">Slesvig-Holsten</name>
+		<name normalized="Sleswig-Holsteen" languages="Low German">Sleswig-Holsteen</name>
+		<name normalized="Slaswiek-Holstein" languages="Seeltersk">Släswiek-Holstein</name>
+		<name normalized="Slesvik-Holtsetaland" languages="Icelandic">Slésvík-Holtsetaland</name>
+		<name normalized="Szlezwik-Holsztyn" languages="Polish">Szlezwik-Holsztyn</name>
+		<name normalized="Slesvigo-Holstinio" languages="Esperanto">Ŝlesvigo-Holstinio</name>
+		<name normalized="Slezviq-Holsteyn" languages="Azerbaijani">Şlezviq-Holşteyn</name>
+		<name normalized="Slesvicko-Holstynsko" languages="Czech">Šlesvicko-Holštýnsko</name>
+		<name normalized="Sleswig-Holstejnska" languages="Lower Sorbian">Šleswig-Holštejnska</name>
+		<name normalized="Slezvicko-Holstajnsko" languages="Slovak">Šlezvicko-Holštajnsko</name>
+		<name normalized="Slesviga-Holsteina" languages="Latvian">Šlēsviga-Holšteina</name>
+		<name normalized="Slezvigas-Holsteinas" languages="Lithuanian">Šlėzvigas-Holšteinas</name>
+		<name normalized="Σλeσβιχ-Χολσταιν" languages="Greek">Σλέσβιχ-Χολστάιν</name>
+		<name normalized="Sлizvig-Goльstiйн" languages="Chechen;Kazakh;Ossetic;Russian">Шлезвиг-Гольштейн</name>
+		<name normalized="Sлizvig-Koлstajн" languages="Macedonian;Serbian">Шлезвиг-Холштајн</name>
+		<name normalized="Sлizvig-Koлщaйн" languages="Bulgarian">Шлезвиг-Холщайн</name>
+		<name normalized="Sлizvig-Koльstaйн" languages="Chuvash">Шлезвиг-Хольштайн</name>
+		<name normalized="Sлizvig-Goльstiйн" languages="Ukrainian">Шлезвіг-Гольштейн</name>
+		<name normalized="Sлizvig-Goльsteйн" languages="Belarusian">Шлезвіг-Гольштэйн</name>
+		<name normalized="Sлizьvig-Gaльstaйн" languages="biлaрuсkai (taрaskivita)‎">Шлезьвіг-Гальштайн</name>
+		<name normalized="שדזvvיג-hvדשtיין" languages="Hebrew">שלזוויג-הולשטיין</name>
+		<name normalized="شلسویg-hولشtאین" languages="Persian">شلسویگ-هولشتاین</name>
+		<name normalized="شلyسfyغ hولشtאyن" languages="Arabic">شليسفيغ هولشتاين</name>
+		<name normalized="شلیسوg ہولسٹאین" languages="Western Punjabi">شلیسوگ ہولسٹاین</name>
+		<name normalized="شلێسvیg-ھۆلشtאین" languages="Sorani Kurdish">شلێسڤیگ-ھۆلشتاین</name>
+		<name normalized="sوbہ شلیسوg ہولسٹאین" languages="Urdu">صوبہ شلیسوگ ہولسٹاین</name>
+		<name normalized="s्les्vig-hol्s्टाin" languages="Marathi">श्लेस्विग-होल्श्टाइन</name>
+		<name normalized="รัฐชเลสวิก-โฮลชไตน์" languages="Thai">รัฐชเลสวิก-โฮลชไตน์</name>
+		<name normalized="შლეზვიგ-ჰოლშტაინი" languages="Georgian">შლეზვიგ-ჰოლშტაინი</name>
+		<name normalized="syrーsvih=hrsytin州" languages="Japanese">シュレースヴィヒ＝ホルシュタイン州</name>
+		<name normalized="石勒苏益格-荷尔斯泰因" languages="Chinese">石勒苏益格-荷尔斯泰因</name>
+		<name normalized="슐레스비히홀슈타인 주" languages="Korean">슐레스비히홀슈타인 주</name>
+	</region>
+	<region name="Thueringen" type="state" typeTranslated="Land">
+		<name normalized="Durinska" languages="Lower Sorbian;Upper Sorbian">Durinska</name>
+		<name normalized="Durynsko" languages="Czech">Durynsko</name>
+		<name normalized="Durinsko" languages="Slovak">Durínsko</name>
+		<name normalized="Doringen" languages="Low German">Döringen</name>
+		<name normalized="Thueringen" languages="English;official">Thueringen</name>
+		<name normalized="Thuringe" languages="French">Thuringe</name>
+		<name normalized="Thuringia" languages="English;Interlingua;Interlingue;Latin;official;Pampanga;Simple English;Swahili;Yoruba">Thuringia</name>
+		<name normalized="Thuringie" languages="Scots">Thuringie</name>
+		<name normalized="Thuringe" languages="Colognian">Thüringe</name>
+		<name normalized="Thuringen" languages="Afrikaans;Alemannisch;Bavarian;Breton;Chinese (Min Nan);Cornish;Danish;Dutch;Finnish;German;Indonesian;Irish;Javanese;Kongo;Kurdish;Malay;Manx;Nahuatl;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Quechua;Scottish Gaelic;Seeltersk;Swedish;Vietnamese;Waray;Welsh">Thüringen</name>
+		<name normalized="Thuringen suyu" languages="Aymara">Thüringen suyu</name>
+		<name normalized="Tiiringa" languages="Palzisch">Tiiringä</name>
+		<name normalized="Tiringija" languages="Bosnian;Croatian;Serbo-Croatian">Tiringija</name>
+		<name normalized="Tiuringija" languages="Lithuanian">Tiuringija</name>
+		<name normalized="Tulinia" languages="Hawaiian">Tulinia</name>
+		<name normalized="Tureng" languages="Low Saxon (Netherlands)">Tureng</name>
+		<name normalized="Turinchia" languages="Aragonese">Turinchia</name>
+		<name normalized="Turinga" languages="Romansh">Turinga</name>
+		<name normalized="Turingia" languages="Albanian;Basque;Guarani;Ido;Italian;Ligure;Piedmontese;Romanian;Sicilian;Spanish">Turingia</name>
+		<name normalized="Turingija" languages="Slovenian">Turingija</name>
+		<name normalized="Turingio" languages="Esperanto">Turingio</name>
+		<name normalized="Turingiya" languages="Uzbek">Turingiya</name>
+		<name normalized="Turinxia" languages="Galician">Turinxia</name>
+		<name normalized="Turinza" languages="veneto">Turinza</name>
+		<name normalized="Turyngia" languages="Polish">Turyngia</name>
+		<name normalized="Turingia" languages="Catalan;Occitan;Portuguese">Turíngia</name>
+		<name normalized="Turingen" languages="Western Frisian">Türingen</name>
+		<name normalized="Turingia" languages="Hungarian;lumbaart">Türingia</name>
+		<name normalized="Turingiya" languages="Azerbaijani;Turkish">Türingiya</name>
+		<name normalized="Turinan" languages="Volapuk">Türinän</name>
+		<name normalized="Tuuringen" languages="Northern Frisian">Tüüringen</name>
+		<name normalized="Tuuringi" languages="Estonian">Tüüringi</name>
+		<name normalized="Tiringene" languages="Latvian">Tīringene</name>
+		<name normalized="Tyringaland" languages="Icelandic">Þýringaland</name>
+		<name normalized="Θουριγγια" languages="Greek">Θουριγγία</name>
+		<name normalized="Tiрiнgija" languages="Macedonian;Serbian">Тирингија</name>
+		<name normalized="Tuрынgii" languages="biлaрuсkai (taрaskivita)‎">Турынгія</name>
+		<name normalized="Tюрiнgi" languages="Chechen;Ossetic">Тюринги</name>
+		<name normalized="Tюрiнgii" languages="Bulgarian;Kazakh;Russian">Тюрингия</name>
+		<name normalized="Tюрiнgii" languages="Ukrainian">Тюрингія</name>
+		<name normalized="Tюрынgii" languages="Belarusian">Цюрынгія</name>
+		<name normalized="Tյvyrինգիա" languages="Armenian">Թյուրինգիա</name>
+		<name normalized="tvrיnגיע" languages="Yiddish">טורינגיע</name>
+		<name normalized="tvrיnגיh" languages="Hebrew">תורינגיה</name>
+		<name normalized="tوryنغن" languages="Arabic">تورينغن</name>
+		<name normalized="tوrینgن" languages="Persian">تورینگن</name>
+		<name normalized="tویrینgن" languages="Sorani Kurdish">تویرینگن</name>
+		<name normalized="tھوrنgیא" languages="Western Punjabi">تھورنگیا</name>
+		<name normalized="t्yuriंgen" languages="Marathi">थ्युरिंगेन</name>
+		<name normalized="รัฐเทือริงเงิน" languages="Thai">รัฐเทือริงเงิน</name>
+		<name normalized="თიურინგია" languages="Georgian">თიურინგია</name>
+		<name normalized="tyーrngn州" languages="Japanese">テューリンゲン州</name>
+		<name normalized="图林根" languages="Chinese">图林根</name>
+		<name normalized="튀링겐 자유주" languages="Korean">튀링겐 자유주</name>
+	</region>
+</regions>

@@ -1,0 +1,703 @@
+<regions country="Chile">
+	<region name="Antofagasta" type="region" typeTranslated="region">
+		<name normalized="Antofagast" languages="Veps">Antofagast</name>
+		<name normalized="Antofagasta" languages="Afrikaans;Akan;Asturian;Aymara;Azerbaijani;Basque;Bosnian;Breton;Catalan;Chavacano de Zamboanga;Cheyenne;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;Franco-Provencal;French;Friulian;Galician;German;Guarani;Haitian;Icelandic;Ido;Indonesian;Irish;Italian;Kalaallisut;Ladino;Latin;Latvian;Limburgish;Lithuanian;Nahuatl;Norwegian (bokmal);Nouormand;Occitan;official;Old English;Polish;Portuguese;Quechua;Romani;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;Uzbek;Vietnamese;Volapuk;Waray;Zazaki">Antofagasta</name>
+		<name normalized="Antofagasta bolgesi" languages="Turkish">Antofagasta bölgesi</name>
+		<name normalized="Antofagasta eskualdea" languages="Basque">Antofagasta eskualdea</name>
+		<name normalized="Antofagasta piirkond" languages="Estonian">Antofagasta piirkond</name>
+		<name normalized="Antofagasta Region" languages="English;official;Scots">Antofagasta Region</name>
+		<name normalized="Antofagasta suyu" languages="Quechua">Antofagasta suyu</name>
+		<name normalized="Antofagasta-regionen" languages="Danish">Antofagasta-regionen</name>
+		<name normalized="Antofagastan alue" languages="Finnish">Antofagastan alue</name>
+		<name normalized="Antofagastos regionas" languages="Lithuanian">Antofagastos regionas</name>
+		<name normalized="Antuofagasta" languages="Samogitian">Antuofagasta</name>
+		<name normalized="II . regija Antofagasta" languages="Croatian">II . regija Antofagasta</name>
+		<name normalized="II Rehiyon han Antofagasta" languages="Waray">II Rehiyon han Antofagasta</name>
+		<name normalized="II Рigioн Aнtoфaґaсta" languages="Ukrainian">II Регіон Антофаґаста</name>
+		<name normalized="Onohuayan Antofagasta" languages="Nahuatl">Onohuayān Antofagasta</name>
+		<name normalized="Rannvro Antofagasta" languages="Breton">Rannvro Antofagasta</name>
+		<name normalized="Regija Antofagasta" languages="Serbo-Croatian">Regija Antofagasta</name>
+		<name normalized="Region Antofagasta" languages="Czech">Region Antofagasta</name>
+		<name normalized="Region d'Antofagasta" languages="Occitan">Region d'Antofagasta</name>
+		<name normalized="Regione di Antofagasta" languages="Italian">Regione di Antofagasta</name>
+		<name normalized="Regiunea Antofagasta" languages="Romanian">Regiunea Antofagasta</name>
+		<name normalized="Regiao de Antofagasta" languages="Portuguese">Região de Antofagasta</name>
+		<name normalized="Regio d'Antofagasta" languages="Catalan">Regió d'Antofagasta</name>
+		<name normalized="Region de Antofagasta" languages="German;Romansh;Spanish;Swedish">Región de Antofagasta</name>
+		<name normalized="Rexion de Antofagasta" languages="Galician">Rexión de Antofagasta</name>
+		<name normalized="Region d'Antofagasta" languages="French">Région d'Antofagasta</name>
+		<name normalized="Αντοφαγαστα" languages="Greek">Αντοφαγάστα</name>
+		<name normalized="Aнtaфagaсta" languages="biлaрuсkai (taрaskivita)‎">Антафагаста</name>
+		<name normalized="Aнtoфagaсta" languages="Bulgarian;Russian;Serbian;Tatar">Антофагаста</name>
+		<name normalized="Aнtoфaґaсta" languages="Ukrainian">Антофаґаста</name>
+		<name normalized="Рigioн Aнtoфagaсta" languages="Serbian">Регион Антофагаста</name>
+		<name normalized="אntאpאגאסtא" languages="Yiddish">אנטאפאגאסטא</name>
+		<name normalized="آنtوfאgאسtא" languages="Persian">آنتوفاگاستا</name>
+		<name normalized="أنtوfאغאسtא" languages="Arabic">أنتوفاغاستا</name>
+		<name normalized="אنtوfאکوسtא" languages="Western Punjabi">انتوفاکوستا</name>
+		<name normalized="אنtوfאgאسtא rیjن" languages="Western Punjabi">انتوفاگاستا ریجن</name>
+		<name normalized="aंtopाgाs्tा" languages="Marathi">अंतोफागास्ता</name>
+		<name normalized="อันโตฟากัสตา" languages="Thai">อันโตฟากัสตา</name>
+		<name normalized="ანტოფაგასტა" languages="Georgian">ანტოფაგასტა</name>
+		<name normalized="anthagst" languages="Japanese">アントファガスタ</name>
+		<name normalized="anthagst州" languages="Japanese">アントファガスタ州</name>
+		<name normalized="安托法加斯塔" languages="Chinese">安托法加斯塔</name>
+		<name normalized="安托法加斯塔大区" languages="Chinese">安托法加斯塔大区</name>
+		<name normalized="안토파가스타" languages="Korean">안토파가스타</name>
+		<name normalized="안토파가스타 주" languages="Korean">안토파가스타 주</name>
+	</region>
+	<region name="Araucania" type="region" typeTranslated="region">
+		<name normalized="Araucania" languages="English;official">Araucania</name>
+		<name normalized="Araucania Region" languages="English;official">Araucania Region</name>
+		<name normalized="Araucania" languages="Dutch;Finnish;Norwegian (bokmal);Spanish">Araucanía</name>
+		<name normalized="Araucania bolgesi" languages="Turkish">Araucanía bölgesi</name>
+		<name normalized="Araucania eskualdea" languages="Basque">Araucanía eskualdea</name>
+		<name normalized="Araucania Region" languages="English;Scots">Araucanía Region</name>
+		<name normalized="Araucania-fylki" languages="Icelandic">Araucanía-fylki</name>
+		<name normalized="Araucania-regionen" languages="Danish">Araucanía-regionen</name>
+		<name normalized="Arauco" languages="Dutch;English;German;Portuguese">Arauco</name>
+		<name normalized="Araukania" languages="Polish">Araukania</name>
+		<name normalized="Araukanija" languages="Serbo-Croatian">Araukanija</name>
+		<name normalized="Araukanijos regionas" languages="Lithuanian">Araukanijos regionas</name>
+		<name normalized="Arawkaniya suyu" languages="Quechua">Arawkaniya suyu</name>
+		<name normalized="Araukanio" languages="Esperanto">Araŭkanio</name>
+		<name normalized="IX Rehiyon han Araucania" languages="Waray">IX Rehiyon han Araucanía</name>
+		<name normalized="IX Рigioн Aрaukaнii" languages="Ukrainian">IX Регіон Арауканія</name>
+		<name normalized="IX. regija Araucania" languages="Croatian">IX. regija Araucanía</name>
+		<name normalized="Mkoa wa Araucania" languages="Swahili">Mkoa wa Araucanía</name>
+		<name normalized="Onohuayan La Araucania" languages="Nahuatl">Onohuayān La Araucanía</name>
+		<name normalized="Rannvro Araucania" languages="Breton">Rannvro Araucanía</name>
+		<name normalized="Regio Araucana" languages="Latin">Regio Araucana</name>
+		<name normalized="Region Araucania" languages="Czech">Region Araucanía</name>
+		<name normalized="Region de la Araucania" languages="Interlingua;Occitan">Region de la Araucanía</name>
+		<name normalized="Regione dell'Araucania" languages="Italian">Regione dell'Araucanía</name>
+		<name normalized="Regiunea La Araucania" languages="Romanian">Regiunea La Araucanía</name>
+		<name normalized="Regiao da Araucania" languages="Portuguese">Região da Araucanía</name>
+		<name normalized="Regio de l'Araucania" languages="Catalan">Regió de l'Araucània</name>
+		<name normalized="Region de la Araucania" languages="German;Spanish;Swedish">Región de la Araucanía</name>
+		<name normalized="Rexion de Araucania" languages="Galician">Rexión de Araucanía</name>
+		<name normalized="Region d'Araucanie" languages="French">Région d'Araucanie</name>
+		<name normalized="Aрaukaнii" languages="Bulgarian;Russian">Араукания</name>
+		<name normalized="Aрauko" languages="Russian">Арауко</name>
+		<name normalized="آrאؤکאنیא rیjن" languages="Western Punjabi">آراؤکانیا ریجن</name>
+		<name normalized="არაუკანია" languages="Georgian">არაუკანია</name>
+		<name normalized="r・arukna州" languages="Japanese">ラ・アラウカニア州</name>
+		<name normalized="阿劳卡尼亚大区" languages="Chinese">阿劳卡尼亚大区</name>
+		<name normalized="아라우카니아 주" languages="Korean">아라우카니아 주</name>
+	</region>
+	<region name="Arica y Parinacota" type="region" typeTranslated="region">
+		<name normalized="Arica an Parinacota Region" languages="Scots">Arica an Parinacota Region</name>
+		<name normalized="Arica eta Parinacota eskualdea" languages="Basque">Arica eta Parinacota eskualdea</name>
+		<name normalized="Arica og Parinacota-regionen" languages="Danish">Arica og Parinacota-regionen</name>
+		<name normalized="Arica ve Parinacota bolgesi" languages="Turkish">Arica ve Parinacota bölgesi</name>
+		<name normalized="Arica y Parinacota" languages="Dutch;English;Estonian;Latin;Norwegian (bokmal);official;Polish">Arica y Parinacota</name>
+		<name normalized="Arica y Parinacota Region" languages="English;official">Arica y Parinacota Region</name>
+		<name normalized="Arica-Parinacota" languages="Finnish">Arica-Parinacota</name>
+		<name normalized="Arika Parinaqutapas suyu" languages="Quechua">Arika Parinaqutapas suyu</name>
+		<name normalized="Arikio kaj Parinakotio" languages="Esperanto">Arikio kaj Parinakotio</name>
+		<name normalized="Arikos ir Parinakotos regionas" languages="Lithuanian">Arikos ir Parinakotos regionas</name>
+		<name normalized="Onohuayan Arica ihuan Parinacota" languages="Nahuatl">Onohuayān Arica īhuān Parinacota</name>
+		<name normalized="Rannvro Arica ha Parinacota" languages="Breton">Rannvro Arica ha Parinacota</name>
+		<name normalized="Region Arica y Parinacota" languages="Czech">Region Arica y Parinacota</name>
+		<name normalized="Region d'Arica e Parinacota" languages="Occitan">Region d'Arica e Parinacota</name>
+		<name normalized="Regione di Arica e Parinacota" languages="Italian">Regione di Arica e Parinacota</name>
+		<name normalized="Regiunea Arica si Parinacota" languages="Romanian">Regiunea Arica și Parinacota</name>
+		<name normalized="Regiao de Arica e Parinacota" languages="Portuguese">Região de Arica e Parinacota</name>
+		<name normalized="Regio d'Arica i Parinacota" languages="Catalan">Regió d'Arica i Parinacota</name>
+		<name normalized="Region de Arica y Parinacota" languages="German;Romansh;Spanish;Swedish">Región de Arica y Parinacota</name>
+		<name normalized="Rexion de Arica e Parinacota" languages="Galician">Rexión de Arica e Parinacota</name>
+		<name normalized="Region d'Arica et Parinacota" languages="French">Région d'Arica et Parinacota</name>
+		<name normalized="XV Rehiyon han Arica ngan Parinacota" languages="Waray">XV Rehiyon han Arica ngan Parinacota</name>
+		<name normalized="XV Рigioн Aрika-i-Paрiнakota" languages="Ukrainian">XV Регіон Аріка-і-Парінакота</name>
+		<name normalized="XV. regija Arica i Parinacota" languages="Croatian">XV. regija Arica i Parinacota</name>
+		<name normalized="Aрika i Paрiнakota" languages="Bulgarian">Арика и Паринакота</name>
+		<name normalized="Aрika-i-Paрiнakota" languages="Russian">Арика-и-Паринакота</name>
+		<name normalized="אrیسא tے prینאکوtא rیjن" languages="Western Punjabi">اریسا تے پریناکوتا ریجن</name>
+		<name normalized="არიკა და პარინაკოტა" languages="Georgian">არიკა და პარინაკოტა</name>
+		<name normalized="ark・i・prnkーt州" languages="Japanese">アリカ・イ・パリナコータ州</name>
+		<name normalized="阿里卡和帕里纳科塔大区" languages="Chinese">阿里卡和帕里纳科塔大区</name>
+		<name normalized="아리카 이 파리나코타 주" languages="Korean">아리카 이 파리나코타 주</name>
+	</region>
+	<region name="Atacama" type="region" typeTranslated="region">
+		<name normalized="Atacama" languages="Bosnian;Croatian;Czech;Dutch;English;Estonian;Finnish;Icelandic;Kurdish;Latin;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Scottish Gaelic;Serbo-Croatian;Slovak;Slovenian">Atacama</name>
+		<name normalized="Atacama bolgesi" languages="Turkish">Atacama bölgesi</name>
+		<name normalized="Atacama Desert" languages="English;Simple English">Atacama Desert</name>
+		<name normalized="Atacama eskualdea" languages="Basque">Atacama eskualdea</name>
+		<name normalized="Atacama Region" languages="English;official;Scots">Atacama Region</name>
+		<name normalized="Atacama Colu" languages="Turkish">Atacama Çölü</name>
+		<name normalized="Atacama-regionen" languages="Danish">Atacama-regionen</name>
+		<name normalized="Atacama-sivatag" languages="Hungarian">Atacama-sivatag</name>
+		<name normalized="Atacamako basamortua" languages="Basque">Atacamako basamortua</name>
+		<name normalized="Atacaman alue" languages="Finnish">Atacaman alue</name>
+		<name normalized="Atacamawoestyn" languages="Afrikaans">Atacamawoestyn</name>
+		<name normalized="Atacamawuste" languages="German">Atacamawüste</name>
+		<name normalized="Atacamaoknen" languages="Swedish">Atacamaöknen</name>
+		<name normalized="Atacamaorkenen" languages="Danish;Norwegian (bokmal)">Atacamaørkenen</name>
+		<name normalized="Atakama" languages="Albanian;Azerbaijani;Lithuanian;Polish;Quechua;Uzbek">Atakama</name>
+		<name normalized="Atakama suyu" languages="Quechua">Atakama suyu</name>
+		<name normalized="Atakama-Dezerto" languages="Esperanto">Atakama-Dezerto</name>
+		<name normalized="Atakamas tuksnesis" languages="Latvian">Atakamas tuksnesis</name>
+		<name normalized="Atakamos regionas" languages="Lithuanian">Atakamos regionas</name>
+		<name normalized="Desert d'Atacama" languages="Catalan">Desert d'Atacama</name>
+		<name normalized="Deserto de Atacama" languages="Portuguese">Deserto de Atacama</name>
+		<name normalized="Deserto di Atacama" languages="Italian">Deserto di Atacama</name>
+		<name normalized="Deserto do Atacama" languages="Galician">Deserto do Atacama</name>
+		<name normalized="Desierto de Atacama" languages="Spanish">Desierto de Atacama</name>
+		<name normalized="Dezerzh Atacama" languages="Breton">Dezerzh Atacama</name>
+		<name normalized="Desertul Atacama" languages="Romanian">Deșertul Atacama</name>
+		<name normalized="Desert d'Atacama" languages="French">Désert d'Atacama</name>
+		<name normalized="Gurun Atacama" languages="Indonesian;Malay">Gurun Atacama</name>
+		<name normalized="Hoang mac Atacama" languages="Vietnamese">Hoang mạc Atacama</name>
+		<name normalized="III Rehiyon han Atacama" languages="Waray">III Rehiyon han Atacama</name>
+		<name normalized="III Рigioн Atakaмa" languages="Ukrainian">III Регіон Атакама</name>
+		<name normalized="III. regija Atacama" languages="Croatian">III. regija Atacama</name>
+		<name normalized="Onohuayan Atacama" languages="Nahuatl">Onohuayān Atacama</name>
+		<name normalized="Rannvro Atacama" languages="Breton">Rannvro Atacama</name>
+		<name normalized="Region Atacama" languages="Czech">Region Atacama</name>
+		<name normalized="Region de Atacama" languages="Occitan">Region de Atacama</name>
+		<name normalized="Regione di Atacama" languages="Italian">Regione di Atacama</name>
+		<name normalized="Regiono Atakamo" languages="Esperanto">Regiono Atakamo</name>
+		<name normalized="Regiunea Atacama" languages="Romanian">Regiunea Atacama</name>
+		<name normalized="Regiao de Atacama" languages="Portuguese">Região de Atacama</name>
+		<name normalized="Regio d'Atacama" languages="Catalan">Regió d'Atacama</name>
+		<name normalized="Region de Atacama" languages="German;Romansh;Spanish;Swedish">Región de Atacama</name>
+		<name normalized="Rexion de Atacama" languages="Galician">Rexión de Atacama</name>
+		<name normalized="Region d'Atacama" languages="French">Région d'Atacama</name>
+		<name normalized="Ατακαμα" languages="Greek">Ατακάμα</name>
+		<name normalized="Atakaмa" languages="Bulgarian;Kazakh;Macedonian;Russian;Serbian;Ukrainian;biлaрuсkai (taрaskivita)‎">Атакама</name>
+		<name normalized="Puсtынi Atakaмa" languages="Belarusian">Пустыня Атакама</name>
+		<name normalized="Աtաkաmա անաpաt" languages="Armenian">Ատակամա անապատ</name>
+		<name normalized="מדbr אtqמh" languages="Hebrew">מדבר אטקמה</name>
+		<name normalized="أtאkאmא" languages="Arabic">أتاكاما</name>
+		<name normalized="אیtאکאmא rیjن" languages="Western Punjabi">ایتاکاما ریجن</name>
+		<name normalized="bیאbאن آtאکאmא" languages="Persian">بیابان آتاکاما</name>
+		<name normalized="shrאئے אیٹאکאmא" languages="Urdu;Western Punjabi">صحرائے ایٹاکاما</name>
+		<name normalized="aटाkाmा mrus्tl" languages="Hindi">अटाकामा मरुस्थल</name>
+		<name normalized="atাkাmা mrubumi" languages="Bengali">আতাকামা মরুভূমি</name>
+		<name normalized="atਾkਾmਾ mਾrutl" languages="Punjabi">ਆਤਾਕਾਮਾ ਮਾਰੂਥਲ</name>
+		<name normalized="அட்டகாமா பாலைவனம்" languages="Tamil">அட்டகாமா பாலைவனம்</name>
+		<name normalized="అటకామా ఎడారి" languages="Telugu">అటకామా ఎడారి</name>
+		<name normalized="ಅಟಕಾಮಾ ಮರುಭೂಮಿ" languages="Kannada">ಅಟಕಾಮಾ ಮರುಭೂಮಿ</name>
+		<name normalized="അറ്റക്കാമ മരുഭൂമി" languages="Malayalam">അറ്റക്കാമ മരുഭൂമി</name>
+		<name normalized="ทะเลทรายอาตากามา" languages="Thai">ทะเลทรายอาตากามา</name>
+		<name normalized="ატაკამა" languages="Georgian">ატაკამა</name>
+		<name normalized="atkm州" languages="Japanese">アタカマ州</name>
+		<name normalized="atkm砂漠" languages="Japanese">アタカマ砂漠</name>
+		<name normalized="阿他加马沙漠" languages="Chinese">阿他加马沙漠</name>
+		<name normalized="阿塔卡马大区" languages="Chinese">阿塔卡马大区</name>
+		<name normalized="아타카마 사막" languages="Korean">아타카마 사막</name>
+		<name normalized="아타카마 주" languages="Korean">아타카마 주</name>
+	</region>
+	<region name="Aysen" type="region" typeTranslated="region">
+		<name normalized="Aiseno regionas" languages="Lithuanian">Aiseno regionas</name>
+		<name normalized="Aisen" languages="Basque;French;German;Italian;Norwegian (bokmal);Polish;Portuguese">Aisén</name>
+		<name normalized="Aisen del General Carlos Ibanez del Campo" languages="Esperanto;Finnish">Aisén del General Carlos Ibáñez del Campo</name>
+		<name normalized="Aisen eskualdea" languages="Basque">Aisén eskualdea</name>
+		<name normalized="Aisen suyu" languages="Quechua">Aisén suyu</name>
+		<name normalized="Aisen-regionen" languages="Danish">Aisén-regionen</name>
+		<name normalized="Aysen" languages="English;official">Aysen</name>
+		<name normalized="Aysen bolgesi" languages="Turkish">Aysen bölgesi</name>
+		<name normalized="Aysen Region" languages="English;official">Aysen Region</name>
+		<name normalized="Aysen" languages="Dutch;English;Occitan;Spanish">Aysén</name>
+		<name normalized="Aysen del General Carlos Ibanez del Campo" languages="Dutch;Latin">Aysén del General Carlos Ibáñez del Campo</name>
+		<name normalized="Aysen Region" languages="English;Scots">Aysén Region</name>
+		<name normalized="Rannvro Aysen" languages="Breton">Rannvro Aysén</name>
+		<name normalized="Region Aisen" languages="Indonesian">Region Aisén</name>
+		<name normalized="Region Aysen" languages="Czech">Region Aysén</name>
+		<name normalized="Region d'Aisen" languages="Occitan">Region d'Aisen</name>
+		<name normalized="Regione di Aysen" languages="Italian">Regione di Aysén</name>
+		<name normalized="Regio d'Aysen" languages="Catalan">Regió d'Aysén</name>
+		<name normalized="Region Aysen del General Carlos Ibanez del Campo" languages="Spanish">Región Aysén del General Carlos Ibáñez del Campo</name>
+		<name normalized="Region de Aisen" languages="Swedish">Región de Aisén</name>
+		<name normalized="Region de Aysen" languages="German">Región de Aysén</name>
+		<name normalized="Rexion de Aisen" languages="Galician">Rexión de Aisén</name>
+		<name normalized="Region Aisen del General Carlos Ibanez del Campo" languages="French">Région Aisén del General Carlos Ibáñez del Campo</name>
+		<name normalized="XI Rehiyon han Aisen han General Carlos Ibanez del Campo" languages="Waray">XI Rehiyon han Aisén han General Carlos Ibáñez del Campo</name>
+		<name normalized="XI Рigioн Aйсiн" languages="Ukrainian">XI Регіон Айсен</name>
+		<name normalized="XI. regija Aisen del General Carlos Ibanez del Campo" languages="Croatian">XI. regija Aisén del General Carlos Ibáñez del Campo</name>
+		<name normalized="Aйсiн" languages="Bulgarian;Russian">Айсен</name>
+		<name normalized="آئیسن rیjن" languages="Western Punjabi">آئیسن ریجن</name>
+		<name normalized="აისენი" languages="Georgian">აისენი</name>
+		<name normalized="aisn・dr・hnrr・krrs・ibnes・dr・knp州" languages="Japanese">アイセン・デル・ヘネラル・カルロス・イバニェス・デル・カンポ州</name>
+		<name normalized="伊瓦涅斯将军艾森大区" languages="Chinese">伊瓦涅斯将军艾森大区</name>
+		<name normalized="아이센 주" languages="Korean">아이센 주</name>
+	</region>
+	<region name="Biobio" type="region" typeTranslated="region">
+		<name normalized="Bio-Bio" languages="Turkish">Bio-Bio</name>
+		<name normalized="Biobio" languages="English;official">Biobio</name>
+		<name normalized="Biobio Region" languages="English;official">Biobio Region</name>
+		<name normalized="Biobio regionas" languages="Lithuanian">Biobio regionas</name>
+		<name normalized="Biobio regions" languages="Latvian">Biobio reģions</name>
+		<name normalized="Biobio" languages="Breton;Dutch;English;Esperanto;Limburgish;lumbaart;Norwegian (bokmal);Papiamento;Polish;Portuguese;Sicilian;Slovak;Spanish;Vietnamese">Biobío</name>
+		<name normalized="Biobio eskualdea" languages="Basque">Biobío eskualdea</name>
+		<name normalized="Biobio Region" languages="Scots">Biobío Region</name>
+		<name normalized="Biobio regio" languages="Hungarian">Biobío régió</name>
+		<name normalized="Biobio-fylki" languages="Icelandic">Biobío-fylki</name>
+		<name normalized="Biobio-regionen" languages="Danish">Biobío-regionen</name>
+		<name normalized="Biobion alue" languages="Finnish">Biobíon alue</name>
+		<name normalized="Biuobiuo regejuons" languages="Samogitian">Biuobiuo regėjuons</name>
+		<name normalized="Biyubiyu suyu" languages="Quechua">Biyubiyu suyu</name>
+		<name normalized="Bio Bio Region" languages="English;Simple English">Bío Bío Region</name>
+		<name normalized="Bio-Bio" languages="German">Bío-Bío</name>
+		<name normalized="Bio-Bio bolgesi" languages="Turkish">Bío-Bío bölgesi</name>
+		<name normalized="Bio-Bio piirkond" languages="Estonian">Bío-Bío piirkond</name>
+		<name normalized="Onohuayan Biobio" languages="Nahuatl">Onohuayān Biobío</name>
+		<name normalized="Rannvro ar Biobio" languages="Breton">Rannvro ar Biobío</name>
+		<name normalized="Rechion del Biobio" languages="Aragonese">Rechión del Biobío</name>
+		<name normalized="Redjon del Biobio" languages="Walloon">Redjon del Biobío</name>
+		<name normalized="Regija Bio-Bio" languages="Bosnian;Serbo-Croatian">Regija Bío-Bío</name>
+		<name normalized="Regio Biobio" languages="West-Vlams">Regio Biobío</name>
+		<name normalized="Regio Bio Bio" languages="Latin">Regio Bío Bío</name>
+		<name normalized="Region Biobio" languages="Alemannisch">Region Biobío</name>
+		<name normalized="Region Bio-Bio" languages="Czech">Region Bío-Bío</name>
+		<name normalized="Region del Biobio" languages="Interlingua;Occitan">Region del Biobío</name>
+		<name normalized="Region del Biobio" languages="Piedmontese">Region dël Biobío</name>
+		<name normalized="Regione del Bio Bio" languages="Italian">Regione del Bío Bío</name>
+		<name normalized="Regione di l'Biobio" languages="Corsican">Regione di l'Biobío</name>
+		<name normalized="Regiono di Biobio" languages="Ido">Regiono di Biobío</name>
+		<name normalized="Regiunea Biobio" languages="Romanian">Regiunea Biobío</name>
+		<name normalized="Regiao de Bio-Bio" languages="Portuguese">Região de Bío-Bío</name>
+		<name normalized="Regio del Bio-Bio" languages="Catalan">Regió del Bío-Bío</name>
+		<name normalized="Region del Biobio" languages="Extremaduran;Old English;Romansh;Sardinian;Spanish;Swedish">Región del Biobío</name>
+		<name normalized="Region del Bio-Bio" languages="German">Región del Bío-Bío</name>
+		<name normalized="Rejion del Biobio" languages="Ladino">Rejion del Biobío</name>
+		<name normalized="Rexion de Biobio" languages="Galician">Rexión de Biobío</name>
+		<name normalized="Rexon del Biobio" languages="Asturian">Rexón del Biobío</name>
+		<name normalized="Reg.ion du Biobio" languages="Franco-Provencal">Règ·ion du Biobío</name>
+		<name normalized="Region du Biobio" languages="French">Région du Biobío</name>
+		<name normalized="Regioun du Biobio" languages="Nouormand">Régioun du Biobío</name>
+		<name normalized="VIII Rehiyon han Biobio" languages="Waray">VIII Rehiyon han Biobío</name>
+		<name normalized="VIII Рigioн Biobio" languages="Ukrainian">VIII Регіон Біобіо</name>
+		<name normalized="VIII. regija Biobio" languages="Croatian">VIII. regija Biobío</name>
+		<name normalized="Vung Bio Bio" languages="Vietnamese">Vùng Bío Bío</name>
+		<name normalized="Bio-Bio" languages="Ossetic;Russian;Tatar">Био-Био</name>
+		<name normalized="Biobio" languages="Bulgarian;Serbian">Биобио</name>
+		<name normalized="bיאbיא rאיאן" languages="Yiddish">ביאביא ראיאן</name>
+		<name normalized="bیؤbیؤ rیjن" languages="Western Punjabi">بیؤبیؤ ریجن</name>
+		<name normalized="ბიო-ბიო" languages="Georgian">ბიო-ბიო</name>
+		<name normalized="bobo州" languages="Japanese">ビオビオ州</name>
+		<name normalized="比奥比奥大区" languages="Chinese">比奥比奥大区</name>
+		<name normalized="비오비오 주" languages="Korean">비오비오 주</name>
+	</region>
+	<region name="Coquimbo" type="region" typeTranslated="region">
+		<name normalized="Coquimbo" languages="Aymara;Azerbaijani;Basque;Chavacano de Zamboanga;Czech;Dutch;English;Finnish;French;Galician;German;Haitian;Hungarian;Italian;Latin;Norwegian (bokmal);Occitan;official;Polish;Portuguese;Romani;Romanian;Spanish;Swedish;Volapuk;Waray">Coquimbo</name>
+		<name normalized="Coquimbo bolgesi" languages="Turkish">Coquimbo bölgesi</name>
+		<name normalized="Coquimbo eskualdea" languages="Basque">Coquimbo eskualdea</name>
+		<name normalized="Coquimbo Region" languages="English;official;Scots">Coquimbo Region</name>
+		<name normalized="Coquimbo-regionen" languages="Danish">Coquimbo-regionen</name>
+		<name normalized="IV Rehiyon han Coquimbo" languages="Waray">IV Rehiyon han Coquimbo</name>
+		<name normalized="IV Рigioн Kokiмbo" languages="Ukrainian">IV Регіон Кокімбо</name>
+		<name normalized="IV. regija Coquimbo" languages="Croatian">IV. regija Coquimbo</name>
+		<name normalized="Kokimbas" languages="Lithuanian">Kokimbas</name>
+		<name normalized="Kokimbio" languages="Esperanto">Kokimbio</name>
+		<name normalized="Kokimbo regionas" languages="Lithuanian">Kokimbo regionas</name>
+		<name normalized="Kukimpu" languages="Quechua">Kukimpu</name>
+		<name normalized="Kukimpu suyu" languages="Quechua">Kukimpu suyu</name>
+		<name normalized="Onohuayan Coquimbo" languages="Nahuatl">Onohuayān Coquimbo</name>
+		<name normalized="Rannvro Coquimbo" languages="Breton">Rannvro Coquimbo</name>
+		<name normalized="Region Coquimbo" languages="Czech">Region Coquimbo</name>
+		<name normalized="Region de Coquimbo" languages="Occitan">Region de Coquimbo</name>
+		<name normalized="Regione di Coquimbo" languages="Italian">Regione di Coquimbo</name>
+		<name normalized="Regiunea Coquimbo" languages="Romanian">Regiunea Coquimbo</name>
+		<name normalized="Regiao de Coquimbo" languages="Portuguese">Região de Coquimbo</name>
+		<name normalized="Regio de Coquimbo" languages="Catalan">Regió de Coquimbo</name>
+		<name normalized="Region de Coquimbo" languages="German;Romansh;Spanish;Swedish">Región de Coquimbo</name>
+		<name normalized="Rexion de Coquimbo" languages="Galician">Rexión de Coquimbo</name>
+		<name normalized="Region de Coquimbo" languages="French">Région de Coquimbo</name>
+		<name normalized="Kokiмbo" languages="Bulgarian;Russian">Кокимбо</name>
+		<name normalized="Kokiмbo" languages="Ukrainian">Кокімбо</name>
+		<name normalized="kوkوymbو" languages="Arabic">كوكويمبو</name>
+		<name normalized="کوکوئmbو rیjن" languages="Western Punjabi">کوکوئمبو ریجن</name>
+		<name normalized="კოკიმბო" languages="Georgian">კოკიმბო</name>
+		<name normalized="kknb" languages="Japanese">コキンボ</name>
+		<name normalized="kknb州" languages="Japanese">コキンボ州</name>
+		<name normalized="科金博" languages="Chinese">科金博</name>
+		<name normalized="科金博大区" languages="Chinese">科金博大区</name>
+		<name normalized="코킴보" languages="Korean">코킴보</name>
+		<name normalized="코킴보 주" languages="Korean">코킴보 주</name>
+	</region>
+	<region name="Libertador General Bernardo O'Higgins" type="region" typeTranslated="region">
+		<name normalized="Isvaduotojo Generolo Bernardo O'Higinso regionas" languages="Lithuanian">Išvaduotojo Generolo Bernardo O'Higinso regionas</name>
+		<name normalized="Liberator Dux Bernardus O'Higgins" languages="Latin">Liberator Dux Bernardus O'Higgins</name>
+		<name normalized="Libertador" languages="Polish">Libertador</name>
+		<name normalized="Libertador General Bernardo O'Higgins" languages="Dutch;English;Esperanto;official">Libertador General Bernardo O'Higgins</name>
+		<name normalized="Libertador General Bernardo O'Higgins Region" languages="English;official">Libertador General Bernardo O'Higgins Region</name>
+		<name normalized="O'Higgins" languages="Norwegian (bokmal)">O'Higgins</name>
+		<name normalized="O'Higgins bolgesi" languages="Turkish">O'Higgins bölgesi</name>
+		<name normalized="O'Higgins eskualdea" languages="Basque">O'Higgins eskualdea</name>
+		<name normalized="O'Higgins Region" languages="Scots">O'Higgins Region</name>
+		<name normalized="O'Higgins suyu" languages="Quechua">O'Higgins suyu</name>
+		<name normalized="O'Higgins-regionen" languages="Danish">O'Higgins-regionen</name>
+		<name normalized="Rannvro O'Higgins" languages="Breton">Rannvro O'Higgins</name>
+		<name normalized="Region de O'Higgins" languages="Occitan">Region de O'Higgins</name>
+		<name normalized="Region O'Higgins" languages="Czech">Region O'Higgins</name>
+		<name normalized="Region of O'Higgins" languages="Simple English">Region of O'Higgins</name>
+		<name normalized="Regione del Libertador General Bernardo O'Higgins" languages="Italian">Regione del Libertador General Bernardo O'Higgins</name>
+		<name normalized="Regiono di O'Higgins" languages="Ido">Regiono di O'Higgins</name>
+		<name normalized="Regiunea Libertador General Bernardo O'Higgins" languages="Romanian">Regiunea Libertador General Bernardo O'Higgins</name>
+		<name normalized="Regiao de O'Higgins" languages="Portuguese">Região de O'Higgins</name>
+		<name normalized="Regio d'O'Higgins" languages="Catalan">Regió d'O'Higgins</name>
+		<name normalized="Region de O'Higgins" languages="Swedish">Región de O'Higgins</name>
+		<name normalized="Region del Libertador General Bernardo O'Higgins" languages="Romansh;Spanish">Región del Libertador General Bernardo O'Higgins</name>
+		<name normalized="Region del Libertador General Bernardo O'Higgins" languages="German">Región del Libertador General Bernardo O’Higgins</name>
+		<name normalized="Rexion de O'Higgins" languages="Galician">Rexión de O'Higgins</name>
+		<name normalized="Region du Libertador General Bernardo O'Higgins" languages="French">Région du Libertador General Bernardo O'Higgins</name>
+		<name normalized="VI Rehiyon han Libertador General Bernardo O'Higgins" languages="Waray">VI Rehiyon han Libertador General Bernardo O'Higgins</name>
+		<name normalized="VI Рigioн Лibiрtadoр-Kiнiрaль-Biрнaрdo-O'Kiggiнс" languages="Ukrainian">VI Регіон Лібертадор-Хенераль-Бернардо-О'Хіггінс</name>
+		<name normalized="VI. regija Libertador General Bernardo O'Higgins" languages="Croatian">VI. regija Libertador General Bernardo O'Higgins</name>
+		<name normalized="O'Kigiнс" languages="Bulgarian">О'Хигинс</name>
+		<name normalized="O'Kiggiнс" languages="Russian">О’Хиггинс</name>
+		<name normalized="אوہیgینس rیjن" languages="Western Punjabi">اوہیگینس ریجن</name>
+		<name normalized="ო'ჰიგინსი" languages="Georgian">ო'ჰიგინსი</name>
+		<name normalized="rbrtdーr・brnrd・oigns州" languages="Japanese">リベルタドール・ベルナルド・オイギンス州</name>
+		<name normalized="奥伊金斯将军解放者大区" languages="Chinese">奥伊金斯将军解放者大区</name>
+		<name normalized="오이긴스 주" languages="Korean">오이긴스 주</name>
+	</region>
+	<region name="Los Lagos" type="region" typeTranslated="region">
+		<name normalized="Los Lagos" languages="Basque;Dutch;English;Esperanto;Italian;Norwegian (bokmal);Occitan;official;Polish;Portuguese;Spanish">Los Lagos</name>
+		<name normalized="Los Lagos bolgesi" languages="Turkish">Los Lagos bölgesi</name>
+		<name normalized="Los Lagos eskualdea" languages="Basque">Los Lagos eskualdea</name>
+		<name normalized="Los Lagos Region" languages="English;official;Scots">Los Lagos Region</name>
+		<name normalized="Los Lagos-fylki" languages="Icelandic">Los Lagos-fylki</name>
+		<name normalized="Los Lagos-regionen" languages="Danish">Los Lagos-regionen</name>
+		<name normalized="Los Lagoso regionas" languages="Lithuanian">Los Lagoso regionas</name>
+		<name normalized="Mkoa wa Los Lagos" languages="Swahili">Mkoa wa Los Lagos</name>
+		<name normalized="Onohuayan Los Lagos" languages="Nahuatl">Onohuayān Los Lagos</name>
+		<name normalized="Quchakuna suyu" languages="Quechua">Quchakuna suyu</name>
+		<name normalized="Rannvro Los Lagos" languages="Breton">Rannvro Los Lagos</name>
+		<name normalized="Regio Lacuum" languages="Latin">Regio Lacuum</name>
+		<name normalized="Region de Los Lagos" languages="Occitan">Region de Los Lagos</name>
+		<name normalized="Region Los Lagos" languages="Czech">Region Los Lagos</name>
+		<name normalized="Regione di Los Lagos" languages="Italian">Regione di Los Lagos</name>
+		<name normalized="Regiunea Los Lagos" languages="Romanian">Regiunea Los Lagos</name>
+		<name normalized="Regiao de Los Lagos" languages="Portuguese">Região de Los Lagos</name>
+		<name normalized="Regio de Los Lagos" languages="Catalan">Regió de Los Lagos</name>
+		<name normalized="Region de los Lagos" languages="German;Spanish;Swedish">Región de los Lagos</name>
+		<name normalized="Rexion de Los Lagos" languages="Galician">Rexión de Los Lagos</name>
+		<name normalized="Region des Lacs" languages="French">Région des Lacs</name>
+		<name normalized="X Rehiyon han Los Lagos" languages="Waray">X Rehiyon han Los Lagos</name>
+		<name normalized="X Рigioн Лoс-Лaґoс" languages="Ukrainian">X Регіон Лос-Лаґос</name>
+		<name normalized="X. regija Los Lagos" languages="Croatian">X. regija Los Lagos</name>
+		<name normalized="Лoс Лagoс" languages="Bulgarian">Лос Лагос</name>
+		<name normalized="Лoс-Лagoс" languages="Russian">Лос-Лагос</name>
+		<name normalized="لאس لאgوس rیjن" languages="Western Punjabi">لاس لاگوس ریجن</name>
+		<name normalized="ლოს-ლაგოსი" languages="Georgian">ლოს-ლაგოსი</name>
+		<name normalized="rs・rgs州" languages="Japanese">ロス・ラゴス州</name>
+		<name normalized="湖大区" languages="Chinese">湖大区</name>
+		<name normalized="로스라고스 주" languages="Korean">로스라고스 주</name>
+	</region>
+	<region name="Los Rios" type="region" typeTranslated="region">
+		<name normalized="Los Rios" languages="English;official">Los Rios</name>
+		<name normalized="Los Rios Region" languages="English;official">Los Rios Region</name>
+		<name normalized="Los Rioso regionas" languages="Lithuanian">Los Rioso regionas</name>
+		<name normalized="Los Rios" languages="Dutch;English;Finnish;Italian;Norwegian (bokmal);Polish;Scots">Los Ríos</name>
+		<name normalized="Los Rios bolgesi" languages="Turkish">Los Ríos bölgesi</name>
+		<name normalized="Los Rios eskualdea" languages="Basque">Los Ríos eskualdea</name>
+		<name normalized="Los Rios Region" languages="English;Scots">Los Ríos Region</name>
+		<name normalized="Los Rios-fylki" languages="Icelandic">Los Ríos-fylki</name>
+		<name normalized="Los Rios-regionen" languages="Danish">Los Ríos-regionen</name>
+		<name normalized="Mayukuna suyu" languages="Quechua">Mayukuna suyu</name>
+		<name normalized="Mkoa wa Los Rios" languages="Swahili">Mkoa wa Los Ríos</name>
+		<name normalized="Onohuayan Los Rios" languages="Nahuatl">Onohuayān Los Ríos</name>
+		<name normalized="Rannvro Los Rios" languages="Breton">Rannvro Los Ríos</name>
+		<name normalized="Regio Fluminum" languages="Latin">Regio Fluminum</name>
+		<name normalized="Region de Los Rios" languages="Occitan">Region de Los Rios</name>
+		<name normalized="Region Los Rios" languages="Czech">Region Los Ríos</name>
+		<name normalized="Regione di Los Rios" languages="Italian">Regione di Los Ríos</name>
+		<name normalized="Regiunea Los Rios" languages="Romanian">Regiunea Los Ríos</name>
+		<name normalized="Regiao de Los Rios" languages="Portuguese">Região de Los Rios</name>
+		<name normalized="Regio de Los Rios" languages="Catalan">Regió de Los Ríos</name>
+		<name normalized="Region de Los Rios" languages="German;Spanish;Swedish">Región de Los Ríos</name>
+		<name normalized="Rexion de Los Rios" languages="Galician">Rexión de Los Ríos</name>
+		<name normalized="Region des Fleuves" languages="French">Région des Fleuves</name>
+		<name normalized="XIV Rehiyon han Los Rios" languages="Waray">XIV Rehiyon han Los Ríos</name>
+		<name normalized="XIV Рigioн Лoс-Рioс" languages="Ukrainian">XIV Регіон Лос-Ріос</name>
+		<name normalized="XIV. regija Los Rios" languages="Croatian">XIV. regija Los Ríos</name>
+		<name normalized="Лoс Рioс" languages="Bulgarian">Лос Риос</name>
+		<name normalized="Лoс-Рioс" languages="Russian">Лос-Риос</name>
+		<name normalized="لאس rیؤس rیjن" languages="Western Punjabi">لاس ریؤس ریجن</name>
+		<name normalized="ლოს-რიოსი" languages="Georgian">ლოს-რიოსი</name>
+		<name normalized="rs・ros州" languages="Japanese">ロス・リオス州</name>
+		<name normalized="河大区" languages="Chinese">河大区</name>
+		<name normalized="로스리오스" languages="Korean">로스리오스</name>
+		<name normalized="로스리오스 주" languages="Korean">로스리오스 주</name>
+	</region>
+	<region name="Magallanes y de la Antartica Chilena" type="region" typeTranslated="region">
+		<name normalized="Magalhaes e Antartica Chilena" languages="Portuguese">Magalhães e Antártica Chilena</name>
+		<name normalized="Magallanes" languages="Polish">Magallanes</name>
+		<name normalized="Magallanes an Antartica Chilena Region" languages="Scots">Magallanes an Antártica Chilena Region</name>
+		<name normalized="Magallanes Antartika suyu" languages="Quechua">Magallanes Antartika suyu</name>
+		<name normalized="Magallanes og Antartica Chilena-regionen" languages="Danish">Magallanes og Antártica Chilena-regionen</name>
+		<name normalized="Magallanes y de la Antartica Chilena" languages="English;official">Magallanes y de la Antartica Chilena</name>
+		<name normalized="Magallanes y de la Antartica Chilena Region" languages="English;official">Magallanes y de la Antartica Chilena Region</name>
+		<name normalized="Magallanes y de la Antartica Chilena" languages="Esperanto;Norwegian (bokmal)">Magallanes y de la Antártica Chilena</name>
+		<name normalized="Magallanes y la Antartica Chilena" languages="Dutch;Latin">Magallanes y la Antártica Chilena</name>
+		<name normalized="Magallanes y la Antartica Chilena bolgesi" languages="Turkish">Magallanes y la Antártica Chilena bölgesi</name>
+		<name normalized="Magallanes y la Antartica Chilena eskualdea" languages="Basque">Magallanes y la Antártica Chilena eskualdea</name>
+		<name normalized="Magallanes y la Antartica Chilena Region" languages="English">Magallanes y la Antártica Chilena Region</name>
+		<name normalized="Magelano ir Ciles Antarktidos regionas" languages="Lithuanian">Magelano ir Čilės Antarktidos regionas</name>
+		<name normalized="Mkoa wa Magallanes na Antaktiki ya Chile" languages="Swahili">Mkoa wa Magallanes na Antaktiki ya Chile</name>
+		<name normalized="Rannvro Magallanes hag Antarktika Chile" languages="Breton">Rannvro Magallanes hag Antarktika Chile</name>
+		<name normalized="Region de Magallanes e de l'Antartica Chilena" languages="Occitan">Region de Magallanes e de l'Antartica Chilena</name>
+		<name normalized="Region Magallanes y la Antartica" languages="Indonesian">Region Magallanes y la Antártica</name>
+		<name normalized="Region Magallanes y la Antartica Chilena" languages="Czech">Region Magallanes y la Antártica Chilena</name>
+		<name normalized="Regione di Magellano e dell'Antartide Cilena" languages="Italian">Regione di Magellano e dell'Antartide Cilena</name>
+		<name normalized="Regiunea Magallanes si Antarctica Chiliana" languages="Romanian">Regiunea Magallanes și Antarctica Chiliană</name>
+		<name normalized="Regio de Magallanes i de l'Antartica Xilena" languages="Catalan">Regió de Magallanes i de l'Antàrtica Xilena</name>
+		<name normalized="Region de Magallanes y de Antartica Chilena" languages="Norwegian Nynorsk">Región de Magallanes y de Antártica Chilena</name>
+		<name normalized="Region de Magallanes y de la Antartica Chilena" languages="German;Spanish;Swedish">Región de Magallanes y de la Antártica Chilena</name>
+		<name normalized="Rexion de Magallanes e da Antartica Chilena" languages="Galician">Rexión de Magallanes e da Antártica Chilena</name>
+		<name normalized="Region de Magallanes et de l'Antarctique chilien" languages="French">Région de Magallanes et de l'Antarctique chilien</name>
+		<name normalized="XII Rehiyon han Magallanes ngan han Antartica Chilena" languages="Waray">XII Rehiyon han Magallanes ngan han Antártica Chilena</name>
+		<name normalized="XII Рigioн Мagaльiнiс i Ciлiйсьka Aнtaрktika" languages="Ukrainian">XII Регіон Магальянес і Чилійська Антарктика</name>
+		<name normalized="XII. regija Magallanes y de la Antartica Chilena" languages="Croatian">XII. regija Magallanes y de la Antártica Chilena</name>
+		<name normalized="Περιοχη Μαγαγιανες και η Χιλιανη Ανταρκτικη" languages="Greek">Περιοχή Μαγαγιάνες και η Χιλιανή Ανταρκτική</name>
+		<name normalized="Мagaльiнiс aeмae Ciлiйы Aнtaрktikae" languages="Ossetic">Магальянес æмæ Чилийы Антарктикæ</name>
+		<name normalized="Мagaльiнiс i Ciлiйсkai Aнtaрktika" languages="Russian">Магальянес и Чилийская Антарктика</name>
+		<name normalized="Мagaлiнiс i Ciлiйсka Aнtaрktika" languages="Bulgarian">Магалянес и Чилийска Антарктика</name>
+		<name normalized="mאgאلאنس tے אنtאrtیکא چلینא rیjن" languages="Western Punjabi">ماگالانس تے انتارتیکا چلینا ریجن</name>
+		<name normalized="റെജിയോൺ ഡെ മഗല്യാൻസ് ഡെല യെ അന്റാർട്ടിക്ക ചിലെന" languages="Malayalam">റെജിയോൺ ഡെ മഗല്യാൻസ് ഡെല യെ അന്റാർട്ടിക്ക ചിലെന</name>
+		<name normalized="แคว้นมากายาเนสและลาอันตาร์ตีกาชีเลนา" languages="Thai">แคว้นมากายาเนสและลาอันตาร์ตีกาชีเลนา</name>
+		<name normalized="მაგალიანესი და ჩილეს ანტარქტიკა" languages="Georgian">მაგალიანესი და ჩილეს ანტარქტიკა</name>
+		<name normalized="mgzyns・i・d・r・antrtik・trーn州" languages="Japanese">マガジャネス・イ・デ・ラ・アンタルティカ・チレーナ州</name>
+		<name normalized="麦哲伦-智利南极大区" languages="Chinese">麦哲伦-智利南极大区</name>
+		<name normalized="마가야네스 주" languages="Korean">마가야네스 주</name>
+	</region>
+	<region name="Maule" type="region" typeTranslated="region">
+		<name normalized="Maule" languages="Basque;Dutch;English;Esperanto;Finnish;French;Italian;Latin;Nahuatl;Norwegian (bokmal);official;Polish;Portuguese;Spanish">Maule</name>
+		<name normalized="Maule bolgesi" languages="Turkish">Maule bölgesi</name>
+		<name normalized="Maule eskualdea" languages="Basque">Maule eskualdea</name>
+		<name normalized="Maule Region" languages="English;official;Scots">Maule Region</name>
+		<name normalized="Maule-regionen" languages="Danish">Maule-regionen</name>
+		<name normalized="Maules regionas" languages="Lithuanian">Maulės regionas</name>
+		<name normalized="Mawlli suyu" languages="Quechua">Mawlli suyu</name>
+		<name normalized="Mkoa wa Maule" languages="Swahili">Mkoa wa Maule</name>
+		<name normalized="Onohuayan Maule" languages="Nahuatl">Onohuayān Maule</name>
+		<name normalized="Rannvro Maule" languages="Breton">Rannvro Maule</name>
+		<name normalized="Region del Maule" languages="Occitan">Region del Maule</name>
+		<name normalized="Region Maule" languages="Czech">Region Maule</name>
+		<name normalized="Regione del Maule" languages="Italian">Regione del Maule</name>
+		<name normalized="Regiunea Maule" languages="Romanian">Regiunea Maule</name>
+		<name normalized="Regiao de Maule" languages="Portuguese">Região de Maule</name>
+		<name normalized="Regio del Maule" languages="Catalan">Regió del Maule</name>
+		<name normalized="Region del Maule" languages="German;Romansh;Spanish;Swedish">Región del Maule</name>
+		<name normalized="Rexion de Maule" languages="Galician">Rexión de Maule</name>
+		<name normalized="Region du Maule" languages="French">Région du Maule</name>
+		<name normalized="VII Rehiyon han Maule" languages="Waray">VII Rehiyon han Maule</name>
+		<name normalized="VII Рigioн Мauлi" languages="Ukrainian">VII Регіон Мауле</name>
+		<name normalized="VII. regija Maule" languages="Croatian">VII. regija Maule</name>
+		<name normalized="Мauлi" languages="Bulgarian;Russian">Мауле</name>
+		<name normalized="mאؤلے rیjن" languages="Western Punjabi">ماؤلے ریجن</name>
+		<name normalized="მაულე" languages="Georgian">მაულე</name>
+		<name normalized="mur州" languages="Japanese">マウレ州</name>
+		<name normalized="马乌莱大区" languages="Chinese">马乌莱大区</name>
+		<name normalized="마울레 주" languages="Korean">마울레 주</name>
+	</region>
+	<region name="Region Metropolitana" type="region" typeTranslated="region">
+		<name normalized="Comarca de Santiago" languages="Catalan;Dutch;Galician;Portuguese;Spanish">Comarca de Santiago</name>
+		<name normalized="Metropolitanska regija Santiaga" languages="Croatian;Serbo-Croatian">Metropolitanska regija Santiaga</name>
+		<name normalized="Metropolitni region Santiago" languages="Czech">Metropolitní region Santiago</name>
+		<name normalized="Regio Metropolitana Iacobopolis" languages="Latin">Regio Metropolitana Iacobopolis</name>
+		<name normalized="Region Metropolitalny" languages="Polish">Region Metropolitalny</name>
+		<name normalized="Region Metropolitana" languages="English;official">Region Metropolitana</name>
+		<name normalized="Region Metropolitana de Santiago" languages="Occitan">Region Metropolitana de Santiago</name>
+		<name normalized="Regione Metropolitana di Santiago" languages="Italian">Regione Metropolitana di Santiago</name>
+		<name normalized="Regiunea Santiago Metropolitan" languages="Romanian">Regiunea Santiago Metropolitan</name>
+		<name normalized="Regiao Metropolitana de Santiago" languages="Portuguese">Região Metropolitana de Santiago</name>
+		<name normalized="Regio Metropolitana de Santiago" languages="Catalan">Regió Metropolitana de Santiago</name>
+		<name normalized="Region hlavneho mesta Santiago" languages="Slovak">Región hlavného mesta Santiago</name>
+		<name normalized="Region Metropolitana" languages="Esperanto">Región Metropolitana</name>
+		<name normalized="Region Metropolitana de Santiago" languages="Dutch;German;Norwegian (bokmal);Romansh;Spanish;Swedish">Región Metropolitana de Santiago</name>
+		<name normalized="Rehiyon Metropolitana han Santiago" languages="Waray">Rehiyon Metropolitana han Santiago</name>
+		<name normalized="Rexion Metropolitana de Santiago" languages="Galician">Rexión Metropolitana de Santiago</name>
+		<name normalized="Region metropolitaine de Santiago" languages="French">Région métropolitaine de Santiago</name>
+		<name normalized="Sanctiacobi" languages="Latin">Sanctiacobi</name>
+		<name normalized="Santi-ago" languages="Norfuk / Pitkern">Santi-ago</name>
+		<name normalized="Santiago" languages="Albanian;Basque;Cebuano;Chamorro;Cheyenne;Chinese (Min Nan);Dutch;English;Estonian;Faroese;Fiji Hindi;French;Gagauz;German;Hungarian;Ido;Kalaallisut;Kara-Kalpak;Low Saxon (Netherlands);Malagasy;Malay;Maltese;Manx;Maori;Norwegian Nynorsk;Novial;official;Old English;Polish;Portuguese;Romani;Sardinian;Scots;Scottish Gaelic;Shona;Simple English;Slovak;Sranan Tongo;Tagalog;Turkish;West-Vlams;Yoruba;Zazaki">Santiago</name>
+		<name normalized="Santiago 'e Cile" languages="Neapolitan">Santiago 'e Cile</name>
+		<name normalized="Santiago dal Cile" languages="Friulian">Santiago dal Cile</name>
+		<name normalized="Santiago de Chile" languages="Afrikaans;Akan;Aragonese;Asturian;Aymara;Bosnian;Breton;Chavacano de Zamboanga;Croatian;Czech;Danish;Deitsch;Extremaduran;Finnish;Galician;German;Guarani;Hausa;Hawaiian;Hungarian;Indonesian;Interlingua;Interlingue;Irish;Kongo;Kurdish;Ladino;Limburgish;Low German;Luxembourgish;Nahuatl;Norwegian (bokmal);Occitan;Quechua;Romanian;Romansh;Rundi;Serbo-Croatian;Slovenian;Southern Sotho;Spanish;Swahili;Swedish;Tahitian;Vietnamese;Volapuk;Waray;Welsh;Western Frisian;Zhuang">Santiago de Chile</name>
+		<name normalized="Santiago de Xile" languages="Catalan">Santiago de Xile</name>
+		<name normalized="Santiago de Cilio" languages="Esperanto">Santiago de Ĉilio</name>
+		<name normalized="Santiago del Cile" languages="Italian;lumbaart;veneto">Santiago del Cile</name>
+		<name normalized="Santiago di Chile" languages="Papiamento">Santiago di Chile</name>
+		<name normalized="Santiago di u Cile" languages="Corsican">Santiago di u Cile</name>
+		<name normalized="Santiago do Cile" languages="Ligure">Santiago do Cile</name>
+		<name normalized="Santiago do Tchili" languages="Walloon">Santiago do Tchili</name>
+		<name normalized="Santiago du Chili" languages="Nouormand">Santiago du Chili</name>
+		<name normalized="Santiago du Ch.ili" languages="Franco-Provencal">Santiago du Ch·ili</name>
+		<name normalized="Santiago del Cile" languages="Piedmontese">Santiago dël Cile</name>
+		<name normalized="Santiago Hovedstadsregionen" languages="Danish">Santiago Hovedstadsregionen</name>
+		<name normalized="Santiago Metropolitan bolgesi" languages="Turkish">Santiago Metropolitan bölgesi</name>
+		<name normalized="Santiago Metropolitan Region" languages="English;Scots">Santiago Metropolitan Region</name>
+		<name normalized="Santiago Region" languages="English;official">Santiago Region</name>
+		<name normalized="Santiago suyu" languages="Quechua">Santiago suyu</name>
+		<name normalized="Santiagoko eskualdea" languages="Basque">Santiagoko eskualdea</name>
+		<name normalized="Santiagoko metropolitar eskualdea" languages="Basque">Santiagoko metropolitar eskualdea</name>
+		<name normalized="Santiagu" languages="Tetum">Santiagu</name>
+		<name normalized="Santiagu du Cili" languages="Sicilian">Santiagu dû Cili</name>
+		<name normalized="Santiago de Chili" languages="Achinese">Santiagô de Chili</name>
+		<name normalized="Santiyago" languages="Uyghur">Santiyago</name>
+		<name normalized="Santjagas" languages="Lithuanian">Santjagas</name>
+		<name normalized="Santjago" languages="Latgalian;Latvian;Veps">Santjago</name>
+		<name normalized="Santjago metropolinis regionas" languages="Lithuanian">Santjago metropolinis regionas</name>
+		<name normalized="Santjags" languages="Samogitian">Santjags</name>
+		<name normalized="Santyago" languages="Crimean Turkish;Haitian;Uzbek">Santyago</name>
+		<name normalized="Santyaqo" languages="Azerbaijani">Santyaqo</name>
+		<name normalized="Santiago" languages="Icelandic">Santíagó</name>
+		<name normalized="Σαντιαγο" languages="Greek">Σαντιάγο</name>
+		<name normalized="Goрad Сaнt'iga" languages="Belarusian">Горад Сант'яга</name>
+		<name normalized="Сaнtiago" languages="Kabardian">Сантиаго</name>
+		<name normalized="Сaнtiago di Ciлi" languages="Abkhazian">Сантиаго де Чили</name>
+		<name normalized="Сaнtiigo" languages="Udmurt">Сантияго</name>
+		<name normalized="Сaнtijago di Ciлi" languages="Serbian">Сантијаго де Чиле</name>
+		<name normalized="Сaнtъigo" languages="Mongolian">Сантъяго</name>
+		<name normalized="Сaнtьigo" languages="Chechen;Eastern Mari;Kazakh;Ossetic;Russian;Tatar;Ukrainian">Сантьяго</name>
+		<name normalized="Сaнtigo" languages="Bulgarian">Сантяго</name>
+		<name normalized="Сaнtigo di Ciлi" languages="Bulgarian">Сантяго де Чиле</name>
+		<name normalized="Сaнtjago" languages="Macedonian">Сантјаго</name>
+		<name normalized="Сaнt'iga-de-Cылi" languages="biлaрuсkai (taрaskivita)‎">Сант’яга-дэ-Чылі</name>
+		<name normalized="Сtoлicнiй Рigioн Сaнtьigo" languages="Ukrainian">Столичний Регіон Сантьяго</name>
+		<name normalized="Sանtյագv" languages="Armenian">Սանտյագո</name>
+		<name normalized="סאntיאגא" languages="Yiddish">סאנטיאגא</name>
+		<name normalized="סntיאגv דh צ'ידh" languages="Hebrew">סנטיאגו דה צ'ילה</name>
+		<name normalized="سאنtyאغو" languages="Arabic;Egyptian Spoken Arabic">سانتياغو</name>
+		<name normalized="سאنtیאgو" languages="Mazanderani;Persian;Western Punjabi">سانتیاگو</name>
+		<name normalized="سאنtیאgو mیٹrوpولیٹن" languages="Western Punjabi">سانتیاگو میٹروپولیٹن</name>
+		<name normalized="سینٹیאgو" languages="Urdu">سینٹیاگو</name>
+		<name normalized="ܣܢܛܝܐܓܘ ܕܐ ܬܫܝܠܝ" languages="Aramaic">ܣܢܛܝܐܓܘ ܕܐ ܬܫܝܠܝ</name>
+		<name normalized="sाntiago" languages="Hindi">सानतिआगो</name>
+		<name normalized="sाn्tiyाgo" languages="Marathi">सान्तियागो</name>
+		<name normalized="sাn্tiy়াgo" languages="Bengali">সান্তিয়াগো</name>
+		<name normalized="sਾਂtiagੋ" languages="Punjabi">ਸਾਂਤਿਆਗੋ</name>
+		<name normalized="ସାଣ୍ଟିଆଗୋ" languages="Oriya">ସାଣ୍ଟିଆଗୋ</name>
+		<name normalized="சாந்தியாகோ" languages="Tamil">சாந்தியாகோ</name>
+		<name normalized="சான் டியேகோ" languages="Tamil">சான் டியேகோ</name>
+		<name normalized="ಸ್ಯಾಂಟಿಯಾಗೊ" languages="Kannada">ಸ್ಯಾಂಟಿಯಾಗೊ</name>
+		<name normalized="സാന്റിയാഗൊ" languages="Malayalam">സാന്റിയാഗൊ</name>
+		<name normalized="ซานเตียโก" languages="Thai">ซานเตียโก</name>
+		<name normalized="སཱན་ཏི་ཡ་གོ" languages="Tibetan">སཱན་ཏི་ཡ་གོ</name>
+		<name normalized="ဆန်တီယာဂိုမြို့" languages="Burmese">ဆန်တီယာဂိုမြို့</name>
+		<name normalized="სანტიაგო" languages="Georgian">სანტიაგო</name>
+		<name normalized="ሳንቲያጎ" languages="Amharic">ሳንቲያጎ</name>
+		<name normalized="kmrk・d・sntiaーg" languages="Japanese">コマルカ・デ・サンティアーゴ</name>
+		<name normalized="sntiag" languages="Japanese">サンティアゴ</name>
+		<name normalized="圣地亚哥-德智利" languages="Chinese">圣地亚哥-德智利</name>
+		<name normalized="圣地亚哥首都大区" languages="Chinese">圣地亚哥首都大区</name>
+		<name normalized="圣地牙哥" languages="Wu">圣地牙哥</name>
+		<name normalized="聖地亞哥" languages="Cantonese">聖地亞哥</name>
+		<name normalized="首都州" languages="Japanese">首都州</name>
+		<name normalized="산티아고" languages="Korean">산티아고</name>
+		<name normalized="산티아고 수도주" languages="Korean">산티아고 수도주</name>
+	</region>
+	<region name="Tarapaca" type="region" typeTranslated="region">
+		<name normalized="I Rehiyon han Tarapaca" languages="Waray">I Rehiyon han Tarapacá</name>
+		<name normalized="I Рigioн Taрapaka" languages="Ukrainian">I Регіон Тарапака</name>
+		<name normalized="I. regija Tarapaca" languages="Croatian">I. regija Tarapacá</name>
+		<name normalized="Rannvro Tarapaca" languages="Breton">Rannvro Tarapacá</name>
+		<name normalized="Regio Tarapacensis" languages="Latin">Regio Tarapacensis</name>
+		<name normalized="Region de Tarapaca" languages="Occitan">Region de Tarapaca</name>
+		<name normalized="Region Tarapaca" languages="Czech">Region Tarapacá</name>
+		<name normalized="Regione di Tarapaca" languages="Italian">Regione di Tarapacá</name>
+		<name normalized="Regiunea Tarapaca" languages="Romanian">Regiunea Tarapacá</name>
+		<name normalized="Regiao de Tarapaca" languages="Portuguese">Região de Tarapacá</name>
+		<name normalized="Regio de Tarapaca" languages="Catalan">Regió de Tarapacá</name>
+		<name normalized="Region de Tarapaca" languages="German;Romansh;Spanish;Swedish">Región de Tarapacá</name>
+		<name normalized="Rexion de Tarapaca" languages="Galician">Rexión de Tarapacá</name>
+		<name normalized="Region de Tarapaca" languages="French">Région de Tarapacá</name>
+		<name normalized="Tarapaca" languages="English;official">Tarapaca</name>
+		<name normalized="Tarapaca Region" languages="English;official">Tarapaca Region</name>
+		<name normalized="Tarapaca" languages="Dutch;English;Finnish;French;German;Italian;Norwegian (bokmal);Polish;Portuguese;Romanian;Spanish;Vietnamese">Tarapacá</name>
+		<name normalized="Tarapaca bolgesi" languages="Turkish">Tarapacá bölgesi</name>
+		<name normalized="Tarapaca eskualdea" languages="Basque">Tarapacá eskualdea</name>
+		<name normalized="Tarapaca piirkond" languages="Estonian">Tarapacá piirkond</name>
+		<name normalized="Tarapaca Region" languages="English;Scots">Tarapacá Region</name>
+		<name normalized="Tarapaca-regionen" languages="Danish">Tarapacá-regionen</name>
+		<name normalized="Tarapaka suyu" languages="Quechua">Tarapaka suyu</name>
+		<name normalized="Tarapakio" languages="Esperanto">Tarapakio</name>
+		<name normalized="Tarapakos regionas" languages="Lithuanian">Tarapakos regionas</name>
+		<name normalized="Taрapaka" languages="Bulgarian;Russian">Тарапака</name>
+		<name normalized="tאrאpאکא rیjن" languages="Western Punjabi">تاراپاکا ریجن</name>
+		<name normalized="ტარაპაკა" languages="Georgian">ტარაპაკა</name>
+		<name normalized="trpk州" languages="Japanese">タラパカ州</name>
+		<name normalized="塔拉帕卡大区" languages="Chinese">塔拉帕卡大区</name>
+		<name normalized="타라파카 주" languages="Korean">타라파카 주</name>
+	</region>
+	<region name="Valparaiso" type="region" typeTranslated="region">
+		<name normalized="Balparaiso" languages="Malay;Sranan Tongo">Balparaiso</name>
+		<name normalized="Dakbayan sa Valparaiso" languages="Cebuano">Dakbayan sa Valparaíso</name>
+		<name normalized="Onohuayan Valparaiso" languages="Nahuatl">Onohuayān Valparaíso</name>
+		<name normalized="Rannvro Valparaiso" languages="Breton">Rannvro Valparaíso</name>
+		<name normalized="Regija Valparaiso" languages="Serbo-Croatian">Regija Valparaíso</name>
+		<name normalized="Regio Vallis Paradisi" languages="Latin">Regio Vallis Paradisi</name>
+		<name normalized="Region de Valparaiso" languages="Occitan">Region de Valparaíso</name>
+		<name normalized="Region Valparaiso" languages="Czech">Region Valparaíso</name>
+		<name normalized="Regione di Valparaiso" languages="Italian">Regione di Valparaíso</name>
+		<name normalized="Regiunea Valparaiso" languages="Romanian">Regiunea Valparaíso</name>
+		<name normalized="Regiao de Valparaiso" languages="Portuguese">Região de Valparaíso</name>
+		<name normalized="Regio de Valparaiso" languages="Catalan">Regió de Valparaíso</name>
+		<name normalized="Region de Valparaiso" languages="German;Romansh;Spanish;Swedish">Región de Valparaíso</name>
+		<name normalized="Rexion de Valparaiso" languages="Galician">Rexión de Valparaíso</name>
+		<name normalized="Region de Valparaiso" languages="French">Région de Valparaíso</name>
+		<name normalized="V Rehiyon han Valparaiso" languages="Waray">V Rehiyon han Valparaíso</name>
+		<name normalized="V Рigioн Vaльpaрayсo" languages="Ukrainian">V Регіон Вальпараїсо</name>
+		<name normalized="V. regija Valparaiso" languages="Croatian">V. regija Valparaíso</name>
+		<name normalized="Val'paraiso" languages="Veps">Val'paraiso</name>
+		<name normalized="Vallis Paradisi" languages="Latin">Vallis Paradisi</name>
+		<name normalized="Valparais" languages="Low German">Valparais</name>
+		<name normalized="Valparaisas" languages="Lithuanian">Valparaisas</name>
+		<name normalized="Valparaiso" languages="Azerbaijani;Chinese (Min Nan);Crimean Turkish;English;Esperanto;Ladino;Latvian;Malagasy;Nouormand;official;Sardinian;Swahili;Tagalog;Twi">Valparaiso</name>
+		<name normalized="Valparaiso Region" languages="English;official">Valparaiso Region</name>
+		<name normalized="Valparaiso regionas" languages="Lithuanian">Valparaiso regionas</name>
+		<name normalized="Valparayso" languages="Walloon">Valparayso</name>
+		<name normalized="Valparaiso" languages="Afrikaans;Akan;Alemannisch;Aragonese;Aromanian;Asturian;Aymara;Basque;Bosnian;Breton;Catalan;Chavacano de Zamboanga;Corsican;Croatian;Czech;Danish;Dutch;English;Estonian;Extremaduran;Fiji Hindi;Finnish;Franco-Provencal;French;Friulian;Gagauz;Galician;German;Haitian;Hakka;Hawaiian;Ido;Indonesian;Interlingua;Interlingue;Irish;Italian;Kalaallisut;Limburgish;Low Saxon (Netherlands);Lower Sorbian;Maltese;Maori;Nahuatl;Neapolitan;Norwegian (bokmal);Norwegian Nynorsk;Occitan;Old English;Polish;Portuguese;Quechua;Romani;Romanian;Sango;Scots;Serbo-Croatian;Sicilian;Simple English;Slovak;Slovenian;Spanish;Swedish;Turkish;Uzbek;Vietnamese;Volapuk;Waray;Welsh;West-Vlams;Xhosa;Zazaki">Valparaíso</name>
+		<name normalized="Valparaiso bolgesi" languages="Turkish">Valparaíso bölgesi</name>
+		<name normalized="Valparaiso eskualdea" languages="Basque">Valparaíso eskualdea</name>
+		<name normalized="Valparaiso Region" languages="English;Scots">Valparaíso Region</name>
+		<name normalized="Valparaiso suyu" languages="Quechua">Valparaíso suyu</name>
+		<name normalized="Valparaiso-regionen" languages="Danish">Valparaíso-regionen</name>
+		<name normalized="Valparaison alue" languages="Finnish">Valparaíson alue</name>
+		<name normalized="Valparaesos" languages="Samogitian">Valparaėsos</name>
+		<name normalized="Wa'er pa lai suo" languages="Min Dong Chinese">Wǎ'ěr pà lái suǒ</name>
+		<name normalized="Βαλπαραισο" languages="Greek">Βαλπαραΐσο</name>
+		<name normalized="Vaлpaрaiсo" languages="Abkhazian;Bulgarian;Macedonian;Serbian">Валпараисо</name>
+		<name normalized="Vaльpaрaiсo" languages="Mongolian;Ossetic;Russian;Tatar">Вальпараисо</name>
+		<name normalized="Vaльpaрaiсa" languages="biлaрuсkai (taрaskivita)‎">Вальпараіса</name>
+		<name normalized="Vaльpaрayсo" languages="Ukrainian">Вальпараїсо</name>
+		<name normalized="Goрad Vaльpaрaiсa" languages="Belarusian">Горад Вальпараіса</name>
+		<name normalized="vvאדpאrאיסא" languages="Yiddish">וואלפאראיסא</name>
+		<name normalized="vדprאיסv" languages="Hebrew">ולפראיסו</name>
+		<name normalized="bآلpאrאیسو" languages="Urdu">بآلپارایسو</name>
+		<name normalized="fאلbאrאyسو" languages="Arabic;Egyptian Spoken Arabic">فالبارايسو</name>
+		<name normalized="mنtqh وאلpאrאیزو" languages="Persian">منطقه والپارایزو</name>
+		<name normalized="وאلpאrאیزو" languages="Persian">والپارایزو</name>
+		<name normalized="وאلprאئیسو" languages="Western Punjabi">والپرائیسو</name>
+		<name normalized="وאلprאئیسو rیjن" languages="Western Punjabi">والپرائیسو ریجن</name>
+		<name normalized="vאلpאrאیزۆ" languages="Sorani Kurdish">ڤالپارایزۆ</name>
+		<name normalized="ܒܐܠܦܐܪܐܝܣܘ" languages="Aramaic">ܒܐܠܦܐܪܐܝܣܘ</name>
+		<name normalized="ވަލޕަރައިސޮ" languages="Divehi">ވަލޕަރައިސޮ</name>
+		<name normalized="bाl्prejo" languages="Marathi">बाल्परेझो</name>
+		<name normalized="vाlpाrाiso" languages="Bihari;Hindi;Sanskrit">वालपाराईसो</name>
+		<name normalized="bাlpাrাiso" languages="Bengali;Bishnupria Manipuri">ভালপারাইসো</name>
+		<name normalized="bਾlprਾisੋ" languages="Punjabi">ਬਾਲਪਰਾਈਸੋ</name>
+		<name normalized="vાl્pાrાiso" languages="Gujarati">વાલ્પારાઇસો</name>
+		<name normalized="ବଲ୍ପରଇ େସା" languages="Oriya">ବଲ୍ପରଇ େସା</name>
+		<name normalized="வல்பெய்ரசோவ்" languages="Tamil">வல்பெய்ரசோவ்</name>
+		<name normalized="వల్పరైజో" languages="Telugu">వల్పరైజో</name>
+		<name normalized="വൽപറാസിയോ" languages="Malayalam">വൽപറാസിയോ</name>
+		<name normalized="වල්පරයිසෝ" languages="Sinhala">වල්පරයිසෝ</name>
+		<name normalized="บัลปาราอีโซ" languages="Thai">บัลปาราอีโซ</name>
+		<name normalized="བལྤ་རཨིསོ" languages="Dzongkha;Tibetan">བལྤ་རཨིསོ</name>
+		<name normalized="ဗလၲပရမိစော" languages="Burmese">ဗလၲပရမိစော</name>
+		<name normalized="ვალპარაისო" languages="Georgian">ვალპარაისო</name>
+		<name normalized="ቫልፓራይሶ" languages="Amharic">ቫልፓራይሶ</name>
+		<name normalized="ᕙᓪᐸᕃᓱ" languages="Inuktitut">ᕙᓪᐸᕃᓱ</name>
+		<name normalized="brpris" languages="Japanese">バルパライソ</name>
+		<name normalized="brpris州" languages="Japanese">バルパライソ州</name>
+		<name normalized="瓦尔帕莱索" languages="Chinese;Wu">瓦尔帕莱索</name>
+		<name normalized="瓦尔帕莱索大区" languages="Chinese">瓦尔帕莱索大区</name>
+		<name normalized="瓦爾帕萊索" languages="Cantonese;Classical Chinese">瓦爾帕萊索</name>
+		<name normalized="발파라이소" languages="Korean">발파라이소</name>
+		<name normalized="발파라이소 주" languages="Korean">발파라이소 주</name>
+	</region>
+</regions>

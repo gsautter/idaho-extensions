@@ -1,0 +1,151 @@
+<regions country="Guinea">
+	<region name="Boke" type="region" typeTranslated="region">
+		<name normalized="Boke" languages="English;French;official">Boke</name>
+		<name normalized="Boke Region" languages="English;official">Boke Region</name>
+		<name normalized="Boke" languages="Breton;Dutch;Esperanto;Norwegian (bokmal);Polish;Portuguese;Spanish">Boké</name>
+		<name normalized="Boke Region" languages="English">Boké Region</name>
+		<name normalized="Bokes regionas" languages="Lithuanian">Bokės regionas</name>
+		<name normalized="Region Boke" languages="German">Region Boké</name>
+		<name normalized="Regione di Boke" languages="Italian">Regione di Boké</name>
+		<name normalized="Regiunea Boke" languages="Romanian">Regiunea Boké</name>
+		<name normalized="Region de Boke" languages="French">Région de Boké</name>
+		<name normalized="Baki" languages="biлaрuсkai (taрaskivita)‎">Баке</name>
+		<name normalized="Boki" languages="Bulgarian;Russian">Боке</name>
+		<name normalized="Рegiён Baki" languages="Belarusian">Рэгіён Баке</name>
+		<name normalized="bk州" languages="Japanese">ボケ州</name>
+		<name normalized="博凱大區" languages="Chinese">博凱大區</name>
+		<name normalized="보케 주" languages="Korean">보케 주</name>
+	</region>
+	<region name="Conakry" type="governate" typeTranslated="governate">
+		<name normalized="Conacri" languages="Nahuatl;Portuguese">Conacri</name>
+		<name normalized="Conakri" languages="Spanish">Conakri</name>
+		<name normalized="Conakry" languages="Afrikaans;Bosnian;Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;Galician;German;Hungarian;Ido;Indonesian;Italian;Javanese;Latin;Ligure;lumbaart;Luxembourgish;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Piedmontese;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Swahili;Swedish;Tagalog;Vietnamese;veneto;Waray;Welsh;Yoruba">Conakry</name>
+		<name normalized="Konaakiri" languages="Fulah">Konaakiri</name>
+		<name normalized="Konakri" languages="Albanian;Azerbaijani;Haitian;Latvian;Novial;Somali;Turkish">Konakri</name>
+		<name normalized="Konakrio" languages="Esperanto">Konakrio</name>
+		<name normalized="Konakris" languages="Lithuanian">Konakris</name>
+		<name normalized="Konakry" languages="Basque;Polish;Slovak;Western Frisian">Konakry</name>
+		<name normalized="Konakri" languages="Icelandic">Kónakrí</name>
+		<name normalized="Κονακρι" languages="Greek">Κονακρί</name>
+		<name normalized="Goрad Koнakры" languages="Belarusian">Горад Конакры</name>
+		<name normalized="Koнakрi" languages="Bulgarian;Chechen;Hill Mari;Kyrgyz;Macedonian;Russian;Serbian;Tajik;Udmurt">Конакри</name>
+		<name normalized="Koнakры" languages="biлaрuсkai (taрaskivita)‎">Конакры</name>
+		<name normalized="Koнakрi" languages="Ukrainian">Конакрі</name>
+		<name normalized="Kvնաkrի" languages="Armenian">Կոնակրի</name>
+		<name normalized="qאnאqrי" languages="Yiddish">קאנאקרי</name>
+		<name normalized="qvnאqrי" languages="Hebrew">קונאקרי</name>
+		<name normalized="kونאkry" languages="Arabic">كوناكري</name>
+		<name normalized="کونאکrی" languages="Persian;Urdu;Western Punjabi">کوناکری</name>
+		<name normalized="کۆنאکrی" languages="Sorani Kurdish">کۆناکری</name>
+		<name normalized="konाk्ri" languages="Marathi">कोनाक्री</name>
+		<name normalized="konাk্ri" languages="Bengali">কোনাক্রি</name>
+		<name normalized="kੋnਾkri" languages="Punjabi">ਕੋਨਾਕਰੀ</name>
+		<name normalized="கொனாக்ரி" languages="Tamil">கொனாக்ரி</name>
+		<name normalized="โกนากรี" languages="Thai">โกนากรี</name>
+		<name normalized="ཀོ་ནཀ་རི།" languages="Tibetan">ཀོ་ནཀ་རི།</name>
+		<name normalized="კონაკრი" languages="Georgian">კონაკრი</name>
+		<name normalized="knkr" languages="Japanese">コナクリ</name>
+		<name normalized="科納克里" languages="Chinese">科納克里</name>
+		<name normalized="코나크리" languages="Korean">코나크리</name>
+	</region>
+	<region name="Faranah" type="region" typeTranslated="region">
+		<name normalized="Faranah" languages="Breton;Dutch;English;Esperanto;French;German;Malay;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Turkish">Faranah</name>
+		<name normalized="Faranah Region" languages="English;official">Faranah Region</name>
+		<name normalized="Faranos regionas" languages="Lithuanian">Faranos regionas</name>
+		<name normalized="Region Faranah" languages="German">Region Faranah</name>
+		<name normalized="Regione di Faranah" languages="Italian">Regione di Faranah</name>
+		<name normalized="Regiunea Faranah" languages="Romanian">Regiunea Faranah</name>
+		<name normalized="Region de Faranah" languages="French">Région de Faranah</name>
+		<name normalized="Рegiён Фaрaнa" languages="Belarusian">Рэгіён Фарана</name>
+		<name normalized="Фaрaнa" languages="Bulgarian;Russian;biлaрuсkai (taрaskivita)‎">Фарана</name>
+		<name normalized="harn州" languages="Japanese">ファラナ州</name>
+		<name normalized="法拉納大區" languages="Chinese">法拉納大區</name>
+		<name normalized="파라나 주" languages="Korean">파라나 주</name>
+	</region>
+	<region name="Kankan" type="region" typeTranslated="region">
+		<name normalized="Kankan" languages="Breton;Croatian;Czech;Danish;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Western Frisian">Kankan</name>
+		<name normalized="Kankan Region" languages="English;official">Kankan Region</name>
+		<name normalized="Kankanas" languages="Lithuanian">Kankanas</name>
+		<name normalized="Kankano regionas" languages="Lithuanian">Kankano regionas</name>
+		<name normalized="Region Kankan" languages="German">Region Kankan</name>
+		<name normalized="Regione di Kankan" languages="Italian">Regione di Kankan</name>
+		<name normalized="Regiunea Kankan" languages="Romanian">Regiunea Kankan</name>
+		<name normalized="Region de Kankan" languages="French">Région de Kankan</name>
+		<name normalized="Kaнkaн" languages="Bulgarian;Macedonian;Mongolian;Russian;biлaрuсkai (taрaskivita)‎">Канкан</name>
+		<name normalized="Рegiён Kaнkaн" languages="Belarusian">Рэгіён Канкан</name>
+		<name normalized="knkn" languages="Japanese">カンカン</name>
+		<name normalized="knkn州" languages="Japanese">カンカン州</name>
+		<name normalized="康康大區" languages="Chinese">康康大區</name>
+		<name normalized="칸칸" languages="Korean">칸칸</name>
+		<name normalized="칸칸 주" languages="Korean">칸칸 주</name>
+	</region>
+	<region name="Kindia" type="region" typeTranslated="region">
+		<name normalized="Kindia" languages="Breton;Catalan;Danish;Dutch;English;Esperanto;French;German;Italian;Malay;official;Polish;Portuguese;Romanian;Spanish">Kindia</name>
+		<name normalized="Kindia Region" languages="English;official">Kindia Region</name>
+		<name normalized="Kindija" languages="Lithuanian">Kindija</name>
+		<name normalized="Kindijos regionas" languages="Lithuanian">Kindijos regionas</name>
+		<name normalized="Region Kindia" languages="German">Region Kindia</name>
+		<name normalized="Regione di Kindia" languages="Italian">Regione di Kindia</name>
+		<name normalized="Regiunea Kindia" languages="Romanian">Regiunea Kindia</name>
+		<name normalized="Regio de Kindia" languages="Catalan">Regió de Kindia</name>
+		<name normalized="Region de Kindia" languages="French">Région de Kindia</name>
+		<name normalized="Kiнdii" languages="Bulgarian;Russian">Киндия</name>
+		<name normalized="Kiнdыi" languages="biлaрuсkai (taрaskivita)‎">Кіндыя</name>
+		<name normalized="Рegiён Kiнdыi" languages="Belarusian">Рэгіён Кіндыя</name>
+		<name normalized="kndia" languages="Japanese">キンディア</name>
+		<name normalized="kndia州" languages="Japanese">キンディア州</name>
+		<name normalized="金迪亞大區" languages="Chinese">金迪亞大區</name>
+		<name normalized="킨디아" languages="Korean">킨디아</name>
+		<name normalized="킨디아 주" languages="Korean">킨디아 주</name>
+	</region>
+	<region name="Labe" type="region" typeTranslated="region">
+		<name normalized="Labe" languages="English;Fulah;official">Labe</name>
+		<name normalized="Labe Region" languages="English;official">Labe Region</name>
+		<name normalized="Labe" languages="Breton;Czech;Danish;Dutch;English;Esperanto;French;German;Malay;Norwegian (bokmal);Polish;Portuguese;Romanian;Slovak;Spanish">Labé</name>
+		<name normalized="Labe Region" languages="English">Labé Region</name>
+		<name normalized="Labe" languages="Lithuanian">Labė</name>
+		<name normalized="Labes regionas" languages="Lithuanian">Labės regionas</name>
+		<name normalized="Region Labe" languages="German">Region Labé</name>
+		<name normalized="Regione di Labe" languages="Italian">Regione di Labé</name>
+		<name normalized="Regiunea Labe" languages="Romanian">Regiunea Labé</name>
+		<name normalized="Region de Labe" languages="French">Région de Labé</name>
+		<name normalized="Лabi" languages="Bulgarian;Russian">Лабе</name>
+		<name normalized="Лibe" languages="biлaрuсkai (taрaskivita)‎">Лябэ</name>
+		<name normalized="Рegiён Лabe" languages="Belarusian">Рэгіён Лабэ</name>
+		<name normalized="rb" languages="Japanese">ラベ</name>
+		<name normalized="rb州" languages="Japanese">ラベ州</name>
+		<name normalized="拉貝" languages="Chinese">拉貝</name>
+		<name normalized="拉貝大區" languages="Chinese">拉貝大區</name>
+		<name normalized="라베" languages="Korean">라베</name>
+		<name normalized="라베 주" languages="Korean">라베 주</name>
+	</region>
+	<region name="Mamou" type="region" typeTranslated="region">
+		<name normalized="Mamou" languages="Breton;Dutch;English;French;German;Malay;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish">Mamou</name>
+		<name normalized="Mamou Region" languages="English;official">Mamou Region</name>
+		<name normalized="Mamu" languages="Lithuanian">Mamu</name>
+		<name normalized="Mamu regionas" languages="Lithuanian">Mamu regionas</name>
+		<name normalized="Region Mamou" languages="German">Region Mamou</name>
+		<name normalized="Regione di Mamou" languages="Italian">Regione di Mamou</name>
+		<name normalized="Regiunea Mamou" languages="Romanian">Regiunea Mamou</name>
+		<name normalized="Region de Mamou" languages="French">Région de Mamou</name>
+		<name normalized="Мaмu" languages="Bulgarian;Russian;biлaрuсkai (taрaskivita)‎">Маму</name>
+		<name normalized="Рegiён Мaмu" languages="Belarusian">Рэгіён Маму</name>
+		<name normalized="mmー" languages="Japanese">マムー</name>
+		<name normalized="mmー州" languages="Japanese">マムー州</name>
+		<name normalized="馬木" languages="Chinese">馬木</name>
+		<name normalized="馬木大區" languages="Chinese">馬木大區</name>
+		<name normalized="마무" languages="Korean">마무</name>
+		<name normalized="마무 주" languages="Korean">마무 주</name>
+	</region>
+	<region name="N'Zerekore" type="region" typeTranslated="region">
+		<name normalized="N'Zerekore" languages="English;official">N'Zerekore</name>
+		<name normalized="N'Zerekore Region" languages="English;official">N'Zerekore Region</name>
+		<name normalized="NZerekore" languages="English;official">NZerekore</name>
+		<name normalized="NZerekore Region" languages="English;official">NZerekore Region</name>
+		<name normalized="Nzerekore" languages="Lithuanian">Nzerekorė</name>
+		<name normalized="Nzerekore" languages="Breton;Croatian;Danish;Dutch;English;Esperanto;Finnish;French;German;Italian;Polish;Romanian">Nzérékoré</name>
+		<name normalized="Нziрikoрi" languages="Bulgarian;Russian;Serbian">Нзерекоре</name>
+		<name normalized="nzrkr" languages="Japanese">ンゼレコレ</name>
+		<name normalized="은제레코레" languages="Korean">은제레코레</name>
+	</region>
+</regions>

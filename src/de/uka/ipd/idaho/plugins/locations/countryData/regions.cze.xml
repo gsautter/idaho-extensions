@@ -1,0 +1,797 @@
+<regions country="Czech Republic">
+	<region name="Jihocesky" type="region" typeTranslated="kraj">
+		<name normalized="An Bhoiheim" languages="Irish">An Bhoihéim</name>
+		<name normalized="Behmen" languages="Bavarian">Behmen</name>
+		<name normalized="Boemia" languages="Italian;Romanian">Boemia</name>
+		<name normalized="Boemia meridionale" languages="Italian">Boemia meridionale</name>
+		<name normalized="Boheemn" languages="West-Vlams">Boheemn</name>
+		<name normalized="Boheme" languages="Afrikaans">Boheme</name>
+		<name normalized="Bohemen" languages="Dutch;Low Saxon (Netherlands);Western Frisian">Bohemen</name>
+		<name normalized="Bohemia" languages="Aragonese;Basque;Breton;English;Galician;Ido;Indonesian;Latin;Malay;official;Scottish Gaelic;Simple English;Spanish;Swahili;Welsh;Yoruba">Bohemia</name>
+		<name normalized="Bohemia Kraj" languages="English;official">Bohemia Kraj</name>
+		<name normalized="Bohemia Region" languages="English;official">Bohemia Region</name>
+		<name normalized="Bohemija" languages="Lithuanian">Bohemija</name>
+		<name normalized="Bohemio" languages="Esperanto">Bohemio</name>
+		<name normalized="Bohemya" languages="Kurdish;Tagalog;Turkish">Bohemya</name>
+		<name normalized="Boheme" languages="Picard">Bohème</name>
+		<name normalized="Bohemia" languages="Catalan">Bohèmia</name>
+		<name normalized="Boheme" languages="French">Bohême</name>
+		<name normalized="Boheme-du-Sud" languages="French">Bohême-du-Sud</name>
+		<name normalized="Bohemija" languages="Latvian">Bohēmija</name>
+		<name normalized="Boemia" languages="Occitan">Boèmia</name>
+		<name normalized="Boemia del Sud" languages="Occitan">Boèmia del Sud</name>
+		<name normalized="Boemia" languages="Portuguese">Boémia</name>
+		<name normalized="Boemia do Sul" languages="Portuguese">Boêmia do Sul</name>
+		<name normalized="Baeheimur" languages="Icelandic">Bæheimur</name>
+		<name normalized="Bohmen" languages="Alemannisch;German;Low German;Norwegian (bokmal);Norwegian Nynorsk;Swedish">Böhmen</name>
+		<name normalized="Boomi" languages="Finnish">Böömi</name>
+		<name normalized="Bohmen" languages="Danish">Bøhmen</name>
+		<name normalized="Csehorszag" languages="Hungarian">Csehország</name>
+		<name normalized="Czechy" languages="Polish;Silesian">Czechy</name>
+		<name normalized="Daerah Bohemia Selatan" languages="Indonesian">Daerah Bohemia Selatan</name>
+		<name normalized="Del-Csehorszagi kerulet" languages="Hungarian">Dél-Csehországi kerület</name>
+		<name normalized="Guney Bohemya ili" languages="Turkish">Güney Bohemya ili</name>
+		<name normalized="Hego Bohemia" languages="Basque">Hego Bohemia</name>
+		<name normalized="Jihocesky" languages="English;official">Jihocesky</name>
+		<name normalized="Jihocesky Kraj" languages="English;official">Jihocesky Kraj</name>
+		<name normalized="Jihocesky Region" languages="English;official">Jihocesky Region</name>
+		<name normalized="Jihocesky kraj" languages="Czech;German">Jihočeský kraj</name>
+		<name normalized="Juhocesky kraj" languages="Slovak">Juhočeský kraj</name>
+		<name normalized="Juzna Ceska" languages="Croatian">Južna Češka</name>
+		<name normalized="Kraj poludniowoczeski" languages="Polish">Kraj południowoczeski</name>
+		<name normalized="Louna-Tsehhi maakond" languages="Estonian">Lõuna-Tšehhi maakond</name>
+		<name normalized="Nam Bohemia" languages="Vietnamese">Nam Bohemia</name>
+		<name normalized="Pietu Cekijos krastas" languages="Lithuanian">Pietų Čekijos kraštas</name>
+		<name normalized="Rannvro Bohemia ar Su" languages="Breton">Rannvro Bohemia ar Su</name>
+		<name normalized="Regiunea Boemia de Sud" languages="Romanian">Regiunea Boemia de Sud</name>
+		<name normalized="Regio de Bohemia Meridional" languages="Catalan">Regió de Bohèmia Meridional</name>
+		<name normalized="Region de Bohemia Meridional" languages="Spanish">Región de Bohemia Meridional</name>
+		<name normalized="Salatan nga Bohemia" languages="Waray">Salatan nga Bohemia</name>
+		<name normalized="South Bohemia" languages="English;official">South Bohemia</name>
+		<name normalized="South Bohemia Kraj" languages="English;official">South Bohemia Kraj</name>
+		<name normalized="South Bohemia Region" languages="English;official">South Bohemia Region</name>
+		<name normalized="South Bohemian Labuad" languages="Pampanga">South Bohemian Labuad</name>
+		<name normalized="South Bohemian Region" languages="English">South Bohemian Region</name>
+		<name normalized="Sudbohemia regiono" languages="Esperanto">Sudbohemia regiono</name>
+		<name normalized="Sydbohmen" languages="Norwegian (bokmal)">Sydböhmen</name>
+		<name normalized="Sydbohmen" languages="Danish">Sydbøhmen</name>
+		<name normalized="Sodra Bohmen" languages="Swedish">Södra Böhmen</name>
+		<name normalized="Wilayah Bohemia Selatan" languages="Malay">Wilayah Bohemia Selatan</name>
+		<name normalized="Zuid-Bohemen" languages="Dutch">Zuid-Bohemen</name>
+		<name normalized="Cechi" languages="Upper Sorbian">Čechi</name>
+		<name normalized="Cechy" languages="Czech;Estonian;Slovak;Vietnamese">Čechy</name>
+		<name normalized="Ceska" languages="Croatian;Serbo-Croatian;Slovenian">Češka</name>
+		<name normalized="Βοημια" languages="Greek">Βοημία</name>
+		<name normalized="Bagiмii" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Багемія</name>
+		<name normalized="Bogiмi" languages="Chechen;Chuvash">Богеми</name>
+		<name normalized="Bogiмii" languages="Russian;Sakha">Богемия</name>
+		<name normalized="Bogiмii" languages="Ukrainian">Богемія</name>
+		<name normalized="Bokiмii" languages="Bulgarian">Бохемия</name>
+		<name normalized="Paўdнёvacesсki kрaй" languages="Belarusian">Паўднёвачэшскі край</name>
+		<name normalized="Pivdiннociсьkiй kрaй" languages="Ukrainian">Південночеський край</name>
+		<name normalized="Ciska" languages="Macedonian;Serbian">Чешка</name>
+		<name normalized="Юzнobokiмсki kрaй" languages="Bulgarian">Южнобохемски край</name>
+		<name normalized="Юzнocisсkiй kрaй" languages="Russian">Южночешский край</name>
+		<name normalized="Juzнociski kрaj" languages="Macedonian;Serbian">Јужночешки крај</name>
+		<name normalized="bvhמיh" languages="Hebrew">בוהמיה</name>
+		<name normalized="bעhמען" languages="Yiddish">בעהמען</name>
+		<name normalized="bوhm" languages="Mazanderani;Persian">بوهم</name>
+		<name normalized="bوhymyא" languages="Arabic">بوهيميا</name>
+		<name normalized="bوہیmیא" languages="Urdu;Western Punjabi">بوہیمیا</name>
+		<name normalized="bohemiyा" languages="Marathi">बोहेमिया</name>
+		<name normalized="bohemiy়া" languages="Bengali">বোহেমিয়া</name>
+		<name normalized="ബൊഹെമിയ" languages="Malayalam">ബൊഹെമിയ</name>
+		<name normalized="โบฮีเมีย" languages="Thai">โบฮีเมีย</name>
+		<name normalized="ဘိုဟီးမီးယား" languages="Burmese">ဘိုဟီးမီးယား</name>
+		<name normalized="ბოჰემია" languages="Georgian">ბოჰემია</name>
+		<name normalized="სამხრეთ ბოჰემიის მხარე" languages="Georgian">სამხრეთ ბოჰემიის მხარე</name>
+		<name normalized="bhma" languages="Japanese">ボヘミア</name>
+		<name normalized="南bhma州" languages="Japanese">南ボヘミア州</name>
+		<name normalized="南波希米亚州" languages="Chinese">南波希米亚州</name>
+		<name normalized="波希米亚" languages="Chinese">波希米亚</name>
+		<name normalized="남보헤미아 주" languages="Korean">남보헤미아 주</name>
+		<name normalized="보헤미아" languages="Korean">보헤미아</name>
+	</region>
+	<region name="Jihomoravsky" type="region" typeTranslated="kraj">
+		<name normalized="An Mhoraiv" languages="Irish">An Mhoráiv</name>
+		<name normalized="Del-Morva kerulet" languages="Hungarian">Dél-Morva kerület</name>
+		<name normalized="Guney Moravya ili" languages="Turkish">Güney Moravya ili</name>
+		<name normalized="Hego Moravia" languages="Basque">Hego Moravia</name>
+		<name normalized="Jihomoravsky" languages="English;official">Jihomoravsky</name>
+		<name normalized="Jihomoravsky Kraj" languages="English;official">Jihomoravsky Kraj</name>
+		<name normalized="Jihomoravsky Region" languages="English;official">Jihomoravsky Region</name>
+		<name normalized="Jihomoravsky kraj" languages="Czech;German">Jihomoravský kraj</name>
+		<name normalized="Juhomoravsky kraj" languages="Slovak">Juhomoravský kraj</name>
+		<name normalized="Juzna Moravska" languages="Croatian">Južna Moravska</name>
+		<name normalized="Kraj poludniowomorawski" languages="Polish">Kraj południowomorawski</name>
+		<name normalized="Louna-Morava maakond" languages="Estonian">Lõuna-Morava maakond</name>
+		<name normalized="Moraavje" languages="Western Frisian">Moraavje</name>
+		<name normalized="Morabhia" languages="Scottish Gaelic">Morabhia</name>
+		<name normalized="Morabya" languages="Tagalog">Morabya</name>
+		<name normalized="Morafia" languages="Welsh">Morafia</name>
+		<name normalized="Morava" languages="Czech;Estonian;Slovak;Vietnamese">Morava</name>
+		<name normalized="Moravia" languages="Aragonese;Basque;Breton;English;Ido;Indonesian;Italian;Latin;Malay;official;Romanian;Simple English;Spanish;Swahili">Moravia</name>
+		<name normalized="Moravia Kraj" languages="English;official">Moravia Kraj</name>
+		<name normalized="Moravia meridionale" languages="Italian">Moravia meridionale</name>
+		<name normalized="Moravia Region" languages="English;official">Moravia Region</name>
+		<name normalized="Moravie" languages="French;Picard">Moravie</name>
+		<name normalized="Moravie-du-Sud" languages="French">Moravie-du-Sud</name>
+		<name normalized="Moravija" languages="Lithuanian">Moravija</name>
+		<name normalized="Moravio" languages="Esperanto">Moravio</name>
+		<name normalized="Moraviya" languages="Azerbaijani">Moraviya</name>
+		<name normalized="Moravie" languages="Dutch">Moravië</name>
+		<name normalized="Moravska" languages="Croatian;Serbian;Serbo-Croatian;Slovenian">Moravska</name>
+		<name normalized="Moravya" languages="Kurdish;Turkish">Moravya</name>
+		<name normalized="Morawa" languages="Lower Sorbian;Upper Sorbian">Morawa</name>
+		<name normalized="Morawijo" languages="Silesian">Morawijo</name>
+		<name normalized="Morawie" languages="Afrikaans">Morawië</name>
+		<name normalized="Morawy" languages="Polish">Morawy</name>
+		<name normalized="Morvaorszag" languages="Hungarian">Morvaország</name>
+		<name normalized="Moravia" languages="Catalan;Occitan">Moràvia</name>
+		<name normalized="Moravia del Sud" languages="Occitan">Moràvia del Sud</name>
+		<name normalized="Moravia" languages="Portuguese">Morávia</name>
+		<name normalized="Moravia do Sul" languages="Portuguese">Morávia do Sul</name>
+		<name normalized="Moravija" languages="Latvian">Morāvija</name>
+		<name normalized="Mahren" languages="Danish;German;Norwegian (bokmal);Norwegian Nynorsk;Swedish">Mähren</name>
+		<name normalized="Maari" languages="Finnish">Määri</name>
+		<name normalized="Nam Moravia" languages="Vietnamese">Nam Moravia</name>
+		<name normalized="Pietu Moravijos krastas" languages="Lithuanian">Pietų Moravijos kraštas</name>
+		<name normalized="Rannvro Moravia ar Su" languages="Breton">Rannvro Moravia ar Su</name>
+		<name normalized="Regiunea Moravia de Sud" languages="Romanian">Regiunea Moravia de Sud</name>
+		<name normalized="Regio de Moravia Meridional" languages="Catalan">Regió de Moràvia Meridional</name>
+		<name normalized="Region de Moravia Meridional" languages="Spanish">Región de Moravia Meridional</name>
+		<name normalized="Salatan nga Moravia" languages="Waray">Salatan nga Moravia</name>
+		<name normalized="South Moravia" languages="English;official">South Moravia</name>
+		<name normalized="South Moravia Kraj" languages="English;official">South Moravia Kraj</name>
+		<name normalized="South Moravia Region" languages="English;official">South Moravia Region</name>
+		<name normalized="South Moravian Labuad" languages="Pampanga">South Moravian Labuad</name>
+		<name normalized="South Moravian Region" languages="English">South Moravian Region</name>
+		<name normalized="Sudmoravia regiono" languages="Esperanto">Sudmoravia regiono</name>
+		<name normalized="Sydmahren" languages="Danish;Norwegian (bokmal)">Sydmähren</name>
+		<name normalized="Sodra Mahren" languages="Swedish">Södra Mähren</name>
+		<name normalized="Wilayah Moravia Selatan" languages="Malay">Wilayah Moravia Selatan</name>
+		<name normalized="Zuid-Moravie" languages="Dutch">Zuid-Moravië</name>
+		<name normalized="Μοραβια" languages="Greek">Μοραβία</name>
+		<name normalized="Мaрavii" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Маравія</name>
+		<name normalized="Мoрavi" languages="Chechen;Ossetic">Морави</name>
+		<name normalized="Мoрavii" languages="Bulgarian;Russian">Моравия</name>
+		<name normalized="Мoрavija" languages="Macedonian">Моравија</name>
+		<name normalized="Мoрavii" languages="Ukrainian">Моравія</name>
+		<name normalized="Paўdнёvaмaрaўсki kрaй" languages="Belarusian">Паўднёвамараўскі край</name>
+		<name normalized="Pivdiннoмoрavсьkiй kрaй" languages="Ukrainian">Південноморавський край</name>
+		<name normalized="Юzнoмoрavсki kрaй" languages="Bulgarian">Южноморавски край</name>
+		<name normalized="Юzнoмoрavсkiй kрaй" languages="Russian">Южноморавский край</name>
+		<name normalized="Juzнoмoрavсki kрaj" languages="Macedonian;Serbian">Јужноморавски крај</name>
+		<name normalized="מvrאbיh" languages="Hebrew">מוראביה</name>
+		<name normalized="מעhrן" languages="Yiddish">מעהרן</name>
+		<name normalized="mhאfzة mوrאfyא אلjنوbyة" languages="Arabic">محافظة مورافيا الجنوبية</name>
+		<name normalized="mوrאfyא" languages="Arabic">مورافيا</name>
+		<name normalized="mوrאوی" languages="Persian">موراوی</name>
+		<name normalized="mوrאویא" languages="Urdu;Western Punjabi">موراویا</name>
+		<name normalized="morাbiy়া" languages="Bengali">মোরাভিয়া</name>
+		<name normalized="მორავია" languages="Georgian">მორავია</name>
+		<name normalized="სამხრეთ მორავიის მხარე" languages="Georgian">სამხრეთ მორავიის მხარე</name>
+		<name normalized="mrvia" languages="Japanese">モラヴィア</name>
+		<name normalized="南mrvia州" languages="Japanese">南モラヴィア州</name>
+		<name normalized="南摩拉維亞州" languages="Chinese">南摩拉維亞州</name>
+		<name normalized="摩拉維亞" languages="Chinese">摩拉維亞</name>
+		<name normalized="남모라바 주" languages="Korean">남모라바 주</name>
+		<name normalized="모라바" languages="Korean">모라바</name>
+	</region>
+	<region name="Karlovarsky" type="region" typeTranslated="kraj">
+		<name normalized="Daerah Karlovy Vary" languages="Indonesian">Daerah Karlovy Vary</name>
+		<name normalized="Karlovarski kraj" languages="Croatian">Karlovarski kraj</name>
+		<name normalized="Karlovarsky" languages="English;official">Karlovarsky</name>
+		<name normalized="Karlovarsky Kraj" languages="English;official">Karlovarsky Kraj</name>
+		<name normalized="Karlovarsky Region" languages="English;official">Karlovarsky Region</name>
+		<name normalized="Karlovarsky kraj" languages="Czech;German;Slovak">Karlovarský kraj</name>
+		<name normalized="Karlove Vary" languages="Slovak">Karlove Vary</name>
+		<name normalized="Karlovi Varai" languages="Lithuanian">Karlovi Varai</name>
+		<name normalized="Karlovı Varı" languages="Azerbaijani">Karlovı Varı</name>
+		<name normalized="Karlovi Varu krastas" languages="Lithuanian">Karlovi Varų kraštas</name>
+		<name normalized="Karlovy Vary" languages="Basque;Breton;Catalan;Croatian;Czech;Danish;English;Esperanto;Estonian;Finnish;French;Hungarian;Italian;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Picard;Portuguese;Romanian;Simple English;Spanish;Swedish;Turkish;Uzbek;Vietnamese;Waray">Karlovy Vary</name>
+		<name normalized="Karlovy Vary eskualdea" languages="Basque">Karlovy Vary eskualdea</name>
+		<name normalized="Karlovy Vary ili" languages="Turkish">Karlovy Vary ili</name>
+		<name normalized="Karlovy Vary Kraj" languages="English;official">Karlovy Vary Kraj</name>
+		<name normalized="Karlovy Vary Labuad" languages="Pampanga">Karlovy Vary Labuad</name>
+		<name normalized="Karlovy Vary maakond" languages="Estonian">Karlovy Vary maakond</name>
+		<name normalized="Karlovy Vary Region" languages="English;official">Karlovy Vary Region</name>
+		<name normalized="Karlovy Vary-i kerulet" languages="Hungarian">Karlovy Vary-i kerület</name>
+		<name normalized="Karlowe Wary" languages="Polish;Upper Sorbian">Karlowe Wary</name>
+		<name normalized="Karlsbad" languages="Dutch;German">Karlsbad</name>
+		<name normalized="Kraj karlowarski" languages="Polish">Kraj karlowarski</name>
+		<name normalized="Rannvro Karlovy Vary" languages="Breton">Rannvro Karlovy Vary</name>
+		<name normalized="Regione di Karlovy Vary" languages="Italian">Regione di Karlovy Vary</name>
+		<name normalized="Regiono Karlovy Vary" languages="Esperanto">Regiono Karlovy Vary</name>
+		<name normalized="Regiunea Karlovy Vary" languages="Romanian">Regiunea Karlovy Vary</name>
+		<name normalized="Regio de Karlovy Vary" languages="Catalan">Regió de Karlovy Vary</name>
+		<name normalized="Region de Karlovy Vary" languages="Spanish">Región de Karlovy Vary</name>
+		<name normalized="Region de Karlovy Vary" languages="French">Région de Karlovy Vary</name>
+		<name normalized="Thermae Carolinae" languages="Latin">Thermae Carolinae</name>
+		<name normalized="Wilayah Karlovy Vary" languages="Malay">Wilayah Karlovy Vary</name>
+		<name normalized="Καρλοβι Βαρι" languages="Greek">Κάρλοβι Βάρι</name>
+		<name normalized="Goрad Kaрлavы Vaры" languages="Belarusian">Горад Карлавы Вары</name>
+		<name normalized="Kaрлavaрсki kрaй" languages="Belarusian">Карлаварскі край</name>
+		<name normalized="Kaрлavы Vaры" languages="biлaрuсkai (taрaskivita)‎">Карлавы Вары</name>
+		<name normalized="Kaрлovaрсki kрaй" languages="Bulgarian">Карловарски край</name>
+		<name normalized="Kaрлovaрсki kрaj" languages="Macedonian;Serbian">Карловарски крај</name>
+		<name normalized="Kaрлovaрсkiй kрaй" languages="Russian">Карловарский край</name>
+		<name normalized="Kaрлovaрсьkiй kрaй" languages="Ukrainian">Карловарський край</name>
+		<name normalized="Kaрлovi Vaрi" languages="Serbian">Карлове Вари</name>
+		<name normalized="Kaрлovi Vaрi" languages="Bulgarian;Macedonian;Tajik">Карлови Вари</name>
+		<name normalized="Kaрлovы Vaры" languages="Chechen;Russian">Карловы Вары</name>
+		<name normalized="Kaрлovi Vaрi" languages="Ukrainian">Карлові Вари</name>
+		<name normalized="qrדvbי vאrי" languages="Hebrew">קרלובי וארי</name>
+		<name normalized="kאrلوfة" languages="Arabic">كارلوفة</name>
+		<name normalized="کאrلووی وאrی" languages="Persian">کارلووی واری</name>
+		<name normalized="کאrلوی وאrی" languages="Pashto">کارلوی واری</name>
+		<name normalized="კარლოვი-ვარი" languages="Georgian">კარლოვი-ვარი</name>
+		<name normalized="კარლოვი-ვარის მხარე" languages="Georgian">კარლოვი-ვარის მხარე</name>
+		<name normalized="krrvi・var" languages="Japanese">カルロヴィ・ヴァリ</name>
+		<name normalized="krrvi・var州" languages="Japanese">カルロヴィ・ヴァリ州</name>
+		<name normalized="卡罗维发利" languages="Chinese">卡罗维发利</name>
+		<name normalized="卡羅維發利州" languages="Chinese">卡羅維發利州</name>
+		<name normalized="카를로비바리" languages="Korean">카를로비바리</name>
+		<name normalized="카를로비바리 주" languages="Korean">카를로비바리 주</name>
+	</region>
+	<region name="Kralovehradecky" type="region" typeTranslated="kraj">
+		<name normalized="Daerah Hradec Kralove" languages="Indonesian">Daerah Hradec Kralove</name>
+		<name normalized="Hradec Kralove" languages="English;official">Hradec Kralove</name>
+		<name normalized="Hradec Kralove Kraj" languages="English;official">Hradec Kralove Kraj</name>
+		<name normalized="Hradec Kralove Region" languages="English;official">Hradec Kralove Region</name>
+		<name normalized="Hradec Kralove" languages="Lithuanian">Hradec Kralovė</name>
+		<name normalized="Hradec Kraloves krastas" languages="Lithuanian">Hradec Kralovės kraštas</name>
+		<name normalized="Hradec Kralove" languages="Basque;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Hungarian;Indonesian;Italian;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;Polish;Portuguese;Romanian;Scots;Slovak;Spanish;Swedish;Vietnamese;Waray">Hradec Králové</name>
+		<name normalized="Hradec Kralove eskualdea" languages="Basque">Hradec Králové eskualdea</name>
+		<name normalized="Hradec Kralove ili" languages="Turkish">Hradec Králové ili</name>
+		<name normalized="Hradec Kralove Labuad" languages="Pampanga">Hradec Králové Labuad</name>
+		<name normalized="Hradec Kralove maakond" languages="Estonian">Hradec Králové maakond</name>
+		<name normalized="Hradec Kralove Region" languages="English">Hradec Králové Region</name>
+		<name normalized="Hradec Kralove-i kerulet" languages="Hungarian">Hradec Králové-i kerület</name>
+		<name normalized="Kraj hradecki" languages="Polish">Kraj hradecki</name>
+		<name normalized="Kralovehradecky" languages="English;official">Kralovehradecky</name>
+		<name normalized="Kralovehradecky Kraj" languages="English;official">Kralovehradecky Kraj</name>
+		<name normalized="Kralovehradecky Region" languages="English;official">Kralovehradecky Region</name>
+		<name normalized="Kralovohradecky kraj" languages="Slovak">Královohradecký kraj</name>
+		<name normalized="Kralovehradecky kraj" languages="Czech;German">Královéhradecký kraj</name>
+		<name normalized="Kralovehradecki kraj" languages="Croatian">Královéhradečki kraj</name>
+		<name normalized="Rannvro Hradec Kralove" languages="Breton">Rannvro Hradec Králové</name>
+		<name normalized="Reginogradecium" languages="Latin">Reginogradecium</name>
+		<name normalized="Regione di Hradec Kralove" languages="Italian">Regione di Hradec Králové</name>
+		<name normalized="Regiono Hradec Kralove" languages="Esperanto">Regiono Hradec Králové</name>
+		<name normalized="Regiunea Hradec Kralove" languages="Romanian">Regiunea Hradec Králové</name>
+		<name normalized="Regio de Hradec Kralove" languages="Catalan">Regió de Hradec Králové</name>
+		<name normalized="Region de Hradec Kralove" languages="Spanish">Región de Hradec Králové</name>
+		<name normalized="Region de Hradec Kralove" languages="French">Région de Hradec Králové</name>
+		<name normalized="Wilayah Hradec Kralove" languages="Malay">Wilayah Hradec Králové</name>
+		<name normalized="Χραντεκ Κραλοβε" languages="Greek">Χράντεκ Κράλοβε</name>
+		<name normalized="Gрaditс-Kрaлovi" languages="Tajik">Градетс-Кралове</name>
+		<name normalized="Gрadit-Kрaлovi" languages="Chechen;Russian">Градец-Кралове</name>
+		<name normalized="Gрaditь-Kрaлovi" languages="Ukrainian">Градець-Кралове</name>
+		<name normalized="Gрadet Kрaлave" languages="biлaрuсkai (taрaskivita)‎">Градэц Кралавэ</name>
+		<name normalized="Kрaлovigрaditkiй kрaй" languages="Russian">Краловеградецкий край</name>
+		<name normalized="Kрaлovikрadicki kрaj" languages="Serbian">Краловехрадечки крај</name>
+		<name normalized="Kрaлovogрaditьkiй kрaй" languages="Ukrainian">Краловоградецький край</name>
+		<name normalized="Kрaлovokрaditki kрaй" languages="Bulgarian">Краловохрадецки край</name>
+		<name normalized="Kрaлovokрadicki kрaj" languages="Macedonian">Краловохрадечки крај</name>
+		<name normalized="Kрadit Kрaлovi" languages="Bulgarian;Macedonian;Serbian">Храдец Кралове</name>
+		<name normalized="hrאدtس کrאلووh" languages="Persian">هرادتس کرالووه</name>
+		<name normalized="ฮราเดตส์กราลอเว" languages="Thai">ฮราเดตส์กราลอเว</name>
+		<name normalized="ჰრადეც-კრალოვე" languages="Georgian">ჰრადეც-კრალოვე</name>
+		<name normalized="ჰრადეც-კრალოვეს მხარე" languages="Georgian">ჰრადეც-კრალოვეს მხარე</name>
+		<name normalized="hrdt・krーrveー" languages="Japanese">フラデツ・クラーロヴェー</name>
+		<name normalized="hrdt・krーrveー州" languages="Japanese">フラデツ・クラーロヴェー州</name>
+		<name normalized="赫拉德茨-克拉洛韋州" languages="Chinese">赫拉德茨-克拉洛韋州</name>
+		<name normalized="赫拉德茨-克拉洛韦" languages="Chinese">赫拉德茨-克拉洛韦</name>
+		<name normalized="흐라데츠크랄로베" languages="Korean">흐라데츠크랄로베</name>
+		<name normalized="흐라데츠크랄로베 주" languages="Korean">흐라데츠크랄로베 주</name>
+	</region>
+	<region name="Liberecky" type="region" typeTranslated="kraj">
+		<name normalized="Daerah Liberec" languages="Indonesian">Daerah Liberec</name>
+		<name normalized="Kraj liberecki" languages="Polish">Kraj liberecki</name>
+		<name normalized="Liberec" languages="Basque;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Hungarian;Icelandic;Indonesian;Interlingue;Italian;Lower Sorbian;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Polish;Portuguese;Romanian;Silesian;Slovak;Spanish;Swedish;Turkish;Upper Sorbian;Vietnamese;Waray;Western Frisian">Liberec</name>
+		<name normalized="Liberec eskualdea" languages="Basque">Liberec eskualdea</name>
+		<name normalized="Liberec Kraj" languages="English;official">Liberec Kraj</name>
+		<name normalized="Liberec Labuad" languages="Pampanga">Liberec Labuad</name>
+		<name normalized="Liberec Region" languages="English;official">Liberec Region</name>
+		<name normalized="Libereca" languages="Latvian">Libereca</name>
+		<name normalized="Liberecas" languages="Lithuanian">Liberecas</name>
+		<name normalized="Libereci kerulet" languages="Hungarian">Libereci kerület</name>
+		<name normalized="Libereci maakond" languages="Estonian">Libereci maakond</name>
+		<name normalized="Liberecky" languages="English;official">Liberecky</name>
+		<name normalized="Liberecky Kraj" languages="English;official">Liberecky Kraj</name>
+		<name normalized="Liberecky Region" languages="English;official">Liberecky Region</name>
+		<name normalized="Liberecky kraj" languages="Czech;German;Slovak">Liberecký kraj</name>
+		<name normalized="Libereco krastas" languages="Lithuanian">Libereco kraštas</name>
+		<name normalized="Liberets" languages="Uzbek">Liberets</name>
+		<name normalized="Liberec" languages="Azerbaijani">Libereç</name>
+		<name normalized="Liberecki kraj" languages="Croatian">Liberečki kraj</name>
+		<name normalized="Rannvro Liberec" languages="Breton">Rannvro Liberec</name>
+		<name normalized="Regione di Liberec" languages="Italian">Regione di Liberec</name>
+		<name normalized="Regiono Liberec" languages="Esperanto">Regiono Liberec</name>
+		<name normalized="Regiunea Liberec" languages="Romanian">Regiunea Liberec</name>
+		<name normalized="Regio de Liberec" languages="Catalan">Regió de Liberec</name>
+		<name normalized="Region de Liberec" languages="Spanish">Región de Liberec</name>
+		<name normalized="Reichenberga" languages="Latin">Reichenberga</name>
+		<name normalized="Region de Liberec" languages="French">Région de Liberec</name>
+		<name normalized="Wilayah Liberec" languages="Malay">Wilayah Liberec</name>
+		<name normalized="Λιμπερετς" languages="Greek">Λίμπερετς</name>
+		<name normalized="Goрad Лibiрet" languages="Belarusian">Горад Ліберэц</name>
+		<name normalized="Лibiрitс" languages="Tajik">Либеретс</name>
+		<name normalized="Лibiрit" languages="Bulgarian;Chechen;Macedonian;Russian;Serbian">Либерец</name>
+		<name normalized="Лibiрitki kрaй" languages="Bulgarian">Либерецки край</name>
+		<name normalized="Лibiрitkiй kрaй" languages="Russian">Либерецкий край</name>
+		<name normalized="Лibiрicki kрaj" languages="Macedonian;Serbian">Либеречки крај</name>
+		<name normalized="Лibiрitь" languages="Ukrainian">Ліберець</name>
+		<name normalized="Лibiрitьkiй kрaй" languages="Ukrainian">Ліберецький край</name>
+		<name normalized="דיbrץ" languages="Hebrew">ליברץ</name>
+		<name normalized="لybyrytس" languages="Arabic">ليبيريتس</name>
+		<name normalized="لیbrtس" languages="Persian">لیبرتس</name>
+		<name normalized="ლიბერეცი" languages="Georgian">ლიბერეცი</name>
+		<name normalized="ლიბერეცის მხარე" languages="Georgian">ლიბერეცის მხარე</name>
+		<name normalized="rbrt" languages="Japanese">リベレツ</name>
+		<name normalized="rbrt州" languages="Japanese">リベレツ州</name>
+		<name normalized="利贝雷茨" languages="Chinese">利贝雷茨</name>
+		<name normalized="利贝雷茨州" languages="Chinese">利贝雷茨州</name>
+		<name normalized="리베레츠" languages="Korean">리베레츠</name>
+		<name normalized="리베레츠 주" languages="Korean">리베레츠 주</name>
+	</region>
+	<region name="Moravskoslezsky" type="region" typeTranslated="kraj">
+		<name normalized="Daerah Moravia-Silesia" languages="Indonesian">Daerah Moravia-Silesia</name>
+		<name normalized="Kraj morawsko-slaski" languages="Polish">Kraj morawsko-śląski</name>
+		<name normalized="Moraavje-Sileezje" languages="Western Frisian">Moraavje-Sileezje</name>
+		<name normalized="Morava-Sileesia maakond" languages="Estonian">Morava-Sileesia maakond</name>
+		<name normalized="Morava-Slezsko" languages="Vietnamese">Morava-Slezsko</name>
+		<name normalized="Moravia-Silesia" languages="English;official">Moravia-Silesia</name>
+		<name normalized="Moravia-Silesia eskualdea" languages="Basque">Moravia-Silesia eskualdea</name>
+		<name normalized="Moravia-Silesia Kraj" languages="English;official">Moravia-Silesia Kraj</name>
+		<name normalized="Moravia-Silesia Region" languages="English;official">Moravia-Silesia Region</name>
+		<name normalized="Moravian-Silesian" languages="Waray">Moravian-Silesian</name>
+		<name normalized="Moravian-Silesian Labuad" languages="Pampanga">Moravian-Silesian Labuad</name>
+		<name normalized="Moravian-Silesian Region" languages="English">Moravian-Silesian Region</name>
+		<name normalized="Moraviasilezia regiono" languages="Esperanto">Moraviasilezia regiono</name>
+		<name normalized="Moravijos-Silezijos krastas" languages="Lithuanian">Moravijos-Silezijos kraštas</name>
+		<name normalized="Moravie-Silezie" languages="Dutch">Moravië-Silezië</name>
+		<name normalized="Moravsko-sliezsky kraj" languages="Slovak">Moravsko-sliezsky kraj</name>
+		<name normalized="Moravsko-sleski kraj" languages="Croatian">Moravsko-šleski kraj</name>
+		<name normalized="Moravskoslezsky" languages="English;official">Moravskoslezsky</name>
+		<name normalized="Moravskoslezsky Kraj" languages="English;official">Moravskoslezsky Kraj</name>
+		<name normalized="Moravskoslezsky Region" languages="English;official">Moravskoslezsky Region</name>
+		<name normalized="Moravskoslezsky kraj" languages="Czech;German">Moravskoslezský kraj</name>
+		<name normalized="Morva-Szileziai kerulet" languages="Hungarian">Morva–Sziléziai kerület</name>
+		<name normalized="Moravia e Silesia" languages="Occitan">Moràvia e Silèsia</name>
+		<name normalized="Moravia-Silesia" languages="Portuguese">Morávia-Silésia</name>
+		<name normalized="Moravijas-Silezijas apgabals" languages="Latvian">Morāvijas-Silēzijas apgabals</name>
+		<name normalized="Mahren-Schlesien" languages="Danish;Norwegian (bokmal);Swedish">Mähren-Schlesien</name>
+		<name normalized="Rannvro Moravia-Silezia" languages="Breton">Rannvro Moravia-Silezia</name>
+		<name normalized="Regione di Moravia-Slesia" languages="Italian">Regione di Moravia-Slesia</name>
+		<name normalized="Regiunea Moravia-Silezia" languages="Romanian">Regiunea Moravia-Silezia</name>
+		<name normalized="Regio de Moravia i Silesia" languages="Catalan">Regió de Moràvia i Silèsia</name>
+		<name normalized="Region de Moravia-Silesia" languages="Spanish">Región de Moravia-Silesia</name>
+		<name normalized="Rexion de Moravia-Silesia" languages="Galician">Rexión de Moravia-Silesia</name>
+		<name normalized="Region de Moravie-Silesie" languages="French">Région de Moravie-Silésie</name>
+		<name normalized="Wilayah Moravia-Silesia" languages="Malay">Wilayah Moravia-Silesia</name>
+		<name normalized="Мoрavo-Сiлizьkiй kрaй" languages="Ukrainian">Мораво-Сілезький край</name>
+		<name normalized="Мoрavсko-сiлizki kрaй" languages="Bulgarian">Моравско-силезки край</name>
+		<name normalized="Мoрavсko-sлiziсki kрaj" languages="Macedonian">Моравско-шлезиски крај</name>
+		<name normalized="Мoрavсko-Sлiсki kрaj" languages="Serbian">Моравско-Шлески крај</name>
+		<name normalized="Мoрavсkoсiлizсkiй kрaй" languages="Russian">Моравскосилезский край</name>
+		<name normalized="mhאfzة mوrאfyא-سyلyزyא" languages="Arabic">محافظة مورافيا-سيليزيا</name>
+		<name normalized="მორავია-სილეზიის მხარე" languages="Georgian">მორავია-სილეზიის მხარე</name>
+		<name normalized="mrvia・srsk州" languages="Japanese">モラヴィア・スレスコ州</name>
+		<name normalized="摩拉維亞-西里西亞州" languages="Chinese">摩拉維亞-西里西亞州</name>
+		<name normalized="모라바슬레스코 주" languages="Korean">모라바슬레스코 주</name>
+	</region>
+	<region name="Olomoucky" type="region" typeTranslated="kraj">
+		<name normalized="Daerah Olomouc" languages="Indonesian">Daerah Olomouc</name>
+		<name normalized="Iuliomontium" languages="Latin">Iuliomontium</name>
+		<name normalized="Kraj olomuniecki" languages="Polish">Kraj ołomuniecki</name>
+		<name normalized="Olmic" languages="Silesian">Olmic</name>
+		<name normalized="Olmutz" languages="German;Hungarian">Olmütz</name>
+		<name normalized="Olomouc" languages="Basque;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Icelandic;Indonesian;Italian;lumbaart;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Piedmontese;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Slovak;Spanish;Swedish;Turkish;Veps;Vietnamese;Volapuk;Waray;Western Frisian">Olomouc</name>
+		<name normalized="Olomouc eskualdea" languages="Basque">Olomouc eskualdea</name>
+		<name normalized="Olomouc Kraj" languages="English;official">Olomouc Kraj</name>
+		<name normalized="Olomouc Labuad" languages="Pampanga">Olomouc Labuad</name>
+		<name normalized="Olomouc Region" languages="English;official">Olomouc Region</name>
+		<name normalized="Olomouca" languages="Latvian">Olomouca</name>
+		<name normalized="Olomoucas" languages="Lithuanian">Olomoucas</name>
+		<name normalized="Olomoucas apgabals" languages="Latvian">Olomoucas apgabals</name>
+		<name normalized="Olomouci kerulet" languages="Hungarian">Olomouci kerület</name>
+		<name normalized="Olomouci maakond" languages="Estonian">Olomouci maakond</name>
+		<name normalized="Olomoucky" languages="English;official">Olomoucky</name>
+		<name normalized="Olomoucky Kraj" languages="English;official">Olomoucky Kraj</name>
+		<name normalized="Olomoucky Region" languages="English;official">Olomoucky Region</name>
+		<name normalized="Olomoucky kraj" languages="Czech;German;Slovak">Olomoucký kraj</name>
+		<name normalized="Olomouco krastas" languages="Lithuanian">Olomouco kraštas</name>
+		<name normalized="Olomouc" languages="Azerbaijani">Olomouç</name>
+		<name normalized="Olomoucki kraj" languages="Croatian">Olomoučki kraj</name>
+		<name normalized="Olomuniec" languages="Polish">Ołomuniec</name>
+		<name normalized="Rannvro Olomouc" languages="Breton">Rannvro Olomouc</name>
+		<name normalized="Regione di Olomouc" languages="Italian">Regione di Olomouc</name>
+		<name normalized="Regiono Olomouc" languages="Esperanto">Regiono Olomouc</name>
+		<name normalized="Regiunea Olomouc" languages="Romanian">Regiunea Olomouc</name>
+		<name normalized="Regio d'Olomouc" languages="Catalan">Regió d'Olomouc</name>
+		<name normalized="Region de Olomouc" languages="Spanish">Región de Olomouc</name>
+		<name normalized="Region d'Olomouc" languages="French">Région d'Olomouc</name>
+		<name normalized="Wilayah Olomouc" languages="Malay">Wilayah Olomouc</name>
+		<name normalized="Wolomuc" languages="Upper Sorbian">Wołomuc</name>
+		<name normalized="Ολομουτς" languages="Greek">Όλομουτς</name>
+		<name normalized="Goрad Oлaмaўt" languages="Belarusian">Горад Оламаўц</name>
+		<name normalized="Oлaмaўt" languages="biлaрuсkai (taрaskivita)‎">Оламаўц</name>
+		<name normalized="Oлoмoutс" languages="Tajik">Оломоутс</name>
+		<name normalized="Oлoмout" languages="Bulgarian;Chechen;Macedonian;Russian;Serbian;Ukrainian">Оломоуц</name>
+		<name normalized="Oлoмoutki kрaй" languages="Bulgarian">Оломоуцки край</name>
+		<name normalized="Oлoмoutki kрaj" languages="Serbian">Оломоуцки крај</name>
+		<name normalized="Oлoмoutkiй kрaй" languages="Russian">Оломоуцкий край</name>
+		<name normalized="Oлoмoutьkiй kрaй" languages="Ukrainian">Оломоуцький край</name>
+		<name normalized="Oлoмoucki kрaj" languages="Macedonian">Оломоучки крај</name>
+		<name normalized="אvדvמvץ" languages="Hebrew">אולומוץ</name>
+		<name normalized="أولوmوtس" languages="Arabic">أولوموتس</name>
+		<name normalized="אولوmوtس" languages="Persian">اولوموتس</name>
+		<name normalized="אولوmوڅ" languages="Pashto">اولوموڅ</name>
+		<name normalized="olomak" languages="Hindi">ओलोमौक</name>
+		<name normalized="ออลอโมตซ์" languages="Thai">ออลอโมตซ์</name>
+		<name normalized="ოლომოუცი" languages="Georgian">ოლომოუცი</name>
+		<name normalized="ოლომოუცის მხარე" languages="Georgian">ოლომოუცის მხარე</name>
+		<name normalized="ormut" languages="Japanese">オロモウツ</name>
+		<name normalized="ormut州" languages="Japanese">オロモウツ州</name>
+		<name normalized="奧洛穆克" languages="Chinese">奧洛穆克</name>
+		<name normalized="奧洛穆克州" languages="Chinese">奧洛穆克州</name>
+		<name normalized="올로모우츠" languages="Korean">올로모우츠</name>
+		<name normalized="올로모우츠 주" languages="Korean">올로모우츠 주</name>
+	</region>
+	<region name="Pardubicky" type="region" typeTranslated="kraj">
+		<name normalized="Daerah Pardubice" languages="Indonesian">Daerah Pardubice</name>
+		<name normalized="Kraj pardubicki" languages="Polish">Kraj pardubicki</name>
+		<name normalized="Pardubice" languages="Basque;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Hungarian;Italian;Latvian;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Polish;Portuguese;Romanian;Serbo-Croatian;Simple English;Slovak;Slovenian;Spanish;Swedish;Vietnamese;Waray">Pardubice</name>
+		<name normalized="Pardubice eskualdea" languages="Basque">Pardubice eskualdea</name>
+		<name normalized="Pardubice Kraj" languages="English;official">Pardubice Kraj</name>
+		<name normalized="Pardubice Labuad" languages="Pampanga">Pardubice Labuad</name>
+		<name normalized="Pardubice maakond" languages="Estonian">Pardubice maakond</name>
+		<name normalized="Pardubice Region" languages="English;official">Pardubice Region</name>
+		<name normalized="Pardubicei kerulet" languages="Hungarian">Pardubicei kerület</name>
+		<name normalized="Pardubices apgabals" languages="Latvian">Pardubices apgabals</name>
+		<name normalized="Pardubiciu krastas" languages="Lithuanian">Pardubicių kraštas</name>
+		<name normalized="Pardubicky" languages="English;official">Pardubicky</name>
+		<name normalized="Pardubicky Kraj" languages="English;official">Pardubicky Kraj</name>
+		<name normalized="Pardubicky Region" languages="English;official">Pardubicky Region</name>
+		<name normalized="Pardubicky kraj" languages="Czech;German;Slovak">Pardubický kraj</name>
+		<name normalized="Pardubicy" languages="Upper Sorbian">Pardubicy</name>
+		<name normalized="Pardubices" languages="Lithuanian">Pardubicės</name>
+		<name normalized="Pardubice" languages="Azerbaijani">Pardubiçe</name>
+		<name normalized="Pardubicki kraj" languages="Croatian">Pardubički kraj</name>
+		<name normalized="Rannvro Pardubice" languages="Breton">Rannvro Pardubice</name>
+		<name normalized="Regione di Pardubice" languages="Italian">Regione di Pardubice</name>
+		<name normalized="Regiono Pardubice" languages="Esperanto">Regiono Pardubice</name>
+		<name normalized="Regiunea Pardubice" languages="Romanian">Regiunea Pardubice</name>
+		<name normalized="Regio de Pardubice" languages="Catalan">Regió de Pardubice</name>
+		<name normalized="Region de Pardubice" languages="Spanish">Región de Pardubice</name>
+		<name normalized="Region de Pardubice" languages="French">Région de Pardubice</name>
+		<name normalized="Wilayah Pardubice" languages="Malay">Wilayah Pardubice</name>
+		<name normalized="Παρντοuμπιτσε" languages="Greek">Παρντούμπιτσε</name>
+		<name normalized="Paрdubitсi" languages="Tajik">Пардубитсе</name>
+		<name normalized="Paрdubiti" languages="Bulgarian;Chechen;Macedonian;Russian;Serbian;Ukrainian">Пардубице</name>
+		<name normalized="Paрdubitki kрaй" languages="Bulgarian">Пардубицки край</name>
+		<name normalized="Paрdubitkiй kрaй" languages="Russian">Пардубицкий край</name>
+		<name normalized="Paрdubitьkiй kрaй" languages="Ukrainian">Пардубицький край</name>
+		<name normalized="Paрdubicki kрaj" languages="Macedonian;Serbian">Пардубички крај</name>
+		<name normalized="prדvbיצh" languages="Hebrew">פרדוביצה</name>
+		<name normalized="bאrدوbytسh" languages="Arabic">باردوبيتسه</name>
+		<name normalized="pאrدوbیtسh" languages="Persian">پاردوبیتسه</name>
+		<name normalized="ปาร์ดูบีตเซ" languages="Thai">ปาร์ดูบีตเซ</name>
+		<name normalized="პარდუბიცე" languages="Georgian">პარდუბიცე</name>
+		<name normalized="პარდუბიცეს მხარე" languages="Georgian">პარდუბიცეს მხარე</name>
+		<name normalized="prdubte" languages="Japanese">パルドゥビツェ</name>
+		<name normalized="prdubte州" languages="Japanese">パルドゥビツェ州</name>
+		<name normalized="帕尔杜比采" languages="Chinese">帕尔杜比采</name>
+		<name normalized="帕爾杜比采州" languages="Chinese">帕爾杜比采州</name>
+		<name normalized="파르두비체" languages="Korean">파르두비체</name>
+		<name normalized="파르두비체 주" languages="Korean">파르두비체 주</name>
+	</region>
+	<region name="Plzensky" type="region" typeTranslated="kraj">
+		<name normalized="Daerah Plzen" languages="Indonesian">Daerah Plzeň</name>
+		<name normalized="Kraj pilznenski" languages="Polish">Kraj pilzneński</name>
+		<name normalized="Pilsen" languages="Basque;Dutch;English;French;German;official;Spanish;Vietnamese;Western Frisian">Pilsen</name>
+		<name normalized="Pilsen eskualdea" languages="Basque">Pilsen eskualdea</name>
+		<name normalized="Pilsen Kraj" languages="English;official">Pilsen Kraj</name>
+		<name normalized="Pilsen Region" languages="English;official">Pilsen Region</name>
+		<name normalized="Pilsna" languages="Latin">Pilsna</name>
+		<name normalized="Pilzen" languages="Low Saxon (Netherlands)">Pilzen</name>
+		<name normalized="Pilzenas" languages="Lithuanian">Pilzenas</name>
+		<name normalized="Pilzeno krastas" languages="Lithuanian">Pilzeno kraštas</name>
+		<name normalized="Pilzen" languages="Upper Sorbian">Pilzeń</name>
+		<name normalized="Pilzno" languages="Javanese;Polish">Pilzno</name>
+		<name normalized="Plzen" languages="Azerbaijani">Plzen</name>
+		<name normalized="Plzensky" languages="English;official">Plzensky</name>
+		<name normalized="Plzensky Kraj" languages="English;official">Plzensky Kraj</name>
+		<name normalized="Plzensky Region" languages="English;official">Plzensky Region</name>
+		<name normalized="Plzensky kraj" languages="Slovak">Plzenský kraj</name>
+		<name normalized="Plzena" languages="Latvian">Plzeņa</name>
+		<name normalized="Plzen" languages="Aragonese;Bosnian;Breton;Catalan;Croatian;Czech;Danish;English;Esperanto;Estonian;Finnish;Galician;Hungarian;Icelandic;Indonesian;Italian;Lower Sorbian;Luxembourgish;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;Pampanga;Picard;Portuguese;Romanian;Scots;Simple English;Slovak;Swedish;Turkish;Uzbek;Vietnamese;Volapuk;Waray">Plzeň</name>
+		<name normalized="Plzen Labuad" languages="Pampanga">Plzeň Labuad</name>
+		<name normalized="Plzen Region" languages="English">Plzeň Region</name>
+		<name normalized="Plzeni kerulet" languages="Hungarian">Plzeňi kerület</name>
+		<name normalized="Plzeni maakond" languages="Estonian">Plzeňi maakond</name>
+		<name normalized="Plzenski kraj" languages="Croatian">Plzeňski kraj</name>
+		<name normalized="Plzensky kraj" languages="Czech;German">Plzeňský kraj</name>
+		<name normalized="Rannvro Plzen" languages="Breton">Rannvro Plzeň</name>
+		<name normalized="Regione di Plzen" languages="Italian">Regione di Plzeň</name>
+		<name normalized="Regiono Plzen" languages="Esperanto">Regiono Plzeň</name>
+		<name normalized="Regiunea Plzen" languages="Romanian">Regiunea Plzeň</name>
+		<name normalized="Regio de Plzen" languages="Catalan">Regió de Plzeň</name>
+		<name normalized="Region de Pilsen" languages="Spanish">Región de Pilsen</name>
+		<name normalized="Region de Plzen" languages="French">Région de Plzeň</name>
+		<name normalized="Wilayah Plzen" languages="Malay">Wilayah Plzeň</name>
+		<name normalized="Πιλζεν" languages="Greek">Πίλζεν</name>
+		<name normalized="Goрad Pльziнь" languages="Belarusian">Горад Пльзень</name>
+		<name normalized="Piлziн" languages="Bulgarian">Пилзен</name>
+		<name normalized="Piлziнсki kрaй" languages="Bulgarian">Пилзенски край</name>
+		<name normalized="Pлziн" languages="Tajik">Плзен</name>
+		<name normalized="Pлzin" languages="Serbian">Плзењ</name>
+		<name normalized="Pлzinсki kрaj" languages="Serbian">Плзењски крај</name>
+		<name normalized="Pльziнсkiй kрaй" languages="Russian">Пльзенский край</name>
+		<name normalized="Pльziнсki kрaй" languages="Belarusian">Пльзенскі край</name>
+		<name normalized="Pльziнсьkiй kрaй" languages="Ukrainian">Пльзенський край</name>
+		<name normalized="Pльziнь" languages="Chechen;Russian;Ukrainian;biлaрuсkai (taрaskivita)‎">Пльзень</name>
+		<name normalized="P'лzin" languages="Macedonian">П’лзењ</name>
+		<name normalized="P'лzinсki kрaj" languages="Macedonian">П’лзењски крај</name>
+		<name normalized="pידזן" languages="Hebrew">פילזן</name>
+		<name normalized="pידזען" languages="Yiddish">פילזען</name>
+		<name normalized="bلزن" languages="Arabic">بلزن</name>
+		<name normalized="pلزن" languages="Pashto;Persian">پلزن</name>
+		<name normalized="peljाin" languages="Marathi">पेलजाईन</name>
+		<name normalized="เปิลเซน" languages="Thai">เปิลเซน</name>
+		<name normalized="პლზენი" languages="Georgian">პლზენი</name>
+		<name normalized="პლზენის მხარე" languages="Georgian">პლზენის მხარე</name>
+		<name normalized="przn" languages="Japanese">プルゼニ</name>
+		<name normalized="przn州" languages="Japanese">プルゼニ州</name>
+		<name normalized="比尔森" languages="Chinese">比尔森</name>
+		<name normalized="比爾森州" languages="Chinese">比爾森州</name>
+		<name normalized="플젠" languages="Korean">플젠</name>
+		<name normalized="플젠 주" languages="Korean">플젠 주</name>
+	</region>
+	<region name="Praha" type="capital city" typeTranslated="capital city">
+		<name normalized="IPraha" languages="Zulu">IPraha</name>
+		<name normalized="Praach" languages="Western Frisian">Praach</name>
+		<name normalized="Praag" languages="Afrikaans;Dutch;Limburgish;Low Saxon (Netherlands);Manx;Seeltersk">Praag</name>
+		<name normalized="Prag" languages="Bavarian;Bosnian;Croatian;Danish;Deitsch;Faroese;German;Haitian;Icelandic;Kurdish;Lingala;Low German;Luxembourgish;Northern Frisian;Old English;Serbo-Croatian;Swedish;Turkish;Veps;Welsh;Wolof;Zazaki">Prag</name>
+		<name normalized="Praga" languages="Albanian;Aragonese;Asturian;Basque;Catalan;Corsican;Extremaduran;Gagauz;Galician;Interlingua;Italian;Kashubian;Ladino;Latin;Ligure;lumbaart;Maltese;Neapolitan;Occitan;Piedmontese;Polish;Portuguese;Romani;Romanian;Sardinian;Sicilian;Silesian;Slovenian;Spanish;Tagalog;Uzbek;veneto;Waray">Praga</name>
+		<name normalized="pragas" languages="Lojban">pragas</name>
+		<name normalized="Praghe" languages="tarandine">Praghe</name>
+		<name normalized="Prago" languages="Esperanto">Prago</name>
+		<name normalized="Prague" languages="Akan;Bislama;English;Ewe;Fiji Hindi;French;Kongo;Maori;Nouormand;official;Pampanga;Picard;Scots;Shona;Simple English;Yoruba">Prague</name>
+		<name normalized="Praha" languages="Breton;Chinese (Min Nan);Cornish;Czech;English;Estonian;Finnish;Ido;Indonesian;Interlingue;Javanese;Kalaallisut;Lithuanian;Lower Sorbian;Malay;Nahuatl;Nauru;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Quechua;Samogitian;Slovak;Swahili;Upper Sorbian;Vietnamese;Volapuk;Voro">Praha</name>
+		<name normalized="Praqa" languages="Azerbaijani">Praqa</name>
+		<name normalized="Prag" languages="Scottish Gaelic">Pràg</name>
+		<name normalized="Prag" languages="Irish">Prág</name>
+		<name normalized="Praga" languages="Hungarian">Prága</name>
+		<name normalized="Praga" languages="Latvian">Prāga</name>
+		<name normalized="Πραγα" languages="Greek">Πράγα</name>
+		<name normalized="Goрad Pрaga" languages="Belarusian">Горад Прага</name>
+		<name normalized="Pрag" languages="Serbian">Праг</name>
+		<name normalized="Pрagae" languages="Ossetic">Прагæ</name>
+		<name normalized="Pрaga" languages="Bulgarian;Chechen;Church Slavic;Chuvash;Karachay-Balkar;Kazakh;Komi;Kyrgyz;Macedonian;Moksha;Mongolian;Russian;Sakha;Tajik;Tatar;Udmurt;Ukrainian;biлaрuсkai (taрaskivita)‎">Прага</name>
+		<name normalized="Pрagi" languages="Eastern Mari">Праге</name>
+		<name normalized="Prաhա" languages="Armenian">Պրահա</name>
+		<name normalized="prאג" languages="Hebrew;Yiddish">פראג</name>
+		<name normalized="brאj" languages="Egyptian Spoken Arabic">براج</name>
+		<name normalized="brאغ" languages="Arabic">براغ</name>
+		<name normalized="prאg" languages="Mazanderani;Pashto;Persian;Sorani Kurdish;Urdu;Western Punjabi">پراگ</name>
+		<name normalized="prאgא" languages="Uyghur">پراگا</name>
+		<name normalized="ܦܪܐܓ" languages="Aramaic">ܦܪܐܓ</name>
+		<name normalized="p्rाg" languages="Hindi;Marathi;Newari">प्राग</name>
+		<name normalized="p্rাg" languages="Bengali">প্রাগ</name>
+		<name normalized="p੍rਾg" languages="Punjabi">ਪ੍ਰਾਗ</name>
+		<name normalized="பிராகா" languages="Tamil">பிராகா</name>
+		<name normalized="ಪ್ರಾಗ್" languages="Kannada">ಪ್ರಾಗ್</name>
+		<name normalized="പ്രാഗ്" languages="Malayalam">പ്രാഗ്</name>
+		<name normalized="ปราก" languages="Thai">ปราก</name>
+		<name normalized="པུ་ལ་ཁེ།" languages="Tibetan">པུ་ལ་ཁེ།</name>
+		<name normalized="ပရက်ဂ်မြို့" languages="Burmese">ပရက်ဂ်မြို့</name>
+		<name normalized="პრაღა" languages="Georgian;Mingrelian">პრაღა</name>
+		<name normalized="ፕራግ" languages="Amharic">ፕራግ</name>
+		<name normalized="ទីក្រុងប្រាក" languages="Khmer">ទីក្រុងប្រាក</name>
+		<name normalized="prh" languages="Japanese">プラハ</name>
+		<name normalized="布拉格" languages="Cantonese;Chinese;Classical Chinese">布拉格</name>
+		<name normalized="프라하" languages="Korean">프라하</name>
+	</region>
+	<region name="Stredocesky" type="region" typeTranslated="kraj">
+		<name normalized="Boemia centrale" languages="Italian">Boemia centrale</name>
+		<name normalized="Bohemia Central" languages="Galician">Bohemia Central</name>
+		<name normalized="Boheme centrale" languages="French">Bohême centrale</name>
+		<name normalized="Boemia Centrala" languages="Occitan">Boèmia Centrala</name>
+		<name normalized="Boemia Central" languages="Portuguese">Boêmia Central</name>
+		<name normalized="Butnga nga Bohemia" languages="Waray">Butnga nga Bohemia</name>
+		<name normalized="Central Bohemia" languages="English;official">Central Bohemia</name>
+		<name normalized="Central Bohemia Kraj" languages="English;official">Central Bohemia Kraj</name>
+		<name normalized="Central Bohemia Region" languages="English;official">Central Bohemia Region</name>
+		<name normalized="Central Bohemian Region" languages="English">Central Bohemian Region</name>
+		<name normalized="Centralbohmen" languages="Danish">Centralbøhmen</name>
+		<name normalized="Daerah Bohemia Tengah" languages="Indonesian">Daerah Bohemia Tengah</name>
+		<name normalized="Erdialdeko Bohemia" languages="Basque">Erdialdeko Bohemia</name>
+		<name normalized="Kalibudtang Bohemian Labuad" languages="Pampanga">Kalibudtang Bohemian Labuad</name>
+		<name normalized="Kesk-Tsehhi maakond" languages="Estonian">Kesk-Tšehhi maakond</name>
+		<name normalized="Keski-Boomin laani" languages="Finnish">Keski-Böömin lääni</name>
+		<name normalized="Kraj srodkowoczeski" languages="Polish">Kraj środkowoczeski</name>
+		<name normalized="Kozep-Csehorszagi kerulet" languages="Hungarian">Közép-Csehországi kerület</name>
+		<name normalized="Mellersta Bohmen" languages="Swedish">Mellersta Böhmen</name>
+		<name normalized="Mezbohemia regiono" languages="Esperanto">Mezbohemia regiono</name>
+		<name normalized="Midden-Bohemen" languages="Dutch">Midden-Bohemen</name>
+		<name normalized="Rannvro Kreiz Bohemia" languages="Breton">Rannvro Kreiz Bohemia</name>
+		<name normalized="Regiunea Boemia Centrala" languages="Romanian">Regiunea Boemia Centrală</name>
+		<name normalized="Regio de Bohemia Central" languages="Catalan">Regió de Bohèmia Central</name>
+		<name normalized="Region de Bohemia Central" languages="Spanish">Región de Bohemia Central</name>
+		<name normalized="Sentralbohmen" languages="Norwegian (bokmal)">Sentralböhmen</name>
+		<name normalized="Sredisnja Ceska" languages="Croatian">Središnja Češka</name>
+		<name normalized="Srednjoceski kraj" languages="Bosnian">Srednjočeški kraj</name>
+		<name normalized="Stredocesky" languages="English;official">Stredocesky</name>
+		<name normalized="Stredocesky Kraj" languages="English;official">Stredocesky Kraj</name>
+		<name normalized="Stredocesky Region" languages="English;official">Stredocesky Region</name>
+		<name normalized="Stredocesky kraj" languages="Slovak">Stredočeský kraj</name>
+		<name normalized="Stredocesky kraj" languages="Czech;German;Northern Frisian">Středočeský kraj</name>
+		<name normalized="Vidurio Cekijos krastas" languages="Lithuanian">Vidurio Čekijos kraštas</name>
+		<name normalized="Wilayah Bohemia Tengah" languages="Malay">Wilayah Bohemia Tengah</name>
+		<name normalized="Cechy Trung" languages="Vietnamese">Čechy Trung</name>
+		<name normalized="Срidнicisсkiй kрaй" languages="Russian">Среднечешский край</name>
+		<name normalized="Срidнobokiмсki kрaй" languages="Bulgarian">Среднобохемски край</name>
+		<name normalized="Срidнociski kрaj" languages="Macedonian">Средночешки крај</name>
+		<name normalized="Срidnociski kрaj" languages="Serbian">Средњочешки крај</name>
+		<name normalized="Tiнtрaльнociсьkiй kрaй" languages="Ukrainian">Центральночеський край</name>
+		<name normalized="ცენტრალური ბოჰემიის მხარე" languages="Georgian">ცენტრალური ბოჰემიის მხარე</name>
+		<name normalized="中央bhma州" languages="Japanese">中央ボヘミア州</name>
+		<name normalized="中波希米亚州" languages="Chinese">中波希米亚州</name>
+		<name normalized="중앙보헤미아 주" languages="Korean">중앙보헤미아 주</name>
+	</region>
+	<region name="Ustecky" type="region" typeTranslated="kraj">
+		<name normalized="Ustecky" languages="English;official">Ustecky</name>
+		<name normalized="Ustecky Kraj" languages="English;official">Ustecky Kraj</name>
+		<name normalized="Ustecky Region" languages="English;official">Ustecky Region</name>
+		<name normalized="Usti" languages="English;official">Usti</name>
+		<name normalized="Usti Kraj" languages="English;official">Usti Kraj</name>
+		<name normalized="Usti nad Labem" languages="Azerbaijani">Usti nad Labem</name>
+		<name normalized="Usti Region" languages="English;official">Usti Region</name>
+		<name normalized="Uscie nad Laba" languages="Polish">Uście nad Łabą</name>
+		<name normalized="Wusce" languages="Upper Sorbian">Wusće</name>
+		<name normalized="Usti na Labi" languages="Croatian">Ústí na Labi</name>
+		<name normalized="Usti nad Labem" languages="Basque;Catalan;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Hungarian;Indonesian;Italian;Malay;Norwegian (bokmal);Norwegian Nynorsk;Pampanga;Portuguese;Romanian;Slovak;Spanish;Swedish;Turkish;Vietnamese;Waray">Ústí nad Labem</name>
+		<name normalized="Ustis prie Labes" languages="Lithuanian">Ūstis prie Labės</name>
+		<name normalized="Οuστι ναντ Λαμπεμ" languages="Greek">Ούστι ναντ Λάμπεμ</name>
+		<name normalized="Goрad Uсti-нad-Лabiм" languages="Belarusian">Горад Усці-над-Лабем</name>
+		<name normalized="Uсti нad Лaba" languages="Macedonian">Усти над Лаба</name>
+		<name normalized="Uсti нad Лabi" languages="Bulgarian">Усти над Лабе</name>
+		<name normalized="Uсti нad Лaboм" languages="Serbian">Усти над Лабом</name>
+		<name normalized="Uсti-нad-Лabiм" languages="Chechen;Russian;Tajik">Усти-над-Лабем</name>
+		<name normalized="Uсti-нad-Лabiм" languages="Ukrainian">Усті-над-Лабем</name>
+		<name normalized="אvסtי nד דbם" languages="Hebrew">אוסטי נד לבם</name>
+		<name normalized="אوسtی نאد لאbm" languages="Persian">اوستی ناد لابم</name>
+		<name normalized="อุตตีนัดลาเบม" languages="Thai">อุตตีนัดลาเบม</name>
+		<name normalized="უსტი-ნად-ლაბემი" languages="Georgian">უსტი-ნად-ლაბემი</name>
+		<name normalized="uーstー・nd・rbm" languages="Japanese">ウースチー・ナド・ラベム</name>
+		<name normalized="拉贝河畔乌斯季" languages="Chinese">拉贝河畔乌斯季</name>
+		<name normalized="우스티나트라벰" languages="Korean">우스티나트라벰</name>
+	</region>
+	<region name="Vysocina" type="region" typeTranslated="kraj">
+		<name normalized="Augstiene" languages="Latvian">Augstiene</name>
+		<name normalized="Aukstuma" languages="Lithuanian">Aukštuma</name>
+		<name normalized="Daerah Vysocina" languages="Indonesian">Daerah Vysočina</name>
+		<name normalized="Hieland" languages="Scots">Hieland</name>
+		<name normalized="Highland" languages="English">Highland</name>
+		<name normalized="Highlands" languages="Alemannisch;English;official">Highlands</name>
+		<name normalized="Highlands Kraj" languages="English;official">Highlands Kraj</name>
+		<name normalized="Highlands Region" languages="English;official">Highlands Region</name>
+		<name normalized="Hochland" languages="German">Hochland</name>
+		<name normalized="Hoogvlakte" languages="Dutch">Hoogvlakte</name>
+		<name normalized="Halendi" languages="Icelandic">Hálendi</name>
+		<name normalized="Hogland" languages="Swedish">Högland</name>
+		<name normalized="Hogland" languages="Norwegian Nynorsk">Høgland</name>
+		<name normalized="Hojland" languages="Danish">Højland</name>
+		<name normalized="Kraj Vysocina" languages="Czech;German;Polish;Slovak">Kraj Vysočina</name>
+		<name normalized="Magismaa" languages="Estonian">Mägismaa</name>
+		<name normalized="Paltok" languages="Tagalog">Paltok</name>
+		<name normalized="Rannvro Vysocina" languages="Breton">Rannvro Vysočina</name>
+		<name normalized="Region Pegunungan" languages="Indonesian">Region Pegunungan</name>
+		<name normalized="Regione delle Terre Alte" languages="Italian">Regione delle Terre Alte</name>
+		<name normalized="Regione di Vysocina" languages="Italian">Regione di Vysočina</name>
+		<name normalized="Regiono Vysocina" languages="Esperanto">Regiono Vysočina</name>
+		<name normalized="Regiunea Vysocina" languages="Romanian">Regiunea Vysočina</name>
+		<name normalized="Regiao das Terras Altas" languages="Portuguese">Região das Terras Altas</name>
+		<name normalized="Regio de Vysocina" languages="Catalan">Regió de Vysočina</name>
+		<name normalized="Region de las Tierras Altas" languages="Spanish">Región de las Tierras Altas</name>
+		<name normalized="Region de Vysocina" languages="Spanish">Región de Vysočina</name>
+		<name normalized="Region de Vysocina" languages="French">Région de Vysočina</name>
+		<name normalized="Region des Hautes-Terres" languages="French">Région des Hautes-Terres</name>
+		<name normalized="Terras altas" languages="Portuguese">Terras altas</name>
+		<name normalized="Vysocina" languages="Basque;English;official">Vysocina</name>
+		<name normalized="Vysocina Kraj" languages="English;official">Vysocina Kraj</name>
+		<name normalized="Vysocina Region" languages="English;official">Vysocina Region</name>
+		<name normalized="Vysocina" languages="Croatian;Czech;Danish;Dutch;English;Estonian;German;Norwegian (bokmal);Occitan;Portuguese;Slovak;Swedish;Vietnamese;Waray">Vysočina</name>
+		<name normalized="Vysocina kerulet" languages="Hungarian">Vysočina kerület</name>
+		<name normalized="Vysocina Labuad" languages="Pampanga">Vysočina Labuad</name>
+		<name normalized="Vysocina Region" languages="English">Vysočina Region</name>
+		<name normalized="Vysocinos krastas" languages="Lithuanian">Vysočinos kraštas</name>
+		<name normalized="Wilayah Vysocina" languages="Malay">Wilayah Vysočina</name>
+		<name normalized="Wyzyna" languages="Polish">Wyżyna</name>
+		<name normalized="Υψιπεδο" languages="Greek">Υψίπεδο</name>
+		<name normalized="Χαιλαντς" languages="Greek">Χάιλαντς</name>
+		<name normalized="Viсociнa" languages="Ukrainian">Височина</name>
+		<name normalized="Viсociнсki kрaй" languages="Bulgarian">Височински край</name>
+		<name normalized="Viсociнсki kрaj" languages="Macedonian">Височински крај</name>
+		<name normalized="Vысacынa" languages="Belarusian">Высачына</name>
+		<name normalized="Vысociнa" languages="Russian">Высочина</name>
+		<name normalized="Vысociнa iнe" languages="Chuvash">Высочина енĕ</name>
+		<name normalized="Gaйлiнdс" languages="Ukrainian">Гайлендс</name>
+		<name normalized="Kрaй Viсociнa" languages="Ukrainian">Край Височіна</name>
+		<name normalized="Kрaй Vысacынa" languages="Belarusian">Край Высачына</name>
+		<name normalized="Kрaй Vысociнa" languages="Russian">Край Высочина</name>
+		<name normalized="Kрaj Viсociнa" languages="Serbian">Крај Височина</name>
+		<name normalized="Нagoрьi" languages="Russian">Нагорье</name>
+		<name normalized="Pлaнiнсka ziмi" languages="Bulgarian">Планинска земя</name>
+		<name normalized="Pлaнiнсki рigioн" languages="Macedonian">Планински регион</name>
+		<name normalized="Uzvыssa" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Узвышша</name>
+		<name normalized="Kaйлiнdс" languages="Russian">Хайлендс</name>
+		<name normalized="אسtאن ویسوچینא" languages="Persian">استان ویسوچینا</name>
+		<name normalized="mrtfعאt" languages="Arabic">مرتفعات</name>
+		<name normalized="نאhیh אrtfאعאt" languages="Persian">ناحیه ارتفاعات</name>
+		<name normalized="ഉന്നതമേഖല" languages="Malayalam">ഉന്നതമേഖല</name>
+		<name normalized="ვისოჩინის მხარე" languages="Georgian">ვისოჩინის მხარე</name>
+		<name normalized="ზუკი" languages="Mingrelian">ზუკი</name>
+		<name normalized="მაღლობი" languages="Georgian">მაღლობი</name>
+		<name normalized="vistn州" languages="Japanese">ヴィソチナ州</name>
+		<name normalized="台地" languages="Chinese">台地</name>
+		<name normalized="山岳地方" languages="Japanese">山岳地方</name>
+		<name normalized="維索基納州" languages="Chinese">維索基納州</name>
+		<name normalized="高地" languages="Japanese">高地</name>
+		<name normalized="고지" languages="Korean">고지</name>
+		<name normalized="비소치나 주" languages="Korean">비소치나 주</name>
+	</region>
+	<region name="Zlinsky" type="region" typeTranslated="kraj">
+		<name normalized="Daerah Zlin" languages="Indonesian">Daerah Zlín</name>
+		<name normalized="Kraj zlinski" languages="Polish">Kraj zliński</name>
+		<name normalized="Rannvro Zlin" languages="Breton">Rannvro Zlín</name>
+		<name normalized="Regione di Zlin" languages="Italian">Regione di Zlín</name>
+		<name normalized="Regiono Zlin" languages="Esperanto">Regiono Zlín</name>
+		<name normalized="Regiunea Zlin" languages="Romanian">Regiunea Zlín</name>
+		<name normalized="Regio de Zlin" languages="Catalan">Regió de Zlín</name>
+		<name normalized="Region de Zlin" languages="Spanish">Región de Zlín</name>
+		<name normalized="Region de Zlin" languages="French">Région de Zlín</name>
+		<name normalized="Wilayah Zlin" languages="Malay">Wilayah Zlín</name>
+		<name normalized="Zlin" languages="Azerbaijani;English;official;Polish">Zlin</name>
+		<name normalized="Zlin Kraj" languages="English;official">Zlin Kraj</name>
+		<name normalized="Zlin Region" languages="English;official">Zlin Region</name>
+		<name normalized="Zlinsky" languages="English;official">Zlinsky</name>
+		<name normalized="Zlinsky Kraj" languages="English;official">Zlinsky Kraj</name>
+		<name normalized="Zlinsky Region" languages="English;official">Zlinsky Region</name>
+		<name normalized="Zlynas" languages="Lithuanian">Zlynas</name>
+		<name normalized="Zlyno krastas" languages="Lithuanian">Zlyno kraštas</name>
+		<name normalized="Zlin" languages="Basque;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Hungarian;Italian;Kurdish;lumbaart;Malay;Norwegian (bokmal);Norwegian Nynorsk;Occitan;Portuguese;Romanian;Simple English;Slovak;Slovenian;Spanish;Swedish;Turkish;Vietnamese;Waray">Zlín</name>
+		<name normalized="Zlin eskualdea" languages="Basque">Zlín eskualdea</name>
+		<name normalized="Zlin Labuad" languages="Pampanga">Zlín Labuad</name>
+		<name normalized="Zlin Region" languages="English">Zlín Region</name>
+		<name normalized="Zlini kerulet" languages="Hungarian">Zlíni kerület</name>
+		<name normalized="Zlini maakond" languages="Estonian">Zlíni maakond</name>
+		<name normalized="Zlinski kraj" languages="Croatian">Zlínski kraj</name>
+		<name normalized="Zlinsky kraj" languages="Slovak">Zlínsky kraj</name>
+		<name normalized="Zlinsky kraj" languages="Czech;German">Zlínský kraj</name>
+		<name normalized="Zlina" languages="Latvian">Zlīna</name>
+		<name normalized="Ζλιν" languages="Greek">Ζλιν</name>
+		<name normalized="Goрad Zлiн" languages="Belarusian">Горад Злін</name>
+		<name normalized="Zлiн" languages="Bulgarian;Chechen;Macedonian;Russian;Serbian">Злин</name>
+		<name normalized="Zлiнсki kрaй" languages="Bulgarian">Злински край</name>
+		<name normalized="Zлiнсki kрaj" languages="Macedonian;Serbian">Злински крај</name>
+		<name normalized="Zлiнсkiй kрaй" languages="Russian">Злинский край</name>
+		<name normalized="Zлiн" languages="Ukrainian">Злін</name>
+		<name normalized="Zлiнсьkiй kрaй" languages="Ukrainian">Злінський край</name>
+		<name normalized="Zьлiн" languages="biлaрuсkai (taрaskivita)‎">Зьлін</name>
+		<name normalized="זדין" languages="Hebrew">זלין</name>
+		<name normalized="زلyن" languages="Arabic">زلين</name>
+		<name normalized="زلین" languages="Persian">زلین</name>
+		<name normalized="ზლინი" languages="Georgian">ზლინი</name>
+		<name normalized="ზლინის მხარე" languages="Georgian">ზლინის მხარე</name>
+		<name normalized="zrーn" languages="Japanese">ズリーン</name>
+		<name normalized="zrーn州" languages="Japanese">ズリーン州</name>
+		<name normalized="兹林" languages="Chinese">兹林</name>
+		<name normalized="兹林州" languages="Chinese">兹林州</name>
+		<name normalized="즐린" languages="Korean">즐린</name>
+		<name normalized="즐린 주" languages="Korean">즐린 주</name>
+	</region>
+</regions>

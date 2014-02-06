@@ -1,0 +1,1280 @@
+<regions country="China">
+	<region name="Anhui" type="province" typeTranslated="sheng">
+		<name normalized="An Huy" languages="Vietnamese">An Huy</name>
+		<name normalized="An-chuej" languages="Czech;Slovak">An-chuej</name>
+		<name normalized="An-hui-seng" languages="Chinese (Min Nan)">An-hui-séng</name>
+		<name normalized="Anhoui" languages="Walloon">Anhoui</name>
+		<name normalized="Anhoy" languages="Azerbaijani">Anhoy</name>
+		<name normalized="Anhui" languages="Achinese;Afrikaans;Basque;Bosnian;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Indonesian;Interlingua;Irish;Italian;Kongo;Lithuanian;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;veneto;Waray;Welsh">Anhui</name>
+		<name normalized="Anhui Province" languages="English;official">Anhui Province</name>
+		<name normalized="Anhui pruwinsya" languages="Quechua">Anhui pruwinsya</name>
+		<name normalized="Anhui Sheng" languages="English;official">Anhui Sheng</name>
+		<name normalized="Anhuj" languages="Hungarian">Anhuj</name>
+		<name normalized="Anhujo" languages="Esperanto">Anhujo</name>
+		<name normalized="Anhui" languages="Latvian">Aņhui</name>
+		<name normalized="On-fui-sen" languages="Hakka">Ôn-fui-sén</name>
+		<name normalized="Ang-hui" languages="Min Dong Chinese">Ăng-hŭi</name>
+		<name normalized="Ανχουι" languages="Greek">Ανχουί</name>
+		<name normalized="Aнkuiй" languages="Bulgarian">Анхуей</name>
+		<name normalized="Aнkuij" languages="Serbian">Анхуеј</name>
+		<name normalized="Aньkoй" languages="Kazakh;Russian;Ukrainian">Аньхой</name>
+		<name normalized="Aньkuй мuz" languages="Mongolian">Аньхуй муж</name>
+		<name normalized="Pрaviнtыi Aньkoй" languages="Belarusian">Правінцыя Аньхой</name>
+		<name normalized="אnhvvי" languages="Hebrew">אנחווי</name>
+		<name normalized="آنhوy" languages="Arabic">آنهوي</name>
+		<name normalized="آن‌hوئی" languages="Persian">آن‌هوئی</name>
+		<name normalized="ئەنخۇy ئۆلkىسى" languages="Uyghur">ئەنخۇي ئۆلكىسى</name>
+		<name normalized="אنہوئی" languages="Western Punjabi">انہوئی</name>
+		<name normalized="anhui" languages="Hindi">अनहुइ</name>
+		<name normalized="aंh्vi" languages="Marathi">आंह्वी</name>
+		<name normalized="அன்ஹுயி மாகாணம்" languages="Tamil">அன்ஹுயி மாகாணம்</name>
+		<name normalized="มณฑลอานฮุย" languages="Thai">มณฑลอานฮุย</name>
+		<name normalized="ཨན་ཧུའེ་ཞིང་ཆེན།" languages="Tibetan">ཨན་ཧུའེ་ཞིང་ཆེན།</name>
+		<name normalized="အန်းဟွေးပြည်နယ်" languages="Burmese">အန်းဟွေးပြည်နယ်</name>
+		<name normalized="ანხოი" languages="Georgian">ანხოი</name>
+		<name normalized="安徽" languages="Cantonese;Gan">安徽</name>
+		<name normalized="安徽省" languages="Chinese;Classical Chinese;Japanese;Wu">安徽省</name>
+		<name normalized="안후이 성" languages="Korean">안후이 성</name>
+	</region>
+	<region name="Beijing" type="municipality" typeTranslated="shi">
+		<name normalized="Baekging" languages="Zhuang">Baekging</name>
+		<name normalized="Beicing" languages="Old English">Beicing</name>
+		<name normalized="beidjin" languages="Lojban">beidjin</name>
+		<name normalized="Beijing" languages="Achinese;Afrikaans;Breton;Cornish;Danish;Deitsch;English;Faroese;Fiji Hindi;Hawaiian;Icelandic;Ido;Iloko;Indonesian;Interlingua;Interlingue;Javanese;Kalaallisut;Kongo;Kurdish;Malagasy;Malay;Manx;Maori;Minangkabau;Nauru;Norfuk / Pitkern;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Romanian;Sardinian;Scots;Scottish Gaelic;Shona;Simple English;Somali;Sranan Tongo;Sundanese;Swahili;Tok Pisin;Waray;Welsh;Yoruba">Beijing</name>
+		<name normalized="Bejdzing" languages="Silesian">Bejdżing</name>
+		<name normalized="Bejing" languages="Papiamento">Bejing</name>
+		<name normalized="Beyjing" languages="Novial">Beyjing</name>
+		<name normalized="Bae¨k-ging" languages="Min Dong Chinese">Báe̤k-gĭng</name>
+		<name normalized="Beising" languages="Irish">Béising</name>
+		<name normalized="Bac Kinh" languages="Vietnamese">Bắc Kinh</name>
+		<name normalized="Pak-kian-chhi" languages="Chinese (Min Nan)">Pak-kiaⁿ-chhī</name>
+		<name normalized="Pechin" languages="Ligure;lumbaart;Piedmontese">Pechin</name>
+		<name normalized="Pechine" languages="tarandine">Pechine</name>
+		<name normalized="Pechino" languages="Italian">Pechino</name>
+		<name normalized="Pechinu" languages="Sicilian">Pechinu</name>
+		<name normalized="Pechinum" languages="Latin">Pechinum</name>
+		<name normalized="Peken" languages="Haitian">Peken</name>
+		<name normalized="Pekin" languages="Aymara;Azerbaijani;Basque;Bikol Central;Cebuano;Crimean Turkish;Kabyle;Polish;Turkish;Turkmen;Uzbek;Walloon;Zazaki">Pekin</name>
+		<name normalized="Pekina" languages="Latvian">Pekina</name>
+		<name normalized="Pekinas" languages="Lithuanian">Pekinas</name>
+		<name normalized="Peking" languages="Alemannisch;Bavarian;Bosnian;Croatian;Czech;Dutch;Estonian;Finnish;German;Hungarian;Ladino;Lower Sorbian;Luxembourgish;Northern Sami;Seeltersk;Serbo-Croatian;Slovak;Slovenian;Swedish;Upper Sorbian;Voro;Western Frisian;Zeeuws">Peking</name>
+		<name normalized="Pekini" languages="Albanian">Pekini</name>
+		<name normalized="Pekino" languages="Esperanto">Pekino</name>
+		<name normalized="Pekin" languages="Chavacano de Zamboanga;Spanish;Tagalog">Pekín</name>
+		<name normalized="Pekens" languages="Samogitian">Pekėns</name>
+		<name normalized="Peki" languages="Guarani">Pekĩ</name>
+		<name normalized="Pequim" languages="Portuguese">Pequim</name>
+		<name normalized="Pequin" languages="Mirandese;Nahuatl;Occitan">Pequin</name>
+		<name normalized="Pequin" languages="Aragonese;Asturian;Catalan;Extremaduran;Galician">Pequín</name>
+		<name normalized="Pet-kin" languages="Hakka">Pet-kîn</name>
+		<name normalized="Pikkin" languages="Quechua">Pikkin</name>
+		<name normalized="Pequin" languages="Franco-Provencal">Pèquin</name>
+		<name normalized="Pekin" languages="French">Pékin</name>
+		<name normalized="Pequin" languages="Nouormand">Péqùin</name>
+		<name normalized="Peycing" languages="Banjar">Péycing</name>
+		<name normalized="Πεκινο" languages="Greek">Πεκίνο</name>
+		<name normalized="Biйziң" languages="Kazakh">Бейжің</name>
+		<name normalized="Beeziн" languages="Mongolian;buрiad">Бээжин</name>
+		<name normalized="Bəəzң baлһсн" languages="Kalmyk">Бәәҗң балһсн</name>
+		<name normalized="Goрad Pikiн" languages="Belarusian">Горад Пекін</name>
+		<name normalized="Pikiн" languages="Bashkir;Bulgarian;Chechen;Chuvash;Eastern Mari;Komi;Lezghian;Ossetic;Russian;Sakha;Tajik">Пекин</name>
+		<name normalized="Pikiнg" languages="Macedonian;Serbian">Пекинг</name>
+		<name normalized="Pikiн" languages="Ukrainian">Пекін</name>
+		<name normalized="Pikiнґ" languages="Rusyn">Пекінґ</name>
+		<name normalized="Pekiн" languages="biлaрuсkai (taрaskivita)‎">Пэкін</name>
+		<name normalized="Kaнbaлыk" languages="Tatar">Ханбалык</name>
+		<name normalized="Pեkին" languages="Armenian">Պեկին</name>
+		<name normalized="bייג'יnג" languages="Hebrew">בייג'ינג</name>
+		<name normalized="bייזשיnג" languages="Yiddish">בייזשינג</name>
+		<name normalized="bkyن" languages="Arabic">بكين</name>
+		<name normalized="bykyن" languages="Egyptian Spoken Arabic">بيكين</name>
+		<name normalized="bیjنg" languages="Urdu;Western Punjabi">بیجنگ</name>
+		<name normalized="bېjنg" languages="Pashto">بېجنگ</name>
+		<name normalized="bېyjىڭ شەھىrى" languages="Uyghur">بېيجىڭ شەھىرى</name>
+		<name normalized="pکن" languages="Mazanderani;Persian">پکن</name>
+		<name normalized="pێکەن" languages="Sorani Kurdish">پێکەن</name>
+		<name normalized="ބީޖިންގ" languages="Divehi">ބީޖިންގ</name>
+		<name normalized="bijiंg" languages="Hindi;Marathi">बीजिंग</name>
+		<name normalized="bijiङ्g्" languages="Sanskrit">बीजिङ्ग्</name>
+		<name normalized="beijiङ" languages="Nepali;Newari">बेइजिङ</name>
+		<name normalized="beijiং" languages="Bengali;Bishnupria Manipuri">বেইজিং</name>
+		<name normalized="bijiੰg" languages="Punjabi">ਬੀਜਿੰਗ</name>
+		<name normalized="beijiંg" languages="Gujarati">બેઇજિંગ</name>
+		<name normalized="ବେଜିଂ" languages="Oriya">ବେଜିଂ</name>
+		<name normalized="பெய்ஜிங்" languages="Tamil">பெய்ஜிங்</name>
+		<name normalized="బీజింగ్" languages="Telugu">బీజింగ్</name>
+		<name normalized="ಬೀಜಿಂಗ್" languages="Kannada">ಬೀಜಿಂಗ್</name>
+		<name normalized="ബെയ്‌ജിങ്ങ്‌" languages="Malayalam">ബെയ്‌ജിങ്ങ്‌</name>
+		<name normalized="බෙයිජිං" languages="Sinhala">බෙයිජිං</name>
+		<name normalized="ปักกิ่ง" languages="Thai">ปักกิ่ง</name>
+		<name normalized="ປັກກິ່ງ" languages="Lao">ປັກກິ່ງ</name>
+		<name normalized="པེ་ཅིང་གྲོང་ཁྱེར།" languages="Tibetan">པེ་ཅིང་གྲོང་ཁྱེར།</name>
+		<name normalized="ပေကျင်းမြို့" languages="Burmese">ပေကျင်းမြို့</name>
+		<name normalized="პეკინი" languages="Georgian;Mingrelian">პეკინი</name>
+		<name normalized="ቤዪጂንግ" languages="Amharic">ቤዪጂንግ</name>
+		<name normalized="ប៉េកាំង" languages="Khmer">ប៉េកាំង</name>
+		<name normalized="北京" languages="Cantonese;Gan;Wu">北京</name>
+		<name normalized="北京市" languages="Chinese;Classical Chinese;Japanese">北京市</name>
+		<name normalized="베이징 시" languages="Korean">베이징 시</name>
+	</region>
+	<region name="Chongqing" type="municipality" typeTranslated="shi">
+		<name normalized="Chongqing" languages="Achinese;Asturian;Basque;Cornish;Croatian;Danish;Dutch;English;Finnish;French;Galician;German;Icelandic;Indonesian;Irish;Italian;Kalaallisut;Kongo;Malay;Manx;Maori;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Quechua;Romanian;Scots;Seeltersk;Serbo-Croatian;Simple English;Spanish;Swedish;Tagalog;Waray;Welsh">Chongqing</name>
+		<name normalized="Chongqing Shi" languages="Estonian">Chongqing Shi</name>
+		<name normalized="Csungking" languages="Hungarian">Csungking</name>
+		<name normalized="Tiong-kheng-chhi" languages="Chinese (Min Nan)">Tiōng-khèng-chhī</name>
+		<name normalized="Trung Khanh" languages="Vietnamese">Trùng Khánh</name>
+		<name normalized="Tshung-khin" languages="Hakka">Tshùng-khin</name>
+		<name normalized="Tsjongtsjing" languages="Afrikaans">Tsjongtsjing</name>
+		<name normalized="Txungking" languages="Catalan">Txungking</name>
+		<name normalized="Congcing" languages="Turkish">Çongçing</name>
+		<name normalized="Congcingo" languages="Esperanto">Ĉongĉingo</name>
+		<name normalized="Cchung-cching" languages="Czech">Čchung-čching</name>
+		<name normalized="Congcingas" languages="Lithuanian">Čongčingas</name>
+		<name normalized="Cuncjina" languages="Latvian">Čuncjina</name>
+		<name normalized="Τσονγκινγκ" languages="Greek">Τσονγκίνγκ</name>
+		<name normalized="Cuнgkiнg" languages="Serbian">Чунгкинг</name>
+		<name normalized="Cuнtiн" languages="Bulgarian;Chechen;Eastern Mari;Mongolian;Russian">Чунцин</name>
+		<name normalized="Cuнtiн" languages="Ukrainian">Чунцін</name>
+		<name normalized="צ'vnגצ'יnג" languages="Hebrew">צ'ונגצ'ינג</name>
+		<name normalized="tشونغtشyنغ" languages="Arabic">تشونغتشينغ</name>
+		<name normalized="چونg کینg" languages="Urdu">چونگ کینگ</name>
+		<name normalized="چونgچنg" languages="Western Punjabi">چونگچنگ</name>
+		<name normalized="چونg‌کینg" languages="Persian">چونگ‌کینگ</name>
+		<name normalized="چۇڭچىڭ شەھىrى" languages="Uyghur">چۇڭچىڭ شەھىرى</name>
+		<name normalized="coंgciंg" languages="Marathi">चोंगछिंग</name>
+		<name normalized="coंg्kiंg" languages="Hindi">चोंग्किंग</name>
+		<name normalized="caਂgkiੰg" languages="Punjabi">ਚੌਂਗਕਿੰਗ</name>
+		<name normalized="சோங்கிங்" languages="Tamil">சோங்கிங்</name>
+		<name normalized="ചോങ്ചിങ്" languages="Malayalam">ചോങ്ചിങ്</name>
+		<name normalized="ฉงชิ่ง" languages="Thai">ฉงชิ่ง</name>
+		<name normalized="ཁྲུང་ཆིན་གྲོང་ཁྱེར།" languages="Tibetan">ཁྲུང་ཆིན་གྲོང་ཁྱེར།</name>
+		<name normalized="ချုံချင့်မြို့" languages="Burmese">ချုံချင့်မြို့</name>
+		<name normalized="重庆市" languages="Chinese">重庆市</name>
+		<name normalized="重慶" languages="Cantonese;Gan">重慶</name>
+		<name normalized="重慶市" languages="Classical Chinese;Japanese">重慶市</name>
+		<name normalized="충칭 시" languages="Korean">충칭 시</name>
+	</region>
+	<region name="Fujian" type="province" typeTranslated="sheng">
+		<name normalized="Foekien" languages="Afrikaans">Foekien</name>
+		<name normalized="Foujian" languages="Walloon">Foujian</name>
+		<name normalized="Fu-tien" languages="Czech">Fu-ťien</name>
+		<name normalized="Fucsien" languages="Hungarian">Fucsien</name>
+		<name normalized="Fudzianas" languages="Lithuanian">Fudzianas</name>
+		<name normalized="Fudzjana" languages="Latvian">Fudzjaņa</name>
+		<name normalized="Fujian" languages="Achinese;Basque;Bosnian;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Indonesian;Interlingua;Irish;Italian;Javanese;Kongo;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;veneto;Waray;Welsh">Fujian</name>
+		<name normalized="Fujian Province" languages="English;official">Fujian Province</name>
+		<name normalized="Fujian pruwinsya" languages="Quechua">Fujian pruwinsya</name>
+		<name normalized="Fujian Sheng" languages="English;official">Fujian Sheng</name>
+		<name normalized="Fuk-kian" languages="Hakka">Fuk-kian</name>
+		<name normalized="Fugjano" languages="Esperanto">Fuĝjano</name>
+		<name normalized="Hok-kian-seng" languages="Chinese (Min Nan)">Hok-kiàn-séng</name>
+		<name normalized="Hok-giong" languages="Min Dong Chinese">Hók-gióng</name>
+		<name normalized="Phuc Kien" languages="Vietnamese">Phúc Kiến</name>
+		<name normalized="Φουτσιαν" languages="Greek">Φουτσιάν</name>
+		<name normalized="Pрaviнtыi Фutziнь" languages="Belarusian">Правінцыя Фуцзянь</name>
+		<name normalized="Фudziiн" languages="Bulgarian">Фудзиен</name>
+		<name normalized="Фuziнь мuz" languages="Mongolian">Фужянь муж</name>
+		<name normalized="Фutziнь" languages="Russian;Ukrainian">Фуцзянь</name>
+		<name normalized="Фudiн" languages="Serbian">Фуђен</name>
+		<name normalized="pvג'יין" languages="Hebrew">פוג'יין</name>
+		<name normalized="fوjyאن" languages="Arabic">فوجيان</name>
+		<name normalized="fوjیאن" languages="Persian;Western Punjabi">فوجیان</name>
+		<name normalized="fۇjyەن ئۆلkىسى" languages="Uyghur">فۇجيەن ئۆلكىسى</name>
+		<name normalized="p़uj्yाn" languages="Hindi">फ़ूज्यान</name>
+		<name normalized="puc्yाn" languages="Marathi">फूच्यान</name>
+		<name normalized="புஜியான் மாகாணம்" languages="Tamil">புஜியான் மாகாணம்</name>
+		<name normalized="มณฑลฝูเจี้ยน" languages="Thai">มณฑลฝูเจี้ยน</name>
+		<name normalized="ཧྥུའུ་ཅན་ཞིང་ཆེན།" languages="Tibetan">ཧྥུའུ་ཅན་ཞིང་ཆེན།</name>
+		<name normalized="ဖူကျန့်ပြည်နယ်" languages="Burmese">ဖူကျန့်ပြည်နယ်</name>
+		<name normalized="ფუძიანი" languages="Georgian">ფუძიანი</name>
+		<name normalized="福建" languages="Cantonese;Gan">福建</name>
+		<name normalized="福建省" languages="Chinese;Classical Chinese;Japanese">福建省</name>
+		<name normalized="푸젠 성" languages="Korean">푸젠 성</name>
+	</region>
+	<region name="Gansu" type="province" typeTranslated="sheng">
+		<name normalized="Cam Tuc" languages="Vietnamese">Cam Túc</name>
+		<name normalized="Gansu" languages="Achinese;Afrikaans;Basque;Bosnian;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Indonesian;Interlingua;Irish;Italian;Kongo;Lithuanian;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Slovenian;Spanish;Swahili;Swedish;Tagalog;veneto;Waray;Welsh;Western Frisian">Gansu</name>
+		<name normalized="Gansu Province" languages="English;official">Gansu Province</name>
+		<name normalized="Gansu pruwinsya" languages="Quechua">Gansu pruwinsya</name>
+		<name normalized="Gansu Sheng" languages="English;official">Gansu Sheng</name>
+		<name normalized="Gansuo" languages="Esperanto">Gansuo</name>
+		<name normalized="Gansu" languages="Latvian">Gaņsu</name>
+		<name normalized="Kam-siok-seng" languages="Chinese (Min Nan)">Kam-siok-séng</name>
+		<name normalized="Kan-su" languages="Czech">Kan-su</name>
+		<name normalized="Kansu" languages="Turkish">Kansu</name>
+		<name normalized="Kanszu" languages="Hungarian">Kanszu</name>
+		<name normalized="Kam-suk" languages="Hakka">Kâm-suk</name>
+		<name normalized="Qansu" languages="Azerbaijani">Qansu</name>
+		<name normalized="Γκανσοu" languages="Greek">Γκανσού</name>
+		<name normalized="Gaнсu" languages="Bulgarian;Serbian">Гансу</name>
+		<name normalized="Gaньсu" languages="Russian;Sakha;biлaрuсkai (taрaskivita)‎">Ганьсу</name>
+		<name normalized="Gaньсү" languages="Mongolian">Ганьсү</name>
+		<name normalized="Pрaviнtыi Gaньсu" languages="Belarusian">Правінцыя Ганьсу</name>
+		<name normalized="Ґaньсu" languages="Ukrainian">Ґаньсу</name>
+		<name normalized="גאnסv" languages="Hebrew">גאנסו</name>
+		<name normalized="qאنسو" languages="Arabic">قانسو</name>
+		<name normalized="gאنسو" languages="Persian;Western Punjabi">گانسو</name>
+		<name normalized="gەنسۇ ئۆلkىسى" languages="Uyghur">گەنسۇ ئۆلكىسى</name>
+		<name normalized="kाn्su" languages="Marathi">कान्सू</name>
+		<name normalized="gांsu" languages="Hindi">गांसू</name>
+		<name normalized="มณฑลกานซู" languages="Thai">มณฑลกานซู</name>
+		<name normalized="ཀན་སུའུ་ཞིང་ཆེན།" languages="Tibetan">ཀན་སུའུ་ཞིང་ཆེན།</name>
+		<name normalized="ကန်းစုပြည်နယ်" languages="Burmese">ကန်းစုပြည်နယ်</name>
+		<name normalized="განსუ" languages="Georgian">განსუ</name>
+		<name normalized="甘粛省" languages="Japanese">甘粛省</name>
+		<name normalized="甘肃省" languages="Chinese">甘肃省</name>
+		<name normalized="甘肅" languages="Cantonese;Gan">甘肅</name>
+		<name normalized="甘肅省" languages="Classical Chinese">甘肅省</name>
+		<name normalized="간쑤 성" languages="Korean">간쑤 성</name>
+	</region>
+	<region name="Guangdong" type="province" typeTranslated="sheng">
+		<name normalized="Gouangdong" languages="Walloon">Gouangdong</name>
+		<name normalized="Guanduna" languages="Latvian">Guanduna</name>
+		<name normalized="Guangdong" languages="Achinese;Basque;Bosnian;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Icelandic;Indonesian;Interlingua;Irish;Italian;Kongo;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Swahili;Swedish;Tagalog;Turkish;veneto;Waray;Welsh">Guangdong</name>
+		<name normalized="Guangdong Province" languages="English;official">Guangdong Province</name>
+		<name normalized="Guangdong pruwinsya" languages="Quechua">Guangdong pruwinsya</name>
+		<name normalized="Guangdong Sheng" languages="English;official">Guangdong Sheng</name>
+		<name normalized="Guangdongas" languages="Lithuanian">Guangdongas</name>
+		<name normalized="Guong-de¨ng" languages="Min Dong Chinese">Guōng-dĕ̤ng</name>
+		<name normalized="Gvangjdungh" languages="Zhuang">Gvangjdungh</name>
+		<name normalized="Guangdongo" languages="Esperanto">Gŭangdongo</name>
+		<name normalized="Kuang-tung" languages="Czech">Kuang-tung</name>
+		<name normalized="Kuangtung" languages="Hungarian">Kuangtung</name>
+		<name normalized="Kwangdong" languages="Afrikaans">Kwangdong</name>
+		<name normalized="Kong-tung" languages="Hakka">Kóng-tûng</name>
+		<name normalized="Kng-tang-seng" languages="Chinese (Min Nan)">Kńg-tang-séng</name>
+		<name normalized="Provincia de Canton" languages="Spanish">Provincia de Cantón</name>
+		<name normalized="Quantunia" languages="Latin">Quantunia</name>
+		<name normalized="Quang Dong" languages="Vietnamese">Quảng Đông</name>
+		<name normalized="Κουανγκτονγκ" languages="Greek">Κουανγκτόνγκ</name>
+		<name normalized="Guaнgduнg" languages="Serbian">Гуангдунг</name>
+		<name normalized="Guaнduн" languages="Bulgarian;Russian;Sakha;Ukrainian">Гуандун</name>
+		<name normalized="Pрaviнtыi Guaнduн" languages="Belarusian">Правінцыя Гуандун</name>
+		<name normalized="גvאnגדvnג" languages="Hebrew">גואנגדונג</name>
+		<name normalized="غوאنغدونغ" languages="Arabic">غوانغدونغ</name>
+		<name normalized="gوאنgڈونg" languages="Western Punjabi">گوانگڈونگ</name>
+		<name normalized="gوאنg‌دونg" languages="Persian">گوانگ‌دونگ</name>
+		<name normalized="gۇئאڭدوڭ ئۆلkىسى" languages="Uyghur">گۇئاڭدوڭ ئۆلكىسى</name>
+		<name normalized="k्vांgtoंg" languages="Marathi">क्वांगतोंग</name>
+		<name normalized="guaंgdoंg" languages="Hindi">गुआंगदोंग</name>
+		<name normalized="มณฑลกวางตุ้ง" languages="Thai">มณฑลกวางตุ้ง</name>
+		<name normalized="ཀོང་ཏུང་ཞིང་ཆེན།" languages="Tibetan">ཀོང་ཏུང་ཞིང་ཆེན།</name>
+		<name normalized="ကွမ်တုန်းပြည်နယ်" languages="Burmese">ကွမ်တုန်းပြည်နယ်</name>
+		<name normalized="გუანდუნი" languages="Georgian">გუანდუნი</name>
+		<name normalized="广东省" languages="Chinese;Wu">广东省</name>
+		<name normalized="広東省" languages="Japanese">広東省</name>
+		<name normalized="廣東" languages="Cantonese;Gan">廣東</name>
+		<name normalized="廣東省" languages="Classical Chinese">廣東省</name>
+		<name normalized="광둥 성" languages="Korean">광둥 성</name>
+	</region>
+	<region name="Guangxi" type="autonomous region" typeTranslated="zizhiqu">
+		<name normalized="Guangsi" languages="Lithuanian">Guangsi</name>
+		<name normalized="Guangsy" languages="Western Frisian">Guangsy</name>
+		<name normalized="Guangxi" languages="Achinese;Afrikaans;Asturian;Basque;Bosnian;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Ido;Indonesian;Interlingua;Irish;Italian;Malagasy;Malay;Manx;Mirandese;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Portuguese;Quechua;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Sundanese;Swahili;Swedish;Tagalog;veneto;Waray;Welsh">Guangxi</name>
+		<name normalized="Guangxi Zhuang" languages="Kongo">Guangxi Zhuang</name>
+		<name normalized="Guangxi Zhuang Ozerk Bolgesi" languages="Turkish">Guangxi Zhuang Özerk Bölgesi</name>
+		<name normalized="Guansji Dzuanu autonomais regions" languages="Latvian">Guansji Džuanu autonomais reģions</name>
+		<name normalized="Gvangjsih Bouxcuengh Swcigih" languages="Zhuang">Gvangjsih Bouxcuengh Swcigih</name>
+		<name normalized="Guangsjio" languages="Esperanto">Gŭangŝjio</name>
+		<name normalized="Kuang-si" languages="Czech">Kuang-si</name>
+		<name normalized="Kuanghszi" languages="Hungarian">Kuanghszi</name>
+		<name normalized="Kuangsi" languages="Polish">Kuangsi</name>
+		<name normalized="Kong-si Chong-chhu̍k Chhu-chhu-khi" languages="Hakka">Kóng-sî Chong-chhu̍k Chhṳ-chhṳ-khî</name>
+		<name normalized="Kng-sai Cueng-cho̍k Chu-ti-khu" languages="Chinese (Min Nan)">Kńg-sai Cueng-cho̍k Chū-tī-khu</name>
+		<name normalized="Quansi-Cjuan muxtar rayonu" languages="Azerbaijani">Quansi-Çjuan muxtar rayonu</name>
+		<name normalized="Quang Tay" languages="Vietnamese">Quảng Tây</name>
+		<name normalized="Κουανγκσι" languages="Greek">Κουανγκσί</name>
+		<name normalized="Guaнgсi" languages="Serbian">Гуангси</name>
+		<name normalized="Guaнсi-dzuaнсki avtoнoмiн рigioн" languages="Bulgarian">Гуанси-джуански автономен регион</name>
+		<name normalized="Guaнсi-Czuaнсkiй avtoнoмный рaйoн" languages="Russian">Гуанси-Чжуанский автономный район</name>
+		<name normalized="Guaнсi-Czuaнсki aўtaнoмны рaён" languages="Belarusian">Гуансі-Чжуанскі аўтаномны раён</name>
+		<name normalized="Guaнсi-Czuaнсьkiй avtoнoмнiй рaйoн" languages="Ukrainian">Гуансі-Чжуанський автономний район</name>
+		<name normalized="גvאnגשי" languages="Hebrew">גואנגשי</name>
+		<name normalized="qوאنغشy" languages="Arabic">قوانغشي</name>
+		<name normalized="gوאنgزی" languages="Western Punjabi">گوانگزی</name>
+		<name normalized="gوאنgشی" languages="Persian">گوانگشی</name>
+		<name normalized="gۇאڭشى jۇאڭزۇ ئאptونۇm rאyونى" languages="Uyghur">گۇاڭشى جۇاڭزۇ ئاپتونۇم رايونى</name>
+		<name normalized="k्vांg्si" languages="Marathi">क्वांग्शी</name>
+		<name normalized="guaंgsi" languages="Hindi">गुआंगशी</name>
+		<name normalized="ഗുവാങ്ക്സി" languages="Malayalam">ഗുവാങ്ക്സി</name>
+		<name normalized="เขตปกครองตนเองกว่างซีจ้วง" languages="Thai">เขตปกครองตนเองกว่างซีจ้วง</name>
+		<name normalized="ཀོའོང་ཤི་ཀྲོང་རིགས་རང་སྐྱོང་ལྗོངས།" languages="Tibetan">ཀོའོང་ཤི་ཀྲོང་རིགས་རང་སྐྱོང་ལྗོངས།</name>
+		<name normalized="გუანსი-ჯუანი" languages="Georgian">გუანსი-ჯუანი</name>
+		<name normalized="广西壮族自治区" languages="Chinese;Wu">广西壮族自治区</name>
+		<name normalized="広西twn族自治区" languages="Japanese">広西チワン族自治区</name>
+		<name normalized="廣西" languages="Cantonese;Gan">廣西</name>
+		<name normalized="廣西壯族自治區" languages="Classical Chinese">廣西壯族自治區</name>
+		<name normalized="광시 좡족 자치구" languages="Korean">광시 좡족 자치구</name>
+	</region>
+	<region name="Guizhou" type="province" typeTranslated="sheng">
+		<name normalized="Gouizhou" languages="Walloon">Gouizhou</name>
+		<name normalized="Guidzou" languages="Latvian;Lithuanian">Guidžou</name>
+		<name normalized="Guizhou" languages="Achinese;Afrikaans;Asturian;Basque;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Indonesian;Interlingua;Irish;Italian;Kongo;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Pampanga;Portuguese;Romanian;Scots;Serbo-Croatian;Spanish;Swahili;Swedish;Tagalog;Turkish;veneto;Waray;Welsh">Guizhou</name>
+		<name normalized="Guizhou Province" languages="English;official">Guizhou Province</name>
+		<name normalized="Guizhou pruwinsya" languages="Quechua">Guizhou pruwinsya</name>
+		<name normalized="Guizhou Sheng" languages="English;official">Guizhou Sheng</name>
+		<name normalized="Gveicouh" languages="Zhuang">Gveicouh</name>
+		<name normalized="Guigouo" languages="Esperanto">Gŭiĝoŭo</name>
+		<name normalized="Kuej-cou" languages="Czech">Kuej-čou</name>
+		<name normalized="Kuejczou" languages="Polish">Kuejczou</name>
+		<name normalized="Kui-chu" languages="Hakka">Kui-chû</name>
+		<name normalized="Kujcsou" languages="Hungarian">Kujcsou</name>
+		<name normalized="Kui-chiu-seng" languages="Chinese (Min Nan)">Kùi-chiu-séng</name>
+		<name normalized="Quy Chau" languages="Vietnamese">Quý Châu</name>
+		<name normalized="Κουιτσοu" languages="Greek">Κουιτσού</name>
+		<name normalized="Guiйdzou" languages="Bulgarian">Гуейджоу</name>
+		<name normalized="Guijdzou" languages="Serbian">Гуејџоу</name>
+		<name normalized="Guйzou мuz" languages="Mongolian">Гуйжоу муж</name>
+		<name normalized="Guйczou" languages="Russian;Sakha">Гуйчжоу</name>
+		<name normalized="Pрaviнtыi Guйczou" languages="Belarusian">Правінцыя Гуйчжоу</name>
+		<name normalized="Ґuйczou" languages="Ukrainian">Ґуйчжоу</name>
+		<name normalized="גvvיג'vאv" languages="Hebrew">גוויג'ואו</name>
+		<name normalized="qوytشو" languages="Arabic">قويتشو</name>
+		<name normalized="gوئیjو" languages="Persian;Western Punjabi">گوئیژو</name>
+		<name normalized="gۇyلىن ئۆلkىسى" languages="Uyghur">گۇيلىن ئۆلكىسى</name>
+		<name normalized="k्vica" languages="Marathi">क्वीचौ</name>
+		<name normalized="guijou" languages="Hindi">गुइझोऊ</name>
+		<name normalized="มณฑลกุ้ยโจว" languages="Thai">มณฑลกุ้ยโจว</name>
+		<name normalized="ཀུད་ཀྲོའུ་ཞིང་ཆེན།" languages="Tibetan">ཀུད་ཀྲོའུ་ཞིང་ཆེན།</name>
+		<name normalized="გუიჯოუ" languages="Georgian">გუიჯოუ</name>
+		<name normalized="貴州" languages="Cantonese;Gan">貴州</name>
+		<name normalized="貴州省" languages="Japanese">貴州省</name>
+		<name normalized="贵州省" languages="Chinese">贵州省</name>
+		<name normalized="구이저우 성" languages="Korean">구이저우 성</name>
+	</region>
+	<region name="Hainan" type="province" typeTranslated="sheng">
+		<name normalized="Chaj-nan" languages="Czech;Slovak">Chaj-nan</name>
+		<name normalized="Hainan" languages="Achinese;Afrikaans;Basque;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Icelandic;Indonesian;Interlingua;Irish;Italian;Kongo;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;veneto;Walloon;Waray;Welsh">Hainan</name>
+		<name normalized="Hainan Province" languages="English;official">Hainan Province</name>
+		<name normalized="Hainan pruwinsya" languages="Quechua">Hainan pruwinsya</name>
+		<name normalized="Hainan Sheng" languages="English;official">Hainan Sheng</name>
+		<name normalized="Hainanas" languages="Lithuanian">Hainanas</name>
+		<name normalized="Hainana" languages="Latvian">Hainaņa</name>
+		<name normalized="Hajnan" languages="Hungarian;Polish">Hajnan</name>
+		<name normalized="Hajnano" languages="Esperanto">Hajnano</name>
+		<name normalized="Hai-lam-seng" languages="Chinese (Min Nan)">Hái-lâm-séng</name>
+		<name normalized="Hoi-nam" languages="Hakka">Hói-nàm</name>
+		<name normalized="Hai-nang" languages="Min Dong Chinese">Hāi-nàng</name>
+		<name normalized="Hai Nam" languages="Vietnamese">Hải Nam</name>
+		<name normalized="Χαιναν" languages="Greek">Χαϊνάν</name>
+		<name normalized="Pрaviнtыi Kaйнaнь" languages="Belarusian">Правінцыя Хайнань</name>
+		<name normalized="Kaйнaн" languages="Bulgarian">Хайнан</name>
+		<name normalized="Kaйнaнь" languages="Mongolian;Ossetic;Russian;Sakha;Ukrainian">Хайнань</name>
+		<name normalized="Kaйнaнь aрaлы" languages="Kazakh">Хайнань аралы</name>
+		<name normalized="Kajнaн" languages="Serbian">Хајнан</name>
+		<name normalized="hאיnאן" languages="Hebrew">האינאן</name>
+		<name normalized="خەyنەن ئۆلkىسى" languages="Uyghur">خەينەن ئۆلكىسى</name>
+		<name normalized="hאyنאن" languages="Arabic">هاينان</name>
+		<name normalized="hאینאن" languages="Persian">هاینان</name>
+		<name normalized="ہאئینאن" languages="Western Punjabi">ہائینان</name>
+		<name normalized="hाinाn" languages="Hindi;Marathi">हाइनान</name>
+		<name normalized="ஆய்னான்" languages="Tamil">ஆய்னான்</name>
+		<name normalized="มณฑลไหหลำ" languages="Thai">มณฑลไหหลำ</name>
+		<name normalized="ཧའེ་ནན་ཞིང་ཆེན།" languages="Tibetan">ཧའེ་ནན་ཞིང་ཆེན།</name>
+		<name normalized="ხაინანი" languages="Georgian">ხაინანი</name>
+		<name normalized="海南" languages="Cantonese;Gan">海南</name>
+		<name normalized="海南省" languages="Chinese;Classical Chinese;Japanese;Wu">海南省</name>
+		<name normalized="하이난 성" languages="Korean">하이난 성</name>
+	</region>
+	<region name="Hebei" type="province" typeTranslated="sheng">
+		<name normalized="Che-pej" languages="Czech">Che-pej</name>
+		<name normalized="Hebei" languages="Achinese;Afrikaans;Basque;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Indonesian;Interlingua;Irish;Italian;Kongo;Latvian;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Spanish;Swahili;Swedish;Tagalog;Turkish;veneto;Walloon;Waray;Welsh">Hebei</name>
+		<name normalized="Hebei Province" languages="English;official">Hebei Province</name>
+		<name normalized="Hebei pruwinsya" languages="Quechua">Hebei pruwinsya</name>
+		<name normalized="Hebei Sheng" languages="English;official">Hebei Sheng</name>
+		<name normalized="Hebejo" languages="Esperanto">Hebejo</name>
+		<name normalized="Hebejus" languages="Lithuanian">Hebėjus</name>
+		<name normalized="Hopej" languages="Hungarian">Hopej</name>
+		<name normalized="Ha Bac" languages="Vietnamese">Hà Bắc</name>
+		<name normalized="Ho-pet" languages="Hakka">Hò-pet</name>
+		<name normalized="Ho-pak-seng" languages="Chinese (Min Nan)">Hô-pak-séng</name>
+		<name normalized="Χεπeι" languages="Greek">Χεπέι</name>
+		<name normalized="Pрaviнtыi Kebeй" languages="Belarusian">Правінцыя Хэбэй</name>
+		<name normalized="Kibiй" languages="Ukrainian">Хебей</name>
+		<name normalized="Kibij" languages="Serbian">Хебеј</name>
+		<name normalized="Kъbiй" languages="Bulgarian">Хъбей</name>
+		<name normalized="Kebeй" languages="Mongolian;Russian">Хэбэй</name>
+		<name normalized="hbיי" languages="Hebrew">חביי</name>
+		<name normalized="خby" languages="Arabic">خبي</name>
+		<name normalized="خېbېy ئۆلkىسى" languages="Uyghur">خېبېي ئۆلكىسى</name>
+		<name normalized="hbئی" languages="Persian">هبئی</name>
+		<name normalized="ہوpے" languages="Western Punjabi">ہوپے</name>
+		<name normalized="hpa" languages="Marathi">हपै</name>
+		<name normalized="hebei" languages="Hindi">हेबेई</name>
+		<name normalized="มณฑลเหอเป่ย์" languages="Thai">มณฑลเหอเป่ย์</name>
+		<name normalized="ཧའོ་པེ་ཞིང་ཆེན།" languages="Tibetan">ཧའོ་པེ་ཞིང་ཆེན།</name>
+		<name normalized="ხებეი" languages="Georgian">ხებეი</name>
+		<name normalized="河北" languages="Cantonese;Gan">河北</name>
+		<name normalized="河北省" languages="Chinese;Classical Chinese;Japanese">河北省</name>
+		<name normalized="허베이 성" languages="Korean">허베이 성</name>
+	</region>
+	<region name="Heilongjiang" type="province" typeTranslated="sheng">
+		<name normalized="Chej-lung-tiang" languages="Czech">Chej-lung-ťiang</name>
+		<name normalized="Heilongdziangas" languages="Lithuanian">Heilongdziangas</name>
+		<name normalized="Heilongjiang" languages="Achinese;Afrikaans;Basque;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Indonesian;Interlingua;Irish;Italian;Kongo;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;veneto;Waray;Welsh">Heilongjiang</name>
+		<name normalized="Heilongjiang Province" languages="English;official">Heilongjiang Province</name>
+		<name normalized="Heilongjiang pruwinsya" languages="Quechua">Heilongjiang pruwinsya</name>
+		<name normalized="Heilongjiang Sheng" languages="English;official">Heilongjiang Sheng</name>
+		<name normalized="Heilongjianum" languages="Latin">Heilongjianum</name>
+		<name normalized="Heilundzjana" languages="Latvian">Heilundzjana</name>
+		<name normalized="Hejlonggjango" languages="Esperanto">Hejlongĝjango</name>
+		<name normalized="Hejlungcsiang" languages="Hungarian">Hejlungcsiang</name>
+		<name normalized="Hek-leng-kang-seng" languages="Chinese (Min Nan)">Hek-lêng-kang-séng</name>
+		<name normalized="Het-liung-kong" languages="Hakka">Het-liùng-kông</name>
+		<name normalized="Hac Long Giang" languages="Vietnamese">Hắc Long Giang</name>
+		<name normalized="Χειλονγκτσιανγκ" languages="Greek">Χεϊλονγκτσιάνγκ</name>
+		<name normalized="Pрoviнtii Kiйлuнtziн" languages="Ukrainian">Провінція Хейлунцзян</name>
+		<name normalized="Kaрмɵрɵн" languages="Mongolian">Хармөрөн</name>
+		<name normalized="Kijлuнgdaнg" languages="Serbian">Хејлунгђанг</name>
+		<name normalized="Kъйлuнdziн" languages="Bulgarian">Хъйлундзян</name>
+		<name normalized="Keйлuнtziн" languages="Ossetic;Russian;Sakha">Хэйлунцзян</name>
+		<name normalized="hיידvnגג'יאnג" languages="Hebrew">חיילונגג'יאנג</name>
+		<name normalized="خېyلوڭjyאڭ ئۆلkىسى" languages="Uyghur">خېيلوڭجياڭ ئۆلكىسى</name>
+		<name normalized="hyلونغjyאنغ" languages="Arabic">هيلونغجيانغ</name>
+		<name normalized="hیلونg‌jیאنg" languages="Persian">هیلونگ‌جیانگ</name>
+		<name normalized="ہیلونgچאنg" languages="Western Punjabi">ہیلونگچانگ</name>
+		<name normalized="heiloंgjiyांg" languages="Hindi">हेइलोंगजियांग</name>
+		<name normalized="heiloङjiyाङ" languages="Newari">हेइलोङजियाङ</name>
+		<name normalized="haloंgc्yांg" languages="Marathi">हैलोंगच्यांग</name>
+		<name normalized="มณฑลเฮย์หลงเจียง" languages="Thai">มณฑลเฮย์หลงเจียง</name>
+		<name normalized="ཧའེ་ལུང་ཅང་ཞིང་ཆེན།" languages="Tibetan">ཧའེ་ལུང་ཅང་ཞིང་ཆེན།</name>
+		<name normalized="ხეილუნძიანი" languages="Georgian">ხეილუნძიანი</name>
+		<name normalized="黑龍江" languages="Gan">黑龍江</name>
+		<name normalized="黑龍江省" languages="Cantonese">黑龍江省</name>
+		<name normalized="黑龙江省" languages="Chinese">黑龙江省</name>
+		<name normalized="黒竜江省" languages="Japanese">黒竜江省</name>
+		<name normalized="헤이룽장 성" languages="Korean">헤이룽장 성</name>
+	</region>
+	<region name="Henan" type="province" typeTranslated="sheng">
+		<name normalized="Che-nan" languages="Czech">Che-nan</name>
+		<name normalized="Henan" languages="Achinese;Afrikaans;Basque;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Indonesian;Interlingua;Irish;Italian;Kongo;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;veneto;Walloon;Waray;Welsh">Henan</name>
+		<name normalized="Henan Province" languages="English;official">Henan Province</name>
+		<name normalized="Henan pruwinsya" languages="Quechua">Henan pruwinsya</name>
+		<name normalized="Henan Sheng" languages="English;official">Henan Sheng</name>
+		<name normalized="Henanas" languages="Lithuanian">Henanas</name>
+		<name normalized="Henano" languages="Esperanto">Henano</name>
+		<name normalized="Henana" languages="Latvian">Henaņa</name>
+		<name normalized="Honan" languages="Hungarian">Honan</name>
+		<name normalized="Ha Nam" languages="Vietnamese">Hà Nam</name>
+		<name normalized="Ho-nam" languages="Hakka">Hò-nàm</name>
+		<name normalized="Ho-lam-seng" languages="Chinese (Min Nan)">Hô-lâm-séng</name>
+		<name normalized="Χεναν" languages="Greek">Χενάν</name>
+		<name normalized="Pрaviнtыi Keнaнь" languages="Belarusian">Правінцыя Хэнань</name>
+		<name normalized="Kiнaн" languages="Serbian">Хенан</name>
+		<name normalized="Kiнaнь" languages="Ukrainian">Хенань</name>
+		<name normalized="Kънaн" languages="Bulgarian">Хънан</name>
+		<name normalized="Keнaнь" languages="Mongolian;Russian">Хэнань</name>
+		<name normalized="hnאן" languages="Hebrew">חנאן</name>
+		<name normalized="אسtאن hنאن" languages="Persian">استان هنان</name>
+		<name normalized="خېنەن ئۆلkىسى" languages="Uyghur">خېنەن ئۆلكىسى</name>
+		<name normalized="hنאن" languages="Arabic">هنان</name>
+		<name normalized="ہینאن" languages="Western Punjabi">ہینان</name>
+		<name normalized="hnाn" languages="Marathi">हनान</name>
+		<name normalized="henाn" languages="Hindi">हेनान</name>
+		<name normalized="ஹெய்நான்" languages="Tamil">ஹெய்நான்</name>
+		<name normalized="มณฑลเหอหนาน" languages="Thai">มณฑลเหอหนาน</name>
+		<name normalized="ཧའོ་ནན་ཞིང་ཆེན།" languages="Tibetan">ཧའོ་ནན་ཞིང་ཆེན།</name>
+		<name normalized="ხენანი" languages="Georgian">ხენანი</name>
+		<name normalized="河南" languages="Cantonese;Gan">河南</name>
+		<name normalized="河南省" languages="Chinese;Classical Chinese;Japanese">河南省</name>
+		<name normalized="허난 성" languages="Korean">허난 성</name>
+	</region>
+	<region name="Hubei" type="province" typeTranslated="sheng">
+		<name normalized="Chu-pej" languages="Czech">Chu-pej</name>
+		<name normalized="Fu-pet" languages="Hakka">Fù-pet</name>
+		<name normalized="Hubei" languages="Achinese;Afrikaans;Basque;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Icelandic;Indonesian;Interlingua;Irish;Italian;Kongo;Latvian;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Spanish;Swahili;Swedish;Tagalog;Turkish;veneto;Walloon;Waray;Welsh">Hubei</name>
+		<name normalized="Hubei Province" languages="English;official">Hubei Province</name>
+		<name normalized="Hubei pruwinsya" languages="Quechua">Hubei pruwinsya</name>
+		<name normalized="Hubei Sheng" languages="English;official">Hubei Sheng</name>
+		<name normalized="Hubejo" languages="Esperanto">Hubejo</name>
+		<name normalized="Hubejus" languages="Lithuanian">Hubėjus</name>
+		<name normalized="Hupej" languages="Hungarian">Hupej</name>
+		<name normalized="Ho Bac" languages="Vietnamese">Hồ Bắc</name>
+		<name normalized="O͘-pak-seng" languages="Chinese (Min Nan)">Ô͘-pak-séng</name>
+		<name normalized="Χουπeι" languages="Greek">Χουπέι</name>
+		<name normalized="Kubiй" languages="Bulgarian;Ukrainian">Хубей</name>
+		<name normalized="Kubij" languages="Serbian">Хубеј</name>
+		<name normalized="Kubeй" languages="Russian">Хубэй</name>
+		<name normalized="hvbיי" languages="Hebrew">חוביי</name>
+		<name normalized="خۇbېy ئۆلkىسى" languages="Uyghur">خۇبېي ئۆلكىسى</name>
+		<name normalized="hوbئی" languages="Persian">هوبئی</name>
+		<name normalized="ہوbے" languages="Western Punjabi">ہوبے</name>
+		<name normalized="hupa" languages="Marathi">हूपै</name>
+		<name normalized="hubei" languages="Hindi">हूबेई</name>
+		<name normalized="มณฑลหูเป่ย์" languages="Thai">มณฑลหูเป่ย์</name>
+		<name normalized="ཧུའུ་པེ་ཞིང་ཆེན།" languages="Tibetan">ཧུའུ་པེ་ཞིང་ཆེན།</name>
+		<name normalized="ხუბეი" languages="Georgian">ხუბეი</name>
+		<name normalized="湖北" languages="Cantonese;Gan">湖北</name>
+		<name normalized="湖北省" languages="Chinese;Classical Chinese;Japanese">湖北省</name>
+		<name normalized="후베이 성" languages="Korean">후베이 성</name>
+	</region>
+	<region name="Hunan" type="province" typeTranslated="sheng">
+		<name normalized="Chu-nan" languages="Czech">Chu-nan</name>
+		<name normalized="Fu-nam" languages="Hakka">Fù-nàm</name>
+		<name normalized="Hunan" languages="Achinese;Afrikaans;Asturian;Basque;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Hungarian;Indonesian;Interlingua;Irish;Italian;Kongo;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;veneto;Walloon;Waray;Welsh">Hunan</name>
+		<name normalized="Hunan Province" languages="English;official">Hunan Province</name>
+		<name normalized="Hunan pruwinsya" languages="Quechua">Hunan pruwinsya</name>
+		<name normalized="Hunan Sheng" languages="English;official">Hunan Sheng</name>
+		<name normalized="Hunanas" languages="Lithuanian">Hunanas</name>
+		<name normalized="Hunano" languages="Esperanto">Hunano</name>
+		<name normalized="Hunana" languages="Latvian">Hunaņa</name>
+		<name normalized="Ho Nam" languages="Vietnamese">Hồ Nam</name>
+		<name normalized="O͘-lam-seng" languages="Chinese (Min Nan)">Ô͘-lâm-séng</name>
+		<name normalized="Χουναν" languages="Greek">Χουνάν</name>
+		<name normalized="Kuнaн" languages="Bulgarian;Serbian">Хунан</name>
+		<name normalized="Kuнaнь" languages="Russian;Ukrainian">Хунань</name>
+		<name normalized="hvnאן" languages="Hebrew">חונאן</name>
+		<name normalized="خۇنەن ئۆلkىسى" languages="Uyghur">خۇنەن ئۆلكىسى</name>
+		<name normalized="hونאن" languages="Arabic;Persian">هونان</name>
+		<name normalized="ہونאن" languages="Western Punjabi">ہونان</name>
+		<name normalized="hunाn" languages="Hindi;Marathi">हूनान</name>
+		<name normalized="มณฑลหูหนาน" languages="Thai">มณฑลหูหนาน</name>
+		<name normalized="ཧུའུ་ནན་ཞིང་ཆེན།" languages="Tibetan">ཧུའུ་ནན་ཞིང་ཆེན།</name>
+		<name normalized="ხუნანი" languages="Georgian">ხუნანი</name>
+		<name normalized="湖南" languages="Cantonese;Gan">湖南</name>
+		<name normalized="湖南省" languages="Chinese;Classical Chinese;Japanese;Wu">湖南省</name>
+		<name normalized="후난 성" languages="Korean">후난 성</name>
+	</region>
+	<region name="Jiangsu" type="province" typeTranslated="sheng">
+		<name normalized="Csiangszu" languages="Hungarian">Csiangszu</name>
+		<name normalized="Dziangsu" languages="Lithuanian">Dziangsu</name>
+		<name normalized="Dzjansu" languages="Latvian">Dzjansu</name>
+		<name normalized="Giang To" languages="Vietnamese">Giang Tô</name>
+		<name normalized="Jiangsou" languages="Walloon">Jiangsou</name>
+		<name normalized="Jiangsu" languages="Achinese;Afrikaans;Basque;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Indonesian;Interlingua;Irish;Italian;Kongo;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;veneto;Waray;Welsh">Jiangsu</name>
+		<name normalized="Jiangsu Province" languages="English;official">Jiangsu Province</name>
+		<name normalized="Jiangsu pruwinsya" languages="Quechua">Jiangsu pruwinsya</name>
+		<name normalized="Jiangsu Sheng" languages="English;official">Jiangsu Sheng</name>
+		<name normalized="Kang-so͘-seng" languages="Chinese (Min Nan)">Kang-so͘-séng</name>
+		<name normalized="Kong-su" languages="Hakka">Kông-sû</name>
+		<name normalized="Gjangsuo" languages="Esperanto">Ĝjangsuo</name>
+		<name normalized="Tiang-su" languages="Czech">Ťiang-su</name>
+		<name normalized="Τσιανγκσοu" languages="Greek">Τσιανγκσού</name>
+		<name normalized="Dziнсu" languages="Bulgarian">Дзянсу</name>
+		<name normalized="Ziнсү" languages="Mongolian">Жянсү</name>
+		<name normalized="Pрaviнtыi Tziнсu" languages="Belarusian">Правінцыя Цзянсу</name>
+		<name normalized="Tziнсu" languages="Russian;Sakha;Ukrainian">Цзянсу</name>
+		<name normalized="Daнgсu" languages="Serbian">Ђангсу</name>
+		<name normalized="ג'יאnגסv" languages="Hebrew">ג'יאנגסו</name>
+		<name normalized="jyאنغسو" languages="Arabic">جيانغسو</name>
+		<name normalized="jyאڭسۇ ئۆلkىسى" languages="Uyghur">جياڭسۇ ئۆلكىسى</name>
+		<name normalized="jیאنgزو" languages="Western Punjabi">جیانگزو</name>
+		<name normalized="jیאنgسو" languages="Persian">جیانگسو</name>
+		<name normalized="c्yांg्su" languages="Marathi">च्यांग्सू</name>
+		<name normalized="jiaंgsu" languages="Hindi">जिआंगसू</name>
+		<name normalized="มณฑลเจียงซู" languages="Thai">มณฑลเจียงซู</name>
+		<name normalized="ཅང་སུའུ་ཞིང་ཆེན།" languages="Tibetan">ཅང་སུའུ་ཞིང་ཆེན།</name>
+		<name normalized="ძიანსუ" languages="Georgian">ძიანსუ</name>
+		<name normalized="江苏省" languages="Chinese;Wu">江苏省</name>
+		<name normalized="江蘇" languages="Cantonese;Gan">江蘇</name>
+		<name normalized="江蘇省" languages="Classical Chinese;Japanese">江蘇省</name>
+		<name normalized="장쑤 성" languages="Korean">장쑤 성</name>
+	</region>
+	<region name="Jiangxi" type="province" typeTranslated="sheng">
+		<name normalized="Csianghszi" languages="Hungarian">Csianghszi</name>
+		<name normalized="Dziangsi" languages="Lithuanian">Dziangsi</name>
+		<name normalized="Dzjansji" languages="Latvian">Dzjansji</name>
+		<name normalized="Giang Tay" languages="Vietnamese">Giang Tây</name>
+		<name normalized="Jiangsji" languages="Afrikaans">Jiangsji</name>
+		<name normalized="Jiangxi" languages="Achinese;Basque;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Indonesian;Interlingua;Irish;Italian;Kongo;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;veneto;Waray;Welsh">Jiangxi</name>
+		<name normalized="Jiangxi Province" languages="English;official">Jiangxi Province</name>
+		<name normalized="Jiangxi pruwinsya" languages="Quechua">Jiangxi pruwinsya</name>
+		<name normalized="Jiangxi Sheng" languages="English;official">Jiangxi Sheng</name>
+		<name normalized="Kang-sai-seng" languages="Chinese (Min Nan)">Kang-sai-séng</name>
+		<name normalized="Kong-si" languages="Hakka">Kông-sî</name>
+		<name normalized="Gjangsio" languages="Esperanto">Ĝjangŝio</name>
+		<name normalized="Tiang-si" languages="Czech">Ťiang-si</name>
+		<name normalized="Τσιανγκσι" languages="Greek">Τσιανγκσί</name>
+		<name normalized="Dziнсi" languages="Bulgarian">Дзянси</name>
+		<name normalized="Ziнsi мuz" languages="Mongolian">Жянши муж</name>
+		<name normalized="Tziнсi" languages="Russian">Цзянси</name>
+		<name normalized="Tziнсi" languages="Ukrainian">Цзянсі</name>
+		<name normalized="Daнgсi" languages="Serbian">Ђангси</name>
+		<name normalized="ג'יאnגשי" languages="Hebrew">ג'יאנגשי</name>
+		<name normalized="jyאنغشy" languages="Arabic">جيانغشي</name>
+		<name normalized="jyאڭشى ئۆلkىسى" languages="Uyghur">جياڭشى ئۆلكىسى</name>
+		<name normalized="jیאنgشی" languages="Persian">جیانگشی</name>
+		<name normalized="c्yांg्si" languages="Marathi">च्यांग्शी</name>
+		<name normalized="jiaंgsi" languages="Hindi">जिआंगशी</name>
+		<name normalized="ciy়াংsi" languages="Bengali">চিয়াংশি</name>
+		<name normalized="มณฑลเจียงซี" languages="Thai">มณฑลเจียงซี</name>
+		<name normalized="ཅང་ཤིའི་ཞིང་ཆེན།" languages="Tibetan">ཅང་ཤིའི་ཞིང་ཆེན།</name>
+		<name normalized="ძიანსი" languages="Georgian">ძიანსი</name>
+		<name normalized="江西" languages="Cantonese;Gan">江西</name>
+		<name normalized="江西省" languages="Chinese;Classical Chinese;Japanese">江西省</name>
+		<name normalized="장시 성" languages="Korean">장시 성</name>
+	</region>
+	<region name="Jilin" type="province" typeTranslated="sheng">
+		<name normalized="Csilin" languages="Hungarian">Csilin</name>
+		<name normalized="Cat Lam" languages="Vietnamese">Cát Lâm</name>
+		<name normalized="Dzilinas" languages="Lithuanian">Dzilinas</name>
+		<name normalized="Dzjilina" languages="Latvian">Dzjiliņa</name>
+		<name normalized="Jilin" languages="Achinese;Afrikaans;Basque;Breton;Catalan;Croatian;Danish;Dutch;English;Finnish;French;Galician;German;Indonesian;Interlingua;Irish;Italian;Javanese;Kongo;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;veneto;Waray;Welsh">Jilin</name>
+		<name normalized="Jilin Province" languages="English;official">Jilin Province</name>
+		<name normalized="Jilin pruwinsya" languages="Quechua">Jilin pruwinsya</name>
+		<name normalized="Jilin Sheng" languages="English;official">Jilin Sheng</name>
+		<name normalized="Jilini provints" languages="Estonian">Jilini provints</name>
+		<name normalized="Kiat-lim-seng" languages="Chinese (Min Nan)">Kiat-lîm-séng</name>
+		<name normalized="Kit-lim" languages="Hakka">Kit-lìm</name>
+		<name normalized="Gilinio" languages="Esperanto">Ĝilinio</name>
+		<name normalized="Ti-lin" languages="Czech">Ťi-lin</name>
+		<name normalized="Giрiн" languages="Mongolian;Russian">Гирин</name>
+		<name normalized="Dziлiн" languages="Bulgarian">Дзилин</name>
+		<name normalized="Pрaviнtыi Giрын" languages="Belarusian">Правінцыя Гірын</name>
+		<name normalized="Tziлiнь" languages="Sakha">Цзилинь</name>
+		<name normalized="Tziлiнь" languages="Ukrainian">Цзілінь</name>
+		<name normalized="Diлiн" languages="Serbian">Ђилин</name>
+		<name normalized="ג'ידין" languages="Hebrew">ג'ילין</name>
+		<name normalized="jىلىن ئۆلkىسى" languages="Uyghur">جىلىن ئۆلكىسى</name>
+		<name normalized="jyلyن" languages="Arabic">جيلين</name>
+		<name normalized="jیلن" languages="Western Punjabi">جیلن</name>
+		<name normalized="jی‌لین" languages="Persian">جی‌لین</name>
+		<name normalized="cilin" languages="Marathi">चीलिन</name>
+		<name normalized="jilin" languages="Hindi">जीलिन</name>
+		<name normalized="มณฑลจี๋หลิน" languages="Thai">มณฑลจี๋หลิน</name>
+		<name normalized="ཅི་ལིན་ཞིང་ཆེན།" languages="Tibetan">ཅི་ལིན་ཞིང་ཆེན།</name>
+		<name normalized="გირინი" languages="Georgian">გირინი</name>
+		<name normalized="吉林" languages="Cantonese">吉林</name>
+		<name normalized="吉林省" languages="Chinese;Japanese">吉林省</name>
+		<name normalized="지린 성" languages="Korean">지린 성</name>
+	</region>
+	<region name="Liaoning" type="province" typeTranslated="sheng">
+		<name normalized="Liao-ning" languages="Czech">Liao-ning</name>
+		<name normalized="Liaonina" languages="Latvian">Liaonina</name>
+		<name normalized="Liaoning" languages="Achinese;Afrikaans;Basque;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Hungarian;Indonesian;Interlingua;Irish;Italian;Kongo;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;veneto;Walloon;Waray;Welsh">Liaoning</name>
+		<name normalized="Liaoning Province" languages="English;official">Liaoning Province</name>
+		<name normalized="Liaoning pruwinsya" languages="Quechua">Liaoning pruwinsya</name>
+		<name normalized="Liaoning Sheng" languages="English;official">Liaoning Sheng</name>
+		<name normalized="Liaoningas" languages="Lithuanian">Liaoningas</name>
+		<name normalized="Liau-leng-seng" languages="Chinese (Min Nan)">Liâu-lêng-séng</name>
+		<name normalized="Liau-nen" languages="Hakka">Liâu-nèn</name>
+		<name normalized="Lieu Ninh" languages="Vietnamese">Liêu Ninh</name>
+		<name normalized="Ljauningo" languages="Esperanto">Ljaŭningo</name>
+		<name normalized="Provenz Liaoning" languages="Luxembourgish">Provënz Liaoning</name>
+		<name normalized="Лioнiн" languages="Bulgarian;Mongolian;Russian;Sakha">Ляонин</name>
+		<name normalized="Лioнiн" languages="Ukrainian">Ляонін</name>
+		<name normalized="Laoнiнg" languages="Serbian">Љаонинг</name>
+		<name normalized="דיאvnיnג" languages="Hebrew">ליאונינג</name>
+		<name normalized="لyאونyنغ" languages="Arabic">لياونينغ</name>
+		<name normalized="لyאۋنىڭ ئۆلkىسى" languages="Uyghur">لياۋنىڭ ئۆلكىسى</name>
+		<name normalized="لیאئونینg" languages="Persian">لیائونینگ</name>
+		<name normalized="لیאوننg" languages="Western Punjabi">لیاوننگ</name>
+		<name normalized="liyाoniंg" languages="Hindi">लियाओनिंग</name>
+		<name normalized="l्yाoniंg" languages="Marathi">ल्याओनिंग</name>
+		<name normalized="มณฑลเหลียวหนิง" languages="Thai">มณฑลเหลียวหนิง</name>
+		<name normalized="ལའུ་ཉིང་ཞིང་ཆེན།" languages="Tibetan">ལའུ་ཉིང་ཞིང་ཆེན།</name>
+		<name normalized="လျောင်းနင်ပြည်နယ်" languages="Burmese">လျောင်းနင်ပြည်နယ်</name>
+		<name normalized="ლიაონინი" languages="Georgian">ლიაონინი</name>
+		<name normalized="辽宁省" languages="Chinese">辽宁省</name>
+		<name normalized="遼寧" languages="Cantonese">遼寧</name>
+		<name normalized="遼寧省" languages="Classical Chinese;Japanese">遼寧省</name>
+		<name normalized="랴오닝 성" languages="Korean">랴오닝 성</name>
+	</region>
+	<region name="Nei Mongol" type="autonomous region" typeTranslated="zizhiqu">
+		<name normalized="An Ion-Mhongoil" languages="Irish">An Ion-Mhongóil</name>
+		<name normalized="Barne Mongolia" languages="Basque">Barne Mongolia</name>
+		<name normalized="Belso-Mongolia" languages="Hungarian">Belső-Mongólia</name>
+		<name normalized="Binne-Mongolie" languages="Afrikaans">Binne-Mongolië</name>
+		<name normalized="Binnen-Mongolie" languages="Dutch">Binnen-Mongolië</name>
+		<name normalized="Iekseja Mongolija" languages="Latvian">Iekšējā Mongolija</name>
+		<name normalized="Indre Mongolia" languages="Norwegian (bokmal);Norwegian Nynorsk">Indre Mongolia</name>
+		<name normalized="Indre Mongoliet" languages="Danish">Indre Mongoliet</name>
+		<name normalized="Innara-Mongolia" languages="Faroese">Innara-Mongolia</name>
+		<name normalized="Innare Mongolei" languages="Bavarian">Innare Mongolei</name>
+		<name normalized="Inner Mongolia" languages="English;official;Simple English;Waray">Inner Mongolia</name>
+		<name normalized="Inner Mongolie" languages="Scots">Inner Mongolie</name>
+		<name normalized="Innere Mongolei" languages="German">Innere Mongolei</name>
+		<name normalized="Inre Mongoliet" languages="Swedish">Inre Mongoliet</name>
+		<name normalized="Interna Mongolio" languages="Esperanto">Interna Mongolio</name>
+		<name normalized="Ic Mogolistan" languages="Turkish">İç Moğolistan</name>
+		<name normalized="Lai-bong-ko͘ Chu-ti-khu" languages="Chinese (Min Nan)">Lāi-bông-kó͘ Chū-tī-khu</name>
+		<name normalized="Monggolyang Interyor" languages="Tagalog">Monggolyang Interyor</name>
+		<name normalized="Mongolia an Diabarzh" languages="Breton">Mongolia an Diabarzh</name>
+		<name normalized="Mongolia Dalam" languages="Achinese;Indonesian;Malay">Mongolia Dalam</name>
+		<name normalized="Mongolia Fewnol" languages="Welsh">Mongolia Fewnol</name>
+		<name normalized="Mongolia Interioara" languages="Romanian">Mongolia Interioară</name>
+		<name normalized="Mongolia Interior" languages="Spanish">Mongolia Interior</name>
+		<name normalized="Mongolia Interiora" languages="Occitan">Mongolia Interiora</name>
+		<name normalized="Mongolia Interna" languages="Italian">Mongolia Interna</name>
+		<name normalized="Mongolia Jero" languages="Sundanese">Mongolia Jero</name>
+		<name normalized="Mongolia Wewnetrzna" languages="Polish">Mongolia Wewnętrzna</name>
+		<name normalized="Mongolia ya Kichina" languages="Swahili">Mongolia ya Kichina</name>
+		<name normalized="Mongolie-interieure" languages="French">Mongolie-intérieure</name>
+		<name normalized="Mongolia Interna" languages="veneto">Mongołia Interna</name>
+		<name normalized="Mongolia Interior" languages="Catalan">Mongòlia Interior</name>
+		<name normalized="Mongolia Interior" languages="Portuguese">Mongólia Interior</name>
+		<name normalized="Mungul suyu ukhupi" languages="Quechua">Mungul suyu ukhupi</name>
+		<name normalized="Nei Mongol" languages="English;Kongo;official">Nei Mongol</name>
+		<name normalized="Neimenggu" languages="Interlingua">Neimenggu</name>
+		<name normalized="Nui Mung-ku" languages="Hakka">Nui Mùng-kú</name>
+		<name normalized="Noi Mong" languages="Vietnamese">Nội Mông</name>
+		<name normalized="Sise-Mongoolia" languages="Estonian">Sise-Mongoolia</name>
+		<name normalized="Sisa-Mongolia" languages="Finnish">Sisä-Mongolia</name>
+		<name normalized="Unutarnja Mongolija" languages="Croatian">Unutarnja Mongolija</name>
+		<name normalized="Unutrasnja Mongolija" languages="Bosnian;Serbo-Croatian">Unutrašnja Mongolija</name>
+		<name normalized="Vidine Mongolija" languages="Lithuanian">Vidinė Mongolija</name>
+		<name normalized="Vnitrni Mongolsko" languages="Czech">Vnitřní Mongolsko</name>
+		<name normalized="Vnutorne Mongolsko" languages="Slovak">Vnútorné Mongolsko</name>
+		<name normalized="Yn Vongoil Sthie" languages="Manx">Yn Vongoil Sthie</name>
+		<name normalized="Εσωτερικη Μογγολια" languages="Greek">Εσωτερική Μογγολία</name>
+		<name normalized="Vнatрisнa Мoнgoлija" languages="Macedonian">Внатрешна Монголија</name>
+		<name normalized="Vнutрiннii Мoнgoлii" languages="Russian">Внутренняя Монголия</name>
+		<name normalized="Vнutрisнi Мoнgoлii" languages="Ukrainian">Внутрішня Монголія</name>
+		<name normalized="Vъtрisнa Мoнgoлii" languages="Bulgarian">Вътрешна Монголия</name>
+		<name normalized="Uнutрaнai Мaнgoлii" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Унутраная Манголія</name>
+		<name normalized="Uнutрasna Мoнgoлija" languages="Serbian">Унутрашња Монголија</name>
+		<name normalized="Iski Мoңғoлii" languages="Kazakh">Ішкі Моңғолия</name>
+		<name normalized="Үbeр Мoнgoл" languages="buрiad">Үбэр Монгол</name>
+		<name normalized="Өvр Мoңһлмud" languages="Kalmyk">Өвр Моңһлмуд</name>
+		<name normalized="Өvɵр Мoнgoлын Өɵрtɵɵ Zaсak Oрoн" languages="Mongolian">Өвөр Монголын Өөртөө Засах Орон</name>
+		<name normalized="מvnגvדיh hpnימיt" languages="Hebrew">מונגוליה הפנימית</name>
+		<name normalized="ئىچkى mوڭغۇل ئאptونوm rאyونى" languages="Uyghur">ئىچكى موڭغۇل ئاپتونوم رايونى</name>
+		<name normalized="אندrآلא mنgولیא" languages="Western Punjabi">اندرآلا منگولیا</name>
+		<name normalized="mغولسtאن دאخلی" languages="Persian">مغولستان داخلی</name>
+		<name normalized="mنغولyא אلدאخلyة" languages="Arabic">منغوليا الداخلية</name>
+		<name normalized="aंtrik mंgoliyा" languages="Marathi">आंतरिक मंगोलिया</name>
+		<name normalized="bitri mंgoliyा" languages="Hindi">भीतरी मंगोलिया</name>
+		<name normalized="ഇന്നർ മംഗോളിയ" languages="Malayalam">ഇന്നർ മംഗോളിയ</name>
+		<name normalized="เขตปกครองตนเองมองโกเลียใน" languages="Thai">เขตปกครองตนเองมองโกเลียใน</name>
+		<name normalized="ནང་སོག་རང་སྐྱོང་ལྗོངས།" languages="Tibetan">ནང་སོག་རང་སྐྱོང་ལྗོངས།</name>
+		<name normalized="შიგა მონღოლეთი" languages="Georgian">შიგა მონღოლეთი</name>
+		<name normalized="內蒙古" languages="Cantonese;Gan">內蒙古</name>
+		<name normalized="內蒙古自治區" languages="Classical Chinese">內蒙古自治區</name>
+		<name normalized="内mngr自治区" languages="Japanese">内モンゴル自治区</name>
+		<name normalized="内蒙古自治区" languages="Chinese;Wu">内蒙古自治区</name>
+		<name normalized="내몽골 자치구" languages="Korean">내몽골 자치구</name>
+	</region>
+	<region name="Ningxia" type="autonomous region" typeTranslated="zizhiqu">
+		<name normalized="Leng-ha Hoe-cho̍k Chu-ti-khu" languages="Chinese (Min Nan)">Lêng-hā Hôe-cho̍k Chū-tī-khu</name>
+		<name normalized="Ning-sia" languages="Czech">Ning-sia</name>
+		<name normalized="Ninghszia" languages="Hungarian">Ninghszia</name>
+		<name normalized="Ningsia" languages="Italian;Lithuanian">Ningsia</name>
+		<name normalized="Ningxia" languages="Achinese;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Indonesian;Interlingua;Irish;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Polish;Portuguese;Quechua;Romanian;Scots;Serbo-Croatian;Spanish;Sundanese;Swahili;Swedish;Tagalog;Waray;Welsh">Ningxia</name>
+		<name normalized="Ningxia Hui" languages="Kongo">Ningxia Hui</name>
+		<name normalized="Ningxia Hui Eskualde Autonomoa" languages="Basque">Ningxia Hui Eskualde Autonomoa</name>
+		<name normalized="Ningsjao" languages="Esperanto">Ningŝjao</name>
+		<name normalized="Ningsia Hui Ozerk Bolgesi" languages="Turkish">Ningşia Hui Özerk Bölgesi</name>
+		<name normalized="Ninh Ha" languages="Vietnamese">Ninh Hạ</name>
+		<name normalized="Ninsjas Hueju autonomais regions" languages="Latvian">Ninsjas Hueju autonomais reģions</name>
+		<name normalized="Nen-ha" languages="Hakka">Nèn-ha</name>
+		<name normalized="Нiнgсja" languages="Serbian">Нингсја</name>
+		<name normalized="Нiнсi" languages="Kazakh">Нинся</name>
+		<name normalized="Нiнсi-kuiйсki avtoнoмiн рigioн" languages="Bulgarian">Нинся-хуейски автономен регион</name>
+		<name normalized="Нiнсi-Kueйсkiй avtoнoмный рaйoн" languages="Russian">Нинся-Хуэйский автономный район</name>
+		<name normalized="Нiнsa" languages="Kalmyk">Нинша</name>
+		<name normalized="Нiнсi-Kuiйсьkiй avtoнoмнiй рaйoн" languages="Ukrainian">Нінся-Хуейський автономний район</name>
+		<name normalized="Նինsյա-Xvyեյ" languages="Armenian">Նինսյա-Խուեյ</name>
+		<name normalized="nיnגשיh" languages="Hebrew">נינגשיה</name>
+		<name normalized="ننgزیא" languages="Western Punjabi">ننگزیا</name>
+		<name normalized="نىڭشyא خۇyزۇ ئאptونۇm rאyونى" languages="Uyghur">نىڭشيا خۇيزۇ ئاپتونۇم رايونى</name>
+		<name normalized="نyنغشyא" languages="Arabic">نينغشيا</name>
+		<name normalized="نینg‌شیא" languages="Persian">نینگ‌شیا</name>
+		<name normalized="niंgsiyा" languages="Hindi">निंगशिया</name>
+		<name normalized="niंg्s्yा" languages="Marathi">निंग्स्या</name>
+		<name normalized="നിൻഗ്സിയ" languages="Malayalam">നിൻഗ്സിയ</name>
+		<name normalized="เขตปกครองตนเองหนิงเซี่ยหุย" languages="Thai">เขตปกครองตนเองหนิงเซี่ยหุย</name>
+		<name normalized="ཉིང་ཤ་ཧུའི་རིགས་རང་སྐྱོང་ལྗོངས།" languages="Tibetan">ཉིང་ཤ་ཧུའི་རིགས་རང་སྐྱོང་ལྗོངས།</name>
+		<name normalized="ნინსია-ხუეი" languages="Georgian">ნინსია-ხუეი</name>
+		<name normalized="宁夏回族自治区" languages="Chinese">宁夏回族自治区</name>
+		<name normalized="寧夏" languages="Cantonese">寧夏</name>
+		<name normalized="寧夏回族自治区" languages="Japanese">寧夏回族自治区</name>
+		<name normalized="닝샤 후이족 자치구" languages="Korean">닝샤 후이족 자치구</name>
+	</region>
+	<region name="Qinghai" type="province" typeTranslated="sheng">
+		<name normalized="Chheng-hai-seng" languages="Chinese (Min Nan)">Chheng-hái-séng</name>
+		<name normalized="Cjinhai" languages="Latvian">Cjinhai</name>
+		<name normalized="Csinghaj" languages="Hungarian">Csinghaj</name>
+		<name normalized="Qinghai" languages="Achinese;Basque;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Indonesian;Interlingua;Irish;Italian;Kongo;Latin;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Sicilian;Simple English;Spanish;Swahili;Swedish;Tagalog;veneto;Waray;Welsh">Qinghai</name>
+		<name normalized="Qinghai Province" languages="English;official">Qinghai Province</name>
+		<name normalized="Qinghai pruwinsya" languages="Quechua">Qinghai pruwinsya</name>
+		<name normalized="Qinghai Sheng" languages="English;official">Qinghai Sheng</name>
+		<name normalized="Thanh Hai" languages="Vietnamese">Thanh Hải</name>
+		<name normalized="Tshiang-hoi" languages="Hakka">Tshiâng-hói</name>
+		<name normalized="Cinghay" languages="Turkish">Çinghay</name>
+		<name normalized="Cinghajo" languages="Esperanto">Ĉinghajo</name>
+		<name normalized="Cching-chaj" languages="Czech">Čching-chaj</name>
+		<name normalized="Cinghai" languages="Lithuanian">Činghai</name>
+		<name normalized="Pрaviнtыi Tынkaй" languages="Belarusian">Правінцыя Цынхай</name>
+		<name normalized="Сынtaй" languages="Sakha">Сынтай</name>
+		<name normalized="Kɵkнuuр" languages="Mongolian">Хөхнуур</name>
+		<name normalized="Tiнkaй" languages="Bulgarian;Russian">Цинхай</name>
+		<name normalized="Tiнkaй" languages="Ukrainian">Цінхай</name>
+		<name normalized="Ћiнgkaj" languages="Serbian">Ћингхај</name>
+		<name normalized="צ'יnגhאי" languages="Hebrew">צ'ינגהאי</name>
+		<name normalized="tشyنغhאy" languages="Arabic">تشينغهاي</name>
+		<name normalized="چنgہאۓ" languages="Western Punjabi">چنگہاۓ</name>
+		<name normalized="چىڭخەy ئۆلkىسى" languages="Uyghur">چىڭخەي ئۆلكىسى</name>
+		<name normalized="چینghאی" languages="Persian">چینگهای</name>
+		<name normalized="ciंghi" languages="Hindi">चिंगहई</name>
+		<name normalized="ciंghाy" languages="Marathi">छिंगहाय</name>
+		<name normalized="มณฑลชิงไห่" languages="Thai">มณฑลชิงไห่</name>
+		<name normalized="མཚོ་སྔོན་ཞིང་ཆེན།" languages="Tibetan">མཚོ་སྔོན་ཞིང་ཆེན།</name>
+		<name normalized="ცინხაი" languages="Georgian">ცინხაი</name>
+		<name normalized="青海" languages="Cantonese;Gan">青海</name>
+		<name normalized="青海省" languages="Chinese;Classical Chinese;Japanese">青海省</name>
+		<name normalized="칭하이 성" languages="Korean">칭하이 성</name>
+	</region>
+	<region name="Shaanxi" type="province" typeTranslated="sheng">
+		<name normalized="Chanxi" languages="Walloon">Chånxi</name>
+		<name normalized="Senhszi" languages="Hungarian">Senhszi</name>
+		<name normalized="Shaanxi" languages="Achinese;Basque;Bosnian;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Indonesian;Interlingua;Irish;Italian;Kongo;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;veneto;Waray;Welsh">Shaanxi</name>
+		<name normalized="Shaanxi Province" languages="English;official">Shaanxi Province</name>
+		<name normalized="Shaanxi pruwinsya" languages="Quechua">Shaanxi pruwinsya</name>
+		<name normalized="Shaanxi Sheng" languages="English;official">Shaanxi Sheng</name>
+		<name normalized="Sham-si-sen" languages="Hakka">Shám-sî-sén</name>
+		<name normalized="Siam-sai-seng" languages="Chinese (Min Nan)">Siám-sai-séng</name>
+		<name normalized="Sjaanxi" languages="Afrikaans">Sjaanxi</name>
+		<name normalized="Thiem Tay" languages="Vietnamese">Thiểm Tây</name>
+		<name normalized="Sensio" languages="Esperanto">Ŝenŝio</name>
+		<name normalized="Sensi" languages="Turkish">Şensi</name>
+		<name normalized="Saansi" languages="Lithuanian">Šaansi</name>
+		<name normalized="Saansji" languages="Latvian">Šaaņsji</name>
+		<name normalized="Sen-si" languages="Czech">Šen-si</name>
+		<name normalized="Siнсi" languages="Serbian">Шенси</name>
+		<name normalized="Siньсi" languages="Ukrainian">Шеньсі</name>
+		<name normalized="Sънсi" languages="Bulgarian">Шънси</name>
+		<name normalized="Seньсi" languages="Russian;Sakha">Шэньси</name>
+		<name normalized="Seньсi мuz" languages="Mongolian">Шэньси муж</name>
+		<name normalized="שאאnשי" languages="Hebrew">שאאנשי</name>
+		<name normalized="شאآنشی" languages="Persian">شاآنشی</name>
+		<name normalized="شאنسی" languages="Western Punjabi">شانسی</name>
+		<name normalized="شنشy" languages="Arabic">شنشي</name>
+		<name normalized="شېنشى ئۆلkىسى" languages="Uyghur">شېنشى ئۆلكىسى</name>
+		<name normalized="sाn्si" languages="Hindi">शान्शी</name>
+		<name normalized="षा'n्si" languages="Marathi">षा'न्शी</name>
+		<name normalized="มณฑลส่านซี" languages="Thai">มณฑลส่านซี</name>
+		<name normalized="ཧྲའན་ཞི་ཞིང་ཆེན།" languages="Tibetan">ཧྲའན་ཞི་ཞིང་ཆེན།</name>
+		<name normalized="შენსი" languages="Georgian">შენსი</name>
+		<name normalized="陕西省" languages="Chinese">陕西省</name>
+		<name normalized="陜西省" languages="Classical Chinese">陜西省</name>
+		<name normalized="陝西" languages="Cantonese;Gan">陝西</name>
+		<name normalized="陝西省" languages="Japanese">陝西省</name>
+		<name normalized="산시 성" languages="Korean">산시 성</name>
+	</region>
+	<region name="Shandong" type="province" typeTranslated="sheng">
+		<name normalized="Chandong" languages="Walloon">Chandong</name>
+		<name normalized="Santung" languages="Hungarian">Santung</name>
+		<name normalized="Shandong" languages="Achinese;Basque;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Indonesian;Interlingua;Irish;Italian;Kongo;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Pampanga;Portuguese;Romanian;Scots;Serbo-Croatian;Spanish;Swahili;Swedish;Tagalog;veneto;Waray;Welsh">Shandong</name>
+		<name normalized="Shandong Province" languages="English;official">Shandong Province</name>
+		<name normalized="Shandong pruwinsya" languages="Quechua">Shandong pruwinsya</name>
+		<name normalized="Shandong Sheng" languages="English;official">Shandong Sheng</name>
+		<name normalized="Sjandong" languages="Afrikaans">Sjandong</name>
+		<name normalized="Soan-tang-seng" languages="Chinese (Min Nan)">Soaⁿ-tang-séng</name>
+		<name normalized="Szantung" languages="Polish">Szantung</name>
+		<name normalized="San-tung" languages="Hakka">Sân-tûng</name>
+		<name normalized="Son Dong" languages="Vietnamese">Sơn Đông</name>
+		<name normalized="Sandongo" languages="Esperanto">Ŝandongo</name>
+		<name normalized="Santung" languages="Turkish">Şantung</name>
+		<name normalized="San-tung" languages="Czech">Šan-tung</name>
+		<name normalized="Sandongas" languages="Lithuanian">Šandongas</name>
+		<name normalized="Sanduna" languages="Latvian">Šaņduna</name>
+		<name normalized="Σαν-τουνγκ" languages="Greek">Σαν-τουνγκ</name>
+		<name normalized="Pрaviнtыi Saньduн" languages="Belarusian">Правінцыя Шаньдун</name>
+		<name normalized="Saнduн" languages="Bulgarian">Шандун</name>
+		<name normalized="Saнduнg" languages="Serbian">Шандунг</name>
+		<name normalized="Saньduн" languages="Mongolian;Ossetic;Russian;Sakha;Ukrainian">Шаньдун</name>
+		<name normalized="שאnדvnג" languages="Hebrew">שאנדונג</name>
+		<name normalized="شאندونغ" languages="Arabic">شاندونغ</name>
+		<name normalized="شאندونg" languages="Persian">شاندونگ</name>
+		<name normalized="شאنڈونg" languages="Western Punjabi">شانڈونگ</name>
+		<name normalized="شەندۇڭ ئۆلkىسى" languages="Uyghur">شەندۇڭ ئۆلكىسى</name>
+		<name normalized="sाndoंg" languages="Hindi">शानदोंग</name>
+		<name normalized="षांtoंg" languages="Marathi">षांतोंग</name>
+		<name normalized="มณฑลซานตง" languages="Thai">มณฑลซานตง</name>
+		<name normalized="ཧྲན་ཏུང་ཞིང་ཆེན།" languages="Tibetan">ཧྲན་ཏུང་ཞིང་ཆེན།</name>
+		<name normalized="შანდუნი" languages="Georgian">შანდუნი</name>
+		<name normalized="山东省" languages="Chinese">山东省</name>
+		<name normalized="山東" languages="Cantonese;Gan">山東</name>
+		<name normalized="山東省" languages="Classical Chinese;Japanese">山東省</name>
+		<name normalized="산둥 성" languages="Korean">산둥 성</name>
+	</region>
+	<region name="Shanghai" type="municipality" typeTranslated="shi">
+		<name normalized="canxais." languages="Lojban">canxais.</name>
+		<name normalized="Changai" languages="Guarani">Changái</name>
+		<name normalized="Sanghaij" languages="Zhuang">Sanghaij</name>
+		<name normalized="Sanghaj" languages="Hungarian">Sanghaj</name>
+		<name normalized="Schanghai" languages="Romansh">Schanghai</name>
+		<name normalized="Sciamhaevum" languages="Latin">Sciamhaevum</name>
+		<name normalized="Shang-hai" languages="Irish">Shang-hai</name>
+		<name normalized="Shangai" languages="Albanian">Shangai</name>
+		<name normalized="Shanghai" languages="Achinese;Alemannisch;Asturian;Aymara;Basque;Breton;Cornish;Danish;Dutch;English;Estonian;Extremaduran;Fiji Hindi;Finnish;Franco-Provencal;French;Galician;German;Haitian;Ido;Iloko;Indonesian;Interlingua;Interlingue;Italian;Javanese;Kalaallisut;Kongo;Ladino;lumbaart;Luxembourgish;Malagasy;Malay;Manx;Maori;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Pampanga;Piedmontese;Quechua;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Sicilian;Simple English;Sundanese;Swahili;Swedish;Tagalog;tarandine;Voro;Waray;Welsh;Western Frisian">Shanghai</name>
+		<name normalized="Shanghai" languages="Spanish">Shanghái</name>
+		<name normalized="Shanxay" languages="Uzbek">Shanxay</name>
+		<name normalized="Siangai" languages="veneto">Siangai</name>
+		<name normalized="Siong-hai" languages="Min Dong Chinese">Siông-hāi</name>
+		<name normalized="Siong-hai-chhi" languages="Chinese (Min Nan)">Siōng-hái-chhī</name>
+		<name normalized="Sjanghai" languages="Afrikaans">Sjanghai</name>
+		<name normalized="Sjanghae" languages="Icelandic">Sjanghæ</name>
+		<name normalized="Szanghaj" languages="Polish;Silesian">Szanghaj</name>
+		<name normalized="Song-hoi" languages="Hakka">Sông-hói</name>
+		<name normalized="Thuong Hai" languages="Vietnamese">Thượng Hải</name>
+		<name normalized="Xangai" languages="Aragonese;Catalan;Mirandese;Portuguese">Xangai</name>
+		<name normalized="Xanghai" languages="Nahuatl">Xanghai</name>
+		<name normalized="Sanhajo" languages="Esperanto">Ŝanhajo</name>
+		<name normalized="Sanghay" languages="Kurdish;Turkish">Şanghay</name>
+		<name normalized="Sanhay" languages="Turkmen">Şanhaý</name>
+		<name normalized="Sanxay" languages="Azerbaijani;Tatar">Şanxay</name>
+		<name normalized="Sengay" languages="Zazaki">Şengay</name>
+		<name normalized="Sanchajos" languages="Samogitian">Šanchajos</name>
+		<name normalized="Sanchajus" languages="Lithuanian">Šanchajus</name>
+		<name normalized="Sangaj" languages="Bosnian;Croatian">Šangaj</name>
+		<name normalized="Sanghaj" languages="Czech;Slovak;Slovenian">Šanghaj</name>
+		<name normalized="Sanhai" languages="Veps">Šanhai</name>
+		<name normalized="Sanhaja" languages="Latvian">Šanhaja</name>
+		<name normalized="Σαγκαη" languages="Greek">Σαγκάη</name>
+		<name normalized="Goрad Saнkaй" languages="Belarusian">Горад Шанхай</name>
+		<name normalized="Saнgaj" languages="Macedonian;Serbian">Шангај</name>
+		<name normalized="Saнkaй" languages="Bashkir;Bulgarian;Chechen;Chuvash;Eastern Mari;Kalmyk;Kazakh;Komi;Lezghian;Mongolian;Ossetic;Russian;Sakha;Tajik;Udmurt;Ukrainian;biлaрuсkai (taрaskivita)‎;buрiad">Шанхай</name>
+		<name normalized="Saнґgaй" languages="Rusyn">Шанґгай</name>
+		<name normalized="Sանhայ" languages="Armenian">Շանհայ</name>
+		<name normalized="שאnגhאי" languages="Hebrew">שאנגחאי</name>
+		<name normalized="שאnכיי" languages="Yiddish">שאנכיי</name>
+		<name normalized="شאنjhאى" languages="Egyptian Spoken Arabic">شانجهاى</name>
+		<name normalized="شאنغhאy" languages="Arabic">شانغهاي</name>
+		<name normalized="شאنghאی" languages="Mazanderani;Pashto;Persian">شانگهای</name>
+		<name normalized="شאنgھאی" languages="Sorani Kurdish">شانگھای</name>
+		<name normalized="شאڭخەy شەھىrى" languages="Uyghur">شاڭخەي شەھىرى</name>
+		<name normalized="شنgھאئی" languages="Urdu">شنگھائی</name>
+		<name normalized="شنgہאئی" languages="Western Punjabi">شنگہائی</name>
+		<name normalized="sंgाi" languages="Hindi">शंघाई</name>
+		<name normalized="sांgाy" languages="Marathi">शांघाय</name>
+		<name normalized="sाङ्gाi" languages="Nepali">शाङ्घाई</name>
+		<name normalized="sाङ्hाi" languages="Newari">शाङ्हाइ</name>
+		<name normalized="sাংhাi" languages="Bengali">সাংহাই</name>
+		<name normalized="s਼ੰgਾi" languages="Punjabi">ਸ਼ੰਘਾਈ</name>
+		<name normalized="சாங்காய்" languages="Tamil">சாங்காய்</name>
+		<name normalized="షాంఘై" languages="Telugu">షాంఘై</name>
+		<name normalized="ಶಾಂಘೈ" languages="Kannada">ಶಾಂಘೈ</name>
+		<name normalized="ഷാങ്ഹായ്" languages="Malayalam">ഷാങ്ഹായ്</name>
+		<name normalized="ෂැංහයි" languages="Sinhala">ෂැංහයි</name>
+		<name normalized="เซี่ยงไฮ้" languages="Thai">เซี่ยงไฮ้</name>
+		<name normalized="ຊຽງໄຮ້" languages="Lao">ຊຽງໄຮ້</name>
+		<name normalized="ཧྲང་ཧའེ་གྲོང་ཁྱེར།" languages="Tibetan">ཧྲང་ཧའེ་གྲོང་ཁྱེར།</name>
+		<name normalized="ရှန်ဟိုင်းမြို့" languages="Burmese">ရှန်ဟိုင်းမြို့</name>
+		<name normalized="შანხაი" languages="Georgian">შანხაი</name>
+		<name normalized="ሻንግሃይ" languages="Amharic">ሻንግሃይ</name>
+		<name normalized="上海" languages="Cantonese;Gan;Wu">上海</name>
+		<name normalized="上海市" languages="Chinese;Classical Chinese;Japanese">上海市</name>
+		<name normalized="상하이 시" languages="Korean">상하이 시</name>
+	</region>
+	<region name="Shanxi" type="province" typeTranslated="sheng">
+		<name normalized="Sanhszi" languages="Hungarian">Sanhszi</name>
+		<name normalized="Shanxi" languages="Achinese;Basque;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Indonesian;Interlingua;Irish;Italian;Kongo;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;veneto;Waray;Welsh">Shanxi</name>
+		<name normalized="Shanxi Province" languages="English;official">Shanxi Province</name>
+		<name normalized="Shanxi pruwinsya" languages="Quechua">Shanxi pruwinsya</name>
+		<name normalized="Shanxi Sheng" languages="English;official">Shanxi Sheng</name>
+		<name normalized="Soan-sai-seng" languages="Chinese (Min Nan)">Soaⁿ-sai-séng</name>
+		<name normalized="San-si" languages="Hakka">Sân-sî</name>
+		<name normalized="Son Tay" languages="Vietnamese">Sơn Tây</name>
+		<name normalized="Sansio" languages="Esperanto">Ŝanŝio</name>
+		<name normalized="Sansi" languages="Turkish">Şansi</name>
+		<name normalized="San-si" languages="Czech">Šan-si</name>
+		<name normalized="Sansi" languages="Lithuanian">Šansi</name>
+		<name normalized="Sansji" languages="Latvian">Šaņsji</name>
+		<name normalized="Pрaviнtыi Saньсi" languages="Belarusian">Правінцыя Шаньсі</name>
+		<name normalized="Saнсi" languages="Bulgarian;Sakha;Serbian">Шанси</name>
+		<name normalized="Saньсi" languages="Russian">Шаньси</name>
+		<name normalized="Saньсi мuz" languages="Mongolian">Шаньси муж</name>
+		<name normalized="Saньсi" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Шаньсі</name>
+		<name normalized="שאnשי" languages="Hebrew">שאנשי</name>
+		<name normalized="شאنشy" languages="Arabic">شانشي</name>
+		<name normalized="شאنشی" languages="Persian;Western Punjabi">شانشی</name>
+		<name normalized="شەنشى ئۆلkىسى" languages="Uyghur">شەنشى ئۆلكىسى</name>
+		<name normalized="sn्si" languages="Hindi">शन्शी</name>
+		<name normalized="षाn्si" languages="Marathi">षान्शी</name>
+		<name normalized="มณฑลซานซี" languages="Thai">มณฑลซานซี</name>
+		<name normalized="ཧྲན་ཞི་ཞིང་ཆེན།" languages="Tibetan">ཧྲན་ཞི་ཞིང་ཆེན།</name>
+		<name normalized="შანსი" languages="Georgian">შანსი</name>
+		<name normalized="山西" languages="Cantonese;Gan">山西</name>
+		<name normalized="山西省" languages="Chinese;Classical Chinese;Japanese">山西省</name>
+		<name normalized="산시 성" languages="Korean">산시 성</name>
+	</region>
+	<region name="Sichuan" type="province" typeTranslated="sheng">
+		<name normalized="Sesuan" languages="Icelandic">Sesúan</name>
+		<name normalized="Secuan" languages="Bosnian;Croatian">Sečuan</name>
+		<name normalized="Si-chhon-sen" languages="Hakka">Si-chhôn-sén</name>
+		<name normalized="Sichouan" languages="Walloon">Sichouan</name>
+		<name normalized="Sichuan" languages="Achinese;Basque;Breton;Catalan;Danish;Dutch;English;Estonian;Finnish;French;German;Indonesian;Interlingua;Irish;Italian;Kongo;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Portuguese;Romanian;Scots;Serbo-Croatian;Sicilian;Simple English;Spanish;Swahili;Swedish;Tagalog;veneto;Waray;Welsh">Sichuan</name>
+		<name normalized="Sichuan Province" languages="English;official">Sichuan Province</name>
+		<name normalized="Sichuan pruwinsya" languages="Quechua">Sichuan pruwinsya</name>
+		<name normalized="Sichuan Sheng" languages="English;official">Sichuan Sheng</name>
+		<name normalized="Sitsjuan" languages="Afrikaans">Sitsjuan</name>
+		<name normalized="Sicuan" languages="Turkish">Siçuan</name>
+		<name normalized="Sicuano" languages="Esperanto">Siĉuano</name>
+		<name normalized="Sicuanas" languages="Lithuanian">Sičuanas</name>
+		<name normalized="Sicuana" languages="Latvian">Sičuaņa</name>
+		<name normalized="Syczuan" languages="Polish">Syczuan</name>
+		<name normalized="Szecsuan" languages="Hungarian">Szecsuán</name>
+		<name normalized="Su-chhoan-seng" languages="Chinese (Min Nan)">Sù-chhoan-séng</name>
+		<name normalized="S'-cchuan" languages="Czech;Slovak">S’-čchuan</name>
+		<name normalized="Tu Xuyen" languages="Vietnamese">Tứ Xuyên</name>
+		<name normalized="Σιτσουαν" languages="Greek">Σιτσουάν</name>
+		<name normalized="Pрaviнtыi Сыcuaнь" languages="Belarusian">Правінцыя Сычуань</name>
+		<name normalized="Сicuaн" languages="Serbian">Сичуан</name>
+		<name normalized="Сicuaнь" languages="Ukrainian">Сичуань</name>
+		<name normalized="Съcuaн" languages="Bulgarian">Съчуан</name>
+		<name normalized="Сыcuaнь" languages="Russian;Sakha">Сычуань</name>
+		<name normalized="Сыcuaнь мuz" languages="Mongolian">Сычуань муж</name>
+		<name normalized="סצ'vאן" languages="Hebrew">סצ'ואן</name>
+		<name normalized="سىچۈەن ئۆلkىسى" languages="Uyghur">سىچۈەن ئۆلكىسى</name>
+		<name normalized="سyشوאن" languages="Arabic">سيشوان</name>
+		<name normalized="سیچوآن" languages="Persian;Western Punjabi">سیچوآن</name>
+		<name normalized="s-c्vाn" languages="Marathi">स-च्वान</name>
+		<name normalized="sicuan" languages="Hindi">सिचुआन</name>
+		<name normalized="சிச்சுவான்" languages="Tamil">சிச்சுவான்</name>
+		<name normalized="ಸಿಚುವಾನ್" languages="Kannada">ಸಿಚುವಾನ್</name>
+		<name normalized="มณฑลเสฉวน" languages="Thai">มณฑลเสฉวน</name>
+		<name normalized="སི་ཁྲོན་ཞིང་ཆེན།" languages="Tibetan">སི་ཁྲོན་ཞིང་ཆེན།</name>
+		<name normalized="სიჩუანი" languages="Georgian">სიჩუანი</name>
+		<name normalized="四川" languages="Cantonese;Gan">四川</name>
+		<name normalized="四川省" languages="Chinese;Classical Chinese;Japanese;Wu">四川省</name>
+		<name normalized="쓰촨 성" languages="Korean">쓰촨 성</name>
+	</region>
+	<region name="Taiwan)" type="province" typeTranslated="sheng">
+		<name normalized="Taiwan)" languages="English;official">Taiwan)</name>
+		<name normalized="Taiwan) Province" languages="English;official">Taiwan) Province</name>
+		<name normalized="Taiwan) Sheng" languages="English;official">Taiwan) Sheng</name>
+	</region>
+	<region name="Tianjin" type="municipality" typeTranslated="shi">
+		<name normalized="Tchien-tin" languages="Czech">Tchien-ťin</name>
+		<name normalized="Thian-tin-chhi" languages="Chinese (Min Nan)">Thian-tin-chhī</name>
+		<name normalized="Thien Tan" languages="Vietnamese">Thiên Tân</name>
+		<name normalized="Thien-tsin" languages="Hakka">Thiên-tsîn</name>
+		<name normalized="Tiandzinas" languages="Lithuanian">Tiandzinas</name>
+		<name normalized="Tianjin" languages="Achinese;Afrikaans;Asturian;Basque;Breton;Cornish;Croatian;Danish;Dutch;English;Finnish;French;Galician;German;Ido;Indonesian;Irish;Kalaallisut;Kongo;Malay;Manx;Maori;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Portuguese;Quechua;Romanian;Scots;Serbo-Croatian;Sicilian;Simple English;Swedish;Tagalog;Waray;Welsh">Tianjin</name>
+		<name normalized="Tianjin Shi" languages="Estonian">Tianjin Shi</name>
+		<name normalized="Tianjin" languages="Spanish">Tianjín</name>
+		<name normalized="Tiencin" languages="Polish;Slovak">Tiencin</name>
+		<name normalized="Tiencsin" languages="Hungarian">Tiencsin</name>
+		<name normalized="Tientsin" languages="Catalan;Italian;Turkish">Tientsin</name>
+		<name normalized="Tiantszin" languages="Tatar">Tiäntszin</name>
+		<name normalized="Tjangino" languages="Esperanto">Tjanĝino</name>
+		<name normalized="Tjandzina" languages="Latvian">Tjaņdziņa</name>
+		<name normalized="Tyantszin" languages="Azerbaijani">Tyantszin</name>
+		<name normalized="Τιεντζιν" languages="Greek">Τιεντζίν</name>
+		<name normalized="Tiiнdziн" languages="Bulgarian">Тиендзин</name>
+		<name normalized="Teнdьiiн" languages="Sakha">Тэндьиин</name>
+		<name normalized="Tiньziнь" languages="Mongolian">Тяньжинь</name>
+		<name normalized="Tiньtziнь" languages="Chechen;Chuvash;Eastern Mari;Russian">Тяньцзинь</name>
+		<name normalized="Tiньtziнь" languages="Ukrainian">Тяньцзінь</name>
+		<name normalized="Tjiнtiн" languages="Serbian">Тјенцин</name>
+		<name normalized="tייnג'ין" languages="Hebrew">טיינג'ין</name>
+		<name normalized="tyאنjyن" languages="Arabic">تيانجين</name>
+		<name normalized="tyەنjىن شەھىrى" languages="Uyghur">تيەنجىن شەھىرى</name>
+		<name normalized="tیאنjن" languages="Western Punjabi">تیانجن</name>
+		<name normalized="tیאنjین" languages="Persian;Urdu">تیانجین</name>
+		<name normalized="tiaंjin" languages="Hindi">तिआंजिन</name>
+		<name normalized="t्yांjin" languages="Marathi">त्यांजिन</name>
+		<name normalized="tiancin" languages="Punjabi">ਥਿਆਨਚਿਨ</name>
+		<name normalized="தியான்ஜின்" languages="Tamil">தியான்ஜின்</name>
+		<name normalized="ടിയാൻജിൻ" languages="Malayalam">ടിയാൻജിൻ</name>
+		<name normalized="เทียนจิน" languages="Thai">เทียนจิน</name>
+		<name normalized="ཐན་ཅིན ་གྲོང་ཁྱེར།" languages="Tibetan">ཐན་ཅིན ་གྲོང་ཁྱེར།</name>
+		<name normalized="ထျန်းကျင်းမြို့" languages="Burmese">ထျန်းကျင်းမြို့</name>
+		<name normalized="ტიანძინი" languages="Georgian">ტიანძინი</name>
+		<name normalized="天津" languages="Cantonese;Gan">天津</name>
+		<name normalized="天津市" languages="Chinese;Classical Chinese;Japanese;Wu">天津市</name>
+		<name normalized="톈진 시" languages="Korean">톈진 시</name>
+	</region>
+	<region name="Xinjiang Uygur" type="autonomous region" typeTranslated="zizhiqu">
+		<name normalized="Eyaleta Otonomiyeye Xinjiang-Uyguri" languages="Zazaki">Eyaleta Otonomiyeyê Xinjiang-Uyguri</name>
+		<name normalized="Hszincsiang-Ujgur Autonom Terulet" languages="Hungarian">Hszincsiang–Ujgur Autonóm Terület</name>
+		<name normalized="Sin-kiong Uyghur Chu-ti-khu" languages="Chinese (Min Nan)">Sin-kiong Uyghur Chū-tī-khu</name>
+		<name normalized="Sin-tiang" languages="Czech;Slovak">Sin-ťiang</name>
+		<name normalized="Sincan Uygur Ozerk Bolgesi" languages="Turkish">Sincan Uygur Özerk Bölgesi</name>
+		<name normalized="Sinciang" languages="Polish">Sinciang</name>
+		<name normalized="Sindziangas" languages="Lithuanian">Sindziangas</name>
+		<name normalized="Sinhgyangh Veizvuzwj Swcigih" languages="Zhuang">Sinhgyangh Veizvuzwj Swcigih</name>
+		<name normalized="Sinjiang" languages="Sundanese">Sinjiang</name>
+		<name normalized="Sinkiang" languages="Albanian;Dutch;Italian;Ladino;Spanish;Western Frisian">Sinkiang</name>
+		<name normalized="Sinkiyan Uyq'ur" languages="Quechua">Sinkiyan Uyq'ur</name>
+		<name normalized="Sinszyan-Uygʻur muxtor rayoni" languages="Uzbek">Sinszyan-Uygʻur muxtor rayoni</name>
+		<name normalized="Sintszyan-Uygur Muxtar Rayonu" languages="Azerbaijani">Sintszyan-Uyğur Muxtar Rayonu</name>
+		<name normalized="Siynciyan" languages="Silesian">Siynciyan</name>
+		<name normalized="Sindzjana" languages="Latvian">Siņdzjana</name>
+		<name normalized="Sin-kiong" languages="Hakka">Sîn-kiông</name>
+		<name normalized="Tan Cuong" languages="Vietnamese">Tân Cương</name>
+		<name normalized="Ujgurska" languages="Upper Sorbian">Ujgurska</name>
+		<name normalized="Xinjiang" languages="Achinese;Afrikaans;Basque;Breton;Catalan;Croatian;Danish;English;Estonian;Faroese;Finnish;French;Galician;German;Icelandic;Indonesian;Interlingua;Irish;Javanese;Latin;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;Portuguese;Romanian;Scots;Serbo-Croatian;Sicilian;Simple English;Swedish;Tagalog;veneto;Waray;Welsh">Xinjiang</name>
+		<name normalized="Xinjiang Uyghur" languages="Buginese">Xinjiang Uyghur</name>
+		<name normalized="Xinjiang Uygur" languages="English;official">Xinjiang Uygur</name>
+		<name normalized="Xinjiang" languages="Aragonese">Xīnjiāng</name>
+		<name normalized="Singjango" languages="Esperanto">Ŝinĝjango</name>
+		<name normalized="Σιντζιανγκ" languages="Greek">Σιντζιάνγκ</name>
+		<name normalized="Сiнdziн-uйguрсki avtoнoмiн рigioн" languages="Bulgarian">Синдзян-уйгурски автономен регион</name>
+		<name normalized="Сiнdьeen" languages="Sakha">Синдьээҥ</name>
+		<name normalized="Сiнkjaнg" languages="Serbian">Синкјанг</name>
+		<name normalized="Сiньtziн-Uйguр avtoнoмi рaйoнe" languages="Chuvash">Синьцзян-Уйгур автономи районĕ</name>
+		<name normalized="Сiньtziн-Uйguрсkiй avtoнoмный рaйoн" languages="Russian">Синьцзян-Уйгурский автономный район</name>
+		<name normalized="Сiньtziн-Uйguры avtoнoмoн рaйoн" languages="Ossetic">Синьцзян-Уйгуры автономон район</name>
+		<name normalized="Сiньtziн-Uйguрсki aўtaнoмны рaён" languages="Belarusian">Сіньцзян-Уйгурскі аўтаномны раён</name>
+		<name normalized="Сiньtziн-Uйguрсьkiй avtoнoмнiй рaйoн" languages="Ukrainian">Сіньцзян-Уйгурський автономний район</name>
+		<name normalized="Сiньtьziн-Uйguрсki aўtaнoмны рaён" languages="biлaрuсkai (taрaskivita)‎">Сіньцьзян-Уйгурскі аўтаномны раён</name>
+		<name normalized="Siңzaн-Uйgыр avtoнoмiiлi рaйoны" languages="Tatar">Шеңҗан-Уйгыр автономияле районы</name>
+		<name normalized="Siнzaң-Uйguр avtoнoм рaйoнu" languages="Kyrgyz">Шинжаң-Уйгур автоном району</name>
+		<name normalized="Siнzəн" languages="Kalmyk">Шинҗән</name>
+		<name normalized="Sыңzaң Ұйғыр autoнoмiiлыk audaны" languages="Kazakh">Шыңжаң Ұйғыр аутономиялық ауданы</name>
+		<name normalized="שיnג'יאnג" languages="Hebrew">שינג'יאנג</name>
+		<name normalized="jیאنgزی" languages="Western Punjabi">جیانگزی</name>
+		<name normalized="سنکیאنg" languages="Urdu">سنکیانگ</name>
+		<name normalized="سین‌کیאنg" languages="Persian">سین‌کیانگ</name>
+		<name normalized="شىنjאڭ ئۇyغۇr ئאptونوm rאyونى" languages="Uyghur">شىنجاڭ ئۇيغۇر ئاپتونوم رايونى</name>
+		<name normalized="شyنjyאنغ" languages="Arabic">شينجيانغ</name>
+		<name normalized="siंc्yांg" languages="Marathi">शिंच्यांग</name>
+		<name normalized="siंjiyांg" languages="Hindi">शिंजियांग</name>
+		<name normalized="சிஞ்சியாங்" languages="Tamil">சிஞ்சியாங்</name>
+		<name normalized="സിൻജിയാങ്" languages="Malayalam">സിൻജിയാങ്</name>
+		<name normalized="เขตปกครองตนเองซินเจียงอุยกูร์" languages="Thai">เขตปกครองตนเองซินเจียงอุยกูร์</name>
+		<name normalized="ཤིན་ཅང་ཡུ་གུར་རང་སྐྱོང་ལྗོངས།" languages="Tibetan">ཤིན་ཅང་ཡུ་གུར་རང་སྐྱོང་ལྗོངས།</name>
+		<name normalized="სინძიანი" languages="Georgian">სინძიანი</name>
+		<name normalized="新疆" languages="Cantonese;Gan;Wu">新疆</name>
+		<name normalized="新疆uigr自治区" languages="Japanese">新疆ウイグル自治区</name>
+		<name normalized="新疆維吾爾族自治區" languages="Classical Chinese">新疆維吾爾族自治區</name>
+		<name normalized="新疆维吾尔自治区" languages="Chinese">新疆维吾尔自治区</name>
+		<name normalized="신장 위구르 자치구" languages="Korean">신장 위구르 자치구</name>
+	</region>
+	<region name="Xizang" type="autonomous region" typeTranslated="zizhiqu">
+		<name normalized="Agbegbe Aladawa Tibet" languages="Yoruba">Agbègbè Aladawa Tibet</name>
+		<name normalized="Autonom Region Tibet" languages="Danish">Autonom Region Tibet</name>
+		<name normalized="Autonoma regionen Tibet" languages="Swedish">Autonoma regionen Tibet</name>
+		<name normalized="Autonomes Gebiet Tibet" languages="German">Autonomes Gebiet Tibet</name>
+		<name normalized="Autonomna regija Tibet" languages="Croatian;Serbo-Croatian">Autonomna regija Tibet</name>
+		<name normalized="Den autonome region Tibet" languages="Norwegian (bokmal)">Den autonome region Tibet</name>
+		<name normalized="Den autonome regionen Tibet" languages="Norwegian Nynorsk">Den autonome regionen Tibet</name>
+		<name normalized="Kawasan Autonomi Tibet" languages="Malay">Kawasan Autonomi Tibet</name>
+		<name normalized="Khu tu tri Tay Tang" languages="Vietnamese">Khu tự trị Tây Tạng</name>
+		<name normalized="Naglulugaring nga Rehiyon han Tibet" languages="Waray">Naglulugaring nga Rehiyon han Tibet</name>
+		<name normalized="Nagsasariling Rehiyon ng Tibet" languages="Tagalog">Nagsasariling Rehiyon ng Tibet</name>
+		<name normalized="Rannvro Emren Tibet" languages="Breton">Rannvro Emren Tibet</name>
+		<name normalized="Region autonoma de Tibet" languages="Occitan">Region autonòma de Tibet</name>
+		<name normalized="Regione Autonoma del Tibet" languages="Italian">Regione Autonoma del Tibet</name>
+		<name normalized="Regiunea autonoma Tibet" languages="Romanian">Regiunea autonomă Tibet</name>
+		<name normalized="Regiao Autonoma do Tibete" languages="Portuguese">Região Autônoma do Tibete</name>
+		<name normalized="Regio Autonoma del Tibet" languages="Catalan">Regió Autònoma del Tibet</name>
+		<name normalized="Region autonome du Tibet" languages="French">Région autonome du Tibet</name>
+		<name normalized="Se-chong Chu-ti-khu" languages="Chinese (Min Nan)">Se-chōng Chū-tī-khu</name>
+		<name normalized="Sihcang Swcigih" languages="Zhuang">Sihcang Swcigih</name>
+		<name normalized="Si-tshong Tshu-tshu-khi" languages="Hakka">Sî-tshông Tshṳ-tshṳ-khî</name>
+		<name normalized="Tibet" languages="Afrikaans;Azerbaijani;Bavarian;Bikol Central;Bosnian;English;Indonesian;lumbaart;Manx;official;Simple English;Slovak;veneto">Tibet</name>
+		<name normalized="Tibet Autonomous Region" languages="English;Scots">Tibet Autonomous Region</name>
+		<name normalized="Tibet Awtunumu Suyu" languages="Quechua">Tibet Awtunumu Suyu</name>
+		<name normalized="Tibet Ozerk Bolgesi" languages="Turkish">Tibet Özerk Bölgesi</name>
+		<name normalized="Tibetaanse Autonome Regio" languages="Dutch">Tibetaanse Autonome Regio</name>
+		<name normalized="Tibetas autonomais regions" languages="Latvian">Tibetas autonomais reģions</name>
+		<name normalized="Tibeteko eskualde autonomoa" languages="Basque">Tibeteko eskualde autonomoa</name>
+		<name normalized="Tibeti autonom tartomany" languages="Hungarian">Tibeti autonóm tartomány</name>
+		<name normalized="Tibeto" languages="Esperanto">Tibeto</name>
+		<name normalized="Tibeto autonominis regionas" languages="Lithuanian">Tibeto autonominis regionas</name>
+		<name normalized="Tibetska autonomni oblast" languages="Czech">Tibetská autonomní oblast</name>
+		<name normalized="Tibet" languages="Achinese">Tibèt</name>
+		<name normalized="Tibet" languages="Sundanese">Tibét</name>
+		<name normalized="Tiibeti autonoomne piirkond" languages="Estonian">Tiibeti autonoomne piirkond</name>
+		<name normalized="Tiibetin autonominen alue" languages="Finnish">Tiibetin autonominen alue</name>
+		<name normalized="Tybetanski Region Autonomiczny" languages="Polish">Tybetański Region Autonomiczny</name>
+		<name normalized="Tibet" languages="Icelandic;Spanish">Tíbet</name>
+		<name normalized="Tibet" languages="Kurdish">Tîbet</name>
+		<name normalized="Xizang" languages="English;Interlingua;Kongo;official">Xizang</name>
+		<name normalized="Θιβeτ" languages="Greek">Θιβέτ</name>
+		<name normalized="Tibit" languages="Serbian">Тибет</name>
+		<name normalized="Tibitсki avtoнoмiн рigioн" languages="Bulgarian">Тибетски автономен регион</name>
+		<name normalized="Tibitсkiй avtoнoмный рaйoн" languages="Russian">Тибетский автономный район</name>
+		<name normalized="Tibitсьkiй avtoнoмнiй рaйoн" languages="Ukrainian">Тибетський автономний район</name>
+		<name normalized="Tibitы avtoнoмoн рaйoн" languages="Ossetic">Тибеты автономон район</name>
+		<name normalized="Tыbitki aўtaнoмны рaён" languages="Belarusian">Тыбецкі аўтаномны раён</name>
+		<name normalized="Tыbetki aўtaнoмны рaён" languages="biлaрuсkai (taрaskivita)‎">Тыбэцкі аўтаномны раён</name>
+		<name normalized="Tիbեtի ինkնավաr srjան" languages="Armenian">Տիբեթի ինքնավար շրջան</name>
+		<name normalized="hמhvז hאvtvnvמי htיbtי" languages="Hebrew">המחוז האוטונומי הטיבטי</name>
+		<name normalized="أزmة אلtbt وאلsyن" languages="Arabic">أزمة التبت والصين</name>
+		<name normalized="tbt" languages="Western Punjabi">تبت</name>
+		<name normalized="شىزאڭ ئאptونوm rאyونى" languages="Uyghur">شىزاڭ ئاپتونوم رايونى</name>
+		<name normalized="mنtqh خودmخtאr tbt" languages="Persian">منطقه خودمختار تبت</name>
+		<name normalized="tibeट s्vाyt्t p्rdes" languages="Marathi">तिबेट स्वायत्त प्रदेश</name>
+		<name normalized="boड s्vाyt्t k्षet्r" languages="Hindi">बोड स्वायत्त क्षेत्र</name>
+		<name normalized="sँdey्" languages="Newari">सँदेय्</name>
+		<name normalized="ତିବ୍ବତ" languages="Oriya">ତିବ୍ବତ</name>
+		<name normalized="திபெத் தன்னாட்சிப் பகுதி" languages="Tamil">திபெத் தன்னாட்சிப் பகுதி</name>
+		<name normalized="టిబెట్ స్వాధికార ప్రాంతం" languages="Telugu">టిబెట్ స్వాధికార ప్రాంతం</name>
+		<name normalized="เขตปกครองตนเองทิเบต" languages="Thai">เขตปกครองตนเองทิเบต</name>
+		<name normalized="བོད་རང་སྐྱོང་ལྗོངས།" languages="Tibetan">བོད་རང་སྐྱོང་ལྗོངས།</name>
+		<name normalized="བོད།" languages="Dzongkha">བོད།</name>
+		<name normalized="ტიბეტის ავტონომიური რეგიონი" languages="Georgian">ტიბეტის ავტონომიური რეგიონი</name>
+		<name normalized="tbtt自治区" languages="Japanese">チベット自治区</name>
+		<name normalized="西藏" languages="Cantonese;Gan;Wu">西藏</name>
+		<name normalized="西藏自治区" languages="Chinese">西藏自治区</name>
+		<name normalized="西藏自治區" languages="Classical Chinese">西藏自治區</name>
+		<name normalized="티베트 자치구" languages="Korean">티베트 자치구</name>
+	</region>
+	<region name="Yunnan" type="province" typeTranslated="sheng">
+		<name normalized="Hun-lam-seng" languages="Chinese (Min Nan)">Hûn-lâm-séng</name>
+		<name normalized="Junanas" languages="Lithuanian">Junanas</name>
+		<name normalized="Junano" languages="Esperanto">Junano</name>
+		<name normalized="Junnan" languages="Polish">Junnan</name>
+		<name normalized="Junnana" languages="Latvian">Juņnaņa</name>
+		<name normalized="Jun-nan" languages="Czech;Slovak">Jün-nan</name>
+		<name normalized="Junnan" languages="Hungarian">Jünnan</name>
+		<name normalized="Van Nam" languages="Vietnamese">Vân Nam</name>
+		<name normalized="Younnan" languages="Walloon">Younnan</name>
+		<name normalized="Yunnan" languages="Achinese;Afrikaans;Basque;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Icelandic;Indonesian;Interlingua;Irish;Italian;Kongo;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Slovenian;Spanish;Swahili;Swedish;Tagalog;veneto;Waray;Welsh">Yunnan</name>
+		<name normalized="Yunnan Province" languages="English;official">Yunnan Province</name>
+		<name normalized="Yunnan pruwinsya" languages="Quechua">Yunnan pruwinsya</name>
+		<name normalized="Yunnan Sheng" languages="English;official">Yunnan Sheng</name>
+		<name normalized="Yun-nam" languages="Hakka">Yùn-nàm</name>
+		<name normalized="Yunnan" languages="Turkish">Yünnan</name>
+		<name normalized="Γιουναν" languages="Greek">Γιουνάν</name>
+		<name normalized="Юнaн" languages="Bulgarian">Юнан</name>
+		<name normalized="Юннaнь" languages="Sakha">Юннань</name>
+		<name normalized="Юньнaнь" languages="Russian;Ukrainian">Юньнань</name>
+		<name normalized="Юньнaнь мuz" languages="Mongolian">Юньнань муж</name>
+		<name normalized="Jiнaн" languages="Macedonian">Јинан</name>
+		<name normalized="Juнaн" languages="Serbian">Јунан</name>
+		<name normalized="יvnאן" languages="Hebrew">יונאן</name>
+		<name normalized="yونאن" languages="Arabic">يونان</name>
+		<name normalized="yۈننەن ئۆلkىسى" languages="Uyghur">يۈننەن ئۆلكىسى</name>
+		<name normalized="ینعאن" languages="Western Punjabi">ینعان</name>
+		<name normalized="یون‌نאن" languages="Persian">یون‌نان</name>
+		<name normalized="yuin्nाn" languages="Marathi">युइन्नान</name>
+		<name normalized="yun्nाn" languages="Hindi">युन्नान</name>
+		<name normalized="มณฑลยูนนาน" languages="Thai">มณฑลยูนนาน</name>
+		<name normalized="ཡུན་ནན་ཞིང་ཆེན།" languages="Tibetan">ཡུན་ནན་ཞིང་ཆེན།</name>
+		<name normalized="ယူနန်ပြည်နယ်" languages="Burmese">ယူနန်ပြည်နယ်</name>
+		<name normalized="იუნანი" languages="Georgian">იუნანი</name>
+		<name normalized="云南省" languages="Chinese">云南省</name>
+		<name normalized="雲南" languages="Cantonese;Gan">雲南</name>
+		<name normalized="雲南省" languages="Classical Chinese;Japanese">雲南省</name>
+		<name normalized="윈난 성" languages="Korean">윈난 성</name>
+	</region>
+	<region name="Zhejiang" type="province" typeTranslated="sheng">
+		<name normalized="Chiat-kang-seng" languages="Chinese (Min Nan)">Chiat-kang-séng</name>
+		<name normalized="Chiet Giang" languages="Vietnamese">Chiết Giang</name>
+		<name normalized="Csocsiang" languages="Hungarian">Csöcsiang</name>
+		<name normalized="Dzedziangas" languages="Lithuanian">Džedziangas</name>
+		<name normalized="Dzedzjana" languages="Latvian">Džedzjana</name>
+		<name normalized="Tset-kong-sen" languages="Hakka">Tset-kông-sén</name>
+		<name normalized="Zhejiang" languages="Achinese;Afrikaans;Basque;Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Indonesian;Interlingua;Irish;Italian;Kongo;Malagasy;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Pampanga;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Spanish;Swahili;Swedish;Tagalog;Turkish;veneto;Waray;Welsh">Zhejiang</name>
+		<name normalized="Zhejiang Province" languages="English;official">Zhejiang Province</name>
+		<name normalized="Zhejiang pruwinsya" languages="Quechua">Zhejiang pruwinsya</name>
+		<name normalized="Zhejiang Sheng" languages="English;official">Zhejiang Sheng</name>
+		<name normalized="Ce-tiang" languages="Czech;Slovak">Če-ťiang</name>
+		<name normalized="Gegjango" languages="Esperanto">Ĝeĝjango</name>
+		<name normalized="Τσετσιανγκ" languages="Greek">Τσετσιάνγκ</name>
+		<name normalized="Dzъdziн" languages="Bulgarian">Джъдзян</name>
+		<name normalized="Zɵziн" languages="Mongolian">Жөжян</name>
+		<name normalized="Pрaviнtыi Czetziн" languages="Belarusian">Правінцыя Чжэцзян</name>
+		<name normalized="Czitziн" languages="Ukrainian">Чжецзян</name>
+		<name normalized="Czetziн" languages="Russian;Sakha">Чжэцзян</name>
+		<name normalized="Dzidaнg" languages="Serbian">Џеђанг</name>
+		<name normalized="ג'ג'יאnג" languages="Hebrew">ג'ג'יאנג</name>
+		<name normalized="jyjyאنغ" languages="Arabic">جيجيانغ</name>
+		<name normalized="jېjyאڭ ئۆلkىسى" languages="Uyghur">جېجياڭ ئۆلكىسى</name>
+		<name normalized="زیزیאنg" languages="Western Punjabi">زیزیانگ</name>
+		<name normalized="چjیאنg" languages="Persian">چجیانگ</name>
+		<name normalized="c-c्yांg" languages="Marathi">च-च्यांग</name>
+		<name normalized="jejiyांg" languages="Hindi">झेजियांग</name>
+		<name normalized="มณฑลเจ้อเจียง" languages="Thai">มณฑลเจ้อเจียง</name>
+		<name normalized="ཀྲེ་ཅང་ཞིང་ཆེན།" languages="Tibetan">ཀྲེ་ཅང་ཞིང་ཆེན།</name>
+		<name normalized="ჯეძიანი" languages="Georgian">ჯეძიანი</name>
+		<name normalized="浙江" languages="Cantonese;Gan">浙江</name>
+		<name normalized="浙江省" languages="Chinese;Classical Chinese;Japanese;Wu">浙江省</name>
+		<name normalized="저장 성" languages="Korean">저장 성</name>
+	</region>
+</regions>

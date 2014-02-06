@@ -1,0 +1,403 @@
+<regions country="Syria">
+	<region name="Al Hasakah" type="province" typeTranslated="muhafazah">
+		<name normalized="Al Hasakah" languages="English;official">Al Hasakah</name>
+		<name normalized="Al Hasakah Muhafazah" languages="English;official">Al Hasakah Muhafazah</name>
+		<name normalized="Al Hasakah Province" languages="English;official">Al Hasakah Province</name>
+		<name normalized="Al-Hasaka" languages="Esperanto;German;Polish">Al-Hasaka</name>
+		<name normalized="Al-Hasakah" languages="Catalan;Dutch;English;Scots;Swedish">Al-Hasakah</name>
+		<name normalized="Hasaka" languages="Czech;Spanish">Hasaka</name>
+		<name normalized="Haseke" languages="Lithuanian">Hasekė</name>
+		<name normalized="Hasici" languages="Turkish">Hasiçi</name>
+		<name normalized="Hassake" languages="French;Waray">Hassaké</name>
+		<name normalized="Hesice" languages="Kurdish">Hesîçe</name>
+		<name normalized="Aль-Kaсaki" languages="Ukrainian">Аль-Хасаке</name>
+		<name normalized="Kaсiki" languages="Russian">Хасеке</name>
+		<name normalized="אד-hסכh" languages="Hebrew">אל-חסכה</name>
+		<name normalized="אلhسkة" languages="Arabic">الحسكة</name>
+		<name normalized="hسکh" languages="Mazanderani;Persian">حسکه</name>
+		<name normalized="hسکہ" languages="Urdu">حسکہ</name>
+		<name normalized="hەسیچە" languages="Sorani Kurdish">حەسیچە</name>
+		<name normalized="ܚܣܟܗ" languages="Aramaic">ܚܣܟܗ</name>
+		<name normalized="hsk" languages="Japanese">ハサカ</name>
+		<name normalized="哈塞克" languages="Chinese">哈塞克</name>
+		<name normalized="하사카" languages="Korean">하사카</name>
+	</region>
+	<region name="Al Ladhiqiyah" type="province" typeTranslated="muhafazah">
+		<name normalized="Al Ladhiqiyah" languages="English;official">Al Ladhiqiyah</name>
+		<name normalized="Al Ladhiqiyah Muhafazah" languages="English;official">Al Ladhiqiyah Muhafazah</name>
+		<name normalized="Al Ladhiqiyah Province" languages="English;official">Al Ladhiqiyah Province</name>
+		<name normalized="Laodicea" languages="Italian;Latin;Piedmontese">Laodicea</name>
+		<name normalized="Latakia" languages="Afrikaans;Basque;Catalan;Dutch;English;Estonian;German;Hungarian;Kalaallisut;official;Polish;Scots;Simple English;Spanish;Swedish;Waray;Welsh">Latakia</name>
+		<name normalized="Latakia Muhafazah" languages="English;official">Latakia Muhafazah</name>
+		<name normalized="Latakia Province" languages="English;official">Latakia Province</name>
+		<name normalized="Latakija" languages="Croatian;Lithuanian;Serbo-Croatian">Latakija</name>
+		<name normalized="Latakio" languages="Esperanto">Latakio</name>
+		<name normalized="Latakiya" languages="Uzbek">Latakiya</name>
+		<name normalized="Lataquia" languages="Portuguese">Lataquia</name>
+		<name normalized="Lattakia" languages="Finnish;Norwegian Nynorsk">Lattakia</name>
+		<name normalized="Lattaquie" languages="French">Lattaquié</name>
+		<name normalized="Lazkiye" languages="Turkish">Lazkiye</name>
+		<name normalized="Lazikija" languages="Czech">Lázikíja</name>
+		<name normalized="Λαττακεια" languages="Greek">Λαττάκεια</name>
+		<name normalized="Лatakii" languages="Bulgarian;Russian">Латакия</name>
+		<name normalized="Лatakija" languages="Serbian">Латакија</name>
+		<name normalized="Лatakii" languages="Ukrainian">Латакія</name>
+		<name normalized="Lաtաkիա" languages="Armenian">Լատակիա</name>
+		<name normalized="דtqיh" languages="Hebrew">לטקיה</name>
+		<name normalized="אذqیہ" languages="Urdu">اذقیہ</name>
+		<name normalized="אللאذqyة" languages="Arabic">اللاذقية</name>
+		<name normalized="لאذqیh" languages="Mazanderani;Persian">لاذقیه</name>
+		<name normalized="rtka" languages="Japanese">ラタキア</name>
+		<name normalized="拉塔基亚" languages="Chinese">拉塔基亚</name>
+		<name normalized="라타키아" languages="Korean">라타키아</name>
+	</region>
+	<region name="Al Qunaytirah" type="province" typeTranslated="muhafazah">
+		<name normalized="Al Qunaytirah" languages="English;official;Scots">Al Qunaytirah</name>
+		<name normalized="Al Qunaytirah Muhafazah" languages="English;official">Al Qunaytirah Muhafazah</name>
+		<name normalized="Al Qunaytirah Province" languages="English;official">Al Qunaytirah Province</name>
+	</region>
+	<region name="Ar Raqqah" type="province" typeTranslated="muhafazah">
+		<name normalized="Al-Raqqa" languages="Italian">Al-Raqqa</name>
+		<name normalized="Ar Raqqah" languages="English;official">Ar Raqqah</name>
+		<name normalized="Ar Raqqah Muhafazah" languages="English;official">Ar Raqqah Muhafazah</name>
+		<name normalized="Ar Raqqah Province" languages="English;official">Ar Raqqah Province</name>
+		<name normalized="Ar-Raka" languages="Esperanto;Serbo-Croatian">Ar-Raka</name>
+		<name normalized="Ar-Rakka" languages="Polish">Ar-Rakka</name>
+		<name normalized="Ar-Raqqa" languages="Basque;German">Ar-Raqqa</name>
+		<name normalized="Ar-Raqqah" languages="Dutch;English;Norwegian (bokmal);Scots;Simple English;Swedish;Vietnamese">Ar-Raqqah</name>
+		<name normalized="Racca" languages="Croatian;French;Waray">Racca</name>
+		<name normalized="Raka" languages="Lithuanian">Raka</name>
+		<name normalized="Rakka" languages="Catalan;Czech;Finnish;Romanian;Turkish">Rakka</name>
+		<name normalized="Raqqa" languages="Portuguese;Spanish">Raqqa</name>
+		<name normalized="Ρακα" languages="Greek">Ράκα</name>
+		<name normalized="Aр-Рakka" languages="Ukrainian">Ар-Ракка</name>
+		<name normalized="Рakka" languages="Russian">Ракка</name>
+		<name normalized="א-rqh" languages="Hebrew">א-רקה</name>
+		<name normalized="אلrqة" languages="Arabic">الرقة</name>
+		<name normalized="rqh" languages="Persian">رقه</name>
+		<name normalized="rqہ" languages="Urdu;Western Punjabi">رقہ</name>
+		<name normalized="rtk" languages="Japanese">ラッカ</name>
+		<name normalized="拉卡" languages="Chinese">拉卡</name>
+		<name normalized="라카" languages="Korean">라카</name>
+	</region>
+	<region name="As Suwayda'" type="province" typeTranslated="muhafazah">
+		<name normalized="As Suwayda" languages="English;official">As Suwayda</name>
+		<name normalized="As Suwayda Muhafazah" languages="English;official">As Suwayda Muhafazah</name>
+		<name normalized="As Suwayda Province" languages="English;official">As Suwayda Province</name>
+		<name normalized="As Suwayda'" languages="English;official">As Suwayda'</name>
+		<name normalized="As Suwayda' Muhafazah" languages="English;official">As Suwayda' Muhafazah</name>
+		<name normalized="As Suwayda' Province" languages="English;official">As Suwayda' Province</name>
+		<name normalized="As-Suwaida" languages="German">As-Suwaida</name>
+		<name normalized="As-Suwajda" languages="Polish">As-Suwajda</name>
+		<name normalized="As-Suwayda" languages="Dutch;English;Norwegian (bokmal);Portuguese;Scots;Simple English;Spanish;Vietnamese">As-Suwayda</name>
+		<name normalized="As-Suwayda Governorate" languages="English">As-Suwayda Governorate</name>
+		<name normalized="As-Suwayda Govrenorate" languages="Scots">As-Suwayda Govrenorate</name>
+		<name normalized="As-Suwayda'" languages="Swedish">As-Suwayda'</name>
+		<name normalized="As-Suuajda" languages="Esperanto">As-Suŭajda</name>
+		<name normalized="Gobernacion de Sueida" languages="Spanish">Gobernación de Sueida</name>
+		<name normalized="Gouvernement as-Suwaida" languages="German">Gouvernement as-Suwaida</name>
+		<name normalized="Gouvernorat de Soueida" languages="French">Gouvernorat de Soueïda</name>
+		<name normalized="Governatorato di al-Suwayda" languages="Italian">Governatorato di al-Suwayda</name>
+		<name normalized="Gubernio As-Suuajda" languages="Esperanto">Gubernio As-Suŭajda</name>
+		<name normalized="Kegubernuran As-Suwayda" languages="Indonesian">Kegubernuran As-Suwayda</name>
+		<name normalized="Soueida" languages="French">Soueïda</name>
+		<name normalized="Suvajda" languages="Czech">Suvajda</name>
+		<name normalized="Suveida" languages="Lithuanian">Suveida</name>
+		<name normalized="Suveidos muchafaza" languages="Lithuanian">Suveidos muchafaza</name>
+		<name normalized="Sweida eskualdea" languages="Basque">Sweida eskualdea</name>
+		<name normalized="Suveyde" languages="Turkish">Süveyde</name>
+		<name normalized="Əs-Suveydə muhafazası" languages="Azerbaijani">Əs-Süveydə mühafazası</name>
+		<name normalized="Ας Σουγουαυντα" languages="Greek">Ας Σουγουαΰντα</name>
+		<name normalized="Aс Сuaйda" languages="Tajik">Ас Суайда</name>
+		<name normalized="Aс-Сuviйda" languages="Ukrainian">Ас-Сувейда</name>
+		<name normalized="Aс-Сuiйda" languages="Bulgarian">Ас-Суейда</name>
+		<name normalized="Viлoiti Сuvaйdo" languages="Tajik">Вилояти Сувайдо</name>
+		<name normalized="Eс-Сuviйda" languages="Russian">Эс-Сувейда</name>
+		<name normalized="א-סvvידא" languages="Hebrew">א-סווידא</name>
+		<name normalized="מhvז א-סvvידא" languages="Hebrew">מחוז א-סווידא</name>
+		<name normalized="אسtאن سویدא" languages="Persian">استان سویدا</name>
+		<name normalized="אلسوyدאء" languages="Arabic">السويداء</name>
+		<name normalized="سوyدאء" languages="Arabic">سويداء</name>
+		<name normalized="سویدא" languages="Persian;Urdu">سویدا</name>
+		<name normalized="سویدאء" languages="Mazanderani">سویداء</name>
+		<name normalized="sوbہ אلسوyدא" languages="Western Punjabi">صوبہ السويدا</name>
+		<name normalized="pאrێزgאی ئەلسووەیدא" languages="Sorani Kurdish">پارێزگای ئەلسووەیدا</name>
+		<name normalized="as-suvadा p्rाn्t" languages="Hindi">अस-सुवैदा प्रान्त</name>
+		<name normalized="swidー" languages="Japanese">スワイダー</name>
+		<name normalized="swidー県" languages="Japanese">スワイダー県</name>
+		<name normalized="苏韦达" languages="Chinese">苏韦达</name>
+		<name normalized="苏韦达省" languages="Chinese">苏韦达省</name>
+		<name normalized="수와이다" languages="Korean">수와이다</name>
+		<name normalized="수와이다 주" languages="Korean">수와이다 주</name>
+	</region>
+	<region name="Dar'a" type="province" typeTranslated="muhafazah">
+		<name normalized="Dar'a" languages="English;official">Dar'a</name>
+		<name normalized="Dar'a Muhafazah" languages="English;official">Dar'a Muhafazah</name>
+		<name normalized="Dar'a Province" languages="English;official">Dar'a Province</name>
+		<name normalized="Dara" languages="Czech;English;Hungarian;Icelandic;official;Slovenian">Dara</name>
+		<name normalized="Dara Muhafazah" languages="English;official">Dara Muhafazah</name>
+		<name normalized="Dara Province" languages="English;official">Dara Province</name>
+		<name normalized="Daрa" languages="Serbian">Дара</name>
+	</region>
+	<region name="Dayr az Zawr" type="province" typeTranslated="muhafazah">
+		<name normalized="Dair az-Zaur" languages="Esperanto">Dair az-Zaŭr</name>
+		<name normalized="Dajr az-Zaur" languages="Czech;Polish">Dajr az-Zaur</name>
+		<name normalized="Dajr ez-Zaur" languages="Hungarian">Dajr ez-Zaur</name>
+		<name normalized="Dayr az Zawr" languages="English;official">Dayr az Zawr</name>
+		<name normalized="Dayr az Zawr Muhafazah" languages="English;official">Dayr az Zawr Muhafazah</name>
+		<name normalized="Dayr az Zawr Province" languages="English;official">Dayr az Zawr Province</name>
+		<name normalized="Dayr az-Zawr" languages="Swedish">Dayr az-Zawr</name>
+		<name normalized="Deir al-Zor" languages="Catalan">Deir al-Zor</name>
+		<name normalized="Deir el-Zor" languages="Italian">Deir el-Zor</name>
+		<name normalized="Deir ez Zor" languages="Finnish">Deir ez Zor</name>
+		<name normalized="Deir ez Zoras" languages="Lithuanian">Deir ez Zoras</name>
+		<name normalized="Deir ez-Zor" languages="Basque;Dutch;English;French;German;Malay;Scots;Simple English;Slovenian;Spanish;Waray">Deir ez-Zor</name>
+		<name normalized="Deyrizor" languages="Turkish">Deyrizor</name>
+		<name normalized="Ντeιρ αλ-Ζορ" languages="Greek">Ντέιρ αλ-Ζορ</name>
+		<name normalized="Diйр iz-Zoр" languages="Bulgarian">Дейр ез-Зор</name>
+		<name normalized="Diйр-iz-Zoр" languages="Ukrainian">Дейр-ез-Зор</name>
+		<name normalized="Diйр-ez-Zoр" languages="Russian">Дейр-эз-Зор</name>
+		<name normalized="Dեr Zvr" languages="Armenian">Դեր Զոր</name>
+		<name normalized="דיr א-זvr" languages="Hebrew">דיר א-זור</name>
+		<name normalized="دyr אلزوr" languages="Arabic;Egyptian Spoken Arabic">دير الزور</name>
+		<name normalized="دیr אلزوr" languages="Urdu">دیر الزور</name>
+		<name normalized="دیrאلزوr" languages="Mazanderani;Persian">دیرالزور</name>
+		<name normalized="drzーr" languages="Japanese">デリゾール</name>
+		<name normalized="代尔祖尔" languages="Chinese">代尔祖尔</name>
+		<name normalized="데이르에즈조르" languages="Korean">데이르에즈조르</name>
+	</region>
+	<region name="Dimashq" type="province" typeTranslated="muhafazah">
+		<name normalized="An Damaisc" languages="Irish">An Damaisc</name>
+		<name normalized="Damas" languages="Franco-Provencal;French;Haitian;Lingala;Vietnamese">Damas</name>
+		<name normalized="Damasc" languages="Catalan;Occitan;Romanian">Damasc</name>
+		<name normalized="Damasch" languages="lumbaart;Piedmontese">Damasch</name>
+		<name normalized="Damasche" languages="tarandine">Damasche</name>
+		<name normalized="Damasco" languages="Galician;Interlingua;Italian;Ligure;Portuguese;Sardinian;Spanish">Damasco</name>
+		<name normalized="Damascu" languages="Extremaduran;Sicilian">Damascu</name>
+		<name normalized="Damascus" languages="Chinese (Min Nan);Dutch;English;Fiji Hindi;Ido;Iloko;Interlingue;Kalaallisut;Latin;official;Scots;Scottish Gaelic;Shona;Simple English;Welsh">Damascus</name>
+		<name normalized="Damascus Muhafazah" languages="English;official">Damascus Muhafazah</name>
+		<name normalized="Damascus Province" languages="English;official">Damascus Province</name>
+		<name normalized="Damashq" languages="Uzbek">Damashq</name>
+		<name normalized="Damasiko" languages="Kinyarwanda">Damasiko</name>
+		<name normalized="Damask" languages="Bosnian;Breton;Cornish;Croatian;Ladino;Serbo-Croatian;Slovak;Slovenian;Turkmen;Upper Sorbian">Damask</name>
+		<name normalized="Damaska" languages="Latvian">Damaska</name>
+		<name normalized="Damaskas" languages="Lithuanian">Damaskas</name>
+		<name normalized="Damasko" languages="Basque;Esperanto;Tagalog;Waray">Damasko</name>
+		<name normalized="Damaskos" languages="Finnish;Samogitian">Damaskos</name>
+		<name normalized="Damaskosy" languages="Malagasy">Damaskosy</name>
+		<name normalized="Damasku" languages="Albanian">Damasku</name>
+		<name normalized="Damaskus" languages="Afrikaans;Danish;Estonian;German;Icelandic;Indonesian;Javanese;Luxembourgish;Norwegian (bokmal);Norwegian Nynorsk;Novial;Swedish;Western Frisian">Damaskus</name>
+		<name normalized="Damaszek" languages="Polish">Damaszek</name>
+		<name normalized="Damaszkusz" languages="Hungarian">Damaszkusz</name>
+		<name normalized="Damasek" languages="Czech">Damašek</name>
+		<name normalized="Dameski" languages="Swahili">Dameski</name>
+		<name normalized="Damsyik" languages="Achinese;Banjar;Malay">Damsyik</name>
+		<name normalized="Dimashq" languages="English;official;Quechua">Dimashq</name>
+		<name normalized="Dimashq Muhafazah" languages="English;official">Dimashq Muhafazah</name>
+		<name normalized="Dimashq Province" languages="English;official">Dimashq Province</name>
+		<name normalized="Dimishiq" languages="Somali">Dimishiq</name>
+		<name normalized="Dimajk" languages="Volapuk">Dimäjk</name>
+		<name normalized="Dimasq" languages="Tatar">Dimäşq</name>
+		<name normalized="Domas" languages="Aragonese">Domás</name>
+		<name normalized="Damasku" languages="Yoruba">Dàmáskù</name>
+		<name normalized="Dəməsq" languages="Azerbaijani">Dəməşq</name>
+		<name normalized="Kamakeko" languages="Hawaiian">Kamakeko</name>
+		<name normalized="Ndamako" languages="Guarani">Ndamáko</name>
+		<name normalized="Sam" languages="Kurdish;Turkish;Zazaki">Şam</name>
+		<name normalized="Δαμασκος" languages="Greek">Δαμασκός</name>
+		<name normalized="Goрad Daмaсk" languages="Belarusian">Горад Дамаск</name>
+		<name normalized="Daмaсk" languages="Bashkir;Bulgarian;Chuvash;Eastern Mari;Kazakh;Kyrgyz;Macedonian;Mongolian;Ossetic;Russian;Rusyn;Serbian;Ukrainian;biлaрuсkai (taрaskivita)‎">Дамаск</name>
+		<name normalized="Daмaсkuс" languages="Sakha">Дамаскус</name>
+		<name normalized="Daмaсkъ" languages="Church Slavic">Дамаскъ</name>
+		<name normalized="Diмaskъ" languages="Chechen">Димашкъ</name>
+		<name normalized="Diмiskъ" languages="Avaric">Димишкъ</name>
+		<name normalized="Diмisk" languages="Tajik">Димишқ</name>
+		<name normalized="Dաmաskvs" languages="Armenian">Դամասկոս</name>
+		<name normalized="דמשq" languages="Hebrew;Yiddish">דמשק</name>
+		<name normalized="د mشq" languages="Pashto">د مشق</name>
+		<name normalized="دmشq" languages="Arabic;Egyptian Spoken Arabic;Mazanderani;Persian;Urdu;Western Punjabi">دمشق</name>
+		<name normalized="دیmەشq" languages="Sorani Kurdish">دیمەشق</name>
+		<name normalized="دەmەشىq" languages="Uyghur">دەمەشىق</name>
+		<name normalized="ܕܪܡܣܘܩ" languages="Aramaic">ܕܪܡܣܘܩ</name>
+		<name normalized="ދިމިޝްޤު" languages="Divehi">ދިމިޝްޤު</name>
+		<name normalized="dmाs्ks" languages="Marathi;Newari">दमास्कस</name>
+		<name normalized="dmis्k" languages="Hindi">दमिश्क</name>
+		<name normalized="dাmes্k" languages="Bengali">দামেস্ক</name>
+		<name normalized="dms਼k" languages="Punjabi">ਦਮਸ਼ਕ</name>
+		<name normalized="ଡାମାସକସ" languages="Oriya">ଡାମାସକସ</name>
+		<name normalized="திமிஷ்கு" languages="Tamil">திமிஷ்கு</name>
+		<name normalized="ಡಮಾಸ್ಕಸ್" languages="Kannada">ಡಮಾಸ್ಕಸ್</name>
+		<name normalized="ദമാസ്കസ്" languages="Malayalam">ദമാസ്കസ്</name>
+		<name normalized="ดามัสกัส" languages="Thai">ดามัสกัส</name>
+		<name normalized="དྷ་མ་སི་ཁོ་སི།" languages="Tibetan">དྷ་མ་སི་ཁོ་སི།</name>
+		<name normalized="ဒမားစကပ်မြို့" languages="Burmese">ဒမားစကပ်မြို့</name>
+		<name normalized="დამასკი" languages="Georgian">დამასკი</name>
+		<name normalized="ደማስቆ" languages="Amharic">ደማስቆ</name>
+		<name normalized="dmsks" languages="Japanese">ダマスカス</name>
+		<name normalized="大馬士革" languages="Cantonese">大馬士革</name>
+		<name normalized="大马士革" languages="Chinese">大马士革</name>
+		<name normalized="다마스쿠스" languages="Korean">다마스쿠스</name>
+		<name normalized="𐌳𐌰𐌼𐌰𐍃𐌺𐍉/Damasko" languages="Gothic">𐌳𐌰𐌼𐌰𐍃𐌺𐍉/Damasko</name>
+	</region>
+	<region name="Halab" type="province" typeTranslated="muhafazah">
+		<name normalized="Alep" languages="Catalan;Croatian;French;Romanian;Serbo-Croatian;Slovenian">Alep</name>
+		<name normalized="Alepas" languages="Lithuanian">Alepas</name>
+		<name normalized="Alepo" languages="Basque;Esperanto;Guarani;Kinyarwanda;Portuguese;Spanish">Alepo</name>
+		<name normalized="Aleppo" languages="Afrikaans;Bikol Central;Breton;Czech;Danish;Dutch;English;Estonian;Finnish;German;Indonesian;Interlingue;Italian;Javanese;Kalaallisut;Malay;Norwegian (bokmal);Norwegian Nynorsk;Polish;Scots;Simple English;Swedish;Vietnamese;Waray;Welsh;Western Frisian">Aleppo</name>
+		<name normalized="Aleppu" languages="Sicilian">Aleppu</name>
+		<name normalized="Aleppo" languages="Hungarian">Aleppó</name>
+		<name normalized="Alep" languages="Occitan">Alèp</name>
+		<name normalized="Beroea" languages="Latin">Beroea</name>
+		<name normalized="Halab" languages="Achinese;English;official;Slovak;Uzbek">Halab</name>
+		<name normalized="Halab Muhafazah" languages="English;official">Halab Muhafazah</name>
+		<name normalized="Halab Province" languages="English;official">Halab Province</name>
+		<name normalized="Haleba" languages="Latvian">Haleba</name>
+		<name normalized="Halep" languages="Turkish">Halep</name>
+		<name normalized="Heleb" languages="Kurdish">Heleb</name>
+		<name normalized="Hələb" languages="Azerbaijani">Hələb</name>
+		<name normalized="Xalab" languages="Somali">Xalab</name>
+		<name normalized="Χαλeπι" languages="Greek">Χαλέπι</name>
+		<name normalized="Aлip" languages="Serbian">Алеп</name>
+		<name normalized="Aлippo" languages="Kazakh;Russian;Ukrainian">Алеппо</name>
+		<name normalized="Goрad Kaлib" languages="Belarusian">Горад Халеб</name>
+		<name normalized="Kaлib" languages="Bulgarian;Chechen;Eastern Mari;Ossetic">Халеб</name>
+		<name normalized="Kaлib kot" languages="Mongolian">Халеб хот</name>
+		<name normalized="KӀaлab" languages="Avaric">ХӀалаб</name>
+		<name normalized="Kəлib" languages="Tatar">Хәлеб</name>
+		<name normalized="Hաlեp" languages="Armenian">Հալեպ</name>
+		<name normalized="hאדb" languages="Hebrew">חאלב</name>
+		<name normalized="hلb" languages="Arabic;Egyptian Spoken Arabic;Persian;Urdu;Western Punjabi">حلب</name>
+		<name normalized="ܚܠܒ" languages="Aramaic">ܚܠܒ</name>
+		<name normalized="alep्po" languages="Marathi">अलेप्पो</name>
+		<name normalized="hlb" languages="Hindi">हलब</name>
+		<name normalized="alep্po" languages="Bengali">আলেপ্পো</name>
+		<name normalized="hlb" languages="Punjabi">ਹਲਬ</name>
+		<name normalized="அலெப்போ" languages="Tamil">அலெப்போ</name>
+		<name normalized="ആലെപ്പോ" languages="Malayalam">ആലെപ്പോ</name>
+		<name normalized="อะเลปโป" languages="Thai">อะเลปโป</name>
+		<name normalized="ალეპო" languages="Georgian">ალეპო</name>
+		<name normalized="artp" languages="Japanese">アレッポ</name>
+		<name normalized="阿勒颇" languages="Chinese">阿勒颇</name>
+		<name normalized="알레포" languages="Korean">알레포</name>
+	</region>
+	<region name="Hamah" type="province" typeTranslated="muhafazah">
+		<name normalized="Epiphania" languages="Latin">Epiphania</name>
+		<name normalized="Hama" languages="Basque;Breton;Catalan;Dutch;English;Finnish;French;German;Icelandic;Italian;Kalaallisut;Kinyarwanda;Lithuanian;Malay;Norwegian (bokmal);Norwegian Nynorsk;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Slovenian;Spanish;Turkish;Vietnamese;Waray;Welsh">Hama</name>
+		<name normalized="Hamah" languages="English;official;Swedish">Hamah</name>
+		<name normalized="Hamah Muhafazah" languages="English;official">Hamah Muhafazah</name>
+		<name normalized="Hamah Province" languages="English;official">Hamah Province</name>
+		<name normalized="Hamao" languages="Esperanto">Hamao</name>
+		<name normalized="Hama" languages="Czech;Hungarian;Slovak">Hamá</name>
+		<name normalized="Χαμα" languages="Greek">Χάμα</name>
+		<name normalized="Goрad Kaмa" languages="Belarusian">Горад Хама</name>
+		<name normalized="Kaмa" languages="Bulgarian;Russian;Serbian;Ukrainian">Хама</name>
+		<name normalized="hמאt" languages="Hebrew">חמאת</name>
+		<name normalized="hmא" languages="Persian">حما</name>
+		<name normalized="hmאة" languages="Arabic">حماة</name>
+		<name normalized="hmאh" languages="Egyptian Spoken Arabic;Mazanderani">حماه</name>
+		<name normalized="hmאہ" languages="Urdu">حماہ</name>
+		<name normalized="ܚܡܬ" languages="Aramaic">ܚܡܬ</name>
+		<name normalized="ฮะมะ" languages="Thai">ฮะมะ</name>
+		<name normalized="ሐማት" languages="Amharic">ሐማት</name>
+		<name normalized="hmー" languages="Japanese">ハマー</name>
+		<name normalized="哈马" languages="Chinese">哈马</name>
+		<name normalized="하마" languages="Korean">하마</name>
+	</region>
+	<region name="Hims" type="province" typeTranslated="muhafazah">
+		<name normalized="Emesa" languages="Latin">Emesa</name>
+		<name normalized="Hims" languages="English;official;Polish">Hims</name>
+		<name normalized="Hims Muhafazah" languages="English;official">Hims Muhafazah</name>
+		<name normalized="Hims Province" languages="English;official">Hims Province</name>
+		<name normalized="Himsa" languages="Latvian">Himsa</name>
+		<name normalized="Homs" languages="Afrikaans;Azerbaijani;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Indonesian;Italian;Javanese;Kalaallisut;Malay;Norwegian (bokmal);official;Portuguese;Romanian;Scots;Serbo-Croatian;Sicilian;Simple English;Slovak;Spanish;Swedish;Vietnamese;Waray;Welsh">Homs</name>
+		<name normalized="Homs Muhafazah" languages="English;official">Homs Muhafazah</name>
+		<name normalized="Homs Province" languages="English;official">Homs Province</name>
+		<name normalized="Homsas" languages="Lithuanian">Homsas</name>
+		<name normalized="Homsz" languages="Hungarian">Homsz</name>
+		<name normalized="Humus" languages="Turkish">Humus</name>
+		<name normalized="Χομς" languages="Greek">Χομς</name>
+		<name normalized="Goрad Koмс" languages="Belarusian">Горад Хомс</name>
+		<name normalized="Koмс" languages="Bulgarian;Chechen;Kazakh;Russian;Serbian;Ukrainian">Хомс</name>
+		<name normalized="KIuмс" languages="Avaric">ХІумс</name>
+		<name normalized="hvמס" languages="Hebrew">חומס</name>
+		<name normalized="hms" languages="Arabic;Egyptian Spoken Arabic;Persian;Urdu">حمص</name>
+		<name normalized="ܚܡܨ" languages="Aramaic">ܚܡܨ</name>
+		<name normalized="hom्s" languages="Hindi">होम्स</name>
+		<name normalized="hims" languages="Punjabi">ਹਿਮਸ</name>
+		<name normalized="ฮอมส์" languages="Thai">ฮอมส์</name>
+		<name normalized="hms" languages="Japanese">ホムス</name>
+		<name normalized="霍姆斯" languages="Chinese">霍姆斯</name>
+		<name normalized="홈스" languages="Korean">홈스</name>
+	</region>
+	<region name="Idlib" type="province" typeTranslated="muhafazah">
+		<name normalized="Idleb" languages="Catalan;French">Idleb</name>
+		<name normalized="Idlib" languages="Afrikaans;Basque;Czech;Danish;Dutch;English;Esperanto;German;Italian;official;Polish;Scots;Spanish;Swedish">Idlib</name>
+		<name normalized="Idlib Muhafazah" languages="English;official">Idlib Muhafazah</name>
+		<name normalized="Idlib Province" languages="English;official">Idlib Province</name>
+		<name normalized="Idlibas" languages="Lithuanian">Idlibas</name>
+		<name normalized="Idlip" languages="Turkish">İdlip</name>
+		<name normalized="Idлib" languages="Bulgarian;Russian">Идлиб</name>
+		<name normalized="Idлib" languages="Ukrainian">Ідліб</name>
+		<name normalized="אדדb" languages="Hebrew">אדלב</name>
+		<name normalized="إدلb" languages="Arabic">إدلب</name>
+		<name normalized="אدلb" languages="Mazanderani;Persian;Urdu">ادلب</name>
+		<name normalized="idrb" languages="Japanese">イドリブ</name>
+		<name normalized="伊德利卜" languages="Chinese">伊德利卜</name>
+		<name normalized="이들리브" languages="Korean">이들리브</name>
+	</region>
+	<region name="Rif Dimashq" type="province" typeTranslated="muhafazah">
+		<name normalized="Damascus Countryside" languages="English;official">Damascus Countryside</name>
+		<name normalized="Damascus Countryside Muhafazah" languages="English;official">Damascus Countryside Muhafazah</name>
+		<name normalized="Damascus Countryside Province" languages="English;official">Damascus Countryside Province</name>
+		<name normalized="Damasko muchafaza" languages="Lithuanian">Damasko muchafaza</name>
+		<name normalized="Damaszek" languages="Polish">Damaszek</name>
+		<name normalized="Dəməsq muhafazası" languages="Azerbaijani">Dəməşq mühafazası</name>
+		<name normalized="Gobernacion de la Campina de Damasco" languages="Spanish">Gobernación de la Campiña de Damasco</name>
+		<name normalized="Gouvernement Rif Dimaschq" languages="German">Gouvernement Rif Dimaschq</name>
+		<name normalized="Gouvernorat de Rif Dimachq" languages="French">Gouvernorat de Rif Dimachq</name>
+		<name normalized="Governacio de Damasc Rural" languages="Catalan">Governació de Damasc Rural</name>
+		<name normalized="Governatorato del Rif di Damasco" languages="Italian">Governatorato del Rif di Damasco</name>
+		<name normalized="Gubernio Rif Dimask" languages="Esperanto">Gubernio Rif Dimaŝk</name>
+		<name normalized="Kegubernuran Rif Dimashq" languages="Indonesian">Kegubernuran Rif Dimashq</name>
+		<name normalized="Rif Dimashq" languages="Dutch;English;Norwegian (bokmal);official;Portuguese;Swedish;Vietnamese">Rif Dimashq</name>
+		<name normalized="Rif Dimashq eskualdea" languages="Basque">Rif Dimashq eskualdea</name>
+		<name normalized="Rif Dimashq Governorate" languages="English">Rif Dimashq Governorate</name>
+		<name normalized="Rif Dimashq Govrenorate" languages="Scots">Rif Dimashq Govrenorate</name>
+		<name normalized="Rif Dimashq Muhafazah" languages="English;official">Rif Dimashq Muhafazah</name>
+		<name normalized="Rif Dimashq Province" languages="English;official">Rif Dimashq Province</name>
+		<name normalized="Rif Dimasqin maakunta" languages="Finnish">Rif Dimašqin maakunta</name>
+		<name normalized="Rif Sam" languages="Turkish">Rif Şam</name>
+		<name normalized="Rif Dimasq" languages="Czech">Ríf Dimašq</name>
+		<name normalized="Ριφ Ντιμασκ" languages="Greek">Ριφ Ντιμάσκ</name>
+		<name normalized="Viлoiti Рiф Daмisk" languages="Tajik">Вилояти Риф Дамишқ</name>
+		<name normalized="Daмaсk" languages="Bashkir;Bulgarian;Chuvash;Eastern Mari;Kazakh;Kyrgyz;Macedonian;Mongolian;Ossetic;Russian;Rusyn;Serbian;Ukrainian;biлaрuсkai (taрaskivita)‎">Дамаск</name>
+		<name normalized="Рiф Daмaсk" languages="Bulgarian">Риф Дамаск</name>
+		<name normalized="מhvז rיף דמשq" languages="Hebrew">מחוז ריף דמשק</name>
+		<name normalized="אسtאن rیf دmشq" languages="Persian">استان ریف دمشق</name>
+		<name normalized="ryf دmشq" languages="Arabic">ريف دمشق</name>
+		<name normalized="rیf دmشq" languages="Mazanderani">ریف دمشق</name>
+		<name normalized="sوbہ rیf دmشq" languages="Western Punjabi">صوبہ ریف دمشق</name>
+		<name normalized="mhאfzة ryf دmشq" languages="Egyptian Spoken Arabic">محافظة ريف دمشق</name>
+		<name normalized="pאrێزgאی ڕیf دیmەشq" languages="Sorani Kurdish">پارێزگای ڕیف دیمەشق</name>
+		<name normalized="rip़ dims्k़ p्rाn्t" languages="Hindi">रीफ़ दिमश्क़ प्रान्त</name>
+		<name normalized="dmsks郊外県" languages="Japanese">ダマスカス郊外県</name>
+		<name normalized="大马士革农村省" languages="Chinese">大马士革农村省</name>
+		<name normalized="리프디마슈크 주" languages="Korean">리프디마슈크 주</name>
+	</region>
+	<region name="Tartus" type="province" typeTranslated="muhafazah">
+		<name normalized="Tartous" languages="Catalan;Croatian;Dutch;French">Tartous</name>
+		<name normalized="Tartus" languages="Basque;English;Esperanto;Finnish;German;Italian;official;Polish;Portuguese;Romanian;Scots;Simple English;Swedish;Turkish">Tartus</name>
+		<name normalized="Tartus Muhafazah" languages="English;official">Tartus Muhafazah</name>
+		<name normalized="Tartus Province" languages="English;official">Tartus Province</name>
+		<name normalized="Tartusas" languages="Lithuanian">Tartusas</name>
+		<name normalized="Tartus" languages="Czech;Spanish">Tartús</name>
+		<name normalized="Tartusz" languages="Hungarian">Tartúsz</name>
+		<name normalized="Ταρτοuς" languages="Greek">Ταρτούς</name>
+		<name normalized="Taрtuс" languages="Bashkir;Bulgarian;Russian;Ukrainian">Тартус</name>
+		<name normalized="trtvס" languages="Hebrew">טרטוס</name>
+		<name normalized="trtوس" languages="Arabic;Mazanderani;Persian">طرطوس</name>
+		<name normalized="trtuーs" languages="Japanese">タルトゥース</name>
+		<name normalized="塔尔图斯" languages="Chinese">塔尔图斯</name>
+		<name normalized="타르투스" languages="Korean">타르투스</name>
+	</region>
+</regions>

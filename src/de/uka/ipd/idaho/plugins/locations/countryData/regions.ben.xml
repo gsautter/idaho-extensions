@@ -1,0 +1,230 @@
+<regions country="Benin">
+	<region name="Alibori" type="department" typeTranslated="department">
+		<name normalized="Alibori" languages="Breton;Catalan;Danish;Dutch;English;Finnish;French;German;Hungarian;Norwegian (bokmal);official;Portuguese;Spanish;Swedish;Vietnamese">Alibori</name>
+		<name normalized="Alibori departamendua" languages="Basque">Alibori departamendua</name>
+		<name normalized="Alibori Departmanı" languages="Turkish">Alibori Departmanı</name>
+		<name normalized="Alibori Department" languages="English;official;Simple English">Alibori Department</name>
+		<name normalized="Aliborio departamentas" languages="Lithuanian">Aliborio departamentas</name>
+		<name normalized="Apa Alibori" languages="Yoruba">Apá Alibori</name>
+		<name normalized="Departament Alibori" languages="Polish">Departament Alibori</name>
+		<name normalized="Departamentul Alibori" languages="Romanian">Departamentul Alibori</name>
+		<name normalized="Departemen Alibori" languages="Indonesian">Departemen Alibori</name>
+		<name normalized="Dipartimento di Alibori" languages="Italian">Dipartimento di Alibori</name>
+		<name normalized="Aлiboрi" languages="Bulgarian;Russian">Алибори</name>
+		<name normalized="Aлibaры" languages="biлaрuсkai (taрaskivita)‎">Алібары</name>
+		<name normalized="Viлoiti Aлiboрi" languages="Tajik">Вилояти Алибори</name>
+		<name normalized="אسtאن آلیbوrی" languages="Persian">استان آلیبوری</name>
+		<name normalized="arbr県" languages="Japanese">アリボリ県</name>
+		<name normalized="阿黎博里省" languages="Chinese">阿黎博里省</name>
+		<name normalized="알리보리 주" languages="Korean">알리보리 주</name>
+	</region>
+	<region name="Atakora" type="department" typeTranslated="department">
+		<name normalized="Apa Atakora" languages="Yoruba">Apá Atakora</name>
+		<name normalized="Atacora" languages="Dutch;French;Swedish">Atacora</name>
+		<name normalized="Atakora" languages="Breton;Danish;English;Finnish;German;Hungarian;Norwegian (bokmal);official;Portuguese;Spanish;Vietnamese">Atakora</name>
+		<name normalized="Atakora departamendua" languages="Basque">Atakora departamendua</name>
+		<name normalized="Atakora Departmanı" languages="Turkish">Atakora Departmanı</name>
+		<name normalized="Atakora Department" languages="English;official;Simple English">Atakora Department</name>
+		<name normalized="Atakoros departamentas" languages="Lithuanian">Atakoros departamentas</name>
+		<name normalized="Departemen Atakora" languages="Indonesian">Departemen Atakora</name>
+		<name normalized="Dipartimento di Atakora" languages="Italian">Dipartimento di Atakora</name>
+		<name normalized="Atakaрa" languages="biлaрuсkai (taрaskivita)‎">Атакара</name>
+		<name normalized="Atakoрa" languages="Bulgarian;Russian;Ukrainian">Атакора</name>
+		<name normalized="Viлoiti Atakoрa" languages="Tajik">Вилояти Атакора</name>
+		<name normalized="atkr県" languages="Japanese">アタコラ県</name>
+		<name normalized="阿塔科拉省" languages="Chinese">阿塔科拉省</name>
+		<name normalized="아타코라 주" languages="Korean">아타코라 주</name>
+	</region>
+	<region name="Atlantique" type="department" typeTranslated="department">
+		<name normalized="Apa Atlantique" languages="Yoruba">Apá Atlantique</name>
+		<name normalized="Atlantique" languages="Breton;Danish;Dutch;English;Finnish;French;German;Hungarian;Norwegian (bokmal);official;Portuguese;Spanish;Swedish;Vietnamese">Atlantique</name>
+		<name normalized="Atlantique departamendua" languages="Basque">Atlantique departamendua</name>
+		<name normalized="Atlantique Departmanı" languages="Turkish">Atlantique Departmanı</name>
+		<name normalized="Atlantique Department" languages="English;official;Simple English">Atlantique Department</name>
+		<name normalized="Atlanto departamentas" languages="Lithuanian">Atlanto departamentas</name>
+		<name normalized="Departament Atlantique" languages="Polish">Departament Atlantique</name>
+		<name normalized="Departemen Atlantique" languages="Indonesian">Departemen Atlantique</name>
+		<name normalized="Dipartimento dell'Atlantico" languages="Italian">Dipartimento dell'Atlantico</name>
+		<name normalized="Atлaнtik" languages="Bulgarian">Атлантик</name>
+		<name normalized="Atлaнticiсkiй" languages="Russian">Атлантический</name>
+		<name normalized="Atлiнtыk" languages="biлaрuсkai (taрaskivita)‎">Атлянтык</name>
+		<name normalized="Viлoiti Atлaнtik" languages="Tajik">Вилояти Атлантик</name>
+		<name normalized="atrntitk県" languages="Japanese">アトランティック県</name>
+		<name normalized="大西洋省" languages="Chinese">大西洋省</name>
+		<name normalized="아틀랑티크 주" languages="Korean">아틀랑티크 주</name>
+	</region>
+	<region name="Borgou" type="department" typeTranslated="department">
+		<name normalized="Apa Borgou" languages="Yoruba">Apá Borgou</name>
+		<name normalized="Borgou" languages="Breton;Danish;Dutch;English;Finnish;French;German;Hungarian;Norwegian (bokmal);official;Portuguese;Spanish;Swedish;Vietnamese">Borgou</name>
+		<name normalized="Borgou departamendua" languages="Basque">Borgou departamendua</name>
+		<name normalized="Borgou Department" languages="English;official;Simple English">Borgou Department</name>
+		<name normalized="Borgu departamentas" languages="Lithuanian">Borgu departamentas</name>
+		<name normalized="Departament Borgou" languages="Polish">Departament Borgou</name>
+		<name normalized="Departemen Borgou" languages="Indonesian">Departemen Borgou</name>
+		<name normalized="Dipartimento di Borgou" languages="Italian">Dipartimento di Borgou</name>
+		<name normalized="Baрgu" languages="biлaрuсkai (taрaskivita)‎">Баргу</name>
+		<name normalized="Boрgu" languages="Bulgarian;Russian;Ukrainian">Боргу</name>
+		<name normalized="Viлoiti Boрgu" languages="Tajik">Вилояти Боргу</name>
+		<name normalized="brgー県" languages="Japanese">ボルグー県</name>
+		<name normalized="博爾古省" languages="Chinese">博爾古省</name>
+		<name normalized="보르구 주" languages="Korean">보르구 주</name>
+	</region>
+	<region name="Collines" type="department" typeTranslated="department">
+		<name normalized="Apa Collines" languages="Yoruba">Apá Collines</name>
+		<name normalized="Collines" languages="Breton;Danish;Dutch;English;Finnish;French;German;Hungarian;Norwegian (bokmal);official;Portuguese;Spanish;Swedish;Vietnamese">Collines</name>
+		<name normalized="Collines departamendua" languages="Basque">Collines departamendua</name>
+		<name normalized="Collines Department" languages="English;official;Simple English">Collines Department</name>
+		<name normalized="Departament Collines" languages="Polish">Departament Collines</name>
+		<name normalized="Departamentul Collines" languages="Romanian">Departamentul Collines</name>
+		<name normalized="Departemen Collines" languages="Indonesian">Departemen Collines</name>
+		<name normalized="Dipartimento delle Colline" languages="Italian">Dipartimento delle Colline</name>
+		<name normalized="Kalvu departamentas" languages="Lithuanian">Kalvų departamentas</name>
+		<name normalized="Viлoiti Koллiнiс" languages="Tajik">Вилояти Коллинес</name>
+		<name normalized="Kaлiн" languages="biлaрuсkai (taрaskivita)‎">Калін</name>
+		<name normalized="Koлiнi" languages="Bulgarian">Колине</name>
+		<name normalized="Koллiнz" languages="Russian">Коллинз</name>
+		<name normalized="krns県" languages="Japanese">コリネス県</name>
+		<name normalized="丘陵省" languages="Chinese">丘陵省</name>
+		<name normalized="콜리네 주" languages="Korean">콜리네 주</name>
+	</region>
+	<region name="Donga" type="department" typeTranslated="department">
+		<name normalized="Apa Donga" languages="Yoruba">Apá Donga</name>
+		<name normalized="Departamentul Donga" languages="Romanian">Departamentul Donga</name>
+		<name normalized="Departemen Donga" languages="Indonesian">Departemen Donga</name>
+		<name normalized="Dipartimento di Donga" languages="Italian">Dipartimento di Donga</name>
+		<name normalized="Donga" languages="Breton;Danish;Dutch;English;Finnish;French;German;Hungarian;Italian;Norwegian (bokmal);official;Portuguese;Slovak;Spanish;Swedish;Vietnamese">Donga</name>
+		<name normalized="Donga departamendua" languages="Basque">Donga departamendua</name>
+		<name normalized="Donga Department" languages="English;official;Simple English">Donga Department</name>
+		<name normalized="Dongos departamentas" languages="Lithuanian">Dongos departamentas</name>
+		<name normalized="Viлoiti Doнga" languages="Tajik">Вилояти Донга</name>
+		<name normalized="Daнga" languages="biлaрuсkai (taрaskivita)‎">Данга</name>
+		<name normalized="Doнga" languages="Bulgarian;Russian">Донга</name>
+		<name normalized="אسtאن دونgא" languages="Persian">استان دونگا</name>
+		<name normalized="دونgא" languages="Persian">دونگا</name>
+		<name normalized="dng" languages="Japanese">ドンガ</name>
+		<name normalized="dng県" languages="Japanese">ドンガ県</name>
+		<name normalized="峽谷省" languages="Chinese">峽谷省</name>
+		<name normalized="동가 주" languages="Korean">동가 주</name>
+	</region>
+	<region name="Kouffo" type="department" typeTranslated="department">
+		<name normalized="Apa Kouffo" languages="Yoruba">Apá Kouffo</name>
+		<name normalized="Couffo" languages="Dutch;French;German;Hungarian;Swedish">Couffo</name>
+		<name normalized="Departament Kouffo" languages="Polish">Departament Kouffo</name>
+		<name normalized="Departamentul Kouffo" languages="Romanian">Departamentul Kouffo</name>
+		<name normalized="Departemen Kouffo" languages="Indonesian">Departemen Kouffo</name>
+		<name normalized="Dipartimento di Kouffo" languages="Italian">Dipartimento di Kouffo</name>
+		<name normalized="Kouffo" languages="Breton;Danish;English;Finnish;Norwegian (bokmal);official;Portuguese;Spanish;Vietnamese">Kouffo</name>
+		<name normalized="Kouffo Department" languages="English;official;Simple English">Kouffo Department</name>
+		<name normalized="Kufo departamentas" languages="Lithuanian">Kufo departamentas</name>
+		<name normalized="Viлoiti Kuффo" languages="Tajik">Вилояти Куффо</name>
+		<name normalized="Kuфo" languages="Bulgarian;biлaрuсkai (taрaskivita)‎">Куфо</name>
+		<name normalized="Kuффo" languages="Russian">Куффо</name>
+		<name normalized="ktho県" languages="Japanese">クッフォ県</name>
+		<name normalized="庫福省" languages="Chinese">庫福省</name>
+		<name normalized="쿠포 주" languages="Korean">쿠포 주</name>
+	</region>
+	<region name="Littoral" type="department" typeTranslated="department">
+		<name normalized="Apa Littoral" languages="Yoruba">Apá Littoral</name>
+		<name normalized="Battigia" languages="Italian">Battigia</name>
+		<name normalized="Can duyen" languages="Vietnamese">Cận duyên</name>
+		<name normalized="Departamentul Littoral" languages="Romanian">Departamentul Littoral</name>
+		<name normalized="Departemen Littoral" languages="Indonesian">Departemen Littoral</name>
+		<name normalized="Dipartimento del Litorale" languages="Italian">Dipartimento del Litorale</name>
+		<name normalized="Litoraal" languages="Estonian">Litoraal</name>
+		<name normalized="Litoral" languages="German;Norwegian Nynorsk;Serbo-Croatian;Slovenian;Spanish;Swedish;Uzbek">Litoral</name>
+		<name normalized="Litorale" languages="Lithuanian">Litoralė</name>
+		<name normalized="Litoro" languages="Ido">Litoro</name>
+		<name normalized="Litoral" languages="Czech">Litorál</name>
+		<name normalized="Littoraal" languages="Dutch">Littoraal</name>
+		<name normalized="Littoral" languages="Breton;Danish;Dutch;English;French;German;Hungarian;Norwegian (bokmal);official;Portuguese;Spanish;Vietnamese">Littoral</name>
+		<name normalized="Littoral Departmanı" languages="Turkish">Littoral Departmanı</name>
+		<name normalized="Littoral Department" languages="English;official;Simple English">Littoral Department</name>
+		<name normalized="Littoral zone" languages="English;Simple English">Littoral zone</name>
+		<name normalized="Marbordo" languages="Esperanto">Marbordo</name>
+		<name normalized="Pakrantes departamentas" languages="Lithuanian">Pakrantės departamentas</name>
+		<name normalized="Priobalje" languages="Croatian">Priobalje</name>
+		<name normalized="Strefa przybrzezna" languages="Polish">Strefa przybrzeżna</name>
+		<name normalized="Zona litoral" languages="Catalan">Zona litoral</name>
+		<name normalized="Zona litorala" languages="Romanian">Zonă litorală</name>
+		<name normalized="Viлoiti Лittoрaл" languages="Tajik">Вилояти Литторал</name>
+		<name normalized="Лitoрaл" languages="Bulgarian">Литорал</name>
+		<name normalized="Лitoрaль" languages="Kazakh;Russian">Литораль</name>
+		<name normalized="Лitaрaль" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Літараль</name>
+		<name normalized="Лitoрaль" languages="Ukrainian">Літораль</name>
+		<name normalized="වෙරළ බඩ කලාප" languages="Sinhala">වෙරළ බඩ කලාප</name>
+		<name normalized="ლიტორალი" languages="Georgian">ლიტორალი</name>
+		<name normalized="rtrr県" languages="Japanese">リトラル県</name>
+		<name normalized="濱海省" languages="Chinese">濱海省</name>
+		<name normalized="연안 주" languages="Korean">연안 주</name>
+	</region>
+	<region name="Mono" type="department" typeTranslated="department">
+		<name normalized="Apa Mono" languages="Yoruba">Apá Mono</name>
+		<name normalized="Departament Mono" languages="Polish">Departament Mono</name>
+		<name normalized="Departamentul Mono" languages="Romanian">Departamentul Mono</name>
+		<name normalized="Departemen Mono" languages="Indonesian">Departemen Mono</name>
+		<name normalized="Dipartimento di Mono" languages="Italian">Dipartimento di Mono</name>
+		<name normalized="Mono" languages="Breton;Catalan;Chinese;Czech;Danish;Dutch;English;Esperanto;Finnish;French;Galician;German;Hungarian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Simple English;Slovak;Spanish;Swedish;Ukrainian;Vietnamese">Mono</name>
+		<name normalized="Mono departamentas" languages="Lithuanian">Mono departamentas</name>
+		<name normalized="Mono Departmanı" languages="Turkish">Mono Departmanı</name>
+		<name normalized="Mono Department" languages="English;official;Simple English">Mono Department</name>
+		<name normalized="Viлoiti Мoнo" languages="Tajik">Вилояти Моно</name>
+		<name normalized="Мaнo" languages="biлaрuсkai (taрaskivita)‎">Мано</name>
+		<name normalized="Мoнo" languages="Bulgarian;Kazakh;Russian">Моно</name>
+		<name normalized="mn" languages="Japanese">モノ</name>
+		<name normalized="mn県" languages="Japanese">モノ県</name>
+		<name normalized="莫諾省" languages="Chinese">莫諾省</name>
+		<name normalized="모노" languages="Korean">모노</name>
+		<name normalized="모노 주" languages="Korean">모노 주</name>
+	</region>
+	<region name="Oueme" type="department" typeTranslated="department">
+		<name normalized="Apa Oueme" languages="Yoruba">Apá Ouémé</name>
+		<name normalized="Departament Oueme" languages="Polish">Departament Ouémé</name>
+		<name normalized="Departamentul Oueme" languages="Romanian">Departamentul Ouémé</name>
+		<name normalized="Departemen Oueme" languages="Indonesian">Departemen Ouémé</name>
+		<name normalized="Dipartimento di Oueme" languages="Italian">Dipartimento di Ouémé</name>
+		<name normalized="Oueme" languages="English;official;Portuguese">Oueme</name>
+		<name normalized="Oueme Department" languages="English;official">Oueme Department</name>
+		<name normalized="Oueme" languages="Breton;Danish;Dutch;English;French;German;Hungarian;Norwegian (bokmal);Spanish;Swedish">Ouémé</name>
+		<name normalized="Oueme Departmanı" languages="Turkish">Ouémé Departmanı</name>
+		<name normalized="Oueme Department" languages="English;Simple English">Ouémé Department</name>
+		<name normalized="Uemes departamentas" languages="Lithuanian">Uemės departamentas</name>
+		<name normalized="Viлoiti Ouiмi" languages="Tajik">Вилояти Оуеме</name>
+		<name normalized="Uiмi" languages="Bulgarian">Уеме</name>
+		<name normalized="Ueмi" languages="Russian">Уэме</name>
+		<name normalized="Ueмe" languages="biлaрuсkai (taрaskivita)‎">Уэмэ</name>
+		<name normalized="uem県" languages="Japanese">ウェメ県</name>
+		<name normalized="韋梅省" languages="Chinese">韋梅省</name>
+		<name normalized="우에메 주" languages="Korean">우에메 주</name>
+	</region>
+	<region name="Plateau" type="department" typeTranslated="department">
+		<name normalized="Apa Plateau" languages="Yoruba">Apá Plateau</name>
+		<name normalized="Departamentul Plateau" languages="Romanian">Departamentul Plateau</name>
+		<name normalized="Departemen Plateau" languages="Indonesian">Departemen Plateau</name>
+		<name normalized="Dipartimento dell'Altopiano" languages="Italian">Dipartimento dell'Altopiano</name>
+		<name normalized="Plateau" languages="Breton;Danish;Dutch;English;French;German;Hungarian;Italian;Malay;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">Plateau</name>
+		<name normalized="Plateau Departmanı" languages="Turkish">Plateau Departmanı</name>
+		<name normalized="Plateau Department" languages="English;official;Simple English">Plateau Department</name>
+		<name normalized="Plynaukstes departamentas" languages="Lithuanian">Plynaukštės departamentas</name>
+		<name normalized="Pлato" languages="Bulgarian;Russian">Плато</name>
+		<name normalized="Pлito" languages="biлaрuсkai (taрaskivita)‎">Плято</name>
+		<name normalized="prtー県" languages="Japanese">プラトー県</name>
+		<name normalized="高原省" languages="Chinese">高原省</name>
+		<name normalized="플라토 주" languages="Korean">플라토 주</name>
+	</region>
+	<region name="Zou" type="department" typeTranslated="department">
+		<name normalized="Apa Zou" languages="Yoruba">Apá Zou</name>
+		<name normalized="Departamentul Zou" languages="Romanian">Departamentul Zou</name>
+		<name normalized="Departemen Zou" languages="Indonesian">Departemen Zou</name>
+		<name normalized="Dipartimento di Zou" languages="Italian">Dipartimento di Zou</name>
+		<name normalized="Zou" languages="Breton;Catalan;Danish;Dutch;English;French;German;Hungarian;Italian;Norwegian (bokmal);official;Portuguese;Spanish;Swedish">Zou</name>
+		<name normalized="Zou Departmanı" languages="Turkish">Zou Departmanı</name>
+		<name normalized="Zou Department" languages="English;official;Simple English">Zou Department</name>
+		<name normalized="Zu" languages="Uzbek">Zu</name>
+		<name normalized="Zu departamentas" languages="Lithuanian">Zu departamentas</name>
+		<name normalized="Viлoiti Zu" languages="Tajik">Вилояти Зу</name>
+		<name normalized="Zu" languages="Bulgarian;Russian;biлaрuсkai (taрaskivita)‎">Зу</name>
+		<name normalized="zー県" languages="Japanese">ズー県</name>
+		<name normalized="祖省" languages="Chinese">祖省</name>
+		<name normalized="주 주" languages="Korean">주 주</name>
+	</region>
+</regions>

@@ -1,0 +1,93 @@
+<regions country="Togo">
+	<region name="Centrale" type="region" typeTranslated="region">
+		<name normalized="Central" languages="Spanish">Central</name>
+		<name normalized="Centrale" languages="Danish;Dutch;English;Finnish;French;Italian;Norwegian (bokmal);official;Portuguese;Turkish;Vietnamese">Centrale</name>
+		<name normalized="Centrale Region" languages="English;official">Centrale Region</name>
+		<name normalized="Centralo" languages="Esperanto">Centralo</name>
+		<name normalized="Centrinis regionas" languages="Lithuanian">Centrinis regionas</name>
+		<name normalized="Region Centrale" languages="German;Indonesian">Region Centrale</name>
+		<name normalized="Region Centre" languages="Polish">Region Centre</name>
+		<name normalized="Regione Centrale" languages="Italian">Regione Centrale</name>
+		<name normalized="Regiunea Kara" languages="Romanian">Regiunea Kara</name>
+		<name normalized="Region centrale" languages="French">Région centrale</name>
+		<name normalized="Κεντρικη Περιφeρεια" languages="Greek">Κεντρική Περιφέρεια</name>
+		<name normalized="Tiнtрaлiн рigioн" languages="Bulgarian">Централен регион</name>
+		<name normalized="Tiнtрaльнai obлaсtь" languages="Russian">Центральная область</name>
+		<name normalized="Tiнtрaльнiй рigioн" languages="Ukrainian">Центральний регіон</name>
+		<name normalized="中央州" languages="Japanese">中央州</name>
+		<name normalized="中部区" languages="Chinese">中部区</name>
+		<name normalized="중앙 주" languages="Korean">중앙 주</name>
+	</region>
+	<region name="Kara" type="region" typeTranslated="region">
+		<name normalized="Kara" languages="Croatian;Danish;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Italian;Lithuanian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Turkish;Vietnamese">Kara</name>
+		<name normalized="Kara Region" languages="English;official">Kara Region</name>
+		<name normalized="Karos regionas" languages="Lithuanian">Karos regionas</name>
+		<name normalized="Region Kara" languages="German;Indonesian;Polish">Region Kara</name>
+		<name normalized="Regione di Kara" languages="Italian">Regione di Kara</name>
+		<name normalized="Region de la Kara" languages="French">Région de la Kara</name>
+		<name normalized="Καρα" languages="Greek">Καρά</name>
+		<name normalized="Περιφeρεια Καρα" languages="Greek">Περιφέρεια Καρά</name>
+		<name normalized="Kaрa" languages="Bulgarian;Russian">Кара</name>
+		<name normalized="Рigioн Kaрi" languages="Ukrainian">Регіон Кари</name>
+		<name normalized="kאrא" languages="Arabic">كارا</name>
+		<name normalized="kr" languages="Japanese">カラ</name>
+		<name normalized="kr州" languages="Japanese">カラ州</name>
+		<name normalized="卡拉" languages="Chinese">卡拉</name>
+		<name normalized="卡拉区" languages="Chinese">卡拉区</name>
+		<name normalized="카라" languages="Korean">카라</name>
+		<name normalized="카라 주" languages="Korean">카라 주</name>
+	</region>
+	<region name="Maritime" type="region" typeTranslated="region">
+		<name normalized="Denizcilik" languages="Turkish">Denizcilik</name>
+		<name normalized="Maritim" languages="German;Swedish">Maritim</name>
+		<name normalized="Maritime" languages="Danish;Dutch;English;Finnish;Norwegian (bokmal);official;Portuguese;Turkish;Vietnamese">Maritime</name>
+		<name normalized="Maritime Region" languages="English;official">Maritime Region</name>
+		<name normalized="Maritima" languages="Spanish">Marítima</name>
+		<name normalized="Pajurio regionas" languages="Lithuanian">Pajūrio regionas</name>
+		<name normalized="Rannikupiirkond" languages="Estonian">Rannikupiirkond</name>
+		<name normalized="Region Maritime" languages="German;Indonesian;Polish">Region Maritime</name>
+		<name normalized="Regione Marittima" languages="Italian">Regione Marittima</name>
+		<name normalized="Regiunea Maritime" languages="Romanian">Regiunea Maritime</name>
+		<name normalized="Region maritime" languages="French">Région maritime</name>
+		<name normalized="Μαριτιμ" languages="Greek">Μαριτίμ</name>
+		<name normalized="Мaрitiм" languages="Bulgarian">Маритим</name>
+		<name normalized="Мaрitiмi" languages="Ukrainian">Марітіме</name>
+		<name normalized="Pрiмoрсkai obлaсtь" languages="Russian">Приморская область</name>
+		<name normalized="沿岸州" languages="Japanese">沿岸州</name>
+		<name normalized="海事" languages="Japanese">海事</name>
+		<name normalized="濱海區" languages="Chinese">濱海區</name>
+		<name normalized="마리팀 주" languages="Korean">마리팀 주</name>
+	</region>
+	<region name="Plateaux" type="region" typeTranslated="region">
+		<name normalized="Altiplano" languages="Spanish">Altiplano</name>
+		<name normalized="Plateaux" languages="Danish;Dutch;English;Finnish;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Turkish;Vietnamese">Plateaux</name>
+		<name normalized="Plateaux Region" languages="English;official">Plateaux Region</name>
+		<name normalized="Plynaukstes regionas" languages="Lithuanian">Plynaukštės regionas</name>
+		<name normalized="Region Plateaux" languages="German;Indonesian;Polish">Region Plateaux</name>
+		<name normalized="Regione degli Altopiani" languages="Italian">Regione degli Altopiani</name>
+		<name normalized="Region des plateaux" languages="French">Région des plateaux</name>
+		<name normalized="Πλατω" languages="Greek">Πλατώ</name>
+		<name normalized="Pлato" languages="Bulgarian;Russian">Плато</name>
+		<name normalized="Рigioн Pлato" languages="Ukrainian">Регіон Плато</name>
+		<name normalized="高原區" languages="Chinese">高原區</name>
+		<name normalized="高原州" languages="Japanese">高原州</name>
+		<name normalized="플라토 주" languages="Korean">플라토 주</name>
+	</region>
+	<region name="Savanes" type="region" typeTranslated="region">
+		<name normalized="Region Savanes" languages="German;Indonesian;Polish">Region Savanes</name>
+		<name normalized="Regione delle Savane" languages="Italian">Regione delle Savane</name>
+		<name normalized="Regiunea Savanes" languages="Romanian">Regiunea Savanes</name>
+		<name normalized="Region des Savanes" languages="French">Région des Savanes</name>
+		<name normalized="Sabana" languages="Spanish">Sabana</name>
+		<name normalized="Savanes" languages="Basque;Danish;Dutch;English;Finnish;German;Norwegian (bokmal);official;Portuguese;Turkish;Vietnamese">Savanes</name>
+		<name normalized="Savanes Region" languages="English;official">Savanes Region</name>
+		<name normalized="Savanu regionas" languages="Lithuanian">Savanų regionas</name>
+		<name normalized="Σαβαν" languages="Greek">Σαβάν</name>
+		<name normalized="Obлaсtь Сavaнн" languages="Russian">Область Саванн</name>
+		<name normalized="Рigioн Сavaнн" languages="Ukrainian">Регіон Саванн</name>
+		<name normalized="Сavaн" languages="Bulgarian">Саван</name>
+		<name normalized="sbn州" languages="Japanese">サバナ州</name>
+		<name normalized="草原區" languages="Chinese">草原區</name>
+		<name normalized="사반 주" languages="Korean">사반 주</name>
+	</region>
+</regions>

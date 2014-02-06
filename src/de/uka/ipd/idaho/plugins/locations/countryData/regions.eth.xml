@@ -1,0 +1,311 @@
+<regions country="Ethiopia">
+	<region name="Adis Abeba" type="self-governing administration" typeTranslated="self-governing administration">
+		<name normalized="Adas Ababa" languages="Irish">Adas Ababa</name>
+		<name normalized="Addis Ababa" languages="Danish;English;Faroese;Fiji Hindi;Hausa;Icelandic;Ido;Igbo;Indonesian;Javanese;Kinyarwanda;Malay;official;Papiamento;Scots;Scottish Gaelic;Shona;Simple English;Swahili;Turkish;Vietnamese;Waray;Welsh;Yoruba">Addis Ababa</name>
+		<name normalized="Addis Abeba" languages="Afrikaans;Albanian;Aragonese;Basque;Breton;Catalan;Chinese (Min Nan);Czech;Dutch;Estonian;Finnish;German;Interlingue;Italian;Ligure;Lower Sorbian;lumbaart;Luxembourgish;Malagasy;Norwegian (bokmal);Norwegian Nynorsk;Occitan;Oromo;Piedmontese;Polish;Romanian;Romansh;Slovak;Somali;Sranan Tongo;Swedish;Upper Sorbian;veneto;Western Frisian">Addis Abeba</name>
+		<name normalized="Addis-Abeba" languages="French;Uzbek;Wolof">Addis-Abeba</name>
+		<name normalized="Addisz-Abeba" languages="Hungarian">Addisz-Abeba</name>
+		<name normalized="Adis Ababa" languages="Novial;Quechua">Adis Ababa</name>
+		<name normalized="Adis Abeba" languages="Bosnian;Croatian;English;Kongo;Lithuanian;Nahuatl;official;Portuguese;Samogitian;Serbo-Croatian;Slovenian;Tagalog">Adis Abeba</name>
+		<name normalized="Adis-Abeba" languages="Haitian">Adis-Abeba</name>
+		<name normalized="Adis-Abebo" languages="Esperanto">Adis-Abebo</name>
+		<name normalized="Adisabeba" languages="Latvian">Adisabeba</name>
+		<name normalized="Adis Abeba" languages="Galician;Spanish">Adís Abeba</name>
+		<name normalized="Neanthopolis" languages="Latin">Neanthopolis</name>
+		<name normalized="Əddis-Əbəbə" languages="Azerbaijani">Əddis-Əbəbə</name>
+		<name normalized="Αντις Αμπeμπα" languages="Greek">Αντίς Αμπέμπα</name>
+		<name normalized="Addiс-Abib kot" languages="Mongolian">Аддис-Абеб хот</name>
+		<name normalized="Addiс-Abibae" languages="Ossetic">Аддис-Абебæ</name>
+		<name normalized="Addiс-Abiba" languages="Chechen;Hill Mari;Kyrgyz;Russian;Tajik;Udmurt;Ukrainian">Аддис-Абеба</name>
+		<name normalized="Adiс Abiba" languages="Bulgarian;Macedonian;Serbian">Адис Абеба</name>
+		<name normalized="Adыс-Abeba" languages="biлaрuсkai (taрaskivita)‎">Адыс-Абэба</name>
+		<name normalized="Goрad Adыс-Abiba" languages="Belarusian">Горад Адыс-Абеба</name>
+		<name normalized="Աdիs Աbեbա" languages="Armenian">Ադիս Աբեբա</name>
+		<name normalized="אדיס אbbh" languages="Hebrew">אדיס אבבה</name>
+		<name normalized="آدیس آbאbא" languages="Persian">آدیس آبابا</name>
+		<name normalized="أدyس أbאbא" languages="Arabic">أديس أبابا</name>
+		<name normalized="ئەدیس ئەbאbא" languages="Sorani Kurdish">ئەدیس ئەبابا</name>
+		<name normalized="אدyس אbאbא" languages="Egyptian Spoken Arabic">اديس ابابا</name>
+		<name normalized="אدیس אbאbא" languages="Urdu;Western Punjabi">ادیس ابابا</name>
+		<name normalized="adis abाbा" languages="Marathi;Newari">अदिस अबाबा</name>
+		<name normalized="adis abाbा" languages="Hindi">अदीस अबाबा</name>
+		<name normalized="ad্dis abাbা" languages="Bengali">আদ্দিস আবাবা</name>
+		<name normalized="adis abbਾ" languages="Punjabi">ਆਦਿਸ ਆਬਬਾ</name>
+		<name normalized="அடிஸ் அபாபா" languages="Tamil">அடிஸ் அபாபா</name>
+		<name normalized="అద్దిస్ అబాబా" languages="Telugu">అద్దిస్ అబాబా</name>
+		<name normalized="ಅಡಿಸ್ ಅಬಾಬ" languages="Kannada">ಅಡಿಸ್ ಅಬಾಬ</name>
+		<name normalized="അഡിസ് അബെബ" languages="Malayalam">അഡിസ് അബെബ</name>
+		<name normalized="แอดดิสอาบาบา" languages="Thai">แอดดิสอาบาบา</name>
+		<name normalized="ཨ་ཌི་སི་ཨ་བ་བ།" languages="Tibetan">ཨ་ཌི་སི་ཨ་བ་བ།</name>
+		<name normalized="အာဒစ် အာဘာဘာမြို့" languages="Burmese">အာဒစ် အာဘာဘာမြို့</name>
+		<name normalized="ადის-აბება" languages="Georgian">ადის-აბება</name>
+		<name normalized="አዲስ አበባ" languages="Amharic">አዲስ አበባ</name>
+		<name normalized="adisabb" languages="Japanese">アディスアベバ</name>
+		<name normalized="亚的斯亚贝巴" languages="Chinese;Wu">亚的斯亚贝巴</name>
+		<name normalized="阿迪斯阿貝巴" languages="Cantonese">阿迪斯阿貝巴</name>
+		<name normalized="아디스아바바" languages="Korean">아디스아바바</name>
+	</region>
+	<region name="Afar" type="ethnically based state" typeTranslated="kilil">
+		<name normalized="Afar" languages="Croatian;Dutch;English;Finnish;French;German;Italian;Norwegian (bokmal);official;Portuguese;Serbo-Croatian;Spanish;Turkish">Afar</name>
+		<name normalized="Afar" languages="Catalan">Àfar</name>
+		<name normalized="Aфaр" languages="Russian;Serbian;Ukrainian">Афар</name>
+		<name normalized="ahar" languages="Japanese">アファル</name>
+	</region>
+	<region name="Amara" type="ethnically based state" typeTranslated="kilil">
+		<name normalized="Amara" languages="Catalan;Cebuano;English;French;Norwegian (bokmal);official;Portuguese;Spanish;Swedish;Waray">Amara</name>
+		<name normalized="Amhara" languages="Breton;Croatian;Dutch;English;Finnish;French;German;Hungarian;Norwegian (bokmal);Norwegian Nynorsk;official;Polish;Portuguese;Swedish;Vietnamese">Amhara</name>
+		<name normalized="Amhara Bolgesi" languages="Turkish">Amhara Bölgesi</name>
+		<name normalized="Amhara Region" languages="English">Amhara Region</name>
+		<name normalized="Amharsko" languages="Czech">Amharsko</name>
+		<name normalized="Amheru regionas" languages="Lithuanian">Amherų regionas</name>
+		<name normalized="Glansloopkevers" languages="Dutch">Glansloopkevers</name>
+		<name normalized="Jimbo la Amhara" languages="Swahili">Jimbo la Amhara</name>
+		<name normalized="Laukazygiai" languages="Lithuanian">Laukažygiai</name>
+		<name normalized="Regija Amhara" languages="Serbo-Croatian">Regija Amhara</name>
+		<name normalized="Region Amhara" languages="Indonesian;Occitan">Region Amhara</name>
+		<name normalized="Regione degli Amara" languages="Italian">Regione degli Amara</name>
+		<name normalized="Regiono Amharo" languages="Esperanto">Regiono Amharo</name>
+		<name normalized="Regio Amhara" languages="Catalan">Regió Amhara</name>
+		<name normalized="Region de Amhara" languages="Spanish">Región de Amhara</name>
+		<name normalized="Statul Amhara" languages="Romanian">Statul Amhara</name>
+		<name normalized="Αμχαρα" languages="Greek">Αμχάρα</name>
+		<name normalized="Aмkaрa" languages="Bulgarian;Russian;Serbian">Амхара</name>
+		<name normalized="Tuсkлiki" languages="Russian">Тускляки</name>
+		<name normalized="אמhrh" languages="Hebrew">אמהרה</name>
+		<name normalized="أmhrة" languages="Arabic">أمهرة</name>
+		<name normalized="sوbہ אmہאrא" languages="Western Punjabi">صوبہ امہارا</name>
+		<name normalized="am्hाrा p्rdes" languages="Hindi">अम्हारा प्रदेश</name>
+		<name normalized="ამჰარის რეგიონი" languages="Georgian">ამჰარის რეგიონი</name>
+		<name normalized="አማራ" languages="Amharic">አማራ</name>
+		<name normalized="amhr州" languages="Japanese">アムハラ州</name>
+		<name normalized="阿姆哈拉州" languages="Chinese">阿姆哈拉州</name>
+		<name normalized="암하라 주" languages="Korean">암하라 주</name>
+	</region>
+	<region name="Binshangul Gumuz" type="ethnically based state" typeTranslated="kilil">
+		<name normalized="Binshangul Gumuz" languages="English;official">Binshangul Gumuz</name>
+	</region>
+	<region name="Dire Dawa" type="self-governing administration" typeTranslated="self-governing administration">
+		<name normalized="Dire Daua" languages="Italian;Polish">Dire Daua</name>
+		<name normalized="Dire Dava" languages="Serbo-Croatian">Dire Dava</name>
+		<name normalized="Dire Dawa" languages="Breton;Catalan;Croatian;Danish;Dutch;English;Estonian;Finnish;French;German;Hungarian;Indonesian;Latin;Norwegian (bokmal);official;Portuguese;Romanian;Shona;Spanish;Swahili;Swedish;Turkish;Vietnamese;Waray">Dire Dawa</name>
+		<name normalized="Dire-Dauo" languages="Esperanto">Dire-Daŭo</name>
+		<name normalized="Diredava" languages="Lithuanian">Diredava</name>
+		<name normalized="Dirre Dhawaa" languages="Oromo">Dirre Dhawaa</name>
+		<name normalized="Ντιρε Νταουα" languages="Greek">Ντίρε Ντάουα</name>
+		<name normalized="Diрi Dava" languages="Bulgarian;Serbian">Дире Дава</name>
+		<name normalized="Dырi-Daua" languages="Mongolian;Russian">Дыре-Дауа</name>
+		<name normalized="דיrh דאvvh" languages="Hebrew">דירה דאווה</name>
+		<name normalized="دyrة دאوא" languages="Arabic">ديرة داوا</name>
+		<name normalized="دیrدאوh" languages="Persian">دیرداوه</name>
+		<name normalized="डire डाvा" languages="Hindi">डिरे डावा</name>
+		<name normalized="დირე-დაუა" languages="Georgian">დირე-დაუა</name>
+		<name normalized="ድሬዳዋ" languages="Amharic">ድሬዳዋ</name>
+		<name normalized="dir・dw" languages="Japanese">ディレ・ダワ</name>
+		<name normalized="德雷达瓦" languages="Chinese">德雷达瓦</name>
+		<name normalized="디레다와" languages="Korean">디레다와</name>
+	</region>
+	<region name="Gambela Hizboch" type="ethnically based state" typeTranslated="kilil">
+		<name normalized="Gambela" languages="Breton;Catalan;Croatian;Dutch;French;German;Hungarian;Norwegian (bokmal);Portuguese;Spanish;Vietnamese">Gambela</name>
+		<name normalized="Gambela Bolgesi" languages="Turkish">Gambela Bölgesi</name>
+		<name normalized="Gambela Hizboch" languages="English;official;Swedish">Gambela Hizboch</name>
+		<name normalized="Gambela Peoples" languages="English;official">Gambela Peoples</name>
+		<name normalized="Gambela Region" languages="English">Gambela Region</name>
+		<name normalized="Gambelaregionen" languages="Norwegian Nynorsk">Gambelaregionen</name>
+		<name normalized="Gambelo" languages="Esperanto">Gambelo</name>
+		<name normalized="Gambelos regionas" languages="Lithuanian">Gambelos regionas</name>
+		<name normalized="Jimbo la Gambela" languages="Swahili">Jimbo la Gambela</name>
+		<name normalized="Regija Gambela" languages="Serbo-Croatian">Regija Gambela</name>
+		<name normalized="Region Gambela" languages="Indonesian">Region Gambela</name>
+		<name normalized="Region Ludow Gambeli" languages="Polish">Region Ludów Gambeli</name>
+		<name normalized="Regione di Gambella" languages="Italian">Regione di Gambella</name>
+		<name normalized="Statul Gambela" languages="Romanian">Statul Gambela</name>
+		<name normalized="Γκαμπeλα" languages="Greek">Γκαμπέλα</name>
+		<name normalized="Gaмbiлa" languages="Bulgarian;Russian">Гамбела</name>
+		<name normalized="Рigioн Gaмbiлa" languages="Serbian">Регион Гамбела</name>
+		<name normalized="גמbדh" languages="Hebrew">גמבלה</name>
+		<name normalized="jאmbyلא" languages="Arabic">جامبيلا</name>
+		<name normalized="sوbہ gmbیلא" languages="Western Punjabi">صوبہ گمبیلا</name>
+		<name normalized="gाm्belा p्rdes" languages="Hindi">गाम्बेला प्रदेश</name>
+		<name normalized="გამბელის რეგიონი" languages="Georgian">გამბელის რეგიონი</name>
+		<name normalized="ጋምቤላ ሕዝቦች ክልል" languages="Amharic">ጋምቤላ ሕዝቦች ክልል</name>
+		<name normalized="gnbr州" languages="Japanese">ガンベラ州</name>
+		<name normalized="甘貝拉州" languages="Chinese">甘貝拉州</name>
+		<name normalized="감벨라 주" languages="Korean">감벨라 주</name>
+	</region>
+	<region name="Hareri Hizb" type="ethnically based state" typeTranslated="kilil">
+		<name normalized="Harar" languages="German;Hungarian;Norwegian (bokmal)">Harar</name>
+		<name normalized="Harari" languages="Catalan;Dutch;Portuguese;Swedish;Vietnamese">Harari</name>
+		<name normalized="Harari Bolgesi" languages="Turkish">Harari Bölgesi</name>
+		<name normalized="Harari People" languages="English;official">Harari People</name>
+		<name normalized="Harari Region" languages="English">Harari Region</name>
+		<name normalized="Harario" languages="Esperanto">Harario</name>
+		<name normalized="Harariregionen" languages="Norwegian Nynorsk">Harariregionen</name>
+		<name normalized="Harariu regionas" languages="Lithuanian">Hararių regionas</name>
+		<name normalized="Hareri Hizb" languages="English;official">Hareri Hizb</name>
+		<name normalized="Jimbo la Harar" languages="Swahili">Jimbo la Harar</name>
+		<name normalized="Regija Harari" languages="Serbo-Croatian">Regija Harari</name>
+		<name normalized="Region Harari" languages="Indonesian">Region Harari</name>
+		<name normalized="Region Ludu Hareri" languages="Polish">Region Ludu Hareri</name>
+		<name normalized="Regione di Harar" languages="Italian">Regione di Harar</name>
+		<name normalized="Region Harar" languages="Spanish">Región Harar</name>
+		<name normalized="Region Harar" languages="French">Région Harar</name>
+		<name normalized="Stad-rannvro Harar" languages="Breton">Stad-rannvro Harar</name>
+		<name normalized="Statul Oromia" languages="Romanian">Statul Oromia</name>
+		<name normalized="Χαραρι" languages="Greek">Χαράρι</name>
+		<name normalized="Рigioн Kaрaрi" languages="Serbian">Регион Харари</name>
+		<name normalized="Kaрaрi" languages="Bulgarian;Russian">Харари</name>
+		<name normalized="hrrי" languages="Hebrew">הררי</name>
+		<name normalized="hrry" languages="Arabic">هرري</name>
+		<name normalized="ہrאrی sوbہ" languages="Western Punjabi">ہراری صوبہ</name>
+		<name normalized="hrाri p्rdes" languages="Hindi">हरारी प्रदेश</name>
+		<name normalized="ჰარარის რეგიონი" languages="Georgian">ჰარარის რეგიონი</name>
+		<name normalized="ሐረሪ ሕዝብ ክልል" languages="Amharic">ሐረሪ ሕዝብ ክልል</name>
+		<name normalized="hrr州" languages="Japanese">ハラリ州</name>
+		<name normalized="哈勒爾州" languages="Chinese">哈勒爾州</name>
+		<name normalized="하라리 주" languages="Korean">하라리 주</name>
+	</region>
+	<region name="Nationalities" type="ethnically based state" typeTranslated="kilil">
+		<name normalized="Burger" languages="Dutch">Burger</name>
+		<name normalized="Burgerlikheid" languages="Low Saxon (Netherlands)">Burgerlikheid</name>
+		<name normalized="Burgerskap" languages="Afrikaans">Burgerskap</name>
+		<name normalized="Cetațenie" languages="Romanian">Cetățenie</name>
+		<name normalized="Cidadania" languages="Portuguese">Cidadania</name>
+		<name normalized="Citatinu" languages="Sicilian">Citatinu</name>
+		<name normalized="Citizenship" languages="English;Simple English">Citizenship</name>
+		<name normalized="Citoyennete" languages="French">Citoyenneté</name>
+		<name normalized="Cittadinanza" languages="Italian">Cittadinanza</name>
+		<name normalized="Ciudadano" languages="Spanish">Ciudadano</name>
+		<name normalized="Ciutadan" languages="Occitan">Ciutadan</name>
+		<name normalized="Ciutada" languages="Catalan">Ciutadà</name>
+		<name normalized="Civitaneso" languages="Ido">Civitaneso</name>
+		<name normalized="Civito" languages="Esperanto">Civito</name>
+		<name normalized="Dinasyddiaeth" languages="Welsh">Dinasyddiaeth</name>
+		<name normalized="Drzavljanstvo" languages="Bosnian;Croatian;Serbo-Croatian;Slovenian">Državljanstvo</name>
+		<name normalized="Fuqarolik" languages="Uzbek">Fuqarolik</name>
+		<name normalized="Herritartasun" languages="Basque">Herritartasun</name>
+		<name normalized="Kansalaisuus" languages="Finnish">Kansalaisuus</name>
+		<name normalized="Kerakyatan" languages="Malay">Kerakyatan</name>
+		<name normalized="Kewarganegaraan" languages="Indonesian">Kewarganegaraan</name>
+		<name normalized="Kodanik" languages="Estonian">Kodanik</name>
+		<name normalized="Medborgarskap" languages="Swedish">Medborgarskap</name>
+		<name normalized="Nationalities" languages="English;official">Nationalities</name>
+		<name normalized="Obywatelstwo" languages="Polish">Obywatelstwo</name>
+		<name normalized="Obcanstvi" languages="Czech">Občanství</name>
+		<name normalized="Obcianstvo" languages="Slovak">Občianstvo</name>
+		<name normalized="Pagkamamamayan" languages="Tagalog">Pagkamamamayan</name>
+		<name normalized="Pilietybe" languages="Lithuanian">Pilietybė</name>
+		<name normalized="Pilsoniba" languages="Latvian">Pilsonība</name>
+		<name normalized="Quyen cong dan" languages="Vietnamese">Quyền công dân</name>
+		<name normalized="Rikisborgararettur" languages="Icelandic">Ríkisborgararéttur</name>
+		<name normalized="Shtetesia" languages="Albanian">Shtetësia</name>
+		<name normalized="Sitadinansa" languages="veneto">Sitadinansa</name>
+		<name normalized="Staatsburgerschaft" languages="German">Staatsbürgerschaft</name>
+		<name normalized="Statsborgar" languages="Norwegian Nynorsk">Statsborgar</name>
+		<name normalized="Statsborgerskab" languages="Danish">Statsborgerskab</name>
+		<name normalized="Statsborgerskap" languages="Norwegian (bokmal)">Statsborgerskap</name>
+		<name normalized="Themutnipen" languages="Romani">Themutnipen</name>
+		<name normalized="Vatandaslık" languages="Turkish">Vatandaşlık</name>
+		<name normalized="Vətəndas" languages="Azerbaijani">Vətəndaş</name>
+		<name normalized="Welatini" languages="Kurdish">Welatînî</name>
+		<name normalized="Ayeomoilu" languages="Yoruba">Àyèọmọìlú</name>
+		<name normalized="Allampolgarsag" languages="Hungarian">Állampolgárság</name>
+		<name normalized="Ιθαγeνεια" languages="Greek">Ιθαγένεια</name>
+		<name normalized="Azaмattыk" languages="Kazakh">Азаматтық</name>
+		<name normalized="Vataнdasлыk" languages="Tatar">Ватандашлык</name>
+		<name normalized="Gрazdaнсtvo" languages="Bulgarian;Karachay-Balkar;Russian">Гражданство</name>
+		<name normalized="Gрaмadziнсtva" languages="Belarusian">Грамадзянства</name>
+		<name normalized="Gрoмadiнсtvo" languages="Ukrainian">Громадянство</name>
+		<name normalized="Dрzavjaнсtvo" languages="Macedonian">Државјанство</name>
+		<name normalized="Dрzavlaнсtvo" languages="Serbian">Држављанство</name>
+		<name normalized="Iрgeнsiл" languages="Mongolian">Иргэншил</name>
+		<name normalized="Kաղաkաcիvytյvyն" languages="Armenian">Քաղաքացիություն</name>
+		<name normalized="אזrhvt" languages="Hebrew">אזרחות</name>
+		<name normalized="bיrגעrשאpt" languages="Yiddish">בירגערשאפט</name>
+		<name normalized="شאrوmەندێtی" languages="Sorani Kurdish">شارومەندێتی</name>
+		<name normalized="شhrوندی" languages="Persian">شهروندی</name>
+		<name normalized="mوאtنة" languages="Arabic">مواطنة</name>
+		<name normalized="mوאtنh" languages="Egyptian Spoken Arabic">مواطنه</name>
+		<name normalized="nाgriktा" languages="Hindi;Nepali">नागरिकता</name>
+		<name normalized="குடியுரிமை" languages="Tamil">குடியுரிமை</name>
+		<name normalized="പൗരത്വം" languages="Malayalam">പൗരത്വം</name>
+		<name normalized="მენოღალობა" languages="Mingrelian">მენოღალობა</name>
+		<name normalized="მოქალაქეობა" languages="Georgian">მოქალაქეობა</name>
+		<name normalized="公民" languages="Chinese">公民</name>
+		<name normalized="市民" languages="Japanese">市民</name>
+		<name normalized="시민" languages="Korean">시민</name>
+	</region>
+	<region name="Oromiya" type="ethnically based state" typeTranslated="kilil">
+		<name normalized="Jimbo la Oromia" languages="Swahili">Jimbo la Oromia</name>
+		<name normalized="Oromia" languages="Breton;Croatian;English;Finnish;French;German;Hungarian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Swedish;Vietnamese">Oromia</name>
+		<name normalized="Oromia Bolgesi" languages="Turkish">Oromia Bölgesi</name>
+		<name normalized="Oromia Region" languages="English">Oromia Region</name>
+		<name normalized="Oromiaregionen" languages="Norwegian Nynorsk">Oromiaregionen</name>
+		<name normalized="Oromie" languages="Czech">Oromie</name>
+		<name normalized="Oromija" languages="Serbo-Croatian">Oromija</name>
+		<name normalized="Oromijos regionas" languages="Lithuanian">Oromijos regionas</name>
+		<name normalized="Oromio" languages="Esperanto">Oromio</name>
+		<name normalized="Oromiya" languages="Dutch;English;official">Oromiya</name>
+		<name normalized="Oromiyaa" languages="Oromo">Oromiyaa</name>
+		<name normalized="Oromia" languages="Spanish">Oromía</name>
+		<name normalized="Oromia" languages="Catalan">Oròmia</name>
+		<name normalized="Region Oromia" languages="Indonesian;Javanese">Region Oromia</name>
+		<name normalized="Ορομια" languages="Greek">Ορόμια</name>
+		<name normalized="Oрoмii" languages="Bulgarian;Russian">Оромия</name>
+		<name normalized="Oрoмija" languages="Serbian">Оромија</name>
+		<name normalized="אvrvמיh" languages="Hebrew">אורומיה</name>
+		<name normalized="أوrوmyא" languages="Arabic">أوروميا</name>
+		<name normalized="sوbہ אrوmیא" languages="Western Punjabi">صوبہ ارومیا</name>
+		<name normalized="oromia p्rdes" languages="Hindi">ओरोमिआ प्रदेश</name>
+		<name normalized="ორომიის რეგიონი" languages="Georgian">ორომიის რეგიონი</name>
+		<name normalized="ኦሮሚያ ክልል" languages="Amharic">ኦሮሚያ ክልል</name>
+		<name normalized="orma州" languages="Japanese">オロミア州</name>
+		<name normalized="奧羅米亞州" languages="Chinese">奧羅米亞州</name>
+		<name normalized="오로미아 주" languages="Korean">오로미아 주</name>
+	</region>
+	<region name="Peoples)" type="ethnically based state" typeTranslated="kilil">
+		<name normalized="Peoples)" languages="English;official">Peoples)</name>
+	</region>
+	<region name="Sumale" type="ethnically based state" typeTranslated="kilil">
+		<name normalized="Jimbo la Somali" languages="Swahili">Jimbo la Somali</name>
+		<name normalized="Regija Somali" languages="Serbo-Croatian">Regija Somali</name>
+		<name normalized="Region Somali" languages="Indonesian">Region Somali</name>
+		<name normalized="Regione dei Somali" languages="Italian">Regione dei Somali</name>
+		<name normalized="Regiao Somali" languages="Portuguese">Região Somali</name>
+		<name normalized="Regio Somali" languages="Catalan">Regió Somali</name>
+		<name normalized="Region Somali" languages="French">Région Somali</name>
+		<name normalized="Somaalia osariik" languages="Estonian">Somaalia osariik</name>
+		<name normalized="Somala regiono" languages="Esperanto">Somala regiono</name>
+		<name normalized="Somali" languages="Breton;Croatian;Dutch;English;Finnish;German;Norwegian (bokmal);official;Polish;Swedish;Vietnamese">Somali</name>
+		<name normalized="Somali Bolgesi" languages="Turkish">Somali Bölgesi</name>
+		<name normalized="Somali Region" languages="English">Somali Region</name>
+		<name normalized="Somaliregionen" languages="Norwegian Nynorsk">Somaliregionen</name>
+		<name normalized="Somaliu regionas" languages="Lithuanian">Somalių regionas</name>
+		<name normalized="Somalsko" languages="Czech">Somálsko</name>
+		<name normalized="Soomaali Galbeed" languages="Somali">Soomaali Galbeed</name>
+		<name normalized="Statul Somali" languages="Romanian">Statul Somali</name>
+		<name normalized="Sumale" languages="English;official">Sumale</name>
+		<name normalized="Szomalia" languages="Hungarian">Szomália</name>
+		<name normalized="Σομαλια" languages="Greek">Σομαλία</name>
+		<name normalized="Рigioн Сoмaлi" languages="Serbian">Регион Сомали</name>
+		<name normalized="Сoмaлi" languages="Bulgarian;Russian">Сомали</name>
+		<name normalized="סvמדי" languages="Hebrew">סומלי</name>
+		<name normalized="אلmنtqة אلsوmאلyة" languages="Arabic">المنطقة الصومالية</name>
+		<name normalized="sوbہ سوmאلی" languages="Western Punjabi">صوبہ سومالی</name>
+		<name normalized="somाli p्rdes" languages="Hindi">सोमाली प्रदेश</name>
+		<name normalized="სომალის რეგიონი" languages="Georgian">სომალის რეგიონი</name>
+		<name normalized="ሶማሌ ክልል" languages="Amharic">ሶማሌ ክልል</name>
+		<name normalized="smr州" languages="Japanese">ソマリ州</name>
+		<name normalized="索馬里州" languages="Chinese">索馬里州</name>
+		<name normalized="소말리 주" languages="Korean">소말리 주</name>
+	</region>
+	<region name="Tigray" type="ethnically based state" typeTranslated="kilil">
+		<name normalized="Tigrai" languages="Italian">Tigrai</name>
+		<name normalized="Tigray" languages="Catalan;English;German;official;Serbo-Croatian">Tigray</name>
+		<name normalized="Tigre" languages="Portuguese">Tigré</name>
+		<name normalized="tyغrאy" languages="Arabic">تيغراي</name>
+	</region>
+	<region name="Ye Debub Biheroch Bihereseboch na Hizboch" type="ethnically based state" typeTranslated="kilil">
+		<name normalized="Southern Nations" languages="English;official">Southern Nations</name>
+		<name normalized="Ye Debub Biheroch Bihereseboch na Hizboch" languages="English;official">Ye Debub Biheroch Bihereseboch na Hizboch</name>
+	</region>
+</regions>

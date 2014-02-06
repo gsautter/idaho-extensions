@@ -1,0 +1,1198 @@
+<regions country="Poland">
+	<region name="Dolnoslaskie" type="province" typeTranslated="wojewodztwo">
+		<name normalized="Ala-Sleesian voivodikunta" languages="Finnish">Ala-Sleesian voivodikunta</name>
+		<name normalized="Alam-Sileesia vojevoodkond" languages="Estonian">Alam-Sileesia vojevoodkond</name>
+		<name normalized="Also-szileziai vajdasag" languages="Hungarian">Alsó-sziléziai vajdaság</name>
+		<name normalized="Asagı Sileziya voyevodalıgı" languages="Crimean Turkish">Aşağı Sileziya voyevodalığı</name>
+		<name normalized="Asagı Silezya" languages="Turkish">Aşağı Silezya</name>
+		<name normalized="Asagı Silezya Voyvodalıgı" languages="Turkish">Aşağı Silezya Voyvodalığı</name>
+		<name normalized="Baixa Silesia" languages="Galician">Baixa Silesia</name>
+		<name normalized="Baixa Silesia" languages="Portuguese">Baixa Silésia</name>
+		<name normalized="Delnjosleske wojewodstwo" languages="Upper Sorbian">Delnjošleske wojewódstwo</name>
+		<name normalized="Dolnoslaskie" languages="English;official">Dolnoslaskie</name>
+		<name normalized="Dolnoslaskie Province" languages="English;official">Dolnoslaskie Province</name>
+		<name normalized="Dolnoslaskie Wojewodztwo" languages="English;official">Dolnoslaskie Wojewodztwo</name>
+		<name normalized="Dolnoslezske vojvodstvi" languages="Czech">Dolnoslezské vojvodství</name>
+		<name normalized="Dolnosliezske vojvodstvo" languages="Slovak">Dolnosliezske vojvodstvo</name>
+		<name normalized="Dolnoslaskie" languages="Vietnamese">Dolnośląskie</name>
+		<name normalized="Dolnoslunske wojewudztwo" languages="Silesian">Dolnoślůnske wojewůdztwo</name>
+		<name normalized="Dolny Slask" languages="Polish">Dolny Śląsk</name>
+		<name normalized="Dolny Slunsk" languages="Silesian">Dolny Ślůnsk</name>
+		<name normalized="Dolne Sliezsko" languages="Slovak">Dolné Sliezsko</name>
+		<name normalized="Dolni Slezsko" languages="Czech">Dolní Slezsko</name>
+		<name normalized="Donjoslesko vojvodstvo" languages="Bosnian;Croatian">Donjošlesko vojvodstvo</name>
+		<name normalized="Dolnoszlascze wojewodztwo" languages="Kashubian">Dólnoszląsczé wòjewództwò</name>
+		<name normalized="Lejassilezijas vojevodiste" languages="Latvian">Lejassilēzijas vojevodiste</name>
+		<name normalized="Lower Silesia" languages="English;official">Lower Silesia</name>
+		<name normalized="Lower Silesia Province" languages="English;official">Lower Silesia Province</name>
+		<name normalized="Lower Silesia Wojewodztwo" languages="English;official">Lower Silesia Wojewodztwo</name>
+		<name normalized="Lower Silesian Voivodeship" languages="English;Simple English">Lower Silesian Voivodeship</name>
+		<name normalized="Malsuprasilezia Provinco" languages="Esperanto">Malsuprasilezia Provinco</name>
+		<name normalized="Neder-Silezie" languages="Zeeuws">Neder-Silezië</name>
+		<name normalized="Nederschlesiske voivodskap" languages="Norwegian (bokmal);Norwegian Nynorsk">Nederschlesiske voivodskap</name>
+		<name normalized="Nedre Schlesien" languages="Norwegian (bokmal);Swedish">Nedre Schlesien</name>
+		<name normalized="Nedre Schlesiens vojvodskap" languages="Swedish">Nedre Schlesiens vojvodskap</name>
+		<name normalized="Nedri-Slesia" languages="Icelandic">Neðri-Slesía</name>
+		<name normalized="Niederschlesien" languages="German">Niederschlesien</name>
+		<name normalized="Province of Silesia" languages="English">Province of Silesia</name>
+		<name normalized="Provincia de Silesia" languages="Spanish">Provincia de Silesia</name>
+		<name normalized="Provincia della Slesia" languages="Italian">Provincia della Slesia</name>
+		<name normalized="Provinsen Schlesien" languages="Norwegian (bokmal);Swedish">Provinsen Schlesien</name>
+		<name normalized="Provinsi Dolnoslaskie" languages="Indonesian">Provinsi Dolnośląskie</name>
+		<name normalized="Provinz Schlesien" languages="German">Provinz Schlesien</name>
+		<name normalized="Prusia Silezio" languages="Esperanto">Prusia Silezio</name>
+		<name normalized="Pruske Slezsko" languages="Czech">Pruské Slezsko</name>
+		<name normalized="Queiggey ny Sileesh Eeaghtyragh" languages="Manx">Queiggey ny Sileesh Eeaghtyragh</name>
+		<name normalized="Schlesien" languages="Danish;German;Luxembourgish;Norwegian (bokmal);Norwegian Nynorsk;Swedish">Schlesien</name>
+		<name normalized="Sileesia" languages="Estonian">Sileesia</name>
+		<name normalized="Sileezje" languages="Western Frisian">Sileezje</name>
+		<name normalized="Silesia" languages="Basque;English;Galician;Indonesian;Javanese;Latin;official;Simple English;Spanish;Vietnamese;Welsh">Silesia</name>
+		<name normalized="Silesia Behereko voivoderria" languages="Basque">Silesia Behereko voivoderria</name>
+		<name normalized="Silesia Province" languages="English;official">Silesia Province</name>
+		<name normalized="Silesia Wojewodztwo" languages="English;official">Silesia Wojewodztwo</name>
+		<name normalized="Silesie" languages="Afrikaans">Silesië</name>
+		<name normalized="Silesya" languages="Tagalog;Waray">Silesya</name>
+		<name normalized="Silezia" languages="Breton;Romanian">Silezia</name>
+		<name normalized="Silezija" languages="Lithuanian">Silezija</name>
+		<name normalized="Silezio" languages="Esperanto">Silezio</name>
+		<name normalized="Sileziya" languages="Azerbaijani">Sileziya</name>
+		<name normalized="Silezie" languages="Dutch;Zeeuws">Silezië</name>
+		<name normalized="Silezya" languages="Turkish">Silezya</name>
+		<name normalized="Silesia" languages="Catalan;Occitan">Silèsia</name>
+		<name normalized="Silesia prussiana" languages="Catalan">Silèsia prussiana</name>
+		<name normalized="Silesia" languages="Portuguese">Silésia</name>
+		<name normalized="Silesie" languages="French">Silésie</name>
+		<name normalized="Silezija" languages="Latvian">Silēzija</name>
+		<name normalized="Sleesia" languages="Finnish">Sleesia</name>
+		<name normalized="Sleesian provinssi" languages="Finnish">Sleesian provinssi</name>
+		<name normalized="Slesia" languages="Italian">Slesia</name>
+		<name normalized="Slezsko" languages="Czech">Slezsko</name>
+		<name normalized="Sliezsko" languages="Slovak">Sliezsko</name>
+		<name normalized="Szilezia" languages="Hungarian">Szilézia</name>
+		<name normalized="Uruubos nga Silesya" languages="Waray">Uruubos nga Silesya</name>
+		<name normalized="Voievodatul Silezia Inferioara" languages="Romanian">Voievodatul Silezia Inferioară</name>
+		<name normalized="Voivodat de Baixa Silesia" languages="Catalan">Voivodat de Baixa Silèsia</name>
+		<name normalized="Voivodat de Bassa Silesia" languages="Occitan">Voivodat de Bassa Silèsia</name>
+		<name normalized="Voivodat di Baho Silesia" languages="Papiamento">Voivodat di Baho Silesia</name>
+		<name normalized="Voivodato de Baja Silesia" languages="Spanish">Voivodato de Baja Silesia</name>
+		<name normalized="Voivodato della Bassa Slesia" languages="Italian">Voivodato della Bassa Slesia</name>
+		<name normalized="Voivodia da Baixa Silesia" languages="Portuguese">Voivodia da Baixa Silésia</name>
+		<name normalized="Voivodie de Basse-Silesie" languages="French">Voïvodie de Basse-Silésie</name>
+		<name normalized="Wilayah Lower Silesian" languages="Malay">Wilayah Lower Silesian</name>
+		<name normalized="Woiwodschaft Niederschlesien" languages="German">Woiwodschaft Niederschlesien</name>
+		<name normalized="Woiwodschap Neder-Silezie" languages="Dutch">Woiwodschap Neder-Silezië</name>
+		<name normalized="Wojewodztwo dolnoslaskie" languages="Danish;Polish;Tetum">Województwo dolnośląskie</name>
+		<name normalized="Slask" languages="Polish">Śląsk</name>
+		<name normalized="Slunsk" languages="Silesian">Ślůnsk</name>
+		<name normalized="Sleska" languages="Bosnian;Croatian;Serbo-Croatian;Upper Sorbian">Šleska</name>
+		<name normalized="Slezija" languages="Slovenian">Šlezija</name>
+		<name normalized="Zemutines Silezijos vaivadija" languages="Lithuanian">Žemutinės Silezijos vaivadija</name>
+		<name normalized="Σιλεσια" languages="Greek">Σιλεσία</name>
+		<name normalized="Vojvodсtvo donosлiсko" languages="Serbian">Војводство доњошлеско</name>
+		<name normalized="Doлнa Сiлizii" languages="Bulgarian">Долна Силезия</name>
+		<name normalized="Doлнoсiлizko voйvodсtvo" languages="Bulgarian">Долносилезко войводство</name>
+		<name normalized="Doлнosлiziсko vojvodсtvo" languages="Macedonian">Долношлезиско војводство</name>
+		<name normalized="Нizнiсiлizсkoi voivodсtvo" languages="Russian">Нижнесилезское воеводство</name>
+		<name normalized="Нizньoсiлizьki voevodсtvo" languages="Ukrainian">Нижньосілезьке воєводство</name>
+		<name normalized="Нizнi Сiлizii" languages="Ukrainian">Нижня Сілезія</name>
+		<name normalized="Нizнii Сiлizii" languages="Russian">Нижняя Силезия</name>
+		<name normalized="Нizнiсылiсkai vaivodztva" languages="biлaрuсkai (taрaskivita)‎">Ніжнесылескае ваяводзтва</name>
+		<name normalized="Нizнiсiлizсkai vaivodсtva" languages="Belarusian">Ніжнесілезскае ваяводства</name>
+		<name normalized="Pрoviнtii Сiлizii" languages="Russian">Провинция Силезия</name>
+		<name normalized="Сiлizi" languages="Ossetic">Силези</name>
+		<name normalized="Сiлizii" languages="Moksha">Силезие</name>
+		<name normalized="Сiлizii" languages="Bulgarian;Russian">Силезия</name>
+		<name normalized="Сiлizii" languages="Ukrainian">Сілезія</name>
+		<name normalized="Sлiсka" languages="Serbian">Шлеска</name>
+		<name normalized="שדזיh" languages="Hebrew">שלזיה</name>
+		<name normalized="שדעזיע" languages="Yiddish">שלעזיע</name>
+		<name normalized="سyلyزyא" languages="Arabic">سيليزيا</name>
+		<name normalized="سیلزی" languages="Mazanderani">سیلزی</name>
+		<name normalized="سیلیزیא" languages="Persian">سیلیزیا</name>
+		<name normalized="sوbہ tھلوאں سאئیلیشیא" languages="Western Punjabi">صوبہ تھلواں سائیلیشیا</name>
+		<name normalized="mhאfzة سyلزyא אلسfلى" languages="Arabic">محافظة سيلزيا السفلى</name>
+		<name normalized="डol्nos्loंs्kा p्rांt" languages="Marathi">डॉल्नोश्लोंस्का प्रांत</name>
+		<name normalized="ไซลีเซีย" languages="Thai">ไซลีเซีย</name>
+		<name normalized="სილეზია" languages="Georgian">სილეზია</name>
+		<name normalized="ქვემო სილეზიის სავოევოდო" languages="Georgian">ქვემო სილეზიის სავოევოდო</name>
+		<name normalized="srza" languages="Japanese">シレジア</name>
+		<name normalized="drni・srnsk県" languages="Japanese">ドルヌィ・シロンスク県</name>
+		<name normalized="下西里西亚省" languages="Chinese">下西里西亚省</name>
+		<name normalized="西里西亚省" languages="Chinese">西里西亚省</name>
+		<name normalized="西里西亞" languages="Chinese">西里西亞</name>
+		<name normalized="돌니실롱스크 주" languages="Korean">돌니실롱스크 주</name>
+		<name normalized="실레시아" languages="Korean">실레시아</name>
+	</region>
+	<region name="Kujawsko-Pomorskie" type="province" typeTranslated="wojewodztwo">
+		<name normalized="Cuiavia-Pomerania" languages="Galician">Cuiavia-Pomerania</name>
+		<name normalized="Kujavia-Pomeraniako voivoderria" languages="Basque">Kujavia-Pomeraniako voivoderria</name>
+		<name normalized="Kujavia-Pomeria Provinco" languages="Esperanto">Kujavia-Pomeria Provinco</name>
+		<name normalized="Kujavia-Pommerin voivodikunta" languages="Finnish">Kujavia-Pommerin voivodikunta</name>
+		<name normalized="Kujavien-Pommerns vojvodskap" languages="Swedish">Kujavien-Pommerns vojvodskap</name>
+		<name normalized="Kujavijos Pamario vaivadija" languages="Lithuanian">Kujavijos Pamario vaivadija</name>
+		<name normalized="Kujaviskpommerske voivodskap" languages="Norwegian (bokmal);Norwegian Nynorsk">Kujaviskpommerske voivodskap</name>
+		<name normalized="Kujavie-Pommer'n" languages="Zeeuws">Kujavië-Pommer'n</name>
+		<name normalized="Kujavsko-pomeransko vojvodstvo" languages="Bosnian;Croatian">Kujavsko-pomeransko vojvodstvo</name>
+		<name normalized="Kujavsko-pomoranske vojvodstvo" languages="Slovak">Kujavsko-pomoranské vojvodstvo</name>
+		<name normalized="Kujavsko-pomorjansko vojvodstvo" languages="Slovenian">Kujavsko-pomorjansko vojvodstvo</name>
+		<name normalized="Kujavsko-pomorske vojvodstvi" languages="Czech">Kujavsko-pomořské vojvodství</name>
+		<name normalized="Kujaviska-Pommern" languages="Icelandic">Kujavíska-Pommern</name>
+		<name normalized="Kujawsko-pomorske wojewodstwo" languages="Upper Sorbian">Kujawsko-pomorske wojewódstwo</name>
+		<name normalized="Kujawsko-Pomorskie" languages="English;official;Vietnamese">Kujawsko-Pomorskie</name>
+		<name normalized="Kujawsko-Pomorskie Province" languages="English;official">Kujawsko-Pomorskie Province</name>
+		<name normalized="Kujawsko-Pomorskie Wojewodztwo" languages="English;official">Kujawsko-Pomorskie Wojewodztwo</name>
+		<name normalized="Kujawy-Pomorze vojevoodkond" languages="Estonian">Kujawy-Pomorze vojevoodkond</name>
+		<name normalized="Kujavia-pomeraniai vajdasag" languages="Hungarian">Kujávia-pomerániai vajdaság</name>
+		<name normalized="Kujavijas-Pomozes vojevodiste" languages="Latvian">Kujāvijas-Pomožes vojevodiste</name>
+		<name normalized="Kuyavia-Pomerania" languages="English;official">Kuyavia-Pomerania</name>
+		<name normalized="Kuyavia-Pomerania Province" languages="English;official">Kuyavia-Pomerania Province</name>
+		<name normalized="Kuyavia-Pomerania Wojewodztwo" languages="English;official">Kuyavia-Pomerania Wojewodztwo</name>
+		<name normalized="Kuyavian-Pomeranian Voivodeship" languages="English">Kuyavian-Pomeranian Voivodeship</name>
+		<name normalized="Kuyavlar-Pomeraniya voyevodalıgı" languages="Crimean Turkish">Kuyavlar-Pomeraniya voyevodalığı</name>
+		<name normalized="Kuyavya-Pomeranya" languages="Waray">Kuyavya-Pomeranya</name>
+		<name normalized="Kujawsko-pomorscze wojewodztwo" languages="Kashubian">Kùjawskô-pòmòrsczé wòjewództwò</name>
+		<name normalized="Provinsi Kujawy-Pomorze" languages="Indonesian">Provinsi Kujawy-Pomorze</name>
+		<name normalized="Queiggey Kujawy-Pomorze" languages="Manx">Queiggey Kujawy-Pomorze</name>
+		<name normalized="Voievodatul Cuiavia si Pomerania" languages="Romanian">Voievodatul Cuiavia și Pomerania</name>
+		<name normalized="Voivodat de Cuiavia i Pomerania" languages="Catalan">Voivodat de Cuiàvia i Pomerània</name>
+		<name normalized="Voivodat di Cuiavia-Pomerania" languages="Papiamento">Voivodat di Cuiavia-Pomerania</name>
+		<name normalized="Voivodato 'e Cuiavia-Pomerania" languages="Neapolitan">Voivodato 'e Cuiavia-Pomerania</name>
+		<name normalized="Voivodato de Cuyavia y Pomerania" languages="Spanish">Voivodato de Cuyavia y Pomerania</name>
+		<name normalized="Voivodato della Cuiavia-Pomerania" languages="Italian">Voivodato della Cuiavia-Pomerania</name>
+		<name normalized="Voivodia da Cujavia-Pomerania" languages="Portuguese">Voivodia da Cujávia-Pomerânia</name>
+		<name normalized="Voivodie de Couiavie-Pomeranie" languages="French">Voïvodie de Couïavie-Poméranie</name>
+		<name normalized="Wilayah Kuyavian-Pomeranian" languages="Malay">Wilayah Kuyavian-Pomeranian</name>
+		<name normalized="Woiwodschaft Kujawien-Pommern" languages="German">Woiwodschaft Kujawien-Pommern</name>
+		<name normalized="Woiwodschap Koejavie-Pommeren" languages="Dutch">Woiwodschap Koejavië-Pommeren</name>
+		<name normalized="Woiwodschop Kujawien-Pommern" languages="Low German">Woiwodschop Kujawien-Pommern</name>
+		<name normalized="Woiwodskap Kujawie-Pommere" languages="Afrikaans">Woiwodskap Kujawië-Pommere</name>
+		<name normalized="Wojewodztwo kujawsko-pomorskie" languages="Danish;Polish">Województwo kujawsko-pomorskie</name>
+		<name normalized="Vojvodсtvo kujavсko-poмoрсko" languages="Serbian">Војводство кујавско-поморско</name>
+		<name normalized="Kuivсko-Poмoрсko voйvodсtvo" languages="Bulgarian">Куявско-Поморско войводство</name>
+		<name normalized="Kuivсko-Poмoрсkoi voivodсtvo" languages="Russian">Куявско-Поморское воеводство</name>
+		<name normalized="Kuivсьko-Poмoрсьki voevodсtvo" languages="Ukrainian">Куявсько-Поморське воєводство</name>
+		<name normalized="Kuiўсka-Paмoрсkai vaivodztva" languages="biлaрuсkai (taрaskivita)‎">Куяўска-Паморскае ваяводзтва</name>
+		<name normalized="Kuiўсka-Paмoрсkai vaivodсtva" languages="Belarusian">Куяўска-Паморскае ваяводства</name>
+		<name normalized="Kujavсko-poмoрсko vojvodсtvo" languages="Macedonian">Кујавско-поморско војводство</name>
+		<name normalized="kuyाs्ko-pomor्s्kा p्rांt" languages="Marathi">कुयास्को-पोमोर्स्का प्रांत</name>
+		<name normalized="კუიავო-პომერანიის სავოევოდო" languages="Georgian">კუიავო-პომერანიის სავოევოდო</name>
+		<name normalized="kyvi=pmーze県" languages="Japanese">クヤヴィ＝ポモージェ県</name>
+		<name normalized="庫亞維-波美拉尼亞省" languages="Chinese">庫亞維-波美拉尼亞省</name>
+		<name normalized="쿠야비포모제 주" languages="Korean">쿠야비포모제 주</name>
+	</region>
+	<region name="Lodzkie" type="province" typeTranslated="wojewodztwo">
+		<name normalized="Lodza Provinco" languages="Esperanto">Lodza Provinco</name>
+		<name normalized="Lodzas vojevodiste" languages="Latvian">Lodzas vojevodiste</name>
+		<name normalized="Lodzeko voivoderria" languages="Basque">Lodzeko voivoderria</name>
+		<name normalized="Lodzkie" languages="English;official">Lodzkie</name>
+		<name normalized="Lodzkie Province" languages="English;official">Lodzkie Province</name>
+		<name normalized="Lodzkie Wojewodztwo" languages="English;official">Lodzkie Wojewodztwo</name>
+		<name normalized="Lodzko vojvodstvo" languages="Bosnian">Lodzko vojvodstvo</name>
+		<name normalized="Lodzes vaivadija" languages="Lithuanian">Lodzės vaivadija</name>
+		<name normalized="Lodzske vojvodstvo" languages="Slovak">Lodžské vojvodstvo</name>
+		<name normalized="Lodzske vojvodstvi" languages="Czech">Lodžské vojvodství</name>
+		<name normalized="Luc voyevodalıgı" languages="Crimean Turkish">Luc voyevodalığı</name>
+		<name normalized="Provinsi Lodz" languages="Javanese">Provinsi Lodz</name>
+		<name normalized="Provinsi Lodz" languages="Indonesian">Provinsi Łódź</name>
+		<name normalized="Queiggey Lodz" languages="Manx">Queiggey Łódź</name>
+		<name normalized="Voievodatul Lodz" languages="Romanian">Voievodatul Łódź</name>
+		<name normalized="Voivodat de Lodz" languages="Catalan">Voivodat de Łódź</name>
+		<name normalized="Voivodat di Lodz" languages="Papiamento">Voivodat di Lodz</name>
+		<name normalized="Voivodato de Lodz" languages="Spanish">Voivodato de Łódź</name>
+		<name normalized="Voivodato di Lodz" languages="Italian">Voivodato di Łódź</name>
+		<name normalized="Voivodia de Lodz" languages="Portuguese">Voivodia de Łódź</name>
+		<name normalized="Vojvodstvo Lodz" languages="Croatian">Vojvodstvo Lodz</name>
+		<name normalized="Voivodie de Lodz" languages="French">Voïvodie de Łódź</name>
+		<name normalized="Wilayah Lodz" languages="Malay">Wilayah Łódź</name>
+		<name normalized="Woiwodschaft Lodz" languages="German">Woiwodschaft Łódź</name>
+		<name normalized="Woiwodschap Lodz" languages="Dutch">Woiwodschap Łódź</name>
+		<name normalized="Wojewodztwo lodzkie" languages="Danish;Polish">Województwo łódzkie</name>
+		<name normalized="Lodzcze wojewodztwo" languages="Kashubian">Łódzczé wòjewództwò</name>
+		<name normalized="Lodzkie" languages="Vietnamese">Łódzkie</name>
+		<name normalized="Lodz" languages="Icelandic;Waray;Zeeuws">Łódź</name>
+		<name normalized="Lodz Voivodeship" languages="English">Łódź Voivodeship</name>
+		<name normalized="Lodz voivodskap" languages="Norwegian (bokmal)">Łódź voivodskap</name>
+		<name normalized="Lodz vojvodskap" languages="Swedish">Łódź vojvodskap</name>
+		<name normalized="Lodz Voyvodalıgı" languages="Turkish">Łódź Voyvodalığı</name>
+		<name normalized="Lodz-voivodskapet" languages="Norwegian Nynorsk">Łódź-voivodskapet</name>
+		<name normalized="Lodzi vajdasag" languages="Hungarian">Łódźi vajdaság</name>
+		<name normalized="Lodzi vojevoodkond" languages="Estonian">Łódźi vojevoodkond</name>
+		<name normalized="Lodzin voivodikunta" languages="Finnish">Łódźin voivodikunta</name>
+		<name normalized="Lodzske wojewodstwo" languages="Upper Sorbian">Łódźske wojewódstwo</name>
+		<name normalized="Vojvodсtvo лodсko" languages="Serbian">Војводство лођско</name>
+		<name normalized="Лodziнсkoi voivodсtvo" languages="Russian">Лодзинское воеводство</name>
+		<name normalized="Лodziнсьki voevodсtvo" languages="Ukrainian">Лодзинське воєводство</name>
+		<name normalized="Лodzko voйvodсtvo" languages="Bulgarian">Лодзко войводство</name>
+		<name normalized="Лodziнсkai vaivodztva" languages="biлaрuсkai (taрaskivita)‎">Лодзінскае ваяводзтва</name>
+		<name normalized="Лodziнсkai vaivodсtva" languages="Belarusian">Лодзінскае ваяводства</name>
+		<name normalized="sوbہ لودز" languages="Western Punjabi">صوبہ لودز</name>
+		<name normalized="vut्s्kा p्rांt" languages="Marathi">वूत्श्का प्रांत</name>
+		<name normalized="ლოძის სავოევოდო" languages="Georgian">ლოძის სავოევოდო</name>
+		<name normalized="utt県" languages="Japanese">ウッチ県</name>
+		<name normalized="罗兹省" languages="Chinese">罗兹省</name>
+		<name normalized="우치 주" languages="Korean">우치 주</name>
+	</region>
+	<region name="Lubelskie" type="province" typeTranslated="wojewodztwo">
+		<name normalized="Liublinas" languages="Lithuanian">Liublinas</name>
+		<name normalized="Liublino vaivadija" languages="Lithuanian">Liublino vaivadija</name>
+		<name normalized="Lubblinu" languages="Sicilian">Lubblinu</name>
+		<name normalized="Lubelscze wojewodztwo" languages="Kashubian">Lubelsczé wòjewództwò</name>
+		<name normalized="Lubelskie" languages="English;official;Vietnamese">Lubelskie</name>
+		<name normalized="Lubelskie Province" languages="English;official">Lubelskie Province</name>
+		<name normalized="Lubelskie Wojewodztwo" languages="English;official">Lubelskie Wojewodztwo</name>
+		<name normalized="Lubelske vojvodstvo" languages="Slovak">Lubelské vojvodstvo</name>
+		<name normalized="Lublin" languages="Afrikaans;Asturian;Basque;Bosnian;Breton;Catalan;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;German;Hungarian;Icelandic;Indonesian;Interlingua;Interlingue;Irish;Javanese;Kalaallisut;Kashubian;Low German;Lower Sorbian;Malay;Manx;Nauru;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Polish;Portuguese;Quechua;Romanian;Scottish Gaelic;Silesian;Simple English;Slovak;Slovenian;Spanish;Swedish;Tetum;Turkish;Upper Sorbian;Vietnamese;Volapuk;veneto;Waray;Western Frisian;Zeeuws">Lublin</name>
+		<name normalized="Lublin Province" languages="English;official">Lublin Province</name>
+		<name normalized="Lublin Voivodeship" languages="English;Pampanga">Lublin Voivodeship</name>
+		<name normalized="Lublin voivodskap" languages="Norwegian (bokmal)">Lublin voivodskap</name>
+		<name normalized="Lublin Voyvodalıgı" languages="Turkish">Lublin Voyvodalığı</name>
+		<name normalized="Lublin Wojewodztwo" languages="English;official">Lublin Wojewodztwo</name>
+		<name normalized="Lublin-voivodskapet" languages="Norwegian Nynorsk">Lublin-voivodskapet</name>
+		<name normalized="Lublina Provinco" languages="Esperanto">Lublina Provinco</name>
+		<name normalized="Lublingo voivoderria" languages="Basque">Lublingo voivoderria</name>
+		<name normalized="Lublini vajdasag" languages="Hungarian">Lublini vajdaság</name>
+		<name normalized="Lublini vojevoodkond" languages="Estonian">Lublini vojevoodkond</name>
+		<name normalized="Lublinin voivodikunta" languages="Finnish">Lublinin voivodikunta</name>
+		<name normalized="Lublino" languages="Italian;Neapolitan">Lublino</name>
+		<name normalized="Lublins vojvodskap" languages="Swedish">Lublins vojvodskap</name>
+		<name normalized="Lublinsko vojvodstvo" languages="Bosnian;Croatian">Lublinsko vojvodstvo</name>
+		<name normalized="Lublinske vojvodstvi" languages="Czech">Lublinské vojvodství</name>
+		<name normalized="Lublinum" languages="Latin">Lublinum</name>
+		<name normalized="Lyublin" languages="Uzbek">Lyublin</name>
+		<name normalized="Lublin" languages="Crimean Turkish;lumbaart;Veps">Lüblin</name>
+		<name normalized="Provinsi Lublin" languages="Indonesian;Javanese">Provinsi Lublin</name>
+		<name normalized="Queiggey Lublin" languages="Manx">Queiggey Lublin</name>
+		<name normalized="Voievodatul Lublin" languages="Romanian">Voievodatul Lublin</name>
+		<name normalized="Voivodat de Lublin" languages="Catalan;Occitan">Voivodat de Lublin</name>
+		<name normalized="Voivodat di Lublin" languages="Papiamento">Voivodat di Lublin</name>
+		<name normalized="Voivodato de Lublin" languages="Galician;Spanish;veneto">Voivodato de Lublin</name>
+		<name normalized="Voivodato di Lublino" languages="Italian">Voivodato di Lublino</name>
+		<name normalized="Voivodia de Lublin" languages="Portuguese">Voivodia de Lublin</name>
+		<name normalized="Voivodie de Lublin" languages="French">Voïvodie de Lublin</name>
+		<name normalized="Wilayah Lublin" languages="Malay">Wilayah Lublin</name>
+		<name normalized="Woiwodschaff Lublin" languages="Colognian">Woiwodschaff Lublin</name>
+		<name normalized="Woiwodschaft Lublin" languages="German">Woiwodschaft Lublin</name>
+		<name normalized="Woiwodschap Lublin" languages="Dutch">Woiwodschap Lublin</name>
+		<name normalized="Wojewodztwo lubelskie" languages="Danish;Polish">Województwo lubelskie</name>
+		<name normalized="Lublina" languages="Latvian">Ļubļina</name>
+		<name normalized="Lublinas vojevodiste" languages="Latvian">Ļubļinas vojevodiste</name>
+		<name normalized="Λοuμπλιν" languages="Greek">Λούμπλιν</name>
+		<name normalized="Vojvodсtvo лubлiнсko" languages="Serbian">Војводство лублинско</name>
+		<name normalized="Goрad Люbлiн" languages="Belarusian">Горад Люблін</name>
+		<name normalized="Лubлiн" languages="Serbian">Лублин</name>
+		<name normalized="Люbлiн" languages="Bulgarian;Chechen;Ossetic;Russian;Tatar">Люблин</name>
+		<name normalized="Люbлiнсko voйvodсtvo" languages="Bulgarian">Люблинско войводство</name>
+		<name normalized="Люbлiнсkoi voivodсtvo" languages="Russian">Люблинское воеводство</name>
+		<name normalized="Люbлiн" languages="Ukrainian;biлaрuсkai (taрaskivita)‎">Люблін</name>
+		<name normalized="Люbлiнсkai vaivodztva" languages="biлaрuсkai (taрaskivita)‎">Люблінскае ваяводзтва</name>
+		<name normalized="Люbлiнсkai vaivodсtva" languages="Belarusian">Люблінскае ваяводства</name>
+		<name normalized="Люbлiнсьki voevodсtvo" languages="Ukrainian">Люблінське воєводство</name>
+		<name normalized="דvbדין" languages="Hebrew;Yiddish">לובלין</name>
+		<name normalized="אسtאن لوbلین" languages="Persian">استان لوبلین</name>
+		<name normalized="sوbہ لbلن" languages="Western Punjabi">صوبہ لبلن</name>
+		<name normalized="لbلن" languages="Western Punjabi">لبلن</name>
+		<name normalized="لوbلyن" languages="Arabic">لوبلين</name>
+		<name normalized="لوbلین" languages="Persian">لوبلین</name>
+		<name normalized="mhאfzة لوbلyن" languages="Arabic">محافظة لوبلين</name>
+		<name normalized="lubel्s्kा p्rांt" languages="Marathi">लुबेल्स्का प्रांत</name>
+		<name normalized="lub्lin" languages="Marathi">लुब्लिन</name>
+		<name normalized="ლუბლინი" languages="Georgian;Mingrelian">ლუბლინი</name>
+		<name normalized="ლუბლინის სავოევოდო" languages="Georgian">ლუბლინის სავოევოდო</name>
+		<name normalized="rbrn" languages="Japanese">ルブリン</name>
+		<name normalized="rbrn県" languages="Japanese">ルブリン県</name>
+		<name normalized="卢布林" languages="Chinese">卢布林</name>
+		<name normalized="卢布林省" languages="Chinese">卢布林省</name>
+		<name normalized="루블린" languages="Korean">루블린</name>
+		<name normalized="루블린 주" languages="Korean">루블린 주</name>
+	</region>
+	<region name="Lubuskie" type="province" typeTranslated="wojewodztwo">
+		<name normalized="Lebus" languages="Dutch;English;Esperanto;French;German;Italian;Javanese;Malay;Romanian;Swedish;Uzbek;Vietnamese;Volapuk;Waray">Lebus</name>
+		<name normalized="Lebusium" languages="Latin">Lebusium</name>
+		<name normalized="Liubuso vaivadija" languages="Lithuanian">Liubušo vaivadija</name>
+		<name normalized="Lubusi vajdasag" languages="Hungarian">Lubusi vajdaság</name>
+		<name normalized="Lubuskie" languages="English;official;Vietnamese">Lubuskie</name>
+		<name normalized="Lubuskie Province" languages="English;official">Lubuskie Province</name>
+		<name normalized="Lubuskie Wojewodztwo" languages="English;official">Lubuskie Wojewodztwo</name>
+		<name normalized="Lubusko vojvodstvo" languages="Bosnian;Croatian">Lubusko vojvodstvo</name>
+		<name normalized="Lubuske vojvodstvo" languages="Slovak">Lubuské vojvodstvo</name>
+		<name normalized="Lubusz" languages="English;Icelandic;official;Polish;Waray;Zeeuws">Lubusz</name>
+		<name normalized="Lubusz Province" languages="English;official">Lubusz Province</name>
+		<name normalized="Lubusz Voivodeship" languages="English">Lubusz Voivodeship</name>
+		<name normalized="Lubusz voivodskap" languages="Norwegian (bokmal)">Lubusz voivodskap</name>
+		<name normalized="Lubusz vojvodskap" languages="Swedish">Lubusz vojvodskap</name>
+		<name normalized="Lubusz Wojewodztwo" languages="English;official">Lubusz Wojewodztwo</name>
+		<name normalized="Lubusz-voivodskapet" languages="Norwegian Nynorsk">Lubusz-voivodskapet</name>
+		<name normalized="Lubuszeko voivoderria" languages="Basque">Lubuszeko voivoderria</name>
+		<name normalized="Lubuszi vojevoodkond" languages="Estonian">Lubuszi vojevoodkond</name>
+		<name normalized="Lubuszin voivodikunta" languages="Finnish">Lubuszin voivodikunta</name>
+		<name normalized="Lubusa Provinco" languages="Esperanto">Lubuŝa Provinco</name>
+		<name normalized="Lubusas vojevodiste" languages="Latvian">Lubušas vojevodiste</name>
+		<name normalized="Lubusko vojvodstvo" languages="Slovenian">Lubuško vojvodstvo</name>
+		<name normalized="Lubusske wojewodstwo" languages="Upper Sorbian">Lubušske wojewódstwo</name>
+		<name normalized="Lubusske vojvodstvi" languages="Czech">Lubušské vojvodství</name>
+		<name normalized="Lubuscze wojewodztwo" languages="Kashubian">Lubùsczé wòjewództwò</name>
+		<name normalized="Palatinatus Lubucensis" languages="Latin">Palatinatus Lubucensis</name>
+		<name normalized="Provinsi Lubusz" languages="Indonesian;Javanese">Provinsi Lubusz</name>
+		<name normalized="Queiggey Lubusz" languages="Manx">Queiggey Lubusz</name>
+		<name normalized="Voievodatul Lubusz" languages="Romanian">Voievodatul Lubusz</name>
+		<name normalized="Voivodat de Lubusz" languages="Catalan">Voivodat de Lubusz</name>
+		<name normalized="Voivodat di Lubuskia" languages="Papiamento">Voivodat di Lubuskia</name>
+		<name normalized="Voivodato de Lubusz" languages="Galician;Spanish">Voivodato de Lubusz</name>
+		<name normalized="Voivodato di Lubusz" languages="Italian">Voivodato di Lubusz</name>
+		<name normalized="Voivodia da Lubusquia" languages="Portuguese">Voivodia da Lubúsquia</name>
+		<name normalized="Voivodie de Lubusz" languages="French">Voïvodie de Lubusz</name>
+		<name normalized="Wilayah Lubusz" languages="Malay">Wilayah Lubusz</name>
+		<name normalized="Woiwodschaft Lebus" languages="German">Woiwodschaft Lebus</name>
+		<name normalized="Woiwodschap Lubusz" languages="Dutch">Woiwodschap Lubusz</name>
+		<name normalized="Wojewodztwo lubuskie" languages="Danish;Polish">Województwo lubuskie</name>
+		<name normalized="Vojvodсtvo лubusko" languages="Serbian">Војводство лубушко</name>
+		<name normalized="Лibuс" languages="Macedonian;Russian;Serbian">Лебус</name>
+		<name normalized="Люbuсkai vaivodztva" languages="biлaрuсkai (taрaskivita)‎">Любускае ваяводзтва</name>
+		<name normalized="Люbuсьki voevodсtvo" languages="Ukrainian">Любуське воєводство</name>
+		<name normalized="Люbusko voйvodсtvo" languages="Bulgarian">Любушко войводство</name>
+		<name normalized="Люbusсkai vaivodсtva" languages="Belarusian">Любушскае ваяводства</name>
+		<name normalized="Люbusсkoi voivodсtvo" languages="Russian">Любушское воеводство</name>
+		<name normalized="sوbہ لوbوس" languages="Western Punjabi">صوبہ لوبوس</name>
+		<name normalized="لbوس" languages="Persian">لبوس</name>
+		<name normalized="lubus्kा p्rांt" languages="Marathi">लुबुस्का प्रांत</name>
+		<name normalized="ლუბუშის სავოევოდო" languages="Georgian">ლუბუშის სავოევოდო</name>
+		<name normalized="rbsy県" languages="Japanese">ルブシュ県</name>
+		<name normalized="盧布斯卡省" languages="Chinese">盧布斯卡省</name>
+		<name normalized="莱布斯" languages="Chinese">莱布斯</name>
+		<name normalized="루부시 주" languages="Korean">루부시 주</name>
+	</region>
+	<region name="Malopolskie" type="province" typeTranslated="wojewodztwo">
+		<name normalized="Guruguti nga Polonya" languages="Waray">Guruguti nga Polonya</name>
+		<name normalized="Kis-Lengyelorszag" languages="Hungarian">Kis-Lengyelország</name>
+		<name normalized="Kis-lengyelorszagi vajdasag" languages="Hungarian">Kis-lengyelországi vajdaság</name>
+		<name normalized="Kicik Lehistan voyevodalıgı" languages="Crimean Turkish">Kiçik Lehistan voyevodalığı</name>
+		<name normalized="Klein-Polen" languages="Dutch">Klein-Polen</name>
+		<name normalized="Klein-Pool'n" languages="Zeeuws">Klein-Poôl'n</name>
+		<name normalized="Kleinpolen" languages="German">Kleinpolen</name>
+		<name normalized="Kucuk Polonya Voyvodalıgı" languages="Turkish">Küçük Polonya Voyvodalığı</name>
+		<name normalized="Lesser Poland" languages="English;official">Lesser Poland</name>
+		<name normalized="Lesser Poland Province" languages="English;official">Lesser Poland Province</name>
+		<name normalized="Lesser Poland Voivodeship" languages="English;Simple English">Lesser Poland Voivodeship</name>
+		<name normalized="Lesser Poland Wojewodztwo" languages="English;official">Lesser Poland Wojewodztwo</name>
+		<name normalized="Lille-Polen" languages="Norwegian (bokmal)">Lille-Polen</name>
+		<name normalized="Lillepolen" languages="Danish">Lillepolen</name>
+		<name normalized="Lillepolske voivodskap" languages="Norwegian (bokmal)">Lillepolske voivodskap</name>
+		<name normalized="Lillpolen" languages="Swedish">Lillpolen</name>
+		<name normalized="Lillpolens vojvodskap" languages="Swedish">Lillpolens vojvodskap</name>
+		<name normalized="Litla-Polland" languages="Icelandic">Litla-Pólland</name>
+		<name normalized="Malgrandpollanda Provinco" languages="Esperanto">Malgrandpollanda Provinco</name>
+		<name normalized="Malopoljska" languages="Croatian">Malopoljska</name>
+		<name normalized="Malopoljsko vojvodstvo" languages="Bosnian;Croatian">Malopoljsko vojvodstvo</name>
+		<name normalized="Malopolskie" languages="English;official">Malopolskie</name>
+		<name normalized="Malopolskie Province" languages="English;official">Malopolskie Province</name>
+		<name normalized="Malopolskie Wojewodztwo" languages="English;official">Malopolskie Wojewodztwo</name>
+		<name normalized="Malopolsko" languages="Czech">Malopolsko</name>
+		<name normalized="Malopolske vojvodstvi" languages="Czech">Malopolské vojvodství</name>
+		<name normalized="Malopolske vojvodstvo" languages="Slovak">Malopoľské vojvodstvo</name>
+		<name normalized="Mazpolija" languages="Latvian">Mazpolija</name>
+		<name normalized="Mazpolijas vojevodiste" languages="Latvian">Mazpolijas vojevodiste</name>
+		<name normalized="Malopolska" languages="Polish">Małopolska</name>
+		<name normalized="Malopolskie" languages="Vietnamese">Małopolskie</name>
+		<name normalized="Malopolsko" languages="Silesian">Małopolsko</name>
+		<name normalized="Malopolscze wojewodztwo" languages="Kashubian">Małopòlsczé wòjewództwò</name>
+		<name normalized="Malopolske wojewodstwo" languages="Upper Sorbian">Małopólske wojewódstwo</name>
+		<name normalized="Mazoji Lenkija" languages="Lithuanian">Mažoji Lenkija</name>
+		<name normalized="Mazosios Lenkijos vaivadija" languages="Lithuanian">Mažosios Lenkijos vaivadija</name>
+		<name normalized="Pequena Polonia" languages="Galician">Pequena Polonia</name>
+		<name normalized="Pequena Polonia" languages="Portuguese">Pequena Polônia</name>
+		<name normalized="Pequena Polonia" languages="Spanish">Pequeña Polonia</name>
+		<name normalized="Petita Polonha" languages="Occitan">Petita Polonha</name>
+		<name normalized="Petita Polonia" languages="Catalan">Petita Polònia</name>
+		<name normalized="Petite-Pologne" languages="French">Petite-Pologne</name>
+		<name normalized="Piccola Polonia" languages="Italian">Piccola Polonia</name>
+		<name normalized="Polonia Mica" languages="Romanian">Polonia Mică</name>
+		<name normalized="Polonia Txikia" languages="Basque">Polonia Txikia</name>
+		<name normalized="Polonia Txikiko voivoderria" languages="Basque">Polonia Txikiko voivoderria</name>
+		<name normalized="Provinsi Malopolskie" languages="Javanese">Provinsi Malopolskie</name>
+		<name normalized="Provinsi Polandia Kecil" languages="Indonesian">Provinsi Polandia Kecil</name>
+		<name normalized="Queiggey ny Polynn Beg" languages="Manx">Queiggey ny Polynn Beg</name>
+		<name normalized="Veslepolske voivodskap" languages="Norwegian Nynorsk">Veslepolske voivodskap</name>
+		<name normalized="Voievodatul Polonia Mica" languages="Romanian">Voievodatul Polonia Mică</name>
+		<name normalized="Voivodat de Petita Polonia" languages="Catalan">Voivodat de Petita Polònia</name>
+		<name normalized="Voivodat de Pichona Polonha" languages="Occitan">Voivodat de Pichona Polonha</name>
+		<name normalized="Voivodat di Klein Polonia" languages="Papiamento">Voivodat di Klein Polonia</name>
+		<name normalized="Voivodato de Pequena Polonia" languages="Spanish">Voivodato de Pequeña Polonia</name>
+		<name normalized="Voivodato della Piccola Polonia" languages="Italian">Voivodato della Piccola Polonia</name>
+		<name normalized="Voivodia da Pequena Polonia" languages="Portuguese">Voivodia da Pequena Polónia</name>
+		<name normalized="Voivodie de Petite-Pologne" languages="French">Voïvodie de Petite-Pologne</name>
+		<name normalized="Vaha-Puolan voivodikunta" languages="Finnish">Vähä-Puolan voivodikunta</name>
+		<name normalized="Vaike-Poola vojevoodkond" languages="Estonian">Väike-Poola vojevoodkond</name>
+		<name normalized="Wilayah Poland Kecil" languages="Malay">Wilayah Poland Kecil</name>
+		<name normalized="Woiwodschaft Kleinpolen" languages="German">Woiwodschaft Kleinpolen</name>
+		<name normalized="Woiwodschap Klein-Polen" languages="Dutch">Woiwodschap Klein-Polen</name>
+		<name normalized="Woiwodschop Luttpolen" languages="Low German">Woiwodschop Lüttpolen</name>
+		<name normalized="Woiwodskap Klein-Pole" languages="Afrikaans">Woiwodskap Klein-Pole</name>
+		<name normalized="Wojewodztwo malopolskie" languages="Danish;Polish">Województwo małopolskie</name>
+		<name normalized="Vojvodсtvo мaлopolсko" languages="Serbian">Војводство малопољско</name>
+		<name normalized="Мaлapoльсkai vaivodztva" languages="biлaрuсkai (taрaskivita)‎">Малапольскае ваяводзтва</name>
+		<name normalized="Мaлapoльсkai vaivodсtva" languages="Belarusian">Малапольскае ваяводства</name>
+		<name normalized="Мaлai Poльsa" languages="Russian">Малая Польша</name>
+		<name normalized="Мaлai Poльsca" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Малая Польшча</name>
+		<name normalized="Мaлopoлсko voйvodсtvo" languages="Bulgarian">Малополско войводство</name>
+		<name normalized="Мaлopoлsa" languages="Bulgarian">Малополша</name>
+		<name normalized="Мaлopoльсkoi voivodсtvo" languages="Russian">Малопольское воеводство</name>
+		<name normalized="Мaлopoльсьki voevodсtvo" languages="Ukrainian">Малопольське воєводство</name>
+		<name normalized="Мaлopoльщa" languages="Ukrainian">Малопольща</name>
+		<name normalized="Мaлopolсka" languages="Serbian">Малопољска</name>
+		<name normalized="pvדין qtן" languages="Hebrew">פולין קטן</name>
+		<name normalized="qדייnpvידישע vvאיעvvאדעשאpt" languages="Yiddish">קליינפוילישע וואיעוואדעשאפט</name>
+		<name normalized="אسtאن لhسtאن کوچک‌tr" languages="Persian">استان لهستان کوچک‌تر</name>
+		<name normalized="bولندא אلsغrى" languages="Arabic">بولندا الصغرى</name>
+		<name normalized="sوbہ نکא pولینڈ" languages="Western Punjabi">صوبہ نکا پولینڈ</name>
+		<name normalized="mhאfzة bولندא אلsغrى" languages="Arabic">محافظة بولندا الصغرى</name>
+		<name normalized="mाvopol्s्kा p्rांt" languages="Marathi">मावोपोल्स्का प्रांत</name>
+		<name normalized="მალოპოლსკის სავოევოდო" languages="Georgian">მალოპოლსკის სავოევოდო</name>
+		<name normalized="muoprsk県" languages="Japanese">マウォポルスカ県</name>
+		<name normalized="小波兰" languages="Chinese">小波兰</name>
+		<name normalized="小波兰省" languages="Chinese">小波兰省</name>
+		<name normalized="마워폴스카 주" languages="Korean">마워폴스카 주</name>
+		<name normalized="소폴란드" languages="Korean">소폴란드</name>
+	</region>
+	<region name="Mazowieckie" type="province" typeTranslated="wojewodztwo">
+		<name normalized="Masoovia vojevoodkond" languages="Estonian">Masoovia vojevoodkond</name>
+		<name normalized="Masovia" languages="English;Finnish;Norwegian (bokmal);official">Masovia</name>
+		<name normalized="Masovia Province" languages="English;official">Masovia Province</name>
+		<name normalized="Masovia Wojewodztwo" languages="English;official">Masovia Wojewodztwo</name>
+		<name normalized="Masovian Province" languages="English">Masovian Province</name>
+		<name normalized="Masovian Voivodeship" languages="English;Simple English">Masovian Voivodeship</name>
+		<name normalized="Masovian voivodikunta" languages="Finnish">Masovian voivodikunta</name>
+		<name normalized="Masovien" languages="Danish;Swedish">Masovien</name>
+		<name normalized="Masoviens vojvodskap" languages="Swedish">Masoviens vojvodskap</name>
+		<name normalized="Masoviske voivodskap" languages="Norwegian (bokmal);Norwegian Nynorsk">Masoviske voivodskap</name>
+		<name normalized="Masovya" languages="Waray">Masovya</name>
+		<name normalized="Masowien" languages="German">Masowien</name>
+		<name normalized="Masovia" languages="Catalan">Masòvia</name>
+		<name normalized="Masovia" languages="Icelandic">Masóvía</name>
+		<name normalized="Mazovia" languages="Basque;English;Romanian;Spanish">Mazovia</name>
+		<name normalized="Mazovia Provinco" languages="Esperanto">Mazovia Provinco</name>
+		<name normalized="Mazoviako voivoderria" languages="Basque">Mazoviako voivoderria</name>
+		<name normalized="Mazovie" languages="French">Mazovie</name>
+		<name normalized="Mazovija" languages="Latvian;Lithuanian">Mazovija</name>
+		<name normalized="Mazovijas vojevodiste" languages="Latvian">Mazovijas vojevodiste</name>
+		<name normalized="Mazovijos vaivadija" languages="Lithuanian">Mazovijos vaivadija</name>
+		<name normalized="Mazovio" languages="Esperanto">Mazovio</name>
+		<name normalized="Mazovie" languages="Zeeuws">Mazovië</name>
+		<name normalized="Mazovje" languages="Western Frisian">Mazovje</name>
+		<name normalized="Mazovjecko vojvodstvo" languages="Bosnian;Croatian">Mazovjecko vojvodstvo</name>
+		<name normalized="Mazovsko" languages="Czech">Mazovsko</name>
+		<name normalized="Mazovske vojvodstvo" languages="Slovak">Mazovské vojvodstvo</name>
+		<name normalized="Mazovske vojvodstvi" languages="Czech">Mazovské vojvodství</name>
+		<name normalized="Mazovya" languages="Turkish">Mazovya</name>
+		<name normalized="Mazovya Voyvodalıgı" languages="Turkish">Mazovya Voyvodalığı</name>
+		<name normalized="Mazowieccze wojewodztwo" languages="Kashubian">Mazowiecczé wòjewództwò</name>
+		<name normalized="Mazowieckie" languages="English;official;Vietnamese">Mazowieckie</name>
+		<name normalized="Mazowieckie Province" languages="English;official">Mazowieckie Province</name>
+		<name normalized="Mazowieckie Wojewodztwo" languages="English;official">Mazowieckie Wojewodztwo</name>
+		<name normalized="Mazowske wojewodstwo" languages="Upper Sorbian">Mazowske wojewódstwo</name>
+		<name normalized="Mazowsze" languages="Polish">Mazowsze</name>
+		<name normalized="Mazovia" languages="Hungarian;Portuguese">Mazóvia</name>
+		<name normalized="Mazoviai vajdasag" languages="Hungarian">Mazóviai vajdaság</name>
+		<name normalized="Provinsi Mazowia" languages="Javanese">Provinsi Mazowia</name>
+		<name normalized="Provinsi Mazowsze" languages="Indonesian">Provinsi Mazowsze</name>
+		<name normalized="Queiggey Mazowsze" languages="Manx">Queiggey Mazowsze</name>
+		<name normalized="Voievodatul Mazovia" languages="Romanian">Voievodatul Mazovia</name>
+		<name normalized="Voivodat de Masovia" languages="Catalan">Voivodat de Masòvia</name>
+		<name normalized="Voivodat de Mazovia" languages="Occitan">Voivodat de Mazòvia</name>
+		<name normalized="Voivodat di Mazovia" languages="Papiamento">Voivodat di Mazovia</name>
+		<name normalized="Voivodato de Mazovia" languages="Spanish">Voivodato de Mazovia</name>
+		<name normalized="Voivodato della Masovia" languages="Italian">Voivodato della Masovia</name>
+		<name normalized="Voivodia da Mazovia" languages="Portuguese">Voivodia da Mazóvia</name>
+		<name normalized="Voivodie de Mazovie" languages="French">Voïvodie de Mazovie</name>
+		<name normalized="Wilayah Masovian" languages="Malay">Wilayah Masovian</name>
+		<name normalized="Woiwodschaft Masowien" languages="German">Woiwodschaft Masowien</name>
+		<name normalized="Woiwodschap Mazovie" languages="Dutch">Woiwodschap Mazovië</name>
+		<name normalized="Woiwodskap Masowie" languages="Afrikaans">Woiwodskap Masowië</name>
+		<name normalized="Wojewodztwo mazowieckie" languages="Danish;Polish">Województwo mazowieckie</name>
+		<name normalized="Μασοβια" languages="Greek">Μασοβία</name>
+		<name normalized="Vojvodсtvo мazovсko" languages="Serbian">Војводство мазовско</name>
+		<name normalized="Мazavitkai vaivodztva" languages="biлaрuсkai (taрaskivita)‎">Мазавецкае ваяводзтва</name>
+		<name normalized="Мazavitkai vaivodсtva" languages="Belarusian">Мазавецкае ваяводства</name>
+		<name normalized="Мazovitkoi voivodсtvo" languages="Russian">Мазовецкое воеводство</name>
+		<name normalized="Мazovitьki voevodсtvo" languages="Ukrainian">Мазовецьке воєводство</name>
+		<name normalized="Мazovii" languages="Bulgarian;Russian">Мазовия</name>
+		<name normalized="Мazovija" languages="Macedonian">Мазовија</name>
+		<name normalized="Мazovсko voйvodсtvo" languages="Bulgarian">Мазовско войводство</name>
+		<name normalized="Мazovсko vojvodсtvo" languages="Macedonian">Мазовско војводство</name>
+		<name normalized="Мazovii" languages="Belarusian;Ukrainian">Мазовія</name>
+		<name normalized="Mաzvվեcի վvյեվvdvytյvyն" languages="Armenian">Մազովեցի վոյեվոդություն</name>
+		<name normalized="מאזאvvיעr vvאיעvvאדעשאpt" languages="Yiddish">מאזאוויער וואיעוואדעשאפט</name>
+		<name normalized="מזvbיh" languages="Hebrew">מזוביה</name>
+		<name normalized="sوbہ mאسووی" languages="Western Punjabi">صوبہ ماسووی</name>
+		<name normalized="mhאfzة mאزوfyא" languages="Arabic">محافظة مازوفيا</name>
+		<name normalized="mाjov्yet्s्kा p्rांt" languages="Marathi">माझोव्येत्स्का प्रांत</name>
+		<name normalized="მაზოვია" languages="Georgian">მაზოვია</name>
+		<name normalized="მაზოვიეცის სავოევოდო" languages="Georgian">მაზოვიეცის სავოევოდო</name>
+		<name normalized="mzhse県" languages="Japanese">マゾフシェ県</name>
+		<name normalized="馬佐夫舍省" languages="Chinese">馬佐夫舍省</name>
+		<name normalized="马佐夫舍" languages="Chinese">马佐夫舍</name>
+		<name normalized="마조프셰 주" languages="Korean">마조프셰 주</name>
+	</region>
+	<region name="Opolskie" type="province" typeTranslated="wojewodztwo">
+		<name normalized="Opola Provinco" languages="Esperanto">Opola Provinco</name>
+		<name normalized="Opole" languages="Icelandic;Waray;Zeeuws">Opole</name>
+		<name normalized="Opole Voivodeship" languages="English">Opole Voivodeship</name>
+		<name normalized="Opole voivodskap" languages="Norwegian (bokmal)">Opole voivodskap</name>
+		<name normalized="Opole vojevoodkond" languages="Estonian">Opole vojevoodkond</name>
+		<name normalized="Opole vojvodskap" languages="Swedish">Opole vojvodskap</name>
+		<name normalized="Opole Voyvodalıgı" languages="Turkish">Opole Voyvodalığı</name>
+		<name normalized="Opole-voivodskapet" languages="Norwegian Nynorsk">Opole-voivodskapet</name>
+		<name normalized="Opolei vajdasag" languages="Hungarian">Opolei vajdaság</name>
+		<name normalized="Opoleko voivoderria" languages="Basque">Opoleko voivoderria</name>
+		<name normalized="Opolen voivodikunta" languages="Finnish">Opolen voivodikunta</name>
+		<name normalized="Opoles vojevodiste" languages="Latvian">Opoles vojevodiste</name>
+		<name normalized="Opolskie" languages="English;official;Vietnamese">Opolskie</name>
+		<name normalized="Opolskie Province" languages="English;official">Opolskie Province</name>
+		<name normalized="Opolskie Wojewodztwo" languages="English;official">Opolskie Wojewodztwo</name>
+		<name normalized="Opolsko vojvodstvo" languages="Bosnian;Croatian">Opolsko vojvodstvo</name>
+		<name normalized="Opolske vojvodstvo" languages="Slovak">Opolské vojvodstvo</name>
+		<name normalized="Opolske vojvodstvi" languages="Czech">Opolské vojvodství</name>
+		<name normalized="Opoles vaivadija" languages="Lithuanian">Opolės vaivadija</name>
+		<name normalized="Provinsi Opole" languages="Indonesian;Javanese">Provinsi Opole</name>
+		<name normalized="Queiggey Opole" languages="Manx">Queiggey Opole</name>
+		<name normalized="Uopolske wojewudztwo" languages="Silesian">Uopolske wojewůdztwo</name>
+		<name normalized="Voievodatul Opole" languages="Romanian">Voievodatul Opole</name>
+		<name normalized="Voivodat d'Opole" languages="Catalan;Occitan">Voivodat d'Opole</name>
+		<name normalized="Voivodat di Opole" languages="Papiamento">Voivodat di Opole</name>
+		<name normalized="Voivodato de Opole" languages="Galician;Spanish">Voivodato de Opole</name>
+		<name normalized="Voivodato di Opole" languages="Italian">Voivodato di Opole</name>
+		<name normalized="Voivodia de Opole" languages="Portuguese">Voivodia de Opole</name>
+		<name normalized="Voivodie d'Opole" languages="French">Voïvodie d'Opole</name>
+		<name normalized="Wilayah Opole" languages="Malay">Wilayah Opole</name>
+		<name normalized="Woiwodschaft Opole" languages="German">Woiwodschaft Opole</name>
+		<name normalized="Woiwodschap Opole" languages="Dutch">Woiwodschap Opole</name>
+		<name normalized="Wojewodztwo opolskie" languages="Danish;Polish">Województwo opolskie</name>
+		<name normalized="Opolscze wojewodztwo" languages="Kashubian">Òpòlsczé wòjewództwò</name>
+		<name normalized="Apoльсkai vaivodztva" languages="biлaрuсkai (taрaskivita)‎">Апольскае ваяводзтва</name>
+		<name normalized="Apoльсkai vaivodсtva" languages="Belarusian">Апольскае ваяводства</name>
+		<name normalized="Vojvodсtvo opolсko" languages="Serbian">Војводство опољско</name>
+		<name normalized="Opoлсko voйvodсtvo" languages="Bulgarian">Ополско войводство</name>
+		<name normalized="Opoльсkoi voivodсtvo" languages="Russian">Опольское воеводство</name>
+		<name normalized="Opoльсьki voevodсtvo" languages="Ukrainian">Опольське воєводство</name>
+		<name normalized="אسtאن אوpولh" languages="Persian">استان اوپوله</name>
+		<name normalized="sوbہ אوpول" languages="Western Punjabi">صوبہ اوپول</name>
+		<name normalized="opol्s्kा p्rांt" languages="Marathi">ओपोल्स्का प्रांत</name>
+		<name normalized="ოპოლეს სავოევოდო" languages="Georgian">ოპოლეს სავოევოდო</name>
+		<name normalized="opーr県" languages="Japanese">オポーレ県</name>
+		<name normalized="奧波萊省" languages="Chinese">奧波萊省</name>
+		<name normalized="오폴레 주" languages="Korean">오폴레 주</name>
+	</region>
+	<region name="Podkarpackie" type="province" typeTranslated="wojewodztwo">
+		<name normalized="Ala-Karpatian voivodikunta" languages="Finnish">Ala-Karpatian voivodikunta</name>
+		<name normalized="Alt Karpatya Voyvodalıgı" languages="Turkish">Alt Karpatya Voyvodalığı</name>
+		<name normalized="Behe Karpatoetako voivoderria" languages="Basque">Behe Karpatoetako voivoderria</name>
+		<name normalized="Karpatenvorland" languages="German">Karpatenvorland</name>
+		<name normalized="Karpataljai vajdasag" languages="Hungarian">Kárpátaljai vajdaság</name>
+		<name normalized="Nedre Karpaternas vojvodskap" languages="Swedish">Nedre Karpaternas vojvodskap</name>
+		<name normalized="Nedri-Karpatia" languages="Icelandic">Neðri-Karpatía</name>
+		<name normalized="Pakarpates vaivadija" languages="Lithuanian">Pakarpatės vaivadija</name>
+		<name normalized="Piekarpatu vojevodiste" languages="Latvian">Piekarpatu vojevodiste</name>
+		<name normalized="Podkarpacie" languages="Polish;Waray">Podkarpacie</name>
+		<name normalized="Podkarpacie vojevoodkond" languages="Estonian">Podkarpacie vojevoodkond</name>
+		<name normalized="Podkarpackie" languages="English;official;Vietnamese">Podkarpackie</name>
+		<name normalized="Podkarpackie Province" languages="English;official">Podkarpackie Province</name>
+		<name normalized="Podkarpackie Voivodeship" languages="English">Podkarpackie Voivodeship</name>
+		<name normalized="Podkarpackie Wojewodztwo" languages="English;official">Podkarpackie Wojewodztwo</name>
+		<name normalized="Podkarpatske vojvodstvo" languages="Slovak">Podkarpatské vojvodstvo</name>
+		<name normalized="Podkarpatske vojvodstvi" languages="Czech">Podkarpatské vojvodství</name>
+		<name normalized="Potkarpatsko vojvodstvo" languages="Bosnian;Croatian">Potkarpatsko vojvodstvo</name>
+		<name normalized="Priekarpate" languages="Lithuanian">Priekarpatė</name>
+		<name normalized="Provinsi Podkarpacie" languages="Indonesian">Provinsi Podkarpacie</name>
+		<name normalized="Podkarpaccze wojewodztwo" languages="Kashubian">Pòdkarpacczé wòjewództwò</name>
+		<name normalized="Queiggey Podkarpacie" languages="Manx">Queiggey Podkarpacie</name>
+		<name normalized="Subcarpacia" languages="Spanish">Subcarpacia</name>
+		<name normalized="Subcarpathia" languages="English;official">Subcarpathia</name>
+		<name normalized="Subcarpathia Province" languages="English;official">Subcarpathia Province</name>
+		<name normalized="Subcarpathia Wojewodztwo" languages="English;official">Subcarpathia Wojewodztwo</name>
+		<name normalized="Subkarpaot'n" languages="Zeeuws">Subkarpaot'n</name>
+		<name normalized="Subkarpatiske voivodskap" languages="Norwegian (bokmal);Norwegian Nynorsk">Subkarpatiske voivodskap</name>
+		<name normalized="Vnekarpatske snizeniny" languages="Czech">Vněkarpatské sníženiny</name>
+		<name normalized="Voievodatul Subcarpatia" languages="Romanian">Voievodatul Subcarpatia</name>
+		<name normalized="Voivodat de Subcarpacia" languages="Catalan">Voivodat de Subcarpàcia</name>
+		<name normalized="Voivodat de Subcarpatia" languages="Occitan">Voivodat de Subcarpàtia</name>
+		<name normalized="Voivodat di Subcarpacia" languages="Papiamento">Voivodat di Subcarpacia</name>
+		<name normalized="Voivodato de Subcarpacia" languages="Spanish">Voivodato de Subcarpacia</name>
+		<name normalized="Voivodato della Precarpazia" languages="Italian">Voivodato della Precarpazia</name>
+		<name normalized="Voivodia da Subcarpacia" languages="Portuguese">Voivodia da Subcarpácia</name>
+		<name normalized="Voivodie des Basses-Carpates" languages="French">Voïvodie des Basses-Carpates</name>
+		<name normalized="Wilayah Podkarpacie" languages="Malay">Wilayah Podkarpacie</name>
+		<name normalized="Woiwodschaft Karpatenvorland" languages="German">Woiwodschaft Karpatenvorland</name>
+		<name normalized="Woiwodschap Subkarpaten" languages="Dutch">Woiwodschap Subkarpaten</name>
+		<name normalized="Woiwodschop Karpatenvorland" languages="Low German">Woiwodschop Karpatenvörland</name>
+		<name normalized="Woiwodskap Subkarpate" languages="Afrikaans">Woiwodskap Subkarpate</name>
+		<name normalized="Wojewodztwo podkarpackie" languages="Danish;Polish">Województwo podkarpackie</name>
+		<name normalized="Cekarpata Provinco" languages="Esperanto">Ĉekarpata Provinco</name>
+		<name normalized="Celna karpatska priehlbina" languages="Slovak">Čelná karpatská priehlbina</name>
+		<name normalized="Vojvodсtvo potkaрpatсko" languages="Serbian">Војводство поткарпатско</name>
+		<name normalized="Padkaрpatkai vaivodztva" languages="biлaрuсkai (taрaskivita)‎">Падкарпацкае ваяводзтва</name>
+		<name normalized="Padkaрpatkai vaivodсtva" languages="Belarusian">Падкарпацкае ваяводства</name>
+		<name normalized="Podkaрpatсko voйvodсtvo" languages="Bulgarian">Подкарпатско войводство</name>
+		<name normalized="Podkaрpatсkoi voivodсtvo" languages="Russian">Подкарпатское воеводство</name>
+		<name normalized="Pрikaрpatti" languages="Ukrainian">Прикарпаття</name>
+		<name normalized="Pрikaрpatьi" languages="Russian">Прикарпатье</name>
+		<name normalized="Pidkaрpatсьki voevodсtvo" languages="Ukrainian">Підкарпатське воєводство</name>
+		<name normalized="Pidkaрpatьсki voevodсtvo" languages="Rusyn">Підкарпатьске воєводство</name>
+		<name normalized="אvntעrqאrpאtישע vvאיעvvאדעשאpt" languages="Yiddish">אונטערקארפאטישע וואיעוואדעשאפט</name>
+		<name normalized="sوbہ tھلوאں کאrpیtھی" languages="Western Punjabi">صوبہ تھلواں کارپیتھی</name>
+		<name normalized="mhאfzة سوbkאrbאtyא" languages="Arabic">محافظة سوبكارباتيا</name>
+		<name normalized="poट्kr्pाट्s्kा p्rांt" languages="Marathi">पोट्कर्पाट्स्का प्रांत</name>
+		<name normalized="კარპატების სავოევოდო" languages="Georgian">კარპატების სავოევოდო</name>
+		<name normalized="ptkrpte県" languages="Japanese">ポトカルパチェ県</name>
+		<name normalized="喀尔巴阡山省" languages="Chinese">喀尔巴阡山省</name>
+		<name normalized="포드카르파츠키에 주" languages="Korean">포드카르파츠키에 주</name>
+	</region>
+	<region name="Podlaskie" type="province" typeTranslated="wojewodztwo">
+		<name normalized="Palenkes vaivadija" languages="Lithuanian">Palenkės vaivadija</name>
+		<name normalized="Podlaasia vojevoodkond" languages="Estonian">Podlaasia vojevoodkond</name>
+		<name normalized="Podlachie" languages="Zeeuws">Podlachië</name>
+		<name normalized="Podlases vojevodiste" languages="Latvian">Podlases vojevodiste</name>
+		<name normalized="Podlasiako voivoderria" languages="Basque">Podlasiako voivoderria</name>
+		<name normalized="Podlasian voivodikunta" languages="Finnish">Podlasian voivodikunta</name>
+		<name normalized="Podlasie voivodskap" languages="Norwegian (bokmal)">Podlasie voivodskap</name>
+		<name normalized="Podlasie-voivodskapet" languages="Norwegian Nynorsk">Podlasie-voivodskapet</name>
+		<name normalized="Podlasiei vajdasag" languages="Hungarian">Podlasiei vajdaság</name>
+		<name normalized="Podlasiens vojvodskap" languages="Swedish">Podlasiens vojvodskap</name>
+		<name normalized="Podlaskie" languages="English;official;Vietnamese;Waray">Podlaskie</name>
+		<name normalized="Podlaskie Province" languages="English;official">Podlaskie Province</name>
+		<name normalized="Podlaskie Voivodeship" languages="English">Podlaskie Voivodeship</name>
+		<name normalized="Podlaskie Wojewodztwo" languages="English;official">Podlaskie Wojewodztwo</name>
+		<name normalized="Podlasko vojvodstvo" languages="Bosnian;Croatian">Podlasko vojvodstvo</name>
+		<name normalized="Podlasia" languages="Icelandic">Podlasía</name>
+		<name normalized="Podlahia Provinco" languages="Esperanto">Podlaĥia Provinco</name>
+		<name normalized="Podlasko vojvodstvo" languages="Slovenian">Podlaško vojvodstvo</name>
+		<name normalized="Podleske vojvodstvo" languages="Slovak">Podleské vojvodstvo</name>
+		<name normalized="Podleske vojvodstvi" languages="Czech">Podleské vojvodství</name>
+		<name normalized="Provinsi Podlachia" languages="Javanese">Provinsi Podlachia</name>
+		<name normalized="Provinsi Podlasie" languages="Indonesian">Provinsi Podlasie</name>
+		<name normalized="Podlascze wojewodztwo" languages="Kashubian">Pòdlasczé wòjewództwò</name>
+		<name normalized="Queiggey Podlasie" languages="Manx">Queiggey Podlasie</name>
+		<name normalized="Voievodatul Podlasia" languages="Romanian">Voievodatul Podlasia</name>
+		<name normalized="Voivodat de Podlaquia" languages="Catalan;Occitan">Voivodat de Podlàquia</name>
+		<name normalized="Voivodat di Podlakia" languages="Papiamento">Voivodat di Podlakia</name>
+		<name normalized="Voivodato de Podlaquia" languages="Spanish">Voivodato de Podlaquia</name>
+		<name normalized="Voivodato della Podlachia" languages="Italian">Voivodato della Podlachia</name>
+		<name normalized="Voivodia da Podlaquia" languages="Portuguese">Voivodia da Podláquia</name>
+		<name normalized="Voivodie de Podlachie" languages="French">Voïvodie de Podlachie</name>
+		<name normalized="Wilayah Podlaskie" languages="Malay">Wilayah Podlaskie</name>
+		<name normalized="Woiwodschaft Podlachien" languages="German">Woiwodschaft Podlachien</name>
+		<name normalized="Woiwodschap Podlachie" languages="Dutch">Woiwodschap Podlachië</name>
+		<name normalized="Woiwodskap Podlachie" languages="Afrikaans">Woiwodskap Podlachië</name>
+		<name normalized="Wojewodztwo podlaskie" languages="Danish;Polish">Województwo podlaskie</name>
+		<name normalized="Vojvodсtvo podлaсko" languages="Serbian">Војводство подласко</name>
+		<name normalized="Padлiсkai vaivodztva" languages="biлaрuсkai (taрaskivita)‎">Падляскае ваяводзтва</name>
+		<name normalized="Padлiсkai vaivodсtva" languages="Belarusian">Падляскае ваяводства</name>
+		<name normalized="Podлiсko voйvodсtvo" languages="Bulgarian">Подляско войводство</name>
+		<name normalized="Podлiсkoi voivodсtvo" languages="Russian">Подляское воеводство</name>
+		<name normalized="Podлiсьi voivodaлыgы" languages="Tatar">Подлясье воеводалыгы</name>
+		<name normalized="Pidлiсьki voevodсtvo" languages="Ukrainian">Підляське воєводство</name>
+		<name normalized="sوbہ وڈא pولینڈ" languages="Western Punjabi">صوبہ وڈا پولینڈ</name>
+		<name normalized="mhאfzة bودلسky" languages="Arabic">محافظة بودلسكي</name>
+		<name normalized="poडाl्s्kा p्rांt" languages="Marathi">पोडाल्स्का प्रांत</name>
+		<name normalized="პოდლასის სავოევოდო" languages="Georgian">პოდლასის სავოევოდო</name>
+		<name normalized="pdrse県" languages="Japanese">ポドラシェ県</name>
+		<name normalized="波德拉謝省" languages="Chinese">波德拉謝省</name>
+		<name normalized="포들라스키에 주" languages="Korean">포들라스키에 주</name>
+	</region>
+	<region name="Pomorskie" type="province" typeTranslated="wojewodztwo">
+		<name normalized="Pamario vaivadija" languages="Lithuanian">Pamario vaivadija</name>
+		<name normalized="Pomerania" languages="Basque;Breton;English;Galician;Indonesian;Italian;Latin;Malay;official;Romanian;Simple English;Spanish">Pomerania</name>
+		<name normalized="Pomerania Province" languages="English;official">Pomerania Province</name>
+		<name normalized="Pomerania Wojewodztwo" languages="English;official">Pomerania Wojewodztwo</name>
+		<name normalized="Pomeraniako voivoderria" languages="Basque">Pomeraniako voivoderria</name>
+		<name normalized="Pomeranian Voivodeship" languages="English">Pomeranian Voivodeship</name>
+		<name normalized="Pomeranie Voivodship" languages="Scots">Pomeranie Voivodship</name>
+		<name normalized="Pomeranija" languages="Lithuanian;Serbo-Croatian">Pomeranija</name>
+		<name normalized="Pomeraniya voyevodalıgı" languages="Crimean Turkish">Pomeraniya voyevodalığı</name>
+		<name normalized="Pomeransko vojvodstvo" languages="Bosnian;Croatian">Pomeransko vojvodstvo</name>
+		<name normalized="Pomeranya" languages="Turkish;Waray">Pomeranya</name>
+		<name normalized="Pomeranya Voyvodalıgı" languages="Turkish">Pomeranya Voyvodalığı</name>
+		<name normalized="Pomeria Provinco" languages="Esperanto">Pomeria Provinco</name>
+		<name normalized="Pomerio" languages="Esperanto">Pomerio</name>
+		<name normalized="Pomerania" languages="Catalan;Occitan">Pomerània</name>
+		<name normalized="Pomerania" languages="Hungarian">Pomeránia</name>
+		<name normalized="Pomeraniai vajdasag" languages="Hungarian">Pomerániai vajdaság</name>
+		<name normalized="Pomerania" languages="Portuguese">Pomerânia</name>
+		<name normalized="Pomeranija" languages="Latvian">Pomerānija</name>
+		<name normalized="Pommer'n" languages="Zeeuws">Pommer'n</name>
+		<name normalized="Pommeren" languages="Dutch">Pommeren</name>
+		<name normalized="Pommeri" languages="Estonian;Finnish">Pommeri</name>
+		<name normalized="Pommerin voivodikunta" languages="Finnish">Pommerin voivodikunta</name>
+		<name normalized="Pommern" languages="Danish;German;Icelandic;Low German;Norwegian (bokmal);Norwegian Nynorsk;Swedish">Pommern</name>
+		<name normalized="Pommerns vojvodskap" languages="Swedish">Pommerns vojvodskap</name>
+		<name normalized="Pommerske voivodskap" languages="Norwegian (bokmal);Norwegian Nynorsk">Pommerske voivodskap</name>
+		<name normalized="Pomoranske vojvodstvo" languages="Slovak">Pomoranské vojvodstvo</name>
+		<name normalized="Pomorje" languages="Croatian">Pomorje</name>
+		<name normalized="Pomorske wojewodstwo" languages="Upper Sorbian">Pomorske wojewódstwo</name>
+		<name normalized="Pomorskie" languages="English;official;Vietnamese">Pomorskie</name>
+		<name normalized="Pomorskie Province" languages="English;official">Pomorskie Province</name>
+		<name normalized="Pomorskie Wojewodztwo" languages="English;official">Pomorskie Wojewodztwo</name>
+		<name normalized="Pomorze" languages="Polish">Pomorze</name>
+		<name normalized="Pomorze vojevoodkond" languages="Estonian">Pomorze vojevoodkond</name>
+		<name normalized="Pomoransko" languages="Czech">Pomořansko</name>
+		<name normalized="Pomorske vojvodstvi" languages="Czech">Pomořské vojvodství</name>
+		<name normalized="Pomozes vojevodiste" languages="Latvian">Pomožes vojevodiste</name>
+		<name normalized="Pomeranie" languages="French">Poméranie</name>
+		<name normalized="Provincia della Pomerania" languages="Italian">Provincia della Pomerania</name>
+		<name normalized="Provinsi Pomerania" languages="Indonesian;Javanese">Provinsi Pomerania</name>
+		<name normalized="Pomorscze wojewodztwo" languages="Kashubian">Pòmòrsczé wòjewództwò</name>
+		<name normalized="Pomorsko" languages="Kashubian">Pòmòrskô</name>
+		<name normalized="Queiggey Pomorze" languages="Manx">Queiggey Pomorze</name>
+		<name normalized="Voievodatul Pomerania" languages="Romanian">Voievodatul Pomerania</name>
+		<name normalized="Voivodat de Pomerania" languages="Catalan;Occitan">Voivodat de Pomerània</name>
+		<name normalized="Voivodat di Pomerania" languages="Papiamento">Voivodat di Pomerania</name>
+		<name normalized="Voivodato de Pomerania" languages="Spanish">Voivodato de Pomerania</name>
+		<name normalized="Voivodato della Pomerania" languages="Italian">Voivodato della Pomerania</name>
+		<name normalized="Voivodia da Pomerania" languages="Portuguese">Voivodia da Pomerânia</name>
+		<name normalized="Voivodie de Pomeranie" languages="French">Voïvodie de Poméranie</name>
+		<name normalized="Wilayah Pomerania" languages="Malay">Wilayah Pomerania</name>
+		<name normalized="Woiwodschaft Pommern" languages="German">Woiwodschaft Pommern</name>
+		<name normalized="Woiwodschap Pommeren" languages="Dutch">Woiwodschap Pommeren</name>
+		<name normalized="Woiwodschop Pommern" languages="Low German">Woiwodschop Pommern</name>
+		<name normalized="Woiwodskap Pommere" languages="Afrikaans">Woiwodskap Pommere</name>
+		<name normalized="Wojewodztwo pomorskie" languages="Danish;Polish">Województwo pomorskie</name>
+		<name normalized="Zapadne Pomoransko" languages="Slovak">Západné Pomoransko</name>
+		<name normalized="Πομερανια" languages="Greek">Πομερανία</name>
+		<name normalized="Vojvodсtvo poмoрсko" languages="Serbian">Војводство поморско</name>
+		<name normalized="Paмoрсkai vaivodztva" languages="biлaрuсkai (taрaskivita)‎">Паморскае ваяводзтва</name>
+		<name normalized="Paмoрсkai vaivodсtva" languages="Belarusian">Паморскае ваяводства</name>
+		<name normalized="Poмiрaнii" languages="Bulgarian;Russian">Померания</name>
+		<name normalized="Poмiрaнija" languages="Serbian">Померанија</name>
+		<name normalized="Poмiрaнii" languages="Ukrainian">Померанія</name>
+		<name normalized="Poмoрсko voйvodсtvo" languages="Bulgarian">Поморско войводство</name>
+		<name normalized="Poмoрсko vojvodсtvo" languages="Macedonian">Поморско војводство</name>
+		<name normalized="Poмoрсkoi voivodсtvo" languages="Russian">Поморское воеводство</name>
+		<name normalized="Poмoрсьki voevodсtvo" languages="Ukrainian">Поморське воєводство</name>
+		<name normalized="pvמrnיh" languages="Hebrew">פומרניה</name>
+		<name normalized="אسtאن pوmrאنی" languages="Persian">استان پومرانی</name>
+		<name normalized="bوmyrאنyא" languages="Arabic">بوميرانيا</name>
+		<name normalized="sوbہ pوmrینیא" languages="Western Punjabi">صوبہ پومرینیا</name>
+		<name normalized="mhאfzة bوmrسky" languages="Arabic">محافظة بومرسكي</name>
+		<name normalized="pوmrאنی" languages="Persian">پومرانی</name>
+		<name normalized="pomor्s्kा p्rांt" languages="Marathi">पोमोर्स्का प्रांत</name>
+		<name normalized="พอเมอเรเนีย" languages="Thai">พอเมอเรเนีย</name>
+		<name normalized="มณฑลปอมอร์สกีแย" languages="Thai">มณฑลปอมอร์สกีแย</name>
+		<name normalized="პომერანია" languages="Georgian">პომერანია</name>
+		<name normalized="პომერანიის სავოევოდო" languages="Georgian">პომერანიის სავოევოდო</name>
+		<name normalized="pmrna" languages="Japanese">ポメラニア</name>
+		<name normalized="pmーze県" languages="Japanese">ポモージェ県</name>
+		<name normalized="波美拉尼亞" languages="Chinese">波美拉尼亞</name>
+		<name normalized="濱海省" languages="Chinese">濱海省</name>
+		<name normalized="포메라니아" languages="Korean">포메라니아</name>
+		<name normalized="포모제 주" languages="Korean">포모제 주</name>
+	</region>
+	<region name="Slaskie" type="province" typeTranslated="wojewodztwo">
+		<name normalized="Province of Silesia" languages="English">Province of Silesia</name>
+		<name normalized="Provincia de Silesia" languages="Spanish">Provincia de Silesia</name>
+		<name normalized="Provincia della Slesia" languages="Italian">Provincia della Slesia</name>
+		<name normalized="Provinsen Schlesien" languages="Norwegian (bokmal);Swedish">Provinsen Schlesien</name>
+		<name normalized="Provinsi Silesia" languages="Indonesian;Javanese">Provinsi Silesia</name>
+		<name normalized="Provinz Schlesien" languages="German">Provinz Schlesien</name>
+		<name normalized="Prusia Silezio" languages="Esperanto">Prusia Silezio</name>
+		<name normalized="Pruske Slezsko" languages="Czech">Pruské Slezsko</name>
+		<name normalized="Queiggey ny Sileesh" languages="Manx">Queiggey ny Sileesh</name>
+		<name normalized="Schlesien" languages="Danish;German;Luxembourgish;Norwegian (bokmal);Norwegian Nynorsk;Swedish">Schlesien</name>
+		<name normalized="Schlesiens vojvodskap" languages="Swedish">Schlesiens vojvodskap</name>
+		<name normalized="Schlesiske voivodskap" languages="Norwegian (bokmal);Norwegian Nynorsk">Schlesiske voivodskap</name>
+		<name normalized="Sileesia" languages="Estonian">Sileesia</name>
+		<name normalized="Sileesia vojevoodkond" languages="Estonian">Sileesia vojevoodkond</name>
+		<name normalized="Sileezje" languages="Western Frisian">Sileezje</name>
+		<name normalized="Silesia" languages="Basque;English;Galician;Indonesian;Javanese;Latin;official;Simple English;Spanish;Vietnamese;Welsh">Silesia</name>
+		<name normalized="Silesia Province" languages="English;official">Silesia Province</name>
+		<name normalized="Silesia vaivodatus" languages="Latin">Silesia vaivodatus</name>
+		<name normalized="Silesia Wojewodztwo" languages="English;official">Silesia Wojewodztwo</name>
+		<name normalized="Silesiako voivoderria" languages="Basque">Silesiako voivoderria</name>
+		<name normalized="Silesian Voivodeship" languages="English;Simple English">Silesian Voivodeship</name>
+		<name normalized="Silesie" languages="Afrikaans">Silesië</name>
+		<name normalized="Silesya" languages="Tagalog;Waray">Silesya</name>
+		<name normalized="Silezia" languages="Breton;Romanian">Silezia</name>
+		<name normalized="Silezia Provinco" languages="Esperanto">Silezia Provinco</name>
+		<name normalized="Silezija" languages="Lithuanian">Silezija</name>
+		<name normalized="Silezijos vaivadija" languages="Lithuanian">Silezijos vaivadija</name>
+		<name normalized="Silezio" languages="Esperanto">Silezio</name>
+		<name normalized="Sileziya" languages="Azerbaijani">Sileziya</name>
+		<name normalized="Sileziya voyevodalıgı" languages="Crimean Turkish">Sileziya voyevodalığı</name>
+		<name normalized="Silezie" languages="Dutch;Zeeuws">Silezië</name>
+		<name normalized="Silezya" languages="Turkish">Silezya</name>
+		<name normalized="Silezya Voyvodalıgı" languages="Turkish">Silezya Voyvodalığı</name>
+		<name normalized="Silesia" languages="Catalan;Occitan">Silèsia</name>
+		<name normalized="Silesia prussiana" languages="Catalan">Silèsia prussiana</name>
+		<name normalized="Silesia" languages="Portuguese">Silésia</name>
+		<name normalized="Silesie" languages="French">Silésie</name>
+		<name normalized="Silezija" languages="Latvian">Silēzija</name>
+		<name normalized="Silezijas vojevodiste" languages="Latvian">Silēzijas vojevodiste</name>
+		<name normalized="Slaskie" languages="English;official">Slaskie</name>
+		<name normalized="Slaskie Province" languages="English;official">Slaskie Province</name>
+		<name normalized="Slaskie Wojewodztwo" languages="English;official">Slaskie Wojewodztwo</name>
+		<name normalized="Sleesia" languages="Finnish">Sleesia</name>
+		<name normalized="Sleesian provinssi" languages="Finnish">Sleesian provinssi</name>
+		<name normalized="Sleesian voivodikunta" languages="Finnish">Sleesian voivodikunta</name>
+		<name normalized="Slesia" languages="Italian">Slesia</name>
+		<name normalized="Slesia" languages="Icelandic">Slesía</name>
+		<name normalized="Slezsko" languages="Czech">Slezsko</name>
+		<name normalized="Slezske vojvodstvi" languages="Czech">Slezské vojvodství</name>
+		<name normalized="Sliezske vojvodstvo" languages="Slovak">Sliezske vojvodstvo</name>
+		<name normalized="Sliezsko" languages="Slovak">Sliezsko</name>
+		<name normalized="Szilezia" languages="Hungarian">Szilézia</name>
+		<name normalized="Szileziai vajdasag" languages="Hungarian">Sziléziai vajdaság</name>
+		<name normalized="Szlascze wojewodztwo" languages="Kashubian">Szląsczé wòjewództwò</name>
+		<name normalized="Voievodatul Silezia" languages="Romanian">Voievodatul Silezia</name>
+		<name normalized="Voivodat de Silesia" languages="Catalan">Voivodat de Silèsia</name>
+		<name normalized="Voivodat di Silesia" languages="Papiamento">Voivodat di Silesia</name>
+		<name normalized="Voivodato de Silesia" languages="Spanish">Voivodato de Silesia</name>
+		<name normalized="Voivodato della Slesia" languages="Italian">Voivodato della Slesia</name>
+		<name normalized="Voivodia da Silesia" languages="Portuguese">Voivodia da Silésia</name>
+		<name normalized="Voivodia da Silesia" languages="Galician">Voivodía da Silesia</name>
+		<name normalized="Voivodie de Silesie" languages="French">Voïvodie de Silésie</name>
+		<name normalized="Wilayah Silesia" languages="Malay">Wilayah Silesia</name>
+		<name normalized="Woiwodschaft Schlesien" languages="German">Woiwodschaft Schlesien</name>
+		<name normalized="Woiwodschap Silezie" languages="Dutch">Woiwodschap Silezië</name>
+		<name normalized="Wojewodztwo slaskie" languages="Danish;Polish">Województwo śląskie</name>
+		<name normalized="Slask" languages="Polish">Śląsk</name>
+		<name normalized="Slaskie" languages="Vietnamese">Śląskie</name>
+		<name normalized="Slunsk" languages="Silesian">Ślůnsk</name>
+		<name normalized="Slunske wojewudztwo" languages="Silesian">Ślůnske wojewůdztwo</name>
+		<name normalized="Slazynske wojewodstwo" languages="Lower Sorbian">Šlazyńske wójewódstwo</name>
+		<name normalized="Sleska" languages="Bosnian;Croatian;Serbo-Croatian;Upper Sorbian">Šleska</name>
+		<name normalized="Sleske wojewodstwo" languages="Upper Sorbian">Šleske wojewódstwo</name>
+		<name normalized="Slesko vojvodstvo" languages="Bosnian;Croatian">Šlesko vojvodstvo</name>
+		<name normalized="Slezija" languages="Slovenian">Šlezija</name>
+		<name normalized="Σιλεσια" languages="Greek">Σιλεσία</name>
+		<name normalized="Vojvodсtvo sлiсko" languages="Serbian">Војводство шлеско</name>
+		<name normalized="Pрoviнtii Сiлizii" languages="Russian">Провинция Силезия</name>
+		<name normalized="Сiлizi" languages="Ossetic">Силези</name>
+		<name normalized="Сiлizii" languages="Moksha">Силезие</name>
+		<name normalized="Сiлizii" languages="Bulgarian;Russian">Силезия</name>
+		<name normalized="Сiлiziiнь voivodsi" languages="Moksha">Силезиянь воеводши</name>
+		<name normalized="Сiлizko voйvodсtvo" languages="Bulgarian">Силезко войводство</name>
+		<name normalized="Сiлizсkoi voivodсtvo" languages="Russian">Силезское воеводство</name>
+		<name normalized="Сылiсkai vaivodztva" languages="biлaрuсkai (taрaskivita)‎">Сылескае ваяводзтва</name>
+		<name normalized="Сiлizсkai vaivodсtva" languages="Belarusian">Сілезскае ваяводства</name>
+		<name normalized="Сiлizьki voevodсtvo" languages="Ukrainian">Сілезьке воєводство</name>
+		<name normalized="Сiлizii" languages="Ukrainian">Сілезія</name>
+		<name normalized="Sлiсka" languages="Serbian">Шлеска</name>
+		<name normalized="שדזיh" languages="Hebrew">שלזיה</name>
+		<name normalized="שדעזיע" languages="Yiddish">שלעזיע</name>
+		<name normalized="سyلyزyא" languages="Arabic">سيليزيا</name>
+		<name normalized="سیلزی" languages="Mazanderani">سیلزی</name>
+		<name normalized="سیلیزیא" languages="Persian">سیلیزیا</name>
+		<name normalized="sوbہ سאئیلیشیא" languages="Western Punjabi">صوبہ سائیلیشیا</name>
+		<name normalized="s्loंs्kा p्rांt" languages="Marathi">श्लोंस्का प्रांत</name>
+		<name normalized="ไซลีเซีย" languages="Thai">ไซลีเซีย</name>
+		<name normalized="სილეზია" languages="Georgian">სილეზია</name>
+		<name normalized="სილეზიის სავოევოდო" languages="Georgian">სილეზიის სავოევოდო</name>
+		<name normalized="srza" languages="Japanese">シレジア</name>
+		<name normalized="srnsk県" languages="Japanese">シロンスク県</name>
+		<name normalized="西里西亚省" languages="Chinese">西里西亚省</name>
+		<name normalized="西里西亞" languages="Chinese">西里西亞</name>
+		<name normalized="실레시아" languages="Korean">실레시아</name>
+		<name normalized="실롱스크 주" languages="Korean">실롱스크 주</name>
+	</region>
+	<region name="Swietokrzyskie" type="province" typeTranslated="wojewodztwo">
+		<name normalized="Gurutze Santuko voivoderria" languages="Basque">Gurutze Santuko voivoderria</name>
+		<name normalized="Helligkorsvoivodskapet" languages="Norwegian (bokmal)">Helligkorsvoivodskapet</name>
+		<name normalized="Provinsi Swiety Krzyz" languages="Indonesian;Javanese">Provinsi Święty Krzyż</name>
+		<name normalized="Queiggey Swiety Krzyz" languages="Manx">Queiggey Święty Krzyż</name>
+		<name normalized="Sanktakruca Provinco" languages="Esperanto">Sanktakruca Provinco</name>
+		<name normalized="Svatokrizske vojvodstvi" languages="Czech">Svatokřížské vojvodství</name>
+		<name normalized="Sventoksıske voyevodalıgı" languages="Crimean Turkish">Sventokşıske voyevodalığı</name>
+		<name normalized="Sventoksiskas vojevodiste" languages="Latvian">Sventokšiskas vojevodiste</name>
+		<name normalized="Svetokrisko vojvodstvo" languages="Bosnian;Croatian">Svetokriško vojvodstvo</name>
+		<name normalized="Svatokrizske vojvodstvo" languages="Slovak">Svätokrížske vojvodstvo</name>
+		<name normalized="Swietokrzyskie" languages="English;official">Swietokrzyskie</name>
+		<name normalized="Swietokrzyskie Province" languages="English;official">Swietokrzyskie Province</name>
+		<name normalized="Swietokrzyskie Wojewodztwo" languages="English;official">Swietokrzyskie Wojewodztwo</name>
+		<name normalized="Swiatokrzescze wojewodztwo" languages="Kashubian">Swiãtokrzësczé wòjewództwò</name>
+		<name normalized="Swjatokrizske wojewodstwo" languages="Upper Sorbian">Swjatokřižske wojewódstwo</name>
+		<name normalized="Szentkereszt vajdasag" languages="Hungarian">Szentkereszt vajdaság</name>
+		<name normalized="Voievodatul Sfintei Cruci" languages="Romanian">Voievodatul Sfintei Cruci</name>
+		<name normalized="Voivodat de Santa Creu" languages="Catalan">Voivodat de Santa Creu</name>
+		<name normalized="Voivodat de Santa Crotz" languages="Occitan">Voivodat de Santa Crotz</name>
+		<name normalized="Voivodat di Santo Krus" languages="Papiamento">Voivodat di Santo Krus</name>
+		<name normalized="Voivodato de Santa Cruz" languages="Spanish">Voivodato de Santa Cruz</name>
+		<name normalized="Voivodato della Santacroce" languages="Italian">Voivodato della Santacroce</name>
+		<name normalized="Voivodia de Santa Cruz" languages="Portuguese">Voivodia de Santa Cruz</name>
+		<name normalized="Voivodie de Sainte-Croix" languages="French">Voïvodie de Sainte-Croix</name>
+		<name normalized="Wilayah Swietokrzyskie" languages="Malay">Wilayah Świętokrzyskie</name>
+		<name normalized="Woiwodschaft Heiligkreuz" languages="German">Woiwodschaft Heiligkreuz</name>
+		<name normalized="Woiwodschap Swiety Krzyz" languages="Dutch">Woiwodschap Święty Krzyż</name>
+		<name normalized="Woiwodschop Heiligkreuz" languages="Low German">Woiwodschop Heiligkreuz</name>
+		<name normalized="Wojewodztwo swietokrzyskie" languages="Danish;Polish">Województwo świętokrzyskie</name>
+		<name normalized="Swietokrzyskie" languages="Vietnamese;Waray">Świętokrzyskie</name>
+		<name normalized="Swietokrzyskie Voivodeship" languages="English;Simple English">Świętokrzyskie Voivodeship</name>
+		<name normalized="Swietokrzyskin voivodikunta" languages="Finnish">Świętokrzyskin voivodikunta</name>
+		<name normalized="Swiety Krzyz" languages="Icelandic;Zeeuws">Święty Krzyż</name>
+		<name normalized="Swiety Krzyz vojvodskap" languages="Swedish">Święty Krzyż vojvodskap</name>
+		<name normalized="Swiety Krzyz-voivodskapet" languages="Norwegian Nynorsk">Święty Krzyż-voivodskapet</name>
+		<name normalized="Swiety Krzyzi vojevoodkond" languages="Estonian">Święty Krzyżi vojevoodkond</name>
+		<name normalized="Svento Kryziaus vaivadija" languages="Lithuanian">Švento Kryžiaus vaivadija</name>
+		<name normalized="Vojvodсtvo сvitokрisko" languages="Serbian">Војводство светокришко</name>
+		<name normalized="Сviнtaksысkai vaivodсtva" languages="Belarusian">Свентакшыскае ваяводства</name>
+		<name normalized="Сviнtoksiсkoi voivodсtvo" languages="Russian">Свентокшиское воеводство</name>
+		<name normalized="Сviнtoksiсьki voevodсtvo" languages="Ukrainian">Свентокшиське воєводство</name>
+		<name normalized="Сьviнtaksысkai vaivodztva" languages="biлaрuсkai (taрaskivita)‎">Сьвентакшыскае ваяводзтва</name>
+		<name normalized="Sviнtoksiсko voйvodсtvo" languages="Bulgarian">Швентокшиско войводство</name>
+		<name normalized="sوbہ سویtو کאrیزیسکی" languages="Western Punjabi">صوبہ سویتو کاریزیسکی</name>
+		<name normalized="mhאfzة شfyنtوkشyسky" languages="Arabic">محافظة شفينتوكشيسكي</name>
+		<name normalized="s्veंtoksis्kा p्rांt" languages="Marathi">श्वेंतोकशिस्का प्रांत</name>
+		<name normalized="სვიეტოკშის სავოევოდო" languages="Georgian">სვიეტოკშის სავოევოდო</name>
+		<name normalized="shientikssy県" languages="Japanese">シフィェンティクシシュ県</name>
+		<name normalized="聖十字省" languages="Chinese">聖十字省</name>
+		<name normalized="시비엥토크시스키에 주" languages="Korean">시비엥토크시스키에 주</name>
+	</region>
+	<region name="Warminsko-Mazurskie" type="province" typeTranslated="wojewodztwo">
+		<name normalized="Ermelandskmasuriske voivodskap" languages="Norwegian Nynorsk">Ermelandskmasuriske voivodskap</name>
+		<name normalized="Ermland-Masuriens vojvodskap" languages="Swedish">Ermland-Masuriens vojvodskap</name>
+		<name normalized="Ermland-Masuria" languages="Icelandic">Ermland-Masúría</name>
+		<name normalized="Ermland-Mazurie" languages="Zeeuws">Ermland-Mazurië</name>
+		<name normalized="Ermlandskmasuriske voivodskap" languages="Norwegian (bokmal)">Ermlandskmasuriske voivodskap</name>
+		<name normalized="Provinsi Warmia-Mazuria" languages="Javanese">Provinsi Warmia-Mazuria</name>
+		<name normalized="Provinsi Warmia-Mazury" languages="Indonesian">Provinsi Warmia-Mazury</name>
+		<name normalized="Queiggey Warmia-Mazury" languages="Manx">Queiggey Warmia-Mazury</name>
+		<name normalized="Varmia e Masuria" languages="Galician">Varmia e Masuria</name>
+		<name normalized="Varmia-Mazuria Provinco" languages="Esperanto">Varmia-Mazuria Provinco</name>
+		<name normalized="Varmia-Mazuriako voivoderria" languages="Basque">Varmia-Mazuriako voivoderria</name>
+		<name normalized="Varmia-mazuriai vajdasag" languages="Hungarian">Varmia-mazúriai vajdaság</name>
+		<name normalized="Varmijas-Mazurijas vojevodiste" languages="Latvian">Varmijas-Mazūrijas vojevodiste</name>
+		<name normalized="Varmijos Mozuru vaivadija" languages="Lithuanian">Varmijos Mozūrų vaivadija</name>
+		<name normalized="Varmijsko-mazurske vojvodstvi" languages="Czech">Varmijsko-mazurské vojvodství</name>
+		<name normalized="Varminsko-mazursko vojvodstvo" languages="Bosnian;Croatian">Varminsko-mazursko vojvodstvo</name>
+		<name normalized="Varmsko-mazurske vojvodstvo" languages="Slovak">Varmsko-mazurské vojvodstvo</name>
+		<name normalized="Voievodatul Varmia si Mazuria" languages="Romanian">Voievodatul Varmia și Mazuria</name>
+		<name normalized="Voivodat de Varmia e Mazuria" languages="Occitan">Voivodat de Vàrmia e Mazúria</name>
+		<name normalized="Voivodat de Varmia i Masuria" languages="Catalan">Voivodat de Vàrmia i Masúria</name>
+		<name normalized="Voivodat di Varmia-Masuria" languages="Papiamento">Voivodat di Varmia-Masuria</name>
+		<name normalized="Voivodato de Varmia y Masuria" languages="Spanish">Voivodato de Varmia y Masuria</name>
+		<name normalized="Voivodato della Varmia-Masuria" languages="Italian">Voivodato della Varmia-Masuria</name>
+		<name normalized="Voivodia da Varmia-Masuria" languages="Portuguese">Voivodia da Vármia-Masúria</name>
+		<name normalized="Voivodie de Varmie-Mazurie" languages="French">Voïvodie de Varmie-Mazurie</name>
+		<name normalized="Warmia-Masuria" languages="English;official">Warmia-Masuria</name>
+		<name normalized="Warmia-Masuria Province" languages="English;official">Warmia-Masuria Province</name>
+		<name normalized="Warmia-Masuria Wojewodztwo" languages="English;official">Warmia-Masuria Wojewodztwo</name>
+		<name normalized="Warmia-Masurian voivodikunta" languages="Finnish">Warmia-Masurian voivodikunta</name>
+		<name normalized="Warmia-Masuuria vojevoodkond" languages="Estonian">Warmia-Masuuria vojevoodkond</name>
+		<name normalized="Warmian-Masurian Voivodeship" languages="English">Warmian-Masurian Voivodeship</name>
+		<name normalized="Warmie-Masurie Voivodeship" languages="Scots">Warmie-Masurie Voivodeship</name>
+		<name normalized="Warminsko-Mazurskie" languages="English;official">Warminsko-Mazurskie</name>
+		<name normalized="Warminsko-Mazurskie Province" languages="English;official">Warminsko-Mazurskie Province</name>
+		<name normalized="Warminsko-Mazurskie Wojewodztwo" languages="English;official">Warminsko-Mazurskie Wojewodztwo</name>
+		<name normalized="Warminsko-mazurscze wojewodztwo" languages="Kashubian">Warminskô-mazursczé wòjewództwò</name>
+		<name normalized="Warminsko-Mazurskie" languages="Vietnamese">Warmińsko-Mazurskie</name>
+		<name normalized="Warmya-Masurya" languages="Waray">Warmya-Masurya</name>
+		<name normalized="Wilayah Warmian-Masurian" languages="Malay">Wilayah Warmian-Masurian</name>
+		<name normalized="Woiwodschaft Ermland-Masuren" languages="German">Woiwodschaft Ermland-Masuren</name>
+		<name normalized="Woiwodschap Ermland-Mazurie" languages="Dutch">Woiwodschap Ermland-Mazurië</name>
+		<name normalized="Woiwodschop Ermland-Masuren" languages="Low German">Woiwodschop Ermland-Masuren</name>
+		<name normalized="Wojewodztwo warminsko-mazurskie" languages="Danish;Polish">Województwo warmińsko-mazurskie</name>
+		<name normalized="Vaрмiнсko-Мazuрсko voйvodсtvo" languages="Bulgarian">Варминско-Мазурско войводство</name>
+		<name normalized="Vaрмiнсko-Мazuрсkoi voivodсtvo" languages="Russian">Варминско-Мазурское воеводство</name>
+		<name normalized="Vaрмiнсka-Мazuрсkai vaivodztva" languages="biлaрuсkai (taрaskivita)‎">Вармінска-Мазурскае ваяводзтва</name>
+		<name normalized="Vaрмiнсka-Мazuрсkai vaivodсtva" languages="Belarusian">Вармінска-Мазурскае ваяводства</name>
+		<name normalized="Vaрмiнсьko-Мazuрсьki voevodсtvo" languages="Ukrainian">Вармінсько-Мазурське воєводство</name>
+		<name normalized="Vojvodсtvo vaрмiнсko-мazuрсko" languages="Serbian">Војводство варминско-мазурско</name>
+		<name normalized="אسtאن وאrmی-mאسوrی" languages="Persian">استان وارمی-ماسوری</name>
+		<name normalized="mhאfzة fאrmyنسkو-mאزوrسky" languages="Arabic">محافظة فارمينسكو-مازورسكي</name>
+		<name normalized="vाr्min्s्ko-mाjur्s्kा p्rांt" languages="Marathi">वार्मिन्स्को-माझुर्स्का प्रांत</name>
+		<name normalized="ვარმინო-მაზურის სავოევოდო" languages="Georgian">ვარმინო-მაზურის სავოევოდო</name>
+		<name normalized="varma=mzーri県" languages="Japanese">ヴァルミア＝マズールィ県</name>
+		<name normalized="瓦爾米亞-馬祖里省" languages="Chinese">瓦爾米亞-馬祖里省</name>
+		<name normalized="바르미아마주리 주" languages="Korean">바르미아마주리 주</name>
+	</region>
+	<region name="Wielkopolskie" type="province" typeTranslated="wojewodztwo">
+		<name normalized="Buyuk Lehistan voyevodalıgı" languages="Crimean Turkish">Büyük Lehistan voyevodalığı</name>
+		<name normalized="Buyuk Polonya Voyvodalıgı" languages="Turkish">Büyük Polonya Voyvodalığı</name>
+		<name normalized="Didzioji Lenkija" languages="Lithuanian">Didžioji Lenkija</name>
+		<name normalized="Didziosios Lenkijos provincija" languages="Lithuanian">Didžiosios Lenkijos provincija</name>
+		<name normalized="Didziosios Lenkijos vaivadija" languages="Lithuanian">Didžiosios Lenkijos vaivadija</name>
+		<name normalized="Durudako nga Polonya" languages="Waray">Durudako nga Polonya</name>
+		<name normalized="Gran Polonia" languages="Galician;Spanish">Gran Polonia</name>
+		<name normalized="Gran Polonia" languages="Catalan">Gran Polònia</name>
+		<name normalized="Grande Polonia" languages="Italian">Grande Polonia</name>
+		<name normalized="Grande Polonia" languages="Portuguese">Grande Polônia</name>
+		<name normalized="Grande-Pologne" languages="French">Grande-Pologne</name>
+		<name normalized="Grandpollanda Provinco" languages="Esperanto">Grandpollanda Provinco</name>
+		<name normalized="Greater Poland" languages="English;official">Greater Poland</name>
+		<name normalized="Greater Poland Province" languages="English;official">Greater Poland Province</name>
+		<name normalized="Greater Poland Voivodeship" languages="English;Simple English">Greater Poland Voivodeship</name>
+		<name normalized="Greater Poland Wojewodztwo" languages="English;official">Greater Poland Wojewodztwo</name>
+		<name normalized="Groot-Polen" languages="Dutch">Groot-Polen</name>
+		<name normalized="Großpolen" languages="German">Großpolen</name>
+		<name normalized="Hroot-Pool'n" languages="Zeeuws">Hroôt-Poôl'n</name>
+		<name normalized="Ison-Puolan voivodikunta" languages="Finnish">Ison-Puolan voivodikunta</name>
+		<name normalized="Lielpolija" languages="Latvian">Lielpolija</name>
+		<name normalized="Lielpolijas vojevodiste" languages="Latvian">Lielpolijas vojevodiste</name>
+		<name normalized="Nagy-Lengyelorszag" languages="Hungarian">Nagy-Lengyelország</name>
+		<name normalized="Nagy-lengyelorszagi vajdasag" languages="Hungarian">Nagy-lengyelországi vajdaság</name>
+		<name normalized="Polonia Handia" languages="Basque">Polonia Handia</name>
+		<name normalized="Polonia Handiko voivoderria" languages="Basque">Polonia Handiko voivoderria</name>
+		<name normalized="Polonia Mare" languages="Romanian">Polonia Mare</name>
+		<name normalized="Polonya Gırde" languages="Zazaki">Polonya Gırde</name>
+		<name normalized="Provinsi Polandia Besar" languages="Indonesian">Provinsi Polandia Besar</name>
+		<name normalized="Provinsi Wielkopolskie" languages="Javanese">Provinsi Wielkopolskie</name>
+		<name normalized="Queiggey ny Polynn Mooar" languages="Manx">Queiggey ny Polynn Mooar</name>
+		<name normalized="Stor-Polen" languages="Norwegian (bokmal);Norwegian Nynorsk">Stor-Polen</name>
+		<name normalized="Storpolen" languages="Swedish">Storpolen</name>
+		<name normalized="Storpolens vojvodskap" languages="Swedish">Storpolens vojvodskap</name>
+		<name normalized="Storpolske voivodskap" languages="Norwegian (bokmal);Norwegian Nynorsk">Storpolske voivodskap</name>
+		<name normalized="Stora-Polland" languages="Icelandic">Stóra-Pólland</name>
+		<name normalized="Suur-Poola vojevoodkond" languages="Estonian">Suur-Poola vojevoodkond</name>
+		<name normalized="Velikopoljska" languages="Croatian;Serbo-Croatian">Velikopoljska</name>
+		<name normalized="Velikopoljsko vojvodstvo" languages="Bosnian;Croatian">Velikopoljsko vojvodstvo</name>
+		<name normalized="Velkopolsko" languages="Czech">Velkopolsko</name>
+		<name normalized="Velkopolska provincie" languages="Czech">Velkopolská provincie</name>
+		<name normalized="Velkopolske vojvodstvi" languages="Czech">Velkopolské vojvodství</name>
+		<name normalized="Velkopolske vojvodstvo" languages="Slovak">Veľkopoľské vojvodstvo</name>
+		<name normalized="Voievodatul Polonia Mare" languages="Romanian">Voievodatul Polonia Mare</name>
+		<name normalized="Voivodat de Gran Polonia" languages="Catalan">Voivodat de Gran Polònia</name>
+		<name normalized="Voivodat de Grand Polonha" languages="Occitan">Voivodat de Grand Polonha</name>
+		<name normalized="Voivodat di Gran Polonia" languages="Papiamento">Voivodat di Gran Polonia</name>
+		<name normalized="Voivodato de Gran Polonia" languages="Spanish">Voivodato de Gran Polonia</name>
+		<name normalized="Voivodato della Grande Polonia" languages="Italian">Voivodato della Grande Polonia</name>
+		<name normalized="Voivodia da Grande Polonia" languages="Portuguese">Voivodia da Grande Polônia</name>
+		<name normalized="Voivodie de Grande-Pologne" languages="French">Voïvodie de Grande-Pologne</name>
+		<name normalized="Wielkopolska" languages="Polish">Wielkopolska</name>
+		<name normalized="Wielkopolskie" languages="English;official;Vietnamese">Wielkopolskie</name>
+		<name normalized="Wielkopolskie Province" languages="English;official">Wielkopolskie Province</name>
+		<name normalized="Wielkopolskie Wojewodztwo" languages="English;official">Wielkopolskie Wojewodztwo</name>
+		<name normalized="Wilayah Poland Raya" languages="Malay">Wilayah Poland Raya</name>
+		<name normalized="Wiolgopolscze Wojewodztwo" languages="Kashubian">Wiôlgòpòlsczé Wòjewództwò</name>
+		<name normalized="Wjelgopolsko" languages="Silesian">Wjelgopolsko</name>
+		<name normalized="Woiwodschaft Großpolen" languages="German">Woiwodschaft Großpolen</name>
+		<name normalized="Woiwodschap Groot-Polen" languages="Dutch">Woiwodschap Groot-Polen</name>
+		<name normalized="Woiwodschop Grootpolen" languages="Low German">Woiwodschop Grootpolen</name>
+		<name normalized="Woiwodskap Groot-Pole" languages="Afrikaans">Woiwodskap Groot-Pole</name>
+		<name normalized="Wojewodztwo wielkopolskie" languages="Danish;Polish">Województwo wielkopolskie</name>
+		<name normalized="Viлikai Poльsa" languages="Russian">Великая Польша</name>
+		<name normalized="Viлikopoлсko voйvodсtvo" languages="Bulgarian">Великополско войводство</name>
+		<name normalized="Viлikopoлsa" languages="Bulgarian">Великополша</name>
+		<name normalized="Viлikopoльсkoi voivodсtvo" languages="Russian">Великопольское воеводство</name>
+		<name normalized="Viлikopoльсьki voevodсtvo" languages="Ukrainian">Великопольське воєводство</name>
+		<name normalized="Viлikopoльщa" languages="Ukrainian">Великопольща</name>
+		<name normalized="Viлikopolсka" languages="Serbian">Великопољска</name>
+		<name normalized="Vojvodсtvo viлikopolсko" languages="Serbian">Војводство великопољско</name>
+		<name normalized="Viлikapoльсkai vaivodztva" languages="biлaрuсkai (taрaskivita)‎">Вялікапольскае ваяводзтва</name>
+		<name normalized="Viлikapoльсkai vaivodсtva" languages="Belarusian">Вялікапольскае ваяводства</name>
+		<name normalized="Viлikai Poльsca" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Вялікая Польшча</name>
+		<name normalized="גrvיסpvידישע vvאיעvvאדעשאpt" languages="Yiddish">גרויספוילישע וואיעוואדעשאפט</name>
+		<name normalized="pvדין גדvד" languages="Yiddish">פולין גדול</name>
+		<name normalized="bولندא אلkbrى" languages="Arabic">بولندا الكبرى</name>
+		<name normalized="v्yil्kopाl्s्kा p्rांt" languages="Marathi">व्यील्कोपाल्स्का प्रांत</name>
+		<name normalized="ველიკოპოლსკის სავოევოდო" languages="Georgian">ველიკოპოლსკის სავოევოდო</name>
+		<name normalized="vierkprsk県" languages="Japanese">ヴィエルコポルスカ県</name>
+		<name normalized="大波兰" languages="Chinese">大波兰</name>
+		<name normalized="大波兰省" languages="Chinese">大波兰省</name>
+		<name normalized="비엘코폴스카 주" languages="Korean">비엘코폴스카 주</name>
+	</region>
+	<region name="Zachodniopomorskie" type="province" typeTranslated="wojewodztwo">
+		<name normalized="Antaupomerio" languages="Esperanto">Antaŭpomerio</name>
+		<name normalized="Batı Pomeranya Voyvodalıgı" languages="Turkish">Batı Pomeranya Voyvodalığı</name>
+		<name normalized="Forpommern" languages="Danish">Forpommern</name>
+		<name normalized="Katundan Pomeranya" languages="Waray">Katundan Pomeranya</name>
+		<name normalized="Lansi-Pommerin voivodikunta" languages="Finnish">Länsi-Pommerin voivodikunta</name>
+		<name normalized="Laane-Pomorze vojevoodkond" languages="Estonian">Lääne-Pomorze vojevoodkond</name>
+		<name normalized="Mendebaldeko Pomeraniako voivoderria" languages="Basque">Mendebaldeko Pomeraniako voivoderria</name>
+		<name normalized="Nyugat-pomeraniai vajdasag" languages="Hungarian">Nyugat-pomerániai vajdaság</name>
+		<name normalized="Okcidentpomeria Provinco" languages="Esperanto">Okcidentpomeria Provinco</name>
+		<name normalized="Pomerania" languages="Basque;Breton;English;Galician;Indonesian;Italian;Latin;Malay;official;Romanian;Simple English;Spanish">Pomerania</name>
+		<name normalized="Pomerania Occidental" languages="Galician;Spanish">Pomerania Occidental</name>
+		<name normalized="Pomerania occidentale" languages="Italian">Pomerania occidentale</name>
+		<name normalized="Pomerania Occidentala" languages="Romanian">Pomerania Occidentală</name>
+		<name normalized="Pomerania Province" languages="English;official">Pomerania Province</name>
+		<name normalized="Pomerania Wojewodztwo" languages="English;official">Pomerania Wojewodztwo</name>
+		<name normalized="Pomeranija" languages="Lithuanian;Serbo-Croatian">Pomeranija</name>
+		<name normalized="Pomeranya" languages="Turkish;Waray">Pomeranya</name>
+		<name normalized="Pomerio" languages="Esperanto">Pomerio</name>
+		<name normalized="Pomerania" languages="Catalan;Occitan">Pomerània</name>
+		<name normalized="Pomerania Occidental" languages="Catalan">Pomerània Occidental</name>
+		<name normalized="Pomerania" languages="Hungarian">Pomeránia</name>
+		<name normalized="Pomerania" languages="Portuguese">Pomerânia</name>
+		<name normalized="Pomeranija" languages="Latvian">Pomerānija</name>
+		<name normalized="Pommeren" languages="Dutch">Pommeren</name>
+		<name normalized="Pommeri" languages="Estonian;Finnish">Pommeri</name>
+		<name normalized="Pommern" languages="Danish;German;Icelandic;Low German;Norwegian (bokmal);Norwegian Nynorsk;Swedish">Pommern</name>
+		<name normalized="Pomorje" languages="Croatian">Pomorje</name>
+		<name normalized="Pomorze" languages="Polish">Pomorze</name>
+		<name normalized="Pomorze Zachodnie" languages="Polish">Pomorze Zachodnie</name>
+		<name normalized="Pomoransko" languages="Czech">Pomořansko</name>
+		<name normalized="Pomeranie" languages="French">Poméranie</name>
+		<name normalized="Pomeranie occidentale" languages="French">Poméranie occidentale</name>
+		<name normalized="Provincia della Pomerania" languages="Italian">Provincia della Pomerania</name>
+		<name normalized="Provinsi Pomerania Barat" languages="Indonesian">Provinsi Pomerania Barat</name>
+		<name normalized="Pomorsko" languages="Kashubian">Pòmòrskô</name>
+		<name normalized="Psedpomorska" languages="Lower Sorbian">Pśedpomorska</name>
+		<name normalized="Queiggey Pomorze Heear" languages="Manx">Queiggey Pomorze Heear</name>
+		<name normalized="Rietumpomozes vojevodiste" languages="Latvian">Rietumpomožes vojevodiste</name>
+		<name normalized="Vakaru Pamario vaivadija" languages="Lithuanian">Vakarų Pamario vaivadija</name>
+		<name normalized="Vestpommerske voivodskap" languages="Norwegian (bokmal);Norwegian Nynorsk">Vestpommerske voivodskap</name>
+		<name normalized="Vestur-Pommern" languages="Icelandic">Vestur-Pommern</name>
+		<name normalized="Voievodatul Pomerania Occidentala" languages="Romanian">Voievodatul Pomerania Occidentală</name>
+		<name normalized="Voivodat de Pomerania Occidental" languages="Catalan">Voivodat de Pomerània Occidental</name>
+		<name normalized="Voivodat de Pomerania Occidentala" languages="Occitan">Voivodat de Pomerània Occidentala</name>
+		<name normalized="Voivodat di Pomerania Oksidental" languages="Papiamento">Voivodat di Pomerania Oksidental</name>
+		<name normalized="Voivodato de Pomerania Occidental" languages="Spanish">Voivodato de Pomerania Occidental</name>
+		<name normalized="Voivodato della Pomerania Occidentale" languages="Italian">Voivodato della Pomerania Occidentale</name>
+		<name normalized="Voivodia da Pomerania Ocidental" languages="Portuguese">Voivodia da Pomerânia Ocidental</name>
+		<name normalized="Voor-Pommeren" languages="Dutch">Voor-Pommeren</name>
+		<name normalized="Vorpommern" languages="German;Norwegian (bokmal);Swedish">Vorpommern</name>
+		<name normalized="Voivodie de Pomeranie occidentale" languages="French">Voïvodie de Poméranie occidentale</name>
+		<name normalized="Vastpommerns vojvodskap" languages="Swedish">Västpommerns vojvodskap</name>
+		<name normalized="West Pomerania" languages="English;official">West Pomerania</name>
+		<name normalized="West Pomerania Province" languages="English;official">West Pomerania Province</name>
+		<name normalized="West Pomerania Wojewodztwo" languages="English;official">West Pomerania Wojewodztwo</name>
+		<name normalized="West Pomeranian Voivodeship" languages="English">West Pomeranian Voivodeship</name>
+		<name normalized="West-Pommer'n" languages="Zeeuws">West-Pommer'n</name>
+		<name normalized="Western Pomerania" languages="English">Western Pomerania</name>
+		<name normalized="Wilayah Barat Pomerania" languages="Malay">Wilayah Barat Pomerania</name>
+		<name normalized="Woiwodschaft Westpommern" languages="German">Woiwodschaft Westpommern</name>
+		<name normalized="Woiwodschap West-Pommeren" languages="Dutch">Woiwodschap West-Pommeren</name>
+		<name normalized="Woiwodschop Westpommern" languages="Low German">Woiwodschop Westpommern</name>
+		<name normalized="Woiwodskap Wes-Pommere" languages="Afrikaans">Woiwodskap Wes-Pommere</name>
+		<name normalized="Wojewodztwo zachodniopomorskie" languages="Danish;Polish">Województwo zachodniopomorskie</name>
+		<name normalized="Zachodniopomorskie" languages="English;official;Vietnamese">Zachodniopomorskie</name>
+		<name normalized="Zachodniopomorskie Province" languages="English;official">Zachodniopomorskie Province</name>
+		<name normalized="Zachodniopomorskie Wojewodztwo" languages="English;official">Zachodniopomorskie Wojewodztwo</name>
+		<name normalized="Zachodnopumorske wojewudztwo" languages="Silesian">Zachodńopůmorske wojewůdztwo</name>
+		<name normalized="Zahodnopomorjansko vojvodstvo" languages="Slovenian">Zahodnopomorjansko vojvodstvo</name>
+		<name normalized="Zapadnopomeransko vojvodstvo" languages="Bosnian;Croatian">Zapadnopomeransko vojvodstvo</name>
+		<name normalized="Zapadne Pomoransko" languages="Slovak">Západné Pomoransko</name>
+		<name normalized="Zapadopomoranske vojvodstvo" languages="Slovak">Západopomoranské vojvodstvo</name>
+		<name normalized="Zapadopomoranske vojvodstvi" languages="Czech">Západopomořanské vojvodství</name>
+		<name normalized="Zopadnopomorscze wojewodztwo" languages="Kashubian">Zôpadnopòmòrsczé wòjewództwò</name>
+		<name normalized="Zopadno Pomorsko" languages="Kashubian">Zôpadnô Pòmòrskô</name>
+		<name normalized="Garbiy Pomeraniya voyevodalıgı" languages="Crimean Turkish">Ğarbiy Pomeraniya voyevodalığı</name>
+		<name normalized="Πομερανια" languages="Greek">Πομερανία</name>
+		<name normalized="Vojvodсtvo zapadнo-poмoрсko" languages="Serbian">Војводство западно-поморско</name>
+		<name normalized="Zapadнa Poмiрaнija" languages="Macedonian">Западна Померанија</name>
+		<name normalized="Zapadнai Poмiрaнii" languages="Russian">Западная Померания</name>
+		<name normalized="Zapadнo-Poмoрсkoi voivodсtvo" languages="Russian">Западно-Поморское воеводство</name>
+		<name normalized="Zapadнopoмoрсko voйvodсtvo" languages="Bulgarian">Западнопоморско войводство</name>
+		<name normalized="Zapadнopoмoрсko vojvodсtvo" languages="Macedonian">Западнопоморско војводство</name>
+		<name normalized="Zakodнipaмoрсkai vaivodztva" languages="biлaрuсkai (taрaskivita)‎">Заходнепаморскае ваяводзтва</name>
+		<name normalized="Zakodнipaмoрсkai vaivodсtva" languages="Belarusian">Заходнепаморскае ваяводства</name>
+		<name normalized="Zakidнa Poмiрaнii" languages="Ukrainian">Західна Померанія</name>
+		<name normalized="Zakidнopoмoрсьki voevodсtvo" languages="Ukrainian">Західнопоморське воєводство</name>
+		<name normalized="Poмiрaнii" languages="Bulgarian;Russian">Померания</name>
+		<name normalized="Poмiрaнija" languages="Serbian">Померанија</name>
+		<name normalized="Poмiрaнii" languages="Ukrainian">Померанія</name>
+		<name normalized="Sivaлgoмaнь Poмiрaнii voivodsi" languages="Moksha">Шивалгомань Померания воеводши</name>
+		<name normalized="pvמrnיh" languages="Hebrew">פומרניה</name>
+		<name normalized="אسtאن pوmrאنی غrbی" languages="Persian">استان پومرانی غربی</name>
+		<name normalized="bوmyrאنyא" languages="Arabic">بوميرانيا</name>
+		<name normalized="sوbہ لیندא pوmrینیא" languages="Western Punjabi">صوبہ لیندا پومرینیا</name>
+		<name normalized="pوmrאنی" languages="Persian">پومرانی</name>
+		<name normalized="jाkoj्nopomor्s्kा p्rांt" languages="Marathi">झाखोज्ञोपोमोर्स्का प्रांत</name>
+		<name normalized="พอเมอเรเนีย" languages="Thai">พอเมอเรเนีย</name>
+		<name normalized="დასავლეთ პომერანიის სავოევოდო" languages="Georgian">დასავლეთ პომერანიის სავოევოდო</name>
+		<name normalized="პომერანია" languages="Georgian">პომერანია</name>
+		<name normalized="pmrna" languages="Japanese">ポメラニア</name>
+		<name normalized="波美拉尼亞" languages="Chinese">波美拉尼亞</name>
+		<name normalized="西pmーze県" languages="Japanese">西ポモージェ県</name>
+		<name normalized="西波美拉尼亚省" languages="Chinese">西波美拉尼亚省</name>
+		<name normalized="西波美拉尼亞" languages="Chinese">西波美拉尼亞</name>
+		<name normalized="서포모제 주" languages="Korean">서포모제 주</name>
+		<name normalized="포메라니아" languages="Korean">포메라니아</name>
+	</region>
+</regions>

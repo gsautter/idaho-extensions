@@ -1,0 +1,203 @@
+<regions country="Costa Rica">
+	<region name="Alajuela" type="province" typeTranslated="provincia">
+		<name normalized="Alachuela" languages="Lithuanian">Alachuela</name>
+		<name normalized="Alachuelos provincija" languages="Lithuanian">Alachuelos provincija</name>
+		<name normalized="Alajuela" languages="Croatian;Czech;Danish;Dutch;English;Finnish;French;German;Italian;Nahuatl;Northern Sami;Norwegian (bokmal);Occitan;official;Polish;Portuguese;Quechua;Romanian;Serbo-Croatian;Simple English;Spanish;Swedish;Vietnamese;Volapuk;Waray;Welsh">Alajuela</name>
+		<name normalized="Alajuela Province" languages="English;official;Simple English">Alajuela Province</name>
+		<name normalized="Alajuela Provincia" languages="English;official">Alajuela Provincia</name>
+		<name normalized="Alajuela suyu" languages="Quechua">Alajuela suyu</name>
+		<name normalized="Provincia de Alajuela" languages="Spanish">Provincia de Alajuela</name>
+		<name normalized="Provincia di Alajuela" languages="Italian">Provincia di Alajuela</name>
+		<name normalized="Provinsi Alajuela" languages="Indonesian">Provinsi Alajuela</name>
+		<name normalized="Provinz Alajuela" languages="German">Provinz Alajuela</name>
+		<name normalized="Provincia d'Alajuela" languages="Catalan">Província d'Alajuela</name>
+		<name normalized="Αλαχουeλα" languages="Greek">Αλαχουέλα</name>
+		<name normalized="Επαρχια Αλαχουeλα" languages="Greek">Επαρχία Αλαχουέλα</name>
+		<name normalized="Aлakuiлa" languages="Bulgarian;Serbian">Алахуела</name>
+		<name normalized="Aлakueлa" languages="Russian">Алахуэла</name>
+		<name normalized="ألאخوyلא" languages="Arabic">ألاخويلا</name>
+		<name normalized="אسtאن آلאخوئلא" languages="Persian">استان آلاخوئلا</name>
+		<name normalized="אلأخوyلא" languages="Arabic">الأخويلا</name>
+		<name normalized="sوbہ אلאjولא" languages="Western Punjabi">صوبہ الاجولا</name>
+		<name normalized="ალახუელის პროვინცია" languages="Georgian">ალახუელის პროვინცია</name>
+		<name normalized="arher州" languages="Japanese">アラフエラ州</name>
+		<name normalized="阿拉胡埃拉" languages="Chinese">阿拉胡埃拉</name>
+		<name normalized="阿拉胡埃拉省" languages="Chinese">阿拉胡埃拉省</name>
+	</region>
+	<region name="Cartago" type="province" typeTranslated="provincia">
+		<name normalized="Cartago" languages="Catalan;Croatian;Czech;Dutch;English;Estonian;French;German;Italian;Nahuatl;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Quechua;Romanian;Serbo-Croatian;Spanish;Swedish;Vietnamese;Volapuk;Waray;Welsh">Cartago</name>
+		<name normalized="Cartago Province" languages="English;official">Cartago Province</name>
+		<name normalized="Cartago Provincia" languages="English;official">Cartago Provincia</name>
+		<name normalized="Cartago pruwinsya" languages="Quechua">Cartago pruwinsya</name>
+		<name normalized="Kartagas" languages="Lithuanian">Kartagas</name>
+		<name normalized="Kartago provincija" languages="Lithuanian">Kartago provincija</name>
+		<name normalized="Provincia de Cartago" languages="Spanish">Provincia de Cartago</name>
+		<name normalized="Provincia di Cartago" languages="Italian">Provincia di Cartago</name>
+		<name normalized="Provinsi Cartago" languages="Indonesian">Provinsi Cartago</name>
+		<name normalized="Provinz Cartago" languages="German">Provinz Cartago</name>
+		<name normalized="Provincia de Cartago" languages="Catalan">Província de Cartago</name>
+		<name normalized="Επαρχια Καρταγο" languages="Greek">Επαρχία Καρτάγο</name>
+		<name normalized="Καρταγο" languages="Greek">Καρτάγο</name>
+		<name normalized="Kaрtago" languages="Bulgarian;Russian;Serbian">Картаго</name>
+		<name normalized="אسtאن کאrtאgو" languages="Persian">استان کارتاگو</name>
+		<name normalized="sوbہ کrtאgو" languages="Western Punjabi">صوبہ کرتاگو</name>
+		<name normalized="kאrtאغو" languages="Arabic">كارتاغو</name>
+		<name normalized="کאrtאgو, کאسtאrیکא" languages="Persian">کارتاگو، کاستاریکا</name>
+		<name normalized="კარტაგოს პროვინცია" languages="Georgian">კარტაგოს პროვინცია</name>
+		<name normalized="krtg州" languages="Japanese">カルタゴ州</name>
+		<name normalized="卡塔戈" languages="Chinese">卡塔戈</name>
+		<name normalized="卡塔戈省" languages="Chinese">卡塔戈省</name>
+	</region>
+	<region name="Guanacaste" type="province" typeTranslated="provincia">
+		<name normalized="Cuauhnacaztli" languages="Nahuatl">Cuauhnacaztli</name>
+		<name normalized="Guanacaste" languages="Croatian;Czech;Dutch;English;Esperanto;French;German;Italian;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Serbo-Croatian;Swedish;Vietnamese;Waray">Guanacaste</name>
+		<name normalized="Guanacaste Province" languages="English;official;Simple English">Guanacaste Province</name>
+		<name normalized="Guanacaste Provincia" languages="English;official">Guanacaste Provincia</name>
+		<name normalized="Guanacaste pruwinsya" languages="Quechua">Guanacaste pruwinsya</name>
+		<name normalized="Guanacasten maakunta" languages="Finnish">Guanacasten maakunta</name>
+		<name normalized="Gvanakastes provincija" languages="Lithuanian">Gvanakastės provincija</name>
+		<name normalized="Provincia de Guanacaste" languages="Spanish">Provincia de Guanacaste</name>
+		<name normalized="Provincia di Guanacaste" languages="Italian">Provincia di Guanacaste</name>
+		<name normalized="Provinsi Guanacaste" languages="Indonesian">Provinsi Guanacaste</name>
+		<name normalized="Provinz Guanacaste" languages="German">Provinz Guanacaste</name>
+		<name normalized="Provincia de Guanacaste" languages="Catalan">Província de Guanacaste</name>
+		<name normalized="Επαρχια Γκουανακαστε" languages="Greek">Επαρχία Γκουανακάστε</name>
+		<name normalized="Gvaнakaсti" languages="Serbian">Гванакасте</name>
+		<name normalized="Guaнakaсti" languages="Bulgarian;Russian">Гуанакасте</name>
+		<name normalized="Ґuaнakaсti" languages="Ukrainian">Ґуанакасте</name>
+		<name normalized="אسtאن gوאنאکאسth" languages="Persian">استان گواناکاسته</name>
+		<name normalized="sوbہ gونאکאسٹ" languages="Western Punjabi">صوبہ گوناکاسٹ</name>
+		<name normalized="غوאنאkאسth" languages="Arabic">غواناكاسته</name>
+		<name normalized="გუანაკასტეს პროვინცია" languages="Georgian">გუანაკასტეს პროვინცია</name>
+		<name normalized="gankst州" languages="Japanese">グアナカステ州</name>
+		<name normalized="瓜纳卡斯特省" languages="Chinese">瓜纳卡斯特省</name>
+	</region>
+	<region name="Heredia" type="province" typeTranslated="provincia">
+		<name normalized="Heredia" languages="Croatian;Czech;Dutch;English;Finnish;French;German;Italian;Nahuatl;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Quechua;Romanian;Serbo-Croatian;Spanish;Swedish;Vietnamese;Waray">Heredia</name>
+		<name normalized="Heredia Province" languages="English;official">Heredia Province</name>
+		<name normalized="Heredia Provincia" languages="English;official">Heredia Provincia</name>
+		<name normalized="Heredia pruwinsya" languages="Quechua">Heredia pruwinsya</name>
+		<name normalized="Heredija" languages="Lithuanian">Heredija</name>
+		<name normalized="Heredijos provincija" languages="Lithuanian">Heredijos provincija</name>
+		<name normalized="Provincia de Heredia" languages="Spanish">Provincia de Heredia</name>
+		<name normalized="Provincia di Heredia" languages="Italian">Provincia di Heredia</name>
+		<name normalized="Provincia Heredia" languages="Romanian">Provincia Heredia</name>
+		<name normalized="Provinsi Heredia" languages="Indonesian">Provinsi Heredia</name>
+		<name normalized="Provinz Heredia" languages="German">Provinz Heredia</name>
+		<name normalized="Provincia d'Heredia" languages="Catalan">Província d'Heredia</name>
+		<name normalized="San Francisco de Heredia" languages="Waray">San Francisco de Heredia</name>
+		<name normalized="Επαρχια Ερeδια" languages="Greek">Επαρχία Ερέδια</name>
+		<name normalized="Ερeδια" languages="Greek">Ερέδια</name>
+		<name normalized="Iрidii" languages="Bulgarian">Ередия</name>
+		<name normalized="Iрidija" languages="Serbian">Ередија</name>
+		<name normalized="Eрidii" languages="Russian">Эредия</name>
+		<name normalized="إyryذyא" languages="Arabic">إيريذيا</name>
+		<name normalized="אسtאن אrدیא" languages="Persian">استان اردیا</name>
+		<name normalized="ერედიის პროვინცია" languages="Georgian">ერედიის პროვინცია</name>
+		<name normalized="erdia州" languages="Japanese">エレディア州</name>
+		<name normalized="埃雷迪亚省" languages="Chinese">埃雷迪亚省</name>
+		<name normalized="埃雷迪亞" languages="Chinese">埃雷迪亞</name>
+	</region>
+	<region name="Limon" type="province" typeTranslated="provincia">
+		<name normalized="Limon" languages="English;official">Limon</name>
+		<name normalized="Limon Province" languages="English;official">Limon Province</name>
+		<name normalized="Limon Provincia" languages="English;official">Limon Provincia</name>
+		<name normalized="Limonas" languages="Lithuanian">Limonas</name>
+		<name normalized="Limono provincija" languages="Lithuanian">Limono provincija</name>
+		<name normalized="Limon" languages="Croatian;Czech;Dutch;English;French;Italian;Nahuatl;Northern Sami;Norwegian (bokmal);Polish;Portuguese;Quechua;Romanian;Serbo-Croatian;Simple English;Spanish;Swedish;Vietnamese;Waray">Limón</name>
+		<name normalized="Limon Province" languages="English;Simple English">Limón Province</name>
+		<name normalized="Limon pruwinsya" languages="Quechua">Limón pruwinsya</name>
+		<name normalized="Provincia de Limon" languages="Spanish">Provincia de Limón</name>
+		<name normalized="Provincia di Limon" languages="Italian">Provincia di Limón</name>
+		<name normalized="Provinsi Limon" languages="Indonesian">Provinsi Limón</name>
+		<name normalized="Provinz Limon" languages="German">Provinz Limón</name>
+		<name normalized="Provincia de Limon" languages="Catalan">Província de Limón</name>
+		<name normalized="Puerto Limon" languages="Afrikaans;Catalan;Danish;Dutch;French;German;Portuguese;Swedish;Waray">Puerto Limón</name>
+		<name normalized="Επαρχια Λιμον" languages="Greek">Επαρχία Λιμόν</name>
+		<name normalized="Πουeρτο Λιμον" languages="Greek">Πουέρτο Λιμόν</name>
+		<name normalized="Лiмoн" languages="Bulgarian;Russian;Serbian">Лимон</name>
+		<name normalized="אسtאن لیmون" languages="Persian">استان لیمون</name>
+		<name normalized="لymون" languages="Arabic">ليمون</name>
+		<name normalized="ლიმონის პროვინცია" languages="Georgian">ლიმონის პროვინცია</name>
+		<name normalized="rmn" languages="Japanese">リモン</name>
+		<name normalized="rmn州" languages="Japanese">リモン州</name>
+		<name normalized="利蒙" languages="Chinese">利蒙</name>
+		<name normalized="利蒙省" languages="Chinese">利蒙省</name>
+		<name normalized="리몬" languages="Korean">리몬</name>
+	</region>
+	<region name="Puntarenas" type="province" typeTranslated="provincia">
+		<name normalized="Provincia de Puntarenas" languages="Spanish">Provincia de Puntarenas</name>
+		<name normalized="Provincia di Puntarenas" languages="Italian">Provincia di Puntarenas</name>
+		<name normalized="Provinsi Puntarenas" languages="Indonesian">Provinsi Puntarenas</name>
+		<name normalized="Provinz Puntarenas" languages="German">Provinz Puntarenas</name>
+		<name normalized="Provincia de Puntarenas" languages="Catalan">Província de Puntarenas</name>
+		<name normalized="Puntarenas" languages="Croatian;Czech;Danish;Dutch;English;Esperanto;French;German;Indonesian;Italian;Nahuatl;Northern Sami;Norwegian (bokmal);official;Polish;Portuguese;Quechua;Romanian;Serbo-Croatian;Spanish;Swedish;Vietnamese;Waray;Welsh">Puntarenas</name>
+		<name normalized="Puntarenas Province" languages="English;official">Puntarenas Province</name>
+		<name normalized="Puntarenas Provincia" languages="English;official">Puntarenas Provincia</name>
+		<name normalized="Puntarenas pruwinsya" languages="Quechua">Puntarenas pruwinsya</name>
+		<name normalized="Puntarenasas" languages="Lithuanian">Puntarenasas</name>
+		<name normalized="Puntarenaso provincija" languages="Lithuanian">Puntarenaso provincija</name>
+		<name normalized="Επαρχια Πουνταρeνας" languages="Greek">Επαρχία Πουνταρένας</name>
+		<name normalized="Πουνταρeνας" languages="Greek">Πουνταρένας</name>
+		<name normalized="Puнtaрiнaс" languages="Bulgarian;Russian;Serbian;Ukrainian">Пунтаренас</name>
+		<name normalized="אسtאن pونtאrنאس" languages="Persian">استان پونتارناس</name>
+		<name normalized="bونtאryنאس" languages="Arabic">بونتاريناس</name>
+		<name normalized="პუნტარენასის პროვინცია" languages="Georgian">პუნტარენასის პროვინცია</name>
+		<name normalized="pntrns" languages="Japanese">プンタレナス</name>
+		<name normalized="pntrns州" languages="Japanese">プンタレナス州</name>
+		<name normalized="蓬塔雷納斯" languages="Chinese">蓬塔雷納斯</name>
+		<name normalized="蓬塔雷纳斯省" languages="Chinese">蓬塔雷纳斯省</name>
+	</region>
+	<region name="San Jose" type="province" typeTranslated="provincia">
+		<name normalized="Provincia de San Jose" languages="Spanish">Provincia de San José</name>
+		<name normalized="Provincia di San Jose" languages="Italian">Provincia di San José</name>
+		<name normalized="Provinsi San Jose" languages="Indonesian">Provinsi San José</name>
+		<name normalized="Provinz San Jose" languages="German">Provinz San José</name>
+		<name normalized="Provincia de San Jose" languages="Catalan">Província de San José</name>
+		<name normalized="San Chose" languages="Lithuanian">San Chosė</name>
+		<name normalized="San Chose provincija" languages="Lithuanian">San Chosė provincija</name>
+		<name normalized="San Jose" languages="Bosnian;English;Ido;official;Papiamento;Swahili">San Jose</name>
+		<name normalized="San Jose Province" languages="English;official">San Jose Province</name>
+		<name normalized="San Jose Provincia" languages="English;official">San Jose Provincia</name>
+		<name normalized="San Jose" languages="Achinese;Afrikaans;Aragonese;Basque;Breton;Catalan;Cebuano;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;German;Icelandic;Iloko;Indonesian;Interlingue;Irish;Italian;Ligure;lumbaart;Malagasy;Malay;Nahuatl;Northern Sami;Norwegian (bokmal);Novial;Occitan;Piedmontese;Polish;Portuguese;Quechua;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Simple English;Slovak;Slovenian;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Volapuk;Waray;Welsh;Western Frisian;Yoruba">San José</name>
+		<name normalized="San Jose de Costa Rica" languages="Hungarian">San José de Costa Rica</name>
+		<name normalized="San Jose i Costa Rica" languages="Norwegian Nynorsk">San José i Costa Rica</name>
+		<name normalized="San Jose Province" languages="English;Simple English">San José Province</name>
+		<name normalized="San Jose pruwinsya" languages="Quechua">San José pruwinsya</name>
+		<name normalized="San Joze" languages="Haitian">San Jozé</name>
+		<name normalized="San Jusiy" languages="Aymara">San Jusiy</name>
+		<name normalized="San Xose" languages="Galician">San Xosé</name>
+		<name normalized="San-Joseo" languages="Esperanto">San-Joseo</name>
+		<name normalized="San-Xose" languages="Azerbaijani">San-Xose</name>
+		<name normalized="Sanhose" languages="Latvian">Sanhosē</name>
+		<name normalized="Επαρχια Σαν Χοσe" languages="Greek">Επαρχία Σαν Χοσέ</name>
+		<name normalized="Σαν Χοσe" languages="Greek">Σαν Χοσέ</name>
+		<name normalized="Goрad Сaн-Kaсe" languages="Belarusian">Горад Сан-Хасэ</name>
+		<name normalized="Сaн Kozi" languages="Macedonian">Сан Хозе</name>
+		<name normalized="Сaн Koсi" languages="Bulgarian;Sakha;Serbian">Сан Хосе</name>
+		<name normalized="Сaн-Kaсe" languages="biлaрuсkai (taрaskivita)‎">Сан-Хасэ</name>
+		<name normalized="Сaн-Koсi" languages="Chechen;Ossetic;Russian;Ukrainian">Сан-Хосе</name>
+		<name normalized="Sան Xvsե" languages="Armenian">Սան Խոսե</name>
+		<name normalized="סן hvסh" languages="Hebrew">סן חוסה</name>
+		<name normalized="אسtאن سن خوزh" languages="Persian">استان سن خوزه</name>
+		<name normalized="سאن خوزh" languages="Persian">سان خوزه</name>
+		<name normalized="سאن خوسyh, kوسtאrykא" languages="Arabic">سان خوسيه، كوستاريكا</name>
+		<name normalized="سאن خوسې" languages="Uyghur">سان خوسې</name>
+		<name normalized="سאن ہوزے" languages="Urdu">سان ہوزے</name>
+		<name normalized="sाn hoj़e" languages="Hindi">सान होज़े</name>
+		<name normalized="sाn hoje" languages="Marathi">सान होजे</name>
+		<name normalized="s্yাn hose" languages="Bengali">স্যান হোসে</name>
+		<name normalized="sਾn hੋsੇ" languages="Punjabi">ਸਾਨ ਹੋਸੇ</name>
+		<name normalized="சான் ஹொசே" languages="Tamil">சான் ஹொசே</name>
+		<name normalized="ซันโฮเซ" languages="Thai">ซันโฮเซ</name>
+		<name normalized="སན་ཇོ་སེ།" languages="Tibetan">སན་ཇོ་སེ།</name>
+		<name normalized="სან-ხოსე" languages="Georgian">სან-ხოსე</name>
+		<name normalized="სან-ხოსეს პროვინცია" languages="Georgian">სან-ხოსეს პროვინცია</name>
+		<name normalized="ሳን ሆዜ" languages="Amharic">ሳን ሆዜ</name>
+		<name normalized="snhs" languages="Japanese">サンホセ</name>
+		<name normalized="snhs州" languages="Japanese">サンホセ州</name>
+		<name normalized="圣何塞省" languages="Chinese">圣何塞省</name>
+		<name normalized="聖荷西" languages="Chinese">聖荷西</name>
+		<name normalized="산호세" languages="Korean">산호세</name>
+	</region>
+</regions>

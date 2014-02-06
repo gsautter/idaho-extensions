@@ -1,0 +1,967 @@
+<regions country="Finland">
+	<region name="Ahvenanmaa" type="region" typeTranslated="landskapet">
+		<name normalized="Aaland" languages="Maori">Aaland</name>
+		<name normalized="Ahunamaa" languages="Voro">Ahunamaa</name>
+		<name normalized="Ahvenamaa" languages="Estonian">Ahvenamaa</name>
+		<name normalized="Ahvenanma" languages="Veps">Ahvenanma</name>
+		<name normalized="Ahvenanmaa" languages="English;official">Ahvenanmaa</name>
+		<name normalized="Ahvenanmaa Landskapet" languages="English;official">Ahvenanmaa Landskapet</name>
+		<name normalized="Ahvenanmaa Region" languages="English;official">Ahvenanmaa Region</name>
+		<name normalized="Ahvenanmaan maakunta" languages="Finnish">Ahvenanmaan maakunta</name>
+		<name normalized="Aland adaları" languages="Azerbaijani">Aland adaları</name>
+		<name normalized="Aland orollari" languages="Uzbek">Aland orollari</name>
+		<name normalized="Alandai" languages="Lithuanian">Alandai</name>
+		<name normalized="Alandia" languages="Latin">Alandia</name>
+		<name normalized="Alando" languages="Esperanto;Ido">Alando</name>
+		<name normalized="Dunu Aland" languages="Wolof">Dunu Aland</name>
+		<name normalized="Ibirwa by'Alande" languages="Kinyarwanda">Ibirwa by’Alande</name>
+		<name normalized="Iles d'Aland" languages="Franco-Provencal">Iles d’Åland</name>
+		<name normalized="Illes Aland" languages="Catalan">Illes Åland</name>
+		<name normalized="Insulele Aland" languages="Romanian">Insulele Åland</name>
+		<name normalized="Islles Aland" languages="Asturian">Islles Åland</name>
+		<name normalized="Isoe Aland" languages="Ligure">Isoe Åland</name>
+		<name normalized="Isole Aland" languages="Italian;veneto">Isole Åland</name>
+		<name normalized="Kapuluan ng Aland" languages="Tagalog">Kapuluan ng Åland</name>
+		<name normalized="Kapuropud-an Aland" languages="Waray">Kapuropud-an Åland</name>
+		<name normalized="Olande" languages="Latvian">Olande</name>
+		<name normalized="Olandska ostrva" languages="Bosnian">Olandska ostrva</name>
+		<name normalized="Pulo-pulo Aland" languages="Achinese">Pulo-pulo Aland</name>
+		<name normalized="Visiwa vya Aland" languages="Swahili">Visiwa vya Aland</name>
+		<name normalized="Wyspy Alandzkie" languages="Polish">Wyspy Alandzkie</name>
+		<name normalized="Awon Erekusu Aland" languages="Yoruba">Àwọn Erékùṣù Åland</name>
+		<name normalized="Aland" languages="Faroese">Áland</name>
+		<name normalized="Alandseyjar" languages="Icelandic">Álandseyjar</name>
+		<name normalized="Aland" languages="Afrikaans;Aragonese;Basque;Breton;Cornish;Danish;Dutch;French;Galician;German;Hungarian;Indonesian;Low Saxon (Netherlands);Lower Sorbian;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;Portuguese;Quechua;Scots;Scottish Gaelic;Serbo-Croatian;Slovenian;Spanish;Sundanese;Swedish;Turkish;Upper Sorbian;Vietnamese;Welsh;Zeeuws">Åland</name>
+		<name normalized="Aland Islands" languages="English;Simple English">Åland Islands</name>
+		<name normalized="Aland Kun-to" languages="Chinese (Min Nan)">Åland Kûn-tó</name>
+		<name normalized="Alandski otoci" languages="Croatian">Ålandski otoci</name>
+		<name normalized="Alandy" languages="Czech;Slovak">Ålandy</name>
+		<name normalized="Alanda" languages="Northern Sami">Ålánda</name>
+		<name normalized="Alaneilannen" languages="Western Frisian">Ålâneilannen</name>
+		<name normalized="Ealendisca Iega" languages="Old English">Ēalendisca Īega</name>
+		<name normalized="Ωλαντ" languages="Greek">Ώλαντ</name>
+		<name normalized="Aлaнd aрaлdaры" languages="Kazakh">Аланд аралдары</name>
+		<name normalized="Aлaнd diiс" languages="Komi">Аланд діяс</name>
+		<name normalized="Aлaнd utрauлaры" languages="Tatar">Аланд утраулары</name>
+		<name normalized="Aлaнd utрauzaры" languages="Bashkir">Аланд утрауҙары</name>
+		<name normalized="Aлaнdiн Aрлс" languages="Kalmyk">Аландин Арлс</name>
+		<name normalized="Aлaнdсkii oсtрova" languages="Russian">Аландские острова</name>
+		<name normalized="Aлaнdсkii aсtрavы" languages="Belarusian">Аландскія астравы</name>
+		<name normalized="Aлaнdсьki oсtрovi" languages="Ukrainian">Аландські острови</name>
+		<name normalized="Aлaнdы" languages="Rusyn">Аланды</name>
+		<name normalized="Aлaнdы сakъadaektae" languages="Ossetic">Аланды сакъадæхтæ</name>
+		<name normalized="Aлiнdzkii aсtрavы" languages="biлaрuсkai (taрaskivita)‎">Аляндзкія астравы</name>
+		<name normalized="Oлaнd" languages="Macedonian">Оланд</name>
+		<name normalized="Oлaнdсka Oсtрva" languages="Serbian">Оландска Острва</name>
+		<name normalized="Oлaнdсki oсtрovi" languages="Bulgarian">Оландски острови</name>
+		<name normalized="Աlանdյան kղzինեr" languages="Armenian">Ալանդյան կղզիներ</name>
+		<name normalized="אvדnד" languages="Hebrew">אולנד</name>
+		<name normalized="أولند" languages="Arabic">أولند</name>
+		<name normalized="ئۆلەند" languages="Sorani Kurdish">ئۆلەند</name>
+		<name normalized="jزאئr آلینڈ" languages="Western Punjabi">جزائر آلینڈ</name>
+		<name normalized="jزאئr אیلאنڈ" languages="Urdu">جزائر ایلانڈ</name>
+		<name normalized="jزאیr אلند" languages="Persian">جزایر الند</name>
+		<name normalized="olंड d्vipsmuh" languages="Marathi">ऑलंड द्वीपसमूह</name>
+		<name normalized="olaण्ड d्vipsmuh" languages="Hindi">ऑलैण्ड द्वीपसमूह</name>
+		<name normalized="alাn্d d্bippun্j" languages="Bengali">অলান্দ দ্বীপপুঞ্জ</name>
+		<name normalized="எலந்து" languages="Tamil">எலந்து</name>
+		<name normalized="അലാന്ദ് ദ്വീപുകൾ" languages="Malayalam">അലാന്ദ് ദ്വീപുകൾ</name>
+		<name normalized="หมู่เกาะโอลันด์" languages="Thai">หมู่เกาะโอลันด์</name>
+		<name normalized="ალანდის კუნძულები" languages="Georgian">ალანდის კუნძულები</name>
+		<name normalized="ალანდიშ კოკეფი" languages="Mingrelian">ალანდიშ კოკეფი</name>
+		<name normalized="oーrnd諸島" languages="Japanese">オーランド諸島</name>
+		<name normalized="奥兰群岛" languages="Chinese">奥兰群岛</name>
+		<name normalized="奧蘭群島" languages="Cantonese">奧蘭群島</name>
+		<name normalized="올란드 제도" languages="Korean">올란드 제도</name>
+	</region>
+	<region name="Aland" type="region" typeTranslated="landskapet">
+		<name normalized="Aaland" languages="Maori">Aaland</name>
+		<name normalized="Ahunamaa" languages="Voro">Ahunamaa</name>
+		<name normalized="Ahvenamaa" languages="Estonian">Ahvenamaa</name>
+		<name normalized="Ahvenanma" languages="Veps">Ahvenanma</name>
+		<name normalized="Ahvenanmaan maakunta" languages="Finnish">Ahvenanmaan maakunta</name>
+		<name normalized="Aland" languages="English;official">Aland</name>
+		<name normalized="Aland adaları" languages="Azerbaijani">Aland adaları</name>
+		<name normalized="Aland Landskapet" languages="English;official">Aland Landskapet</name>
+		<name normalized="Aland orollari" languages="Uzbek">Aland orollari</name>
+		<name normalized="Aland Region" languages="English;official">Aland Region</name>
+		<name normalized="Alandai" languages="Lithuanian">Alandai</name>
+		<name normalized="Alandia" languages="Latin">Alandia</name>
+		<name normalized="Alando" languages="Esperanto;Ido">Alando</name>
+		<name normalized="Dunu Aland" languages="Wolof">Dunu Aland</name>
+		<name normalized="Ibirwa by'Alande" languages="Kinyarwanda">Ibirwa by’Alande</name>
+		<name normalized="Iles d'Aland" languages="Franco-Provencal">Iles d’Åland</name>
+		<name normalized="Illes Aland" languages="Catalan">Illes Åland</name>
+		<name normalized="Insulele Aland" languages="Romanian">Insulele Åland</name>
+		<name normalized="Islles Aland" languages="Asturian">Islles Åland</name>
+		<name normalized="Isoe Aland" languages="Ligure">Isoe Åland</name>
+		<name normalized="Isole Aland" languages="Italian;veneto">Isole Åland</name>
+		<name normalized="Kapuluan ng Aland" languages="Tagalog">Kapuluan ng Åland</name>
+		<name normalized="Kapuropud-an Aland" languages="Waray">Kapuropud-an Åland</name>
+		<name normalized="Olande" languages="Latvian">Olande</name>
+		<name normalized="Olandska ostrva" languages="Bosnian">Olandska ostrva</name>
+		<name normalized="Pulo-pulo Aland" languages="Achinese">Pulo-pulo Aland</name>
+		<name normalized="Visiwa vya Aland" languages="Swahili">Visiwa vya Aland</name>
+		<name normalized="Wyspy Alandzkie" languages="Polish">Wyspy Alandzkie</name>
+		<name normalized="Awon Erekusu Aland" languages="Yoruba">Àwọn Erékùṣù Åland</name>
+		<name normalized="Aland" languages="Faroese">Áland</name>
+		<name normalized="Alandseyjar" languages="Icelandic">Álandseyjar</name>
+		<name normalized="Aland" languages="Afrikaans;Aragonese;Basque;Breton;Cornish;Danish;Dutch;French;Galician;German;Hungarian;Indonesian;Low Saxon (Netherlands);Lower Sorbian;Malay;Manx;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;Portuguese;Quechua;Scots;Scottish Gaelic;Serbo-Croatian;Slovenian;Spanish;Sundanese;Swedish;Turkish;Upper Sorbian;Vietnamese;Welsh;Zeeuws">Åland</name>
+		<name normalized="Aland Islands" languages="English;Simple English">Åland Islands</name>
+		<name normalized="Aland Kun-to" languages="Chinese (Min Nan)">Åland Kûn-tó</name>
+		<name normalized="Alandski otoci" languages="Croatian">Ålandski otoci</name>
+		<name normalized="Alandy" languages="Czech;Slovak">Ålandy</name>
+		<name normalized="Alanda" languages="Northern Sami">Ålánda</name>
+		<name normalized="Alaneilannen" languages="Western Frisian">Ålâneilannen</name>
+		<name normalized="Ealendisca Iega" languages="Old English">Ēalendisca Īega</name>
+		<name normalized="Ωλαντ" languages="Greek">Ώλαντ</name>
+		<name normalized="Aлaнd aрaлdaры" languages="Kazakh">Аланд аралдары</name>
+		<name normalized="Aлaнd diiс" languages="Komi">Аланд діяс</name>
+		<name normalized="Aлaнd utрauлaры" languages="Tatar">Аланд утраулары</name>
+		<name normalized="Aлaнd utрauzaры" languages="Bashkir">Аланд утрауҙары</name>
+		<name normalized="Aлaнdiн Aрлс" languages="Kalmyk">Аландин Арлс</name>
+		<name normalized="Aлaнdсkii oсtрova" languages="Russian">Аландские острова</name>
+		<name normalized="Aлaнdсkii aсtрavы" languages="Belarusian">Аландскія астравы</name>
+		<name normalized="Aлaнdсьki oсtрovi" languages="Ukrainian">Аландські острови</name>
+		<name normalized="Aлaнdы" languages="Rusyn">Аланды</name>
+		<name normalized="Aлaнdы сakъadaektae" languages="Ossetic">Аланды сакъадæхтæ</name>
+		<name normalized="Aлiнdzkii aсtрavы" languages="biлaрuсkai (taрaskivita)‎">Аляндзкія астравы</name>
+		<name normalized="Oлaнd" languages="Macedonian">Оланд</name>
+		<name normalized="Oлaнdсka Oсtрva" languages="Serbian">Оландска Острва</name>
+		<name normalized="Oлaнdсki oсtрovi" languages="Bulgarian">Оландски острови</name>
+		<name normalized="Աlանdյան kղzինեr" languages="Armenian">Ալանդյան կղզիներ</name>
+		<name normalized="אvדnד" languages="Hebrew">אולנד</name>
+		<name normalized="أولند" languages="Arabic">أولند</name>
+		<name normalized="ئۆلەند" languages="Sorani Kurdish">ئۆلەند</name>
+		<name normalized="jزאئr آلینڈ" languages="Western Punjabi">جزائر آلینڈ</name>
+		<name normalized="jزאئr אیلאنڈ" languages="Urdu">جزائر ایلانڈ</name>
+		<name normalized="jزאیr אلند" languages="Persian">جزایر الند</name>
+		<name normalized="olंड d्vipsmuh" languages="Marathi">ऑलंड द्वीपसमूह</name>
+		<name normalized="olaण्ड d्vipsmuh" languages="Hindi">ऑलैण्ड द्वीपसमूह</name>
+		<name normalized="alাn্d d্bippun্j" languages="Bengali">অলান্দ দ্বীপপুঞ্জ</name>
+		<name normalized="எலந்து" languages="Tamil">எலந்து</name>
+		<name normalized="അലാന്ദ് ദ്വീപുകൾ" languages="Malayalam">അലാന്ദ് ദ്വീപുകൾ</name>
+		<name normalized="หมู่เกาะโอลันด์" languages="Thai">หมู่เกาะโอลันด์</name>
+		<name normalized="ალანდის კუნძულები" languages="Georgian">ალანდის კუნძულები</name>
+		<name normalized="ალანდიშ კოკეფი" languages="Mingrelian">ალანდიშ კოკეფი</name>
+		<name normalized="oーrnd諸島" languages="Japanese">オーランド諸島</name>
+		<name normalized="奥兰群岛" languages="Chinese">奥兰群岛</name>
+		<name normalized="奧蘭群島" languages="Cantonese">奧蘭群島</name>
+		<name normalized="올란드 제도" languages="Korean">올란드 제도</name>
+	</region>
+	<region name="Birkaland" type="region" typeTranslated="landskapet">
+		<name normalized="Birkaland" languages="Danish;English;Norwegian (bokmal);official;Swedish">Birkaland</name>
+		<name normalized="Birkaland Landskapet" languages="English;official">Birkaland Landskapet</name>
+		<name normalized="Birkaland Region" languages="English;official">Birkaland Region</name>
+		<name normalized="Tammerfors" languages="Norwegian (bokmal);Norwegian Nynorsk;Swedish">Tammerfors</name>
+		<name normalized="Tammerforsia" languages="Latin">Tammerforsia</name>
+		<name normalized="Tampere" languages="Afrikaans;Azerbaijani;Basque;Bosnian;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Faroese;Finnish;French;Galician;German;Hungarian;Icelandic;Ido;Indonesian;Interlingue;Irish;Italian;Kalaallisut;Latvian;lumbaart;Maori;Northern Sami;Occitan;official;Polish;Portuguese;Quechua;Romanian;Scots;Scottish Gaelic;Simple English;Slovak;Southern Sotho;Spanish;Swahili;Turkish;Vietnamese;Volapuk;Waray;Welsh;Western Frisian">Tampere</name>
+		<name normalized="Tampere Landskapet" languages="English;official">Tampere Landskapet</name>
+		<name normalized="Tampere Region" languages="English;official">Tampere Region</name>
+		<name normalized="Tampereh" languages="Veps">Tampereh</name>
+		<name normalized="Tampere" languages="Lithuanian">Tamperė</name>
+		<name normalized="Ταμπερε" languages="Greek">Τάμπερε</name>
+		<name normalized="Goрad Taмpiрe" languages="Belarusian">Горад Тамперэ</name>
+		<name normalized="Taмpiрi" languages="Bulgarian;Chechen;Eastern Mari;Komi-Permyak;Mongolian;Ossetic;Russian;Serbian;Tajik;Tatar;Ukrainian">Тампере</name>
+		<name normalized="Taмpeрe" languages="biлaрuсkai (taрaskivita)‎">Тампэрэ</name>
+		<name normalized="tמprh" languages="Hebrew">טמפרה</name>
+		<name normalized="tאmbyry" languages="Arabic">تامبيري</name>
+		<name normalized="tאmprh" languages="Persian">تامپره</name>
+		<name normalized="tאmpیrے" languages="Western Punjabi">تامپیرے</name>
+		<name normalized="ٹیmpیr" languages="Urdu">ٹیمپیر</name>
+		<name normalized="tांpere" languages="Marathi">तांपेरे</name>
+		<name normalized="ตัมเปเร" languages="Thai">ตัมเปเร</name>
+		<name normalized="ტამპერე" languages="Georgian">ტამპერე</name>
+		<name normalized="tnpr" languages="Japanese">タンペレ</name>
+		<name normalized="坦佩雷" languages="Chinese">坦佩雷</name>
+		<name normalized="탐페레" languages="Korean">탐페레</name>
+	</region>
+	<region name="Egentliga Finland" type="region" typeTranslated="landskapet">
+		<name normalized="Egentliga Finland" languages="Danish;English;Norwegian (bokmal);Norwegian Nynorsk;official;Swedish">Egentliga Finland</name>
+		<name normalized="Egentliga Finland Landskapet" languages="English;official">Egentliga Finland Landskapet</name>
+		<name normalized="Egentliga Finland Region" languages="English;official">Egentliga Finland Region</name>
+		<name normalized="Finland Proper" languages="Scots">Finland Proper</name>
+		<name normalized="Finlanda Propriu-Zisa" languages="Romanian">Finlanda Propriu-Zisă</name>
+		<name normalized="Finlande propre" languages="French">Finlande propre</name>
+		<name normalized="Finlandia Poludniowo-Zachodnia" languages="Polish">Finlandia Południowo-Zachodnia</name>
+		<name normalized="Finlandia Propia" languages="Galician;Spanish">Finlandia Propia</name>
+		<name normalized="Finlandia Propia" languages="Catalan">Finlàndia Pròpia</name>
+		<name normalized="Finlandia Propria" languages="Portuguese">Finlândia Própria</name>
+		<name normalized="Finnia Propria" languages="Latin">Finnia Propria</name>
+		<name normalized="Finnlynn Chiart" languages="Manx">Finnlynn Chiart</name>
+		<name normalized="Jatorrizko Finlandia" languages="Basque">Jatorrizko Finlandia</name>
+		<name normalized="Pietvakariu Suomija" languages="Lithuanian">Pietvakarių Suomija</name>
+		<name normalized="Pura Finnlando" languages="Esperanto">Pura Finnlando</name>
+		<name normalized="Paris-Soome" languages="Estonian">Päris-Soome</name>
+		<name normalized="Southwest Finland" languages="English;official">Southwest Finland</name>
+		<name normalized="Southwest Finland Landskapet" languages="English;official">Southwest Finland Landskapet</name>
+		<name normalized="Southwest Finland Region" languages="English;official">Southwest Finland Region</name>
+		<name normalized="Varsinais-Suoma eanangoddi" languages="Northern Sami">Varsinais-Suoma eanangoddi</name>
+		<name normalized="Varsinais-Suomen maakunta" languages="Finnish">Varsinais-Suomen maakunta</name>
+		<name normalized="Varsinais-Suomi" languages="Dutch;English;German;Italian;official;Slovak">Varsinais-Suomi</name>
+		<name normalized="Vlastni Finsko" languages="Czech">Vlastní Finsko</name>
+		<name normalized="Vaрсiнaйс Сuoмi" languages="Komi-Permyak">Варсинайс Суоми</name>
+		<name normalized="Vaрсiнaйс-Сuoмi" languages="Russian">Варсинайс-Суоми</name>
+		<name normalized="Paўdнёva-Zakodнii Фiнлiнdыi" languages="Belarusian">Паўднёва-Заходняя Фінляндыя</name>
+		<name normalized="Pivdiннo-zakidнa Фiнлiнdii" languages="Ukrainian">Південно-західна Фінляндія</name>
+		<name normalized="Uza Фiнсka" languages="Serbian">Ужа Финска</name>
+		<name normalized="fאrسyنאyس سووmy" languages="Arabic">فارسينايس سوومي</name>
+		<name normalized="fنلאند אsلی" languages="Persian">فنلاند اصلی</name>
+		<name normalized="fنلینڈ خאs" languages="Western Punjabi">فنلینڈ خاص</name>
+		<name normalized="ვარსინაის-სუომი" languages="Georgian">ვარსინაის-სუომი</name>
+		<name normalized="南西som県" languages="Japanese">南西スオミ県</name>
+		<name normalized="西南芬蘭區" languages="Chinese">西南芬蘭區</name>
+		<name normalized="남서핀란드 지역" languages="Korean">남서핀란드 지역</name>
+	</region>
+	<region name="Egentliga Tavastland" type="region" typeTranslated="landskapet">
+		<name normalized="Egentliga Tavastland" languages="English;official">Egentliga Tavastland</name>
+		<name normalized="Egentliga Tavastland Landskapet" languages="English;official">Egentliga Tavastland Landskapet</name>
+		<name normalized="Egentliga Tavastland Region" languages="English;official">Egentliga Tavastland Region</name>
+	</region>
+	<region name="Etela-Karjala" type="region" typeTranslated="landskapet">
+		<name normalized="Etela-Karjala" languages="English;official">Etela-Karjala</name>
+		<name normalized="Etela-Karjala Landskapet" languages="English;official">Etela-Karjala Landskapet</name>
+		<name normalized="Etela-Karjala Region" languages="English;official">Etela-Karjala Region</name>
+	</region>
+	<region name="Etela-Pohjanmaa" type="region" typeTranslated="landskapet">
+		<name normalized="Etela-Pohjanmaa" languages="English;official">Etela-Pohjanmaa</name>
+		<name normalized="Etela-Pohjanmaa Landskapet" languages="English;official">Etela-Pohjanmaa Landskapet</name>
+		<name normalized="Etela-Pohjanmaa Region" languages="English;official">Etela-Pohjanmaa Region</name>
+	</region>
+	<region name="Etela-Savo" type="region" typeTranslated="landskapet">
+		<name normalized="Etela-Savo" languages="English;official">Etela-Savo</name>
+		<name normalized="Etela-Savo Landskapet" languages="English;official">Etela-Savo Landskapet</name>
+		<name normalized="Etela-Savo Region" languages="English;official">Etela-Savo Region</name>
+	</region>
+	<region name="Kainuu" type="region" typeTranslated="landskapet">
+		<name normalized="Caiania" languages="Latin">Caiania</name>
+		<name normalized="Kainuu" languages="Basque;Catalan;Czech;Dutch;English;Esperanto;Estonian;French;Galician;German;Hungarian;Italian;Occitan;official;Polish;Portuguese;Romanian;Scots;Slovak;Spanish">Kainuu</name>
+		<name normalized="Kainuu eanangoddi" languages="Northern Sami">Kainuu eanangoddi</name>
+		<name normalized="Kainuu Landskapet" languages="English;official">Kainuu Landskapet</name>
+		<name normalized="Kainuu Region" languages="English;official">Kainuu Region</name>
+		<name normalized="Kainuun maakunta" languages="Finnish">Kainuun maakunta</name>
+		<name normalized="Kainu" languages="Lithuanian">Kainū</name>
+		<name normalized="Kajanaland" languages="Danish;English;Norwegian (bokmal);Norwegian Nynorsk;official;Swedish">Kajanaland</name>
+		<name normalized="Kaiнu" languages="Macedonian">Каину</name>
+		<name normalized="Kaйнu" languages="Komi-Permyak">Кайну</name>
+		<name normalized="Kaйнuu" languages="Belarusian;Russian;Ukrainian">Кайнуу</name>
+		<name normalized="Kaйнuў" languages="biлaрuсkai (taрaskivita)‎">Кайнуў</name>
+		<name normalized="Kajiнu" languages="Serbian">Кајину</name>
+		<name normalized="qאnיv" languages="Hebrew">קאניו</name>
+		<name normalized="kאyنو" languages="Arabic">كاينو</name>
+		<name normalized="کאئنو" languages="Western Punjabi">کائنو</name>
+		<name normalized="کאینو" languages="Persian">کاینو</name>
+		<name normalized="კაინუუ" languages="Georgian">კაინუუ</name>
+		<name normalized="kinー県" languages="Japanese">カイヌー県</name>
+		<name normalized="凱努區" languages="Chinese">凱努區</name>
+		<name normalized="카이누 지역" languages="Korean">카이누 지역</name>
+	</region>
+	<region name="Kajanaland" type="region" typeTranslated="landskapet">
+		<name normalized="Caiania" languages="Latin">Caiania</name>
+		<name normalized="Kainuu" languages="Basque;Catalan;Czech;Dutch;English;Esperanto;Estonian;French;Galician;German;Hungarian;Italian;Occitan;official;Polish;Portuguese;Romanian;Scots;Slovak;Spanish">Kainuu</name>
+		<name normalized="Kainuu eanangoddi" languages="Northern Sami">Kainuu eanangoddi</name>
+		<name normalized="Kainuun maakunta" languages="Finnish">Kainuun maakunta</name>
+		<name normalized="Kainu" languages="Lithuanian">Kainū</name>
+		<name normalized="Kajanaland" languages="Danish;English;Norwegian (bokmal);Norwegian Nynorsk;official;Swedish">Kajanaland</name>
+		<name normalized="Kajanaland Landskapet" languages="English;official">Kajanaland Landskapet</name>
+		<name normalized="Kajanaland Region" languages="English;official">Kajanaland Region</name>
+		<name normalized="Kaiнu" languages="Macedonian">Каину</name>
+		<name normalized="Kaйнu" languages="Komi-Permyak">Кайну</name>
+		<name normalized="Kaйнuu" languages="Belarusian;Russian;Ukrainian">Кайнуу</name>
+		<name normalized="Kaйнuў" languages="biлaрuсkai (taрaskivita)‎">Кайнуў</name>
+		<name normalized="Kajiнu" languages="Serbian">Кајину</name>
+		<name normalized="qאnיv" languages="Hebrew">קאניו</name>
+		<name normalized="kאyنو" languages="Arabic">كاينو</name>
+		<name normalized="کאئنو" languages="Western Punjabi">کائنو</name>
+		<name normalized="کאینو" languages="Persian">کاینو</name>
+		<name normalized="კაინუუ" languages="Georgian">კაინუუ</name>
+		<name normalized="kinー県" languages="Japanese">カイヌー県</name>
+		<name normalized="凱努區" languages="Chinese">凱努區</name>
+		<name normalized="카이누 지역" languages="Korean">카이누 지역</name>
+	</region>
+	<region name="Kanta-Hame" type="region" typeTranslated="landskapet">
+		<name normalized="Kanta-Hame" languages="English;official">Kanta-Hame</name>
+		<name normalized="Kanta-Hame Landskapet" languages="English;official">Kanta-Hame Landskapet</name>
+		<name normalized="Kanta-Hame Region" languages="English;official">Kanta-Hame Region</name>
+	</region>
+	<region name="Keski-Pohjanmaa" type="region" typeTranslated="landskapet">
+		<name normalized="Central Ostrobothnia" languages="English;official">Central Ostrobothnia</name>
+		<name normalized="Central Ostrobothnie" languages="Scots">Central Ostrobothnie</name>
+		<name normalized="Erdialdeko Ostrobotnia" languages="Basque">Erdialdeko Ostrobotnia</name>
+		<name normalized="Gaska-Pohjanmaa eanangoddi" languages="Northern Sami">Gaska-Pohjanmaa eanangoddi</name>
+		<name normalized="Kesk-Pohjanmaa" languages="Estonian">Kesk-Pohjanmaa</name>
+		<name normalized="Keski-Pohjanmaa" languages="Dutch;English;Norwegian Nynorsk;official;Slovak">Keski-Pohjanmaa</name>
+		<name normalized="Keski-Pohjanmaa Landskapet" languages="English;official">Keski-Pohjanmaa Landskapet</name>
+		<name normalized="Keski-Pohjanmaa Region" languages="English;official">Keski-Pohjanmaa Region</name>
+		<name normalized="Keski-Pohjanmaan maakunta" languages="Finnish">Keski-Pohjanmaan maakunta</name>
+		<name normalized="Mellersta Osterbotten" languages="Danish;Norwegian (bokmal);Swedish">Mellersta Österbotten</name>
+		<name normalized="Meza Ostrobotnio" languages="Esperanto">Meza Ostrobotnio</name>
+		<name normalized="Mittelosterbotten" languages="German">Mittelösterbotten</name>
+		<name normalized="Ostrobotnia Central" languages="Spanish">Ostrobotnia Central</name>
+		<name normalized="Ostrobotnia centrale" languages="Italian">Ostrobotnia centrale</name>
+		<name normalized="Ostrobotnia Centrala" languages="Romanian">Ostrobotnia Centrală</name>
+		<name normalized="Ostrobotnia Srodkowa" languages="Polish">Ostrobotnia Środkowa</name>
+		<name normalized="Ostrobotnie-Centrale" languages="French">Ostrobotnie-Centrale</name>
+		<name normalized="Ostrobotnia del Nord" languages="Catalan">Ostrobòtnia del Nord</name>
+		<name normalized="Ostrobotnia Central" languages="Portuguese">Ostrobótnia Central</name>
+		<name normalized="Stredni Pohjanmaa" languages="Czech">Střední Pohjanmaa</name>
+		<name normalized="Vidurio Pohjanma" languages="Lithuanian">Vidurio Pohjanma</name>
+		<name normalized="Kiсki Pokьiнмa" languages="Komi-Permyak">Кески Похьянма</name>
+		<name normalized="Срidisna Oсtрobotнija" languages="Serbian">Средишња Остроботнија</name>
+		<name normalized="Tiнtрaльнa Pog'iнмaa" languages="Ukrainian">Центральна Пог'янмаа</name>
+		<name normalized="Tiнtрaльнai Oсtрobotнii" languages="Russian">Центральная Остроботния</name>
+		<name normalized="אvסtrvbvtnיh hמrכזיt" languages="Hebrew">אוסטרובוטניה המרכזית</name>
+		<name normalized="אوسtrوbوtنیאی mrکزی" languages="Persian">اوستروبوتنیای مرکزی</name>
+		<name normalized="bوhyאنmא אلوسtى" languages="Arabic">بوهيانما الوسطى</name>
+		<name normalized="وشکאrلא אوسٹrوbوtھنیא" languages="Western Punjabi">وشکارلا اوسٹروبوتھنیا</name>
+		<name normalized="ცენტრალური ოსტრობოტნია" languages="Georgian">ცენტრალური ოსტრობოტნია</name>
+		<name normalized="中博滕區" languages="Chinese">中博滕區</name>
+		<name normalized="中部phynmー県" languages="Japanese">中部ポフヤンマー県</name>
+		<name normalized="중앙포흐얀마 지역" languages="Korean">중앙포흐얀마 지역</name>
+	</region>
+	<region name="Keski-Suomi" type="region" typeTranslated="landskapet">
+		<name normalized="Central Finland" languages="English;official;Scots;Simple English">Central Finland</name>
+		<name normalized="Erdialdeko Finlandia" languages="Basque">Erdialdeko Finlandia</name>
+		<name normalized="Finland Tengah" languages="Malay">Finland Tengah</name>
+		<name normalized="Finlanda Centrala" languages="Romanian">Finlanda Centrală</name>
+		<name normalized="Finlande-Centrale" languages="French">Finlande-Centrale</name>
+		<name normalized="Finlandia Central" languages="Galician;Spanish">Finlandia Central</name>
+		<name normalized="Finlandia centrale" languages="Italian">Finlandia centrale</name>
+		<name normalized="Finlandia Tengah" languages="Indonesian">Finlandia Tengah</name>
+		<name normalized="Finlandia Srodkowa" languages="Polish">Finlandia Środkowa</name>
+		<name normalized="Finlandia Central" languages="Catalan">Finlàndia Central</name>
+		<name normalized="Finlandia Central" languages="Portuguese">Finlândia Central</name>
+		<name normalized="Finnia Media" languages="Latin">Finnia Media</name>
+		<name normalized="Kesk-Soome" languages="Estonian">Kesk-Soome</name>
+		<name normalized="Keski-Suomen maakunta" languages="Finnish">Keski-Suomen maakunta</name>
+		<name normalized="Keski-Suomi" languages="Danish;Dutch;English;Norwegian Nynorsk;official;Slovak">Keski-Suomi</name>
+		<name normalized="Keski-Suomi Landskapet" languages="English;official">Keski-Suomi Landskapet</name>
+		<name normalized="Keski-Suomi Region" languages="English;official">Keski-Suomi Region</name>
+		<name normalized="Mellersta Finland" languages="English;Norwegian (bokmal);official;Swedish">Mellersta Finland</name>
+		<name normalized="Meza Finnlando" languages="Esperanto">Meza Finnlando</name>
+		<name normalized="Mittelfinnland" languages="German">Mittelfinnland</name>
+		<name normalized="Stredni Finsko" languages="Czech">Střední Finsko</name>
+		<name normalized="Vidurio Suomija" languages="Lithuanian">Vidurio Suomija</name>
+		<name normalized="Kiсki Сuoмi" languages="Komi-Permyak">Кески Суоми</name>
+		<name normalized="Срidisna Фiнсka" languages="Serbian">Средишња Финска</name>
+		<name normalized="Tiнtрaльнa Фiнлiнdii" languages="Ukrainian">Центральна Фінляндія</name>
+		<name normalized="Tiнtрaльнai Фiнлiнdii" languages="Russian">Центральная Финляндия</name>
+		<name normalized="fنلאند mrکزی" languages="Persian">فنلاند مرکزی</name>
+		<name normalized="fنلندא אلوسtى" languages="Arabic">فنلندا الوسطى</name>
+		<name normalized="وشکאrلא fنلینڈ" languages="Western Punjabi">وشکارلا فنلینڈ</name>
+		<name normalized="ცენტრალური ფინეთი" languages="Georgian">ცენტრალური ფინეთი</name>
+		<name normalized="中央som県" languages="Japanese">中央スオミ県</name>
+		<name normalized="中芬蘭區" languages="Chinese">中芬蘭區</name>
+		<name normalized="중앙핀란드 지역" languages="Korean">중앙핀란드 지역</name>
+	</region>
+	<region name="Kymenlaakso" type="region" typeTranslated="landskapet">
+		<name normalized="Kiumenlaksas" languages="Lithuanian">Kiumenlaksas</name>
+		<name normalized="Kymenlaakso" languages="Basque;Czech;Dutch;English;Esperanto;Estonian;Galician;German;Italian;Manx;official;Polish;Portuguese;Romanian;Scots;Slovak;Spanish">Kymenlaakso</name>
+		<name normalized="Kymenlaakso Landskapet" languages="English;official">Kymenlaakso Landskapet</name>
+		<name normalized="Kymenlaakso Region" languages="English;official">Kymenlaakso Region</name>
+		<name normalized="Kymenlaakson maakunta" languages="Finnish">Kymenlaakson maakunta</name>
+		<name normalized="Kymmenedalen" languages="Danish;English;Norwegian (bokmal);Norwegian Nynorsk;official;Swedish">Kymmenedalen</name>
+		<name normalized="Vall de Kymi" languages="Catalan">Vall de Kymi</name>
+		<name normalized="Vallee de la Kymi" languages="French">Vallée de la Kymi</name>
+		<name normalized="Kiмiнсka Doлiнa" languages="Serbian">Кименска Долина</name>
+		<name normalized="Kюмiнлaakсo" languages="Russian;Ukrainian">Кюменлааксо</name>
+		<name normalized="Kюмiнлakсo" languages="Komi-Permyak">Кюменлаксо</name>
+		<name normalized="kوmنلאkسو" languages="Arabic">كومنلاكسو</name>
+		<name normalized="کیmنلאکسو" languages="Persian">کیمنلاکسو</name>
+		<name normalized="کیmینلאکسو" languages="Western Punjabi">کیمینلاکسو</name>
+		<name normalized="კიმენლააკსო" languages="Georgian">კიმენლააკსო</name>
+		<name normalized="kymnrーks県" languages="Japanese">キュメンラークソ県</name>
+		<name normalized="屈米區" languages="Chinese">屈米區</name>
+		<name normalized="퀴멘락소 지역" languages="Korean">퀴멘락소 지역</name>
+	</region>
+	<region name="Kymmenedalen" type="region" typeTranslated="landskapet">
+		<name normalized="Kiumenlaksas" languages="Lithuanian">Kiumenlaksas</name>
+		<name normalized="Kymenlaakso" languages="Basque;Czech;Dutch;English;Esperanto;Estonian;Galician;German;Italian;Manx;official;Polish;Portuguese;Romanian;Scots;Slovak;Spanish">Kymenlaakso</name>
+		<name normalized="Kymenlaakson maakunta" languages="Finnish">Kymenlaakson maakunta</name>
+		<name normalized="Kymmenedalen" languages="Danish;English;Norwegian (bokmal);Norwegian Nynorsk;official;Swedish">Kymmenedalen</name>
+		<name normalized="Kymmenedalen Landskapet" languages="English;official">Kymmenedalen Landskapet</name>
+		<name normalized="Kymmenedalen Region" languages="English;official">Kymmenedalen Region</name>
+		<name normalized="Vall de Kymi" languages="Catalan">Vall de Kymi</name>
+		<name normalized="Vallee de la Kymi" languages="French">Vallée de la Kymi</name>
+		<name normalized="Kiмiнсka Doлiнa" languages="Serbian">Кименска Долина</name>
+		<name normalized="Kюмiнлaakсo" languages="Russian;Ukrainian">Кюменлааксо</name>
+		<name normalized="Kюмiнлakсo" languages="Komi-Permyak">Кюменлаксо</name>
+		<name normalized="kوmنلאkسو" languages="Arabic">كومنلاكسو</name>
+		<name normalized="کیmنلאکسو" languages="Persian">کیمنلاکسو</name>
+		<name normalized="کیmینلאکسو" languages="Western Punjabi">کیمینلاکسو</name>
+		<name normalized="კიმენლააკსო" languages="Georgian">კიმენლააკსო</name>
+		<name normalized="kymnrーks県" languages="Japanese">キュメンラークソ県</name>
+		<name normalized="屈米區" languages="Chinese">屈米區</name>
+		<name normalized="퀴멘락소 지역" languages="Korean">퀴멘락소 지역</name>
+	</region>
+	<region name="Lappi" type="region" typeTranslated="landskapet">
+		<name normalized="Lappi" languages="Dutch;English;Finnish;French;German;Italian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Romanian;Swedish;Vietnamese">Lappi</name>
+		<name normalized="Lappi Landskapet" languages="English;official">Lappi Landskapet</name>
+		<name normalized="Lappi Region" languages="English;official">Lappi Region</name>
+	</region>
+	<region name="Lappland" type="region" typeTranslated="landskapet">
+		<name normalized="Lappi" languages="Dutch;English;Finnish;French;German;Italian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;official;Romanian;Swedish;Vietnamese">Lappi</name>
+		<name normalized="Lappland" languages="English;Norwegian (bokmal);Norwegian Nynorsk;official;Portuguese;Swedish">Lappland</name>
+		<name normalized="Lappland Landskapet" languages="English;official">Lappland Landskapet</name>
+		<name normalized="Lappland Region" languages="English;official">Lappland Region</name>
+		<name normalized="Лapлaнdii" languages="Bulgarian;Russian">Лапландия</name>
+		<name normalized="Лapлaнdii" languages="Ukrainian">Лапландія</name>
+		<name normalized="Лipлiнdыi" languages="biлaрuсkai (taрaskivita)‎">Ляпляндыя</name>
+		<name normalized="拉普蘭" languages="Chinese">拉普蘭</name>
+	</region>
+	<region name="Mellersta Finland" type="region" typeTranslated="landskapet">
+		<name normalized="Central Finland" languages="English;official;Scots;Simple English">Central Finland</name>
+		<name normalized="Central Finland Landskapet" languages="English;official">Central Finland Landskapet</name>
+		<name normalized="Central Finland Region" languages="English;official">Central Finland Region</name>
+		<name normalized="Erdialdeko Finlandia" languages="Basque">Erdialdeko Finlandia</name>
+		<name normalized="Finland Tengah" languages="Malay">Finland Tengah</name>
+		<name normalized="Finlanda Centrala" languages="Romanian">Finlanda Centrală</name>
+		<name normalized="Finlande-Centrale" languages="French">Finlande-Centrale</name>
+		<name normalized="Finlandia Central" languages="Galician;Spanish">Finlandia Central</name>
+		<name normalized="Finlandia centrale" languages="Italian">Finlandia centrale</name>
+		<name normalized="Finlandia Tengah" languages="Indonesian">Finlandia Tengah</name>
+		<name normalized="Finlandia Srodkowa" languages="Polish">Finlandia Środkowa</name>
+		<name normalized="Finlandia Central" languages="Catalan">Finlàndia Central</name>
+		<name normalized="Finlandia Central" languages="Portuguese">Finlândia Central</name>
+		<name normalized="Finnia Media" languages="Latin">Finnia Media</name>
+		<name normalized="Kesk-Soome" languages="Estonian">Kesk-Soome</name>
+		<name normalized="Keski-Suomen maakunta" languages="Finnish">Keski-Suomen maakunta</name>
+		<name normalized="Keski-Suomi" languages="Danish;Dutch;English;Norwegian Nynorsk;official;Slovak">Keski-Suomi</name>
+		<name normalized="Mellersta Finland" languages="English;Norwegian (bokmal);official;Swedish">Mellersta Finland</name>
+		<name normalized="Mellersta Finland Landskapet" languages="English;official">Mellersta Finland Landskapet</name>
+		<name normalized="Mellersta Finland Region" languages="English;official">Mellersta Finland Region</name>
+		<name normalized="Meza Finnlando" languages="Esperanto">Meza Finnlando</name>
+		<name normalized="Mittelfinnland" languages="German">Mittelfinnland</name>
+		<name normalized="Stredni Finsko" languages="Czech">Střední Finsko</name>
+		<name normalized="Vidurio Suomija" languages="Lithuanian">Vidurio Suomija</name>
+		<name normalized="Kiсki Сuoмi" languages="Komi-Permyak">Кески Суоми</name>
+		<name normalized="Срidisna Фiнсka" languages="Serbian">Средишња Финска</name>
+		<name normalized="Tiнtрaльнa Фiнлiнdii" languages="Ukrainian">Центральна Фінляндія</name>
+		<name normalized="Tiнtрaльнai Фiнлiнdii" languages="Russian">Центральная Финляндия</name>
+		<name normalized="fنلאند mrکزی" languages="Persian">فنلاند مرکزی</name>
+		<name normalized="fنلندא אلوسtى" languages="Arabic">فنلندا الوسطى</name>
+		<name normalized="وشکאrلא fنلینڈ" languages="Western Punjabi">وشکارلا فنلینڈ</name>
+		<name normalized="ცენტრალური ფინეთი" languages="Georgian">ცენტრალური ფინეთი</name>
+		<name normalized="中央som県" languages="Japanese">中央スオミ県</name>
+		<name normalized="中芬蘭區" languages="Chinese">中芬蘭區</name>
+		<name normalized="중앙핀란드 지역" languages="Korean">중앙핀란드 지역</name>
+	</region>
+	<region name="Mellersta Osterbotten" type="region" typeTranslated="landskapet">
+		<name normalized="Central Ostrobothnia" languages="English;official">Central Ostrobothnia</name>
+		<name normalized="Central Ostrobothnia Landskapet" languages="English;official">Central Ostrobothnia Landskapet</name>
+		<name normalized="Central Ostrobothnia Region" languages="English;official">Central Ostrobothnia Region</name>
+		<name normalized="Central Ostrobothnie" languages="Scots">Central Ostrobothnie</name>
+		<name normalized="Erdialdeko Ostrobotnia" languages="Basque">Erdialdeko Ostrobotnia</name>
+		<name normalized="Gaska-Pohjanmaa eanangoddi" languages="Northern Sami">Gaska-Pohjanmaa eanangoddi</name>
+		<name normalized="Kesk-Pohjanmaa" languages="Estonian">Kesk-Pohjanmaa</name>
+		<name normalized="Keski-Pohjanmaa" languages="Dutch;English;Norwegian Nynorsk;official;Slovak">Keski-Pohjanmaa</name>
+		<name normalized="Keski-Pohjanmaan maakunta" languages="Finnish">Keski-Pohjanmaan maakunta</name>
+		<name normalized="Mellersta Osterbotten" languages="English;official">Mellersta Osterbotten</name>
+		<name normalized="Mellersta Osterbotten Landskapet" languages="English;official">Mellersta Osterbotten Landskapet</name>
+		<name normalized="Mellersta Osterbotten Region" languages="English;official">Mellersta Osterbotten Region</name>
+		<name normalized="Mellersta Osterbotten" languages="Danish;Norwegian (bokmal);Swedish">Mellersta Österbotten</name>
+		<name normalized="Meza Ostrobotnio" languages="Esperanto">Meza Ostrobotnio</name>
+		<name normalized="Mittelosterbotten" languages="German">Mittelösterbotten</name>
+		<name normalized="Ostrobotnia Central" languages="Spanish">Ostrobotnia Central</name>
+		<name normalized="Ostrobotnia centrale" languages="Italian">Ostrobotnia centrale</name>
+		<name normalized="Ostrobotnia Centrala" languages="Romanian">Ostrobotnia Centrală</name>
+		<name normalized="Ostrobotnia Srodkowa" languages="Polish">Ostrobotnia Środkowa</name>
+		<name normalized="Ostrobotnie-Centrale" languages="French">Ostrobotnie-Centrale</name>
+		<name normalized="Ostrobotnia del Nord" languages="Catalan">Ostrobòtnia del Nord</name>
+		<name normalized="Ostrobotnia Central" languages="Portuguese">Ostrobótnia Central</name>
+		<name normalized="Stredni Pohjanmaa" languages="Czech">Střední Pohjanmaa</name>
+		<name normalized="Vidurio Pohjanma" languages="Lithuanian">Vidurio Pohjanma</name>
+		<name normalized="Kiсki Pokьiнмa" languages="Komi-Permyak">Кески Похьянма</name>
+		<name normalized="Срidisna Oсtрobotнija" languages="Serbian">Средишња Остроботнија</name>
+		<name normalized="Tiнtрaльнa Pog'iнмaa" languages="Ukrainian">Центральна Пог'янмаа</name>
+		<name normalized="Tiнtрaльнai Oсtрobotнii" languages="Russian">Центральная Остроботния</name>
+		<name normalized="אvסtrvbvtnיh hמrכזיt" languages="Hebrew">אוסטרובוטניה המרכזית</name>
+		<name normalized="אوسtrوbوtنیאی mrکزی" languages="Persian">اوستروبوتنیای مرکزی</name>
+		<name normalized="bوhyאنmא אلوسtى" languages="Arabic">بوهيانما الوسطى</name>
+		<name normalized="وشکאrلא אوسٹrوbوtھنیא" languages="Western Punjabi">وشکارلا اوسٹروبوتھنیا</name>
+		<name normalized="ცენტრალური ოსტრობოტნია" languages="Georgian">ცენტრალური ოსტრობოტნია</name>
+		<name normalized="中博滕區" languages="Chinese">中博滕區</name>
+		<name normalized="中部phynmー県" languages="Japanese">中部ポフヤンマー県</name>
+		<name normalized="중앙포흐얀마 지역" languages="Korean">중앙포흐얀마 지역</name>
+	</region>
+	<region name="Norra Karelen" type="region" typeTranslated="landskapet">
+		<name normalized="Carelia" languages="Italian">Carelia</name>
+		<name normalized="Carelia de Nord" languages="Romanian">Carelia de Nord</name>
+		<name normalized="Carelia do Norte" languages="Galician">Carelia do Norte</name>
+		<name normalized="Carelia Septentrionalis" languages="Latin">Carelia Septentrionalis</name>
+		<name normalized="Carelia settentrionale" languages="Italian">Carelia settentrionale</name>
+		<name normalized="Carelia Finlandesa" languages="Catalan">Carèlia Finlandesa</name>
+		<name normalized="Carelia Septentrional" languages="Catalan">Carèlia Septentrional</name>
+		<name normalized="Carelia do Norte" languages="Portuguese">Carélia do Norte</name>
+		<name normalized="Carelie" languages="French">Carélie</name>
+		<name normalized="Carelie du Nord" languages="French">Carélie du Nord</name>
+		<name normalized="Ipar Karelia" languages="Basque">Ipar Karelia</name>
+		<name normalized="Karelen tartomany" languages="Hungarian">Karelen tartomány</name>
+		<name normalized="Karelia" languages="Basque;English;official">Karelia</name>
+		<name normalized="Karelia del Norte" languages="Spanish">Karelia del Norte</name>
+		<name normalized="Karelia Landskapet" languages="English;official">Karelia Landskapet</name>
+		<name normalized="Karelia Polnocna" languages="Polish">Karelia Północna</name>
+		<name normalized="Karelia Region" languages="English;official">Karelia Region</name>
+		<name normalized="Karjalan historiallinen maakunta" languages="Finnish">Karjalan historiallinen maakunta</name>
+		<name normalized="Kuzey Karelya" languages="Turkish">Kuzey Karelya</name>
+		<name normalized="Nord-Karelia" languages="Ido">Nord-Karelia</name>
+		<name normalized="Norda Karelio" languages="Esperanto">Norda Karelio</name>
+		<name normalized="Nordkarelien" languages="German">Nordkarelien</name>
+		<name normalized="Norra Karelen" languages="Danish;English;Norwegian (bokmal);official;Swedish">Norra Karelen</name>
+		<name normalized="Norra Karelen Landskapet" languages="English;official">Norra Karelen Landskapet</name>
+		<name normalized="Norra Karelen Region" languages="English;official">Norra Karelen Region</name>
+		<name normalized="North Karelia" languages="English;official">North Karelia</name>
+		<name normalized="North Karelia Landskapet" languages="English;official">North Karelia Landskapet</name>
+		<name normalized="North Karelia Region" languages="English;official">North Karelia Region</name>
+		<name normalized="North Karelie" languages="Scots">North Karelie</name>
+		<name normalized="Pohjois-Karjala" languages="Dutch;English;Norwegian Nynorsk;official;Slovak">Pohjois-Karjala</name>
+		<name normalized="Pohjois-Karjalan maakunta" languages="Finnish">Pohjois-Karjalan maakunta</name>
+		<name normalized="Pohja-Karjala" languages="Estonian">Põhja-Karjala</name>
+		<name normalized="Severni Karelie" languages="Czech">Severní Karélie</name>
+		<name normalized="Sjeverna Karelija" languages="Serbo-Croatian">Sjeverna Karelija</name>
+		<name normalized="Suomijos Karelija" languages="Lithuanian">Suomijos Karelija</name>
+		<name normalized="Eszak-Karjala" languages="Hungarian">Észak-Karjala</name>
+		<name normalized="Siaures Karelija" languages="Lithuanian">Šiaurės Karelija</name>
+		<name normalized="Kaрiлii" languages="Russian">Карелия</name>
+		<name normalized="Kaрeлii" languages="Belarusian">Карэлія</name>
+		<name normalized="Pokьёйс Kaрьiлa" languages="Komi-Permyak">Похьёйс Карьяла</name>
+		<name normalized="Pivнicнa Kaрiлii" languages="Ukrainian">Північна Карелія</name>
+		<name normalized="Сiviрнa Kaрiлija" languages="Macedonian;Serbian">Северна Карелија</name>
+		<name normalized="Сiviрнai Kaрiлii" languages="Russian">Северная Карелия</name>
+		<name normalized="אtلא کrیلیא" languages="Western Punjabi">اتلا کریلیا</name>
+		<name normalized="kאryلyא" languages="Arabic">كاريليا</name>
+		<name normalized="kאryلyא אلشmאلyة" languages="Arabic">كاريليا الشمالية</name>
+		<name normalized="کאrلیאی شmאلی" languages="Persian">کارلیای شمالی</name>
+		<name normalized="pinis kाreliyा" languages="Marathi">फिनिश कारेलिया</name>
+		<name normalized="ჩრდილოეთი კარელია" languages="Georgian">ჩრდილოეთი კარელია</name>
+		<name normalized="kryr" languages="Japanese">カルヤラ</name>
+		<name normalized="北kryr県" languages="Japanese">北カルヤラ県</name>
+		<name normalized="北卡累利阿區" languages="Chinese">北卡累利阿區</name>
+		<name normalized="西卡累利阿" languages="Chinese">西卡累利阿</name>
+		<name normalized="북카리알라 지역" languages="Korean">북카리알라 지역</name>
+		<name normalized="카리알라" languages="Korean">카리알라</name>
+	</region>
+	<region name="Norra Osterbotten" type="region" typeTranslated="landskapet">
+		<name normalized="Norra Osterbotten" languages="English;official">Norra Osterbotten</name>
+		<name normalized="Norra Osterbotten Landskapet" languages="English;official">Norra Osterbotten Landskapet</name>
+		<name normalized="Norra Osterbotten Region" languages="English;official">Norra Osterbotten Region</name>
+		<name normalized="North Ostrobothnia" languages="English;official">North Ostrobothnia</name>
+		<name normalized="North Ostrobothnia Landskapet" languages="English;official">North Ostrobothnia Landskapet</name>
+		<name normalized="North Ostrobothnia Region" languages="English;official">North Ostrobothnia Region</name>
+		<name normalized="Ostrobothnia" languages="English;Latin;official">Ostrobothnia</name>
+		<name normalized="Ostrobothnia Landskapet" languages="English;official">Ostrobothnia Landskapet</name>
+		<name normalized="Ostrobothnia Region" languages="English;official">Ostrobothnia Region</name>
+		<name normalized="Ostrobothnie" languages="Scots">Ostrobothnie</name>
+		<name normalized="Ostrobotnia" languages="Italian">Ostrobotnia</name>
+		<name normalized="Ostrobotnie" languages="French">Ostrobotnie</name>
+		<name normalized="Pohjanmaa" languages="English;Finnish;official;Swedish">Pohjanmaa</name>
+		<name normalized="Osterbotten" languages="Danish;Dutch;Swedish">Österbotten</name>
+		<name normalized="Οστροβοθνια" languages="Greek">Οστροβόθνια</name>
+		<name normalized="Pok'iнмa" languages="Belarusian">Пох'янма</name>
+		<name normalized="Pokьiнмaa" languages="Russian">Похьянмаа</name>
+	</region>
+	<region name="Norra Savolax" type="region" typeTranslated="landskapet">
+		<name normalized="Norra Savolax" languages="Danish;English;Norwegian (bokmal);official;Swedish">Norra Savolax</name>
+		<name normalized="Norra Savolax Landskapet" languages="English;official">Norra Savolax Landskapet</name>
+		<name normalized="Norra Savolax Region" languages="English;official">Norra Savolax Region</name>
+		<name normalized="North Savo" languages="English;official">North Savo</name>
+		<name normalized="North Savo Landskapet" languages="English;official">North Savo Landskapet</name>
+		<name normalized="North Savo Region" languages="English;official">North Savo Region</name>
+		<name normalized="Savo" languages="Dutch;English;French;German;Latin;official;Slovak">Savo</name>
+		<name normalized="Savo Landskapet" languages="English;official">Savo Landskapet</name>
+		<name normalized="Savo Region" languages="English;official">Savo Region</name>
+		<name normalized="Сavo" languages="Russian">Саво</name>
+	</region>
+	<region name="Nyland" type="region" typeTranslated="landskapet">
+		<name normalized="Newland" languages="Dutch;English;French;German;official;Polish">Newland</name>
+		<name normalized="Newland Landskapet" languages="English;official">Newland Landskapet</name>
+		<name normalized="Newland Region" languages="English;official">Newland Region</name>
+		<name normalized="Nyland" languages="Danish;English;Finnish;French;German;Norwegian (bokmal);Norwegian Nynorsk;official;Swedish">Nyland</name>
+		<name normalized="Nyland Landskapet" languages="English;official">Nyland Landskapet</name>
+		<name normalized="Nyland Region" languages="English;official">Nyland Region</name>
+		<name normalized="Ньюлiнd" languages="Russian">Ньюленд</name>
+	</region>
+	<region name="Osterbotten" type="region" typeTranslated="landskapet">
+		<name normalized="Osterbotten" languages="English;official">Osterbotten</name>
+		<name normalized="Osterbotten Landskapet" languages="English;official">Osterbotten Landskapet</name>
+		<name normalized="Osterbotten Region" languages="English;official">Osterbotten Region</name>
+		<name normalized="Ostrobothnia" languages="English;Latin;official">Ostrobothnia</name>
+		<name normalized="Ostrobothnia Landskapet" languages="English;official">Ostrobothnia Landskapet</name>
+		<name normalized="Ostrobothnia Region" languages="English;official">Ostrobothnia Region</name>
+		<name normalized="Ostrobothnie" languages="Scots">Ostrobothnie</name>
+		<name normalized="Ostrobotnia" languages="Italian">Ostrobotnia</name>
+		<name normalized="Ostrobotnie" languages="French">Ostrobotnie</name>
+		<name normalized="Pohjanmaa" languages="English;Finnish;official;Swedish">Pohjanmaa</name>
+		<name normalized="Osterbotten" languages="Danish;Dutch;Swedish">Österbotten</name>
+		<name normalized="Οστροβοθνια" languages="Greek">Οστροβόθνια</name>
+		<name normalized="Pok'iнмa" languages="Belarusian">Пох'янма</name>
+		<name normalized="Pokьiнмaa" languages="Russian">Похьянмаа</name>
+	</region>
+	<region name="Paijanne-Tavastland" type="region" typeTranslated="landskapet">
+		<name normalized="Paijanne-Tavastland" languages="English;official">Paijanne-Tavastland</name>
+		<name normalized="Paijanne-Tavastland Landskapet" languages="English;official">Paijanne-Tavastland Landskapet</name>
+		<name normalized="Paijanne-Tavastland Region" languages="English;official">Paijanne-Tavastland Region</name>
+	</region>
+	<region name="Paijat-Hame" type="region" typeTranslated="landskapet">
+		<name normalized="Paijat-Hame" languages="English;official">Paijat-Hame</name>
+		<name normalized="Paijat-Hame Landskapet" languages="English;official">Paijat-Hame Landskapet</name>
+		<name normalized="Paijat-Hame Region" languages="English;official">Paijat-Hame Region</name>
+		<name normalized="Peijenes Heme" languages="Lithuanian">Peijenės Hemė</name>
+		<name normalized="Paijanne Tavastia" languages="Basque;English;Galician;Portuguese;Romanian;Spanish;Vietnamese">Päijänne Tavastia</name>
+		<name normalized="Paijanne Tavastie" languages="Scots">Päijänne Tavastie</name>
+		<name normalized="Paijanne-Tavastland" languages="Danish;Norwegian (bokmal);Swedish">Päijänne-Tavastland</name>
+		<name normalized="Paijat-Hame" languages="Catalan;Czech;Dutch;Esperanto;Estonian;French;German;Italian;Manx;Occitan;Polish;Slovak">Päijät-Häme</name>
+		<name normalized="Paijat-Hame eanangoddi" languages="Northern Sami">Päijät-Häme eanangoddi</name>
+		<name normalized="Paijat-Hameen maakunta" languages="Finnish">Päijät-Hämeen maakunta</name>
+		<name normalized="Pijiнсka Tavaсtija" languages="Serbian">Пејенска Тавастија</name>
+		<name normalized="Piйit Kiмi" languages="Komi-Permyak">Пяйят Хяме</name>
+		<name normalized="Piйit-Giмi" languages="Ukrainian">Пяйят-Гяме</name>
+		<name normalized="Piйit-Kiмi" languages="Russian">Пяйят-Хяме</name>
+		<name normalized="bאyאt hאmy" languages="Arabic">بايات هامي</name>
+		<name normalized="pیئjینے tوאسtیא" languages="Western Punjabi">پیئجینے تواستیا</name>
+		<name normalized="pی‌ینh tאوאسtیא" languages="Persian">پی‌ینه تاواستیا</name>
+		<name normalized="პიაიატ-ჰიამე" languages="Georgian">პიაიატ-ჰიამე</name>
+		<name normalized="piyt=hm県" languages="Japanese">パイヤト＝ハメ県</name>
+		<name normalized="派亞特海梅區" languages="Chinese">派亞特海梅區</name>
+		<name normalized="페이예트헤메 지역" languages="Korean">페이예트헤메 지역</name>
+	</region>
+	<region name="Pirkanmaa" type="region" typeTranslated="landskapet">
+		<name normalized="Birkaland" languages="Danish;English;Norwegian (bokmal);official;Swedish">Birkaland</name>
+		<name normalized="Birkaria" languages="Latin">Birkaria</name>
+		<name normalized="Pirkanma" languages="Lithuanian">Pirkanma</name>
+		<name normalized="Pirkanmaa" languages="Basque;Catalan;Czech;Dutch;English;Esperanto;Estonian;French;Galician;German;Hungarian;Italian;Manx;Norwegian Nynorsk;Occitan;official;Polish;Portuguese;Romanian;Scots;Slovak;Spanish">Pirkanmaa</name>
+		<name normalized="Pirkanmaa Landskapet" languages="English;official">Pirkanmaa Landskapet</name>
+		<name normalized="Pirkanmaa Region" languages="English;official">Pirkanmaa Region</name>
+		<name normalized="Pirkanmaan maakunta" languages="Finnish">Pirkanmaan maakunta</name>
+		<name normalized="Piрkaнмa" languages="Komi-Permyak">Пирканма</name>
+		<name normalized="Piрkaнмaa" languages="Russian">Пирканмаа</name>
+		<name normalized="Piрkaнсka ziмla" languages="Serbian">Пирканска земља</name>
+		<name normalized="Piрkaнмaa" languages="Ukrainian">Пірканмаа</name>
+		<name normalized="byrkنmא" languages="Arabic">بيركنما</name>
+		<name normalized="prکאنmא" languages="Western Punjabi">پرکانما</name>
+		<name normalized="pیrکאنmא" languages="Persian">پیرکانما</name>
+		<name normalized="პირკანმაა" languages="Georgian">პირკანმაა</name>
+		<name normalized="prknmー県" languages="Japanese">ピルカンマー県</name>
+		<name normalized="皮爾卡區" languages="Chinese">皮爾卡區</name>
+		<name normalized="피르칸마 지역" languages="Korean">피르칸마 지역</name>
+	</region>
+	<region name="Pohjanmaa" type="region" typeTranslated="landskapet">
+		<name normalized="Pohjanmaa" languages="English;Finnish;official;Swedish">Pohjanmaa</name>
+		<name normalized="Pohjanmaa Landskapet" languages="English;official">Pohjanmaa Landskapet</name>
+		<name normalized="Pohjanmaa Region" languages="English;official">Pohjanmaa Region</name>
+	</region>
+	<region name="Pohjois-Karjala" type="region" typeTranslated="landskapet">
+		<name normalized="Carelia de Nord" languages="Romanian">Carelia de Nord</name>
+		<name normalized="Carelia do Norte" languages="Galician">Carelia do Norte</name>
+		<name normalized="Carelia Septentrionalis" languages="Latin">Carelia Septentrionalis</name>
+		<name normalized="Carelia settentrionale" languages="Italian">Carelia settentrionale</name>
+		<name normalized="Carelia Septentrional" languages="Catalan">Carèlia Septentrional</name>
+		<name normalized="Carelia do Norte" languages="Portuguese">Carélia do Norte</name>
+		<name normalized="Carelie du Nord" languages="French">Carélie du Nord</name>
+		<name normalized="Ipar Karelia" languages="Basque">Ipar Karelia</name>
+		<name normalized="Karelia del Norte" languages="Spanish">Karelia del Norte</name>
+		<name normalized="Karelia Polnocna" languages="Polish">Karelia Północna</name>
+		<name normalized="Kuzey Karelya" languages="Turkish">Kuzey Karelya</name>
+		<name normalized="Nord-Karelia" languages="Ido">Nord-Karelia</name>
+		<name normalized="Norda Karelio" languages="Esperanto">Norda Karelio</name>
+		<name normalized="Nordkarelien" languages="German">Nordkarelien</name>
+		<name normalized="Norra Karelen" languages="Danish;English;Norwegian (bokmal);official;Swedish">Norra Karelen</name>
+		<name normalized="North Karelia" languages="English;official">North Karelia</name>
+		<name normalized="North Karelie" languages="Scots">North Karelie</name>
+		<name normalized="Pohjois-Karjala" languages="Dutch;English;Norwegian Nynorsk;official;Slovak">Pohjois-Karjala</name>
+		<name normalized="Pohjois-Karjala Landskapet" languages="English;official">Pohjois-Karjala Landskapet</name>
+		<name normalized="Pohjois-Karjala Region" languages="English;official">Pohjois-Karjala Region</name>
+		<name normalized="Pohjois-Karjalan maakunta" languages="Finnish">Pohjois-Karjalan maakunta</name>
+		<name normalized="Pohja-Karjala" languages="Estonian">Põhja-Karjala</name>
+		<name normalized="Severni Karelie" languages="Czech">Severní Karélie</name>
+		<name normalized="Sjeverna Karelija" languages="Serbo-Croatian">Sjeverna Karelija</name>
+		<name normalized="Eszak-Karjala" languages="Hungarian">Észak-Karjala</name>
+		<name normalized="Siaures Karelija" languages="Lithuanian">Šiaurės Karelija</name>
+		<name normalized="Pokьёйс Kaрьiлa" languages="Komi-Permyak">Похьёйс Карьяла</name>
+		<name normalized="Pivнicнa Kaрiлii" languages="Ukrainian">Північна Карелія</name>
+		<name normalized="Сiviрнa Kaрiлija" languages="Macedonian;Serbian">Северна Карелија</name>
+		<name normalized="Сiviрнai Kaрiлii" languages="Russian">Северная Карелия</name>
+		<name normalized="אtلא کrیلیא" languages="Western Punjabi">اتلا کریلیا</name>
+		<name normalized="kאryلyא אلشmאلyة" languages="Arabic">كاريليا الشمالية</name>
+		<name normalized="کאrلیאی شmאلی" languages="Persian">کارلیای شمالی</name>
+		<name normalized="ჩრდილოეთი კარელია" languages="Georgian">ჩრდილოეთი კარელია</name>
+		<name normalized="北kryr県" languages="Japanese">北カルヤラ県</name>
+		<name normalized="北卡累利阿區" languages="Chinese">北卡累利阿區</name>
+		<name normalized="북카리알라 지역" languages="Korean">북카리알라 지역</name>
+	</region>
+	<region name="Pohjois-Pohjanmaa" type="region" typeTranslated="landskapet">
+		<name normalized="Davvi-Pohjanmaa eanangoddi" languages="Northern Sami">Davvi-Pohjanmaa eanangoddi</name>
+		<name normalized="Ipar Ostrobotnia" languages="Basque">Ipar Ostrobotnia</name>
+		<name normalized="Norda Ostrobotnio" languages="Esperanto">Norda Ostrobotnio</name>
+		<name normalized="Nordosterbotten" languages="German">Nordösterbotten</name>
+		<name normalized="Norra Osterbotten" languages="Danish;Norwegian (bokmal);Norwegian Nynorsk;Swedish">Norra Österbotten</name>
+		<name normalized="Northern Ostrobothnia" languages="English">Northern Ostrobothnia</name>
+		<name normalized="Northren Ostrobothnie" languages="Scots">Northren Ostrobothnie</name>
+		<name normalized="Ostrobothnia Utara" languages="Indonesian;Malay">Ostrobothnia Utara</name>
+		<name normalized="Ostrobotnia de Nord" languages="Romanian">Ostrobotnia de Nord</name>
+		<name normalized="Ostrobotnia del Norte" languages="Spanish">Ostrobotnia del Norte</name>
+		<name normalized="Ostrobotnia do Norte" languages="Galician">Ostrobotnia do Norte</name>
+		<name normalized="Ostrobotnia Polnocna" languages="Polish">Ostrobotnia Północna</name>
+		<name normalized="Ostrobotnia Setentrional" languages="veneto">Ostrobotnia Setentrional</name>
+		<name normalized="Ostrobotnia settentrionale" languages="Italian">Ostrobotnia settentrionale</name>
+		<name normalized="Ostrobotnie du Nord" languages="French">Ostrobotnie du Nord</name>
+		<name normalized="Ostrobotnia do Norte" languages="Portuguese">Ostrobótnia do Norte</name>
+		<name normalized="Pohjanmaa Hwoaie" languages="Manx">Pohjanmaa Hwoaie</name>
+		<name normalized="Pohjois-Pohjanmaa" languages="Dutch;English;official;Slovak">Pohjois-Pohjanmaa</name>
+		<name normalized="Pohjois-Pohjanmaa Landskapet" languages="English;official">Pohjois-Pohjanmaa Landskapet</name>
+		<name normalized="Pohjois-Pohjanmaa Region" languages="English;official">Pohjois-Pohjanmaa Region</name>
+		<name normalized="Pohjois-Pohjanmaan maakunta" languages="Finnish">Pohjois-Pohjanmaan maakunta</name>
+		<name normalized="Pohja-Pohjanmaa" languages="Estonian">Põhja-Pohjanmaa</name>
+		<name normalized="Severni Pohjanmaa" languages="Czech">Severní Pohjanmaa</name>
+		<name normalized="Eszak-Pohjanmaa" languages="Hungarian">Észak-Pohjanmaa</name>
+		<name normalized="Siaures Pohjanma" languages="Lithuanian">Šiaurės Pohjanma</name>
+		<name normalized="Βορεια Οστροβοθνια" languages="Greek">Βόρεια Οστροβόθνια</name>
+		<name normalized="Pokьёйс Pokьiнмa" languages="Komi-Permyak">Похьёйс Похьянма</name>
+		<name normalized="Pivнicнa Pog'iнмaa" languages="Ukrainian">Північна Пог'янмаа</name>
+		<name normalized="Сiviрнa Oсtрobotнija" languages="Macedonian;Serbian">Северна Остроботнија</name>
+		<name normalized="Сiviрнai Oсtрobotнii" languages="Russian">Северная Остроботния</name>
+		<name normalized="אvסtrvbvtnיh hצpvnיt" languages="Hebrew">אוסטרובוטניה הצפונית</name>
+		<name normalized="אtلא אوسٹrوbوtھنیא" languages="Western Punjabi">اتلا اوسٹروبوتھنیا</name>
+		<name normalized="אوسtrوbوtنیאی شmאلی" languages="Persian">اوستروبوتنیای شمالی</name>
+		<name normalized="bوhyאنmא אلشmאلyة" languages="Arabic">بوهيانما الشمالية</name>
+		<name normalized="ჩრდილოეთი ოსტრობოტნია" languages="Georgian">ჩრდილოეთი ოსტრობოტნია</name>
+		<name normalized="北phynmー県" languages="Japanese">北ポフヤンマー県</name>
+		<name normalized="北博滕區" languages="Chinese">北博滕區</name>
+		<name normalized="북포흐얀마 지역" languages="Korean">북포흐얀마 지역</name>
+	</region>
+	<region name="Pohjois-Savo" type="region" typeTranslated="landskapet">
+		<name normalized="Davvi-Savo eanangoddi" languages="Northern Sami">Davvi-Savo eanangoddi</name>
+		<name normalized="Ipar Savonia" languages="Basque">Ipar Savonia</name>
+		<name normalized="Norda Savonio" languages="Esperanto">Norda Savonio</name>
+		<name normalized="Nordsavo" languages="German">Nordsavo</name>
+		<name normalized="Norra Savolax" languages="Danish;English;Norwegian (bokmal);official;Swedish">Norra Savolax</name>
+		<name normalized="Northern Savonia" languages="English">Northern Savonia</name>
+		<name normalized="Northren Savonie" languages="Scots">Northren Savonie</name>
+		<name normalized="Pohjois-Savo" languages="Dutch;English;Norwegian Nynorsk;official;Slovak">Pohjois-Savo</name>
+		<name normalized="Pohjois-Savo Landskapet" languages="English;official">Pohjois-Savo Landskapet</name>
+		<name normalized="Pohjois-Savo Region" languages="English;official">Pohjois-Savo Region</name>
+		<name normalized="Pohjois-Savon maakunta" languages="Finnish">Pohjois-Savon maakunta</name>
+		<name normalized="Pohja-Savo" languages="Estonian">Põhja-Savo</name>
+		<name normalized="Savo settentrionale" languages="Italian">Savo settentrionale</name>
+		<name normalized="Savonia de Nord" languages="Romanian">Savonia de Nord</name>
+		<name normalized="Savonia del Norte" languages="Spanish">Savonia del Norte</name>
+		<name normalized="Savonia do Norte" languages="Galician">Savonia do Norte</name>
+		<name normalized="Savonie du Nord" languages="French">Savonie du Nord</name>
+		<name normalized="Savonia del Nord" languages="Catalan">Savònia del Nord</name>
+		<name normalized="Savonia do Norte" languages="Portuguese">Savônia do Norte</name>
+		<name normalized="Sawonia Polnocna" languages="Polish">Sawonia Północna</name>
+		<name normalized="Severni Savo" languages="Czech">Severní Savo</name>
+		<name normalized="Eszak-Savo" languages="Hungarian">Észak-Savo</name>
+		<name normalized="Siaures Savas" languages="Lithuanian">Šiaurės Savas</name>
+		<name normalized="Pokьёйс Сavo" languages="Komi-Permyak">Похьёйс Саво</name>
+		<name normalized="Pivнicнa Сavoнii" languages="Ukrainian">Північна Савонія</name>
+		<name normalized="Сiviрнa Сavoнija" languages="Serbian">Северна Савонија</name>
+		<name normalized="Сiviрнoi Сavo" languages="Russian">Северное Саво</name>
+		<name normalized="אtلא سאوونیא" languages="Western Punjabi">اتلا ساوونیا</name>
+		<name normalized="سאfو אلشmאلyة" languages="Arabic">سافو الشمالية</name>
+		<name normalized="سאوونیאی شmאلی" languages="Persian">ساوونیای شمالی</name>
+		<name normalized="ჩრდილოეთი სავონია" languages="Georgian">ჩრდილოეთი სავონია</name>
+		<name normalized="北svo県" languages="Japanese">北サヴォ県</name>
+		<name normalized="北薩沃尼亞區" languages="Chinese">北薩沃尼亞區</name>
+		<name normalized="북사보 지역" languages="Korean">북사보 지역</name>
+	</region>
+	<region name="Satakunta" type="region" typeTranslated="landskapet">
+		<name normalized="Finnish and Swedish" languages="English;official">Finnish and Swedish</name>
+		<name normalized="Finnish and Swedish Landskapet" languages="English;official">Finnish and Swedish Landskapet</name>
+		<name normalized="Finnish and Swedish Region" languages="English;official">Finnish and Swedish Region</name>
+		<name normalized="Satagundia" languages="Latin">Satagundia</name>
+		<name normalized="Satakunda" languages="Danish">Satakunda</name>
+		<name normalized="Satakunnan maakunta" languages="Finnish">Satakunnan maakunta</name>
+		<name normalized="Satakunta" languages="Basque;Catalan;Czech;Dutch;English;Esperanto;Estonian;French;Galician;German;Italian;Lithuanian;Norwegian (bokmal);Occitan;official;Polish;Portuguese;Romanian;Scots;Slovak;Spanish;Swedish">Satakunta</name>
+		<name normalized="Satakunta Landskapet" languages="English;official">Satakunta Landskapet</name>
+		<name normalized="Satakunta Region" languages="English;official">Satakunta Region</name>
+		<name normalized="Satakunta tartomany" languages="Hungarian">Satakunta tartomány</name>
+		<name normalized="Сatakuнta" languages="Komi-Permyak;Russian;Serbian;Ukrainian">Сатакунта</name>
+		<name normalized="سאtאکنtא" languages="Western Punjabi">ساتاکنتا</name>
+		<name normalized="سאtאکونtא" languages="Persian">ساتاکونتا</name>
+		<name normalized="سtאkونtא" languages="Arabic">ستاكونتا</name>
+		<name normalized="სატაკუნტა" languages="Georgian">სატაკუნტა</name>
+		<name normalized="stknt県" languages="Japanese">サタクンタ県</name>
+		<name normalized="薩卡昆達區" languages="Chinese">薩卡昆達區</name>
+		<name normalized="사타쿤타 지역" languages="Korean">사타쿤타 지역</name>
+	</region>
+	<region name="Sodra Karelen" type="region" typeTranslated="landskapet">
+		<name normalized="Carelia" languages="Italian">Carelia</name>
+		<name normalized="Carelia de Sud" languages="Romanian">Carelia de Sud</name>
+		<name normalized="Carelia do Sur" languages="Galician">Carelia do Sur</name>
+		<name normalized="Carelia meridionale" languages="Italian">Carelia meridionale</name>
+		<name normalized="Carelia Meridionalis" languages="Latin">Carelia Meridionalis</name>
+		<name normalized="Carelia Finlandesa" languages="Catalan">Carèlia Finlandesa</name>
+		<name normalized="Carelia Meridional" languages="Catalan">Carèlia Meridional</name>
+		<name normalized="Carelia do Sul" languages="Portuguese">Carélia do Sul</name>
+		<name normalized="Carelie" languages="French">Carélie</name>
+		<name normalized="Carelie du Sud" languages="French">Carélie du Sud</name>
+		<name normalized="Etela-Karjala" languages="Dutch;Slovak">Etelä-Karjala</name>
+		<name normalized="Etela-Karjalan maakunta" languages="Finnish">Etelä-Karjalan maakunta</name>
+		<name normalized="Guney Karelya" languages="Turkish">Güney Karelya</name>
+		<name normalized="Hego Karelia" languages="Basque">Hego Karelia</name>
+		<name normalized="Jizni Karelie" languages="Czech">Jižní Karélie</name>
+		<name normalized="Juzna Karelija" languages="Serbo-Croatian">Južna Karelija</name>
+		<name normalized="Karelen tartomany" languages="Hungarian">Karelen tartomány</name>
+		<name normalized="Karelia" languages="Basque;English;official">Karelia</name>
+		<name normalized="Karelia del Sur" languages="Spanish">Karelia del Sur</name>
+		<name normalized="Karelia Landskapet" languages="English;official">Karelia Landskapet</name>
+		<name normalized="Karelia Poludniowa" languages="Polish">Karelia Południowa</name>
+		<name normalized="Karelia Region" languages="English;official">Karelia Region</name>
+		<name normalized="Karelia Selatan" languages="Indonesian;Malay">Karelia Selatan</name>
+		<name normalized="Karjalan historiallinen maakunta" languages="Finnish">Karjalan historiallinen maakunta</name>
+		<name normalized="Lulli-Garjila eanangoddi" languages="Northern Sami">Lulli-Gárjila eanangoddi</name>
+		<name normalized="Louna-Karjala" languages="Estonian">Lõuna-Karjala</name>
+		<name normalized="Pietu Karelija" languages="Lithuanian">Pietų Karelija</name>
+		<name normalized="Sodra Karelen" languages="English;official">Sodra Karelen</name>
+		<name normalized="Sodra Karelen Landskapet" languages="English;official">Sodra Karelen Landskapet</name>
+		<name normalized="Sodra Karelen Region" languages="English;official">Sodra Karelen Region</name>
+		<name normalized="Sooth Karelie" languages="Scots">Sooth Karelie</name>
+		<name normalized="South Karelia" languages="English;official">South Karelia</name>
+		<name normalized="South Karelia Landskapet" languages="English;official">South Karelia Landskapet</name>
+		<name normalized="South Karelia Region" languages="English;official">South Karelia Region</name>
+		<name normalized="Sud-Karelia" languages="Ido">Sud-Karelia</name>
+		<name normalized="Suda Karelio" languages="Esperanto">Suda Karelio</name>
+		<name normalized="Suomijos Karelija" languages="Lithuanian">Suomijos Karelija</name>
+		<name normalized="Sodra Karelen" languages="Danish;Norwegian (bokmal);Swedish">Södra Karelen</name>
+		<name normalized="Sudkarelien" languages="German">Südkarelien</name>
+		<name normalized="Kaрiлii" languages="Russian">Карелия</name>
+		<name normalized="Kaрeлii" languages="Belarusian">Карэлія</name>
+		<name normalized="Pivdiннa Kaрiлii" languages="Ukrainian">Південна Карелія</name>
+		<name normalized="Etiлi Kaрьiлa" languages="Komi-Permyak">Этеля Карьяла</name>
+		<name normalized="Юzнai Kaрiлii" languages="Russian">Южная Карелия</name>
+		<name normalized="Juzнa Kaрiлija" languages="Serbian">Јужна Карелија</name>
+		<name normalized="tھلوאں کrیلیא" languages="Western Punjabi">تھلواں کریلیا</name>
+		<name normalized="kאryلyא" languages="Arabic">كاريليا</name>
+		<name normalized="kאryلyא אلjنوbyة" languages="Arabic">كاريليا الجنوبية</name>
+		<name normalized="کאrلیאی jنوbی" languages="Persian">کارلیای جنوبی</name>
+		<name normalized="pinis kाreliyा" languages="Marathi">फिनिश कारेलिया</name>
+		<name normalized="სამხრეთი კარელია" languages="Georgian">სამხრეთი კარელია</name>
+		<name normalized="kryr" languages="Japanese">カルヤラ</name>
+		<name normalized="南kryr県" languages="Japanese">南カルヤラ県</name>
+		<name normalized="南卡累利阿區" languages="Chinese">南卡累利阿區</name>
+		<name normalized="西卡累利阿" languages="Chinese">西卡累利阿</name>
+		<name normalized="남카리알라 지역" languages="Korean">남카리알라 지역</name>
+		<name normalized="카리알라" languages="Korean">카리알라</name>
+	</region>
+	<region name="Sodra Osterbotten" type="region" typeTranslated="landskapet">
+		<name normalized="Etela-Pohjanmaa" languages="Dutch;Slovak">Etelä-Pohjanmaa</name>
+		<name normalized="Etela-Pohjanmaan maakunta" languages="Finnish">Etelä-Pohjanmaan maakunta</name>
+		<name normalized="Hego Ostrobotnia" languages="Basque">Hego Ostrobotnia</name>
+		<name normalized="Jizni Pohjanmaa" languages="Czech">Jižní Pohjanmaa</name>
+		<name normalized="Lulli-Pohjanmaa eanangoddi" languages="Northern Sami">Lulli-Pohjanmaa eanangoddi</name>
+		<name normalized="Louna-Pohjanmaa" languages="Estonian">Lõuna-Pohjanmaa</name>
+		<name normalized="Ostrobothnia" languages="English;Latin;official">Ostrobothnia</name>
+		<name normalized="Ostrobothnia Landskapet" languages="English;official">Ostrobothnia Landskapet</name>
+		<name normalized="Ostrobothnia Region" languages="English;official">Ostrobothnia Region</name>
+		<name normalized="Ostrobothnie" languages="Scots">Ostrobothnie</name>
+		<name normalized="Ostrobotnia" languages="Italian">Ostrobotnia</name>
+		<name normalized="Ostrobotnia de Sud" languages="Romanian">Ostrobotnia de Sud</name>
+		<name normalized="Ostrobotnia del Sur" languages="Spanish">Ostrobotnia del Sur</name>
+		<name normalized="Ostrobotnia do Sur" languages="Galician">Ostrobotnia do Sur</name>
+		<name normalized="Ostrobotnia meridionale" languages="Italian">Ostrobotnia meridionale</name>
+		<name normalized="Ostrobotnia Poludniowa" languages="Polish">Ostrobotnia Południowa</name>
+		<name normalized="Ostrobotnie" languages="French">Ostrobotnie</name>
+		<name normalized="Ostrobotnie du Sud" languages="French">Ostrobotnie du Sud</name>
+		<name normalized="Ostrobotnia del Sud" languages="Catalan">Ostrobòtnia del Sud</name>
+		<name normalized="Ostrobotnia do Sul" languages="Portuguese">Ostrobótnia do Sul</name>
+		<name normalized="Pietu Pohjanma" languages="Lithuanian">Pietų Pohjanma</name>
+		<name normalized="Pohjanmaa" languages="English;Finnish;official;Swedish">Pohjanmaa</name>
+		<name normalized="Sodra Osterbotten" languages="English;official">Sodra Osterbotten</name>
+		<name normalized="Sodra Osterbotten Landskapet" languages="English;official">Sodra Osterbotten Landskapet</name>
+		<name normalized="Sodra Osterbotten Region" languages="English;official">Sodra Osterbotten Region</name>
+		<name normalized="Soothren Ostrobothnie" languages="Scots">Soothren Ostrobothnie</name>
+		<name normalized="South Ostrobothnia" languages="English;official">South Ostrobothnia</name>
+		<name normalized="South Ostrobothnia Landskapet" languages="English;official">South Ostrobothnia Landskapet</name>
+		<name normalized="South Ostrobothnia Region" languages="English;official">South Ostrobothnia Region</name>
+		<name normalized="Southern Ostrobothnia" languages="English">Southern Ostrobothnia</name>
+		<name normalized="Suda Ostrobotnio" languages="Esperanto">Suda Ostrobotnio</name>
+		<name normalized="Sodra Osterbotten" languages="Danish;Norwegian (bokmal);Swedish">Södra Österbotten</name>
+		<name normalized="Sudosterbotten" languages="German">Südösterbotten</name>
+		<name normalized="Osterbotten" languages="Danish;Dutch;Swedish">Österbotten</name>
+		<name normalized="Οστροβοθνια" languages="Greek">Οστροβόθνια</name>
+		<name normalized="Pok'iнмa" languages="Belarusian">Пох'янма</name>
+		<name normalized="Pokьiнмaa" languages="Russian">Похьянмаа</name>
+		<name normalized="Pivdiннa Pog'iнмaa" languages="Ukrainian">Південна Пог'янмаа</name>
+		<name normalized="Etiлi Pokьiнмa" languages="Komi-Permyak">Этеля Похьянма</name>
+		<name normalized="Юzнai Oсtрobotнii" languages="Russian">Южная Остроботния</name>
+		<name normalized="Juzнa Oсtрobotнija" languages="Serbian">Јужна Остроботнија</name>
+		<name normalized="אوسtrوbوtنیאی jنوbی" languages="Persian">اوستروبوتنیای جنوبی</name>
+		<name normalized="bوhyאنmא אلjنوbyة" languages="Arabic">بوهيانما الجنوبية</name>
+		<name normalized="tھلوאں אوسٹrوbوtھنیא" languages="Western Punjabi">تھلواں اوسٹروبوتھنیا</name>
+		<name normalized="სამხრეთი ოსტრობოტნია" languages="Georgian">სამხრეთი ოსტრობოტნია</name>
+		<name normalized="南phynmー県" languages="Japanese">南ポフヤンマー県</name>
+		<name normalized="南博滕區" languages="Chinese">南博滕區</name>
+		<name normalized="남포흐얀마 지역" languages="Korean">남포흐얀마 지역</name>
+	</region>
+	<region name="Sodra Savolax" type="region" typeTranslated="landskapet">
+		<name normalized="Savo" languages="Dutch;English;French;German;Latin;official;Slovak">Savo</name>
+		<name normalized="Savo Landskapet" languages="English;official">Savo Landskapet</name>
+		<name normalized="Savo Region" languages="English;official">Savo Region</name>
+		<name normalized="Sodra Savolax" languages="English;official">Sodra Savolax</name>
+		<name normalized="Sodra Savolax Landskapet" languages="English;official">Sodra Savolax Landskapet</name>
+		<name normalized="Sodra Savolax Region" languages="English;official">Sodra Savolax Region</name>
+		<name normalized="South Savo" languages="English;official">South Savo</name>
+		<name normalized="South Savo Landskapet" languages="English;official">South Savo Landskapet</name>
+		<name normalized="South Savo Region" languages="English;official">South Savo Region</name>
+		<name normalized="Сavo" languages="Russian">Саво</name>
+	</region>
+	<region name="Uusimaa" type="region" typeTranslated="landskapet">
+		<name normalized="Nilandia" languages="Basque">Nilandia</name>
+		<name normalized="Nyland" languages="Danish;English;Finnish;French;German;Norwegian (bokmal);Norwegian Nynorsk;official;Swedish">Nyland</name>
+		<name normalized="Nyland tartomany" languages="Hungarian">Nyland tartomány</name>
+		<name normalized="Nylandia" languages="Latin">Nylandia</name>
+		<name normalized="Uudenmaan maakunta" languages="Finnish">Uudenmaan maakunta</name>
+		<name normalized="Uusimaa" languages="Afrikaans;Catalan;Czech;Dutch;English;Esperanto;Estonian;French;Galician;German;Indonesian;Italian;Malay;Manx;Occitan;official;Polish;Portuguese;Romanian;Scots;Slovak;Spanish;Turkish;veneto">Uusimaa</name>
+		<name normalized="Uusimaa Landskapet" languages="English;official">Uusimaa Landskapet</name>
+		<name normalized="Uusimaa Region" languages="English;official">Uusimaa Region</name>
+		<name normalized="Usima" languages="Lithuanian">Ūsima</name>
+		<name normalized="Нova Ziмla" languages="Serbian">Нова Земља</name>
+		<name normalized="Uсiмa" languages="Komi-Permyak">Усима</name>
+		<name normalized="Uсiмa" languages="Belarusian">Усіма</name>
+		<name normalized="Uuсiмaa" languages="Bulgarian;Russian">Уусимаа</name>
+		<name normalized="Uuсiмaa" languages="Ukrainian">Уусімаа</name>
+		<name normalized="أوسymא" languages="Arabic">أوسيما</name>
+		<name normalized="אوسیmא" languages="Persian">اوسیما</name>
+		<name normalized="یووسیmא" languages="Western Punjabi">یووسیما</name>
+		<name normalized="უუსიმაა" languages="Georgian">უუსიმაა</name>
+		<name normalized="uーsmー県" languages="Japanese">ウーシマー県</name>
+		<name normalized="新地区" languages="Chinese">新地区</name>
+		<name normalized="우시마 지역" languages="Korean">우시마 지역</name>
+	</region>
+	<region name="Varsinais-Suomi" type="region" typeTranslated="landskapet">
+		<name normalized="Egentliga Finland" languages="Danish;English;Norwegian (bokmal);Norwegian Nynorsk;official;Swedish">Egentliga Finland</name>
+		<name normalized="Finland Proper" languages="Scots">Finland Proper</name>
+		<name normalized="Finlanda Propriu-Zisa" languages="Romanian">Finlanda Propriu-Zisă</name>
+		<name normalized="Finlande propre" languages="French">Finlande propre</name>
+		<name normalized="Finlandia Poludniowo-Zachodnia" languages="Polish">Finlandia Południowo-Zachodnia</name>
+		<name normalized="Finlandia Propia" languages="Galician;Spanish">Finlandia Propia</name>
+		<name normalized="Finlandia Propia" languages="Catalan">Finlàndia Pròpia</name>
+		<name normalized="Finlandia Propria" languages="Portuguese">Finlândia Própria</name>
+		<name normalized="Finnia Propria" languages="Latin">Finnia Propria</name>
+		<name normalized="Finnlynn Chiart" languages="Manx">Finnlynn Chiart</name>
+		<name normalized="Jatorrizko Finlandia" languages="Basque">Jatorrizko Finlandia</name>
+		<name normalized="Pietvakariu Suomija" languages="Lithuanian">Pietvakarių Suomija</name>
+		<name normalized="Pura Finnlando" languages="Esperanto">Pura Finnlando</name>
+		<name normalized="Paris-Soome" languages="Estonian">Päris-Soome</name>
+		<name normalized="Southwest Finland" languages="English;official">Southwest Finland</name>
+		<name normalized="Varsinais-Suoma eanangoddi" languages="Northern Sami">Varsinais-Suoma eanangoddi</name>
+		<name normalized="Varsinais-Suomen maakunta" languages="Finnish">Varsinais-Suomen maakunta</name>
+		<name normalized="Varsinais-Suomi" languages="Dutch;English;German;Italian;official;Slovak">Varsinais-Suomi</name>
+		<name normalized="Varsinais-Suomi Landskapet" languages="English;official">Varsinais-Suomi Landskapet</name>
+		<name normalized="Varsinais-Suomi Region" languages="English;official">Varsinais-Suomi Region</name>
+		<name normalized="Vlastni Finsko" languages="Czech">Vlastní Finsko</name>
+		<name normalized="Vaрсiнaйс Сuoмi" languages="Komi-Permyak">Варсинайс Суоми</name>
+		<name normalized="Vaрсiнaйс-Сuoмi" languages="Russian">Варсинайс-Суоми</name>
+		<name normalized="Paўdнёva-Zakodнii Фiнлiнdыi" languages="Belarusian">Паўднёва-Заходняя Фінляндыя</name>
+		<name normalized="Pivdiннo-zakidнa Фiнлiнdii" languages="Ukrainian">Південно-західна Фінляндія</name>
+		<name normalized="Uza Фiнсka" languages="Serbian">Ужа Финска</name>
+		<name normalized="fאrسyنאyس سووmy" languages="Arabic">فارسينايس سوومي</name>
+		<name normalized="fنلאند אsلی" languages="Persian">فنلاند اصلی</name>
+		<name normalized="fنلینڈ خאs" languages="Western Punjabi">فنلینڈ خاص</name>
+		<name normalized="ვარსინაის-სუომი" languages="Georgian">ვარსინაის-სუომი</name>
+		<name normalized="南西som県" languages="Japanese">南西スオミ県</name>
+		<name normalized="西南芬蘭區" languages="Chinese">西南芬蘭區</name>
+		<name normalized="남서핀란드 지역" languages="Korean">남서핀란드 지역</name>
+	</region>
+</regions>

@@ -1,0 +1,64 @@
+<regions country="Uzbekistan">
+	<region name="Andijon Viloyati" type="province" typeTranslated="viloyat">
+		<name normalized="Andijon Viloyati" languages="English;official">Andijon Viloyati</name>
+		<name normalized="Andijon Viloyati Province" languages="English;official">Andijon Viloyati Province</name>
+	</region>
+	<region name="Buxoro Viloyati" type="province" typeTranslated="viloyat">
+		<name normalized="Buxoro Viloyati" languages="English;official">Buxoro Viloyati</name>
+		<name normalized="Buxoro Viloyati Province" languages="English;official">Buxoro Viloyati Province</name>
+	</region>
+	<region name="Farg'ona Viloyati" type="province" typeTranslated="viloyat">
+		<name normalized="Farg'ona Viloyati" languages="English;official">Farg'ona Viloyati</name>
+		<name normalized="Farg'ona Viloyati Province" languages="English;official">Farg'ona Viloyati Province</name>
+		<name normalized="Fargona Viloyati" languages="English;official">Fargona Viloyati</name>
+		<name normalized="Fargona Viloyati Province" languages="English;official">Fargona Viloyati Province</name>
+	</region>
+	<region name="Jizzax Viloyati" type="province" typeTranslated="viloyat">
+		<name normalized="Jizzax Viloyati" languages="English;official">Jizzax Viloyati</name>
+		<name normalized="Jizzax Viloyati Province" languages="English;official">Jizzax Viloyati Province</name>
+	</region>
+	<region name="Namangan Viloyati" type="province" typeTranslated="viloyat">
+		<name normalized="Namangan Viloyati" languages="English;official">Namangan Viloyati</name>
+		<name normalized="Namangan Viloyati Province" languages="English;official">Namangan Viloyati Province</name>
+	</region>
+	<region name="Navoiy Viloyati" type="province" typeTranslated="viloyat">
+		<name normalized="Navoiy Viloyati" languages="English;official">Navoiy Viloyati</name>
+		<name normalized="Navoiy Viloyati Province" languages="English;official">Navoiy Viloyati Province</name>
+	</region>
+	<region name="Qashqadaryo Viloyati" type="province" typeTranslated="viloyat">
+		<name normalized="Qashqadaryo Viloyati" languages="English;official">Qashqadaryo Viloyati</name>
+		<name normalized="Qashqadaryo Viloyati Province" languages="English;official">Qashqadaryo Viloyati Province</name>
+	</region>
+	<region name="Qoraqalpog'iston Respublikasi" type="autonomous republic" typeTranslated="autonomous republic">
+		<name normalized="Karakalpakstan Republic" languages="English;official">Karakalpakstan Republic</name>
+		<name normalized="Qoraqalpog'iston Respublikasi" languages="English;official">Qoraqalpog'iston Respublikasi</name>
+		<name normalized="Qoraqalpogiston Respublikasi" languages="English;official">Qoraqalpogiston Respublikasi</name>
+	</region>
+	<region name="Samarqand Viloyati" type="province" typeTranslated="viloyat">
+		<name normalized="Samarqand Viloyati" languages="English;official">Samarqand Viloyati</name>
+		<name normalized="Samarqand Viloyati Province" languages="English;official">Samarqand Viloyati Province</name>
+	</region>
+	<region name="Sirdaryo Viloyati" type="province" typeTranslated="viloyat">
+		<name normalized="Sirdaryo Viloyati" languages="English;official">Sirdaryo Viloyati</name>
+		<name normalized="Sirdaryo Viloyati Province" languages="English;official">Sirdaryo Viloyati Province</name>
+	</region>
+	<region name="Surxondaryo Viloyati" type="province" typeTranslated="viloyat">
+		<name normalized="Surxondaryo Viloyati" languages="English;official">Surxondaryo Viloyati</name>
+		<name normalized="Surxondaryo Viloyati Province" languages="English;official">Surxondaryo Viloyati Province</name>
+	</region>
+	<region name="Toshkent Shahri" type="city" typeTranslated="city">
+		<name normalized="Tashkent City" languages="English;official">Tashkent City</name>
+		<name normalized="Toshkent Shahri" languages="English;official">Toshkent Shahri</name>
+	</region>
+	<region name="Toshkent Viloyati" type="province" typeTranslated="viloyat">
+		<name normalized="Tashkent province" languages="English;official">Tashkent province</name>
+		<name normalized="Tashkent province Province" languages="English;official">Tashkent province Province</name>
+		<name normalized="Tashkent province Viloyat" languages="English;official">Tashkent province Viloyat</name>
+		<name normalized="Toshkent Viloyati" languages="English;official">Toshkent Viloyati</name>
+		<name normalized="Toshkent Viloyati Province" languages="English;official">Toshkent Viloyati Province</name>
+	</region>
+	<region name="Xorazm Viloyati" type="province" typeTranslated="viloyat">
+		<name normalized="Xorazm Viloyati" languages="English;official">Xorazm Viloyati</name>
+		<name normalized="Xorazm Viloyati Province" languages="English;official">Xorazm Viloyati Province</name>
+	</region>
+</regions>

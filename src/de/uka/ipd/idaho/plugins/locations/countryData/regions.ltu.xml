@@ -1,0 +1,496 @@
+<regions country="Lithuania">
+	<region name="Alytaus" type="county" typeTranslated="apskritis">
+		<name normalized="Alitus" languages="Uzbek;Veps">Alitus</name>
+		<name normalized="Alytaus" languages="English;official">Alytaus</name>
+		<name normalized="Alytaus Apskritis" languages="English;Lithuanian;official">Alytaus Apskritis</name>
+		<name normalized="Alytaus County" languages="English;official">Alytaus County</name>
+		<name normalized="Alytus" languages="Afrikaans;Aragonese;Catalan;Cornish;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Indonesian;Italian;Kalaallisut;Latin;Lithuanian;lumbaart;Maori;Norwegian (bokmal);Norwegian Nynorsk;Piedmontese;Portuguese;Romanian;Spanish;Swahili;Swedish;Turkish;Vietnamese;Volapuk">Alytus</name>
+		<name normalized="Alytus amt" languages="Danish">Alytus amt</name>
+		<name normalized="Alytus Coonty" languages="Scots">Alytus Coonty</name>
+		<name normalized="Alytus County" languages="English">Alytus County</name>
+		<name normalized="Alytus fylke" languages="Norwegian (bokmal)">Alytus fylke</name>
+		<name normalized="Alytuse maakond" languages="Estonian">Alytuse maakond</name>
+		<name normalized="Alytusin laani" languages="Finnish">Alytusin lääni</name>
+		<name normalized="Alytusko konderria" languages="Basque">Alytusko konderria</name>
+		<name normalized="Alytusky kraj" languages="Czech">Alytuský kraj</name>
+		<name normalized="Alita" languages="Latvian">Alīta</name>
+		<name normalized="Alitas aprinkis" languages="Latvian">Alītas apriņķis</name>
+		<name normalized="Alitaus apskretes" languages="Samogitian">Alītaus apskrėtės</name>
+		<name normalized="Alitos" languages="Samogitian">Alītos</name>
+		<name normalized="Apskritis d'Alytus" languages="French">Apskritis d'Alytus</name>
+		<name normalized="Bezirk Alytus" languages="German">Bezirk Alytus</name>
+		<name normalized="Comtat d'Alytus" languages="Catalan">Comtat d'Alytus</name>
+		<name normalized="Contea di Alytus" languages="Italian">Contea di Alytus</name>
+		<name normalized="County Alytus" languages="Indonesian">County Alytus</name>
+		<name normalized="Distrikt Alytus" languages="Seeltersk">Distrikt Alytus</name>
+		<name normalized="Distrikto Alytus" languages="Esperanto">Distrikto Alytus</name>
+		<name normalized="Județul Alytus" languages="Romanian">Județul Alytus</name>
+		<name normalized="Konteth Alytus" languages="Cornish">Konteth Alytus</name>
+		<name normalized="Okrug Alitus" languages="Croatian">Okrug Alitus</name>
+		<name normalized="Okreg olicki" languages="Polish">Okręg olicki</name>
+		<name normalized="Olita" languages="Polish">Olita</name>
+		<name normalized="Provincia de Alytus" languages="Spanish">Provincia de Alytus</name>
+		<name normalized="Wilaya ya Alytus" languages="Swahili">Wilaya ya Alytus</name>
+		<name normalized="Αλuτους" languages="Greek">Αλύτους</name>
+		<name normalized="Επαρχια Αλuτους" languages="Greek">Επαρχία Αλύτους</name>
+		<name normalized="Aлituс" languages="Bulgarian;Russian;Serbian">Алитус</name>
+		<name normalized="Aлituс okрug" languages="Serbian">Алитус округ</name>
+		<name normalized="Aлituсki okръg" languages="Bulgarian">Алитуски окръг</name>
+		<name normalized="Aлituссkiй uizd" languages="Russian">Алитусский уезд</name>
+		<name normalized="Aлita" languages="biлaрuсkai (taрaskivita)‎">Аліта</name>
+		<name normalized="Aлituс" languages="Ukrainian">Алітус</name>
+		<name normalized="Aлituсki pavit" languages="Belarusian">Алітускі павет</name>
+		<name normalized="Aлituсьkiй povit" languages="Ukrainian">Алітуський повіт</name>
+		<name normalized="Aлitki pavit" languages="biлaрuсkai (taрaskivita)‎">Аліцкі павет</name>
+		<name normalized="Goрad Aлituс" languages="Belarusian">Горад Алітус</name>
+		<name normalized="אדיtא" languages="Hebrew">אליטא</name>
+		<name normalized="ألytس" languages="Arabic">أليتس</name>
+		<name normalized="אلوtس" languages="Western Punjabi">الوتس</name>
+		<name normalized="אلوtس کאؤنٹی" languages="Western Punjabi">الوتس کاؤنٹی</name>
+		<name normalized="mqאtعة ألytس" languages="Arabic">مقاطعة أليتس</name>
+		<name normalized="ალიტუსი" languages="Georgian">ალიტუსი</name>
+		<name normalized="ალიტუსის მაზრა" languages="Georgian">ალიტუსის მაზრა</name>
+		<name normalized="arーtus" languages="Japanese">アリートゥス</name>
+		<name normalized="arーtus県" languages="Japanese">アリートゥス県</name>
+		<name normalized="阿利图斯" languages="Chinese">阿利图斯</name>
+		<name normalized="阿利圖斯縣" languages="Chinese">阿利圖斯縣</name>
+		<name normalized="알리투스" languages="Korean">알리투스</name>
+		<name normalized="알리투스 주" languages="Korean">알리투스 주</name>
+	</region>
+	<region name="Kauno" type="county" typeTranslated="apskritis">
+		<name normalized="Apskritis de Kaunas" languages="French">Apskritis de Kaunas</name>
+		<name normalized="Bezirk Kaunas" languages="German">Bezirk Kaunas</name>
+		<name normalized="Comtat de Kaunas" languages="Catalan">Comtat de Kaunas</name>
+		<name normalized="Contea di Kaunas" languages="Italian">Contea di Kaunas</name>
+		<name normalized="Couna" languages="Latin">Couna</name>
+		<name normalized="County Kaunas" languages="Indonesian">County Kaunas</name>
+		<name normalized="Distrikt Kaunas" languages="Seeltersk">Distrikt Kaunas</name>
+		<name normalized="Distrikto Kaunas" languages="Esperanto">Distrikto Kaunas</name>
+		<name normalized="Județul Kaunas" languages="Romanian">Județul Kaunas</name>
+		<name normalized="Kauna apskretes" languages="Samogitian">Kauna apskrėtės</name>
+		<name normalized="Kaunas" languages="Afrikaans;Aragonese;Asturian;Basque;Breton;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Estonian;Ewe;Finnish;French;Galician;Ganda;German;Hungarian;Icelandic;Ido;Indonesian;Interlingue;Italian;Kalaallisut;Kashubian;Kurdish;Ladino;Lithuanian;Low German;lumbaart;Malay;Maori;Norwegian (bokmal);Norwegian Nynorsk;Occitan;Piedmontese;Portuguese;Romanian;Scots;Scottish Gaelic;Seeltersk;Serbo-Croatian;Simple English;Slovak;Spanish;Swahili;Swedish;Turkish;Veps;Vietnamese;Volapuk;Waray">Kaunas</name>
+		<name normalized="Kaunas amt" languages="Danish">Kaunas amt</name>
+		<name normalized="Kaunas Coonty" languages="Scots">Kaunas Coonty</name>
+		<name normalized="Kaunas County" languages="English">Kaunas County</name>
+		<name normalized="Kaunas fylke" languages="Norwegian (bokmal)">Kaunas fylke</name>
+		<name normalized="Kaunase maakond" languages="Estonian">Kaunase maakond</name>
+		<name normalized="Kaunasin laani" languages="Finnish">Kaunasin lääni</name>
+		<name normalized="Kaunasko konderria" languages="Basque">Kaunasko konderria</name>
+		<name normalized="Kaunasky kraj" languages="Czech">Kaunaský kraj</name>
+		<name normalized="Kauno" languages="English;official">Kauno</name>
+		<name normalized="Kauno Apskritis" languages="English;Lithuanian;official">Kauno Apskritis</name>
+		<name normalized="Kauno County" languages="English;official">Kauno County</name>
+		<name normalized="Kauns" languages="Samogitian">Kauns</name>
+		<name normalized="Kauna" languages="Latvian">Kauņa</name>
+		<name normalized="Kaunas aprinkis" languages="Latvian">Kauņas apriņķis</name>
+		<name normalized="Kawnas" languages="Aymara">Kawnas</name>
+		<name normalized="Kauno" languages="Esperanto">Kaŭno</name>
+		<name normalized="Konteth Kaunas" languages="Cornish">Konteth Kaunas</name>
+		<name normalized="Kowno" languages="Polish">Kowno</name>
+		<name normalized="Okrug Kaunas" languages="Croatian">Okrug Kaunas</name>
+		<name normalized="Okreg kowienski" languages="Polish">Okręg kowieński</name>
+		<name normalized="Provincia de Kaunas" languages="Spanish">Provincia de Kaunas</name>
+		<name normalized="Wilaya ya Kaunas" languages="Swahili">Wilaya ya Kaunas</name>
+		<name normalized="Επαρχια Καουνας" languages="Greek">Επαρχία Κάουνας</name>
+		<name normalized="Καουνας" languages="Greek">Κάουνας</name>
+		<name normalized="Goрad Kaўнaс" languages="Belarusian">Горад Каўнас</name>
+		<name normalized="Kauнaс" languages="Bulgarian;Chechen;Chuvash;Kyrgyz;Macedonian;Mongolian;Ossetic;Russian;Serbian;Tatar;Ukrainian">Каунас</name>
+		<name normalized="Kauнaс okрug" languages="Serbian">Каунас округ</name>
+		<name normalized="Kauнaсki okръg" languages="Bulgarian">Каунаски окръг</name>
+		<name normalized="Kauнaссkiй uizd" languages="Russian">Каунасский уезд</name>
+		<name normalized="Kauнaсьkiй povit" languages="Ukrainian">Каунаський повіт</name>
+		<name normalized="Kaўнaсki pavit" languages="Belarusian">Каўнаскі павет</name>
+		<name normalized="Koviнсki pavit" languages="biлaрuсkai (taрaskivita)‎">Ковенскі павет</name>
+		<name normalized="Koўнa" languages="biлaрuсkai (taрaskivita)‎">Коўна</name>
+		<name normalized="qאvvnע" languages="Yiddish">קאוונע</name>
+		<name normalized="qvbnh" languages="Hebrew">קובנה</name>
+		<name normalized="kאونאس" languages="Arabic">كاوناس</name>
+		<name normalized="mqאtعة kאونאس" languages="Arabic">مقاطعة كاوناس</name>
+		<name normalized="کאؤنאس" languages="Western Punjabi">کاؤناس</name>
+		<name normalized="کאؤنאس کאؤنٹی" languages="Western Punjabi">کاؤناس کاؤنٹی</name>
+		<name normalized="کאونאس" languages="Persian">کاوناس</name>
+		<name normalized="konाs" languages="Marathi">कॉनास</name>
+		<name normalized="เคานัส" languages="Thai">เคานัส</name>
+		<name normalized="კაუნასი" languages="Georgian">კაუნასი</name>
+		<name normalized="კაუნასის მაზრა" languages="Georgian">კაუნასის მაზრა</name>
+		<name normalized="ᑯᓇᔅ/kunas" languages="Inuktitut">ᑯᓇᔅ/kunas</name>
+		<name normalized="kuns" languages="Japanese">カウナス</name>
+		<name normalized="kuns県" languages="Japanese">カウナス県</name>
+		<name normalized="考那斯" languages="Chinese">考那斯</name>
+		<name normalized="考那斯縣" languages="Chinese">考那斯縣</name>
+		<name normalized="카우나스" languages="Korean">카우나스</name>
+		<name normalized="카우나스 주" languages="Korean">카우나스 주</name>
+	</region>
+	<region name="Klaipedos" type="county" typeTranslated="apskritis">
+		<name normalized="Apskritis de Klaipeda" languages="French">Apskritis de Klaipėda</name>
+		<name normalized="Bezirk Klaipeda" languages="German">Bezirk Klaipėda</name>
+		<name normalized="Comtat de Klaipeda" languages="Catalan">Comtat de Klaipėda</name>
+		<name normalized="Contea di Klaipeda" languages="Italian">Contea di Klaipėda</name>
+		<name normalized="County Klaipeda" languages="Indonesian">County Klaipėda</name>
+		<name normalized="Det tidligere Klaipeda amt" languages="Danish">Det tidligere Klaipėda amt</name>
+		<name normalized="Distrikt Klaipeda" languages="Seeltersk">Distrikt Klaipėda</name>
+		<name normalized="Distrikto Klaipeda" languages="Esperanto">Distrikto Klaipėda</name>
+		<name normalized="Județul Klaipeda" languages="Romanian">Județul Klaipėda</name>
+		<name normalized="Klaipedos" languages="English;official">Klaipedos</name>
+		<name normalized="Klaipedos Apskritis" languages="English;official">Klaipedos Apskritis</name>
+		<name normalized="Klaipedos County" languages="English;official">Klaipedos County</name>
+		<name normalized="Klaipiedas apskretes" languages="Samogitian">Klaipiedas apskrėtės</name>
+		<name normalized="Klaipedas aprinkis" languages="Latvian">Klaipēdas apriņķis</name>
+		<name normalized="Klaipeda" languages="Dutch;Portuguese;Swedish">Klaipėda</name>
+		<name normalized="Klaipeda Coonty" languages="Scots">Klaipėda Coonty</name>
+		<name normalized="Klaipeda County" languages="English">Klaipėda County</name>
+		<name normalized="Klaipeda fylke" languages="Norwegian (bokmal)">Klaipėda fylke</name>
+		<name normalized="Klaipeda maakond" languages="Estonian">Klaipėda maakond</name>
+		<name normalized="Klaipedako konderria" languages="Basque">Klaipėdako konderria</name>
+		<name normalized="Klaipedan laani" languages="Finnish">Klaipėdan lääni</name>
+		<name normalized="Klaipedos apskritis" languages="Lithuanian">Klaipėdos apskritis</name>
+		<name normalized="Klaipedsky kraj" languages="Czech">Klaipėdský kraj</name>
+		<name normalized="Konteth Klaipeda" languages="Cornish">Konteth Klaipėda</name>
+		<name normalized="Memela" languages="Latin">Memela</name>
+		<name normalized="Okrug Klaipeda" languages="Croatian">Okrug Klaipėda</name>
+		<name normalized="Okreg klajpedzki" languages="Polish">Okręg kłajpedzki</name>
+		<name normalized="Provincia de Klaipeda" languages="Spanish">Provincia de Klaipėda</name>
+		<name normalized="Wilaya ya Klaipeda" languages="Swahili">Wilaya ya Klaipėda</name>
+		<name normalized="Επαρχια Κλαιπeντα" languages="Greek">Επαρχία Κλαϊπέντα</name>
+		<name normalized="Viлoiti Kлaйpida" languages="Tajik">Вилояти Клайпеда</name>
+		<name normalized="Kлaйpidzki pavit" languages="biлaрuсkai (taрaskivita)‎">Клайпедзкі павет</name>
+		<name normalized="Kлaйpidсki okръg" languages="Bulgarian">Клайпедски окръг</name>
+		<name normalized="Kлaйpidсkiй uizd" languages="Russian">Клайпедский уезд</name>
+		<name normalized="Kлaйpidсki pavit" languages="Belarusian">Клайпедскі павет</name>
+		<name normalized="Kлaйpidсьkiй povit" languages="Ukrainian">Клайпедський повіт</name>
+		<name normalized="Kлajpida" languages="Serbian">Клајпеда</name>
+		<name normalized="mqאtعة kلאybyدא" languages="Arabic">مقاطعة كلايبيدا</name>
+		<name normalized="کلאئیpیدא کאؤنٹی" languages="Western Punjabi">کلائیپیدا کاؤنٹی</name>
+		<name normalized="კლაიპედის მაზრა" languages="Georgian">კლაიპედის მაზრა</name>
+		<name normalized="kripd県" languages="Japanese">クライペダ県</name>
+		<name normalized="克萊佩達縣" languages="Chinese">克萊佩達縣</name>
+		<name normalized="클라이페다 주" languages="Korean">클라이페다 주</name>
+	</region>
+	<region name="Marijampoles" type="county" typeTranslated="apskritis">
+		<name normalized="Apskritis de Marijampole" languages="French">Apskritis de Marijampolė</name>
+		<name normalized="Bezirk Marijampole" languages="German">Bezirk Marijampolė</name>
+		<name normalized="Comtat de Marijampole" languages="Catalan">Comtat de Marijampolė</name>
+		<name normalized="Contea di Marijampole" languages="Italian">Contea di Marijampolė</name>
+		<name normalized="County Marijampole" languages="Indonesian">County Marijampolė</name>
+		<name normalized="Distrikt Marijampole" languages="Seeltersk">Distrikt Marijampolė</name>
+		<name normalized="Distrikto Marijampole" languages="Esperanto">Distrikto Marijampolė</name>
+		<name normalized="Județul Marijampole" languages="Romanian">Județul Marijampolė</name>
+		<name normalized="Konteth Marijampole" languages="Cornish">Konteth Marijampolė</name>
+		<name normalized="Marijampoles" languages="English;official">Marijampoles</name>
+		<name normalized="Marijampoles aprinkis" languages="Latvian">Marijampoles apriņķis</name>
+		<name normalized="Marijampoles Apskritis" languages="English;official">Marijampoles Apskritis</name>
+		<name normalized="Marijampoles County" languages="English;official">Marijampoles County</name>
+		<name normalized="Marijampolsky kraj" languages="Czech">Marijampolský kraj</name>
+		<name normalized="Marijampole" languages="Dutch;Latin;Portuguese;Swedish;Vietnamese">Marijampolė</name>
+		<name normalized="Marijampole amt" languages="Danish">Marijampolė amt</name>
+		<name normalized="Marijampole Coonty" languages="Scots">Marijampolė Coonty</name>
+		<name normalized="Marijampole County" languages="English">Marijampolė County</name>
+		<name normalized="Marijampole fylke" languages="Norwegian (bokmal)">Marijampolė fylke</name>
+		<name normalized="Marijampole maakond" languages="Estonian">Marijampolė maakond</name>
+		<name normalized="Marijampoleko konderria" languages="Basque">Marijampolėko konderria</name>
+		<name normalized="Marijampolen laani" languages="Finnish">Marijampolėn lääni</name>
+		<name normalized="Marijampoles apskritis" languages="Lithuanian">Marijampolės apskritis</name>
+		<name normalized="Marejampuoles apskretes" languages="Samogitian">Marėjampuolės apskrėtės</name>
+		<name normalized="Okrug Marijampole" languages="Croatian">Okrug Marijampolė</name>
+		<name normalized="Okreg mariampolski" languages="Polish">Okręg mariampolski</name>
+		<name normalized="Provincia de Marijampole" languages="Spanish">Provincia de Marijampolė</name>
+		<name normalized="Wilaya ya Marijampole" languages="Swahili">Wilaya ya Marijampolė</name>
+		<name normalized="Επαρχια Μαριγιαμπολe" languages="Greek">Επαρχία Μαριγιαμπολέ</name>
+		<name normalized="Viлoiti Мaрiiмpoлi" languages="Tajik">Вилояти Мариямполе</name>
+		<name normalized="Zudituл Мaрiiмpoлi" languages="Moldavian">Жудецул Мариямполе</name>
+		<name normalized="Мaрiiмpoлсki okръg" languages="Bulgarian">Мариямполски окръг</name>
+		<name normalized="Мaрiiмpoльсkiй uizd" languages="Russian">Мариямпольский уезд</name>
+		<name normalized="Мaрijaмpoлi okрug" languages="Serbian">Маријамполе округ</name>
+		<name normalized="Мaрыiмpaльсki pavit" languages="Belarusian">Марыямпальскі павет</name>
+		<name normalized="Мaрiiмpoльсьkiй povit" languages="Ukrainian">Маріямпольський повіт</name>
+		<name normalized="Мaр'iмpaльсki pavit" languages="biлaрuсkai (taрaskivita)‎">Мар’ямпальскі павет</name>
+		<name normalized="mאrیjmpولے کאؤنٹی" languages="Western Punjabi">ماریجمپولے کاؤنٹی</name>
+		<name normalized="mqאtعة myrאyאmbولh" languages="Arabic">مقاطعة ميرايامبوله</name>
+		<name normalized="მარიამპოლის მაზრა" languages="Georgian">მარიამპოლის მაზრა</name>
+		<name normalized="mryーnpr県" languages="Japanese">マリヤーンポレ県</name>
+		<name normalized="馬里揚泊列縣" languages="Chinese">馬里揚泊列縣</name>
+		<name normalized="마리얌폴레 주" languages="Korean">마리얌폴레 주</name>
+	</region>
+	<region name="Panevezio" type="county" typeTranslated="apskritis">
+		<name normalized="Panevezio" languages="English;official">Panevezio</name>
+		<name normalized="Panevezio Apskritis" languages="English;official">Panevezio Apskritis</name>
+		<name normalized="Panevezio County" languages="English;official">Panevezio County</name>
+	</region>
+	<region name="Siauliu" type="county" typeTranslated="apskritis">
+		<name normalized="Apskritis de Siauliai" languages="French">Apskritis de Šiauliai</name>
+		<name normalized="Bezirk Siauliai" languages="German">Bezirk Šiauliai</name>
+		<name normalized="Comtat de Siauliai" languages="Catalan">Comtat de Šiauliai</name>
+		<name normalized="Contea di Siauliai" languages="Italian">Contea di Šiauliai</name>
+		<name normalized="County Siauliai" languages="Indonesian">County Šiauliai</name>
+		<name normalized="Distrikt Siauliai" languages="Seeltersk">Distrikt Šiauliai</name>
+		<name normalized="Distrikto Siauliai" languages="Esperanto">Distrikto Šiauliai</name>
+		<name normalized="Județul Siauliai" languages="Romanian">Județul Šiauliai</name>
+		<name normalized="Konteth Siauliai" languages="Cornish">Konteth Šiauliai</name>
+		<name normalized="Okrug Siauliai" languages="Croatian">Okrug Šiauliai</name>
+		<name normalized="Okreg szawelski" languages="Polish">Okręg szawelski</name>
+		<name normalized="Provincia de Siauliai" languages="Spanish">Provincia de Šiauliai</name>
+		<name normalized="Siauliu" languages="English;official">Siauliu</name>
+		<name normalized="Siauliu Apskritis" languages="English;official">Siauliu Apskritis</name>
+		<name normalized="Siauliu County" languages="English;official">Siauliu County</name>
+		<name normalized="Wilaya ya Siauliai" languages="Swahili">Wilaya ya Šiauliai</name>
+		<name normalized="Saulu aprinkis" languages="Latvian">Šauļu apriņķis</name>
+		<name normalized="Siauliai" languages="Dutch;Latin;Portuguese;Swedish">Šiauliai</name>
+		<name normalized="Siauliai amt" languages="Danish">Šiauliai amt</name>
+		<name normalized="Siauliai Coonty" languages="Scots">Šiauliai Coonty</name>
+		<name normalized="Siauliai County" languages="English">Šiauliai County</name>
+		<name normalized="Siauliai fylke" languages="Norwegian (bokmal);Norwegian Nynorsk">Šiauliai fylke</name>
+		<name normalized="Siauliai maakond" languages="Estonian">Šiauliai maakond</name>
+		<name normalized="Siauliaiko konderria" languages="Basque">Šiauliaiko konderria</name>
+		<name normalized="Siauliain laani" languages="Finnish">Šiauliain lääni</name>
+		<name normalized="Siauliaisky kraj" languages="Czech">Šiauliaiský kraj</name>
+		<name normalized="Siauliu apskretes" languages="Samogitian">Šiauliū apskrėtės</name>
+		<name normalized="Siauliu apskritis" languages="Lithuanian">Šiaulių apskritis</name>
+		<name normalized="Επαρχια Σιαουλιαι" languages="Greek">Επαρχία Σιαουλιάι</name>
+		<name normalized="Viлoiti Siuлiй" languages="Tajik">Вилояти Шяуляй</name>
+		<name normalized="Saviльсki pavit" languages="biлaрuсkai (taрaskivita)‎">Шавельскі павет</name>
+		<name normalized="Saўлiйсki pavit" languages="Belarusian">Шаўляйскі павет</name>
+		<name normalized="Siuлiйсki okръg" languages="Bulgarian">Шяуляйски окръг</name>
+		<name normalized="Siuлiйсkiй uizd" languages="Russian">Шяуляйский уезд</name>
+		<name normalized="Siuлiйсьkiй povit" languages="Ukrainian">Шяуляйський повіт</name>
+		<name normalized="Sjaulaj" languages="Serbian">Шјауљај</name>
+		<name normalized="شیאؤلیאئی کאؤنٹی" languages="Western Punjabi">شیاؤلیائی کاؤنٹی</name>
+		<name normalized="mqאtعة شyאولyאy" languages="Arabic">مقاطعة شياولياي</name>
+		<name normalized="შიაულიაის მაზრა" languages="Georgian">შიაულიაის მაზრა</name>
+		<name normalized="syuri県" languages="Japanese">シャウレイ県</name>
+		<name normalized="希奧利艾縣" languages="Chinese">希奧利艾縣</name>
+		<name normalized="샤울랴이 주" languages="Korean">샤울랴이 주</name>
+	</region>
+	<region name="Taurages" type="county" typeTranslated="apskritis">
+		<name normalized="Apskritis de Taurage" languages="French">Apskritis de Tauragė</name>
+		<name normalized="Bezirk Taurage" languages="German">Bezirk Tauragė</name>
+		<name normalized="Comtat de Taurage" languages="Catalan">Comtat de Tauragė</name>
+		<name normalized="Contea di Taurage" languages="Italian">Contea di Tauragė</name>
+		<name normalized="County Taurage" languages="Indonesian">County Tauragė</name>
+		<name normalized="Distrikt Taurage" languages="Seeltersk">Distrikt Tauragė</name>
+		<name normalized="Distrikto Taurage" languages="Esperanto">Distrikto Tauragė</name>
+		<name normalized="Județul Taurage" languages="Romanian">Județul Tauragė</name>
+		<name normalized="Konteth Taurage" languages="Cornish">Konteth Tauragė</name>
+		<name normalized="Okrug Taurage" languages="Croatian">Okrug Tauragė</name>
+		<name normalized="Okreg tauroski" languages="Polish">Okręg tauroski</name>
+		<name normalized="Provincia de Taurage" languages="Spanish">Provincia de Tauragė</name>
+		<name normalized="Taurages" languages="English;official">Taurages</name>
+		<name normalized="Taurages Apskritis" languages="English;official">Taurages Apskritis</name>
+		<name normalized="Taurages County" languages="English;official">Taurages County</name>
+		<name normalized="Tauragies apskretes" languages="Samogitian">Tauragies apskrėtės</name>
+		<name normalized="Taurage" languages="Dutch;Latin;Portuguese;Swedish">Tauragė</name>
+		<name normalized="Taurage amt" languages="Danish">Tauragė amt</name>
+		<name normalized="Taurage Coonty" languages="Scots">Tauragė Coonty</name>
+		<name normalized="Taurage County" languages="English">Tauragė County</name>
+		<name normalized="Taurage fylke" languages="Norwegian (bokmal)">Tauragė fylke</name>
+		<name normalized="Taurage maakond" languages="Estonian">Tauragė maakond</name>
+		<name normalized="Taurageko konderria" languages="Basque">Tauragėko konderria</name>
+		<name normalized="Tauragen laani" languages="Finnish">Tauragėn lääni</name>
+		<name normalized="Taurages apskritis" languages="Lithuanian">Tauragės apskritis</name>
+		<name normalized="Tauragesky kraj" languages="Czech">Tauragėský kraj</name>
+		<name normalized="Taurages aprinkis" languages="Latvian">Tauraģes apriņķis</name>
+		<name normalized="Wilaya ya Taurage" languages="Swahili">Wilaya ya Tauragė</name>
+		<name normalized="Επαρχια Ταουραγκe" languages="Greek">Επαρχία Ταουραγκέ</name>
+		<name normalized="Viлoiti Tauрagi" languages="Tajik">Вилояти Таураге</name>
+		<name normalized="Okрug Tauрagi" languages="Serbian">Округ Таураге</name>
+		<name normalized="Tauрagсki okръg" languages="Bulgarian">Таурагски окръг</name>
+		<name normalized="Tauрagсkiй uizd" languages="Russian">Таурагский уезд</name>
+		<name normalized="Tauрagсьkiй povit" languages="Ukrainian">Таурагський повіт</name>
+		<name normalized="Taўрagсki pavit" languages="Belarusian">Таўрагскі павет</name>
+		<name normalized="Taўрoсki pavit" languages="biлaрuсkai (taрaskivita)‎">Таўроскі павет</name>
+		<name normalized="tאؤrאgے کאؤنٹی" languages="Western Punjabi">تاؤراگے کاؤنٹی</name>
+		<name normalized="mqאtعة tאوrאغh" languages="Arabic">مقاطعة تاوراغه</name>
+		<name normalized="ტაურაგეს მაზრა" languages="Georgian">ტაურაგეს მაზრა</name>
+		<name normalized="turg県" languages="Japanese">タウラゲ県</name>
+		<name normalized="陶拉格縣" languages="Chinese">陶拉格縣</name>
+		<name normalized="타우라게 주" languages="Korean">타우라게 주</name>
+	</region>
+	<region name="Telsiu" type="county" typeTranslated="apskritis">
+		<name normalized="Apskritis de Telsiai" languages="French">Apskritis de Telšiai</name>
+		<name normalized="Bezirk Telsiai" languages="German">Bezirk Telšiai</name>
+		<name normalized="Comtat de Telsiai" languages="Catalan">Comtat de Telšiai</name>
+		<name normalized="Contea di Telsiai" languages="Italian">Contea di Telšiai</name>
+		<name normalized="County Telsiai" languages="Indonesian">County Telšiai</name>
+		<name normalized="Distrikt Telsiai" languages="Seeltersk">Distrikt Telšiai</name>
+		<name normalized="Distrikto Telsiao" languages="Esperanto">Distrikto Telŝiao</name>
+		<name normalized="Județul Telsiai" languages="Romanian">Județul Telšiai</name>
+		<name normalized="Konteth Telsiai" languages="Cornish">Konteth Telšiai</name>
+		<name normalized="Okrug Telsiai" languages="Croatian">Okrug Telšiai</name>
+		<name normalized="Okreg telszanski" languages="Polish">Okręg telszański</name>
+		<name normalized="Provincia de Telsiai" languages="Spanish">Provincia de Telšiai</name>
+		<name normalized="Telsiu" languages="English;official">Telsiu</name>
+		<name normalized="Telsiu Apskritis" languages="English;official">Telsiu Apskritis</name>
+		<name normalized="Telsiu County" languages="English;official">Telsiu County</name>
+		<name normalized="Telsiai" languages="Dutch;Latin;Portuguese;Swedish">Telšiai</name>
+		<name normalized="Telsiai amt" languages="Danish">Telšiai amt</name>
+		<name normalized="Telsiai Coonty" languages="Scots">Telšiai Coonty</name>
+		<name normalized="Telsiai County" languages="English">Telšiai County</name>
+		<name normalized="Telsiai fylke" languages="Norwegian (bokmal)">Telšiai fylke</name>
+		<name normalized="Telsiai maakond" languages="Estonian">Telšiai maakond</name>
+		<name normalized="Telsiaiko konderria" languages="Basque">Telšiaiko konderria</name>
+		<name normalized="Telsiain laani" languages="Finnish">Telšiain lääni</name>
+		<name normalized="Telsiajsky kraj" languages="Czech">Telšiajský kraj</name>
+		<name normalized="Telsiu apskretes" languages="Samogitian">Telšiū apskrėtės</name>
+		<name normalized="Telsiu apskritis" languages="Lithuanian">Telšių apskritis</name>
+		<name normalized="Telsu aprinkis" languages="Latvian">Telšu apriņķis</name>
+		<name normalized="Wilaya ya Telsiai" languages="Swahili">Wilaya ya Telšiai</name>
+		<name normalized="Επαρχια Τελσιαι" languages="Greek">Επαρχία Τελσιάι</name>
+		<name normalized="Viлoiti Tiлsiй" languages="Tajik">Вилояти Телшяй</name>
+		<name normalized="Tiлsiйсki okръg" languages="Bulgarian">Телшяйски окръг</name>
+		<name normalized="Tiлsjaj" languages="Serbian">Телшјај</name>
+		<name normalized="Tiльsiйсkiй uizd" languages="Russian">Тельшяйский уезд</name>
+		<name normalized="Tiльsiйсьkiй povit" languages="Ukrainian">Тельшяйський повіт</name>
+		<name normalized="Tiльsaйсki pavit" languages="Belarusian">Цельшайскі павет</name>
+		<name normalized="Tiльsыtki pavit" languages="biлaрuсkai (taрaskivita)‎">Цельшыцкі павет</name>
+		<name normalized="tیلشیאئی کאؤنٹی" languages="Western Punjabi">تیلشیائی کاؤنٹی</name>
+		<name normalized="mqאtعة tyلسyאy" languages="Arabic">مقاطعة تيلسياي</name>
+		<name normalized="ტელშიაის მაზრა" languages="Georgian">ტელშიაის მაზრა</name>
+		<name normalized="trsei県" languages="Japanese">テルシェイ県</name>
+		<name normalized="特爾希艾縣" languages="Chinese">特爾希艾縣</name>
+		<name normalized="텔샤이 주" languages="Korean">텔샤이 주</name>
+	</region>
+	<region name="Utenos" type="county" typeTranslated="apskritis">
+		<name normalized="Apskritis d'Utena" languages="French">Apskritis d'Utena</name>
+		<name normalized="Bezirk Utena" languages="German">Bezirk Utena</name>
+		<name normalized="Comtat d'Utena" languages="Catalan">Comtat d'Utena</name>
+		<name normalized="Contea di Utena" languages="Italian">Contea di Utena</name>
+		<name normalized="County Utena" languages="Indonesian">County Utena</name>
+		<name normalized="Distrikt Utena" languages="Seeltersk">Distrikt Utena</name>
+		<name normalized="Distrikto Utena" languages="Esperanto">Distrikto Utena</name>
+		<name normalized="Județul Utena" languages="Romanian">Județul Utena</name>
+		<name normalized="Konteth Utena" languages="Cornish">Konteth Utena</name>
+		<name normalized="Okrug Utena" languages="Croatian">Okrug Utena</name>
+		<name normalized="Okreg ucianski" languages="Polish">Okręg uciański</name>
+		<name normalized="Otena" languages="Samogitian">Otena</name>
+		<name normalized="Otenas apskretes" languages="Samogitian">Otenas apskrėtės</name>
+		<name normalized="Provincia de Utena" languages="Spanish">Provincia de Utena</name>
+		<name normalized="Uciana" languages="Polish">Uciana</name>
+		<name normalized="Utena" languages="Bosnian;Catalan;Cornish;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;German;Indonesian;Italian;Kalaallisut;Latin;Latvian;Lithuanian;Maori;Norwegian (bokmal);Norwegian Nynorsk;Piedmontese;Portuguese;Romanian;Spanish;Swahili;Swedish;Vietnamese;Volapuk">Utena</name>
+		<name normalized="Utena amt" languages="Danish">Utena amt</name>
+		<name normalized="Utena Coonty" languages="Scots">Utena Coonty</name>
+		<name normalized="Utena County" languages="English">Utena County</name>
+		<name normalized="Utena fylke" languages="Norwegian (bokmal)">Utena fylke</name>
+		<name normalized="Utena ili" languages="Turkish">Utena ili</name>
+		<name normalized="Utena maakond" languages="Estonian">Utena maakond</name>
+		<name normalized="Utenako konderria" languages="Basque">Utenako konderria</name>
+		<name normalized="Utenan laani" languages="Finnish">Utenan lääni</name>
+		<name normalized="Utenas aprinkis" languages="Latvian">Utenas apriņķis</name>
+		<name normalized="Utenos" languages="English;official">Utenos</name>
+		<name normalized="Utenos Apskritis" languages="English;Lithuanian;official">Utenos Apskritis</name>
+		<name normalized="Utenos County" languages="English;official">Utenos County</name>
+		<name normalized="Utensky kraj" languages="Czech">Utenský kraj</name>
+		<name normalized="Wilaya ya Utena" languages="Swahili">Wilaya ya Utena</name>
+		<name normalized="Επαρχια Ουτeνα" languages="Greek">Επαρχία Ουτένα</name>
+		<name normalized="Ουτeνα" languages="Greek">Ουτένα</name>
+		<name normalized="Viлoiti Utiнa" languages="Tajik">Вилояти Утена</name>
+		<name normalized="Goрad Utiнa" languages="Belarusian">Горад Уціна</name>
+		<name normalized="Utiнa" languages="Bulgarian;Russian;Serbian;Ukrainian">Утена</name>
+		<name normalized="Utiнсki okръg" languages="Bulgarian">Утенски окръг</name>
+		<name normalized="Utiнсkiй uizd" languages="Russian">Утенский уезд</name>
+		<name normalized="Utiнсьkiй povit" languages="Ukrainian">Утенський повіт</name>
+		<name normalized="Utiнa" languages="biлaрuсkai (taрaskivita)‎">Уцяна</name>
+		<name normalized="Utiнсki pavit" languages="biлaрuсkai (taрaskivita)‎">Уцянскі павет</name>
+		<name normalized="Utiнсki pavit" languages="Belarusian">Уцінскі павет</name>
+		<name normalized="אوtینא" languages="Western Punjabi">اوتینا</name>
+		<name normalized="אوtینא کאؤنٹی" languages="Western Punjabi">اوتینا کاؤنٹی</name>
+		<name normalized="mqאtعة أوtyنא" languages="Arabic">مقاطعة أوتينا</name>
+		<name normalized="უტენა" languages="Georgian">უტენა</name>
+		<name normalized="უტენის მაზრა" languages="Georgian">უტენის მაზრა</name>
+		<name normalized="utn" languages="Japanese">ウテナ</name>
+		<name normalized="utn県" languages="Japanese">ウテナ県</name>
+		<name normalized="乌田纳" languages="Chinese">乌田纳</name>
+		<name normalized="烏田納縣" languages="Chinese">烏田納縣</name>
+		<name normalized="우테나" languages="Korean">우테나</name>
+		<name normalized="우테나 주" languages="Korean">우테나 주</name>
+	</region>
+	<region name="Vilniaus" type="county" typeTranslated="apskritis">
+		<name normalized="Apskritis de Vilnius" languages="French">Apskritis de Vilnius</name>
+		<name normalized="Bezirk Vilnius" languages="German">Bezirk Vilnius</name>
+		<name normalized="Comtat de Vilnius" languages="Catalan">Comtat de Vílnius</name>
+		<name normalized="Contea di Vilnius" languages="Italian">Contea di Vilnius</name>
+		<name normalized="County Vilnius" languages="Indonesian">County Vilnius</name>
+		<name normalized="Distrikt Vilnius" languages="Seeltersk">Distrikt Vilnius</name>
+		<name normalized="Distrikto Vilno" languages="Esperanto">Distrikto Vilno</name>
+		<name normalized="Filnius" languages="Yoruba">Filnius</name>
+		<name normalized="IVilnyusi" languages="Zulu">IVilnyusi</name>
+		<name normalized="Județul Vilnius" languages="Romanian">Județul Vilnius</name>
+		<name normalized="Konteth Vilnius" languages="Cornish">Konteth Vilnius</name>
+		<name normalized="Okrug Vilnius" languages="Croatian">Okrug Vilnius</name>
+		<name normalized="Okreg wilenski" languages="Polish">Okręg wileński</name>
+		<name normalized="Provincia de Vilna" languages="Spanish">Provincia de Vilna</name>
+		<name normalized="Vil'nus" languages="Veps">Vil'nüs</name>
+		<name normalized="Vilna" languages="Aragonese;Finnish;Ladino;Latin;Slovenian;Spanish;Tagalog;veneto">Vilna</name>
+		<name normalized="Vilnan laani" languages="Finnish">Vilnan lääni</name>
+		<name normalized="Vilnias" languages="Irish">Vilnias</name>
+		<name normalized="Vilniaus" languages="English;official">Vilniaus</name>
+		<name normalized="Vilniaus Apskritis" languages="English;Lithuanian;official">Vilniaus Apskritis</name>
+		<name normalized="Vilniaus County" languages="English;official">Vilniaus County</name>
+		<name normalized="Vilnis" languages="Haitian">Vilnis</name>
+		<name normalized="Vilnius" languages="Achinese;Afrikaans;Albanian;Asturian;Basque;Bislama;Bosnian;Breton;Cebuano;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Dutch;English;Estonian;Ewe;Faroese;Fiji Hindi;Franco-Provencal;French;Galician;Ganda;German;Guarani;Hungarian;Ido;Indonesian;Interlingue;Italian;Kalaallisut;Kinyarwanda;Kongo;Kurdish;Ligure;Lithuanian;Low German;Lower Sorbian;lumbaart;Luxembourgish;Malagasy;Malay;Maltese;Manx;Maori;Nahuatl;Nauru;Neapolitan;Norfuk / Pitkern;Northern Frisian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;Old English;Piedmontese;Portuguese;Quechua;Romanian;Sango;Scots;Scottish Gaelic;Seeltersk;Serbo-Croatian;Shona;Silesian;Simple English;Slovak;Southern Sotho;Swahili;Swati;Swedish;Tetum;Tok Pisin;Turkish;Upper Sorbian;Vietnamese;Volapuk;Voro;Waray;Welsh;Zeeuws">Vilnius</name>
+		<name normalized="Vilnius amt" languages="Danish">Vilnius amt</name>
+		<name normalized="Vilnius Coonty" languages="Scots">Vilnius Coonty</name>
+		<name normalized="Vilnius County" languages="English">Vilnius County</name>
+		<name normalized="Vilnius fylke" languages="Norwegian (bokmal);Norwegian Nynorsk">Vilnius fylke</name>
+		<name normalized="Vilniuse maakond" languages="Estonian">Vilniuse maakond</name>
+		<name normalized="Vilniusko konderria" languages="Basque">Vilniusko konderria</name>
+		<name normalized="Vilniusky kraj" languages="Czech">Vilniuský kraj</name>
+		<name normalized="Vilnjus" languages="Western Frisian">Vilnjûs</name>
+		<name normalized="Vilno" languages="Esperanto">Vilno</name>
+		<name normalized="Vilnius" languages="Icelandic">Vilníus</name>
+		<name normalized="Vilnus" languages="Azerbaijani;Crimean Turkish;Tatar">Vilnüs</name>
+		<name normalized="Vilne" languages="Latgalian">Viļne</name>
+		<name normalized="Vilna" languages="Latvian">Viļņa</name>
+		<name normalized="Vilnas aprinkis" languages="Latvian">Viļņas apriņķis</name>
+		<name normalized="Vilnius" languages="Catalan;Occitan">Vílnius</name>
+		<name normalized="Velniaus apskretes" languages="Samogitian">Vėlniaus apskrėtės</name>
+		<name normalized="Velnios" languages="Samogitian">Vėlnios</name>
+		<name normalized="Wilaya ya Vilnius" languages="Swahili">Wilaya ya Vilnius</name>
+		<name normalized="Wilna" languages="Kashubian;Lingala">Wilna</name>
+		<name normalized="Wilniyus" languages="Wolof">Wilniyus</name>
+		<name normalized="Wilno" languages="Polish">Wilno</name>
+		<name normalized="Wilnus" languages="Aymara">Wilñus</name>
+		<name normalized="Βιλνιους" languages="Greek">Βίλνιους</name>
+		<name normalized="Επαρχια Βιλνιους" languages="Greek">Επαρχία Βίλνιους</name>
+		<name normalized="Viлнiuс" languages="Abkhazian">Вилниус</name>
+		<name normalized="Viлнuс" languages="Macedonian">Вилнус</name>
+		<name normalized="Viлнюс" languages="Bulgarian;Tajik">Вилнюс</name>
+		<name normalized="Viлнюсki okръg" languages="Bulgarian">Вилнюски окръг</name>
+		<name normalized="Viлн҄ь" languages="Church Slavic">Вилн҄ь</name>
+		<name normalized="Viльнюс" languages="Chechen;Chuvash;Eastern Mari;Hill Mari;Kazakh;Komi;Kyrgyz;Moksha;Ossetic;Russian;Sakha;Udmurt">Вильнюс</name>
+		<name normalized="Viльнюссkiй uizd" languages="Russian">Вильнюсский уезд</name>
+		<name normalized="Viлnuс" languages="Serbian">Вилњус</name>
+		<name normalized="Viлnuс okрug" languages="Serbian;Serbo-Croatian">Вилњус округ</name>
+		<name normalized="Viлiнсki pavit" languages="biлaрuсkai (taрaskivita)‎">Віленскі павет</name>
+		<name normalized="Viльнюс" languages="Ukrainian">Вільнюс</name>
+		<name normalized="Viльнюсki pavit" languages="Belarusian">Вільнюскі павет</name>
+		<name normalized="Viльнюсьkiй povit" languages="Ukrainian">Вільнюський повіт</name>
+		<name normalized="Viльнi" languages="biлaрuсkai (taрaskivita)‎">Вільня</name>
+		<name normalized="Goрad Viльнюс" languages="Belarusian">Горад Вільнюс</name>
+		<name normalized="Վիlնյvys" languages="Armenian">Վիլնյուս</name>
+		<name normalized="vvידnע" languages="Yiddish">ווילנע</name>
+		<name normalized="vידnh" languages="Hebrew">וילנה</name>
+		<name normalized="fyلنyوس" languages="Arabic;Egyptian Spoken Arabic">فيلنيوس</name>
+		<name normalized="mqאtعة fyلنyوس" languages="Arabic">مقاطعة فيلنيوس</name>
+		<name normalized="ولنیس" languages="Urdu;Western Punjabi">ولنیس</name>
+		<name normalized="ویلنیوس" languages="Persian">ویلنیوس</name>
+		<name normalized="ویلنیوس کאؤنٹی" languages="Western Punjabi">ویلنیوس کاؤنٹی</name>
+		<name normalized="vیلنیوس" languages="Sorani Kurdish">ڤیلنیوس</name>
+		<name normalized="vil्nus" languages="Hindi">विल्नुस</name>
+		<name normalized="v्hil्niys" languages="Marathi">व्हिल्नियस</name>
+		<name normalized="bilnius" languages="Bengali">ভিলনিউস</name>
+		<name normalized="vilns" languages="Punjabi">ਵਿਲਨਸ</name>
+		<name normalized="வில்னியஸ்" languages="Tamil">வில்னியஸ்</name>
+		<name normalized="วิลนีอุส" languages="Thai">วิลนีอุส</name>
+		<name normalized="ལྦེ་ནི་སུ་ནི།" languages="Tibetan">ལྦེ་ནི་སུ་ནི།</name>
+		<name normalized="ვილნიუსი" languages="Georgian">ვილნიუსი</name>
+		<name normalized="ვილნიუსის მაზრა" languages="Georgian">ვილნიუსის მაზრა</name>
+		<name normalized="ቪልኒውስ" languages="Amharic">ቪልኒውስ</name>
+		<name normalized="ᕕᓪᓂᐅᔅ/vilnius" languages="Inuktitut">ᕕᓪᓂᐅᔅ/vilnius</name>
+		<name normalized="virnys" languages="Japanese">ヴィリニュス</name>
+		<name normalized="virnys県" languages="Japanese">ヴィリニュス県</name>
+		<name normalized="維爾紐斯" languages="Cantonese">維爾紐斯</name>
+		<name normalized="維爾紐斯縣" languages="Chinese">維爾紐斯縣</name>
+		<name normalized="维尔纽斯" languages="Chinese">维尔纽斯</name>
+		<name normalized="빌뉴스" languages="Korean">빌뉴스</name>
+		<name normalized="빌뉴스 주" languages="Korean">빌뉴스 주</name>
+	</region>
+</regions>

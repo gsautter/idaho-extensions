@@ -1,0 +1,1783 @@
+<regions country="Indonesia">
+	<region name="Aceh" type="autonomous province" typeTranslated="autonomous province">
+		<name normalized="Aceh" languages="Basa Banyumasan;Basque;Buginese;Catalan;Chinese (Min Nan);Czech;Danish;English;Estonian;Finnish;French;Galician;German;Ido;Indonesian;Italian;Malay;Minangkabau;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Polish;Seeltersk;Serbo-Croatian;Slovak;Spanish;Swedish;Tagalog;Vietnamese;Waray;Welsh;Yoruba">Aceh</name>
+		<name normalized="Aceho" languages="Esperanto">Aceho</name>
+		<name normalized="Achem" languages="Portuguese">Achém</name>
+		<name normalized="Aceh" languages="Achinese;Javanese">Acèh</name>
+		<name normalized="Atjeh" languages="Dutch">Atjeh</name>
+		<name normalized="Ace" languages="Turkish">Açe</name>
+		<name normalized="Aceh" languages="Tatar;Zazaki">Açeh</name>
+		<name normalized="Aceha" languages="Latvian">Ačeha</name>
+		<name normalized="Acehas" languages="Lithuanian">Ačehas</name>
+		<name normalized="Nanggroe Aceh Darussalam" languages="Sundanese">Nanggroe Acéh Darussalam</name>
+		<name normalized="A-chhe Thi̍t-phe̍t Hang-chun-khi" languages="Hakka">Â-chhè Thi̍t-phe̍t Hàng-chṳn-khî</name>
+		<name normalized="Aci" languages="Mongolian">Аче</name>
+		<name normalized="Acik" languages="Bulgarian;Macedonian;Russian;Ukrainian">Ачех</name>
+		<name normalized="Atsik" languages="Serbian">Аћех</name>
+		<name normalized="אצ'h" languages="Hebrew">אצ'ה</name>
+		<name normalized="آtشyh" languages="Arabic">آتشيه</name>
+		<name normalized="آچh" languages="Mazanderani;Persian">آچه</name>
+		<name normalized="آچے" languages="Urdu">آچے</name>
+		<name normalized="sوbہ آچے" languages="Western Punjabi">صوبہ آچے</name>
+		<name normalized="ace" languages="Hindi;Marathi">आचे</name>
+		<name normalized="അക്കെ" languages="Malayalam">അക്കെ</name>
+		<name normalized="เขตปกครองพิเศษอาเจะห์" languages="Thai">เขตปกครองพิเศษอาเจะห์</name>
+		<name normalized="აჩეჰი" languages="Georgian">აჩეჰი</name>
+		<name normalized="ate" languages="Japanese">アチェ</name>
+		<name normalized="亞齊特別行政區" languages="Chinese">亞齊特別行政區</name>
+		<name normalized="아체 주" languages="Korean">아체 주</name>
+	</region>
+	<region name="Bali" type="province" typeTranslated="provinsi">
+		<name normalized="Bali" languages="Achinese;Afrikaans;Albanian;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Hungarian;Indonesian;Italian;Javanese;Latvian;lumbaart;Minangkabau;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Piedmontese;Polish;Portuguese;Romanian;Seeltersk;Serbo-Croatian;Sicilian;Simple English;Slovak;Slovenian;Spanish;Sundanese;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh">Bali</name>
+		<name normalized="Bali Province" languages="English;official">Bali Province</name>
+		<name normalized="Bali Provinsi" languages="English;official">Bali Provinsi</name>
+		<name normalized="Balio" languages="Esperanto">Balio</name>
+		<name normalized="Balis" languages="Lithuanian">Balis</name>
+		<name normalized="Bali" languages="Icelandic">Balí</name>
+		<name normalized="Pulau Bali" languages="Malay">Pulau Bali</name>
+		<name normalized="Pa-li-sen" languages="Hakka">Pâ-lî-sén</name>
+		<name normalized="Μπαλι" languages="Greek">Μπαλί</name>
+		<name normalized="Baлi" languages="Bulgarian;Macedonian;Russian;Serbian">Бали</name>
+		<name normalized="Baлi aрaл" languages="Mongolian">Бали арал</name>
+		<name normalized="Baлi aрaлы" languages="Kazakh">Бали аралы</name>
+		<name normalized="Baлi" languages="Ukrainian">Балі</name>
+		<name normalized="Voсtрaў Baлi" languages="Belarusian">Востраў Балі</name>
+		<name normalized="bאדי" languages="Hebrew">באלי</name>
+		<name normalized="bאلy" languages="Arabic">بالي</name>
+		<name normalized="bאلی" languages="Persian;Urdu">بالی</name>
+		<name normalized="sوbہ bאلی" languages="Western Punjabi">صوبہ بالی</name>
+		<name normalized="bाli" languages="Hindi;Marathi;Sanskrit">बाली</name>
+		<name normalized="bাli" languages="Bengali">বালি</name>
+		<name normalized="bાli" languages="Gujarati">બાલી</name>
+		<name normalized="பாலி" languages="Tamil">பாலி</name>
+		<name normalized="బాలి" languages="Telugu">బాలి</name>
+		<name normalized="ಬಾಲಿ" languages="Kannada">ಬಾಲಿ</name>
+		<name normalized="ബാലി" languages="Malayalam">ബാലി</name>
+		<name normalized="จังหวัดบาหลี" languages="Thai">จังหวัดบาหลี</name>
+		<name normalized="ბალი" languages="Georgian">ბალი</name>
+		<name normalized="br島" languages="Japanese">バリ島</name>
+		<name normalized="峇里" languages="Cantonese">峇里</name>
+		<name normalized="巴厘岛" languages="Chinese;Wu">巴厘岛</name>
+		<name normalized="발리 섬" languages="Korean">발리 섬</name>
+	</region>
+	<region name="Banten" type="province" typeTranslated="provinsi">
+		<name normalized="Bantam" languages="Dutch">Bantam</name>
+		<name normalized="Bantan" languages="Banjar">Bantan</name>
+		<name normalized="Banten" languages="Achinese;Basa Banyumasan;Catalan;Chinese (Min Nan);Czech;Danish;English;Finnish;French;German;Indonesian;Italian;Javanese;Malay;Minangkabau;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Portuguese;Sundanese;Swedish;Turkish;Vietnamese;Waray;Welsh">Banten</name>
+		<name normalized="Banten Province" languages="English;official">Banten Province</name>
+		<name normalized="Banten Provinsi" languages="English;official">Banten Provinsi</name>
+		<name normalized="Bantenas" languages="Lithuanian">Bantenas</name>
+		<name normalized="Banteno" languages="Esperanto">Banteno</name>
+		<name normalized="Banten" languages="Spanish">Bantén</name>
+		<name normalized="Van-tan-sen" languages="Hakka">Van-tan-sén</name>
+		<name normalized="Baнtiн" languages="Bulgarian;Mongolian;Russian;Serbian;Ukrainian">Бантен</name>
+		<name normalized="Baнteн" languages="Belarusian">Бантэн</name>
+		<name normalized="bאنtن" languages="Arabic;Persian">بانتن</name>
+		<name normalized="bאنٹین" languages="Urdu">بانٹین</name>
+		<name normalized="sوbہ bאنٹین" languages="Western Punjabi">صوبہ بانٹین</name>
+		<name normalized="bांten" languages="Marathi">बांतेन</name>
+		<name normalized="จังหวัดบันเตน" languages="Thai">จังหวัดบันเตน</name>
+		<name normalized="ბანტენი" languages="Georgian">ბანტენი</name>
+		<name normalized="bntn州" languages="Japanese">バンテン州</name>
+		<name normalized="万丹省" languages="Chinese">万丹省</name>
+		<name normalized="반텐 주" languages="Korean">반텐 주</name>
+	</region>
+	<region name="Bengkulu" type="province" typeTranslated="provinsi">
+		<name normalized="Bengkulu" languages="Achinese;Catalan;Chinese (Min Nan);Czech;Danish;Dutch;English;Finnish;French;German;Indonesian;Italian;Javanese;Malay;Minangkabau;Norwegian (bokmal);Occitan;official;Pampanga;Polish;Portuguese;Romanian;Spanish;Sundanese;Swedish;Turkish;Vietnamese;Waray;Welsh">Bengkulu</name>
+		<name normalized="Bengkulu Province" languages="English;official">Bengkulu Province</name>
+		<name normalized="Bengkulu Provinsi" languages="English;official">Bengkulu Provinsi</name>
+		<name normalized="Bengkuluo" languages="Esperanto">Bengkuluo</name>
+		<name normalized="Benkulus" languages="Lithuanian">Benkulus</name>
+		<name normalized="Min-ku-lu-sen" languages="Hakka">Mìn-kú-lû-sén</name>
+		<name normalized="Biнgkuлu" languages="Bulgarian;Serbian">Бенгкулу</name>
+		<name normalized="Biнkuлu" languages="Russian">Бенкулу</name>
+		<name normalized="bنjkولو" languages="Arabic">بنجكولو</name>
+		<name normalized="bنgکولو" languages="Persian;Urdu">بنگکولو</name>
+		<name normalized="sوbہ bنgکولو" languages="Western Punjabi">صوبہ بنگکولو</name>
+		<name normalized="beंkulu" languages="Marathi">बेंकुलू</name>
+		<name normalized="จังหวัดเบงกูลู" languages="Thai">จังหวัดเบงกูลู</name>
+		<name normalized="ბენკულუ" languages="Georgian">ბენკულუ</name>
+		<name normalized="bnkr州" languages="Japanese">ブンクル州</name>
+		<name normalized="明古魯省" languages="Chinese">明古魯省</name>
+		<name normalized="븡쿨루 주" languages="Korean">븡쿨루 주</name>
+	</region>
+	<region name="Gorontalo" type="province" typeTranslated="provinsi">
+		<name normalized="Gorontalas" languages="Lithuanian">Gorontalas</name>
+		<name normalized="Gorontalo" languages="Czech;Dutch;English;Esperanto;Finnish;French;German;Indonesian;Javanese;Malay;Minangkabau;Occitan;official;Polish;Portuguese;Serbo-Croatian;Spanish;Sundanese;Swedish;Turkish;Vietnamese;Waray">Gorontalo</name>
+		<name normalized="Gorontalo Province" languages="English;official">Gorontalo Province</name>
+		<name normalized="Gorontalo Provinsi" languages="English;official">Gorontalo Provinsi</name>
+		<name normalized="Gorontalo" languages="Achinese">Gorontalô</name>
+		<name normalized="Ko-lun-ta-lo̍k-sen" languages="Hakka">Kô-lùn-tá-lo̍k-sén</name>
+		<name normalized="Provincia di Gorontalo" languages="Italian">Provincia di Gorontalo</name>
+		<name normalized="Goрoнtaлo" languages="Bulgarian;Russian;Serbian">Горонтало</name>
+		<name normalized="jوrونtאلو" languages="Arabic">جورونتالو</name>
+		<name normalized="sوbہ gوrونٹאلو" languages="Western Punjabi">صوبہ گورونٹالو</name>
+		<name normalized="gوrونtאلو" languages="Persian">گورونتالو</name>
+		<name normalized="gوrونٹאلو" languages="Urdu">گورونٹالو</name>
+		<name normalized="გორონტალო" languages="Georgian">გორონტალო</name>
+		<name normalized="grntr州" languages="Japanese">ゴロンタロ州</name>
+		<name normalized="哥伦打洛省" languages="Chinese">哥伦打洛省</name>
+		<name normalized="고론탈로 주" languages="Korean">고론탈로 주</name>
+	</region>
+	<region name="Jakarta Raya" type="national capital district" typeTranslated="national capital district">
+		<name normalized="Cakarta" languages="Azerbaijani;Kurdish;Tatar;Turkish">Cakarta</name>
+		<name normalized="Daerah Khusus Ibukota Jakarta" languages="Basa Banyumasan;Indonesian">Daerah Khusus Ibukota Jakarta</name>
+		<name normalized="Daerah Kusuih Ibukota Jakarta" languages="Minangkabau">Daerah Kusuih Ibukota Jakarta</name>
+		<name normalized="Djakarta" languages="Afrikaans;Icelandic">Djakarta</name>
+		<name normalized="Dzakarta" languages="Polish;Silesian">Dżakarta</name>
+		<name normalized="Dzakart" languages="Veps">Džakart</name>
+		<name normalized="Dzakarta" languages="Bosnian;Latvian;Lithuanian;Samogitian;Serbo-Croatian;Slovenian">Džakarta</name>
+		<name normalized="Giacarta" languages="Italian;lumbaart;Piedmontese;tarandine">Giacarta</name>
+		<name normalized="Iacarta" languages="Galician">Iacarta</name>
+		<name normalized="Iacarta" languages="Irish">Iacárta</name>
+		<name normalized="Jacarta" languages="Mirandese;Portuguese">Jacarta</name>
+		<name normalized="Jakarta" languages="Achinese;Alemannisch;Aragonese;Basque;Breton;Catalan;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;French;German;Haitian;Hungarian;Ido;Iloko;Interlingua;Interlingue;Javanese;Kalaallisut;Kinyarwanda;Latin;Lower Sorbian;Luxembourgish;Malagasy;Malay;Maori;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;Papiamento;Quechua;Romanian;Scots;Scottish Gaelic;Shona;Simple English;Slovak;Sranan Tongo;Sundanese;Swahili;Swedish;Tagalog;Tetum;Turkmen;Upper Sorbian;Uzbek;Vietnamese;Waray;Welsh;Western Frisian;Yoruba">Jakarta</name>
+		<name normalized="Jakarta Raya" languages="English;official">Jakarta Raya</name>
+		<name normalized="Nga-ka-tha̍t Su-tu Thi̍t-khi" languages="Hakka">Ngâ-kâ-tha̍t Sú-tû Thi̍t-khî</name>
+		<name normalized="Xacarta" languages="veneto">Xacarta</name>
+		<name normalized="Xhakarta" languages="Albanian">Xhakarta</name>
+		<name normalized="Yajgyadaz" languages="Zhuang">Yajgyadaz</name>
+		<name normalized="Yakarta" languages="Extremaduran;Nahuatl;Spanish">Yakarta</name>
+		<name normalized="Gakarto" languages="Esperanto">Ĝakarto</name>
+		<name normalized="Τζακαρτα" languages="Greek">Τζακάρτα</name>
+		<name normalized="Goрad Dzakaрta" languages="Belarusian">Горад Джакарта</name>
+		<name normalized="Dzakaрtae" languages="Ossetic">Джакартæ</name>
+		<name normalized="Dzakaрta" languages="Bashkir;Bulgarian;Chechen;Kazakh;Russian;Rusyn;Ukrainian;biлaрuсkai (taрaskivita)‎">Джакарта</name>
+		<name normalized="Dzakaрti" languages="Eastern Mari">Джакарте</name>
+		<name normalized="Dьakaрta" languages="Sakha">Дьакарта</name>
+		<name normalized="Zakaрta" languages="Mongolian">Жакарта</name>
+		<name normalized="Dzakaрta" languages="Macedonian;Serbian">Џакарта</name>
+		<name normalized="Jաkաrtա" languages="Armenian">Ջակարտա</name>
+		<name normalized="ג'qrth" languages="Hebrew">ג'קרטה</name>
+		<name normalized="דזשאqאrtא" languages="Yiddish">דזשאקארטא</name>
+		<name normalized="jאkאrtא" languages="Arabic;Egyptian Spoken Arabic;Uyghur">جاكارتا</name>
+		<name normalized="jאکאrtא" languages="Mazanderani;Persian;Sorani Kurdish">جاکارتا</name>
+		<name normalized="jکאrtא" languages="Pashto">جکارتا</name>
+		<name normalized="jکאrtہ" languages="Urdu;Western Punjabi">جکارتہ</name>
+		<name normalized="jkाr्tा" languages="Hindi;Marathi;Newari">जकार्ता</name>
+		<name normalized="trumा ngr" languages="Sanskrit">तरुमा नगर</name>
+		<name normalized="jাkাr্tা" languages="Bengali">জাকার্তা</name>
+		<name normalized="jkਾrtਾ" languages="Punjabi">ਜਕਾਰਤਾ</name>
+		<name normalized="jાkાr્tા" languages="Gujarati">જાકાર્તા</name>
+		<name normalized="ଜାକର୍ତା" languages="Oriya">ଜାକର୍ତା</name>
+		<name normalized="ஜகார்த்தா" languages="Tamil">ஜகார்த்தா</name>
+		<name normalized="జకార్తా" languages="Telugu">జకార్తా</name>
+		<name normalized="ಜಕಾರ್ತ" languages="Kannada">ಜಕಾರ್ತ</name>
+		<name normalized="ജക്കാർത്ത" languages="Malayalam">ജക്കാർത്ത</name>
+		<name normalized="จาการ์ตา" languages="Thai">จาการ์ตา</name>
+		<name normalized="ཊ་ཁར་ཏ།" languages="Tibetan">ཊ་ཁར་ཏ།</name>
+		<name normalized="ဂျကာတာမြို့" languages="Burmese">ဂျကာတာမြို့</name>
+		<name normalized="ჯაკარტა" languages="Georgian">ჯაკარტა</name>
+		<name normalized="ጃካርታ" languages="Amharic">ጃካርታ</name>
+		<name normalized="ᎠᏤᏙ" languages="Cherokee">ᎠᏤᏙ</name>
+		<name normalized="ចាការតា" languages="Khmer">ចាការតា</name>
+		<name normalized="zykrt" languages="Japanese">ジャカルタ</name>
+		<name normalized="耶加達" languages="Cantonese">耶加達</name>
+		<name normalized="雅加达" languages="Chinese">雅加达</name>
+		<name normalized="자카르타" languages="Korean">자카르타</name>
+	</region>
+	<region name="Jambi" type="province" typeTranslated="provinsi">
+		<name normalized="Cham-pi-sen" languages="Hakka">Cham-pî-sén</name>
+		<name normalized="Dzambis" languages="Lithuanian">Džambis</name>
+		<name normalized="Jambi" languages="Achinese;Catalan;Czech;Danish;Dutch;English;Finnish;French;German;Indonesian;Italian;Javanese;Malay;Minangkabau;Norwegian (bokmal);official;Pampanga;Polish;Portuguese;Romanian;Spanish;Sundanese;Swedish;Turkish;Vietnamese;Waray;Welsh">Jambi</name>
+		<name normalized="Jambi Province" languages="English;official">Jambi Province</name>
+		<name normalized="Jambi Provinsi" languages="English;official">Jambi Provinsi</name>
+		<name normalized="Gambio" languages="Esperanto">Ĝambio</name>
+		<name normalized="Dzaмbi" languages="Bulgarian;Russian">Джамби</name>
+		<name normalized="Dzaмbi" languages="Ukrainian">Джамбі</name>
+		<name normalized="Zaмbi" languages="Mongolian">Жамби</name>
+		<name normalized="Dzaмbi" languages="Serbian">Џамби</name>
+		<name normalized="jאmby" languages="Arabic">جامبي</name>
+		<name normalized="jאmbی" languages="Persian;Urdu">جامبی</name>
+		<name normalized="sوbہ jאmbی" languages="Western Punjabi">صوبہ جامبی</name>
+		<name normalized="jांbi" languages="Marathi">जांबी</name>
+		<name normalized="ჯამბი" languages="Georgian">ჯამბი</name>
+		<name normalized="zynb州" languages="Japanese">ジャンビ州</name>
+		<name normalized="占碑省" languages="Chinese">占碑省</name>
+		<name normalized="잠비 주" languages="Korean">잠비 주</name>
+	</region>
+	<region name="Jawa Barat" type="province" typeTranslated="provinsi">
+		<name normalized="Batı Cava" languages="Turkish">Batı Cava</name>
+		<name normalized="Cava" languages="Kurdish">Cava</name>
+		<name normalized="Cava Adası" languages="Turkish">Cava Adası</name>
+		<name normalized="Chau-oa-to" languages="Hakka">Cháu-ôa-tó</name>
+		<name normalized="Djava" languages="Ladino">Djava</name>
+		<name normalized="Giava" languages="Italian;lumbaart;Piedmontese;Sicilian">Giava</name>
+		<name normalized="Giava Occidentale" languages="Italian">Giava Occidentale</name>
+		<name normalized="Gorllewin Jawa" languages="Welsh">Gorllewin Jawa</name>
+		<name normalized="Haba" languages="Tagalog">Haba</name>
+		<name normalized="Hawa wat'a" languages="Quechua">Hawa wat'a</name>
+		<name normalized="Iava" languages="Latin">Iava</name>
+		<name normalized="Insula Java" languages="Romanian">Insula Java</name>
+		<name normalized="Iava" languages="Irish">Iáva</name>
+		<name normalized="Jaava" languages="Estonian;Finnish">Jaava</name>
+		<name normalized="Java" languages="Afrikaans;Basque;Bosnian;Catalan;Croatian;Danish;Dutch;English;French;German;Icelandic;Ido;Latvian;Limburgish;Lithuanian;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Papiamento;Portuguese;Scots;Seeltersk;Serbo-Croatian;Simple English;Slovenian;Spanish;Sranan Tongo;Swedish;Vietnamese;Waray;Western Frisian">Java</name>
+		<name normalized="Java occidental" languages="French;Spanish">Java occidental</name>
+		<name normalized="Java Ocidental" languages="Portuguese">Java Ocidental</name>
+		<name normalized="Java Province" languages="English;official">Java Province</name>
+		<name normalized="Java Provinsi" languages="English;official">Java Provinsi</name>
+		<name normalized="Javo" languages="Esperanto">Javo</name>
+		<name normalized="Jawa" languages="Achinese;Basa Banyumasan;Breton;Chinese (Min Nan);Indonesian;Javanese;Malay;Minangkabau;Polish;Silesian;Welsh">Jawa</name>
+		<name normalized="Jawa Barat" languages="Achinese;English;German;Indonesian;Malay;Minangkabau;Norwegian (bokmal);official;Swedish">Jawa Barat</name>
+		<name normalized="Jawa Barat Province" languages="English;official">Jawa Barat Province</name>
+		<name normalized="Jawa Barat Provinsi" languages="English;official">Jawa Barat Provinsi</name>
+		<name normalized="Jawa Kulon" languages="Javanese;Sundanese">Jawa Kulon</name>
+		<name normalized="Jawa Zachodnia" languages="Polish">Jawa Zachodnia</name>
+		<name normalized="Java" languages="Czech;Hungarian;Slovak">Jáva</name>
+		<name normalized="Kanlurang Haba" languages="Tagalog">Kanlurang Haba</name>
+		<name normalized="Katundan nga Java" languages="Waray">Katundan nga Java</name>
+		<name normalized="Lansi-Jaava" languages="Finnish">Länsi-Jaava</name>
+		<name normalized="Okcidenta Javo" languages="Esperanto">Okcidenta Javo</name>
+		<name normalized="Propinsi Jawa Barat" languages="Basa Banyumasan">Propinsi Jawa Barat</name>
+		<name normalized="Provincia Java de Vest" languages="Romanian">Provincia Java de Vest</name>
+		<name normalized="Pulau Jawa" languages="Banjar">Pulau Jawa</name>
+		<name normalized="Pulo Jawa" languages="Sundanese">Pulo Jawa</name>
+		<name normalized="Se Jawa" languages="Chinese (Min Nan)">Se Jawa</name>
+		<name normalized="Si Chau-oa-sen" languages="Hakka">Sî Cháu-ôa-sén</name>
+		<name normalized="Tay Java" languages="Vietnamese">Tây Java</name>
+		<name normalized="Vakaru Java" languages="Lithuanian">Vakarų Java</name>
+		<name normalized="Vestjava" languages="Danish">Vestjava</name>
+		<name normalized="West Java" languages="English;official">West Java</name>
+		<name normalized="West Java Province" languages="English;official">West Java Province</name>
+		<name normalized="West Java Provinsi" languages="English;official">West Java Provinsi</name>
+		<name normalized="West-Java" languages="Dutch">West-Java</name>
+		<name normalized="Xava" languages="Galician">Xava</name>
+		<name normalized="Zapadni Java" languages="Czech">Západní Jáva</name>
+		<name normalized="Ιαβα" languages="Greek">Ιάβα</name>
+		<name normalized="Voсtрaў Яva" languages="Belarusian">Востраў Ява</name>
+		<name normalized="Zava" languages="Mongolian">Жава</name>
+		<name normalized="Zapadнa Яva" languages="Bulgarian">Западна Ява</name>
+		<name normalized="Zapadнa Java" languages="Serbian">Западна Јава</name>
+		<name normalized="Zapadнai Яva" languages="Russian">Западная Ява</name>
+		<name normalized="Zakidнa Яva" languages="Ukrainian">Західна Ява</name>
+		<name normalized="Яva" languages="Bulgarian;Kazakh;Russian;Tatar;Ukrainian;biлaрuсkai (taрaskivita)‎">Ява</name>
+		<name normalized="Java" languages="Macedonian;Serbian">Јава</name>
+		<name normalized="Cava" languages="Tajik">Ҷава</name>
+		<name normalized="Өрнɵ Zava" languages="Mongolian">Өрнө Жава</name>
+		<name normalized="Cավա" languages="Armenian">Ճավա</name>
+		<name normalized="ג'אvvh" languages="Hebrew">ג'אווה</name>
+		<name normalized="jאوא" languages="Urdu;Western Punjabi">جاوا</name>
+		<name normalized="jאوة" languages="Arabic">جاوة</name>
+		<name normalized="jאوة אلغrbyة" languages="Arabic">جاوة الغربية</name>
+		<name normalized="jאوh" languages="Mazanderani;Persian">جاوه</name>
+		<name normalized="jאوh غrbی" languages="Persian">جاوه غربی</name>
+		<name normalized="sوbہ لہندא jאوא" languages="Western Punjabi">صوبہ لہندا جاوا</name>
+		<name normalized="mغrbی jאوא" languages="Urdu">مغربی جاوا</name>
+		<name normalized="jाvा" languages="Hindi;Marathi">जावा</name>
+		<name normalized="ps्cim jाvा" languages="Marathi">पश्चिम जावा</name>
+		<name normalized="yvd्vip" languages="Sanskrit">यवद्वीप</name>
+		<name normalized="jাbা d্bip" languages="Bengali">জাভা দ্বীপ</name>
+		<name normalized="jਾvਾ ਟਾpu" languages="Punjabi">ਜਾਵਾ ਟਾਪੂ</name>
+		<name normalized="jાvા" languages="Gujarati">જાવા</name>
+		<name normalized="ଜାଭା" languages="Oriya">ଜାଭା</name>
+		<name normalized="சாவகம்" languages="Tamil">சாவகம்</name>
+		<name normalized="జావా" languages="Telugu">జావా</name>
+		<name normalized="ಜಾವಾ" languages="Kannada">ಜಾವಾ</name>
+		<name normalized="ജാവ" languages="Malayalam">ജാവ</name>
+		<name normalized="ජාවා දූපත" languages="Sinhala">ජාවා දූපත</name>
+		<name normalized="จังหวัดชวาตะวันตก" languages="Thai">จังหวัดชวาตะวันตก</name>
+		<name normalized="เกาะชวา" languages="Thai">เกาะชวา</name>
+		<name normalized="ཇ་ཝ།" languages="Tibetan">ཇ་ཝ།</name>
+		<name normalized="ဂျားဗားကျွန်း" languages="Burmese">ဂျားဗားကျွန်း</name>
+		<name normalized="დასავლეთი იავა" languages="Georgian">დასავლეთი იავა</name>
+		<name normalized="იავა" languages="Georgian">იავა</name>
+		<name normalized="កោះជ្វា" languages="Khmer">កោះជ្វា</name>
+		<name normalized="zyw島" languages="Japanese">ジャワ島</name>
+		<name normalized="爪哇" languages="Cantonese">爪哇</name>
+		<name normalized="爪哇岛" languages="Chinese;Wu">爪哇岛</name>
+		<name normalized="西zyw州" languages="Japanese">西ジャワ州</name>
+		<name normalized="西爪哇省" languages="Chinese">西爪哇省</name>
+		<name normalized="자와 섬" languages="Korean">자와 섬</name>
+		<name normalized="자와바랏 주" languages="Korean">자와바랏 주</name>
+	</region>
+	<region name="Jawa Tengah" type="province" typeTranslated="provinsi">
+		<name normalized="Butnga nga Java" languages="Waray">Butnga nga Java</name>
+		<name normalized="Canolbarth Jawa" languages="Welsh">Canolbarth Jawa</name>
+		<name normalized="Cava Merkezi" languages="Zazaki">Cava Merkezi</name>
+		<name normalized="Centra Javo" languages="Esperanto">Centra Javo</name>
+		<name normalized="Central Java" languages="English;official">Central Java</name>
+		<name normalized="Central Java Province" languages="English;official">Central Java Province</name>
+		<name normalized="Central Java Provinsi" languages="English;official">Central Java Provinsi</name>
+		<name normalized="Centraljava" languages="Danish">Centraljava</name>
+		<name normalized="Centrine Java" languages="Lithuanian">Centrinė Java</name>
+		<name normalized="Chung Chau-oa-sen" languages="Hakka">Chûng Cháu-ôa-sén</name>
+		<name normalized="Giava Centrale" languages="Italian">Giava Centrale</name>
+		<name normalized="Java central" languages="French;Portuguese;Spanish">Java central</name>
+		<name normalized="Jawa Tengah" languages="English;German;Indonesian;Javanese;Malay;Minangkabau;Norwegian (bokmal);official;Slovak;Sundanese;Swedish">Jawa Tengah</name>
+		<name normalized="Jawa Tengah Province" languages="English;official">Jawa Tengah Province</name>
+		<name normalized="Jawa Tengah Provinsi" languages="English;official">Jawa Tengah Provinsi</name>
+		<name normalized="Jawa Teungoh" languages="Achinese">Jawa Teungöh</name>
+		<name normalized="Jawa Srodkowa" languages="Polish">Jawa Środkowa</name>
+		<name normalized="Keski-Jaava" languages="Finnish">Keski-Jaava</name>
+		<name normalized="Midden-Java" languages="Dutch">Midden-Java</name>
+		<name normalized="Orta Cava" languages="Turkish">Orta Cava</name>
+		<name normalized="Propinsi Jawa Tengah" languages="Basa Banyumasan">Propinsi Jawa Tengah</name>
+		<name normalized="Provincia Java Centrala" languages="Romanian">Provincia Java Centrală</name>
+		<name normalized="Stredni Java" languages="Czech">Střední Jáva</name>
+		<name normalized="Tiong Jawa" languages="Chinese (Min Nan)">Tiong Jawa</name>
+		<name normalized="Trung Java" languages="Vietnamese">Trung Java</name>
+		<name normalized="Tɵv Zava" languages="Mongolian">Төв Жава</name>
+		<name normalized="Tiнtрaлнa Яva" languages="Bulgarian">Централна Ява</name>
+		<name normalized="Tiнtрaлнa Java" languages="Serbian">Централна Јава</name>
+		<name normalized="Tiнtрaльнa Яva" languages="Ukrainian">Центральна Ява</name>
+		<name normalized="Tiнtрaльнai Яva" languages="Russian">Центральная Ява</name>
+		<name normalized="jאوة אلوسtى" languages="Arabic">جاوة الوسطى</name>
+		<name normalized="jאوh mrکزی" languages="Persian">جاوه مرکزی</name>
+		<name normalized="sوbہ gھbلא jאوא" languages="Western Punjabi">صوبہ گھبلا جاوا</name>
+		<name normalized="mئrکئزی jאوא" languages="Azerbaijani">مئرکئزی جاوا</name>
+		<name normalized="وسtی jאوא" languages="Urdu">وسطی جاوا</name>
+		<name normalized="md्y jाvा" languages="Marathi">मध्य जावा</name>
+		<name normalized="จังหวัดชวากลาง" languages="Thai">จังหวัดชวากลาง</name>
+		<name normalized="ცენტრალური იავა" languages="Georgian">ცენტრალური იავა</name>
+		<name normalized="中爪哇省" languages="Chinese">中爪哇省</name>
+		<name normalized="中部zyw州" languages="Japanese">中部ジャワ州</name>
+		<name normalized="자와틍아 주" languages="Korean">자와틍아 주</name>
+	</region>
+	<region name="Jawa Timur" type="province" typeTranslated="provinsi">
+		<name normalized="Aust-Java" languages="Norwegian Nynorsk">Aust-Java</name>
+		<name normalized="Cava" languages="Kurdish">Cava</name>
+		<name normalized="Cava Adası" languages="Turkish">Cava Adası</name>
+		<name normalized="Chau-oa-to" languages="Hakka">Cháu-ôa-tó</name>
+		<name normalized="Djava" languages="Ladino">Djava</name>
+		<name normalized="Dogu Cava" languages="Turkish">Doğu Cava</name>
+		<name normalized="Dwyrain Jawa" languages="Welsh">Dwyrain Jawa</name>
+		<name normalized="East Java" languages="English;official">East Java</name>
+		<name normalized="East Java Province" languages="English;official">East Java Province</name>
+		<name normalized="East Java Provinsi" languages="English;official">East Java Provinsi</name>
+		<name normalized="Giava" languages="Italian;lumbaart;Piedmontese;Sicilian">Giava</name>
+		<name normalized="Giava Orientale" languages="Italian">Giava Orientale</name>
+		<name normalized="Haba" languages="Tagalog">Haba</name>
+		<name normalized="Hawa wat'a" languages="Quechua">Hawa wat'a</name>
+		<name normalized="Iava" languages="Latin">Iava</name>
+		<name normalized="Insula Java" languages="Romanian">Insula Java</name>
+		<name normalized="Ita-Jaava" languages="Finnish">Itä-Jaava</name>
+		<name normalized="Iava" languages="Irish">Iáva</name>
+		<name normalized="Jaava" languages="Estonian;Finnish">Jaava</name>
+		<name normalized="Java" languages="Afrikaans;Basque;Bosnian;Catalan;Croatian;Danish;Dutch;English;French;German;Icelandic;Ido;Latvian;Limburgish;Lithuanian;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Papiamento;Portuguese;Scots;Seeltersk;Serbo-Croatian;Simple English;Slovenian;Spanish;Sranan Tongo;Swedish;Vietnamese;Waray;Western Frisian">Java</name>
+		<name normalized="Java oriental" languages="French;Portuguese;Spanish">Java oriental</name>
+		<name normalized="Java Province" languages="English;official">Java Province</name>
+		<name normalized="Java Provinsi" languages="English;official">Java Provinsi</name>
+		<name normalized="Javo" languages="Esperanto">Javo</name>
+		<name normalized="Jawa" languages="Achinese;Basa Banyumasan;Breton;Chinese (Min Nan);Indonesian;Javanese;Malay;Minangkabau;Polish;Silesian;Welsh">Jawa</name>
+		<name normalized="Jawa Timu" languages="Achinese">Jawa Timu</name>
+		<name normalized="Jawa Timur" languages="Basa Banyumasan;English;German;Indonesian;Malay;Minangkabau;Norwegian (bokmal);official;Swedish">Jawa Timur</name>
+		<name normalized="Jawa Timur Province" languages="English;official">Jawa Timur Province</name>
+		<name normalized="Jawa Timur Provinsi" languages="English;official">Jawa Timur Provinsi</name>
+		<name normalized="Jawa Wschodnia" languages="Polish">Jawa Wschodnia</name>
+		<name normalized="Jawa Wetan" languages="Javanese;Sundanese">Jawa Wétan</name>
+		<name normalized="Java" languages="Czech;Hungarian;Slovak">Jáva</name>
+		<name normalized="Oost-Java" languages="Dutch">Oost-Java</name>
+		<name normalized="Orienta Javo" languages="Esperanto">Orienta Javo</name>
+		<name normalized="Provincia Java de Est" languages="Romanian">Provincia Java de Est</name>
+		<name normalized="Pulau Jawa" languages="Banjar">Pulau Jawa</name>
+		<name normalized="Pulo Jawa" languages="Sundanese">Pulo Jawa</name>
+		<name normalized="Rytu Java" languages="Lithuanian">Rytų Java</name>
+		<name normalized="Silangang Haba" languages="Tagalog">Silangang Haba</name>
+		<name normalized="Sinirangan nga Java" languages="Waray">Sinirangan nga Java</name>
+		<name normalized="Tang Jawa" languages="Chinese (Min Nan)">Tang Jawa</name>
+		<name normalized="Tung Chau-oa-sen" languages="Hakka">Tûng Cháu-ôa-sén</name>
+		<name normalized="Vychodni Java" languages="Czech">Východní Jáva</name>
+		<name normalized="Xava" languages="Galician">Xava</name>
+		<name normalized="Dong Java" languages="Vietnamese">Đông Java</name>
+		<name normalized="Ιαβα" languages="Greek">Ιάβα</name>
+		<name normalized="Voсtocнai Яva" languages="Russian">Восточная Ява</name>
+		<name normalized="Voсtрaў Яva" languages="Belarusian">Востраў Ява</name>
+		<name normalized="Doрнo Zava" languages="Mongolian">Дорно Жава</name>
+		<name normalized="Zava" languages="Mongolian">Жава</name>
+		<name normalized="Iztocнa Яva" languages="Bulgarian">Източна Ява</name>
+		<name normalized="Iсtocнa Java" languages="Serbian">Источна Јава</name>
+		<name normalized="Сkidнa Яva" languages="Ukrainian">Східна Ява</name>
+		<name normalized="Яva" languages="Bulgarian;Kazakh;Russian;Tatar;Ukrainian;biлaрuсkai (taрaskivita)‎">Ява</name>
+		<name normalized="Java" languages="Macedonian;Serbian">Јава</name>
+		<name normalized="Cava" languages="Tajik">Ҷава</name>
+		<name normalized="Cավա" languages="Armenian">Ճավա</name>
+		<name normalized="ג'אvvh" languages="Hebrew">ג'אווה</name>
+		<name normalized="jאوא" languages="Urdu;Western Punjabi">جاوا</name>
+		<name normalized="jאوة" languages="Arabic">جاوة</name>
+		<name normalized="jאوة אلشrqyة" languages="Arabic">جاوة الشرقية</name>
+		<name normalized="jאوh" languages="Mazanderani;Persian">جاوه</name>
+		<name normalized="jאوh شrqی" languages="Persian">جاوه شرقی</name>
+		<name normalized="sوbہ چڑھدא jאوא" languages="Western Punjabi">صوبہ چڑھدا جاوا</name>
+		<name normalized="mشrqی jאوא" languages="Urdu">مشرقی جاوا</name>
+		<name normalized="jाvा" languages="Hindi;Marathi">जावा</name>
+		<name normalized="pur्v jाvा" languages="Marathi">पूर्व जावा</name>
+		<name normalized="yvd्vip" languages="Sanskrit">यवद्वीप</name>
+		<name normalized="jাbা d্bip" languages="Bengali">জাভা দ্বীপ</name>
+		<name normalized="jਾvਾ ਟਾpu" languages="Punjabi">ਜਾਵਾ ਟਾਪੂ</name>
+		<name normalized="jાvા" languages="Gujarati">જાવા</name>
+		<name normalized="ଜାଭା" languages="Oriya">ଜାଭା</name>
+		<name normalized="சாவகம்" languages="Tamil">சாவகம்</name>
+		<name normalized="జావా" languages="Telugu">జావా</name>
+		<name normalized="ಜಾವಾ" languages="Kannada">ಜಾವಾ</name>
+		<name normalized="ജാവ" languages="Malayalam">ജാവ</name>
+		<name normalized="ජාවා දූපත" languages="Sinhala">ජාවා දූපත</name>
+		<name normalized="เกาะชวา" languages="Thai">เกาะชวา</name>
+		<name normalized="ཇ་ཝ།" languages="Tibetan">ཇ་ཝ།</name>
+		<name normalized="ဂျားဗားကျွန်း" languages="Burmese">ဂျားဗားကျွန်း</name>
+		<name normalized="აღმოსავლეთი იავა" languages="Georgian">აღმოსავლეთი იავა</name>
+		<name normalized="იავა" languages="Georgian">იავა</name>
+		<name normalized="កោះជ្វា" languages="Khmer">កោះជ្វា</name>
+		<name normalized="zyw島" languages="Japanese">ジャワ島</name>
+		<name normalized="东爪哇省" languages="Chinese">东爪哇省</name>
+		<name normalized="東zyw州" languages="Japanese">東ジャワ州</name>
+		<name normalized="爪哇" languages="Cantonese">爪哇</name>
+		<name normalized="爪哇岛" languages="Chinese;Wu">爪哇岛</name>
+		<name normalized="자와 섬" languages="Korean">자와 섬</name>
+		<name normalized="자와티무르 주" languages="Korean">자와티무르 주</name>
+	</region>
+	<region name="Kalimantan Barat" type="province" typeTranslated="provinsi">
+		<name normalized="Batı Kalimantan" languages="Turkish">Batı Kalimantan</name>
+		<name normalized="Borneo Occidental" languages="Spanish">Borneo Occidental</name>
+		<name normalized="Borneo Zachodnie" languages="Polish">Borneo Zachodnie</name>
+		<name normalized="Kalimantan" languages="Basque;Breton;Danish;Dutch;English;Finnish;French;German;Indonesian;Italian;lumbaart;Malay;Norwegian (bokmal);Occitan;official;Piedmontese;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Kalimantan</name>
+		<name normalized="Kalimantan Andrefana" languages="Malagasy">Kalimantan Andrefana</name>
+		<name normalized="Kalimantan Barat" languages="Achinese;Banjar;Basa Banyumasan;English;German;Indonesian;Malay;Minangkabau;official;Swedish">Kalimantan Barat</name>
+		<name normalized="Kalimantan Barat Province" languages="English;official">Kalimantan Barat Province</name>
+		<name normalized="Kalimantan Barat Provinsi" languages="English;official">Kalimantan Barat Provinsi</name>
+		<name normalized="Kalimantan Kulon" languages="Javanese;Sundanese">Kalimantan Kulon</name>
+		<name normalized="Kalimantan occidental" languages="French">Kalimantan occidental</name>
+		<name normalized="Kalimantan Occidentale" languages="Italian">Kalimantan Occidentale</name>
+		<name normalized="Kalimantan Ocidental" languages="Portuguese">Kalimantan Ocidental</name>
+		<name normalized="Kalimantan Province" languages="English;official">Kalimantan Province</name>
+		<name normalized="Kalimantan Provinsi" languages="English;official">Kalimantan Provinsi</name>
+		<name normalized="Kalimantan Rocawani" languages="Zazaki">Kalimantan Rocawani</name>
+		<name normalized="Kalimantana" languages="Kinyarwanda">Kalimantana</name>
+		<name normalized="Kalimantanas" languages="Lithuanian">Kalimantanas</name>
+		<name normalized="Kalimantano" languages="Esperanto">Kalimantano</name>
+		<name normalized="Kalimantans" languages="Samogitian">Kalimantans</name>
+		<name normalized="Katundan nga Kalimantan" languages="Waray">Katundan nga Kalimantan</name>
+		<name normalized="Ka-li-man-tan-chu" languages="Hakka">Kâ-lî-man-tân-chû</name>
+		<name normalized="Lansi-Kalimantan" languages="Finnish">Länsi-Kalimantan</name>
+		<name normalized="Laane-Kalimantan" languages="Estonian">Lääne-Kalimantan</name>
+		<name normalized="Okcidenta Kalimantano" languages="Esperanto">Okcidenta Kalimantano</name>
+		<name normalized="Si Ka-li-man-tan-sen" languages="Hakka">Sî Kâ-lî-man-tân-sén</name>
+		<name normalized="Tay Kalimantan" languages="Vietnamese">Tây Kalimantan</name>
+		<name normalized="Vakaru Kalimantanas" languages="Lithuanian">Vakarų Kalimantanas</name>
+		<name normalized="West Kalimantan" languages="English;official">West Kalimantan</name>
+		<name normalized="West Kalimantan Province" languages="English;official">West Kalimantan Province</name>
+		<name normalized="West Kalimantan Provinsi" languages="English;official">West Kalimantan Provinsi</name>
+		<name normalized="West-Kalimantan" languages="Dutch">West-Kalimantan</name>
+		<name normalized="Zapadni Kalimantan" languages="Czech">Západní Kalimantan</name>
+		<name normalized="Zapadiн Kaлiмaнtaн" languages="Bulgarian">Западен Калимантан</name>
+		<name normalized="Zapadнi Kaлiмaнtaн" languages="Serbian">Западни Калимантан</name>
+		<name normalized="Zapadный Kaлiмaнtaн" languages="Russian">Западный Калимантан</name>
+		<name normalized="Iнdoнiziйсkiй Kaлiмaнtaн" languages="Russian">Индонезийский Калимантан</name>
+		<name normalized="Kaлiмaнtaн" languages="Bulgarian">Калимантан</name>
+		<name normalized="Өрнɵ Kaлiмaнtaн" languages="Mongolian">Өрнө Калимантан</name>
+		<name normalized="sوbہ لہندא کאلیmאنtאن" languages="Western Punjabi">صوبہ لہندا کالیمانتان</name>
+		<name normalized="kאلmنtאن אلغrbyة" languages="Arabic">كالمنتان الغربية</name>
+		<name normalized="kאلymאنtאن" languages="Arabic">كاليمانتان</name>
+		<name normalized="mغrbی کאلیmאنtאن" languages="Urdu">مغربی کالیمانتان</name>
+		<name normalized="کאلیmאنtאن" languages="Persian">کالیمانتان</name>
+		<name normalized="کאلیmאنtאن غrbی" languages="Persian">کالیمانتان غربی</name>
+		<name normalized="ps्cim kाlimांtाn" languages="Marathi">पश्चिम कालिमांतान</name>
+		<name normalized="დასავლეთი კალიმანტანი" languages="Georgian">დასავლეთი კალიმანტანი</name>
+		<name normalized="កាលីម៉ាន់តាន់" languages="Khmer">កាលីម៉ាន់តាន់</name>
+		<name normalized="krmntn" languages="Japanese">カリマンタン</name>
+		<name normalized="加里曼丹" languages="Chinese">加里曼丹</name>
+		<name normalized="婆羅洲" languages="Cantonese">婆羅洲</name>
+		<name normalized="西krmntn州" languages="Japanese">西カリマンタン州</name>
+		<name normalized="西加里曼丹省" languages="Chinese">西加里曼丹省</name>
+		<name normalized="칼리만탄" languages="Korean">칼리만탄</name>
+		<name normalized="칼리만탄바랏 주" languages="Korean">칼리만탄바랏 주</name>
+	</region>
+	<region name="Kalimantan Selatan" type="province" typeTranslated="provinsi">
+		<name normalized="Borneo Meridional" languages="Spanish">Borneo Meridional</name>
+		<name normalized="Borneo Poludniowe" languages="Polish">Borneo Południowe</name>
+		<name normalized="Etela-Kalimantan" languages="Finnish">Etelä-Kalimantan</name>
+		<name normalized="Guney Kalimantan" languages="Turkish">Güney Kalimantan</name>
+		<name normalized="Jizni Kalimantan" languages="Czech">Jižní Kalimantan</name>
+		<name normalized="Kalimantan" languages="Basque;Breton;Danish;Dutch;English;Finnish;French;German;Indonesian;Italian;lumbaart;Malay;Norwegian (bokmal);Occitan;official;Piedmontese;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Kalimantan</name>
+		<name normalized="Kalimantan del Sud" languages="Occitan">Kalimantan del Sud</name>
+		<name normalized="Kalimantan do Sul" languages="Portuguese">Kalimantan do Sul</name>
+		<name normalized="Kalimantan du Sud" languages="French">Kalimantan du Sud</name>
+		<name normalized="Kalimantan Kidul" languages="Javanese;Sundanese">Kalimantan Kidul</name>
+		<name normalized="Kalimantan Meridionale" languages="Italian">Kalimantan Meridionale</name>
+		<name normalized="Kalimantan Province" languages="English;official">Kalimantan Province</name>
+		<name normalized="Kalimantan Provinsi" languages="English;official">Kalimantan Provinsi</name>
+		<name normalized="Kalimantan Selatan" languages="Banjar;Basa Banyumasan;Buginese;English;German;Indonesian;Malay;Norwegian (bokmal);official;Swedish">Kalimantan Selatan</name>
+		<name normalized="Kalimantan Selatan Province" languages="English;official">Kalimantan Selatan Province</name>
+		<name normalized="Kalimantan Selatan Provinsi" languages="English;official">Kalimantan Selatan Provinsi</name>
+		<name normalized="Kalimantan Seulatan" languages="Achinese">Kalimantan Seulatan</name>
+		<name normalized="Kalimantan Veroci" languages="Zazaki">Kalimantan Veroci</name>
+		<name normalized="Kalimantana" languages="Kinyarwanda">Kalimantana</name>
+		<name normalized="Kalimantanas" languages="Lithuanian">Kalimantanas</name>
+		<name normalized="Kalimantano" languages="Esperanto">Kalimantano</name>
+		<name normalized="Kalimantans" languages="Samogitian">Kalimantans</name>
+		<name normalized="Ka-li-man-tan-chu" languages="Hakka">Kâ-lî-man-tân-chû</name>
+		<name normalized="Nam Kalimantan" languages="Vietnamese">Nam Kalimantan</name>
+		<name normalized="Nam Ka-li-man-tan-sen" languages="Hakka">Nàm Kâ-lî-man-tân-sén</name>
+		<name normalized="Pietu Kalimantanas" languages="Lithuanian">Pietų Kalimantanas</name>
+		<name normalized="Salatan nga Kalimantan" languages="Waray">Salatan nga Kalimantan</name>
+		<name normalized="South Kalimantan" languages="English;official">South Kalimantan</name>
+		<name normalized="South Kalimantan Province" languages="English;official">South Kalimantan Province</name>
+		<name normalized="South Kalimantan Provinsi" languages="English;official">South Kalimantan Provinsi</name>
+		<name normalized="Suda Kalimantano" languages="Esperanto">Suda Kalimantano</name>
+		<name normalized="Zuid-Kalimantan" languages="Dutch">Zuid-Kalimantan</name>
+		<name normalized="Iнdoнiziйсkiй Kaлiмaнtaн" languages="Russian">Индонезийский Калимантан</name>
+		<name normalized="Kaлiмaнtaн" languages="Bulgarian">Калимантан</name>
+		<name normalized="Юziн Kaлiмaнtaн" languages="Bulgarian">Южен Калимантан</name>
+		<name normalized="Юzный Kaлiмaнtaн" languages="Russian">Южный Калимантан</name>
+		<name normalized="Juzнi Kaлiмaнtaн" languages="Serbian">Јужни Калимантан</name>
+		<name normalized="Өмнɵ Kaлiмaнtaн" languages="Mongolian">Өмнө Калимантан</name>
+		<name normalized="jنوbی کאلیmאنtی" languages="Urdu">جنوبی کالیمانتی</name>
+		<name normalized="kאلymאنtאن" languages="Arabic">كاليمانتان</name>
+		<name normalized="kאلymאنtאن אلjنوbyة" languages="Arabic">كاليمانتان الجنوبية</name>
+		<name normalized="کאلیmאنtאن" languages="Persian">کالیمانتان</name>
+		<name normalized="کאلیmאنtאن jنوbی" languages="Persian">کالیمانتان جنوبی</name>
+		<name normalized="dk्षiण kाlimांtाn" languages="Marathi">दक्षिण कालिमांतान</name>
+		<name normalized="தெற்கு கலிமந்தான்" languages="Tamil">தெற்கு கலிமந்தான்</name>
+		<name normalized="სამხრეთი კალიმანტანი" languages="Georgian">სამხრეთი კალიმანტანი</name>
+		<name normalized="កាលីម៉ាន់តាន់" languages="Khmer">កាលីម៉ាន់តាន់</name>
+		<name normalized="krmntn" languages="Japanese">カリマンタン</name>
+		<name normalized="加里曼丹" languages="Chinese">加里曼丹</name>
+		<name normalized="南krmntn州" languages="Japanese">南カリマンタン州</name>
+		<name normalized="南加里曼丹省" languages="Chinese">南加里曼丹省</name>
+		<name normalized="婆羅洲" languages="Cantonese">婆羅洲</name>
+		<name normalized="칼리만탄" languages="Korean">칼리만탄</name>
+		<name normalized="칼리만탄슬라탄 주" languages="Korean">칼리만탄슬라탄 주</name>
+	</region>
+	<region name="Kalimantan Tengah" type="province" typeTranslated="provinsi">
+		<name normalized="Borneo Central" languages="Spanish">Borneo Central</name>
+		<name normalized="Borneo Srodkowe" languages="Polish">Borneo Środkowe</name>
+		<name normalized="Butnga nga Kalimantan" languages="Waray">Butnga nga Kalimantan</name>
+		<name normalized="Centra Kalimantano" languages="Esperanto">Centra Kalimantano</name>
+		<name normalized="Central Kalimantan" languages="English;official">Central Kalimantan</name>
+		<name normalized="Central Kalimantan Province" languages="English;official">Central Kalimantan Province</name>
+		<name normalized="Central Kalimantan Provinsi" languages="English;official">Central Kalimantan Provinsi</name>
+		<name normalized="Centrinis Kalimantanas" languages="Lithuanian">Centrinis Kalimantanas</name>
+		<name normalized="Chung Ka-li-man-tan-sen" languages="Hakka">Chûng Kâ-lî-man-tân-sén</name>
+		<name normalized="Kalimantan central" languages="French;Occitan;Portuguese">Kalimantan central</name>
+		<name normalized="Kalimantan Centrale" languages="Italian">Kalimantan Centrale</name>
+		<name normalized="Kalimantan Merkezi" languages="Zazaki">Kalimantan Merkezi</name>
+		<name normalized="Kalimantan Tangah" languages="Banjar">Kalimantan Tangah</name>
+		<name normalized="Kalimantan Tengah" languages="English;German;Indonesian;Javanese;Malay;official;Sundanese;Swedish">Kalimantan Tengah</name>
+		<name normalized="Kalimantan Tengah Province" languages="English;official">Kalimantan Tengah Province</name>
+		<name normalized="Kalimantan Tengah Provinsi" languages="English;official">Kalimantan Tengah Provinsi</name>
+		<name normalized="Kalimantan Teungoh" languages="Achinese">Kalimantan Teungöh</name>
+		<name normalized="Keski-Kalimantan" languages="Finnish">Keski-Kalimantan</name>
+		<name normalized="Midden-Kalimantan" languages="Dutch">Midden-Kalimantan</name>
+		<name normalized="Orta Kalimantan" languages="Turkish">Orta Kalimantan</name>
+		<name normalized="Stredny Kalimantan" languages="Slovak">Stredný Kalimantan</name>
+		<name normalized="Stredni Kalimantan" languages="Czech">Střední Kalimantan</name>
+		<name normalized="Trung Kalimantan" languages="Vietnamese">Trung Kalimantan</name>
+		<name normalized="Tɵv Kaлiмaнtaн" languages="Mongolian">Төв Калимантан</name>
+		<name normalized="Tiнtрaлiн Kaлiмaнtaн" languages="Bulgarian">Централен Калимантан</name>
+		<name normalized="Tiнtрaлнi Kaлiмaнtaн" languages="Serbian">Централни Калимантан</name>
+		<name normalized="Tiнtрaльный Kaлiмaнtaн" languages="Russian">Центральный Калимантан</name>
+		<name normalized="sوbہ gھbلא کאلیmאنtאن" languages="Western Punjabi">صوبہ گھبلا کالیمانتان</name>
+		<name normalized="kאلmنtאن אلوسtى" languages="Arabic">كالمنتان الوسطى</name>
+		<name normalized="وسtی کאلیmאنtאن" languages="Urdu">وسطی کالیمانتان</name>
+		<name normalized="کאلیmאنtאن mrکزی" languages="Persian">کالیمانتان مرکزی</name>
+		<name normalized="md्y kाlimांtाn" languages="Marathi">मध्य कालिमांतान</name>
+		<name normalized="ცენტრალური კალიმანტანი" languages="Georgian">ცენტრალური კალიმანტანი</name>
+		<name normalized="中加里曼丹省" languages="Chinese">中加里曼丹省</name>
+		<name normalized="中部krmntn州" languages="Japanese">中部カリマンタン州</name>
+		<name normalized="칼리만탄틍아 주" languages="Korean">칼리만탄틍아 주</name>
+	</region>
+	<region name="Kalimantan Timur" type="province" typeTranslated="provinsi">
+		<name normalized="Borneo Wschodnie" languages="Polish">Borneo Wschodnie</name>
+		<name normalized="Dogu Kalimantan" languages="Turkish">Doğu Kalimantan</name>
+		<name normalized="East Kalimantan" languages="English;official">East Kalimantan</name>
+		<name normalized="East Kalimantan Province" languages="English;official">East Kalimantan Province</name>
+		<name normalized="East Kalimantan Provinsi" languages="English;official">East Kalimantan Provinsi</name>
+		<name normalized="Ita-Kalimantan" languages="Finnish">Itä-Kalimantan</name>
+		<name normalized="Kalimantan" languages="Basque;Breton;Danish;Dutch;English;Finnish;French;German;Indonesian;Italian;lumbaart;Malay;Norwegian (bokmal);Occitan;official;Piedmontese;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Kalimantan</name>
+		<name normalized="Kalimantan oriental" languages="French;Occitan;Portuguese;Spanish">Kalimantan oriental</name>
+		<name normalized="Kalimantan Orientale" languages="Italian">Kalimantan Orientale</name>
+		<name normalized="Kalimantan Province" languages="English;official">Kalimantan Province</name>
+		<name normalized="Kalimantan Provinsi" languages="English;official">Kalimantan Provinsi</name>
+		<name normalized="Kalimantan Rocvetısi" languages="Zazaki">Kalimantan Rocvetışi</name>
+		<name normalized="Kalimantan Timu" languages="Achinese">Kalimantan Timu</name>
+		<name normalized="Kalimantan Timur" languages="Banjar;Basa Banyumasan;English;German;Indonesian;Malay;Minangkabau;official;Swedish">Kalimantan Timur</name>
+		<name normalized="Kalimantan Timur Province" languages="English;official">Kalimantan Timur Province</name>
+		<name normalized="Kalimantan Timur Provinsi" languages="English;official">Kalimantan Timur Provinsi</name>
+		<name normalized="Kalimantan Wetan" languages="Javanese;Sundanese">Kalimantan Wétan</name>
+		<name normalized="Kalimantana" languages="Kinyarwanda">Kalimantana</name>
+		<name normalized="Kalimantanas" languages="Lithuanian">Kalimantanas</name>
+		<name normalized="Kalimantano" languages="Esperanto">Kalimantano</name>
+		<name normalized="Kalimantans" languages="Samogitian">Kalimantans</name>
+		<name normalized="Kalimantanul de Est" languages="Romanian">Kalimantanul de Est</name>
+		<name normalized="Ka-li-man-tan-chu" languages="Hakka">Kâ-lî-man-tân-chû</name>
+		<name normalized="Oost-Kalimantan" languages="Dutch">Oost-Kalimantan</name>
+		<name normalized="Orienta Kalimantano" languages="Esperanto">Orienta Kalimantano</name>
+		<name normalized="Rytu Kalimantanas" languages="Lithuanian">Rytų Kalimantanas</name>
+		<name normalized="Sinirangan nga Kalimantan" languages="Waray">Sinirangan nga Kalimantan</name>
+		<name normalized="Tung Ka-li-man-tan-sen" languages="Hakka">Tûng Kâ-lî-man-tân-sén</name>
+		<name normalized="Vychodni Kalimantan" languages="Czech">Východní Kalimantan</name>
+		<name normalized="Dong Kalimantan" languages="Vietnamese">Đông Kalimantan</name>
+		<name normalized="Voсtocный Kaлiмaнtaн" languages="Russian">Восточный Калимантан</name>
+		<name normalized="Iztociн Kaлiмaнtaн" languages="Bulgarian">Източен Калимантан</name>
+		<name normalized="Iнdoнiziйсkiй Kaлiмaнtaн" languages="Russian">Индонезийский Калимантан</name>
+		<name normalized="Iсtocнi Kaлiмaнtaн" languages="Serbian">Источни Калимантан</name>
+		<name normalized="Kaлiмaнtaн" languages="Bulgarian">Калимантан</name>
+		<name normalized="Pрaviнtыi Uсkodнi Kaлiмaнtaн" languages="Belarusian">Правінцыя Усходні Калімантан</name>
+		<name normalized="sوbہ چڑھدא کאلیmאنtאن" languages="Western Punjabi">صوبہ چڑھدا کالیمانتان</name>
+		<name normalized="kאلmنtאن אلشrqyة" languages="Arabic">كالمنتان الشرقية</name>
+		<name normalized="kאلymאنtאن" languages="Arabic">كاليمانتان</name>
+		<name normalized="کאلیmאنtאن" languages="Persian">کالیمانتان</name>
+		<name normalized="کאلیmאنtאن شrqی" languages="Persian;Urdu">کالیمانتان شرقی</name>
+		<name normalized="pur्v kाlimांtाn" languages="Marathi">पूर्व कालिमांतान</name>
+		<name normalized="จังหวัดกาลีมันตันตะวันออก" languages="Thai">จังหวัดกาลีมันตันตะวันออก</name>
+		<name normalized="აღმოსავლეთი კალიმანტანი" languages="Georgian">აღმოსავლეთი კალიმანტანი</name>
+		<name normalized="កាលីម៉ាន់តាន់" languages="Khmer">កាលីម៉ាន់តាន់</name>
+		<name normalized="krmntn" languages="Japanese">カリマンタン</name>
+		<name normalized="加里曼丹" languages="Chinese">加里曼丹</name>
+		<name normalized="婆羅洲" languages="Cantonese">婆羅洲</name>
+		<name normalized="東krmntn州" languages="Japanese">東カリマンタン州</name>
+		<name normalized="東加里曼丹省" languages="Chinese">東加里曼丹省</name>
+		<name normalized="칼리만탄" languages="Korean">칼리만탄</name>
+		<name normalized="칼리만탄티무르 주" languages="Korean">칼리만탄티무르 주</name>
+	</region>
+	<region name="Kalimantan Utara" type="province" typeTranslated="provinsi">
+		<name normalized="Bac Kalimantan" languages="Vietnamese">Bắc Kalimantan</name>
+		<name normalized="Kalimantan" languages="Basque;Breton;Danish;Dutch;English;Finnish;French;German;Indonesian;Italian;lumbaart;Malay;Norwegian (bokmal);Occitan;official;Piedmontese;Polish;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Kalimantan</name>
+		<name normalized="Kalimantan Baroh" languages="Achinese">Kalimantan Barôh</name>
+		<name normalized="Kalimantan du Nord" languages="French">Kalimantan du Nord</name>
+		<name normalized="Kalimantan Kaler" languages="Sundanese">Kalimantan Kalér</name>
+		<name normalized="Kalimantan Lor" languages="Javanese">Kalimantan Lor</name>
+		<name normalized="Kalimantan Nord" languages="Occitan">Kalimantan Nord</name>
+		<name normalized="Kalimantan Province" languages="English;official">Kalimantan Province</name>
+		<name normalized="Kalimantan Provinsi" languages="English;official">Kalimantan Provinsi</name>
+		<name normalized="Kalimantan Settentrionale" languages="Italian">Kalimantan Settentrionale</name>
+		<name normalized="Kalimantan Utara" languages="Banjar;English;German;Indonesian;Malay;Minangkabau;official">Kalimantan Utara</name>
+		<name normalized="Kalimantan Utara Province" languages="English;official">Kalimantan Utara Province</name>
+		<name normalized="Kalimantan Utara Provinsi" languages="English;official">Kalimantan Utara Provinsi</name>
+		<name normalized="Kalimantana" languages="Kinyarwanda">Kalimantana</name>
+		<name normalized="Kalimantanas" languages="Lithuanian">Kalimantanas</name>
+		<name normalized="Kalimantano" languages="Esperanto">Kalimantano</name>
+		<name normalized="Kalimantans" languages="Samogitian">Kalimantans</name>
+		<name normalized="Ka-li-man-tan-chu" languages="Hakka">Kâ-lî-man-tân-chû</name>
+		<name normalized="Noord-Kalimantan" languages="Dutch">Noord-Kalimantan</name>
+		<name normalized="Norda Kalimantano" languages="Esperanto">Norda Kalimantano</name>
+		<name normalized="North Kalimantan" languages="English;official">North Kalimantan</name>
+		<name normalized="North Kalimantan Province" languages="English;official">North Kalimantan Province</name>
+		<name normalized="North Kalimantan Provinsi" languages="English;official">North Kalimantan Provinsi</name>
+		<name normalized="Iнdoнiziйсkiй Kaлiмaнtaн" languages="Russian">Индонезийский Калимантан</name>
+		<name normalized="Kaлiмaнtaн" languages="Bulgarian">Калимантан</name>
+		<name normalized="Сiviрнi Kaлiмaнtaн" languages="Serbian">Северни Калимантан</name>
+		<name normalized="Сiviрный Kaлiмaнtaн" languages="Russian">Северный Калимантан</name>
+		<name normalized="kאلymאنtאن" languages="Arabic">كاليمانتان</name>
+		<name normalized="kلymنtن شmאل" languages="Arabic">كليمنتن شمال</name>
+		<name normalized="کאلیmאنtאن" languages="Persian">کالیمانتان</name>
+		<name normalized="កាលីម៉ាន់តាន់" languages="Khmer">កាលីម៉ាន់តាន់</name>
+		<name normalized="krmntn" languages="Japanese">カリマンタン</name>
+		<name normalized="加里曼丹" languages="Chinese">加里曼丹</name>
+		<name normalized="北krmntn州" languages="Japanese">北カリマンタン州</name>
+		<name normalized="北加里曼丹省" languages="Chinese">北加里曼丹省</name>
+		<name normalized="婆羅洲" languages="Cantonese">婆羅洲</name>
+		<name normalized="칼리만탄" languages="Korean">칼리만탄</name>
+		<name normalized="칼리만탄우타라 주" languages="Korean">칼리만탄우타라 주</name>
+	</region>
+	<region name="Kepulauan Bangka Belitung" type="province" typeTranslated="provinsi">
+		<name normalized="Bangka Belitung Islands" languages="English;official">Bangka Belitung Islands</name>
+		<name normalized="Bangka Belitung Islands Province" languages="English;official">Bangka Belitung Islands Province</name>
+		<name normalized="Bangka Belitung Islands Provinsi" languages="English;official">Bangka Belitung Islands Provinsi</name>
+		<name normalized="Bangka-Belitung" languages="Catalan;Czech;Danish;Finnish;German;Italian;Norwegian (bokmal);Pampanga;Portuguese;Seeltersk;Spanish;Swedish;Turkish;Waray">Bangka-Belitung</name>
+		<name normalized="Bangka-Belitungo" languages="Esperanto">Bangka-Belitungo</name>
+		<name normalized="Bangka-Belitung Islands" languages="English">Bangka–Belitung Islands</name>
+		<name normalized="Banka-Billiton" languages="Dutch">Banka-Billiton</name>
+		<name normalized="Bankos-Belitungo salos" languages="Lithuanian">Bankos-Belitungo salos</name>
+		<name normalized="Kapulauan Bangka Belitung" languages="Minangkabau">Kapulauan Bangka Belitung</name>
+		<name normalized="Kapuloan Bangka Belitung" languages="Sundanese">Kapuloan Bangka Belitung</name>
+		<name normalized="Kapuloan Bangka-Belitung" languages="Javanese">Kapuloan Bangka-Belitung</name>
+		<name normalized="Kepulauan Bangka Belitung" languages="English;Indonesian;Malay;official">Kepulauan Bangka Belitung</name>
+		<name normalized="Kepulauan Bangka Belitung Province" languages="English;official">Kepulauan Bangka Belitung Province</name>
+		<name normalized="Kepulauan Bangka Belitung Provinsi" languages="English;official">Kepulauan Bangka Belitung Provinsi</name>
+		<name normalized="Pulo-pulo Bangka Belitung" languages="Achinese">Pulo-pulo Bangka Belitung</name>
+		<name normalized="Pang-ka Vu-li-thung-sen" languages="Hakka">Pâng-kâ Vú-lî-thung-sén</name>
+		<name normalized="Quan dao Bangka-Belitung" languages="Vietnamese">Quần đảo Bangka-Belitung</name>
+		<name normalized="Wyspy Bangka i Belitung" languages="Polish">Wyspy Bangka i Belitung</name>
+		<name normalized="Iles Bangka Belitung" languages="French">Îles Bangka Belitung</name>
+		<name normalized="Baнgka Biлituнg" languages="Bulgarian;Serbian">Бангка Белитунг</name>
+		<name normalized="Baнgka-Biлituнg" languages="Belarusian">Бангка–Белітунг</name>
+		<name normalized="Baнka-Biлituнg" languages="Russian">Банка-Белитунг</name>
+		<name normalized="bאنgکא bیلیٹنg" languages="Urdu">بانگکا بیلیٹنگ</name>
+		<name normalized="jزאیr bאنgکא-bلیtونg" languages="Persian">جزایر بانگکا-بلیتونگ</name>
+		<name normalized="sوbہ bאنgکא bیلیٹنg" languages="Western Punjabi">صوبہ بانگکا بیلیٹنگ</name>
+		<name normalized="bांkा-belituंg d्vipsmuh" languages="Marathi">बांका-बेलितुंग द्वीपसमूह</name>
+		<name normalized="ბანკა-ბელიტუნგი" languages="Georgian">ბანკა-ბელიტუნგი</name>
+		<name normalized="bnk・brtun州" languages="Japanese">バンカ・ブリトゥン州</name>
+		<name normalized="邦加-勿里洞省" languages="Chinese">邦加-勿里洞省</name>
+		<name normalized="방카벨리퉁 제도" languages="Korean">방카벨리퉁 제도</name>
+	</region>
+	<region name="Kepulauan Riau" type="province" typeTranslated="provinsi">
+		<name normalized="Ilhas Riau" languages="Portuguese">Ilhas Riau</name>
+		<name normalized="Illes Riau" languages="Catalan">Illes Riau</name>
+		<name normalized="Isole Riau" languages="Italian">Isole Riau</name>
+		<name normalized="Kapulauan Riau" languages="Minangkabau">Kapulauan Riau</name>
+		<name normalized="Kapuloan Riau" languages="Javanese;Sundanese">Kapuloan Riau</name>
+		<name normalized="Kapuropod-an Riau" languages="Waray">Kapuropod-an Riau</name>
+		<name normalized="Kepulauan Riau" languages="English;German;Indonesian;Norwegian (bokmal);official;Swedish">Kepulauan Riau</name>
+		<name normalized="Kepulauan Riau Province" languages="English;official">Kepulauan Riau Province</name>
+		<name normalized="Kepulauan Riau Provinsi" languages="English;official">Kepulauan Riau Provinsi</name>
+		<name normalized="Lalawigan ng Kapuluan ng Riau" languages="Tagalog">Lalawigan ng Kapuluan ng Riau</name>
+		<name normalized="Liau-nui Khiun-to-sen" languages="Hakka">Liàu-nui Khiùn-tó-sén</name>
+		<name normalized="Ostrovy Riau" languages="Czech">Ostrovy Riau</name>
+		<name normalized="Provinsi Kepulauan Riau" languages="Malay">Provinsi Kepulauan Riau</name>
+		<name normalized="Pulo-pulo Riau" languages="Achinese">Pulo-pulo Riau</name>
+		<name normalized="Quan dao Riau" languages="Vietnamese">Quần đảo Riau</name>
+		<name normalized="Riau Adaları" languages="Turkish">Riau Adaları</name>
+		<name normalized="Riau Islands" languages="English;official;Simple English">Riau Islands</name>
+		<name normalized="Riau Islands Province" languages="English;official">Riau Islands Province</name>
+		<name normalized="Riau Islands Provinsi" languages="English;official">Riau Islands Provinsi</name>
+		<name normalized="Riau salos" languages="Lithuanian">Riau salos</name>
+		<name normalized="Riau uhartedia" languages="Basque">Riau uhartedia</name>
+		<name normalized="Riau-insuloj" languages="Esperanto">Riau-insuloj</name>
+		<name normalized="Riausaaret" languages="Finnish">Riausaaret</name>
+		<name normalized="Riouwarchipel" languages="Dutch">Riouwarchipel</name>
+		<name normalized="Wyspy Riau" languages="Polish">Wyspy Riau</name>
+		<name normalized="Ynysoedd Riau" languages="Welsh">Ynysoedd Riau</name>
+		<name normalized="Iles Riau" languages="French">Îles Riau</name>
+		<name normalized="Oсtрva Рijau" languages="Serbian">Острва Ријау</name>
+		<name normalized="Oсtрova Рiau" languages="Russian">Острова Риау</name>
+		<name normalized="Oсtрovi Рiau" languages="Bulgarian">Острови Риау</name>
+		<name normalized="Pрaviнtыi Рыau" languages="Belarusian">Правінцыя Рыау</name>
+		<name normalized="Рiau aрлuudын мuz" languages="Mongolian">Риау арлуудын муж</name>
+		<name normalized="jزאیr rیאئو" languages="Persian">جزایر ریائو</name>
+		<name normalized="jزr ryאو" languages="Arabic">جزر رياو</name>
+		<name normalized="rیאو jزאئیr" languages="Urdu">ریاو جزائیر</name>
+		<name normalized="sوbہ rیאؤ jزیrے" languages="Western Punjabi">صوبہ ریاؤ جزیرے</name>
+		<name normalized="riyाu d्vipsmuh" languages="Marathi">रियाउ द्वीपसमूह</name>
+		<name normalized="หมู่เกาะรีเยา" languages="Thai">หมู่เกาะรีเยา</name>
+		<name normalized="რიაუს კუნძულების პროვინცია" languages="Georgian">რიაუს კუნძულების პროვინცია</name>
+		<name normalized="rau諸島州" languages="Japanese">リアウ諸島州</name>
+		<name normalized="廖内群岛省" languages="Chinese">廖内群岛省</name>
+		<name normalized="리아우 제도 주" languages="Korean">리아우 제도 주</name>
+	</region>
+	<region name="Lampung" type="province" typeTranslated="provinsi">
+		<name normalized="Lampung" languages="Achinese;Catalan;Czech;Danish;Dutch;English;Finnish;French;German;Indonesian;Italian;Javanese;Malay;Minangkabau;Norwegian (bokmal);official;Pampanga;Polish;Portuguese;Romanian;Spanish;Sundanese;Swedish;Turkish;Vietnamese;Waray;Welsh">Lampung</name>
+		<name normalized="Lampung Province" languages="English;official">Lampung Province</name>
+		<name normalized="Lampung Provinsi" languages="English;official">Lampung Provinsi</name>
+		<name normalized="Lampungas" languages="Lithuanian">Lampungas</name>
+		<name normalized="Lampungo" languages="Esperanto">Lampungo</name>
+		<name normalized="Nam-pong-sen" languages="Hakka">Nâm-póng-sén</name>
+		<name normalized="Лaмpuн" languages="Mongolian">Лампун</name>
+		<name normalized="Лaмpuнg" languages="Bulgarian;Russian;Serbian;Ukrainian">Лампунг</name>
+		<name normalized="sوbہ لאmpونg" languages="Western Punjabi">صوبہ لامپونگ</name>
+		<name normalized="لאmbونj" languages="Arabic">لامبونج</name>
+		<name normalized="لאmpونg" languages="Persian;Urdu">لامپونگ</name>
+		<name normalized="lांpuंg" languages="Marathi">लांपुंग</name>
+		<name normalized="ლამპუნგი" languages="Georgian">ლამპუნგი</name>
+		<name normalized="rnpn州" languages="Japanese">ランプン州</name>
+		<name normalized="楠榜省" languages="Chinese">楠榜省</name>
+		<name normalized="람풍 주" languages="Korean">람풍 주</name>
+	</region>
+	<region name="Maluku" type="province" typeTranslated="provinsi">
+		<name normalized="Ilhas Molucas" languages="Portuguese">Ilhas Molucas</name>
+		<name normalized="Inizi Maluku" languages="Breton">Inizi Maluku</name>
+		<name normalized="Insulae Moluccae" languages="Latin">Insulae Moluccae</name>
+		<name normalized="Insulele Moluce" languages="Romanian">Insulele Moluce</name>
+		<name normalized="Islas Molucas" languages="Spanish">Islas Molucas</name>
+		<name normalized="Kapulauan Maluku" languages="Minangkabau">Kapulauan Maluku</name>
+		<name normalized="Kapuloan Maluku" languages="Javanese;Sundanese">Kapuloan Maluku</name>
+		<name normalized="Kapuluang Maluku" languages="Tagalog">Kapuluang Maluku</name>
+		<name normalized="Kapuropod-an Maluku" languages="Waray">Kapuropod-an Maluku</name>
+		<name normalized="Kepulauan Maluku" languages="Basa Banyumasan;Indonesian;Malay">Kepulauan Maluku</name>
+		<name normalized="Malucca" languages="Nahuatl">Malucca</name>
+		<name normalized="Maluku" languages="Achinese;Dutch;English;German;Indonesian;Javanese;lumbaart;Malay;Minangkabau;official;Sundanese;Turkish;Vietnamese;Waray;Welsh">Maluku</name>
+		<name normalized="Maluku Adaları" languages="Turkish">Maluku Adaları</name>
+		<name normalized="Maluku Islands" languages="English;Pampanga;Samoan;Simple English">Maluku Islands</name>
+		<name normalized="Maluku Otoci" languages="Serbo-Croatian">Maluku Otoci</name>
+		<name normalized="Maluku Province" languages="English;official">Maluku Province</name>
+		<name normalized="Maluku Provinsi" languages="English;official">Maluku Provinsi</name>
+		<name normalized="Maluku saared" languages="Estonian">Maluku saared</name>
+		<name normalized="Maluku-szigetek" languages="Hungarian">Maluku-szigetek</name>
+		<name normalized="Molucas" languages="Cebuano;Galician;Occitan;Portuguese;Spanish">Molucas</name>
+		<name normalized="Molucche" languages="Italian">Molucche</name>
+		<name normalized="Moluche" languages="Piedmontese">Moluche</name>
+		<name normalized="Moluckerna" languages="Swedish">Moluckerna</name>
+		<name normalized="Molukai" languages="Lithuanian">Molukai</name>
+		<name normalized="Molukak" languages="Basque">Molukak</name>
+		<name normalized="Moluki" languages="Polish">Moluki</name>
+		<name normalized="Molukit" languages="Finnish">Molukit</name>
+		<name normalized="Molukkane" languages="Norwegian Nynorsk">Molukkane</name>
+		<name normalized="Molukke" languages="Afrikaans">Molukke</name>
+		<name normalized="Molukken" languages="Dutch;German;Western Frisian">Molukken</name>
+		<name normalized="Molukkene" languages="Norwegian (bokmal)">Molukkene</name>
+		<name normalized="Molukkerne" languages="Danish">Molukkerne</name>
+		<name normalized="Molukoj" languages="Esperanto">Molukoj</name>
+		<name normalized="Moluku salas" languages="Latvian">Moluku salas</name>
+		<name normalized="Moluky" languages="Czech;Slovak">Moluky</name>
+		<name normalized="Moluku salos" languages="Lithuanian">Molukų salos</name>
+		<name normalized="Moluques" languages="Catalan;French">Moluques</name>
+		<name normalized="Molucka ostrva" languages="Bosnian">Molučka ostrva</name>
+		<name normalized="Molucki otoci" languages="Croatian">Molučki otoci</name>
+		<name normalized="Ma-lu-ku-sen" languages="Hakka">Mâ-lû-kú-sén</name>
+		<name normalized="Molukkaeyjar" languages="Icelandic">Mólúkkaeyjar</name>
+		<name normalized="Mo-lu̍k-ka Khiun-to" languages="Hakka">Mô-lu̍k-kâ Khiùn-tó</name>
+		<name normalized="Provincia di Maluku" languages="Italian">Provincia di Maluku</name>
+		<name normalized="Provincija Maluku" languages="Serbo-Croatian">Provincija Maluku</name>
+		<name normalized="Pulo-pulo Maluku" languages="Achinese">Pulo-pulo Maluku</name>
+		<name normalized="Quan dao Maluku" languages="Vietnamese">Quần đảo Maluku</name>
+		<name normalized="Μολοuκες" languages="Greek">Μολούκες</name>
+		<name normalized="Мaлukсkii aсtрavы" languages="Belarusian">Малукскія астравы</name>
+		<name normalized="Мaлuku" languages="Russian">Малуку</name>
+		<name normalized="Мoлukka" languages="Tajik">Молукка</name>
+		<name normalized="Мoлukkсkii oсtрova" languages="Russian">Молуккские острова</name>
+		<name normalized="Мoлukkсьki oсtрovi" languages="Ukrainian">Молуккські острови</name>
+		<name normalized="Мoлukсki oсtрovi" languages="Bulgarian">Молукски острови</name>
+		<name normalized="Мoлuku" languages="Bulgarian">Молуку</name>
+		<name normalized="Мoлucka oсtрva" languages="Serbian">Молучка острва</name>
+		<name normalized="איי מאדvqv" languages="Hebrew">איי מאלוקו</name>
+		<name normalized="jزאئr mلوک" languages="Urdu">جزائر ملوک</name>
+		<name normalized="jزאیr mلوک" languages="Persian">جزایر ملوک</name>
+		<name normalized="jزr אلmلوk" languages="Arabic">جزر الملوك</name>
+		<name normalized="sوbہ mאلوکو" languages="Western Punjabi">صوبہ مالوکو</name>
+		<name normalized="mאلوkو" languages="Arabic">مالوكو</name>
+		<name normalized="mאلوکو" languages="Urdu">مالوکو</name>
+		<name normalized="mلوک" languages="Persian">ملوک</name>
+		<name normalized="மலுக்கு தீவுகள்" languages="Tamil">மலுக்கு தீவுகள்</name>
+		<name normalized="หมู่เกาะโมลุกกะ" languages="Thai">หมู่เกาะโมลุกกะ</name>
+		<name normalized="მალუკუ" languages="Georgian">მალუკუ</name>
+		<name normalized="მოლუკის კუნძულები" languages="Georgian">მოლუკის კუნძულები</name>
+		<name normalized="mrk州" languages="Japanese">マルク州</name>
+		<name normalized="mrtk諸島" languages="Japanese">モルッカ諸島</name>
+		<name normalized="摩鹿加群岛" languages="Chinese">摩鹿加群岛</name>
+		<name normalized="摩鹿加群島" languages="Cantonese">摩鹿加群島</name>
+		<name normalized="马鲁古省" languages="Chinese">马鲁古省</name>
+		<name normalized="말루쿠 제도" languages="Korean">말루쿠 제도</name>
+		<name normalized="말루쿠 주" languages="Korean">말루쿠 주</name>
+	</region>
+	<region name="Maluku Utara" type="province" typeTranslated="provinsi">
+		<name normalized="Amihanan nga Maluku" languages="Waray">Amihanan nga Maluku</name>
+		<name normalized="Bac Maluku" languages="Vietnamese">Bắc Maluku</name>
+		<name normalized="Gogledd Maluku" languages="Welsh">Gogledd Maluku</name>
+		<name normalized="Ilhas Molucas" languages="Portuguese">Ilhas Molucas</name>
+		<name normalized="Inizi Maluku" languages="Breton">Inizi Maluku</name>
+		<name normalized="Insulae Moluccae" languages="Latin">Insulae Moluccae</name>
+		<name normalized="Insulele Moluce" languages="Romanian">Insulele Moluce</name>
+		<name normalized="Islas Molucas" languages="Spanish">Islas Molucas</name>
+		<name normalized="Kapulauan Maluku" languages="Minangkabau">Kapulauan Maluku</name>
+		<name normalized="Kapuloan Maluku" languages="Javanese;Sundanese">Kapuloan Maluku</name>
+		<name normalized="Kapuluang Maluku" languages="Tagalog">Kapuluang Maluku</name>
+		<name normalized="Kapuropod-an Maluku" languages="Waray">Kapuropod-an Maluku</name>
+		<name normalized="Kepulauan Maluku" languages="Basa Banyumasan;Indonesian;Malay">Kepulauan Maluku</name>
+		<name normalized="Kuzey Maluku" languages="Turkish">Kuzey Maluku</name>
+		<name normalized="Malucca" languages="Nahuatl">Malucca</name>
+		<name normalized="Maluku" languages="Achinese;Dutch;English;German;Indonesian;Javanese;lumbaart;Malay;Minangkabau;official;Sundanese;Turkish;Vietnamese;Waray;Welsh">Maluku</name>
+		<name normalized="Maluku Adaları" languages="Turkish">Maluku Adaları</name>
+		<name normalized="Maluku Baroh" languages="Achinese">Maluku Barôh</name>
+		<name normalized="Maluku Islands" languages="English;Pampanga;Samoan;Simple English">Maluku Islands</name>
+		<name normalized="Maluku Kaler" languages="Sundanese">Maluku Kalér</name>
+		<name normalized="Maluku Lor" languages="Javanese">Maluku Lor</name>
+		<name normalized="Maluku Otoci" languages="Serbo-Croatian">Maluku Otoci</name>
+		<name normalized="Maluku Province" languages="English;official">Maluku Province</name>
+		<name normalized="Maluku Provinsi" languages="English;official">Maluku Provinsi</name>
+		<name normalized="Maluku saared" languages="Estonian">Maluku saared</name>
+		<name normalized="Maluku Settentrionale" languages="Italian">Maluku Settentrionale</name>
+		<name normalized="Maluku Utara" languages="English;Indonesian;Malay;official;Swedish">Maluku Utara</name>
+		<name normalized="Maluku Utara Province" languages="English;official">Maluku Utara Province</name>
+		<name normalized="Maluku Utara Provinsi" languages="English;official">Maluku Utara Provinsi</name>
+		<name normalized="Maluku-szigetek" languages="Hungarian">Maluku-szigetek</name>
+		<name normalized="Molucas" languages="Cebuano;Galician;Occitan;Portuguese;Spanish">Molucas</name>
+		<name normalized="Molucas do Norte" languages="Portuguese">Molucas do Norte</name>
+		<name normalized="Molucas septentrionales" languages="Spanish">Molucas septentrionales</name>
+		<name normalized="Molucche" languages="Italian">Molucche</name>
+		<name normalized="Moluche" languages="Piedmontese">Moluche</name>
+		<name normalized="Moluckerna" languages="Swedish">Moluckerna</name>
+		<name normalized="Molukai" languages="Lithuanian">Molukai</name>
+		<name normalized="Molukak" languages="Basque">Molukak</name>
+		<name normalized="Moluki" languages="Polish">Moluki</name>
+		<name normalized="Moluki Polnocne" languages="Polish">Moluki Północne</name>
+		<name normalized="Molukit" languages="Finnish">Molukit</name>
+		<name normalized="Molukkane" languages="Norwegian Nynorsk">Molukkane</name>
+		<name normalized="Molukke" languages="Afrikaans">Molukke</name>
+		<name normalized="Molukken" languages="Dutch;German;Western Frisian">Molukken</name>
+		<name normalized="Molukkene" languages="Norwegian (bokmal)">Molukkene</name>
+		<name normalized="Molukkerne" languages="Danish">Molukkerne</name>
+		<name normalized="Molukoj" languages="Esperanto">Molukoj</name>
+		<name normalized="Moluku salas" languages="Latvian">Moluku salas</name>
+		<name normalized="Moluky" languages="Czech;Slovak">Moluky</name>
+		<name normalized="Moluku salos" languages="Lithuanian">Molukų salos</name>
+		<name normalized="Moluques" languages="Catalan;French">Moluques</name>
+		<name normalized="Moluques du Nord" languages="French">Moluques du Nord</name>
+		<name normalized="Moluques Septentrionals" languages="Catalan">Moluques Septentrionals</name>
+		<name normalized="Molucka ostrva" languages="Bosnian">Molučka ostrva</name>
+		<name normalized="Molucki otoci" languages="Croatian">Molučki otoci</name>
+		<name normalized="Ma-lu-ku-sen" languages="Hakka">Mâ-lû-kú-sén</name>
+		<name normalized="Molukkaeyjar" languages="Icelandic">Mólúkkaeyjar</name>
+		<name normalized="Mo-lu̍k-ka Khiun-to" languages="Hakka">Mô-lu̍k-kâ Khiùn-tó</name>
+		<name normalized="Noord-Molukken" languages="Dutch">Noord-Molukken</name>
+		<name normalized="Nordaj Molukoj" languages="Esperanto">Nordaj Molukoj</name>
+		<name normalized="Nordmolukken" languages="German">Nordmolukken</name>
+		<name normalized="North Maluku" languages="English;official">North Maluku</name>
+		<name normalized="North Maluku Province" languages="English;official">North Maluku Province</name>
+		<name normalized="North Maluku Provinsi" languages="English;official">North Maluku Provinsi</name>
+		<name normalized="Pet Ma-lu-ku-sen" languages="Hakka">Pet Mâ-lû-kú-sén</name>
+		<name normalized="Pohjois-Molukit" languages="Finnish">Pohjois-Molukit</name>
+		<name normalized="Provincia di Maluku" languages="Italian">Provincia di Maluku</name>
+		<name normalized="Provincija Maluku" languages="Serbo-Croatian">Provincija Maluku</name>
+		<name normalized="Pulo-pulo Maluku" languages="Achinese">Pulo-pulo Maluku</name>
+		<name normalized="Quan dao Maluku" languages="Vietnamese">Quần đảo Maluku</name>
+		<name normalized="Severni Moluky" languages="Czech">Severní Moluky</name>
+		<name normalized="Sjeverni Maluku" languages="Serbo-Croatian">Sjeverni Maluku</name>
+		<name normalized="Siaures Molukai" languages="Lithuanian">Šiaurės Molukai</name>
+		<name normalized="Μολοuκες" languages="Greek">Μολούκες</name>
+		<name normalized="Мaлukсkii aсtрavы" languages="Belarusian">Малукскія астравы</name>
+		<name normalized="Мaлuku" languages="Russian">Малуку</name>
+		<name normalized="Мoлukka" languages="Tajik">Молукка</name>
+		<name normalized="Мoлukkсkii oсtрova" languages="Russian">Молуккские острова</name>
+		<name normalized="Мoлukkсьki oсtрovi" languages="Ukrainian">Молуккські острови</name>
+		<name normalized="Мoлukсki oсtрovi" languages="Bulgarian">Молукски острови</name>
+		<name normalized="Мoлuku" languages="Bulgarian">Молуку</name>
+		<name normalized="Мoлucka oсtрva" languages="Serbian">Молучка острва</name>
+		<name normalized="Сiviрнo Мoлuku" languages="Bulgarian">Северно Молуку</name>
+		<name normalized="Сiviрнoi Мaлuku" languages="Russian">Северное Малуку</name>
+		<name normalized="איי מאדvqv" languages="Hebrew">איי מאלוקו</name>
+		<name normalized="jزאئr mلوک" languages="Urdu">جزائر ملوک</name>
+		<name normalized="jزאیr mلوک" languages="Persian">جزایر ملوک</name>
+		<name normalized="jزr אلmلوk" languages="Arabic">جزر الملوك</name>
+		<name normalized="شmאلی mאلوکو" languages="Urdu">شمالی مالوکو</name>
+		<name normalized="sوbہ אtلא mאلوکو" languages="Western Punjabi">صوبہ اتلا مالوکو</name>
+		<name normalized="sوbہ mאلوکو" languages="Western Punjabi">صوبہ مالوکو</name>
+		<name normalized="mאلوkو" languages="Arabic">مالوكو</name>
+		<name normalized="mאلوkو شmאلyة" languages="Arabic">مالوكو شمالية</name>
+		<name normalized="mאلوکو" languages="Urdu">مالوکو</name>
+		<name normalized="mلوک" languages="Persian">ملوک</name>
+		<name normalized="mلوک شmאلی" languages="Persian">ملوک شمالی</name>
+		<name normalized="மலுக்கு தீவுகள்" languages="Tamil">மலுக்கு தீவுகள்</name>
+		<name normalized="หมู่เกาะโมลุกกะ" languages="Thai">หมู่เกาะโมลุกกะ</name>
+		<name normalized="მალუკუ" languages="Georgian">მალუკუ</name>
+		<name normalized="მოლუკის კუნძულები" languages="Georgian">მოლუკის კუნძულები</name>
+		<name normalized="ჩრდილოეთი მალუკუ" languages="Georgian">ჩრდილოეთი მალუკუ</name>
+		<name normalized="mrk州" languages="Japanese">マルク州</name>
+		<name normalized="mrtk諸島" languages="Japanese">モルッカ諸島</name>
+		<name normalized="北mrk州" languages="Japanese">北マルク州</name>
+		<name normalized="北馬魯古省" languages="Cantonese">北馬魯古省</name>
+		<name normalized="北马鲁古省" languages="Chinese">北马鲁古省</name>
+		<name normalized="摩鹿加群岛" languages="Chinese">摩鹿加群岛</name>
+		<name normalized="摩鹿加群島" languages="Cantonese">摩鹿加群島</name>
+		<name normalized="马鲁古省" languages="Chinese">马鲁古省</name>
+		<name normalized="말루쿠 제도" languages="Korean">말루쿠 제도</name>
+		<name normalized="말루쿠 주" languages="Korean">말루쿠 주</name>
+		<name normalized="말루쿠우타라 주" languages="Korean">말루쿠우타라 주</name>
+	</region>
+	<region name="Nusa Tenggara Barat" type="province" typeTranslated="provinsi">
+		<name normalized="Batı Nusa Tenggara" languages="Turkish">Batı Nusa Tenggara</name>
+		<name normalized="Cite Isole dla Sonda" languages="Piedmontese">Cite Ìsole dla Sonda</name>
+		<name normalized="De sma Sundaoyer" languages="Norwegian (bokmal)">De små Sundaøyer</name>
+		<name normalized="Gorllewin Nusa Tenggara" languages="Welsh">Gorllewin Nusa Tenggara</name>
+		<name normalized="Gurugudti nga Kapuropod-an Sunda" languages="Waray">Gurugudti nga Kapuropod-an Sunda</name>
+		<name normalized="Illas menores da Sonda" languages="Galician">Illas menores da Sonda</name>
+		<name normalized="Illes Petites de la Sonda" languages="Catalan">Illes Petites de la Sonda</name>
+		<name normalized="Illes Petites de la Sonda Occidentals" languages="Catalan">Illes Petites de la Sonda Occidentals</name>
+		<name normalized="Islas menores de la Sonda" languages="Spanish">Islas menores de la Sonda</name>
+		<name normalized="Islas menores de la Sonda occidentales" languages="Spanish">Islas menores de la Sonda occidentales</name>
+		<name normalized="Kapulauan Nusa Tenggara" languages="Minangkabau">Kapulauan Nusa Tenggara</name>
+		<name normalized="Kapuloan Nusa Tenggara" languages="Javanese">Kapuloan Nusa Tenggara</name>
+		<name normalized="Kapuloan Sunda Alit" languages="Sundanese">Kapuloan Sunda Alit</name>
+		<name normalized="Katundan nga Nusa Tenggara" languages="Waray">Katundan nga Nusa Tenggara</name>
+		<name normalized="Kepulauan Nusa Tenggara" languages="Basa Banyumasan;Indonesian">Kepulauan Nusa Tenggara</name>
+		<name normalized="Kepulauan Sunda Kecil" languages="Malay">Kepulauan Sunda Kecil</name>
+		<name normalized="Kis-Szunda-szigetek" languages="Hungarian">Kis-Szunda-szigetek</name>
+		<name normalized="Klein Sunda-eilande" languages="Afrikaans">Klein Sunda-eilande</name>
+		<name normalized="Kleine Soenda-eilanden" languages="Dutch">Kleine Soenda-eilanden</name>
+		<name normalized="Kleine Sundainseln" languages="German">Kleine Sundainseln</name>
+		<name normalized="Kucuk Sunda Adaları" languages="Turkish">Küçük Sunda Adaları</name>
+		<name normalized="Lesser Sunda Islands" languages="English;Pampanga;Simple English">Lesser Sunda Islands</name>
+		<name normalized="Litje Sunda-Ailounde" languages="Seeltersk">Litje Sunda-Ailounde</name>
+		<name normalized="Lytse Sunda-eilannen" languages="Western Frisian">Lytse Sûnda-eilannen</name>
+		<name normalized="Lantinen Nusa Tenggara" languages="Finnish">Läntinen Nusa Tenggara</name>
+		<name normalized="Mala Sundska ostrva" languages="Bosnian">Mala Sundska ostrva</name>
+		<name normalized="Malgrandaj Sundaj Insuloj" languages="Esperanto">Malgrandaj Sundaj Insuloj</name>
+		<name normalized="Mali sundski otoci" languages="Croatian;Serbo-Croatian">Mali sundski otoci</name>
+		<name normalized="Male Sundy" languages="Czech;Slovak">Malé Sundy</name>
+		<name normalized="Mazas Zunda salas" languages="Latvian">Mazās Zunda salas</name>
+		<name normalized="Male Sundaske kupy" languages="Upper Sorbian">Małe Sundaske kupy</name>
+		<name normalized="Male Wyspy Sundajskie" languages="Polish">Małe Wyspy Sundajskie</name>
+		<name normalized="Male Wyspy Sundajskie Zachodnie" languages="Polish">Małe Wyspy Sundajskie Zachodnie</name>
+		<name normalized="Mazosios Sundos salos" languages="Lithuanian">Mažosios Sundos salos</name>
+		<name normalized="Nusa Tenggara" languages="English;lumbaart;official">Nusa Tenggara</name>
+		<name normalized="Nusa Tenggara Barat" languages="English;German;Indonesian;Malay;official;Swedish;Vietnamese">Nusa Tenggara Barat</name>
+		<name normalized="Nusa Tenggara Barat Province" languages="English;official">Nusa Tenggara Barat Province</name>
+		<name normalized="Nusa Tenggara Barat Provinsi" languages="English;official">Nusa Tenggara Barat Provinsi</name>
+		<name normalized="Nusa Tenggara Kulon" languages="Javanese;Sundanese">Nusa Tenggara Kulon</name>
+		<name normalized="Nusa Tenggara Kun-to" languages="Chinese (Min Nan)">Nusa Tenggara Kûn-tó</name>
+		<name normalized="Nusa Tenggara occidental" languages="French">Nusa Tenggara occidental</name>
+		<name normalized="Nusa Tenggara Occidentale" languages="Italian">Nusa Tenggara Occidentale</name>
+		<name normalized="Nusa Tenggara Province" languages="English;official">Nusa Tenggara Province</name>
+		<name normalized="Nusa Tenggara Provinsi" languages="English;official">Nusa Tenggara Provinsi</name>
+		<name normalized="Nusa Teunggara Barat" languages="Achinese">Nusa Teunggara Barat</name>
+		<name normalized="Okcidentaj sudorientaj insuloj" languages="Esperanto">Okcidentaj sudorientaj insuloj</name>
+		<name normalized="Pequenas Ilhas da Sonda" languages="Portuguese">Pequenas Ilhas da Sonda</name>
+		<name normalized="Petites iles de la Sonde" languages="French">Petites îles de la Sonde</name>
+		<name normalized="Piccole Isole della Sonda" languages="Italian">Piccole Isole della Sonda</name>
+		<name normalized="Pienet Sundasaaret" languages="Finnish">Pienet Sundasaaret</name>
+		<name normalized="Pulo-pulo Sunda Ubeut" languages="Achinese">Pulo-pulo Sunda Ubeut</name>
+		<name normalized="Quan dao Sunda Nho" languages="Vietnamese">Quần đảo Sunda Nhỏ</name>
+		<name normalized="Sma Sundaoarna" languages="Swedish">Små Sundaöarna</name>
+		<name normalized="Sonda Ocidental" languages="Portuguese">Sonda Ocidental</name>
+		<name normalized="Sondako Uharte Txikiak" languages="Basque">Sondako Uharte Txikiak</name>
+		<name normalized="Seu Sun-tha Khiun-to" languages="Hakka">Séu Sùn-thâ Khiùn-tó</name>
+		<name normalized="Si Nu-sa Ten-ka-la-sen" languages="Hakka">Sî Nú-sâ Tên-kâ-là-sén</name>
+		<name normalized="Vakaru Nusa Tengara" languages="Lithuanian">Vakarų Nusa Tengara</name>
+		<name normalized="Vest-Nusa Tenggara" languages="Norwegian Nynorsk">Vest-Nusa Tenggara</name>
+		<name normalized="Vaikesed Sunda saared" languages="Estonian">Väikesed Sunda saared</name>
+		<name normalized="West Nusa Tenggara" languages="English;official">West Nusa Tenggara</name>
+		<name normalized="West Nusa Tenggara Province" languages="English;official">West Nusa Tenggara Province</name>
+		<name normalized="West Nusa Tenggara Provinsi" languages="English;official">West Nusa Tenggara Provinsi</name>
+		<name normalized="West-Nusa Tenggara" languages="Dutch">West-Nusa Tenggara</name>
+		<name normalized="Ynysoedd Swnda Lleiaf" languages="Welsh">Ynysoedd Swnda Lleiaf</name>
+		<name normalized="Zapadni Nusa Tenggara" languages="Czech">Západní Nusa Tenggara</name>
+		<name normalized="Νησοι Μικρeς Σοuνδες" languages="Greek">Νήσοι Μικρές Σούνδες</name>
+		<name normalized="Baga Zoнdын aрлuud" languages="Mongolian">Бага Зондын арлууд</name>
+		<name normalized="Zapadнa Нuсa Tiнgaрa" languages="Serbian">Западна Нуса Тенгара</name>
+		<name normalized="Zapadнi Мaлki Zoнdсki oсtрovi" languages="Bulgarian">Западни Малки Зондски острови</name>
+		<name normalized="Zapadныi Мaлыi Zoнdсkii oсtрova" languages="Russian">Западные Малые Зондские острова</name>
+		<name normalized="Мaлa Сuнdсka oсtрva" languages="Serbian">Мала Сундска острва</name>
+		<name normalized="Мaлki Zoнdсki oсtрovi" languages="Bulgarian">Малки Зондски острови</name>
+		<name normalized="Мaлыi Zoнdсkii oсtрova" languages="Russian">Малые Зондские острова</name>
+		<name normalized="Мaлыi Zoнdсkii aсtрavы" languages="Belarusian">Малыя Зондскія астравы</name>
+		<name normalized="Мaлi Zoнdсьki oсtрovi" languages="Ukrainian">Малі Зондські острови</name>
+		<name normalized="jزאیr سوندאی کوچک" languages="Persian">جزایر سوندای کوچک</name>
+		<name normalized="jزr سوندא אلsغrى" languages="Arabic">جزر سوندا الصغرى</name>
+		<name normalized="سوندאی غrbی" languages="Persian">سوندای غربی</name>
+		<name normalized="سونڈאی jزאئr کوچک" languages="Urdu">سونڈای جزائر کوچک</name>
+		<name normalized="sوbہ لہندא نوسא tینgאrא" languages="Western Punjabi">صوبہ لہندا نوسا تینگارا</name>
+		<name normalized="mغrbی نوسא ٹنgאrہ" languages="Urdu">مغربی نوسا ٹنگارہ</name>
+		<name normalized="نوسא tنjאrא غrb" languages="Arabic">نوسا تنجارا غرب</name>
+		<name normalized="coटा sun्dा d्vip smuh" languages="Hindi">छोटा सुन्दा द्वीप समूह</name>
+		<name normalized="ps्cim nusा teंgाrा" languages="Marathi">पश्चिम नुसा तेंगारा</name>
+		<name normalized="หมู่เกาะซุนดาน้อย" languages="Thai">หมู่เกาะซุนดาน้อย</name>
+		<name normalized="დასავლეთი მცირე ზონდის კუნძულები" languages="Georgian">დასავლეთი მცირე ზონდის კუნძულები</name>
+		<name normalized="მცირე ზონდის კუნძულები" languages="Georgian">მცირე ზონდის კუნძულები</name>
+		<name normalized="小snd列島" languages="Japanese">小スンダ列島</name>
+		<name normalized="小巽他群岛" languages="Chinese">小巽他群岛</name>
+		<name normalized="西ns・tungr州" languages="Japanese">西ヌサ・トゥンガラ州</name>
+		<name normalized="西努沙登加拉省" languages="Chinese">西努沙登加拉省</name>
+		<name normalized="누사틍가라바랏 주" languages="Korean">누사틍가라바랏 주</name>
+		<name normalized="소순다 열도" languages="Korean">소순다 열도</name>
+	</region>
+	<region name="Nusa Tenggara Timur" type="province" typeTranslated="provinsi">
+		<name normalized="Aust-Nusa Tenggara" languages="Norwegian Nynorsk">Aust-Nusa Tenggara</name>
+		<name normalized="Cite Isole dla Sonda" languages="Piedmontese">Cite Ìsole dla Sonda</name>
+		<name normalized="De sma Sundaoyer" languages="Norwegian (bokmal)">De små Sundaøyer</name>
+		<name normalized="Dogu Nusa Tenggara" languages="Turkish">Doğu Nusa Tenggara</name>
+		<name normalized="Dwyrain Nusa Tenggara" languages="Welsh">Dwyrain Nusa Tenggara</name>
+		<name normalized="East Nusa Tenggara" languages="English;official">East Nusa Tenggara</name>
+		<name normalized="East Nusa Tenggara Province" languages="English;official">East Nusa Tenggara Province</name>
+		<name normalized="East Nusa Tenggara Provinsi" languages="English;official">East Nusa Tenggara Provinsi</name>
+		<name normalized="Gurugudti nga Kapuropod-an Sunda" languages="Waray">Gurugudti nga Kapuropod-an Sunda</name>
+		<name normalized="Illas menores da Sonda" languages="Galician">Illas menores da Sonda</name>
+		<name normalized="Illes Petites de la Sonda" languages="Catalan">Illes Petites de la Sonda</name>
+		<name normalized="Illes Petites de la Sonda Orientals" languages="Catalan">Illes Petites de la Sonda Orientals</name>
+		<name normalized="Islas menores de la Sonda" languages="Spanish">Islas menores de la Sonda</name>
+		<name normalized="Islas menores de la Sonda orientales" languages="Spanish">Islas menores de la Sonda orientales</name>
+		<name normalized="Istocna Nusa Tenggara" languages="Serbo-Croatian">Istočna Nusa Tenggara</name>
+		<name normalized="Itainen Nusa Tenggara" languages="Finnish">Itäinen Nusa Tenggara</name>
+		<name normalized="Kapulauan Nusa Tenggara" languages="Minangkabau">Kapulauan Nusa Tenggara</name>
+		<name normalized="Kapuloan Nusa Tenggara" languages="Javanese">Kapuloan Nusa Tenggara</name>
+		<name normalized="Kapuloan Sunda Alit" languages="Sundanese">Kapuloan Sunda Alit</name>
+		<name normalized="Kepulauan Nusa Tenggara" languages="Basa Banyumasan;Indonesian">Kepulauan Nusa Tenggara</name>
+		<name normalized="Kepulauan Sunda Kecil" languages="Malay">Kepulauan Sunda Kecil</name>
+		<name normalized="Kis-Szunda-szigetek" languages="Hungarian">Kis-Szunda-szigetek</name>
+		<name normalized="Klein Sunda-eilande" languages="Afrikaans">Klein Sunda-eilande</name>
+		<name normalized="Kleine Soenda-eilanden" languages="Dutch">Kleine Soenda-eilanden</name>
+		<name normalized="Kleine Sundainseln" languages="German">Kleine Sundainseln</name>
+		<name normalized="Kucuk Sunda Adaları" languages="Turkish">Küçük Sunda Adaları</name>
+		<name normalized="Lesser Sunda Islands" languages="English;Pampanga;Simple English">Lesser Sunda Islands</name>
+		<name normalized="Litje Sunda-Ailounde" languages="Seeltersk">Litje Sunda-Ailounde</name>
+		<name normalized="Lytse Sunda-eilannen" languages="Western Frisian">Lytse Sûnda-eilannen</name>
+		<name normalized="Mala Sundska ostrva" languages="Bosnian">Mala Sundska ostrva</name>
+		<name normalized="Malgrandaj Sundaj Insuloj" languages="Esperanto">Malgrandaj Sundaj Insuloj</name>
+		<name normalized="Mali sundski otoci" languages="Croatian;Serbo-Croatian">Mali sundski otoci</name>
+		<name normalized="Male Sundy" languages="Czech;Slovak">Malé Sundy</name>
+		<name normalized="Mazas Zunda salas" languages="Latvian">Mazās Zunda salas</name>
+		<name normalized="Male Sundaske kupy" languages="Upper Sorbian">Małe Sundaske kupy</name>
+		<name normalized="Male Wyspy Sundajskie" languages="Polish">Małe Wyspy Sundajskie</name>
+		<name normalized="Male Wyspy Sundajskie Wschodnie" languages="Polish">Małe Wyspy Sundajskie Wschodnie</name>
+		<name normalized="Mazosios Sundos salos" languages="Lithuanian">Mažosios Sundos salos</name>
+		<name normalized="Nusa Tenggara" languages="English;lumbaart;official">Nusa Tenggara</name>
+		<name normalized="Nusa Tenggara Kun-to" languages="Chinese (Min Nan)">Nusa Tenggara Kûn-tó</name>
+		<name normalized="Nusa Tenggara oriental" languages="French">Nusa Tenggara oriental</name>
+		<name normalized="Nusa Tenggara Orientale" languages="Italian">Nusa Tenggara Orientale</name>
+		<name normalized="Nusa Tenggara Province" languages="English;official">Nusa Tenggara Province</name>
+		<name normalized="Nusa Tenggara Provinsi" languages="English;official">Nusa Tenggara Provinsi</name>
+		<name normalized="Nusa Tenggara Timur" languages="Basque;English;German;Indonesian;Malay;official;Swedish">Nusa Tenggara Timur</name>
+		<name normalized="Nusa Tenggara Timur Province" languages="English;official">Nusa Tenggara Timur Province</name>
+		<name normalized="Nusa Tenggara Timur Provinsi" languages="English;official">Nusa Tenggara Timur Provinsi</name>
+		<name normalized="Nusa Tenggara Wetan" languages="Javanese;Sundanese">Nusa Tenggara Wétan</name>
+		<name normalized="Nusa Teunggara Timu" languages="Achinese">Nusa Teunggara Timu</name>
+		<name normalized="Oost-Nusa Tenggara" languages="Dutch">Oost-Nusa Tenggara</name>
+		<name normalized="Orientaj sudorientaj insuloj" languages="Esperanto">Orientaj sudorientaj insuloj</name>
+		<name normalized="Pequenas Ilhas da Sonda" languages="Portuguese">Pequenas Ilhas da Sonda</name>
+		<name normalized="Petites iles de la Sonde" languages="French">Petites îles de la Sonde</name>
+		<name normalized="Piccole Isole della Sonda" languages="Italian">Piccole Isole della Sonda</name>
+		<name normalized="Pienet Sundasaaret" languages="Finnish">Pienet Sundasaaret</name>
+		<name normalized="Pulo-pulo Sunda Ubeut" languages="Achinese">Pulo-pulo Sunda Ubeut</name>
+		<name normalized="Quan dao Sunda Nho" languages="Vietnamese">Quần đảo Sunda Nhỏ</name>
+		<name normalized="Rytu Nusa Tengara" languages="Lithuanian">Rytų Nusa Tengara</name>
+		<name normalized="Sinirangan nga Nusa Tenggara" languages="Waray">Sinirangan nga Nusa Tenggara</name>
+		<name normalized="Sma Sundaoarna" languages="Swedish">Små Sundaöarna</name>
+		<name normalized="Sonda Oriental" languages="Portuguese">Sonda Oriental</name>
+		<name normalized="Sondako Uharte Txikiak" languages="Basque">Sondako Uharte Txikiak</name>
+		<name normalized="Seu Sun-tha Khiun-to" languages="Hakka">Séu Sùn-thâ Khiùn-tó</name>
+		<name normalized="Tung Nu-sa Ten-ka-la-sen" languages="Hakka">Tûng Nú-sâ Tên-kâ-là-sén</name>
+		<name normalized="Vaikesed Sunda saared" languages="Estonian">Väikesed Sunda saared</name>
+		<name normalized="Vychodni Nusa Tenggara" languages="Czech">Východní Nusa Tenggara</name>
+		<name normalized="Ynysoedd Swnda Lleiaf" languages="Welsh">Ynysoedd Swnda Lleiaf</name>
+		<name normalized="Dong Nusa Tenggara" languages="Vietnamese">Đông Nusa Tenggara</name>
+		<name normalized="Νησοι Μικρeς Σοuνδες" languages="Greek">Νήσοι Μικρές Σούνδες</name>
+		<name normalized="Baga Zoнdын aрлuud" languages="Mongolian">Бага Зондын арлууд</name>
+		<name normalized="Voсtocныi Мaлыi Zoнdсkii oсtрova" languages="Russian">Восточные Малые Зондские острова</name>
+		<name normalized="Iztocнi Мaлki Zoнdсki oсtрovi" languages="Bulgarian">Източни Малки Зондски острови</name>
+		<name normalized="Iсtocнa Нuсa Tiнgaрa" languages="Serbian">Источна Нуса Тенгара</name>
+		<name normalized="Мaлa Сuнdсka oсtрva" languages="Serbian">Мала Сундска острва</name>
+		<name normalized="Мaлki Zoнdсki oсtрovi" languages="Bulgarian">Малки Зондски острови</name>
+		<name normalized="Мaлыi Zoнdсkii oсtрova" languages="Russian">Малые Зондские острова</name>
+		<name normalized="Мaлыi Zoнdсkii aсtрavы" languages="Belarusian">Малыя Зондскія астравы</name>
+		<name normalized="Мaлi Zoнdсьki oсtрovi" languages="Ukrainian">Малі Зондські острови</name>
+		<name normalized="jزאیr سوندאی کوچک" languages="Persian">جزایر سوندای کوچک</name>
+		<name normalized="jزr سوندא אلsغrى" languages="Arabic">جزر سوندا الصغرى</name>
+		<name normalized="سوندאی شrqی" languages="Persian">سوندای شرقی</name>
+		<name normalized="سونڈאی jزאئr کوچک" languages="Urdu">سونڈای جزائر کوچک</name>
+		<name normalized="sوbہ چڑھدא نوسא tینgאrא" languages="Western Punjabi">صوبہ چڑھدا نوسا تینگارا</name>
+		<name normalized="mشrqی نوسא ٹنgאrہ" languages="Urdu">مشرقی نوسا ٹنگارہ</name>
+		<name normalized="نوسא tنjאrא شrq" languages="Arabic">نوسا تنجارا شرق</name>
+		<name normalized="coटा sun्dा d्vip smuh" languages="Hindi">छोटा सुन्दा द्वीप समूह</name>
+		<name normalized="pur्v nusा teंgाrा" languages="Marathi">पूर्व नुसा तेंगारा</name>
+		<name normalized="pur्vi nusा teंgाrा" languages="Hindi">पूर्वी नुसा तेंगारा</name>
+		<name normalized="หมู่เกาะซุนดาน้อย" languages="Thai">หมู่เกาะซุนดาน้อย</name>
+		<name normalized="აღმოსავლეთი მცირე ზონდის კუნძულები" languages="Georgian">აღმოსავლეთი მცირე ზონდის კუნძულები</name>
+		<name normalized="მცირე ზონდის კუნძულები" languages="Georgian">მცირე ზონდის კუნძულები</name>
+		<name normalized="小snd列島" languages="Japanese">小スンダ列島</name>
+		<name normalized="小巽他群岛" languages="Chinese">小巽他群岛</name>
+		<name normalized="東ns・tungr州" languages="Japanese">東ヌサ・トゥンガラ州</name>
+		<name normalized="東努沙登加拉省" languages="Chinese">東努沙登加拉省</name>
+		<name normalized="누사틍가라티무르 주" languages="Korean">누사틍가라티무르 주</name>
+		<name normalized="소순다 열도" languages="Korean">소순다 열도</name>
+	</region>
+	<region name="Papua" type="province" typeTranslated="provinsi">
+		<name normalized="Papoea" languages="Dutch">Papoea</name>
+		<name normalized="Papouasie" languages="French">Papouasie</name>
+		<name normalized="Papua" languages="Achinese;Basa Banyumasan;Basque;Czech;English;Finnish;German;Indonesian;Italian;Javanese;Latin;Latvian;Lithuanian;Malay;Minangkabau;official;Piedmontese;Polish;Portuguese;Slovak;Sundanese;Swedish;Vietnamese;veneto;Waray;Welsh">Papua</name>
+		<name normalized="Papua Province" languages="English;official">Papua Province</name>
+		<name normalized="Papua Provinsi" languages="English;official">Papua Provinsi</name>
+		<name normalized="Papuo" languages="Esperanto">Papuo</name>
+		<name normalized="Papua" languages="Spanish">Papúa</name>
+		<name normalized="Pa-pu-a-sen" languages="Hakka">Pâ-pu-â-sén</name>
+		<name normalized="Papua" languages="Macedonian;Russian;Serbian;Ukrainian">Папуа</name>
+		<name normalized="bאbوא" languages="Arabic">بابوا</name>
+		<name normalized="sوbہ pאpوא" languages="Western Punjabi">صوبہ پاپوا</name>
+		<name normalized="pאpوآ" languages="Persian">پاپوآ</name>
+		<name normalized="pאpوא, אنڈونیشیא" languages="Urdu">پاپوا، انڈونیشیا</name>
+		<name normalized="pाpua" languages="Marathi">पापुआ</name>
+		<name normalized="പപുവ" languages="Malayalam">പപുവ</name>
+		<name normalized="จังหวัดปาปัว" languages="Thai">จังหวัดปาปัว</name>
+		<name normalized="პაპუა" languages="Georgian">პაპუა</name>
+		<name normalized="ppa州" languages="Japanese">パプア州</name>
+		<name normalized="巴布亚省" languages="Chinese">巴布亚省</name>
+		<name normalized="파푸아 주" languages="Korean">파푸아 주</name>
+	</region>
+	<region name="Papua Barat" type="province" typeTranslated="provinsi">
+		<name normalized="Batı Papua" languages="Turkish">Batı Papua</name>
+		<name normalized="Gorllewin Papua" languages="Welsh">Gorllewin Papua</name>
+		<name normalized="Irian Jaya" languages="Dutch">Irian Jaya</name>
+		<name normalized="Irian Zachodni" languages="Polish">Irian Zachodni</name>
+		<name normalized="Katundan nga Papua" languages="Waray">Katundan nga Papua</name>
+		<name normalized="Lansi-Papua" languages="Finnish">Länsi-Papua</name>
+		<name normalized="Okcidenta Papuo" languages="Esperanto">Okcidenta Papuo</name>
+		<name normalized="Papoea" languages="Dutch">Papoea</name>
+		<name normalized="Papoua ar C'hornaoueg" languages="Breton">Papoua ar C'hornaoueg</name>
+		<name normalized="Papouasie" languages="French">Papouasie</name>
+		<name normalized="Papouasie occidentale" languages="French">Papouasie occidentale</name>
+		<name normalized="Papua" languages="Achinese;Basa Banyumasan;Basque;Czech;English;Finnish;German;Indonesian;Italian;Javanese;Latin;Latvian;Lithuanian;Malay;Minangkabau;official;Piedmontese;Polish;Portuguese;Slovak;Sundanese;Swedish;Vietnamese;veneto;Waray;Welsh">Papua</name>
+		<name normalized="Papua bagian barat" languages="Indonesian">Papua bagian barat</name>
+		<name normalized="Papua Barat" languages="Achinese;English;German;Indonesian;Italian;Malay;Minangkabau;Norwegian (bokmal);official;Swedish">Papua Barat</name>
+		<name normalized="Papua Barat Province" languages="English;official">Papua Barat Province</name>
+		<name normalized="Papua Barat Provinsi" languages="English;official">Papua Barat Provinsi</name>
+		<name normalized="Papua Kulon" languages="Javanese;Sundanese">Papua Kulon</name>
+		<name normalized="Papua Occidental" languages="Catalan">Papua Occidental</name>
+		<name normalized="Papua Occidentale" languages="Italian">Papua Occidentale</name>
+		<name normalized="Papua Ocidental" languages="Portuguese">Papua Ocidental</name>
+		<name normalized="Papua Province" languages="English;official">Papua Province</name>
+		<name normalized="Papua Provinsi" languages="English;official">Papua Provinsi</name>
+		<name normalized="Papua Zachodnia" languages="Polish">Papua Zachodnia</name>
+		<name normalized="Papuo" languages="Esperanto">Papuo</name>
+		<name normalized="Papua" languages="Spanish">Papúa</name>
+		<name normalized="Papua Occidental" languages="Spanish">Papúa Occidental</name>
+		<name normalized="Provincia de Papua Occidental" languages="Spanish">Provincia de Papúa Occidental</name>
+		<name normalized="Provincia de Papua Occidental" languages="Catalan">Província de Papua Occidental</name>
+		<name normalized="Pa-pu-a-sen" languages="Hakka">Pâ-pu-â-sén</name>
+		<name normalized="Si Pa-pu-a-sen" languages="Hakka">Sî Pâ-pu-â-sén</name>
+		<name normalized="Tay Papua" languages="Vietnamese">Tây Papua</name>
+		<name normalized="Vakaru Naujoji Gvineja" languages="Lithuanian">Vakarų Naujoji Gvinėja</name>
+		<name normalized="Vakaru Papua" languages="Lithuanian">Vakarų Papua</name>
+		<name normalized="West Papua" languages="English;official">West Papua</name>
+		<name normalized="West Papua Province" languages="English;official">West Papua Province</name>
+		<name normalized="West Papua Provinsi" languages="English;official">West Papua Provinsi</name>
+		<name normalized="West-Papoea" languages="Dutch">West-Papoea</name>
+		<name normalized="Zapadni Papua" languages="Czech">Západní Papua</name>
+		<name normalized="Zapadнa Papua" languages="Bulgarian;Macedonian;Serbian">Западна Папуа</name>
+		<name normalized="Zapadнoi Papua" languages="Russian">Западное Папуа</name>
+		<name normalized="Papua" languages="Macedonian;Russian;Serbian;Ukrainian">Папуа</name>
+		<name normalized="ppvאh hמעrbיt" languages="Hebrew">פפואה המערבית</name>
+		<name normalized="bאbوא" languages="Arabic">بابوا</name>
+		<name normalized="bאbوא אلغrbyة" languages="Arabic">بابوا الغربية</name>
+		<name normalized="sوbہ لہندא سولאویسی" languages="Western Punjabi">صوبہ لہندا سولاویسی</name>
+		<name normalized="sوbہ pאpوא" languages="Western Punjabi">صوبہ پاپوا</name>
+		<name normalized="mغrbی pאpوא" languages="Urdu">مغربی پاپوا</name>
+		<name normalized="pאpوآ" languages="Persian">پاپوآ</name>
+		<name normalized="pאpوآی غrbی" languages="Persian">پاپوآی غربی</name>
+		<name normalized="pאpوא, אنڈونیشیא" languages="Urdu">پاپوا، انڈونیشیا</name>
+		<name normalized="ps्cim pाpua" languages="Marathi">पश्चिम पापुआ</name>
+		<name normalized="pाpua" languages="Marathi">पापुआ</name>
+		<name normalized="പപുവ" languages="Malayalam">പപുവ</name>
+		<name normalized="വെസ്റ്റ് പപുവ" languages="Malayalam">വെസ്റ്റ് പപുവ</name>
+		<name normalized="จังหวัดปาปัว" languages="Thai">จังหวัดปาปัว</name>
+		<name normalized="დასავლეთი პაპუა" languages="Georgian">დასავლეთი პაპუა</name>
+		<name normalized="პაპუა" languages="Georgian">პაპუა</name>
+		<name normalized="ppa州" languages="Japanese">パプア州</name>
+		<name normalized="巴布亚省" languages="Chinese">巴布亚省</name>
+		<name normalized="西ppa州" languages="Japanese">西パプア州</name>
+		<name normalized="西巴布亞省" languages="Chinese">西巴布亞省</name>
+		<name normalized="파푸아 주" languages="Korean">파푸아 주</name>
+		<name normalized="파푸아바랏 주" languages="Korean">파푸아바랏 주</name>
+	</region>
+	<region name="Riau" type="province" typeTranslated="provinsi">
+		<name normalized="Liau-nui-sen" languages="Hakka">Liàu-nui-sén</name>
+		<name normalized="Riau" languages="Achinese;Catalan;Chinese (Min Nan);Czech;Danish;Dutch;English;Extremaduran;Finnish;French;German;Indonesian;Italian;Javanese;Lithuanian;Malay;Minangkabau;Norwegian (bokmal);official;Pampanga;Polish;Portuguese;Spanish;Sundanese;Swedish;Tagalog;Turkish;Vietnamese;Waray;Welsh">Riau</name>
+		<name normalized="Riau Province" languages="English;official">Riau Province</name>
+		<name normalized="Riau Provinsi" languages="English;official">Riau Provinsi</name>
+		<name normalized="Riauo" languages="Esperanto">Riauo</name>
+		<name normalized="Рiau" languages="Bulgarian;Mongolian;Russian">Риау</name>
+		<name normalized="Рijau" languages="Serbian">Ријау</name>
+		<name normalized="Рiau" languages="Ukrainian">Ріау</name>
+		<name normalized="ryאو" languages="Arabic">رياو</name>
+		<name normalized="rیאئو" languages="Persian">ریائو</name>
+		<name normalized="rیאو" languages="Urdu">ریاو</name>
+		<name normalized="sوbہ rیאؤ" languages="Western Punjabi">صوبہ ریاؤ</name>
+		<name normalized="riyाu" languages="Marathi">रियाउ</name>
+		<name normalized="რიაუ" languages="Georgian">რიაუ</name>
+		<name normalized="rau州" languages="Japanese">リアウ州</name>
+		<name normalized="廖內省" languages="Chinese">廖內省</name>
+		<name normalized="리아우 주" languages="Korean">리아우 주</name>
+	</region>
+	<region name="Sulawesi Barat" type="province" typeTranslated="provinsi">
+		<name normalized="Batı Sulawesi" languages="Turkish">Batı Sulawesi</name>
+		<name normalized="Celebas" languages="Occitan">Celebas</name>
+		<name normalized="Celebes" languages="Czech;Dutch;lumbaart;Polish;Portuguese">Celebes</name>
+		<name normalized="Celebes Ocidental" languages="Portuguese">Celebes Ocidental</name>
+		<name normalized="Celebes Zachodni" languages="Polish">Celebes Zachodni</name>
+		<name normalized="Celebesz" languages="Hungarian">Celebesz</name>
+		<name normalized="Celebes" languages="Catalan">Cèlebes</name>
+		<name normalized="Celebes" languages="Galician;Piedmontese;Spanish">Célebes</name>
+		<name normalized="Celebes Occidental" languages="Spanish">Célebes Occidental</name>
+		<name normalized="Celebes" languages="French">Célèbes</name>
+		<name normalized="Katundan nga Sulawesi" languages="Waray">Katundan nga Sulawesi</name>
+		<name normalized="Lansi-Sulawesi" languages="Finnish">Länsi-Sulawesi</name>
+		<name normalized="Okcidenta Sulaveso" languages="Esperanto">Okcidenta Sulaveso</name>
+		<name normalized="Selebes" languages="Tagalog;Western Frisian">Selebes</name>
+		<name normalized="Sulavesi" languages="Azerbaijani;Latvian">Sulavesi</name>
+		<name normalized="Sulavesis" languages="Lithuanian">Sulavesis</name>
+		<name normalized="Sulaveso" languages="Esperanto">Sulaveso</name>
+		<name normalized="Sulawesi" languages="Afrikaans;Basa Banyumasan;Basque;Bosnian;Breton;Chinese (Min Nan);Croatian;Danish;English;Estonian;Finnish;German;Indonesian;Italian;Javanese;Malay;Minangkabau;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Romanian;Seeltersk;Simple English;Slovak;Sundanese;Swedish;Turkish;Vietnamese;Waray;Welsh">Sulawesi</name>
+		<name normalized="Sulawesi Barat" languages="English;Indonesian;Malay;Minangkabau;official;Swedish">Sulawesi Barat</name>
+		<name normalized="Sulawesi Barat Province" languages="English;official">Sulawesi Barat Province</name>
+		<name normalized="Sulawesi Barat Provinsi" languages="English;official">Sulawesi Barat Provinsi</name>
+		<name normalized="Sulawesi Kulon" languages="Javanese;Sundanese">Sulawesi Kulon</name>
+		<name normalized="Sulawesi occidental" languages="French">Sulawesi occidental</name>
+		<name normalized="Sulawesi Occidentale" languages="Italian">Sulawesi Occidentale</name>
+		<name normalized="Sulawesi Province" languages="English;official">Sulawesi Province</name>
+		<name normalized="Sulawesi Provinsi" languages="English;official">Sulawesi Provinsi</name>
+		<name normalized="Sulawesi" languages="Achinese">Sulawèsi</name>
+		<name normalized="Sulawesi Barat" languages="Achinese">Sulawèsi Barat</name>
+		<name normalized="Sulawesi" languages="Buginese">Sulawési</name>
+		<name normalized="Si Su-la-vi-si-sen" languages="Hakka">Sî Sû-lâ-vî-sî-sén</name>
+		<name normalized="Sulavesi" languages="Icelandic">Súlavesí</name>
+		<name normalized="Su-la-vi-si-to" languages="Hakka">Sû-lâ-vî-sî-tó</name>
+		<name normalized="Tay Sulawesi" languages="Vietnamese">Tây Sulawesi</name>
+		<name normalized="Vakaru Sulavesis" languages="Lithuanian">Vakarų Sulavesis</name>
+		<name normalized="West Sulawesi" languages="English;official">West Sulawesi</name>
+		<name normalized="West Sulawesi Province" languages="English;official">West Sulawesi Province</name>
+		<name normalized="West Sulawesi Provinsi" languages="English;official">West Sulawesi Provinsi</name>
+		<name normalized="West-Celebes" languages="Dutch">West-Celebes</name>
+		<name normalized="Westsulawesi" languages="German">Westsulawesi</name>
+		<name normalized="Zapadni Sulawesi" languages="Czech">Západní Sulawesi</name>
+		<name normalized="Σουλαουeζι" languages="Greek">Σουλαουέζι</name>
+		<name normalized="Voсtрaў Сuлaviсi" languages="Belarusian">Востраў Сулавесі</name>
+		<name normalized="Zapadнi Сuлaviсi" languages="Serbian">Западни Сулавеси</name>
+		<name normalized="Zapadнo Сuлaviсi" languages="Bulgarian">Западно Сулавеси</name>
+		<name normalized="Zapadный Сuлaviсi" languages="Russian">Западный Сулавеси</name>
+		<name normalized="Сuлaviсi" languages="Bulgarian;Chuvash;Kazakh;Macedonian;Russian;Serbian">Сулавеси</name>
+		<name normalized="Сuлaviсi" languages="Ukrainian">Сулавесі</name>
+		<name normalized="Сuлaveсi" languages="biлaрuсkai (taрaskivita)‎">Сулавэсі</name>
+		<name normalized="Өрнɵ Сuлaviсi" languages="Mongolian">Өрнө Сулавеси</name>
+		<name normalized="סvדאvvסי" languages="Hebrew">סולאווסי</name>
+		<name normalized="سولאوسy" languages="Arabic">سولاوسي</name>
+		<name normalized="سولאوسy אلغrbyة" languages="Arabic">سولاوسي الغربية</name>
+		<name normalized="سولאوسی" languages="Persian">سولاوسی</name>
+		<name normalized="سولאوسی غrbی" languages="Persian">سولاوسی غربی</name>
+		<name normalized="سولאویسی" languages="Western Punjabi">سولاویسی</name>
+		<name normalized="mغrbی سولאویسی" languages="Urdu">مغربی سولاویسی</name>
+		<name normalized="ps्cim sulाvesi" languages="Marathi">पश्चिम सुलावेसी</name>
+		<name normalized="sulाvesi" languages="Hindi;Marathi">सुलावेसी</name>
+		<name normalized="சுலாவெசி" languages="Tamil">சுலாவெசி</name>
+		<name normalized="เกาะซูลาเวซี" languages="Thai">เกาะซูลาเวซี</name>
+		<name normalized="ဆူလာဝေစီကျွန်း" languages="Burmese">ဆူလာဝေစီကျွန်း</name>
+		<name normalized="დასავლეთი სულავესი" languages="Georgian">დასავლეთი სულავესი</name>
+		<name normalized="სულავესი" languages="Georgian">სულავესი</name>
+		<name normalized="srues島" languages="Japanese">スラウェシ島</name>
+		<name normalized="苏拉威西岛" languages="Chinese">苏拉威西岛</name>
+		<name normalized="西srues州" languages="Japanese">西スラウェシ州</name>
+		<name normalized="西苏拉威西省" languages="Chinese">西苏拉威西省</name>
+		<name normalized="술라웨시 섬" languages="Korean">술라웨시 섬</name>
+		<name normalized="술라웨시바랏 주" languages="Korean">술라웨시바랏 주</name>
+	</region>
+	<region name="Sulawesi Selatan" type="province" typeTranslated="provinsi">
+		<name normalized="Celebas" languages="Occitan">Celebas</name>
+		<name normalized="Celebes" languages="Czech;Dutch;lumbaart;Polish;Portuguese">Celebes</name>
+		<name normalized="Celebes do Sul" languages="Portuguese">Celebes do Sul</name>
+		<name normalized="Celebes Poludniowy" languages="Polish">Celebes Południowy</name>
+		<name normalized="Celebesz" languages="Hungarian">Celebesz</name>
+		<name normalized="Celebes" languages="Catalan">Cèlebes</name>
+		<name normalized="Celebes" languages="Galician;Piedmontese;Spanish">Célebes</name>
+		<name normalized="Celebes Meridional" languages="Spanish">Célebes Meridional</name>
+		<name normalized="Celebes" languages="French">Célèbes</name>
+		<name normalized="Etela-Sulawesi" languages="Finnish">Etelä-Sulawesi</name>
+		<name normalized="Guney Sulawesi" languages="Turkish">Güney Sulawesi</name>
+		<name normalized="Jizni Sulawesi" languages="Czech">Jižní Sulawesi</name>
+		<name normalized="Nam Sulawesi" languages="Vietnamese">Nam Sulawesi</name>
+		<name normalized="Nam Su-la-vi-si-sen" languages="Hakka">Nàm Sû-lâ-vî-sî-sén</name>
+		<name normalized="Pietu Sulavesis" languages="Lithuanian">Pietų Sulavesis</name>
+		<name normalized="Salatan nga Sulawesi" languages="Waray">Salatan nga Sulawesi</name>
+		<name normalized="Selebes" languages="Tagalog;Western Frisian">Selebes</name>
+		<name normalized="South Sulawesi" languages="English;official">South Sulawesi</name>
+		<name normalized="South Sulawesi Province" languages="English;official">South Sulawesi Province</name>
+		<name normalized="South Sulawesi Provinsi" languages="English;official">South Sulawesi Provinsi</name>
+		<name normalized="Suda Sulaveso" languages="Esperanto">Suda Sulaveso</name>
+		<name normalized="Sulavesi" languages="Azerbaijani;Latvian">Sulavesi</name>
+		<name normalized="Sulavesis" languages="Lithuanian">Sulavesis</name>
+		<name normalized="Sulaveso" languages="Esperanto">Sulaveso</name>
+		<name normalized="Sulawesi" languages="Afrikaans;Basa Banyumasan;Basque;Bosnian;Breton;Chinese (Min Nan);Croatian;Danish;English;Estonian;Finnish;German;Indonesian;Italian;Javanese;Malay;Minangkabau;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Romanian;Seeltersk;Simple English;Slovak;Sundanese;Swedish;Turkish;Vietnamese;Waray;Welsh">Sulawesi</name>
+		<name normalized="Sulawesi du Sud" languages="French">Sulawesi du Sud</name>
+		<name normalized="Sulawesi Kidul" languages="Javanese;Sundanese">Sulawesi Kidul</name>
+		<name normalized="Sulawesi Meridionale" languages="Italian">Sulawesi Meridionale</name>
+		<name normalized="Sulawesi Province" languages="English;official">Sulawesi Province</name>
+		<name normalized="Sulawesi Provinsi" languages="English;official">Sulawesi Provinsi</name>
+		<name normalized="Sulawesi Selatan" languages="English;German;Indonesian;Malay;official;Swedish">Sulawesi Selatan</name>
+		<name normalized="Sulawesi Selatan Province" languages="English;official">Sulawesi Selatan Province</name>
+		<name normalized="Sulawesi Selatan Provinsi" languages="English;official">Sulawesi Selatan Provinsi</name>
+		<name normalized="Sulawesi" languages="Achinese">Sulawèsi</name>
+		<name normalized="Sulawesi Seulatan" languages="Achinese">Sulawèsi Seulatan</name>
+		<name normalized="Sulawesi" languages="Buginese">Sulawési</name>
+		<name normalized="Sulavesi" languages="Icelandic">Súlavesí</name>
+		<name normalized="Su-la-vi-si-to" languages="Hakka">Sû-lâ-vî-sî-tó</name>
+		<name normalized="Zuid-Celebes" languages="Dutch">Zuid-Celebes</name>
+		<name normalized="Σουλαουeζι" languages="Greek">Σουλαουέζι</name>
+		<name normalized="Voсtрaў Сuлaviсi" languages="Belarusian">Востраў Сулавесі</name>
+		<name normalized="Сuлaviсi" languages="Bulgarian;Chuvash;Kazakh;Macedonian;Russian;Serbian">Сулавеси</name>
+		<name normalized="Сuлaviсi" languages="Ukrainian">Сулавесі</name>
+		<name normalized="Сuлaveсi" languages="biлaрuсkai (taрaskivita)‎">Сулавэсі</name>
+		<name normalized="Юzнo Сuлaviсi" languages="Bulgarian">Южно Сулавеси</name>
+		<name normalized="Юzный Сuлaviсi" languages="Russian">Южный Сулавеси</name>
+		<name normalized="Juzнi Сuлaviсi" languages="Serbian">Јужни Сулавеси</name>
+		<name normalized="סvדאvvסי" languages="Hebrew">סולאווסי</name>
+		<name normalized="jنوbی سولאویسی" languages="Urdu">جنوبی سولاویسی</name>
+		<name normalized="سولאوسy" languages="Arabic">سولاوسي</name>
+		<name normalized="سولאوسy אلjنوbyة" languages="Arabic">سولاوسي الجنوبية</name>
+		<name normalized="سولאوسی" languages="Persian">سولاوسی</name>
+		<name normalized="سولאوسی jنوbی" languages="Persian">سولاوسی جنوبی</name>
+		<name normalized="سولאویسی" languages="Western Punjabi">سولاویسی</name>
+		<name normalized="sوbہ دکھنی سولאویسی" languages="Western Punjabi">صوبہ دکھنی سولاویسی</name>
+		<name normalized="dk्षiण sulाvesi" languages="Marathi">दक्षिण सुलावेसी</name>
+		<name normalized="sulाvesi" languages="Hindi;Marathi">सुलावेसी</name>
+		<name normalized="சுலாவெசி" languages="Tamil">சுலாவெசி</name>
+		<name normalized="เกาะซูลาเวซี" languages="Thai">เกาะซูลาเวซี</name>
+		<name normalized="ဆူလာဝေစီကျွန်း" languages="Burmese">ဆူလာဝေစီကျွန်း</name>
+		<name normalized="სამხრეთი სულავესი" languages="Georgian">სამხრეთი სულავესი</name>
+		<name normalized="სულავესი" languages="Georgian">სულავესი</name>
+		<name normalized="srues島" languages="Japanese">スラウェシ島</name>
+		<name normalized="南srues州" languages="Japanese">南スラウェシ州</name>
+		<name normalized="南苏拉威西省" languages="Chinese">南苏拉威西省</name>
+		<name normalized="苏拉威西岛" languages="Chinese">苏拉威西岛</name>
+		<name normalized="술라웨시 섬" languages="Korean">술라웨시 섬</name>
+		<name normalized="술라웨시슬라탄 주" languages="Korean">술라웨시슬라탄 주</name>
+	</region>
+	<region name="Sulawesi Tengah" type="province" typeTranslated="provinsi">
+		<name normalized="Butnga nga Sulawesi" languages="Waray">Butnga nga Sulawesi</name>
+		<name normalized="Celebas del Centre" languages="Occitan">Celebas del Centre</name>
+		<name normalized="Celebes Central" languages="Portuguese">Celebes Central</name>
+		<name normalized="Celebes Srodkowy" languages="Polish">Celebes Środkowy</name>
+		<name normalized="Centra Sulaveso" languages="Esperanto">Centra Sulaveso</name>
+		<name normalized="Central Sulawesi" languages="English;official">Central Sulawesi</name>
+		<name normalized="Central Sulawesi Province" languages="English;official">Central Sulawesi Province</name>
+		<name normalized="Central Sulawesi Provinsi" languages="English;official">Central Sulawesi Provinsi</name>
+		<name normalized="Centrinis Sulavesis" languages="Lithuanian">Centrinis Sulavesis</name>
+		<name normalized="Chung Su-la-vi-si-sen" languages="Hakka">Chûng Sû-lâ-vî-sî-sén</name>
+		<name normalized="Celebes Central" languages="Spanish">Célebes Central</name>
+		<name normalized="Keski-Sulawesi" languages="Finnish">Keski-Sulawesi</name>
+		<name normalized="Midden-Celebes" languages="Dutch">Midden-Celebes</name>
+		<name normalized="Orta Sulawesi" languages="Turkish">Orta Sulawesi</name>
+		<name normalized="Stredni Sulawesi" languages="Czech">Střední Sulawesi</name>
+		<name normalized="Sulawesi central" languages="French">Sulawesi central</name>
+		<name normalized="Sulawesi Centrale" languages="Italian">Sulawesi Centrale</name>
+		<name normalized="Sulawesi Tengah" languages="English;German;Indonesian;Javanese;Malay;Minangkabau;official;Sundanese;Swedish">Sulawesi Tengah</name>
+		<name normalized="Sulawesi Tengah Province" languages="English;official">Sulawesi Tengah Province</name>
+		<name normalized="Sulawesi Tengah Provinsi" languages="English;official">Sulawesi Tengah Provinsi</name>
+		<name normalized="Trung Sulawesi" languages="Vietnamese">Trung Sulawesi</name>
+		<name normalized="Tɵv Сuлaviсi" languages="Mongolian">Төв Сулавеси</name>
+		<name normalized="Tiнtрaлнi Сuлaviсi" languages="Serbian">Централни Сулавеси</name>
+		<name normalized="Tiнtрaлнo Сuлaviсi" languages="Bulgarian">Централно Сулавеси</name>
+		<name normalized="Tiнtрaльный Сuлaviсi" languages="Russian">Центральный Сулавеси</name>
+		<name normalized="سولאوسy אلوسtى" languages="Arabic">سولاوسي الوسطى</name>
+		<name normalized="سولאوسی mrکزی" languages="Persian">سولاوسی مرکزی</name>
+		<name normalized="sوbہ gھbلא سولאویسی" languages="Western Punjabi">صوبہ گھبلا سولاویسی</name>
+		<name normalized="وسtی سلאویسی" languages="Urdu">وسطی سلاویسی</name>
+		<name normalized="md्y sulाvesi" languages="Marathi">मध्य सुलावेसी</name>
+		<name normalized="ცენტრალური სულავესი" languages="Georgian">ცენტრალური სულავესი</name>
+		<name normalized="中苏拉威西省" languages="Chinese">中苏拉威西省</name>
+		<name normalized="中部srues州" languages="Japanese">中部スラウェシ州</name>
+		<name normalized="술라웨시틍아 주" languages="Korean">술라웨시틍아 주</name>
+	</region>
+	<region name="Sulawesi Tenggara" type="province" typeTranslated="provinsi">
+		<name normalized="Celebes do Sudeste" languages="Portuguese">Celebes do Sudeste</name>
+		<name normalized="Celebes Poludniowo-Wschodni" languages="Polish">Celebes Południowo-Wschodni</name>
+		<name normalized="Celebes Suroriental" languages="Spanish">Célebes Suroriental</name>
+		<name normalized="Guneydogu Sulawesi" languages="Turkish">Güneydoğu Sulawesi</name>
+		<name normalized="Jihovychodni Sulawesi" languages="Czech">Jihovýchodní Sulawesi</name>
+		<name normalized="Kaakkois-Sulawesi" languages="Finnish">Kaakkois-Sulawesi</name>
+		<name normalized="Pietryciu Sulavesis" languages="Lithuanian">Pietryčių Sulavesis</name>
+		<name normalized="Southeast Sulawesi" languages="English;official">Southeast Sulawesi</name>
+		<name normalized="Southeast Sulawesi Province" languages="English;official">Southeast Sulawesi Province</name>
+		<name normalized="Southeast Sulawesi Provinsi" languages="English;official">Southeast Sulawesi Provinsi</name>
+		<name normalized="Sudorienta Sulaveso" languages="Esperanto">Sudorienta Sulaveso</name>
+		<name normalized="Sulawesi du Sud-Est" languages="French">Sulawesi du Sud-Est</name>
+		<name normalized="Sulawesi Kidul-wetan" languages="Javanese">Sulawesi Kidul-wétan</name>
+		<name normalized="Sulawesi Sudorientale" languages="Italian">Sulawesi Sudorientale</name>
+		<name normalized="Sulawesi Tenggara" languages="English;German;Indonesian;Malay;official;Sundanese;Swedish">Sulawesi Tenggara</name>
+		<name normalized="Sulawesi Tenggara Province" languages="English;official">Sulawesi Tenggara Province</name>
+		<name normalized="Sulawesi Tenggara Provinsi" languages="English;official">Sulawesi Tenggara Provinsi</name>
+		<name normalized="Sulawesi Tunggara" languages="Banjar">Sulawesi Tunggara</name>
+		<name normalized="Sulawesi Teunggara" languages="Achinese">Sulawèsi Teunggara</name>
+		<name normalized="Timugan nga Sulawesi" languages="Waray">Timugan nga Sulawesi</name>
+		<name normalized="Tung-nam Su-la-vi-si-sen" languages="Hakka">Tûng-nàm Sû-lâ-vî-sî-sén</name>
+		<name normalized="Zuidoost-Celebes" languages="Dutch">Zuidoost-Celebes</name>
+		<name normalized="Dong Nam Sulawesi" languages="Vietnamese">Đông Nam Sulawesi</name>
+		<name normalized="Юgo-Voсtocный Сuлaviсi" languages="Russian">Юго-Восточный Сулавеси</name>
+		<name normalized="Юgoiztocнo Сuлaviсi" languages="Bulgarian">Югоизточно Сулавеси</name>
+		<name normalized="Jugoiсtocнi Сuлaviсi" languages="Serbian">Југоисточни Сулавеси</name>
+		<name normalized="jنوb mشrqی سولאویسی" languages="Urdu">جنوب مشرقی سولاویسی</name>
+		<name normalized="سولאوسy אلjنوbyة אلشrqyة" languages="Arabic">سولاوسي الجنوبية الشرقية</name>
+		<name normalized="سولאوسی jنوb شrqی" languages="Persian">سولاوسی جنوب شرقی</name>
+		<name normalized="sوbہ دکھنی چڑھدא سولאویسی" languages="Western Punjabi">صوبہ دکھنی چڑھدا سولاویسی</name>
+		<name normalized="ag्ney sulाvesi" languages="Marathi">आग्नेय सुलावेसी</name>
+		<name normalized="სამხრეთ-აღმოსავლეთი სულავესი" languages="Georgian">სამხრეთ-აღმოსავლეთი სულავესი</name>
+		<name normalized="东南苏拉威西省" languages="Chinese">东南苏拉威西省</name>
+		<name normalized="南東srues州" languages="Japanese">南東スラウェシ州</name>
+		<name normalized="술라웨시틍가라 주" languages="Korean">술라웨시틍가라 주</name>
+	</region>
+	<region name="Sulawesi Utara" type="province" typeTranslated="provinsi">
+		<name normalized="Amihanan nga Sulawesi" languages="Waray">Amihanan nga Sulawesi</name>
+		<name normalized="Bac Sulawesi" languages="Vietnamese">Bắc Sulawesi</name>
+		<name normalized="Celebas" languages="Occitan">Celebas</name>
+		<name normalized="Celebes" languages="Czech;Dutch;lumbaart;Polish;Portuguese">Celebes</name>
+		<name normalized="Celebes do Norte" languages="Portuguese">Celebes do Norte</name>
+		<name normalized="Celebes Polnocny" languages="Polish">Celebes Północny</name>
+		<name normalized="Celebesz" languages="Hungarian">Celebesz</name>
+		<name normalized="Celebes" languages="Catalan">Cèlebes</name>
+		<name normalized="Celebes" languages="Galician;Piedmontese;Spanish">Célebes</name>
+		<name normalized="Celebes Septentrional" languages="Spanish">Célebes Septentrional</name>
+		<name normalized="Celebes" languages="French">Célèbes</name>
+		<name normalized="Kuzey Sulawesi" languages="Turkish">Kuzey Sulawesi</name>
+		<name normalized="Noord-Celebes" languages="Dutch">Noord-Celebes</name>
+		<name normalized="Nord-Sulawesi" languages="Norwegian Nynorsk">Nord-Sulawesi</name>
+		<name normalized="Norda Sulaveso" languages="Esperanto">Norda Sulaveso</name>
+		<name normalized="North Sulawesi" languages="English;official">North Sulawesi</name>
+		<name normalized="North Sulawesi Province" languages="English;official">North Sulawesi Province</name>
+		<name normalized="North Sulawesi Provinsi" languages="English;official">North Sulawesi Provinsi</name>
+		<name normalized="Pak Sulawesi" languages="Chinese (Min Nan)">Pak Sulawesi</name>
+		<name normalized="Pet Su-la-vi-si-sen" languages="Hakka">Pet Sû-lâ-vî-sî-sén</name>
+		<name normalized="Pohjois-Sulawesi" languages="Finnish">Pohjois-Sulawesi</name>
+		<name normalized="Selebes" languages="Tagalog;Western Frisian">Selebes</name>
+		<name normalized="Severni Sulawesi" languages="Czech">Severní Sulawesi</name>
+		<name normalized="Sulavesi" languages="Azerbaijani;Latvian">Sulavesi</name>
+		<name normalized="Sulavesis" languages="Lithuanian">Sulavesis</name>
+		<name normalized="Sulaveso" languages="Esperanto">Sulaveso</name>
+		<name normalized="Sulawesi" languages="Afrikaans;Basa Banyumasan;Basque;Bosnian;Breton;Chinese (Min Nan);Croatian;Danish;English;Estonian;Finnish;German;Indonesian;Italian;Javanese;Malay;Minangkabau;Norwegian (bokmal);Norwegian Nynorsk;official;Pampanga;Romanian;Seeltersk;Simple English;Slovak;Sundanese;Swedish;Turkish;Vietnamese;Waray;Welsh">Sulawesi</name>
+		<name normalized="Sulawesi du Nord" languages="French">Sulawesi du Nord</name>
+		<name normalized="Sulawesi Kaler" languages="Sundanese">Sulawesi Kalér</name>
+		<name normalized="Sulawesi Lor" languages="Javanese">Sulawesi Lor</name>
+		<name normalized="Sulawesi Province" languages="English;official">Sulawesi Province</name>
+		<name normalized="Sulawesi Provinsi" languages="English;official">Sulawesi Provinsi</name>
+		<name normalized="Sulawesi Settentrionale" languages="Italian">Sulawesi Settentrionale</name>
+		<name normalized="Sulawesi Utara" languages="English;German;Indonesian;Malay;Minangkabau;official;Swedish">Sulawesi Utara</name>
+		<name normalized="Sulawesi Utara Province" languages="English;official">Sulawesi Utara Province</name>
+		<name normalized="Sulawesi Utara Provinsi" languages="English;official">Sulawesi Utara Provinsi</name>
+		<name normalized="Sulawesi" languages="Achinese">Sulawèsi</name>
+		<name normalized="Sulawesi Baroh" languages="Achinese">Sulawèsi Barôh</name>
+		<name normalized="Sulawesi" languages="Buginese">Sulawési</name>
+		<name normalized="Sulavesi" languages="Icelandic">Súlavesí</name>
+		<name normalized="Su-la-vi-si-to" languages="Hakka">Sû-lâ-vî-sî-tó</name>
+		<name normalized="Siaures Sulavesis" languages="Lithuanian">Šiaurės Sulavesis</name>
+		<name normalized="Σουλαουeζι" languages="Greek">Σουλαουέζι</name>
+		<name normalized="Voсtрaў Сuлaviсi" languages="Belarusian">Востраў Сулавесі</name>
+		<name normalized="Pivнicнi Сuлaviсi" languages="Ukrainian">Північне Сулавесі</name>
+		<name normalized="Сiviрнi Сuлaviсi" languages="Serbian">Северни Сулавеси</name>
+		<name normalized="Сiviрнo Сuлaviсi" languages="Bulgarian">Северно Сулавеси</name>
+		<name normalized="Сiviрный Сuлaviсi" languages="Russian">Северный Сулавеси</name>
+		<name normalized="Сuлaviсi" languages="Bulgarian;Chuvash;Kazakh;Macedonian;Russian;Serbian">Сулавеси</name>
+		<name normalized="Сuлaviсi" languages="Ukrainian">Сулавесі</name>
+		<name normalized="Сuлaveсi" languages="biлaрuсkai (taрaskivita)‎">Сулавэсі</name>
+		<name normalized="Uмaр Сuлaviсi" languages="Mongolian">Умар Сулавеси</name>
+		<name normalized="סvדאvvסי" languages="Hebrew">סולאווסי</name>
+		<name normalized="سولאوسy" languages="Arabic">سولاوسي</name>
+		<name normalized="سولאوسy אلشmאلyة" languages="Arabic">سولاوسي الشمالية</name>
+		<name normalized="سولאوسی" languages="Persian">سولاوسی</name>
+		<name normalized="سولאوسی شmאلی" languages="Persian">سولاوسی شمالی</name>
+		<name normalized="سولאویسی" languages="Western Punjabi">سولاویسی</name>
+		<name normalized="شmאلی سلאویسی" languages="Urdu">شمالی سلاویسی</name>
+		<name normalized="sوbہ אtلא سولאویسی" languages="Western Punjabi">صوبہ اتلا سولاویسی</name>
+		<name normalized="ut्tr sulाvesi" languages="Marathi">उत्तर सुलावेसी</name>
+		<name normalized="sulाvesi" languages="Hindi;Marathi">सुलावेसी</name>
+		<name normalized="சுலாவெசி" languages="Tamil">சுலாவெசி</name>
+		<name normalized="เกาะซูลาเวซี" languages="Thai">เกาะซูลาเวซี</name>
+		<name normalized="ဆူလာဝေစီကျွန်း" languages="Burmese">ဆူလာဝေစီကျွန်း</name>
+		<name normalized="სულავესი" languages="Georgian">სულავესი</name>
+		<name normalized="ჩრდილოეთი სულავესი" languages="Georgian">ჩრდილოეთი სულავესი</name>
+		<name normalized="srues島" languages="Japanese">スラウェシ島</name>
+		<name normalized="北srues州" languages="Japanese">北スラウェシ州</name>
+		<name normalized="北苏拉威西省" languages="Chinese">北苏拉威西省</name>
+		<name normalized="苏拉威西岛" languages="Chinese">苏拉威西岛</name>
+		<name normalized="술라웨시 섬" languages="Korean">술라웨시 섬</name>
+		<name normalized="술라웨시우타라 주" languages="Korean">술라웨시우타라 주</name>
+	</region>
+	<region name="Sumatera Barat" type="province" typeTranslated="provinsi">
+		<name normalized="Albugang Sumatra" languages="Pampanga">Albugang Sumatra</name>
+		<name normalized="Batı Sumatra" languages="Turkish">Batı Sumatra</name>
+		<name normalized="Gorllewin Sumatra" languages="Welsh">Gorllewin Sumatra</name>
+		<name normalized="Katundan nga Sumatra" languages="Waray">Katundan nga Sumatra</name>
+		<name normalized="Lansi-Sumatra" languages="Finnish">Länsi-Sumatra</name>
+		<name normalized="Mendebaldeko Sumatra" languages="Basque">Mendebaldeko Sumatra</name>
+		<name normalized="Okcidenta Sumatro" languages="Esperanto">Okcidenta Sumatro</name>
+		<name normalized="Ruja" languages="Achinese">Ruja</name>
+		<name normalized="Se Sumatera" languages="Chinese (Min Nan)">Se Sumatera</name>
+		<name normalized="Sumatera" languages="Basa Banyumasan;Breton;Chinese (Min Nan);Indonesian;Malay;Minangkabau;Welsh">Sumatera</name>
+		<name normalized="Sumatera Barat" languages="Basa Banyumasan;English;German;Indonesian;Malay;Minangkabau;Norwegian (bokmal);official;Swedish">Sumatera Barat</name>
+		<name normalized="Sumatera Barat Province" languages="English;official">Sumatera Barat Province</name>
+		<name normalized="Sumatera Barat Provinsi" languages="English;official">Sumatera Barat Provinsi</name>
+		<name normalized="Sumatra" languages="Afrikaans;Albanian;Alemannisch;Azerbaijani;Basque;Bosnian;Catalan;Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Ido;Italian;Javanese;Latin;Latvian;Lithuanian;lumbaart;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Piedmontese;Polish;Portuguese;Romanian;Samogitian;Scottish Gaelic;Seeltersk;Serbo-Croatian;Sicilian;Simple English;Slovak;Slovenian;Spanish;Swedish;Tagalog;Turkish;Vietnamese;veneto;Waray;Western Frisian">Sumatra</name>
+		<name normalized="Sumatra Barat" languages="Achinese">Sumatra Barat</name>
+		<name normalized="Sumatra Kulon" languages="Javanese;Sundanese">Sumatra Kulon</name>
+		<name normalized="Sumatra Occidental" languages="Catalan;French;Spanish">Sumatra Occidental</name>
+		<name normalized="Sumatra Occidentale" languages="Italian">Sumatra Occidentale</name>
+		<name normalized="Sumatra Ocidental" languages="Portuguese">Sumatra Ocidental</name>
+		<name normalized="Sumatra Province" languages="English;official">Sumatra Province</name>
+		<name normalized="Sumatra Provinsi" languages="English;official">Sumatra Provinsi</name>
+		<name normalized="Sumatra Rocawani" languages="Zazaki">Sumatra Rocawani</name>
+		<name normalized="Sumatra Zachodnia" languages="Polish">Sumatra Zachodnia</name>
+		<name normalized="Sumatro" languages="Esperanto">Sumatro</name>
+		<name normalized="Szumatra" languages="Hungarian">Szumátra</name>
+		<name normalized="Si Su-mun-tap-lia̍p-sen" languages="Hakka">Sî Sû-mùn-tap-lia̍p-sén</name>
+		<name normalized="Sumatra" languages="Icelandic">Súmatra</name>
+		<name normalized="Su-mun-tap-lia̍p" languages="Hakka">Sû-mùn-tap-lia̍p</name>
+		<name normalized="Tay Sumatera" languages="Vietnamese">Tây Sumatera</name>
+		<name normalized="Vakaru Sumatra" languages="Lithuanian">Vakarų Sumatra</name>
+		<name normalized="Vestsumatra" languages="Danish">Vestsumatra</name>
+		<name normalized="West Sumatra" languages="English;official">West Sumatra</name>
+		<name normalized="West Sumatra Province" languages="English;official">West Sumatra Province</name>
+		<name normalized="West Sumatra Provinsi" languages="English;official">West Sumatra Provinsi</name>
+		<name normalized="West-Sumatra" languages="Dutch">West-Sumatra</name>
+		<name normalized="Zapadni Sumatra" languages="Czech">Západní Sumatra</name>
+		<name normalized="Σουματρα" languages="Greek">Σουμάτρα</name>
+		<name normalized="Voсtрaў Сuмatрa" languages="Belarusian">Востраў Суматра</name>
+		<name normalized="Zapadнa Сuмatрa" languages="Bulgarian;Serbian">Западна Суматра</name>
+		<name normalized="Zapadнai Сuмatрa" languages="Russian">Западная Суматра</name>
+		<name normalized="Zakidнa Сuмatрa" languages="Ukrainian">Західна Суматра</name>
+		<name normalized="Сuмatрa" languages="Bulgarian;Macedonian;Russian;Serbian;Tatar;Ukrainian;biлaрuсkai (taрaskivita)‎">Суматра</name>
+		<name normalized="Өрнɵ Сuмatрa" languages="Mongolian">Өрнө Суматра</name>
+		<name normalized="סvמtrh" languages="Hebrew">סומטרה</name>
+		<name normalized="سmאٹrא" languages="Urdu;Western Punjabi">سماٹرا</name>
+		<name normalized="سوmאtrא" languages="Persian">سوماترا</name>
+		<name normalized="سوmאtrאی غrbی" languages="Persian">سوماترای غربی</name>
+		<name normalized="سوmtrة" languages="Arabic">سومطرة</name>
+		<name normalized="سوmtrة אلغrbyة" languages="Arabic">سومطرة الغربية</name>
+		<name normalized="sوbہ لہندא سmאٹrא" languages="Western Punjabi">صوبہ لہندا سماٹرا</name>
+		<name normalized="mغrbی سmאٹrא" languages="Urdu">مغربی سماٹرا</name>
+		<name normalized="ps्cim sumाt्rा" languages="Marathi">पश्चिम सुमात्रा</name>
+		<name normalized="sumाt्rा" languages="Hindi;Marathi">सुमात्रा</name>
+		<name normalized="sumাt্rা" languages="Bengali">সুমাত্রা</name>
+		<name normalized="ସୁମାତ୍ରା" languages="Oriya">ସୁମାତ୍ରା</name>
+		<name normalized="சுமாத்திரா" languages="Tamil">சுமாத்திரா</name>
+		<name normalized="സുമാത്ര" languages="Malayalam">സുമാത്ര</name>
+		<name normalized="เกาะสุมาตรา" languages="Thai">เกาะสุมาตรา</name>
+		<name normalized="ဆူမတြာကျွန်း" languages="Burmese">ဆူမတြာကျွန်း</name>
+		<name normalized="დასავლეთი სუმატრა" languages="Georgian">დასავლეთი სუმატრა</name>
+		<name normalized="სუმატრა" languages="Georgian">სუმატრა</name>
+		<name normalized="កោះស៊ូម៉ាត្រា" languages="Khmer">កោះស៊ូម៉ាត្រា</name>
+		<name normalized="smtr島" languages="Japanese">スマトラ島</name>
+		<name normalized="苏门答腊岛" languages="Wu">苏门答腊岛</name>
+		<name normalized="蘇門答臘" languages="Chinese">蘇門答臘</name>
+		<name normalized="西smtr州" languages="Japanese">西スマトラ州</name>
+		<name normalized="西苏门答腊省" languages="Chinese">西苏门答腊省</name>
+		<name normalized="수마트라 섬" languages="Korean">수마트라 섬</name>
+		<name normalized="수마트라바랏 주" languages="Korean">수마트라바랏 주</name>
+	</region>
+	<region name="Sumatera Selatan" type="province" typeTranslated="provinsi">
+		<name normalized="De Sumatra" languages="Welsh">De Sumatra</name>
+		<name normalized="Etela-Sumatra" languages="Finnish">Etelä-Sumatra</name>
+		<name normalized="Guney Sumatra" languages="Turkish">Güney Sumatra</name>
+		<name normalized="Jizni Sumatra" languages="Czech">Jižní Sumatra</name>
+		<name normalized="Mauling Sumatra" languages="Pampanga">Mauling Sumatra</name>
+		<name normalized="Nam Sumatera" languages="Vietnamese">Nam Sumatera</name>
+		<name normalized="Nam Su-mun-tap-lia̍p-sen" languages="Hakka">Nàm Sû-mùn-tap-lia̍p-sén</name>
+		<name normalized="Pietu Sumatra" languages="Lithuanian">Pietų Sumatra</name>
+		<name normalized="Ruja" languages="Achinese">Ruja</name>
+		<name normalized="Salatan nga Sumatra" languages="Waray">Salatan nga Sumatra</name>
+		<name normalized="South Sumatra" languages="English;official">South Sumatra</name>
+		<name normalized="South Sumatra Province" languages="English;official">South Sumatra Province</name>
+		<name normalized="South Sumatra Provinsi" languages="English;official">South Sumatra Provinsi</name>
+		<name normalized="Suda Sumatro" languages="Esperanto">Suda Sumatro</name>
+		<name normalized="Sumatera" languages="Basa Banyumasan;Breton;Chinese (Min Nan);Indonesian;Malay;Minangkabau;Welsh">Sumatera</name>
+		<name normalized="Sumatera Selatan" languages="English;German;Indonesian;Malay;Minangkabau;Norwegian (bokmal);official;Swedish">Sumatera Selatan</name>
+		<name normalized="Sumatera Selatan Province" languages="English;official">Sumatera Selatan Province</name>
+		<name normalized="Sumatera Selatan Provinsi" languages="English;official">Sumatera Selatan Provinsi</name>
+		<name normalized="Sumatra" languages="Afrikaans;Albanian;Alemannisch;Azerbaijani;Basque;Bosnian;Catalan;Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Ido;Italian;Javanese;Latin;Latvian;Lithuanian;lumbaart;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Piedmontese;Polish;Portuguese;Romanian;Samogitian;Scottish Gaelic;Seeltersk;Serbo-Croatian;Sicilian;Simple English;Slovak;Slovenian;Spanish;Swedish;Tagalog;Turkish;Vietnamese;veneto;Waray;Western Frisian">Sumatra</name>
+		<name normalized="Sumatra do Sul" languages="Portuguese">Sumatra do Sul</name>
+		<name normalized="Sumatra du Sud" languages="French">Sumatra du Sud</name>
+		<name normalized="Sumatra Kidul" languages="Javanese;Sundanese">Sumatra Kidul</name>
+		<name normalized="Sumatra Meridional" languages="Catalan;Spanish">Sumatra Meridional</name>
+		<name normalized="Sumatra Meridionale" languages="Italian">Sumatra Meridionale</name>
+		<name normalized="Sumatra Poludniowa" languages="Polish">Sumatra Południowa</name>
+		<name normalized="Sumatra Province" languages="English;official">Sumatra Province</name>
+		<name normalized="Sumatra Provinsi" languages="English;official">Sumatra Provinsi</name>
+		<name normalized="Sumatra Seulatan" languages="Achinese">Sumatra Seulatan</name>
+		<name normalized="Sumatro" languages="Esperanto">Sumatro</name>
+		<name normalized="Sydsumatra" languages="Danish">Sydsumatra</name>
+		<name normalized="Szumatra" languages="Hungarian">Szumátra</name>
+		<name normalized="Sumatra" languages="Icelandic">Súmatra</name>
+		<name normalized="Su-mun-tap-lia̍p" languages="Hakka">Sû-mùn-tap-lia̍p</name>
+		<name normalized="Zuid-Sumatra" languages="Dutch">Zuid-Sumatra</name>
+		<name normalized="Σουματρα" languages="Greek">Σουμάτρα</name>
+		<name normalized="Voсtрaў Сuмatрa" languages="Belarusian">Востраў Суматра</name>
+		<name normalized="Pivdiннa Сuмatрa" languages="Ukrainian">Південна Суматра</name>
+		<name normalized="Сuмatрa" languages="Bulgarian;Macedonian;Russian;Serbian;Tatar;Ukrainian;biлaрuсkai (taрaskivita)‎">Суматра</name>
+		<name normalized="Юzнa Сuмatрa" languages="Bulgarian">Южна Суматра</name>
+		<name normalized="Юzнai Сuмatрa" languages="Russian">Южная Суматра</name>
+		<name normalized="Juzнa Сuмatрa" languages="Serbian">Јужна Суматра</name>
+		<name normalized="Өмнɵ Сuмatрa" languages="Mongolian">Өмнө Суматра</name>
+		<name normalized="סvמtrh" languages="Hebrew">סומטרה</name>
+		<name normalized="jنوbی سmאٹrא" languages="Urdu">جنوبی سماٹرا</name>
+		<name normalized="سmאٹrא" languages="Urdu;Western Punjabi">سماٹرا</name>
+		<name normalized="سوmאtrא" languages="Persian">سوماترا</name>
+		<name normalized="سوmאtrאی jنوbی" languages="Persian">سوماترای جنوبی</name>
+		<name normalized="سوmtrة" languages="Arabic">سومطرة</name>
+		<name normalized="سوmtrة אلjنوbyة" languages="Arabic">سومطرة الجنوبية</name>
+		<name normalized="sوbہ دکھنی سmאٹrא" languages="Western Punjabi">صوبہ دکھنی سماٹرا</name>
+		<name normalized="dk्षiण sumाt्rा" languages="Marathi">दक्षिण सुमात्रा</name>
+		<name normalized="sumाt्rा" languages="Hindi;Marathi">सुमात्रा</name>
+		<name normalized="sumাt্rা" languages="Bengali">সুমাত্রা</name>
+		<name normalized="ସୁମାତ୍ରା" languages="Oriya">ସୁମାତ୍ରା</name>
+		<name normalized="சுமாத்திரா" languages="Tamil">சுமாத்திரா</name>
+		<name normalized="സുമാത്ര" languages="Malayalam">സുമാത്ര</name>
+		<name normalized="จังหวัดสุมาตราใต้" languages="Thai">จังหวัดสุมาตราใต้</name>
+		<name normalized="เกาะสุมาตรา" languages="Thai">เกาะสุมาตรา</name>
+		<name normalized="ဆူမတြာကျွန်း" languages="Burmese">ဆူမတြာကျွန်း</name>
+		<name normalized="სამხრეთი სუმატრა" languages="Georgian">სამხრეთი სუმატრა</name>
+		<name normalized="სუმატრა" languages="Georgian">სუმატრა</name>
+		<name normalized="កោះស៊ូម៉ាត្រា" languages="Khmer">កោះស៊ូម៉ាត្រា</name>
+		<name normalized="smtr島" languages="Japanese">スマトラ島</name>
+		<name normalized="南smtr州" languages="Japanese">南スマトラ州</name>
+		<name normalized="南苏门答腊省" languages="Chinese">南苏门答腊省</name>
+		<name normalized="苏门答腊岛" languages="Wu">苏门答腊岛</name>
+		<name normalized="蘇門答臘" languages="Chinese">蘇門答臘</name>
+		<name normalized="수마트라 섬" languages="Korean">수마트라 섬</name>
+		<name normalized="수마트라슬라탄 주" languages="Korean">수마트라슬라탄 주</name>
+	</region>
+	<region name="Sumatera Utara" type="province" typeTranslated="provinsi">
+		<name normalized="Amihanan nga Sumatra" languages="Waray">Amihanan nga Sumatra</name>
+		<name normalized="Bac Sumatera" languages="Vietnamese">Bắc Sumatera</name>
+		<name normalized="Gogledd Sumatra" languages="Welsh">Gogledd Sumatra</name>
+		<name normalized="Ipar Sumatra" languages="Basque">Ipar Sumatra</name>
+		<name normalized="Kuzey Sumatra" languages="Turkish">Kuzey Sumatra</name>
+		<name normalized="Noord-Sumatra" languages="Dutch">Noord-Sumatra</name>
+		<name normalized="Norda Sumatro" languages="Esperanto">Norda Sumatro</name>
+		<name normalized="Nordsumatra" languages="Danish">Nordsumatra</name>
+		<name normalized="North Sumatra" languages="English;official">North Sumatra</name>
+		<name normalized="North Sumatra Province" languages="English;official">North Sumatra Province</name>
+		<name normalized="North Sumatra Provinsi" languages="English;official">North Sumatra Provinsi</name>
+		<name normalized="Pak Sumatera" languages="Chinese (Min Nan)">Pak Sumatera</name>
+		<name normalized="Pangulung Sumatra" languages="Pampanga">Pangulung Sumatra</name>
+		<name normalized="Pet Su-mun-tap-lia̍p-sen" languages="Hakka">Pet Sû-mùn-tap-lia̍p-sén</name>
+		<name normalized="Pohjois-Sumatra" languages="Finnish">Pohjois-Sumatra</name>
+		<name normalized="Ruja" languages="Achinese">Ruja</name>
+		<name normalized="Severni Sumatra" languages="Czech">Severní Sumatra</name>
+		<name normalized="Sumatera" languages="Basa Banyumasan;Breton;Chinese (Min Nan);Indonesian;Malay;Minangkabau;Welsh">Sumatera</name>
+		<name normalized="Sumatera Utara" languages="Basa Banyumasan;English;German;Indonesian;Malay;Minangkabau;Norwegian (bokmal);official;Swedish">Sumatera Utara</name>
+		<name normalized="Sumatera Utara Province" languages="English;official">Sumatera Utara Province</name>
+		<name normalized="Sumatera Utara Provinsi" languages="English;official">Sumatera Utara Provinsi</name>
+		<name normalized="Sumatra" languages="Afrikaans;Albanian;Alemannisch;Azerbaijani;Basque;Bosnian;Catalan;Croatian;Czech;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Ido;Italian;Javanese;Latin;Latvian;Lithuanian;lumbaart;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Pampanga;Piedmontese;Polish;Portuguese;Romanian;Samogitian;Scottish Gaelic;Seeltersk;Serbo-Croatian;Sicilian;Simple English;Slovak;Slovenian;Spanish;Swedish;Tagalog;Turkish;Vietnamese;veneto;Waray;Western Frisian">Sumatra</name>
+		<name normalized="Sumatra Baroh" languages="Achinese">Sumatra Barôh</name>
+		<name normalized="Sumatra do Norte" languages="Portuguese">Sumatra do Norte</name>
+		<name normalized="Sumatra du Nord" languages="French">Sumatra du Nord</name>
+		<name normalized="Sumatra Kaler" languages="Sundanese">Sumatra Kalér</name>
+		<name normalized="Sumatra Lor" languages="Javanese">Sumatra Lor</name>
+		<name normalized="Sumatra Province" languages="English;official">Sumatra Province</name>
+		<name normalized="Sumatra Provinsi" languages="English;official">Sumatra Provinsi</name>
+		<name normalized="Sumatra Polnocna" languages="Polish">Sumatra Północna</name>
+		<name normalized="Sumatra Septentrional" languages="Catalan;Spanish">Sumatra Septentrional</name>
+		<name normalized="Sumatra Settentrionale" languages="Italian">Sumatra Settentrionale</name>
+		<name normalized="Sumatro" languages="Esperanto">Sumatro</name>
+		<name normalized="Szumatra" languages="Hungarian">Szumátra</name>
+		<name normalized="Sumatra" languages="Icelandic">Súmatra</name>
+		<name normalized="Su-mun-tap-lia̍p" languages="Hakka">Sû-mùn-tap-lia̍p</name>
+		<name normalized="Siaures Sumatra" languages="Lithuanian">Šiaurės Sumatra</name>
+		<name normalized="Σουματρα" languages="Greek">Σουμάτρα</name>
+		<name normalized="Voсtрaў Сuмatрa" languages="Belarusian">Востраў Суматра</name>
+		<name normalized="Pivнicнa Сuмatрa" languages="Ukrainian">Північна Суматра</name>
+		<name normalized="Сiviрнa Сuмatрa" languages="Bulgarian;Serbian">Северна Суматра</name>
+		<name normalized="Сiviрнai Сuмatрa" languages="Russian">Северная Суматра</name>
+		<name normalized="Сuмatрa" languages="Bulgarian;Macedonian;Russian;Serbian;Tatar;Ukrainian;biлaрuсkai (taрaskivita)‎">Суматра</name>
+		<name normalized="Uмaр Сuмatрa" languages="Mongolian">Умар Суматра</name>
+		<name normalized="סvמtrh" languages="Hebrew">סומטרה</name>
+		<name normalized="צpvן סvמtrh" languages="Hebrew">צפון סומטרה</name>
+		<name normalized="سmאٹrא" languages="Urdu;Western Punjabi">سماٹرا</name>
+		<name normalized="سوmאtrא" languages="Persian">سوماترا</name>
+		<name normalized="سوmאtrאی شmאلی" languages="Persian">سوماترای شمالی</name>
+		<name normalized="سوmtrة" languages="Arabic">سومطرة</name>
+		<name normalized="سوmtrة אلشmאلyة" languages="Arabic">سومطرة الشمالية</name>
+		<name normalized="شmאلی سmאٹrא" languages="Urdu">شمالی سماٹرا</name>
+		<name normalized="sوbہ אtلא سmאٹrא" languages="Western Punjabi">صوبہ اتلا سماٹرا</name>
+		<name normalized="ut्tr sumाt्rा" languages="Marathi">उत्तर सुमात्रा</name>
+		<name normalized="sumाt्rा" languages="Hindi;Marathi">सुमात्रा</name>
+		<name normalized="sumাt্rা" languages="Bengali">সুমাত্রা</name>
+		<name normalized="ସୁମାତ୍ରା" languages="Oriya">ସୁମାତ୍ରା</name>
+		<name normalized="சுமாத்திரா" languages="Tamil">சுமாத்திரா</name>
+		<name normalized="സുമാത്ര" languages="Malayalam">സുമാത്ര</name>
+		<name normalized="จังหวัดสุมาตราเหนือ" languages="Thai">จังหวัดสุมาตราเหนือ</name>
+		<name normalized="เกาะสุมาตรา" languages="Thai">เกาะสุมาตรา</name>
+		<name normalized="ဆူမတြာကျွန်း" languages="Burmese">ဆူမတြာကျွန်း</name>
+		<name normalized="სუმატრა" languages="Georgian">სუმატრა</name>
+		<name normalized="ჩრდილოეთი სუმატრა" languages="Georgian">ჩრდილოეთი სუმატრა</name>
+		<name normalized="កោះស៊ូម៉ាត្រា" languages="Khmer">កោះស៊ូម៉ាត្រា</name>
+		<name normalized="smtr島" languages="Japanese">スマトラ島</name>
+		<name normalized="北smtr州" languages="Japanese">北スマトラ州</name>
+		<name normalized="北苏门答腊省" languages="Chinese">北苏门答腊省</name>
+		<name normalized="苏门答腊岛" languages="Wu">苏门答腊岛</name>
+		<name normalized="蘇門答臘" languages="Chinese">蘇門答臘</name>
+		<name normalized="수마트라 섬" languages="Korean">수마트라 섬</name>
+		<name normalized="수마트라우타라 주" languages="Korean">수마트라우타라 주</name>
+	</region>
+	<region name="Yogyakarta" type="special region" typeTranslated="special region">
+		<name normalized="Dzogjakarta" languages="Lithuanian">Džogjakarta</name>
+		<name normalized="Jogjakarta" languages="Afrikaans;Dutch">Jogjakarta</name>
+		<name normalized="Jogjakarto" languages="Esperanto">Jogjakarto</name>
+		<name normalized="Kota Yogyakarta" languages="Basa Banyumasan;Indonesian;Malay">Kota Yogyakarta</name>
+		<name normalized="Kuta Yogyakarta" languages="Banjar">Kuta Yogyakarta</name>
+		<name normalized="Kutha Ngayogyakarta" languages="Javanese">Kutha Ngayogyakarta</name>
+		<name normalized="Yogyakarta" languages="Basque;Catalan;Chinese (Min Nan);Czech;English;Estonian;Finnish;French;Galician;German;Hungarian;Latin;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Polish;Portuguese;Romanian;Scots;Simple English;Slovenian;Swedish;Vietnamese;Waray">Yogyakarta</name>
+		<name normalized="Γιογκιακαρτα" languages="Greek">Γιογκιακάρτα</name>
+		<name normalized="Dzok'ikaрta" languages="Ukrainian">Джок'якарта</name>
+		<name normalized="Dzokьikaрta" languages="Russian">Джокьякарта</name>
+		<name normalized="Dzogdzakaрta" languages="Serbian">Џогџакарта</name>
+		<name normalized="یوgیאکאrtא" languages="Persian;Western Punjabi">یوگیاکارتا</name>
+		<name normalized="yog्ykr्tा" languages="Marathi">योग्यकर्ता</name>
+		<name normalized="yog्ykाr्tा" languages="Hindi">योग्यकार्ता</name>
+		<name normalized="ยอกยาการ์ตา" languages="Thai">ยอกยาการ์ตา</name>
+		<name normalized="ჯოკიაკარტა" languages="Georgian">ჯოკიაკარტა</name>
+		<name normalized="zョgzykrt市" languages="Japanese">ジョグジャカルタ市</name>
+		<name normalized="日惹" languages="Chinese">日惹</name>
+		<name normalized="욕야카르타" languages="Korean">욕야카르타</name>
+	</region>
+</regions>

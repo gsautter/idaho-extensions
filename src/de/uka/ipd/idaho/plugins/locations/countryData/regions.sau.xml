@@ -1,0 +1,694 @@
+<regions country="Saudi Arabia">
+	<region name="'Asir" type="province" typeTranslated="mintaqah">
+		<name normalized="'Asir" languages="English;Italian;Malay;Norwegian (bokmal);official;Portuguese;Swedish">'Asir</name>
+		<name normalized="'Asir Mintaqah" languages="English;official">'Asir Mintaqah</name>
+		<name normalized="'Asir Province" languages="English;official;Scots">'Asir Province</name>
+		<name normalized="'Asir Region" languages="English">'Asir Region</name>
+		<name normalized="Asir" languages="Croatian;Dutch;English;Finnish;French;Norwegian Nynorsk;official;Polish;Waray">Asir</name>
+		<name normalized="Asir Bolgesi" languages="Turkish">Asir Bölgesi</name>
+		<name normalized="Asir Mintaqah" languages="English;official">Asir Mintaqah</name>
+		<name normalized="Asir Province" languages="English;official">Asir Province</name>
+		<name normalized="Asiro emyratas" languages="Lithuanian">Asiro emyratas</name>
+		<name normalized="Aszir tartomany" languages="Hungarian">Aszír tartomány</name>
+		<name normalized="Asir" languages="Czech">Asír</name>
+		<name normalized="Emirlando Asiro" languages="Esperanto">Emirlando Asiro</name>
+		<name normalized="Lasirian" languages="Volapuk">Lasiriän</name>
+		<name normalized="Propinsi `Asir" languages="Sundanese">Propinsi `Asir</name>
+		<name normalized="Provincia de Asir" languages="Spanish">Provincia de Asir</name>
+		<name normalized="Provinsi 'Asir" languages="Indonesian">Provinsi 'Asir</name>
+		<name normalized="Provinz Asir" languages="German">Provinz Asir</name>
+		<name normalized="Regio d'Asir" languages="Catalan">Regió d'Asir</name>
+		<name normalized="Aсiр" languages="Russian;Serbian">Асир</name>
+		<name normalized="Aсыр" languages="biлaрuсkai (taрaskivita)‎">Асыр</name>
+		<name normalized="Aсiр" languages="Ukrainian">Асір</name>
+		<name normalized="Pрaviнtыi Aсiр" languages="Belarusian">Правінцыя Асір</name>
+		<name normalized="אسtאن عسیr" languages="Persian">استان عسیر</name>
+		<name normalized="sوbہ عسyr" languages="Urdu">صوبہ عسير</name>
+		<name normalized="عسیr" languages="Western Punjabi">عسیر</name>
+		<name normalized="mنtqة عسyr" languages="Arabic">منطقة عسير</name>
+		<name normalized="asir p्rाn्t" languages="Hindi">असीर प्रान्त</name>
+		<name normalized="asir riast" languages="Punjabi">ਅਸੀਰ ਰਿਆਸਤ</name>
+		<name normalized="അസീർ പ്രവിശ്യ" languages="Malayalam">അസീർ പ്രവിശ്യ</name>
+		<name normalized="'Asir" languages="Estonian">‘Asīr</name>
+		<name normalized="asiーr州" languages="Japanese">アスィール州</name>
+		<name normalized="阿西尔省" languages="Chinese">阿西尔省</name>
+		<name normalized="아시르 주" languages="Korean">아시르 주</name>
+	</region>
+	<region name="Al Bahah" type="province" typeTranslated="mintaqah">
+		<name normalized="Al Bahah" languages="English;Finnish;French;Malay;Norwegian (bokmal);official;Pampanga;Portuguese;Scots;Spanish;Swedish;Tagalog;Waray">Al Bahah</name>
+		<name normalized="Al Bahah Lalawigan" languages="Pampanga">Al Bahah Lalawigan</name>
+		<name normalized="Al Bahah Mintaqah" languages="English;official">Al Bahah Mintaqah</name>
+		<name normalized="Al Bahah Province" languages="English;official;Scots">Al Bahah Province</name>
+		<name normalized="Al Bahah Region" languages="English">Al Bahah Region</name>
+		<name normalized="Al Bahos emyratas" languages="Lithuanian">Al Bahos emyratas</name>
+		<name normalized="Al-Baha" languages="Polish">Al-Baha</name>
+		<name normalized="Al-Bahah" languages="Dutch">Al-Bahah</name>
+		<name normalized="Al-Baha" languages="Italian">Al-Bāha</name>
+		<name normalized="Al-Bahah' provints" languages="Estonian">Al-Bāḩah' provints</name>
+		<name normalized="Baha" languages="Volapuk">Baha</name>
+		<name normalized="Bahah" languages="Croatian">Bahah</name>
+		<name normalized="Bahian" languages="Volapuk">Bahiän</name>
+		<name normalized="Baha tartomany" languages="Hungarian">Báha tartomány</name>
+		<name normalized="El Baha Bolgesi" languages="Turkish">El Baha Bölgesi</name>
+		<name normalized="Emirlando Bahao" languages="Esperanto">Emirlando Bahao</name>
+		<name normalized="Lalawigan ng Al Bahah" languages="Tagalog">Lalawigan ng Al Bahah</name>
+		<name normalized="Propinsi Al-Bahah" languages="Sundanese">Propinsi Al-Bahah</name>
+		<name normalized="Provincia de Baha" languages="Spanish">Provincia de Baha</name>
+		<name normalized="Provinsi Bahah" languages="Indonesian">Provinsi Bahah</name>
+		<name normalized="Provinz Baha" languages="German">Provinz Baha</name>
+		<name normalized="Aл Baka" languages="Serbian">Ал Баха</name>
+		<name normalized="Iль-Baka" languages="Ukrainian">Ель-Баха</name>
+		<name normalized="Pрaviнtыi Eль-Baka" languages="Belarusian">Правінцыя Эль-Баха</name>
+		<name normalized="Eль-Baka" languages="Russian;biлaрuсkai (taрaskivita)‎">Эль-Баха</name>
+		<name normalized="אسtאن bאhh" languages="Persian">استان باحه</name>
+		<name normalized="אلbאhة" languages="Arabic">الباحة</name>
+		<name normalized="אلbאhh" languages="Mazanderani;Persian">الباحه</name>
+		<name normalized="אلbאhہ" languages="Urdu">الباحہ</name>
+		<name normalized="bאہא" languages="Western Punjabi">باہا</name>
+		<name normalized="sوbہ אلbאhہ" languages="Urdu">صوبہ الباحہ</name>
+		<name normalized="sوbہ bאhہ" languages="Western Punjabi">صوبہ باحہ</name>
+		<name normalized="mنtqة אلbאhة" languages="Arabic">منطقة الباحة</name>
+		<name normalized="bाhाh p्rाn्t" languages="Hindi">बाहाह प्रान्त</name>
+		<name normalized="albਾhਾ subਾ" languages="Punjabi">ਅਲਬਾਹਾ ਸੂਬਾ</name>
+		<name normalized="അൽ ബഹ" languages="Malayalam">അൽ ബഹ</name>
+		<name normalized="അൽ ബഹ പ്രവിശ്യ" languages="Malayalam">അൽ ബഹ പ്രവിശ്യ</name>
+		<name normalized="bーh州" languages="Japanese">バーハ州</name>
+		<name normalized="巴哈" languages="Chinese">巴哈</name>
+		<name normalized="巴哈省" languages="Chinese">巴哈省</name>
+		<name normalized="바하 주" languages="Korean">바하 주</name>
+	</region>
+	<region name="Al Hudud ash Shamaliyah" type="province" typeTranslated="mintaqah">
+		<name normalized="Al Hudud ash Shamaliyah" languages="Dutch;English;Finnish;Malay;Norwegian (bokmal);official;Pampanga;Portuguese;Swedish;Waray">Al Hudud ash Shamaliyah</name>
+		<name normalized="Al Hudud ash Shamaliyah Mintaqah" languages="English;official">Al Hudud ash Shamaliyah Mintaqah</name>
+		<name normalized="Al Hudud ash Shamaliyah Province" languages="English;official">Al Hudud ash Shamaliyah Province</name>
+		<name normalized="Al-Hudud ach-Chamaliya" languages="French">Al-Hudud ach-Chamaliya</name>
+		<name normalized="Al-Hudud al-Shamaliyya" languages="Italian">Al-Hudud al-Shamaliyya</name>
+		<name normalized="Al-Hudud ash-Shamaliyah" languages="Estonian">Al-Ḩudūd ash-Shamālīyah</name>
+		<name normalized="Bien gioi" languages="Vietnamese">Biên giới</name>
+		<name normalized="Border" languages="English;official;Simple English">Border</name>
+		<name normalized="Border Mintaqah" languages="English;official">Border Mintaqah</name>
+		<name normalized="Border Province" languages="English;official">Border Province</name>
+		<name normalized="Confine" languages="Italian">Confine</name>
+		<name normalized="Drzavna granica" languages="Croatian">Državna granica</name>
+		<name normalized="Drzavna meja" languages="Slovenian">Državna meja</name>
+		<name normalized="Dovlət sərhədi" languages="Azerbaijani">Dövlət sərhədi</name>
+		<name normalized="Emirlando de la Norda Landlimo" languages="Esperanto">Emirlando de la Norda Landlimo</name>
+		<name normalized="Fronteira" languages="Galician;Portuguese">Fronteira</name>
+		<name normalized="Frontera" languages="Catalan;Spanish">Frontera</name>
+		<name normalized="Frontiero" languages="Ido">Frontiero</name>
+		<name normalized="Frontire" languages="Walloon">Frontire</name>
+		<name normalized="Frontiere" languages="French">Frontière</name>
+		<name normalized="Fruntera" languages="Sicilian">Fruntera</name>
+		<name normalized="Granica" languages="Bosnian;Serbo-Croatian">Granica</name>
+		<name normalized="Granica panstwowa" languages="Polish">Granica państwowa</name>
+		<name normalized="Granița" languages="Romanian">Graniță</name>
+		<name normalized="Grens" languages="Afrikaans;Dutch">Grens</name>
+		<name normalized="Grense" languages="Norwegian (bokmal)">Grense</name>
+		<name normalized="Grenze" languages="German">Grenze</name>
+		<name normalized="Graense" languages="Danish">Grænse</name>
+		<name normalized="Harz" languages="Breton">Harz</name>
+		<name normalized="Hranica" languages="Slovak">Hranica</name>
+		<name normalized="Hranice" languages="Czech">Hranice</name>
+		<name normalized="Hududusy Syamaliyah" languages="Indonesian">Hududusy Syamaliyah</name>
+		<name normalized="Hududajjamalian" languages="Volapuk">Hududäjjämaliän</name>
+		<name normalized="Kuzey Sınır Bolgesi" languages="Turkish">Kuzey Sınır Bölgesi</name>
+		<name normalized="Landamaeri" languages="Icelandic">Landamæri</name>
+		<name normalized="Landlimo" languages="Esperanto">Landlimo</name>
+		<name normalized="Llende" languages="Asturian">Llende</name>
+		<name normalized="Ma'mleketlik shegara" languages="Kara-Kalpak">Ma'mleketlik shegara</name>
+		<name normalized="Muga" languages="Aragonese">Muga</name>
+		<name normalized="Northern Border" languages="English;official">Northern Border</name>
+		<name normalized="Northern Border Mintaqah" languages="English;official">Northern Border Mintaqah</name>
+		<name normalized="Northern Border Province" languages="English;official">Northern Border Province</name>
+		<name normalized="Northern Borders Region" languages="English">Northern Borders Region</name>
+		<name normalized="Northren Borders Province" languages="Scots">Northren Borders Province</name>
+		<name normalized="Orszaghatar" languages="Hungarian">Országhatár</name>
+		<name normalized="Perbatasan" languages="Indonesian">Perbatasan</name>
+		<name normalized="Propinsi Al-Hudud Asy-Syamaliyah" languages="Sundanese">Propinsi Al-Hudud Asy-Syamaliyah</name>
+		<name normalized="Provincia de la Frontera del Norte" languages="Spanish">Provincia de la Frontera del Norte</name>
+		<name normalized="Provinz al-Hudud asch-schamaliyya" languages="German">Provinz al-Hudud asch-schamaliyya</name>
+		<name normalized="Polnocna Prowincja Graniczna" languages="Polish">Północna Prowincja Graniczna</name>
+		<name normalized="Saywa" languages="Quechua">Saywa</name>
+		<name normalized="Sempadan" languages="Malay">Sempadan</name>
+		<name normalized="Sınır" languages="Turkish">Sınır</name>
+		<name normalized="Statsgrans" languages="Swedish">Statsgräns</name>
+		<name normalized="Valsts robeza" languages="Latvian">Valsts robeža</name>
+		<name normalized="Valstybes siena" languages="Lithuanian">Valstybės siena</name>
+		<name normalized="Valtionraja" languages="Finnish">Valtionraja</name>
+		<name normalized="Siaurinio Krasto emyratas" languages="Lithuanian">Šiaurinio Krašto emyratas</name>
+		<name normalized="Σuνορα" languages="Greek">Σύνορα</name>
+		<name normalized="Goсudaрсtviннai gрaнita" languages="Russian">Государственная граница</name>
+		<name normalized="Gрaнita" languages="Serbian">Граница</name>
+		<name normalized="Diрzavнiй koрdoн" languages="Ukrainian">Державний кордон</name>
+		<name normalized="Dърzavнa gрaнita" languages="Bulgarian">Държавна граница</name>
+		<name normalized="Dəүлət cikлəрi" languages="Tatar">Дәүләт чикләре</name>
+		<name normalized="Iль-Kudud is-Saмaлiйi" languages="Ukrainian">Ель-Худуд еш-Шамалійя</name>
+		<name normalized="Мiмлikittik sikaрa" languages="Kazakh">Мемлекеттік шекара</name>
+		<name normalized="Eль-Kudud es-Saмaлiйi" languages="Russian">Эль-Худуд эш-Шамалийя</name>
+		<name normalized="Eль-Kudud es-Saмaлii" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Эль-Худуд эш-Шамалія</name>
+		<name normalized="גbvד" languages="Hebrew">גבול</name>
+		<name normalized="גrעnעץ" languages="Yiddish">גרענעץ</name>
+		<name normalized="אسtאن mrزhאی شmאلی" languages="Persian">استان مرزهای شمالی</name>
+		<name normalized="hدود سyאسyة" languages="Arabic">حدود سياسية</name>
+		<name normalized="سrhد" languages="Urdu">سرحد</name>
+		<name normalized="sوbہ אtلے bאrڈr" languages="Western Punjabi">صوبہ اتلے بارڈر</name>
+		<name normalized="sوbہ אلhدود אلشmאلyہ" languages="Urdu">صوبہ الحدود الشماليہ</name>
+		<name normalized="mrز" languages="Persian">مرز</name>
+		<name normalized="mنtqة אلhدود אلشmאلyة" languages="Arabic">منطقة الحدود الشمالية</name>
+		<name normalized="ut्tri simाeँ p्rाn्t" languages="Hindi">उत्तरी सीमाएँ प्रान्त</name>
+		<name normalized="p্ronটeirা" languages="Bishnupria Manipuri">ফ্রোনটেইরা</name>
+		<name normalized="எல்லைக்கோடு" languages="Tamil">எல்லைக்கோடு</name>
+		<name normalized="അതിർത്തി" languages="Malayalam">അതിർത്തി</name>
+		<name normalized="വടക്കൻ അതിർത്തി പ്രവിശ്യ" languages="Malayalam">വടക്കൻ അതിർത്തി പ്രവിശ്യ</name>
+		<name normalized="北部国境州" languages="Japanese">北部国境州</name>
+		<name normalized="北部边疆省" languages="Chinese">北部边疆省</name>
+		<name normalized="国境" languages="Japanese">国境</name>
+		<name normalized="边界" languages="Chinese">边界</name>
+		<name normalized="국경" languages="Korean">국경</name>
+		<name normalized="북부 변경 주" languages="Korean">북부 변경 주</name>
+	</region>
+	<region name="Al Jawf" type="province" typeTranslated="mintaqah">
+		<name normalized="Al Jawf" languages="Dutch;English;Finnish;French;Norwegian (bokmal);official;Pampanga;Portuguese;Swedish;Waray">Al Jawf</name>
+		<name normalized="Al Jawf Mintaqah" languages="English;official">Al Jawf Mintaqah</name>
+		<name normalized="Al Jawf Province" languages="English;official;Scots">Al Jawf Province</name>
+		<name normalized="Al Jawf Region" languages="English">Al Jawf Region</name>
+		<name normalized="Al-Dzauf" languages="Polish">Al-Dżauf</name>
+		<name normalized="Al-Jawf" languages="Italian">Al-Jawf</name>
+		<name normalized="Cevf Bolgesi" languages="Turkish">Cevf Bölgesi</name>
+		<name normalized="Caufian" languages="Volapuk">Cäufiän</name>
+		<name normalized="Djawf Amir" languages="Catalan">Djawf Amir</name>
+		<name normalized="Dzaufo emyratas" languages="Lithuanian">Džaufo emyratas</name>
+		<name normalized="Dzavf" languages="Croatian">Džavf</name>
+		<name normalized="Emirlando Gaufo" languages="Esperanto">Emirlando Ĝaŭfo</name>
+		<name normalized="Propinsi Al-Jawf" languages="Sundanese">Propinsi Al-Jawf</name>
+		<name normalized="Provincia de Yauf" languages="Spanish">Provincia de Yauf</name>
+		<name normalized="Provinsi Jauf" languages="Indonesian">Provinsi Jauf</name>
+		<name normalized="Provinz Dschauf" languages="German">Provinz Dschauf</name>
+		<name normalized="Provincia d'Al-Jawf" languages="Catalan">Província d'Al-Jawf</name>
+		<name normalized="Sakaka" languages="French;Polish;Spanish">Sakaka</name>
+		<name normalized="Sakakah" languages="English;Tagalog">Sakakah</name>
+		<name normalized="Sekake" languages="Turkish">Sekake</name>
+		<name normalized="Skaka" languages="Italian;Waray">Skaka</name>
+		<name normalized="Sakaka" languages="Volapuk">Säkaka</name>
+		<name normalized="Wilayah Al Jawf" languages="Malay">Wilayah Al Jawf</name>
+		<name normalized="Eszaki hatarvidek tartomany" languages="Hungarian">Északi határvidék tartomány</name>
+		<name normalized="Iль-Dzavф" languages="Ukrainian">Ель-Джавф</name>
+		<name normalized="Pрaviнtыi Eль-Dzaўф" languages="Belarusian">Правінцыя Эль-Джаўф</name>
+		<name normalized="Сakaka" languages="Kazakh;Russian">Сакака</name>
+		<name normalized="Eль-Dzauф" languages="Russian">Эль-Джауф</name>
+		<name normalized="Eль-Dzaўф" languages="biлaрuсkai (taрaskivita)‎">Эль-Джаўф</name>
+		<name normalized="jوf" languages="Persian">جوف</name>
+		<name normalized="سkאkא" languages="Arabic">سكاكا</name>
+		<name normalized="سکאکא" languages="Urdu">سکاکا</name>
+		<name normalized="سکאکh" languages="Mazanderani;Persian">سکاکه</name>
+		<name normalized="sوbہ אلjوf" languages="Urdu">صوبہ الجوف</name>
+		<name normalized="sوbہ jوf" languages="Western Punjabi">صوبہ جوف</name>
+		<name normalized="mنtqة אلjوf" languages="Arabic">منطقة الجوف</name>
+		<name normalized="jap़ p्rाn्t" languages="Hindi">जौफ़ प्रान्त</name>
+		<name normalized="jap਼ subਾ" languages="Punjabi">ਜੌਫ਼ ਸੂਬਾ</name>
+		<name normalized="skਾkਾ" languages="Punjabi">ਸਕਾਕਾ</name>
+		<name normalized="അൽ ജൗഫ് പ്രവിശ്യ" languages="Malayalam">അൽ ജൗഫ് പ്രവിശ്യ</name>
+		<name normalized="സകാക" languages="Malayalam">സകാക</name>
+		<name normalized="zyuh州" languages="Japanese">ジャウフ州</name>
+		<name normalized="塞卡凱" languages="Chinese">塞卡凱</name>
+		<name normalized="焦夫省" languages="Chinese">焦夫省</name>
+		<name normalized="자우프 주" languages="Korean">자우프 주</name>
+	</region>
+	<region name="Al Madinah" type="province" typeTranslated="mintaqah">
+		<name normalized="Al Madinah" languages="English;Finnish;Malay;official;Pampanga;Portuguese;Waray">Al Madinah</name>
+		<name normalized="Al Madinah Mintaqah" languages="English;official">Al Madinah Mintaqah</name>
+		<name normalized="Al Madinah Province" languages="English;official;Scots">Al Madinah Province</name>
+		<name normalized="Al Madinah Region" languages="English">Al Madinah Region</name>
+		<name normalized="Al-Madinah" languages="Swedish">Al-Madinah</name>
+		<name normalized="Emirlando Medino" languages="Esperanto">Emirlando Medino</name>
+		<name normalized="Madina" languages="Swahili;Uzbek">Madina</name>
+		<name normalized="Madinah" languages="Achinese;Indonesian;Javanese;Minangkabau;Sundanese">Madinah</name>
+		<name normalized="Madinah al-Munawwarah" languages="Malay">Madinah al-Munawwarah</name>
+		<name normalized="Mediina" languages="Estonian">Mediina</name>
+		<name normalized="Mediina provints" languages="Estonian">Mediina provints</name>
+		<name normalized="Medina" languages="Afrikaans;Albanian;Basque;Bosnian;Breton;Catalan;Cebuano;Croatian;Danish;Dutch;English;Finnish;German;Hungarian;Icelandic;Ido;Italian;Kalaallisut;Latin;Lithuanian;Norwegian (bokmal);Norwegian Nynorsk;Occitan;official;Portuguese;Romanian;Scots;Serbo-Croatian;Sicilian;Simple English;Slovak;Slovenian;Somali;Spanish;Swedish;Tagalog;Vietnamese;Waray;Welsh">Medina</name>
+		<name normalized="Medina Mintaqah" languages="English;official">Medina Mintaqah</name>
+		<name normalized="Medina Province" languages="English;official">Medina Province</name>
+		<name normalized="Medina tartomany" languages="Hungarian">Medina tartomány</name>
+		<name normalized="Medine" languages="Turkish">Medine</name>
+		<name normalized="Medine Bolgesi" languages="Turkish">Medine Bölgesi</name>
+		<name normalized="Medino" languages="Esperanto">Medino</name>
+		<name normalized="Medinos emyratas" languages="Lithuanian">Medinos emyratas</name>
+		<name normalized="Medyna" languages="Polish">Medyna</name>
+		<name normalized="Medina" languages="Czech">Medína</name>
+		<name normalized="Medina" languages="Zazaki">Medîna</name>
+		<name normalized="Medine" languages="Kurdish">Medîne</name>
+		<name normalized="Medina" languages="Latvian">Medīna</name>
+		<name normalized="Madinian" languages="Volapuk">Mädiniän</name>
+		<name normalized="Madina" languages="Volapuk">Mädinä</name>
+		<name normalized="Medine" languages="French">Médine</name>
+		<name normalized="Mədinə" languages="Azerbaijani">Mədinə</name>
+		<name normalized="Propinsi Al-Madinah" languages="Sundanese">Propinsi Al-Madinah</name>
+		<name normalized="Provincia de Medina" languages="Spanish">Provincia de Medina</name>
+		<name normalized="Provinsi Madinah" languages="Indonesian">Provinsi Madinah</name>
+		<name normalized="Provinz Medina" languages="German">Provinz Medina</name>
+		<name normalized="Μεδινα" languages="Greek">Μεδίνα</name>
+		<name normalized="Goрad Мidziнa" languages="Belarusian">Горад Медзіна</name>
+		<name normalized="Iль-Мadiнa" languages="Ukrainian">Ель-Мадіна</name>
+		<name normalized="Мadiнa" languages="Avaric;Tajik;лakku">Мадина</name>
+		<name normalized="Мidiнae" languages="Ossetic">Мединæ</name>
+		<name normalized="Мidiнa" languages="Bulgarian;Chechen;Macedonian;Russian;Serbian">Медина</name>
+		<name normalized="Мidiнi" languages="Kazakh">Медине</name>
+		<name normalized="Мidiнa" languages="Ukrainian">Медіна</name>
+		<name normalized="Мedынa" languages="biлaрuсkai (taрaskivita)‎">Мэдына</name>
+		<name normalized="Мədiнə" languages="Tatar">Мәдинә</name>
+		<name normalized="Eль-Мadiнa" languages="Russian">Эль-Мадина</name>
+		<name normalized="Eль-Мidынa" languages="Belarusian">Эль-Медына</name>
+		<name normalized="Eль-Мedынa" languages="biлaрuсkai (taрaskivita)‎">Эль-Мэдына</name>
+		<name normalized="אד-מדיnh" languages="Hebrew">אל-מדינה</name>
+		<name normalized="אسtאن mدینh" languages="Persian">استان مدینه</name>
+		<name normalized="אلmدyنة אلmنوrة" languages="Arabic;Egyptian Spoken Arabic">المدينة المنورة</name>
+		<name normalized="sوbہ אلmدyنہ" languages="Urdu">صوبہ المدينہ</name>
+		<name normalized="sوbہ mدینہ" languages="Western Punjabi">صوبہ مدینہ</name>
+		<name normalized="mدyنh" languages="Mazanderani">مدينه</name>
+		<name normalized="mدینh" languages="Persian">مدینه</name>
+		<name normalized="mدینھ" languages="Western Punjabi">مدینھ</name>
+		<name normalized="mدینہ mنوrہ" languages="Urdu">مدینہ منورہ</name>
+		<name normalized="mنtqة אلmدyنة אلmنوrة" languages="Arabic">منطقة المدينة المنورة</name>
+		<name normalized="mەدینە" languages="Sorani Kurdish">مەدینە</name>
+		<name normalized="މަދީނާ" languages="Divehi">މަދީނާ</name>
+		<name normalized="mdinा" languages="Nepali">मदिना</name>
+		<name normalized="mdinा" languages="Hindi;Marathi">मदीना</name>
+		<name normalized="mdinा p्rाn्t" languages="Hindi">मदीना प्रान्त</name>
+		<name normalized="mdinা" languages="Bengali">মদিনা</name>
+		<name normalized="meডinা" languages="Bishnupria Manipuri">মেডিনা</name>
+		<name normalized="mdinਾ" languages="Punjabi">ਮਦੀਨਾ</name>
+		<name normalized="mdinા" languages="Gujarati">મદીના</name>
+		<name normalized="மதீனா" languages="Tamil">மதீனா</name>
+		<name normalized="మదీనా" languages="Telugu">మదీనా</name>
+		<name normalized="മദീന" languages="Malayalam">മദീന</name>
+		<name normalized="മദീന പ്രവിശ്യ" languages="Malayalam">മദീന പ്രവിശ്യ</name>
+		<name normalized="มะดีนะฮ์" languages="Thai">มะดีนะฮ์</name>
+		<name normalized="მედინა" languages="Georgian">მედინა</name>
+		<name normalized="መዲና" languages="Amharic">መዲና</name>
+		<name normalized="mdiーn" languages="Japanese">マディーナ</name>
+		<name normalized="mdiーn州" languages="Japanese">マディーナ州</name>
+		<name normalized="麦地那" languages="Chinese">麦地那</name>
+		<name normalized="麦地那省" languages="Chinese">麦地那省</name>
+		<name normalized="메디나" languages="Korean">메디나</name>
+		<name normalized="메디나 주" languages="Korean">메디나 주</name>
+	</region>
+	<region name="Al Qasim" type="province" typeTranslated="mintaqah">
+		<name normalized="Al Qasim" languages="Dutch;English;Finnish;French;Malay;Norwegian (bokmal);official;Portuguese;Swedish">Al Qasim</name>
+		<name normalized="Al Qasim Mintaqah" languages="English;official">Al Qasim Mintaqah</name>
+		<name normalized="Al Qasim Province" languages="English;official">Al Qasim Province</name>
+		<name normalized="Al-Kasim" languages="Catalan;Polish">Al-Kasim</name>
+		<name normalized="Al-Qasim" languages="Italian">Al-Qasim</name>
+		<name normalized="Al-Qasim Province" languages="Scots">Al-Qasim Province</name>
+		<name normalized="Al-Qassim" languages="Waray">Al-Qassim</name>
+		<name normalized="Al-Qassim Region" languages="English">Al-Qassim Region</name>
+		<name normalized="Al-Qasim" languages="Estonian">Al-Qaşīm</name>
+		<name normalized="Casim" languages="Spanish">Casim</name>
+		<name normalized="El Kasım Bolgesi" languages="Turkish">El Kasım Bölgesi</name>
+		<name normalized="Emirlando Kasim" languages="Esperanto">Emirlando Kasim</name>
+		<name normalized="Kasim" languages="Croatian">Kasim</name>
+		<name normalized="Kasimian" languages="Volapuk">Kasimiän</name>
+		<name normalized="Kasimo emyratas" languages="Lithuanian">Kasimo emyratas</name>
+		<name normalized="Kaszim tartomany" languages="Hungarian">Kaszím tartomány</name>
+		<name normalized="Propinsi Al-Qasim" languages="Sundanese">Propinsi Al-Qasim</name>
+		<name normalized="Provinsi Qasim" languages="Indonesian">Provinsi Qasim</name>
+		<name normalized="Provinz Qasim" languages="German">Provinz Qasim</name>
+		<name normalized="Pрaviнtыi Eль-Kaсiм" languages="Belarusian">Правінцыя Эль-Касім</name>
+		<name normalized="Eль-Kaсiм" languages="Russian">Эль-Касим</name>
+		<name normalized="Eль-Kaсым" languages="biлaрuсkai (taрaskivita)‎">Эль-Касым</name>
+		<name normalized="אسtאن qsیm" languages="Persian">استان قصیم</name>
+		<name normalized="sوbہ אلqsym" languages="Urdu">صوبہ القصيم</name>
+		<name normalized="sوbہ qsیm" languages="Western Punjabi">صوبہ قصیم</name>
+		<name normalized="mنtqة אلqsym" languages="Arabic">منطقة القصيم</name>
+		<name normalized="k़sim p्rाn्t" languages="Hindi">क़सीम प्रान्त</name>
+		<name normalized="al-ksim subਾ" languages="Punjabi">ਅਲ-ਕਸੀਮ ਸੂਬਾ</name>
+		<name normalized="അൽ ഖസീം" languages="Malayalam">അൽ ഖസീം</name>
+		<name normalized="ksiーm州" languages="Japanese">カスィーム州</name>
+		<name normalized="盖西姆省" languages="Chinese">盖西姆省</name>
+		<name normalized="카심 주" languages="Korean">카심 주</name>
+	</region>
+	<region name="Ar Riyad" type="province" typeTranslated="mintaqah">
+		<name normalized="Al-Riyad" languages="Catalan;Italian">Al-Riyad</name>
+		<name normalized="Ar Riyad" languages="English;Finnish;Norwegian (bokmal);official;Pampanga;Portuguese">Ar Riyad</name>
+		<name normalized="Ar Riyad Mintaqah" languages="English;official">Ar Riyad Mintaqah</name>
+		<name normalized="Ar Riyad Province" languages="English;official">Ar Riyad Province</name>
+		<name normalized="Ar-Riyad" languages="Swedish">Ar-Riyad</name>
+		<name normalized="Ar-Riyod" languages="Uzbek">Ar-Riyod</name>
+		<name normalized="Ar-Riyad" languages="Estonian">Ar-Riyāḑ</name>
+		<name normalized="Ar-Riyadi provints" languages="Estonian">Ar-Riyāḑi provints</name>
+		<name normalized="Emirlando Riado" languages="Esperanto">Emirlando Riado</name>
+		<name normalized="Lalawigan ng Riyadh" languages="Tagalog">Lalawigan ng Riyadh</name>
+		<name normalized="Propinsi Ar-Riyadh" languages="Sundanese">Propinsi Ar-Riyadh</name>
+		<name normalized="Provincia de Riad" languages="Spanish">Provincia de Riad</name>
+		<name normalized="Provinz Riad" languages="German">Provinz Riad</name>
+		<name normalized="Riaad" languages="Afrikaans">Riaad</name>
+		<name normalized="Riad" languages="Aragonese;Basque;Finnish;Galician;German;Ido;Luxembourgish;Romanian;Spanish;Tagalog;veneto;Voro">Riad</name>
+		<name normalized="Riade" languages="Portuguese">Riade</name>
+		<name normalized="Riadi" languages="Albanian">Riadi</name>
+		<name normalized="Riado" languages="Esperanto">Riado</name>
+		<name normalized="Riadum" languages="Latin">Riadum</name>
+		<name normalized="Rihad" languages="Sicilian">Rihad</name>
+		<name normalized="Rijad" languages="Bosnian;Croatian;Polish;Serbo-Croatian">Rijad</name>
+		<name normalized="Rijadas" languages="Lithuanian">Rijadas</name>
+		<name normalized="Rijad" languages="Czech;Hungarian;Slovak">Rijád</name>
+		<name normalized="Rijad tartomany" languages="Hungarian">Rijád tartomány</name>
+		<name normalized="Rijada" languages="Latvian">Rijāda</name>
+		<name normalized="Riyad" languages="Dutch;Franco-Provencal;French;Gagauz;Haitian;Italian;Kurdish;lumbaart;Novial;Occitan;Swahili;Turkish;Volapuk;Western Frisian;Zazaki">Riyad</name>
+		<name normalized="Riyad Bolgesi" languages="Turkish">Riyad Bölgesi</name>
+		<name normalized="Riyadh" languages="Achinese;Asturian;Breton;Danish;English;Faroese;Fiji Hindi;Hawaiian;Iloko;Indonesian;Irish;Kalaallisut;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;official;Piedmontese;Scots;Scottish Gaelic;Shona;Simple English;Sundanese;Swedish;Vietnamese;Waray;Welsh;Yoruba">Riyadh</name>
+		<name normalized="Riyadh Mintaqah" languages="English;official">Riyadh Mintaqah</name>
+		<name normalized="Riyadh Province" languages="English;official;Scots">Riyadh Province</name>
+		<name normalized="Riyadian" languages="Volapuk">Riyadiän</name>
+		<name normalized="Riad" languages="Icelandic">Ríad</name>
+		<name normalized="Ər-Riyad" languages="Azerbaijani">Ər-Riyad</name>
+		<name normalized="Ριαντ" languages="Greek">Ριάντ</name>
+		<name normalized="Aр-Рiid" languages="Avaric">Ар-Рияд</name>
+		<name normalized="Goрad Eр-Рыid" languages="Belarusian">Горад Эр-Рыяд</name>
+		<name normalized="Iр-Рiid" languages="Ukrainian">Ер-Ріяд</name>
+		<name normalized="Pрaviнtыi Рыid" languages="Belarusian">Правінцыя Рыяд</name>
+		<name normalized="Рiid" languages="Bulgarian">Рияд</name>
+		<name normalized="Рijad" languages="Macedonian;Serbian">Ријад</name>
+		<name normalized="Рыid" languages="biлaрuсkai (taрaskivita)‎">Рыяд</name>
+		<name normalized="Eр-Рiid" languages="Chechen;Eastern Mari;Kazakh;Kyrgyz;Ossetic;Russian;Tajik">Эр-Рияд</name>
+		<name normalized="Er Rիաd" languages="Armenian">Էր Ռիադ</name>
+		<name normalized="rיאד" languages="Hebrew;Yiddish">ריאד</name>
+		<name normalized="אسtאن rیאd" languages="Persian">استان ریاض</name>
+		<name normalized="אلryאd" languages="Arabic;Egyptian Spoken Arabic">الرياض</name>
+		<name normalized="rىyאد" languages="Uyghur">رىياد</name>
+		<name normalized="ryאd" languages="Pashto">رياض</name>
+		<name normalized="rیאd" languages="Mazanderani;Persian;Urdu;Western Punjabi">ریاض</name>
+		<name normalized="sوbہ אلryאd" languages="Urdu">صوبہ الرياض</name>
+		<name normalized="sوbہ rیאd" languages="Western Punjabi">صوبہ ریاض</name>
+		<name normalized="mنtqة אلryאd" languages="Arabic">منطقة الرياض</name>
+		<name normalized="ڕیאز" languages="Sorani Kurdish">ڕیاز</name>
+		<name normalized="riyाd" languages="Hindi;Nepali">रियाद</name>
+		<name normalized="riyाd p्rाn्t" languages="Hindi">रियाद प्रान्त</name>
+		<name normalized="riyाd" languages="Marathi">रियाध</name>
+		<name normalized="riy়াd" languages="Bengali">রিয়াদ</name>
+		<name normalized="riad" languages="Punjabi">ਰਿਆਧ</name>
+		<name normalized="ରିଆଦ" languages="Oriya">ରିଆଦ</name>
+		<name normalized="ரியாத்" languages="Tamil">ரியாத்</name>
+		<name normalized="ರಿಯಾಧ್" languages="Kannada">ರಿಯಾಧ್</name>
+		<name normalized="റിയാദ്" languages="Malayalam">റിയാദ്</name>
+		<name normalized="റിയാദ് പ്രവിശ്യ" languages="Malayalam">റിയാദ് പ്രവിശ്യ</name>
+		<name normalized="ริยาด" languages="Thai">ริยาด</name>
+		<name normalized="རིས་ཡག" languages="Tibetan">རིས་ཡག</name>
+		<name normalized="ერ-რიადი" languages="Georgian">ერ-რიადი</name>
+		<name normalized="ሪያድ" languages="Amharic">ሪያድ</name>
+		<name normalized="ryd" languages="Japanese">リヤド</name>
+		<name normalized="ryーd州" languages="Japanese">リヤード州</name>
+		<name normalized="利雅得" languages="Cantonese">利雅得</name>
+		<name normalized="利雅得省" languages="Chinese">利雅得省</name>
+		<name normalized="利雅德" languages="Chinese">利雅德</name>
+		<name normalized="리야드" languages="Korean">리야드</name>
+		<name normalized="리야드 주" languages="Korean">리야드 주</name>
+	</region>
+	<region name="Ash Sharqiyah" type="province" typeTranslated="mintaqah">
+		<name normalized="Ach-Charqiya" languages="French">Ach-Charqiya</name>
+		<name normalized="Al-Sharqiyya" languages="Italian">Al-Sharqiyya</name>
+		<name normalized="Al-Sarqiyya" languages="Finnish">Al-Šarqiyya</name>
+		<name normalized="Ash Sharqiyah" languages="Dutch;English;Norwegian (bokmal);official;Portuguese;Swedish">Ash Sharqiyah</name>
+		<name normalized="Ash Sharqiyah Mintaqah" languages="English;official">Ash Sharqiyah Mintaqah</name>
+		<name normalized="Ash Sharqiyah Province" languages="English;official">Ash Sharqiyah Province</name>
+		<name normalized="Ash Syarqiyah" languages="Malay">Ash Syarqiyah</name>
+		<name normalized="Ash-Sharqiyah" languages="Estonian">Ash-Sharqīyah</name>
+		<name normalized="Dogu Bolgesi" languages="Turkish">Doğu Bölgesi</name>
+		<name normalized="Eastern" languages="Dutch;English;German;official;Polish;Portuguese;Swedish">Eastern</name>
+		<name normalized="Eastern Mintaqah" languages="English;official">Eastern Mintaqah</name>
+		<name normalized="Eastern Province" languages="English;official">Eastern Province</name>
+		<name normalized="Eastern Region" languages="English">Eastern Region</name>
+		<name normalized="Eastren Province" languages="Scots">Eastren Province</name>
+		<name normalized="Emirlando Sarkija" languages="Esperanto">Emirlando Ŝarkija</name>
+		<name normalized="Istocna pokrajina" languages="Croatian">Istočna pokrajina</name>
+		<name normalized="Jarkian" languages="Volapuk">Jarkiän</name>
+		<name normalized="Keleti tartomany" languages="Hungarian">Keleti tartomány</name>
+		<name normalized="Oriental" languages="veneto">Oriental</name>
+		<name normalized="Phuong Dong" languages="Vietnamese">Phương Đông</name>
+		<name normalized="Propinsi Asy-Syarqiyah" languages="Sundanese">Propinsi Asy-Syarqiyah</name>
+		<name normalized="Provincia Oriental" languages="Spanish">Provincia Oriental</name>
+		<name normalized="Provinz asch-Scharqiyya" languages="German">Provinz asch-Scharqiyya</name>
+		<name normalized="Prowincja Wschodnia" languages="Polish">Prowincja Wschodnia</name>
+		<name normalized="Sinirangan nga Lalawigan" languages="Waray">Sinirangan nga Lalawigan</name>
+		<name normalized="Syarqiyah" languages="Indonesian">Syarqiyah</name>
+		<name normalized="Voсtocнai pрoviнtii" languages="Russian">Восточная провинция</name>
+		<name normalized="Es-Saрkii" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Эш-Шаркія</name>
+		<name normalized="אسtאن شrqی" languages="Persian">استان شرقی</name>
+		<name normalized="אلmنtqة אلشrqyة" languages="Arabic">المنطقة الشرقية</name>
+		<name normalized="אلmنtqh אلشrqyh" languages="Egyptian Spoken Arabic">المنطقه الشرقيه</name>
+		<name normalized="sوbہ אلشrqyہ" languages="Urdu">صوبہ الشرقيہ</name>
+		<name normalized="pur्vi p्rाn्t" languages="Hindi">पूर्वी प्रान्त</name>
+		<name normalized="കിഴക്കൻ പ്രവിശ്യ" languages="Malayalam">കിഴക്കൻ പ്രവിശ്യ</name>
+		<name normalized="iーstn" languages="Japanese">イースタン</name>
+		<name normalized="东部省" languages="Chinese">东部省</name>
+		<name normalized="東部州" languages="Japanese">東部州</name>
+		<name normalized="동부 주" languages="Korean">동부 주</name>
+	</region>
+	<region name="Ha'il" type="province" typeTranslated="mintaqah">
+		<name normalized="Emirlando Hail" languages="Esperanto">Emirlando Hail</name>
+		<name normalized="Ha'il" languages="Croatian;Danish;English;Finnish;German;Italian;Norwegian (bokmal);official;Pampanga;Portuguese;Swedish;Tagalog;Waray">Ha'il</name>
+		<name normalized="Ha'il Lalawigan" languages="Pampanga">Ha'il Lalawigan</name>
+		<name normalized="Ha'il Mintaqah" languages="English;official">Ha'il Mintaqah</name>
+		<name normalized="Ha'il Province" languages="English;official;Scots">Ha'il Province</name>
+		<name normalized="Ha'il Region" languages="English">Ha'il Region</name>
+		<name normalized="Hail" languages="Catalan;Dutch;English;Malay;official;Spanish;Volapuk">Hail</name>
+		<name normalized="Hail Bolgesi" languages="Turkish">Hail Bölgesi</name>
+		<name normalized="Hail Mintaqah" languages="English;official">Hail Mintaqah</name>
+		<name normalized="Hail Province" languages="English;official">Hail Province</name>
+		<name normalized="Hailian" languages="Volapuk">Hailiän</name>
+		<name normalized="Hailo emyratas" languages="Lithuanian">Hailo emyratas</name>
+		<name normalized="Hail" languages="French">Haïl</name>
+		<name normalized="Ha'il" languages="Polish">Ha’il</name>
+		<name normalized="Hail tartomany" languages="Hungarian">Háil tartomány</name>
+		<name normalized="Propinsi Ha'il" languages="Sundanese">Propinsi Ha'il</name>
+		<name normalized="Provincia de Hail" languages="Spanish">Provincia de Haíl</name>
+		<name normalized="Provinsi Ha'il" languages="Indonesian">Provinsi Ha'il</name>
+		<name normalized="Tinh Ha'il" languages="Vietnamese">Tỉnh Ha'il</name>
+		<name normalized="Pрaviнtыi Kaiль" languages="Belarusian">Правінцыя Хаіль</name>
+		<name normalized="Kaiл" languages="Macedonian;Serbian">Хаил</name>
+		<name normalized="Kaiль" languages="Kazakh;Russian">Хаиль</name>
+		<name normalized="Kaiль" languages="biлaрuсkai (taрaskivita)‎">Хаіль</name>
+		<name normalized="Kayль" languages="Ukrainian">Хаїль</name>
+		<name normalized="אسtאن hאئل" languages="Persian">استان حائل</name>
+		<name normalized="hאئل" languages="Urdu;Western Punjabi">حائل</name>
+		<name normalized="sوbہ hאئل" languages="Urdu;Western Punjabi">صوبہ حائل</name>
+		<name normalized="mدyنة hאئل" languages="Arabic">مدينة حائل</name>
+		<name normalized="mنtqة hאئل" languages="Arabic">منطقة حائل</name>
+		<name normalized="hाil p्rाn्t" languages="Hindi">हाइल प्रान्त</name>
+		<name normalized="hਾil" languages="Punjabi">ਹਾਇਲ</name>
+		<name normalized="hਾil riast" languages="Punjabi">ਹਾਇਲ ਰਿਆਸਤ</name>
+		<name normalized="ഹായിൽ" languages="Malayalam">ഹായിൽ</name>
+		<name normalized="ഹായിൽ പ്രവിശ്യ" languages="Malayalam">ഹായിൽ പ്രവിശ്യ</name>
+		<name normalized="hーir" languages="Japanese">ハーイル</name>
+		<name normalized="hーir州" languages="Japanese">ハーイル州</name>
+		<name normalized="哈伊勒" languages="Chinese">哈伊勒</name>
+		<name normalized="哈伊勒省" languages="Chinese">哈伊勒省</name>
+		<name normalized="하일" languages="Korean">하일</name>
+		<name normalized="하일 주" languages="Korean">하일 주</name>
+	</region>
+	<region name="Jizan" type="province" typeTranslated="mintaqah">
+		<name normalized="Cisan" languages="Volapuk">Cisan</name>
+		<name normalized="Cisanian" languages="Volapuk">Cisaniän</name>
+		<name normalized="Cizan Bolgesi" languages="Turkish">Cizan Bölgesi</name>
+		<name normalized="Dzsizan tartomany" languages="Hungarian">Dzsízán tartomány</name>
+		<name normalized="Dzizan" languages="Polish">Dżizan</name>
+		<name normalized="Emirlando Gajzano" languages="Esperanto">Emirlando Ĝajzano</name>
+		<name normalized="Jazan" languages="Italian">Jazan</name>
+		<name normalized="Jizan" languages="Catalan;Danish;Dutch;English;Finnish;French;Italian;Malay;Norwegian (bokmal);official;Portuguese;Spanish;Sundanese;Swedish;Tagalog;Waray">Jizan</name>
+		<name normalized="Jizan Mintaqah" languages="English;official">Jizan Mintaqah</name>
+		<name normalized="Jizan Province" languages="English;official;Scots">Jizan Province</name>
+		<name normalized="Jizan Region" languages="English">Jizan Region</name>
+		<name normalized="Jizan" languages="Estonian">Jīzān</name>
+		<name normalized="Jizani provints" languages="Estonian">Jīzāni provints</name>
+		<name normalized="Propinsi Jizan" languages="Sundanese">Propinsi Jizan</name>
+		<name normalized="Provincia de Jizan" languages="Spanish">Provincia de Jizán</name>
+		<name normalized="Provinsi Jizan" languages="Indonesian">Provinsi Jizan</name>
+		<name normalized="Provinz Dschaizan" languages="German">Provinz Dschaizan</name>
+		<name normalized="Gajzano" languages="Esperanto">Ĝajzano</name>
+		<name normalized="Dzizaн" languages="Russian">Джизан</name>
+		<name normalized="Dzыzaн" languages="biлaрuсkai (taрaskivita)‎">Джызан</name>
+		<name normalized="Pрaviнtыi Dzыzaн" languages="Belarusian">Правінцыя Джызан</name>
+		<name normalized="אسtאن jאزאن" languages="Persian">استان جازان</name>
+		<name normalized="jאزאن" languages="Arabic">جازان</name>
+		<name normalized="jیزאن" languages="Mazanderani;Persian">جیزان</name>
+		<name normalized="sوbہ jאذאن" languages="Western Punjabi">صوبہ جاذان</name>
+		<name normalized="sوbہ jאزאن" languages="Urdu">صوبہ جازان</name>
+		<name normalized="mنtqة jאزאن" languages="Arabic">منطقة جازان</name>
+		<name normalized="jाj़ाn p्rाn्t" languages="Hindi">जाज़ान प्रान्त</name>
+		<name normalized="ജിസാൻ" languages="Malayalam">ജിസാൻ</name>
+		<name normalized="ജിസാൻ പ്രവിശ്യ" languages="Malayalam">ജിസാൻ പ്രവിശ്യ</name>
+		<name normalized="zーzーn" languages="Japanese">ジーザーン</name>
+		<name normalized="zーzーn州" languages="Japanese">ジーザーン州</name>
+		<name normalized="吉贊" languages="Chinese">吉贊</name>
+		<name normalized="吉赞省" languages="Chinese">吉赞省</name>
+		<name normalized="지잔" languages="Korean">지잔</name>
+		<name normalized="지잔 주" languages="Korean">지잔 주</name>
+	</region>
+	<region name="Makkah" type="province" typeTranslated="mintaqah">
+		<name normalized="'A Mecca" languages="tarandine">'A Mecca</name>
+		<name normalized="A Meca" languages="Aragonese;Galician">A Meca</name>
+		<name normalized="Emirlando Mekko" languages="Esperanto">Emirlando Mekko</name>
+		<name normalized="La Meca" languages="Asturian;Catalan;Extremaduran;Spanish">La Meca</name>
+		<name normalized="La Mecca" languages="Italian">La Mecca</name>
+		<name normalized="La Mecque" languages="French">La Mecque</name>
+		<name normalized="La Meca" languages="Occitan">La Mèca</name>
+		<name normalized="Lalawangan Makkah" languages="Banjar">Lalawangan Makkah</name>
+		<name normalized="Makah" languages="Minangkabau">Makah</name>
+		<name normalized="makax" languages="Lojban">makax</name>
+		<name normalized="Makka" languages="Fiji Hindi;Swahili;Uzbek">Makka</name>
+		<name normalized="Makkah" languages="English;Finnish;Malay;official;Pampanga;Waray">Makkah</name>
+		<name normalized="Makkah Mintaqah" languages="English;official">Makkah Mintaqah</name>
+		<name normalized="Makkah Province" languages="English;official;Scots">Makkah Province</name>
+		<name normalized="Makkah Region" languages="English">Makkah Region</name>
+		<name normalized="Meca" languages="Cebuano;Mirandese;Portuguese">Meca</name>
+		<name normalized="Mecca" languages="English;Interlingua;Latin;official;Romanian;Scots;Scottish Gaelic;Sicilian;Simple English;Vietnamese;Waray;Welsh">Mecca</name>
+		<name normalized="Mecca Mintaqah" languages="English;official">Mecca Mintaqah</name>
+		<name normalized="Mecca Province" languages="English;official">Mecca Province</name>
+		<name normalized="Meice" languages="Irish">Meice</name>
+		<name normalized="Meka" languages="Albanian;Basque;Bikol Central;Croatian;Estonian;Hawaiian;Ido;Iloko;Latvian;Lithuanian;Pampanga;Samogitian;Serbo-Croatian;Slovenian;Tagalog;Voro">Meka</name>
+		<name normalized="Meka provints" languages="Estonian">Meka provints</name>
+		<name normalized="Mekah" languages="Sundanese">Mekah</name>
+		<name normalized="Meke" languages="Kurdish;Zazaki">Meke</name>
+		<name normalized="Mekge" languages="Turkmen">Mekge</name>
+		<name normalized="Mekka" languages="Afrikaans;Bosnian;Breton;Cornish;Czech;Danish;Dutch;Faroese;Finnish;German;Hungarian;Icelandic;Kalaallisut;Luxembourgish;Maltese;Norwegian (bokmal);Norwegian Nynorsk;Polish;Slovak;Somali;Swedish;Upper Sorbian;Western Frisian">Mekka</name>
+		<name normalized="Mekka tartomany" languages="Hungarian">Mekka tartomány</name>
+		<name normalized="Mekkah" languages="Indonesian;Javanese">Mekkah</name>
+		<name normalized="Mekke" languages="Turkish">Mekke</name>
+		<name normalized="Mekke Bolgesi" languages="Turkish">Mekke Bölgesi</name>
+		<name normalized="Mekko" languages="Esperanto">Mekko</name>
+		<name normalized="Mekos emyratas" languages="Lithuanian">Mekos emyratas</name>
+		<name normalized="Meukah" languages="Achinese">Meukah</name>
+		<name normalized="Makkian" languages="Volapuk">Mäkkiän</name>
+		<name normalized="Makka" languages="Volapuk">Mäkkä</name>
+		<name normalized="Meka" languages="Guarani">Méka</name>
+		<name normalized="Məkkə" languages="Azerbaijani">Məkkə</name>
+		<name normalized="Me´kka" languages="Yoruba">Mẹ́kkà</name>
+		<name normalized="Propinsi Makkah" languages="Sundanese">Propinsi Makkah</name>
+		<name normalized="Provincia de La Meca" languages="Spanish">Provincia de La Meca</name>
+		<name normalized="Provincia della Mecca" languages="Italian">Provincia della Mecca</name>
+		<name normalized="Provinsi Makkah" languages="Indonesian">Provinsi Makkah</name>
+		<name normalized="Provinz Mekka" languages="German">Provinz Mekka</name>
+		<name normalized="Μeκκα" languages="Greek">Μέκκα</name>
+		<name normalized="Goрad Мikka" languages="Belarusian">Горад Мекка</name>
+		<name normalized="Мakka" languages="Avaric;Tajik;лakku">Макка</name>
+		<name normalized="Мika" languages="Bulgarian;Macedonian;Serbian">Мека</name>
+		<name normalized="Мiki" languages="Kyrgyz">Меке</name>
+		<name normalized="Мikkae" languages="Ossetic">Меккæ</name>
+		<name normalized="Мikka" languages="Chechen;Mongolian;Russian;Rusyn;Sakha;Ukrainian">Мекка</name>
+		<name normalized="Мikki" languages="Kazakh">Мекке</name>
+		<name normalized="Мeka" languages="biлaрuсkai (taрaskivita)‎">Мэка</name>
+		<name normalized="Мəkkə" languages="Bashkir;Tatar">Мәккә</name>
+		<name normalized="Pрaviнtыi Мikka" languages="Belarusian">Правінцыя Мекка</name>
+		<name normalized="Mեkkա" languages="Armenian">Մեքքա</name>
+		<name normalized="מכh" languages="Hebrew">מכה</name>
+		<name normalized="מעqא" languages="Yiddish">מעקא</name>
+		<name normalized="אسtאن mکh" languages="Persian">استان مکه</name>
+		<name normalized="sوbہ אلmکہ" languages="Urdu">صوبہ المکہ</name>
+		<name normalized="sوbہ mکہ" languages="Western Punjabi">صوبہ مکہ</name>
+		<name normalized="mkة" languages="Arabic">مكة</name>
+		<name normalized="mkh" languages="Egyptian Spoken Arabic">مكه</name>
+		<name normalized="mنtqة mkة אلmkrmة" languages="Arabic">منطقة مكة المكرمة</name>
+		<name normalized="mکh" languages="Mazanderani;Persian">مکه</name>
+		<name normalized="mکh mعzmh" languages="Pashto">مکه معظمه</name>
+		<name normalized="mکہ" languages="Urdu;Western Punjabi">مکہ</name>
+		<name normalized="mەککە" languages="Sorani Kurdish">مەککە</name>
+		<name normalized="މައްކާ" languages="Divehi">މައްކާ</name>
+		<name normalized="mk्kा" languages="Hindi;Marathi;Nepali;Newari">मक्का</name>
+		<name normalized="mk्kा p्rाn्t" languages="Hindi">मक्का प्रान्त</name>
+		<name normalized="mk্kা" languages="Bengali">মক্কা</name>
+		<name normalized="mੱkਾ" languages="Punjabi">ਮੱਕਾ</name>
+		<name normalized="mੱkਾ subਾ" languages="Punjabi">ਮੱਕਾ ਸੂਬਾ</name>
+		<name normalized="mk્kા" languages="Gujarati">મક્કા</name>
+		<name normalized="மக்கா" languages="Tamil">மக்கா</name>
+		<name normalized="మక్కా" languages="Telugu">మక్కా</name>
+		<name normalized="ಮೆಕ್ಕಾ" languages="Kannada">ಮೆಕ್ಕಾ</name>
+		<name normalized="മക്ക" languages="Malayalam">മക്ക</name>
+		<name normalized="മക്ക പ്രവിശ്യ" languages="Malayalam">മക്ക പ്രവിശ്യ</name>
+		<name normalized="මක්කම" languages="Sinhala">මක්කම</name>
+		<name normalized="มักกะฮ์" languages="Thai">มักกะฮ์</name>
+		<name normalized="མ་ཁ།" languages="Tibetan">མ་ཁ།</name>
+		<name normalized="မက္ကာမြို့" languages="Burmese">မက္ကာမြို့</name>
+		<name normalized="მექა" languages="Georgian">მექა</name>
+		<name normalized="መካ" languages="Amharic">መካ</name>
+		<name normalized="mtk州" languages="Japanese">マッカ州</name>
+		<name normalized="mtk" languages="Japanese">メッカ</name>
+		<name normalized="麥加" languages="Cantonese;Chinese;Classical Chinese;Gan">麥加</name>
+		<name normalized="麥加省" languages="Chinese">麥加省</name>
+		<name normalized="메카" languages="Korean">메카</name>
+		<name normalized="메카 주" languages="Korean">메카 주</name>
+	</region>
+	<region name="Najran" type="province" typeTranslated="mintaqah">
+		<name normalized="Emirlando Najrano" languages="Esperanto">Emirlando Naĵrano</name>
+		<name normalized="Nadschran" languages="German">Nadschran</name>
+		<name normalized="Nadzsran tartomany" languages="Hungarian">Nadzsrán tartomány</name>
+		<name normalized="Nadzran" languages="Polish">Nadżran</name>
+		<name normalized="Nadzranas" languages="Lithuanian">Nadžranas</name>
+		<name normalized="Najran" languages="Catalan;Dutch;English;Finnish;French;Italian;Malay;Norwegian (bokmal);official;Pampanga;Portuguese;Spanish;Swedish;Waray">Najran</name>
+		<name normalized="Najran Lalawigan" languages="Pampanga">Najran Lalawigan</name>
+		<name normalized="Najran Mintaqah" languages="English;official">Najran Mintaqah</name>
+		<name normalized="Najran Province" languages="English;official;Scots">Najran Province</name>
+		<name normalized="Najran Region" languages="English">Najran Region</name>
+		<name normalized="Necran Bolgesi" languages="Turkish">Necran Bölgesi</name>
+		<name normalized="Nacran" languages="Volapuk">Näcran</name>
+		<name normalized="Nacranian" languages="Volapuk">Näcraniän</name>
+		<name normalized="Propinsi Najran" languages="Sundanese">Propinsi Najran</name>
+		<name normalized="Provincia de Najran" languages="Spanish">Provincia de Najrán</name>
+		<name normalized="Provinsi Najran" languages="Indonesian">Provinsi Najran</name>
+		<name normalized="Provinz Nadschran" languages="German">Provinz Nadschran</name>
+		<name normalized="Нadzрaн" languages="Russian;biлaрuсkai (taрaskivita)‎">Наджран</name>
+		<name normalized="Нadzрaн" languages="Serbian">Наџран</name>
+		<name normalized="Pрaviнtыi Нadzрaн" languages="Belarusian">Правінцыя Наджран</name>
+		<name normalized="אسtאن نjrאن" languages="Persian">استان نجران</name>
+		<name normalized="sوbہ نjrאن" languages="Urdu;Western Punjabi">صوبہ نجران</name>
+		<name normalized="mنtqة نjrאن" languages="Arabic">منطقة نجران</name>
+		<name normalized="نjrאن" languages="Arabic;Mazanderani;Persian;Urdu">نجران</name>
+		<name normalized="njrाn p्rाn्t" languages="Hindi">नजरान प्रान्त</name>
+		<name normalized="നജ്റാൻ" languages="Malayalam">നജ്റാൻ</name>
+		<name normalized="നജ്റാൻ പ്രവിശ്യ" languages="Malayalam">നജ്റാൻ പ്രവിശ്യ</name>
+		<name normalized="nzyrーn" languages="Japanese">ナジュラーン</name>
+		<name normalized="nzyrーn州" languages="Japanese">ナジュラーン州</name>
+		<name normalized="奈季兰省" languages="Chinese">奈季兰省</name>
+		<name normalized="奈季蘭" languages="Chinese">奈季蘭</name>
+		<name normalized="나지란 주" languages="Korean">나지란 주</name>
+	</region>
+	<region name="Tabuk" type="province" typeTranslated="mintaqah">
+		<name normalized="Emirlando Tabuko" languages="Esperanto">Emirlando Tabuko</name>
+		<name normalized="Probinsia ti Tabuk" languages="Iloko">Probinsia ti Tabuk</name>
+		<name normalized="Propinsi Tabuk" languages="Sundanese">Propinsi Tabuk</name>
+		<name normalized="Provincia de Tabuk" languages="Spanish">Provincia de Tabuk</name>
+		<name normalized="Provinsi Tabuk" languages="Indonesian">Provinsi Tabuk</name>
+		<name normalized="Provinz Tabuk" languages="German">Provinz Tabuk</name>
+		<name normalized="Provincia de Tabuk" languages="Catalan">Província de Tabuk</name>
+		<name normalized="Tabuk" languages="Basque;Croatian;Danish;Dutch;English;Finnish;French;German;Italian;Kalaallisut;Malay;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Spanish;Swedish;Tagalog;Waray">Tabuk</name>
+		<name normalized="Tabuk Mintaqah" languages="English;official">Tabuk Mintaqah</name>
+		<name normalized="Tabuk Province" languages="English;official;Scots">Tabuk Province</name>
+		<name normalized="Tabuk Region" languages="English">Tabuk Region</name>
+		<name normalized="Tabukas" languages="Lithuanian">Tabukas</name>
+		<name normalized="Tabuko emyratas" languages="Lithuanian">Tabuko emyratas</name>
+		<name normalized="Tabuk tartomany" languages="Hungarian">Tabúk tartomány</name>
+		<name normalized="Tabuk" languages="Estonian">Tabūk</name>
+		<name normalized="Tabuki provints" languages="Estonian">Tabūki provints</name>
+		<name normalized="Tebuk" languages="Turkish">Tebük</name>
+		<name normalized="Tebuk Bolgesi" languages="Turkish">Tebük Bölgesi</name>
+		<name normalized="Tabuk" languages="Volapuk">Täbuk</name>
+		<name normalized="Tabukian" languages="Volapuk">Täbukiän</name>
+		<name normalized="Pрaviнtыi Tabuk" languages="Belarusian">Правінцыя Табук</name>
+		<name normalized="Tabuk" languages="Kazakh;Russian;Serbian;Ukrainian;biлaрuсkai (taрaskivita)‎">Табук</name>
+		<name normalized="tbvכ" languages="Hebrew">תבוכ</name>
+		<name normalized="אسtאن tbوک" languages="Persian">استان تبوک</name>
+		<name normalized="tbوk" languages="Arabic">تبوك</name>
+		<name normalized="tbوک" languages="Mazanderani;Persian;Western Punjabi">تبوک</name>
+		<name normalized="tbوک, سعودی عrb" languages="Urdu">تبوک، سعودی عرب</name>
+		<name normalized="sوbہ tbوک" languages="Urdu;Western Punjabi">صوبہ تبوک</name>
+		<name normalized="mنtqة tbوk" languages="Arabic">منطقة تبوك</name>
+		<name normalized="tbuk p्rाn्t" languages="Hindi">तबूक प्रान्त</name>
+		<name normalized="tbuk subਾ" languages="Punjabi">ਤਬੂਕ ਸੂਬਾ</name>
+		<name normalized="തബൂക്ക്" languages="Malayalam">തബൂക്ക്</name>
+		<name normalized="തബൂക്ക് പ്രവിശ്യ" languages="Malayalam">തബൂക്ക് പ്രവിശ്യ</name>
+		<name normalized="tbーk" languages="Japanese">タブーク</name>
+		<name normalized="tbーk州" languages="Japanese">タブーク州</name>
+		<name normalized="塔布克" languages="Chinese">塔布克</name>
+		<name normalized="塔布克省" languages="Chinese">塔布克省</name>
+		<name normalized="타부크" languages="Korean">타부크</name>
+		<name normalized="타부크 주" languages="Korean">타부크 주</name>
+	</region>
+</regions>

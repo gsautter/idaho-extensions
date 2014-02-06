@@ -1,0 +1,318 @@
+<regions country="Senegal">
+	<region name="Dakar" type="region" typeTranslated="region">
+		<name normalized="Dacar" languages="Galician">Dacar</name>
+		<name normalized="Dacar" languages="Irish">Dacár</name>
+		<name normalized="Dakaa" languages="Norfuk / Pitkern">Dakaa</name>
+		<name normalized="Dakar" languages="Afrikaans;Aragonese;Azerbaijani;Bambara;Basque;Bosnian;Breton;Catalan;Chinese (Min Nan);Croatian;Czech;Danish;Dutch;English;Estonian;Fiji Hindi;Finnish;Franco-Provencal;French;German;Hungarian;Icelandic;Ido;Indonesian;Interlingue;Italian;Javanese;Kurdish;Latin;Ligure;lumbaart;Luxembourgish;Malagasy;Malay;Norwegian (bokmal);Norwegian Nynorsk;Novial;Occitan;official;Papiamento;Piedmontese;Polish;Portuguese;Quechua;Romanian;Sardinian;Scots;Scottish Gaelic;Seeltersk;Serbo-Croatian;Shona;Sicilian;Simple English;Slovak;Slovenian;Somali;Spanish;Swahili;Swedish;Tagalog;Tok Pisin;Turkish;Vietnamese;veneto;Waray;Welsh;Western Frisian;Yoruba">Dakar</name>
+		<name normalized="Dakar eskualdea" languages="Basque">Dakar eskualdea</name>
+		<name normalized="Dakar Region" languages="English;official;Scots">Dakar Region</name>
+		<name normalized="Dakara" languages="Latvian">Dakara</name>
+		<name normalized="Dakaras" languages="Lithuanian">Dakaras</name>
+		<name normalized="Dakaro" languages="Esperanto">Dakaro</name>
+		<name normalized="Dakaro regionas" languages="Lithuanian">Dakaro regionas</name>
+		<name normalized="Diiwaanu Ndakaaru" languages="Wolof">Diiwaanu Ndakaaru</name>
+		<name normalized="Ndakaaru" languages="Wolof">Ndakaaru</name>
+		<name normalized="Region Dakar" languages="German;Indonesian">Region Dakar</name>
+		<name normalized="Regione di Dakar" languages="Italian">Regione di Dakar</name>
+		<name normalized="Regiunea Dakar" languages="Romanian">Regiunea Dakar</name>
+		<name normalized="Region de Dakar" languages="Spanish">Región de Dakar</name>
+		<name normalized="Rexion de Dakar" languages="Galician">Rexión de Dakar</name>
+		<name normalized="Ντακαρ" languages="Greek">Ντακάρ</name>
+		<name normalized="Goрad Dakaр" languages="Belarusian">Горад Дакар</name>
+		<name normalized="Dakaр" languages="Bulgarian;Chechen;Chuvash;Hill Mari;Kazakh;Kyrgyz;Macedonian;Ossetic;Russian;Serbian;Tajik;Udmurt;Ukrainian;biлaрuсkai (taрaskivita)‎">Дакар</name>
+		<name normalized="Dաkաr" languages="Armenian">Դակար</name>
+		<name normalized="דאqאr" languages="Yiddish">דאקאר</name>
+		<name normalized="דqr" languages="Hebrew">דקר</name>
+		<name normalized="دאkאr" languages="Arabic;Egyptian Spoken Arabic">داكار</name>
+		<name normalized="دאکאr" languages="Persian;Sorani Kurdish">داکار</name>
+		<name normalized="ڈא کאr" languages="Western Punjabi">ڈا کار</name>
+		<name normalized="ڈאکאr" languages="Urdu">ڈاکار</name>
+		<name normalized="डkाr" languages="Hindi;Marathi">डकार</name>
+		<name normalized="ডাkাr" languages="Bengali">ডাকার</name>
+		<name normalized="டக்கார்" languages="Tamil">டக்கார்</name>
+		<name normalized="ഡാക്കർ" languages="Malayalam">ഡാക്കർ</name>
+		<name normalized="ดาการ์" languages="Thai">ดาการ์</name>
+		<name normalized="ཌ་ཀར།" languages="Tibetan">ཌ་ཀར།</name>
+		<name normalized="დაკარი" languages="Georgian">დაკარი</name>
+		<name normalized="ዳካር" languages="Amharic">ዳካር</name>
+		<name normalized="dkーr" languages="Japanese">ダカール</name>
+		<name normalized="dkーr州" languages="Japanese">ダカール州</name>
+		<name normalized="达喀尔区" languages="Chinese">达喀尔区</name>
+		<name normalized="達喀爾" languages="Cantonese;Chinese">達喀爾</name>
+		<name normalized="다카르" languages="Korean">다카르</name>
+		<name normalized="다카르 주" languages="Korean">다카르 주</name>
+	</region>
+	<region name="Diourbel" type="region" typeTranslated="region">
+		<name normalized="Diiwaanu Njaareem" languages="Wolof">Diiwaanu Njaaréem</name>
+		<name normalized="Diourbel" languages="Danish;Dutch;English;Esperanto;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Spanish;Swedish">Diourbel</name>
+		<name normalized="Diourbel eskualdea" languages="Basque">Diourbel eskualdea</name>
+		<name normalized="Diourbel Region" languages="English;official;Scots">Diourbel Region</name>
+		<name normalized="Diurbelio regionas" languages="Lithuanian">Diurbelio regionas</name>
+		<name normalized="Diurbelis" languages="Lithuanian">Diurbelis</name>
+		<name normalized="Jurbel" languages="Wolof">Jurbel</name>
+		<name normalized="Region Diourbel" languages="German;Indonesian">Region Diourbel</name>
+		<name normalized="Regione di Diourbel" languages="Italian">Regione di Diourbel</name>
+		<name normalized="Regiunea Diourbel" languages="Romanian">Regiunea Diourbel</name>
+		<name normalized="Region de Diourbel" languages="Spanish">Región de Diourbel</name>
+		<name normalized="Rexion de Diourbel" languages="Galician">Rexión de Diourbel</name>
+		<name normalized="Diuрbiл" languages="Bulgarian">Диурбел</name>
+		<name normalized="Diuрbiль" languages="Russian">Диурбель</name>
+		<name normalized="דיvrbד" languages="Hebrew">דיורבל</name>
+		<name normalized="zyrbr州" languages="Japanese">ジュルベル州</name>
+		<name normalized="久尔贝勒区" languages="Chinese">久尔贝勒区</name>
+		<name normalized="久爾貝勒" languages="Chinese">久爾貝勒</name>
+		<name normalized="디우르벨" languages="Korean">디우르벨</name>
+		<name normalized="디우르벨 주" languages="Korean">디우르벨 주</name>
+	</region>
+	<region name="Fatick" type="region" typeTranslated="region">
+		<name normalized="Diiwaanu Fatik" languages="Wolof">Diiwaanu Fatik</name>
+		<name normalized="Fatick" languages="Dutch;English;French;German;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Swedish">Fatick</name>
+		<name normalized="Fatick eskualdea" languages="Basque">Fatick eskualdea</name>
+		<name normalized="Fatick Region" languages="English;official;Scots">Fatick Region</name>
+		<name normalized="Fatik" languages="Wolof">Fatik</name>
+		<name normalized="Fatikas" languages="Lithuanian">Fatikas</name>
+		<name normalized="Fatiko regionas" languages="Lithuanian">Fatiko regionas</name>
+		<name normalized="Region Fatick" languages="German;Indonesian">Region Fatick</name>
+		<name normalized="Regione di Fatick" languages="Italian">Regione di Fatick</name>
+		<name normalized="Regiunea Fatick" languages="Romanian">Regiunea Fatick</name>
+		<name normalized="Region de Fatick" languages="Spanish">Región de Fatick</name>
+		<name normalized="Rexion de Fatick" languages="Galician">Rexión de Fatick</name>
+		<name normalized="Фatik" languages="Bulgarian;Russian">Фатик</name>
+		<name normalized="hatitk" languages="Japanese">ファティック</name>
+		<name normalized="hatitk州" languages="Japanese">ファティック州</name>
+		<name normalized="法蒂克" languages="Chinese">法蒂克</name>
+		<name normalized="法蒂克区" languages="Chinese">法蒂克区</name>
+		<name normalized="파티크" languages="Korean">파티크</name>
+		<name normalized="파티크 주" languages="Korean">파티크 주</name>
+	</region>
+	<region name="Kaffrine" type="region" typeTranslated="region">
+		<name normalized="Diiwaanu Kafrin" languages="Wolof">Diiwaanu Kafrin</name>
+		<name normalized="Kaffrine" languages="Dutch;English;French;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Swedish">Kaffrine</name>
+		<name normalized="Kaffrine eskualdea" languages="Basque">Kaffrine eskualdea</name>
+		<name normalized="Kaffrine Region" languages="English;official;Scots">Kaffrine Region</name>
+		<name normalized="Region Kaffrine" languages="German">Region Kaffrine</name>
+		<name normalized="Regione di Kaffrine" languages="Italian">Regione di Kaffrine</name>
+		<name normalized="Regiunea Kaffrine" languages="Romanian">Regiunea Kaffrine</name>
+		<name normalized="Region de Kaffrine" languages="Spanish">Región de Kaffrine</name>
+		<name normalized="Rexion de Kaffrine" languages="Galician">Rexión de Kaffrine</name>
+		<name normalized="Kaфрiн" languages="Russian">Кафрин</name>
+		<name normalized="khrn州" languages="Japanese">カフリン州</name>
+		<name normalized="卡夫林區" languages="Chinese">卡夫林區</name>
+		<name normalized="카프린 주" languages="Korean">카프린 주</name>
+	</region>
+	<region name="Kaolack" type="region" typeTranslated="region">
+		<name normalized="Diiwaanu Kawlax" languages="Wolof">Diiwaanu Kawlax</name>
+		<name normalized="Kaolack" languages="Danish;Dutch;English;Esperanto;Finnish;French;Galician;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Shona;Spanish;Swedish;Turkish;Waray">Kaolack</name>
+		<name normalized="Kaolack eskualdea" languages="Basque">Kaolack eskualdea</name>
+		<name normalized="Kaolack Region" languages="English;official;Scots">Kaolack Region</name>
+		<name normalized="Kaolackin alue" languages="Finnish">Kaolackin alue</name>
+		<name normalized="Kaolakas" languages="Lithuanian">Kaolakas</name>
+		<name normalized="Kaolako regionas" languages="Lithuanian">Kaolako regionas</name>
+		<name normalized="Kawlak" languages="Wolof">Kawlak</name>
+		<name normalized="Region Kaolack" languages="German;Indonesian">Region Kaolack</name>
+		<name normalized="Regione di Kaolack" languages="Italian">Regione di Kaolack</name>
+		<name normalized="Regiunea Kaolack" languages="Romanian">Regiunea Kaolack</name>
+		<name normalized="Region de Kaolack" languages="Spanish">Región de Kaolack</name>
+		<name normalized="Rexion de Kaolack" languages="Galician">Rexión de Kaolack</name>
+		<name normalized="Kaoлak" languages="Bulgarian;Russian">Каолак</name>
+		<name normalized="kortk" languages="Japanese">カオラック</name>
+		<name normalized="kortk州" languages="Japanese">カオラック州</name>
+		<name normalized="考拉克" languages="Chinese">考拉克</name>
+		<name normalized="考拉克区" languages="Chinese">考拉克区</name>
+		<name normalized="카올라크" languages="Korean">카올라크</name>
+		<name normalized="카올라크 주" languages="Korean">카올라크 주</name>
+	</region>
+	<region name="Kedougou" type="region" typeTranslated="region">
+		<name normalized="Diiwaanu Keedugu" languages="Wolof">Diiwaanu Kéedugu</name>
+		<name normalized="Kedougou" languages="English;official;Spanish">Kedougou</name>
+		<name normalized="Kedougou Region" languages="English;official">Kedougou Region</name>
+		<name normalized="Kedugu" languages="Lithuanian">Kedugu</name>
+		<name normalized="Kedougou" languages="Danish;Dutch;English;Finnish;French;Italian;Norwegian (bokmal);Polish;Portuguese;Romanian;Swedish">Kédougou</name>
+		<name normalized="Kedougou eskualdea" languages="Basque">Kédougou eskualdea</name>
+		<name normalized="Kedougou Region" languages="English;Scots">Kédougou Region</name>
+		<name normalized="Kedougoun alue" languages="Finnish">Kédougoun alue</name>
+		<name normalized="Region Kedougou" languages="German">Region Kédougou</name>
+		<name normalized="Regione di Kedougou" languages="Italian">Regione di Kédougou</name>
+		<name normalized="Regiunea Kedougou" languages="Romanian">Regiunea Kédougou</name>
+		<name normalized="Region de Kedougou" languages="Spanish">Región de Kédougou</name>
+		<name normalized="Rexion de Kedougou" languages="Galician">Rexión de Kédougou</name>
+		<name normalized="Kidugu" languages="Russian">Кедугу</name>
+		<name normalized="kdug" languages="Japanese">ケドゥグ</name>
+		<name normalized="kdug州" languages="Japanese">ケドゥグ州</name>
+		<name normalized="凱杜古" languages="Chinese">凱杜古</name>
+		<name normalized="凱杜古區" languages="Chinese">凱杜古區</name>
+		<name normalized="케두구 주" languages="Korean">케두구 주</name>
+	</region>
+	<region name="Kolda" type="region" typeTranslated="region">
+		<name normalized="Diiwaanu Koldaa" languages="Wolof">Diiwaanu Koldaa</name>
+		<name normalized="Kolda" languages="Czech;Danish;Dutch;English;French;German;Italian;Lithuanian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Slovak;Spanish;Swedish">Kolda</name>
+		<name normalized="Kolda eskualdea" languages="Basque">Kolda eskualdea</name>
+		<name normalized="Kolda Region" languages="English;official;Scots">Kolda Region</name>
+		<name normalized="Koldos regionas" languages="Lithuanian">Koldos regionas</name>
+		<name normalized="Region Kolda" languages="German;Indonesian">Region Kolda</name>
+		<name normalized="Regione di Kolda" languages="Italian">Regione di Kolda</name>
+		<name normalized="Regiunea Kolda" languages="Romanian">Regiunea Kolda</name>
+		<name normalized="Region de Kolda" languages="Spanish">Región de Kolda</name>
+		<name normalized="Rexion de Kolda" languages="Galician">Rexión de Kolda</name>
+		<name normalized="Koлda" languages="Bulgarian;Russian">Колда</name>
+		<name normalized="krd州" languages="Japanese">コルダ州</name>
+		<name normalized="科尔达" languages="Chinese">科尔达</name>
+		<name normalized="科爾達區" languages="Chinese">科爾達區</name>
+		<name normalized="콜다" languages="Korean">콜다</name>
+		<name normalized="콜다 주" languages="Korean">콜다 주</name>
+	</region>
+	<region name="Louga" type="region" typeTranslated="region">
+		<name normalized="Diiwaanu Luga" languages="Wolof">Diiwaanu Luga</name>
+		<name normalized="Louga" languages="Catalan;Czech;Dutch;English;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Slovak;Swedish">Louga</name>
+		<name normalized="Louga eskualdea" languages="Basque">Louga eskualdea</name>
+		<name normalized="Louga Region" languages="English;official;Scots">Louga Region</name>
+		<name normalized="Luga" languages="Lithuanian;Wolof">Luga</name>
+		<name normalized="Lugos regionas" languages="Lithuanian">Lugos regionas</name>
+		<name normalized="Region Louga" languages="German;Indonesian">Region Louga</name>
+		<name normalized="Regione di Louga" languages="Italian">Regione di Louga</name>
+		<name normalized="Regiunea Louga" languages="Romanian">Regiunea Louga</name>
+		<name normalized="Region de Louga" languages="Spanish">Región de Louga</name>
+		<name normalized="Rexion de Louga" languages="Galician">Rexión de Louga</name>
+		<name normalized="Goрad Лuga" languages="Belarusian">Горад Луга</name>
+		<name normalized="Лuga" languages="Bulgarian;Russian">Луга</name>
+		<name normalized="rーg" languages="Japanese">ルーガ</name>
+		<name normalized="rーg州" languages="Japanese">ルーガ州</name>
+		<name normalized="盧加" languages="Chinese">盧加</name>
+		<name normalized="盧加區" languages="Chinese">盧加區</name>
+		<name normalized="루가" languages="Korean">루가</name>
+		<name normalized="루가 주" languages="Korean">루가 주</name>
+	</region>
+	<region name="Matam" type="region" typeTranslated="region">
+		<name normalized="Diiwaanu Maatam" languages="Wolof">Diiwaanu Maatam</name>
+		<name normalized="Maatam" languages="Wolof">Maatam</name>
+		<name normalized="Matam" languages="Danish;Dutch;English;Esperanto;French;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Swedish">Matam</name>
+		<name normalized="Matam eskualdea" languages="Basque">Matam eskualdea</name>
+		<name normalized="Matam Region" languages="English;official;Scots">Matam Region</name>
+		<name normalized="Matamas" languages="Lithuanian">Matamas</name>
+		<name normalized="Matamo regionas" languages="Lithuanian">Matamo regionas</name>
+		<name normalized="Region Matam" languages="German;Indonesian">Region Matam</name>
+		<name normalized="Regione di Matam" languages="Italian">Regione di Matam</name>
+		<name normalized="Regiunea Matam" languages="Romanian">Regiunea Matam</name>
+		<name normalized="Region de Matam" languages="Spanish">Región de Matam</name>
+		<name normalized="Rexion de Matam" languages="Galician">Rexión de Matam</name>
+		<name normalized="Мataм" languages="Bulgarian;Russian">Матам</name>
+		<name normalized="mtm州" languages="Japanese">マタム州</name>
+		<name normalized="馬塔姆" languages="Chinese">馬塔姆</name>
+		<name normalized="馬塔姆區" languages="Chinese">馬塔姆區</name>
+		<name normalized="마탐" languages="Korean">마탐</name>
+		<name normalized="마탐 주" languages="Korean">마탐 주</name>
+	</region>
+	<region name="Saint-Louis" type="region" typeTranslated="region">
+		<name normalized="Diiwaanu Ndar" languages="Wolof">Diiwaanu Ndar</name>
+		<name normalized="Ndar" languages="Wolof">Ndar</name>
+		<name normalized="Region Saint-Louis" languages="German;Indonesian">Region Saint-Louis</name>
+		<name normalized="Regione di Saint-Louis" languages="Italian">Regione di Saint-Louis</name>
+		<name normalized="Regiunea Saint-Louis" languages="Romanian">Regiunea Saint-Louis</name>
+		<name normalized="Region de Saint-Louis" languages="Spanish">Región de Saint-Louis</name>
+		<name normalized="Rexion de Saint-Louis" languages="Galician">Rexión de Saint-Louis</name>
+		<name normalized="Saint Louis" languages="Spanish">Saint Louis</name>
+		<name normalized="Saint-Louis" languages="Catalan;Croatian;Danish;Dutch;English;Esperanto;Finnish;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Serbo-Croatian;Shona;Swedish;Waray;Welsh">Saint-Louis</name>
+		<name normalized="Saint-Louis eskualdea" languages="Basque">Saint-Louis eskualdea</name>
+		<name normalized="Saint-Louis Region" languages="English;official;Scots">Saint-Louis Region</name>
+		<name normalized="Sen Luji" languages="Lithuanian">Sen Luji</name>
+		<name normalized="Sen Luji regionas" languages="Lithuanian">Sen Luji regionas</name>
+		<name normalized="Goрad Сiн-Лui" languages="Belarusian">Горад Сен-Луі</name>
+		<name normalized="Сiн-Лui" languages="Bulgarian;Russian">Сен-Луи</name>
+		<name normalized="Сiн-Лuy" languages="Ukrainian">Сен-Луї</name>
+		<name normalized="סן-דvאי" languages="Hebrew">סן-לואי</name>
+		<name normalized="سאنt لوyس" languages="Arabic">سانت لويس</name>
+		<name normalized="sen्ट luis d्vip" languages="Hindi">सेन्ट लुईस द्वीप</name>
+		<name normalized="სენ-ლუი" languages="Georgian">სენ-ლუი</name>
+		<name normalized="snri州" languages="Japanese">サンルイ州</name>
+		<name normalized="sn=ri" languages="Japanese">サン＝ルイ</name>
+		<name normalized="圣路易" languages="Chinese">圣路易</name>
+		<name normalized="聖路易區" languages="Chinese">聖路易區</name>
+		<name normalized="생루이" languages="Korean">생루이</name>
+		<name normalized="생루이 주" languages="Korean">생루이 주</name>
+	</region>
+	<region name="Sedhiou" type="region" typeTranslated="region">
+		<name normalized="Diiwaanu Seeju" languages="Wolof">Diiwaanu Séeju</name>
+		<name normalized="Region Sedhiou" languages="German">Region Sédhiou</name>
+		<name normalized="Regione di Sedhiou" languages="Italian">Regione di Sédhiou</name>
+		<name normalized="Regiunea Sedhiou" languages="Romanian">Regiunea Sédhiou</name>
+		<name normalized="Regiao de Sedhiou" languages="Portuguese">Região de Sédhiou</name>
+		<name normalized="Region de Sedhiou" languages="Spanish">Región de Sédhiou</name>
+		<name normalized="Rexion de Sedhiou" languages="Galician">Rexión de Sédhiou</name>
+		<name normalized="Sedhiou" languages="English;official">Sedhiou</name>
+		<name normalized="Sedhiou Region" languages="English;official">Sedhiou Region</name>
+		<name normalized="Sedhiou" languages="Dutch;English;French;Italian;Norwegian (bokmal);Polish;Romanian;Swedish">Sédhiou</name>
+		<name normalized="Sedhiou eskualdea" languages="Basque">Sédhiou eskualdea</name>
+		<name normalized="Sedhiou Region" languages="English;Scots">Sédhiou Region</name>
+		<name normalized="Сidiu" languages="Russian">Седиу</name>
+		<name normalized="sdiu州" languages="Japanese">セディウ州</name>
+		<name normalized="塞久" languages="Chinese">塞久</name>
+		<name normalized="塞久區" languages="Chinese">塞久區</name>
+		<name normalized="세디우 주" languages="Korean">세디우 주</name>
+	</region>
+	<region name="Tambacounda" type="region" typeTranslated="region">
+		<name normalized="Diiwaanu Tambaakundaa" languages="Wolof">Diiwaanu Tambaakundaa</name>
+		<name normalized="Region Tambacounda" languages="German;Indonesian">Region Tambacounda</name>
+		<name normalized="Regione di Tambacounda" languages="Italian">Regione di Tambacounda</name>
+		<name normalized="Regiunea Tambacounda" languages="Romanian">Regiunea Tambacounda</name>
+		<name normalized="Region de Tambacounda" languages="Spanish">Región de Tambacounda</name>
+		<name normalized="Rexion de Tambacounda" languages="Galician">Rexión de Tambacounda</name>
+		<name normalized="Tambacounda" languages="Catalan;Czech;Danish;Dutch;English;French;German;Italian;official;Polish;Portuguese;Romanian;Swedish">Tambacounda</name>
+		<name normalized="Tambacounda eskualdea" languages="Basque">Tambacounda eskualdea</name>
+		<name normalized="Tambacounda Region" languages="English;official;Scots">Tambacounda Region</name>
+		<name normalized="Tambakunda" languages="Lithuanian">Tambakunda</name>
+		<name normalized="Tambakundos regionas" languages="Lithuanian">Tambakundos regionas</name>
+		<name normalized="Taмbakuнda" languages="Bulgarian;Russian">Тамбакунда</name>
+		<name normalized="tnbknd" languages="Japanese">タンバクンダ</name>
+		<name normalized="tnbknd州" languages="Japanese">タンバクンダ州</name>
+		<name normalized="坦巴昆達" languages="Chinese">坦巴昆達</name>
+		<name normalized="坦巴昆達區" languages="Chinese">坦巴昆達區</name>
+		<name normalized="탐바쿤다" languages="Korean">탐바쿤다</name>
+		<name normalized="탐바쿤다 주" languages="Korean">탐바쿤다 주</name>
+	</region>
+	<region name="Thies" type="region" typeTranslated="region">
+		<name normalized="Cees" languages="Wolof">Cees</name>
+		<name normalized="Diiwaanu Cees" languages="Wolof">Diiwaanu Cees</name>
+		<name normalized="Region Thies" languages="German;Indonesian">Region Thiès</name>
+		<name normalized="Regione di Thies" languages="Italian">Regione di Thiès</name>
+		<name normalized="Regiunea Thies" languages="Romanian">Regiunea Thiès</name>
+		<name normalized="Region de Thies" languages="Spanish">Región de Thiès</name>
+		<name normalized="Rexion de Thies" languages="Galician">Rexión de Thiès</name>
+		<name normalized="Thies" languages="English;official">Thies</name>
+		<name normalized="Thies Region" languages="English;official">Thies Region</name>
+		<name normalized="Thies" languages="Afrikaans;Danish;Dutch;English;Estonian;Finnish;French;Galician;German;Italian;Norwegian (bokmal);Polish;Portuguese;Romanian;Scots;Shona;Spanish;Swedish;Turkish;Waray">Thiès</name>
+		<name normalized="Thies eskualdea" languages="Basque">Thiès eskualdea</name>
+		<name normalized="Thies Region" languages="English;Scots">Thiès Region</name>
+		<name normalized="Tiesas" languages="Lithuanian">Tiesas</name>
+		<name normalized="Tieso" languages="Esperanto">Tieso</name>
+		<name normalized="Tieso regionas" languages="Lithuanian">Tieso regionas</name>
+		<name normalized="Tiiс" languages="Bulgarian;Russian">Тиес</name>
+		<name normalized="ties" languages="Japanese">ティエス</name>
+		<name normalized="ties州" languages="Japanese">ティエス州</name>
+		<name normalized="捷斯" languages="Chinese">捷斯</name>
+		<name normalized="捷斯區" languages="Chinese">捷斯區</name>
+		<name normalized="티에스" languages="Korean">티에스</name>
+		<name normalized="티에스 주" languages="Korean">티에스 주</name>
+	</region>
+	<region name="Ziguinchor" type="region" typeTranslated="region">
+		<name normalized="Diiwaanu Siggcoor" languages="Wolof">Diiwaanu Siggcoor</name>
+		<name normalized="Region Ziguinchor" languages="German;Indonesian">Region Ziguinchor</name>
+		<name normalized="Regione di Ziguinchor" languages="Italian">Regione di Ziguinchor</name>
+		<name normalized="Regio de Ziguinchor" languages="Catalan">Regió de Ziguinchor</name>
+		<name normalized="Region de Ziguinchor" languages="Spanish">Región de Ziguinchor</name>
+		<name normalized="Rexion de Ziguinchor" languages="Galician">Rexión de Ziguinchor</name>
+		<name normalized="Zigincor" languages="Esperanto">Ziginĉor</name>
+		<name normalized="Ziginsoras" languages="Lithuanian">Ziginšoras</name>
+		<name normalized="Ziginsoro regionas" languages="Lithuanian">Ziginšoro regionas</name>
+		<name normalized="Ziguinchor" languages="Basque;Czech;Danish;Dutch;English;Finnish;French;Galician;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Shona;Spanish;Swedish;Vietnamese;Waray">Ziguinchor</name>
+		<name normalized="Ziguinchor eskualdea" languages="Basque">Ziguinchor eskualdea</name>
+		<name normalized="Ziguinchor Region" languages="English;official;Scots">Ziguinchor Region</name>
+		<name normalized="Zigiнsoр" languages="Bulgarian;Russian">Зигиншор</name>
+		<name normalized="زyنغشوr" languages="Arabic">زينغشور</name>
+		<name normalized="zgnsョーr" languages="Japanese">ジガンショール</name>
+		<name normalized="zgnsョーr州" languages="Japanese">ジガンショール州</name>
+		<name normalized="济金绍尔" languages="Chinese">济金绍尔</name>
+		<name normalized="济金绍尔区" languages="Chinese">济金绍尔区</name>
+		<name normalized="지긴쇼르" languages="Korean">지긴쇼르</name>
+		<name normalized="지긴쇼르 주" languages="Korean">지긴쇼르 주</name>
+	</region>
+</regions>

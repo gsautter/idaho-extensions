@@ -1,0 +1,834 @@
+<regions country="Colombia">
+	<region name="Amazonas" type="department" typeTranslated="departamento">
+		<name normalized="Amarumayu suyu" languages="Quechua">Amarumayu suyu</name>
+		<name normalized="Amazonas" languages="Basque;Breton;Croatian;Czech;Dutch;English;Finnish;French;Irish;Nahuatl;Norwegian (bokmal);official;Polish;Portuguese;Scots;Scottish Gaelic;Slovak;Spanish;Swedish;Vietnamese;Waray">Amazonas</name>
+		<name normalized="Amazonas Departamento" languages="English;official">Amazonas Departamento</name>
+		<name normalized="Amazonas Departmantı" languages="Turkish">Amazonas Departmantı</name>
+		<name normalized="Amazonas Department" languages="English;official;Yoruba">Amazonas Department</name>
+		<name normalized="Amazonase departemang" languages="Estonian">Amazonase departemang</name>
+		<name normalized="Amazonio" languages="Esperanto">Amazonio</name>
+		<name normalized="Amazones departamentas" languages="Lithuanian">Amazonės departamentas</name>
+		<name normalized="Amazuones departaments" languages="Samogitian">Amazuonės departaments</name>
+		<name normalized="Departament de l'Amazones" languages="Catalan">Departament de l'Amazones</name>
+		<name normalized="Departamento de Amazonas" languages="German">Departamento de Amazonas</name>
+		<name normalized="Departamento ti Amazonas" languages="Iloko">Departamento ti Amazonas</name>
+		<name normalized="Departamentul Amazonas" languages="Romanian">Departamentul Amazonas</name>
+		<name normalized="Departemen Amazonas" languages="Indonesian">Departemen Amazonas</name>
+		<name normalized="Dipartimento di Amazonas" languages="Italian">Dipartimento di Amazonas</name>
+		<name normalized="Kagawaran ng Amazonas" languages="Tagalog">Kagawaran ng Amazonas</name>
+		<name normalized="Pentadbiran Amazonas" languages="Malay">Pentadbiran Amazonas</name>
+		<name normalized="Διαμeρισμα Αμασονας" languages="Greek">Διαμέρισμα Αμασόνας</name>
+		<name normalized="Aмaсoнaс" languages="Bulgarian;Russian;Ukrainian">Амасонас</name>
+		<name normalized="אیmאزونאس ڈیpאrٹmنٹ" languages="Western Punjabi">ایمازوناس ڈیپارٹمنٹ</name>
+		<name normalized="ამასონასის დეპარტამენტი" languages="Georgian">ამასონასის დეპარტამენტი</name>
+		<name normalized="amsns県" languages="Japanese">アマソナス県</name>
+		<name normalized="亞馬遜省" languages="Chinese">亞馬遜省</name>
+		<name normalized="아마소나스 주" languages="Korean">아마소나스 주</name>
+	</region>
+	<region name="Antioquia" type="department" typeTranslated="departamento">
+		<name normalized="Antiokijos departamentas" languages="Lithuanian">Antiokijos departamentas</name>
+		<name normalized="Antioquia" languages="Afrikaans;Basque;Breton;Chavacano de Zamboanga;Croatian;Czech;Dutch;English;Finnish;French;Galician;Irish;Nahuatl;Norwegian (bokmal);official;Polish;Portuguese;Scots;Scottish Gaelic;Serbo-Croatian;Slovak;Spanish;Swedish;Turkish;Vietnamese;Waray">Antioquia</name>
+		<name normalized="Antioquia Departamento" languages="English;official">Antioquia Departamento</name>
+		<name normalized="Antioquia departemang" languages="Estonian">Antioquia departemang</name>
+		<name normalized="Antioquia Department" languages="English;official;Yoruba">Antioquia Department</name>
+		<name normalized="Antioquia suyu" languages="Quechua">Antioquia suyu</name>
+		<name normalized="Antiuokejes departaments" languages="Samogitian">Antiuokėjės departaments</name>
+		<name normalized="Antjokio" languages="Esperanto">Antjokio</name>
+		<name normalized="Departament d'Antioquia" languages="Catalan">Departament d'Antioquia</name>
+		<name normalized="Departamento de Antioquia" languages="German">Departamento de Antioquia</name>
+		<name normalized="Departamento ng Antioquia" languages="Tagalog">Departamento ng Antioquia</name>
+		<name normalized="Departamento ti Antioquia" languages="Iloko">Departamento ti Antioquia</name>
+		<name normalized="Departamentul Antioquia" languages="Romanian">Departamentul Antioquia</name>
+		<name normalized="Departemen Antioquia" languages="Indonesian">Departemen Antioquia</name>
+		<name normalized="Dipartimento di Antioquia" languages="Italian">Dipartimento di Antioquia</name>
+		<name normalized="Pentadbiran Antioquia" languages="Malay">Pentadbiran Antioquia</name>
+		<name normalized="Αντιοχεια Κολομβιας" languages="Greek">Αντιόχεια Κολομβίας</name>
+		<name normalized="Aнtioki" languages="Ossetic">Антиоки</name>
+		<name normalized="Aнtiokii" languages="Bulgarian">Антиокия</name>
+		<name normalized="Aнtьokii" languages="Russian">Антьокия</name>
+		<name normalized="Aнtiokii" languages="Ukrainian">Антіокія</name>
+		<name normalized="أنtyوkyא" languages="Arabic">أنتيوكيا</name>
+		<name normalized="אنٹیوکوئیא ڈیpאrٹmنٹ" languages="Western Punjabi">انٹیوکوئیا ڈیپارٹمنٹ</name>
+		<name normalized="ანტიოკიის დეპარტამენტი" languages="Georgian">ანტიოკიის დეპარტამენტი</name>
+		<name normalized="antioka県" languages="Japanese">アンティオキア県</name>
+		<name normalized="安蒂奥基亚省" languages="Chinese">安蒂奥基亚省</name>
+		<name normalized="안티오키아 주" languages="Korean">안티오키아 주</name>
+	</region>
+	<region name="Arauca" type="department" typeTranslated="departamento">
+		<name normalized="Arauca" languages="Basque;Breton;Catalan;Croatian;Czech;Dutch;English;Finnish;French;German;Irish;Italian;Malay;Norwegian (bokmal);official;Polish;Portuguese;Quechua;Scots;Scottish Gaelic;Slovak;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray;Yoruba">Arauca</name>
+		<name normalized="Arauca Departamento" languages="English;official">Arauca Departamento</name>
+		<name normalized="Arauca Department" languages="English;official;Yoruba">Arauca Department</name>
+		<name normalized="Arauca suyu" languages="Quechua">Arauca suyu</name>
+		<name normalized="Arauka" languages="Lithuanian">Arauka</name>
+		<name normalized="Araukas departaments" languages="Samogitian">Araukas departaments</name>
+		<name normalized="Araukos departamentas" languages="Lithuanian">Araukos departamentas</name>
+		<name normalized="Arauko" languages="Esperanto">Araŭko</name>
+		<name normalized="Departament d'Arauca" languages="Catalan">Departament d'Arauca</name>
+		<name normalized="Departamento del Arauca" languages="German">Departamento del Arauca</name>
+		<name normalized="Departamento ti Arauca" languages="Iloko">Departamento ti Arauca</name>
+		<name normalized="Departamentul Arauca" languages="Romanian">Departamentul Arauca</name>
+		<name normalized="Departemen Arauca" languages="Indonesian">Departemen Arauca</name>
+		<name normalized="Dipartimento di Arauca" languages="Italian">Dipartimento di Arauca</name>
+		<name normalized="Kagawaran ng Arauca" languages="Tagalog">Kagawaran ng Arauca</name>
+		<name normalized="Pentadbiran Arauca" languages="Malay">Pentadbiran Arauca</name>
+		<name normalized="Aрauka" languages="Bulgarian;Russian;Ukrainian">Араука</name>
+		<name normalized="آrאؤکא" languages="Western Punjabi">آراؤکا</name>
+		<name normalized="آrאؤکא ڈیpאrٹmنٹ" languages="Western Punjabi">آراؤکا ڈیپارٹمنٹ</name>
+		<name normalized="არაუკის დეპარტამენტი" languages="Georgian">არაუკის დეპარტამენტი</name>
+		<name normalized="aruk県" languages="Japanese">アラウカ県</name>
+		<name normalized="阿劳卡" languages="Chinese">阿劳卡</name>
+		<name normalized="阿劳卡省" languages="Chinese">阿劳卡省</name>
+		<name normalized="아라우카" languages="Korean">아라우카</name>
+		<name normalized="아라우카 주" languages="Korean">아라우카 주</name>
+	</region>
+	<region name="Archipielago de San Andres" type="department" typeTranslated="departamento">
+		<name normalized="Archipielago de San Andres" languages="English;official">Archipielago de San Andres</name>
+		<name normalized="Archipielago de San Andres Departamento" languages="English;official">Archipielago de San Andres Departamento</name>
+		<name normalized="Archipielago de San Andres Department" languages="English;official">Archipielago de San Andres Department</name>
+	</region>
+	<region name="Atlantico" type="department" typeTranslated="departamento">
+		<name normalized="Atlantico" languages="English;French;official">Atlantico</name>
+		<name normalized="Atlantico Departamento" languages="English;official">Atlantico Departamento</name>
+		<name normalized="Atlantico Department" languages="English;official">Atlantico Department</name>
+		<name normalized="Atlantiko" languages="Esperanto">Atlantiko</name>
+		<name normalized="Atlantiko departamentas" languages="Lithuanian">Atlantiko departamentas</name>
+		<name normalized="Atlantikoko departamendua" languages="Basque">Atlantikoko departamendua</name>
+		<name normalized="Atlanteka departaments" languages="Samogitian">Atlantėka departaments</name>
+		<name normalized="Atlantico" languages="Breton;Croatian;Czech;Dutch;Finnish;French;Irish;Norwegian (bokmal);Polish;Portuguese;Scots;Scottish Gaelic;Slovak;Spanish;Swedish;Turkish;Waray">Atlántico</name>
+		<name normalized="Atlantico Department" languages="English;Yoruba">Atlántico Department</name>
+		<name normalized="Atlantico suyu" languages="Quechua">Atlántico suyu</name>
+		<name normalized="Departament de l'Atlantic" languages="Catalan">Departament de l'Atlàntic</name>
+		<name normalized="Departamento del Atlantico" languages="German">Departamento del Atlántico</name>
+		<name normalized="Departamento ti Atlantico" languages="Iloko">Departamento ti Atlántico</name>
+		<name normalized="Departamentul Atlantico" languages="Romanian">Departamentul Atlántico</name>
+		<name normalized="Departemen Atlantico" languages="Indonesian">Departemen Atlántico</name>
+		<name normalized="Dipartimento dell'Atlantico" languages="Italian">Dipartimento dell'Atlantico</name>
+		<name normalized="Kagawaran ng Atlantico" languages="Tagalog">Kagawaran ng Atlántico</name>
+		<name normalized="Pentadbiran Atlantico" languages="Malay">Pentadbiran Atlántico</name>
+		<name normalized="Διαμeρισμα Ατλαντικο" languages="Greek">Διαμέρισμα Ατλάντικο</name>
+		<name normalized="Atлaнtiko" languages="Bulgarian;Ossetic;Russian">Атлантико</name>
+		<name normalized="Atлaнtiko" languages="Ukrainian">Атлантіко</name>
+		<name normalized="אٹلאنٹیکو ڈیpאrٹmنٹ" languages="Western Punjabi">اٹلانٹیکو ڈیپارٹمنٹ</name>
+		<name normalized="ატლანტიკოს დეპარტამენტი" languages="Georgian">ატლანტიკოს დეპარტამენტი</name>
+		<name normalized="atrntik県" languages="Japanese">アトランティコ県</name>
+		<name normalized="大西洋省" languages="Chinese">大西洋省</name>
+		<name normalized="아틀란티코 주" languages="Korean">아틀란티코 주</name>
+	</region>
+	<region name="Bogota" type="capital district" typeTranslated="capital district">
+		<name normalized="Bogota" languages="Achinese;Dutch;English;French;Haitian;Ido;Kinyarwanda;Ladino;Latin;Latvian;Lingala;Lithuanian;Novial;official;Papiamento;Polish;Serbo-Croatian;Silesian;Slovak;Slovenian;Somali;Swahili;Tagalog;Turkmen;Upper Sorbian;Uyghur;Uzbek;Western Frisian">Bogota</name>
+		<name normalized="Bogoto" languages="Esperanto">Bogoto</name>
+		<name normalized="Bogota" languages="Catalan;Corsican;lumbaart;Occitan;Piedmontese;Sicilian">Bogotà</name>
+		<name normalized="Bogota" languages="Afrikaans;Albanian;Aragonese;Asturian;Basque;Bosnian;Breton;Chavacano de Zamboanga;Chinese (Min Nan);Cornish;Croatian;Czech;Danish;English;Estonian;Extremaduran;Fiji Hindi;Finnish;Galician;German;Guarani;Hungarian;Iloko;Indonesian;Interlingua;Interlingue;Irish;Italian;Javanese;Kalaallisut;Kurdish;Ligure;Lower Sorbian;Luxembourgish;Malagasy;Malay;Mirandese;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Portuguese;Quechua;Romanian;Romansh;Scots;Scottish Gaelic;Shona;Simple English;Spanish;Swedish;tarandine;Tetum;Turkish;Vietnamese;Volapuk;Waray;Welsh;Yoruba;Zazaki">Bogotá</name>
+		<name normalized="Boqota" languages="Azerbaijani">Boqota</name>
+		<name normalized="Buguta" languages="Emiliano-Romagnolo">Bugutà</name>
+		<name normalized="Buoguota" languages="Samogitian">Buoguota</name>
+		<name normalized="Bogota" languages="Icelandic">Bógóta</name>
+		<name normalized="Wukuta" languages="Aymara">Wukuta</name>
+		<name normalized="Μπογκοτα" languages="Greek">Μπογκοτά</name>
+		<name normalized="Bagata" languages="biлaрuсkai (taрaskivita)‎">Багата</name>
+		<name normalized="Bogota" languages="Bashkir;Bulgarian;Chechen;Eastern Mari;Kazakh;Macedonian;Mongolian;Ossetic;Russian;Serbian;Tatar;Ukrainian">Богота</name>
+		<name normalized="Boґota" languages="Rusyn">Боґота</name>
+		<name normalized="Goрad Bagata" languages="Belarusian">Горад Багата</name>
+		<name normalized="Bvգvtա" languages="Armenian">Բոգոտա</name>
+		<name normalized="bאגאtא" languages="Yiddish">באגאטא</name>
+		<name normalized="bvגvth" languages="Hebrew">בוגוטה</name>
+		<name normalized="bوjوtא" languages="Egyptian Spoken Arabic">بوجوتا</name>
+		<name normalized="bوغوtא" languages="Arabic">بوغوتا</name>
+		<name normalized="bوgوtא" languages="Persian;Urdu">بوگوتا</name>
+		<name normalized="bgوٹא" languages="Western Punjabi">بگوٹا</name>
+		<name normalized="bۆgۆtא" languages="Sorani Kurdish">بۆگۆتا</name>
+		<name normalized="bogoटा" languages="Hindi">बोगोटा</name>
+		<name normalized="bogotा" languages="Marathi">बोगोता</name>
+		<name normalized="bogotা" languages="Bengali">বোগোতা</name>
+		<name normalized="bੋgੋtਾ" languages="Punjabi">ਬੋਗੋਤਾ</name>
+		<name normalized="ବୋଗୋଟା" languages="Oriya">ବୋଗୋଟା</name>
+		<name normalized="பொகோட்டா" languages="Tamil">பொகோட்டா</name>
+		<name normalized="ಬೊಗೋಟ" languages="Kannada">ಬೊಗೋಟ</name>
+		<name normalized="ബൊഗോട്ട" languages="Malayalam">ബൊഗോട്ട</name>
+		<name normalized="โบโกตา" languages="Thai">โบโกตา</name>
+		<name normalized="པོ་གོ་ཏ" languages="Tibetan">པོ་གོ་ཏ</name>
+		<name normalized="ဘိုဂိုတာမြို့" languages="Burmese">ဘိုဂိုတာမြို့</name>
+		<name normalized="ბოგოტა" languages="Georgian">ბოგოტა</name>
+		<name normalized="ቦጎታ" languages="Amharic">ቦጎታ</name>
+		<name normalized="ទីក្រុងបូកូតា" languages="Khmer">ទីក្រុងបូកូតា</name>
+		<name normalized="bgt" languages="Japanese">ボゴタ</name>
+		<name normalized="波哥大" languages="Cantonese;Chinese">波哥大</name>
+		<name normalized="보고타" languages="Korean">보고타</name>
+	</region>
+	<region name="Bolivar" type="department" typeTranslated="departamento">
+		<name normalized="Bolivar" languages="English;official">Bolivar</name>
+		<name normalized="Bolivar Departamento" languages="English;official">Bolivar Departamento</name>
+		<name normalized="Bolivar Department" languages="English;official">Bolivar Department</name>
+		<name normalized="Bolivaro" languages="Esperanto">Bolivaro</name>
+		<name normalized="Bolivaro departamentas" languages="Lithuanian">Bolivaro departamentas</name>
+		<name normalized="Bolivar" languages="Basque;Breton;Croatian;Czech;Dutch;Finnish;French;Galician;Norwegian (bokmal);Polish;Portuguese;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Waray">Bolívar</name>
+		<name normalized="Bolivar Department" languages="English;Yoruba">Bolívar Department</name>
+		<name normalized="Bolivar suyu" languages="Quechua">Bolívar suyu</name>
+		<name normalized="Bolevara departaments" languages="Samogitian">Bolėvara departaments</name>
+		<name normalized="Departament de Bolivar" languages="Catalan">Departament de Bolívar</name>
+		<name normalized="Departamento de Bolivar" languages="German">Departamento de Bolívar</name>
+		<name normalized="Departamento ti Bolivar" languages="Iloko">Departamento ti Bolívar</name>
+		<name normalized="Departamentul Bolivar" languages="Romanian">Departamentul Bolívar</name>
+		<name normalized="Departemen Bolivar" languages="Indonesian">Departemen Bolívar</name>
+		<name normalized="Departman Bolivar" languages="Serbo-Croatian">Departman Bolivar</name>
+		<name normalized="Dipartimento di Bolivar" languages="Italian">Dipartimento di Bolívar</name>
+		<name normalized="Kagawaran ng Bolivar" languages="Tagalog">Kagawaran ng Bolívar</name>
+		<name normalized="Pentadbiran Bolivar" languages="Malay">Pentadbiran Bolívar</name>
+		<name normalized="Διαμeρισμα Μπολιβαρ" languages="Greek">Διαμέρισμα Μπολίβαρ</name>
+		<name normalized="Boлivaр" languages="Bulgarian;Russian">Боливар</name>
+		<name normalized="Boлivaр" languages="Ukrainian">Болівар</name>
+		<name normalized="bولیوאr ڈیpאrٹmنٹ" languages="Western Punjabi">بولیوار ڈیپارٹمنٹ</name>
+		<name normalized="ბოლივარის დეპარტამენტი" languages="Georgian">ბოლივარის დეპარტამენტი</name>
+		<name normalized="brーbr県" languages="Japanese">ボリーバル県</name>
+		<name normalized="玻利瓦尔省" languages="Chinese">玻利瓦尔省</name>
+		<name normalized="볼리바르 주" languages="Korean">볼리바르 주</name>
+	</region>
+	<region name="Boyaca" type="department" typeTranslated="departamento">
+		<name normalized="Bojakao" languages="Esperanto">Bojakao</name>
+		<name normalized="Bojakos departamentas" languages="Lithuanian">Bojakos departamentas</name>
+		<name normalized="Boyaca" languages="Chavacano de Zamboanga;English;official">Boyaca</name>
+		<name normalized="Boyaca Departamento" languages="English;official">Boyaca Departamento</name>
+		<name normalized="Boyaca Department" languages="English;official">Boyaca Department</name>
+		<name normalized="Boyaca" languages="Basque;Breton;Catalan;Croatian;Czech;Dutch;English;Finnish;French;Galician;Irish;Nahuatl;Norwegian (bokmal);Polish;Portuguese;Scots;Scottish Gaelic;Simple English;Spanish;Swedish;Turkish;Vietnamese;Waray">Boyacá</name>
+		<name normalized="Boyaca Department" languages="English;Yoruba">Boyacá Department</name>
+		<name normalized="Boyaca suyu" languages="Quechua">Boyacá suyu</name>
+		<name normalized="Buojakas departaments" languages="Samogitian">Buojakas departaments</name>
+		<name normalized="Departamento de Boyaca" languages="German">Departamento de Boyacá</name>
+		<name normalized="Departamento ti Boyaca" languages="Iloko">Departamento ti Boyacá</name>
+		<name normalized="Departamentul Boyaca" languages="Romanian">Departamentul Boyacá</name>
+		<name normalized="Departemen Boyaca" languages="Indonesian">Departemen Boyacá</name>
+		<name normalized="Dipartimento di Boyaca" languages="Italian">Dipartimento di Boyacá</name>
+		<name normalized="Kagawaran ng Boyaca" languages="Tagalog">Kagawaran ng Boyacá</name>
+		<name normalized="Pentadbiran Boyaca" languages="Malay">Pentadbiran Boyacá</name>
+		<name normalized="Μπογιακα" languages="Greek">Μπογιακά</name>
+		<name normalized="Boika" languages="Bulgarian;Russian;Ukrainian">Бояка</name>
+		<name normalized="bویאکא ڈیpאrٹmنٹ" languages="Western Punjabi">بویاکا ڈیپارٹمنٹ</name>
+		<name normalized="ბოიაკის დეპარტამენტი" languages="Georgian">ბოიაკის დეპარტამენტი</name>
+		<name normalized="byk県" languages="Japanese">ボヤカ県</name>
+		<name normalized="博亚卡省" languages="Chinese">博亚卡省</name>
+		<name normalized="보야카 주" languages="Korean">보야카 주</name>
+	</region>
+	<region name="Caldas" type="department" typeTranslated="departamento">
+		<name normalized="Caldas" languages="Basque;Breton;Catalan;Croatian;Czech;Dutch;English;Finnish;French;Galician;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Vietnamese;Waray">Caldas</name>
+		<name normalized="Caldas Departamento" languages="English;official">Caldas Departamento</name>
+		<name normalized="Caldas Department" languages="English;official;Yoruba">Caldas Department</name>
+		<name normalized="Caldas suyu" languages="Quechua">Caldas suyu</name>
+		<name normalized="Departament de Caldas" languages="Catalan">Departament de Caldas</name>
+		<name normalized="Departamento de Caldas" languages="German">Departamento de Caldas</name>
+		<name normalized="Departamento ti Caldas" languages="Iloko">Departamento ti Caldas</name>
+		<name normalized="Departamentul Caldas" languages="Romanian">Departamentul Caldas</name>
+		<name normalized="Departemen Caldas" languages="Indonesian">Departemen Caldas</name>
+		<name normalized="Dipartimento di Caldas" languages="Italian">Dipartimento di Caldas</name>
+		<name normalized="Kagawaran ng Caldas" languages="Tagalog">Kagawaran ng Caldas</name>
+		<name normalized="Kalda departaments" languages="Samogitian">Kalda departaments</name>
+		<name normalized="Kaldaso" languages="Esperanto">Kaldaso</name>
+		<name normalized="Kaldaso departamentas" languages="Lithuanian">Kaldaso departamentas</name>
+		<name normalized="Pentadbiran Caldas" languages="Malay">Pentadbiran Caldas</name>
+		<name normalized="Διαμeρισμα Καλδας" languages="Greek">Διαμέρισμα Κάλδας</name>
+		<name normalized="Kaлdaс" languages="Bulgarian;Russian">Калдас</name>
+		<name normalized="Kaльdaс" languages="Russian;Ukrainian">Кальдас</name>
+		<name normalized="کلدאس ڈیpאrٹmنٹ" languages="Western Punjabi">کلداس ڈیپارٹمنٹ</name>
+		<name normalized="კალდასის დეპარტამენტი" languages="Georgian">კალდასის დეპარტამენტი</name>
+		<name normalized="krds県" languages="Japanese">カルダス県</name>
+		<name normalized="卡尔达斯省" languages="Chinese">卡尔达斯省</name>
+		<name normalized="칼다스" languages="Korean">칼다스</name>
+		<name normalized="칼다스 주" languages="Korean">칼다스 주</name>
+	</region>
+	<region name="Caqueta" type="department" typeTranslated="departamento">
+		<name normalized="Caqueta" languages="English;official;Waray">Caqueta</name>
+		<name normalized="Caqueta Departamento" languages="English;official">Caqueta Departamento</name>
+		<name normalized="Caqueta Department" languages="English;official">Caqueta Department</name>
+		<name normalized="Caqueta" languages="Basque;Breton;Catalan;Croatian;Czech;Dutch;English;Finnish;French;Galician;Italian;Norwegian (bokmal);Occitan;Polish;Portuguese;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Vietnamese">Caquetá</name>
+		<name normalized="Caqueta Department" languages="English;Yoruba">Caquetá Department</name>
+		<name normalized="Caqueta suyu" languages="Quechua">Caquetá suyu</name>
+		<name normalized="Departamento de Caqueta" languages="German">Departamento de Caquetá</name>
+		<name normalized="Departamento ng Caqueta" languages="Tagalog">Departamento ng Caquetá</name>
+		<name normalized="Departamento ti Caqueta" languages="Iloko">Departamento ti Caquetá</name>
+		<name normalized="Departamentul Caqueta" languages="Romanian">Departamentul Caquetá</name>
+		<name normalized="Departemen Caqueta" languages="Indonesian">Departemen Caquetá</name>
+		<name normalized="Departman Caqueta" languages="Serbo-Croatian">Departman Caqueta</name>
+		<name normalized="Dipartimento di Caqueta" languages="Italian">Dipartimento di Caquetá</name>
+		<name normalized="Kaketao" languages="Esperanto">Kaketao</name>
+		<name normalized="Kaketas departaments" languages="Samogitian">Kaketas departaments</name>
+		<name normalized="Kaketos departamentas" languages="Lithuanian">Kaketos departamentas</name>
+		<name normalized="Pentadbiran Caqueta" languages="Malay">Pentadbiran Caquetá</name>
+		<name normalized="Kakita" languages="Bulgarian;Russian">Какета</name>
+		<name normalized="کאکیوtא ڈیpאrٹmنٹ" languages="Western Punjabi">کاکیوتا ڈیپارٹمنٹ</name>
+		<name normalized="კაკეტის დეპარტამენტი" languages="Georgian">კაკეტის დეპარტამენტი</name>
+		<name normalized="kkt県" languages="Japanese">カケタ県</name>
+		<name normalized="卡克塔省" languages="Chinese">卡克塔省</name>
+		<name normalized="카케타 주" languages="Korean">카케타 주</name>
+	</region>
+	<region name="Casanare" type="department" typeTranslated="departamento">
+		<name normalized="Casanare" languages="Basque;Breton;Catalan;Croatian;Czech;Dutch;English;Finnish;French;Norwegian (bokmal);Occitan;official;Polish;Portuguese;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Vietnamese;Waray">Casanare</name>
+		<name normalized="Casanare Departamento" languages="English;official">Casanare Departamento</name>
+		<name normalized="Casanare Department" languages="English;official;Yoruba">Casanare Department</name>
+		<name normalized="Casanare suyu" languages="Quechua">Casanare suyu</name>
+		<name normalized="Departamento de Casanare" languages="German">Departamento de Casanare</name>
+		<name normalized="Departamento ti Casanare" languages="Iloko">Departamento ti Casanare</name>
+		<name normalized="Departemen Casanare" languages="Indonesian">Departemen Casanare</name>
+		<name normalized="Dipartimento di Casanare" languages="Italian">Dipartimento di Casanare</name>
+		<name normalized="Kagawaran ng Casanare" languages="Tagalog">Kagawaran ng Casanare</name>
+		<name normalized="Kasanareo" languages="Esperanto">Kasanareo</name>
+		<name normalized="Kasanares departamentas" languages="Lithuanian">Kasanarės departamentas</name>
+		<name normalized="Kasanares departaments" languages="Samogitian">Kasanarės departaments</name>
+		<name normalized="Pentadbiran Casanare" languages="Malay">Pentadbiran Casanare</name>
+		<name normalized="Kaсaнaрi" languages="Bulgarian;Russian">Касанаре</name>
+		<name normalized="کאسאنאrے ڈیpאrٹmنٹ" languages="Western Punjabi">کاسانارے ڈیپارٹمنٹ</name>
+		<name normalized="კასანარეს დეპარტამენტი" languages="Georgian">კასანარეს დეპარტამენტი</name>
+		<name normalized="ksnr県" languages="Japanese">カサナレ県</name>
+		<name normalized="卡萨纳雷省" languages="Chinese">卡萨纳雷省</name>
+		<name normalized="카사나레 주" languages="Korean">카사나레 주</name>
+	</region>
+	<region name="Cauca" type="department" typeTranslated="departamento">
+		<name normalized="Cauca" languages="Basque;Breton;Catalan;Croatian;Czech;Dutch;English;Finnish;French;German;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Vietnamese;Waray">Cauca</name>
+		<name normalized="Cauca Departamento" languages="English;official">Cauca Departamento</name>
+		<name normalized="Cauca Department" languages="English;official;Yoruba">Cauca Department</name>
+		<name normalized="Cauca suyu" languages="Quechua">Cauca suyu</name>
+		<name normalized="Departament del Cauca" languages="Catalan">Departament del Cauca</name>
+		<name normalized="Departamento de Cauca" languages="German">Departamento de Cauca</name>
+		<name normalized="Departamento ti Cauca" languages="Iloko">Departamento ti Cauca</name>
+		<name normalized="Departamentul Cauca" languages="Romanian">Departamentul Cauca</name>
+		<name normalized="Departemen Cauca" languages="Indonesian">Departemen Cauca</name>
+		<name normalized="Dipartimento di Cauca" languages="Italian">Dipartimento di Cauca</name>
+		<name normalized="Kagawaran ng Cauca" languages="Tagalog">Kagawaran ng Cauca</name>
+		<name normalized="Kaukas departaments" languages="Samogitian">Kaukas departaments</name>
+		<name normalized="Kaukos departamentas" languages="Lithuanian">Kaukos departamentas</name>
+		<name normalized="Kauko" languages="Esperanto">Kaŭko</name>
+		<name normalized="Pentadbiran Cauca" languages="Malay">Pentadbiran Cauca</name>
+		<name normalized="Διαμeρισμα Καουκα" languages="Greek">Διαμέρισμα Κάουκα</name>
+		<name normalized="Kauka" languages="Bulgarian;Russian;Ukrainian">Каука</name>
+		<name normalized="کאؤکא ڈیpאrٹmنٹ" languages="Western Punjabi">کاؤکا ڈیپارٹمنٹ</name>
+		<name normalized="კაუკის დეპარტამენტი" languages="Georgian">კაუკის დეპარტამენტი</name>
+		<name normalized="kuk県" languages="Japanese">カウカ県</name>
+		<name normalized="考卡省" languages="Chinese">考卡省</name>
+		<name normalized="카우카 주" languages="Korean">카우카 주</name>
+	</region>
+	<region name="Cesar" type="department" typeTranslated="departamento">
+		<name normalized="Cesar" languages="Basque;Breton;Croatian;Czech;Dutch;English;Finnish;French;Galician;German;Norwegian (bokmal);official;Polish;Portuguese;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Vietnamese;Waray">Cesar</name>
+		<name normalized="Cesar Departamento" languages="English;official">Cesar Departamento</name>
+		<name normalized="Cesar Department" languages="English;official;Yoruba">Cesar Department</name>
+		<name normalized="Cesar suyu" languages="Quechua">Cesar suyu</name>
+		<name normalized="Cezaro" languages="Esperanto">Cezaro</name>
+		<name normalized="Cesar" languages="Polish">César</name>
+		<name normalized="Departament del Cesar" languages="Catalan">Departament del Cesar</name>
+		<name normalized="Departamento del Cesar" languages="German">Departamento del Cesar</name>
+		<name normalized="Departamento ng Cesar" languages="Tagalog">Departamento ng Cesar</name>
+		<name normalized="Departamento ti Cesar" languages="Iloko">Departamento ti Cesar</name>
+		<name normalized="Departemen Cesar" languages="Indonesian">Departemen Cesar</name>
+		<name normalized="Dipartimento di Cesar" languages="Italian">Dipartimento di Cesar</name>
+		<name normalized="Pentadbiran Cesar" languages="Malay">Pentadbiran Cesar</name>
+		<name normalized="Sesara departaments" languages="Samogitian">Sesara departaments</name>
+		<name normalized="Sesaro departamentas" languages="Lithuanian">Sesaro departamentas</name>
+		<name normalized="Сizaр" languages="Russian">Сезар</name>
+		<name normalized="Сiсaр" languages="Bulgarian;Russian">Сесар</name>
+		<name normalized="סזאr" languages="Hebrew">סזאר</name>
+		<name normalized="کیسאr ڈیpאrٹmنٹ" languages="Western Punjabi">کیسار ڈیپارٹمنٹ</name>
+		<name normalized="სესარის დეპარტამენტი" languages="Georgian">სესარის დეპარტამენტი</name>
+		<name normalized="ssーr県" languages="Japanese">セサール県</name>
+		<name normalized="szーr" languages="Japanese">セザール</name>
+		<name normalized="塞萨尔省" languages="Chinese">塞萨尔省</name>
+		<name normalized="세사르" languages="Korean">세사르</name>
+		<name normalized="세사르 주" languages="Korean">세사르 주</name>
+	</region>
+	<region name="Choco" type="department" typeTranslated="departamento">
+		<name normalized="Choco" languages="Chinese;Dutch;English;Galician;official;Portuguese;Spanish">Choco</name>
+		<name normalized="Choco Departamento" languages="English;official">Choco Departamento</name>
+		<name normalized="Choco Department" languages="English;official">Choco Department</name>
+		<name normalized="Choco" languages="Basque;Breton;Catalan;Croatian;Czech;Dutch;Finnish;French;Norwegian (bokmal);Polish;Portuguese;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Waray">Chocó</name>
+		<name normalized="Choco departemang" languages="Estonian">Chocó departemang</name>
+		<name normalized="Choco Department" languages="English;Yoruba">Chocó Department</name>
+		<name normalized="Choco suyu" languages="Quechua">Chocó suyu</name>
+		<name normalized="Departamento del Choco" languages="German">Departamento del Chocó</name>
+		<name normalized="Departamento ng Choco" languages="Tagalog">Departamento ng Chocó</name>
+		<name normalized="Departamento ti Choco" languages="Iloko">Departamento ti Chocó</name>
+		<name normalized="Departemen Choco" languages="Indonesian">Departemen Chocó</name>
+		<name normalized="Dipartimento di Choco" languages="Italian">Dipartimento di Chocó</name>
+		<name normalized="Pentadbiran Choco" languages="Malay">Pentadbiran Chocó</name>
+		<name normalized="Cokoo" languages="Esperanto">Ĉokoo</name>
+		<name normalized="Cioko departamentas" languages="Lithuanian">Čioko departamentas</name>
+		<name normalized="Ciuoka departaments" languages="Samogitian">Čiuoka departaments</name>
+		<name normalized="Coko" languages="Bulgarian;Russian;Ukrainian">Чоко</name>
+		<name normalized="Cvkv" languages="Armenian">Չոկո</name>
+		<name normalized="چوکو ڈیpאrٹmنٹ" languages="Western Punjabi">چوکو ڈیپارٹمنٹ</name>
+		<name normalized="ჩოკოს დეპარტამენტი" languages="Georgian">ჩოკოს დეპარტამენტი</name>
+		<name normalized="tョk県" languages="Japanese">チョコ県</name>
+		<name normalized="乔科省" languages="Chinese">乔科省</name>
+		<name normalized="초코" languages="Korean">초코</name>
+		<name normalized="초코 주" languages="Korean">초코 주</name>
+	</region>
+	<region name="Cordoba" type="department" typeTranslated="departamento">
+		<name normalized="Cordoba" languages="Danish;English;official;Serbo-Croatian">Cordoba</name>
+		<name normalized="Cordoba Departamento" languages="English;official">Cordoba Departamento</name>
+		<name normalized="Cordoba Department" languages="English;official">Cordoba Department</name>
+		<name normalized="Corduba" languages="Latin">Corduba</name>
+		<name normalized="Cordoba" languages="Piedmontese">Còrdoba</name>
+		<name normalized="Cordoba" languages="Afrikaans;Basque;Bosnian;Breton;Catalan;Croatian;Czech;Dutch;English;Estonian;Finnish;French;Galician;German;Hungarian;Italian;Luxembourgish;Malay;Nahuatl;Norwegian (bokmal);Norwegian Nynorsk;Polish;Portuguese;Quechua;Romanian;Scots;Scottish Gaelic;Sicilian;Simple English;Slovak;Spanish;Swahili;Swedish;Turkish;Vietnamese;Volapuk;Waray;Welsh">Córdoba</name>
+		<name normalized="Cordoba departemang" languages="Estonian">Córdoba departemang</name>
+		<name normalized="Cordoba Department" languages="English;Yoruba">Córdoba Department</name>
+		<name normalized="Cordoba suyu" languages="Quechua">Córdoba suyu</name>
+		<name normalized="Departament de Cordoba" languages="Catalan">Departament de Córdoba</name>
+		<name normalized="Departamento de Cordoba" languages="German">Departamento de Córdoba</name>
+		<name normalized="Departamento ti Cordoba" languages="Iloko">Departamento ti Córdoba</name>
+		<name normalized="Departemen Cordoba" languages="Indonesian">Departemen Córdoba</name>
+		<name normalized="Dipartimento di Cordoba" languages="Italian">Dipartimento di Córdoba</name>
+		<name normalized="Kordoba" languages="Basque;Indonesian;Lithuanian">Kordoba</name>
+		<name normalized="Kordobos departamentas" languages="Lithuanian">Kordobos departamentas</name>
+		<name normalized="Kordova" languages="Latvian">Kordova</name>
+		<name normalized="Kordovo" languages="Esperanto">Kordovo</name>
+		<name normalized="Kuorduobas departaments" languages="Samogitian">Kuorduobas departaments</name>
+		<name normalized="Pentadbiran Cordoba" languages="Malay">Pentadbiran Córdoba</name>
+		<name normalized="Διαμeρισμα Κορδοβα" languages="Greek">Διαμέρισμα Κόρδοβα</name>
+		<name normalized="Κορδοβα" languages="Greek">Κόρδοβα</name>
+		<name normalized="Koрdava" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Кордава</name>
+		<name normalized="Koрdoba" languages="Bulgarian;Serbian">Кордоба</name>
+		<name normalized="Koрdova" languages="Russian;Ukrainian">Кордова</name>
+		<name normalized="qvrדvbh" languages="Hebrew">קורדובה</name>
+		<name normalized="qrtbة" languages="Arabic">قرطبة</name>
+		<name normalized="کאrدوbא ڈیpאrٹmنٹ" languages="Western Punjabi">کاردوبا ڈیپارٹمنٹ</name>
+		<name normalized="کوrدوbא" languages="Persian">کوردوبا</name>
+		<name normalized="กอร์โดบา" languages="Thai">กอร์โดบา</name>
+		<name normalized="კორდობის დეპარტამენტი" languages="Georgian">კორდობის დეპარტამენტი</name>
+		<name normalized="კორდოვა" languages="Georgian">კორდოვა</name>
+		<name normalized="krdb" languages="Japanese">コルドバ</name>
+		<name normalized="krdb県" languages="Japanese">コルドバ県</name>
+		<name normalized="科爾多巴" languages="Chinese">科爾多巴</name>
+		<name normalized="科爾多瓦省" languages="Chinese">科爾多瓦省</name>
+		<name normalized="코르도바" languages="Korean">코르도바</name>
+		<name normalized="코르도바 주" languages="Korean">코르도바 주</name>
+	</region>
+	<region name="Cundinamarca" type="department" typeTranslated="departamento">
+		<name normalized="Cundinamarca" languages="Basque;Breton;Catalan;Chavacano de Zamboanga;Dutch;English;Finnish;French;Galician;German;Nahuatl;Norwegian (bokmal);official;Polish;Portuguese;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Vietnamese;Waray">Cundinamarca</name>
+		<name normalized="Cundinamarca Departamento" languages="English;official">Cundinamarca Departamento</name>
+		<name normalized="Cundinamarca Department" languages="English;official;Yoruba">Cundinamarca Department</name>
+		<name normalized="Cundinamarca suyu" languages="Quechua">Cundinamarca suyu</name>
+		<name normalized="Departamento ti Cundinamarca" languages="Iloko">Departamento ti Cundinamarca</name>
+		<name normalized="Departemen Kundinamarka" languages="Indonesian">Departemen Kundinamarka</name>
+		<name normalized="Dipartimento di Cundinamarca" languages="Italian">Dipartimento di Cundinamarca</name>
+		<name normalized="Kondenamarkas departaments" languages="Samogitian">Kondėnamarkas departaments</name>
+		<name normalized="Kundinamarko" languages="Esperanto">Kundinamarko</name>
+		<name normalized="Kundinamarkos departamentas" languages="Lithuanian">Kundinamarkos departamentas</name>
+		<name normalized="Pentadbiran Cundinamarca" languages="Malay">Pentadbiran Cundinamarca</name>
+		<name normalized="Διαμeρισμα Κουντιναμαρκα" languages="Greek">Διαμέρισμα Κουντιναμάρκα</name>
+		<name normalized="Kuнdiнaмaрka" languages="Bulgarian;Russian">Кундинамарка</name>
+		<name normalized="Kuнdiнaмaрka" languages="Ukrainian">Кундінамарка</name>
+		<name normalized="kوندyنאmאrkא" languages="Arabic">كونديناماركا</name>
+		<name normalized="کندینאmאrکא ڈیpאrٹmنٹ" languages="Western Punjabi">کندینامارکا ڈیپارٹمنٹ</name>
+		<name normalized="კუნდინამარკის დეპარტამენტი" languages="Georgian">კუნდინამარკის დეპარტამენტი</name>
+		<name normalized="kndinmrk県" languages="Japanese">クンディナマルカ県</name>
+		<name normalized="昆迪納馬卡省" languages="Chinese">昆迪納馬卡省</name>
+		<name normalized="쿤디나마르카 주" languages="Korean">쿤디나마르카 주</name>
+	</region>
+	<region name="Guainia" type="department" typeTranslated="departamento">
+		<name normalized="Departamento ti Guainia" languages="Iloko">Departamento ti Guainía</name>
+		<name normalized="Departemen Guainia" languages="Indonesian">Departemen Guainía</name>
+		<name normalized="Dipartimento di Guainia" languages="Italian">Dipartimento di Guainía</name>
+		<name normalized="Guainia" languages="English;official">Guainia</name>
+		<name normalized="Guainia Departamento" languages="English;official">Guainia Departamento</name>
+		<name normalized="Guainia Department" languages="English;official">Guainia Department</name>
+		<name normalized="Guainijos departamentas" languages="Lithuanian">Guainijos departamentas</name>
+		<name normalized="Guainia" languages="Basque;Breton;Catalan;Croatian;Dutch;English;Finnish;French;German;Norwegian (bokmal);Polish;Portuguese;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Waray">Guainía</name>
+		<name normalized="Guainia Department" languages="English;Yoruba">Guainía Department</name>
+		<name normalized="Guainia suyu" languages="Quechua">Guainía suyu</name>
+		<name normalized="Guainejes departaments" languages="Samogitian">Guainėjės departaments</name>
+		<name normalized="Gvajnio" languages="Esperanto">Gvajnio</name>
+		<name normalized="Pentadbiran Guainia" languages="Malay">Pentadbiran Guainía</name>
+		<name normalized="Guaйнii" languages="Bulgarian;Russian">Гуайния</name>
+		<name normalized="gینیא ڈیpאrٹmنٹ" languages="Western Punjabi">گینیا ڈیپارٹمنٹ</name>
+		<name normalized="გუაინიის დეპარტამენტი" languages="Georgian">გუაინიის დეპარტამენტი</name>
+		<name normalized="gaina県" languages="Japanese">グアイニア県</name>
+		<name normalized="瓜伊尼亚省" languages="Chinese">瓜伊尼亚省</name>
+		<name normalized="과이니아 주" languages="Korean">과이니아 주</name>
+	</region>
+	<region name="Guaviare" type="department" typeTranslated="departamento">
+		<name normalized="Departamento ti Guaviare" languages="Iloko">Departamento ti Guaviare</name>
+		<name normalized="Departemen Guaviare" languages="Indonesian">Departemen Guaviare</name>
+		<name normalized="Dipartimento di Guaviare" languages="Italian">Dipartimento di Guaviare</name>
+		<name normalized="Guaviare" languages="Basque;Breton;Catalan;Croatian;Czech;Dutch;English;Finnish;French;German;Norwegian (bokmal);official;Polish;Portuguese;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Vietnamese;Waray">Guaviare</name>
+		<name normalized="Guaviare Departamento" languages="English;official">Guaviare Departamento</name>
+		<name normalized="Guaviare Department" languages="English;official;Yoruba">Guaviare Department</name>
+		<name normalized="Guaviare suyu" languages="Quechua">Guaviare suyu</name>
+		<name normalized="Guavjares departamentas" languages="Lithuanian">Guavjarės departamentas</name>
+		<name normalized="Guavjares departaments" languages="Samogitian">Guavjarės departaments</name>
+		<name normalized="Guavjaro" languages="Esperanto">Gŭavjaro</name>
+		<name normalized="Guaviaрi" languages="Bulgarian">Гуавиаре</name>
+		<name normalized="Guavьiрi" languages="Russian">Гуавьяре</name>
+		<name normalized="gوאویאrے ڈیpאrٹmنٹ" languages="Western Punjabi">گواویارے ڈیپارٹمنٹ</name>
+		<name normalized="გუავიარეს დეპარტამენტი" languages="Georgian">გუავიარეს დეპარტამენტი</name>
+		<name normalized="gabaーr県" languages="Japanese">グアビアーレ県</name>
+		<name normalized="瓜维亚雷省" languages="Chinese">瓜维亚雷省</name>
+		<name normalized="과비아레 주" languages="Korean">과비아레 주</name>
+	</region>
+	<region name="Huila" type="department" typeTranslated="departamento">
+		<name normalized="Departamento de Huila" languages="German">Departamento de Huila</name>
+		<name normalized="Departamento ti Huila" languages="Iloko">Departamento ti Huila</name>
+		<name normalized="Departemen Huila" languages="Indonesian">Departemen Huila</name>
+		<name normalized="Dipartimento di Huila" languages="Italian">Dipartimento di Huila</name>
+		<name normalized="Huila" languages="Basque;Breton;Catalan;Croatian;Dutch;English;Finnish;French;Norwegian (bokmal);official;Polish;Portuguese;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Waray">Huila</name>
+		<name normalized="Huila Departamento" languages="English;official">Huila Departamento</name>
+		<name normalized="Huila Department" languages="English;official;Yoruba">Huila Department</name>
+		<name normalized="Huila suyu" languages="Quechua">Huila suyu</name>
+		<name normalized="Oilas departaments" languages="Samogitian">Oilas departaments</name>
+		<name normalized="Pentadbiran Huila" languages="Malay">Pentadbiran Huila</name>
+		<name normalized="Uilos departamentas" languages="Lithuanian">Uilos departamentas</name>
+		<name normalized="Ujlao" languages="Esperanto">Ujlao</name>
+		<name normalized="Uiлa" languages="Bulgarian;Russian">Уила</name>
+		<name normalized="Uyлa" languages="Ukrainian">Уїла</name>
+		<name normalized="ہولא ڈیpאrٹmنٹ" languages="Western Punjabi">ہولا ڈیپارٹمنٹ</name>
+		<name normalized="უილის დეპარტამენტი" languages="Georgian">უილის დეპარტამენტი</name>
+		<name normalized="uir県" languages="Japanese">ウイラ県</name>
+		<name normalized="乌伊拉省" languages="Chinese">乌伊拉省</name>
+		<name normalized="우일라 주" languages="Korean">우일라 주</name>
+	</region>
+	<region name="La Guajira" type="department" typeTranslated="departamento">
+		<name normalized="Departamento ti La Guajira" languages="Iloko">Departamento ti La Guajira</name>
+		<name normalized="Departemen Guajira" languages="Indonesian">Departemen Guajira</name>
+		<name normalized="Dipartimento di La Guajira" languages="Italian">Dipartimento di La Guajira</name>
+		<name normalized="Guajira" languages="Finnish;Portuguese">Guajira</name>
+		<name normalized="Guakeras departaments" languages="Samogitian">Guakėras departaments</name>
+		<name normalized="Gvachiros departamentas" languages="Lithuanian">Gvachiros departamentas</name>
+		<name normalized="La Guajira" languages="Basque;Breton;Catalan;Croatian;Dutch;English;Esperanto;French;German;Norwegian (bokmal);official;Polish;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Waray">La Guajira</name>
+		<name normalized="La Guajira Departamento" languages="English;official">La Guajira Departamento</name>
+		<name normalized="La Guajira Department" languages="English;official;Yoruba">La Guajira Department</name>
+		<name normalized="La Guajira suyu" languages="Quechua">La Guajira suyu</name>
+		<name normalized="Pentadbiran La Guajira" languages="Malay">Pentadbiran La Guajira</name>
+		<name normalized="Guakiрa" languages="Bulgarian;Russian">Гуахира</name>
+		<name normalized="لאgوjیrא ڈیpאrٹmنٹ" languages="Western Punjabi">لاگوجیرا ڈیپارٹمنٹ</name>
+		<name normalized="ლა-გუახირის დეპარტამენტი" languages="Georgian">ლა-გუახირის დეპარტამენტი</name>
+		<name normalized="r・gahーr県" languages="Japanese">ラ・グアヒーラ県</name>
+		<name normalized="瓜希拉省" languages="Chinese">瓜希拉省</name>
+		<name normalized="라과히라 주" languages="Korean">라과히라 주</name>
+	</region>
+	<region name="Magdalena" type="department" typeTranslated="departamento">
+		<name normalized="Departament del Magdalena" languages="Catalan">Departament del Magdalena</name>
+		<name normalized="Departamento del Magdalena" languages="German">Departamento del Magdalena</name>
+		<name normalized="Departamento ti Magdalena" languages="Iloko">Departamento ti Magdalena</name>
+		<name normalized="Departamentul Magdalena" languages="Romanian">Departamentul Magdalena</name>
+		<name normalized="Departemen Magdalena" languages="Indonesian">Departemen Magdalena</name>
+		<name normalized="Departman Magdalena" languages="Serbo-Croatian">Departman Magdalena</name>
+		<name normalized="Dipartimento di Magdalena" languages="Italian">Dipartimento di Magdalena</name>
+		<name normalized="Kagawaran ng Magdalena" languages="Tagalog">Kagawaran ng Magdalena</name>
+		<name normalized="Magdalena" languages="Basque;Breton;Catalan;Croatian;Czech;Dutch;English;Esperanto;Finnish;French;German;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Scottish Gaelic;Serbo-Croatian;Spanish;Swedish;Tagalog;Turkish;Vietnamese;Waray">Magdalena</name>
+		<name normalized="Magdalena Departamento" languages="English;official">Magdalena Departamento</name>
+		<name normalized="Magdalena Department" languages="English;official;Yoruba">Magdalena Department</name>
+		<name normalized="Magdalena suyu" languages="Quechua">Magdalena suyu</name>
+		<name normalized="Magdalenas departaments" languages="Samogitian">Magdalenas departaments</name>
+		<name normalized="Magdalenos departamentas" languages="Lithuanian">Magdalenos departamentas</name>
+		<name normalized="Pentadbiran Magdalena" languages="Malay">Pentadbiran Magdalena</name>
+		<name normalized="Διαμeρισμα Μαγδαλeνα" languages="Greek">Διαμέρισμα Μαγδαλένα</name>
+		<name normalized="Мagdaлiнae" languages="Ossetic">Магдаленæ</name>
+		<name normalized="Мagdaлiнa" languages="Bulgarian;Russian">Магдалена</name>
+		<name normalized="Мagdaлiнa рigioн" languages="Serbian">Магдалена регион</name>
+		<name normalized="Мaґdaлiнa" languages="Ukrainian">Маґдалена</name>
+		<name normalized="mאjدאلyنא" languages="Arabic">ماجدالينا</name>
+		<name normalized="mgدאلینא ڈیpאrٹmنٹ" languages="Western Punjabi">مگدالینا ڈیپارٹمنٹ</name>
+		<name normalized="მაგდალენას დეპარტამენტი" languages="Georgian">მაგდალენას დეპარტამენტი</name>
+		<name normalized="mgdrn" languages="Japanese">マグダレナ</name>
+		<name normalized="mgdrーn県" languages="Japanese">マグダレーナ県</name>
+		<name normalized="马格达莱纳省" languages="Chinese">马格达莱纳省</name>
+		<name normalized="마그달레나" languages="Korean">마그달레나</name>
+		<name normalized="마그달레나 주" languages="Korean">마그달레나 주</name>
+	</region>
+	<region name="Meta" type="department" typeTranslated="departamento">
+		<name normalized="Anexo:Lista de Municipios de Meta" languages="Portuguese">Anexo:Lista de Municípios de Meta</name>
+		<name normalized="Departament del Meta" languages="Catalan">Departament del Meta</name>
+		<name normalized="Departamento del Meta" languages="German">Departamento del Meta</name>
+		<name normalized="Departamento ti Meta" languages="Iloko">Departamento ti Meta</name>
+		<name normalized="Departemen Meta" languages="Indonesian">Departemen Meta</name>
+		<name normalized="Dipartimento di Meta" languages="Italian">Dipartimento di Meta</name>
+		<name normalized="Meta" languages="Basque;Breton;Croatian;Dutch;English;Finnish;French;Norwegian (bokmal);official;Polish;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Vietnamese;Waray">Meta</name>
+		<name normalized="Meta Departamento" languages="English;official">Meta Departamento</name>
+		<name normalized="Meta Department" languages="English;official;Yoruba">Meta Department</name>
+		<name normalized="Meta suyu" languages="Quechua">Meta suyu</name>
+		<name normalized="Metao" languages="Esperanto">Metao</name>
+		<name normalized="Metas departaments" languages="Samogitian">Metas departaments</name>
+		<name normalized="Metos departamentas" languages="Lithuanian">Metos departamentas</name>
+		<name normalized="Pentadbiran Meta" languages="Malay">Pentadbiran Meta</name>
+		<name normalized="Мita" languages="Bulgarian;Russian;Ukrainian">Мета</name>
+		<name normalized="mیtא ڈیpאrٹmنٹ" languages="Western Punjabi">میتا ڈیپارٹمنٹ</name>
+		<name normalized="მეტის დეპარტამენტი" languages="Georgian">მეტის დეპარტამენტი</name>
+		<name normalized="mt県" languages="Japanese">メタ県</name>
+		<name normalized="梅塔省" languages="Chinese">梅塔省</name>
+		<name normalized="메타 주" languages="Korean">메타 주</name>
+	</region>
+	<region name="Narino" type="department" typeTranslated="departamento">
+		<name normalized="Departamento de Narino" languages="German">Departamento de Nariño</name>
+		<name normalized="Departamento ti Narino" languages="Iloko">Departamento ti Nariño</name>
+		<name normalized="Departemen Narino" languages="Indonesian">Departemen Nariño</name>
+		<name normalized="Dipartimento di Narino" languages="Italian">Dipartimento di Nariño</name>
+		<name normalized="Kagawaran ng Narino" languages="Tagalog">Kagawaran ng Nariño</name>
+		<name normalized="Narinjo departamentas" languages="Lithuanian">Narinjo departamentas</name>
+		<name normalized="Narino" languages="English;official">Narino</name>
+		<name normalized="Narino Departamento" languages="English;official">Narino Departamento</name>
+		<name normalized="Narino Department" languages="English;official">Narino Department</name>
+		<name normalized="Narino" languages="Basque;Breton;Catalan;Croatian;Dutch;English;Esperanto;Finnish;French;Italian;Nahuatl;Norwegian (bokmal);Polish;Portuguese;Romanian;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Vietnamese;Waray">Nariño</name>
+		<name normalized="Narino departemang" languages="Estonian">Nariño departemang</name>
+		<name normalized="Narino Department" languages="English;Yoruba">Nariño Department</name>
+		<name normalized="Narinu suyu" languages="Quechua">Nariñu suyu</name>
+		<name normalized="Narenja departaments" languages="Samogitian">Narėnja departaments</name>
+		<name normalized="Pentadbiran Narino" languages="Malay">Pentadbiran Nariño</name>
+		<name normalized="Нaрiньo" languages="Bulgarian;Russian">Нариньо</name>
+		<name normalized="Нaрiньйo" languages="Ukrainian">Наріньйо</name>
+		<name normalized="نאrینو ڈیpאrٹmنٹ" languages="Western Punjabi">نارینو ڈیپارٹمنٹ</name>
+		<name normalized="ნარინიოს დეპარტამენტი" languages="Georgian">ნარინიოს დეპარტამენტი</name>
+		<name normalized="nrーnョ県" languages="Japanese">ナリーニョ県</name>
+		<name normalized="纳里尼奥省" languages="Chinese">纳里尼奥省</name>
+		<name normalized="나리뇨 주" languages="Korean">나리뇨 주</name>
+	</region>
+	<region name="Norte de Santander" type="department" typeTranslated="departamento">
+		<name normalized="Departamento de Norte de Santander" languages="German">Departamento de Norte de Santander</name>
+		<name normalized="Departamento ti Norte de Santander" languages="Iloko">Departamento ti Norte de Santander</name>
+		<name normalized="Departemen Norte de Santander" languages="Indonesian">Departemen Norte de Santander</name>
+		<name normalized="Dipartimento di Norte de Santander" languages="Italian">Dipartimento di Norte de Santander</name>
+		<name normalized="Kagawaran ng Norte de Santander" languages="Tagalog">Kagawaran ng Norte de Santander</name>
+		<name normalized="Norda Santandero" languages="Esperanto">Norda Santandero</name>
+		<name normalized="Norte de Santander" languages="Basque;Breton;Catalan;Croatian;Dutch;English;Finnish;French;Galician;Norwegian (bokmal);official;Polish;Portuguese;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Vietnamese;Waray">Norte de Santander</name>
+		<name normalized="Norte de Santander Departamento" languages="English;official">Norte de Santander Departamento</name>
+		<name normalized="Norte de Santander Department" languages="English;official;Yoruba">Norte de Santander Department</name>
+		<name normalized="Norte de Santandero departaments" languages="Samogitian">Norte de Santandero departaments</name>
+		<name normalized="Pentadbiran Norte de Santander" languages="Malay">Pentadbiran Norte de Santander</name>
+		<name normalized="Uralan Santander suyu" languages="Quechua">Uralan Santander suyu</name>
+		<name normalized="Siaures Santandero departamentas" languages="Lithuanian">Šiaurės Santandero departamentas</name>
+		<name normalized="Сiviрiн Сaнtaнdiр" languages="Bulgarian">Северен Сантандер</name>
+		<name normalized="Сiviрный Сaнtaнdiр" languages="Russian">Северный Сантандер</name>
+		<name normalized="نوtrے دے سאنtאندr ڈیpאrٹmنٹ" languages="Western Punjabi">نوترے دے سانتاندر ڈیپارٹمنٹ</name>
+		<name normalized="ნორტე-დე-სანტანდერის დეპარტამენტი" languages="Georgian">ნორტე-დე-სანტანდერის დეპარტამენტი</name>
+		<name normalized="nrt・d・sntndーr県" languages="Japanese">ノルテ・デ・サンタンデール県</name>
+		<name normalized="北桑坦德省" languages="Chinese">北桑坦德省</name>
+		<name normalized="노르테데산탄데르 주" languages="Korean">노르테데산탄데르 주</name>
+	</region>
+	<region name="Providencia y Santa Catalina" type="department" typeTranslated="departamento">
+		<name normalized="Airchipelago o San Andres" languages="Scots">Airchipelago o San Andrés</name>
+		<name normalized="Archipel de San Andres" languages="French">Archipel de San Andrés</name>
+		<name normalized="Archipelago of San Andres" languages="English;Simple English">Archipelago of San Andrés</name>
+		<name normalized="Archipielago de San Andres" languages="Spanish">Archipiélago de San Andrés</name>
+		<name normalized="Arquipelago de San Andres" languages="Galician">Arquipélago de San Andrés</name>
+		<name normalized="Departemen San Andres dan Providencia" languages="Indonesian">Departemen San Andrés dan Providencia</name>
+		<name normalized="Dipartimento dell'Arcipelago di San Andres" languages="Italian">Dipartimento dell'Arcipelago di San Andrés</name>
+		<name normalized="Kapuluan ng San Andres" languages="Tagalog">Kapuluan ng San Andrés</name>
+		<name normalized="Kapuropod-an han San Andres" languages="Waray">Kapuropod-an han San Andrés</name>
+		<name normalized="Pentadbiran San Andres dan Providencia" languages="Malay">Pentadbiran San Andrés dan Providencia</name>
+		<name normalized="Providencia y Santa Catalina" languages="English;official">Providencia y Santa Catalina</name>
+		<name normalized="Providencia y Santa Catalina Departamento" languages="English;official">Providencia y Santa Catalina Departamento</name>
+		<name normalized="Providencia y Santa Catalina Department" languages="English;official">Providencia y Santa Catalina Department</name>
+		<name normalized="San Andres an Providencia" languages="Northern Frisian">San Andres an Providencia</name>
+		<name normalized="San Andres y Providencia" languages="English;official">San Andres y Providencia</name>
+		<name normalized="San Andres y Providencia Departamento" languages="English;official">San Andres y Providencia Departamento</name>
+		<name normalized="San Andres y Providencia Department" languages="English;official">San Andres y Providencia Department</name>
+		<name normalized="San Andresas ir Providensija" languages="Lithuanian">San Andresas ir Providensija</name>
+		<name normalized="San Andresos e Pruovedenseje" languages="Samogitian">San Andresos ė Pruovėdensėjė</name>
+		<name normalized="San Andres" languages="Finnish;Turkish;Yoruba">San Andrés</name>
+		<name normalized="San Andres a Providencia" languages="Czech">San Andrés a Providencia</name>
+		<name normalized="San Andres en Providencia" languages="Dutch">San Andrés en Providencia</name>
+		<name normalized="San Andres eta Providencia" languages="Basque">San Andrés eta Providencia</name>
+		<name normalized="San Andres i Providencia" languages="Polish">San Andrés i Providencia</name>
+		<name normalized="San Andres och Providencia" languages="Swedish">San Andrés och Providencia</name>
+		<name normalized="San Andres und Providencia" languages="Alemannisch;German">San Andrés und Providencia</name>
+		<name normalized="San Andres wan Providencia suyu" languages="Quechua">San Andrés wan Providencia suyu</name>
+		<name normalized="San Andres y Providencia" languages="Breton;Catalan;Danish;Norwegian (bokmal);Scottish Gaelic">San Andrés y Providencia</name>
+		<name normalized="Sankta Andreo kaj Providenco" languages="Esperanto">Sankta Andreo kaj Providenco</name>
+		<name normalized="Santo Andre" languages="Portuguese">Santo André</name>
+		<name normalized="Διαμeρισμα Σαν Αντρeς και Προβιδeνσια" languages="Greek">Διαμέρισμα Σαν Αντρές και Προβιδένσια</name>
+		<name normalized="Сaн Aнdрiс i Pрovidiнсii" languages="Bulgarian">Сан Андрес и Провиденсия</name>
+		<name normalized="Сaн Aнdрiс i Pрovidiнсija" languages="Serbian">Сан Андрес и Провиденсија</name>
+		<name normalized="Сaн-Aнdрiс i Pрovidiнсii" languages="Ukrainian">Сан-Андрес і Провіденсія</name>
+		<name normalized="Сaн-Aнdрiс-i-Pрovidiнсii" languages="Russian">Сан-Андрес-и-Провиденсия</name>
+		<name normalized="סן אnדrס vprvbידnסיh" languages="Hebrew">סן אנדרס ופרובידנסיה</name>
+		<name normalized="سאن آندrس tے prوویدنسیא ڈیpאrٹmنٹ" languages="Western Punjabi">سان آندرس تے پروویدنسیا ڈیپارٹمنٹ</name>
+		<name normalized="mjmوعہ אلjزאئr سאن אینڈrیس, prووڈینسیא و سאنtא کאtאلینא" languages="Urdu">مجموعہ الجزائر سان اینڈریس، پرووڈینسیا و سانتا کاتالینا</name>
+		<name normalized="sਾn aਂdrੇs" languages="Punjabi">ਸਾਨ ਆਂਦਰੇਸ</name>
+		<name normalized="სან-ანდრეს-ი-პროვიდენსია" languages="Georgian">სან-ანდრეს-ი-პროვიდენსია</name>
+		<name normalized="sn・andrs・i・prbdnsa県" languages="Japanese">サン・アンドレス・イ・プロビデンシア県</name>
+		<name normalized="聖安德列斯-普羅維登西亞和聖卡塔利娜群島省" languages="Chinese">聖安德列斯-普羅維登西亞和聖卡塔利娜群島省</name>
+		<name normalized="산안드레스 이 프로비덴시아 주" languages="Korean">산안드레스 이 프로비덴시아 주</name>
+	</region>
+	<region name="Putumayo" type="department" typeTranslated="departamento">
+		<name normalized="Departamento de Putumayo" languages="German">Departamento de Putumayo</name>
+		<name normalized="Departamento ti Putumayo" languages="Iloko">Departamento ti Putumayo</name>
+		<name normalized="Departemen Putumayo" languages="Indonesian">Departemen Putumayo</name>
+		<name normalized="Dipartimento di Putumayo" languages="Italian">Dipartimento di Putumayo</name>
+		<name normalized="Kagawaran ng Putumayo" languages="Tagalog">Kagawaran ng Putumayo</name>
+		<name normalized="Pentadbiran Putumayo" languages="Malay">Pentadbiran Putumayo</name>
+		<name normalized="Putumaja departaments" languages="Samogitian">Putumaja departaments</name>
+		<name normalized="Putumajo" languages="Esperanto">Putumajo</name>
+		<name normalized="Putumajo departamentas" languages="Lithuanian">Putumajo departamentas</name>
+		<name normalized="Putumayia" languages="Latin">Putumayia</name>
+		<name normalized="Putumayo" languages="Basque;Breton;Catalan;Croatian;Dutch;English;Finnish;French;Norwegian (bokmal);official;Polish;Portuguese;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Vietnamese;Waray">Putumayo</name>
+		<name normalized="Putumayo Departamento" languages="English;official">Putumayo Departamento</name>
+		<name normalized="Putumayo Department" languages="English;official;Yoruba">Putumayo Department</name>
+		<name normalized="Putumayu suyu" languages="Quechua">Putumayu suyu</name>
+		<name normalized="Putuмaйo" languages="Bulgarian;Russian">Путумайо</name>
+		<name normalized="pوtوmאیو ڈیpאrٹmنٹ" languages="Western Punjabi">پوتومایو ڈیپارٹمنٹ</name>
+		<name normalized="პუტუმაიოს დეპარტამენტი" languages="Georgian">პუტუმაიოს დეპარტამენტი</name>
+		<name normalized="ptumy県" languages="Japanese">プトゥマヨ県</name>
+		<name normalized="普图马约省" languages="Chinese">普图马约省</name>
+		<name normalized="푸투마요 주" languages="Korean">푸투마요 주</name>
+	</region>
+	<region name="Quindio" type="department" typeTranslated="departamento">
+		<name normalized="Departemen Quindio" languages="Indonesian">Departemen Quindío</name>
+		<name normalized="Dipartimento di Quindio" languages="Italian">Dipartimento di Quindío</name>
+		<name normalized="Kagawaran ng Quindio" languages="Tagalog">Kagawaran ng Quindío</name>
+		<name normalized="Kindijo departamentas" languages="Lithuanian">Kindijo departamentas</name>
+		<name normalized="Kindio" languages="Esperanto">Kindio</name>
+		<name normalized="Kendeja departaments" languages="Samogitian">Kėndėja departaments</name>
+		<name normalized="Pentadbiran Quindio" languages="Malay">Pentadbiran Quindío</name>
+		<name normalized="Quindio" languages="English;official">Quindio</name>
+		<name normalized="Quindio Departamento" languages="English;official">Quindio Departamento</name>
+		<name normalized="Quindio Department" languages="English;official">Quindio Department</name>
+		<name normalized="Quindio" languages="Basque;Breton;Catalan;Croatian;Dutch;Finnish;French;German;Norwegian (bokmal);Occitan;Polish;Portuguese;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Vietnamese;Waray">Quindío</name>
+		<name normalized="Quindio Department" languages="English;Yoruba">Quindío Department</name>
+		<name normalized="Quindio suyu" languages="Quechua">Quindío suyu</name>
+		<name normalized="Kiнdio" languages="Bulgarian;Russian">Киндио</name>
+		<name normalized="Kiнdio" languages="Ukrainian">Кіндіо</name>
+		<name normalized="کوندیو ڈیpאrٹmنٹ" languages="Western Punjabi">کوندیو ڈیپارٹمنٹ</name>
+		<name normalized="კინდიოს დეპარტამენტი" languages="Georgian">კინდიოს დეპარტამენტი</name>
+		<name normalized="kndio県" languages="Japanese">キンディオ県</name>
+		<name normalized="金迪奥省" languages="Chinese">金迪奥省</name>
+		<name normalized="킨디오 주" languages="Korean">킨디오 주</name>
+	</region>
+	<region name="Risaralda" type="department" typeTranslated="departamento">
+		<name normalized="Departamento de Risaralda" languages="German">Departamento de Risaralda</name>
+		<name normalized="Departemen Risaralda" languages="Indonesian">Departemen Risaralda</name>
+		<name normalized="Dipartimento di Risaralda" languages="Italian">Dipartimento di Risaralda</name>
+		<name normalized="Pentadbiran Risaralda" languages="Malay">Pentadbiran Risaralda</name>
+		<name normalized="Risaralda" languages="Basque;Breton;Catalan;Croatian;Dutch;English;Finnish;French;Italian;Norwegian (bokmal);Occitan;official;Polish;Portuguese;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Vietnamese;Waray">Risaralda</name>
+		<name normalized="Risaralda Departamento" languages="English;official">Risaralda Departamento</name>
+		<name normalized="Risaralda Department" languages="English;official;Yoruba">Risaralda Department</name>
+		<name normalized="Risaralda suyu" languages="Quechua">Risaralda suyu</name>
+		<name normalized="Risaraldo" languages="Esperanto">Risaraldo</name>
+		<name normalized="Risaraldos departamentas" languages="Lithuanian">Risaraldos departamentas</name>
+		<name normalized="Resaraldas departaments" languages="Samogitian">Rėsaraldas departaments</name>
+		<name normalized="Рiсaрaлda" languages="Bulgarian">Рисаралда</name>
+		<name normalized="Рiсaрaльda" languages="Russian">Рисаральда</name>
+		<name normalized="Рiсaрaльda" languages="Ukrainian">Рісаральда</name>
+		<name normalized="rیسrאلدא ڈیpאrٹmنٹ" languages="Western Punjabi">ریسرالدا ڈیپارٹمنٹ</name>
+		<name normalized="რისარალდის დეპარტამენტი" languages="Georgian">რისარალდის დეპარტამენტი</name>
+		<name normalized="rsrrd県" languages="Japanese">リサラルダ県</name>
+		<name normalized="里萨拉尔达省" languages="Chinese">里萨拉尔达省</name>
+		<name normalized="리사랄다 주" languages="Korean">리사랄다 주</name>
+	</region>
+	<region name="Santander" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Santander" languages="Catalan">Departament de Santander</name>
+		<name normalized="Departamento de Santander" languages="German">Departamento de Santander</name>
+		<name normalized="Departemen Santander" languages="Indonesian">Departemen Santander</name>
+		<name normalized="Dipartimento di Santander" languages="Italian">Dipartimento di Santander</name>
+		<name normalized="Kagawaran ng Santander" languages="Tagalog">Kagawaran ng Santander</name>
+		<name normalized="Pentadbiran Santander" languages="Malay">Pentadbiran Santander</name>
+		<name normalized="Santander" languages="Basque;Breton;Dutch;English;Finnish;French;Galician;Norwegian (bokmal);official;Polish;Portuguese;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Waray">Santander</name>
+		<name normalized="Santander Departamento" languages="English;official">Santander Departamento</name>
+		<name normalized="Santander Department" languages="English;official;Yoruba">Santander Department</name>
+		<name normalized="Santander suyu" languages="Quechua">Santander suyu</name>
+		<name normalized="Santandera departaments" languages="Samogitian">Santandera departaments</name>
+		<name normalized="Santandero" languages="Esperanto">Santandero</name>
+		<name normalized="Santandero departamentas" languages="Lithuanian">Santandero departamentas</name>
+		<name normalized="Διαμeρισμα Σανταντeρ" languages="Greek">Διαμέρισμα Σανταντέρ</name>
+		<name normalized="Сaнtaнdiр" languages="Bulgarian;Russian;Ukrainian">Сантандер</name>
+		<name normalized="سאنtאندr ڈیpאrٹmنٹ" languages="Western Punjabi">سانتاندر ڈیپارٹمنٹ</name>
+		<name normalized="სანტანდერის დეპარტამენტი" languages="Georgian">სანტანდერის დეპარტამენტი</name>
+		<name normalized="sntndーr県" languages="Japanese">サンタンデール県</name>
+		<name normalized="桑坦德省" languages="Chinese">桑坦德省</name>
+		<name normalized="산탄데르 주" languages="Korean">산탄데르 주</name>
+	</region>
+	<region name="Sucre" type="department" typeTranslated="departamento">
+		<name normalized="Departament de Sucre" languages="Catalan">Departament de Sucre</name>
+		<name normalized="Departamento de Sucre" languages="German">Departamento de Sucre</name>
+		<name normalized="Departemen Sucre" languages="Indonesian">Departemen Sucre</name>
+		<name normalized="Dipartimento di Sucre" languages="Italian">Dipartimento di Sucre</name>
+		<name normalized="Kagawaran ng Sucre" languages="Tagalog">Kagawaran ng Sucre</name>
+		<name normalized="Pentadbiran Sucre" languages="Malay">Pentadbiran Sucre</name>
+		<name normalized="Sokres departaments" languages="Samogitian">Sokrės departaments</name>
+		<name normalized="Sucre" languages="Breton;Dutch;English;Finnish;French;Norwegian (bokmal);official;Polish;Portuguese;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Waray">Sucre</name>
+		<name normalized="Sucre departamendua" languages="Basque">Sucre departamendua</name>
+		<name normalized="Sucre Departamento" languages="English;official">Sucre Departamento</name>
+		<name normalized="Sucre Department" languages="English;official;Yoruba">Sucre Department</name>
+		<name normalized="Sucre suyu" languages="Quechua">Sucre suyu</name>
+		<name normalized="Sukreo" languages="Esperanto">Sukreo</name>
+		<name normalized="Sukres departamentas" languages="Lithuanian">Sukrės departamentas</name>
+		<name normalized="Сukрi" languages="Bulgarian;Russian;Ukrainian">Сукре</name>
+		<name normalized="سکrے ڈیpאrٹmنٹ" languages="Western Punjabi">سکرے ڈیپارٹمنٹ</name>
+		<name normalized="სუკრეს დეპარტამენტი" languages="Georgian">სუკრეს დეპარტამენტი</name>
+		<name normalized="skr県" languages="Japanese">スクレ県</name>
+		<name normalized="苏克雷省" languages="Chinese">苏克雷省</name>
+		<name normalized="수크레 주" languages="Korean">수크레 주</name>
+	</region>
+	<region name="Tolima" type="department" typeTranslated="departamento">
+		<name normalized="Departemen Tolima" languages="Indonesian">Departemen Tolima</name>
+		<name normalized="Dipartimento di Tolima" languages="Italian">Dipartimento di Tolima</name>
+		<name normalized="Pentadbiran Tolima" languages="Malay">Pentadbiran Tolima</name>
+		<name normalized="Tolima" languages="Basque;Breton;Catalan;Dutch;English;Esperanto;Finnish;French;German;Interlingua;Nahuatl;Norwegian (bokmal);official;Polish;Portuguese;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Vietnamese;Waray">Tolima</name>
+		<name normalized="Tolima Departamento" languages="English;official">Tolima Departamento</name>
+		<name normalized="Tolima Department" languages="English;official;Yoruba">Tolima Department</name>
+		<name normalized="Tolima suyu" languages="Quechua">Tolima suyu</name>
+		<name normalized="Tolimo" languages="Esperanto">Tolimo</name>
+		<name normalized="Tolimos departamentas" languages="Lithuanian">Tolimos departamentas</name>
+		<name normalized="Tuolemas departaments" languages="Samogitian">Tuolėmas departaments</name>
+		<name normalized="Διαμeρισμα Τολιμα" languages="Greek">Διαμέρισμα Τολίμα</name>
+		<name normalized="Toлiмa" languages="Bulgarian;Russian">Толима</name>
+		<name normalized="Toлiмa" languages="Ukrainian">Толіма</name>
+		<name normalized="tولیmא ڈیpאrٹmنٹ" languages="Western Punjabi">تولیما ڈیپارٹمنٹ</name>
+		<name normalized="ტოლიმის დეპარტამენტი" languages="Georgian">ტოლიმის დეპარტამენტი</name>
+		<name normalized="trm県" languages="Japanese">トリマ県</name>
+		<name normalized="托利马省" languages="Chinese">托利马省</name>
+		<name normalized="톨리마 주" languages="Korean">톨리마 주</name>
+	</region>
+	<region name="Valle del Cauca" type="department" typeTranslated="departamento">
+		<name normalized="Departemen Valle del Cauca" languages="Indonesian">Departemen Valle del Cauca</name>
+		<name normalized="Dipartimento di Valle del Cauca" languages="Italian">Dipartimento di Valle del Cauca</name>
+		<name normalized="Kagawaran ng Valle del Cauca" languages="Tagalog">Kagawaran ng Valle del Cauca</name>
+		<name normalized="Pentadbiran Valle del Cauca" languages="Malay">Pentadbiran Valle del Cauca</name>
+		<name normalized="Valje del Kaukas departaments" languages="Samogitian">Valje del Kaukas departaments</name>
+		<name normalized="Valje del Kaukos departamentas" languages="Lithuanian">Valje del Kaukos departamentas</name>
+		<name normalized="Valle del Cauca" languages="Asturian;Basque;Breton;Catalan;Dutch;English;Finnish;French;German;Norwegian (bokmal);Occitan;official;Polish;Portuguese;Scots;Scottish Gaelic;Simple English;Spanish;Swedish;Turkish;Vietnamese;Waray">Valle del Cauca</name>
+		<name normalized="Valle del Cauca Departamento" languages="English;official">Valle del Cauca Departamento</name>
+		<name normalized="Valle del Cauca Department" languages="English;official;Yoruba">Valle del Cauca Department</name>
+		<name normalized="Valle del Cauca suyu" languages="Quechua">Valle del Cauca suyu</name>
+		<name normalized="Valo de Kauko" languages="Esperanto">Valo de Kaŭko</name>
+		<name normalized="Vaлi diл Kauka" languages="Bulgarian">Вале дел Каука</name>
+		<name normalized="Vaльi-diль-Kauka" languages="Russian">Валье-дель-Каука</name>
+		<name normalized="Vaльe-diль-Kauka" languages="Ukrainian">Вальє-дель-Каука</name>
+		<name normalized="ویلא دیل کوکא ڈیpאrٹmنٹ" languages="Western Punjabi">ویلا دیل کوکا ڈیپارٹمنٹ</name>
+		<name normalized="ვალიე-დელ-კაუკის დეპარტამენტი" languages="Georgian">ვალიე-დელ-კაუკის დეპარტამენტი</name>
+		<name normalized="bze・dr・kuk県" languages="Japanese">バジェ・デル・カウカ県</name>
+		<name normalized="考卡山谷省" languages="Chinese">考卡山谷省</name>
+		<name normalized="바예델카우카 주" languages="Korean">바예델카우카 주</name>
+	</region>
+	<region name="Vaupes" type="department" typeTranslated="departamento">
+		<name normalized="Departamento del Vaupes" languages="German">Departamento del Vaupés</name>
+		<name normalized="Departemen Vaupes" languages="Indonesian">Departemen Vaupés</name>
+		<name normalized="Dipartimento di Vaupes" languages="Italian">Dipartimento di Vaupés</name>
+		<name normalized="Pentadbiran Vaupes" languages="Malay">Pentadbiran Vaupés</name>
+		<name normalized="Vaupes" languages="English;official">Vaupes</name>
+		<name normalized="Vaupes Departamento" languages="English;official">Vaupes Departamento</name>
+		<name normalized="Vaupes Department" languages="English;official">Vaupes Department</name>
+		<name normalized="Vaupesa departaments" languages="Samogitian">Vaupesa departaments</name>
+		<name normalized="Vaupeso departamentas" languages="Lithuanian">Vaupeso departamentas</name>
+		<name normalized="Vaupes" languages="Basque;Breton;Catalan;Czech;Dutch;English;Finnish;French;German;Italian;Norwegian (bokmal);Polish;Portuguese;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Waray">Vaupés</name>
+		<name normalized="Vaupes Department" languages="English;Yoruba">Vaupés Department</name>
+		<name normalized="Vaupes suyu" languages="Quechua">Vaupés suyu</name>
+		<name normalized="Vaupeso" languages="Esperanto">Vaŭpeso</name>
+		<name normalized="Vaupiс" languages="Bulgarian;Russian;Ukrainian">Ваупес</name>
+		<name normalized="وאؤpیس ڈیpאٹmنٹ" languages="Western Punjabi">واؤپیس ڈیپاٹمنٹ</name>
+		<name normalized="ვაუპესის დეპარტამენტი" languages="Georgian">ვაუპესის დეპარტამენტი</name>
+		<name normalized="bups県" languages="Japanese">バウペス県</name>
+		<name normalized="沃佩斯省" languages="Chinese">沃佩斯省</name>
+		<name normalized="바우페스 주" languages="Korean">바우페스 주</name>
+	</region>
+	<region name="Vichada" type="department" typeTranslated="departamento">
+		<name normalized="Departemen Vichada" languages="Indonesian">Departemen Vichada</name>
+		<name normalized="Dipartimento di Vichada" languages="Italian">Dipartimento di Vichada</name>
+		<name normalized="Pentadbiran Vichada" languages="Malay">Pentadbiran Vichada</name>
+		<name normalized="Vichada" languages="Basque;Breton;Catalan;Dutch;English;Finnish;French;German;Ladino;Norwegian (bokmal);official;Polish;Portuguese;Scots;Scottish Gaelic;Spanish;Swedish;Turkish;Waray">Vichada</name>
+		<name normalized="Vichada Departamento" languages="English;official">Vichada Departamento</name>
+		<name normalized="Vichada Department" languages="English;official;Yoruba">Vichada Department</name>
+		<name normalized="Vichada suyu" languages="Quechua">Vichada suyu</name>
+		<name normalized="Vicado" languages="Esperanto">Viĉado</name>
+		<name normalized="Vicados departamentas" languages="Lithuanian">Vičados departamentas</name>
+		<name normalized="Vetadas departaments" languages="Samogitian">Vėtadas departaments</name>
+		<name normalized="Vicada" languages="Bulgarian;Russian">Вичада</name>
+		<name normalized="ویچאدא دیpאrٹmنٹ" languages="Western Punjabi">ویچادا دیپارٹمنٹ</name>
+		<name normalized="ვიჩადის დეპარტამენტი" languages="Georgian">ვიჩადის დეპარტამენტი</name>
+		<name normalized="btyーd県" languages="Japanese">ビチャーダ県</name>
+		<name normalized="比查达省" languages="Chinese">比查达省</name>
+		<name normalized="비차다 주" languages="Korean">비차다 주</name>
+	</region>
+</regions>

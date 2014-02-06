@@ -1,0 +1,102 @@
+<regions country="Samoa">
+	<region name="A'ana" type="district" typeTranslated="district">
+		<name normalized="A'ana" languages="Dutch;English;French;Italian;Norwegian (bokmal);official;Polish;Spanish">A'ana</name>
+		<name normalized="A'ana District" languages="English;official">A'ana District</name>
+		<name normalized="Aana" languages="English;Latin;official">Aana</name>
+		<name normalized="Aana District" languages="English;official">Aana District</name>
+		<name normalized="A'ana" languages="Slovak">A’ana</name>
+		<name normalized="Αανα" languages="Greek">Άανα</name>
+		<name normalized="Aaнa" languages="Hill Mari;Russian">Аана</name>
+		<name normalized="阿纳" languages="Chinese">阿纳</name>
+		<name normalized="아아나 구" languages="Korean">아아나 구</name>
+	</region>
+	<region name="Aiga-i-le-Tai" type="district" typeTranslated="district">
+		<name normalized="Aiga-i-le-Tai" languages="Dutch;English;French;Hawaiian;Italian;Latin;Norwegian (bokmal);official;Polish;Slovak;Spanish">Aiga-i-le-Tai</name>
+		<name normalized="Aiga-i-le-Tai District" languages="English;official">Aiga-i-le-Tai District</name>
+		<name normalized="Αιγκα-ι-λε-Ται" languages="Greek">Αϊγκα-ι-λε-Τάι</name>
+		<name normalized="Aiga-i-лi-Tai" languages="Hill Mari;Russian">Аига-и-ле-Таи</name>
+		<name normalized="艾加伊勒泰" languages="Chinese">艾加伊勒泰</name>
+		<name normalized="아이가이레타이 구" languages="Korean">아이가이레타이 구</name>
+	</region>
+	<region name="Atua" type="district" typeTranslated="district">
+		<name normalized="Atua" languages="Catalan;Dutch;English;French;Italian;Latin;Norwegian (bokmal);official;Polish;Samoan;Slovak;Spanish;Tahitian">Atua</name>
+		<name normalized="Atua District" languages="English;official">Atua District</name>
+		<name normalized="Ατουα" languages="Greek">Άτουα</name>
+		<name normalized="Atua" languages="Hill Mari;Russian">Атуа</name>
+		<name normalized="阿图阿" languages="Chinese">阿图阿</name>
+		<name normalized="아투아 구" languages="Korean">아투아 구</name>
+	</region>
+	<region name="Fa'asaleleaga" type="district" typeTranslated="district">
+		<name normalized="Fa'asaleleaga" languages="Dutch;English;French;Italian;Norwegian (bokmal);official;Polish;Spanish">Fa'asaleleaga</name>
+		<name normalized="Fa'asaleleaga District" languages="English;official">Fa'asaleleaga District</name>
+		<name normalized="Faasaleleaga" languages="English;Latin;official">Faasaleleaga</name>
+		<name normalized="Faasaleleaga District" languages="English;official">Faasaleleaga District</name>
+		<name normalized="Fa'asaleleaga" languages="Finnish;Slovak">Fa’asaleleaga</name>
+		<name normalized="Φαασαλελεαγκα" languages="Greek">Φάασαλελεαγκα</name>
+		<name normalized="Фaaсaлiлiaga" languages="Hill Mari;Russian">Фаасалелеага</name>
+		<name normalized="파아살렐레아가 구" languages="Korean">파아살렐레아가 구</name>
+	</region>
+	<region name="Gaga'emauga" type="district" typeTranslated="district">
+		<name normalized="Gaga'emauga" languages="Dutch;English;French;Italian;Norwegian (bokmal);official;Polish;Spanish">Gaga'emauga</name>
+		<name normalized="Gaga'emauga District" languages="English;official">Gaga'emauga District</name>
+		<name normalized="Gagaemauga" languages="English;Latin;official">Gagaemauga</name>
+		<name normalized="Gagaemauga District" languages="English;official">Gagaemauga District</name>
+		<name normalized="Gaga'emauga" languages="Slovak">Gaga’emauga</name>
+		<name normalized="Γκαγκαεμαουγκα" languages="Greek">Γκαγκάεμαουγκα</name>
+		<name normalized="Gagaeмauga" languages="Hill Mari;Russian">Гагаэмауга</name>
+		<name normalized="가가에마우가 구" languages="Korean">가가에마우가 구</name>
+	</region>
+	<region name="Gagaifomauga" type="district" typeTranslated="district">
+		<name normalized="Gaga'ifomauga" languages="Dutch;English;French;Italian;Norwegian (bokmal);Polish;Spanish">Gaga'ifomauga</name>
+		<name normalized="Gagaifomauga" languages="English;Latin;official">Gagaifomauga</name>
+		<name normalized="Gagaifomauga District" languages="English;official">Gagaifomauga District</name>
+		<name normalized="Gaga'ifomauga" languages="Slovak">Gaga’ifomauga</name>
+		<name normalized="Γκαγκαιφομαουγκα" languages="Greek">Γκαγκάιφομαουγκα</name>
+		<name normalized="Gagaiфoмauga" languages="Hill Mari;Russian">Гагаифомауга</name>
+		<name normalized="가가이포마우가 구" languages="Korean">가가이포마우가 구</name>
+	</region>
+	<region name="Palauli" type="district" typeTranslated="district">
+		<name normalized="Palauli" languages="Asturian;Dutch;English;French;Italian;Latin;Norwegian (bokmal);official;Polish;Samoan;Slovak;Spanish">Palauli</name>
+		<name normalized="Palauli District" languages="English;official">Palauli District</name>
+		<name normalized="Παλαουλι" languages="Greek">Παλάουλι</name>
+		<name normalized="Paлauлi" languages="Hill Mari;Russian">Палаули</name>
+		<name normalized="팔라울리 구" languages="Korean">팔라울리 구</name>
+	</region>
+	<region name="Satupa'itea" type="district" typeTranslated="district">
+		<name normalized="Satupa'itea" languages="Dutch;English;French;Italian;Norwegian (bokmal);official;Polish;Spanish">Satupa'itea</name>
+		<name normalized="Satupa'itea District" languages="English;official">Satupa'itea District</name>
+		<name normalized="Satupaitea" languages="English;Latin;official">Satupaitea</name>
+		<name normalized="Satupaitea District" languages="English;official">Satupaitea District</name>
+		<name normalized="Satupa'itea" languages="Slovak">Satupa’itea</name>
+		<name normalized="Σατουπαιτεα" languages="Greek">Σατουπάιτεα</name>
+		<name normalized="Сatupaitia" languages="Hill Mari;Russian">Сатупаитеа</name>
+		<name normalized="사투파이테아 구" languages="Korean">사투파이테아 구</name>
+	</region>
+	<region name="Tuamasaga" type="district" typeTranslated="district">
+		<name normalized="Tuamasaga" languages="Dutch;English;Finnish;French;Italian;Latin;Norwegian (bokmal);official;Polish;Slovak;Spanish">Tuamasaga</name>
+		<name normalized="Tuamasaga District" languages="English;official">Tuamasaga District</name>
+		<name normalized="Τουαμασαγκα" languages="Greek">Τουαμασάγκα</name>
+		<name normalized="Tuaмaсaga" languages="Hill Mari;Russian">Туамасага</name>
+		<name normalized="图阿马萨加" languages="Chinese">图阿马萨加</name>
+		<name normalized="투아마사가 구" languages="Korean">투아마사가 구</name>
+	</region>
+	<region name="Va'a-o-Fonoti" type="district" typeTranslated="district">
+		<name normalized="Va'a-o-Fonoti" languages="Dutch;English;French;Italian;Norwegian (bokmal);official;Polish;Spanish">Va'a-o-Fonoti</name>
+		<name normalized="Va'a-o-Fonoti District" languages="English;official">Va'a-o-Fonoti District</name>
+		<name normalized="Vaa-o-Fonoti" languages="English;Latin;official">Vaa-o-Fonoti</name>
+		<name normalized="Vaa-o-Fonoti District" languages="English;official">Vaa-o-Fonoti District</name>
+		<name normalized="Va'a-o-Fonoti" languages="Slovak">Va’a-o-Fonoti</name>
+		<name normalized="Βαα-ο-Φονοτι" languages="Greek">Βάα-ο-Φονότι</name>
+		<name normalized="Vaa-o-Фoнoti" languages="Hill Mari;Russian">Ваа-о-Фоноти</name>
+		<name normalized="瓦奥福诺蒂" languages="Chinese">瓦奥福诺蒂</name>
+		<name normalized="바아오포노티 구" languages="Korean">바아오포노티 구</name>
+	</region>
+	<region name="Vaisigano" type="district" typeTranslated="district">
+		<name normalized="Itu Asau" languages="Latin">Itu Asau</name>
+		<name normalized="Vaisigano" languages="Dutch;English;French;Italian;Norwegian (bokmal);official;Polish;Slovak;Spanish">Vaisigano</name>
+		<name normalized="Vaisigano District" languages="English;official">Vaisigano District</name>
+		<name normalized="Βαισιγκανο" languages="Greek">Βαϊσιγκάνο</name>
+		<name normalized="Vaiсigaнo" languages="Hill Mari;Russian">Ваисигано</name>
+		<name normalized="바이시가노 구" languages="Korean">바이시가노 구</name>
+	</region>
+</regions>

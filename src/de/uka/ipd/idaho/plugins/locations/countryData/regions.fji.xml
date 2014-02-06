@@ -1,0 +1,90 @@
+<regions country="Fiji">
+	<region name="Central" type="division" typeTranslated="division">
+		<name normalized="Central" languages="Dutch;English;French;German;Italian;official;Polish;Portuguese;Simple English;Spanish;Swedish;Vietnamese;Volapuk">Central</name>
+		<name normalized="Central Division" languages="English;Fiji Hindi;German;official">Central Division</name>
+		<name normalized="Centrala divisionen" languages="Swedish">Centrala divisionen</name>
+		<name normalized="Centrinis Fidzio padalinys" languages="Lithuanian">Centrinis Fidžio padalinys</name>
+		<name normalized="Division centrale" languages="French">Division centrale</name>
+		<name normalized="Divisione Centrale" languages="Italian">Divisione Centrale</name>
+		<name normalized="Division Central" languages="Galician;Spanish">División Central</name>
+		<name normalized="Divisao Central" languages="Portuguese">Divisão Central</name>
+		<name normalized="Diviziunea Centrala" languages="Romanian">Diviziunea Centrală</name>
+		<name normalized="Dystrykt Centralny" languages="Polish">Dystrykt Centralny</name>
+		<name normalized="Khu vuc Trung tam" languages="Vietnamese">Khu vực Trung tâm</name>
+		<name normalized="Сiнtрaл" languages="Serbian">Сентрал</name>
+		<name normalized="Tiнtрaль" languages="Russian">Централь</name>
+		<name normalized="Tiнtрaльный okрug" languages="Russian">Центральный округ</name>
+		<name normalized="mrکزی" languages="Persian">مرکزی</name>
+		<name normalized="sen্ট্rাl" languages="Bishnupria Manipuri">সেন্ট্রাল</name>
+		<name normalized="சென்ட்ரல்" languages="Tamil">சென்ட்ரல்</name>
+		<name normalized="กลาง" languages="Thai">กลาง</name>
+		<name normalized="sntrr" languages="Japanese">セントラル</name>
+		<name normalized="中" languages="Chinese;Gan">中</name>
+		<name normalized="中央大区" languages="Chinese">中央大区</name>
+		<name normalized="센트럴" languages="Korean">센트럴</name>
+		<name normalized="중부 지방" languages="Korean">중부 지방</name>
+	</region>
+	<region name="Eastern" type="division" typeTranslated="division">
+		<name normalized="Division orientale" languages="French">Division orientale</name>
+		<name normalized="Divisione Orientale" languages="Italian">Divisione Orientale</name>
+		<name normalized="Division Este" languages="Spanish">División Este</name>
+		<name normalized="Division Oriental" languages="Galician">División Oriental</name>
+		<name normalized="Divisao do Leste" languages="Portuguese">Divisão do Leste</name>
+		<name normalized="Dystrykt Wschodni" languages="Polish">Dystrykt Wschodni</name>
+		<name normalized="Eastern" languages="Dutch;English;German;official;Polish;Portuguese;Swedish">Eastern</name>
+		<name normalized="Eastern Division" languages="English;Fiji Hindi;German;official">Eastern Division</name>
+		<name normalized="Khu vuc Dong" languages="Vietnamese">Khu vực Đông</name>
+		<name normalized="Phuong Dong" languages="Vietnamese">Phương Đông</name>
+		<name normalized="Rytinis Fidzio padalinys" languages="Lithuanian">Rytinis Fidžio padalinys</name>
+		<name normalized="Ostra divisionen" languages="Swedish">Östra divisionen</name>
+		<name normalized="Voсtocный okрug" languages="Russian">Восточный округ</name>
+		<name normalized="iーstn" languages="Japanese">イースタン</name>
+		<name normalized="东部大区" languages="Chinese">东部大区</name>
+		<name normalized="동부 지방" languages="Korean">동부 지방</name>
+	</region>
+	<region name="Northern" type="division" typeTranslated="division">
+		<name normalized="Division septentrionale" languages="French">Division septentrionale</name>
+		<name normalized="Divisione Nord" languages="Italian">Divisione Nord</name>
+		<name normalized="Division Norte" languages="Galician;Spanish">División Norte</name>
+		<name normalized="Divisao do Norte" languages="Portuguese">Divisão do Norte</name>
+		<name normalized="Dystrykt Polnocny" languages="Polish">Dystrykt Północny</name>
+		<name normalized="Khu vuc Bac" languages="Vietnamese">Khu vực Bắc</name>
+		<name normalized="Norra divisionen" languages="Swedish">Norra divisionen</name>
+		<name normalized="Northern" languages="Breton;Dutch;English;French;German;official;Polish;Portuguese;Swedish">Northern</name>
+		<name normalized="Northern Division" languages="English;Fiji Hindi;German;official">Northern Division</name>
+		<name normalized="Siaurinis Fidzio padalinys" languages="Lithuanian">Šiaurinis Fidžio padalinys</name>
+		<name normalized="Сiviрный okрug" languages="Russian">Северный округ</name>
+		<name normalized="北部大区" languages="Chinese">北部大区</name>
+		<name normalized="북부 지방" languages="Korean">북부 지방</name>
+	</region>
+	<region name="Rotuma" type="dependency" typeTranslated="dependency">
+		<name normalized="Lotuma" languages="Tongan">Lotuma</name>
+		<name normalized="Rotuma" languages="Achinese;Basque;Catalan;Czech;Dutch;English;Finnish;French;Galician;German;Icelandic;Italian;Lithuanian;Norwegian (bokmal);official;Polish;Portuguese;Samoan;Simple English;Spanish;Swedish;Vietnamese;Yoruba">Rotuma</name>
+		<name normalized="Рotuмa" languages="Russian;Serbian;Ukrainian">Ротума</name>
+		<name normalized="rوtوmא" languages="Persian">روتوما</name>
+		<name normalized="ரொட்டுமா" languages="Tamil">ரொட்டுமா</name>
+		<name normalized="როტუმა" languages="Georgian">როტუმა</name>
+		<name normalized="罗图马岛" languages="Chinese">罗图马岛</name>
+		<name normalized="로투마 섬" languages="Korean">로투마 섬</name>
+	</region>
+	<region name="Western" type="division" typeTranslated="division">
+		<name normalized="Division occidentale" languages="French">Division occidentale</name>
+		<name normalized="Divisione Occidentale" languages="Italian">Divisione Occidentale</name>
+		<name normalized="Division Occidental" languages="Galician">División Occidental</name>
+		<name normalized="Division Oeste" languages="Spanish">División Oeste</name>
+		<name normalized="Divisao do Oeste" languages="Portuguese">Divisão do Oeste</name>
+		<name normalized="Dystrykt Zachodni" languages="Polish">Dystrykt Zachodni</name>
+		<name normalized="Khu vuc Tay" languages="Vietnamese">Khu vực Tây</name>
+		<name normalized="Phuong Tay" languages="Vietnamese">Phương Tây</name>
+		<name normalized="Vakarinis Fidzio padalinys" languages="Lithuanian">Vakarinis Fidžio padalinys</name>
+		<name normalized="Vastra divisionen" languages="Swedish">Västra divisionen</name>
+		<name normalized="Western" languages="Danish;Dutch;English;French;Galician;German;Italian;official;Polish;Portuguese;Simple English;Spanish;Swedish">Western</name>
+		<name normalized="Western Division" languages="English;Fiji Hindi;German;official">Western Division</name>
+		<name normalized="Zapadный okрug" languages="Russian">Западный округ</name>
+		<name normalized="Ueсtiрн" languages="Russian">Уэстерн</name>
+		<name normalized="وسtrن" languages="Persian">وسترن</name>
+		<name normalized="uestn" languages="Japanese">ウエスタン</name>
+		<name normalized="西部大区" languages="Chinese">西部大区</name>
+		<name normalized="서부 지방" languages="Korean">서부 지방</name>
+	</region>
+</regions>

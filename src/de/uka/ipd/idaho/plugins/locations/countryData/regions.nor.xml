@@ -1,0 +1,518 @@
+<regions country="Norway">
+	<region name="Akershus" type="county" typeTranslated="fylke">
+		<name normalized="Acherhusia" languages="Latin">Acherhusia</name>
+		<name normalized="Akershus" languages="Afrikaans;Albanian;Basque;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;German;Indonesian;Italian;Malay;Nauru;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Simple English;Slovak;Slovenian;Spanish;Swahili;Turkish;Vietnamese;Waray">Akershus</name>
+		<name normalized="Akershus County" languages="English;official">Akershus County</name>
+		<name normalized="Akershus fylke" languages="English;Norwegian Nynorsk;official;Swedish">Akershus fylke</name>
+		<name normalized="Akershus megye" languages="Hungarian">Akershus megye</name>
+		<name normalized="Akershusa fylka" languages="Northern Sami">Akershusa fylka</name>
+		<name normalized="Akershusas" languages="Lithuanian">Akershusas</name>
+		<name normalized="Akershusin laani" languages="Finnish">Akershusin lääni</name>
+		<name normalized="Akeskiusos" languages="Samogitian">Akeškiūsos</name>
+		<name normalized="Akurshus" languages="Icelandic">Akurshús</name>
+		<name normalized="Amt Akershus" languages="Low German">Amt Akershus</name>
+		<name normalized="Comte d'Akershus" languages="French">Comté d'Akershus</name>
+		<name normalized="Akiрсguс" languages="Ukrainian">Акерсгус</name>
+		<name normalized="Akiрсkuс" languages="Belarusian;Chechen;Macedonian;Ossetic;Russian;Serbian;biлaрuсkai (taрaskivita)‎">Акерсхус</name>
+		<name normalized="Akiskuс" languages="Bulgarian">Акешхус</name>
+		<name normalized="אqrסhvס" languages="Hebrew">אקרסהוס</name>
+		<name normalized="آکrشوس" languages="Persian">آکرشوس</name>
+		<name normalized="אکrشس" languages="Western Punjabi">اکرشس</name>
+		<name normalized="akersus" languages="Bishnupria Manipuri">আকেরশুস</name>
+		<name normalized="აკერსჰუსი" languages="Georgian">აკერსჰუსი</name>
+		<name normalized="aーksyhーs県" languages="Japanese">アーケシュフース県</name>
+		<name normalized="阿克什胡斯郡" languages="Chinese">阿克什胡斯郡</name>
+		<name normalized="아케르스후스 주" languages="Korean">아케르스후스 주</name>
+	</region>
+	<region name="Aust-Agder" type="county" typeTranslated="fylke">
+		<name normalized="Agder orientalis" languages="Latin">Agder orientalis</name>
+		<name normalized="Amt Oost-Agder" languages="Low German">Amt Oost-Agder</name>
+		<name normalized="Aust-Agder" languages="Albanian;Basque;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;German;Indonesian;Italian;Nauru;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Slovenian;Spanish;Swahili;Turkish;Vietnamese;Waray">Aust-Agder</name>
+		<name normalized="Aust-Agder County" languages="English;official">Aust-Agder County</name>
+		<name normalized="Aust-Agder fylke" languages="English;Norwegian Nynorsk;official;Swedish">Aust-Agder fylke</name>
+		<name normalized="Aust-Agder megye" languages="Hungarian">Aust-Agder megye</name>
+		<name normalized="Austur-Agdir" languages="Icelandic">Austur-Agðir</name>
+		<name normalized="Comte d'Aust-Agder" languages="French">Comté d'Aust-Agder</name>
+		<name normalized="Ita-Agderin laani" languages="Finnish">Itä-Agderin lääni</name>
+		<name normalized="Nuorta-Agdera fylka" languages="Northern Sami">Nuorta-Agdera fylka</name>
+		<name normalized="Rytu Agderis" languages="Lithuanian">Rytų Agderis</name>
+		<name normalized="Ritu Agderis" languages="Samogitian">Rītū Agderis</name>
+		<name normalized="Auсt-Agdiр" languages="Bulgarian">Ауст-Агдер</name>
+		<name normalized="Iuсt-Agdiр" languages="Ukrainian">Еуст-Агдер</name>
+		<name normalized="Iсtociн Agdiр" languages="Macedonian">Источен Агдер</name>
+		<name normalized="Iсtocнi Agdiр" languages="Serbian">Источни Агдер</name>
+		<name normalized="Euсt-Agdiр" languages="Ossetic;Russian">Эуст-Агдер</name>
+		<name normalized="Eўсt-Agdeр" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Эўст-Агдэр</name>
+		<name normalized="אسٹאgڈr" languages="Western Punjabi">اسٹاگڈر</name>
+		<name normalized="אوسt آدr" languages="Persian">اوست آدر</name>
+		<name normalized="as্ট-ag্der" languages="Bishnupria Manipuri">ঔস্ট-অগ্দের</name>
+		<name normalized="ეუსტ-აგდერი" languages="Georgian">ეუსტ-აგდერი</name>
+		<name normalized="aust・agdr県" languages="Japanese">アウスト・アグデル県</name>
+		<name normalized="东阿格德尔郡" languages="Chinese">东阿格德尔郡</name>
+		<name normalized="에우스트아그데르 주" languages="Korean">에우스트아그데르 주</name>
+	</region>
+	<region name="Buskerud" type="county" typeTranslated="fylke">
+		<name normalized="Amt Buskerud" languages="Low German">Amt Buskerud</name>
+		<name normalized="Bioskeriuds" languages="Samogitian">Bioskeriuds</name>
+		<name normalized="Biuskeriudas" languages="Lithuanian">Biuskeriudas</name>
+		<name normalized="Buskerud" languages="Afrikaans;Albanian;Basque;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;German;Icelandic;Indonesian;Italian;Latin;Malay;Nauru;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Slovenian;Spanish;Swahili;Turkish;Vietnamese;Waray">Buskerud</name>
+		<name normalized="Buskerud County" languages="English;official">Buskerud County</name>
+		<name normalized="Buskerud fylke" languages="English;Norwegian Nynorsk;official;Swedish">Buskerud fylke</name>
+		<name normalized="Buskerud megye" languages="Hungarian">Buskerud megye</name>
+		<name normalized="Buskeruda fylka" languages="Northern Sami">Buskeruda fylka</name>
+		<name normalized="Buskerudin laani" languages="Finnish">Buskerudin lääni</name>
+		<name normalized="Comte de Buskerud" languages="French">Comté de Buskerud</name>
+		<name normalized="Buсkiрud" languages="Belarusian;Macedonian;Ossetic;Russian;Serbian;biлaрuсkai (taрaskivita)‎">Бускеруд</name>
+		<name normalized="Buсkiрюd" languages="Ukrainian">Бускерюд</name>
+		<name normalized="Bюсkiрю" languages="Bulgarian">Бюскерю</name>
+		<name normalized="bسکrڈ" languages="Western Punjabi">بسکرڈ</name>
+		<name normalized="bوسکrود" languages="Persian">بوسکرود</name>
+		<name normalized="bাskeruড" languages="Bishnupria Manipuri">বাসকেরুড</name>
+		<name normalized="เทศมณฑลบุสเครุด" languages="Thai">เทศมณฑลบุสเครุด</name>
+		<name normalized="ბუსკერუდი" languages="Georgian">ბუსკერუდი</name>
+		<name normalized="bskrー県" languages="Japanese">ブスケルー県</name>
+		<name normalized="布斯克吕郡" languages="Chinese">布斯克吕郡</name>
+		<name normalized="부스케르 주" languages="Korean">부스케르 주</name>
+	</region>
+	<region name="Finnmark" type="county" typeTranslated="fylke">
+		<name normalized="Amt Finnmark" languages="Low German">Amt Finnmark</name>
+		<name normalized="Comte de Finnmark" languages="French">Comté de Finnmark</name>
+		<name normalized="Finmarchia" languages="Latin">Finmarchia</name>
+		<name normalized="Finmarkas" languages="Lithuanian">Finmarkas</name>
+		<name normalized="Finnmark" languages="Afrikaans;Albanian;Basque;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;German;Indonesian;Italian;Nauru;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Slovak;Slovenian;Spanish;Swahili;Turkish;Vietnamese;Waray">Finnmark</name>
+		<name normalized="Finnmark County" languages="English;official">Finnmark County</name>
+		<name normalized="Finnmark fylke" languages="English;Faroese;Norwegian Nynorsk;official;Swedish">Finnmark fylke</name>
+		<name normalized="Finnmark megye" languages="Hungarian">Finnmark megye</name>
+		<name normalized="Finnmarkin laani" languages="Finnish">Finnmarkin lääni</name>
+		<name normalized="Finnmarkku fylka" languages="Northern Sami">Finnmárkku fylka</name>
+		<name normalized="Finnmork" languages="Icelandic">Finnmörk</name>
+		<name normalized="Fenmarks" languages="Samogitian">Fėnmarks</name>
+		<name normalized="Фiнмaрk" languages="Bulgarian;Macedonian;Serbian">Финмарк</name>
+		<name normalized="Фiннмaрk" languages="Ossetic;Russian">Финнмарк</name>
+		<name normalized="Фiнмaрk" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Фінмарк</name>
+		<name normalized="Фiннмaрk" languages="Ukrainian">Фіннмарк</name>
+		<name normalized="fنmאrک" languages="Western Punjabi">فنمارک</name>
+		<name normalized="fyنmאrk" languages="Arabic">فينمارك</name>
+		<name normalized="fینmאrک" languages="Persian">فینمارک</name>
+		<name normalized="pinmাr্k" languages="Bishnupria Manipuri">ফিনমার্ক</name>
+		<name normalized="เทศมณฑลฟินน์มาร์ก" languages="Thai">เทศมณฑลฟินน์มาร์ก</name>
+		<name normalized="ფინმარკი" languages="Georgian">ფინმარკი</name>
+		<name normalized="hinmrk県" languages="Japanese">フィンマルク県</name>
+		<name normalized="芬马克郡" languages="Chinese">芬马克郡</name>
+		<name normalized="핀마르크 주" languages="Korean">핀마르크 주</name>
+	</region>
+	<region name="Hedmark" type="county" typeTranslated="fylke">
+		<name normalized="Amt Hedmark" languages="Low German">Amt Hedmark</name>
+		<name normalized="Comte de Hedmark" languages="French">Comté de Hedmark</name>
+		<name normalized="Hedmark" languages="Afrikaans;Albanian;Basque;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;German;Indonesian;Italian;Nauru;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Slovenian;Spanish;Swahili;Vietnamese;Waray">Hedmark</name>
+		<name normalized="Hedmark County" languages="English;official">Hedmark County</name>
+		<name normalized="Hedmark fylke" languages="English;Norwegian Nynorsk;official;Swedish">Hedmark fylke</name>
+		<name normalized="Hedmark megye" languages="Hungarian">Hedmark megye</name>
+		<name normalized="Hedmarkas" languages="Lithuanian">Hedmarkas</name>
+		<name normalized="Hedmarkin laani" languages="Finnish">Hedmarkin lääni</name>
+		<name normalized="Hedmarks" languages="Samogitian">Hedmarks</name>
+		<name normalized="Hedmarkku fylka" languages="Northern Sami">Hedmárkku fylka</name>
+		<name normalized="Heidmork" languages="Icelandic">Heiðmörk</name>
+		<name normalized="Hetmarchia" languages="Latin">Hetmarchia</name>
+		<name normalized="Gidмaрk" languages="Ukrainian">Гедмарк</name>
+		<name normalized="Kidмaрk" languages="Belarusian;Bulgarian;Macedonian;Ossetic;Russian;Serbian;biлaрuсkai (taрaskivita)‎">Хедмарк</name>
+		<name normalized="hدmאrک" languages="Persian">هدمارک</name>
+		<name normalized="ہڈmאrک" languages="Western Punjabi">ہڈمارک</name>
+		<name normalized="heডmাr্k" languages="Bishnupria Manipuri">হেডমার্ক</name>
+		<name normalized="ხედმარკი" languages="Georgian">ხედმარკი</name>
+		<name normalized="hーdmrk県" languages="Japanese">ヘードマルク県</name>
+		<name normalized="海德马克郡" languages="Chinese">海德马克郡</name>
+		<name normalized="헤드마르크 주" languages="Korean">헤드마르크 주</name>
+	</region>
+	<region name="Hordaland" type="county" typeTranslated="fylke">
+		<name normalized="Amt Hordaland" languages="Low German">Amt Hordaland</name>
+		<name normalized="Comte de Hordaland" languages="French">Comté de Hordaland</name>
+		<name normalized="Heredaland" languages="Old English">Hereðaland</name>
+		<name normalized="Hordaland" languages="Afrikaans;Albanian;Basque;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;German;Indonesian;Italian;Latin;Nahuatl;Nauru;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Slovenian;Spanish;Swahili;Turkish;Vietnamese;Waray;Welsh">Hordaland</name>
+		<name normalized="Hordaland County" languages="English;official">Hordaland County</name>
+		<name normalized="Hordaland fylke" languages="English;Faroese;Norwegian Nynorsk;official;Swedish">Hordaland fylke</name>
+		<name normalized="Hordaland megye" languages="Hungarian">Hordaland megye</name>
+		<name normalized="Hordalandas" languages="Lithuanian">Hordalandas</name>
+		<name normalized="Hordalandin laani" languages="Finnish">Hordalandin lääni</name>
+		<name normalized="Hordalandda fylka" languages="Northern Sami">Hordalándda fylka</name>
+		<name normalized="Huordalands" languages="Samogitian">Huordalands</name>
+		<name normalized="Hordaland" languages="Icelandic">Hörðaland</name>
+		<name normalized="Goрdaлaн" languages="Ukrainian">Гордалан</name>
+		<name normalized="Koрdaлaн" languages="Belarusian;Bulgarian;Macedonian">Хордалан</name>
+		<name normalized="Koрdaлaнd" languages="Serbian">Хордаланд</name>
+		<name normalized="Koрdaлaнн" languages="Ossetic;Russian">Хордаланн</name>
+		<name normalized="Koрdaлiн" languages="biлaрuсkai (taрaskivita)‎">Хордалян</name>
+		<name normalized="hوrدאلאند" languages="Persian">هوردالاند</name>
+		<name normalized="ہאrڈאلینڈ" languages="Western Punjabi">ہارڈالینڈ</name>
+		<name normalized="hor্dlen্ড" languages="Bishnupria Manipuri">হোর্দলেন্ড</name>
+		<name normalized="ჰორდალანი" languages="Georgian">ჰორდალანი</name>
+		<name normalized="hrdrn県" languages="Japanese">ホルダラン県</name>
+		<name normalized="霍达兰郡" languages="Chinese">霍达兰郡</name>
+		<name normalized="호르달란 주" languages="Korean">호르달란 주</name>
+	</region>
+	<region name="More og Romsdal" type="county" typeTranslated="fylke">
+		<name normalized="Amt More un Romsdal" languages="Low German">Amt Møre un Romsdal</name>
+		<name normalized="Comte de More og Romsdal" languages="French">Comté de Møre og Romsdal</name>
+		<name normalized="Meore and Romsdael" languages="Old English">Meore and Romsdæl</name>
+		<name normalized="Miore ir Rumsdalis" languages="Lithuanian">Miorė ir Rumsdalis</name>
+		<name normalized="Miuore e Romsdalis" languages="Samogitian">Miuorė ė Romsdalis</name>
+		<name normalized="More og Romsdal" languages="English;official">More og Romsdal</name>
+		<name normalized="More og Romsdal County" languages="English;official">More og Romsdal County</name>
+		<name normalized="More og Romsdal Fylke" languages="English;official">More og Romsdal Fylke</name>
+		<name normalized="Moria et Romsdal" languages="Latin">Moria et Romsdal</name>
+		<name normalized="Maeri og Raumsdalur" languages="Icelandic">Mæri og Raumsdalur</name>
+		<name normalized="More ja Romsdala fylka" languages="Northern Sami">Møre ja Romsdála fylka</name>
+		<name normalized="More og Romsdal" languages="Albanian;Basque;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;German;Indonesian;Italian;Nauru;Norwegian (bokmal);Polish;Portuguese;Romanian;Scots;Slovenian;Spanish;Swahili;Turkish;Vietnamese;Waray">Møre og Romsdal</name>
+		<name normalized="More og Romsdal fylke" languages="Norwegian Nynorsk;Swedish">Møre og Romsdal fylke</name>
+		<name normalized="More og Romsdal megye" languages="Hungarian">Møre og Romsdal megye</name>
+		<name normalized="Moren ja Romsdalin laani" languages="Finnish">Møren ja Romsdalin lääni</name>
+		<name normalized="Мiрi og Рoмсdaл" languages="Serbian">Мере ог Ромсдал</name>
+		<name normalized="Мiрi og Рuмсdaл" languages="Macedonian">Мере ог Румсдал</name>
+		<name normalized="Мiрi-og-Рoмсdaл" languages="Ukrainian">Мере-ог-Ромсдал</name>
+		<name normalized="Мьoрi og Рoмсdaл" languages="Bulgarian">Мьоре ог Ромсдал</name>
+		<name normalized="Мёрi-og-Рoмсdaл" languages="Russian">Мёре-ог-Ромсдал</name>
+		<name normalized="Мёрi-og-Рuмсdaл" languages="Ossetic">Мёре-ог-Румсдал</name>
+		<name normalized="Мёрe-og-Рuмсdaл" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Мёрэ-ог-Румсдал</name>
+		<name normalized="mوr أو rوmyسدאل" languages="Arabic">مور أو روميسدال</name>
+		<name normalized="mوr אو rوmسدאل" languages="Persian">مور او رومسدال</name>
+		<name normalized="mوr אوg rوmزدیل" languages="Western Punjabi">مور اوگ رومزدیل</name>
+		<name normalized="mাre og rom্sডাl" languages="Bishnupria Manipuri">মারে ওগ রোম্সডাল</name>
+		<name normalized="მიორე-ოგ-რუმსდალი" languages="Georgian">მიორე-ოგ-რუმსდალი</name>
+		<name normalized="mーr・o・rmsdーr県" languages="Japanese">ムーレ・オ・ロムスダール県</name>
+		<name normalized="默勒-鲁姆斯达尔郡" languages="Chinese">默勒-鲁姆斯达尔郡</name>
+		<name normalized="뫼레오그롬스달 주" languages="Korean">뫼레오그롬스달 주</name>
+	</region>
+	<region name="Nord-Trondelag" type="county" typeTranslated="fylke">
+		<name normalized="Amt Noord-Trondelag" languages="Low German">Amt Noord-Trøndelag</name>
+		<name normalized="Comte de Nord-Trondelag" languages="French">Comté de Nord-Trøndelag</name>
+		<name normalized="County Nord-Trondelag" languages="English;official">County Nord-Trondelag</name>
+		<name normalized="Davvi-Trondelaga fylka" languages="Northern Sami">Davvi-Trøndelága fylka</name>
+		<name normalized="Nord-Trondelag" languages="English;official">Nord-Trondelag</name>
+		<name normalized="Nord-Trondelag" languages="Albanian;Basque;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Faroese;German;Indonesian;Italian;Nauru;Norwegian (bokmal);Polish;Portuguese;Romanian;Scots;Slovenian;Spanish;Swahili;Vietnamese;Waray">Nord-Trøndelag</name>
+		<name normalized="Nord-Trondelag fylke" languages="Norwegian Nynorsk;Swedish">Nord-Trøndelag fylke</name>
+		<name normalized="Nord-Trondelag megye" languages="Hungarian">Nord-Trøndelag megye</name>
+		<name normalized="Nordur-Traendalog" languages="Icelandic">Norður-Þrændalög</name>
+		<name normalized="Pohjois-Trondelagin laani" languages="Finnish">Pohjois-Trøndelagin lääni</name>
+		<name normalized="Trondelag septentrionalis" languages="Latin">Trøndelag septentrionalis</name>
+		<name normalized="Siaures Triondelagas" languages="Lithuanian">Šiaurės Triondelagas</name>
+		<name normalized="Siaures Triuondelags" languages="Samogitian">Šiaurės Triuondelags</name>
+		<name normalized="Нoр-Tрьoнiлag" languages="Bulgarian">Нор-Трьонелаг</name>
+		<name normalized="Нuр-Tрiнdiлag" languages="Ukrainian">Нур-Тренделаг</name>
+		<name normalized="Нuр-Tрoнdeлag" languages="Belarusian">Нур-Трондэлаг</name>
+		<name normalized="Нuр-Tрoнdeлig" languages="biлaрuсkai (taрaskivita)‎">Нур-Трондэляг</name>
+		<name normalized="Нuр-Tрёнdiлag" languages="Ossetic;Russian">Нур-Трёнделаг</name>
+		<name normalized="Сiviрiн Tрiнdiлag" languages="Macedonian">Северен Тренделаг</name>
+		<name normalized="Сiviрнi Tрiнdiлag" languages="Serbian">Северни Тренделаг</name>
+		<name normalized="نאrڈ ٹrنڈلیg" languages="Western Punjabi">نارڈ ٹرنڈلیگ</name>
+		<name normalized="نوrد trوندلאg" languages="Persian">نورد تروندلاگ</name>
+		<name normalized="nor্d-ট্rাn্ডelাg" languages="Bishnupria Manipuri">নোর্দ-ট্রান্ডেলাগ</name>
+		<name normalized="ნურ-ტრიონდელაგი" languages="Georgian">ნურ-ტრიონდელაგი</name>
+		<name normalized="nーr・trndrーg県" languages="Japanese">ヌール・トロンデラーグ県</name>
+		<name normalized="北特伦德拉格郡" languages="Chinese">北特伦德拉格郡</name>
+		<name normalized="노르트뢰넬라그 주" languages="Korean">노르트뢰넬라그 주</name>
+	</region>
+	<region name="Nordland" type="county" typeTranslated="fylke">
+		<name normalized="Amt Nordland" languages="Low German">Amt Nordland</name>
+		<name normalized="Comte de Nordland" languages="French">Comté de Nordland</name>
+		<name normalized="County Nordland" languages="English;official">County Nordland</name>
+		<name normalized="Nordland" languages="Afrikaans;Albanian;Basque;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;German;Indonesian;Italian;Latin;Nauru;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Slovak;Slovenian;Spanish;Swahili;Vietnamese;Waray">Nordland</name>
+		<name normalized="Nordland fylke" languages="Norwegian Nynorsk;Swedish">Nordland fylke</name>
+		<name normalized="Nordland megye" languages="Hungarian">Nordland megye</name>
+		<name normalized="Nordlandas" languages="Lithuanian">Nordlandas</name>
+		<name normalized="Nordlandin laani" languages="Finnish">Nordlandin lääni</name>
+		<name normalized="Nordlandda fylka" languages="Northern Sami">Nordlándda fylka</name>
+		<name normalized="Nordurland" languages="Icelandic">Norðurland</name>
+		<name normalized="Nuordlands" languages="Samogitian">Nuordlands</name>
+		<name normalized="Нoрdлaнd" languages="Serbian">Нордланд</name>
+		<name normalized="Нoрлaн" languages="Bulgarian">Норлан</name>
+		<name normalized="Нuрлaн" languages="Belarusian;Macedonian;Ukrainian">Нурлан</name>
+		<name normalized="Нuрлaнн" languages="Chuvash;Ossetic;Russian">Нурланн</name>
+		<name normalized="Нuрлiн" languages="biлaрuсkai (taрaskivita)‎">Нурлян</name>
+		<name normalized="نאrدلینڈ" languages="Western Punjabi">ناردلینڈ</name>
+		<name normalized="نوrدلند" languages="Persian">نوردلند</name>
+		<name normalized="نوrلאن" languages="Arabic">نورلان</name>
+		<name normalized="nor্dlen্ড" languages="Bishnupria Manipuri">নোর্দলেন্ড</name>
+		<name normalized="ნურლანი" languages="Georgian">ნურლანი</name>
+		<name normalized="nーrrn県" languages="Japanese">ヌールラン県</name>
+		<name normalized="诺尔兰郡" languages="Chinese">诺尔兰郡</name>
+		<name normalized="노를란 주" languages="Korean">노를란 주</name>
+	</region>
+	<region name="Oppland" type="county" typeTranslated="fylke">
+		<name normalized="Amt Oppland" languages="Low German">Amt Oppland</name>
+		<name normalized="Comte d'Oppland" languages="French">Comté d'Oppland</name>
+		<name normalized="Oplandas" languages="Lithuanian">Oplandas</name>
+		<name normalized="Oppland" languages="Afrikaans;Albanian;Basque;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;German;Indonesian;Italian;Latin;Nauru;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Slovenian;Spanish;Swahili;Turkish;Vietnamese;Waray">Oppland</name>
+		<name normalized="Oppland County" languages="English;official">Oppland County</name>
+		<name normalized="Oppland fylke" languages="English;Faroese;Norwegian Nynorsk;official;Swedish">Oppland fylke</name>
+		<name normalized="Oppland megye" languages="Hungarian">Oppland megye</name>
+		<name normalized="Opplandin laani" languages="Finnish">Opplandin lääni</name>
+		<name normalized="Opplandda fylka" languages="Northern Sami">Opplándda fylka</name>
+		<name normalized="Uoplands" languages="Samogitian">Uoplands</name>
+		<name normalized="Upplond" languages="Icelandic">Upplönd</name>
+		<name normalized="Opлaн" languages="Belarusian;Bulgarian;Macedonian;biлaрuсkai (taрaskivita)‎">Оплан</name>
+		<name normalized="Opлaнd" languages="Serbian">Опланд</name>
+		<name normalized="Opлaнн" languages="Ossetic">Опланн</name>
+		<name normalized="Oppлaн" languages="Ukrainian">Опплан</name>
+		<name normalized="Oppлaнн" languages="Russian">Оппланн</name>
+		<name normalized="أوbلאند" languages="Arabic">أوبلاند</name>
+		<name normalized="אوpلאند" languages="Persian">اوپلاند</name>
+		<name normalized="אوpلینڈ" languages="Western Punjabi">اوپلینڈ</name>
+		<name normalized="opl্yাn্ড" languages="Bishnupria Manipuri">ওপল্যান্ড</name>
+		<name normalized="ოპლანი" languages="Georgian">ოპლანი</name>
+		<name normalized="otprn県" languages="Japanese">オップラン県</name>
+		<name normalized="奥普兰郡" languages="Chinese">奥普兰郡</name>
+		<name normalized="오플란 주" languages="Korean">오플란 주</name>
+	</region>
+	<region name="Oslo" type="county" typeTranslated="fylke">
+		<name normalized="Asloa" languages="Latin">Asloa</name>
+		<name normalized="Oslas" languages="Lithuanian">Oslas</name>
+		<name normalized="Oslo" languages="Afrikaans;Albanian;Aragonese;Azerbaijani;Basque;Bavarian;Bosnian;Breton;Catalan;Cebuano;Chinese (Min Nan);Cornish;Crimean Turkish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Ewe;Faroese;Fiji Hindi;Finnish;Franco-Provencal;French;Gagauz;Galician;German;Haitian;Hungarian;Ido;Indonesian;Interlingua;Interlingue;Italian;Javanese;Kalaallisut;Kashubian;Kurdish;Latvian;Ligure;Lingala;Low German;Low Saxon (Netherlands);lumbaart;Luxembourgish;Malagasy;Malay;Maltese;Manx;Nahuatl;Nauru;Northern Frisian;Northern Sami;Norwegian (bokmal);Norwegian Nynorsk;Novial;official;Old English;Papiamento;Polish;Portuguese;Quechua;Romanian;Sardinian;Scots;Scottish Gaelic;Serbo-Croatian;Shona;Silesian;Simple English;Slovak;Slovenian;Somali;Spanish;Swahili;Swedish;Tagalog;Tahitian;Tok Pisin;Tsonga;Turkish;Twi;Upper Sorbian;Uzbek;Veps;Vietnamese;Volapuk;veneto;Voro;Waray;Welsh;Western Frisian;Wolof;Yoruba">Oslo</name>
+		<name normalized="Oslo County" languages="English;official">Oslo County</name>
+		<name normalized="Oslo Fylke" languages="English;official">Oslo Fylke</name>
+		<name normalized="Oslu" languages="Asturian;Corsican;Extremaduran;Sicilian">Oslu</name>
+		<name normalized="Oslo" languages="Irish">Osló</name>
+		<name normalized="Uoslos" languages="Samogitian">Uoslos</name>
+		<name normalized="Oslo" languages="Occitan;Piedmontese">Òslo</name>
+		<name normalized="Oslo" languages="Icelandic">Ósló</name>
+		<name normalized="Ohoro" languages="Maori">Ōhoro</name>
+		<name normalized="Οσλο" languages="Greek">Όσλο</name>
+		<name normalized="Goрad Oслa" languages="Belarusian">Горад Осла</name>
+		<name normalized="Oслo" languages="Bulgarian;Chechen;Chuvash;Hill Mari;Kazakh;Komi;Kyrgyz;Lezghian;Macedonian;Mongolian;Ossetic;Russian;Sakha;Serbian;Tajik;Tatar;Udmurt;Ukrainian">Осло</name>
+		<name normalized="Oслo os" languages="Erzya">Осло ош</name>
+		<name normalized="Oсьлё" languages="biлaрuсkai (taрaskivita)‎">Осьлё</name>
+		<name normalized="Oslv" languages="Armenian">Օսլո</name>
+		<name normalized="אvסדv" languages="Hebrew">אוסלו</name>
+		<name normalized="أوسلو" languages="Arabic">أوسلو</name>
+		<name normalized="ئوسلو" languages="Uyghur">ئوسلو</name>
+		<name normalized="ئۆسلۆ" languages="Sorani Kurdish">ئۆسلۆ</name>
+		<name normalized="אسلو" languages="Mazanderani;Persian">اسلو</name>
+		<name normalized="אوسلو" languages="Pashto;Urdu;Western Punjabi">اوسلو</name>
+		<name normalized="ܐܘܣܠܘ" languages="Aramaic">ܐܘܣܠܘ</name>
+		<name normalized="os्lo" languages="Hindi;Marathi;Nepali">ओस्लो</name>
+		<name normalized="oslo" languages="Bishnupria Manipuri">ওসলো</name>
+		<name normalized="ਓslੋ" languages="Punjabi">ਓਸਲੋ</name>
+		<name normalized="os્lo" languages="Gujarati">ઓસ્લો</name>
+		<name normalized="ଅସଲୋ" languages="Oriya">ଅସଲୋ</name>
+		<name normalized="ஒஸ்லோ" languages="Tamil">ஒஸ்லோ</name>
+		<name normalized="ഓസ്ലൊ" languages="Malayalam">ഓസ്ലൊ</name>
+		<name normalized="ออสโล" languages="Thai">ออสโล</name>
+		<name normalized="ཨོ་སི་ལོ།" languages="Tibetan">ཨོ་སི་ལོ།</name>
+		<name normalized="အော့စလိုမြို့" languages="Burmese">အော့စလိုမြို့</name>
+		<name normalized="ოსლო" languages="Georgian">ოსლო</name>
+		<name normalized="ኦስሎ" languages="Amharic">ኦስሎ</name>
+		<name normalized="osr" languages="Japanese">オスロ</name>
+		<name normalized="奥斯陆" languages="Chinese">奥斯陆</name>
+		<name normalized="奧斯陸" languages="Cantonese">奧斯陸</name>
+		<name normalized="오슬로" languages="Korean">오슬로</name>
+	</region>
+	<region name="Ostfold" type="county" typeTranslated="fylke">
+		<name normalized="Amt Ostfold" languages="Low German">Amt Østfold</name>
+		<name normalized="Austfold" languages="Icelandic">Austfold</name>
+		<name normalized="Comte d'Ostfold" languages="French">Comté d'Østfold</name>
+		<name normalized="Estfoldas" languages="Lithuanian">Estfoldas</name>
+		<name normalized="Estfuolds" languages="Samogitian">Estfuolds</name>
+		<name normalized="Fold orientalis" languages="Latin">Fold orientalis</name>
+		<name normalized="Ostfold" languages="English;official">Ostfold</name>
+		<name normalized="Ostfold County" languages="English;official">Ostfold County</name>
+		<name normalized="Ostfold Fylke" languages="English;official">Ostfold Fylke</name>
+		<name normalized="Ostfold" languages="Afrikaans;Albanian;Basque;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;German;Indonesian;Italian;Nauru;Norwegian (bokmal);Polish;Portuguese;Romanian;Scots;Slovenian;Spanish;Swahili;Turkish;Vietnamese;Waray">Østfold</name>
+		<name normalized="Ostfold fylke" languages="Norwegian Nynorsk;Swedish">Østfold fylke</name>
+		<name normalized="Ostfold megye" languages="Hungarian">Østfold megye</name>
+		<name normalized="Ostfolda fylka" languages="Northern Sami">Østfolda fylka</name>
+		<name normalized="Ostfoldin laani" languages="Finnish">Østfoldin lääni</name>
+		<name normalized="Iсtфoл" languages="Macedonian;Ukrainian">Естфол</name>
+		<name normalized="Iсtфoлd" languages="Serbian">Естфолд</name>
+		<name normalized="Йoсtфoл" languages="Bulgarian">Йостфол</name>
+		<name normalized="Eсtфaл" languages="Belarusian">Эстфал</name>
+		<name normalized="Eсtфoл" languages="biлaрuсkai (taрaskivita)‎">Эстфол</name>
+		<name normalized="Eсtфoлл" languages="Ossetic;Russian">Эстфолл</name>
+		<name normalized="أسtfلد" languages="Arabic">أستفلد</name>
+		<name normalized="אوسtfولد" languages="Persian">اوستفولد</name>
+		<name normalized="אوسtھfیلڈ" languages="Western Punjabi">اوستھفیلڈ</name>
+		<name normalized="aspol্ড" languages="Bishnupria Manipuri">আসফোল্ড</name>
+		<name normalized="ესტფოლდი" languages="Georgian">ესტფოლდი</name>
+		<name normalized="esthor県" languages="Japanese">エストフォル県</name>
+		<name normalized="东福尔郡" languages="Chinese">东福尔郡</name>
+		<name normalized="외스트폴 주" languages="Korean">외스트폴 주</name>
+	</region>
+	<region name="Rogaland" type="county" typeTranslated="fylke">
+		<name normalized="Amt Rogaland" languages="Low German">Amt Rogaland</name>
+		<name normalized="Comte de Rogaland" languages="French">Comté de Rogaland</name>
+		<name normalized="Rogaland" languages="Albanian;Basque;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Faroese;German;Icelandic;Indonesian;Italian;Latin;Nauru;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Slovenian;Spanish;Swahili;Turkish;Vietnamese;Waray;Welsh">Rogaland</name>
+		<name normalized="Rogaland County" languages="English;official">Rogaland County</name>
+		<name normalized="Rogaland fylke" languages="English;Norwegian Nynorsk;official;Swedish">Rogaland fylke</name>
+		<name normalized="Rogaland megye" languages="Hungarian">Rogaland megye</name>
+		<name normalized="Rogalandin laani" languages="Finnish">Rogalandin lääni</name>
+		<name normalized="Rogalands" languages="Samogitian">Rogalands</name>
+		<name normalized="Rogalandda fylka" languages="Northern Sami">Rogalándda fylka</name>
+		<name normalized="Rugalandas" languages="Lithuanian">Rugalandas</name>
+		<name normalized="Рogaлaнd" languages="Serbian">Рогаланд</name>
+		<name normalized="Рugaлaн" languages="Belarusian;Bulgarian;Macedonian;Ukrainian">Ругалан</name>
+		<name normalized="Рugaлaнн" languages="Ossetic;Russian">Ругаланн</name>
+		<name normalized="Рugaлiн" languages="biлaрuсkai (taрaskivita)‎">Ругалян</name>
+		<name normalized="rوgאلאند" languages="Persian">روگالاند</name>
+		<name normalized="rوgאلینڈ" languages="Western Punjabi">روگالینڈ</name>
+		<name normalized="rogাlen্ড" languages="Bishnupria Manipuri">রোগালেন্ড</name>
+		<name normalized="რუგალანი" languages="Georgian">რუგალანი</name>
+		<name normalized="rーgrn県" languages="Japanese">ローガラン県</name>
+		<name normalized="罗加兰郡" languages="Chinese">罗加兰郡</name>
+		<name normalized="로갈란 주" languages="Korean">로갈란 주</name>
+	</region>
+	<region name="Sogn og Fjordane" type="county" typeTranslated="fylke">
+		<name normalized="Amt Sogn un Fjorden" languages="Low German">Amt Sogn un Fjorden</name>
+		<name normalized="Comte de Sogn og Fjordane" languages="French">Comté de Sogn og Fjordane</name>
+		<name normalized="Sogn and ta Fleotas" languages="Old English">Sogn and þa Flēotas</name>
+		<name normalized="Sogn et Fjordane" languages="Latin">Sogn et Fjordane</name>
+		<name normalized="Sogn ja Fjordane fylka" languages="Northern Sami">Sogn ja Fjordane fylka</name>
+		<name normalized="Sogn og Firdafylki" languages="Icelandic">Sogn og Firðafylki</name>
+		<name normalized="Sogn og Fjordane" languages="Albanian;Basque;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;German;Indonesian;Italian;Nahuatl;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Slovenian;Spanish;Swahili;Turkish;Vietnamese;Waray;Zeeuws">Sogn og Fjordane</name>
+		<name normalized="Sogn og Fjordane County" languages="English;official">Sogn og Fjordane County</name>
+		<name normalized="Sogn og Fjordane fylke" languages="English;Norwegian Nynorsk;official;Swedish">Sogn og Fjordane fylke</name>
+		<name normalized="Sogn og Fjordane megye" languages="Hungarian">Sogn og Fjordane megye</name>
+		<name normalized="Sognin ja Fjordanen laani" languages="Finnish">Sognin ja Fjordanen lääni</name>
+		<name normalized="Sogne ir Fjurdane" languages="Lithuanian">Sognė ir Fjurdanė</name>
+		<name normalized="Suogne e Fjuordane" languages="Samogitian">Suognė ė Fjuordanė</name>
+		<name normalized="Сogн og Фьoрaнi" languages="Bulgarian">Согн ог Фьоране</name>
+		<name normalized="Сogн og Фjoрdaнi" languages="Serbian">Согн ог Фјордане</name>
+		<name normalized="Сogн og Фjuрaнi" languages="Macedonian">Согн ог Фјуране</name>
+		<name normalized="Сogн-og-Ф'юрaнi" languages="Ukrainian">Согн-ог-Ф'юране</name>
+		<name normalized="Сogн-og-Ф'юрaнe" languages="Belarusian">Согн-ог-Ф'юранэ</name>
+		<name normalized="Сogн-og-Фьюрaнi" languages="Ossetic;Russian">Согн-ог-Фьюране</name>
+		<name normalized="Сogнe-og-Ф'юрaнe" languages="biлaрuсkai (taрaskivita)‎">Согнэ-ог-Ф'юранэ</name>
+		<name normalized="سون אوg fوrدאن" languages="Persian">سون اوگ فوردان</name>
+		<name normalized="سوgن אوک fیوrدین" languages="Western Punjabi">سوگن اوک فیوردین</name>
+		<name normalized="sog্n og pyor্dাne" languages="Bishnupria Manipuri">সোগ্ন ওগ ফযোর্দানে</name>
+		<name normalized="სოგნ-ოგ-ფიურანე" languages="Georgian">სოგნ-ოგ-ფიურანე</name>
+		<name normalized="sgn・o・hiyーrn県" languages="Japanese">ソグン・オ・フィヨーラネ県</name>
+		<name normalized="松恩-菲尤拉讷郡" languages="Chinese">松恩-菲尤拉讷郡</name>
+		<name normalized="송노피오라네 주" languages="Korean">송노피오라네 주</name>
+	</region>
+	<region name="Sor-Trondelag" type="county" typeTranslated="fylke">
+		<name normalized="Amt Suud-Trondelag" languages="Low German">Amt Süüd-Trøndelag</name>
+		<name normalized="Comte de Sor-Trondelag" languages="French">Comté de Sør-Trøndelag</name>
+		<name normalized="Etela-Trondelagin laani" languages="Finnish">Etelä-Trøndelagin lääni</name>
+		<name normalized="Lulli-Trondelaga fylka" languages="Northern Sami">Lulli-Trøndelága fylka</name>
+		<name normalized="Pietu Triondelagas" languages="Lithuanian">Pietų Triondelagas</name>
+		<name normalized="Peitu Triuondelags" languages="Samogitian">Pėitū Triuondelags</name>
+		<name normalized="Sor-Trondelag" languages="English;official">Sor-Trondelag</name>
+		<name normalized="Sor-Trondelag County" languages="English;official">Sor-Trondelag County</name>
+		<name normalized="Sor-Trondelag Fylke" languages="English;official">Sor-Trondelag Fylke</name>
+		<name normalized="Sudur-Traendalog" languages="Icelandic">Suður-Þrændalög</name>
+		<name normalized="Sor-Trondelag" languages="Albanian;Basque;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;German;Indonesian;Italian;Norwegian (bokmal);Polish;Portuguese;Romanian;Scots;Slovenian;Spanish;Turkish;Vietnamese;Waray;Welsh">Sør-Trøndelag</name>
+		<name normalized="Sor-Trondelag fylke" languages="Faroese;Norwegian Nynorsk;Swedish">Sør-Trøndelag fylke</name>
+		<name normalized="Sor-Trondelag megye" languages="Hungarian">Sør-Trøndelag megye</name>
+		<name normalized="Trondelag australis" languages="Latin">Trøndelag australis</name>
+		<name normalized="Сiр-Tрiнdiлag" languages="Ukrainian">Сер-Тренделаг</name>
+		<name normalized="Сьoр-Tрьoнiлag" languages="Bulgarian">Сьор-Трьонелаг</name>
+		<name normalized="Сёр-Tрoнdeлag" languages="Belarusian">Сёр-Трондэлаг</name>
+		<name normalized="Сёр-Tрoнdeлig" languages="biлaрuсkai (taрaskivita)‎">Сёр-Трондэляг</name>
+		<name normalized="Сёр-Tрёнdiлag" languages="Ossetic;Russian">Сёр-Трёнделаг</name>
+		<name normalized="Juziн Tрiнdiлag" languages="Macedonian">Јужен Тренделаг</name>
+		<name normalized="Juzнi Tрiнdiлag" languages="Serbian">Јужни Тренделаг</name>
+		<name normalized="سr ٹrیندلیg" languages="Western Punjabi">سر ٹریندلیگ</name>
+		<name normalized="سوr trوندلאg" languages="Persian">سور تروندلاگ</name>
+		<name normalized="sাr-ট্rাn্ডelাg" languages="Bishnupria Manipuri">সার-ট্রান্ডেলাগ</name>
+		<name normalized="სიორ-ტრიონდელაგი" languages="Georgian">სიორ-ტრიონდელაგი</name>
+		<name normalized="sーr・trndrーg県" languages="Japanese">ソール・トロンデラーグ県</name>
+		<name normalized="南特伦德拉格郡" languages="Chinese">南特伦德拉格郡</name>
+		<name normalized="쇠르트뢰넬라그 주" languages="Korean">쇠르트뢰넬라그 주</name>
+	</region>
+	<region name="Telemark" type="county" typeTranslated="fylke">
+		<name normalized="Amt Telemark" languages="Low German">Amt Telemark</name>
+		<name normalized="Comte de Telemark" languages="French">Comté de Telemark</name>
+		<name normalized="Telemark" languages="Albanian;Basque;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;German;Indonesian;Italian;Norwegian (bokmal);Occitan;official;Polish;Portuguese;Romanian;Scots;Simple English;Slovenian;Spanish;Turkish;Vietnamese;Waray">Telemark</name>
+		<name normalized="Telemark County" languages="English;official">Telemark County</name>
+		<name normalized="Telemark fylke" languages="English;Faroese;Norwegian Nynorsk;official;Swedish">Telemark fylke</name>
+		<name normalized="Telemark megye" languages="Hungarian">Telemark megye</name>
+		<name normalized="Telemarkas" languages="Lithuanian">Telemarkas</name>
+		<name normalized="Telemarkin laani" languages="Finnish">Telemarkin lääni</name>
+		<name normalized="Telemarks" languages="Samogitian">Telemarks</name>
+		<name normalized="Telemarkku fylka" languages="Northern Sami">Telemárkku fylka</name>
+		<name normalized="Tilemarchia" languages="Latin">Tilemarchia</name>
+		<name normalized="Telamork" languages="Icelandic">Þelamörk</name>
+		<name normalized="Tiлiмaрk" languages="Bulgarian;Macedonian;Ossetic;Russian;Serbian;Ukrainian">Телемарк</name>
+		<name normalized="Teлiмaрk" languages="Belarusian;biлaрuсkai (taрaskivita)‎">Тэлемарк</name>
+		<name normalized="tلmאrک" languages="Persian">تلمارک</name>
+		<name normalized="mqאtعة tلmאrk" languages="Arabic">مقاطعة تلمارك</name>
+		<name normalized="ٹیلیmאrک" languages="Western Punjabi">ٹیلیمارک</name>
+		<name normalized="টelemাr্k" languages="Bishnupria Manipuri">টেলেমার্ক</name>
+		<name normalized="ტელემარკი" languages="Georgian">ტელემარკი</name>
+		<name normalized="trmrk県" languages="Japanese">テレマルク県</name>
+		<name normalized="泰勒马克郡" languages="Chinese">泰勒马克郡</name>
+		<name normalized="텔레마르크 주" languages="Korean">텔레마르크 주</name>
+	</region>
+	<region name="Troms" type="county" typeTranslated="fylke">
+		<name normalized="Amt Troms" languages="Low German">Amt Troms</name>
+		<name normalized="Comte de Troms" languages="French">Comté de Troms</name>
+		<name normalized="Romssa fylka" languages="Northern Sami">Romssa fylka</name>
+		<name normalized="Troms" languages="Afrikaans;Albanian;Asturian;Basque;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;German;Indonesian;Italian;Latin;Norwegian (bokmal);official;Old English;Polish;Portuguese;Romanian;Scots;Slovenian;Spanish;Vietnamese;Waray">Troms</name>
+		<name normalized="Troms County" languages="English;official">Troms County</name>
+		<name normalized="Troms fylke" languages="English;Faroese;Norwegian Nynorsk;official;Swedish">Troms fylke</name>
+		<name normalized="Troms megye" languages="Hungarian">Troms megye</name>
+		<name normalized="Tromsfylki" languages="Icelandic">Tromsfylki</name>
+		<name normalized="Tromsos" languages="Samogitian">Tromsos</name>
+		<name normalized="Tromssan laani" languages="Finnish">Tromssan lääni</name>
+		<name normalized="Trumsas" languages="Lithuanian">Trumsas</name>
+		<name normalized="Tрoмс" languages="Belarusian;Bulgarian;Macedonian;Ossetic;Russian;Serbian;biлaрuсkai (taрaskivita)‎">Тромс</name>
+		<name normalized="Tрuмс" languages="Ukrainian">Трумс</name>
+		<name normalized="trوmز" languages="Persian">ترومز</name>
+		<name normalized="trوmس" languages="Arabic">ترومس</name>
+		<name normalized="ٹrوmز" languages="Western Punjabi">ٹرومز</name>
+		<name normalized="ট্roms" languages="Bishnupria Manipuri">ট্রোমস</name>
+		<name normalized="ტრომსი" languages="Georgian">ტრომსი</name>
+		<name normalized="trms県" languages="Japanese">トロムス県</name>
+		<name normalized="特罗姆斯郡" languages="Chinese">特罗姆斯郡</name>
+		<name normalized="트롬스 주" languages="Korean">트롬스 주</name>
+	</region>
+	<region name="Vest-Agder" type="county" typeTranslated="fylke">
+		<name normalized="Agder occidentalis" languages="Latin">Agder occidentalis</name>
+		<name normalized="Amt West-Agder" languages="Low German">Amt West-Agder</name>
+		<name normalized="Comte de Vest-Agder" languages="French">Comté de Vest-Agder</name>
+		<name normalized="Lansi-Agderin laani" languages="Finnish">Länsi-Agderin lääni</name>
+		<name normalized="Oarjel-Agdera fylka" languages="Northern Sami">Oarjel-Agdera fylka</name>
+		<name normalized="Vakaru Agderis" languages="Samogitian">Vakarū Agderis</name>
+		<name normalized="Vakaru Agderis" languages="Lithuanian">Vakarų Agderis</name>
+		<name normalized="Vest-Agder" languages="Afrikaans;Albanian;Basque;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;German;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Slovenian;Spanish;Turkish;Vietnamese;Waray">Vest-Agder</name>
+		<name normalized="Vest-Agder County" languages="English;official">Vest-Agder County</name>
+		<name normalized="Vest-Agder fylke" languages="English;Norwegian Nynorsk;official;Swedish">Vest-Agder fylke</name>
+		<name normalized="Vest-Agder megye" languages="Hungarian">Vest-Agder megye</name>
+		<name normalized="Vestur-Agdir" languages="Icelandic">Vestur-Agðir</name>
+		<name normalized="Viсt-Agdiр" languages="Bulgarian;Ossetic;Russian;Ukrainian">Вест-Агдер</name>
+		<name normalized="Viсt-Agdeр" languages="Belarusian">Вест-Агдэр</name>
+		<name normalized="Veсt-Agdeр" languages="biлaрuсkai (taрaskivita)‎">Вэст-Агдэр</name>
+		<name normalized="Zapadiн Agdiр" languages="Macedonian">Западен Агдер</name>
+		<name normalized="Zapadнi Agdiр" languages="Serbian">Западни Агдер</name>
+		<name normalized="وسt آدr" languages="Persian">وست آدر</name>
+		<name normalized="bes্ট-ag্der" languages="Bishnupria Manipuri">বেস্ট-অগ্দের</name>
+		<name normalized="ვესტ-აგდერი" languages="Georgian">ვესტ-აგდერი</name>
+		<name normalized="vest・agdr県" languages="Japanese">ヴェスト・アグデル県</name>
+		<name normalized="西阿格德尔郡" languages="Chinese">西阿格德尔郡</name>
+		<name normalized="베스트아그데르 주" languages="Korean">베스트아그데르 주</name>
+	</region>
+	<region name="Vestfold" type="county" typeTranslated="fylke">
+		<name normalized="Amt Vestfold" languages="Low German">Amt Vestfold</name>
+		<name normalized="Comte de Vestfold" languages="French">Comté de Vestfold</name>
+		<name normalized="Fold occidentalis" languages="Latin">Fold occidentalis</name>
+		<name normalized="Vestfold" languages="Afrikaans;Basque;Catalan;Cornish;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;German;Icelandic;Indonesian;Italian;Norwegian (bokmal);official;Polish;Portuguese;Romanian;Scots;Serbo-Croatian;Simple English;Slovenian;Spanish;Turkish;Vietnamese;Waray">Vestfold</name>
+		<name normalized="Vestfold County" languages="English;official">Vestfold County</name>
+		<name normalized="Vestfold fylke" languages="English;Faroese;Norwegian Nynorsk;official;Swedish">Vestfold fylke</name>
+		<name normalized="Vestfold megye" languages="Hungarian">Vestfold megye</name>
+		<name normalized="Vestfolda fylka" languages="Northern Sami">Vestfolda fylka</name>
+		<name normalized="Vestfoldas" languages="Lithuanian">Vestfoldas</name>
+		<name normalized="Vestfoldin laani" languages="Finnish">Vestfoldin lääni</name>
+		<name normalized="Vestfuolds" languages="Samogitian">Vestfuolds</name>
+		<name normalized="Viсtфaл" languages="Belarusian">Вестфал</name>
+		<name normalized="Viсtфoл" languages="Bulgarian;Macedonian;Ukrainian">Вестфол</name>
+		<name normalized="Viсtфoлd" languages="Serbian">Вестфолд</name>
+		<name normalized="Viсtфoлл" languages="Ossetic;Russian">Вестфолл</name>
+		<name normalized="Veсtфoл" languages="biлaрuсkai (taрaskivita)‎">Вэстфол</name>
+		<name normalized="fسtfولد" languages="Arabic">فستفولد</name>
+		<name normalized="وسtfولد" languages="Persian">وستفولد</name>
+		<name normalized="ویسٹfولڈ" languages="Western Punjabi">ویسٹفولڈ</name>
+		<name normalized="bes্টpol্ড" languages="Bishnupria Manipuri">বেস্টফোল্ড</name>
+		<name normalized="ვესტფოლდი" languages="Georgian">ვესტფოლდი</name>
+		<name normalized="vesthor県" languages="Japanese">ヴェストフォル県</name>
+		<name normalized="西福尔郡" languages="Chinese">西福尔郡</name>
+		<name normalized="베스트폴 주" languages="Korean">베스트폴 주</name>
+	</region>
+</regions>

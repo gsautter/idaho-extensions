@@ -1,0 +1,356 @@
+<regions country="Kazakhstan">
+	<region name="Almaty Oblysy" type="province" typeTranslated="oblys">
+		<name normalized="Almati" languages="Uzbek">Almati</name>
+		<name normalized="Almati apgabals" languages="Latvian">Almati apgabals</name>
+		<name normalized="Almatı Eyaleti" languages="Turkish">Almatı Eyaleti</name>
+		<name normalized="Almatinska oblast" languages="Czech">Almatinská oblast</name>
+		<name normalized="Almatos sritis" languages="Lithuanian">Almatos sritis</name>
+		<name normalized="Almaty" languages="German;Portuguese;Swedish;Vietnamese;Waray">Almaty</name>
+		<name normalized="Almaty oblast" languages="Norwegian Nynorsk">Almaty oblast</name>
+		<name normalized="Almaty Oblysy" languages="English;official">Almaty Oblysy</name>
+		<name normalized="Almaty Oblysy Province" languages="English;official">Almaty Oblysy Province</name>
+		<name normalized="Almaty Province" languages="English;Scots">Almaty Province</name>
+		<name normalized="Almatyfylki" languages="Icelandic">Almatyfylki</name>
+		<name normalized="Almatyko probintzia" languages="Basque">Almatyko probintzia</name>
+		<name normalized="Almato oblast" languages="Estonian">Almatõ oblast</name>
+		<name normalized="Oblast Almaty" languages="Dutch">Oblast Almaty</name>
+		<name normalized="Oblys d'Almaty" languages="French">Oblys d'Almaty</name>
+		<name normalized="Oblys di Almaty" languages="Italian">Oblys di Almaty</name>
+		<name normalized="Obwod almacki" languages="Polish">Obwód ałmacki</name>
+		<name normalized="Propinsi Almaty" languages="Achinese">Propinsi Almaty</name>
+		<name normalized="Provincia Almati" languages="Romanian">Provincia Almatî</name>
+		<name normalized="Provincia de Almati" languages="Galician">Provincia de Almati</name>
+		<name normalized="Provincia de Almaty" languages="Spanish">Provincia de Almaty</name>
+		<name normalized="Provinco Almato" languages="Esperanto">Provinco Almato</name>
+		<name normalized="Provinsi Almaty" languages="Indonesian">Provinsi Almaty</name>
+		<name normalized="Wilayah Almaty" languages="Malay">Wilayah Almaty</name>
+		<name normalized="Aлмataн obлaсtь" languages="Chechen">Алматан область</name>
+		<name normalized="Aлмati" languages="Macedonian">Алмати</name>
+		<name normalized="Aлмatiнсka obлaсt" languages="Bulgarian">Алматинска област</name>
+		<name normalized="Aлмatiнсkai obлaсtь" languages="Russian">Алматинская область</name>
+		<name normalized="Aлмatiнсьka obлaсtь" languages="Ukrainian">Алматинська область</name>
+		<name normalized="Aлмatы obлысы" languages="Kazakh">Алматы облысы</name>
+		<name normalized="Aлмatы ɵлkəһi" languages="Bashkir">Алматы өлкәһе</name>
+		<name normalized="Aлмatiнсkai vobлaсьtь" languages="biлaрuсkai (taрaskivita)‎">Алмацінская вобласьць</name>
+		<name normalized="Viлoiti Aлмatй" languages="Tajik">Вилояти Алматй</name>
+		<name normalized="أوbلyس ألmאty" languages="Arabic">أوبليس ألماطي</name>
+		<name normalized="almाti p्rांt" languages="Hindi">अलमाती प्रांत</name>
+		<name normalized="al्mाटi" languages="Marathi">अल्माटी</name>
+		<name normalized="almਾਟi subਾ" languages="Punjabi">ਅਲਮਾਟੀ ਸੂਬਾ</name>
+		<name normalized="ალმათის ოლქი" languages="Georgian">ალმათის ოლქი</name>
+		<name normalized="armti州" languages="Japanese">アルマトイ州</name>
+		<name normalized="阿拉木圖州" languages="Chinese">阿拉木圖州</name>
+		<name normalized="알마티 주" languages="Korean">알마티 주</name>
+	</region>
+	<region name="Almaty Qalasy" type="city" typeTranslated="city">
+		<name normalized="Almaty Qalasy" languages="English;official">Almaty Qalasy</name>
+	</region>
+	<region name="Aqmola Oblysy" type="province" typeTranslated="oblys">
+		<name normalized="Aqmola Oblysy" languages="English;official">Aqmola Oblysy</name>
+		<name normalized="Aqmola Oblysy Province" languages="English;official">Aqmola Oblysy Province</name>
+	</region>
+	<region name="Aqtobe Oblysy" type="province" typeTranslated="oblys">
+		<name normalized="Aqtobe Oblysy" languages="English;official">Aqtobe Oblysy</name>
+		<name normalized="Aqtobe Oblysy Province" languages="English;official">Aqtobe Oblysy Province</name>
+	</region>
+	<region name="Astana Qalasy" type="city" typeTranslated="city">
+		<name normalized="Astana Qalasy" languages="English;official">Astana Qalasy</name>
+	</region>
+	<region name="Atyrau Oblysy" type="province" typeTranslated="oblys">
+		<name normalized="Atirau" languages="Uzbek">Atirau</name>
+		<name normalized="Atirau apgabals" languages="Latvian">Atirau apgabals</name>
+		<name normalized="Atırav Eyaleti" languages="Turkish">Atırav Eyaleti</name>
+		<name normalized="Atıraw'n alue" languages="Finnish">Atıraw'n alue</name>
+		<name normalized="Atyrau" languages="German;Portuguese;Vietnamese;Waray">Atyrau</name>
+		<name normalized="Atyrau oblast" languages="Norwegian Nynorsk">Atyrau oblast</name>
+		<name normalized="Atyrau Oblysy" languages="English;official">Atyrau Oblysy</name>
+		<name normalized="Atyrau Oblysy Province" languages="English;official">Atyrau Oblysy Province</name>
+		<name normalized="Atyrau Province" languages="English;Scots">Atyrau Province</name>
+		<name normalized="Atyrau sritis" languages="Lithuanian">Atyrau sritis</name>
+		<name normalized="Atyrauska oblast" languages="Czech">Atyrauská oblast</name>
+		<name normalized="Atyraw" languages="Swedish">Atyraw</name>
+		<name normalized="Atorau oblast" languages="Estonian">Atõrau oblast</name>
+		<name normalized="Atyrafylki" languages="Icelandic">Atýráfylki</name>
+		<name normalized="Oblast Atıraw" languages="Dutch">Oblast Atıraw</name>
+		<name normalized="Oblys d'Atyraou" languages="French">Oblys d'Atyraou</name>
+		<name normalized="Oblys di Atyrau" languages="Italian">Oblys di Atyrau</name>
+		<name normalized="Obwod atyrauski" languages="Polish">Obwód atyrauski</name>
+		<name normalized="Propinsi Atyrau" languages="Achinese">Propinsi Atyrau</name>
+		<name normalized="Provincia Atirau" languages="Romanian">Provincia Atîrau</name>
+		<name normalized="Provincia de Atyrau" languages="Spanish">Provincia de Atyrau</name>
+		<name normalized="Provinco Atirau" languages="Esperanto">Provinco Atirau</name>
+		<name normalized="Provinsi Atyrau" languages="Indonesian">Provinsi Atyrau</name>
+		<name normalized="Provincia d'Atirau" languages="Catalan">Província d'Atirau</name>
+		<name normalized="Wilayah Atyrau" languages="Malay">Wilayah Atyrau</name>
+		<name normalized="Atiрau" languages="Macedonian">Атирау</name>
+		<name normalized="Atiрauсьka obлaсtь" languages="Ukrainian">Атирауська область</name>
+		<name normalized="Atърauсka obлaсt" languages="Bulgarian">Атърауска област</name>
+		<name normalized="Atырau obлысы" languages="Kazakh">Атырау облысы</name>
+		<name normalized="Atырau uлuuha" languages="Sakha">Атырау улууhа</name>
+		<name normalized="Atырauсkai obлaсtь" languages="Russian">Атырауская область</name>
+		<name normalized="Atырaўсkai vobлaсьtь" languages="biлaрuсkai (taрaskivita)‎">Атыраўская вобласьць</name>
+		<name normalized="Viлoiti Atйрau" languages="Tajik">Вилояти Атйрау</name>
+		<name normalized="أوbلyس أtyyrو" languages="Arabic">أوبليس أتييرو</name>
+		<name normalized="sوbہ آtیrאؤ" languages="Western Punjabi">صوبہ آتیراؤ</name>
+		<name normalized="atira" languages="Marathi">अतिरौ</name>
+		<name normalized="atir​u p्rांt" languages="Hindi">अतिर​ऊ प्रांत</name>
+		<name normalized="ატირაუს ოლქი" languages="Georgian">ატირაუს ოლქი</name>
+		<name normalized="atiru州" languages="Japanese">アティラウ州</name>
+		<name normalized="阿特勞州" languages="Chinese">阿特勞州</name>
+		<name normalized="아티라우 주" languages="Korean">아티라우 주</name>
+	</region>
+	<region name="Batys Qazaqstan Oblysy" type="province" typeTranslated="oblys">
+		<name normalized="Batı Kazakistan Eyaleti" languages="Turkish">Batı Kazakistan Eyaleti</name>
+		<name normalized="Batys Qazaqstan Oblysy" languages="English;official">Batys Qazaqstan Oblysy</name>
+		<name normalized="Batys Qazaqstan Oblysy Province" languages="English;official">Batys Qazaqstan Oblysy Province</name>
+		<name normalized="Cazaquistao Ocidental" languages="Portuguese">Cazaquistão Ocidental</name>
+		<name normalized="Gʻarbiy Qozogʻiston" languages="Uzbek">Gʻarbiy Qozogʻiston</name>
+		<name normalized="Katundan nga Kasahistan" languages="Waray">Katundan nga Kasahistan</name>
+		<name normalized="Kazakhstan Occidental" languages="Catalan">Kazakhstan Occidental</name>
+		<name normalized="Kazakhstan-Occidental" languages="French">Kazakhstan-Occidental</name>
+		<name normalized="Lansi-Kazakstanin alue" languages="Finnish">Länsi-Kazakstanin alue</name>
+		<name normalized="Laane-Kasahstani oblast" languages="Estonian">Lääne-Kasahstani oblast</name>
+		<name normalized="Oblast Batıs Qazaqstan" languages="Dutch">Oblast Batıs Qazaqstan</name>
+		<name normalized="Oblys del Kazakistan Occidentale" languages="Italian">Oblys del Kazakistan Occidentale</name>
+		<name normalized="Obwod zachodniokazachstanski" languages="Polish">Obwód zachodniokazachstański</name>
+		<name normalized="Propinsi Kazakhstan Barat" languages="Achinese">Propinsi Kazakhstan Barat</name>
+		<name normalized="Provincia de Kazajistan Occidental" languages="Spanish">Provincia de Kazajistán Occidental</name>
+		<name normalized="Provincia Kazahstanul de Vest" languages="Romanian">Provincia Kazahstanul de Vest</name>
+		<name normalized="Provinco Okcidenta Kazahio" languages="Esperanto">Provinco Okcidenta Kazaĥio</name>
+		<name normalized="Provinsi Kazakhstan Barat" languages="Indonesian">Provinsi Kazakhstan Barat</name>
+		<name normalized="Qərbi Qazaxıstan əyaləti" languages="Azerbaijani">Qərbi Qazaxıstan əyaləti</name>
+		<name normalized="Rietumkazahstanas apgabals" languages="Latvian">Rietumkazahstānas apgabals</name>
+		<name normalized="Tay Kazakhstan" languages="Vietnamese">Tây Kazakhstan</name>
+		<name normalized="Vakaru Kazachstano sritis" languages="Lithuanian">Vakarų Kazachstano sritis</name>
+		<name normalized="Vest-Kasakhstan oblast" languages="Norwegian Nynorsk">Vest-Kasakhstan oblast</name>
+		<name normalized="Vestur-Kasakstanfylki" languages="Icelandic">Vestur-Kasakstanfylki</name>
+		<name normalized="Vastkazakstan" languages="Swedish">Västkazakstan</name>
+		<name normalized="Wast Kazakhstan Province" languages="Scots">Wast Kazakhstan Province</name>
+		<name normalized="West Kazakhstan" languages="English;official">West Kazakhstan</name>
+		<name normalized="West Kazakhstan Oblys" languages="English;official">West Kazakhstan Oblys</name>
+		<name normalized="West Kazakhstan Province" languages="English;official">West Kazakhstan Province</name>
+		<name normalized="Westkasachstan" languages="German">Westkasachstan</name>
+		<name normalized="Wilayah Kazakhstan Barat" languages="Malay">Wilayah Kazakhstan Barat</name>
+		<name normalized="Zapadokazasska oblast" languages="Czech">Západokazašská oblast</name>
+		<name normalized="Aрҕaa Kazakсtaн uлuuha" languages="Sakha">Арҕаа Казахстан улууhа</name>
+		<name normalized="Batыс Kazakсtaн obлысы" languages="Kazakh">Батыс Қазақстан облысы</name>
+		<name normalized="Viлoiti Ғaрbi Kazokiсtoн" languages="Tajik">Вилояти Ғарби Қазоқистон</name>
+		<name normalized="Zapadнo-Kazakсtaнсkai obлaсtь" languages="Russian">Западно-Казахстанская область</name>
+		<name normalized="Zapadнokazakсtaнсka obлaсt" languages="Bulgarian">Западноказахстанска област</name>
+		<name normalized="Zakodнi-Kazakсtaнсkai vobлaсьtь" languages="biлaрuсkai (taрaskivita)‎">Заходне-Казахстанская вобласьць</name>
+		<name normalized="Zakidнo-Kazakсtaнсьka obлaсtь" languages="Ukrainian">Західно-Казахстанська область</name>
+		<name normalized="أوbلyس kאزאخسtאن אلغrby" languages="Arabic">أوبليس كازاخستان الغربي</name>
+		<name normalized="sوbہ لہندא qאزqسtאن" languages="Western Punjabi">صوبہ لہندا قازقستان</name>
+		<name normalized="ps्cim kjाks्tाn" languages="Marathi">पश्चिम कझाकस्तान</name>
+		<name normalized="ps्cim k़ाj़ाk़s्tाn p्rांt" languages="Hindi">पश्चिम क़ाज़ाक़स्तान प्रांत</name>
+		<name normalized="დასავლეთ ყაზახეთის ოლქი" languages="Georgian">დასავლეთ ყაზახეთის ოლქი</name>
+		<name normalized="西kzhstn州" languages="Japanese">西カザフスタン州</name>
+		<name normalized="西哈薩克斯坦州" languages="Chinese">西哈薩克斯坦州</name>
+		<name normalized="바티스카작스탄 주" languages="Korean">바티스카작스탄 주</name>
+	</region>
+	<region name="Bayqongyr Qalasy" type="city" typeTranslated="city">
+		<name normalized="Baikonur" languages="Basque;Catalan;English;Finnish;Galician;German;Luxembourgish;Northern Frisian;Portuguese;Romanian;Scots;Spanish;Vietnamese;Waray">Baikonur</name>
+		<name normalized="Baikonura" languages="Latvian">Baikonura</name>
+		<name normalized="Baikonyras" languages="Lithuanian">Baikonyras</name>
+		<name normalized="Bajkongor" languages="Estonian">Bajkongõr</name>
+		<name normalized="Bajkonoer" languages="Dutch">Bajkonoer</name>
+		<name normalized="Bajkonur" languages="Croatian;Czech;Danish;Esperanto;Hungarian;Norwegian (bokmal);Norwegian Nynorsk;Polish;Slovak;Swedish">Bajkonur</name>
+		<name normalized="Bajqonyr" languages="Italian">Bajqońyr</name>
+		<name normalized="Baykonour" languages="Walloon">Baykonour</name>
+		<name normalized="Baykonur" languages="Azerbaijani;English;Indonesian;official;Turkish">Baykonur</name>
+		<name normalized="Bayqongyr Qalasy" languages="English;official">Bayqongyr Qalasy</name>
+		<name normalized="Baikonour" languages="French">Baïkonour</name>
+		<name normalized="Baйkoнiр" languages="Ukrainian">Байконир</name>
+		<name normalized="Baйkoнuр" languages="Bulgarian;Russian">Байконур</name>
+		<name normalized="Baйkoңgыр" languages="Tatar">Байкоңгыр</name>
+		<name normalized="Baйkoңыр" languages="Kazakh">Байқоңыр</name>
+		<name normalized="Bajkoнuр" languages="Macedonian;Serbian">Бајконур</name>
+		<name normalized="bייqvnvr" languages="Hebrew">בייקונור</name>
+		<name normalized="bאykونوr" languages="Arabic">بايكونور</name>
+		<name normalized="bאیqونوr, qزאqسtאن" languages="Persian">بایقونور، قزاقستان</name>
+		<name normalized="bאیکۆنوr" languages="Sorani Kurdish">بایکۆنور</name>
+		<name normalized="bیکאنوr" languages="Western Punjabi">بیکانور</name>
+		<name normalized="bाykonur" languages="Hindi">बायकोनूर</name>
+		<name normalized="bakonur" languages="Marathi">बैकोनूर</name>
+		<name normalized="bਾikੋnr" languages="Punjabi">ਬਾਈਕੋਨਰ</name>
+		<name normalized="ბაიკონური" languages="Georgian">ბაიკონური</name>
+		<name normalized="biknーr" languages="Japanese">バイコヌール</name>
+		<name normalized="拜科努爾" languages="Chinese">拜科努爾</name>
+		<name normalized="바이코누르" languages="Korean">바이코누르</name>
+	</region>
+	<region name="Mangghystau Oblysy" type="province" typeTranslated="oblys">
+		<name normalized="Mangghystau Oblysy" languages="English;official">Mangghystau Oblysy</name>
+		<name normalized="Mangghystau Oblysy Province" languages="English;official">Mangghystau Oblysy Province</name>
+	</region>
+	<region name="Ongtustik Qazaqstan Oblysy" type="province" typeTranslated="oblys">
+		<name normalized="Cazaquistao do Sul" languages="Portuguese">Cazaquistão do Sul</name>
+		<name normalized="Cənubi Qazaxıstan əyaləti" languages="Azerbaijani">Cənubi Qazaxıstan əyaləti</name>
+		<name normalized="Dienvidkazahstanas apgabals" languages="Latvian">Dienvidkazahstānas apgabals</name>
+		<name normalized="Etela-Kazakstanin alue" languages="Finnish">Etelä-Kazakstanin alue</name>
+		<name normalized="Guney Kazakistan Eyaleti" languages="Turkish">Güney Kazakistan Eyaleti</name>
+		<name normalized="Janubiy Qozogʻiston" languages="Uzbek">Janubiy Qozogʻiston</name>
+		<name normalized="Jihokazasska oblast" languages="Czech">Jihokazašská oblast</name>
+		<name normalized="Kazakhstan-Meridional" languages="French">Kazakhstan-Méridional</name>
+		<name normalized="Louna-Kasahstani oblast" languages="Estonian">Lõuna-Kasahstani oblast</name>
+		<name normalized="Nam Kazakhstan" languages="Vietnamese">Nam Kazakhstan</name>
+		<name normalized="Oblast Zuid-Kazachstan" languages="Dutch">Oblast Zuid-Kazachstan</name>
+		<name normalized="Oblys del Kazakistan Meridionale" languages="Italian">Oblys del Kazakistan Meridionale</name>
+		<name normalized="Obwod poludniowokazachstanski" languages="Polish">Obwód południowokazachstański</name>
+		<name normalized="Ongtustik Qazaqstan Oblysy" languages="English;official">Ongtustik Qazaqstan Oblysy</name>
+		<name normalized="Ongtustik Qazaqstan Oblysy Province" languages="English;official">Ongtustik Qazaqstan Oblysy Province</name>
+		<name normalized="Pietu Kazachstano sritis" languages="Lithuanian">Pietų Kazachstano sritis</name>
+		<name normalized="Propinsi Kazakhstan Seulatan" languages="Achinese">Propinsi Kazakhstan Seulatan</name>
+		<name normalized="Provincia de Kazajistan Meridional" languages="Spanish">Provincia de Kazajistán Meridional</name>
+		<name normalized="Provincia Kazahstanul de Sud" languages="Romanian">Provincia Kazahstanul de Sud</name>
+		<name normalized="Provinco Suda Kazahio" languages="Esperanto">Provinco Suda Kazaĥio</name>
+		<name normalized="Provinsi Kazakhstan Selatan" languages="Indonesian">Provinsi Kazakhstan Selatan</name>
+		<name normalized="Salatan nga Kasahistan" languages="Waray">Salatan nga Kasahistan</name>
+		<name normalized="Sooth Kazakhstan Province" languages="Scots">Sooth Kazakhstan Province</name>
+		<name normalized="South Kazakhstan" languages="English;official">South Kazakhstan</name>
+		<name normalized="South Kazakhstan Oblys" languages="English;official">South Kazakhstan Oblys</name>
+		<name normalized="South Kazakhstan Province" languages="English;official">South Kazakhstan Province</name>
+		<name normalized="Sudur-Kasakstanfylki" languages="Icelandic">Suður-Kasakstanfylki</name>
+		<name normalized="Sydkazakstan" languages="Swedish">Sydkazakstan</name>
+		<name normalized="Sor-Kasakhstan oblast" languages="Norwegian Nynorsk">Sør-Kasakhstan oblast</name>
+		<name normalized="Sudkasachstan" languages="German">Südkasachstan</name>
+		<name normalized="Wilayah Kazakhstan Selatan" languages="Malay">Wilayah Kazakhstan Selatan</name>
+		<name normalized="Viлoiti Caнubi Kazokiсtoн" languages="Tajik">Вилояти Ҷануби Қазоқистон</name>
+		<name normalized="Oңtүсtik Kazakсtaн obлысы" languages="Kazakh">Оңтүстік Қазақстан облысы</name>
+		<name normalized="Paўdнёva-Kazakсtaнсkai vobлaсtь" languages="Belarusian">Паўднёва-Казахстанская вобласць</name>
+		<name normalized="Paўdнёva-Kazakсtaнсkai vobлaсьtь" languages="biлaрuсkai (taрaskivita)‎">Паўднёва-Казахстанская вобласьць</name>
+		<name normalized="Pivdiннo-Kazakсtaнсьka obлaсtь" languages="Ukrainian">Південно-Казахстанська область</name>
+		<name normalized="Юzнo-Kazakсtaнсkai obлaсtь" languages="Russian">Южно-Казахстанская область</name>
+		<name normalized="Юzнokazakсtaнсka obлaсt" languages="Bulgarian">Южноказахстанска област</name>
+		<name normalized="Juziн Kazakсtaн" languages="Macedonian">Јужен Казахстан</name>
+		<name normalized="Juzнo-kazakсtaнсka obлaсt" languages="Serbian">Јужно-казахстанска област</name>
+		<name normalized="Hաrավ-Ղաzաxstանյան mաrz" languages="Armenian">Հարավ-Ղազախստանյան մարզ</name>
+		<name normalized="أوbلyس kאزאخسtאن אلjنوby" languages="Arabic">أوبليس كازاخستان الجنوبي</name>
+		<name normalized="sوbہ دکھنی qאزqسtאن" languages="Western Punjabi">صوبہ دکھنی قازقستان</name>
+		<name normalized="dk्षiण kjाks्tाn" languages="Marathi">दक्षिण कझाकस्तान</name>
+		<name normalized="dk्षiण k़ाj़ाk़s्tाn p्rांt" languages="Hindi">दक्षिण क़ाज़ाक़स्तान प्रांत</name>
+		<name normalized="სამხრეთ ყაზახეთის ოლქი" languages="Georgian">სამხრეთ ყაზახეთის ოლქი</name>
+		<name normalized="南kzhstn州" languages="Japanese">南カザフスタン州</name>
+		<name normalized="南哈薩克斯坦州" languages="Chinese">南哈薩克斯坦州</name>
+		<name normalized="옹튀스틱카작스탄 주" languages="Korean">옹튀스틱카작스탄 주</name>
+	</region>
+	<region name="Pavlodar Oblysy" type="province" typeTranslated="oblys">
+		<name normalized="Pavlodar Oblysy" languages="English;official">Pavlodar Oblysy</name>
+		<name normalized="Pavlodar Oblysy Province" languages="English;official">Pavlodar Oblysy Province</name>
+	</region>
+	<region name="Qaraghandy Oblysy" type="province" typeTranslated="oblys">
+		<name normalized="Qaraghandy Oblysy" languages="English;official">Qaraghandy Oblysy</name>
+		<name normalized="Qaraghandy Oblysy Province" languages="English;official">Qaraghandy Oblysy Province</name>
+	</region>
+	<region name="Qostanay Oblysy" type="province" typeTranslated="oblys">
+		<name normalized="Qostanay Oblysy" languages="English;official">Qostanay Oblysy</name>
+		<name normalized="Qostanay Oblysy Province" languages="English;official">Qostanay Oblysy Province</name>
+	</region>
+	<region name="Qyzylorda Oblysy" type="province" typeTranslated="oblys">
+		<name normalized="Qyzylorda Oblysy" languages="English;official">Qyzylorda Oblysy</name>
+		<name normalized="Qyzylorda Oblysy Province" languages="English;official">Qyzylorda Oblysy Province</name>
+	</region>
+	<region name="Shyghys Qazaqstan Oblysy" type="province" typeTranslated="oblys">
+		<name normalized="Aust-Kasakhstan oblast" languages="Norwegian Nynorsk">Aust-Kasakhstan oblast</name>
+		<name normalized="Austrumkazahstanas apgabals" languages="Latvian">Austrumkazahstānas apgabals</name>
+		<name normalized="Austur-Kasakstanfylki" languages="Icelandic">Austur-Kasakstanfylki</name>
+		<name normalized="Cazaquistao Oriental" languages="Portuguese">Cazaquistão Oriental</name>
+		<name normalized="Dogu Kazakistan Eyaleti" languages="Turkish">Doğu Kazakistan Eyaleti</name>
+		<name normalized="East Kazakhstan" languages="English;official">East Kazakhstan</name>
+		<name normalized="East Kazakhstan Oblys" languages="English;official">East Kazakhstan Oblys</name>
+		<name normalized="East Kazakhstan Province" languages="English;official;Scots">East Kazakhstan Province</name>
+		<name normalized="Ida-Kasahstani oblast" languages="Estonian">Ida-Kasahstani oblast</name>
+		<name normalized="Ita-Kazakstanin alue" languages="Finnish">Itä-Kazakstanin alue</name>
+		<name normalized="Kazakhstan-Oriental" languages="French">Kazakhstan-Oriental</name>
+		<name normalized="Oblast Oost-Kazachstan" languages="Dutch">Oblast Oost-Kazachstan</name>
+		<name normalized="Oblys del Kazakistan Orientale" languages="Italian">Oblys del Kazakistan Orientale</name>
+		<name normalized="Obwod wschodniokazachstanski" languages="Polish">Obwód wschodniokazachstański</name>
+		<name normalized="Ostkasachstan" languages="German">Ostkasachstan</name>
+		<name normalized="Propinsi Kazakhstan Timu" languages="Achinese">Propinsi Kazakhstan Timu</name>
+		<name normalized="Provincia de Kazajistan Oriental" languages="Spanish">Provincia de Kazajistán Oriental</name>
+		<name normalized="Provincia Kazahstanul de Est" languages="Romanian">Provincia Kazahstanul de Est</name>
+		<name normalized="Provinco Orienta Kazahio" languages="Esperanto">Provinco Orienta Kazaĥio</name>
+		<name normalized="Provinsi Kazakhstan Timur" languages="Indonesian">Provinsi Kazakhstan Timur</name>
+		<name normalized="Rytu Kazachstano sritis" languages="Lithuanian">Rytų Kazachstano sritis</name>
+		<name normalized="Sharqiy Qozogʻiston" languages="Uzbek">Sharqiy Qozogʻiston</name>
+		<name normalized="Shyghys Qazaqstan Oblysy" languages="English;official">Shyghys Qazaqstan Oblysy</name>
+		<name normalized="Shyghys Qazaqstan Oblysy Province" languages="English;official">Shyghys Qazaqstan Oblysy Province</name>
+		<name normalized="Sinirangan nga Kasahistan" languages="Waray">Sinirangan nga Kasahistan</name>
+		<name normalized="Vychodokazasska oblast" languages="Czech">Východokazašská oblast</name>
+		<name normalized="Wilayah Kazakhstan Timur" languages="Malay">Wilayah Kazakhstan Timur</name>
+		<name normalized="Ostkazakstan" languages="Swedish">Östkazakstan</name>
+		<name normalized="Dong Kazakhstan" languages="Vietnamese">Đông Kazakhstan</name>
+		<name normalized="Sərqi Qazaxıstan əyaləti" languages="Azerbaijani">Şərqi Qazaxıstan əyaləti</name>
+		<name normalized="Viлoiti Saрki Kazokiсtoн" languages="Tajik">Вилояти Шарқи Қазоқистон</name>
+		<name normalized="Voсtocнo-Kazakсtaнсkai obлaсtь" languages="Russian">Восточно-Казахстанская область</name>
+		<name normalized="Iztocнokazakсtaнсka obлaсt" languages="Bulgarian">Източноказахстанска област</name>
+		<name normalized="Iлiн Kazakсtaн" languages="Sakha">Илин Казахстан</name>
+		<name normalized="Iсtociн Kazakсtaн" languages="Macedonian">Источен Казахстан</name>
+		<name normalized="Сkidнo-Kazakсtaнсьka obлaсtь" languages="Ukrainian">Східно-Казахстанська область</name>
+		<name normalized="Uсkodнi-Kazakсtaнсkai vobлaсьtь" languages="biлaрuсkai (taрaskivita)‎">Усходне-Казахстанская вобласьць</name>
+		<name normalized="Keviлtukac-Kazakсtaн obлace" languages="Chuvash">Хĕвелтухăç-Казахстан облаçĕ</name>
+		<name normalized="Sығыс Kazakсtaн obлысы" languages="Kazakh">Шығыс Қазақстан облысы</name>
+		<name normalized="أوbلyس kאزאخسtאن אلشrqy" languages="Arabic">أوبليس كازاخستان الشرقي</name>
+		<name normalized="sوbہ چڑھدא qאزqسtאن" languages="Western Punjabi">صوبہ چڑھدا قازقستان</name>
+		<name normalized="pur्v kjाks्tाn" languages="Marathi">पूर्व कझाकस्तान</name>
+		<name normalized="pur्v k़ाj़ाk़s्tाn p्rांt" languages="Hindi">पूर्व क़ाज़ाक़स्तान प्रांत</name>
+		<name normalized="აღმოსავლეთ ყაზახეთის ოლქი" languages="Georgian">აღმოსავლეთ ყაზახეთის ოლქი</name>
+		<name normalized="東kzhstn州" languages="Japanese">東カザフスタン州</name>
+		<name normalized="東哈薩克斯坦州" languages="Chinese">東哈薩克斯坦州</name>
+		<name normalized="시기스카작스탄 주" languages="Korean">시기스카작스탄 주</name>
+	</region>
+	<region name="Soltustik Qazaqstan Oblysy" type="province" typeTranslated="oblys">
+		<name normalized="Amihanan nga Kasahistan" languages="Waray">Amihanan nga Kasahistan</name>
+		<name normalized="Bac Kazakhstan" languages="Vietnamese">Bắc Kazakhstan</name>
+		<name normalized="Cazaquistao do Norte" languages="Portuguese">Cazaquistão do Norte</name>
+		<name normalized="Kazakhstan-Septentrional" languages="French">Kazakhstan-Septentrional</name>
+		<name normalized="Kuzey Kazakistan Eyaleti" languages="Turkish">Kuzey Kazakistan Eyaleti</name>
+		<name normalized="Nord-Kasakhstan oblast" languages="Norwegian Nynorsk">Nord-Kasakhstan oblast</name>
+		<name normalized="Nordkasachstan" languages="German">Nordkasachstan</name>
+		<name normalized="Nordkazakstan" languages="Swedish">Nordkazakstan</name>
+		<name normalized="North Kazakhstan" languages="English;official">North Kazakhstan</name>
+		<name normalized="North Kazakhstan Oblys" languages="English;official">North Kazakhstan Oblys</name>
+		<name normalized="North Kazakhstan Province" languages="English;official;Scots">North Kazakhstan Province</name>
+		<name normalized="Nordur-Kasakstanfylki" languages="Icelandic">Norður-Kasakstanfylki</name>
+		<name normalized="Oblast Noord-Kazachstan" languages="Dutch">Oblast Noord-Kazachstan</name>
+		<name normalized="Oblys del Kazakistan Settentrionale" languages="Italian">Oblys del Kazakistan Settentrionale</name>
+		<name normalized="Obwod polnocnokazachstanski" languages="Polish">Obwód północnokazachstański</name>
+		<name normalized="Pohjois-Kazakstanin alue" languages="Finnish">Pohjois-Kazakstanin alue</name>
+		<name normalized="Propinsi Kazakhstan Baroh" languages="Achinese">Propinsi Kazakhstan Barôh</name>
+		<name normalized="Provincia de Kazajistan Septentrional" languages="Spanish">Provincia de Kazajistán Septentrional</name>
+		<name normalized="Provincia Kazahstanul de Nord" languages="Romanian">Provincia Kazahstanul de Nord</name>
+		<name normalized="Provinco Norda Kazahio" languages="Esperanto">Provinco Norda Kazaĥio</name>
+		<name normalized="Provinsi Kazakhstan Utara" languages="Indonesian">Provinsi Kazakhstan Utara</name>
+		<name normalized="Pohja-Kasahstani oblast" languages="Estonian">Põhja-Kasahstani oblast</name>
+		<name normalized="Severokazasska oblast" languages="Czech">Severokazašská oblast</name>
+		<name normalized="Shimoliy Qozogʻiston" languages="Uzbek">Shimoliy Qozogʻiston</name>
+		<name normalized="Soltustik Qazaqstan Oblysy" languages="English;official">Soltustik Qazaqstan Oblysy</name>
+		<name normalized="Soltustik Qazaqstan Oblysy Province" languages="English;official">Soltustik Qazaqstan Oblysy Province</name>
+		<name normalized="Wilayah Kazakhstan Utara" languages="Malay">Wilayah Kazakhstan Utara</name>
+		<name normalized="Ziemelkazahstanas apgabals" languages="Latvian">Ziemeļkazahstānas apgabals</name>
+		<name normalized="Siaures Kazachstano sritis" languages="Lithuanian">Šiaurės Kazachstano sritis</name>
+		<name normalized="Viлoiti Siмoлi Kazokiсtoн" languages="Tajik">Вилояти Шимоли Қазоқистон</name>
+		<name normalized="Paўнocнa-Kazakсtaнсkai vobлaсtь" languages="Belarusian">Паўночна-Казахстанская вобласць</name>
+		<name normalized="Paўнocнa-Kazakсtaнсkai vobлaсьtь" languages="biлaрuсkai (taрaskivita)‎">Паўночна-Казахстанская вобласьць</name>
+		<name normalized="Pivнicнo-Kazakсtaнсьka obлaсtь" languages="Ukrainian">Північно-Казахстанська область</name>
+		<name normalized="Сiviрiн Kazakсtaн" languages="Macedonian">Северен Казахстан</name>
+		<name normalized="Сiviрнokazakсtaнсka obлaсt" languages="Serbian">Северноказахстанска област</name>
+		<name normalized="Сiviрo-Kazakсtaнсkai obлaсtь" languages="Russian">Северо-Казахстанская область</name>
+		<name normalized="Сiviрokazakсtaнсka obлaсt" languages="Bulgarian">Североказахстанска област</name>
+		<name normalized="Сoлtүсtik Kazakсtaн obлысы" languages="Kazakh">Солтүстік Қазақстан облысы</name>
+		<name normalized="Tɵньik Kazakъсtaн ɵлkəсi" languages="Tatar">Төньяк Казакъстан өлкәсе</name>
+		<name normalized="Hյvysիs-Ղաzաxstանյան mաrz" languages="Armenian">Հյուսիս-Ղազախստանյան մարզ</name>
+		<name normalized="أوbلyس kאزאخسtאن אلشmאلy" languages="Arabic">أوبليس كازاخستان الشمالي</name>
+		<name normalized="sوbہ אtلא qאزqسtאن" languages="Western Punjabi">صوبہ اتلا قازقستان</name>
+		<name normalized="ut्tr kjाks्tाn" languages="Marathi">उत्तर कझाकस्तान</name>
+		<name normalized="ut्tr k़ाj़ाk़s्tाn p्rांt" languages="Hindi">उत्तर क़ाज़ाक़स्तान प्रांत</name>
+		<name normalized="uੱtri kj਼ਾk਼istਾn subਾ" languages="Punjabi">ਉੱਤਰੀ ਕਜ਼ਾਖ਼ਿਸਤਾਨ ਸੂਬਾ</name>
+		<name normalized="ჩრდილოეთ ყაზახეთის ოლქი" languages="Georgian">ჩრდილოეთ ყაზახეთის ოლქი</name>
+		<name normalized="北kzhstn州" languages="Japanese">北カザフスタン州</name>
+		<name normalized="北哈薩克斯坦州" languages="Chinese">北哈薩克斯坦州</name>
+		<name normalized="솔튀스틱카작스탄 주" languages="Korean">솔튀스틱카작스탄 주</name>
+	</region>
+	<region name="Zhambyl Oblysy" type="province" typeTranslated="oblys">
+		<name normalized="Zhambyl Oblysy" languages="English;official">Zhambyl Oblysy</name>
+		<name normalized="Zhambyl Oblysy Province" languages="English;official">Zhambyl Oblysy Province</name>
+	</region>
+</regions>
