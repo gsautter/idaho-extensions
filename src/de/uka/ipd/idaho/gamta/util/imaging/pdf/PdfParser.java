@@ -75,7 +75,12 @@ public class PdfParser {
 	 */
 	public static HashMap getObjects(byte[] bytes) throws IOException {
 		LineInputStream lis = new LineInputStream(new ByteArrayInputStream(bytes));
-		HashMap objects = new HashMap();
+		HashMap objects = new HashMap() {
+			public Object put(Object key, Object value) {
+				System.out.println("PDF Object map: " + key + " mapped to " + value);
+				return super.put(key, value);
+			}
+		};
 		byte[] line;
 		while ((line = lis.readLine()) != null) {
 			if (PdfUtils.matches(line, "[1-9][0-9]*\\s[0-9]+\\sobj.*")) {
@@ -294,13 +299,14 @@ public class PdfParser {
 			if (obj instanceof Reference) {
 				Reference ref = ((Reference) obj);
 				String refId = (ref.getObjectNumber() + " " + ref.getGenerationNumber());
-//				System.out.println("Dereferencing " + refId + " R");
+				System.out.println("Dereferencing " + refId + " R");
 				obj = objects.get(refId);
 				if (obj == null) {
-					System.out.println("Invalid reference " + refId + " R, ignoring");
+					System.out.println("  Invalid reference " + refId + " R, ignoring");
 					continue;
 				}
-				else if (obj instanceof PStream) {
+				System.out.println("  Dereferenced " + refId + " R to " + obj);
+				if (obj instanceof PStream) {
 					dereferenceObjects(((PStream) obj).params, objects);
 					continue;
 				}
@@ -310,7 +316,6 @@ public class PdfParser {
 				else if (obj instanceof Vector) {
 					continue;
 				}
-//				System.out.println("Dereferenced " + refId + " R to " + obj.toString());
 				dict.put(id, obj);
 			}
 		}
@@ -322,13 +327,14 @@ public class PdfParser {
 			if (obj instanceof Reference) {
 				Reference ref = ((Reference) obj);
 				String refId = (ref.getObjectNumber() + " " + ref.getGenerationNumber());
-//				System.out.println("Dereferencing " + refId + " R");
+				System.out.println("Dereferencing " + refId + " R");
 				obj = objects.get(refId);
 				if (obj == null) {
-					System.out.println("Invalid reference " + refId + " R, ignoring");
+					System.out.println("  Invalid reference " + refId + " R, ignoring");
 					continue;
 				}
-				else if (obj instanceof PStream) {
+				System.out.println("  Dereferenced " + refId + " R to " + obj);
+				if (obj instanceof PStream) {
 					dereferenceObjects(((PStream) obj).params, objects);
 					continue;
 				}
@@ -338,7 +344,6 @@ public class PdfParser {
 				else if (obj instanceof Vector) {
 					continue;
 				}
-//				System.out.println("Dereferenced " + refId + " R to " + obj.toString());
 				array.set(i, obj);
 			}
 		}

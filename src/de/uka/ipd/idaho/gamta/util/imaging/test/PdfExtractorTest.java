@@ -240,25 +240,28 @@ public class PdfExtractorTest implements ImagingConstants {
 		 * every line due to extremely wide line margins
 		 */
 		
-		//	Swiss spiter documents
+		//	Swiss spider documents
 //		pdfName = "Ono2009c.pdf"; // born-digital, fonts with misleading ToUnicode mappings
 //		pdfName = "OttBrescovit2003.pdf"; // born-digital, page 0 with negative line matrix entries, currently renders upside down
 		
-		//	PDFs from Hong & Elvis
-		pdfName = "AcaxanthumTullyandRazin1970.pdf"; // vertical text at right page edge, messing with line detection
-													 // in addition, caption on 2 is missed
-//		pdfName = "Methanobacterium.aarhusense(1).pdf"; // renders fine
-		
-		//	PiB October workshop, unzip error in ZooTaxa file
-		pdfName = "zt01826p058.pdf"; // faulty font program, now failing gracefully and continuing
-		
-		//	Plazi Retreat October, file hangs somewhere
-		pdfName = "zt02534p036.pdf";
+//		//	PDFs from Hong & Elvis
+//		pdfName = "AcaxanthumTullyandRazin1970.pdf"; // vertical text at right page edge, messing with line detection
+//													 // in addition, caption on 2 is missed
+////		pdfName = "Methanobacterium.aarhusense(1).pdf"; // renders fine
+//		
+//		//	PiB October workshop, unzip error in ZooTaxa file
+//		pdfName = "zt01826p058.pdf"; // faulty font program, now failing gracefully and continuing
+//		
+//		//	Plazi Retreat October, file hangs somewhere
+//		pdfName = "zt02534p036.pdf";
+//		
+//		//	File does not load on Windows8
+//		pdfName = "zt03592p085.pdf";
 		
 		
 		long start = System.currentTimeMillis();
 		int scaleFactor = 1;
-		aimAtPage = -1; // TODO always set this to -1 for JAR export
+		aimAtPage = 8; // TODO always set this to -1 for JAR export
 		//	TODO try pages 12, 13, 16, 17, and 21 of Prasse 1979
 		System.out.println("Aiming at page " + aimAtPage);
 		

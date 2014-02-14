@@ -85,6 +85,48 @@ public class BoundingBox {
 	}
 	
 	/**
+	 * Test whether or not this bounding box includes another bounding box. If
+	 * <code>fuzzy</code> is set to <code>true</code>, the this method tests if
+	 * this box includes the center of the argument box rather than the argument
+	 * box as a whole.
+	 * @param box the bounding box to test
+	 * @param fuzzy do a fuzzy test?
+	 * @return true if this bounding box includes the argument one
+	 */
+	public boolean includes(BoundingBox box, boolean fuzzy) {
+		if ((this.left <= box.left) && (box.right <= this.right) && (this.top <= box.top) && (box.bottom <= this.bottom))
+			return true;
+		else if (fuzzy) {
+			int bcx = ((box.left + box.right) / 2);
+			int bcy = ((box.top + box.bottom) / 2);
+			return ((this.left <= bcx) && (bcx < this.right) && (this.top <= bcy) && (bcy < this.bottom));
+		}
+		else return false;
+	}
+	
+	/**
+	 * Test whether or not this bounding box lies in another bounding box. If
+	 * <code>fuzzy</code> is set to <code>true</code>, the this method tests if
+	 * the argument box includes the center of this box rather than this box as
+	 * a whole.
+	 * @param box the bounding box to test
+	 * @param fuzzy do a fuzzy test?
+	 * @return true if the argument bounding box includes this one
+	 */
+	public boolean liesIn(BoundingBox box, boolean fuzzy) {
+		return ((box != null) && box.includes(this, fuzzy));
+	}
+	
+	/**
+	 * Test whether or not this bounding box overlaps another bounding box.
+	 * @param box the bounding box to test
+	 * @return true if this bounding box overlaps the argument one
+	 */
+	public boolean overlaps(BoundingBox box) {
+		return ((this.left < box.right) && (box.left < this.right) && (this.top < box.bottom) && (box.top < this.bottom));
+	}
+	
+	/**
 	 * Parse a bounding box from its string representation. This method expects
 	 * the string to consist of four comma separated positive integer numbers,
 	 * optionally delimited with square brackets. If the argument string is null
@@ -191,9 +233,10 @@ public class BoundingBox {
 	}
 	
 	/**
-	 * Write the bounding box to a writer, using two bytes for each boundary.
-	 * Data written trough this method is supposed to be re-read and
-	 * de-serialiued through the read() method.
+	 * Write the bounding box to an output stream, using two bytes for each
+	 * boundary. Data written trough this method is supposed to be re-read and
+	 * de-serialized through the read() method. This method writes 8 bytes to
+	 * the argument stream.
 	 * @param out the writer to write to
 	 * @throws IOException
 	 */
@@ -209,9 +252,10 @@ public class BoundingBox {
 	}
 	
 	/**
-	 * Read a bounding box from a reader. This method is intended to recover a
-	 * bounding box from the serial representation it has written to a writer
-	 * via its write() method.
+	 * Read a bounding box from an input stream. This method is intended to
+	 * recover a bounding box from the serial representation it has written to
+	 * a writer via its write() method. This method reads 8 bytes from the
+	 * argument stream.
 	 * @param in the reader to read from
 	 * @return a bounding box de-serialized from the argument stream
 	 * @throws IOException

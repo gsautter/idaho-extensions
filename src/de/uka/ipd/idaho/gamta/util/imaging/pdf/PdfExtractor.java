@@ -451,6 +451,12 @@ public class PdfExtractor implements ImagingConstants, TableConstants {
 					});
 					
 					//	TODO figure out / ask if merging super and sub script numbers is OK
+					//	==> at least not for page image rendering ...
+					//	==> ... but for line detection very well
+					
+					//	TODO do NOT merge words that tokenize apart
+					
+					//	TODO split words that tokenize apart, splitting bounding box based on font measurement
 					
 					//	merge subsequent words less than DPI/60 apart (likely separated due to font change)
 					int maxMergeMargin = (defaultPageImageDpi / 60);
@@ -711,8 +717,9 @@ public class PdfExtractor implements ImagingConstants, TableConstants {
 							double hScale = (((double) (right - left)) / wtl.getBounds().getWidth());
 							if (hScale < 1) {
 								AffineTransform at = rg.getTransform();
+								rg.translate(left, 0);
 								rg.scale(hScale, 1);
-								rg.drawString(pWords[p][w].str, ((int) Math.round(((double) left) / hScale)), (bottom - (pWords[p][w].fontHasDescent ? Math.round(wlm.getDescent()) : 0)));
+								rg.drawString(pWords[p][w].str, 0, (bottom - (pWords[p][w].fontHasDescent ? Math.round(wlm.getDescent()) : 0)));
 								rg.setTransform(at);
 							}
 							else rg.drawString(pWords[p][w].str, left, (bottom - (pWords[p][w].fontHasDescent ? Math.round(wlm.getDescent()) : 0)));
@@ -787,6 +794,10 @@ public class PdfExtractor implements ImagingConstants, TableConstants {
 							return;
 						p = ((Integer) pageIDs.removeFirst()).intValue();
 					}
+					
+					//	catch empty pages
+					if (pWordAnnots[p] == null)
+						continue;
 					
 					//	generate page document
 					pages[p] = Gamta.newDocument(doc.getTokenizer());
