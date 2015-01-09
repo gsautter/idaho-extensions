@@ -6,7 +6,7 @@
 		<constraint require="publisher location journalOrPublisher" message="Publisher and/or location are missing."/>
 		<constraint exclude="pagination"/>
 		<constraint exclude="journal" message="Books don't have a journal name."/>
-		<constraint exclude="volume issue numero" message=">Books don't have a volume, issue, or numero."/>
+		<constraint exclude="volume issue numero" message="Books don't have a volume, issue, or numero."/>
 		<constraint exclude="volumeTitle" message="Books don't have a volume title."/>
 		<constraint exclude="editor" message="Books don't have editors, make them authors."/>
 	  	<originTemplate>
@@ -18,6 +18,7 @@
 			<mods:typeOfResource>text</mods:typeOfResource>
 			<xsl:call-template name="originInfo"/>
 			<xsl:call-template name="urls"/>
+			<xsl:call-template name="bookContentInfo"/>
 	  	</modsTemplate>
 	</bibRefType>
 	
@@ -30,7 +31,7 @@
 		<constraint require="pagination" pattern="([1-9][0-9]{0,4})(\s*\-+\s*[1-9][0-9]*)?"/>
 		<constraint condition="(contains(./@pagination, '-') and (normalize-space(substring-before(./@pagination, '-')) > normalize-space(substring-after(./@pagination, '-'))))" message="Pagination is invalid, first page has to be less than last."/>
 		<constraint exclude="journal" message="Books chapters don't have a journal name."/>
-		<constraint exclude="volume issue numero" message=">Books chapters don't have a volume, issue, or numero."/>
+		<constraint exclude="volume issue numero" message="Books chapters don't have a volume, issue, or numero."/>
 	  	<originTemplate>
 			<xsl:value-of select="./volumeTitle"/>, <xsl:call-template name="locationAndPublisherOrigin"/>
 	  	</originTemplate>
@@ -59,7 +60,7 @@
 		<constraint attributes="title" pattern="(((In(\s+(The|the))?)|(in(\s+(The|the))?)|The|the)\s+)?Proc(\.|eedings)\s+.*" message="Title does not match proceedings."/>
 		<constraint require="year" pattern="((1[5-9][0-9][0-9])|(20[0-9][0-9]))" message="Year of publication is missing or invalid."/>
 		<constraint exclude="journal" message="Proceedings don't have a journal name."/>
-		<constraint exclude="volume issue numero" message=">Proceedings don't have a volume, issue, or numero."/>
+		<constraint exclude="volume issue numero" message="Proceedings don't have a volume, issue, or numero."/>
 		<constraint exclude="volumeTitle" message="Proceedings don't have a volume title."/>
 		<constraint exclude="editor" message="Proceedings don't have editors, make them authors."/>
 	  	<originTemplate>
@@ -84,7 +85,8 @@
 		<constraint attributes="pagination" pattern="([1-9][0-9]{0,4})(\s*\-+\s*[1-9][0-9]*)?"/>
 		<constraint condition="(contains(./@pagination, '-') and (normalize-space(substring-before(./@pagination, '-')) > normalize-space(substring-after(./@pagination, '-'))))" message="Pagination is invalid, first page has to be less than last."/>
 		<constraint exclude="journal" message="Proceedings papers don't have a journal name."/>
-		<constraint exclude="volume issue numero" message=">Proceedings papers don't have a volume, issue, or numero."/>
+		<constraint exclude="volume issue numero" message="Proceedings papers don't have a volume, issue, or numero."/>
+		<constraint exclude="bookContentInfo" message="Proceedings papers don't have content info."/>
 	  	<originTemplate>
 			<xsl:value-of select="./volumeTitle"/><xsl:if test="./location or ./publisher or ./journalOrPublisher">, <xsl:call-template name="locationAndPublisherOrigin"/></xsl:if>
 	  	</originTemplate>
@@ -144,6 +146,7 @@
 		<constraint require="pagination" pattern="([1-9][0-9]{0,6})(\s*\-+\s*[1-9][0-9]*)?"/>
 		<constraint condition="(contains(./@pagination, '-') and (normalize-space(substring-before(./@pagination, '-')) > normalize-space(substring-after(./@pagination, '-'))))" message="Pagination is invalid, first page has to be less than last."/>
 		<constraint condition="(not(./@volumeTitle) and ./@editor)" message="Only special issues have editors."/>
+		<constraint exclude="bookContentInfo" message="Journal articles don't have content info."/>
 	  	<originTemplate>
 			<xsl:choose>
 				<xsl:when test="./volumeTitle"><xsl:value-of select="./volumeTitle"/> (<xsl:call-template name="journalOrigin"/>)</xsl:when>
@@ -182,9 +185,10 @@
 		<constraint exclude="volumeTitle" message="URLs don't have a volume title."/>
 		<constraint exclude="location" message="URLs don't have a location."/>
 		<constraint exclude="journal" message="URLs don't have a journal name."/>
-		<constraint exclude="volume issue numero" message=">URLs don't have a volume, issue, or numero."/>
+		<constraint exclude="volume issue numero" message="URLs don't have a volume, issue, or numero."/>
 		<!--constraint exclude="publisher" message="URLs don't have a publisher."/-->
 		<!--constraint exclude="journalOrPublisher" message="URLs don't have a journal name or publisher."/-->
+		<constraint exclude="bookContentInfo" message="Websites don't have content info."/>
 	  	<originTemplate>
 			<xsl:value-of select="./publicationUrl"/>
 	  	</originTemplate>
@@ -260,6 +264,12 @@
 				</mods:role>
 				<mods:namePart><xsl:value-of select="."/></mods:namePart>
 			</mods:name>
+		</xsl:for-each>
+	</xsl:template>
+	
+	<xsl:template name="bookContentInfo">
+		<xsl:for-each select="./bookContentInfo">
+			<mods:note><xsl:value-of select="."/></mods:note>
 		</xsl:for-each>
 	</xsl:template>
 	
