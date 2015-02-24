@@ -5,7 +5,9 @@
 -->
 
 <project name="dist">
-	<target name="jars" depends="feedback,imaging,imganalyzers,ocr,pdf,bibrefutils,taxnameutils">
+	<!--target name="jars" depends="feedback,imaging,imganalyzers,ocr,pdf,bibrefutils,taxnameutils,geoutils,datetimeutils,quantutils,abbrevutils,tableutils,matcitutils">
+	</target-->
+	<target name="jars" depends="feedback,imaging,imganalyzers,bibrefutils,taxnameutils,geoutils,datetimeutils,quantutils,abbrevutils,tableutils,matcitutils">
 	</target>
 	
 	<target name="feedback">
@@ -22,6 +24,8 @@
 		<jar destfile="${jar.imaging}">
 			<fileset dir="${build.home}/classes" includes="**/imaging/*.class"/>
 			<fileset dir="${src.home}" includes="**/imaging/*.java"/>
+			<fileset dir="${build.home}/classes" includes="**/imaging/utilities/*.class"/>
+			<fileset dir="${src.home}" includes="**/imaging/utilities/*.java"/>
 			<fileset dir="." includes="LICENSE.txt"/>
 		</jar>
 	</target>
@@ -35,16 +39,16 @@
 		</jar>
 	</target>
 	
-	<target name="ocr">
+	<!--target name="ocr">
 		<delete file="${jar.ocr}" />
 		<jar destfile="${jar.ocr}">
 			<fileset dir="${build.home}/classes" includes="**/imaging/ocr/*.class"/>
 			<fileset dir="${src.home}" includes="**/imaging/ocr/*.java"/>
 			<fileset dir="." includes="LICENSE.txt"/>
 		</jar>
-	</target>
+	</target-->
 	
-	<target name="pdf">
+	<!--target name="pdf">
 		<delete file="${jar.pdf}" />
 		<jar destfile="${jar.pdf}">
 			<fileset dir="${build.home}/classes" includes="**/imaging/pdf/*.class"/>
@@ -54,8 +58,8 @@
 			<fileset dir="${src.home}" includes="**/imaging/test/*.java"/>
 			<fileset dir="." includes="LICENSE.txt"/>
 		</jar>
-	</target>
-		
+	</target-->
+	
 	<target name="bibrefutils">
 		<delete file="${jar.bibrefutils}" />
 		<jar destfile="${jar.bibrefutils}">
@@ -74,6 +78,63 @@
 			<fileset dir="${src.home}" includes="**/taxonomicNames/**/**.java"/>
 			<fileset dir="${src.home}" includes="**/taxonomicNames/**/**.xml"/>
 			<fileset dir="${src.home}" includes="**/taxonomicNames/**/**.xslt"/>
+			<fileset dir="." includes="LICENSE.txt"/>
+		</jar>
+	</target>
+	
+	<target name="geoutils">
+		<delete file="${jar.geoutils}" />
+		<jar destfile="${jar.geoutils}">
+			<fileset dir="${build.home}/classes" includes="**/locations/**/**.class" excludes="**/locations/CountryDataHarvester*.class"/>
+			<fileset dir="${build.home}/classes" includes="**/locations/**/**.class" excludes="**/locations/GeoUtils*.class"/>
+			<fileset dir="${src.home}" includes="**/locations/**/**.java" excludes="**/locations/CountryDataHarvester.java" />
+			<fileset dir="${src.home}" includes="**/locations/**/**.java" excludes="**/locations/GeoUtils.java" />
+			<fileset dir="${src.home}" includes="**/locations/**/**.xml"/>
+			<fileset dir="." includes="LICENSE.txt"/>
+		</jar>
+	</target>
+	
+	<target name="datetimeutils">
+		<delete file="${jar.datetimeutils}" />
+		<jar destfile="${jar.datetimeutils}">
+			<fileset dir="${build.home}/classes" includes="**/dateTime/**/**.class"/>
+			<fileset dir="${src.home}" includes="**/dateTime/**/**.java"/>
+			<fileset dir="." includes="LICENSE.txt"/>
+		</jar>
+	</target>
+	
+	<target name="quantutils">
+		<delete file="${jar.quantutils}" />
+		<jar destfile="${jar.quantutils}">
+			<fileset dir="${build.home}/classes" includes="**/quantities/**/**.class"/>
+			<fileset dir="${src.home}" includes="**/quantities/**/**.java"/>
+			<fileset dir="." includes="LICENSE.txt"/>
+		</jar>
+	</target>
+	
+	<target name="abbrevutils">
+		<delete file="${jar.abbrevutils}" />
+		<jar destfile="${jar.abbrevutils}">
+			<fileset dir="${build.home}/classes" includes="**/abbreviations/**/**.class"/>
+			<fileset dir="${src.home}" includes="**/abbreviations/**/**.java"/>
+			<fileset dir="." includes="LICENSE.txt"/>
+		</jar>
+	</target>
+	
+	<target name="tableutils">
+		<delete file="${jar.tableutils}" />
+		<jar destfile="${jar.tableutils}">
+			<fileset dir="${build.home}/classes" includes="**/tables/**/**.class"/>
+			<fileset dir="${src.home}" includes="**/tables/**/**.java"/>
+			<fileset dir="." includes="LICENSE.txt"/>
+		</jar>
+	</target>
+	
+	<target name="matcitutils">
+		<delete file="${jar.matcitutils}" />
+		<jar destfile="${jar.matcitutils}">
+			<fileset dir="${build.home}/classes" includes="**/materialsCitations/**/**.class"/>
+			<fileset dir="${src.home}" includes="**/materialsCitations/**/**.java"/>
 			<fileset dir="." includes="LICENSE.txt"/>
 		</jar>
 	</target>
