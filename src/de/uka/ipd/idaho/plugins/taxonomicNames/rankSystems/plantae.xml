@@ -53,6 +53,6 @@
 		<rank name="variety" abbreviations="var.;v." epithetTemplate="var. @epithet"/>
 		<rank name="subVariety" abbreviations="subvar.;subv." epithetTemplate="subvar. @epithet"/>
 		<rank name="form" abbreviations="fm.;f." epithetTemplate="fm. @epithet"/>
-		<rank name="subForm" abbreviations="subfm.;subf." epithetTemplate="subtm. @epithet"/>
+		<rank name="subForm" abbreviations="subfm.;subf." epithetTemplate="subfm. @epithet"/>
 	</rankGroup>
 </rankSystem>

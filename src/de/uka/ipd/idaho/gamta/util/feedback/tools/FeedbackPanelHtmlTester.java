@@ -106,7 +106,7 @@ import de.uka.ipd.idaho.stringUtils.regExUtils.RegExUtils;
  * }
  * // test done, FeedbackPanelHtmlTester does the rest
  * 
- * // ... proceede with regular application code
+ * // ... proceed with regular application code
  * </pre></code><br>
  * Instances of this class also implement a standard feedback service, so test
  * classes can use it without even changing the code of the method they test. In

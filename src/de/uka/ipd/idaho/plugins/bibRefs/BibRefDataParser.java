@@ -186,7 +186,7 @@ public abstract class BibRefDataParser implements BibRefConstants {
 	 * through to this one with a hard-coded value for the name argument to
 	 * facilitate explicit instantiation of the individual sub class, i.e., not
 	 * by means of class loading. This constructor sets the data provider to one
-	 * refering to the argument data folder.
+	 * referring to the argument data folder.
 	 * @param name the data format name
 	 * @param dataFolder the data folder
 	 */
@@ -238,7 +238,7 @@ public abstract class BibRefDataParser implements BibRefConstants {
 	 * Retrieve a brief description of the data format, e.g. for explanation in
 	 * a user interface. The returned string should not contain any line breaks,
 	 * but may include HTML formatting. If HTML formatting is used, the returned
-	 * string hast to start with '&lt;html&gt;' to indicate so. This default
+	 * string has to start with '&lt;html&gt;' to indicate so. This default
 	 * implementation simply returns the label provided by the getLabel()
 	 * method. Sub classes are recommended to overwrite this method to provide a
 	 * more comprehensive description.

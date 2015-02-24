@@ -34,6 +34,7 @@ import java.io.InputStreamReader;
 import java.io.StringWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Iterator;
 import java.util.LinkedHashMap;
 import java.util.TreeMap;
@@ -48,6 +49,7 @@ import javax.xml.transform.stream.StreamSource;
 import de.uka.ipd.idaho.easyIO.streams.CharSequenceReader;
 import de.uka.ipd.idaho.gamta.Annotation;
 import de.uka.ipd.idaho.gamta.AnnotationUtils;
+import de.uka.ipd.idaho.gamta.Attributed;
 import de.uka.ipd.idaho.gamta.DocumentRoot;
 import de.uka.ipd.idaho.gamta.Gamta;
 import de.uka.ipd.idaho.gamta.MutableAnnotation;
@@ -78,7 +80,7 @@ public class BibRefUtils implements BibRefConstants {
 		private HashMap attributes = new HashMap();
 		
 		private LinkedHashMap identifiers = new LinkedHashMap();
-		private static final String ID_PREFIX = (PUBLICATION_IDENTIFIER_ANNOTATION_TYPE + "-");
+		static final String ID_PREFIX = (PUBLICATION_IDENTIFIER_ANNOTATION_TYPE + "-");
 		
 		/**
 		 * Constructor
@@ -86,8 +88,23 @@ public class BibRefUtils implements BibRefConstants {
 		public RefData() {}
 		
 		/**
+		 * Constructor
+		 * @param model the bibliographic reference data object to copy
+		 */
+		public RefData(RefData model) {
+			for (Iterator anit = model.attributes.keySet().iterator(); anit.hasNext();) {
+				String an = ((String) anit.next());
+				Object av = model.attributes.get(an);
+				if (av instanceof ArrayList)
+					this.attributes.put(an, new ArrayList((ArrayList) av));
+				else this.attributes.put(an, av);
+			}
+			this.identifiers.putAll(model.identifiers);
+		}
+		
+		/**
 		 * Add a pair of attribute and value to the reference data set. Each
-		 * attribute can be added multiple times to accomodate, for instance,
+		 * attribute can be added multiple times to accommodate, for instance,
 		 * multiple author names. If the argument attribute name starts with
 		 * 'ID-', the attribute value is added as an identifier, using the part
 		 * after the dash as the identifier type. There can only be one
@@ -441,10 +458,10 @@ public class BibRefUtils implements BibRefConstants {
 			//	no detail annotations found, try attributes as fallback
 			if (details.length == 0) {
 				if (genericRef.hasAttribute(genericAttributeNames[a])) {
-					if (AUTHOR_ANNOTATION_TYPE.equals(genericAttributeNames[a])) {
-						String[] authors = ((String) genericRef.getAttribute(genericAttributeNames[a])).split("\\s*\\&\\s*");
-						for (int d = 0; d < authors.length; d++)
-							rd.addAttribute(genericAttributeNames[a], authors[d]);
+					if (AUTHOR_ANNOTATION_TYPE.equals(genericAttributeNames[a]) || EDITOR_ANNOTATION_TYPE.equals(genericAttributeNames[a])) {
+						String[] authorsOrEditors = ((String) genericRef.getAttribute(genericAttributeNames[a])).split("\\s*\\&\\s*");
+						for (int d = 0; d < authorsOrEditors.length; d++)
+							rd.addAttribute(genericAttributeNames[a], authorsOrEditors[d]);
 					}
 					else rd.addAttribute(genericAttributeNames[a], ((String) genericRef.getAttribute(genericAttributeNames[a])));
 				}
@@ -524,11 +541,169 @@ public class BibRefUtils implements BibRefConstants {
 		//	get type, induce if necessary
 		String type = ((String) genericRef.getAttribute(PUBLICATION_TYPE_ATTRIBUTE));
 		if ((type == null) || (type.length() == 0))
-			BibRefUtils.classify(rd);
+			classify(rd);
 		else rd.setAttribute(PUBLICATION_TYPE_ATTRIBUTE, type);
 		
 		//	finally ...
 		return rd;
+	}
+	
+	/**
+	 * Create a reference data object from qualified attributes of an attribute
+	 * bearing object, namely from attributes whose name is prefixed 'mods:'.
+	 * This method splits publisher and location from one another if necessary.
+	 * @param modsRef the bearer of the MODS attributes
+	 * @return a reference data object
+	 */
+	public static RefData modsAttributesToRefData(Attributed modsRef) {
+		RefData rd = new RefData();
+		boolean gotPartDesignator = false;
+		
+		//	get attribute names
+		String[] attributeNames = modsRef.getAttributeNames();
+		
+		//	transfer attributes
+		for (int a = 0; a < attributeNames.length; a++) {
+			
+			//	this one isn't for us
+			if (!attributeNames[a].startsWith("mods:"))
+				continue;
+			
+			//	get attribute
+			String attributeValue = ((String) modsRef.getAttribute(attributeNames[a]));
+			if (attributeValue == null)
+				continue;
+			attributeValue = attributeValue.trim();
+			if (attributeValue.length() == 0)
+				continue;
+			
+			//	trim attribute name for further handling
+			String attributeName = attributeNames[a].substring("mods:".length());
+			
+			//	handle authors and editors separately
+			if (AUTHOR_ANNOTATION_TYPE.equals(attributeName) || EDITOR_ANNOTATION_TYPE.equals(attributeName)) {
+				String[] authorsOrEditors = attributeValue.split("\\s*\\&\\s*");
+				for (int d = 0; d < authorsOrEditors.length; d++)
+					rd.addAttribute(attributeName, authorsOrEditors[d]);
+				continue;
+			}
+			
+			//	transfer part designators type specifically
+			if (PART_DESIGNATOR_ANNOTATION_TYPE.equals(attributeName)) {
+				gotPartDesignator = true;
+				if (!rd.hasAttribute(VOLUME_DESIGNATOR_ANNOTATION_TYPE))
+					rd.setAttribute(VOLUME_DESIGNATOR_ANNOTATION_TYPE, attributeValue);
+				else if (!rd.hasAttribute(ISSUE_DESIGNATOR_ANNOTATION_TYPE))
+					rd.setAttribute(ISSUE_DESIGNATOR_ANNOTATION_TYPE, attributeValue);
+				else if (!rd.hasAttribute(NUMERO_DESIGNATOR_ANNOTATION_TYPE))
+					rd.setAttribute(NUMERO_DESIGNATOR_ANNOTATION_TYPE, attributeValue);
+				continue;
+			}
+			
+			//	remember we have a part designator
+			if (VOLUME_DESIGNATOR_ANNOTATION_TYPE.equals(attributeName) || ISSUE_DESIGNATOR_ANNOTATION_TYPE.equals(attributeName) || NUMERO_DESIGNATOR_ANNOTATION_TYPE.equals(attributeName))
+				gotPartDesignator = true;
+			
+			//	handle journal/publisher
+			if (JOURNAL_NAME_OR_PUBLISHER_ANNOTATION_TYPE.equals(attributeName)) {
+				
+				//	journal name
+				if (gotPartDesignator)
+					rd.setAttribute(JOURNAL_NAME_ANNOTATION_TYPE, attributeValue);
+				
+				//	split publisher from location
+				else {
+					int split = attributeValue.indexOf(":");
+					if (split == -1)
+						split = attributeValue.indexOf(",");
+					if (split == -1)
+						rd.setAttribute(PUBLISHER_ANNOTATION_TYPE, attributeValue);
+					else if (attributeValue.charAt(split) == ':') {
+						rd.setAttribute(PUBLISHER_ANNOTATION_TYPE, attributeValue.substring(split + ":".length()).trim());
+						rd.setAttribute(LOCATION_ANNOTATION_TYPE, attributeValue.substring(0, split).trim());
+					}
+					else {
+						rd.setAttribute(LOCATION_ANNOTATION_TYPE, attributeValue.substring(split + ",".length()).trim());
+						rd.setAttribute(PUBLISHER_ANNOTATION_TYPE, attributeValue.substring(0, split).trim());
+					}
+				}
+				
+				continue;
+			}
+			
+			//	handle IDs
+			if (attributeName.startsWith(RefData.ID_PREFIX)) {
+				rd.setIdentifier(attributeName.substring(RefData.ID_PREFIX.length()), attributeValue);
+				continue;
+			}
+			
+			//	handle other details
+			rd.addAttribute(attributeName, attributeValue);
+		}
+		
+		//	get type, induce if necessary
+		String type = ((String) modsRef.getAttribute("mods:" + PUBLICATION_TYPE_ATTRIBUTE));
+		if ((type == null) || (type.length() == 0))
+			classify(rd);
+		else rd.setAttribute(PUBLICATION_TYPE_ATTRIBUTE, type);
+		
+		//	finally ...
+		return rd;
+	}
+	
+	/**
+	 * Store details of a bibliographic reference in its object representation
+	 * in qualified attributes of an attribute bearing object. The attributes
+	 * of the argument reference are stored in equally-named attributes to the
+	 * argument attribute bearer, prefixed with 'mods:'. Further, any 'mods:'
+	 * prefixed attributes that are not present in the argument reference
+	 * object ae removed.
+	 * @param target the object to add the reference attributes to
+	 * @param ref the bibliographic reference to store
+	 */
+	public static void toModsAttributes(RefData ref, Attributed target) {
+		
+		//	collect existing attributes
+		String[] targetAttributeNames = target.getAttributeNames();
+		HashSet spuriousTargetAttributeNames = new HashSet();
+		for (int n = 0; n < targetAttributeNames.length; n++) {
+			if (targetAttributeNames[n].startsWith("mods:"))
+				spuriousTargetAttributeNames.add(targetAttributeNames[n].substring("mods:".length()));
+		}
+		
+		//	set ID attributes
+		String[] idTypes = ref.getIdentifierTypes();
+		for (int i = 0; i < idTypes.length; i++) {
+			if (!AnnotationUtils.isValidAnnotationType(idTypes[i]))
+				continue;
+			String id = ref.getIdentifier(idTypes[i]);
+			if ((id != null) && (id.trim().length() != 0)) {
+				target.setAttribute(("mods:" + RefData.ID_PREFIX + idTypes[i]), id.trim());
+				spuriousTargetAttributeNames.remove(RefData.ID_PREFIX + idTypes[i]);
+			}
+		}
+		
+		//	store all attributes explicitly
+		String[] refAttributeNames = ref.getAttributeNames();
+		for (int n = 0; n < refAttributeNames.length; n++) {
+			String attributeValue;
+			if (AUTHOR_ANNOTATION_TYPE.equals(refAttributeNames[n]) || EDITOR_ANNOTATION_TYPE.equals(refAttributeNames[n]))
+				attributeValue = ref.getAttributeValueString(refAttributeNames[n], " & ");
+			else attributeValue = ref.getAttribute(refAttributeNames[n]);
+			if (attributeValue == null)
+				continue;
+			attributeValue = attributeValue.trim();
+			if (attributeValue.length() == 0)
+				continue;
+			target.setAttribute(("mods:" + refAttributeNames[n]), attributeValue);
+			spuriousTargetAttributeNames.remove(refAttributeNames[n]);
+		}
+		
+		//	remove spurious attributes
+		for (Iterator sanit = spuriousTargetAttributeNames.iterator(); sanit.hasNext();) {
+			String spuriousDocAttributeName = ((String) sanit.next());
+			target.removeAttribute("mods:" + spuriousDocAttributeName);
+		}
 	}
 	
 	/**
@@ -560,6 +735,7 @@ public class BibRefUtils implements BibRefConstants {
 		if (hostItem.length != 0)
 			extractDetails(hostItem[0], hostItemDetailPathsByType, rd);
 		extractDetails(modsRef, TITLE_ANNOTATION_TYPE, titlePath, rd);
+		extractDetails(modsRef, BOOK_CONTENT_INFO_ANNOTATION_TYPE, bookContentInfoPath, rd);
 		
 		//	get publication URL
 		Annotation[] urlAnnots = publicationUrlPath.evaluate(modsRef, null);
@@ -567,7 +743,6 @@ public class BibRefUtils implements BibRefConstants {
 			rd.setAttribute(PUBLICATION_URL_ANNOTATION_TYPE, TokenSequenceUtils.concatTokens(urlAnnots[0], false, true).replaceAll("\\s+", ""));
 		
 		//	store identifiers
-//		Annotation[] idAnnots = modsRef.getAnnotations("mods:identifier");
 		Annotation[] idAnnots = modsRef.getAnnotations("identifier");
 		for (int i = 0; i < idAnnots.length; i++) {
 			String type = ((String) idAnnots[i].getAttribute("type"));
@@ -576,7 +751,6 @@ public class BibRefUtils implements BibRefConstants {
 		}
 		
 		//	get reference type
-//		Annotation[] typeAnnots = modsRef.getAnnotations("mods:classification");
 		Annotation[] typeAnnots = modsRef.getAnnotations("classification");
 		String type = ((typeAnnots.length == 0) ? "" : typeAnnots[0].getValue().toLowerCase());
 		
@@ -592,6 +766,13 @@ public class BibRefUtils implements BibRefConstants {
 		else {
 			rd.renameAttribute("hostTitle", VOLUME_TITLE_ANNOTATION_TYPE);
 			rd.renameAttribute("hostVolumeTitle", VOLUME_TITLE_ANNOTATION_TYPE);
+		}
+		
+		//	handle book content info
+		if ("book".equals(type)) {
+			Annotation[] infoAnnots = modsRef.getAnnotations("note");
+			for (int i = 0; i < infoAnnots.length; i++)
+				rd.addAttribute(BOOK_CONTENT_INFO_ANNOTATION_TYPE, infoAnnots[i].getValue());
 		}
 		
 		//	unify pagination
@@ -620,33 +801,11 @@ public class BibRefUtils implements BibRefConstants {
 		}
 	}
 	
-//	private static final GPath titlePath = new GPath("//mods:titleInfo/mods:title");
-//	
-//	private static final GPath authorsPath = new GPath("//mods:name[.//mods:roleTerm = 'Author']/mods:namePart");
-//	
-//	private static final GPath publicationUrlPath = new GPath("//mods:location/mods:url");
-//	
-//	private static final GPath hostItemPath = new GPath("//mods:relatedItem[./@type = 'host']");
-//	private static final GPath hostItem_titlePath = new GPath("//mods:titleInfo/mods:title");
-//	private static final GPath hostItem_volumeNumberPath = new GPath("//mods:part/mods:detail[(./@type = 'volume') or (./@type = 'issue') or (./@type = 'numero')]/mods:number");
-//	private static final GPath hostItem_volumeTitlePath = new GPath("//mods:part/mods:detail[./@type = 'title']/mods:title");
-//	private static final GPath hostItem_startPagePath = new GPath("//mods:part/mods:extent[./@unit = 'page']/mods:start");
-//	private static final GPath hostItem_endPagePath = new GPath("//mods:part/mods:extent[./@unit = 'page']/mods:end");
-//	private static final GPath hostItem_datePath = new GPath("//mods:part/mods:date");
-//	private static final GPath hostItem_editorsPath = new GPath("//mods:name[.//mods:roleTerm = 'Editor']/mods:namePart");
-//	
-//	private static final GPath hostItem_volumePath = new GPath("//mods:part/mods:detail[./@type = 'volume']/mods:number");
-//	private static final GPath hostItem_issuePath = new GPath("//mods:part/mods:detail[./@type = 'issue']/mods:number");
-//	private static final GPath hostItem_numeroPath = new GPath("//mods:part/mods:detail[./@type = 'numero']/mods:number");
-//	
-//	private static final GPath originInfoPath = new GPath("//mods:originInfo");
-//	private static final GPath originInfo_publisherNamePath = new GPath("//mods:publisher");
-//	private static final GPath originInfo_publisherLocationPath = new GPath("//mods:place/mods:placeTerm");
-//	private static final GPath originInfo_issueDatePath = new GPath("//mods:dateIssued");
-	
 	private static final GPath titlePath = new GPath("//titleInfo/title");
 	
 	private static final GPath authorsPath = new GPath("//name[.//roleTerm = 'Author']/namePart");
+	
+	private static final GPath bookContentInfoPath = new GPath("//note");
 	
 	private static final GPath publicationUrlPath = new GPath("//location/url");
 	
@@ -672,6 +831,7 @@ public class BibRefUtils implements BibRefConstants {
 	static {
 		baseDetailPathsByType.put(TITLE_ANNOTATION_TYPE, titlePath);
 		baseDetailPathsByType.put(AUTHOR_ANNOTATION_TYPE, authorsPath);
+		baseDetailPathsByType.put(BOOK_CONTENT_INFO_ANNOTATION_TYPE, bookContentInfoPath);
 	}
 	private static LinkedHashMap hostItemDetailPathsByType = new LinkedHashMap();
 	static {
@@ -733,7 +893,7 @@ public class BibRefUtils implements BibRefConstants {
 	/**
 	 * Add a reference string style.
 	 * @param name the name of the reference string style
-	 * @param xslt the XSL stransformer generating the reference style from the
+	 * @param xslt the XSL transformer generating the reference style from the
 	 *            XML representation of reference data sets
 	 * @return true if the style was newly added
 	 */
@@ -773,12 +933,12 @@ public class BibRefUtils implements BibRefConstants {
 	 * Add a reference object type. If the argument flag is set to indicate the
 	 * output of the argument transformer is not XML, it will be unescaped.
 	 * @param name the name of the reference object type
-	 * @param xslt the XSL stransformer generating the reference objects from
+	 * @param xslt the XSL transformer generating the reference objects from
 	 *            the XML representation of reference data sets
 	 * @param outputIsXml is the output of the transformer XML?
 	 * @return true if the type was newly added
 	 */
-	public boolean addRefObjectType(String name, Transformer xslt, boolean outputIsXml) {
+	public static boolean addRefObjectType(String name, Transformer xslt, boolean outputIsXml) {
 		return ((name != null) && (xslt != null) && (refObjectTypes.put(name.toLowerCase(), new RefFormat(name, xslt, outputIsXml)) == null));
 	}
 	
@@ -879,15 +1039,16 @@ public class BibRefUtils implements BibRefConstants {
 		PUBLICATION_URL_ANNOTATION_TYPE,
 		PUBLICATION_DOI_ANNOTATION_TYPE,
 		PUBLICATION_ISBN_ANNOTATION_TYPE,
+		BOOK_CONTENT_INFO_ANNOTATION_TYPE,
 	};
 	private static final String[] genericAttributeNames = {
 		AUTHOR_ANNOTATION_TYPE,
 		YEAR_ANNOTATION_TYPE,
 		TITLE_ANNOTATION_TYPE,
-		PART_DESIGNATOR_ANNOTATION_TYPE,
 		VOLUME_DESIGNATOR_ANNOTATION_TYPE,
 		ISSUE_DESIGNATOR_ANNOTATION_TYPE,
 		NUMERO_DESIGNATOR_ANNOTATION_TYPE,
+		PART_DESIGNATOR_ANNOTATION_TYPE,
 		JOURNAL_NAME_OR_PUBLISHER_ANNOTATION_TYPE,
 		JOURNAL_NAME_ANNOTATION_TYPE,
 		PUBLISHER_ANNOTATION_TYPE,
@@ -898,6 +1059,7 @@ public class BibRefUtils implements BibRefConstants {
 		PUBLICATION_URL_ANNOTATION_TYPE,
 		PUBLICATION_DOI_ANNOTATION_TYPE,
 		PUBLICATION_ISBN_ANNOTATION_TYPE,
+		BOOK_CONTENT_INFO_ANNOTATION_TYPE,
 	};
 	
 	/**
@@ -1004,56 +1166,57 @@ public class BibRefUtils implements BibRefConstants {
 	
 	/**
 	 * Read document meta data from a given MODS header and add them as
-	 * attributes to a given document. If the argument document is a
-	 * DocumentRoot instance, the meta data is additionally deposited in
-	 * document properties.
-	 * @param doc the documents to add the attributes to
+	 * attributes to a given attributed object. If the argument attributed
+	 * object is a <code>DocumentRoot</code> instance, the meta data is
+	 * additionally deposited in document properties.
+	 * @param data the attributed object to add the attributes to
 	 * @param mods the MODS header to take the attributes from
 	 */
-	public static void setDocAttributes(MutableAnnotation doc, MutableAnnotation mods) {
-		setDocAttributes(doc, modsXmlToRefData(mods));
+	public static void setDocAttributes(Attributed data, QueriableAnnotation mods) {
+		setDocAttributes(data, modsXmlToRefData(mods));
 	}
 	
 	/**
-	 * Add document meta data from a reference data set as attributes to a given
-	 * document. If the argument document is a DocumentRoot instance, the meta
-	 * data is additionally deposited in document properties.
-	 * @param doc the documents to add the attributes to
+	 * Add document meta data from a reference data set as attributes to a
+	 * given attributed object. If the argument attributed object is a
+	 * <code>DocumentRoot</code> instance, the meta data is additionally
+	 * deposited in document properties.
+	 * @param data the documents to add the attributes to
 	 * @param ref the MODS data set to take the attributes from
 	 */
-	public static void setDocAttributes(MutableAnnotation doc, RefData ref) {
+	public static void setDocAttributes(Attributed data, RefData ref) {
 		String[] idTypes = ref.getIdentifierTypes();
 		for (int i = 0; i < idTypes.length; i++) {
 			if (!AnnotationUtils.isValidAnnotationType(idTypes[i]))
 				continue;
 			String id = ref.getIdentifier(idTypes[i]);
 			if ((id != null) && (id.trim().length() != 0))
-				setAttribute(doc, ("ID-" + idTypes[i]), id.trim());
+				setAttribute(data, ("ID-" + idTypes[i]), id.trim());
 		}
 		
-		setAttribute(doc, DOCUMENT_AUTHOR_ATTRIBUTE, ref, AUTHOR_ANNOTATION_TYPE, false);
-		setAttribute(doc, DOCUMENT_TITLE_ATTRIBUTE, ref, TITLE_ANNOTATION_TYPE, true);
-		setAttribute(doc, DOCUMENT_DATE_ATTRIBUTE, ref, YEAR_ANNOTATION_TYPE, true);
-		setAttribute(doc, DOCUMENT_SOURCE_LINK_ATTRIBUTE, ref, PUBLICATION_URL_ANNOTATION_TYPE, true);
+		setAttribute(data, DOCUMENT_AUTHOR_ATTRIBUTE, ref, AUTHOR_ANNOTATION_TYPE, false);
+		setAttribute(data, DOCUMENT_TITLE_ATTRIBUTE, ref, TITLE_ANNOTATION_TYPE, true);
+		setAttribute(data, DOCUMENT_DATE_ATTRIBUTE, ref, YEAR_ANNOTATION_TYPE, true);
+		setAttribute(data, DOCUMENT_SOURCE_LINK_ATTRIBUTE, ref, PUBLICATION_URL_ANNOTATION_TYPE, true);
 		
 		if (ref.hasAttribute(PAGINATION_ANNOTATION_TYPE) || ref.hasAttribute(VOLUME_TITLE_ANNOTATION_TYPE)) {
 			String origin = BibRefTypeSystem.getDefaultInstance().getOrigin(ref);
 			if ((origin != null) && (origin.trim().length() != 0))
-				setAttribute(doc, DOCUMENT_ORIGIN_ATTRIBUTE, origin.trim());
+				setAttribute(data, DOCUMENT_ORIGIN_ATTRIBUTE, origin.trim());
 			String pagination = ref.getAttribute(PAGINATION_ANNOTATION_TYPE);
 			if (pagination != null) {
 				String[] pns = pagination.trim().split("\\s*\\-+\\s*");
 				if (pns.length == 1)
-					doc.setAttribute(PAGE_NUMBER_ATTRIBUTE, pns[0]);
+					data.setAttribute(PAGE_NUMBER_ATTRIBUTE, pns[0]);
 				else if (pns.length == 2) {
-					doc.setAttribute(PAGE_NUMBER_ATTRIBUTE, pns[0]);
-					doc.setAttribute(LAST_PAGE_NUMBER_ATTRIBUTE, pns[1]);
+					data.setAttribute(PAGE_NUMBER_ATTRIBUTE, pns[0]);
+					data.setAttribute(LAST_PAGE_NUMBER_ATTRIBUTE, pns[1]);
 				}
 			}
 		}
 	}
 	
-	private static void setAttribute(MutableAnnotation doc, String dan, RefData ref, String ran, boolean onlyFirst) {
+	private static void setAttribute(Attributed doc, String dan, RefData ref, String ran, boolean onlyFirst) {
 		String[] values = ref.getAttributeValues(ran);
 		if (values == null)
 			return;
@@ -1072,7 +1235,7 @@ public class BibRefUtils implements BibRefConstants {
 		setAttribute(doc, dan, value);
 	}
 	
-	private static void setAttribute(MutableAnnotation doc, String name, String value) {
+	private static void setAttribute(Attributed doc, String name, String value) {
 		doc.setAttribute(name, value);
 		if (doc instanceof DocumentRoot)
 			((DocumentRoot) doc).setDocumentProperty(name, value);

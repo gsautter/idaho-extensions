@@ -82,6 +82,16 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 			this.rankSystem = rankSystem;
 		}
 		
+		/** Constructor
+		 * @param model the taxonomic name object to copy
+		 */
+		public TaxonomicName(TaxonomicName model) {
+			this.rankSystem = model.rankSystem;
+			this.epithets.putAll(model.epithets);
+			this.authorityName = model.authorityName;
+			this.authorityYear = model.authorityYear;
+		}
+		
 		/**
 		 * Retrieve the epithet of a given rank.
 		 * @param rank the rank to get the epithet for
@@ -228,7 +238,7 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 			Rank genusRank = this.rankSystem.getRank(GENUS_ATTRIBUTE);
 			StringBuffer string = new StringBuffer();
 			
-			//	above genus or genus, only use most significant epithet
+			//	genus or above, only use most significant epithet
 			if (ownRank.getRelativeSignificance() <= genusRank.getRelativeSignificance()) {
 				String epithet = this.epithets.getProperty(ownRank.name);
 				if (epithet != null) {
@@ -253,7 +263,7 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 				}
 			}
 			
-			//	addd authority if asked to
+			//	add authority if asked to
 			if (includeAuthority && (this.authorityName != null) && (string.length() != 0)) {
 				string.append(' ');
 				string.append(this.getAuthority());
@@ -416,7 +426,7 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 	}
 	
 	/**
-	 * Convert a name into DarwinCore XML, additional ranks suplemented by
+	 * Convert a name into DarwinCore XML, additional ranks supplemented by
 	 * DarwinCore-Ranks.
 	 * @param taxName the name to convert
 	 * @return the argument name as Simple DarwinCore XML
@@ -426,7 +436,7 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 	}
 	
 	/**
-	 * Convert a name into Simple DarwinCore XML, additional ranks suplemented
+	 * Convert a name into Simple DarwinCore XML, additional ranks supplemented
 	 * by DarwinCore-Ranks.
 	 * @param taxName the name to convert
 	 * @return the argument name as Simple DarwinCore XML

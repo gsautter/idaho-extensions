@@ -79,8 +79,11 @@ public interface BibRefConstants extends LiteratureConstants {
 	/** annotation type for marking the title of a volume a referenced publication is a part of */
 	public static final String VOLUME_TITLE_ANNOTATION_TYPE = "volumeTitle";
 	
-	/** annotation type for marking the editor of a valume a referenced publication is a part of */
+	/** annotation type for marking the editor of a volume a referenced publication is a part of */
 	public static final String EDITOR_ANNOTATION_TYPE = "editor";
+	
+	/** annotation type for marking detail information on a book, like the number of pages, tables, figures, etc. */
+	public static final String BOOK_CONTENT_INFO_ANNOTATION_TYPE = "bookContentInfo";
 	
 	/** attribute for storing a URL a referenced publication can be retrieved from */
 	public static final String PUBLICATION_URL_ANNOTATION_TYPE = "publicationUrl";

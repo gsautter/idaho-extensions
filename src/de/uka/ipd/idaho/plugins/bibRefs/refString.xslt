@@ -4,7 +4,7 @@
 	<xsl:output omit-xml-declaration="yes"/>
 	
 	<xsl:template match="//bibRef">
-		<xsl:call-template name="author"/><xsl:call-template name="year"/><xsl:call-template name="title"/><xsl:call-template name="hostVolume"/><xsl:call-template name="pagination"/><xsl:call-template name="isbn"/><xsl:call-template name="doi"/><xsl:call-template name="handle"/><xsl:call-template name="url"/>
+		<xsl:call-template name="author"/><xsl:call-template name="year"/><xsl:call-template name="title"/><xsl:call-template name="hostVolume"/><xsl:call-template name="pagination"/><xsl:call-template name="isbn"/><xsl:call-template name="doi"/><xsl:call-template name="handle"/><xsl:call-template name="url"/><xsl:if test="./@type = 'book'"><xsl:call-template name="bookContentInfo"/></xsl:if>
 		<xsl:text disable-output-escaping="yes">&#xa;</xsl:text>
 	</xsl:template>
 	
@@ -22,7 +22,7 @@
 	<xsl:template name="year">
 		<xsl:if test="./year"> (<xsl:value-of select="./year"/>)</xsl:if>
 	</xsl:template>
-	<xsl:template name="title"><!-- TODO figure out why substring has to go to string-lenth to get last character -->
+	<xsl:template name="title">
 		<xsl:if test="./title"><xsl:text disable-output-escaping="yes">: </xsl:text><xsl:value-of select="./title"/><xsl:if test="not(contains('?!.', substring(./title, (string-length(./title)-0))))">.</xsl:if></xsl:if>
 	</xsl:template>
 	
@@ -36,32 +36,32 @@
 	
 	<xsl:template name="isbn">
 		<xsl:choose>
-			<xsl:when test="./isbn">, ISBN: <xsl:value-of select="./isbn"/></xsl:when>
-			<xsl:when test="./ISBN">, ISBN: <xsl:value-of select="./ISBN"/></xsl:when>
-			<xsl:when test="./ID[./@type = 'ISBN']">, ISBN: <xsl:value-of select="./ID[./@type = 'ISBN']"/></xsl:when>
+			<xsl:when test="./isbn">, ISBN:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./isbn"/></xsl:when>
+			<xsl:when test="./ISBN">, ISBN:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./ISBN"/></xsl:when>
+			<xsl:when test="./ID[./@type = 'ISBN']">, ISBN:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./ID[./@type = 'ISBN']"/></xsl:when>
 		</xsl:choose>
 	</xsl:template>
 	<xsl:template name="doi">
 		<xsl:choose>
-			<xsl:when test="./doi">, DOI: <xsl:value-of select="./doi"/></xsl:when>
-			<xsl:when test="./DOI">, DOI: <xsl:value-of select="./DOI"/></xsl:when>
-			<xsl:when test="./ID[./@type = 'DOI']">, DOI: <xsl:value-of select="./ID[./@type = 'DOI']"/></xsl:when>
+			<xsl:when test="./doi">, DOI:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./doi"/></xsl:when>
+			<xsl:when test="./DOI">, DOI:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./DOI"/></xsl:when>
+			<xsl:when test="./ID[./@type = 'DOI']">, DOI:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./ID[./@type = 'DOI']"/></xsl:when>
 		</xsl:choose>
 	</xsl:template>
 	<xsl:template name="handle">
 		<xsl:choose>
-			<xsl:when test="./handle">, Hdl: <xsl:value-of select="./handle"/></xsl:when>
-			<xsl:when test="./Handle">, Hdl: <xsl:value-of select="./Handle"/></xsl:when>
-			<xsl:when test="./ID[./@type = 'Handle']">, Hdl: <xsl:value-of select="./ID[./@type = 'Handle']"/></xsl:when>
-			<xsl:when test="./ID[./@type = 'Hdl']">, Hdl: <xsl:value-of select="./ID[./@type = 'Hdl']"/></xsl:when>
+			<xsl:when test="./handle">, Hdl:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./handle"/></xsl:when>
+			<xsl:when test="./Handle">, Hdl:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./Handle"/></xsl:when>
+			<xsl:when test="./ID[./@type = 'Handle']">, Hdl:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./ID[./@type = 'Handle']"/></xsl:when>
+			<xsl:when test="./ID[./@type = 'Hdl']">, Hdl:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./ID[./@type = 'Hdl']"/></xsl:when>
 		</xsl:choose>
 	</xsl:template>
 	<xsl:template name="url">
 		<xsl:choose>
-			<xsl:when test="./url">, URL: <xsl:value-of select="./url"/></xsl:when>
-			<xsl:when test="./publicationUrl">, URL: <xsl:value-of select="./publicationUrl"/></xsl:when>
-			<xsl:when test="./URL">, URL: <xsl:value-of select="./URL"/></xsl:when>
-			<xsl:when test="./ID[./@type = 'URL']">, URL: <xsl:value-of select="./ID[./@type = 'URL']"/></xsl:when>
+			<xsl:when test="./url">, URL:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./url"/></xsl:when>
+			<xsl:when test="./publicationUrl">, URL:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./publicationUrl"/></xsl:when>
+			<xsl:when test="./URL">, URL:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./URL"/></xsl:when>
+			<xsl:when test="./ID[./@type = 'URL']">, URL:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./ID[./@type = 'URL']"/></xsl:when>
 		</xsl:choose>
 	</xsl:template>
 	
@@ -121,4 +121,7 @@
 		</xsl:choose>
 	</xsl:template>
 	
+	<xsl:template name="bookContentInfo">
+		<xsl:for-each select="./bookContentInfo">, <xsl:value-of select="."/></xsl:for-each>
+	</xsl:template>
 </xsl:stylesheet>

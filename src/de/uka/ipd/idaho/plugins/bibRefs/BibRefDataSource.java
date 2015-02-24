@@ -100,7 +100,7 @@ public abstract class BibRefDataSource implements BibRefConstants {
 	/**
 	 * Retrieve a nice name of the data source, for display purposes. If the
 	 * label field is null, this method defaults to the name.
-	 * @return a nive name for the data source
+	 * @return a nice name for the data source
 	 */
 	public String getLabel() {
 		return ((this.label == null) ? this.name : this.label);
@@ -112,7 +112,7 @@ public abstract class BibRefDataSource implements BibRefConstants {
 	 * Its default implementation simply returns true. Sub classes are welcome
 	 * to overwrite it as needed. Filters should be as restrictive as possible.
 	 * @param docId the document ID to check
-	 * @return true if the speciefied ID might come from the backing source,
+	 * @return true if the specified ID might come from the backing source,
 	 *         judging by syntax only
 	 */
 	public boolean isSuitableID(String docId) {

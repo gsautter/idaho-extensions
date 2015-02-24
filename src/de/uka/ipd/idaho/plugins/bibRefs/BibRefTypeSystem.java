@@ -91,7 +91,7 @@ public class BibRefTypeSystem implements BibRefConstants {
 	/**
 	 * A type of bibliographic reference, i.e., a type of referenced work, like
 	 * 'journal article' or 'book', allowing to specify which data elements a
-	 * reference data set should contain if it referes to a specific type of work.
+	 * reference data set should contain if it refers to a specific type of work.
 	 * Instances of this class can check reference data sets for consistency and
 	 * produce error messages.
 	 * 
@@ -302,7 +302,7 @@ public class BibRefTypeSystem implements BibRefConstants {
 		 * @param attributes the required attributes
 		 * @param error the error message to output if a reference data set does
 		 *            not have any of the attributes in the array
-		 * @param altErrors error messages in alernative languages
+		 * @param altErrors error messages in alternative languages
 		 */
 		public void addRequirement(String[] attributes, String error, Properties altErrors) {
 			if (attributes.length == 0)
@@ -341,7 +341,7 @@ public class BibRefTypeSystem implements BibRefConstants {
 		 * @param attributes the excluded attributes
 		 * @param error the error message to output if a reference data set has
 		 *            any of the attributes in the array
-		 * @param altErrors error messages in alernative languages
+		 * @param altErrors error messages in alternative languages
 		 */
 		public void addExclusion(String[] attributes, String error, Properties altErrors) {
 			if (attributes.length == 0)
@@ -371,7 +371,7 @@ public class BibRefTypeSystem implements BibRefConstants {
 		 * @param pattern the pattern to test the attribute against
 		 * @param error the error message to output if the value the attribute
 		 *            has in a reference data set does not match the pattern
-		 * @param altErrors error messages in alernative languages
+		 * @param altErrors error messages in alternative languages
 		 */
 		public void addPattern(String attribute, String pattern, String error, Properties altErrors) {
 			Pattern p = new Pattern(error, altErrors, attribute, pattern);
@@ -410,7 +410,7 @@ public class BibRefTypeSystem implements BibRefConstants {
 		 * @param test the test GPath expression
 		 * @param error the error message to output if a reference data set
 		 *            matches the test
-		 * @param altErrors error messages in alernative languages
+		 * @param altErrors error messages in alternative languages
 		 */
 		public void addCondition(GPathExpression test, String error, Properties altErrors) {
 			this.tests.add(new Condition(error, altErrors, test));

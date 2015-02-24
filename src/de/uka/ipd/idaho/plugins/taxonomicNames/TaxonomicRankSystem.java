@@ -79,7 +79,7 @@ public class TaxonomicRankSystem {
 		if (name == null)
 			return null;
 		for (int r = 0; r < this.ranks.size(); r++) {
-			if (name.equals(((Rank) this.ranks.get(r)).name))
+			if (name.equalsIgnoreCase(((Rank) this.ranks.get(r)).name))
 				return ((Rank) this.ranks.get(r));
 		}
 		return null;
@@ -88,7 +88,7 @@ public class TaxonomicRankSystem {
 	/**
 	 * Retrieve all ranks present in the rank system, ordered by significance,
 	 * from least to most. Client code may freely modify the returned array, as
-	 * a new one is allocated and filled for each invokation of this method.
+	 * a new one is allocated and filled for each invocation of this method.
 	 * @return an array holding the ranks
 	 */
 	public Rank[] getRanks() {
@@ -98,7 +98,7 @@ public class TaxonomicRankSystem {
 	/**
 	 * Retrieve the names of all ranks present in the rank system, ordered by
 	 * significance, from least to most. Client code may freely modify the
-	 * returned array, as a new one is allocated and filled for each invokation
+	 * returned array, as a new one is allocated and filled for each invocation
 	 * of this method.
 	 * @return an array holding the rank names
 	 */
@@ -119,7 +119,7 @@ public class TaxonomicRankSystem {
 		if (name == null)
 			return null;
 		for (int r = 0; r < this.rankGroups.size(); r++) {
-			if (name.equals(((RankGroup) this.rankGroups.get(r)).name))
+			if (name.equalsIgnoreCase(((RankGroup) this.rankGroups.get(r)).name))
 				return ((RankGroup) this.rankGroups.get(r));
 		}
 		return null;
@@ -128,7 +128,7 @@ public class TaxonomicRankSystem {
 	/**
 	 * Retrieve all rank groups present in the rank system, ordered by
 	 * significance, from least to most. Client code may freely modify the
-	 * returned array, as a new one is allocated and filled for each invokation
+	 * returned array, as a new one is allocated and filled for each invocation
 	 * of this method.
 	 * @return an array holding the rank groups
 	 */
@@ -139,7 +139,7 @@ public class TaxonomicRankSystem {
 	/**
 	 * Retrieve the names of all rank groups present in the rank system, ordered
 	 * by significance, from least to most. Client code may freely modify the
-	 * returned array, as a new one is allocated and filled for each invokation
+	 * returned array, as a new one is allocated and filled for each invocation
 	 * of this method.
 	 * @return an array holding the rank group names
 	 */
@@ -192,7 +192,7 @@ public class TaxonomicRankSystem {
 		}
 		
 		/**
-		 * Indicates whethet or not the rank is a primary one.
+		 * Indicates whether or not the rank is a primary one.
 		 * @return true for primary ranks, false for others
 		 */
 		public boolean isPrimary() {
@@ -235,7 +235,7 @@ public class TaxonomicRankSystem {
 		/**
 		 * Retrieve all abbreviations of the rank. Client code may freely modify
 		 * the returned array, as a new one is allocated and filled for each
-		 * invokation of this method.
+		 * invocation of this method.
 		 * @return an array holding the abbreviations
 		 */
 		public String[] getAbbreviations() {
@@ -282,7 +282,7 @@ public class TaxonomicRankSystem {
 			if (name == null)
 				return null;
 			for (int r = 0; r < this.ranks.size(); r++) {
-				if (name.equals(((Rank) this.ranks.get(r)).name))
+				if (name.equalsIgnoreCase(((Rank) this.ranks.get(r)).name))
 					return ((Rank) this.ranks.get(r));
 			}
 			return null;
@@ -292,7 +292,7 @@ public class TaxonomicRankSystem {
 		 * Retrieve all ranks present in the rank group, ordered by
 		 * significance, from least to most. Client code may freely modify the
 		 * returned array, as a new one is allocated and filled for each
-		 * invokation of this method.
+		 * invocation of this method.
 		 * @return an array holding the ranks
 		 */
 		public Rank[] getRanks() {

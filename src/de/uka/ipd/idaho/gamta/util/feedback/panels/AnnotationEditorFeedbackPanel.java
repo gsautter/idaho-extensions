@@ -79,19 +79,15 @@ import de.uka.ipd.idaho.gamta.util.feedback.FeedbackPanel;
  */
 public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 	
-	/* TODO
-	 * - add 'change type to' to context menu
-	 *   ==> DO NOT DO THIS (mis-taggings are rather rare in pre-tagging functionality, compared to the context menu explosion caused by type changing options)
-	 * - add allowCut, allowSplit, and allowChangeType to configuration properties
-	 *   - including respective getters and setters
-	 *     ==> allows for switching on and off functionality as needed for usability / clarity balance in individual use cases
-	 *   - transfer in writeData() / initFields()
-	 *   ==> DO NOT DO THIS (required functions depend more on individual annotations types and how they are pre-tagged than on general application)
-	 * ==> WAY more user friendly editing
-	 * DO DO THIS, SWITCHABLE OPTIONS MAINTAIN CONVENIENCE
-	 * plus TODO
-	 * - add 'annotate all as ...' function if more than one MutableAnnotation is added to the feedback panel
-	 */
+	//	TODO if all tokens of a single annotation selected, offer 'Change Type to XYZ' in context menu
+	
+	//	TODO allow flagging detail types as 'basic' and 'advanced', the latter only showing in legend, highlights, and context menu if switched on by some toggle button
+	
+	//	TODO abandon multi-annotation mode, just using a single annotation to work on
+	
+	//	TODO click on type in legend ==> open (list of) annotated values, allowing for editing
+	//	TODO add getAttribute() method, returning (a) value(s) input in above sub window and (b) what's annotated if attribute not given
+	//	TODO allow switching annotated value editing on and off
 	
 	private String fontName = "Verdana";
 	private int fontSize = 12;
@@ -103,6 +99,8 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 	
 	private boolean showDetailTypeLegend = true;
 	private JPanel detailTypeLegendPanel = new JPanel(new GridLayout(0, 4, 4, 2));
+	
+	private AnnotationDetailEditor activePanel = null;
 	
 	/**
 	 * @return Returns the fontName.
@@ -275,8 +273,6 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 		
 		this.textStyle.addAttribute(StyleConstants.FontConstants.Family, this.fontName);
 		this.textStyle.addAttribute(StyleConstants.FontConstants.Size, new Integer(this.fontSize));
-//		this.textStyle.addAttribute(StyleConstants.ColorConstants.Foreground, Color.BLACK);
-//		this.textStyle.addAttribute(StyleConstants.ColorConstants.Background, Color.WHITE);
 		
 		this.noTypeStyle.addAttribute(StyleConstants.ColorConstants.Foreground, Color.BLACK);
 		this.noTypeStyle.addAttribute(StyleConstants.ColorConstants.Background, Color.WHITE);
@@ -292,18 +288,67 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 		
 		String[] types = this.getDetailTypes();
 		for (int t = 0; t < types.length; t++) {
-			final Color color = this.getDetailColor(types[t]);
-			if (color != null) {
-				
-				int rgb = color.getRGB();
-				BufferedImage iconImage = new BufferedImage(12, 12, BufferedImage.TYPE_INT_ARGB);
-				for (int x = 0; x < iconImage.getWidth(); x++)
-					for (int y = 0; y < iconImage.getHeight(); y++)
-						iconImage.setRGB(x, y, rgb);
-				JLabel typeLabel = new JLabel(types[t], new ImageIcon(iconImage), JLabel.LEFT);
-				typeLabel.setBorder(BorderFactory.createEtchedBorder());
-				this.detailTypeLegendPanel.add(typeLabel);
-			}
+			Color color = this.getDetailColor(types[t]);
+			if (color == null)
+				continue;
+			
+			final String type = types[t];
+			int rgb = color.getRGB();
+			BufferedImage iconImage = new BufferedImage(12, 12, BufferedImage.TYPE_INT_ARGB);
+			for (int x = 0; x < iconImage.getWidth(); x++)
+				for (int y = 0; y < iconImage.getHeight(); y++)
+					iconImage.setRGB(x, y, rgb);
+			
+			JLabel typeLabel = new JLabel(type, new ImageIcon(iconImage), JLabel.LEFT);
+			typeLabel.setBorder(BorderFactory.createEtchedBorder());
+			typeLabel.setToolTipText("Click to annotate selected text as '" + type + "'");
+			typeLabel.addMouseListener(new MouseAdapter() {
+				public void mouseClicked(MouseEvent me) {
+					
+					//	nothing selected
+					if (activePanel == null)
+						return;
+					
+					//	get offsets
+					int startOffset = activePanel.annotationDisplay.getSelectionStart();
+					int endOffset = activePanel.annotationDisplay.getSelectionEnd();
+					
+					//	compute indices
+					final int start;
+					final int end;
+					
+					//	no selection
+					if (startOffset == endOffset)
+						return;
+					
+					//	swap offsets if inverted
+					if (endOffset < startOffset) {
+						int temp = endOffset;
+						endOffset = startOffset;
+						startOffset = temp;
+					}
+					
+					//	get indices
+					start = activePanel.indexAtOffset(startOffset, true);
+					end = activePanel.indexAtOffset(endOffset, false);
+					if (end < start)
+						return;
+					
+					//	check if some annotation in selection
+					for (int t = start; t <= end; t++) {
+						if (START.equals(activePanel.tokens[t].state) || CONTINUE.equals(activePanel.tokens[t].state))
+							return;
+					}
+					
+					//	annotate on left click
+					if (me.getButton() == MouseEvent.BUTTON1)
+						activePanel.annotate(start, end, type);
+					
+					//	annotate all on right click
+					else activePanel.annotateAll(start, end, type);
+				}
+			});
+			this.detailTypeLegendPanel.add(typeLabel);
 		}
 		this.detailTypeLegendPanel.setBorder(BorderFactory.createLoweredBevelBorder());
 		this.detailTypeLegendPanel.validate();
@@ -311,7 +356,7 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 	
 	/**
 	 * Add an annotation to the feedback panel to have its details edited.
-	 * If the specified annotation adready has details annotated, only those
+	 * If the specified annotation already has details annotated, only those
 	 * details are affected by the editing whose type is added to the
 	 * feedback panel via the addDetailType() method. If the specified
 	 * annotation has overlapping detail annotations, only the first one of
@@ -523,11 +568,12 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 			//	init context menu
 			this.annotationDisplay.addMouseListener(new MouseAdapter() {
 				public void mouseClicked(MouseEvent me) {
-					if (me.getButton() != MouseEvent.BUTTON1) {
-//						int pos = annotationDisplay.getCaretPosition();
-//						System.out.println("Right Click at " + pos + ", token " + indexAtOffset(pos, true));
+					if (me.getButton() != MouseEvent.BUTTON1)
 						displayContextMenu(me);
-					}
+				}
+				public void mouseReleased(MouseEvent me) {
+					if (me.getButton() == MouseEvent.BUTTON1)
+						activePanel = AnnotationDetailEditor.this;
 				}
 			});
 			
@@ -599,11 +645,8 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 			if (startOffset == endOffset) {
 				start = this.indexAtOffset(startOffset, true);
 				end = this.indexAtOffset(endOffset, false);
-				if (start != end) {
-//					System.out.println("Click at " + startOffset + " between tokens");
+				if (start != end)
 					return;
-				}
-//				System.out.println("Click at " + startOffset + " in token " + start);
 			}
 			
 			//	some selection
@@ -619,11 +662,8 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 				//	get indices
 				start = this.indexAtOffset(startOffset, true);
 				end = this.indexAtOffset(endOffset, false);
-				if (end < start) {
-//					System.out.println("Selection in whitespace at " + startOffset);
+				if (end < start)
 					return;
-				}
-//				System.out.println("Selection from " + startOffset + " to " + endOffset + ", tokens " + start + " to "  + end);
 			}
 			
 			int aCount = 0;
@@ -911,7 +951,6 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 		}
 		
 		void annotateAll(int start, int end, String type) {
-			System.out.println("AnnotateAll: start is " + start + ", end is " + end + ", value is '" + this.getValue(start, end) + "'");
 			
 			//	extract match token sequence
 			String[] values = new String[end + 1 - start];

@@ -90,16 +90,12 @@ public class AnnotationEditorFeedbackPanelRenderer extends FeedbackPanelHtmlRend
 			BufferedLineWriter blw = ((out instanceof BufferedLineWriter) ? ((BufferedLineWriter) out) : new BufferedLineWriter(out));
 			
 			blw.writeLine("var _DEBUG = false;");
-			blw.writeLine("");
 			blw.writeLine("var _replaceContext = false;		// replace the system context menu?");
 			blw.writeLine("var _mouseOverContext = false;		// is the mouse over the context menu?");
 			blw.writeLine("var _contextHasContent = false;");
-			blw.writeLine("");
 			blw.writeLine("var _divContext;	// makes my life easier");
 			blw.writeLine("var _feedbackForm;");
-			blw.writeLine("");
 			blw.writeLine("var _colors = new Object();");
-			blw.writeLine("");
 			
 			
 			blw.writeLine("function initContext() {");
@@ -114,12 +110,9 @@ public class AnnotationEditorFeedbackPanelRenderer extends FeedbackPanelHtmlRend
 			blw.writeLine("  ");
 			
 			String[] types = this.aefp.getDetailTypes();
-			for (int t = 0; t < types.length; t++) {
+			for (int t = 0; t < types.length; t++)
 				blw.writeLine("  _colors." + types[t] + " = '" + FeedbackPanel.getRGB(this.aefp.getDetailColor(types[t])) + "';");
-			}
 			
-			blw.writeLine("  ");
-			blw.writeLine("  ");
 			blw.writeLine("  var p = 0;");
 			blw.writeLine("  var t = 1;");
 			blw.writeLine("  while (t != 0) {");
@@ -1049,10 +1042,11 @@ public class AnnotationEditorFeedbackPanelRenderer extends FeedbackPanelHtmlRend
 				for (int r = 0; r < types.length; r+=4) {
 					blw.writeLine("<tr>");
 					for (int c = 0; c < 4; c++) {
-						blw.writeLine("<td>");
+						blw.write("<td>");
 						if ((r + c) < types.length) {
-							blw.write("<span style=\"background-color: " + FeedbackPanel.getRGB(this.aefp.getDetailColor(types[r+c])) + ";\">&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;");
-							blw.writeLine(types[r+c]);
+							blw.write("<span style=\"width: 12px; height: 12 px; background-color: " + FeedbackPanel.getRGB(this.aefp.getDetailColor(types[r+c])) + ";\">&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;");
+							blw.write(types[r+c]);
+							//	TODO add click listener
 						}
 						blw.writeLine("</td>");
 					}
