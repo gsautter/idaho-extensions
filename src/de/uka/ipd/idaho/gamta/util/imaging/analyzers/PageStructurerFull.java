@@ -98,6 +98,10 @@ import de.uka.ipd.idaho.stringUtils.regExUtils.RegExUtils;
  */
 public class PageStructurerFull extends AbstractConfigurableAnalyzer implements ImagingConstants, TableConstants {
 	
+	//	TODO when table marked, mark cells automatically, removing all other contained boxes beforehand
+	
+	//	TODO automatically remove all boxes contained in an OCR artifact
+	
 	private static final String PAGE_RANGE_ANNOTATION_TYPE = "pageRange";
 	
 	private static final String REGION_ANNOTATION_TYPE = "region";

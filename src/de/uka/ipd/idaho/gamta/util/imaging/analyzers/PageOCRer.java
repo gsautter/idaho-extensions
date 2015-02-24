@@ -39,35 +39,34 @@ import de.uka.ipd.idaho.gamta.util.imaging.ImagingConstants;
 import de.uka.ipd.idaho.gamta.util.imaging.PageAnalysis;
 import de.uka.ipd.idaho.gamta.util.imaging.PageImage;
 import de.uka.ipd.idaho.gamta.util.imaging.PageImageConverter;
-import de.uka.ipd.idaho.gamta.util.imaging.ocr.OcrEngine;
 
 /**
  * @author sautter
  */
 public class PageOCRer extends AbstractConfigurableAnalyzer implements MonitorableAnalyzer, ImagingConstants {
 	
-	private OcrEngine ocrEngine;
-	
+//	private OcrEngine ocrEngine;
+//	
 	/* (non-Javadoc)
 	 * @see de.uka.ipd.idaho.gamta.util.AbstractConfigurableAnalyzer#initAnalyzer()
 	 */
 	public void initAnalyzer() {
-		
-		/* this is a breach of the data provider principle, but that's
-		 * impossible to avoid if we want to use ImageMagick and Tesseract
-		 */
-		File basePath = new File(this.dataProvider.getAbsolutePath());
-		try {
-			this.ocrEngine = new OcrEngine(basePath);
-		}
-		catch (Exception e) {
-			System.out.println("PdfExtractor: could not create OCR engine - " + e.getMessage());
-			e.printStackTrace(System.out);
-		}
-		
-		//	test if we can OCR
-		if (this.ocrEngine == null)
-			throw new RuntimeException("OCR Engine unavailable, check log.");
+//		
+//		/* this is a breach of the data provider principle, but that's
+//		 * impossible to avoid if we want to use ImageMagick and Tesseract
+//		 */
+//		File basePath = new File(this.dataProvider.getAbsolutePath());
+//		try {
+//			this.ocrEngine = new OcrEngine(basePath);
+//		}
+//		catch (Exception e) {
+//			System.out.println("PdfExtractor: could not create OCR engine - " + e.getMessage());
+//			e.printStackTrace(System.out);
+//		}
+//		
+//		//	test if we can OCR
+//		if (this.ocrEngine == null)
+//			throw new RuntimeException("OCR Engine unavailable, check log.");
 	}
 	
 	/* (non-Javadoc)
@@ -151,17 +150,17 @@ public class PageOCRer extends AbstractConfigurableAnalyzer implements Monitorab
 				psm.setInfo(" - page image not found");
 				continue;
 			}
-			
-			//	do OCR
-			try {
-				psm.setInfo(" - doing OCR");
-				this.ocrEngine.doBlockOcr(pages[p], pi, psm);
-				psm.setInfo(" - OCR done");
-			}
-			catch (IOException ioe) {
-				psm.setInfo(" - error doing OCR: " + ioe.getMessage());
-				ioe.printStackTrace(System.out);
-			}
+//			
+//			//	do OCR
+//			try {
+//				psm.setInfo(" - doing OCR");
+//				this.ocrEngine.doBlockOcr(pages[p], pi, psm);
+//				psm.setInfo(" - OCR done");
+//			}
+//			catch (IOException ioe) {
+//				psm.setInfo(" - error doing OCR: " + ioe.getMessage());
+//				ioe.printStackTrace(System.out);
+//			}
 			
 			//	do structure analysis
 			PageAnalysis.splitIntoParagraphs(pages[p].getMutableAnnotations(BLOCK_ANNOTATION_TYPE), pi.currentDpi, null);

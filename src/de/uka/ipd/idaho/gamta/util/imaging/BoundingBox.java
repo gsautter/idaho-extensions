@@ -84,6 +84,35 @@ public class BoundingBox {
 		return ("[" + this.left + "," + this.right + "," + this.top + "," + this.bottom + "]");
 	}
 	
+	/* (non-Javadoc)
+	 * @see java.lang.Object#hashCode()
+	 */
+	public int hashCode() {
+		if (this.hashCode == 0) {
+			this.hashCode <<= 8;
+			this.hashCode &= (this.left & 255);
+			this.hashCode <<= 8;
+			this.hashCode &= (this.right & 255);
+			this.hashCode <<= 8;
+			this.hashCode &= (this.top & 255);
+			this.hashCode <<= 8;
+			this.hashCode &= (this.bottom & 255);
+		}
+		return this.hashCode;
+	}
+	private int hashCode = 0;
+	
+	/* (non-Javadoc)
+	 * @see java.lang.Object#equals(java.lang.Object)
+	 */
+	public boolean equals(Object obj) {
+		if (obj instanceof BoundingBox) {
+			BoundingBox bb = ((BoundingBox) obj);
+			return ((bb.left == this.left) && (bb.right == this.right) && (bb.top == this.top) && (bb.bottom == this.bottom));
+		}
+		else return false;
+	}
+	
 	/**
 	 * Test whether or not this bounding box includes another bounding box. If
 	 * <code>fuzzy</code> is set to <code>true</code>, the this method tests if

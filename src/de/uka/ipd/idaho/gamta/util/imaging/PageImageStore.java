@@ -32,7 +32,7 @@ import java.io.IOException;
 
 /**
  * Storage provider for page images. Implementations should also register an
- * ImageProvider that allows for recovering the images by meanes of the
+ * ImageProvider that allows for recovering the images by means of the
  * names returned by the storeImage() method.
  * 
  * @author sautter
@@ -40,31 +40,33 @@ import java.io.IOException;
 public interface PageImageStore extends PageImageSource {
 	
 	/**
-	 * Store a page image, implying origional size and zero-width margins.
+	 * Store a page image, implying original size and zero-width margins.
 	 * @param name the unified single-string name of the page image
 	 * @param image the page image itself
 	 * @param dpi the resolution of the image
+	 * @return true if the image was stored, false otherwise
 	 * @throws IOException
 	 */
-	public abstract void storePageImage(String name, BufferedImage image, int dpi) throws IOException;
+	public abstract boolean storePageImage(String name, BufferedImage image, int dpi) throws IOException;
 	
 	/**
 	 * Store a page image.
 	 * @param name the unified single-string name of the page image
 	 * @param pageImage the page image itself
+	 * @return true if the image was stored, false otherwise
 	 * @throws IOException
 	 */
-	public abstract void storePageImage(String name, PageImage pageImage) throws IOException;
+	public abstract boolean storePageImage(String name, PageImage pageImage) throws IOException;
 	
 	/**
-	 * Store a page image, implying origional size and zero-width margins. This
+	 * Store a page image, implying original size and zero-width margins. This
 	 * method should be implemented as a shorthand for
 	 * storePageImage(PageImage.getPageImageName(docId, pageId), image, dpi).
 	 * @param docId the ID of the document the page image belongs to
 	 * @param pageId the ID of the page depicted in the argument image
 	 * @param image the page image itself
 	 * @param dpi the resolution of the image
-	 * @return the name the image can be recoverd with through the
+	 * @return the name the image can be recovered with through the
 	 *         Imaging.getImage() method
 	 * @throws IOException
 	 */
@@ -76,13 +78,24 @@ public interface PageImageStore extends PageImageSource {
 	 * @param docId the ID of the document the page image belongs to
 	 * @param pageId the ID of the page depicted in the argument image
 	 * @param pageImage the page image itself
-	 * @return the name the image can be recoverd with through the
+	 * @return the name the image can be recovered with through the
 	 *         Imaging.getImage() method
 	 * @throws IOException
 	 */
 	public abstract String storePageImage(String docId, int pageId, PageImage pageImage) throws IOException;
 	
-	//	TODO add getPriority() method to priorize use of page image stores in centralized registry
+	/**
+	 * Retrieve the priority of the page image store, on a 0-10 scale. The
+	 * priority determines when a page image store is asked to store a page
+	 * image in case multiple page image stores are registered. Page image
+	 * stores that are interested only in specific page images, e.g. from a
+	 * specific document, should return a high priority to make sure they get
+	 * to store the images they want to store. General page image stores, in
+	 * turn, should indicate a low priority to yield to specific ones.
+	 * @return the priority of the page image store
+	 */
+	public abstract int getPriority();
+	
 	/**
 	 * Implementation of a page image store that leaves only two methods
 	 * abstract in addition to the one from page image source, namely the
@@ -96,8 +109,8 @@ public interface PageImageStore extends PageImageSource {
 		/* (non-Javadoc)
 		 * @see de.uka.ipd.idaho.gamta.util.imaging.PageImageStore#storePageImage(java.lang.String, java.awt.image.BufferedImage, int)
 		 */
-		public void storePageImage(String name, BufferedImage image, int dpi) throws IOException {
-			this.storePageImage(name, new PageImage(image, dpi, this));
+		public boolean storePageImage(String name, BufferedImage image, int dpi) throws IOException {
+			return this.storePageImage(name, new PageImage(image, dpi, this));
 		}
 		
 		/* (non-Javadoc)

@@ -36,6 +36,8 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 
 import javax.imageio.ImageIO;
 
@@ -305,7 +307,7 @@ public class PageImage implements ImagingConstants {
 	/**
 	 * Compile an image of an annotation that runs over multiple pages. The
 	 * argument bounding boxes have to refer to pages with subsequent IDs,
-	 * starting with firstPageId. If there is nothing to extraxt from some page
+	 * starting with firstPageId. If there is nothing to extract from some page
 	 * in the middle of the sequence, set the respective entry in the bounding
 	 * box array to null.
 	 * @param docId the ID of the document the parts belong to
@@ -416,46 +418,6 @@ public class PageImage implements ImagingConstants {
 		});
 	}
 	
-//	/**
-//	 * Restore a page image converted into bytes by the write() method. This
-//	 * method interprets the first 16 bypes as the dimensions, resolution, and
-//	 * widths of cut-off white mergins of the image, and then uses readImage()
-//	 * to read the actual image.
-//	 * @param in the input stream to read from
-//	 * @return a page image restored form the data provided by the argument
-//	 *         input stream
-//	 * @throws IOException
-//	 */
-//	public static PageImage read(InputStream in) throws IOException {
-//		//	TODO use page image input stream for this
-//		int originalWidth = readInt(in, 2);
-//		int originalHeight = readInt(in, 2);
-//		int originalDpi = readInt(in, 2);
-//		int currentDpi = readInt(in, 2);
-//		int leftEdge = readInt(in, 2);
-//		int rightEdge = readInt(in, 2);
-//		int topEdge = readInt(in, 2);
-//		int bottomEdge = readInt(in, 2);
-//		return new PageImage(readImage(in), originalWidth, originalHeight, originalDpi, currentDpi, leftEdge, rightEdge, topEdge, bottomEdge, null);
-//	}
-//	private static final int readInt(InputStream in, int numBytes) throws IOException {
-//		int theInt = 0;
-//		theInt += (in.read() & 255);
-//		if (numBytes == 1)
-//			return theInt;
-//		theInt <<= 8;
-//		theInt += (in.read() & 255);
-//		if (numBytes == 2)
-//			return theInt;
-//		theInt <<= 8;
-//		theInt += (in.read() & 255);
-//		if (numBytes == 3)
-//			return theInt;
-//		theInt <<= 8;
-//		theInt += (in.read() & 255);
-//		return theInt;
-//	}
-	
 	/**
 	 * Read an image from an input stream. This method uses ImageIO.read()
 	 * to read the actual image, but as opposed to this latter method, this
@@ -478,7 +440,7 @@ public class PageImage implements ImagingConstants {
 	}
 	
 	private static ArrayList pageImageSources = new ArrayList(2);
-//	private static HashMap imageProviders = new HashMap(2);
+	private static ArrayList pageImageStores = new ArrayList(2);
 	
 	/**
 	 * Retrieve the page image sources currently installed
@@ -492,28 +454,9 @@ public class PageImage implements ImagingConstants {
 	 * Add a page image source.
 	 * @param pageImageSource the page image source to add
 	 */
-	public static void addPageImageSource(final PageImageSource pageImageSource) {
-		if ((pageImageSource != null) && !pageImageSources.contains(pageImageSource)) {
+	public static void addPageImageSource(PageImageSource pageImageSource) {
+		if ((pageImageSource != null) && !pageImageSources.contains(pageImageSource))
 			pageImageSources.add(pageImageSource);
-//			ImageProvider ip = new ImageProvider() {
-//				public BufferedImage getImage(String name) {
-//					PageImage pi = null;
-//					try {
-//						pi = pageImageSource.getPageImage(name);
-//					} catch (IOException ioe) {}
-//					return ((pi == null) ? null : pi.image);
-//				}
-//				public BufferedImage getImage(String docId, int pageId) {
-//					PageImage pi = null;
-//					try {
-//						pi = pageImageSource.getPageImage(docId, pageId);
-//					} catch (IOException ioe) {}
-//					return ((pi == null) ? null : pi.image);
-//				}
-//			};
-//			Imaging.addImageProvider(ip);
-//			imageProviders.put(pageImageSource, ip);
-		}
 	}
 	
 	/**
@@ -521,11 +464,8 @@ public class PageImage implements ImagingConstants {
 	 * @param pageImageSource the page image source to remove
 	 */
 	public static void removePageImageSource(PageImageSource pageImageSource) {
-		if (pageImageSource != null) {
+		if (pageImageSource != null)
 			pageImageSources.remove(pageImageSource);
-//			ImageProvider ip = ((ImageProvider) imageProviders.remove(pageImageSource));
-//			Imaging.removeImageProvider(ip);
-		}
 	}
 	
 	/**
@@ -580,17 +520,116 @@ public class PageImage implements ImagingConstants {
 	 */
 	public static PageImage getPageImage(String docId, int pageId) {
 		return getPageImage(getPageImageName(docId, pageId));
-//		PageImage pi = null;
-//		for (int p = 0; p < pageImageSources.size(); p++) {
-//			PageImageSource pis = ((PageImageSource) pageImageSources.get(p));
-//			try {
-//				pi = pis.getPageImage(docId, pageId);
-//			} catch (IOException ioe) {}
-//			if (pi != null)
-//				break;
-//		}
-//		return pi;
 	}
 	
-	//	TODO add registry for page image stores and central access point, using getPriority() method to decide where to store a given page image
+	/**
+	 * Retrieve the page image stores currently installed
+	 * @return the page image stores currently installed
+	 */
+	public static PageImageStore[] getPageImageStores() {
+		return ((PageImageStore[]) pageImageStores.toArray(new PageImageSource[pageImageStores.size()]));
+	}
+	
+	/**
+	 * Add a page image store. The argument page image store is also added as a
+	 * page image source.
+	 * @param pageImageStore the page image store to add
+	 */
+	public static void addPageImageStore(PageImageStore pageImageStore) {
+		if ((pageImageStore != null) && !pageImageStores.contains(pageImageStore)) {
+			pageImageStores.add(pageImageStore);
+			Collections.sort(pageImageStores, new Comparator() {
+				public int compare(Object obj1, Object obj2) {
+					return (((PageImageStore) obj2).getPriority() - ((PageImageStore) obj1).getPriority());
+				}
+			});
+		}
+		addPageImageSource(pageImageStore);
+	}
+	
+	/**
+	 * Remove a page image source.
+	 * @param pageImageStore the page image store to remove
+	 */
+	public static void removePageImageStore(PageImageStore pageImageStore) {
+		if (pageImageStore != null)
+			pageImageStores.remove(pageImageStore);
+		removePageImageSource(pageImageStore);
+	}
+	
+	
+	/**
+	 * Store a page image, implying original size and zero-width margins.
+	 * @param name the unified single-string name of the page image
+	 * @param image the page image itself
+	 * @param dpi the resolution of the image
+	 * @return true if the image was stored, false otherwise
+	 * @throws IOException
+	 */
+	public static boolean storePageImage(String name, BufferedImage image, int dpi) throws IOException {
+		return storePageImage(name, new PageImage(image, dpi, null));
+	}
+	
+	/**
+	 * Store a page image. If the source of the argument page image is not null
+	 * and a page image store, the page image is stored to there. Otherwise,
+	 * all registered page image stores are asked to store the page image, in
+	 * descending priority order, until one of the stores indicates that it has
+	 * actually stored the page image.
+	 * @param name the unified single-string name of the page image
+	 * @param pageImage the page image itself
+	 * @return true if the image was stored, false otherwise
+	 * @throws IOException
+	 */
+	public static boolean storePageImage(String name, PageImage pageImage) throws IOException {
+		if ((pageImage.source instanceof PageImageStore) && ((PageImageStore) pageImage.source).storePageImage(name, pageImage))
+			return true;
+		for (int s = 0; s < pageImageStores.size(); s++) {
+			if (((PageImageStore) pageImageStores.get(s)).storePageImage(name, pageImage))
+				return true;
+		}
+		return false;
+	}
+	
+	/**
+	 * Store a page image, implying original size and zero-width margins. This
+	 * method should be implemented as a shorthand for
+	 * storePageImage(PageImage.getPageImageName(docId, pageId), image, dpi).
+	 * @param docId the ID of the document the page image belongs to
+	 * @param pageId the ID of the page depicted in the argument image
+	 * @param image the page image itself
+	 * @param dpi the resolution of the image
+	 * @return the name the image can be recovered with through the
+	 *         Imaging.getImage() method, or null, if the image could not be
+	 *         stored in any of the registered page image stores
+	 * @throws IOException
+	 */
+	public static String storePageImage(String docId, int pageId, BufferedImage image, int dpi) throws IOException {
+		String name = PageImage.getPageImageName(docId, pageId);
+		if (storePageImage(name, new PageImage(image, dpi, null)))
+			return name;
+		else return null;
+	}
+	
+	/**
+	 * Store a page image. This method should be implemented as a shorthand for
+	 * storePageImage(PageImage.getPageImageName(docId, pageId), pageImage). If
+	 * the source of the argument page image is not null and a page image store,
+	 * the page image is stored to there. Otherwise, descending priority order,
+	 * until one of the stores indicates that it has actually stored the page
+	 * image.
+	 * @param docId the ID of the document the page image belongs to
+	 * @param pageId the ID of the page depicted in the argument image
+	 * @param pageImage the page image itself
+	 * @return the name the image can be recovered with through the
+	 *         Imaging.getImage() method, or null, if the image could not be
+	 *         stored in any of the registered page image stores
+	 * @throws IOException
+	 */
+	public static String storePageImage(String docId, int pageId, PageImage pageImage) throws IOException {
+		String name = PageImage.getPageImageName(docId, pageId);
+		if (storePageImage(name, pageImage))
+			return name;
+		else return null;
+	}
 }

@@ -84,6 +84,12 @@ public interface ImagingConstants extends LiteratureConstants {
 	public static final String BASELINE_ATTRIBUTE = "baseline";
 	
 	/**
+	 * the attribute holding the name of the font a word, line, or paragraph is
+	 * rendered in.
+	 */
+	public static final String FONT_NAME_ATTRIBUTE = "fontName";
+	
+	/**
 	 * the attribute holding the (average) font size of the words in a line or
 	 * paragraph.
 	 */
@@ -100,11 +106,28 @@ public interface ImagingConstants extends LiteratureConstants {
 	public static final String ITALICS_ATTRIBUTE = "italics";
 	
 	/**
+	 * the attribute indicating that a word is in all-caps.
+	 */
+	public static final String ALL_CAPS_ATTRIBUTE = "allCaps";
+	
+	/**
 	 * the attribute holding the bounding box for a layout-related annotation
 	 * after scanning. This is useful for extracting an image of a specific part
 	 * of a page.
 	 */
 	public static final String BOUNDING_BOX_ATTRIBUTE = "box";
+	
+	/**
+	 * the attribute of a caption annotation identifying the bounding box of
+	 * the image (figure, diagram, map, table, ...) the caption belongs to
+	 */
+	public static final String CAPTION_TARGET_BOX_ATTRIBUTE = "targetBox";
+	
+	/**
+	 * the attribute of a caption annotation identifying the page the target
+	 * box of the caption lies on
+	 */
+	public static final String CAPTION_TARGET_PAGE_ID_ATTRIBUTE = "targetPageId";
 	
 	/**
 	 * the annotation type for marking word bounding boxes in page images.

@@ -31,6 +31,8 @@ import java.awt.Color;
 import java.awt.Graphics2D;
 import java.awt.geom.AffineTransform;
 import java.awt.image.BufferedImage;
+import java.io.File;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
@@ -40,11 +42,15 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.LinkedHashMap;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 
+import javax.imageio.ImageIO;
+
 import de.uka.ipd.idaho.gamta.util.ProgressMonitor;
+import de.uka.ipd.idaho.stringUtils.csvHandler.StringTupel;
 
 /**
  * Function library for image processing.
@@ -494,20 +500,73 @@ public class Imaging {
 	 * Apply a Gaussian blur to an image. This is mainly meant to even out small
 	 * gaps or brightness differences in letters in gray scale images. If the
 	 * argument radius is less than 1, this method does not change the image and
-	 * returns false.
+	 * returns false. The radius of the kernel used for computing the blur is
+	 * three times the argument radius, to provide a smooth blurring.
 	 * @param analysisImage the wrapped image
-	 * @param radius the radius od the blur
+	 * @param radius the radius of the blur
 	 * @return true
 	 */
 	public static boolean gaussBlur(AnalysisImage analysisImage, int radius) {
-		if (radius < 1)
+		return gaussBlur(analysisImage,  radius, radius, false);
+	}
+	
+	/**
+	 * Apply a Gaussian blur to an image. This is mainly meant to even out small
+	 * gaps or brightness differences in letters in gray scale images. If the
+	 * argument radius is less than 1, this method does not change the image and
+	 * returns false. The radius of the kernel used for computing the blur is
+	 * three times the argument radius, to provide a smooth blurring.
+	 * @param analysisImage the wrapped image
+	 * @param hRadius the horizontal radius of the blur
+	 * @param vRadius the vertical radius of the blur
+	 * @return true
+	 */
+	public static boolean gaussBlur(AnalysisImage analysisImage, int hRadius, int vRadius) {
+		return gaussBlur(analysisImage, hRadius, vRadius, false);
+	}
+	
+	/**
+	 * Apply a Gaussian blur to an image. This is mainly meant to even out small
+	 * gaps or brightness differences in letters in gray scale images. If the
+	 * argument radius is less than 1, this method does not change the image and
+	 * returns false. If the <code>sharpEdge</code> argument is set to true,
+	 * the radius of the kernel used to compute the blur is exactly the argument
+	 * radius; if it is set to false, radius of the kernel is three times the
+	 * argument radius, to provide a smooth blurring.
+	 * @param analysisImage the wrapped image
+	 * @param radius the radius of the blur
+	 * @param sharpEdge use a sharply edged blur instead of a smooth one?
+	 * @return true
+	 */
+	public static boolean gaussBlur(AnalysisImage analysisImage, int radius, boolean sharpEdge) {
+		return gaussBlur(analysisImage,  radius, radius);
+	}
+	
+	/**
+	 * Apply a Gaussian blur to an image. This is mainly meant to even out small
+	 * gaps or brightness differences in letters in gray scale images. If the
+	 * argument radius is less than 1, this method does not change the image and
+	 * returns false. If the <code>sharpEdge</code> argument is set to true,
+	 * the radius of the kernel used to compute the blur is exactly the argument
+	 * radius; if it is set to false, radius of the kernel is three times the
+	 * argument radius, to provide a smooth blurring.
+	 * @param analysisImage the wrapped image
+	 * @param hRadius the horizontal radius of the blur
+	 * @param vRadius the vertical radius of the blur
+	 * @param sharpEdge use a sharply edged blur instead of a smooth one?
+	 * @return true
+	 */
+	public static boolean gaussBlur(AnalysisImage analysisImage, int hRadius, int vRadius, boolean sharpEdge) {
+		if ((hRadius < 1) && (vRadius < 1))
 			return false;
 		
 		//	get brightness array
 		byte[][] brightness = analysisImage.getBrightness();
 		
 		//	blur array
-		gaussBlur(brightness, radius);
+		if (hRadius == vRadius)
+			gaussBlur2D(brightness, hRadius, sharpEdge);
+		else gaussBlur(brightness, hRadius, vRadius, sharpEdge);
 		
 		//	update image
 		for (int c = 0; c < brightness.length; c++) {
@@ -519,10 +578,10 @@ public class Imaging {
 		return true;
 	}
 	
-	private static void gaussBlur(byte[][] brightness, int radius) {
+	private static void gaussBlur2D(byte[][] brightness, int radius, boolean sharpEdge) {
 		
 		//	compute one dimensional kernel
-		int kernelRadius = (radius * 3);
+		int kernelRadius = (radius * (sharpEdge ? 1 : 3));
 		double[] kernel = new double[kernelRadius + 1 + kernelRadius];
 		double kernelSum = 0;
 		for (int k = -kernelRadius; k <= kernelRadius; k++) {
@@ -573,11 +632,80 @@ public class Imaging {
 		}
 	}
 	
+	private static void gaussBlur(byte[][] brightness, int hRadius, int vRadius, boolean sharpEdge) {
+		if (hRadius >= 1)
+			gaussBlur1D(brightness, hRadius, sharpEdge, true);
+		if (vRadius >= 1)
+			gaussBlur1D(brightness, vRadius, sharpEdge, false);
+	}
+	
+	private static void gaussBlur1D(byte[][] brightness, int radius, boolean sharpEdge, boolean blurRows) {
+		
+		//	compute one dimensional kernel
+		int kernelRadius = (radius * (sharpEdge ? 1 : 3));
+		double[] kernel = new double[kernelRadius + 1 + kernelRadius];
+		double kernelSum = 0;
+		for (int k = -kernelRadius; k <= kernelRadius; k++) {
+			kernel[k + kernelRadius] = (1 / Math.sqrt(2 * Math.PI * radius * radius)) * Math.pow(Math.E, -(((double) (k * k)) / (2 * radius * radius)));
+			kernelSum += kernel[k + kernelRadius];
+		}
+		for (int k = -kernelRadius; k <= kernelRadius; k++)
+			kernel[k + kernelRadius] /= kernelSum;
+		
+		//	build intermediate brightness array
+		float[][] iBrightness = new float[brightness.length][brightness[0].length];
+		
+		//	apply kernel across rows
+		if (blurRows)
+			for (int c = 0; c < brightness.length; c++) {
+				for (int r = 0; r < brightness[c].length; r++) {
+					double brightnessSum = 0;
+					for (int k = -kernelRadius; k <= kernelRadius; k++) {
+						int l = (c + k);
+						if (l < 0)
+							l = 0;
+						else if (l > (brightness.length-1))
+							l = (brightness.length-1);
+						brightnessSum += (kernel[k + kernelRadius] * brightness[l][r]);
+					}
+					iBrightness[c][r] = ((float) brightnessSum);
+				}
+			}
+		
+		//	apply kernel down columns
+		else for (int c = 0; c < iBrightness.length; c++) {
+			for (int r = 0; r < iBrightness[c].length; r++) {
+				double brightnessSum = 0;
+				for (int k = -kernelRadius; k <= kernelRadius; k++) {
+					int l = (r + k);
+					if (l < 0)
+						l = 0;
+					else if (l > (iBrightness[c].length-1))
+						l = (iBrightness[c].length-1);
+					brightnessSum += (kernel[k + kernelRadius] * brightness[c][l]);
+				}
+				iBrightness[c][r] = ((float) brightnessSum);
+			}
+		}
+		
+		//	write result back to image
+		for (int c = 0; c < iBrightness.length; c++) {
+			for (int r = 0; r < iBrightness[c].length; r++) {
+				int b = ((int) Math.round(iBrightness[c][r]));
+				if (b < 0)
+					b = 0;
+				else if (b > 127)
+					b = 127;
+				brightness[c][r] = ((byte) b);
+			}
+		}
+	}
+	
 	/**
 	 * Eliminate the background of an image. This method first applies a low
 	 * pass filter (large radius Gauss blur) to identfy the background, then
 	 * subtracts it from the foreground. WARNING: This filter may eliminate or
-	 * severely demage both color and gray scale images.
+	 * severely damage both color and gray scale images.
 	 * @param analysisImage the wrapped image
 	 * @param dpi the resolution of the image
 	 * @return true
@@ -593,18 +721,44 @@ public class Imaging {
 			for (int r = 0; r < brightness[c].length; r++)
 				backgroundBrightness[c][r] = brightness[c][r];
 		}
-		gaussBlur(backgroundBrightness, (dpi / 20));
+		gaussBlur2D(backgroundBrightness, (dpi / 20), false);
+//		
+//		//	subtract background from foreground
+//		for (int c = 0; c < brightness.length; c++)
+//			for (int r = 0; r < brightness[c].length; r++) {
+//				int b = 127 - ((127 - brightness[c][r]) - (127 - backgroundBrightness[c][r]));
+//				if (b < 0)
+//					b = 0;
+//				else if (b > 127)
+//					b = 127;
+//				analysisImage.brightness[c][r] = ((byte) b);
+//			}
 		
-		//	subtract background from foreground
+		//	scale brightness to use background as white
 		for (int c = 0; c < brightness.length; c++)
 			for (int r = 0; r < brightness[c].length; r++) {
-				int b = 127 - ((127 - brightness[c][r]) - (127 - backgroundBrightness[c][r]));
-				if (b < 0)
-					b = 0;
-				else if (b > 127)
+				if (backgroundBrightness[c][r] == 0)
+					continue;
+				int b = ((brightness[c][r] * 127) / backgroundBrightness[c][r]);
+				if (b > 127)
 					b = 127;
 				analysisImage.brightness[c][r] = ((byte) b);
 			}
+		
+		//	update image
+		for (int c = 0; c < brightness.length; c++) {
+			for (int r = 0; r < brightness[c].length; r++)
+				analysisImage.image.setRGB(c, r, ((brightness[c][r] == 127) ? backgroundEliminated : Color.HSBtoRGB(0, 0, (((float) brightness[c][r]) / 127))));
+		}
+		
+		if (true)
+			return true;
+		//	TODO make contrast enhancement continuous
+		//	TODO use smaller tiles ...
+		//	TODO ... and compute average over neighboring tiles as well
+		
+		//	TODO simply use Gauss blurred image, which IS the average brightness
+		//	TODO ==> figure out appropriate radius (has to be larger than individual letters)
 		
 		//	lay out tiles
 		int tileSize = dpi;
@@ -687,7 +841,9 @@ public class Imaging {
 			}
 		
 		//	apply small radius Gauss blur to smooth out unevenly dark letters
-		gaussBlur(brightness, 1);
+		gaussBlur2D(brightness, 1, true);
+		
+		//	TODO abandon tiles, simply subtract background
 		
 		//	update image
 		for (int c = 0; c < brightness.length; c++) {
@@ -878,6 +1034,24 @@ public class Imaging {
 	}
 	
 	/**
+	 * Compute the brightness distribution of an image.
+	 * @param ai the image to compute the brightness for
+	 * @param numBuckets the number of buckets to dicretize to
+	 * @return the brightness distribution
+	 */
+	public static int[] getBrightnessDistribution(AnalysisImage ai, int numBuckets) {
+		int[] brightnessDist = new int[Math.max(8, Math.min(128, numBuckets))];
+		int brightnessBucketWidth = (128 / brightnessDist.length);
+		Arrays.fill(brightnessDist, 0);
+		byte[][] brightness = ai.getBrightness();
+		for (int c = 0; c < brightness.length; c++) {
+			for (int r = 0; r < brightness[c].length; r++)
+				brightnessDist[brightness[c][r] / brightnessBucketWidth]++;
+		}
+		return brightnessDist;
+	}
+	
+	/**
 	 * Apply feather dusting to an image, i.e., set all non-white blocks below a
 	 * given size threshold to white. In particular, this method applies region
 	 * identification to the image and then filters non-white regions based on
@@ -926,6 +1100,104 @@ public class Imaging {
 		//	- set regions to white if they are smaller than a letter ot digit at 6pt and too far away from anything else to be a punctuation mark in a sentence
 		//	- make sure not to erase spaced dashes, though
 	}
+	
+	/**
+	 * Compute the region coloring of an image, which makes continuous light or
+	 * dark regions of an image distinguishable. The result array has the
+	 * same dimensions as the argument image. If the brightness threshold value
+	 * is positive, this method considers any pixel at least as bright as this
+	 * value to be white, i.e., not belonging to any region, but to the area
+	 * between regions; if the brightness threshold value is negativ, this
+	 * method considers any pixel at most as bright the corresponding absolute
+	 * (positive) value as inter-region area. This means this method colors
+	 * dark regions for positive thresholds, and light regions for negative
+	 * thresholds. In either case, considering diagonally adjacent non-white
+	 * (or non-black) pixels as connected is most sensible for binary images.
+	 * @param ai the image to analyze
+	 * @param brightnessThreshold the white threshold
+	 * @param includeDiagonal consider diagonally adjacent pixels connected?
+	 * @return the region coloring
+	 */
+	public static int[][] getRegionColoring(AnalysisImage ai, byte brightnessThreshold, boolean includeDiagonal) {
+		byte[][] brightness = ai.getBrightness();
+		if (brightness.length == 0)
+			return new int[0][0];
+		int[][] regionCodes = new int[brightness.length][brightness[0].length];
+		for (int c = 0; c < regionCodes.length; c++)
+			Arrays.fill(regionCodes[c], 0);
+		int currentRegionCode = 1;
+		for (int c = 0; c < brightness.length; c++)
+			for (int r = 0; r < brightness[c].length; r++) {
+				if (brightness[c][r] == 127)
+					continue;
+				if (regionCodes[c][r] != 0)
+					continue;
+				int rs = colorRegion(brightness, regionCodes, c, r, currentRegionCode, brightnessThreshold, includeDiagonal);
+				if (DEBUG_REGION_COLORING) System.out.println("Region " + currentRegionCode + " is sized " + rs);
+				currentRegionCode++;
+				//	TODO assemble region size distribution, use it to estimate font size, and use estimate for cleanup thresholds
+			}
+		return regionCodes;
+	}
+	private static int colorRegion(byte[][] brightness, int[][] regionCodes, int c, int r, int regionCode, byte brightnessThreshold, boolean isBinaryImage) {
+		ArrayList points = new ArrayList() {
+			HashSet distinctContent = new HashSet();
+			public boolean add(Object obj) {
+				return (this.distinctContent.add(obj) ? super.add(obj) : false);
+			}
+		};
+		points.add(new Point(c, r));
+		
+		int regionSize = 0;
+		for (int p = 0; p < points.size(); p++) {
+			Point point = ((Point) points.get(p));
+			if ((point.c == -1) || (point.r == -1))
+				continue;
+			if ((point.c == brightness.length) || (point.r == brightness[c].length))
+				continue;
+			if ((0 < brightnessThreshold) && (brightnessThreshold <= brightness[point.c][point.r]))
+				continue;
+			if ((brightnessThreshold < 0) && (brightness[point.c][point.r] <= -brightnessThreshold))
+				continue;
+			if (regionCodes[point.c][point.r] != 0)
+				continue;
+			regionCodes[point.c][point.r] = regionCode;
+			regionSize++;
+			
+			if (isBinaryImage)
+				points.add(new Point((point.c - 1), (point.r - 1)));
+			points.add(new Point((point.c - 1), point.r));
+			if (isBinaryImage)
+				points.add(new Point((point.c - 1), (point.r + 1)));
+			points.add(new Point(point.c, (point.r - 1)));
+			points.add(new Point(point.c, (point.r + 1)));
+			if (isBinaryImage)
+				points.add(new Point((point.c + 1), (point.r - 1)));
+			points.add(new Point((point.c + 1), point.r));
+			if (isBinaryImage)
+				points.add(new Point((point.c + 1), (point.r + 1)));
+		}
+		return regionSize;
+	}
+	private static class Point {
+		final int c;
+		final int r;
+		Point(int c, int r) {
+			this.c = c;
+			this.r = r;
+		}
+		public boolean equals(Object obj) {
+			return ((obj instanceof Point) && (((Point) obj).c == this.c) && (((Point) obj).r == this.r));
+		}
+		public int hashCode() {
+			return ((this.c << 16) + this.r);
+		}
+		public String toString() {
+			return ("(" + this.c + "/" + this.r + ")");
+		}
+	}
+	private static final boolean DEBUG_REGION_COLORING = false;
+	
 //	/**
 //	 * Apply feather dusting to an image, i.e., set all non-white blocks below a
 //	 * given size threshold to white.
@@ -982,81 +1254,134 @@ public class Imaging {
 	private static boolean regionColorAndClean(AnalysisImage ai, int minSize, int minSoloSize, int dpi, boolean isBinary, boolean isSharp) {
 		boolean changed = false;
 		
-		final byte[][] brightness = ai.getBrightness();
+		byte[][] brightness = ai.getBrightness();
 		if (brightness.length == 0)
 			return changed;
 		
-		final int[][] colorCodes = new int[brightness.length][brightness[0].length];
-		for (int c = 0; c < colorCodes.length; c++)
-			Arrays.fill(colorCodes[c], 0);
-		int currentColorCode = 1;
-		for (int c = 0; c < brightness.length; c++)
-			for (int r = 0; r < brightness[c].length; r++) {
-				if (brightness[c][r] == 127)
-					continue;
-				if (colorCodes[c][r] != 0)
-					continue;
-				int rs = colorRegion(brightness, colorCodes, c, r, currentColorCode, isBinary);
-//				System.out.println("Region " + currentColorCode + " is sized " + rs);
-				currentColorCode++;
-				//	TODO assemble region size distribution, use it to estimate font size, and use estimate for cleanup thresholds
-			}
+		int[][] regionCodes = getRegionColoring(ai, ((byte) 127), isBinary);
+		int regionCodeCount = 0;
+		for (int c = 0; c < regionCodes.length; c++) {
+			for (int r = 0; r < regionCodes[c].length; r++)
+				regionCodeCount = Math.max(regionCodeCount, regionCodes[c][r]);
+		}
+		regionCodeCount++; // account for 0
+//		final int[][] regionCodes = new int[brightness.length][brightness[0].length];
+//		for (int c = 0; c < regionCodes.length; c++)
+//			Arrays.fill(regionCodes[c], 0);
+//		int currentRegionCode = 1;
+//		for (int c = 0; c < brightness.length; c++)
+//			for (int r = 0; r < brightness[c].length; r++) {
+//				if (brightness[c][r] == 127)
+//					continue;
+//				if (regionCodes[c][r] != 0)
+//					continue;
+//				int rs = colorRegion(brightness, regionCodes, c, r, currentRegionCode, ((byte) 127), isBinary);
+//				if (DEBUG_FEATHERDUST) System.out.println("Region " + currentRegionCode + " is sized " + rs);
+//				currentRegionCode++;
+//			}
 		
-		//	measure regions
-		int[] colorCodeCounts = new int[currentColorCode];
-		Arrays.fill(colorCodeCounts, 0);
-		int[] colorCodeMinCols = new int[currentColorCode];
-		Arrays.fill(colorCodeMinCols, colorCodes.length);
-		int[] colorCodeMaxCols = new int[currentColorCode];
-		Arrays.fill(colorCodeMaxCols, 0);
-		int[] colorCodeMinRows = new int[currentColorCode];
-		Arrays.fill(colorCodeMinRows, colorCodes[0].length);
-		int[] colorCodeMaxRows = new int[currentColorCode];
-		Arrays.fill(colorCodeMaxRows, 0);
-		byte[] colorCodeMinBrightness = new byte[currentColorCode];
-		Arrays.fill(colorCodeMinBrightness, ((byte) 127));
-		for (int c = 0; c < colorCodes.length; c++)
-			for (int r = 0; r < colorCodes[c].length; r++) {
-				if (colorCodes[c][r] == 0)
+		//	measure regions (size, surface, min and max column and row, min brightness)
+		int[] regionSizes = new int[regionCodeCount];
+		Arrays.fill(regionSizes, 0);
+		int[] regionSurfaces = new int[regionCodeCount];
+		Arrays.fill(regionSurfaces, 0);
+		int[] regionMinCols = new int[regionCodeCount];
+		Arrays.fill(regionMinCols, regionCodes.length);
+		int[] regionMaxCols = new int[regionCodeCount];
+		Arrays.fill(regionMaxCols, 0);
+		int[] regionMinRows = new int[regionCodeCount];
+		Arrays.fill(regionMinRows, regionCodes[0].length);
+		int[] regionMaxRows = new int[regionCodeCount];
+		Arrays.fill(regionMaxRows, 0);
+		byte[] regionMinBrightness = new byte[regionCodeCount];
+		Arrays.fill(regionMinBrightness, ((byte) 127));
+		HashMap regionSurfacePointSets = new HashMap();
+		HashSet regionCodesInRow = new HashSet();
+		for (int c = 0; c < regionCodes.length; c++) {
+			regionCodesInRow.clear();
+			for (int r = 0; r < regionCodes[c].length; r++) {
+				if (regionCodes[c][r] == 0)
 					continue;
-				colorCodeCounts[colorCodes[c][r]]++;
-				colorCodeMinCols[colorCodes[c][r]] = Math.min(c, colorCodeMinCols[colorCodes[c][r]]);
-				colorCodeMaxCols[colorCodes[c][r]] = Math.max(c, colorCodeMaxCols[colorCodes[c][r]]);
-				colorCodeMinRows[colorCodes[c][r]] = Math.min(r, colorCodeMinRows[colorCodes[c][r]]);
-				colorCodeMaxRows[colorCodes[c][r]] = Math.max(r, colorCodeMaxRows[colorCodes[c][r]]);
-				colorCodeMinBrightness[colorCodes[c][r]] = ((byte) Math.min(colorCodeMinBrightness[colorCodes[c][r]], brightness[c][r]));
+				regionSizes[regionCodes[c][r]]++;
+				Integer regionCode = new Integer(regionCodes[c][r]);
+				regionCodesInRow.add(regionCode);
+				HashSet regionSurfacePoints = ((HashSet) regionSurfacePointSets.get(regionCode));
+				if (regionSurfacePoints == null) {
+					regionSurfacePoints = new HashSet();
+					regionSurfacePointSets.put(regionCode, regionSurfacePoints);
+				}
+				if (((c-1) >= 0) && (regionCodes[c-1][r] == 0))
+					regionSurfacePoints.add((c-1) + "-" + r);
+				if (((c+1) < regionCodes.length) && (regionCodes[c+1][r] == 0))
+					regionSurfacePoints.add((c+1) + "-" + r);
+				if (((r-1) >= 0) && (regionCodes[c][r-1] == 0))
+					regionSurfacePoints.add(c + "-" + (r-1));
+				if (((r+1) < regionCodes[c].length) && (regionCodes[c][r+1] == 0))
+					regionSurfacePoints.add(c + "-" + (r+1));
+				regionMinCols[regionCodes[c][r]] = Math.min(c, regionMinCols[regionCodes[c][r]]);
+				regionMaxCols[regionCodes[c][r]] = Math.max(c, regionMaxCols[regionCodes[c][r]]);
+				regionMinRows[regionCodes[c][r]] = Math.min(r, regionMinRows[regionCodes[c][r]]);
+				regionMaxRows[regionCodes[c][r]] = Math.max(r, regionMaxRows[regionCodes[c][r]]);
+				regionMinBrightness[regionCodes[c][r]] = ((byte) Math.min(regionMinBrightness[regionCodes[c][r]], brightness[c][r]));
 			}
+			for (Iterator rcit = regionSurfacePointSets.keySet().iterator(); rcit.hasNext();) {
+				Integer regionCode = ((Integer) rcit.next());
+				if (regionCodesInRow.contains(regionCode))
+					continue;
+				HashSet regionSurfacePoints = ((HashSet) regionSurfacePointSets.get(regionCode));
+				regionSurfaces[regionCode.intValue()] = regionSurfacePoints.size();
+				regionSurfacePoints.clear();
+				rcit.remove();
+			}
+		}
+		for (Iterator rcit = regionSurfacePointSets.keySet().iterator(); rcit.hasNext();) {
+			Integer regionCode = ((Integer) rcit.next());
+			HashSet regionSurfacePoints = ((HashSet) regionSurfacePointSets.get(regionCode));
+			regionSurfaces[regionCode.intValue()] = regionSurfacePoints.size();
+			regionSurfacePoints.clear();
+			rcit.remove();
+		}
 		
 		//	clean up regions below and above size thresholds
-		for (int c = 0; c < colorCodes.length; c++)
-			for (int r = 0; r < colorCodes[c].length; r++) {
-				if (colorCodes[c][r] <= 0)
+		for (int c = 0; c < regionCodes.length; c++)
+			for (int r = 0; r < regionCodes[c].length; r++) {
+				if (regionCodes[c][r] <= 0)
 					continue;
 				
 				boolean retain = true;
-				int colorCode = colorCodes[c][r];
-//				System.out.println("Assessing region " + colorCode + " (size " + colorCodeCounts[colorCode] + ")");
+				int regionCode = regionCodes[c][r];
+				if (DEBUG_FEATHERDUST) System.out.println("Assessing region " + regionCode + " (size " + regionSizes[regionCode] + ", surface " + regionSurfaces[regionCode] + ")");
 				
 				//	too faint to retain
-				if (retain && (colorCodeMinBrightness[colorCode] > 96)) // whole region lighter than 25% gray TODO find out if this threshold makes sense
+				if (retain && (regionMinBrightness[regionCode] > 96)) // whole region lighter than 25% gray TODO find out if this threshold makes sense
 					retain = false;
 				if (!retain) {
-					for (int cc = colorCodeMinCols[colorCode]; cc <= colorCodeMaxCols[colorCode]; cc++)
-						for (int cr = colorCodeMinRows[colorCode]; cr <= colorCodeMaxRows[colorCode]; cr++) {
-							if (colorCodes[cc][cr] != colorCode)
+					for (int cc = regionMinCols[regionCode]; cc <= regionMaxCols[regionCode]; cc++)
+						for (int cr = regionMinRows[regionCode]; cr <= regionMaxRows[regionCode]; cr++) {
+							if (regionCodes[cc][cr] != regionCode)
 								continue;
 							ai.brightness[cc][cr] = 127;
 							ai.image.setRGB(cc, cr, tooFaint);
-							colorCodes[cc][cr] = 0;
+							regionCodes[cc][cr] = 0;
 							changed = true;
 						}
-//					System.out.println(" --> removed");
+					if (DEBUG_FEATHERDUST) System.out.println(" ==> removed for faintness");
 					continue;
 				}
 				
-				//	TODO compute "surface" of region, i.e., white pixels in vicinity of ones belonging to region
-				//	TODO from that, estimate average thickness
-				//	TODO remove region if surface is above certain threshold, i.e., region very thin
+				//	TODO remove region if min size square is not embeddable
+				
+				//	compute region size to surface ratio
+				int minSurface = (((int) Math.ceil(Math.sqrt(regionSizes[regionCode]))) * 4); // square
+				int maxSurface = ((regionSizes[regionCode] * 2) + 2); // straight line
+				
+				//	TODO refine this estimate, ceil(sqrt) is too coarse for small regions, retains too much
+				
+				//	too thin in whichever direction
+				if ((regionSizes[regionCode] < (minSize * minSoloSize)) && (((minSurface + maxSurface) / 2) <= regionSurfaces[regionCode])) {
+					retain = false;
+					if (DEBUG_FEATHERDUST) System.out.println(" --> removed as too thin");
+				}
 				
 				//	too narrow, low, or overall small to retain
 //				if (retain && ((colorCodeMaxCols[colorCode] - colorCodeMinCols[colorCode] + 1) < minSize))
@@ -1065,20 +1390,22 @@ public class Imaging {
 //					retain = false;
 //				if (retain && (colorCodeCounts[colorCode] < (isBinaryImage ? ((minSize-1) * (minSize-1)) : (minSize * minSize))))
 //					retain = false;
-				if (retain && ((colorCodeCounts[colorCode] * (isBinary ? 2 : 1)) < (minSize * minSize)))
+				if (retain && ((regionSizes[regionCode] * (isBinary ? 2 : 1)) < ((minSize * minSize) + (isBinary ? 1 : 0)))) {
 					retain = false;
+					if (DEBUG_FEATHERDUST) System.out.println(" --> removed for size below " + ((minSize * minSize) / (isBinary ? 2 : 1)));
+				}
 				
 				//	covering at least 70% of page width or height (e.g. A5 scanned A4), likely dark scanning margin (subject to check, though)
-				if (retain && ((colorCodeMaxCols[colorCode] - colorCodeMinCols[colorCode] + 1) > ((brightness.length * 7) / 10))) {
-//					System.out.println(" - page wide");
+				if (retain && ((regionMaxCols[regionCode] - regionMinCols[regionCode] + 1) > ((brightness.length * 7) / 10))) {
+					if (DEBUG_FEATHERDUST) System.out.println(" - page wide");
 					
 					//	test page edges
 					int topEdge = 0;
 					int bottomEdge = 0;
-					for (int lc = colorCodeMinCols[colorCode]; lc <= colorCodeMaxCols[colorCode]; lc++) {
-						if (colorCodes[lc][0] == colorCode)
+					for (int lc = regionMinCols[regionCode]; lc <= regionMaxCols[regionCode]; lc++) {
+						if (regionCodes[lc][0] == regionCode)
 							topEdge++;
-						if (colorCodes[lc][brightness[lc].length-1] == colorCode)
+						if (regionCodes[lc][brightness[lc].length-1] == regionCode)
 							bottomEdge++;
 					}
 					
@@ -1087,23 +1414,25 @@ public class Imaging {
 						retain = false;
 					
 					//	test if at least (dpi/15) wide in most parts, and at least 90% of page width
-					else if (((colorCodeMaxCols[colorCode] - colorCodeMinCols[colorCode] + 1) > ((brightness.length * 9) / 10))) {
-						int squareArea = getSquareArea(colorCodes, colorCodeMinCols[colorCode], colorCodeMaxCols[colorCode], colorCodeMinRows[colorCode], colorCodeMaxRows[colorCode], colorCode, (dpi / 15), true);
-//						System.out.println(" - got " + squareCount + " squares");
-						if ((squareArea * 2) > colorCodeCounts[colorCode])
+					else if (((regionMaxCols[regionCode] - regionMinCols[regionCode] + 1) > ((brightness.length * 9) / 10))) {
+						int squareArea = getSquareArea(regionCodes, regionMinCols[regionCode], regionMaxCols[regionCode], regionMinRows[regionCode], regionMaxRows[regionCode], regionCode, (dpi / 15), true);
+						if (DEBUG_FEATHERDUST) System.out.println(" - got " + squareArea + " square area");
+						if ((squareArea * 2) > regionSizes[regionCode]) {
 							retain = false;
+							if (DEBUG_FEATHERDUST) System.out.println(" --> removed for page width and thickness beyond " + (dpi / 15));
+						}
 					}
 				}
-				if (retain && ((colorCodeMaxRows[colorCode] - colorCodeMinRows[colorCode] + 1) > ((brightness[0].length * 7) / 10))) {
-//					System.out.println(" - page high");
+				if (retain && ((regionMaxRows[regionCode] - regionMinRows[regionCode] + 1) > ((brightness[0].length * 7) / 10))) {
+					if (DEBUG_FEATHERDUST) System.out.println(" - page high");
 					
 					//	test page edges
 					int leftEdge = 0;
 					int rightEdge = 0;
-					for (int lr = colorCodeMinRows[colorCode]; lr <= colorCodeMaxRows[colorCode]; lr++) {
-						if (colorCodes[0][lr] == colorCode)
+					for (int lr = regionMinRows[regionCode]; lr <= regionMaxRows[regionCode]; lr++) {
+						if (regionCodes[0][lr] == regionCode)
 							leftEdge++;
-						if (colorCodes[brightness.length-1][lr] == colorCode)
+						if (regionCodes[brightness.length-1][lr] == regionCode)
 							rightEdge++;
 					}
 					
@@ -1112,79 +1441,91 @@ public class Imaging {
 						retain = false;
 					
 					//	test if at least (dpi/15) wide in most parts, and at least 90% of page height
-					else if (((colorCodeMaxRows[colorCode] - colorCodeMinRows[colorCode] + 1) > ((brightness[0].length * 9) / 10))) {
-						int squareArea = getSquareArea(colorCodes, colorCodeMinCols[colorCode], colorCodeMaxCols[colorCode], colorCodeMinRows[colorCode], colorCodeMaxRows[colorCode], colorCode, (dpi / 15), true);
-//						System.out.println(" - got " + squareCount + " squares");
-						if ((squareArea * 2) > colorCodeCounts[colorCode])
+					else if (((regionMaxRows[regionCode] - regionMinRows[regionCode] + 1) > ((brightness[0].length * 9) / 10))) {
+						int squareArea = getSquareArea(regionCodes, regionMinCols[regionCode], regionMaxCols[regionCode], regionMinRows[regionCode], regionMaxRows[regionCode], regionCode, (dpi / 15), true);
+						if (DEBUG_FEATHERDUST) System.out.println(" - got " + squareArea + " square area");
+						if ((squareArea * 2) > regionSizes[regionCode]) {
 							retain = false;
+							if (DEBUG_FEATHERDUST) System.out.println(" --> removed for page height and thickness beyond " + (dpi / 15));
+						}
 					}
 				}
 				
 				if (retain) {
-					for (int cc = colorCodeMinCols[colorCode]; cc <= colorCodeMaxCols[colorCode]; cc++)
-						for (int cr = colorCodeMinRows[colorCode]; cr <= colorCodeMaxRows[colorCode]; cr++) {
-							if (colorCodes[cc][cr] == colorCode)
-								colorCodes[cc][cr] = -colorCode;
+					for (int cc = regionMinCols[regionCode]; cc <= regionMaxCols[regionCode]; cc++)
+						for (int cr = regionMinRows[regionCode]; cr <= regionMaxRows[regionCode]; cr++) {
+							if (regionCodes[cc][cr] == regionCode)
+								regionCodes[cc][cr] = -regionCode;
 						}
-//					System.out.println(" --> retained");
+					if (DEBUG_FEATHERDUST) System.out.println(" ==> retained");
 				}
 				else {
-					for (int cc = colorCodeMinCols[colorCode]; cc <= colorCodeMaxCols[colorCode]; cc++)
-						for (int cr = colorCodeMinRows[colorCode]; cr <= colorCodeMaxRows[colorCode]; cr++) {
-							if (colorCodes[cc][cr] != colorCode)
+					for (int cc = regionMinCols[regionCode]; cc <= regionMaxCols[regionCode]; cc++)
+						for (int cr = regionMinRows[regionCode]; cr <= regionMaxRows[regionCode]; cr++) {
+							if (regionCodes[cc][cr] != regionCode)
 								continue;
 							ai.brightness[cc][cr] = 127;
 							ai.image.setRGB(cc, cr, tooSmall);
-							colorCodes[cc][cr] = 0;
+							regionCodes[cc][cr] = 0;
 							changed = true;
 						}
-//					System.out.println(" --> removed");
+					if (DEBUG_FEATHERDUST) System.out.println(" ==> removed");
 				}
 			}
 		
 		//	set regions above solo size limit back to positive
-		boolean[] assessed = new boolean[currentColorCode];
+		boolean[] assessed = new boolean[regionCodeCount];
 		Arrays.fill(assessed, false);
-		for (int c = 0; c < colorCodes.length; c++)
-			for (int r = 0; r < colorCodes[c].length; r++) {
-				if (colorCodes[c][r] >= 0)
+		for (int c = 0; c < regionCodes.length; c++)
+			for (int r = 0; r < regionCodes[c].length; r++) {
+				if (regionCodes[c][r] >= 0)
 					continue;
-				if (assessed[-colorCodes[c][r]])
+				if (assessed[-regionCodes[c][r]])
 					continue;
-				assessed[-colorCodes[c][r]] = true;
+				assessed[-regionCodes[c][r]] = true;
 				
 				boolean standalone = true;
-				int colorCode = -colorCodes[c][r];
-//				System.out.println("Assessing region " + colorCode + " (size " + colorCodeCounts[colorCode] + ")");
+				int regionCode = -regionCodes[c][r];
+				if (DEBUG_FEATHERDUST) System.out.println("Assessing region " + regionCode + " (size " + regionSizes[regionCode] + ")");
 				
 				//	too narrow, low, or overall small to stand alone
 				if (isBinary || isSharp) {
-					if (standalone && ((colorCodeMaxCols[colorCode] - colorCodeMinCols[colorCode] + 1) < minSoloSize) && ((colorCodeMaxRows[colorCode] - colorCodeMinRows[colorCode] + 1) < minSoloSize))
+					if (standalone && ((regionMaxCols[regionCode] - regionMinCols[regionCode] + 1) < minSoloSize) && ((regionMaxRows[regionCode] - regionMinRows[regionCode] + 1) < minSoloSize)) {
 						standalone = false;
+						if (DEBUG_FEATHERDUST) System.out.println(" --> too small for standalone");
+					}
 				}
 				else {
-					if (standalone && ((colorCodeMaxCols[colorCode] - colorCodeMinCols[colorCode] + 1) < minSoloSize))
+					if (standalone && ((regionMaxCols[regionCode] - regionMinCols[regionCode] + 1) < minSoloSize)) {
 						standalone = false;
-					if (standalone && ((colorCodeMaxRows[colorCode] - colorCodeMinRows[colorCode] + 1) < minSoloSize))
+						if (DEBUG_FEATHERDUST) System.out.println(" --> too small for standalone");
+					}
+					if (standalone && ((regionMaxRows[regionCode] - regionMinRows[regionCode] + 1) < minSoloSize)) {
 						standalone = false;
+						if (DEBUG_FEATHERDUST) System.out.println(" --> too small for standalone");
+					}
 				}
-				if (standalone && ((colorCodeCounts[colorCode] * (isBinary ? 2 : 1)) < (minSize * minSoloSize)))
+				if (standalone && ((regionSizes[regionCode] * (isBinary ? 2 : 1)) < (minSize * minSoloSize))) {
 					standalone = false;
+					if (DEBUG_FEATHERDUST) System.out.println(" --> too small for standalone, below " + ((minSize * minSoloSize) / (isBinary ? 2 : 1)));
+				}
 				
 				//	count minSize by minSize squares, and deny standalone if not covering at least 33% of region
 				if (standalone && !isBinary && !isSharp) {
-					int squareArea = getSquareArea(colorCodes, colorCodeMinCols[colorCode], colorCodeMaxCols[colorCode], colorCodeMinRows[colorCode], colorCodeMaxRows[colorCode], -colorCode, minSize, false);
-					if ((squareArea * 3) < colorCodeCounts[colorCode])
+					int squareArea = getSquareArea(regionCodes, regionMinCols[regionCode], regionMaxCols[regionCode], regionMinRows[regionCode], regionMaxRows[regionCode], -regionCode, minSize, false);
+					if ((squareArea * 3) < regionSizes[regionCode]) {
 						standalone = false;
+						if (DEBUG_FEATHERDUST) System.out.println(" --> too strewn for standalone");
+					}
 				}
 				
 				if (standalone) {
-					for (int cc = colorCodeMinCols[colorCode]; cc <= colorCodeMaxCols[colorCode]; cc++)
-						for (int cr = colorCodeMinRows[colorCode]; cr <= colorCodeMaxRows[colorCode]; cr++) {
-							if (colorCodes[cc][cr] == -colorCode)
-								colorCodes[cc][cr] = colorCode;
+					for (int cc = regionMinCols[regionCode]; cc <= regionMaxCols[regionCode]; cc++)
+						for (int cr = regionMinRows[regionCode]; cr <= regionMaxRows[regionCode]; cr++) {
+							if (regionCodes[cc][cr] == -regionCode)
+								regionCodes[cc][cr] = regionCode;
 						}
-//					System.out.println(" --> standalone");
+					if (DEBUG_FEATHERDUST) System.out.println(" --> standalone");
 				}
 			}
 		
@@ -1195,26 +1536,26 @@ public class Imaging {
 			attachedNew = false;
 			attachRound++;
 			Arrays.fill(assessed, false);
-			for (int c = 0; c < colorCodes.length; c++)
-				for (int r = 0; r < colorCodes[c].length; r++) {
-					if (colorCodes[c][r] >= 0)
+			for (int c = 0; c < regionCodes.length; c++)
+				for (int r = 0; r < regionCodes[c].length; r++) {
+					if (regionCodes[c][r] >= 0)
 						continue;
-					if (assessed[-colorCodes[c][r]])
+					if (assessed[-regionCodes[c][r]])
 						continue;
-					assessed[-colorCodes[c][r]] = true;
+					assessed[-regionCodes[c][r]] = true;
 					
 					boolean attach = false;
-					int colorCode = -colorCodes[c][r];
-//					System.out.println("Attaching region " + colorCode + " (size " + colorCodeCounts[colorCode] + ")");
+					int regionCode = -regionCodes[c][r];
+					if (DEBUG_FEATHERDUST) System.out.println("Attaching region " + regionCode + " (size " + regionSizes[regionCode] + ")");
 					
 					//	determine maximum distance, dependent on region size, as dots and hyphens in small fonts are also closer to adjacent letters
-					int maxHorizontalMargin = Math.min(minSoloSize, colorCodeCounts[colorCode]);
-					int maxVerticalMargin = Math.min(((isBinary || isSharp) ? minSoloSize : (minSoloSize / 2)), colorCodeCounts[colorCode]);
+					int maxHorizontalMargin = Math.min(minSoloSize, regionSizes[regionCode]);
+					int maxVerticalMargin = Math.min(((isBinary || isSharp) ? minSoloSize : (minSoloSize / 2)), regionSizes[regionCode]);
 					
 					//	search for standalone or attached regions around current one
-					for (int cc = Math.max(0, (colorCodeMinCols[colorCode] - maxHorizontalMargin)); cc <= Math.min((brightness.length-1), (colorCodeMaxCols[colorCode] + maxHorizontalMargin)); cc++) {
-						for (int cr = Math.max(0, (colorCodeMinRows[colorCode] - maxVerticalMargin)); cr <= Math.min((brightness[cc].length-1), (colorCodeMaxRows[colorCode] + maxVerticalMargin)); cr++)
-							if (colorCodes[cc][cr] > 0) {
+					for (int cc = Math.max(0, (regionMinCols[regionCode] - maxHorizontalMargin)); cc <= Math.min((brightness.length-1), (regionMaxCols[regionCode] + maxHorizontalMargin)); cc++) {
+						for (int cr = Math.max(0, (regionMinRows[regionCode] - maxVerticalMargin)); cr <= Math.min((brightness[cc].length-1), (regionMaxRows[regionCode] + maxVerticalMargin)); cr++)
+							if (regionCodes[cc][cr] > 0) {
 								attach = true;
 								break;
 							}
@@ -1224,41 +1565,41 @@ public class Imaging {
 					
 					//	attach current region
 					if (attach) {
-						for (int cc = colorCodeMinCols[colorCode]; cc <= colorCodeMaxCols[colorCode]; cc++)
-							for (int cr = colorCodeMinRows[colorCode]; cr <= colorCodeMaxRows[colorCode]; cr++) {
-								if (colorCodes[cc][cr] == -colorCode)
-									colorCodes[cc][cr] = colorCode;
+						for (int cc = regionMinCols[regionCode]; cc <= regionMaxCols[regionCode]; cc++)
+							for (int cr = regionMinRows[regionCode]; cr <= regionMaxRows[regionCode]; cr++) {
+								if (regionCodes[cc][cr] == -regionCode)
+									regionCodes[cc][cr] = regionCode;
 							}
-//						System.out.println(" --> attached");
+						if (DEBUG_FEATHERDUST) System.out.println(" --> attached");
 						attachedNew = true;
 					}
 				}
 		}
-//		while (attachedNew);
 		while (attachedNew && (attachRound < maxAttachRounds));
-		System.out.println("Attachments done in " + attachRound + " rounds");
+		if (DEBUG_FEATHERDUST) System.out.println("Attachments done in " + attachRound + " rounds");
 		
 		//	eliminate remaining negative regions
-		for (int c = 0; c < colorCodes.length; c++)
-			for (int r = 0; r < colorCodes[c].length; r++) {
-				if (colorCodes[c][r] >= 0)
+		for (int c = 0; c < regionCodes.length; c++)
+			for (int r = 0; r < regionCodes[c].length; r++) {
+				if (regionCodes[c][r] >= 0)
 					continue;
 				
-				int colorCode = -colorCodes[c][r];
-//				System.out.println("Removing region " + colorCode + " (size " + colorCodeCounts[colorCode] + ")");
-				for (int cc = colorCodeMinCols[colorCode]; cc <= colorCodeMaxCols[colorCode]; cc++)
-					for (int cr = colorCodeMinRows[colorCode]; cr <= colorCodeMaxRows[colorCode]; cr++) {
-						if (colorCodes[cc][cr] != -colorCode)
+				int regionCode = -regionCodes[c][r];
+				if (DEBUG_FEATHERDUST) System.out.println("Removing region " + regionCode + " (size " + regionSizes[regionCode] + ")");
+				for (int cc = regionMinCols[regionCode]; cc <= regionMaxCols[regionCode]; cc++)
+					for (int cr = regionMinRows[regionCode]; cr <= regionMaxRows[regionCode]; cr++) {
+						if (regionCodes[cc][cr] != -regionCode)
 							continue;
 						ai.brightness[cc][cr] = 127;
 						ai.image.setRGB(cc, cr, tooSmallForStandalone);
-						colorCodes[cc][cr] = 0;
+						regionCodes[cc][cr] = 0;
 						changed = true;
 					}
 			}
 		
 		return changed;
 	}
+	private static final boolean DEBUG_FEATHERDUST = true;
 	private static final int maxAttachRounds = 3;
 	/* working left to right, this should be sufficient for dotted lines, as
 	 * well as punctuation marks like colons and semi colons, while preventing
@@ -1361,61 +1702,6 @@ public class Imaging {
 //			}
 //		changed = true;
 //	}
-	private static int colorRegion(byte[][] brightness, int[][] colorCodes, int c, int r, int colorCode, boolean isBinaryImage) {
-		ArrayList points = new ArrayList() {
-			HashSet distinctContent = new HashSet();
-			public boolean add(Object obj) {
-				return (this.distinctContent.add(obj) ? super.add(obj) : false);
-			}
-		};
-		points.add(new Point(c, r));
-		
-		int regionSize = 0;
-		for (int p = 0; p < points.size(); p++) {
-			Point point = ((Point) points.get(p));
-			if ((point.c == -1) || (point.r == -1))
-				continue;
-			if ((point.c == brightness.length) || (point.r == brightness[c].length))
-				continue;
-			if (brightness[point.c][point.r] == 127)
-				continue;
-			if (colorCodes[point.c][point.r] != 0)
-				continue;
-			colorCodes[point.c][point.r] = colorCode;
-			regionSize++;
-			
-			if (isBinaryImage)
-				points.add(new Point((point.c - 1), (point.r - 1)));
-			points.add(new Point((point.c - 1), point.r));
-			if (isBinaryImage)
-				points.add(new Point((point.c - 1), (point.r + 1)));
-			points.add(new Point(point.c, (point.r - 1)));
-			points.add(new Point(point.c, (point.r + 1)));
-			if (isBinaryImage)
-				points.add(new Point((point.c + 1), (point.r - 1)));
-			points.add(new Point((point.c + 1), point.r));
-			if (isBinaryImage)
-				points.add(new Point((point.c + 1), (point.r + 1)));
-		}
-		return regionSize;
-	}
-	private static class Point {
-		final int c;
-		final int r;
-		Point(int c, int r) {
-			this.c = c;
-			this.r = r;
-		}
-		public boolean equals(Object obj) {
-			return ((obj instanceof Point) && (((Point) obj).c == this.c) && (((Point) obj).r == this.r));
-		}
-		public int hashCode() {
-			return ((this.c << 16) + this.r);
-		}
-		public String toString() {
-			return ("(" + this.c + "/" + this.r + ")");
-		}
-	}
 //	we cannot use recursion, even though it's more elegant,  because of stack overflows in practice (images as large as 3000 by 4000 pixels vs. at most 1024 stack frames) !!!
 //	private static void extend(byte[][] brightness, int[][] colorCodes, int c, int r, int colorCode, int[] regionSize) {
 //		if ((c == brightness.length) || (r == brightness[c].length))
@@ -1726,7 +2012,7 @@ public class Imaging {
 		for (int o = 0; o < offsets.length; o++) {
 			if (maxOffset > 0)
 				offsets[o] = (((o * maxOffset) + (offsets.length / 2)) / offsets.length);
-			else offsets[o] = (((o * maxOffset) - (offsets.length / 2)) / offsets.length);
+			else offsets[o] = ((((offsets.length - o - 1) * -maxOffset) + (offsets.length / 2)) / offsets.length);
 		}
 		
 		byte[][] brightness = rect.analysisImage.getBrightness();
@@ -1742,7 +2028,8 @@ public class Imaging {
 			for (int r = rect.topRow; r < rect.bottomRow; r++) {
 				brightnessSum += brightness[c][r];
 				minBrightness = ((byte) Math.min(minBrightness, brightness[c][r]));
-				sc = c - offsets[r - rect.topRow]; // we have to subtract the offset so positive angles correspond to shearing top of rectangle rightward
+//				sc = c - offsets[r - rect.topRow]; // WRONG: we have to subtract the offset so positive angles correspond to shearing top of rectangle rightward
+				sc = c + offsets[r - rect.topRow]; // RIGHT: we have to add the offset so positive angles correspond to shearing top of rectangle rightward
 				sb = (((rect.leftCol <= sc) && (sc < rect.rightCol)) ? brightness[sc][r] : 127);
 				sBrightnessSum += sb;
 				sMinBrightness = ((byte) Math.min(sMinBrightness, sb));
@@ -1820,7 +2107,7 @@ public class Imaging {
 			ImagePartRectangle res = new ImagePartRectangle(rect.analysisImage);
 			res.topRow = rect.topRow;
 			res.bottomRow = rect.bottomRow;
-			res.leftCol = Math.max((left - (maxOffset / 2)), rect.leftCol);
+			res.leftCol = Math.min(Math.max((left - (maxOffset / 2)), rect.leftCol), (rect.rightCol - 1));
 			if (requireVerticalSplit) {
 				while ((rect.leftCol < res.leftCol) && !whiteCols[res.leftCol - rect.leftCol])
 					res.leftCol--;
@@ -2467,7 +2754,7 @@ public class Imaging {
 		ArrayList peaks = new ArrayList();
 		collectPeaks(fft, peaks, max/4, adjustMode);
 		
-//		TODO keep this deactivated for export !!!
+//		//	TODO keep this deactivated for export !!!
 //		BufferedImage fftImage = getFftImage(fft, adjustMode);
 //		try {
 //			ImageIO.write(fftImage, "png", new File("E:/Testdaten/PdfExtract/FFT." + System.currentTimeMillis() + ".png"));
@@ -2752,5 +3039,615 @@ public class Imaging {
 			}
 		}
 		return tImage;
+	}
+	
+	/**
+	 * Enhance the contrast of a gray-sclae image. This method uses a simple
+	 * for of contrast limited adaptive histogram equalization.
+	 * @param analysisImage the image to treat
+	 * @param dpi the resolution of the image
+	 * @return true if the image was modified, false otherwise
+	 */
+	public static boolean enhanceContrast(AnalysisImage analysisImage, int dpi, int ignoreThreshold) {
+		//	TODO figure out if threshold makes sense
+		
+		//	get brightness array
+		byte[][] brightness = analysisImage.getBrightness();
+		if ((brightness.length == 0) || (brightness[0].length == 0))
+			return false;
+		
+		//	compute number and offset of tiles
+		int ts = (dpi / 10); // TODO play with denominator
+		int htc = ((brightness.length + ts - 1) / ts);
+		int hto = (((htc * ts) - brightness.length) / 2);
+		int vtc = ((brightness[0].length + ts - 1) / ts);
+		int vto = (((vtc * ts) - brightness[0].length) / 2);
+		
+		//	compute tiles
+		ImageTile[][] tiles = new ImageTile[htc][vtc];
+		for (int ht = 0; ht < tiles.length; ht++) {
+			int tl = Math.max(((ht * ts) - hto), 0);
+			int tr = Math.min((((ht+1) * ts) - hto), brightness.length);
+			for (int vt = 0; vt < tiles[ht].length; vt++) {
+				int tt = Math.max(((vt * ts) - vto), 0);
+				int tb = Math.min((((vt+1) * ts) - vto), brightness[0].length);
+				tiles[ht][vt] = new ImageTile(tl, tr, tt, tb);
+			}
+		}
+		
+		//	compute min and max brightness for each tile TODO consider using min and max quantile (e.g. 5%) instead of absolute min and max
+		for (int ht = 0; ht < tiles.length; ht++)
+			for (int vt = 0; vt < tiles[ht].length; vt++) {
+				ImageTile tile = tiles[ht][vt];
+				for (int c = tile.left; c < tile.right; c++)
+					for (int r = tile.top; r < tile.bottom; r++) {
+						if (ignoreThreshold <= brightness[c][r])
+							continue;
+						tile.minBrightness = ((byte) Math.min(tile.minBrightness, brightness[c][r]));
+						tile.maxBrightness = ((byte) Math.max(tile.maxBrightness, brightness[c][r]));
+					}
+			}
+		
+		//	enhance contrast
+		int radius = 2; // TODO play with radius
+		for (int ht = 0; ht < tiles.length; ht++)
+			for (int vt = 0; vt < tiles[ht].length; vt++) {
+				ImageTile tile = tiles[ht][vt];
+				
+				//	compute min and max brightness for current tile and its neighborhood
+				byte minBrightness = tile.minBrightness;
+				byte maxBrightness = tile.maxBrightness;
+				for (int htl = Math.max(0, (ht-radius)); htl <= Math.min((htc-1), (ht+radius)); htl++)
+					for (int vtl = Math.max(0, (vt-radius)); vtl <= Math.min((vtc-1), (vt+radius)); vtl++) {
+						minBrightness = ((byte) Math.min(minBrightness, tiles[htl][vtl].minBrightness));
+						maxBrightness = ((byte) Math.max(maxBrightness, tiles[htl][vtl].maxBrightness));
+					}
+				
+				//	nothing we can do about this one ...
+				if (maxBrightness <= minBrightness)
+					continue;
+				
+				//	avoid over-amplification of noise TODO play with threshold
+				int minBrightnessDist = 48;
+				if ((maxBrightness - minBrightness) < minBrightnessDist) {
+					System.out.println("Limiting weak contrast " + minBrightness + "-" + maxBrightness);
+					int remainingBrightnessDist = (minBrightnessDist - (maxBrightness - minBrightness));
+					int darkeningMinBrightnessDist = ((remainingBrightnessDist * minBrightness) / (127 - (maxBrightness - minBrightness)));
+					int lighteningMaxBrighnessDist = (remainingBrightnessDist - darkeningMinBrightnessDist);
+					minBrightness = ((byte) (minBrightness - darkeningMinBrightnessDist));
+					maxBrightness = ((byte) (maxBrightness + lighteningMaxBrighnessDist));
+					System.out.println(" ==> " + minBrightness + "-" + maxBrightness);
+				}
+				
+				//	adjust image
+				for (int c = tile.left; c < tile.right; c++)
+					for (int r = tile.top; r < tile.bottom; r++) {
+						int b = (((brightness[c][r] - minBrightness) * 127) / (maxBrightness - minBrightness));
+						if (127 < b)
+							b = 127;
+						else if (b < 0)
+							b = 0;
+						brightness[c][r] = ((byte) b);
+						analysisImage.image.setRGB(c, r, Color.HSBtoRGB(0, 0, (((float) brightness[c][r]) / 127)));
+					}
+			}
+		
+		//	finally ...
+		return true;
+	}
+	private static class ImageTile {
+		final int left;
+		final int right;
+		final int top;
+		final int bottom;
+		byte minBrightness = ((byte) 127);
+		byte maxBrightness = ((byte) 0);
+		ImageTile(int left, int right, int top, int bottom) {
+			this.left = left;
+			this.right = right;
+			this.top = top;
+			this.bottom = bottom;
+		}
+	}
+	
+	private static class ImageData {
+		String fileName;
+		int dpi;
+		ImageData(String fileName, int dpi) {
+			this.fileName = fileName;
+			this.dpi = dpi;
+		}
+	}
+	/* TODO use region coloring for block detection
+	 * - measure distance to next non-white pixel for all white pixels
+	 * - use as boundary for region coloring if distance above some (DPI fraction based) threshold
+	 * - regions are blocks, no matter of shape
+	 * - use size to surface comparison to get rid of lines, etc.
+	 * 
+	 * PUT THIS IN PageImageAnalysis WHEN DONE
+	 */
+	
+	private static ImageData[] testImages = {
+		new ImageData("BEC_1890.pdf.0.png", 200),
+		new ImageData("torminosus1.pdf.0.png", 150),
+		new ImageData("Mellert_et_al_2000.pdf.2.png", 600),
+		new ImageData("Mellert_et_al_2000.pdf.3.png", 600),
+		new ImageData("AcaxanthumTullyandRazin1970.pdf.1.png", 600),
+		new ImageData("AcaxanthumTullyandRazin1970.pdf.2.png", 600),
+		new ImageData("Darwiniana_V19_p553.pdf.0.png", 150),
+		new ImageData("Schulz_1997.pdf.5.png", 400),
+		new ImageData("23416.pdf.207.png", 300),
+		new ImageData("Forsslund1964.pdf.3.png", 300),
+		new ImageData("5834.pdf.2.png", 300),
+		new ImageData("AcaxanthumTullyandRazin1970.pdf.4.png", 600),
+		new ImageData("015798000128826.pdf.2.png", 200),
+		new ImageData("Forsslund1964.pdf.1.png", 300),
+		new ImageData("Menke_Cerat_1.pdf.12.png", 300),
+		new ImageData("fm__1_4_295_6.pdf.0.png", 300),
+		new ImageData("fm__1_4_295_6.pdf.1.png", 300),
+		new ImageData("fm__1_4_295_6.pdf.2.png", 300),
+		new ImageData("Ceratolejeunea_Lejeuneaceae.mono.pdf.0.png", 200),
+		new ImageData("chenopodiacea_hegi_270_281.pdf.6.png", 300),
+		new ImageData("Prasse_1979_1.pdf.6.png", 300),
+		new ImageData("Prasse_1979_1.pdf.9.png", 300),
+		new ImageData("Prasse_1979_1.pdf.12.png", 300),
+		new ImageData("Prasse_1979_1.pdf.13.png", 300),
+	};
+	
+	/* test PDFs and images: TODO think of further odd cases
+	 * - black and white, pages strewn with tiny spots: BEC_1890.pdf.0.png (200 dpi)
+	 * - skewed page, somewhat uneven ink distribution: torminosus1.pdf.0.png (150 dpi)
+	 * - tables with dotted grid lines, highlighted (darker) cells: Mellert_et_al_2000.pdf.2.png, Mellert_et_al_2000.pdf.3.png (also dirty, as scanned from copy) ==> VERY HARD CASE
+	 * - two columns floating around image embedded in mid page: TODO
+	 * - change between one and two columns: AcaxanthumTullyandRazin1970.pdf.1.png, AcaxanthumTullyandRazin1970.pdf.2.png
+	 * - back frame around page: Darwiniana_V19_p553.pdf.0.png
+	 * - black frame around two sides of page, punch holes: Schulz_1997.pdf.5.png
+	 * - pencil stroke or fold through mid page: 23416.pdf.207.png
+	 * - pencil stroke in text: Forsslund1964.pdf.3.png
+	 * - two-columnish drawing with two-column caption: 5834.pdf.2.png
+	 * - extremely small font: AcaxanthumTullyandRazin1970.pdf.4.png
+	 * - uneven background, bleed-through: 015798000128826.pdf.2.png, Forsslund1964.pdf.1.png
+	 * - uneven background with page fold at edge: Menke_Cerat_1.pdf.12.png
+	 * - dark, uneven background, disturbed edges: fm__1_4_295_6.pdf.0.png, fm__1_4_295_6.pdf.1.png, fm__1_4_295_6.pdf.2.png
+	 * - inverted images: ants_02732.pdf
+	 * - wide dark edges, half of neighbor page: Ceratolejeunea_ Lejeuneaceae.mono.pdf.0.png
+	 * - light figure, hard to distinguish from text: chenopodiacea_hegi_270_281.pdf.6.png
+	 * 
+	 * - extremely bad print quality (stenciled): Prasse_1979_1.pdf.6.png
+	 * - extremely bad print quality (stenciled), grid-less tables: Prasse_1979_1.pdf.9.png
+	 * - extremely bad print quality (stenciled), grid-less tables, folding lines: Prasse_1979_1.pdf.12.png, Prasse_1979_1.pdf.13.png
+	 * 
+	 * - change from one column to two and back: FOC-Loranthaceae.pdf.7.png (BORN-DIGITAL, MORE FOR STRUCTURING)
+	 * - three-column, narrow gaps: Sansone-2012-44-121.pdf (BORN-DIGITAL, MORE FOR STRUCTURING)
+	 * - two-column layout, three-column figure, grid-less tables: PlatnickShadab1979b.pdf.13.png (MORE FOR STRUCTURING)
+	 * - multi-page grid-less table: SCZ634_Cairns_web_FINAL.pdf (pp 45-47, BORN-DIGITAL, MORE FOR STRUCTURING)
+	 * - extremely text-like heading, grid-less table, partially Chinese: ZhangChen1994.pdf.2.png (MORE FOR STRUCTURING)
+	 * - mix of one- and two-column layout, embedded footnotes, dividing lines: Wallace's line.pdf (BORN-DIGITAL, MORE FOR STRUCTURING)
+	 */
+	
+	/* TODO try and _analyze_ page images first:
+	 * - long horizontal and vertical lines
+	 *   ==> TODO implement generalized pattern detection
+	 */
+	
+	//	TODO compute that for all selected images, and put in Excel sheet for overview
+	//	TODO plot some clean images against analysis results as basis for classification
+	//	TODO store analysis results in AnalysisImage class for reuse
+	
+	private static final int normDpi = 300;
+	private static StringTupel generateStats(String imageFileName, int dpi) {
+		System.out.println("Generating stats for " + imageFileName);
+		
+		//	start stats
+		StringTupel st = new StringTupel();
+		st.setValue("imageName", imageFileName);
+		st.setValue("imageDpi", ("" + dpi));
+		
+		//	load image
+		BufferedImage bi;
+		try {
+			bi = ImageIO.read(new File("E:/Testdaten/PdfExtract", imageFileName));
+		}
+		catch (IOException ioe) {
+			System.out.println("Error loading image '" + imageFileName + "':" + ioe.getMessage());
+			ioe.printStackTrace(System.out);
+			return st;
+		}
+		
+		//	scale and adjust image is necessary
+		if ((bi.getType() != BufferedImage.TYPE_BYTE_GRAY) || (dpi > normDpi)) {
+			int scaleFactor = Math.max(1, ((dpi + normDpi - 1) / normDpi));
+			BufferedImage abi = new BufferedImage((bi.getWidth() / scaleFactor), (bi.getHeight() / scaleFactor), BufferedImage.TYPE_BYTE_GRAY);
+			Graphics2D ag = abi.createGraphics();
+			ag.drawImage(bi, 0, 0, abi.getWidth(), abi.getHeight(), null);
+			bi = abi;
+			dpi /= scaleFactor;
+		}
+		st.setValue("analysisDpi", ("" + dpi));
+		st.setValue("analysisSize", ("" + (bi.getWidth() * bi.getHeight())));
+		
+		//	wrap image
+		AnalysisImage ai = wrapImage(bi, null);
+		
+		//	do white balance
+		whitenWhite(ai);
+		
+		//	eliminate background
+		//eliminateBackground(ai, dpi);
+		//whitenWhite(ai);
+		
+		//	apply mild overall blur (about one third of a millimeter)
+		//gaussBlur(ai, (dpi / 67));
+		//whitenWhite(ai);
+		
+		//	apply mild horizontal blur (about half a millimeter)
+		//gaussBlur(ai, (dpi / 50), 0);
+		//whitenWhite(ai);
+		
+		//	apply strong horizontal blur (about five millimeters)
+		//gaussBlur(ai, (dpi / 5), 0);
+		//whitenWhite(ai);
+		
+		//	compute brightness distribution
+		for (int bb = 8; bb <= 32; bb*=2) {
+			int[] brightnessDist = getBrightnessDistribution(ai, bb);
+			for (int b = 0; b < brightnessDist.length; b++)
+				st.setValue(("brightnessDist" + bb + "-" + b), ("" + brightnessDist[b]));
+		}
+//		
+//		//	compute region size distribution
+//		int dpiFactor = dpi;
+//		int normDpiFactor = normDpi;
+//		for (int f = 2; (f < dpiFactor) && (f < normDpiFactor); f++)
+//			while (((dpiFactor % f) == 0) && ((normDpiFactor % f) == 0)) {
+//				dpiFactor /= f;
+//				normDpiFactor /= f;
+//			}
+//		System.out.println("- DPI based region size norm factor is (" + dpiFactor + "/" + normDpiFactor + ")²");
+//		int maxRegionSizeBucketCount = 16;
+//		for (int bt = 1; bt <= 1/*16*/; bt*= 4)
+//			for (int id = 0; id < 2; id++) {
+//				System.out.println("- doing " + ((id == 1) ? "diagonal" : "straight") + " coloring with threshold " + (128 - bt));
+//				int[][] regionCodes = getRegionColoring(ai, ((byte) (128 - bt)), (id == 1));
+//				int regionCodeCount = 0;
+//				for (int c = 0; c < regionCodes.length; c++) {
+//					for (int r = 0; r < regionCodes[c].length; r++)
+//						regionCodeCount = Math.max(regionCodeCount, regionCodes[c][r]);
+//				}
+//				regionCodeCount++; // account for 0
+//				int[] regionSizes = new int[regionCodeCount];
+//				Arrays.fill(regionSizes, 0);
+//				for (int c = 0; c < regionCodes.length; c++) {
+//					for (int r = 0; r < regionCodes[c].length; r++)
+//						regionSizes[regionCodes[c][r]]++;
+//				}
+//				int regionSizeBucketCount = 1;
+//				for (int rs = 1; rs < (regionCodes.length * regionCodes[0].length); rs*=2)
+//					regionSizeBucketCount++;
+//				regionSizeBucketCount = Math.min(maxRegionSizeBucketCount, regionSizeBucketCount);
+//				int[] regionSizeBuckets = new int[regionSizeBucketCount];
+//				int[] regionSizeBucketThresholds = new int[regionSizeBucketCount];
+//				regionSizeBuckets[0] = 0;
+//				regionSizeBucketThresholds[0] = 1;
+//				for (int b = 1; b < regionSizeBuckets.length; b++) {
+//					regionSizeBuckets[b] = 0;
+//					regionSizeBucketThresholds[b] = (regionSizeBucketThresholds[b-1] * 2);
+//				}
+//				while ((regionSizeBucketCount == maxRegionSizeBucketCount) && (regionSizeBucketThresholds[maxRegionSizeBucketCount-1] < (regionCodes.length * regionCodes[0].length)))
+//					regionSizeBucketThresholds[maxRegionSizeBucketCount-1] *= 2;
+//				for (int r = 0; r < regionSizes.length; r++)
+//					for (int b = 0; b < regionSizeBuckets.length; b++) {
+//						int nRegionSize = ((regionSizes[r] * dpiFactor * dpiFactor) / (normDpiFactor * normDpiFactor));
+//						if (nRegionSize <= regionSizeBucketThresholds[b]) {
+//							regionSizeBuckets[b]++;
+//							break;
+//						}
+//					}
+//				for (int b = 0; b < regionSizeBuckets.length; b++)
+//					st.setValue(("regionSizeDist" + ((id == 1) ? "D" : "S") + (128 - bt) + "-" + b), ("" + regionSizeBuckets[b]));
+//				for (int b = regionSizeBuckets.length; b < maxRegionSizeBucketCount; b++)
+//					st.setValue(("regionSizeDist" + ((id == 1) ? "D" : "S") + (128 - bt) + "-" + b), "0");
+//			}
+		
+		//	finally ...
+		return st;
+	}
+	
+	//	FOR TESTS ONLY !!!
+	public static void main(String[] args) throws Exception {
+//		if (true) {
+//			StringRelation stats = new StringRelation();
+//			for (int i = 0; i < testImages.length; i++) {
+//				StringTupel st = generateStats(testImages[i].fileName, testImages[i].dpi);
+//				stats.addElement(st);
+//			}
+//			File statsFile = new File("E:/Testdaten/PdfExtract", "TestImageStats.csv");
+//			BufferedWriter statsBw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(statsFile)));
+//			StringRelation.writeCsvData(statsBw, stats, ';', '"', true);
+//			statsBw.flush();
+//			statsBw.close();
+//			return;
+//		}
+//		
+		String imageFileName;
+		int dpi;
+		int scaleFactor = 1;
+		
+		//	feather dusting
+//		imageFileName = "BEC_1890.pdf.0.png"; dpi = 200;
+		
+		//	background elimination
+//		imageFileName = "Mellert_et_al_2000.pdf.2.png"; dpi = 600;
+//		imageFileName = "Mellert_et_al_2000.pdf.3.png"; dpi = 600;
+//		imageFileName = "fm__1_4_295_6.pdf.2.png"; dpi = 300;
+//		imageFileName = "BEC_1890.pdf.0.png"; dpi = 200;
+//		imageFileName = "Prasse_1979_1.pdf.6.png"; dpi = 300;
+//		imageFileName = "Prasse_1979_1.pdf.9.png"; dpi = 300;
+		imageFileName = "Prasse_1979_1.pdf.12.png"; dpi = 300;
+//		imageFileName = "Prasse_1979_1.pdf.13.png"; dpi = 300;
+		
+		//	page skew correction
+//		imageFileName = "torminosus1.pdf.0.png"; dpi = 150;
+		
+		//	dotted table grid
+//		imageFileName = "Mellert_et_al_2000.pdf.2.png"; dpi = 400;
+		
+		//	distance coloring
+//		imageFileName = "Mellert_et_al_2000.pdf.2.png"; dpi = 600;
+//		imageFileName = "torminosus1.pdf.0.png"; dpi = 150;
+//		imageFileName = "FOC-Loranthaceae.pdf.7.png"; dpi = 200;
+//		imageFileName = "fm__1_4_295_6.pdf.0.png"; dpi = 200;
+		
+		//	load and wrap image
+		BufferedImage bi = ImageIO.read(new File("E:/Testdaten/PdfExtract", imageFileName));
+		LinkedList beforeImages = new LinkedList();
+		if ((bi.getType() != BufferedImage.TYPE_BYTE_GRAY) || (dpi > 300)) {
+			scaleFactor = Math.max(1, ((dpi + 299) / 300));
+			BufferedImage abi = new BufferedImage((bi.getWidth() / scaleFactor), (bi.getHeight() / scaleFactor), BufferedImage.TYPE_BYTE_GRAY);
+			Graphics2D ag = abi.createGraphics();
+			ag.drawImage(bi, 0, 0, abi.getWidth(), abi.getHeight(), null);
+			bi = abi;
+			dpi /= scaleFactor;
+		}
+		BufferedImage obi = cloneImage(bi);
+		AnalysisImage ai = wrapImage(bi, null);
+		BufferedImage obirc = getRegionImage(ai, 127);
+		
+		//	TODO run test
+		//featherDust(ai, dpi, true, true);
+		//correctPageRotation(ai, 0.02, ADJUST_MODE_LOG); // doesn't do anything for small skews
+		//gaussBlur(ai, 2);
+		//whitenWhite(ai);
+//		gaussBlur(ai, (dpi / 10));
+		
+//		//	subtract background from foreground
+//		BufferedImage bebi = cloneImage(obi);
+//		AnalysisImage beai = wrapImage(bebi, null);
+//		byte[][] bBrightness = ai.getBrightness();
+//		byte[][] beBrightness = beai.getBrightness();
+//		for (int c = 0; c < beBrightness.length; c++)
+//			for (int r = 0; r < beBrightness[c].length; r++) {
+//				int b = 127 - ((127 - beBrightness[c][r]) - (127 - bBrightness[c][r]));
+//				if (b < 0)
+//					b = 0;
+//				else if (b > 127)
+//					b = 127;
+//				beai.brightness[c][r] = ((byte) b);
+//				if (beai.brightness[c][r] == 127)
+//					beai.image.setRGB(c, r, white);
+//			}
+//		whitenWhite(beai);
+//		gaussBlur(beai, 2);
+//		whitenWhite(beai);
+//		
+//		eliminateBackground(ai, dpi);
+//		whitenWhite(ai);
+//		BufferedImage bebi = cloneImage(bi);
+//		AnalysisImage beai = wrapImage(bebi, null);
+//		//correctImage(ai, dpi, null);
+//		for (int i = 0; i < 10; i++) {
+//			gaussBlur(ai, (dpi / 67), 0);
+//			whitenWhite(ai);
+//		}
+//		BufferedImage hbi = bi;
+//		bi = cloneImage(bebi);
+//		ai = wrapImage(bi, null);
+//		for (int i = 0; i < 10; i++) {
+//			gaussBlur(ai, 0, (dpi / 67));
+//			whitenWhite(ai);
+//		}
+//		BufferedImage vbi = bi;
+//		bi = cloneImage(bebi);
+//		ai = wrapImage(bi, null);
+//		
+//		AnalysisImage hai = wrapImage(hbi, null);
+//		gaussBlur(hai, (dpi / 50));
+//		AnalysisImage vai = wrapImage(vbi, null);
+//		gaussBlur(vai, (dpi / 50));
+//		
+//		byte[][] beBrightness = beai.getBrightness();
+//		byte[][] hBrightness = hai.getBrightness();
+//		byte[][] vBrightness = vai.getBrightness();
+//		
+//		BufferedImage rbi = cloneImage(bebi);
+//		for (int c = 0; c < beBrightness.length; c++)
+//			for (int r = 0; r < beBrightness[c].length; r++) {
+//				int rCount = 0;
+//				if (beBrightness[c][r] < 127)
+//					rCount++;
+//				if (hBrightness[c][r] < 127)
+//					rCount++;
+//				if (vBrightness[c][r] < 127)
+//					rCount++;
+//				if (rCount < 3 )
+//					rbi.setRGB(c, r, white);
+//			}
+		
+		/* THID LOOKS GOOD FOR ISOLATING TABLE GRIDS
+		gaussBlur(ai, (dpi / 50), (dpi / 100));
+		whitenWhite(ai);
+		regionColorAndClean(ai, dpi, (dpi * 2), dpi, true, false);
+		*/
+//		
+//		int[] rgbs = new int[128];
+//		for (int i = 0; i < rgbs.length; i++) {
+//			Color c = new Color((i*2), (i*2), (i*2));
+//			rgbs[i] = c.getRGB();
+//		}
+//		byte[][] nonWhiteDistances = getBrightnessDistances(ai, ((byte) 127), ((byte) (dpi / 12)));
+//		for (int c = 0; c < nonWhiteDistances.length; c++)
+//			for (int r = 0; r < nonWhiteDistances[c].length; r++) {
+//				if (nonWhiteDistances[c][r] != 0)
+//					bi.setRGB(c, r, rgbs[nonWhiteDistances[c][r]]);
+//			}
+		
+		//	eliminate background
+		eliminateBackground(ai, dpi);
+		BufferedImage bebi = cloneImage(bi);
+		BufferedImage bebirc = getRegionImage(ai, 127);
+		
+		//	whiten remainder
+		whitenWhite(ai);
+		BufferedImage wbi = cloneImage(bi);
+		BufferedImage wbirc = getRegionImage(ai, 127);
+		
+		//	enhance contrast
+		enhanceContrast(ai, dpi, 128);
+		BufferedImage cbi = cloneImage(bi);
+		BufferedImage cbirc = getRegionImage(ai, 127);
+		
+		//	smooth image
+		gaussBlur(ai, (dpi / 36), (dpi / 144), true);
+		BufferedImage bbi = cloneImage(bi);
+		BufferedImage bbirc = getRegionImage(ai, 127);
+		
+		//	make each region as dark as its darkest spot
+		int[][] regionCodes = getRegionColoring(ai, ((byte) 127), true);
+		int maxRegionCode = 0;
+		for (int c = 0; c < regionCodes.length; c++) {
+			for (int r = 0; r < regionCodes[c].length; r++)
+				maxRegionCode = Math.max(maxRegionCode, regionCodes[c][r]);
+		}
+		byte[] minRegionBrightness = new byte[maxRegionCode];
+		Arrays.fill(minRegionBrightness, ((byte) 127));
+		byte[][] brightness = ai.getBrightness();
+		for (int c = 0; c < regionCodes.length; c++)
+			for (int r = 0; r < regionCodes[c].length; r++) {
+				if (regionCodes[c][r] != 0)
+					minRegionBrightness[regionCodes[c][r]-1] = ((byte) Math.min(minRegionBrightness[regionCodes[c][r]-1], brightness[c][r]));
+			}
+		for (int c = 0; c < regionCodes.length; c++) {
+			for (int r = 0; r < regionCodes[c].length; r++)
+				if (regionCodes[c][r] != 0) {
+					brightness[c][r] = minRegionBrightness[regionCodes[c][r]-1];
+					ai.image.setRGB(c, r, Color.HSBtoRGB(0, 0, (((float) brightness[c][r]) / 127)));
+				}
+			}
+		
+		//	eliminate light regions
+		whitenWhite(ai);
+		BufferedImage dbi = cloneImage(bi);
+		BufferedImage dbirc = getRegionImage(ai, 127);
+		
+		//	AND-combine result image with original image
+		brightness = ai.getBrightness();
+		for (int c = 0; c < brightness.length; c++) {
+			for (int r = 0; r < brightness[c].length; r++)
+//				ai.image.setRGB(c, r, ((brightness[c][r] == 127) ? white : obi.getRGB(c, r)));
+				ai.image.setRGB(c, r, ((brightness[c][r] == 127) ? white : bebi.getRGB(c, r)));
+		}
+		ai.brightness = null;
+		gaussBlur(ai, 1, true);
+		BufferedImage acbi = cloneImage(bi);
+		BufferedImage acbirc = getRegionImage(ai, 127);
+		
+		//	enhance contrast
+		//enhanceContrast(ai, dpi, 120);
+		//	contrast enhancement seems to do more harm than good
+		//	==> TODO think of something else to make letters darker, but only tellers
+		
+		BufferedImage birc = getRegionImage(ai, 127);
+//		gaussBlur(ai, (dpi / 20), (dpi / 25), true); // for region coloring, we have to blur with 1/4 the designed minimum distance (diameter of blur x2), and 2/3 of that to counter the x3 enlarged kernel radius
+//		int[][] regionCodes = getRegionColoring(ai, ((byte) 127), true);
+//		int maxRegionCode = 0;
+//		for (int c = 0; c < regionCodes.length; c++) {
+//			for (int r = 0; r < regionCodes[c].length; r++)
+//				maxRegionCode = Math.max(maxRegionCode, regionCodes[c][r]);
+//		}
+//		System.out.println("Got " + maxRegionCode + " regions");
+//		int[] rgbs = new int[maxRegionCode];
+//		for (int c = 0; c < rgbs.length; c++)
+//			rgbs[c] = Color.HSBtoRGB((((float) c) / rgbs.length), 1.0f, 0.5f);
+//		BufferedImage rcbi = new BufferedImage(bi.getWidth(), bi.getHeight(), BufferedImage.TYPE_INT_RGB);
+//		for (int c = 0; c < regionCodes.length; c++)
+//			for (int r = 0; r < regionCodes[c].length; r++) {
+//				if (regionCodes[c][r] == 0)
+//					rcbi.setRGB(c, r, white);
+//				else rcbi.setRGB(c, r, rgbs[regionCodes[c][r]-1]);
+//			}
+//		
+//		//	display result
+//		ImageDisplayDialog idd = new ImageDisplayDialog("Test result for " + imageFileName);
+////		int biCount = beforeImages.size();
+////		while (beforeImages.size() != 0)
+////			idd.addImage(((BufferedImage) beforeImages.removeFirst()), ("Before " + (biCount - beforeImages.size())));
+//		idd.addImage(obi, "Before");
+//		idd.addImage(obirc, "Before Regions");
+//		idd.addImage(bebi, "Background Gone");
+//		idd.addImage(bebirc, "Background Gone Regions");
+//		idd.addImage(wbi, "Whitened");
+//		idd.addImage(wbirc, "Whitened Regions");
+//		idd.addImage(cbi, "Contrast Enhanced");
+//		idd.addImage(cbirc, "Contrast Enhanced Regions");
+////		idd.addImage(hbi, "Horizontal Blur");
+////		idd.addImage(vbi, "Vertical Blur");
+////		idd.addImage(rbi, "After");
+//		idd.addImage(bbi, "Blurred");
+//		idd.addImage(bbirc, "Blurred Regions");
+//		idd.addImage(dbi, "Darkened");
+//		idd.addImage(dbirc, "Darkened Regions");
+////		idd.addImage(rcbi, "Regions");
+//		idd.addImage(acbi, "Recombined");
+//		idd.addImage(acbirc, "Recombined Regions");
+//		idd.addImage(bi, "After");
+//		idd.addImage(birc, "After Regions");
+//		idd.setSize(Math.min(1600, bi.getWidth()), Math.min(1000, bi.getHeight()));
+//		idd.setLocationRelativeTo(null);
+//		idd.setVisible(true);
+	}
+	private static BufferedImage cloneImage(BufferedImage bi) {
+		BufferedImage cbi = new BufferedImage(bi.getWidth(), bi.getHeight(), BufferedImage.TYPE_BYTE_GRAY);
+		Graphics2D cg = cbi.createGraphics();
+		cg.drawImage(bi, 0, 0, cbi.getWidth(), cbi.getHeight(), null);
+		return cbi;
+	}
+	private static BufferedImage getRegionImage(AnalysisImage ai, int brightnessThreshold) {
+		int[][] regionCodes = getRegionColoring(ai, ((byte) brightnessThreshold), true);
+		int maxRegionCode = 0;
+		for (int c = 0; c < regionCodes.length; c++) {
+			for (int r = 0; r < regionCodes[c].length; r++)
+				maxRegionCode = Math.max(maxRegionCode, regionCodes[c][r]);
+		}
+		System.out.println("Got " + maxRegionCode + " regions");
+		int[] rgbs = new int[maxRegionCode];
+		for (int c = 0; c < rgbs.length; c++)
+			rgbs[c] = Color.HSBtoRGB((((float) c) / rgbs.length), 1.0f, 0.5f);
+		shuffleArray(rgbs);
+		BufferedImage rcbi = new BufferedImage(ai.image.getWidth(), ai.image.getHeight(), BufferedImage.TYPE_INT_RGB);
+		for (int c = 0; c < regionCodes.length; c++)
+			for (int r = 0; r < regionCodes[c].length; r++) {
+				if (regionCodes[c][r] == 0)
+					rcbi.setRGB(c, r, white);
+				else rcbi.setRGB(c, r, rgbs[regionCodes[c][r]-1]);
+			}
+		return rcbi;
+	}
+	private static void shuffleArray(int[] ints) {
+		for (int i = ints.length - 1; i > 0; i--) {
+			int index = ((int) (Math.random() * ints.length));
+			int a = ints[index];
+			ints[index] = ints[i];
+			ints[i] = a;
+		}
 	}
 }

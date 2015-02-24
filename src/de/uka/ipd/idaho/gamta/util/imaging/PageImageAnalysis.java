@@ -57,7 +57,7 @@ public class PageImageAnalysis implements ImagingConstants {
 	public static abstract class PagePart {
 		public final ImagePartRectangle bounds;
 		PagePart(ImagePartRectangle bounds) {
-			//	clone bounds, so no two parts shre the same (causes trouble with adjustments)
+			//	clone bounds, so no two parts share the same (causes trouble with adjustments)
 			this.bounds = new ImagePartRectangle(bounds.analysisImage);
 			this.bounds.leftCol = bounds.leftCol;
 			this.bounds.rightCol = bounds.rightCol;
@@ -2470,12 +2470,17 @@ Times New Roman at 400 DPI (417%):
 		
 		int left = words[0].leftCol;
 		int right = words[words.length-1].rightCol;
+		if (right <= left)
+			return -1;
+		
 		int top = Integer.MAX_VALUE;
 		int bottom = 0;
 		for (int w = 0; w < words.length; w++) {
 			top = Math.min(top, words[w].topRow);
 			bottom = Math.max(bottom, words[w].bottomRow);
 		}
+		if (bottom <= top)
+			return -1;
 		
 		int height = (bottom - top);
 		byte[][] brightness = ai.getBrightness();

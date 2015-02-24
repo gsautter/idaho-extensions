@@ -32,7 +32,7 @@ import java.awt.image.BufferedImage;
 /**
  * Source for page images rendered in some implementation specific way. This
  * interface is to abstract from the differing ways individual packages render
- * page images from pdf or other files.
+ * page images from PDF or other files.
  * 
  * @author sautter
  */

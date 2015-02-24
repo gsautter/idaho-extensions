@@ -494,10 +494,10 @@ public class PageImageConverter implements ImagingConstants, TableConstants {
 		if (psm == null)
 			psm = ProgressMonitor.dummy;
 		
-		//	scale down image for structure analysis if neccessary
+		//	scale down image for structure analysis if necessary (only if we don't have pre-existing words, though)
 		AnalysisImage ai = Imaging.wrapImage(pageImage, (pageImage.hashCode() + "-" + imageDpi));
 		int analysisDpi = imageDpi;
-		while (analysisDpi > maxAnalysisDpi)
+		while ((existingWords == null) && (analysisDpi > maxAnalysisDpi))
 			analysisDpi /= 2;
 		if (analysisDpi != imageDpi) {
 			BufferedImage bi = ai.getImage();
@@ -638,7 +638,7 @@ public class PageImageConverter implements ImagingConstants, TableConstants {
 		if (psm == null)
 			psm = ProgressMonitor.dummy;
 		
-		//	scale down image for structure analysis if neccessary
+		//	scale down image for structure analysis if necessary
 		AnalysisImage ai = Imaging.wrapImage(pageImage, (pageImage.hashCode() + "-" + imageDpi));
 		int analysisDpi = imageDpi;
 		while (analysisDpi > maxAnalysisDpi)
@@ -1044,10 +1044,10 @@ Times New Roman at 400 DPI (417%):
 		if (psm == null)
 			psm = ProgressMonitor.dummy;
 		
-		//	scale down image for structure analysis if neccessary
+		//	scale down image for structure analysis if necessary (only if we don't have pre-existing words, though)
 		AnalysisImage ai = Imaging.wrapImage(pageImage, (pageImage.hashCode() + "-" + imageDpi));
 		int analysisDpi = imageDpi;
-		while (analysisDpi > maxAnalysisDpi)
+		while ((existingWords == null) && (analysisDpi > maxAnalysisDpi))
 			analysisDpi /= 2;
 		if (analysisDpi != imageDpi) {
 			BufferedImage bi = ai.getImage();
@@ -1487,7 +1487,7 @@ Times New Roman at 400 DPI (417%):
 		//	compute line baselines
 		PageImageAnalysis.computeLineBaselines(theBlock, analysisDpi);
 		
-		//	correct words that extend below baseline more than average desceding words (might have caught a stain)
+		//	correct words that extend below baseline more than average descending words (might have caught a stain)
 		PageImageAnalysis.checkWordDescents(theBlock, analysisDpi);
 		
 		//	compute remaining line metrics
