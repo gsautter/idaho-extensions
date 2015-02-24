@@ -74,7 +74,7 @@ public class CountryHandler implements Dictionary {
 		this.isDefaultInstance = idi;
 	}
 	private void readCountryData(Reader countryData, String[] langs) throws IOException {
-		if (languages != null) {
+		if (langs != null) {
 			this.languages = new TreeSet(String.CASE_INSENSITIVE_ORDER);
 			for (int l = 0; l < langs.length; l++) {
 				if (langs[l] != null)
@@ -104,7 +104,7 @@ public class CountryHandler implements Dictionary {
 								String langsString = tnas.getAttribute("languages");
 								if (langsString == null)
 									return;
-								if (langsString.indexOf("English") == -1) {
+								if ((langsString.indexOf("English") == -1) && (langsString.indexOf("initialism") == -1) && (langsString.indexOf("WFB") == -1) && (langsString.indexOf("ISO") == -1)) {
 									String[] langs = langsString.split("\\s*\\;\\s*");
 									boolean langFilterOut = true;
 									for (int l = 0; l < langs.length; l++)
@@ -231,7 +231,7 @@ public class CountryHandler implements Dictionary {
 	 * @see de.uka.ipd.idaho.stringUtils.Dictionary#isEmpty()
 	 */
 	public boolean isEmpty() {
-		return (this.size() != 0);
+		return (this.size() == 0);
 	}
 	
 	/* (non-Javadoc)
@@ -362,9 +362,9 @@ public class CountryHandler implements Dictionary {
 			rhdis.close();
 			return rh;
 		}
-		catch (IOException ioe) {
-			System.out.println("Could not initialize region handler: " + ioe.getMessage());
-			ioe.printStackTrace(System.out);
+		catch (Exception e) {
+			System.out.println("Could not initialize region handler for country " + country + " (code " + code + "): " + e.getMessage());
+			e.printStackTrace(System.out);
 			return null;
 		}
 		if (this.dataProvider != null) try {
@@ -397,7 +397,7 @@ public class CountryHandler implements Dictionary {
 		private TreeSet languages = null;
 		private RegionHandler() {}
 		private void readRegionData(Reader regionData, String[] langs) throws IOException {
-			if (languages != null) {
+			if (langs != null) {
 				this.languages = new TreeSet(String.CASE_INSENSITIVE_ORDER);
 				for (int l = 0; l < langs.length; l++) {
 					if (langs[l] != null)
@@ -427,7 +427,7 @@ public class CountryHandler implements Dictionary {
 									String langsString = tnas.getAttribute("languages");
 									if (langsString == null)
 										return;
-									if (langsString.indexOf("English") == -1) {
+									if ((langsString.indexOf("English") == -1) && (langsString.indexOf("initialism") == -1) && (langsString.indexOf("WFB") == -1) && (langsString.indexOf("ISO") == -1)) {
 										String[] langs = langsString.split("\\s*\\;\\s*");
 										boolean langFilterOut = true;
 										for (int l = 0; l < langs.length; l++)
@@ -544,7 +544,7 @@ public class CountryHandler implements Dictionary {
 		 * @see de.uka.ipd.idaho.stringUtils.Dictionary#isEmpty()
 		 */
 		public boolean isEmpty() {
-			return (this.size() != 0);
+			return (this.size() == 0);
 		}
 		
 		/* (non-Javadoc)
@@ -884,7 +884,7 @@ public class CountryHandler implements Dictionary {
 	//	UN-COMMENT THIS MAIN METHOD FOR TESTING
 	public static void main(String[] args) {
 //		CountryHandler ch = CountryHandler.getCountryHandler(new AnalyzerDataProviderFileBased(new File("E:/Projektdaten/CountryData/")));
-		CountryHandler ch = CountryHandler.getCountryHandler((File) null, testLanguages);
+		CountryHandler ch = CountryHandler.getCountryHandler((AnalyzerDataProvider) null, testLanguages);
 //		StringIterator cit = ch.getEntryIterator();
 //		while (cit.hasMoreStrings())
 //			System.out.println(cit.nextString());
