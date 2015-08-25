@@ -48,10 +48,10 @@
 	<rankGroup name="species">
 		<rank name="speciesAggregate" abbreviations="aggr."/>
 		<rank name="species" abbreviations="sp.;spec."/>
-		<rank name="subSpecies" abbreviations="subsp.;subspec." epithetTemplate="subsp. @epithet"/>
+		<rank name="subSpecies" abbreviations="ssp.;subsp.;subspec." epithetTemplate="subsp. @epithet"/>
 		<rank name="infraSpecies" abbreviations="infrasp.;infraspec."/>
 		<rank name="variety" abbreviations="var.;v." epithetTemplate="var. @epithet"/>
-		<rank name="subVariety" abbreviations="subvar.;subv." epithetTemplate="subvar. @epithet"/>
+		<rank name="subVariety" abbreviations="svar.;subvar.;subv." epithetTemplate="subvar. @epithet"/>
 		<rank name="form" abbreviations="fm.;f." epithetTemplate="fm. @epithet"/>
 		<rank name="subForm" abbreviations="subfm.;subf." epithetTemplate="subfm. @epithet"/>
 	</rankGroup>

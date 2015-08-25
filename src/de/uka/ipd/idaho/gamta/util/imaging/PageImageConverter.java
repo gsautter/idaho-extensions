@@ -98,7 +98,6 @@ public class PageImageConverter implements ImagingConstants, TableConstants {
 			}
 			
 			//	analyze page structure
-//			int wordCount = fillInPageRegions(pages[p], pageImage, pageImageDpi, psm);
 			int wordCount = fillInPageRegions(pages[p], pageImage.image, pageImage.currentDpi, psm);
 			psm.setInfo(" --> got " + wordCount + " words in total");
 			

@@ -96,7 +96,11 @@
 	</xsl:template>
 	
 	<xsl:template name="journal">
-		<xsl:if test="./journal"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./journal"/><xsl:call-template name="parts"/></xsl:if>
+		<xsl:choose>
+			<xsl:when test="./journal"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./journal"/><xsl:call-template name="parts"/></xsl:when>
+			<xsl:when test="./journalOrPublisher"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./journalOrPublisher"/><xsl:call-template name="parts"/></xsl:when>
+			<xsl:otherwise>UNKNOWN_JOURNAL</xsl:otherwise>
+		</xsl:choose>
 	</xsl:template>
 	
 	<xsl:template name="parts">
@@ -117,6 +121,7 @@
 			<xsl:when test="./publisher and ./location"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./location"/>: <xsl:value-of select="./publisher"/></xsl:when>
 			<xsl:when test="./publisher"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./publisher"/></xsl:when>
 			<xsl:when test="./location"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./location"/></xsl:when>
+			<xsl:when test="./journalOrPublisher"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./journalOrPublisher"/></xsl:when>
 			<xsl:otherwise/>
 		</xsl:choose>
 	</xsl:template>

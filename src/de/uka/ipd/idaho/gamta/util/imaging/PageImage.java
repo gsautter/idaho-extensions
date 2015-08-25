@@ -455,8 +455,13 @@ public class PageImage implements ImagingConstants {
 	 * @param pageImageSource the page image source to add
 	 */
 	public static void addPageImageSource(PageImageSource pageImageSource) {
-		if ((pageImageSource != null) && !pageImageSources.contains(pageImageSource))
+		if ((pageImageSource != null) && !pageImageSources.contains(pageImageSource)) {
 			pageImageSources.add(pageImageSource);
+//			System.out.println("Page image source added: " + pageImageSource.getClass().getName());
+//			StackTraceElement[] stes = Thread.currentThread().getStackTrace();
+//			for (int e = 0; e < stes.length; e++)
+//				System.out.println(stes[e].toString());
+		}
 	}
 	
 	/**
@@ -538,14 +543,16 @@ public class PageImage implements ImagingConstants {
 	public static void addPageImageStore(PageImageStore pageImageStore) {
 		if ((pageImageStore != null) && !pageImageStores.contains(pageImageStore)) {
 			pageImageStores.add(pageImageStore);
-			Collections.sort(pageImageStores, new Comparator() {
-				public int compare(Object obj1, Object obj2) {
-					return (((PageImageStore) obj2).getPriority() - ((PageImageStore) obj1).getPriority());
-				}
-			});
+			Collections.sort(pageImageStores, pageImageStoreOrder);
 		}
 		addPageImageSource(pageImageStore);
 	}
+	
+	private static final Comparator pageImageStoreOrder = new Comparator() {
+		public int compare(Object obj1, Object obj2) {
+			return (((PageImageStore) obj2).getPriority() - ((PageImageStore) obj1).getPriority());
+		}
+	};
 	
 	/**
 	 * Remove a page image source.
