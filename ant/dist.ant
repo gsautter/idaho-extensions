@@ -5,8 +5,6 @@
 -->
 
 <project name="dist">
-	<!--target name="jars" depends="feedback,imaging,imganalyzers,ocr,pdf,bibrefutils,taxnameutils,geoutils,datetimeutils,quantutils,abbrevutils,tableutils,matcitutils">
-	</target-->
 	<target name="jars" depends="feedback,imaging,imganalyzers,bibrefutils,taxnameutils,geoutils,datetimeutils,quantutils,abbrevutils,tableutils,matcitutils">
 	</target>
 	
@@ -38,27 +36,6 @@
 			<fileset dir="." includes="LICENSE.txt"/>
 		</jar>
 	</target>
-	
-	<!--target name="ocr">
-		<delete file="${jar.ocr}" />
-		<jar destfile="${jar.ocr}">
-			<fileset dir="${build.home}/classes" includes="**/imaging/ocr/*.class"/>
-			<fileset dir="${src.home}" includes="**/imaging/ocr/*.java"/>
-			<fileset dir="." includes="LICENSE.txt"/>
-		</jar>
-	</target-->
-	
-	<!--target name="pdf">
-		<delete file="${jar.pdf}" />
-		<jar destfile="${jar.pdf}">
-			<fileset dir="${build.home}/classes" includes="**/imaging/pdf/*.class"/>
-			<fileset dir="${src.home}" includes="**/imaging/pdf/*.java"/>
-			<fileset dir="${src.home}" includes="**/imaging/pdf/afmRes/**"/>
-			<fileset dir="${build.home}/classes" includes="**/imaging/test/*.class"/>
-			<fileset dir="${src.home}" includes="**/imaging/test/*.java"/>
-			<fileset dir="." includes="LICENSE.txt"/>
-		</jar>
-	</target-->
 	
 	<target name="bibrefutils">
 		<delete file="${jar.bibrefutils}" />

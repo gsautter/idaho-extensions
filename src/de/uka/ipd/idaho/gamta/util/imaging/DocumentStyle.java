@@ -25,7 +25,7 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-package de.uka.ipd.idaho.plugins.docStyle;
+package de.uka.ipd.idaho.gamta.util.imaging;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -36,7 +36,6 @@ import java.util.Set;
 import java.util.TreeMap;
 
 import de.uka.ipd.idaho.gamta.Attributed;
-import de.uka.ipd.idaho.gamta.util.imaging.BoundingBox;
 import de.uka.ipd.idaho.stringUtils.regExUtils.RegExUtils;
 
 /**
@@ -184,17 +183,17 @@ public class DocumentStyle extends Properties {
 	 * @return the list entry class
 	 */
 	public static Class getListElementClass(Class listClass) {
-		if (listClass == stringListClass)
+		if (listClass.getName().equals(stringListClass.getName()))
 			return String.class;
-		else if (listClass == intListClass)
+		else if (listClass.getName().equals(intListClass.getName()))
 			return Integer.class;
-		else if (listClass == floatListClass)
+		else if (listClass.getName().equals(floatListClass.getName()))
 			return Float.class;
-		else if (listClass == doubleListClass)
+		else if (listClass.getName().equals(doubleListClass.getName()))
 			return Double.class;
-		else if (listClass == booleanListClass)
+		else if (listClass.getName().equals(booleanListClass.getName()))
 			return Boolean.class;
-		else if (listClass == boxListClass)
+		else if (listClass.getName().equals(boxListClass.getName()))
 			return BoundingBox.class;
 		else return listClass;
 	}
