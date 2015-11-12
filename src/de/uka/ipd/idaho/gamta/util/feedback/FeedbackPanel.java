@@ -225,7 +225,7 @@ public abstract class FeedbackPanel extends JPanel implements Scrollable {
 			int p2 = ((FeedbackService) o2).getPriority();
 			if (p1 == p2)
 				return (o1.hashCode() - o2.hashCode()); // have to distinguish different objects of the same class, as there might be multiple feedback services of the same class, but using different configurable request filters ...
-			else return (p1-p2);
+			else return (p2 - p1);
 		}
 	});
 	private static FeedbackService defaultFeedbackService = null;
