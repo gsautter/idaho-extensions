@@ -528,6 +528,40 @@ public class PageImage implements ImagingConstants {
 	}
 	
 	/**
+	 * Retrieve an input stream of an image by its unified single-string image
+	 * name. This method searches all registered page image sources. If none
+	 * has the sought image, this method returns null.
+	 * @param name unified single-string image name
+	 * @return the page image, as an input stream
+	 */
+	public static PageImageInputStream getPageImageAsStream(String name) {
+		PageImageInputStream piis = null;
+		for (int p = 0; p < pageImageSources.size(); p++) {
+			PageImageSource pis = ((PageImageSource) pageImageSources.get(p));
+			try {
+				piis = pis.getPageImageAsStream(name);
+			} catch (IOException ioe) {}
+			if (piis != null)
+				break;
+		}
+		return piis;
+	}
+	
+	/**
+	 * Retrieve an input stream of an image by its document ID and page ID.
+	 * This method searches all registered page image sources. If none has the
+	 * sought image, this method returns null. This method is a shorthand for
+	 * getPageImage(getPageImageName(docId, pageId)).
+	 * @param docId the ID of the document the sought image belongs to
+	 * @param pageId the document internal ID of the page the sought image
+	 *            represents
+	 * @return the page image, as an input stream
+	 */
+	public static PageImageInputStream getPageImageAsStream(String docId, int pageId) {
+		return getPageImageAsStream(getPageImageName(docId, pageId));
+	}
+	
+	/**
 	 * Retrieve the page image stores currently installed
 	 * @return the page image stores currently installed
 	 */
