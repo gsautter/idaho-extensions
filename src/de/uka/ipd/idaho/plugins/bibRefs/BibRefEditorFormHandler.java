@@ -311,8 +311,8 @@ public class BibRefEditorFormHandler implements BibRefConstants {
 	/**
 	 * Write the HTML code for the fields in a reference editor form to some
 	 * writer. If the includeJavaScripts parameter is set to false, the
-	 * writeJavaScripts() method has to be called by client code in oder to make
-	 * sure the JavaScript functions required for the form to work are
+	 * writeJavaScripts() method has to be called by client code in order to
+	 * make sure the JavaScript functions required for the form to work are
 	 * available. In addition, client code has to make sure that the
 	 * bibRefEditor_refTypeChanged() function is called after the form fields
 	 * are loaded completely, so to finalize initialization.
@@ -331,8 +331,8 @@ public class BibRefEditorFormHandler implements BibRefConstants {
 	/**
 	 * Write the HTML code for the fields in a reference editor form to some
 	 * writer. If the includeJavaScripts parameter is set to false, the
-	 * writeJavaScripts() method has to be called by client code in oder to make
-	 * sure the JavaScript functions required for the form to work are
+	 * writeJavaScripts() method has to be called by client code in order to
+	 * make sure the JavaScript functions required for the form to work are
 	 * available. In addition, client code has to make sure that the
 	 * bibRefEditor_refTypeChanged() function is called after the form fields
 	 * are loaded completely, so to finalize initialization.
@@ -352,8 +352,8 @@ public class BibRefEditorFormHandler implements BibRefConstants {
 	/**
 	 * Write the HTML code for the fields in a reference editor form to some
 	 * writer. If the includeJavaScripts parameter is set to false, the
-	 * writeJavaScripts() method has to be called by client code in oder to make
-	 * sure the JavaScript functions required for the form to work are
+	 * writeJavaScripts() method has to be called by client code in order to
+	 * make sure the JavaScript functions required for the form to work are
 	 * available. In addition, client code has to make sure that the
 	 * bibRefEditor_refTypeChanged() function is called after the form fields
 	 * are loaded completely, so to finalize initialization.

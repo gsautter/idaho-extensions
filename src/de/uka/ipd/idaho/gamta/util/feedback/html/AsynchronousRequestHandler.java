@@ -528,9 +528,9 @@ public abstract class AsynchronousRequestHandler {
 		
 		/**
 		 * Retrieve the label for the link taking a user away from the status
-		 * display after cancelling an asynchronous request. If this method
+		 * display after canceling an asynchronous request. If this method
 		 * returns null, users are immediately forwarded to the URL returned by
-		 * the getCancelledLink() method after cancelling an asynchronous
+		 * the getCancelledLink() method after canceling an asynchronous
 		 * request. This default implementation does return null, sub classes
 		 * are welcome to overwrite it as needed.
 		 * @return the cancelled link label

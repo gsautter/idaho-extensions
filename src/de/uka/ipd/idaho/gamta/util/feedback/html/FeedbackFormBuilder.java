@@ -278,7 +278,7 @@ public abstract class FeedbackFormBuilder extends HtmlPageBuilder {
 	 * non-null result, the returned string has to be a valid part for a URL.
 	 * This default implementation returns null, sub classes are welcome to
 	 * overwrite it as needed.
-	 * @return the form ation path info
+	 * @return the form action path info
 	 */
 	protected String getFormActionPathInfo() {
 		return null;
