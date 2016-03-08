@@ -690,7 +690,7 @@ public class DocumentStyle extends Properties {
 	/* (non-Javadoc)
 	 * @see java.util.Hashtable#keys()
 	 */
-	public synchronized Enumeration<Object> keys() {
+	public synchronized Enumeration keys() {
 		return this.propertyNames();
 	}
 	
