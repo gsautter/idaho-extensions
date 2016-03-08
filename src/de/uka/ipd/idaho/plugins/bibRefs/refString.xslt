@@ -36,32 +36,32 @@
 	
 	<xsl:template name="isbn">
 		<xsl:choose>
-			<xsl:when test="./isbn">, ISBN:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./isbn"/></xsl:when>
-			<xsl:when test="./ISBN">, ISBN:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./ISBN"/></xsl:when>
-			<xsl:when test="./ID[./@type = 'ISBN']">, ISBN:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./ID[./@type = 'ISBN']"/></xsl:when>
+			<xsl:when test="./isbn">, ISBN:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="translate(./isbn, ' ', '')"/></xsl:when>
+			<xsl:when test="./ISBN">, ISBN:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="translate(./ISBN, ' ', '')"/></xsl:when>
+			<xsl:when test="./ID[./@type = 'ISBN']">, ISBN:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="translate(./ID[./@type = 'ISBN'], ' ', '')"/></xsl:when>
 		</xsl:choose>
 	</xsl:template>
 	<xsl:template name="doi">
 		<xsl:choose>
-			<xsl:when test="./doi">, DOI:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./doi"/></xsl:when>
-			<xsl:when test="./DOI">, DOI:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./DOI"/></xsl:when>
-			<xsl:when test="./ID[./@type = 'DOI']">, DOI:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./ID[./@type = 'DOI']"/></xsl:when>
+			<xsl:when test="./doi">, DOI:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="translate(./doi, ' ', '')"/></xsl:when>
+			<xsl:when test="./DOI">, DOI:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="translate(./DOI, ' ', '')"/></xsl:when>
+			<xsl:when test="./ID[./@type = 'DOI']">, DOI:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="translate(./ID[./@type = 'DOI'], ' ', '')"/></xsl:when>
 		</xsl:choose>
 	</xsl:template>
 	<xsl:template name="handle">
 		<xsl:choose>
-			<xsl:when test="./handle">, Hdl:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./handle"/></xsl:when>
-			<xsl:when test="./Handle">, Hdl:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./Handle"/></xsl:when>
-			<xsl:when test="./ID[./@type = 'Handle']">, Hdl:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./ID[./@type = 'Handle']"/></xsl:when>
-			<xsl:when test="./ID[./@type = 'Hdl']">, Hdl:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./ID[./@type = 'Hdl']"/></xsl:when>
+			<xsl:when test="./handle">, Hdl:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="translate(./handle, ' ', '')"/></xsl:when>
+			<xsl:when test="./Handle">, Hdl:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="translate(./Handle, ' ', '')"/></xsl:when>
+			<xsl:when test="./ID[./@type = 'Handle']">, Hdl:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="translate(./ID[./@type = 'Handle'], ' ', '')"/></xsl:when>
+			<xsl:when test="./ID[./@type = 'Hdl']">, Hdl:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="translate(./ID[./@type = 'Hdl'], ' ', '')"/></xsl:when>
 		</xsl:choose>
 	</xsl:template>
 	<xsl:template name="url">
 		<xsl:choose>
-			<xsl:when test="./url">, URL:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./url"/></xsl:when>
-			<xsl:when test="./publicationUrl">, URL:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./publicationUrl"/></xsl:when>
-			<xsl:when test="./URL">, URL:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./URL"/></xsl:when>
-			<xsl:when test="./ID[./@type = 'URL']">, URL:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./ID[./@type = 'URL']"/></xsl:when>
+			<xsl:when test="./url">, URL:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="translate(./url, ' ', '')"/></xsl:when>
+			<xsl:when test="./publicationUrl">, URL:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="translate(./publicationUrl, ' ', '')"/></xsl:when>
+			<xsl:when test="./URL">, URL:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="translate(./URL, ' ', '')"/></xsl:when>
+			<xsl:when test="./ID[./@type = 'URL']">, URL:<xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="translate(./ID[./@type = 'URL'], ' ', '')"/></xsl:when>
 		</xsl:choose>
 	</xsl:template>
 	

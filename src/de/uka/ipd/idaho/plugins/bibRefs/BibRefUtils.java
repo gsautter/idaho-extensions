@@ -57,6 +57,13 @@ import de.uka.ipd.idaho.gamta.QueriableAnnotation;
 import de.uka.ipd.idaho.gamta.Token;
 import de.uka.ipd.idaho.gamta.TokenSequenceUtils;
 import de.uka.ipd.idaho.gamta.util.gPath.GPath;
+import de.uka.ipd.idaho.gamta.util.gPath.GPathFunction;
+import de.uka.ipd.idaho.gamta.util.gPath.exceptions.GPathException;
+import de.uka.ipd.idaho.gamta.util.gPath.exceptions.InvalidArgumentsException;
+import de.uka.ipd.idaho.gamta.util.gPath.types.GPathAnnotationSet;
+import de.uka.ipd.idaho.gamta.util.gPath.types.GPathNumber;
+import de.uka.ipd.idaho.gamta.util.gPath.types.GPathObject;
+import de.uka.ipd.idaho.gamta.util.gPath.types.GPathString;
 import de.uka.ipd.idaho.htmlXmlUtil.accessories.XsltUtils;
 import de.uka.ipd.idaho.htmlXmlUtil.grammars.Grammar;
 import de.uka.ipd.idaho.htmlXmlUtil.grammars.StandardGrammar;
@@ -1243,7 +1250,7 @@ public class BibRefUtils implements BibRefConstants {
 	
 	/**
 	 * Clean out a MODS document header, i.e., remove all annotations that do
-	 * not belong to the MODS namespace, and set the namesace URI.
+	 * not belong to the MODS namespace, and set the namespace URI.
 	 * @param mods the MODS XML to clean
 	 */
 	public static void cleanModsXML(MutableAnnotation mods) {
@@ -1259,6 +1266,170 @@ public class BibRefUtils implements BibRefConstants {
 		}
 		if ("mods:mods".equals(mods.getType()))
 			mods.setAttribute("xmlns:mods", "http://www.loc.gov/mods/v3");
+	}
+	
+	private static class BibRefStringFunction implements GPathFunction {
+		public GPathObject execute(Annotation contextAnnotation, int contextPosition, int contextSize, GPathObject[] args) throws GPathException {
+			int argPos = 0;
+			
+			//	get reference data bearer
+			Annotation refAnnotation;
+			if (args.length == argPos)
+				refAnnotation = contextAnnotation;
+			else if (args[argPos] instanceof GPathAnnotationSet)
+				refAnnotation = ((GPathAnnotationSet) args[argPos++]).getFirst();
+			else refAnnotation = contextAnnotation;
+			
+			//	get reference style (optional)
+			String refStyle;
+			if (args.length == argPos)
+				refStyle = null;
+			else if (args[argPos] instanceof GPathString)
+				refStyle = ((GPathString) args[argPos++]).value;
+			else refStyle = null;
+			
+			//	check arguments
+			if (argPos != args.length)
+				throw new InvalidArgumentsException("The function 'bibRefString' requires at most 2 arguments, one of type GPathAnnotationSet and one of type GPathString.");
+			
+			//	nothing to work with (have to check arguments first, though)
+			if (refAnnotation == null)
+				return new GPathString("");
+			
+			//	get reference data
+			RefData ref = null;
+			if ((ref == null) && (refAnnotation instanceof QueriableAnnotation) && (refAnnotation.getType().equals("mods") || refAnnotation.getType().endsWith(":mods")))
+				ref = checkRefData(modsXmlToRefData((QueriableAnnotation) refAnnotation));
+			if ((ref == null) && (refAnnotation instanceof QueriableAnnotation))
+				ref = checkRefData(genericXmlToRefData((QueriableAnnotation) refAnnotation));
+			if (ref == null)
+				ref = checkRefData(modsAttributesToRefData(refAnnotation));
+			if (ref == null)
+				return new GPathString("");
+			
+			//	generate and return reference string
+			String refString = (((refStyle != null) && refStringStyles.containsKey(refStyle)) ? toRefString(ref, refStyle) : toRefString(ref));
+			return new GPathString((refString == null) ? "" : refString.trim());
+		}
+	}
+	
+	private static class BibRefPersonsFunction implements GPathFunction {
+		private String personType;
+		BibRefPersonsFunction(String personType) {
+			this.personType = personType;
+		}
+		public GPathObject execute(Annotation contextAnnotation, int contextPosition, int contextSize, GPathObject[] args) throws GPathException {
+			int argPos = 0;
+			
+			//	get reference data bearer
+			Annotation refAnnotation;
+			if (args.length == argPos)
+				refAnnotation = contextAnnotation;
+			else if (args[argPos] instanceof GPathAnnotationSet)
+				refAnnotation = ((GPathAnnotationSet) args[argPos++]).getFirst();
+			else refAnnotation = contextAnnotation;
+			
+			//	get author count limit
+			int pCountLimit;
+			if (args.length == argPos)
+				pCountLimit = 0;
+			else if (args[argPos] instanceof GPathNumber)
+				pCountLimit = ((int) ((GPathNumber) args[argPos++]).value);
+			else pCountLimit = 0;
+			if (pCountLimit <= 0)
+				pCountLimit = Integer.MAX_VALUE;
+			
+			//	get output length limit
+			int pStringLengthLimit;
+			if (args.length == argPos)
+				pStringLengthLimit = 0;
+			else if (args[argPos] instanceof GPathNumber)
+				pStringLengthLimit = ((int) ((GPathNumber) args[argPos++]).value);
+			else pStringLengthLimit = 0;
+			if (pStringLengthLimit <= 0)
+				pStringLengthLimit = Integer.MAX_VALUE;
+			
+			//	get separator
+			String pSeparator;
+			if (args.length == argPos)
+				pSeparator = " & ";
+			else if (args[argPos] instanceof GPathString)
+				pSeparator = ((GPathString) args[argPos++]).value;
+			else pSeparator = " & ";
+			
+			//	get last separator
+			String pLastSeparator;
+			if (args.length == argPos)
+				pLastSeparator = pSeparator;
+			else if (args[argPos] instanceof GPathString)
+				pLastSeparator = ((GPathString) args[argPos++]).value;
+			else pLastSeparator = pSeparator;
+			
+			//	check arguments
+			if (argPos != args.length)
+				throw new InvalidArgumentsException("The function 'bibRef" + this.personType.substring(0, 1).toUpperCase() + this.personType.substring(1) + "s' requires at most 5 arguments, one of type GPathAnnotationSet and two of type GPathNumber, and two of type GPathString.");
+			
+			//	nothing to work with (have to check arguments first, though)
+			if (refAnnotation == null)
+				return new GPathString("");
+			
+			//	get reference data
+			RefData ref = null;
+			if ((ref == null) && (refAnnotation instanceof QueriableAnnotation) && (refAnnotation.getType().equals("mods") || refAnnotation.getType().endsWith(":mods")))
+				ref = checkRefData(modsXmlToRefData((QueriableAnnotation) refAnnotation));
+			if ((ref == null) && (refAnnotation instanceof QueriableAnnotation))
+				ref = checkRefData(genericXmlToRefData((QueriableAnnotation) refAnnotation));
+			if (ref == null)
+				ref = checkRefData(modsAttributesToRefData(refAnnotation));
+			if (ref == null)
+				return new GPathString("");
+			
+			//	get authors
+			String[] refPersons = ref.getAttributeValues(this.personType);
+			if (refPersons.length == 0)
+				return new GPathString("");
+			
+			//	enforce limits on data
+			int pStringLength = refPersons[0].length();
+			for (int p = 1; p < Math.min(pCountLimit, refPersons.length); p++) {
+				/* count separator, and count terminal separator first, will
+				 * always occur exactly once, and this way, we don't have to
+				 * fiddle around with when exactly it occurs */
+				int pSeparatorLength = ((p == 1) ? pLastSeparator.length() : pSeparator.length());
+				
+				//	count in author plus preceding separator
+				pStringLength += (pSeparatorLength + refPersons[p].length());
+				
+				//	string length limit exceeded, we have to stop one earlier
+				if (pStringLength > pStringLengthLimit) {
+					pCountLimit = p;
+					break;
+				}
+			}
+			
+			//	generate and return author string
+			StringBuffer pString = new StringBuffer(refPersons[0]);
+			for (int p = 1; p < Math.min(pCountLimit, refPersons.length); p++) {
+				if ((p+1) == Math.min(pCountLimit, refPersons.length))
+					pString.append(pLastSeparator);
+				else pString.append(pSeparator);
+				pString.append(refPersons[p]);
+			}
+			return new GPathString(pString.toString());
+		}
+	}
+	private static RefData checkRefData(RefData ref) {
+		if (ref == null)
+			return ref;
+		String type = ref.getAttribute(PUBLICATION_TYPE_ATTRIBUTE);
+		if (type == null)
+			type = classify(ref);
+		return ((type == null) ? null : ref);
+	}
+	static {
+		GPath.addFunction("bibRefString", new BibRefStringFunction());
+		GPath.addFunction("bibRefAuthors", new BibRefPersonsFunction(AUTHOR_ANNOTATION_TYPE));
+		GPath.addFunction("bibRefEditors", new BibRefPersonsFunction(EDITOR_ANNOTATION_TYPE));
 	}
 //	
 //	public static void main(String[] args) throws Exception {
