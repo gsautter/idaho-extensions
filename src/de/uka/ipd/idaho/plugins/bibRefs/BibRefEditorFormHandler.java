@@ -143,18 +143,18 @@ public class BibRefEditorFormHandler implements BibRefConstants {
 		bw.write("  if (field == null)");bw.newLine();
 		bw.write("    return;");bw.newLine();
 		bw.write("  if (fieldState == 'r') {");bw.newLine();
-		bw.write("    field.style.backgroundColor = 'FFFFFF';");bw.newLine();
-		bw.write("    field.style.color = '000000';");bw.newLine();
+		bw.write("    field.style.backgroundColor = '#FFFFFF';");bw.newLine();
+		bw.write("    field.style.color = '#000000';");bw.newLine();
 		bw.write("    field.disabled = false;");bw.newLine();
 		bw.write("  }");bw.newLine();
 		bw.write("  else if (fieldState == 'o') {");bw.newLine();
-		bw.write("    field.style.backgroundColor = 'CCCCCC';");bw.newLine();
-		bw.write("    field.style.color = '000000';");bw.newLine();
+		bw.write("    field.style.backgroundColor = '#EEEEEE';");bw.newLine();
+		bw.write("    field.style.color = '#000000';");bw.newLine();
 		bw.write("    field.disabled = false;");bw.newLine();
 		bw.write("  }");bw.newLine();
 		bw.write("  else if (fieldState == 'f') {");bw.newLine();
-		bw.write("    field.style.backgroundColor = '888888';");bw.newLine();
-		bw.write("    field.style.color = '444444';");bw.newLine();
+		bw.write("    field.style.backgroundColor = '#BBBBBB';");bw.newLine();
+		bw.write("    field.style.color = '#888888';");bw.newLine();
 		bw.write("    field.disabled = true;");bw.newLine();
 		bw.write("  }");bw.newLine();
 		bw.write("}");bw.newLine();
@@ -164,11 +164,11 @@ public class BibRefEditorFormHandler implements BibRefConstants {
 		bw.write("    return;");bw.newLine();
 		bw.write("  var fieldValue = bibRefEditor_getFieldValue(fieldName);");bw.newLine();
 		bw.write("  if (fieldState == 'r')");bw.newLine();
-		bw.write("    border.style.borderColor = ((fieldValue == '') ? 'FF0000' : 'FFFFFF');");bw.newLine();
+		bw.write("    border.style.borderColor = ((fieldValue == '') ? '#FF0000' : '#FFFFFF');");bw.newLine();
 		bw.write("  else if (fieldState == 'o')");bw.newLine();
-		bw.write("    border.style.borderColor = 'FFFFFF';");bw.newLine();
+		bw.write("    border.style.borderColor = '#FFFFFF';");bw.newLine();
 		bw.write("  else if (fieldState == 'f')");bw.newLine();
-		bw.write("    border.style.borderColor = 'FFFFFF';");bw.newLine();
+		bw.write("    border.style.borderColor = '#FFFFFF';");bw.newLine();
 		bw.write("}");bw.newLine();
 		
 		bw.write("function bibRefEditor_setRef(ref) {");bw.newLine();
@@ -407,7 +407,7 @@ public class BibRefEditorFormHandler implements BibRefConstants {
 				bw.write("<option value=\"" + brts[t].name + "\">" + brts[t].getLabel() + "</option>");bw.newLine();
 			bw.write("</select></td>");bw.newLine();
 			bw.write("<td class=\"bibRefEditorFieldLabel\" style=\"text-align: right;\">" + idTypes[0] + " Identifier" + ":</td>");bw.newLine();
-			bw.write("<td class=\"bibRefEditorFieldCell\"><div style=\"border-width: 2px; border-style:solid;\" id=\"" + ("ID-" + idTypes[0]) + "_border\"><input class=\"bibRefEditorField\" style=\"width: 100%;\" id=\"" + ("ID-" + idTypes[0]) + "_field\" name=\"" + ("ID-" + idTypes[0]) + "\" onchange=\"bibRefEditor_fieldValueChanged('" + ("ID-" + idTypes[0]) + "');\" /></div></td>");bw.newLine();
+			bw.write("<td class=\"bibRefEditorFieldCell\"><div style=\"border-width: 2px; border-style: solid;\" id=\"" + ("ID-" + idTypes[0]) + "_border\"><input class=\"bibRefEditorField\" style=\"width: 100%;\" id=\"" + ("ID-" + idTypes[0]) + "_field\" name=\"" + ("ID-" + idTypes[0]) + "\" onchange=\"bibRefEditor_fieldValueChanged('" + ("ID-" + idTypes[0]) + "');\" /></div></td>");bw.newLine();
 		}
 		else {
 			bw.write("<td colspan=\"3\" class=\"bibRefEditorFieldCell\"><select class=\"bibRefEditorField\" style=\"width: 100%;\" id=\"" + PUBLICATION_TYPE_ATTRIBUTE + "_field\" name=\"" + PUBLICATION_TYPE_ATTRIBUTE + "\" onchange=\"bibRefEditor_refTypeChanged();\">");bw.newLine();
