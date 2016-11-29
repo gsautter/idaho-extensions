@@ -156,6 +156,71 @@ public class BoundingBox {
 	}
 	
 	/**
+	 * Get the width of the bounding box.
+	 * @return the width of the bounding box
+	 */
+	public int getWidth() {
+		return (this.right - this.left);
+	}
+	
+	/**
+	 * Get the height of the bounding box.
+	 * @return the height of the bounding box
+	 */
+	public int getHeight() {
+		return (this.bottom - this.top);
+	}
+	
+	/**
+	 * Get the area of the bounding box.
+	 * @return the area of the bounding box
+	 */
+	public int getArea() {
+		return ((this.right - this.left) * (this.bottom - this.top));
+	}
+	
+	/**
+	 * Translate the bounding box.
+	 * @param tx the distance to translate by in horizontal direction
+	 * @param ty the distance to translate by in vertical direction
+	 * @return the translated bounding box
+	 */
+	public BoundingBox translate(int tx, int ty) {
+		return new BoundingBox(
+				(this.left + tx),
+				(this.right + tx),
+				(this.top + ty),
+				(this.bottom + ty)
+			);
+	}
+	
+	/**
+	 * Scale the bounding box. The edges of the returned bounding box are
+	 * rounded to the nearest integer.
+	 * @param s the factor to scale by
+	 * @return the scaled bounding box
+	 */
+	public BoundingBox scale(float s) {
+		return this.scale(s, s);
+	}
+	
+	/**
+	 * Scale the bounding box. The edges of the returned bounding box are
+	 * rounded to the nearest integer.
+	 * @param sx the factor to scale by in horizontal direction
+	 * @param sy the factor to scale by in vertical direction
+	 * @return the scaled bounding box
+	 */
+	public BoundingBox scale(float sx, float sy) {
+		return new BoundingBox(
+				Math.round(this.left * sx),
+				Math.round(this.right * sx),
+				Math.round(this.top * sy),
+				Math.round(this.bottom * sy)
+			);
+	}
+	
+	/**
 	 * Parse a bounding box from its string representation. This method expects
 	 * the string to consist of four comma separated positive integer numbers,
 	 * optionally delimited with square brackets. If the argument string is null
