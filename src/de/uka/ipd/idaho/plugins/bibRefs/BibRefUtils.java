@@ -563,21 +563,36 @@ public class BibRefUtils implements BibRefConstants {
 	 * @return a reference data object
 	 */
 	public static RefData modsAttributesToRefData(Attributed modsRef) {
+		return prefixedAttributesToRefData(modsRef, "mods:");
+	}
+	
+	/**
+	 * Create a reference data object from qualified attributes of an attribute
+	 * bearing object, specifically from attributes whose name bears a given
+	 * prefixed. This method splits publisher and location from one another if
+	 * necessary. The argument prefix does not necessarily have to be an XML
+	 * namespace qualifier.
+	 * @param attrRef the bearer of the metadata attributes
+	 * @param prefix the prefix identifying the metadata attributes
+	 * @return a reference data object
+	 */
+	public static RefData prefixedAttributesToRefData(Attributed attrRef, String prefix) {
 		RefData rd = new RefData();
 		boolean gotPartDesignator = false;
+		String journalOrPublisher = null;
 		
 		//	get attribute names
-		String[] attributeNames = modsRef.getAttributeNames();
+		String[] attributeNames = attrRef.getAttributeNames();
 		
 		//	transfer attributes
 		for (int a = 0; a < attributeNames.length; a++) {
 			
 			//	this one isn't for us
-			if (!attributeNames[a].startsWith("mods:"))
+			if (!attributeNames[a].startsWith(prefix))
 				continue;
 			
 			//	get attribute
-			String attributeValue = ((String) modsRef.getAttribute(attributeNames[a]));
+			String attributeValue = ((String) attrRef.getAttribute(attributeNames[a]));
 			if (attributeValue == null)
 				continue;
 			attributeValue = attributeValue.trim();
@@ -585,7 +600,7 @@ public class BibRefUtils implements BibRefConstants {
 				continue;
 			
 			//	trim attribute name for further handling
-			String attributeName = attributeNames[a].substring("mods:".length());
+			String attributeName = attributeNames[a].substring(prefix.length());
 			
 			//	handle authors and editors separately
 			if (AUTHOR_ANNOTATION_TYPE.equals(attributeName) || EDITOR_ANNOTATION_TYPE.equals(attributeName)) {
@@ -611,30 +626,9 @@ public class BibRefUtils implements BibRefConstants {
 			if (VOLUME_DESIGNATOR_ANNOTATION_TYPE.equals(attributeName) || ISSUE_DESIGNATOR_ANNOTATION_TYPE.equals(attributeName) || NUMERO_DESIGNATOR_ANNOTATION_TYPE.equals(attributeName))
 				gotPartDesignator = true;
 			
-			//	handle journal/publisher
+			//	handle journal/publisher later (part designators might come only after this attribute !!!)
 			if (JOURNAL_NAME_OR_PUBLISHER_ANNOTATION_TYPE.equals(attributeName)) {
-				
-				//	journal name
-				if (gotPartDesignator)
-					rd.setAttribute(JOURNAL_NAME_ANNOTATION_TYPE, attributeValue);
-				
-				//	split publisher from location
-				else {
-					int split = attributeValue.indexOf(":");
-					if (split == -1)
-						split = attributeValue.indexOf(",");
-					if (split == -1)
-						rd.setAttribute(PUBLISHER_ANNOTATION_TYPE, attributeValue);
-					else if (attributeValue.charAt(split) == ':') {
-						rd.setAttribute(PUBLISHER_ANNOTATION_TYPE, attributeValue.substring(split + ":".length()).trim());
-						rd.setAttribute(LOCATION_ANNOTATION_TYPE, attributeValue.substring(0, split).trim());
-					}
-					else {
-						rd.setAttribute(LOCATION_ANNOTATION_TYPE, attributeValue.substring(split + ",".length()).trim());
-						rd.setAttribute(PUBLISHER_ANNOTATION_TYPE, attributeValue.substring(0, split).trim());
-					}
-				}
-				
+				journalOrPublisher = attributeValue;
 				continue;
 			}
 			
@@ -648,8 +642,33 @@ public class BibRefUtils implements BibRefConstants {
 			rd.addAttribute(attributeName, attributeValue);
 		}
 		
+		//	handle journal/publisher only now that we know through the end if there is a part designator
+		if (journalOrPublisher != null) {
+			
+			//	journal name
+			if (gotPartDesignator)
+				rd.setAttribute(JOURNAL_NAME_ANNOTATION_TYPE, journalOrPublisher);
+			
+			//	split publisher from location
+			else {
+				int split = journalOrPublisher.indexOf(":");
+				if (split == -1)
+					split = journalOrPublisher.indexOf(",");
+				if (split == -1)
+					rd.setAttribute(PUBLISHER_ANNOTATION_TYPE, journalOrPublisher);
+				else if (journalOrPublisher.charAt(split) == ':') {
+					rd.setAttribute(PUBLISHER_ANNOTATION_TYPE, journalOrPublisher.substring(split + ":".length()).trim());
+					rd.setAttribute(LOCATION_ANNOTATION_TYPE, journalOrPublisher.substring(0, split).trim());
+				}
+				else {
+					rd.setAttribute(LOCATION_ANNOTATION_TYPE, journalOrPublisher.substring(split + ",".length()).trim());
+					rd.setAttribute(PUBLISHER_ANNOTATION_TYPE, journalOrPublisher.substring(0, split).trim());
+				}
+			}
+		}
+		
 		//	get type, induce if necessary
-		String type = ((String) modsRef.getAttribute("mods:" + PUBLICATION_TYPE_ATTRIBUTE));
+		String type = ((String) attrRef.getAttribute(prefix + PUBLICATION_TYPE_ATTRIBUTE));
 		if ((type == null) || (type.length() == 0))
 			classify(rd);
 		else rd.setAttribute(PUBLICATION_TYPE_ATTRIBUTE, type);
@@ -664,18 +683,35 @@ public class BibRefUtils implements BibRefConstants {
 	 * of the argument reference are stored in equally-named attributes to the
 	 * argument attribute bearer, prefixed with 'mods:'. Further, any 'mods:'
 	 * prefixed attributes that are not present in the argument reference
-	 * object ae removed.
+	 * object are removed.
 	 * @param target the object to add the reference attributes to
 	 * @param ref the bibliographic reference to store
 	 */
 	public static void toModsAttributes(RefData ref, Attributed target) {
+		toPrefixedAttributes(ref, target, "mods:");
+	}
+	
+	/**
+	 * Store details of a bibliographic reference in its object representation
+	 * in qualified attributes of an attribute bearing object. The attributes
+	 * of the argument reference are stored in equally-named attributes to the
+	 * argument attribute bearer, prefixed with the argument prefix. Further,
+	 * any attributes with the same prefix that are not present in the argument
+	 * reference object are removed. The argument prefix does not necessarily
+	 * have to be an XML namespace qualifier, but must form valid XML attribute
+	 * names in combination with the generic bibliographic attribute names.
+	 * @param target the object to add the reference attributes to
+	 * @param ref the bibliographic reference to store
+	 * @param prefix the prefix to use for identifying the attribute names
+	 */
+	public static void toPrefixedAttributes(RefData ref, Attributed target, String prefix) {
 		
 		//	collect existing attributes
 		String[] targetAttributeNames = target.getAttributeNames();
 		HashSet spuriousTargetAttributeNames = new HashSet();
 		for (int n = 0; n < targetAttributeNames.length; n++) {
-			if (targetAttributeNames[n].startsWith("mods:"))
-				spuriousTargetAttributeNames.add(targetAttributeNames[n].substring("mods:".length()));
+			if (targetAttributeNames[n].startsWith(prefix))
+				spuriousTargetAttributeNames.add(targetAttributeNames[n].substring(prefix.length()));
 		}
 		
 		//	set ID attributes
@@ -685,7 +721,7 @@ public class BibRefUtils implements BibRefConstants {
 				continue;
 			String id = ref.getIdentifier(idTypes[i]);
 			if ((id != null) && (id.trim().length() != 0)) {
-				target.setAttribute(("mods:" + RefData.ID_PREFIX + idTypes[i]), id.trim());
+				target.setAttribute((prefix + RefData.ID_PREFIX + idTypes[i]), id.trim());
 				spuriousTargetAttributeNames.remove(RefData.ID_PREFIX + idTypes[i]);
 			}
 		}
@@ -702,14 +738,14 @@ public class BibRefUtils implements BibRefConstants {
 			attributeValue = attributeValue.trim();
 			if (attributeValue.length() == 0)
 				continue;
-			target.setAttribute(("mods:" + refAttributeNames[n]), attributeValue);
+			target.setAttribute((prefix + refAttributeNames[n]), attributeValue);
 			spuriousTargetAttributeNames.remove(refAttributeNames[n]);
 		}
 		
 		//	remove spurious attributes
 		for (Iterator sanit = spuriousTargetAttributeNames.iterator(); sanit.hasNext();) {
 			String spuriousDocAttributeName = ((String) sanit.next());
-			target.removeAttribute("mods:" + spuriousDocAttributeName);
+			target.removeAttribute(prefix + spuriousDocAttributeName);
 		}
 	}
 	
