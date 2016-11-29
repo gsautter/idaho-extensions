@@ -35,6 +35,7 @@ import de.uka.ipd.idaho.gamta.Annotation;
 import de.uka.ipd.idaho.gamta.AnnotationUtils;
 import de.uka.ipd.idaho.gamta.Attributed;
 import de.uka.ipd.idaho.gamta.Gamta;
+import de.uka.ipd.idaho.gamta.QueriableAnnotation;
 import de.uka.ipd.idaho.gamta.Token;
 import de.uka.ipd.idaho.gamta.TokenSequence;
 import de.uka.ipd.idaho.gamta.TokenSequenceUtils;
@@ -404,6 +405,13 @@ public interface AbbreviationConstants extends LiteratureConstants {
 		 */
 		public String toXML() {
 			return (AnnotationUtils.produceStartTag(this) + AnnotationUtils.escapeForXml(this.getValue()) + AnnotationUtils.produceEndTag(this));
+		}
+		
+		/* (non-Javadoc)
+		 * @see de.uka.ipd.idaho.gamta.Annotation#getDocument()
+		 */
+		public QueriableAnnotation getDocument() {
+			return ((this.abbreviationData instanceof Annotation) ? ((Annotation) this.abbreviationData).getDocument() : null);
 		}
 		
 		/* (non-Javadoc)
