@@ -39,12 +39,13 @@ import java.io.Writer;
  * using a PrintWriter's println() method. Furthermore, flushing a buffered line
  * writer flushes only the buffer, but not the wrapped writer. This is in order
  * to allow using this convenience class in situations where flushing the
- * wrapped writer prematurely would be fatal, eg in a servlet.
+ * wrapped writer prematurely would be fatal, e.g. in a servlet. However,
+ * closing the writer does flush the underlying stream before closing it.
  * 
  * @author sautter
  */
 public class BufferedLineWriter extends BufferedWriter {
-	
+	private Writer out;
 	private static class IsolatorWriter extends FilterWriter {
 		IsolatorWriter(Writer out) {
 			super(out);
@@ -58,6 +59,7 @@ public class BufferedLineWriter extends BufferedWriter {
 	 */
 	public BufferedLineWriter(Writer out, int sz) {
 		super(new IsolatorWriter(out), sz);
+		this.out = out;
 	}
 
 	/**
@@ -65,6 +67,7 @@ public class BufferedLineWriter extends BufferedWriter {
 	 */
 	public BufferedLineWriter(Writer out) {
 		super(new IsolatorWriter(out));
+		this.out = out;
 	}
 	
 	/**
@@ -74,6 +77,17 @@ public class BufferedLineWriter extends BufferedWriter {
 	 */
 	public void flush() throws IOException {
 		super.flush();
+	}
+	
+	/**
+	 * Close the stream. This implementation flushes first the buffer and then
+	 * the underlying stream before actually closing it.
+	 * @see java.io.BufferedWriter#close()
+	 */
+	public void close() throws IOException {
+		super.flush(); // flush buffer (cascades only to protection wrapper)
+		this.out.flush(); // flush underlying stream
+		super.close(); // close everything
 	}
 	
 	/**

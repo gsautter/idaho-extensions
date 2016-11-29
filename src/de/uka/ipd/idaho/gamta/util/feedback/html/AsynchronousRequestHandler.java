@@ -69,7 +69,7 @@ import de.uka.ipd.idaho.htmlXmlUtil.accessories.IoTools;
  * methods of this class to use to handle a given HTTP request, and whether or
  * not to delegate the request to this class at all. In HTTP requests looping
  * back to this class, the servlet path starts with the request ID and can
- * contain further parts. Therefore, client code should alsways chunk the path
+ * contain further parts. Therefore, client code should always chunk the path
  * info at the first forward slash (safe for the initial one), if any, and test
  * the result against the isRequestID() method. If this method returns true, the
  * HTTP request should generally be looped through to this class; there can be
@@ -141,7 +141,7 @@ public abstract class AsynchronousRequestHandler {
 		
 		/**
 		 * Constructor assigning a custom ID to the asynchronous request, for
-		 * cases in which the identifier is assigned extrenally (e.g. for
+		 * cases in which the identifier is assigned externally (e.g. for
 		 * caching request data) before the actual asynchronous request is
 		 * created. The argument ID must be unique and intended for one-off use;
 		 * in particular, it should not be the identifier of a persistent data
@@ -284,7 +284,7 @@ public abstract class AsynchronousRequestHandler {
 		}
 		
 		/**
-		 * Check if the asynchrounous request is finished.
+		 * Check if the asynchronous request is finished.
 		 * @return true if processing is finished
 		 */
 		public boolean isFinished() {
@@ -422,7 +422,7 @@ public abstract class AsynchronousRequestHandler {
 		/**
 		 * Check if there was an error, in the Java sense. This default
 		 * implementation checks only if some Throwable originating from either
-		 * of the init(), process(), or cleanup() methods has been cought. Sub
+		 * of the init(), process(), or cleanup() methods has been caught. Sub
 		 * classes may overwrite this method to report on data errors as well.
 		 * However, if they do, they (a) should check this implementation first
 		 * and (b) overwrite the getErrorMessage(), getError(), and
@@ -437,7 +437,7 @@ public abstract class AsynchronousRequestHandler {
 		 * Retrieve a message string describing the error that occurred. This
 		 * method returns a non-null result only if hasError() returns true.
 		 * This default implementation only observes a Throwable that has been
-		 * cought from either of the init(), process(), or cleanup() methods.
+		 * caught from either of the init(), process(), or cleanup() methods.
 		 * Sub classes may overwrite this method to report on data errors as
 		 * well. However, if they do, they (a) should check this implementation
 		 * first and (b) overwrite the hasError(), getError(), and
@@ -451,7 +451,7 @@ public abstract class AsynchronousRequestHandler {
 		/**
 		 * Retrieve the error that occurred. This method returns a non-null
 		 * result only if hasError() returns true. This default implementation
-		 * covers only a Throwable cought from either of the init(), process(),
+		 * covers only a Throwable caught from either of the init(), process(),
 		 * or cleanup() methods. Sub classes may overwrite this method to report
 		 * on data errors as well. However, if they do, they (a) should check
 		 * this implementation first and (b) overwrite the hasError(),
@@ -620,7 +620,7 @@ public abstract class AsynchronousRequestHandler {
 		 * from. In XML mode, it sends status information encoded in XML.
 		 * @param request the HTTP request in whose response to include the
 		 *            status display
-		 * @param response the HTTP resonse to write to
+		 * @param response the HTTP response to write to
 		 * @throws IOException
 		 */
 		public void sendStatusUpdate(HttpServletRequest request, HttpServletResponse response) throws IOException {
@@ -649,6 +649,8 @@ public abstract class AsynchronousRequestHandler {
 				response.setCharacterEncoding("UTF-8");
 				Writer out = new OutputStreamWriter(response.getOutputStream(), "UTF-8");
 				BufferedLineWriter bw = new BufferedLineWriter(out);
+				
+				//	TODO use code from ProgressMonitorHTML here
 				
 				//	write HTML status form
 				bw.writeLine("<html><body>");
@@ -719,7 +721,7 @@ public abstract class AsynchronousRequestHandler {
 		 * achieve this, they should call the resultSent() method right before
 		 * their implementation of this method returns true.
 		 * @param request the HTTP request
-		 * @param response the HTTP resonse to write to
+		 * @param response the HTTP response to write to
 		 * @return true if the result was written, false otherwise
 		 * @throws IOException
 		 */
@@ -743,7 +745,7 @@ public abstract class AsynchronousRequestHandler {
 		 * call the errorReportSent() method right before their implementation
 		 * of this method returns true.
 		 * @param request the HTTP request
-		 * @param response the HTTP resonse to write to
+		 * @param response the HTTP response to write to
 		 * @return true if an error report was written, false otherwise
 		 * @throws IOException
 		 */
@@ -824,7 +826,7 @@ public abstract class AsynchronousRequestHandler {
 		
 		/**
 		 * Check if the feedback request has been answered (or cancelled), i.e.,
-		 * if the answer() method has beed called at least once.
+		 * if the answer() method has been called at least once.
 		 * @return true if the feedback request has been answered
 		 */
 		public boolean isAnswered() {
@@ -1037,7 +1039,7 @@ public abstract class AsynchronousRequestHandler {
 	}
 	
 	/**
-	 * Test whether ot not a given string is the ID of a running asynchronous
+	 * Test whether or not a given string is the ID of a running asynchronous
 	 * request.
 	 * @param str the string to test
 	 * @return true if the argument string is a request ID, false otherwise
@@ -1141,7 +1143,7 @@ public abstract class AsynchronousRequestHandler {
 	
 	/**
 	 * React on an asynchronous request issuing a request for external feedback.
-	 * The runtime type of the argument asynchronous request ist the one of the
+	 * The runtime type of the argument asynchronous request is the one of the
 	 * asynchronous requests created by the buildAsynchronousRequest() method,
 	 * or created by client code and handed to the enqueueAsynchrounousRequest()
 	 * method, respectively. This method allows sub classes to take further
@@ -1156,7 +1158,7 @@ public abstract class AsynchronousRequestHandler {
 	
 	/**
 	 * React on an asynchronous request receiving external feedback. The runtime
-	 * type of the argument asynchronous request ist the one of the asynchronous
+	 * type of the argument asynchronous request is the one of the asynchronous
 	 * requests created by the buildAsynchronousRequest() method, or created by
 	 * client code and handed to the enqueueAsynchrounousRequest() method,
 	 * respectively. This method allows sub classes to take further action. This
@@ -1173,7 +1175,7 @@ public abstract class AsynchronousRequestHandler {
 	 * React on an asynchronous request finishing. This method is called after
 	 * an asynchronous request finishes and the internal registers are updated,
 	 * possibly calling the retainAsynchronousRequest() method. The runtime type
-	 * of the argument asynchronous request ist the one of the asynchronous
+	 * of the argument asynchronous request is the one of the asynchronous
 	 * requests created by the buildAsynchronousRequest() method, or created by
 	 * client code and handed to the enqueueAsynchrounousRequest() method,
 	 * respectively. This method allows sub classes to take further action. This
@@ -1195,7 +1197,7 @@ public abstract class AsynchronousRequestHandler {
 	 * registers. This method is called after an asynchronous request finishes
 	 * and the internal registers are updated, possibly calling the
 	 * asynchronousRequestFinished() method right beforehand. The runtime type
-	 * of the argument asynchronous request ist the one of the asynchronous
+	 * of the argument asynchronous request is the one of the asynchronous
 	 * requests created by the buildAsynchronousRequest() method, or created by
 	 * client code and handed to the enqueueAsynchrounousRequest() method,
 	 * respectively. This method allows sub classes to take further action. This
@@ -1214,7 +1216,7 @@ public abstract class AsynchronousRequestHandler {
 	 * finished. If this method returns true, the argument asynchronous request
 	 * will be retained further, if this method returns false, it is disposed of
 	 * to free up resources. Implementations of this method are responsible to
-	 * decide on how long finished asnychronous requests are retained before the
+	 * decide on how long finished asynchronous requests are retained before the
 	 * resources they occupy are released. The runtime class of the argument
 	 * asynchronous request is the same as that of the ones handed to the
 	 * enqueueRequest() method.
@@ -1243,7 +1245,7 @@ public abstract class AsynchronousRequestHandler {
 	}
 	
 	/**
-	 * Retrieve the feedback request currently pendings for an asynchronous
+	 * Retrieve the feedback request currently pending for an asynchronous
 	 * request, if any. This method exists to grant sub classes access to
 	 * feedback requests so they can customize the way they are handled.
 	 * @param arId the ID of the asynchronous request
@@ -1270,7 +1272,7 @@ public abstract class AsynchronousRequestHandler {
 	}
 	
 	/**
-	 * Write HTML code that displays the request status, wrapped by clinet code
+	 * Write HTML code that displays the request status, wrapped by client code
 	 * in some DIV or TD element, for instance. This default implementation uses
 	 * an invisible IFRAME for updates.
 	 * @param out the writer to write to
@@ -1293,13 +1295,31 @@ public abstract class AsynchronousRequestHandler {
 		//	write HTML code
 		this.writeStatusDisplayHtml(bw, request, requestId);
 		
-		//	write starter scrip
+		//	TODO use code from ProgressMonitorHTML here
+		
+		//	write starter script
 		bw.writeLine("<script type=\"text/javascript\">");
-		bw.writeLine("updateStatus();");
+		String[] startupCalls = this.getStatusStartupCalls();
+		for (int c = 0; c < startupCalls.length; c++)
+			bw.writeLine(startupCalls[c]);
 		bw.writeLine("</script>");
 		
 		//	flush buffer
 		bw.flush();
+	}
+	
+	/**
+	 * Write some HTML page that displays the request status. This default
+	 * implementation loops through to the sendStatusDisplayPage() method.
+	 * @param request the HTTP request in whose response to include the status
+	 *            display
+	 * @param requestId the ID of the asynchronous request whose status to
+	 *            display
+	 * @param response the HTTP response to write to
+	 * @throws IOException
+	 */
+	protected void sendStatusDisplay(HttpServletRequest request, String requestId, HttpServletResponse response) throws IOException {
+		this.sendStatusDisplayPage(request, requestId, response);
 	}
 	
 	/**
@@ -1310,7 +1330,7 @@ public abstract class AsynchronousRequestHandler {
 	 *            display
 	 * @param requestId the ID of the asynchronous request whose status to
 	 *            display
-	 * @param response the HTTP resonse to write to
+	 * @param response the HTTP response to write to
 	 * @throws IOException
 	 */
 	public void sendStatusDisplayFrame(HttpServletRequest request, String requestId, HttpServletResponse response) throws IOException {
@@ -1318,24 +1338,27 @@ public abstract class AsynchronousRequestHandler {
 			requestId = this.getRequestID(request);
 		final String arId = requestId;
 		
+		//	TODO use code from ProgressMonitorHTML here
+		
 		//	send IFRAME HTML page including status display
 		response.setContentType("text/html");
 		response.setCharacterEncoding("UTF-8");
 		HtmlPageBuilder hpb = new HtmlPageBuilder(this.getPageBuilderHost(), request, response) {
 			protected String[] getOnloadCalls() {
-				String[] olcs = {"updateStatus();"};
-				return olcs;
+				return getStatusStartupCalls();
 			}
 			protected void include(String type, String tag) throws IOException {
 				if ("includeBody".equals(type)) {
 					BufferedLineWriter bw = new BufferedLineWriter(this.asWriter());
 					AsynchronousRequestHandler.this.writeStatusDisplayHtml(bw, this.request, arId);
+					bw.flush();
 				}
 				else super.include(type, tag);
 			}
 			protected void writePageHeadExtensions() throws IOException {
 				BufferedLineWriter bw = new BufferedLineWriter(this.asWriter());
 				AsynchronousRequestHandler.this.writeStatusDisplayStylesAndScripts(bw, this.request, arId);
+				bw.flush();
 			}
 		};
 		this.sendStatusDisplayIFramePage(hpb);
@@ -1349,7 +1372,7 @@ public abstract class AsynchronousRequestHandler {
 	 *            display
 	 * @param requestId the ID of the asynchronous request whose status to
 	 *            display
-	 * @param response the HTTP resonse to write to
+	 * @param response the HTTP response to write to
 	 * @throws IOException
 	 */
 	public void sendStatusDisplayPage(HttpServletRequest request, String requestId, HttpServletResponse response) throws IOException {
@@ -1358,24 +1381,27 @@ public abstract class AsynchronousRequestHandler {
 		final String arId = requestId;
 		final AsynchronousRequest ar = this.getAsynchronousRequest(arId);
 		
+		//	TODO use code from ProgressMonitorHTML here
+		
 		//	send popup HTML page including status display
 		response.setContentType("text/html");
 		response.setCharacterEncoding("UTF-8");
 		HtmlPageBuilder hpb = new HtmlPageBuilder(this.getPageBuilderHost(), request, response) {
 			protected String[] getOnloadCalls() {
-				String[] olcs = {"updateStatus();"};
-				return olcs;
+				return getStatusStartupCalls();
 			}
 			protected void include(String type, String tag) throws IOException {
 				if ("includeBody".equals(type)) {
 					BufferedLineWriter bw = new BufferedLineWriter(this.asWriter());
 					AsynchronousRequestHandler.this.writeStatusDisplayHtml(bw, this.request, arId);
+					bw.flush();
 				}
 				else super.include(type, tag);
 			}
 			protected void writePageHeadExtensions() throws IOException {
 				BufferedLineWriter bw = new BufferedLineWriter(this.asWriter());
 				AsynchronousRequestHandler.this.writeStatusDisplayStylesAndScripts(bw, this.request, arId);
+				bw.flush();
 			}
 			protected String getPageTitle(String title) {
 				return (((ar == null) || (ar.name == null)) ? super.getPageTitle(title) : ar.name);
@@ -1386,10 +1412,10 @@ public abstract class AsynchronousRequestHandler {
 	
 	/**
 	 * Write the actual HTML code that displays the request status, wrapped by
-	 * clinet code in some DIV or TD element, for instance. This default
+	 * client code in some DIV or TD element, for instance. This default
 	 * implementation uses an invisible IFRAME for updates. Sub classes may
 	 * overwrite this method to display the request status differently. However,
-	 * they than have to make sure that the HTML code written by their version
+	 * they then have to make sure that the HTML code written by their version
 	 * of this method works with the JavaScript code written by the
 	 * writeStatusDisplayStylesAndScripts() method. It is best to always
 	 * overwrite both.
@@ -1411,6 +1437,8 @@ public abstract class AsynchronousRequestHandler {
 			out.flush();
 			return;
 		}
+		
+		//	TODO use code from ProgressMonitorHTML here
 		
 		/*
 		 * write update fetcher IFRAME (have to set actual status URL only in
@@ -1513,6 +1541,8 @@ public abstract class AsynchronousRequestHandler {
 		AsynchronousRequest ar = this.getAsynchronousRequest(requestId);
 		if (ar == null)
 			return;
+		
+		//	TODO use code from ProgressMonitorHTML here
 		
 		out.writeLine("<script type=\"text/javascript\">");
 		
@@ -1689,6 +1719,19 @@ public abstract class AsynchronousRequestHandler {
 	}
 	
 	/**
+	 * Retrieve the JavaScript calls to perform when a request status page is
+	 * first loaded, e.g. to kick off periodical refreshes to status data. Sub
+	 * classes overwriting the <code>writeStatusDisplayStylesAndScripts()</code>
+	 * method might also want to overwrite this method to ensure their status
+	 * update routines start up properly.
+	 * @return an array holding the JavaScript calls
+	 */
+	protected String[] getStatusStartupCalls() {
+		String[] sscs = {"updateStatus();"};
+		return sscs;
+	}
+	
+	/**
 	 * Write HTML code that updates the displayed request processing status.
 	 * This page is for display in the invisible IFRAME created by the
 	 * writeStatusDisplay() and writeStatusDisplayPage() methods, not for actual
@@ -1698,7 +1741,7 @@ public abstract class AsynchronousRequestHandler {
 	 *            display
 	 * @param requestId the ID of the asynchronous request whose status to
 	 *            display
-	 * @param response the HTTP resonse to write to
+	 * @param response the HTTP response to write to
 	 * @throws IOException
 	 */
 	public void sendStatusUpdate(HttpServletRequest request, String requestId, HttpServletResponse response) throws IOException {
@@ -1724,6 +1767,8 @@ public abstract class AsynchronousRequestHandler {
 			response.setCharacterEncoding("UTF-8");
 			Writer out = new OutputStreamWriter(response.getOutputStream(), "UTF-8");
 			BufferedLineWriter bw = new BufferedLineWriter(out);
+			
+			//	TODO use code from ProgressMonitorHTML
 			
 			//	write HTML status form
 			bw.writeLine("<html><body>");
@@ -1766,14 +1811,14 @@ public abstract class AsynchronousRequestHandler {
 	 * JavaScripts output by the default implementation of the status display
 	 * use a new browser window for each feedback request. Thus, this default
 	 * implementation closes this very window when the feedback form is
-	 * submitted. Sub classes that choose to display feedback requst froms in a
-	 * different way should also overwrite the sendFeedbackResultPage() method
+	 * submitted. Sub classes that choose to display feedback request forms in
+	 * a different way should also overwrite the sendFeedbackResultPage() method
 	 * to provide a meaningful result page.
 	 * @param request the HTTP request in whose response to include the status
 	 *            display
 	 * @param requestId the ID of the asynchronous request whose status to
 	 *            display
-	 * @param response the HTTP resonse to write to
+	 * @param response the HTTP response to write to
 	 * @throws IOException
 	 */
 	public void sendFeedbackRequestPage(HttpServletRequest request, String requestId, HttpServletResponse response) throws IOException {
@@ -1817,13 +1862,13 @@ public abstract class AsynchronousRequestHandler {
 	
 	/**
 	 * Write a block for an HTML page that displays a pending feedback request,
-	 * in particuar a FORM element that also includes the JavaScripts and CSS
+	 * in particular a FORM element that also includes the JavaScripts and CSS
 	 * styles required for the form content to work.
 	 * @param request the HTTP request in whose response to include the status
 	 *            display
 	 * @param requestId the ID of the asynchronous request whose status to
 	 *            display
-	 * @param response the HTTP resonse to write to
+	 * @param response the HTTP response to write to
 	 * @throws IOException
 	 */
 	public void sendFeedbackRequestBlock(HttpServletRequest request, String requestId, HttpServletResponse response) throws IOException {
@@ -1886,15 +1931,15 @@ public abstract class AsynchronousRequestHandler {
 	 * feedback request. As submitting a feedback request form generated by the
 	 * default implementation of sendFeedbackRequestPage() closes the feedback
 	 * window, this default implementation simply sends an empty HTML page
-	 * closing the window in case hte latter did not work with the form
-	 * submission. Sub classes that choose to display feedback requst froms in a
-	 * different way should also overwrite this method to provide a meaningful
+	 * closing the window in case the latter did not work with the form
+	 * submission. Sub classes that choose to display feedback request forms in
+	 * a different way should also overwrite this method to provide a meaningful
 	 * result page.
 	 * @param request the HTTP request in whose response to include the status
 	 *            display
 	 * @param requestId the ID of the asynchronous request whose status to
 	 *            display
-	 * @param response the HTTP resonse to write to
+	 * @param response the HTTP response to write to
 	 * @throws IOException
 	 */
 	public void sendFeedbackResultPage(HttpServletRequest request, String requestId, HttpServletResponse response) throws IOException {
@@ -1919,7 +1964,7 @@ public abstract class AsynchronousRequestHandler {
 	 *            display
 	 * @param isAnswer does the request contain an answer to a feedback request,
 	 *            or a cancellation?
-	 * @param response the HTTP resonse to write to
+	 * @param response the HTTP response to write to
 	 * @throws IOException
 	 */
 	public void processFeedback(HttpServletRequest request, String requestId, boolean isAnswer, HttpServletResponse response) throws IOException {
@@ -1927,7 +1972,6 @@ public abstract class AsynchronousRequestHandler {
 			requestId = this.getRequestID(request);
 		
 		//	answer/cancel feedback request
-//		this.feedbackService.answerFeedbackRequest(requestId, ((isAnswer && "OK".equals(request.getParameter(FeedbackFormPageBuilder.SUBMIT_MODE_PARAMETER))) ? request : null));
 		this.feedbackService.answerFeedbackRequest(requestId, (isAnswer ? request : null));
 		
 		//	send result page
@@ -1940,7 +1984,7 @@ public abstract class AsynchronousRequestHandler {
 	 *            display
 	 * @param requestId the ID of the asynchronous request whose status to
 	 *            display
-	 * @param response the HTTP resonse to write to
+	 * @param response the HTTP response to write to
 	 * @throws IOException
 	 */
 	public void cancelRequest(HttpServletRequest request, String requestId, HttpServletResponse response) throws IOException {
@@ -1970,7 +2014,7 @@ public abstract class AsynchronousRequestHandler {
 	 *            display
 	 * @param requestId the ID of the asynchronous request whose status to
 	 *            display
-	 * @param response the HTTP resonse to write to
+	 * @param response the HTTP response to write to
 	 * @throws IOException
 	 */
 	public void sendResult(HttpServletRequest request, String requestId, HttpServletResponse response) throws IOException {
@@ -2041,7 +2085,7 @@ public abstract class AsynchronousRequestHandler {
 	 *            display
 	 * @param requestId the ID of the asynchronous request whose status to
 	 *            display
-	 * @param response the HTTP resonse to write to
+	 * @param response the HTTP response to write to
 	 * @throws IOException
 	 */
 	public void sendErrorReport(HttpServletRequest request, String requestId, HttpServletResponse response) throws IOException {
@@ -2165,7 +2209,7 @@ public abstract class AsynchronousRequestHandler {
 	
 	/**
 	 * Send an HTML page showing the status of an asynchronous request in a
-	 * popup window. This method exists so concrete sub classes of this class
+	 * pop-up window. This method exists so concrete sub classes of this class
 	 * can use the facilities of their surrounding servlets to output web pages.
 	 * This default implementation loops through to the sendPopupHtmlPage()
 	 * method, sub classes are welcome to overwrite it as needed.
@@ -2191,7 +2235,7 @@ public abstract class AsynchronousRequestHandler {
 	
 	/**
 	 * Retrieve an HTML page builder host. This method exists so concrete sub
-	 * classes of this calss can use the facilities of their surrounding
+	 * classes of this class can use the facilities of their surrounding
 	 * servlets to output web pages.
 	 */
 	protected abstract HtmlPageBuilderHost getPageBuilderHost();
@@ -2213,14 +2257,14 @@ public abstract class AsynchronousRequestHandler {
 	 * requests that already exist; recognizing HTTP requests that start an
 	 * asynchronous request is up to the surrounding servlet. In particular,
 	 * this method handles HTTP requests whose path info starts with the ID of
-	 * an existing asynchonous request, followed by a slash and one of the
+	 * an existing asynchronous request, followed by a slash and one of the
 	 * action constants defined by this class. Surrounding servlets need not use
 	 * this method; they may parse the path info themselves and then delegate to
 	 * the appropriate method of this class. They may also implement additional
 	 * actions and use them as needed, or handle the existing actions
 	 * differently.
 	 * @param request the HTTP request to handle
-	 * @param response the HTTP resonse to write to
+	 * @param response the HTTP response to write to
 	 * @return true if the request has been handled, false otherwise
 	 * @throws IOException
 	 */
@@ -2253,7 +2297,7 @@ public abstract class AsynchronousRequestHandler {
 		
 		//	status page request
 		if (STATUS_ACTION.equals(action)) {
-			this.sendStatusDisplayPage(request, arId, response);
+			this.sendStatusDisplay(request, arId, response);
 			return true;
 		}
 		
@@ -2328,7 +2372,7 @@ public abstract class AsynchronousRequestHandler {
 	public static final String ERRORS_ACTION = "errors";
 	
 	/**
-	 * The invocation suffix for externally cancelling a running asynchronous
+	 * The invocation suffix for externally canceling a running asynchronous
 	 * request.
 	 */
 	public static final String CANCEL_ACTION = "cancel";
@@ -2336,10 +2380,10 @@ public abstract class AsynchronousRequestHandler {
 	/**
 	 * The invocation suffix for obtaining the currently pending feedback
 	 * request (if any) of an asynchronous request as a full, standalone HTML
-	 * page, if any. This invokation suffix is the one used by the default
+	 * page, if any. This invocation suffix is the one used by the default
 	 * status display code. Sub classes may change this behavior, however. For
-	 * each pending feedback request, client code shoud use either this
-	 * invokation suffix or its block counterpart, but not both.
+	 * each pending feedback request, client code should use either this
+	 * invocation suffix or its block counterpart, but not both.
 	 */
 	public static final String GET_FEEDBACK_REQUEST_PAGE_ACTION = "frGetP";
 	
@@ -2349,24 +2393,24 @@ public abstract class AsynchronousRequestHandler {
 	 * be embedded in an HTML page, in particular a FORM element that also
 	 * includes the JavaScripts and CSS styles required for the form content to
 	 * work. The JavaScripts of the default status display do not use this
-	 * invokation suffix, it is mostly intended for XML based interaction with
-	 * AJAX based fron ends. Sub classes may, however, choose to also use it in
+	 * invocation suffix, it is mostly intended for XML based interaction with
+	 * AJAX based front ends. Sub classes may, however, choose to also use it in
 	 * the default status display. For each pending feedback request, client
-	 * code shoud use either this invokation suffix or its page counterpart, but
+	 * code should use either this invocation suffix or its page counterpart, but
 	 * not both.
 	 */
 	public static final String GET_FEEDBACK_REQUEST_BLOCK_ACTION = "frGetB";
 	
 	/**
-	 * The invocation suffix for aswering the currently pending feedback request
-	 * of an asynchronous request, if any. This invokation suffix is exclusively
+	 * The invocation suffix for answering the currently pending feedback request
+	 * of an asynchronous request, if any. This invocation suffix is exclusively
 	 * used in the action URL of feedback forms.
 	 */
 	public static final String ANSWER_FEEDBACK_REQUEST_ACTION = "frAnswer";
 	
 	/**
-	 * The invocation suffix for cancelling the currently pending feedback
-	 * request of an asynchronous request, if any. This invokation suffix is
+	 * The invocation suffix for canceling the currently pending feedback
+	 * request of an asynchronous request, if any. This invocation suffix is
 	 * only used in XML mode by default, not in the JavaScripts of the default
 	 * status display. Sub classes may change this, however.
 	 */
