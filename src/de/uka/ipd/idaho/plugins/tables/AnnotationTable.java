@@ -400,14 +400,14 @@ public class AnnotationTable extends AbstractAttributed implements TableConstant
 		public String[] getAttributeNames() {
 			return new String[0];
 		}
-		public void copyAttributes(Attributed source) {}
+//		public void copyAttributes(Attributed source) {}
 		public void clearAttributes() {}
 		public Object setAttribute(String name, Object value) {
 			return null;
 		}
-		public Object removeAttribute(String name) {
-			return null;
-		}
+//		public Object removeAttribute(String name) {
+//			return null;
+//		}
 	};
 	
 	/**
