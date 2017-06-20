@@ -1,4 +1,5 @@
 <bibRefTypeSystem>
+	<!-- to each reference type, add pattern validating publication date format -->
 	<bibRefType name="book" label="Book / Thesis / Monograph">
 		<constraint require="author"/>
 		<constraint require="title"/>

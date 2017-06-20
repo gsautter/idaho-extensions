@@ -55,11 +55,20 @@ public interface TaxonomicNameConstants extends LiteratureConstants {
 	/** attribute for storing the year part of the authority of a taxonomic name, namely 'authorityYear' */
 	public static final String AUTHORITY_YEAR_ATTRIBUTE = "authorityYear";
 	
+	/** attribute for storing the name part of the basionym authority of a taxonomic name, namely 'baseAuthorityName' */
+	public static final String BASE_AUTHORITY_NAME_ATTRIBUTE = "baseAuthorityName";
+	
+	/** attribute for storing the year part of the basionym authority of a taxonomic name, namely 'baseAuthorityYear' */
+	public static final String BASE_AUTHORITY_YEAR_ATTRIBUTE = "baseAuthorityYear";
+	
 	/** attribute for storing the (primary) LSID of a taxonomic name, namely 'LSID' */
 	public static final String LSID_ATTRIBUTE = "LSID";
 	
 	/** prefix for attributes storing LSIDs of a taxonomic name, namely 'LSID-'; client code should append an acronym identifying the LSID authority to this prefix to generate unambiguous attribute names */
 	public static final String LSID_ATTRIBUTE_PREFIX = "LSID-";
+	
+	/** attribute for storing the status a taxonomic name has in a specific usage in a document, e.g. 'spec. nov.', namely 'status' */
+	public static final String TAXONOMIC_NAME_STATUS_ATTRIBUTE = "status";
 	
 	public static final String DOMAIN_ATTRIBUTE = "domain";
 

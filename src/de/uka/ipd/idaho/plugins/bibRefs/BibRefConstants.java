@@ -46,6 +46,9 @@ public interface BibRefConstants extends LiteratureConstants {
 	/** annotation type for marking the year a referenced publication was published */
 	public static final String YEAR_ANNOTATION_TYPE = "year";
 	
+	/** annotation type for marking the exact date a publication was published (if available) */
+	public static final String PUBLICATION_DATE_ANNOTATION_TYPE = "pubDate";
+	
 	/** annotation type for marking the title of a referenced publication */
 	public static final String TITLE_ANNOTATION_TYPE = "title";
 	

@@ -1225,7 +1225,7 @@ public class BibRefUtils implements BibRefConstants {
 	 * <code>DocumentRoot</code> instance, the meta data is additionally
 	 * deposited in document properties.
 	 * @param data the documents to add the attributes to
-	 * @param ref the MODS data set to take the attributes from
+	 * @param ref the reference data set to take the attributes from
 	 */
 	public static void setDocAttributes(Attributed data, RefData ref) {
 		String[] idTypes = ref.getIdentifierTypes();

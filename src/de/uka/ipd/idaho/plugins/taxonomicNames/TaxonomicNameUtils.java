@@ -29,12 +29,12 @@ package de.uka.ipd.idaho.plugins.taxonomicNames;
 
 import java.util.Iterator;
 import java.util.Properties;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import de.uka.ipd.idaho.gamta.Annotation;
 import de.uka.ipd.idaho.gamta.AnnotationUtils;
-import de.uka.ipd.idaho.gamta.Gamta;
 import de.uka.ipd.idaho.gamta.QueriableAnnotation;
-import de.uka.ipd.idaho.gamta.TokenSequence;
 import de.uka.ipd.idaho.gamta.TokenSequenceUtils;
 import de.uka.ipd.idaho.plugins.taxonomicNames.TaxonomicRankSystem.Rank;
 
@@ -54,9 +54,12 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		private Properties epithets = new Properties();
 		private String authorityName = null;
 		private int authorityYear = -1;
+		private String baseAuthorityName = null;
+		private int baseAuthorityYear = -1;
 		private String rank;
 		private String stringWithoutAuthority;
 		private String stringWithAuthority;
+		private String stringWithFullAuthority;
 		private TaxonomicRankSystem rankSystem;
 		
 		/** Constructor
@@ -113,6 +116,7 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 			else this.epithets.setProperty(rank, epithet);
 			this.rank = null;
 			this.stringWithAuthority = null;
+			this.stringWithFullAuthority = null;
 			this.stringWithoutAuthority = null;
 		}
 		
@@ -133,6 +137,7 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		public void setAuthorityName(String name) {
 			this.authorityName = name;
 			this.stringWithAuthority = null;
+			this.stringWithFullAuthority = null;
 		}
 		
 		/**
@@ -152,6 +157,7 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		public void setAuthorityYear(int year) {
 			this.authorityYear = year;
 			this.stringWithAuthority = null;
+			this.stringWithFullAuthority = null;
 		}
 		
 		/**
@@ -179,7 +185,100 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 			this.authorityName = name;
 			this.authorityYear = year;
 			this.stringWithAuthority = null;
+			this.stringWithFullAuthority = null;
 			this.stringWithoutAuthority = null;
+		}
+		
+		/**
+		 * Retrieve the authority name of the original taxonomic name, i.e.,
+		 * the name of the scientist to author the most specific epithet in its
+		 * original combination (the basionym).
+		 * @return the basionym authority name
+		 */
+		public String getBaseAuthorityName() {
+			return this.baseAuthorityName;
+		}
+		
+		/**
+		 * Set the authority name of the taxonomic name, i.e., the name of the
+		 * the name of the scientist to author the most specific epithet in its
+		 * original combination (the basionym).
+		 * @param name the basionym authority name to set
+		 */
+		public void setBaseAuthorityName(String name) {
+			this.baseAuthorityName = name;
+			this.stringWithAuthority = null;
+			this.stringWithFullAuthority = null;
+		}
+		
+		/**
+		 * Retrieve the authority year of the taxonomic name, i.e., the year the
+		 * most specific epithet was first published in its original combination
+		 * (the basionym).
+		 * @return the basionym authority year
+		 */
+		public int getBaseAuthorityYear() {
+			return this.baseAuthorityYear;
+		}
+		
+		/**
+		 * Set the authority year of the taxonomic name, i.e., the year the most
+		 * specific epithet was first published in its original combination (the
+		 * basionym).
+		 * @param year the basionym authority year to set
+		 */
+		public void setBaseAuthorityYear(int year) {
+			this.baseAuthorityYear = year;
+			this.stringWithAuthority = null;
+			this.stringWithFullAuthority = null;
+		}
+		
+		/**
+		 * Retrieve the authority of the basionym, i.e., the name of the
+		 * scientist to author the most specific epithet in its original
+		 * combination, and the year the most specific epithet was first
+		 * published in that original combination. If either of both fields
+		 * is not set, this method returns the other, if both are not set,
+		 * this method returns null.
+		 * @return the basionym authority
+		 */
+		public String getBaseAuthority() {
+			if (this.baseAuthorityName == null)
+				return ((this.baseAuthorityYear < 0) ? null : ("" + this.baseAuthorityYear));
+			else return (this.baseAuthorityName + ((this.baseAuthorityYear < 0) ? "" : (" " + this.baseAuthorityYear)));
+		}
+		
+		/**
+		 * Set the authority of the basionym, i.e., the name of the scientist
+		 * to author the most specific epithet in its original combination, and
+		 * the year the most specific epithet was first published in that
+		 * original combination.
+		 * @param name the basionym authority name to set
+		 * @param year the basionym authority year to set
+		 */
+		public void setBaseAuthority(String name, int year) {
+			this.baseAuthorityName = name;
+			this.baseAuthorityYear = year;
+			this.stringWithAuthority = null;
+			this.stringWithFullAuthority = null;
+			this.stringWithoutAuthority = null;
+		}
+		
+		/**
+		 * Retrieve the full authority of the taxonomic name, i.e., the
+		 * basionym authority in parentheses followed by the authority proper.
+		 * If either of both is not set, this method returns the other, if
+		 * both are not set, this method returns null.
+		 * @return the full authority
+		 */
+		public String getFullAuthority() {
+			String authority = this.getAuthority();
+			String baseAuthority = this.getBaseAuthority();
+			if (baseAuthority == null)
+				return authority;
+			else if (authority == null)
+				return ("(" + baseAuthority + ")");
+			else return ("(" + baseAuthority + ") " + authority);
 		}
 		
 		/**
@@ -210,7 +309,7 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		 * @see java.lang.Object#toString()
 		 */
 		public String toString() {
-			return this.toString(false);
+			return this.toString(false, false);
 		}
 		
 		/**
@@ -221,12 +320,31 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		 * @see java.lang.Object#toString()
 		 */
 		public String toString(boolean includeAuthority) {
+			return this.toString(includeAuthority, false);
+		}
+		
+		/**
+		 * Convert the taxonomic name into a string, using the formatting
+		 * functionality of the embedded rank system.
+		 * @param includeAuthority add authority information if given?
+		 * @param includeBaseAuthority add basionym authority information if
+		 *            given?
+		 * @return a string representation of the taxonomic name
+		 * @see java.lang.Object#toString()
+		 */
+		public String toString(boolean includeAuthority, boolean includeBaseAuthority) {
 			
 			//	check cache
+			if (includeBaseAuthority && (this.stringWithFullAuthority != null))
+				return this.stringWithFullAuthority;
 			if (includeAuthority && (this.stringWithAuthority != null))
 				return this.stringWithAuthority;
 			if (!includeAuthority && (this.stringWithoutAuthority != null))
 				return this.stringWithoutAuthority;
+			
+			//	make sure not to add naked basionym authority
+			if (includeBaseAuthority)
+				includeAuthority = true;
 			
 			//	determine rank
 			String rank = this.getRank();
@@ -263,6 +381,12 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 				}
 			}
 			
+			//	add basionym authority if asked to
+			if (includeBaseAuthority && (this.baseAuthorityName != null) && (string.length() != 0)) {
+				string.append(' ');
+				string.append("(" + this.getBaseAuthority() + ")");
+			}
+			
 			//	add authority if asked to
 			if (includeAuthority && (this.authorityName != null) && (string.length() != 0)) {
 				string.append(' ');
@@ -270,7 +394,9 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 			}
 			
 			//	cache what we got
-			if (includeAuthority)
+			if (includeBaseAuthority)
+				this.stringWithFullAuthority = string.toString();
+			else if (includeAuthority)
 				this.stringWithAuthority = string.toString();
 			else this.stringWithoutAuthority = string.toString();
 			
@@ -279,7 +405,7 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		}
 		
 		/**
-		 * Convert the name into DarwinCore XML, additional ranks suplemented by
+		 * Convert the name into DarwinCore XML, additional ranks supplemented by
 		 * DarwinCore-Ranks.
 		 * @return the name as DarwinCore XML
 		 */
@@ -289,7 +415,7 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		
 		/**
 		 * Convert the name into Simple DarwinCore XML, additional ranks
-		 * suplemented by DarwinCore-Ranks.
+		 * supplemented by DarwinCore-Ranks.
 		 * @return the name as Simple DarwinCore XML
 		 */
 		public String toSimpleDwcXml() {
@@ -341,37 +467,69 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		if (taxName == null)
 			return taxName;
 		
+		//	add authority and basionym authority
+		addAuthority(taxName, taxNameAnnot);
+		addBaseAuthority(taxName, taxNameAnnot);
+		
+		//	finally ...
+		return taxName;
+	}
+	
+	private static void addAuthority(TaxonomicName taxName, Annotation taxNameAnnot) {
+		
+		//	get authority details
 		String authorityName = ((String) taxNameAnnot.getAttribute(AUTHORITY_NAME_ATTRIBUTE));
 		String authorityYear = ((String) taxNameAnnot.getAttribute(AUTHORITY_YEAR_ATTRIBUTE));
 		
+		//	parse authority from base data if missing
 		if (authorityName == null) {
-			String authority = ((String) taxNameAnnot.getAttribute(AUTHORITY_ATTRIBUTE));
-			if (authority == null)
-				return taxName;
 			
-			TokenSequence authorityTokens = Gamta.newTokenSequence(authority, taxNameAnnot.getTokenizer());
-			int authorityNameEndIndex = authorityTokens.size();
+			//	get verbatim authority
+			String authorityStr = getCombinationAuthority(taxName, taxNameAnnot);
+			if (authorityStr == null)
+				return;
 			
-			for (int t = authorityTokens.size()-1; t >= 0; t--)
-				if (authorityTokens.valueAt(t).matches("[12][0-9]{3}")) {
-					authorityYear = authorityTokens.valueAt(t);
-					authorityNameEndIndex = t;
-				}
-			if ((0 < authorityNameEndIndex) && "(".equals(authorityTokens.valueAt(authorityNameEndIndex-1)))
-				authorityNameEndIndex--;
-			if (0 < authorityNameEndIndex)
-				authorityName = TokenSequenceUtils.concatTokens(authorityTokens, 0, authorityNameEndIndex, false, true);
+			//	parse authority
+			TaxonomicAuthority authority = parseAuthority(authorityStr);
+			authorityName = authority.name;
+			authorityYear = ((authority.year == -1) ? authorityYear : ("" + authority.year));
 		}
 		
-		if (authorityName == null)
-			return taxName;
-		
-		taxName.setAuthorityName(authorityName);
+		//	set authority
+		if (authorityYear != null)
+			taxName.setAuthorityName(authorityName);
 		if ((authorityYear != null) && authorityYear.matches("[12][0-9]{3}"))
 			taxName.setAuthorityYear(Integer.parseInt(authorityYear));
-		
-		return taxName;
 	}
+	
+	private static void addBaseAuthority(TaxonomicName taxName, Annotation taxNameAnnot) {
+		
+		//	get basionym authority details
+		String authorityName = ((String) taxNameAnnot.getAttribute(BASE_AUTHORITY_NAME_ATTRIBUTE));
+		String authorityYear = ((String) taxNameAnnot.getAttribute(BASE_AUTHORITY_YEAR_ATTRIBUTE));
+		
+		//	parse authority from base data if missing
+		if (authorityName == null) {
+			
+			//	get verbatim basionym authority
+			String authorityStr = getBasionymAuthority(taxName, taxNameAnnot);
+			if (authorityStr == null)
+				return;
+			
+			//	parse basionym authority
+			TaxonomicAuthority authority = parseAuthority(authorityStr);
+			authorityName = authority.name;
+			authorityYear = ((authority.year == -1) ? authorityYear : ("" + authority.year));
+		}
+		
+		//	set authority
+		if (authorityYear != null)
+			taxName.setAuthorityName(authorityName);
+		if ((authorityYear != null) && authorityYear.matches("[12][0-9]{3}"))
+			taxName.setAuthorityYear(Integer.parseInt(authorityYear));
+	}
+	
+	private static final Pattern yearPattern = Pattern.compile("[12][0-9]{3}");
 	
 	/**
 	 * Create a name object from its XML representation in DarwinCore or Simple
@@ -416,10 +574,17 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 				taxName.setEpithet(rank, dwcEpithets[e].getValue());
 			}
 			else if ("scientificNameAuthorship".equals(type)) {
-				String authority = dwcEpithets[e].getValue();
-				if (dwcEpithets[e].lastValue().matches("[12][0-9]{3}"))
-					taxName.setAuthority(authority.substring(0, (authority.length()-4)).trim(), Integer.parseInt(dwcEpithets[e].lastValue()));
-				else taxName.setAuthorityName(authority);
+				String verbatimAuthority = dwcEpithets[e].getValue();
+				String authorityStr = getCombinationAuthority(verbatimAuthority);
+				if (authorityStr != null) {
+					TaxonomicAuthority authority = parseAuthority(authorityStr);
+					taxName.setAuthority(authority.name, authority.year);
+				}
+				String baseAuthorityStr = getBasionymAuthority(verbatimAuthority);
+				if (baseAuthorityStr != null) {
+					TaxonomicAuthority baseAuthority = parseAuthority(baseAuthorityStr);
+					taxName.setAuthority(baseAuthority.name, baseAuthority.year);
+				}
 			}
 		}
 		return taxName;
@@ -466,7 +631,8 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 			xml.append("<dwc:taxonRank>");
 			xml.append(AnnotationUtils.escapeForXml(rank.toLowerCase()));
 			xml.append("</dwc:taxonRank>");
-			String authority = taxName.getAuthority();
+//			String authority = taxName.getAuthority();
+			String authority = taxName.getFullAuthority();
 			if (authority != null) {
 				xml.append("<dwc:scientificNameAuthorship>");
 				xml.append(AnnotationUtils.escapeForXml(authority));
@@ -559,6 +725,220 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 			dwcElementsToRanks.setProperty(element.substring(element.indexOf(':') + 1), attribute);
 		}
 	}
+	
+	/**
+	 * Cut the verbatim authority from a given taxonomic name. This is all the
+	 * characters from an annotated taxonomic name that follow after the most
+	 * significant epithet. If the argument taxonomic name annotation does not
+	 * include any tokens beyond the most significant epithet, this method
+	 * returns null.
+	 * @param taxonName the taxon name object to take the most significant
+	 *            epithet from (created from the annotation if null)
+	 * @param taxonNameAnnot the taxon name annotation whose authority part to
+	 *            extract
+	 * @return the verbatim annotated authority
+	 */
+	public static String getVerbatimAuthority(TaxonomicName taxonName, Annotation taxonNameAnnot) {
+		if (taxonName == null)
+			taxonName = genericXmlToTaxonomicName(taxonNameAnnot);
+		if (taxonName == null)
+			return null;
+		String rank = taxonName.getRank();
+		String mostSigEpithet = taxonName.getEpithet(rank);
+		int authorityStartIndex = (TokenSequenceUtils.indexOf(taxonNameAnnot, mostSigEpithet, false) + 1);
+		if (authorityStartIndex < 1)
+			return null; // most significant epithet not found, little we can do ...
+		if (authorityStartIndex == taxonNameAnnot.size())
+			return null; // most significant epithet at very end, no authority given
+		return TokenSequenceUtils.concatTokens(taxonNameAnnot, authorityStartIndex, (taxonNameAnnot.size() - authorityStartIndex), true, true);
+	}
+	
+	/**
+	 * Cut the authority of the current combination from a given taxonomic
+	 * name. This is the verbatim authority less any leading basionym authority
+	 * in parentheses. If the verbatim authority is null, this method returns
+	 * null as well. If only the basionym authority is given (whole authority
+	 * in parentheses), this method also returns null.
+	 * @param taxonName the taxon name object to take the most significant
+	 *            epithet from (created from the annotation if null)
+	 * @param taxonNameAnnot the taxon name annotation whose authority part to
+	 *            extract
+	 * @return the current combination authority, if any
+	 */
+	public static String getCombinationAuthority(TaxonomicName taxonName, Annotation taxonNameAnnot) {
+		String verbatimAuthority = getVerbatimAuthority(taxonName, taxonNameAnnot);
+		return getCombinationAuthority(verbatimAuthority);
+	}
+	
+	/**
+	 * Cut the authority of the current combination from a given taxonomic
+	 * name. This is the verbatim authority less any leading basionym authority
+	 * in parentheses. If the verbatim authority is null, this method returns
+	 * null as well. If only the basionym authority is given (whole authority
+	 * in parentheses), this method also returns null.
+	 * @param verbatimAuthority the verbatim authority string as a whole
+	 * @return the current combination authority, if any
+	 */
+	public static String getCombinationAuthority(String verbatimAuthority) {
+		if (verbatimAuthority == null)
+			return null;
+		if (!verbatimAuthority.startsWith("("))
+			return verbatimAuthority; // all we have is the current combination authority
+		if (verbatimAuthority.matches(".*\\)\\s*[12][0-9]{3}"))
+			return null; // treat '(<name>) <year>' just like '(<name>, <year>)'
+		int[] parenthesisDepths = getCharacterParenthesisDepths(verbatimAuthority);
+		for (int c = 0; c < verbatimAuthority.length(); c++) {
+			if (parenthesisDepths[c] == 0)
+				return verbatimAuthority.substring(c).trim();
+		}
+		return null; // whole authority in parentheses
+	}
+	
+	/**
+	 * Cut the authority of the basionym (original combination) from a given
+	 * taxonomic name. This is any leading part in parentheses contained in the
+	 * verbatim authority. If the verbatim authority is null, this method
+	 * returns null as well. If only the current combination authority is given
+	 * (no part in parentheses), this method also returns null.
+	 * @param taxonName the taxon name object to take the most significant
+	 *            epithet from (created from the annotation if null)
+	 * @param taxonNameAnnot the taxon name annotation whose authority part to
+	 *            extract
+	 * @return the basionym authority
+	 */
+	public static String getBasionymAuthority(TaxonomicName taxonName, Annotation taxonNameAnnot) {
+		String verbatimAuthority = getVerbatimAuthority(taxonName, taxonNameAnnot);
+		return getBasionymAuthority(verbatimAuthority);
+	}
+	
+	/**
+	 * Cut the authority of the basionym (original combination) from a given
+	 * taxonomic name. This is any leading part in parentheses contained in the
+	 * verbatim authority. If the verbatim authority is null, this method
+	 * returns null as well. If only the current combination authority is given
+	 * (no part in parentheses), this method also returns null.
+	 * @param verbatimAuthority the verbatim authority string as a whole
+	 * @return the basionym authority
+	 */
+	public static String getBasionymAuthority(String verbatimAuthority) {
+		if (verbatimAuthority == null)
+			return null;
+		if (!verbatimAuthority.startsWith("("))
+			return null; // all we have is the combination authority
+		if (verbatimAuthority.matches(".*\\)\\s*[12][0-9]{3}")) {
+			int parenthesesEnd = verbatimAuthority.lastIndexOf(')'); // convert '(<name>) <year>' into '(<name>, <year>)'
+			return (verbatimAuthority.substring(0, parenthesesEnd).trim() + ", " + verbatimAuthority.substring(parenthesesEnd + ")".length()).trim() + ")");
+		}
+		int[] parenthesisDepths = getCharacterParenthesisDepths(verbatimAuthority);
+		for (int c = 0; c < verbatimAuthority.length(); c++) {
+			if (parenthesisDepths[c] == 0)
+				return verbatimAuthority.substring(0, c).trim();
+		}
+		return verbatimAuthority; // whole authority in parentheses
+	}
+	
+	/**
+	 * Container for a taxonomic name authority, comprising scientists name and
+	 * year of publication.
+	 * 
+	 * @author sautter
+	 */
+	public static class TaxonomicAuthority {
+		
+		/** the name part of the authority, null if absent */
+		public final String name;
+		
+		/** the year part of the authority, -1 if absent */
+		public final int year;
+		
+		/**
+		 * @param name
+		 * @param year
+		 */
+		public TaxonomicAuthority(String name, int year) {
+			this.name = name;
+			this.year = year;
+		}
+		
+		/* (non-Javadoc)
+		 * @see java.lang.Object#toString()
+		 */
+		public String toString() {
+			if ((this.name == null) && (this.year < 0))
+				return "";
+			else if (this.name == null)
+				return ("" + this.year);
+			else if (this.year < 0)
+				return this.name;
+			else return (this.name + ", " + this.year);
+		}
+	}
+	
+	/**
+	 * Parse a taxonomic authority into its name and year parts.
+	 * @param authority the authority string to parse
+	 * @return the parsed authority
+	 */
+	public static TaxonomicAuthority parseAuthority(String authority) {
+		if (authority == null)
+			return null;
+		
+		//	get punctuation out of the way
+		authority = truncatePunctuation(authority);
+		
+		String authorityName = null;
+		String authorityYear = null;
+		
+		//	find and remove (last) year
+		for (Matcher ym = yearPattern.matcher(authority); ym.find();) {
+			authorityYear = ym.group();
+			authorityName = truncatePunctuation(authority.substring(0, ym.start()));
+		}
+		
+		//	no year give, use all we have
+		if (authorityName == null)
+			authorityName = authority;
+		
+		//	finally ...
+		return new TaxonomicAuthority(authorityName, ((authorityYear == null) ? -1 : Integer.parseInt(authorityYear)));
+	}
+	
+	private static String truncatePunctuation(String authority) {
+		while (authority.startsWith("(")) // starting parenthesis of basionym authority
+			authority = authority.substring("(".length()).trim();
+		while (authority.endsWith("(")) // end of '<name> (<year>)' authority after cropping year
+			authority = authority.substring(0, (authority.length() - "(".length())).trim();
+		while (authority.endsWith(",")) // end of '<name>, <year>' authority after cropping year
+			authority = authority.substring(0, (authority.length() - ",".length())).trim();
+		while (authority.endsWith(")")) // end of '<name> (<year>)' authority or basionym authority
+			authority = authority.substring(0, (authority.length() - ")".length())).trim();
+		return authority;
+	}
+	
+	/* TODO use these new methods in:
+	 * - TreeFAT
+	 * - AuthorityAugmenter
+	 * - DwC-A exporter
+	 */
+	
+	//	TODO add in-depth authority handling (except augmentation) to TreeFAT, setting all the above attributes
+	
+	//	TODO augment both authority and baseAuthority in AuthorityAugmenter
+	
+	private static int[] getCharacterParenthesisDepths(String str) {
+		int[] parenthesisDepths = new int[str.length()];
+		int parenthesisDepth = 0;
+		for (int c = 0; c < str.length(); c++) {
+			char ch = str.charAt(c);
+			if (ch == '(')
+				parenthesisDepth++;
+			parenthesisDepths[c] = parenthesisDepth;
+			if (ch == ')')
+				parenthesisDepth--;
+		}
+		return parenthesisDepths;
+	}
+	
 //	//	TEST ONLY !!!
 //	public static void main(String[] args) throws Exception {
 //		TaxonomicName taxName = new TaxonomicName("animalia");

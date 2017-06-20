@@ -186,24 +186,27 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 		if (this.primaryIdField == null) {
 			gbc.gridx = 1;
 			gbc.weightx = 1;
-			gbc.gridwidth = 3;
+			gbc.gridwidth = 5;
 			this.add(this.typeSelector, gbc.clone());
 		}
 		else {
 			gbc.gridx = 1;
 			gbc.weightx = 1;
+			gbc.gridwidth = 2;
 			this.add(this.typeSelector, gbc.clone());
-			gbc.gridx = 2;
-			gbc.weightx = 0;
-			this.add(this.primaryIdField.label, gbc.clone());
 			gbc.gridx = 3;
+			gbc.weightx = 0;
+			gbc.gridwidth = 1;
+			this.add(this.primaryIdField.label, gbc.clone());
+			gbc.gridx = 4;
 			gbc.weightx = 1;
+			gbc.gridwidth = 2;
 			this.add(this.primaryIdField.getValueInput(), gbc.clone());
 		}
 		gbc.gridy++;
 		
 		for (int f = 0; f < this.fields.length; f++) {
-			if (((f+1) < this.fields.length) && YEAR_ANNOTATION_TYPE.equals(this.fields[f].name) && PAGINATION_ANNOTATION_TYPE.equals(this.fields[f+1].name)) {
+			if (((f+2) < this.fields.length) && YEAR_ANNOTATION_TYPE.equals(this.fields[f].name) && PUBLICATION_DATE_ANNOTATION_TYPE.equals(this.fields[f+1].name) && PAGINATION_ANNOTATION_TYPE.equals(this.fields[f+2].name)) {
 				gbc.gridx = 0;
 				gbc.gridwidth = 1;
 				gbc.weightx = 0;
@@ -221,6 +224,34 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 				gbc.gridwidth = 1;
 				gbc.weightx = 1;
 				this.add(this.fields[f].getValueInput(), gbc.clone());
+				f++;
+				gbc.gridx = 4;
+				gbc.gridwidth = 1;
+				gbc.weightx = 0;
+				this.add(this.fields[f].label, gbc.clone());
+				gbc.gridx = 5;
+				gbc.gridwidth = 1;
+				gbc.weightx = 1;
+				this.add(this.fields[f].getValueInput(), gbc.clone());
+			}
+			else if (((f+1) < this.fields.length) && YEAR_ANNOTATION_TYPE.equals(this.fields[f].name) && PAGINATION_ANNOTATION_TYPE.equals(this.fields[f+1].name)) {
+				gbc.gridx = 0;
+				gbc.gridwidth = 1;
+				gbc.weightx = 0;
+				this.add(this.fields[f].label, gbc.clone());
+				gbc.gridx = 1;
+				gbc.gridwidth = 2;
+				gbc.weightx = 1;
+				this.add(this.fields[f].getValueInput(), gbc.clone());
+				f++;
+				gbc.gridx = 3;
+				gbc.gridwidth = 1;
+				gbc.weightx = 0;
+				this.add(this.fields[f].label, gbc.clone());
+				gbc.gridx = 4;
+				gbc.gridwidth = 2;
+				gbc.weightx = 1;
+				this.add(this.fields[f].getValueInput(), gbc.clone());
 			}
 			else {
 				gbc.gridx = 0;
@@ -228,7 +259,7 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 				gbc.weightx = 0;
 				this.add(this.fields[f].label, gbc.clone());
 				gbc.gridx = 1;
-				gbc.gridwidth = 3;
+				gbc.gridwidth = 5;
 				gbc.weightx = 1;
 				this.add(this.fields[f].getValueInput(), gbc.clone());
 			}
