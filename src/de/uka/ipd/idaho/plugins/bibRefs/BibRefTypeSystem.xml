@@ -10,6 +10,7 @@
 		<constraint exclude="volume issue numero" message="Books don't have a volume, issue, or numero."/>
 		<constraint exclude="volumeTitle" message="Books don't have a volume title."/>
 		<constraint exclude="editor" message="Books don't have editors, make them authors."/>
+		<constraint condition="(./@pubDate and not(matches(./@pubDate, '[12][0-9]{3}\-((0[1-9])|(1[0-2]))\-((0[1-9])|([12][0-9])|(3[01]))')))" message="If specified, publication date has to be 'YYYY-MM-DD'."/>
 	  	<originTemplate>
 			<xsl:call-template name="locationAndPublisherOrigin"/>
 	  	</originTemplate>
@@ -33,6 +34,7 @@
 		<constraint condition="(contains(./@pagination, '-') and (normalize-space(substring-before(./@pagination, '-')) > normalize-space(substring-after(./@pagination, '-'))))" message="Pagination is invalid, first page has to be less than last."/>
 		<constraint exclude="journal" message="Books chapters don't have a journal name."/>
 		<constraint exclude="volume issue numero" message="Books chapters don't have a volume, issue, or numero."/>
+		<constraint condition="(./@pubDate and not(matches(./@pubDate, '[12][0-9]{3}\-((0[1-9])|(1[0-2]))\-((0[1-9])|([12][0-9])|(3[01]))')))" message="If specified, publication date has to be 'YYYY-MM-DD'."/>
 	  	<originTemplate>
 			<xsl:value-of select="./volumeTitle"/>, <xsl:call-template name="locationAndPublisherOrigin"/>
 	  	</originTemplate>
@@ -64,6 +66,7 @@
 		<constraint exclude="volume issue numero" message="Proceedings don't have a volume, issue, or numero."/>
 		<constraint exclude="volumeTitle" message="Proceedings don't have a volume title."/>
 		<constraint exclude="editor" message="Proceedings don't have editors, make them authors."/>
+		<constraint condition="(./@pubDate and not(matches(./@pubDate, '[12][0-9]{3}\-((0[1-9])|(1[0-2]))\-((0[1-9])|([12][0-9])|(3[01]))')))" message="If specified, publication date has to be 'YYYY-MM-DD'."/>
 	  	<originTemplate>
 			<xsl:call-template name="locationAndPublisherOrigin"/>
 	  	</originTemplate>
@@ -87,6 +90,7 @@
 		<constraint condition="(contains(./@pagination, '-') and (normalize-space(substring-before(./@pagination, '-')) > normalize-space(substring-after(./@pagination, '-'))))" message="Pagination is invalid, first page has to be less than last."/>
 		<constraint exclude="journal" message="Proceedings papers don't have a journal name."/>
 		<constraint exclude="volume issue numero" message="Proceedings papers don't have a volume, issue, or numero."/>
+		<constraint condition="(./@pubDate and not(matches(./@pubDate, '[12][0-9]{3}\-((0[1-9])|(1[0-2]))\-((0[1-9])|([12][0-9])|(3[01]))')))" message="If specified, publication date has to be 'YYYY-MM-DD'."/>
 		<constraint exclude="bookContentInfo" message="Proceedings papers don't have content info."/>
 	  	<originTemplate>
 			<xsl:value-of select="./volumeTitle"/><xsl:if test="./location or ./publisher or ./journalOrPublisher">, <xsl:call-template name="locationAndPublisherOrigin"/></xsl:if>
@@ -118,6 +122,7 @@
 		<constraint require="volume issue numero" pattern="[1-9][0-9]*" message="Volume, issue, and numero are missing or invalid."/>
 		<constraint exclude="pagination"/>
 		<constraint condition="(not(./@title) and ./@editor)" message="Only special issues have editors."/>
+		<constraint condition="(./@pubDate and not(matches(./@pubDate, '[12][0-9]{3}\-((0[1-9])|(1[0-2]))\-((0[1-9])|([12][0-9])|(3[01]))')))" message="If specified, publication date has to be 'YYYY-MM-DD'."/>
 	  	<originTemplate>
 			<xsl:call-template name="journalOrigin"/>
 	  	</originTemplate>
@@ -131,6 +136,11 @@
 				</mods:titleInfo>
 				<mods:part>
 					<mods:date><xsl:value-of select="./year"/></mods:date>
+					<xsl:if test="./pubDate">
+						<mods:detail type="pubDate">
+							<mods:number><xsl:value-of select="./pubDate"/></mods:number>
+						</mods:detail>
+					</xsl:if>
 					<xsl:call-template name="partDesignator"/>
 				</mods:part>
 			</mods:relatedItem>
@@ -147,6 +157,7 @@
 		<constraint require="pagination" pattern="([1-9][0-9]{0,6})(\s*\-+\s*[1-9][0-9]*)?"/>
 		<constraint condition="(contains(./@pagination, '-') and (normalize-space(substring-before(./@pagination, '-')) > normalize-space(substring-after(./@pagination, '-'))))" message="Pagination is invalid, first page has to be less than last."/>
 		<constraint condition="(not(./@volumeTitle) and ./@editor)" message="Only special issues have editors."/>
+		<constraint condition="(./@pubDate and not(matches(./@pubDate, '[12][0-9]{3}\-((0[1-9])|(1[0-2]))\-((0[1-9])|([12][0-9])|(3[01]))')))" message="If specified, publication date has to be 'YYYY-MM-DD'."/>
 		<constraint exclude="bookContentInfo" message="Journal articles don't have content info."/>
 	  	<originTemplate>
 			<xsl:choose>
@@ -165,6 +176,11 @@
 				<xsl:call-template name="editors"/>
 				<mods:part>
 					<mods:date><xsl:value-of select="./year"/></mods:date>
+					<xsl:if test="./pubDate">
+						<mods:detail type="pubDate">
+							<mods:number><xsl:value-of select="./pubDate"/></mods:number>
+						</mods:detail>
+					</xsl:if>
 					<xsl:if test="./volumeTitle">
 						<mods:detail type="title">
 							<mods:title><xsl:value-of select="./volumeTitle"/></mods:title>
@@ -190,9 +206,14 @@
 		<!--constraint exclude="publisher" message="URLs don't have a publisher."/-->
 		<!--constraint exclude="journalOrPublisher" message="URLs don't have a journal name or publisher."/-->
 		<constraint exclude="bookContentInfo" message="Websites don't have content info."/>
+		<constraint exclude="pubDate" message="Websites don't have a date of publication."/>
+		<constraint condition="(./@accessDate and not(matches(./@accessDate, '[12][0-9]{3}\-((0[1-9])|(1[0-2]))\-((0[1-9])|([12][0-9])|(3[01]))')))" message="If specified, access date has to be 'YYYY-MM-DD'."/>
 	  	<originTemplate>
-			<xsl:value-of select="./publicationUrl"/>
-	  	</originTemplate>
+			<xsl:choose>
+				<xsl:when test="./accessDate"><xsl:value-of select="./publicationUrl"/> (accessed <xsl:value-of select="./accessDate"/>)</xsl:when>
+				<xsl:otherwise><xsl:value-of select="./publicationUrl"/></xsl:otherwise>
+			</xsl:choose>
+		</originTemplate>
 	  	<modsTemplate>
 			<xsl:call-template name="title"/>
 			<xsl:call-template name="authors"/>
@@ -223,6 +244,8 @@
 	<xsl:template name="originInfo">
 		<mods:originInfo>
 			<xsl:if test="./year"><mods:dateIssued><xsl:value-of select="./year"/></mods:dateIssued></xsl:if>
+			<xsl:if test="./pubDate"><mods:dateOther type="pubDate"><xsl:value-of select="./pubDate"/></mods:dateCreated></xsl:if>
+			<xsl:if test="./accessDate"><mods:dateCaptured><xsl:value-of select="./accessDate"/></mods:dateCaptured></xsl:if>
 			<xsl:if test="./publisher"><mods:publisher><xsl:value-of select="./publisher"/></mods:publisher></xsl:if>
 			<xsl:if test="./location">
 				<mods:place>

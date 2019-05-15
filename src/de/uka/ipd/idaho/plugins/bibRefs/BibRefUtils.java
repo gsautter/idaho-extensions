@@ -838,7 +838,7 @@ public class BibRefUtils implements BibRefConstants {
 	private static void extractDetails(QueriableAnnotation data, String type, GPath path, RefData rd) {
 		Annotation[] details = path.evaluate(data, null);
 		for (int d = 0; d < details.length; d++) {
-			rd.addAttribute(type, TokenSequenceUtils.concatTokens(details[d], true, true));
+			rd.addAttribute(type, TokenSequenceUtils.concatTokens(details[d], !PUBLICATION_DATE_ANNOTATION_TYPE.equals(type), true));
 			if (TITLE_ANNOTATION_TYPE.equals(type))
 				break;
 		}
@@ -859,6 +859,7 @@ public class BibRefUtils implements BibRefConstants {
 	private static final GPath hostItem_startPagePath = new GPath("//part/extent[./@unit = 'page']/start");
 	private static final GPath hostItem_endPagePath = new GPath("//part/extent[./@unit = 'page']/end");
 	private static final GPath hostItem_datePath = new GPath("//part/date");
+	private static final GPath hostItem_pubDatePath = new GPath("//part/detail[./@type = 'pubDate']/number");
 	private static final GPath hostItem_editorsPath = new GPath("//name[.//roleTerm = 'Editor']/namePart");
 	
 	private static final GPath hostItem_volumePath = new GPath("//part/detail[./@type = 'volume']/number");
@@ -869,6 +870,8 @@ public class BibRefUtils implements BibRefConstants {
 	private static final GPath originInfo_publisherNamePath = new GPath("//publisher");
 	private static final GPath originInfo_publisherLocationPath = new GPath("//place/placeTerm");
 	private static final GPath originInfo_issueDatePath = new GPath("//dateIssued");
+	private static final GPath originInfo_pubDatePath = new GPath("//dateOther[./@type = 'pubDate']");
+	private static final GPath originInfo_accessDatePath = new GPath("//dateCaptured");
 	
 	private static LinkedHashMap baseDetailPathsByType = new LinkedHashMap();
 	static {
@@ -880,6 +883,7 @@ public class BibRefUtils implements BibRefConstants {
 	static {
 		hostItemDetailPathsByType.put(PART_DESIGNATOR_ANNOTATION_TYPE, hostItem_volumeNumberPath);
 		hostItemDetailPathsByType.put(YEAR_ANNOTATION_TYPE, hostItem_datePath);
+		hostItemDetailPathsByType.put(PUBLICATION_DATE_ANNOTATION_TYPE, hostItem_pubDatePath);
 		hostItemDetailPathsByType.put(EDITOR_ANNOTATION_TYPE, hostItem_editorsPath);
 		hostItemDetailPathsByType.put("hostTitle", hostItem_titlePath);
 		hostItemDetailPathsByType.put("hostVolumeTitle", hostItem_volumeTitlePath);
@@ -892,6 +896,8 @@ public class BibRefUtils implements BibRefConstants {
 	private static LinkedHashMap originInfoDetailPathsByType = new LinkedHashMap();
 	static {
 		originInfoDetailPathsByType.put(YEAR_ANNOTATION_TYPE, originInfo_issueDatePath);
+		originInfoDetailPathsByType.put(PUBLICATION_DATE_ANNOTATION_TYPE, originInfo_pubDatePath);
+		originInfoDetailPathsByType.put(ACCESS_DATE_ANNOTATION_TYPE, originInfo_accessDatePath);
 		originInfoDetailPathsByType.put(PUBLISHER_ANNOTATION_TYPE, originInfo_publisherNamePath);
 		originInfoDetailPathsByType.put(LOCATION_ANNOTATION_TYPE, originInfo_publisherLocationPath);
 	}
@@ -1069,6 +1075,8 @@ public class BibRefUtils implements BibRefConstants {
 	private static final String[] refDataAttributeNames = {
 		AUTHOR_ANNOTATION_TYPE,
 		YEAR_ANNOTATION_TYPE,
+		PUBLICATION_DATE_ANNOTATION_TYPE,
+		ACCESS_DATE_ANNOTATION_TYPE,
 		TITLE_ANNOTATION_TYPE,
 		JOURNAL_NAME_ANNOTATION_TYPE,
 		PUBLISHER_ANNOTATION_TYPE,
@@ -1087,6 +1095,8 @@ public class BibRefUtils implements BibRefConstants {
 	private static final String[] genericAttributeNames = {
 		AUTHOR_ANNOTATION_TYPE,
 		YEAR_ANNOTATION_TYPE,
+		PUBLICATION_DATE_ANNOTATION_TYPE,
+		ACCESS_DATE_ANNOTATION_TYPE,
 		TITLE_ANNOTATION_TYPE,
 		VOLUME_DESIGNATOR_ANNOTATION_TYPE,
 		ISSUE_DESIGNATOR_ANNOTATION_TYPE,

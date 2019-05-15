@@ -346,12 +346,13 @@ public class TaxonomicRankSystem {
 			String rsn = ((String) rit.next());
 			rankSystemNameSynonyms.setProperty(rankSystemNamesToDomains.getProperty(rsn).toLowerCase(), rsn.toLowerCase());
 		}
+		rankSystemNameSynonyms.setProperty("ICBN".toLowerCase(), "plantae".toLowerCase());
 	}
 	
 	/**
 	 * Retrieve the names of the available rank systems. Client code may freely
 	 * modify the returned array, as a new one is allocated and filled for each
-	 * invokation of this method.
+	 * invocation of this method.
 	 * @return an array holding the rank system names
 	 */
 	public static String[] getRankSystemNames() {

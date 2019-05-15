@@ -38,6 +38,9 @@
 	<property name="jar.imaging" value="${dist.home}/GamtaImagingAPI.jar" />
 	
 	<!-- path to the .jar file that shall be created -->
+	<property name="jar.errorlog" value="${dist.home}/DocumentErrorLogging.jar" />
+	
+	<!-- path to the .jar file that shall be created -->
 	<property name="jar.imganalyzers" value="${dist.home}/ImageAnalyzers.jar" />
 	
 	<!-- path to the .jar file that shall be created -->
@@ -63,6 +66,9 @@
 	
 	<!-- path to the .jar file that shall be created -->
 	<property name="jar.abbrevutils" value="${dist.home}/AbbreviationUtils.jar" />
+	
+	<!-- path to the .jar file that shall be created -->
+	<property name="jar.nameutils" value="${dist.home}/ProperNameUtils.jar" />
 	
 	<!-- path to the .jar file that shall be created -->
 	<property name="jar.tableutils" value="${dist.home}/TableUtils.jar" />

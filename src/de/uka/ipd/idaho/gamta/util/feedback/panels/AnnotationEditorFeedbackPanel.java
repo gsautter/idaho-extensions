@@ -537,6 +537,7 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 		}
 	}
 	
+	private static final boolean DEBUG_CONTEXT_MENU = true;
 	private class AnnotationDetailEditor extends JPanel {
 		private MutableAnnotation annotation;
 		private AnnotationDetailEditorToken[] tokens;
@@ -568,10 +569,14 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 			//	init context menu
 			this.annotationDisplay.addMouseListener(new MouseAdapter() {
 				public void mouseClicked(MouseEvent me) {
+					if (DEBUG_CONTEXT_MENU) System.out.println("ADE: mouse clicked at " + me.getPoint());
+					if (DEBUG_CONTEXT_MENU) System.out.println(" - button is " + me.getButton());
 					if (me.getButton() != MouseEvent.BUTTON1)
 						displayContextMenu(me);
 				}
 				public void mouseReleased(MouseEvent me) {
+					if (DEBUG_CONTEXT_MENU) System.out.println("ADE: mouse released at " + me.getPoint());
+					if (DEBUG_CONTEXT_MENU) System.out.println(" - button is " + me.getButton());
 					if (me.getButton() == MouseEvent.BUTTON1)
 						activePanel = AnnotationDetailEditor.this;
 				}
@@ -632,10 +637,12 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 		}
 		
 		void displayContextMenu(MouseEvent me) {
+			if (DEBUG_CONTEXT_MENU) System.out.println("ADE: preparing context menu at " + me.getPoint());
 			
 			//	get offsets
 			int startOffset = this.annotationDisplay.getSelectionStart();
 			int endOffset = this.annotationDisplay.getSelectionEnd();
+			if (DEBUG_CONTEXT_MENU) System.out.println(" - selection is " + startOffset + "-" + endOffset);
 			
 			//	compute indices
 			final int start;
@@ -645,8 +652,12 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 			if (startOffset == endOffset) {
 				start = this.indexAtOffset(startOffset, true);
 				end = this.indexAtOffset(endOffset, false);
-				if (start != end)
+				if (DEBUG_CONTEXT_MENU) System.out.println(" - translates to " + start + "-" + end);
+				if (start != end) {
+					if (DEBUG_CONTEXT_MENU) System.out.println(" ==> invalid");
 					return;
+				}
+				if (DEBUG_CONTEXT_MENU) System.out.println(" ==> valid");
 			}
 			
 			//	some selection
@@ -657,13 +668,18 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 					int temp = endOffset;
 					endOffset = startOffset;
 					startOffset = temp;
+					if (DEBUG_CONTEXT_MENU) System.out.println(" - inverted to " + startOffset + "-" + endOffset);
 				}
 				
 				//	get indices
 				start = this.indexAtOffset(startOffset, true);
 				end = this.indexAtOffset(endOffset, false);
-				if (end < start)
+				if (DEBUG_CONTEXT_MENU) System.out.println(" - translates to " + start + "-" + end);
+				if (end < start) {
+					if (DEBUG_CONTEXT_MENU) System.out.println(" ==> invalid");
 					return;
+				}
+				if (DEBUG_CONTEXT_MENU) System.out.println(" ==> valid");
 			}
 			
 			int aCount = 0;
@@ -686,6 +702,13 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 					if (START.equals(this.tokens[t].state) && type.equals(this.tokens[t].type))
 						sameTypeCount ++;
 				}
+			if (DEBUG_CONTEXT_MENU) {
+				System.out.println(" - annotation count is " + aCount);
+				System.out.println(" - annotation type is " + aType);
+				System.out.println(" - 'other' selected is " + gotOther);
+				System.out.println(" - 'sameType' selected is " + sameType);
+				System.out.println(" - 'sameType' count is " + sameTypeCount);
+			}
 			
 			JPopupMenu pm = new JPopupMenu();
 			JMenuItem mi;
@@ -897,9 +920,13 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 					pm.add(mi);
 				}
 			}
+			if (DEBUG_CONTEXT_MENU) System.out.println(" - menu component count is " + pm.getComponentCount());
 			
-			if (pm.getComponentCount() != 0)
+			if (pm.getComponentCount() != 0) {
+				if (DEBUG_CONTEXT_MENU) System.out.println(" ==> showing context menu");
 				pm.show(this.annotationDisplay, me.getX(), me.getY());
+			}
+			else if (DEBUG_CONTEXT_MENU) System.out.println(" ==> nothing to show");
 		}
 		
 		private int findStart(int start) {

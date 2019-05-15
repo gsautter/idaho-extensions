@@ -38,21 +38,12 @@
 	</rankGroup>
 	<rankGroup name="genus">
 		<rank name="genus" abbreviations="gen."/>
-		<rank name="subGenus" abbreviations="subgen." epithetTemplate="(@epithet)"/>
-		<rank name="infraGenus" abbreviations="infragen." epithetTemplate="(@epithet)"/>
-		<rank name="section" abbreviations="sect." epithetTemplate="(sect. @epithet)"/>
-		<rank name="subSection" abbreviations="subsect." epithetTemplate="(subsect. @epithet)"/>
-		<rank name="series" abbreviations="ser." epithetTemplate="(ser. @epithet)"/>
-		<rank name="subSeries" abbreviations="subser." epithetTemplate="(subser. @epithet)"/>
+		<rank name="subGenus" abbreviations="subg.;subgen." epithetTemplate="(@epithet)"/>
 	</rankGroup>
 	<rankGroup name="species">
 		<rank name="speciesAggregate" abbreviations="aggr."/>
 		<rank name="species" abbreviations="sp.;spec."/>
 		<rank name="subSpecies" abbreviations="ssp.;subsp.;subspec." epithetTemplate="subsp. @epithet"/>
-		<rank name="infraSpecies" abbreviations="infrasp.;infraspec."/>
 		<rank name="variety" abbreviations="var.;v." epithetTemplate="var. @epithet"/>
-		<rank name="subVariety" abbreviations="svar.;subvar.;subv." epithetTemplate="subvar. @epithet"/>
-		<rank name="form" abbreviations="fm.;f." epithetTemplate="fm. @epithet"/>
-		<rank name="subForm" abbreviations="subfm.;subf." epithetTemplate="subfm. @epithet"/>
 	</rankGroup>
 </rankSystem>

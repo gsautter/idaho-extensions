@@ -27,6 +27,7 @@
  */
 package de.uka.ipd.idaho.plugins.taxonomicNames;
 
+import java.io.StringReader;
 import java.util.Iterator;
 import java.util.Properties;
 import java.util.regex.Matcher;
@@ -34,8 +35,10 @@ import java.util.regex.Pattern;
 
 import de.uka.ipd.idaho.gamta.Annotation;
 import de.uka.ipd.idaho.gamta.AnnotationUtils;
+import de.uka.ipd.idaho.gamta.MutableAnnotation;
 import de.uka.ipd.idaho.gamta.QueriableAnnotation;
 import de.uka.ipd.idaho.gamta.TokenSequenceUtils;
+import de.uka.ipd.idaho.gamta.util.SgmlDocumentReader;
 import de.uka.ipd.idaho.plugins.taxonomicNames.TaxonomicRankSystem.Rank;
 
 /**
@@ -745,12 +748,19 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 			return null;
 		String rank = taxonName.getRank();
 		String mostSigEpithet = taxonName.getEpithet(rank);
+		if (mostSigEpithet == null)
+			return null; // whatever might be wrong here ...
 		int authorityStartIndex = (TokenSequenceUtils.indexOf(taxonNameAnnot, mostSigEpithet, false) + 1);
 		if (authorityStartIndex < 1)
 			return null; // most significant epithet not found, little we can do ...
 		if (authorityStartIndex == taxonNameAnnot.size())
 			return null; // most significant epithet at very end, no authority given
-		return TokenSequenceUtils.concatTokens(taxonNameAnnot, authorityStartIndex, (taxonNameAnnot.size() - authorityStartIndex), true, true);
+		String verbatimAuthority = TokenSequenceUtils.concatTokens(taxonNameAnnot, authorityStartIndex, (taxonNameAnnot.size() - authorityStartIndex), true, true);
+		while (verbatimAuthority.startsWith(")") || verbatimAuthority.startsWith("]"))
+			verbatimAuthority = verbatimAuthority.substring("(".length()).trim(); // eliminate any leading _closing_ parentheses (can remain from subGenus, section, or subSection epithet ...
+		verbatimAuthority = verbatimAuthority.replaceAll("\\(\\s+", "(");
+		verbatimAuthority = verbatimAuthority.replaceAll("\\s+\\)", ")");
+		return verbatimAuthority;
 	}
 	
 	/**
@@ -784,7 +794,7 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 			return null;
 		if (!verbatimAuthority.startsWith("("))
 			return verbatimAuthority; // all we have is the current combination authority
-		if (verbatimAuthority.matches(".*\\)\\s*[12][0-9]{3}"))
+		if (verbatimAuthority.matches(".*\\)\\s*[12][0-9]{3}(\\s?[a-f])?"))
 			return null; // treat '(<name>) <year>' just like '(<name>, <year>)'
 		int[] parenthesisDepths = getCharacterParenthesisDepths(verbatimAuthority);
 		for (int c = 0; c < verbatimAuthority.length(); c++) {
@@ -825,7 +835,7 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 			return null;
 		if (!verbatimAuthority.startsWith("("))
 			return null; // all we have is the combination authority
-		if (verbatimAuthority.matches(".*\\)\\s*[12][0-9]{3}")) {
+		if (verbatimAuthority.matches(".*\\)\\s*[12][0-9]{3}(\\s?[a-f])?")) {
 			int parenthesesEnd = verbatimAuthority.lastIndexOf(')'); // convert '(<name>) <year>' into '(<name>, <year>)'
 			return (verbatimAuthority.substring(0, parenthesesEnd).trim() + ", " + verbatimAuthority.substring(parenthesesEnd + ")".length()).trim() + ")");
 		}
@@ -892,7 +902,7 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		//	find and remove (last) year
 		for (Matcher ym = yearPattern.matcher(authority); ym.find();) {
 			authorityYear = ym.group();
-			authorityName = truncatePunctuation(authority.substring(0, ym.start()));
+			authorityName = truncatePunctuation(authority.substring(0, ym.start()).trim());
 		}
 		
 		//	no year give, use all we have
@@ -915,16 +925,6 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		return authority;
 	}
 	
-	/* TODO use these new methods in:
-	 * - TreeFAT
-	 * - AuthorityAugmenter
-	 * - DwC-A exporter
-	 */
-	
-	//	TODO add in-depth authority handling (except augmentation) to TreeFAT, setting all the above attributes
-	
-	//	TODO augment both authority and baseAuthority in AuthorityAugmenter
-	
 	private static int[] getCharacterParenthesisDepths(String str) {
 		int[] parenthesisDepths = new int[str.length()];
 		int parenthesisDepth = 0;
@@ -939,8 +939,23 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		return parenthesisDepths;
 	}
 	
-//	//	TEST ONLY !!!
-//	public static void main(String[] args) throws Exception {
+	//	TEST ONLY !!!
+	public static void main(String[] args) throws Exception {
+//		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis (Clement, 1924)</taxonomicName>"));
+		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis (Clement) 1924</taxonomicName>"));
+//		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis Clement, 1924</taxonomicName>"));
+//		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis Clement (1924)</taxonomicName>"));
+//		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis (Clement, 1924) Agosti, 2017</taxonomicName>"));
+//		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis (Clement, 1924) Agosti (2017)</taxonomicName>"));
+//		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis (Clement (1924)) Agosti (2017)</taxonomicName>"));
+//		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis (Imag &amp; Inary ex Clement (1924)) Agosti (2017)</taxonomicName>"));
+		Annotation taxonName = doc.getAnnotations(TAXONOMIC_NAME_ANNOTATION_TYPE)[0];
+		System.out.println(getVerbatimAuthority(null, taxonName));
+		System.out.println(getCombinationAuthority(null, taxonName));
+		System.out.println(" ==> " + parseAuthority(getCombinationAuthority(null, taxonName)));
+		System.out.println(getBasionymAuthority(null, taxonName));
+		System.out.println(" ==> " + parseAuthority(getBasionymAuthority(null, taxonName)));
+		
 //		TaxonomicName taxName = new TaxonomicName("animalia");
 //		taxName.setEpithet("genus", "Drosiphila");
 //		taxName.setEpithet("subGenus", "Morrisia");
@@ -959,5 +974,5 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 //		taxName = dwcXmlToTaxonomicName(SgmlDocumentReader.readDocument(new StringReader(dwcXml)), "animalia"); 
 //		System.out.println(taxName.toString());
 //		System.out.println(taxName.toString(true));
-//	}
+	}
 }

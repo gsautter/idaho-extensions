@@ -744,8 +744,8 @@ public abstract class FeedbackPanel extends JPanel implements Scrollable {
 				width = Math.min(width + 50, maxWidth); // add for scroll bar
 				height = Math.min(height, maxHeight);
 				if (DEBUG) System.out.println("  - dialog content produced");
-			
-			
+				
+				
 				//	set dialog size
 				dialog.pack();
 				dialog.setSize(width, height);

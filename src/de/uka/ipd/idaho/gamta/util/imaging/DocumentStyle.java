@@ -30,6 +30,7 @@ package de.uka.ipd.idaho.gamta.util.imaging;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Enumeration;
+import java.util.HashMap;
 import java.util.Map;
 import java.util.Properties;
 import java.util.Set;
@@ -198,6 +199,364 @@ public class DocumentStyle extends Properties {
 		else return listClass;
 	}
 	
+	/**
+	 * Descriptor object for a group of document style parameters, i.e., all
+	 * parameters that share the same name right up to and including the last
+	 * period. This class enables consumers of such parameter groups to provide
+	 * labels, explanations, and custom testing facilities for the parameters
+	 * they use, for instance in order to augment editing facilities with more
+	 * user friendly information about the semantics of the parameters and
+	 * parameter groups they use.<br/>
+	 * Attention: some parameter groups might be used by multiple consumers. In
+	 * such cases, the code providing a parameter group description should check
+	 * for any existing descriptions to augment first.
+	 * 
+	 * @author sautter
+	 */
+	public static class ParameterGroupDescription {
+		
+		/** the prefix shared between all parameter names in the group, _excluding_ the terminal period */
+		public final String parameterNamePrefix;
+		
+		private String label;
+		private String description;
+		
+		private HashMap parameterNamesToDescriptions = new HashMap();
+		
+		/** Constructor
+		 * @param pnp the prefix shared between all parameter names in the group
+		 */
+		public ParameterGroupDescription(String pnp) {
+			this.parameterNamePrefix = pnp;
+		}
+		
+		/**
+		 * Retrieve the label of the parameter group.
+		 * @return the label
+		 */
+		public String getLabel() {
+			return this.label;
+		}
+		
+		/**
+		 * Provide a label for the parameter group, e.g. for displaying in a UI.
+		 * @param label the label to set
+		 */
+		public void setLabel(String label) {
+			this.label = label;
+		}
+		
+		/**
+		 * Retrieve the description of the parameter group.
+		 * @return the description
+		 */
+		public String getDescription() {
+			return this.description;
+		}
+		
+		/**
+		 * Provide a description for the parameter group, e.g. for displaying
+		 * in a UI.
+		 * @param description the description to set
+		 */
+		public void setDescription(String description) {
+			this.description = description;
+		}
+		
+		/**
+		 * Retrieve the names of the parameters currently described in this
+		 * group description.
+		 * @return an array holding the parameter names
+		 */
+		public String[] getParameterNames() {
+			return ((String[]) this.parameterNamesToDescriptions.keySet().toArray(new String[this.parameterNamesToDescriptions.size()]));
+		}
+		
+		/**
+		 * Retrieve the description for a parameter in the group. The argument
+		 * name has to be without the group prefix.
+		 * @param pn the name of the parameter to obtain the label for
+		 * @return the description for the argument parameter
+		 */
+		public ParameterDescription getParameterDescription(String pn) {
+			pn = pn.substring(pn.lastIndexOf(".") + ".".length());
+			return this.getParameterDescription(pn, false);
+		}
+		
+		/**
+		 * Provide a description for a parameter in the group, e.g. for displaying
+		 * in a UI. The argument name has to be without the group prefix.
+		 * @param pn the name of the parameter to set the label for
+		 * @param pd the description for the argument parameter
+		 */
+		public void setParameterDescription(String pn, ParameterDescription pd) {
+			String lpn = pn.substring(pn.lastIndexOf(".") + ".".length());
+			if (pd == null) {
+				this.parameterNamesToDescriptions.remove(lpn);
+				return;
+			}
+			ParameterDescription epd = this.getParameterDescription(pn, false);
+			this.parameterNamesToDescriptions.put(pn, pd);
+			if (epd == null)
+				return;
+			if (pd.getLabel() == null)
+				pd.setLabel(epd.getLabel());
+			if (pd.getDescription() == null)
+				pd.setDescription(epd.getDescription());
+			if (pd.getValues() == null)
+				pd.setValues(epd.getValues());
+			String[] pdValues = pd.getValues();
+			if (pdValues == null)
+				return;
+			for (int v = 0; v < pdValues.length; v++) {
+				if (pd.getValueLabel(pdValues[v]) == null)
+					pd.setValueLabel(pdValues[v], epd.getValueLabel(pdValues[v]));
+			}
+		}
+		
+		private ParameterDescription getParameterDescription(String pn, boolean create) {
+			ParameterDescription pd = ((ParameterDescription) this.parameterNamesToDescriptions.get(pn));
+			if ((pd == null) && create) {
+				pd = new ParameterDescription(this.parameterNamePrefix + "." + pn);
+				this.parameterNamesToDescriptions.put(pn, pd);
+			}
+			return pd;
+		}
+		
+		/**
+		 * Retrieve the label for a parameter in the group. The argument name
+		 * has to be without the group prefix.
+		 * @param pn the name of the parameter to obtain the label for
+		 * @return the label for the argument parameter
+		 */
+		public String getParamLabel(String pn) {
+			ParameterDescription pd = this.getParameterDescription(pn, false);
+			return ((pd == null) ? null : pd.getLabel());
+		}
+		
+		/**
+		 * Provide a label for a parameter in the group, e.g. for displaying
+		 * in a UI. The argument name has to be without the group prefix.
+		 * @param pn the name of the parameter to set the label for
+		 * @param label the label for the argument parameter
+		 */
+		public void setParamLabel(String pn, String label) {
+			ParameterDescription pd = this.getParameterDescription(pn, (label != null));
+			if (pd != null)
+				pd.setLabel(label);
+		}
+		
+		/**
+		 * Retrieve the description for a parameter in the group. The argument
+		 * name has to be without the group prefix.
+		 * @param pn the name of the parameter to obtain the label for
+		 * @return the description for the argument parameter
+		 */
+		public String getParamDescription(String pn) {
+			ParameterDescription pd = this.getParameterDescription(pn, false);
+			return ((pd == null) ? null : pd.getDescription());
+		}
+		
+		/**
+		 * Provide a description for a parameter in the group, e.g. for displaying
+		 * in a UI. The argument name has to be without the group prefix.
+		 * @param pn the name of the parameter to set the label for
+		 * @param description the description for the argument parameter
+		 */
+		public void setParamDescription(String pn, String description) {
+			ParameterDescription pd = this.getParameterDescription(pn, (description != null));
+			if (pd != null)
+				pd.setDescription(description);
+		}
+		
+		/**
+		 * Retrieve a list of permitted values for a parameter in the group.
+		 * This is particularly useful if there are only few meaningful values.
+		 * The argument name has to be without the group prefix.
+		 * @param pn the name of the parameter to obtain the label for
+		 * @return the values for the argument parameter
+		 */
+		public String[] getParamValues(String pn) {
+			ParameterDescription pd = this.getParameterDescription(pn, false);
+			return ((pd == null) ? null : pd.getValues());
+		}
+		
+		/**
+		 * Provide a list of permitted values for a parameter in the group,
+		 * e.g. for displaying a selection in a UI. This is particularly useful
+		 * if there are only few meaningful values. The argument name has to be
+		 * without the group prefix.
+		 * @param pn the name of the parameter to set the label for
+		 * @param values the values for the argument parameter
+		 */
+		public void setParamValues(String pn, String[] values) {
+			ParameterDescription pd = this.getParameterDescription(pn, (values != null));
+			if (pd != null)
+				pd.setValues(values);
+		}
+		
+		/**
+		 * Retrieve the label for a specific value of a parameter in the group.
+		 * The argument parameter name has to be without the group prefix.
+		 * @param pn the name of the parameter to obtain the label for
+		 * @param pv the parameter value to obtain the label for
+		 * @return the label for the argument parameter
+		 */
+		public String getParamValueLabel(String pn, String pv) {
+			ParameterDescription pd = this.getParameterDescription(pn, false);
+			return ((pd == null) ? null : pd.getValueLabel(pv));
+		}
+		
+		/**
+		 * Provide a label for a specific value of a parameter in the group,
+		 * e.g. for displaying in a UI. The argument name has to be without the
+		 * group prefix.
+		 * @param pn the name of the parameter to set the label for
+		 * @param pv the parameter value to obtain the label for
+		 * @param label the label for the argument parameter
+		 */
+		public void setParamValueLabel(String pn, String pv, String label) {
+			ParameterDescription pd = this.getParameterDescription(pn, (label != null));
+			if (pd != null)
+				pd.setValueLabel(pv, label);
+		}
+	}
+	
+	/**
+	 * Descriptor object for an individual document style parameters. This
+	 * class enables consumers of these parameters to provide labels,
+	 * explanations, and custom testing facilities for the parameters they use,
+	 * for instance in order to augment editing facilities with more user
+	 * friendly information about the semantics of the parameters they use.<br/>
+	 * Attention: some parameters might be used by multiple consumers. In such
+	 * cases, the code providing a parameter description should check for any
+	 * existing descriptions to augment first.
+	 * 
+	 * @author sautter
+	 */
+	public static class ParameterDescription {
+		
+		/** the full name of the parameter, including the prefix */
+		public final String fullName;
+		
+		/** the group-local name of the parameter, excluding the prefix */
+		public final String localName;
+		
+		private String label;
+		private String description;
+		
+		private String[] values = null;
+		private Properties valuesToLabels = new Properties();
+		
+		/** Constructor
+		 * @param fpn the full name of the parameter, including the prefix
+		 */
+		public ParameterDescription(String fpn) {
+			this.fullName = fpn;
+			this.localName = this.fullName.substring(this.fullName.lastIndexOf(".") + ".".length());
+		}
+		
+		/**
+		 * Retrieve the label of the parameter.
+		 * @return the label
+		 */
+		public String getLabel() {
+			return this.label;
+		}
+		
+		/**
+		 * Provide a label for the parameter, e.g. for displaying in a UI.
+		 * @param label the label to set
+		 */
+		public void setLabel(String label) {
+			this.label = label;
+		}
+		
+		/**
+		 * Retrieve the description of the parameter.
+		 * @return the description
+		 */
+		public String getDescription() {
+			return this.description;
+		}
+		
+		/**
+		 * Provide a description for the parameter, e.g. for displaying in a UI.
+		 * @param description the description to set
+		 */
+		public void setDescription(String description) {
+			this.description = description;
+		}
+		
+		/**
+		 * Retrieve a list of permitted values for the parameter. This is
+		 * particularly useful if there are only few meaningful values.
+		 * @return the values for the parameter
+		 */
+		public String[] getValues() {
+			return this.values;
+		}
+		
+		/**
+		 * Provide a list of permitted values for the parameter, e.g. for
+		 * displaying a selection in a UI. This is particularly useful if there
+		 * are only few meaningful values.
+		 * @param values the values for the parameter
+		 */
+		public void setValues(String[] values) {
+			this.values = values;
+		}
+		
+		/**
+		 * Retrieve the label for a specific value of the parameter.
+		 * @param pv the parameter value to obtain the label for
+		 * @return the label for the argument parameter name
+		 */
+		public String getValueLabel(String pv) {
+			return this.valuesToLabels.getProperty(pv);
+		}
+		
+		/**
+		 * Provide a label for a specific value of the parameter, e.g. for
+		 * displaying in a UI.
+		 * @param pv the parameter value to set the label for
+		 * @param label the label for the argument parameter value
+		 */
+		public void setValueLabel(String pv, String label) {
+			if (label == null)
+				this.valuesToLabels.remove(pv);
+			else this.valuesToLabels.setProperty(pv, label);
+		}
+	}
+	
+	private static Map descriptionsByParameterGroupPrefix = Collections.synchronizedMap(new TreeMap());
+	
+	/**
+	 * Retrieve a description for a parameter group with a given prefix.
+	 * @param pnp the parameter group prefix to obtain a description for
+	 */
+	public static ParameterGroupDescription getParameterGroupDescription(String pnp) {
+		return ((ParameterGroupDescription) descriptionsByParameterGroupPrefix.get(pnp));
+	}
+	
+	/**
+	 * Add a parameter group description.
+	 * @param pgd the parameter group description to add
+	 */
+	public static void addParameterGroupDescription(ParameterGroupDescription pgd) {
+		if ((pgd != null) && (pgd.parameterNamePrefix != null))
+			descriptionsByParameterGroupPrefix.put(pgd.parameterNamePrefix, pgd);
+	}
+	
+	/**
+	 * Remove a parameter group description.
+	 * @param pgd the parameter group description to remove
+	 */
+	public static void removeParameterGroupDescription(ParameterGroupDescription pgd) {
+		if ((pgd != null) && (pgd.parameterNamePrefix != null))
+			descriptionsByParameterGroupPrefix.remove(pgd.parameterNamePrefix);
+	}
+	
 	/** the default resolution of 72 DPI, i.e., the default typographical Point */
 	public static int DEFAULT_DPI = 72;
 	
@@ -289,7 +648,7 @@ public class DocumentStyle extends Properties {
 			key = (this.prefix + key);
 		parameterNamesToClasses.put(key, Integer.class);
 		String valStr = this.defaults.getProperty(key);
-		if (valStr != null) try {
+		if ((valStr != null) && (valStr.trim().length() != 0)) try {
 			int val = Integer.parseInt(valStr);
 			if ((dpi < 1) || (dpi == DEFAULT_DPI))
 				return val;
@@ -329,7 +688,7 @@ public class DocumentStyle extends Properties {
 			key = (this.prefix + key);
 		parameterNamesToClasses.put(key, Float.class);
 		String valStr = this.defaults.getProperty(key);
-		if (valStr != null) try {
+		if ((valStr != null) && (valStr.trim().length() != 0)) try {
 			float val = Float.parseFloat(valStr);
 			if ((dpi < 1) || (dpi == DEFAULT_DPI))
 				return val;
@@ -369,7 +728,7 @@ public class DocumentStyle extends Properties {
 			key = (this.prefix + key);
 		parameterNamesToClasses.put(key, Double.class);
 		String valStr = this.defaults.getProperty(key);
-		if (valStr != null) try {
+		if ((valStr != null) && (valStr.trim().length() != 0)) try {
 			double val = Double.parseDouble(valStr);
 			if ((dpi < 1) || (dpi == DEFAULT_DPI))
 				return val;
@@ -391,8 +750,8 @@ public class DocumentStyle extends Properties {
 		if (this.prefix != null)
 			key = (this.prefix + key);
 		parameterNamesToClasses.put(key, Boolean.class);
-		String val = this.defaults.getProperty(key);
-		return ((val == null) ? defVal : Boolean.parseBoolean(val));
+		String valStr = this.defaults.getProperty(key);
+		return (((valStr == null) || (valStr.trim().length() == 0)) ? defVal : Boolean.parseBoolean(valStr));
 	}
 	
 	/**
@@ -426,7 +785,7 @@ public class DocumentStyle extends Properties {
 			key = (this.prefix + key);
 		parameterNamesToClasses.put(key, BoundingBox.class);
 		String valStr = this.defaults.getProperty(key);
-		if (valStr != null) try {
+		if ((valStr != null) && (valStr.trim().length() != 0)) try {
 			BoundingBox val = BoundingBox.parse(valStr);
 			if ((dpi < 1) || (dpi == DEFAULT_DPI))
 				return val;
@@ -443,7 +802,7 @@ public class DocumentStyle extends Properties {
 			key = (this.prefix + key);
 		parameterNamesToClasses.put(key, stringListClass);
 		String valStr = this.defaults.getProperty(key);
-		if (valStr == null)
+		if ((valStr == null) || (valStr.trim().length() == 0))
 			return defVal;
 		else return valStr.split("\\s*" + RegExUtils.escapeForRegEx(sep) + "\\s*");
 	}
@@ -479,7 +838,7 @@ public class DocumentStyle extends Properties {
 			key = (this.prefix + key);
 		parameterNamesToClasses.put(key, intListClass);
 		String valStr = this.defaults.getProperty(key);
-		if (valStr == null)
+		if ((valStr == null) || (valStr.trim().length() == 0))
 			return defVal;
 		String[] valStrs = valStr.split("[^0-9]+");
 		int[] vals = new int[valStrs.length];
@@ -525,7 +884,7 @@ public class DocumentStyle extends Properties {
 			key = (this.prefix + key);
 		parameterNamesToClasses.put(key, floatListClass);
 		String valStr = this.defaults.getProperty(key);
-		if (valStr == null)
+		if ((valStr == null) || (valStr.trim().length() == 0))
 			return defVal;
 		String[] valStrs = valStr.split("[^0-9\\,\\.]+");
 		float[] vals = new float[valStrs.length];
@@ -571,7 +930,7 @@ public class DocumentStyle extends Properties {
 			key = (this.prefix + key);
 		parameterNamesToClasses.put(key, doubleListClass);
 		String valStr = this.defaults.getProperty(key);
-		if (valStr == null)
+		if ((valStr == null) || (valStr.trim().length() == 0))
 			return defVal;
 		String[] valStrs = valStr.split("[^0-9\\,\\.]+");
 		double[] vals = new double[valStrs.length];
@@ -600,7 +959,7 @@ public class DocumentStyle extends Properties {
 			key = (this.prefix + key);
 		parameterNamesToClasses.put(key, booleanListClass);
 		String valStr = this.defaults.getProperty(key);
-		if (valStr == null)
+		if ((valStr == null) || (valStr.trim().length() == 0))
 			return defVal;
 		String[] valStrs = valStr.split("[^a-zA-Z]+");
 		boolean[] vals = new boolean[valStrs.length];
@@ -643,7 +1002,7 @@ public class DocumentStyle extends Properties {
 			key = (this.prefix + key);
 		parameterNamesToClasses.put(key, boxListClass);
 		String valStr = this.defaults.getProperty(key);
-		if (valStr == null)
+		if ((valStr == null) || (valStr.trim().length() == 0))
 			return defVal;
 		String[] valStrs = valStr.split("[^0-9\\,\\[\\]]+");
 		BoundingBox[] vals = new BoundingBox[valStrs.length];
@@ -748,6 +1107,24 @@ public class DocumentStyle extends Properties {
 	}
 	
 	/**
+	 * Scale an integer value.
+	 * @param val the integer to scale 
+	 * @param cDpi the current DPI to scale from
+	 * @param tDpi the target DPI to scale to
+	 * @param mode either of R(ound), F(loor), and C(eiling)
+	 * @return the scaled integer value
+	 */
+	public static final int scaleInt(int val, int cDpi, int tDpi, char mode) {
+		int moduloAmortizer;
+		if (mode == 'F')
+			moduloAmortizer = 0;
+		else if (mode == 'C')
+			moduloAmortizer = (cDpi - 1);
+		else moduloAmortizer = (cDpi / 2);
+		return (((val * tDpi) + moduloAmortizer) / cDpi);
+	}
+	
+	/**
 	 * Scale a float value.
 	 * @param val the float to scale 
 	 * @param cDpi the current DPI to scale from
@@ -778,6 +1155,37 @@ public class DocumentStyle extends Properties {
 	 */
 	public static final BoundingBox scaleBox(BoundingBox val, int cDpi, int tDpi) {
 		return new BoundingBox(
+			scaleInt(val.left, cDpi, tDpi),
+			scaleInt(val.right, cDpi, tDpi),
+			scaleInt(val.top, cDpi, tDpi),
+			scaleInt(val.bottom, cDpi, tDpi)
+		);
+	}
+	
+	/**
+	 * Scale an integer value.
+	 * @param val the integer to scale 
+	 * @param cDpi the current DPI to scale from
+	 * @param tDpi the target DPI to scale to
+	 * @param mode either of R(ound), I(nward), and O(utward)
+	 * @return the scaled integer
+	 */
+	public static final BoundingBox scaleBox(BoundingBox val, int cDpi, int tDpi, char mode) {
+		if (mode == 'I')
+			return new BoundingBox(
+					scaleInt(val.left, cDpi, tDpi, 'C'),
+					scaleInt(val.right, cDpi, tDpi, 'F'),
+					scaleInt(val.top, cDpi, tDpi, 'C'),
+					scaleInt(val.bottom, cDpi, tDpi, 'F')
+				);
+		else if (mode == 'O')
+			return new BoundingBox(
+					scaleInt(val.left, cDpi, tDpi, 'F'),
+					scaleInt(val.right, cDpi, tDpi, 'C'),
+					scaleInt(val.top, cDpi, tDpi, 'F'),
+					scaleInt(val.bottom, cDpi, tDpi, 'C')
+				);
+		else return new BoundingBox(
 			scaleInt(val.left, cDpi, tDpi),
 			scaleInt(val.right, cDpi, tDpi),
 			scaleInt(val.top, cDpi, tDpi),

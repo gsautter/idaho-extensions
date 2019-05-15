@@ -43,6 +43,9 @@ public interface TaxonomicNameConstants extends LiteratureConstants {
 	/** annotation type for marking taxon status labels like 'spec. nov.' and related things, namely 'taxonomicNameLabel' */
 	public static final String TAXONOMIC_NAME_LABEL_ANNOTATION_TYPE = "taxonomicNameLabel";
 	
+	/** annotation type for marking vernacular names of taxa, namely 'vernacularName' */
+	public static final String VERNACULAR_NAME_ANNOTATION_TYPE = "vernacularName";
+	
 	/** attribute for storing the rank of a taxonomic name or a part thereof, namely 'rank' */
 	public static final String RANK_ATTRIBUTE = "rank";
 	

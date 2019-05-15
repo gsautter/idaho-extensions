@@ -22619,19 +22619,11 @@
 		<name normalized="𐌽𐌹𐌸𐌴𐍂𐌰𐌻𐌰𐌽𐌳" languages="Gothic">𐌽𐌹𐌸𐌴𐍂𐌰𐌻𐌰𐌽𐌳</name>
 	</country>
 	<country name="New Caledonia" iso2="NC" iso3="NCL">
-		<name normalized="Abhangigkeit" languages="German">Abhängigkeit</name>
-		<name normalized="Afhankelijkheid" languages="Dutch">Afhankelijkheid</name>
 		<name normalized="Bag-o nga Caledonia" languages="Waray">Bag-o nga Caledonia</name>
 		<name normalized="Bagong Caledonia" languages="Tagalog">Bagong Caledonia</name>
 		<name normalized="Bagong Kalidonya" languages="Filipino">Bagong Kalidonya</name>
 		<name normalized="Caledonia Newydd" languages="Welsh">Caledonia Newydd</name>
 		<name normalized="Caledonia Nuadh" languages="Scots Gaelic">Caledonia Nuadh</name>
-		<name normalized="Dependeco" languages="Esperanto">Dependeco</name>
-		<name normalized="Dependencia" languages="Spanish">Dependencia</name>
-		<name normalized="Dependencies" languages="WFB conventional long">Dependencies</name>
-		<name normalized="Dependency" languages="Simple English">Dependency</name>
-		<name normalized="Dependencia" languages="Catalan">Dependència</name>
-		<name normalized="Dependance" languages="French">Dépendance</name>
 		<name normalized="Jaunkaledonija" languages="Latvian">Jaunkaledonija</name>
 		<name normalized="Kaldonia Hachadasha" languages="Hebrew">Kaldonia Hachadasha</name>
 		<name normalized="Kaledonia Anyar" languages="Javanese">Kaledonia Anyar</name>
@@ -34348,7 +34340,7 @@
 		<name normalized="Gran Britanya" languages="Cebuano">Gran Britanya</name>
 		<name normalized="Gran Vretagna" languages="Neapolitan">Gran Vretagna</name>
 		<name normalized="Grande Burtaegne" languages="Walloon">Grande Burtaegne</name>
-		<name normalized="Great Britain" languages="colloquial">Great Britain</name>
+		<name normalized="Great Britain" languages="colloquial;English">Great Britain</name>
 		<name normalized="Groussbritannien an Nordirland" languages="Luxembourgish">Groussbritannien an Nordirland</name>
 		<name normalized="Grut-Brittanje" languages="Western Frisian">Grut-Brittanje</name>
 		<name normalized="Greate Bryten Cynerice" languages="Old English">Grēate Bryten Cynerīce</name>

@@ -733,7 +733,7 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 			UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
 		} catch (Exception e) {}
 		
-		String[] idTypes = {"SMNK-Pub", "HNS-PUB", "TEST"};
+		String[] idTypes = {"", "SMNK-Pub", "HNS-PUB", "TEST"};
 		
 		final BibRefEditorPanel brep = new BibRefEditorPanel(idTypes);
 		

@@ -38,7 +38,7 @@
 	</rankGroup>
 	<rankGroup name="genus">
 		<rank name="genus" abbreviations="gen."/>
-		<rank name="subGenus" abbreviations="subgen." epithetTemplate="(@epithet)"/>
+		<rank name="subGenus" abbreviations="subg.;subgen." epithetTemplate="(@epithet)"/>
 		<rank name="infraGenus" abbreviations="infragen." epithetTemplate="(@epithet)"/>
 		<rank name="section" abbreviations="sect." epithetTemplate="(sect. @epithet)"/>
 		<rank name="subSection" abbreviations="subsect." epithetTemplate="(subsect. @epithet)"/>

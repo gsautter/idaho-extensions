@@ -32,6 +32,11 @@ import java.io.InputStream;
 import java.io.OutputStream;
 
 import de.uka.ipd.idaho.gamta.Annotation;
+import de.uka.ipd.idaho.gamta.util.gPath.GPath;
+import de.uka.ipd.idaho.gamta.util.gPath.GPathFunction;
+import de.uka.ipd.idaho.gamta.util.gPath.exceptions.GPathException;
+import de.uka.ipd.idaho.gamta.util.gPath.types.GPathNumber;
+import de.uka.ipd.idaho.gamta.util.gPath.types.GPathObject;
 
 /**
  * A bounding box marks an area of a page image.
@@ -39,6 +44,52 @@ import de.uka.ipd.idaho.gamta.Annotation;
  * @author sautter
  */
 public class BoundingBox {
+	
+	//	make bounding boxes accessible to GPath expressions
+	static {
+		GPath.addFunction("bbLeft", new GPathFunction() {
+			public GPathObject execute(Annotation contextAnnotation, int contextPosition, int contextSize, GPathObject[] args) throws GPathException {
+				BoundingBox bb = BoundingBox.parse((String) contextAnnotation.getAttribute(ImagingConstants.BOUNDING_BOX_ATTRIBUTE));
+				return ((bb == null) ? null : new GPathNumber(bb.left));
+			}
+		});
+		GPath.addFunction("bbRight", new GPathFunction() {
+			public GPathObject execute(Annotation contextAnnotation, int contextPosition, int contextSize, GPathObject[] args) throws GPathException {
+				BoundingBox bb = BoundingBox.parse((String) contextAnnotation.getAttribute(ImagingConstants.BOUNDING_BOX_ATTRIBUTE));
+				return ((bb == null) ? null : new GPathNumber(bb.right));
+			}
+		});
+		GPath.addFunction("bbTop", new GPathFunction() {
+			public GPathObject execute(Annotation contextAnnotation, int contextPosition, int contextSize, GPathObject[] args) throws GPathException {
+				BoundingBox bb = BoundingBox.parse((String) contextAnnotation.getAttribute(ImagingConstants.BOUNDING_BOX_ATTRIBUTE));
+				return ((bb == null) ? null : new GPathNumber(bb.top));
+			}
+		});
+		GPath.addFunction("bbBottom", new GPathFunction() {
+			public GPathObject execute(Annotation contextAnnotation, int contextPosition, int contextSize, GPathObject[] args) throws GPathException {
+				BoundingBox bb = BoundingBox.parse((String) contextAnnotation.getAttribute(ImagingConstants.BOUNDING_BOX_ATTRIBUTE));
+				return ((bb == null) ? null : new GPathNumber(bb.bottom));
+			}
+		});
+		GPath.addFunction("bbWidth", new GPathFunction() {
+			public GPathObject execute(Annotation contextAnnotation, int contextPosition, int contextSize, GPathObject[] args) throws GPathException {
+				BoundingBox bb = BoundingBox.parse((String) contextAnnotation.getAttribute(ImagingConstants.BOUNDING_BOX_ATTRIBUTE));
+				return ((bb == null) ? null : new GPathNumber(bb.getWidth()));
+			}
+		});
+		GPath.addFunction("bbHeight", new GPathFunction() {
+			public GPathObject execute(Annotation contextAnnotation, int contextPosition, int contextSize, GPathObject[] args) throws GPathException {
+				BoundingBox bb = BoundingBox.parse((String) contextAnnotation.getAttribute(ImagingConstants.BOUNDING_BOX_ATTRIBUTE));
+				return ((bb == null) ? null : new GPathNumber(bb.getHeight()));
+			}
+		});
+		GPath.addFunction("bbArea", new GPathFunction() {
+			public GPathObject execute(Annotation contextAnnotation, int contextPosition, int contextSize, GPathObject[] args) throws GPathException {
+				BoundingBox bb = BoundingBox.parse((String) contextAnnotation.getAttribute(ImagingConstants.BOUNDING_BOX_ATTRIBUTE));
+				return ((bb == null) ? null : new GPathNumber(bb.getArea()));
+			}
+		});
+	}
 	
 	/** the left boundary of the box */
 	public final int left;
@@ -64,16 +115,6 @@ public class BoundingBox {
 		this.right = right;
 		this.top = top;
 		this.bottom = bottom;
-	}
-	
-	/**
-	 * Translate this bounding box relative to another one
-	 * @param bb the bounding box to translate this one to
-	 * @return a bounding box marking the same area as this one, but inside the
-	 *         argument bounding box
-	 */
-	public BoundingBox relativeTo(BoundingBox bb) {
-		return new BoundingBox((this.left - bb.left), (this.right - bb.left), (this.top - bb.top), (this.bottom - bb.top));
 	}
 	
 	/**
@@ -218,6 +259,43 @@ public class BoundingBox {
 				Math.round(this.top * sy),
 				Math.round(this.bottom * sy)
 			);
+	}
+	
+	/**
+	 * Translate this bounding box relative to another one.
+	 * @param bb the bounding box to translate this one to
+	 * @return a bounding box marking the same area as this one, but inside the
+	 *         argument bounding box
+	 */
+	public BoundingBox relativeTo(BoundingBox bb) {
+		return new BoundingBox((this.left - bb.left), (this.right - bb.left), (this.top - bb.top), (this.bottom - bb.top));
+	}
+	
+	/**
+	 * Create the union of this bounding box with another one.
+	 * @param bb the bounding box to union this one with
+	 * @return a bounding box marking the union of this and the argument
+	 *         bounding box
+	 */
+	public BoundingBox union(BoundingBox bb) {
+		if (bb == this)
+			return this;
+		return new BoundingBox(Math.min(this.left, bb.left), Math.max(this.right, bb.right), Math.min(this.top, bb.top), Math.max(this.bottom, bb.bottom));
+	}
+	
+	/**
+	 * Create the intersection of this bounding box with another one. If the
+	 * argument bounding box is disjoint from this one, this method returns
+	 * null.
+	 * @param bb the bounding box to intersect this one with
+	 * @return a bounding box marking the intersection of this and the argument
+	 *         bounding box
+	 */
+	public BoundingBox intersect(BoundingBox bb) {
+		if (bb == this)
+			return this;
+		BoundingBox ibb = new BoundingBox(Math.max(this.left, bb.left), Math.min(this.right, bb.right), Math.max(this.top, bb.top), Math.min(this.bottom, bb.bottom));
+		return (((ibb.getWidth() < 1) || (ibb.getHeight() < 1)) ? null : ibb);
 	}
 	
 	/**
