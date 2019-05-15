@@ -472,7 +472,7 @@ public class LocalHtmlFeedbackService implements FeedbackService {
 		bw.newLine();
 		
 		
-		bw.write("<form method=\"POST\" id=\"feedbackForm\" action=\"" + (actionUrl.startsWith("http://") ? "" : "http://") + actionUrl + "\">");
+		bw.write("<form method=\"POST\" id=\"feedbackForm\" action=\"" + ((actionUrl.indexOf("://") == -1) ? "http://" : "") + actionUrl + "\">");
 		bw.newLine();
 		bw.write("<table class=\"feedbackTable\">");
 		bw.newLine();

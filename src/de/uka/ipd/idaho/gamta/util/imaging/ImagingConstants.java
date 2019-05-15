@@ -78,6 +78,21 @@ public interface ImagingConstants extends LiteratureConstants {
 	public static final String LINE_ANNOTATION_TYPE = "line";
 	
 	/**
+	 * the attribute holding the ID of the block a paragraph lies (or starts)
+	 * in; intended to facilitate tracking the page block paragraphs belong(ed)
+	 * to even after normalization over page and column breaks.
+	 */
+	public static final String BLOCK_ID_ATTRIBUTE = "blockId";
+	
+	/**
+	 * the attribute holding the ID of the block a page or column break
+	 * spanning paragraph ends in; intended to facilitate tracking the page
+	 * blocks paragraphs belong(ed) to even after normalization over page
+	 * and column breaks.
+	 */
+	public static final String LAST_BLOCK_ID_ATTRIBUTE = "lastBlockId";
+	
+	/**
 	 * the attribute holding the baseline of a word, or the average baseline of
 	 * the words in a line.
 	 */

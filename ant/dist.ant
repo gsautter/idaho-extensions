@@ -5,8 +5,8 @@
 -->
 
 <project name="dist">
-	<target name="jars" depends="feedback,imaging,imganalyzers,bibrefutils,taxnameutils,geoutils,datetimeutils,quantutils,abbrevutils,tableutils,matcitutils">
-	</target>
+	<!--target name="jars" depends="feedback,imaging,errorlog,imganalyzers,bibrefutils,taxnameutils,geoutils,nameutils,datetimeutils,quantutils,abbrevutils,tableutils,matcitutils" /-->
+	<target name="jars" depends="feedback,imaging,imganalyzers,bibrefutils,taxnameutils,geoutils,nameutils,datetimeutils,quantutils,abbrevutils,tableutils,matcitutils" />
 	
 	<target name="feedback">
 		<delete file="${jar.feedback}" />
@@ -36,6 +36,15 @@
 			<fileset dir="." includes="LICENSE.txt"/>
 		</jar>
 	</target>
+	
+	<!--target name="errorlog">
+		<delete file="${jar.errorlog}" />
+		<jar destfile="${jar.errorlog}">
+			<fileset dir="${build.home}/classes" includes="**/errorLogging/*.class"/>
+			<fileset dir="${src.home}" includes="**/errorLogging/*.java"/>
+			<fileset dir="." includes="LICENSE.txt"/>
+		</jar>
+	</target-->
 	
 	<target name="bibrefutils">
 		<delete file="${jar.bibrefutils}" />
@@ -103,6 +112,16 @@
 		<jar destfile="${jar.tableutils}">
 			<fileset dir="${build.home}/classes" includes="**/tables/**/**.class"/>
 			<fileset dir="${src.home}" includes="**/tables/**/**.java"/>
+			<fileset dir="." includes="LICENSE.txt"/>
+		</jar>
+	</target>
+	
+	<target name="nameutils">
+		<delete file="${jar.nameutils}" />
+		<jar destfile="${jar.nameutils}">
+			<fileset dir="${build.home}/classes" includes="**/properNames/**/**.class"/>
+			<fileset dir="${src.home}" includes="**/properNames/**/**.java"/>
+			<fileset dir="${src.home}" includes="**/properNames/**/**.txt"/>
 			<fileset dir="." includes="LICENSE.txt"/>
 		</jar>
 	</target>
