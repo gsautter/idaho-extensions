@@ -12,6 +12,7 @@
 		<mkdir dir="${build.home}" />
 		<mkdir dir="${build.home}/classes" />
 		<mkdir dir="${dist.home}" />
+		<mkdir dir="${dist.home}/BibRefDataSources" />
 	</target>
 	
 	<!-- more or less the reverse of it, delete all the directories again -->

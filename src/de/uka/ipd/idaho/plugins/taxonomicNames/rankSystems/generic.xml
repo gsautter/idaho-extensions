@@ -3,10 +3,10 @@
 		<rank name="domain" abbreviations="dom."/>
 	</rankGroup>
 	<rankGroup name="kingdom">
-		<rank name="superKingdom" abbreviations="superreg."/>
-		<rank name="kingdom" abbreviations="reg."/>
-		<rank name="subKingdom" abbreviations="subreg."/>
-		<rank name="infraKingdom" abbreviations="infrareg."/>
+		<rank name="superKingdom" abbreviations="superreg." synonyms="superRegnum"/>
+		<rank name="kingdom" abbreviations="reg." synonyms="regnum"/>
+		<rank name="subKingdom" abbreviations="subreg." synonyms="subRegnum"/>
+		<rank name="infraKingdom" abbreviations="infrareg." synonyms="infraRegnum"/>
 	</rankGroup>
 	<rankGroup name="phylum">
 		<rank name="superPhylum" abbreviations="superphyl."/>
@@ -15,33 +15,33 @@
 		<rank name="infraPhylum" abbreviations="infraphyl."/>
 	</rankGroup>
 	<rankGroup name="class">
-		<rank name="superClass" abbreviations="supercl."/>
-		<rank name="class" abbreviations="cl."/>
-		<rank name="subClass" abbreviations="subcl."/>
-		<rank name="infraClass" abbreviations="infracl."/>
+		<rank name="superClass" abbreviations="supercl." synonyms="superClassis"/>
+		<rank name="class" abbreviations="cl." synonyms="classis"/>
+		<rank name="subClass" abbreviations="subcl." synonyms="subClassis"/>
+		<rank name="infraClass" abbreviations="infracl." synonyms="infraClassis"/>
 	</rankGroup>
 	<rankGroup name="order">
-		<rank name="superOrder" abbreviations="superord."/>
-		<rank name="order" abbreviations="ord."/>
-		<rank name="subOrder" abbreviations="subord."/>
-		<rank name="infraOrder" abbreviations="infraord."/>
+		<rank name="superOrder" abbreviations="superord." synonyms="superOrdo"/>
+		<rank name="order" abbreviations="ord." synonyms="ordo"/>
+		<rank name="subOrder" abbreviations="subord." synonyms="subOrdo"/>
+		<rank name="infraOrder" abbreviations="infraord." synonyms="infraOrdo"/>
 	</rankGroup>
 	<rankGroup name="family">
-		<rank name="superFamily" abbreviations="superfam."/>
-		<rank name="family" abbreviations="fam."/>
-		<rank name="subFamily" abbreviations="subfam."/>
-		<rank name="infraFamily" abbreviations="infrafam."/>
-		<rank name="superTribe" abbreviations="supertrib."/>
-		<rank name="tribe" abbreviations="trib."/>
-		<rank name="subTribe" abbreviations="subtrib."/>
-		<rank name="infraTribe" abbreviations="infratrib."/>
+		<rank name="superFamily" abbreviations="superfam." synonyms="superFamilia"/>
+		<rank name="family" abbreviations="fam." synonyms="familia"/>
+		<rank name="subFamily" abbreviations="subfam." synonyms="subFamilia"/>
+		<rank name="infraFamily" abbreviations="infrafam." synonyms="infraFamilia"/>
+		<rank name="superTribe" abbreviations="supertrib." synonyms="superTribus"/>
+		<rank name="tribe" abbreviations="trib." synonyms="tribus"/>
+		<rank name="subTribe" abbreviations="subtrib." synonyms="subTribus"/>
+		<rank name="infraTribe" abbreviations="infratrib." synonyms="infraTribus"/>
 	</rankGroup>
 	<rankGroup name="genus">
 		<rank name="genus" abbreviations="gen."/>
 		<rank name="subGenus" abbreviations="subg.;subgen." epithetTemplate="(@epithet)"/>
 		<rank name="infraGenus" abbreviations="infragen." epithetTemplate="(@epithet)"/>
-		<rank name="section" abbreviations="sect." epithetTemplate="(sect. @epithet)"/>
-		<rank name="subSection" abbreviations="subsect." epithetTemplate="(subsect. @epithet)"/>
+		<rank name="section" abbreviations="sect." epithetTemplate="(sect. @epithet)" synonyms="sectio"/>
+		<rank name="subSection" abbreviations="subsect." epithetTemplate="(subsect. @epithet)" synonyms="subSectio"/>
 		<rank name="series" abbreviations="ser." epithetTemplate="(ser. @epithet)"/>
 		<rank name="subSeries" abbreviations="subser." epithetTemplate="(subser. @epithet)"/>
 	</rankGroup>
@@ -50,9 +50,9 @@
 		<rank name="species" abbreviations="sp.;spec."/>
 		<rank name="subSpecies" abbreviations="ssp.;subsp.;subspec." epithetTemplate="subsp. @epithet"/>
 		<rank name="infraSpecies" abbreviations="infrasp.;infraspec."/>
-		<rank name="variety" abbreviations="var.;v." epithetTemplate="var. @epithet"/>
-		<rank name="subVariety" abbreviations="svar.;subvar.;subv." epithetTemplate="subvar. @epithet"/>
-		<rank name="form" abbreviations="fm.;f." epithetTemplate="fm. @epithet"/>
-		<rank name="subForm" abbreviations="subfm.;subf." epithetTemplate="subfm. @epithet"/>
+		<rank name="variety" abbreviations="var.;v." epithetTemplate="var. @epithet" synonyms="varietas"/>
+		<rank name="subVariety" abbreviations="svar.;subvar.;subv." epithetTemplate="subvar. @epithet" synonyms="subVarietas"/>
+		<rank name="form" abbreviations="fm.;f." epithetTemplate="fm. @epithet" synonyms="forma"/>
+		<rank name="subForm" abbreviations="subfm.;subf." epithetTemplate="subfm. @epithet" synonyms="subForma"/>
 	</rankGroup>
 </rankSystem>

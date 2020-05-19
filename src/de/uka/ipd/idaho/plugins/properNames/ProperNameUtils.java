@@ -10,11 +10,11 @@
  *     * Redistributions in binary form must reproduce the above copyright
  *       notice, this list of conditions and the following disclaimer in the
  *       documentation and/or other materials provided with the distribution.
- *     * Neither the name of the Universität Karlsruhe (TH) / KIT nor the
+ *     * Neither the name of the Universitaet Karlsruhe (TH) / KIT nor the
  *       names of its contributors may be used to endorse or promote products
  *       derived from this software without specific prior written permission.
  *
- * THIS SOFTWARE IS PROVIDED BY UNIVERSITÄT KARLSRUHE (TH) / KIT AND CONTRIBUTORS 
+ * THIS SOFTWARE IS PROVIDED BY UNIVERSITAET KARLSRUHE (TH) / KIT AND CONTRIBUTORS 
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
  * THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
  * ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY
@@ -700,7 +700,7 @@ public class ProperNameUtils implements NamedEntityConstants {
 		pgd.setParamValueLabel("affixPosition", tailingPosition, "At very End of Name");
 		
 		String[] infixPositions = {"", attachedPosition, tailingPosition};
-		pgd.setParamLabel("infixPosition", "Location of Name Affixes");
+		pgd.setParamLabel("infixPosition", "Location of Name Infixes");
 		pgd.setParamDescription("infixPosition", "Are name infixes like 'van den' strictly in front of the last name, or strictly after the first name or middel initials? (only relevant if last name before first name, like in 'van Buren, M.' vs. 'Buren, M. van')");
 		pgd.setParamValues("infixPosition", infixPositions);
 		pgd.setParamValueLabel("infixPosition", attachedPosition, "Always before Last Name");
@@ -974,7 +974,7 @@ public class ProperNameUtils implements NamedEntityConstants {
 		return defaultNameStopWords;
 	}
 	
-	private static final boolean DEBUG = true;
+	private static final boolean DEBUG = false;
 	
 	private static final boolean DEBUG_PERSON_NAME_EXTRACTION = (DEBUG && true);
 	
@@ -1564,16 +1564,17 @@ public class ProperNameUtils implements NamedEntityConstants {
 		}
 		
 		//	finally ...
+		Collections.sort(nameList, AnnotationUtils.ANNOTATION_NESTING_ORDER);
 		return ((Annotation[]) nameList.toArray(new Annotation[nameList.size()]));
 	}
 	
 	private static void addProperNames(TokenSequence tokens, AnnotationIndex namePartIndex, ArrayList nameList, HashSet nameStrings, String caseAttributeValue) {
 		ArrayList newNameList = new ArrayList();
 		do {
-			System.out.println("Attempting name expansion");
+			if (DEBUG) System.out.println("Attempting name expansion");
 			newNameList.clear();
 			Annotation[] nameMatches = AnnotationPatternMatcher.getMatches(tokens, namePartIndex, "<namePart> <stopWords>? <namePart>");
-			System.out.println(" - got " + nameMatches.length + " expanded names");
+			if (DEBUG) System.out.println(" - got " + nameMatches.length + " expanded names");
 			for (int l = 0; l < nameMatches.length; l++)
 				if (nameStrings.add(nameMatches[l].getValue())) {
 					nameMatches[l].setAttribute(caseAttribute, caseAttributeValue);

@@ -10,11 +10,11 @@
  *     * Redistributions in binary form must reproduce the above copyright
  *       notice, this list of conditions and the following disclaimer in the
  *       documentation and/or other materials provided with the distribution.
- *     * Neither the name of the Universität Karlsruhe (TH) nor the
+ *     * Neither the name of the Universitaet Karlsruhe (TH) nor the
  *       names of its contributors may be used to endorse or promote products
  *       derived from this software without specific prior written permission.
  *
- * THIS SOFTWARE IS PROVIDED BY UNIVERSITÄT KARLSRUHE (TH) / KIT AND CONTRIBUTORS 
+ * THIS SOFTWARE IS PROVIDED BY UNIVERSITAET KARLSRUHE (TH) / KIT AND CONTRIBUTORS 
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
  * THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
  * ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY
@@ -29,10 +29,13 @@ package de.uka.ipd.idaho.plugins.bibRefs;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Properties;
+import java.util.TreeMap;
 
 import de.uka.ipd.idaho.gamta.util.AnalyzerDataProvider;
 import de.uka.ipd.idaho.gamta.util.AnalyzerDataProviderFileBased;
+import de.uka.ipd.idaho.gamta.util.AnalyzerDataProviderPrefixBased;
 import de.uka.ipd.idaho.gamta.util.GamtaClassLoader;
 import de.uka.ipd.idaho.gamta.util.GamtaClassLoader.ComponentInitializer;
 import de.uka.ipd.idaho.plugins.bibRefs.BibRefUtils.RefData;
@@ -50,11 +53,22 @@ import de.uka.ipd.idaho.plugins.bibRefs.BibRefUtils.RefData;
  */
 public abstract class BibRefDataSource implements BibRefConstants {
 	
+	/** the name of the attribute indicating the backing source a reference was loaded from, namely 'refSource' */
+	public static final String REFERENCE_DATA_SOURCE_ATTRIBUTE = "refSource";
+	
+	/** the name of the attribute indicating the match score the backing source assigned to a reference, namely 'refMatchScore' */
+	public static final String REFERENCE_MATCH_SCORE_ATTRIBUTE = "refMatchScore";
+	/* TODO
+Loading reference data sources:
+- load via (sub folder of) data folder in servlets
+- load via subordinate plugins in Analyzers (if not done before)
+	 */
+	
 	/** the name of the data source */
-	protected String name;
+	protected final String name;
 	
 	/** the nice name of the data source, for display purposes */
-	protected String label;
+	protected final String label;
 	
 	/**
 	 * the folder there the data source can store its data, e.g. configuration
@@ -65,8 +79,22 @@ public abstract class BibRefDataSource implements BibRefConstants {
 	/** Constructor
 	 * @param name the name of the data source
 	 */
-	public BibRefDataSource(String name) {
+	protected BibRefDataSource(String name) {
+		this(name, name);
+	}
+	
+	/** Constructor
+	 * @param name the name of the data source
+	 * @param name the label of the data source (for display purposes)
+	 */
+	protected BibRefDataSource(String name, String label) {
+		if ((name == null) || (name.trim().length() == 0))
+			throw new IllegalArgumentException("Name must not be null or empty");
 		this.name = name;
+		this.label = label;
+		if (instancesByName.containsKey(this.name))
+			throw new IllegalArgumentException("Duplicate data source name '" + this.name + "', already assigned to " + instancesByName.get(this.name));
+		instancesByName.put(this.name, this);
 	}
 	
 	/**
@@ -78,10 +106,10 @@ public abstract class BibRefDataSource implements BibRefConstants {
 	}
 	
 	/**
-	 * Initialize the data source. This method is invoced after the data
+	 * Initialize the data source. This method is invoked after the data
 	 * provider is set. It is meant to read configuration files, etc. This
-	 * default implementation does nothing, sub classes are welcome to overwrite
-	 * it as needed.
+	 * default implementation does nothing, sub classes are welcome to
+	 * overwrite it as needed.
 	 */
 	public void init() {}
 	
@@ -89,8 +117,8 @@ public abstract class BibRefDataSource implements BibRefConstants {
 	 * Retrieve the name of the data source. The string returned by this method
 	 * must not contain whitespace; best if it is strictly alphanumeric. Any
 	 * reference data set returned by the getRefData() or findRefData() methods
-	 * should include its source specific identifier, using the name of the data
-	 * sources as the type.
+	 * should include its source specific identifier, using the name of
+	 * the data sources as the type.
 	 * @return the name of the data source
 	 */
 	public String getName() {
@@ -156,6 +184,39 @@ public abstract class BibRefDataSource implements BibRefConstants {
 	 */
 	public abstract RefData[] findRefData(Properties searchData) throws IOException;
 	
+	private static TreeMap instancesByName = new TreeMap();
+	
+	/**
+	 * Retrieve the names of all available reference data sources, i.e., the
+	 * names of all instances of this class that have been loaded at this
+	 * point.
+	 * @return an array holding the data source names
+	 */
+	public static String[] getDataSourceNames() {
+		ArrayList instanceNames = new ArrayList(instancesByName.keySet());
+		return ((String[]) instanceNames.toArray(new String[instancesByName.size()]));
+	}
+	
+	/**
+	 * Retrieve a reference data source by its name. If none exists for the
+	 * argument name, this method returns null.
+	 * @param name the name of the reference data source
+	 * @return the reference data source with the specified name
+	 */
+	public static BibRefDataSource getDataSource(String name) {
+		return ((BibRefDataSource) instancesByName.get(name));
+	}
+	
+	/**
+	 * Retrieve all available reference data sources, i.e., all instances of
+	 * this class that have been loaded at this point.
+	 * @return an array holding the data sources
+	 */
+	public static BibRefDataSource[] getDataSources() {
+		ArrayList instanceNames = new ArrayList(instancesByName.values());
+		return ((BibRefDataSource[]) instanceNames.toArray(new BibRefDataSource[instancesByName.size()]));
+	}
+	
 	/**
 	 * Load the instances of this class located in the JAR files in a given
 	 * folder. The data sources loaded from the JARs get their data folders set
@@ -173,6 +234,33 @@ public abstract class BibRefDataSource implements BibRefConstants {
 					componentJarName = componentJarName.substring(0, (componentJarName.length() - ".jar".length()));
 				BibRefDataSource brds = ((BibRefDataSource) component);
 				brds.setDataProvider(new AnalyzerDataProviderFileBased(new File(rootFolder, (componentJarName + "Data"))));
+				brds.init();
+			}
+		});
+		BibRefDataSource[] brdss = new BibRefDataSource[brdsObjs.length];
+		for (int s = 0; s < brdsObjs.length; s++)
+			brdss[s] = ((BibRefDataSource) brdsObjs[s]);
+		return brdss;
+	}
+	
+	/**
+	 * Load the instances of this class located in the JAR files under a given
+	 * data provider. The data sources loaded from the JARs get their data
+	 * folders set to a sub folder of the argument one, named
+	 * '&lt;jarNameLessExt&gt;Data', where '&lt;jarNameLessExt&gt;' is the name
+	 * of the JAR a given data source is loaded from less the '.jar' file
+	 * extension. After setting the data provider, the data sources are
+	 * initialized.
+	 * @param dataProvider the data provider to load the data sources from
+	 * @return an array holding the data sources
+	 */
+	public static BibRefDataSource[] loadDataSources(final AnalyzerDataProvider dataProvider) {
+		Object[] brdsObjs = GamtaClassLoader.loadComponents(dataProvider, null, BibRefDataSource.class, new ComponentInitializer() {
+			public void initialize(Object component, String componentJarName) throws Throwable {
+				if (componentJarName.toLowerCase().endsWith(".jar"))
+					componentJarName = componentJarName.substring(0, (componentJarName.length() - ".jar".length()));
+				BibRefDataSource brds = ((BibRefDataSource) component);
+				brds.setDataProvider(new AnalyzerDataProviderPrefixBased(dataProvider, (componentJarName + "Data")));
 				brds.init();
 			}
 		});

@@ -10,11 +10,11 @@
  *     * Redistributions in binary form must reproduce the above copyright
  *       notice, this list of conditions and the following disclaimer in the
  *       documentation and/or other materials provided with the distribution.
- *     * Neither the name of the Universität Karlsruhe (TH) nor the
+ *     * Neither the name of the Universitaet Karlsruhe (TH) nor the
  *       names of its contributors may be used to endorse or promote products
  *       derived from this software without specific prior written permission.
  *
- * THIS SOFTWARE IS PROVIDED BY UNIVERSITÄT KARLSRUHE (TH) / KIT AND CONTRIBUTORS 
+ * THIS SOFTWARE IS PROVIDED BY UNIVERSITAET KARLSRUHE (TH) / KIT AND CONTRIBUTORS 
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
  * THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
  * ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY
@@ -29,6 +29,8 @@ package de.uka.ipd.idaho.plugins.bibRefs;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
+import java.awt.Component;
+import java.awt.Dimension;
 import java.awt.FlowLayout;
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
@@ -40,6 +42,7 @@ import java.awt.event.FocusEvent;
 import java.awt.event.ItemEvent;
 import java.awt.event.ItemListener;
 import java.util.ArrayList;
+import java.util.Arrays;
 
 import javax.swing.BorderFactory;
 import javax.swing.JButton;
@@ -49,12 +52,17 @@ import javax.swing.JDialog;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
+import javax.swing.JTabbedPane;
 import javax.swing.JTextField;
+import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
 import javax.swing.border.Border;
+import javax.swing.event.DocumentEvent;
+import javax.swing.event.DocumentListener;
 
 import de.uka.ipd.idaho.gamta.util.swing.DialogFactory;
 import de.uka.ipd.idaho.plugins.bibRefs.BibRefTypeSystem.BibRefType;
+import de.uka.ipd.idaho.plugins.bibRefs.BibRefUtils.AuthorData;
 import de.uka.ipd.idaho.plugins.bibRefs.BibRefUtils.RefData;
 import de.uka.ipd.idaho.stringUtils.StringUtils;
 import de.uka.ipd.idaho.stringUtils.StringVector;
@@ -71,6 +79,7 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 	private JComboBox typeSelector;
 	private BibRefEditorField primaryIdField;
 	private BibRefEditorField[] fields;
+	private AuthorsEditorPanel authorsEditor = null;
 	
 	/**
 	 * Constructor
@@ -79,7 +88,19 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 	 *            primary ID optional)
 	 */
 	public BibRefEditorPanel(String[] idTypes) {
-		this(null, idTypes, null);
+		this(null, idTypes, null, null);
+	}
+	
+	/**
+	 * Constructor
+	 * @param idTypes the identifier types to offer input fields for (the first
+	 *            type becomes the primary ID, set it to null to make the
+	 *            primary ID optional)
+	 * @param authorDetails the names of the author detail attributes to make
+	 *            available for editing
+	 */
+	public BibRefEditorPanel(String[] idTypes, String[] authorDetails) {
+		this(null, idTypes, authorDetails, null);
 	}
 	
 	/** Constructor
@@ -89,7 +110,19 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 	 *            primary ID optional)
 	 */
 	public BibRefEditorPanel(BibRefTypeSystem typeSystem, String[] idTypes) {
-		this(typeSystem, idTypes, null);
+		this(typeSystem, idTypes, null, null);
+	}
+	
+	/** Constructor
+	 * @param typeSystem the reference type system to use for data validation
+	 * @param idTypes the identifier types to offer input fields for (the first
+	 *            type becomes the primary ID, set it to null to make the
+	 *            primary ID optional)
+	 * @param authorDetails the names of the author detail attributes to make
+	 *            available for editing
+	 */
+	public BibRefEditorPanel(BibRefTypeSystem typeSystem, String[] idTypes, String[] authorDetails) {
+		this(typeSystem, idTypes, authorDetails, null);
 	}
 	
 	/** Constructor
@@ -99,7 +132,19 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 	 * @param ref the reference data set to display initially
 	 */
 	public BibRefEditorPanel(RefData ref, String[] idTypes) {
-		this(null, idTypes, ref);
+		this(null, idTypes, null, ref);
+	}
+	
+	/** Constructor
+	 * @param ref the reference data set to display initially
+	 * @param idTypes the identifier types to offer input fields for (the first
+	 *            type becomes the primary ID, set it to null to make the
+	 *            primary ID optional)
+	 * @param authorDetails the names of the author detail attributes to make
+	 *            available for editing
+	 */
+	public BibRefEditorPanel(RefData ref, String[] idTypes, String[] authorDetails) {
+		this(null, idTypes, authorDetails, ref);
 	}
 	
 	/** Constructor
@@ -110,6 +155,19 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 	 * @param ref the reference data set to display initially
 	 */
 	public BibRefEditorPanel(BibRefTypeSystem typeSystem, String[] idTypes, RefData ref) {
+		this(typeSystem, idTypes, null, ref);
+	}
+	
+	/** Constructor
+	 * @param typeSystem the reference type system to use for data validation
+	 * @param idTypes the identifier types to offer input fields for (the first
+	 *            type becomes the primary ID, set it to null to make the
+	 *            primary ID optional)
+	 * @param authorDetails the names of the author detail attributes to make
+	 *            available for editing
+	 * @param ref the reference data set to display initially
+	 */
+	public BibRefEditorPanel(BibRefTypeSystem typeSystem, String[] idTypes, String[] authorDetails, RefData ref) {
 		super(new GridBagLayout(), true);
 		
 		this.typeSystem = ((typeSystem == null) ? BibRefTypeSystem.getDefaultInstance() : typeSystem);
@@ -118,6 +176,24 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 		SelectableBibRefType[] sbrts = new SelectableBibRefType[brts.length];
 		for (int t = 0; t < brts.length; t++)
 			sbrts[t] = new SelectableBibRefType(brts[t]);
+		
+		JButton editAuthorsButton = null;
+		if ((authorDetails != null) && (authorDetails.length == 0)) {
+			if (ref == null)
+				authorDetails = null; // nothing to work with
+			else authorDetails = ref.getAuthorAttributeNames(); // use what's there
+		}
+		if ((authorDetails != null) && (authorDetails.length == 1) && AuthorData.AUTHOR_NAME_ATTRIBUTE.equals(authorDetails[0]))
+			authorDetails = null; // nothing to work with but vanilla names
+		if (authorDetails != null) {
+			editAuthorsButton = new JButton("Edit Authors");
+			editAuthorsButton.setBorder(BorderFactory.createRaisedBevelBorder());
+			editAuthorsButton.addActionListener(new ActionListener() {
+				public void actionPerformed(ActionEvent ae) {
+					editAuthors();
+				}
+			});
+		}
 		
 		ArrayList fieldList = new ArrayList();
 		if ((idTypes != null) && (idTypes.length != 0) && (idTypes[0] != null) && (idTypes[0].trim().length() != 0)) {
@@ -134,7 +210,15 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 			this.primaryIdField.setRequired();
 		}
 		for (int f = 0; f < BibRefEditor.fieldNames.length; f++) {
-			if (AUTHOR_ANNOTATION_TYPE.equals(BibRefEditor.fieldNames[f]) || EDITOR_ANNOTATION_TYPE.equals(BibRefEditor.fieldNames[f]))
+//			if (AUTHOR_ANNOTATION_TYPE.equals(BibRefEditor.fieldNames[f]) || EDITOR_ANNOTATION_TYPE.equals(BibRefEditor.fieldNames[f]))
+//				fieldList.add(new BibRefEditorFieldSFMV(BibRefEditor.fieldNames[f], (StringUtils.capitalize(BibRefEditor.fieldNames[f]) + "s (use '&' to separate)"), "&"));
+			if (AUTHOR_ANNOTATION_TYPE.equals(BibRefEditor.fieldNames[f])) {
+				BibRefEditorFieldSFMV authorsField = new BibRefEditorFieldSFMV(BibRefEditor.fieldNames[f], (StringUtils.capitalize(BibRefEditor.fieldNames[f]) + "s (use '&' to separate)"), "&");
+				if (editAuthorsButton != null)
+					authorsField.valueInput.setEditable(false);
+				fieldList.add(authorsField);
+			}
+			else if (EDITOR_ANNOTATION_TYPE.equals(BibRefEditor.fieldNames[f]))
 				fieldList.add(new BibRefEditorFieldSFMV(BibRefEditor.fieldNames[f], (StringUtils.capitalize(BibRefEditor.fieldNames[f]) + "s (use '&' to separate)"), "&"));
 			else if (PART_DESIGNATOR_ANNOTATION_TYPE.equals(BibRefEditor.fieldNames[f])) {
 				String[] pdTypes = {
@@ -166,8 +250,11 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 					primaryIdField.setBibRefType(((SelectableBibRefType) ie.getItem()).brt);
 					primaryIdField.setRequired();
 				}
-				for (int f = 0; f < fields.length; f++)
-					fields[f].setBibRefType(((SelectableBibRefType) ie.getItem()).brt);
+				for (int f = 0; f < fields.length; f++) {
+					if (AUTHOR_ANNOTATION_TYPE.equals(fields[f].name) && (authorsEditor != null))
+						authorsEditor.setBibRefType(((SelectableBibRefType) ie.getItem()).brt);
+					else fields[f].setBibRefType(((SelectableBibRefType) ie.getItem()).brt);
+				}
 			}
 		});
 		
@@ -253,6 +340,21 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 				gbc.weightx = 1;
 				this.add(this.fields[f].getValueInput(), gbc.clone());
 			}
+			else if (AUTHOR_ANNOTATION_TYPE.equals(this.fields[f].name) && (editAuthorsButton != null)) {
+				gbc.gridx = 0;
+				gbc.gridwidth = 1;
+				gbc.weightx = 0;
+				this.add(this.fields[f].label, gbc.clone());
+				gbc.gridx = 1;
+				gbc.gridwidth = 4;
+				gbc.weightx = 1;
+				this.add(this.fields[f].getValueInput(), gbc.clone());
+				gbc.gridx = 5;
+				gbc.gridwidth = 1;
+				gbc.weightx = 0;
+				this.add(editAuthorsButton, gbc.clone());
+				this.authorsEditor = new AuthorsEditorPanel(authorDetails, this.fields[f]);
+			}
 			else {
 				gbc.gridx = 0;
 				gbc.gridwidth = 1;
@@ -270,11 +372,319 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 			this.primaryIdField.setBibRefType(brts[0]);
 			this.primaryIdField.setRequired();
 		}
-		for (int f = 0; f < this.fields.length; f++)
-			this.fields[f].setBibRefType(brts[0]);
+		for (int f = 0; f < this.fields.length; f++) {
+			if (AUTHOR_ANNOTATION_TYPE.equals(this.fields[f].name) && (this.authorsEditor != null))
+				this.authorsEditor.setBibRefType(brts[0]);
+			else this.fields[f].setBibRefType(brts[0]);
+		}
 		
 		if (ref != null)
 			this.setRefData(ref);
+	}
+	
+	void editAuthors() {
+		if (this.authorsEditor != null)
+			this.authorsEditor.open();
+	}
+	
+	private static class AuthorsEditorPanel extends JPanel {
+		JDialog dialog;
+		BibRefType brt;
+		String[] details;
+		BibRefEditorField authorsField;
+		JTabbedPane authorTabs = new JTabbedPane();
+		AuthorsEditorPanel(String[] details, BibRefEditorField authorsField) {
+			super(new BorderLayout(), true);
+			this.details = checkDetails(details);
+			this.authorsField = authorsField;
+			this.authorTabs.setTabPlacement(JTabbedPane.LEFT);
+			
+			JButton addAuthor = new JButton("Add");
+			addAuthor.addActionListener(new ActionListener() {
+				public void actionPerformed(ActionEvent ae) {
+					addAuthor();
+				}
+			});
+			JButton removeAuthor = new JButton("Remove");
+			removeAuthor.addActionListener(new ActionListener() {
+				public void actionPerformed(ActionEvent ae) {
+					removeAuthor();
+				}
+			});
+			JButton moveAuthorUp = new JButton("Move Up");
+			moveAuthorUp.addActionListener(new ActionListener() {
+				public void actionPerformed(ActionEvent ae) {
+					moveAuthor(-1);
+				}
+			});
+			JButton moveAuthorDown = new JButton("Move Down");
+			moveAuthorDown.addActionListener(new ActionListener() {
+				public void actionPerformed(ActionEvent ae) {
+					moveAuthor(1);
+				}
+			});
+			
+			JButton close = new JButton("Close");
+			close.addActionListener(new ActionListener() {
+				public void actionPerformed(ActionEvent ae) {
+					close();
+				}
+			});
+			
+			JPanel buttonPanel = new JPanel(new FlowLayout());
+			buttonPanel.add(addAuthor);
+			buttonPanel.add(moveAuthorUp);
+			buttonPanel.add(moveAuthorDown);
+			buttonPanel.add(removeAuthor);
+			buttonPanel.add(close);
+			
+			this.add(this.authorTabs, BorderLayout.CENTER);
+			this.add(buttonPanel, BorderLayout.SOUTH);
+		}
+		private static String[] checkDetails(String[] details) {
+			ArrayList detailList = new ArrayList(Arrays.asList(details));
+			detailList.remove(AuthorData.AUTHOR_NAME_ATTRIBUTE);
+			detailList.add(0, AuthorData.AUTHOR_NAME_ATTRIBUTE);
+			if (detailList.contains(AuthorData.AUTHOR_AFFILIATION_ATTRIBUTE)) {
+				detailList.remove(AuthorData.AUTHOR_AFFILIATION_ATTRIBUTE);
+				detailList.add(1, AuthorData.AUTHOR_AFFILIATION_ATTRIBUTE);
+			}
+			return ((String[]) detailList.toArray(new String[detailList.size()]));
+		}
+		void addAuthor() {
+			final AuthorDataEditorPanel authorTab = new AuthorDataEditorPanel(this, null, true);
+			this.authorTabs.addTab("", authorTab);
+			this.authorTabs.setSelectedComponent(authorTab);
+			SwingUtilities.invokeLater(new Runnable() {
+				public void run() {
+					authorTab.nameField.valueInput.requestFocusInWindow();
+				}
+			});
+		}
+		void removeAuthor() {
+			int index = this.authorTabs.getSelectedIndex();
+			if (index == -1)
+				return;
+			this.authorTabs.removeTabAt(index);
+		}
+		void moveAuthor(int diff) {
+			int index = this.authorTabs.getSelectedIndex();
+			if (index == -1)
+				return;
+			if ((index == 0) && (diff < 0))
+				return; // no moving up first author
+			if (((index+1) == this.authorTabs.getTabCount()) && (diff > 0))
+				return; // no moving down last author
+			Component authorTab = this.authorTabs.getComponentAt(index);
+			String authorTitle = this.authorTabs.getTitleAt(index);
+			String authorToolTip = this.authorTabs.getToolTipTextAt(index);
+			this.authorTabs.removeTabAt(index);
+			this.authorTabs.insertTab(authorTitle, null, authorTab, authorToolTip, (index + diff));
+			this.authorTabs.setSelectedIndex(index + diff);
+		}
+		void updateAuthorName(AuthorDataEditorPanel adep) {
+			int index = this.authorTabs.getSelectedIndex();
+			if (index == -1)
+				return;
+			this.authorTabs.setTitleAt(index, adep.nameField.valueInput.getText());
+		}
+		private Dimension dialogSize = new Dimension(500, 200);
+		void open() {
+			if (this.dialog != null)
+				return;
+			this.dialog = DialogFactory.produceDialog("Edit Authors", true);
+			this.dialog.setDefaultCloseOperation(JDialog.DO_NOTHING_ON_CLOSE);
+			this.dialog.setSize(this.dialogSize);
+			this.dialog.setResizable(true);
+			this.dialog.getContentPane().setLayout(new BorderLayout());
+			this.dialog.getContentPane().add(this, BorderLayout.CENTER);
+			this.dialog.setLocationRelativeTo(this.dialog.getOwner());
+			final AuthorDataEditorPanel firstAuthorTab;
+			if (this.authorTabs.getTabCount() == 0) {
+				firstAuthorTab = new AuthorDataEditorPanel(this, null, true);
+				this.authorTabs.addTab("", firstAuthorTab);
+			}
+			else firstAuthorTab = ((AuthorDataEditorPanel) this.authorTabs.getComponentAt(0));
+			this.authorTabs.setSelectedComponent(firstAuthorTab);
+			SwingUtilities.invokeLater(new Runnable() {
+				public void run() {
+					firstAuthorTab.nameField.valueInput.requestFocusInWindow();
+				}
+			});
+			this.dialog.setVisible(true);
+		}
+		void close() {
+			if (this.dialog == null)
+				return;
+			this.dialogSize = this.dialog.getSize();
+			for (int a = 0; a < this.authorTabs.getTabCount(); a++) {
+				AuthorDataEditorPanel authorTab = ((AuthorDataEditorPanel) this.authorTabs.getComponentAt(a));
+				if (authorTab.nameField.checkError())
+					this.authorTabs.removeTabAt(a--);
+			}
+			RefData ref = new RefData();
+			this.fillRefData(ref);
+			this.authorsField.fillValueInput(ref);
+			this.authorsField.showError();
+			this.dialog.dispose();
+			this.dialog = null;
+		}
+		boolean setBibRefType(BibRefType brt) {
+			this.brt = brt;
+			boolean enabled;
+			if (this.brt.requiresAttribute(AUTHOR_ANNOTATION_TYPE)) {
+				this.authorsField.setRequired();
+				enabled = true;
+			}
+			else if (this.brt.canHaveAttribute(AUTHOR_ANNOTATION_TYPE)) {
+				this.authorsField.setOptional();
+				enabled = true;
+			}
+			else {
+				this.authorsField.setExcluded();
+				enabled = false;
+			}
+			this.authorsField.setBibRefType(this.brt);
+			this.authorsField.setValueInputEditable(false);
+			return enabled;
+		}
+		void fillValueInputs(RefData ref) {
+			this.authorTabs.removeAll();
+			AuthorData[] ads = ref.getAuthorDatas();
+			if (ads == null)
+				return;
+			for (int a = 0; a < ads.length; a++)
+				this.authorTabs.addTab(ads[a].name, new AuthorDataEditorPanel(this, ads[a], (a == 0)));
+			if (ads.length != 0) {
+				this.authorTabs.setSelectedIndex(0);
+				((AuthorDataEditorPanel) this.authorTabs.getSelectedComponent()).nameField.valueInput.requestFocusInWindow();
+			}
+			this.authorsField.fillValueInput(ref);
+		}
+		void fillRefData(RefData ref) {
+			if ((this.brt == null) || this.brt.canHaveAttribute(AUTHOR_ANNOTATION_TYPE)) {
+				ref.removeAttribute(AUTHOR_ANNOTATION_TYPE);
+				for (int a = 0; a < this.authorTabs.getTabCount(); a++)
+					((AuthorDataEditorPanel) this.authorTabs.getComponentAt(a)).fillRefData(ref);
+			}
+			else ref.removeAttribute(AUTHOR_ANNOTATION_TYPE);
+		}
+	}
+	private static class AuthorDataEditorPanel extends JPanel implements ActionListener, DocumentListener {
+		AuthorsEditorPanel parent;
+		AuthorDataEditorField nameField;
+		AuthorDataEditorField[] fields;
+		AuthorDataEditorPanel(AuthorsEditorPanel parent, AuthorData ad, boolean focusName) {
+			super(new GridBagLayout(), true);
+			this.parent = parent;
+			
+			this.fields = new AuthorDataEditorField[parent.details.length];
+			for (int d = 0; d < this.fields.length; d++) {
+				this.fields[d] = new AuthorDataEditorField(parent.details[d], (parent.details[d].substring(0, 1).toUpperCase() + parent.details[d].substring(1)), AuthorData.AUTHOR_NAME_ATTRIBUTE.equals(parent.details[d]));
+				if (ad != null)
+					this.fields[d].fillValueInput(ad);
+				if (AuthorData.AUTHOR_NAME_ATTRIBUTE.equals(parent.details[d]))
+					this.nameField = this.fields[d];
+				this.fields[d].valueInput.addActionListener(this);
+			}
+			
+			GridBagConstraints gbc = new GridBagConstraints();
+			gbc.gridy = 0;
+			gbc.fill = GridBagConstraints.HORIZONTAL;
+			gbc.insets.left = 5;
+			gbc.insets.right = 5;
+			gbc.insets.top = 2;
+			gbc.insets.bottom = 2;
+			
+			for (int f = 0; f < this.fields.length; f++) {
+				gbc.gridx = 0;
+				gbc.gridwidth = 1;
+				gbc.weightx = 0;
+				this.add(this.fields[f].label, gbc.clone());
+				gbc.gridx = 1;
+				gbc.gridwidth = 1;
+				gbc.weightx = 1;
+				this.add(this.fields[f].valueInput, gbc.clone());
+				gbc.gridy++;
+			}
+			
+			this.nameField.valueInput.getDocument().addDocumentListener(this);
+			this.nameField.checkError();
+		}
+		public void actionPerformed(ActionEvent ae) {
+			this.parent.close();
+		}
+		public void insertUpdate(DocumentEvent de) {
+			this.parent.updateAuthorName(this);
+			this.nameField.checkError();
+		}
+		public void removeUpdate(DocumentEvent de) {
+			this.parent.updateAuthorName(this);
+			this.nameField.checkError();
+		}
+		public void changedUpdate(DocumentEvent de) {}
+		void fillRefData(RefData ref) {
+			String name = this.nameField.valueInput.getText();
+			if (name == null)
+				return;
+			name = name.trim();
+			if (name.length() == 0)
+				return;
+			ref.addAttribute(AUTHOR_ANNOTATION_TYPE, name);
+			AuthorData ad = ref.getAuthorData(name);
+			for (int f = 0; f < this.fields.length; f++) {
+				if (!AuthorData.AUTHOR_NAME_ATTRIBUTE.equals(this.fields[f].name))
+					this.fields[f].fillAuthorData(ad);
+			}
+		}
+	}
+	private static class AuthorDataEditorField {
+		final String name;
+		String labelStr;
+		JLabel label;
+		JTextField valueInput = new JTextField();
+		AuthorDataEditorField(String name, String label, boolean required) {
+			this.name = name;
+			this.labelStr = label;
+			this.label = new JLabel((this.labelStr + ": "), JLabel.RIGHT);
+			if (required) {
+				this.valueInput.setBackground(Color.WHITE);
+				this.valueInput.setForeground(Color.BLACK);
+			}
+			else {
+				this.valueInput.setBackground(Color.LIGHT_GRAY);
+				this.valueInput.setForeground(Color.BLACK);
+			}
+		}
+		void fillValueInput(AuthorData ad) {
+			String value = ad.getAttribute(this.name);
+			this.valueInput.setText((value == null) ? "" : value);
+		}
+		void fillAuthorData(AuthorData ad) {
+			String value = this.valueInput.getText();
+			if (value == null)
+				value = "";
+			else value = value.trim();
+			if (value.length() == 0)
+				ad.removeAttribute(this.name);
+			else ad.setAttribute(this.name, value);
+		}
+		private Border valueInputBorder = null;
+		boolean checkError() {
+			//	TODO somehow facilitate specifying some validation pattern
+			String value = this.valueInput.getText();
+			if (value == null)
+				value = "";
+			else value = value.trim();
+			boolean error = (value.length() == 0);
+			if (this.valueInputBorder == null)
+				this.valueInputBorder = valueInput.getBorder();
+			this.valueInput.setBorder(BorderFactory.createCompoundBorder(
+					BorderFactory.createLineBorder((error ? Color.RED : this.label.getBackground()), 2),
+					this.valueInputBorder
+				));
+			return error;
+		}
 	}
 	
 	/**
@@ -297,8 +707,11 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 	public void fillRefData(RefData ref) {
 		if (this.primaryIdField != null)
 			this.primaryIdField.fillRefData(ref);
-		for (int f = 0; f < this.fields.length; f++)
-			this.fields[f].fillRefData(ref);
+		for (int f = 0; f < this.fields.length; f++) {
+			if (AUTHOR_ANNOTATION_TYPE.equals(this.fields[f].name) && (this.authorsEditor != null))
+				this.authorsEditor.fillRefData(ref);
+			else this.fields[f].fillRefData(ref);
+		}
 		SelectableBibRefType sbrt = ((SelectableBibRefType) this.typeSelector.getSelectedItem());
 		if (sbrt != null)
 			ref.setAttribute(PUBLICATION_TYPE_ATTRIBUTE, sbrt.brt.name);
@@ -311,8 +724,11 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 	public void setRefData(RefData ref) {
 		if (this.primaryIdField != null)
 			this.primaryIdField.fillValueInput(ref);
-		for (int f = 0; f < this.fields.length; f++)
-			this.fields[f].fillValueInput(ref);
+		for (int f = 0; f < this.fields.length; f++) {
+			if (AUTHOR_ANNOTATION_TYPE.equals(this.fields[f].name) && (this.authorsEditor != null))
+				this.authorsEditor.fillValueInputs(ref);
+			else this.fields[f].fillValueInput(ref);
+		}
 		String type = ref.getAttribute(PUBLICATION_TYPE_ATTRIBUTE);
 		if (type == null)
 			type = this.typeSystem.classify(ref);
@@ -342,7 +758,7 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 	/**
 	 * Retrieve the error messages for the reference data currently displayed in
 	 * the panel. If the data is valid, this method returns null.
-	 * @param lang tha language for the error messages
+	 * @param lang the language for the error messages
 	 * @return an array holding the error messages, or null, if there are no
 	 *         errors
 	 */
@@ -411,6 +827,7 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 		}
 		void showError() {
 			boolean error = !this.validateValueInput();
+			System.out.println(this.name + " showing error ==> " + error);
 			this.markError(error && ((this.brt == null) || this.brt.canHaveAttribute(this.name)));
 		}
 		private Border valueInputBorder = null;
@@ -618,7 +1035,21 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 	 *         was cancelled
 	 */
 	public static RefData createRefData(String[] idTypes) {
-		return editRefData(null, null, idTypes, "Enter Document Meta Data");
+		return editRefData(null, null, idTypes, null, "Enter Document Meta Data");
+	}
+	
+	/**
+	 * Display a dialog for a user to input a reference data set. If the
+	 * argument identifier types are null, no fields for identifiers will be
+	 * displayed.
+	 * @param idTypes the identifier types to display input fields for
+	 * @param authorDetails the names of the author detail attributes to make
+	 *            available for editing
+	 * @return the newly created reference data set, or null, if the edit dialog
+	 *         was cancelled
+	 */
+	public static RefData createRefData(String[] idTypes, String[] authorDetails) {
+		return editRefData(null, null, idTypes, authorDetails, "Enter Document Meta Data");
 	}
 	
 	/**
@@ -634,13 +1065,31 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 	 *         edit dialog was cancelled
 	 */
 	public static RefData createRefData(BibRefTypeSystem refTypeSystem, String[] idTypes) {
-		return editRefData(null, refTypeSystem, idTypes, "Enter Document Meta Data");
+		return editRefData(null, refTypeSystem, idTypes, null, "Enter Document Meta Data");
+	}
+	
+	/**
+	 * Display a dialog for a user to input a reference data set. If the
+	 * argument identifier types are null, no fields for identifiers will be
+	 * displayed. If the argument reference type system is null, the default one
+	 * will be used. If the argument identifier types are null, no fields for
+	 * identifiers will be displayed.
+	 * @param ref the reference data set to edit
+	 * @param refTypeSystem the reference type system to use for data validation
+	 * @param idTypes the identifier types to display input fields for
+	 * @param authorDetails the names of the author detail attributes to make
+	 *            available for editing
+	 * @return the newly created or updated reference data set, or null, if the
+	 *         edit dialog was cancelled
+	 */
+	public static RefData createRefData(BibRefTypeSystem refTypeSystem, String[] idTypes, String[] authorDetails) {
+		return editRefData(null, refTypeSystem, idTypes, authorDetails, "Enter Document Meta Data");
 	}
 	
 	/**
 	 * Display a reference data set for editing. If the argument data set is
 	 * empty, the dialog will be initially empty as well. If it is not null, the
-	 * data will be displayed, and the argument object wil be updated when the
+	 * data will be displayed, and the argument object will be updated when the
 	 * dialog is closed and not cancelled. If the argument identifier types
 	 * are null, no fields for identifiers will be displayed.
 	 * @param ref the reference data set to edit
@@ -649,13 +1098,30 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 	 *         edit dialog was cancelled
 	 */
 	public static RefData editRefData(RefData ref, String[] idTypes) {
-		return editRefData(ref, null, idTypes, "Edit Document Meta Data");
+		return editRefData(ref, null, idTypes, null, "Edit Document Meta Data");
 	}
 	
 	/**
 	 * Display a reference data set for editing. If the argument data set is
 	 * empty, the dialog will be initially empty as well. If it is not null, the
-	 * data will be displayed, and the argument object wil be updated when the
+	 * data will be displayed, and the argument object will be updated when the
+	 * dialog is closed and not cancelled. If the argument identifier types
+	 * are null, no fields for identifiers will be displayed.
+	 * @param ref the reference data set to edit
+	 * @param idTypes the identifier types to display input fields for
+	 * @param authorDetails the names of the author detail attributes to make
+	 *            available for editing
+	 * @return the newly created or updated reference data set, or null, if the
+	 *         edit dialog was cancelled
+	 */
+	public static RefData editRefData(RefData ref, String[] idTypes, String[] authorDetails) {
+		return editRefData(ref, null, idTypes, authorDetails, "Edit Document Meta Data");
+	}
+	
+	/**
+	 * Display a reference data set for editing. If the argument data set is
+	 * empty, the dialog will be initially empty as well. If it is not null, the
+	 * data will be displayed, and the argument object will be updated when the
 	 * dialog is closed and not cancelled. If the argument reference type system
 	 * is null, the default one will be used. If the argument identifier types
 	 * are null, no fields for identifiers will be displayed.
@@ -666,14 +1132,33 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 	 *         edit dialog was cancelled
 	 */
 	public static RefData editRefData(RefData ref, BibRefTypeSystem refTypeSystem, String[] idTypes) {
-		return editRefData(ref, refTypeSystem, idTypes, "Edit Document Meta Data");
+		return editRefData(ref, refTypeSystem, idTypes, null, "Edit Document Meta Data");
 	}
 	
-	private static RefData editRefData(RefData ref, BibRefTypeSystem refTypeSystem, String[] idTypes, String dialogTitle) {
+	/**
+	 * Display a reference data set for editing. If the argument data set is
+	 * empty, the dialog will be initially empty as well. If it is not null, the
+	 * data will be displayed, and the argument object will be updated when the
+	 * dialog is closed and not cancelled. If the argument reference type system
+	 * is null, the default one will be used. If the argument identifier types
+	 * are null, no fields for identifiers will be displayed.
+	 * @param ref the reference data set to edit
+	 * @param refTypeSystem the reference type system to use for data validation
+	 * @param idTypes the identifier types to display input fields for
+	 * @param authorDetails the names of the author detail attributes to make
+	 *            available for editing
+	 * @return the newly created or updated reference data set, or null, if the
+	 *         edit dialog was cancelled
+	 */
+	public static RefData editRefData(RefData ref, BibRefTypeSystem refTypeSystem, String[] idTypes, String[] authorDetails) {
+		return editRefData(ref, refTypeSystem, idTypes, authorDetails, "Edit Document Meta Data");
+	}
+	
+	private static RefData editRefData(RefData ref, BibRefTypeSystem refTypeSystem, String[] idTypes, String[] authorDetails, String dialogTitle) {
 		if (refTypeSystem == null)
 			refTypeSystem = BibRefTypeSystem.getDefaultInstance();
 		final JDialog refEditDialog = DialogFactory.produceDialog(dialogTitle, true);
-		final BibRefEditorPanel refEditorPanel = new BibRefEditorPanel(refTypeSystem, idTypes, ref);
+		final BibRefEditorPanel refEditorPanel = new BibRefEditorPanel(refTypeSystem, idTypes, authorDetails, ref);
 		final boolean[] cancelled = {false};
 		
 		JButton validate = new JButton("Validate");
@@ -734,8 +1219,9 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 		} catch (Exception e) {}
 		
 		String[] idTypes = {"", "SMNK-Pub", "HNS-PUB", "TEST"};
+		String[] authorDetails = {"ORCID", "name", "eMail", "affiliation", "LSID"};
 		
-		final BibRefEditorPanel brep = new BibRefEditorPanel(idTypes);
+		final BibRefEditorPanel brep = new BibRefEditorPanel(idTypes, authorDetails);
 		
 		JPanel bp = new JPanel(new FlowLayout(FlowLayout.CENTER), true);
 		JButton b;

@@ -10,11 +10,11 @@
  *     * Redistributions in binary form must reproduce the above copyright
  *       notice, this list of conditions and the following disclaimer in the
  *       documentation and/or other materials provided with the distribution.
- *     * Neither the name of the Universität Karlsruhe (TH) nor the
+ *     * Neither the name of the Universitaet Karlsruhe (TH) nor the
  *       names of its contributors may be used to endorse or promote products
  *       derived from this software without specific prior written permission.
  *
- * THIS SOFTWARE IS PROVIDED BY UNIVERSITÄT KARLSRUHE (TH) / KIT AND CONTRIBUTORS 
+ * THIS SOFTWARE IS PROVIDED BY UNIVERSITAET KARLSRUHE (TH) / KIT AND CONTRIBUTORS 
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
  * THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
  * ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY
@@ -145,6 +145,7 @@ public class Imaging {
 					for (int r = 0; r < this.image.getHeight(); r++) {
 						rgb = this.image.getRGB(c, r);
 						hsb = new Color(rgb).getColorComponents(hsb);
+//						hsb = Color.RGBtoHSB(((rgb >> 16) & 0xFF), ((rgb >> 8) & 0xFF), ((rgb >> 0) & 0xFF), hsb);
 						b = ((int) (hsb[2] * 128));
 						this.brightness[c][r] = ((b == 128) ? 127 : ((byte) b));
 					}
@@ -490,6 +491,7 @@ public class Imaging {
 			for (int r = 0; r < analysisImage.image.getHeight(); r++) {
 				rgb = analysisImage.image.getRGB(c, r);
 				hsb = new Color(rgb).getColorComponents(hsb);
+//				hsb = Color.RGBtoHSB(((rgb >> 16) & 0xFF), ((rgb >> 8) & 0xFF), ((rgb >> 0) & 0xFF), hsb);
 				analysisImage.brightness[c][r] = ((byte) (127 - analysisImage.brightness[c][r]));
 				analysisImage.image.setRGB(c, r, Color.HSBtoRGB(hsb [0], hsb[1], (1 - hsb[2])));
 			}
@@ -2657,6 +2659,7 @@ public class Imaging {
 							rgb = image.getRGB(((ix + ax) % iw), ((iy + ay) % ih));
 						else rgb = ((y < ih) ? image.getRGB(((ix + ax) % iw), y) : wrgb);
 						hsb = new Color(rgb).getColorComponents(hsb);
+//						hsb = Color.RGBtoHSB(((rgb >> 16) & 0xFF), ((rgb >> 8) & 0xFF), ((rgb >> 0) & 0xFF), hsb);
 						bs += hsb[2];
 					}
 				}

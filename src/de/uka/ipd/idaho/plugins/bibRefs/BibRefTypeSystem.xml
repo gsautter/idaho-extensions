@@ -1,5 +1,4 @@
 <bibRefTypeSystem>
-	<!-- to each reference type, add pattern validating publication date format -->
 	<bibRefType name="book" label="Book / Thesis / Monograph">
 		<constraint require="author"/>
 		<constraint require="title"/>
@@ -11,6 +10,9 @@
 		<constraint exclude="volumeTitle" message="Books don't have a volume title."/>
 		<constraint exclude="editor" message="Books don't have editors, make them authors."/>
 		<constraint condition="(./@pubDate and not(matches(./@pubDate, '[12][0-9]{3}\-((0[1-9])|(1[0-2]))\-((0[1-9])|([12][0-9])|(3[01]))')))" message="If specified, publication date has to be 'YYYY-MM-DD'."/>
+		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9]{3}\-(04|06|09|11)\-31'))" message="April, June, September, and November only have 30 days."/>
+		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9]{3}\-02\-(30|31)'))" message="February only has 28 days."/>
+		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9](([02468][1235679])|([13579][01345789]))\-02\-29'))" message="February has 29 days only in leap years."/>
 	  	<originTemplate>
 			<xsl:call-template name="locationAndPublisherOrigin"/>
 	  	</originTemplate>
@@ -35,6 +37,9 @@
 		<constraint exclude="journal" message="Books chapters don't have a journal name."/>
 		<constraint exclude="volume issue numero" message="Books chapters don't have a volume, issue, or numero."/>
 		<constraint condition="(./@pubDate and not(matches(./@pubDate, '[12][0-9]{3}\-((0[1-9])|(1[0-2]))\-((0[1-9])|([12][0-9])|(3[01]))')))" message="If specified, publication date has to be 'YYYY-MM-DD'."/>
+		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9]{3}\-(04|06|09|11)\-31'))" message="April, June, September, and November only have 30 days."/>
+		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9]{3}\-02\-(30|31)'))" message="February only has 28 days."/>
+		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9](([02468][1235679])|([13579][01345789]))\-02\-29'))" message="February has 29 days only in leap years."/>
 	  	<originTemplate>
 			<xsl:value-of select="./volumeTitle"/>, <xsl:call-template name="locationAndPublisherOrigin"/>
 	  	</originTemplate>
@@ -67,6 +72,9 @@
 		<constraint exclude="volumeTitle" message="Proceedings don't have a volume title."/>
 		<constraint exclude="editor" message="Proceedings don't have editors, make them authors."/>
 		<constraint condition="(./@pubDate and not(matches(./@pubDate, '[12][0-9]{3}\-((0[1-9])|(1[0-2]))\-((0[1-9])|([12][0-9])|(3[01]))')))" message="If specified, publication date has to be 'YYYY-MM-DD'."/>
+		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9]{3}\-(04|06|09|11)\-31'))" message="April, June, September, and November only have 30 days."/>
+		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9]{3}\-02\-(30|31)'))" message="February only has 28 days."/>
+		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9](([02468][1235679])|([13579][01345789]))\-02\-29'))" message="February has 29 days only in leap years."/>
 	  	<originTemplate>
 			<xsl:call-template name="locationAndPublisherOrigin"/>
 	  	</originTemplate>
@@ -91,6 +99,9 @@
 		<constraint exclude="journal" message="Proceedings papers don't have a journal name."/>
 		<constraint exclude="volume issue numero" message="Proceedings papers don't have a volume, issue, or numero."/>
 		<constraint condition="(./@pubDate and not(matches(./@pubDate, '[12][0-9]{3}\-((0[1-9])|(1[0-2]))\-((0[1-9])|([12][0-9])|(3[01]))')))" message="If specified, publication date has to be 'YYYY-MM-DD'."/>
+		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9]{3}\-(04|06|09|11)\-31'))" message="April, June, September, and November only have 30 days."/>
+		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9]{3}\-02\-(30|31)'))" message="February only has 28 days."/>
+		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9](([02468][1235679])|([13579][01345789]))\-02\-29'))" message="February has 29 days only in leap years."/>
 		<constraint exclude="bookContentInfo" message="Proceedings papers don't have content info."/>
 	  	<originTemplate>
 			<xsl:value-of select="./volumeTitle"/><xsl:if test="./location or ./publisher or ./journalOrPublisher">, <xsl:call-template name="locationAndPublisherOrigin"/></xsl:if>
@@ -123,6 +134,9 @@
 		<constraint exclude="pagination"/>
 		<constraint condition="(not(./@title) and ./@editor)" message="Only special issues have editors."/>
 		<constraint condition="(./@pubDate and not(matches(./@pubDate, '[12][0-9]{3}\-((0[1-9])|(1[0-2]))\-((0[1-9])|([12][0-9])|(3[01]))')))" message="If specified, publication date has to be 'YYYY-MM-DD'."/>
+		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9]{3}\-(04|06|09|11)\-31'))" message="April, June, September, and November only have 30 days."/>
+		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9]{3}\-02\-(30|31)'))" message="February only has 28 days."/>
+		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9](([02468][1235679])|([13579][01345789]))\-02\-29'))" message="February has 29 days only in leap years."/>
 	  	<originTemplate>
 			<xsl:call-template name="journalOrigin"/>
 	  	</originTemplate>
@@ -154,10 +168,13 @@
 		<constraint require="year" pattern="((1[5-9][0-9][0-9])|(20[0-9][0-9]))" message="Year of publication is missing or invalid."/>
 		<constraint require="journal journalOrPublisher" message="Journal name is missing."/>
 		<constraint require="volume issue numero" pattern="[1-9][0-9]*" message="Volume, issue, and numero are missing or invalid."/>
-		<constraint require="pagination" pattern="([1-9][0-9]{0,6})(\s*\-+\s*[1-9][0-9]*)?"/>
+		<constraint require="pagination" pattern="(e\s*)?[1-9][0-9]{0,6}(\s*\-+\s*[1-9][0-9]*)?"/>
 		<constraint condition="(contains(./@pagination, '-') and (normalize-space(substring-before(./@pagination, '-')) > normalize-space(substring-after(./@pagination, '-'))))" message="Pagination is invalid, first page has to be less than last."/>
 		<constraint condition="(not(./@volumeTitle) and ./@editor)" message="Only special issues have editors."/>
 		<constraint condition="(./@pubDate and not(matches(./@pubDate, '[12][0-9]{3}\-((0[1-9])|(1[0-2]))\-((0[1-9])|([12][0-9])|(3[01]))')))" message="If specified, publication date has to be 'YYYY-MM-DD'."/>
+		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9]{3}\-(04|06|09|11)\-31'))" message="April, June, September, and November only have 30 days."/>
+		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9]{3}\-02\-(30|31)'))" message="February only has 28 days."/>
+		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9](([02468][1235679])|([13579][01345789]))\-02\-29'))" message="February has 29 days only in leap years."/>
 		<constraint exclude="bookContentInfo" message="Journal articles don't have content info."/>
 	  	<originTemplate>
 			<xsl:choose>
@@ -208,6 +225,9 @@
 		<constraint exclude="bookContentInfo" message="Websites don't have content info."/>
 		<constraint exclude="pubDate" message="Websites don't have a date of publication."/>
 		<constraint condition="(./@accessDate and not(matches(./@accessDate, '[12][0-9]{3}\-((0[1-9])|(1[0-2]))\-((0[1-9])|([12][0-9])|(3[01]))')))" message="If specified, access date has to be 'YYYY-MM-DD'."/>
+		<constraint condition="(./@accessDate and matches(./@accessDate, '[12][0-9]{3}\-(04|06|09|11)\-31'))" message="April, June, September, and November only have 30 days."/>
+		<constraint condition="(./@accessDate and matches(./@accessDate, '[12][0-9]{3}\-02\-(30|31)'))" message="February only has 28 days."/>
+		<constraint condition="(./@accessDate and matches(./@accessDate, '[12][0-9](([02468][1235679])|([13579][01345789]))\-02\-29'))" message="February has 29 days only in leap years."/>
 	  	<originTemplate>
 			<xsl:choose>
 				<xsl:when test="./accessDate"><xsl:value-of select="./publicationUrl"/> (accessed <xsl:value-of select="./accessDate"/>)</xsl:when>
@@ -276,6 +296,13 @@
 					<mods:roleTerm>Author</mods:roleTerm>
 				</mods:role>
 				<mods:namePart><xsl:value-of select="."/></mods:namePart>
+				<xsl:for-each select="./@*"><xsl:choose>
+					<xsl:when test="name(.) = 'affiliation'"><mods:affiliation><xsl:value-of select="."/></mods:affiliation></xsl:when>
+					<xsl:otherwise><mods:nameIdentifier>
+						<xsl:attribute name="type"><xsl:value-of select="name(.)"/></xsl:attribute>
+						<xsl:value-of select="."/>
+					</mods:nameIdentifier></xsl:otherwise>
+				</xsl:choose></xsl:for-each>
 			</mods:name>
 		</xsl:for-each>
 	</xsl:template>

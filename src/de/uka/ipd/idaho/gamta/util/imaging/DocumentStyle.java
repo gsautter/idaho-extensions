@@ -10,11 +10,11 @@
  *     * Redistributions in binary form must reproduce the above copyright
  *       notice, this list of conditions and the following disclaimer in the
  *       documentation and/or other materials provided with the distribution.
- *     * Neither the name of the Universität Karlsruhe (TH) / KIT nor the
+ *     * Neither the name of the Universitaet Karlsruhe (TH) / KIT nor the
  *       names of its contributors may be used to endorse or promote products
  *       derived from this software without specific prior written permission.
  *
- * THIS SOFTWARE IS PROVIDED BY UNIVERSITÄT KARLSRUHE (TH) / KIT AND CONTRIBUTORS 
+ * THIS SOFTWARE IS PROVIDED BY UNIVERSITAET KARLSRUHE (TH) / KIT AND CONTRIBUTORS 
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
  * THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
  * ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY
@@ -31,6 +31,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Enumeration;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
 import java.util.Properties;
 import java.util.Set;
@@ -314,11 +315,11 @@ public class DocumentStyle extends Properties {
 			}
 		}
 		
-		private ParameterDescription getParameterDescription(String pn, boolean create) {
-			ParameterDescription pd = ((ParameterDescription) this.parameterNamesToDescriptions.get(pn));
+		private ParameterDescription getParameterDescription(String lpn, boolean create) {
+			ParameterDescription pd = ((ParameterDescription) this.parameterNamesToDescriptions.get(lpn));
 			if ((pd == null) && create) {
-				pd = new ParameterDescription(this.parameterNamePrefix + "." + pn);
-				this.parameterNamesToDescriptions.put(pn, pd);
+				pd = new ParameterDescription(this.parameterNamePrefix + "." + lpn);
+				this.parameterNamesToDescriptions.put(lpn, pd);
 			}
 			return pd;
 		}
@@ -370,10 +371,35 @@ public class DocumentStyle extends Properties {
 		}
 		
 		/**
+		 * Retrieve the default value of a parameter in the group. If there is
+		 * a list of permitted values, it must contain any default value.
+		 * @param pn the name of the parameter to obtain the default value for
+		 * @return the default value of the parameter
+		 */
+		public String getParamDefaultValue(String pn) {
+			ParameterDescription pd = this.getParameterDescription(pn, false);
+			return ((pd == null) ? null : pd.getDefaultValue());
+		}
+		
+		/**
+		 * Provide the default value for a parameter in the group. If there is
+		 * a list of permitted values for the same parameter, the default value
+		 * must be contained in it. If it is not, the list of permitted values
+		 * is erased.
+		 * @param pn the name of the parameter to set the default value for
+		 * @param defaultValue the default value to set
+		 */
+		public void setParamDefaultValue(String pn, String defaultValue) {
+			ParameterDescription pd = this.getParameterDescription(pn, (defaultValue != null));
+			if (pd != null)
+				pd.setDefaultValue(defaultValue);
+		}
+		
+		/**
 		 * Retrieve a list of permitted values for a parameter in the group.
 		 * This is particularly useful if there are only few meaningful values.
 		 * The argument name has to be without the group prefix.
-		 * @param pn the name of the parameter to obtain the label for
+		 * @param pn the name of the parameter to obtain the values for
 		 * @return the values for the argument parameter
 		 */
 		public String[] getParamValues(String pn) {
@@ -385,8 +411,10 @@ public class DocumentStyle extends Properties {
 		 * Provide a list of permitted values for a parameter in the group,
 		 * e.g. for displaying a selection in a UI. This is particularly useful
 		 * if there are only few meaningful values. The argument name has to be
-		 * without the group prefix.
-		 * @param pn the name of the parameter to set the label for
+		 * without the group prefix. If there is a default value for the same
+		 * parameter, it must be contained in the argument list, or it is
+		 * erased.
+		 * @param pn the name of the parameter to set the values for
 		 * @param values the values for the argument parameter
 		 */
 		public void setParamValues(String pn, String[] values) {
@@ -420,6 +448,32 @@ public class DocumentStyle extends Properties {
 			if (pd != null)
 				pd.setValueLabel(pv, label);
 		}
+		
+		/**
+		 * Mark a parameter as required for the whole parameter group to be
+		 * useful. This is intended to help semantics in a configuration UI,
+		 * e.g. by highlighting respective input fields. The argument name has
+		 * to be without the group prefix.
+		 * @param pn the name of the parameter to mark as required
+		 */
+		public void setParamRequired(String pn) {
+			ParameterDescription pd = this.getParameterDescription(pn, false);
+			if (pd != null)
+				pd.setRequired();
+		}
+		
+		/**
+		 * Check if a parameter is required for the whole parameter group to be
+		 * useful. This is intended to help semantics in a configuration UI,
+		 * e.g. by highlighting respective input fields. The argument name has
+		 * to be without the group prefix.
+		 * @param pn the name of the parameter to check
+		 * @return true if the parameter is required
+		 */
+		public boolean isParamRequired(String pn) {
+			ParameterDescription pd = this.getParameterDescription(pn, false);
+			return ((pd != null) && pd.isRequired());
+		}
 	}
 	
 	/**
@@ -434,6 +488,10 @@ public class DocumentStyle extends Properties {
 	 * 
 	 * @author sautter
 	 */
+	/**
+	 * @author sautter
+	 *
+	 */
 	public static class ParameterDescription {
 		
 		/** the full name of the parameter, including the prefix */
@@ -445,8 +503,13 @@ public class DocumentStyle extends Properties {
 		private String label;
 		private String description;
 		
+		private String defaultValue = null;
 		private String[] values = null;
 		private Properties valuesToLabels = new Properties();
+		
+		private boolean required = false;
+		private HashMap valuesToRequiredParameters = null;
+		private HashMap valuesToExcludedParameters = null;
 		
 		/** Constructor
 		 * @param fpn the full name of the parameter, including the prefix
@@ -489,6 +552,32 @@ public class DocumentStyle extends Properties {
 		}
 		
 		/**
+		 * Retrieve the default value of the parameter. If there is a list of
+		 * permitted values, it must contain any default value.
+		 * @return the default value of the parameter
+		 */
+		public String getDefaultValue() {
+			return this.defaultValue;
+		}
+		
+		/**
+		 * Provide the default value of the parameter. If there is a list of
+		 * permitted values, the default value must be contained in it. If it
+		 * is not, the list of permitted values is erased.
+		 * @param defaultValue the default value to set
+		 */
+		public void setDefaultValue(String defaultValue) {
+			this.defaultValue = defaultValue;
+			if ((this.values == null) || (this.defaultValue == null))
+				return;
+			for (int v = 0; v < this.values.length; v++) {
+				if (this.defaultValue.equals(this.values[v]))
+					return;
+			}
+			this.values = null;
+		}
+		
+		/**
 		 * Retrieve a list of permitted values for the parameter. This is
 		 * particularly useful if there are only few meaningful values.
 		 * @return the values for the parameter
@@ -500,11 +589,20 @@ public class DocumentStyle extends Properties {
 		/**
 		 * Provide a list of permitted values for the parameter, e.g. for
 		 * displaying a selection in a UI. This is particularly useful if there
-		 * are only few meaningful values.
+		 * are only few meaningful values. If there is a non-null default value
+		 * for the parameter, it must be contained in the argument list, or it
+		 * is erased
 		 * @param values the values for the parameter
 		 */
 		public void setValues(String[] values) {
 			this.values = values;
+			if ((this.values == null) || (this.defaultValue == null))
+				return;
+			for (int v = 0; v < this.values.length; v++) {
+				if (this.defaultValue.equals(this.values[v]))
+					return;
+			}
+			this.defaultValue = null;
 		}
 		
 		/**
@@ -527,6 +625,172 @@ public class DocumentStyle extends Properties {
 				this.valuesToLabels.remove(pv);
 			else this.valuesToLabels.setProperty(pv, label);
 		}
+		
+		/**
+		 * Mark the parameter as required for the whole parameter group to be
+		 * useful. This is intended to help semantics in a configuration UI,
+		 * e.g. by highlighting respective input fields.
+		 */
+		public void setRequired() {
+			this.required = true;
+		}
+		
+		/**
+		 * Check if the parameter is required for the whole parameter group to
+		 * be useful. This is intended to help semantics in a configuration UI,
+		 * e.g. by highlighting respective input fields.
+		 * @return true if the parameter is required
+		 */
+		public boolean isRequired() {
+			return this.required;
+		}
+		
+		/**
+		 * Indicate that a value of this parameter requires another parameter.
+		 * Setting the argument value to null indicates using this parameter
+		 * generally requires the argument parameter. This is intended to help
+		 * reflecting dependencies in a configuration UI, e.g. by enabling and
+		 * disabling input fields.
+		 * @param pv the value of this parameter requiring the other parameter
+		 * @param rpn the name of the required parameter
+		 */
+		public void addRequiredParameter(String pv, String rpn) {
+			if (rpn == null)
+				return;
+			if (this.valuesToRequiredParameters == null)
+				this.valuesToRequiredParameters = new HashMap();
+			HashSet rpns = ((HashSet) this.valuesToRequiredParameters.get(pv));
+			if (rpns == null) {
+				rpns = new HashSet();
+				this.valuesToRequiredParameters.put(pv, rpns);
+			}
+			rpns.add(rpn);
+		}
+		
+		/**
+		 * Check if a specific value of this parameter requires another
+		 * parameter. This is intended to help reflecting dependencies in a
+		 * configuration UI, e.g. by enabling and disabling input fields.
+		 * @param pv the value of this parameter
+		 * @param cpn the parameter name to check
+		 * @return true if the argument value of this parameter requires the
+		 *        argument parameter
+		 */
+		public boolean requiresParameter(String pv, String cpn) {
+			if (cpn == null)
+				return false;
+			if (this.valuesToRequiredParameters == null)
+				return false;
+			HashSet rpns = ((HashSet) this.valuesToRequiredParameters.get(pv));
+			if ((rpns != null) && (rpns.contains(cpn)))
+				return true;
+			return ((pv == null) ? false : this.requiresParameter(null, cpn));
+		}
+		
+		/**
+		 * Get the names of the other parameters required for this parameter to
+		 * be useful. This is intended to help reflecting dependencies in a
+		 * configuration UI, e.g. by enabling and disabling input fields.
+		 * @return an array holding the names of the required parameters
+		 */
+		public String[] getRequiredParameters() {
+			return this.getRequiredParameters(null);
+		}
+		
+		/**
+		 * Get the names of the other parameters required for a specific value
+		 * of this parameter. This is intended to help reflecting dependencies
+		 * in a configuration UI, e.g. by enabling and disabling input fields.
+		 * @param pv the value of this parameter
+		 * @return an array holding the names of the required parameters
+		 */
+		public String[] getRequiredParameters(String pv) {
+			if (this.valuesToRequiredParameters == null)
+				return null;
+			HashSet rpns = ((HashSet) this.valuesToRequiredParameters.get(pv));
+			return ((rpns == null) ? null : ((String[]) rpns.toArray(new String[rpns.size()])));
+		}
+		
+		/**
+		 * Indicate that a value of this parameter excludes using another
+		 * parameter. Setting the argument value to null indicates using this
+		 * parameter generally excludes the argument parameter. This is
+		 * intended to help reflecting dependencies in a configuration UI,
+		 * e.g. by enabling and disabling input fields.
+		 * @param pv the value of this parameter excluding the other parameter
+		 * @param epn the name of the excluded parameter
+		 */
+		public void addExcludedParameter(String pv, String epn) {
+			if (this.valuesToExcludedParameters == null)
+				this.valuesToExcludedParameters = new HashMap();
+			HashSet epns = ((HashSet) this.valuesToExcludedParameters.get(pv));
+			if (epns == null) {
+				epns = new HashSet();
+				this.valuesToExcludedParameters.put(pv, epns);
+			}
+			epns.add(epn);
+		}
+		
+		/**
+		 * Check if a specific value of this parameter excludes using another
+		 * parameter. This is intended to help reflecting dependencies in a
+		 * configuration UI, e.g. by enabling and disabling input fields.
+		 * @param pv the value of this parameter
+		 * @param cpn the parameter name to check
+		 * @return true if the argument value of this parameter excludes using
+		 *        the argument parameter
+		 */
+		public boolean excludesParameter(String pv, String cpn) {
+			if (cpn == null)
+				return false;
+			if (this.valuesToExcludedParameters == null)
+				return false;
+			HashSet epns = ((HashSet) this.valuesToExcludedParameters.get(pv));
+			if ((epns != null) && (epns.contains(cpn)))
+				return true;
+			return ((pv == null) ? false : this.excludesParameter(null, cpn));
+		}
+		
+		/**
+		 * Get the names of the other parameters excluded by this parameter.
+		 * This is intended to help reflecting dependencies in a configuration
+		 * UI, e.g. by enabling and disabling input fields.
+		 * @return an array holding the names of the excluded parameters
+		 */
+		public String[] getExcludedParameters() {
+			return this.getExcludedParameters(null);
+		}
+		
+		/**
+		 * Get the names of the other parameters excluded by a specific value
+		 * of this parameter. This is intended to help reflecting dependencies
+		 * in a configuration UI, e.g. by enabling and disabling input fields.
+		 * @param pv the value of this parameter
+		 * @return an array holding the names of the excluded parameters
+		 */
+		public String[] getExcludedParameters(String pv) {
+			if (this.valuesToExcludedParameters == null)
+				return null;
+			HashSet epns = ((HashSet) this.valuesToExcludedParameters.get(pv));
+			return ((epns == null) ? null : ((String[]) epns.toArray(new String[epns.size()])));
+		}
+	}
+	
+	/**
+	 * Interface to be implemented by descriptions of parameters or parameter
+	 * groups that can provide some for of testing functionality, e.g. some
+	 * output that informs a user about how the current value of a parameter
+	 * or value combination in a parameter group behaves.
+	 * 
+	 * @author sautter
+	 */
+	public static interface TestableElement {
+		
+		/**
+		 * Test the parameter or parameter group described by the implementor.
+		 * @param paramGroup the parameter group containing the current values
+		 */
+		public abstract void test(Properties paramGroup);
 	}
 	
 	private static Map descriptionsByParameterGroupPrefix = Collections.synchronizedMap(new TreeMap());

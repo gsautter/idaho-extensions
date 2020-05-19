@@ -10,11 +10,11 @@
  *     * Redistributions in binary form must reproduce the above copyright
  *       notice, this list of conditions and the following disclaimer in the
  *       documentation and/or other materials provided with the distribution.
- *     * Neither the name of the Universität Karlsruhe (TH) nor the
+ *     * Neither the name of the Universitaet Karlsruhe (TH) nor the
  *       names of its contributors may be used to endorse or promote products
  *       derived from this software without specific prior written permission.
  *
- * THIS SOFTWARE IS PROVIDED BY UNIVERSITÄT KARLSRUHE (TH) / KIT AND CONTRIBUTORS 
+ * THIS SOFTWARE IS PROVIDED BY UNIVERSITAET KARLSRUHE (TH) / KIT AND CONTRIBUTORS 
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
  * THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
  * ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY
@@ -46,7 +46,8 @@ import de.uka.ipd.idaho.plugins.bibRefs.refBank.RefBankClient.BibRef;
 import de.uka.ipd.idaho.plugins.bibRefs.refBank.RefBankClient.BibRefIterator;
 
 /**
- * Data source fetching document meta data from a RefBank node. This class
+ * Data source fetching document meta data from a RefBank node. If the URL of
+ * the RefBank node to use is not specified via the constructor, this class
  * expects its data provider to have a file named <code>config.RefBank.cnfg</code>
  * available, with a setting named <code>refBankNodeUrl</code> containing the
  * URL of the RefBank node to connect to.
@@ -59,14 +60,23 @@ public class RefBankRefDataSource extends BibRefDataSource {
 	/** Constructor
 	 */
 	public RefBankRefDataSource() {
+		this(null);
+	}
+	
+	/** Constructor
+	 * @param refBankUrl the URL of the RefBank node to use
+	 */
+	public RefBankRefDataSource(String refBankUrl) {
 		super("RefBank");
+		if (refBankUrl != null)
+			this.rbk = new RefBankClient(refBankUrl);
 	}
 	
 	/* (non-Javadoc)
 	 * @see de.uka.ipd.idaho.plugins.bibRefs.BibRefDataSource#init()
 	 */
 	public void init() {
-		try {
+		if (this.rbk == null) try {
 			Reader setReader = new BufferedReader(new InputStreamReader(this.dataProvider.getInputStream("config.RefBank.cnfg"), "UTF-8"));
 			Settings set = Settings.loadSettings(setReader);
 			String refBankUrl = set.getSetting("refBankNodeUrl");
@@ -120,8 +130,11 @@ public class RefBankRefDataSource extends BibRefDataSource {
 		while (brit.hasNextRef()) {
 			BibRef br = brit.getNextRef();
 			RefData rd = this.getRefData(br);
-			if (rd != null)
-				rdList.add(rd);
+			if (rd == null)
+				continue;
+			rd.setAttribute(REFERENCE_DATA_SOURCE_ATTRIBUTE, "RefBank");
+			BibRefUtils.classify(rd);
+			rdList.add(rd);
 		}
 		return ((RefData[]) rdList.toArray(new RefData[rdList.size()]));
 	}

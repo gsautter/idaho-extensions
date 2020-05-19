@@ -3,10 +3,10 @@
 		<rank name="domain" abbreviations="dom."/>
 	</rankGroup>
 	<rankGroup name="kingdom">
-		<rank name="superKingdom" abbreviations="superreg."/>
-		<rank name="kingdom" abbreviations="reg."/>
-		<rank name="subKingdom" abbreviations="subreg."/>
-		<rank name="infraKingdom" abbreviations="infrareg."/>
+		<rank name="superKingdom" abbreviations="superreg." synonyms="superRegnum"/>
+		<rank name="kingdom" abbreviations="reg." synonyms="regnum"/>
+		<rank name="subKingdom" abbreviations="subreg." synonyms="subRegnum"/>
+		<rank name="infraKingdom" abbreviations="infrareg." synonyms="infraRegnum"/>
 	</rankGroup>
 	<rankGroup name="phylum">
 		<rank name="superPhylum" abbreviations="superphyl."/>
@@ -15,26 +15,26 @@
 		<rank name="infraPhylum" abbreviations="infraphyl."/>
 	</rankGroup>
 	<rankGroup name="class">
-		<rank name="superClass" abbreviations="supercl."/>
-		<rank name="class" abbreviations="cl."/>
-		<rank name="subClass" abbreviations="subcl."/>
-		<rank name="infraClass" abbreviations="infracl."/>
+		<rank name="superClass" abbreviations="supercl." synonyms="superClassis"/>
+		<rank name="class" abbreviations="cl." synonyms="classis"/>
+		<rank name="subClass" abbreviations="subcl." synonyms="subClassis"/>
+		<rank name="infraClass" abbreviations="infracl." synonyms="infraClassis"/>
 	</rankGroup>
 	<rankGroup name="order">
-		<rank name="superOrder" abbreviations="superord."/>
-		<rank name="order" abbreviations="ord."/>
-		<rank name="subOrder" abbreviations="subord."/>
-		<rank name="infraOrder" abbreviations="infraord."/>
+		<rank name="superOrder" abbreviations="superord." synonyms="superOrdo"/>
+		<rank name="order" abbreviations="ord." synonyms="ordo"/>
+		<rank name="subOrder" abbreviations="subord." synonyms="subOrdo"/>
+		<rank name="infraOrder" abbreviations="infraord." synonyms="infraOrdo"/>
 	</rankGroup>
 	<rankGroup name="family">
-		<rank name="superFamily" abbreviations="superfam." suffix="oidea"/>
-		<rank name="family" abbreviations="fam." suffix="idae"/>
-		<rank name="subFamily" abbreviations="subfam." suffix="inae"/>
-		<rank name="infraFamily" abbreviations="infrafam."/>
-		<rank name="superTribe" abbreviations="supertrib."/>
-		<rank name="tribe" abbreviations="trib." suffix="ini"/>
-		<rank name="subTribe" abbreviations="subtrib." suffix="ina"/>
-		<rank name="infraTribe" abbreviations="infratrib."/>
+		<rank name="superFamily" abbreviations="superfam." suffix="oidea" synonyms="superFamilia"/>
+		<rank name="family" abbreviations="fam." suffix="idae" synonyms="familia"/>
+		<rank name="subFamily" abbreviations="subfam." suffix="inae" synonyms="subFamilia"/>
+		<rank name="infraFamily" abbreviations="infrafam." synonyms="infraFamilia"/>
+		<rank name="superTribe" abbreviations="supertrib." synonyms="superTribus"/>
+		<rank name="tribe" abbreviations="trib." suffix="ini" synonyms="tribus"/>
+		<rank name="subTribe" abbreviations="subtrib." suffix="ina" synonyms="subTribus"/>
+		<rank name="infraTribe" abbreviations="infratrib." synonyms="infraTribus"/>
 	</rankGroup>
 	<rankGroup name="genus">
 		<rank name="genus" abbreviations="gen."/>
@@ -44,6 +44,6 @@
 		<rank name="speciesAggregate" abbreviations="aggr."/>
 		<rank name="species" abbreviations="sp.;spec."/>
 		<rank name="subSpecies" abbreviations="ssp.;subsp.;subspec." epithetTemplate="subsp. @epithet"/>
-		<rank name="variety" abbreviations="var.;v." epithetTemplate="var. @epithet"/>
+		<rank name="variety" abbreviations="var.;v." epithetTemplate="var. @epithet" synonyms="varietas"/>
 	</rankGroup>
 </rankSystem>

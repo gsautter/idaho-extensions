@@ -10,11 +10,11 @@
  *     * Redistributions in binary form must reproduce the above copyright
  *       notice, this list of conditions and the following disclaimer in the
  *       documentation and/or other materials provided with the distribution.
- *     * Neither the name of the Universität Karlsruhe (TH) nor the
+ *     * Neither the name of the Universitaet Karlsruhe (TH) nor the
  *       names of its contributors may be used to endorse or promote products
  *       derived from this software without specific prior written permission.
  *
- * THIS SOFTWARE IS PROVIDED BY UNIVERSITÄT KARLSRUHE (TH) / KIT AND CONTRIBUTORS 
+ * THIS SOFTWARE IS PROVIDED BY UNIVERSITAET KARLSRUHE (TH) / KIT AND CONTRIBUTORS 
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
  * THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
  * ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY
@@ -168,6 +168,7 @@ public class TaxonomicRankSystem {
 		String suffix = "";
 		
 		String[] abbreviations;
+		String[] synonyms;
 		
 		String epithetTemplate = "@epithet";
 		
@@ -242,6 +243,18 @@ public class TaxonomicRankSystem {
 			String[] abbreviations = new String[this.abbreviations.length];
 			System.arraycopy(this.abbreviations, 0, abbreviations, 0, this.abbreviations.length);
 			return abbreviations;
+		}
+		
+		/**
+		 * Retrieve all synonyms of the rank. Client code may freely modify
+		 * the returned array, as a new one is allocated and filled for each
+		 * invocation of this method.
+		 * @return an array holding the synonyms
+		 */
+		public String[] getSynonyms() {
+			String[] synonyms = new String[this.synonyms.length];
+			System.arraycopy(this.synonyms, 0, synonyms, 0, this.synonyms.length);
+			return synonyms;
 		}
 		
 		/**
@@ -336,6 +349,7 @@ public class TaxonomicRankSystem {
 			String rsn = ((String) rit.next());
 			rankSystemNameSynonyms.setProperty(rankSystemNamesToCodes.getProperty(rsn).toLowerCase(), rsn.toLowerCase());
 		}
+		
 		rankSystemNamesToDomains.setProperty("animalia", "Zoology");
 		rankSystemNamesToDomains.setProperty("plantae", "Botany");
 		rankSystemNamesToDomains.setProperty("bacteriae", "Bacteriology");
@@ -346,7 +360,18 @@ public class TaxonomicRankSystem {
 			String rsn = ((String) rit.next());
 			rankSystemNameSynonyms.setProperty(rankSystemNamesToDomains.getProperty(rsn).toLowerCase(), rsn.toLowerCase());
 		}
-		rankSystemNameSynonyms.setProperty("ICBN".toLowerCase(), "plantae".toLowerCase());
+		
+		//	map legacy biology-specific code to unified ICN
+		rankSystemNameSynonyms.setProperty("ICBN".toLowerCase(), "plantae");
+		
+		//	map non-classical kingdoms (or unranked alternatives to the latter) to the proper rank systems (they do occur in data as kingdoms ...)
+		rankSystemNameSynonyms.setProperty("Archaea".toLowerCase(), "bacteriae");
+		rankSystemNameSynonyms.setProperty("Chromalveolata".toLowerCase(), "algae");
+		rankSystemNameSynonyms.setProperty("Chromista".toLowerCase(), "algae");
+		rankSystemNameSynonyms.setProperty("Metazoa".toLowerCase(), "animalia");
+		rankSystemNameSynonyms.setProperty("Protista".toLowerCase(), "plantae");
+		rankSystemNameSynonyms.setProperty("Protozoa".toLowerCase(), "fungi");
+		rankSystemNameSynonyms.setProperty("Viridiplantae".toLowerCase(), "plantae");
 	}
 	
 	/**
@@ -388,10 +413,11 @@ public class TaxonomicRankSystem {
 	public static TaxonomicRankSystem getRankSystem(String name) {
 		
 		//	cast null to 'generic'
-		if (name == null) name = "generic";
+		if (name == null)
+			name = "generic";
 		
 		//	normalize name
-		name = rankSystemNameSynonyms.getProperty(name.toLowerCase(), name.toLowerCase());
+		String nName = rankSystemNameSynonyms.getProperty(name.toLowerCase(), name.toLowerCase());
 		
 		//	try cache first
 		TaxonomicRankSystem trs = ((TaxonomicRankSystem) rankSystemCache.get(name));
@@ -401,8 +427,14 @@ public class TaxonomicRankSystem {
 		//	load from XML
 		try {
 			String rsResourceName = TaxonomicRankSystem.class.getName().replaceAll("\\.", "/");
-			rsResourceName = rsResourceName.substring(0, rsResourceName.lastIndexOf('/')) + "/rankSystems/" + name + ".xml";
+			rsResourceName = rsResourceName.substring(0, rsResourceName.lastIndexOf('/')) + "/rankSystems/" + nName + ".xml";
 			InputStream rsIn = TaxonomicRankSystem.class.getClassLoader().getResourceAsStream(rsResourceName);
+			if (rsIn == null) {
+				System.out.println("Unable to find rank system '" + name + "' ==> '" + nName + "'");
+				System.out.println("Resource name is " + rsResourceName);
+				System.out.println("Falling back to 'generic'");
+				return getRankSystem("generic");
+			}
 			BufferedReader rsr = new BufferedReader(new InputStreamReader(rsIn, "UTF-8"));
 			final TaxonomicRankSystem[] trsl = {null};
 			rankSystemParser.stream(rsr, new TokenReceiver() {
@@ -414,11 +446,13 @@ public class TaxonomicRankSystem {
 							TreeNodeAttributeSet tnas = TreeNodeAttributeSet.getTagAttributes(token, rankSystemGrammar);
 							String name = tnas.getAttribute("name");
 							String abbreviationString = tnas.getAttribute("abbreviations");
+							String synonymString = tnas.getAttribute("synonyms");
 							if ((name == null) || (abbreviationString == null))
 								return;
 							Rank rank = new Rank(name);
 							rank.suffix = tnas.getAttribute("suffix", "");
 							rank.abbreviations = abbreviationString.split("\\;");
+							rank.synonyms = ((synonymString == null) ? new String[0] : synonymString.split("\\;"));
 							rank.epithetTemplate = tnas.getAttribute("epithetTemplate", rank.epithetTemplate);
 							rank.group = this.rankGroup;
 							rank.system = trsl[0];

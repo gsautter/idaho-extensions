@@ -10,11 +10,11 @@
  *     * Redistributions in binary form must reproduce the above copyright
  *       notice, this list of conditions and the following disclaimer in the
  *       documentation and/or other materials provided with the distribution.
- *     * Neither the name of the Universität Karlsruhe (TH) nor the
+ *     * Neither the name of the Universitaet Karlsruhe (TH) nor the
  *       names of its contributors may be used to endorse or promote products
  *       derived from this software without specific prior written permission.
  *
- * THIS SOFTWARE IS PROVIDED BY UNIVERSITÄT KARLSRUHE (TH) / KIT AND CONTRIBUTORS 
+ * THIS SOFTWARE IS PROVIDED BY UNIVERSITAET KARLSRUHE (TH) / KIT AND CONTRIBUTORS 
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
  * THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
  * ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY
@@ -499,7 +499,7 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		}
 		
 		//	set authority
-		if (authorityYear != null)
+		if (authorityName != null)
 			taxName.setAuthorityName(authorityName);
 		if ((authorityYear != null) && authorityYear.matches("[12][0-9]{3}"))
 			taxName.setAuthorityYear(Integer.parseInt(authorityYear));
@@ -526,7 +526,7 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		}
 		
 		//	set authority
-		if (authorityYear != null)
+		if (authorityName != null)
 			taxName.setAuthorityName(authorityName);
 		if ((authorityYear != null) && authorityYear.matches("[12][0-9]{3}"))
 			taxName.setAuthorityYear(Integer.parseInt(authorityYear));
@@ -757,7 +757,7 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 			return null; // most significant epithet at very end, no authority given
 		String verbatimAuthority = TokenSequenceUtils.concatTokens(taxonNameAnnot, authorityStartIndex, (taxonNameAnnot.size() - authorityStartIndex), true, true);
 		while (verbatimAuthority.startsWith(")") || verbatimAuthority.startsWith("]"))
-			verbatimAuthority = verbatimAuthority.substring("(".length()).trim(); // eliminate any leading _closing_ parentheses (can remain from subGenus, section, or subSection epithet ...
+			verbatimAuthority = verbatimAuthority.substring(")".length()).trim(); // eliminate any leading _closing_ parentheses (can remain from subGenus, section, or subSection epithet ...
 		verbatimAuthority = verbatimAuthority.replaceAll("\\(\\s+", "(");
 		verbatimAuthority = verbatimAuthority.replaceAll("\\s+\\)", ")");
 		return verbatimAuthority;
@@ -918,10 +918,14 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 			authority = authority.substring("(".length()).trim();
 		while (authority.endsWith("(")) // end of '<name> (<year>)' authority after cropping year
 			authority = authority.substring(0, (authority.length() - "(".length())).trim();
+		while (authority.endsWith("[")) // end of '<name> [<year>]' authority after cropping year
+			authority = authority.substring(0, (authority.length() - "[".length())).trim();
 		while (authority.endsWith(",")) // end of '<name>, <year>' authority after cropping year
 			authority = authority.substring(0, (authority.length() - ",".length())).trim();
 		while (authority.endsWith(")")) // end of '<name> (<year>)' authority or basionym authority
 			authority = authority.substring(0, (authority.length() - ")".length())).trim();
+		while (authority.endsWith("]")) // end of '<name> [<year>]' authority
+			authority = authority.substring(0, (authority.length() - "]".length())).trim();
 		return authority;
 	}
 	

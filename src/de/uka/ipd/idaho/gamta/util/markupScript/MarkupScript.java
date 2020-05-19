@@ -10,11 +10,11 @@
  *     * Redistributions in binary form must reproduce the above copyright
  *       notice, this list of conditions and the following disclaimer in the
  *       documentation and/or other materials provided with the distribution.
- *     * Neither the name of the Universität Karlsruhe (TH) / KIT nor the
+ *     * Neither the name of the Universitaet Karlsruhe (TH) / KIT nor the
  *       names of its contributors may be used to endorse or promote products
  *       derived from this software without specific prior written permission.
  *
- * THIS SOFTWARE IS PROVIDED BY UNIVERSITÄT KARLSRUHE (TH) / KIT AND CONTRIBUTORS 
+ * THIS SOFTWARE IS PROVIDED BY UNIVERSITAET KARLSRUHE (TH) / KIT AND CONTRIBUTORS 
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
  * THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
  * ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY
@@ -30,16 +30,20 @@ package de.uka.ipd.idaho.gamta.util.markupScript;
 import java.awt.Color;
 import java.awt.Font;
 import java.io.IOException;
-import java.io.InputStream;
 import java.io.Reader;
 import java.io.StringReader;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
 import java.util.Enumeration;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Hashtable;
 import java.util.Iterator;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
+import java.util.Properties;
 
 import javax.swing.JOptionPane;
 import javax.swing.JTextPane;
@@ -47,18 +51,19 @@ import javax.swing.text.AttributeSet;
 import javax.swing.text.StyleConstants;
 import javax.swing.text.StyledDocument;
 
-import de.uka.ipd.idaho.easyIO.streams.PeekInputStream;
 import de.uka.ipd.idaho.easyIO.streams.PeekReader;
 import de.uka.ipd.idaho.easyIO.util.JsonParser;
 import de.uka.ipd.idaho.gamta.MutableAnnotation;
-import de.uka.ipd.idaho.gamta.util.gPath.GPathVariableResolver;
-import de.uka.ipd.idaho.gamta.util.gPath.types.GPathBoolean;
-import de.uka.ipd.idaho.gamta.util.gPath.types.GPathNumber;
-import de.uka.ipd.idaho.gamta.util.gPath.types.GPathObject;
-import de.uka.ipd.idaho.gamta.util.gPath.types.GPathString;
+import de.uka.ipd.idaho.gamta.util.markupScript.MarkupScriptTypes.MsArray;
+import de.uka.ipd.idaho.gamta.util.markupScript.MarkupScriptTypes.MsBoolean;
+import de.uka.ipd.idaho.gamta.util.markupScript.MarkupScriptTypes.MsDocument;
+import de.uka.ipd.idaho.gamta.util.markupScript.MarkupScriptTypes.MsMap;
+import de.uka.ipd.idaho.gamta.util.markupScript.MarkupScriptTypes.MsNumber;
+import de.uka.ipd.idaho.gamta.util.markupScript.MarkupScriptTypes.MsObject;
+import de.uka.ipd.idaho.gamta.util.markupScript.MarkupScriptTypes.MsString;
 
 /**
- * TODO document this (soon as we've hammered out the syntax ...)
+ * TODO document this (soon as we've completely hammered out the whole thing ...)
  * 
  * @author sautter
  */
@@ -69,29 +74,52 @@ public class MarkupScript {
 	 * 
 	 * @author sautter
 	 */
-	public static class GPathArray extends GPathObject {
-		private ArrayList values = new ArrayList();
-		public GPathString asString() {
-			// TODO concatenate values
-			return null;
+	public static interface Resolver {
+		
+		/**
+		 * Retrieve a Markup script by its name. If the resolver does not have
+		 * a Markup Script available by the argument name, it should return null
+		 * rather than throwing an exception.
+		 * @param name the name of the sought Markup Script
+		 * @return the Markup Script with the argument name, or null if the
+		 *            resolver does not have the sought Markup Script
+		 */
+		public abstract MarkupScript getMarkupScript(String name);
+	}
+	
+	private static LinkedList resolvers = new LinkedList();
+	
+	/**
+	 * Register a Markup Script resolver.
+	 * @param resolver the resolver to register
+	 */
+	public static synchronized void registerResolver(Resolver resolver) {
+		resolvers.addFirst(resolver);
+	}
+	
+	/**
+	 * Register a Markup Script resolver.
+	 * @param resolver the resolver to unregister
+	 */
+	public static synchronized void unRegisterResolver(Resolver resolver) {
+		while (resolvers.remove(resolver)); // remove ALL occurrences of the resolver
+	}
+	
+	/**
+	 * Retrieve a Markup script by its name. If the resolver does not have
+	 * a Markup Script available by the argument name, it should return null
+	 * rather than throwing an exception.
+	 * @param name the name of the sought Markup Script
+	 * @return the Markup Script with the argument name, or null if the
+	 *            resolver does not have the sought Markup Script
+	 */
+	public static synchronized MarkupScript getMarkupScriptForName(String name) {
+		for (Iterator nrit = resolvers.iterator(); nrit.hasNext();) {
+			MarkupScript ms = ((Resolver) nrit.next()).getMarkupScript(name);
+			if (ms != null)
+				return ms;
 		}
-		public GPathNumber asNumber() {
-			// TODO concatenate values
-			return null;
-		}
-		public GPathBoolean asBoolean() {
-			// TODO concatenate values
-			return null;
-		}
-		GPathObject get(GPathNumber index) {
-			return ((GPathObject) this.values.get((int) Math.round(index.value)));
-		}
-		GPathObject set(GPathNumber index, GPathObject value) {
-			return ((GPathObject) this.values.set(((int) Math.round(index.value)), value));
-		}
-		int size() {
-			return this.values.size();
-		}
+		return null;
 	}
 	
 	/**
@@ -99,32 +127,333 @@ public class MarkupScript {
 	 * 
 	 * @author sautter
 	 */
-	public static class GPathMap extends GPathObject {
-		private HashMap values = new HashMap();
-		public GPathString asString() {
-			// TODO concatenate values
-			return null;
+	public static interface NameResolver {
+		
+		/**
+		 * Retrieve the namespace prefix this resolver is responsible for.
+		 * @return the namespace prefix
+		 */
+		public abstract String getNamespace();
+		
+		/**
+		 * Retrieve a function by its name. If the resolver does not have a
+		 * function available by the argument name, it should return null
+		 * rather than throwing an exception, as there might be further
+		 * resolvers for the same namespace.
+		 * @param name the name of the sought function
+		 * @return the function with the argument name, or null if the resolver
+		 *            does not have the sought function
+		 */
+		public abstract Function getFunction(String name);
+		
+		/**
+		 * Retrieve a constant value by its name. If the resolver does not have
+		 * a constant available by the argument name, it should return null
+		 * rather than throwing an exception, as there might be further
+		 * resolvers for the same namespace.
+		 * @param name the name of the sought constant
+		 * @return the constant with the argument name, or null if the resolver
+		 *            does not have the sought constant
+		 */
+		public abstract MsObject getConstant(String name);
+	}
+//	
+//	/**
+//	 * TODO document this class
+//	 * 
+//	 * @author sautter
+//	 */
+//	public static class GPathArray extends GPathObject {
+//		private ArrayList values = new ArrayList();
+//		public GPathString asString() {
+//			// TODO concatenate values
+//			return null;
+//		}
+//		public GPathNumber asNumber() {
+//			// TODO concatenate values
+//			return null;
+//		}
+//		public GPathBoolean asBoolean() {
+//			// TODO concatenate values
+//			return null;
+//		}
+//		GPathObject get(GPathNumber index) {
+//			return ((GPathObject) this.values.get((int) Math.round(index.value)));
+//		}
+//		GPathObject set(GPathNumber index, GPathObject value) {
+//			return ((GPathObject) this.values.set(((int) Math.round(index.value)), value));
+//		}
+//		int size() {
+//			return this.values.size();
+//		}
+//	}
+//	
+//	/**
+//	 * TODO document this class
+//	 * 
+//	 * @author sautter
+//	 */
+//	public static class GPathMap extends GPathObject {
+//		private HashMap values = new HashMap();
+//		public GPathString asString() {
+//			// TODO concatenate values
+//			return null;
+//		}
+//		public GPathNumber asNumber() {
+//			// TODO concatenate values
+//			return null;
+//		}
+//		public GPathBoolean asBoolean() {
+//			// TODO concatenate values
+//			return null;
+//		}
+//		GPathObject get(GPathString key) {
+//			return ((GPathObject) this.values.get(key.value));
+//		}
+//		GPathObject set(GPathString key, GPathObject value) {
+//			return ((GPathObject) this.values.put(key.value, value));
+//		}
+//		int size() {
+//			return this.values.size();
+//		}
+//	}
+	
+	/* TODO add object-ish syntax:
+	 * - <var>.<functionName>(...) ==> vars:<functionName>(<var>, ...):
+	 *   - <array>.<functionName>(...) ==> arrays:<functionName>(<array>, ...)
+	 *   - <map>.<functionName>(...) ==> maps:<functionName>(<map>, ...)
+	 *   - <string>.<functionName>(...) ==> strings:<functionName>(<string>, ...)
+	 *   - <number>.<functionName>(...) ==> numbers:<functionName>(<number>, ...)
+	 *   - etc.
+	 * - imports as <var>s namespace take priority over system functions (polymorphly) ==> way of modifying and extending built-in types
+	 * - imports take precedence in reverse order specified, with default system implementations last
+	 *   ==> TODO implement function resolver accordingly (mapping namespaces to lists of resolvers)
+	 *   ==> TODO observe type inheritance relationships on matching
+	 * 
+	 * - allow modification of constants only in local namespace, i.e., without explicit namespace prefix ...
+	 * - ... and then ... DON'T make that restriction, as globals may 
+	 */
+	
+	private static class MarkupScriptParse {
+		private MarkupScript script;
+		private LinkedList scopeStack = new LinkedList();
+		private Properties globalVarsToTypes = new Properties();
+		private Properties scopeVarsToTypes = this.globalVarsToTypes;
+		private HashSet importNamespaces = new HashSet();
+		MarkupScriptParse(MarkupScript script) {
+			this.script = script;
 		}
-		public GPathNumber asNumber() {
-			// TODO concatenate values
-			return null;
+		void setGlobalVarType(String name, String type) {
+			if (this.scopeStack.isEmpty())
+				this.globalVarsToTypes.setProperty(name, type);
+			else throw new RuntimeException("Constant '§" + name + "' can only be defined at top level.");
 		}
-		public GPathBoolean asBoolean() {
-			// TODO concatenate values
-			return null;
+		String getGlobalVarType(String name) {
+			return this.globalVarsToTypes.getProperty(name);
 		}
-		GPathObject get(GPathString key) {
-			return ((GPathObject) this.values.get(key.value));
+		int getScopeDepth() {
+			return this.scopeStack.size();
 		}
-		GPathObject set(GPathString key, GPathObject value) {
-			return ((GPathObject) this.values.put(key.value, value));
+		void startScope(boolean inherit) {
+			this.scopeVarsToTypes = new Properties(inherit ? this.scopeVarsToTypes : this.globalVarsToTypes);
+			this.scopeStack.addLast(this.scopeVarsToTypes);
 		}
-		int size() {
-			return this.values.size();
+		void endScope() {
+			this.scopeStack.removeLast();
+			this.scopeVarsToTypes = (this.scopeStack.isEmpty() ? this.globalVarsToTypes : ((Properties) this.scopeStack.getLast()));
+		}
+		void setScopeVarType(String name, String type) {
+			this.scopeVarsToTypes.setProperty(name, type);
+		}
+		String getScopeVarType(String name) {
+			return this.scopeVarsToTypes.getProperty(name);
+		}
+		void addImportNamespace(String namespace) {
+			this.importNamespaces.add(namespace);
+		}
+		boolean checkImportNamespace(String namespace) {
+			return this.importNamespaces.contains(namespace);
+		}
+		void recordParseException(MarkupScriptParseException mspe) {
+			this.script.addParseException(mspe);
 		}
 	}
 	
-	private static abstract class Part {
+	private static class MarkupScriptParseException extends RuntimeException {
+		final int position;
+		final int length;
+		MarkupScriptParseException(String message, int position, int length) {
+			super(message);
+			this.position = position;
+			this.length = length;
+		}
+		void styleCode(StyledDocument sd) {
+			sd.setCharacterAttributes(this.position, this.length, STYLE_ERROR, false);
+			//	TODO implement adding red underline
+		}
+	}
+	
+	private static class UndeclaredVariableException extends MarkupScriptParseException {
+		final String name;
+		UndeclaredVariableException(int position, String name) {
+			super(("Undeclared variable '$" + name + "' at " + position + "."), position, ("$".length() + name.length()));
+			this.name = name;
+		}
+	}
+	
+	private static class DuplicateVariableException extends MarkupScriptParseException {
+		final String name;
+		DuplicateVariableException(int position, String name) {
+			super(("Duplicate variable '$" + name + "' at " + position + "."), position, ("$".length() + name.length()));
+			this.name = name;
+		}
+	}
+	
+	private static class UndeclaredNamespaceException extends MarkupScriptParseException {
+		final String name;
+		UndeclaredNamespaceException(int position, String name) {
+			super(("Undeclared namespace '" + name + "' at " + position + "."), position, name.length());
+			this.name = name;
+		}
+	}
+	
+	private static class UnresolvableImportException extends MarkupScriptParseException {
+		UnresolvableImportException(Import imp) {
+			super(("Unresolvable import '" + imp.name + "' at " + imp.start + "."), imp.start, (imp.end - imp.start));
+		}
+	}
+	
+	private static class UndeclaredFunctionException extends MarkupScriptParseException {
+		UndeclaredFunctionException(FunctionCall funcCall) {
+			super(("Undeclared function '" + ((funcCall.funcNamespace == null) ? "" : (funcCall.funcNamespace + ":")) + funcCall.funcName + "' at " + funcCall.start + "."), funcCall.start, (funcCall.end - funcCall.start));
+		}
+	}
+	
+	private static class UndeclaredConstantException extends MarkupScriptParseException {
+		UndeclaredConstantException(int position, String name) {
+			super(("Undeclared constant '§" + name + "' at " + position + "."), position, ("§".length() + name.length()));
+		}
+		UndeclaredConstantException(VariableReference vRef) {
+			super(("Undeclared constant '§" + ((vRef.varNamespace == null) ? "" : (vRef.varNamespace + ":")) + vRef.varName + "' at " + vRef.start + "."), vRef.start, (vRef.end - vRef.start));
+		}
+	}
+	
+	private static class DuplicateConstantException extends MarkupScriptParseException {
+		final String name;
+		DuplicateConstantException(int position, String name) {
+			super(("Duplicate constant '§" + name + "' at " + position + "."), position, ("§".length() + name.length()));
+			this.name = name;
+		}
+	}
+	
+	private static class MissingCharactersException extends MarkupScriptParseException {
+		final String foundChars;
+		final String expectedChars;
+		MissingCharactersException(int position, char foundChar, char expectedChar) {
+			super(("Unexpected character '" + foundChar + "' at " + position + ", expected '" + expectedChar + "'."), position, 1);
+			this.foundChars = ("" + foundChar);
+			this.expectedChars = ("" + expectedChar);
+		}
+		MissingCharactersException(int position, String foundChars, String expectedChars) {
+			super(("Unexpected character '" + foundChars + "' at " + position + ", expected '" + expectedChars + "'."), position, 1);
+			this.foundChars = foundChars;
+			this.expectedChars = expectedChars;
+		}
+	}
+	
+	private static class UnexpectedCharactersException extends MarkupScriptParseException {
+		final String foundChars;
+		final String expectedChars;
+		UnexpectedCharactersException(int position, String foundChars) {
+			super(("Unexpected characters '" + foundChars + "' at " + position + "."), position, foundChars.length());
+			this.foundChars = foundChars;
+			this.expectedChars = null;
+		}
+		UnexpectedCharactersException(int position, String foundChars, String expectedChars) {
+			super(("Unexpected characters '" + foundChars + "' at " + position + ", expected '" + expectedChars + "'."), position, foundChars.length());
+			this.foundChars = foundChars;
+			this.expectedChars = expectedChars;
+		}
+		UnexpectedCharactersException(int position, char foundChar) {
+			super(("Unexpected character '" + foundChar + "' at " + position + "."), position, 1);
+			this.foundChars = ("" + foundChar);
+			this.expectedChars = null;
+		}
+		UnexpectedCharactersException(int position, char foundChar, char expectedChar) {
+			super(("Unexpected character '" + foundChar + "' at " + position + ", expected '" + expectedChar + "'."), position, 1);
+			this.foundChars = ("" + foundChar);
+			this.expectedChars = ("" + expectedChar);
+		}
+		UnexpectedCharactersException(int position, char foundChar, char expectedChar1, char expectedChar2) {
+			super(("Unexpected character '" + foundChar + "' at " + position + ", expected '" + expectedChar1 + "' or '" + expectedChar2 + "'."), position, 1);
+			this.foundChars = ("" + foundChar);
+			this.expectedChars = (expectedChar1 + "" + expectedChar2);
+		}
+	}
+	
+	private static class MarkupScriptExecutionContext {
+		private MarkupScript script;
+		private MarkupScriptExecutionContext parent;
+		private HashMap variableTypes = new HashMap();
+		private HashMap variableValues = new HashMap();
+		MarkupScriptExecutionContext(MarkupScript script) {
+			this(script, null);
+		}
+		MarkupScriptExecutionContext(MarkupScript script, MarkupScriptExecutionContext parent) {
+			this.script = script;
+			this.parent = parent;
+		}
+		Function getFunction(String namespace, String name, VariableDeclaration[] args) {
+			//	TODO resolve via wrapped script object (OR MAYBE, do this while parsing)
+		}
+		MsObject getConstant(String namespace, String name) {
+			//	TODO resolve via wrapped script object
+		}
+		//	TODO do we need methods for setting constants?
+		MsObject getVariable(String name) {
+			if (this.variableTypes.containsKey(name))
+				return ((MsObject) this.variableValues.get(name));
+			else if (this.parent != null)
+				return this.parent.getVariable(name);
+			else return null; // TODO throw exception instead?
+		}
+		MsObject getVariable(String name, MsObject def) {
+			if (this.variableTypes.containsKey(name))
+				return ((MsObject) this.variableValues.get(name));
+			else if (this.parent != null)
+				return this.parent.getVariable(name, def);
+			else return def; // TODO throw exception instead?
+		}
+		public boolean isVariableSet(String name) {
+			if (this.variableTypes.containsKey(name))
+				return true;
+			else if (this.parent != null)
+				return this.parent.isVariableSet(name);
+			else return false; // TODO throw exception instead?
+		}
+		void declareVariable(String name, String type) {
+			this.variableTypes.put(name, type);
+		}
+		String getVariableType(String name) {
+			return ((String) this.variableTypes.get(name));
+		}
+		MsObject setVariable(String name, MsObject value) {
+			if (this.variableTypes.containsKey(name))
+				return ((MsObject) this.variableValues.put(name, value));
+			else if (this.parent != null)
+				return this.parent.setVariable(name, value);
+			else return null; // TODO throw exception instead?
+		}
+		MsObject removeVariable(String name) {
+			if (this.variableTypes.containsKey(name))
+				return ((MsObject) this.variableValues.remove(name));
+			else if (this.parent != null)
+				return this.parent.removeVariable(name);
+			else return null; // TODO throw exception instead?
+		}
+	}
+	
+	private static abstract class Part implements Comparable {
 		final String type; // type of this part
 		final int start; // starting position in source script
 		final int end; // ending position in source script
@@ -137,15 +466,22 @@ public class MarkupScript {
 		}
 		abstract void printString(String indent);
 		abstract void styleCode(StyledDocument sd);
+		public int compareTo(Object obj) {
+			Part part = ((Part) obj);
+			if (this.start == part.start)
+				return (part.end - this.end);
+			else return (this.start - part.start);
+		}
 	}
 	
 	private static class Import extends Part {
 		final String name;
 		final String namespace;
 		final int nsStart; // starting position of namespace declaration in source script
-		Import(int start, int end, String name) {
-			this(start, end, name, -1, null);
-		}
+		MarkupScript script; // the imported script
+//		Import(int start, int end, String name) {
+//			this(start, end, name, -1, null);
+//		}
 		Import(int start, int end, String name, int nsStart, String namespace) {
 			super("import", start, end);
 			this.name = name;
@@ -163,8 +499,10 @@ public class MarkupScript {
 	}
 	
 	private static class Comment extends Part {
-		Comment(int start, int end) {
+		final String text;
+		Comment(int start, int end, String text) {
 			super("comment", start, end);
+			this.text = text;
 		}
 		void printString(String indent) {
 			System.out.println(indent + "/* comment of " + (this.end - this.start) + " characters */");
@@ -178,8 +516,8 @@ public class MarkupScript {
 		Expression(String type, int start, int end) {
 			super(type, start, end);
 		}
-		abstract String getReturnType();
-		abstract GPathObject evaluate(MutableAnnotation data, VariableResolver vars);
+		abstract String getReturnType(); // TODO cache return type (helps recursive resolution)
+		abstract MsObject evaluate(MsDocument data, MarkupScriptExecutionContext context);
 	}
 	
 	private static abstract class Operator extends Part {
@@ -192,7 +530,7 @@ public class MarkupScript {
 		}
 		abstract boolean isApplicableTo(String leftArgType, String rightArgType);
 		abstract String getReturnType(String leftArgType, String rightArgType);
-		abstract GPathObject applyTo(GPathObject left, GPathObject right);
+		abstract MsObject applyTo(MsObject left, MsObject right);
 		void printString(String indent) { /* operators are printed by their parent expressions */ }
 		void styleCode(StyledDocument sd) {
 			//	no styling here for now
@@ -209,48 +547,39 @@ public class MarkupScript {
 		String getReturnType(String leftArgType, String rightArgType) {
 			return leftArgType;
 		}
+		//abstract boolean mark();
 	}
 	
 	private static abstract class Executable extends Part {
 		Executable(String type, int start, int end) {
 			super(type, start, end);
 		}
-		abstract GPathObject execute(MutableAnnotation data, VariableResolver vars);
+		abstract MsObject execute(MsDocument data, MarkupScriptExecutionContext context);
 	}
 	
 	private static class VariableDeclaration extends Executable {
 		final String varType;
 		final String varName;
 		final int varNameStart;
+		final boolean varIsConstant;
 		final Expression value;
-		VariableDeclaration(int start, int end, String type, String name, int nameStart, Expression value) {
+		Comment documentation; // documentation, used for constants only
+		VariableDeclaration(int start, int end, String type, String name, int nameStart, Expression value, boolean isConstant) {
 			super("variabledeclaration", start, end);
 			this.varType = type;
 			this.varName = name;
 			this.varNameStart = nameStart;
+			this.varIsConstant = isConstant;
 			this.value = value;
 		}
-		GPathObject execute(MutableAnnotation data, VariableResolver vars) {
-			GPathObject value;
-			if (this.value == null) {
-				if ("string".equals(this.varType))
-					value = new GPathString("");
-				else if ("number".equals(this.varType))
-					value = new GPathNumber(0);
-				else if ("boolean".equals(this.varType))
-					value = new GPathBoolean(false);
-				else if ("array".equals(this.varType))
-					value = new GPathArray();
-				else if ("map".equals(this.varType))
-					value = new GPathMap();
-				//	TODO implement other types (annotation, former two with JSON value)
-				else value = new GPathString(""); // TODO throw exception instead? Or simply do nothing?
+		MsObject execute(MsDocument data, MarkupScriptExecutionContext context) {
+			context.declareVariable(this.varName, this.varType);
+			MsObject value = null;
+			if (this.value != null) {
+				value = this.value.evaluate(data, context);
+				context.setVariable(this.varName, value);
 			}
-			else value = this.value.evaluate(data, vars);
-			
-			vars.declareVariable(this.varName, this.varType);
-			
-			return vars.setVariable(this.varName, value);
+			return value;
 		}
 		void printString(String indent) {
 			if (this.value == null)
@@ -278,11 +607,11 @@ public class MarkupScript {
 			this.index = index;
 			this.value = value;
 		}
-		GPathObject execute(MutableAnnotation data, VariableResolver vars) {
+		MsObject execute(MsDocument data, MarkupScriptExecutionContext context) {
 			if (this.name == null) // function call modeled as right side of assignment with missing left side
-				return this.value.evaluate(data, vars);
+				return this.value.evaluate(data, context);
 			
-			GPathObject value = this.value.evaluate(data, vars);
+			MsObject value = this.value.evaluate(data, context);
 //			if (this.value == null) {
 //				if ("string".equals(this.type))
 //					value = new GPathString("");
@@ -300,15 +629,16 @@ public class MarkupScript {
 //			else value = this.value.evaluate(data, vars);
 			
 			if (this.index == null)
-				return vars.setVariable(this.name, value);
+				return context.setVariable(this.name, value);
 			
-			GPathObject index = this.index.evaluate(data, vars);
-			GPathObject values = vars.getVariable(this.name);
-			if (values instanceof GPathArray)
-				return ((GPathArray) values).set(index.asNumber(), value);
-			else if (values instanceof GPathMap)
-				return ((GPathMap) values).set(index.asString(), value);
+			MsObject index = this.index.evaluate(data, context);
+			MsObject values = context.getVariable(this.name);
+			if (values instanceof MsMap) // need to catch this first, as annotations are both attribute map and token array, but mutable only as the former
+				return ((MsMap) values).setValue(index.asString(), value);
+			else if (values instanceof MsArray)
+				return ((MsArray) values).setObject(index.asNumber(), value);
 			else throw new RuntimeException("Cannot set " + index + " of " + values + " to " + value);
+			//	TODO devise dedicated exception for this case
 		}
 		void printString(String indent) {
 			if (this.name == null)
@@ -335,38 +665,39 @@ public class MarkupScript {
 	}
 	
 	private static class Literal extends Expression {
-		final GPathObject value;
-		Literal(int start, int end, GPathObject value) {
+		final MsObject value;
+		Literal(int start, int end, MsObject value) {
 			super("literal", start, end);
 			this.value = value;
 		}
 		String getReturnType() {
-			if (this.value instanceof GPathBoolean)
+			if (this.value instanceof MsBoolean)
 				return "boolean";
-			else if (this.value instanceof GPathNumber)
+			else if (this.value instanceof MsNumber)
 				return "number";
-			else if (this.value instanceof GPathString)
+			else if (this.value instanceof MsString)
 				return "string";
-			else if (this.value instanceof GPathArray)
+			else if (this.value instanceof MsArray)
 				return "array";
-			else if (this.value instanceof GPathMap)
+			else if (this.value instanceof MsMap)
 				return "map";
 			else return "var";
 		}
-		GPathObject evaluate(MutableAnnotation data, VariableResolver vars) {
+		MsObject evaluate(MsDocument data, MarkupScriptExecutionContext context) {
 			return this.value;
 		}
 		void printString(String indent) {
-			if (this.value instanceof GPathBoolean)
-				System.out.println(indent + this.value.asBoolean().value);
-			else if (this.value instanceof GPathNumber)
-				System.out.println(indent + this.value.asNumber().value);
-			else if (this.value instanceof GPathString)
-				System.out.println(indent + this.value.asString().value);
-			else if (this.value instanceof GPathArray)
-				System.out.println(indent + ((GPathArray) this.value).values);
-			else if (this.value instanceof GPathMap)
-				System.out.println(indent + ((GPathMap) this.value).values);
+			//	TODO revisit this to properly produce JSON
+			if (this.value instanceof MsBoolean)
+				System.out.println(indent + this.value.asBoolean());
+			else if (this.value instanceof MsNumber)
+				System.out.println(indent + this.value.asNumber());
+			else if (this.value instanceof MsString)
+				System.out.println(indent + this.value.asString());
+			else if (this.value instanceof MsArray)
+				System.out.println(indent + ((MsArray) this.value));
+			else if (this.value instanceof MsMap)
+				System.out.println(indent + ((MsMap) this.value));
 		}
 		void styleCode(StyledDocument sd) {
 			sd.setCharacterAttributes(this.start, (this.end - this.start), STYLE_LITERAL, true);
@@ -374,42 +705,52 @@ public class MarkupScript {
 	}
 	
 	private static class VariableReference extends Expression {
-		final String name;
+		final String varName;
+		final String varNamespace;
+		final boolean varIsConstant;
 		final Expression index;
-		VariableReference(int start, int end, String name) {
-			this(start, end, name, null);
+		String varType; // cannot be final, as it will be resolved only after parsing for imported globals
+		VariableReference(int start, int end, String namespace, String name, String type, boolean isConstant) {
+			this(start, end, namespace, name, null, type, isConstant);
 		}
-		VariableReference(int start, int end, String name, Expression index) {
+		VariableReference(int start, int end, String namespace, String name, Expression index, String type, boolean isConstant) {
 			super("variablereference", start, end);
-			this.name = name;
+			this.varNamespace = namespace;
+			this.varName = name;
+			this.varIsConstant = isConstant;
 			this.index = index;
+			this.varType = type;
 		}
 		String getReturnType() {
-			// TODO Auto-generated method stub
-			return null;
+			return ((this.varType == null) ? "var" : this.varType);
 		}
-		GPathObject evaluate(MutableAnnotation data, VariableResolver vars) {
-			GPathObject value = vars.getVariable(this.name);
+		MsObject evaluate(MsDocument data, MarkupScriptExecutionContext context) {
+			//	TODO observe namespace of imported constants
+			//	TODO figure out a way of resolving constants as such
+			//	TODO ==> resolve constants to literals late in parsing phase
+			//	TODO ==> make script object not only resolver for functions, but also for constants
+			//	TODO ==> adjust resolver interface accordingly, and rename to NamespaceResolver
+			MsObject value = context.getVariable(this.varName);
 			if (this.index == null)
 				return value;
-			GPathObject index = this.index.evaluate(data, vars);
-			if (value instanceof GPathArray)
-				return ((GPathArray) value).get(index.asNumber());
-			else if (value instanceof GPathMap)
-				return ((GPathMap) value).get(index.asString());
+			MsObject index = this.index.evaluate(data, context);
+			if ((value instanceof MsArray) && (index instanceof MsNumber)) // need to catch index type as well, as annotations are both attribute map and token array
+				return ((MsArray) value).getObject((MsNumber) index);
+			else if (value instanceof MsMap)
+				return ((MsMap) value).getValue(index.asString());
 			else throw new RuntimeException("Cannot get " + index + " of " + value);
 		}
 		void printString(String indent) {
 			if (this.index == null)
-				System.out.println(indent + "$" + this.name);
+				System.out.println(indent + (this.varIsConstant ? "§" : "$") + this.varName);
 			else {
-				System.out.println(indent + "$" + this.name + "[");
+				System.out.println(indent + (this.varIsConstant ? "§" : "$") + this.varName + "[");
 				this.index.printString(indent + "  ");
 				System.out.println(indent + "]");
 			}
 		}
 		void styleCode(StyledDocument sd) {
-			sd.setCharacterAttributes(this.start, ("$".length() + this.name.length()), STYLE_VARIABLE, true);
+			sd.setCharacterAttributes(this.start, ("$".length() + this.varName.length()), STYLE_VARIABLE, true);
 		}
 	}
 	
@@ -422,8 +763,8 @@ public class MarkupScript {
 		String getReturnType() {
 			return this.content.getReturnType();
 		}
-		GPathObject evaluate(MutableAnnotation data, VariableResolver vars) {
-			return this.content.evaluate(data, vars);
+		MsObject evaluate(MsDocument data, MarkupScriptExecutionContext context) {
+			return this.content.evaluate(data, context);
 		}
 		void printString(String indent) {
 			System.out.println(indent + "(");
@@ -448,12 +789,12 @@ public class MarkupScript {
 		String getReturnType() {
 			return this.operator.getReturnType(this.left.getReturnType(), this.right.getReturnType());
 		}
-		GPathObject evaluate(MutableAnnotation data, VariableResolver vars) {
-			GPathObject left = this.left.evaluate(data, vars);
-			GPathObject right = this.right.evaluate(data, vars);
-			GPathObject result = this.operator.applyTo(left, right);
+		MsObject evaluate(MsDocument data, MarkupScriptExecutionContext context) {
+			MsObject left = this.left.evaluate(data, context);
+			MsObject right = this.right.evaluate(data, context);
+			MsObject result = this.operator.applyTo(left, right);
 			if ((this.left instanceof VariableReference) && (this.operator instanceof AssigningOperator))
-				vars.setVariable(((VariableReference) this.left).name, result);
+				context.setVariable(((VariableReference) this.left).varName, result);
 			return result;
 		}
 		void printString(String indent) {
@@ -487,34 +828,36 @@ public class MarkupScript {
 	}
 	
 	private static class FunctionCall extends Expression {
-		final String functionName;
+		final String funcNamespace;
+		final String funcName;
 		Function function = null;
 		final Expression[] args;
-		FunctionCall(int start, int end, String functionName, Expression[] args) {
+		FunctionCall(int start, int end, String funcNamespace, String funcName, Expression[] args) {
 			super("functioncall", start, end);
-			this.functionName = functionName;
+			this.funcNamespace = funcNamespace;
+			this.funcName = funcName;
 			this.args = args;
 		}
 		String getReturnType() {
 			return this.function.getReturnType();
 		}
-		GPathObject evaluate(MutableAnnotation data, VariableResolver vars) {
+		MsObject evaluate(MsDocument data, MarkupScriptExecutionContext context) {
 			if (this.function == null)
-				throw new RuntimeException("Unresolved function name '" + this.functionName + "' at " + this.start);
-			VariableResolver funcVars = new VariableResolver(vars.globals, null); // a function doesn't blend into the scope of its call
+				throw new RuntimeException("Unresolved function name '" + this.funcName + "' at " + this.start);
+			MarkupScriptExecutionContext funcContext = new MarkupScriptExecutionContext(context.script); // a function doesn't blend into the scope of its call
 			for (int a = 0; a < this.function.args.length; a++) {
-				GPathObject value = this.args[a].evaluate(data, vars);
-				funcVars.declareVariable(this.function.args[a].varName, this.function.args[a].varType);
-				funcVars.setVariable(this.function.args[a].varName, value);
+				MsObject value = this.args[a].evaluate(data, context);
+				funcContext.declareVariable(this.function.args[a].varName, this.function.args[a].varType);
+				funcContext.setVariable(this.function.args[a].varName, value);
 				//	TODO do type conversion here? do we need that at all?
 			}
-			return this.function.execute(data, funcVars);
+			return this.function.execute(data, funcContext);
 		}
 		void printString(String indent) {
 			if (this.args.length == 0)
-				System.out.println(indent + this.functionName + "()");
+				System.out.println(indent + this.funcName + "()");
 			else {
-				System.out.println(indent + this.functionName + "(");
+				System.out.println(indent + this.funcName + "(");
 				for (int a = 0; a < this.args.length; a++) {
 					if (a != 0)
 						System.out.println(indent + "  ,");
@@ -532,9 +875,9 @@ public class MarkupScript {
 	
 	private static abstract class ExecutableSequence extends Executable {
 		ArrayList executables = new ArrayList();
-		ExecutableSequence(int start, int end) {
-			this("block", start, end);
-		}
+//		ExecutableSequence(int start, int end) {
+//			this("block", start, end);
+//		}
 		ExecutableSequence(String type, int start, int end) {
 			super(type, start, end);
 		}
@@ -553,6 +896,7 @@ public class MarkupScript {
 		final VariableDeclaration[] args;
 		final String returnType;
 		final int returnTypeStart;
+		Comment documentation; // this is set when adding to script object
 		Function(int start, int end, String name, VariableDeclaration[] args, String returnType, int returnTypeStart) {
 			super("function", start, end);
 			this.name = name;
@@ -563,9 +907,9 @@ public class MarkupScript {
 		String getReturnType() {
 			return this.returnType;
 		}
-		GPathObject execute(MutableAnnotation data, VariableResolver vars) {
+		MsObject execute(MsDocument data, MarkupScriptExecutionContext context) {
 			for (int e = 0; e < this.executables.size(); e++) {
-				GPathObject result = ((Executable) this.executables.get(e)).execute(data, vars);
+				MsObject result = ((Executable) this.executables.get(e)).execute(data, context);
 				if (result instanceof ReturnValue)
 					return ((ReturnValue) result).value;
 			}
@@ -600,20 +944,20 @@ public class MarkupScript {
 		final Expression test;
 		final Executable elseBlock;
 		final int elseStart; // starting position of else block in source script
-		IfBlock(int start, int end, Expression test) {
-			this(start, end, test, -1, null);
-		}
+//		IfBlock(int start, int end, Expression test) {
+//			this(start, end, test, -1, null);
+//		}
 		IfBlock(int start, int end, Expression test, int elseStart, Executable elseBlock) {
 			super("if", start, end);
 			this.test = test;
 			this.elseStart = elseStart;
 			this.elseBlock = elseBlock;
 		}
-		GPathObject execute(MutableAnnotation data, VariableResolver vars) {
-			VariableResolver ifVars = new VariableResolver(vars.globals, vars);
-			if (this.test.evaluate(data, vars).asBoolean().value) {
+		MsObject execute(MsDocument data, MarkupScriptExecutionContext context) {
+			MarkupScriptExecutionContext ifContext = new MarkupScriptExecutionContext(context.script, context);
+			if (this.test.evaluate(data, context).asBoolean().getNativeBoolean().booleanValue()) {
 				for (int e = 0; e < this.executables.size(); e++) {
-					GPathObject result = ((Executable) this.executables.get(e)).execute(data, ifVars);
+					MsObject result = ((Executable) this.executables.get(e)).execute(data, ifContext);
 					if (result instanceof ReturnValue)
 						return result; // return from function call ==> we're out of here (return value will be un-wrapped in ancestor function)
 					else if (result == BREAK_VALUE)
@@ -625,7 +969,7 @@ public class MarkupScript {
 			}
 			else if (this.elseBlock == null)
 				return null;
-			else return this.elseBlock.execute(data, vars);
+			else return this.elseBlock.execute(data, context);
 		}
 		void printString(String indent) {
 			System.out.println(indent + "if (");
@@ -671,14 +1015,14 @@ public class MarkupScript {
 			this.setStart = setStart;
 			this.setRef = setRef;
 		}
-		GPathObject execute(MutableAnnotation data, VariableResolver vars) {
-			VariableResolver loopVars = new VariableResolver(vars.globals, vars);
+		MsObject execute(MsDocument data, MarkupScriptExecutionContext context) {
+			MarkupScriptExecutionContext loopContext = new MarkupScriptExecutionContext(context.script, context);
 			if (this.initializer != null)
-				this.initializer.execute(data, loopVars);
+				this.initializer.execute(data, loopContext);
 			if (this.setRef == null) {
-				while ((this.test == null) || this.test.evaluate(data, loopVars).asBoolean().value) {
+				while ((this.test == null) || this.test.evaluate(data, loopContext).asBoolean().getValue()) {
 					for (int e = 0; e < this.executables.size(); e++) {
-						GPathObject result = ((Executable) this.executables.get(e)).execute(data, vars);
+						MsObject result = ((Executable) this.executables.get(e)).execute(data, loopContext);
 						if (result instanceof ReturnValue)
 							return result; // return from function call ==> we're out of here (return value will be un-wrapped in ancestor function)
 						else if (result == BREAK_VALUE)
@@ -687,22 +1031,23 @@ public class MarkupScript {
 							e = this.executables.size(); // jump to end of loop body
 					}
 					if (this.postBody != null)
-						this.postBody.execute(data, loopVars);
+						this.postBody.execute(data, loopContext);
 				}
 				return null;
 			}
 			else {
 				ArrayList setVals = new ArrayList();
-				GPathObject setObj = this.setRef.evaluate(data, vars);
-				if (setObj instanceof GPathArray)
-					setVals.addAll(((GPathArray) setObj).values);
-				else if (setObj instanceof GPathMap)
-					setVals.addAll(((GPathMap) setObj).values.keySet());
+				MsObject setObj = this.setRef.evaluate(data, context);
+				if (setObj instanceof MsArray)
+					setVals.addAll(((MsArray) setObj).getNativeList());
+				else if (setObj instanceof MsMap)
+					setVals.addAll(((MsMap) setObj).getValueKeys().getNativeList());
+				//	TODO wrap keys as MsString objects
 				else throw new RuntimeException("Cannot iterate over " + setObj);
 				for (int v = 0; v < setVals.size(); v++) {
-					loopVars.setVariable(this.initializer.varName, ((GPathObject) setVals.get(v)));
+					loopContext.setVariable(this.initializer.varName, ((MsObject) setVals.get(v)));
 					for (int e = 0; e < this.executables.size(); e++) {
-						GPathObject result = ((Executable) this.executables.get(e)).execute(data, vars);
+						MsObject result = ((Executable) this.executables.get(e)).execute(data, context);
 						if (result instanceof ReturnValue)
 							return result; // return from function call ==> we're out of here (return value will be un-wrapped in ancestor function)
 						else if (result == BREAK_VALUE)
@@ -759,11 +1104,11 @@ public class MarkupScript {
 			super("while", start, end);
 			this.test = test;
 		}
-		GPathObject execute(MutableAnnotation data, VariableResolver vars) {
-			VariableResolver loopVars = new VariableResolver(vars.globals, vars);
-			while ((this.test == null) || this.test.evaluate(data, loopVars).asBoolean().value)
+		MsObject execute(MsDocument data, MarkupScriptExecutionContext context) {
+			MarkupScriptExecutionContext loopContext = new MarkupScriptExecutionContext(context.script, context);
+			while ((this.test == null) || this.test.evaluate(data, loopContext).asBoolean().getValue())
 				for (int e = 0; e < this.executables.size(); e++) {
-					GPathObject result = ((Executable) this.executables.get(e)).execute(data, vars);
+					MsObject result = ((Executable) this.executables.get(e)).execute(data, loopContext);
 					if (result instanceof ReturnValue)
 						return result; // return from function call ==> we're out of here
 					else if (result == BREAK_VALUE)
@@ -788,21 +1133,32 @@ public class MarkupScript {
 		}
 	}
 	
-	private static class ReturnValue extends GPathString {
-		final GPathObject value;
-		ReturnValue(GPathObject value) {
-			super("return");
+	private static class ReturnValue implements MsObject {
+		final MsObject value;
+		ReturnValue(MsObject value) {
 			this.value = value;
 		}
+		public MsBoolean asBoolean() {
+			return null;
+		}
+		public MsNumber asNumber() {
+			return null;
+		}
+		public MsString asString() {
+			return null;
+		}
+		public Object getNativeObject() {
+			return null;
+		}
 	}
-	private static final GPathObject BREAK_VALUE = new GPathString("break");
-	private static final GPathObject CONTINUE_VALUE = new GPathString("continue");
+	private static final MsObject BREAK_VALUE = MarkupScriptTypes.wrapString("break");
+	private static final MsObject CONTINUE_VALUE = MarkupScriptTypes.wrapString("continue");
 	
 	private static class Empty extends Executable {
 		Empty(int start) {
 			super("empty", start, start);
 		}
-		GPathObject execute(MutableAnnotation data, VariableResolver vars) {
+		MsObject execute(MsDocument data, MarkupScriptExecutionContext context) {
 			return null;
 		}
 		void printString(String indent) {}
@@ -810,10 +1166,10 @@ public class MarkupScript {
 	}
 	
 	private static class Break extends Executable {
-		Break(int start, int end) {
-			super("break", start, end);
+		Break(int start) {
+			super("break", start, (start + "break".length()));
 		}
-		GPathObject execute(MutableAnnotation data, VariableResolver vars) {
+		MsObject execute(MsDocument data, MarkupScriptExecutionContext context) {
 			return BREAK_VALUE;
 		}
 		void printString(String indent) {
@@ -825,10 +1181,10 @@ public class MarkupScript {
 	}
 	
 	private static class Continue extends Executable {
-		Continue(int start, int end) {
-			super("continue", start, end);
+		Continue(int start) {
+			super("continue", start, (start + "continue".length()));
 		}
-		GPathObject execute(MutableAnnotation data, VariableResolver vars) {
+		MsObject execute(MsDocument data, MarkupScriptExecutionContext context) {
 			return CONTINUE_VALUE;
 		}
 		void printString(String indent) {
@@ -841,12 +1197,15 @@ public class MarkupScript {
 	
 	private static class Return extends Executable {
 		final Expression value;
-		Return(int start, int end, Expression value) {
-			super("return", start, end);
+		Return(int start) {
+			this(start, null);
+		}
+		Return(int start, Expression value) {
+			super("return", start, (start + "return".length()));
 			this.value = value;
 		}
-		GPathObject execute(MutableAnnotation data, VariableResolver vars) {
-			return new ReturnValue((this.value == null) ? null : this.value.evaluate(data, vars));
+		MsObject execute(MsDocument data, MarkupScriptExecutionContext context) {
+			return new ReturnValue((this.value == null) ? null : this.value.evaluate(data, context));
 		}
 		void printString(String indent) {
 			System.out.println(indent + "return");
@@ -878,8 +1237,8 @@ public class MarkupScript {
 		String getReturnType(String leftArgType, String rightArgType) {
 			return "boolean";
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
-			return new GPathBoolean((right == null) || !right.asBoolean().value);
+		MsObject applyTo(MsObject left, MsObject right) {
+			return MarkupScriptTypes.wrapBoolean((right == null) || !right.asBoolean().getValue());
 		}
 	}
 	
@@ -893,8 +1252,8 @@ public class MarkupScript {
 		String getReturnType(String leftArgType, String rightArgType) {
 			return "number";
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
-			return new GPathNumber(-right.asNumber().value);
+		MsObject applyTo(MsObject left, MsObject right) {
+			return MarkupScriptTypes.wrapDouble(-right.asNumber().getValue());
 		}
 	}
 	
@@ -908,10 +1267,10 @@ public class MarkupScript {
 		String getReturnType(String leftArgType, String rightArgType) {
 			return "number";
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
+		MsObject applyTo(MsObject left, MsObject right) {
 			if ((left == null) || (right == null))
-				return new GPathNumber(0);
-			else return new GPathNumber(left.asNumber().value * right.asNumber().value);
+				return MarkupScriptTypes.wrapInteger(0);
+			else return MarkupScriptTypes.wrapDouble(left.asNumber().getValue() * right.asNumber().getValue());
 		}
 	}
 	
@@ -925,10 +1284,10 @@ public class MarkupScript {
 		String getReturnType(String leftArgType, String rightArgType) {
 			return "number";
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
+		MsObject applyTo(MsObject left, MsObject right) {
 			if ((left == null) || (right == null))
-				return new GPathNumber(0);
-			else return new GPathNumber(left.asNumber().value / right.asNumber().value);
+				return MarkupScriptTypes.wrapInteger(0);
+			else return MarkupScriptTypes.wrapDouble(left.asNumber().getValue() / right.asNumber().getValue());
 		}
 	}
 	
@@ -942,10 +1301,10 @@ public class MarkupScript {
 		String getReturnType(String leftArgType, String rightArgType) {
 			return "number";
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
+		MsObject applyTo(MsObject left, MsObject right) {
 			if ((left == null) || (right == null))
-				return new GPathNumber(0);
-			else return new GPathNumber(left.asNumber().value % right.asNumber().value);
+				return MarkupScriptTypes.wrapInteger(0);
+			else return MarkupScriptTypes.wrapDouble(left.asNumber().getValue() % right.asNumber().getValue());
 		}
 	}
 	
@@ -967,42 +1326,41 @@ public class MarkupScript {
 				return "map";
 			else return "string";
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
-			//	TODO handle null
-			String leftType = getType(left);
-			String rightType = getType(right);
+		MsObject applyTo(MsObject left, MsObject right) {
+			if (left == null)
+				return right; // adding anything to null returns whatever was added
+			else if (right == null)
+				return left; // adding null to anything returns whatever it was added to
+			String leftType = MarkupScriptTypes.getObjectType(left);
+			String rightType = MarkupScriptTypes.getObjectType(right);
 			if ("number".equals(leftType) && "number".equals(rightType))
-				return new GPathNumber(left.asNumber().value + right.asNumber().value);
+				return MarkupScriptTypes.wrapDouble(left.asNumber().getValue() + right.asNumber().getValue());
 			else if ("array".equals(leftType) && "array".equals(rightType)) {
-				((GPathArray) left).values.addAll(((GPathArray) right).values);
+				((MsArray) left).addObjects((MsArray) right);
 				return left;
 			}
 			else if ("array".equals(leftType)) {
-				((GPathArray) left).values.add(right);
+				((MsArray) left).addObject(right);
 				return left;
 			}
 			else if ("map".equals(leftType) && "map".equals(rightType)) {
-				for (Iterator kit = ((GPathMap) right).values.keySet().iterator(); kit.hasNext();) {
-					Object key = kit.next();
-					if (!((GPathMap) left).values.containsKey(key)) // don't overwrite keys
-						((GPathMap) left).values.put(key, ((GPathMap) right).values.get(key));
-				}
-//				((GPathMap) left).values.putAll(((GPathMap) right).values); // TODO do overwrite values?
+				((MsMap) left).setValues(((MsMap) right), MarkupScriptTypes.wrapBoolean(false));
 				return left;
 			}
 			else if ("map".equals(leftType) && "array".equals(rightType)) {
-				for (int a = 0; a < (((GPathArray) right).values.size() - 1); a += 2) {
-					GPathString key = ((GPathObject) ((GPathArray) right).values.get(a)).asString();
-					GPathObject value = ((GPathObject) ((GPathArray) right).values.get(a+1));
-					((GPathMap) left).values.put(key.value, value);
+				List array = ((MsArray) right).getNativeList();
+				for (int a = 0; a < (array.size() - 1); a += 2) {
+					MsString key = MarkupScriptTypes.wrapObject(array.get(a)).asString();
+					MsObject value = MarkupScriptTypes.wrapObject(array.get(a+1));
+					((MsMap) left).setValue(key, value);
 				}
 				return left;
 			}
 			else if ("map".equals(leftType)) {
-				((GPathMap) left).values.put(right.asString().value, new GPathBoolean(true));
+				((MsMap) left).setValue(right.asString(), MarkupScriptTypes.wrapBoolean(true));
 				return left;
 			}
-			else return new GPathString(left.asString().value + right.asString().value);
+			else return MarkupScriptTypes.wrapString(left.asString().getNativeString().toString() + right.asString().getNativeString().toString());
 		}
 	}
 	
@@ -1012,11 +1370,11 @@ public class MarkupScript {
 		}
 		boolean isApplicableTo(String leftArgType, String rightArgType) {
 			return (false
-				|| ("number".equals(leftArgType) && "number".equals(leftArgType))
-				|| "array".equals(leftArgType)
-				|| ("map".equals(leftArgType) && "array".equals(leftArgType))
-				|| "map".equals(leftArgType)
-			);
+					|| "boolean".equals(leftArgType) // AND right argument with left boolean
+					|| ("number".equals(leftArgType) && "number".equals(leftArgType)) // subtract numbers
+					|| "array".equals(leftArgType) // remove right argument from left array
+					|| "map".equals(leftArgType) // remove right key from left map
+				);
 		}
 		String getReturnType(String leftArgType, String rightArgType) {
 			if ("number".equals(leftArgType) && "number".equals(rightArgType))
@@ -1027,35 +1385,33 @@ public class MarkupScript {
 				return "map";
 			else return null;
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
-			//	TODO handle null
-			String leftType = getType(left);
-			String rightType = getType(right);
+		MsObject applyTo(MsObject left, MsObject right) {
+			if (left == null)
+				return null; // subtracting whatever from null doesn't change null 
+			else if (right == null)
+				return left; // subtracting null from whatever doesn't change whatever
+			String leftType = MarkupScriptTypes.getObjectType(left);
+			String rightType = MarkupScriptTypes.getObjectType(right);
 			if ("number".equals(leftType) && "number".equals(rightType))
-				return new GPathNumber(left.asNumber().value - right.asNumber().value);
+				return MarkupScriptTypes.wrapDouble(left.asNumber().getValue() - right.asNumber().getValue());
 			else if ("array".equals(leftType)) {
-				((GPathArray) left).values.remove(right);
+				((MsArray) left).removeObject(right);
 				return left;
 			}
 			else if ("map".equals(leftType) && "map".equals(rightType)) {
-				for (Iterator kit = ((GPathMap) right).values.keySet().iterator(); kit.hasNext();) {
-					String key = ((String) kit.next());
-					((GPathMap) left).values.remove(key);
-				}
+				((MsMap) left).removeValues((MsMap) right);
 				return left;
 			}
 			else if ("map".equals(leftType) && "array".equals(rightType)) {
-				for (int a = 0; a < ((GPathArray) right).values.size(); a++) {
-					GPathString key = ((GPathObject) ((GPathArray) right).values.get(a)).asString();
-					((GPathMap) left).values.remove(key.value);
-				}
+				((MsMap) left).removeKeys((MsArray) right);
 				return left;
 			}
 			else if ("map".equals(leftType)) {
-				((GPathMap) left).values.remove(right.asString().value);
+				((MsMap) left).removeValue(right.asString());
 				return left;
 			}
-			else return new GPathString(left.asString().value + right.asString().value);
+			else throw new IllegalArgumentException("Cannot subtract " + right + " from " + left);
+			//	TODO devise dedicated exception for this case
 		}
 	}
 	
@@ -1069,8 +1425,8 @@ public class MarkupScript {
 		String getReturnType(String leftArgType, String rightArgType) {
 			return "boolean";
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
-			return new GPathBoolean(MarkupScript.equals(left, right));
+		MsObject applyTo(MsObject left, MsObject right) {
+			return MarkupScriptTypes.wrapBoolean(MarkupScriptTypes.equals(left, right));
 		}
 	}
 	
@@ -1084,49 +1440,9 @@ public class MarkupScript {
 		String getReturnType(String leftArgType, String rightArgType) {
 			return "boolean";
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
-			return new GPathBoolean(!MarkupScript.equals(left, right));
+		MsObject applyTo(MsObject left, MsObject right) {
+			return MarkupScriptTypes.wrapBoolean(!MarkupScriptTypes.equals(left, right));
 		}
-	}
-	
-	private static boolean equals(GPathObject left, GPathObject right) {
-		String leftType = getType(left);
-		String rightType = getType(right);
-		if (leftType.equals(rightType)) {
-			if ("boolean".equals(leftType))
-				return (left.asBoolean().value == right.asBoolean().value);
-			else if ("number".equals(leftType))
-				return (left.asNumber().value == right.asNumber().value);
-			else if ("array".equals(leftType)) {
-				GPathArray leftArray = ((GPathArray) left);
-				GPathArray rightArray = ((GPathArray) right);
-				if (leftArray.values.size() != rightArray.values.size())
-					return false;
-				for (int i = 0; i < leftArray.values.size(); i++) {
-					if (!equals(((GPathObject) leftArray.values.get(i)), ((GPathObject) rightArray.values.get(i))))
-						return false;
-				}
-				return true;
-			}
-			else if ("map".equals(leftType)) {
-				GPathMap leftMap = ((GPathMap) left);
-				GPathMap rightMap = ((GPathMap) right);
-				if (leftMap.values.size() != rightMap.values.size())
-					return false;
-				if (leftMap.values.keySet().containsAll(rightMap.values.keySet()))
-					return false;
-				if (rightMap.values.keySet().containsAll(leftMap.values.keySet()))
-					return false;
-				for (Iterator kit = leftMap.values.keySet().iterator(); kit.hasNext();) {
-					String key = ((String) kit.next());
-					if (!equals(((GPathObject) leftMap.values.get(key)), ((GPathObject) rightMap.values.get(key))))
-						return false;
-				}
-				return true;
-			}
-		}
-		//	TODO handle null
-		return left.asString().value.equals(right.asString().value);
 	}
 	
 	private static class Less extends Operator {
@@ -1139,8 +1455,8 @@ public class MarkupScript {
 		String getReturnType(String leftArgType, String rightArgType) {
 			return "boolean";
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
-			return new GPathBoolean(MarkupScript.compare(left, right) < 0);
+		MsObject applyTo(MsObject left, MsObject right) {
+			return MarkupScriptTypes.wrapBoolean(MarkupScriptTypes.compare(left, right) < 0);
 		}
 	}
 	
@@ -1154,8 +1470,8 @@ public class MarkupScript {
 		String getReturnType(String leftArgType, String rightArgType) {
 			return "boolean";
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
-			return new GPathBoolean(MarkupScript.compare(left, right) <= 0);
+		MsObject applyTo(MsObject left, MsObject right) {
+			return MarkupScriptTypes.wrapBoolean(MarkupScriptTypes.compare(left, right) <= 0);
 		}
 	}
 	
@@ -1169,8 +1485,8 @@ public class MarkupScript {
 		String getReturnType(String leftArgType, String rightArgType) {
 			return "boolean";
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
-			return new GPathBoolean(MarkupScript.compare(left, right) >= 0);
+		MsObject applyTo(MsObject left, MsObject right) {
+			return MarkupScriptTypes.wrapBoolean(MarkupScriptTypes.compare(left, right) >= 0);
 		}
 	}
 	
@@ -1184,37 +1500,9 @@ public class MarkupScript {
 		String getReturnType(String leftArgType, String rightArgType) {
 			return "boolean";
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
-			return new GPathBoolean(MarkupScript.compare(left, right) > 0);
+		MsObject applyTo(MsObject left, MsObject right) {
+			return MarkupScriptTypes.wrapBoolean(MarkupScriptTypes.compare(left, right) > 0);
 		}
-	}
-	
-	private static int compare(GPathObject left, GPathObject right) {
-		String leftType = getType(left);
-		String rightType = getType(right);
-		if (leftType.equals(rightType)) {
-			if ("boolean".equals(leftType)) {
-				if (left.asBoolean().value)
-					return (right.asBoolean().value ? 0 : 1);
-				else return (right.asBoolean().value ? -1 : 0);
-			}
-			else if ("number".equals(leftType)) {
-				double diff = (left.asNumber().value - right.asNumber().value);
-				if (diff < 0)
-					return -1;
-				else if (diff == 0)
-					return 0;
-				else return 1;
-			}
-			else if ("array".equals(leftType))
-				return (((GPathArray) left).values.size() - ((GPathArray) right).values.size());
-			else if ("map".equals(leftType))
-				return (((GPathMap) left).values.size() - ((GPathMap) right).values.size());
-		}
-		if ("map".equals(leftType) || "array".equals(leftType))
-			throw new IllegalArgumentException("Cannot compare " + leftType + " to " + rightType);
-		//	TODO handle null
-		return left.asString().value.compareTo(right.asString().value);
 	}
 	
 	private static class And extends Operator {
@@ -1227,10 +1515,10 @@ public class MarkupScript {
 		String getReturnType(String leftArgType, String rightArgType) {
 			return "boolean";
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
-			boolean leftBoolean = ((left == null) ? false : left.asBoolean().value);
-			boolean rightBoolean = ((right == null) ? false : right.asBoolean().value);
-			return new GPathBoolean(leftBoolean && rightBoolean);
+		MsObject applyTo(MsObject left, MsObject right) {
+			boolean leftBoolean = ((left == null) ? false : left.asBoolean().getValue());
+			boolean rightBoolean = ((right == null) ? false : right.asBoolean().getValue());
+			return MarkupScriptTypes.wrapBoolean(leftBoolean && rightBoolean);
 		}
 	}
 	
@@ -1244,10 +1532,10 @@ public class MarkupScript {
 		String getReturnType(String leftArgType, String rightArgType) {
 			return "boolean";
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
-			boolean leftBoolean = ((left == null) ? false : left.asBoolean().value);
-			boolean rightBoolean = ((right == null) ? false : right.asBoolean().value);
-			return new GPathBoolean(!leftBoolean || !rightBoolean);
+		MsObject applyTo(MsObject left, MsObject right) {
+			boolean leftBoolean = ((left == null) ? false : left.asBoolean().getValue());
+			boolean rightBoolean = ((right == null) ? false : right.asBoolean().getValue());
+			return MarkupScriptTypes.wrapBoolean(!leftBoolean || !rightBoolean);
 		}
 	}
 	
@@ -1261,10 +1549,10 @@ public class MarkupScript {
 		String getReturnType(String leftArgType, String rightArgType) {
 			return "boolean";
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
-			boolean leftBoolean = ((left == null) ? false : left.asBoolean().value);
-			boolean rightBoolean = ((right == null) ? false : right.asBoolean().value);
-			return new GPathBoolean(leftBoolean || rightBoolean);
+		MsObject applyTo(MsObject left, MsObject right) {
+			boolean leftBoolean = ((left == null) ? false : left.asBoolean().getValue());
+			boolean rightBoolean = ((right == null) ? false : right.asBoolean().getValue());
+			return MarkupScriptTypes.wrapBoolean(leftBoolean || rightBoolean);
 		}
 	}
 	
@@ -1278,10 +1566,10 @@ public class MarkupScript {
 		String getReturnType(String leftArgType, String rightArgType) {
 			return "boolean";
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
-			boolean leftBoolean = ((left == null) ? false : left.asBoolean().value);
-			boolean rightBoolean = ((right == null) ? false : right.asBoolean().value);
-			return new GPathBoolean(!leftBoolean && !rightBoolean);
+		MsObject applyTo(MsObject left, MsObject right) {
+			boolean leftBoolean = ((left == null) ? false : left.asBoolean().getValue());
+			boolean rightBoolean = ((right == null) ? false : right.asBoolean().getValue());
+			return MarkupScriptTypes.wrapBoolean(!leftBoolean && !rightBoolean);
 		}
 	}
 	
@@ -1295,7 +1583,7 @@ public class MarkupScript {
 		String getReturnType(String leftArgType, String rightArgType) {
 			return rightArgType;
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
+		MsObject applyTo(MsObject left, MsObject right) {
 			return right;
 		}
 	}
@@ -1319,44 +1607,44 @@ public class MarkupScript {
 		String getReturnType(String leftArgType, String rightArgType) {
 			return leftArgType;
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
-			//	TODO handle null
-			String leftType = getType(left);
-			String rightType = getType(right);
+		MsObject applyTo(MsObject left, MsObject right) {
+			if (left == null)
+				return right; // adding anything to null returns whatever was added
+			else if (right == null)
+				return left; // adding null to anything returns whatever it was added to
+			String leftType = MarkupScriptTypes.getObjectType(left);
+			String rightType = MarkupScriptTypes.getObjectType(right);
+			//	TODO observe type inheritance
 			if ("boolean".equals(leftType))
-				return new GPathBoolean(left.asBoolean().value || right.asBoolean().value);
+				return MarkupScriptTypes.wrapBoolean(left.asBoolean().getValue() || right.asBoolean().getValue());
 			else if ("number".equals(leftType) && "number".equals(rightType))
-				return new GPathNumber(left.asNumber().value + right.asNumber().value);
+				return MarkupScriptTypes.wrapDouble(left.asNumber().getValue() + right.asNumber().getValue());
 			else if ("array".equals(leftType) && "array".equals(rightType)) {
-				((GPathArray) left).values.addAll(((GPathArray) right).values);
+				((MsArray) left).addObjects(((MsArray) right));
 				return left;
 			}
 			else if ("array".equals(leftType)) {
-				((GPathArray) left).values.add(right);
+				((MsArray) left).addObject(right);
 				return left;
 			}
 			else if ("map".equals(leftType) && "map".equals(rightType)) {
-				for (Iterator kit = ((GPathMap) right).values.keySet().iterator(); kit.hasNext();) {
-					Object key = kit.next();
-					if (!((GPathMap) left).values.containsKey(key)) // don't overwrite keys
-						((GPathMap) left).values.put(key, ((GPathMap) right).values.get(key));
-				}
-//				((GPathMap) left).values.putAll(((GPathMap) right).values); // TODO do overwrite values?
+				((MsMap) left).setValues(((MsMap) right), MarkupScriptTypes.wrapBoolean(false));
 				return left;
 			}
 			else if ("map".equals(leftType) && "array".equals(rightType)) {
-				for (int a = 0; a < (((GPathArray) right).values.size() - 1); a += 2) {
-					GPathString key = ((GPathObject) ((GPathArray) right).values.get(a)).asString();
-					GPathObject value = ((GPathObject) ((GPathArray) right).values.get(a+1));
-					((GPathMap) left).values.put(key.value, value);
+				List array = ((MsArray) right).getNativeList();
+				for (int a = 0; a < (array.size() - 1); a += 2) {
+					MsString key = MarkupScriptTypes.wrapObject(array.get(a)).asString();
+					MsObject value = MarkupScriptTypes.wrapObject(array.get(a+1));
+					((MsMap) left).setValue(key, value);
 				}
 				return left;
 			}
 			else if ("map".equals(leftType)) {
-				((GPathMap) left).values.put(right.asString().value, new GPathBoolean(true));
+				((MsMap) left).setValue(right.asString(), MarkupScriptTypes.wrapBoolean(true));
 				return left;
 			}
-			else return new GPathString(left.asString().value + right.asString().value);
+			else return MarkupScriptTypes.wrapString(left.asString().getValue().toString() + right.asString().getValue().toString());
 		}
 	}
 	
@@ -1373,37 +1661,41 @@ public class MarkupScript {
 				);
 		}
 		String getReturnType(String leftArgType, String rightArgType) {
-			return "number";
+			if ("number".equals(leftArgType) && "number".equals(rightArgType))
+				return "number";
+			else if ("array".equals(leftArgType))
+				return "array";
+			else if ("map".equals(leftArgType) && "array".equals(rightArgType))
+				return "map";
+			else return null;
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
-			//	TODO handle null
-			String leftType = getType(left);
-			String rightType = getType(right);
+		MsObject applyTo(MsObject left, MsObject right) {
+			if (left == null)
+				return null; // subtracting whatever from null doesn't change null 
+			else if (right == null)
+				return left; // subtracting null from whatever doesn't change whatever
+			String leftType = MarkupScriptTypes.getObjectType(left);
+			String rightType = MarkupScriptTypes.getObjectType(right);
 			if ("number".equals(leftType) && "number".equals(rightType))
-				return new GPathNumber(left.asNumber().value - right.asNumber().value);
+				return MarkupScriptTypes.wrapDouble(left.asNumber().getValue() - right.asNumber().getValue());
 			else if ("array".equals(leftType)) {
-				((GPathArray) left).values.remove(right);
+				((MsArray) left).removeObject(right);
 				return left;
 			}
 			else if ("map".equals(leftType) && "map".equals(rightType)) {
-				for (Iterator kit = ((GPathMap) right).values.keySet().iterator(); kit.hasNext();) {
-					String key = ((String) kit.next());
-					((GPathMap) left).values.remove(key);
-				}
+				((MsMap) left).removeValues((MsMap) right);
 				return left;
 			}
 			else if ("map".equals(leftType) && "array".equals(rightType)) {
-				for (int a = 0; a < ((GPathArray) right).values.size(); a++) {
-					GPathString key = ((GPathObject) ((GPathArray) right).values.get(a)).asString();
-					((GPathMap) left).values.remove(key.value);
-				}
+				((MsMap) left).removeKeys((MsArray) right);
 				return left;
 			}
 			else if ("map".equals(leftType)) {
-				((GPathMap) left).values.remove(right.asString().value);
+				((MsMap) left).removeValue(right.asString());
 				return left;
 			}
 			else throw new IllegalArgumentException("Cannot subtract " + rightType + " from " + leftType);
+			//	TODO devise dedicated exception for this case
 		}
 	}
 	
@@ -1414,10 +1706,24 @@ public class MarkupScript {
 		boolean isApplicableTo(String leftArgType, String rightArgType) {
 			return ("number".equals(leftArgType) && "number".equals(leftArgType));
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
+		MsObject applyTo(MsObject left, MsObject right) {
 			if ((left == null) || (right == null))
-				return new GPathNumber(0);
-			else return new GPathNumber(left.asNumber().value * right.asNumber().value);
+				return MarkupScriptTypes.wrapInteger(0);
+			else return MarkupScriptTypes.wrapDouble(left.asNumber().getValue() * right.asNumber().getValue());
+		}
+	}
+	
+	private static class DivideAssign extends AssigningOperator {
+		DivideAssign(int start, int end) {
+			super(start, end, "/=");
+		}
+		boolean isApplicableTo(String leftArgType, String rightArgType) {
+			return ("number".equals(leftArgType) && "number".equals(leftArgType));
+		}
+		MsObject applyTo(MsObject left, MsObject right) {
+			if ((left == null) || (right == null))
+				return MarkupScriptTypes.wrapInteger(0);
+			else return MarkupScriptTypes.wrapDouble(left.asNumber().getValue() / right.asNumber().getValue());
 		}
 	}
 	
@@ -1428,10 +1734,10 @@ public class MarkupScript {
 		boolean isApplicableTo(String leftArgType, String rightArgType) {
 			return "boolean".equals(leftArgType);
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
-			boolean leftBoolean = ((left == null) ? false : left.asBoolean().value);
-			boolean rightBoolean = ((right == null) ? false : right.asBoolean().value);
-			return new GPathBoolean(leftBoolean && rightBoolean);
+		MsObject applyTo(MsObject left, MsObject right) {
+			boolean leftBoolean = ((left == null) ? false : left.asBoolean().getValue());
+			boolean rightBoolean = ((right == null) ? false : right.asBoolean().getValue());
+			return MarkupScriptTypes.wrapBoolean(leftBoolean && rightBoolean);
 		}
 	}
 	
@@ -1442,74 +1748,19 @@ public class MarkupScript {
 		boolean isApplicableTo(String leftArgType, String rightArgType) {
 			return "boolean".equals(leftArgType);
 		}
-		GPathObject applyTo(GPathObject left, GPathObject right) {
-			boolean leftBoolean = ((left == null) ? false : left.asBoolean().value);
-			boolean rightBoolean = ((right == null) ? false : right.asBoolean().value);
-			return new GPathBoolean(leftBoolean || rightBoolean);
+		MsObject applyTo(MsObject left, MsObject right) {
+			boolean leftBoolean = ((left == null) ? false : left.asBoolean().getValue());
+			boolean rightBoolean = ((right == null) ? false : right.asBoolean().getValue());
+			return MarkupScriptTypes.wrapBoolean(leftBoolean || rightBoolean);
 		}
 	}
 	
-	private static class VariableResolver extends GPathVariableResolver {
-		final VariableResolver globals;
-		private VariableResolver parent;
-		private HashMap declaredVariables = new HashMap();
-		VariableResolver(VariableResolver globals, VariableResolver parent) {
-			this.globals = globals;
-			this.parent = parent;
-		}
-		public GPathObject getVariable(String name) {
-			if (this.declaredVariables.containsKey(name))
-				return super.getVariable(name);
-			else if (this.parent != null)
-				return this.parent.getVariable(name);
-			else if (this.globals != null)
-				return this.globals.getVariable(name);
-			else return null; // TODO throw exception instead?
-		}
-		public GPathObject getVariable(String name, GPathObject def) {
-			if (this.declaredVariables.containsKey(name))
-				return super.getVariable(name, def);
-			else if (this.parent != null)
-				return this.parent.getVariable(name, def);
-			else if (this.globals != null)
-				return this.globals.getVariable(name, def);
-			else return null; // TODO throw exception instead?
-		}
-		public boolean isVariableSet(String name) {
-			if (this.declaredVariables.containsKey(name))
-				return super.isVariableSet(name);
-			else if (this.parent != null)
-				return this.parent.isVariableSet(name);
-			else if (this.globals != null)
-				return this.globals.isVariableSet(name);
-			else return false; // TODO throw exception instead?
-		}
-		void declareVariable(String name, String type) {
-			this.declaredVariables.put(name, type);
-		}
-		String getVariableType(String name) {
-			return ((String) this.declaredVariables.get(name));
-		}
-		public GPathObject setVariable(String name, GPathObject value) {
-			if (this.declaredVariables.containsKey(name))
-				return super.setVariable(name, value);
-			else if (this.parent != null)
-				return this.parent.setVariable(name, value);
-			else return null; // TODO throw exception instead?
-		}
-		public GPathObject removeVariable(String name) {
-			if (this.declaredVariables.containsKey(name))
-				return super.removeVariable(name);
-			else if (this.parent != null)
-				return this.parent.removeVariable(name);
-			else return null; // TODO throw exception instead?
-		}
-	}
-	
-	private static class PositionAwarePeekReader extends PeekReader {
+	private static class MarkupScriptParseReader extends PeekReader {
+		private MarkupScript scipt;
 		private int position = 0;
-		PositionAwarePeekReader(Reader in, int lookahead) throws IOException {
-			super(in, lookahead);
+		MarkupScriptParseReader(Reader in, MarkupScript script) throws IOException {
+			super(in, 1024); // let's keep some lookahead for parsing error recovery
+			this.scipt = script;
 		}
 		public int read() throws IOException {
 			int r = super.read();
@@ -1530,80 +1781,32 @@ public class MarkupScript {
 			return s;
 		}
 		public int skipSpace() throws IOException {
-			int s = super.skipSpace();
-//			super class uses peek() and read() to get rid of spaces, don't count them twice
-//			if (s != -1)
-//				this.position += s;
-			return s;
-		}
-		int getPosition() {
-			return this.position;
-		}
-	}
-
-	private static class PositionAwarePeekInputStream extends PeekInputStream {
-		private int position = 0;
-		PositionAwarePeekInputStream(InputStream in, int lookahead) throws IOException {
-			super(in, lookahead);
-		}
-		public int read() throws IOException {
-			int r = super.read();
-			if (r != -1)
-				this.position++;
-			return r;
-		}
-		public int read(byte[] cbuf, int off, int len) throws IOException {
-			int r = super.read(cbuf, off, len);
-			if (r != -1)
-				this.position += r;
-			return r;
-		}
-		public long skip(long n) throws IOException {
-			long s = super.skip(n);
-			if (s != -1)
-				this.position += ((int) s);
-			return s;
-		}
-		public int skipSpace() throws IOException {
-			int s = super.skipSpace();
-			if (s != -1)
-				this.position += s;
-			return s;
+//			int s = super.skipSpace();
+////			super class uses peek() and read() to get rid of spaces, don't count them twice
+////			if (s != -1)
+////				this.position += s;
+//			return s;
+			int start = this.position;
+			while (this.peek() != -1) {
+				super.skipSpace();
+				if (this.startsWith("//", true))
+					this.scipt.addComment(cropLineComment(this));
+				else if (this.startsWith("/*", true))
+					this.scipt.addComment(cropBlockComment(this, this.scipt));
+				else break;
+			}
+			return (this.position - start);
 		}
 		int getPosition() {
 			return this.position;
 		}
 	}
 	
-	public static MarkupScript parse(Reader in) throws IOException {
-		PositionAwarePeekReader pr = new PositionAwarePeekReader(in, 32);
-		MarkupScript ms = new MarkupScript();
-		while (pr.peek() != -1) {
-			cropNext(pr, ms);
-			pr.skipSpace();
-		}
-		return ms;
-	}
-	
-	private static void cropNext(PositionAwarePeekReader pr, MarkupScript ms) throws IOException {
-		pr.skipSpace();
-		if (pr.startsWith("//", false))
-			ms.addComment(cropLineComment(pr));
-		else if (pr.startsWith("/*", false))
-			ms.addComment(cropBlockComment(pr));
-		else if (pr.startsWith("import ", false))
-			ms.addImport(cropImport(pr));
-		//	TODO enforce imports standing at top of file?
-		else if (pr.startsWith("function ", false))
-			ms.addFunction(cropFunction(pr));
-		else ms.addExecutable(cropExecutable(pr));
-		//	TODO allow cropping comments from within other structures
-	}
-	
-	private static Comment cropLineComment(PositionAwarePeekReader pr) throws IOException {
+	private static Comment cropLineComment(MarkupScriptParseReader pr) throws IOException {
 		int start = pr.getPosition();
-		pr.read();
-		pr.read();
+		StringBuffer textBuffer = new StringBuffer();
+		textBuffer.append((char) pr.read());
+		textBuffer.append((char) pr.read());
 		while (pr.peek() != -1) {
 			if (pr.peek() == '\r') {
 				pr.read();
@@ -1615,457 +1818,71 @@ public class MarkupScript {
 				pr.read();
 				break;
 			}
-			else pr.read();
+			else textBuffer.append((char) pr.read());
 		}
-		return new Comment(start, pr.getPosition());
+		return new Comment(start, pr.getPosition(), textBuffer.toString());
 	}
 	
-	private static Comment cropBlockComment(PositionAwarePeekReader pr) throws IOException {
+	private static Comment cropBlockComment(MarkupScriptParseReader pr, MarkupScript script) throws IOException {
 		int start = pr.getPosition();
-		pr.read();
-		pr.read();
+		StringBuffer textBuffer = new StringBuffer();
+		textBuffer.append((char) pr.read());
+		textBuffer.append((char) pr.read());
 		while (pr.peek() != -1) {
 			if (pr.startsWith("*/", false)) {
-				pr.read();
-				pr.read();
+				textBuffer.append((char) pr.read());
+				textBuffer.append((char) pr.read());
 				break;
 			}
-			else pr.read();
+			else textBuffer.append((char) pr.read());
 		}
-		return new Comment(start, pr.getPosition());
-		//	TODO throw exception if stream ends without comment end marker
-		//	TODO collect errors in list to facilitate highlighting more than one error
+		String text = textBuffer.toString();
+		if (!text.endsWith("*/"))
+			script.addParseException(new MissingCharactersException(pr.getPosition(), "", "*/"));
+		return new Comment(start, pr.getPosition(), text);
 	}
 	
-	private static Import cropImport(PositionAwarePeekReader pr) throws IOException {
-		pr.skipSpace();
-		int start = pr.getPosition();
-		pr.skip("import ".length());
-		String name = cropName(pr, false, "_.");
-		pr.skipSpace();
-		String namespace = null;
-		int nsStart = -1;
-		if (pr.startsWith("as ", true)) {
-			nsStart = pr.getPosition();
-			pr.skip("as ".length());
+	public static MarkupScript parse(Reader in) throws IOException {
+		MarkupScript ms = new MarkupScript();
+		MarkupScriptParseReader pr = new MarkupScriptParseReader(in, ms);
+		MarkupScriptParse parse = new MarkupScriptParse(ms);
+		while (pr.peek() != -1) {
+			cropNext(pr, ms, parse);
 			pr.skipSpace();
-			namespace = cropName(pr, false, "");
 		}
-		pr.skipSpace();
-		if (pr.peek() == ';') {
-			pr.read();
-			return new Import(start, pr.getPosition(), name, nsStart, namespace);
-		}
-		else throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-		//	TODO collect errors in list to facilitate highlighting more than one error
+		ms.assortDocComments();
+		ms.resolveImports();
+		ms.bindFunctionsAndConstants();
+		//	TODO resolve imports (recording errors for non-resolving ones)
+		//	TODO set types for references to imported constants and calls to imported functions (recording errors for non-resolving ones)
+		return ms;
 	}
 	
-	private static Function cropFunction(PositionAwarePeekReader pr) throws IOException {
-		int start = pr.getPosition();
-		pr.skip("function ".length());
-		String name = cropName(pr, false, "_");
-		pr.skipSpace();
-		if (pr.peek() != '(')
-			throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			//	TODO use dedicated exception classes for errors (derived from some RuntimeException derived MarkupScriptParseError class)
-		
-		//	read variables
-		pr.read();
-		pr.skipSpace();
-		ArrayList args = new ArrayList();
-		while ((pr.peek() != ')') && (pr.peek() != -1)) {
-			int argStart = pr.getPosition();
-			String argType = cropType(pr);
-			pr.skipSpace();
-			if (pr.peek() != '$')
-				throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-				//	TODO collect errors in list to facilitate highlighting more than one error
-			int argNameStart = pr.getPosition();
-			pr.read();
-			if (pr.peek() <= ' ')
-				throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-				//	TODO collect errors in list to facilitate highlighting more than one error
-			String argName = cropName(pr, false, "_");
-			pr.skipSpace();
-			args.add(new VariableDeclaration(argStart, pr.getPosition(), argType, argName, argNameStart, null));
-			if (pr.peek() == ')')
+	private static void skipUnexpectedChars(MarkupScriptParseReader pr, MarkupScriptParse parse, String expected) throws IOException {
+		while (pr.peek() != -1) {
+			char ch = ((char) pr.peek());
+			if (expected.indexOf(ch) != -1)
 				break;
-			if (pr.peek() != ',')
-				throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			pr.read();
-			pr.skipSpace();
-		}
-		if (pr.peek() != ')')
-			throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-		pr.read();
-		pr.skipSpace();
-		
-		//	read return type
-		pr.skipSpace();
-		if (!pr.startsWith("=>", true))
-			throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-		pr.read();
-		pr.read();
-		pr.skipSpace();
-		int returnTypeStart = pr.getPosition();
-		String returnType = cropType(pr);
-		
-		//	read function body
-		pr.skipSpace();
-		if (pr.peek() != '{')
-			throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-		pr.read();
-		ArrayList execs = new ArrayList();
-		while ((pr.peek() != '}') && (pr.peek() != -1)) {
-			Executable exec = cropExecutable(pr);
-			execs.add(exec);
-			pr.skipSpace();
-		}
-		if (pr.peek() != '}')
-			throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-		pr.read();
-		
-		//	create function
-		Function func = new Function(start, pr.getPosition(), name, ((VariableDeclaration[]) args.toArray(new VariableDeclaration[args.size()])), returnType, returnTypeStart);
-		func.executables.addAll(execs);
-		return func;
-	}
-	
-	private static Executable cropExecutable(PositionAwarePeekReader pr) throws IOException {
-		pr.skipSpace();
-		Executable exec;
-		boolean expectSemicolon = true;
-		if (pr.startsWith("for ", true)) {
-			exec = cropForLoop(pr);
-			expectSemicolon = false;
-		}
-		else if (pr.startsWith("while ", true)) {
-			exec = cropWhileLoop(pr);
-			expectSemicolon = false;
-		}
-		else if (pr.startsWith("if ", true)) {
-			exec = cropIfBlock(pr);
-			expectSemicolon = false;
-		}
-		else if (pr.peek() == '$')
-			exec = cropVariableAssignment(pr, ";");
-		else if (pr.peek() == ';')
-			exec = new Empty(pr.getPosition());
-		else if (pr.startsWith("break ", true) || pr.startsWith("break;", true)) {
-			int start = pr.getPosition();
-			pr.skip("break".length());
-			exec = new Break(start, pr.getPosition());
-			pr.skipSpace();
-		}
-		else if (pr.startsWith("continue ", true) || pr.startsWith("continue;", true)) {
-			int start = pr.getPosition();
-			pr.skip("continue".length());
-			exec = new Continue(start, pr.getPosition());
-		}
-		else if (pr.startsWith("return;", true)) {
-			int start = pr.getPosition();
-			pr.skip("return".length());
-			exec = new Return(start, pr.getPosition(), null);
-		}
-		else if (pr.startsWith("return ", true)) {
-			int start = pr.getPosition();
-			pr.skip("return".length());
-			pr.skipSpace();
-			if (pr.peek() == ';')
-				exec = new Return(start, pr.getPosition(), null);
-			else exec = new Return(start, pr.getPosition(), cropExpression(pr, false, ";"));
-		}
-		else if (pr.startsWith("boolean ", true))
-			exec = cropVariableDeclaration(pr);
-		else if (pr.startsWith("number ", true))
-			exec = cropVariableDeclaration(pr);
-		else if (pr.startsWith("string ", true))
-			exec = cropVariableDeclaration(pr);
-		else if (pr.startsWith("array ", true))
-			exec = cropVariableDeclaration(pr);
-		else if (pr.startsWith("map ", true))
-			exec = cropVariableDeclaration(pr);
-		else if (pr.startsWith("node ", true))
-			exec = cropVariableDeclaration(pr); // TODO this or 'annot'?
-		else if (pr.startsWith("annot ", true))
-			exec = cropVariableDeclaration(pr); // TODO this or 'node'?
-		else if (pr.startsWith("var ", true))
-			exec = cropVariableDeclaration(pr);
-		else if ((('a' <= pr.peek()) && (pr.peek() <= 'z')) || ('A' <= pr.peek()) && (pr.peek() <= 'Z')) {
-			int start = pr.getPosition();
-			String funcName = cropName(pr, true, "_");
-			pr.skipSpace();
-			if (pr.peek() != '(')
-				throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			pr.read();
-			pr.skipSpace();
-			ArrayList args = new ArrayList();
-			while (pr.peek() != -1) {
-				Expression arg = cropExpression(pr, true, ",)");
-				if (arg != null)
-					args.add(arg);
-				pr.skipSpace();
-				if (pr.peek() == ')')
-					break;
-				if (pr.peek() != ',')
-					throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			}
-			pr.skipSpace();
-			if (pr.peek() != ')')
-				throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			pr.read();
-			if (pr.peek() != ';')
-				throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			exec = new VariableAssignment(-1, -1, null, null, new FunctionCall(start, pr.getPosition(), funcName, ((Expression[]) args.toArray(new Expression[args.size()]))));
-		}
-		else throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-		
-		if (expectSemicolon) {
-			pr.skipSpace();
-			if (pr.peek() != ';')
-				throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			pr.read();
-		}
-		return exec;
-	}
-	
-	private static VariableDeclaration cropVariableDeclaration(PositionAwarePeekReader pr) throws IOException {
-		pr.skipSpace();
-		int start = pr.getPosition();
-		String type = cropType(pr);
-		pr.skipSpace();
-		if (pr.peek() != '$')
-			throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			//	TODO collect errors in list to facilitate highlighting more than one error
-		int nameStart = pr.getPosition();
-		pr.read();
-		if (pr.peek() <= ' ')
-			throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			//	TODO collect errors in list to facilitate highlighting more than one error
-		String name = cropName(pr, false, "_");
-		pr.skipSpace();
-		Expression value = null;
-		if (pr.peek() != ';') {
-			if (pr.peek() != '=')
-				throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-				//	TODO collect errors in list to facilitate highlighting more than one error
-			pr.read();
-			value = cropExpression(pr, false, ";");
-			pr.skipSpace();
-		}
-		if (pr.peek() != ';')
-			throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			//	TODO collect errors in list to facilitate highlighting more than one error
-		return new VariableDeclaration(start, pr.getPosition(), type, name, nameStart, value);
-	}
-	
-	private static VariableAssignment cropVariableAssignment(PositionAwarePeekReader pr, String stopChars) throws IOException {
-		pr.skipSpace();
-		int start = pr.getPosition();
-		pr.skipSpace();
-		if (pr.peek() != '$')
-			throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			//	TODO collect errors in list to facilitate highlighting more than one error
-		pr.read();
-		if (pr.peek() <= ' ')
-			throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			//	TODO collect errors in list to facilitate highlighting more than one error
-		String name = cropName(pr, false, "_");
-		pr.skipSpace();
-		
-		Expression index = null;
-		if (pr.peek() == '[') {
-			pr.read();
-			index = cropExpression(pr, false, "]");
-			pr.skipSpace();
-			if (pr.peek() != ']')
-				throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-				//	TODO collect errors in list to facilitate highlighting more than one error
-			pr.read();
-		}
-		int nameEnd = pr.getPosition();
-		pr.skipSpace();
-		
-		AssigningOperator aop = cropAssigningOperator(pr);
-		pr.skipSpace();
-		
-		Expression value = cropExpression(pr, false, stopChars);
-		pr.skipSpace();
-		if (stopChars.indexOf(pr.peek()) == -1)
-			throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			//	TODO collect errors in list to facilitate highlighting more than one error
-		return new VariableAssignment(start, pr.getPosition(), name, index, new BinaryExpression(start, pr.getPosition(), new VariableReference(start, nameEnd, name, index), aop, value));
-	}
-	
-	private static ArrayList cropBlock(PositionAwarePeekReader pr) throws IOException {
-		pr.skipSpace();
-		ArrayList execs = new ArrayList();
-		if (pr.peek() == '{') {
-			pr.read();
-			pr.skipSpace();
-			while ((pr.peek() != -1)) {
-				pr.skipSpace();
-				if (pr.peek() == '}') {
-					pr.read();
-					break;
-				}
-				Executable exec = cropExecutable(pr);
-				execs.add(exec);
+			else if (Character.isLetter(ch) || (ch == '_')) {
+				int start = pr.getPosition();
+				parse.recordParseException(new UnexpectedCharactersException(start, cropAlphanumeric(pr, ":_", expected)));
 				pr.skipSpace();
 			}
-		}
-		else {
-			Executable exec = cropExecutable(pr);
-			execs.add(exec);
-			pr.skipSpace();
-		}
-		return execs;
-	}
-	
-	private static IfBlock cropIfBlock(PositionAwarePeekReader pr) throws IOException {
-		int start = pr.getPosition();
-		pr.skip("if".length());
-		pr.skipSpace();
-		if (pr.peek() != '(')
-			throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			//	TODO collect errors in list to facilitate highlighting more than one error
-		pr.read();
-		pr.skipSpace();
-		
-		Expression ifTest = cropExpression(pr, false, ")");
-		
-		if (pr.peek() != ')')
-			throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			//	TODO collect errors in list to facilitate highlighting more than one error
-		pr.read();
-		pr.skipSpace();
-		
-		ArrayList ifExecs = cropBlock(pr);
-		
-		pr.skipSpace();
-		int elseStart = -1;
-		Executable elseBlock = null;
-		if (pr.startsWith("else ", false)) {
-			elseStart = pr.getPosition();
-			pr.skip("else".length());
-			pr.skipSpace();
-			elseBlock = cropExecutable(pr);
-		}
-		IfBlock ifBlock = new IfBlock(start, pr.getPosition(), ifTest, elseStart, elseBlock);
-		ifBlock.executables.addAll(ifExecs);
-		return ifBlock;
-	}
-	
-	private static ForLoop cropForLoop(PositionAwarePeekReader pr) throws IOException {
-		int start = pr.getPosition();
-		pr.skip("for".length());
-		pr.skipSpace();
-		if (pr.peek() != '(')
-			throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			//	TODO collect errors in list to facilitate highlighting more than one error
-		pr.read();
-		pr.skipSpace();
-		
-		int forTypeStart = pr.getPosition();
-		String forType = cropType(pr);
-		pr.skipSpace();
-		if (pr.peek() != '$')
-			throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			//	TODO collect errors in list to facilitate highlighting more than one error
-		int forNameStart = pr.getPosition();
-		pr.read();
-		if (pr.peek() <= ' ')
-			throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			//	TODO collect errors in list to facilitate highlighting more than one error
-		String forName = cropName(pr, false, "_");
-		pr.skipSpace();
-		
-		VariableDeclaration forInitializer;
-		Expression forStartValue;
-		Expression forTest;
-		VariableAssignment forPostBody;
-		int forSetStart;
-		Expression forSet;
-		
-		if (pr.startsWith("in ", true)) {
-			forInitializer = new VariableDeclaration(forTypeStart, pr.getPosition(), forType, forName, forNameStart, null);
-			forTest = null;
-			forPostBody = null;
-			
-			forSetStart = pr.getPosition();
-			pr.skip("in".length());
-			pr.skipSpace();
-			forSet = cropExpression(pr, false, ")");
-		}
-		else {
-			pr.skipSpace();
-			if (pr.peek() == '=') {
-				pr.read();
-				forStartValue = cropExpression(pr, false, ";");
-				forInitializer = new VariableDeclaration(forTypeStart, pr.getPosition(), forType, forName, forNameStart, forStartValue);
+			else if (Character.isDigit(ch)) {
+				int start = pr.getPosition();
+				parse.recordParseException(new UnexpectedCharactersException(start, cropNumeric(pr, ".", expected)));
+				pr.skipSpace();
 			}
-			else forInitializer = null;
-			pr.skipSpace();
-			if (pr.peek() != ';')
-				throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-				//	TODO collect errors in list to facilitate highlighting more than one error
-			pr.read();
-			
-			pr.skipSpace();
-			if (pr.peek() == ';')
-				forTest = null;
-			else forTest = cropExpression(pr, true, ";");
-			pr.skipSpace();
-			if (pr.peek() != ';')
-				throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-				//	TODO collect errors in list to facilitate highlighting more than one error
-			pr.read();
-			
-			pr.skipSpace();
-			if (pr.peek() == ')')
-				forPostBody = null;
-			else forPostBody = cropVariableAssignment(pr, ")");
-			
-			forSetStart = -1;
-			forSet = null;
+			else if (ch <= ' ') {
+				int start = pr.getPosition();
+				pr.skipSpace();
+				parse.recordParseException(new UnexpectedCharactersException(start, ' '));
+			}
+			else throw new UnexpectedCharactersException(pr.getPosition(), ((char) pr.read()));
 		}
-		
-		pr.skipSpace();
-		if (pr.peek() != ')')
-			throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			//	TODO collect errors in list to facilitate highlighting more than one error
-		pr.read();
-		
-		pr.skipSpace();
-		ArrayList forExecs = cropBlock(pr);
-		ForLoop forLoop = ((forSet == null) ? new ForLoop(start, pr.getPosition(), forInitializer, forTest, forPostBody) : new ForLoop(start, pr.getPosition(), forInitializer, forSetStart, forSet));
-		forLoop.executables.addAll(forExecs);
-		return forLoop;
 	}
 	
-	private static WhileLoop cropWhileLoop(PositionAwarePeekReader pr) throws IOException {
-		int start = pr.getPosition();
-		pr.skip("while".length());
-		pr.skipSpace();
-		if (pr.peek() != '(')
-			throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			//	TODO collect errors in list to facilitate highlighting more than one error
-		pr.read();
-		Expression whileCond = cropExpression(pr, false, ")");
-		if (pr.peek() != ')')
-			throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			//	TODO collect errors in list to facilitate highlighting more than one error
-		pr.read();
-		
-		pr.skipSpace();
-		ArrayList whileExecs = cropBlock(pr);
-		
-		WhileLoop whileLoop = new WhileLoop(start, pr.getPosition(), whileCond);
-		whileLoop.executables.addAll(whileExecs);
-		return whileLoop;
-	}
-	
-	private static String cropName(PositionAwarePeekReader pr, boolean allowNamespacePrefix, String nonAlphaNumericChars) throws IOException {
+	private static String cropName(MarkupScriptParseReader pr, MarkupScriptParse parse, boolean allowNamespacePrefix, String nonAlphaNumericChars) throws IOException {
 		pr.skipSpace();
 		StringBuffer name = new StringBuffer();
 		while (pr.peek() != -1) {
@@ -2076,6 +1893,8 @@ public class MarkupScript {
 				name.append(ch);
 			else if (('A' <= ch) && (ch <= 'Z'))
 				name.append(ch);
+			else if ('_' == ch)
+				name.append(ch);
 			else if ((name.length() != 0) && (nonAlphaNumericChars != null) && (nonAlphaNumericChars.indexOf(ch) != -1))
 				name.append(ch);
 			else if ((name.length() != 0) && ('0' <= ch) && (ch <= '9'))
@@ -2084,58 +1903,570 @@ public class MarkupScript {
 				name.append(ch);
 				allowNamespacePrefix = false;
 			}
+			else if (name.length() == 0)
+				parse.recordParseException(new UnexpectedCharactersException(pr.getPosition(), ch));
 			else break;
-			pr.read(); // consume last appended character
+			pr.read(); // consume last appended (or reported as unexpected) character
 		}
 		System.out.println("Name: '" + name + "'");
 		return name.toString();
 	}
 	
-	private static String cropType(PositionAwarePeekReader pr) throws IOException {
+	private static String cropAlphanumeric(MarkupScriptParseReader pr, String allowedPunctuation, String stopAt) throws IOException {
+		StringBuffer alphanumeric = new StringBuffer();
+		while (pr.peek() != -1) {
+			char ch = ((char) pr.peek());
+			if (stopAt.indexOf(ch) != -1)
+				break;
+			else if (Character.isLetterOrDigit(ch))
+				alphanumeric.append((char) pr.read());
+			else if (allowedPunctuation.indexOf(ch) != -1)
+				alphanumeric.append((char) pr.read());
+			else break;
+		}
+		return alphanumeric.toString();
+	}
+	
+	private static String cropAlpha(MarkupScriptParseReader pr, String allowedPunctuation) throws IOException {
+		StringBuffer alpha = new StringBuffer();
+		while (pr.peek() != -1) {
+			char ch = ((char) pr.peek());
+			if (('a' <= ch) && (ch <= 'z'))
+				alpha.append((char) pr.read());
+			else if (('A' <= ch) && (ch <= 'Z'))
+				alpha.append(ch);
+			else if (allowedPunctuation.indexOf(ch) != -1)
+				alpha.append((char) pr.read());
+			else break;
+		}
+		return alpha.toString();
+	}
+	
+	private static String cropNumeric(MarkupScriptParseReader pr, String allowedPunctuation, String stopAt) throws IOException {
+		StringBuffer numeric = new StringBuffer();
+		while (pr.peek() != -1) {
+			char ch = ((char) pr.peek());
+			if (stopAt.indexOf(ch) != -1)
+				break;
+			else if (Character.isDigit(ch))
+				numeric.append((char) pr.read());
+			else if (allowedPunctuation.indexOf(ch) != -1)
+				numeric.append((char) pr.read());
+			else break;
+		}
+		return numeric.toString();
+	}
+	
+	private static void cropNext(MarkupScriptParseReader pr, MarkupScript ms, MarkupScriptParse parse) throws IOException {
 		pr.skipSpace();
-		String type;
-		if (pr.startsWith("boolean ", true))
-			type = "boolean";
-		else if (pr.startsWith("number ", true))
-			type = "number";
-		else if (pr.startsWith("string ", true))
-			type = "string";
-		else if (pr.startsWith("array ", true))
-			type = "array";
-		else if (pr.startsWith("map ", true))
-			type = "map";
-		else if (pr.startsWith("node ", true))
-			type = "node"; // TODO this or 'annot'?
-		else if (pr.startsWith("annot ", true))
-			type = "annot"; // TODO this or 'node'?
-		else if (pr.startsWith("var ", true))
-			type = "var";
-		else throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-		//	TODO collect errors in list to facilitate highlighting more than one error
-		pr.skip(type.length());
+		int start = pr.getPosition();
+		String keyWord = getAlpha(pr, "_:", "");
+		if ("import".equals(keyWord)) {
+			pr.skip(keyWord.length());
+			ms.addImport(cropImport(pr, parse, start));
+		}
+		//	TODO enforce imports standing at top of file?
+		else if ("function".equals(keyWord)) {
+			pr.skip(keyWord.length());
+			ms.addFunction(cropFunction(pr, parse, start));
+		}
+		else ms.addExecutable(cropExecutable(pr, parse));
+	}
+	
+	private static String getAlpha(MarkupScriptParseReader pr, String allowedPunctuation, String stopAt) throws IOException {
+		StringBuffer alpha = new StringBuffer();
+		for (int l = 0; pr.peek(l) != -1; l++) {
+			char ch = ((char) pr.peek(l));
+			if (('a' <= ch) && (ch <= 'z'))
+				alpha.append(ch);
+			else if (('A' <= ch) && (ch <= 'Z'))
+				alpha.append(ch);
+			else if (allowedPunctuation.indexOf(ch) != -1)
+				alpha.append(ch);
+			else break;
+		}
+		System.out.println("Alpha is " + alpha);
+		return alpha.toString();
+	}
+	
+	private static Import cropImport(MarkupScriptParseReader pr, MarkupScriptParse parse, int start) throws IOException {
+		pr.skipSpace();
+		String name = cropName(pr, parse, false, "_.");
+		pr.skipSpace();
+		String namespace = null;
+		int nsStart = -1;
+		if (pr.startsWith("as ", true)) {
+			nsStart = pr.getPosition();
+			pr.skip("as ".length());
+			pr.skipSpace();
+			namespace = cropName(pr, parse, false, "");
+		}
+		pr.skipSpace();
+		if (namespace != null)
+			parse.addImportNamespace(namespace);
+		if (pr.peek() != ';')
+			skipUnexpectedChars(pr, parse, ";");
+		pr.read();
+		return new Import(start, pr.getPosition(), name, nsStart, namespace);
+	}
+	
+	private static Function cropFunction(MarkupScriptParseReader pr, MarkupScriptParse parse, int start) throws IOException {
+		pr.skipSpace();
+		String name = cropName(pr, parse, false, "_");
+		//	TODO allow (variable) namespace here to modify local behavior of types
+		pr.skipSpace();
+		if (pr.peek() != '(')
+			skipUnexpectedChars(pr, parse, "(");
+		pr.read();
+		
+		//	read parameters
+		parse.startScope(false);
+		pr.skipSpace();
+		ArrayList args = new ArrayList();
+		while ((pr.peek() != ')') && (pr.peek() != -1)) {
+			int argStart = pr.getPosition();
+			String argType = cropType(pr, parse);
+			pr.skipSpace();
+			int argNameStart = pr.getPosition();
+			if (pr.peek() != '$')
+				skipUnexpectedChars(pr, parse, "$");
+			pr.read();
+			if (pr.peek() <= ' ') {
+				int ueSpaceStart = pr.getPosition();
+				parse.recordParseException(new UnexpectedCharactersException(ueSpaceStart, ' '));
+				pr.skipSpace();
+			}
+			String argName = cropName(pr, parse, false, "_");
+			pr.skipSpace();
+			args.add(new VariableDeclaration(argStart, pr.getPosition(), argType, argName, argNameStart, null, false));
+			parse.setScopeVarType(argName, argType);
+			if (pr.peek() == ')')
+				break; // end of argument list
+			if (pr.peek() != ',')
+				skipUnexpectedChars(pr, parse, "),");
+			int commaStart = pr.getPosition();
+			pr.read(); // consume comma
+			pr.skipSpace();
+			if (pr.peek() == ')') // just record that dangling comma
+				parse.recordParseException(new UnexpectedCharactersException(commaStart, ','));
+		}
+		if (pr.peek() != ')')
+			skipUnexpectedChars(pr, parse, "),");
+		pr.read();
+		pr.skipSpace();
+		
+		//	read return type
+		if (!pr.startsWith("=>", true))
+			skipUnexpectedChars(pr, parse, "=");
+		pr.read();
+		pr.read();
+		int returnTypeStart = pr.getPosition();
+		String returnType = cropType(pr, parse);
+		
+		//	read function body
+		pr.skipSpace();
+		if (pr.peek() != '{')
+			skipUnexpectedChars(pr, parse, "{");
+		pr.read();
+		ArrayList execs = new ArrayList();
+		while ((pr.peek() != '}') && (pr.peek() != -1)) {
+			Executable exec = cropExecutable(pr, parse);
+			execs.add(exec);
+			pr.skipSpace();
+		}
+		
+		//	make sure function is closed properly
+		if (pr.peek() == '}') {
+			pr.read();
+			parse.endScope();
+		}
+		else throw new MissingCharactersException(pr.getPosition(), ((char) pr.peek()), '}');
+		
+		//	create function
+		Function func = new Function(start, pr.getPosition(), name, ((VariableDeclaration[]) args.toArray(new VariableDeclaration[args.size()])), returnType, returnTypeStart);
+		func.executables.addAll(execs);
+		return func;
+	}
+	
+	private static Executable cropExecutable(MarkupScriptParseReader pr, MarkupScriptParse parse) throws IOException {
+		pr.skipSpace();
+		Executable exec;
+		if (pr.peek() == '$') {
+			exec = cropVariableAssignment(pr, ";", parse);
+			pr.skipSpace();
+			if (pr.peek() != ';')
+				skipUnexpectedChars(pr, parse, ";");
+			pr.read();
+			return exec;
+		}
+		//	TODOnot we might want to execute a function like '§<global>.<functionName>(...)' to modify variables passed from a calling script
+		//	TODOnot model just like variable assignment below
+		//	we're _NOT_ modifying any constants, cross invocation learning is to be implemented in custom system functions
+		
+		if (pr.peek() == ';') {
+			pr.read();
+			return new Empty(pr.getPosition());
+		}
+		if ("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_".indexOf(pr.peek()) == -1)
+			throw new UnexpectedCharactersException(pr.getPosition(), ((char) pr.peek()));
+		
+		int start = pr.getPosition();
+		String keyWord = cropAlpha(pr, ":_");
+		if ("".equals(keyWord))
+			throw new UnexpectedCharactersException(pr.getPosition(), ((char) pr.peek()));
+		pr.skipSpace(); // skip whatever space follows keyword
+		
+		boolean expectSemicolon = true;
+		if ("for".equals(keyWord)) {
+			exec = cropForLoop(pr, parse, start);
+			expectSemicolon = false;
+		}
+		else if ("while".equals(keyWord)) {
+			exec = cropWhileLoop(pr, parse, start);
+			expectSemicolon = false;
+		}
+		else if ("if".equals(keyWord)) {
+			exec = cropIfBlock(pr, parse, start);
+			expectSemicolon = false;
+		}
+		else if (pr.peek() == ';')
+			exec = new Empty(pr.getPosition());
+		else if ("break".equals(keyWord))
+			exec = new Break(start);
+		else if ("continue".equals(keyWord))
+			exec = new Continue(start);
+		else if ("return".equals(keyWord)) {
+			if (pr.peek() == ';')
+				exec = new Return(start);
+			else exec = new Return(start, cropExpression(pr, false, ";", parse));
+		}
+		else if ("boolean".equals(keyWord))
+			exec = cropVariableDeclaration(pr, parse, start, keyWord);
+		else if ("number".equals(keyWord))
+			exec = cropVariableDeclaration(pr, parse, start, keyWord);
+		else if ("string".equals(keyWord))
+			exec = cropVariableDeclaration(pr, parse, start, keyWord);
+		else if ("array".equals(keyWord))
+			exec = cropVariableDeclaration(pr, parse, start, keyWord);
+		else if ("map".equals(keyWord))
+			exec = cropVariableDeclaration(pr, parse, start, keyWord);
+		else if ("annot".equals(keyWord))
+			exec = cropVariableDeclaration(pr, parse, start, keyWord);
+		else if ("var".equals(keyWord))
+			exec = cropVariableDeclaration(pr, parse, start, keyWord);
+		else if ((('a' <= pr.peek()) && (pr.peek() <= 'z')) || ('A' <= pr.peek()) && (pr.peek() <= 'Z') || (pr.peek() == '_')) {
+			String funcNamespace = null;
+			String funcName = keyWord;
+			if (funcName.indexOf(':') != -1) {
+				funcNamespace = funcName.substring(0, funcName.indexOf(':'));
+				funcName = funcName.substring(funcName.indexOf(':') + ":".length());
+				if (!parse.checkImportNamespace(funcNamespace))
+					parse.recordParseException(new UndeclaredNamespaceException(start, funcNamespace));
+			}
+			pr.skipSpace();
+			if (pr.peek() != '(')
+				skipUnexpectedChars(pr, parse, "(");
+			pr.read();
+			pr.skipSpace();
+			ArrayList args = new ArrayList();
+			while ((pr.peek() != -1) && (pr.peek() != ')')) {
+				Expression arg = cropExpression(pr, true, ",)", parse);
+				if (arg != null)
+					args.add(arg);
+				pr.skipSpace();
+				if (pr.peek() == ')')
+					break;
+				if (pr.peek() != ',')
+					skipUnexpectedChars(pr, parse, "),");
+				pr.read();
+			}
+			if (pr.peek() == -1)
+				throw new MissingCharactersException(pr.getPosition(), ((char) 0), ')');
+			pr.read(); // only way of breaking loop is finding ')', throwing exception, or end of input, which is caught right above
+			pr.skipSpace();
+			exec = new VariableAssignment(-1, -1, null, null, new FunctionCall(start, pr.getPosition(), funcNamespace, funcName, ((Expression[]) args.toArray(new Expression[args.size()]))));
+		}
+		else throw new UnexpectedCharactersException(pr.getPosition(), ((char) pr.peek())); // should never happen unless we get to end of stream
+		
+		if (expectSemicolon) {
+			pr.skipSpace();
+			if (pr.peek() != ';')
+				skipUnexpectedChars(pr, parse, ";");
+			pr.read();
+		}
+		return exec;
+	}
+	
+	private static VariableDeclaration cropVariableDeclaration(MarkupScriptParseReader pr, MarkupScriptParse parse, int start, String type) throws IOException {
+		pr.skipSpace();
+		if ((pr.peek() != '$') && (pr.peek() != '§'))
+			skipUnexpectedChars(pr, parse, "$§");
+		
+		boolean isConstant;
+		if (pr.peek() == '$')
+			isConstant = false;
+		else if (pr.peek() == '§')
+			isConstant = true;
+		else isConstant = false; // never gonna get here, but Java don't know
+		int nameStart = pr.getPosition();
+		pr.read();
+		if (pr.peek() <= ' ') {
+			int ueSpaceStart = pr.getPosition();
+			pr.skipSpace();
+			parse.recordParseException(new UnexpectedCharactersException(ueSpaceStart, ' '));
+		}
+		String name = cropName(pr, parse, false, "_");
+		pr.skipSpace();
+		if (isConstant && (parse.getGlobalVarType(name) != null))
+			parse.recordParseException(new DuplicateConstantException(start, name));
+		else if (!isConstant && (parse.getScopeVarType(name) != null))
+			parse.recordParseException(new DuplicateVariableException(start, name));
+		
+		Expression value = null;
+		if (pr.peek() != ';') {
+			if (pr.peek() != '=')
+				throw new UnexpectedCharactersException(pr.getPosition(), ((char) pr.peek()), '=');
+			pr.read();
+			value = cropExpression(pr, false, ";", parse);
+			pr.skipSpace();
+		}
+		if (pr.peek() != ';')
+			skipUnexpectedChars(pr, parse, ";");
+		//	do not consume semicolon, happens in calling code
+		if (isConstant)
+			parse.setGlobalVarType(name, type);
+		else parse.setScopeVarType(name, type);
+		return new VariableDeclaration(start, pr.getPosition(), type, name, nameStart, value, isConstant);
+	}
+	
+	private static VariableAssignment cropVariableAssignment(MarkupScriptParseReader pr, String stopChars, MarkupScriptParse parse) throws IOException {
+		pr.skipSpace();
+		int start = pr.getPosition();
+		pr.skipSpace();
+		if (pr.peek() != '$')
+			throw new UnexpectedCharactersException(pr.getPosition(), ((char) pr.peek()), '$');
+		//	TODO also consider object-ish function call on constant
+		pr.read();
+		if (pr.peek() <= ' ') {
+			int ueSpaceStart = pr.getPosition();
+			pr.skipSpace();
+			parse.recordParseException(new UnexpectedCharactersException(ueSpaceStart, ' '));
+		}
+		String name = cropName(pr, parse, false, "_");
+		pr.skipSpace();
+		
+		Expression index = null;
+		if (pr.peek() == '[') {
+			pr.read();
+			index = cropExpression(pr, false, "]", parse);
+			pr.skipSpace();
+			if (pr.peek() != ']')
+				skipUnexpectedChars(pr, parse, "]");
+			pr.read();
+		}
+		int nameEnd = pr.getPosition();
+		pr.skipSpace();
+		
+		String type = parse.getScopeVarType(name);
+		if (type == null)
+			parse.recordParseException(new UndeclaredVariableException(start, name));
+		
+		AssigningOperator aop = cropAssigningOperator(pr, parse);
+		pr.skipSpace();
+		
+		Expression value = cropExpression(pr, false, stopChars, parse);
+		pr.skipSpace();
+		if (stopChars.indexOf(pr.peek()) == -1)
+			skipUnexpectedChars(pr, parse, stopChars);
+		return new VariableAssignment(start, pr.getPosition(), name, index, new BinaryExpression(start, pr.getPosition(), new VariableReference(start, nameEnd, null, name, index, type, false), aop, value));
+	}
+	
+	private static ArrayList cropBlock(MarkupScriptParseReader pr, MarkupScriptParse parse) throws IOException {
+		pr.skipSpace();
+		ArrayList execs = new ArrayList();
+		parse.startScope(true);
+		if (pr.peek() == '{') {
+			pr.read();
+			pr.skipSpace();
+			while ((pr.peek() != -1)) {
+				pr.skipSpace();
+				if (pr.peek() == '}') {
+					pr.read();
+					break;
+				}
+				Executable exec = cropExecutable(pr, parse);
+				execs.add(exec);
+				pr.skipSpace();
+			}
+		}
+		else {
+			Executable exec = cropExecutable(pr, parse);
+			execs.add(exec);
+			pr.skipSpace();
+		}
+		parse.endScope();
+		return execs;
+	}
+	
+	private static IfBlock cropIfBlock(MarkupScriptParseReader pr, MarkupScriptParse parse, int start) throws IOException {
+		pr.skipSpace();
+		if (pr.peek() != '(')
+			skipUnexpectedChars(pr, parse, "(");
+		pr.read();
+		pr.skipSpace();
+		
+		Expression ifTest = cropExpression(pr, false, ")", parse);
+		
+		if (pr.peek() != ')')
+			skipUnexpectedChars(pr, parse, ")");
+		pr.read();
+		pr.skipSpace();
+		
+		parse.startScope(true);
+		ArrayList ifExecs = cropBlock(pr, parse);
+		parse.endScope();
+		
+		pr.skipSpace();
+		int elseStart = -1;
+		Executable elseBlock = null;
+		if (pr.startsWith("else ", false)) {
+			elseStart = pr.getPosition();
+			pr.skip("else".length());
+			pr.skipSpace();
+			elseBlock = cropExecutable(pr, parse);
+		}
+		IfBlock ifBlock = new IfBlock(start, pr.getPosition(), ifTest, elseStart, elseBlock);
+		ifBlock.executables.addAll(ifExecs);
+		return ifBlock;
+	}
+	
+	private static ForLoop cropForLoop(MarkupScriptParseReader pr, MarkupScriptParse parse, int start) throws IOException {
+		pr.skipSpace();
+		if (pr.peek() != '(')
+			skipUnexpectedChars(pr, parse, "(");
+		pr.read();
+		pr.skipSpace();
+		
+		int forTypeStart = pr.getPosition();
+		String forType = cropType(pr, parse);
+		pr.skipSpace();
+		if (pr.peek() != '$')
+			skipUnexpectedChars(pr, parse, "$");
+		int forNameStart = pr.getPosition();
+		pr.read();
+		if (pr.peek() <= ' ') {
+			int ueSpaceStart = pr.getPosition();
+			pr.skipSpace();
+			parse.recordParseException(new UnexpectedCharactersException(ueSpaceStart, ' '));
+		}
+		String forName = cropName(pr, parse, false, "_");
+		pr.skipSpace();
+		
+		parse.startScope(true);
+		parse.setScopeVarType(forName, forType);
+		
+		VariableDeclaration forInitializer;
+		Expression forStartValue;
+		Expression forTest;
+		VariableAssignment forPostBody;
+		int forSetStart;
+		Expression forSet;
+		
+		if (pr.startsWith("in ", true)) {
+			forInitializer = new VariableDeclaration(forTypeStart, pr.getPosition(), forType, forName, forNameStart, null, false);
+			forTest = null;
+			forPostBody = null;
+			
+			forSetStart = pr.getPosition();
+			pr.skip("in".length());
+			pr.skipSpace();
+			forSet = cropExpression(pr, false, ")", parse);
+		}
+		else {
+			pr.skipSpace();
+			if (pr.peek() == '=') {
+				pr.read();
+				forStartValue = cropExpression(pr, false, ";", parse);
+				forInitializer = new VariableDeclaration(forTypeStart, pr.getPosition(), forType, forName, forNameStart, forStartValue, false);
+			}
+			else forInitializer = null;
+			pr.skipSpace();
+			if (pr.peek() != ';')
+				skipUnexpectedChars(pr, parse, ";");
+			pr.read();
+			
+			pr.skipSpace();
+			if (pr.peek() == ';')
+				forTest = null;
+			else forTest = cropExpression(pr, true, ";", parse);
+			pr.skipSpace();
+			if (pr.peek() != ';')
+				skipUnexpectedChars(pr, parse, ";");
+			pr.read();
+			
+			pr.skipSpace();
+			if (pr.peek() == ')')
+				forPostBody = null;
+			else forPostBody = cropVariableAssignment(pr, ")", parse);
+			
+			forSetStart = -1;
+			forSet = null;
+		}
+		
+		pr.skipSpace();
+		if (pr.peek() != ')')
+			skipUnexpectedChars(pr, parse, ")");
+		pr.read();
+		
+		pr.skipSpace();
+		ArrayList forExecs = cropBlock(pr, parse);
+		ForLoop forLoop = ((forSet == null) ? new ForLoop(start, pr.getPosition(), forInitializer, forTest, forPostBody) : new ForLoop(start, pr.getPosition(), forInitializer, forSetStart, forSet));
+		forLoop.executables.addAll(forExecs);
+		parse.endScope();
+		return forLoop;
+	}
+	
+	private static WhileLoop cropWhileLoop(MarkupScriptParseReader pr, MarkupScriptParse parse, int start) throws IOException {
+		pr.skipSpace();
+		if (pr.peek() != '(')
+			skipUnexpectedChars(pr, parse, "(");
+		pr.read();
+		Expression whileCond = cropExpression(pr, false, ")", parse);
+		if (pr.peek() != ')')
+			skipUnexpectedChars(pr, parse, ")");
+		pr.read();
+		
+		pr.skipSpace();
+		ArrayList whileExecs = cropBlock(pr, parse);
+		
+		WhileLoop whileLoop = new WhileLoop(start, pr.getPosition(), whileCond);
+		whileLoop.executables.addAll(whileExecs);
+		return whileLoop;
+	}
+	
+	private static String cropType(MarkupScriptParseReader pr, MarkupScriptParse parse) throws IOException {
+		pr.skipSpace();
+		int start = pr.getPosition();
+		String type = cropAlpha(pr, "");
+		if (false) {}
+		else if ("boolean".equals(type)) {}
+		else if ("number".equals(type)) {}
+		else if ("string".equals(type)) {}
+		else if ("array".equals(type)) {}
+		else if ("map".equals(type)) {}
+		else if ("node".equals(type)) {}
+		else if ("annot".equals(type)) {}
+		else if ("var".equals(type)) {}
+		else if (type.matches("[a-zA-Z]+")) {
+			parse.recordParseException(new UnexpectedCharactersException(start, type));
+			return cropType(pr, parse);
+		}
+		else throw new UnexpectedCharactersException(pr.getPosition(), type);
 		System.out.println("Type '" + type + "'");
 		return type;
 	}
 	
-	private static String getType(GPathObject obj) {
-		if (obj instanceof GPathArray)
-			return "array";
-//		else if (obj instanceof GPathAnnotationSet) // TODO build that class in the first place
-//			return "node"; // TODO this or 'annot'?
-		else if (obj instanceof GPathMap)
-			return "map";
-		else if (obj instanceof GPathString)
-			return "string";
-		else if (obj instanceof GPathNumber)
-			return "number";
-		else if (obj instanceof GPathBoolean)
-			return "boolean";
-		else if (obj instanceof GPathMap)
-			return "map";
-		else return "var";
-	}
-	
-	private static Expression cropExpression(PositionAwarePeekReader pr, boolean allowEmpty, String stopChars) throws IOException {
+	private static Expression cropExpression(MarkupScriptParseReader pr, boolean allowEmpty, String stopChars, MarkupScriptParse parse) throws IOException {
 		pr.skipSpace();
 		int start = pr.getPosition();
 		
@@ -2144,12 +2475,11 @@ public class MarkupScript {
 		if (stopChars.indexOf(pr.peek()) != -1) {
 			if (allowEmpty)
 				return null;
-			else throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			//	TODO collect errors in list to facilitate highlighting more than one error
+			else throw new UnexpectedCharactersException(pr.getPosition(), ((char) pr.peek()));
 		}
 		
 		//	crop first unary expression (also handles boolean not and numerical minus) ...
-		Expression leftExp = cropUnaryExpression(pr);
+		Expression leftExp = cropUnaryExpression(pr, parse);
 		pr.skipSpace();
 		
 		//	... and simply return it if we hit the overall end
@@ -2157,11 +2487,15 @@ public class MarkupScript {
 			return leftExp;
 		
 		//	crop operator
-		Operator op = cropOperator(pr);
+		Operator op = cropOperator(pr, parse, stopChars);
 		pr.skipSpace();
 		
+		//	encountered stop character before actual operator due to skipping unexpected
+		if (op == null)
+			return leftExp;
+		
 		//	recurse to crop right expression
-		Expression rightExp = cropExpression(pr, false, stopChars);
+		Expression rightExp = cropExpression(pr, false, stopChars, parse);
 		pr.skipSpace();
 		
 		//	build tree of binary expressions reflecting operator precedence
@@ -2181,108 +2515,130 @@ public class MarkupScript {
 		else return new BinaryExpression(start, pr.getPosition(), leftExp, op, rightExp);
 	}
 	
-	private static Expression cropUnaryExpression(PositionAwarePeekReader pr) throws IOException {
+	private static Expression cropUnaryExpression(MarkupScriptParseReader pr, MarkupScriptParse parse) throws IOException {
 		pr.skipSpace();
 		int start = pr.getPosition();
 		if (pr.peek() == '$') {
 			pr.read();
-			String name = cropName(pr, false, "_");
+			String name = cropName(pr, parse, false, "_");
+			String type = parse.getScopeVarType(name);
+			if (type == null)
+				parse.recordParseException(new UndeclaredVariableException(start, name));
 			if (pr.peek() == '[') {
-				Expression index = cropExpression(pr, false, "]");
-				if (pr.peek() == ']') {
-					pr.read();
-					return new VariableReference(start, pr.getPosition(), name, index);
-				}
-				else throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-				//	TODO collect errors in list to facilitate highlighting more than one error
+				Expression index = cropExpression(pr, false, "]", parse);
+				if (pr.peek() != ']')
+					skipUnexpectedChars(pr, parse, "]");
+				pr.read();
+				return new VariableReference(start, pr.getPosition(), null, name, index, type, false);
 			}
-			else return new VariableReference(start, pr.getPosition(), name);
+			else return new VariableReference(start, pr.getPosition(), null, name, type, false);
+		}
+		else if (pr.peek() == '§') {
+			pr.read();
+			String namespace = null;
+			String name = cropName(pr, parse, true, "_");
+			if (name.indexOf(':') != -1) {
+				namespace = name.substring(0, name.indexOf(':'));
+				name = name.substring(name.indexOf(':') + ":".length());
+			}
+			String type = parse.getGlobalVarType(name);
+			if ((type == null) && (name.indexOf(':') == -1)) // we'll resolve imports later
+				parse.recordParseException(new UndeclaredConstantException(start, name));
+			if (pr.peek() == '[') {
+				Expression index = cropExpression(pr, false, "]", parse);
+				if (pr.peek() != ']')
+					skipUnexpectedChars(pr, parse, "]");
+				pr.read();
+				return new VariableReference(start, pr.getPosition(), namespace, name, index, type, true);
+			}
+			else return new VariableReference(start, pr.getPosition(), namespace, name, type, true);
 		}
 		else if (pr.peek() == '\'') {
 			String str = ((String) JsonParser.parseJson(pr));
-			return new Literal(start, pr.getPosition(), new GPathString(str));
+			return new Literal(start, pr.getPosition(), MarkupScriptTypes.wrapString(str));
 		}
 		else if (pr.peek() == '"') {
 			String str = ((String) JsonParser.parseJson(pr));
-			return new Literal(start, pr.getPosition(), new GPathString(str));
+			return new Literal(start, pr.getPosition(), MarkupScriptTypes.wrapString(str));
 		}
 		else if (pr.peek() == '(') {
 			pr.read();
 			pr.skipSpace();
-			Expression exp = cropExpression(pr, false, ")");
+			Expression exp = cropExpression(pr, false, ")", parse);
 			pr.skipSpace();
-			if (pr.peek() == ')') {
-				pr.read();
-				return new ParenthesisExpression(start, pr.getPosition(), exp);
-			}
-			else throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-			//	TODO collect errors in list to facilitate highlighting more than one error
+			if (pr.peek() != ')')
+				skipUnexpectedChars(pr, parse, ")");
+			pr.read();
+			return new ParenthesisExpression(start, pr.getPosition(), exp);
 		}
 		else if (pr.peek() == '[') {
 			List array = ((List) JsonParser.parseJson(pr));
-			return new Literal(start, pr.getPosition(), map(array));
+			return new Literal(start, pr.getPosition(), MarkupScriptTypes.wrapList(array));
 		}
 		else if (pr.peek() == '{') {
 			Map map = ((Map) JsonParser.parseJson(pr));
-			return new Literal(start, pr.getPosition(), map(map));
+			return new Literal(start, pr.getPosition(), MarkupScriptTypes.wrapMap(map));
 		}
 		else if (pr.peek() == '!') {
 			Operator op = new BooleanNot(pr.getPosition(), (pr.getPosition() + "!".length()));
 			pr.read();
-			Expression toNegate = cropUnaryExpression(pr);
-			return new BinaryExpression(start, pr.getPosition(), new Literal(-1, -1, new GPathBoolean(false)), op, toNegate);
+			Expression toNegate = cropUnaryExpression(pr, parse);
+			return new BinaryExpression(start, pr.getPosition(), new Literal(-1, -1, MarkupScriptTypes.wrapBoolean(false)), op, toNegate);
 		}
 		else if (pr.startsWith("false", true) && terminatesBoolean(pr.peek("false".length()))) {
 			pr.skip("false".length());
-			return new Literal(start, pr.getPosition(), new GPathBoolean(false));
+			return new Literal(start, pr.getPosition(), MarkupScriptTypes.wrapBoolean(false));
 		}
 		else if (pr.startsWith("true", true) && terminatesBoolean(pr.peek("true".length()))) {
 			pr.skip("true".length());
-			return new Literal(start, pr.getPosition(), new GPathBoolean(true));
+			return new Literal(start, pr.getPosition(), MarkupScriptTypes.wrapBoolean(true));
 		}
 		else if (pr.peek() == '-') {
 			Operator op = new NumberMinus(pr.getPosition(), (pr.getPosition() + "-".length()));
 			pr.read();
-			Expression toNegate = cropUnaryExpression(pr);
-			return new BinaryExpression(start, pr.getPosition(), new Literal(-1, -1, new GPathNumber(0)), op, toNegate);
+			Expression toNegate = cropUnaryExpression(pr, parse);
+			return new BinaryExpression(start, pr.getPosition(), new Literal(-1, -1, MarkupScriptTypes.wrapInteger(0)), op, toNegate);
 		}
 		else if (('0' <= pr.peek()) && (pr.peek() <= '9')) {
 			Number number = ((Number) JsonParser.parseJson(pr));
-			return new Literal(start, pr.getPosition(), new GPathNumber(number.doubleValue()));
+			return new Literal(start, pr.getPosition(), MarkupScriptTypes.wrapObject(number));
 		}
-		else if ((('a' <= pr.peek()) && (pr.peek() <= 'z')) || ('A' <= pr.peek()) && (pr.peek() <= 'Z')) {
-			String funcName = cropName(pr, true, "_");
+		else if ((('a' <= pr.peek()) && (pr.peek() <= 'z')) || (('A' <= pr.peek()) && (pr.peek() <= 'Z')) || (pr.peek() == '_')) {
+			String funcNamespace = null;
+			String funcName = cropName(pr, parse, true, "_");
+			if (funcName.indexOf(':') != -1) {
+				funcNamespace = funcName.substring(0, funcName.indexOf(':'));
+				funcName = funcName.substring(funcName.indexOf(':') + ":".length());
+				if (!parse.checkImportNamespace(funcNamespace))
+					parse.recordParseException(new UndeclaredNamespaceException(start, funcNamespace));
+			}
 			pr.skipSpace();
 			if (pr.peek() != '(')
-				throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-				//	TODO collect errors in list to facilitate highlighting more than one error
+				skipUnexpectedChars(pr, parse, "(");
 			pr.read();
 			pr.skipSpace();
 			ArrayList args = new ArrayList();
 			while ((pr.peek() != ')') && (pr.peek() != -1)) {
-				Expression arg = cropExpression(pr, false, ",)");
+				Expression arg = cropExpression(pr, false, ",)", parse);
 				args.add(arg);
 				pr.skipSpace();
+				if ((pr.peek() != ')') && (pr.peek() != ','))
+					skipUnexpectedChars(pr, parse, "),");
 				if (pr.peek() == ')')
-					break;
-				if (pr.peek() != ',')
-					throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-					//	TODO collect errors in list to facilitate highlighting more than one error
-				pr.read();
+					break; // we'll consume the bracket after the loop
+				int commaStart = pr.getPosition();
+				pr.read(); // consume comma
 				pr.skipSpace();
-				if (pr.peek() == ')')
-					throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-					//	TODO collect errors in list to facilitate highlighting more than one error
+				if (pr.peek() == ')') // just record that dangling comma
+					parse.recordParseException(new UnexpectedCharactersException(commaStart, ','));
 			}
 			pr.skipSpace();
-			if (pr.peek() != ')')
-				throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-				//	TODO collect errors in list to facilitate highlighting more than one error
+			if (pr.peek() != ')') // only way this can be true is end of input
+				throw new MissingCharactersException(pr.getPosition(), "", ")");
 			pr.read();
-			return new FunctionCall(start, pr.getPosition(), funcName, ((Expression[]) args.toArray(new Expression[args.size()])));
+			return new FunctionCall(start, pr.getPosition(), funcNamespace, funcName, ((Expression[]) args.toArray(new Expression[args.size()])));
 		}
-		else throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-		//	TODO collect errors in list to facilitate highlighting more than one error
+		else throw new UnexpectedCharactersException(pr.getPosition(), ((char) pr.peek()));
 	}
 	
 	private static final boolean terminatesBoolean(int ch) {
@@ -2299,7 +2655,7 @@ public class MarkupScript {
 		else return true;
 	}
 	
-	private static Operator cropOperator(PositionAwarePeekReader pr) throws IOException {
+	private static Operator cropOperator(MarkupScriptParseReader pr, MarkupScriptParse parse, String stopChars) throws IOException {
 		pr.skipSpace();
 		int start = pr.getPosition();
 		if (pr.startsWith("!=", true)) {
@@ -2338,6 +2694,14 @@ public class MarkupScript {
 			pr.skip("*".length());
 			return new Multiply(start, pr.getPosition());
 		}
+		else if (pr.startsWith("/", true)) {
+			pr.skip("/".length());
+			return new Divide(start, pr.getPosition());
+		}
+		else if (pr.startsWith("%", true)) {
+			pr.skip("%".length());
+			return new Modulo(start, pr.getPosition());
+		}
 		else if (pr.startsWith("&=", true)) {
 			pr.skip("&=".length());
 			return new AndAssign(start, pr.getPosition());
@@ -2370,14 +2734,6 @@ public class MarkupScript {
 			pr.skip("!|".length());
 			return new Nor(start, pr.getPosition());
 		}
-		else if (pr.startsWith("div ", true)) {
-			pr.skip("div".length()); // TODO consider supporting Java syntax as well
-			return new Divide(start, pr.getPosition());
-		}
-		else if (pr.startsWith("mod ", true)) {
-			pr.skip("mod".length()); // TODO consider supporting Java syntax as well
-			return new Modulo(start, pr.getPosition());
-		}
 		else if (pr.startsWith("<=", true)) {
 			pr.skip("<=".length());
 			return new LessEquals(start, pr.getPosition());
@@ -2394,11 +2750,15 @@ public class MarkupScript {
 			pr.skip(">".length());
 			return new Greater(start, pr.getPosition());
 		}
-		else throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-		//	TODO collect errors in list to facilitate highlighting more than one error
+		else {
+			skipUnexpectedChars(pr, parse, (stopChars + "!=+-*/%&|<>"));
+			if (stopChars.indexOf(pr.peek()) != -1)
+				return null;
+			else return cropOperator(pr, parse, stopChars);
+		}
 	}
 	
-	private static AssigningOperator cropAssigningOperator(PositionAwarePeekReader pr) throws IOException {
+	private static AssigningOperator cropAssigningOperator(MarkupScriptParseReader pr, MarkupScriptParse parse) throws IOException {
 		pr.skipSpace();
 		int start = pr.getPosition();
 		if (pr.peek() == '=') {
@@ -2417,6 +2777,10 @@ public class MarkupScript {
 			pr.skip("*=".length());
 			return new MultiplyAssign(start, pr.getPosition());
 		}
+		else if (pr.startsWith("/=", true)) {
+			pr.skip("/=".length());
+			return new DivideAssign(start, pr.getPosition());
+		}
 		else if (pr.startsWith("&=", true)) {
 			pr.skip("&=".length());
 			return new AndAssign(start, pr.getPosition());
@@ -2425,46 +2789,26 @@ public class MarkupScript {
 			pr.skip("|=".length());
 			return new OrAssign(start, pr.getPosition());
 		}
-		else throw new RuntimeException("Unexpected character '" + ((char) pr.peek()) + "' at " + pr.getPosition());
-		//	TODO collect errors in list to facilitate highlighting more than one error
+		else {
+			skipUnexpectedChars(pr, parse, "=+-*/&|");
+			return cropAssigningOperator(pr, parse);
+		}
 	}
 	
-	private static GPathObject map(Object obj) {
-		if (obj instanceof String)
-			return new GPathString((String) obj);
-		else if (obj instanceof Integer)
-			return new GPathNumber(((Number) obj).intValue());
-		else if (obj instanceof Number)
-			return new GPathNumber(((Number) obj).doubleValue());
-		else if (obj instanceof Boolean)
-			return new GPathBoolean(((Boolean) obj).booleanValue());
-		else if (obj instanceof List) {
-			GPathArray array = new GPathArray();
-			for (int i = 0; i < ((List) obj).size(); i++)
-				array.values.set(i, map(((List) obj).get(i)));
-			return array;
-		}
-		else if (obj instanceof Map) {
-			GPathMap map = new GPathMap();
-			for (Iterator kit = ((Map) obj).keySet().iterator(); kit.hasNext();) {
-				Object key = kit.next();
-				map.values.put(key.toString(), map(((Map) obj).get(key)));
-			}
-			return map;
-		}
-		else throw new RuntimeException("Cannot map " + obj);
-	}
+	private HashMap functionsByName = new HashMap();
 	
-	private HashMap functions = new HashMap();
-	private ArrayList functionDuplicates = new ArrayList();
+	private HashMap constantsByName = new HashMap();
 	
 	private ArrayList imports = new ArrayList();
+	private HashMap importsByNamespaces = new HashMap();
 	
 	private ArrayList executables = new ArrayList();
 	
 	private ArrayList comments = new ArrayList();
 	
 	private ArrayList parts = new ArrayList();
+	
+	private ArrayList parseExceptions = new ArrayList();
 	
 	private MarkupScript() {}
 	
@@ -2479,19 +2823,149 @@ public class MarkupScript {
 	}
 	
 	void addFunction(Function func) {
-		Function eFunc = ((Function) this.functions.get(func.name));
-		if (eFunc == null)
-			this.functions.put(func.name, func);
+		Object exObj = this.functionsByName.get(func.name);
+		if (exObj == null)
+			this.functionsByName.put(func.name, func);
+		else if (exObj instanceof ArrayList)
+			((ArrayList) exObj).add(func);
 		else {
-			this.functionDuplicates.add(eFunc);
-			this.functionDuplicates.add(func);
+			ArrayList funcList = new ArrayList();
+			funcList.add(exObj);
+			funcList.add(func);
+			this.functionsByName.put(func.name, funcList);
 		}
 		this.parts.add(func);
 	}
 	
 	void addExecutable(Executable exec) {
 		this.executables.add(exec);
+		if (exec instanceof VariableDeclaration) {
+			VariableDeclaration vDec = ((VariableDeclaration) exec);
+			if (vDec.varIsConstant && !this.constantsByName.containsKey(vDec.varName))
+				this.constantsByName.put(vDec.varName, vDec); // duplicates are reported by parser code
+		}
 		this.parts.add(exec);
+	}
+	
+	void addParseException(MarkupScriptParseException mspe) {
+		this.parseExceptions.add(mspe);
+	}
+	
+	void assortDocComments() {
+		Collections.sort(this.parts);
+		Comment docComment = null;
+		for (int p = 0; p < this.parts.size(); p++) {
+			Part part = ((Part) this.parts.get(p));
+			if (part instanceof Comment) {
+				if (((Comment) part).text.startsWith("/**"))
+					docComment = ((Comment) part);
+			}
+			else {
+				if (part instanceof Function)
+					((Function) part).documentation = docComment;
+				else if ((part instanceof VariableDeclaration) && ((VariableDeclaration) part).varIsConstant)
+					((VariableDeclaration) part).documentation = docComment;
+				docComment = null;
+			}
+		}
+	}
+	
+	void resolveImports() {
+		for (int i = 0; i < this.imports.size(); i++) {
+			Import imp = ((Import) this.imports.get(i));
+			imp.script = getMarkupScriptForName(imp.name);
+			if (imp.script == null) {
+				this.addParseException(new UnresolvableImportException(imp));
+				continue;
+			}
+			ArrayList nsImss = ((ArrayList) this.importsByNamespaces.get(imp.namespace));
+			if (nsImss == null) {
+				nsImss = new ArrayList();
+				this.importsByNamespaces.put(imp.namespace, nsImss);
+			}
+			nsImss.add(0, imp);
+		}
+	}
+	
+	void bindFunctionsAndConstants() {
+		for (int p = 0; p < this.parts.size(); p++) {
+			Part part = ((Part) this.parts.get(p));
+			if (part instanceof FunctionCall) {
+				FunctionCall fCall = ((FunctionCall) part);
+				ArrayList functions = this.getFunctions(fCall.funcNamespace, fCall.funcName);
+				for (int f = 0; f < functions.size(); f++) {
+					Function func = ((Function) functions.get(f));
+					if (argsMatch(fCall.args, func.args)) {
+						fCall.function = func;
+						break;
+					}
+				}
+				if (fCall.function == null)
+					this.addParseException(new UndeclaredFunctionException(fCall));
+			}
+			else if ((part instanceof VariableReference) && ((VariableReference) part).varIsConstant) {
+				VariableReference vRef = ((VariableReference) part);
+				VariableDeclaration vDec = this.getConstantDeclaration(vRef.varNamespace, vRef.varName);
+				if (vDec == null) {
+					this.addParseException(new UndeclaredConstantException(vRef));
+					continue;
+				}
+				vRef.varType = vDec.varType;
+			}
+		}
+	}
+	
+	private ArrayList getFunctions(String namespace, String name) {
+		ArrayList functions = new ArrayList();
+		if (namespace == null) {
+			Object funcObj = this.functionsByName.get(name);
+			if (funcObj instanceof Function)
+				functions.add(funcObj);
+			else if (funcObj instanceof ArrayList)
+				functions.addAll((ArrayList) funcObj);
+		}
+		else {
+			ArrayList nsImps = ((ArrayList) this.importsByNamespaces.get(namespace));
+			for (int i = 0; (nsImps != null) && (i < nsImps.size()); i++) {
+				Import imp = ((Import) nsImps.get(i));
+				ArrayList impFuncs = imp.script.getFunctions(null, name);
+				for (int f = 0; f < impFuncs.size(); f++) {
+					((Function) impFuncs.get(f)).source = imp.name;
+					functions.add(impFuncs.get(f));
+				}
+			}
+		}
+		return functions;
+	}
+	
+	private VariableDeclaration getConstantDeclaration(String namespace, String name) {
+		if (namespace == null)
+			return ((VariableDeclaration) this.constantsByName.get(name));
+		else {
+			ArrayList nsImps = ((ArrayList) this.importsByNamespaces.get(namespace));
+			for (int i = 0; (nsImps != null) && (i < nsImps.size()); i++) {
+				Import imp = ((Import) nsImps.get(i));
+				VariableDeclaration vDec = imp.script.getConstantDeclaration(null, name);
+				if (vDec != null) {
+					vDec.source = imp.name;
+					return vDec;
+				}
+			}
+			return null;
+		}
+	}
+	
+	private static boolean argsMatch(Expression[] callArgs, VariableDeclaration[] funcArgs) {
+		if (callArgs.length != funcArgs.length)
+			return false;
+		for (int a = 0; a < funcArgs.length; a++) {
+			//	TODO observe 'var' takes everything
+			//	TODO observe 'map' takes 'annot' and 'doc'
+			//	TODO observe 'annot' takes 'doc'
+			if (!funcArgs[a].varType.equals(callArgs[a].getReturnType()))
+				return false;
+		}
+		return true;
 	}
 	
 	void printString() {
@@ -2502,6 +2976,10 @@ public class MarkupScript {
 	void styleCode(StyledDocument sd) {
 		for (int p = 0; p < this.parts.size(); p++)
 			((Part) this.parts.get(p)).styleCode(sd);
+		for (int e = 0; e < this.parseExceptions.size(); e++) {
+			((MarkupScriptParseException) this.parseExceptions.get(e)).styleCode(sd);
+			System.out.println(((MarkupScriptParseException) this.parseExceptions.get(e)).getMessage());
+		}
 	}
 	
 	/**
@@ -2510,6 +2988,7 @@ public class MarkupScript {
 	 */
 	public void execute(MutableAnnotation data) {
 		//	TODO implement this
+		//	TODO pass data as constant '§doc'
 	}
 	
 	/**
@@ -2519,7 +2998,8 @@ public class MarkupScript {
 		String msStr = "" +
 				"import something.ms;\r\n" +
 				"import something.further.ms as frt;\r\n" +
-				"// this should explain below function ...\r\n" +
+				"/** this should explain below function ... */\r\n" +
+				"// while this one should not get in the way ...\r\n" +
 				"function factorial(number $n) => number {\r\n" +
 				"  if ($n <= 1)\r\n" +
 				"    return $n;\r\n" +
@@ -2527,13 +3007,14 @@ public class MarkupScript {
 				"}\r\n" +
 				"/* ... and this should \r\nexplain above function */\r\n" +
 				"number $n1 = factorial(1);\r\n" +
-				"$n1 = factorial(2);\r\n" +
-				"$n1 = factorial(3);\r\n" +
+				"$n1 = frt:factorial(2);\r\n" +
+				"$n1 = frs:factorial(3);\r\n" +
 				"for (number $n = 0; $n < 5; $n += 1) {\r\n" +
 				"  $n = factorial($n - 1);\r\n" +
 				"}\r\n" +
 				"string $strSq = 'this is a string in single quotes';\r\n" +
 				"string $strDq = \"this is a string in double quotes\";\r\n" +
+				"number $n = 0;\r\n" +
 				"while ($n1 <= 10)\r\n" +
 				"  $n = ($n + 1);\r\n" +
 				"if ($a && $b || $c & $d)\r\n" +
@@ -2547,16 +3028,13 @@ public class MarkupScript {
 				"if ($a && $b && $c)\r\n" +
 				"  return;\r\n" +
 				"";
-//		MarkupScript ms = parse(new StringReader(msStr.replaceAll("\\r\\n", "\r")));
 		MarkupScript ms = parse(new StringReader(msStr));
 		ms.printString();
 		JTextPane tp = new JTextPane();
 		tp.setFont(Font.getFont("Courier"));
 		StyledDocument sd = tp.getStyledDocument();
 		sd.insertString(sd.getLength(), msStr, null); // this way we get no penalty from the cross-platform line breaks
-//		tp.setText(msStr);
 		ms.styleCode(tp.getStyledDocument());
-//		tp.getStyledDocument().setCharacterAttributes(0, "import".length(), STYLE_KEYWORD, true);
 		JOptionPane.showMessageDialog(null, tp);
 	}
 	
@@ -2589,6 +3067,11 @@ public class MarkupScript {
 		public AttributeSet getResolveParent() {
 			return null;
 		}
+	}
+	
+	private static HashtableAttributeSet STYLE_ERROR = new HashtableAttributeSet();
+	static {
+		STYLE_ERROR.attrs.put(StyleConstants.Background, new Color(255, 128, 128));
 	}
 	
 	private static HashtableAttributeSet STYLE_KEYWORD = new HashtableAttributeSet();
