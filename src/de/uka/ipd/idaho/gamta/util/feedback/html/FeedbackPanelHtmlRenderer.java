@@ -27,6 +27,7 @@
  */
 package de.uka.ipd.idaho.gamta.util.feedback.html;
 
+import java.awt.Font;
 import java.io.File;
 import java.io.IOException;
 import java.io.Writer;
@@ -514,6 +515,27 @@ public abstract class FeedbackPanelHtmlRenderer {
 		//	plain String, encode special characters
 //		else return IoTools.prepareForHtml(string);
 		else return IoTools.prepareForHtml(string, HTML_CHAR_MAPPING);
+	}
+	
+	/**
+	 * Translate a Java Swing font name to the corresponding CSS font name,
+	 * especially for logical fonts. If the argument font name is not symbolic,
+	 * this method returns it as it is.
+	 * @param fontName the font name to translate
+	 * @return the translated font name
+	 */
+	public static String getCssStyleFontName(String fontName) {
+		if (Font.SERIF.equalsIgnoreCase(fontName))
+			return "serif";
+		else if (Font.SANS_SERIF.equalsIgnoreCase(fontName))
+			return "sans-serif";
+		else if (Font.MONOSPACED.equalsIgnoreCase(fontName))
+			return "monospace";
+		else if (Font.DIALOG.equalsIgnoreCase(fontName))
+			return "sans-serif";
+		else if (Font.DIALOG_INPUT.equalsIgnoreCase(fontName))
+			return "monospace";
+		else return fontName;
 	}
 	
 	/**

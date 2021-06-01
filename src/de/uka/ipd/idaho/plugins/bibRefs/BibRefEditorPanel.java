@@ -355,6 +355,25 @@ public class BibRefEditorPanel extends JPanel implements BibRefConstants {
 				this.add(editAuthorsButton, gbc.clone());
 				this.authorsEditor = new AuthorsEditorPanel(authorDetails, this.fields[f]);
 			}
+			else if (((f+1) < this.fields.length) && JOURNAL_NAME_ANNOTATION_TYPE.equals(this.fields[f].name) && SERIES_IN_JOURNAL_ANNOTATION_TYPE.equals(this.fields[f+1].name)) {
+				gbc.gridx = 0;
+				gbc.gridwidth = 1;
+				gbc.weightx = 0;
+				this.add(this.fields[f].label, gbc.clone());
+				gbc.gridx = 1;
+				gbc.gridwidth = 3;
+				gbc.weightx = 1;
+				this.add(this.fields[f].getValueInput(), gbc.clone());
+				f++;
+				gbc.gridx = 4;
+				gbc.gridwidth = 1;
+				gbc.weightx = 0;
+				this.add(this.fields[f].label, gbc.clone());
+				gbc.gridx = 5;
+				gbc.gridwidth = 1;
+				gbc.weightx = 1;
+				this.add(this.fields[f].getValueInput(), gbc.clone());
+			}
 			else {
 				gbc.gridx = 0;
 				gbc.gridwidth = 1;

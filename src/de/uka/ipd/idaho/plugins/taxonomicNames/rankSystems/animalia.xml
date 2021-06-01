@@ -25,6 +25,7 @@
 		<rank name="order" abbreviations="ord." synonyms="ordo"/>
 		<rank name="subOrder" abbreviations="subord." synonyms="subOrdo"/>
 		<rank name="infraOrder" abbreviations="infraord." synonyms="infraOrdo"/>
+		<rank name="parvOrder" abbreviations="parvord." synonyms="parvOrdo"/>
 	</rankGroup>
 	<rankGroup name="family">
 		<rank name="superFamily" abbreviations="superfam." suffix="oidea" synonyms="superFamilia"/>

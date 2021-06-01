@@ -130,8 +130,44 @@ public class AnnotationEditorFeedbackPanelRenderer extends FeedbackPanelHtmlRend
 			blw.writeLine("}");
 
 
-			
 			blw.writeLine("var contextMenu;");
+
+			blw.writeLine("var annotateMenuItems = new Array();");
+			blw.writeLine("var annotateAllMenuItems = new Array();");
+
+			blw.writeLine("var removeMenuItem = null;");
+			blw.writeLine("var removeMenuItemText = null;");
+			blw.writeLine("var removeByValueMenuItem = null;");
+			blw.writeLine("var removeByValueMenuItemText = null;");
+			blw.writeLine("var removeByTypeMenuItem = null;");
+			blw.writeLine("var removeByTypeMenuItemText = null;");
+			blw.writeLine("var removeBySelectionMenuItem = null;");
+
+			blw.writeLine("var extendMenuItem = null;");
+			blw.writeLine("var extendMenuItemText = null;");
+			blw.writeLine("var mergeMenuItem = null;");
+			blw.writeLine("var mergeMenuItemText = null;");
+
+			blw.writeLine("var cutUpToMenuItem = null;");
+			blw.writeLine("var cutUpToMenuItemText = null;");
+			blw.writeLine("var cutFromMenuItem = null;");
+			blw.writeLine("var cutFromMenuItemText = null;");
+			blw.writeLine("var cutBeforeMenuItem = null;");
+			blw.writeLine("var cutBeforeMenuItemText = null;");
+			blw.writeLine("var cutAfterMenuItem = null;");
+			blw.writeLine("var cutAfterMenuItemText = null;");
+
+			blw.writeLine("var splitBeforeMenuItem = null;");
+			blw.writeLine("var splitBeforeMenuItemText = null;");
+			blw.writeLine("var splitAfterMenuItem = null;");
+			blw.writeLine("var splitAfterMenuItemText = null;");
+			blw.writeLine("var splitAroundMenuItem = null;");
+			blw.writeLine("var splitAroundMenuItemText = null;");
+			blw.writeLine("var splitAroundAllMenuItem = null;");
+			blw.writeLine("var splitAroundAllMenuItemText = null;");
+			blw.writeLine("var splitAllAroundAllMenuItem = null;");
+			blw.writeLine("var splitAllAroundAllMenuItemText = null;");
+			
 			blw.writeLine("var feedbackForm;");
 			blw.writeLine("var annotationTypeColors = new Object();");
 			blw.writeLine("function initAnnotEditor() {");
@@ -161,13 +197,6 @@ public class AnnotationEditorFeedbackPanelRenderer extends FeedbackPanelHtmlRend
 			blw.writeLine("  mergeMenuItem = getById('merge');");
 			blw.writeLine("  mergeMenuItemText = getById('mergeText');");
 			
-			blw.writeLine("  splitBeforeMenuItem = getById('splitBefore');");
-			blw.writeLine("  splitBeforeMenuItemText = getById('splitBeforeText');");
-			blw.writeLine("  splitAroundMenuItem = getById('splitAround');");
-			blw.writeLine("  splitAroundMenuItemText = getById('splitAroundText');");
-			blw.writeLine("  splitAfterMenuItem = getById('splitAfter');");
-			blw.writeLine("  splitAfterMenuItemText = getById('splitAfterText');");
-			
 			blw.writeLine("  cutUpToMenuItem = getById('cutUpTo');");
 			blw.writeLine("  cutUpToMenuItemText = getById('cutUpToText');");
 			blw.writeLine("  cutFromMenuItem = getById('cutFrom');");
@@ -176,6 +205,17 @@ public class AnnotationEditorFeedbackPanelRenderer extends FeedbackPanelHtmlRend
 			blw.writeLine("  cutBeforeMenuItemText = getById('cutBeforeText');");
 			blw.writeLine("  cutAfterMenuItem = getById('cutAfter');");
 			blw.writeLine("  cutAfterMenuItemText = getById('cutAfterText');");
+			
+			blw.writeLine("  splitBeforeMenuItem = getById('splitBefore');");
+			blw.writeLine("  splitBeforeMenuItemText = getById('splitBeforeText');");
+			blw.writeLine("  splitAfterMenuItem = getById('splitAfter');");
+			blw.writeLine("  splitAfterMenuItemText = getById('splitAfterText');");
+			blw.writeLine("  splitAroundMenuItem = getById('splitAround');");
+			blw.writeLine("  splitAroundMenuItemText = getById('splitAroundText');");
+			blw.writeLine("  splitAroundAllMenuItem = getById('splitAroundAll');"); // TODO use this sucker
+			blw.writeLine("  splitAroundAllMenuItemText = getById('splitAroundAllText');"); // TODO use this sucker
+			blw.writeLine("  splitAllAroundAllMenuItem = getById('splitAllAroundAll');"); // TODO use this sucker
+			blw.writeLine("  splitAllAroundAllMenuItemText = getById('splitAllAroundAllText');"); // TODO use this sucker
 			
 			// remove context menu altogether, will add it to glass pane later
 			blw.writeLine("  removeElement(contextMenu);");
@@ -235,7 +275,18 @@ public class AnnotationEditorFeedbackPanelRenderer extends FeedbackPanelHtmlRend
 			blw.writeLine("    }");
 			blw.writeLine("  }");
 			blw.writeLine("}");
-
+			
+			//	TODO use this if detail line breaking enabled !!!
+			blw.writeLine("function adjustSpace(space, doLineBreak) {");
+			blw.writeLine("  while(space.firstChild)");
+			blw.writeLine("    space.removeChild(space.firstChild);");
+			blw.writeLine("  var node;");
+			blw.writeLine("  if (doLineBreak)");
+			blw.writeLine("    node = document.createElement('BR');");
+			blw.writeLine("  else node = document.createTextNode(space.original);");
+			blw.writeLine("  space.appendChild(node);");
+			blw.writeLine("}");
+			
 			blw.writeLine("function annotate(type) {");
 			blw.writeLine("  for (var t = contextMenu.start; t <= contextMenu.end; t++) {");
 			blw.writeLine("    setState(contextMenu.part, t, ((t == contextMenu.start) ? 'S' : 'C'));");
@@ -387,31 +438,6 @@ public class AnnotationEditorFeedbackPanelRenderer extends FeedbackPanelHtmlRend
 			blw.writeLine("  adjustColors(contextMenu.part);");
 			blw.writeLine("  return false;");
 			blw.writeLine("}");
-
-			blw.writeLine("function splitAround() {");
-			blw.writeLine("  setState(contextMenu.part, contextMenu.start, 'O');");
-			blw.writeLine("  setType(contextMenu.part, contextMenu.start, null);");
-			blw.writeLine("  var nextToken = getById('part' + contextMenu.part + '_token' + (contextMenu.start + 1));");
-			blw.writeLine("  if (nextToken && (getState(contextMenu.part, (contextMenu.start + 1)) == 'C'))");
-			blw.writeLine("    setState(contextMenu.part, (contextMenu.start + 1), 'S');");
-			blw.writeLine("  adjustColors(contextMenu.part);");
-			blw.writeLine("  return false;");
-			blw.writeLine("}");
-
-			blw.writeLine("function splitBefore() {");
-			blw.writeLine("  setState(contextMenu.part, contextMenu.start, 'S');");
-			blw.writeLine("  adjustColors(contextMenu.part);");
-			blw.writeLine("  return false;");
-			blw.writeLine("}");
-
-			blw.writeLine("function splitAfter() {");
-			blw.writeLine("  var nextToken = getById('part' + contextMenu.part + '_token' + (contextMenu.start + 1));");
-			blw.writeLine("  if (nextToken && (getState(contextMenu.part, (contextMenu.start + 1)) == 'C'))");
-			blw.writeLine("    setState(contextMenu.part, (contextMenu.start + 1), 'S');");
-			blw.writeLine("  adjustColors(contextMenu.part);");
-			blw.writeLine("  return false;  ");
-			blw.writeLine("}");
-
 			blw.writeLine("function cutUpTo() {");
 			blw.writeLine("  var nextToken = getById('part' + contextMenu.part + '_token' + (contextMenu.start + 1));");
 			blw.writeLine("  if (nextToken)");
@@ -426,7 +452,6 @@ public class AnnotationEditorFeedbackPanelRenderer extends FeedbackPanelHtmlRend
 			blw.writeLine("  adjustColors(contextMenu.part);");
 			blw.writeLine("  return false;  ");
 			blw.writeLine("}");
-
 			blw.writeLine("function cutFrom() {");
 			blw.writeLine("  for (var t = contextMenu.start; getById('part' + contextMenu.part + '_token' + t); t++) {");
 			blw.writeLine("    var oldState = getState(contextMenu.part, t);");
@@ -461,6 +486,77 @@ public class AnnotationEditorFeedbackPanelRenderer extends FeedbackPanelHtmlRend
 			blw.writeLine("  }");
 			blw.writeLine("  adjustColors(contextMenu.part);");
 			blw.writeLine("  return false;  ");
+			blw.writeLine("}");
+			
+			blw.writeLine("function splitBefore() {");
+			blw.writeLine("  setState(contextMenu.part, contextMenu.start, 'S');");
+			blw.writeLine("  adjustColors(contextMenu.part);");
+			blw.writeLine("  return false;");
+			blw.writeLine("}");
+			
+			blw.writeLine("function splitAfter() {");
+			blw.writeLine("  var nextToken = getById('part' + contextMenu.part + '_token' + (contextMenu.start + 1));");
+			blw.writeLine("  if (nextToken && (getState(contextMenu.part, (contextMenu.start + 1)) == 'C'))");
+			blw.writeLine("    setState(contextMenu.part, (contextMenu.start + 1), 'S');");
+			blw.writeLine("  adjustColors(contextMenu.part);");
+			blw.writeLine("  return false;  ");
+			blw.writeLine("}");
+			
+			blw.writeLine("function splitAround() {");
+			blw.writeLine("  setState(contextMenu.part, contextMenu.start, 'O');");
+			blw.writeLine("  setType(contextMenu.part, contextMenu.start, null);");
+			blw.writeLine("  var nextToken = getById('part' + contextMenu.part + '_token' + (contextMenu.start + 1));");
+			blw.writeLine("  if (nextToken && (getState(contextMenu.part, (contextMenu.start + 1)) == 'C'))");
+			blw.writeLine("    setState(contextMenu.part, (contextMenu.start + 1), 'S');");
+			blw.writeLine("  adjustColors(contextMenu.part);");
+			blw.writeLine("  return false;");
+			blw.writeLine("}");
+			
+			//	TODO make this work (refurbish commented code below !!!)
+			blw.writeLine("function splitAroundAll() {");
+			blw.writeLine("  setState(contextMenu.part, contextMenu.start, 'O');");
+			blw.writeLine("  setType(contextMenu.part, contextMenu.start, null);");
+			blw.writeLine("  var nextToken = getById('part' + contextMenu.part + '_token' + (contextMenu.start + 1));");
+			blw.writeLine("  if (nextToken && (getState(contextMenu.part, (contextMenu.start + 1)) == 'C'))");
+			blw.writeLine("    setState(contextMenu.part, (contextMenu.start + 1), 'S');");
+			blw.writeLine("  adjustColors(contextMenu.part);");
+			blw.writeLine("  return false;");
+			blw.writeLine("}");
+//			bw.writeLine("function splitAroundAll() {");
+//			bw.writeLine("  if (_selection && (_start != null) && (_end != null) && (_start == _end)) {");
+//			bw.writeLine("    var value = $('token' + _start);");
+//			bw.writeLine("    if (value) {");
+//			bw.writeLine("      var t = 0;");
+//			bw.writeLine("      while($('token' + t)) {");
+//			bw.writeLine("        var token = $('token' + t);");
+//			bw.writeLine("        if ((token.innerHTML == value.innerHTML) && (getState(t) == 'C')) {");
+//			bw.writeLine("          setState(t, 'O');");
+//			bw.writeLine("          setType(t, null);");
+//			bw.writeLine("          var nextToken = $('token' + (t+1));");
+//			bw.writeLine("          if (nextToken) {");
+//			bw.writeLine("            if (getState(t+1) == 'C')");
+//			bw.writeLine("              setState((t + 1), 'S');");
+//			bw.writeLine("          }");
+//			bw.writeLine("        }");
+//			bw.writeLine("        t++;");
+//			bw.writeLine("      }");
+//			bw.writeLine("      adjustColors();");
+//			bw.writeLine("    }");
+//			bw.writeLine("  }");
+//			bw.writeLine("  ");
+//			bw.writeLine("  closeContext();");
+//			bw.writeLine("  return false;");
+//			bw.writeLine("}");
+			
+			//	TODO make this work
+			blw.writeLine("function splitAllAroundAll() {");
+			blw.writeLine("  setState(contextMenu.part, contextMenu.start, 'O');");
+			blw.writeLine("  setType(contextMenu.part, contextMenu.start, null);");
+			blw.writeLine("  var nextToken = getById('part' + contextMenu.part + '_token' + (contextMenu.start + 1));");
+			blw.writeLine("  if (nextToken && (getState(contextMenu.part, (contextMenu.start + 1)) == 'C'))");
+			blw.writeLine("    setState(contextMenu.part, (contextMenu.start + 1), 'S');");
+			blw.writeLine("  adjustColors(contextMenu.part);");
+			blw.writeLine("  return false;");
 			blw.writeLine("}");
 
 			blw.writeLine("function getTokenValue(part, index) {");
@@ -519,39 +615,7 @@ public class AnnotationEditorFeedbackPanelRenderer extends FeedbackPanelHtmlRend
 			blw.writeLine("  else if (selection.empty)");
 			blw.writeLine("    selection.empty();");
 			blw.writeLine("}");
-
-			blw.writeLine("var annotateMenuItems = new Array();");
-			blw.writeLine("var annotateAllMenuItems = new Array();");
-
-			blw.writeLine("var removeMenuItem = null;");
-			blw.writeLine("var removeMenuItemText = null;");
-			blw.writeLine("var removeByValueMenuItem = null;");
-			blw.writeLine("var removeByValueMenuItemText = null;");
-			blw.writeLine("var removeByTypeMenuItem = null;");
-			blw.writeLine("var removeByTypeMenuItemText = null;");
-			blw.writeLine("var removeBySelectionMenuItem = null;");
-
-			blw.writeLine("var extendMenuItem = null;");
-			blw.writeLine("var extendMenuItemText = null;");
-			blw.writeLine("var mergeMenuItem = null;");
-			blw.writeLine("var mergeMenuItemText = null;");
-
-			blw.writeLine("var splitBeforeMenuItem = null;");
-			blw.writeLine("var splitBeforeMenuItemText = null;");
-			blw.writeLine("var splitAroundMenuItem = null;");
-			blw.writeLine("var splitAroundMenuItemText = null;");
-			blw.writeLine("var splitAfterMenuItem = null;");
-			blw.writeLine("var splitAfterMenuItemText = null;");
-
-			blw.writeLine("var cutUpToMenuItem = null;");
-			blw.writeLine("var cutUpToMenuItemText = null;");
-			blw.writeLine("var cutFromMenuItem = null;");
-			blw.writeLine("var cutFromMenuItemText = null;");
-			blw.writeLine("var cutBeforeMenuItem = null;");
-			blw.writeLine("var cutBeforeMenuItemText = null;");
-			blw.writeLine("var cutAfterMenuItem = null;");
-			blw.writeLine("var cutAfterMenuItemText = null;");
-
+			
 			blw.writeLine("function getSelectedText(selPart, selStart, selEnd) {");
 			blw.writeLine("  var selText = '';");
 			blw.writeLine("  for (var t = selStart; t <= selEnd; t++) {");
@@ -829,7 +893,7 @@ public class AnnotationEditorFeedbackPanelRenderer extends FeedbackPanelHtmlRend
 			blw.writeLine("}");
 			
 			blw.writeLine(".menuItem {"); // TODO make this adjustable
-			blw.writeLine("  font-family: Arial,Helvetica,Verdana;");
+			blw.writeLine("  font-family: Arial, Helvetica, Verdana;");
 			blw.writeLine("  font-size: 10pt;");
 			blw.writeLine("  padding: 2pt 5pt 2pt;");
 			blw.writeLine("  text-align: left;");
@@ -842,7 +906,8 @@ public class AnnotationEditorFeedbackPanelRenderer extends FeedbackPanelHtmlRend
 			blw.writeLine("}");
 			
 			blw.writeLine(".token {");
-			blw.writeLine("  font-family: " + this.aefp.getFontName() + ";");
+//			blw.writeLine("  font-family: " + this.aefp.getFontName() + ";");
+			blw.writeLine("  font-family: " + getCssStyleFontName(this.aefp.getFontName()) + ";");
 			blw.writeLine("  font-size: " + this.aefp.getFontSize() + "pt;");
 			blw.writeLine("}");
 			
@@ -892,14 +957,16 @@ public class AnnotationEditorFeedbackPanelRenderer extends FeedbackPanelHtmlRend
 			blw.writeLine("<li id=\"extend\" class=\"menuItem\"><span class=\"menuItemText\" id=\"extendText\" onclick=\"return extend();\">Extend Annotation</span></li>");
 			blw.writeLine("<li id=\"merge\" class=\"menuItem\"><span class=\"menuItemText\" id=\"mergeText\" onclick=\"return merge();\">Merge Annotations</span></li>");
 			
-			blw.writeLine("<li id=\"splitBefore\" class=\"menuItem\"><span class=\"menuItemText\" id=\"splitBeforeText\" onclick=\"return splitBefore();\">Split Annotation Before</span></li>");
-			blw.writeLine("<li id=\"splitAround\" class=\"menuItem\"><span class=\"menuItemText\" id=\"splitAroundText\" onclick=\"return splitAround();\">Split Annotation Around</span></li>");
-			blw.writeLine("<li id=\"splitAfter\" class=\"menuItem\"><span class=\"menuItemText\" id=\"splitAfterText\" onclick=\"return splitAfter();\">Split Annotation After</span></li>");
-			
 			blw.writeLine("<li id=\"cutUpTo\" class=\"menuItem\"><span class=\"menuItemText\" id=\"cutUpToText\" onclick=\"return cutUpTo();\">Cut Annotation Up To</span></li>");
 			blw.writeLine("<li id=\"cutFrom\" class=\"menuItem\"><span class=\"menuItemText\" id=\"cutFromText\" onclick=\"return cutFrom();\">Cut Annotation From</span></li>");
 			blw.writeLine("<li id=\"cutBefore\" class=\"menuItem\"><span class=\"menuItemText\" id=\"cutBeforeText\" onclick=\"return cutBefore();\">Cut Annotation Before</span></li>");
 			blw.writeLine("<li id=\"cutAfter\" class=\"menuItem\"><span class=\"menuItemText\" id=\"cutAfterText\" onclick=\"return cutAfter();\">Cut Annotation After</span></li>");
+			
+			blw.writeLine("<li id=\"splitBefore\" class=\"menuItem\"><span class=\"menuItemText\" id=\"splitBeforeText\" onclick=\"return splitBefore();\">Split Annotation Before</span></li>");
+			blw.writeLine("<li id=\"splitAfter\" class=\"menuItem\"><span class=\"menuItemText\" id=\"splitAfterText\" onclick=\"return splitAfter();\">Split Annotation After</span></li>");
+			blw.writeLine("<li id=\"splitAround\" class=\"menuItem\"><span class=\"menuItemText\" id=\"splitAroundText\" onclick=\"return splitAround();\">Split Annotation Around</span></li>");
+			blw.writeLine("<li id=\"splitAroundAll\" class=\"menuItem\"><span class=\"menuItemText\" id=\"splitAroundAllText\" onclick=\"return splitAroundAll();\">Split Annotation Around All</span></li>");
+			blw.writeLine("<li id=\"splitAllAroundAll\" class=\"menuItem\"><span class=\"menuItemText\" id=\"splitAllAroundAllText\" onclick=\"return splitAllAroundAll();\">Split All Annotations Around All</span></li>");
 			
 			blw.writeLine("</ul>");
 			blw.writeLine("</div>");

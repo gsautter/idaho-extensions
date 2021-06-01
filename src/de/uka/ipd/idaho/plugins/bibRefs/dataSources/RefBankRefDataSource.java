@@ -148,6 +148,9 @@ public class RefBankRefDataSource extends BibRefDataSource {
 	private String getOrigin(Properties searchData) {
 		String origin = searchData.getProperty(JOURNAL_NAME_ANNOTATION_TYPE);
 		if (origin != null) {
+			String sj = searchData.getProperty(SERIES_IN_JOURNAL_ANNOTATION_TYPE);
+			if (sj != null)
+				origin += (" (" + sj + ")");
 			String vd = searchData.getProperty(VOLUME_DESIGNATOR_ANNOTATION_TYPE);
 			if (vd != null) {
 				origin += (" " + vd);

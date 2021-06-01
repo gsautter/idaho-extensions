@@ -27,6 +27,7 @@
  */
 package de.uka.ipd.idaho.gamta.util.imaging;
 
+import java.awt.Point;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
@@ -155,10 +156,27 @@ public class BoundingBox {
 	}
 	
 	/**
+	 * Retrieve the center point of the bounding box.
+	 * @return the center point
+	 */
+	public Point getCenterPoint() {
+		return new Point(((this.left + this.right) / 2), ((this.top + this.bottom) / 2));
+	}
+	
+	/**
+	 * Test whether or not this bounding box includes a given point.
+	 * @param box the point to test
+	 * @return true if this bounding box includes the argument point
+	 */
+	public boolean includes(Point point) {
+		return ((this.left <= point.x) && (point.x < this.right) && (this.top <= point.y) && (point.y < this.bottom));
+	}
+	
+	/**
 	 * Test whether or not this bounding box includes another bounding box. If
-	 * <code>fuzzy</code> is set to <code>true</code>, the this method tests if
-	 * this box includes the center of the argument box rather than the argument
-	 * box as a whole.
+	 * <code>fuzzy</code> is set to <code>true</code>, the method tests if this
+	 * box includes the center of the argument box rather than the argument box
+	 * as a whole.
 	 * @param box the bounding box to test
 	 * @param fuzzy do a fuzzy test?
 	 * @return true if this bounding box includes the argument one

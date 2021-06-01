@@ -44,9 +44,9 @@ import de.uka.ipd.idaho.gamta.util.AnnotationPatternMatcher;
 import de.uka.ipd.idaho.gamta.util.AnnotationPatternMatcher.AnnotationIndex;
 import de.uka.ipd.idaho.gamta.util.AnnotationPatternMatcher.MatchTree;
 import de.uka.ipd.idaho.gamta.util.AnnotationPatternMatcher.MatchTreeNode;
+import de.uka.ipd.idaho.gamta.util.DocumentStyle;
+import de.uka.ipd.idaho.gamta.util.DocumentStyle.ParameterGroupDescription;
 import de.uka.ipd.idaho.gamta.util.constants.NamedEntityConstants;
-import de.uka.ipd.idaho.gamta.util.imaging.DocumentStyle;
-import de.uka.ipd.idaho.gamta.util.imaging.DocumentStyle.ParameterGroupDescription;
 import de.uka.ipd.idaho.stringUtils.Dictionary;
 import de.uka.ipd.idaho.stringUtils.StringUtils;
 import de.uka.ipd.idaho.stringUtils.StringVector;
@@ -613,31 +613,31 @@ public class ProperNameUtils implements NamedEntityConstants {
 		 */
 		public static NameStyle createFromTemplate(DocumentStyle nameStyle) {
 			NameStyle ns = new NameStyle();
-			String nameCase = nameStyle.getProperty("nameCase");
+			String nameCase = nameStyle.getStringProperty("nameCase", null);
 			if (titleCase.equals(nameCase) || allCaps.equals(nameCase))
 				ns.setNameCase(nameCase);
-			String lastNameCase = nameStyle.getProperty("lastNameCase", nameCase);
+			String lastNameCase = nameStyle.getStringProperty("lastNameCase", nameCase);
 			if (titleCase.equals(lastNameCase) || allCaps.equals(lastNameCase))
 				ns.setLastNameCase(nameCase);
-			String firstNameStyle = nameStyle.getProperty("firstNameStyle", null);
+			String firstNameStyle = nameStyle.getStringProperty("firstNameStyle", null);
 			if (fullFirstName.equals(firstNameStyle) || initialsFirstName.equals(firstNameStyle))
 				ns.setFirstNameStyle(firstNameStyle);
-			String firstNameCase = nameStyle.getProperty("firstNameCase", nameCase);
+			String firstNameCase = nameStyle.getStringProperty("firstNameCase", nameCase);
 			if (titleCase.equals(firstNameCase) || allCaps.equals(firstNameCase))
 				ns.setFirstNameCase(firstNameCase);
-			String initialsStyle = nameStyle.getProperty("initialsStyle"); // dotted, undotted, or block
+			String initialsStyle = nameStyle.getStringProperty("initialsStyle", null); // dotted, undotted, or block
 			if (dottedInitials.equals(initialsStyle) || undottedInitials.equals(initialsStyle) || blockInitials.equals(initialsStyle))
 				ns.setInitialsStyle(initialsStyle);
-			String affixCommaSeparated = nameStyle.getProperty("affixCommaSeparated");
+			String affixCommaSeparated = nameStyle.getStringProperty("affixCommaSeparated", null);
 			if ("Y".equals(affixCommaSeparated) || "N".equals(affixCommaSeparated))
 				ns.setAffixCommaSeparated(affixCommaSeparated);
-			String affixPosition = nameStyle.getProperty("affixPosition");
+			String affixPosition = nameStyle.getStringProperty("affixPosition", null);
 			if (attachedPosition.equals(affixPosition) || tailingPosition.equals(affixPosition))
 				ns.setAffixPosition(affixPosition);
-			String infixPosition = nameStyle.getProperty("infixPosition");
+			String infixPosition = nameStyle.getStringProperty("infixPosition", null);
 			if (attachedPosition.equals(infixPosition) || tailingPosition.equals(infixPosition))
 				ns.setInfixPosition(infixPosition);
-			String namePartOrder = nameStyle.getProperty("namePartOrder");
+			String namePartOrder = nameStyle.getStringProperty("namePartOrder", null);
 			if (lastNameFirstName.equals(namePartOrder) || lastNameInitials.equals(namePartOrder) || firstNameLastName.equals(namePartOrder) || initialsLastName.equals(namePartOrder))
 				ns.setNamePartOrder(namePartOrder);
 			return ns;

@@ -70,6 +70,7 @@ import de.uka.ipd.idaho.gamta.util.gPath.types.GPathString;
 import de.uka.ipd.idaho.htmlXmlUtil.accessories.XsltUtils;
 import de.uka.ipd.idaho.htmlXmlUtil.grammars.Grammar;
 import de.uka.ipd.idaho.htmlXmlUtil.grammars.StandardGrammar;
+import de.uka.ipd.idaho.plugins.dateTime.DateTimeUtils;
 import de.uka.ipd.idaho.stringUtils.StringUtils;
 
 /**
@@ -1016,7 +1017,7 @@ public class BibRefUtils implements BibRefConstants {
 	 */
 	public static RefData prefixedAttributesToRefData(Attributed attrRef, String prefix) {
 		RefData rd = new RefData();
-		boolean gotPartDesignator = false;
+		boolean gotPartDesignatorOrSeries = false;
 		String journalOrPublisher = null;
 		
 		//	get attribute names
@@ -1067,7 +1068,7 @@ public class BibRefUtils implements BibRefConstants {
 			
 			//	transfer part designators type specifically
 			if (PART_DESIGNATOR_ANNOTATION_TYPE.equals(attributeName)) {
-				gotPartDesignator = true;
+				gotPartDesignatorOrSeries = true;
 				if (!rd.hasAttribute(VOLUME_DESIGNATOR_ANNOTATION_TYPE))
 					rd.setAttribute(VOLUME_DESIGNATOR_ANNOTATION_TYPE, attributeValue);
 				else if (!rd.hasAttribute(ISSUE_DESIGNATOR_ANNOTATION_TYPE))
@@ -1077,9 +1078,9 @@ public class BibRefUtils implements BibRefConstants {
 				continue;
 			}
 			
-			//	remember we have a part designator
-			if (VOLUME_DESIGNATOR_ANNOTATION_TYPE.equals(attributeName) || ISSUE_DESIGNATOR_ANNOTATION_TYPE.equals(attributeName) || NUMERO_DESIGNATOR_ANNOTATION_TYPE.equals(attributeName))
-				gotPartDesignator = true;
+			//	remember we have a part designator or a series inside a journal
+			if (VOLUME_DESIGNATOR_ANNOTATION_TYPE.equals(attributeName) || ISSUE_DESIGNATOR_ANNOTATION_TYPE.equals(attributeName) || NUMERO_DESIGNATOR_ANNOTATION_TYPE.equals(attributeName) || rd.hasAttribute(SERIES_IN_JOURNAL_ANNOTATION_TYPE))
+				gotPartDesignatorOrSeries = true;
 			
 			//	handle journal/publisher later (part designators might come only after this attribute !!!)
 			if (JOURNAL_NAME_OR_PUBLISHER_ANNOTATION_TYPE.equals(attributeName)) {
@@ -1101,7 +1102,7 @@ public class BibRefUtils implements BibRefConstants {
 		if (journalOrPublisher != null) {
 			
 			//	journal name
-			if (gotPartDesignator)
+			if (gotPartDesignatorOrSeries)
 				rd.setAttribute(JOURNAL_NAME_ANNOTATION_TYPE, journalOrPublisher);
 			
 			//	split publisher from location
@@ -1277,7 +1278,7 @@ public class BibRefUtils implements BibRefConstants {
 			rd.setAttribute(PUBLICATION_TYPE_ATTRIBUTE, type);
 		
 		//	handle host item title
-		if (type.startsWith("journal") || rd.hasAttribute(VOLUME_DESIGNATOR_ANNOTATION_TYPE) || rd.hasAttribute(ISSUE_DESIGNATOR_ANNOTATION_TYPE) || rd.hasAttribute(NUMERO_DESIGNATOR_ANNOTATION_TYPE)) {
+		if (type.startsWith("journal") || rd.hasAttribute(VOLUME_DESIGNATOR_ANNOTATION_TYPE) || rd.hasAttribute(ISSUE_DESIGNATOR_ANNOTATION_TYPE) || rd.hasAttribute(NUMERO_DESIGNATOR_ANNOTATION_TYPE) || rd.hasAttribute(SERIES_IN_JOURNAL_ANNOTATION_TYPE)) {
 			rd.renameAttribute("hostTitle", JOURNAL_NAME_ANNOTATION_TYPE);
 			rd.renameAttribute("hostVolumeTitle", VOLUME_TITLE_ANNOTATION_TYPE);
 		}
@@ -1366,6 +1367,7 @@ public class BibRefUtils implements BibRefConstants {
 	private static final GPath hostItem_pubDatePath = new GPath("//part/detail[./@type = 'pubDate']/number");
 	private static final GPath hostItem_editorsPath = new GPath("//name[.//roleTerm = 'Editor']/namePart");
 	
+	private static final GPath hostItem_seriesInJournalPath = new GPath("//part/detail[./@type = 'series']/title");
 	private static final GPath hostItem_volumePath = new GPath("//part/detail[./@type = 'volume']/number");
 	private static final GPath hostItem_issuePath = new GPath("//part/detail[./@type = 'issue']/number");
 	private static final GPath hostItem_numeroPath = new GPath("//part/detail[./@type = 'numero']/number");
@@ -1391,6 +1393,7 @@ public class BibRefUtils implements BibRefConstants {
 		hostItemDetailPathsByType.put(EDITOR_ANNOTATION_TYPE, hostItem_editorsPath);
 		hostItemDetailPathsByType.put("hostTitle", hostItem_titlePath);
 		hostItemDetailPathsByType.put("hostVolumeTitle", hostItem_volumeTitlePath);
+		hostItemDetailPathsByType.put(SERIES_IN_JOURNAL_ANNOTATION_TYPE, hostItem_seriesInJournalPath);
 		hostItemDetailPathsByType.put(VOLUME_DESIGNATOR_ANNOTATION_TYPE, hostItem_volumePath);
 		hostItemDetailPathsByType.put(ISSUE_DESIGNATOR_ANNOTATION_TYPE, hostItem_issuePath);
 		hostItemDetailPathsByType.put(NUMERO_DESIGNATOR_ANNOTATION_TYPE, hostItem_numeroPath);
@@ -1583,6 +1586,7 @@ public class BibRefUtils implements BibRefConstants {
 		ACCESS_DATE_ANNOTATION_TYPE,
 		TITLE_ANNOTATION_TYPE,
 		JOURNAL_NAME_ANNOTATION_TYPE,
+		SERIES_IN_JOURNAL_ANNOTATION_TYPE,
 		PUBLISHER_ANNOTATION_TYPE,
 		LOCATION_ANNOTATION_TYPE,
 		PAGINATION_ANNOTATION_TYPE,
@@ -1608,6 +1612,7 @@ public class BibRefUtils implements BibRefConstants {
 		PART_DESIGNATOR_ANNOTATION_TYPE,
 		JOURNAL_NAME_OR_PUBLISHER_ANNOTATION_TYPE,
 		JOURNAL_NAME_ANNOTATION_TYPE,
+		SERIES_IN_JOURNAL_ANNOTATION_TYPE,
 		PUBLISHER_ANNOTATION_TYPE,
 		LOCATION_ANNOTATION_TYPE,
 		PAGINATION_ANNOTATION_TYPE,
@@ -1719,6 +1724,189 @@ public class BibRefUtils implements BibRefConstants {
 		if (type != null)
 			ref.setAttribute(PUBLICATION_TYPE_ATTRIBUTE, type);
 		return type;
+	}
+	
+	/**
+	 * Sanitize a given value of an attribute of a bibliographics reference
+	 * data set, first and foremost numerical attributes. This method replaces
+	 * all dashes (or sequences thereof) with a single '-', and also replaces
+	 * sequences of whitespace characters with single spaces. Roman numbers in
+	 * year of publication or pagination are parsed and returned as Arabic
+	 * numbers; dates of publication are transformed into ISO notation, and get
+	 * missing days filled in with the last possible day of the month, and
+	 * missing months are filled in with '12' for December; part designator
+	 * numbers remain in the format they come in (Roman or Arabic), but the
+	 * former get unified in case, and the latter get leading zeros trimmed. If
+	 * the argument value is invalid for the attribute with the argument name,
+	 * this method returns null.
+	 * @param attribute the name of the attribute
+	 * @param value the value to sanitize
+	 * @return the sanitized value
+	 */
+	public static String sanitizeAttributeValue(String attribute, String value) {
+		if (value == null)
+			return null;
+		value = value.trim();
+		if (value.length() == 0)
+			return null;
+		
+		//	normalize dashes and whitespace
+		String sValue = sanitizeString(value);
+		
+		//	check numeric attributes, translating Roman numbers in the process
+		if (YEAR_ANNOTATION_TYPE.equals(attribute)) {
+			sValue = sValue.replaceAll("\\s", "");
+			if (StringUtils.isRomanNumber(sValue))
+				sValue = ("" + StringUtils.parseRomanNumber(sValue));
+			else sValue = removeLeadingZeros(sValue);
+			return (sValue.matches("[12][0-9]{3}") ? sValue : null);
+		}
+		else if (PUBLICATION_DATE_ANNOTATION_TYPE.equals(attribute)) {
+			String sDate = DateTimeUtils.parseTextDate(sValue);
+			if (sDate != null)
+				return sDate;
+			
+			//	substitute 16 as the day to get month parsed, and substitute 12 as month if year only
+			String tsValue;
+			if (sValue.matches("[12][0-9]{3}"))
+				tsValue = (sValue + " 12 16"); // add month and day tailing if year only
+			else if (sValue.matches("[12][0-9]{3}.*"))
+				tsValue = (sValue + " 16"); // add day tailing if year leading
+			else if (sValue.matches(".*?[12][0-9]{3}"))
+				tsValue = ("16 " + sValue); // add day leading if year tailing
+			else return sDate;
+			String tsDate = DateTimeUtils.parseTextDate(tsValue);
+			if (tsDate == null)
+				return null;
+			
+			//	extract month and determine last day
+			String sMonth = tsDate.substring("1999 ".length(), "1999 12".length());
+			String sDay;
+			if ("02".equals(sMonth)) {
+				int year = Integer.parseInt(tsDate.substring(0, "1999".length()));
+				if ((year % 4) != 0) // leap years are multiples of four
+					sDay = "28";
+				else if ((year % 100) != 0) // leap years are only skipped at turns of centuries ...
+					sDay = "29";
+				else if ((year % 400) != 0) // ... that aren't a multiple of 400
+					sDay = "28";
+				else sDay = "29";
+			}
+			else if ("04 06 09 11".indexOf(sMonth) != -1)
+				sDay = "30";
+			else sDay = "31";
+			String rsValue;
+			if (sValue.matches("[12][0-9]{3}"))
+				rsValue = (sValue + " " + sMonth + " " + sDay); // add month and day tailing if year only
+			else if (sValue.matches("[12][0-9]{3}.*"))
+				rsValue = (sValue + " " + sDay); // add day tailing if year leading
+			else if (sValue.matches(".*?[12][0-9]{3}"))
+				rsValue = (sDay + " " + sValue); // add day leading if year tailing
+			else return null;
+			
+			//	finally ...
+			return DateTimeUtils.parseTextDate(StringUtils.normalizeString(rsValue));
+		}
+		else if (VOLUME_DESIGNATOR_ANNOTATION_TYPE.equals(attribute) || ISSUE_DESIGNATOR_ANNOTATION_TYPE.equals(attribute) || NUMERO_DESIGNATOR_ANNOTATION_TYPE.equals(attribute)) {
+			sValue = sValue.replaceAll("\\s", "");
+			String sValuePrefix = "";
+			if (sValue.startsWith("e") || sValue.startsWith("s") || sValue.startsWith("E") || sValue.startsWith("S")) {
+				sValuePrefix = sValue.substring(0,1);
+				sValue = sValue.substring(1);
+			}
+			if (sValue.indexOf('-') == -1) {
+				if (StringUtils.isRomanNumber(sValue)) {
+					if (!sValue.equals(sValue.toUpperCase()))
+						sValue = sValue.toLowerCase();
+					return (sValuePrefix + sValue);
+				}
+				else {
+					sValue = removeLeadingZeros(sValue);
+					return (sValue.matches("[1-9][0-9]*") ? (sValuePrefix + sValue) : null);
+				}
+			}
+			else if (sValue.indexOf('-') == sValue.lastIndexOf('-')) {
+				if (!sValue.equals(sValue.toUpperCase()))
+					sValue = sValue.toLowerCase(); // only ever happens for Roman numbers
+				String[] valueParts = sValue.split("\\s*\\-\\s*");
+				if (valueParts.length != 2)
+					return null;
+				String fpd = sanitizeAttributeValue(attribute, valueParts[0]);
+				if (fpd == null)
+					return null;
+				String lpd = sanitizeAttributeValue(attribute, valueParts[1]);
+				if (lpd == null)
+					return null;
+				if ((fpd.matches("[1-9][0-9]*")) && (lpd.length() < fpd.length()))
+					lpd = (fpd.substring(0, (fpd.length() - lpd.length())) + lpd);
+				return (sValuePrefix + fpd + "-" + lpd);
+			}
+			else return null;
+		}
+		else if (PAGINATION_ANNOTATION_TYPE.equals(attribute)) {
+			sValue = sValue.replaceAll("\\s", "");
+			String sValuePrefix = "";
+			if (sValue.startsWith("e") || sValue.startsWith("E")) {
+				sValuePrefix = sValue.substring(0,1);
+				sValue = sValue.substring(1);
+			}
+			if (sValue.indexOf('-') == -1) {
+				if (StringUtils.isRomanNumber(sValue))
+					sValue = ("" + StringUtils.parseRomanNumber(sValue));
+				else sValue = removeLeadingZeros(sValue);
+				return (sValue.matches("[1-9][0-9]*") ? (sValuePrefix + sValue) : null);
+			}
+			else if (sValue.indexOf('-') == sValue.lastIndexOf('-')) {
+				String[] valueParts = sValue.split("\\s*\\-\\s*");
+				if (valueParts.length != 2)
+					return null;
+				String fpn = sanitizeAttributeValue(attribute, valueParts[0]);
+				if (fpn == null)
+					return null;
+				String lpn = sanitizeAttributeValue(attribute, valueParts[1]);
+				if (lpn == null)
+					return null;
+				if (lpn.length() < fpn.length())
+					lpn = (fpn.substring(0, (fpn.length() - lpn.length())) + lpn);
+				return (sValuePrefix + fpn + "-" + lpn);
+			}
+			else return null;
+		}
+		
+		//	return normalized value for all other attributes
+		else return sValue;
+	}
+	
+	private static String removeLeadingZeros(String value) {
+		if (value == null)
+			return null;
+		value = value.trim();
+		while (value.startsWith("0"))
+			value = value.substring("0".length()).trim();
+		return value;
+	}
+	
+	private static final String sanitizeString(String str) {
+		StringBuffer sStr = new StringBuffer();
+		char lCh = ' ';
+		for (int c = 0; c < str.length(); c++) {
+			char ch = str.charAt(c);
+			if (StringUtils.SPACES.indexOf(ch) != -1) // normalize Unicode spaces
+				ch = ' ';
+			else if (StringUtils.DASHES.indexOf(ch) != -1) // normalize dashes
+				ch = '-';
+			if (ch <= ' ') {
+				if (lCh > ' ')
+					sStr.append(' ');
+			}
+			else if (ch == '-') {
+				if (lCh != '-')
+					sStr.append(ch);
+			}
+			else sStr.append(ch);
+			lCh = ch;
+		}
+		return sStr.toString();
 	}
 	
 	/**
@@ -1968,6 +2156,43 @@ public class BibRefUtils implements BibRefConstants {
 			return new GPathString(pString.toString());
 		}
 	}
+	
+	private static class BibRefPartNumberFunction implements GPathFunction {
+		public GPathObject execute(Annotation contextAnnotation, int contextPosition, int contextSize, GPathObject[] args) throws GPathException {
+			if (args.length > 1)
+				throw new InvalidArgumentsException("The function 'getPartNumber' requires 0 or 1 arguments.");
+			
+			//	get number tokens
+			String numString;
+			if (args.length == 0)
+				numString = contextAnnotation.getValue();
+			else if (args[0] instanceof GPathAnnotationSet)
+				numString = ((GPathAnnotationSet) args[0]).asString().value;
+			else if (args[0] instanceof GPathNumber)
+				return args[0];
+			else if (args[0] instanceof GPathString)
+				numString = args[0].asString().value;
+			else return new GPathNumber(0);
+			
+			//	anything to work with?
+			if (numString.length() == 0)
+				return new GPathNumber(0);
+			
+			//	find and use first viable token
+			TokenSequence numTokens = Gamta.newTokenSequence(numString, Gamta.NO_INNER_PUNCTUATION_TOKENIZER);
+			for (int t = 0; t < numTokens.size(); t++) try {
+				String numToken = numTokens.valueAt(t);
+				if (numToken.matches("[1-9][0-9]*"))
+					return new GPathNumber(Integer.parseInt(numToken));
+				if (numToken.matches("[IiVvXxLlCcDdMm]+"))
+					return new GPathNumber(StringUtils.parseRomanNumber(numToken));
+			} catch (NumberFormatException nfe) {}
+			
+			//	nothing found
+			return new GPathNumber(0);
+		}
+	}
+	
 	private static RefData checkRefData(RefData ref) {
 		if (ref == null)
 			return ref;
@@ -1976,10 +2201,12 @@ public class BibRefUtils implements BibRefConstants {
 			type = classify(ref);
 		return ((type == null) ? null : ref);
 	}
+	
 	static {
 		GPath.addFunction("bibRefString", new BibRefStringFunction());
 		GPath.addFunction("bibRefAuthors", new BibRefPersonsFunction(AUTHOR_ANNOTATION_TYPE));
 		GPath.addFunction("bibRefEditors", new BibRefPersonsFunction(EDITOR_ANNOTATION_TYPE));
+		GPath.addFunction("getPartNumber", new BibRefPartNumberFunction());
 	}
 //	
 //	public static void main(String[] args) throws Exception {

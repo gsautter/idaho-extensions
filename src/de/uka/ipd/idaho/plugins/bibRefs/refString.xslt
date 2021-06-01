@@ -97,8 +97,8 @@
 	
 	<xsl:template name="journal">
 		<xsl:choose>
-			<xsl:when test="./journal"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./journal"/><xsl:call-template name="parts"/></xsl:when>
-			<xsl:when test="./journalOrPublisher"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./journalOrPublisher"/><xsl:call-template name="parts"/></xsl:when>
+			<xsl:when test="./journal"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./journal"/><xsl:if test="./seriesInJournal"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text>(<xsl:value-of select="./seriesInJournal"/>)</xsl:if><xsl:call-template name="parts"/></xsl:when>
+			<xsl:when test="./journalOrPublisher"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./journalOrPublisher"/><xsl:if test="./seriesInJournal"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text>(<xsl:value-of select="./seriesInJournal"/>)</xsl:if><xsl:call-template name="parts"/></xsl:when>
 			<xsl:otherwise>UNKNOWN_JOURNAL</xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>

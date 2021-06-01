@@ -29,6 +29,7 @@ package de.uka.ipd.idaho.gamta.util.feedback.panels;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
+import java.awt.Font;
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
 import java.awt.GridLayout;
@@ -46,6 +47,7 @@ import java.net.URLDecoder;
 import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Iterator;
 import java.util.LinkedHashMap;
 import java.util.Properties;
@@ -58,7 +60,9 @@ import javax.swing.JPanel;
 import javax.swing.JPopupMenu;
 import javax.swing.JScrollPane;
 import javax.swing.JTextPane;
+import javax.swing.UIManager;
 import javax.swing.text.AttributeSet;
+import javax.swing.text.BadLocationException;
 import javax.swing.text.SimpleAttributeSet;
 import javax.swing.text.StyleConstants;
 import javax.swing.text.StyledDocument;
@@ -89,9 +93,39 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 	//	TODO add getAttribute() method, returning (a) value(s) input in above sub window and (b) what's annotated if attribute not given
 	//	TODO allow switching annotated value editing on and off
 	
-	private String fontName = "Verdana";
+	/** token spacing mode adhering faithfully to the spaces found in the
+	 * content annotations (the default) */
+	public static final char TOKEN_SPACING_MODE_ORIGINAL = 'O';
+	
+	/** token spacing mode normalizing spaces between tokens */
+	public static final char TOKEN_SPACING_MODE_NORMALIZED = 'N';
+	
+	/** token spacing mode always inserting a space between two tokens */
+	public static final char TOKEN_SPACING_MODE_SPACED = 'S';
+	
+	
+	/** detail line breaking mode keeping content annotations on a single line,
+	 * wrapping the text where necessary (the default) */
+	public static final char DETAIL_BREAKING_MODE_INLINE = 'I';
+	
+	/** detail line breaking mode inserting a line break before the start of
+	 * every detail annotation (requires token spacing mode 'spaced') */
+	public static final char DETAIL_BREAKING_MODE_BEFORE_START = 'S';
+	
+	/** detail line breaking mode inserting a line break after the end of every
+	 * detail annotation (requires token spacing mode 'spaced') */
+	public static final char DETAIL_BREAKING_MODE_AFTER_END = 'E';
+	
+	/** detail line breaking mode inserting a line break both before the start
+	 * and after the end of every detail annotation (requires token spacing
+	 * mode 'spaced') */
+	public static final char DETAIL_BREAKING_MODE_AROUND = 'A';
+	
+	private String fontName = Font.MONOSPACED;
 	private int fontSize = 12;
+	private char tokenSpacingMode = TOKEN_SPACING_MODE_ORIGINAL; // TODO observe this in HTML !!!
 	private HashMap detailTypeColors = new LinkedHashMap();
+	private char detailBreakingMode = DETAIL_BREAKING_MODE_INLINE; // TODO observe this in HTML !!!
 	
 	private SimpleAttributeSet textStyle = new SimpleAttributeSet();
 	private SimpleAttributeSet noTypeStyle = new SimpleAttributeSet();
@@ -134,6 +168,40 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 		this.updateStyle(true);
 	}
 	
+	/** 
+	 * Get the token spacing mode, i.e., the policy deciding whether or not to
+	 * insert a space between any two given tokens. Possible values are:<UL>
+	 * <LI>'O' (for 'original'): adheres faithfully to the spaces found in the
+	 * content annotations</LI>
+	 * <LI>'N' (for 'normalized'): normalizes the spaces between tokens</LI>
+	 * <LI>'S' (for 'spaced'): adds a space between any given two tokens</LI>
+	 * </UL>
+	 * The default for this property is 'O'.
+	 * @return the token spacing mode
+	 */
+	public char getTokenSpacingMode() {
+		return this.tokenSpacingMode;
+	}
+	
+	/**
+	 * Set the token spacing mode, i.e., the policy deciding whether or not to
+	 * insert a space between any two given tokens. Possible values are:<UL>
+	 * <LI>'O' (for 'original'): adheres faithfully to the spaces found in the
+	 * content annotations</LI>
+	 * <LI>'N' (for 'normalized'): normalizes the spaces between tokens</LI>
+	 * <LI>'S' (for 'spaced'): adds a space between any given two tokens</LI>
+	 * </UL> 
+	 * The default for this property is 'O'.<BR>
+	 * This property has to be set before adding the first annotation to the
+	 * feedback panel for the change to have any effect,
+	 * @param tokenSpacingMode the token spacing mode to set
+	 */
+	public void setTokenSpacingMode(char tokenSpacingMode) {
+		if ((TOKEN_SPACING_MODE_NORMALIZED + "" + TOKEN_SPACING_MODE_SPACED).indexOf(tokenSpacingMode) != -1)
+			this.tokenSpacingMode = tokenSpacingMode;
+		else this.tokenSpacingMode = TOKEN_SPACING_MODE_ORIGINAL;
+	}
+	
 	/**
 	 * Retrieve the color used for highlighting text snippets identified to
 	 * represent a detail of a given type.
@@ -170,19 +238,69 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 	 * @param color the color for highlighting the specified detail type
 	 */
 	public void addDetailType(String detailType, Color color) {
-		if ((detailType != null) && (color != null)) {
-			this.detailTypeColors.put(detailType, color);
-			this.setDetailStyle(detailType, color);
-			this.updateDetails(false);
-			this.layoutLegend();
-		}
+		if ((detailType == null) || (color == null))
+			return;
+		this.detailTypeColors.put(detailType, color);
+		this.setDetailStyle(detailType, color);
+		this.updateDetails(false);
+		this.layoutLegend();
+	}
+	
+	/**
+	 * Get the detail annotation line breaking mode, i.e., the policy deciding
+	 * whether or not to display a line break instead of a normal space before
+	 * and after detail annotations. Possible values are:<UL>
+	 * <LI>'I' (for 'in-line'): keep content annotations on a single line,
+	 * wrapping the text where necessary</LI>
+	 * <LI>'S' (for 'before start'): insert a line break before the start of
+	 * every detail annotation (requires token spacing mode 'spaced')</LI>
+	 * <LI>'E' (for 'after end'): insert a line break after the end of every
+	 * detail annotation (requires token spacing mode 'spaced')</LI>
+	 * <LI>'A' (for 'around'): insert a line break both before the start and
+	 * after the end of every detail annotation (requires token spacing mode
+	 * 'spaced')</LI>
+	 * </UL>
+	 * The default for this property is 'I'. All other values implicitly set
+	 * the token spacing policy to 'spaced' (without modifying the property
+	 * value proper).
+	 * @return the detail breaking mode
+	 */
+	public char getDetailBreakingMode() {
+		return this.detailBreakingMode;
+	}
+	
+	/**
+	 * Set the detail annotation line breaking mode, i.e., the policy deciding
+	 * whether or not to display a line break instead of a normal space before
+	 * and after detail annotations. Possible values are:<UL>
+	 * <LI>'I' (for 'in-line'): keep content annotations on a single line,
+	 * wrapping the text where necessary</LI>
+	 * <LI>'S' (for 'before start'): insert a line break before the start of
+	 * every detail annotation (requires token spacing mode 'spaced')</LI>
+	 * <LI>'E' (for 'after end'): insert a line break after the end of every
+	 * detail annotation (requires token spacing mode 'spaced')</LI>
+	 * <LI>'A' (for 'around'): insert a line break both before the start and
+	 * after the end of every detail annotation (requires token spacing mode
+	 * 'spaced')</LI>
+	 * </UL>
+	 * The default for this property is 'I'. All other values implicitly set
+	 * the token spacing policy to 'spaced' (without modifying the property
+	 * value proper).<BR>
+	 * This property has to be set before adding the first annotation to the
+	 * feedback panel for the change to have any effect.
+	 * @param detailBreakingMode the detail breaking mode to set
+	 */
+	public void setDetailBreakingMode(char detailBreakingMode) {
+		if ((DETAIL_BREAKING_MODE_AROUND + "" + DETAIL_BREAKING_MODE_BEFORE_START + "" + DETAIL_BREAKING_MODE_AFTER_END).indexOf(detailBreakingMode) != -1)
+			this.detailBreakingMode = detailBreakingMode;
+		else this.detailBreakingMode = DETAIL_BREAKING_MODE_INLINE;
 	}
 	
 	/**
 	 * Check whether or not to this feedback panel shows a legend of the
 	 * available detail types at the top of the feedback panel. This property is
 	 * set to true by default.
-	 * @return true if the lebend is showing, false otherwise
+	 * @return true if the legend is showing, false otherwise
 	 */
 	public boolean isShowingDetailTypeLegend() {
 		return this.showDetailTypeLegend;
@@ -207,10 +325,10 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 		this.updateStyle(text);
 	}
 	
-	private AttributeSet getDetailStyle(String detailType) {
+	AttributeSet getDetailStyle(String detailType) {
 		Color color = this.getDetailColor(detailType);
-		if (color == null) return null;
-		
+		if (color == null)
+			return null;
 		SimpleAttributeSet highlightAttributes = ((SimpleAttributeSet) this.detailTypeStyles.get(detailType));
 		if (highlightAttributes == null) {
 			highlightAttributes = new SimpleAttributeSet();
@@ -230,6 +348,36 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 		for (int a = 0; a < this.annotations.size(); a++)
 			((AnnotationDetailEditor) this.annotations.get(a)).applySpans(text);
 		this.annotationLinePanel.validate();
+	}
+	
+	String getTokenSpace(String leftTokenValue, String tokenSpace, String rightTokenValue) {
+		if (leftTokenValue == null)
+			return ""; // first value in content annotation, no leading space needed
+		else if (this.detailBreakingMode != DETAIL_BREAKING_MODE_INLINE)
+			return " "; // always add space if not in in-line mode
+		else if (this.tokenSpacingMode == TOKEN_SPACING_MODE_SPACED)
+			return " "; // always add space if mode indicates so
+		else if (this.tokenSpacingMode == TOKEN_SPACING_MODE_NORMALIZED)
+			return (Gamta.insertSpace(leftTokenValue, rightTokenValue) ? " " : ""); // use normalization if mode indicates so
+		else return ((tokenSpace.length() == 0) ? "" : " "); // return space indicated by token sequence (if discarding multi-spaces)
+	}
+	
+	boolean insertLineBreak(String leftTokenState, String rightTokenState) {
+		if (this.detailBreakingMode == DETAIL_BREAKING_MODE_INLINE)
+			return false; // no line breaks anywhere in in-line mode
+		else if (START.equals(rightTokenState)) {
+			if (OTHER.equals(leftTokenState))
+				return (this.detailBreakingMode != DETAIL_BREAKING_MODE_AFTER_END); // break before detail annotation start if mode indicates so
+			else return true; // always break between two detail annotations unless in in-line mode
+		}
+		else if (CONTINUE.equals(rightTokenState))
+			return false; // no line breaks before continuation of detail annotation
+		else if (OTHER.equals(rightTokenState)) {
+			if (OTHER.equals(leftTokenState))
+				return false; // no line breaks in without any adjacent detail annotations
+			else return (this.detailBreakingMode != DETAIL_BREAKING_MODE_BEFORE_START); // break after detail annotation end if mode indicates so
+		}
+		else return false; // never gonna get here, but Java don't know
 	}
 	
 	/**
@@ -364,13 +512,13 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 	 * @param annotation the annotation to add.
 	 */
 	public void addAnnotation(MutableAnnotation annotation) {
-		if (annotation != null) {
-			AnnotationDetailEditor line = new AnnotationDetailEditor(annotation);
-			this.annotations.add(line);
-			this.gbc.gridy = this.annotations.size();
-			this.gbc.weighty = annotation.size();
-			this.annotationLinePanel.add(line, this.gbc.clone());
-		}
+		if (annotation == null)
+			return;
+		AnnotationDetailEditor line = new AnnotationDetailEditor(annotation);
+		this.annotations.add(line);
+		this.gbc.gridy = this.annotations.size();
+		this.gbc.weighty = annotation.size();
+		this.annotationLinePanel.add(line, this.gbc.clone());
 	}
 	
 	/**
@@ -552,8 +700,17 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 			
 			//	init token data
 			this.tokens = new AnnotationDetailEditorToken[this.annotation.size()];
-			for (int t = 0; t < this.annotation.size(); t++)
-				this.tokens[t] = new AnnotationDetailEditorToken(/*t, */this.annotation.tokenAt(t).getStartOffset(), ((t == 0) ? "" : this.annotation.getWhitespaceAfter(t-1)), this.annotation.valueAt(t));
+			int tokenOffset = 0;
+			String lastTokenValue = null;
+			for (int t = 0; t < this.annotation.size(); t++) {
+//				this.tokens[t] = new AnnotationDetailEditorToken(/*t, */this.annotation.tokenAt(t).getStartOffset(), ((t == 0) ? "" : this.annotation.getWhitespaceAfter(t-1)), this.annotation.valueAt(t));
+				String tokenValue = this.annotation.valueAt(t);
+				String tokenSpace = getTokenSpace(lastTokenValue, ((t == 0) ? "" : this.annotation.getWhitespaceAfter(t-1)), tokenValue);
+				tokenOffset += tokenSpace.length();
+				this.tokens[t] = new AnnotationDetailEditorToken(tokenOffset, tokenSpace, tokenValue);
+				tokenOffset += tokenValue.length();
+				lastTokenValue = tokenValue;
+			}
 			this.initTokenStates();
 			
 			//	init display
@@ -604,29 +761,53 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 			}
 		}
 		
-		void applySpans(boolean text) {
-			
-			//	reset text if required
-			if (text)
-				this.annotationDisplayDocument.setCharacterAttributes(0, this.annotationDisplayDocument.getLength(), textStyle, false);
+		void applySpans(boolean tooMuch) {
 			
 			//	reset highlights
-			this.annotationDisplayDocument.setCharacterAttributes(0, this.annotationDisplayDocument.getLength(), noTypeStyle, false);
+			this.annotationDisplayDocument.setCharacterAttributes(0, this.annotationDisplayDocument.getLength(), noTypeStyle, true);
+			
+			//	reset text
+			this.annotationDisplayDocument.setCharacterAttributes(0, this.annotationDisplayDocument.getLength(), textStyle, false);
+			
+			//	update spaces between tokens (add or remove line breaks)
+			boolean tokenSpacesModified = false;
+			if (detailBreakingMode != DETAIL_BREAKING_MODE_INLINE)
+				for (int t = 1; t < this.tokens.length; t++) try {
+					int tokenSpaceOffset = (this.tokens[t].offset - this.tokens[t].space.length());
+					String exTokenSpace = this.annotationDisplayDocument.getText(tokenSpaceOffset, 1);
+					String tokenSpace = (insertLineBreak(this.tokens[t-1].state, this.tokens[t].state) ? "\n" : " ");
+					if (exTokenSpace.equals(tokenSpace))
+						continue;
+					this.annotationDisplayDocument.remove(tokenSpaceOffset, 1);
+					this.annotationDisplayDocument.insertString(tokenSpaceOffset, tokenSpace, textStyle);
+					tokenSpacesModified = true;
+				}
+				catch (BadLocationException ble) {
+					System.out.println(ble.getMessage());
+					ble.printStackTrace(System.out);
+				}
 			
 			//	highlight annotated tokens
 			for (int t = 0; t < this.tokens.length; t++) {
-				if (this.tokens[t].type != null) {
-					AttributeSet style = getDetailStyle(this.tokens[t].type);
-					if (style != null) {
-						int o = this.tokens[t].offset - (START.equals(this.tokens[t].state) ? 0 : this.tokens[t].space.length());
-						int l = this.tokens[t].value.length() + (START.equals(this.tokens[t].state) ? 0 : this.tokens[t].space.length());
-						this.annotationDisplayDocument.setCharacterAttributes(o, l, style, false);
-					}
-				}
+				if (this.tokens[t].type == null)
+					continue;
+				AttributeSet style = getDetailStyle(this.tokens[t].type);
+				if (style == null)
+					continue;
+				int o = this.tokens[t].offset - (START.equals(this.tokens[t].state) ? 0 : this.tokens[t].space.length());
+				int l = this.tokens[t].value.length() + (START.equals(this.tokens[t].state) ? 0 : this.tokens[t].space.length());
+				this.annotationDisplayDocument.setCharacterAttributes(o, l, style, false);
 			}
 			
 			//	make changes visible
 			this.annotationDisplay.validate();
+			this.annotationDisplay.repaint();
+			
+			//	update parent panel if number of lines changes
+			if (tokenSpacesModified) {
+				annotationLinePanel.revalidate();
+				annotationLinePanel.repaint();
+			}
 		}
 		
 		int indexAtOffset(int offset, boolean isStart) {
@@ -697,6 +878,7 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 					gotOther = true;
 			}
 			final String type = (sameType ? aType : null);
+			Color typeColor = ((type == null) ? null : getDetailColor(type));
 			if (sameType && (type != null))
 				for (int t = 0; t <this.tokens.length; t++) {
 					if (START.equals(this.tokens[t].state) && type.equals(this.tokens[t].type))
@@ -728,12 +910,17 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 				
 				for (int d = 0; d < detailTypes.length; d++) {
 					final String detailType = detailTypes[d];
+					Color detailColor = getDetailColor(detailType);
 					mi = new JMenuItem("Annotate as '" + detailType + "'");
 					mi.addActionListener(new ActionListener() {
 						public void actionPerformed(ActionEvent ae) {
 							annotate(start, end, detailType);
 						}
 					});
+					if (detailColor != null) {
+						mi.setOpaque(true);
+						mi.setBackground(detailColor);
+					}
 					pm.add(mi);
 					
 					if (sameValueCount > 1) {
@@ -743,6 +930,10 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 								annotateAll(start, end, detailType);
 							}
 						});
+						if (detailColor != null) {
+							mi.setOpaque(true);
+							mi.setBackground(detailColor);
+						}
 						pm.add(mi);
 					}
 				}
@@ -756,6 +947,10 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 						extend(start, end, type);
 					}
 				});
+				if (typeColor != null) {
+					mi.setOpaque(true);
+					mi.setBackground(typeColor);
+				}
 				pm.add(mi);
 			}
 			
@@ -767,6 +962,10 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 						remove(start, end);
 					}
 				});
+				if (typeColor != null) {
+					mi.setOpaque(true);
+					mi.setBackground(typeColor);
+				}
 				pm.add(mi);
 				
 				//	remove all
@@ -790,6 +989,10 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 								removeAll(aStart, aEnd, type);
 							}
 						});
+						if (typeColor != null) {
+							mi.setOpaque(true);
+							mi.setBackground(typeColor);
+						}
 						pm.add(mi);
 					}
 				}
@@ -803,6 +1006,10 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 						removeAll(type);
 					}
 				});
+				if (typeColor != null) {
+					mi.setOpaque(true);
+					mi.setBackground(typeColor);
+				}
 				pm.add(mi);
 			}
 			
@@ -825,6 +1032,10 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 						merge(start, end);
 					}
 				});
+				if (typeColor != null) {
+					mi.setOpaque(true);
+					mi.setBackground(typeColor);
+				}
 				pm.add(mi);
 			}
 			
@@ -832,55 +1043,23 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 			if ((aCount == 1) && (start == end)) {
 				String value = this.tokens[start].value;
 				boolean isContinue = CONTINUE.equals(this.tokens[start].state);
-				boolean gotContinue = (((start + 1) < this.tokens.length) && CONTINUE.equals(this.tokens[start + 1].state));
+				boolean doesContinue = (((end + 1) < this.tokens.length) && CONTINUE.equals(this.tokens[end + 1].state));
 				
-				if ((isContinue || gotContinue) && (pm.getComponentCount() != 0))
-					pm.addSeparator();
-				
-				//	on CONTINUE token ==> split before possible, as well as cut from and cut before
-				if (isContinue) {
-					mi = new JMenuItem("Split '" + type + "' annotation before '" + value + "'");
-					mi.addActionListener(new ActionListener() {
-						public void actionPerformed(ActionEvent ae) {
-							split(start, false, true);
-						}
-					});
-					pm.add(mi);
-				}
-				
-				//	next is CONTINUE token ==> split around and after possible, as well as cut up to and cut after
-				if (gotContinue) {
-					
-					//	on CONTINUE token ==> split around possible
-					if (isContinue) {
-						mi = new JMenuItem("Split '" + type + "' annotation around '" + value + "'");
-						mi.addActionListener(new ActionListener() {
-							public void actionPerformed(ActionEvent ae) {
-								split(start, false, false);
-							}
-						});
-						pm.add(mi);
-					}
-					mi = new JMenuItem("Split '" + type + "' annotation after '" + value + "'");
-					mi.addActionListener(new ActionListener() {
-						public void actionPerformed(ActionEvent ae) {
-							split(start, true, false);
-						}
-					});
-					pm.add(mi);
-				}
-				
-				if (isContinue || gotContinue)
+				if ((isContinue || doesContinue) && (pm.getComponentCount() != 0))
 					pm.addSeparator();
 				
 				//	next is CONTINUE token ==> cut up to possible
-				if (gotContinue) {
+				if (doesContinue) {
 					mi = new JMenuItem("Cut '" + type + "' annotation up to '" + value + "'");
 					mi.addActionListener(new ActionListener() {
 						public void actionPerformed(ActionEvent ae) {
 							cutTo(start, true);
 						}
 					});
+					if (typeColor != null) {
+						mi.setOpaque(true);
+						mi.setBackground(typeColor);
+					}
 					pm.add(mi);
 				}
 				
@@ -892,10 +1071,14 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 							cutFrom(start, true);
 						}
 					});
+					if (typeColor != null) {
+						mi.setOpaque(true);
+						mi.setBackground(typeColor);
+					}
 					pm.add(mi);
 				}
 				
-				if (isContinue || gotContinue)
+				if (isContinue || doesContinue)
 					pm.addSeparator();
 				
 				//	on CONTINUE token ==> cut before possible
@@ -906,17 +1089,143 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 							cutTo(start, false);
 						}
 					});
+					if (typeColor != null) {
+						mi.setOpaque(true);
+						mi.setBackground(typeColor);
+					}
 					pm.add(mi);
 				}
 				
 				//	next is CONTINUE token ==> cut after possible
-				if (gotContinue) {
+				if (doesContinue) {
 					mi = new JMenuItem("Cut '" + type + "' annotation after '" + value + "'");
 					mi.addActionListener(new ActionListener() {
 						public void actionPerformed(ActionEvent ae) {
 							cutFrom(start, false);
 						}
 					});
+					if (typeColor != null) {
+						mi.setOpaque(true);
+						mi.setBackground(typeColor);
+					}
+					pm.add(mi);
+				}
+				
+				if (isContinue || doesContinue)
+					pm.addSeparator();
+				
+				//	on CONTINUE token ==> split before possible, as well as cut from and cut before
+				if (isContinue) {
+					mi = new JMenuItem("Split '" + type + "' annotation before '" + value + "'");
+					mi.addActionListener(new ActionListener() {
+						public void actionPerformed(ActionEvent ae) {
+							split(start, false, true);
+						}
+					});
+					if (typeColor != null) {
+						mi.setOpaque(true);
+						mi.setBackground(typeColor);
+					}
+					pm.add(mi);
+				}
+				
+				//	next is CONTINUE token ==> split after possible, as well as cut up to and cut after
+				if (doesContinue) {
+					mi = new JMenuItem("Split '" + type + "' annotation after '" + value + "'");
+					mi.addActionListener(new ActionListener() {
+						public void actionPerformed(ActionEvent ae) {
+							split(start, true, false);
+						}
+					});
+					if (typeColor != null) {
+						mi.setOpaque(true);
+						mi.setBackground(typeColor);
+					}
+					pm.add(mi);
+				}
+			}
+			
+			//	offer splitting around one or more tokens, for all options (single selected annotation implies no intermediate starts)
+			if ((aCount == 1) && CONTINUE.equals(this.tokens[start].state) && ((end + 1) < this.tokens.length) && CONTINUE.equals(this.tokens[end + 1].state)) {
+				String selValue = this.getValue(start, end);
+				final int aStart = this.findStart(start);
+				final int aEnd = this.findEnd(end);
+				int aSelValueCount = 0;
+				final String[] values = new String[end + 1 - start];
+				for (int v = 0; v < values.length; v++)
+					values[v] = this.tokens[start + v].value;
+				final HashSet selValueStarts = new HashSet();
+				int typeAnnotStart = -1;
+				HashSet selValueAnnotStarts = new HashSet();
+				for (int s = 0; s < (this.tokens.length - values.length); s++) {
+					if (START.equals(this.tokens[s].state)) {
+						typeAnnotStart = (type.equals(this.tokens[s].type) ? s : -1);
+						continue;
+					}
+					if ((s + values.length) == this.tokens.length)
+						continue;
+					if (!CONTINUE.equals(this.tokens[s + values.length].state))
+						continue;
+					if (this.infixMatch(s, values, type)) {
+						selValueStarts.add(new Integer(s));
+						if ((aStart < s) && ((s + values.length) <= aEnd))
+							aSelValueCount++;
+						if (typeAnnotStart != -1)
+							selValueAnnotStarts.add(new Integer(typeAnnotStart));
+					}
+				}
+				
+				pm.addSeparator();
+				
+				//	next is CONTINUE token ==> split around possible
+				mi = new JMenuItem("Split '" + type + "' annotation around '" + selValue + "'");
+				mi.addActionListener(new ActionListener() {
+					public void actionPerformed(ActionEvent ae) {
+						split(start, end);
+						applySpans(false);
+					}
+				});
+				if (typeColor != null) {
+					mi.setOpaque(true);
+					mi.setBackground(typeColor);
+				}
+				pm.add(mi);
+				
+				//	multiple occurrences in same annotation ==> split around all of them possible
+				if (aSelValueCount > 1) {
+					mi = new JMenuItem("Split '" + type + "' annotation around all '" + selValue + "'");
+					mi.addActionListener(new ActionListener() {
+						public void actionPerformed(ActionEvent ae) {
+							for (int s = aStart; s < aEnd; s++) {
+								if (selValueStarts.contains(new Integer(s)))
+									split(s, (s + values.length - 1));
+							}
+							applySpans(false);
+						}
+					});
+					if (typeColor != null) {
+						mi.setOpaque(true);
+						mi.setBackground(typeColor);
+					}
+					pm.add(mi);
+				}
+				
+				//	multiple occurrences in annotations of same type ==> split of all of them possible
+				if ((selValueStarts.size() > 1) && (selValueAnnotStarts.size() > 1)) {
+					mi = new JMenuItem("Split all '" + type + "' annotation around all '" + selValue + "'");
+					mi.addActionListener(new ActionListener() {
+						public void actionPerformed(ActionEvent ae) {
+							for (int s = 0; s < tokens.length; s++) {
+								if (selValueStarts.contains(new Integer(s)))
+									split(s, (s + values.length - 1));
+							}
+							applySpans(false);
+						}
+					});
+					if (typeColor != null) {
+						mi.setOpaque(true);
+						mi.setBackground(typeColor);
+					}
 					pm.add(mi);
 				}
 			}
@@ -947,13 +1256,25 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 		
 		private boolean match(int start, String[] values, boolean checkStates, boolean mustBeAnnotated) {
 			for (int v = 0; v < values.length; v++) {
-				if ((start + v) >= this.tokens.length)
+				if (this.tokens.length <= (start + v))
 					return false;
-				
 				if (!this.tokens[start + v].value.equals(values[v]))
 					return false;
-				
-				if (checkStates && (mustBeAnnotated ? !this.tokens[start + v].state.equals((v == 0) ? START : CONTINUE) : !this.tokens[start + v].state.equals(OTHER)))
+				if (checkStates && (mustBeAnnotated ? !((v == 0) ? START : CONTINUE).equals(this.tokens[start + v].state) : !OTHER.equals(this.tokens[start + v].state)))
+					return false;
+			}
+			return true;
+		}
+		
+		private boolean infixMatch(int start, String[] values, String annotType) {
+			for (int v = 0; v < values.length; v++) {
+				if (this.tokens.length <= (start + v))
+					return false;
+				if (!this.tokens[start + v].value.equals(values[v]))
+					return false;
+				if (!CONTINUE.equals(this.tokens[start + v].state))
+					return false;
+				if (!annotType.equals(this.tokens[start + v].type))
 					return false;
 			}
 			return true;
@@ -1048,6 +1369,14 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 			}
 			
 			this.applySpans(false);
+		}
+		
+		void split(int fromIndex, int toIndex) {
+			for (int i = fromIndex; i <= toIndex; i++) {
+				this.tokens[i].state = OTHER;
+				this.tokens[i].type = null;
+			}
+			this.tokens[toIndex + 1].state = START;
 		}
 		
 		void cutTo(int index, boolean include) {
@@ -1205,6 +1534,10 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 		bw.newLine();
 		bw.write("" + this.showDetailTypeLegend);
 		bw.newLine();
+		bw.write("" + this.tokenSpacingMode);
+		bw.newLine();
+		bw.write("" + this.detailBreakingMode);
+		bw.newLine();
 		
 		//	get detail types
 		String[] detailTypes = this.getDetailTypes();
@@ -1248,6 +1581,8 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 		this.setFontName(br.readLine());
 		this.setFontSize(Integer.parseInt(br.readLine()));
 		this.setShowDetailTypeLegend(Boolean.parseBoolean(br.readLine()));
+		this.setTokenSpacingMode(br.readLine().charAt(0));
+		this.setDetailBreakingMode(br.readLine().charAt(0));
 		
 		//	read detail types and colors (colors first, for fix length)
 		String detailType;
@@ -1370,12 +1705,11 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 		
 		//	index existing detail annotations
 		HashMap existingAnnotations = new HashMap();
-		for (int a = 0; a < annotations.length; a++) {
+		for (int a = 0; a < annotations.length; a++)
 			if (tss.parent.detailTypeColors.containsKey(annotations[a].getType())) {
 				String annotationKey = annotations[a].getType() + "-" + annotations[a].getStartIndex() + "-" + annotations[a].getEndIndex();
 				existingAnnotations.put(annotationKey, annotations[a]);
 			}
-		}
 		int aStart = -1;
 		String aType = null;
 		for (int t = 0; t < target.size(); t++) {
@@ -1392,7 +1726,8 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 						existingAnnotations.remove(annotationKey);
 					
 					//	create it otherwise
-					else target.addAnnotation(aType, aStart, (t - aStart));
+//					else target.addAnnotation(aType, aStart, (t - aStart));
+					else target.addAnnotation(aStart, t, aType);
 				}
 				
 				//	mark start of new detail annotation
@@ -1412,7 +1747,8 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 						existingAnnotations.remove(annotationKey);
 					
 					//	create it otherwise
-					else target.addAnnotation(aType, aStart, (t - aStart));
+//					else target.addAnnotation(aType, aStart, (t - aStart));
+					else target.addAnnotation(aStart, t, aType);
 				}
 				
 				//	empty registers
@@ -1430,52 +1766,59 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 				existingAnnotations.remove(annotationKey);
 			
 			//	create it otherwise
-			else target.addAnnotation(aType, aStart, (target.size() - aStart));
+//			else target.addAnnotation(aType, aStart, (target.size() - aStart));
+			else target.addAnnotation(aStart, target.size(), aType);
 		}
 		
 		//	remove remaining old detail annotations
 		for (Iterator ait = existingAnnotations.values().iterator(); ait.hasNext();)
 			target.removeAnnotation((Annotation) ait.next());
 	}
-//	
-//	public static void main(String[] args) throws Exception {
-//		//	set platform L&F
-//		try {
-//			UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
-//		} catch (Exception e) {}
-//		
+	
+	public static void main(String[] args) throws Exception {
+		//	set platform L&F
+		try {
+			UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+		} catch (Exception e) {}
+		
 //		String[] lines = {"Test 1", "Test 2", "Test 3", "Test 4"};
-////		String[] types = {"A", "B", "C"};
-//		AnnotationEditorFeedbackPanel aeFp = new AnnotationEditorFeedbackPanel("Original");
+//		String[] types = {"A", "B", "C"};
+		AnnotationEditorFeedbackPanel aeFp = new AnnotationEditorFeedbackPanel("Original");
 //		for (int t = 0; t < lines.length; t++) {
 //			MutableAnnotation ma = Gamta.newDocument(Gamta.newTokenSequence(lines[t], null));
 //			ma.addAnnotation("A", 0, 2);
 //			aeFp.addAnnotation(ma);
 //		}
-//		aeFp.setDetailColor("A", Color.GREEN);
-//		aeFp.setDetailColor("B", Color.RED);
-//		aeFp.setDetailColor("C", Color.YELLOW);
-//		aeFp.addButton("OK");
-//		aeFp.addButton("Cancel");
-//		aeFp.setLabel("Please annotate the relevant details in the following paragraphs");
+		aeFp.setDetailColor("A", Color.GREEN);
+		aeFp.setDetailColor("B", Color.RED);
+		aeFp.setDetailColor("C", Color.YELLOW);
+		aeFp.addButton("OK");
+		aeFp.addButton("Cancel");
+		aeFp.setLabel("Please annotate the relevant details in the following paragraphs");
+		aeFp.setTokenSpacingMode(AnnotationEditorFeedbackPanel.TOKEN_SPACING_MODE_ORIGINAL);
+//		aeFp.setDetailBreakingMode(AnnotationEditorFeedbackPanel.DETAIL_BREAKING_MODE_AROUND);
+		MutableAnnotation ma = Gamta.newDocument(Gamta.newTokenSequence("Token1, Token2, Token3, Token4, Token5", null));
+		ma.addAnnotation("A", 0, 2);
+		aeFp.addAnnotation(ma);
+		aeFp.getFeedback();
+		
+//		AnnotationEditorFeedbackPanelRenderer aeFpr = new AnnotationEditorFeedbackPanelRenderer();
+//		FeedbackPanelHtmlRendererInstance aeRenderer = aeFpr.getRendererInstance(aeFp);
+//		BufferedWriter bw = new BufferedWriter(new PrintWriter(System.out));
 //		
-////		AnnotationEditorFeedbackPanelRenderer aeFpr = new AnnotationEditorFeedbackPanelRenderer();
-////		FeedbackPanelHtmlRendererInstance aeRenderer = aeFpr.getRendererInstance(aeFp);
-////		BufferedWriter bw = new BufferedWriter(new PrintWriter(System.out));
-////		
-////		aeRenderer.writePanelBody(bw);
-////		bw.flush();
+//		aeRenderer.writePanelBody(bw);
+//		bw.flush();
 //		FeedbackPanelHtmlTester.testFeedbackPanel(aeFp, 0);
+		
+//		aeFp.getFeedback();
+		
+//		StringWriter sw = new StringWriter();
+//		aeFp.writeData(sw);
+//		System.out.println(sw.toString());
 //		
-////		aeFp.getFeedback();
-//		
-////		StringWriter sw = new StringWriter();
-////		aeFp.writeData(sw);
-////		System.out.println(sw.toString());
-////		
-////		AnnotationEditorFeedbackPanel aeFp2 = new AnnotationEditorFeedbackPanel();
-////		aeFp2.initFields(new StringReader(sw.toString()));
-////		aeFp2.setDetailColor("A", Color.YELLOW);
-////		aeFp2.getFeedback();
-//	}
+//		AnnotationEditorFeedbackPanel aeFp2 = new AnnotationEditorFeedbackPanel();
+//		aeFp2.initFields(new StringReader(sw.toString()));
+//		aeFp2.setDetailColor("A", Color.YELLOW);
+//		aeFp2.getFeedback();
+	}
 }

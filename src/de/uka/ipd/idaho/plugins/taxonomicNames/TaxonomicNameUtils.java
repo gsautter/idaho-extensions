@@ -508,28 +508,28 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 	private static void addBaseAuthority(TaxonomicName taxName, Annotation taxNameAnnot) {
 		
 		//	get basionym authority details
-		String authorityName = ((String) taxNameAnnot.getAttribute(BASE_AUTHORITY_NAME_ATTRIBUTE));
-		String authorityYear = ((String) taxNameAnnot.getAttribute(BASE_AUTHORITY_YEAR_ATTRIBUTE));
+		String baseAuthorityName = ((String) taxNameAnnot.getAttribute(BASE_AUTHORITY_NAME_ATTRIBUTE));
+		String baseAuthorityYear = ((String) taxNameAnnot.getAttribute(BASE_AUTHORITY_YEAR_ATTRIBUTE));
 		
 		//	parse authority from base data if missing
-		if (authorityName == null) {
+		if (baseAuthorityName == null) {
 			
 			//	get verbatim basionym authority
-			String authorityStr = getBasionymAuthority(taxName, taxNameAnnot);
-			if (authorityStr == null)
+			String baseAuthorityStr = getBasionymAuthority(taxName, taxNameAnnot);
+			if (baseAuthorityStr == null)
 				return;
 			
 			//	parse basionym authority
-			TaxonomicAuthority authority = parseAuthority(authorityStr);
-			authorityName = authority.name;
-			authorityYear = ((authority.year == -1) ? authorityYear : ("" + authority.year));
+			TaxonomicAuthority baseAuthority = parseAuthority(baseAuthorityStr);
+			baseAuthorityName = baseAuthority.name;
+			baseAuthorityYear = ((baseAuthority.year == -1) ? baseAuthorityYear : ("" + baseAuthority.year));
 		}
 		
 		//	set authority
-		if (authorityName != null)
-			taxName.setAuthorityName(authorityName);
-		if ((authorityYear != null) && authorityYear.matches("[12][0-9]{3}"))
-			taxName.setAuthorityYear(Integer.parseInt(authorityYear));
+		if (baseAuthorityName != null)
+			taxName.setBaseAuthorityName(baseAuthorityName);
+		if ((baseAuthorityYear != null) && baseAuthorityYear.matches("[12][0-9]{3}"))
+			taxName.setBaseAuthorityYear(Integer.parseInt(baseAuthorityYear));
 	}
 	
 	private static final Pattern yearPattern = Pattern.compile("[12][0-9]{3}");

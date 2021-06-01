@@ -145,6 +145,19 @@ public interface ImagingConstants extends LiteratureConstants {
 	public static final String CAPTION_TARGET_PAGE_ID_ATTRIBUTE = "targetPageId";
 	
 	/**
+	 * the attribute of a caption annotation indicating that the caption
+	 * belongs to a table rather than an illustration.
+	 */
+	public static final String CAPTION_TARGET_IS_TABLE_ATTRIBUTE = "targetIsTable";
+	
+	/**
+	 * the attribute of a caption annotation indicating that the caption does
+	 * not belong to a standalone illustration or table, but rather to one that
+	 * continues another illustration or table, most often on a different page
+	 */
+	public static final String CAPTION_CONTINUATION_MARKER_ATTRIBUTE = "isContinuationCaption";
+	
+	/**
 	 * the annotation type for marking word bounding boxes in page images.
 	 */
 	public static final String WORD_ANNOTATION_TYPE = "word";

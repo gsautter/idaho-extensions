@@ -166,18 +166,19 @@ Loading reference data sources:
 	
 	/**
 	 * Find the meta data sets in the source backing the data source, using
-	 * known search attributes the access key, e.g. the document author, (parts
-	 * of) the title, the name of the journal the document appeared in, or the
-	 * name or location of the publisher who issued the document. If multiple
-	 * meta data sets match, this method should return them all. Only if the
-	 * search criteria are empty, this method may ignore them and return either
-	 * of null or an empty array. If the backing data source does not provide
-	 * any meta data sets that match the search criteria, this method may return
-	 * null or an empty array. If some of the meta data sets are incomplete (as
-	 * per check by BibRefUtils.classify() or BibRefTypeSystem.classify()
-	 * returning null because the data does not match any available reference
-	 * type), this should not bother the data source. Completing the meta data
-	 * sets might require user input and is therefore handled elsewhere.
+	 * known search attributes as the access key, e.g. the document author,
+	 * (parts of) the title, the name of the journal the document appeared in,
+	 * or the name or location of the publisher who issued the document. If
+	 * multiple meta data sets match, this method should return them all. Only
+	 * if the search criteria are empty, this method may ignore them and return
+	 * either of null or an empty array. If the backing data source does not
+	 * provide any meta data sets that match the search criteria, this method
+	 * may return null or an empty array. If some of the meta data sets are
+	 * incomplete (as per check by <code>BibRefUtils.classify()</code> or
+	 * <code>BibRefTypeSystem.classify()</code> returning null because the data
+	 * does not match any available reference type), this should not bother the
+	 * data source. Completing the meta data sets might require user input and
+	 * is therefore handled elsewhere.
 	 * @param searchData the known elements of the meta data to retrieve in full
 	 * @return the meta data sets matching the specified criteria
 	 * @throws IOException

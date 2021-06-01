@@ -61,6 +61,9 @@ public interface BibRefConstants extends LiteratureConstants {
 	/** annotation type for marking the name of the journal an article appeared in */
 	public static final String JOURNAL_NAME_ANNOTATION_TYPE = "journal";
 	
+	/** annotation type for marking the name of the series within the journal an article appeared in */
+	public static final String SERIES_IN_JOURNAL_ANNOTATION_TYPE = "seriesInJournal";
+	
 	/** annotation type for marking the name of the publisher of a book */
 	public static final String PUBLISHER_ANNOTATION_TYPE = "publisher";
 	

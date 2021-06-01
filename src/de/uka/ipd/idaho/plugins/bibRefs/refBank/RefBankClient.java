@@ -347,7 +347,7 @@ public class RefBankClient {
 	/**
 	 * Retrieve the update feed summarizing all references updated since a given time.
 	 * @param since the UTC time since when to retrieve the update summary
-	 * @return an interator over the strings updated since the argument time
+	 * @return an iterator over the strings updated since the argument time
 	 * @throws IOException
 	 */
 	public BibRefIterator getUpdates(long since) throws IOException {

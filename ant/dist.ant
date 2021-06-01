@@ -52,9 +52,12 @@
 			<fileset dir="${build.home}/classes" includes="**/bibRefs/*.class"/>
 			<fileset dir="${build.home}/classes" includes="**/bibRefs/refBank/*.class"/>
 			<fileset dir="${build.home}/classes" includes="**/bibRefs/reFinder/*.class"/>
+			<fileset dir="${build.home}/classes" includes="**/bibRefs/util/JournalNameThesaurus.class"/>
+			<fileset dir="${build.home}/classes" includes="**/bibRefs/util/JournalNameThesaurus$*.class"/>
 			<fileset dir="${src.home}" includes="**/bibRefs/*.java"/>
 			<fileset dir="${src.home}" includes="**/bibRefs/refBank/*.java"/>
 			<fileset dir="${src.home}" includes="**/bibRefs/reFinder/*.java"/>
+			<fileset dir="${src.home}" includes="**/bibRefs/util/JournalNameThesaurus.java"/>
 			<fileset dir="${src.home}" includes="**/bibRefs/**/**.xml"/>
 			<fileset dir="${src.home}" includes="**/bibRefs/**/**.xslt"/>
 			<fileset dir="." includes="LICENSE.txt"/>

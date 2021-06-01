@@ -31,11 +31,9 @@ import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Component;
 import java.awt.Container;
-import java.awt.Dialog;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
 import java.awt.Font;
-import java.awt.Frame;
 import java.awt.GraphicsEnvironment;
 import java.awt.HeadlessException;
 import java.awt.KeyboardFocusManager;
@@ -96,6 +94,7 @@ import javax.swing.text.StyledDocument;
 
 import de.uka.ipd.idaho.gamta.Annotation;
 import de.uka.ipd.idaho.gamta.util.constants.LiteratureConstants;
+import de.uka.ipd.idaho.gamta.util.swing.DialogFactory;
 import de.uka.ipd.idaho.htmlXmlUtil.accessories.IoTools;
 
 /**
@@ -575,13 +574,8 @@ public abstract class FeedbackPanel extends JPanel implements Scrollable {
 //				for (int w = 0; w < subWindows.length; w++)
 //					windows.add(subWindows[w]);
 //			}
-			final JDialog dialog;
 			
-			if (topWindow instanceof Frame)
-				dialog = new JDialog(((Frame) topWindow), fp.getTitle(), true);
-			else if (topWindow instanceof Dialog)
-				dialog = new JDialog(((Dialog) topWindow), fp.getTitle(), true);
-			else dialog = new JDialog(((Frame) null), fp.getTitle(), true);
+			final JDialog dialog = DialogFactory.produceDialog(fp.getTitle(), true);
 			
 			dialog.setDefaultCloseOperation(JDialog.DO_NOTHING_ON_CLOSE);
 			dialog.getContentPane().setLayout(new BorderLayout());

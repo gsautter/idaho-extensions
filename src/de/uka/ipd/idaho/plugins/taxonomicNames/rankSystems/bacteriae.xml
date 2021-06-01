@@ -25,6 +25,7 @@
 		<rank name="order" abbreviations="ord." suffix="ales"/>
 		<rank name="subOrder" abbreviations="subord." suffix="ineae"/>
 		<rank name="infraOrder" abbreviations="infraord."/>
+		<rank name="parvOrder" abbreviations="parvord." synonyms="parvOrdo"/>
 	</rankGroup>
 	<rankGroup name="family">
 		<rank name="superFamily" abbreviations="superfam."/>

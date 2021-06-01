@@ -432,6 +432,13 @@ public class BibRefEditorFormHandler implements BibRefConstants {
 				bw.write("<td class=\"bibRefEditorFieldLabel\" style=\"text-align: right;\">" + BibRefEditor.getFieldLabel(BibRefEditor.fieldNames[f]) + ":</td>");bw.newLine();
 				bw.write("<td class=\"bibRefEditorFieldCell\"><div style=\"border-width: 2px; border-style:solid;\" id=\"" + BibRefEditor.fieldNames[f] + "_border\"><input class=\"bibRefEditorField\" style=\"width: 100%;\" id=\"" + BibRefEditor.fieldNames[f] + "_field\" name=\"" + BibRefEditor.fieldNames[f] + "\" onchange=\"bibRefEditor_fieldValueChanged('" + BibRefEditor.fieldNames[f] + "');\" /></div></td>");bw.newLine();
 			}
+			else if (((f+1) < BibRefEditor.fieldNames.length) && JOURNAL_NAME_ANNOTATION_TYPE.equals(BibRefEditor.fieldNames[f]) && SERIES_IN_JOURNAL_ANNOTATION_TYPE.equals(BibRefEditor.fieldNames[f+1])) {
+				bw.write("<td class=\"bibRefEditorFieldLabel\" style=\"text-align: right;\">" + BibRefEditor.getFieldLabel(BibRefEditor.fieldNames[f]) + ":</td>");bw.newLine();
+				bw.write("<td colspan=\"3\" class=\"bibRefEditorFieldCell\"><div style=\"border-width: 2px; border-style:solid;\" id=\"" + BibRefEditor.fieldNames[f] + "_border\"><input class=\"bibRefEditorField\" style=\"width: 100%;\" id=\"" + BibRefEditor.fieldNames[f] + "_field\" name=\"" + BibRefEditor.fieldNames[f] + "\" onchange=\"bibRefEditor_fieldValueChanged('" + BibRefEditor.fieldNames[f] + "');\" /></div></td>");bw.newLine();
+				f++;
+				bw.write("<td class=\"bibRefEditorFieldLabel\" style=\"text-align: right;\">" + BibRefEditor.getFieldLabel(BibRefEditor.fieldNames[f]) + ":</td>");bw.newLine();
+				bw.write("<td class=\"bibRefEditorFieldCell\"><div style=\"border-width: 2px; border-style:solid;\" id=\"" + BibRefEditor.fieldNames[f] + "_border\"><input class=\"bibRefEditorField\" style=\"width: 100%;\" id=\"" + BibRefEditor.fieldNames[f] + "_field\" name=\"" + BibRefEditor.fieldNames[f] + "\" onchange=\"bibRefEditor_fieldValueChanged('" + BibRefEditor.fieldNames[f] + "');\" /></div></td>");bw.newLine();
+			}
 			else if (PART_DESIGNATOR_ANNOTATION_TYPE.equals(BibRefEditor.fieldNames[f])) {
 				bw.write("<td class=\"bibRefEditorFieldLabel\" style=\"text-align: right;\">Part Designators:</td>");bw.newLine();
 				bw.write("<td colspan=\"5\" class=\"bibRefEditorFieldCell\"><div style=\"border-width: 2px; border-style:solid;\" id=\"" + BibRefEditor.fieldNames[f] + "_border\"><table style=\"border-width: 0px; width: 100%;\"><tr>");

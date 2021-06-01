@@ -6,6 +6,7 @@
 		<constraint require="publisher location journalOrPublisher" message="Publisher and/or location are missing."/>
 		<constraint exclude="pagination"/>
 		<constraint exclude="journal" message="Books don't have a journal name."/>
+		<constraint exclude="seriesInJournal" message="Books don't have a series within a journal."/>
 		<constraint exclude="volume issue numero" message="Books don't have a volume, issue, or numero."/>
 		<constraint exclude="volumeTitle" message="Books don't have a volume title."/>
 		<constraint exclude="editor" message="Books don't have editors, make them authors."/>
@@ -35,6 +36,7 @@
 		<constraint require="pagination" pattern="([1-9][0-9]{0,4})(\s*\-+\s*[1-9][0-9]*)?"/>
 		<constraint condition="(contains(./@pagination, '-') and (normalize-space(substring-before(./@pagination, '-')) > normalize-space(substring-after(./@pagination, '-'))))" message="Pagination is invalid, first page has to be less than last."/>
 		<constraint exclude="journal" message="Books chapters don't have a journal name."/>
+		<constraint exclude="seriesInJournal" message="Books chapters don't have a series within a journal."/>
 		<constraint exclude="volume issue numero" message="Books chapters don't have a volume, issue, or numero."/>
 		<constraint condition="(./@pubDate and not(matches(./@pubDate, '[12][0-9]{3}\-((0[1-9])|(1[0-2]))\-((0[1-9])|([12][0-9])|(3[01]))')))" message="If specified, publication date has to be 'YYYY-MM-DD'."/>
 		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9]{3}\-(04|06|09|11)\-31'))" message="April, June, September, and November only have 30 days."/>
@@ -68,6 +70,7 @@
 		<constraint attributes="title" pattern="(((In(\s+(The|the))?)|(in(\s+(The|the))?)|The|the)\s+)?Proc(\.|eedings)\s+.*" message="Title does not match proceedings."/>
 		<constraint require="year" pattern="((1[5-9][0-9][0-9])|(20[0-9][0-9]))" message="Year of publication is missing or invalid."/>
 		<constraint exclude="journal" message="Proceedings don't have a journal name."/>
+		<constraint exclude="seriesInJournal" message="Proceedings don't have a series within a journal."/>
 		<constraint exclude="volume issue numero" message="Proceedings don't have a volume, issue, or numero."/>
 		<constraint exclude="volumeTitle" message="Proceedings don't have a volume title."/>
 		<constraint exclude="editor" message="Proceedings don't have editors, make them authors."/>
@@ -97,6 +100,7 @@
 		<constraint attributes="pagination" pattern="([1-9][0-9]{0,4})(\s*\-+\s*[1-9][0-9]*)?"/>
 		<constraint condition="(contains(./@pagination, '-') and (normalize-space(substring-before(./@pagination, '-')) > normalize-space(substring-after(./@pagination, '-'))))" message="Pagination is invalid, first page has to be less than last."/>
 		<constraint exclude="journal" message="Proceedings papers don't have a journal name."/>
+		<constraint exclude="seriesInJournal" message="Proceedings papers don't have a series within a journal."/>
 		<constraint exclude="volume issue numero" message="Proceedings papers don't have a volume, issue, or numero."/>
 		<constraint condition="(./@pubDate and not(matches(./@pubDate, '[12][0-9]{3}\-((0[1-9])|(1[0-2]))\-((0[1-9])|([12][0-9])|(3[01]))')))" message="If specified, publication date has to be 'YYYY-MM-DD'."/>
 		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9]{3}\-(04|06|09|11)\-31'))" message="April, June, September, and November only have 30 days."/>
@@ -130,9 +134,13 @@
 		<constraint require="author"/>
 		<constraint require="year" pattern="((1[5-9][0-9][0-9])|(20[0-9][0-9]))" message="Year of publication is missing or invalid."/>
 		<constraint require="journal journalOrPublisher" message="Journal name is missing."/>
-		<constraint require="volume issue numero" pattern="[1-9][0-9]*" message="Volume, issue, and numero are missing or invalid."/>
+		<!-- constraint require="volume issue numero" pattern="[1-9][0-9]*" message="Volume, issue, and numero are missing or invalid."/ -->
+		<constraint require="volume issue numero" message="Volume, issue, and numero are missing."/>
 		<constraint exclude="pagination"/>
 		<constraint condition="(not(./@title) and ./@editor)" message="Only special issues have editors."/>
+		<constraint condition="(./@volume and not(matches(./@volume, '((([esES]\s*)?[1-9][0-9]*(\s*[\-\/]\s*[1-9][0-9]*)?)|([ivxlc]+(\s*[\-\/]\s*[ivxlc]+)?)|([IVXLC]+(\s*[\-\/]\s*[IVXLC]+)?))')))" message="Volume number is invalid."/>
+		<constraint condition="(./@issue and not(matches(./@issue, '((([esES]\s*)?[1-9][0-9]*(\s*[\-\/]\s*[1-9][0-9]*)?)|([ivxlc]+(\s*[\-\/]\s*[ivxlc]+)?)|([IVXLC]+(\s*[\-\/]\s*[IVXLC]+)?))')))" message="Issue number is invalid."/>
+		<constraint condition="(./@numero and not(matches(./@numero, '([esES]\s*)?[1-9][0-9]*(\s*[\-\/]\s*[1-9][0-9]*)?')))" message="Numero is invalid."/>
 		<constraint condition="(./@pubDate and not(matches(./@pubDate, '[12][0-9]{3}\-((0[1-9])|(1[0-2]))\-((0[1-9])|([12][0-9])|(3[01]))')))" message="If specified, publication date has to be 'YYYY-MM-DD'."/>
 		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9]{3}\-(04|06|09|11)\-31'))" message="April, June, September, and November only have 30 days."/>
 		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9]{3}\-02\-(30|31)'))" message="February only has 28 days."/>
@@ -150,6 +158,11 @@
 				</mods:titleInfo>
 				<mods:part>
 					<mods:date><xsl:value-of select="./year"/></mods:date>
+					<xsl:if test="./seriesInJournal">
+						<mods:detail type="series">
+							<mods:title><xsl:value-of select="./seriesInJournal"/></mods:title>
+						</mods:detail>
+					</xsl:if>
 					<xsl:if test="./pubDate">
 						<mods:detail type="pubDate">
 							<mods:number><xsl:value-of select="./pubDate"/></mods:number>
@@ -167,10 +180,14 @@
 		<constraint require="title"/>
 		<constraint require="year" pattern="((1[5-9][0-9][0-9])|(20[0-9][0-9]))" message="Year of publication is missing or invalid."/>
 		<constraint require="journal journalOrPublisher" message="Journal name is missing."/>
-		<constraint require="volume issue numero" pattern="[1-9][0-9]*" message="Volume, issue, and numero are missing or invalid."/>
+		<!-- constraint require="volume issue numero" pattern="[1-9][0-9]*" message="Volume, issue, and numero are missing or invalid."/ -->
+		<constraint require="volume issue numero" message="Volume, issue, and numero are missing."/>
 		<constraint require="pagination" pattern="(e\s*)?[1-9][0-9]{0,6}(\s*\-+\s*[1-9][0-9]*)?"/>
 		<constraint condition="(contains(./@pagination, '-') and (normalize-space(substring-before(./@pagination, '-')) > normalize-space(substring-after(./@pagination, '-'))))" message="Pagination is invalid, first page has to be less than last."/>
 		<constraint condition="(not(./@volumeTitle) and ./@editor)" message="Only special issues have editors."/>
+		<constraint condition="(./@volume and not(matches(./@volume, '((([esES]\s*)?[1-9][0-9]*(\s*[\-\/]\s*[1-9][0-9]*)?)|([ivxlc]+(\s*[\-\/]\s*[ivxlc]+)?)|([IVXLC]+(\s*[\-\/]\s*[IVXLC]+)?))')))" message="Volume number is invalid."/>
+		<constraint condition="(./@issue and not(matches(./@issue, '((([esES]\s*)?[1-9][0-9]*(\s*[\-\/]\s*[1-9][0-9]*)?)|([ivxlc]+(\s*[\-\/]\s*[ivxlc]+)?)|([IVXLC]+(\s*[\-\/]\s*[IVXLC]+)?))')))" message="Issue number is invalid."/>
+		<constraint condition="(./@numero and not(matches(./@numero, '([esES]\s*)?[1-9][0-9]*(\s*[\-\/]\s*[1-9][0-9]*)?')))" message="Numero is invalid."/>
 		<constraint condition="(./@pubDate and not(matches(./@pubDate, '[12][0-9]{3}\-((0[1-9])|(1[0-2]))\-((0[1-9])|([12][0-9])|(3[01]))')))" message="If specified, publication date has to be 'YYYY-MM-DD'."/>
 		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9]{3}\-(04|06|09|11)\-31'))" message="April, June, September, and November only have 30 days."/>
 		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9]{3}\-02\-(30|31)'))" message="February only has 28 days."/>
@@ -193,6 +210,11 @@
 				<xsl:call-template name="editors"/>
 				<mods:part>
 					<mods:date><xsl:value-of select="./year"/></mods:date>
+					<xsl:if test="./seriesInJournal">
+						<mods:detail type="series">
+							<mods:title><xsl:value-of select="./seriesInJournal"/></mods:title>
+						</mods:detail>
+					</xsl:if>
 					<xsl:if test="./pubDate">
 						<mods:detail type="pubDate">
 							<mods:number><xsl:value-of select="./pubDate"/></mods:number>
@@ -219,6 +241,7 @@
 		<constraint exclude="volumeTitle" message="URLs don't have a volume title."/>
 		<constraint exclude="location" message="URLs don't have a location."/>
 		<constraint exclude="journal" message="URLs don't have a journal name."/>
+		<constraint exclude="seriesInJournal" message="URLs don't have a series within a journal."/>
 		<constraint exclude="volume issue numero" message="URLs don't have a volume, issue, or numero."/>
 		<!--constraint exclude="publisher" message="URLs don't have a publisher."/-->
 		<!--constraint exclude="journalOrPublisher" message="URLs don't have a journal name or publisher."/-->
@@ -353,8 +376,8 @@
 	
 	<xsl:template name="journalOrigin">
 		<xsl:choose>
-			<xsl:when test="./journal"><xsl:value-of select="./journal"/></xsl:when>
-			<xsl:when test="./journalOrPublisher"><xsl:value-of select="./journalOrPublisher"/></xsl:when>
+			<xsl:when test="./journal"><xsl:value-of select="./journal"/><xsl:if test="./seriesInJournal"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text>(<xsl:value-of select="./seriesInJournal"/>)</xsl:if></xsl:when>
+			<xsl:when test="./journalOrPublisher"><xsl:value-of select="./journalOrPublisher"/><xsl:if test="./seriesInJournal"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text>(<xsl:value-of select="./seriesInJournal"/>)</xsl:if></xsl:when>
 		</xsl:choose>
 		<xsl:choose>
 			<xsl:when test="./numero and ./issue and ./volume"><xsl:text disable-output-escaping="yes">&#x20;</xsl:text><xsl:value-of select="./volume"/> (<xsl:value-of select="./issue"/>), No. <xsl:value-of select="./numero"/></xsl:when>

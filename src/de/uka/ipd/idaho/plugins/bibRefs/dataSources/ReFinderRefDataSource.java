@@ -55,6 +55,7 @@ import de.uka.ipd.idaho.stringUtils.StringUtils;
  */
 public class ReFinderRefDataSource extends BibRefDataSource {
 	private ReFinderClient rfr;
+	private String rfrSources = null;
 	
 	/** Constructor
 	 */
@@ -82,6 +83,7 @@ public class ReFinderRefDataSource extends BibRefDataSource {
 			if (reFinderUrl == null)
 				throw new RuntimeException("URL of ReFinder missing.");
 			this.rfr = new ReFinderClient(reFinderUrl);
+			this.rfrSources = set.getSetting("reFinderSources");
 		}
 		catch (IOException ioe) {
 			throw new RuntimeException("Could not load URL of ReFinder.");
@@ -131,8 +133,16 @@ public class ReFinderRefDataSource extends BibRefDataSource {
 			extId = searchData.getProperty(field);
 		}
 		if ((extId != null) && "DOI".equals(extIdType)) {
-			RefData[] rds = {this.getRefData(extId)};
-			return rds;
+			RefData rd = this.getRefData(extId);
+//			WE MIGHT STILL TRY THE OTHER WAY ...
+//			if (rd == null)
+//				return new RefData[0];
+//			RefData[] rds = {rd};
+//			return rds;
+			if (rd != null) {
+				RefData[] rds = {rd};
+				return rds;
+			}
 		}
 		
 		//	get year
@@ -142,7 +152,7 @@ public class ReFinderRefDataSource extends BibRefDataSource {
 		} catch (Exception e) {}
 		
 		//	do search
-		RefData[] rds = this.rfr.find(searchData.getProperty(TITLE_ANNOTATION_TYPE), searchData.getProperty(AUTHOR_ANNOTATION_TYPE), year, this.getOrigin(searchData));
+		RefData[] rds = this.rfr.find(this.rfrSources, searchData.getProperty(TITLE_ANNOTATION_TYPE), searchData.getProperty(AUTHOR_ANNOTATION_TYPE), year, this.getOrigin(searchData));
 		
 		//	eliminate duplicates and return result
 		return this.aggregateDuplicates(rds);
@@ -151,6 +161,9 @@ public class ReFinderRefDataSource extends BibRefDataSource {
 	private String getOrigin(Properties searchData) {
 		String origin = searchData.getProperty(JOURNAL_NAME_ANNOTATION_TYPE);
 		if (origin != null) {
+			String sj = searchData.getProperty(SERIES_IN_JOURNAL_ANNOTATION_TYPE);
+			if (sj != null)
+				origin += (" (" + sj + ")");
 			String vd = searchData.getProperty(VOLUME_DESIGNATOR_ANNOTATION_TYPE);
 			if (vd != null) {
 				origin += (" " + vd);
@@ -216,7 +229,7 @@ Aggregate external identifiers in ReFinder lookup:
 	 */
 	
 	private RefData[] aggregateDuplicates(RefData[] rds) {
-		if (rds.length < 2)
+		if ((rds == null) || (rds.length < 2))
 			return rds;
 		ArrayList rdList = new ArrayList(Arrays.asList(rds));
 		

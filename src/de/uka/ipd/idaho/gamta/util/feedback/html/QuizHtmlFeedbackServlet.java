@@ -56,9 +56,9 @@ import de.uka.ipd.idaho.gamta.util.feedback.FeedbackPanel;
 import de.uka.ipd.idaho.gamta.util.feedback.html.FeedbackFormBuilder.SubmitMode;
 import de.uka.ipd.idaho.gamta.util.feedback.html.FeedbackPanelHtmlRenderer.FeedbackPanelHtmlRendererInstance;
 import de.uka.ipd.idaho.gamta.util.feedback.html.HtmlFeedbackEngine.FeedbackRequest;
+import de.uka.ipd.idaho.htmlXmlUtil.accessories.ByteOrderMarkFilterInputStream;
 import de.uka.ipd.idaho.htmlXmlUtil.accessories.HtmlPageBuilder;
 import de.uka.ipd.idaho.htmlXmlUtil.accessories.IoTools;
-import de.uka.ipd.idaho.htmlXmlUtil.accessories.HtmlPageBuilder.ByteOrderMarkFilterInputStream;
 
 /**
  * Implementation a feedback engine showing feedback requests to users in HTML
