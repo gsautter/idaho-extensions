@@ -6,7 +6,7 @@
 
 <project name="dist">
 	<!--target name="jars" depends="feedback,imaging,errorlog,imganalyzers,bibrefutils,taxnameutils,geoutils,nameutils,datetimeutils,quantutils,abbrevutils,tableutils,matcitutils" /-->
-	<target name="jars" depends="feedback,imaging,imganalyzers,bibrefutils,taxnameutils,geoutils,nameutils,datetimeutils,quantutils,abbrevutils,tableutils,matcitutils" />
+	<target name="jars" depends="feedback,imaging,imganalyzers,bibrefutils,taxnameutils,collocal,geoutils,nameutils,datetimeutils,quantutils,abbrevutils,tableutils,matcitutils" />
 	
 	<target name="feedback">
 		<delete file="${jar.feedback}" />
@@ -81,10 +81,17 @@
 	<target name="taxnameutils">
 		<delete file="${jar.taxnameutils}" />
 		<jar destfile="${jar.taxnameutils}">
-			<fileset dir="${build.home}/classes" includes="**/taxonomicNames/**/**.class"/>
-			<fileset dir="${src.home}" includes="**/taxonomicNames/**/**.java"/>
-			<fileset dir="${src.home}" includes="**/taxonomicNames/**/**.xml"/>
-			<fileset dir="${src.home}" includes="**/taxonomicNames/**/**.xslt"/>
+			<fileset dir="${build.home}/classes" includes="**/taxonomicNames/*.class"/>
+			<fileset dir="${src.home}" includes="**/taxonomicNames/*.java"/>
+			<fileset dir="${src.home}" includes="**/taxonomicNames/rankSystems/*.xml"/>
+			<fileset dir="." includes="LICENSE.txt"/>
+		</jar>
+	</target>
+	<target name="collocal">
+		<delete file="${jar.collocal}" />
+		<jar destfile="${jar.collocal}" manifest="${file.home}/MANIFEST.colLocal.MF">
+			<fileset dir="${build.home}/classes" includes="**/taxonomicNames/col/*.class"/>
+			<fileset dir="${src.home}" includes="**/taxonomicNames/col/*.java"/>
 			<fileset dir="." includes="LICENSE.txt"/>
 		</jar>
 	</target>

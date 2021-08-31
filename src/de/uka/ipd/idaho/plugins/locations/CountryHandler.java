@@ -358,6 +358,10 @@ public class CountryHandler implements Dictionary {
 			RegionHandler rh = new RegionHandler();
 			String rhdrn = CountryHandler.class.getName().replaceAll("\\.", "/");
 			InputStream rhdis = CountryHandler.class.getClassLoader().getResourceAsStream(rhdrn.substring(0, rhdrn.lastIndexOf('/')) + "/countryData/regions." + code.toLowerCase() + ".xml");
+			if (rhdis == null) {
+				System.out.println("Region handler data for country " + country + " (code " + code + ") unavailable.");
+				return null;
+			}
 			rh.readRegionData(new InputStreamReader(rhdis, "UTF-8"), languages);
 			rhdis.close();
 			return rh;

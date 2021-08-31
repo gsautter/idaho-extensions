@@ -992,7 +992,7 @@ public abstract class AsynchronousRequestHandler {
 	 * finished ones.
 	 * @return the number of asynchronous requests
 	 */
-	public int getRequestsCount() {
+	public int getRequestCount() {
 		return (this.runningRequestsById.size() + this.finishedRequestsById.size());
 	}
 	
