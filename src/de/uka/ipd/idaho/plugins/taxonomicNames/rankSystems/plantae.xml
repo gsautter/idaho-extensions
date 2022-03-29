@@ -1,4 +1,4 @@
-<rankSystem name="plantae" code="ICN" domain="Botany">
+<rankSystem name="plantae" code="ICN" domain="Botany" hybrids="true">
 	<rankGroup name="domain">
 		<rank name="domain" abbreviations="dom."/>
 	</rankGroup>

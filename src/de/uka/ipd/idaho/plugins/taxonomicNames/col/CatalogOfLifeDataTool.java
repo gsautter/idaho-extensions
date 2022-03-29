@@ -31,13 +31,17 @@ import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.OutputStream;
 import java.io.OutputStreamWriter;
+import java.io.Writer;
+import java.net.URL;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -50,6 +54,7 @@ import java.util.Iterator;
 import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;
 import java.util.Locale;
+import java.util.Properties;
 import java.util.TimeZone;
 import java.util.TreeMap;
 import java.util.regex.Matcher;
@@ -60,8 +65,12 @@ import java.util.zip.ZipOutputStream;
 
 import de.uka.ipd.idaho.easyIO.util.HashUtils;
 import de.uka.ipd.idaho.easyIO.util.HashUtils.MD5;
+import de.uka.ipd.idaho.easyIO.util.JsonParser;
+import de.uka.ipd.idaho.easyIO.utilities.TinyHttpServer;
 import de.uka.ipd.idaho.gamta.Gamta;
 import de.uka.ipd.idaho.gamta.TokenSequence;
+import de.uka.ipd.idaho.gamta.util.AnalyzerDataProvider;
+import de.uka.ipd.idaho.gamta.util.AnalyzerDataProviderFileBased;
 import de.uka.ipd.idaho.gamta.util.CountingSet;
 import de.uka.ipd.idaho.htmlXmlUtil.Parser;
 import de.uka.ipd.idaho.htmlXmlUtil.TokenReceiver;
@@ -69,6 +78,8 @@ import de.uka.ipd.idaho.htmlXmlUtil.TreeNodeAttributeSet;
 import de.uka.ipd.idaho.htmlXmlUtil.grammars.Grammar;
 import de.uka.ipd.idaho.htmlXmlUtil.grammars.StandardGrammar;
 import de.uka.ipd.idaho.plugins.taxonomicNames.TaxonomicNameConstants;
+import de.uka.ipd.idaho.plugins.taxonomicNames.col.CatalogOfLifeLocal.IndexEntry;
+import de.uka.ipd.idaho.plugins.taxonomicNames.col.CatalogOfLifeLocal.TaxonRecord;
 
 /**
  * @author sautter
@@ -228,30 +239,33 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 			System.out.println("extract: extract authority and bibliographic reference data from the");
 			System.out.println("         Taxon.clean.tsv (or Taxon.tsv, whichever is found)");
 			System.out.println("analyze-t: analyze Taxon.clean.tsv for dangling ID links and broken");
-			System.out.println("          rank hierarchies, factoring in any field value substitutions");
-			System.out.println("          specified in any valueMappings.tsv file found next to it,");
-			System.out.println("          also generating a list of the sizes (in taxon records) of");
-			System.out.println("          trees and sub-trees of significant size to allow");
-			System.out.println("          customization of data tiling, i.e., how data is distributed");
-			System.out.println("          into individual files");
+			System.out.println("           rank hierarchies, factoring in any field value substitutions");
+			System.out.println("           specified in any valueMappings.tsv file found next to it,");
+			System.out.println("           also generating a list of the sizes (in taxon records) of");
+			System.out.println("           trees and sub-trees of significant size to allow");
+			System.out.println("           customization of data tiling, i.e., how data is distributed");
+			System.out.println("           into individual files");
 			System.out.println("distill: create the data files from Taxon.clean.tsv, factoring in any");
 			System.out.println("         field value substitutions specified in any valueMappings.tsv");
 			System.out.println("         file found next to it, as well as custom tile assignments");
 			System.out.println("         specified in any dataTiling.tsv file found next to it");
 			System.out.println("analyze-d: analyze data files for the frequency of terms and prefixes");
-			System.out.println("          to allow customization of index tiling, i.e., how index data");
-			System.out.println("          is distributed into individual files");
+			System.out.println("           to allow customization of index tiling, i.e., how index data");
+			System.out.println("           is distributed into individual files");
 			System.out.println("index: create the index files from the data files, factoring in any");
-			System.out.println("         custom tile boundaries specified in any indexTiling.tsv file");
-			System.out.println("         found next to the data files");
+			System.out.println("       custom tile boundaries specified in any indexTiling.tsv file");
+			System.out.println("       found next to the data files");
 			System.out.println("pack-z: zip up all the data and index files, also including a meta.txt");
-			System.out.println("      descriptor file");
+			System.out.println("        descriptor file");
 			System.out.println("pack-w: hash-rename all the data and index files for wed-based updates");
 			System.out.println("        and prepare the associated meta.txt descriptor file");
 			System.out.println("generate-z: do all of the above, in the listed sequence, packing a zip");
 			System.out.println("            file in the end");
 			System.out.println("generate-w: do all of the above, in the listed sequence, creating the");
 			System.out.println("            hash-named files for online deployment in the end");
+			System.out.println("");
+			System.out.println("serve: start a small local HTTP server to serve data packed with the");
+			System.out.println("       'pack-w' or 'generate-w' command via a simple JSON API");
 			System.out.println("");
 			System.out.println("Use '<command> -help' to print detailed help for individual commands.");
 			return;
@@ -381,7 +395,7 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 			}
 			else if ("pack-w".equalsIgnoreCase(command)) {
 				System.out.println("'pack-w <dwcaFolder> <destPath>': hash-rename all the data and");
-				System.out.println("index files for wed-based updates and prepare the associated meta.tx");
+				System.out.println("index files for wed-based updates and prepare the associated meta.txt");
 				System.out.println("descriptor file");
 				System.out.println("");
 				System.out.println("<dwcaFolder>: the path of the folder the data files are located in");
@@ -393,6 +407,19 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 				System.out.println("files, this command amends the meta.txt file with the MD5 hashes of");
 				System.out.println("all the data and index files, which it then also inserts in the names");
 				System.out.println("of the copied files");
+			}
+			else if ("serve".equalsIgnoreCase(command)) {
+				System.out.println("'serve <dwcaFolder> <port>': start a small local HTTP server on a given");
+				System.out.println("port and provide a JSON API for the data in a given folder");
+				System.out.println("");
+				System.out.println("<colFolder>: the path of the folder the data files are located in");
+				System.out.println("<port>: the port to open the server on (defaults to '49173' if omitted,");
+				System.out.println("        the decimal form of '0xC015')");
+				System.out.println("<verbose>: set to '-v' to activate verbose mode (optional)");
+				System.out.println("");
+				System.out.println("This command fails with an error if no data.tiles.txt or no");
+				System.out.println("index.tiles.txt is found in the specified folder, or is the speciefied");
+				System.out.println("port is occupied by another application");
 			}
 			else System.out.println("Invalid command '" + command + "', use '-help' to list available commands.");
 			return;
@@ -421,6 +448,18 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 			pack(sourcePath, destPath, true);
 		else if ("pack-w".equalsIgnoreCase(command))
 			pack(sourcePath, destPath, false);
+		else if ("serve".equalsIgnoreCase(command)) {
+			int port = 49173;
+			boolean verbose = false;
+			if (destPath == null) {}
+			else if ("-v".equals(destPath))
+				verbose = true;
+			else {
+				port = Integer.parseInt(destPath);
+				verbose = ((args.length > 3) && "-v".equals(args[3]));
+			}
+			serve(sourcePath, port, verbose);
+		}
 		else System.out.println("Invalid command '" + command + "', use '-help' to list available commands.");
 	}
 	
@@ -2800,16 +2839,394 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 		index(dwcaFolder);
 		pack(dwcaFolder, destPath, zip);
 	}
-//	
-//	//	HELPER FOR IN-IDE TESTING
-//	private static class TestHelper {
-//		public static void main(String[] args) throws Exception {
-////			String tl = "HLYR\t346X\tnull\tnull\t1140\tACCEPTED\tspecies\tAsplenium x ligusticum Bernardello, Marchetti & van den Heede, 2012\tAsplenium\tligusticum\theede\t\t\tICN\t\t\t";
-////			String[] td = tl.split("\\t");
-////			MetaXml metaXml = getMetaXml("E:/Projektdaten/CoL2021");
-////			DataValueNormalizer valueNormalizer = getDataValueNormalizer("E:/Projektdaten/CoL2021");
-////			String[] nTd = normalizeValues(metaXml, valueNormalizer, tl, td, true, null, null, null, null, null, null);
-////			System.out.println(Arrays.toString(nTd));
-//		}
-//	}
+	
+	private static void serve(String colPath, int port, boolean verbose) throws Exception {
+		
+		//	get CoL-Local instance
+		File dataPath = new File(colPath);
+		
+		//	load meta.txt
+		final LinkedHashMap dataNamesToHashes = new LinkedHashMap();
+		try {
+			BufferedReader metaBr = new BufferedReader(new InputStreamReader(new FileInputStream(new File(dataPath, "meta.txt")), "UTF-8"));
+			for (String metaLine; (metaLine = metaBr.readLine()) != null;) {
+				if (metaLine.startsWith("Dump:"))
+					continue;
+				if (metaLine.startsWith("Generated:"))
+					continue;
+				String[] tileData = metaLine.split("\t");
+				if (2 <= tileData.length)
+					dataNamesToHashes.put(tileData[0], tileData[1]);
+			}
+			metaBr.close();
+		}
+		catch (IOException ioe) {
+			System.out.println("ColLocalProvider: Error loading metadata: " + ioe.getMessage());
+			ioe.printStackTrace(System.out);
+			throw new RuntimeException(ioe); // no use even loading without our data
+		}
+		
+		//	initialize CoL-Local from own data provider
+		CatalogOfLifeLocal col = CatalogOfLifeLocal.getInstance(new AnalyzerDataProviderFileBased(dataPath) {
+			public boolean isDataAvailable(String dataName) {
+				return super.isDataAvailable(this.prepareDataName(dataName));
+			}
+			public InputStream getInputStream(String dataName) throws IOException {
+				return super.getInputStream(this.prepareDataName(dataName));
+			}
+			public URL getURL(String dataName) throws IOException {
+				return null; // no need for web access in local data structure
+			}
+			public boolean isDataEditable() {
+				return false; // no editing at the hands of the lookup data structure
+			}
+			public boolean isDataEditable(String dataName) {
+				return false; // no editing at the hands of the lookup data structure
+			}
+			public OutputStream getOutputStream(String dataName) throws IOException {
+				return null; // no editing at the hands of the lookup data structure
+			}
+			public boolean deleteData(String name) {
+				return false; // no editing at the hands of the lookup data structure
+			}
+			public String[] getDataNames() {
+				return ((String[]) dataNamesToHashes.keySet().toArray(new String[dataNamesToHashes.size()]));
+			}
+			public boolean equals(AnalyzerDataProvider adp) {
+				return this.getAbsolutePath().equals(adp.getAbsolutePath());
+			}
+			private String prepareDataName(String dataName) {
+				String dataHash = ((String) dataNamesToHashes.get(dataName));
+				if (dataHash == null)
+					return dataName;
+				else if (dataName.indexOf(".") == -1)
+					return (dataName + "." + dataHash);
+				return (dataName.substring(0, dataName.lastIndexOf(".")) + "." + dataHash + dataName.substring(dataName.lastIndexOf(".")));
+			}
+		});
+		
+		//	start server
+		ColLocalServer srv = new ColLocalServer(port, col);
+		srv.setVerbose(verbose);
+		srv.start();
+		System.out.println("Use 'verbose' or 'silent' to toggle logging");
+		System.out.println("Use 'exit' to shut down server");
+		
+		//	wait for exit command
+		BufferedReader sysIn = new BufferedReader(new InputStreamReader(System.in));
+		for (String input; (input = sysIn.readLine()) != null;) {
+			if ("exit".equals(input)) {
+				srv.close();
+				break;
+			}
+			else if ("verbose".equals(input))
+				srv.setVerbose(true);
+			else if ("silent".equals(input))
+				srv.setVerbose(false);
+			else {
+				System.out.println("Invalid command '" + "'");
+				System.out.println("- use 'verbose' or 'silent' to toggle logging");
+				System.out.println("- use 'exit' to shut down server");
+			}
+		}
+	}
+	
+	private static class ColLocalServer extends TinyHttpServer {
+		CatalogOfLifeLocal col;
+		ColLocalServer(int port, CatalogOfLifeLocal col) throws IOException {
+			super("ColLocalServer", port);
+			this.col = col;
+		}
+		protected void serviceGet(String path, String queryParamStr, Properties headers, InputStream request, OutputStream response) throws Exception {
+			ByteArrayOutputStream responseData = null;
+			Writer responseWriter = null;
+			String error = null;
+			try {
+				if (path.startsWith("/id/")) {
+					TaxonRecord tr = this.col.getRecord(Integer.parseInt(path.substring("/id/".length())));
+					if (tr != null) {
+						responseData = new ByteArrayOutputStream();
+						responseWriter = new OutputStreamWriter(responseData, "UTF-8");
+						this.writeTaxonRecord(tr, responseWriter, true, true);
+					}
+				}
+				else if ("/find".equals(path)) {
+					Properties queryParams = this.parseQuery(queryParamStr);
+					String query = queryParams.getProperty("query");
+					String[] queryParts = null;
+					if ((query != null) && (query.indexOf(" ") != -1)) {
+						queryParts = query.split("\\s+");
+						query = query.substring(query.lastIndexOf(" ") + " ".length());
+					}
+//					String rank = queryParams.getProperty("rank");
+					String fromRank = queryParams.getProperty("fromRank", queryParams.getProperty("rank", KINGDOM_ATTRIBUTE));
+					String toRank = queryParams.getProperty("toRank", queryParams.getProperty("rank", SUBFORM_ATTRIBUTE));
+					boolean prefixMatch = "true".equals(queryParams.getProperty("prefix", "false"));
+					boolean caseSensitive = !"false".equals(queryParams.getProperty("matchCase", "true"));
+					boolean includeSynonyms = "true".equals(queryParams.getProperty("synonyms", "false"));
+					boolean expandLinked = "true".equals(queryParams.getProperty("expandLinked", "false"));
+					boolean includeHigher = "true".equals(queryParams.getProperty("includeHigher", "false"));
+					TaxonRecord[] trs = ((query == null) ? null : this.col.findTaxonRecords(query, fromRank, toRank, prefixMatch, caseSensitive, includeSynonyms));
+					responseData = new ByteArrayOutputStream();
+					responseWriter = new OutputStreamWriter(responseData, "UTF-8");
+					responseWriter.write("[");
+					if (trs != null) {
+						boolean addSeparator = false;
+						for (int r = 0; r < trs.length; r++)
+							if (this.matches(trs[r], queryParts, prefixMatch, caseSensitive)) {
+								if (addSeparator)
+									responseWriter.write(",");
+								this.writeTaxonRecord(trs[r], responseWriter, includeHigher, expandLinked);
+								addSeparator = true;
+							}
+					}
+					responseWriter.write("]");
+				}
+				else if ("/search".equals(path)) {
+					Properties queryParams = this.parseQuery(queryParamStr);
+					String query = queryParams.getProperty("query");
+					String[] queryParts = null;
+					if ((query != null) && (query.indexOf(" ") != -1)) {
+						queryParts = query.split("\\s+");
+						query = query.substring(query.lastIndexOf(" ") + " ".length());
+					}
+					boolean prefixMatch = "true".equals(queryParams.getProperty("prefix", "false"));
+					boolean caseSensitive = !"false".equals(queryParams.getProperty("matchCase", "true"));
+					boolean includeSynonyms = "true".equals(queryParams.getProperty("synonyms", "false"));
+					boolean expandLinked = "true".equals(queryParams.getProperty("expandLinked", "false"));
+					boolean includeHigher = "true".equals(queryParams.getProperty("includeHigher", "false"));
+					IndexEntry[] ies = ((query == null) ? null : this.col.searchTaxonRecords(query, prefixMatch));
+					responseData = new ByteArrayOutputStream();
+					responseWriter = new OutputStreamWriter(responseData, "UTF-8");
+					responseWriter.write("[");
+					if (ies != null) {
+						boolean addLowerCaseResults = (!caseSensitive || query.equals(query.toLowerCase()) /* lower case query */);
+						boolean addCapitalizedResults = (!caseSensitive || !query.equals(query.toLowerCase()) /* capitalized query */);
+//						boolean includeSynonyms = false;
+						HashSet resIDs = new HashSet();
+						boolean addSeparator = false;
+						for (int e = 0; e < ies.length; e++) {
+							int[] ids;
+							if (addLowerCaseResults) {
+								ids = ies[e].getLowerCaseMatchIDs();
+								for (int i = 0; (ids != null) && (i < ids.length); i++)
+									if (resIDs.add(new Integer(ids[i]))) {
+										TaxonRecord tr = this.col.getRecord(ids[i]);
+										if (this.matches(tr, queryParts, prefixMatch, caseSensitive)) {
+											if (addSeparator)
+												responseWriter.write(",");
+											this.writeTaxonRecord(tr, responseWriter, includeHigher, expandLinked);
+											addSeparator = true;
+										}
+									}
+								if (includeSynonyms) {
+									ids = ies[e].getLowerCasePrefixMatchIDs();
+									for (int i = 0; (ids != null) && (i < ids.length); i++)
+										if (resIDs.add(new Integer(ids[i]))) {
+											TaxonRecord tr = this.col.getRecord(ids[i]);
+											if (this.matches(tr, queryParts, prefixMatch, caseSensitive)) {
+												if (addSeparator)
+													responseWriter.write(",");
+												this.writeTaxonRecord(tr, responseWriter, includeHigher, expandLinked);
+												addSeparator = true;
+											}
+										}
+								}
+							}
+							if (addCapitalizedResults) {
+								ids = ies[e].getCapitalizedMatchIDs();
+								for (int i = 0; (ids != null) && (i < ids.length); i++)
+									if (resIDs.add(new Integer(ids[i]))) {
+										TaxonRecord tr = this.col.getRecord(ids[i]);
+										if (this.matches(tr, queryParts, prefixMatch, caseSensitive)) {
+											if (addSeparator)
+												responseWriter.write(",");
+											this.writeTaxonRecord(tr, responseWriter, includeHigher, expandLinked);
+											addSeparator = true;
+										}
+									}
+								if (includeSynonyms) {
+									ids = ies[e].getCapitalizedPrefixMatchIDs();
+									for (int i = 0; (ids != null) && (i < ids.length); i++)
+										if (resIDs.add(new Integer(ids[i]))) {
+											TaxonRecord tr = this.col.getRecord(ids[i]);
+											if (this.matches(tr, queryParts, prefixMatch, caseSensitive)) {
+												if (addSeparator)
+													responseWriter.write(",");
+												this.writeTaxonRecord(tr, responseWriter, includeHigher, expandLinked);
+												addSeparator = true;
+											}
+										}
+								}
+							}
+						}
+					}
+					responseWriter.write("]");
+				}
+				else {
+					String docResName = CatalogOfLifeDataTool.class.getName();
+					docResName = docResName.substring(0, docResName.lastIndexOf('.'));
+					docResName = docResName.replaceAll("\\.", "/");
+					docResName = (docResName + "/api.html");
+					InputStream docIn = CatalogOfLifeDataTool.class.getClassLoader().getResourceAsStream(docResName);
+					responseData = new ByteArrayOutputStream();
+					for (int r; (r = docIn.read()) != -1;)
+						responseData.write(r);
+					docIn.close();
+				}
+			}
+			catch (Exception e) {
+				System.out.println("Error performing query: " + e.getMessage());
+				e.printStackTrace(System.out);
+				error = e.getMessage();
+			}
+			
+			//	send response
+			if (responseData != null) {
+				this.writeStatus(200, "OK", response);
+				if (responseWriter == null)
+					this.writeHeader("Content-Type", "text/html; charset=UTF-8", response);
+				else {
+					responseWriter.flush();
+					this.writeHeader("Content-Type", "application/json; charset=UTF-8", response);
+				}
+				this.writeHeader("Content-Length", ("" + responseData.size()), response);
+			}
+			else if (error != null) {
+				this.writeStatus(500, null, response);
+				this.writeHeader("Content-Type", "text/plain; charset=UTF-8", response);
+				this.writeHeader("Content-Length", ("" + error.length()), response);
+			}
+			else {
+				this.writeStatus(404, null, response);
+				this.writeHeader("Content-Type", "text/plain; charset=UTF-8", response);
+				this.writeHeader("Content-Length", ("" + "Not Found".length()), response);
+			}
+			this.writeDateHeader(-1, response);
+			this.writeHeader("Server", "CoL-Local Tiny HTTP", response);
+			this.writeHeader("Connection", "close", response);
+			this.writeLineBreak(response);
+			if (responseData != null) {
+				responseData.writeTo(response);
+				this.writeLineBreak(response);
+			}
+			else if (error != null) {
+				response.write(error.getBytes());
+				this.writeLineBreak(response);
+			}
+			else {
+				response.write("Not Found".getBytes());
+				this.writeLineBreak(response);
+			}
+			response.flush();
+		}
+		private boolean matches(TaxonRecord tr, String[] queryPrefix, boolean prefixMatch, boolean caseSensitive) {
+			return ((queryPrefix == null) || CatalogOfLifeLocal.matchesEpithetPrefix(tr, queryPrefix, 0, queryPrefix.length, CatalogOfLifeLocal.STALE_TAXON_MODE_INTERMEDIATE, prefixMatch, caseSensitive));
+		}
+		private void writeTaxonRecord(TaxonRecord tr, Writer response, boolean includeHigher, boolean expandLinked) throws IOException {
+			this.writeTaxonRecord(tr, true, response, includeHigher, expandLinked);
+		}
+		private void writeTaxonRecord(TaxonRecord tr, boolean includeLinks, Writer response, boolean includeHigher, boolean expandLinked) throws IOException {
+			response.write("{");
+			response.write("\"id\": " + tr.getId() + ",");
+			response.write("\"name\": \"" + JsonParser.escape(tr.getNameString(false)) + "\",");
+			String auth = tr.getAuthority();
+			if (auth != null)
+				response.write("\"authority\": \"" + JsonParser.escape(auth) + "\",");
+			if (tr.isValidTaxon()) {
+				response.write("\"isSynonym\": false,");
+				if (includeLinks) {
+					int pTrId = TaxonRecord.getParentOrValidId(tr.data, tr.offset);
+					if (pTrId == 0) {}
+					else if (expandLinked) {
+						TaxonRecord pTr = tr.getParent();
+						response.write("\"parent\": ");
+						this.writeTaxonRecord(pTr, false, response, false, false);
+						response.write(",");
+					}
+					else response.write("\"parentId\": " + pTrId + ",");
+					if (includeHigher)
+						for (TaxonRecord hTr = tr.getPrimaryParent(); hTr != null; hTr = hTr.getPrimaryParent()) {
+							if (expandLinked) {
+								response.write("\"" + hTr.getRank() + "\": ");
+								this.writeTaxonRecord(hTr, false, response, false, false);
+								response.write(",");
+							}
+							else response.write("\"" + hTr.getRank() + "\": \"" + JsonParser.escape(hTr.getNameString(false)) + "\",");
+						}
+					int[] cTrIDs = TaxonRecord.getChildIDs(tr.data, tr.offset);
+					if ((cTrIDs != null) && (cTrIDs.length != 0)) {
+						response.write("\"" + (expandLinked ? "children" : "childIDs") + "\": [");
+						for (int c = 0; c < cTrIDs.length; c++) {
+							if (c != 0)
+								response.write(",");
+							if (expandLinked) {
+								TaxonRecord cTr = this.col.getRecord(cTrIDs[c]);
+								this.writeTaxonRecord(cTr, false, response, false, false);
+							}
+							else response.write("" + cTrIDs[c]);
+						}
+						response.write("],");
+					}
+					int[] sTrIDs = TaxonRecord.getSynonymIDs(tr.data, tr.offset);
+					if ((sTrIDs != null) && (sTrIDs.length != 0)) {
+						response.write("\"" + (expandLinked ? "synonyms" : "synonymIDs") + "\": [");
+						for (int s = 0; s < sTrIDs.length; s++) {
+							if (s != 0)
+								response.write(",");
+							if (expandLinked) {
+								TaxonRecord sTr = this.col.getRecord(sTrIDs[s]);
+								this.writeTaxonRecord(sTr, false, response, false, false);
+							}
+							else response.write("" + sTrIDs[s]);
+						}
+						response.write("],");
+					}
+				}
+			}
+			else {
+				response.write("\"isSynonym\": true,");
+				int vTrId = TaxonRecord.getParentOrValidId(tr.data, tr.offset);
+				if (vTrId == 0) {}
+				else if (expandLinked) {
+					TaxonRecord vTr = this.col.getRecord(vTrId);
+					response.write("\"valid\": ");
+					this.writeTaxonRecord(vTr, false, response, false, false);
+					response.write(",");
+				}
+				else response.write("\"validId\": " + vTrId + ",");
+				if (includeHigher && (vTrId != 0)) {
+					TaxonRecord vTr = this.col.getRecord(vTrId);
+					for (TaxonRecord hTr = vTr.getPrimaryParent(); hTr != null; hTr = hTr.getPrimaryParent()) {
+						if (expandLinked) {
+							response.write("\"" + hTr.getRank() + "\": ");
+							this.writeTaxonRecord(hTr, false, response, false, false);
+							response.write(",");
+						}
+						else response.write("\"" + hTr.getRank() + "\": \"" + JsonParser.escape(hTr.getNameString(false)) + "\",");
+					}
+				}
+			}
+			response.write("\"rank\": \"" + tr.getRank() + "\"");
+			response.write("}");
+		}
+	}
+	
+	//	HELPER FOR IN-IDE TESTING
+	private static class TestHelper {
+		public static void main(String[] args) throws Exception {
+//			String tl = "HLYR\t346X\tnull\tnull\t1140\tACCEPTED\tspecies\tAsplenium x ligusticum Bernardello, Marchetti & van den Heede, 2012\tAsplenium\tligusticum\theede\t\t\tICN\t\t\t";
+//			String[] td = tl.split("\\t");
+//			MetaXml metaXml = getMetaXml("E:/Projektdaten/CoL2021");
+//			DataValueNormalizer valueNormalizer = getDataValueNormalizer("E:/Projektdaten/CoL2021");
+//			String[] nTd = normalizeValues(metaXml, valueNormalizer, tl, td, true, null, null, null, null, null, null);
+//			System.out.println(Arrays.toString(nTd));
+			args = new String[3];
+			args[0] = "serve";
+			args[1] = "E:/Projektdaten/CoL2021/2021-07-23-00-49";
+//			args[2] = "36667";
+			args[2] = "-v";
+			CatalogOfLifeDataTool.main(args);
+		}
+	}
 }

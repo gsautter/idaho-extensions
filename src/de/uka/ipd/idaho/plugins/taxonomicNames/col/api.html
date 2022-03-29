@@ -1,0 +1,123 @@
+<html>
+	<head>
+		<title>Catalog of Life Local JSON API</title>
+	</head>
+	<body>
+		<h2>Catalog of Life Local JSON API</h2>
+		<h3>Resolving an ID number:</h3>
+		<ul>
+			<li>
+				<b>URL</b>: <tt>/id/&lt;id&gt;</tt>
+			</li>
+			<li>
+				<b>Method</b>: <tt>GET</tt>
+			</li>
+			<li>
+				<b>Query parameters</b>: none</li>
+			<li>
+				<b>Result</b>: single JSON object, including:<ul>
+					<li>ID number</li>
+					<li>full taxon name</li>
+					<li>rank</li>
+					<li>authority</li>
+					<li>array of children</li>
+					<li>array of synonyms</li>
+					<li>higher taxa</li>
+				</ul>
+			</li>
+			<li>
+				<b>Example</b>: <a href="/id/1209232" target="_blank">
+					<tt>/id/1209232</tt>
+				</a>
+			</li>
+		</ul>
+		<h3>Looking up a specific taxon name:</h3>
+		<ul>
+			<li>
+				<b>URL</b>: <tt>/find</tt>
+			</li>
+			<li>
+				<b>Method</b>: <tt>GET</tt>
+			</li>
+			<li>
+				<b>Query parameters</b>:<ul>
+					<li>
+						<tt>query</tt>: the taxon name to find (required)</li>
+					<li>
+						<tt>rank</tt>: the rank of the taxon (optional, alternative to <tt>fromRank</tt> and <tt>toRank</tt> if the latter two are equal)</li>
+					<li>
+						<tt>fromRank</tt>: the highest rank to consider (optional, defaults to 'kingdom')</li>
+					<li>
+						<tt>toRank</tt>: the lowest rank to consider (optional, defaults to 'subForm')</li>
+					<li>
+						<tt>prefix</tt>: consider taxon records whose epithets start with the specified query instead of exactly matching it? (optional, defaults to <tt>false</tt>, indicating an exact match)</li>
+					<li>
+						<tt>matchCase</tt>: match taxon record epithets case sensitive against the query? (optional, defaults to <tt>true</tt>, indicating a case sensitive match)</li>
+					<li>
+						<tt>synonyms</tt>: consider taxon records flagged as synonyms? (optional, defaults to <tt>false</tt>, restricting results to valid taxa only)</li>
+					<li>
+						<tt>includeHigher</tt>: include higher taxa of lookup results? (optional, defaults to <tt>false</tt>, only returning the ID number of the parent taxon record in results)</li>
+					<li>
+						<tt>expandLinked</tt>: include higher taxa, children, and synonyms as objects rather than plain ID numbers? (optional, defaults to <tt>false</tt>, only returning ID numbers for taxon records linked to results)</li>
+				</ul>
+			</li>
+			<li>
+				<b>Result</b>: JSON array of objects, each object including:<ul>
+					<li>ID number</li>
+					<li>full taxon name</li>
+					<li>rank</li>
+					<li>authority</li>
+					<li>array of children (as ID numbers or objects, as indicated by the value of <tt>expandLinked</tt>)</li>
+					<li>array of synonyms (as ID numbers or objects, as indicated by the value of <tt>expandLinked</tt>)</li>
+					<li>higher taxa (if <tt>includeHigher</tt> is set to <tt>true</tt>, as ID numbers or objects, as indicated by the value of <tt>expandLinked</tt>)</li>
+				</ul>
+			</li>
+			<li>
+				<b>Example</b>: <a href="/find?query=Cephalotes&prefix=true&matchCase=true&includeHigher=true&expandLinked=false" target="_blank">
+					<tt>/find?query=Cephalotes&amp;prefix=true&amp;matchCase=true&includeHigher=true&amp;expandLinked=false</tt>
+				</a>
+			</li>
+		</ul>
+		<h3>Searching for a taxon name (via full text index):</h3>
+		<ul>
+			<li>
+				<b>URL</b>: <tt>/search</tt>
+			</li>
+			<li>
+				<b>Method</b>: <tt>GET</tt>
+			</li>
+			<li>
+				<b>Query parameters</b>:<ul>
+					<li>
+						<tt>query</tt>: the taxon name to find (required)</li>
+					<li>
+						<tt>prefix</tt>: consider taxon records whose epithets start with the specified query instead of exactly matching it? (optional, defaults to <tt>false</tt>, indicating an exact match)</li>
+					<li>
+						<tt>matchCase</tt>: match taxon record epithets case sensitive against the query? (optional, defaults to <tt>true</tt>, indicating a case sensitive match)</li>
+					<li>
+						<tt>synonyms</tt>: consider taxon records flagged as synonyms? (optional, defaults to <tt>false</tt>, restricting results to valid taxa only)</li>
+					<li>
+						<tt>includeHigher</tt>: include higher taxa of lookup results? (optional, defaults to <tt>false</tt>, only returning the ID number of the parent taxon record in results)</li>
+					<li>
+						<tt>expandLinked</tt>: include higher taxa, children, and synonyms as objects rather than plain ID numbers? (optional, defaults to <tt>false</tt>, only returning ID numbers for taxon records linked to results)</li>
+				</ul>
+			</li>
+			<li>
+				<b>Result</b>: JSON array of objects, each object including:<ul>
+					<li>ID number</li>
+					<li>full taxon name</li>
+					<li>rank</li>
+					<li>authority</li>
+					<li>array of children (as ID numbers or objects, as indicated by the value of <tt>expandLinked</tt>)</li>
+					<li>array of synonyms (as ID numbers or objects, as indicated by the value of <tt>expandLinked</tt>)</li>
+					<li>higher taxa (if <tt>includeHigher</tt> is set to <tt>true</tt>, as ID numbers or objects, as indicated by the value of <tt>expandLinked</tt>)</li>
+				</ul>
+			</li>
+			<li>
+				<b>Example</b>: <a href="/search?query=Cephalotes&prefix=true&matchCase=true&includeHigher=true&expandLinked=false" target="_blank">
+					<tt>/search?query=Cephalotes&amp;prefix=true&amp;matchCase=true&amp;includeHigher=true&amp;expandLinked=false</tt>
+				</a>
+			</li>
+		</ul>
+	</body>
+</html>

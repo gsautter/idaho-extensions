@@ -60,6 +60,7 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		private String baseAuthorityName = null;
 		private int baseAuthorityYear = -1;
 		private String rank;
+		private boolean isHybrid = false;
 		private String stringWithoutAuthority;
 		private String stringWithAuthority;
 		private String stringWithFullAuthority;
@@ -94,8 +95,11 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		public TaxonomicName(TaxonomicName model) {
 			this.rankSystem = model.rankSystem;
 			this.epithets.putAll(model.epithets);
+			this.isHybrid = model.isHybrid;
 			this.authorityName = model.authorityName;
 			this.authorityYear = model.authorityYear;
+			this.baseAuthorityName = model.baseAuthorityName;
+			this.baseAuthorityYear = model.baseAuthorityYear;
 		}
 		
 		/**
@@ -121,6 +125,31 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 			this.stringWithAuthority = null;
 			this.stringWithFullAuthority = null;
 			this.stringWithoutAuthority = null;
+		}
+		
+		/**
+		 * Is the taxonomic name marked as a hybrid species name?
+		 * @return true if the taxonomic name marked as a hybrid name
+		 */
+		public boolean isHybrid() {
+			return this.isHybrid;
+		}
+		
+		/**
+		 * Mark the taxonomic name as a hybrid species name. This method only
+		 * has an effect if the taxonomic rank system the name belongs to
+		 * allows for hybrid species names. Furthermore, this property only has
+		 * an effect if the rank of the name is that of a species.
+		 * @param isHybrid is the taxonomic name a hybrid name?
+		 */
+		public void setHybrid(boolean isHybrid) {
+			isHybrid = (this.rankSystem.allowsHybrids && isHybrid);
+			if (this.isHybrid == isHybrid)
+				return;
+			this.stringWithAuthority = null;
+			this.stringWithFullAuthority = null;
+			this.stringWithoutAuthority = null;
+			this.isHybrid = isHybrid;
 		}
 		
 		/**
@@ -376,11 +405,13 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 					if (ranks[r].getRelativeSignificance() < genusRank.getRelativeSignificance())
 						continue;
 					String epithet = this.epithets.getProperty(ranks[r].name);
-					if (epithet != null) {
-						if (string.length() != 0)
-							string.append(' ');
-						string.append(ranks[r].formatEpithet(epithet));
-					}
+					if (epithet == null)
+						continue;
+					if (string.length() != 0)
+						string.append(' ');
+					if (this.isHybrid && this.rankSystem.allowsHybrids && SPECIES_ATTRIBUTE.equals(ownRank) && SPECIES_ATTRIBUTE.equals(ranks[r].name))
+						string.append("\u00D7 ");
+					string.append(ranks[r].formatEpithet(epithet));
 				}
 			}
 			
@@ -469,6 +500,10 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		}
 		if (taxName == null)
 			return taxName;
+		
+		//	set hybrid if annotation flagged accordingly
+		if (SPECIES_ATTRIBUTE.equals(taxName.getRank()) && rankSystem.allowsHybrids && taxNameAnnot.hasAttribute(HYBRID_MARKER_ATTRIBUTE))
+			taxName.setHybrid(true);
 		
 		//	add authority and basionym authority
 		addAuthority(taxName, taxNameAnnot);

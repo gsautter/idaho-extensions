@@ -500,7 +500,7 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 				continue;
 			}
 			
-			//	parse TSV
+			//	parse TSV TODO parse original CoL ID off internal ID at '/', and set respective property in argument 'col' to true
 			int id = Integer.parseInt(recordData[0], 16);
 //			rMinId = Math.min(rMinId, id);
 //			rMaxId = Math.max(rMaxId, id);
@@ -808,6 +808,8 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 					else lQuery[b] = query[b];
 				}
 				IndexTile queryTile = this.col.getIndexTileForString(lQuery);
+				if (queryTile == null)
+					return null;
 				IndexEntry[] queryResults = queryTile.findMatches(lQuery, prefixMatch);
 				if (queryResults == null)
 					return null;
@@ -1147,57 +1149,59 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 			
 			//	parse TSV
 			String entry = entryData[0];
-			String matchIDListStr = entryData[1];
-			int[] elcMatchIDs = null;
-			if (matchIDListStr.startsWith("EL:")) {
-				matchIDListStr = matchIDListStr.substring("EL:".length());
-				int idListEnd = matchIDListStr.indexOf(":");
-				if (idListEnd == -1) {
-					elcMatchIDs = decodeIdList(matchIDListStr);
-					matchIDListStr = "";
-				}
-				else {
-					elcMatchIDs = decodeIdList(matchIDListStr.substring(0, (idListEnd - ";EC".length())));
-					matchIDListStr = matchIDListStr.substring(idListEnd - "EC".length());
-				}
-			}
+			String matchIdListStr = entryData[1];
 			int[] ecpMatchIDs = null;
-			if (matchIDListStr.startsWith("EC:")) {
-				matchIDListStr = matchIDListStr.substring("EC:".length());
-				int idListEnd = matchIDListStr.indexOf(":");
-				if (idListEnd == -1) {
-					ecpMatchIDs = decodeIdList(matchIDListStr);
-					matchIDListStr = "";
-				}
-				else {
-					ecpMatchIDs = decodeIdList(matchIDListStr.substring(0, (idListEnd - ";PL".length())));
-					matchIDListStr = matchIDListStr.substring(idListEnd - "PL".length());
-				}
-			}
-			int[] plcMatchIDs = null;
-			if (matchIDListStr.startsWith("PL:")) {
-				matchIDListStr = matchIDListStr.substring("PL:".length());
-				int idListEnd = matchIDListStr.indexOf(":");
-				if (idListEnd == -1) {
-					plcMatchIDs = decodeIdList(matchIDListStr);
-					matchIDListStr = "";
-				}
-				else {
-					plcMatchIDs = decodeIdList(matchIDListStr.substring(0, (idListEnd - ";PC".length())));
-					matchIDListStr = matchIDListStr.substring(idListEnd - "PC".length());
-				}
-			}
+			int[] elcMatchIDs = null;
 			int[] pcpMatchIDs = null;
-			if (matchIDListStr.startsWith("PC:")) {
-				matchIDListStr = matchIDListStr.substring("PC:".length());
-				int idListEnd = matchIDListStr.indexOf(":");
-				if (idListEnd == -1) {
-					pcpMatchIDs = decodeIdList(matchIDListStr);
-					matchIDListStr = "";
+			int[] plcMatchIDs = null;
+			while (matchIdListStr != null) {
+				if (matchIdListStr.startsWith("EC:")) {
+					matchIdListStr = matchIdListStr.substring("EC:".length());
+					int idListEnd = matchIdListStr.indexOf(":");
+					if (idListEnd == -1) {
+						ecpMatchIDs = decodeIdList(matchIdListStr);
+						matchIdListStr = null;
+					}
+					else {
+						ecpMatchIDs = decodeIdList(matchIdListStr.substring(0, (idListEnd - ";EL".length())));
+						matchIdListStr = matchIdListStr.substring(idListEnd - "EL".length());
+					}
 				}
-				else {
-					pcpMatchIDs = decodeIdList(matchIDListStr.substring(0, (idListEnd - ";XX".length())));
-					matchIDListStr = matchIDListStr.substring(idListEnd - "XX".length());
+				else if (matchIdListStr.startsWith("EL:")) {
+					matchIdListStr = matchIdListStr.substring("EL:".length());
+					int idListEnd = matchIdListStr.indexOf(":");
+					if (idListEnd == -1) {
+						elcMatchIDs = decodeIdList(matchIdListStr);
+						matchIdListStr = null;
+					}
+					else {
+						elcMatchIDs = decodeIdList(matchIdListStr.substring(0, (idListEnd - ";PC".length())));
+						matchIdListStr = matchIdListStr.substring(idListEnd - "PC".length());
+					}
+				}
+				else if (matchIdListStr.startsWith("PC:")) {
+					matchIdListStr = matchIdListStr.substring("PC:".length());
+					int idListEnd = matchIdListStr.indexOf(":");
+					if (idListEnd == -1) {
+						pcpMatchIDs = decodeIdList(matchIdListStr);
+						matchIdListStr = null;
+					}
+					else {
+						pcpMatchIDs = decodeIdList(matchIdListStr.substring(0, (idListEnd - ";PL".length())));
+						matchIdListStr = matchIdListStr.substring(idListEnd - "PL".length());
+					}
+				}
+				else if (matchIdListStr.startsWith("PL:")) {
+					matchIdListStr = matchIdListStr.substring("PL:".length());
+					int idListEnd = matchIdListStr.indexOf(":");
+					if (idListEnd == -1) {
+						plcMatchIDs = decodeIdList(matchIdListStr);
+						matchIdListStr = null;
+					}
+					else {
+						plcMatchIDs = decodeIdList(matchIdListStr.substring(0, (idListEnd - ";XX".length())));
+						matchIdListStr = matchIdListStr.substring(idListEnd - "XX".length());
+					}
 				}
 			}
 			
@@ -1402,10 +1406,10 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 			return ((matchIDs == null) ? null : this.getRecords(matchIDs));
 		}
 		int[] getCapitalizedPrefixMatchIDs() {
-			return getPrefixMatchLowerCaseIDs(this.data, this.offset);
+			return getPrefixMatchCapitalizedIDs(this.data, this.offset);
 		}
 		public TaxonRecord[] getCapitalizedPrefixMatches() {
-			int[] matchIDs = getPrefixMatchLowerCaseIDs(this.data, this.offset);
+			int[] matchIDs = getPrefixMatchCapitalizedIDs(this.data, this.offset);
 			return ((matchIDs == null) ? null : this.getRecords(matchIDs));
 		}
 		private TaxonRecord[] getRecords(int[] ids) {
@@ -1481,7 +1485,7 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 			return getInts(data, (offset + ENTRY_VALUE_OFFSET + entryLength + elcListLength + ecpListLength + ID_LIST_LENGTH_SIZE), plcIdListLength);
 		}
 		static int[] getPrefixMatchCapitalizedIDs(byte[] data, int offset) {
-			if (!hasEpithetMatchesCapitalized(data, offset))
+			if (!hasPrefixMatchesCapitalized(data, offset))
 				return null;
 			int entryLength = getInt(data, (offset + ENTRY_LENGTH_OFFSET), ENTRY_LENGTH_SIZE);
 			int elcListLength = 0;
@@ -1604,36 +1608,36 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 			this.offset = offset;
 		}
 		public int getId() {
-			return getId(this.data, this.offset);
+			return getId(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
 		}
 		public String getEpithet() {
-			return getEpithet(this.data, this.offset);
+			return getEpithet(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
 		}
 		public boolean isValidTaxon() {
-			return isValidTaxon(this.data, this.offset);
+			return isValidTaxon(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
 		}
 		public boolean isExtantTaxon() {
-			return isExtant(this.data, this.offset);
+			return isExtant(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
 		}
 		public String getRank() {
-			byte rank = getRank(this.data, this.offset);
+			byte rank = getRank(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
 			return decodeRank(rank);
 		}
 		byte getRankByte() {
-			return getRank(this.data, this.offset);
+			return getRank(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
 		}
 		public boolean isPrimaryRank() {
-			return isPrimaryRank(this.data, this.offset);
+			return isPrimaryRank(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
 		}
 		public TaxonRecord getParent() {
 			if (isValidTaxon(this.data, this.offset)) {
-				int parentId = getParentOrValidId(this.data, this.offset);
+				int parentId = getParentOrValidId(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
 				return ((parentId == 0) ? null : this.tile.getRecord(parentId));
 			}
 			else return null;
 		}
 		public TaxonRecord[] getChildren() {
-			int[] childIDs = getChildIDs(this.data, this.offset);
+			int[] childIDs = getChildIDs(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
 			if (childIDs == null)
 				return null;
 			TaxonRecord[] children = new TaxonRecord[childIDs.length];
@@ -1653,7 +1657,7 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 			return this.getPrimaryChildren(false);
 		}
 		public TaxonRecord[] getPrimaryChildren(boolean includeSynonyms) {
-			int[] pChildIDs = this.tile.getPrimaryChildIDs(getId(this.data, this.offset), includeSynonyms);
+			int[] pChildIDs = this.tile.getPrimaryChildIDs(getId(this.data, this.offset), includeSynonyms); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
 			if (pChildIDs == null)
 				return null;
 			TaxonRecord[] pChildren = new TaxonRecord[pChildIDs.length];
@@ -1664,7 +1668,7 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 		public TaxonRecord[] findDescendants(String query, boolean prefixMatch, boolean caseSensitive, String rank, boolean includeSynonyms) {
 			byte qRank = encodeRank(rank);
 			byte[] qStr = getQueryBytes(query);
-			int[] descendantIDs = this.tile.findDescendantIDs(getId(this.data, this.offset), qStr, prefixMatch, caseSensitive, qRank, includeSynonyms);
+			int[] descendantIDs = this.tile.findDescendantIDs(getId(this.data, this.offset), qStr, prefixMatch, caseSensitive, qRank, includeSynonyms); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
 			if (descendantIDs == null)
 				return null;
 			TaxonRecord[] descendants = new TaxonRecord[descendantIDs.length];
@@ -1676,24 +1680,24 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 			return this.getHigherTaxonomy(false);
 		}
 		public Properties getHigherTaxonomy(boolean allRanks) {
-			int id = getId(this.data, this.offset);
+			int id = getId(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
 			return this.tile.getHigherTaxonomy(id, allRanks);
 		}
 		public TaxonRecord getValidTaxon() {
-			if (isValidTaxon(this.data, this.offset))
+			if (isValidTaxon(this.data, this.offset)) // TODO add boolean for adding 4 bytes for original CoL ID to affsets
 				return this;
-			int validId = getParentOrValidId(this.data, this.offset);
+			int validId = getParentOrValidId(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
 			return this.tile.getRecord(validId);
 		}
 		public String getOriginalParentEpithets() {
-			if (isValidTaxon(this.data, this.offset))
+			if (isValidTaxon(this.data, this.offset)) // TODO add boolean for adding 4 bytes for original CoL ID to affsets
 				return null;
-			if (!hasOriginalParent(this.data, this.offset))
+			if (!hasOriginalParent(this.data, this.offset)) // TODO add boolean for adding 4 bytes for original CoL ID to affsets
 				return null;
-			return getOriginalParentEpithets(this.data, this.offset);
+			return getOriginalParentEpithets(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
 		}
 		public TaxonRecord[] getSynonyms() {
-			int[] synonymIDs = getSynonymIDs(this.data, this.offset);
+			int[] synonymIDs = getSynonymIDs(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
 			if (synonymIDs == null)
 				return null;
 			TaxonRecord[] synonyms = new TaxonRecord[synonymIDs.length];
@@ -1702,10 +1706,10 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 			return synonyms;
 		}
 		public String getAuthority() {
-			byte[] authorityBytes = getAuthorityBytes(this.data, this.offset);
+			byte[] authorityBytes = getAuthorityBytes(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
 			if (authorityBytes == null)
 				return null;
-			else if (storesVerbatimAuthority(this.data, this.offset))
+			else if (storesVerbatimAuthority(this.data, this.offset)) // TODO add boolean for adding 4 bytes for original CoL ID to affsets
 				return getString(authorityBytes, 0, authorityBytes.length);
 			else return this.tile.decodeAuthority(authorityBytes);
 		}
@@ -2224,7 +2228,7 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 		String lQuery = query.toLowerCase();
 		byte[] qQuery = getQueryBytes(lQuery);
 		IndexTile indexTile = this.getIndexTileForString(qQuery);
-		return indexTile.findMatches(qQuery, prefixMatch);
+		return ((indexTile == null) ? null : indexTile.findMatches(qQuery, prefixMatch));
 	}
 	
 	/**
@@ -2344,6 +2348,8 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 			String lQuery = query.toLowerCase();
 			byte[] qQuery = getQueryBytes(lQuery);
 			IndexTile indexTile = this.getIndexTileForString(qQuery);
+			if (indexTile == null)
+				return null;
 			IndexEntry[] qResults = indexTile.findMatches(qQuery, prefixMatch);
 			if (qResults == null)
 				return null;
@@ -2464,6 +2470,39 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 	 *            of) argument array of epithets
 	 */
 	public static boolean matchesEpithetPrefix(TaxonRecord tr, String[] epithets, int fromEpithet, char staleTaxonMode, boolean caseSensitive) {
+		return matchesEpithetPrefix(tr, epithets, fromEpithet, epithets.length, staleTaxonMode, false, caseSensitive);
+	}
+	
+	/**
+	 * Check if a taxon record and its parents up to the genus match the
+	 * epithets of a multi-nomial. The first epithet in the argument array
+	 * is expected to be the genus. If the argument taxon record is a synonym
+	 * and has its original parent epithets as a string (because they differ
+	 * from the parents of the linked valid taxon), this method matches against
+	 * that string; otherwise, it matches against the parent records of the
+	 * argument taxon record. In the latter case, the
+	 * <code>staleRecordMode</code> controls how to handle taxon records that
+	 * occur in the path from the argument taxon record (or its linked valid
+	 * taxon) up to the genus in between two other taxon records matching
+	 * adjacent epithets: <code>S</code> indicates strict mode, i.e. all taxon
+	 * records in the path must match an epithet in the argument array;
+	 * <code>I</code> indicates tolerance for unmatched intermediate-rank taxon
+	 * records, e.g. a subgenus present in the taxon record tree, but not in
+	 * the argument epithet array; <code>L</code> indicates lenient mode, i.e.
+	 * any unmatched taxon record will simply be ignored.
+	 * @param tr the taxon record to match
+	 * @param epithets the epithets to match against
+	 * @param fromEpithet the index of the first epithet in the array to match
+	 *            (inclusive)
+	 * @param staleTaxonMode how to handle taxon records that occur in the
+	 *            path to the genus in between two other taxon records matching
+	 *            adjacent epithets?
+	 * @param prefixMatch allow prefix matches (false means exact match)
+	 * @param caseSensitive match case sensitive?
+	 * @return true if the argument taxon record matches the (indicated portion
+	 *            of) argument array of epithets
+	 */
+	public static boolean matchesEpithetPrefix(TaxonRecord tr, String[] epithets, int fromEpithet, char staleTaxonMode, boolean prefixMatch, boolean caseSensitive) {
 		return matchesEpithetPrefix(tr, epithets, fromEpithet, epithets.length, staleTaxonMode, caseSensitive);
 	}
 	
@@ -2498,6 +2537,41 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 	 *            of) argument array of epithets
 	 */
 	public static boolean matchesEpithetPrefix(TaxonRecord tr, String[] epithets, int fromEpithet, int toEpithet, char staleTaxonMode, boolean caseSensitive) {
+		return matchesEpithetPrefix(tr, epithets, fromEpithet, toEpithet, staleTaxonMode, false, caseSensitive);
+	}
+	
+	/**
+	 * Check if a taxon record and its parents up to the genus match the
+	 * epithets of a multi-nomial. The first epithet in the argument array
+	 * is expected to be the genus. If the argument taxon record is a synonym
+	 * and has its original parent epithets as a string (because they differ
+	 * from the parents of the linked valid taxon), this method matches against
+	 * that string; otherwise, it matches against the parent records of the
+	 * argument taxon record. In the latter case, the
+	 * <code>staleRecordMode</code> controls how to handle taxon records that
+	 * occur in the path from the argument taxon record (or its linked valid
+	 * taxon) up to the genus in between two other taxon records matching
+	 * adjacent epithets: <code>S</code> indicates strict mode, i.e. all taxon
+	 * records in the path must match an epithet in the argument array;
+	 * <code>I</code> indicates tolerance for unmatched intermediate-rank taxon
+	 * records, e.g. a subgenus present in the taxon record tree, but not in
+	 * the argument epithet array; <code>L</code> indicates lenient mode, i.e.
+	 * any unmatched taxon record will simply be ignored.
+	 * @param tr the taxon record to match
+	 * @param epithets the epithets to match against
+	 * @param fromEpithet the index of the first epithet in the array to match
+	 *            (inclusive)
+	 * @param toEpithet the index of the last epithet in the array to match
+	 *            (exclusive)
+	 * @param staleTaxonMode how to handle taxon records that occur in the
+	 *            path to the genus in between two other taxon records matching
+	 *            adjacent epithets?
+	 * @param prefixMatch allow prefix matches (false means exact match)
+	 * @param caseSensitive match case sensitive?
+	 * @return true if the argument taxon record matches the (indicated portion
+	 *            of) argument array of epithets
+	 */
+	public static boolean matchesEpithetPrefix(TaxonRecord tr, String[] epithets, int fromEpithet, int toEpithet, char staleTaxonMode, boolean prefixMatch, boolean caseSensitive) {
 		
 		//	only checking beyond end of epithets
 		if (epithets.length <= fromEpithet)
@@ -2511,10 +2585,13 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 		
 		//	match most significant epithet against taxon record proper
 		if (toEpithet >= epithets.length) {
-			String trEpithet = tr.getEpithet();
-			if (epithets[toEpithet].equals(trEpithet))
-				toEpithet = (epithets.length - 1);
-			else if (!caseSensitive && epithets[epithets.length - 1].equalsIgnoreCase(trEpithet))
+//			String trEpithet = tr.getEpithet();
+//			if (epithets[epithets.length - 1].equals(trEpithet))
+//				toEpithet = (epithets.length - 1);
+//			else if (!caseSensitive && epithets[epithets.length - 1].equalsIgnoreCase(trEpithet))
+//				toEpithet = (epithets.length - 1);
+//			else return false;
+			if (matches(tr.getEpithet(), epithets[epithets.length - 1], prefixMatch, caseSensitive))
 				toEpithet = (epithets.length - 1);
 			else return false;
 		}
@@ -2560,7 +2637,11 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 				
 				//	match current epithet against current taxon record
 				String trEpithet = tile.getEpithet(pTrId);
-				if (caseSensitive ? trEpithet.equalsIgnoreCase(epithets[e]) : trEpithet.equals(epithets[e])) /* match */ {
+//				if (caseSensitive ? trEpithet.equalsIgnoreCase(epithets[e]) : trEpithet.equals(epithets[e])) /* match */ {
+//					if (tile.getRankByte(pTrId) == speciesRankLevel)
+//						needSpeciesMatch = false;
+//				}
+				if (matches(trEpithet, epithets[e], prefixMatch, caseSensitive)) /* match */ {
 					if (tile.getRankByte(pTrId) == speciesRankLevel)
 						needSpeciesMatch = false;
 				}
@@ -2582,12 +2663,16 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 				//	match current epithet against current end of original prefix
 				if (originalParent.equals(epithets[e]))
 					originalParent = ""; // expended it all, no need for truncating
+				else if (prefixMatch && originalParent.startsWith(epithets[e])) // we have a match somewhere further to the left, truncate matched epithet and what comes after it
+					originalParent = ""; // expended it all, no need for truncating
 				else if (originalParent.endsWith(" " + epithets[e])) // we have a suffix match, truncate matched epithet
 					originalParent = originalParent.substring(0, (originalParent.length() - " ".length() - epithets[e].length())).trim();
 				else if (staleTaxonMode == STALE_TAXON_MODE_STRICT) // cannot ignore mismatch in strict mode
 					return false;
 				else if (originalParent.lastIndexOf(" " + epithets[e] + " ") != -1) // we have a match somewhere further to the left, truncate matched epithet and what comes after it
 					originalParent = originalParent.substring(0, originalParent.lastIndexOf(" " + epithets[e] + " ")).trim();
+				else if (prefixMatch && (originalParent.lastIndexOf(" " + epithets[e]) != -1)) // we have a match somewhere further to the left, truncate matched epithet and what comes after it
+					originalParent = originalParent.substring(0, originalParent.lastIndexOf(" " + epithets[e])).trim();
 				else if (originalParent.startsWith(epithets[e] + " ")) {// we have a match at the start, truncate matched epithet and what comes after it
 					if (needSpeciesMatch || (e != 0)) // last possible match right at start, has to be genus for match
 						return false;
@@ -2633,6 +2718,17 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 		
 		//	got all we needed, or didn't get far enough to the left to know for sure if anything is missing
 		return true;
+	}
+	private static boolean matches(String str, String query, boolean prefixMatch, boolean caseSensitive) {
+		if (query.equals(str))
+			return true;
+		if (!caseSensitive && query.equalsIgnoreCase(str))
+			return true;
+		if (prefixMatch && str.startsWith(query))
+			return true;
+		if (prefixMatch && !caseSensitive && str.toLowerCase().startsWith(query.toLowerCase()))
+			return true;
+		return false;
 	}
 	
 	/**

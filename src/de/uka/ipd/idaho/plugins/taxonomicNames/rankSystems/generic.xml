@@ -1,4 +1,4 @@
-<rankSystem name="generic" code="NONE" domain="Biology">
+<rankSystem name="generic" code="NONE" domain="Biology" hybrids="true">
 	<rankGroup name="domain">
 		<rank name="domain" abbreviations="dom."/>
 	</rankGroup>

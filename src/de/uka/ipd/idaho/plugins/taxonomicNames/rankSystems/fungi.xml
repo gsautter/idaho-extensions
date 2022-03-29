@@ -1,4 +1,4 @@
-<rankSystem name="fungi" code="ICN" domain="Mycology">
+<rankSystem name="fungi" code="ICN" domain="Mycology" hybrids="true">
 	<rankGroup name="domain">
 		<rank name="domain" abbreviations="dom."/>
 	</rankGroup>

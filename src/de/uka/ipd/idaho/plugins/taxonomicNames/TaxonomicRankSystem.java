@@ -60,13 +60,17 @@ public class TaxonomicRankSystem {
 	/** the taxonomic domain the rank system belongs to (e.g. 'Zoology' or 'Botany') */
 	public final String domain;
 	
+	/** does the nomenclatorial code represented by the rank system allow hybrids? */
+	public final boolean allowsHybrids;
+	
 	ArrayList rankGroups = new ArrayList();
 	ArrayList ranks = new ArrayList();
 	
-	TaxonomicRankSystem(String name, String code, String domain) {
+	TaxonomicRankSystem(String name, String code, String domain, boolean allowsHybrids) {
 		this.name = name;
 		this.code = code;
 		this.domain = domain;
+		this.allowsHybrids = allowsHybrids;
 	}
 	
 	/**
@@ -476,8 +480,9 @@ public class TaxonomicRankSystem {
 							String name = tnas.getAttribute("name");
 							String code = tnas.getAttribute("code");
 							String domain = tnas.getAttribute("domain");
+							boolean allowsHybrids = "true".equalsIgnoreCase(tnas.getAttribute("hybrids", "false"));
 							if ((name != null) && (code != null) && (domain != null))
-								trsl[0] = new TaxonomicRankSystem(name, code, domain);
+								trsl[0] = new TaxonomicRankSystem(name, code, domain, allowsHybrids);
 						}
 					}
 					else { /* not exactly sure we need this right now ... */ }

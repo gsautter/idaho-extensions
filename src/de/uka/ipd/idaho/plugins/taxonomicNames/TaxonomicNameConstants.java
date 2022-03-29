@@ -73,28 +73,31 @@ public interface TaxonomicNameConstants extends LiteratureConstants {
 	/** attribute for storing the status a taxonomic name has in a specific usage in a document, e.g. 'spec. nov.', namely 'status' */
 	public static final String TAXONOMIC_NAME_STATUS_ATTRIBUTE = "status";
 	
+	/** attribute for marking a taxonomic name as a hybrid species, namely 'isHybrid' */
+	public static final String HYBRID_MARKER_ATTRIBUTE = "isHybrid";
+	
 	public static final String DOMAIN_ATTRIBUTE = "domain";
-
+	
 	public static final String SUPERKINGDOM_ATTRIBUTE = "superKingdom";
 	public static final String KINGDOM_ATTRIBUTE = "kingdom";
 	public static final String SUBKINGDOM_ATTRIBUTE = "subKingdom";
 	public static final String INFRAKINGDOM_ATTRIBUTE = "infraKingdom";
-
+	
 	public static final String SUPERPHYLUM_ATTRIBUTE = "superPhylum";
 	public static final String PHYLUM_ATTRIBUTE = "phylum";
 	public static final String SUBPHYLUM_ATTRIBUTE = "subPhylum";
 	public static final String INFRAPHYLUM_ATTRIBUTE = "infraPhylum";
-
+	
 	public static final String SUPERCLASS_ATTRIBUTE = "superClass";
 	public static final String CLASS_ATTRIBUTE = "class";
 	public static final String SUBCLASS_ATTRIBUTE = "subClass";
 	public static final String INFRACLASS_ATTRIBUTE = "infraClass";
-
+	
 	public static final String SUPERORDER_ATTRIBUTE = "superOrder";
 	public static final String ORDER_ATTRIBUTE = "order";
 	public static final String SUBORDER_ATTRIBUTE = "subOrder";
 	public static final String INFRAORDER_ATTRIBUTE = "infraOrder";
-
+	
 	public static final String SUPERFAMILY_ATTRIBUTE = "superFamily";
 	public static final String FAMILY_ATTRIBUTE = "family";
 	public static final String SUBFAMILY_ATTRIBUTE = "subFamily";
@@ -103,7 +106,7 @@ public interface TaxonomicNameConstants extends LiteratureConstants {
 	public static final String TRIBE_ATTRIBUTE = "tribe";
 	public static final String SUBTRIBE_ATTRIBUTE = "subTribe";
 	public static final String INFRATRIBE_ATTRIBUTE = "infraTribe";
-
+	
 	public static final String GENUS_ATTRIBUTE = "genus";
 	public static final String SUBGENUS_ATTRIBUTE = "subGenus";
 	public static final String INFRAGENUS_ATTRIBUTE = "infraGenus";
@@ -111,7 +114,7 @@ public interface TaxonomicNameConstants extends LiteratureConstants {
 	public static final String SUBSECTION_ATTRIBUTE = "subSection";
 	public static final String SERIES_ATTRIBUTE = "series";
 	public static final String SUBSERIES_ATTRIBUTE = "subSeries";
-
+	
 	public static final String SPECIESAGGREGATE_ATTRIBUTE = "speciesAggregate";
 	public static final String SPECIES_ATTRIBUTE = "species";
 	public static final String SUBSPECIES_ATTRIBUTE = "subSpecies";

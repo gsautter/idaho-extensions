@@ -1,4 +1,4 @@
-<rankSystem name="algae" code="ICN" domain="Phycology">
+<rankSystem name="algae" code="ICN" domain="Phycology" hybrids="true">
 	<rankGroup name="domain">
 		<rank name="domain" abbreviations="dom."/>
 	</rankGroup>

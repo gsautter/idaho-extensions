@@ -64,6 +64,9 @@ public interface MaterialsCitationConstants extends LocationConstants {
 	/** the attribute name for attributing the collecting event with the name of the actual collecting location */
 	public static final String LOCATION_NAME_ATTRIBUTE = "location";
 	
+	/** the attribute holding the numerical depth of a collecting event in a respective annotation (e.g. the depth below a water surface) */
+	public static final String DEPTH_ATTRIBUTE = "depth";
+	
 	/** the annotation type for marking a collection code within a collecting event, at the same time the attribute name for attributing the collecting event with the collection code */
 	public static final String COLLECTION_CODE = "collectionCode";
 	
