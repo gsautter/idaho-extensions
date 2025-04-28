@@ -1149,6 +1149,19 @@ public class Imaging {
 			}
 		};
 		points.add(new Point(c, r));
+		/*
+TODO use short+short coordinates in region coloring ...
+... store as single int = short+short array ...
+... and use shifts and bit masking to combine and splice data
+- addPoint(int x, int y):
+  - range check for 0-0x0000FFFF
+  - shift x to left and add y
+    ==> should accommodate every realistic image for while
+- getPoint(int index) --> int (return raw point)
+- getX(int index) --> int (extract x)
+- getY(int index) --> int (extract y)
+==> way faster, and less memory intensive
+		 */
 		
 		int regionSize = 0;
 		for (int p = 0; p < points.size(); p++) {

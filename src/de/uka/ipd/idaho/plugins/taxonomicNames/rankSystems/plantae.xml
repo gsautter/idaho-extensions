@@ -15,10 +15,10 @@
 		<rank name="infraPhylum" abbreviations="infraphyl."/>
 	</rankGroup>
 	<rankGroup name="class">
-		<rank name="superClass" abbreviations="supercl." synonyms="superClassis"/>
-		<rank name="class" abbreviations="cl." suffix="opsida" synonyms="classis"/>
-		<rank name="subClass" abbreviations="subcl." suffix="idae" synonyms="subClassis"/>
-		<rank name="infraClass" abbreviations="infracl." synonyms="infraClassis"/>
+		<rank name="superClass" abbreviations="supercl.;superclas." synonyms="superClassis"/>
+		<rank name="class" abbreviations="cl.;clas." synonyms="classis"/>
+		<rank name="subClass" abbreviations="subcl.;subclas." synonyms="subClassis"/>
+		<rank name="infraClass" abbreviations="infracl.;infraclas." synonyms="infraClassis"/>
 	</rankGroup>
 	<rankGroup name="order">
 		<rank name="superOrder" abbreviations="superord." suffix="anae" synonyms="superOrdo"/>

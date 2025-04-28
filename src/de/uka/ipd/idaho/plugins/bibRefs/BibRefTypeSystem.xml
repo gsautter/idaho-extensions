@@ -10,6 +10,7 @@
 		<constraint exclude="volume issue numero" message="Books don't have a volume, issue, or numero."/>
 		<constraint exclude="volumeTitle" message="Books don't have a volume title."/>
 		<constraint exclude="editor" message="Books don't have editors, make them authors."/>
+		<constraint exclude="accessDate" message="Books don't have an access date, even if they are available from a URL."/>
 		<constraint condition="(./@pubDate and not(matches(./@pubDate, '[12][0-9]{3}\-((0[1-9])|(1[0-2]))\-((0[1-9])|([12][0-9])|(3[01]))')))" message="If specified, publication date has to be 'YYYY-MM-DD'."/>
 		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9]{3}\-(04|06|09|11)\-31'))" message="April, June, September, and November only have 30 days."/>
 		<constraint condition="(./@pubDate and matches(./@pubDate, '[12][0-9]{3}\-02\-(30|31)'))" message="February only has 28 days."/>
@@ -239,11 +240,11 @@
 		<constraint exclude="pagination" message="URLs don't have a pagination."/>
 		<constraint exclude="editor" message="URLs don't have editors."/>
 		<constraint exclude="volumeTitle" message="URLs don't have a volume title."/>
-		<constraint exclude="location" message="URLs don't have a location."/>
 		<constraint exclude="journal" message="URLs don't have a journal name."/>
 		<constraint exclude="seriesInJournal" message="URLs don't have a series within a journal."/>
 		<constraint exclude="volume issue numero" message="URLs don't have a volume, issue, or numero."/>
 		<!--constraint exclude="publisher" message="URLs don't have a publisher."/-->
+		<!--constraint exclude="location" message="URLs don't have a location."/-->
 		<!--constraint exclude="journalOrPublisher" message="URLs don't have a journal name or publisher."/-->
 		<constraint exclude="bookContentInfo" message="Websites don't have content info."/>
 		<constraint exclude="pubDate" message="Websites don't have a date of publication."/>

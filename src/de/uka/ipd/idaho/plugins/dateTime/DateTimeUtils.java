@@ -179,7 +179,7 @@ public class DateTimeUtils {
 	
 	/**
 	 * Convert an ISO date in <code>YYYY-MM-DD</code> format into a UTC
-	 * timestamp. if the argument string does not match this format, this
+	 * timestamp. If the argument string does not match this format, this
 	 * method returns -1.
 	 * @param date the ISO date to parse
 	 * @return the UTC timestamp

@@ -63,6 +63,7 @@ import javax.swing.JTextPane;
 import javax.swing.UIManager;
 import javax.swing.text.AttributeSet;
 import javax.swing.text.BadLocationException;
+import javax.swing.text.Element;
 import javax.swing.text.SimpleAttributeSet;
 import javax.swing.text.StyleConstants;
 import javax.swing.text.StyledDocument;
@@ -703,7 +704,6 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 			int tokenOffset = 0;
 			String lastTokenValue = null;
 			for (int t = 0; t < this.annotation.size(); t++) {
-//				this.tokens[t] = new AnnotationDetailEditorToken(/*t, */this.annotation.tokenAt(t).getStartOffset(), ((t == 0) ? "" : this.annotation.getWhitespaceAfter(t-1)), this.annotation.valueAt(t));
 				String tokenValue = this.annotation.valueAt(t);
 				String tokenSpace = getTokenSpace(lastTokenValue, ((t == 0) ? "" : this.annotation.getWhitespaceAfter(t-1)), tokenValue);
 				tokenOffset += tokenSpace.length();
@@ -763,6 +763,10 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 		
 		void applySpans(boolean tooMuch) {
 			
+			//	get actual font size in case of difference from font size defined in text style
+			int dfs = this.getDefinedFontSize();
+			int afs = this.getActualFontSize();
+			
 			//	reset highlights
 			this.annotationDisplayDocument.setCharacterAttributes(0, this.annotationDisplayDocument.getLength(), noTypeStyle, true);
 			
@@ -787,6 +791,15 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 					ble.printStackTrace(System.out);
 				}
 			
+			//	change defined font size to actual font size if different
+			if ((dfs < 1) || (afs < 1)) {}
+			else if (dfs == afs) {}
+			else {
+				SimpleAttributeSet sas = new SimpleAttributeSet();
+				sas.addAttribute(StyleConstants.FontConstants.Size, new Integer(afs));
+				this.annotationDisplayDocument.setCharacterAttributes(0, this.annotationDisplayDocument.getLength(), sas, false);
+			}
+			
 			//	highlight annotated tokens
 			for (int t = 0; t < this.tokens.length; t++) {
 				if (this.tokens[t].type == null)
@@ -808,6 +821,22 @@ public class AnnotationEditorFeedbackPanel extends FeedbackPanel {
 				annotationLinePanel.revalidate();
 				annotationLinePanel.repaint();
 			}
+		}
+		private int getDefinedFontSize() {
+			if (!textStyle.isDefined(StyleConstants.FontConstants.Size))
+				return -1;
+			Object fs = textStyle.getAttribute(StyleConstants.FontConstants.Size);
+			return ((fs instanceof Number) ? ((Number) fs).intValue() : -1);
+		}
+		private int getActualFontSize() {
+			Element e = this.annotationDisplayDocument.getCharacterElement(0);
+			if (e == null)
+				return -1;
+			AttributeSet as = e.getAttributes();
+			if (!as.isDefined(StyleConstants.FontConstants.Size))
+				return -1;
+			Object fs = as.getAttribute(StyleConstants.FontConstants.Size);
+			return ((fs instanceof Number) ? ((Number) fs).intValue() : -1);
 		}
 		
 		int indexAtOffset(int offset, boolean isStart) {

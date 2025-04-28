@@ -27,18 +27,17 @@
  */
 package de.uka.ipd.idaho.plugins.taxonomicNames;
 
-import java.io.StringReader;
 import java.util.Iterator;
 import java.util.Properties;
+import java.util.TreeMap;
+import java.util.TreeSet;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import de.uka.ipd.idaho.gamta.Annotation;
 import de.uka.ipd.idaho.gamta.AnnotationUtils;
-import de.uka.ipd.idaho.gamta.MutableAnnotation;
 import de.uka.ipd.idaho.gamta.QueriableAnnotation;
 import de.uka.ipd.idaho.gamta.TokenSequenceUtils;
-import de.uka.ipd.idaho.gamta.util.SgmlDocumentReader;
 import de.uka.ipd.idaho.plugins.taxonomicNames.TaxonomicRankSystem.Rank;
 
 /**
@@ -785,14 +784,32 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		String mostSigEpithet = taxonName.getEpithet(rank);
 		if (mostSigEpithet == null)
 			return null; // whatever might be wrong here ...
-		int authorityStartIndex = (TokenSequenceUtils.indexOf(taxonNameAnnot, mostSigEpithet, false) + 1);
-		if (authorityStartIndex < 1)
+//		int authorityStartIndex = (TokenSequenceUtils.lastIndexOf(taxonNameAnnot, mostSigEpithet, false) + 1);
+//		if (authorityStartIndex < 1)
+//			return null; // most significant epithet not found, little we can do ...
+		int minAuthorityStartIndex = (TokenSequenceUtils.indexOf(taxonNameAnnot, mostSigEpithet, false) + 1);
+		if (minAuthorityStartIndex < 1)
 			return null; // most significant epithet not found, little we can do ...
+		int maxAuthorityStartIndex = (TokenSequenceUtils.lastIndexOf(taxonNameAnnot, mostSigEpithet, false) + 1);
+		int authorityStartIndex;
+		if (minAuthorityStartIndex == maxAuthorityStartIndex)
+			authorityStartIndex = minAuthorityStartIndex; // unambiguous
+		else if (GENUS_ATTRIBUTE.equals(rank))
+			authorityStartIndex = minAuthorityStartIndex; // only one epithet
+		else if (SUBGENUS_ATTRIBUTE.equals(rank) && mostSigEpithet.equals(taxonName.getEpithet(GENUS_ATTRIBUTE)))
+			authorityStartIndex = maxAuthorityStartIndex; // subgenus with name matching parent genus
+		else if (SPECIES_ATTRIBUTE.equals(rank) && mostSigEpithet.equalsIgnoreCase(taxonName.getEpithet(GENUS_ATTRIBUTE)))
+			authorityStartIndex = maxAuthorityStartIndex; // species with name matching parent genus
+		else if (SUBSPECIES_ATTRIBUTE.equals(rank) && mostSigEpithet.equals(taxonName.getEpithet(SPECIES_ATTRIBUTE)))
+			authorityStartIndex = maxAuthorityStartIndex; // subspecies matching rank of parent species
+		else authorityStartIndex = minAuthorityStartIndex; // anything else
 		if (authorityStartIndex == taxonNameAnnot.size())
 			return null; // most significant epithet at very end, no authority given
 		String verbatimAuthority = TokenSequenceUtils.concatTokens(taxonNameAnnot, authorityStartIndex, (taxonNameAnnot.size() - authorityStartIndex), true, true);
 		while (verbatimAuthority.startsWith(")") || verbatimAuthority.startsWith("]"))
 			verbatimAuthority = verbatimAuthority.substring(")".length()).trim(); // eliminate any leading _closing_ parentheses (can remain from subGenus, section, or subSection epithet ...
+		if (verbatimAuthority.length() == 0)
+			return null;
 		verbatimAuthority = verbatimAuthority.replaceAll("\\(\\s+", "(");
 		verbatimAuthority = verbatimAuthority.replaceAll("\\s+\\)", ")");
 		return verbatimAuthority;
@@ -951,6 +968,8 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 	private static String truncatePunctuation(String authority) {
 		while (authority.startsWith("(")) // starting parenthesis of basionym authority
 			authority = authority.substring("(".length()).trim();
+		while (authority.startsWith("[")) // starting parenthesis of basionym authority in special cases
+			authority = authority.substring("[".length()).trim();
 		while (authority.endsWith("(")) // end of '<name> (<year>)' authority after cropping year
 			authority = authority.substring(0, (authority.length() - "(".length())).trim();
 		while (authority.endsWith("[")) // end of '<name> [<year>]' authority after cropping year
@@ -959,7 +978,7 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 			authority = authority.substring(0, (authority.length() - ",".length())).trim();
 		while (authority.endsWith(")")) // end of '<name> (<year>)' authority or basionym authority
 			authority = authority.substring(0, (authority.length() - ")".length())).trim();
-		while (authority.endsWith("]")) // end of '<name> [<year>]' authority
+		while (authority.endsWith("]")) // end of '<name> [<year>]' authority or basionym authority in special cases
 			authority = authority.substring(0, (authority.length() - "]".length())).trim();
 		return authority;
 	}
@@ -978,40 +997,115 @@ public class TaxonomicNameUtils implements TaxonomicNameConstants {
 		return parenthesisDepths;
 	}
 	
-	//	TEST ONLY !!!
-	public static void main(String[] args) throws Exception {
-//		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis (Clement, 1924)</taxonomicName>"));
-		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis (Clement) 1924</taxonomicName>"));
-//		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis Clement, 1924</taxonomicName>"));
-//		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis Clement (1924)</taxonomicName>"));
-//		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis (Clement, 1924) Agosti, 2017</taxonomicName>"));
-//		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis (Clement, 1924) Agosti (2017)</taxonomicName>"));
-//		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis (Clement (1924)) Agosti (2017)</taxonomicName>"));
-//		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis (Imag &amp; Inary ex Clement (1924)) Agosti (2017)</taxonomicName>"));
-		Annotation taxonName = doc.getAnnotations(TAXONOMIC_NAME_ANNOTATION_TYPE)[0];
-		System.out.println(getVerbatimAuthority(null, taxonName));
-		System.out.println(getCombinationAuthority(null, taxonName));
-		System.out.println(" ==> " + parseAuthority(getCombinationAuthority(null, taxonName)));
-		System.out.println(getBasionymAuthority(null, taxonName));
-		System.out.println(" ==> " + parseAuthority(getBasionymAuthority(null, taxonName)));
-		
-//		TaxonomicName taxName = new TaxonomicName("animalia");
-//		taxName.setEpithet("genus", "Drosiphila");
-//		taxName.setEpithet("subGenus", "Morrisia");
-//		taxName.setEpithet("species", "melanogaster");
-//		taxName.setEpithet("subSpecies", "agostii");
-//		taxName.setAuthority("Sautter", 2013);
-//		System.out.println(taxName.toString());
-//		System.out.println(taxName.toString(true));
-//		String dwcXml = toDwcXml(taxName);
-//		System.out.println(dwcXml);
-//		taxName = dwcXmlToTaxonomicName(SgmlDocumentReader.readDocument(new StringReader(dwcXml)), "animalia"); 
-//		System.out.println(taxName.toString());
-//		System.out.println(taxName.toString(true));
-//		dwcXml = toSimpleDwcXml(taxName);
-//		System.out.println(dwcXml);
-//		taxName = dwcXmlToTaxonomicName(SgmlDocumentReader.readDocument(new StringReader(dwcXml)), "animalia"); 
-//		System.out.println(taxName.toString());
-//		System.out.println(taxName.toString(true));
+	private static final TreeMap ranksToLevels = new TreeMap(String.CASE_INSENSITIVE_ORDER);
+	private static final TreeSet primaryRanks = new TreeSet(String.CASE_INSENSITIVE_ORDER);
+	private static final int[] primaryRankLevels;
+	static {
+		for (int r = 0; r < rankNames.length; r++)
+			ranksToLevels.put(rankNames[r], new Integer(r));
+		primaryRankLevels = new int[primaryRankNames.length];
+		for (int r = 0; r < primaryRankNames.length; r++) {
+			primaryRanks.add(primaryRankNames[r]);
+			primaryRankLevels[r] = getRankLevel(primaryRankNames[r]);
+		}
 	}
+	
+	/**
+	 * Obtain the level (or relative significance) of a rank with a given name,
+	 * mainly to simplify comparison. Lower numbers indicate ranks further up
+	 * the hierarchy. Lookups are case insensitive. If the argument rank name
+	 * is unknown, this method returns -1.
+	 * @param rank the name of the rank to check
+	 * @return the level of the specified rank
+	 */
+	public static int getRankLevel(String rank) {
+		Integer rankLevel = ((rank == null) ? null : ((Integer) ranksToLevels.get(rank)));
+		return ((rankLevel == null) ? -1 : rankLevel.intValue());
+	}
+	
+	/**
+	 * Check if a rank with a given name is a primary rank. If the argument
+	 * rank name is null, this method simply returns false.
+	 * @param rank the name of the rank to check
+	 * @return true if the rank with the argument name is a primary rank
+	 */
+	public static boolean isPrimaryRank(String rank) {
+		return ((rank != null) && primaryRanks.contains(rank));
+	}
+	
+	/**
+	 * Obtain the name of the next primary rank above the rank with a given
+	 * name. If the rank with the argument name is a primary rank itself, this
+	 * method returns the name of the next higher primary rank. If the argument
+	 * rank name is unknown, this method returns null.
+	 * @param rank the name of the rank to obtain the primary parent rank for
+	 * @return the primary parent rank
+	 */
+	public static String getPrimaryParentRank(String rank) {
+		int rankLevel = getRankLevel(rank);
+		if (rankLevel == -1)
+			return null;
+		for (int r = (primaryRankLevels.length - 1); r >= 0; r--) {
+			if (primaryRankLevels[r] < rankLevel)
+				return primaryRankNames[r];
+		}
+		return null;
+	}
+	
+	/**
+	 * Obtain the name of the next primary rank below the rank with a given
+	 * name. If the rank with the argument name is a primary rank itself, this
+	 * method returns the name of the next lower primary rank. If the argument
+	 * rank name is unknown, this method returns null.
+	 * @param rank the name of the rank to obtain the primary child rank for
+	 * @return the primary child rank
+	 */
+	public static String getPrimaryChildRank(String rank) {
+		int rankLevel = getRankLevel(rank);
+		if (rankLevel == -1)
+			return null;
+		for (int r = 0; r < primaryRankLevels.length; r++) {
+			if (rankLevel < primaryRankLevels[r])
+				return primaryRankNames[r];
+		}
+		return null;
+	}
+//	
+//	//	TEST ONLY !!!
+//	public static void main(String[] args) throws Exception {
+////		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis (Clement, 1924)</taxonomicName>"));
+////		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis (Clement) 1924</taxonomicName>"));
+////		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis Clement, 1924</taxonomicName>"));
+////		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis Clement (1924)</taxonomicName>"));
+////		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis (Clement, 1924) Agosti, 2017</taxonomicName>"));
+////		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis (Clement, 1924) Agosti (2017)</taxonomicName>"));
+////		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis (Clement (1924)) Agosti (2017)</taxonomicName>"));
+////		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName authority=\"(Clement, 1924)\" authorityName=\"Clement\" authorityYear=\"1924\" class=\"Insecta\" family=\"Ichneumonidae\" genus=\"Rhimphoctona\" kingdom=\"Animalia\" lsidName=\"Rhimphoctona (Xylophylax) rufocoxalis\" order=\"Hymenoptera\" pageId=\"0\" pageNumber=\"1047\" phylum=\"Arthropoda\" rank=\"species\" species=\"rufocoxalis\" subGenus=\"Xylophylax\">Rhimphoctona (Xylophylax) rufocoxalis (Imag &amp; Inary ex Clement (1924)) Agosti (2017)</taxonomicName>"));
+//		MutableAnnotation doc = SgmlDocumentReader.readDocument(new StringReader("<taxonomicName class=\"Mammalia\" family=\"Humanoidae\" genus=\"Homo\" kingdom=\"Animalia\" order=\"Primates\" phylum=\"Chordata\" rank=\"ssubSpecies\" species=\"sapiens\" subSpecies=\"sapiens\" >Homo sapiens subsp. sapiens Linnaeus, 1758</taxonomicName>"));
+//		Annotation taxonName = doc.getAnnotations(TAXONOMIC_NAME_ANNOTATION_TYPE)[0];
+//		System.out.println(getVerbatimAuthority(null, taxonName));
+//		System.out.println(getCombinationAuthority(null, taxonName));
+//		System.out.println(" ==> " + parseAuthority(getCombinationAuthority(null, taxonName)));
+//		System.out.println(getBasionymAuthority(null, taxonName));
+//		System.out.println(" ==> " + parseAuthority(getBasionymAuthority(null, taxonName)));
+//		
+////		TaxonomicName taxName = new TaxonomicName("animalia");
+////		taxName.setEpithet("genus", "Drosiphila");
+////		taxName.setEpithet("subGenus", "Morrisia");
+////		taxName.setEpithet("species", "melanogaster");
+////		taxName.setEpithet("subSpecies", "agostii");
+////		taxName.setAuthority("Sautter", 2013);
+////		System.out.println(taxName.toString());
+////		System.out.println(taxName.toString(true));
+////		String dwcXml = toDwcXml(taxName);
+////		System.out.println(dwcXml);
+////		taxName = dwcXmlToTaxonomicName(SgmlDocumentReader.readDocument(new StringReader(dwcXml)), "animalia"); 
+////		System.out.println(taxName.toString());
+////		System.out.println(taxName.toString(true));
+////		dwcXml = toSimpleDwcXml(taxName);
+////		System.out.println(dwcXml);
+////		taxName = dwcXmlToTaxonomicName(SgmlDocumentReader.readDocument(new StringReader(dwcXml)), "animalia"); 
+////		System.out.println(taxName.toString());
+////		System.out.println(taxName.toString(true));
+//	}
 }

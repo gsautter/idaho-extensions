@@ -82,21 +82,25 @@ public interface TaxonomicNameConstants extends LiteratureConstants {
 	public static final String KINGDOM_ATTRIBUTE = "kingdom";
 	public static final String SUBKINGDOM_ATTRIBUTE = "subKingdom";
 	public static final String INFRAKINGDOM_ATTRIBUTE = "infraKingdom";
+	public static final String PARVKINGDOM_ATTRIBUTE = "parvKingdom";
 	
 	public static final String SUPERPHYLUM_ATTRIBUTE = "superPhylum";
 	public static final String PHYLUM_ATTRIBUTE = "phylum";
 	public static final String SUBPHYLUM_ATTRIBUTE = "subPhylum";
 	public static final String INFRAPHYLUM_ATTRIBUTE = "infraPhylum";
+	public static final String PARVPHYLUM_ATTRIBUTE = "parvPhylum";
 	
 	public static final String SUPERCLASS_ATTRIBUTE = "superClass";
 	public static final String CLASS_ATTRIBUTE = "class";
 	public static final String SUBCLASS_ATTRIBUTE = "subClass";
 	public static final String INFRACLASS_ATTRIBUTE = "infraClass";
+	public static final String PARVCLASS_ATTRIBUTE = "parvClass";
 	
 	public static final String SUPERORDER_ATTRIBUTE = "superOrder";
 	public static final String ORDER_ATTRIBUTE = "order";
 	public static final String SUBORDER_ATTRIBUTE = "subOrder";
 	public static final String INFRAORDER_ATTRIBUTE = "infraOrder";
+	public static final String PARVORDER_ATTRIBUTE = "parvOrder";
 	
 	public static final String SUPERFAMILY_ATTRIBUTE = "superFamily";
 	public static final String FAMILY_ATTRIBUTE = "family";
@@ -123,4 +127,70 @@ public interface TaxonomicNameConstants extends LiteratureConstants {
 	public static final String SUBVARIETY_ATTRIBUTE = "subVariety";
 	public static final String FORM_ATTRIBUTE = "form";
 	public static final String SUBFORM_ATTRIBUTE = "subForm";
+	
+	/** array holding the names of the primary ranks */
+	public static final String[] primaryRankNames = {
+		KINGDOM_ATTRIBUTE,
+		PHYLUM_ATTRIBUTE,
+		CLASS_ATTRIBUTE,
+		ORDER_ATTRIBUTE,
+		FAMILY_ATTRIBUTE,
+		GENUS_ATTRIBUTE,
+		SPECIES_ATTRIBUTE
+	};
+	
+	/** array holding the names of all the ranks this interface provides name constants for */
+	public static final String[] rankNames = {
+		DOMAIN_ATTRIBUTE,
+		
+		SUPERKINGDOM_ATTRIBUTE,
+		KINGDOM_ATTRIBUTE,
+		SUBKINGDOM_ATTRIBUTE,
+		INFRAKINGDOM_ATTRIBUTE,
+		PARVKINGDOM_ATTRIBUTE,
+		
+		SUPERPHYLUM_ATTRIBUTE,
+		PHYLUM_ATTRIBUTE,
+		SUBPHYLUM_ATTRIBUTE,
+		INFRAPHYLUM_ATTRIBUTE,
+		PARVPHYLUM_ATTRIBUTE,
+		
+		SUPERCLASS_ATTRIBUTE,
+		CLASS_ATTRIBUTE,
+		SUBCLASS_ATTRIBUTE,
+		INFRACLASS_ATTRIBUTE,
+		PARVCLASS_ATTRIBUTE,
+		
+		SUPERORDER_ATTRIBUTE,
+		ORDER_ATTRIBUTE,
+		SUBORDER_ATTRIBUTE,
+		INFRAORDER_ATTRIBUTE,
+		PARVORDER_ATTRIBUTE,
+		
+		SUPERFAMILY_ATTRIBUTE,
+		FAMILY_ATTRIBUTE,
+		SUBFAMILY_ATTRIBUTE,
+		INFRAFAMILY_ATTRIBUTE,
+		SUPERTRIBE_ATTRIBUTE,
+		TRIBE_ATTRIBUTE,
+		SUBTRIBE_ATTRIBUTE,
+		INFRATRIBE_ATTRIBUTE,
+		
+		GENUS_ATTRIBUTE,
+		SUBGENUS_ATTRIBUTE,
+		INFRAGENUS_ATTRIBUTE,
+		SECTION_ATTRIBUTE,
+		SUBSECTION_ATTRIBUTE,
+		SERIES_ATTRIBUTE,
+		SUBSERIES_ATTRIBUTE,
+		
+		SPECIESAGGREGATE_ATTRIBUTE,
+		SPECIES_ATTRIBUTE,
+		SUBSPECIES_ATTRIBUTE,
+		INFRASPECIES_ATTRIBUTE,
+		VARIETY_ATTRIBUTE,
+		SUBVARIETY_ATTRIBUTE,
+		FORM_ATTRIBUTE,
+		SUBFORM_ATTRIBUTE
+	};
 }

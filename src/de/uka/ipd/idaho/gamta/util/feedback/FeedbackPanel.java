@@ -507,9 +507,9 @@ public abstract class FeedbackPanel extends JPanel implements Scrollable {
 			private static void setComponentFont(JComponent comp, Font font) {
 				if (comp instanceof JTextPane) {
 					StyledDocument sd = ((JTextPane) comp).getStyledDocument();
-					SimpleAttributeSet as = new SimpleAttributeSet();
-					as.addAttribute(StyleConstants.FontConstants.Size, new Integer(font.getSize()));
-					sd.setCharacterAttributes(0, sd.getLength(), as, false);
+					SimpleAttributeSet sas = new SimpleAttributeSet();
+					sas.addAttribute(StyleConstants.FontConstants.Size, new Integer(font.getSize()));
+					sd.setCharacterAttributes(0, sd.getLength(), sas, false);
 				}
 				else comp.setFont(font);
 				

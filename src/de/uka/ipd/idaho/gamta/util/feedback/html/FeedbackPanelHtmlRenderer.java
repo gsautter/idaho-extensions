@@ -37,8 +37,8 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Properties;
 
+import de.uka.ipd.idaho.easyIO.util.ComponentClassLoader.ComponentInitializer;
 import de.uka.ipd.idaho.gamta.util.GamtaClassLoader;
-import de.uka.ipd.idaho.gamta.util.GamtaClassLoader.ComponentInitializer;
 import de.uka.ipd.idaho.gamta.util.feedback.FeedbackPanel;
 import de.uka.ipd.idaho.gamta.util.feedback.html.renderers.AnnotationEditorFeedbackPanelRenderer;
 import de.uka.ipd.idaho.gamta.util.feedback.html.renderers.AssignmentDisambiguationFeedbackPanelRenderer;

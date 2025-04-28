@@ -132,13 +132,13 @@ public class BoundingBox {
 	public int hashCode() {
 		if (this.hashCode == 0) {
 			this.hashCode <<= 8;
-			this.hashCode &= (this.left & 255);
+			this.hashCode &= (this.left & 0xFF);
 			this.hashCode <<= 8;
-			this.hashCode &= (this.right & 255);
+			this.hashCode &= (this.right & 0xFF);
 			this.hashCode <<= 8;
-			this.hashCode &= (this.top & 255);
+			this.hashCode &= (this.top & 0xFF);
 			this.hashCode <<= 8;
-			this.hashCode &= (this.bottom & 255);
+			this.hashCode &= (this.bottom & 0xFF);
 		}
 		return this.hashCode;
 	}

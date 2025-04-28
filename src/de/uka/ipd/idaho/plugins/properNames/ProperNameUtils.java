@@ -557,11 +557,11 @@ public class ProperNameUtils implements NamedEntityConstants {
 		}
 		
 		/**
-		 * Retrieve the dictionary of name infixes to use. First and foremost,
-		 * this concerns person name infixes like 'van', but it also covers the
-		 * stop words found in institution and location names. If this property
-		 * is set to null, the built-in default will be used, mostly covering
-		 * the stop words found in northern and western European person names.
+		 * Set the dictionary of name infixes to use. First and foremost, this
+		 * concerns person name infixes like 'van', but it also covers the stop
+		 * words found in institution and location names. If this property is
+		 * set to null, the built-in default will be used, mostly covering the
+		 * stop words found in northern and western European person names.
 		 * @param nameStopWords the dictionary of name stop words to use
 		 */
 		public void setNameStopWords(Dictionary nameStopWords) {
@@ -710,8 +710,8 @@ public class ProperNameUtils implements NamedEntityConstants {
 		pgd.setParamLabel("namePartOrder", "Overall Order of Name Parts");
 		pgd.setParamDescription("namePartOrder", "The overall order of name parts, i.e., the ordering of last name relative to first name and/or initials.");
 		pgd.setParamValues("namePartOrder", namePartOrders);
-		pgd.setParamValueLabel("namePartOrder", lastNameFirstName, "LastName, FirstName (e.g. 'Kennedy, John F.')");
-		pgd.setParamValueLabel("namePartOrder", lastNameInitials, "LastName, Initials (e.g. 'Kennedy, J.F.')");
+		pgd.setParamValueLabel("namePartOrder", lastNameFirstName, "LastName, FirstName (with a comma, e.g. 'Kennedy, John F.', or also 'Kennedy, J.F.')");
+		pgd.setParamValueLabel("namePartOrder", lastNameInitials, "LastName Initials (without a comma, e.g. 'Kennedy J.F.')");
 		pgd.setParamValueLabel("namePartOrder", firstNameLastName, "FirstName LastName (e.g. 'John F. Kennedy')");
 		pgd.setParamValueLabel("namePartOrder", initialsLastName, "Initials LastName (e.g. 'J.F. Kennedy')");
 	}
@@ -1303,7 +1303,7 @@ public class ProperNameUtils implements NamedEntityConstants {
 		HashSet personNameStrings = new HashSet();
 		
 		//	last name first, initials
-		if ((namePartOrder == null) || (namePartOrder.contains(lastNameFirstName) && firstNamesInitialsOnly)) {
+		if ((namePartOrder == null) || ((namePartOrder.indexOf(lastNameFirstName) != -1) && firstNamesInitialsOnly)) {
 			addPersonNames(tokens, personNameParts, "<lastName> ',' <initials>", false, personNameList, personNameStrings, lastNameFirstName, initialsFirstName);
 			if (affixOnLastName)
 				addPersonNames(tokens, personNameParts, ("<lastName> " + affixMatcher + " ',' <initials>"), false, personNameList, personNameStrings, lastNameFirstName, initialsFirstName);
@@ -1325,7 +1325,7 @@ public class ProperNameUtils implements NamedEntityConstants {
 			}
 			personNameStrings.clear();
 		}
-		if ((namePartOrder == null) || (namePartOrder.contains(lastNameInitials) && firstNamesInitialsOnly)) {
+		if ((namePartOrder == null) || ((namePartOrder.indexOf(lastNameInitials) != -1) && firstNamesInitialsOnly)) {
 			addPersonNames(tokens, personNameParts, "<lastName> <initials>", false, personNameList, personNameStrings, lastNameInitials, initialsFirstName);
 			if (affixOnLastName)
 				addPersonNames(tokens, personNameParts, ("<lastName> " + affixMatcher + " <initials>"), false, personNameList, personNameStrings, lastNameInitials, initialsFirstName);
@@ -1349,7 +1349,7 @@ public class ProperNameUtils implements NamedEntityConstants {
 		}
 		
 		//	last name first, full first name
-		if ((namePartOrder == null) || (namePartOrder.contains(lastNameFirstName) && firstNamesFull)) {
+		if ((namePartOrder == null) || ((namePartOrder.indexOf(lastNameFirstName) != -1) && firstNamesFull)) {
 			addPersonNames(tokens, personNameParts, "<lastName> ',' <firstName>", false, personNameList, personNameStrings, lastNameFirstName, fullFirstName);
 			if (affixOnLastName)
 				addPersonNames(tokens, personNameParts, ("<lastName> " + affixMatcher + " ',' <firstName>"), false, personNameList, personNameStrings, lastNameFirstName, fullFirstName);
@@ -1373,14 +1373,14 @@ public class ProperNameUtils implements NamedEntityConstants {
 		}
 		
 		//	last name last, initials
-		if ((namePartOrder == null) || (namePartOrder.contains(firstNameLastName) && firstNamesInitialsOnly) || namePartOrder.contains(initialsLastName)) {
+		if ((namePartOrder == null) || ((namePartOrder.indexOf(firstNameLastName) != -1) && firstNamesInitialsOnly) || namePartOrder.contains(initialsLastName)) {
 			addPersonNames(tokens, personNameParts, "<initials> <stopWords>? <lastName>", false, personNameList, personNameStrings, initialsLastName, initialsFirstName);
 			addPersonNames(tokens, personNameParts, ("<initials> <stopWords>? <lastName> " + affixMatcher + ""), false, personNameList, personNameStrings, initialsLastName, initialsFirstName);
 			personNameStrings.clear();
 		}
 		
 		//	last name last, full first name
-		if ((namePartOrder == null) || (namePartOrder.contains(firstNameLastName) && firstNamesFull)) {
+		if ((namePartOrder == null) || ((namePartOrder.indexOf(firstNameLastName) != -1) && firstNamesFull)) {
 			addPersonNames(tokens, personNameParts, "<firstName> <stopWords>? <lastName>", false, personNameList, personNameStrings, firstNameLastName, fullFirstName);
 			addPersonNames(tokens, personNameParts, ("<firstName> <stopWords>? <lastName> " + affixMatcher + ""), false, personNameList, personNameStrings, firstNameLastName, fullFirstName);
 			personNameStrings.clear();

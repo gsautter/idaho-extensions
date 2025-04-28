@@ -93,6 +93,8 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 		
 		ranksToNormalForms.put(PHYLUM_ATTRIBUTE, PHYLUM_ATTRIBUTE);
 		ranksToNormalForms.put(SUBPHYLUM_ATTRIBUTE, SUBPHYLUM_ATTRIBUTE);
+		ranksToNormalForms.put(INFRAPHYLUM_ATTRIBUTE, INFRAPHYLUM_ATTRIBUTE);
+		ranksToNormalForms.put("parvPhylum", "parvPhylum");
 		
 		ranksToNormalForms.put(SUPERCLASS_ATTRIBUTE, SUPERCLASS_ATTRIBUTE);
 		ranksToNormalForms.put(CLASS_ATTRIBUTE, CLASS_ATTRIBUTE);
@@ -114,6 +116,7 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 		ranksToNormalForms.put(SUPERTRIBE_ATTRIBUTE, SUPERTRIBE_ATTRIBUTE);
 		ranksToNormalForms.put(TRIBE_ATTRIBUTE, TRIBE_ATTRIBUTE);
 		ranksToNormalForms.put(SUBTRIBE_ATTRIBUTE, SUBTRIBE_ATTRIBUTE);
+		ranksToNormalForms.put(INFRATRIBE_ATTRIBUTE, INFRATRIBE_ATTRIBUTE);
 		
 		ranksToNormalForms.put(GENUS_ATTRIBUTE, GENUS_ATTRIBUTE);
 		ranksToNormalForms.put(SUBGENUS_ATTRIBUTE, SUBGENUS_ATTRIBUTE);
@@ -141,6 +144,8 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 		
 		ranksToLevels.put(PHYLUM_ATTRIBUTE, new Integer(ranksToLevels.size()));
 		ranksToLevels.put(SUBPHYLUM_ATTRIBUTE, new Integer(ranksToLevels.size()));
+		ranksToLevels.put(INFRAPHYLUM_ATTRIBUTE, new Integer(ranksToLevels.size()));
+		ranksToLevels.put("parvPhylum", new Integer(ranksToLevels.size()));
 		
 		ranksToLevels.put(SUPERCLASS_ATTRIBUTE, new Integer(ranksToLevels.size()));
 		ranksToLevels.put(CLASS_ATTRIBUTE, new Integer(ranksToLevels.size()));
@@ -162,6 +167,7 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 		ranksToLevels.put(SUPERTRIBE_ATTRIBUTE, new Integer(ranksToLevels.size()));
 		ranksToLevels.put(TRIBE_ATTRIBUTE, new Integer(ranksToLevels.size()));
 		ranksToLevels.put(SUBTRIBE_ATTRIBUTE, new Integer(ranksToLevels.size()));
+		ranksToLevels.put(INFRATRIBE_ATTRIBUTE, new Integer(ranksToLevels.size()));
 		
 		ranksToLevels.put(GENUS_ATTRIBUTE, new Integer(ranksToLevels.size()));
 		ranksToLevels.put(SUBGENUS_ATTRIBUTE, new Integer(ranksToLevels.size()));
@@ -308,12 +314,14 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 				System.out.println("            folder the source DarwinCore Archive lies in if omitted)");
 			}
 			else if ("scan".equalsIgnoreCase(command)) {
-				System.out.println("'scan <dwcaFolder>': scan the Taxon.tsv file for non-ASCII characters,");
-				System.out.println("factoting in any character replacements specified in any");
+				System.out.println("'scan <dwcaFolder> <ignorSynonyms>': scan the Taxon.tsv file for non-ASCII");
+				System.out.println(" characters, factoting in any character replacements specified in any");
 				System.out.println("charMappings.tsv file and any field value substitutions specified in");
 				System.out.println("any valueMappings.tsv file found next to it");
 				System.out.println("");
 				System.out.println("<dwcaFolder>: the path of the folder the Taxon.tsv is located in");
+				System.out.println("<ignorSynonyms>: ignore problems on synonyms (optional, set to '-is' to");
+				System.out.println("                 activate synonym-ignoring mode)");
 			}
 			else if ("clean".equalsIgnoreCase(command)) {
 				System.out.println("'clean <dwcaFolder>': clean the Taxon.tsv file from any non-ASCII");
@@ -431,9 +439,11 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 		else if ("unzip".equalsIgnoreCase(command))
 			unzip(sourcePath, destPath);
 		else if ("scan".equalsIgnoreCase(command))
-			scan(sourcePath);
+			scan(sourcePath, "-is".equals(destPath));
 		else if ("clean".equalsIgnoreCase(command))
 			clean(sourcePath);
+		else if ("check-mappings".equalsIgnoreCase(command))
+			checkMappings(sourcePath);
 		else if ("extract".equalsIgnoreCase(command))
 			extract(sourcePath);
 		else if ("analyze-t".equalsIgnoreCase(command))
@@ -504,6 +514,7 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 		int taxonRankIndex = -1;
 		int taxonNameIndex = -1;
 		int genusNameIndex = -1;
+		int belowGenusNameIndex = -1;
 		int speciesNameIndex = -1;
 		int belowSpeciesNameIndex = -1;
 		int publishedInIndex = -1;
@@ -526,6 +537,8 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 				this.taxonNameIndex = index;
 			else if ("genericName".equals(name))
 				this.genusNameIndex = index;
+			else if ("infragenericEpithet".equals(name))
+				this.belowGenusNameIndex = index;
 			else if ("specificEpithet".equals(name))
 				this.speciesNameIndex = index;
 			else if ("infraspecificEpithet".equals(name))
@@ -585,6 +598,7 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 	}
 	
 	private static class DataValueNormalizer {
+		HashSet removeTaxonIDs = new HashSet();
 		HashMap replacementsByTaxonId = new HashMap();
 		HashMap replacementsByFieldName = new HashMap();
 		HashMap normalizersByFieldName = new HashMap();
@@ -617,8 +631,14 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 				}
 			}
 		}
+		void addRemoval(String taxonId) {
+			this.removeTaxonIDs.add(taxonId);
+		}
 		void addCharReplacement(String charMatcher, String matchReplacement) {
 			this.charNormalizers.add(new CharNormalizer(charMatcher, matchReplacement));
+		}
+		boolean removeTaxon(String taxonId) {
+			return this.removeTaxonIDs.contains(taxonId);
 		}
 		String normalizeDataValue(String taxonId, String fieldName, String dataValue) {
 			if (this.replacementsByTaxonId.containsKey(taxonId)) {
@@ -756,6 +776,8 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 					dvn.addDataValueReplacement(null, vmData[1], vmData[2].substring("P:".length()), true, ((vmData.length == 3) ? "" : vmData[3]));
 				else if (vmData[0].length() == 0)
 					dvn.addDataValueReplacement(null, vmData[1], vmData[2], false, ((vmData.length == 3) ? "" : vmData[3]));
+				else if ("REMOVE".equals(vmData[2]))
+					dvn.addRemoval(vmData[0]);
 				else dvn.addDataValueReplacement(vmData[0], vmData[1], null, false, ((vmData.length == 3) ? "" : vmData[3]));
 			}
 			vmBr.close();
@@ -764,10 +786,10 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 	}
 	
 	private static Pattern numberPattern = Pattern.compile("[0-9]+");
-	private static void scan(String dwcaFolder) throws Exception {
-		scan(new File(dwcaFolder));
+	private static void scan(String dwcaFolder, boolean ignoreSynonymProblems) throws Exception {
+		scan(new File(dwcaFolder), ignoreSynonymProblems);
 	}
-	private static void scan(File dwcaFolder) throws Exception {
+	private static void scan(File dwcaFolder, boolean ignoreSynonymProblems) throws Exception {
 		MetaXml metaXml = getMetaXml(dwcaFolder);
 		DataValueNormalizer valueNormalizer = getDataValueNormalizer(dwcaFolder);
 		
@@ -777,12 +799,14 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 		tBr.readLine(); // skip column headers
 		int tLineCount = 0;
 		CountingSet problemChars = new CountingSet(new TreeMap());
+		CountingSet problemIDs = new CountingSet(new TreeMap());
 		CountingSet problemRanks = new CountingSet(new TreeMap());
 		CountingSet problemEpithets = new CountingSet(new TreeMap());
 		CountingSet brokenYearAuthorities = new CountingSet(new TreeMap());
 		CountingSet brokenStartAuthorities = new CountingSet(new TreeMap());
 		CountingSet longAuthorities = new CountingSet(new TreeMap());
 		CountingSet betweenGenusAndSpeciesNames = new CountingSet(new TreeMap());
+		LinkedHashMap problemRecords = new LinkedHashMap();
 		for (String tLine; (tLine = tBr.readLine()) != null;) {
 			tLineCount++;
 			if ((tLineCount % 5000) == 0) {
@@ -791,7 +815,18 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 					System.gc();
 			}
 			String[] tData = tLine.split("\\t");
-			normalizeValues(metaXml, valueNormalizer, tLine, tData, false, problemChars, problemRanks, problemEpithets, brokenYearAuthorities, brokenStartAuthorities, longAuthorities);
+			if (valueNormalizer.removeTaxon(tData[metaXml.taxonIdIndex]))
+				continue;
+			normalizeValues(metaXml, valueNormalizer, tLine, tData, false, problemChars, problemRanks, problemEpithets, brokenYearAuthorities, brokenStartAuthorities, longAuthorities, problemRecords, ignoreSynonymProblems);
+			try {
+				CatalogOfLifeLocal.parseIntBase29(tData[metaXml.taxonIdIndex]);
+			}
+			catch (IllegalArgumentException iae) {
+				if (recordProblems(tData, metaXml, ignoreSynonymProblems)) {
+					problemIDs.add(tData[metaXml.taxonIdIndex]);
+					addProblem(problemRecords, tLine, ("invalid ID '" + tData[metaXml.taxonIdIndex] + "'"));
+				}
+			}
 		}
 		tBr.close();
 		System.out.println("Found " + problemRanks.size() + " problematic ranks, " + problemRanks.elementCount() + " distinct ones:");
@@ -803,6 +838,11 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 		for (Iterator pcit = problemChars.iterator(); pcit.hasNext();) {
 			Character pc = ((Character) pcit.next());
 			System.out.println("- " + pc + " (0x" + Integer.toString(((int) pc.charValue()), 16).toUpperCase() + "): " + problemChars.getCount(pc) + " times");
+		}
+		System.out.println("Found " + problemIDs.size() + " problematic IDs, " + problemIDs.elementCount() + " distinct ones:");
+		for (Iterator pidit = problemIDs.iterator(); pidit.hasNext();) {
+			String pid = ((String) pidit.next());
+			System.out.println("- " + pid + ": " + problemIDs.getCount(pid) + " times");
 		}
 		System.out.println("Found " + problemEpithets.size() + " problematic epithets, " + problemEpithets.elementCount() + " distinct ones:");
 		for (Iterator peit = problemEpithets.iterator(); peit.hasNext();) {
@@ -829,18 +869,110 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 			String bgn = ((String) bgnit.next());
 			System.out.println("- " + bgn + ": " + betweenGenusAndSpeciesNames.getCount(bgn) + " times");
 		}
+		System.out.println("Found " + problemRecords.size() + " records with issues:");
+		for (Iterator rit = problemRecords.keySet().iterator(); rit.hasNext();) {
+			String tLine = ((String) rit.next());
+			System.out.println(tLine);
+			LinkedHashSet problems = ((LinkedHashSet) problemRecords.get(tLine));
+			for (Iterator pit = problems.iterator(); pit.hasNext();)
+				System.out.println(" - " + pit.next());
+		}
 	}
 	
-	private static Pattern speciesEpithetPattern = Pattern.compile("\\s[a-z]+\\s");
-	private static String[] normalizeValues(MetaXml metaXml, DataValueNormalizer valueNormalizer, String tLine, String[] tData, boolean clean, CountingSet problemChars, CountingSet problemRanks, CountingSet problemEpithets, CountingSet brokenYearAuthorities, CountingSet brokenStartAuthorities, CountingSet longAuthorities) throws Exception {
+	private static void checkMappings(String dwcaFolder) throws Exception {
+		checkMappings(new File(dwcaFolder));
+	}
+	private static void checkMappings(File dwcaFolder) throws Exception {
+		MetaXml metaXml = getMetaXml(dwcaFolder);
+		DataValueNormalizer valueNormalizer = getDataValueNormalizer(dwcaFolder);
+		
+		//	load raw value mappings
+		File vmFile = new File(dwcaFolder, "valueMappings.tsv");
+		HashMap mappingsByTaxonId = new HashMap();
+		if (vmFile.exists()) {
+			BufferedReader vmBr = new BufferedReader(new InputStreamReader(new BufferedInputStream(new FileInputStream(vmFile)), "UTF-8"));
+			for (String vm; (vm = vmBr.readLine()) != null;) {
+				if (vm.startsWith("//"))
+					continue;
+				String[] vmData = vm.split("\\t");
+				if (vmData.length < 3)
+					continue;
+				String taxonId = vmData[0];
+				if (taxonId.length() == 0)
+					continue;
+				if ("REMOVE".equals(vmData[2])) {
+					mappingsByTaxonId.put(taxonId, null);
+					continue;
+				}
+				String fieldName = vmData[1];
+				String replacementValue = vmData[3];
+				if (fieldName.length() != 0) {
+					HashMap replacementsByFieldName = ((HashMap) mappingsByTaxonId.get(taxonId));
+					if (replacementsByFieldName == null) {
+						replacementsByFieldName = new HashMap();
+						mappingsByTaxonId.put(taxonId, replacementsByFieldName);
+					}
+					replacementsByFieldName.put(fieldName, replacementValue);
+				}
+			}
+			vmBr.close();
+		}
+		HashMap unusedMappingsByTaxonId = new HashMap();
+		unusedMappingsByTaxonId.putAll(mappingsByTaxonId);
+		
+		//	scan Taxon.tsv line by line, recording usage of mapings
+		File taxonTsv = new File(dwcaFolder, "Taxon.tsv");
+		BufferedReader tBr = new BufferedReader(new InputStreamReader(new BufferedInputStream(new FileInputStream(taxonTsv)), "UTF-8"));
+		tBr.readLine(); // skip column headers
+		int tLineCount = 0;
+		for (String tLine; (tLine = tBr.readLine()) != null;) {
+			tLineCount++;
+			if ((tLineCount % 5000) == 0) {
+				System.out.println("Read " + tLineCount + " lines of data so far");
+				if ((tLineCount % 100000) == 0)
+					System.gc();
+			}
+			String[] tData = tLine.split("\\t");
+			String taxonId = tData[metaXml.taxonIdIndex];
+			if (unusedMappingsByTaxonId.remove(taxonId) == null)
+				continue;
+			HashMap mappings = ((HashMap) mappingsByTaxonId.get(taxonId));
+			System.out.println(tLine);
+			System.out.println(" ==> " + mappings);
+			if (mappings == null)
+				continue;
+			normalizeValues(metaXml, valueNormalizer, tLine, tData, true, null, null, null, null, null, null, null, false);
+			System.out.println(" ==> " + Arrays.toString(tData));
+		}
+		tBr.close();
+		
+		//	list obsolete mappings
+		System.out.println("Found obsolete appings for " + unusedMappingsByTaxonId.size() + " taxon IDs:");
+		for (Iterator otidit = unusedMappingsByTaxonId.keySet().iterator(); otidit.hasNext();) {
+			String obsoleteTaxonId = ((String) otidit.next());
+			HashMap mappings = ((HashMap) mappingsByTaxonId.get(obsoleteTaxonId));
+			System.out.println(obsoleteTaxonId + " ==> " + mappings);
+		}
+	}
+	
+	/*
+Filter/cleanup changes:
+- split subspecies off species (as in 'alpina dorsoflava')
+	 */
+	private static Pattern speciesEpithetPattern = Pattern.compile("\\s[a-z]+(\\-[a-z]+)?\\s");
+	private static Pattern utf8asAnsiPattern = Pattern.compile("(([\\u00C2-\\u00DF][\\u0080-\\u00BF])|([\\u00E0-\\u00EF][\\u0080-\\u00BF][\\u0080-\\u00BF]))");
+	private static String[] normalizeValues(MetaXml metaXml, DataValueNormalizer valueNormalizer, String tLine, String[] tData, boolean clean, CountingSet problemChars, CountingSet problemRanks, CountingSet problemEpithets, CountingSet brokenYearAuthorities, CountingSet brokenStartAuthorities, CountingSet longAuthorities, LinkedHashMap problemRecords, boolean ignoreSynonymProblems) throws Exception {
 		
 		//	sort out viruses, their nomenclature is vastly different, data mostly contains vernacular names
 		if ((tData.length > metaXml.nomenclaturalCodeIndex) && "ICVCN".equals(tData[metaXml.nomenclaturalCodeIndex]))
 			return null;
 		
 		//	no use bothering with those, valid in other record
-		if ((tData.length > metaXml.taxonStatusIndex) && "MISAPPLIED".equals(tData[metaXml.taxonStatusIndex]))
+		if ((tData.length > metaXml.taxonStatusIndex) && ("MISAPPLIED".equals(tData[metaXml.taxonStatusIndex]) || "misapplied".equals(tData[metaXml.taxonStatusIndex])))
 			return null;
+		
+		//	check whether or not to record problems
+		boolean recordProblems = recordProblems(tData, metaXml, ignoreSynonymProblems);
 		
 		//	scan fields for problematic values
 		String tId = tData[metaXml.taxonIdIndex];
@@ -868,11 +1000,17 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 					tData[f] = null;
 				continue;
 			}
+			if ((tData[f] != null) && utf8asAnsiPattern.matcher(tData[f]).find()) {
+				byte[] raw = tData[f].getBytes("ISO-8859-1");
+				tData[f] = new String(raw, "UTF-8");
+			}
 			String nValue = valueNormalizer.normalizeDataValue(tId, metaXml.getFieldName(f), tData[f]);
 			if (f == metaXml.taxonRankIndex) {
 				if (!ranksToNormalForms.containsKey(nValue)) {
-					if (problemRanks != null)
+					if ((problemRanks != null) && recordProblems) {
 						problemRanks.add(nValue);
+						addProblem(problemRecords, tLine, "invalid rank");
+					}
 					if (clean) {
 						System.out.println("Invalid taxon rank '" + nValue + "' in " + tLine);
 						return null; // no use checking any further
@@ -906,8 +1044,10 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 				if (ch < 0x007F)
 					continue;
 				System.out.println("Invalid character '" + ch + "' (0x" + Integer.toString(((int) ch), 16).toUpperCase() + ") at " + c + " in " + metaXml.getFieldName(f) + " in " + tLine);
-				if (problemChars != null)
+				if ((problemChars != null) && recordProblems) {
 					problemChars.add(new Character(ch));
+					addProblem(problemRecords, tLine, ("invalid char '" + ch + "' (0x" + Integer.toString(((int) ch), 16).toUpperCase() + ")"));
+				}
 				if (clean)
 					return null; // no use checking any further
 			}
@@ -928,10 +1068,12 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 		//	check epithets of taxon name for funny morphology
 		if (tRankLevel < genusRankLevel) {
 			String nEpithets = valueNormalizer.normalizeDataValue(tId, "taxonName", epithet);
-			if (!nEpithets.matches("[A-Z][a-z]{2,}")) {
+			if (!nEpithets.matches("[A-Z][a-z]{2,}(\\-[A-Z][a-z]{2,})?")) {
 				System.out.println("Invalid " + tRank + " epithet '" + nEpithets + "' in " + tLine);
-				if (problemEpithets != null)
+				if ((problemEpithets != null) && recordProblems) {
 					problemEpithets.add(tRank + " " + nEpithets);
+					addProblem(problemRecords, tLine, ("invalid " + tRank + " '" + nEpithets + "'"));
+				}
 			}
 		}
 		boolean normalizeGenus = false;
@@ -948,7 +1090,7 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 					if (epithetPrefix.indexOf(" ") != -1)
 						tData[metaXml.genusNameIndex] = epithetPrefix.substring(0, epithetPrefix.indexOf(" ")).trim();
 					else tData[metaXml.genusNameIndex] = epithetPrefix;
-					return normalizeValues(metaXml, valueNormalizer, tLine, tData, clean, problemChars, problemRanks, problemEpithets, brokenYearAuthorities, brokenStartAuthorities, longAuthorities);
+					return normalizeValues(metaXml, valueNormalizer, tLine, tData, clean, problemChars, problemRanks, problemEpithets, brokenYearAuthorities, brokenStartAuthorities, longAuthorities, problemRecords, ignoreSynonymProblems);
 				}
 				else if (clean && (genusRankLevel == tRankLevel) && (epithet.length() != 0)) {
 					if (tData.length <= metaXml.genusNameIndex) {
@@ -957,21 +1099,25 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 						tData = etData;
 					}
 					tData[metaXml.genusNameIndex] = epithet;
-					return normalizeValues(metaXml, valueNormalizer, tLine, tData, clean, problemChars, problemRanks, problemEpithets, brokenYearAuthorities, brokenStartAuthorities, longAuthorities);
+					return normalizeValues(metaXml, valueNormalizer, tLine, tData, clean, problemChars, problemRanks, problemEpithets, brokenYearAuthorities, brokenStartAuthorities, longAuthorities, problemRecords, ignoreSynonymProblems);
 				}
 			}
 			else {
 				String nEpithet = valueNormalizer.normalizeDataValue(tId, "genericName", tData[metaXml.genusNameIndex]);
-				if (!nEpithet.matches("[A-Z][a-z]{2,}")) {
+				if (!nEpithet.matches("[A-Z][a-z]{2,}(\\-[A-Za-z][a-z]{2,})?")) {
 					System.out.println("Invalid " + GENUS_ATTRIBUTE + " epithet '" + nEpithet + "' in " + tLine);
-					if (problemEpithets != null)
+					if ((problemEpithets != null) && recordProblems) {
 						problemEpithets.add(GENUS_ATTRIBUTE + " " + nEpithet);
+						addProblem(problemRecords, tLine, ("invalid " + GENUS_ATTRIBUTE + " '" + nEpithet + "'"));
+					}
 					normalizeGenus = true;
 				}
 				if (!tName.startsWith(nEpithet)) {
 					System.out.println("Unmatched " + GENUS_ATTRIBUTE + " epithet '" + nEpithet + "' in name '" + tName + "' of " + tLine);
-					if (problemEpithets != null)
+					if ((problemEpithets != null) && recordProblems) {
 						problemEpithets.add(GENUS_ATTRIBUTE + " " + nEpithet);
+						addProblem(problemRecords, tLine, ("invalid " + GENUS_ATTRIBUTE + " '" + nEpithet + "'"));
+					}
 				}
 			}
 		}
@@ -988,15 +1134,15 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 							tData = etData;
 						}
 						tData[metaXml.speciesNameIndex] = em.group().trim();
-						return normalizeValues(metaXml, valueNormalizer, tLine, tData, clean, problemChars, problemRanks, problemEpithets, brokenYearAuthorities, brokenStartAuthorities, longAuthorities);
+						return normalizeValues(metaXml, valueNormalizer, tLine, tData, clean, problemChars, problemRanks, problemEpithets, brokenYearAuthorities, brokenStartAuthorities, longAuthorities, problemRecords, ignoreSynonymProblems);
 					}
 					else return null;
 				}
 			}
 			else {
 				String nEpithet = valueNormalizer.normalizeDataValue(tId, "specificEpithet", tData[metaXml.speciesNameIndex]);
-				if (nEpithet.matches("[a-z]{3,}(\\-[a-z]{3,})?")) {}
-				else if (nEpithet.matches("[a-z]+\\-[a-z]{3,}(\\-[a-z]{3,})?")) {}
+				if (nEpithet.matches("([a-z]+\\')?[a-z]{3,}(\\-[a-z]{3,})?")) {}
+				else if (nEpithet.matches("[a-z]+\\-[a-z]+(\\-[a-z]{3,}){0,2}")) {}
 				else if (nEpithet.matches("[1-9][0-9]?\\-[a-z]{3,}(\\-[a-z]{3,})?")) {}
 				else {
 					System.out.println("Invalid " + SPECIES_ATTRIBUTE + " epithet '" + nEpithet + "' in " + tLine);
@@ -1004,14 +1150,18 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 						System.out.println(VARIETY_ATTRIBUTE + " label in " + SPECIES_ATTRIBUTE + " epithet '" + nEpithet + "' in " + tLine);
 					if ((nEpithet.indexOf(" f. ") != -1) || (nEpithet.indexOf(" f ") != -1))
 						System.out.println(FORM_ATTRIBUTE + " label in " + SPECIES_ATTRIBUTE + " epithet '" + nEpithet + "' in " + tLine);
-					if (problemEpithets != null)
+					if ((problemEpithets != null) && recordProblems) {
 						problemEpithets.add(SPECIES_ATTRIBUTE + " " + nEpithet);
+						addProblem(problemRecords, tLine, ("invalid " + SPECIES_ATTRIBUTE + " '" + nEpithet + "'"));
+					}
 					normalizeSpecies = true;
 				}
 				if (tName.indexOf(nEpithet) == -1) {
 					System.out.println("Unmatched " + SPECIES_ATTRIBUTE + " epithet '" + nEpithet + "' in name '" + tName + "' of " + tLine);
-					if (problemEpithets != null)
+					if ((problemEpithets != null) && recordProblems) {
 						problemEpithets.add(SPECIES_ATTRIBUTE + " " + nEpithet);
+						addProblem(problemRecords, tLine, ("invalid " + SPECIES_ATTRIBUTE + " '" + nEpithet + "'"));
+					}
 				}
 			}
 		}
@@ -1029,14 +1179,18 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 				else if (nEpithet.matches("[1-9][0-9]?\\-[a-z]{3,}(\\-[a-z]{3,})?")) {}
 				else {
 					System.out.println("Invalid " + tRank + " epithet '" + nEpithet + "' in " + tLine);
-					if (problemEpithets != null)
+					if ((problemEpithets != null) && recordProblems) {
 						problemEpithets.add(tRank + " " + nEpithet);
+						addProblem(problemRecords, tLine, ("invalid " + tRank + " '" + nEpithet + "'"));
+					}
 					normalizeBelowSpecies = true;
 				}
 				if (tName.indexOf(nEpithet) == -1) {
 					System.out.println("Unmatched " + tRank + " epithet '" + nEpithet + "' in name '" + tName + "' of " + tLine);
-					if (problemEpithets != null)
+					if ((problemEpithets != null) && recordProblems) {
 						problemEpithets.add(tRank + " " + nEpithet);
+						addProblem(problemRecords, tLine, ("invalid " + tRank + " '" + nEpithet + "'"));
+					}
 				}
 			}
 		}
@@ -1049,26 +1203,30 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 				if (nm.end() - nm.start() == 4)
 					continue;
 				System.out.println("Invalid year '" + nm.group() + "' at " + nm.start() + " in authority '" + authority + "' in " + tLine);
-				if (brokenYearAuthorities != null)
+				if ((brokenYearAuthorities != null) && recordProblems) {
 					brokenYearAuthorities.add(authority);
+					addProblem(problemRecords, tLine, ("broken authority year in '" + authority + "'"));
+				}
 			}
 			
 			if (nAuthority.length() == 0) {}
 			else if (nAuthority.matches("\\(?[A-Z].*")) {}
 			else if (nAuthority.matches("\\(?[a-z]\\'[A-Z].*")) {}
-			else if (nAuthority.matches("v\\.\\s*[A-Z].*")) {}
+			else if (nAuthority.matches("\\(?v\\.\\s*[A-Z].*")) {}
 			else if (nAuthority.matches("ex\\s+[A-Z].*")) {}
 			else if (nAuthority.matches("hort\\.\\s*ex\\s+[A-Z].*")) {}
-			else if (nAuthority.matches("\\(?(ex\\s+)?(da|de|del|della|delle|dem|den|der|des|di|do|dos|du|(d\\')|la|le|les|nec|non|not|of|(\\'t)|ten|ter|van|vanden|vander|vom|von|vonden|vonder|v\\.zu|zu|zum|zur)(\\-?|\\s*)[A-Z].*")) {}
-			else if (nAuthority.matches("\\(?(ex\\s+)?((da|de|del|della|delle|dem|den|der|des|di|do|dos|du|(d\\')|la|le|les|nec|non|not|of|(\\'t)|ten|ter|van|vanden|vander|vom|von|vonden|vonder|v\\.zu|zu|zum|zur)\\s*){0,2}[A-Z].*")) {}
+			else if (nAuthority.matches("\\(?(ex\\s+)?(da|de|del|della|delle|dem|den|der|des|di|do|dos|du|(d\\')|(de\\s+l\\')|el|la|le|les|nec|non|not|of|(\\'s)|(\\'t)|ten|ter|van|vanden|vander|vom|von|vonden|vonder|v\\.zu|zu|zum|zur)(\\-?|\\s*)[A-Z].*")) {}
+			else if (nAuthority.matches("\\(?(ex\\s+)?((da|de|del|della|delle|dem|den|der|des|di|do|dos|du|(d\\')|(de\\s+l\\')|el|la|le|les|nec|non|not|of|(\\'s)|(\\'t)|ten|ter|van|vanden|vander|vom|von|vonden|vonder|v\\.zu|zu|zum|zur)\\s*){0,2}[A-Z].*")) {}
 			else if (nAuthority.matches("\\(?\\'t\\s+[A-Z].*")) {}
 			else if (nAuthority.matches("[a-z]{2,}\\,\\s*[12][0-9]{3}"))
 				nAuthority = (nAuthority.substring(0, 1).toUpperCase() + nAuthority.substring(1)); // simply capitalize single last name if accompanied by year
 			else {
 				System.out.println("Strange authority start '" + nAuthority + "' in " + tLine);
 //				System.out.println("               tName is '" + tName + "'");
-				if (brokenStartAuthorities != null)
+				if ((brokenStartAuthorities != null) && recordProblems) {
 					brokenStartAuthorities.add(nAuthority);
+					addProblem(problemRecords, tLine, ("broken authority start in '" + authority + "'"));
+				}
 			}
 			
 			if (nAuthority.length() > 64) {
@@ -1169,6 +1327,32 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 		
 		//	finally ...
 		return tData;
+	}
+	
+	private static boolean recordProblems(String[] tData, MetaXml metaXml, boolean ignoreSynonymProblems) {
+		if (ignoreSynonymProblems) {
+			if (tData.length < metaXml.taxonStatusIndex)
+				return true;
+			else if ("synonym".equals(tData[metaXml.taxonStatusIndex]))
+				return false;
+			else if (tData[metaXml.taxonStatusIndex] == null)
+				return true;
+			else if (tData[metaXml.taxonStatusIndex].endsWith(" synonym"))
+				return false;
+			else return true;
+		}
+		else return true;
+	}
+	
+	private static void addProblem(LinkedHashMap problemRecords, String tLine, String problem) {
+		if (problemRecords == null)
+			return;
+		LinkedHashSet problems = ((LinkedHashSet) problemRecords.get(tLine));
+		if (problems == null) {
+			problems = new LinkedHashSet();
+			problemRecords.put(tLine, problems);
+		}
+		problems.add(problem);
 	}
 	
 	//	returns <prefixEnd><sigEpithetStart><sigEpithetEnd><authorityStart> (4 bytes)
@@ -1401,11 +1585,35 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 					System.gc();
 			}
 			
-			//	sanitize data
+			//	parse data
 			String[] tData = tLine.split("\\t");
-			tData = normalizeValues(metaXml, valueNormalizer, tLine, tData, true, null, null, null, null, null, null);
-			if (tData == null)
+			if (tData.length <= metaXml.taxonIdIndex)
 				continue;
+			
+			//	check filter
+			String tId = tData[metaXml.taxonIdIndex];
+			if (valueNormalizer.removeTaxon(tId)) {
+				String[] rtData = new String[tData.length];
+				rtData[metaXml.taxonIdIndex] = tData[metaXml.taxonIdIndex];
+				rtData[metaXml.parentTaxonIdIndex] = tData[metaXml.parentTaxonIdIndex];
+				rtData[metaXml.validTaxonIdIndex] = tData[metaXml.validTaxonIdIndex];
+				rtData[metaXml.taxonStatusIndex] = "REMOVED TAXON";
+				tData = rtData;
+			}
+			
+			//	sanitize data
+			else {
+				String[] ctData = normalizeValues(metaXml, valueNormalizer, tLine, tData, true, null, null, null, null, null, null, null, false);
+				if (ctData == null) {
+					String[] rtData = new String[tData.length];
+					rtData[metaXml.taxonIdIndex] = tData[metaXml.taxonIdIndex];
+					rtData[metaXml.parentTaxonIdIndex] = tData[metaXml.parentTaxonIdIndex];
+					rtData[metaXml.validTaxonIdIndex] = tData[metaXml.validTaxonIdIndex];
+					rtData[metaXml.taxonStatusIndex] = "REMOVED TAXON";
+					tData = rtData;
+				}
+				else tData = ctData;
+			}
 			
 			//	store sanitized data
 			StringBuffer tcLine = new StringBuffer(tData[0]);
@@ -1491,11 +1699,11 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 	
 	private static class TaxonData {
 		final String[] data;
-		final String id;
+		final String colId;
 		String epithet;
 		String epithetPrefix;
-		final String rank;
-		final int rankLevel;
+		String rank;
+		int rankLevel;
 		boolean isExtant = false;
 		String authority;
 		TaxonData parent;
@@ -1506,9 +1714,9 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 		LinkedHashSet synonyms = null;
 		int dataId = 0;
 		String clusterName;
-		TaxonData(String[] data, String id, String epithet, String rank, int rankLevel, String authority) {
+		TaxonData(String[] data, String colId, String epithet, String rank, int rankLevel, String authority) {
 			this.data = data;
-			this.id = id;
+			this.colId = colId;
 			this.epithet = epithet;
 			this.rank = rank;
 			this.rankLevel = rankLevel;
@@ -1546,23 +1754,24 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 				}
 			return this.minDescendantRankLevel;
 		}
-		int setDataId(int dataId, int rankLevel, String clusterName) {
+		int setDataId(int dataId, int rankLevel, String clusterName, HashMap taxonDatasByIDs) {
 			if (rankLevel < this.getMinimumDescendantRankLevel())
 				return dataId; // not our turn just yet (and no potentially higher-up synonyms)
 			if ((rankLevel == this.rankLevel) && (this.dataId < 1)) {
 				// we assign IDs for taxa in species tiles from tile roots, which can be nested
 				this.dataId = dataId++; // use this data ID and switch to next one in line
 				this.clusterName = clusterName;
+				taxonDatasByIDs.put(new Integer(this.dataId), this);
 			}
 			if (this.synonyms != null) // descend to synonyms (might have been degraded from higher-up ranks !!!)
 				for (Iterator sit = this.synonyms.iterator(); sit.hasNext();) {
 					TaxonData td = ((TaxonData) sit.next());
-					dataId = td.setDataId(dataId, rankLevel, clusterName);
+					dataId = td.setDataId(dataId, rankLevel, clusterName, taxonDatasByIDs);
 				}
 			if (this.children != null) // descend to children
 				for (Iterator cit = this.children.iterator(); cit.hasNext();) {
 					TaxonData td = ((TaxonData) cit.next());
-					dataId = td.setDataId(dataId, rankLevel, clusterName);
+					dataId = td.setDataId(dataId, rankLevel, clusterName, taxonDatasByIDs);
 				}
 			return dataId;
 		}
@@ -1689,6 +1898,7 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 		tBr.readLine(); // skip column headers
 		int tLineCount = 0;
 		LinkedHashMap taxonDataById = new LinkedHashMap();
+		LinkedHashMap removedTaxonIDsToParentIDs = new LinkedHashMap();
 		for (String tLine; (tLine = tBr.readLine()) != null;) {
 			tLineCount++;
 			if ((tLineCount % 5000) == 0) {
@@ -1700,60 +1910,148 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 			//	get data
 			String[] tData = tLine.split("\\t");
 			
-			//	sanitize data on the fly if required
-			if (valueNormalizer != null) {
-				tData = normalizeValues(metaXml, valueNormalizer, tLine, tData, true, null, null, null, null, null, null);
-				if (tData == null)
-					continue;
+			//	null out empty fields with normalized input
+			if (valueNormalizer == null) {
+				for (int f = 0; f < tData.length; f++) {
+					if ("".equals(tData[f]))
+						tData[f] = null;
+				}
 			}
 			
-			//	null out empty fields otherwise
-			else for (int f = 0; f < tData.length; f++) {
-				if ("".equals(tData[f]))
-					tData[f] = null;
+			//	check for filtered taxon ID
+			else if (valueNormalizer.removeTaxon(tData[metaXml.taxonIdIndex])) {
+				String[] rtData = new String[tData.length];
+				rtData[metaXml.taxonIdIndex] = tData[metaXml.taxonIdIndex];
+				rtData[metaXml.parentTaxonIdIndex] = tData[metaXml.parentTaxonIdIndex];
+				rtData[metaXml.validTaxonIdIndex] = tData[metaXml.validTaxonIdIndex];
+				rtData[metaXml.taxonStatusIndex] = "REMOVED TAXON";
+				tData = rtData;
+			}
+			
+			//	sanitize data on the fly
+			else {
+				String[] ctData = normalizeValues(metaXml, valueNormalizer, tLine, tData, true, null, null, null, null, null, null, null, false);
+				if (ctData == null) {
+					String[] rtData = new String[tData.length];
+					rtData[metaXml.taxonIdIndex] = tData[metaXml.taxonIdIndex];
+					rtData[metaXml.parentTaxonIdIndex] = tData[metaXml.parentTaxonIdIndex];
+					rtData[metaXml.validTaxonIdIndex] = tData[metaXml.validTaxonIdIndex];
+					rtData[metaXml.taxonStatusIndex] = "REMOVED TAXON";
+					tData = rtData;
+				}
+				else tData = ctData;
+			}
+			
+			//	check original Base29 taxon ID
+			if (!"REMOVED TAXON".equals(tData[metaXml.taxonStatusIndex])) try {
+				CatalogOfLifeLocal.parseIntBase29(tData[metaXml.taxonIdIndex]);
+			}
+			catch (IllegalArgumentException iae) {
+				System.out.println("Invalid original Base29 taxon ID '" + tData[metaXml.taxonIdIndex] + "' (" + iae.getMessage() + ") in " + tLine);
+				String[] rtData = new String[tData.length];
+				rtData[metaXml.taxonIdIndex] = tData[metaXml.taxonIdIndex];
+				rtData[metaXml.parentTaxonIdIndex] = tData[metaXml.parentTaxonIdIndex];
+				rtData[metaXml.validTaxonIdIndex] = tData[metaXml.validTaxonIdIndex];
+				rtData[metaXml.taxonStatusIndex] = "REMOVED TAXON";
+				tData = rtData;
+			}
+			
+			//	catch place holders of removed taxa
+			if ("REMOVED TAXON".equals(tData[metaXml.taxonStatusIndex])) {
+				if (tData[metaXml.parentTaxonIdIndex] == null)
+					removedTaxonIDsToParentIDs.put(tData[metaXml.taxonIdIndex], tData[metaXml.validTaxonIdIndex]);
+				else removedTaxonIDsToParentIDs.put(tData[metaXml.taxonIdIndex], tData[metaXml.parentTaxonIdIndex]);
+				continue;
 			}
 			
 			//	generate tree node ...
 			String tName = tData[metaXml.taxonNameIndex];
-			int tRankLevel = ((Integer) ranksToLevels.get(tData[metaXml.taxonRankIndex]));
+			int tRankLevel = ((Integer) ranksToLevels.get(tData[metaXml.taxonRankIndex])).intValue();
 			int tNameOffsets = segmentTaxonName(tName, tRankLevel, metaXml, tData);
 			String tRank = levelsToRanks[tRankLevel];
 			String epithetPrefix = tName.substring(0, ((tNameOffsets >>> 24) & 0xFF));
 			String epithet = tName.substring(((tNameOffsets >>> 16) & 0xFF), ((tNameOffsets >>> 8) & 0xFF));
 			String authority = tName.substring(tNameOffsets & 0xFF);
+//			CatalogOfLifeLocal.parseIntBase29(tData[metaXml.taxonIdIndex]);
 			TaxonData td = new TaxonData(tData, tData[metaXml.taxonIdIndex], epithet, tRank, tRankLevel, authority);
 			td.epithetPrefix = epithetPrefix;
 			
 			//	... and index by ID
-			taxonDataById.put(td.id, td);
+			taxonDataById.put(td.colId, td);
 		}
 		tBr.close();
+		System.out.println("Loaded " + taxonDataById.size() + " taxa, filtered " + removedTaxonIDsToParentIDs.size());
 		
 		//	link taxa to parents and/or valid taxa
+		ArrayList orphanedSubGeneraAndFamilies = new ArrayList();
+		ArrayList orphanedSubspecies = new ArrayList();
+		LinkedHashSet promotableSubgenera = new LinkedHashSet();
+		LinkedHashSet promotableSubspecies = new LinkedHashSet();
 		for (Iterator tidit = taxonDataById.keySet().iterator(); tidit.hasNext();) {
 			String tid = ((String) tidit.next());
 			TaxonData td = ((TaxonData) taxonDataById.get(tid));
 			if (KINGDOM_ATTRIBUTE.equals(td.rank)) {} // no parents for kingdoms ...
 			else if (td.data[metaXml.parentTaxonIdIndex] != null) {
-				td.parent = ((TaxonData) taxonDataById.get(td.data[metaXml.parentTaxonIdIndex]));
-				if (td.parent == null)
+				String ptid = td.data[metaXml.parentTaxonIdIndex];
+				ArrayList trace = new ArrayList();
+				while (removedTaxonIDsToParentIDs.containsKey(ptid)) {
+					String gptid = ((String) removedTaxonIDsToParentIDs.get(ptid));
+					if (ptid.equals(gptid))
+						break; // catch potential endless loop
+					else {
+						trace.add(ptid + " > " + gptid);
+						ptid = gptid;
+					}
+				}
+				td.parent = ((TaxonData) taxonDataById.get(ptid));
+				if (td.parent == null) {
 					System.out.println("Unable to find parent: " + Arrays.toString(td.data));
-				else if (td.rankLevel <= td.parent.rankLevel) {
+					if (trace.size() != 0)
+						System.out.println("      parent ID trace: " + trace);
+				}
+				else if (td.rankLevel < td.parent.rankLevel) {
 					System.out.println("Inverted rank hierarchy in parent: " + Arrays.toString(td.parent.data));
 					System.out.println("                            child: " + Arrays.toString(td.data));
+				}
+				else if (td.rankLevel == td.parent.rankLevel) {
+					System.out.println("Duplicate rank hierarchy in parent: " + Arrays.toString(td.parent.data));
+					if (td.parent.data[metaXml.taxonNameIndex].equals(td.data[metaXml.taxonNameIndex]))
+						System.out.println("                   duplicate child: " + Arrays.toString(td.data));
+					else System.out.println("                             child: " + Arrays.toString(td.data));
+					if (SUBSPECIES_ATTRIBUTE.equalsIgnoreCase(td.parent.rank)) {
+						promotableSubspecies.add(td.parent);
+						System.out.println("                               ==> parent earmarked for promotion");
+					}
+					else if (SUBGENUS_ATTRIBUTE.equalsIgnoreCase(td.parent.rank)) {
+						promotableSubgenera.add(td.parent);
+						System.out.println("                               ==> parent earmarked for promotion");
+					}
 				}
 				else if (td.rank.startsWith("sub")) {
 					String pRank = td.rank.substring("sub".length());
 					if (pRank.toLowerCase().equals(td.parent.rank))
 						td.parent.addChild(td);
-					else if (speciesRankLevel < td.rankLevel)
-						td.parent.addChild(td);
+					else if (speciesRankLevel < td.rankLevel) {
+						if (td.parent.rankLevel < speciesRankLevel) {
+							td.parent = null;
+							orphanedSubspecies.add(td); // we'll handle these below
+						}
+						else td.parent.addChild(td); // be generous with varieties, form, etc.
+					}
 					else if ("Tribe".equals(pRank) && td.parent.rank.toLowerCase().endsWith("family"))
 						td.parent.addChild(td);
 					else {
 						System.out.println("Primary rank missing in ancestors: " + Arrays.toString(td.parent.data));
-						System.out.println(" ==> discarding child: " + Arrays.toString(td.data));
 						td.parent = null;
+						if (SUBGENUS_ATTRIBUTE.equalsIgnoreCase(td.rank)) {
+							orphanedSubGeneraAndFamilies.add(td);
+							System.out.println("    ==> child enqueued for search: " + Arrays.toString(td.data));
+						}
+						else if (SUBFAMILY_ATTRIBUTE.equalsIgnoreCase(td.rank)) {
+							orphanedSubGeneraAndFamilies.add(td);
+							System.out.println("    ==> child enqueued for search: " + Arrays.toString(td.data));
+						}
+						else System.out.println("             ==> discarding child: " + Arrays.toString(td.data));
 					}
 				}
 				else if (td.rank.startsWith("infra")) {
@@ -1764,7 +2062,7 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 						td.parent.addChild(td);
 					else {
 						System.out.println("Primary rank missing in ancestors: " + Arrays.toString(td.parent.data));
-						System.out.println(" ==> discarding child: " + Arrays.toString(td.data));
+						System.out.println("             ==> discarding child: " + Arrays.toString(td.data));
 						td.parent = null;
 					}
 				}
@@ -1778,7 +2076,7 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 						td.parent.addChild(td);
 					else {
 						System.out.println("Primary rank missing in ancestors: " + Arrays.toString(td.parent.data));
-						System.out.println(" ==> discarding child: " + Arrays.toString(td.data));
+						System.out.println("             ==> discarding child: " + Arrays.toString(td.data));
 						td.parent = null;
 					}
 				}
@@ -1804,19 +2102,359 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 				}
 			}
 			if (td.data[metaXml.validTaxonIdIndex] != null) {
-				td.validTaxon = ((TaxonData) taxonDataById.get(td.data[metaXml.validTaxonIdIndex]));
-				if (td.validTaxon == null)
-					System.out.println("Unable to find valif form: " + Arrays.toString(td.data));
+				String vtid = td.data[metaXml.validTaxonIdIndex];
+				ArrayList trace = new ArrayList();
+				while (removedTaxonIDsToParentIDs.containsKey(vtid)) {
+					String tvtid = ((String) removedTaxonIDsToParentIDs.get(vtid));
+					if (vtid.equals(tvtid))
+						break; // catch potential endless loop
+					else {
+						trace.add(vtid + " > " + tvtid);
+						vtid = tvtid;
+					}
+				}
+				td.validTaxon = ((TaxonData) taxonDataById.get(vtid));
+				if (td.validTaxon == null) {
+					System.out.println("Unable to find valid form: " + Arrays.toString(td.data));
+					if (trace.size() != 0)
+						System.out.println("           valid ID trace: " + trace);
+				}
 				else td.validTaxon.addSynonym(td);
 			}
+		}
+		
+		//	filter detached taxa (only now that we've had a chance to attach descendants to orphaned taxa, which we might reclaim below)
+		for (Iterator tidit = taxonDataById.keySet().iterator(); tidit.hasNext();) {
+			String tid = ((String) tidit.next());
+			TaxonData td = ((TaxonData) taxonDataById.get(tid));
 			if (KINGDOM_ATTRIBUTE.equals(td.rank)) {} // no parents for kingdoms ...
 			else if ((td.parent == null) && (td.validTaxon == null)) {
 				System.out.println(" ==> discarding detached taxon: " + Arrays.toString(td.data));
 				tidit.remove();
 			}
 		}
+		System.out.println("Retained " + taxonDataById.size() + " taxa after parent/valid uplink");
 		
-		//	check rank hierarchy of higher taxa
+		//	index orphaned taxa by assigned parents to facilitate searching missing parent in whole of assigned subtrees
+		HashMap orphanedTaxaByAssignedParents = new HashMap();
+		for (int t = 0; t < orphanedSubGeneraAndFamilies.size(); t++) {
+			TaxonData td = ((TaxonData) orphanedSubGeneraAndFamilies.get(t));
+			String ptid = td.data[metaXml.parentTaxonIdIndex];
+			while (removedTaxonIDsToParentIDs.containsKey(ptid)) {
+				String gptid = ((String) removedTaxonIDsToParentIDs.get(ptid));
+				if (ptid.equals(gptid))
+					break; // catch potential endless loop
+				else ptid = gptid;
+			}
+			HashSet siblingTaxa = ((HashSet) orphanedTaxaByAssignedParents.get(ptid));
+			if (siblingTaxa == null) {
+				siblingTaxa = new HashSet();
+				orphanedTaxaByAssignedParents.put(ptid, siblingTaxa);
+			}
+			siblingTaxa.add(td);
+		}
+		for (int t = 0; t < orphanedSubspecies.size(); t++) {
+			TaxonData td = ((TaxonData) orphanedSubspecies.get(t));
+			String ptid = td.data[metaXml.parentTaxonIdIndex];
+			while (removedTaxonIDsToParentIDs.containsKey(ptid)) {
+				String gptid = ((String) removedTaxonIDsToParentIDs.get(ptid));
+				if (ptid.equals(gptid))
+					break; // catch potential endless loop
+				else ptid = gptid;
+			}
+			HashSet siblingTaxa = ((HashSet) orphanedTaxaByAssignedParents.get(ptid));
+			if (siblingTaxa == null) {
+				siblingTaxa = new HashSet();
+				orphanedTaxaByAssignedParents.put(ptid, siblingTaxa);
+			}
+			siblingTaxa.add(td);
+		}
+		
+		//	seek potentially synonymized parent families of subfamilies that are children of orders ...
+		//	... as well as potentially synonymized parent genera of subgenera that are children of families
+		for (int t = 0; t < orphanedSubGeneraAndFamilies.size(); t++) {
+			TaxonData td = ((TaxonData) orphanedSubGeneraAndFamilies.get(t));
+			System.out.println("Checking " + td.rank + " with missing primary parent: " + Arrays.toString(td.data));
+			String ptid = td.data[metaXml.parentTaxonIdIndex];
+			ArrayList trace = new ArrayList();
+			while (removedTaxonIDsToParentIDs.containsKey(ptid)) {
+				String gptid = ((String) removedTaxonIDsToParentIDs.get(ptid));
+				if (ptid.equals(gptid))
+					break; // catch potential endless loop
+				else {
+					trace.add(ptid + " > " + gptid);
+					ptid = gptid;
+				}
+			}
+			TaxonData pTd = ((TaxonData) taxonDataById.get(ptid));
+			if (pTd == null) {
+				System.out.println(" ==> unable to find assigned parent");
+				if (trace.size() != 0)
+					System.out.println("      parent ID trace: " + trace);
+				continue;
+			}
+			System.out.println(" - assigned parent is " + pTd.rank + ": " + Arrays.toString(pTd.data));
+			String epEpithet = null;
+			if (SUBGENUS_ATTRIBUTE.equals(td.rank)) {
+				String fullName = td.data[metaXml.taxonNameIndex];
+				if (fullName == null) {
+					System.out.println(" ==> full name missing");
+					continue;
+				}
+				if (fullName.matches("[A-Z][a-z]+\\s*\\(\\s*[A-Z][a-z]+\\s*\\).*"))
+					epEpithet = fullName.substring(0, fullName.indexOf("(")).trim();
+				else {
+					System.out.println(" ==> strange full name '" + fullName + "'");
+					continue;
+				}
+			}
+			else if (SUBFAMILY_ATTRIBUTE.equals(td.rank)) {
+				String fullName = td.data[metaXml.taxonNameIndex];
+				if (fullName == null) {
+					System.out.println(" ==> full name missing");
+					continue;
+				}
+				if (fullName.endsWith("inae"))
+					epEpithet = (fullName.substring(0, (fullName.length() - "inae".length())) + "idae");
+				else if (fullName.matches("[A-Z][a-z]+inae\\s+.*"))
+					epEpithet = (fullName.substring(0, fullName.indexOf("inae ")) + "idae");
+				else {
+					System.out.println(" ==> strange full name '" + fullName + "'");
+					continue;
+				}
+			}
+			else continue; // just to be safe
+			String epRank = td.rank.substring("sub".length()).toLowerCase();
+			System.out.println(" - seeking intermediate " + epRank + " '" + epEpithet + "'");
+			ArrayList seekNodes = new ArrayList();
+			seekNodes.add(pTd); // search siblings under assigned parent
+			HashSet siblingTaxa = ((HashSet) orphanedTaxaByAssignedParents.get(ptid));
+			if (siblingTaxa == null)
+				seekNodes.add(td); // search currently detached subtree of orphaned taxon proper ...
+			else seekNodes.addAll(siblingTaxa); // ... or even all detached subtrees of orphaned siblings
+			for (int n = 0; n < seekNodes.size(); n++) {
+				TaxonData sTd = ((TaxonData) seekNodes.get(n));
+				if (epRank.equals(sTd.rank) && epEpithet.equals(sTd.epithet)) {
+					if (sTd.validTaxon != null) {
+						if (sTd.validTaxon.synonyms != null)
+							sTd.validTaxon.synonyms.remove(sTd);
+						sTd.validTaxon = null;
+					}
+					pTd.addChild(sTd);
+					sTd.parent = pTd;
+					sTd.addChild(td);
+					td.parent = sTd;
+					promotableSubgenera.remove(td); // no need to promote subgenus, children will move up to descend from resurrected genus further downstream
+					System.out.println(" ==> found missing parent: " + Arrays.toString(sTd.data));
+					if (!taxonDataById.containsKey(td.colId)) {
+						taxonDataById.put(td.colId, td);
+						System.out.println(" ==> reclaimed orphaned child");
+					}
+					break;
+				}
+				else {
+					if (sTd.children != null)
+						seekNodes.addAll(sTd.children);
+					if (sTd.synonyms != null)
+						seekNodes.addAll(sTd.synonyms);
+				}
+			}
+			if (td.parent == null)
+				System.out.println(" ==> parent not found in subtree of " + seekNodes.size() + " nodes");
+		}
+		
+		//	seek potentially synonymized parent species of subspecies that are children of genera ...
+		for (int t = 0; t < orphanedSubspecies.size(); t++) {
+			TaxonData td = ((TaxonData) orphanedSubspecies.get(t));
+			System.out.println("Checking " + td.rank + " with missing parent species: " + Arrays.toString(td.data));
+			String ptid = td.data[metaXml.parentTaxonIdIndex];
+			ArrayList trace = new ArrayList();
+			while (removedTaxonIDsToParentIDs.containsKey(ptid)) {
+				String gptid = ((String) removedTaxonIDsToParentIDs.get(ptid));
+				if (ptid.equals(gptid))
+					break; // catch potential endless loop
+				else {
+					trace.add(ptid + " > " + gptid);
+					ptid = gptid;
+				}
+			}
+			TaxonData pTd = ((TaxonData) taxonDataById.get(ptid));
+			if (pTd == null) {
+				System.out.println(" ==> unable to find assigned parent");
+				if (trace.size() != 0)
+					System.out.println("      parent ID trace: " + trace);
+				continue;
+			}
+			System.out.println(" - assigned parent is " + pTd.rank + ": " + Arrays.toString(pTd.data));
+			String epEpithet = td.data[metaXml.speciesNameIndex];
+			System.out.println(" - seeking intermediate species '" + td.data[metaXml.genusNameIndex] + " " + epEpithet + "'");
+			ArrayList seekNodes = new ArrayList();
+			seekNodes.add(pTd); // search siblings under assigned parent
+			HashSet siblingTaxa = ((HashSet) orphanedTaxaByAssignedParents.get(ptid));
+			if (siblingTaxa == null)
+				seekNodes.add(td); // search currently detached subtree of orphaned taxon proper ...
+			else seekNodes.addAll(siblingTaxa); // ... or even all detached subtrees of orphaned siblings
+			for (int n = 0; n < seekNodes.size(); n++) {
+				TaxonData sTd = ((TaxonData) seekNodes.get(n));
+				if (SPECIES_ATTRIBUTE.equals(sTd.rank) && epEpithet.equals(sTd.epithet)) {
+					if (sTd.validTaxon != null) {
+						if (sTd.validTaxon.synonyms != null)
+							sTd.validTaxon.synonyms.remove(sTd);
+						sTd.validTaxon = null;
+					}
+					pTd.parent.addChild(sTd);
+					sTd.parent = pTd;
+					sTd.addChild(td);
+					td.parent = sTd;
+					promotableSubspecies.remove(td); // no need to promote subspecies, children will move up to descend from resurrected species further downstream
+					System.out.println(" ==> found missing species: " + Arrays.toString(sTd.data));
+					if (!taxonDataById.containsKey(td.colId)) {
+						taxonDataById.put(td.colId, td);
+						System.out.println(" ==> reclaimed orphaned child");
+					}
+					break;
+				}
+				else {
+					if (sTd.children != null)
+						seekNodes.addAll(sTd.children);
+					if (sTd.synonyms != null)
+						seekNodes.addAll(sTd.synonyms);
+				}
+			}
+			if (td.parent != null)
+				continue;
+			System.out.println(" ==> parent species not found in subtree of " + seekNodes.size() + " nodes");
+			pTd.addChild(td);
+			td.parent = pTd;
+			System.out.println(" ==> added to assigned parent for later promotion");
+		}
+		System.out.println("Retained " + taxonDataById.size() + " taxa after reclaiming orphans");
+		
+		//	promote duplicate 'Aus bus bus' subspecies back to species if parent is above species
+		for (Iterator tdit = promotableSubspecies.iterator(); tdit.hasNext();) {
+			TaxonData td = ((TaxonData) tdit.next());
+			if (td.parent == null)
+				continue;
+			System.out.println("Checking duplicate subspecies for promotion: " + Arrays.toString(td.data));
+			if (speciesRankLevel <= td.parent.rankLevel) {
+				System.out.println(" ==> parent is species or below: " + Arrays.toString(td.parent.data));
+				continue;
+			}
+			if (td.data[metaXml.speciesNameIndex] == null) {
+				System.out.println(" ==> species epithet not found");
+				continue;
+			}
+			if (!td.data[metaXml.speciesNameIndex].equals(td.data[metaXml.belowSpeciesNameIndex])) {
+				System.out.println(" ==> epithet mismatch");
+				continue;
+			}
+			td.rank = SPECIES_ATTRIBUTE;
+			td.rankLevel = speciesRankLevel;
+			td.data[metaXml.taxonRankIndex] = SPECIES_ATTRIBUTE;
+			td.data[metaXml.belowSpeciesNameIndex] = null;
+			if ((td.epithetPrefix != null) && td.epithetPrefix.endsWith(" " + td.epithet)) {
+				td.epithetPrefix = td.epithetPrefix.substring(0, td.epithetPrefix.lastIndexOf(" ")).trim();
+				td.data[metaXml.taxonNameIndex] = (td.epithetPrefix + " " + td.epithet + ((td.authority == null) ? "" : (" " + td.authority)));
+				System.out.println(" ==> rank and name adjusted to species: " + Arrays.toString(td.data));
+			}
+			else System.out.println(" ==> rank adjusted to species: " + Arrays.toString(td.data));
+		}
+		
+		//	promote 'Aus (Aus)' subgenera to genera if parent above genus
+		for (Iterator tdit = promotableSubgenera.iterator(); tdit.hasNext();) {
+			TaxonData td = ((TaxonData) tdit.next());
+			if (td.parent == null)
+				continue;
+			System.out.println("Checking duplicate subgenus for promotion: " + Arrays.toString(td.data));
+			if (genusRankLevel <= td.parent.rankLevel) {
+				System.out.println(" ==> parent is genus or below: " + Arrays.toString(td.parent.data));
+				continue;
+			}
+			if (td.data[metaXml.genusNameIndex] == null) {
+				System.out.println(" ==> genus epithet not found");
+				continue;
+			}
+			if (!td.data[metaXml.genusNameIndex].equals(td.data[metaXml.belowGenusNameIndex])) {
+				System.out.println(" ==> epithet mismatch");
+				continue;
+			}
+			td.rank = GENUS_ATTRIBUTE;
+			td.rankLevel = genusRankLevel;
+			td.data[metaXml.taxonRankIndex] = GENUS_ATTRIBUTE;
+			td.data[metaXml.belowGenusNameIndex] = null;
+			td.epithetPrefix = null;
+			td.data[metaXml.taxonNameIndex] = (td.epithet + ((td.authority == null) ? "" : (" " + td.authority)));
+			System.out.println(" ==> rank and name adjusted to genus: " + Arrays.toString(td.data));
+		}
+		
+		//	find actual parent species of mis-ranked subspecies (species with spaces in epithet)
+		for (Iterator tidit = taxonDataById.keySet().iterator(); tidit.hasNext();) {
+			String tid = ((String) tidit.next());
+			TaxonData td = ((TaxonData) taxonDataById.get(tid));
+			if (td.parent == null)
+				continue;
+			if (td.rankLevel != speciesRankLevel)
+				continue;
+			if (td.epithet == null)
+				continue;
+			if (td.epithet.indexOf(" ") == -1)
+				continue;
+			System.out.println("Checking species ranked subspecies: " + Arrays.toString(td.data));
+			String epEpithet = td.epithet.substring(0, td.epithet.indexOf(" "));
+			System.out.println(" - seeking intermediate species '" + td.data[metaXml.genusNameIndex] + " " + epEpithet + "'");
+			ArrayList seekNodes = new ArrayList();
+			seekNodes.add(td.parent);
+			TaxonData oParent = td.parent;
+			for (int n = 0; n < seekNodes.size(); n++) {
+				TaxonData sTd = ((TaxonData) seekNodes.get(n));
+				if (SPECIES_ATTRIBUTE.equals(sTd.rank) && epEpithet.equals(sTd.epithet)) {
+					if (sTd.validTaxon != null) {
+						if (sTd.validTaxon.synonyms != null)
+							sTd.validTaxon.synonyms.remove(sTd);
+						sTd.validTaxon = null;
+					}
+					td.parent.addChild(sTd);
+					sTd.parent = td.parent;
+					if (td.parent.children != null)
+						td.parent.children.remove(td);
+					sTd.addChild(td);
+					td.parent = sTd;
+					System.out.println(" ==> found missing species: " + Arrays.toString(sTd.data));
+					String ssEpithet = td.epithet.substring(td.epithet.indexOf(" ")).trim();
+					td.data[metaXml.speciesNameIndex] = epEpithet;
+					if (ssEpithet.startsWith("subsp.")) {
+						ssEpithet = ssEpithet.substring("subsp.".length()).trim();
+						td.rank = SUBSPECIES_ATTRIBUTE;
+					}
+					else if (ssEpithet.startsWith("var.")) {
+						ssEpithet = ssEpithet.substring("var.".length()).trim();
+						td.rank = VARIETY_ATTRIBUTE;
+					}
+					else if (ssEpithet.startsWith("f.")) {
+						ssEpithet = ssEpithet.substring("f.".length()).trim();
+						td.rank = FORM_ATTRIBUTE;
+					}
+					else td.rank = SUBSPECIES_ATTRIBUTE;
+					td.rankLevel = ((Integer) ranksToLevels.get(td.rank)).intValue();
+					td.data[metaXml.belowSpeciesNameIndex] = ssEpithet;
+					td.data[metaXml.taxonRankIndex] = td.rank;
+					td.epithet = ssEpithet;
+					td.epithetPrefix = (td.epithetPrefix + " " + epEpithet);
+					System.out.println(" ==> demoted to subspecies: " + Arrays.toString(td.data));
+					break;
+				}
+				else {
+					if (sTd.children != null)
+						seekNodes.addAll(sTd.children);
+					if (sTd.synonyms != null)
+						seekNodes.addAll(sTd.synonyms);
+				}
+			}
+			if (td.parent == oParent)
+				System.out.println(" ==> parent not found in subtree of " + seekNodes.size() + " nodes");
+		}
+		
+		//	check rank hierarchy of higher taxa (genus and below only)
 		for (Iterator tidit = taxonDataById.keySet().iterator(); tidit.hasNext();) {
 			String tid = ((String) tidit.next());
 			TaxonData td = ((TaxonData) taxonDataById.get(tid));
@@ -1917,7 +2555,7 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 					continue;
 				}
 			}
-			if ((speciesRankLevel < td.parent.rankLevel) && td.parent.epithetPrefix.equals(td.epithetPrefix)) {
+			if ((speciesRankLevel < td.parent.rankLevel) && (td.parent.epithetPrefix != null) && td.parent.epithetPrefix.equals(td.epithetPrefix)) {
 				td.epithetPrefix = null; // obvious from tree, parent subspecies or variety omitted in prefix
 				continue;
 			}
@@ -1977,6 +2615,7 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 			tidit.remove();
 			System.out.println("Discarding uncertain " + td.rank + " " + td.epithet + ": " + Arrays.toString(td.data));
 		}
+		System.out.println("Retained " + taxonDataById.size() + " taxa after filtering out uncertain ones");
 		
 		//	finally normalize epithets (we needed the '_' for filtering up until now)
 		for (Iterator tidit = taxonDataById.keySet().iterator(); tidit.hasNext();) {
@@ -1992,6 +2631,18 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 			}
 			System.out.println();
 			td.epithet = td.epithet.replaceAll("\\'", "");
+			if (td.epithet.endsWith("."))
+				td.epithet = td.epithet.substring(0, (td.epithet.length() - ".".length()));
+			if (td.epithet.matches("([1-9][0-9]?\\-)?[A-Za-z\\-]+"))
+				continue;
+			if (td.validTaxon != null) {
+				System.out.println("                ==> discarding synonym with strange characters");
+				if (td.validTaxon.synonyms != null)
+					td.validTaxon.synonyms.remove(td);
+				td.validTaxon = null;
+				tidit.remove();
+				continue;
+			}
 			td.epithet = td.epithet.replaceAll("[^A-Za-z0-9]+", "-"); // also replacing dashes, so we don't get double dashes in result
 			if (td.epithet.startsWith("-"))
 				td.epithet = td.epithet.substring("-".length());
@@ -2003,6 +2654,75 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 			if (td.epithet.matches("([1-9][0-9]?\\-)?[A-Za-z\\-]+"))
 				continue;
 			System.out.println("                ==> still got strange characters");
+		}
+		System.out.println("Retained " + taxonDataById.size() + " taxa after epithet normalization");
+		
+		//	reclaim discarded parents of taxa that are indexed
+		ArrayList taxonIDs = new ArrayList(taxonDataById.keySet());
+		for (int i = 0; i < taxonIDs.size(); i++) {
+			String tid = ((String) taxonIDs.get(i));
+			TaxonData td = ((TaxonData) taxonDataById.get(tid));
+			if ((td.parent != null) && !taxonDataById.containsKey(td.parent.colId)) {
+				taxonDataById.put(td.parent.colId, td.parent);
+				System.out.println(" ==> reclaimed removed parent: " + Arrays.toString(td.parent.data));
+			}
+			if ((td.validTaxon != null) && !taxonDataById.containsKey(td.validTaxon.colId)) {
+				taxonDataById.put(td.validTaxon.colId, td.validTaxon);
+				System.out.println(" ==> reclaimed removed valid taxon: " + Arrays.toString(td.validTaxon.data));
+			}
+		}
+		System.out.println("Retained " + taxonDataById.size() + " taxa after reclaiming parents and valid taxa");
+		
+		//	one last time remove all taxa with missing primary ranks in kingdom trace
+		for (Iterator tidit = taxonDataById.keySet().iterator(); tidit.hasNext();) {
+			String tid = ((String) tidit.next());
+			TaxonData td = ((TaxonData) taxonDataById.get(tid));
+			LinkedHashSet ktPrimaryRanks = new LinkedHashSet();
+			LinkedHashSet ktRankGroups = new LinkedHashSet();
+			ArrayList kingdomTrace = new ArrayList();
+			for (TaxonData ktTd = ((td.validTaxon == null) ? td : td.validTaxon); ktTd != null; ktTd = ktTd.parent) {
+				kingdomTrace.add(ktTd);
+				if (ktTd.rank.startsWith("super"))
+					continue; // not handling superFamilies, etc. here, as they are above primary ranks in their groups
+				if (primaryRanks.containsKey(ktTd.rank)) {
+					ktPrimaryRanks.add(ktTd.rank);
+					ktRankGroups.add(ktTd.rank);
+				}
+				else if (ktTd.rank.equals(TRIBE_ATTRIBUTE) || ktTd.rank.endsWith("Tribe"))
+					ktRankGroups.add(FAMILY_ATTRIBUTE);
+				else if (ktTd.rank.equals(SECTION_ATTRIBUTE) || ktTd.rank.endsWith("Section"))
+					ktRankGroups.add(GENUS_ATTRIBUTE);
+				else if (ktTd.rank.equals(SERIES_ATTRIBUTE) || ktTd.rank.endsWith("Series"))
+					ktRankGroups.add(GENUS_ATTRIBUTE);
+				else if (ktTd.rank.equals(VARIETY_ATTRIBUTE) || ktTd.rank.endsWith("Variety"))
+					ktRankGroups.add(SPECIES_ATTRIBUTE);
+				else if (ktTd.rank.equals(FORM_ATTRIBUTE) || ktTd.rank.endsWith("Form"))
+					ktRankGroups.add(SPECIES_ATTRIBUTE);
+				else if (ktTd.rank.startsWith("sub"))
+					ktRankGroups.add(ktTd.rank.substring("sub".length()).toLowerCase());
+				else if (ktTd.rank.startsWith("infra"))
+					ktRankGroups.add(ktTd.rank.substring("infra".length()).toLowerCase());
+				if (KINGDOM_ATTRIBUTE.equals(ktTd.rank))
+					break;
+			}
+			if (ktPrimaryRanks.containsAll(ktRankGroups) && ktPrimaryRanks.contains(KINGDOM_ATTRIBUTE))
+				continue; // got the primary ranks from all groups we've passed
+			System.out.println("Found taxon with broken hierarchy: " + Arrays.toString(td.data));
+			System.out.println("                    kingdom trace: " + kingdomTrace);
+			System.out.println("                      rank groups: " + ktRankGroups);
+			System.out.println("                    primary ranks: " + ktPrimaryRanks);
+			tidit.remove();
+		}
+		System.out.println("Retained " + taxonDataById.size() + " taxa after cleaning up broken kingdom traces");
+		
+		//	make damn sure all parents know their children, and all valid taxa know their synonyms
+		for (Iterator tidit = taxonDataById.keySet().iterator(); tidit.hasNext();) {
+			String tid = ((String) tidit.next());
+			TaxonData td = ((TaxonData) taxonDataById.get(tid));
+			if (td.parent != null)
+				td.parent.addChild(td);
+			if (td.validTaxon != null)
+				td.validTaxon.addSynonym(td);
 		}
 		
 		//	link taxa to primary parents, and remove non-resolving ones
@@ -2041,12 +2761,74 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 					ptd = ptd.parent;
 				else {
 					System.out.println("Broken ancestor chain: " + Arrays.toString(td.data));
+					System.out.println("          last parent: " + Arrays.toString(ptd.data));
 					break;
 				}
 			}
 		}
 		
+		//	clean out descendant taxa no longer indexed
+		for (Iterator tidit = taxonDataById.keySet().iterator(); tidit.hasNext();) {
+			String tid = ((String) tidit.next());
+			TaxonData td = ((TaxonData) taxonDataById.get(tid));
+			if (td.children != null) {
+				for (Iterator cit = td.children.iterator(); cit.hasNext();) {
+					TaxonData cTd = ((TaxonData) cit.next());
+					if (taxonDataById.containsKey(cTd.colId))
+						continue;
+					cit.remove();
+					System.out.println(" ==> removed discarded child: " + Arrays.toString(cTd.data));
+				}
+				if (td.children.isEmpty())
+					td.children = null;
+			}
+			if (td.primaryChildren != null) {
+				for (Iterator cit = td.primaryChildren.iterator(); cit.hasNext();) {
+					TaxonData cTd = ((TaxonData) cit.next());
+					if (taxonDataById.containsKey(cTd.colId))
+						continue;
+					cit.remove();
+					System.out.println(" ==> removed discarded primary child: " + Arrays.toString(cTd.data));
+				}
+				if (td.primaryChildren.isEmpty())
+					td.primaryChildren = null;
+			}
+			if (td.synonyms != null) {
+				for (Iterator sit = td.synonyms.iterator(); sit.hasNext();) {
+					TaxonData sTd = ((TaxonData) sit.next());
+					if (taxonDataById.containsKey(sTd.colId))
+						continue;
+					sit.remove();
+					System.out.println(" ==> removed discarded synonym: " + Arrays.toString(sTd.data));
+				}
+				if (td.synonyms.isEmpty())
+					td.synonyms = null;
+			}
+		}
+		
+		//	count taxa with and without kingdom trace
+		int attachedTaxa = 0;
+		int detachedTaxa = 0;
+		for (Iterator tidit = taxonDataById.keySet().iterator(); tidit.hasNext();) {
+			String tid = ((String) tidit.next());
+			TaxonData td = ((TaxonData) taxonDataById.get(tid));
+			if (KINGDOM_ATTRIBUTE.equals(td.rank)) {
+				attachedTaxa++;
+				continue; // always attached
+			}
+			TaxonData kTd = null;
+			for (TaxonData ptd = ((td.validTaxon == null) ? td.parent : td.validTaxon); ptd != null; ptd = ptd.parent)
+				if (KINGDOM_ATTRIBUTE.equals(ptd.rank)) {
+					kTd = ptd;
+					break;
+				}
+			if (kTd == null)
+				detachedTaxa++;
+			else attachedTaxa++;
+		}
+		
 		//	finally ...
+		System.out.println("Retained " + taxonDataById.size() + " taxa after processing whole tree, " + attachedTaxa + " attached, " + detachedTaxa + " detached");
 		return taxonDataById;
 	}
 	
@@ -2152,16 +2934,17 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 		
 		//	assign IDs and cluster names
 		int dataId = 1;
+		HashMap taxonDatasByIDs = new HashMap();
 		for (Iterator rit = ranksToLevels.keySet().iterator(); rit.hasNext();) {
 			String rank = ((String) rit.next());
 			Integer rankLevel = ((Integer) ranksToLevels.get(rank));
 			if (rankLevel == null)
 				continue;
 			if (rankLevel.intValue() == speciesRankLevel)
-				break; // we assign those IDs per tile, so tiles stay continuous
+				break; // we assign those IDs per tile, so tiles stay contiguous
 			for (int t = 0; t < rootTaxonDatas.size(); t++) {
 				TaxonData rTxd = ((TaxonData) rootTaxonDatas.get(t));
-				dataId = rTxd.setDataId(dataId, rankLevel.intValue(), "data.higher.txt");
+				dataId = rTxd.setDataId(dataId, rankLevel.intValue(), "data.higher.txt", taxonDatasByIDs);
 				System.out.println("Next data ID after " + rTxd.epithet + " " + rank + ": " + dataId);
 			}
 			System.out.println("Next data ID after " + rank + "s: " + dataId);
@@ -2187,7 +2970,7 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 					continue; // all IDs above species already assigned above
 				for (int r = 0; r < crs.size(); r++) {
 					TaxonData rTxd = ((TaxonData) crs.get(r));
-					dataId = rTxd.setDataId(dataId, rankLevel.intValue(), cfn);
+					dataId = rTxd.setDataId(dataId, rankLevel.intValue(), cfn, taxonDatasByIDs);
 					System.out.println("Next data ID after " + rTxd.epithet + " " + rank + ": " + dataId);
 				}
 			}
@@ -2245,8 +3028,11 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 			}
 		});
 		String clusterFileName = null;
+		HashSet clusterIDs = new HashSet();
 		int clusterMinId = Integer.MAX_VALUE;
 		int clusterMaxId = 0;
+		int clusterMinColId = Integer.MAX_VALUE;
+		int clusterMaxColId = 0;
 		HashSet clusterFileNames = new HashSet();
 		File tileFile = new File(dwcaFolder, "data.tiles.txt");
 		BufferedWriter tileWriter = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(tileFile), "UTF-8"));
@@ -2256,27 +3042,51 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 			TaxonData td = ((TaxonData) allTaxonDatas.get(t));
 			if (clusterFileName == null) {
 				clusterFileName = td.clusterName;
+				clusterIDs.clear();
 				clusterMinId = td.dataId;
 				clusterMaxId = td.dataId;
+				int tdColId = CatalogOfLifeLocal.parseIntBase29(td.colId);
+				clusterMinColId = tdColId;
+				clusterMaxColId = tdColId;
 				clusterFile = new File(dwcaFolder, clusterFileName);
 				clusterWriter = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(clusterFile), "UTF-8"));
 			}
 			else if (clusterFileName.equals(td.clusterName)) {
 				clusterMinId = Math.min(td.dataId, clusterMinId);
 				clusterMaxId = Math.max(td.dataId, clusterMaxId);
+				int tdColId = CatalogOfLifeLocal.parseIntBase29(td.colId);
+				clusterMinColId = Math.min(tdColId, clusterMinColId);
+				clusterMaxColId = Math.max(tdColId, clusterMaxColId);
 			}
 			else {
 				clusterWriter.flush();
 				clusterWriter.close();
-				tileWriter.write(clusterFileName + "\t" + Integer.toString(clusterMinId, 16).toUpperCase() + "\t" + Integer.toString(clusterMaxId, 16).toUpperCase());
+				tileWriter.write(clusterFileName + "\t" + Integer.toString(clusterMinId, 16).toUpperCase() + "\t" + Integer.toString(clusterMaxId, 16).toUpperCase() + "\t" + CatalogOfLifeLocal.encodeIntBase29(clusterMinColId) + "\t" + CatalogOfLifeLocal.encodeIntBase29(clusterMaxColId));
 				tileWriter.newLine();
-				System.out.println("Finished tile " + clusterFileName + ": " + clusterMinId + "-" + clusterMaxId);
+//				System.out.println("Finished tile " + clusterFileName + ": " + clusterMinId + "-" + clusterMaxId);
+				System.out.println("Finished tile " + clusterFileName + ": " + clusterMinId + "-" + clusterMaxId + " (" + CatalogOfLifeLocal.encodeIntBase29(clusterMinColId) + "/" + CatalogOfLifeLocal.encodeIntBase29(clusterMaxColId) + ")");
+				if (clusterIDs.size() != (clusterMaxId - clusterMinId + 1)) {
+					System.out.println(" - stored only " + clusterIDs.size() + " taxa in range of " + (clusterMaxId - clusterMinId + 1) + " data IDs:");
+					for (int i = clusterMinId; i <= clusterMaxId; i++) {
+						Integer cId = new Integer(i);
+						if (clusterIDs.contains(cId))
+							continue;
+						TaxonData cTd = ((TaxonData) taxonDatasByIDs.get(cId));
+						if (cTd == null)
+							System.out.println(" - missing data ID " + cId);
+						else System.out.println(" - missing data ID " + cId + ": " + cTd + " " + Arrays.toString(cTd.data));
+					}
+				}
 				if (clusterFileNames.contains(td.clusterName))
-					System.out.println("Tile " + td.clusterName + " found non-continuous at " + td.rank + " #" + td.dataId + ": " + td.epithet);
+					System.out.println("Tile " + td.clusterName + " found non-contiguous at " + td.rank + " #" + td.dataId + ": " + td.epithet);
 				clusterFileNames.add(td.clusterName);
 				clusterFileName = td.clusterName;
+				clusterIDs.clear();
 				clusterMinId = td.dataId;
 				clusterMaxId = td.dataId;
+				int tdColId = CatalogOfLifeLocal.parseIntBase29(td.colId);
+				clusterMinColId = tdColId;
+				clusterMaxColId = tdColId;
 				clusterFile = new File(dwcaFolder, clusterFileName);
 				clusterWriter = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(clusterFile), "UTF-8"));
 			}
@@ -2322,7 +3132,8 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 				linkingSuffix = (childIDs + "\t" + synonymIDs);
 			}
 			else linkingSuffix = td.epithetPrefix;
-			clusterWriter.write(Integer.toString(td.dataId, 16).toUpperCase() + 
+//			clusterWriter.write(Integer.toString(td.dataId, 16).toUpperCase() + 
+			clusterWriter.write(Integer.toString(td.dataId, 16).toUpperCase() + "/" + td.colId.toUpperCase() + 
 					"\t" + td.rank + 
 					"\t" + (td.isExtant ? "X" : "E") +
 					"\t" + ((td.parent == null) ? 0 : Integer.toString(td.parent.dataId, 16).toUpperCase()) +
@@ -2332,25 +3143,36 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 					"\t" + ((linkingSuffix == null) ? "" : linkingSuffix) +
 					"");
 			clusterWriter.newLine();
+			clusterIDs.add(new Integer(td.dataId));
 		}
 		clusterWriter.flush();
 		clusterWriter.close();
-		tileWriter.write(clusterFileName + "\t" + Integer.toString(clusterMinId, 16).toUpperCase() + "\t" + Integer.toString(clusterMaxId, 16).toUpperCase());
+		tileWriter.write(clusterFileName + "\t" + Integer.toString(clusterMinId, 16).toUpperCase() + "\t" + Integer.toString(clusterMaxId, 16).toUpperCase() + "\t" + CatalogOfLifeLocal.encodeIntBase29(clusterMinColId) + "\t" + CatalogOfLifeLocal.encodeIntBase29(clusterMaxColId));
 		tileWriter.newLine();
 		tileWriter.flush();
 		tileWriter.close();
-		System.out.println("Finished tile " + clusterFileName + ": " + clusterMinId + "-" + clusterMaxId);
+		System.out.println("Finished tile " + clusterFileName + ": " + clusterMinId + "-" + clusterMaxId + " (" + CatalogOfLifeLocal.encodeIntBase29(clusterMinColId) + "/" + CatalogOfLifeLocal.encodeIntBase29(clusterMaxColId) + ")");
+		if (clusterIDs.size() != (clusterMaxId - clusterMinId + 1)) {
+			System.out.println(" - stored only " + clusterIDs.size() + " taxa in range of " + (clusterMaxId - clusterMinId + 1) + " data IDs:");
+			for (int i = clusterMinId; i <= clusterMaxId; i++) {
+				Integer cId = new Integer(i);
+				if (clusterIDs.contains(cId))
+					continue;
+				TaxonData cTd = ((TaxonData) taxonDatasByIDs.get(cId));
+				if (cTd == null)
+					System.out.println(" - missing data ID " + cId);
+				else System.out.println(" - missing data ID " + cId + ": " + cTd + " " + Arrays.toString(cTd.data));
+			}
+		}
 	}
 	private static HashMap defaultKingdomPathsToClusterNames = new HashMap();
 	static {
 		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Arachnida.Zzz", "Animalia.Arthropoda.ZzA");
-		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Hexanauplia.Zzz", "Animalia.Arthropoda.ZzA");
+		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Copepoda.Zzz", "Animalia.Arthropoda.ZzA");
 		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Coleoptera.Buprestidae.Zzz", "Animalia.Arthropoda.Insecta.Coleoptera.ZzA");
-		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Coleoptera.Carabidae.Zzz", "Animalia.Arthropoda.Insecta.Coleoptera.ZzB");
+		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Coleoptera.Carabidae.Zzz", "Animalia.Arthropoda.Insecta.Coleoptera.Carabidae.Zzz");
 		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Coleoptera.Cerambycidae.Zzz", "Animalia.Arthropoda.Insecta.Coleoptera.Cerambycidae.Zzz");
 		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Coleoptera.Curculionidae.Zzz", "Animalia.Arthropoda.Insecta.Coleoptera.ZzA");
-		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Coleoptera.Melolonthidae.Zzz", "Animalia.Arthropoda.Insecta.Coleoptera.ZzB");
-		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Coleoptera.Scarabaeidae.Zzz", "Animalia.Arthropoda.Insecta.Coleoptera.ZzB");
 		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Coleoptera.Staphylinidae.Zzz", "Animalia.Arthropoda.Insecta.Coleoptera.Staphylinidae.Zzz");
 		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Coleoptera.Zzz", "Animalia.Arthropoda.Insecta.Coleoptera.Zzz");
 		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Diptera.Asilidae.Zzz", "Animalia.Arthropoda.Insecta.Diptera.ZzA");
@@ -2378,24 +3200,33 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Hymenoptera.Ichneumonidae.Zzz", "Animalia.Arthropoda.Insecta.Hymenoptera.ZzA");
 		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Hymenoptera.Pteromalidae.Zzz", "Animalia.Arthropoda.Insecta.Hymenoptera.ZzA");
 		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Hymenoptera.Zzz", "Animalia.Arthropoda.Insecta.Hymenoptera.Zzz");
-		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Lepidoptera.Arctiidae.Zzz", "Animalia.Arthropoda.Insecta.Lepidoptera.ZzA");
+		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Lepidoptera.Erebidae.Zzz", "Animalia.Arthropoda.Insecta.Lepidoptera.ZzA");
 		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Lepidoptera.Geometridae.Zzz", "Animalia.Arthropoda.Insecta.Lepidoptera.ZzA");
-		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Lepidoptera.Noctuidae.Zzz", "Animalia.Arthropoda.Insecta.Lepidoptera.ZzA");
-		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Lepidoptera.Nymphalidae.Zzz", "Animalia.Arthropoda.Insecta.Lepidoptera.ZzA");
-		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Lepidoptera.Tortricidae.Zzz", "Animalia.Arthropoda.Insecta.Lepidoptera.ZzA");
+		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Lepidoptera.Lycaenidae.Zzz", "Animalia.Arthropoda.Insecta.Lepidoptera.ZzA");
+		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Lepidoptera.Crambidae.Zzz", "Animalia.Arthropoda.Insecta.Lepidoptera.ZzB");
+		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Lepidoptera.Hesperiidae.Zzz", "Animalia.Arthropoda.Insecta.Lepidoptera.ZzB");
+		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Lepidoptera.Noctuidae.Zzz", "Animalia.Arthropoda.Insecta.Lepidoptera.ZzB");
+		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Lepidoptera.Nymphalidae.Zzz", "Animalia.Arthropoda.Insecta.Lepidoptera.ZzB");
+		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Lepidoptera.Tortricidae.Zzz", "Animalia.Arthropoda.Insecta.Lepidoptera.ZzB");
 		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Lepidoptera.Zzz", "Animalia.Arthropoda.Insecta.Lepidoptera.Zzz");
 		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Neuroptera.Zzz", "Animalia.Arthropoda.Insecta.ZzA");
 		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Orthoptera.Zzz", "Animalia.Arthropoda.Insecta.ZzA");
 		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Thysanoptera.Zzz", "Animalia.Arthropoda.Insecta.ZzA");
 		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Insecta.Zzz", "Animalia.Arthropoda.Insecta.Zzz");
 		defaultKingdomPathsToClusterNames.put("Animalia.Arthropoda.Zzz", "Animalia.Arthropoda.Zzz");
-		defaultKingdomPathsToClusterNames.put("Animalia.Chordata.Actinopterygii.Zzz", "Animalia.Chordata.ZzA");
+		defaultKingdomPathsToClusterNames.put("Animalia.Chordata.Amphibia.Zzz", "Animalia.Chordata.ZzA");
+		defaultKingdomPathsToClusterNames.put("Animalia.Chordata.Aves.Zzz", "Animalia.Chordata.ZzA");
 		defaultKingdomPathsToClusterNames.put("Animalia.Chordata.Mammalia.Zzz", "Animalia.Chordata.ZzA");
+		defaultKingdomPathsToClusterNames.put("Animalia.Chordata.Squamata.Zzz", "Animalia.Chordata.ZzA");
 		defaultKingdomPathsToClusterNames.put("Animalia.Chordata.Zzz", "Animalia.Chordata.Zzz");
 		defaultKingdomPathsToClusterNames.put("Animalia.Mollusca.Gastropoda.Neogastropoda.Zzz", "Animalia.Mollusca.Gastropoda.ZzA");
 		defaultKingdomPathsToClusterNames.put("Animalia.Mollusca.Gastropoda.Stylommatophora.Zzz", "Animalia.Mollusca.Gastropoda.ZzA");
 		defaultKingdomPathsToClusterNames.put("Animalia.Mollusca.Gastropoda.Zzz", "Animalia.Mollusca.Gastropoda.Zzz");
 		defaultKingdomPathsToClusterNames.put("Animalia.Mollusca.Zzz", "Animalia.Mollusca.Zzz");
+		defaultKingdomPathsToClusterNames.put("Animalia.Annelida.Zzz", "Animalia.ZzA");
+		defaultKingdomPathsToClusterNames.put("Animalia.Bryozoa.Zzz", "Animalia.ZzA");
+		defaultKingdomPathsToClusterNames.put("Animalia.Echinodermata.Zzz", "Animalia.ZzA");
+		defaultKingdomPathsToClusterNames.put("Animalia.Nematoda.Zzz", "Animalia.ZzA");
 		defaultKingdomPathsToClusterNames.put("Animalia.Zzz", "Animalia.Zzz");
 		defaultKingdomPathsToClusterNames.put("Archaea.Zzz", "Archaea.Zzz");
 		defaultKingdomPathsToClusterNames.put("Bacteria.Zzz", "Bacteria.Zzz");
@@ -2528,6 +3359,8 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 				if (td.length < 6)
 					continue;
 				String id = td[0];
+				if (id.indexOf("/") != -1)
+					id = id.substring(0, id.indexOf("/"));
 				String epithet = td[5];
 				
 				//	normalize and index epithet (we're indexing in all-lower-case)
@@ -2589,7 +3422,7 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 			Object idObj = epithetsToTaxonIDs.get(epithet);
 			if (idObj == null)
 				continue;
-			if ((indexTileEndIndex < indexTileStarts.length) && (indexTileStarts[indexTileEndIndex].compareTo(epithet) < 0)) {
+			if ((indexTileEndIndex < indexTileStarts.length) && (indexTileStarts[indexTileEndIndex].compareTo(epithet) <= 0)) {
 				indexTileWriter.flush();
 				indexTileWriter.close();
 				indexTileListLines.add(indexTileFile.getName() + "\t" + indexTileStarts[indexTileEndIndex - 1] + "\t" + getIndexTileEnd(indexTileStarts[indexTileEndIndex]) + "\t" + indexTileEpithetCount + "\t" + indexTileIdCount);
@@ -2828,7 +3661,7 @@ public class CatalogOfLifeDataTool implements TaxonomicNameConstants {
 		for (int r; (r = fin.read(buffer, 0, buffer.length)) != -1;)
 			md5.update(buffer, 0, r);
 		fin.close();
-		return md5.digestHex();
+		return md5.digestString();
 	}
 	
 	private static void generate(String dwcaPath, String destPath, boolean zip) throws Exception {

@@ -41,6 +41,7 @@ import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.LinkedHashMap;
+import java.util.LinkedHashSet;
 import java.util.Properties;
 import java.util.TreeMap;
 import java.util.regex.Matcher;
@@ -86,18 +87,19 @@ public class CatalogOfLifeLocal implements TaxonomicNameConstants {
 		ranksToLevels.put(PHYLUM_ATTRIBUTE, new Byte((byte) ranksToLevels.size()));
 		ranksToLevels.put(SUBPHYLUM_ATTRIBUTE, new Byte((byte) ranksToLevels.size()));
 		ranksToLevels.put(INFRAPHYLUM_ATTRIBUTE, new Byte((byte) ranksToLevels.size()));
+		ranksToLevels.put(PARVPHYLUM_ATTRIBUTE, new Byte((byte) ranksToLevels.size()));
 		
 		ranksToLevels.put(SUPERCLASS_ATTRIBUTE, new Byte((byte) ranksToLevels.size()));
 		ranksToLevels.put(CLASS_ATTRIBUTE, new Byte((byte) ranksToLevels.size()));
 		ranksToLevels.put(SUBCLASS_ATTRIBUTE, new Byte((byte) ranksToLevels.size()));
 		ranksToLevels.put(INFRACLASS_ATTRIBUTE, new Byte((byte) ranksToLevels.size()));
-		ranksToLevels.put("parvClass", new Byte((byte) ranksToLevels.size()));
+		ranksToLevels.put(PARVCLASS_ATTRIBUTE, new Byte((byte) ranksToLevels.size()));
 		
 		ranksToLevels.put(SUPERORDER_ATTRIBUTE, new Byte((byte) ranksToLevels.size()));
 		ranksToLevels.put(ORDER_ATTRIBUTE, new Byte((byte) ranksToLevels.size()));
 		ranksToLevels.put(SUBORDER_ATTRIBUTE, new Byte((byte) ranksToLevels.size()));
 		ranksToLevels.put(INFRAORDER_ATTRIBUTE, new Byte((byte) ranksToLevels.size()));
-		ranksToLevels.put("parvOrder", new Byte((byte) ranksToLevels.size()));
+		ranksToLevels.put(PARVORDER_ATTRIBUTE, new Byte((byte) ranksToLevels.size()));
 		
 		ranksToLevels.put(SUPERFAMILY_ATTRIBUTE, new Byte((byte) ranksToLevels.size()));
 		ranksToLevels.put("epiFamily", new Byte((byte) ranksToLevels.size()));
@@ -154,13 +156,17 @@ public class CatalogOfLifeLocal implements TaxonomicNameConstants {
 			if (tileData.length < 3)
 				continue;
 			String fileName = tileData[0];
-//			int minId = Integer.parseInt(tileData[1]);
 			int minId = Integer.parseInt(tileData[1], 16);
-//			int maxId = Integer.parseInt(tileData[2]);
 			int maxId = Integer.parseInt(tileData[2], 16);
+//			int minColId = ((tileData.length < 5) ? -1 : Integer.parseInt(tileData[3], 16));
+//			int maxColId = ((tileData.length < 5) ? -1 : Integer.parseInt(tileData[4], 16));
+			int minColId = ((tileData.length < 5) ? -1 : parseIntBase29(tileData[3]));
+			int maxColId = ((tileData.length < 5) ? -1 : parseIntBase29(tileData[4]));
 			if ("data.higher.txt".equals(fileName))
-				higherTile = new DataTileProxy(this, minId, maxId, fileName);
-			else speciesTiles.add(new DataTileProxy(this, minId, maxId, fileName));
+//				higherTile = new DataTileProxy(this, minId, maxId, fileName);
+				higherTile = new DataTileProxy(this, minId, maxId, minColId, maxColId, fileName);
+//			else speciesTiles.add(new DataTileProxy(this, minId, maxId, fileName));
+			else speciesTiles.add(new DataTileProxy(this, minId, maxId, minColId, maxColId, fileName));
 		}
 		dtBr.close();
 		
@@ -194,7 +200,7 @@ public class CatalogOfLifeLocal implements TaxonomicNameConstants {
 		for (int t = 1; t < this.indexTiles.length; t++) {
 			IndexTileProxy prevTile = this.indexTiles[t-1];
 			if (compareStringBytes(this.indexTiles[t].minStr, 0, this.indexTiles[t].minStr.length, prevTile.maxStr, 0, prevTile.maxStr.length, true) < 0)
-				throw new IllegalArgumentException("Index tiles must not overlap in their ID ranges, but tiles " + prevTile + " and " + this.indexTiles[t] + " are");
+				throw new IllegalArgumentException("Index tiles must not overlap in their term ranges, but tiles " + prevTile + " and " + this.indexTiles[t] + " are");
 		}
 	}
 	
@@ -404,19 +410,30 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 		final CatalogOfLifeLocal col;
 		final int minId;
 		final int maxId;
+		final int minColId;
+		final int maxColId;
 		final String fileName;
 		DataTile tile = null;
 		int lastTileUseNumber = 0;
-		DataTileProxy(CatalogOfLifeLocal col, int minId, int maxId, String fileName) {
+//		DataTileProxy(CatalogOfLifeLocal col, int minId, int maxId, String fileName) {
+		DataTileProxy(CatalogOfLifeLocal col, int minId, int maxId, int minColId, int maxColId, String fileName) {
 			this.col = col;
 			if (maxId < minId)
 				throw new IllegalArgumentException("The maxId must be less than or equal to the minId, but values are minId: " + minId + ", maxId: " + maxId);
 			this.minId = minId;
 			this.maxId = maxId;
+			this.minColId = minColId;
+			this.maxColId = maxColId;
 			this.fileName = fileName;
 		}
 		boolean containsRecord(int id) {
 			return ((this.minId <= id) && (id <= this.maxId));
+		}
+		boolean spansColRecord(String colIdBase29) {
+			return this.spansColRecord(parseIntBase29(colIdBase29));
+		}
+		boolean spansColRecord(int colId) {
+			return ((this.minColId <= colId) && (colId <= this.maxColId));
 		}
 		boolean isTileLoaded() {
 			return (this.tile != null);
@@ -485,11 +502,12 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 		int recordOffsetSize = 0;
 		byte[] recordBytes = new byte[32768];
 		int recordByteSize = 0;
+		int[] recordColIDs = new int[1024];
 		byte[] byteCache = new byte[256];
-//		int rMinId = Integer.MAX_VALUE;
-//		int rMaxId = 0;
-//		boolean[] missingId = new boolean[maxId - minId + 1];
-//		Arrays.fill(missingId, true);
+		int rMinId = Integer.MAX_VALUE;
+		int rMaxId = 0;
+		boolean[] missingId = new boolean[maxId - minId + 1];
+		Arrays.fill(missingId, true);
 		int listIdCount = 0;
 		int listByteCount = 0;
 		for (String recordStr; (recordStr = br.readLine()) != null;) {
@@ -500,11 +518,22 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 				continue;
 			}
 			
-			//	parse TSV TODO parse original CoL ID off internal ID at '/', and set respective property in argument 'col' to true
-			int id = Integer.parseInt(recordData[0], 16);
-//			rMinId = Math.min(rMinId, id);
-//			rMaxId = Math.max(rMaxId, id);
-//			missingId[id - minId] = false;
+			//	parse TSV
+//			int id = Integer.parseInt(recordData[0], 16);
+			int id;
+			int colId;
+			if (recordData[0].indexOf("/") == -1) /* no original CoL ID given */ {
+				id = Integer.parseInt(recordData[0], 16);
+				colId = 0;
+				recordColIDs = null; // clear array, no use collecting any more IDs
+			}
+			else /* parse original CoL ID off record ID */ {
+				id = Integer.parseInt(recordData[0].substring(0, recordData[0].indexOf("/")), 16);
+				colId = parseIntBase29(recordData[0].substring(recordData[0].indexOf("/") + "/".length()));
+			}
+			rMinId = Math.min(rMinId, id);
+			rMaxId = Math.max(rMaxId, id);
+			missingId[id - minId] = false;
 			byte rank = encodeRank(recordData[1]);
 			boolean isPrimaryRank = primaryRanks.containsKey(recordData[1]);
 			boolean isExtant = "X".equals(recordData[2]);
@@ -566,6 +595,8 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 			int byteCacheSize = 0;
 			storeInt(id, byteCache, byteCacheSize, TaxonRecord.ID_SIZE);
 			byteCacheSize += TaxonRecord.ID_SIZE;
+//			storeInt(colId, byteCache, byteCacheSize, TaxonRecord.ID_SIZE);
+//			byteCacheSize += TaxonRecord.ID_SIZE;
 			if (validId == 0) {
 				storeInt(parentId, byteCache, byteCacheSize, TaxonRecord.ID_SIZE);
 				byteCacheSize += TaxonRecord.ID_SIZE;
@@ -620,22 +651,31 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 			}
 			
 			//	store data in tile arrays
-			if (recordOffsetSize == recordOffsets.length)
+			if (recordOffsetSize == recordOffsets.length) {
 				recordOffsets = doubleLength(recordOffsets);
+				if (recordColIDs != null)
+					recordColIDs = doubleLength(recordColIDs);
+			}
 			if (recordBytes.length < (recordByteSize + byteCacheSize)) {
 				byte[] cRecordBytes = new byte[recordBytes.length * 2];
 				System.arraycopy(recordBytes, 0, cRecordBytes, 0, recordBytes.length);
 				recordBytes = cRecordBytes;
 			}
-			recordOffsets[recordOffsetSize++] = recordByteSize; // TODO_maybe maybe align to multiple of 4
+			recordOffsets[recordOffsetSize] = recordByteSize; // TODO_maybe maybe align to multiple of 4
+			if (recordColIDs != null)
+				recordColIDs[recordOffsetSize] = colId;
+			recordOffsetSize++;
 			System.arraycopy(byteCache, 0, recordBytes, recordByteSize, byteCacheSize);
 			recordByteSize += byteCacheSize;
 		}
 		br.close();
 		
 		//	shrink arrays
-		if (recordOffsetSize < recordOffsets.length)
+		if (recordOffsetSize < recordOffsets.length) {
 			recordOffsets = trimLength(recordOffsets, recordOffsetSize);
+			if (recordColIDs != null)
+				recordColIDs = trimLength(recordColIDs, recordOffsetSize);
+		}
 		if (recordByteSize < recordBytes.length) {
 			byte[] cRecordBytes = new byte[recordByteSize];
 			System.arraycopy(recordBytes, 0, cRecordBytes, 0, recordByteSize);
@@ -643,15 +683,15 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 		}
 		
 		System.out.println("GOT " + recordOffsets.length + " RECORDS WITH " + recordBytes.length + " BYTES");
-//		System.out.println("MIN ID IS " + rMinId + ", MAX ID IS " + rMaxId);
-//		for (int i = 0; i < missingId.length; i++) {
-//			if (missingId[i])
-//				System.out.println("MISSING ID " + (minId + i));
-//		}
+		System.out.println("MIN ID IS " + rMinId + ", MAX ID IS " + rMaxId);
+		for (int i = 0; i < missingId.length; i++) {
+			if (missingId[i])
+				System.out.println("MISSING ID " + (minId + i));
+		}
 		System.out.println("STORED " + listIdCount + " DESCENDENT IDS IN " + listByteCount + " BYTES");
 		
 		//	finally ...
-		return new DataTile(col, minId, maxId, recordOffsets, recordBytes);
+		return new DataTile(col, minId, maxId, recordOffsets, recordBytes, recordColIDs);
 	}
 	
 	private static int[] decodeIdList(String idList) {
@@ -681,17 +721,45 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 		final int maxId;
 		final int[] recordOffsets;
 		final int[] idRecordOffsets;
+		final int[] idRecordColIDs;
+		final int minColId;
+		final int maxColId;
+		final long[] colIdRecordOffsets;
 		final byte[] data;
-		DataTile(CatalogOfLifeLocal col, int minId, int maxId, int[] recordOffsets, byte[] data) {
+		DataTile(CatalogOfLifeLocal col, int minId, int maxId, int[] recordOffsets, byte[] data, int[] recordColIDs) {
 			this.col = col;
 			this.minId = minId;
 			this.maxId = maxId;
 			this.data = data;
 			this.recordOffsets = recordOffsets;
 			this.idRecordOffsets = new int[this.recordOffsets.length];
+			this.idRecordColIDs = ((recordColIDs == null) ? null : new int[this.recordOffsets.length]);
 			for (int r = 0; r < this.recordOffsets.length; r++) {
 				int id = TaxonRecord.getId(this.data, this.recordOffsets[r]);
 				this.idRecordOffsets[id - this.minId] = this.recordOffsets[r];
+				if (recordColIDs != null)
+					this.idRecordColIDs[id - this.minId] = recordColIDs[r];
+			}
+			if (recordColIDs == null) {
+				this.minColId = Integer.MAX_VALUE;
+				this.maxColId = Integer.MIN_VALUE;
+				this.colIdRecordOffsets = null;
+			}
+			else {
+				int minColId = Integer.MAX_VALUE;
+				int maxColId = Integer.MIN_VALUE;
+				this.colIdRecordOffsets = new long[this.recordOffsets.length];
+				for (int r = 0; r < this.recordOffsets.length; r++) {
+					int colId = recordColIDs[r];
+					minColId = Math.min(minColId, colId);
+					maxColId = Math.max(maxColId, colId);
+					this.colIdRecordOffsets[r] = colId;
+					this.colIdRecordOffsets[r] <<= 32;
+					this.colIdRecordOffsets[r] |= this.recordOffsets[r];
+				}
+				this.minColId = minColId;
+				this.maxColId = maxColId;
+				Arrays.sort(this.colIdRecordOffsets);
 			}
 		}
 		
@@ -700,8 +768,43 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 		}
 		TaxonRecord getRecord(int id) {
 			if (this.containsRecord(id))
-				return new TaxonRecord(/*this.col, */this, this.idRecordOffsets[id - this.minId]);
+				return new TaxonRecord(this, this.idRecordOffsets[id - this.minId]);
 			else return this.col.getRecord(id);
+		}
+		boolean colSpansRecord(String colId) {
+			return this.colSpansRecord(parseIntBase29(colId));
+		}
+		boolean colSpansRecord(int colId) {
+			return ((this.minColId <= colId) && (colId <= this.maxColId));
+		}
+		TaxonRecord colGetRecord(String colId) {
+			return this.colGetRecord(parseIntBase29(colId));
+		}
+		TaxonRecord colGetRecord(int colId) {
+			if (this.colSpansRecord(colId)) {
+				long minColId = colId;
+				minColId <<= 32;
+				long maxColId = (minColId | 0x00000000FFFFFFFFL);
+				int low = 0;
+				int high = (this.colIdRecordOffsets.length - 1);
+				int pos = -1;
+				while (low <= high) {
+					int mid = ((low + high) / 2);
+					if (this.colIdRecordOffsets[mid] < minColId)
+						low = (mid + 1);
+					else if (this.colIdRecordOffsets[mid] > maxColId)
+						high = (mid - 1);
+					else {
+						pos = mid;
+						break;
+					}
+				}
+				return ((pos == -1) ? null : new TaxonRecord(this, ((int) (this.colIdRecordOffsets[pos] & 0x000000007FFFFFFFL))));
+			}
+			else return null;
+		}
+		int colGetId(int id) {
+			return ((this.idRecordColIDs == null) ? -1 : this.idRecordColIDs[id - this.minId]);
 		}
 		
 		String getEpithet(int id) {
@@ -1608,36 +1711,41 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 			this.offset = offset;
 		}
 		public int getId() {
-			return getId(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
+			return getId(this.data, this.offset);
+		}
+		public String getOriginalColId() {
+			int id = getId(this.data, this.offset);
+			int colId = this.tile.colGetId(id);
+			return ((colId == -1) ? null : encodeIntBase29(colId));
 		}
 		public String getEpithet() {
-			return getEpithet(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
+			return getEpithet(this.data, this.offset);
 		}
 		public boolean isValidTaxon() {
-			return isValidTaxon(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
+			return isValidTaxon(this.data, this.offset);
 		}
 		public boolean isExtantTaxon() {
-			return isExtant(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
+			return isExtant(this.data, this.offset);
 		}
 		public String getRank() {
-			byte rank = getRank(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
+			byte rank = getRank(this.data, this.offset);
 			return decodeRank(rank);
 		}
 		byte getRankByte() {
-			return getRank(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
+			return getRank(this.data, this.offset);
 		}
 		public boolean isPrimaryRank() {
-			return isPrimaryRank(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
+			return isPrimaryRank(this.data, this.offset);
 		}
 		public TaxonRecord getParent() {
 			if (isValidTaxon(this.data, this.offset)) {
-				int parentId = getParentOrValidId(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
+				int parentId = getParentOrValidId(this.data, this.offset);
 				return ((parentId == 0) ? null : this.tile.getRecord(parentId));
 			}
 			else return null;
 		}
 		public TaxonRecord[] getChildren() {
-			int[] childIDs = getChildIDs(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
+			int[] childIDs = getChildIDs(this.data, this.offset);
 			if (childIDs == null)
 				return null;
 			TaxonRecord[] children = new TaxonRecord[childIDs.length];
@@ -1657,7 +1765,7 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 			return this.getPrimaryChildren(false);
 		}
 		public TaxonRecord[] getPrimaryChildren(boolean includeSynonyms) {
-			int[] pChildIDs = this.tile.getPrimaryChildIDs(getId(this.data, this.offset), includeSynonyms); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
+			int[] pChildIDs = this.tile.getPrimaryChildIDs(getId(this.data, this.offset), includeSynonyms);
 			if (pChildIDs == null)
 				return null;
 			TaxonRecord[] pChildren = new TaxonRecord[pChildIDs.length];
@@ -1668,7 +1776,7 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 		public TaxonRecord[] findDescendants(String query, boolean prefixMatch, boolean caseSensitive, String rank, boolean includeSynonyms) {
 			byte qRank = encodeRank(rank);
 			byte[] qStr = getQueryBytes(query);
-			int[] descendantIDs = this.tile.findDescendantIDs(getId(this.data, this.offset), qStr, prefixMatch, caseSensitive, qRank, includeSynonyms); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
+			int[] descendantIDs = this.tile.findDescendantIDs(getId(this.data, this.offset), qStr, prefixMatch, caseSensitive, qRank, includeSynonyms);
 			if (descendantIDs == null)
 				return null;
 			TaxonRecord[] descendants = new TaxonRecord[descendantIDs.length];
@@ -1680,24 +1788,24 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 			return this.getHigherTaxonomy(false);
 		}
 		public Properties getHigherTaxonomy(boolean allRanks) {
-			int id = getId(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
+			int id = getId(this.data, this.offset);
 			return this.tile.getHigherTaxonomy(id, allRanks);
 		}
 		public TaxonRecord getValidTaxon() {
-			if (isValidTaxon(this.data, this.offset)) // TODO add boolean for adding 4 bytes for original CoL ID to affsets
+			if (isValidTaxon(this.data, this.offset))
 				return this;
-			int validId = getParentOrValidId(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
+			int validId = getParentOrValidId(this.data, this.offset);
 			return this.tile.getRecord(validId);
 		}
 		public String getOriginalParentEpithets() {
-			if (isValidTaxon(this.data, this.offset)) // TODO add boolean for adding 4 bytes for original CoL ID to affsets
+			if (isValidTaxon(this.data, this.offset))
 				return null;
-			if (!hasOriginalParent(this.data, this.offset)) // TODO add boolean for adding 4 bytes for original CoL ID to affsets
+			if (!hasOriginalParent(this.data, this.offset))
 				return null;
-			return getOriginalParentEpithets(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
+			return getOriginalParentEpithets(this.data, this.offset);
 		}
 		public TaxonRecord[] getSynonyms() {
-			int[] synonymIDs = getSynonymIDs(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
+			int[] synonymIDs = getSynonymIDs(this.data, this.offset);
 			if (synonymIDs == null)
 				return null;
 			TaxonRecord[] synonyms = new TaxonRecord[synonymIDs.length];
@@ -1706,10 +1814,10 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 			return synonyms;
 		}
 		public String getAuthority() {
-			byte[] authorityBytes = getAuthorityBytes(this.data, this.offset); // TODO add boolean for adding 4 bytes for original CoL ID to affsets
+			byte[] authorityBytes = getAuthorityBytes(this.data, this.offset);
 			if (authorityBytes == null)
 				return null;
-			else if (storesVerbatimAuthority(this.data, this.offset)) // TODO add boolean for adding 4 bytes for original CoL ID to affsets
+			else if (storesVerbatimAuthority(this.data, this.offset))
 				return getString(authorityBytes, 0, authorityBytes.length);
 			else return this.tile.decodeAuthority(authorityBytes);
 		}
@@ -1865,6 +1973,9 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 		static int getId(byte[] data, int offset) {
 			return getInt(data, (offset + ID_OFFSET), ID_SIZE);
 		}
+//		static int getOriginalColId(byte[] data, int offset) {
+//			return getInt(data, (offset + ORIGINAL_COL_ID_OFFSET), ID_SIZE);
+//		}
 		static final int PARENT_OR_VALID_ID_OFFSET = 4; // position of parent/valid ID from start of record
 		static int getParentOrValidId(byte[] data, int offset) {
 			return getInt(data, (offset + PARENT_OR_VALID_ID_OFFSET), ID_SIZE);
@@ -1978,6 +2089,32 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 		}
 		else in = this.dataProvider.getInputStream(fileName);
 		return new BufferedInputStream(in);
+	}
+	
+	private static final String base29chars = "23456789BCDFGHJKLMNPQRSTVWXYZ"; // characters from https://github.com/CatalogueOfLife/backend/blob/master/api/src/main/java/life/catalogue/common/id/IdConverter.java
+	static String encodeIntBase29(int intPlain) {
+		StringBuffer intBase29 = new StringBuffer();
+		while (intPlain != 0) {
+			int digit = (intPlain % base29chars.length());
+			intBase29.insert(0, base29chars.charAt(digit));
+			intPlain -= digit;
+			intPlain /= base29chars.length();
+		}
+		if (intBase29.length() == 0)
+			intBase29.append(base29chars.charAt(0));
+		return intBase29.toString();
+	}
+	static int parseIntBase29(String intBase29) {
+		int intPlain = 0;
+		for (int c = 0; c < intBase29.length(); c++) {
+			char ch = Character.toUpperCase(intBase29.charAt(c));
+			int digit = base29chars.indexOf(ch);
+			intPlain *= base29chars.length();
+			if (digit == -1)
+				throw new IllegalArgumentException("Cannot decode digit '" + ch + "' base 29 in input string '" + intBase29 + "'");
+			else intPlain += digit;
+		}
+		return intPlain;
 	}
 	
 	static int[] doubleLength(int[] ints) {
@@ -2209,6 +2346,48 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 			for (int t = 0; t < this.indexTiles.length; t++)
 				this.indexTiles[t].getTile();
 		}
+	}
+	
+	/**
+	 * Retrieve a taxon record from the Catalog of Life via its original base
+	 * 29 identifier. If the argument identifier does not match any taxon
+	 * record, this method returns null.
+	 * @param colIdBase29 the original base 29 identifier assigned by CoL
+	 * @return the taxon record with the argument original ID
+	 */
+	public TaxonRecord getTaxonRecord(String colIdBase29) {
+		int colId = parseIntBase29(colIdBase29);
+		
+		//	check higher tile first thing (always loaded)
+		if (this.higherTile.colSpansRecord(colId)) {
+			TaxonRecord tr = this.higherTile.colGetRecord(colId);
+			if (tr != null)
+				return tr;
+		}
+		
+		//	check currently loaded tiles (saves lots of IO on hits)
+		ArrayList toLoadTiles = new ArrayList();
+		for (int t = 0; t < this.speciesTiles.length; t++) {
+			if (!this.speciesTiles[t].spansColRecord(colId))
+				continue;
+			if (this.speciesTiles[t].isTileLoaded()) {
+				DataTile tile = this.speciesTiles[t].getTile();
+				TaxonRecord tr = tile.colGetRecord(colId);
+				if (tr != null)
+					return tr;
+			}
+			else toLoadTiles.add(this.speciesTiles[t]);
+		}
+		
+		//	check remaining tiles that might contain target ID
+		for (int t = 0; t < toLoadTiles.size(); t++) {
+			DataTileProxy speciesTile = ((DataTileProxy) toLoadTiles.get(t));
+			DataTile tile = speciesTile.getTile();
+			TaxonRecord tr = tile.colGetRecord(colId);
+			if (tr != null)
+				return tr;
+		}
+		return null;
 	}
 	
 	/**
@@ -2735,6 +2914,15 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 	 * @param args
 	 */
 	public static void main(String[] args) throws Exception {
+//		int plain = 123456;
+//		String base29 = "7DTMQ";//encodeIntBase29(plain);
+////		System.out.println(plain + " ==> " + base29);
+//		plain = parseIntBase29(base29);
+//		System.out.println(base29 + " ==> " + plain);
+//		System.out.println(plain + " ==> " + encodeIntBase29(plain));
+//		if (true)
+//			return;
+		
 //		File higher = new File("E:/Projektdaten/CoL2021/data.higher.txt");
 //		InputStream dataIn = new BufferedInputStream(new FileInputStream(higher));
 //		DataTile dataTile = loadDataTile(dataIn, 1, 227500, null);
@@ -2743,7 +2931,8 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 //		InputStream indexIn = new BufferedInputStream(new FileInputStream(indexA));
 //		IndexTile indexTile = loadIndexTile(indexIn, "a".getBytes(), "azzzzz".getBytes(), null);
 //		
-		AnalyzerDataProvider dataProvider = new AnalyzerDataProviderFileBased(new File("E:/Projektdaten/CoL2021/"));
+//		AnalyzerDataProvider dataProvider = new AnalyzerDataProviderFileBased(new File("E:/Projektdaten/CoL2021/Data2021"));
+		AnalyzerDataProvider dataProvider = new AnalyzerDataProviderFileBased(new File("E:/Projektdaten/CoL2021"));
 //		long maxMem = Runtime.getRuntime().maxMemory();
 //		long freeMem = Runtime.getRuntime().freeMemory();
 //		System.out.println("Max memory is " + maxMem + ", " + freeMem + " free" + ", " + (maxMem - freeMem) + " used");
@@ -2799,16 +2988,39 @@ Provide hard coded IDs and expansion for specific frequent authorities (especial
 //			System.out.println(dMatches[m].getRank() + " " + dMatches[m].getNameString() + " " + dMatches[m].getAuthority());
 		
 		TaxonRecord[] familyTrs = col.findTaxonRecords("Formicidae", FAMILY_ATTRIBUTE);
+		LinkedHashSet colIDs = new LinkedHashSet();
 		for (int f = 0; f < familyTrs.length; f++) {
-			System.out.println(familyTrs[f].getEpithet() + " " + familyTrs[f].getHigherTaxonomy());
+//			System.out.println(familyTrs[f].getEpithet() + " " + familyTrs[f].getHigherTaxonomy());
+			System.out.println(familyTrs[f].getId() + "/" + familyTrs[f].getOriginalColId() + ": " + familyTrs[f].getEpithet() + " " + familyTrs[f].getHigherTaxonomy());
+			colIDs.add(familyTrs[f].getOriginalColId());
 			TaxonRecord[] genusTrs = familyTrs[f].getPrimaryChildren(false);
 			for (int g = 0; g < genusTrs.length; g++) {
-				System.out.println("  " + genusTrs[g].getEpithet() + " " + (genusTrs[g].isValidTaxon() ? "[valid]" : "[synonym of " + genusTrs[g].getValidTaxon().getNameString(false) + "]"));
+//				System.out.println("  " + genusTrs[g].getEpithet() + " " + (genusTrs[g].isValidTaxon() ? "[valid]" : "[synonym of " + genusTrs[g].getValidTaxon().getNameString(false) + "]"));
+				System.out.println("  " + genusTrs[g].getId() + "/" + genusTrs[g].getOriginalColId() + ": " + genusTrs[g].getEpithet() + " " + (genusTrs[g].isValidTaxon() ? "[valid]" : "[synonym of " + genusTrs[g].getValidTaxon().getNameString(false) + "]"));
 				TaxonRecord[] speciesTrs = genusTrs[g].getPrimaryChildren(false);
-				for (int s = 0; s < speciesTrs.length; s++)
-					System.out.println("    " + speciesTrs[s].getEpithet() + " " + (speciesTrs[s].isValidTaxon() ? "[valid]" : "[synonym of " + speciesTrs[s].getValidTaxon().getNameString(false) + "]") + ", " + speciesTrs[s].getNameString(false));
+				colIDs.add(genusTrs[g].getOriginalColId());
+				for (int s = 0; s < speciesTrs.length; s++) {
+					System.out.println("    " + speciesTrs[s].getId() + "/" + speciesTrs[s].getOriginalColId() + ": " + speciesTrs[s].getEpithet() + " " + (speciesTrs[s].isValidTaxon() ? "[valid]" : "[synonym of " + speciesTrs[s].getValidTaxon().getNameString(false) + "]") + ", " + speciesTrs[s].getNameString(false));
+					colIDs.add(speciesTrs[s].getOriginalColId());
+				}
 			}
 		}
+		colIDs.remove(null);
+		ArrayList lookupResults = new ArrayList(colIDs.size());
+		long lookupStart = System.currentTimeMillis();
+		for (Iterator idit = colIDs.iterator(); idit.hasNext();) {
+			String colId = ((String) idit.next());
+			TaxonRecord tr = col.getTaxonRecord(colId);
+//			if (tr == null)
+//				System.out.println(colId + " ==> " + null);
+//			else System.out.println(colId + " ==> " + tr.getId() + "/" + tr.getOriginalColId() + ": " + tr.getEpithet() + " " + (tr.isValidTaxon() ? "[valid]" : "[synonym of " + tr.getValidTaxon().getNameString(false) + "]") + ", " + tr.getNameString(false));
+			if (tr == null)
+				lookupResults.add(colId + " ==> " + null);
+			else lookupResults.add(colId + " ==> " + tr.getId() + "/" + tr.getOriginalColId() + ": " + tr.getEpithet() + " " + (tr.isValidTaxon() ? "[valid]" : "[synonym of " + tr.getValidTaxon().getNameString(false) + "]") + ", " + tr.getNameString(false));
+		}
+		System.out.println(colIDs.size() + " lookups done in " + (System.currentTimeMillis() - lookupStart) + "ms");
+		for (int r = 0; r < lookupResults.size(); r++)
+			System.out.println(lookupResults.get(r));
 		
 //		String query = "Formicinae";
 //		String lQuery = query.toLowerCase();

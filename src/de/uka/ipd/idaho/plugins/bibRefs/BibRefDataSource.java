@@ -33,11 +33,11 @@ import java.util.ArrayList;
 import java.util.Properties;
 import java.util.TreeMap;
 
+import de.uka.ipd.idaho.easyIO.util.ComponentClassLoader.ComponentInitializer;
 import de.uka.ipd.idaho.gamta.util.AnalyzerDataProvider;
 import de.uka.ipd.idaho.gamta.util.AnalyzerDataProviderFileBased;
 import de.uka.ipd.idaho.gamta.util.AnalyzerDataProviderPrefixBased;
 import de.uka.ipd.idaho.gamta.util.GamtaClassLoader;
-import de.uka.ipd.idaho.gamta.util.GamtaClassLoader.ComponentInitializer;
 import de.uka.ipd.idaho.plugins.bibRefs.BibRefUtils.RefData;
 
 /**

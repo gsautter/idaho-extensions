@@ -81,7 +81,16 @@ public class CountryDataHarvester {
 		dataPath.mkdirs();
 		
 		//	this is the master list for translations
-		TreeMap countries = new TreeMap(String.CASE_INSENSITIVE_ORDER);
+		final TreeSet isoCountries = new TreeSet(String.CASE_INSENSITIVE_ORDER);
+		TreeMap countries = new TreeMap(String.CASE_INSENSITIVE_ORDER) {
+			public Object put(Object key, Object value) {
+				if (isoCountries.contains(key) && !key.equals(value)) {
+					System.out.println("GOTCHA: wrongful mapping of ISO country " + key + " to " + value);
+					return value;
+				}
+				else return super.put(key, value);
+			}
+		};
 		TreeMap countryLangs = new TreeMap(String.CASE_INSENSITIVE_ORDER) {
 			public Object get(Object key) {
 				Object value = super.get(key);
@@ -98,6 +107,7 @@ public class CountryDataHarvester {
 		
 		//	get ISO 3166 data from Wikipedia
 		TreeMap countryIsoData = getCountryIsoData(false);
+		isoCountries.addAll(countryIsoData.keySet());
 		for (Iterator cnit = countryIsoData.keySet().iterator(); cnit.hasNext();) {
 			String cName = ((String) cnit.next());
 			TreeMap cData = ((TreeMap) countryIsoData.get(cName));
@@ -186,8 +196,17 @@ public class CountryDataHarvester {
 		for (Iterator cnit = countryList.keySet().iterator(); cnit.hasNext();) {
 			String cName = ((String) cnit.next());
 			String cListName = cName;
-			while (countries.containsKey(cName) && !cName.equals(countries.get(cName)))
-				cName = ((String) countries.get(cName));
+			while (countries.containsKey(cName) && !cName.equals(countries.get(cName))) {
+				String ncName = ((String) countries.get(cName));
+				if (countries.containsKey(ncName) && cName.equals(countries.get(ncName))) {
+					System.out.println(" - not normalizing " + cName + " to " + ncName + ", normalizes right back");
+					break;
+				}
+				else {
+					System.out.println(" - normalizing " + cName + " to " + ncName);
+					cName = ncName;
+				}
+			}
 			countries.put(cListName, cName);
 			((TreeSet) countryLangs.get(cListName)).add("WFB official");
 			System.out.println("LIST: " + cName + " (" + cListName + ")");
@@ -247,8 +266,17 @@ public class CountryDataHarvester {
 			System.out.println("WFB: " + cName);
 			String cOrigName = cName;
 			TreeMap cData = ((TreeMap) countryData.get(cName));
-			while (countries.containsKey(cName) && !cName.equals(countries.get(cName)))
-				cName = ((String) countries.get(cName));
+			while (countries.containsKey(cName) && !cName.equals(countries.get(cName))) {
+				String ncName = ((String) countries.get(cName));
+				if (countries.containsKey(ncName) && cName.equals(countries.get(ncName))) {
+					System.out.println(" - not normalizing " + cName + " to " + ncName + ", normalizes right back");
+					break;
+				}
+				else {
+					System.out.println(" - normalizing " + cName + " to " + ncName);
+					cName = ncName;
+				}
+			}
 			countries.put(cOrigName, cName);
 			((TreeSet) countryLangs.get(cOrigName)).add("WFB official");
 			System.out.println("WFB: " + cName + " ('" + cOrigName + "')");
@@ -358,8 +386,17 @@ public class CountryDataHarvester {
 			System.out.println("WFB: " + cName);
 			String cOrigName = cName;
 			TreeMap cData = ((TreeMap) countryData.get(cName));
-			while (countries.containsKey(cName) && !cName.equals(countries.get(cName)))
-				cName = ((String) countries.get(cName));
+			while (countries.containsKey(cName) && !cName.equals(countries.get(cName))) {
+				String ncName = ((String) countries.get(cName));
+				if (countries.containsKey(ncName) && cName.equals(countries.get(ncName))) {
+					System.out.println(" - not normalizing " + cName + " to " + ncName + ", normalizes right back");
+					break;
+				}
+				else {
+					System.out.println(" - normalizing " + cName + " to " + ncName);
+					cName = ncName;
+				}
+			}
 			System.out.println("WFB: " + cName + " ('" + cOrigName + "')");
 			String dpa = ((String) cData.get("Dependent_areas/value/0"));
 			if (dpa != null) {
@@ -391,8 +428,17 @@ public class CountryDataHarvester {
 		for (Iterator cnit = colonyData.keySet().iterator(); cnit.hasNext();) {
 			String colName = ((String) cnit.next());
 			String cName = ((String) colonyData.get(colName));
-			while (countries.containsKey(cName) && !cName.equals(countries.get(cName)))
-				cName = ((String) countries.get(cName));
+			while (countries.containsKey(cName) && !cName.equals(countries.get(cName))) {
+				String ncName = ((String) countries.get(cName));
+				if (countries.containsKey(ncName) && cName.equals(countries.get(ncName))) {
+					System.out.println(" - not normalizing " + cName + " to " + ncName + ", normalizes right back");
+					break;
+				}
+				else {
+					System.out.println(" - normalizing " + cName + " to " + ncName);
+					cName = ncName;
+				}
+			}
 			countries.put(colName, cName);
 			((TreeSet) countryLangs.get(colName)).add("English");
 			System.out.println("COL: " + colName + " -> " + cName);
@@ -413,8 +459,17 @@ public class CountryDataHarvester {
 			String cName = ((String) cnit.next());
 			System.out.println("FORMER: " + cName);
 			TreeSet fcns = ((TreeSet) formerCountryNames.get(cName));
-			while (countries.containsKey(cName) && !cName.equals(countries.get(cName)))
-				cName = ((String) countries.get(cName));
+			while (countries.containsKey(cName) && !cName.equals(countries.get(cName))) {
+				String ncName = ((String) countries.get(cName));
+				if (countries.containsKey(ncName) && cName.equals(countries.get(ncName))) {
+					System.out.println(" - not normalizing " + cName + " to " + ncName + ", normalizes right back");
+					break;
+				}
+				else {
+					System.out.println(" - normalizing " + cName + " to " + ncName);
+					cName = ncName;
+				}
+			}
 			for (Iterator fcnit = fcns.iterator(); fcnit.hasNext();) {
 				String fcName = ((String) fcnit.next());
 				countries.put(fcName, cName);
@@ -440,85 +495,10 @@ public class CountryDataHarvester {
 		for (Iterator cnit = countries.keySet().iterator(); cnit.hasNext();) {
 			String cName = ((String) cnit.next());
 			File translationDataFile = new File(translationFolder, ("t." + cName.replaceAll("[^a-zA-Z0-9]", "_") + ".xml"));
-			if (translationDataFile.exists()) {
-				final TreeMap cNameTranslations = new TreeMap(String.CASE_INSENSITIVE_ORDER);
-				BufferedReader tdfr = new BufferedReader(new InputStreamReader(new FileInputStream(translationDataFile), "UTF-8"));
-				xmlParser.stream(tdfr, new TokenReceiver() {
-					String language = null;
-					public void storeToken(String token, int treeDepth) throws IOException {
-						if (xml.isTag(token)) {
-							if ("translation".equals(xml.getType(token)) && !xml.isEndTag(token)) {
-								TreeNodeAttributeSet tnas = TreeNodeAttributeSet.getTagAttributes(token, xml);
-								this.language = tnas.getAttribute("lang");
-							}
-							else this.language = null;
-						}
-						else if (this.language != null)
-							cNameTranslations.put(this.language, xml.unescape(token));
-					}
-					public void close() throws IOException {}
-				});
-				tdfr.close();
-				while (countries.containsKey(cName) && !cName.equals(countries.get(cName)))
-					cName = ((String) countries.get(cName));
-				for (Iterator lit = cNameTranslations.keySet().iterator(); lit.hasNext();) {
-					String lang = ((String) lit.next());
-					String trans = ((String) cNameTranslations.get(lang));
-					String nTrans = normalizeString(trans);
-					if (nTrans.startsWith("Geschichte") || nTrans.startsWith("Histoire") || nTrans.startsWith("History") || nTrans.startsWith("Historia") || nTrans.startsWith("Historio") || nTrans.startsWith("Geschiedenis") || nTrans.startsWith("Storia"))
-						continue;
-					countriesTranslated.put(trans, cName);
-					((TreeSet) countryLangs.get(trans)).add(lang);
-					if (cName.indexOf(" and ") == -1)
-						continue;
-					String[] transParts = trans.split("((\\,\\s+)|(\\s+(y|va|und|un|u|tan|sy|si|og|och|na|me|ma|lae|ken|kap|kaj|ja|ir|in|i|he|ha|et|ed|e|doo|dhe|dan|da|ati|as|and|an|ak|agus|a)\\s+))");
-					for (int p = 0; p < transParts.length; p++) {
-						countriesTranslated.put(transParts[p], cName);
-						((TreeSet) countryLangs.get(transParts[p])).add(lang);
-					}
-				}
-			}
-			else if (!downloadRun)
-				continue;
-			else try {
-				TreeMap cNameTranslations = getWikipediaTranslations(cName);
-				translationDataFile.createNewFile();
-				BufferedWriter tdw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(translationDataFile), "UTF-8"));
-				tdw.write("<term value=\"" + xml.escape(cName) + "\">");
-				tdw.newLine();
-				for (Iterator lit = cNameTranslations.keySet().iterator(); lit.hasNext();) {
-					String lang = ((String) lit.next());
-					String lcName = ((String) cNameTranslations.get(lang));
-					tdw.write("\t<translation lang=\"" + xml.escape(lang) + "\">" + xml.escape(lcName) + "</translation>");
-					tdw.newLine();
-				}
-				tdw.write("</term>");
-				tdw.newLine();
-				tdw.flush();
-				tdw.close();
-				while (countries.containsKey(cName) && !cName.equals(countries.get(cName)))
-					cName = ((String) countries.get(cName));
-				for (Iterator lit = cNameTranslations.keySet().iterator(); lit.hasNext();) {
-					String lang = ((String) lit.next());
-					String trans = ((String) cNameTranslations.get(lang));
-					String nTrans = normalizeString(trans);
-					if (nTrans.startsWith("Geschichte") || nTrans.startsWith("Histoire") || nTrans.startsWith("History") || nTrans.startsWith("Historia") || nTrans.startsWith("Historio") || nTrans.startsWith("Geschiedenis") || nTrans.startsWith("Storia"))
-						continue;
-					countriesTranslated.put(trans, cName);
-					((TreeSet) countryLangs.get(trans)).add(lang);
-					if (cName.indexOf(" and ") == -1)
-						continue;
-					String[] transParts = trans.split("((\\,\\s+)|(\\s+(y|va|und|un|u|tan|sy|si|og|och|na|me|ma|lae|ken|kap|kaj|ja|ir|in|i|he|ha|et|ed|e|doo|dhe|dan|da|ati|as|and|an|ak|agus|a)\\s+))");
-					for (int p = 0; p < transParts.length; p++) {
-						countriesTranslated.put(transParts[p], cName);
-						((TreeSet) countryLangs.get(transParts[p])).add(lang);
-					}
-				}
-			}
-			catch (IOException ioe) {
-				System.out.println("Could not get translations for '" + cName + "': " + ioe.getMessage());
-				ioe.printStackTrace(System.out);
-			}
+			if (translationDataFile.exists())
+				loadCountryTranslations(cName, translationDataFile, isoToCountries, countryLangs, countriesTranslated);
+			else if (downloadRun)
+				downloadCountryTranslations(cName, translationDataFile, isoToCountries, countryLangs, countriesTranslated);
 		}
 		countries.putAll(countriesTranslated);
 		
@@ -536,8 +516,17 @@ public class CountryDataHarvester {
 						break;
 					}
 				}
-			while (countries.containsKey(cName) && !cName.equals(countries.get(cName)))
-				cName = ((String) countries.get(cName));
+			while (countries.containsKey(cName) && !cName.equals(countries.get(cName))) {
+				String ncName = ((String) countries.get(cName));
+				if (countries.containsKey(ncName) && cName.equals(countries.get(ncName))) {
+					System.out.println(" - not normalizing " + cName + " to " + ncName + ", normalizes right back");
+					break;
+				}
+				else {
+					System.out.println(" - normalizing " + cName + " to " + ncName);
+					cName = ncName;
+				}
+			}
 			for (Iterator lcnit = lcns.keySet().iterator(); lcnit.hasNext();) {
 				String lcName = ((String) lcnit.next());
 				countries.put(lcName, cName);
@@ -576,8 +565,17 @@ public class CountryDataHarvester {
 		for (Iterator cnit = countries.keySet().iterator(); cnit.hasNext();) {
 			String cName = ((String) cnit.next());
 			String ccName = cName;
-			while (countries.containsKey(ccName) && !ccName.equals(countries.get(ccName)))
-				ccName = ((String) countries.get(ccName));
+			while (countries.containsKey(ccName) && !ccName.equals(countries.get(ccName))) {
+				String nccName = ((String) countries.get(ccName));
+				if (countries.containsKey(nccName) && ccName.equals(countries.get(nccName))) {
+					System.out.println(" - not normalizing " + ccName + " to " + nccName + ", normalizes right back");
+					break;
+				}
+				else {
+					System.out.println(" - normalizing " + ccName + " to " + nccName);
+					ccName = nccName;
+				}
+			}
 			String cIso3 = ((String) countriesToIso.get(normalizeKey(ccName)));
 			if (cIso3 == null)
 				System.out.println(" - '" + cName + "' is '" + ccName + "' (NOT RESOLVED) in " + countryLangs.get(cName));
@@ -610,8 +608,17 @@ public class CountryDataHarvester {
 		for (Iterator cnit = countries.keySet().iterator(); cnit.hasNext();) {
 			String cName = ((String) cnit.next());
 			String rcName = cName;
-			while (countries.containsKey(rcName) && !rcName.equals(countries.get(rcName)))
-				rcName = ((String) countries.get(rcName));
+			while (countries.containsKey(rcName) && !rcName.equals(countries.get(rcName))) {
+				String nrcName = ((String) countries.get(rcName));
+				if (countries.containsKey(nrcName) && rcName.equals(countries.get(nrcName))) {
+					System.out.println(" - not normalizing " + rcName + " to " + nrcName + ", normalizes right back");
+					break;
+				}
+				else {
+					System.out.println(" - normalizing " + rcName + " to " + nrcName);
+					rcName = nrcName;
+				}
+			}
 			String cIso3 = ((String) countriesToIso.get(normalizeKey(rcName)));
 			String cIsoName = ((cIso3 == null) ? rcName : ((String) isoToCountries.get(cIso3)));
 			TreeMap cLangNames = ((TreeMap) countryDataList.get(cIsoName));
@@ -2641,5 +2648,90 @@ public class CountryDataHarvester {
 			cdw.close();
 		}
 		return countryData;
+	}
+
+	private static void loadCountryTranslations(String cName, File translationDataFile, TreeMap countries, TreeMap countryLangs, TreeMap countriesTranslated) throws IOException {
+		final TreeMap cNameTranslations = new TreeMap(String.CASE_INSENSITIVE_ORDER);
+		BufferedReader tdfr = new BufferedReader(new InputStreamReader(new FileInputStream(translationDataFile), "UTF-8"));
+		xmlParser.stream(tdfr, new TokenReceiver() {
+			String language = null;
+			public void storeToken(String token, int treeDepth) throws IOException {
+				if (xml.isTag(token)) {
+					if ("translation".equals(xml.getType(token)) && !xml.isEndTag(token)) {
+						TreeNodeAttributeSet tnas = TreeNodeAttributeSet.getTagAttributes(token, xml);
+						this.language = tnas.getAttribute("lang");
+					}
+					else this.language = null;
+				}
+				else if (this.language != null)
+					cNameTranslations.put(this.language, xml.unescape(token));
+			}
+			public void close() throws IOException {}
+		});
+		tdfr.close();
+		while (countries.containsKey(cName) && !cName.equals(countries.get(cName)))
+			cName = ((String) countries.get(cName));
+		for (Iterator lit = cNameTranslations.keySet().iterator(); lit.hasNext();) {
+			String lang = ((String) lit.next());
+			String trans = ((String) cNameTranslations.get(lang));
+			String nTrans = normalizeString(trans);
+			if (nTrans.startsWith("Geschichte") || nTrans.startsWith("Histoire") || nTrans.startsWith("History") || nTrans.startsWith("Historia") || nTrans.startsWith("Historio") || nTrans.startsWith("Geschiedenis") || nTrans.startsWith("Storia"))
+				continue;
+			countriesTranslated.put(trans, cName);
+			((TreeSet) countryLangs.get(trans)).add(lang);
+			if (cName.indexOf(" and ") == -1)
+				continue;
+			String[] transParts = trans.split("((\\,\\s+)|(\\s+(y|va|und|un|u|tan|sy|si|og|och|na|me|ma|lae|ken|kap|kaj|ja|ir|in|i|he|ha|et|ed|e|doo|dhe|dan|da|ati|as|and|an|ak|agus|a)\\s+))");
+			for (int p = 0; p < transParts.length; p++) {
+				countriesTranslated.put(transParts[p], cName);
+				((TreeSet) countryLangs.get(transParts[p])).add(lang);
+			}
+		}
+	}
+	
+	private static void downloadCountryTranslations(String cName, File translationDataFile, TreeMap countries, TreeMap countryLangs, TreeMap countriesTranslated) throws IOException {
+		try {
+			TreeMap cNameTranslations = getWikipediaTranslations(cName);
+			translationDataFile.createNewFile();
+			BufferedWriter tdw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(translationDataFile), "UTF-8"));
+			tdw.write("<term value=\"" + xml.escape(cName) + "\">");
+			tdw.newLine();
+			for (Iterator lit = cNameTranslations.keySet().iterator(); lit.hasNext();) {
+				String lang = ((String) lit.next());
+				String lcName = ((String) cNameTranslations.get(lang));
+				tdw.write("\t<translation lang=\"" + xml.escape(lang) + "\">" + xml.escape(lcName) + "</translation>");
+				tdw.newLine();
+			}
+			tdw.write("</term>");
+			tdw.newLine();
+			tdw.flush();
+			tdw.close();
+			while (countries.containsKey(cName) && !cName.equals(countries.get(cName)))
+				cName = ((String) countries.get(cName));
+			for (Iterator lit = cNameTranslations.keySet().iterator(); lit.hasNext();) {
+				String lang = ((String) lit.next());
+				String trans = ((String) cNameTranslations.get(lang));
+				String nTrans = normalizeString(trans);
+				if (nTrans.startsWith("Geschichte") || nTrans.startsWith("Histoire") || nTrans.startsWith("History") || nTrans.startsWith("Historia") || nTrans.startsWith("Historio") || nTrans.startsWith("Geschiedenis") || nTrans.startsWith("Storia"))
+					continue;
+				countriesTranslated.put(trans, cName);
+				((TreeSet) countryLangs.get(trans)).add(lang);
+				if (cName.indexOf(" and ") == -1)
+					continue;
+				String[] transParts = trans.split("((\\,\\s+)|(\\s+(y|va|und|un|u|tan|sy|si|og|och|na|me|ma|lae|ken|kap|kaj|ja|ir|in|i|he|ha|et|ed|e|doo|dhe|dan|da|ati|as|and|an|ak|agus|a)\\s+))");
+				for (int p = 0; p < transParts.length; p++) {
+					countriesTranslated.put(transParts[p], cName);
+					((TreeSet) countryLangs.get(transParts[p])).add(lang);
+				}
+			}
+		}
+		catch (IOException ioe) {
+			System.out.println("Could not get translations for '" + cName + "': " + ioe.getMessage());
+			ioe.printStackTrace(System.out);
+		}
+	}
+	
+	public static void mainAddCountry(String[] args) throws Exception {
+		
 	}
 }

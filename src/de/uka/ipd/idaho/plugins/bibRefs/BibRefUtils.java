@@ -34,10 +34,13 @@ import java.io.InputStreamReader;
 import java.io.StringWriter;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.LinkedHashMap;
+import java.util.LinkedHashSet;
+import java.util.Set;
 import java.util.TreeMap;
 import java.util.TreeSet;
 import java.util.regex.Matcher;
@@ -90,6 +93,8 @@ public class BibRefUtils implements BibRefConstants {
 	public static class RefData implements BibRefConstants {
 		private HashMap attributes = new HashMap();
 		
+		private HashMap categories = null; // TODO use this for category-name --> [category-value], akin to multi-valued attributes
+										   // TODO MODS this as mods:genre with categry name in type attribute
 		private LinkedHashMap identifiers = new LinkedHashMap();
 		static final String ID_PREFIX = (PUBLICATION_IDENTIFIER_ANNOTATION_TYPE + "-");
 		
@@ -158,17 +163,6 @@ public class BibRefUtils implements BibRefConstants {
 				values.add(valueObj);
 				this.attributes.put(name, values);
 			}
-//			Object aValue = this.attributes.get(name);
-//			if (aValue == null)
-//				this.attributes.put(name, value);
-//			else if (aValue instanceof ArrayList)
-//				((ArrayList) aValue).add(value);
-//			else {
-//				ArrayList values = new ArrayList(3);
-//				values.add(aValue);
-//				values.add(value);
-//				this.attributes.put(name, values);
-//			}
 		}
 		
 		/**
@@ -187,13 +181,11 @@ public class BibRefUtils implements BibRefConstants {
 				this.setIdentifier(name.substring(ID_PREFIX.length()), value);
 			else if (PUBLICATION_IDENTIFIER_ANNOTATION_TYPE.equals(name))
 				return;
-			
 			Object valueObj;
 			if (AUTHOR_ANNOTATION_TYPE.equals(name))
 				valueObj = new AuthorData(value);
 			else valueObj = value;
 			this.attributes.put(name, valueObj);
-//			this.attributes.put(name, value);
 		}
 		
 		/**
@@ -205,6 +197,7 @@ public class BibRefUtils implements BibRefConstants {
 		public void setIdentifier(String type, String id) {
 			if (this.identifiers == null)
 				this.identifiers = new LinkedHashMap();
+			id = normalizeIdentifier(type, id);
 			this.identifiers.put(type, id);
 			this.attributes.put(PUBLICATION_IDENTIFIER_ANNOTATION_TYPE, this.identifiers);
 		}
@@ -619,6 +612,60 @@ public class BibRefUtils implements BibRefConstants {
 			return ((String[]) ans.toArray(new String[ans.size()]));
 		}
 		
+		/* (non-Javadoc)
+		 * @see java.lang.Object#equals(java.lang.Object)
+		 */
+		public boolean equals(Object obj) {
+			return ((obj instanceof RefData) && this.equals((RefData) obj));
+		}
+		
+		/* (non-Javadoc)
+		 * @see java.lang.Object#equals(java.lang.Object)
+		 */
+		public boolean equals(RefData rd) {
+			if (rd == this)
+				return true;
+			if (rd == null)
+				return false;
+			if (rd.attributes.size() != this.attributes.size())
+				return false;
+			if (rd.identifiers.size() != this.identifiers.size())
+				return false;
+			for (Iterator anit = this.attributes.keySet().iterator(); anit.hasNext();) {
+				String an = ((String) anit.next());
+				if (!this.valuesEqual(rd.attributes.get(an), this.attributes.get(an)))
+					return false;
+			}
+			for (Iterator anit = this.identifiers.keySet().iterator(); anit.hasNext();) {
+				String an = ((String) anit.next());
+				if (!this.valuesEqual(rd.identifiers.get(an), this.identifiers.get(an)))
+					return false;
+			}
+			return true;
+		}
+		private boolean valuesEqual(Object rdValue, Object thisValue) {
+			if ((rdValue == null) && (thisValue == null))
+				return true;
+			if ((rdValue == null) || (thisValue == null))
+				return false;
+			if (rdValue instanceof String)
+				return rdValue.equals(thisValue);
+			if (rdValue instanceof AuthorData)
+				return rdValue.equals(thisValue);
+			if ((rdValue instanceof ArrayList) && (thisValue instanceof ArrayList)) {
+				ArrayList rdValueList = ((ArrayList) rdValue);
+				ArrayList thisValueList = ((ArrayList) thisValue);
+				if (rdValueList.size() != thisValueList.size())
+					return false;
+				for (int v = 0; v < rdValueList.size(); v++) {
+					if (!this.valuesEqual(rdValueList.get(v), thisValueList.get(v)))
+						return false;
+				}
+				return true;
+			}
+			return false;
+		}
+		
 		/**
 		 * Create an XML representation of the reference data set, e.g. for XSL
 		 * transformation.
@@ -635,15 +682,15 @@ public class BibRefUtils implements BibRefConstants {
 				xml.append(" " + PUBLICATION_TYPE_ATTRIBUTE + "=\"" + type + "\"");
 			xml.append(">");
 			for (int a = 0; a < refDataAttributeNames.length; a++)
-				this.appendAttribute(xml, refDataAttributeNames[a]);
-			this.appendIdentifiers(xml);
+				this.appendAttributeXml(xml, refDataAttributeNames[a]);
+			this.appendIdentifiersXml(xml);
 			xml.append("</" + BIBLIOGRAPHIC_REFERENCE_TYPE + ">");
 			
 			//	finally ...
 			return xml.toString();
 		}
 		
-		private void appendAttribute(StringBuffer xml, String name) {
+		private void appendAttributeXml(StringBuffer xml, String name) {
 			Object valueObj = this.attributes.get(name);
 			if (valueObj == null) {
 				if (PAGINATION_ANNOTATION_TYPE.equals(name))
@@ -659,45 +706,26 @@ public class BibRefUtils implements BibRefConstants {
 			if (valueObj == null)
 				return;
 			if (valueObj instanceof String)
-				this.appendAttribute(xml, name, ((String) valueObj));
+				this.appendAttributeXml(xml, name, ((String) valueObj));
 			else if (valueObj instanceof AuthorData)
-				this.appendAuthor(xml, ((AuthorData) valueObj));
+				this.appendAuthorXml(xml, ((AuthorData) valueObj));
 			else {
 				ArrayList values = ((ArrayList) valueObj);
 				for (int v = 0; v < values.size(); v++) {
 					valueObj = values.get(v);
 					if (valueObj instanceof String)
-						this.appendAttribute(xml, name, ((String) valueObj));
+						this.appendAttributeXml(xml, name, ((String) valueObj));
 					else if (valueObj instanceof AuthorData)
-						this.appendAuthor(xml, ((AuthorData) valueObj));
+						this.appendAuthorXml(xml, ((AuthorData) valueObj));
 				}
 			}
-//			String[] values = this.getAttributeValues(attributeName);
-//			if (values == null) {
-//				if (PAGINATION_ANNOTATION_TYPE.equals(attributeName))
-//					values = this.getAttributeValues("pageData");
-//				else if (this.getAttribute(PUBLICATION_TYPE_ATTRIBUTE) != null) {
-//					String type = this.getAttribute(PUBLICATION_TYPE_ATTRIBUTE);
-//					if (JOURNAL_NAME_ANNOTATION_TYPE.equals(attributeName) && type.startsWith("journal"))
-//						values = this.getAttributeValues(JOURNAL_NAME_OR_PUBLISHER_ANNOTATION_TYPE);
-//					else if (PUBLISHER_ANNOTATION_TYPE.equals(attributeName) && !type.startsWith("journal"))
-//						values = this.getAttributeValues(JOURNAL_NAME_OR_PUBLISHER_ANNOTATION_TYPE);
-//				}
-//			}
-//			if (values == null)
-//				return;
-//			for (int v = 0; v < values.length; v++) {
-//				xml.append("<" + attributeName + ">");
-//				xml.append(escaper.escape(values[v]));
-//				xml.append("</" + attributeName + ">");
-//			}
 		}
-		private void appendAttribute(StringBuffer xml, String name, String value) {
+		private void appendAttributeXml(StringBuffer xml, String name, String value) {
 			xml.append("<" + name + ">");
 			xml.append(escaper.escape(value));
 			xml.append("</" + name + ">");
 		}
-		private void appendAuthor(StringBuffer xml, AuthorData value) {
+		private void appendAuthorXml(StringBuffer xml, AuthorData value) {
 			xml.append("<" + AUTHOR_ANNOTATION_TYPE);
 			if (value.attributes != null)
 				for (Iterator anit = value.attributes.keySet().iterator(); anit.hasNext();) {
@@ -708,7 +736,7 @@ public class BibRefUtils implements BibRefConstants {
 			xml.append(escaper.escape(value.name));
 			xml.append("</" + AUTHOR_ANNOTATION_TYPE + ">");
 		}
-		private void appendIdentifiers(StringBuffer xml) {
+		private void appendIdentifiersXml(StringBuffer xml) {
 			if (this.identifiers == null)
 				return;
 			for (Iterator tit = this.identifiers.keySet().iterator(); tit.hasNext();) {
@@ -868,6 +896,43 @@ public class BibRefUtils implements BibRefConstants {
 			}
 			return stStr.toString();
 		}
+		
+		/* (non-Javadoc)
+		 * @see java.lang.Object#equals(java.lang.Object)
+		 */
+		public boolean equals(Object obj) {
+			return ((obj instanceof AuthorData) && this.equals((AuthorData) obj));
+		}
+		
+		/* (non-Javadoc)
+		 * @see java.lang.Object#equals(java.lang.Object)
+		 */
+		public boolean equals(AuthorData ad) {
+			if (ad == this)
+				return true;
+			if (ad == null)
+				return false;
+			if (!ad.name.equals(this.name))
+				return false;
+			if ((ad.attributes == null) && (this.attributes == null))
+				return true;
+			if ((ad.attributes == null) || (this.attributes == null))
+				return false;
+			if (ad.attributes.size() != this.attributes.size())
+				return false;
+			for (Iterator anit = this.attributes.keySet().iterator(); anit.hasNext();) {
+				String an = ((String) anit.next());
+				Object adValue = ad.attributes.get(an);
+				Object thisValue = this.attributes.get(an);
+				if ((adValue == null) && (thisValue == null))
+					continue;
+				if ((adValue == null) || (thisValue == null))
+					return false;
+				if (!adValue.equals(thisValue))
+					return false;
+			}
+			return true;
+		}
 	}
 	
 	/**
@@ -878,6 +943,18 @@ public class BibRefUtils implements BibRefConstants {
 	 * @return a reference data object representing the argument reference
 	 */
 	public static RefData genericXmlToRefData(QueriableAnnotation genericRef) {
+		return genericXmlToRefData(genericRef, true);
+	}
+	
+	/**
+	 * Transform a bibliographic reference annotation in generic format (like it
+	 * comes out of RefParse, for instance) into a reference data object. This
+	 * method splits publisher and location from one another if necessary.
+	 * @param genericRef the annotation to transform
+	 * @param normalizeWhitespace normalize whitespace in attribute values?
+	 * @return a reference data object representing the argument reference
+	 */
+	public static RefData genericXmlToRefData(QueriableAnnotation genericRef, boolean normalizeWhitespace) {
 		RefData rd = new RefData();
 		boolean gotPartDesignator = false;
 		
@@ -917,7 +994,7 @@ public class BibRefUtils implements BibRefConstants {
 							rd.addAttribute(genericAttributeNames[a], rAuthors[r]);
 					}
 					else {
-						String authorName = TokenSequenceUtils.concatTokens(details[d], true, true);
+						String authorName = TokenSequenceUtils.concatTokens(details[d], normalizeWhitespace, true);
 						rd.addAttribute(genericAttributeNames[a], authorName);
 						String[] aans = details[d].getAttributeNames();
 						for (int aa = 0; aa < aans.length; aa++)
@@ -957,7 +1034,7 @@ public class BibRefUtils implements BibRefConstants {
 				
 				//	journal name
 				if (gotPartDesignator)
-					rd.setAttribute(JOURNAL_NAME_ANNOTATION_TYPE, TokenSequenceUtils.concatTokens(details[0], true, true));
+					rd.setAttribute(JOURNAL_NAME_ANNOTATION_TYPE, TokenSequenceUtils.concatTokens(details[0], normalizeWhitespace, true));
 				
 				//	split publisher from location
 				else {
@@ -965,14 +1042,14 @@ public class BibRefUtils implements BibRefConstants {
 					if (split == -1)
 						split = TokenSequenceUtils.indexOf(details[0], ",");
 					if (split == -1)
-						rd.setAttribute(PUBLISHER_ANNOTATION_TYPE, TokenSequenceUtils.concatTokens(details[0], true, true));
+						rd.setAttribute(PUBLISHER_ANNOTATION_TYPE, TokenSequenceUtils.concatTokens(details[0], normalizeWhitespace, true));
 					else if (":".equals(details[0].valueAt(split))) {
-						rd.setAttribute(PUBLISHER_ANNOTATION_TYPE, TokenSequenceUtils.concatTokens(details[0], (split+1), (details[0].size() - (split+1)), true, true));
-						rd.setAttribute(LOCATION_ANNOTATION_TYPE, TokenSequenceUtils.concatTokens(details[0], 0, split, true, true));
+						rd.setAttribute(PUBLISHER_ANNOTATION_TYPE, TokenSequenceUtils.concatTokens(details[0], (split+1), (details[0].size() - (split+1)), normalizeWhitespace, true));
+						rd.setAttribute(LOCATION_ANNOTATION_TYPE, TokenSequenceUtils.concatTokens(details[0], 0, split, normalizeWhitespace, true));
 					}
 					else {
-						rd.setAttribute(LOCATION_ANNOTATION_TYPE, TokenSequenceUtils.concatTokens(details[0], (split+1), (details[0].size() - (split+1)), true, true));
-						rd.setAttribute(PUBLISHER_ANNOTATION_TYPE, TokenSequenceUtils.concatTokens(details[0], 0, split, true, true));
+						rd.setAttribute(LOCATION_ANNOTATION_TYPE, TokenSequenceUtils.concatTokens(details[0], (split+1), (details[0].size() - (split+1)), normalizeWhitespace, true));
+						rd.setAttribute(PUBLISHER_ANNOTATION_TYPE, TokenSequenceUtils.concatTokens(details[0], 0, split, normalizeWhitespace, true));
 					}
 				}
 				
@@ -981,7 +1058,18 @@ public class BibRefUtils implements BibRefConstants {
 			
 			//	handle other details
 			for (int d = 0; d < details.length; d++)
-				rd.addAttribute(genericAttributeNames[a], TokenSequenceUtils.concatTokens(details[d], true, true));
+				rd.addAttribute(genericAttributeNames[a], TokenSequenceUtils.concatTokens(details[d], normalizeWhitespace, true));
+		}
+		
+		//	add generic identifiers
+		Annotation[] refIDs = genericRef.getAnnotations(PUBLICATION_IDENTIFIER_ANNOTATION_TYPE);
+		for (int i = 0; i < refIDs.length; i++) {
+			String idType = ((String) refIDs[i].getAttribute(TYPE_ATTRIBUTE));
+			if (idType == null)
+				continue;
+			if (rd.getIdentifier(idType) != null)
+				continue;
+			rd.setIdentifier(idType, TokenSequenceUtils.concatTokens(refIDs[i], false, true));
 		}
 		
 		//	get type, induce if necessary
@@ -1133,6 +1221,8 @@ public class BibRefUtils implements BibRefConstants {
 		return rd;
 	}
 	
+	//	TODO add attribute setter flags to store (a) metadata only, (b) categories only, and (c) both
+	
 	/**
 	 * Store details of a bibliographic reference in its object representation
 	 * in qualified attributes of an attribute bearing object. The attributes
@@ -1144,7 +1234,22 @@ public class BibRefUtils implements BibRefConstants {
 	 * @param ref the bibliographic reference to store
 	 */
 	public static void toModsAttributes(RefData ref, Attributed target) {
-		toPrefixedAttributes(ref, target, "mods:");
+		toModsAttributes(ref, target, true);
+	}
+	
+	/**
+	 * Store details of a bibliographic reference in its object representation
+	 * in qualified attributes of an attribute bearing object. The attributes
+	 * of the argument reference are stored in equally-named attributes to the
+	 * argument attribute bearer, prefixed with 'mods:'. Further, any 'mods:'
+	 * prefixed attributes that are not present in the argument reference
+	 * object are removed.
+	 * @param target the object to add the reference attributes to
+	 * @param ref the bibliographic reference to store
+	 * @param includeAuthorDetails include author details?
+	 */
+	public static void toModsAttributes(RefData ref, Attributed target, boolean includeAuthorDetails) {
+		toPrefixedAttributes(ref, target, "mods:", includeAuthorDetails);
 	}
 	
 	/**
@@ -1161,6 +1266,24 @@ public class BibRefUtils implements BibRefConstants {
 	 * @param prefix the prefix to use for identifying the attribute names
 	 */
 	public static void toPrefixedAttributes(RefData ref, Attributed target, String prefix) {
+		toPrefixedAttributes(ref, target, prefix, true);
+	}
+	
+	/**
+	 * Store details of a bibliographic reference in its object representation
+	 * in qualified attributes of an attribute bearing object. The attributes
+	 * of the argument reference are stored in equally-named attributes to the
+	 * argument attribute bearer, prefixed with the argument prefix. Further,
+	 * any attributes with the same prefix that are not present in the argument
+	 * reference object are removed. The argument prefix does not necessarily
+	 * have to be an XML namespace qualifier, but must form valid XML attribute
+	 * names in combination with the generic bibliographic attribute names.
+	 * @param target the object to add the reference attributes to
+	 * @param ref the bibliographic reference to store
+	 * @param prefix the prefix to use for identifying the attribute names
+	 * @param includeAuthorDetails include author details?
+	 */
+	public static void toPrefixedAttributes(RefData ref, Attributed target, String prefix, boolean includeAuthorDetails) {
 		
 		//	collect existing attributes
 		String[] targetAttributeNames = target.getAttributeNames();
@@ -1176,10 +1299,12 @@ public class BibRefUtils implements BibRefConstants {
 			if (!AnnotationUtils.isValidAnnotationType(idTypes[i]))
 				continue;
 			String id = ref.getIdentifier(idTypes[i]);
-			if ((id != null) && (id.trim().length() != 0)) {
-				target.setAttribute((prefix + RefData.ID_PREFIX + idTypes[i]), id.trim());
-				spuriousTargetAttributeNames.remove(RefData.ID_PREFIX + idTypes[i]);
-			}
+			if ((id == null) || (id.trim().length() == 0))
+				continue;
+			id = id.trim();
+			id = normalizeIdentifier(idTypes[i], id);
+			target.setAttribute((prefix + RefData.ID_PREFIX + idTypes[i]), id);
+			spuriousTargetAttributeNames.remove(RefData.ID_PREFIX + idTypes[i]);
 		}
 		
 		//	store all attributes explicitly
@@ -1199,22 +1324,24 @@ public class BibRefUtils implements BibRefConstants {
 		}
 		
 		//	persist author details
-		String[] refAuthorNames = ref.getAttributeValues(AUTHOR_ANNOTATION_TYPE);
-		if (refAuthorNames != null) {
-			String[] authorAttributeNames = ref.getAuthorAttributeNames();
-			for (int n = 0; n < authorAttributeNames.length; n++) {
-				if (AuthorData.AUTHOR_NAME_ATTRIBUTE.equals(authorAttributeNames[n]))
-					continue;
-				StringBuffer attributeValue = new StringBuffer();
-				for (int a = 0; a < refAuthorNames.length; a++) {
-					if (a != 0)
-						attributeValue.append(" &&& ");
-					String authorAttributeValue = ref.getAuthorAttribute(refAuthorNames[a], authorAttributeNames[n]);
-					if (authorAttributeValue != null)
-						attributeValue.append(authorAttributeValue);
+		if (includeAuthorDetails) {
+			String[] refAuthorNames = ref.getAttributeValues(AUTHOR_ANNOTATION_TYPE);
+			if (refAuthorNames != null) {
+				String[] authorAttributeNames = ref.getAuthorAttributeNames();
+				for (int n = 0; n < authorAttributeNames.length; n++) {
+					if (AuthorData.AUTHOR_NAME_ATTRIBUTE.equals(authorAttributeNames[n]))
+						continue;
+					StringBuffer attributeValue = new StringBuffer();
+					for (int a = 0; a < refAuthorNames.length; a++) {
+						if (a != 0)
+							attributeValue.append(" &&& ");
+						String authorAttributeValue = ref.getAuthorAttribute(refAuthorNames[a], authorAttributeNames[n]);
+						if (authorAttributeValue != null)
+							attributeValue.append(authorAttributeValue);
+					}
+					target.setAttribute((prefix + AUTHOR_ANNOTATION_TYPE + "-" + authorAttributeNames[n]), attributeValue.toString());
+					spuriousTargetAttributeNames.remove(AUTHOR_ANNOTATION_TYPE + "-" + authorAttributeNames[n]);
 				}
-				target.setAttribute((prefix + AUTHOR_ANNOTATION_TYPE + "-" + authorAttributeNames[n]), attributeValue.toString());
-				spuriousTargetAttributeNames.remove(AUTHOR_ANNOTATION_TYPE + "-" + authorAttributeNames[n]);
 			}
 		}
 		
@@ -1232,6 +1359,8 @@ public class BibRefUtils implements BibRefConstants {
 	 * @return a reference data object representing the argument reference
 	 */
 	public static RefData modsXmlToRefData(QueriableAnnotation modsRef) {
+		
+		//	TODO also read categories
 		
 		//	copy document
 		modsRef = Gamta.copyDocument(modsRef);
@@ -1314,7 +1443,7 @@ public class BibRefUtils implements BibRefConstants {
 	private static void extractDetails(QueriableAnnotation data, String type, GPath path, RefData rd) {
 		Annotation[] details = path.evaluate(data, null);
 		for (int d = 0; d < details.length; d++) {
-			rd.addAttribute(type, TokenSequenceUtils.concatTokens(details[d], !PUBLICATION_DATE_ANNOTATION_TYPE.equals(type), true));
+			rd.addAttribute(type, TokenSequenceUtils.concatTokens(details[d], (!PUBLICATION_DATE_ANNOTATION_TYPE.equals(type) && !ACCESS_DATE_ANNOTATION_TYPE.equals(type)), true));
 			if (TITLE_ANNOTATION_TYPE.equals(type))
 				break;
 		}
@@ -1407,6 +1536,66 @@ public class BibRefUtils implements BibRefConstants {
 		originInfoDetailPathsByType.put(ACCESS_DATE_ANNOTATION_TYPE, originInfo_accessDatePath);
 		originInfoDetailPathsByType.put(PUBLISHER_ANNOTATION_TYPE, originInfo_publisherNamePath);
 		originInfoDetailPathsByType.put(LOCATION_ANNOTATION_TYPE, originInfo_publisherLocationPath);
+	}
+	
+	private static Set identifierNormalizers = Collections.synchronizedSet(new LinkedHashSet());
+	
+	/**
+	 * Normalizer for publication identifiers, allowing client code to inject
+	 * custom normalization routines as needed.
+	 * 
+	 * @author sautter
+	 */
+	public static interface IdentifierNormalizer {
+		
+		/**
+		 * Normalize an identifier. If the normalizer deems the argument
+		 * identifier invalid for the argument type altogether, it should
+		 * indicate so by throwing an <code>IllegalArgumentException</code>.
+		 * Implementations of this method must be idempotent, i.e., handing
+		 * the return of one call of this method to this method again with the
+		 * same argument identifier type must produce the same result.
+		 * @param type the type of identifier to normalize
+		 * @param id the identifier to normalize
+		 * @return the normalized identifier
+		 * @throws IllegalArgumentException if the argument identifier is
+		 *        invalid for the argument type
+		 */
+		public abstract String normalizeIdentifier(String type, String id) throws IllegalArgumentException;
+	}
+	
+	/**
+	 * Add a normalizer for publication identifiers.
+	 * @param in the identifier normalizer to add
+	 */
+	public static void addIdentifierNormalizer(IdentifierNormalizer in) {
+		if (in != null)
+			identifierNormalizers.add(in);
+	}
+	
+	/**
+	 * Remove a normalizer for publication identifiers.
+	 * @param in the identifier normalizer to remove
+	 */
+	public static void removeIdentifierNormalizer(IdentifierNormalizer in) {
+		identifierNormalizers.remove(in);
+	}
+	
+	/**
+	 * Normalize a publication identifier via the registered normalizers. If
+	 * any of the registered normalizers considers the argument identifier
+	 * invalid for the argument type, this method throws an
+	 * <code>IllegalArgumentException</code>.
+	 * @param type the type of identifier to normalize
+	 * @param id the identifier to normalize
+	 * @return the normalized identifier
+	 * @throws IllegalArgumentException if the argument identifier is invalid
+	 *            for the argument type
+	 */
+	public static String normalizeIdentifier(String type, String id) throws IllegalArgumentException {
+		for (Iterator init = identifierNormalizers.iterator(); init.hasNext();)
+			id = ((IdentifierNormalizer) init.next()).normalizeIdentifier(type, id);
+		return id;
 	}
 	
 	/**
@@ -2004,6 +2193,82 @@ public class BibRefUtils implements BibRefConstants {
 		}
 		if ("mods:mods".equals(mods.getType()))
 			mods.setAttribute("xmlns:mods", "http://www.loc.gov/mods/v3");
+	}
+	
+	/**
+	 * Obtain the bibliography for a given document. By default, this method
+	 * plainly returns <code>doc.getAnnotations(&quot;bibRef&quot;)</code>. If
+	 * any <code>BibliographySource</code>s are registered, however, they are
+	 * consulted first.
+	 * @param doc the document to obtain the bibliography for
+	 * @return an array holding the individual references
+	 */
+	public static QueriableAnnotation[] getBibliography(QueriableAnnotation doc) {
+		if (bibliographySources != null)
+			for (Iterator bsit = bibliographySources.iterator(); bsit.hasNext();) {
+				BibliographySource bs = ((BibliographySource) bsit.next());
+				QueriableAnnotation[] bibRefs = bs.getBibliographyFor(doc);
+				if (bibRefs == null)
+					continue;
+				if (bibRefs.length == 0)
+					continue;
+				return bibRefs;
+			}
+		return doc.getAnnotations(BIBLIOGRAPHIC_REFERENCE_TYPE);
+	}
+	private static LinkedHashSet bibliographySources = null;
+	
+	/**
+	 * Source to retrieve the bibliography of a document from, to help in cases
+	 * of the bibliography not being included towards the end of a publication.
+	 * This can, for instance, happen with book documents that represent the
+	 * individual chapters of a book, with a single bibliography given for the
+	 * whole book after the last chapter.
+	 * 
+	 * Because implementations of this interface take precedence over simply
+	 * getting the bibliographic references annotated in a document, they (a)
+	 * should be rather conservative at returning an arbitrary bibliography and
+	 * (b) should not need to perform lengthy computations to determine whether
+	 * or not they have a bibliography available for a given document.
+	 * 
+	 * @author sautter
+	 */
+	public static interface BibliographySource {
+		
+		/**
+		 * Retrieve the bibliography for a given document, in the form of a
+		 * sorted array of annotated bibliographic references. If a source
+		 * does not have a bibliography available for a given document, this
+		 * method should return null.
+		 * @param doc the document to obtain the bibliography for
+		 * @return an array holding the individual references
+		 */
+		public abstract QueriableAnnotation[] getBibliographyFor(QueriableAnnotation doc);
+	}
+	
+	/**
+	 * Add a bibliography source for client code to use. Adding the same
+	 * bibliography source multiple times has no effect.
+	 * @param bibSource the bibliography source to add
+	 */
+	public static void addBibliographySource(BibliographySource bibSource) {
+		if (bibSource == null)
+			return;
+		if (bibliographySources == null)
+			bibliographySources = new LinkedHashSet();
+		bibliographySources.add(bibSource);
+	}
+	
+	/**
+	 * Remove a bibliography source.
+	 * @param bibSource the bibliography source to remove
+	 */
+	public static void removeBibliographySource(BibliographySource bibSource) {
+		if (bibSource == null)
+			return;
+		if (bibliographySources == null)
+			return;
+		bibliographySources.remove(bibSource);
 	}
 	
 	private static class BibRefStringFunction implements GPathFunction {
